@@ -16,7 +16,7 @@ author: James Chen
 What Is a Zero-Lot-Line House?
 ## What Is a Zero-Lot-Line House?
 
-A zero-lot-line house is a piece of residential [real estate](https://www.investopedia.com/terms/r/realestate.asp) in which the structure comes up to, or very near to, the edge of the property line. Rowhouses, garden homes, patio homes, and townhomes are all types of properties that may be zero-lot-line homes. They may be attached (as in a townhouse) or a detached single story or multistory residence.
+A zero-lot-line house is a piece of residential [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) in which the structure comes up to, or very near to, the edge of the property line. Rowhouses, garden homes, patio homes, and townhomes are all types of properties that may be zero-lot-line homes. They may be attached (as in a townhouse) or a detached single story or multistory residence.
 
 ### key takeaways
 
@@ -40,7 +40,7 @@ Though they cost less than homes with lots of extra acreage, zero-lot-line homes
 houses—without the time-consuming demands of upkeep and the expense of  
 large backyards or front lawns.
 
-These homes are also an appealing alternative to [condos](https://www.investopedia.com/articles/mortgages-real-estate/09/issues-purchasing-condo.asp) because they offer greater privacy and independence while still being low-maintenance. A common complaint in condominium settings is that a homeowner shares walls with as many as five neighbors, increasing the chances of noise disturbances from neighbors and eroding any sense of privacy. While certain zero-lot-line homes, such as townhouses and rowhouses, still include shared walls, there are fewer of them. Other zero-lot-line options, such as garden homes, offer homeowners the freedom of a standalone structure.
+These homes are also an appealing alternative to [[condos]](https://www.investopedia.com/articles/mortgages-real-estate/09/issues-purchasing-condo.asp) because they offer greater privacy and independence while still being low-maintenance. A common complaint in condominium settings is that a homeowner shares walls with as many as five neighbors, increasing the chances of noise disturbances from neighbors and eroding any sense of privacy. While certain zero-lot-line homes, such as townhouses and rowhouses, still include shared walls, there are fewer of them. Other zero-lot-line options, such as garden homes, offer homeowners the freedom of a standalone structure.
 
 Because zero lot developments often incorporate shared spaces into their design—features such as shared back alleys and front porches right at the street—many of these home encourage a real sense of community among neighbors.
 

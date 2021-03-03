@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Demutualization
 ## What Is Demutualization?
 
-Demutualization is a process by which a private, member-owned company, such as a co-op, or a mutual life insurance company, legally changes its structure, in order to become a public-traded company owned by [shareholders](https://www.investopedia.com/terms/s/shareholder.asp).
+Demutualization is a process by which a private, member-owned company, such as a co-op, or a mutual life insurance company, legally changes its structure, in order to become a public-traded company owned by [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp).
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Demutualization is a process by which a private, member-owned company, such as a
 
 Demutualization involves the complex process of transitioning a company’s financial structure, from a mutual company into a shareholder-driven model. Mutual companies (not to be confused with mutual funds) are entities seeded by private investors who are also customers or members of these operations. Businesses such as insurance companies, savings and loan associations, banking trusts, and credit unions are commonly structured as mutual companies.
 
-Mutual insurance companies typically collect policyholder [premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) from their members and spread risk and profits through various mechanisms. In America, this practice dates back to 1716, when the nation's first-ever insurance company was created by the Synod of Philadelphia, which structured the operation as a mutual company.
+Mutual insurance companies typically collect policyholder [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) from their members and spread risk and profits through various mechanisms. In America, this practice dates back to 1716, when the nation's first-ever insurance company was created by the Synod of Philadelphia, which structured the operation as a mutual company.
 
 In 2000 and 2001, a flurry of noteworthy demutualization events occurred in the insurance space, with the demutualization of Prudential Insurance Company, Sun Life Assurance Company, Phoenix Home Life Mutual Insurance Company, Principal Life Insurance Company, and the Metropolitan Life Insurance Company (MetLife).
 
@@ -36,7 +36,7 @@ In 2000 and 2001, a flurry of noteworthy demutualization events occurred in the 
 
 In a demutualization, a mutual company elects to change its corporate structure to a public company, where prior members may receive a structured compensation or ownership conversion rights in the transition, in the form of shares in the company.
 
-Several demutualization methodologies exist. In a "full demutualization," a company launches an initial public offering (IPO), where it auctions stock to shareholders, who may trade their equity positions over a public [market exchange](https://www.investopedia.com/terms/e/exchange.asp). Under this scenario, the former members of the mutual company do not automatically receive stock, and must consequently invest separately.
+Several demutualization methodologies exist. In a "full demutualization," a company launches an initial public offering (IPO), where it auctions stock to shareholders, who may trade their equity positions over a public [[market exchange]](https://www.investopedia.com/terms/e/exchange.asp). Under this scenario, the former members of the mutual company do not automatically receive stock, and must consequently invest separately.
 
 Alternatively, with the “sponsored demutualization” method, after the IPO, former members of the mutual company automatically receive shares in the newly-formed company. Under this model, members typically receive greater compensation for their previous membership and, generally, don’t have to invest personal capital in the newly-issued shares. However, they may buy additional shares, if they choose.
 

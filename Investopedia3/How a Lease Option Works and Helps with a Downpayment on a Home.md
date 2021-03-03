@@ -56,7 +56,7 @@ The renter has a chance to buy a property in the future at today's prices. If th
 
 Even if the potential buyer has the means to purchase the property, they may not want to commit to it right away. For example, if the potential buyer is from another place, they might want to live in the new town before committing to the purchase. Or, they may still have their old property to sell before being able to buy the new property.
 
-Finally, the property may not qualify for certain loans, including a [VA loan](https://www.investopedia.com/terms/v/valoan.asp), due to needed repairs or upgrades. By renting first, the potential buyer can make those improvements in order to qualify for the loan later.
+Finally, the property may not qualify for certain loans, including a [[VA loan]](https://www.investopedia.com/terms/v/valoan.asp), due to needed repairs or upgrades. By renting first, the potential buyer can make those improvements in order to qualify for the loan later.
 
 ### Why Owners Enter into a Lease Option
 

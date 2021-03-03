@@ -16,9 +16,9 @@ author: Chris B. Murphy
 How the Tier 1 Leverage Ratio Is Used to Evaluate Core Capital
 ## What Is the Tier 1 Leverage Ratio?
 
-The Tier 1 leverage ratio measures a bank's [core capital](https://www.investopedia.com/terms/c/core-capital.asp) relative to its total assets. The ratio looks specifically at [Tier 1 capital](https://www.investopedia.com/terms/t/tier1capital.asp) to judge how leveraged a bank is based on its assets. Tier 1 capital are those assets that can be easily liquidated if a bank needs capital in the event of a financial crisis. The Tier 1 leverage ratio is thus a measure of a bank's near-term [financial health](https://www.investopedia.com/terms/f/financial-health.asp).
+The Tier 1 leverage ratio measures a bank's [[core capital]](https://www.investopedia.com/terms/c/core-capital.asp) relative to its total assets. The ratio looks specifically at [[Tier 1 capital]](https://www.investopedia.com/terms/t/tier1capital.asp) to judge how leveraged a bank is based on its assets. Tier 1 capital are those assets that can be easily liquidated if a bank needs capital in the event of a financial crisis. The Tier 1 leverage ratio is thus a measure of a bank's near-term [[financial health]](https://www.investopedia.com/terms/f/financial-health.asp).
 
-The Tier 1 leverage ratio is frequently used by regulators to ensure the capital adequacy of banks and to place constraints on the degree to which a financial company can [leverage](https://www.investopedia.com/terms/l/leverage.asp) its capital base.
+The Tier 1 leverage ratio is frequently used by regulators to ensure the capital adequacy of banks and to place constraints on the degree to which a financial company can [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) its capital base.
 
 ### Key Takeaways
 
@@ -38,19 +38,19 @@ Tier 1 Leverage Ratio\=Tier 1 CapitalConsolidated Assets×100where:Tier 1
 
 ## What Does the Tier 1 Leverage Ratio Tell You?
 
-The Tier 1 leverage ratio was introduced by the [Basel III](https://www.investopedia.com/terms/b/basell-iii.asp) accords, an international regulatory banking treaty proposed by the [Basel Committee on Banking Supervision](https://www.investopedia.com/terms/b/baselcommittee.asp) in 2009. The ratio uses Tier 1 capital to evaluate how leveraged a bank is in relation to its overall assets. The higher the Tier 1 leverage ratio is, the higher the likelihood that the bank could withstand a negative shock to its balance sheet.
+The Tier 1 leverage ratio was introduced by the [[Basel III]](https://www.investopedia.com/terms/b/basell-iii.asp) accords, an international regulatory banking treaty proposed by the [[Basel Committee on Banking Supervision]](https://www.investopedia.com/terms/b/baselcommittee.asp) in 2009. The ratio uses Tier 1 capital to evaluate how leveraged a bank is in relation to its overall assets. The higher the Tier 1 leverage ratio is, the higher the likelihood that the bank could withstand a negative shock to its balance sheet.
 
 ### Components of the Tier 1 Leverage Ratio
 
 Tier 1 capital is the core capital of a bank according to Basel III and consists of the most stable and liquid capital as well as the most effective at absorbing losses during a financial crisis or downturn.
 
-The denominator in the Tier 1 leverage ratio is a bank's total exposures, which include its consolidated assets, derivative exposure, and certain off-balance sheet exposures. Basel III required banks to include off-balance-sheet exposures, such as commitments to provide loans to third parties, [standby letters of credit](https://www.investopedia.com/terms/s/standbyletterofcredit.asp) (SLOC), acceptances, and trade letters of credit.
+The denominator in the Tier 1 leverage ratio is a bank's total exposures, which include its consolidated assets, derivative exposure, and certain off-balance sheet exposures. Basel III required banks to include off-balance-sheet exposures, such as commitments to provide loans to third parties, [[standby letters of credit]](https://www.investopedia.com/terms/s/standbyletterofcredit.asp) (SLOC), acceptances, and trade letters of credit.
 
 ### Tier 1 Leverage Ratio Requirements
 
 Basel III established a 3% minimum requirement for the Tier 1 leverage ratio, while it left open the possibility of increasing that threshold for certain systematically important financial institutions.
 
-In 2014, the Federal Reserve, the [Office of the Comptroller of the Currency](https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp) (OCC), and the Federal Deposit Insurance Corporation (FDIC) released regulatory capital rules that imposed higher [leverage ratios](https://www.investopedia.com/terms/l/leverageratio.asp) for banks of certain sizes effective as of Jan. 1, 2018. Bank holding companies with more than $700 billion in consolidated total assets or more than $10 trillion in assets under management must maintain an additional 2% buffer, making their minimum Tier 1 leverage ratios 5%.
+In 2014, the Federal Reserve, the [[Office of the Comptroller of the Currency]](https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp) (OCC), and the Federal Deposit Insurance Corporation (FDIC) released regulatory capital rules that imposed higher [[leverage ratios]](https://www.investopedia.com/terms/l/leverageratio.asp) for banks of certain sizes effective as of Jan. 1, 2018. Bank holding companies with more than $700 billion in consolidated total assets or more than $10 trillion in assets under management must maintain an additional 2% buffer, making their minimum Tier 1 leverage ratios 5%.
 
 In addition, if an insured depository institution is being covered by a corrective action framework, meaning it demonstrated capital deficiencies in the past, it must demonstrate at least a 6% Tier 1 leverage ratio to be considered well-capitalized.
 

@@ -18,7 +18,7 @@ Heteroskedasticity
 
 In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard deviations of a predicted variable, monitored over different values of an independent variable or as related to prior time periods, are non-constant. With heteroskedasticity, the tell-tale sign upon visual inspection of the residual errors is that they will tend to fan out over time, as depicted in the image below.
 
-Heteroskedasticity often arises in two forms: conditional and unconditional. Conditional heteroskedasticity identifies nonconstant [volatility](https://www.investopedia.com/terms/v/volatility.asp) related to prior period's (e.g., daily) volatility. Unconditional heteroskedasticity refers to general structural changes in volatility that are not related to prior period volatility. Unconditional heteroskedasticity is used when future periods of high and low volatility can be identified.
+Heteroskedasticity often arises in two forms: conditional and unconditional. Conditional heteroskedasticity identifies nonconstant [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) related to prior period's (e.g., daily) volatility. Unconditional heteroskedasticity refers to general structural changes in volatility that are not related to prior period volatility. Unconditional heteroskedasticity is used when future periods of high and low volatility can be identified.
 
 Image by Julie Bang © Investopedia 2019 
 
@@ -26,13 +26,13 @@ Image by Julie Bang © Investopedia 2019
 
 -   In statistics, heteroskedasticity (or heteroscedasticity) happens when the standard errors of a variable, monitored over a specific amount of time, are non-constant.
 -   With heteroskedasticity, the tell-tale sign upon visual inspection of the residual errors is that they will tend to fan out over time, as depicted in the image above.
--   Heteroskedasticity is a violation of the assumptions for linear regression modeling, and so it can impact the validity of [econometric analysis](https://www.investopedia.com/terms/e/econometrics.asp) or financial models like CAPM.
+-   Heteroskedasticity is a violation of the assumptions for linear regression modeling, and so it can impact the validity of [[econometric analysis]](https://www.investopedia.com/terms/e/econometrics.asp) or financial models like CAPM.
 
 While heteroskedasticity does not cause bias in the coefficient estimates, it does make them less precise; lower precision increases the likelihood that the coefficient estimates are further from the correct population value.
 
 ## The Basics of Heteroskedasticity
 
-In finance, conditional heteroskedasticity is often seen in the prices of stocks and bonds. [The level of volatility](https://www.investopedia.com/articles/active-trading/040515/how-profit-volatility.asp) of these equities cannot be predicted over any period. Unconditional heteroskedasticity can be used when discussing variables that have identifiable seasonal variability, such as electricity usage.
+In finance, conditional heteroskedasticity is often seen in the prices of stocks and bonds. [[The level of volatility]](https://www.investopedia.com/articles/active-trading/040515/how-profit-volatility.asp) of these equities cannot be predicted over any period. Unconditional heteroskedasticity can be used when discussing variables that have identifiable seasonal variability, such as electricity usage.
 
 As it relates to statistics, heteroskedasticity (also spelled _heteroscedasticity)_ refers to the error variance, or dependence of scattering, within a minimum of one independent variable within a particular sample. These variations can be used to calculate the margin of error between data sets, such as expected results and actual results, as it provides a measure of the deviation of data points from the mean value.
 

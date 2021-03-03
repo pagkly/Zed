@@ -16,7 +16,7 @@ author: James Chen
 Liquid Asset
 ## What Is a Liquid Asset?
 
-A liquid asset is an asset that can easily be converted into cash in a short amount of time. Liquid assets include things like cash, [money market](https://www.investopedia.com/terms/m/moneymarket.asp) instruments, and marketable securities. Both individuals and businesses can be concerned with tracking liquid assets as a portion of their net worth. For the purposes of financial accounting, a company’s liquid assets are reported on its balance sheet as current assets.
+A liquid asset is an asset that can easily be converted into cash in a short amount of time. Liquid assets include things like cash, [[money market]](https://www.investopedia.com/terms/m/moneymarket.asp) instruments, and marketable securities. Both individuals and businesses can be concerned with tracking liquid assets as a portion of their net worth. For the purposes of financial accounting, a company’s liquid assets are reported on its balance sheet as current assets.
 
 ## Understanding Liquid Assets
 
@@ -43,7 +43,7 @@ In financial accounting, the balance sheet breaks assets down by current and lon
 
 Cash is [legal tender](https://www.investopedia.com/terms/l/legal-tender.asp) that an individual or company can use to make payments on liability obligations. Cash equivalents and marketable securities follow cash as investments that can be transacted for cash within a very short period, often immediately in the open market. Other current assets can also include accounts receivable and inventory.
 
-On the balance sheet, assets become less liquid by their hierarchy. As such, the long-term assets portion of the balance sheet includes non-liquid assets. These assets are expected for cash conversion in one year or more. Land, [real estate](https://www.investopedia.com/terms/r/realestate.asp) investments, equipment, and machinery are considered types of non-liquid assets because they take time to convert to cash, costs can be incurred to convert them to cash, and they may not convert to cash at all.
+On the balance sheet, assets become less liquid by their hierarchy. As such, the long-term assets portion of the balance sheet includes non-liquid assets. These assets are expected for cash conversion in one year or more. Land, [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) investments, equipment, and machinery are considered types of non-liquid assets because they take time to convert to cash, costs can be incurred to convert them to cash, and they may not convert to cash at all.
 
 Many non-liquid, long-term assets usually require depreciation considerations because they are not expected to be easily sold for cash and their value is decreasing while they are in use.
 
@@ -55,8 +55,8 @@ Examples of liquid assets held by both individuals and businesses include:
 -   Money market assets
 -   Marketable equity securities (stocks)
 -   Marketable debt securities (bonds)
--   [U.S. Treasuries](https://www.investopedia.com/terms/t/treasurybond.asp) maturing within one year or actively traded in the secondary market
--   [Mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp)
+-   [[U.S. Treasuries]](https://www.investopedia.com/terms/t/treasurybond.asp) maturing within one year or actively traded in the secondary market
+-   [[Mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp)
 -   Exchange-traded funds (ETFs)
 -   Accounts receivable
 -   Inventory
@@ -67,7 +67,7 @@ In business, liquid assets are important to manage for both internal performance
 
 Companies have strategic processes for managing the amount of cash on their balance sheet available to pay bills and manage required expenditures. Industries like banking have a required amount of cash and cash equivalents that the company must hold to comply with industry regulations.
 
-There are several key ratios analysts use to analyze liquidity, often called solvency ratios. Two of the most common are the [quick ratio](https://www.investopedia.com/terms/q/quickratio.asp) and the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp). In the current ratio, current assets are used to assess a company’s ability to cover its current liabilities with all of its current assets and to survive unplanned and special circumstances like a pandemic.
+There are several key ratios analysts use to analyze liquidity, often called solvency ratios. Two of the most common are the [[quick ratio]](https://www.investopedia.com/terms/q/quickratio.asp) and the [[current ratio]](https://www.investopedia.com/terms/c/currentratio.asp). In the current ratio, current assets are used to assess a company’s ability to cover its current liabilities with all of its current assets and to survive unplanned and special circumstances like a pandemic.
 
 The quick ratio is a more stringent solvency ratio that looks at a company’s ability to cover its current liabilities with just its most liquid assets. The quick ratio does include accounts receivable.
 
@@ -77,7 +77,7 @@ The quick ratio and the current ratio are key financial statement ratios used to
 
 Both individuals and businesses deal with liquid and non-liquid markets. Cash as king is the ultimate goal for liquidity and ease of conversion to cash generally separates the distinction of a liquid vs. non-liquid market but there can also be some other considerations.
 
-A liquid asset must have an established market in which enough buyers and sellers exist so that an asset can easily be converted to cash. The [market price](https://www.investopedia.com/terms/m/market-price.asp) of the asset should also not be significantly changed, resulting in less liquidity or greater illiquidity for subsequent market participants.
+A liquid asset must have an established market in which enough buyers and sellers exist so that an asset can easily be converted to cash. The [[market price]](https://www.investopedia.com/terms/m/market-price.asp) of the asset should also not be significantly changed, resulting in less liquidity or greater illiquidity for subsequent market participants.
 
 The [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) is an example of a liquid market because of its large number of buyers and sellers which results in easy conversion to cash. Because stocks can be sold using electronic markets for full market prices on demand, publicly listed equity securities are liquid assets. Liquidity can vary by security, however, based on market capitalization and average share volume transactions.
 

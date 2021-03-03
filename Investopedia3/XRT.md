@@ -16,9 +16,9 @@ author: Katelyn Peters
 XRT
 ## What Is XRT?
 
-XRT is an extension printed after the [ticker symbol](https://www.investopedia.com/terms/t/tickersymbol.asp) for a stock. It indicates that the stock is trading on an [ex-rights](https://www.investopedia.com/terms/e/ex-rights.asp) basis. (XRT is an abbreviation for the word ex-rights.) Ex-rights means that the buyer of the stock does not have the rights to purchase more shares at a lower price anymore because those rights have expired. XRT is printed on the ticker tape—or displayed on the electronic ticker—for clarity and to avoid disputes or confusion about where the rights currently remain. 
+XRT is an extension printed after the [[ticker symbol]](https://www.investopedia.com/terms/t/tickersymbol.asp) for a stock. It indicates that the stock is trading on an [[ex-rights]](https://www.investopedia.com/terms/e/ex-rights.asp) basis. (XRT is an abbreviation for the word ex-rights.) Ex-rights means that the buyer of the stock does not have the rights to purchase more shares at a lower price anymore because those rights have expired. XRT is printed on the ticker tape—or displayed on the electronic ticker—for clarity and to avoid disputes or confusion about where the rights currently remain. 
 
-XRT is also the ticker symbol for the [SPDR S&P Retail exchange-traded fund](https://www.investopedia.com/articles/exchangetradedfunds/09/spdr-etfs.asp) (ETF). This is an index fund that tracks a broad-based, equal-weighted index of U.S. retail industry stocks. 
+XRT is also the ticker symbol for the [[SPDR S&P Retail exchange-traded fund]](https://www.investopedia.com/articles/exchangetradedfunds/09/spdr-etfs.asp) (ETF). This is an index fund that tracks a broad-based, equal-weighted index of U.S. retail industry stocks. 
 
 ### Key Takeaways
 

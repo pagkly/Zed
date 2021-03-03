@@ -16,13 +16,13 @@ author: James Chen
 Symmetrical Distribution
 ## What is Symmetrical Distribution?
 
-Symmetrical distribution occurs when the values of variables occur at regular frequencies and the [mean](https://www.investopedia.com/terms/m/mean.asp), median and mode occur at the same point. In graph form, symmetrical distribution often appears as a [bell curve](https://www.investopedia.com/terms/b/bell-curve.asp). If a line were drawn dissecting the middle of the graph, it would show two sides that mirror each other. Symmetrical distribution is a core concept in technical trading as the price action of an asset is assumed to fit a symmetrical distribution curve over time.
+Symmetrical distribution occurs when the values of variables occur at regular frequencies and the [[mean]](https://www.investopedia.com/terms/m/mean.asp), median and mode occur at the same point. In graph form, symmetrical distribution often appears as a [[bell curve]](https://www.investopedia.com/terms/b/bell-curve.asp). If a line were drawn dissecting the middle of the graph, it would show two sides that mirror each other. Symmetrical distribution is a core concept in technical trading as the price action of an asset is assumed to fit a symmetrical distribution curve over time.
 
 ### Key Takeaways
 
 -   Symmetrical distribution can refer to a bell curve or any curve where a halving line produces mirror images.
 -   When traders speak of r[eversion to the mean](https://www.investopedia.com/terms/m/meanreversion.asp), they are referring to the symmetrical distribution of price action overtime.
--   The opposite of symmetrical distribution is [asymmetrical distribution](https://www.investopedia.com/terms/a/asymmetrical-distribution.asp), which is a curve that exhibits [skewness](https://www.investopedia.com/terms/s/skewness.asp).
+-   The opposite of symmetrical distribution is [[asymmetrical distribution]](https://www.investopedia.com/terms/a/asymmetrical-distribution.asp), which is a curve that exhibits [[skewness]](https://www.investopedia.com/terms/s/skewness.asp).
 
 ## What Does Symmetrical Distribution Tell You?
 
@@ -32,7 +32,7 @@ If the price action takes the asset price out of the value area, then it suggest
 
 ## An Example of How Symmetrical Distribution is Used
 
-Symmetrical distribution is most often used to put price action into context. The further the price action wanders from the value area one standard deviation on each side of the mean, the greater the probability that the underlying asset is being under or overvalued by the market. This observation will suggest potential trades to place based on how far the price action has wandered from the mean for the time period being used. On larger time scales, however, there is a much greater risk of missing the actual [entry](https://www.investopedia.com/terms/e/entry-point.asp) and [exit points](https://www.investopedia.com/terms/e/exit-point.asp).
+Symmetrical distribution is most often used to put price action into context. The further the price action wanders from the value area one standard deviation on each side of the mean, the greater the probability that the underlying asset is being under or overvalued by the market. This observation will suggest potential trades to place based on how far the price action has wandered from the mean for the time period being used. On larger time scales, however, there is a much greater risk of missing the actual [[entry]](https://www.investopedia.com/terms/e/entry-point.asp) and [[exit points]](https://www.investopedia.com/terms/e/exit-point.asp).
 
 ## Symmetrical Distribution vs Asymmetrical Distribution
 

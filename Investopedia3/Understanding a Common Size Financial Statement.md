@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding a Common Size Financial Statement
 ## What Is a Common Size Financial Statement?
 
-A common size financial statement displays items as a percentage of a common base figure, total sales revenue, for example. This type of [financial statement](https://www.investopedia.com/video/play/financial-statements/) allows for easy analysis between companies, or between periods, for the same company. However, if the companies use different accounting methods, any comparison may not be accurate.
+A common size financial statement displays items as a percentage of a common base figure, total sales revenue, for example. This type of [[financial statement]](https://www.investopedia.com/video/play/financial-statements/) allows for easy analysis between companies, or between periods, for the same company. However, if the companies use different accounting methods, any comparison may not be accurate.
 
 ### Key Takeaways
 
@@ -36,9 +36,9 @@ Common size financial statements make it easier to determine what drives a compa
 
 ### Common Size Balance Sheet Statement
 
-The [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) provides a snapshot overview of the firm's assets, liabilities, and shareholders' equity for the reporting period. A common size balance sheet is set up with the same logic as the common size income statement. The balance sheet equation is assets equals [liabilities](https://www.investopedia.com/terms/l/liability.asp) plus stockholders' equity.
+The [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) provides a snapshot overview of the firm's assets, liabilities, and shareholders' equity for the reporting period. A common size balance sheet is set up with the same logic as the common size income statement. The balance sheet equation is assets equals [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) plus stockholders' equity.
 
-The balance sheet thus represents a percentage of _assets_. Another version of the common size balance sheet shows asset line items as a percentage of total assets, liabilities as a percentage of total liabilities, and [stockholders' equity](https://www.investopedia.com/articles/investing/101713/balance-sheet-analyzing-owners-equity.asp) as a percentage of total stockholders' equity.
+The balance sheet thus represents a percentage of _assets_. Another version of the common size balance sheet shows asset line items as a percentage of total assets, liabilities as a percentage of total liabilities, and [[stockholders' equity]](https://www.investopedia.com/articles/investing/101713/balance-sheet-analyzing-owners-equity.asp) as a percentage of total stockholders' equity.
 
 ### Common Size Cash Flow Statement
 
@@ -48,11 +48,11 @@ One version of the common size cash flow statement expresses all line items as a
 
 ### Common Size Income Statement
 
-The [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) (also referred to as the profit and loss (P&L) statement) provides an overview of flows of sales, expenses, and [net income](https://www.investopedia.com/terms/n/netincome.asp) during the reporting period. The income statement equation is sales minus expenses and adjustments equals net income. This is why the [common size income statement](https://www.investopedia.com/terms/c/commonsizeincomestatement.asp) defines all items as a percentage of _sales_. The term "common size" is most often used when analyzing elements of the income statement, but the balance sheet and the cash flow statement can also be expressed as a common size statement.
+The [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) (also referred to as the profit and loss (P&L) statement) provides an overview of flows of sales, expenses, and [[net income]](https://www.investopedia.com/terms/n/netincome.asp) during the reporting period. The income statement equation is sales minus expenses and adjustments equals net income. This is why the [[common size income statement]](https://www.investopedia.com/terms/c/commonsizeincomestatement.asp) defines all items as a percentage of _sales_. The term "common size" is most often used when analyzing elements of the income statement, but the balance sheet and the cash flow statement can also be expressed as a common size statement.
 
 ## Real-World Example of a Common Size Income Statement
 
-For example, if a company has a simple income statement with gross sales of $100,000, [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) of $50,000, taxes of $1,000 and net income of $49,000, the common size statement would read as follows:
+For example, if a company has a simple income statement with gross sales of $100,000, [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) of $50,000, taxes of $1,000 and net income of $49,000, the common size statement would read as follows:
 
 Sales
 

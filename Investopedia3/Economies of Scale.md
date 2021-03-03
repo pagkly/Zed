@@ -16,7 +16,7 @@ author: Will Kenton
 Economies of Scale
 ## What Are Economies of Scale?
 
-Economies of scale are cost advantages reaped by companies when production becomes efficient. [Companies](https://www.investopedia.com/articles/investing/070715/costcos-business-model-smarter-you-think.asp) can achieve economies of scale by increasing production and lowering costs. This happens because costs are spread over a larger number of goods. Costs can be both fixed and variable.
+Economies of scale are cost advantages reaped by companies when production becomes efficient. [[Companies]](https://www.investopedia.com/articles/investing/070715/costcos-business-model-smarter-you-think.asp) can achieve economies of scale by increasing production and lowering costs. This happens because costs are spread over a larger number of goods. Costs can be both fixed and variable.
 
 The size of the business generally matters when it comes to economies of scale. The larger the business, the more the cost savings.
 
@@ -28,9 +28,9 @@ Economies of scale are an important concept for any business in any industry and
 
 Most consumers don't understand why a smaller business charges more for a similar product sold by a larger company. That's because the cost per unit depends on how much the company produces. Larger companies are able to produce more by spreading the cost of production over a larger amount of goods. An industry may also be able to dictate the cost of a product if there are a number of different companies producing similar goods within that industry.
 
-There are several reasons why economies of scale give rise to lower per-unit costs. First, specialization of labor and more integrated technology boost production volumes. Second, lower per-unit costs can come from bulk orders from suppliers, larger advertising buys, or lower [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp). Third, spreading internal function costs across more units produced and sold helps to reduce costs.
+There are several reasons why economies of scale give rise to lower per-unit costs. First, specialization of labor and more integrated technology boost production volumes. Second, lower per-unit costs can come from bulk orders from suppliers, larger advertising buys, or lower [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp). Third, spreading internal function costs across more units produced and sold helps to reduce costs.
 
-Internal functions include accounting, information technology, and marketing. The first two reasons are also considered operational efficiencies and synergies. The second two reasons are cited as benefits of [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacquisitions.asp).
+Internal functions include accounting, information technology, and marketing. The first two reasons are also considered operational efficiencies and synergies. The second two reasons are cited as benefits of [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp).
 
 A company can create a diseconomy of scale when it becomes too large and chases an economy of scale.
 
@@ -64,7 +64,7 @@ In aggregate, the average cost of trade-able goods has been falling in industria
 
 ## Examples of Economies of Scale
 
-In a hospital, it is still a 20-minute visit with a doctor, but all the business [overhead](https://www.investopedia.com/terms/o/overhead.asp) costs of the hospital system are spread across more doctor visits and the person assisting the doctor is no longer a degreed nurse, but a technician or nursing aide. 
+In a hospital, it is still a 20-minute visit with a doctor, but all the business [[overhead]](https://www.investopedia.com/terms/o/overhead.asp) costs of the hospital system are spread across more doctor visits and the person assisting the doctor is no longer a degreed nurse, but a technician or nursing aide. 
 
 Job shops produce products in groups such as shirts with your company logo. A significant element of the cost is the set-up. In job shops, larger production runs lower unit costs because the set-up costs of designing the logo and creating the silk-screen pattern are spread across more shirts.
 
@@ -84,4 +84,4 @@ Generally speaking, economies of scale can be achieved in two ways. First, a com
 
 ### Why are economies of scale important?
 
-Economies of scale are important because they can help provide businesses with a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) in their industry. Companies will therefore try to realize economies of scale wherever possible, just as investors will try to identity economies of scale when selecting investments. One particularly famous example of an economy of scale is known as the [network effect](https://www.investopedia.com/terms/n/network-effect.asp#:~:text=The%20network%20effect%20is%20a,example%20of%20the%20network%20effect.&text=However%2C%20as%20more%20users%20gained,content%2C%20information%2C%20and%20services.).
+Economies of scale are important because they can help provide businesses with a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) in their industry. Companies will therefore try to realize economies of scale wherever possible, just as investors will try to identity economies of scale when selecting investments. One particularly famous example of an economy of scale is known as the [[network effect]](https://www.investopedia.com/terms/n/network-effect.asp#:~:text=The%20network%20effect%20is%20a,example%20of%20the%20network%20effect.&text=However%2C%20as%20more%20users%20gained,content%2C%20information%2C%20and%20services.).

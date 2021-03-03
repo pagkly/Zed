@@ -18,7 +18,7 @@ Hurricane Insurance Definition
 
 Actually, hurricane insurance doesn't exist as a specific, separate type of policy. The term usually refers to what is, strictly speaking, a hurricane deductible on a homeowners insurance policy: an extra amount a homeowner must pay before the insurer will cover the damage or destruction caused by a hurricane. A percentage of the property's worth, this deductible is common in 19 hurricane-prone states and Washington D.C.1
 
-Hurricane insurance can also refer to special types of [catastrophe insurance](https://www.investopedia.com/terms/c/catastrophe-insurance.asp) that specifically cover flooding or extreme winds (which actually do the damage to the property). These policies are also typical—and sometimes required—in high-risk hurricane states, such as Florida and Texas.1
+Hurricane insurance can also refer to special types of [[catastrophe insurance]](https://www.investopedia.com/terms/c/catastrophe-insurance.asp) that specifically cover flooding or extreme winds (which actually do the damage to the property). These policies are also typical—and sometimes required—in high-risk hurricane states, such as Florida and Texas.1
 
 ### Key Takeaways
 
@@ -63,11 +63,11 @@ The states/regions where hurricane deductibles apply are:
 
 ## Policies Offering Hurricane Coverage
 
-Homeowners should also be aware that even if they pay a hurricane deductible, gaps in their coverage might exist. Most homeowners policies exempt flooding from an outside natural event, like a hurricane. So, property-owners need a separate [flood insurance](https://www.investopedia.com/terms/f/flood-insurance.asp) policy to cover such water-related destruction or damage.2
+Homeowners should also be aware that even if they pay a hurricane deductible, gaps in their coverage might exist. Most homeowners policies exempt flooding from an outside natural event, like a hurricane. So, property-owners need a separate [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp) policy to cover such water-related destruction or damage.2
 
 Most standard homeowners policies will cover some damage caused by hurricanes—mostly that related to the heavy wind that, say, rips shingles off a roof or causes a tree branch to snap and crash into a window.
 
-Also, homeowners insurance policies in some hurricane-prone states won’t pay for wind-related damage. So those wishing to protect their property would have to purchase separate [windstorm insurance.](https://www.investopedia.com/terms/w/windstorm-insurance.asp) In this case, all wind damage or destruction would fall under this policy instead of the traditional homeowners policy. On top of hurricane coverage, windstorm insurance applies to problems stemming from tornadoes, cyclones, and other types of high-speed winds.2
+Also, homeowners insurance policies in some hurricane-prone states won’t pay for wind-related damage. So those wishing to protect their property would have to purchase separate [[windstorm insurance.]](https://www.investopedia.com/terms/w/windstorm-insurance.asp) In this case, all wind damage or destruction would fall under this policy instead of the traditional homeowners policy. On top of hurricane coverage, windstorm insurance applies to problems stemming from tornadoes, cyclones, and other types of high-speed winds.2
 
 ## How Hurricane Deductibles Are Calculated
 

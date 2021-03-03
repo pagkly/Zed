@@ -16,7 +16,7 @@ author: Julia Kagan
 Underwriting Standards
 ## What Are Underwriting Standards?
 
-Underwriting standards are guidelines established to ensure that safe and secure loans are issued and maintained. The underwriting standards in place help to set benchmarks for how much [debt](https://www.investopedia.com/terms/d/debt.asp) may be issued to a person, the terms of the loans, how much debt a specific company is willing to issue, and what interest rates will be charged.
+Underwriting standards are guidelines established to ensure that safe and secure loans are issued and maintained. The underwriting standards in place help to set benchmarks for how much [[debt]](https://www.investopedia.com/terms/d/debt.asp) may be issued to a person, the terms of the loans, how much debt a specific company is willing to issue, and what interest rates will be charged.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ Underwriting standards are guidelines established to ensure that safe and secure
 
 ## How Underwriting Standards Work
 
-Sound underwriting standards protect financial institutions from excessive risks that can lead to losses. History indicates that lending and underwriting standards are generally [pro-cyclical](https://www.investopedia.com/terms/p/procyclical.asp). As competitive pressures increase for loan growth, banks may be enticed to ease underwriting standards to expand the loan portfolio in order to generate earnings. As conditions begin to deteriorate, this easing of underwriting standards can cause banks to face an increased risk, followed by rising losses and an eventual tightening of underwriting standards.
+Sound underwriting standards protect financial institutions from excessive risks that can lead to losses. History indicates that lending and underwriting standards are generally [[pro-cyclical]](https://www.investopedia.com/terms/p/procyclical.asp). As competitive pressures increase for loan growth, banks may be enticed to ease underwriting standards to expand the loan portfolio in order to generate earnings. As conditions begin to deteriorate, this easing of underwriting standards can cause banks to face an increased risk, followed by rising losses and an eventual tightening of underwriting standards.
 
-For example, during the [financial crisis](https://www.investopedia.com/terms/f/financial-crisis.asp) of 2008-2009, some lenders reduced prepayment fees and offered heightened flexibility on the terms of the loans they issued. During that same crisis, many companies also tightened underwriting standards (one of the culprits in the downturn).
+For example, during the [[financial crisis]](https://www.investopedia.com/terms/f/financial-crisis.asp) of 2008-2009, some lenders reduced prepayment fees and offered heightened flexibility on the terms of the loans they issued. During that same crisis, many companies also tightened underwriting standards (one of the culprits in the downturn).
 
 ## Requirements for Underwriting Standards 
 
-The choice to modify a financial institution's lending terms and underwriting standards is usually the result of decisions made by the [board](https://www.investopedia.com/terms/b/boardofdirectors.asp) and senior management. Alternatively, subtle, de facto revisions in policies can result from how standards and procedures are actually applied in practice. In both instances, appropriate risk management steps must be taken to ensure risks are properly identified, monitored and controlled, and that loan pricing, terms or other safeguards against nonperformance are appropriate for the risks being taken.
+The choice to modify a financial institution's lending terms and underwriting standards is usually the result of decisions made by the [[board]](https://www.investopedia.com/terms/b/boardofdirectors.asp) and senior management. Alternatively, subtle, de facto revisions in policies can result from how standards and procedures are actually applied in practice. In both instances, appropriate risk management steps must be taken to ensure risks are properly identified, monitored and controlled, and that loan pricing, terms or other safeguards against nonperformance are appropriate for the risks being taken.
 
 A 1998 study of lending practices outlined six core lending terms and underwriting standards for maintaining strong credit discipline and assuring smart credit decisions. Those standards include:
 
@@ -46,7 +46,7 @@ A 1998 study of lending practices outlined six core lending terms and underwriti
 
 ## Example of Underwriting Standards
 
-The [Federal Deposit Insurance Corporation (FDIC)](https://www.investopedia.com/terms/f/fdic.asp) has its own recommended guidelines for underwriting standards for credit cards. Per the Federal Deposit Insurance Corporation (FDIC), underwriting standards help ensure credit cards offered to customers meet an acceptable level of risk. Some of the key underwriting standards that the Federal Deposit Insurance Corporation (FDIC) recommends for credit cards include: 
+The [[Federal Deposit Insurance Corporation (FDIC)]](https://www.investopedia.com/terms/f/fdic.asp) has its own recommended guidelines for underwriting standards for credit cards. Per the Federal Deposit Insurance Corporation (FDIC), underwriting standards help ensure credit cards offered to customers meet an acceptable level of risk. Some of the key underwriting standards that the Federal Deposit Insurance Corporation (FDIC) recommends for credit cards include: 
 
 -   Assessment of the applicant’s repayment willingness and capacity.
 -   Credit history and performance on past and existing obligations. 

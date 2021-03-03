@@ -16,9 +16,9 @@ author: James Chen
 Learn What a Piotroski Score Is
 ## What Is the Piotroski Score?
 
-The Piotroski Score is a discrete score between zero and nine that reflects nine criteria used to determine the strength of a firm's financial position. The Piotroski Score is used to determine the best [value stocks](https://www.investopedia.com/terms/v/valuestock.asp), with nine being the best and zero being the worst.
+The Piotroski Score is a discrete score between zero and nine that reflects nine criteria used to determine the strength of a firm's financial position. The Piotroski Score is used to determine the best [[value stocks]](https://www.investopedia.com/terms/v/valuestock.asp), with nine being the best and zero being the worst.
 
-The Piotroski Score was named after Chicago Accounting Professor Joseph Piotroski, who devised the scale, according to specific aspects of company [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp). Aspects are focused on the company’s accounting results in recent time periods (years). For every criterion met (noted below), one point is awarded; otherwise, no points are awarded. The points are then added up to determine the best value stocks.
+The Piotroski Score was named after Chicago Accounting Professor Joseph Piotroski, who devised the scale, according to specific aspects of company [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp). Aspects are focused on the company’s accounting results in recent time periods (years). For every criterion met (noted below), one point is awarded; otherwise, no points are awarded. The points are then added up to determine the best value stocks.
 
 ### Key Takeaways
 
@@ -39,22 +39,22 @@ The Piotroski Score is broken down into the following categories:
 Profitability criteria include:
 
 -   Positive net income (1 point)
--   Positive [return on assets](https://www.investopedia.com/terms/r/returnonassets.asp) in the current year (1 point)
--   Positive [operating cash flow](https://www.investopedia.com/terms/o/operatingcashflow.asp) in the current year (1 point)
--   Cash flow from operations being greater than [net Income](https://www.investopedia.com/terms/n/netincome.asp) (quality of earnings) (1 point)
+-   Positive [[return on assets]](https://www.investopedia.com/terms/r/returnonassets.asp) in the current year (1 point)
+-   Positive [[operating cash flow]](https://www.investopedia.com/terms/o/operatingcashflow.asp) in the current year (1 point)
+-   Cash flow from operations being greater than [[net Income]](https://www.investopedia.com/terms/n/netincome.asp) (quality of earnings) (1 point)
 
 Leverage, liquidity, and source of funds criteria include:
 
--   Lower ratio of [long term debt](https://www.investopedia.com/terms/l/longtermdebt.asp) in the current period, compared to the previous year (decreased leverage) (1 point)
--   Higher [current ratio](https://www.investopedia.com/terms/c/currentratio.asp) this year compared to the previous year (more liquidity) (1 point)
+-   Lower ratio of [[long term debt]](https://www.investopedia.com/terms/l/longtermdebt.asp) in the current period, compared to the previous year (decreased leverage) (1 point)
+-   Higher [[current ratio]](https://www.investopedia.com/terms/c/currentratio.asp) this year compared to the previous year (more liquidity) (1 point)
 -   No new shares were issued in the last year (lack of dilution) (1 point).
 
 Operating efficiency criteria include:
 
--   A higher [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) compared to the previous year (1 point)
--   A higher [asset turnover ratio](https://www.investopedia.com/terms/a/assetturnover.asp) compared to the previous year (1 point)
+-   A higher [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp) compared to the previous year (1 point)
+-   A higher [[asset turnover ratio]](https://www.investopedia.com/terms/a/assetturnover.asp) compared to the previous year (1 point)
 
-If a company has a score of 8 or 9, it is considered a good value. If the score adds up to between 0-2 points, the stock is considered weak. Piotroski's April 2000 paper "Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers," demonstrated that the Piotroski score method would have seen a 23% annual return between 1976 and 1996 if the expected winners were bought and expected losers shorted. As a starting point, Piotroski suggested [investors](https://www.investopedia.com/terms/i/investor.asp) begin with a sample of the bottom 20% of the market in terms of [price-to-book](https://www.investopedia.com/terms/p/price-to-bookratio.asp) value.
+If a company has a score of 8 or 9, it is considered a good value. If the score adds up to between 0-2 points, the stock is considered weak. Piotroski's April 2000 paper "Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers," demonstrated that the Piotroski score method would have seen a 23% annual return between 1976 and 1996 if the expected winners were bought and expected losers shorted. As a starting point, Piotroski suggested [[investors]](https://www.investopedia.com/terms/i/investor.asp) begin with a sample of the bottom 20% of the market in terms of [[price-to-book]](https://www.investopedia.com/terms/p/price-to-bookratio.asp) value.
 
 Of course, with any investment system, looking at past results doesn't mean it will work the same way in the future.
 

@@ -22,7 +22,7 @@ Held-to-maturity (HTM) securities are purchased to be owned until maturity. Fo
 
 Bonds and other debt vehicles—such as certificates of deposit (CDs)—are the most common form of HTM investments. Bonds and other debt vehicles have determined (or fixed) payment schedules, a fixed maturity date, and they are purchased to be held until they mature. Since stocks do not have a maturity date, they do not qualify as held-to-maturity securities.
 
-For accounting purposes, corporations use different categories to classify their [investments](https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp) in debt and equity securities. In addition to HTM securities, other classifications include "held-for-trading" and "available for sale."
+For accounting purposes, corporations use different categories to classify their [[investments]](https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp) in debt and equity securities. In addition to HTM securities, other classifications include "held-for-trading" and "available for sale."
 
 On a company's financial statements, these different categories are treated differently in terms of their investment value, as well as related gains and losses.
 
@@ -32,11 +32,11 @@ On a company's financial statements, these different categories are treated diff
 -   Bonds and other debt vehicles—such as certificates of deposit (CDs)—are the most common form of held-to-maturity (HTM) investments.
 -   Held-to-maturity (HTM) securities provide investors with a consistent stream of income; however, they are not ideal if an investor anticipates needing cash in the short-term.
 
-HTM securities are typically reported as a [noncurrent asset](https://www.investopedia.com/terms/n/noncurrent-assets.asp); they have an amortized cost on a company's financial statements. [Amortization](https://www.investopedia.com/terms/a/amortization.asp) is an accounting practice that adjusts the cost of the asset incrementally throughout its life. Earned interest income appears on the company's income statement, but changes in the market price of the investment do not change on the firm's accounting statements.
+HTM securities are typically reported as a [[noncurrent asset]](https://www.investopedia.com/terms/n/noncurrent-assets.asp); they have an amortized cost on a company's financial statements. [[Amortization]](https://www.investopedia.com/terms/a/amortization.asp) is an accounting practice that adjusts the cost of the asset incrementally throughout its life. Earned interest income appears on the company's income statement, but changes in the market price of the investment do not change on the firm's accounting statements.
 
 HTM securities are only reported as current assets if they have a maturity date of one year or less. Securities with maturities over one year are stated as long-term assets and appear on the balance sheet at the amortized cost—meaning the initial acquisition cost, plus any additional costs incurred to date.
 
-Unlike held-for-trading securities, temporary price changes for held-to-maturity securities do not appear in corporate accounting statements. Both available for sale and held-for-trading securities appear as [fair value](https://www.investopedia.com/terms/f/fairvalue.asp) on accounting statements.
+Unlike held-for-trading securities, temporary price changes for held-to-maturity securities do not appear in corporate accounting statements. Both available for sale and held-for-trading securities appear as [[fair value]](https://www.investopedia.com/terms/f/fairvalue.asp) on accounting statements.
 
 ## Advantages and Disadvantages of Held-to-Maturity (HTM) Securities
 

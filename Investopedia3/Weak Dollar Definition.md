@@ -16,7 +16,7 @@ author: Gordon Scott
 Weak Dollar Definition
 ## What is a Weak Dollar?
 
-A weak dollar refers to a downward price trend in the value of the U.S. dollar relative to other foreign [currencies](https://www.investopedia.com/terms/c/currency.asp). The most commonly compared currency is the Euro, so if the Euro is rising in price compared to the dollar, the dollar is said to be weakening at that time. Essentially, a weak dollar means that a U.S. dollar can be exchanged for smaller amounts of foreign currency. The effect of this is that goods priced in U.S. dollars, as well as goods produced in non-US countries, become more expensive to U.S. consumers.
+A weak dollar refers to a downward price trend in the value of the U.S. dollar relative to other foreign [[currencies]](https://www.investopedia.com/terms/c/currency.asp). The most commonly compared currency is the Euro, so if the Euro is rising in price compared to the dollar, the dollar is said to be weakening at that time. Essentially, a weak dollar means that a U.S. dollar can be exchanged for smaller amounts of foreign currency. The effect of this is that goods priced in U.S. dollars, as well as goods produced in non-US countries, become more expensive to U.S. consumers.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ The Federal Reserve works to equalize such influences as much as it determines t
 
 ## Quantitative Easing
 
-In response to the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp), the Fed employed several [quantitative easing](https://www.investopedia.com/terms/q/quantitative-easing.asp) programs where it purchased large sums of Treasuries and [mortgage-backed-securities](https://www.investopedia.com/terms/m/mbs.asp). In turn, the bond market rallied, which pushed interest rates in the U.S. to record lows. As interest rates fell, the U.S. dollar weakened substantially. Over a period of two years (mid-2009 to mid-2011) the U.S. dollar index ([USDX](https://www.investopedia.com/terms/u/usdx.asp)) fell 17 percent. 
+In response to the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp), the Fed employed several [[quantitative easing]](https://www.investopedia.com/terms/q/quantitative-easing.asp) programs where it purchased large sums of Treasuries and [[mortgage-backed-securities]](https://www.investopedia.com/terms/m/mbs.asp). In turn, the bond market rallied, which pushed interest rates in the U.S. to record lows. As interest rates fell, the U.S. dollar weakened substantially. Over a period of two years (mid-2009 to mid-2011) the U.S. dollar index ([USDX](https://www.investopedia.com/terms/u/usdx.asp)) fell 17 percent. 
 
 However, four years later as the Fed embarked on lifting interest for the first time in eight years, the plight of the dollar turned and it strengthened to make a decade-long high. In December 2016, when the Fed shifted interest rates to 0.25 percent, the USDX traded at 100 for the first time since 2003. 
 

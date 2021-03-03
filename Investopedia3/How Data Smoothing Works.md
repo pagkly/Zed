@@ -16,9 +16,9 @@ author: Rajeev Dhir
 How Data Smoothing Works
 ## What Is Data Smoothing?
 
-Data smoothing is done by using an algorithm to remove [noise](https://www.investopedia.com/terms/n/noise.asp) from a data set. This allows important patterns to more clearly stand out.
+Data smoothing is done by using an algorithm to remove [[noise]](https://www.investopedia.com/terms/n/noise.asp) from a data set. This allows important patterns to more clearly stand out.
 
-Data smoothing can be used to help predict trends, such as those found in securities prices, as well in economic analysis that can take into account the effects of [seasonality](https://www.investopedia.com/terms/s/seasonal-adjustment.asp) or which can ignore one-time outliers.
+Data smoothing can be used to help predict trends, such as those found in securities prices, as well in economic analysis that can take into account the effects of [[seasonality]](https://www.investopedia.com/terms/s/seasonal-adjustment.asp) or which can ignore one-time outliers.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Data smoothing can be used to help predict trends, such as those found in securi
 
 ## Data Smoothing Explained
 
-When data is compiled, it can be manipulated to remove or reduce any [volatility](https://www.investopedia.com/terms/v/volatility.asp), or any other type of noise. This is called data smoothing.
+When data is compiled, it can be manipulated to remove or reduce any [[volatility]](https://www.investopedia.com/terms/v/volatility.asp), or any other type of noise. This is called data smoothing.
 
 The idea behind data smoothing is that it can identify simplified changes in order to help predict different trends and patterns. It acts as an aid for statisticians or traders who need to look at a lot of data—that can often be complicated to digest—to find patterns they would not otherwise see.
 
@@ -38,11 +38,11 @@ Smoothed data is generally preferred by economists because it better identifies 
 
 ## Data Smoothing Methods
 
-There are different methods in which data smoothing can be done. Some of these include the randomization method, using a [random walk](https://www.investopedia.com/terms/r/random-walk-index.asp), calculating a [moving average](https://www.investopedia.com/terms/m/movingaverage.asp), or conducting one of several exponential smoothing techniques.
+There are different methods in which data smoothing can be done. Some of these include the randomization method, using a [[random walk]](https://www.investopedia.com/terms/r/random-walk-index.asp), calculating a [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp), or conducting one of several exponential smoothing techniques.
 
 The random walk model is commonly used to describe the behavior of financial instruments such as stocks. Some investors believe that there is no relationship between past movement in a security's price and its future movement. Random walk smoothing assumes that future data points will equal the last available data point plus a random variable. Technical and fundamental analysts disagree with this idea; they believe future movements can be extrapolated by examining past trends.
 
-Often used in [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp), the moving average smooths out price action while it filters out volatility from random price movements. This process is based on past prices, making it a trend-following—or lagging—indicator. As can be seen in the price chart below, the moving average (EMA) has the general shape and trend of the underlying daily price data, depicted by the candlesticks. The more days incorporated into the moving average, the more smoothed the line becomes.
+Often used in [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp), the moving average smooths out price action while it filters out volatility from random price movements. This process is based on past prices, making it a trend-following—or lagging—indicator. As can be seen in the price chart below, the moving average (EMA) has the general shape and trend of the underlying daily price data, depicted by the candlesticks. The more days incorporated into the moving average, the more smoothed the line becomes.
 
 Image by Sabrina Jiang © Investopedia 2020 
 
@@ -50,7 +50,7 @@ Image by Sabrina Jiang © Investopedia 2020
 
 Data smoothing can be used to help identify trends in the economy, securities such as stocks, consumer sentiment, or for other business purposes.
 
-For example, an economist can smooth out data to make [seasonal adjustments](https://www.investopedia.com/terms/s/seasonal-adjustment.asp) for certain indicators like retail sales by reducing the variations that may occur each month like holidays or gas prices.
+For example, an economist can smooth out data to make [[seasonal adjustments]](https://www.investopedia.com/terms/s/seasonal-adjustment.asp) for certain indicators like retail sales by reducing the variations that may occur each month like holidays or gas prices.
 
 There are downfalls to using this tool, however. Data smoothing doesn't always provide an explanation of the trends or patterns it helps identify. It also may lead to certain data points being ignored by emphasizing others.
 

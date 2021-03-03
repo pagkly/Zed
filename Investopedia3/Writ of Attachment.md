@@ -18,7 +18,7 @@ Writ of Attachment
 
 A writ of attachment is a form of prejudgment process in which a court orders the attachment or seizure of property described in the writ. The property is seized and held in the custody of an appointed official, such as a U.S. Marshal or law enforcement officer, under court supervision.1
 
-A writ of attachment demands the creditor's property prior to the outcome of a trial or [judgment](https://www.investopedia.com/terms/j/judgement.asp), whereas a [writ of execution](https://www.investopedia.com/terms/w/writ-of-execution.asp) directs law enforcement to begin the transfer of property as the result of the conclusion of a legal judgment.
+A writ of attachment demands the creditor's property prior to the outcome of a trial or [[judgment]](https://www.investopedia.com/terms/j/judgement.asp), whereas a [[writ of execution]](https://www.investopedia.com/terms/w/writ-of-execution.asp) directs law enforcement to begin the transfer of property as the result of the conclusion of a legal judgment.
 
 ### Key Takeaways
 
@@ -29,14 +29,14 @@ A writ of attachment demands the creditor's property prior to the outcome of a t
 
 ## How a Writ of Attachment Works
 
-A [writ](https://www.investopedia.com/terms/w/writ.asp) of attachment is generally used to freeze a defendant's assets pending the outcome of legal action. That is, the plaintiff—who is the party bringing the legal action against the defendant—obtains a contingent [lien](https://www.investopedia.com/terms/l/lien.asp) on the defendant's assets. The lien is a legal charge to take ownership of the defendant's property to satisfy a debt. The writ of attachment allows the lien to be exercised should the plaintiff successfully obtain a judgment against the defendant.
+A [[writ]](https://www.investopedia.com/terms/w/writ.asp) of attachment is generally used to freeze a defendant's assets pending the outcome of legal action. That is, the plaintiff—who is the party bringing the legal action against the defendant—obtains a contingent [[lien]](https://www.investopedia.com/terms/l/lien.asp) on the defendant's assets. The lien is a legal charge to take ownership of the defendant's property to satisfy a debt. The writ of attachment allows the lien to be exercised should the plaintiff successfully obtain a judgment against the defendant.
 
 There are several different types of attachment.
 
--   A [garnishment](https://www.investopedia.com/terms/g/garnishment.asp) is a court order directing a third party to seize assets, such as wages or money, from a person's paycheck or bank account to settle an unpaid debt.
--   A writ of replevin is usually put in place to take property held by a person wrongfully, while [sequestration](https://www.investopedia.com/terms/s/sequestration.asp) preserves the property pending litigation.2 3
+-   A [[garnishment]](https://www.investopedia.com/terms/g/garnishment.asp) is a court order directing a third party to seize assets, such as wages or money, from a person's paycheck or bank account to settle an unpaid debt.
+-   A writ of replevin is usually put in place to take property held by a person wrongfully, while [[sequestration]](https://www.investopedia.com/terms/s/sequestration.asp) preserves the property pending litigation.2 3
 
-In debt collection outside of [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) action, a writ of attachment from the civil court system is one tool available to creditors. It allows plaintiffs to place a legal claim on a defendant's assets early on in the judicial process before a judgment is even entered.
+In debt collection outside of [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) action, a writ of attachment from the civil court system is one tool available to creditors. It allows plaintiffs to place a legal claim on a defendant's assets early on in the judicial process before a judgment is even entered.
 
 This form of judicial lien provides a two-fold benefit as it protects the plaintiff's right and ability to collect on any future judgment. It also provides leverage to negotiate a settlement with the defendant earlier in the process.
 

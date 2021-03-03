@@ -18,7 +18,7 @@ Quote
 
 A quote is the last price at which an asset traded; it is the most recent price that a buyer and seller agreed upon and at which some amount of the asset was transacted.
 
-The bid quote is the most [current price](https://www.investopedia.com/terms/c/currentprice.asp) and quantity at which a share can be bought. The bid quote shows the price and quantity of which a current buyer is willing to purchase the shares. The ask quote shows what a current participant is willing to sell the shares for.
+The bid quote is the most [[current price]](https://www.investopedia.com/terms/c/currentprice.asp) and quantity at which a share can be bought. The bid quote shows the price and quantity of which a current buyer is willing to purchase the shares. The ask quote shows what a current participant is willing to sell the shares for.
 
 A quote is also referred to as an asset's "quoted price."
 
@@ -34,7 +34,7 @@ A quote is also referred to as an asset's "quoted price."
 
 Quotes for assets change throughout the trading day as new transactions occur one after another in a continual stream of trades.
 
-When a [stock quote](https://www.investopedia.com/terms/s/stockquote.asp) is referenced for a given company, it represents the most recent price at which a trade was successfully executed for that particular security. However, in general, potential investors or sellers in a company will be more concerned about the bid quotes and ask quotes (as compared to the stock quote) because they reflect the prices at which the stock can be bought or sold; the stock quote simply reveals the price at which the stock traded most recently.
+When a [[stock quote]](https://www.investopedia.com/terms/s/stockquote.asp) is referenced for a given company, it represents the most recent price at which a trade was successfully executed for that particular security. However, in general, potential investors or sellers in a company will be more concerned about the bid quotes and ask quotes (as compared to the stock quote) because they reflect the prices at which the stock can be bought or sold; the stock quote simply reveals the price at which the stock traded most recently.
 
 Investors typically reference the historical quotes for an asset in order to examine potential trends in a security’s market activity and volatility. Quotes can be represented in relation to an instance of time, allowing for comparisons across comparable time periods. For instance, investors might reference quotes from the same day, but one year apart, in order to chart the potential trajectory for the security. They could also compare quotes across a day of trading, especially if there is volatility, in order to develop an investing strategy in response to the activity.
 

@@ -20,7 +20,7 @@ A KSOP is a qualified retirement plan that combines an employee's stock ownershi
 
 ## How a KSOP Works
 
-A KSOP is a great option for companies that can help them create a market for their shares with sufficient [liquidity](https://www.investopedia.com/terms/l/liquidity.asp). Liquidity is a measure of how easily a stock can be bought or sold in the market.
+A KSOP is a great option for companies that can help them create a market for their shares with sufficient [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp). Liquidity is a measure of how easily a stock can be bought or sold in the market.
 
 KSOPs also provide added motivation to employees to ensure the profitability of the company. In turn, this could boost share price and generate additional value for the employees and the firm. Conversely, if company shares are not performing well, the cycle could become vicious, with employees losing value as share price declines, leaving less incentive to outperform.
 
@@ -32,7 +32,7 @@ Within a typical fund, there could be a variety of securities, including stocks,
 
 ## KSOP and Other Employer-Sponsored Retirement Plans
 
-In addition to the KSOP, there are additional forms of employer-sponsored retirement plans, including the [SEP-IRA](https://www.investopedia.com/terms/s/sep.asp) and [SIMPLE IRA](https://www.investopedia.com/terms/s/simple-ira.asp). A SEP IRA is available for self-employed individuals, such as freelance writers, consultants, independent contractors, along with sole proprietorships, and partnerships. SEP-IRA participants may make tax-deductible contributions on behalf of eligible employees, including the business owner.
+In addition to the KSOP, there are additional forms of employer-sponsored retirement plans, including the [[SEP-IRA]](https://www.investopedia.com/terms/s/sep.asp) and [[SIMPLE IRA]](https://www.investopedia.com/terms/s/simple-ira.asp). A SEP IRA is available for self-employed individuals, such as freelance writers, consultants, independent contractors, along with sole proprietorships, and partnerships. SEP-IRA participants may make tax-deductible contributions on behalf of eligible employees, including the business owner.
 
 Also, the employer is allowed to claim a tax deduction for any plan contributions that are not over the statutory limit. However, annual contributions are optional, and if an employer does contribute, she or he must contribute the same percentage to all eligible employees, up to the contribution limit.
 

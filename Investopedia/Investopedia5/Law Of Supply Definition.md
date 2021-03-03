@@ -1,0 +1,49 @@
+---
+alias: [Law Of Supply]
+created: 2021-03-02T21:11:25 (UTC +11:00)
+tags: [Law Of Supply Definition, Law Of Supply Definition]
+source: https://www.investopedia.com/terms/l/lawofsupply.asp
+author: Investopedia Staff
+---
+
+# Law Of Supply Definition
+
+> ## Excerpt
+> Law of supply is a microeconomic law, stating that, all other factors being equal, as the price of a good or service increases, the quantity of goods or services offered by suppliers increases and vice versa.
+
+---
+
+Law Of Supply Definition
+## What is the Law of Supply?
+
+The law of supply is the [microeconomic](https://www.investopedia.com/terms/m/microeconomics.asp) law that states that, all other factors being equal, as the price of a good or service increases, the quantity of goods or services that suppliers offer will increase, and vice versa. The law of supply says that as the price of an item goes up, suppliers will attempt to maximize their profits by increasing the quantity offered for sale.
+
+### Key Takeaways
+
+-   The law of supply says that a higher price will induce producers to supply a higher quantity to the market.
+-   Supply in a market can be depicted as an upward sloping supply curve that shows how the quantity supplied will respond to various prices over a period of time.
+-   Because businesses seek to increase revenue, when they expect to receive a higher price, they will produce more.
+
+## Understanding the Law Of Supply
+
+The chart below depicts the law of supply using a supply curve, which is upward sloping. A, B and C are points on the supply curve. Each point on the curve reflects a direct correlation between quantity supplied (Q) and price (P). So, at point A, the quantity supplied will be Q1 and the price will be P1, and so on.
+
+ Image by Julie Bang © Investopedia 2019
+
+The supply curve is upward sloping because, over time, suppliers can choose how much of their goods to produce and later bring to market. At any given point in time however, the supply that sellers bring to market is fixed, and sellers simply face a decision to either sell or withhold their stock from a sale; consumer demand sets the price and sellers can only charge what the market will bear. If consumer demand rises over time, the price will rise, and suppliers can choose devoted new resources to production (or new suppliers can enter the market) which increases the quantity supplied. Demand ultimately sets the price in a competitive market, supplier response to the price they can expect to receive sets the quantity supplied.  
+
+The law of supply is one of the most fundamental concepts in economics. It works with the law of demand to explain how market economies allocate resources and determine the prices of goods and services.
+
+## Practical Examples of How Supply Works
+
+The law of supply summarizes the effect price changes have on producer behavior.
+
+For example, a business will make more video game systems if the price of those systems increases. The opposite is true if the price of video game systems decreases. The company might supply 1 million systems if the price is $200 each, but if the price increases to $300, they might supply 1.5 million systems.
+
+To further illustrate this concept, consider how gas prices work. When the price of gasoline rises, it encourages profit-seeking firms to take several actions: expand exploration for oil reserves; drill for more oil; invest in more pipelines and oil tankers to bring the oil to plants where it can be refined into gasoline; build new oil refineries; purchase additional pipelines and trucks to ship the gasoline to gas stations; and open more gas stations or keep existing gas stations open longer hours.
+
+The law of supply is so intuitive that you may not even be aware of all the examples around you.
+
+-   When college students learn that computer engineering jobs pay more than English professor jobs, the supply of students with majors in computer engineering will increase.
+-   When consumers start paying more for cupcakes than for donuts, bakeries will increase their output of cupcakes and reduce their output of donuts in order to increase their profits.
+-   When your employer pays time and a half for overtime, the number of hours you are willing to supply for work increases.

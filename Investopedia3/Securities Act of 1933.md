@@ -16,7 +16,7 @@ author: Will Kenton
 Securities Act of 1933
 ## What Is the Securities Act of 1933?
 
-The Securities Act of 1933 was created and passed into law to protect investors after the [stock market crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp). The legislation had two main goals: to ensure more transparency in [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) so investors could make informed decisions about investments; and to establish laws against [misrepresentation](https://www.investopedia.com/terms/m/misrepresentation.asp) and fraudulent activities in the securities markets.
+The Securities Act of 1933 was created and passed into law to protect investors after the [[stock market crash of 1929]](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp). The legislation had two main goals: to ensure more transparency in [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) so investors could make informed decisions about investments; and to establish laws against [[misrepresentation]](https://www.investopedia.com/terms/m/misrepresentation.asp) and fraudulent activities in the securities markets.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The Securities Act of 1933 was created and passed into law to protect investors 
 
 ## Understanding the Securities Act of 1933
 
-The Securities Act of 1933 was the first major legislation regarding the sale of securities. Prior to this legislation, the sales of securities were primarily governed by state laws. The legislation addressed the need for better disclosure by requiring companies to register with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC). Registration ensures that companies provide the SEC and potential investors with all relevant information by means of a [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) and registration statement.
+The Securities Act of 1933 was the first major legislation regarding the sale of securities. Prior to this legislation, the sales of securities were primarily governed by state laws. The legislation addressed the need for better disclosure by requiring companies to register with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). Registration ensures that companies provide the SEC and potential investors with all relevant information by means of a [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) and registration statement.
 
 The act—also known as the "Truth in Securities" law, the 1933 Act, and the Federal Securities Act—requires that investors receive financial information from securities being offered for public sale. This means that prior to going public, companies have to submit information that is readily available to investors.
 
@@ -52,6 +52,6 @@ President Franklin D. Roosevelt signed the Securities Act of 1933 into law as pa
 
 ## History of the Securities Act of 1933
 
-The Securities Act of 1933 was the first federal legislation used to regulate the stock market. The act took power away from the states and put it into the hands of the federal government. The act also created a uniform set of rules to protect investors against fraud. It was signed into law by President Franklin D. Roosevelt and is considered part of the [New Deal](https://www.investopedia.com/terms/n/new-deal.asp) passed by Roosevelt.
+The Securities Act of 1933 was the first federal legislation used to regulate the stock market. The act took power away from the states and put it into the hands of the federal government. The act also created a uniform set of rules to protect investors against fraud. It was signed into law by President Franklin D. Roosevelt and is considered part of the [[New Deal]](https://www.investopedia.com/terms/n/new-deal.asp) passed by Roosevelt.
 
 The Securities Act of 1933 is governed by the Securities and Exchange Commission, which was created a year later by the Securities Exchange Act of 1934. Several amendments to the act have been passed to update rules numerous times over the years, with the latest enacted in 2018.

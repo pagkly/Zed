@@ -16,7 +16,7 @@ author: Investopedia Staff
 Law Of Supply Definition
 ## What is the Law of Supply?
 
-The law of supply is the [microeconomic](https://www.investopedia.com/terms/m/microeconomics.asp) law that states that, all other factors being equal, as the price of a good or service increases, the quantity of goods or services that suppliers offer will increase, and vice versa. The law of supply says that as the price of an item goes up, suppliers will attempt to maximize their profits by increasing the quantity offered for sale.
+The law of supply is the [[microeconomic]](https://www.investopedia.com/terms/m/microeconomics.asp) law that states that, all other factors being equal, as the price of a good or service increases, the quantity of goods or services that suppliers offer will increase, and vice versa. The law of supply says that as the price of an item goes up, suppliers will attempt to maximize their profits by increasing the quantity offered for sale.
 
 ### Key Takeaways
 

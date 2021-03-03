@@ -16,7 +16,7 @@ author: Marshall Hargrave
 How to Best Use the Debt-To-Capital Ratio
 ## What Is the Debt-To-Capital Ratio?
 
-The debt-to-capital ratio is a measurement of a company's financial leverage. The debt-to-capital ratio is calculated by taking the company's interest-bearing debt, both short- and long-term liabilities and dividing it by the total capital. Total capital is all interest-bearing debt plus [shareholders' equity](https://www.investopedia.com/terms/s/shareholdersequity.asp), which may include items such as common stock, preferred stock, and minority interest.
+The debt-to-capital ratio is a measurement of a company's financial leverage. The debt-to-capital ratio is calculated by taking the company's interest-bearing debt, both short- and long-term liabilities and dividing it by the total capital. Total capital is all interest-bearing debt plus [[shareholders' equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp), which may include items such as common stock, preferred stock, and minority interest.
 
 ## The Formula for Debt-To-Capital Ratio
 
@@ -56,13 +56,13 @@ As for equity, the company has $20 million worth of preferred stock and $3 milli
 
 -   **Debt-to-capital** = $80 million / ($80 million + $223) = $80 million / $303 million = 26.4%
 
-Assume this company is being considered as an investment by a portfolio manager. If the portfolio manager looks at another company that had a debt-to-capital ratio of 40%, all else equal, the referenced company is a safer choice since its [financial leverage](https://www.investopedia.com/terms/t/timevalueofmoney.asp) is approximately half that of the compared company's.
+Assume this company is being considered as an investment by a portfolio manager. If the portfolio manager looks at another company that had a debt-to-capital ratio of 40%, all else equal, the referenced company is a safer choice since its [[financial leverage]](https://www.investopedia.com/terms/t/timevalueofmoney.asp) is approximately half that of the compared company's.
 
 As a real-life example, consider Caterpillar (NYSE: CAT), which has $36.6 billion in total debt as of December 2018.1 Its shareholders’ equity for the same quarter was $14 billion.2 Thus, its debt-to-capital ratio is 73%, or $36.6 billion / ($36.6 billion + $14 billion).
 
 ## The Difference Between Debt-To-Capital Ratio and Debt Ratio
 
-Unlike the debt-to-capital ratio, the [debt ratio](https://www.investopedia.com/terms/d/debtratio.asp) divides total debt by total assets. The debt ratio is a measure of how much of a company’s assets are financed with debt. The two numbers can be very similar, as total assets are equal to total liabilities plus total shareholder’ equity. However, for the debt-to-capital ratio, it excludes all other liabilities besides interest-bearing debt.
+Unlike the debt-to-capital ratio, the [[debt ratio]](https://www.investopedia.com/terms/d/debtratio.asp) divides total debt by total assets. The debt ratio is a measure of how much of a company’s assets are financed with debt. The two numbers can be very similar, as total assets are equal to total liabilities plus total shareholder’ equity. However, for the debt-to-capital ratio, it excludes all other liabilities besides interest-bearing debt.
 
 ## Limitations of Using Debt-To-Capital Ratio
 

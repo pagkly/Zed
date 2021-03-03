@@ -16,7 +16,7 @@ author: Adam Hayes
 Rational Behavior Definition
 ## What Is Rational Behavior?
 
-Rational behavior refers to a decision-making process that is based on making choices that result in the optimal level of benefit or [utility](https://www.investopedia.com/terms/u/utility.asp) for an individual. The assumption of rational behavior implies that people would rather take actions that benefit them versus actions that are neutral or harm them. Most classical economic theories are based on the assumption that all individuals taking part in an activity are behaving rationally.
+Rational behavior refers to a decision-making process that is based on making choices that result in the optimal level of benefit or [[utility]](https://www.investopedia.com/terms/u/utility.asp) for an individual. The assumption of rational behavior implies that people would rather take actions that benefit them versus actions that are neutral or harm them. Most classical economic theories are based on the assumption that all individuals taking part in an activity are behaving rationally.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Rational behavior is the cornerstone of rational choice theory, a theory of econ
 
 For example, while it is likely more financially beneficial for an executive to stay on at a company rather than retire early, it is still considered rational behavior for her to seek an early retirement if she feels the benefits of retired life outweigh the utility from the paycheck she receives. The optimal benefit for an individual may involve non-monetary returns.
 
-Further, a person’s willingness to take on risk, or conversely, their [aversion to risk](https://www.investopedia.com/terms/r/riskaverse.asp), may be considered rational depending on their goals and circumstances. For example, an investor may choose to take on more risk in his own retirement account than in an account designated for his children's college education. Both would be considered rational choices for this investor.
+Further, a person’s willingness to take on risk, or conversely, their [[aversion to risk]](https://www.investopedia.com/terms/r/riskaverse.asp), may be considered rational depending on their goals and circumstances. For example, an investor may choose to take on more risk in his own retirement account than in an account designated for his children's college education. Both would be considered rational choices for this investor.
 
 ## Behavioral Economics
 
@@ -42,4 +42,4 @@ Investors may also make decisions primarily based on emotions, for example, inve
 
 ## Example of Rational Behavior
 
-For example, an individual may choose to invest in the stock of an organic produce operation, rather than a conventional produce operation, if they have strong beliefs in the value of organic produce. They may choose to do this regardless of the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of the organic operation compared with that of the conventional operation, and despite the fact that the conventional operation would earn a higher return.
+For example, an individual may choose to invest in the stock of an organic produce operation, rather than a conventional produce operation, if they have strong beliefs in the value of organic produce. They may choose to do this regardless of the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of the organic operation compared with that of the conventional operation, and despite the fact that the conventional operation would earn a higher return.

@@ -16,13 +16,13 @@ author: Chris B. Murphy
 How to Use Required Rate of Return – RRR to Evaluate Stocks
 ## What Is Required Rate of Return – RRR?
 
-The required [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) is the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock. The RRR is also used in corporate finance to analyze the profitability of potential investment projects.
+The required [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) is the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock. The RRR is also used in corporate finance to analyze the profitability of potential investment projects.
 
-The required rate of return is also known as the [hurdle rate](https://www.investopedia.com/terms/h/hurdlerate.asp), which like RRR, denotes the appropriate compensation needed for the level of risk present. Riskier projects usually have higher hurdle rates or RRRs than those that are less risky.
+The required rate of return is also known as the [[hurdle rate]](https://www.investopedia.com/terms/h/hurdlerate.asp), which like RRR, denotes the appropriate compensation needed for the level of risk present. Riskier projects usually have higher hurdle rates or RRRs than those that are less risky.
 
 ## The Formula and Calculating RRR
 
-There are a couple of ways to calculate the required rate of return. If an investor is considering buying equity shares in a company that pays dividends, the dividend-discount model is ideal. The dividend discount model is also known as the [Gordon growth model](https://www.investopedia.com/terms/g/gordongrowthmodel.asp).
+There are a couple of ways to calculate the required rate of return. If an investor is considering buying equity shares in a company that pays dividends, the dividend-discount model is ideal. The dividend discount model is also known as the [[Gordon growth model]](https://www.investopedia.com/terms/g/gordongrowthmodel.asp).
 
 The dividend-discount model calculates the RRR for equity of a dividend-paying stock by utilizing the current stock price, the dividend payment per share, and the forecasted dividend growth rate. The formula is as follows:
 
@@ -35,11 +35,11 @@ RRR\=Expected dividend paymentShare price+Forecasted dividend growth rateR
 
 #### How to Calculate Required Rate of Return
 
-Another way to calculate RRR is to use the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM), which is typically used by investors for stocks that don't pay dividends.
+Another way to calculate RRR is to use the [[capital asset pricing model]](https://www.investopedia.com/terms/c/capm.asp) (CAPM), which is typically used by investors for stocks that don't pay dividends.
 
-The CAPM model of calculating RRR uses the beta of an asset. [Beta](https://www.investopedia.com/terms/b/beta.asp) is the risk coefficient of the holding. In other words, beta attempts to measure the riskiness of a stock or investment over time. Stocks with betas greater than 1 are considered riskier than the overall market (represented by the S&P 500), whereas stocks with betas less than 1 are considered less risky than the overall market.
+The CAPM model of calculating RRR uses the beta of an asset. [[Beta]](https://www.investopedia.com/terms/b/beta.asp) is the risk coefficient of the holding. In other words, beta attempts to measure the riskiness of a stock or investment over time. Stocks with betas greater than 1 are considered riskier than the overall market (represented by the S&P 500), whereas stocks with betas less than 1 are considered less risky than the overall market.
 
-The formula also uses the risk-free rate of return, which is typically the [yield](https://www.investopedia.com/ask/answers/012015/how-do-i-calculate-yield-maturity-excel.asp) on short-term U.S. Treasury securities. The final variable is the market rate of return, which is typically the annual return of the S&P 500 index. The formula for RRR using the CAPM model is as follows:
+The formula also uses the risk-free rate of return, which is typically the [[yield]](https://www.investopedia.com/ask/answers/012015/how-do-i-calculate-yield-maturity-excel.asp) on short-term U.S. Treasury securities. The final variable is the market rate of return, which is typically the annual return of the S&P 500 index. The formula for RRR using the CAPM model is as follows:
 
 RRR\=Risk-free rate of return+beta(Market rate of return−Risk-free rate of return)RRR = \\text{Risk-free rate of return}\\; + \\; beta\\left( \\text{Market rate of return}- \\text{Risk-free rate of return}\\right)
 
@@ -63,7 +63,7 @@ Add the result to the current risk-free rate of return to determine the required
 
 ## What Does RRR Tell You?
 
-[The required rate of return](https://www.investopedia.com/articles/fundamental-analysis/11/calculating-required-rate-of-return.asp) RRR is a key concept in equity valuation and corporate finance. It's a difficult metric to pinpoint due to the different investment goals and risk tolerance of individual investors and companies. Risk-return preferences, inflation expectations, and a company’s capital structure all play a role in determining the company's own required rate. Each one of these and other factors can have major effects on a security's [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp). 
+[The required rate of return](https://www.investopedia.com/articles/fundamental-analysis/11/calculating-required-rate-of-return.asp) RRR is a key concept in equity valuation and corporate finance. It's a difficult metric to pinpoint due to the different investment goals and risk tolerance of individual investors and companies. Risk-return preferences, inflation expectations, and a company’s capital structure all play a role in determining the company's own required rate. Each one of these and other factors can have major effects on a security's [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp). 
 
 For investors using the CAPM formula, the required rate of return for a stock with a high beta relative to the market should have a higher RRR. The higher RRR relative to other investments with low betas is necessary to compensate investors for the added level of risk associated with investing in the higher beta stock.
 
@@ -71,7 +71,7 @@ In other words, RRR is in part calculated by adding the risk premium to the expe
 
 For capital projects, RRR is useful in determining whether to pursue one project versus another. The RRR is what's needed to go ahead with the project although some projects might not meet the RRR but are in the long-term best interests of the company.
 
-Inflation must also be factored into RRR analysis. The RRR on a stock is the minimum rate of return on a stock that an investor considers acceptable, taking into account their [cost of capital](https://www.investopedia.com/ask/answers/020415/what-difference-between-cost-capital-and-required-return.asp), inflation and the return available on other investments.
+Inflation must also be factored into RRR analysis. The RRR on a stock is the minimum rate of return on a stock that an investor considers acceptable, taking into account their [[cost of capital]](https://www.investopedia.com/ask/answers/020415/what-difference-between-cost-capital-and-required-return.asp), inflation and the return available on other investments.
 
 For example, if inflation is 3% per year, and the equity risk premium over the risk-free return (using a U.S. Treasury bill which returns 3%), then an investor might require a return of 9% per year to make the stock investment worthwhile. This is because a 9% return is really a 6% return after inflation, which means the investor would not be rewarded for the risk they were taking. They would receive the same risk-adjusted return by investing in the 3% yielding Treasury bill, which would have a zero real rate of return after adjusting for inflation.
 
@@ -81,7 +81,7 @@ A company is expected to pay an annual dividend of $3 next year, and its stock i
 
 -   **RRR = 7% or (($3 expected dividend / $100 per share) + 0.04 growth rate)**
 
-In the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM), RRR can be calculated using the beta of a security, or risk coefficient, as well as the excess return that investing in the stock pays over a risk-free rate, is the [equity risk premium](https://www.investopedia.com/terms/e/equityriskpremium.asp).
+In the [[capital asset pricing model]](https://www.investopedia.com/terms/c/capm.asp) (CAPM), RRR can be calculated using the beta of a security, or risk coefficient, as well as the excess return that investing in the stock pays over a risk-free rate, is the [[equity risk premium]](https://www.investopedia.com/terms/e/equityriskpremium.asp).
 
 ## RRR Using CAPM Formula Example
 
@@ -92,7 +92,7 @@ In the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.a
 
 ## RRR vs. Cost of Capital
 
-Although the required rate of return is used in capital budgeting projects, RRR is not the same level of return that's needed to cover the [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp). The cost of capital is the minimum return needed to cover the cost of debt and issuing equity to raise funds for the project. The cost of capital is the lowest return needed to account for the capital structure. The RRR should always be higher than the cost of capital.
+Although the required rate of return is used in capital budgeting projects, RRR is not the same level of return that's needed to cover the [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp). The cost of capital is the minimum return needed to cover the cost of debt and issuing equity to raise funds for the project. The cost of capital is the lowest return needed to account for the capital structure. The RRR should always be higher than the cost of capital.
 
 ## Limitations of RRR
 

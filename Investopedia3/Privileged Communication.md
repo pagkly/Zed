@@ -16,7 +16,7 @@ author: Will Kenton
 Privileged Communication
 ## What Is Privileged Communication?
 
-Privileged communication is an interaction between two parties in which the law recognizes a private, protected relationship. Whatever is communicated between the two parties must remain [confidential](https://www.investopedia.com/terms/c/confidentiality_agreement.asp), and the law cannot force their disclosure.
+Privileged communication is an interaction between two parties in which the law recognizes a private, protected relationship. Whatever is communicated between the two parties must remain [[confidential]](https://www.investopedia.com/terms/c/confidentiality_agreement.asp), and the law cannot force their disclosure.
 
 Even disclosure by one of the parties comes with legal limitations. There are, however, exceptions that can invalidate a privileged communication relationship. There are also various circumstances under which privileged communication can be waived**,** either deliberately or unintentionally. Commonly cited relationships where privileged communication exists are those between attorney and client, doctor–or therapist–and patient, and priest and parishioner.
 
@@ -38,7 +38,7 @@ The key provisions of privilege between spouses are that courts cannot force hus
 
 To ensure confidential status in a privileged communication relationship, the communication made between the two parties must take place in a private setting–for example, a meeting room–where the parties have a reasonable expectation that others might not overhear them.
 
-However, the privileged status of the communication ends if–or when–the communication is shared with a [third party](https://www.investopedia.com/terms/t/third-party.asp) that is not part of the protected relationship. However, a person who is an agent of the recipient of the information—an accountant's secretary, say, or a doctor's nurse—is generally not considered to be a third party who jeopardizes the privileged status of the communication.
+However, the privileged status of the communication ends if–or when–the communication is shared with a [[third party]](https://www.investopedia.com/terms/t/third-party.asp) that is not part of the protected relationship. However, a person who is an agent of the recipient of the information—an accountant's secretary, say, or a doctor's nurse—is generally not considered to be a third party who jeopardizes the privileged status of the communication.
 
 It is important to keep in mind that there are situations where privileged communications stops being private. For example, if there have been disclosures of harm to people, or the threat of harm to people in the future. Communications with medical professionals are not protected when the professional has reason to believe the patient may bring harm to themselves or others.
 

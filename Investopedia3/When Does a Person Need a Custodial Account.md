@@ -16,7 +16,7 @@ author: Troy Segal
 When Does a Person Need a Custodial Account?
 ## What Is a Custodial Account?
 
-The term custodial account generally refers to a savings account at a financial institution, mutual [fund company](https://www.investopedia.com/terms/f/fund_company.asp), or brokerage firm that an adult controls for a minor (a person under the age of 18 or 21 years, depending on the laws of the state of residence). Approval from the [custodian](https://www.investopedia.com/terms/c/custodian.asp) is mandatory for the account to conduct transactions, such as buying or selling securities.
+The term custodial account generally refers to a savings account at a financial institution, mutual [[fund company]](https://www.investopedia.com/terms/f/fund_company.asp), or brokerage firm that an adult controls for a minor (a person under the age of 18 or 21 years, depending on the laws of the state of residence). Approval from the [[custodian]](https://www.investopedia.com/terms/c/custodian.asp) is mandatory for the account to conduct transactions, such as buying or selling securities.
 
 In a broader sense, a custodial account can mean any account maintained by a fiduciarily responsible party on behalf of a beneficiary, such as an employer-based retirement account handled for eligible employees by a plan administrator. A fiduciary is bound ethically and legally to act on the best behalf of another's interests.
 
@@ -26,7 +26,7 @@ This article focuses on custodial accounts for minors.
 
 ## Two Types of Custodial Accounts
 
-Custodial accounts come in two basic varieties: the [Uniform Transfers to Minors Act](https://www.investopedia.com/terms/u/utma.asp) (UTMA) accounts and the older [Uniform Gift to Minors Act](https://www.investopedia.com/terms/u/ugma.asp) (UGMA) accounts. Their main distinction lies in the kind of assets you can contribute to them.
+Custodial accounts come in two basic varieties: the [[Uniform Transfers to Minors Act]](https://www.investopedia.com/terms/u/utma.asp) (UTMA) accounts and the older [[Uniform Gift to Minors Act]](https://www.investopedia.com/terms/u/ugma.asp) (UGMA) accounts. Their main distinction lies in the kind of assets you can contribute to them.
 
 UTMA accounts can hold virtually any kind of asset, including real estate, intellectual property, and works of art. UGMA accounts are limited to financial assets of cash, securities—stocks, bonds, or mutual funds—annuities, and insurance policies. All U.S. states allow UGMA accounts. However, South Carolina does not allow UTMA accounts.
 
@@ -54,7 +54,7 @@ Custodial accounts have enormous flexibility. There are no income or contributio
 
 While all withdrawn funds are restricted to being used "for the benefit of the minor," this requirement is vague and is not limited to educational costs, as with college savings plans. The custodian may use the funds for everything from providing a place to live or paying for clothing as long as the beneficiary receives a benefit.
 
-A custodial account is much simpler and less expensive to establish than a [trust fund](https://www.investopedia.com/terms/t/trust-fund.asp). The aim of both UGMA and UTMA regulations was to allow adults to transfer assets to minors without the need to establish a special trust to enable such ownership.
+A custodial account is much simpler and less expensive to establish than a [[trust fund]](https://www.investopedia.com/terms/t/trust-fund.asp). The aim of both UGMA and UTMA regulations was to allow adults to transfer assets to minors without the need to establish a special trust to enable such ownership.
 
 ### Tax Advantages
 
@@ -88,7 +88,7 @@ A minor's ownership of the custodial account can be a double-edged sword. Since 
 
 Any deposit or gifts made to the account is irrevocable, meaning it cannot be changed or reversed. All of the account's holdings pass, irrevocably, to the minor at the age of majority. In contrast, many college savings plans, such as a [529 account](https://www.investopedia.com/terms/1/529plan.asp), allow parents to retain control of the funds.
 
-Custodial accounts are not as tax-sheltered as other accounts. To mitigate a tax bite, a custodian can transfer funds to an eligible 529 plan. However, to do so, the custodian must [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) any non-cash investments in the custodial account.
+Custodial accounts are not as tax-sheltered as other accounts. To mitigate a tax bite, a custodian can transfer funds to an eligible 529 plan. However, to do so, the custodian must [[liquidate]](https://www.investopedia.com/terms/l/liquidate.asp) any non-cash investments in the custodial account.
 
 Also, the custodial account beneficiary cannot be altered, whereas, the beneficiary on a 529 college plan may change with some limitations. A custodial account is set up in the minor's name. Since the account is irrevocable, the beneficiary of the account may not change, and no gifts or contributions made into the account can be reversed.
 
@@ -96,4 +96,4 @@ Also, the custodial account beneficiary cannot be altered, whereas, the benefici
 
 Most brokerages, both digital and brick-and-mortars, offer custodial accounts. Custodial account terms usually parallel that of their regular, non-tax-advantaged accounts for individuals.
 
-For example, a Merrill Edge—the digital broker platform from Merrill Lynch—UGMA/UTMA custodial account [can be set up online](https://www.merrilledge.com/college-savings/custodial) with funds directly transferred from a checking or savings account at Bank of America, Merrill's parent company. There are no annual account fees or minimum investment amounts. Account-holders pay a flat rate of $6.95 per day for stock and ETF trades, mutual funds trades cost $19.95 per transaction or may be priced according to the rate specified in the fund prospectus. However, some mutual funds are load-waived or no load/no transaction fee funds.
+For example, a Merrill Edge—the digital broker platform from Merrill Lynch—UGMA/UTMA custodial account [[can be set up online]](https://www.merrilledge.com/college-savings/custodial) with funds directly transferred from a checking or savings account at Bank of America, Merrill's parent company. There are no annual account fees or minimum investment amounts. Account-holders pay a flat rate of $6.95 per day for stock and ETF trades, mutual funds trades cost $19.95 per transaction or may be priced according to the rate specified in the fund prospectus. However, some mutual funds are load-waived or no load/no transaction fee funds.

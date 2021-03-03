@@ -16,7 +16,7 @@ author: Troy Segal
 Contingent Value Right (CVR)
 ## What Is a Contingent Value Right (CVR)?
 
-Shareholders of a company facing a restructuring or a [buyout](https://www.investopedia.com/terms/b/buyout.asp) may often receive contingent value rights (CVRs). These rights ensure that the [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) get certain benefits if a specific event occurs, usually within a specified time frame. These rights are similar to options because they frequently have an expiration date, beyond which the rights to the additional benefits will not apply. CVRs are usually related to the performance of a company's stock.
+Shareholders of a company facing a restructuring or a [[buyout]](https://www.investopedia.com/terms/b/buyout.asp) may often receive contingent value rights (CVRs). These rights ensure that the [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) get certain benefits if a specific event occurs, usually within a specified time frame. These rights are similar to options because they frequently have an expiration date, beyond which the rights to the additional benefits will not apply. CVRs are usually related to the performance of a company's stock.
 
 ### Key Takeaways
 
@@ -38,11 +38,11 @@ CVRs come with some risks in that at the time of issuance, their real value is 
 
 ## Types of Contingent Value Rights (CVRs)
 
-Contingent value rights can be offered in two ways: traded on a [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) or non-transferable. CVRs that are traded on a stock exchange can be bought by anyone; they do not have to be current shareholders of the acquired company. An investor can buy a CVR on an exchange up until it expires. Non-transferable CVRs apply only to current shareholders of the acquired company and are distributed at the time of the [merger](https://www.investopedia.com/terms/m/merger.asp). Companies prefer non-transferable CVRs as transferable CVRs listed on an exchange require regulatory work and incur higher costs
+Contingent value rights can be offered in two ways: traded on a [[stock exchange]](https://www.investopedia.com/articles/basics/04/092404.asp) or non-transferable. CVRs that are traded on a stock exchange can be bought by anyone; they do not have to be current shareholders of the acquired company. An investor can buy a CVR on an exchange up until it expires. Non-transferable CVRs apply only to current shareholders of the acquired company and are distributed at the time of the [[merger]](https://www.investopedia.com/terms/m/merger.asp). Companies prefer non-transferable CVRs as transferable CVRs listed on an exchange require regulatory work and incur higher costs
 
 ## Contingent Value Rights (CVRs) as Unsecured Obligations
 
-The [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE) Listed Company Manual refers to CVRs as "unsecured obligations of the issuer." An unsecured obligation, also known as [unsecured debt](https://www.investopedia.com/terms/u/unsecureddebt.asp), carries no collateral or backing by an underlying asset. Congruent with this, shareholders do not have a guaranteed right that the "reward" will be granted to them.
+The [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE) Listed Company Manual refers to CVRs as "unsecured obligations of the issuer." An unsecured obligation, also known as [[unsecured debt]](https://www.investopedia.com/terms/u/unsecureddebt.asp), carries no collateral or backing by an underlying asset. Congruent with this, shareholders do not have a guaranteed right that the "reward" will be granted to them.
 
 So, while they hold an obligation from a company, investors who receive CVRs are more akin to options holders than to, say, bondholders—unlike the latter, they have no guarantee to be paid, and no claim on the company's assets should their payment not materialize.
 
@@ -50,6 +50,6 @@ Also like options, all CVRs have an expiration date. Should the required event 
 
 ## Real World Example
 
-In May 2015, [common stock](https://www.investopedia.com/terms/c/commonstock.asp) shareholders of Safeway Inc. received CVRs as a result of the merger of Safeway into a wholly owned subsidiary of Albertsons Companies that year. They were issued in connection to the sale of Property Development Centers, Safeway's real estate subsidiary, back in 2014. Safeway's shareholders had been promised CVRs on that deal at the time. The first distribution of $0.17 per CVR occurred in May 2017. Nearly a year later, in April 2018, Albertsons made its final distribution of $0.00268 cash per CVR related to the sale of the Property Development Centers' assets.
+In May 2015, [[common stock]](https://www.investopedia.com/terms/c/commonstock.asp) shareholders of Safeway Inc. received CVRs as a result of the merger of Safeway into a wholly owned subsidiary of Albertsons Companies that year. They were issued in connection to the sale of Property Development Centers, Safeway's real estate subsidiary, back in 2014. Safeway's shareholders had been promised CVRs on that deal at the time. The first distribution of $0.17 per CVR occurred in May 2017. Nearly a year later, in April 2018, Albertsons made its final distribution of $0.00268 cash per CVR related to the sale of the Property Development Centers' assets.
 
 The former shareholders of Safeway stock reaped another payout from additional CVRs, this one based on the sale of Safeway's stake in a Mexican retailer, Casa Ley. They did better on this deal, receiving $0.93 per CVR in February 2018. CVRs allowed Safeway's stockholders to share in the proceeds from the selloff of the assets of their old company.

@@ -22,9 +22,9 @@ The Federal Direct Loan Program provides low-interest direct loans to postsecond
 
 ## How the Federal Direct Loan Program Works
 
-The program offers several types of loans, including [subsidized direct loans, unsubsidized direct loans](https://www.investopedia.com/personal-finance/federal-direct-loans-subsidized-vs-unsubsidized/), direct [PLUS loans](https://www.investopedia.com/terms/p/plus-loan.asp), and [direct consolidation loans](https://www.investopedia.com/terms/d/direct-consolidation-loan.asp). Subsidized direct loans are the only student loans from the federal government based on financial need. The Department of Education pays the interest on these loans while the student is in school.
+The program offers several types of loans, including [[subsidized direct loans, unsubsidized direct loans]](https://www.investopedia.com/personal-finance/federal-direct-loans-subsidized-vs-unsubsidized/), direct [[PLUS loans]](https://www.investopedia.com/terms/p/plus-loan.asp), and [[direct consolidation loans]](https://www.investopedia.com/terms/d/direct-consolidation-loan.asp). Subsidized direct loans are the only student loans from the federal government based on financial need. The Department of Education pays the interest on these loans while the student is in school.
 
-All loans that are granted through the Federal Direct Loan Program have maximum amounts set each year, with each successive year allowing for an increase in the total maximum yearly amount, with set aggregate amounts. Students who wish to apply for funding must first submit the [Free Application for Federal Student Aid (FAFSA)](https://www.investopedia.com/terms/f/federal-application-of-student-aid-fafsa.asp).
+All loans that are granted through the Federal Direct Loan Program have maximum amounts set each year, with each successive year allowing for an increase in the total maximum yearly amount, with set aggregate amounts. Students who wish to apply for funding must first submit the [[Free Application for Federal Student Aid (FAFSA)]](https://www.investopedia.com/terms/f/federal-application-of-student-aid-fafsa.asp).
 
 ### Key Takeaways
 
@@ -34,6 +34,6 @@ All loans that are granted through the Federal Direct Loan Program have maximum 
 
 ## Federal Direct Loans vs. Private Loans
 
-Private lenders also provide student loans to use instead of—or in addition to—federal loans, but the federal program often has more-favorable interest rates and other provisions, such as loan consolidation and forgiveness programs. Those seeking student loans should [carefully investigate all available options](https://www.investopedia.com/articles/younginvestors/09/private-or-federal-student-loans.asp).
+Private lenders also provide student loans to use instead of—or in addition to—federal loans, but the federal program often has more-favorable interest rates and other provisions, such as loan consolidation and forgiveness programs. Those seeking student loans should [[carefully investigate all available options]](https://www.investopedia.com/articles/younginvestors/09/private-or-federal-student-loans.asp).
 
 [Drawbacks to federal direct loans](https://www.investopedia.com/articles/personal-finance/101014/disadvantages-stafford-loans.asp) include the fact that only unsubsidized loans are available to graduate students, who are also charged higher interest rates than undergraduates. In addition, borrowers who default on these loans are not able to escape the debt by declaring bankruptcy. They also have lower loan limits for undergraduates who are claimed as dependents on their parents’ or guardian’s income taxes. Finally, students must apply anew each year for a federal direct loan.

@@ -16,17 +16,17 @@ author: Adam Hayes
 How Manufacturing Resource Planning Works
 ## What Is Manufacturing Resource Planning?
 
-Manufacturing Resource Planning (MRP II) is an integrated information system used by businesses. Manufacturing Resource Planning (MRP II) evolved from early [Materials Requirement Planning (MRP)](https://www.investopedia.com/terms/m/mrp.asp) systems by including the integration of additional data, such as employee and financial needs.
+Manufacturing Resource Planning (MRP II) is an integrated information system used by businesses. Manufacturing Resource Planning (MRP II) evolved from early [[Materials Requirement Planning (MRP)]](https://www.investopedia.com/terms/m/mrp.asp) systems by including the integration of additional data, such as employee and financial needs.
 
-The system is designed to centralize, integrate, and process information for effective decision making in scheduling, design engineering, [inventory management](https://www.investopedia.com/terms/i/inventory-management.asp), and [cost control](https://www.investopedia.com/terms/c/cost-control.asp) in manufacturing.
+The system is designed to centralize, integrate, and process information for effective decision making in scheduling, design engineering, [[inventory management]](https://www.investopedia.com/terms/i/inventory-management.asp), and [[cost control]](https://www.investopedia.com/terms/c/cost-control.asp) in manufacturing.
 
-Both MRP and MRP II are seen as predecessors to [Enterprise resource planning (ERP)](https://www.investopedia.com/terms/e/equityriskpremium.asp), which is a process whereby a company, often a manufacturer, manages and integrates the important parts of its business.
+Both MRP and MRP II are seen as predecessors to [[Enterprise resource planning (ERP)]](https://www.investopedia.com/terms/e/equityriskpremium.asp), which is a process whereby a company, often a manufacturer, manages and integrates the important parts of its business.
 
 An ERP management information system integrates areas such as planning, purchasing, inventory, sales, marketing, finance, and [human resources](https://www.investopedia.com/terms/h/humanresources.asp). ERP is most frequently used in the context of software, with many large applications having been developed to help companies implement ERP.
 
 ## Understanding Manufacturing Resource Planning (MRP II)
 
-MRP II is a computer-based system that can create detailed production schedules using real-time data to coordinate the arrival of component materials with machine and labor availability. MRP II is used widely by itself, but it's also used as a module of more extensive [enterprise resource planning (ERP)](https://www.investopedia.com/terms/e/erp.asp) systems.
+MRP II is a computer-based system that can create detailed production schedules using real-time data to coordinate the arrival of component materials with machine and labor availability. MRP II is used widely by itself, but it's also used as a module of more extensive [[enterprise resource planning (ERP)]](https://www.investopedia.com/terms/e/erp.asp) systems.
 
 ### Key Takeaways
 

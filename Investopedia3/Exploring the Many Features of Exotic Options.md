@@ -32,11 +32,11 @@ The investor has the right to buy the underlying security with a call option, wh
 
 ## Exotic Options Explained
 
-Exotic options are a variation of the [American](https://www.investopedia.com/terms/a/americanoption.asp) and [European](https://www.investopedia.com/terms/e/europeanoption.asp) style of options—the most common options contracts available. American options let the holder exercise their rights at any time before or on the expiration date. European options have less flexibility, only allowing the holder to exercise on the expiration date of the contracts. Exotic options are hybrids of American and European options and will often fall somewhere in-between these other two styles.
+Exotic options are a variation of the [[American]](https://www.investopedia.com/terms/a/americanoption.asp) and [[European]](https://www.investopedia.com/terms/e/europeanoption.asp) style of options—the most common options contracts available. American options let the holder exercise their rights at any time before or on the expiration date. European options have less flexibility, only allowing the holder to exercise on the expiration date of the contracts. Exotic options are hybrids of American and European options and will often fall somewhere in-between these other two styles.
 
 An exotic option can vary in terms of how the payoff is determined and when the option can be exercised. These options are generally more complex than plain vanilla call and put options. Exotic options usually trade in the [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) (OTC) market. The OTC marketplace is a dealer-broker network as opposed to a large exchange such as the New York Stock Exchange (NYSE).
 
-Further, the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp) for an exotic can differ greatly from that of a regular option. Exotic options can be used in trading commodities such as lumber, corn, oil, and natural gas as well as equities, bonds, and foreign exchange. Speculative investors can even bet on the weather or price direction of an asset using a [binary option](https://www.investopedia.com/terms/b/binary-option.asp).
+Further, the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp) for an exotic can differ greatly from that of a regular option. Exotic options can be used in trading commodities such as lumber, corn, oil, and natural gas as well as equities, bonds, and foreign exchange. Speculative investors can even bet on the weather or price direction of an asset using a [[binary option]](https://www.investopedia.com/terms/b/binary-option.asp).
 
 Despite their embedded complexities, exotic options have certain advantages over traditional options, which can include: 
 
@@ -85,14 +85,14 @@ These types of options are commonly used in foreign exchange and fixed-income m
 
 [Barrier options](https://www.investopedia.com/terms/b/barrieroption.asp) are similar to plain vanilla calls and puts, but only become activated or extinguished when the underlying asset hits a preset price level. In this sense, the value of barrier options jumps up or down in leaps, instead of changing the price in small increments. These options are commonly traded in the foreign exchange and equity markets.
 
-As an example, let's say a barrier option has a knock-out price of $100, and a strike price of $90 and the stock is currently trading at $80 per share. The option will behave like a standard option when the underlying is below $99.99, but once the underlying stock price hits $100, the option gets [knocked-out](https://www.investopedia.com/terms/k/knock-outoption.asp) and becomes worthless. A [knock-in](https://www.investopedia.com/terms/k/knock-inoption.asp) would be the opposite. If the underlying is below $99.99, the option does not exist, but once the underlying hits $100, the option comes into existence and is $10 [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp).
+As an example, let's say a barrier option has a knock-out price of $100, and a strike price of $90 and the stock is currently trading at $80 per share. The option will behave like a standard option when the underlying is below $99.99, but once the underlying stock price hits $100, the option gets [[knocked-out]](https://www.investopedia.com/terms/k/knock-outoption.asp) and becomes worthless. A [[knock-in]](https://www.investopedia.com/terms/k/knock-inoption.asp) would be the opposite. If the underlying is below $99.99, the option does not exist, but once the underlying hits $100, the option comes into existence and is $10 [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp).
 
 Barrier options can be used by investors to lower the premium for buying an option. For example, a knock-out feature for a call option might limit the gains on the underlying stock. There are four types of barrier options:
 
-1.  [Up-and-out](https://www.investopedia.com/terms/u/up-and-outoption.asp) is when the price of the asset rises and knocks out the option
-2.  [Down-and-out](https://www.investopedia.com/terms/d/daoo.asp) is when the price declines and knocks out the option
-3.  [Up-and-in](https://www.investopedia.com/terms/u/up-and-inoption.asp) initiates an option when the price rises to a specific level
-4.  [Down-and-in](https://www.investopedia.com/terms/d/daio.asp) knocks in on a price decline.
+1.  [[Up-and-out]](https://www.investopedia.com/terms/u/up-and-outoption.asp) is when the price of the asset rises and knocks out the option
+2.  [[Down-and-out]](https://www.investopedia.com/terms/d/daoo.asp) is when the price declines and knocks out the option
+3.  [[Up-and-in]](https://www.investopedia.com/terms/u/up-and-inoption.asp) initiates an option when the price rises to a specific level
+4.  [[Down-and-in]](https://www.investopedia.com/terms/d/daio.asp) knocks in on a price decline.
 
 ### Binary Options
 
@@ -138,11 +138,11 @@ Extendible options allow the investor to extend the expiration date of the opti
 
 ### Spread Options
 
-The underlying asset for [spread options](https://www.investopedia.com/terms/s/spreadoption.asp) is the spread or difference between the prices of two underlying assets. As an example, say a one-month spread call option has a strike price of $3 and utilizes the price difference between stocks ABC and XYZ as the underlying. At expiry, if stocks ABC and XYZ are trading at $106 and $98, respectively, the option will pay $5 ($106 - $98 - $3 = $5).
+The underlying asset for [[spread options]](https://www.investopedia.com/terms/s/spreadoption.asp) is the spread or difference between the prices of two underlying assets. As an example, say a one-month spread call option has a strike price of $3 and utilizes the price difference between stocks ABC and XYZ as the underlying. At expiry, if stocks ABC and XYZ are trading at $106 and $98, respectively, the option will pay $5 ($106 - $98 - $3 = $5).
 
 ### Shout Options
 
-A [shout option](https://www.investopedia.com/terms/s/shoutoption.asp) allows the holder to lock in a certain amount in profit while retaining future upside potential on the position. If a trader buys a shout call option with a strike price of $100 on stock ABC for one month, when the stock price goes to $118, the holder of the shout option can lock in this price and have a guaranteed profit of $18. At expiry, if the underlying stock goes to $125, the option pays $25. Meanwhile, if the stock ends at $106 at expiry, the holder still receives $18 on the position.
+A [[shout option]](https://www.investopedia.com/terms/s/shoutoption.asp) allows the holder to lock in a certain amount in profit while retaining future upside potential on the position. If a trader buys a shout call option with a strike price of $100 on stock ABC for one month, when the stock price goes to $118, the holder of the shout option can lock in this price and have a guaranteed profit of $18. At expiry, if the underlying stock goes to $125, the option pays $25. Meanwhile, if the stock ends at $106 at expiry, the holder still receives $18 on the position.
 
 ### Range Options
 

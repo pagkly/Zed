@@ -16,7 +16,7 @@ author: Will Kenton
 What is a Nonaccrual Loan?
 ## What Is a Nonaccrual Loan?
 
-A nonaccrual loan is a lender's term for an unsecured loan whose payment is 90 days or more overdue. The loan is no longer generating its stated interest rate because no payment has been made by the borrower. It is, therefore, a [nonperforming loan](https://www.investopedia.com/terms/n/nonperformingloan.asp).
+A nonaccrual loan is a lender's term for an unsecured loan whose payment is 90 days or more overdue. The loan is no longer generating its stated interest rate because no payment has been made by the borrower. It is, therefore, a [[nonperforming loan]](https://www.investopedia.com/terms/n/nonperformingloan.asp).
 
 Loans can have interest credited only when the borrower makes a payment (of a portion of the principal plus interest). The interest on a nonaccrual loan is thus recorded as earned income.
 
@@ -24,7 +24,7 @@ Nonaccrual loans are sometimes referred to as doubtful loans, troubled loans, or
 
 ## How a Nonaccrual Loan Works
 
-A loan becomes a nonaccrual loan when no payment has been received after 90 days. The bank classifies the loan as substandard and reports the change to the [credit reporting agencies](https://www.investopedia.com/terms/c/credit-reporting-agency.asp), which lowers the borrower's credit score.
+A loan becomes a nonaccrual loan when no payment has been received after 90 days. The bank classifies the loan as substandard and reports the change to the [[credit reporting agencies]](https://www.investopedia.com/terms/c/credit-reporting-agency.asp), which lowers the borrower's credit score.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ A loan becomes a nonaccrual loan when no payment has been received after 90 days
 
 The lender changes its allowance for the potential loan loss, sets aside a reserve to protect the bank's financial interests, and may take legal action against the borrower.
 
-The loan is also put on a [cash basis](https://www.investopedia.com/terms/c/cash-basis-loan.asp), meaning that interest is recorded as earned only if and when a payment is collected, not as an assumed payment. Ordinarily, interest income is accrued on loans, since regular payment of both [principal](https://www.investopedia.com/terms/p/principal.asp) and interest is assumed. 
+The loan is also put on a [[cash basis]](https://www.investopedia.com/terms/c/cash-basis-loan.asp), meaning that interest is recorded as earned only if and when a payment is collected, not as an assumed payment. Ordinarily, interest income is accrued on loans, since regular payment of both [principal](https://www.investopedia.com/terms/p/principal.asp) and interest is assumed. 
 
 According to the Federal Deposit Insurance Corp. (FDIC), an asset is to be reported as being in nonaccrual status if one of three criteria are met:
 

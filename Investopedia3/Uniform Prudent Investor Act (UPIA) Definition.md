@@ -16,7 +16,7 @@ author: James Chen
 Uniform Prudent Investor Act (UPIA) Definition
 ## What Is the of Uniform Prudent Investor Act?
 
-The Uniform Prudent Investor Act (UPIA) is a uniform statute that sets out guidelines for trustees to follow when investing trust assets. It is an update to the previous prudent man standards intended to reflect the changes that have occurred in investment practice since the late 1960s. Specifically, the Uniform Prudent Investor Act reflects a [modern portfolio theory (MPT)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) and [total return](https://www.investopedia.com/terms/t/totalreturn.asp) approach to the exercise of fiduciary investment discretion.
+The Uniform Prudent Investor Act (UPIA) is a uniform statute that sets out guidelines for trustees to follow when investing trust assets. It is an update to the previous prudent man standards intended to reflect the changes that have occurred in investment practice since the late 1960s. Specifically, the Uniform Prudent Investor Act reflects a [[modern portfolio theory (MPT)]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) and [[total return]](https://www.investopedia.com/terms/t/totalreturn.asp) approach to the exercise of fiduciary investment discretion.
 
 ## Understanding Uniform Prudent Investor Act (UPIA)
 
@@ -38,7 +38,7 @@ The Prudent Man Rule was based on Massachusetts common law written in 1830 and r
 
 A [prudent investment](https://www.investopedia.com/terms/p/prudent-investment.asp) will not always turn out to be a highly profitable investment; in addition, no one can predict with certainty what will happen with any investment decision.
 
-More recently, the prudent man rule has been renamed the [prudent person rule](https://www.investopedia.com/terms/p/prudentmanrule.asp). This set of guidelines can also be applied outside of trustee domains, where it is referred to as the [prudent investor rule](https://www.investopedia.com/terms/p/prudent-investor-rule.asp).
+More recently, the prudent man rule has been renamed the [[prudent person rule]](https://www.investopedia.com/terms/p/prudentmanrule.asp). This set of guidelines can also be applied outside of trustee domains, where it is referred to as the [[prudent investor rule]](https://www.investopedia.com/terms/p/prudent-investor-rule.asp).
 
 ## The Uniform Prudent Investor Act’s Updates to the Rule
 

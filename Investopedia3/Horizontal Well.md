@@ -26,7 +26,7 @@ A horizontal well is a type of directional drilling technique where an oil or ga
 
 ## How a Horizontal Well Works
 
-Horizontal wells took a more prominent role in fossil fuel extraction during the 2010s. As technology has developed, horizontal drilling has lowered costs and improved the efficiency of oil and [natural gas](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) extraction, especially in the U.S.1
+Horizontal wells took a more prominent role in fossil fuel extraction during the 2010s. As technology has developed, horizontal drilling has lowered costs and improved the efficiency of oil and [[natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) extraction, especially in the U.S.1
 
 The emergence of horizontal wells has been facilitated by two components of the drilling apparatus:
 
@@ -45,6 +45,6 @@ Horizontal drilling can also be used to seal off—or relieve pressure on—an o
 
 ## Horizontal Drilling vs. Hydraulic Fracturing
 
-Horizontal wells have proven particularly useful as a component of the [hydraulic fracturing](https://www.investopedia.com/terms/h/hydraulic-fracturing.asp) process. Fracking helps extract natural gas and oil from huge [shale](https://www.investopedia.com/terms/s/shale.asp) reservoirs in the U.S. These deposits tend to be inaccessible to traditional vertical drilling due to the impermeability of the shale formations.
+Horizontal wells have proven particularly useful as a component of the [[hydraulic fracturing]](https://www.investopedia.com/terms/h/hydraulic-fracturing.asp) process. Fracking helps extract natural gas and oil from huge [[shale]](https://www.investopedia.com/terms/s/shale.asp) reservoirs in the U.S. These deposits tend to be inaccessible to traditional vertical drilling due to the impermeability of the shale formations.
 
 Instead, oil and gas companies drill horizontally into the shale and pump a compound of water, chemicals, and guar gum—also known as mud—into the shale. The force of these injections fractures the rock, creating openings through which petroleum and natural gas flow.5

@@ -18,7 +18,7 @@ Reverse Culture Shock Definition
 
 Reverse culture shock is the emotional and psychological distress suffered by some people when they return home after a number of years overseas. This can result in unexpected difficulty in readjusting to the culture and values of the home country, now that the previously familiar has become unfamiliar.
 
-In a business context, the advent of [globalization](https://www.investopedia.com/terms/g/globalization.asp) has resulted in more and more employees being sent on lengthy assignments to other countries. With the number of [expatriates](https://www.investopedia.com/terms/e/expatriate.asp) who live and work in countries other than their own having increased in recent years, reverse [culture shock](https://www.investopedia.com/terms/c/culture-shock.asp) is a phenomenon that is on the rise.
+In a business context, the advent of [[globalization]](https://www.investopedia.com/terms/g/globalization.asp) has resulted in more and more employees being sent on lengthy assignments to other countries. With the number of [[expatriates]](https://www.investopedia.com/terms/e/expatriate.asp) who live and work in countries other than their own having increased in recent years, reverse [[culture shock]](https://www.investopedia.com/terms/c/culture-shock.asp) is a phenomenon that is on the rise.
 
 ### Key Takeaways
 

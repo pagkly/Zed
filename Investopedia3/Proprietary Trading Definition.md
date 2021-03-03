@@ -16,9 +16,9 @@ author: Alan Farley
 Proprietary Trading Definition
 ## What is Proprietary Trading?
 
-Proprietary trading refers to a financial firm or commercial bank that invests for direct market gain rather than earning commission dollars by trading on behalf of clients. Also known as "prop trading," this type of trading activity occurs when a [financial firm chooses to profit from market activities](https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-trading-companies.asp) rather than thin-margin commissions obtained through client trading activity. Proprietary trading may involve the trading of stocks, bonds, commodities, currencies or other instruments.
+Proprietary trading refers to a financial firm or commercial bank that invests for direct market gain rather than earning commission dollars by trading on behalf of clients. Also known as "prop trading," this type of trading activity occurs when a [[financial firm chooses to profit from market activities]](https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-trading-companies.asp) rather than thin-margin commissions obtained through client trading activity. Proprietary trading may involve the trading of stocks, bonds, commodities, currencies or other instruments.
 
-Financial firms or commercial banks that engage in proprietary trading believe they have a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) that will enable them to earn an annual return that exceeds index investing, bond yield appreciation or other investment styles.
+Financial firms or commercial banks that engage in proprietary trading believe they have a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) that will enable them to earn an annual return that exceeds index investing, bond yield appreciation or other investment styles.
 
 ### Key Takeaways
 

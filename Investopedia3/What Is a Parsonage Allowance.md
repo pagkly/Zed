@@ -24,7 +24,7 @@ Note, the minister, as defined by the IRS, may be Christian, Jewish, Muslim, or 
 
 ## Understanding the Parsonage Allowance
 
-[Section 107](https://www.irs.gov/pub/irs-utl/ministers.pdf) of the Internal Revenue Code (IRC) allows the minister of a religious body to exempt some or all of a housing allowance from [gross income](https://www.investopedia.com/terms/g/grossincome.asp) for income tax purposes.3
+[Section 107](https://www.irs.gov/pub/irs-utl/ministers.pdf) of the Internal Revenue Code (IRC) allows the minister of a religious body to exempt some or all of a housing allowance from [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp) for income tax purposes.3
 
 As compensation for ministerial services provided, a minister may receive ministerial income, a portion of which includes a rental or housing allowance. The minister can exclude from gross income the lesser of the following amounts:
 
@@ -32,7 +32,7 @@ As compensation for ministerial services provided, a minister may receive minist
 -   the amount actually used to provide or rent a home
 -   the fair market rental value of the home4
 
-If the payment is greater than the actual expenditure, the minister is responsible for reporting and paying taxes on the correct amount of income.1 That is, any excess or unused portion of the housing allowance should be reported on the minister’s annual tax return as income on line 7 of [Form 1040](https://www.investopedia.com/terms/1/1040.asp). In addition, the payments officially designated as parsonage allowance must be used in the year received.4
+If the payment is greater than the actual expenditure, the minister is responsible for reporting and paying taxes on the correct amount of income.1 That is, any excess or unused portion of the housing allowance should be reported on the minister’s annual tax return as income on line 7 of [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp). In addition, the payments officially designated as parsonage allowance must be used in the year received.4
 
 ### Key Takeaways
 
@@ -47,22 +47,22 @@ Parsonage allowances only apply to a minister’s primary residence and does not
 -   mortgage payments (principal and interest)
 -   rent payments
 -   property insurance
--   [property taxes](https://www.investopedia.com/terms/p/propertytax.asp)
+-   [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp)
 -   payments for utilities and service delivery
--   [homeowners’ association dues](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp)
+-   [[homeowners’ association dues]](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp)
 -   remodeling expenses
 
 Ministers living in parsonages provided by the church may have part of their compensation designated as a tax-free parsonage or housing allowance to cover the cost of furniture purchase and repair, as well as other expenses related to maintenance which are not reimbursed by the church employer.
 
-If a [home equity loan](https://www.investopedia.com/terms/h/homeequityloan.asp) is used to pay for expenses related to the parsonage, it can be included as part of the minister’s parsonage allowance. However, if the home equity loan is used to cover post-secondary tuition expenses or other costs not eligible as a parsonage expense, the loan cannot be included as parsonage allowance.
+If a [[home equity loan]](https://www.investopedia.com/terms/h/homeequityloan.asp) is used to pay for expenses related to the parsonage, it can be included as part of the minister’s parsonage allowance. However, if the home equity loan is used to cover post-secondary tuition expenses or other costs not eligible as a parsonage expense, the loan cannot be included as parsonage allowance.
 
 In addition to home equity loans used to pay off non-housing expenses, the cost of food, clothing, domestic help, and cleaning services are not part of a minister’s parsonage allowance.
 
-A minister who has a parsonage allowance and itemizes deductions may also deduct mortgage interest and property taxes from income taxes. The parsonage allowance is a [tax exemption](https://www.investopedia.com/terms/t/tax_exempt.asp) from income, while mortgage interest and property taxes are [tax deductions](https://www.investopedia.com/terms/t/tax-deduction.asp) from income.
+A minister who has a parsonage allowance and itemizes deductions may also deduct mortgage interest and property taxes from income taxes. The parsonage allowance is a [[tax exemption]](https://www.investopedia.com/terms/t/tax_exempt.asp) from income, while mortgage interest and property taxes are [[tax deductions]](https://www.investopedia.com/terms/t/tax-deduction.asp) from income.
 
 ### If the Minister is Self-Employed
 
-Although parsonage allowance is deducted for [federal income tax](https://www.investopedia.com/terms/f/federal_income_tax.asp) purposes, it is not deducted for [self-employment tax](https://www.investopedia.com/terms/s/selfemploymenttax.asp) purposes. Parsonage allowance and/or the fair market rental value of a parsonage provided to a pastor must be included as self-employment earnings subject to the self-employment tax.2
+Although parsonage allowance is deducted for [[federal income tax]](https://www.investopedia.com/terms/f/federal_income_tax.asp) purposes, it is not deducted for [[self-employment tax]](https://www.investopedia.com/terms/s/selfemploymenttax.asp) purposes. Parsonage allowance and/or the fair market rental value of a parsonage provided to a pastor must be included as self-employment earnings subject to the self-employment tax.2
 
 Retired ministers may be eligible for the parsonage allowance.
 

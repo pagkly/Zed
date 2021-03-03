@@ -18,7 +18,7 @@ What Is a Non-Taxable Distribution?
 
 A non-taxable distribution is a payment to shareholders that is similar to a dividend but that represents a share of a company's capital rather than its earnings. In any case, it's not really "non-taxable." It's just not taxed until the investor sells the stock in the company that issued the distribution. Nondividend distributions reduce the basis of the stock.
 
-Stock received from a corporate spinoff may be transferred to stockholders as a non-taxable distribution. [Dividends](https://www.investopedia.com/terms/d/dividend.asp) paid to cash-value life insurance policyholders are considered non-taxable distributions of capital.
+Stock received from a corporate spinoff may be transferred to stockholders as a non-taxable distribution. [[Dividends]](https://www.investopedia.com/terms/d/dividend.asp) paid to cash-value life insurance policyholders are considered non-taxable distributions of capital.
 
 Non-taxable distributions also may be referred to as non-dividend distributions or return of capital distributions.
 
@@ -40,7 +40,7 @@ Examples of non-taxable distributions include stock dividends, stock splits, sto
 
 The distribution is a non-taxable event when it is disbursed, but it will be taxable when the stock is sold.
 
-Shareholders who receive non-taxable distributions must reduce the [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) of their stock accordingly. When the shareholder sells the stock, the capital gain or loss that results will be calculated from the adjusted basis.
+Shareholders who receive non-taxable distributions must reduce the [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) of their stock accordingly. When the shareholder sells the stock, the capital gain or loss that results will be calculated from the adjusted basis.
 
 For example, say an investor purchases 100 shares of a stock for $800. During the tax year, the investor receives a non-taxable distribution of $90 from the company. The cost basis will be adjusted to $710, the price paid minus the distribution. The following year, the investor sells the shares for $1,000. The capital gain for tax purposes is $290, or the $200 profit plus the $90 distribution.
 
@@ -48,6 +48,6 @@ The amount of a non-dividend distribution is usually smaller than the investor�
 
 For example, assume the investor in the example above receives a total of $890 in non-taxable dividends. The first $800 of the distribution will reduce the cost basis to zero. The remaining $90 must be reported as short- or long-term capital gain, depending on whether the shares were held for a year or less.
 
-Non-taxable distributions are generally reported in Box 3 of Form 1099-DIV. Return of capital shows up under the “Non-Dividend Distributions” column on the form. The investor may receive this form from the company that paid the dividend. If not, the distribution may be reported as an [ordinary dividend](https://www.investopedia.com/terms/o/ordinary-dividends.asp).
+Non-taxable distributions are generally reported in Box 3 of Form 1099-DIV. Return of capital shows up under the “Non-Dividend Distributions” column on the form. The investor may receive this form from the company that paid the dividend. If not, the distribution may be reported as an [[ordinary dividend]](https://www.investopedia.com/terms/o/ordinary-dividends.asp).
 
 [IRS Publication 550](https://www.irs.gov/forms-pubs/about-publication-550) has all the details about reporting investment income, including non-dividend distribution income.

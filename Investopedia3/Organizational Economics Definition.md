@@ -16,7 +16,7 @@ author: Clay Halton
 Organizational Economics Definition
 ## What is Organizational Economics?
 
-Organizational economics is a branch of [applied economics](https://www.investopedia.com/terms/a/applied-economics.asp) that studies the [transactions](https://www.investopedia.com/terms/t/transaction.asp) occurring within individual firms, as opposed to the transactions that occur within the greater market. Organizational economics is broken down into three major subfields: [agency theory](https://www.investopedia.com/terms/a/agencytheory.asp), transaction cost economics and [property rights](https://www.investopedia.com/terms/p/property_rights.asp) theory. Courses in organizational economics are usually taught at the graduate or doctoral level.
+Organizational economics is a branch of [[applied economics]](https://www.investopedia.com/terms/a/applied-economics.asp) that studies the [[transactions]](https://www.investopedia.com/terms/t/transaction.asp) occurring within individual firms, as opposed to the transactions that occur within the greater market. Organizational economics is broken down into three major subfields: [[agency theory]](https://www.investopedia.com/terms/a/agencytheory.asp), transaction cost economics and [[property rights]](https://www.investopedia.com/terms/p/property_rights.asp) theory. Courses in organizational economics are usually taught at the graduate or doctoral level.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Organizational economics is a branch of [applied economics](https://www.investop
 
 ## Understanding Organizational Economics
 
-Organizational economics is useful in developing a firm's human resource management policies, determining how a firm should be organized, assessing [business risk](https://www.investopedia.com/terms/b/businessrisk.asp), implementing rewards systems and making, analyzing and improving management decisions. For example, organizational economics could be used to assess why the 2010 BP oil spill in the Gulf of Mexico was able to occur and how a similar disaster could be prevented in the future.
+Organizational economics is useful in developing a firm's human resource management policies, determining how a firm should be organized, assessing [[business risk]](https://www.investopedia.com/terms/b/businessrisk.asp), implementing rewards systems and making, analyzing and improving management decisions. For example, organizational economics could be used to assess why the 2010 BP oil spill in the Gulf of Mexico was able to occur and how a similar disaster could be prevented in the future.
 
 ## How Organizational Economics Can Be Used to Examine Causal Factors
 

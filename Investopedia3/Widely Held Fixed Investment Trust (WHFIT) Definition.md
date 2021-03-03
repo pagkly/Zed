@@ -16,7 +16,7 @@ author: Julia Kagan
 Widely Held Fixed Investment Trust (WHFIT) Definition
 ## What Is a Widely Held Fixed Investment Trust (WHFIT)?
 
-A widely held fixed investment trust (WHFIT) is a type of [unit investment trust](https://www.investopedia.com/terms/u/uit.asp) (UIT) with at least one interest held by a [third party](https://www.investopedia.com/terms/t/third-party.asp). Investors who purchase shares of the trust receive any regular payments of interest or dividends earned on the equities or bonds held in trust.
+A widely held fixed investment trust (WHFIT) is a type of [[unit investment trust]](https://www.investopedia.com/terms/u/uit.asp) (UIT) with at least one interest held by a [[third party]](https://www.investopedia.com/terms/t/third-party.asp). Investors who purchase shares of the trust receive any regular payments of interest or dividends earned on the equities or bonds held in trust.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ A widely held fixed investment trust (WHFIT) is a type of [unit investment trust
 
 ## Understanding Widely Held Fixed Investment Trusts
 
-Widely held fixed investment trusts must have at least one third-party interest holder, or [middleman](https://www.investopedia.com/terms/m/middleman.asp). Otherwise, they function the same way as any other unit investment trust offering shares in a [fixed portfolio](https://www.investopedia.com/terms/d/defined-portfolio.asp) of assets to prospective investors. Because the investors who fund the initial purchase of the assets in the portfolio typically participate as trust interest holders, widely held fixed investment trusts fall under the category of grantor’s trusts.
+Widely held fixed investment trusts must have at least one third-party interest holder, or [[middleman]](https://www.investopedia.com/terms/m/middleman.asp). Otherwise, they function the same way as any other unit investment trust offering shares in a [[fixed portfolio]](https://www.investopedia.com/terms/d/defined-portfolio.asp) of assets to prospective investors. Because the investors who fund the initial purchase of the assets in the portfolio typically participate as trust interest holders, widely held fixed investment trusts fall under the category of grantor’s trusts.
 
-Trust interest holders receive [dividend](https://www.investopedia.com/terms/d/dividend.asp) or [interest](https://www.investopedia.com/terms/i/interest.asp) payments derived from the underlying assets in the portfolio based upon the proportion of shares they hold. The presence of middlemen in the trust means investors may hold either direct interest in the trust or indirect interest if a middleman such as a broker holds the shares in another investor’s name.
+Trust interest holders receive [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) or [[interest]](https://www.investopedia.com/terms/i/interest.asp) payments derived from the underlying assets in the portfolio based upon the proportion of shares they hold. The presence of middlemen in the trust means investors may hold either direct interest in the trust or indirect interest if a middleman such as a broker holds the shares in another investor’s name.
 
 WHFITs are classified as pass-through investments for income tax purposes. The parties involved in the creation and maintenance of a WHFIT include:
 
@@ -40,13 +40,13 @@ WHFITs are classified as pass-through investments for income tax purposes. The 
 
 ## Other Types of Investment Companies
 
-The [U.S. Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) considers unit investment trusts one of three types of investment companies, along with mutual funds and [closed-end funds](https://www.investopedia.com/terms/c/closed-endinvestment.asp). Like mutual funds, widely held fixed investment trusts offer investors an opportunity to purchase shares in a diversified portfolio of underlying assets at a lower cost and with less hassle than it would take to build the portfolio independently. Unlike mutual funds, widely held fixed investment trusts offer a static portfolio of assets. They also specify a termination date on which the trust will sell the underlying assets and distribute the proceeds to investors.
+The [[U.S. Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) considers unit investment trusts one of three types of investment companies, along with mutual funds and [[closed-end funds]](https://www.investopedia.com/terms/c/closed-endinvestment.asp). Like mutual funds, widely held fixed investment trusts offer investors an opportunity to purchase shares in a diversified portfolio of underlying assets at a lower cost and with less hassle than it would take to build the portfolio independently. Unlike mutual funds, widely held fixed investment trusts offer a static portfolio of assets. They also specify a termination date on which the trust will sell the underlying assets and distribute the proceeds to investors.
 
-The U.S. Internal Revenue Service generally treats widely held investment trusts as [pass-through entities](https://www.investopedia.com/terms/f/flow-through.asp) for tax purposes. Because of this, the trust itself does not pay taxes on its earnings. Instead, individuals who invest in the trust receive a Form 1099 detailing their annual earnings and must pay taxes on those amounts as they would any other earned income.
+The U.S. Internal Revenue Service generally treats widely held investment trusts as [[pass-through entities]](https://www.investopedia.com/terms/f/flow-through.asp) for tax purposes. Because of this, the trust itself does not pay taxes on its earnings. Instead, individuals who invest in the trust receive a Form 1099 detailing their annual earnings and must pay taxes on those amounts as they would any other earned income.
 
 ## Widely Held Mortgage Trusts
 
-One common variety of widely held fixed investment trust, the widely held mortgage trust, offers portfolios consisting of [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) assets. In these cases, the trust typically purchases a [pool of mortgages](https://www.investopedia.com/terms/m/mortgage_pool.asp) or other similar debt instruments tied to real estate. Investors earn returns based upon the interest collected on the underlying mortgages. The three major federal mortgage lenders, Freddie Mac, Fannie Mae, and Ginnie Mae, all periodically issue widely held mortgage trusts.
+One common variety of widely held fixed investment trust, the widely held mortgage trust, offers portfolios consisting of [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) assets. In these cases, the trust typically purchases a [[pool of mortgages]](https://www.investopedia.com/terms/m/mortgage_pool.asp) or other similar debt instruments tied to real estate. Investors earn returns based upon the interest collected on the underlying mortgages. The three major federal mortgage lenders, Freddie Mac, Fannie Mae, and Ginnie Mae, all periodically issue widely held mortgage trusts.
 
 Related to this is a real estate mortgage investment conduit (REMIC), which is a special purpose vehicle that is used to pool mortgage loans and issue [mortgage-backed securities (MBS).](https://www.investopedia.com/terms/m/mbs.asp)Real estate mortgage investment conduits hold commercial and residential mortgages in trust and issue interests in these mortgages to investors.
 

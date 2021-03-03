@@ -30,30 +30,30 @@ Examples of section 1231 properties include buildings, machinery, land, timber, 
 
 ## Understanding Section 1231 Property
 
-Broadly speaking, if gains on property fitting Section 1231's definition are more than the adjusted basis and amount of [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), the income is counted as capital gains, and as a result, it is taxed at a lower rate than ordinary income.
+Broadly speaking, if gains on property fitting Section 1231's definition are more than the adjusted basis and amount of [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), the income is counted as capital gains, and as a result, it is taxed at a lower rate than ordinary income.
 
 However, when losses are recorded on section 1231 property whereby the loss is classified as an ordinary loss, it's 100% deductible against their income. Ordinarily, if income was qualified as capital gains, so would any losses, which can only be deductible up to $3,000 for the tax year, and any losses in excess of that figure would be arrived at in the following year. The section 1231 law makes it, so taxpayers and business owners get the best of both worlds.
 
 ## Examples of Section 1231 Transactions
 
-The following are considered 1231 transactions under [IRS regulations](https://www.irs.gov/publications/p544#en_US_2014_publink100072547): 
+The following are considered 1231 transactions under [[IRS regulations]](https://www.irs.gov/publications/p544#en_US_2014_publink100072547): 
 
 -   Casualties and thefts – If you have held a property for more than one year and it is adversely affected by theft or casualty (loss or damage from an unexpected or rare event).
--   Condemnations – If a property was held for more than a year, and held as a [capital asset](https://www.investopedia.com/terms/c/capitalasset.asp) relating to trade or business.
--   Sale or exchange of real property, personal property that is depreciable – If the property was held for more than a year and was used in trade or in a business (usually generating revenue via rent or [royalties](https://www.investopedia.com/terms/r/royalty.asp)). 
+-   Condemnations – If a property was held for more than a year, and held as a [[capital asset]](https://www.investopedia.com/terms/c/capitalasset.asp) relating to trade or business.
+-   Sale or exchange of real property, personal property that is depreciable – If the property was held for more than a year and was used in trade or in a business (usually generating revenue via rent or [[royalties]](https://www.investopedia.com/terms/r/royalty.asp)). 
 -   Leaseholds either sold or exchanged – If held for a year and used in trade or business.
 -   Cattle and horses sold or exchanged – If held for two years and used for dairy, draft, breeding, or sporting purposes.
 -   Unharvested crops sold or exchanged – If held for one year and then sold, exchanged, or converted involuntarily and then not reacquired through any means. 
 -   Disposal or Cutting of timber, coal, or iron ore – If treated as a sale. 
 
-Section 1231 property is related to [section 1245 property](https://www.investopedia.com/terms/s/section1245.asp) and [section 1250 property](https://www.investopedia.com/terms/s/section1250.asp). Section 1231 defines the tax treatment that the gains and losses of property fitting the definitions of sections 1245 and 1250 on [form 4797](https://www.irs.gov/pub/irs-pdf/i4797.pdf).
+Section 1231 property is related to [[section 1245 property]](https://www.investopedia.com/terms/s/section1245.asp) and [[section 1250 property]](https://www.investopedia.com/terms/s/section1250.asp). Section 1231 defines the tax treatment that the gains and losses of property fitting the definitions of sections 1245 and 1250 on [[form 4797]](https://www.irs.gov/pub/irs-pdf/i4797.pdf).
 
 ## Section 1245 Property
 
-Section 1245 property cannot include buildings or structural components unless the structure is designed specifically to handle the stresses and demands of a specific use, and can’t be used for any other use, in which case it can be considered closely related to the property it houses. Section 1245 property is any asset that is depreciable or subject to amortization and meets any of the following descriptions in [Publication 544 (2018), Sales and Other Dispositions of Assets](https://www.irs.gov/publications/p544):
+Section 1245 property cannot include buildings or structural components unless the structure is designed specifically to handle the stresses and demands of a specific use, and can’t be used for any other use, in which case it can be considered closely related to the property it houses. Section 1245 property is any asset that is depreciable or subject to amortization and meets any of the following descriptions in [[Publication 544 (2018), Sales and Other Dispositions of Assets]](https://www.irs.gov/publications/p544):
 
 -   Personal property - Generally defined as property other than real estate
--   Other tangible property - This would include machinery or facility that play a key role in production, extraction, or furnishing of services, as well as certain research facilities, or a facility for the bulk storage of [fungible](https://www.investopedia.com/terms/f/fungibility.asp) commodities. This does not include buildings that are included as storage for equipment but would conceivably include a facility that stored goods temporarily before they were packaged and moved.
+-   Other tangible property - This would include machinery or facility that play a key role in production, extraction, or furnishing of services, as well as certain research facilities, or a facility for the bulk storage of [[fungible]](https://www.investopedia.com/terms/f/fungibility.asp) commodities. This does not include buildings that are included as storage for equipment but would conceivably include a facility that stored goods temporarily before they were packaged and moved.
 -   Single-purpose structures built for the sole purpose of agricultural or horticultural use - This does not include a barn but would include silos or grain storage bins.
 -   Facilities used to store and distribute petroleum or primary products of petroleum except for buildings and those buildings structural components.
 

@@ -16,13 +16,13 @@ author: Will Kenton
 How Value Network Analysis Works
 ## What Is a Value Network Analysis?
 
-Value network analysis is the assessment of an organization's members and the interactions of these members within a [value network](https://www.investopedia.com/terms/v/value-network.asp). Value network analysis is usually done by visualizing relationships using a chart or web.
+Value network analysis is the assessment of an organization's members and the interactions of these members within a [[value network]](https://www.investopedia.com/terms/v/value-network.asp). Value network analysis is usually done by visualizing relationships using a chart or web.
 
-Participants of the value network analysis are evaluated both individually and on the benefits that they bring to the network. Value network analysis looks at the [business](https://www.investopedia.com/articles/pf/08/make-money-in-business.asp) as a whole, including financial and non-financial aspects of operations.
+Participants of the value network analysis are evaluated both individually and on the benefits that they bring to the network. Value network analysis looks at the [[business]](https://www.investopedia.com/articles/pf/08/make-money-in-business.asp) as a whole, including financial and non-financial aspects of operations.
 
 ## Understanding Value Network Analysis
 
-Value network analysis provides ways to assess both the [financial and non-financial values](https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp) and aspects of a business. Most forms of analysis are done in a visual form, usually through a diagram or map of the important relationships and transactions that take place between different points of each network. These points generally represent people—individuals, groups, business units, and even individual businesses in an industry.
+Value network analysis provides ways to assess both the [[financial and non-financial values]](https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp) and aspects of a business. Most forms of analysis are done in a visual form, usually through a diagram or map of the important relationships and transactions that take place between different points of each network. These points generally represent people—individuals, groups, business units, and even individual businesses in an industry.
 
 Value networks are made up of members and their interactions while producing a product or providing a service. These connections are extremely important in identifying strong companies as well as finding a company's potential risks.
 
@@ -32,13 +32,13 @@ For example, if a network member has a large influence, the loss of that member 
 
 ## Applying Value Network Analysis
 
-The methodology applied through value network analysis can help an [organization](https://www.investopedia.com/articles/pf/08/make-money-in-business.asp) optimize its internal and external value networks, making the most of its outside relations along with the synergies of the teams within the operation. This includes the exchange of knowledge, information, and expertise across the relationships woven into the organization. The goal of the analysis is to improve communication and collaboration with all involved parties in order to operate at peak and improve overall productivity.
+The methodology applied through value network analysis can help an [[organization]](https://www.investopedia.com/articles/pf/08/make-money-in-business.asp) optimize its internal and external value networks, making the most of its outside relations along with the synergies of the teams within the operation. This includes the exchange of knowledge, information, and expertise across the relationships woven into the organization. The goal of the analysis is to improve communication and collaboration with all involved parties in order to operate at peak and improve overall productivity.
 
 The application of the value network analysis can help organizations for needs such as internal restructuring, improvement of workflow across interrelated departments, as well as for project planning. The analysis can also assist an organization undergoing a merger or acquisition, as it looks to better connect with and make the most use of the new divisions and operations that must be integrated.
 
-If a company is undergoing a [process redesign](https://www.investopedia.com/terms/b/business-process-redesign.asp) wherein an [extensive overhaul and new framework](https://www.investopedia.com/articles/personal-finance/123115/best-ways-invest-500-5000.asp) must be established, a value network analysis could be applied to provide a clearer picture for changes that must be made. If the organization needs to formulate a new business model, the value network analysis approach can be applied to identify resources that may be drawn upon to provide new insights into developing such a model as well as toward how the new model can operate going forward.
+If a company is undergoing a [[process redesign]](https://www.investopedia.com/terms/b/business-process-redesign.asp) wherein an [[extensive overhaul and new framework]](https://www.investopedia.com/articles/personal-finance/123115/best-ways-invest-500-5000.asp) must be established, a value network analysis could be applied to provide a clearer picture for changes that must be made. If the organization needs to formulate a new business model, the value network analysis approach can be applied to identify resources that may be drawn upon to provide new insights into developing such a model as well as toward how the new model can operate going forward.
 
-The [research and development](https://www.investopedia.com/terms/r/research-and-development-expenses.asp) (R&D) aspects of an organization can also benefit from a value network analysis by identifying what information and expertise are available to collaborate in the creation of new services or products.
+The [[research and development]](https://www.investopedia.com/terms/r/research-and-development-expenses.asp) (R&D) aspects of an organization can also benefit from a value network analysis by identifying what information and expertise are available to collaborate in the creation of new services or products.
 
 ### Key Takeaways
 

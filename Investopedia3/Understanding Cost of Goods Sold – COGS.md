@@ -33,7 +33,7 @@ Cost of goods sold is also referred to as "cost of sales."
 
 COGS\=Beginning Inventory+P−Ending InventorywhereP\=Purchases during the period\\begin{aligned} &\\text{COGS}=\\text{Beginning Inventory}+\\text{P}-\\text{Ending Inventory}\\\\ &\\textbf{where}\\\\ &\\text{P}=\\text{Purchases during the period}\\\\ \\end{aligned}
 
-Inventory that is sold appears in the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) under the COGS account. The beginning inventory for the year is the inventory left over from the previous year—that is, the [merchandise](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp) that was not sold in the previous year. Any additional productions or purchases made by a manufacturing or retail company are added to the beginning inventory. At the end of the year, the products that were not sold are subtracted from the sum of beginning inventory and additional purchases. The final number derived from the calculation is the cost of goods sold for the year.
+Inventory that is sold appears in the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) under the COGS account. The beginning inventory for the year is the inventory left over from the previous year—that is, the [[merchandise]](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp) that was not sold in the previous year. Any additional productions or purchases made by a manufacturing or retail company are added to the beginning inventory. At the end of the year, the products that were not sold are subtracted from the sum of beginning inventory and additional purchases. The final number derived from the calculation is the cost of goods sold for the year.
 
 COGS only applies to those costs directly related to producing goods intended for sale.
 
@@ -41,9 +41,9 @@ The balance sheet has an account called the current assets account. Under this a
 
 ## What Does the COGS Tell You?
 
-The COGS is an important metric on the financial statements as it is subtracted from a company’s revenues to determine its [gross profit](https://www.investopedia.com/terms/g/grossprofit.asp). The gross profit is a profitability measure that evaluates how efficient a company is in managing its labor and supplies in the production process.
+The COGS is an important metric on the financial statements as it is subtracted from a company’s revenues to determine its [[gross profit]](https://www.investopedia.com/terms/g/grossprofit.asp). The gross profit is a profitability measure that evaluates how efficient a company is in managing its labor and supplies in the production process.
 
-Because COGS is a [cost of doing business](https://www.investopedia.com/articles/pf/09/business-startup-costs.asp), it is recorded as a business expense on the income statements. Knowing the cost of goods sold helps analysts, investors, and managers estimate the company’s bottom line. If COGS increases, net income will decrease. While this movement is beneficial for income tax purposes, the business will have less profit for its shareholders. Businesses thus try to keep their COGS low so that net profits will be higher.
+Because COGS is a [[cost of doing business]](https://www.investopedia.com/articles/pf/09/business-startup-costs.asp), it is recorded as a business expense on the income statements. Knowing the cost of goods sold helps analysts, investors, and managers estimate the company’s bottom line. If COGS increases, net income will decrease. While this movement is beneficial for income tax purposes, the business will have less profit for its shareholders. Businesses thus try to keep their COGS low so that net profits will be higher.
 
 Cost of goods sold (COGS) is the cost of acquiring or manufacturing the products that a company sells during a period, so the only costs included in the measure are those that are directly tied to the production of the products, including the cost of labor, materials, and manufacturing overhead. For example, the COGS for an automaker would include the material costs for the parts that go into making the car plus the labor costs used to put the car together. The cost of sending the cars to dealerships and the cost of the labor used to sell the car would be excluded.
 
@@ -57,7 +57,7 @@ The value of the cost of goods sold depends on the inventory costing method adop
 
 ### FIFO
 
-The earliest goods to be purchased or manufactured are sold first. Since prices tend to go up over time, a company that uses the FIFO method will sell its least expensive products first, which translates to a lower COGS than the COGS recorded under LIFO. Hence, the [net income](https://www.investopedia.com/terms/n/netincome.asp) using the FIFO method increases over time.1
+The earliest goods to be purchased or manufactured are sold first. Since prices tend to go up over time, a company that uses the FIFO method will sell its least expensive products first, which translates to a lower COGS than the COGS recorded under LIFO. Hence, the [[net income]](https://www.investopedia.com/terms/n/netincome.asp) using the FIFO method increases over time.1
 
 ### LIFO
 
@@ -85,7 +85,7 @@ Many service-based companies have some products to sell. For example, airlines a
 
 ## Operating Expenses vs. COGS
 
-Both [operating](https://www.investopedia.com/terms/o/operatingratio.asp) expenses and cost of goods sold (COGS) are expenditures that companies incur with running their business. However, the expenses are segregated on the income statement. Unlike COGS, operating expenses (OPEX) are expenditures that are not directly tied to the production of goods or services. Typically, SG&A ([selling, general, and administrative expenses](https://www.investopedia.com/terms/s/sga.asp)) are included under operating expenses as a separate line item. SG&A expenses are expenditures that are not directly tied to a product such as overhead costs. Examples of operating expenses include the following:
+Both [[operating]](https://www.investopedia.com/terms/o/operatingratio.asp) expenses and cost of goods sold (COGS) are expenditures that companies incur with running their business. However, the expenses are segregated on the income statement. Unlike COGS, operating expenses (OPEX) are expenditures that are not directly tied to the production of goods or services. Typically, SG&A ([selling, general, and administrative expenses](https://www.investopedia.com/terms/s/sga.asp)) are included under operating expenses as a separate line item. SG&A expenses are expenditures that are not directly tied to a product such as overhead costs. Examples of operating expenses include the following:
 
 -   Rent
 -   Utilities
@@ -112,7 +112,7 @@ Investors looking through a company’s financial statements can spot unscrupulo
 
 ## Example of How to Use COGS
 
-As a historical example, let's calculate the cost of goods sold for J.C. Penney (NYSE: JCP) for [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) ended 2016. The first step is to find the beginning and ending inventory on the company's balance sheet:
+As a historical example, let's calculate the cost of goods sold for J.C. Penney (NYSE: JCP) for [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) ended 2016. The first step is to find the beginning and ending inventory on the company's balance sheet:
 
 -   _Beginning inventory:_ Inventory recorded on the fiscal year ended 2015 = $2.72 billion
 -   _Ending inventory:_ Inventory recorded on the fiscal year ended 2016 = $2.85 billion

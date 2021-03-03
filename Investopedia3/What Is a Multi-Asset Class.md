@@ -16,11 +16,11 @@ author: James Chen
 What Is a Multi-Asset Class?
 ## What Is a Multi-Asset Class?
 
-A multi-asset class, also known as a multiple-asset class or multi-asset fund, is a combination of asset classes (such as cash, [equity](https://www.investopedia.com/terms/e/equity.asp) or bonds) used as an investment. A multi-asset class investment contains more than one asset class, thus creating a group or portfolio of assets. The weights and types of classes vary according to the individual investor.
+A multi-asset class, also known as a multiple-asset class or multi-asset fund, is a combination of asset classes (such as cash, [[equity]](https://www.investopedia.com/terms/e/equity.asp) or bonds) used as an investment. A multi-asset class investment contains more than one asset class, thus creating a group or portfolio of assets. The weights and types of classes vary according to the individual investor.
 
 ## How Multi-Asset Classes Work
 
-Multi-asset class [investments](https://www.investopedia.com/terms/i/investment.asp) increase the [diversification](https://www.investopedia.com/terms/d/diversification.asp) of an overall portfolio by distributing investments throughout several classes. This reduces risk (volatility) compared to holding one class of assets, but might also hinder potential returns. For example, a multi-asset class investor might hold bonds, stocks, cash, and [real property](https://www.investopedia.com/terms/r/real-property.asp), whereas a single-class investor might only hold stocks. One [asset class](https://www.investopedia.com/terms/a/assetclasses.asp) might [outperform](https://www.investopedia.com/terms/o/outperform.asp) during a particular period of time, but historically, no asset class will outperform during every period.
+Multi-asset class [[investments]](https://www.investopedia.com/terms/i/investment.asp) increase the [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) of an overall portfolio by distributing investments throughout several classes. This reduces risk (volatility) compared to holding one class of assets, but might also hinder potential returns. For example, a multi-asset class investor might hold bonds, stocks, cash, and [[real property]](https://www.investopedia.com/terms/r/real-property.asp), whereas a single-class investor might only hold stocks. One [[asset class]](https://www.investopedia.com/terms/a/assetclasses.asp) might [[outperform]](https://www.investopedia.com/terms/o/outperform.asp) during a particular period of time, but historically, no asset class will outperform during every period.
 
 ## Risk Tolerance Funds
 
@@ -44,6 +44,6 @@ Target date funds are beneficial for investors who do not want to be involved in
 
 ## Benefits of Multi-Asset Class Funds
 
-Unlike [balanced funds](https://www.investopedia.com/terms/b/balancedfund.asp), which typically focus on meeting or beating a benchmark, multi-asset class funds are composed to achieve a certain investment outcome, such as exceeding [inflation](https://www.investopedia.com/terms/i/inflation.asp). Their broad options for investing, ranging across securities, sectors, real estate, and other types of securities, give them enormous flexibility to meet their goals.
+Unlike [[balanced funds]](https://www.investopedia.com/terms/b/balancedfund.asp), which typically focus on meeting or beating a benchmark, multi-asset class funds are composed to achieve a certain investment outcome, such as exceeding [[inflation]](https://www.investopedia.com/terms/i/inflation.asp). Their broad options for investing, ranging across securities, sectors, real estate, and other types of securities, give them enormous flexibility to meet their goals.
 
-This type of fund also offers more diversification than most balanced funds, which may combine mainly fixed income and equities. Many are [actively managed](https://www.investopedia.com/terms/a/activemanagement.asp), meaning a person or group of people make decisions based on the dynamics of the market to maximize returns and limit risk.
+This type of fund also offers more diversification than most balanced funds, which may combine mainly fixed income and equities. Many are [[actively managed]](https://www.investopedia.com/terms/a/activemanagement.asp), meaning a person or group of people make decisions based on the dynamics of the market to maximize returns and limit risk.

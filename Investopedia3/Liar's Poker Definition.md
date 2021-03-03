@@ -16,7 +16,7 @@ author: Will Kenton
 Liar's Poker Definition
 ## What is Liar's Poker?
 
-"Liar's Poker" is a game often associated with [Wall Street](https://www.investopedia.com/terms/w/wallstreet.asp) [traders](https://www.investopedia.com/terms/t/trader.asp). It involves a mix of statistical reasoning and behavioral psychology tactics.
+"Liar's Poker" is a game often associated with [[Wall Street]](https://www.investopedia.com/terms/w/wallstreet.asp) [[traders]](https://www.investopedia.com/terms/t/trader.asp). It involves a mix of statistical reasoning and behavioral psychology tactics.
 
 ### Key Takeaways
 
@@ -40,4 +40,4 @@ The rules of the game require bids to continue escalating, thereby increasing th
 
 The game is comparable to "Liar’s Dice," a game where players roll dice, hide the numbers they have rolled, and then make bids on the total number of dice they believe were rolled by all players with that face value. Here again, the players bid and bluff until challenged by another player.
 
-Typically if a player poses a challenge in Liar's Poker and is incorrect, they must pay the player they challenged. If the player who was challenged was found to be incorrect, then they must pay every player who posed a challenged. Usually the [payout](https://www.investopedia.com/terms/p/payout.asp) is one dollar but that may be increased depending on the agreed-upon rules.
+Typically if a player poses a challenge in Liar's Poker and is incorrect, they must pay the player they challenged. If the player who was challenged was found to be incorrect, then they must pay every player who posed a challenged. Usually the [[payout]](https://www.investopedia.com/terms/p/payout.asp) is one dollar but that may be increased depending on the agreed-upon rules.

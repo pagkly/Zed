@@ -18,7 +18,7 @@ Load Definition
 
 A load is a [sales charge](https://www.investopedia.com/terms/s/salescharge.asp) or commission charged to an investor when buying or redeeming shares in a mutual fund. Sales charge commissions can be structured in a number of ways. They are determined by the mutual fund company and charged by mutual fund intermediaries in mutual fund transactions.
 
-Common types of sales charges include [front-end loads](https://www.investopedia.com/terms/f/front-endload.asp) and [back-end loads](https://www.investopedia.com/terms/b/back-end-load.asp). Funds with loads may be contrasted with [no-load](https://www.investopedia.com/terms/n/no-loadfund.asp) mutual funds.
+Common types of sales charges include [[front-end loads]](https://www.investopedia.com/terms/f/front-endload.asp) and [[back-end loads]](https://www.investopedia.com/terms/b/back-end-load.asp). Funds with loads may be contrasted with [[no-load]](https://www.investopedia.com/terms/n/no-loadfund.asp) mutual funds.
 
 ### Key Takeaways
 
@@ -31,13 +31,13 @@ Common types of sales charges include [front-end loads](https://www.investopedia
 
 ## How Sales Loads Work
 
-A load is a sales charge that compensates an intermediary for distributing shares of a mutual fund. Loads vary by [share class](https://www.investopedia.com/terms/s/share_class.asp) and are determined by the mutual fund company. Mutual fund companies structure sales charges by share class. They provide a sales charge schedule in the mutual fund’s prospectus.
+A load is a sales charge that compensates an intermediary for distributing shares of a mutual fund. Loads vary by [[share class]](https://www.investopedia.com/terms/s/share_class.asp) and are determined by the mutual fund company. Mutual fund companies structure sales charges by share class. They provide a sales charge schedule in the mutual fund’s prospectus.
 
-Loads can be front-end, back-end or level. Front-end and back-end loads are paid directly to intermediaries by the investor and are not accounted for in the fund’s [net asset value (NAV)](https://www.investopedia.com/terms/n/nav.asp) calculations.
+Loads can be front-end, back-end or level. Front-end and back-end loads are paid directly to intermediaries by the investor and are not accounted for in the fund’s [[net asset value (NAV)]](https://www.investopedia.com/terms/n/nav.asp) calculations.
 
 ### Front End Load
 
-Front-end loads are typically associated with [A-share](https://www.investopedia.com/terms/a/ashare.asp) classes. This sales charge occurs when the investor buys the fund. Front-end loads can range up to approximately 5.75%. Investors may opt to pay up-front fees for several reasons. For instance, front-end loads eliminate the need to continually pay additional fees and commissions as time progresses, allowing the capital to grow unimpeded over the long-term. Mutual fund A-shares—the class that carries front-end loads—pay lower expense ratios than other shares pay. Expense ratios are the annual management and marketing fees.
+Front-end loads are typically associated with [[A-share]](https://www.investopedia.com/terms/a/ashare.asp) classes. This sales charge occurs when the investor buys the fund. Front-end loads can range up to approximately 5.75%. Investors may opt to pay up-front fees for several reasons. For instance, front-end loads eliminate the need to continually pay additional fees and commissions as time progresses, allowing the capital to grow unimpeded over the long-term. Mutual fund A-shares—the class that carries front-end loads—pay lower expense ratios than other shares pay. Expense ratios are the annual management and marketing fees.
 
 Further, funds that don't carry up-front fees often charge an annual maintenance fee that increases along with the value of the client's money, meaning the investor may wind up paying more. In contrast, front-end loads are often discounted as the size of the investment grows.
 
@@ -45,7 +45,7 @@ On the downside, since front-end loads are taken out of your original investment
 
 ## Back End Load
 
-Back-end loads can be associated with [B-shares](https://www.investopedia.com/terms/b/bshare.asp) or [C-shares](https://www.investopedia.com/terms/c/cshare.asp). The back-end load is paid when an investor sells the fund. In class B-shares, the back-end load is typically contingent deferred which means it decreases over time. A back-end load can be a flat fee or can gradually decrease over time, usually within five to 10 years. In the latter case, the fee percentage is highest in the first year and decreases yearly until the specified [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) ends, at which time it drops to zero.
+Back-end loads can be associated with [[B-shares]](https://www.investopedia.com/terms/b/bshare.asp) or [[C-shares]](https://www.investopedia.com/terms/c/cshare.asp). The back-end load is paid when an investor sells the fund. In class B-shares, the back-end load is typically contingent deferred which means it decreases over time. A back-end load can be a flat fee or can gradually decrease over time, usually within five to 10 years. In the latter case, the fee percentage is highest in the first year and decreases yearly until the specified [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) ends, at which time it drops to zero.
 
 A back-end load should not be confused with a [redemption fee](https://www.investopedia.com/terms/r/redemptionfee.asp), which some mutual funds charge to discourage frequent trading that can sometimes interfere with the fund's investment objective.
 
@@ -55,9 +55,9 @@ Investors may automatically assume load funds are the better choice over no-load
 
 Any type of payment to an intermediary for distribution services can be considered a load. Mutual fund investors pay annual operating expenses which are accounted for in the fund’s net asset value. A portion of the fund’s operating expenses may include a [12b-1 fee](https://www.investopedia.com/terms/1/12b-1fees.asp), also called a level-load. This fee is paid by the mutual fund to the intermediary annually and is quoted as a percent of a share classes assets.
 
-For example, the [Principal Equity Income Fund](https://www.principal.com/InvestmentProfiles/overview.faces?inv=8094&rtclss=20&retail=true) offers investors A, C and I shares. The A-shares have a front-end sales charge of 5.50% and a back-end sales charge of 1.00%. The C-shares have no front-end sales charge and a back-end sales charge of 1.00%. Both share classes have a 12b-1 level-load included with the fund’s operating expenses. The A share class pays a smaller level-load than the C-shares at 0.25% since it offers higher front-end load compensation. The C share class charges a level-load of 1.00%.
+For example, the [[Principal Equity Income Fund]](https://www.principal.com/InvestmentProfiles/overview.faces?inv=8094&rtclss=20&retail=true) offers investors A, C and I shares. The A-shares have a front-end sales charge of 5.50% and a back-end sales charge of 1.00%. The C-shares have no front-end sales charge and a back-end sales charge of 1.00%. Both share classes have a 12b-1 level-load included with the fund’s operating expenses. The A share class pays a smaller level-load than the C-shares at 0.25% since it offers higher front-end load compensation. The C share class charges a level-load of 1.00%.
 
-Investors may also incur [redemption fees](https://www.investopedia.com/terms/r/redemptionfee.asp). Redemption fees are not paid to intermediaries and therefore are not considered to be a load. These fees are charged on the back-end and help to compensate the fund for transaction costs incurred from short-term investors. Redemption fees may be charged if an investor redeems shares within 30 days to a year from their initial investment.
+Investors may also incur [[redemption fees]](https://www.investopedia.com/terms/r/redemptionfee.asp). Redemption fees are not paid to intermediaries and therefore are not considered to be a load. These fees are charged on the back-end and help to compensate the fund for transaction costs incurred from short-term investors. Redemption fees may be charged if an investor redeems shares within 30 days to a year from their initial investment.
 
 ## Sales Load Considerations
 

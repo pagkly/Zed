@@ -16,23 +16,23 @@ author: James Chen
 Stock Option
 ## What is a Stock Option?
 
-A stock option gives an investor the right, but not the obligation, to buy or sell a stock at an agreed upon price and date. There are two types of options: [puts,](https://www.investopedia.com/terms/p/putoption.asp) which is a bet that a stock will fall, or [calls](https://www.investopedia.com/terms/c/calloption.asp), which is a bet that a stock will rise. 
+A stock option gives an investor the right, but not the obligation, to buy or sell a stock at an agreed upon price and date. There are two types of options: [[puts,]](https://www.investopedia.com/terms/p/putoption.asp) which is a bet that a stock will fall, or [[calls]](https://www.investopedia.com/terms/c/calloption.asp), which is a bet that a stock will rise. 
 
 ### Key Takeaways
 
 -   Options give a trader the right to buy or sell a stock at an agreed-upon price and date. 
 -   There are two types of options: Calls and Puts. 
--   One [contract](https://www.investopedia.com/terms/o/optionscontract.asp) represents 100 shares of the underlying stock. 
+-   One [[contract]](https://www.investopedia.com/terms/o/optionscontract.asp) represents 100 shares of the underlying stock. 
 
 ## Understanding Options
 
 ### Styles
 
-There are two different styles of options: [American](https://www.investopedia.com/terms/a/americanoption.asp) and [European](https://www.investopedia.com/terms/e/europeanoption.asp). American options can be exercised at any time between the purchase and expiration date. European options, which are less common, can only be exercised on the expiration date.
+There are two different styles of options: [[American]](https://www.investopedia.com/terms/a/americanoption.asp) and [[European]](https://www.investopedia.com/terms/e/europeanoption.asp). American options can be exercised at any time between the purchase and expiration date. European options, which are less common, can only be exercised on the expiration date.
 
 ### Expiration Date
 
-Options do not only allow a trader to bet on a stock rising or falling but also enable the trader to choose a specific date when they expect the stock to rise or fall by. This is known as the [expiration date](https://www.investopedia.com/terms/e/expiration-date.asp). The expiration date is important because it helps traders to price the value of the put and the call, which is known as the [time value](https://www.investopedia.com/terms/t/timevalue.asp), and is used in various option pricing models such as the [Black Scholes Model](https://www.investopedia.com/terms/b/blackscholes.asp).
+Options do not only allow a trader to bet on a stock rising or falling but also enable the trader to choose a specific date when they expect the stock to rise or fall by. This is known as the [[expiration date]](https://www.investopedia.com/terms/e/expiration-date.asp). The expiration date is important because it helps traders to price the value of the put and the call, which is known as the [[time value]](https://www.investopedia.com/terms/t/timevalue.asp), and is used in various option pricing models such as the [[Black Scholes Model]](https://www.investopedia.com/terms/b/blackscholes.asp).
 
 ### Strike Price
 
@@ -44,7 +44,7 @@ Contracts represent the number of options a trader may be looking to buy. One co
 
 ### Premium
 
-The [premium](https://www.investopedia.com/terms/o/option-premium.asp) is determined by taking the price of the call and multiplying it by the number of contracts bought, then multiplying it by 100. In the example, if a trader buys 5 January IBM $150 Calls for $1 per contract, the trader would spend $500. However, if a trader wanted to bet the stock would fall they would buy the puts.
+The [[premium]](https://www.investopedia.com/terms/o/option-premium.asp) is determined by taking the price of the call and multiplying it by the number of contracts bought, then multiplying it by 100. In the example, if a trader buys 5 January IBM $150 Calls for $1 per contract, the trader would spend $500. However, if a trader wanted to bet the stock would fall they would buy the puts.
 
 ### Trading Options
 

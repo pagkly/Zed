@@ -16,13 +16,13 @@ author: Will Kenton
 What You Should Know About Firms
 ## What Is a Firm?
 
-A firm is a for-profit business organization—such as a corporation, limited liability company (LLC), or partnership—that provides professional services. Most firms have just one location. However, a business firm consists of one or more physical establishments, in which all fall under the same ownership and use the same [employer identification number (EIN)](https://www.investopedia.com/terms/e/employer-identification-number.asp).
+A firm is a for-profit business organization—such as a corporation, limited liability company (LLC), or partnership—that provides professional services. Most firms have just one location. However, a business firm consists of one or more physical establishments, in which all fall under the same ownership and use the same [[employer identification number (EIN)]](https://www.investopedia.com/terms/e/employer-identification-number.asp).
 
 When used in a title, "firm" is typically associated with businesses that provide professional law and accounting services, but the term may be used for a wide variety of businesses, including finance, consulting, marketing, and graphic design firms, among others.
 
 ## Understanding Firms
 
-In microeconomics, the [theory of the firm](https://www.investopedia.com/terms/t/theory-firm.asp) attempts to explain why firms exist, why they operate and produce as they do, and how they are structured. The theory of the firm asserts that firms exist to maximize profits; however, this theory changes as the economic marketplace changes. More modern theories would distinguish between firms that work toward long-term [sustainability](https://www.investopedia.com/terms/s/sustainability.asp) and those that aim to produce high levels of profit in a short time.
+In microeconomics, the [[theory of the firm]](https://www.investopedia.com/terms/t/theory-firm.asp) attempts to explain why firms exist, why they operate and produce as they do, and how they are structured. The theory of the firm asserts that firms exist to maximize profits; however, this theory changes as the economic marketplace changes. More modern theories would distinguish between firms that work toward long-term [[sustainability]](https://www.investopedia.com/terms/s/sustainability.asp) and those that aim to produce high levels of profit in a short time.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ Although they appear synonymous and are often used interchangeably, there is a d
 
 ## Types of Firms
 
-A firm's business activities are typically conducted under the firm's name, but the degree of legal protection—for employees or owners—depends on the type of ownership structure under which the firm was created. Some organization types, such as corporations, provide more legal protection than others. There exists the concept of the [mature firm](https://www.investopedia.com/terms/m/mature-firm.asp) that has been firmly established. Firms can assume many different types based on their ownership structures:
+A firm's business activities are typically conducted under the firm's name, but the degree of legal protection—for employees or owners—depends on the type of ownership structure under which the firm was created. Some organization types, such as corporations, provide more legal protection than others. There exists the concept of the [[mature firm]](https://www.investopedia.com/terms/m/mature-firm.asp) that has been firmly established. Firms can assume many different types based on their ownership structures:
 
 -   A **sole proprietorship or sole trader** is owned by one person, who is liable for all costs and obligations, and owns all assets. Although not common under the firm umbrella, there exists some sole proprietorship businesses that operate as firms.
 -   A **partnership** is a business owned by two or more people; there is no limit to the number of partners that can have a stake in ownership. A partnership's owners each are liable for all business obligations, and together they own everything that belongs to the business.

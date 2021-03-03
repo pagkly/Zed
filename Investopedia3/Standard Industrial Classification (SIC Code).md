@@ -18,7 +18,7 @@ Standard Industrial Classification (SIC Code)
 
 The Standard Industrial Classification (SIC) are four-digit codes that categorize the industries that companies belong to while organizing the industries by their business activities. The SIC codes were created by the U.S. government in 1937 to help analyze economic activity across various industries and government agencies.1
 
-However, Standard Industrial Classification codes were mostly replaced in 1997 by a system of six-digit codes called the [North American Industry Classification System (NAICS).](https://www.investopedia.com/terms/n/naics.asp)2 The NAICS codes were adopted in part to standardize industry data collection and analysis in between Canada, the United States, and Mexico, which had entered into the North American Free Trade Agreement.
+However, Standard Industrial Classification codes were mostly replaced in 1997 by a system of six-digit codes called the [[North American Industry Classification System (NAICS).]](https://www.investopedia.com/terms/n/naics.asp)2 The NAICS codes were adopted in part to standardize industry data collection and analysis in between Canada, the United States, and Mexico, which had entered into the North American Free Trade Agreement.
 
 Despite having been replaced, government agencies and companies still use the SIC standardized codes today for classifying the industry that companies belong to–by matching their business activity with like companies.
 
@@ -32,7 +32,7 @@ Despite having been replaced, government agencies and companies still use the SI
 
 The Standard Industrial Classification codes were intended to improve communication within the U.S. government, across industries, and between countries. SIC codes were adopted in places outside the U.S., such as the U.K. government.3
 
-The [Securities and Exchange Commission (SEC](https://www.investopedia.com/terms/s/sec.asp)) is a major government agency that regulates the markets and still uses SIC codes. The SIC codes are listed in a company's electronic data gathering, analysis, and retrieval system (EDGAR) filings to indicate the company's industry.4 For example, if you see SIC code 3721 on Hugh's Aerospace Corporation's EDGAR filing, you will know that the company is a part of the aircraft industry.
+The [[Securities and Exchange Commission (SEC]](https://www.investopedia.com/terms/s/sec.asp)) is a major government agency that regulates the markets and still uses SIC codes. The SIC codes are listed in a company's electronic data gathering, analysis, and retrieval system (EDGAR) filings to indicate the company's industry.4 For example, if you see SIC code 3721 on Hugh's Aerospace Corporation's EDGAR filing, you will know that the company is a part of the aircraft industry.
 
 ## How SIC Codes are Used
 

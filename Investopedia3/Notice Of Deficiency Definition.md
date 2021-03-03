@@ -18,7 +18,7 @@ Notice Of Deficiency Definition
 
 A notice of deficiency is a legal determination by the IRS of a taxpayer’s tax deficiency. It is an official written claim that a taxpayer owes additional income tax (and often interest on that amount, plus additional penalties). It is issued when the IRS proposes a change to a tax return because they found that the information reported on a return does not match their records. A notice of deficiency is also sometimes referred to as a statutory notice, a statutory notice of deficiency, or an IRS 90-day letter. The official name for a notice of deficiency is IRS Notice CP2319A: Notice of Deficiency and Increase in Tax.
 
-Tax laws require that the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) issues a notice of deficiency before assessing additional income tax, estate tax, gift tax, and certain excise taxes (unless the taxpayer agrees to the additional assessment). Although the language in the notice of deficiency says that the IRS is _proposing_ a change, the notice of deficiency is a legal determination of tax [deficiency](https://www.investopedia.com/terms/d/deficiency.asp) that is presumptively correct.1
+Tax laws require that the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) issues a notice of deficiency before assessing additional income tax, estate tax, gift tax, and certain excise taxes (unless the taxpayer agrees to the additional assessment). Although the language in the notice of deficiency says that the IRS is _proposing_ a change, the notice of deficiency is a legal determination of tax [[deficiency]](https://www.investopedia.com/terms/d/deficiency.asp) that is presumptively correct.1
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ A notice of deficiency is usually triggered by tax information received from a t
 
 When an examination results in a proposed tax deficiency, the first step the IRS takes towards amending this deficiency is to issue a 30-day letter to the taxpayer. It is known as a 30-day letter because the taxpayer has 30 days to respond before the IRS processes the changes made to the return.
 
-A notice of deficiency explains any adjustments and how the amount of any deficiency was calculated. It explains the taxpayer’s options to either agree to the additional tax liability by signing a Waiver Form 40893 or challenge it in [U.S. Tax Court](https://www.investopedia.com/terms/t/taxcourt.asp).2 1
+A notice of deficiency explains any adjustments and how the amount of any deficiency was calculated. It explains the taxpayer’s options to either agree to the additional tax liability by signing a Waiver Form 40893 or challenge it in [[U.S. Tax Court]](https://www.investopedia.com/terms/t/taxcourt.asp).2 1
 
 A notice of deficiency is sometimes referred to as a [90-day letter](https://www.investopedia.com/terms/1/90dayletter.asp) because it gives the taxpayer 90 days to dispute the tax assessment in the Tax Court. The 90-day period within which a petition may be filed is prescribed by statute and cannot be extended. The 90-day period is counted from the date the notice of deficiency is mailed to the taxpayer’s last known address. The IRS is required by law to include the last day a petition may be filed directly on the notice of deficiency. Until 90 days expire–or a Tax Court decision is final–whichever is later, the IRS is barred from any assessment or collection activity.1
 

@@ -26,7 +26,7 @@ A performance bond is issued to one party of a contract as a guarantee against t
 
 ## Understanding Performance Bonds
 
-The Miller Act instituted the requirement of placing performance bonds. The Act covers all public work contracts $100,000 and above. These bonds are also required for [private sectors](https://www.investopedia.com/terms/p/private-sector.asp) that necessitate the use of general contractors for their company's operations.1
+The Miller Act instituted the requirement of placing performance bonds. The Act covers all public work contracts $100,000 and above. These bonds are also required for [[private sectors]](https://www.investopedia.com/terms/p/private-sector.asp) that necessitate the use of general contractors for their company's operations.1
 
 Jobs that require payment and performance bonds go through job or project bidding first. As soon as the job or project is awarded to the winning bidder, payment and performance bonds are provided as a guarantee for the completion of the project.
 
@@ -38,7 +38,7 @@ Performance bonds are also used in commodity contracts.
 
 Performance bonds are provided to protect parties from concerns such as contractors being insolvent before finishing the contract. When this happens, the compensation provided for the party that issued the performance bond may be able to overcome financial difficulties and other damages caused by the insolvency of the contractor.
 
-A payment [bond](https://www.investopedia.com/articles/bonds/08/bond-market-basics.asp) and a performance bond work hand in hand. A payment bond guarantees a party pays all entities, such as subcontractors, suppliers, and laborers, involved in a particular project when the project is completed. A performance bond ensures the completion of a project. Setting these two together provides the proper incentives for laborers to provide a quality finish for the client.
+A payment [[bond]](https://www.investopedia.com/articles/bonds/08/bond-market-basics.asp) and a performance bond work hand in hand. A payment bond guarantees a party pays all entities, such as subcontractors, suppliers, and laborers, involved in a particular project when the project is completed. A performance bond ensures the completion of a project. Setting these two together provides the proper incentives for laborers to provide a quality finish for the client.
 
 ### Commodity Contracts
 

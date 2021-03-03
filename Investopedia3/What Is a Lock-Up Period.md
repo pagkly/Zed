@@ -16,11 +16,11 @@ author: Julia Kagan
 What Is a Lock-Up Period?
 ## What is a Lock-Up Period?
 
-A lock-up period is a window of time when investors are not allowed to redeem or sell shares of a particular investment. There are two main uses for lock-up periods, those for [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) and those for start-ups/IPO’s.
+A lock-up period is a window of time when investors are not allowed to redeem or sell shares of a particular investment. There are two main uses for lock-up periods, those for [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) and those for start-ups/IPO’s.
 
 For hedge funds, the lock-up period is intended to give the hedge fund manager time to exit investments that may be illiquid or otherwise unbalance their portfolio of investments too rapidly. Hedge fund lock-ups are typically 30-90 days, giving the hedge fund manager time to exit investments without driving prices against their overall portfolio.
 
-For start-ups, or companies looking to go public through an [IPO](https://www.investopedia.com/terms/i/ipo.asp), lock-periods help show that company leadership remains intact and that the business model remains on solid footing. It also allows the IPO issuer to retain more cash for continuing growth.
+For start-ups, or companies looking to go public through an [[IPO]](https://www.investopedia.com/terms/i/ipo.asp), lock-periods help show that company leadership remains intact and that the business model remains on solid footing. It also allows the IPO issuer to retain more cash for continuing growth.
 
 ## How a Lock-Up Period Works
 
@@ -37,7 +37,7 @@ When the lock-up period ends, investors may redeem their shares according to a s
 
 During the lock-up period, a hedge fund manager may invest in securities according to the fund’s goals without concern for share redemption. The manager has time for building strong positions in various assets and maximizing potential gains while keeping less cash on hand. In the absence of a lock-up period and scheduled redemption schedule, a hedge fund manager would need a great amount of cash or cash equivalents available at all times. Less money would be invested, and returns may be lower. Also, because each investor’s lock-up period varies by his personal investment date, massive liquidation cannot take place for any given fund at one time.
 
-Lock-up periods can also be used to retain key employees, where [stock](https://www.investopedia.com/terms/s/stock.asp) awards are not redeemable for a certain period to keep an employee from moving to a competitor, maintain continuity, or until they have completed a key mission.
+Lock-up periods can also be used to retain key employees, where [[stock]](https://www.investopedia.com/terms/s/stock.asp) awards are not redeemable for a certain period to keep an employee from moving to a competitor, maintain continuity, or until they have completed a key mission.
 
 ## Example of a Lock-Up Period
 

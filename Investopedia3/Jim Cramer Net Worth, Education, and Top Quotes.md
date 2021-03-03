@@ -14,11 +14,11 @@ author: Evan Tarver
 ---
 
 Jim Cramer: Net Worth, Education, and Top Quotes
-[Jim Cramer](https://www.investopedia.com/terms/j/jimcramer.asp) is a former hedge fund manager, TV host, and personality of CNBC's "Mad Money." He is also the co-founder and chairman of [TheStreet.com, Inc](https://www.investopedia.com/articles/investing/030515/motley-fool-vs-thestreet-which-which.asp).1
+[Jim Cramer](https://www.investopedia.com/terms/j/jimcramer.asp) is a former hedge fund manager, TV host, and personality of CNBC's "Mad Money." He is also the co-founder and chairman of [[TheStreet.com, Inc]](https://www.investopedia.com/articles/investing/030515/motley-fool-vs-thestreet-which-which.asp).1
 
 ## Early Life, Education, and Career
 
-Jim Cramer was born February 10, 1955, in Wyndmoor, Pennsylvania, a suburb close to Philadelphia.2 His parents were hardworking and creative individuals. His mother was an artist, and his father was an [entrepreneur](https://www.investopedia.com/terms/e/entrepreneur.asp) who owned a company that sold wrapping paper, boxes, and bags to retailers.
+Jim Cramer was born February 10, 1955, in Wyndmoor, Pennsylvania, a suburb close to Philadelphia.2 His parents were hardworking and creative individuals. His mother was an artist, and his father was an [[entrepreneur]](https://www.investopedia.com/terms/e/entrepreneur.asp) who owned a company that sold wrapping paper, boxes, and bags to retailers.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ As a young man, Cramer sold ice cream at Veterans Stadium during local Phillies 
 
 Cramer attended Harvard University where he earned a Bachelors degree in government in 1977, graduating magna cum laude.4 His journalism experience began in college when he became the President and Editor in Chief of the Harvard Crimson.5 He continued with his education at Harvard Law School where he earned his Juris Doctor degree in 1984.6
 
-While in law school, Cramer began investing in the stock market and even went as far as promoting his stock picks. His track record of successful stock picks landed him a job as a [stockbroker](https://www.investopedia.com/terms/s/stockbroker.asp) with Goldman Sachs.
+While in law school, Cramer began investing in the stock market and even went as far as promoting his stock picks. His track record of successful stock picks landed him a job as a [[stockbroker]](https://www.investopedia.com/terms/s/stockbroker.asp) with Goldman Sachs.
 
 ## Success Story
 
@@ -47,9 +47,9 @@ Cramer's success on "Mad Money" has allowed him to host and appear as a guest on
 
 ## Net Worth and Current Influence
 
-Jim Cramer has a total estimated net worth of [$100 million](https://moneyinc.com/jim-cramer-net-worth/), according to Money, Inc.12 The bulk of his net worth came from his success as a hedge fund manager, but his success did not stop there. Using his experience as a hedge fund manager, Cramer increased his net worth through a [diversified](https://www.investopedia.com/terms/d/diversification.asp) strategy of multiple income streams.
+Jim Cramer has a total estimated net worth of [$100 million](https://moneyinc.com/jim-cramer-net-worth/), according to Money, Inc.12 The bulk of his net worth came from his success as a hedge fund manager, but his success did not stop there. Using his experience as a hedge fund manager, Cramer increased his net worth through a [[diversified]](https://www.investopedia.com/terms/d/diversification.asp) strategy of multiple income streams.
 
-The market cap and cash flow from his ownership of TheStreet.com have boosted his net worth as has his notoriety and success as the host of "Mad Money." "Mad Money" has maintained Cramer's strong influence within the investment finance realm. [He is a leading personality for stock market advice](https://www.investopedia.com/terms/c/cramerbounce.asp).
+The market cap and cash flow from his ownership of TheStreet.com have boosted his net worth as has his notoriety and success as the host of "Mad Money." "Mad Money" has maintained Cramer's strong influence within the investment finance realm. [[He is a leading personality for stock market advice]](https://www.investopedia.com/terms/c/cramerbounce.asp).
 
 ### Fast Fact
 

@@ -16,7 +16,7 @@ author: James Chen
 Rule Of Thumb
 ## What is a Rule Of Thumb?
 
-A rule of thumb is a [heuristic](https://www.investopedia.com/terms/h/heuristics.asp) guideline that provides simplified advice or some basic rule-set regarding a particular subject or course of action. It is a general principle that gives practical instructions for accomplishing or approaching a certain task. Typically, rules of thumb develop as a result of practice and experience rather than through scientific research or a theoretical foundation.
+A rule of thumb is a [[heuristic]](https://www.investopedia.com/terms/h/heuristics.asp) guideline that provides simplified advice or some basic rule-set regarding a particular subject or course of action. It is a general principle that gives practical instructions for accomplishing or approaching a certain task. Typically, rules of thumb develop as a result of practice and experience rather than through scientific research or a theoretical foundation.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A rule of thumb is a [heuristic](https://www.investopedia.com/terms/h/heuristics
 
 Investors may be familiar with a variety of "financial rules of thumb" that are intended to help individuals learn, remember and apply financial guidelines. These rules of thumb address methods and procedures for saving, investing, purchasing a home and planning for retirement. Although a rule of thumb may be appropriate for a wide audience, it may not apply universally to every individual and unique set of circumstances.
 
-The [Rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp) is such a quick, useful formula that is popularly used to estimate the number of years required to double the invested money at a given annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp). While calculators and spreadsheets have inbuilt functions to accurately calculate the precise time required to double the invested money, the Rule of 72 comes in handy for mental calculations to quickly gauge an approximate value.
+The [[Rule of 72]](https://www.investopedia.com/terms/r/ruleof72.asp) is such a quick, useful formula that is popularly used to estimate the number of years required to double the invested money at a given annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp). While calculators and spreadsheets have inbuilt functions to accurately calculate the precise time required to double the invested money, the Rule of 72 comes in handy for mental calculations to quickly gauge an approximate value.
 
 ## Examples of Financial Rules of Thumb
 
@@ -36,15 +36,15 @@ There are several well-known financial rules of thumb that provide guidance for 
 
 -   A home purchase should cost less than an amount equal to two and a half years of your annual income.
 -   Save at least 10-15% of your take-home income for retirement.
--   Have at least five times your gross salary in [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) death benefit.
+-   Have at least five times your gross salary in [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) death benefit.
 -   Pay off your highest-interest credit cards first.
--   The stock market has a long-term [average return](https://www.investopedia.com/terms/a/averagereturn.asp) of 10%.
--   You should have an [emergency fund](https://www.investopedia.com/terms/e/emergency_fund.asp) equal to six months' worth of household expenses.
--   Your age represents the percentage of bonds you should have in your [portfolio](https://www.investopedia.com/terms/p/portfolio.asp).
+-   The stock market has a long-term [[average return]](https://www.investopedia.com/terms/a/averagereturn.asp) of 10%.
+-   You should have an [[emergency fund]](https://www.investopedia.com/terms/e/emergency_fund.asp) equal to six months' worth of household expenses.
+-   Your age represents the percentage of bonds you should have in your [[portfolio]](https://www.investopedia.com/terms/p/portfolio.asp).
 -   Your age subtracted from 100 represents the percentage of stocks you should have in your portfolio.
 -   A balanced portfolio is 60% stocks, 40% bonds.
 
-There are also rules of thumb for determining how much [net worth](https://www.investopedia.com/terms/n/networth.asp) you will need to retire comfortably at a [normal retirement age](https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp). Here is the calculation that Investopedia uses to determine your net worth:
+There are also rules of thumb for determining how much [[net worth]](https://www.investopedia.com/terms/n/networth.asp) you will need to retire comfortably at a [[normal retirement age]](https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp). Here is the calculation that Investopedia uses to determine your net worth:
 
 -   If you are employed and earning income: ((your age) x (annual household income)) / 10.
 -   If you are not earning income or you are a student: ((your age – 27) x (annual household income)) / 10.

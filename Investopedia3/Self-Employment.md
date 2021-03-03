@@ -16,9 +16,9 @@ author: Maya E. Dollarhide
 Self-Employment
 ## What Is Self-Employment?
 
-A [self-employed person](https://www.investopedia.com/terms/s/self-employed-person.asp) does not work for a specific employer who pays them a consistent salary or wage. Self-employed individuals, or [independent contractors](https://www.investopedia.com/terms/i/independent-contractor.asp), earn income by contracting with a trade or business directly.
+A [[self-employed person]](https://www.investopedia.com/terms/s/self-employed-person.asp) does not work for a specific employer who pays them a consistent salary or wage. Self-employed individuals, or [[independent contractors]](https://www.investopedia.com/terms/i/independent-contractor.asp), earn income by contracting with a trade or business directly.
 
-In most cases, the payer will not withhold taxes, so [this becomes the responsibility of the self-employed individual](https://www.investopedia.com/articles/tax/09/self-employed-tax-deductions.asp).
+In most cases, the payer will not withhold taxes, so [[this becomes the responsibility of the self-employed individual]](https://www.investopedia.com/articles/tax/09/self-employed-tax-deductions.asp).
 
 Self-employed persons may be involved in a variety of occupations but generally are highly skilled at a particular kind of work. Writers, tradespeople, freelancers, traders/investors, lawyers, salespeople, and insurance agents all may be self-employed persons.1
 
@@ -30,11 +30,11 @@ Self-employed persons may be involved in a variety of occupations but generally 
 
 ## Self-Employed vs. Business Owner
 
-Although the precise definition of self-employment varies among the [U.S. Bureau of Labor Statistics (BLS)](https://www.investopedia.com/terms/b/bls.asp), the Internal Revenue Service (IRS), and private research firms, those who are self-employed include independent contractors, [sole proprietors](https://www.investopedia.com/terms/s/soleproprietorship.asp) of businesses, and individuals engaged in [partnerships](https://www.investopedia.com/terms/p/partnership.asp).
+Although the precise definition of self-employment varies among the [[U.S. Bureau of Labor Statistics (BLS)]](https://www.investopedia.com/terms/b/bls.asp), the Internal Revenue Service (IRS), and private research firms, those who are self-employed include independent contractors, [[sole proprietors]](https://www.investopedia.com/terms/s/soleproprietorship.asp) of businesses, and individuals engaged in [[partnerships]](https://www.investopedia.com/terms/p/partnership.asp).
 
 A self-employed person refers to any person who earns their living from any independent pursuit of economic activity, as opposed to earning a living working for a company or another individual (an employer). A freelancer or an independent contractor who performs all of their work for a single client may still be a self-employed person.2
 
-A [self-employed person](https://www.investopedia.com/terms/s/self-employed-person.asp) is not often the same thing as being a business owner. The owner of a business, for instance, may hire employees and essentially become the boss—an employee-owner who operates and manages the business.
+A [[self-employed person]](https://www.investopedia.com/terms/s/self-employed-person.asp) is not often the same thing as being a business owner. The owner of a business, for instance, may hire employees and essentially become the boss—an employee-owner who operates and manages the business.
 
 Alternatively, a business owner has an ownership stake but may not be involved in the day-to-day operations of the company. In contrast, a person who is self-employed both owns the business and is also the primary or sole operator. The taxation rules that apply to those who are self-employed differ from the employee or a business owner.3
 
@@ -42,7 +42,7 @@ Independent contractors, sole proprietors of businesses, and individuals joined 
 
 ## Types of Self-Employment
 
-Independent contractors are businesses or individuals hired to do specific jobs. They receive payment only for the jobs that they do. Because they are not considered employees, they do not receive benefits or [workers’ compensation](https://www.investopedia.com/terms/w/workers-compensation.asp), their clients do not withhold taxes from their payments for work performed, and equal opportunity laws do not apply to them.4
+Independent contractors are businesses or individuals hired to do specific jobs. They receive payment only for the jobs that they do. Because they are not considered employees, they do not receive benefits or [[workers’ compensation]](https://www.investopedia.com/terms/w/workers-compensation.asp), their clients do not withhold taxes from their payments for work performed, and equal opportunity laws do not apply to them.4
 
 Examples of independent contractors include doctors, journalists, freelance workers, lawyers, actors, and accountants who are in business for themselves. It is worth noting that independent contractors are not just limited to specialized fields. An NPR/Marist poll conducted in December 2017 found that one in five jobs in the United States is a contracted worker as opposed to a full-time employee.5
 
@@ -64,4 +64,4 @@ A self-employed person must file annual taxes and pay [estimated quarterly tax]
 
 The self-employed person will pay the employer and the employee portion of Social Security and Medicare taxes. Those who make less than an annual net profit of $400 are exempt from paying taxes on that income.2
 
-The [gig economy](https://www.investopedia.com/terms/g/gig-economy.asp), a phenomenon that emerged with digitalization, includes everything from Uber drivers to dog walkers to consultants. There are upsides and downsides to being a gig worker. The advantages are, of course, flexibility and control, but the disadvantages are that there is no guarantee of work, the pay is often low, and there are no employee benefits such as sick leave or a healthcare plan. Gig workers must be disciplined when it comes to paying taxes because they do not receive W-2s and must handle all tax withholding independently.
+The [[gig economy]](https://www.investopedia.com/terms/g/gig-economy.asp), a phenomenon that emerged with digitalization, includes everything from Uber drivers to dog walkers to consultants. There are upsides and downsides to being a gig worker. The advantages are, of course, flexibility and control, but the disadvantages are that there is no guarantee of work, the pay is often low, and there are no employee benefits such as sick leave or a healthcare plan. Gig workers must be disciplined when it comes to paying taxes because they do not receive W-2s and must handle all tax withholding independently.

@@ -16,7 +16,7 @@ author: Marshall Hargrave
 Determining Your Real Rate of Return
 ## What Is the Real Rate of Return?
 
-Real rate of return is the annual percentage of profit earned on an investment, adjusted for inflation. Therefore, the real rate of return accurately indicates the actual [purchasing power](https://www.investopedia.com/terms/p/purchasingpower.asp) of a given amount of money over time.
+Real rate of return is the annual percentage of profit earned on an investment, adjusted for inflation. Therefore, the real rate of return accurately indicates the actual [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp) of a given amount of money over time.
 
 Adjusting the nominal return to compensate for inflation allows the investor to determine how much of a nominal return is real return.
 
@@ -40,7 +40,7 @@ Inflation can reduce the value of your money, just as taxes chip away at it. Cal
 
 Assume a bond pays an interest rate of 5% per year. If the inflation rate is currently 3% per year, the real return on your savings is only 2%.
 
-In other words, even though the nominal rate of return on your savings is 5%, the real rate of return is only 2%, which means the [real value](https://www.investopedia.com/terms/r/real-value.asp) of your savings increases by only 2% in a year.
+In other words, even though the nominal rate of return on your savings is 5%, the real rate of return is only 2%, which means the [[real value]](https://www.investopedia.com/terms/r/real-value.asp) of your savings increases by only 2% in a year.
 
 Considered another way, assume you have saved $10,000 to buy a car but decide to invest the money for a year before buying to ensure you have a small cash cushion left over after getting the car. Earning 5% interest, you have $10,500 after 12 months. However, because prices increased by 3% during the same period due to inflation, the same car now costs $10,300.
 

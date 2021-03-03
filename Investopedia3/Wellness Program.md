@@ -18,7 +18,7 @@ Wellness Program
 
 An organizational approach to improving individual health, wellness programs include activities such as company-sponsored exercise, weight-loss competitions, educational seminars, tobacco-cessation programs, and health screenings that are designed to help employees eat better, lose weight, and improve overall physical health.
 
-Wellness programs often involve financial incentives for employees, such as lower health insurance premiums or [gift cards](https://www.investopedia.com/terms/g/gift-card.asp). Local and state governments may also offer incentive-based wellness programs aimed at promoting the health of their citizens or public employees.
+Wellness programs often involve financial incentives for employees, such as lower health insurance premiums or [[gift cards]](https://www.investopedia.com/terms/g/gift-card.asp). Local and state governments may also offer incentive-based wellness programs aimed at promoting the health of their citizens or public employees.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ Wellness programs often involve financial incentives for employees, such as lowe
 
 ## Understanding Wellness Programs
 
-Besides improving employee productivity and decreasing sick days and leaves of absence—all of which reduce [operating costs](https://www.investopedia.com/terms/o/operating-cost.asp)—wellness programs may be able to lower an organization's [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) expenses. Employees can also benefit from wellness programs through lower health insurance premiums, decreased out-of-pocket medical expenditures, and an increased sense of well-being.
+Besides improving employee productivity and decreasing sick days and leaves of absence—all of which reduce [[operating costs]](https://www.investopedia.com/terms/o/operating-cost.asp)—wellness programs may be able to lower an organization's [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) expenses. Employees can also benefit from wellness programs through lower health insurance premiums, decreased out-of-pocket medical expenditures, and an increased sense of well-being.
 
-It's also important for corporate wellness programs to promote mindfulness of workplace noise and regular, appropriate breaks. Many companies also offer in-house workout spaces or marked walking paths on the [corporate campus](https://www.investopedia.com/terms/c/corporate-headquarters.asp) to encourage physical activity. Others institute no-smoking policies or policies requiring seat belt use in company vehicles.
+It's also important for corporate wellness programs to promote mindfulness of workplace noise and regular, appropriate breaks. Many companies also offer in-house workout spaces or marked walking paths on the [[corporate campus]](https://www.investopedia.com/terms/c/corporate-headquarters.asp) to encourage physical activity. Others institute no-smoking policies or policies requiring seat belt use in company vehicles.
 
 In addition, organizations might create wellness-related linkages between their wellness program and other company benefits like employee assistance programs (EAPs), which help employees get support when they are in a difficult emotional or physical situation that affects both their health and their work. EAPs connect employees to counselors who can advise them confidentially on issues from emotional distress to a difficult medical diagnosis to personal or work-related issues to life events like marriage or parenting.
 
@@ -39,7 +39,7 @@ Health screenings can be a controversial component of many company wellness p
 
 ## Examples of Wellness Programs
 
-Corporate wellness programs offer a variety of scheduled programs, such as stress management seminars that cover topics like sleep to work-life balance, cooking classes, healthy recipe exchanges, [financial well-being](https://www.investopedia.com/terms/f/financial-health.asp), and fitness challenges. Other components of an effective corporate wellness program might include healthy vending machines and cafeteria offerings. Healthy and appealing food might also be served at meetings and included in company-provided overtime meals.
+Corporate wellness programs offer a variety of scheduled programs, such as stress management seminars that cover topics like sleep to work-life balance, cooking classes, healthy recipe exchanges, [[financial well-being]](https://www.investopedia.com/terms/f/financial-health.asp), and fitness challenges. Other components of an effective corporate wellness program might include healthy vending machines and cafeteria offerings. Healthy and appealing food might also be served at meetings and included in company-provided overtime meals.
 
 Google provides an example of a unique wellness program. The company offers employees massage therapy and has a massage program with more than 30 therapists throughout the United States. Another corporate wellness program was created by Draper, Inc., a manufacturer of gym equipment, window shades, and projection screens in Indiana. The company instituted a 10-week weight-loss challenge called “Dump Your Plump.” It consists of 12 teams of six employees, each competing to win weekly grocery gift cards. A cash prize is awarded to the overall winner.
 

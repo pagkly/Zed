@@ -16,9 +16,9 @@ author: Will Kenton
 Return on Total Assets (ROTA) Definition
 ## What Is Return on Total Assets?
 
-Return on total assets (ROTA) is a ratio that measures a company's [earnings](https://www.investopedia.com/terms/e/earnings.asp) before interest and taxes (EBIT) relative to its total net assets. It is defined as the ratio between net income and total average assets, or the amount of financial and operational income a company receives in a financial year as compared to the average of that company's total assets.
+Return on total assets (ROTA) is a ratio that measures a company's [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) before interest and taxes (EBIT) relative to its total net assets. It is defined as the ratio between net income and total average assets, or the amount of financial and operational income a company receives in a financial year as compared to the average of that company's total assets.
 
-The ratio is considered to be an indicator of how effectively a company is using its [assets](https://www.investopedia.com/terms/a/asset.asp) to generate earnings. EBIT is used instead of net profit to keep the metric focused on operating earnings without the influence of tax or financing differences when compared to similar companies.
+The ratio is considered to be an indicator of how effectively a company is using its [[assets]](https://www.investopedia.com/terms/a/asset.asp) to generate earnings. EBIT is used instead of net profit to keep the metric focused on operating earnings without the influence of tax or financing differences when compared to similar companies.
 
 #### Return On Total Assets (ROTA)
 
@@ -44,18 +44,18 @@ To calculate ROTA, divide net income by the average total assets in a given year
 
 To calculate ROTA, obtain the net income figure from a company's income statement, and then add back interest and/or taxes that were paid during the year. The resulting number result is the company's EBIT.
 
-The [EBIT](https://www.investopedia.com/terms/e/ebit.asp) number should then be divided by the company's total net assets to show the earnings that the company has generated for each dollar of assets on its books.
+The [[EBIT]](https://www.investopedia.com/terms/e/ebit.asp) number should then be divided by the company's total net assets to show the earnings that the company has generated for each dollar of assets on its books.
 
 Total assets include contra accounts for this ratio, meaning that allowance for doubtful accounts and accumulated depreciation are both subtracted from the total asset balance before calculating the ratio.
 
 ## Limitations of Using Return on Total Assets (ROTA)
 
-Over time, the value of an asset may diminish or increase. In the case of [real estate](https://www.investopedia.com/terms/r/realestate.asp), the value of the asset may rise. On the other hand, most mechanical pieces of a business, such as vehicles or other machinery, generally depreciate over time as wear and tear affect their value.
+Over time, the value of an asset may diminish or increase. In the case of [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), the value of the asset may rise. On the other hand, most mechanical pieces of a business, such as vehicles or other machinery, generally depreciate over time as wear and tear affect their value.
 
 Since the ROTA formula uses the book values of assets from the balance sheet, it may be significantly understating the fixed assets' actual market value. This leads to a higher ratio result that shows a return on total assets that is higher than it should be because the denominator (total assets) is too low.
 
 Another limitation is how the ratio works with financed assets. If a debt was used to buy an asset, the ROTA could look favorable, while the company may actually be having trouble making its interest expense payments.
 
-The ratio inputs can be adjusted to reflect the assets' functional values while accounting for the [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) currently being paid to a financial institution. For example, if an asset was acquired with funds from a loan with an interest rate of 5% and the return on the associated asset was a gain of 20%, then the adjusted ROTA would be 15%.
+The ratio inputs can be adjusted to reflect the assets' functional values while accounting for the [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) currently being paid to a financial institution. For example, if an asset was acquired with funds from a loan with an interest rate of 5% and the return on the associated asset was a gain of 20%, then the adjusted ROTA would be 15%.
 
 Since many newer companies have higher amounts of debt associated with their assets, these adjustments may make the business look less attractive in the eyes of investors. Once those debts begin to clear, the ROTA will appear to improve accordingly.

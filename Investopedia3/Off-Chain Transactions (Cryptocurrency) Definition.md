@@ -16,9 +16,9 @@ author: Will Kenton
 Off-Chain Transactions (Cryptocurrency) Definition
 ## What Are Off-Chain Transactions (Cryptocurrency)?
 
-Off-chain transactions refer to those transactions occurring on a [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) network which move the value outside of the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp). Due to their zero/low cost, off-chain transactions are gaining popularity, especially among large participants.
+Off-chain transactions refer to those transactions occurring on a [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) network which move the value outside of the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp). Due to their zero/low cost, off-chain transactions are gaining popularity, especially among large participants.
 
-Off-chain transactions can be contrasted with [on-chain transactions](https://www.investopedia.com/terms/c/chain-transactions-cryptocurrency.asp).
+Off-chain transactions can be contrasted with [[on-chain transactions]](https://www.investopedia.com/terms/c/chain-transactions-cryptocurrency.asp).
 
 ### Key Takeaways
 
@@ -47,6 +47,6 @@ In the simplest way, two parties can even exchange their private keys involving 
 
 First, they can be executed instantly. On-chain transactions can have a long lag time depending upon the network load and number of transactions waiting in the queue to be confirmed.
 
-Second, off-chain transactions usually don't have a transaction fee, as nothing occurs on the blockchain. Since no miner or participant is required to validate the transaction, there is no fee, making it an attractive option for especially if large amounts are involved. On the other hand, on-chain transactions may at times come at a high cost, which leads to problems of [Bitcoin Dust](https://www.investopedia.com/terms/b/bitcoin-dust.asp), a situation where small amounts of bitcoins cannot be transacted due to high transaction fees.
+Second, off-chain transactions usually don't have a transaction fee, as nothing occurs on the blockchain. Since no miner or participant is required to validate the transaction, there is no fee, making it an attractive option for especially if large amounts are involved. On the other hand, on-chain transactions may at times come at a high cost, which leads to problems of [[Bitcoin Dust]](https://www.investopedia.com/terms/b/bitcoin-dust.asp), a situation where small amounts of bitcoins cannot be transacted due to high transaction fees.
 
 Third, off-chain transactions offer more security and anonymity to the participants, because details are not publicly broadcast. In the case of on-chain transactions, it is possible to partially determine a participant’s identity by studying transaction patterns.

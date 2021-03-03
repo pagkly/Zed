@@ -16,9 +16,9 @@ author: Investopedia Staff
 Quantity Demanded
 ## What Is Quantity Demanded?
 
-Quantity demanded is a term used in economics to describe the total amount of a good or service that consumers demand over a given interval of time. It depends on the price of a good or service in a marketplace, regardless of whether that market is in [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp).
+Quantity demanded is a term used in economics to describe the total amount of a good or service that consumers demand over a given interval of time. It depends on the price of a good or service in a marketplace, regardless of whether that market is in [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp).
 
-The relationship between the quantity demanded and the price is known as the demand curve, or simply the demand. The degree to which the quantity demanded changes with respect to price is called the [elasticity](https://www.investopedia.com/terms/e/elasticity.asp) of demand.
+The relationship between the quantity demanded and the price is known as the demand curve, or simply the demand. The degree to which the quantity demanded changes with respect to price is called the [[elasticity]](https://www.investopedia.com/terms/e/elasticity.asp) of demand.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ The relationship between the quantity demanded and the price is known as the dem
 
 ### Inverse Relationship of Price and Demand
 
-The price of a good or service in a marketplace determines the quantity that consumers demand. Assuming that non-price factors are removed from the equation, a higher price results in a lower quantity demanded and a lower price results in higher quantity demanded. Thus, the price of a product and the quantity demanded for that product have an inverse relationship, as stated in the [law of demand](https://www.investopedia.com/terms/l/lawofdemand.asp).
+The price of a good or service in a marketplace determines the quantity that consumers demand. Assuming that non-price factors are removed from the equation, a higher price results in a lower quantity demanded and a lower price results in higher quantity demanded. Thus, the price of a product and the quantity demanded for that product have an inverse relationship, as stated in the [[law of demand]](https://www.investopedia.com/terms/l/lawofdemand.asp).
 
 An inverse relationship means that higher prices result in lower quantity demand and lower prices result in higher quantity demand.
 
@@ -48,7 +48,7 @@ Julie Bang / Investopedia
 
 Say, for example, at the price of $5 per hot dog, consumers buy two hot dogs per day; the quantity demanded is two. If vendors decide to increase the price of a hot dog to $6, then consumers only purchase one hot dog per day. On a graph, the quantity demanded moves leftward from two to one when the price rises from $5 to $6. If, however, the price of a hot dog decreases to $4, then customers want to consume three hot dogs: the quantity demanded moves rightward from two to three when the price falls from $5 to $4. 
 
-By graphing these combinations of price and quantity demanded, we can construct a [demand curve](https://www.investopedia.com/articles/economics/11/intro-supply-demand.asp) connecting the three points.
+By graphing these combinations of price and quantity demanded, we can construct a [[demand curve]](https://www.investopedia.com/articles/economics/11/intro-supply-demand.asp) connecting the three points.
 
 Using a standard demand curve, each combination of price and quantity demanded is depicted as a point on the downward sloping line, with the price of hot dogs on the y-axis and the quantity of hot dogs on the x-axis. This means that as price decreases, the quantity demanded increases. Any change or movement to quantity demanded is involved as a movement of the point along the demand curve and not a shift in the demand curve itself. As long as consumers' preferences and other factors don't change, the demand curve effectively remains static.
 

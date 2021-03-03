@@ -16,7 +16,7 @@ author: Julia Kagan
 Home Buyers' Plan (HBP)
 ## What Is the Home Buyers' Plan?
 
-The Home Buyers’ Plan (HBP) is a Canadian program that allows individuals with [registered retirement savings plans (RRSPs)](https://www.investopedia.com/terms/r/rrsp.asp) to use up to $35,000 of plan holdings as a loan for a home purchase.1
+The Home Buyers’ Plan (HBP) is a Canadian program that allows individuals with [[registered retirement savings plans (RRSPs)]](https://www.investopedia.com/terms/r/rrsp.asp) to use up to $35,000 of plan holdings as a loan for a home purchase.1
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The Home Buyers’ Plan (HBP) is a Canadian program that allows individuals with
 
 ## Understanding the Home Buyers' Plan (HBP)
 
-The Home Buyers’ Plan is open to [first-time homebuyers](https://www.investopedia.com/terms/f/firsttimehomebuyer.asp) with a written agreement to buy or build a qualifying home for themselves. Individuals with a disability or those helping a relative with a disability also qualify. Canada defines first-time home buyers as those who have not owned and occupied a home over a four-year period beginning on January 1 of the fourth year prior to the withdrawal.
+The Home Buyers’ Plan is open to [[first-time homebuyers]](https://www.investopedia.com/terms/f/firsttimehomebuyer.asp) with a written agreement to buy or build a qualifying home for themselves. Individuals with a disability or those helping a relative with a disability also qualify. Canada defines first-time home buyers as those who have not owned and occupied a home over a four-year period beginning on January 1 of the fourth year prior to the withdrawal.
 
 For example, funds withdrawn in June of 2018 would yield an eligibility period beginning January 1, 2014, for purposes of determining whether or not an individual qualifies as a first-time homebuyer. Spouses or common-law partners may qualify singly as long as they have not occupied a home owned in their name or in the name of their current partner or spouse.
 
@@ -38,6 +38,6 @@ In addition to the HBP, Canada offers citizens the opportunity to withdraw tax-f
 
 ## Using Retirement Funds to Buy a Home in the U.S.
 
-The U.S. offers a similar program for qualifying first-time homebuyers. Under the [Taxpayer Relief Act of 1997](https://www.investopedia.com/terms/t/taxpayer-relief-act-of-1997.asp), U.S. citizens may withdraw up to $10,000 from an [individual retirement account (IRA)](https://www.investopedia.com/terms/i/ira.asp) to cover the cost of building or buying a home. While the HBP allows a tax-free loan, the U.S. requires first-time homebuyers to take the withdrawal as income subject to tax if it comes out of a traditional IRA.
+The U.S. offers a similar program for qualifying first-time homebuyers. Under the [[Taxpayer Relief Act of 1997]](https://www.investopedia.com/terms/t/taxpayer-relief-act-of-1997.asp), U.S. citizens may withdraw up to $10,000 from an [[individual retirement account (IRA)]](https://www.investopedia.com/terms/i/ira.asp) to cover the cost of building or buying a home. While the HBP allows a tax-free loan, the U.S. requires first-time homebuyers to take the withdrawal as income subject to tax if it comes out of a traditional IRA.
 
-In the case of [Roth IRAs](https://www.investopedia.com/terms/r/rothira.asp), which require post-tax contributions, first-time homebuyers do not pay taxes on the withdrawal of their contributions. In either case, the IRS waives the 10% premature withdrawal penalty that would otherwise apply when an individual takes a retirement distribution before the age of 59½.2
+In the case of [[Roth IRAs]](https://www.investopedia.com/terms/r/rothira.asp), which require post-tax contributions, first-time homebuyers do not pay taxes on the withdrawal of their contributions. In either case, the IRS waives the 10% premature withdrawal penalty that would otherwise apply when an individual takes a retirement distribution before the age of 59½.2

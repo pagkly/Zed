@@ -16,7 +16,7 @@ author: Julia Kagan
 Health Plan Categories
 ## What is Health Plan Categories
 
-Health plan categories refer to the four types of [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) plans that are differentiated based on the average percentage of healthcare expenses that will be paid by the plan. In the United States, health insurance plans are offered in four actuarial levels: Bronze, Silver, Gold and Platinum. The level defines the amount of expenses each type of plan covers.1
+Health plan categories refer to the four types of [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) plans that are differentiated based on the average percentage of healthcare expenses that will be paid by the plan. In the United States, health insurance plans are offered in four actuarial levels: Bronze, Silver, Gold and Platinum. The level defines the amount of expenses each type of plan covers.1
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ The higher the actuarial value (i.e. Gold and Platinum), the more that health p
 
 All plans cover the same set of essential health benefits. Because each plan is different in terms of deductibles, copayments and coinsurance amounts, your share of the costs may come in the form of a large deductible with low coinsurance (for example, a $4,000 deductible with 10 percent coinsurance) or a small deductible with high coinsurance (such as a $1,500 deductible with 30 percent coinsurance).
 
-With all health plans, consumers pay a monthly [insurance premium](https://www.investopedia.com/terms/i/insurance-premium.asp) whether or not they use healthcare services. Premiums are typically higher for plans that pay more of your medical expenses when you receive care, such as Gold and Platinum plans. In general, premiums are also higher for plans that have lower deductibles and lower coinsurance amounts.
+With all health plans, consumers pay a monthly [[insurance premium]](https://www.investopedia.com/terms/i/insurance-premium.asp) whether or not they use healthcare services. Premiums are typically higher for plans that pay more of your medical expenses when you receive care, such as Gold and Platinum plans. In general, premiums are also higher for plans that have lower deductibles and lower coinsurance amounts.
 
 In addition to the four metallic coverage tiers, a catastrophic level is available to people under age 30 and to certain people over age 30 who are granted hardship exemptions based on income and other circumstances that would prevent them from getting a Bronze, Silver, Gold or Platinum plan.2
 

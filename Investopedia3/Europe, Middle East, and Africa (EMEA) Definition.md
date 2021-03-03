@@ -24,7 +24,7 @@ Europe, Middle East and Africa (EMEA) is a label that many global firms use when
 
 EMEA is a common geographical division in international business, but it is not precisely defined. It may or may not include Russia (shown below) or Kazakhstan (not shown), for example. European overseas territories on other continents are generally excluded (though French Guiana is shown below). Since few firms have operations in anything close to every country that might be considered EMEA, the list of nations comprising an individual firm's EMEA region will be idiosyncratic. 
 
-Besides being widely recognized, the EMEA is useful for operational purposes because most of the region—Russia's far east excluded—falls within four [time zones](https://www.investopedia.com/articles/forex/08/forex-trading-schedule-trading-times.asp), facilitating communication and travel. 
+Besides being widely recognized, the EMEA is useful for operational purposes because most of the region—Russia's far east excluded—falls within four [[time zones]](https://www.investopedia.com/articles/forex/08/forex-trading-schedule-trading-times.asp), facilitating communication and travel. 
 
 Other than longitude, however, little unites the EMEA region. It contains incredible political, economic, linguistic, cultural, religious and climatic diversity. Some of the world's richest countries are lumped in with some of the poorest. Political systems range from stable democracies to autocracies to failed states. Regions, where the lingua franca is Swahili, are lumped in with ones where it is Arabic, French, Russian, or English. Local languages number in the hundreds. 
 

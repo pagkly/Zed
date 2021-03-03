@@ -16,11 +16,11 @@ author: Jake Frankenfield
 Smart Contracts: What You Need to Know
 ## What Is a Smart Contract?
 
-A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) network. The code controls the execution, and transactions are trackable and irreversible.
+A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) network. The code controls the execution, and transactions are trackable and irreversible.
 
 Smart contracts permit trusted transactions and agreements to be carried out among disparate, anonymous parties without the need for a central authority, legal system, or external enforcement mechanism.
 
-While blockchain technology has come to be thought of primarily as the foundation for bitcoin, it has evolved far beyond underpinning the [virtual currency](https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp).
+While blockchain technology has come to be thought of primarily as the foundation for bitcoin, it has evolved far beyond underpinning the [[virtual currency]](https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp).
 
 ### What You Need to Know
 

@@ -27,7 +27,7 @@ Workers' Compensation Coverage B is an insurance policy that covers medical care
 
 ## How Workers' Compensation Coverage B Works
 
-Workers' Compensation Coverage B is also called employers' liability coverage. Employers are required by law under the Workers' Compensation Act to provide coverage for their employees. Corporate insurance buyers get [workers’ compensation insurance](https://www.investopedia.com/terms/w/workers-compensation.asp) to protect their workers and meet state insurance requirements. Part B includes the two distinct parts of most standard Workers’ Compensation contracts: [parts A](https://www.investopedia.com/terms/w/workers-compensation-coverage-a.asp) and B.
+Workers' Compensation Coverage B is also called employers' liability coverage. Employers are required by law under the Workers' Compensation Act to provide coverage for their employees. Corporate insurance buyers get [[workers’ compensation insurance]](https://www.investopedia.com/terms/w/workers-compensation.asp) to protect their workers and meet state insurance requirements. Part B includes the two distinct parts of most standard Workers’ Compensation contracts: [[parts A]](https://www.investopedia.com/terms/w/workers-compensation-coverage-a.asp) and B.
 
 Part A satisfies state insurance requirements, and Part B will respond to pay additional damages. The policy will fund employees’ medical bills, related expenses and lost wages in the case of a covered workers’ compensation loss. Payments are made normally based on predetermined schedules in the case of defined injuries. Expenses are paid accordingly as the adjuster calculates them. It covers:
 
@@ -35,7 +35,7 @@ Part A satisfies state insurance requirements, and Part B will respond to pay ad
 -   Bodily injury by disease: $500,000 policy limit.
 -   Bodily injury by disease: $100,000 for each employee.
 
-Under Workers' Compensation Coverage B, workers who are injured on the job can be provided with 100% coverage of all [medical expenses](https://www.investopedia.com/terms/m/medical-expenses.asp), 66.66% of lost wages, a lump sum for disability and disfigurement, and a [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp). This coverage is required in most states if a company has three or more employees, including the owners of uninsured subcontractors, plus their employees for one year.
+Under Workers' Compensation Coverage B, workers who are injured on the job can be provided with 100% coverage of all [[medical expenses]](https://www.investopedia.com/terms/m/medical-expenses.asp), 66.66% of lost wages, a lump sum for disability and disfigurement, and a [[death benefit]](https://www.investopedia.com/terms/d/deathbenefit.asp). This coverage is required in most states if a company has three or more employees, including the owners of uninsured subcontractors, plus their employees for one year.
 
 ## Special Considerations
 

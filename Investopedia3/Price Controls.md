@@ -20,7 +20,7 @@ Price controls are government-mandated legal minimum or maximum prices set for s
 
 ## Understanding Price Controls
 
-Governments most commonly implement price controls on staples—essential items, such as food or energy products. Price controls that set maximum prices are [price ceilings](https://www.investopedia.com/terms/p/price-ceiling.asp), while price controls that set minimum prices are price floors.
+Governments most commonly implement price controls on staples—essential items, such as food or energy products. Price controls that set maximum prices are [[price ceilings]](https://www.investopedia.com/terms/p/price-ceiling.asp), while price controls that set minimum prices are price floors.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Governments most commonly implement price controls on staples—essential items,
 -   At best, price controls are only effective on an extremely short-term basis.
 -   Over the long term, price controls can lead to problems such as shortages, rationing, inferior product quality, and black markets.
 
-Over the long term, price controls inevitably lead to problems such as [shortages](https://www.investopedia.com/terms/s/shortage.asp), [rationing](https://www.investopedia.com/terms/r/rationing.asp), deterioration of product quality, and [black markets](https://www.investopedia.com/terms/b/blackmarket.asp) that arise to supply the price-controlled goods through unofficial channels.
+Over the long term, price controls inevitably lead to problems such as [[shortages]](https://www.investopedia.com/terms/s/shortage.asp), [[rationing]](https://www.investopedia.com/terms/r/rationing.asp), deterioration of product quality, and [[black markets]](https://www.investopedia.com/terms/b/blackmarket.asp) that arise to supply the price-controlled goods through unofficial channels.
 
 Examples in the United States are the price controls set on gasoline during the Nixon administration, which eventually led to major shortages in supply and long, slow lines at gas pumps.
 
@@ -36,7 +36,7 @@ Examples in the United States are the price controls set on gasoline during the 
 
 Rent control is another frequently cited example of the ineffectiveness of price controls. Rent-control policies widely implemented in New York City were intended to help maintain an adequate supply of affordable housing. However, the actual effect has been to reduce the overall supply of available rental space, which in turn has contributed (among other factors) to even higher prices in the market of available rental housing.
 
-Some economists argue that the net effect of [rent control](https://www.investopedia.com/terms/r/rent-control.asp) has been to discourage real estate entrepreneurs from becoming landlords. This has created a supply situation in which there is less rental housing available than the amount that would have been created by a [free market](https://www.investopedia.com/terms/f/freemarket.asp), thereby putting continued upward pressure on rental rates.
+Some economists argue that the net effect of [[rent control]](https://www.investopedia.com/terms/r/rent-control.asp) has been to discourage real estate entrepreneurs from becoming landlords. This has created a supply situation in which there is less rental housing available than the amount that would have been created by a [[free market]](https://www.investopedia.com/terms/f/freemarket.asp), thereby putting continued upward pressure on rental rates.
 
 Controlled rental rates, it is argued, has also discouraged landlords from making the necessary expenditures to maintain or improve rental properties, leading to deterioration in the quality of rental housing.
 

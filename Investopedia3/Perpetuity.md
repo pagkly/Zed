@@ -20,7 +20,7 @@ A perpetuity is a security that pays for an infinite amount of time. In finance,
 
 PV\=C(1+r)1+C(1+r)2+C(1+r)3⋯\=Crwhere:PV\=present valueC\=cash flowr\=discount rate\\begin{aligned} &\\text{PV} = \\frac { C }{ ( 1 + r ) ^ 1 } + \\frac { C }{ ( 1 + r ) ^ 2 } + \\frac { C }{ ( 1 + r ) ^ 3 } \\cdots = \\frac { C }{ r } \\\\ &\\textbf{where:} \\\\ &\\text{PV} = \\text{present value} \\\\ &C = \\text{cash flow} \\\\ &r = \\text{discount rate} \\\\ \\end{aligned}
 
-The concept of a perpetuity is also used in a number of financial theories, such as in the [dividend discount model (DDM)](https://www.investopedia.com/terms/d/ddm.asp).
+The concept of a perpetuity is also used in a number of financial theories, such as in the [[dividend discount model (DDM)]](https://www.investopedia.com/terms/d/ddm.asp).
 
 ### Key Takeaways
 
@@ -34,11 +34,11 @@ An annuity is a stream of cash flows. A perpetuity is a type of annuity that las
 
 An example of a financial instrument with perpetual cash flows is the British-issued bonds known as consols, which the Bank of England phased out in 2015. By purchasing a consol from the British government, the bondholder was entitled to receive annual interest payments forever.1 Although it may seem a bit illogical, an infinite series of cash flows can have a finite present value. Because of the time value of money, each payment is only a fraction of the last.
 
-Specifically, the perpetuity formula determines the amount of cash flows in the [terminal year](https://www.investopedia.com/terms/t/terminalvalue.asp) of operation. In valuation, a company is said to be a going concern, meaning that it goes on forever. For this reason, the terminal year is a perpetuity, and analysts use the perpetuity formula to find its value.
+Specifically, the perpetuity formula determines the amount of cash flows in the [[terminal year]](https://www.investopedia.com/terms/t/terminalvalue.asp) of operation. In valuation, a company is said to be a going concern, meaning that it goes on forever. For this reason, the terminal year is a perpetuity, and analysts use the perpetuity formula to find its value.
 
 ## Perpetuity Formula
 
-The basic method used to calculate a perpetuity is to divide cash flows by some discount rate. The formula used to calculate the terminal value in a stream of cash flows for valuation purposes is a bit more complicated. It is the estimate of cash flows in year 10 of the company, multiplied by one plus the company’s long-term growth rate, and then divided by the difference between the [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp) and the growth rate.
+The basic method used to calculate a perpetuity is to divide cash flows by some discount rate. The formula used to calculate the terminal value in a stream of cash flows for valuation purposes is a bit more complicated. It is the estimate of cash flows in year 10 of the company, multiplied by one plus the company’s long-term growth rate, and then divided by the difference between the [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) and the growth rate.
 
 Simply put, the terminal value is some amount of cash flows divided by some discount rate, which is the basic formula for a perpetuity.
 

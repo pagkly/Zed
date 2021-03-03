@@ -16,7 +16,7 @@ author: Will Kenton
 John F. Nash Jr.
 ## Who is John F. Nash Jr.
 
-John F. Nash, Jr., was an American mathematician who won the 1994 Nobel Prize in Economics, along with John Harsanyi and Reinhard Selten, for his development of the mathematical foundations of game theory.1 Nash was also a pioneer in the study of study of differential geometry and partial differential equations. He also developed an equilibrium theory known as the [Nash Equilibrium](https://www.investopedia.com/terms/n/nash-equilibrium.asp) (of which the [prisoner's dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is a well-known example).
+John F. Nash, Jr., was an American mathematician who won the 1994 Nobel Prize in Economics, along with John Harsanyi and Reinhard Selten, for his development of the mathematical foundations of game theory.1 Nash was also a pioneer in the study of study of differential geometry and partial differential equations. He also developed an equilibrium theory known as the [[Nash Equilibrium]](https://www.investopedia.com/terms/n/nash-equilibrium.asp) (of which the [[prisoner's dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is a well-known example).
 
 ## BREAKING DOWN John F. Nash Jr.
 
@@ -26,11 +26,11 @@ By the early 1970s, Nash received treatment that allowed his condition to improv
 
 ## John F. Nash Jr. and Other Work and Legacy
 
-Among Nash's other groundbreaking math theories: the Nash-Moser inverse function theorem, the Nash–De Giorgi theorem, the Nash embedding theorems, which [the Norwegian Academy of Science and Letters said were](https://www.britannica.com/failedlogin) "among the most original results in geometric analysis of the twentieth century”.
+Among Nash's other groundbreaking math theories: the Nash-Moser inverse function theorem, the Nash–De Giorgi theorem, the Nash embedding theorems, which [[the Norwegian Academy of Science and Letters said were]](https://www.britannica.com/failedlogin) "among the most original results in geometric analysis of the twentieth century”.
 
 The 2001 Nash gained worldwide popular recognition thanks to the Academy Award-winning film "[A Beautiful Mind](https://www.imdb.com/title/tt0268978/)," which chronicles the lives of him and his wife, Alicia, as they struggled between his genius and his mental illness. It was based on the 1998 biography by Sylvia Nasar.
 
-In 2015, John and Alicia Nash were killed when the taxi they were riding in crashed in New Jersey. [He was 86 and she was 82](https://www.princeton.edu/news/2015/05/27/tragic-meaningful-life-legendary-princeton-mathematician-john-nash-dies). They had been returning from Norway, where Nash had been awarded the prestigious 2015 Abel Prize from the Norwegian Academy of Science and Letters.3
+In 2015, John and Alicia Nash were killed when the taxi they were riding in crashed in New Jersey. [[He was 86 and she was 82]](https://www.princeton.edu/news/2015/05/27/tragic-meaningful-life-legendary-princeton-mathematician-john-nash-dies). They had been returning from Norway, where Nash had been awarded the prestigious 2015 Abel Prize from the Norwegian Academy of Science and Letters.3
 
 Twenty years earlier, upon accepting the Nobel Prize for Mathematics, Nash offered a speech that looked back on his tumultuous but accomplished life and concluded:
 

@@ -16,17 +16,17 @@ author: Julia Kagan
 Why Earned Premiums Matter
 ## What Is an Earned Premium?
 
-The term earned premium refers to the premium collected by an [insurance](https://www.investopedia.com/terms/i/insurance.asp) company for the portion of a policy that has expired. It is what the insured party has paid for a portion of time in which the insurance policy was in effect, but has since expired. Since the insurance company covers the risk during that time, it considers the associated premium payments it takes from the insured party as unearned. Once the time has expired, it can then record it as earned or as a profit.
+The term earned premium refers to the premium collected by an [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) company for the portion of a policy that has expired. It is what the insured party has paid for a portion of time in which the insurance policy was in effect, but has since expired. Since the insurance company covers the risk during that time, it considers the associated premium payments it takes from the insured party as unearned. Once the time has expired, it can then record it as earned or as a profit.
 
 ## Understanding Earned Premiums
 
-An earned insurance premium is commonly used in the insurance industry. Because policyholders pay premiums in advance, insurers don't immediately consider [premiums](https://www.investopedia.com/terms/p/premium.asp) paid for an insurance contract as [earnings](https://www.investopedia.com/terms/e/earnings.asp). While the policyholder meets his or her financial obligation and receives the benefits, an insurer's obligation begins when it receives the premium.
+An earned insurance premium is commonly used in the insurance industry. Because policyholders pay premiums in advance, insurers don't immediately consider [[premiums]](https://www.investopedia.com/terms/p/premium.asp) paid for an insurance contract as [[earnings]](https://www.investopedia.com/terms/e/earnings.asp). While the policyholder meets his or her financial obligation and receives the benefits, an insurer's obligation begins when it receives the premium.
 
-When the premium is paid, it is considered an unearned premium—not a [profit](https://www.investopedia.com/terms/p/profit.asp). That's because, as mentioned above, the insurance company still has an obligation to fulfill. The insurer can change the status of the premium from unearned to earned only when the entire premium is considered profit.
+When the premium is paid, it is considered an unearned premium—not a [[profit]](https://www.investopedia.com/terms/p/profit.asp). That's because, as mentioned above, the insurance company still has an obligation to fulfill. The insurer can change the status of the premium from unearned to earned only when the entire premium is considered profit.
 
 The earned premium for a full year policy, paid up front and in effect for 90 days, would be for those 90 days.
 
-Say the insurance company records the premium as an earning, and the time period hasn't elapsed. But the insured party files a claim during that time period. The insurance company will have to [reconcile](https://www.investopedia.com/terms/r/reconciliation.asp) its books to unwind the transaction listing the premium as an earning. So it makes more sense to hold off on recording it as an earning in the event that a claim is filed.
+Say the insurance company records the premium as an earning, and the time period hasn't elapsed. But the insured party files a claim during that time period. The insurance company will have to [[reconcile]](https://www.investopedia.com/terms/r/reconciliation.asp) its books to unwind the transaction listing the premium as an earning. So it makes more sense to hold off on recording it as an earning in the event that a claim is filed.
 
 ### Key Takeaways
 
@@ -36,11 +36,11 @@ Say the insurance company records the premium as an earning, and the time period
 
 ## Special Considerations
 
-There are two different ways to calculate earned premiums: The [accounting method](https://www.investopedia.com/terms/a/accountingmethod.asp) and the exposure method.
+There are two different ways to calculate earned premiums: The [[accounting method]](https://www.investopedia.com/terms/a/accountingmethod.asp) and the exposure method.
 
-The accounting method is the most commonly used. This method is the one used to show earned premium on the majority of insurers' corporate [income statements](https://www.investopedia.com/terms/i/incomestatement.asp). The calculation used in this method involves dividing the total premium by 365 and multiplying the result by the number of elapsed days. For example, an insurer who receives a $1,000 premium on a policy that has been in effect for 100 days would have an earned premium of $273.97 ($1,000 ÷ 365 x 100).
+The accounting method is the most commonly used. This method is the one used to show earned premium on the majority of insurers' corporate [[income statements]](https://www.investopedia.com/terms/i/incomestatement.asp). The calculation used in this method involves dividing the total premium by 365 and multiplying the result by the number of elapsed days. For example, an insurer who receives a $1,000 premium on a policy that has been in effect for 100 days would have an earned premium of $273.97 ($1,000 ÷ 365 x 100).
 
-The exposure method does not take into account the date a premium is booked. Instead, it looks at how premiums are exposed to losses over a given period of time. It is a complicated method and involves examining the portion of [unearned premium](https://www.investopedia.com/terms/u/unearned-premium.asp) exposed to loss during the period being calculated. The exposure method involves the examination of different risk scenarios using historical data that may occur over a period of time—from high-risk to low-risk scenarios—and applies the resulting exposure to premiums earned.
+The exposure method does not take into account the date a premium is booked. Instead, it looks at how premiums are exposed to losses over a given period of time. It is a complicated method and involves examining the portion of [[unearned premium]](https://www.investopedia.com/terms/u/unearned-premium.asp) exposed to loss during the period being calculated. The exposure method involves the examination of different risk scenarios using historical data that may occur over a period of time—from high-risk to low-risk scenarios—and applies the resulting exposure to premiums earned.
 
 ## Earned vs. Unearned Premiums
 

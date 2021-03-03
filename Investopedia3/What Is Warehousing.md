@@ -16,7 +16,7 @@ author: Adam Hayes
 What Is Warehousing?
 ## What Is Warehousing?
 
-Warehousing is an intermediate step in a [collateralized debt obligation](https://www.investopedia.com/terms/c/cdo.asp) (CDO) transaction that involves purchasing loans or bonds that will serve as collateral in a contemplated CDO transaction. The [warehousing](https://www.investopedia.com/terms/w/warehouse_lending.asp) period typically lasts three months, and it comes to an end upon closing of the transaction when they are ultimately securitized and sold as part of the CDO.
+Warehousing is an intermediate step in a [[collateralized debt obligation]](https://www.investopedia.com/terms/c/cdo.asp) (CDO) transaction that involves purchasing loans or bonds that will serve as collateral in a contemplated CDO transaction. The [[warehousing]](https://www.investopedia.com/terms/w/warehouse_lending.asp) period typically lasts three months, and it comes to an end upon closing of the transaction when they are ultimately securitized and sold as part of the CDO.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ Warehousing is an intermediate step in a [collateralized debt obligation](https:
 
 ## Understanding Warehousing
 
-A CDO is a structured financial product that pools together cash flow-generating assets and repackages this asset pool into discrete [tranches](https://www.investopedia.com/terms/t/tranches.asp) that can be sold to investors. The pooled assets, comprising mortgages, bond, and loans, are debt obligations that serve as collateral — hence the name collateralized debt obligation. The tranches of a CDO vary substantially with their risk profile. Senior tranches are relatively safer because they have priority on the collateral in the event of a default. The senior tranches are rated higher by credit rating agencies but yield less, while the junior tranches receive lower credit ratings and offer higher yields.
+A CDO is a structured financial product that pools together cash flow-generating assets and repackages this asset pool into discrete [[tranches]](https://www.investopedia.com/terms/t/tranches.asp) that can be sold to investors. The pooled assets, comprising mortgages, bond, and loans, are debt obligations that serve as collateral — hence the name collateralized debt obligation. The tranches of a CDO vary substantially with their risk profile. Senior tranches are relatively safer because they have priority on the collateral in the event of a default. The senior tranches are rated higher by credit rating agencies but yield less, while the junior tranches receive lower credit ratings and offer higher yields.
 
-An investment bank carries out the warehousing of the assets in preparation of launching a CDO into the market. The assets are stored in a warehouse account until the target amount is reached, at which point the assets are transferred to the corporation or trust established for the CDO. The process of warehousing exposes the bank to [capital risk](https://www.investopedia.com/terms/c/capitalrisk.asp) because the assets sit on its books. The bank may or may not hedge this risk.
+An investment bank carries out the warehousing of the assets in preparation of launching a CDO into the market. The assets are stored in a warehouse account until the target amount is reached, at which point the assets are transferred to the corporation or trust established for the CDO. The process of warehousing exposes the bank to [[capital risk]](https://www.investopedia.com/terms/c/capitalrisk.asp) because the assets sit on its books. The bank may or may not hedge this risk.
 
 ## CDOs Gone Wild!
 

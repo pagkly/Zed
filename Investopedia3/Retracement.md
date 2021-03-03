@@ -24,7 +24,7 @@ Image by Sabrina Jiang © Investopedia 2021
 
 -   Retracements are technical indicators utilized in technical analysis of the prices of securities.
 -   A retracement refers to a short-term change in a stock's price relative to an overarching trend. It is followed by a continuation of the previous trend.
--   Retracements are not the same as [reversals](https://www.investopedia.com/terms/r/reversal.asp).; in the latter, the price of the security must breach support or resistance levels.
+-   Retracements are not the same as [[reversals]](https://www.investopedia.com/terms/r/reversal.asp).; in the latter, the price of the security must breach support or resistance levels.
 
 ## Understanding a Retracement
 
@@ -38,7 +38,7 @@ Image by Sabrina Jiang © Investopedia 2021
 
 ## The Difference Between a Retracement and a Reversal
 
-Again, it is important to remember that a retracement is a minor or short-term pullback in the price of a stock or index. But what is key is that the stock does not breach a critical level of [support](https://www.investopedia.com/terms/s/support.asp) or [resistance](https://www.investopedia.com/terms/r/resistance.asp) nor does it breach the uptrend or downtrend. Should the price fall below or rise above support or resistance, or violate an uptrend or downtrend, then it is no longer considered a retracement but a reversal.
+Again, it is important to remember that a retracement is a minor or short-term pullback in the price of a stock or index. But what is key is that the stock does not breach a critical level of [[support]](https://www.investopedia.com/terms/s/support.asp) or [[resistance]](https://www.investopedia.com/terms/r/resistance.asp) nor does it breach the uptrend or downtrend. Should the price fall below or rise above support or resistance, or violate an uptrend or downtrend, then it is no longer considered a retracement but a reversal.
 
 ## Limitations of A Retracement
 

@@ -16,7 +16,7 @@ author: James Chen
 Voting Trust Certificate
 ## DEFINITION of Voting Trust Certificate
 
-A [voting trust](https://www.investopedia.com/terms/v/votingtrust.asp) certificate is a document issued by a limited-life trust of a corporation established to give temporary voting control of a corporation to one or a few individuals. A voting trust certificate is issued to a stockholder in exchange for his or her common stock, and represents all of the normal rights of a shareholder (e.g., receiving [dividends](https://www.investopedia.com/terms/d/dividend.asp)) except the [right to vote](https://www.investopedia.com/terms/v/votingright.asp). The life of a voting trust certificate in many cases ranges from two to five years, at which point the common stock, with voting rights, is returned to the shareholder.
+A [[voting trust]](https://www.investopedia.com/terms/v/votingtrust.asp) certificate is a document issued by a limited-life trust of a corporation established to give temporary voting control of a corporation to one or a few individuals. A voting trust certificate is issued to a stockholder in exchange for his or her common stock, and represents all of the normal rights of a shareholder (e.g., receiving [[dividends]](https://www.investopedia.com/terms/d/dividend.asp)) except the [[right to vote]](https://www.investopedia.com/terms/v/votingright.asp). The life of a voting trust certificate in many cases ranges from two to five years, at which point the common stock, with voting rights, is returned to the shareholder.
 
 ## BREAKING DOWN Voting Trust Certificate
 
@@ -24,4 +24,4 @@ A voting trust certificate allows one or a small number of individuals, known as
 
 ## Terms of a Voting Trust Agreement
 
-Voting trust agreements must be filed with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC). The legal document will contain, among other terms, the duration of the agreement; the rights of shareholders (other than voting rights); procedures in the event of a merger, consolidation or [dissolution](https://www.investopedia.com/terms/w/windingup.asp) of the company; and duties and rights of trustees. Another term in the contract is trustee compensation, which by standard is normally none, unless the majority of shareholders allows for a nominal amount.
+Voting trust agreements must be filed with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). The legal document will contain, among other terms, the duration of the agreement; the rights of shareholders (other than voting rights); procedures in the event of a merger, consolidation or [[dissolution]](https://www.investopedia.com/terms/w/windingup.asp) of the company; and duties and rights of trustees. Another term in the contract is trustee compensation, which by standard is normally none, unless the majority of shareholders allows for a nominal amount.

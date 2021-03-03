@@ -16,9 +16,9 @@ author: Will Kenton
 What Is the J-Curve Effect?
 ## What Is a J-Curve?
 
-A [J-curve](https://www.investopedia.com/terms/j/jcurve.asp) is a trendline that shows an initial loss immediately followed by a dramatic gain. In a chart, this pattern of activity would follow the shape of a capital "J".
+A [[J-curve]](https://www.investopedia.com/terms/j/jcurve.asp) is a trendline that shows an initial loss immediately followed by a dramatic gain. In a chart, this pattern of activity would follow the shape of a capital "J".
 
-The J-curve effect is often cited in economics to describe, for instance, the way that a country’s [balance of trade](https://www.investopedia.com/terms/b/bot.asp) initially worsens following a devaluation of its currency, then quickly recovers and finally surpasses its previous performance.
+The J-curve effect is often cited in economics to describe, for instance, the way that a country’s [[balance of trade]](https://www.investopedia.com/terms/b/bot.asp) initially worsens following a devaluation of its currency, then quickly recovers and finally surpasses its previous performance.
 
 J-curves are observed in other fields including medicine and political science. In each case, it depicts an initial loss followed by a significant gain to a level that exceeds the starting point.
 
@@ -34,14 +34,14 @@ The J-curve is useful to demonstrate the effects of an event or action over a se
 
 In economics, it is often used to observe the effects of a weaker currency on trade balances. The pattern is as follows:
 
--   Immediately after a nation's currency is devalued, imports get more expensive and exports get cheaper, creating a worsening [trade deficit](https://www.investopedia.com/terms/t/trade_deficit.asp) (or at least a smaller trade surplus).
+-   Immediately after a nation's currency is devalued, imports get more expensive and exports get cheaper, creating a worsening [[trade deficit]](https://www.investopedia.com/terms/t/trade_deficit.asp) (or at least a smaller trade surplus).
 -   Shortly thereafter, the sales volume of the nation's exports begins to rise steadily, thanks to their relatively cheap prices.
 -   At the same time, consumers at home begin to buy more locally-produced goods because they are relatively affordable compared to imports.
 -   Over time, the trade balance between the nation and its partners bounces back and even exceeds pre-devaluation times.
 
 The devaluation of the nation's currency had an immediate negative effect because of an inevitable lag in satisfying greater demand for the country's products.
 
-When a [country’s currency appreciates](https://www.investopedia.com/articles/forex/080613/effects-currency-fluctuations-economy.asp), economists note, a reverse J-curve may occur. The country’s exports abruptly become more expensive for importing countries. If other countries can fill the demand for a lower price, the stronger currency will reduce its export competitiveness. Local consumers may switch to imports, too, because they have become more competitive with locally-produced goods.
+When a [[country’s currency appreciates]](https://www.investopedia.com/articles/forex/080613/effects-currency-fluctuations-economy.asp), economists note, a reverse J-curve may occur. The country’s exports abruptly become more expensive for importing countries. If other countries can fill the demand for a lower price, the stronger currency will reduce its export competitiveness. Local consumers may switch to imports, too, because they have become more competitive with locally-produced goods.
 
 ### The J-Curve in Private Equity
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Excise Tax Definition
 ## What Is an Excise Tax?
 
-An excise tax is a legislated [tax](https://www.investopedia.com/terms/i/indirecttax.asp) on specific goods or services at purchase such as fuel, tobacco, and alcohol. Excise taxes are intranational taxes imposed within a government infrastructure rather than international taxes imposed across country borders. A federal excise tax is usually collected from motor fuel sales, airline tickets, tobacco, and other goods and services.1
+An excise tax is a legislated [[tax]](https://www.investopedia.com/terms/i/indirecttax.asp) on specific goods or services at purchase such as fuel, tobacco, and alcohol. Excise taxes are intranational taxes imposed within a government infrastructure rather than international taxes imposed across country borders. A federal excise tax is usually collected from motor fuel sales, airline tickets, tobacco, and other goods and services.1
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ Excise taxes can fall into one of two categories: ad valorem and specific. Ad va
 
 In 2017, excise taxes accounted for $83.8 billion of the federal government's revenue and [2.5%](https://www.taxpolicycenter.org/briefing-book/what-are-major-federal-excise-taxes-and-how-much-money-do-they-raise) of total federal tax receipts.
 
-The Internal Revenue Service provides guidance on excise taxes in [Publication 510](https://www.irs.gov/publications/p510).1
+The Internal Revenue Service provides guidance on excise taxes in [[Publication 510]](https://www.irs.gov/publications/p510).1
 
 ## Ad Valorem Excise Taxes
 
@@ -47,7 +47,7 @@ Ad valorem is a Latin phrase that literally means "according to value." An ad va
 
 ## Specific Excise Taxes
 
-Specific excise taxes are a set tax or fee added to a certain product on a per-unit basis. Some examples of federal, specific excise taxes include [cigarettes](https://www.investopedia.com/articles/markets/042215/how-altria-mo-makes-its-money.asp) ($1.01 per pack of 20), pipe tobacco ($2.83 per pound), beer ($7 for the first 60,000 barrels), cruise ship passengers ($3 per passenger), and gasoline ($0.183 per gallon).5
+Specific excise taxes are a set tax or fee added to a certain product on a per-unit basis. Some examples of federal, specific excise taxes include [[cigarettes]](https://www.investopedia.com/articles/markets/042215/how-altria-mo-makes-its-money.asp) ($1.01 per pack of 20), pipe tobacco ($2.83 per pound), beer ($7 for the first 60,000 barrels), cruise ship passengers ($3 per passenger), and gasoline ($0.183 per gallon).5
 
 Often sin taxes on targeted goods like beer and alcohol will be taxed at the federal level and also taxed heavily by the state, making the cost of these items higher. For example, New York has a specific excise tax of $4.35 per cigarette pack of 20.6 Combining this with the federal tax of $1.01 makes the excise taxes alone $5.36. These taxes have a considerable impact on the consumer.
 

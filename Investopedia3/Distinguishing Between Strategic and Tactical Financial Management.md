@@ -16,7 +16,7 @@ author: Will Kenton
 Distinguishing Between Strategic and Tactical Financial Management
 ## What Is Strategic Financial Management?
 
-Strategic financial management means not only managing a company's finances but managing them with the intention to succeed—that is, to attain the company's goals and objectives and maximize shareholder value over time. However, before a company can manage itself strategically, it first needs to define its objectives precisely, identify and quantify its available and potential resources, and devise a specific plan to use its finances and other [capital resources](https://www.investopedia.com/ask/answers/032715/what-are-some-examples-different-types-capital.asp) toward achieving its goals.
+Strategic financial management means not only managing a company's finances but managing them with the intention to succeed—that is, to attain the company's goals and objectives and maximize shareholder value over time. However, before a company can manage itself strategically, it first needs to define its objectives precisely, identify and quantify its available and potential resources, and devise a specific plan to use its finances and other [[capital resources]](https://www.investopedia.com/ask/answers/032715/what-are-some-examples-different-types-capital.asp) toward achieving its goals.
 
 Strategic financial management is about creating profit for the business and ensuring an acceptable return on investment (ROI). Financial management is accomplished through business financial plans, setting up financial controls, and financial decision making.
 
@@ -36,7 +36,7 @@ The term "strategic" refers to financial management practices that are focused 
 
 ### When Strategic Management Is Effective
 
-Part of effective strategic financial management thus may involve sacrificing or readjusting short-term goals in order to attain the company's long-term objectives more efficiently. For example, if a company suffered a net loss for the previous year, then it may choose to reduce its asset base through closing facilities or reducing staff, thereby decreasing its operating expenses. Taking such steps may result in restructuring costs or other [one-time items](https://www.investopedia.com/terms/o/one-time-item.asp) that negatively affect the company's finances further in the short term, but which position the company better to succeed in the long term.
+Part of effective strategic financial management thus may involve sacrificing or readjusting short-term goals in order to attain the company's long-term objectives more efficiently. For example, if a company suffered a net loss for the previous year, then it may choose to reduce its asset base through closing facilities or reducing staff, thereby decreasing its operating expenses. Taking such steps may result in restructuring costs or other [[one-time items]](https://www.investopedia.com/terms/o/one-time-item.asp) that negatively affect the company's finances further in the short term, but which position the company better to succeed in the long term.
 
 These short-term versus long-term tradeoffs often need to be made with various stakeholders in mind. For instance, shareholders of public companies may discipline management for decisions that negatively affect a company's share price in the short term, even though the long-term health of the company becomes more solid by the same decisions.
 
@@ -78,8 +78,8 @@ A company will apply strategic financial management throughout its organizationa
 
 ## Examples of Strategies Based on Industry
 
-Just as financial management strategies will vary from company to company, they also can differ according to [industry and sector](https://www.investopedia.com/ask/answers/05/industrysector.asp).
+Just as financial management strategies will vary from company to company, they also can differ according to [[industry and sector]](https://www.investopedia.com/ask/answers/05/industrysector.asp).
 
-Firms that operate in fast-growing industries—like information technology or technical services—would want to choose strategies that cite their goals for growth and specify movement in a positive direction. Their objectives, for example, might include launching a new product or increasing [gross revenue](https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-income.asp) within the next 12 months.
+Firms that operate in fast-growing industries—like information technology or technical services—would want to choose strategies that cite their goals for growth and specify movement in a positive direction. Their objectives, for example, might include launching a new product or increasing [[gross revenue]](https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-income.asp) within the next 12 months.
 
 On the other hand, companies in slow-growing industries—like sugar manufacturing or coal-power production—could choose objectives that focus on protecting their assets and managing expenses, such as reducing administrative costs by a certain percentage.

@@ -16,7 +16,7 @@ author: Will Kenton
 Other Comprehensive Basis of Accounting (OCBOA)
 ## What Is Other Comprehensive Basis of Accounting?
 
-Other Comprehensive Basis of Accounting (OCBOA) includes financial statements prepared using a system of accounting that differs from [GAAP](https://www.investopedia.com/terms/g/gaap.asp), the most common being tax-basis and cash-basis financial statements. Other Comprehensive Basis of Accounting (OCBOA) systems also includes a statutory basis of accounting such as that used by insurance companies to comply with the rules of a state insurance commission, as well as [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) prepared using defined criteria that are well-supported in popular literature.
+Other Comprehensive Basis of Accounting (OCBOA) includes financial statements prepared using a system of accounting that differs from [[GAAP]](https://www.investopedia.com/terms/g/gaap.asp), the most common being tax-basis and cash-basis financial statements. Other Comprehensive Basis of Accounting (OCBOA) systems also includes a statutory basis of accounting such as that used by insurance companies to comply with the rules of a state insurance commission, as well as [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) prepared using defined criteria that are well-supported in popular literature.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Other Comprehensive Basis of Accounting (OCBOA) includes financial statements pr
 
 ## Understanding OCBOA
 
-Two major advantages of financial statements prepared under OCBOA are: they are easier to understand than statements prepared under GAAP, which can be quite complex, and they may cost significantly less to prepare than GAAP-based statements. A key difference between GAAP-basis financial statements and those prepared under OCBOA is that the latter does not require a statement of [cash flows](https://www.investopedia.com/terms/c/cashflow.asp).
+Two major advantages of financial statements prepared under OCBOA are: they are easier to understand than statements prepared under GAAP, which can be quite complex, and they may cost significantly less to prepare than GAAP-based statements. A key difference between GAAP-basis financial statements and those prepared under OCBOA is that the latter does not require a statement of [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp).
 
-One criticism of OCBOA statements is that [disclosures](https://www.investopedia.com/terms/d/disclosure.asp) are not adequate. As a result, it is recommended that comprehensive disclosures be made by a company that has adopted OCBOA, including the basis of accounting used, [contingent liabilities](https://www.investopedia.com/terms/c/contingentliability.asp), and risks and uncertainties.
+One criticism of OCBOA statements is that [[disclosures]](https://www.investopedia.com/terms/d/disclosure.asp) are not adequate. As a result, it is recommended that comprehensive disclosures be made by a company that has adopted OCBOA, including the basis of accounting used, [[contingent liabilities]](https://www.investopedia.com/terms/c/contingentliability.asp), and risks and uncertainties.
 
 Under the Statement on Auditing Standards (United States) No. 62, Special Reports, an OCBOA is any one of:
 
@@ -41,7 +41,7 @@ Under the Statement on Auditing Standards (United States) No. 62, Special Report
 
 ## Special Considerations
 
-In situations where GAAP-basis statements aren't necessary because of [loan covenants](https://www.investopedia.com/terms/c/covenant.asp), regulatory requirements, or similar circumstances, an OCBOA alternative may be the preferred format.
+In situations where GAAP-basis statements aren't necessary because of [[loan covenants]](https://www.investopedia.com/terms/c/covenant.asp), regulatory requirements, or similar circumstances, an OCBOA alternative may be the preferred format.
 
 OCBOA statements may be more useful for certain entities based on who the users are and what they are expecting to see. They may be required by a regulatory agency or may be tied to budgets and management decisions. In addition, costs may be reduced since these audits may require less complex procedures and required disclosures.
 

@@ -16,7 +16,7 @@ author: Will Kenton
 Unbundling
 ## What Is Unbundling?
 
-Unbundling is a process by which a company with several different lines of businesses retains core businesses while selling off, spinning off, or carving out assets, product lines, divisions, or [subsidiaries](https://www.investopedia.com/terms/s/subsidiary.asp).
+Unbundling is a process by which a company with several different lines of businesses retains core businesses while selling off, spinning off, or carving out assets, product lines, divisions, or [[subsidiaries]](https://www.investopedia.com/terms/s/subsidiary.asp).
 
 Unbundling is done for a variety of reasons, but the goal is always to create a better-performing company or companies. Unbundling may also refer to offering products or services separately that had previously been packaged together.
 
@@ -28,9 +28,9 @@ Unbundling is done for a variety of reasons, but the goal is always to create a 
 
 ## How Unbundling Works
 
-The decision to "unbundle" may be called for by the board of directors or by company managers. The [board of directors](https://www.investopedia.com/terms/b/boardoftrustees.asp) may call for it if the company’s stock is performing poorly, the company needs to raise capital and/or the company wants to distribute cash to [shareholders](https://www.investopedia.com/terms/s/shareholder.asp). 
+The decision to "unbundle" may be called for by the board of directors or by company managers. The [[board of directors]](https://www.investopedia.com/terms/b/boardoftrustees.asp) may call for it if the company’s stock is performing poorly, the company needs to raise capital and/or the company wants to distribute cash to [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp). 
 
-Unbundling might help the company to become a pure-play for [analysts](https://www.investopedia.com/terms/a/analyst.asp) to evaluate. This means focusing on a core offering and can be compared easily to comparables in the industry for [benchmarking](https://www.investopedia.com/terms/b/benchmark.asp). This might improve analyst coverage and stock price.
+Unbundling might help the company to become a pure-play for [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) to evaluate. This means focusing on a core offering and can be compared easily to comparables in the industry for [[benchmarking]](https://www.investopedia.com/terms/b/benchmark.asp). This might improve analyst coverage and stock price.
 
 Management might call for unbundling if it thinks the result would help the company perform better. When the board or managers call for unbundling, it often improves the company’s stock price. Unbundling might also occur when one company purchases another for its most valuable divisions but determines it has little use for other aspects of the business.
 
@@ -48,4 +48,4 @@ Unbundling your products or services offers more choices for your audience by sp
 
 ## Example of Unbundling
 
-When a company unbundles, it may maintain a significant percentage of ownership in the new firm(s). In 2001, Cisco unbundled a division that became Andiamo, but it retained some ownership because it wanted to be involved in the development of a new [product line](https://www.investopedia.com/terms/p/product-line.asp) that would give it a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp).
+When a company unbundles, it may maintain a significant percentage of ownership in the new firm(s). In 2001, Cisco unbundled a division that became Andiamo, but it retained some ownership because it wanted to be involved in the development of a new [[product line]](https://www.investopedia.com/terms/p/product-line.asp) that would give it a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp).

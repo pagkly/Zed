@@ -16,13 +16,13 @@ author: Will Kenton
 What Is a Brokerage Firm House Call?
 ## What Is a House Call?
 
-A house call is a demand by a [brokerage firm](https://www.investopedia.com/terms/b/brokerage-company.asp) that an account holder deposit enough cash to cover a shortfall in the amount of money deposited in a margin account. This typically follows losses in the investments bought on margin.
+A house call is a demand by a [[brokerage firm]](https://www.investopedia.com/terms/b/brokerage-company.asp) that an account holder deposit enough cash to cover a shortfall in the amount of money deposited in a margin account. This typically follows losses in the investments bought on margin.
 
-The call is made when the account balance has fallen below the [maintenance margin](https://www.investopedia.com/terms/m/maintenancemargin.asp) required by the brokerage firm. If the client fails to make up the shortfall in the time specified by the house, the account holder's positions will be liquidated without further notice until the minimum requirement is satisfied.
+The call is made when the account balance has fallen below the [[maintenance margin]](https://www.investopedia.com/terms/m/maintenancemargin.asp) required by the brokerage firm. If the client fails to make up the shortfall in the time specified by the house, the account holder's positions will be liquidated without further notice until the minimum requirement is satisfied.
 
 ## Understanding House Calls
 
-The house call is a type of [margin call](https://www.investopedia.com/terms/m/margincall.asp). Investors who buy assets using money borrowed from the brokerage firm, or "on margin," are required by the brokerage to retain a minimum amount of cash or securities on deposit to offset losses.1
+The house call is a type of [[margin call]](https://www.investopedia.com/terms/m/margincall.asp). Investors who buy assets using money borrowed from the brokerage firm, or "on margin," are required by the brokerage to retain a minimum amount of cash or securities on deposit to offset losses.1
 
 ### Key Takeaways
 
@@ -34,9 +34,9 @@ Buying on margin is used by investors who hope to multiply their returns by mult
 
 A house call goes out if the investment falls in value below the amount of the required deposit. The investor can cover the shortfall by depositing more cash or selling other assets in the account.
 
-When a customer opens a margin account, up to 50% of the purchase price of the first stock in the account can be borrowed by the customer in accordance with [Regulation T](https://www.investopedia.com/terms/r/regulationt.asp) of the Federal Reserve Board. Individual brokerage firms have the discretion to increase this percentage.2
+When a customer opens a margin account, up to 50% of the purchase price of the first stock in the account can be borrowed by the customer in accordance with [[Regulation T]](https://www.investopedia.com/terms/r/regulationt.asp) of the Federal Reserve Board. Individual brokerage firms have the discretion to increase this percentage.2
 
-After a stock is purchased on margin, the [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA) imposes further requirements on margin accounts. One requires that a brokerage hold at least 25% of the market value of the securities purchased on margin.1 The brokerage firm may set a higher minimum.2
+After a stock is purchased on margin, the [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA) imposes further requirements on margin accounts. One requires that a brokerage hold at least 25% of the market value of the securities purchased on margin.1 The brokerage firm may set a higher minimum.2
 
 The minimum deposit may be up to 50%, but some brokerages set a higher amount.2
 

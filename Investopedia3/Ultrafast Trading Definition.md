@@ -16,16 +16,16 @@ author: Lucas Downey
 Ultrafast Trading Definition
 ## What Is Ultrafast Trading?
 
-Ultrafast trading is a method of trading [stocks](https://www.investopedia.com/terms/s/stock.asp) by using computers and algorithms to execute trades within milliseconds of market changes.
+Ultrafast trading is a method of trading [[stocks]](https://www.investopedia.com/terms/s/stock.asp) by using computers and algorithms to execute trades within milliseconds of market changes.
 
 ### Key Takeaways
 
--   Ultrafast trading, also known as [high-frequency trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp), is a very competitive method of trading that occurs completely online using computer programs that make lightning-fast trades.
+-   Ultrafast trading, also known as [[high-frequency trading]](https://www.investopedia.com/terms/h/high-frequency-trading.asp), is a very competitive method of trading that occurs completely online using computer programs that make lightning-fast trades.
 -   Ultrafast trading has been heavily criticized for increasing the severity of stock swings and contribution to the manipulation of stock prices. Advocates of the software say it does the opposite, and improves efficacy when it comes to trading.
 
 ## How Ultrafast Trading Works
 
-Ultrafast trading, also known as [high-frequency trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp), is a very competitive method of trading that occurs completely online. Although it is facilitated by brokerage firms, it is done without the human component that is traditionally used. These computer programs make lightning-fast trades that can act quickly and repeatedly based on small discrepancies in prices, racking up a large profit before the market has time to correct.
+Ultrafast trading, also known as [[high-frequency trading]](https://www.investopedia.com/terms/h/high-frequency-trading.asp), is a very competitive method of trading that occurs completely online. Although it is facilitated by brokerage firms, it is done without the human component that is traditionally used. These computer programs make lightning-fast trades that can act quickly and repeatedly based on small discrepancies in prices, racking up a large profit before the market has time to correct.
 
 While this form of trading can be very profitable, it requires a vast amount of resources to employ. With that, it is not without its controversy also. Ultrafast trading has been heavily criticized for increasing the severity of stock swings and contribution to the manipulation of stock prices. Advocates of the software say it does the opposite, and improves efficacy when it comes to trading.
 

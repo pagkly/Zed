@@ -16,9 +16,9 @@ author: Adam Hayes
 Cost-Plus Contracts: What You Need to Know
 ## What Is a Cost-Plus Contract?
 
-A cost-plus contract is an agreement to [reimburse](https://www.investopedia.com/terms/r/reimbursement.asp) a company for expenses incurred _plus_ a specific amount of profit, usually stated as a percentage of the contract’s full price. These type of contracts are primarily used in construction where the buyer assumes some of the risk but also provides a degree of flexibility to the contractor. In such a case, the party drawing up the contract anticipates that the contractor will make good on his or her promises to deliver, and agrees to pay extra so that the contractor can make additional profit upon completion.
+A cost-plus contract is an agreement to [[reimburse]](https://www.investopedia.com/terms/r/reimbursement.asp) a company for expenses incurred _plus_ a specific amount of profit, usually stated as a percentage of the contract’s full price. These type of contracts are primarily used in construction where the buyer assumes some of the risk but also provides a degree of flexibility to the contractor. In such a case, the party drawing up the contract anticipates that the contractor will make good on his or her promises to deliver, and agrees to pay extra so that the contractor can make additional profit upon completion.
 
-Cost-plus contracts can be contrasted with fixed-cost contracts, in which two parties agree up front to a specific cost regardless of the actual expenses incurred by the [contractor](https://www.investopedia.com/terms/i/independent-contractor.asp). Cost-plus contracts may also be known as cost-reimbursement contracts.
+Cost-plus contracts can be contrasted with fixed-cost contracts, in which two parties agree up front to a specific cost regardless of the actual expenses incurred by the [[contractor]](https://www.investopedia.com/terms/i/independent-contractor.asp). Cost-plus contracts may also be known as cost-reimbursement contracts.
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ Cost-plus contracts can be contrasted with fixed-cost contracts, in which two pa
 
 Cost-plus contracts are generally used if the party drawing up the contract has budgetary restrictions or if the overall scope of the work can't be properly estimated in advance.
 
-In construction, cost-plus contracts are drawn up so contractors can be reimbursed for almost every expense actually incurred on a project. The cost-plus contract pays the builder for direct costs and indirect or [overhead](https://www.investopedia.com/terms/o/overhead.asp) costs. All expenses must be supported by documentation of the contractor’s spending in the form of invoices or receipts. The contract moreover allows the contractor to collect a certain amount above the reimbursed amount, so he or she may be able to make a profit—hence, the "plus" in cost-plus contracts.
+In construction, cost-plus contracts are drawn up so contractors can be reimbursed for almost every expense actually incurred on a project. The cost-plus contract pays the builder for direct costs and indirect or [[overhead]](https://www.investopedia.com/terms/o/overhead.asp) costs. All expenses must be supported by documentation of the contractor’s spending in the form of invoices or receipts. The contract moreover allows the contractor to collect a certain amount above the reimbursed amount, so he or she may be able to make a profit—hence, the "plus" in cost-plus contracts.
 
-Some contracts may limit the amount of reimbursement, so not every expense would be covered. This is especially true if the contractor makes an error during the course of the project or is found to be [negligent](https://www.investopedia.com/terms/c/contributory-negligence.asp) in any part of the construction.
+Some contracts may limit the amount of reimbursement, so not every expense would be covered. This is especially true if the contractor makes an error during the course of the project or is found to be [[negligent]](https://www.investopedia.com/terms/c/contributory-negligence.asp) in any part of the construction.
 
-Cost-plus contracts are also used in [research and development](https://www.investopedia.com/terms/r/randd.asp) (R&D) activities, where a larger company may outsource R&D activities to a smaller firm, such as large pharmaceutical company contracting to the lab of a small biotech company. The U.S. government also uses cost-plus contracts with military defense companies that develop new technologies for national defense.
+Cost-plus contracts are also used in [[research and development]](https://www.investopedia.com/terms/r/randd.asp) (R&D) activities, where a larger company may outsource R&D activities to a smaller firm, such as large pharmaceutical company contracting to the lab of a small biotech company. The U.S. government also uses cost-plus contracts with military defense companies that develop new technologies for national defense.
 
 Governments generally prefer cost-plus contracts because they can choose the most qualified contractors instead of the lowest bidder.
 
@@ -73,7 +73,7 @@ Cons
 
 ## Example of How a Cost-Plus Contract Works
 
-Assume ABC Construction Corp. has a contract to build a $20 million office building, and the agreement states that costs cannot exceed $22 million. ABC’s profit is agreed at 15% of the contract’s full price of $3 million. Additionally, ABC Construction is eligible for an [incentive fee](https://www.investopedia.com/terms/i/incentive-fee.asp) if the project is completed within nine months.
+Assume ABC Construction Corp. has a contract to build a $20 million office building, and the agreement states that costs cannot exceed $22 million. ABC’s profit is agreed at 15% of the contract’s full price of $3 million. Additionally, ABC Construction is eligible for an [[incentive fee]](https://www.investopedia.com/terms/i/incentive-fee.asp) if the project is completed within nine months.
 
 ABC must submit dated receipts for all expenses, and the client will inspect the job site for quality to verify that specific components are completed to specification such as the plumbing, electrical, fixtures, etc. The contract allows ABC to incur direct costs such as materials, labor, and costs incurred to hire subcontractors. ABC can also bill indirect, or overhead, costs, which include insurance, security, and safety. The contract states that overhead costs are billed at $50 per labor-hour.
 

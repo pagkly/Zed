@@ -16,7 +16,7 @@ author: James Chen
 Understanding Distress Sales
 ## What Is a Distress Sale?
 
-A distress sale—also called a distressed sale—occurs when a property, [stock](https://www.investopedia.com/terms/s/stock.asp), or other asset must be sold quickly. Distress sales often result in a financial loss for the seller who, for reasons of economic duress, must accept a lower price. The proceeds from these assets are most often used to pay [debts](https://www.investopedia.com/terms/d/debt.asp) or medical expenses or for other emergencies.
+A distress sale—also called a distressed sale—occurs when a property, [[stock]](https://www.investopedia.com/terms/s/stock.asp), or other asset must be sold quickly. Distress sales often result in a financial loss for the seller who, for reasons of economic duress, must accept a lower price. The proceeds from these assets are most often used to pay [[debts]](https://www.investopedia.com/terms/d/debt.asp) or medical expenses or for other emergencies.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ A distress sale—also called a distressed sale—occurs when a property, [stock
 
 ## How Distress Sales Work
 
-Mortgage borrowers who can no longer meet the payments for their mortgaged property may opt to sell their property to pay off the mortgage. Examples of situations where distress sales occur include divorce, [foreclosures](https://www.investopedia.com/terms/f/foreclosure.asp), and relocations.
+Mortgage borrowers who can no longer meet the payments for their mortgaged property may opt to sell their property to pay off the mortgage. Examples of situations where distress sales occur include divorce, [[foreclosures]](https://www.investopedia.com/terms/f/foreclosure.asp), and relocations.
 
-A [short sale](https://www.investopedia.com/terms/s/shortsale.asp) by a homeowner can be considered a distressed sale. Here, the homeowner is attempting to sell their property even though its current market value is below the amount owed to their lender. This can occur if the homeowner is forced to move from the home and cannot wait for the property's market value to recover. The homeowner may have a new job that requires immediate relocation, for example. A divorce could force a home to be sold in order to [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) assets that must be divided between the parties. A lender typically must agree to a short sale before it can proceed because such a transaction would remove the [collateral](https://www.investopedia.com/terms/c/collateral.asp) that secured the mortgage.
+A [[short sale]](https://www.investopedia.com/terms/s/shortsale.asp) by a homeowner can be considered a distressed sale. Here, the homeowner is attempting to sell their property even though its current market value is below the amount owed to their lender. This can occur if the homeowner is forced to move from the home and cannot wait for the property's market value to recover. The homeowner may have a new job that requires immediate relocation, for example. A divorce could force a home to be sold in order to [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) assets that must be divided between the parties. A lender typically must agree to a short sale before it can proceed because such a transaction would remove the [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) that secured the mortgage.
 
 ### How a distress sale can lead to a net loss
 
-If a distress sale is conducted for a piece of property such as an antique or collectible art, the seller might choose to take offers that are lower than the value of the item. The seller might request offers by advertising the item or instead might offer the item to a [pawnbroker](https://www.investopedia.com/articles/personal-finance/112415/how-pawnshops-make-money.asp).
+If a distress sale is conducted for a piece of property such as an antique or collectible art, the seller might choose to take offers that are lower than the value of the item. The seller might request offers by advertising the item or instead might offer the item to a [[pawnbroker]](https://www.investopedia.com/articles/personal-finance/112415/how-pawnshops-make-money.asp).
 
 When the seller of an item deals with a pawnbroker, they will likely receive offers below the value of the item. The pawnbroker bids low because they intend to resell the item for a higher price and turn a profit. Even if an item is appraised at a higher value, a pawnbroker will still look for a way to make a profit.
 

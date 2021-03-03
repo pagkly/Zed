@@ -16,7 +16,7 @@ author: Will Kenton
 Relationship Manager
 ## What Is a Relationship Manager?
 
-Relationship managers work to improve business relationships with partner firms and clients. Relationship management is generally divided into two fields: [client relationship management](https://www.investopedia.com/terms/c/customer_relation_management.asp) and business relationship management. Both fields share the common goal of facilitating good relationships so businesses can maximize the value of those relationships and maintain a good reputation.
+Relationship managers work to improve business relationships with partner firms and clients. Relationship management is generally divided into two fields: [[client relationship management]](https://www.investopedia.com/terms/c/customer_relation_management.asp) and business relationship management. Both fields share the common goal of facilitating good relationships so businesses can maximize the value of those relationships and maintain a good reputation.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Relationship managers work to improve business relationships with partner firms 
 
 ## Understanding Relationship Managers
 
-Good [relationship management](https://www.investopedia.com/terms/r/relationship-management.asp) is about communication, conflict management, and people skills as much as it is about the technical aspects of a particular business or industry. Professionals in this role may have a bachelor's or [master's degree in business](https://www.investopedia.com/terms/m/mba.asp), but they also might have an undergraduate degree or postgraduate degree in [marketing](https://www.investopedia.com/articles/financialcareers/11/marketing-careers.asp) or [communications](https://www.investopedia.com/articles/professionals/050713/how-work-financial-communications.asp).
+Good [[relationship management]](https://www.investopedia.com/terms/r/relationship-management.asp) is about communication, conflict management, and people skills as much as it is about the technical aspects of a particular business or industry. Professionals in this role may have a bachelor's or [[master's degree in business]](https://www.investopedia.com/terms/m/mba.asp), but they also might have an undergraduate degree or postgraduate degree in [[marketing]](https://www.investopedia.com/articles/financialcareers/11/marketing-careers.asp) or [[communications]](https://www.investopedia.com/articles/professionals/050713/how-work-financial-communications.asp).
 
 Strong communication and coordination skills are needed for facilitating better relationships with clients and other partners. It's also common for relationship managers to work closely with customer-facing staff to help them better understand clients’ needs and motivate them to provide the highest service standards.
 
@@ -34,7 +34,7 @@ In addition to communication skills, relationship managers need strong analytic
 
 ## Types of Relationship Managers
 
-At [smaller firms](https://www.investopedia.com/terms/s/smallfirmeffect.asp), relationship managers may be responsible for overseeing aspects of both business relationships and client relationships. However, at larger firms, relationship managers are likely to specialize in one area or the other.
+At [[smaller firms]](https://www.investopedia.com/terms/s/smallfirmeffect.asp), relationship managers may be responsible for overseeing aspects of both business relationships and client relationships. However, at larger firms, relationship managers are likely to specialize in one area or the other.
 
 A key role of relationship managers is to help businesses differentiate themselves from competitors.
 

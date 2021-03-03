@@ -30,7 +30,7 @@ Most remittances are made by foreign workers to family members in their home cou
 -   The sender is typically a foreign worker and the recipient a relative back home.
 -   Remittances represent one of the largest sources of income for people in low-income and developing nations, often exceeding direct investment and international development assistance.
 
-Remittances play an increasingly large role in the economies of small and developing countries. They also play an important role in disaster relief, often exceeding [official development assistance](https://www.investopedia.com/articles/investing/082616/what-are-different-types-foreign-aid.asp) (ODA). They help raise the standard of living for people in low-income nations and help combat global poverty.
+Remittances play an increasingly large role in the economies of small and developing countries. They also play an important role in disaster relief, often exceeding [[official development assistance]](https://www.investopedia.com/articles/investing/082616/what-are-different-types-foreign-aid.asp) (ODA). They help raise the standard of living for people in low-income nations and help combat global poverty.
 
 In fact, since the late 1990s, remittances have exceeded development aid, and in some cases make up a significant portion of a country's gross domestic product (GDP).
 

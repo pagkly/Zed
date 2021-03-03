@@ -30,7 +30,7 @@ The Securities and Exchange Commission (SEC) develops and enforces disclosure re
 
 ## Understanding Disclosure
 
-Federal government-mandated disclosure came into being in the U.S. with the passage of the [Securities Act of 1933](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the Securities Exchange Act of 1934. Both laws were responses to the stock market crash of 1929 and the Great Depression that followed.
+Federal government-mandated disclosure came into being in the U.S. with the passage of the [[Securities Act of 1933]](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the Securities Exchange Act of 1934. Both laws were responses to the stock market crash of 1929 and the Great Depression that followed.
 
 The public and politicians alike blamed a lack of transparency in corporate operations for intensifying if not outright causing the financial crisis.
 
@@ -42,9 +42,9 @@ As mandated by the SEC, disclosures include those related to a company's finan
 
 ### Insider Information
 
-The SEC requires specific disclosures because the selective release of information places individual shareholders at a disadvantage. For example, [insiders](https://www.investopedia.com/terms/i/insider.asp) can use material nonpublic information for personal gain at the expense of the general investing public. Clearly outlined disclosure requirements ensure companies adequately disseminate information so that all investors are on an even playing field.
+The SEC requires specific disclosures because the selective release of information places individual shareholders at a disadvantage. For example, [[insiders]](https://www.investopedia.com/terms/i/insider.asp) can use material nonpublic information for personal gain at the expense of the general investing public. Clearly outlined disclosure requirements ensure companies adequately disseminate information so that all investors are on an even playing field.
 
-Companies are not the only entities subject to strict disclosure regulations. Brokerage firms, investment managers, and analysts must also disclose any information that might influence and affect investors. To limit [conflict-of-interest](https://www.investopedia.com/terms/c/conflict-of-interest.asp) issues, analysts and money managers must disclose any equities they personally own.
+Companies are not the only entities subject to strict disclosure regulations. Brokerage firms, investment managers, and analysts must also disclose any information that might influence and affect investors. To limit [[conflict-of-interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp) issues, analysts and money managers must disclose any equities they personally own.
 
 ### SEC-Required Disclosure Documents
 
@@ -54,7 +54,7 @@ The SEC requires all publicly-traded companies to prepare and issue two disclosu
 
 Apple warns that the coronavirus pandemic will affect its quarterly earnings.
 
-Any company seeking to go public must disclose information as part of a two-part registration that includes a prospectus and a second document that contains other material information. That information includes the company's own [strengths, weaknesses, opportunities, and threats](https://www.investopedia.com/terms/s/swot.asp) (SWOT) analysis of the competitive environment it operates within.
+Any company seeking to go public must disclose information as part of a two-part registration that includes a prospectus and a second document that contains other material information. That information includes the company's own [[strengths, weaknesses, opportunities, and threats]](https://www.investopedia.com/terms/s/swot.asp) (SWOT) analysis of the competitive environment it operates within.
 
 The SEC imposes stricter disclosure requirements for firms in the securities industry. For example, company officers of investment banks must make personal disclosures regarding the investments they own and investments owned by their family members.
 

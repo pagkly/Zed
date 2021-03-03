@@ -16,7 +16,7 @@ author: Investopedia Staff
 Retail Price Index (RPI) Definition
 ## What Is the Retail Price Index (RPI)?
 
-The Retail Price Index (RPI) is one of the two main measures of consumer [inflation](https://www.investopedia.com/terms/i/inflation.asp) produced by the United Kingdom's Office for National Statistics (ONS). It is not considered an official statistic by the U.K., but it is used for certain types of cost escalation. The RPI was introduced in the U.K. in 1947, and it was made official in 1956.
+The Retail Price Index (RPI) is one of the two main measures of consumer [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) produced by the United Kingdom's Office for National Statistics (ONS). It is not considered an official statistic by the U.K., but it is used for certain types of cost escalation. The RPI was introduced in the U.K. in 1947, and it was made official in 1956.
 
 ### Key Takeaways
 
@@ -36,6 +36,6 @@ In Jan. 2018, Mark Carney, governor of the Bank of England, said that RPI should
 
 ## RPI vs. CPI
 
-Like the better-known CPI, the RPI tracks changes in the cost of a fixed [basket of goods](https://www.investopedia.com/terms/b/basket_of_goods.asp) over time, and it is produced by combining about 180,000 price quotes for around 700 representative items.1 However, since the introduction of the CPI in 1996, 12-month inflation in the U.K. has generally been about 0.9 percentage points higher when measured by the RPI, as compared to the CPI.
+Like the better-known CPI, the RPI tracks changes in the cost of a fixed [[basket of goods]](https://www.investopedia.com/terms/b/basket_of_goods.asp) over time, and it is produced by combining about 180,000 price quotes for around 700 representative items.1 However, since the introduction of the CPI in 1996, 12-month inflation in the U.K. has generally been about 0.9 percentage points higher when measured by the RPI, as compared to the CPI.
 
-The difference of 0.9 percentage points between the RPI and CPI in the U.K. arises for a number of reasons. Firstly, the RPI includes a number of items that are excluded in the CPI, and vice versa. Secondly, the two indicators measure [price change](https://www.investopedia.com/terms/p/price-change.asp) for different target populations. Finally, the two measures use different formulas, leading to a difference known as the "formula effect."
+The difference of 0.9 percentage points between the RPI and CPI in the U.K. arises for a number of reasons. Firstly, the RPI includes a number of items that are excluded in the CPI, and vice versa. Secondly, the two indicators measure [[price change]](https://www.investopedia.com/terms/p/price-change.asp) for different target populations. Finally, the two measures use different formulas, leading to a difference known as the "formula effect."

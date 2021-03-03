@@ -16,7 +16,7 @@ author: Clay Halton
 Kanban Definition
 ## What is Kanban?
 
-Kanban is an inventory control system used in [just-in-time manufacturing](https://www.investopedia.com/terms/j/jit.asp). It was developed by Taiichi Ohno, an industrial engineer at Toyota, and takes its name from the colored cards that track production and order new shipments of parts or materials as they run out. Kanban is the Japanese word for sign, so the kanban system simply means to use visual cues to prompt the action needed to keep a process flowing.
+Kanban is an inventory control system used in [[just-in-time manufacturing]](https://www.investopedia.com/terms/j/jit.asp). It was developed by Taiichi Ohno, an industrial engineer at Toyota, and takes its name from the colored cards that track production and order new shipments of parts or materials as they run out. Kanban is the Japanese word for sign, so the kanban system simply means to use visual cues to prompt the action needed to keep a process flowing.
 
 ## Understanding Kanban
 
@@ -30,4 +30,4 @@ As containers of parts or materials are emptied, cards appear, color-coded in or
 
 ## Electronic Kanban Systems
 
-To enable real-time demand signaling across the supply chain, electronic Kanban systems have become widespread. These E-Kanban systems can be integrated into [enterprise resource planning](https://www.investopedia.com/terms/e/erp.asp) systems. Toyota, Ford Motor Company and Bombardier Aerospace are among the manufacturers that are using E-Kanban systems. These electronic systems still provide visual signals, but the systems are also usually enabled to automate parts of the process such as transport through the factory or even filing purchase orders.
+To enable real-time demand signaling across the supply chain, electronic Kanban systems have become widespread. These E-Kanban systems can be integrated into [[enterprise resource planning]](https://www.investopedia.com/terms/e/erp.asp) systems. Toyota, Ford Motor Company and Bombardier Aerospace are among the manufacturers that are using E-Kanban systems. These electronic systems still provide visual signals, but the systems are also usually enabled to automate parts of the process such as transport through the factory or even filing purchase orders.

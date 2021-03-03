@@ -16,9 +16,9 @@ author: James Chen
 Non-Deliverable Swap (NDS) Definition
 ## What Is a Non-Deliverable Swap (NDS)?
 
-A non-deliverable swap (NDS) is a variation on a [currency swap](https://www.investopedia.com/terms/c/currencyswap.asp) between major and minor currencies that is restricted or not convertible. This means that there is no actual delivery of the two currencies involved in the swap, unlike a typical currency swap where there is physical exchange of currency flows. Instead, periodic settlement of a NDS is done on a cash basis, generally in U.S. dollars.
+A non-deliverable swap (NDS) is a variation on a [[currency swap]](https://www.investopedia.com/terms/c/currencyswap.asp) between major and minor currencies that is restricted or not convertible. This means that there is no actual delivery of the two currencies involved in the swap, unlike a typical currency swap where there is physical exchange of currency flows. Instead, periodic settlement of a NDS is done on a cash basis, generally in U.S. dollars.
 
-The settlement value is based on the difference between the exchange rate specified in the swap contract and [the spot rate](https://www.investopedia.com/video/play/spot-rate/), with one party paying the other the difference. A non-deliverable swap can be viewed as a series of [non-deliverable forwards](https://www.investopedia.com/terms/n/ndf.asp) bundled together.
+The settlement value is based on the difference between the exchange rate specified in the swap contract and [[the spot rate]](https://www.investopedia.com/video/play/spot-rate/), with one party paying the other the difference. A non-deliverable swap can be viewed as a series of [[non-deliverable forwards]](https://www.investopedia.com/terms/n/ndf.asp) bundled together.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The settlement value is based on the difference between the exchange rate specif
 
 ## Understanding Non-Deliverable Swaps (NDS)
 
-Non-deliverable swaps are used by multi-national corporations to mitigate the risk that they may not be allowed to repatriate profits because of currency controls. They also use NDSs to [hedge](https://www.investopedia.com/terms/h/hedge.asp) the risk of abrupt devaluation or [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) in a restricted currency with little [liquidity](https://www.investopedia.com/terms/l/liquidity.asp), and to avoid the prohibitive cost of exchanging currencies in the local market. Financial institutions in nations with exchange restrictions use NDSs to hedge their foreign currency loan exposure.
+Non-deliverable swaps are used by multi-national corporations to mitigate the risk that they may not be allowed to repatriate profits because of currency controls. They also use NDSs to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) the risk of abrupt devaluation or [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) in a restricted currency with little [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp), and to avoid the prohibitive cost of exchanging currencies in the local market. Financial institutions in nations with exchange restrictions use NDSs to hedge their foreign currency loan exposure.
 
 The key variables in a NDS are:
 
@@ -40,7 +40,7 @@ The key variables in a NDS are:
 
 ## NDS Example
 
-Consider a financial institution – let’s call it LendEx – based in Argentina, that has taken a five-year US$10 million loan from a U.S. [lender](https://www.investopedia.com/terms/l/lender.asp) at a fixed interest rate of 4% per annum payable semi-annually. LendEx has converted the U.S. dollar into Argentine pesos at the current exchange rate of 5.4, for lending to local businesses. However, it is concerned about the future depreciation of the peso, which will make it more expensive to make the interest payments and principal repayment in U.S. dollars. It therefore enters into a currency swap with an overseas [counterparty](https://www.investopedia.com/terms/c/counterparty.asp) on the following terms:
+Consider a financial institution – let’s call it LendEx – based in Argentina, that has taken a five-year US$10 million loan from a U.S. [[lender]](https://www.investopedia.com/terms/l/lender.asp) at a fixed interest rate of 4% per annum payable semi-annually. LendEx has converted the U.S. dollar into Argentine pesos at the current exchange rate of 5.4, for lending to local businesses. However, it is concerned about the future depreciation of the peso, which will make it more expensive to make the interest payments and principal repayment in U.S. dollars. It therefore enters into a currency swap with an overseas [[counterparty]](https://www.investopedia.com/terms/c/counterparty.asp) on the following terms:
 
 -   _Notional amounts (N)_ – US$400,000 for interest payments and US$10 million for the principal repayment.
 -   _Currencies involved_ – Argentine peso and U.S. dollar.

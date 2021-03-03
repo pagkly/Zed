@@ -37,7 +37,7 @@ There are at least three types of systems that can potentially ensure that every
 
 Some governments mandate that all residents buy a health insurance policy or face a fine or penalty. The government may subsidize part of the premiums but most insurance is provided by private companies. Germany’s system, for example, includes both for-profit and not-for-profit insurers. Requiring health insurance has helped some countries, including Germany, the Netherlands, and Switzerland, achieve universal coverage.5
 
-In the U.S., the 2010 [Affordable Care Act](https://www.investopedia.com/terms/a/affordable-care-act.asp) established a similar requirement and system. The law’s original “individual mandate” levied a tax penalty on people who did not purchase health insurance. The [Tax Cuts and Jobs Act (TCJA)](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) repealed the penalty, starting in 2019.6
+In the U.S., the 2010 [[Affordable Care Act]](https://www.investopedia.com/terms/a/affordable-care-act.asp) established a similar requirement and system. The law’s original “individual mandate” levied a tax penalty on people who did not purchase health insurance. The [[Tax Cuts and Jobs Act (TCJA)]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) repealed the penalty, starting in 2019.6
 
 Some U.S. states (California, Massachusetts, New Jersey, Rhode Island, Vermont) and the District of Columbia levy their own penalties on those who do not buy health insurance. Since 2006, Massachusetts, for example, has required its residents to have health insurance or pay a fine. This has helped encourage insurance rates as high as 97.5% in the state.7
 
@@ -61,8 +61,8 @@ In the U.S., the ACA increased the number of insured people, but has not achieve
 
 In the world of employer-based insurance, large companies often use a mix of private and self-insurance to cover a percentage of their employees' health costs.13
 
-Also, since 2011, the federal government has provided incentives for private insurers to compete against government programs such as Medicare by providing lower costs and more benefits to enrollees. Some of the [best Medicare Advantage plans](https://www.investopedia.com/best-medicare-advantage-plans-5075394) are excellent examples.14 Recipients of Medicaid choose a private insurance plan for which state and federal governments pay much of the costs.15
+Also, since 2011, the federal government has provided incentives for private insurers to compete against government programs such as Medicare by providing lower costs and more benefits to enrollees. Some of the [[best Medicare Advantage plans]](https://www.investopedia.com/best-medicare-advantage-plans-5075394) are excellent examples.14 Recipients of Medicaid choose a private insurance plan for which state and federal governments pay much of the costs.15
 
-This mix of approaches may encourage competition and entrepreneurial opportunities, and offer consumers choice and incentives to try to keep healthcare costs down. But [it results in a very expensive healthcare system](https://www.investopedia.com/articles/personal-finance/080615/6-reasons-healthcare-so-expensive-us.asp) that falls short in delivering universal care and on many measures of public health.
+This mix of approaches may encourage competition and entrepreneurial opportunities, and offer consumers choice and incentives to try to keep healthcare costs down. But [[it results in a very expensive healthcare system]](https://www.investopedia.com/articles/personal-finance/080615/6-reasons-healthcare-so-expensive-us.asp) that falls short in delivering universal care and on many measures of public health.
 
 These issues are likely to be pivotal ones in the party platforms and 2020 presidential campaign.

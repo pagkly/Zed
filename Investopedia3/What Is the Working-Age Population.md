@@ -16,7 +16,7 @@ author: Christina Majaski
 What Is the Working-Age Population?
 ## What Is Working-Age Population?
 
-The working-age population is the total population in an area that is considered able and likely to work based on the number of people in a predetermined age range. The working-age population measure is used to give an estimate of the total number of potential workers within an [economy](https://www.investopedia.com/terms/e/economy.asp).
+The working-age population is the total population in an area that is considered able and likely to work based on the number of people in a predetermined age range. The working-age population measure is used to give an estimate of the total number of potential workers within an [[economy]](https://www.investopedia.com/terms/e/economy.asp).
 
 ## Understanding the Concept of Working-Age Population
 
@@ -24,7 +24,7 @@ The number of people in a specific age range will determine the working-age popu
 
 This measurement does not distinguish between those who are gainfully employed and those who are seeking employment within the range. The working-age population measurement is designed to analyze how many people are likely ready and capable to work.
 
-There are outliers in the working-age population group that the number also does not consider. Outliers include those who are actively employed but are outside of the designated age range. As an example, some people will continue to work past the standard [retirement](https://www.investopedia.com/retirement-planning-4689695) age. Other outliers are individuals within the age range who cannot work due to disability or illness.
+There are outliers in the working-age population group that the number also does not consider. Outliers include those who are actively employed but are outside of the designated age range. As an example, some people will continue to work past the standard [[retirement]](https://www.investopedia.com/retirement-planning-4689695) age. Other outliers are individuals within the age range who cannot work due to disability or illness.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ There are outliers in the working-age population group that the number also does
 
 ## Regional Demographic Impact
 
-As the [demographics](https://www.investopedia.com/terms/d/demographics.asp) of a region change, the working-age population of an economy will shift. Significant changes have the potential to impact the economy significantly. An area with more people at the extreme older range of its working-age population and few teenagers about to enter the workforce eventually could have trouble filling jobs. On the flip side, a region with many young adults and teenagers entering the working-age population and fewer people in their 50s and 60s could soon see fierce competition for jobs. Additionally, an area with a disproportionate number of people outside the working-age population will rely on a smaller population to generate [revenues](https://www.investopedia.com/terms/r/revenue.asp) for the entire region.
+As the [[demographics]](https://www.investopedia.com/terms/d/demographics.asp) of a region change, the working-age population of an economy will shift. Significant changes have the potential to impact the economy significantly. An area with more people at the extreme older range of its working-age population and few teenagers about to enter the workforce eventually could have trouble filling jobs. On the flip side, a region with many young adults and teenagers entering the working-age population and fewer people in their 50s and 60s could soon see fierce competition for jobs. Additionally, an area with a disproportionate number of people outside the working-age population will rely on a smaller population to generate [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) for the entire region.
 
 Ideally, a local economy should have a steady flow of people both entering and exiting the working-age population each year, as well as a healthy balance between those in the determined age range and those outside of it.
 

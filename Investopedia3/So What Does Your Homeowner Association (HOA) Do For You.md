@@ -16,7 +16,7 @@ author: James Chen
 So What Does Your Homeowner Association (HOA) Do For You?
 ## What Is a Homeowner Association (HOA)?
 
-A homeowner's association (HOA) is an organization in a subdivision, planned community, or [condominium](https://www.investopedia.com/terms/c/condominium.asp) building that makes and enforces rules for the properties and its residents. Those who purchase property within an HOA's jurisdiction automatically become members and are required to pay dues, known as [HOA fees](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp). Some associations can be very restrictive about what members can do with their properties.
+A homeowner's association (HOA) is an organization in a subdivision, planned community, or [[condominium]](https://www.investopedia.com/terms/c/condominium.asp) building that makes and enforces rules for the properties and its residents. Those who purchase property within an HOA's jurisdiction automatically become members and are required to pay dues, known as [[HOA fees]](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp). Some associations can be very restrictive about what members can do with their properties.
 
 ## Understanding an HOA
 
@@ -73,19 +73,19 @@ Cons
 
 One disadvantage of an HOA is the high cost of the association fees, which ultimately could be a deterrent for some prospective buyers. Also, the HOA rules and regulations can seem unreasonable, arbitrary, or too restrictive for some homeowners, who may want the freedom to customize their properties.
 
-In addition, HOA board members are normally volunteers, and they may not be properly trained to manage [real estate](https://www.investopedia.com/terms/r/realestate.asp), deal with complex financial issues, or unite a disparate group of people for a common cause. Because the leadership of HOAs must reach a consensus when they are making decisions about maintenance and upgrades, it is also possible that there may be conflicts amongst HOA members who disagree.
+In addition, HOA board members are normally volunteers, and they may not be properly trained to manage [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), deal with complex financial issues, or unite a disparate group of people for a common cause. Because the leadership of HOAs must reach a consensus when they are making decisions about maintenance and upgrades, it is also possible that there may be conflicts amongst HOA members who disagree.
 
 ## Special Considerations
 
 In some cases, HOAs can wield significant financial and legal power over the property owners in their zone. HOAs collect monthly or annual HOA fees. HOA fees are typically between $200 to $400 per month, but they can range anywhere from less than $100 to upwards of $10,000 in luxury neighborhoods or communities.
 
-HOA fees also often contribute to the association's reserve fund, which is set aside for major renovation projects or emergency use. In addition to regular fees, HOAs can also impose special [assessments](https://www.investopedia.com/terms/a/assessment.asp) on homeowners when the association lacks sufficient reserves to pay for unexpected repairs on common areas, such as sidewalks or parking lots.
+HOA fees also often contribute to the association's reserve fund, which is set aside for major renovation projects or emergency use. In addition to regular fees, HOAs can also impose special [[assessments]](https://www.investopedia.com/terms/a/assessment.asp) on homeowners when the association lacks sufficient reserves to pay for unexpected repairs on common areas, such as sidewalks or parking lots.
 
-The HOA's board, which is usually responsible for the organization's finances, oversees the collection and management of funds. Along with setting dues and assessments, the board can slap fines on homeowners who break the rules or damage the common areas. In addition to imposing penalties, HOAs can also place a [lien](https://www.investopedia.com/terms/l/lien.asp) on a property if a homeowner falls seriously behind on their dues. Existing HOA liens can make it difficult to sell the home unless they are cleared.
+The HOA's board, which is usually responsible for the organization's finances, oversees the collection and management of funds. Along with setting dues and assessments, the board can slap fines on homeowners who break the rules or damage the common areas. In addition to imposing penalties, HOAs can also place a [[lien]](https://www.investopedia.com/terms/l/lien.asp) on a property if a homeowner falls seriously behind on their dues. Existing HOA liens can make it difficult to sell the home unless they are cleared.
 
 ## Example of a Homeowner Association
 
-Sometimes, conflicts related to HOAs make the national headlines. Beginning in 2014, an [Indianapolis homeowner and his HOA](https://www.wishtv.com/news/local-news/indianapolis-man-battles-homeowners-association-over-solar-panels/) entered into a dispute over the solar panels on the roof of his home. To fully capture the sun's energy, the solar panels need to face south—a direction the HOA won't allow, saying they are too visible to the street and other neighbors.3
+Sometimes, conflicts related to HOAs make the national headlines. Beginning in 2014, an [[Indianapolis homeowner and his HOA]](https://www.wishtv.com/news/local-news/indianapolis-man-battles-homeowners-association-over-solar-panels/) entered into a dispute over the solar panels on the roof of his home. To fully capture the sun's energy, the solar panels need to face south—a direction the HOA won't allow, saying they are too visible to the street and other neighbors.3
 
 While the language in the HOA covenant permits solar panels, it is vague on the subject of their positioning. With the support of several state legislators, the homeowner tried to get a bill passed by the Indiana General Assembly that would prohibit HOAs from restricting solar panels or their placement in any way.4 Bills have been introduced but not passed in 2018 and 2019. A new bill has been introduced in 2020.5
 

@@ -18,7 +18,7 @@ How Substitutes Work
 
 A substitute, or substitutable good, in economics and consumer theory refers to a product or service that consumers see as essentially the same or similar-enough to another product. Put simply, a substitute is a good that can be used in place of another.
 
-Substitutes play an important part in the marketplace and are considered a benefit for consumers. They provide more choices for consumers, who are then better able to satisfy their needs. [Bills of materials](https://www.investopedia.com/terms/b/bill-of-materials.asp) often include alternate parts that can replace the standard part if it's destroyed.
+Substitutes play an important part in the marketplace and are considered a benefit for consumers. They provide more choices for consumers, who are then better able to satisfy their needs. [[Bills of materials]](https://www.investopedia.com/terms/b/bill-of-materials.asp) often include alternate parts that can replace the standard part if it's destroyed.
 
 ### Key Takeaways
 
@@ -36,9 +36,9 @@ Giving consumers more choice helps generate competition in the market and lower 
 
 When you examine the relationship between the [demand schedules](https://www.investopedia.com/terms/d/demand-schedule.asp) of substitute products, if the price of a product goes up the demand for a substitute will tend to increase. This is because people will prefer to lower-cost substitute to the higher cost one. If, for example, the price of coffee increases, the demand for tea may also increase as consumers switch from coffee to tea to maintain their budgets.
 
-Conversely, when a good's price decreases, the demand for its substitute may also decrease. In formal economic language, X and Y are substitutes if demand for X increases when the price of Y increases, or if there is positive [cross elasticity of demand](https://www.investopedia.com/terms/c/cross-elasticity-demand.asp).
+Conversely, when a good's price decreases, the demand for its substitute may also decrease. In formal economic language, X and Y are substitutes if demand for X increases when the price of Y increases, or if there is positive [[cross elasticity of demand]](https://www.investopedia.com/terms/c/cross-elasticity-demand.asp).
 
-The availability of substitutes are one of [Porter's 5 Forces](https://www.investopedia.com/terms/p/porter.asp), the others being competition, new entrants into the industry, the power of suppliers, and the power of customers.
+The availability of substitutes are one of [[Porter's 5 Forces]](https://www.investopedia.com/terms/p/porter.asp), the others being competition, new entrants into the industry, the power of suppliers, and the power of customers.
 
 ## Examples of Substitute Goods
 
@@ -46,7 +46,7 @@ Substitute goods are all around us. As mentioned above, they are generally used 
 
 Here are just a few examples of substitute goods:
 
--   Currency: a dollar bill for 4 quarters (also known as [fungibility](https://www.investopedia.com/terms/f/fungibles.asp))
+-   Currency: a dollar bill for 4 quarters (also known as [[fungibility]](https://www.investopedia.com/terms/f/fungibles.asp))
 -   Coke vs. Pepsi
 -   Premium vs. regular gasoline
 -   Butter and margarine
@@ -61,7 +61,7 @@ There is one thing to keep in mind when it comes to substitutes: the degree to w
 
 Classifying a product or service as a substitute is not always straightforward. There are different degrees to which products or services can be defined as substitutes. A substitute can be perfect or imperfect depending on whether the substitute completely or partially satisfies the consumer.
 
-A perfect substitute can be used in exactly the same way as the good or service it replaces. This is where the [utility](https://www.investopedia.com/terms/u/utility.asp) of the product or service is pretty much identical. For example, a one-dollar bill is a perfect substitute for another dollar bill. And butter from two different producers are also considered perfect substitutes; the producer may be different, but their purpose and usage are the same.
+A perfect substitute can be used in exactly the same way as the good or service it replaces. This is where the [[utility]](https://www.investopedia.com/terms/u/utility.asp) of the product or service is pretty much identical. For example, a one-dollar bill is a perfect substitute for another dollar bill. And butter from two different producers are also considered perfect substitutes; the producer may be different, but their purpose and usage are the same.
 
 A bike and a car are far from perfect substitutes, but they are similar enough for people to use them to get from point A to point B. There is also some measurable relationship in the demand schedule.
 
@@ -71,6 +71,6 @@ Less perfect substitutes are sometimes classified as gross substitutes or net su
 
 ## Substitute Goods in Perfect Competition and Monopolistic Competition
 
-In cases of [perfect competition](https://www.investopedia.com/terms/p/perfectcompetition.asp), perfect substitutes are sometimes conceived as nearly indistinguishable goods being sold by different firms. For example, gasoline from a gas station on one corner may be virtually indistinguishable from gasoline sold by another gas station on the opposite corner. An increase in the price at one station will result in more people choosing the cheaper option.
+In cases of [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp), perfect substitutes are sometimes conceived as nearly indistinguishable goods being sold by different firms. For example, gasoline from a gas station on one corner may be virtually indistinguishable from gasoline sold by another gas station on the opposite corner. An increase in the price at one station will result in more people choosing the cheaper option.
 
-Monopolistic competition presents an interesting case that present complications with the concept of substitutes. In monopolistic competition, companies are not [price-takers](https://www.investopedia.com/terms/p/pricetaker.asp), meaning demand is not highly sensitive to price. A common example is a difference between the store brand and name-branded medicine at your local pharmacy. The products themselves are nearly indistinguishable chemically, but they are not perfect substitutes due to the utility consumers may get—or believe they get—from purchasing a brand name over a generic drug believing it to be more reputable or of higher quality.
+Monopolistic competition presents an interesting case that present complications with the concept of substitutes. In monopolistic competition, companies are not [[price-takers]](https://www.investopedia.com/terms/p/pricetaker.asp), meaning demand is not highly sensitive to price. A common example is a difference between the store brand and name-branded medicine at your local pharmacy. The products themselves are nearly indistinguishable chemically, but they are not perfect substitutes due to the utility consumers may get—or believe they get—from purchasing a brand name over a generic drug believing it to be more reputable or of higher quality.

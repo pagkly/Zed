@@ -26,13 +26,13 @@ A Roth 401(k) is an employer-sponsored investment savings account that is funded
 
 ## Understanding the Roth 401(k)
 
-A Roth 401(k) is a unique hybrid retirement savings vehicle that combines many of the best features of traditional 401(k) plans and [Roth IRAs](https://www.investopedia.com/terms/r/rothira.asp). Employee contributions are made using after-tax dollars within certain income limitations.1
+A Roth 401(k) is a unique hybrid retirement savings vehicle that combines many of the best features of traditional 401(k) plans and [[Roth IRAs]](https://www.investopedia.com/terms/r/rothira.asp). Employee contributions are made using after-tax dollars within certain income limitations.1
 
 #### Introduction To The 401(K)
 
-A Roth 401(k) is subject to contribution limits based on the individual's age. For example, the contribution limit for individuals in 2020 and 2021 is $19,500 per year. Individuals 50 and older can contribute an additional $6,500 as a [catch-up contribution](https://www.investopedia.com/terms/c/catchupcontribution.asp).2
+A Roth 401(k) is subject to contribution limits based on the individual's age. For example, the contribution limit for individuals in 2020 and 2021 is $19,500 per year. Individuals 50 and older can contribute an additional $6,500 as a [[catch-up contribution]](https://www.investopedia.com/terms/c/catchupcontribution.asp).2
 
-Withdrawals of any contributions and earnings are not taxed as long as the withdrawal is a [qualified distribution](https://www.investopedia.com/terms/q/qualifieddistribution.asp), which means certain criteria must be met. First, the Roth 401(k) account must have been held for at least five years. Additionally, the withdrawal must have occurred on the account of a disability, on or after the death of an account owner, or when an account holder reaches at least age 59½.3
+Withdrawals of any contributions and earnings are not taxed as long as the withdrawal is a [[qualified distribution]](https://www.investopedia.com/terms/q/qualifieddistribution.asp), which means certain criteria must be met. First, the Roth 401(k) account must have been held for at least five years. Additionally, the withdrawal must have occurred on the account of a disability, on or after the death of an account owner, or when an account holder reaches at least age 59½.3
 
 Distributions are required for those at least 72 years old (70½ before January 1, 2020) unless the individual is still employed at the company that holds the 401(k) and is not a 5% (or more) owner of the business sponsoring the plan.1
 
@@ -48,7 +48,7 @@ Unlike a Roth 401(k), a Roth IRA is not subject to required minimum distribution
 
 When a distribution is made from a traditional 401(k), the account holder is subject to taxation on the contributions and its earnings. But with a Roth 401(k), the account holder is not subject to any taxes from distributions so long as they are qualified.1
 
-Roth 401(k)s are not available in all company-sponsored retirement schemes. When they are, 43% of savers opt for one over a traditional 401(k). [Millennials](https://www.investopedia.com/terms/m/millennial.asp) are more likely to contribute to a Roth 401(k) than [Gen Xers](https://www.investopedia.com/terms/g/generation-x-genx.asp) or [baby boomers](https://www.investopedia.com/terms/b/baby_boomer.asp).4
+Roth 401(k)s are not available in all company-sponsored retirement schemes. When they are, 43% of savers opt for one over a traditional 401(k). [[Millennials]](https://www.investopedia.com/terms/m/millennial.asp) are more likely to contribute to a Roth 401(k) than [[Gen Xers]](https://www.investopedia.com/terms/g/generation-x-genx.asp) or [[baby boomers]](https://www.investopedia.com/terms/b/baby_boomer.asp).4
 
 ## Advantages of a Roth 401(k)
 
@@ -58,6 +58,6 @@ That's why a Roth 401(k) may be less beneficial to those who expect to drop tax
 
 ## History of the Roth 401(k)
 
-In 2001, Congress passed the [Economic Growth and Tax Relief Reconciliation Act](https://www.investopedia.com/terms/e/egtrra.asp) (EGTRRA). The act cut income tax rates following the [2001 recession](https://www.investopedia.com/articles/economics/08/past-recessions.asp) and created the Roth 401(k) to increase tax-deductible contributions that people could make.5
+In 2001, Congress passed the [[Economic Growth and Tax Relief Reconciliation Act]](https://www.investopedia.com/terms/e/egtrra.asp) (EGTRRA). The act cut income tax rates following the [2001 recession](https://www.investopedia.com/articles/economics/08/past-recessions.asp) and created the Roth 401(k) to increase tax-deductible contributions that people could make.5
 
 Since the beginning of 2006, employers have been allowed to amend their 401(k) plan documents so that employees can opt for Roth IRA tax treatment (contributing with after-tax dollars) for a portion or all of their retirement contributions.5 Roth 401(k)s are outlined in section 402A of the Internal Revenue Code.6

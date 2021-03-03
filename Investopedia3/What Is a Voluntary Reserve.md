@@ -30,9 +30,9 @@ State regulators have similar reserve requirements for financial institutions wi
 
 ## How a Voluntary Reserve Works
 
-State regulators use tools provided by the [Insurance Regulatory Information System](https://www.investopedia.com/terms/i/insurance-regulatory-information-system-iris.asp) (IRIS), which is managed by the [National Association of Insurance Commissioners](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC), to determine the solvency of insurance companies in their jurisdictions, and the appropriate amount of cash they should have in reserve.1
+State regulators use tools provided by the [[Insurance Regulatory Information System]](https://www.investopedia.com/terms/i/insurance-regulatory-information-system-iris.asp) (IRIS), which is managed by the [[National Association of Insurance Commissioners]](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC), to determine the solvency of insurance companies in their jurisdictions, and the appropriate amount of cash they should have in reserve.1
 
-IRIS mines financial information filed by each insurance company in order to determine which insurance companies may face solvency issues. The regulatory body determines a range of [liquidity ratio](https://www.investopedia.com/terms/l/liquidityratios.asp) values that are considered acceptable for each company. Outlying values indicate that an insurer should be examined more closely by regulators.
+IRIS mines financial information filed by each insurance company in order to determine which insurance companies may face solvency issues. The regulatory body determines a range of [[liquidity ratio]](https://www.investopedia.com/terms/l/liquidityratios.asp) values that are considered acceptable for each company. Outlying values indicate that an insurer should be examined more closely by regulators.
 
 ### Determining the Reserve Amount
 
@@ -44,7 +44,7 @@ There are few restrictions on the use of a voluntary reserve, however. The compa
 
 Various tax laws and accounting practices discourage property and casualty insurers, in particular, from setting aside excess money even for catastrophes.
 
-An insurance company's voluntary reserve is separate from its [claim reserve](https://www.investopedia.com/terms/c/claims-reserve.asp), which is an amount of money budgeted for policyholder claims that have not yet been filed.2
+An insurance company's voluntary reserve is separate from its [[claim reserve]](https://www.investopedia.com/terms/c/claims-reserve.asp), which is an amount of money budgeted for policyholder claims that have not yet been filed.2
 
 ### The Standard
 

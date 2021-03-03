@@ -18,17 +18,17 @@ Kelley School Of Business at Indiana University
 
 The Kelley School of Business, the business college of Indiana University, offers both undergraduate and graduate programs in many fields, including finance, accounting, marketing, and management. It is one of only three schools to have all of its graduate and undergraduate programs ranked in the top 20 by U.S. News and World Report.
 
-The Kelley School of Business was founded in 1920. It has locations at the Bloomington and Indianapolis campuses of Indiana University. Corporate [headhunters](https://www.investopedia.com/terms/h/headhunter.asp) looking for management, financial and marketing talent heavily recruit students from the school. The school also offers a distance-learning program, Kelley Direct, which teaches over 1,000 students.
+The Kelley School of Business was founded in 1920. It has locations at the Bloomington and Indianapolis campuses of Indiana University. Corporate [[headhunters]](https://www.investopedia.com/terms/h/headhunter.asp) looking for management, financial and marketing talent heavily recruit students from the school. The school also offers a distance-learning program, Kelley Direct, which teaches over 1,000 students.
 
 ## Understanding the Kelley School Of Business
 
-The Kelley School of Business has had several notable alumni that have achieved success in the corporate world. Marshall Armstrong chaired the [Financial Accounting Standards Board (FASB).](https://www.investopedia.com/terms/f/fasb.asp) John Chambers is the [chief executive officer (CEO)](https://www.investopedia.com/terms/c/ceo.asp) of Cisco Systems, one of the largest computer software companies in the world. Mark Cuban, owner of the Dallas Mavericks, graduated from the school in 1981. Cheryl A. Bachelder once presided over KFC, the fast-food chain that specializes in fried chicken dishes.
+The Kelley School of Business has had several notable alumni that have achieved success in the corporate world. Marshall Armstrong chaired the [[Financial Accounting Standards Board (FASB).]](https://www.investopedia.com/terms/f/fasb.asp) John Chambers is the [[chief executive officer (CEO)]](https://www.investopedia.com/terms/c/ceo.asp) of Cisco Systems, one of the largest computer software companies in the world. Mark Cuban, owner of the Dallas Mavericks, graduated from the school in 1981. Cheryl A. Bachelder once presided over KFC, the fast-food chain that specializes in fried chicken dishes.
 
-Several distinguished public servants also graduated from the Kelley School of Business. Evan Bayh III became governor of Indiana and a U.S. senator. Richard Lesher is the president of the [Chamber of Commerce](https://www.investopedia.com/terms/c/chamber-of-commerce.asp) of the United States. John C. Partee was a governor of the [U.S. Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp). Milton Wilson became the dean of Howard University's School of Business and Public Administration.
+Several distinguished public servants also graduated from the Kelley School of Business. Evan Bayh III became governor of Indiana and a U.S. senator. Richard Lesher is the president of the [[Chamber of Commerce]](https://www.investopedia.com/terms/c/chamber-of-commerce.asp) of the United States. John C. Partee was a governor of the [[U.S. Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp). Milton Wilson became the dean of Howard University's School of Business and Public Administration.
 
 ## Programs
 
-The undergraduate program at the Bloomington campus offers 13 different majors. The online [MBA](https://www.investopedia.com/terms/m/mba.asp) program supplements other online master's degrees, such as global [supply chain management](https://www.investopedia.com/terms/s/scm.asp), business analytics and entrepreneurship. The graduate accounting program has a placement rate of nearly 100%.
+The undergraduate program at the Bloomington campus offers 13 different majors. The online [[MBA]](https://www.investopedia.com/terms/m/mba.asp) program supplements other online master's degrees, such as global [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp), business analytics and entrepreneurship. The graduate accounting program has a placement rate of nearly 100%.
 
 ## Statistics and Starting Salaries
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 Coverage Ratio
 ## What Is a Coverage Ratio?
 
-A coverage ratio, broadly, is a metric intended to measure a company's ability to service its debt and meet its financial obligations, such as interest payments or [dividends](https://www.investopedia.com/terms/d/dividend.asp). The higher the coverage ratio, the easier it should be to make interest payments on its debt or pay dividends. The trend of coverage ratios over time is also studied by analysts and investors to ascertain the change in a company's financial position.
+A coverage ratio, broadly, is a metric intended to measure a company's ability to service its debt and meet its financial obligations, such as interest payments or [[dividends]](https://www.investopedia.com/terms/d/dividend.asp). The higher the coverage ratio, the easier it should be to make interest payments on its debt or pay dividends. The trend of coverage ratios over time is also studied by analysts and investors to ascertain the change in a company's financial position.
 
 ### Key Takeaways
 
@@ -27,15 +27,15 @@ A coverage ratio, broadly, is a metric intended to measure a company's ability t
 
 ## Understanding a Coverage Ratio
 
-Coverage ratios come in several forms and can be used to help identify companies in a potentially troubled financial situation, though low ratios are not necessarily an indication that a company is in financial difficulty. Many factors go into determining these ratios and a deeper dive into a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) is often recommended to ascertain a business's health.
+Coverage ratios come in several forms and can be used to help identify companies in a potentially troubled financial situation, though low ratios are not necessarily an indication that a company is in financial difficulty. Many factors go into determining these ratios and a deeper dive into a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) is often recommended to ascertain a business's health.
 
-[Net income](https://www.investopedia.com/terms/n/netincome.asp), [interest expense](https://www.investopedia.com/terms/i/interestexpense.asp), debt outstanding, and total assets are just a few examples of the financial statement items that should be examined. To ascertain whether the company is still a going concern, one should look at [liquidity](https://www.investopedia.com/terms/l/liquidityratios.asp) and [solvency ratios](https://www.investopedia.com/terms/s/solvencyratio.asp), which assess a company's ability to pay short-term debt (i.e., convert assets into cash).
+[Net income](https://www.investopedia.com/terms/n/netincome.asp), [[interest expense]](https://www.investopedia.com/terms/i/interestexpense.asp), debt outstanding, and total assets are just a few examples of the financial statement items that should be examined. To ascertain whether the company is still a going concern, one should look at [[liquidity]](https://www.investopedia.com/terms/l/liquidityratios.asp) and [[solvency ratios]](https://www.investopedia.com/terms/s/solvencyratio.asp), which assess a company's ability to pay short-term debt (i.e., convert assets into cash).
 
 Investors can use coverage ratios in one of two ways. First, they can track changes in the company’s debt situation over time. In cases where the debt-service coverage ratio is barely within the acceptable range, it may be a good idea to look at the company’s recent history. If the ratio has been gradually declining, it may only be a matter of time before it falls below the recommended figure.
 
 Coverage ratios are also valuable when looking at a company in relation to its competitors. Evaluating similar businesses is imperative, because a coverage ratio that’s acceptable in one industry may be considered risky in another field. If the business you’re evaluating seems out of step with major competitors, it’s often a red flag.
 
-While comparing the coverage ratios of companies in the same [industry or sector](https://www.investopedia.com/ask/answers/05/industrysector.asp) can provide valuable insights into their relative financial positions, doing so across companies in different sectors is not as useful, since it might be like comparing apples to oranges.
+While comparing the coverage ratios of companies in the same [[industry or sector]](https://www.investopedia.com/ask/answers/05/industrysector.asp) can provide valuable insights into their relative financial positions, doing so across companies in different sectors is not as useful, since it might be like comparing apples to oranges.
 
 Common coverage ratios include the interest coverage ratio, debt service coverage ratio, and the asset coverage ratio. These coverage ratios are summarized below.
 
@@ -43,7 +43,7 @@ Common coverage ratios include the interest coverage ratio, debt service coverag
 
 ### Interest Coverage Ratio
 
-The [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp) measures the ability of a company to pay the interest expense on its debt. The ratio, also known as the times interest earned ratio, is defined as:
+The [[interest coverage ratio]](https://www.investopedia.com/terms/i/interestcoverageratio.asp) measures the ability of a company to pay the interest expense on its debt. The ratio, also known as the times interest earned ratio, is defined as:
 
 **_Interest Coverage Ratio = EBIT / Interest Expense_**
 
@@ -55,15 +55,15 @@ An interest coverage ratio of two or higher is generally considered satisfactory
 
 ### Debt Service Coverage Ratio
 
-The [debt service coverage ratio](https://www.investopedia.com/terms/d/dscr.asp) (DSCR) measures how well a company is able to pay its entire debt service. Debt service includes all principal and interest payments due to be made in the near term. The ratio is defined as:
+The [[debt service coverage ratio]](https://www.investopedia.com/terms/d/dscr.asp) (DSCR) measures how well a company is able to pay its entire debt service. Debt service includes all principal and interest payments due to be made in the near term. The ratio is defined as:
 
 **_DSCR = Net Operating Income / Total Debt Service_**
 
-A ratio of one or above is indicative that a company generates sufficient [earnings](https://www.investopedia.com/terms/e/earnings.asp) to completely cover its debt obligations.
+A ratio of one or above is indicative that a company generates sufficient [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) to completely cover its debt obligations.
 
 ### Asset Coverage Ratio
 
-The [asset coverage ratio](https://www.investopedia.com/terms/a/assetcoverage.asp) is similar in nature to the debt service coverage ratio but looks at balance sheet assets instead of comparing income to debt levels. The ratio is defined as:
+The [[asset coverage ratio]](https://www.investopedia.com/terms/a/assetcoverage.asp) is similar in nature to the debt service coverage ratio but looks at balance sheet assets instead of comparing income to debt levels. The ratio is defined as:
 
 **_Asset Coverage Ratio = Total Assets - Short-term Liabilities / Total Debt_**
 
@@ -94,4 +94,4 @@ The debt-service coverage ratio, however, reflects a significant principal amoun
 
 DSCR\=$200,000$190,000\=1.05\\begin{aligned} &\\text{DSCR} = \\frac{ \\$200,000 }{ \\$190,000 } = 1.05 \\\\ \\end{aligned}
 
-Even though the company is generating a positive [cash flow](https://www.investopedia.com/terms/c/cashflow.asp), it looks riskier from a debt perspective once debt-service coverage is taken into account.
+Even though the company is generating a positive [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp), it looks riskier from a debt perspective once debt-service coverage is taken into account.

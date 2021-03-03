@@ -16,7 +16,7 @@ author: Will Kenton
 Rating
 ## What Is a Rating?
 
-A rating is an assessment tool assigned by an analyst or rating agency to a stock or bond. The rating assigned indicates the stock or bond's level of investment opportunity. The three major rating agencies are [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp), [Moody's Investors Service](https://www.investopedia.com/terms/m/moodys.asp), and [Fitch Ratings](https://www.investopedia.com/terms/f/fitch-ratings.asp). 
+A rating is an assessment tool assigned by an analyst or rating agency to a stock or bond. The rating assigned indicates the stock or bond's level of investment opportunity. The three major rating agencies are [[Standard & Poor's]](https://www.investopedia.com/terms/s/sp.asp), [[Moody's Investors Service]](https://www.investopedia.com/terms/m/moodys.asp), and [[Fitch Ratings]](https://www.investopedia.com/terms/f/fitch-ratings.asp). 
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A rating is an assessment tool assigned by an analyst or rating agency to a stoc
 
 ## How a Rating Works
 
-Analysts that work on both the [buy-side](https://www.investopedia.com/terms/b/buyside.asp) and [sell-side](https://www.investopedia.com/terms/s/sellside.asp) of the industry research stocks and write opinions on those stocks, which will often include a rating such as _buy_, _hold_ or _sell_. Meanwhile, bonds are rated by the three major [bond rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp). 
+Analysts that work on both the [[buy-side]](https://www.investopedia.com/terms/b/buyside.asp) and [[sell-side]](https://www.investopedia.com/terms/s/sellside.asp) of the industry research stocks and write opinions on those stocks, which will often include a rating such as _buy_, _hold_ or _sell_. Meanwhile, bonds are rated by the three major [[bond rating agencies]](https://www.investopedia.com/terms/b/bond-rating-agencies.asp). 
 
 A company can improve its rating score by maintaining as little debt as possible and staying vigilant when sudden changes occur within the company.
 
@@ -41,14 +41,14 @@ When it comes to major Wall Street banks and institutions, they all use differen
 
 ### Rating Agency Ratings 
 
-For a bond, a rating agency will assess the bond's relative safety based upon the issuing entity's fundamental financial picture, which scrutinizes the issuer's [ability to repay](https://www.investopedia.com/terms/a/ability-to-repay.asp) the principal and make interest [payments](https://www.investopedia.com/terms/p/payment.asp).
+For a bond, a rating agency will assess the bond's relative safety based upon the issuing entity's fundamental financial picture, which scrutinizes the issuer's [[ability to repay]](https://www.investopedia.com/terms/a/ability-to-repay.asp) the principal and make interest [[payments]](https://www.investopedia.com/terms/p/payment.asp).
 
 The ratings for Moody's and S&P from highest to lowest in the investment grade category are Aaa/AAA, Aa1/AA+, Aa2/AA, Aa3/AA-, A1/A+, A2/A, A3/A-, Baa1/BBB+, Baa2/BBB and Baa3/BBB-.3 4
 
-Standard & Poor's is the provider of the [S&P 500 Index](https://www.investopedia.com/terms/s/sp500.asp), as well as a leading data source and index provider of independent credit ratings. S&P 500 Index is a widely utilized gauge for determining the overall health of the U.S. stock market.5
+Standard & Poor's is the provider of the [[S&P 500 Index]](https://www.investopedia.com/terms/s/sp500.asp), as well as a leading data source and index provider of independent credit ratings. S&P 500 Index is a widely utilized gauge for determining the overall health of the U.S. stock market.5
 
 Moody's is a provider of international financial research on government and commercial issued bonds. Moody's utilizes a rating system to judge a borrower's creditworthiness. This rating scale goes starts at Aaa (being of the highest quality) and goes to C (being of the lowest quality).3
 
 Fitch Ratings is also a credit rating agency that is international. This agency bases its ratings on factors such as how sensitive a company is to internal changes and the kind of debt the company holds.6 Fitch is used by investors as a guide to what investments will not default and will, in turn, lead to a solid return.
 
-The ratings assigned by the various rating agencies are based primarily upon the insurer's or issuer's creditworthiness. This rating can, therefore, be interpreted as a direct measure of the probability of [default](https://www.investopedia.com/terms/d/default2.asp). However, credit stability and priority of payment are also factored into the rating.
+The ratings assigned by the various rating agencies are based primarily upon the insurer's or issuer's creditworthiness. This rating can, therefore, be interpreted as a direct measure of the probability of [[default]](https://www.investopedia.com/terms/d/default2.asp). However, credit stability and priority of payment are also factored into the rating.

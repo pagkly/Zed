@@ -16,7 +16,7 @@ author: Julie Young
 Classical Economics
 ## What Is Classical Economics?
 
-Classical economics is a broad term that refers to the dominant school of thought for [economics](https://www.investopedia.com/terms/e/economics.asp) in the 18th and 19th centuries. Most consider Scottish economist [Adam Smith](https://www.investopedia.com/updates/adam-smith-economics/) the progenitor of classical economic theory. However, Spanish scholastics and French physiocrats made earlier contributions. Other notable contributors to classical economics include David Ricardo, [Thomas Malthus](https://www.investopedia.com/terms/t/thomas-malthus.asp), Anne Robert Jacques Turgot, John Stuart Mill, Jean-Baptiste Say, and Eugen Böhm von Bawerk.
+Classical economics is a broad term that refers to the dominant school of thought for [[economics]](https://www.investopedia.com/terms/e/economics.asp) in the 18th and 19th centuries. Most consider Scottish economist [Adam Smith](https://www.investopedia.com/updates/adam-smith-economics/) the progenitor of classical economic theory. However, Spanish scholastics and French physiocrats made earlier contributions. Other notable contributors to classical economics include David Ricardo, [Thomas Malthus](https://www.investopedia.com/terms/t/thomas-malthus.asp), Anne Robert Jacques Turgot, John Stuart Mill, Jean-Baptiste Say, and Eugen Böhm von Bawerk.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Self-regulating democracies and capitalistic market developments form the basis 
 
 ## The Rise of Classical Economics
 
-Classical economic theory was developed shortly after the birth of western [capitalism](https://www.investopedia.com/terms/c/capitalism.asp) and the [Industrial Revolution](https://www.investopedia.com/terms/i/industrial-revolution.asp). Classical economists provided the best early attempts at explaining capitalism's inner workings. The earliest classical economists developed theories of value, price, supply, demand, and distribution. Nearly all rejected government interference with market exchanges, preferring a looser market strategy known as [laissez-faire](https://www.investopedia.com/terms/l/laissezfaire.asp), or "let it be."
+Classical economic theory was developed shortly after the birth of western [capitalism](https://www.investopedia.com/terms/c/capitalism.asp) and the [[Industrial Revolution]](https://www.investopedia.com/terms/i/industrial-revolution.asp). Classical economists provided the best early attempts at explaining capitalism's inner workings. The earliest classical economists developed theories of value, price, supply, demand, and distribution. Nearly all rejected government interference with market exchanges, preferring a looser market strategy known as [[laissez-faire]](https://www.investopedia.com/terms/l/laissezfaire.asp), or "let it be."
 
 Classical thinkers were not completely unified in their beliefs or understanding of markets although there were notable common themes in most classical literature. The majority favored [free trade](https://www.investopedia.com/terms/f/free-trade.asp) and competition among workers and businesses. Classical economists wanted to transition away from class-based social structures in favor of meritocracies.
 
@@ -48,4 +48,4 @@ A more thorough challenge to classical theory emerged in the 1930s and 1940s thr
 
 Adam Smith’s 1776 release of the _Wealth of Nations_ highlights some of the most prominent developments in classical economics. His revelations centered around free trade and a concept called the "[invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp)" which served as the theory for the beginning stages of domestic and international supply and demand.
 
-This theory, the dual and competing forces of demand-side and sell-side, moves the market to price and production equilibrium. Smith’s studies helped promote domestic trade and led to more efficient and rational pricing in the product markets based on [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp).
+This theory, the dual and competing forces of demand-side and sell-side, moves the market to price and production equilibrium. Smith’s studies helped promote domestic trade and led to more efficient and rational pricing in the product markets based on [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp).

@@ -16,13 +16,13 @@ author: Will Kenton
 Voyage Policies: What You Should Know
 ## What Is a Voyage Policy?
 
-A voyage policy is marine [insurance coverage](https://www.investopedia.com/terms/i/insurance-coverage.asp) for risks to a ship's cargo during a specific voyage. Unlike most [insurance policies](https://www.investopedia.com/insurance/insurance-policies-everyone-should-have/) it is not time-based but expires when the ship arrives at its destination. It covers only the cargo, not the ship that carries it.
+A voyage policy is marine [[insurance coverage]](https://www.investopedia.com/terms/i/insurance-coverage.asp) for risks to a ship's cargo during a specific voyage. Unlike most [[insurance policies]](https://www.investopedia.com/insurance/insurance-policies-everyone-should-have/) it is not time-based but expires when the ship arrives at its destination. It covers only the cargo, not the ship that carries it.
 
 A voyage policy is also known as marine cargo insurance.
 
 ## Understanding a Voyage Policy
 
-Voyage policies are commonly used by exporters who need marine shipping only occasionally or for relatively small amounts of cargo. Large [exporters](https://www.investopedia.com/terms/e/export.asp) who ship by sea routinely tend to prefer [open cover](https://www.investopedia.com/terms/o/open-cover.asp) marine insurance, which covers all cargo shipped by the policyholder for a specified time period.
+Voyage policies are commonly used by exporters who need marine shipping only occasionally or for relatively small amounts of cargo. Large [[exporters]](https://www.investopedia.com/terms/e/export.asp) who ship by sea routinely tend to prefer [[open cover]](https://www.investopedia.com/terms/o/open-cover.asp) marine insurance, which covers all cargo shipped by the policyholder for a specified time period.
 
 A voyage policy is in effect only while the ship is at sea; additional insurance is needed to cover losses during loading and unloading of cargo.
 

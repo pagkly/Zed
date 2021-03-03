@@ -16,7 +16,7 @@ author: Gordon Scott, CMT
 Dogs of the Dow
 ## What Are Dogs of the Dow?
 
-Dogs of the Dow is an investment strategy that attempts to beat the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA) each year by optimizing towards high-yield investments. The general concept is to allocate money to the 10 highest dividend-yielding, blue-chip stocks among the 30 components of the DJIA. The strategy requires re-balancing at the beginning of each calendar year.
+Dogs of the Dow is an investment strategy that attempts to beat the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) (DJIA) each year by optimizing towards high-yield investments. The general concept is to allocate money to the 10 highest dividend-yielding, blue-chip stocks among the 30 components of the DJIA. The strategy requires re-balancing at the beginning of each calendar year.
 
 ### Key Takeaways
 
@@ -32,13 +32,13 @@ Though not an entirely new concept, in 1991, this strategy first became a popula
 
 ## Dogs of the Dow Methodology
 
-Dogs of the Dow relies on the premise that [blue-chip companies](https://www.investopedia.com/terms/b/bluechip.asp) do not alter their dividend to reflect trading conditions and, therefore, the dividend is a measure of the average worth of the company. In contrast, the stock price does fluctuate throughout the business cycle.
+Dogs of the Dow relies on the premise that [[blue-chip companies]](https://www.investopedia.com/terms/b/bluechip.asp) do not alter their dividend to reflect trading conditions and, therefore, the dividend is a measure of the average worth of the company. In contrast, the stock price does fluctuate throughout the business cycle.
 
 This should mean that companies with a high dividend relative to stock price are near the bottom of their business cycle, so their stock price likely would increase faster than companies with low dividend yields. In this scenario, an investor reinvesting in high-dividend-yielding companies annually should outperform the overall market.
 
 [Dividend](https://www.investopedia.com/terms/d/dividend.asp) stocks offer current income and growth potential, so it is no surprise many investors are attracted to them. All 30 companies that comprise the DJIA pay dividends and are among the most important blue-chip businesses in the global economy.
 
-There are many ways to purchase these securities. You can hand-pick individual stocks and build your own portfolio; invest directly in the Dow through [exchange-traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs); or instead of investing in the entire Dow, you can follow the Dogs of the Dow strategy, whose stocks offer better yields than the Dow as a whole. Often, in fact, the Dogs have been able to outperform the Dow over the course of the year.
+There are many ways to purchase these securities. You can hand-pick individual stocks and build your own portfolio; invest directly in the Dow through [[exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs); or instead of investing in the entire Dow, you can follow the Dogs of the Dow strategy, whose stocks offer better yields than the Dow as a whole. Often, in fact, the Dogs have been able to outperform the Dow over the course of the year.
 
 The 2021 Dogs of the Dow are listed below.
 

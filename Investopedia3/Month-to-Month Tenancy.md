@@ -26,7 +26,7 @@ A month-to-month tenancy is a periodic tenancy created when the renter is grante
 
 ## How a Month-to-Month Tenancy Works
 
-Tenancy falls under the real estate laws that cover [leases](https://www.investopedia.com/terms/l/lease.asp). In legal real estate terminology, a lease is a contract between the owner of a property, also known as the [landlord](https://www.investopedia.com/terms/l/landlord.asp), and a tenant, who rents the property. [The lease transfers the owner’s rights](https://www.investopedia.com/articles/personal-finance/090315/millennials-guide-how-read-lease.asp) to the exclusive possession and use of the property to the tenant for an agreed-upon period.
+Tenancy falls under the real estate laws that cover [[leases]](https://www.investopedia.com/terms/l/lease.asp). In legal real estate terminology, a lease is a contract between the owner of a property, also known as the [[landlord]](https://www.investopedia.com/terms/l/landlord.asp), and a tenant, who rents the property. [[The lease transfers the owner’s rights]](https://www.investopedia.com/articles/personal-finance/090315/millennials-guide-how-read-lease.asp) to the exclusive possession and use of the property to the tenant for an agreed-upon period.
 
 [As anyone who has rented an apartment knows](https://www.investopedia.com/articles/younginvestors/07/ready_to_rent.asp), the lease sets forth the period of time for which the contract is to run and the amount of rent the tenant is contracted to pay. The renter gains access to the property and uses it in whatever manner was agreed upon in the lease. The landlord receives rent for a specified period of time, and after the lease period is up their ownership rights are returned.
 
@@ -80,8 +80,8 @@ This is established when the renter’s possession is contracted for an indefini
 
 ### Tenancy at will
 
-A [tenancy at will](https://www.investopedia.com/terms/t/tenancy-at-will.asp) gives the renter the right to use the property for an unspecified period. The tenancy continues until the owner or renter gives notice of termination. In the event of either party’s death, the tenancy is terminated.3
+A [[tenancy at will]](https://www.investopedia.com/terms/t/tenancy-at-will.asp) gives the renter the right to use the property for an unspecified period. The tenancy continues until the owner or renter gives notice of termination. In the event of either party’s death, the tenancy is terminated.3
 
 ### Tenancy at sufferance
 
-A [tenancy at sufferance](https://www.investopedia.com/terms/t/tenancy-at-sufferance.asp) occurs when the renter, who at one time had established a contractual tenancy, continues to remain in the property without the owner’s consent. This can occur when the renter does not surrender the property after the initial expiration date written into the lease. It usually leads to eviction proceedings being instituted by the owner. If, however, the landlord accepts a rent payment after the lease expiration date, the property is considered to be leased again, but now on a month-to-month basis.4
+A [[tenancy at sufferance]](https://www.investopedia.com/terms/t/tenancy-at-sufferance.asp) occurs when the renter, who at one time had established a contractual tenancy, continues to remain in the property without the owner’s consent. This can occur when the renter does not surrender the property after the initial expiration date written into the lease. It usually leads to eviction proceedings being instituted by the owner. If, however, the landlord accepts a rent payment after the lease expiration date, the property is considered to be leased again, but now on a month-to-month basis.4

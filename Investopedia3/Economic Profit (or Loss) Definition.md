@@ -16,9 +16,9 @@ author: Alicia Tuovila
 Economic Profit (or Loss) Definition
 ## What Is Economic Profit (or Loss)?
 
-An economic profit or loss is the difference between the revenue received from the sale of an output and the costs of all inputs used, as well as any [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp). In calculating economic profit, opportunity costs and [explicit costs](https://www.investopedia.com/terms/e/explicitcost.asp) are deducted from revenues earned.
+An economic profit or loss is the difference between the revenue received from the sale of an output and the costs of all inputs used, as well as any [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp). In calculating economic profit, opportunity costs and [[explicit costs]](https://www.investopedia.com/terms/e/explicitcost.asp) are deducted from revenues earned.
 
-Opportunity costs are a type of [implicit cost](https://www.investopedia.com/terms/i/implicitcost.asp) determined by management and will vary based on different scenarios and perspectives.
+Opportunity costs are a type of [[implicit cost]](https://www.investopedia.com/terms/i/implicitcost.asp) determined by management and will vary based on different scenarios and perspectives.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Opportunity costs are a type of [implicit cost](https://www.investopedia.com/ter
 
 ## Understanding Economic Profit (or Loss)
 
-Economic profit is often analyzed in conjunction with [accounting profit](https://www.investopedia.com/terms/a/accountingprofit.asp). Accounting profit is the profit a company shows on its [income statement](https://www.investopedia.com/terms/i/incomestatement.asp). Accounting profit measures actual inflows versus outflows and is part of the required financial transparency of a company.
+Economic profit is often analyzed in conjunction with [[accounting profit]](https://www.investopedia.com/terms/a/accountingprofit.asp). Accounting profit is the profit a company shows on its [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp). Accounting profit measures actual inflows versus outflows and is part of the required financial transparency of a company.
 
 Economic profit, on the other hand, is not recorded on a company’s financial statements, nor is it required to be disclosed to regulators, investors, or financial institutions. Economic profit is a type of "what if" analysis. Companies and individuals may choose to consider economic profit when they are faced with choices involving production levels or other business alternatives. Economic profit can provide a proxy for foregone profit considerations.
 
@@ -38,7 +38,7 @@ The calculation for economic profit can vary by entity and scenario. In general,
 
 In this equation, excluding the opportunity costs results in just the accounting profit—but subtracting the opportunity costs as well—can provide a proxy for comparison to other options that could have been undertaken.
 
-Companies transparently show their explicit costs on the income statement. The accounting profit on the [bottom line](https://www.investopedia.com/terms/b/bottomline.asp) of the income statement is the [net income](https://www.investopedia.com/terms/n/netincome.asp) after subtracting for direct, indirect, and capital costs. The [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) is the most basic explicit cost used in analyzing per-unit costs. Thus, in the equation above, a company could also break down its opportunity costs by units to arrive at a per-unit economic profit.
+Companies transparently show their explicit costs on the income statement. The accounting profit on the [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) of the income statement is the [[net income]](https://www.investopedia.com/terms/n/netincome.asp) after subtracting for direct, indirect, and capital costs. The [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) is the most basic explicit cost used in analyzing per-unit costs. Thus, in the equation above, a company could also break down its opportunity costs by units to arrive at a per-unit economic profit.
 
 Economic profit may be used when seeking a comparison to income that potentially would have been gained from choosing a different option. Individuals starting their own business may use economic profit as a proxy for their first year of business. With large entities, business managers can potentially look more intricately at gross, operating, and net profit versus economic profit at different phases of the business operations.
 
@@ -62,7 +62,7 @@ In using economic profit in comparison to gross profit, a company may look at di
 
 > Economic profit = revenue per unit - COGS per unit - unit opportunity cost
 
-If a company generates $10 per unit from selling t-shirts with a $5 cost per unit, then its gross [profit](https://www.investopedia.com/terms/p/profit.asp) per unit for t-shirts is $5. However, if they could have potentially produced shorts with revenue of $10 and costs of $2 then there could be an opportunity cost of $8 as well:
+If a company generates $10 per unit from selling t-shirts with a $5 cost per unit, then its gross [[profit]](https://www.investopedia.com/terms/p/profit.asp) per unit for t-shirts is $5. However, if they could have potentially produced shorts with revenue of $10 and costs of $2 then there could be an opportunity cost of $8 as well:
 
 > $10 - $5 - $8 = -$3
 

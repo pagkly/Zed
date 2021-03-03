@@ -16,13 +16,13 @@ author: Will Kenton
 Understanding Wholly Owned Subsidiary
 ## What Is a Wholly Owned Subsidiary?
 
-A wholly owned subsidiary is a company whose common stock is 100% owned by another company, the parent company. Whereas a company can become a wholly owned subsidiary through an acquisition by the [parent company](https://www.investopedia.com/terms/p/parentcompany.asp) or having been spun off from the parent company, a regular subsidiary is 51% to 99% owned by the parent company.
+A wholly owned subsidiary is a company whose common stock is 100% owned by another company, the parent company. Whereas a company can become a wholly owned subsidiary through an acquisition by the [[parent company]](https://www.investopedia.com/terms/p/parentcompany.asp) or having been spun off from the parent company, a regular subsidiary is 51% to 99% owned by the parent company.
 
-When lower costs and risks are desirable—or when it is not possible to obtain complete or majority control—the parent company might introduce an [affiliate](https://www.investopedia.com/terms/a/affiliate.asp), associate, or [associate company](https://www.investopedia.com/terms/a/associate-company.asp) in which it would own a minority stake.
+When lower costs and risks are desirable—or when it is not possible to obtain complete or majority control—the parent company might introduce an [[affiliate]](https://www.investopedia.com/terms/a/affiliate.asp), associate, or [[associate company]](https://www.investopedia.com/terms/a/associate-company.asp) in which it would own a minority stake.
 
 ## Understanding a Wholly Owned Subsidiary
 
-Because the parent company owns all the shares of a wholly owned subsidiary, there are no minority shareholders. The [subsidiary](https://www.investopedia.com/ask/answers/032615/what-difference-between-subsidiary-and-wholly-owned-subsidiary.asp) operates with the permission of the parent company, which may or may not have direct input into the subsidiary’s operations and management. This may make it an [unconsolidated subsidiary](https://www.investopedia.com/terms/u/unconsolidated-subsidiary.asp).
+Because the parent company owns all the shares of a wholly owned subsidiary, there are no minority shareholders. The [[subsidiary]](https://www.investopedia.com/ask/answers/032615/what-difference-between-subsidiary-and-wholly-owned-subsidiary.asp) operates with the permission of the parent company, which may or may not have direct input into the subsidiary’s operations and management. This may make it an [[unconsolidated subsidiary]](https://www.investopedia.com/terms/u/unconsolidated-subsidiary.asp).
 
 For example, a wholly owned subsidiary may be in a country different from that of the parent company. The subsidiary most likely has its own senior management structure, products, and clients. Having a wholly owned subsidiary may help the parent company maintain operations in diverse geographic areas and markets or separate industries. These factors help hedge against changes in the market or geopolitical and trade practices, as well as declines in industry sectors.
 
@@ -30,7 +30,7 @@ Not to be confused with a subsidiary, a wholly owned subsidiary is a company tha
 
 ## Advantages and Disadvantages of a Wholly Owned Subsidiary
 
-Although a parent company has operational and strategic control over its wholly owned subsidiaries, the overall control is typically less for an acquired subsidiary with a strong operating history overseas. When a company hires its own staff to manage the subsidiary, forming common operating procedures is much less complicated than when taking over a company with established [leadership](https://www.investopedia.com/articles/pf/12/leadership-skils.asp).
+Although a parent company has operational and strategic control over its wholly owned subsidiaries, the overall control is typically less for an acquired subsidiary with a strong operating history overseas. When a company hires its own staff to manage the subsidiary, forming common operating procedures is much less complicated than when taking over a company with established [[leadership]](https://www.investopedia.com/articles/pf/12/leadership-skils.asp).
 
 In addition, the parent company may apply its own data access and security directives for the subsidiary as a method of lessening the risk of losing intellectual property to other companies. Similarly, using similar financial systems, sharing administrative services, and creating similar marketing programs help reduce costs for both companies, and a parent company directs how its wholly-owned subsidiary’s assets are invested.
 

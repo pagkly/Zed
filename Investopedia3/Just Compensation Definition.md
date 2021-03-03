@@ -16,9 +16,9 @@ author: Julia Kagan
 Just Compensation Definition
 ## What Is Just Compensation?
 
-Just compensation refers to the compensation individuals receive when their [property](https://www.investopedia.com/terms/p/property.asp) gets seized by the government for public use. For example, when the national highway system was constructed in the 1950s, many homeowners had their property seized because the government needed the land to build the interstate highway system.
+Just compensation refers to the compensation individuals receive when their [[property]](https://www.investopedia.com/terms/p/property.asp) gets seized by the government for public use. For example, when the national highway system was constructed in the 1950s, many homeowners had their property seized because the government needed the land to build the interstate highway system.
 
-The just compensation remedy is provided by the Fifth Amendment's Takings Clause and is usually considered to be [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp). However, what the government considers just compensation may not be regarded as "just" by the person whose property is seized. The government’s ability to take private property for public use is called [eminent domain](https://www.investopedia.com/terms/e/eminent-domain.asp).
+The just compensation remedy is provided by the Fifth Amendment's Takings Clause and is usually considered to be [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp). However, what the government considers just compensation may not be regarded as "just" by the person whose property is seized. The government’s ability to take private property for public use is called [[eminent domain]](https://www.investopedia.com/terms/e/eminent-domain.asp).
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ The just compensation remedy is provided by the Fifth Amendment's Takings Clause
 
 The idea behind just compensation is to repair the individual's estate, as if the property taking did not occur. This means paying the fair market value for the property.
 
-However, individuals who lose their homes through an act of eminent domain may not consider the fair market value of the property to be just compensation for their loss, because it does not take into account the time, stress and cost of moving to a new property. Just compensation also fails to consider the loss of neighborhood social ties or the emotional connection the owner may have to the property. [Fair value](https://www.investopedia.com/articles/mortgages-real-estate/08/housing-appreciation.asp) is often disputed in eminent domain cases.
+However, individuals who lose their homes through an act of eminent domain may not consider the fair market value of the property to be just compensation for their loss, because it does not take into account the time, stress and cost of moving to a new property. Just compensation also fails to consider the loss of neighborhood social ties or the emotional connection the owner may have to the property. [[Fair value]](https://www.investopedia.com/articles/mortgages-real-estate/08/housing-appreciation.asp) is often disputed in eminent domain cases.
 
 ## Factors of Just Compensation
 
@@ -47,7 +47,7 @@ Land improvement refers to structures that improve the value of the seized land.
 
 ### Residue Damage
 
-If only a portion of the property is seized, residue damage refers to the damage on the remaining property due to the seizure. Residue damages may include the inability to use the best part of the land, any change or shape to the land and the land’s new proximity to public [infrastructures](https://www.investopedia.com/terms/i/infrastructure.asp), such as roads or utility equipment.
+If only a portion of the property is seized, residue damage refers to the damage on the remaining property due to the seizure. Residue damages may include the inability to use the best part of the land, any change or shape to the land and the land’s new proximity to public [[infrastructures]](https://www.investopedia.com/terms/i/infrastructure.asp), such as roads or utility equipment.
 
 ### Benefits
 

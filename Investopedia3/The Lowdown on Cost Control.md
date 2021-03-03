@@ -16,11 +16,11 @@ author: Will Kenton
 The Lowdown on Cost Control
 ## What Is Cost Control?
 
-Cost control is the practice of identifying and reducing business expenses to increase profits, and it starts with the [budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) process. A business owner compares the company's actual financial results with the budgeted expectations, and if actual costs are higher than planned, management has the information it needs to take action.
+Cost control is the practice of identifying and reducing business expenses to increase profits, and it starts with the [[budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp) process. A business owner compares the company's actual financial results with the budgeted expectations, and if actual costs are higher than planned, management has the information it needs to take action.
 
 As an example, a company can obtain bids from different vendors that provide the same product or service, which can lower costs. Cost control is an important factor in maintaining and growing profitability.
 
-Corporate [payroll](https://www.investopedia.com/terms/p/payroll.asp), for example, is often outsourced, because payroll tax laws change constantly, and employee turnover requires frequent changes to payroll records. A payroll company can calculate the net pay and tax withholdings for each worker, which saves the employer time and expense.
+Corporate [[payroll]](https://www.investopedia.com/terms/p/payroll.asp), for example, is often outsourced, because payroll tax laws change constantly, and employee turnover requires frequent changes to payroll records. A payroll company can calculate the net pay and tax withholdings for each worker, which saves the employer time and expense.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Controlling costs is one way to plan for a target net income, which is computed 
 
 Assume, for example, that a retail clothing shop wants to earn $10,000 in net income from $100,000 in sales for the month. To reach the goal, management reviews both fixed and variable costs and attempts to reduce the expenses. Inventory is a variable cost that can be reduced by finding other suppliers that may offer more competitive prices.
 
-It may take longer to reduce fixed costs, such as a lease payment, because these costs are usually fixed in a contract. Reaching a target net income is particularly important for a [public company](https://www.investopedia.com/terms/p/publiccompany.asp), since investors purchase the issuer’s common stock based on the expectation of earnings growth over time.
+It may take longer to reduce fixed costs, such as a lease payment, because these costs are usually fixed in a contract. Reaching a target net income is particularly important for a [[public company]](https://www.investopedia.com/terms/p/publiccompany.asp), since investors purchase the issuer’s common stock based on the expectation of earnings growth over time.
 
 Outsourcing is used frequently to control costs because many businesses find it cheaper to pay a third party to perform a task than to take on the work within the company.
 

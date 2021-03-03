@@ -16,15 +16,15 @@ author: Christina Majaski
 Understanding Zero-Rated Goods
 ## What Are Zero-Rated Goods?
 
-In countries that use [value-added tax](https://www.investopedia.com/terms/v/valueaddedtax.asp) (VAT), zero-rated goods are products that are exempt from that value taxation. Examples of items that may be zero-rated include certain foods and beverages, [exported goods](https://www.investopedia.com/terms/e/export.asp), [donated goods sold by charity shops](https://www.investopedia.com/terms/c/charitabledonation.asp), equipment for the disabled, [prescription medications](https://www.investopedia.com/terms/d/drug.asp), water, and sewage services, books and other printed publications, and children's clothing.
+In countries that use [[value-added tax]](https://www.investopedia.com/terms/v/valueaddedtax.asp) (VAT), zero-rated goods are products that are exempt from that value taxation. Examples of items that may be zero-rated include certain foods and beverages, [[exported goods]](https://www.investopedia.com/terms/e/export.asp), [[donated goods sold by charity shops]](https://www.investopedia.com/terms/c/charitabledonation.asp), equipment for the disabled, [[prescription medications]](https://www.investopedia.com/terms/d/drug.asp), water, and sewage services, books and other printed publications, and children's clothing.
 
 ## Zero-Rated Goods Explained
 
-In most countries, the government mandates a domestic VAT requirement for goods and services. In most reported data, the total price of products sold in a country includes the VAT and is an additional charge to [sales tax](https://www.investopedia.com/terms/s/salestax.asp) in most transactions. The VAT is a form of consumption tax.
+In most countries, the government mandates a domestic VAT requirement for goods and services. In most reported data, the total price of products sold in a country includes the VAT and is an additional charge to [[sales tax]](https://www.investopedia.com/terms/s/salestax.asp) in most transactions. The VAT is a form of consumption tax.
 
 ## Designation of Zero-Rated Goods
 
-Countries using VAT designate certain goods as zero-rated goods. Zero-rated goods are typically individualized items. Countries designate these products as zero-rated because they are leading contributors to other manufactured goods and a significant component of a broader [supply chain](https://www.investopedia.com/terms/s/supplychain.asp). Also, many food items are identified as zero-rated goods and sell with 0% VAT.
+Countries using VAT designate certain goods as zero-rated goods. Zero-rated goods are typically individualized items. Countries designate these products as zero-rated because they are leading contributors to other manufactured goods and a significant component of a broader [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp). Also, many food items are identified as zero-rated goods and sell with 0% VAT.
 
 In many cases, buyers use zero-rated goods in production and benefit from paying a lower price for the goods without the tax. A food manufacturer may use zero-rated goods in the manufacturing of a food product, but when the consumer buys the final product, it includes a VAT.
 
@@ -32,7 +32,7 @@ Overall, the absence of VAT on zero-rated goods results in a lower total purchas
 
 ## International Dealings with Zero-Rated Goods
 
-When a consumer brings a good from one country to another, either individually or via a shipment, there is generally an international VAT charge in addition to any import or export [tariffs](https://www.investopedia.com/terms/t/tariff.asp) due. Internationally designated zero-rated goods are not subject to international VAT, so the cost of importing or exporting them is lower.
+When a consumer brings a good from one country to another, either individually or via a shipment, there is generally an international VAT charge in addition to any import or export [[tariffs]](https://www.investopedia.com/terms/t/tariff.asp) due. Internationally designated zero-rated goods are not subject to international VAT, so the cost of importing or exporting them is lower.
 
 ## Exempt Goods
 

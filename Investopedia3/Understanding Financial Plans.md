@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding Financial Plans
 ## What Is a Financial Plan?
 
-A financial plan is a document containing a person's current money situation and long-term monetary goals, as well as strategies to achieve those goals. A financial plan may be created independently or with the help of a certified [financial planner](https://www.investopedia.com/terms/f/financialplanner.asp).
+A financial plan is a document containing a person's current money situation and long-term monetary goals, as well as strategies to achieve those goals. A financial plan may be created independently or with the help of a certified [[financial planner]](https://www.investopedia.com/terms/f/financialplanner.asp).
 
 In either case, it begins with a thorough evaluation of the individual's current financial state and future expectations.
 
@@ -36,10 +36,10 @@ The following steps in creating a financial plan may, of course, be completed by
 
 ### Calculating Net Worth
 
-You're about to learn your current [net worth](https://www.investopedia.com/terms/n/networth.asp). List all of the following:
+You're about to learn your current [[net worth]](https://www.investopedia.com/terms/n/networth.asp). List all of the following:
 
 -   **Your assets**: This may include a home and a car, some cash in the bank, money invested in a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) plan, and anything else you own of value.
--   **Your liabilities**: These may include credit card debt, student debt, an outstanding mortgage, and a car loan. In some cases, you may have access to a [grace period or moratorium](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-moratorium-period.asp).
+-   **Your liabilities**: These may include credit card debt, student debt, an outstanding mortgage, and a car loan. In some cases, you may have access to a [[grace period or moratorium]](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-moratorium-period.asp).
 
 Your total assets, minus your total liabilities, equals your current net worth.
 

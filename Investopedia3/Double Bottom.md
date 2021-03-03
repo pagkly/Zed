@@ -16,7 +16,7 @@ author: James Chen
 Double Bottom
 ## What is a Double Bottom?
 
-A double bottom pattern is a technical analysis charting pattern that describes a change in trend and a momentum reversal from prior leading price action. It describes the drop of a stock or index, a rebound, another drop to the same or similar level as the original drop, and finally another [rebound](https://www.investopedia.com/terms/r/rebound.asp). The double bottom looks like the letter "W". The twice-touched low is considered a support level.
+A double bottom pattern is a technical analysis charting pattern that describes a change in trend and a momentum reversal from prior leading price action. It describes the drop of a stock or index, a rebound, another drop to the same or similar level as the original drop, and finally another [[rebound]](https://www.investopedia.com/terms/r/rebound.asp). The double bottom looks like the letter "W". The twice-touched low is considered a support level.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A double bottom pattern is a technical analysis charting pattern that describes 
 
 ## What Does a Double Bottom Tell You?
 
-Most [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) believe that the advance of the first bottom should be a drop of 10 to 20%. The second bottom should form within 3 to 4% points of the previous low, and volume on the ensuing advance should increase.
+Most [[technical analysts]](https://www.investopedia.com/terms/t/technical-analyst.asp) believe that the advance of the first bottom should be a drop of 10 to 20%. The second bottom should form within 3 to 4% points of the previous low, and volume on the ensuing advance should increase.
 
 As with many chart patterns, a double bottom pattern is best suited for analyzing the intermediate- to longer-term view of a market. Generally speaking, the longer the duration between the two lows in the pattern, the greater the probability that the chart pattern will be successful. At least a three-month duration is considered appropriate for the lows of the double bottom pattern, in order for the pattern to yield a greater probability of success. It is, therefore, better to use daily or weekly data price charts when analyzing markets for this particular pattern. Although the pattern may appear on intraday price charts, it is very difficult to ascertain the validity of the double bottom pattern when intraday data price charts are used.
 

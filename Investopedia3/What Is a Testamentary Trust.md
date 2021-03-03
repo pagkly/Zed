@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is a Testamentary Trust?
 ## What Is a Testamentary Trust?
 
-A testamentary trust is a trust that is established in accordance with the instructions contained in a [last will and testament](https://www.investopedia.com/terms/l/last-will-and-testament.asp). A will could have more than one testamentary trust. The trustee named is responsible for managing and distributing the trustor's assets to the beneficiaries as directed in the will.
+A testamentary trust is a trust that is established in accordance with the instructions contained in a [[last will and testament]](https://www.investopedia.com/terms/l/last-will-and-testament.asp). A will could have more than one testamentary trust. The trustee named is responsible for managing and distributing the trustor's assets to the beneficiaries as directed in the will.
 
 Sometimes called a will trust, the testamentary trust is irrevocable.
 
@@ -28,7 +28,7 @@ Sometimes called a will trust, the testamentary trust is irrevocable.
 
 ## Understanding the Testamentary Trust
 
-A testamentary trust is created to manage the assets of the deceased on behalf of the [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp). It is also used as a way of reducing estate tax liabilities and ensuring professional management of the assets of the deceased.
+A testamentary trust is created to manage the assets of the deceased on behalf of the [[beneficiaries]](https://www.investopedia.com/terms/b/beneficiary.asp). It is also used as a way of reducing estate tax liabilities and ensuring professional management of the assets of the deceased.
 
 The trust may, for example, direct that the assets may be accessed by a child of the deceased for educational expenses until the child reaches the age of 25, at which time the balance will be paid out.
 
@@ -40,10 +40,10 @@ A testamentary trust usually involves three parties: The grantor or trustor who 
 
 A trustor has the option of setting up a living trust or a testamentary trust. A living trust, as the name implies, goes into effect during the trustor’s lifetime. A testamentary trust goes into effect immediately upon the death of the trustor.
 
-The testamentary trust is a provision in the will that both names the [executor of the estate](https://www.investopedia.com/terms/e/executor.asp) and instructs that person to create the trust. After the person's death, the will must go through the probate process to determine its authenticity. The trust then goes into effect, and the executor transfers the property into the testamentary trust.
+The testamentary trust is a provision in the will that both names the [[executor of the estate]](https://www.investopedia.com/terms/e/executor.asp) and instructs that person to create the trust. After the person's death, the will must go through the probate process to determine its authenticity. The trust then goes into effect, and the executor transfers the property into the testamentary trust.
 
 A testamentary trust remains in effect until a triggering event named in the will, such as a surviving child reaching the age of 21.
 
-Once a testamentary trust is in place, the trustee manages the assets until the trust expires and the beneficiary receives control of them. The trust's expiration date is usually tied to a specific event, such as the beneficiary reaching a certain age or graduating from college. Until the trust expires, the [probate court](https://www.investopedia.com/terms/p/probate-court.asp) checks in periodically to ensure that the trust is managed properly.
+Once a testamentary trust is in place, the trustee manages the assets until the trust expires and the beneficiary receives control of them. The trust's expiration date is usually tied to a specific event, such as the beneficiary reaching a certain age or graduating from college. Until the trust expires, the [[probate court]](https://www.investopedia.com/terms/p/probate-court.asp) checks in periodically to ensure that the trust is managed properly.
 
 The trustor can choose anyone to act as a trustee. However, the trustee appointed is not obligated to take on this role and may decline the request. If this happens, the court may appoint a trustee or a relative or friend of the beneficiaries involved may volunteer to act as the trustee.

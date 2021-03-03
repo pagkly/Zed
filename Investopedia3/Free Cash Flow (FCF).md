@@ -16,11 +16,11 @@ author: Jason Fernando
 Free Cash Flow (FCF)
 ## What is Free Cash Flow (FCF)?
 
-Free cash flow (FCF) represents the cash a company generates after accounting for cash outflows to support operations and maintain its [capital assets](https://www.investopedia.com/terms/c/capitalasset.asp). Unlike [earnings](https://www.investopedia.com/terms/e/earnings.asp) or [net income](https://www.investopedia.com/terms/n/netincome.asp), free cash flow is a measure of profitability that excludes the non-cash expenses of the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) and includes spending on equipment and assets as well as changes in [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) from the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp).
+Free cash flow (FCF) represents the cash a company generates after accounting for cash outflows to support operations and maintain its [[capital assets]](https://www.investopedia.com/terms/c/capitalasset.asp). Unlike [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) or [[net income]](https://www.investopedia.com/terms/n/netincome.asp), free cash flow is a measure of profitability that excludes the non-cash expenses of the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) and includes spending on equipment and assets as well as changes in [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) from the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp).
 
 Interest payments are excluded from the generally accepted definition of free cash flow. Investment bankers and analysts who need to evaluate a company’s expected performance with different capital structures will use variations of free cash flow like [free cash flow for the firm](https://www.investopedia.com/terms/f/freecashflowfirm.asp) and [free cash flow to equity](https://www.investopedia.com/terms/f/freecashflowtoequity.asp), which are adjusted for interest payments and borrowings.
 
-Similar to sales and earnings, free cash flow is often evaluated on a per share basis to evaluate the effect of [dilution](https://www.investopedia.com/terms/d/dilution.asp).
+Similar to sales and earnings, free cash flow is often evaluated on a per share basis to evaluate the effect of [[dilution]](https://www.investopedia.com/terms/d/dilution.asp).
 
 ### Key Takeaways
 
@@ -32,19 +32,19 @@ Similar to sales and earnings, free cash flow is often evaluated on a per share 
 
 ## Understanding Free Cash Flow (FCF)
 
-Free cash flow (FCF) is the cash flow available for the company to repay creditors or pay dividends and interest to investors. Some investors prefer FCF or FCF per share over earnings or [earnings per share](https://www.investopedia.com/terms/e/eps.asp) as a measure of profitability because it removes non-cash items from the income statement. However, because FCF accounts for investments in [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp), it can be lumpy and uneven over time.
+Free cash flow (FCF) is the cash flow available for the company to repay creditors or pay dividends and interest to investors. Some investors prefer FCF or FCF per share over earnings or [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) as a measure of profitability because it removes non-cash items from the income statement. However, because FCF accounts for investments in [[property, plant, and equipment]](https://www.investopedia.com/terms/p/ppe.asp), it can be lumpy and uneven over time.
 
 ### Benefits of Free Cash Flow (FCF)
 
-Because FCF accounts for changes in working capital, [it can provide important insights](https://www.investopedia.com/articles/fundamental-analysis/11/present-value-free-cash-flow.asp) into the value of a company and the health of its fundamental trends. For example, a decrease in [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp) (outflow) could mean that vendors are requiring faster payment. A decrease in [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp) (inflow) could mean the company is collecting cash from its customers quicker. An increase in inventory (outflow) could indicate a building stockpile of unsold products. Including working capital in a measure of profitability provides an insight that is missing from the income statement.
+Because FCF accounts for changes in working capital, [[it can provide important insights]](https://www.investopedia.com/articles/fundamental-analysis/11/present-value-free-cash-flow.asp) into the value of a company and the health of its fundamental trends. For example, a decrease in [[accounts payable]](https://www.investopedia.com/terms/a/accountspayable.asp) (outflow) could mean that vendors are requiring faster payment. A decrease in [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp) (inflow) could mean the company is collecting cash from its customers quicker. An increase in inventory (outflow) could indicate a building stockpile of unsold products. Including working capital in a measure of profitability provides an insight that is missing from the income statement.
 
 For example, assume that a company had made $50,000,000 per year in net income each year for the last decade. On the surface, that seems stable but what if FCF has been dropping over the last two years as inventories were rising (outflow), customers started to delay payments (outflow) and vendors began demanding faster payments (outflow) from the firm? In this situation, FCF would reveal a serious financial weakness that wouldn’t have been apparent from an examination of the income statement alone.
 
-FCF is also helpful as the starting place for potential shareholders or lenders to evaluate how likely the company will be able to pay their expected [dividends](https://www.investopedia.com/terms/d/dividend.asp) or interest. If the company’s debt payments are deducted from FCF (Free Cash Flow to the Firm), a lender would have a better idea of the quality of cash flows available for additional borrowings. Similarly, shareholders can use FCF minus interest payments to think about the expected stability of future dividend payments.
+FCF is also helpful as the starting place for potential shareholders or lenders to evaluate how likely the company will be able to pay their expected [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) or interest. If the company’s debt payments are deducted from FCF (Free Cash Flow to the Firm), a lender would have a better idea of the quality of cash flows available for additional borrowings. Similarly, shareholders can use FCF minus interest payments to think about the expected stability of future dividend payments.
 
 ### Limitations of Free Cash Flow (FCF)
 
-Imagine a company has earnings before depreciation, amortization, interest, and taxes ([EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)) of $1,000,000 in a given year. Also, assume that this company has had no changes in working capital (current assets – current liabilities) but they bought new equipment worth $800,000 at the end of the year. The expense of the new equipment will be spread out over time via [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) on the income statement, which evens out the impact on earnings.
+Imagine a company has earnings before depreciation, amortization, interest, and taxes ([EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)) of $1,000,000 in a given year. Also, assume that this company has had no changes in working capital (current assets – current liabilities) but they bought new equipment worth $800,000 at the end of the year. The expense of the new equipment will be spread out over time via [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) on the income statement, which evens out the impact on earnings.
 
 However, because FCF accounts for the cash spent on new equipment in the current year, the company will report $200,000 FCF ($1,000,000 EBITDA - $800,000 Equipment) on $1,000,000 of EBITDA that year. If we assume that everything else remains the same and there are no further equipment purchases, EBITDA and FCF will be equal again the next year. In this situation, an investor will have to determine why FCF dipped so quickly one year only to return to previous levels, and if that change is likely to continue.
 
@@ -52,7 +52,7 @@ Additionally, understanding the depreciation method being used will garner furth
 
 ## Calculating Free Cash Flow (FCF)
 
-FCF can be calculated by starting with [Cash Flows from Operating Activities](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) on the [Statement of Cash Flows](https://www.investopedia.com/terms/c/cashflowstatement.asp) because this number will have already adjusted earnings for non-cash expenses and changes in working capital.
+FCF can be calculated by starting with [[Cash Flows from Operating Activities]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) on the [[Statement of Cash Flows]](https://www.investopedia.com/terms/c/cashflowstatement.asp) because this number will have already adjusted earnings for non-cash expenses and changes in working capital.
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -72,9 +72,9 @@ Fortunately, most financial websites will provide a summary of FCF or a graph of
 
 Using the trend of FCF can help you simplify your analysis.
 
-A concept we can borrow from [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) is to focus on the trend over time of fundamental performance rather than the absolute values of FCF, earnings, or revenue. Essentially, if stock prices are a function of the underlying [fundamentals](https://www.investopedia.com/terms/f/fundamentals.asp), then a positive FCF trend should be correlated with positive stock price trends on average.
+A concept we can borrow from [[technical analysts]](https://www.investopedia.com/terms/t/technical-analyst.asp) is to focus on the trend over time of fundamental performance rather than the absolute values of FCF, earnings, or revenue. Essentially, if stock prices are a function of the underlying [[fundamentals]](https://www.investopedia.com/terms/f/fundamentals.asp), then a positive FCF trend should be correlated with positive stock price trends on average.
 
-A common approach is to use the stability of FCF trends as a measure of risk. If the trend of FCF is stable over the last four to five years, then [bullish](https://www.investopedia.com/terms/b/bull.asp) trends in the stock are less likely to be disrupted in the future. However, falling FCF trends, especially FCF trends that are very different compared to earnings and sales trends, indicate a higher likelihood of negative price performance in the future.
+A common approach is to use the stability of FCF trends as a measure of risk. If the trend of FCF is stable over the last four to five years, then [[bullish]](https://www.investopedia.com/terms/b/bull.asp) trends in the stock are less likely to be disrupted in the future. However, falling FCF trends, especially FCF trends that are very different compared to earnings and sales trends, indicate a higher likelihood of negative price performance in the future.
 
 This approach ignores the absolute value of FCF to focus on the slope of FCF and its relationship to price performance.
 

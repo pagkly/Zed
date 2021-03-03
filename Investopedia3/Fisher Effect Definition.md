@@ -16,13 +16,13 @@ author: Adam Hayes
 Fisher Effect Definition
 ## What Is the Fisher Effect?
 
-The Fisher Effect is an economic theory created by economist Irving Fisher that describes the relationship between inflation and both real and nominal interest rates. The Fisher Effect states that the [real interest rate](https://www.investopedia.com/terms/r/realinterestrate.asp) equals the [nominal interest rate](https://www.investopedia.com/terms/n/nominalinterestrate.asp) minus the expected inflation rate. Therefore, real interest rates fall as inflation increases, unless nominal rates increase at the same rate as inflation.
+The Fisher Effect is an economic theory created by economist Irving Fisher that describes the relationship between inflation and both real and nominal interest rates. The Fisher Effect states that the [[real interest rate]](https://www.investopedia.com/terms/r/realinterestrate.asp) equals the [[nominal interest rate]](https://www.investopedia.com/terms/n/nominalinterestrate.asp) minus the expected inflation rate. Therefore, real interest rates fall as inflation increases, unless nominal rates increase at the same rate as inflation.
 
 ## The Basics Of the Fisher Effect
 
 Fisher's equation reflects that the real interest rate can be taken by subtracting the expected inflation rate from the nominal interest rate. In this equation, all the provided rates are compounded.
 
-The Fisher Effect can be seen each time you go to the bank; the interest rate an investor has on a savings account is really the nominal interest rate. For example, if the nominal interest rate on a savings account is 4% and the expected [rate of inflation](https://www.investopedia.com/video/play/what-is-inflation/) is 3%, then the money in the savings account is really growing at 1%. The smaller the real interest rate, the longer it will take for savings deposits to grow substantially when observed from a purchasing power perspective.
+The Fisher Effect can be seen each time you go to the bank; the interest rate an investor has on a savings account is really the nominal interest rate. For example, if the nominal interest rate on a savings account is 4% and the expected [[rate of inflation]](https://www.investopedia.com/video/play/what-is-inflation/) is 3%, then the money in the savings account is really growing at 1%. The smaller the real interest rate, the longer it will take for savings deposits to grow substantially when observed from a purchasing power perspective.
 
 ### Key Takeaways
 

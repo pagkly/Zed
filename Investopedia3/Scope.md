@@ -16,7 +16,7 @@ author: Mitchell Grant
 Scope
 ## What Is Scope?
 
-Scope refers to the combined objectives and requirements needed to complete a project. The term is often used in project management. Properly defining the scope of a project allows managers to estimate costs and the time required to finish the project. That's what makes scope management such an important part of business—it saves both time and money. There are generally two different types of scope in [project management](https://www.investopedia.com/articles/wealth-management/021616/project-manager-job-description-average-salary.asp). These are project and product scope.
+Scope refers to the combined objectives and requirements needed to complete a project. The term is often used in project management. Properly defining the scope of a project allows managers to estimate costs and the time required to finish the project. That's what makes scope management such an important part of business—it saves both time and money. There are generally two different types of scope in [[project management]](https://www.investopedia.com/articles/wealth-management/021616/project-manager-job-description-average-salary.asp). These are project and product scope.
 
 ### Key Takeaways
 
@@ -45,9 +45,9 @@ Product scope focuses on the result or the actual offering. This is the final p
 
 ### Project Scope
 
-Conversely, the project scope encompasses all the work needed to deliver a product or service. In short, the project scope describes how the mission will be accomplished. It includes identifying and documenting the project's goals, deliverables, tasks, project members, deadlines, and milestones. Documentation consists of the scope statement, statement of work, and a [breakdown](https://www.investopedia.com/terms/b/breakdown.asp) of the work structure. 
+Conversely, the project scope encompasses all the work needed to deliver a product or service. In short, the project scope describes how the mission will be accomplished. It includes identifying and documenting the project's goals, deliverables, tasks, project members, deadlines, and milestones. Documentation consists of the scope statement, statement of work, and a [[breakdown]](https://www.investopedia.com/terms/b/breakdown.asp) of the work structure. 
 
-The project scope also outlines the project's limits by specifying what is not included within the scope of the plan. It can incorporate information about the project's [budget](https://www.investopedia.com/articles/pf/06/budgeting.asp) or available resources. Information regarding the project schedule, as well as the assignment of tasks may also be included in the project scope. Workgroups will often be assigned listing the internal or external personnel who will be involved with the project.
+The project scope also outlines the project's limits by specifying what is not included within the scope of the plan. It can incorporate information about the project's [[budget]](https://www.investopedia.com/articles/pf/06/budgeting.asp) or available resources. Information regarding the project schedule, as well as the assignment of tasks may also be included in the project scope. Workgroups will often be assigned listing the internal or external personnel who will be involved with the project.
 
 ## Special Considerations
 

@@ -16,9 +16,9 @@ author: Adam Hayes
 Overcast
 ## What Is an Overcast?
 
-An overcast is a type of [forecasting](https://www.investopedia.com/terms/f/forecasting.asp) error that occurs when an estimated metric, such as future cash flows, performance levels, or production, is forecast too high. Overcasting thus is when the estimated value turns out to be above the realized or actual value.
+An overcast is a type of [[forecasting]](https://www.investopedia.com/terms/f/forecasting.asp) error that occurs when an estimated metric, such as future cash flows, performance levels, or production, is forecast too high. Overcasting thus is when the estimated value turns out to be above the realized or actual value.
 
-Overcasting can be contrasted with [undercasting](https://www.investopedia.com/terms/u/undercast.asp), which is when a forecast is made too low.
+Overcasting can be contrasted with [[undercasting]](https://www.investopedia.com/terms/u/undercast.asp), which is when a forecast is made too low.
 
 ### Key Takeaways
 

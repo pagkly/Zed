@@ -18,8 +18,8 @@ Passive Foreign Investment Company—PFIC
 
 A passive foreign investment company (PFIC) is a corporation, located abroad, which exhibits either one of two conditions, based on either income or assets:
 
-1.  At least 75% of the corporation's gross income is "passive"—that is, derived [investments](https://www.investopedia.com/terms/i/investment.asp) or other sources not related to regular business operations.
-2.  At least 50% of the company's assets are investments, which produce income in the form of earned interest, [dividends](https://www.investopedia.com/terms/d/dividend.asp), or capital gains.1
+1.  At least 75% of the corporation's gross income is "passive"—that is, derived [[investments]](https://www.investopedia.com/terms/i/investment.asp) or other sources not related to regular business operations.
+2.  At least 50% of the company's assets are investments, which produce income in the form of earned interest, [[dividends]](https://www.investopedia.com/terms/d/dividend.asp), or capital gains.1
 
 ### Key Takeaways
 
@@ -29,17 +29,17 @@ A passive foreign investment company (PFIC) is a corporation, located abroad, wh
 
 ## Understanding a Passive Foreign Investment Company—PFIC
 
-PFICs first became recognized through tax reforms passed in 1986.3 The changes were designed to close a tax [loophole](https://www.investopedia.com/terms/l/loophole.asp), which some U.S. taxpayers were using to shelter offshore investments from taxation. The instituted tax reforms not only sought to close this tax avoidance loophole and bring such investments under U.S. taxation but also to tax such investments at high rates, to discourage taxpayers from following this practice.
+PFICs first became recognized through tax reforms passed in 1986.3 The changes were designed to close a tax [[loophole]](https://www.investopedia.com/terms/l/loophole.asp), which some U.S. taxpayers were using to shelter offshore investments from taxation. The instituted tax reforms not only sought to close this tax avoidance loophole and bring such investments under U.S. taxation but also to tax such investments at high rates, to discourage taxpayers from following this practice.
 
 Typical examples of PFICs include foreign-based mutual funds and startups that exist within the scope of the PFIC definition. Foreign mutual funds typically are considered PFICs if they are foreign corporations that generate more than 75% of their income from passive sources, such as capital gains and dividends.1
 
-Investments designated as PFICs are subject to strict and extremely complicated tax guidelines by the Internal Revenue Service, delineated in Sections 1291 through 1298 of the U.S. income [tax code](https://www.investopedia.com/terms/t/tax-code.asp).4 The PFIC itself, as well as shareholders, is required to maintain accurate records of all transactions related to the PFIC, such as share cost basis, any dividends received, and undistributed income that the PFIC may earn.
+Investments designated as PFICs are subject to strict and extremely complicated tax guidelines by the Internal Revenue Service, delineated in Sections 1291 through 1298 of the U.S. income [[tax code]](https://www.investopedia.com/terms/t/tax-code.asp).4 The PFIC itself, as well as shareholders, is required to maintain accurate records of all transactions related to the PFIC, such as share cost basis, any dividends received, and undistributed income that the PFIC may earn.
 
 The guidelines concerning cost basis provide an example of the strict tax treatment applied to shares in a PFIC. With virtually any other marketable security or another asset, a person who inherits shares is allowed by the IRS to step up the cost basis for the shares to the fair market value at the time of the inheritance. However, the step up in cost basis is not typically allowed in the case of shares in a PFIC. Additionally, determining the acceptable cost basis for shares in a PFIC is often a challenging and confusing process.5
 
 ## PFICs and Tax Strategies
 
-U.S. investors who own shares of a PFIC must file [IRS Form 8621](https://www.irs.gov/pub/irs-pdf/i8621.pdf). This form is used to report actual distributions and gains, along with income and increases in QEF elections. The tax form 8621 is a lengthy, complicated form that the IRS itself estimates may take more than 40 hours to fill out.6 For this reason, PFIC investors are generally advised to have a tax professional handle completion of the form.
+U.S. investors who own shares of a PFIC must file [[IRS Form 8621]](https://www.irs.gov/pub/irs-pdf/i8621.pdf). This form is used to report actual distributions and gains, along with income and increases in QEF elections. The tax form 8621 is a lengthy, complicated form that the IRS itself estimates may take more than 40 hours to fill out.6 For this reason, PFIC investors are generally advised to have a tax professional handle completion of the form.
 
 In a year where there is no income to report, they do not need to worry about specific tax penalties. However, failure to register may render a whole tax return incomplete.
 
@@ -51,4 +51,4 @@ U.S. investors who own shares of a PFIC acquired before 1997 are not subject to
 
 PFIC rules were modified by the 2017 Tax Cuts and Jobs Act (TCJA). The changes involved an exception relating to the insurance industry. For tax years beginning after December 31, 2017, the PFIC insurance exception provides that a foreign corporation’s income attributable to an insurance business will not be considered passive income—unless the applicable insurance liabilities constitute more than 25% of its total assets as reported on the corporation’s applicable financial statement.8
 
-In December 2018, the IRS and the U.S. Treasury Department proposed changes to the guidelines of taxing PFICs. If approved, the new regulation will reduce some of the existing rules from the [Foreign Account Tax Compliance Act (FATCA)](https://www.investopedia.com/terms/f/foreign-account-tax-compliance-act-fatca.asp) and will more precisely define an investment entity.9 More proposed changes were released in July 2019, seeking to clarify the above insurance exception.10
+In December 2018, the IRS and the U.S. Treasury Department proposed changes to the guidelines of taxing PFICs. If approved, the new regulation will reduce some of the existing rules from the [[Foreign Account Tax Compliance Act (FATCA)]](https://www.investopedia.com/terms/f/foreign-account-tax-compliance-act-fatca.asp) and will more precisely define an investment entity.9 More proposed changes were released in July 2019, seeking to clarify the above insurance exception.10

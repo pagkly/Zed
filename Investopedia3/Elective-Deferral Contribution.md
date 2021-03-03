@@ -18,7 +18,7 @@ Elective-Deferral Contribution
 
 An elective-deferral contribution is made directly from an employee's salary to his or her employer-sponsored retirement plan such as a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) or [403(b)](https://www.investopedia.com/terms/1/403bplan.asp) plan. The employee must authorize the transaction before the contribution can be deducted.
 
-Elective-deferrals can be made on a pre-tax or after-tax basis if an employer allows. The [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) establishes limits on how much an employee can defer or contribute to a [qualified retirement plan](https://www.investopedia.com/terms/q/qrp.asp). An elective-deferral contribution is also known as a "salary-deferral" or "salary-reduction" contribution.
+Elective-deferrals can be made on a pre-tax or after-tax basis if an employer allows. The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) establishes limits on how much an employee can defer or contribute to a [[qualified retirement plan]](https://www.investopedia.com/terms/q/qrp.asp). An elective-deferral contribution is also known as a "salary-deferral" or "salary-reduction" contribution.
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ Elective-deferral contributions made into traditional 401(k) plans are made on a
 
 Since there's a tax-deduction upfront, any withdrawals or distributions in retirement are taxed at the income tax rate for the retiree at that time. However, several restrictions apply as to when and under what circumstances an employee can make withdrawals from an employer-sponsored retirement plan. For example, an additional 10% penalty tax may apply if an individual makes a withdrawal before age 59½—assuming the employee meets the conditions that allow him or her to take an early distribution. Furthermore, state and local taxes may be assessed for early withdrawals.1
 
-Some employers will allow workers to contribute toward [Roth 401(k)](https://www.investopedia.com/terms/r/roth401k.asp) plans. Contributions made to these plans are made on an after-tax basis. After tax-basis means the funds are taxed before they were deposited into the [retirement plan](https://www.investopedia.com/retirement-planning-4689695). Since there's no pre-tax benefit with Roth 401(k)s, employees can withdraw deferrals tax-free as long as they're over the age of 59½.
+Some employers will allow workers to contribute toward [[Roth 401(k)]](https://www.investopedia.com/terms/r/roth401k.asp) plans. Contributions made to these plans are made on an after-tax basis. After tax-basis means the funds are taxed before they were deposited into the [[retirement plan]](https://www.investopedia.com/retirement-planning-4689695). Since there's no pre-tax benefit with Roth 401(k)s, employees can withdraw deferrals tax-free as long as they're over the age of 59½.
 
 ## Elective-Deferral Contribution Limits
 
@@ -47,7 +47,7 @@ IRS rules also apply if you have multiple 401(k) accounts. Say a person under ag
 
 ### Employee and Employer Total Contribution Limit
 
-The rules stated earlier apply only to elective-deferral contributions. They do not apply to the [matching contributions](https://www.investopedia.com/terms/m/matchingcontribution.asp) from an employer, [non-elective employee contributions](https://www.investopedia.com/terms/n/non-electivecontribution.asp), or any allocations of forfeitures. The IRS limits the total amount that can be contributed to an employee's retirement plan from all sources, including the employer's matching and the employee's contributions.
+The rules stated earlier apply only to elective-deferral contributions. They do not apply to the [[matching contributions]](https://www.investopedia.com/terms/m/matchingcontribution.asp) from an employer, [[non-elective employee contributions]](https://www.investopedia.com/terms/n/non-electivecontribution.asp), or any allocations of forfeitures. The IRS limits the total amount that can be contributed to an employee's retirement plan from all sources, including the employer's matching and the employee's contributions.
 
 The total contributions to an employee's retirement plan from both the employee and employer cannot exceed the lesser of:
 

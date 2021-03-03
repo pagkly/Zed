@@ -16,7 +16,7 @@ author: Will Kenton
 How the Trimmed Mean Is Used
 ## What Is a Trimmed Mean?
 
-A trimmed [mean](https://www.investopedia.com/terms/m/mean.asp) (similar to an [adjusted mean](https://www.investopedia.com/terms/a/adjusted-mean.asp)) is a method of averaging that removes a small designated percentage of the largest and smallest values before calculating the mean. After removing the specified outlier observations, the trimmed mean is found using a standard arithmetic averaging formula. The use of a trimmed mean helps eliminate the influence of outliers or data points on the tails that may unfairly affect [the traditional mean](https://www.investopedia.com/terms/a/arithmeticmean.asp).
+A trimmed [[mean]](https://www.investopedia.com/terms/m/mean.asp) (similar to an [[adjusted mean]](https://www.investopedia.com/terms/a/adjusted-mean.asp)) is a method of averaging that removes a small designated percentage of the largest and smallest values before calculating the mean. After removing the specified outlier observations, the trimmed mean is found using a standard arithmetic averaging formula. The use of a trimmed mean helps eliminate the influence of outliers or data points on the tails that may unfairly affect [[the traditional mean]](https://www.investopedia.com/terms/a/arithmeticmean.asp).
 
 Trimmed means are used in reporting economic data in order to smooth the results and paint a more realistic picture.
 
@@ -29,13 +29,13 @@ Trimmed means are used in reporting economic data in order to smooth the results
 
 ## Understanding a Trimmed Mean
 
-A mean is a mathematical average of two or more numbers while the trimmed mean helps to reduce the effects of outliers on the calculated average. The trimmed mean is best suited for data with large, erratic deviations or extremely skewed [distributions](https://www.investopedia.com/terms/d/distribution.asp).
+A mean is a mathematical average of two or more numbers while the trimmed mean helps to reduce the effects of outliers on the calculated average. The trimmed mean is best suited for data with large, erratic deviations or extremely skewed [[distributions]](https://www.investopedia.com/terms/d/distribution.asp).
 
 A trimmed mean is stated as a mean trimmed by x%, where x is the sum of the percentage of observations removed from both the upper and lower bounds. The trimming points are often arbitrary in that they follow rules of thumb rather than some optimized method of setting those thresholds. A trimmed mean is also known as a truncated mean.
 
 ## Trimmed Means and Inflation Rates
 
-A trimmed mean may be used in place of a traditional mean when determining inflation rates from the [Consumer Price Index](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) or [personal consumption expenditures](https://www.investopedia.com/terms/p/pce.asp) (PCE).1 2 The CPI and the PCE price index measure the prices of baskets of goods in an economy to help identify inflation–or rising price trends.
+A trimmed mean may be used in place of a traditional mean when determining inflation rates from the [[Consumer Price Index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) or [[personal consumption expenditures]](https://www.investopedia.com/terms/p/pce.asp) (PCE).1 2 The CPI and the PCE price index measure the prices of baskets of goods in an economy to help identify inflation–or rising price trends.
 
 The levels that are trimmed from each tail may not be equitable, as these values are instead based on historical data to reach the best fit between the trimmed mean inflation rate and the inflation rate’s core.
 

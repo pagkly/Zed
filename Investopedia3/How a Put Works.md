@@ -16,7 +16,7 @@ author: Rajeev Dhir
 How a Put Works
 ## What Is a Put?
 
-A put is an options contract that gives the owner the right, but not the obligation, to [sell](https://www.investopedia.com/terms/b/bullverticalspread.asp) a certain amount of the [underlying asset,](https://www.investopedia.com/terms/u/underlying-asset.asp) at a set price within a specific time. The buyer of a put option believes that the underlying stock will drop below the [exercise price](https://www.investopedia.com/terms/e/exerciseprice.asp) before the expiration date. The exercise price is the price that the underlying asset must reach for the put option contract to hold value.
+A put is an options contract that gives the owner the right, but not the obligation, to [[sell]](https://www.investopedia.com/terms/b/bullverticalspread.asp) a certain amount of the [[underlying asset,]](https://www.investopedia.com/terms/u/underlying-asset.asp) at a set price within a specific time. The buyer of a put option believes that the underlying stock will drop below the [[exercise price]](https://www.investopedia.com/terms/e/exerciseprice.asp) before the expiration date. The exercise price is the price that the underlying asset must reach for the put option contract to hold value.
 
 A put can be contrasted with a [call option](https://www.investopedia.com/terms/c/calloption.asp), which gives the holder to buy the underlying at a specified price on or before expiration.
 
@@ -28,7 +28,7 @@ A put can be contrasted with a [call option](https://www.investopedia.com/terms
 
 ## The Basics of Put Options
 
-Puts are traded on various underlying assets, which can include stocks, currencies, commodities, and indexes. The buyer of a put option may sell, or [exercise](https://www.investopedia.com/terms/e/exercise.asp), the underlying asset at a specified [strike price](https://www.investopedia.com/terms/s/strikeprice.asp).
+Puts are traded on various underlying assets, which can include stocks, currencies, commodities, and indexes. The buyer of a put option may sell, or [[exercise]](https://www.investopedia.com/terms/e/exercise.asp), the underlying asset at a specified [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp).
 
 Put options are traded on various underlying assets, including stocks, currencies, bonds, commodities, futures, and indexes. They are key to understanding when choosing whether to perform [a straddle or a strangle](https://www.investopedia.com/ask/answers/05/052805.asp).
 
@@ -50,14 +50,14 @@ Image by Julie Bang © Investopedia 2019
 
 A call option gives the holder the right, but not the obligation, to buy a stock at a certain price in the future. When an investor buys a call, she expects the value of the underlying asset to go up.
 
-A put option gives the holder the right, but not the obligation, to sell a stock at a certain price in the future. When an investor purchases a put, she expects the underlying asset to decline in price; she may sell the option and gain a profit. An investor can also [write](https://www.investopedia.com/terms/w/writing-an-option.asp) a put option for another investor to buy, in which case, she would not expect the stock's price to drop below the exercise price.
+A put option gives the holder the right, but not the obligation, to sell a stock at a certain price in the future. When an investor purchases a put, she expects the underlying asset to decline in price; she may sell the option and gain a profit. An investor can also [[write]](https://www.investopedia.com/terms/w/writing-an-option.asp) a put option for another investor to buy, in which case, she would not expect the stock's price to drop below the exercise price.
 
 ## Example—How Does a Put Option Work?
 
 An investor purchases one put option contract on ABC company for $100. Each option contract covers 100 shares. The exercise price of the shares is $10, and the current ABC share price is $12. This put option contract has given the investor the right, but not the obligation, to sell 100 shares of ABC at $10.
 
-If ABC shares drop to $8, the investor's put option is [in the money (ITM)](https://www.investopedia.com/terms/i/inthemoney.asp)—which means that the strike price is below the market price of the underlying asset—and she can close her option position by selling the contract on the [open market](https://www.investopedia.com/terms/o/open-market.asp).
+If ABC shares drop to $8, the investor's put option is [[in the money (ITM)]](https://www.investopedia.com/terms/i/inthemoney.asp)—which means that the strike price is below the market price of the underlying asset—and she can close her option position by selling the contract on the [[open market]](https://www.investopedia.com/terms/o/open-market.asp).
 
-On the other hand, she can purchase 100 shares of ABC at the existing [market price](https://www.investopedia.com/terms/m/market-price.asp) of $8, and then exercise her contract to sell the shares for $10. Disregarding commissions, the profit for this position is $200, or 100 x ($10 - $8). Remember that the investor paid a $100 premium for the put option, giving her the right to sell her shares at the exercise price. Factoring in this initial cost, her total profit is $200 - $100 = $100.
+On the other hand, she can purchase 100 shares of ABC at the existing [[market price]](https://www.investopedia.com/terms/m/market-price.asp) of $8, and then exercise her contract to sell the shares for $10. Disregarding commissions, the profit for this position is $200, or 100 x ($10 - $8). Remember that the investor paid a $100 premium for the put option, giving her the right to sell her shares at the exercise price. Factoring in this initial cost, her total profit is $200 - $100 = $100.
 
-As another way of working a put option as a hedge, if the investor in the previous example already owns 100 shares of ABC company, that position would be called a [married put](https://www.investopedia.com/terms/m/marriedput.asp) and could serve as a hedge against a decline in the share price.
+As another way of working a put option as a hedge, if the investor in the previous example already owns 100 shares of ABC company, that position would be called a [[married put]](https://www.investopedia.com/terms/m/marriedput.asp) and could serve as a hedge against a decline in the share price.

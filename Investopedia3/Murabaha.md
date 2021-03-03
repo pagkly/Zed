@@ -16,7 +16,7 @@ author: Julie Young
 Murabaha
 ## What Is Murabaha?
 
-Murabaha, also referred to as [cost-plus](https://www.investopedia.com/terms/c/cost-plus-contract.asp) financing, is an Islamic financing structure in which the seller and buyer agree to the cost and markup of an asset. The markup takes place of interest, which is illegal in Islamic law. As such, murabaha is not an interest-bearing loan (qardh ribawi) but is an acceptable form of credit sale under Islamic law. As with a [rent-to-own](https://www.investopedia.com/updates/rent-to-own-homes/) arrangement, the purchaser does not become the true owner until the loan is fully paid.
+Murabaha, also referred to as [[cost-plus]](https://www.investopedia.com/terms/c/cost-plus-contract.asp) financing, is an Islamic financing structure in which the seller and buyer agree to the cost and markup of an asset. The markup takes place of interest, which is illegal in Islamic law. As such, murabaha is not an interest-bearing loan (qardh ribawi) but is an acceptable form of credit sale under Islamic law. As with a [[rent-to-own]](https://www.investopedia.com/updates/rent-to-own-homes/) arrangement, the purchaser does not become the true owner until the loan is fully paid.
 
 ### Key Takeaways
 

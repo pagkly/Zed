@@ -16,7 +16,7 @@ author: Adam Hayes
 Gross-Income Test
 ## What Is the Gross-Income Test?
 
-The gross-income test is one of the five necessary tests that [dependents](https://www.investopedia.com/terms/d/dependent.asp) must pass before they can be claimed as such in the United States.
+The gross-income test is one of the five necessary tests that [[dependents]](https://www.investopedia.com/terms/d/dependent.asp) must pass before they can be claimed as such in the United States.
 
 The gross-income test mandates that dependents cannot earn more than a certain amount of income each year. Furthermore, this test only applies to potential dependents that are over the age of 18 or over the age of 23 if the candidate in question is a full-time student.1
 

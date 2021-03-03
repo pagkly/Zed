@@ -16,9 +16,9 @@ author: James Chen
 What Are Junk Bonds and How are Junk Bonds Rated?
 ## What Is a Junk Bond?
 
-Junk bonds are bonds that carry a higher risk of default than most bonds issued by corporations and governments. A bond is a debt or promise to pay investors interest payments along with the return of invested principal in exchange for buying the bond. Junk bonds represent bonds issued by companies that are financially struggling and have a high risk of [defaulting](https://www.investopedia.com/terms/d/default2.asp) or not paying their interest payments or repaying the principal to investors.
+Junk bonds are bonds that carry a higher risk of default than most bonds issued by corporations and governments. A bond is a debt or promise to pay investors interest payments along with the return of invested principal in exchange for buying the bond. Junk bonds represent bonds issued by companies that are financially struggling and have a high risk of [[defaulting]](https://www.investopedia.com/terms/d/default2.asp) or not paying their interest payments or repaying the principal to investors.
 
-Junk bonds are also called [high-yield](https://www.investopedia.com/terms/h/high_yield_bond.asp) bonds since the higher yield is needed to help offset any risk of default.
+Junk bonds are also called [[high-yield]](https://www.investopedia.com/terms/h/high_yield_bond.asp) bonds since the higher yield is needed to help offset any risk of default.
 
 ### Key Takeaways
 
@@ -58,9 +58,9 @@ Cons
 
 ## Junk Bonds as a Market Indicator
 
-Some investors buy junk bonds to profit from potential price increases as the financial security of the underlying company improves, and not necessarily for the return of interest income. Also, investors that predict bond prices to rise are betting there will be increased buying interest for high-yield bonds—even these lower rated ones—due to a change in [market risk sentiment](https://www.investopedia.com/terms/m/marketsentiment.asp). For example, if investors believe economic conditions are improving in the U.S. or abroad, they might purchase junk bonds of companies that will show improvement along with the economy.
+Some investors buy junk bonds to profit from potential price increases as the financial security of the underlying company improves, and not necessarily for the return of interest income. Also, investors that predict bond prices to rise are betting there will be increased buying interest for high-yield bonds—even these lower rated ones—due to a change in [[market risk sentiment]](https://www.investopedia.com/terms/m/marketsentiment.asp). For example, if investors believe economic conditions are improving in the U.S. or abroad, they might purchase junk bonds of companies that will show improvement along with the economy.
 
-As a result, increased buying interest of junk bonds serves as a market-risk indicator for some investors. If investors are buying junk bonds, market participants are willing to take on more risk due to a perceived improving economy. Conversely, if junk bonds are selling off with prices falling, it usually means that investors are more [risk averse](https://www.investopedia.com/terms/r/riskaverse.asp) and are opting for more secure and stable investments.
+As a result, increased buying interest of junk bonds serves as a market-risk indicator for some investors. If investors are buying junk bonds, market participants are willing to take on more risk due to a perceived improving economy. Conversely, if junk bonds are selling off with prices falling, it usually means that investors are more [[risk averse]](https://www.investopedia.com/terms/r/riskaverse.asp) and are opting for more secure and stable investments.
 
 Although a surge in junk bond investing usually translates to increased optimism in the market, it could also point to too much optimism in the market.
 
@@ -74,7 +74,7 @@ The result is bonds issued by companies with positive credit ratings usually pay
 
 ## Credit Ratings and Junk Bonds
 
-Although junk bonds are considered risky investments, investors can monitor a bond's level of risk by reviewing the bond's credit rating. A [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) is an assessment of the creditworthiness of an issuer and its outstanding debt in the form of bonds. The company's credit rating, and ultimately the bond's credit rating, impact the market price of a bond and its offering interest rate.
+Although junk bonds are considered risky investments, investors can monitor a bond's level of risk by reviewing the bond's credit rating. A [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) is an assessment of the creditworthiness of an issuer and its outstanding debt in the form of bonds. The company's credit rating, and ultimately the bond's credit rating, impact the market price of a bond and its offering interest rate.
 
 [Credit-rating agencies](https://www.investopedia.com/articles/bonds/09/history-credit-rating-agencies.asp) measure the creditworthiness of all corporate and government bonds, giving investors insight into the risks involved in the debt securities. Credit rating agencies assign letter grades for their view of the issue.
 
@@ -82,7 +82,7 @@ For example, Standard & Poor’s has a credit rating scale ranging from AAA—ex
 
 ### Investment Grade
 
-Bonds with a rating of [investment-grade](https://www.investopedia.com/terms/i/investmentgrade.asp) come from corporations that have a high probability of paying the regular coupons and returning the principal to investors. For example, Standard & Poor's ratings include:
+Bonds with a rating of [[investment-grade]](https://www.investopedia.com/terms/i/investmentgrade.asp) come from corporations that have a high probability of paying the regular coupons and returning the principal to investors. For example, Standard & Poor's ratings include:
 
 -   AAA—excellent
 -   AA—very good

@@ -34,7 +34,7 @@ TIE is also referred to as the interest coverage ratio.
 
 Obviously, no company needs to cover its debts several times over in order to survive. However, the TIE ratio is an indication of a company's relative freedom from the constraints of debt. Generating enough cash flow to continue to invest in the business is better than merely having enough money to stave off bankruptcy.
 
-A company's capitalization is the amount of money it has raised by issuing stock or debt, and those choices impact its TIE ratio. Businesses consider the [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp) for stock and debt and use that cost to make decisions.
+A company's capitalization is the amount of money it has raised by issuing stock or debt, and those choices impact its TIE ratio. Businesses consider the [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) for stock and debt and use that cost to make decisions.
 
 ### How to Calculate Times Interest Earned (TIE)
 
@@ -42,7 +42,7 @@ Assume, for example, that XYZ Company has $10 million in 4% debt outstanding and
 
 Companies that have consistent earnings, like utilities, tend to borrow more because they are good credit risks.
 
-The business decides to issue $10 million in additional debt. Its total annual interest expense will be: (4% X $10 million) + (6% X $10 million), or $1 million annually. The company's [EBIT](https://www.investopedia.com/articles/06/ebitda.asp) is $3 million.
+The business decides to issue $10 million in additional debt. Its total annual interest expense will be: (4% X $10 million) + (6% X $10 million), or $1 million annually. The company's [[EBIT]](https://www.investopedia.com/articles/06/ebitda.asp) is $3 million.
 
 This means that the TIE ratio for XYZ Company is 3, or three times the annual interest expense.
 

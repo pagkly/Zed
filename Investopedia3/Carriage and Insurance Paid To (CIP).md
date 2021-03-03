@@ -16,11 +16,11 @@ author: Will Kenton
 Carriage and Insurance Paid To (CIP)
 ## What Is Carriage and Insurance Paid To (CIP)?
 
-Carriage and Insurance Paid To (CIP) is when a seller pays [freight and insurance](https://www.investopedia.com/terms/c/cfr.asp) to deliver goods to a seller-appointed party at an agreed-upon location. The risk of damage or loss to the goods being transported transfers from the seller to the buyer as soon as the goods are delivered to the carrier or appointed person. It is comparable, but different to Cost, Insurance, and Freight ([CIF](https://www.investopedia.com/terms/c/cif.asp)).
+Carriage and Insurance Paid To (CIP) is when a seller pays [[freight and insurance]](https://www.investopedia.com/terms/c/cfr.asp) to deliver goods to a seller-appointed party at an agreed-upon location. The risk of damage or loss to the goods being transported transfers from the seller to the buyer as soon as the goods are delivered to the carrier or appointed person. It is comparable, but different to Cost, Insurance, and Freight ([CIF](https://www.investopedia.com/terms/c/cif.asp)).
 
 Under CIP, the seller is obligated to insure goods in transit for 110% of the contract value. If the buyer desires additional insurance, such extra coverage must be arranged by the buyer.
 
-Carriage and Insurance Paid To (CIP) is one of 11 [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp), a series of globally accepted commercial trade terms most recently published in 2010 by the [International Chamber of Commerce](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp).
+Carriage and Insurance Paid To (CIP) is one of 11 [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp), a series of globally accepted commercial trade terms most recently published in 2010 by the [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp).
 
 ### Key Takeaways
 

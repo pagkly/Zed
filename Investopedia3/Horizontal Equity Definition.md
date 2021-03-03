@@ -18,7 +18,7 @@ Horizontal Equity Definition
 
 Horizontal equity is an economic theory that states that individuals with similar income and assets should pay the same amount in taxes. Horizontal equity should apply to individuals considered equal regardless of the tax system in place. The more neutral a tax system is the more horizontally equitable it is considered to be.
 
-This can be contrasted with [vertical equity](https://www.investopedia.com/terms/v/vertical_equity.asp), a method of collecting income tax in which the tax rate one is subject to increases with the amount of earned income. The principle behind vertical equity is that those who have the ability to pay more taxes should contribute more than those who are not.
+This can be contrasted with [[vertical equity]](https://www.investopedia.com/terms/v/vertical_equity.asp), a method of collecting income tax in which the tax rate one is subject to increases with the amount of earned income. The principle behind vertical equity is that those who have the ability to pay more taxes should contribute more than those who are not.
 
 ## Understanding Horizontal Equity
 
@@ -38,6 +38,6 @@ Horizontal equity in healthcare refers to equity between people with the same he
 
 ## Example of Horizontal Equity
 
-For example, if two taxpayers earn $50,000, under horizontal equity, they should both be taxed at the same rate since they both have the same wealth or fall within the same income bracket. However, horizontal equity is hard to achieve in a tax system, like that of the U.S., with loopholes, [deductions](https://www.investopedia.com/terms/t/tax-deduction.asp), credits, and incentives, because the presence of any [tax break](https://www.investopedia.com/terms/t/tax-break.asp) means that similar individuals do not pay the same rate. For example, by allowing [mortgage interest payments](https://www.investopedia.com/terms/home-mortgage-interest.asp) to be deducted from income tax, governments create a difference in tax payments between two tax filers who may otherwise be considered economically similar.
+For example, if two taxpayers earn $50,000, under horizontal equity, they should both be taxed at the same rate since they both have the same wealth or fall within the same income bracket. However, horizontal equity is hard to achieve in a tax system, like that of the U.S., with loopholes, [[deductions]](https://www.investopedia.com/terms/t/tax-deduction.asp), credits, and incentives, because the presence of any [[tax break]](https://www.investopedia.com/terms/t/tax-break.asp) means that similar individuals do not pay the same rate. For example, by allowing [[mortgage interest payments]](https://www.investopedia.com/terms/home-mortgage-interest.asp) to be deducted from income tax, governments create a difference in tax payments between two tax filers who may otherwise be considered economically similar.
 
 Following our example above, if due to the mortgage interest deduction for home ownership, one of the taxpayers pays a lower amount of tax than the second taxpayer with equal income, then horizontal equity is not achieved.

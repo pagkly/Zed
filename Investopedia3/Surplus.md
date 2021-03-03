@@ -49,7 +49,7 @@ Surpluses often occur when the cost of a product is initially set too high, and 
 
 ## Results of Surplus
 
-Surplus causes a market [disequilibrium](https://www.investopedia.com/terms/d/disequilibrium.asp) in the supply and demand of a product. This imbalance means that the product cannot efficiently flow through the market. Fortunately, the cycle of surplus and shortage has a way of balancing itself out.
+Surplus causes a market [[disequilibrium]](https://www.investopedia.com/terms/d/disequilibrium.asp) in the supply and demand of a product. This imbalance means that the product cannot efficiently flow through the market. Fortunately, the cycle of surplus and shortage has a way of balancing itself out.
 
 Sometimes, to remedy this imbalance, the government will step in and implement a [price floor](https://www.investopedia.com/terms/f/floor.asp), or set a minimum price for which a good must be sold. This often results in higher price tags than consumers have been paying, thus benefiting the businesses.
 

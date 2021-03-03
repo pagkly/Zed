@@ -16,7 +16,7 @@ author: Will Kenton
 Modus Operandi
 ## What Is Modus Operandi?
 
-Modus operandi is a Latin term used in English-speaking circles to describe an individual's or group's habitual way of operating, which forms a discernible pattern. The term is primarily used when discussing [criminal behavior](https://www.investopedia.com/terms/w/white-collar-crime.asp), but it is not exclusively uttered in this context. Modus operandi can also be defined as a specific method of operation.
+Modus operandi is a Latin term used in English-speaking circles to describe an individual's or group's habitual way of operating, which forms a discernible pattern. The term is primarily used when discussing [[criminal behavior]](https://www.investopedia.com/terms/w/white-collar-crime.asp), but it is not exclusively uttered in this context. Modus operandi can also be defined as a specific method of operation.
 
 For example, military strategists refer to an enemy's modus operandi when predicting the next threatening move in an armed conflict. Synonymous with the term "operating mode," modus operandi is routinely shortened to the initials "M.O.," in both written and verbal usage.
 
@@ -33,7 +33,7 @@ Groups of people or different societies often exhibit thought patterns or behavi
 
 Individuals also often behave in the same way that they have done before, exhibiting similar patterns throughout their lifetime. Studying individuals and their decisions over time can lead one to predict an individual or business's next move.
 
-For example, [Warren Buffett](https://www.investopedia.com/articles/01/071801.asp) has stuck to a similar [investing](https://www.investopedia.com/investing-4427685) pattern his whole life, which he has made well known through speaking engagements, interviews, and books he has written. If one were to study all of this material and eventually understand Buffett's investing M.O., they would be able to guess his investing moves in certain economic conditions and perhaps apply the same strategies to their own [portfolios](https://www.investopedia.com/terms/p/portfolio.asp).
+For example, [[Warren Buffett]](https://www.investopedia.com/articles/01/071801.asp) has stuck to a similar [[investing]](https://www.investopedia.com/investing-4427685) pattern his whole life, which he has made well known through speaking engagements, interviews, and books he has written. If one were to study all of this material and eventually understand Buffett's investing M.O., they would be able to guess his investing moves in certain economic conditions and perhaps apply the same strategies to their own [[portfolios]](https://www.investopedia.com/terms/p/portfolio.asp).
 
 M.O., however, is most often attributed to criminals and crime syndicates and used to stop crime. Investigators, the FBI, and police organizations can utilize patterns in preventing crime and apprehending those that have or seek to commit it.
 
@@ -47,7 +47,7 @@ Predictive profiling's logical conclusion is the prevention of a crime. Undercov
 
 ## Examples of Modus Operandi
 
-As an example, a [Ponzi scheme](https://www.investopedia.com/terms/p/ponzischeme.asp)'s M.O. involves taking money from new investors and using it to pay off existing investors, to create the appearance that the latter group of individuals is drawing impressive returns on their capital investments.
+As an example, a [[Ponzi scheme]](https://www.investopedia.com/terms/p/ponzischeme.asp)'s M.O. involves taking money from new investors and using it to pay off existing investors, to create the appearance that the latter group of individuals is drawing impressive returns on their capital investments.
 
 A straight-A student's M.O. might be to complete homework assignments before they are due, achieve a perfect attendance record, and visit with professors weekly during their office hours.
 

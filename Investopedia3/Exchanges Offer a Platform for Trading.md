@@ -16,7 +16,7 @@ author: Will Kenton
 Exchanges Offer a Platform for Trading
 ## What Is an Exchange?
 
-An exchange is a marketplace where securities, [commodities](https://www.investopedia.com/terms/c/commodity.asp), [derivatives](https://www.investopedia.com/terms/d/derivative.asp) and other financial instruments are traded. The core function of an exchange is to ensure fair and orderly trading and the efficient dissemination of price information for any securities trading on that exchange. Exchanges give companies, governments, and other groups a platform from which to sell securities to the investing public.
+An exchange is a marketplace where securities, [[commodities]](https://www.investopedia.com/terms/c/commodity.asp), [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) and other financial instruments are traded. The core function of an exchange is to ensure fair and orderly trading and the efficient dissemination of price information for any securities trading on that exchange. Exchanges give companies, governments, and other groups a platform from which to sell securities to the investing public.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ An exchange is a marketplace where securities, [commodities](https://www.investo
 
 ## Exchanges Explained
 
-An exchange may be a physical location where traders meet to conduct business or an electronic platform. They also may be referred to as a share exchange or "_bourse,"_ depending on the geographical location. [Exchanges are located in most countries worldwide](https://www.investopedia.com/financial-edge/1212/stock-exchanges-around-the-world.aspx). The more prominent exchanges include the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp), the London Stock Exchange (LSE), and the Tokyo Stock Exchange (TSE).
+An exchange may be a physical location where traders meet to conduct business or an electronic platform. They also may be referred to as a share exchange or "_bourse,"_ depending on the geographical location. [[Exchanges are located in most countries worldwide]](https://www.investopedia.com/financial-edge/1212/stock-exchanges-around-the-world.aspx). The more prominent exchanges include the [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), the [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp), the London Stock Exchange (LSE), and the Tokyo Stock Exchange (TSE).
 
 ## Electronic Exchanges
 
@@ -38,13 +38,13 @@ This technological achievement was particularly valuable during the COVID-19 pan
 
 ## Listing Requirements
 
-Each exchange has specific [listing requirements](https://www.investopedia.com/terms/l/listingrequirements.asp) for any company or group that wishes to offer securities for trading. Some exchanges are more rigid than others, but the basic requirements for stock exchanges include regular financial reports, audited earning reports, and minimum capital requirements. For example, the NYSE has a key listing requirement that stipulates a company must have a minimum of $4 million in [shareholder’s equity](https://www.investopedia.com/terms/s/shareholdersequity.asp) (SE).
+Each exchange has specific [[listing requirements]](https://www.investopedia.com/terms/l/listingrequirements.asp) for any company or group that wishes to offer securities for trading. Some exchanges are more rigid than others, but the basic requirements for stock exchanges include regular financial reports, audited earning reports, and minimum capital requirements. For example, the NYSE has a key listing requirement that stipulates a company must have a minimum of $4 million in [[shareholder’s equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp) (SE).
 
 ## Exchanges Provide Access to Capital
 
-A stock exchange is used to raise capital for companies seeking to grow and expand their operations. The first sale of stock by a private company to the public is referred to as an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO). Companies listed on the stock exchange typically have an enhanced profile. Having more visibility may attract new customers, talented employees, and suppliers who are eager to conduct business with a prominent industry leader.
+A stock exchange is used to raise capital for companies seeking to grow and expand their operations. The first sale of stock by a private company to the public is referred to as an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO). Companies listed on the stock exchange typically have an enhanced profile. Having more visibility may attract new customers, talented employees, and suppliers who are eager to conduct business with a prominent industry leader.
 
-Private companies often rely on venture capitalists for investment, and this usually results in the loss of operational control. For example, a [seed funding](https://www.investopedia.com/terms/s/seedcapital.asp) firm may require that a representative from the funding firm hold a prominent position on the board. Alternatively, [companies listed on a stock exchange have more control and autonomy](https://www.investopedia.com/financial-edge/0712/why-companies-change-exchanges.aspx) because investors who purchase shares have limited rights.
+Private companies often rely on venture capitalists for investment, and this usually results in the loss of operational control. For example, a [[seed funding]](https://www.investopedia.com/terms/s/seedcapital.asp) firm may require that a representative from the funding firm hold a prominent position on the board. Alternatively, [[companies listed on a stock exchange have more control and autonomy]](https://www.investopedia.com/financial-edge/0712/why-companies-change-exchanges.aspx) because investors who purchase shares have limited rights.
 
 ## Real-World Example of an Exchange
 

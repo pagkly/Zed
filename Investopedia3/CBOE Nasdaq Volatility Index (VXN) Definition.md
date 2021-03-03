@@ -16,7 +16,7 @@ author: Adam Hayes
 CBOE Nasdaq Volatility Index (VXN) Definition
 ## What Is CBOE Nasdaq Volatility Index (VXN)?
 
-The CBOE Nasdaq Volatility Index (VXN) is a measure of market expectations of 30-day [volatility](https://www.investopedia.com/terms/v/volatility.asp) for the [Nasdaq 100](https://www.investopedia.com/terms/n/nasdaq100.asp) index, as implied by the prices of [options](https://www.investopedia.com/terms/o/optionscontract.asp) listed on this index. The Chicago Board Options Exchange ([CBOE](https://www.investopedia.com/terms/c/cboe.asp)) launched the VXN on January 23, 2001.1
+The CBOE Nasdaq Volatility Index (VXN) is a measure of market expectations of 30-day [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) for the [[Nasdaq 100]](https://www.investopedia.com/terms/n/nasdaq100.asp) index, as implied by the prices of [[options]](https://www.investopedia.com/terms/o/optionscontract.asp) listed on this index. The Chicago Board Options Exchange ([CBOE](https://www.investopedia.com/terms/c/cboe.asp)) launched the VXN on January 23, 2001.1
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ The CBOE Nasdaq Volatility Index (VXN) is a measure of market expectations of 30
 
 ## Understanding CBOE Nasdaq Volatility Index (VXN)
 
-The VXN index is a widely watched gauge of market sentiment and volatility for the Nasdaq-100, which includes the top 100 U.S. and international non-financial securities by market capitalization listed on the Nasdaq. The VXN is quoted in percentage terms, just like its better-known counterpart the [CBOE Volatility Index (VIX)](https://www.investopedia.com/terms/v/vix.asp), which measures 30-day implied volatility for the S&P 500 index.2
+The VXN index is a widely watched gauge of market sentiment and volatility for the Nasdaq-100, which includes the top 100 U.S. and international non-financial securities by market capitalization listed on the Nasdaq. The VXN is quoted in percentage terms, just like its better-known counterpart the [[CBOE Volatility Index (VIX)]](https://www.investopedia.com/terms/v/vix.asp), which measures 30-day implied volatility for the S&P 500 index.2
 
-The CBOE Nasdaq Volatility Index was introduced in 2001 as the [dot-com bubble](https://www.investopedia.com/terms/i/internet-bubble.asp) in technology stocks was deflating. CBOE developed the VXN because of the massive divergence between the volatility seen in the Nasdaq market compared to the broader U.S. equity market from early 1999 onward.
+The CBOE Nasdaq Volatility Index was introduced in 2001 as the [[dot-com bubble]](https://www.investopedia.com/terms/i/internet-bubble.asp) in technology stocks was deflating. CBOE developed the VXN because of the massive divergence between the volatility seen in the Nasdaq market compared to the broader U.S. equity market from early 1999 onward.
 
-Indeed, the Nasdaq soared 137% in a 15-month period from January 1999 to its peak level of 5,132 in March 2000, before plunging 52% to just below 2,500 by December 2000.3 The [S&P 500](https://www.investopedia.com/terms/s/sp500.asp), by comparison, only gained 26% from January 1999 to its March 2000 peak, and then declined 15% by the end of 2000.14
+Indeed, the Nasdaq soared 137% in a 15-month period from January 1999 to its peak level of 5,132 in March 2000, before plunging 52% to just below 2,500 by December 2000.3 The [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp), by comparison, only gained 26% from January 1999 to its March 2000 peak, and then declined 15% by the end of 2000.14
 
 The higher the VXN level, the greater the expectation for Nasdaq-100 volatility. Like the VIX, the VXN functions best as a “fear gauge” or indicator of market nervousness about the technology sector.
 
@@ -40,4 +40,4 @@ Since its introduction, the highest level reached by the VXN was 91.79 in Septem
 
 The methodology used by the CBOE to calculate the VXN—whose value it disseminates continuously during trading hours—is identical to that used for the VIX. VXN components are near-term (with at least one week to expiration) put and call options, and next-term options in the first and second Nasdaq-100 contract months (options with more than 23 days and less than 37 days to expiration). The selected options are out-of-the-money Nasdaq-100 puts and calls centered on an at-the-money strike price.
 
-Movement in the VXN represents the level of [implied volatility](https://www.investopedia.com/terms/i/iv.asp) from the prices of listed options on the Nasdaq 100 index. Increases in the VXN and positive movement represents higher variances in the underlying securities’ price from their average. This usually occurs with uncertainty. Decreases in the VXN and negative movement represents lower volatility and a greater propensity for prices to trade in a tighter range. The VXN is generally followed along with the [Nasdaq 100](https://www.investopedia.com/terms/n/nasdaq100.asp) to understand volatility in relation to positive or negative movements in the prices of the index.
+Movement in the VXN represents the level of [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) from the prices of listed options on the Nasdaq 100 index. Increases in the VXN and positive movement represents higher variances in the underlying securities’ price from their average. This usually occurs with uncertainty. Decreases in the VXN and negative movement represents lower volatility and a greater propensity for prices to trade in a tighter range. The VXN is generally followed along with the [[Nasdaq 100]](https://www.investopedia.com/terms/n/nasdaq100.asp) to understand volatility in relation to positive or negative movements in the prices of the index.

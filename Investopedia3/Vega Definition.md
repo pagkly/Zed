@@ -16,7 +16,7 @@ author: James Chen
 Vega Definition
 ## What is Vega
 
-Vega is the measurement of an option's price sensitivity to changes in the volatility of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp). Vega represents the amount that an option contract's price changes in reaction to a 1% change in the [implied volatility](https://www.investopedia.com/terms/i/iv.asp) of the underlying asset.
+Vega is the measurement of an option's price sensitivity to changes in the volatility of the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp). Vega represents the amount that an option contract's price changes in reaction to a 1% change in the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) of the underlying asset.
 
 ### Key Takeaways
 
@@ -31,16 +31,16 @@ Vega changes when there are large price movements (increased volatility) in the 
 
 ## Implied Volatility
 
-Vega measures the theoretical price change for each percentage point move in implied volatility. Implied volatility is calculated using an [option pricing model](https://www.investopedia.com/terms/o/optionpricingtheory.asp) that determines what the current market prices are estimating an underlying asset's future volatility to be. Since implied volatility is a projection, it may deviate from actual future volatility.
+Vega measures the theoretical price change for each percentage point move in implied volatility. Implied volatility is calculated using an [[option pricing model]](https://www.investopedia.com/terms/o/optionpricingtheory.asp) that determines what the current market prices are estimating an underlying asset's future volatility to be. Since implied volatility is a projection, it may deviate from actual future volatility.
 
 Just as price moves are not always uniform, neither is vega. Vega changes over time. Therefore, the traders who use it monitor it regularly. As mentioned, options approaching expiration tend to have lower vegas compared to similar options that are further away from expiration
 
 ## Example of Vega
 
-If the vega of an option is greater than the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to offer a competitive spread. The opposite is also true.
+If the vega of an option is greater than the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp), then the option is said to offer a competitive spread. The opposite is also true.
 
 Vega also lets us know how much the price of the option could swing based on changes in the underlying asset's volatility.
 
-Assume hypothetical stock ABC is trading at $50 per share in January and a February $52.50 [call option](https://www.investopedia.com/terms/c/calloption.asp) has a bid price of $1.50 and an ask price of $1.55. Assume that the vega of the option is 0.25 and the implied volatility is 30%. The call options are offering a competitive spread: the spread is smaller than the vega. That does not mean the option is a good trade, or that it will make the option buyer money. This is just one consideration, as too high of a spread could make getting into and out of trades more difficult or costly. 
+Assume hypothetical stock ABC is trading at $50 per share in January and a February $52.50 [[call option]](https://www.investopedia.com/terms/c/calloption.asp) has a bid price of $1.50 and an ask price of $1.55. Assume that the vega of the option is 0.25 and the implied volatility is 30%. The call options are offering a competitive spread: the spread is smaller than the vega. That does not mean the option is a good trade, or that it will make the option buyer money. This is just one consideration, as too high of a spread could make getting into and out of trades more difficult or costly. 
 
 If the implied volatility increases to 31%, then the option's bid price and ask price should increase to $1.75 and $1.80, respectively (1 x $0.25 added to bid-ask spread). If the implied volatility decreased by 5%, then the bid price and ask price should theoretically drop to $0.25 by $0.30 (5 x $0.25 = $1.25, which is subtracted from $1.50 and $1.55). Increased volatility makes option prices move expensive, while decreasing volatility makes options drop in price.

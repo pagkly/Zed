@@ -16,7 +16,7 @@ author: Jason Fernando
 Statutory Reserves Definition
 ## What Are Statutory Reserves?
 
-Statutory reserves are the funds that state insurance [regulators](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp) require the insurance companies operating in their state to maintain at any given time. The purpose of statutory reserves is to help ensure that insurance companies have adequate liquidity available to honor all of the legitimate [claims](https://www.investopedia.com/terms/i/insurance_claim.asp) made by their policyholders.
+Statutory reserves are the funds that state insurance [[regulators]](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp) require the insurance companies operating in their state to maintain at any given time. The purpose of statutory reserves is to help ensure that insurance companies have adequate liquidity available to honor all of the legitimate [[claims]](https://www.investopedia.com/terms/i/insurance_claim.asp) made by their policyholders.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ Statutory reserves are the funds that state insurance [regulators](https://www.i
 
 ## Understanding Statutory Reserves
 
-The McCarran-Ferguson Act, passed by Congress in 1945, gave states the authority to regulate [insurance](https://www.investopedia.com/terms/i/insurance.asp) companies. To do business in a state, each insurer must be licensed by the state's insurance department and abide by its rules. Among those rules is how much money an insurer must keep in reserve to make sure that it will be able to pay its future claims.
+The McCarran-Ferguson Act, passed by Congress in 1945, gave states the authority to regulate [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) companies. To do business in a state, each insurer must be licensed by the state's insurance department and abide by its rules. Among those rules is how much money an insurer must keep in reserve to make sure that it will be able to pay its future claims.
 
-Insurance companies collect [insurance premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) from their customers and then invest those premiums in their [general account](https://www.investopedia.com/terms/g/general-account.asp) to generate a [return on investment](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI). In theory, insurers might be tempted to invest a very large fraction of the premiums they collect in order to maximize their return. However, doing so could leave them with insufficient cash on hand to satisfy the claims made by their customers.
+Insurance companies collect [[insurance premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) from their customers and then invest those premiums in their [[general account]](https://www.investopedia.com/terms/g/general-account.asp) to generate a [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI). In theory, insurers might be tempted to invest a very large fraction of the premiums they collect in order to maximize their return. However, doing so could leave them with insufficient cash on hand to satisfy the claims made by their customers.
 
-To prevent this from happening, state insurance regulators enforce minimum levels of [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) that insurance companies must maintain. These statutory reserves can either be held in cash, or in [readily marketable securities](https://www.investopedia.com/terms/m/marketablesecurities.asp) that can be converted into cash reliably and on short notice.
+To prevent this from happening, state insurance regulators enforce minimum levels of [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) that insurance companies must maintain. These statutory reserves can either be held in cash, or in [[readily marketable securities]](https://www.investopedia.com/terms/m/marketablesecurities.asp) that can be converted into cash reliably and on short notice.
 
-Statutory reserves apply to a range of insurance products, including [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp), health insurance, property and casualty insurance, long-term care insurance, and [annuity contracts](https://www.investopedia.com/terms/a/annuitycontract.asp). The requirements can vary from one state to another and according to the type of insurance product.
+Statutory reserves apply to a range of insurance products, including [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp), health insurance, property and casualty insurance, long-term care insurance, and [[annuity contracts]](https://www.investopedia.com/terms/a/annuitycontract.asp). The requirements can vary from one state to another and according to the type of insurance product.
 
 ## Statutory Reserves Methods
 
@@ -44,7 +44,7 @@ The first of these is a rules-based approach, in which insurers are told how muc
 
 ### Principles-based Approach
 
-The second approach, known as the principles-based approach, gives insurers greater leeway in setting their reserves. Specifically, it allows them to set reserves based on their own experience, such as the [actuarial statistics](https://www.investopedia.com/terms/a/actuarial-science.asp) and past claims behavior of their own customers, provided that they are as large or larger than the reserves stipulated under the rules-based approach. 
+The second approach, known as the principles-based approach, gives insurers greater leeway in setting their reserves. Specifically, it allows them to set reserves based on their own experience, such as the [[actuarial statistics]](https://www.investopedia.com/terms/a/actuarial-science.asp) and past claims behavior of their own customers, provided that they are as large or larger than the reserves stipulated under the rules-based approach. 
 
 ### Important
 
@@ -56,4 +56,4 @@ Regardless of the approach used to calculate them, statutory reserves will gener
 
 Consider the case of XYZ Insurance. According to the statutory reserve requirements of its state insurance regulator, XYZ would be required to keep $50 million in reserve based on the rules-based approach. However, after considering the competitive landscape in its state and reviewing the past performance of its insurance portfolio, XYZ decided to use the principles-based approach and set its statutory reserves above the minimum required level.
 
-Although the additional reserves would likely cost it in terms of lost [investment income](https://www.investopedia.com/terms/i/investmentincome.asp), XYZ reasoned that this more conservative approach would strengthen its image as a responsible insurer and make it well-positioned to navigate any potential [recession](https://www.investopedia.com/terms/r/recession.asp) or other economic headwinds.
+Although the additional reserves would likely cost it in terms of lost [[investment income]](https://www.investopedia.com/terms/i/investmentincome.asp), XYZ reasoned that this more conservative approach would strengthen its image as a responsible insurer and make it well-positioned to navigate any potential [[recession]](https://www.investopedia.com/terms/r/recession.asp) or other economic headwinds.

@@ -16,7 +16,7 @@ author: Julia Kagan
 How the Purchase Annual Percentage Rate (APR) Works
 ## What Is a Purchase Annual Percentage Rate (APR)?
 
-A purchase [annual percentage rate](https://www.investopedia.com/terms/a/apr.asp), or APR, is the interest charge that is added monthly to the outstanding balance due on a credit card. 
+A purchase [[annual percentage rate]](https://www.investopedia.com/terms/a/apr.asp), or APR, is the interest charge that is added monthly to the outstanding balance due on a credit card. 
 
 The APR on a credit card is an annualized percentage rate that is applied monthly. For example, if the advertised APR on a credit card is 19%, an interest rate of 1.58% of the outstanding balance will be added monthly to the total amount owed.
 
@@ -34,7 +34,7 @@ A single credit card may have several APRs attached; these often include a diffe
 
 A single credit card may have several APRs attached. These often include a different, and higher, APR for cash advances than for purchases. (In addition, the interest on cash advances begins accumulating immediately. Interest on purchases cannot begin until the end of the billing cycle.)
 
-In addition, [credit cards](https://www.investopedia.com/articles/pf/10/credit-card-debit-card.asp) are often advertised with a low introductory APR, or "teaser rate," for a set number of months. When that period expires, a higher APR will kick in. This rate must be revealed by the lender and is typically stated as a range, such as 17.74% to 27.24%, or a formula, such as the Consumer Price Index plus 14%.
+In addition, [[credit cards]](https://www.investopedia.com/articles/pf/10/credit-card-debit-card.asp) are often advertised with a low introductory APR, or "teaser rate," for a set number of months. When that period expires, a higher APR will kick in. This rate must be revealed by the lender and is typically stated as a range, such as 17.74% to 27.24%, or a formula, such as the Consumer Price Index plus 14%.
 
 By law, all APR information must be included in a credit card agreement.
 
@@ -50,4 +50,4 @@ Many cards also state a penalty or default APR that is triggered if a payment is
 
 The purchase APR can be a fixed or variable rate. As noted above, an APR is never really "fixed" but can be increased by the card issuer with 45 days notice. A variable APR rate is adjusted quarterly or monthly according to the movements of a particular index such as the prime interest rate. The new rate will be the prime rate plus some set percentage.
 
-A fixed APR is not determined by a [reference rate](https://www.investopedia.com/terms/r/referencerate.asp) and is more stable than a variable rate. Most issuers reserve the right to change a fixed APR based on market conditions and on how the cardholder uses and maintains credit, not just with this card but with all obligations that are recorded by the credit agencies.
+A fixed APR is not determined by a [[reference rate]](https://www.investopedia.com/terms/r/referencerate.asp) and is more stable than a variable rate. Most issuers reserve the right to change a fixed APR based on market conditions and on how the cardholder uses and maintains credit, not just with this card but with all obligations that are recorded by the credit agencies.

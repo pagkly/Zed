@@ -16,9 +16,9 @@ author: Adam Hayes
 What You Should Know About Wide Economic Moats
 ## What Is a Wide Economic Moat?
 
-A wide economic moat is a type of sustainable [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) possessed by a business that makes it difficult for rivals to wear down its market share. The term economic moat was made popular by the investor Warren Buffett and is derived from the water-filled moats that surrounded medieval castles. The wider the moat, the more difficult it would be for an invader to reach the castle.
+A wide economic moat is a type of sustainable [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) possessed by a business that makes it difficult for rivals to wear down its market share. The term economic moat was made popular by the investor Warren Buffett and is derived from the water-filled moats that surrounded medieval castles. The wider the moat, the more difficult it would be for an invader to reach the castle.
 
-A wide economic moat can be caused by several factors that might make it difficult for other businesses to steal market share. These factors may include high barriers to industry entry, or the business with the moat might own [patents](https://www.investopedia.com/terms/p/patent.asp) on several products that are essential to providing their particular product or service.
+A wide economic moat can be caused by several factors that might make it difficult for other businesses to steal market share. These factors may include high barriers to industry entry, or the business with the moat might own [[patents]](https://www.investopedia.com/terms/p/patent.asp) on several products that are essential to providing their particular product or service.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A wide economic moat can be caused by several factors that might make it difficu
 
 The term _economic moat,_ popularized by [Warren Buffett](https://www.investopedia.com/articles/01/071801.asp), refers to a business' ability to maintain competitive advantages over its competitors in order to protect its long-term profits and market share from competing firms. Just like a medieval castle, the moat serves to protect those inside the fortress and their riches from outsiders.
 
-Businesses that possess at least one factor of [Porter's 5 forces](https://www.investopedia.com/terms/p/porter.asp) model would possess a wide economic moat. For example, a business that holds an exclusive patent for the creation of a miracle drug would effectively keep potential competitors out of its business. Having few or no competitors would allow the company to continually generate high levels of profit.
+Businesses that possess at least one factor of [[Porter's 5 forces]](https://www.investopedia.com/terms/p/porter.asp) model would possess a wide economic moat. For example, a business that holds an exclusive patent for the creation of a miracle drug would effectively keep potential competitors out of its business. Having few or no competitors would allow the company to continually generate high levels of profit.
 
 A company that exists in a business where the start-up costs are prohibitive for small entrants would also have a wide moat. There are several ways in which a company creates an economic moat that allows it to have a significant advantage over its competitors.
 

@@ -37,9 +37,9 @@ The [National Education Association](http://www.nea.org/) (NEA) is the larges
 
 ## History of Organized Labor
 
-Organized labor in the United States grew after the country entered the [Industrial Age](https://www.investopedia.com/terms/i/industrial-revolution.asp). In many cases, the shift from agriculture to factories led to strenuous working conditions. The lack of heavily enforced standards on work hours, employee compensation, and [medical coverage](https://www.investopedia.com/terms/h/healthinsurance.asp) left many workers vulnerable.
+Organized labor in the United States grew after the country entered the [Industrial Age](https://www.investopedia.com/terms/i/industrial-revolution.asp). In many cases, the shift from agriculture to factories led to strenuous working conditions. The lack of heavily enforced standards on work hours, employee compensation, and [[medical coverage]](https://www.investopedia.com/terms/h/healthinsurance.asp) left many workers vulnerable.
 
-It was not uncommon in the early days of [industrialization](https://www.investopedia.com/terms/i/industrialization.asp) for employees to be on the job six days a week, working daily shifts lasting longer than eight hours. Salaries did not always match the effort and risks they endured, either.
+It was not uncommon in the early days of [[industrialization]](https://www.investopedia.com/terms/i/industrialization.asp) for employees to be on the job six days a week, working daily shifts lasting longer than eight hours. Salaries did not always match the effort and risks they endured, either.
 
 If an employee was injured on an assembly line and unable to continue working, the company might have fired him or her. Likewise, women who became pregnant may have been fired and left without salaries or health coverage. It was also common for children as young as 8 years old to work long hours in factories, forcing them to skip school.
 
@@ -57,6 +57,6 @@ Naturally, companies are less enthusiastic about organized labor. Some claim uni
 
 Retailers and supermarkets typically have employees who belong to organized labor groups. However, some of these companies actively seek to discourage workers from forming unions.
 
-Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) is a classic example. The [big-box discount retailer](https://www.investopedia.com/terms/b/big_box_retailer.asp) claims that the savings it generates from limiting the power of organized labor enable it to offer lower prices to its customers.
+Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) is a classic example. The [[big-box discount retailer]](https://www.investopedia.com/terms/b/big_box_retailer.asp) claims that the savings it generates from limiting the power of organized labor enable it to offer lower prices to its customers.
 
-Other retailers may feel compelled by Walmart’s example to renegotiate terms with the chapters of organized labor that represent their workers. The contention the retailers often present is that they will be forced to cut salaries or eliminate jobs to remain competitive with Walmart if the unions do not renegotiate. This is known as the [Walmart effect](https://www.investopedia.com/terms/w/walmart-effect.asp).
+Other retailers may feel compelled by Walmart’s example to renegotiate terms with the chapters of organized labor that represent their workers. The contention the retailers often present is that they will be forced to cut salaries or eliminate jobs to remain competitive with Walmart if the unions do not renegotiate. This is known as the [[Walmart effect]](https://www.investopedia.com/terms/w/walmart-effect.asp).

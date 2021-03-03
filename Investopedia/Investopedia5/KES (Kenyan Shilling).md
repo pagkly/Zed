@@ -1,0 +1,51 @@
+---
+alias: [KES, Kenyan Shilling]
+created: 2021-03-02T21:05:08 (UTC +11:00)
+tags: [KES (Kenyan Shilling) Definition, KES (Kenyan Shilling)]
+source: https://www.investopedia.com/terms/forex/k/kes-kenyan-shilling.asp
+author: James Chen
+---
+
+# KES (Kenyan Shilling) Definition
+
+> ## Excerpt
+> KES is the foreign exchange (FX) trading symbol for the Republic of Kenya shilling used in Kenya, the Sudan, and Somalia.
+
+---
+
+KES (Kenyan Shilling)
+## What Is the Kenyan Shilling (KES)?
+
+The Kenyan Shilling is the official currency used for the Republic of Kenya shilling used in Kenya, the Sudan, and Somalia. The shilling is further divided into 100 cents. Prices often include the abbreviation KSh, as in “100 KSh” to refer to 100 shillings. KES is the [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp) (FX) trading symbol
+
+In 2009 the KES/USD exchange rate had reached approximately 75 shillings per U.S. dollar, but over the next several years weakened to a rate of more than 105 shillings per dollar in 2015 and again in 2017. Since 2016, the Kenyan shilling has hovered around the 100 mark against the dollar as concerns grow around the amount of public debt Kenya has taken on over the years. As of January 2021, USD $1 is equal to roughly 110 KES.
+
+### Key Takeaways
+
+-   The Kenyan shilling is the national currency of the African nations of Kenya, Sudan, and Somalia.
+-   It remains one of the most stable currencies in east Africa.
+-   The Kenyan shilling circulates in nearby countries as a more stable option to store wealth than the local currencies.
+
+## Understanding the Kenyan Shilling
+
+The Kenyan shilling is among the most stable currencies in east Africa. In fact, it often circulates in bordering countries with less stable currencies, such as Sudan and Somalia. Although less volatile than other regional currencies, the [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) for the Kenyan shilling has generally weakened relative to the U.S. dollar over the past decade.
+
+### A Short History of the Kenyan Shilling
+
+The Kenyan shilling was first introduced in 1966 to replace the East African shilling. That currency had circulated in British controlled areas of east Africa from the 1920s until the early 1960s when Kenya (and other African countries) gained independence from British rule. Because of recent changes to Kenya’s constitution forbidding the depicting of portraits of individual people, the country began to issue new banknotes and coins in 2018.
+
+[The Central Bank of Kenya](https://www.centralbank.go.ke/) manages the nation’s currency and allows its exchange rate to [float freely](https://www.investopedia.com/terms/f/floatingexchangerate.asp) against others in the global forex market. The central bank operates under a mandate to sustain price stability, maintain liquidity in the country's financial system, and support growth and employment.
+
+## Kenya's Economy and the KES
+
+The relative valuation of a currency such as the Kenyan shilling to other currencies depends, in no small extent, on the desire for individuals and organizations to hold assets denominated in shillings, which is partly influenced by how other trading partners view Kenya’s potential for economic growth and stability.
+
+According to the [World Bank](http://www.worldbank.org/en/country/kenya/overview), while Kenya’s economy had been stagnant in recent years, the annual growth rate for the country’s gross domestic product (GDP) has increased, reaching 5.8 percent in 2016. That yearly growth rate ranks Kenya as one of the fastest-growing economies in Sub-Saharan Africa and only reached 5.4 percent in 2019. Kenya's GDP growth owes a large part to an increase in tourism and investment in the nation’s infrastructure. 
+
+[World Bank data](https://data.worldbank.org/country/kenya) also shows that gross national income per capita (measured in U.S. dollars) in Kenya doubled between 2006 and 2016 and that the nation’s GDP (also measured in U.S. dollars) more than doubled, increasing from $25.8 billion to $70.5 billion over that same period. The caveat is that Kenya's public debt as a percentage of national output is now 60% compared to around 40% in 2013.
+
+## M-Pesa
+
+[M-Pesa](https://www.investopedia.com/terms/m/mpesa.asp) is a mobile banking service that allows users to store and transfer money through their mobile phones. M-Pesa was introduced in Kenya as an alternative way for the population of the country to have access to financial services. Safaricom, the largest mobile phone operator in Kenya, launched M-Pesa in 2007. The service is a blend of two entities where _M_ means mobile and _Pesa_ means money or payment in the Swahili language.
+
+Cash collected from M-Pesa is deposited in bank accounts held by Safaricom. The bank accounts serve as regular [checking accounts](https://www.investopedia.com/terms/c/checkingaccount.asp) and are insured up to a maximum of 100,000 KES (or roughly $1,000) by the Deposit Protection Fund.

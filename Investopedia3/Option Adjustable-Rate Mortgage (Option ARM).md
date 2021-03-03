@@ -16,9 +16,9 @@ author: Julia Kagan
 Option Adjustable-Rate Mortgage (Option ARM)
 ## What Is an Option Adjustable-Rate Mortgage (Option ARM)?
 
-An option adjustable-rate mortgage (option ARM) is a type of [ARM](https://www.investopedia.com/terms/a/arm.asp) [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) where the borrower has several options as to which type of payment is made to the lender. In addition to having the choice of making payments of interest and principal that amounts to those made in conventional mortgages, option ARMs also have alternative payment options where the mortgagor can make significantly smaller payments by making interest-only payments or minimum payments.
+An option adjustable-rate mortgage (option ARM) is a type of [[ARM]](https://www.investopedia.com/terms/a/arm.asp) [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) where the borrower has several options as to which type of payment is made to the lender. In addition to having the choice of making payments of interest and principal that amounts to those made in conventional mortgages, option ARMs also have alternative payment options where the mortgagor can make significantly smaller payments by making interest-only payments or minimum payments.
 
-An option ARM is also known as a [flexible payment ARM](https://www.investopedia.com/terms/f/flexible_payment_arm.asp).
+An option ARM is also known as a [[flexible payment ARM]](https://www.investopedia.com/terms/f/flexible_payment_arm.asp).
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ An option ARM is also known as a [flexible payment ARM](https://www.investopedia
 
 ## Understanding Option ARMs
 
-Since many option ARMs offer a low teaser rate, many mortgagors unknowingly [refinance](https://www.investopedia.com/terms/r/refinance.asp) their present mortgage in hopes of making lower payments. Unfortunately, once these short-term teaser rates expire, the rates of interest are returned back to those similar to conventional mortgages.
+Since many option ARMs offer a low teaser rate, many mortgagors unknowingly [[refinance]](https://www.investopedia.com/terms/r/refinance.asp) their present mortgage in hopes of making lower payments. Unfortunately, once these short-term teaser rates expire, the rates of interest are returned back to those similar to conventional mortgages.
 
-Furthermore, for those unlucky mortgagors that elected to take the [minimum payments ARM option,](https://www.investopedia.com/terms/p/poaminimumpayment.asp) they will find that the principal owed on their mortgage has actually increased. This is because the value of [minimum payments](https://www.investopedia.com/terms/m/minimum-monthly-payment.asp) did not entirely cover the mortgage's interest. The uncovered interest would then be added to the mortgage's principal.
+Furthermore, for those unlucky mortgagors that elected to take the [[minimum payments ARM option,]](https://www.investopedia.com/terms/p/poaminimumpayment.asp) they will find that the principal owed on their mortgage has actually increased. This is because the value of [[minimum payments]](https://www.investopedia.com/terms/m/minimum-monthly-payment.asp) did not entirely cover the mortgage's interest. The uncovered interest would then be added to the mortgage's principal.
 
 Option ARMs were popular before the [subprime mortgage crisis](https://www.investopedia.com/terms/s/subprime-meltdown.asp) of 2007-2008, when home prices rose rapidly. The mortgages had a very low introductory teaser interest rate, typically 1 percent, which led many people to assume they could afford more home than their income might suggest. But the teaser rate was only for one month. Then the interest rate reset to an index such as the Wells Cost of Saving Index (COSI) plus a margin, often resulting in “payment shock.” Since 2014 regulations, option ARMs have been less popular
 

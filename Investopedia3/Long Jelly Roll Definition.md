@@ -16,7 +16,7 @@ author: Gordon Scott
 Long Jelly Roll Definition
 ## What is a Long Jelly Roll?
 
-A long jelly roll is an option strategy that aims to profit from a form of arbitrage based on option pricing. The jelly roll looks for a difference between the pricing of a [horizontal spread](https://www.investopedia.com/terms/h/horizontalspread.asp) (also called a calendar spread) composed of call options at a given strike price and the same horizontal spread with the same strike price composed of put options.
+A long jelly roll is an option strategy that aims to profit from a form of arbitrage based on option pricing. The jelly roll looks for a difference between the pricing of a [[horizontal spread]](https://www.investopedia.com/terms/h/horizontalspread.asp) (also called a calendar spread) composed of call options at a given strike price and the same horizontal spread with the same strike price composed of put options.
 
 ### Key Takeaways
 

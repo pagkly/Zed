@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Understanding Hash
 ## What Is a Hash?
 
-A hash is a function that converts an input of letters and numbers into an encrypted output of a fixed length. A hash is created using an algorithm and is essential to [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) management in cryptocurrency.
+A hash is a function that converts an input of letters and numbers into an encrypted output of a fixed length. A hash is created using an algorithm and is essential to [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) management in cryptocurrency.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ A hash is a function that converts an input of letters and numbers into an encry
 
 ## How a Hash Works
 
-The backbone of a [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) is the blockchain, which is a global ledger formed by linking together individual blocks of transaction data. The blockchain only contains validated transactions, which prevents fraudulent transactions and [double spending](https://www.investopedia.com/terms/d/doublespending.asp) of the currency. The resulting encrypted value is a series of numbers and letters that do not resemble the original data and is called a hash. [Cryptocurrency mining](https://www.investopedia.com/terms/b/bitcoin-mining.asp) involves working with this hash.
+The backbone of a [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) is the blockchain, which is a global ledger formed by linking together individual blocks of transaction data. The blockchain only contains validated transactions, which prevents fraudulent transactions and [[double spending]](https://www.investopedia.com/terms/d/doublespending.asp) of the currency. The resulting encrypted value is a series of numbers and letters that do not resemble the original data and is called a hash. [[Cryptocurrency mining]](https://www.investopedia.com/terms/b/bitcoin-mining.asp) involves working with this hash.
 
 Hashing requires processing the data from a block through a mathematical function, which results in an output of a fixed length. Using a fixed-length output increases security since anyone trying to decrypt the hash won’t be able to tell how long or short the input is simply by looking at the length of the output.
 
-Solving the hash starts with the data available in the block header and is essentially solving a complex mathematical problem. Each block header contains a version number, a timestamp, the hash used in the previous block, the hash of the Merkle Root, the [nonce](https://www.investopedia.com/terms/n/nonce.asp), and the target hash.
+Solving the hash starts with the data available in the block header and is essentially solving a complex mathematical problem. Each block header contains a version number, a timestamp, the hash used in the previous block, the hash of the Merkle Root, the [[nonce]](https://www.investopedia.com/terms/n/nonce.asp), and the target hash.
 
-The miner focuses on the nonce, a string of numbers. This number is appended to the hashed contents of the previous block, which is then hashed. If this new hash is less than or equal to the [target hash](https://www.investopedia.com/terms/t/target-hash.asp), then it is accepted as the solution, the miner is given the reward, and the block is added to the blockchain.
+The miner focuses on the nonce, a string of numbers. This number is appended to the hashed contents of the previous block, which is then hashed. If this new hash is less than or equal to the [[target hash]](https://www.investopedia.com/terms/t/target-hash.asp), then it is accepted as the solution, the miner is given the reward, and the block is added to the blockchain.
 
 The validation process for blockchain transactions relies on data being encrypted using algorithmic hashing.
 

@@ -16,9 +16,9 @@ author: Akhilesh Ganti
 What Is the Central Limit Theorem (CLT)?
 ## What Is the Central Limit Theorem (CLT)?
 
-In the study of probability theory, the central limit theorem (CLT) states that the [distribution of sample](https://www.investopedia.com/terms/s/sampling-distribution.asp) approximates a normal distribution (also known as a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population distribution shape.
+In the study of probability theory, the central limit theorem (CLT) states that the [[distribution of sample]](https://www.investopedia.com/terms/s/sampling-distribution.asp) approximates a normal distribution (also known as a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population distribution shape.
 
-Said another way, CLT is a statistical theory stating that given a sufficiently large sample size from a population with a finite level of variance, the mean of all samples from the same population will be approximately equal to the mean of the population. Furthermore, all the samples will follow an approximate [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp) pattern, with all variances being approximately equal to the [variance](https://www.investopedia.com/terms/v/variance.asp) of the population, divided by each sample's size.
+Said another way, CLT is a statistical theory stating that given a sufficiently large sample size from a population with a finite level of variance, the mean of all samples from the same population will be approximately equal to the mean of the population. Furthermore, all the samples will follow an approximate [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp) pattern, with all variances being approximately equal to the [[variance]](https://www.investopedia.com/terms/v/variance.asp) of the population, divided by each sample's size.
 
 ### Key Takeaways
 

@@ -18,7 +18,7 @@ Open House
 
 In real estate, an open house is a scheduled period of time in which a house or other dwelling is designated to be open for viewing by potential buyers.
 
-The term open house can also refer to the [real estate](https://www.investopedia.com/terms/r/realestate.asp) property itself; in either case, it applies to dwellings that are for sale by the owner. They are often held to advertise a newly developed community.
+The term open house can also refer to the [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) property itself; in either case, it applies to dwellings that are for sale by the owner. They are often held to advertise a newly developed community.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Many open houses occur on weekends—Sundays, in particular—with banners and o
 
 For people trying to sell their homes, an open house provides an opportunity to attract interested buyers to the property. A well-executed event can generate excitement about the home and potentially lead to an offer. Many realtors advise their clients to hold an open house the first weekend after the property goes up for sale.
 
-Even if the event does not snag a buyer, an open house can still be beneficial. As visitors walk through the home, they are likely to discuss their perceptions of the home. This feedback can alert the [realtor](https://www.investopedia.com/terms/r/realtor.asp) to issues that might be preventing the house from selling. Unattractive paint colors, for example, can be an easy fix that can boost a home's selling potential.
+Even if the event does not snag a buyer, an open house can still be beneficial. As visitors walk through the home, they are likely to discuss their perceptions of the home. This feedback can alert the [[realtor]](https://www.investopedia.com/terms/r/realtor.asp) to issues that might be preventing the house from selling. Unattractive paint colors, for example, can be an easy fix that can boost a home's selling potential.
 
 Pros
 
@@ -58,6 +58,6 @@ According to the National Association of Realtors, just 4% of buyers [visited o
 
 ## Broker's Open House
 
-In contrast to a traditional open house, which is open to the public, a [broker's open house](https://www.investopedia.com/terms/b/brokersopenhouse.asp) is strictly for real estate professionals. The intention of a broker's open house is to give [real estate agents](https://www.investopedia.com/terms/r/realestateagent.asp) an opportunity to view the property. It also allows the seller's realtor to solicit professional opinions from peers about the property and its price. In many cases, the broker's open house encourages buyer's agents to schedule a showing for their clients.
+In contrast to a traditional open house, which is open to the public, a [[broker's open house]](https://www.investopedia.com/terms/b/brokersopenhouse.asp) is strictly for real estate professionals. The intention of a broker's open house is to give [[real estate agents]](https://www.investopedia.com/terms/r/realestateagent.asp) an opportunity to view the property. It also allows the seller's realtor to solicit professional opinions from peers about the property and its price. In many cases, the broker's open house encourages buyer's agents to schedule a showing for their clients.
 
 A broker's open house usually is held midweek, when agents are more available than on weekends when they are occupied with showing homes to their clients. A broker’s open house is among the tools that real estate agents use to market a home. In addition to Internet marketing systems like [Multiple Listing Service](https://www.investopedia.com/terms/m/multiple-listing-service-mls.asp) (MLS), it's a way to introduce a listing to industry professionals in a community.

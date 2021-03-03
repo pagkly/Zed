@@ -16,7 +16,7 @@ author: Julia Kagan
 Wet Loan
 ## What Is a Wet Loan?
 
-A wet loan is a mortgage in which the funds realize at—or with the completion of—a [loan application](https://www.investopedia.com/articles/personal-finance/010516/how-apply-personal-loan.asp). Submission of other required documentation for closing the property, such as surveys and title searches, happens after the dispersion of funds.
+A wet loan is a mortgage in which the funds realize at—or with the completion of—a [[loan application]](https://www.investopedia.com/articles/personal-finance/010516/how-apply-personal-loan.asp). Submission of other required documentation for closing the property, such as surveys and title searches, happens after the dispersion of funds.
 
 Wet loans allow the borrower to purchase property more rapidly and to complete the necessary documentation after the transaction. Conditions surrounding the use of wet loans differ based on state laws, and not all states allow a wet loan.
 
@@ -28,7 +28,7 @@ A wet loan allows a borrower to purchase property more rapidly, before completin
 
 ## Wet Loans vs. Dry Loans
 
-With wet-loan transactions, speed comes at the price of increased risk. The likelihood of fraud and loan default is significant with a wet loan. The risk comes from the [seller](https://www.investopedia.com/terms/s/seller.asp) receiving funds before the review and approval of the loan documentation. If, after evaluation, the bank determines the loan is too risky, it faces great time and expense in revoking the mortgage.
+With wet-loan transactions, speed comes at the price of increased risk. The likelihood of fraud and loan default is significant with a wet loan. The risk comes from the [[seller]](https://www.investopedia.com/terms/s/seller.asp) receiving funds before the review and approval of the loan documentation. If, after evaluation, the bank determines the loan is too risky, it faces great time and expense in revoking the mortgage.
 
 In contrast, a [dry loan](https://www.investopedia.com/terms/d/dry_loan.asp) is one where the release of funds is after completion and review of all necessary sale and loan documentation. Dry funding provides an added layer of consumer protection and helps to ensure the legality of the transaction. With a slower closing process and no funds disbursed at the closing, there’s more time to address or avoid issues.
 
@@ -36,7 +36,7 @@ Dry loans date to pre-electronic banking days, when property buyers and sellers 
 
 ## Wet Closings vs. Dry Closings
 
-Wet loans may go through either a traditional closing or a [dry closing](https://www.investopedia.com/terms/d/dry-closing.asp). A real estate closing is the completion of a transaction involving the sale or exchange of real property. A conventional closing consists of the following events:
+Wet loans may go through either a traditional closing or a [[dry closing]](https://www.investopedia.com/terms/d/dry-closing.asp). A real estate closing is the completion of a transaction involving the sale or exchange of real property. A conventional closing consists of the following events:
 
 -   All necessary buyer and seller documentation are completed.
 -   The property title transfers to the purchaser.

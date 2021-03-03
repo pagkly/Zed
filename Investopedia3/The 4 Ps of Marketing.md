@@ -16,7 +16,7 @@ author: Alexandra Twin
 The 4 Ps of Marketing
 ## What Are the 4 Ps?
 
-The four Ps of marketing are the key factors that are involved in the marketing of a good or service. They are the product, price, place, and promotion of a good or service. Often referred to as the [marketing mix](https://www.investopedia.com/terms/m/marketing-mix.asp), the four Ps are constrained by internal and external factors in the overall business environment, and they interact significantly with one another.
+The four Ps of marketing are the key factors that are involved in the marketing of a good or service. They are the product, price, place, and promotion of a good or service. Often referred to as the [[marketing mix]](https://www.investopedia.com/terms/m/marketing-mix.asp), the four Ps are constrained by internal and external factors in the overall business environment, and they interact significantly with one another.
 
 The 4 Ps are used by companies to identify some key factors for their business, including what consumers want from them, how their product or service meets or fails to meet those needs, how their product or service is perceived in the world, how they stand out from their competitors, and how they interact with their customers.
 
@@ -28,7 +28,7 @@ The 4 Ps are used by companies to identify some key factors for their business, 
 
 ## Understanding the 4 Ps
 
-Neil Borden popularized the idea of the [marketing](https://www.investopedia.com/articles/financial-theory/11/small-business-marketing-techniques.asp) mix—and the concepts that would later be known primarily as the four Ps—in the 1950s. Borden was an advertising professor at Harvard University. His 1964 article titled "The Concept of the Marketing Mix" demonstrated the ways that companies could use advertising tactics to engage their consumers. Decades later, the concepts that Borden popularized are still being used by companies to advertise their goods and services.
+Neil Borden popularized the idea of the [[marketing]](https://www.investopedia.com/articles/financial-theory/11/small-business-marketing-techniques.asp) mix—and the concepts that would later be known primarily as the four Ps—in the 1950s. Borden was an advertising professor at Harvard University. His 1964 article titled "The Concept of the Marketing Mix" demonstrated the ways that companies could use advertising tactics to engage their consumers. Decades later, the concepts that Borden popularized are still being used by companies to advertise their goods and services.
 
 When they were first introduced, Borden's ideas were very influential in the business world and were developed and refined over a number of years by other key players in the industry. It was actually E. Jerome McCarthy, a marketing professor at Michigan State University, who refined the concepts in Borden's book and created the idea of the "4 Ps," a term that is still used today. In 1960, McCarthy co-wrote the book "Basic Marketing: A Managerial Approach," further popularizing the idea of the 4 Ps.
 
@@ -40,7 +40,7 @@ Any successful marketing strategy requires revisiting over time. If you are deve
 
 ### Product
 
-Product refers to a good or service that a company offers to customers. Ideally, a product should fulfill an existing consumer demand. Or a product may be so compelling that consumers believe they need to have it and it creates a new demand. To be successful, [marketers](https://www.investopedia.com/articles/personal-finance/062315/how-smartphones-are-changing-advertising-marketing.asp) need to understand the life cycle of a product, and business executives need to have a plan for dealing with products at every stage of their life cycle. The type of product also partially dictates how much businesses can charge for it, where they should place it, and how they should promote it in the marketplace.
+Product refers to a good or service that a company offers to customers. Ideally, a product should fulfill an existing consumer demand. Or a product may be so compelling that consumers believe they need to have it and it creates a new demand. To be successful, [[marketers]](https://www.investopedia.com/articles/personal-finance/062315/how-smartphones-are-changing-advertising-marketing.asp) need to understand the life cycle of a product, and business executives need to have a plan for dealing with products at every stage of their life cycle. The type of product also partially dictates how much businesses can charge for it, where they should place it, and how they should promote it in the marketplace.
 
 Many of the most successful products have been the first in their category. For example, Apple was the first to create a touchscreen smartphone that could play music, browse the Internet, and make phone calls. As of November 2018, Apple stopped providing public sales figures for the iPhone. However, as of November 1, 2018, total sales of the iPhone equaled $2.2 billion. Apple revealed that it had sold its one billionth iOS device on November 22, 2014. And in 2018, the company announced they were approaching selling their two billionth iOS device.1 2
 
@@ -96,4 +96,4 @@ The model of the 4Ps can be used when you are planning a new business venture, e
 
 ## The Bottom Line
 
-The four Ps of marketing—product, price, place, promotion—are often referred to as the marketing mix. These are the key elements involved in marketing a good or service, and they interact significantly with each other. Considering all of these elements is one way to approach a [holistic marketing strategy](https://www.investopedia.com/ask/answers/042715/what-holistic-marketing-and-how-can-it-be-applied-business.asp).
+The four Ps of marketing—product, price, place, promotion—are often referred to as the marketing mix. These are the key elements involved in marketing a good or service, and they interact significantly with each other. Considering all of these elements is one way to approach a [[holistic marketing strategy]](https://www.investopedia.com/ask/answers/042715/what-holistic-marketing-and-how-can-it-be-applied-business.asp).

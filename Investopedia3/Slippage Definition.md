@@ -16,7 +16,7 @@ author: James Chen
 Slippage Definition
 ## What is Slippage?
 
-Slippage refers to the difference between the expected price of a trade and the price at which the trade is executed. Slippage can occur at any time but is most prevalent during periods of higher [volatility](https://www.investopedia.com/terms/v/volatility.asp) when [market orders](https://www.investopedia.com/terms/m/marketorder.asp) are used. It can also occur when a large order is executed but there isn't enough volume at the chosen price to maintain the current [bid/ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp).
+Slippage refers to the difference between the expected price of a trade and the price at which the trade is executed. Slippage can occur at any time but is most prevalent during periods of higher [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) when [[market orders]](https://www.investopedia.com/terms/m/marketorder.asp) are used. It can also occur when a large order is executed but there isn't enough volume at the chosen price to maintain the current [[bid/ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp).
 
 ## How Does Slippage Work?
 
@@ -40,4 +40,4 @@ For example, say Apple's bid/ask prices are posted as $183.50/$183.53 on the bro
 
 ## Slippage and The Forex Market
 
-Forex slippage occurs when a market order is executed or a stop loss closes the position at a different rate than set in the order. Slippage is more likely to occur in the forex market when volatility is high, perhaps due to news events, or during times when the currency pair is trading outside peak market hours. In both situations, reputable forex [dealers](https://www.investopedia.com/terms/d/dealer.asp) will execute the trade at the next best price.
+Forex slippage occurs when a market order is executed or a stop loss closes the position at a different rate than set in the order. Slippage is more likely to occur in the forex market when volatility is high, perhaps due to news events, or during times when the currency pair is trading outside peak market hours. In both situations, reputable forex [[dealers]](https://www.investopedia.com/terms/d/dealer.asp) will execute the trade at the next best price.

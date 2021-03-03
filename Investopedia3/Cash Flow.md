@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Cash Flow
 ## What is Cash Flow?
 
-Cash flow is the net amount of cash and cash-equivalents being transferred into and out of a business. At the most fundamental level, a company’s ability to [create value](https://www.investopedia.com/articles/personal-finance/061215/10-ways-improve-cash-flow.asp) for shareholders is determined by its ability to generate positive cash flows, or more specifically, maximize long-term [free cash flow](https://www.investopedia.com/terms/f/freecashflow.asp) (FCF).
+Cash flow is the net amount of cash and cash-equivalents being transferred into and out of a business. At the most fundamental level, a company’s ability to [[create value]](https://www.investopedia.com/articles/personal-finance/061215/10-ways-improve-cash-flow.asp) for shareholders is determined by its ability to generate positive cash flows, or more specifically, maximize long-term [[free cash flow]](https://www.investopedia.com/terms/f/freecashflow.asp) (FCF).
 
 ### Key Takeaways
 
@@ -29,17 +29,17 @@ Cash flow is the net amount of cash and cash-equivalents being transferred into 
 
 ## How Cash Flow is Used
 
-[Assessing](https://www.investopedia.com/articles/investing/112513/cash-flow-statement-analyzing-cash-flow-investing-activities.asp) the amounts, timing, and uncertainty of cash flows is one of the most basic objectives of financial reporting. Understanding the [cash flow statement](https://www.investopedia.com/terms/c/cashflowstatement.asp) – which reports [operating cash flow](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp), [investing cash flow](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp), and [financing cash flow](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) — is essential for assessing a company’s [liquidity](https://www.investopedia.com/terms/l/liquidity.asp), flexibility, and overall financial performance.
+[Assessing](https://www.investopedia.com/articles/investing/112513/cash-flow-statement-analyzing-cash-flow-investing-activities.asp) the amounts, timing, and uncertainty of cash flows is one of the most basic objectives of financial reporting. Understanding the [[cash flow statement]](https://www.investopedia.com/terms/c/cashflowstatement.asp) – which reports [[operating cash flow]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp), [[investing cash flow]](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp), and [[financing cash flow]](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) — is essential for assessing a company’s [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp), flexibility, and overall financial performance.
 
-Positive cash flow indicates that a [company's liquid assets](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) are increasing, enabling it to settle debts, reinvest in its business, return money to shareholders, pay expenses and provide a buffer against future financial challenges. Companies with strong financial flexibility can take advantage of profitable investments. They also fare better in downturns, by avoiding the costs of [financial distress](https://www.investopedia.com/terms/f/financial_distress.asp).
+Positive cash flow indicates that a [[company's liquid assets]](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) are increasing, enabling it to settle debts, reinvest in its business, return money to shareholders, pay expenses and provide a buffer against future financial challenges. Companies with strong financial flexibility can take advantage of profitable investments. They also fare better in downturns, by avoiding the costs of [[financial distress]](https://www.investopedia.com/terms/f/financial_distress.asp).
 
 ## Analyzing Cash Flow
 
 ### Debt Service Coverage Ratio
 
-Even profitable companies can fail if their operating activities do not generate enough cash to stay liquid. This can happen if profits are tied up in outstanding [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp) and overstocked inventory, or if a company spends too much on [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp).
+Even profitable companies can fail if their operating activities do not generate enough cash to stay liquid. This can happen if profits are tied up in outstanding [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp) and overstocked inventory, or if a company spends too much on [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp).
 
-Investors and creditors, therefore, want to know if the company has enough cash and cash-equivalents to settle short-term liabilities. To see if a company can meet its current liabilities with the cash it generates from operations, analysts look at the [debt service coverage ratio](https://www.investopedia.com/terms/d/dscr.asp).
+Investors and creditors, therefore, want to know if the company has enough cash and cash-equivalents to settle short-term liabilities. To see if a company can meet its current liabilities with the cash it generates from operations, analysts look at the [[debt service coverage ratio]](https://www.investopedia.com/terms/d/dscr.asp).
 
 Debt Service Coverage Ratio = Net Operating Income / Short-Term Debt Obligations (also referred to as "Debt Service")
 
@@ -47,17 +47,17 @@ But liquidity only tells us so much. A company might have lots of cash because i
 
 ### Free Cash Flow
 
-To understand the true profitability of the business, analysts look at free cash flow. It is a really useful measure of financial performance – that tells a better story than [net income](https://www.investopedia.com/terms/n/netincome.asp) — because it shows what money the company has left over to expand the business or return to shareholders, after paying dividends, buying back stock, or paying off debt.
+To understand the true profitability of the business, analysts look at free cash flow. It is a really useful measure of financial performance – that tells a better story than [[net income]](https://www.investopedia.com/terms/n/netincome.asp) — because it shows what money the company has left over to expand the business or return to shareholders, after paying dividends, buying back stock, or paying off debt.
 
 [Free Cash Flow](https://www.investopedia.com/ask/answers/033015/what-formula-calculating-free-cash-flow.asp) = Operating Cash Flow - Capital Expenditures
 
 ### Unlevered Free Cash Flow
 
-For a measure of the gross free cash flow generated by a firm, use [unlevered free cash flow](https://www.investopedia.com/terms/u/unlevered-free-cash-flow-ufcf.asp). This is a company's cash flow excluding interest payments, and it shows how much cash is available to the firm before taking financial obligations into account. The [difference between levered and unlevered](https://www.investopedia.com/ask/answers/111714/whats-difference-between-levered-and-unlevered-free-cash-flow.asp) free cash flow shows if the business is overextended or operating with a healthy amount of debt.
+For a measure of the gross free cash flow generated by a firm, use [[unlevered free cash flow]](https://www.investopedia.com/terms/u/unlevered-free-cash-flow-ufcf.asp). This is a company's cash flow excluding interest payments, and it shows how much cash is available to the firm before taking financial obligations into account. The [[difference between levered and unlevered]](https://www.investopedia.com/ask/answers/111714/whats-difference-between-levered-and-unlevered-free-cash-flow.asp) free cash flow shows if the business is overextended or operating with a healthy amount of debt.
 
 ## Real World Example of Cash Flow
 
-Below is a reproduction of Walmart Inc ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) cash flow statement for the [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) ending on January 31, 2019. All amounts are in millions of U.S. dollars.
+Below is a reproduction of Walmart Inc ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) cash flow statement for the [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp) ending on January 31, 2019. All amounts are in millions of U.S. dollars.
 
 **Cash flows from operating activities:**
 
@@ -223,9 +223,9 @@ Cash and cash equivalents at end of year
 
 7,756
 
-Let's begin by seeing how the cash flow statement fits in with other components of Walmart's financials. The final line in the cash flow statement, "cash and cash equivalents at end of year," is the same as "cash and cash equivalents," the first line under current assets in the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). The first number in the cash flow statement, "consolidated net income," is the same as the bottom line, "income from continuing operations" on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp).
+Let's begin by seeing how the cash flow statement fits in with other components of Walmart's financials. The final line in the cash flow statement, "cash and cash equivalents at end of year," is the same as "cash and cash equivalents," the first line under current assets in the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). The first number in the cash flow statement, "consolidated net income," is the same as the bottom line, "income from continuing operations" on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp).
 
-Because the cash flow statement only counts liquid assets in the form of cash and cash equivalents, it makes adjustments to operating income in order to arrive at the net change in cash. [Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) and [amortization](https://www.investopedia.com/terms/a/amortization.asp) expense appear on the income statement in order to give a realistic picture of the decreasing value of assets over their useful life. Operating cash flows, however, only consider transactions that impact cash, so these adjustments are reversed.
+Because the cash flow statement only counts liquid assets in the form of cash and cash equivalents, it makes adjustments to operating income in order to arrive at the net change in cash. [[Depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) and [[amortization]](https://www.investopedia.com/terms/a/amortization.asp) expense appear on the income statement in order to give a realistic picture of the decreasing value of assets over their useful life. Operating cash flows, however, only consider transactions that impact cash, so these adjustments are reversed.
 
 Meanwhile, the net change in assets that are not in cash form, such as accounts receivable and inventories, are also eliminated from operating income. For example, in Walmart's cash flow statement, $368 million in net receivables are deducted from operating income. From that, we can infer that there was a $368 million increase in receivables over the prior year.
 

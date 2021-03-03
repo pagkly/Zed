@@ -16,15 +16,15 @@ author: Christina Majaski
 An Explanation of Positive Economics
 ## What Is Positive Economics?
 
-Positive economics uses objective analysis in the study of economics. Most economists look at what has happened and what is currently happening in a given economy to form their basis of predictions for the future. This process of investigation is positive economics. Conversely, a [normative economic](https://www.investopedia.com/terms/n/normativeeconomics.asp) study will base future predictions on value judgments.
+Positive economics uses objective analysis in the study of economics. Most economists look at what has happened and what is currently happening in a given economy to form their basis of predictions for the future. This process of investigation is positive economics. Conversely, a [[normative economic]](https://www.investopedia.com/terms/n/normativeeconomics.asp) study will base future predictions on value judgments.
 
 #### Positive And Normative Economics
 
 ## Positive Economics Explained
 
-The cornerstone of positive economic practice is to look at fact-based [behavioral finance](https://www.investopedia.com/terms/b/behavioralfinance.asp) or economic relationships and the cause and effect interaction to develop economic theories. Behavioral economics follows a psychology-based premise that people will make rational financial choices based on the information they find around them.
+The cornerstone of positive economic practice is to look at fact-based [[behavioral finance]](https://www.investopedia.com/terms/b/behavioralfinance.asp) or economic relationships and the cause and effect interaction to develop economic theories. Behavioral economics follows a psychology-based premise that people will make rational financial choices based on the information they find around them.
 
-Many will refer to this study as "what is" economics due to its use of fact-based determination of thought. [Normative economics](https://www.investopedia.com/terms/n/normativeeconomics.asp), then, is called the "what should have been" or "what ought to be" study.
+Many will refer to this study as "what is" economics due to its use of fact-based determination of thought. [[Normative economics]](https://www.investopedia.com/terms/n/normativeeconomics.asp), then, is called the "what should have been" or "what ought to be" study.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Many will refer to this study as "what is" economics due to its use of fact-base
 
 Conclusions drawn from positive economics analyses can be verified and supported by data. For example, predicting that more people will save if interest rates rise would be based on positive economics because past behaviors can support it. The analysis is objective in nature, as opposed to normative statements and theories, which are subjective. Most of the information provided by the news media is a combination of positive and normative economic statements or assumptions.
 
-Positive economic theory does not provide advice or instruction. For example, it can describe how government can impact inflation by printing more money, and it can support that statement with facts and analysis of behavioral relationships between inflation and growth in the [money supply](https://www.investopedia.com/terms/m/moneysupply.asp). However, it does not tell you how to properly enact and follow specific policies regarding inflation and money printing.
+Positive economic theory does not provide advice or instruction. For example, it can describe how government can impact inflation by printing more money, and it can support that statement with facts and analysis of behavioral relationships between inflation and growth in the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp). However, it does not tell you how to properly enact and follow specific policies regarding inflation and money printing.
 
 When considered together, positive economics and normative economics provide a clear understanding of public policies. These two theories cover both the actual and real facts and statements combined with an opinion-based analysis. Therefore, when making policy decisions it is best to understand the positive economic background of behavioral finance and the causes of events as you include normative value judgments on why things happen as they do.
 
@@ -52,7 +52,7 @@ In 2015, Seattle passed a local ordinance to increase the minimum wage for worke
 
 ### The California Study
 
-A study by researchers from the [University of California-Berkeley](http://irle.berkeley.edu/files/2018/09/The-New-Wave-of-Local-Minimum-Wage-Policies.pdf) focused specifically on restaurant employees, while another study by researchers from the [University of Washington](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) examined unemployment numbers.
+A study by researchers from the [[University of California-Berkeley](http://irle.berkeley.edu/files/2018/09/The-New-Wave-of-Local-Minimum-Wage-Policies.pdf) focused specifically on restaurant employees, while another study by researchers from the [University of Washington]](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) examined unemployment numbers.
 
 The California researchers found that for every 10% increase in Seattle's minimum wage, employees of fast food restaurants saw a 2.3% boost in their earnings. This specific data is an example of positive economics, but the researchers' conclusion that the higher minimum wage was a success is not positive economics because the focus of the study was not broad enough or exhaustive enough to make such a finding.
 

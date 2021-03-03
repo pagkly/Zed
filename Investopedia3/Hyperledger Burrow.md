@@ -16,11 +16,11 @@ author: Jake Frankenfield
 Hyperledger Burrow
 ## DEFINITION of Hyperledger Burrow
 
-Hyperledger Burrow is one of the Hyperledger projects which operates as a permissioned [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp) [smart contract](https://www.investopedia.com/terms/s/smart-contracts.asp) [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) node. Its primary function is to execute the Ethereum smart contract programming code on a permissioned virtual machine.
+Hyperledger Burrow is one of the Hyperledger projects which operates as a permissioned [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) [[smart contract]](https://www.investopedia.com/terms/s/smart-contracts.asp) [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) node. Its primary function is to execute the Ethereum smart contract programming code on a permissioned virtual machine.
 
 ## BREAKING DOWN Hyperledger Burrow
 
-Hyperledger Burrow is hosted by the Linux Foundation and was originally designed by Monax, an open platform to build, ship, and run blockchain-based applications for [business ecosystems](https://www.investopedia.com/terms/b/business-ecosystem.asp). The famous processor and chipmaker Intel has also co-sponsored the project, which is currently in incubation stage.
+Hyperledger Burrow is hosted by the Linux Foundation and was originally designed by Monax, an open platform to build, ship, and run blockchain-based applications for [[business ecosystems]](https://www.investopedia.com/terms/b/business-ecosystem.asp). The famous processor and chipmaker Intel has also co-sponsored the project, which is currently in incubation stage.
 
 Hyperledger Burrow acts as a permissioned smart contract application engine whose primary job is executing and processing smart contract programs in a secure and efficient manner. It is built for a multi-chain environment that supports application specific optimization.
 

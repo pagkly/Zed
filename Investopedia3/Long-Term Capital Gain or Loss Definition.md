@@ -16,7 +16,7 @@ author: James Chen
 Long-Term Capital Gain or Loss Definition
 ## What Is a Long-Term Capital Gain or Loss?
 
-A long-term capital gain or loss is the gain or loss stemming from the sale of a [qualifying investment](https://www.investopedia.com/terms/q/qualifyinginvestment.asp) that has been owned for longer than 12 months at the time of sale. This may be contrasted with [short-term gains](https://www.investopedia.com/terms/s/short-term-gain.asp) or losses on investments that are disposed of in less than 12 months time. Long-term capital gains are often given more favorable tax treatment than short-term gains.1
+A long-term capital gain or loss is the gain or loss stemming from the sale of a [[qualifying investment]](https://www.investopedia.com/terms/q/qualifyinginvestment.asp) that has been owned for longer than 12 months at the time of sale. This may be contrasted with [[short-term gains]](https://www.investopedia.com/terms/s/short-term-gain.asp) or losses on investments that are disposed of in less than 12 months time. Long-term capital gains are often given more favorable tax treatment than short-term gains.1
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A long-term capital gain or loss is the gain or loss stemming from the sale of a
 
 ## Understanding Long-Term Capital Gain or Loss
 
-The long-term capital gain or [loss](https://www.investopedia.com/terms/c/capitalloss.asp) amount is determined by the difference in value between the sale price and the purchase price. This figure is either the net profit or loss that the investor experienced when selling the asset. Short-term capital gains or losses are determined by the net profit or loss an investor experienced when selling an asset that was owned for less than 12 months. The [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) assigns a lower tax rate to long-term capital gains than short-term capital gains.12
+The long-term capital gain or [[loss]](https://www.investopedia.com/terms/c/capitalloss.asp) amount is determined by the difference in value between the sale price and the purchase price. This figure is either the net profit or loss that the investor experienced when selling the asset. Short-term capital gains or losses are determined by the net profit or loss an investor experienced when selling an asset that was owned for less than 12 months. The [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) assigns a lower tax rate to long-term capital gains than short-term capital gains.12
 
-A taxpayer will need to report the total of their capital gains earned for the year when they file their annual [tax returns](https://www.investopedia.com/terms/t/taxreturn.asp) because the IRS will treat these short-term capital gains earnings as taxable income. Long-term capital gains are taxed at a lower rate, which as of 2019 ranged from 0 to 20 percent, depending on the tax bracket that the taxpayer is in.12
+A taxpayer will need to report the total of their capital gains earned for the year when they file their annual [[tax returns]](https://www.investopedia.com/terms/t/taxreturn.asp) because the IRS will treat these short-term capital gains earnings as taxable income. Long-term capital gains are taxed at a lower rate, which as of 2019 ranged from 0 to 20 percent, depending on the tax bracket that the taxpayer is in.12
 
-When it comes to capital gains losses, both short-term and long-term losses are treated the same. Taxpayers can claim these losses against any long-term gains they may have experienced during the filing period. These figures are all reported on [tax Form 1040](https://www.investopedia.com/terms/1/1040.asp).34
+When it comes to capital gains losses, both short-term and long-term losses are treated the same. Taxpayers can claim these losses against any long-term gains they may have experienced during the filing period. These figures are all reported on [[tax Form 1040]](https://www.investopedia.com/terms/1/1040.asp).34
 
 ## Examples of Long-Term Capital Gains and Losses
 

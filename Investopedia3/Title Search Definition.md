@@ -40,7 +40,7 @@ Before you close a deal on the purchase of a home, your attorney or a title comp
 
 You will likely want to include your attorney and real estate agent in these discussions. Issues discovered via a title search can run the gamut from minor to significant. Some problems are easily cleared up while others may take so long that they jeopardize your loan commitment.
 
-Even a company or professional experienced in conducting title searches can occasionally miss something, or there can be a paperwork error that leads to a document being overlooked. Mistakes can happen, and these mistakes can be costly if you later discover there’s an issue with the property once you have already completed the purchase. For this reason, buyers will often purchase [title insurance](https://www.investopedia.com/terms/t/title_insurance.asp) which can protect you and your mortgage lender from financial loss if a problem with the title arises during or after the sale.
+Even a company or professional experienced in conducting title searches can occasionally miss something, or there can be a paperwork error that leads to a document being overlooked. Mistakes can happen, and these mistakes can be costly if you later discover there’s an issue with the property once you have already completed the purchase. For this reason, buyers will often purchase [[title insurance]](https://www.investopedia.com/terms/t/title_insurance.asp) which can protect you and your mortgage lender from financial loss if a problem with the title arises during or after the sale.
 
 ## Special Considerations
 

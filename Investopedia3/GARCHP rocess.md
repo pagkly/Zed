@@ -16,7 +16,7 @@ author: Will Kenton
 GARCHP rocess
 ## What Is the GARCH Process?
 
-The generalized autoregressive conditional heteroskedasticity (GARCH) process is an econometric term developed in 1982 by Robert F. Engle, an economist and 2003 winner of the Nobel Memorial Prize for Economics. GARCH describes an approach to estimate [volatility](https://www.investopedia.com/terms/v/volatility.asp) in financial markets.
+The generalized autoregressive conditional heteroskedasticity (GARCH) process is an econometric term developed in 1982 by Robert F. Engle, an economist and 2003 winner of the Nobel Memorial Prize for Economics. GARCH describes an approach to estimate [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) in financial markets.
 
 There are several forms of GARCH modeling. Financial professionals often prefer the GARCH process because it provides a more real-world context than other models when trying to predict the prices and rates of financial instruments.
 
@@ -28,17 +28,17 @@ There are several forms of GARCH modeling. Financial professionals often prefer 
 
 ## Understanding the GARCH Process
 
-[Heteroskedasticity](https://www.investopedia.com/terms/h/heteroskedasticity.asp) describes the irregular pattern of variation of an error term, or variable, in a statistical model. Essentially, where there is heteroskedasticity, observations do not conform to a [linear pattern](https://www.investopedia.com/terms/l/linearrelationship.asp). Instead, they tend to cluster.
+[Heteroskedasticity](https://www.investopedia.com/terms/h/heteroskedasticity.asp) describes the irregular pattern of variation of an error term, or variable, in a statistical model. Essentially, where there is heteroskedasticity, observations do not conform to a [[linear pattern]](https://www.investopedia.com/terms/l/linearrelationship.asp). Instead, they tend to cluster.
 
-The result is that the conclusions and predictive value drawn from the model will not be reliable. GARCH is a statistical model that can be used to analyze a number of different types of financial data, for instance, macroeconomic data. Financial institutions typically use this model to estimate the volatility of returns for stocks, bonds, and [market indices](https://www.investopedia.com/terms/m/marketindex.asp). They use the resulting information to determine pricing, judge which assets will potentially provide higher returns, and forecast the returns of current investments to help in their asset allocation, hedging, risk management, and portfolio optimization decisions.
+The result is that the conclusions and predictive value drawn from the model will not be reliable. GARCH is a statistical model that can be used to analyze a number of different types of financial data, for instance, macroeconomic data. Financial institutions typically use this model to estimate the volatility of returns for stocks, bonds, and [[market indices]](https://www.investopedia.com/terms/m/marketindex.asp). They use the resulting information to determine pricing, judge which assets will potentially provide higher returns, and forecast the returns of current investments to help in their asset allocation, hedging, risk management, and portfolio optimization decisions.
 
-The general process for a GARCH model involves three steps. The first is to estimate a best-fitting [autoregressive](https://www.investopedia.com/terms/a/autoregressive.asp) model. The second is to compute [autocorrelations](https://www.investopedia.com/terms/a/autocorrelation.asp) of the [error term](https://www.investopedia.com/terms/e/errorterm.asp). The third step is to test for significance.
+The general process for a GARCH model involves three steps. The first is to estimate a best-fitting [[autoregressive]](https://www.investopedia.com/terms/a/autoregressive.asp) model. The second is to compute [[autocorrelations]](https://www.investopedia.com/terms/a/autocorrelation.asp) of the [[error term]](https://www.investopedia.com/terms/e/errorterm.asp). The third step is to test for significance.
 
-Two other widely used approaches to estimating and predicting financial volatility are the classic [historical volatility](https://www.investopedia.com/terms/h/historicalvolatility.asp) (VolSD) method and the [exponentially weighted moving average](https://www.investopedia.com/terms/e/ema.asp) volatility (VolEWMA) method.
+Two other widely used approaches to estimating and predicting financial volatility are the classic [[historical volatility]](https://www.investopedia.com/terms/h/historicalvolatility.asp) (VolSD) method and the [[exponentially weighted moving average]](https://www.investopedia.com/terms/e/ema.asp) volatility (VolEWMA) method.
 
 ## GARCH Models Best for Asset Returns
 
-GARCH processes differ from [homoskedastic](https://www.investopedia.com/terms/h/homoskedastic.asp) models, which assume constant volatility and are used in basic [ordinary least squares](https://www.investopedia.com/terms/l/least-squares.asp) (OLS) analysis. OLS aims to minimize the deviations between data points and a regression line to fit those points. With asset returns, volatility seems to vary during certain periods and depend on past variance, making a homoskedastic model suboptimal.
+GARCH processes differ from [[homoskedastic]](https://www.investopedia.com/terms/h/homoskedastic.asp) models, which assume constant volatility and are used in basic [[ordinary least squares]](https://www.investopedia.com/terms/l/least-squares.asp) (OLS) analysis. OLS aims to minimize the deviations between data points and a regression line to fit those points. With asset returns, volatility seems to vary during certain periods and depend on past variance, making a homoskedastic model suboptimal.
 
 GARCH processes, because they are autoregressive, depend on past squared observations and past variances to model for current variance. GARCH processes are widely used in finance due to their effectiveness in modeling asset returns and inflation. GARCH aims to minimize errors in forecasting by accounting for errors in prior forecasting and enhancing the accuracy of ongoing predictions.
 

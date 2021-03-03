@@ -16,7 +16,7 @@ author: Julia Kagan
 Guaranteed Renewable Policy Definition
 ## What is a Guaranteed Renewable Policy?
 
-A guaranteed renewable policy is an insurance policy feature that ensures that an insurer is obligated to continue coverage as long as [premiums](https://www.investopedia.com/terms/p/premium.asp) are paid on the policy. While re-insurability is guaranteed, premiums can rise based on the filing of a claim, injury, or other factors that could increase the risk of future claims. 
+A guaranteed renewable policy is an insurance policy feature that ensures that an insurer is obligated to continue coverage as long as [[premiums]](https://www.investopedia.com/terms/p/premium.asp) are paid on the policy. While re-insurability is guaranteed, premiums can rise based on the filing of a claim, injury, or other factors that could increase the risk of future claims. 
 
 ### Key Takeaways
 
@@ -46,4 +46,4 @@ With a guaranteed renewable policy, that choice belongs to the insurance company
 
 ### Conditionally Renewable Policy
 
-A conditionally renewable policy offers the least benefits to the policyholder compared to the other two policies—non-cancellable and guaranteed renewable, and guaranteed renewable. A [conditionally renewable](https://www.investopedia.com/terms/c/conditionally-renewable-policy.asp) policy offers no guarantee that your same benefits will be renewed every year; the insurance company can change the conditions of your policy every year if they choose to.
+A conditionally renewable policy offers the least benefits to the policyholder compared to the other two policies—non-cancellable and guaranteed renewable, and guaranteed renewable. A [[conditionally renewable]](https://www.investopedia.com/terms/c/conditionally-renewable-policy.asp) policy offers no guarantee that your same benefits will be renewed every year; the insurance company can change the conditions of your policy every year if they choose to.

@@ -16,7 +16,7 @@ author: Christina Majaski
 Retail Banking
 ## What Is Retail Banking?
 
-Retail banking, also known as consumer banking or personal banking, is banking that provides financial services to individual consumers rather than businesses. Retail banking is a way for individual consumers to manage their money, have access to credit, and deposit their money in a secure manner. Services offered by retail banks include checking and savings accounts, [mortgages](https://www.investopedia.com/terms/m/mortgage.asp), personal loans, credit cards, and [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs).
+Retail banking, also known as consumer banking or personal banking, is banking that provides financial services to individual consumers rather than businesses. Retail banking is a way for individual consumers to manage their money, have access to credit, and deposit their money in a secure manner. Services offered by retail banks include checking and savings accounts, [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp), personal loans, credit cards, and [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs).
 
 ### Key Takeaways
 
@@ -32,17 +32,17 @@ Many financial services companies aim to be the one-stop-shop retail banking des
 
 Most consumers utilize local branch banking services, which provide onsite customer service for all of a retail customer's banking needs. Through local branch locations, financial representatives provide customer service and financial advice. Financial representatives are also the lead contact for underwriting applications related to credit-approved products.
 
-Though a consumer may not use all of these retail banking services, the primary service is a [checking](https://www.investopedia.com/terms/c/checkingaccount.asp) and [savings](https://www.investopedia.com/terms/s/savingsaccount.asp) account to deposit money. This is a common, secure way for individuals to store their cash. Furthermore, it allows them the ability to earn interest on their money. Most savings accounts offer rates based on the fed funds rate. Checking and savings accounts also come with a debit card to allow for ease of withdrawal of funds and payment for goods and services.
+Though a consumer may not use all of these retail banking services, the primary service is a [[checking]](https://www.investopedia.com/terms/c/checkingaccount.asp) and [[savings]](https://www.investopedia.com/terms/s/savingsaccount.asp) account to deposit money. This is a common, secure way for individuals to store their cash. Furthermore, it allows them the ability to earn interest on their money. Most savings accounts offer rates based on the fed funds rate. Checking and savings accounts also come with a debit card to allow for ease of withdrawal of funds and payment for goods and services.
 
-Retail banks are also an important source of [credit](https://www.investopedia.com/terms/c/credit.asp) for individuals. They offer consumers credit to purchase large-scale items such as homes and cars. This extension of credit can take the form of mortgages, auto loans, or credit cards. This extension of credit is an important facet of the economy as it provides liquidity to the everyday consumer, which helps the economy grow.
+Retail banks are also an important source of [[credit]](https://www.investopedia.com/terms/c/credit.asp) for individuals. They offer consumers credit to purchase large-scale items such as homes and cars. This extension of credit can take the form of mortgages, auto loans, or credit cards. This extension of credit is an important facet of the economy as it provides liquidity to the everyday consumer, which helps the economy grow.
 
 One of the biggest trends in retail banking today is the shift to mobile and online banking. Specifically, banks are adding additional tools and features, such as the ability to put temporary holds on cards, view recurring charges, or scanning a fingerprint to log into an account, in order to retain their existing customers and attract new customers.
 
 ## How a Retail Bank Generates Income
 
-A retail bank stores the cash deposits of its retail clients. It then uses these deposits to make loans to other clients. The Federal Reserve requires that all banks keep 10% of their demand and checking deposits in-house overnight. This is known as the [reserve requirement](https://www.investopedia.com/terms/r/requiredreserves.asp) and is seen as a safety and [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) measure. This means that the remainder of the deposits is allowed to be loaned out. The banks charge interest rates on these loans at a higher rate than they pay on customer deposits, which is how banks earn income.
+A retail bank stores the cash deposits of its retail clients. It then uses these deposits to make loans to other clients. The Federal Reserve requires that all banks keep 10% of their demand and checking deposits in-house overnight. This is known as the [[reserve requirement]](https://www.investopedia.com/terms/r/requiredreserves.asp) and is seen as a safety and [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) measure. This means that the remainder of the deposits is allowed to be loaned out. The banks charge interest rates on these loans at a higher rate than they pay on customer deposits, which is how banks earn income.
 
-In the banking industry, consumers also rely on the Federal Deposit Insurance Corporation (FDIC) to insure their bank [deposits](https://www.investopedia.com/terms/d/deposit.asp). As of September 30, 2020, the FDIC insured 5,033 institutions, of which 4,401 were commercial banks and the remainder, savings banks. The total amount of assets the FDIC insured was $21.2 trillion and the total amount of loans insured was $10.9 trillion.1
+In the banking industry, consumers also rely on the Federal Deposit Insurance Corporation (FDIC) to insure their bank [[deposits]](https://www.investopedia.com/terms/d/deposit.asp). As of September 30, 2020, the FDIC insured 5,033 institutions, of which 4,401 were commercial banks and the remainder, savings banks. The total amount of assets the FDIC insured was $21.2 trillion and the total amount of loans insured was $10.9 trillion.1
 
 ## Types of Retail Banks
 
@@ -60,7 +60,7 @@ All of these banks offer retail banking services, which is a large portion of th
 
 ## Expanded Services in Retail Banking
 
-Banks are adding to their product offerings to provide a greater range of services for their retail clients. In addition to basic retail banking accounts and customer service from local branch financial representatives, banks are also adding teams of financial advisors with broadened product offerings, with investment services such as wealth management, brokerage accounts, [private banking](https://www.investopedia.com/terms/p/privatebanking.asp), and [retirement planning](https://www.investopedia.com/terms/r/retirement-planning.asp).
+Banks are adding to their product offerings to provide a greater range of services for their retail clients. In addition to basic retail banking accounts and customer service from local branch financial representatives, banks are also adding teams of financial advisors with broadened product offerings, with investment services such as wealth management, brokerage accounts, [[private banking]](https://www.investopedia.com/terms/p/privatebanking.asp), and [[retirement planning]](https://www.investopedia.com/terms/r/retirement-planning.asp).
 
 In the 21st century, a movement toward internet banking has also broadly expanded the offerings for retail banking customers. Several banks now provide online services to customers purely through the Internet and mobile applications, limiting the number of times a customer needs to go to a local branch to do business.
 

@@ -16,7 +16,7 @@ author: James Chen
 Reserve Fund
 ## What Is a Reserve Fund?
 
-A reserve fund is a savings account or other highly [liquid asset](https://www.investopedia.com/terms/l/liquidasset.asp) set aside by an individual or business to meet any future costs or financial obligations, especially those arising unexpectedly. If the fund is set up to meet the costs of scheduled upgrades, less liquid assets may be used. For example, a [homeowner's association](https://www.investopedia.com/terms/h/hoa.asp) often manages a reserve fund to help maintain the community and its amenities using the dues paid by homeowners.
+A reserve fund is a savings account or other highly [[liquid asset]](https://www.investopedia.com/terms/l/liquidasset.asp) set aside by an individual or business to meet any future costs or financial obligations, especially those arising unexpectedly. If the fund is set up to meet the costs of scheduled upgrades, less liquid assets may be used. For example, a [[homeowner's association]](https://www.investopedia.com/terms/h/hoa.asp) often manages a reserve fund to help maintain the community and its amenities using the dues paid by homeowners.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ A reserve fund is a savings account or other highly [liquid asset](https://www.i
 
 A reserve fund sets aside money for covering scheduled, routine and unscheduled expenses that would otherwise be drawn from a general fund. Governments, financial institutions, and private households may establish reserve funds.
 
-Although the fund size may vary, the typical goal is to deposit funds regularly in an account that accrues interest, thereby increasing the fund's value while not in use. Because expenses may arise unexpectedly, a reserve fund is typically kept in a highly liquid account, such as a [savings account](https://www.investopedia.com/terms/s/savingsaccount.asp).
+Although the fund size may vary, the typical goal is to deposit funds regularly in an account that accrues interest, thereby increasing the fund's value while not in use. Because expenses may arise unexpectedly, a reserve fund is typically kept in a highly liquid account, such as a [[savings account]](https://www.investopedia.com/terms/s/savingsaccount.asp).
 
 In pension funds, for example, money is invested on behalf of a fund's members and later paid out during retirement. When working employees sign up for a pension fund, they put money into a reserve fund that is used to ensure money is available for other employees who signed up to receive a payout when they retire.
 
@@ -37,9 +37,9 @@ In pension funds, for example, money is invested on behalf of a fund's members a
 
 Homeowners' associations and condominiums often use reserve funds in the event of large-scale maintenance or renovation projects, as well as for any costly community emergencies. Reserve funds are typically managed in tandem with operating funds, which more commonly fund the community's day-to-day expenses or recurring costs, such as housekeeping, taxes, insurance, and utilities.
 
-Condo communities and HOAs typically establish and maintain the funds using the dues, or [HOA fees](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp), paid by owners to cover maintenance, repairs, and other expenses incurred by the community. The community association's board usually oversees the funds and decides how to allocate its use. For example, rather than tapping into the operating fund, the board may use part of the reserve fund money to cover biannual insurance payments.
+Condo communities and HOAs typically establish and maintain the funds using the dues, or [[HOA fees]](https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp), paid by owners to cover maintenance, repairs, and other expenses incurred by the community. The community association's board usually oversees the funds and decides how to allocate its use. For example, rather than tapping into the operating fund, the board may use part of the reserve fund money to cover biannual insurance payments.
 
-If a condominium incurs a large expense that the reserve fund cannot cover, each member or owner may pay an [assessment](https://www.investopedia.com/terms/a/assessment.asp) to cover the cost. For example, when a condominium's parking garage needs emergency repairs, unit owners may be asked for additional funds beyond their regular association dues.
+If a condominium incurs a large expense that the reserve fund cannot cover, each member or owner may pay an [[assessment]](https://www.investopedia.com/terms/a/assessment.asp) to cover the cost. For example, when a condominium's parking garage needs emergency repairs, unit owners may be asked for additional funds beyond their regular association dues.
 
 ## Reserve Studies and Managing Reserve Funds
 

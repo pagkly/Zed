@@ -16,7 +16,7 @@ author: Julia Kagan
 Substantially Equal Periodic Payment (SEPP)
 ## What Is Substantially Equal Periodic Payment (SEPP)?
 
-Substantially Equal Periodic Payment, or SEPP, is a method of distributing funds from an [IRA](https://www.investopedia.com/terms/i/ira.asp) or other [qualified retirement plans](https://www.investopedia.com/terms/q/qrp.asp) prior to the age of 59½ that avoids incurring IRS penalties for the withdrawals. Typically, an individual who removes assets from a plan prior to that age will pay an early [withdrawal penalty](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) of 10% of the distributed amount.
+Substantially Equal Periodic Payment, or SEPP, is a method of distributing funds from an [[IRA]](https://www.investopedia.com/terms/i/ira.asp) or other [[qualified retirement plans]](https://www.investopedia.com/terms/q/qrp.asp) prior to the age of 59½ that avoids incurring IRS penalties for the withdrawals. Typically, an individual who removes assets from a plan prior to that age will pay an early [[withdrawal penalty]](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) of 10% of the distributed amount.
 
 With a SEPP plan, funds are withdrawn penalty-free through specified annual distributions for a period of five years or until the account-holder turns 59½, whichever comes later. Income tax must still be paid on the withdrawals.
 
@@ -31,9 +31,9 @@ With a SEPP plan, funds are withdrawn penalty-free through specified annual dis
 
 You can use any qualified retirement account with a SEPP plan, with the exception of a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) you hold at your current employer. You set up the SEPP arrangement through a financial advisor or directly with an institution.
 
-You must, at the outset, choose among three IRS-approved methods for calculating your distributions from a SEPP: [amortization](https://www.investopedia.com/terms/a/amortization.asp), [annuitization](https://www.investopedia.com/terms/a/annuitization.asp), and [required minimum distribution](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp). Each will result in a different calculated annual distribution. The amount you withdraw will be pre-determined and unchanged every year, at least with two of the three options.
+You must, at the outset, choose among three IRS-approved methods for calculating your distributions from a SEPP: [[amortization]](https://www.investopedia.com/terms/a/amortization.asp), [[annuitization]](https://www.investopedia.com/terms/a/annuitization.asp), and [[required minimum distribution]](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp). Each will result in a different calculated annual distribution. The amount you withdraw will be pre-determined and unchanged every year, at least with two of the three options.
 
-The IRS advises individuals to select the method that bests supports his or her financial situation. You're permitted to change the method you use once within the lifetime of the plan. Should you cancel the plan before the minimum [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) expires, you will have to pay the IRS all penalties it waived on the plan's distributions, plus interest.
+The IRS advises individuals to select the method that bests supports his or her financial situation. You're permitted to change the method you use once within the lifetime of the plan. Should you cancel the plan before the minimum [[holding period]](https://www.investopedia.com/terms/h/holdingperiod.asp) expires, you will have to pay the IRS all penalties it waived on the plan's distributions, plus interest.
 
 ### The Amortization Method
 

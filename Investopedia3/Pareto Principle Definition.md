@@ -16,7 +16,7 @@ author: Investopedia Staff
 Pareto Principle Definition
 ## What Is the Pareto Principle?
 
-The Pareto Principle, named after esteemed [economist](https://www.investopedia.com/terms/e/economist.asp) Vilfredo Pareto, specifies that 80% of consequences come from 20% of the causes, asserting an unequal relationship between inputs and outputs. This principle serves as a general reminder that the relationship between inputs and outputs is not balanced. The Pareto Principle is also known as the Pareto Rule or the 80/20 Rule.
+The Pareto Principle, named after esteemed [[economist]](https://www.investopedia.com/terms/e/economist.asp) Vilfredo Pareto, specifies that 80% of consequences come from 20% of the causes, asserting an unequal relationship between inputs and outputs. This principle serves as a general reminder that the relationship between inputs and outputs is not balanced. The Pareto Principle is also known as the Pareto Rule or the 80/20 Rule.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ The Pareto Principle, named after esteemed [economist](https://www.investopedia.
 
 ## Understanding the Pareto Principle
 
-The original observation of the Pareto Principle was linked to the relationship between [wealth](https://www.investopedia.com/terms/w/wealth.asp) and population. According to what Pareto observed, 80% of the land in Italy was owned by 20% of the population. After surveying a number of other countries, he found the same applied abroad. For the most part, the Pareto Principle is an observation that things in life are not always distributed evenly.
+The original observation of the Pareto Principle was linked to the relationship between [[wealth]](https://www.investopedia.com/terms/w/wealth.asp) and population. According to what Pareto observed, 80% of the land in Italy was owned by 20% of the population. After surveying a number of other countries, he found the same applied abroad. For the most part, the Pareto Principle is an observation that things in life are not always distributed evenly.
 
-The [](https://www.investopedia.com/video/play/pareto-principle-8020-rule/) Pareto Principle can be applied in a wide range of areas such as manufacturing, management, and [human resources](https://www.investopedia.com/terms/h/humanresources.asp). For instance, the efforts of 20% of a corporation's staff could drive 80% of the firm's [profits](https://www.investopedia.com/terms/p/profit.asp). The Pareto Principle can be applied especially those businesses that are client-service based. It has been adopted by a variety of coaching and customer relationship management (CRM) software programs.
+The [](https://www.investopedia.com/video/play/pareto-principle-8020-rule/) Pareto Principle can be applied in a wide range of areas such as manufacturing, management, and [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp). For instance, the efforts of 20% of a corporation's staff could drive 80% of the firm's [[profits]](https://www.investopedia.com/terms/p/profit.asp). The Pareto Principle can be applied especially those businesses that are client-service based. It has been adopted by a variety of coaching and customer relationship management (CRM) software programs.
 
 It can also be applied on a personal level. Time management is the most common use for the Pareto Principle, as most people tend to thinly spread out their time instead of focusing on the most important tasks. In terms of personal time management, 80% of your work-related output could come from only 20% of your time at work.
 
@@ -42,7 +42,7 @@ Financial advisory businesses commonly use the Pareto Principle to help manage t
 
 Advisory practices that have adopted the Pareto Principle have seen improvement in time management, productivity, and overall client satisfaction.
 
-The Pareto Principle seems simple but is hard to implement for the typical [financial advisor](https://www.investopedia.com/terms/f/financial-advisor.asp). The principle suggests that since 20 clients are paying 80 percent of the total fees, they should receive at least 80% of the customer service. Advisors should, therefore, spend most of their time cultivating the relationships of their top 20 clients.
+The Pareto Principle seems simple but is hard to implement for the typical [[financial advisor]](https://www.investopedia.com/terms/f/financial-advisor.asp). The principle suggests that since 20 clients are paying 80 percent of the total fees, they should receive at least 80% of the customer service. Advisors should, therefore, spend most of their time cultivating the relationships of their top 20 clients.
 
 However, as human nature suggests, this does not happen. Most advisors tend to spread out their time and services with less regard to a client’s status. If a client calls and has an issue, the advisor deals accordingly, regardless of how much income the client actually brings in to the advisor.
 

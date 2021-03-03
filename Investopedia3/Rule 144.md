@@ -16,7 +16,7 @@ author: Adam Hayes
 Rule 144
 ## What Is Rule 144?
 
-Rule 144 is a regulation enforced by the U.S. Securities and Exchange Commission (SEC) that sets the conditions under which [restricted](https://www.investopedia.com/terms/r/restricted-asset.asp), [unregistered](https://www.investopedia.com/terms/u/unregistered-shares.asp), and [control](https://www.investopedia.com/terms/c/controlstock.asp) securities can be sold or resold. Rule 144 provides an exemption from registration requirements to sell the securities through public markets if a number of specific conditions are met. The regulation applies to all types of sellers, in addition to issuers of securities, underwriters, and dealers.
+Rule 144 is a regulation enforced by the U.S. Securities and Exchange Commission (SEC) that sets the conditions under which [[restricted]](https://www.investopedia.com/terms/r/restricted-asset.asp), [[unregistered]](https://www.investopedia.com/terms/u/unregistered-shares.asp), and [[control]](https://www.investopedia.com/terms/c/controlstock.asp) securities can be sold or resold. Rule 144 provides an exemption from registration requirements to sell the securities through public markets if a number of specific conditions are met. The regulation applies to all types of sellers, in addition to issuers of securities, underwriters, and dealers.
 
 ### Key Takeaways
 
@@ -32,11 +32,11 @@ Rule 144 regulates transactions dealing with restricted, unregistered, and contr
 
 Five conditions must be met for restricted, unregistered and control securities to be sold or resold.
 
-1.  First, the prescribed [holding period](https://www.investopedia.com/terms/h/holdingperiod.asp) must be met. For a public company, the holding period is six months, and it begins from the date a holder purchased and fully paid for securities. For a company that does not have to make filings with the SEC, the holding period is one year. The holding period requirements apply primarily to restricted securities, while resale of control securities is subject to the other requirements under Rule 144.
+1.  First, the prescribed [[holding period]](https://www.investopedia.com/terms/h/holdingperiod.asp) must be met. For a public company, the holding period is six months, and it begins from the date a holder purchased and fully paid for securities. For a company that does not have to make filings with the SEC, the holding period is one year. The holding period requirements apply primarily to restricted securities, while resale of control securities is subject to the other requirements under Rule 144.
 2.  Second, there must be adequate current public information available to investors about a company, including historical financial statements, information about officers and directors, and a business description.
-3.  Third, if a selling party is an affiliate of a company, he cannot resell more than 1% of the total outstanding shares during any three-month period. If a company's stock is listed on a stock exchange, only the greater of 1% of total outstanding shares, or the average of the previous four-week trading volume can be sold. For [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) stocks, only the 1% rule applies.
+3.  Third, if a selling party is an affiliate of a company, he cannot resell more than 1% of the total outstanding shares during any three-month period. If a company's stock is listed on a stock exchange, only the greater of 1% of total outstanding shares, or the average of the previous four-week trading volume can be sold. For [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) stocks, only the 1% rule applies.
 5.  Fourth, all of the normal trading conditions that apply to any trade must be met. In particular, brokers cannot solicit buy orders, and they are not allowed to receive commissions in excess of their normal rates.
-6.  Finally, the SEC requires an affiliated [seller](https://www.investopedia.com/terms/s/seller.asp) to file a proposed sale notice, if the sale value exceeds $50,000 during any three-month period, or if there are more than 5,000 shares proposed for sale.
+6.  Finally, the SEC requires an affiliated [[seller]](https://www.investopedia.com/terms/s/seller.asp) to file a proposed sale notice, if the sale value exceeds $50,000 during any three-month period, or if there are more than 5,000 shares proposed for sale.
 
 ## Other Considerations
 

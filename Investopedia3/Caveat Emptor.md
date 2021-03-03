@@ -16,9 +16,9 @@ author: Julia Kagan
 Caveat Emptor
 ## What Is Caveat Emptor?
 
-_Caveat emptor_ is a Latin phrase that can be roughly translated in English to "let the buyer beware." While the phrase is sometimes used as a proverb in English, it is also sometimes used in legal contracts as a type of disclaimer. In many jurisdictions, it is the contract law principle that places the onus on the buyer to perform [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) before making a purchase.
+_Caveat emptor_ is a Latin phrase that can be roughly translated in English to "let the buyer beware." While the phrase is sometimes used as a proverb in English, it is also sometimes used in legal contracts as a type of disclaimer. In many jurisdictions, it is the contract law principle that places the onus on the buyer to perform [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp) before making a purchase.
 
-The term is commonly used in [real property](https://www.investopedia.com/terms/r/real-property.asp) transactions–as it relates to the sale of real estate property after the date of closing–but it also applies to the transactions of other types of goods, such as cars.
+The term is commonly used in [[real property]](https://www.investopedia.com/terms/r/real-property.asp) transactions–as it relates to the sale of real estate property after the date of closing–but it also applies to the transactions of other types of goods, such as cars.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ If he buys the car for the asking price and makes little or no effort to assess 
 
 In practice, there are many exceptions to this principle. For example, if Allison lied about the car's mileage or maintenance needs, she would have committed fraud, and Hasan would, in theory, be entitled to damages.
 
-Market forces act to reduce the applicability of caveat emptor in some cases. [Warranties](https://www.investopedia.com/terms/w/warranty.asp) are guarantees of quality or satisfaction that sellers issue voluntarily to buyers; if the sellers provide a quality product, they will not need to provide refunds or replacements very often, and buyers will be inclined to choose these vendors based on a perception of quality. 
+Market forces act to reduce the applicability of caveat emptor in some cases. [[Warranties]](https://www.investopedia.com/terms/w/warranty.asp) are guarantees of quality or satisfaction that sellers issue voluntarily to buyers; if the sellers provide a quality product, they will not need to provide refunds or replacements very often, and buyers will be inclined to choose these vendors based on a perception of quality. 
 
 Governments also push back against the principle of caveat emptor in order to protect consumers' interests. Informal transactions like the one between Allison and Hasan are mostly unregulated, but in industries such as financial services – especially since the [2008 financial crisis](https://www.investopedia.com/terms/g/great-recession.asp) – the buyer is often entitled to clear, largely standardized, information regarding the product. Many investors are familiar with what is colloquially called the "safe harbor statement," which complies with safeguards against companies that would deceive potential buyers about the quality of their stock. 
 

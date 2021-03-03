@@ -16,13 +16,13 @@ author: James Chen
 Large Cap (Big Cap)
 ## What Does Large Cap (Big Cap) Mean?
 
-Large cap (sometimes called "big cap") refers to a company with a market capitalization value of more than $10 billion. Large cap is a shortened version of the term "large market capitalization." [Market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) is calculated by multiplying the number of a company's shares outstanding by its stock price per share. A company’s stock is generally classified as large cap, mid cap or small cap.
+Large cap (sometimes called "big cap") refers to a company with a market capitalization value of more than $10 billion. Large cap is a shortened version of the term "large market capitalization." [[Market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) is calculated by multiplying the number of a company's shares outstanding by its stock price per share. A company’s stock is generally classified as large cap, mid cap or small cap.
 
 ## Large Cap (Big Cap) Explained
 
-Large cap stocks represent approximately 93% of the [total U.S. equities market](https://wilshire.com/indexes/wilshire-5000-family/wilshire-5000-total-market-index) as measured by the [Wilshire 5000 Total Market Index](https://wilshire.com/Portals/0/analytics/indexes/characteristics/wilshire-5000-characteristics.pdf).1 As of Sept. 30, 2020, the Index had 3,445 stocks representing the entire U.S. equity market universe.2
+Large cap stocks represent approximately 93% of the [[total U.S. equities market]](https://wilshire.com/indexes/wilshire-5000-family/wilshire-5000-total-market-index) as measured by the [[Wilshire 5000 Total Market Index]](https://wilshire.com/Portals/0/analytics/indexes/characteristics/wilshire-5000-characteristics.pdf).1 As of Sept. 30, 2020, the Index had 3,445 stocks representing the entire U.S. equity market universe.2
 
-As of June 30, 2020, the [top U.S. stocks by market cap](https://www.investopedia.com/articles/active-trading/111115/why-all-worlds-top-10-companies-are-american.asp) included the following:
+As of June 30, 2020, the [[top U.S. stocks by market cap]](https://www.investopedia.com/articles/active-trading/111115/why-all-worlds-top-10-companies-are-american.asp) included the following:
 
 1.  Apple (AAPL)
 2.  Microsoft (MSFT)
@@ -55,7 +55,7 @@ Publicly traded stock issuance is used as a capital raising mechanism for public
 
 ## Market Capitalization Categories
 
-In general, stocks are lumped into [three main categories](https://www.investopedia.com/articles/markets/022316/small-cap-vs-mid-cap-vs-large-cap-stocks-2016.asp) of capitalization: large cap, mid cap and small cap. However, mega cap and micro cap stock segregation may also be used. [Mega cap](https://www.investopedia.com/terms/m/megacap.asp) refers to stocks with a market cap of greater than $200 billion. Micro cap is less than $300 million and nano cap may also be used for less than $50 million.
+In general, stocks are lumped into [[three main categories]](https://www.investopedia.com/articles/markets/022316/small-cap-vs-mid-cap-vs-large-cap-stocks-2016.asp) of capitalization: large cap, mid cap and small cap. However, mega cap and micro cap stock segregation may also be used. [[Mega cap]](https://www.investopedia.com/terms/m/megacap.asp) refers to stocks with a market cap of greater than $200 billion. Micro cap is less than $300 million and nano cap may also be used for less than $50 million.
 
 A large cap company has a market capitalization of over $10 billion. A mid cap company has a market capitalization between $2 billion and $10 billion, and a small cap company has less than $2 billion in market capitalization. Large cap companies usually have broader market issuance experience with greater access to the capital markets. In general, large caps usually have the greatest trading liquidity.
 
@@ -63,4 +63,4 @@ A large cap company has a market capitalization of over $10 billion. A mid cap c
 
 Investors like to diversify their portfolios by investing in companies in different industries with varying market caps, revenues and earnings growth projections. Due to their size, large cap stocks are generally believed to be safer. While they do not offer the same growth opportunities as emerging mid cap and small cap companies, large cap companies are innovative market leaders and their stock price can gain significantly through specific market initiatives or around groundbreaking market solutions.
 
-Generally, large cap companies are typically used as core long-term investments in an investment portfolio because of their stability and dividends. Financial advisers suggest diversifying an investment portfolio by including small cap, mid cap, and large cap stocks. Allocations and investment decisions are typically based on risk tolerance and investment horizons. (See also [Financial Advisor](https://www.investopedia.com/terms/f/financial-advisor.asp) and [common advantages for investing in large cap](https://www.investopedia.com/ask/answers/041015/what-are-common-advantages-investing-large-cap-stocks.asp).)
+Generally, large cap companies are typically used as core long-term investments in an investment portfolio because of their stability and dividends. Financial advisers suggest diversifying an investment portfolio by including small cap, mid cap, and large cap stocks. Allocations and investment decisions are typically based on risk tolerance and investment horizons. (See also [[Financial Advisor]](https://www.investopedia.com/terms/f/financial-advisor.asp) and [[common advantages for investing in large cap]](https://www.investopedia.com/ask/answers/041015/what-are-common-advantages-investing-large-cap-stocks.asp).)

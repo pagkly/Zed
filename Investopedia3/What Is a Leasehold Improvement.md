@@ -16,9 +16,9 @@ author: James Chen
 What Is a Leasehold Improvement?
 ## What Is a Leasehold Improvement?
 
-Leasehold improvements are any changes made to a rental property in order to customize it for the particular needs of a tenant. These can include alterations such as painting, installing partitions, changing the flooring, or putting in customized light fixtures. Leasehold improvements can be undertaken either by the [landlord](https://www.investopedia.com/terms/l/landlord.asp)—who may offer to do so to increase the marketability of their rental unit—or by the tenants themselves.
+Leasehold improvements are any changes made to a rental property in order to customize it for the particular needs of a tenant. These can include alterations such as painting, installing partitions, changing the flooring, or putting in customized light fixtures. Leasehold improvements can be undertaken either by the [[landlord]](https://www.investopedia.com/terms/l/landlord.asp)—who may offer to do so to increase the marketability of their rental unit—or by the tenants themselves.
 
-While the useful economic life of most leasehold improvements is five-to-10 years, the [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp) requires that depreciation for such improvements to occur over the economic life of the building.
+While the useful economic life of most leasehold improvements is five-to-10 years, the [[Internal Revenue Code]](https://www.investopedia.com/terms/i/internal-revenue-code.asp) requires that depreciation for such improvements to occur over the economic life of the building.
 
 ## How Leasehold Improvements Work
 
@@ -54,14 +54,14 @@ Another type of leasehold improvement is a building standard allowance. The tena
 
 ## Leasehold Improvements Rules
 
-Changes have been made to the way landlords and tenants can claim deductions following the new [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) in 2017.
+Changes have been made to the way landlords and tenants can claim deductions following the new [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) in 2017.
 
-In December 2015, the United States Congress passed the [Protecting Americans from Tax Hikes](https://www.investopedia.com/terms/p/path-act.asp) (PATH) Act, which modified and extended many tax provisions related to depreciation, including leasehold improvements. The act made permanent a tax-savings provision that allows for 15-year straight-line cost recovery on qualified leasehold improvements.
+In December 2015, the United States Congress passed the [[Protecting Americans from Tax Hikes]](https://www.investopedia.com/terms/p/path-act.asp) (PATH) Act, which modified and extended many tax provisions related to depreciation, including leasehold improvements. The act made permanent a tax-savings provision that allows for 15-year straight-line cost recovery on qualified leasehold improvements.
 
 Under those guidelines, landlords and tenants were not allowed to be related, improvements only qualified if they were made to the interior of the building with only that tenant occupying the space, and leasehold improvements were required to be completed after three years of the building first being occupied for service.
 
-The new tax act in 2017 modified some of the requirements. Improvements must still be made to the interior of the building, which means enlargements to buildings, elevators and escalators, roofs, fire protection, alarm, and security systems, and HVAC systems still don't qualify. The qualified improvement property no longer requires both parties—landlord and tenant—to be unrelated. It also got rid of the three-year requirement, stating that all improvements may be made "after the date when the property was first placed in service," according to the [Internal Revenue Service](https://www.irs.gov/newsroom/new-rules-and-limitations-for-depreciation-and-expensing-under-the-tax-cuts-and-jobs-act) (IRS).
+The new tax act in 2017 modified some of the requirements. Improvements must still be made to the interior of the building, which means enlargements to buildings, elevators and escalators, roofs, fire protection, alarm, and security systems, and HVAC systems still don't qualify. The qualified improvement property no longer requires both parties—landlord and tenant—to be unrelated. It also got rid of the three-year requirement, stating that all improvements may be made "after the date when the property was first placed in service," according to the [[Internal Revenue Service]](https://www.irs.gov/newsroom/new-rules-and-limitations-for-depreciation-and-expensing-under-the-tax-cuts-and-jobs-act) (IRS).
 
 ## Claiming Leasehold Improvements
 
-The Internal Revenue Service (IRS) does not allow [deductions](https://www.investopedia.com/terms/d/deduction.asp) for improvements. But because improvements are considered part of the building, they are prone to depreciation. The IRS allows for depreciation deductions, as long as the conditions noted above are satisfied. Whoever does the work is allowed to make the depreciation deduction—whether it's the landlord or the tenant. The new tax act increased the maximum amount allowed to $1 million from $500,000.
+The Internal Revenue Service (IRS) does not allow [[deductions]](https://www.investopedia.com/terms/d/deduction.asp) for improvements. But because improvements are considered part of the building, they are prone to depreciation. The IRS allows for depreciation deductions, as long as the conditions noted above are satisfied. Whoever does the work is allowed to make the depreciation deduction—whether it's the landlord or the tenant. The new tax act increased the maximum amount allowed to $1 million from $500,000.

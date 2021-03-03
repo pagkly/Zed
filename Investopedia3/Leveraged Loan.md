@@ -16,11 +16,11 @@ author: Will Kenton
 Leveraged Loan
 ## What Is a Leveraged Loan?
 
-A leveraged loan is a type of loan that is extended to companies or individuals that already have considerable amounts of debt or poor credit history. [Lenders](https://www.investopedia.com/terms/l/lender.asp) consider leveraged loans to carry a higher risk of [default](https://www.investopedia.com/terms/d/default2.asp), and as a result, a leveraged loan is more costly to the borrower. Default occurs when a borrower can't make any payments for an extended period. Leveraged loans for companies or individuals with debt tend to have higher interest rates than typical loans. These rates reflect the higher level of risk involved in issuing the loans.
+A leveraged loan is a type of loan that is extended to companies or individuals that already have considerable amounts of debt or poor credit history. [[Lenders]](https://www.investopedia.com/terms/l/lender.asp) consider leveraged loans to carry a higher risk of [[default]](https://www.investopedia.com/terms/d/default2.asp), and as a result, a leveraged loan is more costly to the borrower. Default occurs when a borrower can't make any payments for an extended period. Leveraged loans for companies or individuals with debt tend to have higher interest rates than typical loans. These rates reflect the higher level of risk involved in issuing the loans.
 
-There are no set rules or criteria for defining a leveraged loan. Some market participants base it on a spread. For instance, many of the loans pay a floating rate, typically based on the [London Interbank Offered Rate](https://www.investopedia.com/terms/l/libor.asp) (LIBOR) plus a stated interest margin. LIBOR is considered a benchmark rate and is an average of rates that global banks lend to each other.
+There are no set rules or criteria for defining a leveraged loan. Some market participants base it on a spread. For instance, many of the loans pay a floating rate, typically based on the [[London Interbank Offered Rate]](https://www.investopedia.com/terms/l/libor.asp) (LIBOR) plus a stated interest margin. LIBOR is considered a benchmark rate and is an average of rates that global banks lend to each other.
 
-If the [interest margin](https://www.investopedia.com/terms/n/netinterestmargin.asp) is above a certain level, it is considered a leveraged loan. Others base it on the rating, with loans rated below investment grade, which is categorized as Ba3, BB-, or lower from the rating agencies [Moody’s](https://www.investopedia.com/terms/m/moodys.asp) and [S&P](https://www.investopedia.com/terms/s/sp.asp).
+If the [[interest margin]](https://www.investopedia.com/terms/n/netinterestmargin.asp) is above a certain level, it is considered a leveraged loan. Others base it on the rating, with loans rated below investment grade, which is categorized as Ba3, BB-, or lower from the rating agencies [[Moody’s]](https://www.investopedia.com/terms/m/moodys.asp) and [[S&P]](https://www.investopedia.com/terms/s/sp.asp).
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ If the [interest margin](https://www.investopedia.com/terms/n/netinterestmargin.
 
 ## Understanding a Leveraged Loan
 
-A leveraged loan is structured, arranged, and administered by at least one commercial or investment bank. These institutions are called arrangers and subsequently may sell the loan, in a process known as [syndication](https://www.investopedia.com/terms/s/syndicate.asp), to other banks or investors to lower the risk to lending institutions.
+A leveraged loan is structured, arranged, and administered by at least one commercial or investment bank. These institutions are called arrangers and subsequently may sell the loan, in a process known as [[syndication]](https://www.investopedia.com/terms/s/syndicate.asp), to other banks or investors to lower the risk to lending institutions.
 
 According to an announcement by the Federal Reserve, banks should stop writing contracts using LIBOR by the end of 2021. The Intercontinental Exchange, the authority responsible for LIBOR, will stop publishing one week and two month LIBOR after December 31, 2021. All contracts using LIBOR must be wrapped up by June 30, 2023.1
 
@@ -38,7 +38,7 @@ Typically, banks are allowed to change the terms when syndicating the loan, whic
 
 ## How Do Businesses Use a Leveraged Loan?
 
-Companies typically use a leveraged loan to finance [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A), recapitalize the balance sheet, refinance debt, or for general corporate purposes. M&A could take the form of a [leveraged buyout](https://www.investopedia.com/terms/l/leveragedbuyout.asp) (LBO). An LBO occurs when a company or private equity company purchases a public entity and takes it private. Typically, debt is used to finance a portion of the purchase price. A recapitalization of the balance sheet occurs when a company uses the capital markets to change the composition of its capital structure. A typical transaction issues debt to buy back stock or pay a [dividend](https://www.investopedia.com/terms/d/dividend.asp), which are cash rewards paid to shareholders.
+Companies typically use a leveraged loan to finance [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A), recapitalize the balance sheet, refinance debt, or for general corporate purposes. M&A could take the form of a [[leveraged buyout]](https://www.investopedia.com/terms/l/leveragedbuyout.asp) (LBO). An LBO occurs when a company or private equity company purchases a public entity and takes it private. Typically, debt is used to finance a portion of the purchase price. A recapitalization of the balance sheet occurs when a company uses the capital markets to change the composition of its capital structure. A typical transaction issues debt to buy back stock or pay a [[dividend]](https://www.investopedia.com/terms/d/dividend.asp), which are cash rewards paid to shareholders.
 
 Leveraged loans allow companies or individuals that already have high debt or poor credit history to borrow cash, though at higher interest rates than usual.
 

@@ -16,17 +16,17 @@ author: Will Kenton
 Debit Note
 ## What Is a Debit Note?
 
-A debit note is a document used by a vendor to inform the buyer of current debt [obligations](https://www.investopedia.com/terms/o/obligation.asp), or a document created by a buyer when returning goods received on [credit](https://www.investopedia.com/terms/c/credit.asp). The debit note can provide information regarding an upcoming [invoice](https://www.investopedia.com/terms/i/invoice.asp) or serve as a reminder for funds currently due. For returned items, the note will include the total anticipated credit, an inventory of the returned items, and the reason for their return.
+A debit note is a document used by a vendor to inform the buyer of current debt [[obligations]](https://www.investopedia.com/terms/o/obligation.asp), or a document created by a buyer when returning goods received on [[credit]](https://www.investopedia.com/terms/c/credit.asp). The debit note can provide information regarding an upcoming [[invoice]](https://www.investopedia.com/terms/i/invoice.asp) or serve as a reminder for funds currently due. For returned items, the note will include the total anticipated credit, an inventory of the returned items, and the reason for their return.
 
 ### Key Takeaways:
 
 -   A debit note is separate from an invoice and informs a buyer of current debt obligations.
--   A debit note is also a document created by a buyer when returning goods received on [credit](https://www.investopedia.com/terms/c/credit.asp).
+-   A debit note is also a document created by a buyer when returning goods received on [[credit]](https://www.investopedia.com/terms/c/credit.asp).
 -   In the case of returned items, the note will show the credit amount, the inventory of the returned items, and the reason for the return.
 
 ## How a Debit Note Works
 
-A debit note, also known as a [debit memo](https://www.investopedia.com/terms/d/debit-memorandum.asp), is generally used in business-to-business transactions. Such transactions often involve an extension of credit, meaning a vendor sends a shipment of goods to a company before the buyer's cost is paid. The note tells the buyer that the seller has debited their account. Although real goods are changing hands, real money is not transferred until an actual invoice is issued. Debits and credits are instead logged in an accounting system to track shipped [inventories](https://www.investopedia.com/terms/i/inventory.asp) and payments owed.
+A debit note, also known as a [[debit memo]](https://www.investopedia.com/terms/d/debit-memorandum.asp), is generally used in business-to-business transactions. Such transactions often involve an extension of credit, meaning a vendor sends a shipment of goods to a company before the buyer's cost is paid. The note tells the buyer that the seller has debited their account. Although real goods are changing hands, real money is not transferred until an actual invoice is issued. Debits and credits are instead logged in an accounting system to track shipped [[inventories]](https://www.investopedia.com/terms/i/inventory.asp) and payments owed.
 
 Debit notes are separate from invoices because they are generally formatted as letters, and they may not require immediate payment. This is true when the debit note is used to inform the buyer of upcoming debt obligations based on amounts that have yet to be officially invoiced.
 

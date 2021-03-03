@@ -16,7 +16,7 @@ author: Adam Hayes
 Learn About Qualified Institutional Placement (QIP)
 ## What Is a Qualified Institutional Placement (QIP)
 
-A qualified institutional placement (QIP) is, at its core, a way for listed companies to raise capital without having to submit legal paperwork to market regulators. It is common in India and other Southeast Asian countries. The [Securities and Exchange Board of India](https://www.investopedia.com/terms/s/sebi.asp) (SEBI) created the rule to avoid the dependence of companies on foreign capital resources.
+A qualified institutional placement (QIP) is, at its core, a way for listed companies to raise capital without having to submit legal paperwork to market regulators. It is common in India and other Southeast Asian countries. The [[Securities and Exchange Board of India]](https://www.investopedia.com/terms/s/sebi.asp) (SEBI) created the rule to avoid the dependence of companies on foreign capital resources.
 
 ### Key Takeaways
 
@@ -28,19 +28,19 @@ A qualified institutional placement (QIP) is, at its core, a way for listed comp
 
 ## How a Qualified Institutional Placement (QIP) Works
 
-A qualified institutional placement (QIP) was initially a designation of a [securities](https://www.investopedia.com/terms/s/security.asp) issue given by the Securities and Exchange Board of India (SEBI). The QIP allows an Indian-listed company to raise capital from domestic markets without the need to submit any pre-issue filings to market regulators. The SEBI limits companies to only raising money through issuing securities.  
+A qualified institutional placement (QIP) was initially a designation of a [[securities]](https://www.investopedia.com/terms/s/security.asp) issue given by the Securities and Exchange Board of India (SEBI). The QIP allows an Indian-listed company to raise capital from domestic markets without the need to submit any pre-issue filings to market regulators. The SEBI limits companies to only raising money through issuing securities.  
 
-The SEBI put forth the guidelines for this unique avenue of Indian [financing](https://www.investopedia.com/terms/f/financing.asp) on May 8, 2006. The primary reason for developing QIPs was to keep India from depending too much on foreign capital to fund its economic growth.
+The SEBI put forth the guidelines for this unique avenue of Indian [[financing]](https://www.investopedia.com/terms/f/financing.asp) on May 8, 2006. The primary reason for developing QIPs was to keep India from depending too much on foreign capital to fund its economic growth.
 
-Before the QIP, there was a growing concern from Indian regulators that its domestic companies were accessing international funding too readily via [American depository receipts](https://www.investopedia.com/terms/a/adr.asp) (ADRs), [foreign currency convertible bonds](https://www.investopedia.com/terms/f/fccb.asp) (FCCBs) and [global depository receipts](https://www.investopedia.com/terms/g/gdr.asp) (GDR), rather than Indian-based capital sources. Authorities proposed the QIP guidelines to encourage Indian companies to raise funds domestically instead of tapping into overseas markets.
+Before the QIP, there was a growing concern from Indian regulators that its domestic companies were accessing international funding too readily via [American depository receipts](https://www.investopedia.com/terms/a/adr.asp) (ADRs), [[foreign currency convertible bonds]](https://www.investopedia.com/terms/f/fccb.asp) (FCCBs) and [[global depository receipts]](https://www.investopedia.com/terms/g/gdr.asp) (GDR), rather than Indian-based capital sources. Authorities proposed the QIP guidelines to encourage Indian companies to raise funds domestically instead of tapping into overseas markets.
 
-QIPs are helpful for a few reasons. Their use saves time as the issuance of QIPs and the access to capital is far quicker than through a [follow-on public offer](https://www.investopedia.com/terms/f/fpo.asp) (FPO). The speed is because QIPs have far fewer legal rules and regulations to follow, making them much more cost-efficient. Further, there are fewer legal fees and there is no cost of listing overseas. 
+QIPs are helpful for a few reasons. Their use saves time as the issuance of QIPs and the access to capital is far quicker than through a [[follow-on public offer]](https://www.investopedia.com/terms/f/fpo.asp) (FPO). The speed is because QIPs have far fewer legal rules and regulations to follow, making them much more cost-efficient. Further, there are fewer legal fees and there is no cost of listing overseas. 
 
 In India, 47 firms together raised Rs 551 billion ($8 billion) through QIPs in the fiscal year 2018. This figure is the highest ever in a financial year. However, as of early 2019, 30 of those 47 QIPs were trading below their original issue prices.
 
 ## Regulations for a Qualified Institutional Placement (QIP)
 
-To be allowed to raise [capital](https://www.investopedia.com/terms/c/capital.asp) through a QIP, a firm must be listed on a [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) along with the minimum shareholding requirements as specified in their listing agreement. Also, the company must issue at least 10% of its issued securities to mutual funds or [allottees](https://www.investopedia.com/terms/a/allotment.asp).
+To be allowed to raise [[capital]](https://www.investopedia.com/terms/c/capital.asp) through a QIP, a firm must be listed on a [[stock exchange]](https://www.investopedia.com/articles/basics/04/092404.asp) along with the minimum shareholding requirements as specified in their listing agreement. Also, the company must issue at least 10% of its issued securities to mutual funds or [[allottees]](https://www.investopedia.com/terms/a/allotment.asp).
 
 Regulations also exist for the number of allottees on a QIP, depending on the specific factors within an issue. Additionally, no single allottee is allowed to own more than 50% of the total debt issue. Furthermore, allottees must not be related in any way to promoters of the issue. Several more regulations dictate who may or may not receive QIP securities issues. 
 

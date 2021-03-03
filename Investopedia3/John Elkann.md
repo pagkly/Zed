@@ -16,7 +16,7 @@ author: Julia Kagan
 John Elkann
 ## DEFINITION of John Elkann
 
-John Elkann is a global automotive industrialist who earns the title through both family connections and a lot of work for his family and his businesses. Elkann is the chairman of Italian automaker [Fiat Chrysler,](https://www.investopedia.com/articles/company-insights/090416/top-7-companies-owned-chrysler-fcau.asp) a global automobile brand that also includes Alpha Romeo, Chrysler, Dodge, Jeep, Maserati, and Ferrari. He is also the chairman of Exor, a holding company that controls Fiat Chrysler and other brands. He is also the owner of the Juventus football club, a popular sporting team in Turin, Italy.
+John Elkann is a global automotive industrialist who earns the title through both family connections and a lot of work for his family and his businesses. Elkann is the chairman of Italian automaker [[Fiat Chrysler,]](https://www.investopedia.com/articles/company-insights/090416/top-7-companies-owned-chrysler-fcau.asp) a global automobile brand that also includes Alpha Romeo, Chrysler, Dodge, Jeep, Maserati, and Ferrari. He is also the chairman of Exor, a holding company that controls Fiat Chrysler and other brands. He is also the owner of the Juventus football club, a popular sporting team in Turin, Italy.
 
 ## BREAKING DOWN John Elkann
 

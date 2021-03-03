@@ -16,11 +16,11 @@ author:  Staff Author
 Simplified Employee Pension (SEP)
 ## What Is a Simplified Employee Pension (SEP)?
 
-A simplified employee pension (SEP) is an [individual retirement account](https://www.investopedia.com/terms/i/ira.asp) (IRA) that an employer or a self-employed person can establish.1 The employer is allowed a [tax deduction](https://www.investopedia.com/terms/t/tax-deduction.asp) for contributions made to a SEP IRA and makes contributions to each eligible employee’s plan on a discretionary basis.2
+A simplified employee pension (SEP) is an [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA) that an employer or a self-employed person can establish.1 The employer is allowed a [[tax deduction]](https://www.investopedia.com/terms/t/tax-deduction.asp) for contributions made to a SEP IRA and makes contributions to each eligible employee’s plan on a discretionary basis.2
 
-Additionally, under the [Setting Every Community Up for Retirement Enhancement (SECURE) Act](https://www.investopedia.com/secure-act-4688468), which was enacted on Dec. 20, 2019, small employers get a tax credit to offset the costs of starting a 401(k) plan or [SIMPLE IRA](https://www.investopedia.com/terms/s/simple-ira.asp) with auto-enrollment. That’s on top of the start-up credit they already receive.3 4 5
+Additionally, under the [[Setting Every Community Up for Retirement Enhancement (SECURE) Act]](https://www.investopedia.com/secure-act-4688468), which was enacted on Dec. 20, 2019, small employers get a tax credit to offset the costs of starting a 401(k) plan or [[SIMPLE IRA]](https://www.investopedia.com/terms/s/simple-ira.asp) with auto-enrollment. That’s on top of the start-up credit they already receive.3 4 5
 
-SEP IRAs often have higher annual contribution limits than standard IRAs.6 Fundamentally, a SEP IRA can be considered [a traditional IRA with the ability to receive employer contributions](https://www.investopedia.com/retirement/reasons-use-employer-sponsored-retirement-plan/). One major benefit it offers employees is that employer contributions are vested immediately.7
+SEP IRAs often have higher annual contribution limits than standard IRAs.6 Fundamentally, a SEP IRA can be considered [[a traditional IRA with the ability to receive employer contributions]](https://www.investopedia.com/retirement/reasons-use-employer-sponsored-retirement-plan/). One major benefit it offers employees is that employer contributions are vested immediately.7
 
 ### Key Takeaways
 
@@ -56,7 +56,7 @@ When a business is a sole proprietorship, the employee-owner pays themselves wag
 
 Because the funding vehicle for a SEP plan is a traditional IRA, SEP contributions, once deposited, become traditional IRA assets and are subject to many of the traditional IRA rules, including the following:
 
--   [Distribution](https://www.investopedia.com/terms/d/distribution.asp) rules
+-   [[Distribution]](https://www.investopedia.com/terms/d/distribution.asp) rules
 -   Investment rules
 -   Contribution and deduction rules for traditional IRA contributions, which apply to the employee’s regular IRA contributions, not the SEP employer contributions
 -   Documentation requirements for establishing an IRA
@@ -71,7 +71,7 @@ The compensation limit for a business to be allowed to set up a SEP IRA in 2021 
 
 [Not all businesses can start SEP IRAs](https://www.investopedia.com/ask/answers/05/llcira.asp), which were primarily designed to encourage retirement benefits among businesses that would otherwise not set up employer-sponsored plans. Sole proprietors, partnerships, and corporations can establish SEPs. Too high an income can be a limitation—the 2020 eligible compensation limit is $285,000 (up from $280,000 in 2019 and rising to $290,000 in 2021).2 13 Unlike qualified retirement plans—under which participants, including the business owner, may borrow up to the lesser of 50% or $50,000 of their vested balance—the SEP does not have this feature.18 7
 
-Moreover, certain types of employees may be excluded by their employer from participating in a SEP IRA, even if they would otherwise be eligible based on the plan’s rules. Workers who are covered in a union [collective bargaining](https://www.investopedia.com/terms/c/collective-bargaining.asp) agreement for retirement benefits, for example, can be excluded. Workers who are nonresident aliens can also be excluded as long as they do not receive U.S. wages or other service compensation from the employer.19
+Moreover, certain types of employees may be excluded by their employer from participating in a SEP IRA, even if they would otherwise be eligible based on the plan’s rules. Workers who are covered in a union [[collective bargaining]](https://www.investopedia.com/terms/c/collective-bargaining.asp) agreement for retirement benefits, for example, can be excluded. Workers who are nonresident aliens can also be excluded as long as they do not receive U.S. wages or other service compensation from the employer.19
 
 SEP contributions and earnings are held in SEP IRAs and can be withdrawn at any time, subject to the general limitations imposed on traditional IRAs. A withdrawal is taxable in the year received. If a participant makes a withdrawal before age 59½, generally a 10% additional tax applies.15
 
@@ -79,15 +79,15 @@ SEP contributions and earnings may be rolled over tax free to other IRAs and r
 
 ## SEP IRA vs. Individual 401(k)
 
-A SEP IRA and an individual 401(k), also known as a [solo 401(k)](https://www.investopedia.com/retirement/401k-plans-small-business-owner/), are [both retirement accounts that allow employer contributions](https://www.investopedia.com/articles/financial-advisors/012716/solo-401k-vs-sep-which-best-biz-owners.asp). They have two main differences.
+A SEP IRA and an individual 401(k), also known as a [[solo 401(k)]](https://www.investopedia.com/retirement/401k-plans-small-business-owner/), are [[both retirement accounts that allow employer contributions]](https://www.investopedia.com/articles/financial-advisors/012716/solo-401k-vs-sep-which-best-biz-owners.asp). They have two main differences.
 
-The first is that although the maximum contribution limit for both is comparable [once income levels reach $200,000](https://www.investopedia.com/articles/retirement/10/individual-401k-sole-proprietor.asp), you can contribute more to a 401(k) at lower income levels than you can to a SEP IRA. In addition, if you are 50 or older, the 401(k) has a catch-up contribution, which the SEP IRA does not. The second important difference is that you can take a loan against the 401(k), something that is not allowed with a SEP IRA.
+The first is that although the maximum contribution limit for both is comparable [[once income levels reach $200,000]](https://www.investopedia.com/articles/retirement/10/individual-401k-sole-proprietor.asp), you can contribute more to a 401(k) at lower income levels than you can to a SEP IRA. In addition, if you are 50 or older, the 401(k) has a catch-up contribution, which the SEP IRA does not. The second important difference is that you can take a loan against the 401(k), something that is not allowed with a SEP IRA.
 
 A SEP IRA, however, is somewhat easier to set up and maintain. An individual 401(k) requires its owner to be more involved in its administrative responsibilities, and it can also generate higher fees than a SEP IRA.
 
 ## SEP IRA vs. Traditional IRA vs. Roth IRA
 
-There are important [differences among these three retirement accounts](https://www.investopedia.com/ask/answers/08/roth-traditional-sep.asp). With a traditional IRA, you contribute tax-free money, which reduces your tax bill in the year in which you make the contribution. However, when you withdraw funds in retirement, they are taxed as ordinary income, and you are required to make distributions once you reach the age of 72.20 This makes it best for people who expect to be in a lower tax bracket when they retire.
+There are important [[differences among these three retirement accounts]](https://www.investopedia.com/ask/answers/08/roth-traditional-sep.asp). With a traditional IRA, you contribute tax-free money, which reduces your tax bill in the year in which you make the contribution. However, when you withdraw funds in retirement, they are taxed as ordinary income, and you are required to make distributions once you reach the age of 72.20 This makes it best for people who expect to be in a lower tax bracket when they retire.
 
 A Roth IRA reverses the process. You have already paid income tax on the money you contribute, so withdrawals in retirement are tax free. This makes a Roth IRA better for people who expect to be in a higher tax bracket in retirement. In addition, there are no required minimum distributions from a Roth IRA, so if you don’t need the money, you can just let it sit there and pass the account on to your heirs.
 

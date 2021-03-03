@@ -16,7 +16,7 @@ author: Adam Hayes
 Liability
 ## What Is a Liability?
 
-A liability is something a person or company owes, usually a sum of money. Liabilities are settled over time through the transfer of economic benefits including money, goods, or services. Recorded on the [right side](https://www.investopedia.com/terms/d/debit.asp) of the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp), liabilities include loans, [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp), mortgages, deferred revenues, bonds, warranties, and accrued expenses.
+A liability is something a person or company owes, usually a sum of money. Liabilities are settled over time through the transfer of economic benefits including money, goods, or services. Recorded on the [[right side]](https://www.investopedia.com/terms/d/debit.asp) of the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp), liabilities include loans, [[accounts payable]](https://www.investopedia.com/terms/a/accountspayable.asp), mortgages, deferred revenues, bonds, warranties, and accrued expenses.
 
 In general, a liability is an obligation between one party and another not yet completed or paid for. In the world of accounting, a financial liability is also an obligation but is more defined by previous business transactions, events, sales, exchange of assets or services, or anything that would provide economic benefit at a later date. Liabilities are usually considered short term (expected to be concluded in 12 months or less) or long term (12 months or greater).
 
@@ -24,21 +24,21 @@ Liabilities are also known as current or non-current depending on the context. T
 
 ## Liabilities Explained
 
-Liabilities are a vital aspect of a company because they are used to finance operations and pay for large [expansions](https://www.investopedia.com/terms/e/expansion.asp). They can also make transactions between businesses more efficient. For example, in most cases, if a wine supplier sells a case of wine to a restaurant, it does not demand payment when it delivers the goods. Rather, it invoices the restaurant for the purchase to streamline the dropoff and make paying easier for the restaurant.
+Liabilities are a vital aspect of a company because they are used to finance operations and pay for large [[expansions]](https://www.investopedia.com/terms/e/expansion.asp). They can also make transactions between businesses more efficient. For example, in most cases, if a wine supplier sells a case of wine to a restaurant, it does not demand payment when it delivers the goods. Rather, it invoices the restaurant for the purchase to streamline the dropoff and make paying easier for the restaurant.
 
 The outstanding money that the restaurant owes to its wine supplier is considered a liability. In contrast, the wine supplier considers the money it is owed to be an asset.
 
 ### Other Definitions of Liability
 
-Generally, liability refers to the state of being responsible for something, and this term can refer to any money or service owed to another party. Tax liability, for example, can refer to the [property taxes](https://www.investopedia.com/terms/p/propertytax.asp) that a homeowner owes to the municipal government or the income tax he owes to the federal government. When a retailer collects sales tax from a customer, they have a sales tax liability on their books until they remit those funds to the county/city/state.
+Generally, liability refers to the state of being responsible for something, and this term can refer to any money or service owed to another party. Tax liability, for example, can refer to the [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp) that a homeowner owes to the municipal government or the income tax he owes to the federal government. When a retailer collects sales tax from a customer, they have a sales tax liability on their books until they remit those funds to the county/city/state.
 
 Liability may also refer to the legal liability of a business or individual. For example, many businesses take out liability insurance in case a customer or employee sues them for negligence.
 
 ## Current Versus Long-Term Liabilities
 
-Businesses sort their liabilities into two categories: current and long-term. Current liabilities are debts payable within one year, while [long-term liabilities](https://www.investopedia.com/terms/l/longtermliabilities.asp) are debts payable over a longer period. For example, if a business takes out a mortgage payable over a 15-year period, that is a long-term liability. However, the mortgage payments that are due during the current year are considered the current portion of long-term debt and are recorded in the short-term liabilities section of the balance sheet.
+Businesses sort their liabilities into two categories: current and long-term. Current liabilities are debts payable within one year, while [[long-term liabilities]](https://www.investopedia.com/terms/l/longtermliabilities.asp) are debts payable over a longer period. For example, if a business takes out a mortgage payable over a 15-year period, that is a long-term liability. However, the mortgage payments that are due during the current year are considered the current portion of long-term debt and are recorded in the short-term liabilities section of the balance sheet.
 
-Ideally, analysts want to see that a company can pay current liabilities, which are due within a year, with [cash](https://www.investopedia.com/articles/investing/022615/portfolio-immunization-vs-cash-flow-matching.asp). Some examples of short-term liabilities include payroll expenses and accounts payable, which includes money owed to vendors, monthly utilities, and similar expenses. In contrast, analysts want to see that long-term liabilities can be paid with assets derived from future earnings or financing transactions. Bonds and loans are not the only long-term liabilities companies incur. Items like rent, deferred taxes, payroll, and pension obligations can also be listed under long-term liabilities.
+Ideally, analysts want to see that a company can pay current liabilities, which are due within a year, with [[cash]](https://www.investopedia.com/articles/investing/022615/portfolio-immunization-vs-cash-flow-matching.asp). Some examples of short-term liabilities include payroll expenses and accounts payable, which includes money owed to vendors, monthly utilities, and similar expenses. In contrast, analysts want to see that long-term liabilities can be paid with assets derived from future earnings or financing transactions. Bonds and loans are not the only long-term liabilities companies incur. Items like rent, deferred taxes, payroll, and pension obligations can also be listed under long-term liabilities.
 
 ## The Relationship Between Liabilities and Assets
 
@@ -48,13 +48,13 @@ If a business subtracts its liabilities from its assets, the difference is its o
 
 Assets−Liabilities\=Owner’s Equity\\text{Assets}-\\text{Liabilities}=\\text{Owner's Equity}
 
-However, in most cases, this [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp) is commonly presented as such:
+However, in most cases, this [[accounting equation]](https://www.investopedia.com/terms/a/accounting-equation.asp) is commonly presented as such:
 
 Assets\=Liabilities+Equity\\text{Assets} = \\text{Liabilities} + \\text{Equity}
 
 ## What Is the Difference Between an Expense and a Liability?
 
-An [expense](https://www.investopedia.com/terms/e/expense.asp) is the cost of operations that a company incurs to generate revenue. Unlike assets and liabilities, expenses are related to revenue, and both are listed on a company's income statement. In short, expenses are used to calculate net income. The equation to calculate [net income](https://www.investopedia.com/terms/n/netincome.asp) is revenues minus expenses.
+An [[expense]](https://www.investopedia.com/terms/e/expense.asp) is the cost of operations that a company incurs to generate revenue. Unlike assets and liabilities, expenses are related to revenue, and both are listed on a company's income statement. In short, expenses are used to calculate net income. The equation to calculate [[net income]](https://www.investopedia.com/terms/n/netincome.asp) is revenues minus expenses.
 
 For example, if a company has more expenses than revenues for the past three years, it may signal weak financial stability because it has been losing money for those years.
 
@@ -79,7 +79,7 @@ AP typically carries the largest balances, as they encompass the day-to-day ope
 ### Examples of Common Current Liabilities
 
 -   **Wages Payable**: The total amount of [accrued income](https://www.investopedia.com/terms/a/accruedincome.asp) employees have earned but not yet received. Since most companies pay their employees every two weeks, this liability changes often.
--   **Interest Payable**: Companies, just like individuals, often use [credit to purchase goods and services](https://www.investopedia.com/terms/f/ffdlc.asp) to finance over short time periods. This represents the interest on those short-term credit purchases to be paid.
+-   **Interest Payable**: Companies, just like individuals, often use [[credit to purchase goods and services]](https://www.investopedia.com/terms/f/ffdlc.asp) to finance over short time periods. This represents the interest on those short-term credit purchases to be paid.
 -   **Dividends Payable**: For companies that have [issued stock to investors and pay a dividend](https://www.investopedia.com/articles/03/011703.asp), this represents the amount owed to shareholders after the dividend was declared. This period is around two weeks, so this liability usually pops up four times per year, until the dividend is paid.
 
 ### Less Common Current Liabilities
@@ -100,7 +100,7 @@ Companies of all sizes finance part of their ongoing long-term operations by is
 ### Example of Common Non-Current Liabilities
 
 -   **Warranty Liability**: Some liabilities are not as exact as AP and have to be estimated. It’s the estimated amount of time and money that may be spent repairing products upon the agreement of a [warranty](https://www.investopedia.com/terms/w/warranty.asp). This is a common liability in the automotive industry, as most cars have long-term warranties that can be costly.
--   [Contingent Liability Evaluation](https://www.investopedia.com/terms/c/contingentliability.asp): A contingent liability is a liability that may occur depending on the outcome of an uncertain future event.
+-   [[Contingent Liability Evaluation]](https://www.investopedia.com/terms/c/contingentliability.asp): A contingent liability is a liability that may occur depending on the outcome of an uncertain future event.
 
 ### Less Common Non-Current Liabilities
 

@@ -16,7 +16,7 @@ author: Will Kenton
 What Everyone Should Know About Layoffs
 ## What Is a Layoff?
 
-A layoff describes the act of an employer suspending or [terminating](https://www.investopedia.com/terms/t/termination-employment.asp) a worker, either temporarily or permanently, for reasons other than an employee's actual performance. A layoff is not the same thing as an outright firing, which may result from worker inefficiency, malfeasance, or breach of duty.
+A layoff describes the act of an employer suspending or [[terminating]](https://www.investopedia.com/terms/t/termination-employment.asp) a worker, either temporarily or permanently, for reasons other than an employee's actual performance. A layoff is not the same thing as an outright firing, which may result from worker inefficiency, malfeasance, or breach of duty.
 
 In its initial context, a layoff was meant to denote a temporary work interruption, but over time, the term has morphed to describe a permanent lack of work. A layoff may happen to a displaced worker whose job has been eliminated because an employer has shuttered its operation or relocated. A worker may likewise be replaced due to a production slowdown or cessation.
 
@@ -46,4 +46,4 @@ Mass layoffs may create a sizable impact on the economy and tax base of a commun
 -   A layoff vastly differs from an outright firing, which may result from an inefficient on-the-job performance or unacceptable workplace behavior.
 -   Layoffs may have a psychological impact on the workers who remain employed, by causing increased concerns over their own job security. 
 
-In the United States, data on layoffs is collected by the Bureau of Labor Statistics, which tracks unemployment insurance claims. Its [Mass Layoff Statistics (MLS)](https://www.bls.gov/mls/) program collects reports on mass layoff actions that result in workers being separated from their jobs. A mass layoff in this context involves 50 or more workers.
+In the United States, data on layoffs is collected by the Bureau of Labor Statistics, which tracks unemployment insurance claims. Its [[Mass Layoff Statistics (MLS)]](https://www.bls.gov/mls/) program collects reports on mass layoff actions that result in workers being separated from their jobs. A mass layoff in this context involves 50 or more workers.

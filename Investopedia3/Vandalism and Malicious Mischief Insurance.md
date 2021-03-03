@@ -27,7 +27,7 @@ Vandalism and malicious mischief insurance is insurance coverage that protects a
 
 ## How Vandalism and Malicious Mischief Insurance Works
 
-Due to the risk and frequency of loss, this coverage typically carries a higher [deductible](https://www.investopedia.com/terms/d/deductible.asp) for properties that are known to be unoccupied for certain hours of the day, including churches and schools. Vandalism and mischief are described as the intentional injury or destruction of property. Vandalism and malicious mischief can be written as an [endorsement](https://www.investopedia.com/terms/e/endorsement.asp) to a standard policy, such as the standard fire policy, in the event that the policy requires a separate endorsement for this type of coverage.
+Due to the risk and frequency of loss, this coverage typically carries a higher [[deductible]](https://www.investopedia.com/terms/d/deductible.asp) for properties that are known to be unoccupied for certain hours of the day, including churches and schools. Vandalism and mischief are described as the intentional injury or destruction of property. Vandalism and malicious mischief can be written as an [[endorsement]](https://www.investopedia.com/terms/e/endorsement.asp) to a standard policy, such as the standard fire policy, in the event that the policy requires a separate endorsement for this type of coverage.
 
 ## What Is Vandalism and Malicious Mischief?
 

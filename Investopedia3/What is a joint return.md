@@ -16,7 +16,7 @@ author: Julia Kagan
 What is a joint return?
 ## What Is a Joint Return?
 
-A joint return is a tax return filed with the Internal Revenue Service (IRS) on the new, simplified [Form 1040](https://www.irs.gov/pub/irs-pdf/f1040.pdf) (as of 2018) by two married taxpayers whose filing status is married filing jointly (MFJ) or by a widowed taxpayer whose filing status is Qualifying Widow or Widower (QW). A joint return allows these taxpayers to combine their tax liability and report their income, deductions, and credits on the same joint return.1
+A joint return is a tax return filed with the Internal Revenue Service (IRS) on the new, simplified [[Form 1040]](https://www.irs.gov/pub/irs-pdf/f1040.pdf) (as of 2018) by two married taxpayers whose filing status is married filing jointly (MFJ) or by a widowed taxpayer whose filing status is Qualifying Widow or Widower (QW). A joint return allows these taxpayers to combine their tax liability and report their income, deductions, and credits on the same joint return.1
 
 ### Key Takeaways
 

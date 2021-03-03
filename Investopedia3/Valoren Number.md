@@ -16,11 +16,11 @@ author: Will Kenton
 Valoren Number
 ## What Is a Valoren Number?
 
-A valoren number is an identification number assigned to financial instruments in Switzerland. These numbers are similar to the [CUSIP numbers](https://www.investopedia.com/terms/c/cusipnumber.asp) that are used in Canada and the U.S. A typical valoren number is between six to nine digits in length.
+A valoren number is an identification number assigned to financial instruments in Switzerland. These numbers are similar to the [[CUSIP numbers]](https://www.investopedia.com/terms/c/cusipnumber.asp) that are used in Canada and the U.S. A typical valoren number is between six to nine digits in length.
 
 ## How a Valoren Number Works
 
-A valoren number is a numeric code that intrinsically has no meaning. When a new valoren is needed, the next one from the list is simply allocated. An instrument's number indicates nothing about the instrument itself. Market data firms and other financial institutions throughout Europe typically refer to Swiss companies and/or store trade data on these companies using valoren numbers as a means of security identification. Unlike [ISIN](https://www.investopedia.com/terms/i/isin.asp)s or CUSIPs, valoren numbers have no data implanted in the numbers.
+A valoren number is a numeric code that intrinsically has no meaning. When a new valoren is needed, the next one from the list is simply allocated. An instrument's number indicates nothing about the instrument itself. Market data firms and other financial institutions throughout Europe typically refer to Swiss companies and/or store trade data on these companies using valoren numbers as a means of security identification. Unlike [[ISIN]](https://www.investopedia.com/terms/i/isin.asp)s or CUSIPs, valoren numbers have no data implanted in the numbers.
 
 Swiss Valoren numbers are issued by SIX Financial Information, a subsidiary of SIX Group, a multinational financial data vendor based in Zurich, Switzerland. The company also has offices in over 20 countries. The company provides market data, which it gathers from the world's major trading venues directly and in real-time. Its database has structured and encoded securities administration data for more than 20 million financial instruments. 
 

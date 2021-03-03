@@ -16,9 +16,9 @@ author: Adam Hayes
 How One-Time Charges Work
 ## What Is a One-Time Charge?
 
-A one-time charge, in corporate accounting, is a charge against a company's earnings that the company's managers expect to be an isolated event and is unlikely to occur again. A one-time charge can either be a [cash charge](https://www.investopedia.com/terms/c/cashcharge.asp) against earnings such as the cost of paying severance expenses to laid-off former employees or a non-cash charge such as the [writing down](https://www.investopedia.com/terms/w/writedown.asp) of the value of assets such as a piece of real estate whose market value has fallen due to changes in business fundamentals or consumer preferences.
+A one-time charge, in corporate accounting, is a charge against a company's earnings that the company's managers expect to be an isolated event and is unlikely to occur again. A one-time charge can either be a [[cash charge]](https://www.investopedia.com/terms/c/cashcharge.asp) against earnings such as the cost of paying severance expenses to laid-off former employees or a non-cash charge such as the [[writing down]](https://www.investopedia.com/terms/w/writedown.asp) of the value of assets such as a piece of real estate whose market value has fallen due to changes in business fundamentals or consumer preferences.
 
-Financial [analysts](https://www.investopedia.com/terms/a/analyst.asp) routinely exclude one-time charges when they evaluate a company's ongoing earnings potential.
+Financial [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) routinely exclude one-time charges when they evaluate a company's ongoing earnings potential.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Financial [analysts](https://www.investopedia.com/terms/a/analyst.asp) routinely
 
 ## Understanding One-Time Charges
 
-Some one-time charges do indeed only take place once. In such a case, they should not recur and would not impact the long-run performance and growth of a company. As a result, they may be excluded from [pro-forma](https://www.investopedia.com/terms/p/proforma.asp) financial statements or labeled as an [extraordinary item](https://www.investopedia.com/terms/e/extraordinaryitem.asp).
+Some one-time charges do indeed only take place once. In such a case, they should not recur and would not impact the long-run performance and growth of a company. As a result, they may be excluded from [[pro-forma]](https://www.investopedia.com/terms/p/proforma.asp) financial statements or labeled as an [[extraordinary item]](https://www.investopedia.com/terms/e/extraordinaryitem.asp).
 
 However, some companies incorrectly record charges that they repeatedly incur in the course of their usual business activities as one-time charges. This practice may make the company’s financial health look better than it really is, and it is a practice that investors should be aware of.
 
@@ -43,7 +43,7 @@ The charges that are the most problematic for a company in the context of its st
 
 ## One-Time Charge Example
 
-For example, Acme Technology Company may properly [write off](https://www.investopedia.com/terms/w/write-off.asp) costs related to restructuring its file server business as a one-time charge. However if the company also writes down [inventory](https://www.investopedia.com/terms/i/inventory.asp) costs every other quarter and reports these charges as one-time charges, it is less than clear that these inventory write-down charges are truly one-time charges and Acme’s financial circumstances may be somewhat different than investors and analysts are being led to believe by the company.
+For example, Acme Technology Company may properly [[write off]](https://www.investopedia.com/terms/w/write-off.asp) costs related to restructuring its file server business as a one-time charge. However if the company also writes down [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) costs every other quarter and reports these charges as one-time charges, it is less than clear that these inventory write-down charges are truly one-time charges and Acme’s financial circumstances may be somewhat different than investors and analysts are being led to believe by the company.
 
 ## Special Considerations
 

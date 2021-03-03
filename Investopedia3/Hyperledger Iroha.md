@@ -16,11 +16,11 @@ author: Jake Frankenfield
 Hyperledger Iroha
 ## DEFINITION of Hyperledger Iroha
 
-Hyperledger Iroha is the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) platform designed to be simple and easily integrable in various business uses that require [distributed ledger technology](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp). It supports the easy creation, transactions, and management of complex digital assets, [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp), identities, and data content on its blockchain network.
+Hyperledger Iroha is the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) platform designed to be simple and easily integrable in various business uses that require [[distributed ledger technology]](https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp). It supports the easy creation, transactions, and management of complex digital assets, [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp), identities, and data content on its blockchain network.
 
 ## BREAKING DOWN Hyperledger Iroha
 
-Using Iroha, a business can create and manage simple digital assets like any standard [cryptocurrenc](https://www.investopedia.com/terms/c/cryptocurrency.asp)y, or complex ones like indivisible rights, certificate authenticity, and patents.
+Using Iroha, a business can create and manage simple digital assets like any standard [[cryptocurrenc]](https://www.investopedia.com/terms/c/cryptocurrency.asp)y, or complex ones like indivisible rights, certificate authenticity, and patents.
 
 Typical examples for Iroha use include the following: It allows building certifying identities, which enables granting as well as verification of various certificates issued to individuals by educational and healthcare institutes. A candidate university degree can be stored on the blockchain, and any qualifying hiring agency or employer can be given verification rights to authenticate the candidate's information during the hiring process.
 
@@ -30,7 +30,7 @@ Other applications where Iroha finds use is identity management needed for [Kno
 
 Iroha allows easy deployment and maintenance, a vast range of code libraries for developers to enable hassle-free application development, secure control and permissions over user roles and activities, easy asset management and participant identity, and modular design architecture to facilitate the blockchain ecosystem.
 
-Iroha differs from other popular blockchain networks, like [Bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) and [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp), as the latter operate as permissionless ledgers which allow anyone to join and grant access to everything on the network. Iroha’s operations are permissioned, that is, only participants with suitable access are allowed to join, interact and contribute to the blockchain system. Data querying is also restricted on Iroha, as not everyone is allowed to read and verify the data on the blockchain. Unlike Bitcoin or Ethereum, Iroha does not have a native cryptocurrency, but it can be created by an eligible participant as required for their own enterprise use.
+Iroha differs from other popular blockchain networks, like [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) and [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp), as the latter operate as permissionless ledgers which allow anyone to join and grant access to everything on the network. Iroha’s operations are permissioned, that is, only participants with suitable access are allowed to join, interact and contribute to the blockchain system. Data querying is also restricted on Iroha, as not everyone is allowed to read and verify the data on the blockchain. Unlike Bitcoin or Ethereum, Iroha does not have a native cryptocurrency, but it can be created by an eligible participant as required for their own enterprise use.
 
 Iroha also claims to offer advantages over Ethereum’s smart contracts. While smart contracts on Ethereum may require writing cumbersome code, the same can be achieved quickly and simply by using the built-in commands in Iroha to complete common tasks more quickly and with lower complexity and lower risk.
 

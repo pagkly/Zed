@@ -16,7 +16,7 @@ author: Evan Tarver
 With Unlimited Liability, You Are Responsible for Any Business Debts
 ## What Is an Unlimited Liability?
 
-Unlimited liability refers to the full legal responsibility that business owners and partners assume for all business debts. This [liability](https://www.investopedia.com/terms/l/liability.asp) is not capped, and obligations can be paid through the seizure and sale of owners’ personal assets, which is different than the popular limited liability business structure.
+Unlimited liability refers to the full legal responsibility that business owners and partners assume for all business debts. This [[liability]](https://www.investopedia.com/terms/l/liability.asp) is not capped, and obligations can be paid through the seizure and sale of owners’ personal assets, which is different than the popular limited liability business structure.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Unlimited liability refers to the full legal responsibility that business owners
 
 ## Understanding Unlimited Liability
 
-Unlimited liability typically exists in [general partnerships](https://www.investopedia.com/terms/g/generalpartnership.asp) and [sole proprietorships](https://www.investopedia.com/terms/s/soleproprietorship.asp). It indicates that whatever debt accrues within a business—whether the company is unable to repay or defaults on its debt—each business owner is equally responsible, and their personal wealth could reasonably be seized to cover the balance owed. For this reason, most companies opt to form limited partnerships, where one (or more) business partner is liable only up to the amount of money that a partner invested in the company.
+Unlimited liability typically exists in [[general partnerships]](https://www.investopedia.com/terms/g/generalpartnership.asp) and [[sole proprietorships]](https://www.investopedia.com/terms/s/soleproprietorship.asp). It indicates that whatever debt accrues within a business—whether the company is unable to repay or defaults on its debt—each business owner is equally responsible, and their personal wealth could reasonably be seized to cover the balance owed. For this reason, most companies opt to form limited partnerships, where one (or more) business partner is liable only up to the amount of money that a partner invested in the company.
 
 Consider, for example, four individuals working as partners, and each invests $35,000 into the new business they own jointly. Over one year, the company accrues $225,000 in liabilities. If the company cannot repay these debts, or if the company defaults on the debts, all four partners are equally liable for repayment. This means that in addition to the initial investment of $35,000, all owners would also be required to come up with $56,250 to alleviate $225,000 in debt.
 
@@ -42,6 +42,6 @@ One of the benefits of forming an unlimited liability subsidiary may be nondiscl
 
 ## Joint Stock Company vs. Unlimited Liability Company
 
-In the United States, a [joint-stock company (JSC](https://www.investopedia.com/terms/j/jointstockcompany.asp)) is similar to an unlimited liability company, as shareholders have unlimited liability for company debts. Among other states, JSCs operate under associations in New York and Texas, under the Texas Joint-Stock Company/Revocable Living Trust model.4 5
+In the United States, a [[joint-stock company (JSC]](https://www.investopedia.com/terms/j/jointstockcompany.asp)) is similar to an unlimited liability company, as shareholders have unlimited liability for company debts. Among other states, JSCs operate under associations in New York and Texas, under the Texas Joint-Stock Company/Revocable Living Trust model.4 5
 
 This model has basic differences from a general partnership, including a lack of limited liability for shareholders, formation through a private contract that creates a separate entity, and the fact that one shareholder cannot bind another shareholder regarding liability as each is equally responsible.

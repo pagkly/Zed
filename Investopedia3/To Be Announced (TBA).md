@@ -32,7 +32,7 @@ Interest and principal payments are issued to investors at a rate based on the p
 
 The settlement procedures of MBS-TBA trades are established by the Bond Market Association.
 
-This is because the TBA market assumes MBS pools to be relatively interchangeable. The TBA process increases the overall [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) of the MBS market by taking thousands of different MBSs with different characteristics and trading them through a handful of contracts. The buyers and sellers of TBA trades agree on these parameters: issuer, maturity, coupon, price, par amount, and settlement date.
+This is because the TBA market assumes MBS pools to be relatively interchangeable. The TBA process increases the overall [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) of the MBS market by taking thousands of different MBSs with different characteristics and trading them through a handful of contracts. The buyers and sellers of TBA trades agree on these parameters: issuer, maturity, coupon, price, par amount, and settlement date.
 
 Each type of agency pass-through security is given a trade settlement date for each month. Trade counterparties are required to exchange pool information by 3 p.m. (EST), 48 hours prior to the established settlement date. Trades are allocated in $1 million lots.
 
@@ -40,4 +40,4 @@ Each type of agency pass-through security is given a trade settlement date for e
 
 Due to the forward-settling nature of the investment, the risk of counterparty default is present during the period of time between the execution of the trade and the actual settlement. The risk associated with this form of default is that, especially in highly volatile markets, the non-defaulting party will be unable to secure a deal with similar terms once the defaulting party’s intentions are known. Risk may be mitigated through the assignment of collateral to the transaction, though not all firms have immediate access to collateral management services.
 
-In January 2014, when average daily trading volumes in the TBA market were reaching over $186 billion, the [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA) set margin requirements designed to assist in lowering risks for TBA transactions with longer settlement dates. This rule only applies to specific individuals or institutions and is not deemed necessary for transactions with short settlement periods.
+In January 2014, when average daily trading volumes in the TBA market were reaching over $186 billion, the [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA) set margin requirements designed to assist in lowering risks for TBA transactions with longer settlement dates. This rule only applies to specific individuals or institutions and is not deemed necessary for transactions with short settlement periods.

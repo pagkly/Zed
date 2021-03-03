@@ -33,7 +33,7 @@ The law applies to any organization that extends credit, including banks, small 
 
 The ECOA covers various types of credit, including personal loans, credit cards, home loans, student loans, car loans, small business loans and loan modifications.
 
-In July 2020, the [Consumer Financial Protection Bureau (CFPB)](https://www.investopedia.com/terms/c/consumer-financial-protection-bureau-cfpb.asp), which takes the lead in supervising compliance and enforcing the ECOA, issued a Request for Information2 soliciting public comments to identify opportunities for improving what ECOA does to ensure nondiscriminatory access to credit. “Clear standards help protect African Americans and other minorities,” stated Kathleen L. Kraninger, director of the agency, “but the CFPB must back them up with action to make sure lenders and others follow the law.”3 
+In July 2020, the [[Consumer Financial Protection Bureau (CFPB)]](https://www.investopedia.com/terms/c/consumer-financial-protection-bureau-cfpb.asp), which takes the lead in supervising compliance and enforcing the ECOA, issued a Request for Information2 soliciting public comments to identify opportunities for improving what ECOA does to ensure nondiscriminatory access to credit. “Clear standards help protect African Americans and other minorities,” stated Kathleen L. Kraninger, director of the agency, “but the CFPB must back them up with action to make sure lenders and others follow the law.”3 
 
 ## Special Considerations
 

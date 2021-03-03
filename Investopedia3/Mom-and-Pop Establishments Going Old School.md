@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Mom-and-Pop Establishments: Going Old School
 ## What Is a Mom-and-Pop Establishment?
 
-"Mom-and-pop" is a colloquial term used to describe a small, [family-owned](https://www.investopedia.com/articles/insights/070116/top-25-richest-american-families.asp), or independent business. Mom-and-pop stores are often operations that struggle to compete with more substantial establishments, such as [big-box retailers](https://www.investopedia.com/terms/b/big_box_retailer.asp), who generally boast more buying power than smaller players. In the last few years, "shop local" and "shop small" have been used as slogans in marketing campaigns. The term "mom-and-pop" also refers to inexperienced investors who casually play the market.
+"Mom-and-pop" is a colloquial term used to describe a small, [[family-owned]](https://www.investopedia.com/articles/insights/070116/top-25-richest-american-families.asp), or independent business. Mom-and-pop stores are often operations that struggle to compete with more substantial establishments, such as [[big-box retailers]](https://www.investopedia.com/terms/b/big_box_retailer.asp), who generally boast more buying power than smaller players. In the last few years, "shop local" and "shop small" have been used as slogans in marketing campaigns. The term "mom-and-pop" also refers to inexperienced investors who casually play the market.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ This collectively gives larger players a competitive edge over mom-and-pop busin
 
 Fortunately, there are signs of hope for mom-and-pop stores. More than ever before, consumers are demanding more personalized products and services. When shoppers ask, "Where can I find a mom-and-pop shop near me?" they don't need to look further than the Internet. Using technology, like social media, small businesses can expand their target audience and broaden their geographical reach.
 
-Mom-and-pop shops also benefit from a phenomenon known as "Small Business Saturday," which is a recent American tradition of shopping locally on the Saturday following Thanksgiving. This shopping holiday is a logical answer to Black Friday, where large retailers offer enticing discounts to consumers. Mom-and-pop business owners tend to have a vested interest in the community, its citizens, and the local economy. Consequently, they offer highly interactive and personalized services that large corporations cannot replicate. For this reason, mom-and-pop stores often win increased [brand loyalty](https://www.investopedia.com/terms/b/brand-loyalty.asp) among consumers.
+Mom-and-pop shops also benefit from a phenomenon known as "Small Business Saturday," which is a recent American tradition of shopping locally on the Saturday following Thanksgiving. This shopping holiday is a logical answer to Black Friday, where large retailers offer enticing discounts to consumers. Mom-and-pop business owners tend to have a vested interest in the community, its citizens, and the local economy. Consequently, they offer highly interactive and personalized services that large corporations cannot replicate. For this reason, mom-and-pop stores often win increased [[brand loyalty]](https://www.investopedia.com/terms/b/brand-loyalty.asp) among consumers.
 
 Mom-and-pop drugstores are typically owned and operated by the same family for generations, where the druggist or pharmacist would also be the proprietor of the store.
 

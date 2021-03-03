@@ -16,7 +16,7 @@ author: Daniel Liberto
 Joseph Schumpeter
 ## Who Is Joseph Schumpeter?
 
-Joseph Alois Schumpeter (1883 - 1950) was an [economist](https://www.investopedia.com/terms/e/economist.asp) and is regarded as one of the 20th century's greatest intellectuals. He is best known for his theories on [business cycles](https://www.investopedia.com/terms/b/businesscycle.asp) and [capitalist](https://www.investopedia.com/terms/c/capitalism.asp) development and for introducing the concept of entrepreneurship.
+Joseph Alois Schumpeter (1883 - 1950) was an [[economist]](https://www.investopedia.com/terms/e/economist.asp) and is regarded as one of the 20th century's greatest intellectuals. He is best known for his theories on [[business cycles]](https://www.investopedia.com/terms/b/businesscycle.asp) and [[capitalist]](https://www.investopedia.com/terms/c/capitalism.asp) development and for introducing the concept of entrepreneurship.
 
 ### Key Takeaways
 
@@ -25,17 +25,17 @@ Joseph Alois Schumpeter (1883 - 1950) was an [economist](https://www.investopedi
 
 ## Understanding Joseph Schumpeter
 
-Schumpeter was born in what is now the Czech Republic in 1883, learning economics from the progenitors of the [Austrian school tradition](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp), including Friedrich von Wieser and Eugen von Bohm-Bawerk. Schumpeter served as minister of finance in the Austrian government, the president of a private bank, and a professor, before being forced to leave his home country, due to the rise of the Nazis.
+Schumpeter was born in what is now the Czech Republic in 1883, learning economics from the progenitors of the [[Austrian school tradition]](https://www.investopedia.com/articles/economics/09/austrian-school-of-economics.asp), including Friedrich von Wieser and Eugen von Bohm-Bawerk. Schumpeter served as minister of finance in the Austrian government, the president of a private bank, and a professor, before being forced to leave his home country, due to the rise of the Nazis.
 
 In 1932, he moved to the United States to teach at Harvard. Fifteen years later, in 1947, he became the first immigrant to be elected president of the American Economic Association.
 
-By the early 20th century, economic science in the United States and Great Britain had developed along static and mathematically oriented [general equilibrium](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) models. Schumpeter’s work differed at times, typifying the continental European more nuanced and less hypothetical approach, although some of his theories were drawn from [Walrasian](https://www.investopedia.com/terms/w/walras-law.asp) general equilibrium as well.
+By the early 20th century, economic science in the United States and Great Britain had developed along static and mathematically oriented [[general equilibrium]](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) models. Schumpeter’s work differed at times, typifying the continental European more nuanced and less hypothetical approach, although some of his theories were drawn from [[Walrasian]](https://www.investopedia.com/terms/w/walras-law.asp) general equilibrium as well.
 
-Over his many years in public life, Schumpeter developed informal rivalries with the other great thinkers of the west, including [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp), Irving Fisher, [Ludwig von Mises](https://www.investopedia.com/terms/l/ludwig-von-mises.asp), and [Friedrich Hayek](https://www.investopedia.com/terms/f/friedrich-hayek.asp). His work initially was overshadowed by some of his contemporaries.
+Over his many years in public life, Schumpeter developed informal rivalries with the other great thinkers of the west, including [[John Maynard Keynes]](https://www.investopedia.com/terms/j/john_maynard_keynes.asp), Irving Fisher, [[Ludwig von Mises]](https://www.investopedia.com/terms/l/ludwig-von-mises.asp), and [[Friedrich Hayek]](https://www.investopedia.com/terms/f/friedrich-hayek.asp). His work initially was overshadowed by some of his contemporaries.
 
 ## Famous Theories
 
-Schumpeter is best known for his 1942 book _Capitalism, Socialism, and Democracy_ as well as the theory of dynamic [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) known as [creative destruction](https://www.investopedia.com/terms/c/creativedestruction.asp). He is also credited with the first German and English references to methodological individualism in economics.
+Schumpeter is best known for his 1942 book _Capitalism, Socialism, and Democracy_ as well as the theory of dynamic [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) known as [[creative destruction]](https://www.investopedia.com/terms/c/creativedestruction.asp). He is also credited with the first German and English references to methodological individualism in economics.
 
 ### Creative Destruction
 
@@ -49,7 +49,7 @@ The economist coined the term creative destruction to describe how the old is be
 
 Schumpeter is believed to be the first scholar to introduce the world to the concept of entrepreneurship. He came up with the German word _Unternehmergeist,_ meaning entrepreneur-spirit, adding that these individuals controlled the economy because they are responsible for delivering innovation and technological change.
 
-Schumpeter’s arguments sharply deviated from the dominant tradition. He highlighted the fact that markets do not passively tend toward [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) until [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp) are wiped out. Instead, entrepreneurial innovation and experimentation constantly destroy the old and introduce new equilibria, making possible higher [standards of living](https://www.investopedia.com/terms/s/standard-of-living.asp).
+Schumpeter’s arguments sharply deviated from the dominant tradition. He highlighted the fact that markets do not passively tend toward [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) until [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp) are wiped out. Instead, entrepreneurial innovation and experimentation constantly destroy the old and introduce new equilibria, making possible higher [standards of living](https://www.investopedia.com/terms/s/standard-of-living.asp).
 
 In many respects, Schumpeter saw capitalism as a method of evolution within the social and economic hierarchy. The entrepreneur becomes the revolutionary, upsetting the established order to create dynamic change.
 
@@ -63,7 +63,7 @@ These theories tie in with Schumpeter’s belief in the presence of business cyc
 
 Schumpeter was born just a few months before Keynes and, like his contemporary, is considered to be one of the best economists of the 20th century. The pair had radically different views.
 
-Keynes viewed the economy as healthy when in static equilibrium. Schumpeter rejected this theory, claiming that equilibrium is not healthy and that innovation is the driver of the economy. Both had contrasting views on government intervention, too. Keynes believed that a permanent equilibrium of prosperity could be achieved by central bank [monetary policies](https://www.investopedia.com/terms/m/monetarypolicy.asp). Schumpeter argued that government intervention increased [inflation](https://www.investopedia.com/terms/i/inflation.asp), destroying the economy.
+Keynes viewed the economy as healthy when in static equilibrium. Schumpeter rejected this theory, claiming that equilibrium is not healthy and that innovation is the driver of the economy. Both had contrasting views on government intervention, too. Keynes believed that a permanent equilibrium of prosperity could be achieved by central bank [[monetary policies]](https://www.investopedia.com/terms/m/monetarypolicy.asp). Schumpeter argued that government intervention increased [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), destroying the economy.
 
 In his early career, Schumpeter derided the use of statistical aggregates in economic theory, likely a shot at Keynes, in favor of focusing on individual choice and action.
 

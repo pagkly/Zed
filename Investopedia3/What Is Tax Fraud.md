@@ -30,7 +30,7 @@ Tax fraud occurs when an individual or business entity willfully and intentional
 
 Tax fraud involves the deliberate misrepresentation or omission of data on a tax return. In the United States, taxpayers are bound by a legal duty to file a tax return voluntarily and to pay the correct amount of income, employment, sales, and excise taxes.
 
-Failure to do so by falsifying or withholding information is against the law and constitutes tax fraud. Tax fraud is investigated by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) Criminal Investigation (CI) unit. Tax fraud is said to be evident if the taxpayer is found to have:
+Failure to do so by falsifying or withholding information is against the law and constitutes tax fraud. Tax fraud is investigated by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) Criminal Investigation (CI) unit. Tax fraud is said to be evident if the taxpayer is found to have:
 
 -   Purposely failed to file his income tax return
 -   Misrepresented the actual state of his affairs so as to falsely claim tax deductions or tax credits
@@ -40,7 +40,7 @@ Failure to do so by falsifying or withholding information is against the law and
 
 A business that engages in tax fraud may:
 
--   Knowingly fail to file [payroll tax](https://www.investopedia.com/terms/p/payrolltax.asp) reports
+-   Knowingly fail to file [[payroll tax]](https://www.investopedia.com/terms/p/payrolltax.asp) reports
 -   Wittingly fail to report some or all of the cash payments made to employees
 -   Hire an outside payroll service that doesn't turn over funds to the IRS
 -   Fail to withhold federal income tax or FICA (Federal Insurance Contributions) taxes from employee paychecks
@@ -48,11 +48,11 @@ A business that engages in tax fraud may:
 
 ## Tax Fraud vs. Negligence or Avoidance
 
-For example, claiming an exemption for a nonexistent dependent to reduce tax liability is clearly fraud, while applying the [long-term capital gain](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp) rate to a short-term earning may be looked into more to determine whether its negligence. Although mistakes attributed to negligence are non-intentional, the IRS may still fine a negligent taxpayer with a penalty of 20 percent of the underpayment. Famous people throughout the world have been guilty of tax fraud, such as [Lionel Messi](https://www.investopedia.com/insights/net-worth-lionel-messi/).
+For example, claiming an exemption for a nonexistent dependent to reduce tax liability is clearly fraud, while applying the [[long-term capital gain]](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp) rate to a short-term earning may be looked into more to determine whether its negligence. Although mistakes attributed to negligence are non-intentional, the IRS may still fine a negligent taxpayer with a penalty of 20 percent of the underpayment. Famous people throughout the world have been guilty of tax fraud, such as [[Lionel Messi]](https://www.investopedia.com/insights/net-worth-lionel-messi/).
 
-Given that the [tax code](https://www.investopedia.com/terms/t/tax-code.asp) in the U.S. is a complex compilation of tax imposition and laws, a lot of tax preparers are bound to make careless errors.
+Given that the [[tax code]](https://www.investopedia.com/terms/t/tax-code.asp) in the U.S. is a complex compilation of tax imposition and laws, a lot of tax preparers are bound to make careless errors.
 
-Tax fraud is not the same as [tax avoidance](https://www.investopedia.com/terms/t/tax_avoidance.asp), which is the legal use of loopholes in the tax laws to reduce one’s tax expenses. Although tax avoidance is not a direct violation of the law, it is frowned upon by tax authorities as it may compromise the overall spirit of tax law.
+Tax fraud is not the same as [[tax avoidance]](https://www.investopedia.com/terms/t/tax_avoidance.asp), which is the legal use of loopholes in the tax laws to reduce one’s tax expenses. Although tax avoidance is not a direct violation of the law, it is frowned upon by tax authorities as it may compromise the overall spirit of tax law.
 
 ## Special Considerations
 

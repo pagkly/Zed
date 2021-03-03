@@ -16,9 +16,9 @@ author: James Chen
 What a Low Interest Rate Environment Really Means
 ## What Is a Low Interest Rate Environment?
 
-A low interest rate environment occurs when the [risk-free rate](https://www.investopedia.com/terms/r/risk-freerate.asp) of interest, typically set by a [central bank](https://www.investopedia.com/terms/c/centralbank.asp), is lower than the historic average for a prolonged period of time. In the United States, the risk-free rate is generally defined by the interest rate on Treasury securities.
+A low interest rate environment occurs when the [[risk-free rate]](https://www.investopedia.com/terms/r/risk-freerate.asp) of interest, typically set by a [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp), is lower than the historic average for a prolonged period of time. In the United States, the risk-free rate is generally defined by the interest rate on Treasury securities.
 
-[Zero interest rates](https://www.investopedia.com/articles/investing/031815/what-zero-interestrate-policy-zirp.asp) and [negative interest rates](https://www.investopedia.com/terms/n/negative-interest-rate-environment.asp) are two extreme examples of low interest rate environments.
+[Zero interest rates](https://www.investopedia.com/articles/investing/031815/what-zero-interestrate-policy-zirp.asp) and [[negative interest rates]](https://www.investopedia.com/terms/n/negative-interest-rate-environment.asp) are two extreme examples of low interest rate environments.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ A low interest rate environment occurs when the [risk-free rate](https://www.inv
 
 ## Low Interest Rate Environment Explained
 
-Much of the developed world has experienced a low interest rate environment since 2009 as monetary authorities from around the globe cut interest rates to effectively 0% in order to stimulate economic growth and prevent [deflation](https://www.investopedia.com/terms/d/deflation.asp).
+Much of the developed world has experienced a low interest rate environment since 2009 as monetary authorities from around the globe cut interest rates to effectively 0% in order to stimulate economic growth and prevent [[deflation]](https://www.investopedia.com/terms/d/deflation.asp).
 
-Low interest rate environments are meant to stimulate economic growth by making it cheaper to borrow money to finance investment in both physical and financial assets. One special form of low interest rates is [negative interest rates](https://www.investopedia.com/terms/n/negative-interest-rate.asp). This type of monetary policy is unconventional in that depositors must pay the central bank (and in some cases, private banks) to hold their money, rather than receiving interest on their deposits.
+Low interest rate environments are meant to stimulate economic growth by making it cheaper to borrow money to finance investment in both physical and financial assets. One special form of low interest rates is [[negative interest rates]](https://www.investopedia.com/terms/n/negative-interest-rate.asp). This type of monetary policy is unconventional in that depositors must pay the central bank (and in some cases, private banks) to hold their money, rather than receiving interest on their deposits.
 
 Like anything else, there are always two sides to every coin – low interest rates can be both a boon and curse to those affected. In general, savers and lenders will tend to lose out while borrowers and investors benefit from low interest rates.
 
@@ -50,11 +50,11 @@ This low interest rate environment was again established in Spring 2020 in respo
 
 ## Who Benefits From a Low Interest Rate Environment?
 
-The [Federal Reserve](https://www.investopedia.com/terms/f/federalreservesystem.asp) lowers interest rates in order to stimulate growth during a period of economic decline. That means that borrowing costs become cheaper.
+The [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservesystem.asp) lowers interest rates in order to stimulate growth during a period of economic decline. That means that borrowing costs become cheaper.
 
 A low interest rate environment is great for homeowners because it will reduce their monthly mortgage payment. Similarly, prospective homeowners might be enticed into the market because of the cheaper costs. Low interest rates mean more spending money in consumers' pockets.
 
-That also means they may be willing to make larger purchases and will borrow more, which spurs demand for household goods. This is an added benefit to [financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp) because banks are able to lend more. The environment also helps businesses make large purchases and boost their capital.
+That also means they may be willing to make larger purchases and will borrow more, which spurs demand for household goods. This is an added benefit to [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp) because banks are able to lend more. The environment also helps businesses make large purchases and boost their capital.
 
 ## Drawbacks of a Low Interest Rate Environment
 

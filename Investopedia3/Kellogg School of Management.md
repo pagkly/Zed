@@ -20,11 +20,11 @@ The Kellogg School of Management is the business school at Northwestern Universi
 
 ## BREAKING DOWN Kellogg School of Management
 
-The Kellogg School of Management was founded in 1908 and has locations in Evanston, Ill., Chicago and Miami. The school was originally called the School of Commerce and began as a part-time program to instill ethics in local business leaders and executives. It is one of the original members of the Association to Advance Collegiate Schools of Business (AACSB) and played an integral role in the creation of the [Graduate Management Admission Test](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) (GMAT). 
+The Kellogg School of Management was founded in 1908 and has locations in Evanston, Ill., Chicago and Miami. The school was originally called the School of Commerce and began as a part-time program to instill ethics in local business leaders and executives. It is one of the original members of the Association to Advance Collegiate Schools of Business (AACSB) and played an integral role in the creation of the [[Graduate Management Admission Test]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) (GMAT). 
 
 ## Creation of the Executive MBA
 
-In 1951, executive courses were held over a four-week period at school, setting the stage for what would become their [executive master of business administration (MBA)](https://www.investopedia.com/terms/e/executive-mba.asp) program in 1976. In the years in between, these executive courses expanded to Europe and a second session was added in Illinois. The current home of the school, the Allen Center, was completed in 1979. In the same year, John L. Kellogg donated $10 million to the school and it was renamed the J.L. Kellogg School of Management. His donation was used to create teaching positions and a place for executive student to stay and learn together.
+In 1951, executive courses were held over a four-week period at school, setting the stage for what would become their [[executive master of business administration (MBA)]](https://www.investopedia.com/terms/e/executive-mba.asp) program in 1976. In the years in between, these executive courses expanded to Europe and a second session was added in Illinois. The current home of the school, the Allen Center, was completed in 1979. In the same year, John L. Kellogg donated $10 million to the school and it was renamed the J.L. Kellogg School of Management. His donation was used to create teaching positions and a place for executive student to stay and learn together.
 
 ## Other Degrees Offered and Tuition at Kellogg School of Management
 

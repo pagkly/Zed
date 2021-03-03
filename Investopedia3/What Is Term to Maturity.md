@@ -24,7 +24,7 @@ A bond's term to maturity is the length of time during which the owner will rece
 -   When the bond reaches maturity, the owner is repaid its par, or face, value.
 -   The term to maturity can change if the bond has a put or call option.
 
-Bonds can be grouped into three broad categories depending on their terms to maturity: [short term](https://www.investopedia.com/terms/s/shortterm.asp) bonds of one to five years, intermediate-term bonds of five to 12 years, and [long term](https://www.investopedia.com/terms/l/longterm.asp) bonds of 12 to 30 years.
+Bonds can be grouped into three broad categories depending on their terms to maturity: [[short term]](https://www.investopedia.com/terms/s/shortterm.asp) bonds of one to five years, intermediate-term bonds of five to 12 years, and [[long term]](https://www.investopedia.com/terms/l/longterm.asp) bonds of 12 to 30 years.
 
 ## Understanding Term to Maturity
 
@@ -42,7 +42,7 @@ In the secondary market, a bond's value is based on its remaining yield to matur
 
 ### Why Term to Maturity Can Change
 
-For many bonds, the term to maturity is fixed. However, the term to maturity can be changed if the bond has a call provision, a [put provision](https://www.investopedia.com/terms/p/put-provision.asp), or a conversion provision:
+For many bonds, the term to maturity is fixed. However, the term to maturity can be changed if the bond has a call provision, a [[put provision]](https://www.investopedia.com/terms/p/put-provision.asp), or a conversion provision:
 
 -   A call provision allows a company to pay off a bond before its term of maturity ends. A company might do this if interest rates decline, making it advantageous to pay off the old bonds and issue a new one at a lower rate of return.
 -   A put provision allows the owner to sell the bond back to the company at its face value. An investor might do this to recoup the money for another investment.

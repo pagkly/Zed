@@ -32,13 +32,13 @@ Equity financing involves the sale of common equity but also the sale of other e
 -   It is typical for companies to use equity financing several times during the process of reaching maturity.
 -   National and local governments keep a close watch on equity financing to ensure that everything done follows regulations. 
 
-A startup that grows into a successful company will have several rounds of equity financing as it evolves. Since a [startup](https://www.investopedia.com/terms/s/startup.asp) typically attracts different types of investors at various stages of its evolution, it may use different equity instruments for its financing needs.
+A startup that grows into a successful company will have several rounds of equity financing as it evolves. Since a [[startup]](https://www.investopedia.com/terms/s/startup.asp) typically attracts different types of investors at various stages of its evolution, it may use different equity instruments for its financing needs.
 
 Equity financing is distinct from debt financing; in debt financing, a company assumes a loan and pays back the loan over time with interest, while in equity financing, a company sells an ownership share in return for funds.
 
 For example, angel investors and venture capitalists—who are generally the first investors in a startup—are inclined to favor convertible preferred shares rather than common equity in exchange for funding new companies because the former have greater upside potential and some downside protection. Once the company has grown large enough to consider going public, it may consider selling common equity to institutional and retail investors.
 
-Later, if the company needs additional capital, it may choose secondary equity financing such as a [rights offering](https://www.investopedia.com/terms/r/rightsoffering.asp) or an offering of equity units that includes warrants as a sweetener.
+Later, if the company needs additional capital, it may choose secondary equity financing such as a [[rights offering]](https://www.investopedia.com/terms/r/rightsoffering.asp) or an offering of equity units that includes warrants as a sweetener.
 
 ## Special Considerations
 

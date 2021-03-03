@@ -32,7 +32,7 @@ That is the meaning of voluntary compliance. The government expects that U.S. ta
 -   Therefore, it must assume that taxpayers will voluntarily comply to the best of their abilities.
 -   Checks and balances like W-2 forms are in place to discourage non-compliance.
 
-Of course, the government doesn't generally take the taxpayer's word for it. For example, a taxpayer who receives a [W-2 form](https://www.investopedia.com/terms/w/w2form.asp) from an employer reports the income on [Form 1040](https://www.investopedia.com/terms/1/1040.asp). The [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) receives a copy of that W-2 and is thus aware of that income.2
+Of course, the government doesn't generally take the taxpayer's word for it. For example, a taxpayer who receives a [[W-2 form]](https://www.investopedia.com/terms/w/w2form.asp) from an employer reports the income on [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp). The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) receives a copy of that W-2 and is thus aware of that income.2
 
 The individual may also have a part-time job that does not involve a W-2 filing or similar statement of earnings or other income. Under the principle of voluntary compliance, the taxpayer is expected to report that additional income in the annual return.
 

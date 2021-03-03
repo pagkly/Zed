@@ -18,7 +18,7 @@ Weekend Effect
 
 The weekend effect is a phenomenon in financial markets in which stock returns on Mondays are often significantly lower than those of the immediately preceding Friday.
 
-The weekend effect is also known as the [Monday effect](https://www.investopedia.com/terms/m/mondayeffect.asp).
+The weekend effect is also known as the [[Monday effect]](https://www.investopedia.com/terms/m/mondayeffect.asp).
 
 ### Key Takeaways
 
@@ -29,13 +29,13 @@ The weekend effect is also known as the [Monday effect](https://www.investopedia
 
 ## Understanding the Weekend Effect
 
-One explanation for the weekend effect is the tendency of humans to act irrationally; the trading behavior of individual investors appears to be at least one factor contributing to this pattern. Faced with uncertainty, humans often make decisions that do not reflect their best judgment. At times, the [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp) reflect the irrationality of its participants, especially when considering the high volatility of stock prices and the markets; the decisions of investors may be impacted by external factors (and sometimes unconsciously). In addition, investors are more active sellers of stock on Mondays, especially following bad news in the market.
+One explanation for the weekend effect is the tendency of humans to act irrationally; the trading behavior of individual investors appears to be at least one factor contributing to this pattern. Faced with uncertainty, humans often make decisions that do not reflect their best judgment. At times, the [[capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp) reflect the irrationality of its participants, especially when considering the high volatility of stock prices and the markets; the decisions of investors may be impacted by external factors (and sometimes unconsciously). In addition, investors are more active sellers of stock on Mondays, especially following bad news in the market.
 
 In 1973, Frank Cross first reported the anomaly of negative Monday returns in an article called “The Behavior of Stock Prices on Fridays and Mondays,” which was published in the Financial Analysts Journal. In the article, he shows that the average return on Fridays exceeded the average return on Mondays, and there is a difference in the patterns of price changes between those days. Stock prices fall on Mondays, following a rise on the previous trading day (usually Friday). This timing translates to a recurrent low or negative average return from Friday to Monday in the stock market.
 
-Some theories that attempt to explain the weekend effect point to the tendency of companies to release bad news on a Friday after the markets close, which then depresses stock prices on Monday. Others state that the weekend effect might be linked to [short selling](https://www.investopedia.com/terms/s/shortselling.asp), which would affect stocks with high [short interest](https://www.investopedia.com/terms/s/shortinterest.asp) positions. Alternatively, the effect could simply be a result of traders' fading optimism between Friday and Monday.
+Some theories that attempt to explain the weekend effect point to the tendency of companies to release bad news on a Friday after the markets close, which then depresses stock prices on Monday. Others state that the weekend effect might be linked to [[short selling]](https://www.investopedia.com/terms/s/shortselling.asp), which would affect stocks with high [[short interest]](https://www.investopedia.com/terms/s/shortinterest.asp) positions. Alternatively, the effect could simply be a result of traders' fading optimism between Friday and Monday.
 
-The weekend effect has been a regular feature of stock trading patterns for many years. According to a study by the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp), prior to 1987, there was a statistically significant negative return over the weekends. However, the study did mention that this negative return had disappeared in the period between 1987 and 1998. Since 1998, volatility over the weekends has increased again, and the cause of the phenomenon of the weekend effect remains a much-debated topic.
+The weekend effect has been a regular feature of stock trading patterns for many years. According to a study by the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp), prior to 1987, there was a statistically significant negative return over the weekends. However, the study did mention that this negative return had disappeared in the period between 1987 and 1998. Since 1998, volatility over the weekends has increased again, and the cause of the phenomenon of the weekend effect remains a much-debated topic.
 
 ## Special Considerations
 

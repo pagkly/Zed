@@ -16,7 +16,7 @@ author: Will Kenton
 Margin Loan Availability
 ## What is Margin Loan Availability?
 
-Margin loan availability describes the amount in a margin account that is currently available for purchasing securities on margin or the amount that is available for withdrawal. A [margin account](https://www.investopedia.com/terms/m/marginaccount.asp) makes loans available to the customer of a brokerage firm using the customer's securities in their account as collateral.
+Margin loan availability describes the amount in a margin account that is currently available for purchasing securities on margin or the amount that is available for withdrawal. A [[margin account]](https://www.investopedia.com/terms/m/marginaccount.asp) makes loans available to the customer of a brokerage firm using the customer's securities in their account as collateral.
 
 ## How Margin Loan Availability Works
 
@@ -25,11 +25,11 @@ Margin loan availability tells a brokerage customer how much money in their marg
 Margin loan availability can be used in a couple of specific contexts:
 
 1.  To show the dollar amount in an existing margin account that is currently available for purchasing securities. For new accounts, this represents the percentage value of the current balance that is available for future margin purchases.
-2.  To show the dollar amount available for withdrawal from an account with existing [marginable](https://www.investopedia.com/terms/m/marginable.asp) positions being used as [collateral](https://www.investopedia.com/terms/c/collateral.asp).
+2.  To show the dollar amount available for withdrawal from an account with existing [[marginable]](https://www.investopedia.com/terms/m/marginable.asp) positions being used as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp).
 
-Margin loan availability will change daily as the value of [margin debt](https://www.investopedia.com/terms/m/margin_debt.asp) (which includes purchased securities) changes. But it may not reflect pending trades that fall in between the trade date and the settlement date.
+Margin loan availability will change daily as the value of [[margin debt]](https://www.investopedia.com/terms/m/margin_debt.asp) (which includes purchased securities) changes. But it may not reflect pending trades that fall in between the trade date and the settlement date.
 
-Brokerage firms are required to impose a maintenance requirement on margin accounts, which is a percentage of the total market value of the securities purchased on margin. If the margin loan availability amount—essentially, the equity in an investor's account— falls below the maintenance margin, the investor may be due for a [margin call](https://www.investopedia.com/terms/m/margincall.asp), which is a formal request to sell some of the marginable securities or deposit additional cash into the account, typically within three days. The Federal Reserve Board, [self-regulatory organizations (SROs)](https://www.investopedia.com/terms/s/sro.asp) such as the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp), and the securities exchanges have rules governing margin trading, but brokerage firms can also set more restrictive requirements on their own.
+Brokerage firms are required to impose a maintenance requirement on margin accounts, which is a percentage of the total market value of the securities purchased on margin. If the margin loan availability amount—essentially, the equity in an investor's account— falls below the maintenance margin, the investor may be due for a [[margin call]](https://www.investopedia.com/terms/m/margincall.asp), which is a formal request to sell some of the marginable securities or deposit additional cash into the account, typically within three days. The Federal Reserve Board, [[self-regulatory organizations (SROs)]](https://www.investopedia.com/terms/s/sro.asp) such as the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp), and the securities exchanges have rules governing margin trading, but brokerage firms can also set more restrictive requirements on their own.
 
 Margin loan availability rises and falls with the value of the securities in an investor's margin account. If the account's equity drops too low, the investor may face a margin call and have to sell securities to cover the shortfall.
 

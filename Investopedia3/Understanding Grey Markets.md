@@ -16,11 +16,11 @@ author: Will Kenton
 Understanding Grey Markets
 ## What Is a Grey Market?
 
-A grey market is a market in which goods have been manufactured by or with the consent of the brand owner but are sold outside of the brand owner's approved distribution channels—an activity that can be perfectly legal. In the securities markets, a grey market is a market wherein a company's shares are traded before they are issued in an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO).
+A grey market is a market in which goods have been manufactured by or with the consent of the brand owner but are sold outside of the brand owner's approved distribution channels—an activity that can be perfectly legal. In the securities markets, a grey market is a market wherein a company's shares are traded before they are issued in an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO).
 
 ## Understanding Grey Markets
 
-A grey market in the [securities markets](https://www.investopedia.com/articles/stocks/11/securities-market-introduction.asp) is an over-the-counter market where dealers execute orders for stocks and bonds for preferred customers before they have been issued. These sales are contingent upon the issuance actually taking place, and allows underwriters and the issuer to determine demand and price the securities accordingly before the initial public offering (IPO) or bond issue. In grey market trading, while the trade is binding, it cannot be settled until official trading begins.
+A grey market in the [[securities markets]](https://www.investopedia.com/articles/stocks/11/securities-market-introduction.asp) is an over-the-counter market where dealers execute orders for stocks and bonds for preferred customers before they have been issued. These sales are contingent upon the issuance actually taking place, and allows underwriters and the issuer to determine demand and price the securities accordingly before the initial public offering (IPO) or bond issue. In grey market trading, while the trade is binding, it cannot be settled until official trading begins.
 
 Grey market goods are products sold by a manufacturer or their authorized agent outside the terms of the agreement between the reseller/distributor and the manufacturer.
 
@@ -28,7 +28,7 @@ Grey market goods are products sold by a manufacturer or their authorized agent 
 
 Grey market goods are legal non-counterfeit goods manufactured abroad and imported into the U.S. without the consent of the trademark holder and sold through unauthorized dealers. Though manufacturers labeled these resold products as the "grey market" to associate them with illegal “[black market](https://www.investopedia.com/terms/b/blackmarket.asp)” products, the U.S. Supreme Court has upheld the idea that grey market products are legal for resale in the U.S., regardless of where they were produced or originally sold. The one exception is where the trademark owner has a contractual agreement with the manufacturer not to import the goods into the U.S.
 
-They may be [original equipment manufacturer](https://www.investopedia.com/terms/o/oem.asp) (OEM) goods sold more cheaply elsewhere, or cheaper—though not necessarily lower quality—aftermarket goods. And they may lack a U.S. manufacturer’s warranty because the goods were originally intended for sale outside the U.S., or the specifications may fail to comply with U.S. regulatory requirements.
+They may be [[original equipment manufacturer]](https://www.investopedia.com/terms/o/oem.asp) (OEM) goods sold more cheaply elsewhere, or cheaper—though not necessarily lower quality—aftermarket goods. And they may lack a U.S. manufacturer’s warranty because the goods were originally intended for sale outside the U.S., or the specifications may fail to comply with U.S. regulatory requirements.
 
 ## Special Considerations
 

@@ -16,13 +16,13 @@ author: Will Kenton
 What Is a White Shoe Firm?
 ## What Is a White Shoe Firm?
 
-The white-shoe firm or, more specifically, the white-shoe law firm, is an old-fashioned term for the most prestigious employers in elite professions. The term originally was used only to refer to law firms but now may be used to describe some [investment banking](https://www.investopedia.com/articles/personal-finance/042215/what-do-investment-bankers-really-do.asp) and management consulting firms.
+The white-shoe firm or, more specifically, the white-shoe law firm, is an old-fashioned term for the most prestigious employers in elite professions. The term originally was used only to refer to law firms but now may be used to describe some [[investment banking]](https://www.investopedia.com/articles/personal-finance/042215/what-do-investment-bankers-really-do.asp) and management consulting firms.
 
 White shoe firms typically have a venerable history in the business, a blue-chip clientele acquired over generations, and an exclusive address on the East Coast.
 
 ## Understanding the White Shoe Firm
 
-The term is believed to have originated in an early preppy style, white buck Oxford shoes. These were popular among students at [Yale University](https://www.investopedia.com/articles/markets/081616/top-5-largest-university-endowments.asp) and other Ivy League colleges during the 1950s. Presumably, these impeccably-dressed students from elite schools were sure to land jobs at prestigious firms once they graduated.
+The term is believed to have originated in an early preppy style, white buck Oxford shoes. These were popular among students at [[Yale University]](https://www.investopedia.com/articles/markets/081616/top-5-largest-university-endowments.asp) and other Ivy League colleges during the 1950s. Presumably, these impeccably-dressed students from elite schools were sure to land jobs at prestigious firms once they graduated.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The term is believed to have originated in an early preppy style, white buck Oxf
 
 Most white-shoe law firms were based in New York City, although Boston or Philadelphia were also acceptable locales.
 
-Although the shoes have long gone out of fashion, the term is still used in reference to leading American companies such as [JPMorgan Chase & Co.](https://www.investopedia.com/articles/markets/032716/top-4-companies-owned-jpmorgan-jpm.asp) or Goldman Sachs in banking; Cravath, Swaine & Moore LLP in law, and McKinsey & Company in management consulting. It has even expanded to denote top-tier firms in other countries.
+Although the shoes have long gone out of fashion, the term is still used in reference to leading American companies such as [[JPMorgan Chase & Co.]](https://www.investopedia.com/articles/markets/032716/top-4-companies-owned-jpmorgan-jpm.asp) or Goldman Sachs in banking; Cravath, Swaine & Moore LLP in law, and McKinsey & Company in management consulting. It has even expanded to denote top-tier firms in other countries.
 
 ### Negative Connotations
 

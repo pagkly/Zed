@@ -16,7 +16,7 @@ author: Will Kenton
 How Requests for Proposal (RFP) Work
 ## What Is a Request for Proposal (RFP)?
 
-A request for proposal (RFP) is a business document that announces and provides details about a project, as well as solicits bids from contractors who will help complete the project. Most organizations prefer using RFPs, and, in many cases, governments only use requests for proposal. A request for proposal for a specific program may require the company to review the bids to examine their feasibility, the health of the bidding company, and the [bidder](https://www.investopedia.com/terms/b/bidder.asp)'s ability to do what is proposed.
+A request for proposal (RFP) is a business document that announces and provides details about a project, as well as solicits bids from contractors who will help complete the project. Most organizations prefer using RFPs, and, in many cases, governments only use requests for proposal. A request for proposal for a specific program may require the company to review the bids to examine their feasibility, the health of the bidding company, and the [[bidder]](https://www.investopedia.com/terms/b/bidder.asp)'s ability to do what is proposed.
 
 ### Key Takeaways
 
@@ -33,9 +33,9 @@ RFPs also guide bidders on how to prepare proposals. They may outline instructio
 
 **The proposal should not be overly detailed as it may hinder the contractor's creativity, and it should not be so vague that the contractor is left stumped.**
 
-The majority of RFPs are submitted by [government agencies](https://www.investopedia.com/articles/economics/11/government-regulations.asp) and others involved in the public sector. They are generally required to open up competition among private companies to make the process fair. To keep costs low, these agencies want to ensure they get the lowest and most competitive bid.
+The majority of RFPs are submitted by [[government agencies]](https://www.investopedia.com/articles/economics/11/government-regulations.asp) and others involved in the public sector. They are generally required to open up competition among private companies to make the process fair. To keep costs low, these agencies want to ensure they get the lowest and most competitive bid.
 
-The reason an organization may put out an RFP is to get multiple bids. The seeking organization may benefit from multiple bidders and perspectives. For example, a business that wants to change its reporting process from a paper-based system to a computer-based system may put in a request for proposal for [hardware](https://www.investopedia.com/news/5-tech-hardware-stocks-outperform-marketwatch/), software, and user training to establish and integrate the new system into the business.
+The reason an organization may put out an RFP is to get multiple bids. The seeking organization may benefit from multiple bidders and perspectives. For example, a business that wants to change its reporting process from a paper-based system to a computer-based system may put in a request for proposal for [[hardware]](https://www.investopedia.com/news/5-tech-hardware-stocks-outperform-marketwatch/), software, and user training to establish and integrate the new system into the business.
 
 ## Requirements for a Request for Proposal 
 
@@ -43,7 +43,7 @@ Government agencies or other entities may be required to issue requests for prop
 
 Skillfully creating a request for proposal may dictate the success or failure of the resulting solution. If specified requirements are too vague, the bidder may not design and implement a complete solution for the problem. If the requirements are too detailed and restrictive, the bidders’ creativity and innovation may be limited.
 
-The RFP process begins with drafting a request for proposal. Bidders review the solicitation and submit suggestions for improvement. After implementing [feedback](https://www.investopedia.com/terms/n/negative-feedback.asp), the final request for proposal is issued. Bidders then submit their proposals. The customer selects a small group of bidders and enters negotiations on pricing and technical details. The customer may ask the remaining bidders to submit a best and final offer before awarding a contract. The contract is presented to the company providing the best solution to the issue.
+The RFP process begins with drafting a request for proposal. Bidders review the solicitation and submit suggestions for improvement. After implementing [[feedback]](https://www.investopedia.com/terms/n/negative-feedback.asp), the final request for proposal is issued. Bidders then submit their proposals. The customer selects a small group of bidders and enters negotiations on pricing and technical details. The customer may ask the remaining bidders to submit a best and final offer before awarding a contract. The contract is presented to the company providing the best solution to the issue.
 
 ## Example of a Request for Proposal
 

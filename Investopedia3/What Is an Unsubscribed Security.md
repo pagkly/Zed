@@ -16,7 +16,7 @@ author: Carol Kopp
 What Is an Unsubscribed Security?
 ## What Is Unsubscribed?
 
-Stock shares from an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO) that are not purchased, or subscribed, ahead of the official release date, are labeled unsubscribed_._
+Stock shares from an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO) that are not purchased, or subscribed, ahead of the official release date, are labeled unsubscribed_._
 
 This means that there has been little or no interest in the security in advance of the IPO. It may not even have been offered by brokerages.
 

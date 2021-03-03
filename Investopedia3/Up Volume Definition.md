@@ -18,7 +18,7 @@ Up Volume Definition
 
 Up volume generally refers to an increase in the volume of shares traded in either a market or security that leads to an increase in value. Overall, volume can be influenced by a number of factors and may have various affects.
 
-Up volume can be contrasted with [down volume](https://www.investopedia.com/terms/d/downvolume.asp).
+Up volume can be contrasted with [[down volume]](https://www.investopedia.com/terms/d/downvolume.asp).
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ Up volume can be contrasted with [down volume](https://www.investopedia.com/term
 
 ## Understanding Up Volume
 
-Up volume occurs in bullish markets when security prices are rising with increased [volume](https://www.investopedia.com/terms/v/volume.asp) in the market. Up volume may also be referred to as up on volume.
+Up volume occurs in bullish markets when security prices are rising with increased [[volume]](https://www.investopedia.com/terms/v/volume.asp) in the market. Up volume may also be referred to as up on volume.
 
 On an up volume trading day an index’s value would trade higher in conjunction with an increase in comprehensive total index trading volume. The same concept occurs in a single security. For example, an up volume stock day for a single stock would show a price trading higher and ultimately closing higher than the previous day’s close.
 
 ## Views on Volume
 
-Volume is the total number of shares that are transacted. Volume can be influenced by a number of factors. Volume is typically higher following the release of public information about a security. [Noise traders](https://www.investopedia.com/terms/n/noisetrader.asp) tend to be significant contributors to high volume trades. In certain situations, a stock may be rising on a positive development within the company that has just been released to the public. If the news was unanticipated it can cause a high volume of trading from both institutional and retail investors as the stock corrects and increases to the upside. Often noise traders will greatly contribute to high volume trading days since these investors follow trends and trade heavily based on emotional sentiment.
+Volume is the total number of shares that are transacted. Volume can be influenced by a number of factors. Volume is typically higher following the release of public information about a security. [[Noise traders]](https://www.investopedia.com/terms/n/noisetrader.asp) tend to be significant contributors to high volume trades. In certain situations, a stock may be rising on a positive development within the company that has just been released to the public. If the news was unanticipated it can cause a high volume of trading from both institutional and retail investors as the stock corrects and increases to the upside. Often noise traders will greatly contribute to high volume trading days since these investors follow trends and trade heavily based on emotional sentiment.
 
-Most [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp) and institutional investors will follow the volume of a security that they are considering for investment. A spike in volume is typically caused by a significant market catalyst that merits attention. Many technical analysts believe that volume can also be a signal of a price breakout in a bullish or bearish direction.
+Most [[technical analysts]](https://www.investopedia.com/terms/t/technical-analyst.asp) and institutional investors will follow the volume of a security that they are considering for investment. A spike in volume is typically caused by a significant market catalyst that merits attention. Many technical analysts believe that volume can also be a signal of a price breakout in a bullish or bearish direction.
 
 ## PVI and NVI
 

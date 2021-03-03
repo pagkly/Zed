@@ -29,7 +29,7 @@ The hikkake pattern is a price pattern used by technical analysts and traders ho
 
 The Hikkake pattern (pronounced Hĭ KAH kay) is a complex bar or candle pattern that begins to move in one direction but reverses quickly and is said to establish a forecast for a move in the opposite direction. This pattern was developed by Daniel L. Chesler, CMT, who published a description of the pattern first in 2003. The pattern has four key points.
 
-1.  The first two candles (or bars) of the pattern are of declining size. These are referred to as an [inside-day](https://www.investopedia.com/terms/i/inside_day.asp) pattern or a [Harami](https://www.investopedia.com/terms/b/bullishharami.asp) candlestick pattern. It does not matter whether either of these days closes higher or lower than it opened, so long as the body of the first completely overshadows the body of the second.
+1.  The first two candles (or bars) of the pattern are of declining size. These are referred to as an [[inside-day]](https://www.investopedia.com/terms/i/inside_day.asp) pattern or a [[Harami]](https://www.investopedia.com/terms/b/bullishharami.asp) candlestick pattern. It does not matter whether either of these days closes higher or lower than it opened, so long as the body of the first completely overshadows the body of the second.
 2.  The third candle closes below the low in the first setup (or above the high in the second setup) of the second candle
 3.  The next one or more candles will drift below (or above in the second setup) the third candle and may begin to reverse direction.
 4.  The final candle will close above the high of the second candle (or below the low of the second candle in the second setup).

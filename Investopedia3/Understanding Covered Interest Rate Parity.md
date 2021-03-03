@@ -16,7 +16,7 @@ author: Marshall Hargrave
 Understanding Covered Interest Rate Parity
 ## What Is Covered Interest Rate Parity?
 
-Covered interest rate parity refers to a theoretical condition in which the relationship between interest rates and the [spot](https://www.investopedia.com/terms/s/spotprice.asp) and [forward](https://www.investopedia.com/terms/f/forwardrate.asp) currency values of two countries are in equilibrium. The covered interest rate parity situation means there is no opportunity for arbitrage using forward contracts, which often exists between countries with different interest rates.
+Covered interest rate parity refers to a theoretical condition in which the relationship between interest rates and the [[spot]](https://www.investopedia.com/terms/s/spotprice.asp) and [[forward]](https://www.investopedia.com/terms/f/forwardrate.asp) currency values of two countries are in equilibrium. The covered interest rate parity situation means there is no opportunity for arbitrage using forward contracts, which often exists between countries with different interest rates.
 
 ## The Formula for Covered Interest Rate Parity Is
 
@@ -26,7 +26,7 @@ The formula above can be rearranged to determine the forward foreign exchange ra
 
 F\=S∗(1+id)(1+if)F=S\*\\frac{\\left(1+i\_d\\right)}{\\left(1+i\_f\\right)}
 
-Under normal circumstances, a currency that offers lower interest rates tends to trade at a forward foreign [exchange rate premium](https://www.investopedia.com/terms/f/forwardpoints.asp) in relation to another currency offering higher interest rates.
+Under normal circumstances, a currency that offers lower interest rates tends to trade at a forward foreign [[exchange rate premium]](https://www.investopedia.com/terms/f/forwardpoints.asp) in relation to another currency offering higher interest rates.
 
 ### Key Takeaways
 
@@ -36,13 +36,13 @@ Under normal circumstances, a currency that offers lower interest rates tends to
 
 ## What Does Covered Interest Rate Parity Tell You?
 
-Covered interest rate parity is a no-arbitrage condition that could be used in the foreign exchange markets to determine the forward foreign exchange rate. The condition also states that investors could hedge foreign exchange risk or unforeseen fluctuations in exchange rates (with [forward contracts](https://www.investopedia.com/terms/f/forwardcontract.asp)).
+Covered interest rate parity is a no-arbitrage condition that could be used in the foreign exchange markets to determine the forward foreign exchange rate. The condition also states that investors could hedge foreign exchange risk or unforeseen fluctuations in exchange rates (with [[forward contracts]](https://www.investopedia.com/terms/f/forwardcontract.asp)).
 
 Consequently, the foreign exchange risk is said to be covered. Interest rate parity may occur for a time, but that does not mean it will remain. Interest rates and currency rates change over time.
 
 ## Example of How to Use Covered Interest Rate Parity
 
-As an example, assume Country X's currency is trading [at par](https://www.investopedia.com/terms/a/at-par.asp) with Country Z's currency, but the annual interest rate in Country X is 6% and the interest rate in country Z is 3%. All other things being equal, it would make sense to borrow in the currency of Z, convert it in the spot market to currency X, and invest the proceeds in Country X.
+As an example, assume Country X's currency is trading [[at par]](https://www.investopedia.com/terms/a/at-par.asp) with Country Z's currency, but the annual interest rate in Country X is 6% and the interest rate in country Z is 3%. All other things being equal, it would make sense to borrow in the currency of Z, convert it in the spot market to currency X, and invest the proceeds in Country X.
 
 However, to repay the loan in currency Z, one must enter into a forward contract to exchange the currency back from X to Z. Covered interest rate parity exists when the forward rate of converting X to Z eradicates all the profit from the transaction.
 
@@ -52,7 +52,7 @@ Looking at the currency market in Dec. 2020, we can apply the forward foreign ex
 
 ## The Difference Between Covered Interest Rate Parity and Uncovered Interest Rate Parity
 
-Covered interest parity involves using forward contracts to cover the exchange rate. Meanwhile, [uncovered interest rate parity](https://www.investopedia.com/terms/u/uncoveredinterestrateparity.asp) involves forecasting rates and not covering exposure to foreign exchange risk_—_that is, there are no forward rate contracts, and it uses only the expected spot rate. There is no difference between covered and uncovered interest rate parity when the forward and expected spot rates are the same.
+Covered interest parity involves using forward contracts to cover the exchange rate. Meanwhile, [[uncovered interest rate parity]](https://www.investopedia.com/terms/u/uncoveredinterestrateparity.asp) involves forecasting rates and not covering exposure to foreign exchange risk_—_that is, there are no forward rate contracts, and it uses only the expected spot rate. There is no difference between covered and uncovered interest rate parity when the forward and expected spot rates are the same.
 
 ## Limitations of Using Covered Interest Rate Parity
 

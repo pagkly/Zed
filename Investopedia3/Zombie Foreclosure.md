@@ -28,7 +28,7 @@ Say the lender doesn't complete the foreclosure process and sell the home. Then 
 
 ## How a Zombie Foreclosure Works
 
-Zombie foreclosure results from a homeowner's misunderstanding of the foreclosure process. During a normal foreclosure, the homeowners receive notice from the institution holding the [defaulted](https://www.investopedia.com/terms/d/default2.asp) mortgage that the house is entering foreclosure.
+Zombie foreclosure results from a homeowner's misunderstanding of the foreclosure process. During a normal foreclosure, the homeowners receive notice from the institution holding the [[defaulted]](https://www.investopedia.com/terms/d/default2.asp) mortgage that the house is entering foreclosure.
 
 After this notice is issued, there is a mandated waiting period during which the homeowners can pull the house out of foreclosure by paying a large lump sum of money. The required payment may range from a few back payments to the total amount the homeowners owe in arrears or the full balance of the mortgage.
 
@@ -40,6 +40,6 @@ Sometimes, a lender will decide not to complete a foreclosure—one reason might
 
 ## How Zombie Foreclosures Impact Homeowners
 
-Zombie foreclosure escalates a bad situation—default on a mortgage—and makes it a problem for the entire neighborhood, not just the homeowner. A homeowner who leaves a property upon receiving a notice of foreclosure is abandoning the property without understanding the legal and financial ramifications of the notice or their actions. The owner of a zombie foreclosure is likely still responsible for maintenance, upkeep, [homeowners association (HOA)](https://www.investopedia.com/terms/h/hoa.asp) fees, and [property taxes](https://www.investopedia.com/terms/p/propertytax.asp). These requirements do not end just because someone has abandoned their home. Eventually, local authorities could attempt to recover unpaid taxes or fees, or charge the owner expenses for maintenance.
+Zombie foreclosure escalates a bad situation—default on a mortgage—and makes it a problem for the entire neighborhood, not just the homeowner. A homeowner who leaves a property upon receiving a notice of foreclosure is abandoning the property without understanding the legal and financial ramifications of the notice or their actions. The owner of a zombie foreclosure is likely still responsible for maintenance, upkeep, [[homeowners association (HOA)]](https://www.investopedia.com/terms/h/hoa.asp) fees, and [property taxes](https://www.investopedia.com/terms/p/propertytax.asp). These requirements do not end just because someone has abandoned their home. Eventually, local authorities could attempt to recover unpaid taxes or fees, or charge the owner expenses for maintenance.
 
 To protect against the impact of a home falling into zombie foreclosure, homeowners who have defaulted on their mortgage and are facing foreclosure should stay in the residence until an official notice to vacate arrives. Afterward, they should follow up to be sure that the title of the property is no longer in their name.

@@ -16,7 +16,7 @@ author: Cory Mitchell
 Kagi Chart Definition and Strategies
 ## What is a Kagi Chart?
 
-The Kagi chart is a specialized type of [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) developed in Japan in the 1870s. It uses a series of vertical lines to illustrate general levels of [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for certain assets, including the price movement of rice, a core Japanese agricultural product. Thick lines are drawn when the price of the underlying asset breaks above the previous high price and is interpreted as an increase in demand for the asset. Thin lines are used to represent increased supply when the price falls below the previous low.
+The Kagi chart is a specialized type of [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) developed in Japan in the 1870s. It uses a series of vertical lines to illustrate general levels of [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for certain assets, including the price movement of rice, a core Japanese agricultural product. Thick lines are drawn when the price of the underlying asset breaks above the previous high price and is interpreted as an increase in demand for the asset. Thin lines are used to represent increased supply when the price falls below the previous low.
 
 Image by Julie Bang © Investopedia 2020
 
@@ -37,7 +37,7 @@ The Kagi chart will move up and down as the price moves by the reversal amount, 
 
 These charts are independent of time and only change direction once a predefined reversal amount is reached. The reversal amount is discussed below.
 
-Kagi charts, having no regard for time, have the advantage of reducing [noise](https://www.investopedia.com/terms/n/noise.asp). Noise is a particular drawback of traditional [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) charting methods. Because a change in price direction occurs only after a specific threshold is reached, some traders may find Kagi charts useful in terms of isolating the trend and viewing direction more clearly.
+Kagi charts, having no regard for time, have the advantage of reducing [[noise]](https://www.investopedia.com/terms/n/noise.asp). Noise is a particular drawback of traditional [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) charting methods. Because a change in price direction occurs only after a specific threshold is reached, some traders may find Kagi charts useful in terms of isolating the trend and viewing direction more clearly.
 
 Depending on the trading or charting platform used, the Kagi chart line may not be thin or thick, but rather colored, such as red and green. The color changes signal a drop below a recent high or low.
 
@@ -47,9 +47,9 @@ A Kagi chart will reverse direction when the price has moved the other direction
 
 If the Kagi chart (and price) is moving higher to $300, the Kagi will not reverse until the price drops below $290. If the price rises to $350, the Kagi won't reverse until the price drops below $340. If the price falls to $340 the Kagi will not reverse higher until the price moves back above $350.
 
-The $10 reversal is a moving target. The $10 reversal can be based on [closing prices](https://www.investopedia.com/terms/c/closingprice.asp) or highs and lows.
+The $10 reversal is a moving target. The $10 reversal can be based on [[closing prices]](https://www.investopedia.com/terms/c/closingprice.asp) or highs and lows.
 
-The reversal amount doesn't need to be a fixed amount. It can also be based on [Average True Range](https://www.investopedia.com/terms/a/atr.asp) (ATR), which means the reversal amount will change as volatility changes.
+The reversal amount doesn't need to be a fixed amount. It can also be based on [[Average True Range]](https://www.investopedia.com/terms/a/atr.asp) (ATR), which means the reversal amount will change as volatility changes.
 
 When the Kagi chart reverses, it draws a horizontal line at the low or high price (close, high or low, depending on which is selected) and then reverses. It will continues to move vertically until there is a reversal.
 
@@ -65,7 +65,7 @@ Rising shoulders signal a rising market and a buying opportunity.
 
 Falling waists indicate a downtrend.
 
-A Three Buddha bottom is the Kagi version of an [inverse head and shoulders](https://www.investopedia.com/articles/trading/07/kagi_chart.asp) and may generate a buying opportunity.
+A Three Buddha bottom is the Kagi version of an [[inverse head and shoulders]](https://www.investopedia.com/articles/trading/07/kagi_chart.asp) and may generate a buying opportunity.
 
 Multiple Kagi patterns are covered in the book _Beyond Candlesticks_ by Steve Nison.
 
@@ -83,7 +83,7 @@ As a general note, the Kagi switches to green when the price moves above the pri
 
 ## The Difference Between Kagi Charts and Renko Charts
 
-Kagi and [Renko charts](https://www.investopedia.com/terms/r/renkochart.asp) are both based on reversal amounts. Renko charts are created by bricks that only move at 45-degree angles and never occur beside each other. Each brick is a specified amount. In order to get a reversal on the Renko chart the price must move two brick distances since there are no side-by-side bricks.
+Kagi and [[Renko charts]](https://www.investopedia.com/terms/r/renkochart.asp) are both based on reversal amounts. Renko charts are created by bricks that only move at 45-degree angles and never occur beside each other. Each brick is a specified amount. In order to get a reversal on the Renko chart the price must move two brick distances since there are no side-by-side bricks.
 
 ## The Limitations of Using Kagi Charts
 
@@ -95,4 +95,4 @@ For some traders the trend may be harder to identify with the Kagi charts, with 
 
 While trade signals with Kagi charts will have some similarities to other chart types, like candlesticks, Kagi charts have unique features which may require additional study to take advantage of.
 
-Many of the general buy and signals generated by Kagi charts won't be profitable over many trades until combined with other forms of analysis to help [filter](https://www.investopedia.com/terms/f/filterrule.asp) trades.
+Many of the general buy and signals generated by Kagi charts won't be profitable over many trades until combined with other forms of analysis to help [[filter]](https://www.investopedia.com/terms/f/filterrule.asp) trades.

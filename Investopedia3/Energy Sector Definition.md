@@ -16,7 +16,7 @@ author: James Chen
 Energy Sector Definition
 ## What Is the Energy Sector?
 
-The energy [sector](https://www.investopedia.com/terms/s/sector.asp) is a category of stocks that relate to producing or supplying energy. The energy sector or industry includes companies involved in the exploration and development of oil or gas reserves, oil and gas drilling, and refining. The energy industry also includes integrated power utility companies such as renewable energy and coal.
+The energy [[sector]](https://www.investopedia.com/terms/s/sector.asp) is a category of stocks that relate to producing or supplying energy. The energy sector or industry includes companies involved in the exploration and development of oil or gas reserves, oil and gas drilling, and refining. The energy industry also includes integrated power utility companies such as renewable energy and coal.
 
 ### Key Takeaways
 

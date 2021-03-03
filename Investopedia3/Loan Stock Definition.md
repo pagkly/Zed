@@ -16,7 +16,7 @@ author: Jim Chappelow
 Loan Stock Definition
 ## What Is Loan Stock?
 
-Loan stock refers to shares of common or [preferred stock](https://www.investopedia.com/terms/p/preferredstock.asp) that are used as collateral to secure a loan from another party. The loan earns a fixed interest rate, much like a standard loan, and can be secured or unsecured. A secured loan stock may also be called a convertible loan stock if the loan stock can be directly converted to common shares under specified conditions and with a predetermined [conversion rate](https://www.investopedia.com/terms/c/conversion-rate.asp), as with an irredeemable convertible [unsecured](https://www.investopedia.com/terms/u/unsecured.asp) loan stock (ICULS).
+Loan stock refers to shares of common or [[preferred stock]](https://www.investopedia.com/terms/p/preferredstock.asp) that are used as collateral to secure a loan from another party. The loan earns a fixed interest rate, much like a standard loan, and can be secured or unsecured. A secured loan stock may also be called a convertible loan stock if the loan stock can be directly converted to common shares under specified conditions and with a predetermined [[conversion rate]](https://www.investopedia.com/terms/c/conversion-rate.asp), as with an irredeemable convertible [[unsecured]](https://www.investopedia.com/terms/u/unsecured.asp) loan stock (ICULS).
 
 ## Key Takeaways
 
@@ -39,11 +39,11 @@ The issuing business of a stock used to secure a loan may have concerns regardin
 
 ## Loan Stock Businesses
 
-There are full-fledged businesses that function solely by providing options for loan-stock transactions, allowing a portfolio holder to obtain financing based on the value of his securities, as well as other factors such as the [implied volatility](https://www.investopedia.com/terms/i/iv.asp) of their holdings and creditworthiness. A [loan-to-value](https://www.investopedia.com/terms/l/loantovalue.asp) (LTV) ratio is established based on the portfolio, similar to how a home's value is assessed when securing a home mortgage, and the funds are backed by the security holdings in the borrower's portfolio.
+There are full-fledged businesses that function solely by providing options for loan-stock transactions, allowing a portfolio holder to obtain financing based on the value of his securities, as well as other factors such as the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) of their holdings and creditworthiness. A [[loan-to-value]](https://www.investopedia.com/terms/l/loantovalue.asp) (LTV) ratio is established based on the portfolio, similar to how a home's value is assessed when securing a home mortgage, and the funds are backed by the security holdings in the borrower's portfolio.
 
 ## Primary Dealer Credit Facility
 
-As an emergency measure the Federal Reserve expanded the range of eligible collateral on loans through its [Primary Dealer Credit Facility (PDCF)](https://www.investopedia.com/terms/p/primary-dealer-credit-facility-pdcf.asp) to include some equities in September 2008. This was one among many unprecedented moves by the central bank in the face of the [2008 Financial Crisis](https://www.investopedia.com/terms/c/credit-crisis.asp), and the PDFC was later wound down in 2010 as the economy stabilized.1 
+As an emergency measure the Federal Reserve expanded the range of eligible collateral on loans through its [[Primary Dealer Credit Facility (PDCF)]](https://www.investopedia.com/terms/p/primary-dealer-credit-facility-pdcf.asp) to include some equities in September 2008. This was one among many unprecedented moves by the central bank in the face of the [2008 Financial Crisis](https://www.investopedia.com/terms/c/credit-crisis.asp), and the PDFC was later wound down in 2010 as the economy stabilized.1 
 
 In March of 2020 the Fed reopened the PDCF to address the stock market crash and liquidity problems associated with the spread of the Covid-19 virus and resulting containment measures instituted by public health officials. The reopened PDCF includes a broad range of equities as eligible collateral. 2
 

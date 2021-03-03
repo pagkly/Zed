@@ -16,9 +16,9 @@ author: Will Kenton
 What Are Usury Laws?
 ## What Are Usury Laws?
 
-Usury laws are regulations governing the amount of interest that can be charged on a loan. [Usury](https://www.investopedia.com/terms/u/usury.asp) laws specifically target the practice of charging excessively high rates on loans by setting caps on [the maximum amount of interest that can be levied](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). These laws are designed to protect consumers.
+Usury laws are regulations governing the amount of interest that can be charged on a loan. [[Usury]](https://www.investopedia.com/terms/u/usury.asp) laws specifically target the practice of charging excessively high rates on loans by setting caps on [[the maximum amount of interest that can be levied]](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). These laws are designed to protect consumers.
 
-In the United States, individual states are responsible for setting their own usury laws.1 Though this type of financial activity could fall under the Constitution's commerce clause, [Congress](https://www.investopedia.com/terms/c/congress.asp) has not traditionally focused on usury. The government does consider the collection of usury through violent means a federal offense.2
+In the United States, individual states are responsible for setting their own usury laws.1 Though this type of financial activity could fall under the Constitution's commerce clause, [[Congress]](https://www.investopedia.com/terms/c/congress.asp) has not traditionally focused on usury. The government does consider the collection of usury through violent means a federal offense.2
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ In the United States, individual states are responsible for setting their own us
 
 Credit card companies typically have the benefit of being able to charge interest rates that are allowed by the state where the company was incorporated rather than follow the usury laws that apply in the states where borrowers live. Nationally chartered banks similarly can apply the highest interest allowed by the state where the institution was incorporated. By incorporating in states such as Delaware or South Dakota, such lenders have historically benefited from greater leeway allowed by those states’ relaxed usury laws.
 
-Delaware, in particular, is frequently chosen as the state of incorporation for many financial institutions because of the freedom allowed regarding the charging of interest rates. About [half of the domestic credit business](https://www.forbes.com/sites/clairetsosie/2017/04/14/why-so-many-credit-cards-are-from-delaware/?sh=3e112ab51119) in the U.S. market is conducted by companies that incorporated in Delaware, though they may maintain their operational headquarters in other states.
+Delaware, in particular, is frequently chosen as the state of incorporation for many financial institutions because of the freedom allowed regarding the charging of interest rates. About [[half of the domestic credit business]](https://www.forbes.com/sites/clairetsosie/2017/04/14/why-so-many-credit-cards-are-from-delaware/?sh=3e112ab51119) in the U.S. market is conducted by companies that incorporated in Delaware, though they may maintain their operational headquarters in other states.
 
 ## Special Considerations
 

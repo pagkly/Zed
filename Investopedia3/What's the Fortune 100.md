@@ -16,7 +16,7 @@ author: Will Kenton
 What's the Fortune 100?
 ## What Is the Fortune 100?
 
-The Fortune 100 is a list of the top 100 companies in the United States. It is a subset of the Fortune 500, a list of the 500 largest U.S. public and privately held companies published by Fortune magazine. Fortune creates the list by ranking public and private companies that report annual revenue figures to a government agency. The ranking is based on total revenues for the company's corresponding [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp).
+The Fortune 100 is a list of the top 100 companies in the United States. It is a subset of the Fortune 500, a list of the 500 largest U.S. public and privately held companies published by Fortune magazine. Fortune creates the list by ranking public and private companies that report annual revenue figures to a government agency. The ranking is based on total revenues for the company's corresponding [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp).
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ The Fortune 100 is a list of the top 100 companies in the United States. It is a
 
 ## Understanding the Fortune 100
 
-Fortune first published its [first Fortune 500 in 1955](https://fortune.com/2014/06/02/first-fortune-500/). Since that year, the publisher has published an annual list of the top-500 revenue-producing companies.
+Fortune first published its [[first Fortune 500 in 1955]](https://fortune.com/2014/06/02/first-fortune-500/). Since that year, the publisher has published an annual list of the top-500 revenue-producing companies.
 
-The Fortune 500 in 1955 was [led by General Motors](https://archive.fortune.com/magazines/fortune/fortune500_archive/full/1955/), a company that held the top position for more than 30 years. General Motors had revenues of $9.82 billion to top the list. The remaining nine rounded out as follows:
+The Fortune 500 in 1955 was [[led by General Motors]](https://archive.fortune.com/magazines/fortune/fortune500_archive/full/1955/), a company that held the top position for more than 30 years. General Motors had revenues of $9.82 billion to top the list. The remaining nine rounded out as follows:
 
--   Exxon (now part of [Exxon Mobil](https://www.investopedia.com/articles/insights/052416/top-3-exxon-mobil-shareholders-xom.asp)) at $5.66 billion
+-   Exxon (now part of [[Exxon Mobil]](https://www.investopedia.com/articles/insights/052416/top-3-exxon-mobil-shareholders-xom.asp)) at $5.66 billion
 -   U.S. Steel at $3.25 billion
 -   General Electric at $2.96 billion
 -   Esmark at $2.5 billion
@@ -44,7 +44,7 @@ Fortune includes in its list all public and private companies that file financia
 
 ### Requirements for the Fortune 100
 
-At first, the magazine's editors were stricter on which [business sectors](https://www.investopedia.com/terms/s/sector-breakdown.asp) were included. From 1955 to 1994, the Fortune 100 list only included businesses in the manufacturing, mining, and energy sectors. This left out many of the top-earning companies across the country. However, Fortune did publish individual sector lists for the top 50 companies in the industries of banks, utilities, insurance, retailers, and transportation.
+At first, the magazine's editors were stricter on which [[business sectors]](https://www.investopedia.com/terms/s/sector-breakdown.asp) were included. From 1955 to 1994, the Fortune 100 list only included businesses in the manufacturing, mining, and energy sectors. This left out many of the top-earning companies across the country. However, Fortune did publish individual sector lists for the top 50 companies in the industries of banks, utilities, insurance, retailers, and transportation.
 
 In 1994, Fortune expanded its list of companies to include service companies, opening the door for many newcomers to join. This change added many new companies to the Fortune 100 list and also dramatically increased the amount of annual revenue required to make the prestigious list. A company had to generate $10.9 billion in revenue to make the 1995 Fortune 100 list, compared to $5.3 billion in 1994.
 

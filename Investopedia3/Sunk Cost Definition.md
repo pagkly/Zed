@@ -26,21 +26,21 @@ A sunk cost refers to money that has already been spent and which cannot be reco
 
 ## Understanding Sunk Costs
 
-When making business decisions, organizations only consider [relevant costs](https://www.investopedia.com/terms/r/relevantcost.asp), which include the future costs still needed to be incurred. The relevant costs are contrasted with the potential revenue of one choice compared to another. Because sunk costs do not change, they are not considered.
+When making business decisions, organizations only consider [[relevant costs]](https://www.investopedia.com/terms/r/relevantcost.asp), which include the future costs still needed to be incurred. The relevant costs are contrasted with the potential revenue of one choice compared to another. Because sunk costs do not change, they are not considered.
 
 To make an informed decision, a business only considers the costs and revenue that will change as a result of the decision at hand.
 
-For example, a manufacturing firm may have a number of sunk costs, such as the cost of machinery, equipment, and the [lease](https://www.investopedia.com/terms/l/lease.asp) expense on the factory. Sunk costs are excluded from a sell-or-process-further decision, which is a concept that applies to products that can be sold as they are or can be processed further.
+For example, a manufacturing firm may have a number of sunk costs, such as the cost of machinery, equipment, and the [[lease]](https://www.investopedia.com/terms/l/lease.asp) expense on the factory. Sunk costs are excluded from a sell-or-process-further decision, which is a concept that applies to products that can be sold as they are or can be processed further.
 
 ## Example of Sunk Costs
 
-Assume that XYZ Clothing makes baseball gloves. It pays $5,000 a month for its factory lease, and the machinery has been purchased outright for $25,000. The company produces a basic model of glove that costs $50 and sells for $70. The manufacturer can sell the basic model and earn $20 [profit](https://www.investopedia.com/terms/p/profit.asp) per unit. Alternatively, it can continue the production process by adding $15 in costs and sell a premium model glove for $90.
+Assume that XYZ Clothing makes baseball gloves. It pays $5,000 a month for its factory lease, and the machinery has been purchased outright for $25,000. The company produces a basic model of glove that costs $50 and sells for $70. The manufacturer can sell the basic model and earn $20 [[profit]](https://www.investopedia.com/terms/p/profit.asp) per unit. Alternatively, it can continue the production process by adding $15 in costs and sell a premium model glove for $90.
 
-To make this decision, the firm compares the $15 additional cost with the $20 added [revenue](https://www.investopedia.com/terms/r/revenue.asp) and decides to make the premium glove in order to earn $5 more in profit. The cost of the factory lease and machinery are both sunk costs and are not part of the decision-making process.
+To make this decision, the firm compares the $15 additional cost with the $20 added [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) and decides to make the premium glove in order to earn $5 more in profit. The cost of the factory lease and machinery are both sunk costs and are not part of the decision-making process.
 
 If a sunk cost can be eliminated at some point, it becomes a relevant cost and should be a part of business decisions about future events.
 
-If, for example, XYZ Clothing is considering shutting down a production facility, any of the sunk costs that have end dates should be included in the decision. To make the decision to close the facility, XYZ Clothing considers the revenue that would be lost if production ends and the costs that are also eliminated. If the factory lease ends in six months, the lease cost is no longer a sunk cost and should be included as an [expense](https://www.investopedia.com/terms/e/expense.asp) that can also be eliminated. If the total costs are more than revenue, the facility should be closed.
+If, for example, XYZ Clothing is considering shutting down a production facility, any of the sunk costs that have end dates should be included in the decision. To make the decision to close the facility, XYZ Clothing considers the revenue that would be lost if production ends and the costs that are also eliminated. If the factory lease ends in six months, the lease cost is no longer a sunk cost and should be included as an [[expense]](https://www.investopedia.com/terms/e/expense.asp) that can also be eliminated. If the total costs are more than revenue, the facility should be closed.
 
 ## Frequently Asked Questions
 

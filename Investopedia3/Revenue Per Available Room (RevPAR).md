@@ -16,7 +16,7 @@ author: James Chen
 Revenue Per Available Room (RevPAR)
 ## What is Revenue Per Available Room (RevPAR)?
 
-Revenue per available room (RevPAR) is a metric used in the hospitality industry to measure hotel performance. The measurement is calculated by multiplying a hotel's [average daily room rate](https://www.investopedia.com/terms/a/average-daily-rate.asp) (ADR) by its [occupancy rate](https://www.investopedia.com/terms/o/occupancy-rate.asp). RevPAR is also calculated by dividing a hotel's total room revenue by the total number of available rooms in the period being measured.
+Revenue per available room (RevPAR) is a metric used in the hospitality industry to measure hotel performance. The measurement is calculated by multiplying a hotel's [[average daily room rate]](https://www.investopedia.com/terms/a/average-daily-rate.asp) (ADR) by its [[occupancy rate]](https://www.investopedia.com/terms/o/occupancy-rate.asp). RevPAR is also calculated by dividing a hotel's total room revenue by the total number of available rooms in the period being measured.
 
 An increase in a property's RevPAR most likely indicates an improvement in occupancy rate.
 
@@ -45,4 +45,4 @@ The hotel manager can make key assessments and decisions regarding the hotel pro
 
 RevPAR fails to consider the size of a hotel. Therefore, RevPAR alone is not a good measure of overall performance. A hotel may have a lower RevPAR but still have more rooms that earn higher revenues.
 
-Additionally, growth in RevPAR does not mean that a hotel's profits are increasing. This is because RevPAR does not use any profitability measures or information on profits. Focusing solely on RevPAR, therefore, can lead to declines in both revenue and profitability. Many hotel managers prefer to use the [average daily rate](https://www.investopedia.com/terms/a/average-daily-rate.asp) as a performance measure since it is the main drivers of hotel occupancy. Therefore, with accurately priced rooms, the occupancy rate should increase, and a property's RevPAR should also naturally increase.
+Additionally, growth in RevPAR does not mean that a hotel's profits are increasing. This is because RevPAR does not use any profitability measures or information on profits. Focusing solely on RevPAR, therefore, can lead to declines in both revenue and profitability. Many hotel managers prefer to use the [[average daily rate]](https://www.investopedia.com/terms/a/average-daily-rate.asp) as a performance measure since it is the main drivers of hotel occupancy. Therefore, with accurately priced rooms, the occupancy rate should increase, and a property's RevPAR should also naturally increase.

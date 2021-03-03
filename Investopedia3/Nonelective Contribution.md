@@ -16,9 +16,9 @@ author: Julia Kagan
 Nonelective Contribution
 ## What Is a Nonelective Contribution?
 
-Nonelective contributions are funds employers choose to direct toward their eligible workers' [employer-sponsored retirement plans](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) regardless if employees make their own contributions. These contributions come directly from the employer and are not deducted from employees' salaries. 
+Nonelective contributions are funds employers choose to direct toward their eligible workers' [[employer-sponsored retirement plans]](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) regardless if employees make their own contributions. These contributions come directly from the employer and are not deducted from employees' salaries. 
 
-This distinction separates a nonelective contribution from a [matching contribution](https://www.investopedia.com/terms/m/matchingcontribution.asp), which an employer makes depending on how much money is deducted from an employee's salary and directed into their employer-sponsored retirement plan. 
+This distinction separates a nonelective contribution from a [[matching contribution]](https://www.investopedia.com/terms/m/matchingcontribution.asp), which an employer makes depending on how much money is deducted from an employee's salary and directed into their employer-sponsored retirement plan. 
 
 ### Key Takeaways
 
@@ -31,11 +31,11 @@ This distinction separates a nonelective contribution from a [matching contribu
 
 Nonelective contributions can vary. For example, a company can choose to contribute 3% of each employee's salary toward their employer-sponsored retirement plan. If an employee earns $50,000 per year, the employer would be contributing $1,500 per year.
 
-Employers are free to change the contribution rates as they see fit for their organizations. However, nonelective contributions can not exceed the annual [contribution limits](https://www.investopedia.com/retirement/401k-contribution-limits/) set by the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp). The total annual amount that can be contributed to a defined-contribution plan, such as a 401(k) in 2020 is $57,000, while in 2021, the limit is $58,000.1
+Employers are free to change the contribution rates as they see fit for their organizations. However, nonelective contributions can not exceed the annual [[contribution limits]](https://www.investopedia.com/retirement/401k-contribution-limits/) set by the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp). The total annual amount that can be contributed to a defined-contribution plan, such as a 401(k) in 2020 is $57,000, while in 2021, the limit is $58,000.1
 
 ## Advantages of Nonelective Contributions
 
-There are advantages to an employer by making nonelective contributions. Nonelective contributions are tax-deductible, and they can encourage more employees to participate in the company's retirement plan. The decision to offer fully-vested nonelective contributions can also provide retirement plans with [Safe Harbor](https://www.investopedia.com/terms/s/safeharbor.asp) protection, which exempts plans from government-mandated nondiscrimination testing.
+There are advantages to an employer by making nonelective contributions. Nonelective contributions are tax-deductible, and they can encourage more employees to participate in the company's retirement plan. The decision to offer fully-vested nonelective contributions can also provide retirement plans with [[Safe Harbor]](https://www.investopedia.com/terms/s/safeharbor.asp) protection, which exempts plans from government-mandated nondiscrimination testing.
 
 The IRS administers these tests to make sure plans are designed to benefit all employees instead of favoring highly-compensated ones. Making nonelective contributions can help employers meet this goal while also remaining compliant with government rules.
 
@@ -45,6 +45,6 @@ To be granted safe harbor by the IRS, employers' nonelective contributions must 
 
 Offering nonelective contributions could come with additional administrative costs, and it may not be feasible for all employers. Making nonelective contributions also means flowing money into default funds for employees who don't manually enroll in a plan and select a fund or make contributions. As fiduciary [plan sponsors](https://www.investopedia.com/terms/p/plansponsor.asp), employers would need to take due-diligence in selecting these funds.
 
-To make this simpler, the Pension Protection Act of 2006 outlined its [qualified default investment alternatives](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/default-investment-alternatives-under-participant-directed-individual-account-plans) (QDIAs) and how employers can enroll workers in these funds while gaining Safe Harbor protection. QDIAs are defined as target-date funds (TDFs) or lifecycle funds, balanced funds, and professionally managed accounts.
+To make this simpler, the Pension Protection Act of 2006 outlined its [[qualified default investment alternatives]](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/fact-sheets/default-investment-alternatives-under-participant-directed-individual-account-plans) (QDIAs) and how employers can enroll workers in these funds while gaining Safe Harbor protection. QDIAs are defined as target-date funds (TDFs) or lifecycle funds, balanced funds, and professionally managed accounts.
 
 However, a TDF should not be viewed as a definitive option that would meet the needs of all employees. Employers still need to take a thorough look at their workforce to determine appropriate plan menu funds and QDIAs to remain compliant with government regulations and to help employees secure a comfortable retirement.

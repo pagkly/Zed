@@ -16,9 +16,9 @@ author: Adam Hayes
 Quick Response (QR) Code Definition
 ## What Is a Quick Response (QR) Code?
 
-A quick response (QR) code is a type of [barcode](https://www.investopedia.com/terms/b/barcode.asp) that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid. QR codes are frequently used to track information about products in a [supply chain](https://www.investopedia.com/terms/s/supplychain.asp) and often used in marketing and advertising campaigns.
+A quick response (QR) code is a type of [[barcode]](https://www.investopedia.com/terms/b/barcode.asp) that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid. QR codes are frequently used to track information about products in a [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp) and often used in marketing and advertising campaigns.
 
-QR codes are considered an advancement from older, uni-dimensional barcodes, and were approved as an international standard in 2000 by the [International Organization for Standardization](https://www.investopedia.com/terms/i/international-organization-for-standardization-iso.asp) (ISO).1
+QR codes are considered an advancement from older, uni-dimensional barcodes, and were approved as an international standard in 2000 by the [[International Organization for Standardization]](https://www.investopedia.com/terms/i/international-organization-for-standardization-iso.asp) (ISO).1
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ QR codes are considered an advancement from older, uni-dimensional barcodes, a
 
 ## Understanding Quick Response (QR) Codes
 
-QR codes were developed in the 1990s as a way to provide more information than a standard barcode. They were invented by Denso Wave, a [subsidiary](https://www.investopedia.com/terms/s/subsidiary.asp) of Toyota, as a way to track automobiles throughout the manufacturing process.2 Unlike barcodes, which require a beam of light to bounce off of the parallel lines, QR codes can be digitally scanned by devices such as mobile phones.
+QR codes were developed in the 1990s as a way to provide more information than a standard barcode. They were invented by Denso Wave, a [[subsidiary]](https://www.investopedia.com/terms/s/subsidiary.asp) of Toyota, as a way to track automobiles throughout the manufacturing process.2 Unlike barcodes, which require a beam of light to bounce off of the parallel lines, QR codes can be digitally scanned by devices such as mobile phones.
 
 QR codes consist of black squares arranged in a grid (matrix) on a white background and are read by specialized software that is able to extract data from the patterns that are present in the matrix. These codes are capable of containing more information than traditional barcodes, and primarily handle four modes of data: alphanumeric, numeric, binary, and Kanji.
 
-Despite the increased data capacity, QR codes have not been as popular with consumers as expected. Rather than being created by consumers to share information, they are most commonly associated with advertisers and [marketing campaigns](https://www.investopedia.com/terms/m/marketing-campaign.asp).
+Despite the increased data capacity, QR codes have not been as popular with consumers as expected. Rather than being created by consumers to share information, they are most commonly associated with advertisers and [[marketing campaigns]](https://www.investopedia.com/terms/m/marketing-campaign.asp).
 
-QR codes have become more widespread in facilitating digital payments and in [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) systems such as displaying one's [Bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) address. QR codes are also increasingly used to transmit web addresses to mobile phones. For instance, the QR code shown below encodes the URL for this very entry on Investopedia. Use your phone to give it a try.
+QR codes have become more widespread in facilitating digital payments and in [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) systems such as displaying one's [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) address. QR codes are also increasingly used to transmit web addresses to mobile phones. For instance, the QR code shown below encodes the URL for this very entry on Investopedia. Use your phone to give it a try.
 
 QR code encoding this web page's URL.  Investopedia
 
@@ -44,7 +44,7 @@ The amount of information that can be conveyed about a product or service was tr
 
 Barcodes are commonly found on the back of product packages and convey data using a combination of various widths of parallel lines, which can be read by machines that have an optical scanner.
 
-The barcode revolutionized the way that companies managed [inventories](https://www.investopedia.com/terms/i/inventory.asp) and pricing and was first put to practical use in the 1960s by U.S. railroads to track equipment and containers. Traditional, two-dimensional barcodes came into common use in U.S. retail stores in 1974.3 Barcodes are now found on everything from employee ID badges and hospital bracelets to shipping containers.
+The barcode revolutionized the way that companies managed [[inventories]](https://www.investopedia.com/terms/i/inventory.asp) and pricing and was first put to practical use in the 1960s by U.S. railroads to track equipment and containers. Traditional, two-dimensional barcodes came into common use in U.S. retail stores in 1974.3 Barcodes are now found on everything from employee ID badges and hospital bracelets to shipping containers.
 
 ## Types of Quick Response (QR) Codes
 

@@ -16,7 +16,7 @@ author: James Chen
 Nasdaq Composite Index
 ## What Is the Nasdaq Composite Index?
 
-The Nasdaq Composite Index is the market capitalization-weighted index of over 2,500 common equities listed on the Nasdaq stock exchange. The types of securities in the index include [American depositary receipts](https://www.investopedia.com/terms/a/adr.asp), common stocks, [real estate investment trusts](https://www.investopedia.com/terms/r/reit.asp) (REITs) and [tracking stocks](https://www.investopedia.com/terms/t/trackingstocks.asp), as well as limited partnership interests. The index includes all Nasdaq-listed stocks that are not derivatives, preferred shares, funds, [exchange-traded funds](https://www.investopedia.com/video/play/understanding-etfs/) (ETFs) or [debenture](https://www.investopedia.com/terms/d/debenture.asp) securities.
+The Nasdaq Composite Index is the market capitalization-weighted index of over 2,500 common equities listed on the Nasdaq stock exchange. The types of securities in the index include [[American depositary receipts]](https://www.investopedia.com/terms/a/adr.asp), common stocks, [[real estate investment trusts]](https://www.investopedia.com/terms/r/reit.asp) (REITs) and [[tracking stocks]](https://www.investopedia.com/terms/t/trackingstocks.asp), as well as limited partnership interests. The index includes all Nasdaq-listed stocks that are not derivatives, preferred shares, funds, [[exchange-traded funds]](https://www.investopedia.com/video/play/understanding-etfs/) (ETFs) or [[debenture]](https://www.investopedia.com/terms/d/debenture.asp) securities.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The Nasdaq Composite Index uses a market capitalization weighting methodology. T
 
 Two versions of the Nasdaq Composite Index are calculated: a price return index and a total return index. The total return index includes the reinvestment of cash dividends on their respective dividend ex-dates. Both versions of the index include non-dividend cash distributions. On the market close of Sept. 24, 2003, both versions of the index were synchronized.
 
-Changes in price due to corporate actions such as [stock splits](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)[, stock dividends or spinoffs](https://www.investopedia.com/terms/a/arr.asp) are made on the action's ex-date. Changes in total shares outstanding due to items such as conversions, [stock repurchases](https://www.investopedia.com/terms/c/capitalbudgeting.asp), secondary offerings or acquisitions are usually made on the night before the action's effective date.
+Changes in price due to corporate actions such as [[stock splits]](https://www.investopedia.com/ask/answers/what-stock-split-why-do-stocks-split/)[, stock dividends or spinoffs](https://www.investopedia.com/terms/a/arr.asp) are made on the action's ex-date. Changes in total shares outstanding due to items such as conversions, [[stock repurchases]](https://www.investopedia.com/terms/c/capitalbudgeting.asp), secondary offerings or acquisitions are usually made on the night before the action's effective date.
 
 Eligibility requirements for the index are reviewed throughout the year. A security that does not meet the eligibility requirements can be removed at any time, usually at its last sale price.
 

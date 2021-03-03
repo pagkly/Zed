@@ -16,7 +16,7 @@ author: Chris B. Murphy
 A Review of Pink Sheet Stocks and How Investors Can Trade Them
 ## What Are Pink Sheets?
 
-Pink sheets are listings for stocks that trade [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) (OTC) rather than on a major U.S. stock exchange. Many pink sheet listings are for stocks in companies that cannot meet the requirements for listing on a major U.S. stock exchange like the New York Stock Exchange (NYSE). Some companies choose to sell their shares through the over-the-counter network to avoid the greater costs and regulatory requirements for listing on an exchange.
+Pink sheets are listings for stocks that trade [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) (OTC) rather than on a major U.S. stock exchange. Many pink sheet listings are for stocks in companies that cannot meet the requirements for listing on a major U.S. stock exchange like the New York Stock Exchange (NYSE). Some companies choose to sell their shares through the over-the-counter network to avoid the greater costs and regulatory requirements for listing on an exchange.
 
 Most pink sheet listings are low-priced penny stocks, meaning that they trade for less than $5 per share. Pink Sheets is also a private company that works with broker-dealers to market the shares of OTC equities they represent.
 
@@ -37,7 +37,7 @@ Over-the-counter (OTC) refers to the process of trading for the securities of un
 
 Pink sheets are OTC but they are not OTCBB. That is:
 
--   The [Over-the-Counter Bulletin Board](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) is an electronic system that displays over-the-counter securities with real-time quotes and volume information. Shares listed on the OTCBB carry an "OB" suffix and must file financial statements with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC).1
+-   The [Over-the-Counter Bulletin Board](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) is an electronic system that displays over-the-counter securities with real-time quotes and volume information. Shares listed on the OTCBB carry an "OB" suffix and must file financial statements with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC).1
 -   Shares trading on the pink sheet platform have a "PK" suffix and are under no requirements from the SEC to file financial information. For this reason, they are seen as high-risk investments.
 
 ## OTCBB vs. the Pink Sheets
@@ -62,7 +62,7 @@ A penny stock refers to a small company's stock that trades for less than five d
 
 ### Pink Sheets and Penny Stocks
 
-Pink sheet listings usually consist of even smaller-company stocks called penny stocks. These companies do not need to file the required documentation with the SEC.6 To list on the Pink Sheets a business must file [Form 211](https://www.investopedia.com/terms/f/form-211.asp), which includes some financial information, with the OTC Compliance Unit.
+Pink sheet listings usually consist of even smaller-company stocks called penny stocks. These companies do not need to file the required documentation with the SEC.6 To list on the Pink Sheets a business must file [[Form 211]](https://www.investopedia.com/terms/f/form-211.asp), which includes some financial information, with the OTC Compliance Unit.
 
 Companies are not obligated to make their financial situations transparent to investors or the broker-dealers who market their products.7
 
@@ -86,7 +86,7 @@ Pink sheet listings offer small companies a chance to raise capital through the 
 
 Because they do not charge the high listing fees of the large exchanges, pink sheet transaction costs are usually lower.
 
-Pink sheets are prone to fraud and price manipulation due to the lack of financial information required to list. A listing could end up being a [shell company](https://www.investopedia.com/terms/s/shellcorporation.asp) without an active business or assets.
+Pink sheets are prone to fraud and price manipulation due to the lack of financial information required to list. A listing could end up being a [[shell company]](https://www.investopedia.com/terms/s/shellcorporation.asp) without an active business or assets.
 
 The shares trade thinly and infrequently, making it hard to buy or sell when the investor wants. Less regulation leads to less available public information.
 

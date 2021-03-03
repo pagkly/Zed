@@ -16,9 +16,9 @@ author: James Chen
 Gilt-Edged Securities
 ## What Are Gilt-Edged Securities?
 
-Gilt-edged securities are high-grade bonds issued by certain national governments and private organizations. In the past, these instruments referred to the certificates issued by the [Bank of England](https://www.investopedia.com/terms/b/boe.asp) (BOE) on behalf of the Majesty's Treasury, so named because the paper they were printed on customarily featured gilded edges.
+Gilt-edged securities are high-grade bonds issued by certain national governments and private organizations. In the past, these instruments referred to the certificates issued by the [[Bank of England]](https://www.investopedia.com/terms/b/boe.asp) (BOE) on behalf of the Majesty's Treasury, so named because the paper they were printed on customarily featured gilded edges.
 
-By nature, a gilt edge denotes a high-quality item whose value remains fairly constant over time. As an investment vehicle, this equates to high-grade securities with relatively low yields compared to riskier, below-investment-grade securities. For that reason, gilt-edge securities were once solely issued by [blue-chip companies](https://www.investopedia.com/terms/b/bluechip.asp) and national governments with proven track records of turning profits. Aside from conventional gilts, the British government issues index-linked gilts that offer semi-annual coupon payments adjusted for inflation. 
+By nature, a gilt edge denotes a high-quality item whose value remains fairly constant over time. As an investment vehicle, this equates to high-grade securities with relatively low yields compared to riskier, below-investment-grade securities. For that reason, gilt-edge securities were once solely issued by [[blue-chip companies]](https://www.investopedia.com/terms/b/bluechip.asp) and national governments with proven track records of turning profits. Aside from conventional gilts, the British government issues index-linked gilts that offer semi-annual coupon payments adjusted for inflation. 
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ By nature, a gilt edge denotes a high-quality item whose value remains fairly c
 
 ## Understanding Gilt-Edged Securities
 
-[Gilt-edged securities are high-grade investment bonds](https://www.investopedia.com/terms/g/giltedgedbond.asp) offered by governments and large corporations as a method of borrowing funds. The issuing institutions typically boast strong track records of consistent earnings that can cover dividend or interest payments. In many ways, these are the next safest bonds to [US Treasury securities](https://www.investopedia.com/articles/investing/073113/introduction-treasury-securities.asp).
+[Gilt-edged securities are high-grade investment bonds](https://www.investopedia.com/terms/g/giltedgedbond.asp) offered by governments and large corporations as a method of borrowing funds. The issuing institutions typically boast strong track records of consistent earnings that can cover dividend or interest payments. In many ways, these are the next safest bonds to [[US Treasury securities]](https://www.investopedia.com/articles/investing/073113/introduction-treasury-securities.asp).
 
 The United Kingdom and other Commonwealth nations still rely on these securities, in much the same way the United States uses Treasury bonds to raise revenue. A conventional gilt issued by the United Kingdom government pays the holder a fixed cash payment biannually until maturity, at which point the principal is returned in full. The coupon payment reflects the market interest rate at the time of issuance and indicates the cash payment that the holder will receive each year.
 
@@ -40,6 +40,6 @@ Nearly two-thirds of all UK gilts are held by pension funds and insurance compan
 
 ## Limitations of Gilt-Edged Securities
 
-Although gilt-edged securities are offered by reliable government bodies and large corporations, they present certain drawbacks. Primarily, the [bonds](https://www.investopedia.com/terms/b/bond.asp) tend to fluctuate with interest rates, where rate hikes will cause the price of a gilt to decline, and vice versa. With global economic conditions improving, rates are poised to bounce off near-zero levels, which means gilt funds are likely to experience a tumultuous ride. For this reason, investors looking to generate substantial returns may source better value in index funds.
+Although gilt-edged securities are offered by reliable government bodies and large corporations, they present certain drawbacks. Primarily, the [[bonds]](https://www.investopedia.com/terms/b/bond.asp) tend to fluctuate with interest rates, where rate hikes will cause the price of a gilt to decline, and vice versa. With global economic conditions improving, rates are poised to bounce off near-zero levels, which means gilt funds are likely to experience a tumultuous ride. For this reason, investors looking to generate substantial returns may source better value in index funds.
 
 The greatest advantage of gilt-edge securities is the fact that these instruments are typically tied to interest rates. Consequently, they are ideal investments for retirees seeking reliable returns with minimal risk.

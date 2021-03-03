@@ -16,7 +16,7 @@ author: Adam Barone
 Learn About Conditional Probability
 ## What Is Conditional Probability?
 
-Conditional probability is defined as the likelihood of an event or outcome occurring, based on the occurrence of a previous event or outcome. Conditional probability is calculated by multiplying the [probability](https://www.investopedia.com/terms/c/compound-probability.asp) of the preceding event by the updated probability of the succeeding, or conditional, event.
+Conditional probability is defined as the likelihood of an event or outcome occurring, based on the occurrence of a previous event or outcome. Conditional probability is calculated by multiplying the [[probability]](https://www.investopedia.com/terms/c/compound-probability.asp) of the preceding event by the updated probability of the succeeding, or conditional, event.
 
 For example:
 
@@ -26,7 +26,7 @@ For example:
 
 A conditional probability would look at these two events in relationship with one another, such as the probability that you are both accepted to college, _and_ you are provided with dormitory housing.
 
-Conditional probability can be contrasted with [unconditional probability](https://www.investopedia.com/terms/u/unconditional_probability.asp). Unconditional probability refers to the likelihood that an event will take place irrespective of whether any other events have taken place or any other conditions are present.
+Conditional probability can be contrasted with [[unconditional probability]](https://www.investopedia.com/terms/u/unconditional_probability.asp). Unconditional probability refers to the likelihood that an event will take place irrespective of whether any other events have taken place or any other conditions are present.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Conditional probability can be contrasted with [unconditional probability](https
 
 ## Understanding Conditional Probability
 
-As previously stated, conditional probabilities are contingent on a [previous result](https://www.investopedia.com/terms/p/prior_probability.asp). It also makes a number of assumptions. For example, suppose you are drawing three marbles—red, blue, and green—from a bag. Each marble has an equal chance of being drawn. What is the conditional probability of drawing the red marble after already drawing the blue one?
+As previously stated, conditional probabilities are contingent on a [[previous result]](https://www.investopedia.com/terms/p/prior_probability.asp). It also makes a number of assumptions. For example, suppose you are drawing three marbles—red, blue, and green—from a bag. Each marble has an equal chance of being drawn. What is the conditional probability of drawing the red marble after already drawing the blue one?
 
 First, the probability of drawing a blue marble is about 33% because it is one possible outcome out of three. Assuming this first event occurs, there will be two marbles remaining, with each having a 50% chance of being drawn. So the chance of drawing a blue marble after already drawing a red marble would be about 16.5% (33% x 50%).
 
@@ -54,7 +54,7 @@ _Or:_
 
 ## Another Example of Conditional Probability
 
-As another example, suppose a student is applying for admission to a university and hopes to receive an academic scholarship. The school to which they are applying accepts 100 of every 1,000 applicants (10%) and awards academic scholarships to 10 of every 500 students who are accepted (2%). Of the scholarship recipients, 50% of them also receive university stipends for books, meals, and housing. For our ambitious student, the chance of them being accepted then receiving a scholarship is .2% (.1 x .02). The chance of them being accepted, receiving the scholarship, then also receiving a stipend for books, etc. is .1% (.1 x .02 x .5). (You can also check out [Bayes' Theorem](https://www.investopedia.com/terms/b/bayes-theorem.asp).)
+As another example, suppose a student is applying for admission to a university and hopes to receive an academic scholarship. The school to which they are applying accepts 100 of every 1,000 applicants (10%) and awards academic scholarships to 10 of every 500 students who are accepted (2%). Of the scholarship recipients, 50% of them also receive university stipends for books, meals, and housing. For our ambitious student, the chance of them being accepted then receiving a scholarship is .2% (.1 x .02). The chance of them being accepted, receiving the scholarship, then also receiving a stipend for books, etc. is .1% (.1 x .02 x .5). (You can also check out [[Bayes' Theorem]](https://www.investopedia.com/terms/b/bayes-theorem.asp).)
 
 ## Conditional Probability vs. Joint Probability and Marginal Probability
 
@@ -66,6 +66,6 @@ As another example, suppose a student is applying for admission to a university 
 
 ## Bayes' Theorem
 
-[Bayes' theorem](https://www.investopedia.com/terms/b/bayes-theorem.asp), named after 18th-century British mathematician Thomas Bayes, is a mathematical formula for determining conditional probability. The theorem provides a way to revise existing predictions or theories (update probabilities) given new or additional evidence. In finance, Bayes' theorem can be used to rate the [risk](https://www.investopedia.com/terms/r/risk.asp) of lending money to potential borrowers.
+[Bayes' theorem](https://www.investopedia.com/terms/b/bayes-theorem.asp), named after 18th-century British mathematician Thomas Bayes, is a mathematical formula for determining conditional probability. The theorem provides a way to revise existing predictions or theories (update probabilities) given new or additional evidence. In finance, Bayes' theorem can be used to rate the [[risk]](https://www.investopedia.com/terms/r/risk.asp) of lending money to potential borrowers.
 
 Bayes' theorem is also called Bayes' Rule or Bayes' Law and is the foundation of the field of Bayesian statistics. This set of rules of probability allows one to update their predictions of events occurring based on new information that has been received, making for better and more dynamic estimates.

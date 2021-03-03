@@ -16,7 +16,7 @@ author: James Chen
 Uncommitted Facility
 ## What Is an Uncommitted Facility?
 
-An uncommitted facility is an agreement between a lender and a borrower where the lender agrees to make short-term funding available to the borrower. This is unlike a [committed facility](https://www.investopedia.com/terms/c/committedfacility.asp) that involves clearly defined terms and conditions set forth by the lending institution and imposed on the borrower. Uncommitted facilities are used to finance seasonal or temporary needs of businesses with fluctuating revenues, such as paying creditors to earn trade discounts, single or one-off transactions, and meeting payroll obligations.
+An uncommitted facility is an agreement between a lender and a borrower where the lender agrees to make short-term funding available to the borrower. This is unlike a [[committed facility]](https://www.investopedia.com/terms/c/committedfacility.asp) that involves clearly defined terms and conditions set forth by the lending institution and imposed on the borrower. Uncommitted facilities are used to finance seasonal or temporary needs of businesses with fluctuating revenues, such as paying creditors to earn trade discounts, single or one-off transactions, and meeting payroll obligations.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ An uncommitted facility is an agreement between a lender and a borrower where th
 
 Because small businesses may struggle to have adequate monthly cash flow, an uncommitted facility may help them operate until they establish a stronger presence in the marketplace and increase their annual revenues.
 
-Uncommitted facilities are generally less costly to arrange, compared to committed facilities, because the lender has no obligation to extend the loan; when [financing](https://www.investopedia.com/terms/f/financing.asp) is made available, it is short term, and the credit risk is comparatively small.
+Uncommitted facilities are generally less costly to arrange, compared to committed facilities, because the lender has no obligation to extend the loan; when [[financing]](https://www.investopedia.com/terms/f/financing.asp) is made available, it is short term, and the credit risk is comparatively small.
 
 ## Uncommitted Facility vs. Committed Facility
 
@@ -39,6 +39,6 @@ A term loan for equipment, real estate or working capital is paid off within one
 
 ## Example of an Uncommitted Facility
 
-An overdraft, or [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) facility, solve companies’ short-term cash flow issues. The bank or other financial institution decides whether to lend money and the limit. Because an overdraft is typically payable on demand, it is unsuitable for purposes such as funding a major acquisition. The lender typically does not call in the overdraft unless the borrower’s financial position or activities give the lender reasons for concern.
+An overdraft, or [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) facility, solve companies’ short-term cash flow issues. The bank or other financial institution decides whether to lend money and the limit. Because an overdraft is typically payable on demand, it is unsuitable for purposes such as funding a major acquisition. The lender typically does not call in the overdraft unless the borrower’s financial position or activities give the lender reasons for concern.
 
-Receiving an [overdraft](https://www.investopedia.com/terms/o/overdraft.asp) is typically a simple process. However, there is always uncertainty about whether the bank will lend to a specific business and when the lender will demand repayment. Plus, a limited amount of capital may be borrowed, and lender charges may be high. Also, the borrower typically has little room for amending the lender’s standard form for issuing an overdraft. In addition, the borrower may have to reduce the overdraft to a set amount for a particular number of days to ensure it is used only for short-term cash flow issues.
+Receiving an [[overdraft]](https://www.investopedia.com/terms/o/overdraft.asp) is typically a simple process. However, there is always uncertainty about whether the bank will lend to a specific business and when the lender will demand repayment. Plus, a limited amount of capital may be borrowed, and lender charges may be high. Also, the borrower typically has little room for amending the lender’s standard form for issuing an overdraft. In addition, the borrower may have to reduce the overdraft to a set amount for a particular number of days to ensure it is used only for short-term cash flow issues.

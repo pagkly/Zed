@@ -34,19 +34,19 @@ A drawdown remains in effect as long as the price remains below the peak. In the
 
 This method of recording drawdowns is useful because a trough can't be measured until a new peak occurs. As long as the price or value remains below the old peak, a lower trough could occur, which would increase the drawdown amount.
 
-Drawdowns help determine an investment's financial risk. The [Sterling ratios](https://www.investopedia.com/terms/g/gbp.asp) use drawdowns to compare a security's possible reward to its risk.
+Drawdowns help determine an investment's financial risk. The [[Sterling ratios]](https://www.investopedia.com/terms/g/gbp.asp) use drawdowns to compare a security's possible reward to its risk.
 
-A drawdown is the negative half of the [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) in relation to a stock’s price. A drawdown from a share price’s high to its low is considered its drawdown amount. If a stock drops from $100 to $50 and then rallies back to $100.01 or above, then the drawdown was $50 or 50% from the peak.
+A drawdown is the negative half of the [[standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp) in relation to a stock’s price. A drawdown from a share price’s high to its low is considered its drawdown amount. If a stock drops from $100 to $50 and then rallies back to $100.01 or above, then the drawdown was $50 or 50% from the peak.
 
 ## Stock Drawdowns
 
-A stock’s total volatility is measured by its standard deviation, yet many investors, especially retirees who are withdrawing funds from pensions and retirement accounts, are mostly concerned about drawdowns. Volatile markets and large drawdowns can be problematic for retirees. Many look at the drawdown of their investments, from stocks to mutual funds, and consider their [maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp) (MDD) so they can potentially avoid those investments with the biggest historical drawdowns.
+A stock’s total volatility is measured by its standard deviation, yet many investors, especially retirees who are withdrawing funds from pensions and retirement accounts, are mostly concerned about drawdowns. Volatile markets and large drawdowns can be problematic for retirees. Many look at the drawdown of their investments, from stocks to mutual funds, and consider their [[maximum drawdown]](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp) (MDD) so they can potentially avoid those investments with the biggest historical drawdowns.
 
 Drawdowns are of particular concern to those in retirement. In many cases, a drastic drawdown, coupled with continued withdrawals in retirement can deplete retirement funds considerably.
 
 ## Drawdown Risk
 
-Drawdowns present a significant risk to investors when considering the [uptick](https://www.investopedia.com/terms/u/uptick.asp) in share price needed to overcome a drawdown. For example, it may not seem like much if a stock loses 1%, as it only needs an increase of 1.01% to recover to its previous peak. However, a drawdown of 20% requires a 25% return to reach the old peak. A 50% drawdown, seen during the 2008 to 2009 [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp), requires a whopping 100% increase to recover the former peak.
+Drawdowns present a significant risk to investors when considering the [[uptick]](https://www.investopedia.com/terms/u/uptick.asp) in share price needed to overcome a drawdown. For example, it may not seem like much if a stock loses 1%, as it only needs an increase of 1.01% to recover to its previous peak. However, a drawdown of 20% requires a 25% return to reach the old peak. A 50% drawdown, seen during the 2008 to 2009 [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp), requires a whopping 100% increase to recover the former peak.
 
 Some investors choose to avoid drawdowns of greater than 20% before cutting their losses and turning the position into cash instead.
 
@@ -54,9 +54,9 @@ The uptick in share price needed to overcome a particularly large drawdown can b
 
 ## Drawdown Assessments
 
-Typically, drawdown risk is mitigated by having a well-diversified portfolio and knowing the length of the recovery window. If a person is early in her career or has more than 10 years until retirement, the drawdown limit of 20% that most [financial advisors](https://www.investopedia.com/terms/f/financial-advisor.asp) advocate should be sufficient to shelter the portfolio for a recovery. However, retirees need to be especially careful about drawdown risks in their portfolios, since they may not have a lot of years for the portfolio to recover before they start withdrawing funds.
+Typically, drawdown risk is mitigated by having a well-diversified portfolio and knowing the length of the recovery window. If a person is early in her career or has more than 10 years until retirement, the drawdown limit of 20% that most [[financial advisors]](https://www.investopedia.com/terms/f/financial-advisor.asp) advocate should be sufficient to shelter the portfolio for a recovery. However, retirees need to be especially careful about drawdown risks in their portfolios, since they may not have a lot of years for the portfolio to recover before they start withdrawing funds.
 
-Diversifying a portfolio across stocks, bonds, precious metals, commodities, and cash instruments can offer some protection against a drawdown, as market conditions affect different [asset classes](https://www.investopedia.com/terms/a/assetclasses.asp) in different ways.
+Diversifying a portfolio across stocks, bonds, precious metals, commodities, and cash instruments can offer some protection against a drawdown, as market conditions affect different [[asset classes]](https://www.investopedia.com/terms/a/assetclasses.asp) in different ways.
 
 Stock price drawdowns or market drawdowns should not be confused with a retirement drawdown, which refers to how retirees withdraw funds from their pension or retirement accounts.
 
@@ -72,7 +72,7 @@ Assume a trader decides to buy Apple stock at $100. The price rises to $110 (pea
 
 Drawdowns measure peak to trough. The peak price for the stock was $110, and the trough was $80. The Drawdown is $30 / $110 = 27.3%.
 
-This shows that [a drawdown isn't necessarily the same as a loss](https://www.investopedia.com/ask/answers/040215/what-difference-between-drawdown-and-disbursement.asp). The stock's drawdown was 27.3%, yet the trader would be showing an [unrealized loss](https://www.investopedia.com/terms/u/unrealizedloss.asp) of 20% when the stock was at $80. This is because most traders view losses in terms of their purchase price ($100 in this case), and not the peak price the investment reached after entry.
+This shows that [[a drawdown isn't necessarily the same as a loss]](https://www.investopedia.com/ask/answers/040215/what-difference-between-drawdown-and-disbursement.asp). The stock's drawdown was 27.3%, yet the trader would be showing an [[unrealized loss]](https://www.investopedia.com/terms/u/unrealizedloss.asp) of 20% when the stock was at $80. This is because most traders view losses in terms of their purchase price ($100 in this case), and not the peak price the investment reached after entry.
 
 Continuing with the example, the price then rallies to $120 (peak) and then falls back to $105 before rallying to $125.
 

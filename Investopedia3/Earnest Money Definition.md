@@ -16,11 +16,11 @@ author: James Chen
 Earnest Money Definition
 ## What Is Earnest Money?
 
-Earnest money is a deposit made to a seller that represents a buyer's good faith to buy a home. The money gives the buyer extra time to get financing and conduct the title search, property appraisal, and inspections before closing. In many ways, earnest money can be considered a deposit on a home, an escrow deposit, or [good faith money](https://www.investopedia.com/terms/g/goodfaithmoney.asp).
+Earnest money is a deposit made to a seller that represents a buyer's good faith to buy a home. The money gives the buyer extra time to get financing and conduct the title search, property appraisal, and inspections before closing. In many ways, earnest money can be considered a deposit on a home, an escrow deposit, or [[good faith money]](https://www.investopedia.com/terms/g/goodfaithmoney.asp).
 
 ## Understanding Earnest Money
 
-In most cases, earnest money is delivered when the sales contract or purchase agreement is signed, but it can also be attached to the offer. Once deposited, the funds are typically held in an [escrow](https://www.investopedia.com/terms/e/escrow.asp) account until closing, at which time the deposit is applied to the buyer's down payment and closing costs.
+In most cases, earnest money is delivered when the sales contract or purchase agreement is signed, but it can also be attached to the offer. Once deposited, the funds are typically held in an [[escrow]](https://www.investopedia.com/terms/e/escrow.asp) account until closing, at which time the deposit is applied to the buyer's down payment and closing costs.
 
 ### Key Takeaways
 

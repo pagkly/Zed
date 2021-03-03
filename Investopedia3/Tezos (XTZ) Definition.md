@@ -16,9 +16,9 @@ author: Jake Frankenfield
 Tezos (XTZ) Definition
 ## What Is Tezos?
 
-Tezos (XTZ) is a blockchain network linked to a digital token, which is called a tez or a tezzie. Tezos is not based on the [mining](https://www.investopedia.com/terms/m/mining.asp) of tez. Instead, token holders receive a reward for taking part in the [proof-of-stake](https://www.investopedia.com/terms/p/proof-stake-pos.asp) consensus mechanism.
+Tezos (XTZ) is a blockchain network linked to a digital token, which is called a tez or a tezzie. Tezos is not based on the [[mining]](https://www.investopedia.com/terms/m/mining.asp) of tez. Instead, token holders receive a reward for taking part in the [[proof-of-stake]](https://www.investopedia.com/terms/p/proof-stake-pos.asp) consensus mechanism.
 
-After a promising start and a highly successful Initial Coin Offering ([ICO](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)), Tezos was troubled by numerous delays and legal issues. However, Tezos survived the cryptocurrency [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), in part because of its unique proof-of-stake mechanism. The price of tez more than tripled between October 2019 and February 2020 and reached record highs. As of February 2020, Tezos was attracting attention again.
+After a promising start and a highly successful Initial Coin Offering ([ICO](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)), Tezos was troubled by numerous delays and legal issues. However, Tezos survived the cryptocurrency [[bear market]](https://www.investopedia.com/terms/b/bearmarket.asp), in part because of its unique proof-of-stake mechanism. The price of tez more than tripled between October 2019 and February 2020 and reached record highs. As of February 2020, Tezos was attracting attention again.
 
 ### KEY TAKEAWAYS
 
@@ -29,7 +29,7 @@ After a promising start and a highly successful Initial Coin Offering ([ICO](htt
 
 ## Understanding Tezos
 
-Like Bitcoin and [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp), Tezos is a [decentralized ledger](https://www.investopedia.com/terms/d/distributed-ledgers.asp) that makes use of blockchain technology. Like Ethereum, Tezos is designed to make use of [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp). The term “Tezos” is ancient Greek for “smart-contract,” according to the developers.
+Like Bitcoin and [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp), Tezos is a [[decentralized ledger]](https://www.investopedia.com/terms/d/distributed-ledgers.asp) that makes use of blockchain technology. Like Ethereum, Tezos is designed to make use of [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp). The term “Tezos” is ancient Greek for “smart-contract,” according to the developers.
 
 However, Tezos goes beyond previous offerings. It takes the smart contract concept “one step further by letting participants directly control the rules of the network.”
 
@@ -63,4 +63,4 @@ The outlook for Tezos improved in early 2020, but the prices of cryptocurrencies
 
 The future of Tezos was once again looking bright in February 2020. While the rapid rise in the price of tez suggests caution in the short-term, record highs resolve some problems. In particular, all those who want their money back could simply sell their tez on the market for a profit.
 
-More importantly, Tezos proved its staying power by surviving the bear market and reaching new highs. As cryptocurrency skeptic [Warren Buffett](https://www.investopedia.com/articles/01/071801.asp) once put it, “Only when the tide goes out do you discover who's been swimming naked.” It seems that Tezos is better suited to the future than many believed. However, the ultimate fate of Tezos will depend on the value of its technological innovations and its ability to gain support.
+More importantly, Tezos proved its staying power by surviving the bear market and reaching new highs. As cryptocurrency skeptic [[Warren Buffett]](https://www.investopedia.com/articles/01/071801.asp) once put it, “Only when the tide goes out do you discover who's been swimming naked.” It seems that Tezos is better suited to the future than many believed. However, the ultimate fate of Tezos will depend on the value of its technological innovations and its ability to gain support.

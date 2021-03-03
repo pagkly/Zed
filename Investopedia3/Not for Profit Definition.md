@@ -16,7 +16,7 @@ author: Will Kenton
 Not for Profit Definition
 ## What Does Not for Profit Mean?
 
-Not-for-profit organizations are types of organizations that do not earn profits for its owners. All of the money earned by or donated to a not-for-profit organization is used in pursuing the organization's objectives and keeping it running.1 Typically, organizations in the nonprofit sector are [tax-exempt](https://www.investopedia.com/terms/t/tax_exempt.asp) charities or other types of public service organizations, and as such, they are not required to pay most taxes. In a nonprofit organization, income is not distributed to the group's members, directors, or officers. There are also nonprofit corporations known as non-stock corporations. Some well-known nonprofit organizations include the American Red Cross, United Way, and the Salvation Army.
+Not-for-profit organizations are types of organizations that do not earn profits for its owners. All of the money earned by or donated to a not-for-profit organization is used in pursuing the organization's objectives and keeping it running.1 Typically, organizations in the nonprofit sector are [[tax-exempt]](https://www.investopedia.com/terms/t/tax_exempt.asp) charities or other types of public service organizations, and as such, they are not required to pay most taxes. In a nonprofit organization, income is not distributed to the group's members, directors, or officers. There are also nonprofit corporations known as non-stock corporations. Some well-known nonprofit organizations include the American Red Cross, United Way, and the Salvation Army.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ To achieve tax-exempt status, the organization needs to request [501(c)(3)](http
 
 Aside from the distinguishing feature that a not-for-profit organization does not distribute profits to its owners, many nonprofits have much in common with for-profit organizations. While some not-for-profit organizations use only volunteer labor, for example, many large or even medium-sized nonprofits are likely to require a staff of paid full-time employees, managers, and directors. Indeed, since not-for-profit enterprises wish to accomplish their objectives in the same way as for-profit enterprises, business tactics and management techniques honed in the for-profit world often work well in not-for-profit organizations too.
 
-Finally, while [for-profit businesses](https://www.investopedia.com/articles/personal-finance/093015/whats-good-profit-margin-new-business.asp) can engage in a huge range of activities, not-for-profit businesses must operate exclusively as a charity or for scientific, religious, or public safety purposes.3 Additionally, not-for-profits may also exist to collect income to dispense to other qualifying charities.
+Finally, while [[for-profit businesses]](https://www.investopedia.com/articles/personal-finance/093015/whats-good-profit-margin-new-business.asp) can engage in a huge range of activities, not-for-profit businesses must operate exclusively as a charity or for scientific, religious, or public safety purposes.3 Additionally, not-for-profits may also exist to collect income to dispense to other qualifying charities.
 
 Even tax-exempt not-for-profit organizations are required to remit payroll taxes on behalf of their employees, who also must report income from nonprofits to the IRS.
 

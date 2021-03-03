@@ -16,7 +16,7 @@ author: Marshall Hargrave
 How a Reverse Takeover (RTO) Works
 ## What Is a Reverse Takeover (RTO)?
 
-A reverse takeover (RTO) is a process whereby private companies can become publicly traded companies without going through an [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp).
+A reverse takeover (RTO) is a process whereby private companies can become publicly traded companies without going through an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp).
 
 To begin, a private company buys enough shares to control a publicly-traded company. The private company's shareholder then exchanges its shares in the private company for shares in the public company. At this point, the private company has effectively become a publicly-traded company.
 
@@ -34,7 +34,7 @@ By engaging in an RTO, a private company can avoid the expensive fees associated
 
 While not a requirement of an RTO, the name of the publicly-traded company involved is often changed as part of the process. For example, the computer company Dell ([DELL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=dell)) completed a reverse takeover of VMware tracking stock (DVMT) in December 2018 and returned to being a publicly traded company. It also changed its name to Dell Technologies.1
 
-Additionally, the corporate restructuring of one—or both—of the merging companies is adjusted to accommodate the new business design. Prior to the RTO, it is not uncommon for the publicly-traded company to have had little to no recent activity, existing as more of a [shell corporation](https://www.investopedia.com/terms/s/shellcorporation.asp). This allows the private company to shift its operations into the shell of the public entity with relative ease, all while avoiding the costs, regulatory requirements, and time constraints associated with an IPO. While a traditional IPO may require months or years to complete, an RTO may be completed in just weeks.
+Additionally, the corporate restructuring of one—or both—of the merging companies is adjusted to accommodate the new business design. Prior to the RTO, it is not uncommon for the publicly-traded company to have had little to no recent activity, existing as more of a [[shell corporation]](https://www.investopedia.com/terms/s/shellcorporation.asp). This allows the private company to shift its operations into the shell of the public entity with relative ease, all while avoiding the costs, regulatory requirements, and time constraints associated with an IPO. While a traditional IPO may require months or years to complete, an RTO may be completed in just weeks.
 
 For a company that wants to become publicly traded, reverse takeovers (RTOs) can be a cheaper and quicker option than an IPO. However, they tend to pose greater risks for investors.
 

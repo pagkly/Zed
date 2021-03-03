@@ -16,11 +16,11 @@ author: Cory Mitchell
 Out of the Money (OTM) Definition and Example
 ## What Is Out of the Money (OTM)?
 
-"Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value. These options will have a [delta](https://www.investopedia.com/terms/d/delta.asp) of less than 50.0.
+"Out of the money" (OTM) is an expression used to describe an option contract that only contains extrinsic value. These options will have a [[delta]](https://www.investopedia.com/terms/d/delta.asp) of less than 50.0.
 
-An OTM call option will have a [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) that is higher than the market price of the underlying asset. Alternatively, an OTM put option has a strike price that is lower than the market price of the underlying asset.
+An OTM call option will have a [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) that is higher than the market price of the underlying asset. Alternatively, an OTM put option has a strike price that is lower than the market price of the underlying asset.
 
-OTM options may be contrasted with [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) options.
+OTM options may be contrasted with [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) options.
 
 ### Key Takeaways
 
@@ -33,17 +33,17 @@ OTM options may be contrasted with [in-the-money](https://www.investopedia.com/t
 
 ## Option Basics
 
-For a premium, stock options give the purchaser the right, but not the obligation, to buy or sell the underlying stock at an agreed-upon price before an agreed-upon date. This agreed-upon price is referred to as the strike price, and the agreed-upon date is known as the [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp).
+For a premium, stock options give the purchaser the right, but not the obligation, to buy or sell the underlying stock at an agreed-upon price before an agreed-upon date. This agreed-upon price is referred to as the strike price, and the agreed-upon date is known as the [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp).
 
 An option to buy an underlying asset is a call option, while an option to sell an underlying asset is called a put option. A trader may purchase a call option if they expect the underlying asset's price to exceed the strike price before the expiration date. Conversely, a put option enables the trader to profit on a decline in the asset's price. Because they derive their value from that of an underlying security, options are [derivatives](https://www.investopedia.com/terms/d/derivative.asp).
 
-An option can be OTM, ITM, or [at the money](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM). An ATM option is one in which the strike price and price of the underlying are equal.
+An option can be OTM, ITM, or [[at the money]](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM). An ATM option is one in which the strike price and price of the underlying are equal.
 
 ## Out-of-the-Money Options
 
-You can tell if an option is OTM by determining what the current price of the underlying is in relation to the strike price of that option. For a call option, if the underlying price is below the strike price, that option is OTM. For a put option, if the underlying price is above the strike price, then that option is OTM. An out of the money option has no [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp), but only possesses extrinsic or [time value](https://www.investopedia.com/terms/t/timevalue.asp).
+You can tell if an option is OTM by determining what the current price of the underlying is in relation to the strike price of that option. For a call option, if the underlying price is below the strike price, that option is OTM. For a put option, if the underlying price is above the strike price, then that option is OTM. An out of the money option has no [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp), but only possesses extrinsic or [[time value]](https://www.investopedia.com/terms/t/timevalue.asp).
 
-Being out of the money doesn't mean a trader can't make a profit on that option. Each option has a cost, called the [premium](https://www.investopedia.com/terms/o/option-premium.asp). A trader could have bought a far out-of-the-money option, but now that option is moving closer to being [in the money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM). That option could end up being worth more than the trader paid for the option, even though it is currently out of the money. At expiration, though, an option is worthless if it is OTM. Therefore, if an option is OTM, the trader will need to sell it prior to expiration in order to recoup any extrinsic value that is possibly remaining.
+Being out of the money doesn't mean a trader can't make a profit on that option. Each option has a cost, called the [[premium]](https://www.investopedia.com/terms/o/option-premium.asp). A trader could have bought a far out-of-the-money option, but now that option is moving closer to being [[in the money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM). That option could end up being worth more than the trader paid for the option, even though it is currently out of the money. At expiration, though, an option is worthless if it is OTM. Therefore, if an option is OTM, the trader will need to sell it prior to expiration in order to recoup any extrinsic value that is possibly remaining.
 
 Consider a stock that is trading at $10. For such a stock, call options with strike prices above $10 would be OTM calls, while put options with strike prices below $10 would be OTM puts.
 
@@ -51,9 +51,9 @@ OTM options are not worth exercising, because the current market is offering a t
 
 ## Out of the Money Options Example
 
-A trader wants to buy a call option on Vodafone stock. They choose a call option with a $20 strike price. The option expires in five months and costs $0.50. This gives them the right to buy 100 shares of the stock before the option expires. The total cost of the option is $50 (100 shares times $0.50), plus a trade [commission](https://www.investopedia.com/terms/c/commission.asp). The stock is currently trading at $18.50.
+A trader wants to buy a call option on Vodafone stock. They choose a call option with a $20 strike price. The option expires in five months and costs $0.50. This gives them the right to buy 100 shares of the stock before the option expires. The total cost of the option is $50 (100 shares times $0.50), plus a trade [[commission]](https://www.investopedia.com/terms/c/commission.asp). The stock is currently trading at $18.50.
 
-Upon buying the option, there is no reason to exercise it because by exercising the option, the trader has to pay $20 for the stock when they can currently buy it at a market price of $18.50. While this option is OTM, it isn't worthless yet, as there's still potential to make a profit by [selling the option rather than exercising](https://www.investopedia.com/articles/optioninvestor/09/when-exercise-options.asp).
+Upon buying the option, there is no reason to exercise it because by exercising the option, the trader has to pay $20 for the stock when they can currently buy it at a market price of $18.50. While this option is OTM, it isn't worthless yet, as there's still potential to make a profit by [[selling the option rather than exercising]](https://www.investopedia.com/articles/optioninvestor/09/when-exercise-options.asp).
 
 For example, the trader just paid $0.50 for the potential that the stock will appreciate above $20 within the next five months. Prior to expiration, that option will still have some extrinsic value, which is reflected in the premium or cost of the option. The price of the underlying may never reach $20, but the premium of the option may increase to $0.75 or $1 if it gets close. Therefore, the trader could still reap a profit on the OTM option itself by selling it at a higher premium than they paid for it.
 

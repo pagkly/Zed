@@ -28,7 +28,7 @@ Engel's Law is an economic theory introduced in 1857 by Ernst Engel, a German st
 
 In the mid 19th century, Ernst Engel wrote, “The poorer a family, the greater the proportion of its total expenditure that must be devoted to the provision of food.” This was then extended to whole countries by arguing the richer a country, the smaller the food share
 
-Engel's Law similarly states that lower income households spend a greater proportion of their available income on food than middle or higher income households. As food costs increase, both for food at home (such as groceries) and food [away from home](https://www.investopedia.com/terms/a/awayfromhome.asp) (for example, at a restaurant), the percentage spent by lower-income households is expected to increase.
+Engel's Law similarly states that lower income households spend a greater proportion of their available income on food than middle or higher income households. As food costs increase, both for food at home (such as groceries) and food [[away from home]](https://www.investopedia.com/terms/a/awayfromhome.asp) (for example, at a restaurant), the percentage spent by lower-income households is expected to increase.
 
 The relationship and importance of household income to food consumption is well engrained in popular economics principles today, particularly with population health and improving the quality of health a prominent rallying point of all developed markets.
 

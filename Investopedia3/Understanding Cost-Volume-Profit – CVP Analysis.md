@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding Cost-Volume-Profit – CVP Analysis
 ## What Is Cost-Volume-Profit – CVP Analysis?
 
-Cost-volume-profit (CVP) analysis is a method of [cost accounting](https://www.investopedia.com/terms/c/cost-accounting.asp) that looks at the impact that varying levels of costs and volume have on operating profit. The cost-volume-profit analysis, also commonly known as break-even analysis, looks to determine the [break-even point](https://www.investopedia.com/terms/b/breakevenpoint.asp) for different sales volumes and cost structures, which can be useful for managers making short-term economic decisions.
+Cost-volume-profit (CVP) analysis is a method of [[cost accounting]](https://www.investopedia.com/terms/c/cost-accounting.asp) that looks at the impact that varying levels of costs and volume have on operating profit. The cost-volume-profit analysis, also commonly known as break-even analysis, looks to determine the [break-even point](https://www.investopedia.com/terms/b/breakevenpoint.asp) for different sales volumes and cost structures, which can be useful for managers making short-term economic decisions.
 
 The cost-volume-profit analysis makes several assumptions, including that the sales price, fixed costs, and variable cost per unit are constant. Running this analysis involves using several equations for price, cost and other variables, then plotting them out on an economic graph.
 
@@ -36,7 +36,7 @@ The contribution margin is used in the determination of the break-even point of 
 
 Profit may be added to the fixed costs to perform CVP analysis on a desired outcome. For example, if the previous company desired an accounting profit of $50,000, the total sales revenue is found by dividing $150,000 (the sum of fixed costs and desired profit) by the contribution margin of 40%. This example yields a required sales revenue of $375,000.
 
-CVP analysis is only reliable if costs are fixed within a specified production level. All units produced are assumed to be sold, and all fixed costs must be stable in a CVP analysis. Another assumption is all changes in expenses occur because of changes in activity level. Semi-variable expenses must be split between expense classifications using the [high-low method](https://www.investopedia.com/terms/h/high-low-method.asp), scatter plot or statistical regression.
+CVP analysis is only reliable if costs are fixed within a specified production level. All units produced are assumed to be sold, and all fixed costs must be stable in a CVP analysis. Another assumption is all changes in expenses occur because of changes in activity level. Semi-variable expenses must be split between expense classifications using the [[high-low method]](https://www.investopedia.com/terms/h/high-low-method.asp), scatter plot or statistical regression.
 
 ### Key Takeaways
 

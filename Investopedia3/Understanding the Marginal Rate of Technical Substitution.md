@@ -18,7 +18,7 @@ Understanding the Marginal Rate of Technical Substitution
 
 The marginal rate of technical substitution (MRTS) is an economic theory that illustrates the rate at which one factor must decrease so that the same level of productivity can be maintained when another factor is increased.
 
-The MRTS reflects the give-and-take between factors, such as capital and labor, that allow a firm to maintain a constant output. MRTS differs from the [marginal rate of substitution (MRS)](https://www.investopedia.com/terms/m/marginal_rate_substitution.asp) because MRTS is focused on producer [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) and MRS is focused on consumer equilibrium.
+The MRTS reflects the give-and-take between factors, such as capital and labor, that allow a firm to maintain a constant output. MRTS differs from the [[marginal rate of substitution (MRS)]](https://www.investopedia.com/terms/m/marginal_rate_substitution.asp) because MRTS is focused on producer [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) and MRS is focused on consumer equilibrium.
 
 ### Key Takeaways
 
@@ -39,6 +39,6 @@ For example, in the graph of an isoquant where capital (represented with K on i
 
 The slope of the isoquant, or the MRTS, on the graph shows the rate at which a given input, either labor or capital, can be substituted for the other while keeping the same output level. The MRTS is represented by the absolute value of an isoquant's slope at a chosen point.
 
-A decline in MRTS along an isoquant for producing the same level of output is called the diminishing marginal rate of [substitution](https://www.investopedia.com/terms/s/substitute.asp). The figure below shows that when a firm moves down from point (a) to point (b) and it uses one additional unit of labor, the firm can give up 4 units of capital (K) and yet remains on the same isoquant at point (b). So the MRTS is 4. If the firm hires another unit of labor and moves from point (b) to (c), the firm can reduce its use of capital (K) by 3 units but remains on the same isoquant, and the MRTS is 3.
+A decline in MRTS along an isoquant for producing the same level of output is called the diminishing marginal rate of [[substitution]](https://www.investopedia.com/terms/s/substitute.asp). The figure below shows that when a firm moves down from point (a) to point (b) and it uses one additional unit of labor, the firm can give up 4 units of capital (K) and yet remains on the same isoquant at point (b). So the MRTS is 4. If the firm hires another unit of labor and moves from point (b) to (c), the firm can reduce its use of capital (K) by 3 units but remains on the same isoquant, and the MRTS is 3.
 
 Image by Julie Bang © Investopedia 2019

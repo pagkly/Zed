@@ -14,9 +14,9 @@ author: James Chen
 ---
 
 Genetically Modified Food (GMF)
-Genetically Modified Foods (GMF) are produced from organisms that have had their genes altered to introduce traits not created through [natural selection](https://www.investopedia.com/terms/n/natural-selection.asp). Genetically modified foods (mostly fruits and vegetables) have been commercially available since the 1994.1 Modifying the genetic code of a fruit, vegetable or animal involves introducing a gene from another organism.
+Genetically Modified Foods (GMF) are produced from organisms that have had their genes altered to introduce traits not created through [[natural selection]](https://www.investopedia.com/terms/n/natural-selection.asp). Genetically modified foods (mostly fruits and vegetables) have been commercially available since the 1994.1 Modifying the genetic code of a fruit, vegetable or animal involves introducing a gene from another organism.
 
-In the United States, the U.S [Food and Drug Administration](https://www.investopedia.com/terms/f/fda.asp), [Environmental Protection Agency](https://www.investopedia.com/terms/e/environmental-protection-agency.asp) and [U.S. Department of Agriculture](https://www.investopedia.com/terms/u/usda.asp) regulate genetically modified foods to ensure they are safe for human consumption.2
+In the United States, the U.S [[Food and Drug Administration]](https://www.investopedia.com/terms/f/fda.asp), [[Environmental Protection Agency]](https://www.investopedia.com/terms/e/environmental-protection-agency.asp) and [[U.S. Department of Agriculture]](https://www.investopedia.com/terms/u/usda.asp) regulate genetically modified foods to ensure they are safe for human consumption.2
 
 ## Breaking Down Genetically Modified Food (GMF)
 

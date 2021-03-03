@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 What Your Resume Says About You
 ## Resume: An Overview
 
-A resume is a formal document that a job applicant creates to itemize his or her qualifications for a position. A resume is usually accompanied by a customized [cover letter](https://www.investopedia.com/terms/c/cover-letter.asp) in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.
+A resume is a formal document that a job applicant creates to itemize his or her qualifications for a position. A resume is usually accompanied by a customized [[cover letter]](https://www.investopedia.com/terms/c/cover-letter.asp) in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.
 
 American job coaches insist that a resume should be only one or two pages in length. British job applicants traditionally are expected to produce a somewhat more detailed document, called a CV (curriculum vitae).
 
@@ -36,7 +36,7 @@ Successful resumes highlight specific accomplishments applicants have achieved i
 
 The most determined applicants rewrite their resumes to suit the occasion, concentrating on skills and experience that fit the job for which they're applying.
 
-There are many formats for resumes, with many variations for particular professions such as [investment banking](https://www.investopedia.com/articles/financialcareers/10/investment-banking-resume.asp) and [the fashion trade](https://www.investopedia.com/articles/personal-finance/030215/smart-resumes-fashion-industry.asp).
+There are many formats for resumes, with many variations for particular professions such as [[investment banking]](https://www.investopedia.com/articles/financialcareers/10/investment-banking-resume.asp) and [[the fashion trade]](https://www.investopedia.com/articles/personal-finance/030215/smart-resumes-fashion-industry.asp).
 
 Whatever the format, most resumes include a brief summary of skills and experience, followed by a bullet list of previous jobs in reverse chronological order and a list of degrees earned. A final section might be added to highlight specific skills, such as fluency in a foreign language, knowledge of computer languages, professionally useful hobbies, professional affiliations, and any honors achieved.
 

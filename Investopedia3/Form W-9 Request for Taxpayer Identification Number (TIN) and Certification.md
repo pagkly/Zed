@@ -16,7 +16,7 @@ author: Julia Kagan
 Form W-9: Request for Taxpayer Identification Number (TIN) and Certification
 ## What Is Form W-9: Request for Taxpayer Identification Number (TIN) and Certification?
 
-A W-9 form is an Internal Revenue Service (IRS) tax form that is used to confirm a person's name, address, and [taxpayer identification number](https://www.investopedia.com/terms/t/taxpayer-identification-number.asp) (TIN) for employment or other income-generating purposes. The confirmation can be requested for either an individual defined as a U.S. citizen or a person defined as a [resident alien](https://www.investopedia.com/terms/r/residentalien.asp).
+A W-9 form is an Internal Revenue Service (IRS) tax form that is used to confirm a person's name, address, and [[taxpayer identification number]](https://www.investopedia.com/terms/t/taxpayer-identification-number.asp) (TIN) for employment or other income-generating purposes. The confirmation can be requested for either an individual defined as a U.S. citizen or a person defined as a [[resident alien]](https://www.investopedia.com/terms/r/residentalien.asp).
 
 A W-9 form is also known as a Request for Taxpayer Identification Number and Certification form.
 
@@ -28,15 +28,15 @@ A W-9 form is also known as a Request for Taxpayer Identification Number and Cer
 
 ## Who Can File Form W-9: Request for Taxpayer Identification Number (TIN) and Certification?
 
-A W-9 form is a formal written request for information only and is used solely for the purpose of confirming a person’s taxpayer identification number (TIN). An employer or other entity that is required to file an informational document with the IRS, such as Form 1099, must obtain your correct TIN to report any earnings or losses that may affect your federal tax return or your [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp). For most individuals, the TIN will be their [Social Security Number](https://www.investopedia.com/terms/s/ssn.asp) (SSN).1
+A W-9 form is a formal written request for information only and is used solely for the purpose of confirming a person’s taxpayer identification number (TIN). An employer or other entity that is required to file an informational document with the IRS, such as Form 1099, must obtain your correct TIN to report any earnings or losses that may affect your federal tax return or your [[taxable income]](https://www.investopedia.com/terms/t/taxableincome.asp). For most individuals, the TIN will be their [[Social Security Number]](https://www.investopedia.com/terms/s/ssn.asp) (SSN).1
 
-The W-9 differs from a [W-4 Form](https://www.investopedia.com/terms/w/w4form.asp)—which is more commonly supplied by employees to direct employers—in that the W-9 does not inherently arrange for the withholding of any taxes due. Any required taxes based on gains related to the provided W-9 are the responsibility of the TIN holder listed on the document unless the taxpayer is subject to [backup withholding](https://www.investopedia.com/terms/b/backupwithholding.asp). If backup withholding is required, this will need to be noted on the W-9, to properly inform the entity receiving the information of the need to withhold accordingly.
+The W-9 differs from a [[W-4 Form]](https://www.investopedia.com/terms/w/w4form.asp)—which is more commonly supplied by employees to direct employers—in that the W-9 does not inherently arrange for the withholding of any taxes due. Any required taxes based on gains related to the provided W-9 are the responsibility of the TIN holder listed on the document unless the taxpayer is subject to [[backup withholding]](https://www.investopedia.com/terms/b/backupwithholding.asp). If backup withholding is required, this will need to be noted on the W-9, to properly inform the entity receiving the information of the need to withhold accordingly.
 
 ## What Is Form W-9 Used For?
 
-The information obtained on a W-9 form is most often [used to create a version of Form 1099](https://www.investopedia.com/articles/personal-finance/082714/purpose-w9-form.asp). A [1099 form](https://www.investopedia.com/articles/personal-finance/082514/purpose-1099-forms.asp) contains information about any income that may have been received by the TIN holder that would not normally be listed on a W-2 form. This includes, but is not limited to, income paid to a person as part of a contract; certain real estate transactions; [dividends](https://www.investopedia.com/terms/d/dividend.asp) paid against an investment; and various other financial transactions.2
+The information obtained on a W-9 form is most often [[used to create a version of Form 1099]](https://www.investopedia.com/articles/personal-finance/082714/purpose-w9-form.asp). A [1099 form](https://www.investopedia.com/articles/personal-finance/082514/purpose-1099-forms.asp) contains information about any income that may have been received by the TIN holder that would not normally be listed on a W-2 form. This includes, but is not limited to, income paid to a person as part of a contract; certain real estate transactions; [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) paid against an investment; and various other financial transactions.2
 
-The IRS requires those who are not defined as U.S. citizens or [resident aliens](https://www.investopedia.com/terms/r/residentalien.asp) to use the appropriate [W-8 Form](https://www.investopedia.com/terms/w/w8form.asp) in place of a W-9 form.
+The IRS requires those who are not defined as U.S. citizens or [[resident aliens]](https://www.investopedia.com/terms/r/residentalien.asp) to use the appropriate [[W-8 Form]](https://www.investopedia.com/terms/w/w8form.asp) in place of a W-9 form.
 
 Form 1099 is only required to be issued once the minimum income threshold is reached, which for most miscellaneous income is set at $600 for tax years 2020 and 2021. Amounts under this threshold must be reported as income by the TIN holder but do not require a 1099 form.2
 
@@ -56,7 +56,7 @@ Enter your name as shown on your [tax return](https://www.investopedia.com/term
 
 ### Step 2
 
-Enter your business name or "disregarded entity" name, if different from the name you entered for step 1. For example, you might be a [sole proprietorship](https://www.investopedia.com/terms/s/soleproprietorship.asp), but for marketing purposes, you don’t use your personal name as your business name; instead, you are "doing business as" some other name. You would enter that name here. As for the disregarded entity part, if you don’t know what it is, you probably aren't one. A common disregarded entity type is a single-member [limited liability company](https://www.investopedia.com/terms/l/llc.asp).4 Sole proprietorships and [S corporations](https://www.investopedia.com/terms/s/subchapters.asp) are never classified as disregarded entities.
+Enter your business name or "disregarded entity" name, if different from the name you entered for step 1. For example, you might be a [[sole proprietorship]](https://www.investopedia.com/terms/s/soleproprietorship.asp), but for marketing purposes, you don’t use your personal name as your business name; instead, you are "doing business as" some other name. You would enter that name here. As for the disregarded entity part, if you don’t know what it is, you probably aren't one. A common disregarded entity type is a single-member [limited liability company](https://www.investopedia.com/terms/l/llc.asp).4 Sole proprietorships and [S corporations](https://www.investopedia.com/terms/s/subchapters.asp) are never classified as disregarded entities.
 
 ### Step 3
 
@@ -67,7 +67,7 @@ What type of business entity are you for federal tax classification: sole propri
 Exemptions. Chances are you’re going to leave these boxes blank. Here are a couple of exceptions: 
 
 1.  Payees that are exempt from backup [withholding](https://www.investopedia.com/terms/w/withholding.asp), such as corporations (in most cases), might need to enter a code in the "Exempt payee code" box. The Form W-9 instructions list the exempt payees and their codes and the types of payments for which these codes should be used. Corporations filling out a W-9 for receipt of interest or dividend payments, for example, would enter code "5."
-2.  Payees that are exempt from reporting under the [Foreign Account Tax Compliance Act](https://www.investopedia.com/terms/f/foreign-account-tax-compliance-act-fatca.asp) (FATCA) might need to enter a code in the "Exemption from FATCA reporting code" box. Neither of these boxes will apply to the typical independent contractor or freelancer.
+2.  Payees that are exempt from reporting under the [[Foreign Account Tax Compliance Act]](https://www.investopedia.com/terms/f/foreign-account-tax-compliance-act-fatca.asp) (FATCA) might need to enter a code in the "Exemption from FATCA reporting code" box. Neither of these boxes will apply to the typical independent contractor or freelancer.
 
 ### Step 5 
 
@@ -81,7 +81,7 @@ In this optional step, you can provide the requester's name and address. You mig
 
 The IRS calls this section Part I, which has to make you wonder what all those steps you just completed were. Here, you must provide your business's tax identification number, which will either be your individual Social Security Number if you’re a sole proprietorship, or your [employer identification number](https://www.investopedia.com/terms/e/employer-identification-number.asp) (EIN) if you're another type of business. Now, some sole proprietorships also have EINs, but the IRS prefers that sole proprietors use their SSNs on Form W-9. Again, doing so will make it easier to match any 1099s you receive with your tax return, which you will file under your SSN.
 
-What if your business is new and doesn't have an EIN? You can still fill out a W-9 form. The IRS says you should apply for your number and write "applied for" in the space for the TIN. You’ll want to get this number as quickly as possible because, until you do, you’ll be subject to backup withholding. You can apply for an EIN at the IRS website. See the instructions below for Step 8, Part II, for more on [backup withholding](https://www.investopedia.com/terms/b/backupwithholding.asp).
+What if your business is new and doesn't have an EIN? You can still fill out a W-9 form. The IRS says you should apply for your number and write "applied for" in the space for the TIN. You’ll want to get this number as quickly as possible because, until you do, you’ll be subject to backup withholding. You can apply for an EIN at the IRS website. See the instructions below for Step 8, Part II, for more on [[backup withholding]](https://www.investopedia.com/terms/b/backupwithholding.asp).
 
 ### Step 8 
 
@@ -97,7 +97,7 @@ In Part II, you must attest to the truthfulness of all of your information befor
 
 **3\. I am a U.S. citizen or other U.S. person.**
 
--   If you're a [resident alien](https://www.investopedia.com/terms/r/residentalien.asp), you're in the clear. The IRS also considers the following to be a "U.S. person": a partnership, corporation, company, or association created or organized in the United States or under the laws of the United States; a domestic estate; and a domestic trust. If your business is a partnership that has a foreign partner, special rules apply; read about them in the instructions to Form W-9. If you aren't a U.S. citizen, you may need to fill out [Form W-8](https://www.investopedia.com/terms/w/w8form.asp) or Form 8233 instead.
+-   If you're a [resident alien](https://www.investopedia.com/terms/r/residentalien.asp), you're in the clear. The IRS also considers the following to be a "U.S. person": a partnership, corporation, company, or association created or organized in the United States or under the laws of the United States; a domestic estate; and a domestic trust. If your business is a partnership that has a foreign partner, special rules apply; read about them in the instructions to Form W-9. If you aren't a U.S. citizen, you may need to fill out [[Form W-8]](https://www.investopedia.com/terms/w/w8form.asp) or Form 8233 instead.
 
 **4. The FATCA code(s) entered on this form (if any) indicating that I am exempt from FATCA reporting is correct.**
 

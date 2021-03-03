@@ -28,11 +28,11 @@ A hedge is an investment that is made with the intention of reducing the risk of
 
 Hedging is somewhat analogous to taking out an insurance policy. If you own a home in a flood-prone area, you will want to protect that asset from the risk of flooding—to hedge it, in other words—by taking out flood insurance. In this example, you cannot prevent a flood, but you can plan ahead of time to mitigate the dangers in the event that a flood did occur.
 
-There is a [risk-reward tradeoff](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) inherent in hedging; while it reduces potential risk, it also chips away at potential gains. Put simply, hedging isn't free. In the case of the flood insurance policy example, the monthly payments add up, and if the flood never comes, the policyholder receives no payout. Still, most people would choose to take that predictable, circumscribed loss rather than suddenly lose the roof over their head.
+There is a [[risk-reward tradeoff]](https://www.investopedia.com/terms/r/riskreturntradeoff.asp) inherent in hedging; while it reduces potential risk, it also chips away at potential gains. Put simply, hedging isn't free. In the case of the flood insurance policy example, the monthly payments add up, and if the flood never comes, the policyholder receives no payout. Still, most people would choose to take that predictable, circumscribed loss rather than suddenly lose the roof over their head.
 
 In the investment world, hedging works in the same way. Investors and money managers use hedging practices to reduce and control their exposure to risks. In order to appropriately hedge in the investment world, one must use various instruments in a strategic fashion to offset the risk of adverse price movements in the market. The best way to do this is to make another investment in a targeted and controlled way. Of course, the parallels with the insurance example above are limited: in the case of flood insurance, the policy holder would be completely compensated for her loss, perhaps less a deductible. In the investment space, hedging is both more complex and an imperfect science.
 
-A [perfect hedge](https://www.investopedia.com/terms/p/perfecthedge.asp) is one that eliminates all risk in a position or portfolio. In other words, the hedge is 100% [inversely correlated](https://www.investopedia.com/terms/i/inverse-correlation.asp) to the vulnerable asset. This is more an ideal than a reality on the ground, and even the hypothetical perfect hedge is not without cost. Basis risk refers to the risk that an asset and a hedge will not move in opposite directions as expected; "basis" refers to the discrepancy.
+A [[perfect hedge]](https://www.investopedia.com/terms/p/perfecthedge.asp) is one that eliminates all risk in a position or portfolio. In other words, the hedge is 100% [inversely correlated](https://www.investopedia.com/terms/i/inverse-correlation.asp) to the vulnerable asset. This is more an ideal than a reality on the ground, and even the hypothetical perfect hedge is not without cost. Basis risk refers to the risk that an asset and a hedge will not move in opposite directions as expected; "basis" refers to the discrepancy.
 
 ## How Does Hedging Work?
 
@@ -40,7 +40,7 @@ The most common way of hedging in the investment world is through derivatives. D
 
 For example, if Morty buys 100 shares of Stock plc (STOCK) at $10 per share, he might hedge his investment by buying an American put option with a strike price of $8 expiring in one year. This option gives Morty the right to sell 100 shares of STOCK for $8 any time in the next year. Let's assume he pays $1 for the option, or $100 in premium. If one year later STOCK is trading at $12, Morty will not exercise the option and will be out $100. He's unlikely to fret, though, since his unrealized gain is $100 ($100 including the price of the put). If STOCK is trading at $0, on the other hand, Morty will exercise the option and sell his shares for $8, for a loss of $300 ($300 including the price of the put). Without the option, he stood to lose his entire investment.
 
-The effectiveness of a derivative hedge is expressed in terms of [delta](https://www.investopedia.com/terms/d/delta.asp), sometimes called the "hedge ratio." Delta is the amount the price of a derivative moves per $1 movement in the price of the underlying asset.
+The effectiveness of a derivative hedge is expressed in terms of [[delta]](https://www.investopedia.com/terms/d/delta.asp), sometimes called the "hedge ratio." Delta is the amount the price of a derivative moves per $1 movement in the price of the underlying asset.
 
 Fortunately, the various kinds of options and futures contracts allow investors to hedge against almost any investment, including those involving stocks, interest rates, currencies, commodities, and more.
 
@@ -54,7 +54,7 @@ This strategy has its trade offs: If wages are high and jobs are plentiful, the 
 
 ## Spread Hedging
 
-In the index space, moderate price declines are quite common, and they are also highly unpredictable. Investors focusing in this area may be more concerned with moderate declines than with more severe ones. In these cases, a [bear put spread](https://www.investopedia.com/terms/b/bearputspread.asp) is a common hedging strategy.
+In the index space, moderate price declines are quite common, and they are also highly unpredictable. Investors focusing in this area may be more concerned with moderate declines than with more severe ones. In these cases, a [[bear put spread]](https://www.investopedia.com/terms/b/bearputspread.asp) is a common hedging strategy.
 
 In this type of spread, the index investor buys a put which has a higher strike price. Next, she sells a put with a lower strike price but the same expiration date. Depending upon the way that the index behaves, the investor thus has a degree of price protection equal to the difference between the two strike prices (minus the cost). While this is likely to be a moderate amount of protection, it is often sufficient to cover a brief downturn in the index.
 

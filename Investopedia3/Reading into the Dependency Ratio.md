@@ -16,7 +16,7 @@ author: Adam Hayes
 Reading into the Dependency Ratio
 ## What Is the Dependency Ratio?
 
-The dependency ratio is a measure of the number of [dependents](https://www.investopedia.com/terms/d/dependent.asp) aged zero to 14 and over the age of 65, compared with the total population aged 15 to 64. This demographic indicator gives insight into the number of people of non-working age, compared with the number of those of working age. It is also used to understand the relative economic burden of the workforce and has ramifications for taxation. The dependency ratio is also referred to as the total or youth dependency ratio.
+The dependency ratio is a measure of the number of [[dependents]](https://www.investopedia.com/terms/d/dependent.asp) aged zero to 14 and over the age of 65, compared with the total population aged 15 to 64. This demographic indicator gives insight into the number of people of non-working age, compared with the number of those of working age. It is also used to understand the relative economic burden of the workforce and has ramifications for taxation. The dependency ratio is also referred to as the total or youth dependency ratio.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ Dependency Ratio\=# DependentsPopulation Aged 15 to 64⋅100\\text{Dependen
 
 A high dependency ratio means those of working age, and the overall economy, face a greater burden in supporting the aging population. The youth dependency ratio includes those only under 15, and the elderly dependency ratio focuses on those over 64.
 
-The dependency ratio focuses on separating those of [working age](https://www.investopedia.com/terms/w/working-age-population.asp), deemed between the ages of 15 and 64 years of age, from those of non-working age. This also provides an accounting of those who have the potential to earn their own income and who are most likely to not earn their own income.
+The dependency ratio focuses on separating those of [[working age]](https://www.investopedia.com/terms/w/working-age-population.asp), deemed between the ages of 15 and 64 years of age, from those of non-working age. This also provides an accounting of those who have the potential to earn their own income and who are most likely to not earn their own income.
 
-Various employment regulations make it unlikely that individuals less than 15 years old would get employed for any personal income. A person who turns 64 years old is generally considered to be of [normal retirement age](https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp) and is not necessarily expected to be part of the workforce. It is the lack of income potential that generally qualifies those under 15 and over 64 as dependents as it is often necessary for them to receive outside support to meet their needs.
+Various employment regulations make it unlikely that individuals less than 15 years old would get employed for any personal income. A person who turns 64 years old is generally considered to be of [[normal retirement age]](https://www.investopedia.com/terms/n/normal-retirement-age-nra.asp) and is not necessarily expected to be part of the workforce. It is the lack of income potential that generally qualifies those under 15 and over 64 as dependents as it is often necessary for them to receive outside support to meet their needs.
 
 ## An Analysis of Dependency Ratios
 

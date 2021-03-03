@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding Posterior Probability
 ## What Is a Posterior Probability?
 
-A posterior probability, in Bayesian statistics, is the revised or updated probability of an event occurring after taking into consideration new information. The posterior probability is calculated by updating the [prior probability](https://www.investopedia.com/terms/p/prior_probability.asp) using [Bayes' theorem](https://www.investopedia.com/terms/b/bayes-theorem.asp). In statistical terms, the posterior probability is the probability of event A occurring given that event B has occurred.
+A posterior probability, in Bayesian statistics, is the revised or updated probability of an event occurring after taking into consideration new information. The posterior probability is calculated by updating the [[prior probability]](https://www.investopedia.com/terms/p/prior_probability.asp) using [[Bayes' theorem]](https://www.investopedia.com/terms/b/bayes-theorem.asp). In statistical terms, the posterior probability is the probability of event A occurring given that event B has occurred.
 
 ### Key Takeaways
 

@@ -16,9 +16,9 @@ author: Julia Kagan
 Qualified Longevity Annuity Contract (QLAC)
 ## What Is a Qualified Longevity Annuity Contract (QLAC)?
 
-A qualified longevity annuity contract (QLAC) is a type of [deferred annuity](https://www.investopedia.com/terms/d/deferredannuity.asp) funded with an investment from a [qualified retirement plan](https://www.investopedia.com/terms/q/qrp.asp) or an [individual retirement account (IRA)](https://www.investopedia.com/terms/i/ira.asp).
+A qualified longevity annuity contract (QLAC) is a type of [[deferred annuity]](https://www.investopedia.com/terms/d/deferredannuity.asp) funded with an investment from a [[qualified retirement plan]](https://www.investopedia.com/terms/q/qrp.asp) or an [[individual retirement account (IRA)]](https://www.investopedia.com/terms/i/ira.asp).
 
-A QLAC annuity provides guaranteed monthly payments until death and is shielded from downturns in the stock market. As long as the annuity complies with [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) requirements, it is exempt from the [required minimum distribution (RMD)](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) rules until payouts begin after the specified annuity starting date.
+A QLAC annuity provides guaranteed monthly payments until death and is shielded from downturns in the stock market. As long as the annuity complies with [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) requirements, it is exempt from the [[required minimum distribution (RMD)]](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) rules until payouts begin after the specified annuity starting date.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ A QLAC annuity provides guaranteed monthly payments until death and is shielded 
 
 ## Understanding a Qualified Longevity Annuity Contract (QLAC)
 
-One of the biggest fears many people have as they grow older is outliving their money. A QLAC is an investment vehicle that allows funds in a qualified retirement plan, such as a 401(k), a 403(b), or an IRA, to be converted into an [annuity](https://www.investopedia.com/ask/answers/12/what-is-an-annuity.asp).
+One of the biggest fears many people have as they grow older is outliving their money. A QLAC is an investment vehicle that allows funds in a qualified retirement plan, such as a 401(k), a 403(b), or an IRA, to be converted into an [[annuity]](https://www.investopedia.com/ask/answers/12/what-is-an-annuity.asp).
 
-An annuity is a contract purchased from an insurance company in which the buyer pays the insurance company either a lump sum or a series of premiums. At some point in the future, the insurance company pays back the annuity owner—called the [annuitant](https://www.investopedia.com/terms/a/annuitant.asp). How many years the owner receives payments depends on the type of annuity purchased.
+An annuity is a contract purchased from an insurance company in which the buyer pays the insurance company either a lump sum or a series of premiums. At some point in the future, the insurance company pays back the annuity owner—called the [[annuitant]](https://www.investopedia.com/terms/a/annuitant.asp). How many years the owner receives payments depends on the type of annuity purchased.
 
 A qualified longevity annuity contract provides a lifetime of income once the preset annuity start date is reached. The longer an individual lives, the longer a QLAC pays out. One of the benefits of using IRA funds to purchase a QLAC is that it helps to avoid violating the IRS RMD rules for those turning age 72. A required minimum distribution (RMD) is the minimum amount that must be withdrawn—per the IRS—from a person's retirement account balances each year starting when they turn 72 years old.
 
@@ -54,7 +54,7 @@ The promised benefit of QLACs can only be achieved if rules set by the IRS are f
 
 ## Qualified Longevity Annuity Contract Considerations
 
-One option for getting the most out of QLACs is by [laddering](https://www.investopedia.com/terms/l/laddering.asp) them, which would involve purchasing one QLAC each year for several years (in the $25,000 range, for example). Such a strategy is similar to [dollar-cost averaging](https://www.investopedia.com/terms/d/dollarcostaveraging.asp), which makes sense considering that annuity costs can fluctuate along with interest rates. In other words, a QLAC could be purchased each year, which has the potential of lowering the average cost of the contracts.
+One option for getting the most out of QLACs is by [[laddering]](https://www.investopedia.com/terms/l/laddering.asp) them, which would involve purchasing one QLAC each year for several years (in the $25,000 range, for example). Such a strategy is similar to [[dollar-cost averaging]](https://www.investopedia.com/terms/d/dollarcostaveraging.asp), which makes sense considering that annuity costs can fluctuate along with interest rates. In other words, a QLAC could be purchased each year, which has the potential of lowering the average cost of the contracts.
 
 All of the laddered annuity contracts could be structured to begin paying out in the same year. Each contract could also have its payouts staggered to begin paying out in different years based on the owner's age and when the income is needed. For example, the first QLAC purchased could begin paying out at age 78, and the next could begin at age 79, and so on. However, RMDs would need to be taken by age 85.
 

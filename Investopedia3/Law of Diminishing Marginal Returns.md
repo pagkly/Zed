@@ -20,7 +20,7 @@ The law of diminishing marginal returns is a theory in economics that predicts t
 
 For example, a factory employs workers to manufacture its products, and, at some point, the company operates at an optimal level. With all other production factors constant, adding additional workers beyond this optimal level will result in less efficient operations. 
 
-The law of diminishing returns is related to the concept of [diminishing marginal utility](https://www.investopedia.com/terms/l/law-diminishing-marginal-productivity.asp). It can also be contrasted with [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp).
+The law of diminishing returns is related to the concept of [[diminishing marginal utility]](https://www.investopedia.com/terms/l/law-diminishing-marginal-productivity.asp). It can also be contrasted with [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp).
 
 ### Key Takeaways
 
@@ -32,19 +32,19 @@ The law of diminishing returns is related to the concept of [diminishing margina
 
 ## Understanding the Law of Diminishing Marginal Returns
 
-The law of diminishing marginal returns is also referred to as the "law of diminishing returns," the "principle of diminishing marginal productivity," and the "law of variable proportions." This law affirms that the addition of a larger amount of one factor of production, [ceteris paribus](https://www.investopedia.com/terms/c/ceterisparibus.asp), inevitably yields decreased per-unit incremental returns. The law does not imply that the additional unit decreases total production, which is known as [negative returns](https://www.investopedia.com/terms/n/negative-return.asp); however, this is commonly the result.
+The law of diminishing marginal returns is also referred to as the "law of diminishing returns," the "principle of diminishing marginal productivity," and the "law of variable proportions." This law affirms that the addition of a larger amount of one factor of production, [[ceteris paribus]](https://www.investopedia.com/terms/c/ceterisparibus.asp), inevitably yields decreased per-unit incremental returns. The law does not imply that the additional unit decreases total production, which is known as [[negative returns]](https://www.investopedia.com/terms/n/negative-return.asp); however, this is commonly the result.
 
 The law of diminishing marginal returns does not imply that the additional unit decreases total production, but this is usually the result. 
 
-The law of diminishing returns is not only a fundamental principle of [economics](https://www.investopedia.com/terms/e/economics.asp), but it also plays a starring role in production theory. Production theory is the study of the economic process of converting inputs into outputs.
+The law of diminishing returns is not only a fundamental principle of [[economics]](https://www.investopedia.com/terms/e/economics.asp), but it also plays a starring role in production theory. Production theory is the study of the economic process of converting inputs into outputs.
 
 ## History of The Law of Diminishing Returns
 
-The idea of diminishing returns has ties to some of the world’s earliest economists, including Jacques Turgot, Johann Heinrich von Thünen, Thomas Robert Malthus, [David Ricardo](https://www.investopedia.com/terms/d/david-ricardo.asp), and James Anderson.1 2 The first recorded mention of diminishing returns came from Turgot in the mid-1700s.3
+The idea of diminishing returns has ties to some of the world’s earliest economists, including Jacques Turgot, Johann Heinrich von Thünen, Thomas Robert Malthus, [[David Ricardo]](https://www.investopedia.com/terms/d/david-ricardo.asp), and James Anderson.1 2 The first recorded mention of diminishing returns came from Turgot in the mid-1700s.3
 
-Classical economists, such as Ricardo and Malthus, attribute successive diminishment of output to a decrease in the quality of input. Ricardo contributed to the development of the law, referring to it as the "intensive margin of cultivation."4 5 Ricardo was also the first to demonstrate how additional labor and [capital](https://www.investopedia.com/terms/c/capital.asp) added to a fixed piece of land would successively generate smaller output increases.6
+Classical economists, such as Ricardo and Malthus, attribute successive diminishment of output to a decrease in the quality of input. Ricardo contributed to the development of the law, referring to it as the "intensive margin of cultivation."4 5 Ricardo was also the first to demonstrate how additional labor and [[capital]](https://www.investopedia.com/terms/c/capital.asp) added to a fixed piece of land would successively generate smaller output increases.6
 
-Malthus introduced the idea during the construction of his population theory. This theory argues that population grows geometrically while food production increases arithmetically, resulting in a population outgrowing its food supply.7 Malthus’ ideas about limited food production stem from diminishing [returns](https://www.investopedia.com/ask/answers/033015/whats-difference-between-diminishing-marginal-returns-and-returns-scale.asp).
+Malthus introduced the idea during the construction of his population theory. This theory argues that population grows geometrically while food production increases arithmetically, resulting in a population outgrowing its food supply.7 Malthus’ ideas about limited food production stem from diminishing [[returns]](https://www.investopedia.com/ask/answers/033015/whats-difference-between-diminishing-marginal-returns-and-returns-scale.asp).
 
 [Neoclassical economists](https://www.investopedia.com/terms/n/neoclassical.asp) postulate that each “unit” of labor is exactly the same, and diminishing returns are caused by a disruption of the entire production process as extra units of labor are added to a set amount of capital.
 

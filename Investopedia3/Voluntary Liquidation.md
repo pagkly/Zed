@@ -18,7 +18,7 @@ Voluntary Liquidation
 
 A voluntary liquidation is a self-imposed wind-up and dissolution of a company that has been approved by its shareholders. Such a decision will happen once a company's leadership decides that the company has no reason to continue operating. It is not ordered by a court (not compulsory).
 
-The purpose of a voluntary liquidation is to terminate a company's operations, wrap-up its financial affairs, and dismantle its corporate structure in an orderly fashion, while paying back [creditors](https://www.investopedia.com/terms/c/creditor.asp) according to their assigned priority.
+The purpose of a voluntary liquidation is to terminate a company's operations, wrap-up its financial affairs, and dismantle its corporate structure in an orderly fashion, while paying back [[creditors]](https://www.investopedia.com/terms/c/creditor.asp) according to their assigned priority.
 
 ### Key Takeaways
 
@@ -28,17 +28,17 @@ The purpose of a voluntary liquidation is to terminate a company's operations, w
 
 ## Understanding Voluntary Liquidations
 
-The start of a voluntary liquidation resolution is initiated by a company's [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) or ownership. Voluntary liquidations are then enacted when a resolution to cease operations (assuming that operations are ongoing) is approved by its shareholders.
+The start of a voluntary liquidation resolution is initiated by a company's [[board of directors]](https://www.investopedia.com/terms/b/boardofdirectors.asp) or ownership. Voluntary liquidations are then enacted when a resolution to cease operations (assuming that operations are ongoing) is approved by its shareholders.
 
-Voluntary liquidations stand in contrast to [involuntary liquidations](https://www.investopedia.com/terms/f/forcedliquidation.asp). A shareholder vote allows the company to liquidate its assets to free up funds to pay debts. As such, voluntary liquidations may happen due to poor operating conditions (operating at a loss or the market moving in another direction), or due to business strategy considerations.
+Voluntary liquidations stand in contrast to [[involuntary liquidations]](https://www.investopedia.com/terms/f/forcedliquidation.asp). A shareholder vote allows the company to liquidate its assets to free up funds to pay debts. As such, voluntary liquidations may happen due to poor operating conditions (operating at a loss or the market moving in another direction), or due to business strategy considerations.
 
-Such reasoning may be to exact a degree of [tax relief](https://www.investopedia.com/terms/t/tax-relief.asp) for shutting down, or reorganizing and transferring assets to another company in exchange for an ownership or equity stake in the acquiring company. Voluntary liquidations may also be approved because the liquidating company was only meant to exist for a limited amount of time or for a specific purpose that has been fulfilled.
+Such reasoning may be to exact a degree of [[tax relief]](https://www.investopedia.com/terms/t/tax-relief.asp) for shutting down, or reorganizing and transferring assets to another company in exchange for an ownership or equity stake in the acquiring company. Voluntary liquidations may also be approved because the liquidating company was only meant to exist for a limited amount of time or for a specific purpose that has been fulfilled.
 
 In addition, voluntary liquidation may happen if a key member of an organization leaves the company, and the shareholders decide not to continue operations.
 
 ## Voluntary Liquidation Process
 
-In the United States, voluntary liquidations may begin with the occurrence of an event as specified by a company's board of directors. In such cases, a [liquidator](https://www.investopedia.com/terms/l/liquidator.asp) is appointed. The liquidator answers to shareholders and creditors. If the company is solvent the shareholders can supervise the voluntary liquidation. If the company is not solvent, creditors and shareholders may control the liquidation process by getting a court order.
+In the United States, voluntary liquidations may begin with the occurrence of an event as specified by a company's board of directors. In such cases, a [[liquidator]](https://www.investopedia.com/terms/l/liquidator.asp) is appointed. The liquidator answers to shareholders and creditors. If the company is solvent the shareholders can supervise the voluntary liquidation. If the company is not solvent, creditors and shareholders may control the liquidation process by getting a court order.
 
 Voluntary liquidations in the United Kingdom are divided into two categories. One is the creditors' voluntary liquidation, which occurs under a state of corporate insolvency. The other is the members' voluntary liquidation, which only requires a corporate declaration of bankruptcy.
 

@@ -14,11 +14,11 @@ author: Julia Kagan
 ---
 
 Series 65
-Designed by the [North American Securities Administrators Association (NASAA)](https://www.investopedia.com/terms/n/nasaa.asp) and administered by the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp), the Series 65 is an exam and securities license required for individuals to act as investment advisers in the US. The Series 65 exam, known formally as the Uniform Investment Adviser Law Examination, covers laws, regulations, ethics, and various topics important to the role of a financial adviser.
+Designed by the [[North American Securities Administrators Association (NASAA)]](https://www.investopedia.com/terms/n/nasaa.asp) and administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp), the Series 65 is an exam and securities license required for individuals to act as investment advisers in the US. The Series 65 exam, known formally as the Uniform Investment Adviser Law Examination, covers laws, regulations, ethics, and various topics important to the role of a financial adviser.
 
 ## Understanding the Series 65
 
-Successful completion of the Series 65 exam qualifies an investment professional to function as an Investment Adviser Representative in certain states. Other FINRA-administered qualification examinations include the Series 3 National Commodities Futures (NCFE), Series 7 General Securities Representative (GS), and [Series 63](https://www.investopedia.com/terms/s/series63.asp) Uniform Securities Agent State Law.
+Successful completion of the Series 65 exam qualifies an investment professional to function as an Investment Adviser Representative in certain states. Other FINRA-administered qualification examinations include the Series 3 National Commodities Futures (NCFE), Series 7 General Securities Representative (GS), and [[Series 63]](https://www.investopedia.com/terms/s/series63.asp) Uniform Securities Agent State Law.
 
 Financial professionals who have successfully passed the Series 65 exam may not act as investment advisers until licensed and registered in their state.
 

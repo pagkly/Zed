@@ -16,9 +16,9 @@ author: Katelyn Peters
 U.S. Department of Veterans Affairs Definition
 ## What Is the U.S. Department of Veterans Affairs?
 
-The U.S. Department of Veterans Affairs, established in 1988 by then-President Ronald Reagan, elevated the previous [Veterans Administration](https://www.investopedia.com/terms/v/veterans-administration.asp) to a Cabinet-level executive department. This move gave the department a new name that allowed it to still be referred to by its longtime acronym, the “VA.”
+The U.S. Department of Veterans Affairs, established in 1988 by then-President Ronald Reagan, elevated the previous [[Veterans Administration]](https://www.investopedia.com/terms/v/veterans-administration.asp) to a Cabinet-level executive department. This move gave the department a new name that allowed it to still be referred to by its longtime acronym, the “VA.”
 
-The U.S. Department of Veterans Affairs comprises three administrations: the Veteran's Health Administration, evolved from the first federal soldier's facility established for veterans of the Union Army after the Civil War and later joined by a system of veterans hospitals, clinics and nursing home units; the Veterans Benefits Administration, which supervises the [VA Home Loan Guaranty Program](https://www.investopedia.com/terms/v/valoan.asp) and other benefits, including employment and education; and the National Cemetery Administration, which runs 147 national cemeteries across the country.
+The U.S. Department of Veterans Affairs comprises three administrations: the Veteran's Health Administration, evolved from the first federal soldier's facility established for veterans of the Union Army after the Civil War and later joined by a system of veterans hospitals, clinics and nursing home units; the Veterans Benefits Administration, which supervises the [[VA Home Loan Guaranty Program]](https://www.investopedia.com/terms/v/valoan.asp) and other benefits, including employment and education; and the National Cemetery Administration, which runs 147 national cemeteries across the country.
 
 ### Key Takeaways
 

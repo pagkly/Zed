@@ -16,9 +16,9 @@ author: James Chen
 Global Investment Performance Standards (GIPS)
 ## What Are Global Investment Performance Standards (GIPS)?
 
-Global Investment Performance Standards (GIPS) are a set of voluntary standards used by [investment managers](https://www.investopedia.com/terms/i/investment-manager.asp) throughout the world to ensure the full disclosure and fair representation of their investment performance. The goal of the standards is to make it possible for investors to compare one firm’s performance against that of another firm.
+Global Investment Performance Standards (GIPS) are a set of voluntary standards used by [[investment managers]](https://www.investopedia.com/terms/i/investment-manager.asp) throughout the world to ensure the full disclosure and fair representation of their investment performance. The goal of the standards is to make it possible for investors to compare one firm’s performance against that of another firm.
 
-The Global Investment Performance Standards were created by the [CFA Institute](https://www.investopedia.com/terms/c/cfainstitute.asp), a global association for investment management professionals, and are governed by the GIPS Executive Committee.
+The Global Investment Performance Standards were created by the [[CFA Institute]](https://www.investopedia.com/terms/c/cfainstitute.asp), a global association for investment management professionals, and are governed by the GIPS Executive Committee.
 
 Global Investment Performance Standards (GIPS) are intended to enable investors to compare investment firms worldwide.
 
@@ -47,6 +47,6 @@ The forerunner of the Global Investment Performance Standards was the Associatio
 
 In response to the need for a more international set of guidelines, the Global Investment Performance Standards were first introduced in 1999. In 2005 the CFA Institute, as the Association for Investment Management and Research had been renamed, approved a revised set of guidelines to create a single global standard of investment performance and replace the previous country-specific performance standards.
 
-The [most recent edition](https://www.cfainstitute.org/-/media/documents/code/gips/2020-gips-standards-firms.ashx) of Global Investment Performance Standards was released on June 30, 2019 and goes into effect on Jan. 1, 2020.
+The [[most recent edition]](https://www.cfainstitute.org/-/media/documents/code/gips/2020-gips-standards-firms.ashx) of Global Investment Performance Standards was released on June 30, 2019 and goes into effect on Jan. 1, 2020.
 
 According to the CFA Institute, the Global Investment Performance Standards are currently used in "more than 40 markets globally" and "84 of the top 100 asset management firms worldwide claim compliance with the GIPS standards for all or part of their business. Combined, the top 100 GIPS-compliant firms represent more than US$50 trillion of assets under management."

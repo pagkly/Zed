@@ -16,7 +16,7 @@ author: James Chen
 Notional Principal Amount Definition
 ## What is the Notional Principal Amount?
 
-The notional principal amount, in an [interest rate swap](https://www.investopedia.com/terms/i/interestrateswap.asp), is the predetermined dollar amounts, or [principal](https://www.investopedia.com/terms/p/principal.asp), on which the exchanged interest payments are based. The notional principal never changes hands in the transaction, which is why it is considered notional, or theoretical. Neither party pays nor receives the notional principal amount at any time; only interest rate payments change hands.
+The notional principal amount, in an [[interest rate swap]](https://www.investopedia.com/terms/i/interestrateswap.asp), is the predetermined dollar amounts, or [[principal]](https://www.investopedia.com/terms/p/principal.asp), on which the exchanged interest payments are based. The notional principal never changes hands in the transaction, which is why it is considered notional, or theoretical. Neither party pays nor receives the notional principal amount at any time; only interest rate payments change hands.
 
 ## Understanding Notional Principal Amount
 
@@ -42,6 +42,6 @@ When calculating bond payments, the face value of the bond is considered to be n
 
 ## Example of Notional Principal Amount
 
-Two companies might enter into an interest rate swap contract as follows: For three years, Company A pays Company B 5 percent interest per year on a notional principal amount of $10 million. For the same three years, Company B pays Company A the one-year [LIBOR](https://www.investopedia.com/terms/l/libor.asp) rate on the same notional principal amount of $10 million.
+Two companies might enter into an interest rate swap contract as follows: For three years, Company A pays Company B 5 percent interest per year on a notional principal amount of $10 million. For the same three years, Company B pays Company A the one-year [[LIBOR]](https://www.investopedia.com/terms/l/libor.asp) rate on the same notional principal amount of $10 million.
 
-This would be considered a [plain vanilla](https://www.investopedia.com/terms/p/plainvanilla.asp) interest rate [swap because one party](https://www.investopedia.com/video/play/interest-rate-swap/) pays interest at a fixed rate on the notional principal amount and the other party pays interest at a floating rate on the same notional principal amount.
+This would be considered a [[plain vanilla]](https://www.investopedia.com/terms/p/plainvanilla.asp) interest rate [[swap because one party]](https://www.investopedia.com/video/play/interest-rate-swap/) pays interest at a fixed rate on the notional principal amount and the other party pays interest at a floating rate on the same notional principal amount.

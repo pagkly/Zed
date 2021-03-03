@@ -16,7 +16,7 @@ author: Will Kenton
 Value Change
 ## DEFINITION of Value Change
 
-Value change is an adjustment made to a stock's price to reflect the [number of outstanding stock shares](https://www.investopedia.com/video/play/types-shares-authorized-outstanding-float-and-restricted-shares/) issued and currently held by investors. A value change allows the group of stocks to be equally [weighted](https://www.investopedia.com/terms/w/weighted.asp) and, therefore, more easily evaluated. Since the number of shares held by investors changes daily, this number can be updated daily to reflect the changes.
+Value change is an adjustment made to a stock's price to reflect the [[number of outstanding stock shares]](https://www.investopedia.com/video/play/types-shares-authorized-outstanding-float-and-restricted-shares/) issued and currently held by investors. A value change allows the group of stocks to be equally [[weighted]](https://www.investopedia.com/terms/w/weighted.asp) and, therefore, more easily evaluated. Since the number of shares held by investors changes daily, this number can be updated daily to reflect the changes.
 
 ## BREAKING DOWN Value Change
 

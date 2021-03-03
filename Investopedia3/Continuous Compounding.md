@@ -17,14 +17,14 @@ James Chen
 Continuous Compounding
 ## What Is Continuous Compounding?
 
-Continuous compounding is the mathematical limit that compound [interest](https://www.investopedia.com/terms/i/interest.asp) can reach if it's calculated and reinvested into an account's balance over a theoretically infinite number of periods. While this is not possible in practice, the concept of continuously compounded interest is important in finance. It is an extreme case of [compounding](https://www.investopedia.com/terms/c/compounding.asp), as most interest is compounded on a monthly, quarterly, or semiannual basis.
+Continuous compounding is the mathematical limit that compound [[interest]](https://www.investopedia.com/terms/i/interest.asp) can reach if it's calculated and reinvested into an account's balance over a theoretically infinite number of periods. While this is not possible in practice, the concept of continuously compounded interest is important in finance. It is an extreme case of [[compounding]](https://www.investopedia.com/terms/c/compounding.asp), as most interest is compounded on a monthly, quarterly, or semiannual basis.
 
 ## Formula and Calculation of Continuous Compounding
 
 Instead of calculating interest on a finite number of periods, such as yearly or monthly, continuous compounding calculates interest assuming constant compounding over an infinite number of periods. The formula for compound interest over finite periods of time takes into account four variables:
 
 -   PV = the present value of the investment
--   i = the [stated](https://www.investopedia.com/terms/s/stated-annual-interest-rate.asp) interest rate
+-   i = the [[stated]](https://www.investopedia.com/terms/s/stated-annual-interest-rate.asp) interest rate
 -   n = the number of compounding periods
 -   t = the time in years
 

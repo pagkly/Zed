@@ -16,7 +16,7 @@ author: Carla Tardi
 What It Means to Own Stock with Preemptive Rights
 ## What Are Preemptive Rights?
 
-Preemptive rights are a contractual clause giving a shareholder the right to buy additional shares in any future issue of the company's common stock before the shares are available to the general public. Shareholders who have such a clause are generally [early investors](https://www.investopedia.com/articles/financial-theory/11/6-lessons-top-6-investors.asp) or majority owners who want to maintain the size of their stake in the company when and if additional shares are offered.
+Preemptive rights are a contractual clause giving a shareholder the right to buy additional shares in any future issue of the company's common stock before the shares are available to the general public. Shareholders who have such a clause are generally [[early investors]](https://www.investopedia.com/articles/financial-theory/11/6-lessons-top-6-investors.asp) or majority owners who want to maintain the size of their stake in the company when and if additional shares are offered.
 
 A preemptive right is sometimes called an "anti-dilution provision." It gives the investor the option of maintaining a certain percentage of ownership of the company as it grows.
 
@@ -26,7 +26,7 @@ A preemptive right is sometimes called an "anti-dilution provision." It gives th
 -   The right can also protect the early investor from a loss if the new shares are priced lower than the initial shares.
 -   Preemptive rights are routinely offered only to early investors and majority shareholders, not to all shareholders.
 
-In addition, the preemptive right may protect the investor from a loss if the new round of [common stock](https://www.investopedia.com/articles/active-trading/101614/what-you-need-know-about-preferred-stock.asp) is issued at a lower price than the preferred stock owned by the investor. In this case, the owner of preferred stock has the right to convert the shares to a larger number of common shares, offsetting the loss in share value.
+In addition, the preemptive right may protect the investor from a loss if the new round of [[common stock]](https://www.investopedia.com/articles/active-trading/101614/what-you-need-know-about-preferred-stock.asp) is issued at a lower price than the preferred stock owned by the investor. In this case, the owner of preferred stock has the right to convert the shares to a larger number of common shares, offsetting the loss in share value.
 
 ## Understanding the Preemptive Right
 
@@ -38,7 +38,7 @@ A preemptive right is essentially a right of first refusal. The shareholder may 
 
 ### The Benefit to Shareholders
 
-Preemptive rights protect a shareholder from losing voting power as more shares are issued and the company's ownership becomes [diluted](https://www.investopedia.com/terms/d/dilution.asp).
+Preemptive rights protect a shareholder from losing voting power as more shares are issued and the company's ownership becomes [[diluted]](https://www.investopedia.com/terms/d/dilution.asp).
 
 Since the shareholder is getting an insider's price for shares in the new issue, there also can be a strong profit incentive.
 
@@ -56,7 +56,7 @@ The preemptive right offers the shareholder an option but not an obligation to b
 
 ## Example of Preemptive Rights
 
-Let's assume that a company's [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp) consists of 100 shares and an individual purchases 10 of the shares. That's a 10% equity interest in the company.
+Let's assume that a company's [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp) consists of 100 shares and an individual purchases 10 of the shares. That's a 10% equity interest in the company.
 
 Down the road, the company makes a secondary offering of 500 additional shares. The shareholder who holds a preemptive right must be given the opportunity to purchase as many as 50 shares, or 10%, of the new offering. The investor can exercise that right and maintain a 10% equity interest in the company.
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 Uncle Sam Definition
 ## Who Is Uncle Sam?
 
-"Uncle Sam" is a personified representation of either the United States federal government or the United States of America in general. In finances, Uncle Sam can also refer to the taxing authority (i.e., the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp), or IRS), for instance, one may say: "I have to pay Uncle Sam a portion of my income to pay for roads and hospitals."
+"Uncle Sam" is a personified representation of either the United States federal government or the United States of America in general. In finances, Uncle Sam can also refer to the taxing authority (i.e., the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp), or IRS), for instance, one may say: "I have to pay Uncle Sam a portion of my income to pay for roads and hospitals."
 
 ### Key Takeaways
 

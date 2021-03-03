@@ -16,7 +16,7 @@ author: James Chen
 What Is a Turnkey Property?
 ## What Is a Turnkey Property?
 
-A turnkey property is a fully renovated home or apartment building that an [investor](https://www.investopedia.com/terms/i/investor.asp) can purchase and immediately rent out. A turnkey home is often a property purchased from a company that specializes in the restoration of older properties. Those same firms may also offer [property management](https://www.investopedia.com/terms/p/property-management.asp) services to buyers, minimizing the amount of time and effort they have to put into the rental.
+A turnkey property is a fully renovated home or apartment building that an [[investor]](https://www.investopedia.com/terms/i/investor.asp) can purchase and immediately rent out. A turnkey home is often a property purchased from a company that specializes in the restoration of older properties. Those same firms may also offer [[property management]](https://www.investopedia.com/terms/p/property-management.asp) services to buyers, minimizing the amount of time and effort they have to put into the rental.
 
 ## How a Turnkey Property Works
 
@@ -28,7 +28,7 @@ Turnkey properties grew in popularity following the housing market decline of 20
 -   Turnkey homes have become popular investments.
 -   New buyers usually rent out the properties to generate revenue.
 
-This investment approach is especially appealing to individuals who desire exposure to the [real estate](https://www.investopedia.com/terms/r/realestate.asp) market but who do not have the time or ability/interest to renovate a home or handle maintenance issues. In most cases, the investor will hire a separate company to manage the property. Often, there will already be a tenant in the property when it changes hands, simplifying matters for the investor even further.
+This investment approach is especially appealing to individuals who desire exposure to the [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) market but who do not have the time or ability/interest to renovate a home or handle maintenance issues. In most cases, the investor will hire a separate company to manage the property. Often, there will already be a tenant in the property when it changes hands, simplifying matters for the investor even further.
 
 The term _turnkey property_ is not used solely by investors, however. In marketing literature, realty companies sometimes use the phrase to describe any renovated, move-in ready home that is up for sale. While some homebuyers relish the thought of renovating a property themselves, those with busy lifestyles, or who lack home improvement skills, may prefer a turnkey property that needs no work.
 

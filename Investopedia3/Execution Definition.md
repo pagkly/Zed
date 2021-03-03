@@ -16,7 +16,7 @@ author: James Chen
 Execution Definition
 ## What is an Execution?
 
-Execution is the completion of a buy or sell order for a security. The execution of an order occurs when it gets [filled](https://www.investopedia.com/terms/f/fill.asp), not when the investor places it. When the investor submits the trade, it is sent to a broker, who then determines the best way for it to be executed.
+Execution is the completion of a buy or sell order for a security. The execution of an order occurs when it gets [[filled]](https://www.investopedia.com/terms/f/fill.asp), not when the investor places it. When the investor submits the trade, it is sent to a broker, who then determines the best way for it to be executed.
 
 ### Key Takeaways
 
@@ -26,16 +26,16 @@ Execution is the completion of a buy or sell order for a security. The execution
 
 ## Understanding Execution
 
-Brokers are required by law to give investors the best execution possible. The [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) requires brokers to report the quality of their executions on a stock by stock basis as well as notifying customers who did not have their orders routed for best execution.1 The cost of executing trades has significantly reduced due to the growth of online brokers. Many brokers offer their customers a commission rebate if they execute a certain amount of trades or dollar value per month. This is particularly important for short-term traders where execution costs need to be kept as low as possible.
+Brokers are required by law to give investors the best execution possible. The [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) requires brokers to report the quality of their executions on a stock by stock basis as well as notifying customers who did not have their orders routed for best execution.1 The cost of executing trades has significantly reduced due to the growth of online brokers. Many brokers offer their customers a commission rebate if they execute a certain amount of trades or dollar value per month. This is particularly important for short-term traders where execution costs need to be kept as low as possible.
 
 If the order placed is a market order or an order which can be converted into a market order relatively quickly, then the chances that it will be settled at the desired price are high. But there might be instances, especially in the case of a large order that is broken down into several small orders, when it might be difficult to execute at the best possible price range. In such cases, an execution risk is introduced into the system. The risk refers to the lag between the placement of an order and its settlement.
 
 ## How Orders get Executed
 
 -   **Order to the Floor:** This can be time-consuming because a human trader processes the transaction. The floor broker needs to receive the order and fill it.
--   **Order to Market Maker:** On exchanges such as the Nasdaq, [market makers](https://www.investopedia.com/terms/m/marketmaker.asp) are responsible for providing liquidity. The investor's broker may direct the trade to one of these market makers for execution.
+-   **Order to Market Maker:** On exchanges such as the Nasdaq, [[market makers]](https://www.investopedia.com/terms/m/marketmaker.asp) are responsible for providing liquidity. The investor's broker may direct the trade to one of these market makers for execution.
 -   **Electronic Communications Network (ECN):** An efficient method, whereby computer systems electronically match up buy and sell orders.
--   **Internalization:** If the broker holds an inventory of the stock in question, it may decide to execute the order [in-house](https://www.investopedia.com/terms/i/in-house.asp). Brokers refer to this as an internal crossing.
+-   **Internalization:** If the broker holds an inventory of the stock in question, it may decide to execute the order [[in-house]](https://www.investopedia.com/terms/i/in-house.asp). Brokers refer to this as an internal crossing.
 
 ## Best Execution and Broker Obligations
 
@@ -51,7 +51,7 @@ Additionally, the SEC requires broker/dealers to notify their customers if their
 
 ## Execution and Dark Pools
 
-[Dark pools](https://www.investopedia.com/terms/d/dark-pool.asp) are private exchanges or forums that are designed to help institutional investors execute their large orders by not disclosing their quantity. Because dark pools are primarily used by institutions, it is often easier finding liquidity to execute a block trade at a better price than if it was executed on a public exchange, such as the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp) or New York Stock Exchange. If an institutional trader places a sizable order on a public exchange, it is visible in the order book and other investors may discover that there is a large buy or sell order getting executed which could push the price of the stock lower.
+[Dark pools](https://www.investopedia.com/terms/d/dark-pool.asp) are private exchanges or forums that are designed to help institutional investors execute their large orders by not disclosing their quantity. Because dark pools are primarily used by institutions, it is often easier finding liquidity to execute a block trade at a better price than if it was executed on a public exchange, such as the [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp) or New York Stock Exchange. If an institutional trader places a sizable order on a public exchange, it is visible in the order book and other investors may discover that there is a large buy or sell order getting executed which could push the price of the stock lower.
 
 Most dark pools also offer execution at the mid-point of the bid and ask price which helps brokers achieve the best possible execution for their customers. For example, if a stock’s bid price was $100 and the asking price was $101, a market order could get executed at $100.50 if there was a seller at that price in the dark pool. Main street is generally skeptical of dark pools due to their lack of transparency and lack of access to retail investors.
 

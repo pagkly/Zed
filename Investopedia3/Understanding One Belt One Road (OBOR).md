@@ -26,7 +26,7 @@ One Belt One Road (OBOR), the brainchild of Chinese President Xi Jinping, is an
 
 ## How One Belt One Road Works
 
-Initially announced in the year 2013 with the purpose of restoring the ancient [Silk Route](https://www.investopedia.com/terms/s/silk-route.asp) that connected Asia and Europe, the project's scope has been expanded over the years to include new territories and development initiatives. Also called the Belt and Road Initiative (BRI), the project involves building a big network of roadways, railways, maritime ports, power grids, oil and gas pipelines, and associated infrastructure projects.
+Initially announced in the year 2013 with the purpose of restoring the ancient [[Silk Route]](https://www.investopedia.com/terms/s/silk-route.asp) that connected Asia and Europe, the project's scope has been expanded over the years to include new territories and development initiatives. Also called the Belt and Road Initiative (BRI), the project involves building a big network of roadways, railways, maritime ports, power grids, oil and gas pipelines, and associated infrastructure projects.
 
 The project covers two parts. The first is called the “Silk Road Economic Belt,” which is primarily land-based and is expected to connect China with Central Asia, Eastern Europe, and Western Europe. The second is called the “21st Century Maritime Silk Road,” which is sea-based and is expected to will China’s southern coast to the Mediterranean, Africa, South-East Asia, and Central Asia. The names are confusing as the ‘Belt’ is actually a network of roads, and the ‘Road’ is a sea route.
 
@@ -47,7 +47,7 @@ OBOR spans over 78 countries.
 
 ## Special Considerations: OBOR’s Importance to China
 
-OBOR is of prime significance to [China](https://www.investopedia.com/articles/investing/042815/fundamentals-how-china-makes-its-money.asp) as it aims to boost its domestic growth and is also a part of the country’s strategy for economic diplomacy. By connecting the less-developed border regions like Xinjiang with neighboring nations, China expects to bump up economic activity. OBOR is expected to open up and create new markets for Chinese goods. It would also enable the manufacturing powerhouse to gain control of cost-effective routes to export materials easily.
+OBOR is of prime significance to [[China]](https://www.investopedia.com/articles/investing/042815/fundamentals-how-china-makes-its-money.asp) as it aims to boost its domestic growth and is also a part of the country’s strategy for economic diplomacy. By connecting the less-developed border regions like Xinjiang with neighboring nations, China expects to bump up economic activity. OBOR is expected to open up and create new markets for Chinese goods. It would also enable the manufacturing powerhouse to gain control of cost-effective routes to export materials easily.
 
 Any excess capacity in terms of production can be channelized effectively to regions along OBOR routes. China has announced investments of over $1 trillion in the various infrastructure projects and is funding them by offering low-cost loans to the participating countries.
 
@@ -55,4 +55,4 @@ Many participating countries, like Kyrgyzstan and Tajikistan, support the OBOR d
 
 While China continues to pitch OBOR as an all-inclusive project for regional development, other nations perceive it as a strategic move by the Asian powerhouse to attain significance and control at a regional level and to play a larger role at the global level by building and controlling a China-focused trading network.
 
-China sees this venture as an opportunity to emerge as a regional leader. In the future, we may see a boost in the [Chinese yuan](https://www.investopedia.com/terms/forex/c/cny-china-yuan-renminbi.asp), with increased usage in the OBOR region.
+China sees this venture as an opportunity to emerge as a regional leader. In the future, we may see a boost in the [[Chinese yuan]](https://www.investopedia.com/terms/forex/c/cny-china-yuan-renminbi.asp), with increased usage in the OBOR region.

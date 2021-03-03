@@ -16,7 +16,7 @@ author: Jake Frankenfield
 How Data Analytics Work
 ## What Is Data Analytics?
 
-Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and [algorithms](https://www.investopedia.com/terms/a/algorithm.asp) that work over raw data for human consumption.
+Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and [[algorithms]](https://www.investopedia.com/terms/a/algorithm.asp) that work over raw data for human consumption.
 
 Data analytics techniques can reveal trends and metrics that would otherwise be lost in the mass of information. This information can then be used to optimize processes to increase the overall efficiency of a business or system.
 
@@ -24,9 +24,9 @@ Data analytics techniques can reveal trends and metrics that would otherwise be 
 
 Data analytics is a broad term that encompasses many diverse types of data analysis. Any type of information can be subjected to data analytics techniques to get insight that can be used to improve things.
 
-For example, [manufacturing](https://www.investopedia.com/terms/m/manufacturing.asp) companies often record the runtime, downtime, and work queue for various machines and then analyze the data to better plan the workloads so the machines operate closer to peak capacity.
+For example, [[manufacturing]](https://www.investopedia.com/terms/m/manufacturing.asp) companies often record the runtime, downtime, and work queue for various machines and then analyze the data to better plan the workloads so the machines operate closer to peak capacity.
 
-Data analytics can do much more than point out [bottlenecks](https://www.investopedia.com/terms/b/bottleneck.asp) in production. Gaming companies use data analytics to set reward schedules for players that keep the majority of players active in the game. Content companies use many of the same data analytics to keep you clicking, watching, or re-organizing content to get another view or another click.
+Data analytics can do much more than point out [[bottlenecks]](https://www.investopedia.com/terms/b/bottleneck.asp) in production. Gaming companies use data analytics to set reward schedules for players that keep the majority of players active in the game. Content companies use many of the same data analytics to keep you clicking, watching, or re-organizing content to get another view or another click.
 
 The process involved in data analysis involves several different steps:
 
@@ -39,7 +39,7 @@ The process involved in data analysis involves several different steps:
 
 ## _Key Takeaways_
 
--   _Data analytics is the [science of analyzing raw data](https://www.investopedia.com/terms/d/data-science.asp) in order to make conclusions about that information._
+-   _Data analytics is the [[science of analyzing raw data]](https://www.investopedia.com/terms/d/data-science.asp) in order to make conclusions about that information._
 -   _The techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption._
 -   _Data analytics help a business optimize its performance._
 
@@ -58,10 +58,10 @@ Data analytics is broken down into four basic types.
 3.  **Predictive analytics** moves to what is likely going to happen in the near term. What happened to sales the last time we had a hot summer? How many weather models predict a hot summer this year?
 4.  **Prescriptive analytics** suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.
 
-Data analytics underpins many quality control systems in the financial world, including the ever-popular [Six Sigma](https://www.investopedia.com/terms/s/six-sigma.asp) program. If you aren’t properly measuring something—whether it's your weight or the number of defects per million in a production line—it is nearly impossible to optimize it.
+Data analytics underpins many quality control systems in the financial world, including the ever-popular [[Six Sigma]](https://www.investopedia.com/terms/s/six-sigma.asp) program. If you aren’t properly measuring something—whether it's your weight or the number of defects per million in a production line—it is nearly impossible to optimize it.
 
 ## Special Considerations: Who's Using Data Analytics? 
 
-Some of the [sectors](https://www.investopedia.com/terms/s/sector.asp) that have adopted the use of data analytics include the travel and hospitality industry, where turnarounds can be quick. This industry can collect customer data and figure out where the problems, if any, lie and how to fix them.
+Some of the [[sectors]](https://www.investopedia.com/terms/s/sector.asp) that have adopted the use of data analytics include the travel and hospitality industry, where turnarounds can be quick. This industry can collect customer data and figure out where the problems, if any, lie and how to fix them.
 
 Healthcare combines the use of high volumes of structured and unstructured data and uses data analytics to make quick decisions. Similarly, the retail industry uses copious amounts of data to meet the ever-changing demands of shoppers. The information retailers collect and analyze can help them identify trends, recommend products, and increase profits.

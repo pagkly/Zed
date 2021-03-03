@@ -46,7 +46,7 @@ Debt issuance for all 11 banks is managed by the FHLB Office of Finance. While d
 
 FHLBs also offer credit through various programs. They include the Affordable Housing Program, the Community Investment Program, the Mortgage Partnership Finance Program, and the Mortgage Purchase Program.
 
-The [Federal Housing Finance Agency](https://www.investopedia.com/terms/f/fhfa.asp) is the government bureau charged with FHLB oversight.
+The [[Federal Housing Finance Agency]](https://www.investopedia.com/terms/f/fhfa.asp) is the government bureau charged with FHLB oversight.
 
 ### More than 7,000
 

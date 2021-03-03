@@ -16,7 +16,7 @@ author: Will Kenton
 Special Drawing Rights (SDR)
 ## What Are Special Drawing Rights (SDR)?
 
-Special drawing rights (SDR) refer to an international type of [monetary reserve](https://www.investopedia.com/terms/m/monetary-reserve.asp) currency created by the [International Monetary Fund](https://www.investopedia.com/terms/i/imf.asp) (IMF) in 1969 that operates as a supplement to the existing money reserves of member countries. Created in response to concerns about the limitations of gold and dollars as the sole means of settling international accounts, SDRs augment international [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) by supplementing the standard reserve currencies.1
+Special drawing rights (SDR) refer to an international type of [[monetary reserve]](https://www.investopedia.com/terms/m/monetary-reserve.asp) currency created by the [[International Monetary Fund]](https://www.investopedia.com/terms/i/imf.asp) (IMF) in 1969 that operates as a supplement to the existing money reserves of member countries. Created in response to concerns about the limitations of gold and dollars as the sole means of settling international accounts, SDRs augment international [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) by supplementing the standard reserve currencies.1
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Special drawing rights (SDR) refer to an international type of [monetary reserve
 
 ## Understanding Special Drawing Rights (SDR)
 
-An SDR is essentially an artificial currency instrument used by the IMF and is built from a basket of important [national currencies](https://www.investopedia.com/terms/n/national-currency.asp). The IMF uses SDRs for internal accounting purposes. SDRs are allocated by the IMF to its member countries and are backed by the [full faith and credit](https://www.investopedia.com/terms/f/full-faith-credit.asp) of the member countries' governments. The makeup of the SDR is re-evaluated every five years.1 The current makeup of the SDR is represented by the following table:
+An SDR is essentially an artificial currency instrument used by the IMF and is built from a basket of important [[national currencies]](https://www.investopedia.com/terms/n/national-currency.asp). The IMF uses SDRs for internal accounting purposes. SDRs are allocated by the IMF to its member countries and are backed by the [[full faith and credit]](https://www.investopedia.com/terms/f/full-faith-credit.asp) of the member countries' governments. The makeup of the SDR is re-evaluated every five years.1 The current makeup of the SDR is represented by the following table:
 
 **Currency**
 
@@ -64,13 +64,13 @@ Pound Sterling
 
 0.085946
 
-The SDR was formed with a vision of becoming a major element of international reserves, with gold and reserve currencies forming a minor incremental component of such reserves. This consisted of [central bank](https://www.investopedia.com/terms/c/centralbank.asp) or government reserves of gold and globally accepted foreign currencies that could be used to buy the local currency in foreign exchange markets to maintain a stable [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp).
+The SDR was formed with a vision of becoming a major element of international reserves, with gold and reserve currencies forming a minor incremental component of such reserves. This consisted of [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) or government reserves of gold and globally accepted foreign currencies that could be used to buy the local currency in foreign exchange markets to maintain a stable [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp).
 
 However, the international supply of the U.S. dollar and gold—the two main reserve assets—wasn’t sufficient to support growth in global trade and the related financial transactions that were taking place. This prompted member countries to form an international reserve asset under the guidance of the IMF.
 
-In 1973, a few years after the SDR was created, the Bretton Woods system imploded, moving major currencies to the floating exchange rate system.3 In time, international [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp) expanded considerably, enabling creditworthy governments to borrow funds. This saw many governments register exponential growth in their international reserves. These developments diminished the stature of the SDR as a global [reserve currency](https://www.investopedia.com/terms/r/reservecurrency.asp).1
+In 1973, a few years after the SDR was created, the Bretton Woods system imploded, moving major currencies to the floating exchange rate system.3 In time, international [[capital markets]](https://www.investopedia.com/terms/c/capitalmarkets.asp) expanded considerably, enabling creditworthy governments to borrow funds. This saw many governments register exponential growth in their international reserves. These developments diminished the stature of the SDR as a global [[reserve currency]](https://www.investopedia.com/terms/r/reservecurrency.asp).1
 
-Besides acting as an auxiliary reserve asset, and though its stature has diminished, the SDR is the unit of account for the IMF. Its value, which is summed up in U.S. dollars, is calculated from a [weighted](https://www.investopedia.com/terms/w/weighted.asp) basket of major currencies: the Japanese yen, the U.S. dollar, the Chinese yuan, the pound sterling, and the euro.1
+Besides acting as an auxiliary reserve asset, and though its stature has diminished, the SDR is the unit of account for the IMF. Its value, which is summed up in U.S. dollars, is calculated from a [[weighted]](https://www.investopedia.com/terms/w/weighted.asp) basket of major currencies: the Japanese yen, the U.S. dollar, the Chinese yuan, the pound sterling, and the euro.1
 
 ## Requirements of Special Drawing Rights (SDR)
 
@@ -86,10 +86,10 @@ Determining what is "freely usable" is gauged on metrics such as the number of s
 
 The SDR isn’t regarded as a currency or a claim against the IMF assets. Instead, it is a prospective claim against the freely usable currencies that belong to the IMF member states. The Articles of Agreement of the IMF define a freely usable currency as one that is widely used in international transactions and is frequently traded in foreign exchange markets.5
 
-The IMF member states that hold SDRs can exchange them for freely usable currencies by either agreeing among themselves to voluntary [swaps](https://www.investopedia.com/terms/s/swap.asp) or by the IMF instructing countries with stronger economies or larger foreign currency reserves to buy SDRs from the less-endowed members.6 IMF member countries can borrow SDRs from its reserves at favorable [interest rates](https://www.imf.org/external/np/fin/data/rms_sdrv.aspx), mostly to adjust their [balance of payments](https://www.investopedia.com/terms/b/bop.asp) to favorable positions.
+The IMF member states that hold SDRs can exchange them for freely usable currencies by either agreeing among themselves to voluntary [[swaps]](https://www.investopedia.com/terms/s/swap.asp) or by the IMF instructing countries with stronger economies or larger foreign currency reserves to buy SDRs from the less-endowed members.6 IMF member countries can borrow SDRs from its reserves at favorable [[interest rates]](https://www.imf.org/external/np/fin/data/rms_sdrv.aspx), mostly to adjust their [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp) to favorable positions.
 
 ## The Special Drawing Rights (SDR) Interest Rate
 
 The interest rate on SDRs, or the SDRi, provides the basis for calculating the interest rate that is charged to member countries when they borrow from the IMF and paid to members for their remunerated creditor positions in the IMF. It is also the interest paid to member countries on their own SDR holdings and charged on their SDR allocation.1
 
-The SDRi is determined weekly based on a weighted average of representative interest rates on short-term government debt instruments in the money markets of the SDR basket currencies, with a [floor](https://www.investopedia.com/terms/i/interestratefloor.asp) of five basis points. It is posted on the IMF website.78
+The SDRi is determined weekly based on a weighted average of representative interest rates on short-term government debt instruments in the money markets of the SDR basket currencies, with a [[floor]](https://www.investopedia.com/terms/i/interestratefloor.asp) of five basis points. It is posted on the IMF website.78

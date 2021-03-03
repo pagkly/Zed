@@ -26,11 +26,11 @@ A healthcare power of attorney (HCPA) is a legal document that allows an individ
 
 ## Understanding Healthcare Power of Attorney
 
-The healthcare [power of attorney](https://www.investopedia.com/terms/p/powerofattorney.asp) helps people who cannot communicate to exert their wishes regarding their medical care and treatment. The persons listed on the HCPA document become the sick or injured person's agent or [healthcare proxy](https://www.investopedia.com/terms/p/proxydirective.asp). Usually, the form asks for alternates in case the first-named HCPA is not available to serve in this capacity. Each state might differ in this and other such details, however, so you'll need to consult your own state's rules and forms when arranging for an HCPA.
+The healthcare [[power of attorney]](https://www.investopedia.com/terms/p/powerofattorney.asp) helps people who cannot communicate to exert their wishes regarding their medical care and treatment. The persons listed on the HCPA document become the sick or injured person's agent or [[healthcare proxy]](https://www.investopedia.com/terms/p/proxydirective.asp). Usually, the form asks for alternates in case the first-named HCPA is not available to serve in this capacity. Each state might differ in this and other such details, however, so you'll need to consult your own state's rules and forms when arranging for an HCPA.
 
 Healthcare proxies can communicate with the patient's doctors to prevent unwanted treatments and avoid making the wrong decisions. They also have the power to make medical decisions for the person who is incapacitated. Writing an HCPA is straightforward—you fill out a form and have it notarized. Moreover, you can change or revoke who you want to be your healthcare proxy at any time by simply destroying the old HCPA and completing a new one.
 
-Anyone may serve as a healthcare power of attorney, or an [attorney-in-fact](https://www.investopedia.com/terms/a/attorneyinfact.asp). Your HCPA can have any type of relationship with you— this person might be your friend, partner, lover, relative, or colleague for example. You are free to choose anybody, so long as you trust them and feel that they are competent.
+Anyone may serve as a healthcare power of attorney, or an [[attorney-in-fact]](https://www.investopedia.com/terms/a/attorneyinfact.asp). Your HCPA can have any type of relationship with you— this person might be your friend, partner, lover, relative, or colleague for example. You are free to choose anybody, so long as you trust them and feel that they are competent.
 
 The healthcare power of attorney serves a vital function during both periodic illnesses and at the end of life.
 
@@ -38,7 +38,7 @@ The healthcare power of attorney serves a vital function during both periodic il
 
 ### Making Life Better
 
-Imagine that _you_ are the sick person cited above. Not only are you sick, but you're also debilitated—you can't speak or move, and possibly can't even think. What might this look like? You might be in such terrible pain that you literally cannot speak. Maybe you are unconscious as the result of an accident. Perhaps you are a [terminally ill](https://www.investopedia.com/terms/t/terminallyill.asp) patient who has entered into a coma. If you've ever found yourself in these types of situations, and come out alive, you likely would have been grateful that your HCPA was in place to communicate with your doctors and others for the sake of your wellbeing.
+Imagine that _you_ are the sick person cited above. Not only are you sick, but you're also debilitated—you can't speak or move, and possibly can't even think. What might this look like? You might be in such terrible pain that you literally cannot speak. Maybe you are unconscious as the result of an accident. Perhaps you are a [[terminally ill]](https://www.investopedia.com/terms/t/terminallyill.asp) patient who has entered into a coma. If you've ever found yourself in these types of situations, and come out alive, you likely would have been grateful that your HCPA was in place to communicate with your doctors and others for the sake of your wellbeing.
 
 ### Making Death Better
 
@@ -74,8 +74,8 @@ Not everyone has an HCPA, but if more people understood this term, perhaps they 
 
 ## How to Set Up an HCPA
 
-To appoint someone as your healthcare power of attorney, you may fill out a form that names the individual along with any stipulations that you wish them to have regarding your medical care. The form will also list any special requests you may have, such as asking for a [do-not-resuscitate](https://www.investopedia.com/terms/a/advancedirective.asp) (DNR) order and avoiding interventions that will extend your life.
+To appoint someone as your healthcare power of attorney, you may fill out a form that names the individual along with any stipulations that you wish them to have regarding your medical care. The form will also list any special requests you may have, such as asking for a [[do-not-resuscitate]](https://www.investopedia.com/terms/a/advancedirective.asp) (DNR) order and avoiding interventions that will extend your life.
 
 Some states—namely Indiana, New Hampshire, Ohio, Texas, and Wisconsin—do not permit a universal power-of-attorney form and require that you use their state-specific form instead to designate your power of attorney.
 
-Some states also require witnesses to be present if the individual is in a nursing home or care facility. A basic healthcare power of attorney form will require you to list your name, birthday, date, and the identifying information of the individual that you are naming. You can also name two back-up agents in the event that your first preference is not available or unwilling to take on the role. Unless you live in Missouri, North Carolina, South Carolina, or West Virginia, states require the form to be [notarized](https://www.investopedia.com/terms/n/notarize.asp). The healthcare power of attorney takes effect immediately once the paperwork is signed.
+Some states also require witnesses to be present if the individual is in a nursing home or care facility. A basic healthcare power of attorney form will require you to list your name, birthday, date, and the identifying information of the individual that you are naming. You can also name two back-up agents in the event that your first preference is not available or unwilling to take on the role. Unless you live in Missouri, North Carolina, South Carolina, or West Virginia, states require the form to be [[notarized]](https://www.investopedia.com/terms/n/notarize.asp). The healthcare power of attorney takes effect immediately once the paperwork is signed.

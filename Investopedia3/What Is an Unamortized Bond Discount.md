@@ -16,7 +16,7 @@ author: Will Kenton and Troy Segal
 What Is an Unamortized Bond Discount?
 ## What Is an Unamortized Bond Discount?
 
-An unamortized bond discount is an accounting methodology for certain bonds. The unamortized [bond discount](https://www.investopedia.com/terms/b/bond-discount.asp) is the difference between the par value of a bond—its value at maturity—and the proceeds from the sale of the bond by the issuing company, less the portion that has already been amortized (written off in gradual increments) on the [profit and loss statement](https://www.investopedia.com/terms/p/plstatement.asp).
+An unamortized bond discount is an accounting methodology for certain bonds. The unamortized [[bond discount]](https://www.investopedia.com/terms/b/bond-discount.asp) is the difference between the par value of a bond—its value at maturity—and the proceeds from the sale of the bond by the issuing company, less the portion that has already been amortized (written off in gradual increments) on the [[profit and loss statement]](https://www.investopedia.com/terms/p/plstatement.asp).
 
 ### key takeaways
 
@@ -26,11 +26,11 @@ An unamortized bond discount is an accounting methodology for certain bonds. The
 
 ## How Unamortized Bond Discount Works
 
-The discount refers to the difference in the cost to purchase a bond (its market price) and its par, or [face, value](https://www.investopedia.com/terms/f/facevalue.asp). The issuing company can choose to expense the entire amount of the discount or can handle the discount as an asset to be amortized. Any amount that has yet to be expensed is referred to as the unamortized bond discount.
+The discount refers to the difference in the cost to purchase a bond (its market price) and its par, or [[face, value]](https://www.investopedia.com/terms/f/facevalue.asp). The issuing company can choose to expense the entire amount of the discount or can handle the discount as an asset to be amortized. Any amount that has yet to be expensed is referred to as the unamortized bond discount.
 
 A bond discount to par value occurs when the current interest rate associated with a bond is lower than the market interest rate of issues of similar credit risk. If on the date a bond is sold, the listed bond's coupon or interest rate is below current market rates; investors will only agree to purchase the bond at a "discount" from its face value.
 
-Because bond prices and interest rates are inversely related, as interest rates move after bond issuance, bond's will be said to be trading at a premium or a discount to their par or maturity values. In the case of bond discounts, they usually reflect an environment in which interest rates have risen since a bond's issuance. Because the bond's [coupon](https://www.investopedia.com/terms/c/coupon.asp) or interest rate is now below market rates, and investors can get better deals (and better yields) with new issues, those selling the bond have to, in effect, mark it down to make it more appealing to buyers. So the bond will be priced at a discount to its par value.
+Because bond prices and interest rates are inversely related, as interest rates move after bond issuance, bond's will be said to be trading at a premium or a discount to their par or maturity values. In the case of bond discounts, they usually reflect an environment in which interest rates have risen since a bond's issuance. Because the bond's [[coupon]](https://www.investopedia.com/terms/c/coupon.asp) or interest rate is now below market rates, and investors can get better deals (and better yields) with new issues, those selling the bond have to, in effect, mark it down to make it more appealing to buyers. So the bond will be priced at a discount to its par value.
 
 ## Accounting for the Unamortized Bon Discount
 
@@ -44,4 +44,4 @@ A bond's unamortized discount to par will:
 
 ## Unamoritzed Bond Premium
 
-The flip side or an unamortized bond discount is an [unamortized bond premium](https://www.investopedia.com/terms/u/unamortized-bond-premium.asp). A [bond premium](https://www.investopedia.com/terms/p/premiumbond.asp) is a bond that is priced higher than its face value. Unamortized bond premium refers to the amount between the face value and the higher amount the bond was sold at, minus the interest.The unamortized bond premium is the part of the overall bond premium that the issuer will amortize—that is, write off incrementally against expenses in the future. The amortized amount of this bond is credited as an [interest expense](https://www.investopedia.com/terms/i/interestexpense.asp).
+The flip side or an unamortized bond discount is an [[unamortized bond premium]](https://www.investopedia.com/terms/u/unamortized-bond-premium.asp). A [[bond premium]](https://www.investopedia.com/terms/p/premiumbond.asp) is a bond that is priced higher than its face value. Unamortized bond premium refers to the amount between the face value and the higher amount the bond was sold at, minus the interest.The unamortized bond premium is the part of the overall bond premium that the issuer will amortize—that is, write off incrementally against expenses in the future. The amortized amount of this bond is credited as an [[interest expense]](https://www.investopedia.com/terms/i/interestexpense.asp).

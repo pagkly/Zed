@@ -20,7 +20,7 @@ A historic structure is a sub-category of a historic property as designated by t
 
 ## Understanding Historic Structure
 
-Historic structures may have unique architectural features or political meaning. Areas with a large number of historic structures may be designated as historic districts.3 Property owners in historic districts generally face special rules and restrictions on the maintenance of and alterations to the property. Sometimes grant money or [tax credits](https://www.investopedia.com/terms/t/taxcredit.asp) are available to restore historic structures in disrepair.4 5
+Historic structures may have unique architectural features or political meaning. Areas with a large number of historic structures may be designated as historic districts.3 Property owners in historic districts generally face special rules and restrictions on the maintenance of and alterations to the property. Sometimes grant money or [[tax credits]](https://www.investopedia.com/terms/t/taxcredit.asp) are available to restore historic structures in disrepair.4 5
 
 A historic structure is an official designation by the National Register of Historic Places. The National Register designates historic properties, including buildings, structures, objects, sites, and districts. Historic properties, including historic structures, can be officially registered as historic with the National Park Service and placed on the National Register of Historic Places by petitioning the State Historic Preservation Office where the structure is located. The petition contains information about the property's historic and current functions, architectural classification and materials and other details. To be listed, the property must meet at least one of four key National Register criteria.64
 

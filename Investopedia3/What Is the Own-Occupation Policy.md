@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is the Own-Occupation Policy?
 ## What is an Own-Occupation Policy?
 
-An own-occupation insurance policy covers individuals who become disabled and are unable to perform the majority of the occupational duties that they have been trained to perform. This type of insurance policy is contingent on the individual being employed at the time the [disability](https://www.investopedia.com/terms/d/disability-insurance.asp) occurs. Own-occupation insurance policies are also known as a "pure own-occupational policy" and "own-occupation disability insurance" in some circles. Doctors will often purchase these policies for protection against injuries.
+An own-occupation insurance policy covers individuals who become disabled and are unable to perform the majority of the occupational duties that they have been trained to perform. This type of insurance policy is contingent on the individual being employed at the time the [[disability]](https://www.investopedia.com/terms/d/disability-insurance.asp) occurs. Own-occupation insurance policies are also known as a "pure own-occupational policy" and "own-occupation disability insurance" in some circles. Doctors will often purchase these policies for protection against injuries.
 
 ## How Own-Occupation Policy Works
 
@@ -34,7 +34,7 @@ Under the own-occupation disability insurance definition, a policyholder will r
 
 The definition of own-occupation depends on an important aspect of an insurance policy, namely how the insurance contract defines "disabled" as a status.
 
-Sometimes, if a person isn't working at the time they are disabled, they will not be able to [claim insurance](https://www.investopedia.com/terms/i/insurance_claim.asp) under a conventional own-occupation policy. However, if they are covered under a modified own-occupational policy, they will be covered. Under a modified policy, the definition of "disabled" includes persons not working at the time of their disablement. These types of insurance policies apply to highly trained individuals, such as surgeons.
+Sometimes, if a person isn't working at the time they are disabled, they will not be able to [[claim insurance]](https://www.investopedia.com/terms/i/insurance_claim.asp) under a conventional own-occupation policy. However, if they are covered under a modified own-occupational policy, they will be covered. Under a modified policy, the definition of "disabled" includes persons not working at the time of their disablement. These types of insurance policies apply to highly trained individuals, such as surgeons.
 
 ## Example of an Own-Occupation Policy
 

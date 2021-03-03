@@ -16,7 +16,7 @@ author: James Chen
 Cup and Handle
 ## What Is A Cup And Handle?
 
-A cup and handle price pattern on a security's price chart is a [technical indicator](https://www.investopedia.com/terms/t/technicalindicator.asp) that resembles a cup with a handle, where the cup is in the shape of a "u" and the handle has a slight downward drift. The cup and handle is considered a bullish signal, with the right-hand side of the pattern typically experiencing lower trading volume. The pattern's formation may be as short as seven weeks or as long as 65 weeks.
+A cup and handle price pattern on a security's price chart is a [[technical indicator]](https://www.investopedia.com/terms/t/technicalindicator.asp) that resembles a cup with a handle, where the cup is in the shape of a "u" and the handle has a slight downward drift. The cup and handle is considered a bullish signal, with the right-hand side of the pattern typically experiencing lower trading volume. The pattern's formation may be as short as seven weeks or as long as 65 weeks.
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ A cup and handle price pattern on a security's price chart is a [technical indic
 
 American technician William J. O'Neil defined the cup and handle (C&H) pattern in his 1988 classic, "How to Make Money in Stocks," adding technical requirements through a series of articles published in Investor’s Business Daily, which he founded in 1984.1 2 O'Neil included time frame measurements for each component, as well as a detailed description of the rounded lows that give the pattern its unique tea cup appearance.
 
-As a stock forming this pattern tests old highs, it is likely to incur selling pressure from investors who previously bought at those levels; selling pressure is likely to make price consolidate with a tendency toward a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp) trend for a period of four days to four weeks, before advancing higher. A cup and handle is considered a bullish continuation pattern and is used to identify buying opportunities.
+As a stock forming this pattern tests old highs, it is likely to incur selling pressure from investors who previously bought at those levels; selling pressure is likely to make price consolidate with a tendency toward a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) trend for a period of four days to four weeks, before advancing higher. A cup and handle is considered a bullish continuation pattern and is used to identify buying opportunities.
 
 It is worth considering the following when detecting cup and handle patterns:
 
--   Length: Generally, cups with longer and more "U" shaped bottoms provide a stronger signal. Avoid cups with a sharp "V" [bottoms](https://www.investopedia.com/terms/b/bottom.asp).
+-   Length: Generally, cups with longer and more "U" shaped bottoms provide a stronger signal. Avoid cups with a sharp "V" [[bottoms]](https://www.investopedia.com/terms/b/bottom.asp).
 -   Depth: Ideally, the cup should not be overly deep. Avoid handles that are overly deep also, as handles should form in the top half of the cup pattern.
 -   Volume: Volume should decrease as prices decline and remain lower than average in the base of the bowl; it should then increase when the stock begins to make its move higher, back up to test the previous high.
 
-A retest of previous resistance is not required to touch or come within several [ticks](https://www.investopedia.com/terms/t/tick.asp) of the old high; however, the further the top of the handle is away from the highs, the more significant the breakout needs to be.
+A retest of previous resistance is not required to touch or come within several [[ticks]](https://www.investopedia.com/terms/t/tick.asp) of the old high; however, the further the top of the handle is away from the highs, the more significant the breakout needs to be.
 
 ## Example Of How To Use The Cup And Handle
 
@@ -44,7 +44,7 @@ The image below depicts a classic cup and handle formation. Place a stop buy ord
 
 Image by Julie Bang © Investopedia 2020
 
-A profit target is determined by measuring the distance between the bottom of the cup and the pattern’s breakout level, and extending that distance upward from the breakout. For example, if the distance between the bottom of the cup and handle breakout level is 20 points, a profit target is placed 20 points above the pattern's handle. [Stop loss orders](https://www.investopedia.com/terms/s/stop-lossorder.asp) may be placed either below the handle or below the cup depending on the trader’s risk tolerance and market volatility.
+A profit target is determined by measuring the distance between the bottom of the cup and the pattern’s breakout level, and extending that distance upward from the breakout. For example, if the distance between the bottom of the cup and handle breakout level is 20 points, a profit target is placed 20 points above the pattern's handle. [[Stop loss orders]](https://www.investopedia.com/terms/s/stop-lossorder.asp) may be placed either below the handle or below the cup depending on the trader’s risk tolerance and market volatility.
 
 Now let's consider a real-world historical example using Wynn Resorts, Limited ([WYNN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wynn)), which went public on the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp) exchange near $13 in October 2002 and rose to $154 five years later.3 4 The subsequent decline ended within two points of the [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO) price, far exceeding O'Neil's requirement for a shallow cup high in the prior trend. The subsequent recovery wave reached the prior high in 2011, nearly 10 years after the first print. The handle follows the classic pullback expectation, finding support at the 50% retracement in a rounded shape, and returns to the high for a second time 14 months later. The stock broke out in October 2013 and added 90 points in the following five months.5
 

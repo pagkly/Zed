@@ -28,13 +28,13 @@ Overall turnover is a synonym for a company’s total revenues. It is a term tha
 
 In the United States, companies use revenue or sales to describe turnover. If the overall inventory turnover for an American manufacturing company is 10, it means that the company as a whole generated $10 in revenues for every $1 of assets.
 
-Overall turnover, in the North American context, may also refer to certain metrics, such as labor [turnover](https://www.investopedia.com/terms/t/turnover.asp) or asset turnover for an organization as a whole, as opposed to measuring them for a specific division or business unit.
+Overall turnover, in the North American context, may also refer to certain metrics, such as labor [[turnover]](https://www.investopedia.com/terms/t/turnover.asp) or asset turnover for an organization as a whole, as opposed to measuring them for a specific division or business unit.
 
 ### Turnover Ratios
 
 In addition to tracking trends in the level and evolution of a company’s overall turnover, analysts, bankers and investors also use net turnover (overall turnover minus the costs of sales—e.g., tax, discounts, and other costs) figures in a number of financial ratio calculations to assess a company’s health, efficiency in using assets and generating profits, and compare its performance relative to peers.
 
-The usefulness of certain ratios varies by industry, but some of the key ratios include asset and [receivables turnover ratios](https://www.investopedia.com/terms/r/receivableturnoverratio.asp) and cash turnover ratios. The asset turnover ratio divides a company’s net turnover by its average level of assets during the year. This is a profitability ratio that measures the company’s ability to use its assets to generate sales.
+The usefulness of certain ratios varies by industry, but some of the key ratios include asset and [[receivables turnover ratios]](https://www.investopedia.com/terms/r/receivableturnoverratio.asp) and cash turnover ratios. The asset turnover ratio divides a company’s net turnover by its average level of assets during the year. This is a profitability ratio that measures the company’s ability to use its assets to generate sales.
 
 Receivables turnover is calculated by dividing net turnover by the company’s average level of accounts receivables. This measures how quickly a company collects payments from its customers. Cash turnover ratio compares a compares turnover to its working capital (current assets minus current liabilities) to gauge how well a company can finance its current operations.
 

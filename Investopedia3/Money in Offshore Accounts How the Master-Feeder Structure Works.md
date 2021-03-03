@@ -18,7 +18,7 @@ Money in Offshore Accounts: How the Master-Feeder Structure Works
 
 A master-feeder structure is a device commonly used by hedge funds to pool taxable and tax-exempt capital raised from investors in the United States and overseas into as a master fund. Separate investment vehicles, otherwise known as feeders, are established for each group of investors.
 
-Investors put capital into their respective [feeder funds](https://www.investopedia.com/terms/f/feederfund.asp), which ultimately invest assets into a centralized vehicle known as the [master fund.](https://www.investopedia.com/terms/m/masterfund.asp) The master fund is responsible for making all portfolio investments and conducting all trading activity. Management and performance fees are paid at the feeder-fund level.
+Investors put capital into their respective [[feeder funds]](https://www.investopedia.com/terms/f/feederfund.asp), which ultimately invest assets into a centralized vehicle known as the [[master fund.]](https://www.investopedia.com/terms/m/masterfund.asp) The master fund is responsible for making all portfolio investments and conducting all trading activity. Management and performance fees are paid at the feeder-fund level.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Investors put capital into their respective [feeder funds](https://www.investope
 
 The master-feeder structure begins with the investors, who deposit capital into the feeder fund. The feeder fund, containing all the limited partnership/shareholder capital, then purchases "shares" of the master fund, much like it would buy shares of any company’s stock. The primary difference, of course, is that a feeder fund—by buying into the master fund—receives all of the master fund’s income attributes, including interest, gains, tax adjustments, and dividends.
 
-Although this two-tiered structure can exist in a variety of forms like "funds of funds" mutual funds the master-feeder structure is especially common among hedge funds catering to both U.S. and offshore or overseas investors. The use of the master-feeder fund structure allows [asset managers](https://www.investopedia.com/terms/a/assetmanagement.asp) to benefit from a large capital pool while also being able to fashion investment funds that cater to niche markets.
+Although this two-tiered structure can exist in a variety of forms like "funds of funds" mutual funds the master-feeder structure is especially common among hedge funds catering to both U.S. and offshore or overseas investors. The use of the master-feeder fund structure allows [[asset managers]](https://www.investopedia.com/terms/a/assetmanagement.asp) to benefit from a large capital pool while also being able to fashion investment funds that cater to niche markets.
 
 ## Composition of Master-Feeders
 
@@ -60,7 +60,7 @@ Cons
 
 ## Disadvantages of the Master-Feeder Structure
 
-The primary drawback to the master-feeder structure is that funds held [offshore](https://www.investopedia.com/terms/o/offshore.asp) are typically subjected to a 30% [withholding tax](https://www.investopedia.com/terms/w/withholdingtax.asp) on U.S. dividends. There is another disadvantage inherent in the structure, as it pools together a combination of investors that often have a wide spectrum of characteristics as well as investment priorities.
+The primary drawback to the master-feeder structure is that funds held [[offshore]](https://www.investopedia.com/terms/o/offshore.asp) are typically subjected to a 30% [[withholding tax]](https://www.investopedia.com/terms/w/withholdingtax.asp) on U.S. dividends. There is another disadvantage inherent in the structure, as it pools together a combination of investors that often have a wide spectrum of characteristics as well as investment priorities.
 
 Often, the battle to find a middle ground is uphill, if not entirely impossible, as investments and strategies that are suitable to one specific type of investor will be unsuited, if not oppositional, to the requirements of a different type of investor.
 
@@ -72,6 +72,6 @@ The Ardon Maroon Asia Dragon Feeder Fund was a feeder fund to the Ardon Maroon A
 
 In 2014, one of the feeder fund's investors submitted a redemption notice. The feeder fund, which held no assets of its own, assumed the master fund would automatically satisfy the redemption request—something called a "back-to-back redemption." However, both funds went into liquidation a few months later. When the original investor submitted a proof of debt, seeking to collect their money, it was rejected by the liquidators of the Ardon Maroon Asia master fund, on the basis that Asia Dragon had never officially submitted a separate redemption request notice to it.
 
-A lawsuit ensued, filed in the Cayman Islands, where the funds were based. In mid-2018, the Grand Court of the Cayman Islands [decided in favor of the master fund](https://www.applebyglobal.com/publications/back-to-back-redemptions-in-cayman-master-feeder-fund-structures/). Although back-to-back redemptions are common industry practices, the court noted that the constitutional documents of Ardon Maroon Asia did require a written notice of redemption from its feeder funds.
+A lawsuit ensued, filed in the Cayman Islands, where the funds were based. In mid-2018, the Grand Court of the Cayman Islands [[decided in favor of the master fund]](https://www.applebyglobal.com/publications/back-to-back-redemptions-in-cayman-master-feeder-fund-structures/). Although back-to-back redemptions are common industry practices, the court noted that the constitutional documents of Ardon Maroon Asia did require a written notice of redemption from its feeder funds.
 
 So, Asia Dragon had been remiss in not separately notifying its master fund even though the same people served as directors of two funds, and both appointed the same investment manager, administrator, and transfer agent.

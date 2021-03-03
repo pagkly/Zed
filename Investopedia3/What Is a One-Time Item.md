@@ -16,7 +16,7 @@ author: Will Kenton
 What Is a One-Time Item?
 ## What Is a One-Time Item?
 
-A one-time item is a gain, loss, or expense on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) that is nonrecurring in nature and therefore not considered part of a company's ongoing business operations. To get an accurate gauge of a company's operating performance, one-time items are usually excluded by [analysts](https://www.investopedia.com/terms/a/analyst.asp) and investors while evaluating a company. Although many one-time items hurt [earnings](https://www.investopedia.com/terms/o/operatingearnings.asp) or profit, there are one-time items that add to earnings in the reporting period.
+A one-time item is a gain, loss, or expense on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) that is nonrecurring in nature and therefore not considered part of a company's ongoing business operations. To get an accurate gauge of a company's operating performance, one-time items are usually excluded by [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) and investors while evaluating a company. Although many one-time items hurt [[earnings]](https://www.investopedia.com/terms/o/operatingearnings.asp) or profit, there are one-time items that add to earnings in the reporting period.
 
 ### Key Takeaways
 
@@ -26,19 +26,19 @@ A one-time item is a gain, loss, or expense on the [income statement](https://ww
 
 ## Understanding One-Time Items
 
-One-time items are either recorded under operating expenses or below earnings before interest and taxes ([EBIT](https://www.investopedia.com/terms/e/ebit.asp)). EBIT is essentially a company's profit without the cost of interest on debt and taxes factored into it. [Net income](https://www.investopedia.com/terms/n/netincome.asp), on the other hand, is the company's profit after factoring in all costs, expenses, and [revenues](https://www.investopedia.com/terms/r/revenue.asp) and is listed at the bottom of the income statement.
+One-time items are either recorded under operating expenses or below earnings before interest and taxes ([EBIT](https://www.investopedia.com/terms/e/ebit.asp)). EBIT is essentially a company's profit without the cost of interest on debt and taxes factored into it. [[Net income]](https://www.investopedia.com/terms/n/netincome.asp), on the other hand, is the company's profit after factoring in all costs, expenses, and [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) and is listed at the bottom of the income statement.
 
-A one-time item, such as the sale of an asset, could inflate net income for that period. One-time items are also called [unusual items](https://www.investopedia.com/terms/u/unusual-item.asp) or nonrecurring items.
+A one-time item, such as the sale of an asset, could inflate net income for that period. One-time items are also called [[unusual items]](https://www.investopedia.com/terms/u/unusual-item.asp) or nonrecurring items.
 
 ## Types of One-Time Items
 
 One-time items listed on a company's financial statements may include:
 
--   [Restructuring](https://www.investopedia.com/terms/r/restructuring.asp) charges, such as when a company modifies its debt structure
--   [Asset impairment](https://www.investopedia.com/terms/i/impairedasset.asp) or write-off, which is a charge that occurs when the market value of an asset is lower than the asset's value listed on the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
--   Loss from [discontinued operations](https://www.investopedia.com/terms/d/discontinued-operations.asp), which is from an operation being shut down
--   Loss from early retirement of debt, such as a company paying off its debt–or [bonds](https://www.investopedia.com/terms/b/bond.asp)–early
--   M&A or divestiture-related costs, which can result from [mergers](https://www.investopedia.com/terms/m/merger.asp) and [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp)
+-   [[Restructuring]](https://www.investopedia.com/terms/r/restructuring.asp) charges, such as when a company modifies its debt structure
+-   [[Asset impairment]](https://www.investopedia.com/terms/i/impairedasset.asp) or write-off, which is a charge that occurs when the market value of an asset is lower than the asset's value listed on the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp)
+-   Loss from [[discontinued operations]](https://www.investopedia.com/terms/d/discontinued-operations.asp), which is from an operation being shut down
+-   Loss from early retirement of debt, such as a company paying off its debt–or [[bonds]](https://www.investopedia.com/terms/b/bond.asp)–early
+-   M&A or divestiture-related costs, which can result from [[mergers]](https://www.investopedia.com/terms/m/merger.asp) and [[acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp)
 -   Gain or loss from an asset sale, such as the sale of equipment
 -   Extraordinary legal costs
 -   Natural disaster damage costs
@@ -46,7 +46,7 @@ One-time items listed on a company's financial statements may include:
 
 ## Explaining One-Time Items
 
-A company could list a one-time item separately on its income statement particularly if it's self-explanatory. However, many publicly-traded companies that report their financial performance on a quarterly and annual basis publish [consolidated financial statements](https://www.investopedia.com/terms/c/consolidatedfinancialstatement.asp). These consolidated statements contain the aggregate financial performance for a corporation that owns multiple companies, subsidiaries, divisions, or businesses. The aggregated figures make it easier for the company to report their revenue, expenses, and profit. However, it's up to investors and analysts to investigate what's behind those aggregated figures. As a result, the one-items might not be listed separately on a consolidated income statement.
+A company could list a one-time item separately on its income statement particularly if it's self-explanatory. However, many publicly-traded companies that report their financial performance on a quarterly and annual basis publish [[consolidated financial statements]](https://www.investopedia.com/terms/c/consolidatedfinancialstatement.asp). These consolidated statements contain the aggregate financial performance for a corporation that owns multiple companies, subsidiaries, divisions, or businesses. The aggregated figures make it easier for the company to report their revenue, expenses, and profit. However, it's up to investors and analysts to investigate what's behind those aggregated figures. As a result, the one-items might not be listed separately on a consolidated income statement.
 
 Instead, the company might group several items into a consolidated line item, such as _other income_, if the one-time items were gains. A separate consolidated line for nonrecurring charges could also be listed. However, there is usually a footnote number next to these line items on the income statement, which refers to a more in-depth explanation of the gains or losses in the footnotes section. The footnotes are found in the management discussion and analysis (MD&A) section of the company's quarterly or annual financial reports.
 
@@ -54,7 +54,7 @@ Instead, the company might group several items into a consolidated line item, su
 
 Reporting one-time items separately is important to ensure the transparency of financial reporting. One-time items help investors and analysts separate any charges or gains that are not part of the core operating revenue for the company. One-time items are the gains and losses that management does not expect to reoccur. So, segregating these items explicitly on the income statement or in the MD&A section allows for a better assessment of the continuing income-generating capacity of the business.
 
-Listing one-time, nonrecurring items helps investors, analysts, and creditors with the analysis of a company's financial performance. Banks that lend to corporations would want to know how much of the company's revenue is being generated from its core business operations. Credit [covenants](https://www.investopedia.com/terms/c/covenant.asp) issued by banks are frequently used to ensure that companies meet certain thresholds and financial requirements.
+Listing one-time, nonrecurring items helps investors, analysts, and creditors with the analysis of a company's financial performance. Banks that lend to corporations would want to know how much of the company's revenue is being generated from its core business operations. Credit [[covenants]](https://www.investopedia.com/terms/c/covenant.asp) issued by banks are frequently used to ensure that companies meet certain thresholds and financial requirements.
 
 One-time items can skew a company's earnings and revenue positively or negatively. Bankers must separate these nonrecurring items to properly calculate whether the company is meeting its covenants. For example, if a company sells cars and has a large one-time gain for selling equipment, analysts and creditors would need to strip out that one-time gain and recalculate the company's net income or EBIT.
 

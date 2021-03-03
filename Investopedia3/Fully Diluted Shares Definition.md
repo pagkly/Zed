@@ -16,7 +16,7 @@ author: James Chen
 Fully Diluted Shares Definition
 ## What are Fully Diluted Shares?
 
-Fully diluted shares are the total number of common shares of a company that will be outstanding and available to trade on the open market after all possible sources of conversion, such as [convertible bonds](https://www.investopedia.com/terms/c/convertiblebond.asp) and [employee stock options](https://www.investopedia.com/terms/e/eso.asp), are exercised. Fully diluted shares include not only those which are currently issued but also those that could be claimed through conversion. This number of shares is needed for a company’s [earnings per share](https://www.investopedia.com/terms/b/basic-earnings-per-share.asp) (EPS) calculations because applying fully diluted shares increases the share basis in the calculation while reducing the dollars earned per share of common stock.
+Fully diluted shares are the total number of common shares of a company that will be outstanding and available to trade on the open market after all possible sources of conversion, such as [[convertible bonds]](https://www.investopedia.com/terms/c/convertiblebond.asp) and [[employee stock options]](https://www.investopedia.com/terms/e/eso.asp), are exercised. Fully diluted shares include not only those which are currently issued but also those that could be claimed through conversion. This number of shares is needed for a company’s [[earnings per share]](https://www.investopedia.com/terms/b/basic-earnings-per-share.asp) (EPS) calculations because applying fully diluted shares increases the share basis in the calculation while reducing the dollars earned per share of common stock.
 
 ## Understanding Fully Diluted Shares
 
@@ -27,18 +27,18 @@ If a company can increase earnings per common share, it is considered to be mor
 ### Key Takeaways
 
 -   While full dilution may not occur all at once, it indicates how many shares might be outstanding in the future, based on current company policy regarding conversions.
--   Earnings paid to [preferred shareholders](https://www.investopedia.com/terms/p/preferredstock.asp) as cash dividends are subtracted from net income because EPS applies only to common shareholders.
+-   Earnings paid to [[preferred shareholders]](https://www.investopedia.com/terms/p/preferredstock.asp) as cash dividends are subtracted from net income because EPS applies only to common shareholders.
 -   Company policy regarding conversions may change over time, potentially impacting expectations about the future number of fully diluted shares.
 
 ## Factoring in Fully Diluted Shares
 
-Assume that ABC Corporation (ABC) generates $10 million in [net income](https://www.investopedia.com/terms/n/netincome.asp) and pays preferred shareholders a total of $2 million in dividends. The net income available to common shareholders is $8 million. If the firm’s weighted average of common shares outstanding totals 1 million, the EPS will be $8.00 per share or ($8 million / 1 million shares). This $8.00 EPS is referred to as "basic" EPS because the total is not adjusted for dilution.
+Assume that ABC Corporation (ABC) generates $10 million in [[net income]](https://www.investopedia.com/terms/n/netincome.asp) and pays preferred shareholders a total of $2 million in dividends. The net income available to common shareholders is $8 million. If the firm’s weighted average of common shares outstanding totals 1 million, the EPS will be $8.00 per share or ($8 million / 1 million shares). This $8.00 EPS is referred to as "basic" EPS because the total is not adjusted for dilution.
 
-Full dilution means that every security that can be converted into common shares has been converted, indicating there will be fewer earnings available per share of common stock. Since EPS is a key measure of a company’s value and profitability, it is important for an [investor](https://www.investopedia.com/terms/i/investor.asp) to review basic EPS as well as fully diluted EPS.
+Full dilution means that every security that can be converted into common shares has been converted, indicating there will be fewer earnings available per share of common stock. Since EPS is a key measure of a company’s value and profitability, it is important for an [[investor]](https://www.investopedia.com/terms/i/investor.asp) to review basic EPS as well as fully diluted EPS.
 
 ## Example of Fully Diluted Shares
 
-Several types of securities can be converted into common stock, including convertible bonds, convertible preferred stock, employee stock options, rights, and [warrants](https://www.investopedia.com/terms/w/warrant.asp).
+Several types of securities can be converted into common stock, including convertible bonds, convertible preferred stock, employee stock options, rights, and [[warrants]](https://www.investopedia.com/terms/w/warrant.asp).
 
 Assume that ABC issues 100,000 shares in stock options to employees to reward them for strong company performance. The firm has convertible bonds outstanding that allow bondholders to convert their securities into a total of 200,000 shares of common stock. ABC also has convertible preferred stock outstanding and those shares can be converted into 200,000 shares of common stock as well.
 

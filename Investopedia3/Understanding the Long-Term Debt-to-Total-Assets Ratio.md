@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Long-Term Debt-to-Total-Assets Ratio
 ## What Is the Long-Term Debt-to-Total-Assets Ratio?
 
-The long-term debt-to-total-assets ratio is a measurement representing the percentage of a corporation's assets financed with long-term debt, which encompasses loans or other [debt obligations lasting more than one year](https://www.investopedia.com/terms/l/longtermdebt.asp)_._ This ratio provides a general measure of the long-term financial position of a company, including its ability to meet its [financial obligations](https://www.investopedia.com/terms/f/financial-obligation-ratio-for.asp) for outstanding loans.
+The long-term debt-to-total-assets ratio is a measurement representing the percentage of a corporation's assets financed with long-term debt, which encompasses loans or other [[debt obligations lasting more than one year]](https://www.investopedia.com/terms/l/longtermdebt.asp)_._ This ratio provides a general measure of the long-term financial position of a company, including its ability to meet its [[financial obligations]](https://www.investopedia.com/terms/f/financial-obligation-ratio-for.asp) for outstanding loans.
 
 ## The Formula for the Long-Term Debt-to-Total-Assets Ratio
 
@@ -38,12 +38,12 @@ A year-over-year decrease in a company's long-term debt-to-total-assets ratio ma
 
 If a company has $100,000 in total assets with $40,000 in long-term debt, its long-term debt-to-total-assets ratio is $40,000/$100,000 = 0.4, or 40%. This ratio indicates that the company has 40 cents of long-term debt for each dollar it has in assets. In order to compare the overall leverage position of the company, investors look at the same ratio for comparable firms, the industry as a whole, and the company's own historical changes in this ratio.
 
-If a business has a high long-term debt-to-assets ratio, it suggests the business has a relatively high degree of risk, and eventually, it may not be able to repay its debts. This makes lenders [more skeptical about loaning the business money](https://www.investopedia.com/ask/answers/062415/what-are-major-categories-financial-risk-company.asp) and investors more leery about buying shares.
+If a business has a high long-term debt-to-assets ratio, it suggests the business has a relatively high degree of risk, and eventually, it may not be able to repay its debts. This makes lenders [[more skeptical about loaning the business money]](https://www.investopedia.com/ask/answers/062415/what-are-major-categories-financial-risk-company.asp) and investors more leery about buying shares.
 
 In contrast, if a business has a low long-term debt-to-assets ratio, it can signify the relative strength of the business. However, the assertions an analyst can make based on this ratio vary based on the company's industry as well as other factors, and for this reason, analysts tend to compare these numbers between companies from the same industry.
 
 ## The Difference Between Long-Term Debt-to-Asset and Total Debt-to-Asset Ratios
 
-While the long-term debt to assets ratio only takes into account long-term debts, the [total-debt-to-total-assets ratio](https://www.investopedia.com/terms/t/totaldebttototalassets.asp) includes all debts. This measure takes into account both long-term debts, such as mortgages and securities, and current or short-term debts such as rent, utilities, and loans maturing in less than 12 months.
+While the long-term debt to assets ratio only takes into account long-term debts, the [[total-debt-to-total-assets ratio]](https://www.investopedia.com/terms/t/totaldebttototalassets.asp) includes all debts. This measure takes into account both long-term debts, such as mortgages and securities, and current or short-term debts such as rent, utilities, and loans maturing in less than 12 months.
 
 Both ratios, however, encompass all of a business's assets, including tangible assets such as equipment and inventory and intangible assets such as accounts receivables. Because the total debt-to-assets ratio includes more of a company's liabilities, this number is almost always higher than a company's long-term debt to assets ratio.

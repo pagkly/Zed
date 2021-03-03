@@ -30,7 +30,7 @@ In double-entry accounting—which is commonly used by companies—every financi
 
 ### A Double Entry Also Can Affect the Balance Sheet Only
 
-It's also possible to make a double-entry journal entry that affects the balance sheet only. For example, if a business takes out a long-term loan for $10,000, the accountant would debit the cash account (an asset on the balance sheet) and credit the long-term debt account (a [liability](https://www.investopedia.com/terms/l/liability.asp) on the balance sheet).
+It's also possible to make a double-entry journal entry that affects the balance sheet only. For example, if a business takes out a long-term loan for $10,000, the accountant would debit the cash account (an asset on the balance sheet) and credit the long-term debt account (a [[liability]](https://www.investopedia.com/terms/l/liability.asp) on the balance sheet).
 
 In account reconciliation, debits and credits should balance out to zero.
 
@@ -46,10 +46,10 @@ When a business receives an invoice, it credits the amount of the invoice to acc
 
 Periodically, many individuals reconcile their checkbooks and credit card accounts by comparing their written checks, debit card receipts, and credit card receipts with their bank and credit card statements. This type of account reconciliation makes it possible to determine whether money is being fraudulently withdrawn.
 
-By reconciling their accounts, individuals also can make sure that [financial institutions (FI)](https://www.investopedia.com/terms/f/financialinstitution.asp) have not made any errors in their accounts, and it gives consumers an overall picture of their spending. When an account is reconciled, the statement's transactions should match the account holder's records. For a checking account, it is important to factor in pending deposits or outstanding checks.
+By reconciling their accounts, individuals also can make sure that [[financial institutions (FI)]](https://www.investopedia.com/terms/f/financialinstitution.asp) have not made any errors in their accounts, and it gives consumers an overall picture of their spending. When an account is reconciled, the statement's transactions should match the account holder's records. For a checking account, it is important to factor in pending deposits or outstanding checks.
 
 ## Reconciliation in Business Accounting
 
-Companies must reconcile their accounts to prevent balance sheet errors, check for fraud, and avoid auditors' negative opinions. Companies generally perform balance sheet reconciliations each month, after the books are closed for the prior month. This type of account reconciliation involves reviewing all balance sheet accounts to make sure that transactions were appropriately booked into the correct general ledger account. It may be necessary to [adjust journal entries](https://www.investopedia.com/terms/a/adjusting-journal-entry.asp) if they were booked incorrectly.
+Companies must reconcile their accounts to prevent balance sheet errors, check for fraud, and avoid auditors' negative opinions. Companies generally perform balance sheet reconciliations each month, after the books are closed for the prior month. This type of account reconciliation involves reviewing all balance sheet accounts to make sure that transactions were appropriately booked into the correct general ledger account. It may be necessary to [[adjust journal entries]](https://www.investopedia.com/terms/a/adjusting-journal-entry.asp) if they were booked incorrectly.
 
 Some reconciliations are necessary to ensure that cash inflows and outflows concur between the income statement, balance sheet, and cash flow statement. GAAP requires that, if the direct method of presenting the cash flow statement is used, the company must still reconcile cash flows to the income statement and balance sheet. If the indirect method is used, then the cash-flow-from-operations section is already presented as a reconciliation of the three financial statements. Other reconciliations turn non-GAAP measures, such as earnings before interest, taxes, depreciation, and amortization (EBITDA), into their GAAP-approved counterparts.

@@ -16,7 +16,7 @@ author: Will Kenton
 Uniform Partnership Act (UPA)
 ## What Is the Uniform Partnership Act (UPA)?
 
-The Uniform Partnership Act (UPA) provides governance for business [partnerships](https://www.investopedia.com/terms/p/partnership.asp) in several U.S. states. The UPA also offers regulations governing the dissolution of a partnership when a partner dissociates.
+The Uniform Partnership Act (UPA) provides governance for business [[partnerships]](https://www.investopedia.com/terms/p/partnership.asp) in several U.S. states. The UPA also offers regulations governing the dissolution of a partnership when a partner dissociates.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ The Uniform Partnership Act (UPA) provides governance for business [partnerships
 
 ## Understanding the Uniform Partnership Act (UPA)
 
-The implementation of the UPA operates as a statute, which is a rule passed by legislators as opposed to government agencies. The Uniform Partnership Act was created in 1914 by the National Conference of Commissioners on Uniform State Laws (NCCUSL). As of the latest iteration of the act, 37 states in the U.S. abide by it. The Uniform Partnership Act only applies to general liabilities and [limited liability partnerships](https://www.investopedia.com/articles/investing/090214/limited-liability-partnership-llp-basics.asp) (LLPs). It does not apply to [limited partnerships](https://www.investopedia.com/terms/l/limitedpartnership.asp) (LPs).
+The implementation of the UPA operates as a statute, which is a rule passed by legislators as opposed to government agencies. The Uniform Partnership Act was created in 1914 by the National Conference of Commissioners on Uniform State Laws (NCCUSL). As of the latest iteration of the act, 37 states in the U.S. abide by it. The Uniform Partnership Act only applies to general liabilities and [[limited liability partnerships]](https://www.investopedia.com/articles/investing/090214/limited-liability-partnership-llp-basics.asp) (LLPs). It does not apply to [[limited partnerships]](https://www.investopedia.com/terms/l/limitedpartnership.asp) (LPs).
 
-The intended goal of the Uniform Partnership Act is to provide guidance to various business relationships. This typically applies to small businesses and loose partnerships as larger businesses have detailed agreements in place that govern any changes in a business. The act governs how a partnership is created, the [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) duties of the partnership and its partners, and defines partnership assets and liabilities.
+The intended goal of the Uniform Partnership Act is to provide guidance to various business relationships. This typically applies to small businesses and loose partnerships as larger businesses have detailed agreements in place that govern any changes in a business. The act governs how a partnership is created, the [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) duties of the partnership and its partners, and defines partnership assets and liabilities.
 
 One of the most important aspects of the UPA states that when one partner in a business leaves, a majority interest of the remaining partners can agree to continue the partnership within 90 days of the dissociation. The Uniform Partnership Act effectively saved partnerships from dissolution following a partner's dissociation.
 
@@ -39,7 +39,7 @@ Since the first Uniform Partnership Act was drafted in 1914, it has been revised
 
 ## Uniform Partnership Act (UPA) 1997 Revision
 
-In 1996, the Limited Liability Partnership Amendments were promulgated and combined into the Uniform Partnership Act. In addition to the rule stating that when a partner leaves a partnership, the remaining partners have 90 days to determine if the partnership should continue or [dissolve](https://www.investopedia.com/terms/w/windingup.asp), the Uniform Partnership Act includes the following features:
+In 1996, the Limited Liability Partnership Amendments were promulgated and combined into the Uniform Partnership Act. In addition to the rule stating that when a partner leaves a partnership, the remaining partners have 90 days to determine if the partnership should continue or [[dissolve]](https://www.investopedia.com/terms/w/windingup.asp), the Uniform Partnership Act includes the following features:
 
 -   A partner in a partnership can have certain interests assigned as separate liabilities in relation to the other property in the partnership, precluding them from certain rights on assets in the partnership. As such, creditors are legally only allowed to make claims on the partner as opposed to the aggregate assets in a partnership.
 -   The duties of the partners in relation to their dealings in good faith are stipulated in the act. Such basic standards may not be abolished by any partner or partnership agreement.

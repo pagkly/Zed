@@ -106,6 +106,6 @@ Weighted averages show up in many areas of finance besides the purchase price of
 
 When a fund that holds multiple securities is up 10 percent on the year, that 10 percent represents a weighted average of returns for the fund with respect to the value of each position in the fund.
 
-For inventory accounting, the weighted average value of inventory accounts for fluctuations in commodity prices, for example, while [LIFO](https://www.investopedia.com/terms/l/lifo.asp) (Last In First Out) or [FIFO](https://www.investopedia.com/terms/f/fifo.asp) (First In First Out) methods give more importance to time than value.
+For inventory accounting, the weighted average value of inventory accounts for fluctuations in commodity prices, for example, while [[LIFO]](https://www.investopedia.com/terms/l/lifo.asp) (Last In First Out) or [[FIFO]](https://www.investopedia.com/terms/f/fifo.asp) (First In First Out) methods give more importance to time than value.
 
-When evaluating companies to discern whether their shares are correctly priced, investors use the [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) to discount a company's cash flows. WACC is weighted based on the market value of debt and equity in a company's capital structure.
+When evaluating companies to discern whether their shares are correctly priced, investors use the [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) to discount a company's cash flows. WACC is weighted based on the market value of debt and equity in a company's capital structure.

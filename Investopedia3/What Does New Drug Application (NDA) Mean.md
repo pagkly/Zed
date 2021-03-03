@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does New Drug Application (NDA) Mean?
 ## What Is a New Drug Application (NDA)?
 
-A new drug application (NDA) is a comprehensive document that must be submitted to the U.S. [Food and Drug Administration (FDA)](https://www.investopedia.com/terms/f/fda.asp) in order to request approval for marketing a new drug in the United States.
+A new drug application (NDA) is a comprehensive document that must be submitted to the U.S. [[Food and Drug Administration (FDA)]](https://www.investopedia.com/terms/f/fda.asp) in order to request approval for marketing a new drug in the United States.
 
-Drugs for which NDAs are submitted will have already passed through several [clinical trials](https://www.investopedia.com/terms/c/clinical-trials.asp). As such, drugs that reach the NDA phase typically have a high probability of securing FDA approval.
+Drugs for which NDAs are submitted will have already passed through several [[clinical trials]](https://www.investopedia.com/terms/c/clinical-trials.asp). As such, drugs that reach the NDA phase typically have a high probability of securing FDA approval.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ Yet, reaching the NDA stage is far from easy. Each NDA document must contain 15 
 
 The NDA has formed the basis for regulating and controlling new drugs in the United States since the passage of the Food, Drug, and Cosmetic Act (FD&C) in 1938. Since that time, various amendments to the FD&C have gradually increased the standards of evidence required to obtain approval.
 
-One consequence of these more stringent standards is that the approval process can become very time consuming. The goal of the FDA’s Center for Drug Evaluation and Research (CDER) is to review and act on at least 90% of NDAs for standard drugs within 10 months after the applications are received, and six months for priority drugs. Of course, the full timeline for [drug development](https://www.investopedia.com/articles/investing/072913/8-stages-new-drug-development.asp) will frequently stretch to a decade or more.
+One consequence of these more stringent standards is that the approval process can become very time consuming. The goal of the FDA’s Center for Drug Evaluation and Research (CDER) is to review and act on at least 90% of NDAs for standard drugs within 10 months after the applications are received, and six months for priority drugs. Of course, the full timeline for [[drug development]](https://www.investopedia.com/articles/investing/072913/8-stages-new-drug-development.asp) will frequently stretch to a decade or more.
 
 ## Advantages and Disadvantages of the New Drug Application
 
@@ -44,7 +44,7 @@ On the other hand, many have argued that the new drug approval process is excess
 
 ## Example of a New Drug Application (NDA)
 
-Suppose that XYZ Pharma is an [early-stage](https://www.investopedia.com/terms/d/developmentstage.asp) pharmaceutical company that has recently submitted its first NDA. Prior to reaching this stage, XYZ invested several years—and tens of millions of invested capital—into a series of clinical trials on both animal and human subjects. The results of these trials are among the most critical information contained in its NDA and will be central to the FDA’s decision about whether or not to approve its new product.
+Suppose that XYZ Pharma is an [[early-stage]](https://www.investopedia.com/terms/d/developmentstage.asp) pharmaceutical company that has recently submitted its first NDA. Prior to reaching this stage, XYZ invested several years—and tens of millions of invested capital—into a series of clinical trials on both animal and human subjects. The results of these trials are among the most critical information contained in its NDA and will be central to the FDA’s decision about whether or not to approve its new product.
 
 These clinical trials progressed in four phases. The first three phases had to be completed before the NDA is rendered, whereas the fourth and final stage involves the ongoing monitoring of the drug’s effectiveness after the product has been approved for sale.
 

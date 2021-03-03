@@ -16,11 +16,11 @@ author: Mitchell Grant
 Consignment
 ## What Is Consignment?
 
-Consignment is an arrangement in which goods are left in the possession of an authorized third party to sell. Typically, the consignor receives a percentage of the revenue from the sale (sometimes a very large percentage) in the form of [commission](https://www.investopedia.com/terms/c/commission.asp).
+Consignment is an arrangement in which goods are left in the possession of an authorized third party to sell. Typically, the consignor receives a percentage of the revenue from the sale (sometimes a very large percentage) in the form of [[commission]](https://www.investopedia.com/terms/c/commission.asp).
 
-Consignment deals are made on a variety of products, such as artwork, clothing and accessories, and books. Some types of [retail sales](https://www.investopedia.com/terms/r/retail-sales.asp) may be viewed as a special form of consignment where producers rely on retail stores to sell their products to consumers, although secondhand stores and thrift stores are more typically associated with the practice of consignment.
+Consignment deals are made on a variety of products, such as artwork, clothing and accessories, and books. Some types of [[retail sales]](https://www.investopedia.com/terms/r/retail-sales.asp) may be viewed as a special form of consignment where producers rely on retail stores to sell their products to consumers, although secondhand stores and thrift stores are more typically associated with the practice of consignment.
 
-Consignment arrangements, however, would not include retailers such as Walmart or most supermarkets, which purchase goods outright from [wholesalers](https://www.investopedia.com/terms/w/wholesaling.asp) and then sell their items at a [markup](https://www.investopedia.com/terms/m/markup.asp).
+Consignment arrangements, however, would not include retailers such as Walmart or most supermarkets, which purchase goods outright from [[wholesalers]](https://www.investopedia.com/terms/w/wholesaling.asp) and then sell their items at a [[markup]](https://www.investopedia.com/terms/m/markup.asp).
 
 ### Key Takeaways
 
@@ -34,17 +34,17 @@ Consignment arrangements, however, would not include retailers such as Walmart o
 
 In the 21st century, so-called consignment shops have become trendy, especially those offering specialty products, infant wear, pet care, and high-end fashion items. The millennial generation, in particular, is known for its frugal shopping habits, which include eschewing high-end stores and designer boutiques in favor of bargains found at thrift and consignment shops.
 
-Economists list rising [student debt](https://www.investopedia.com/terms/s/student-debt.asp), stagnant wages, and the psychological effects of the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp) of 2007-2009 as factors pushing younger shoppers toward consignment shops and other discount stores.
+Economists list rising [[student debt]](https://www.investopedia.com/terms/s/student-debt.asp), stagnant wages, and the psychological effects of the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp) of 2007-2009 as factors pushing younger shoppers toward consignment shops and other discount stores.
 
 ## Advantages of Consignment
 
-Selling on consignment is a great option for an individual or business that does not have a [brick-and-mortar](https://www.investopedia.com/terms/b/brickandmortar.asp) presence, although consignment arrangements can also exist in cyberspace. To a certain degree, online companies such as eBay are consignment shops; for a percentage of the sale, they offer people a marketplace to exhibit and sell their wares. This removes the necessity for an individual to have to create their own website, attract customers, and set up payment processes. Likewise, items marketed and sold through television channels—such as the as-seen-on-TV phenomenon—are forms of consignment.
+Selling on consignment is a great option for an individual or business that does not have a [[brick-and-mortar]](https://www.investopedia.com/terms/b/brickandmortar.asp) presence, although consignment arrangements can also exist in cyberspace. To a certain degree, online companies such as eBay are consignment shops; for a percentage of the sale, they offer people a marketplace to exhibit and sell their wares. This removes the necessity for an individual to have to create their own website, attract customers, and set up payment processes. Likewise, items marketed and sold through television channels—such as the as-seen-on-TV phenomenon—are forms of consignment.
 
 Sellers who do not have the time or the desire to advertise their product for sale, to take time off work to accommodate prospective buyers' schedules, to conduct pricing research, and to endure the tasks associated with selling an item firsthand often find that consignment fees are a small price to pay to put the work in someone else's hands, particularly if they are successful in negotiating a low fee.
 
 ## Consignment Payment Structure
 
-A person wishing to sell an [item on consignment](https://www.investopedia.com/articles/investing/110515/how-make-money-selling-kids-items-consignment-sales.asp) delivers it to a consignment shop or a third party to do the selling on their behalf. Before the third party takes possession of the good, an agreement must be reached as to the [revenue](https://www.investopedia.com/terms/r/revenue.asp) split when the item is sold.
+A person wishing to sell an [[item on consignment]](https://www.investopedia.com/articles/investing/110515/how-make-money-selling-kids-items-consignment-sales.asp) delivers it to a consignment shop or a third party to do the selling on their behalf. Before the third party takes possession of the good, an agreement must be reached as to the [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) split when the item is sold.
 
 Most consignment shops have standard fee schedules that indicate the percentage of the sales price that is paid to the shop and the percentage paid to the seller. However, many consignment shops are willing to negotiate, particularly for larger-ticket items, such as artwork, that offer greater revenue potential. Depending on the consignment shop and the item being sold, the seller may concede 25% to 60% of the sales price in consignment fees.
 

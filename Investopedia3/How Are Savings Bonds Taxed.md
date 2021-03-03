@@ -16,7 +16,7 @@ author: Nick Lioudis
 How Are Savings Bonds Taxed?
 ## How Are Savings Bonds Taxed?
 
-According to [Treasury Direct](https://www.investopedia.com/terms/t/treasurydirect.asp), interest from EE [U.S. savings bonds](https://www.investopedia.com/terms/u/ussavingsbonds.asp) is taxed at the federal level but not at the state or local levels for income. Bonds typically earn interest, which is the amount that a bond can be redeemed for above its [face value](https://www.investopedia.com/terms/f/facevalue.asp). The face value is the bond's original [purchase price](https://www.investopedia.com/terms/p/purchaseprice.asp). The interest on savings bonds is also subject to federal [gift](https://www.investopedia.com/terms/g/gifttax.asp), estate, and [excise taxes](https://www.investopedia.com/terms/e/excisetax.asp). On the state level, the tax on the interest applies for estates or inheritances.1
+According to [[Treasury Direct]](https://www.investopedia.com/terms/t/treasurydirect.asp), interest from EE [U.S. savings bonds](https://www.investopedia.com/terms/u/ussavingsbonds.asp) is taxed at the federal level but not at the state or local levels for income. Bonds typically earn interest, which is the amount that a bond can be redeemed for above its [[face value]](https://www.investopedia.com/terms/f/facevalue.asp). The face value is the bond's original [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp). The interest on savings bonds is also subject to federal [gift](https://www.investopedia.com/terms/g/gifttax.asp), estate, and [[excise taxes]](https://www.investopedia.com/terms/e/excisetax.asp). On the state level, the tax on the interest applies for estates or inheritances.1
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ According to [Treasury Direct](https://www.investopedia.com/terms/t/treasurydire
 
 ## Understanding How Savings Bonds are Taxed
 
-The ownership of the bond governs who is responsible for paying tax on the interest. If one person purchases the bond and is the sole owner for the life of the bond, that person owes the taxes on the interest. If a child is the sole owner, a parent may report the interest on the bond and pay the taxes on the parent's [tax return](https://www.investopedia.com/terms/t/taxreturn.asp).1
+The ownership of the bond governs who is responsible for paying tax on the interest. If one person purchases the bond and is the sole owner for the life of the bond, that person owes the taxes on the interest. If a child is the sole owner, a parent may report the interest on the bond and pay the taxes on the parent's [[tax return]](https://www.investopedia.com/terms/t/taxreturn.asp).1
 
 However, there are ownership situations whereby the tax responsibility can vary. The taxes on interest for U.S. savings bonds are outlined under the section, tax considerations, on the Treasury Direct website.1
 
@@ -34,7 +34,7 @@ Below are some of the ownership scenarios that can impact who pays the taxes on 
 
 ### Another Owner Added by Purchaser
 
-If one person purchases the bond and adds another person to the bond as [co-owner](https://www.investopedia.com/terms/c/co-owner.asp) whereby that person remains co-owner for the life of the bond, the purchaser is responsible for the taxes.1
+If one person purchases the bond and adds another person to the bond as [[co-owner]](https://www.investopedia.com/terms/c/co-owner.asp) whereby that person remains co-owner for the life of the bond, the purchaser is responsible for the taxes.1
 
 If one person purchases the bond and lists another person as the sole owner of the bond, the person listed as the owner is responsible for the interest.1
 
@@ -44,14 +44,14 @@ If two people split the purchase price of the bond, each person is responsible f
 
 ### Exception to the Proportional Ownership Rule
 
-The exception to the proportional rule is for spouses who live in [community property](https://www.investopedia.com/terms/c/communityproperty.asp) states and who are each responsible for half of the taxes if they file their taxes separately. Taxes may also be split if there is a succession of ownership. When a bond changes hands, the owners are each responsible only for the taxes on the portion of the interest that accrued during each period of ownership.1
+The exception to the proportional rule is for spouses who live in [[community property]](https://www.investopedia.com/terms/c/communityproperty.asp) states and who are each responsible for half of the taxes if they file their taxes separately. Taxes may also be split if there is a succession of ownership. When a bond changes hands, the owners are each responsible only for the taxes on the portion of the interest that accrued during each period of ownership.1
 
 So, if Jill owned a bond from 2003 to 2007 before relinquishing it to Amy, who has owned it since, Jill must pay the taxes on the interest accrued between 2003 and 2007, and Amy must pay the taxes on interest earned after 2007.
 
 ## Reporting the Interest for Taxes
 
-Owners can wait to pay the taxes when they cash in the bond, when the bond matures or when they relinquish the bond to another owner. Alternatively, they may pay the taxes yearly as interest [accrues](https://www.investopedia.com/terms/a/accrue.asp).1 Most owners choose to defer the taxes until they redeem the bond.
+Owners can wait to pay the taxes when they cash in the bond, when the bond matures or when they relinquish the bond to another owner. Alternatively, they may pay the taxes yearly as interest [[accrues]](https://www.investopedia.com/terms/a/accrue.asp).1 Most owners choose to defer the taxes until they redeem the bond.
 
-A bond that has reached maturity and stopped earning interest is automatically considered redeemed, and the interest amount is reported to the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp). The income is interest income and is reported on a [1099-INT](https://www.investopedia.com/terms/f/form-1099-int.asp), and the owner includes it on the yearly tax return.1
+A bond that has reached maturity and stopped earning interest is automatically considered redeemed, and the interest amount is reported to the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp). The income is interest income and is reported on a [1099-INT](https://www.investopedia.com/terms/f/form-1099-int.asp), and the owner includes it on the yearly tax return.1
 
 If an owner decides to report the interest income yearly, the income from that bond and all other savings bonds for the same owner must continue to be reported yearly. The interest still accrues, in this case, and is not received. Once the bond reaches maturity, the owner must let the IRS know that the interest has been paid yearly.1

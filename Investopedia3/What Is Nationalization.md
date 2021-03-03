@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Nationalization?
 ## What Is Nationalization?
 
-Nationalization refers to the action of a government taking control of a company or industry, which generally occurs without compensation for the loss of the [net worth](https://www.investopedia.com/terms/n/networth.asp) of seized assets and potential income. The action may be the result of a nation's attempt to [consolidate power](https://www.investopedia.com/terms/c/consolidate.asp), resentment of foreign ownership of industries representing significant importance to local economies or to prop up failing industries.
+Nationalization refers to the action of a government taking control of a company or industry, which generally occurs without compensation for the loss of the [[net worth]](https://www.investopedia.com/terms/n/networth.asp) of seized assets and potential income. The action may be the result of a nation's attempt to [[consolidate power]](https://www.investopedia.com/terms/c/consolidate.asp), resentment of foreign ownership of industries representing significant importance to local economies or to prop up failing industries.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Nationalization refers to the action of a government taking control of a company
 
 ## Understanding Nationalization
 
-Nationalization is more common in developing countries. [Privatization](https://www.investopedia.com/terms/p/privatization.asp), which is the transfer of government-run operations [into the private business sector](https://www.investopedia.com/terms/p/private-sector.asp), occurs more frequently in developed countries.
+Nationalization is more common in developing countries. [[Privatization]](https://www.investopedia.com/terms/p/privatization.asp), which is the transfer of government-run operations [[into the private business sector]](https://www.investopedia.com/terms/p/private-sector.asp), occurs more frequently in developed countries.
 
 Nationalization is one of the primary risks for companies doing business in foreign countries due to the potential of having significant assets seized without compensation. This risk is magnified in countries with unstable political leadership and stagnant or contracting economies. The key outcome of nationalization is the redirection of revenues to the country’s government instead of private operators who may export funds with no benefit to the host country.
 
@@ -41,4 +41,4 @@ In 2007, Venezuela nationalized Exxon Mobil’s Cerro Negro Project and other as
 
 The United States has technically nationalized several companies, usually in the form of a bailout in which the government owns a controlling interest. The bailouts of AIG in 2008 and General Motors Company in 2009 amounted to nationalization, but the U.S. government exerted very little control over these companies. The government also nationalized the failing Continental Illinois Bank and Trust in 1984, finally selling it to Bank of America in 1994.
 
-Despite the temporary nature of most nationalization actions in the United States, there are exceptions. Amtrak was transferred to government ownership after several railroad companies failed in 1971. After the terror attacks of Sept. 11, 2001, the airport security industry was nationalized under the [Transportation Security Administration (TSA)](https://www.investopedia.com/terms/t/tsa-pre.asp).
+Despite the temporary nature of most nationalization actions in the United States, there are exceptions. Amtrak was transferred to government ownership after several railroad companies failed in 1971. After the terror attacks of Sept. 11, 2001, the airport security industry was nationalized under the [[Transportation Security Administration (TSA)]](https://www.investopedia.com/terms/t/tsa-pre.asp).

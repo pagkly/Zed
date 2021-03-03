@@ -19,15 +19,15 @@ Understanding Perfect Competition
 Pure or perfect competition is a theoretical market structure in which the following criteria are met:
 
 -   All firms sell an identical product (the product is a "commodity" or "homogeneous").
--   All firms are [price takers](https://www.investopedia.com/terms/p/pricetaker.asp) (they cannot influence the market price of their product).
+-   All firms are [[price takers]](https://www.investopedia.com/terms/p/pricetaker.asp) (they cannot influence the market price of their product).
 -   Market share has no influence on prices.
 -   Buyers have complete or "perfect" information—in the past, present and future—about the product being sold and the prices charged by each firm.
 -   Resources for such a labor are perfectly mobile.
 -   Firms can enter or exit the market without cost.
 
-This can be contrasted with the more realistic [imperfect competition](https://www.investopedia.com/terms/i/imperfect_competition.asp), which exists whenever a market, hypothetical or real, violates the abstract tenets of neoclassical pure or perfect competition.
+This can be contrasted with the more realistic [[imperfect competition]](https://www.investopedia.com/terms/i/imperfect_competition.asp), which exists whenever a market, hypothetical or real, violates the abstract tenets of neoclassical pure or perfect competition.
 
-Since all real markets exist outside of the plane of the perfect competition model, each can be classified as [imperfect](https://www.investopedia.com/terms/i/imperfectmarket.asp). The contemporary theory of [imperfect versus perfect competition](https://www.investopedia.com/ask/answers/032515/what-difference-between-perfect-and-imperfect-competition.asp) stems from the Cambridge tradition of post-classical economic thought.
+Since all real markets exist outside of the plane of the perfect competition model, each can be classified as [[imperfect]](https://www.investopedia.com/terms/i/imperfectmarket.asp). The contemporary theory of [[imperfect versus perfect competition]](https://www.investopedia.com/ask/answers/032515/what-difference-between-perfect-and-imperfect-competition.asp) stems from the Cambridge tradition of post-classical economic thought.
 
 ### Key Takeaways
 
@@ -37,9 +37,9 @@ Since all real markets exist outside of the plane of the perfect competition mod
 
 ## How Perfect Competition Works
 
-Perfect competition is a benchmark, or "ideal type," to which real-life market structures can be compared. [Perfect competition is theoretically the opposite](https://www.investopedia.com/ask/answers/040915/what-difference-between-monopolistic-market-and-perfect-competition.asp) of a [monopoly](https://www.investopedia.com/terms/m/monopoly.asp), in which only a single firm supplies a good or service and that firm can charge whatever price it wants since consumers have no alternatives and it is difficult for would-be competitors to enter the marketplace.
+Perfect competition is a benchmark, or "ideal type," to which real-life market structures can be compared. [Perfect competition is theoretically the opposite](https://www.investopedia.com/ask/answers/040915/what-difference-between-monopolistic-market-and-perfect-competition.asp) of a [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp), in which only a single firm supplies a good or service and that firm can charge whatever price it wants since consumers have no alternatives and it is difficult for would-be competitors to enter the marketplace.
 
-Under perfect competition, there are many buyers and sellers, and prices reflect [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp). Companies earn just enough profit to stay in business and no more. If they were to earn excess profits, other companies would enter the market and drive profits down. 
+Under perfect competition, there are many buyers and sellers, and prices reflect [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp). Companies earn just enough profit to stay in business and no more. If they were to earn excess profits, other companies would enter the market and drive profits down. 
 
 ### A Large and Homogeneous Market 
 
@@ -49,7 +49,7 @@ A large population of both buyers and sellers ensures that supply and demand rem
 
 ### Perfect Information Availability 
 
-Information about the ecosystem and competition in an industry constitutes a significant advantage. For example, knowledge about component sourcing and supplier pricing can make or break the market for certain companies. In certain knowledge- and [research-intensive](https://www.investopedia.com/terms/p/pricetoresearchratio.asp) industries, such as pharmaceuticals and technology, information about patents and research initiatives at competitors can help companies develop competitive strategies and build a moat around its products.
+Information about the ecosystem and competition in an industry constitutes a significant advantage. For example, knowledge about component sourcing and supplier pricing can make or break the market for certain companies. In certain knowledge- and [[research-intensive]](https://www.investopedia.com/terms/p/pricetoresearchratio.asp) industries, such as pharmaceuticals and technology, information about patents and research initiatives at competitors can help companies develop competitive strategies and build a moat around its products.
 
 In a perfectly competitive market, however, such moats do not exist. Information is equally and freely available to all market participants. This ensures that each firm can produce its goods or services at exactly the same rate and with the same production techniques as another one in the market.
 
@@ -57,7 +57,7 @@ In a perfectly competitive market, however, such moats do not exist. Information
 
 Governments play a vital role in market formation for products by imposing regulation and price controls. They can control the entry and exit of firms into a market by setting up rules to function in the market. For example, the pharmaceutical industry has to contend with a roster of rules pertaining to research, production, and sale of drugs.
 
-In turn, these rules require big [capital investments](https://www.investopedia.com/terms/c/capital-investment.asp) in the form of employees, such as lawyers and quality assurance personnel, and infrastructure, such as machinery to manufacture medicines. The cumulative costs add up and make it extremely expensive for companies to bring a drug to the market.
+In turn, these rules require big [[capital investments]](https://www.investopedia.com/terms/c/capital-investment.asp) in the form of employees, such as lawyers and quality assurance personnel, and infrastructure, such as machinery to manufacture medicines. The cumulative costs add up and make it extremely expensive for companies to bring a drug to the market.
 
 In comparison, the technology industry functions with relatively less oversight as compared to its pharma counterpart. Thus, entrepreneurs in this industry can start firms with less to zero capital, making it easy for individuals to start a company in the industry. 
 
@@ -71,7 +71,7 @@ Cheap and efficient transportation is another characteristic of perfect competit
 
 As mentioned earlier, perfect competition is a theoretical construct and does not exist in reality. As such, it is difficult to find real-life examples of perfect competition but there are variants present in everyday society.
 
-Consider the situation at a farmer’s market, a place characterized by a large number of small sellers and buyers. Typically, there is little [differentiation](https://www.investopedia.com/terms/p/product_differentiation.asp) between products and their prices from one farmer’s market to another. The provenance of the produce does not matter (unless they are classified as organic) in such cases and there is very little difference in the packaging or branding of products. Thus, even if one of the farms producing goods for the market goes out of business, it will not make a difference to average prices.
+Consider the situation at a farmer’s market, a place characterized by a large number of small sellers and buyers. Typically, there is little [[differentiation]](https://www.investopedia.com/terms/p/product_differentiation.asp) between products and their prices from one farmer’s market to another. The provenance of the produce does not matter (unless they are classified as organic) in such cases and there is very little difference in the packaging or branding of products. Thus, even if one of the farms producing goods for the market goes out of business, it will not make a difference to average prices.
 
 The situation may also be relatively similar in the case of two competing supermarkets, which stock their aisles from the same set of companies. Again, there is little to distinguish products from one another between both supermarkets and their pricing remains almost the same. Another example of perfect competition is the market for unbranded products, which features cheaper versions of well-known products.
 
@@ -95,11 +95,11 @@ An expansion of production capabilities could potentially bring down costs for c
 
 The short answer to that question is no. Profits may be possible for brief periods in perfectly competitive markets. But the market’s dynamics cancel out the effects of positive or negative profits and bring them towards an equilibrium. Because there is no information asymmetry in the market, other firms will quickly ramp up their production or reduce their manufacturing costs to achieve parity with the firm which made profits.
 
-The [average revenue](https://www.investopedia.com/terms/a/arpu.asp) and marginal revenue for firms in a perfectly competitive market are equal to the product’s price to the buyer. As a result, the perfectly competitive market’s equilibrium, which had been disrupted earlier, will be restored. In the long run, an adjustment of supply and demand ensures all profits or losses in such markets tend towards zero.
+The [[average revenue]](https://www.investopedia.com/terms/a/arpu.asp) and marginal revenue for firms in a perfectly competitive market are equal to the product’s price to the buyer. As a result, the perfectly competitive market’s equilibrium, which had been disrupted earlier, will be restored. In the long run, an adjustment of supply and demand ensures all profits or losses in such markets tend towards zero.
 
 ## Does Perfect Competition Exist in the Real World? 
 
-Real-world competition differs from this ideal primarily because of [differentiation in production, marketing, and selling](https://www.investopedia.com/terms/p/product_differentiation.asp). For example, in agriculture, the owner of a small organic products shop can talk extensively about the grain fed to the cows that made the manure that fertilized the non-GMO soybeans—that's differentiation. Through marketing, companies seek to establish "brand value" around their differentiation and advertise to gain pricing power and market share.
+Real-world competition differs from this ideal primarily because of [[differentiation in production, marketing, and selling]](https://www.investopedia.com/terms/p/product_differentiation.asp). For example, in agriculture, the owner of a small organic products shop can talk extensively about the grain fed to the cows that made the manure that fertilized the non-GMO soybeans—that's differentiation. Through marketing, companies seek to establish "brand value" around their differentiation and advertise to gain pricing power and market share.
 
 Thus, the first two criteria—homogeneous products and price takers—are far from realistic. Yet, for the second two criteria—information and mobility—the global tech and trade transformation is improving information and resource flexibility. While the reality is far from this theoretical model, the model is still helpful because of its ability to explain many real-life behaviors.
 

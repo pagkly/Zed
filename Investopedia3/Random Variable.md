@@ -16,9 +16,9 @@ author: Will Kenton
 Random Variable
 ## What Is a Random Variable?
 
-A random variable is a variable whose value is unknown or a function that assigns values to each of an experiment's outcomes. Random variables are often designated by letters and can be classified as [discrete](https://www.investopedia.com/terms/d/discrete-distribution.asp), which are variables that have specific values, or continuous, which are variables that can have any values within a continuous range.
+A random variable is a variable whose value is unknown or a function that assigns values to each of an experiment's outcomes. Random variables are often designated by letters and can be classified as [[discrete]](https://www.investopedia.com/terms/d/discrete-distribution.asp), which are variables that have specific values, or continuous, which are variables that can have any values within a continuous range.
 
-Random variables are often used in [econometric](https://www.investopedia.com/terms/e/econometrics.asp) or [regression](https://www.investopedia.com/terms/r/regression.asp) analysis to determine statistical relationships among one another.
+Random variables are often used in [[econometric]](https://www.investopedia.com/terms/e/econometrics.asp) or [[regression]](https://www.investopedia.com/terms/r/regression.asp) analysis to determine statistical relationships among one another.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ Random variables are often used in [econometric](https://www.investopedia.com/te
 
 ## Understanding a Random Variable
 
-In probability and [statistics](https://www.investopedia.com/terms/s/statistics.asp), random variables are used to quantify outcomes of a random occurrence, and therefore, can take on many values. Random variables are required to be measurable and are typically real numbers. For example, the letter X may be designated to represent the sum of the resulting numbers after three dice are rolled. In this case, X could be 3 (1 + 1+ 1), 18 (6 + 6 + 6), or somewhere between 3 and 18, since the highest number of a die is 6 and the lowest number is 1.
+In probability and [[statistics]](https://www.investopedia.com/terms/s/statistics.asp), random variables are used to quantify outcomes of a random occurrence, and therefore, can take on many values. Random variables are required to be measurable and are typically real numbers. For example, the letter X may be designated to represent the sum of the resulting numbers after three dice are rolled. In this case, X could be 3 (1 + 1+ 1), 18 (6 + 6 + 6), or somewhere between 3 and 18, since the highest number of a die is 6 and the lowest number is 1.
 
-A random variable is different from an [algebraic](https://www.investopedia.com/terms/a/algebraic-method.asp) variable. The variable in an algebraic equation is an unknown value that can be calculated. The equation 10 + x = 13 shows that we can calculate the specific value for x which is 3. On the other hand, a random variable has a set of values, and any of those values could be the resulting outcome as seen in the example of the dice above.
+A random variable is different from an [[algebraic]](https://www.investopedia.com/terms/a/algebraic-method.asp) variable. The variable in an algebraic equation is an unknown value that can be calculated. The equation 10 + x = 13 shows that we can calculate the specific value for x which is 3. On the other hand, a random variable has a set of values, and any of those values could be the resulting outcome as seen in the example of the dice above.
 
-In the corporate world, random variables can be assigned to properties such as the average price of an asset over a given time period, the [return on investment](https://www.investopedia.com/terms/r/returnoninvestment.asp) after a specified number of years, the estimated turnover rate at a company within the following six months, etc. Risk analysts assign random variables to risk models when they want to estimate the probability of an adverse event occurring. These variables are presented using tools such as scenario and [sensitivity analysis](https://www.investopedia.com/terms/s/sensitivityanalysis.asp) tables which risk managers use to make decisions concerning risk mitigation.
+In the corporate world, random variables can be assigned to properties such as the average price of an asset over a given time period, the [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) after a specified number of years, the estimated turnover rate at a company within the following six months, etc. Risk analysts assign random variables to risk models when they want to estimate the probability of an adverse event occurring. These variables are presented using tools such as scenario and [[sensitivity analysis]](https://www.investopedia.com/terms/s/sensitivityanalysis.asp) tables which risk managers use to make decisions concerning risk mitigation.
 
 ## Types of Random Variables
 
@@ -43,7 +43,7 @@ Continuous random variables can represent any value within a specified range or 
 
 Drawing on the latter, if Y represents the random variable for the average height of a random group of 25 people, you will find that the resulting outcome is a continuous figure since height may be 5 ft or 5.01 ft or 5.0001 ft. Clearly, there is an infinite number of possible values for height.
 
-A random variable has a [probability distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that represents the likelihood that any of the possible values would occur. Let’s say that the random variable, Z, is the number on the top face of a die when it is rolled once. The possible values for Z will thus be 1, 2, 3, 4, 5, and 6. The probability of each of these values is 1/6 as they are all equally likely to be the value of Z.
+A random variable has a [[probability distribution]](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that represents the likelihood that any of the possible values would occur. Let’s say that the random variable, Z, is the number on the top face of a die when it is rolled once. The possible values for Z will thus be 1, 2, 3, 4, 5, and 6. The probability of each of these values is 1/6 as they are all equally likely to be the value of Z.
 
 For instance, the probability of getting a 3, or P (Z=3), when a die is thrown is 1/6, and so is the probability of having a 4 or a 2 or any other number on all six faces of a die. Note that the sum of all probabilities is 1.
 

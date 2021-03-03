@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Covered Call Definition
 ## What Is a Covered Call?
 
-A covered call refers to a financial transaction in which the investor selling call options owns an equivalent amount of the underlying security. To execute this an investor holding a [long position](https://www.investopedia.com/terms/l/long.asp) in an [asset](https://www.investopedia.com/terms/a/asset.asp) then writes (sells) call options on that same asset to generate an income stream. The investor's long position in the asset is the "cover" because it means the seller can deliver the shares if the buyer of the call option chooses to exercise. If the investor simultaneously buys stock and writes call options against that stock position, it is known as a "buy-write" transaction.
+A covered call refers to a financial transaction in which the investor selling call options owns an equivalent amount of the underlying security. To execute this an investor holding a [[long position]](https://www.investopedia.com/terms/l/long.asp) in an [[asset]](https://www.investopedia.com/terms/a/asset.asp) then writes (sells) call options on that same asset to generate an income stream. The investor's long position in the asset is the "cover" because it means the seller can deliver the shares if the buyer of the call option chooses to exercise. If the investor simultaneously buys stock and writes call options against that stock position, it is known as a "buy-write" transaction.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ A covered call refers to a financial transaction in which the investor selling c
 
 ## Understanding Covered Calls
 
-Covered calls are a neutral strategy, meaning the investor only expects a minor increase or decrease in the underlying stock price for the life of the written call option. This strategy is often employed when an investor has a short-term neutral view on the asset and for this reason holds the asset long and simultaneously has a [short position](https://www.investopedia.com/terms/s/short.asp) via the option to generate income from the [option premium](https://www.investopedia.com/terms/o/option-premium.asp).
+Covered calls are a neutral strategy, meaning the investor only expects a minor increase or decrease in the underlying stock price for the life of the written call option. This strategy is often employed when an investor has a short-term neutral view on the asset and for this reason holds the asset long and simultaneously has a [[short position]](https://www.investopedia.com/terms/s/short.asp) via the option to generate income from the [[option premium]](https://www.investopedia.com/terms/o/option-premium.asp).
 
 Simply put, if an investor intends to hold the underlying stock for a long time but does not expect an appreciable price increase in the near term then they can generate income (premiums) for their account while they wait out the lull.
 
-A covered call serves as a short-term [hedge](https://www.investopedia.com/terms/h/hedge.asp) on a long stock position and allows investors to earn income via the premium received for writing the option. However, the investor forfeits stock gains if the price moves above the option's [strike price](https://www.investopedia.com/terms/s/strikeprice.asp). They are also obligated to provide 100 shares at the strike price (for each contract written) if the buyer chooses to [exercise](https://www.investopedia.com/terms/e/exercise.asp) the option.
+A covered call serves as a short-term [hedge](https://www.investopedia.com/terms/h/hedge.asp) on a long stock position and allows investors to earn income via the premium received for writing the option. However, the investor forfeits stock gains if the price moves above the option's [strike price](https://www.investopedia.com/terms/s/strikeprice.asp). They are also obligated to provide 100 shares at the strike price (for each contract written) if the buyer chooses to [[exercise]](https://www.investopedia.com/terms/e/exercise.asp) the option.
 
-A covered call strategy is not useful for a very [bullish](https://www.investopedia.com/terms/b/bull.asp) nor a very [bearish](https://www.investopedia.com/terms/b/bear.asp) investor. If an investor is very bullish, they are typically better off _not_ writing the option and just holding the stock. The option caps the profit on the stock, which could reduce the overall profit of the trade if the stock price spikes. Similarly, if an investor is very bearish, they may be better off simply selling the stock, since the premium received for writing a call option will do little to offset the loss on the stock if the stock plummets.
+A covered call strategy is not useful for a very [[bullish]](https://www.investopedia.com/terms/b/bull.asp) nor a very [[bearish]](https://www.investopedia.com/terms/b/bear.asp) investor. If an investor is very bullish, they are typically better off _not_ writing the option and just holding the stock. The option caps the profit on the stock, which could reduce the overall profit of the trade if the stock price spikes. Similarly, if an investor is very bearish, they may be better off simply selling the stock, since the premium received for writing a call option will do little to offset the loss on the stock if the stock plummets.
 
 Image by Julie Bang © Investopedia 2019
 
@@ -45,9 +45,9 @@ The maximum loss is equivalent to the purchase price of the underlying stock les
 
 ## Covered Call Example
 
-An investor owns shares of hypothetical company TSJ. They like its long-term prospects as well as its share price but feel in the shorter term the stock will likely trade relatively flat, perhaps within a couple dollars of its [current price](https://www.investopedia.com/terms/c/currentprice.asp) of $25.
+An investor owns shares of hypothetical company TSJ. They like its long-term prospects as well as its share price but feel in the shorter term the stock will likely trade relatively flat, perhaps within a couple dollars of its [[current price]](https://www.investopedia.com/terms/c/currentprice.asp) of $25.
 
-If they sell a [call option](https://www.investopedia.com/terms/c/calloption.asp) on TSJ with a strike price of $27, they earn the [premium](https://www.investopedia.com/terms/p/premium.asp) from the option sale but, for the duration of the option, cap their upside on the stock to $27. Assume the premium they receive for writing a three-month call option is $0.75 ($75 per contract or 100 shares).
+If they sell a [[call option]](https://www.investopedia.com/terms/c/calloption.asp) on TSJ with a strike price of $27, they earn the [[premium]](https://www.investopedia.com/terms/p/premium.asp) from the option sale but, for the duration of the option, cap their upside on the stock to $27. Assume the premium they receive for writing a three-month call option is $0.75 ($75 per contract or 100 shares).
 
 One of two scenarios will play out:
 
@@ -70,4 +70,4 @@ Depending on the custodian of your IRA and your eligibility to trade options wit
 
 ### Is there such a thing as a covered put?
 
-In contrast to call options, put options grant the contract holder the right to sell the underlying (as opposed to buy it) at a set price. The equivalent position using puts would involve selling short shares and then selling a downside put. This, however, is uncommon. Instead, traders may employ a [married put](https://www.investopedia.com/terms/m/marriedput.asp), where an investor, holding a long position in a stock, purchases a [put option](https://www.investopedia.com/terms/p/putoption.asp) on the same stock to protect against depreciation in the stock's price.
+In contrast to call options, put options grant the contract holder the right to sell the underlying (as opposed to buy it) at a set price. The equivalent position using puts would involve selling short shares and then selling a downside put. This, however, is uncommon. Instead, traders may employ a [[married put]](https://www.investopedia.com/terms/m/marriedput.asp), where an investor, holding a long position in a stock, purchases a [[put option]](https://www.investopedia.com/terms/p/putoption.asp) on the same stock to protect against depreciation in the stock's price.

@@ -16,7 +16,7 @@ author: Julia Kagan
 Toeing the Trade Line
 ## What Is a Trade Line?
 
-A trade line is a record of activity for any type of credit extended to a borrower and [reported to a credit reporting agency](https://www.investopedia.com/terms/c/credit-reporting-agency.asp). A trade line is established on a borrower’s credit report when a borrower is approved for credit. The trade line records all of the activity associated with an account.
+A trade line is a record of activity for any type of credit extended to a borrower and [[reported to a credit reporting agency]](https://www.investopedia.com/terms/c/credit-reporting-agency.asp). A trade line is established on a borrower’s credit report when a borrower is approved for credit. The trade line records all of the activity associated with an account.
 
 Comprehensively, trade lines are used by credit reporting agencies to calculate a borrower’s credit score. Different credit reporting agencies give differing weights to the activities of trade lines when establishing a credit score for borrowers.
 
@@ -44,6 +44,6 @@ One of the most significant features of the trade line is payment status.
 
 Late payments are usually grouped in a range of days according to how late they are. For example, 30 days late, 60 days late, or 90 days late. The payment status may be set to “charge off” if the creditor deems it unlikely that the debt will be repaid, and the status may also indicate that the credit recipient has entered bankruptcy.
 
-As trade lines are used by credit reporting agencies to develop an individual’s credit score, credit scores vary, with [higher scores generally given to individuals with more-favorable trade line reporting](https://www.investopedia.com/how-to-improve-your-credit-score-4590097). Factors considered when calculating the credit score include the number of trade lines, types of trade lines, lengths of open accounts, and payment history.
+As trade lines are used by credit reporting agencies to develop an individual’s credit score, credit scores vary, with [[higher scores generally given to individuals with more-favorable trade line reporting]](https://www.investopedia.com/how-to-improve-your-credit-score-4590097). Factors considered when calculating the credit score include the number of trade lines, types of trade lines, lengths of open accounts, and payment history.
 
 In addition to reviewing a borrower’s credit score, a lender who pulls data from a credit-reporting agency may also comprehensively analyze all of the trade line reporting on a credit report when considering a credit application in the underwriting process.

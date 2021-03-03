@@ -16,7 +16,7 @@ author: Christina Majaski
 What Is the Definition of a Fractional Share?
 ## What Is a Fractional Share?
 
-Less than one full share of [equity](https://www.investopedia.com/terms/e/equity.asp) is called a fractional share. Such shares may be the result of stock splits, dividend reinvestment plans (DRIPs), or similar corporate actions. Typically, fractional shares aren't available from the stock market, and while they have value to investors, they are also difficult to sell.
+Less than one full share of [[equity]](https://www.investopedia.com/terms/e/equity.asp) is called a fractional share. Such shares may be the result of stock splits, dividend reinvestment plans (DRIPs), or similar corporate actions. Typically, fractional shares aren't available from the stock market, and while they have value to investors, they are also difficult to sell.
 
 ### Key Takeaways
 
@@ -57,4 +57,4 @@ Not everyone wants to hold onto fractional shares, especially if they ended up w
 
 ## Real-World Example of a Fractional Share
 
-In November of 2019, [Interactive Brokers](https://www.investopedia.com/interactive-brokers-review-4587904) became the first of the major online brokers to offer fractional shares trading.3 On January 29, 2020, [Fidelity](https://www.investopedia.com/fidelity-review-4587897) announced it will offer fractional shares trading of equities and ETFs.4
+In November of 2019, [[Interactive Brokers]](https://www.investopedia.com/interactive-brokers-review-4587904) became the first of the major online brokers to offer fractional shares trading.3 On January 29, 2020, [[Fidelity]](https://www.investopedia.com/fidelity-review-4587897) announced it will offer fractional shares trading of equities and ETFs.4

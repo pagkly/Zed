@@ -16,9 +16,9 @@ author: Carla Tardi
 What Is the Matter With the Monthly Active Users (MAU) Metric?
 ## What Is Monthly Active Users (MAU)?
 
-Monthly active users (MAU) is a [key performance indicator (KPI)](https://www.investopedia.com/terms/k/kpi.asp) used by social networking and other companies to count the number of unique users who visit a site within the past month. Websites generally recognize monthly active users via an identification number, email address, or username.
+Monthly active users (MAU) is a [[key performance indicator (KPI)]](https://www.investopedia.com/terms/k/kpi.asp) used by social networking and other companies to count the number of unique users who visit a site within the past month. Websites generally recognize monthly active users via an identification number, email address, or username.
 
-MAU helps to measure an online business's general health and is the basis for calculating other website metrics. MAU is also useful when assessing the efficacy of a business's marketing campaigns and gauging both present and potential customers' experience. Investors in the [social media](https://www.investopedia.com/terms/s/social-media.asp) industry, pay attention when companies report MAU, as it is a KPI that can affect a social-media company's stock price.
+MAU helps to measure an online business's general health and is the basis for calculating other website metrics. MAU is also useful when assessing the efficacy of a business's marketing campaigns and gauging both present and potential customers' experience. Investors in the [[social media]](https://www.investopedia.com/terms/s/social-media.asp) industry, pay attention when companies report MAU, as it is a KPI that can affect a social-media company's stock price.
 
 ### Key Takeaways
 
@@ -45,7 +45,7 @@ That there are no uniform standards for the individual components of MAU, and ot
 
 Seemingly an apt move on Facebook's part, this begs the question: Did the other social media websites also make this change in their MAU calculations?
 
-For years, Twitter had been asking investors to judge the company on its _daily_ active user (DAU), not MAU, growth. On its 2015 fourth-quarter earnings call, Twitter was asked to explain why it had lost four million MAUs during the previous quarter; the reason it turned out was that most of those four million "users" did not _use_ Twitter at all. Rather, they had been counted when [Apple's (NASDAQ: AAPL)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl) Safari web browser performed an automatic Twitter data pull.
+For years, Twitter had been asking investors to judge the company on its _daily_ active user (DAU), not MAU, growth. On its 2015 fourth-quarter earnings call, Twitter was asked to explain why it had lost four million MAUs during the previous quarter; the reason it turned out was that most of those four million "users" did not _use_ Twitter at all. Rather, they had been counted when [[Apple's (NASDAQ: AAPL)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl) Safari web browser performed an automatic Twitter data pull.
 
 However, Twitter only began sharing its DAU data in February 2019. Switching from monthly to daily user counts showed that the company was gaining, not losing users. Twitter said that it will stop sharing its MAU figure altogether beginning in late 2019. One might ask: If Twitter does stop sharing its MAU data, will its competitors do the same?
 

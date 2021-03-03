@@ -16,7 +16,7 @@ author: James Chen
 What Is an Unsecured Note?
 ## What Is an Unsecured Note?
 
-An unsecured note is a loan that is not secured by the issuer's assets. [Unsecured](https://www.investopedia.com/terms/u/unsecured.asp) notes are similar to [debentures](https://www.investopedia.com/terms/d/debenture.asp) but offer a higher [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp). Unsecured notes offer less security than a debenture. Such notes are also often uninsured and subordinated. The note is structured for a fixed period of time.
+An unsecured note is a loan that is not secured by the issuer's assets. [[Unsecured]](https://www.investopedia.com/terms/u/unsecured.asp) notes are similar to [[debentures]](https://www.investopedia.com/terms/d/debenture.asp) but offer a higher [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp). Unsecured notes offer less security than a debenture. Such notes are also often uninsured and subordinated. The note is structured for a fixed period of time.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ An unsecured note is a loan that is not secured by the issuer's assets. [Unsecur
 
 ## Understanding Unsecured Note
 
-Companies sell unsecured notes through private offerings to generate money for corporate initiatives such as [share repurchases](https://www.investopedia.com/terms/s/sharerepurchase.asp) and [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp). An unsecured note is not backed by any collateral and thus presents more risk to lenders. Due to the higher risk involved, the interest rates on these notes are higher than with secured notes.
+Companies sell unsecured notes through private offerings to generate money for corporate initiatives such as [[share repurchases]](https://www.investopedia.com/terms/s/sharerepurchase.asp) and [[acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp). An unsecured note is not backed by any collateral and thus presents more risk to lenders. Due to the higher risk involved, the interest rates on these notes are higher than with secured notes.
 
-In contrast, a [secured note](https://www.investopedia.com/terms/s/securednote.asp) is a loan, backed by the borrower's assets, such as a mortgage or auto loan. If the borrower defaults, these assets will go towards the repayment of the note. For this reason, collateral assets must be worth at least as much as the note. Additional examples of collateral that can be pledged include stocks, bonds, jewelry, and artwork.
+In contrast, a [[secured note]](https://www.investopedia.com/terms/s/securednote.asp) is a loan, backed by the borrower's assets, such as a mortgage or auto loan. If the borrower defaults, these assets will go towards the repayment of the note. For this reason, collateral assets must be worth at least as much as the note. Additional examples of collateral that can be pledged include stocks, bonds, jewelry, and artwork.
 
 ## Unsecured Note and Credit Rating
 
-Credit rating agencies will often rate debt issuers. For example, in the case of [Fitch](https://www.investopedia.com/terms/f/fitch-ratings.asp), this agency will offer a letter-based [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) that reflects the chances that the issuer will default, based on internal (i.e. stability of cash flows) and external (market-based) factors.
+Credit rating agencies will often rate debt issuers. For example, in the case of [[Fitch]](https://www.investopedia.com/terms/f/fitch-ratings.asp), this agency will offer a letter-based [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) that reflects the chances that the issuer will default, based on internal (i.e. stability of cash flows) and external (market-based) factors.
 
 **Investment-Grade**
 

@@ -16,7 +16,7 @@ author: James Chen
 Voting Shares
 ## What Are Voting Shares?
 
-Voting shares are shares that give the stockholder the right to vote on matters of corporate policymaking. Owning voting shares also allows a vote on who should be on the company’s [board of directors](https://www.investopedia.com/terms/b/boardoftrustees.asp). 
+Voting shares are shares that give the stockholder the right to vote on matters of corporate policymaking. Owning voting shares also allows a vote on who should be on the company’s [[board of directors]](https://www.investopedia.com/terms/b/boardoftrustees.asp). 
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ Voting shares are shares that give the stockholder the right to vote on matters 
 
 ## How Voting Shares Work
 
-Different [classes of shares](https://www.investopedia.com/terms/c/class.asp), such as preferred stock, sometimes do not allow for voting rights. The holders of voting shares have the ability to weigh in on decisions about a company’s future direction. For instance, if a company is considering an acquisition offer by another company or a group of investors, the owners of voting shares would be able to cast their vote on the offer.
+Different [[classes of shares]](https://www.investopedia.com/terms/c/class.asp), such as preferred stock, sometimes do not allow for voting rights. The holders of voting shares have the ability to weigh in on decisions about a company’s future direction. For instance, if a company is considering an acquisition offer by another company or a group of investors, the owners of voting shares would be able to cast their vote on the offer.
 
 Shareholders who own voting shares typically receive regular communications from the company regarding matters that would require a vote for the organization to act. The decision to vote or not vote on such issues does not directly affect their ownership of shares or their value. There may be subsequent actions that result from the votes that may affect market value.
 
 ## Special Considerations 
 
-It is not uncommon for so-called [activist investors](https://www.investopedia.com/terms/a/activist-investor.asp) to seek the support of the owners who hold voting shares to cast their votes in favor of an action or decision the activist investor wants the company to pursue. [Hostile bids](https://www.investopedia.com/terms/h/hostile-bid.asp) to acquire a company may see the prospective buyers campaign to the holders of voting shares in the hopes of gathering enough support to effect a new direction at the company. This may include a change of the current board of directors, which would allow for further changes at the organization such as the removal and replacement of executive officers of the company.
+It is not uncommon for so-called [[activist investors]](https://www.investopedia.com/terms/a/activist-investor.asp) to seek the support of the owners who hold voting shares to cast their votes in favor of an action or decision the activist investor wants the company to pursue. [[Hostile bids]](https://www.investopedia.com/terms/h/hostile-bid.asp) to acquire a company may see the prospective buyers campaign to the holders of voting shares in the hopes of gathering enough support to effect a new direction at the company. This may include a change of the current board of directors, which would allow for further changes at the organization such as the removal and replacement of executive officers of the company.
 
 If the board of directors agrees to such actions as the sale of the company, the approval process for the deal includes a vote among shareholders who own voting shares. The owners of voting shares could reject an offer if they believe the bid does not meet their valuation of the company.
 

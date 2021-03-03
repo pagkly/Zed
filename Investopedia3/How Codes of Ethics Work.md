@@ -18,7 +18,7 @@ How Codes of Ethics Work
 
 A code of ethics is a guide of principles designed to help professionals conduct business honestly and with integrity. A code of ethics document may outline the mission and values of the business or organization, how professionals are supposed to approach problems, the ethical principles based on the organization's core values, and the standards to which the professional is held.
 
-A code of ethics, also referred to as an "ethical code," may encompass areas such as [business ethics](https://www.investopedia.com/terms/b/business-ethics.asp), a code of professional practice, and an employee code of conduct.
+A code of ethics, also referred to as an "ethical code," may encompass areas such as [[business ethics]](https://www.investopedia.com/terms/b/business-ethics.asp), a code of professional practice, and an employee code of conduct.
 
 ### Key Takeaways
 
@@ -36,11 +36,11 @@ While many laws exist to set basic ethical standards within the business communi
 
 Both businesses and trade organizations typically have some sort of code of ethics that their employees or members are supposed to follow. Breaking the code of ethics can result in termination or dismissal from the organization. A code of ethics is important because it clearly lays out the rules for behavior and provides the groundwork for a preemptive warning.
 
-While a code of ethics is often not required, many firms and organizations choose to adopt one, which helps to identify and characterize a business to [stakeholders](https://www.investopedia.com/terms/s/stakeholder.asp).
+While a code of ethics is often not required, many firms and organizations choose to adopt one, which helps to identify and characterize a business to [[stakeholders]](https://www.investopedia.com/terms/s/stakeholder.asp).
 
 Given the importance of climate change and how human behavior has led to negatively impacting the climate in a severe manner, many companies have taken to include climate factors in their code of ethics. These principles include manners in which the company is dedicated to operating sustainably or how they will shift to doing so.
 
-In many cases, this commitment to [sustainability](https://www.investopedia.com/terms/s/sustainability.asp) adds to the costs of a company, but because consumers are becoming more focused on the types of businesses they choose to engage with, it is often worth the cost to maintain a good public image.
+In many cases, this commitment to [[sustainability]](https://www.investopedia.com/terms/s/sustainability.asp) adds to the costs of a company, but because consumers are becoming more focused on the types of businesses they choose to engage with, it is often worth the cost to maintain a good public image.
 
 Regardless of size, businesses count on their management staff to set a standard of ethical conduct for other employees to follow. When administrators adhere to the code of ethics, it sends a message that universal compliance is expected of every employee.
 
@@ -54,7 +54,7 @@ For all businesses, laws regulate issues such as hiring and safety standards. Co
 
 In some industries, including banking, specific laws govern business conduct. These industries formulate compliance-based codes of ethics to enforce laws and regulations. Employees usually undergo formal training to learn the rules of conduct. Because noncompliance can create legal issues for the company as a whole, individual workers within a firm may face penalties for failing to follow guidelines.
 
-To ensure that the aims and principles of the code of ethics are followed, some companies appoint a [compliance officer](https://www.investopedia.com/terms/c/compliance-officer.asp). This individual is tasked with keeping up to date on changes in regulation codes and monitoring employee conduct to encourage conformity.
+To ensure that the aims and principles of the code of ethics are followed, some companies appoint a [[compliance officer]](https://www.investopedia.com/terms/c/compliance-officer.asp). This individual is tasked with keeping up to date on changes in regulation codes and monitoring employee conduct to encourage conformity.
 
 This type of code of ethics is based on clear-cut rules and well-defined consequences rather than individual monitoring of personal behavior. Despite strict adherence to the law, some compliance-based codes of conduct do not thus promote a climate of moral responsibility within the company.
 
@@ -62,17 +62,17 @@ This type of code of ethics is based on clear-cut rules and well-defined consequ
 
 A value-based code of ethics addresses a company's core value system. It may outline standards of responsible conduct as they relate to the larger public good and the environment. Value-based ethical codes may require a greater degree of self-regulation than compliance-based codes.
 
-Some codes of conduct contain language that addresses both compliance and values. For example, a grocery store chain might create a code of conduct that espouses the company's commitment to health and safety regulations above financial gain. That grocery chain might also include a statement about refusing to contract with [suppliers](https://www.investopedia.com/terms/v/vendor.asp) that feed hormones to livestock or raise animals in inhumane living conditions.
+Some codes of conduct contain language that addresses both compliance and values. For example, a grocery store chain might create a code of conduct that espouses the company's commitment to health and safety regulations above financial gain. That grocery chain might also include a statement about refusing to contract with [[suppliers]](https://www.investopedia.com/terms/v/vendor.asp) that feed hormones to livestock or raise animals in inhumane living conditions.
 
 ### Code of Ethics Among Professionals
 
-Financial advisers registered with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) or a state regulator are bound by a code of ethics known as [fiduciary duty](https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp). This is a legal requirement and also a code of loyalty that requires them to act in the best interest of their clients.
+Financial advisers registered with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) or a state regulator are bound by a code of ethics known as [fiduciary duty](https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp). This is a legal requirement and also a code of loyalty that requires them to act in the best interest of their clients.
 
-Certified public accountants, who are not typically considered to be a fiduciary to their clients, still are expected to follow similar ethical standards, such as integrity, objectivity, truthfulness, and avoidance of conflicts of interest, according to the [American Institute of Certified Public Accountants](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA).
+Certified public accountants, who are not typically considered to be a fiduciary to their clients, still are expected to follow similar ethical standards, such as integrity, objectivity, truthfulness, and avoidance of conflicts of interest, according to the [[American Institute of Certified Public Accountants]](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA).
 
 ## Example of Code of Ethics
 
-Many firms and organizations have adopted a code of ethics. One good example comes from the CFA Institue (CFAI), the grantor of the Chartered Financial Analyst (CFA) designation and creator of the CFA exams. [CFA charterholders](https://www.investopedia.com/terms/c/cfa.asp) are among the most respected and globally recognized financial professionals. According to the CFAI's website, Members of CFA Institute, including CFA charterholders, and candidates for the CFA designation must adhere to the following [code of ethics](https://www.cfainstitute.org/-/media/documents/code/code-ethics-standards/code-of-ethics-standards-professional-conduct.ashx):
+Many firms and organizations have adopted a code of ethics. One good example comes from the CFA Institue (CFAI), the grantor of the Chartered Financial Analyst (CFA) designation and creator of the CFA exams. [[CFA charterholders]](https://www.investopedia.com/terms/c/cfa.asp) are among the most respected and globally recognized financial professionals. According to the CFAI's website, Members of CFA Institute, including CFA charterholders, and candidates for the CFA designation must adhere to the following [[code of ethics]](https://www.cfainstitute.org/-/media/documents/code/code-ethics-standards/code-of-ethics-standards-professional-conduct.ashx):
 
 -   Act with integrity, competence, diligence, respect, and in an ethical manner with the public, clients, prospective clients, employers, employees, colleagues in the investment profession, and other participants in the global capital markets.
 -   Place the integrity of the investment profession and the interests of clients above their own personal interests.
@@ -107,4 +107,4 @@ A code of ethics is broader in its nature, outlining what is acceptable for the 
 
 A code of ethics is a guiding set of principles intended to instruct professionals to act in a manner that is honest and that is beneficial to all stakeholders involved. A code of ethics is drafted by a business and tailored made to the specific industry at hand, requiring all employees of that business to adhere to the code.
 
-The moral choices of businesses have [evolved over time](https://www.investopedia.com/ask/answers/022615/how-have-business-ethics-evolved-over-time.asp), from the industrial age to the modern era. In the world we live in today, working conditions, how a business impacts the environment, and how it deals with inequality are all areas that society deems important that perhaps two centuries ago it did not as much. A code of ethics helps ensure that businesses will always act with integrity.
+The moral choices of businesses have [[evolved over time]](https://www.investopedia.com/ask/answers/022615/how-have-business-ethics-evolved-over-time.asp), from the industrial age to the modern era. In the world we live in today, working conditions, how a business impacts the environment, and how it deals with inequality are all areas that society deems important that perhaps two centuries ago it did not as much. A code of ethics helps ensure that businesses will always act with integrity.

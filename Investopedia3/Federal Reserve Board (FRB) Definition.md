@@ -26,7 +26,7 @@ The Board of Governors of the Federal Reserve System, also known as the Federal 
 
 ## How the Federal Reserve Board (FRB) Works
 
-The [Board of Governors](https://www.investopedia.com/terms/b/board-of-governors.asp) of the Federal Reserve System called the Federal Reserve Board or FRB for short, is a seven-member body that governs the [Federal Reserve System](https://www.investopedia.com/terms/f/federalreservesystem.asp), the U.S. central bank in charge of making the country's monetary policy.1
+The [[Board of Governors]](https://www.investopedia.com/terms/b/board-of-governors.asp) of the Federal Reserve System called the Federal Reserve Board or FRB for short, is a seven-member body that governs the [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp), the U.S. central bank in charge of making the country's monetary policy.1
 
 The FRB is considered an independent agency of the federal government. The Fed has a statutory mandate to maximum employment and stable prices at moderate long-term interest rates, and the FRB chair and other officials frequently testify before Congress, but it makes monetary policy independently of the legislative or executive branches and is structured like a private corporation.
 
@@ -58,6 +58,6 @@ Source3
 
 ## Duties of the Federal Reserve Board (FRB)
 
-The Federal Reserve Board members' most important role is as members of the [Federal Open Market Committee (FOMC)](https://www.investopedia.com/terms/f/fomc.asp), which is in charge of the open market operations that determine the federal funds rate, one of the global economy's most important benchmark interest rates. In addition to the seven governors, the FOMC consists of the president of the Federal Reserve Bank of New York and a rotating set of four other branch presidents. The chair of the FRB also chairs the FOMC.4
+The Federal Reserve Board members' most important role is as members of the [[Federal Open Market Committee (FOMC)]](https://www.investopedia.com/terms/f/fomc.asp), which is in charge of the open market operations that determine the federal funds rate, one of the global economy's most important benchmark interest rates. In addition to the seven governors, the FOMC consists of the president of the Federal Reserve Bank of New York and a rotating set of four other branch presidents. The chair of the FRB also chairs the FOMC.4
 
 The FRB is directly in charge of two other monetary policy tools, the discount rate (based on suggestions from the regional branches) and reserve requirements. It is also tasked with supervising the Fed's 12 regional branches.5

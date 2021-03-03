@@ -16,7 +16,7 @@ author: Will Kenton
 Hotelling's Theory
 ## What Is Hotelling's Theory?
 
-Hotelling's theory, or Hotelling's rule, posits that owners of non-renewable resources will only produce a supply of their basic commodity if it can yield more than available financial instruments, specifically U.S. Treasury or other similar interest-bearing [securities](https://www.investopedia.com/terms/s/security.asp). This theory assumes that markets are efficient and that the owners of the non-renewable resources are motivated by profit. Hotelling's theory is used by economists to attempt to predict the price of oil and other [nonrenewable resources](https://www.investopedia.com/terms/n/nonrenewableresource.asp), based on prevailing interest rates. Hotelling's rule was named after American statistician Harold Hotelling.
+Hotelling's theory, or Hotelling's rule, posits that owners of non-renewable resources will only produce a supply of their basic commodity if it can yield more than available financial instruments, specifically U.S. Treasury or other similar interest-bearing [[securities]](https://www.investopedia.com/terms/s/security.asp). This theory assumes that markets are efficient and that the owners of the non-renewable resources are motivated by profit. Hotelling's theory is used by economists to attempt to predict the price of oil and other [[nonrenewable resources]](https://www.investopedia.com/terms/n/nonrenewableresource.asp), based on prevailing interest rates. Hotelling's rule was named after American statistician Harold Hotelling.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Hotelling's theory addresses a fundamental decision for an owner of a non-renewa
 
 ### Theory and Practice
 
-In theory, then, the price increase rates of [non-renewable resources like oil](https://www.investopedia.com/articles/financial-theory/08/hotelling-theory-price-oil.asp), copper, coal, iron ore, zinc, nickel, etc. should track the pace of real interest rate increases. In practice, the Federal Reserve Bank of Minneapolis concluded in a 2014 study that Hotelling's theory fails. The price appreciation rates of all the basic commodities examined by authors fell short, some far short, of the annual average rate of U.S. Treasury securities. The authors suspected that extraction costs explained the difference.
+In theory, then, the price increase rates of [[non-renewable resources like oil]](https://www.investopedia.com/articles/financial-theory/08/hotelling-theory-price-oil.asp), copper, coal, iron ore, zinc, nickel, etc. should track the pace of real interest rate increases. In practice, the Federal Reserve Bank of Minneapolis concluded in a 2014 study that Hotelling's theory fails. The price appreciation rates of all the basic commodities examined by authors fell short, some far short, of the annual average rate of U.S. Treasury securities. The authors suspected that extraction costs explained the difference.
 
 ### Who Was Harold Hotelling?
 

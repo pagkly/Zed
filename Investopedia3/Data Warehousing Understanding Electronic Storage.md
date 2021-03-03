@@ -16,15 +16,15 @@ author: Jake Frankenfield
 Data Warehousing: Understanding Electronic Storage
 ## What Is Data Warehousing?
 
-Data warehousing is the electronic storage of a large amount of information by a business or organization. Data warehousing is a vital component of [business intelligence](https://www.investopedia.com/terms/b/business-intelligence-bi.asp) that employs analytical techniques on business data.
+Data warehousing is the electronic storage of a large amount of information by a business or organization. Data warehousing is a vital component of [[business intelligence]](https://www.investopedia.com/terms/b/business-intelligence-bi.asp) that employs analytical techniques on business data.
 
-The concept of data warehousing was introduced in 1988 by [IBM](https://www.investopedia.com/articles/investing/032016/top-3-mutual-fund-holders-ibm-vfinx-vtsmx.asp) researchers Barry Devlin and Paul Murphy. The need to warehouse data evolved as computer systems became more complex and handled increasing amounts of data. A key book on data warehousing is W. H. Inmon's "Building the Data Warehouse," which was first published in 1990 and has been reprinted several times since.
+The concept of data warehousing was introduced in 1988 by [[IBM]](https://www.investopedia.com/articles/investing/032016/top-3-mutual-fund-holders-ibm-vfinx-vtsmx.asp) researchers Barry Devlin and Paul Murphy. The need to warehouse data evolved as computer systems became more complex and handled increasing amounts of data. A key book on data warehousing is W. H. Inmon's "Building the Data Warehouse," which was first published in 1990 and has been reprinted several times since.
 
 ## How Data Warehousing Works
 
 Data warehousing is used to provide greater insight into the performance of a company by comparing data consolidated from multiple heterogeneous sources. A data warehouse is designed to run query and analysis on historical data derived from transactional sources.
 
-Once the data has been incorporated into the warehouse, it does not change and cannot be altered since a data warehouse runs [analytics](https://www.investopedia.com/terms/d/data-analytics.asp) on events that have already occurred by focusing on the changes in data over time. Warehoused data must be stored in a manner that is secure, reliable, easy to retrieve and easy to manage.
+Once the data has been incorporated into the warehouse, it does not change and cannot be altered since a data warehouse runs [[analytics]](https://www.investopedia.com/terms/d/data-analytics.asp) on events that have already occurred by focusing on the changes in data over time. Warehoused data must be stored in a manner that is secure, reliable, easy to retrieve and easy to manage.
 
 There are certain steps that are taken to create a data warehouse. The first step is data extraction, which involves gathering large amounts of data from multiple source points. After the data has been compiled, it goes through data cleaning, the process of combing through the data for errors and correcting or excluding any errors found.
 
@@ -38,7 +38,7 @@ The cleaned-up data is then converted from a database format to a warehouse form
 
 ## Special Considerations: Data Mining
 
-Businesses might warehouse data for use in exploration and [data mining](https://www.investopedia.com/terms/d/datamining.asp), looking for patterns of information that will help them improve their business processes. A good data warehousing system can also make it easier for different departments within a company to access each other's data.
+Businesses might warehouse data for use in exploration and [[data mining]](https://www.investopedia.com/terms/d/datamining.asp), looking for patterns of information that will help them improve their business processes. A good data warehousing system can also make it easier for different departments within a company to access each other's data.
 
 For example, a data warehouse might allow a company to easily assess the sales team's data and help to make decisions about how to improve sales or streamline the department. The business might choose to focus on its customers’ spending habits to better position its products and increase sales.
 

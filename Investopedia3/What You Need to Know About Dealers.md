@@ -18,11 +18,11 @@ What You Need to Know About Dealers
 
 Dealers are people or firms who buy and sell securities for their own account, whether through a broker or otherwise. A dealer acts as a principal in trading for its own account, as opposed to a broker who acts as an agent who executes orders on behalf of its clients.
 
-Dealers are important figures in the market. They [make markets](https://www.investopedia.com/terms/m/makeamarket.asp) in securities, underwrite securities, and provide investment services to investors. That means dealers are the market makers who provide the bid and ask quotes you see when you look up the price of a security in the [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) market. They also help create liquidity in the markets and boost long-term growth.
+Dealers are important figures in the market. They [[make markets]](https://www.investopedia.com/terms/m/makeamarket.asp) in securities, underwrite securities, and provide investment services to investors. That means dealers are the market makers who provide the bid and ask quotes you see when you look up the price of a security in the [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) market. They also help create liquidity in the markets and boost long-term growth.
 
 ## Understanding Dealers
 
-A dealer in the securities market is an individual or firm who stands ready and willing to buy a security for its own account (at its bid price) or sell from its own account (at its ask price). A dealer seeks to profit from the spread between the [bid and ask](https://www.investopedia.com/terms/b/bid-askspread.asp) prices, while also adding liquidity to the market. It neither does business on behalf of a client nor facilitates transactions between parties.
+A dealer in the securities market is an individual or firm who stands ready and willing to buy a security for its own account (at its bid price) or sell from its own account (at its ask price). A dealer seeks to profit from the spread between the [[bid and ask]](https://www.investopedia.com/terms/b/bid-askspread.asp) prices, while also adding liquidity to the market. It neither does business on behalf of a client nor facilitates transactions between parties.
 
 A dealer is different from a trader. While a dealer buys and sells securities as part of its regular business, a trader buys and sells securities for his or her own account—not on a business basis.
 
@@ -35,7 +35,7 @@ Dealers are regulated by the Securities and Exchange Commission (SEC). As part o
 Anyone engaged in the following activities generally needs to register as a dealer:
 
 -   Someone who holds himself/herself out as being willing to buy and sell a specific security on a continuous basis (i.e., is making a market in that security.)
--   A person who runs a [matched book](https://www.investopedia.com/terms/m/matchedbook.asp) of repurchase agreements.
+-   A person who runs a [[matched book]](https://www.investopedia.com/terms/m/matchedbook.asp) of repurchase agreements.
 -   An individual who issues or originates securities that he or she also buys and sells.
 
 Under SEC guidelines, dealers are required to perform certain duties when they deal with clients. These duties include prompt order execution, disclosure of material information and conflicts of interest to investors, and charging reasonable prices in the prevailing market.
@@ -55,7 +55,7 @@ While dealers are in a separate registration category in the U.S., the term is u
 
 These are two terms that are generally associated with securities. Although they may function in a similar capacity, they do have distinctions between them.
 
-Contrary to a dealer, a broker does not trade for its portfolio but instead facilitates transactions by bringing buyers and sellers together. In practice, most dealers also act as brokers and are known as [broker-dealers](https://www.investopedia.com/terms/b/broker-dealer.asp). Broker-dealers range in size from small independent houses to subsidiaries of some of the largest banks. Firms operating as broker-dealers perform both services depending on the market conditions and on the size, type, and security involved in a particular transaction.
+Contrary to a dealer, a broker does not trade for its portfolio but instead facilitates transactions by bringing buyers and sellers together. In practice, most dealers also act as brokers and are known as [[broker-dealers]](https://www.investopedia.com/terms/b/broker-dealer.asp). Broker-dealers range in size from small independent houses to subsidiaries of some of the largest banks. Firms operating as broker-dealers perform both services depending on the market conditions and on the size, type, and security involved in a particular transaction.
 
 Another key difference between the two is how they charge for their services. A dealer will charge a markup when selling from his or her own inventory because the dealer is a principal in the account, while a broker charges clients a commission for executing trades on their behalf.
 

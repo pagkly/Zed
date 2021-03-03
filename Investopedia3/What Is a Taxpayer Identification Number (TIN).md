@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is a Taxpayer Identification Number (TIN)?
 ## What Is a Taxpayer Identification Number (TIN)?
 
-A taxpayer identification number (TIN) is a unique nine-digit number used to identify an individual, business, or other entity in tax returns and other documents filed with the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS). A TIN is typically either a Social Security number or an [employer identification number](https://www.investopedia.com/terms/e/employer-identification-number.asp) (EIN), depending on the entity that it is being issued to. The TIN is also known as the 95-number or the tax-ID number.
+A taxpayer identification number (TIN) is a unique nine-digit number used to identify an individual, business, or other entity in tax returns and other documents filed with the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS). A TIN is typically either a Social Security number or an [[employer identification number]](https://www.investopedia.com/terms/e/employer-identification-number.asp) (EIN), depending on the entity that it is being issued to. The TIN is also known as the 95-number or the tax-ID number.
 
 Most individuals elect to use their Social Security number as their TIN. Sole proprietors who have no employees may use either their Social Security numbers or an EIN. Corporations, partnerships, trusts, and estates must use an EIN assigned by the IRS.
 
@@ -36,7 +36,7 @@ TIN is an umbrella term that may refer to any of the five primary types of taxpa
 -   Employer identification number (EIN)
 -   Individual taxpayer identification number (ITIN)
 -   Adoption taxpayer identification number (ATIN)
--   [Preparer tax identification number](https://www.investopedia.com/terms/p/ptin.asp) (PTIN)
+-   [[Preparer tax identification number]](https://www.investopedia.com/terms/p/ptin.asp) (PTIN)
 
 The Social Security Administration issues Social Security numbers to U.S. citizens and qualified aliens. Certain resident and [nonresident aliens](https://www.investopedia.com/terms/n/nonresidentalien.asp) who are ineligible to obtain Social Security numbers may file form W-7 with the IRS in order to receive an ITIN. The IRS authorizes acceptance agents—such as colleges, financial institutions, and accounting firms–to assist applicants in obtaining ITINs.
 
@@ -58,6 +58,6 @@ The IRS advises that responsible parties ensure a business is legally formed bef
 
 Sole proprietors who do not have employees may use an EIN or a Social Security number. A sole proprietor who employs at least one other individual must obtain an EIN from the IRS.
 
-Small business owners and self-employed people can [apply online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) for an EIN.
+Small business owners and self-employed people can [[apply online]](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) for an EIN.
 
-In addition, the IRS requires that certain entities use an EIN for their TIN if they fall under certain categories. Examples include any entities that have a [Keogh plan](https://www.investopedia.com/terms/k/keoghplan.asp) or any entities that file returns related to the sale of alcohol, tobacco, or firearms.
+In addition, the IRS requires that certain entities use an EIN for their TIN if they fall under certain categories. Examples include any entities that have a [[Keogh plan]](https://www.investopedia.com/terms/k/keoghplan.asp) or any entities that file returns related to the sale of alcohol, tobacco, or firearms.

@@ -22,7 +22,7 @@ A field of study, cross-cultural communication, has emerged to define and unders
 
 ## How Cross Culture Works
 
-The concept of cross culture is becoming critically important with the [globalization](https://www.investopedia.com/terms/g/globalization.asp) of businesses. Many companies that seek to expand the markets for their products devote substantial resources to training employees on how to communicate and interact effectively with those from other cultures.
+The concept of cross culture is becoming critically important with the [[globalization]](https://www.investopedia.com/terms/g/globalization.asp) of businesses. Many companies that seek to expand the markets for their products devote substantial resources to training employees on how to communicate and interact effectively with those from other cultures.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The concept of cross culture is becoming critically important with the [globaliz
 
 For example, when employees of an international company transfer to another country, they need to master the cross culture. They must not only learn the language but adapt to its social norms.
 
-Today, cross culture education is considered imperative for employees acting in managerial capacities abroad. Failure to [effectively communicate](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp) with subordinates or understand their actions can lead to cascading problems within the business.
+Today, cross culture education is considered imperative for employees acting in managerial capacities abroad. Failure to [[effectively communicate]](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp) with subordinates or understand their actions can lead to cascading problems within the business.
 
 ## The Disadvantages of Cross Culture
 
@@ -40,7 +40,7 @@ Every culture shapes how the most minute social, societal, and professional beha
 
 In some cultures, casual touching is common, while in others it would be viewed as disrespectful or worse.
 
-Cross culture extends to [body language](https://www.investopedia.com/articles/pf/12/leadership-skils.asp), physical contact, and perceptions of personal space. In cultures that adhere to strict religious standards, interactions between members of the opposite sex, even in the business sphere, may be complicated.
+Cross culture extends to [[body language]](https://www.investopedia.com/articles/pf/12/leadership-skils.asp), physical contact, and perceptions of personal space. In cultures that adhere to strict religious standards, interactions between members of the opposite sex, even in the business sphere, may be complicated.
 
 Body language such as hand gestures may be frowned upon or, worse yet, may have meanings that were entirely unintended. In some cultures, casual touching is common, while in others it is viewed as rude, disrespectful, or worse.
 

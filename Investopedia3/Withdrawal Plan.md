@@ -16,7 +16,7 @@ author: James Chen
 Withdrawal Plan
 ## What Is a Withdrawal Plan?
 
-A withdrawal plan is a financial plan that allows a shareholder to withdraw money from a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or other investment account at predetermined intervals. Often, this type of plan is used to fund expenses during retirement. However, it may be used for other purposes as well.
+A withdrawal plan is a financial plan that allows a shareholder to withdraw money from a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) or other investment account at predetermined intervals. Often, this type of plan is used to fund expenses during retirement. However, it may be used for other purposes as well.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A withdrawal plan is a financial plan that allows a shareholder to withdraw mone
 
 ## How a Withdrawal Plan Works
 
-A withdrawal plan is sometimes called a “systematic withdrawal plan.” It is a payment structure arranged with a mutual fund in which the investor receives a set amount of funds from the fund on a periodic basis. It can also refer to any strategy in which an investor [liquidates](https://www.investopedia.com/terms/l/liquidity.asp) a portion of his or her portfolio and extracts cash periodically, such as an investor selling equity shares every year to help supplement their retirement.
+A withdrawal plan is sometimes called a “systematic withdrawal plan.” It is a payment structure arranged with a mutual fund in which the investor receives a set amount of funds from the fund on a periodic basis. It can also refer to any strategy in which an investor [[liquidates]](https://www.investopedia.com/terms/l/liquidity.asp) a portion of his or her portfolio and extracts cash periodically, such as an investor selling equity shares every year to help supplement their retirement.
 
 Withdrawal plans are often employed as a means of setting up a consistent flow of revenue to an individual. The approach may be employed as part of a trust or family corporation setup, with each child receiving a monthly or quarterly payment from the mutual fund.
 
@@ -34,9 +34,9 @@ Withdrawal plans are often employed as a means of setting up a consistent flow o
 
 This type of arrangement with a mutual fund affords the investor an income stream during their retirement years while also maintaining exposure to further growth by keeping their remaining funds invested in the mutual fund for as long as possible.
 
-By making periodic [withdrawals](https://www.investopedia.com/terms/w/withdrawal.asp), account holders are able to enjoy average return values that often exceed average sale prices. In this way, they can secure higher unit prices than those attainable by withdrawing everything at once.
+By making periodic [[withdrawals]](https://www.investopedia.com/terms/w/withdrawal.asp), account holders are able to enjoy average return values that often exceed average sale prices. In this way, they can secure higher unit prices than those attainable by withdrawing everything at once.
 
-There are also [tax advantages](https://www.investopedia.com/terms/t/tax-advantaged.asp) to this type of plan. Withdrawals are made from capital, and as such, long-term gains are paid at a lower tax rate. Many individuals use these plans as part of their tax-planning strategies to make the most of this lower rate of taxation.
+There are also [[tax advantages]](https://www.investopedia.com/terms/t/tax-advantaged.asp) to this type of plan. Withdrawals are made from capital, and as such, long-term gains are paid at a lower tax rate. Many individuals use these plans as part of their tax-planning strategies to make the most of this lower rate of taxation.
 
 With a systematic withdrawal plan, an investor’s money will continue to grow as long as the investment is performing at a rate that is higher than the rate of withdrawal. Once an investor has finished the accumulation phase, most generally prefer to structure their spending so that their funds will last for an extended period of time. This can be done by managing a portfolio and periodically selling assets, investing in income-producing securities, purchasing an annuity, etc.
 
@@ -44,4 +44,4 @@ With a systematic withdrawal plan, an investor’s money will continue to grow a
 
 The downside of a systematic withdrawal plan is that when your investments are down in value, more of your securities must be liquidated to meet your withdrawal needs.
 
-In a market correction or bear market, this can have the reverse effect of a [dollar-cost averaging](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy, actually lowering your overall internal rate of return when compared with other withdrawal strategies.
+In a market correction or bear market, this can have the reverse effect of a [[dollar-cost averaging]](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy, actually lowering your overall internal rate of return when compared with other withdrawal strategies.

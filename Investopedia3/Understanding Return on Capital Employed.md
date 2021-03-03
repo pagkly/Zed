@@ -30,9 +30,9 @@ The ROCE ratio is one of several profitability ratios financial managers, stakeh
 
 ROCE is one of several profitability ratios that can be used when analyzing a company’s financials for profitability performance. Other ratios can include the following:
 
--   [Return on equity](https://www.investopedia.com/terms/r/returnonequity.asp) (ROE)
--   [Return on assets](https://www.investopedia.com/terms/r/returnonassets.asp) (ROA)
--   [Return on invested capital](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC)
+-   [[Return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp) (ROE)
+-   [[Return on assets]](https://www.investopedia.com/terms/r/returnonassets.asp) (ROA)
+-   [[Return on invested capital]](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC)
 
 ## How to Calculate the Return on Capital Employed
 
@@ -50,7 +50,7 @@ ROCE is a metric for analyzing profitability, and potentially comparing profita
 
 ROCE can be especially useful when comparing the performance of companies in capital-intensive sectors, such as utilities and telecoms. This is because unlike other fundamentals such as [return on equity](https://www.investopedia.com/ask/answers/09/return-on-equity-vs-return-on-capital.asp) (ROE), which only analyzes profitability related to a company’s shareholders’ equity, [ROCE considers debt and equity](https://www.investopedia.com/ask/answers/011215/what-difference-between-roce-and-roe.asp). This can help neutralize financial performance analysis for companies with significant debt.
 
-Ultimately, the calculation of ROCE tells you the amount of profit a company is generating per $1 of capital employed. Obviously, the more profit per $1 a company can generate the better. Thus, a higher ROCE indicates stronger [profitability](https://www.investopedia.com/terms/p/profitabilityratios.asp) across company comparisons.
+Ultimately, the calculation of ROCE tells you the amount of profit a company is generating per $1 of capital employed. Obviously, the more profit per $1 a company can generate the better. Thus, a higher ROCE indicates stronger [[profitability]](https://www.investopedia.com/terms/p/profitabilityratios.asp) across company comparisons.
 
 For a company, the ROCE trend over the years can also be an important indicator of performance. In general, investors tend to favor companies with stable and rising ROCE levels over companies where ROCE is volatile or trending lower.
 
@@ -118,7 +118,7 @@ As you can see, Procter & Gamble is a much larger business than Colgate-Palmoliv
 
 ## ROIC vs. ROCE
 
-When analyzing profitability efficiency in terms of capital, both ROIC and ROCE can be used. Both metrics are similar in that they provide a measure of profitability per total capital of the firm. In general, both the ROIC and ROCE should be higher than a company’s [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) in order for the company to be profitable over the long-term.
+When analyzing profitability efficiency in terms of capital, both ROIC and ROCE can be used. Both metrics are similar in that they provide a measure of profitability per total capital of the firm. In general, both the ROIC and ROCE should be higher than a company’s [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) in order for the company to be profitable over the long-term.
 
 ROIC is generally based on the same concept as ROCE, but its components are slightly different. The calculation for ROIC is as follows:
 

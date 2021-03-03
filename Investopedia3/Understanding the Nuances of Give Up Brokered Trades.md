@@ -16,7 +16,7 @@ author: Julie Young
 Understanding the Nuances of Give Up Brokered Trades
 ## What Is Give Up?
 
-Give up is a procedure in securities or commodities trading where an [executing broker](https://www.investopedia.com/terms/e/executingbroker.asp) places a trade on behalf of another broker. It is called a "give up" because the broker executing the trade gives up credit for the transaction on the record books. A give up usually occurs because a broker cannot place a trade for a client based on other workplace obligations. A give up may also happen because the original broker is working on behalf of an [interdealer broker](https://www.investopedia.com/terms/i/inter-dealerbroker.asp) or [prime broker](https://www.investopedia.com/terms/p/primebrokerage.asp).
+Give up is a procedure in securities or commodities trading where an [[executing broker]](https://www.investopedia.com/terms/e/executingbroker.asp) places a trade on behalf of another broker. It is called a "give up" because the broker executing the trade gives up credit for the transaction on the record books. A give up usually occurs because a broker cannot place a trade for a client based on other workplace obligations. A give up may also happen because the original broker is working on behalf of an [[interdealer broker]](https://www.investopedia.com/terms/i/inter-dealerbroker.asp) or [[prime broker]](https://www.investopedia.com/terms/p/primebrokerage.asp).
 
 ### KEY TAKEAWAYS
 
@@ -28,7 +28,7 @@ Give up is a procedure in securities or commodities trading where an [executing 
 
 ## Understanding Give-Up Trades
 
-Give up is no longer a common trading practice in the financial markets. Give up was more common before the development of electronic trading. In the floor trading era, a broker might not be able to make it to the floor and would have another broker place the trade as a sort of [proxy](https://www.investopedia.com/terms/p/proxy.asp). Overall, the act of performing a trade in the name of another broker is generally part of a prearranged give-up agreement. Prearranged agreements typically include provisions for the give-up trade procedures as well as compensation. Give-up trades are not standard practice, so payment is not clearly defined without a prearranged agreement.
+Give up is no longer a common trading practice in the financial markets. Give up was more common before the development of electronic trading. In the floor trading era, a broker might not be able to make it to the floor and would have another broker place the trade as a sort of [[proxy]](https://www.investopedia.com/terms/p/proxy.asp). Overall, the act of performing a trade in the name of another broker is generally part of a prearranged give-up agreement. Prearranged agreements typically include provisions for the give-up trade procedures as well as compensation. Give-up trades are not standard practice, so payment is not clearly defined without a prearranged agreement.
 
 ## Give Up vs. Give In
 
@@ -42,7 +42,7 @@ In cases where both the original buying and selling brokers are otherwise obliga
 
 A request is made of Party A to place the trade on behalf of Party B to ensure the timely execution of a trade. On the record books, or trade log, a give-up trade shows the information for the client's broker (Party B). Party A executes the transaction on behalf of Party B and is not formally noted in the trade record.
 
-Compensation agreements are typically created to manage the provisions of give-up trades. The executing broker (Party A) may or may not receive the standard trade spread. Executing brokers are often paid by the non-floor brokers either on retainer or with a per-trade [commission](https://www.investopedia.com/terms/c/commission.asp). This comprehensive payment to the executing broker may or may not be part of the commission that Broker B charges his client.
+Compensation agreements are typically created to manage the provisions of give-up trades. The executing broker (Party A) may or may not receive the standard trade spread. Executing brokers are often paid by the non-floor brokers either on retainer or with a per-trade [[commission]](https://www.investopedia.com/terms/c/commission.asp). This comprehensive payment to the executing broker may or may not be part of the commission that Broker B charges his client.
 
 ## An Example
 

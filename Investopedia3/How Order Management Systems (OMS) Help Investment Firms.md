@@ -16,7 +16,7 @@ author: Chris B. Murphy
 How Order Management Systems (OMS) Help Investment Firms
 ## What Is an Order Management System (OMS)? 
 
-An order management system (OMS) is an electronic system developed to execute [securities](https://www.investopedia.com/terms/s/security.asp) orders in an efficient and cost-effective manner. Brokers and dealers use order management systems when filling orders for various types of securities and can track the progress of each order throughout the system. An OMS is also referred to as a "trade order management system."
+An order management system (OMS) is an electronic system developed to execute [[securities]](https://www.investopedia.com/terms/s/security.asp) orders in an efficient and cost-effective manner. Brokers and dealers use order management systems when filling orders for various types of securities and can track the progress of each order throughout the system. An OMS is also referred to as a "trade order management system."
 
 ### Key Takeaways
 
@@ -36,15 +36,15 @@ An order management system is a software system that facilitates and manages th
 -   Order instructions (e.g., day order, fill or kill, good-till-canceled, etc.)
 -   Order transmission (broker, ECN, ATC, etc.)
 
-An order management system executes trades through a software system using the FIX protocol. FIX, or [Financial Information eXchange](https://www.investopedia.com/terms/f/financial-information-exchange.asp) is an electronic communications protocol used to share international real-time exchange information related to the trillions of dollars of securities transactions and markets.
+An order management system executes trades through a software system using the FIX protocol. FIX, or [[Financial Information eXchange]](https://www.investopedia.com/terms/f/financial-information-exchange.asp) is an electronic communications protocol used to share international real-time exchange information related to the trillions of dollars of securities transactions and markets.
 
-However, communicating transactions can also be done through the use of a custom application programming interface (API). The FIX protocol links to [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) and investment firms to hundreds of counterparties around the world using the OMS.
+However, communicating transactions can also be done through the use of a custom application programming interface (API). The FIX protocol links to [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) and investment firms to hundreds of counterparties around the world using the OMS.
 
 ## Special Considerations
 
-The OMS can be used on both the [buy-side](https://www.investopedia.com/terms/b/buyside.asp) and sell-side to allow firms to manage the lifecycle of their trades and automate and streamline investments across their portfolios. For review, the buy-side is a segment of Wall Street made up of investing institutions such as mutual funds, pension funds, and insurance firms that tend to buy large portions of securities for money-management purposes.
+The OMS can be used on both the [[buy-side]](https://www.investopedia.com/terms/b/buyside.asp) and sell-side to allow firms to manage the lifecycle of their trades and automate and streamline investments across their portfolios. For review, the buy-side is a segment of Wall Street made up of investing institutions such as mutual funds, pension funds, and insurance firms that tend to buy large portions of securities for money-management purposes.
 
-The buy-side is the opposite of the [sell-side](https://www.investopedia.com/terms/s/sellside.asp). The sell-side does not make direct investments but rather provides the investing market with investment recommendations for upgrades, [downgrades](https://www.investopedia.com/terms/d/downgrade.asp), target prices, and other opinions. Together, the buy-side and sell-side make up both sides of Wall Street.
+The buy-side is the opposite of the [[sell-side]](https://www.investopedia.com/terms/s/sellside.asp). The sell-side does not make direct investments but rather provides the investing market with investment recommendations for upgrades, [downgrades](https://www.investopedia.com/terms/d/downgrade.asp), target prices, and other opinions. Together, the buy-side and sell-side make up both sides of Wall Street.
 
 There are many products and securities that can be traded or monitored with an order management system. Some of the financial instruments traded using an OMS include:
 
@@ -58,7 +58,7 @@ There are many products and securities that can be traded or monitored with an o
 
 Typically, only exchange members can connect directly to an exchange, which means that a sell-side OMS usually has exchange connectivity, whereas a buy-side OMS is concerned with connecting to sell-side firms. When an order is executed on the sell-side, the sell-side OMS must then update its state and send an execution report to the order's originating firm.
 
-An OMS should also allow firms to access information on orders entered into the system, including details on all [open orders](https://www.investopedia.com/terms/o/openorder.asp), and previously completed orders. The order management system supports portfolio management by translating intended asset allocation actions into marketable orders for the buy-side.
+An OMS should also allow firms to access information on orders entered into the system, including details on all [[open orders]](https://www.investopedia.com/terms/o/openorder.asp), and previously completed orders. The order management system supports portfolio management by translating intended asset allocation actions into marketable orders for the buy-side.
 
 ## Benefits of an OMS
 

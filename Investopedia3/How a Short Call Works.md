@@ -28,7 +28,7 @@ A short call is an options trading strategy in which the trader is betting that 
 
 A short call strategy is one of two simple ways options traders can take bearish positions. It involves selling call options, or calls. Calls give the holder of the option the right to buy an underlying security at a specified price.
 
-If the price of the underlying security falls, a short call strategy profits. If the price rises, there’s unlimited exposure during the length of time the option is viable, which is known as a [naked short](https://www.investopedia.com/terms/n/nakedshorting.asp) call. To limit losses, some traders will exercise a short call while owning the underlying security, which is known as a [covered call](https://www.investopedia.com/terms/c/coveredcall.asp).
+If the price of the underlying security falls, a short call strategy profits. If the price rises, there’s unlimited exposure during the length of time the option is viable, which is known as a [[naked short]](https://www.investopedia.com/terms/n/nakedshorting.asp) call. To limit losses, some traders will exercise a short call while owning the underlying security, which is known as a [[covered call]](https://www.investopedia.com/terms/c/coveredcall.asp).
 
  Image by Sabrina Jiang © Investopedia 2020
 
@@ -44,7 +44,7 @@ If the stock were to rise to $350 before the option expires, Paper could purchas
 
 ## Short Calls Versus Long Puts
 
-As previously mentioned, a short call strategy is one of two common bearish trading strategies. The other is buying put options or [puts](https://www.investopedia.com/terms/p/putoption.asp). Put options give the holder the right to sell a security at a certain price within a specific time frame. Going long on puts, as traders say, is also a bet that prices will fall, but the strategy works differently.
+As previously mentioned, a short call strategy is one of two common bearish trading strategies. The other is buying put options or [[puts]](https://www.investopedia.com/terms/p/putoption.asp). Put options give the holder the right to sell a security at a certain price within a specific time frame. Going long on puts, as traders say, is also a bet that prices will fall, but the strategy works differently.
 
 Say Liquid Trading Co. still believes Humbucker stock is headed for a fall, but it opts to buy 100 $110 Humbucker puts instead. To do so, the Liquid group must put up the $11,000 ($110 x 100) in cash for the option. Liquid now has the right to force Paper, who is on the other side of the deal, to buy the stock at this price – even if Humbucker shares drop to Liquid's projected $50 a share. If they do, Liquid has made a tidy profit – $6,000.
 

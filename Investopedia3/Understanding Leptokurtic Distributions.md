@@ -16,9 +16,9 @@ author: Adam Hayes
 Understanding Leptokurtic Distributions
 ## What Is Leptokurtic?
 
-Leptokurtic distributions are statistical distributions with kurtosis greater than three. It can be described as having a wider or flatter shape with [fatter tails](https://www.investopedia.com/terms/t/tailrisk.asp) resulting in a greater chance of extreme positive or negative events.
+Leptokurtic distributions are statistical distributions with kurtosis greater than three. It can be described as having a wider or flatter shape with [[fatter tails]](https://www.investopedia.com/terms/t/tailrisk.asp) resulting in a greater chance of extreme positive or negative events.
 
-It is one of three major categories found in kurtosis analysis. Its other two counterparts are [mesokurtic](https://www.investopedia.com/terms/m/mesokurtic.asp), which has no kurtosis and is associated with the normal distribution, and [platykurtic](https://www.investopedia.com/terms/p/platykurtic.asp), which has thinner tails and less kurtosis.
+It is one of three major categories found in kurtosis analysis. Its other two counterparts are [[mesokurtic]](https://www.investopedia.com/terms/m/mesokurtic.asp), which has no kurtosis and is associated with the normal distribution, and [[platykurtic]](https://www.investopedia.com/terms/p/platykurtic.asp), which has thinner tails and less kurtosis.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Kurtosis.  Investopedia
 
 ## Leptokurtosis and Estimated Value at Risk
 
-Leptokurtic distributions can be involved when analyzing [value at risk (VaR)](https://www.investopedia.com/terms/v/var.asp) probabilities. A [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp) of VaR can provide stronger result expectations because it includes up to three kurtoses. In general, the fewer the kurtosis and the greater the confidence within each, the more reliable and safer a value at risk distribution is.
+Leptokurtic distributions can be involved when analyzing [[value at risk (VaR)]](https://www.investopedia.com/terms/v/var.asp) probabilities. A [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp) of VaR can provide stronger result expectations because it includes up to three kurtoses. In general, the fewer the kurtosis and the greater the confidence within each, the more reliable and safer a value at risk distribution is.
 
 Leptokurtic distributions are known for going beyond three kurtoses. This typically decreases the confidence levels within the excess kurtosis, creating less reliability. Leptokurtic distributions can also show a higher value at risk in the left tail due to the larger amount of value under the curve in the worst-case scenarios. Overall, a greater probability for negative returns farther from the mean on the left side of the distribution leads to a higher value at risk.
 

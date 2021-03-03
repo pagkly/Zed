@@ -18,7 +18,7 @@ Tax Treaty
 
 A tax treaty is a bilateral (two-party) agreement made by two countries to resolve issues involving double taxation of passive and active income of each of their respective citizens. Income tax treaties generally determine the amount of tax that a country can apply to a taxpayer's income, capital, estate, or wealth. 1 An income tax treaty is also called a Double Tax Agreement (DTA).2
 
-Some countries are seen as being [tax havens](https://www.investopedia.com/terms/t/taxhaven.asp). Generally, a tax haven is a country or a place with low or no corporate taxes that allow foreign investors to set up businesses there. Tax havens typically do not enter into tax treaties.
+Some countries are seen as being [[tax havens]](https://www.investopedia.com/terms/t/taxhaven.asp). Generally, a tax haven is a country or a place with low or no corporate taxes that allow foreign investors to set up businesses there. Tax havens typically do not enter into tax treaties.
 
 ### Key Takeaways
 
@@ -29,15 +29,15 @@ Some countries are seen as being [tax havens](https://www.investopedia.com/terms
 
 ## How a Tax Treaty Works
 
-When an individual or business invests in a foreign country, the issue of which country should tax the investor’s earnings may arise. Both countries–the source country and the residence country–may enter into a tax treaty to agree on which country should tax the [investment income](https://www.investopedia.com/terms/i/investmentincome.asp) to prevent the same income from getting taxed twice.
+When an individual or business invests in a foreign country, the issue of which country should tax the investor’s earnings may arise. Both countries–the source country and the residence country–may enter into a tax treaty to agree on which country should tax the [[investment income]](https://www.investopedia.com/terms/i/investmentincome.asp) to prevent the same income from getting taxed twice.
 
 The source country is the country that hosts the inward investment. The source country is also sometimes referred to as the capital-importing country. The residence country is the investor's country of residence. The residence country is also sometimes referred to as the capital-exporting country.
 
-To avoid [double taxation](https://www.investopedia.com/terms/d/double_taxation.asp), tax treaties may follow one of two models: The Organization for Economic Co-operation and Development (OECD) Model and the [United Nations](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN) Model Convention.3 4
+To avoid [[double taxation]](https://www.investopedia.com/terms/d/double_taxation.asp), tax treaties may follow one of two models: The Organization for Economic Co-operation and Development (OECD) Model and the [[United Nations]](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN) Model Convention.3 4
 
 ## OECD Tax Treaty Model vs. UN Tax Treaty Model
 
-The [Organization for Economic Co-operation and Development](https://www.investopedia.com/terms/o/oecd.asp) (OECD) is a group of 37 countries with a drive to promote world trade and economic progress.5 6
+The [[Organization for Economic Co-operation and Development]](https://www.investopedia.com/terms/o/oecd.asp) (OECD) is a group of 37 countries with a drive to promote world trade and economic progress.5 6
 
 The OECD Tax Convention on Income and on Capital is more favorable to capital-exporting countries than capital-importing countries. It requires the source country to give up some or all of its tax on certain categories of income earned by residents of the other treaty country.7
 
@@ -51,7 +51,7 @@ A treaty that follows the UN's model gives favorable taxing rights to the foreig
 
 One of the most important aspects of a tax treaty is the treaty's policy on withholding taxes because it determines how much tax is levied on any income earned (interest and dividends) from securities owned by a non-resident.9
 
-For example, if a tax treaty between country A and country B determines that their bilateral withholding tax on dividends is 10%, then country A will tax [dividend payments](https://www.investopedia.com/ask/answers/03/102203.asp) that are going to country B at a rate of 10%, and vice versa.
+For example, if a tax treaty between country A and country B determines that their bilateral withholding tax on dividends is 10%, then country A will tax [[dividend payments]](https://www.investopedia.com/ask/answers/03/102203.asp) that are going to country B at a rate of 10%, and vice versa.
 
 The U.S. has tax treaties with multiple countries that help to reduce—or eliminate—the tax paid by residents of foreign countries. These reduced rates and exemptions vary among countries and specific items of income.
 

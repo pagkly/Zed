@@ -16,7 +16,7 @@ author: Adam Hayes
 What Is an Offering Memorandum?
 ## What Is an Offering Memorandum?
 
-An offering memorandum is a legal document that states the objectives, risks, and terms of an investment involved with a [private placement](https://www.investopedia.com/terms/p/privateplacement.asp). This document includes items such as a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), management biographies, a detailed description of the business operations, and more.
+An offering memorandum is a legal document that states the objectives, risks, and terms of an investment involved with a [[private placement]](https://www.investopedia.com/terms/p/privateplacement.asp). This document includes items such as a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), management biographies, a detailed description of the business operations, and more.
 
 An offering memorandum serves to provide buyers with information on the offering and to protect the sellers from the liability associated with selling unregistered securities.
 
@@ -28,11 +28,11 @@ An offering memorandum serves to provide buyers with information on the offering
 
 ## Understanding an Offering Memorandum
 
-An offering memorandum, also known as a private [placement](https://www.investopedia.com/terms/p/placement.asp) memorandum (PPM), is used by business owners of privately held companies to attract a specific group of outside investors. For these select investors, an offering memorandum is a way for them to understand the investment vehicle.
+An offering memorandum, also known as a private [[placement]](https://www.investopedia.com/terms/p/placement.asp) memorandum (PPM), is used by business owners of privately held companies to attract a specific group of outside investors. For these select investors, an offering memorandum is a way for them to understand the investment vehicle.
 
 Offering memorandums are usually put together by an investment banker on behalf of the business owners. The banker uses the memorandum to conduct an auction among the specific group of investors to generate interest from qualified buyers.
 
-An offering memorandum, while used in investment finance, is essentially a thorough business plan. In practice, these documents are a formality used to meet the requirements of securities regulators since most [sophisticated investors](https://www.investopedia.com/terms/s/sophisticatedinvestor.asp) perform their extensive [due diligence](https://www.investopedia.com/terms/d/duediligence.asp). Offering memorandums are similar to prospectuses but are for [private placements](https://www.investopedia.com/video/play/private-placement/), while prospectuses are for publicly traded issues.
+An offering memorandum, while used in investment finance, is essentially a thorough business plan. In practice, these documents are a formality used to meet the requirements of securities regulators since most [[sophisticated investors]](https://www.investopedia.com/terms/s/sophisticatedinvestor.asp) perform their extensive [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp). Offering memorandums are similar to prospectuses but are for [[private placements]](https://www.investopedia.com/video/play/private-placement/), while prospectuses are for publicly traded issues.
 
 ## Example of an Offering Memorandum
 
@@ -46,4 +46,4 @@ The offering memorandum tells the potential investors all they need to know abou
 
 While an offering memorandum is used in a private placement, a summary prospectus is the disclosure document provided to investors by mutual [fund companies](https://www.investopedia.com/terms/f/fund_company.asp) before or at the time of sale to the public.
 
-This written document is an abridged version of the final [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) that allows investors to see pertinent information regarding the fund's investment objectives and goals, sales charges and expense ratio, focused investment strategy, and data on the fund's management team. Relevant tax information and broker compensation are also included in the disclosure document. A summary prospectus provides investors the information they need from the [final prospectus](https://www.investopedia.com/terms/f/finalprospectus.asp) quickly and in plain English.
+This written document is an abridged version of the final [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) that allows investors to see pertinent information regarding the fund's investment objectives and goals, sales charges and expense ratio, focused investment strategy, and data on the fund's management team. Relevant tax information and broker compensation are also included in the disclosure document. A summary prospectus provides investors the information they need from the [final prospectus](https://www.investopedia.com/terms/f/finalprospectus.asp) quickly and in plain English.

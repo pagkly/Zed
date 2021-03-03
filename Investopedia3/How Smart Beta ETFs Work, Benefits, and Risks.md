@@ -16,7 +16,7 @@ author: James Chen
 How Smart Beta ETFs Work, Benefits, and Risks
 ## What Is a Smart Beta ETF?
 
-A smart Beta ETF is a type of [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) (ETF) that uses a rules-based system for selecting investments to be included in the fund portfolio. An exchange-traded fund or ETF is a type of fund that tracks an index such as the S&P 500. Smart beta ETFs build on traditional ETFs and tailor the components of the fund's holdings based on predetermined financial metrics.
+A smart Beta ETF is a type of [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) (ETF) that uses a rules-based system for selecting investments to be included in the fund portfolio. An exchange-traded fund or ETF is a type of fund that tracks an index such as the S&P 500. Smart beta ETFs build on traditional ETFs and tailor the components of the fund's holdings based on predetermined financial metrics.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ A smart Beta ETF is a type of [exchange-traded fund](https://www.investopedia.c
 
 ## Understanding Smart Beta ETFs
 
-The rules governing what stocks make up exchange-traded funds vary depending on the rules established at the fund's inception. Also, there are different weightings for each stock in a fund. [Weighting](https://www.investopedia.com/terms/w/weighted.asp) means a fund might have more shares of one stock versus another based on an underlying aspect such as value. Some ETFs might track a stock index that contains only bank stocks, large companies, or technology stocks.
+The rules governing what stocks make up exchange-traded funds vary depending on the rules established at the fund's inception. Also, there are different weightings for each stock in a fund. [[Weighting]](https://www.investopedia.com/terms/w/weighted.asp) means a fund might have more shares of one stock versus another based on an underlying aspect such as value. Some ETFs might track a stock index that contains only bank stocks, large companies, or technology stocks.
 
 Market-cap weighting is one of the most common methods in selecting how many shares of a company's stock comprise an index or fund. A market-cap weighting means that a company is chosen based on its market capitalization or its share price multiplied by the number of outstanding shares. A company that has many shares outstanding, and whose stock has risen significantly, will have a significant weighting in a market-cap index.
 
@@ -37,9 +37,9 @@ Smart Beta doesn't employ the typical cap-weighted index strategy. Instead, it t
 
 ## Types of Smart Beta ETFs
 
-A smart Beta ETF might screen and choose its holdings based on a company's dividend growth. [Dividends](https://www.investopedia.com/terms/d/dividend.asp) are distributions paid to shareholders from the company's earnings as a reward for investing in the company. Companies that pay dividends tend to be large, well-established, and profitable companies.
+A smart Beta ETF might screen and choose its holdings based on a company's dividend growth. [[Dividends]](https://www.investopedia.com/terms/d/dividend.asp) are distributions paid to shareholders from the company's earnings as a reward for investing in the company. Companies that pay dividends tend to be large, well-established, and profitable companies.
 
-Risk-weighted approaches take into account expected volatility in stocks. Funds might limit the holdings to stocks with low [volatility](https://www.investopedia.com/terms/v/volatility.asp) to reduce risk in the fund. Volatility is a measure of how much a security's price fluctuates, or to the extent, it does or does not fluctuate in price. Conversely, some investors welcome risk and might want to invest in a fund that focuses on companies that have high-growth potential.
+Risk-weighted approaches take into account expected volatility in stocks. Funds might limit the holdings to stocks with low [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) to reduce risk in the fund. Volatility is a measure of how much a security's price fluctuates, or to the extent, it does or does not fluctuate in price. Conversely, some investors welcome risk and might want to invest in a fund that focuses on companies that have high-growth potential.
 
 Although there are many types of Smart Beta ETF strategies, a few of the most common include:
 
@@ -50,7 +50,7 @@ Although there are many types of Smart Beta ETF strategies, a few of the most co
 
 ## Passive and Active Management
 
-Smart Beta ETFs use a combination of both passive and active methods of investing. Active investing is akin to having an [investment manager](https://www.investopedia.com/terms/i/investment-manager.asp) choose stocks to include in a portfolio. An actively-managed fund buys and sells stocks as needed based on various fundamental metrics like earnings or financial ratios.
+Smart Beta ETFs use a combination of both passive and active methods of investing. Active investing is akin to having an [[investment manager]](https://www.investopedia.com/terms/i/investment-manager.asp) choose stocks to include in a portfolio. An actively-managed fund buys and sells stocks as needed based on various fundamental metrics like earnings or financial ratios.
 
 A fund is passive because it tracks an index without having an investment manager choosing the stocks. Passive funds tend to have lower fees as a result. For example, a fund might track all the stocks in the S&P 500 so that it mimics or tracks each move exactly as the S&P.
 
@@ -60,7 +60,7 @@ Smart Beta is a blend of active and passive investing. It follows an index makin
 
 Many smart Beta ETFs are designed to increase portfolio returns, maximize dividends, and lower portfolio risks.
 
-Some might argue that one of the benefits of Smart Beta strategies is the use of equally-weighted indexing. This parameter removes the emphasis on stocks in the index with the largest market-cap weightings. With market-cap weightings, if the largest stocks or holdings [underperform](https://www.investopedia.com/terms/u/underperform.asp), they will have a sizable impact on the performance of the index relative to the smallest components of the index.
+Some might argue that one of the benefits of Smart Beta strategies is the use of equally-weighted indexing. This parameter removes the emphasis on stocks in the index with the largest market-cap weightings. With market-cap weightings, if the largest stocks or holdings [[underperform]](https://www.investopedia.com/terms/u/underperform.asp), they will have a sizable impact on the performance of the index relative to the smallest components of the index.
 
 Smart beta is not a passive strategy like the traditional market capitalization-weighted index funds. While many Smart Beta ETFs have higher expense ratios than passive index products, they are less expensive than most [actively managed funds](https://www.investopedia.com/ask/answers/032415/what-are-disadvantages-index-fund-over-actively-managed-fund.asp).
 
@@ -72,7 +72,7 @@ Smart Beta ETFs are still a relatively new method of investing and can exhibit l
 
 Trading costs can be high to re-establish the original index weighting. This increase in price comes from the fund purchasing stocks from the index that is to be included in the fund. As a result, the fees charged for smart Beta might be lower than actively-managed funds, but the savings might not be significant.
 
-Smart Beta ETFs can underperform traditional indexes, such as the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp) since they need to be constantly readjusted to the indexes. In other words, holdings are added and sold based on the rules of the fund.
+Smart Beta ETFs can underperform traditional indexes, such as the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp) since they need to be constantly readjusted to the indexes. In other words, holdings are added and sold based on the rules of the fund.
 
 Since smart Beta ETFs have so many variables to consider, trading them can be more difficult than trading with traditional indexes. As a result, the prices of smart Beta ETFs can vary from the fund's underlying value.
 

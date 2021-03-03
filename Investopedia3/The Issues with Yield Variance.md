@@ -16,23 +16,23 @@ author: Marshall Hargrave
 The Issues with Yield Variance
 ## What Is Yield Variance?
 
-Yield variance is the difference between actual output and standard output of a production or [manufacturing](https://www.investopedia.com/terms/m/manufacturing.asp) process, based on standard inputs of materials and labor. The yield [variance](https://www.investopedia.com/terms/v/variance.asp) is valued at standard cost. Yield variance is generally unfavorable, where the actual output is less than the standard or expected output, but it can be that output expects expectations as well.
+Yield variance is the difference between actual output and standard output of a production or [[manufacturing]](https://www.investopedia.com/terms/m/manufacturing.asp) process, based on standard inputs of materials and labor. The yield [[variance]](https://www.investopedia.com/terms/v/variance.asp) is valued at standard cost. Yield variance is generally unfavorable, where the actual output is less than the standard or expected output, but it can be that output expects expectations as well.
 
 ## How to Calculate Yield Variance
 
-Yield variance is calculated as the actual yield minus the standard yield multiplied by standard [unit cost](https://www.investopedia.com/terms/u/unitcost.asp).
+Yield variance is calculated as the actual yield minus the standard yield multiplied by standard [[unit cost]](https://www.investopedia.com/terms/u/unitcost.asp).
 
 Yield Variance\=SC∗(Actual Yield − Standard Yield)where:SC = Standard unit cost\\begin{aligned} &\\text{Yield Variance}=\\text{SC}\*\\left(\\text{Actual Yield }-\\text{ Standard Yield}\\right)\\\\ &\\textbf{where:}\\\\ &\\text{SC = Standard unit cost}\\\\ \\end{aligned}
 
 ## What Does Yield Variance Tell You?
 
-Yield variance is a common financial and operational [metric](https://www.investopedia.com/terms/m/metrics.asp) within manufacturing industries. To improve or enhance the measure, it's fairly regular for an analyst to adjust inputs for special scenarios. For instance, during a raw material price spike, it may not make sense to use temporary price inputs experiencing short-term jumps in prices, as these results would be distorted from normal levels. Here, like any other analysis, it is part art and science.
+Yield variance is a common financial and operational [[metric]](https://www.investopedia.com/terms/m/metrics.asp) within manufacturing industries. To improve or enhance the measure, it's fairly regular for an analyst to adjust inputs for special scenarios. For instance, during a raw material price spike, it may not make sense to use temporary price inputs experiencing short-term jumps in prices, as these results would be distorted from normal levels. Here, like any other analysis, it is part art and science.
 
-Generally, yield variance uses direct materials, which are [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp) that are made into finished products. These are not materials used in the production process. Direct materials are goods that physically become the finished product at the end of the manufacturing process. In other words, these are the tangible pieces or components of a finished product.
+Generally, yield variance uses direct materials, which are [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp) that are made into finished products. These are not materials used in the production process. Direct materials are goods that physically become the finished product at the end of the manufacturing process. In other words, these are the tangible pieces or components of a finished product.
 
 If a firm overestimates or underestimates how much material it requires to take to generate a certain amount, the material's yield variance will be less than or greater than zero. If the standard quantity is equal to the quantity actually used, then the variance will be zero.
 
-If the direct materials yield variance proves that the company is producing less than originally planned for a given level of input, the company can review their operations for ways to become more efficient. Intuitively, producing more products with the same level of [inventory](https://www.investopedia.com/terms/i/inventory.asp) while keeping quality constant can help the organization improve profitability.
+If the direct materials yield variance proves that the company is producing less than originally planned for a given level of input, the company can review their operations for ways to become more efficient. Intuitively, producing more products with the same level of [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) while keeping quality constant can help the organization improve profitability.
 
 While a yield variance may tell you whether or not your output is efficient or as expected, it can’t tell you why the variance occurred or what contributed to it.
 

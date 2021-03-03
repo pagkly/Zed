@@ -35,7 +35,7 @@ The production of goods involves both fixed costs and variable costs:
 
 Variable Cost Ratio\=Variable CostsNet Sales\\begin{aligned} &\\text{Variable Cost Ratio} = \\frac{ \\text{Variable Costs} }{ \\text {Net Sales} } \\\\ \\end{aligned}
 
-As an alternative, the ratio can be calculated as 1 - [contribution margin](https://www.investopedia.com/terms/c/contributionmargin.asp).
+As an alternative, the ratio can be calculated as 1 - [[contribution margin]](https://www.investopedia.com/terms/c/contributionmargin.asp).
 
 The result indicates whether a company is achieving, or maintaining, the desirable balance at which revenues are rising faster than expenses.
 
@@ -57,6 +57,6 @@ Variable costs are variable in the sense that they fluctuate in relation to the 
 
 Fixed expenses are general overhead or operational costs that are fixed in the sense they remain relatively unchanged regardless of levels of production. Examples of fixed expenses include facility rental or mortgage costs and executive salaries. Fixed expenses only change significantly as a result of decisions and actions by management.
 
-The contribution margin is the difference, expressed as a percentage, between total sales revenue and total [variable costs](https://www.investopedia.com/video/play/variable-costs/).
+The contribution margin is the difference, expressed as a percentage, between total sales revenue and total [[variable costs]](https://www.investopedia.com/video/play/variable-costs/).
 
 The term contribution margin refers to the fact that this number indicates how much revenue is left over to "contribute" toward fixed costs and potential profit.

@@ -18,7 +18,7 @@ Optimum Currency Area (OCA) Theory Definition
 
 Optimum currency area theory (OCA) states that specific areas which are not bounded by national borders would benefit from a common currency. In other words, geographic regions may be better off using the same currency instead of each country within that geographic region using its own currency.
 
-OCA theory can benefit a geographic region by significantly increasing [trade](https://www.investopedia.com/terms/t/trade.asp). However, this trade must outweigh the costs of each country giving up a national currency as an instrument to adjust [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp). Areas using OCA theory can still maintain a flexible exchange rate system with the rest of the world.
+OCA theory can benefit a geographic region by significantly increasing [[trade]](https://www.investopedia.com/terms/t/trade.asp). However, this trade must outweigh the costs of each country giving up a national currency as an instrument to adjust [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp). Areas using OCA theory can still maintain a flexible exchange rate system with the rest of the world.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ OCA theory can benefit a geographic region by significantly increasing [trade](h
 
 ## Understanding Optimum Currency Area (OCA) Theory
 
-Optimum currency area theory (OCA) was developed in 1961 by Canadian economist [Robert Mundell](https://www.investopedia.com/terms/o/optimal-currency-area.asp) based on earlier work by Abba Lerner. It speculates that there is an optimum geopolitical area which should share a currency, but this geopolitical area doesn’t necessarily correspond with national borders. An [optimum currency area](https://www.investopedia.com/terms/o/optimal-currency-area.asp) could be several nations, parts of several nations, or regions inside a single nation.
+Optimum currency area theory (OCA) was developed in 1961 by Canadian economist [[Robert Mundell]](https://www.investopedia.com/terms/o/optimal-currency-area.asp) based on earlier work by Abba Lerner. It speculates that there is an optimum geopolitical area which should share a currency, but this geopolitical area doesn’t necessarily correspond with national borders. An [[optimum currency area]](https://www.investopedia.com/terms/o/optimal-currency-area.asp) could be several nations, parts of several nations, or regions inside a single nation.
 
 The concept is based on the idea that economic efficiency is maximized based on areas that share certain traits.
 
@@ -49,4 +49,4 @@ Often cited as a prime example of optimum currency theory, many point to the [e
 
 Indeed, the OCA theory was put to the test in 2010 as [sovereign debt](https://www.investopedia.com/terms/s/sovereign-debt.asp) issues faced by many heavily indebted nations in Europe threatened the viability of the [European Union](https://www.investopedia.com/terms/e/europeanunion.asp), placing severe strains upon the euro. 
 
-According to [Global Financial Integrity](https://www.gfintegrity.org/asymmetric-shocks-and-other-woes-of-the-eurozone/), a non-profit located in Washington, D.C., peripheral EU countries such as Ireland, Portugal, Spain, and Greece experienced slowing growth, lacked international competitiveness, and possessed a labor force which was unproductive. As these economies slowed, private capital fled, some to other stronger eurozone economies, and some to other countries. Also, due to language, culture, and distance difficulties, the labor force in the eurozone is not fluid or mobile. Wages are not uniform across the geopolitical area either.
+According to [[Global Financial Integrity]](https://www.gfintegrity.org/asymmetric-shocks-and-other-woes-of-the-eurozone/), a non-profit located in Washington, D.C., peripheral EU countries such as Ireland, Portugal, Spain, and Greece experienced slowing growth, lacked international competitiveness, and possessed a labor force which was unproductive. As these economies slowed, private capital fled, some to other stronger eurozone economies, and some to other countries. Also, due to language, culture, and distance difficulties, the labor force in the eurozone is not fluid or mobile. Wages are not uniform across the geopolitical area either.

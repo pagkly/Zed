@@ -16,7 +16,7 @@ author: Mitchell Grant
 Halo Effect
 ## What Is the Halo Effect?
 
-The halo effect is a term for a consumer's favoritism toward a line of products due to positive experiences with other products by this maker. The halo effect is correlated to brand strength, [brand loyalty](https://www.investopedia.com/terms/b/brand-loyalty.asp), and contributes to brand equity. 
+The halo effect is a term for a consumer's favoritism toward a line of products due to positive experiences with other products by this maker. The halo effect is correlated to brand strength, [[brand loyalty]](https://www.investopedia.com/terms/b/brand-loyalty.asp), and contributes to brand equity. 
 
 The opposite of the halo effect is the horn effect, named for the horns of the devil. When consumers have an unfavorable experience, they correlate that negative experience with everything associated with a brand.
 
@@ -32,7 +32,7 @@ Companies create the halo effect by capitalizing on their existing strengths. Wi
 
 When consumers have positive experiences with products of highly visible brands, they cognitively form a brand loyalty bias in favor of the brand and its offerings. This belief is independent of a consumer's experience. The reasoning is that if a company is exceptionally good at one thing, they will undoubtedly be good at something else. This assumption will take a brand far, parlaying into other new products.
 
-The halo effect increases brand loyalty, strengthens the brand image and reputation, and translates into high brand equity. Companies use the halo effect to establish themselves as leaders in their industries. When one product positively imprints in the minds of consumers, the success of that product infectiously affects other products. Ultimately, businesses can gain [market share](https://www.investopedia.com/terms/m/marketshare.asp) and increase profits thanks to the halo effect, even protecting against consumers from purchasing from competitors if they have an all-star product.
+The halo effect increases brand loyalty, strengthens the brand image and reputation, and translates into high brand equity. Companies use the halo effect to establish themselves as leaders in their industries. When one product positively imprints in the minds of consumers, the success of that product infectiously affects other products. Ultimately, businesses can gain [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) and increase profits thanks to the halo effect, even protecting against consumers from purchasing from competitors if they have an all-star product.
 
 Companies benefit from the halo effect by capitalizing on their existing strengths.
 
@@ -42,4 +42,4 @@ The halo effect applies to a broad range of categories, including people, organi
 
 Figuratively, a halo forms and extends over the brand. It effectively allows for the expansion of product offerings. For example, Apple's iPod success allowed for the development of other consumer products such as the Apple Watch, iPhone, and iPad. If the following product pales in comparison to the leading product, the success of the leading product will help to compensate for the failure rather than leading to a total shift in brand perception. This helps brands like Apple to remain a beloved technology giant, even despite other failures. For example, to date, very few people remember the company's flops AirPower or the Apple Newton.
 
-This phenomenon of one product favorably impacting another—such as is the case with Apple—is considered a near-perfect example of the halo effect. The iPod buyers just kept coming back and consequently, [iPhone sales](https://www.investopedia.com/ask/answers/021315/whats-bestselling-iphone-model-all-time.asp) have been steady, continuing the cycle.
+This phenomenon of one product favorably impacting another—such as is the case with Apple—is considered a near-perfect example of the halo effect. The iPod buyers just kept coming back and consequently, [[iPhone sales]](https://www.investopedia.com/ask/answers/021315/whats-bestselling-iphone-model-all-time.asp) have been steady, continuing the cycle.

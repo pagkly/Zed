@@ -16,7 +16,7 @@ author: Jason Fernando
 Unisex Legislation Definition
 ## What Is Unisex Legislation?
 
-In the [insurance industry](https://www.investopedia.com/ask/answers/051915/how-does-insurance-sector-work.asp), the term “unisex legislation” refers to laws and legal decisions that made it illegal for insurance companies to charge different rates to men and women within certain types of insurance. The term is mainly used in relation to the group insurance policies which companies offer to their employees.
+In the [[insurance industry]](https://www.investopedia.com/ask/answers/051915/how-does-insurance-sector-work.asp), the term “unisex legislation” refers to laws and legal decisions that made it illegal for insurance companies to charge different rates to men and women within certain types of insurance. The term is mainly used in relation to the group insurance policies which companies offer to their employees.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ In the [insurance industry](https://www.investopedia.com/ask/answers/051915/how-
 
 ## How Unisex Legislation Works
 
-To determine a reasonable [premium](https://www.investopedia.com/terms/i/insurance-premium.asp), insurers consider various factors that would be relevant for predicting the likelihood of future claims. For example, in the case of [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp), an insurer might look at the age of the insured person, as well as their lifestyle habits. Personal factors, such as their gender and ethnicity, might also be considered if those factors have been shown to be correlated with different health outcomes.
+To determine a reasonable [[premium]](https://www.investopedia.com/terms/i/insurance-premium.asp), insurers consider various factors that would be relevant for predicting the likelihood of future claims. For example, in the case of [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp), an insurer might look at the age of the insured person, as well as their lifestyle habits. Personal factors, such as their gender and ethnicity, might also be considered if those factors have been shown to be correlated with different health outcomes.
 
-For this reason, it is common for men and women to receive different insurance premiums when shopping for health insurance. Women, for example, have longer average life expectancies than men, which might result in lower insurance premiums.1 Another example can be seen in [automobile insurance](https://www.investopedia.com/terms/a/auto-insurance.asp), where men in general—and young men in particular—tend to pay higher insurance rates than women, due to being perceived as riskier drivers.2
+For this reason, it is common for men and women to receive different insurance premiums when shopping for health insurance. Women, for example, have longer average life expectancies than men, which might result in lower insurance premiums.1 Another example can be seen in [[automobile insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp), where men in general—and young men in particular—tend to pay higher insurance rates than women, due to being perceived as riskier drivers.2
 
-Some of these practices, however, have come under legal challenges. Unisex legislation states that all people, regardless of gender, must be treated the same by insurance companies when setting rates and product offerings. The state of Montana took the lead with unisex legislation, passing the first unisex law in the nation in 1985 which prevented insurance companies from using gender when establishing rates and benefits.3 Today, perhaps the most common area in which we see the influence of unisex legislation is in [employer-sponsored group health plans](https://www.investopedia.com/terms/g/group-health-insurance-plan.asp). In these plans, the rates paid by men and women are typically the same, in order to comply with unisex legislation.
+Some of these practices, however, have come under legal challenges. Unisex legislation states that all people, regardless of gender, must be treated the same by insurance companies when setting rates and product offerings. The state of Montana took the lead with unisex legislation, passing the first unisex law in the nation in 1985 which prevented insurance companies from using gender when establishing rates and benefits.3 Today, perhaps the most common area in which we see the influence of unisex legislation is in [[employer-sponsored group health plans]](https://www.investopedia.com/terms/g/group-health-insurance-plan.asp). In these plans, the rates paid by men and women are typically the same, in order to comply with unisex legislation.
 
 ## Real World Example of Unisex Legislation
 

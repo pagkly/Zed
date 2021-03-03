@@ -16,9 +16,9 @@ author: Adam Hayes
 Throughput
 ## What Is Throughput?
 
-Throughput is the amount of a product or service that a company can produce and deliver to a client within a specified period of time. The term is often used in the context of a company's [rate of production](https://www.investopedia.com/terms/p/production-rate.asp) or the speed at which something is processed.
+Throughput is the amount of a product or service that a company can produce and deliver to a client within a specified period of time. The term is often used in the context of a company's [[rate of production]](https://www.investopedia.com/terms/p/production-rate.asp) or the speed at which something is processed.
 
-Businesses with high throughput levels can take [market share](https://www.investopedia.com/terms/m/marketshare.asp) away from their lower throughput peers because high throughput generally indicates that a company can produce a product or service more efficiently than its competitors.
+Businesses with high throughput levels can take [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) away from their lower throughput peers because high throughput generally indicates that a company can produce a product or service more efficiently than its competitors.
 
 ### Key Takeaways
 
@@ -30,13 +30,13 @@ Businesses with high throughput levels can take [market share](https://www.inves
 
 ## Understanding Throughput
 
-The idea of throughput, also known as the flow rate, is part of the theory of constraints in business management. The guiding ideology of this theory is that a chain is only as strong as its weakest link. The goal for business managers is to find ways to minimize how the weakest links affect a company's performance and to maximize throughput for the product's end users. Once throughput is maximized by removing inefficiencies, allowing [inputs and outputs](https://www.investopedia.com/terms/i/input-output-analysis.asp) to flow in the most ideal manner, a company can reach [revenue](https://www.investopedia.com/terms/r/revenue.asp) maximization.
+The idea of throughput, also known as the flow rate, is part of the theory of constraints in business management. The guiding ideology of this theory is that a chain is only as strong as its weakest link. The goal for business managers is to find ways to minimize how the weakest links affect a company's performance and to maximize throughput for the product's end users. Once throughput is maximized by removing inefficiencies, allowing [[inputs and outputs]](https://www.investopedia.com/terms/i/input-output-analysis.asp) to flow in the most ideal manner, a company can reach [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) maximization.
 
 Only products that are actually sold count toward throughput.
 
-A company's level of [production capacity](https://www.investopedia.com/terms/c/capacity-management.asp) is closely related to throughput, and management can make several types of assumptions about capacity. If the company assumes that production will operate continually without any interruptions, management is using theoretical [capacity](https://www.investopedia.com/terms/c/capacity.asp), but this level of capacity is not reachable. No production process can produce the maximum output forever because machines need to be repaired and maintained, and employees take vacation days. It's more realistic for businesses to use practical capacity, which accounts for machine repairs, wait times, and holidays.
+A company's level of [[production capacity]](https://www.investopedia.com/terms/c/capacity-management.asp) is closely related to throughput, and management can make several types of assumptions about capacity. If the company assumes that production will operate continually without any interruptions, management is using theoretical [[capacity]](https://www.investopedia.com/terms/c/capacity.asp), but this level of capacity is not reachable. No production process can produce the maximum output forever because machines need to be repaired and maintained, and employees take vacation days. It's more realistic for businesses to use practical capacity, which accounts for machine repairs, wait times, and holidays.
 
-A company’s throughput also depends on how well the company manages its [supply chain](https://www.investopedia.com/terms/s/supplychain.asp), which is the interaction between the company and its suppliers. If, for whatever reason, supplies are not available as an input to production, the disruption has a negative impact on throughput.
+A company’s throughput also depends on how well the company manages its [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp), which is the interaction between the company and its suppliers. If, for whatever reason, supplies are not available as an input to production, the disruption has a negative impact on throughput.
 
 In many cases, two products may start in production using the same process, which means that the joint costs are allocated between each product. When production reaches the split-off point, however, the products are produced using separate processes. This situation makes it more difficult to maintain a high level of throughput.
 
@@ -49,7 +49,7 @@ Throughput can be calculated using the following formula:
 where:
 
 -   T = Throughput
--   I = [Inventory](https://www.investopedia.com/terms/i/inventory.asp) (the number of units in the production process)
+-   I = [[Inventory]](https://www.investopedia.com/terms/i/inventory.asp) (the number of units in the production process)
 -   F = The time the inventory units spend in production from start to finish
 
 ## Example of Throughput

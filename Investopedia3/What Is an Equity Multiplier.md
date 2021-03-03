@@ -16,13 +16,13 @@ author: Akhilesh Ganti
 What Is an Equity Multiplier?
 ## What Is the Equity Multiplier?
 
-The equity multiplier is a risk indicator that measures the portion of a company’s assets that is financed by stockholder's equity rather than by debt. It is calculated by dividing a company's total asset value by its total [shareholders' equity](https://www.investopedia.com/terms/s/stockholdersequity.asp).
+The equity multiplier is a risk indicator that measures the portion of a company’s assets that is financed by stockholder's equity rather than by debt. It is calculated by dividing a company's total asset value by its total [[shareholders' equity]](https://www.investopedia.com/terms/s/stockholdersequity.asp).
 
 Generally, a high equity multiplier indicates that a company is using a high amount of debt to finance assets. A low equity multiplier means that the company has less reliance on debt.
 
 However, a company's equity multiplier can be seen as high or low only in comparison to historical standards, the averages for the industry, or the company's peers.
 
-The equity multiplier is also known as the leverage ratio or financial leverage ratio and is one of three ratios used in the [DuPont analysis](https://www.investopedia.com/terms/d/dupontanalysis.asp).
+The equity multiplier is also known as the leverage ratio or financial leverage ratio and is one of three ratios used in the [[DuPont analysis]](https://www.investopedia.com/terms/d/dupontanalysis.asp).
 
 ### Formula and Calculation of the Equity Multiplier
 
@@ -38,7 +38,7 @@ The equity multiplier reveals how much of the total assets are financed by share
 -   Generally, a high equity multiplier indicates that a company has a higher level of debt.
 -   Investors judge a company's equity multiplier in the context of its industry and its peers.
 
-A high equity multiplier (relative to historical standards, industry averages, or a company's peers) indicates that a company is using a large amount of debt to finance assets. Companies with a higher debt burden will have higher [debt servicing](https://www.investopedia.com/terms/d/debtservice.asp) costs, which means that they will have to generate more cash flow to sustain a healthy business.
+A high equity multiplier (relative to historical standards, industry averages, or a company's peers) indicates that a company is using a large amount of debt to finance assets. Companies with a higher debt burden will have higher [[debt servicing]](https://www.investopedia.com/terms/d/debtservice.asp) costs, which means that they will have to generate more cash flow to sustain a healthy business.
 
 A low equity multiplier implies that the company has fewer debt-financed assets. That is usually seen as a positive as its debt servicing costs are lower. But it could also signal that the company is unable to entice lenders to loan it money on favorable terms, which is a problem.
 
@@ -48,7 +48,7 @@ There is no ideal equity multiplier. It will vary by the sector or industry a co
 
 An equity multiplier of 2 means that half the company's assets are financed with debt, while the other half is financed with equity.
 
-The equity multiplier is an important factor in DuPont analysis, a method of financial assessment devised by the chemical company for its internal financial review. The DuPont model breaks the calculation of [return on equity](https://www.investopedia.com/terms/r/returnonequity.asp) (ROE) into three ratios: net profit margin (NPM), [asset turnover ratio](https://www.investopedia.com/terms/a/assetturnover.asp), and the equity multiplier.
+The equity multiplier is an important factor in DuPont analysis, a method of financial assessment devised by the chemical company for its internal financial review. The DuPont model breaks the calculation of [[return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp) (ROE) into three ratios: net profit margin (NPM), [[asset turnover ratio]](https://www.investopedia.com/terms/a/assetturnover.asp), and the equity multiplier.
 
 If ROE changes over time or diverges from normal levels for the peer group, the DuPont analysis can indicate how much of this is attributable to use of financial leverage. If the equity multiplier fluctuates, it can significantly affect ROE.
 
@@ -62,4 +62,4 @@ Now compare Apple to Verizon Communications (VZ). The company has a very differe
 
 Verizon's higher equity multiplier indicates that the business relies more heavily on financing from debt and other interest-bearing liabilities. The company's telecommunications business model is similar to utility companies, which have stable, predictable cash flows and typically carry high debt levels.
 
-On the other hand, Apple is more susceptible to changing [economic conditions](https://www.investopedia.com/terms/e/economic-conditions.asp) or evolving industry standards than a utility or a traditional telecommunications firm. As a result, Apple carries less financial leverage. It has a relatively low equity multiplier.
+On the other hand, Apple is more susceptible to changing [[economic conditions]](https://www.investopedia.com/terms/e/economic-conditions.asp) or evolving industry standards than a utility or a traditional telecommunications firm. As a result, Apple carries less financial leverage. It has a relatively low equity multiplier.

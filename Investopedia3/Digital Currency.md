@@ -27,7 +27,7 @@ Digital currency is a form of currency that is available only in digital or elec
 
 ## Understanding Digital Currency
 
-Digital currencies are intangible and can only be owned and transacted in by using computers or electronic wallets connected to the Internet or the designated networks. In contrast, physical currencies, like [banknotes](https://www.investopedia.com/terms/b/banknote.asp) and minted coins, are tangible and transactions are possible only by their holders who have their physical ownership.
+Digital currencies are intangible and can only be owned and transacted in by using computers or electronic wallets connected to the Internet or the designated networks. In contrast, physical currencies, like [[banknotes]](https://www.investopedia.com/terms/b/banknote.asp) and minted coins, are tangible and transactions are possible only by their holders who have their physical ownership.
 
 Like any standard fiat currency, digital currencies can be used to purchase goods as well as to pay for services, though they can also find restricted use among certain online communities, like gaming sites, gambling portals, or social networks.
 
@@ -35,11 +35,11 @@ Digital currencies have all intrinsic properties like physical currency, and the
 
 For instance, it is possible for an American to make payments in digital currency to a distant counterparty residing in Singapore, provided that they both are connected to the same network required for transacting in the digital currency.
 
-Digital currencies offer numerous advantages. As payments in digital currencies are made directly between the transacting parties without the need of any intermediaries, the transactions are usually instantaneous and low-cost. This fares better compared to traditional payment methods that involve banks or [clearing houses](https://www.investopedia.com/terms/c/clearinghouse.asp). Digital currency-based electronic transactions also bring in the necessary record keeping and transparency in dealings.
+Digital currencies offer numerous advantages. As payments in digital currencies are made directly between the transacting parties without the need of any intermediaries, the transactions are usually instantaneous and low-cost. This fares better compared to traditional payment methods that involve banks or [[clearing houses]](https://www.investopedia.com/terms/c/clearinghouse.asp). Digital currency-based electronic transactions also bring in the necessary record keeping and transparency in dealings.
 
 ## Difference between Digital, Virtual, and Crypto Currencies
 
-Since they exist in a lot of variants, digital currencies can be considered a superset of virtual currencies and [cryptocurrencies](https://www.investopedia.com/terms/c/cryptocurrency.asp).
+Since they exist in a lot of variants, digital currencies can be considered a superset of virtual currencies and [[cryptocurrencies]](https://www.investopedia.com/terms/c/cryptocurrency.asp).
 
 If issued by a central bank of a country in a regulated form, it is called the “Central Bank Digital Currency (CBDC).” While the CBDC only exists in conceptual form, England, Sweden, and Uruguay are a few of the nations that have considered plans to launch a digital version of their native fiat currencies.12
 
@@ -47,7 +47,7 @@ Along with the regulated CBDC, a digital currency can also exist in an unregulat
 
 Since cryptocurrencies are unregulated, they are also considered to be virtual currencies.
 
-A cryptocurrency is another form of digital currency which uses cryptography to secure and verify transactions and to manage and control the creation of new currency units. [Bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) and [ethereum](https://www.investopedia.com/terms/e/ethereum.asp) are the most popular cryptocurrencies.
+A cryptocurrency is another form of digital currency which uses cryptography to secure and verify transactions and to manage and control the creation of new currency units. [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) and [[ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) are the most popular cryptocurrencies.
 
 Essentially, both virtual currencies and cryptocurrencies are considered forms of digital currencies.
 

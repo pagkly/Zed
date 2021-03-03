@@ -16,9 +16,9 @@ author: Investopedia Staff
 James Tobin Definition
 ## Who Was James Tobin?
 
-James Tobin was a [Neo-Keynesian](https://www.investopedia.com/ask/answers/012615/what-difference-between-keynesian-and-neokeynesian-economics.asp) economist who received the 1981 Nobel Memorial Prize in Economic Sciences for his research on the financial system and its impact on inflation and employment.1
+James Tobin was a [[Neo-Keynesian]](https://www.investopedia.com/ask/answers/012615/what-difference-between-keynesian-and-neokeynesian-economics.asp) economist who received the 1981 Nobel Memorial Prize in Economic Sciences for his research on the financial system and its impact on inflation and employment.1
 
-Tobin served on the Board of Governors of the Federal Reserve and the Council of Economic Advisors, and he taught at Yale University and Harvard University. His most well-known idea is the [Tobin Tax](https://www.investopedia.com/terms/t/tobin-tax.asp), a tax on foreign exchange transactions in order to reduce currency speculation, which Tobin believed to be wasteful and counterproductive to economic growth.2
+Tobin served on the Board of Governors of the Federal Reserve and the Council of Economic Advisors, and he taught at Yale University and Harvard University. His most well-known idea is the [[Tobin Tax]](https://www.investopedia.com/terms/t/tobin-tax.asp), a tax on foreign exchange transactions in order to reduce currency speculation, which Tobin believed to be wasteful and counterproductive to economic growth.2
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ After winning the Nobel Prize in Economics in 1981, Tobin retired from Yale in 1
 
 ## Contributions
 
-As a Neo-Keynesian, Tobin spent much of his career helping to develop microeconomic foundations for [Keynesian macroeconomic](https://www.investopedia.com/terms/k/keynesianeconomics.asp) theories and models, with a particular interest in financial markets and their macroeconomic implications. 
+As a Neo-Keynesian, Tobin spent much of his career helping to develop microeconomic foundations for [[Keynesian macroeconomic]](https://www.investopedia.com/terms/k/keynesianeconomics.asp) theories and models, with a particular interest in financial markets and their macroeconomic implications. 
 
 ### Portfolio Selection Theory
 
@@ -44,11 +44,11 @@ James Tobin won the Nobel Memorial Prize in Economics in 1981 for his developmen
 
 ### Tobin Tax
 
-In the wake of the collapse of the [Bretton Woods](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp) agreement and development of various pegged and floating currency exchange rates around the world, Tobin proposed that a small, per-transaction tax on currency exchange transactions to discourage speculation in the form of frequent, large, short-term currency transactions. Given the size of large international financial institutions relative to the size of many developing economies, large speculative moves in currencies can have major macroeconomic consequences for smaller economies. A Tobin tax is intended to cushion the effect of such speculation for these economies. Later economists and financiers would go on to propose similar taxes on other types of financial asset transactions, most famously in the aftermath of the global financial crisis and the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp).
+In the wake of the collapse of the [[Bretton Woods]](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp) agreement and development of various pegged and floating currency exchange rates around the world, Tobin proposed that a small, per-transaction tax on currency exchange transactions to discourage speculation in the form of frequent, large, short-term currency transactions. Given the size of large international financial institutions relative to the size of many developing economies, large speculative moves in currencies can have major macroeconomic consequences for smaller economies. A Tobin tax is intended to cushion the effect of such speculation for these economies. Later economists and financiers would go on to propose similar taxes on other types of financial asset transactions, most famously in the aftermath of the global financial crisis and the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp).
 
 ### Tobin's Q
 
-Based on a previous idea by economist Nicholas Kaldor, [Tobin's Q](https://www.investopedia.com/terms/q/qratio.asp) is the ratio of an asset's market value to its book value (or replacement cost). In financial terms, a Q value greater than one indicates an overvalued asset; less than one indicates an undervalued asset, which may represent an opportunity. In macroeconomics, Tobin's Q is meant to be understood as one of the determinants of investment spending by firms; a firm with a Q greater than one would be expected to reinvest profits into capital spending, thus moving Q back toward one. With respect to the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) as a whole, Tobin's Q has sometimes been referred to as a leading indicator, which may decline steeply just before and during recessions. It has been widely used in business, economic, and legal research to explain how various regulatory and corporate governance arrangements impact firm value. 
+Based on a previous idea by economist Nicholas Kaldor, [[Tobin's Q]](https://www.investopedia.com/terms/q/qratio.asp) is the ratio of an asset's market value to its book value (or replacement cost). In financial terms, a Q value greater than one indicates an overvalued asset; less than one indicates an undervalued asset, which may represent an opportunity. In macroeconomics, Tobin's Q is meant to be understood as one of the determinants of investment spending by firms; a firm with a Q greater than one would be expected to reinvest profits into capital spending, thus moving Q back toward one. With respect to the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) as a whole, Tobin's Q has sometimes been referred to as a leading indicator, which may decline steeply just before and during recessions. It has been widely used in business, economic, and legal research to explain how various regulatory and corporate governance arrangements impact firm value. 
 
 ### Tobit Modeling
 

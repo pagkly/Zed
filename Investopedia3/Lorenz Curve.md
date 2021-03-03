@@ -16,7 +16,7 @@ author: Investopedia Staff
 Lorenz Curve
 ## What Is a Lorenz Curve?
 
-A Lorenz curve is a graphical representation of [income inequality](https://www.investopedia.com/terms/i/income-inequality.asp) or wealth inequality developed by American economist Max Lorenz in 1905. The graph plots percentiles of the population on the horizontal axis according to income or wealth. It plots cumulative income or wealth on the vertical axis, so that an x-value of 45 and a y-value of 14.2 would mean that the bottom 45% of the population controls 14.2% of the total income or wealth. In practice, a Lorenz curve is usually a mathematical function estimated from an incomplete set of observations of income or wealth.
+A Lorenz curve is a graphical representation of [[income inequality]](https://www.investopedia.com/terms/i/income-inequality.asp) or wealth inequality developed by American economist Max Lorenz in 1905. The graph plots percentiles of the population on the horizontal axis according to income or wealth. It plots cumulative income or wealth on the vertical axis, so that an x-value of 45 and a y-value of 14.2 would mean that the bottom 45% of the population controls 14.2% of the total income or wealth. In practice, a Lorenz curve is usually a mathematical function estimated from an incomplete set of observations of income or wealth.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ A Lorenz curve is a graphical representation of [income inequality](https://www.
 
 ## Understanding the Lorenz Curve
 
-The Lorenz curve is often accompanied by a straight diagonal line with a slope of 1, which represents perfect equality in income or wealth distribution; the Lorenz curve lies beneath it, showing the observed or estimated distribution. The area between the straight line and the curved line, expressed as a ratio of the area under the straight line, is the [Gini coefficient](https://www.investopedia.com/terms/g/gini-index.asp), a scalar measurement of inequality.
+The Lorenz curve is often accompanied by a straight diagonal line with a slope of 1, which represents perfect equality in income or wealth distribution; the Lorenz curve lies beneath it, showing the observed or estimated distribution. The area between the straight line and the curved line, expressed as a ratio of the area under the straight line, is the [[Gini coefficient]](https://www.investopedia.com/terms/g/gini-index.asp), a scalar measurement of inequality.
 
-While the Lorenz curve is most often used to represent economic inequality, it can also demonstrate unequal distribution in any system. The farther away the curve is from the baseline, represented by the straight diagonal line, the higher the level of inequality. In economics, the Lorenz curve denotes inequality in the distribution of either wealth or income; these are not synonymous since it is possible to have high earnings but zero or negative [net worth](https://www.investopedia.com/terms/n/networth.asp), or low earnings but a large net worth. 
+While the Lorenz curve is most often used to represent economic inequality, it can also demonstrate unequal distribution in any system. The farther away the curve is from the baseline, represented by the straight diagonal line, the higher the level of inequality. In economics, the Lorenz curve denotes inequality in the distribution of either wealth or income; these are not synonymous since it is possible to have high earnings but zero or negative [[net worth]](https://www.investopedia.com/terms/n/networth.asp), or low earnings but a large net worth. 
 
 A Lorenz curve usually starts with an empirical measurement of wealth or income distribution across a population based on data such as tax returns which report income for a large portion of the population. A graph of the data may be used directly as a Lorenz curve, or economists and statisticians may fit a curve that represents a continuous function to fill in any gaps in the observed data. 
 

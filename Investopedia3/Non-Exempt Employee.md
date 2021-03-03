@@ -16,13 +16,13 @@ author: James Chen
 Non-Exempt Employee
 ## What Is a Non-Exempt Employee?
 
-Non-exempt employees are workers who are entitled to earn the federal [minimum wage](https://www.investopedia.com/terms/m/minimum_wage.asp) and qualify for overtime pay, which is calculated as one-and-a-half times their hourly rate, for every hour they work, above and beyond a standard 40-hour workweek. These regulations are created by the federal [Fair Labor Standards Act (FLSA)](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp).
+Non-exempt employees are workers who are entitled to earn the federal [[minimum wage]](https://www.investopedia.com/terms/m/minimum_wage.asp) and qualify for overtime pay, which is calculated as one-and-a-half times their hourly rate, for every hour they work, above and beyond a standard 40-hour workweek. These regulations are created by the federal [[Fair Labor Standards Act (FLSA)]](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp).
 
 ### Key Takeaways
 
 -   Non-exempt employees are generally blue-collar. hourly-rate employees, who must be paid an overtime rate of 1.5 their hourly rate.
 -   Exempt employees make at least $684 a week or $35,568 annually. Non-exempt employees typically make less than this amount, but not always.
--   Non-exempt employees' rights are outlined in the [Fair Labor Standards Act (FLSA)](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp), which was recently amended starting Jan. 1, 2020.
+-   Non-exempt employees' rights are outlined in the [[Fair Labor Standards Act (FLSA)]](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp), which was recently amended starting Jan. 1, 2020.
 
 ## Understanding Non-Exempt Employees
 

@@ -18,7 +18,7 @@ Dow 30
 
 The Dow 30, commonly referred to as the "Dow," or the "Dow Jones Industrial Average," was created by _Wall Street Journal_ editor Charles Dow and got its name from Dow and his business partner, Edward Jones.1
 
-The stock market [index](https://www.investopedia.com/terms/i/index.asp) was developed as a simple means of tracking U.S. stock market performance in an age when information flow was often limited.2 The combined stock price of these 30 large, publicly-traded companies determines the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA).3 As some of the top stocks in the marketplace, the belief is that the Dow 30 represents a strong assessment of the market's overall health and tendencies.
+The stock market [[index]](https://www.investopedia.com/terms/i/index.asp) was developed as a simple means of tracking U.S. stock market performance in an age when information flow was often limited.2 The combined stock price of these 30 large, publicly-traded companies determines the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) (DJIA).3 As some of the top stocks in the marketplace, the belief is that the Dow 30 represents a strong assessment of the market's overall health and tendencies.
 
 ### Key Takeaways
 
@@ -31,13 +31,13 @@ The stock market [index](https://www.investopedia.com/terms/i/index.asp) was dev
 
 ## Understanding the Dow 30
 
-The Dow launched in 1896 and was a spin-off of the [Dow Jones Transportation Average](https://www.investopedia.com/terms/d/djta.asp), making the DJIA the second oldest stock market index in the United States.2 At the time, it consisted of 12 companies that were considered important to America's economy. The mix of companies was diverse, ranging from tobacco to sugar to coal to iron to leather.4
+The Dow launched in 1896 and was a spin-off of the [[Dow Jones Transportation Average]](https://www.investopedia.com/terms/d/djta.asp), making the DJIA the second oldest stock market index in the United States.2 At the time, it consisted of 12 companies that were considered important to America's economy. The mix of companies was diverse, ranging from tobacco to sugar to coal to iron to leather.4
 
 As representative of the economy and the world at the time, all the companies in the Dow were commodity focused. The 12 companies included American Cotton Oil Company, American Tobacco Company, American Sugar Company, General Electric, U.S. Leather Company, and U.S. Rubber Company. The Dow expanded to 30 stocks in 1928, where it remains today.4
 
-The Dow is calculated as the sum of a single share price of the companies included in the index divided by a certain factor. That factor is adjusted depending on [stock splits](https://www.investopedia.com/terms/s/stocksplit.asp) and stock [dividends](https://www.investopedia.com/terms/d/dividend.asp).5 In this manner, the goal of the Dow 30 is to provide an indicator of the general health of the U.S. economy as well as the way in which the economy is changing. It is perhaps the most commonly utilized index in the world as it contains some of the largest companies in the world.
+The Dow is calculated as the sum of a single share price of the companies included in the index divided by a certain factor. That factor is adjusted depending on [[stock splits]](https://www.investopedia.com/terms/s/stocksplit.asp) and stock [[dividends]](https://www.investopedia.com/terms/d/dividend.asp).5 In this manner, the goal of the Dow 30 is to provide an indicator of the general health of the U.S. economy as well as the way in which the economy is changing. It is perhaps the most commonly utilized index in the world as it contains some of the largest companies in the world.
 
-Individuals can invest in the Dow, which would mean gaining exposure to all of the companies listed in it, through [exchange traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs), primarily the SPDR Dow Jones Industrial Average ETF ([DIA](https://www.investopedia.com/markets/quote?tvwidgetsymbol=dia)).6
+Individuals can invest in the Dow, which would mean gaining exposure to all of the companies listed in it, through [[exchange traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs), primarily the SPDR Dow Jones Industrial Average ETF ([DIA](https://www.investopedia.com/markets/quote?tvwidgetsymbol=dia)).6
 
 ## The Companies of the Dow 30
 
@@ -53,7 +53,7 @@ The companies in the Dow Jones are continuously changing, so the list is not a s
 
 ## The Dow 30 and the S&P 500
 
-Comparisons are often made between the Dow Jones Industrial Average (DJIA) and the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp). While both utilize the same strategy of measuring stock market performance through representative companies, there are [significant differences](https://www.investopedia.com/ask/answers/difference-between-dow-jones-industrial-average-and-sp-500/) in their methodology. For example, the DJIA is price-weighted, while the S&P 500 is market-capitalization-weighted. They also use significantly different criteria to include companies in their listings.5
+Comparisons are often made between the Dow Jones Industrial Average (DJIA) and the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp). While both utilize the same strategy of measuring stock market performance through representative companies, there are [[significant differences]](https://www.investopedia.com/ask/answers/difference-between-dow-jones-industrial-average-and-sp-500/) in their methodology. For example, the DJIA is price-weighted, while the S&P 500 is market-capitalization-weighted. They also use significantly different criteria to include companies in their listings.5
 
 ## Disadvantages of the Dow
 

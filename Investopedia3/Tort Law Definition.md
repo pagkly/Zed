@@ -28,11 +28,11 @@ Lawsuits involving contracts fall under contract law.
 
 ## Understanding Tort Law
 
-Tort law requires those who are found to be at fault for harming others to compensate the victims. Typical harms include the loss of past or future income, payment of medical expenses, payment for pain and suffering, and may also include additional [punitive damages](https://www.investopedia.com/terms/p/punitive-damages.asp) that are meant to punish the plaintiff in excess of full compensation.
+Tort law requires those who are found to be at fault for harming others to compensate the victims. Typical harms include the loss of past or future income, payment of medical expenses, payment for pain and suffering, and may also include additional [[punitive damages]](https://www.investopedia.com/terms/p/punitive-damages.asp) that are meant to punish the plaintiff in excess of full compensation.
 
 Tort law can be split into three categories: negligent torts, intentional torts, and strict liability torts. Negligent torts encompass harm done to people generally through the failure of another to exercise a certain level of care, usually defined as a reasonable standard of care. Accidents are a standard example of negligent torts. Intentional torts, on the other hand, refer to harms done to people intentionally by the willful misconduct of another, such as assault, fraud, and theft.
 
-Strict [liability](https://www.investopedia.com/terms/l/liability.asp) torts, unlike negligence and intentional torts, are not concerned with the culpability of the person doing the harm. Instead, strict liability focuses on the act itself. If someone or some entity commits a certain act - for example, producing a defective product - then that person or company is responsible for the damages from that act, regardless of the level of care exercised or their intentions.
+Strict [[liability]](https://www.investopedia.com/terms/l/liability.asp) torts, unlike negligence and intentional torts, are not concerned with the culpability of the person doing the harm. Instead, strict liability focuses on the act itself. If someone or some entity commits a certain act - for example, producing a defective product - then that person or company is responsible for the damages from that act, regardless of the level of care exercised or their intentions.
 
 ## Examples of Tort Law
 
@@ -40,7 +40,7 @@ In February 2016, a self-driving car made by Google crashed into a bus in Mounta
 
 According to liability tort law, drivers can seek compensation from a manufacturer for a faulty part of a car, usually an airbag or a tire. However, this liability tort now extends to self-driving cars, and Google can be found liable for the damages.
 
-Amy Williams filed a negligence lawsuit against Quest Diagnostics and its subsidiary Athena Diagnostics for the wrongful death of her son, Christian Millare. In 2007, Athena Diagnostics misclassified a mutation in Millare's gene, which directly resulted in seizure and death in 2008. On June 27, 2016, Quest Diagnostics filed a motion to dismiss the case under the [statute of limitations](https://www.investopedia.com/terms/s/statute-of-limitations.asp) for medical malpractice claims.
+Amy Williams filed a negligence lawsuit against Quest Diagnostics and its subsidiary Athena Diagnostics for the wrongful death of her son, Christian Millare. In 2007, Athena Diagnostics misclassified a mutation in Millare's gene, which directly resulted in seizure and death in 2008. On June 27, 2016, Quest Diagnostics filed a motion to dismiss the case under the [[statute of limitations]](https://www.investopedia.com/terms/s/statute-of-limitations.asp) for medical malpractice claims.
 
 An example of an intentional tort is the ruling between Gawker and Hulk Hogan on March 18, 2016. Hogan was awarded $140 million due to intentional tort law since it was deemed that Gawker intentionally invaded his privacy to obtain video evidence of a private act.
 

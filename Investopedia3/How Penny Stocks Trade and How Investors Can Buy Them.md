@@ -16,11 +16,11 @@ author: Chris B. Murphy
 How Penny Stocks Trade and How Investors Can Buy Them
 ## What Is a Penny Stock?
 
-A penny stock typically refers to the stock of a small company that trades for less than $5 per share. Though some penny stocks trade on large exchanges such as the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), most trade via over-the-counter (OTC) transactions through the electronic [OTC Bulletin Board](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or through the privately-owned [OTC Markets Group](https://www.investopedia.com/terms/o/otc-markets-group-inc.asp). There is no trading floor for OTC transactions. Quotations are also all done electronically.
+A penny stock typically refers to the stock of a small company that trades for less than $5 per share. Though some penny stocks trade on large exchanges such as the [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), most trade via over-the-counter (OTC) transactions through the electronic [[OTC Bulletin Board]](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or through the privately-owned [[OTC Markets Group]](https://www.investopedia.com/terms/o/otc-markets-group-inc.asp). There is no trading floor for OTC transactions. Quotations are also all done electronically.
 
 ## Penny Stocks Explained
 
-In the past, penny stocks were considered any stocks that traded for less than one dollar per share. The U.S. [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) has modified the definition to include all shares trading below five dollars. The SEC is an independent federal government agency responsible for protecting investors as they maintain fair and orderly functioning of the [securities](https://www.investopedia.com/terms/s/security.asp) markets.
+In the past, penny stocks were considered any stocks that traded for less than one dollar per share. The U.S. [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) has modified the definition to include all shares trading below five dollars. The SEC is an independent federal government agency responsible for protecting investors as they maintain fair and orderly functioning of the [securities](https://www.investopedia.com/terms/s/security.asp) markets.
 
 Penny stocks are usually associated with small companies and trade infrequently meaning they have a lack of liquidity or ready buyers in the marketplace. As a result, investors may find it difficult to sell stock since there may not be any buyers at that time. Because of the low liquidity, investors might have difficulty finding a price that accurately reflects the market.
 
@@ -34,19 +34,19 @@ Due to their lack of liquidity, wide bid-ask spreads or price quotes, and small 
 
 ## Price Fluctuations of Penny Stocks
 
-Penny stocks offered on the marketplace are often growing companies with limited cash and resources. Since these are primarily small companies, penny stocks are most suitable for investors who have a [high tolerance for risk](https://www.investopedia.com/articles/basics/03/050203.asp).
+Penny stocks offered on the marketplace are often growing companies with limited cash and resources. Since these are primarily small companies, penny stocks are most suitable for investors who have a [[high tolerance for risk]](https://www.investopedia.com/articles/basics/03/050203.asp).
 
-Typically, penny stocks have a higher level of volatility, resulting in a higher potential for reward and, thus, a higher level of inherent risk. Investors may lose their entire investment on a penny stock, or more than their investment if they [buy on margin](https://www.investopedia.com/terms/b/buying-on-margin.asp), which means the investor borrowed funds from a bank or broker to purchase the shares.
+Typically, penny stocks have a higher level of volatility, resulting in a higher potential for reward and, thus, a higher level of inherent risk. Investors may lose their entire investment on a penny stock, or more than their investment if they [[buy on margin]](https://www.investopedia.com/terms/b/buying-on-margin.asp), which means the investor borrowed funds from a bank or broker to purchase the shares.
 
-Considering the heightened risk levels associated with investing in penny stocks, investors should take particular precautions. For example, an investor should have a [stop-loss order](https://www.investopedia.com/terms/s/stop-lossorder.asp) predetermined before entering a trade and know what price level to exit if the market moves opposite of the intended direction. Stop-loss orders set a price limit that, once reached, will trigger an automatic sell of the securities.
+Considering the heightened risk levels associated with investing in penny stocks, investors should take particular precautions. For example, an investor should have a [[stop-loss order]](https://www.investopedia.com/terms/s/stop-lossorder.asp) predetermined before entering a trade and know what price level to exit if the market moves opposite of the intended direction. Stop-loss orders set a price limit that, once reached, will trigger an automatic sell of the securities.
 
 Although penny stocks can have explosive gains, it is important to have realistic expectations and understand that penny stocks are high-risk investments with low trading volumes.
 
 ## What Makes Penny Stocks Risky
 
-Penny stocks do provide some small businesses with a way to access funding from the public. These companies may use this platform as a starting block to move into a larger marketplace. Also, since they sell at such low prices, there is room for significant upside. However, some factors exacerbate the risk associated with investing or trading penny stocks. Securities are usually riskier than more established companies known as [blue-chip](https://www.investopedia.com/terms/b/bluechip.asp) stocks.
+Penny stocks do provide some small businesses with a way to access funding from the public. These companies may use this platform as a starting block to move into a larger marketplace. Also, since they sell at such low prices, there is room for significant upside. However, some factors exacerbate the risk associated with investing or trading penny stocks. Securities are usually riskier than more established companies known as [[blue-chip]](https://www.investopedia.com/terms/b/bluechip.asp) stocks.
 
-A blue chip is a nationally recognized, well-established, and financially sound company. Blue chips generally sell high-quality, widely accepted products and services. Blue-chip companies typically have a history of weathering downturns and [operate profitably in the face of adverse economic conditions](https://www.investopedia.com/ask/answers/031915/what-benefit-investing-blue-chip-stocks.asp), which helps to contribute to their long record of stable and reliable growth.
+A blue chip is a nationally recognized, well-established, and financially sound company. Blue chips generally sell high-quality, widely accepted products and services. Blue-chip companies typically have a history of weathering downturns and [[operate profitably in the face of adverse economic conditions]](https://www.investopedia.com/ask/answers/031915/what-benefit-investing-blue-chip-stocks.asp), which helps to contribute to their long record of stable and reliable growth.
 
 #### Why Do Penny Stocks Fail?
 
@@ -54,7 +54,7 @@ A blue chip is a nationally recognized, well-established, and financially sound 
 
 When considering options for potential investments, it's important to have enough information to make an informed decision. For some penny stocks, information on corporate performance can be very difficult to find. When this is the case, the information that is available about them may not come from credible sources.
 
-Stocks traded on the OTCBB carry the "OB" suffix to their symbol. These companies file financial statements with the SEC. However, companies listed on the [pink sheets](https://www.investopedia.com/terms/p/pinksheets.asp) are not required to file with the SEC. As such these businesses do not receive the same public scrutiny or regulation as the stocks represented on the NYSE, the Nasdaq, and [other markets](https://www.investopedia.com/ask/answers/08/security-market-usa.asp).
+Stocks traded on the OTCBB carry the "OB" suffix to their symbol. These companies file financial statements with the SEC. However, companies listed on the [[pink sheets]](https://www.investopedia.com/terms/p/pinksheets.asp) are not required to file with the SEC. As such these businesses do not receive the same public scrutiny or regulation as the stocks represented on the NYSE, the Nasdaq, and [[other markets]](https://www.investopedia.com/ask/answers/08/security-market-usa.asp).
 
 ### No Minimum Standards
 
@@ -62,13 +62,13 @@ Stocks on the OTCBB and pink sheets do not have to fulfill minimum standard requ
 
 ### Lack of History
 
-Many of the companies considered to be penny stocks could be newly formed, and some could be approaching [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp). These companies will generally have poor track records or no track record at all. As you can imagine, this lack of historical information makes it difficult to determine a stock's potential.
+Many of the companies considered to be penny stocks could be newly formed, and some could be approaching [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp). These companies will generally have poor track records or no track record at all. As you can imagine, this lack of historical information makes it difficult to determine a stock's potential.
 
 ### Liquidity and Fraud
 
-Stocks that trade infrequently do not have much [liquidity](https://www.investopedia.com/terms/l/liquidity.asp). As a result, it is possible that investors won't be able to sell the stock once it is acquired. The investors might need to lower their price until it is considered attractive to another buyer.
+Stocks that trade infrequently do not have much [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp). As a result, it is possible that investors won't be able to sell the stock once it is acquired. The investors might need to lower their price until it is considered attractive to another buyer.
 
-Low liquidity levels also provide opportunities for some traders to manipulate stock prices. The [pump and dump](https://www.investopedia.com/terms/p/pumpanddump.asp) scheme is a popular trading scam to lure investors into buying a stock. Large amounts of a penny stock are purchased followed by a period when the stock is hyped up or pumped up. Once other investors rush to buy the stock, the scammers sell their shares. Once the market realizes there was no fundamental reason for the stock to rise, investors rush to sell and can take on heavy losses.
+Low liquidity levels also provide opportunities for some traders to manipulate stock prices. The [[pump and dump]](https://www.investopedia.com/terms/p/pumpanddump.asp) scheme is a popular trading scam to lure investors into buying a stock. Large amounts of a penny stock are purchased followed by a period when the stock is hyped up or pumped up. Once other investors rush to buy the stock, the scammers sell their shares. Once the market realizes there was no fundamental reason for the stock to rise, investors rush to sell and can take on heavy losses.
 
 Pros
 
@@ -90,15 +90,15 @@ Cons
 
 ## Signs of Fraud
 
-Though there is no fool-proof strategy for knowing which penny stocks are fraudulent, the SEC recommends that investors heed the following warning signs in a company's record: [SEC trading suspensions](https://www.investopedia.com/terms/s/suspended_trading.asp), large assets but small revenues, financial statements containing unusual items in the footnotes, odd auditing issues, and large insider ownership.1
+Though there is no fool-proof strategy for knowing which penny stocks are fraudulent, the SEC recommends that investors heed the following warning signs in a company's record: [[SEC trading suspensions]](https://www.investopedia.com/terms/s/suspended_trading.asp), large assets but small revenues, financial statements containing unusual items in the footnotes, odd auditing issues, and large insider ownership.1
 
 ## Real-World Example of Penny Stock Fraud
 
-California resident Zirk de Maison created nearly half of a dozen shell companies and offered them as penny stocks to investors between 2008 and 2013, according to the Federal Bureau of Investigation (FBI). De Maison told investors that the companies engaged in a variety of businesses, such as gold mining and diamond trading when, in fact, they did nothing. He sold the stocks in "boiler rooms," offices where [brokers use high-pressure tactics](https://www.investopedia.com/articles/active-trading/122315/illegal-highpressure-sales-tactics-brokers-use.asp) to push people into buying stocks by promising large profits. In 2015, de Maison and seven other perpetrators were found guilty of securities fraud and sentenced to federal prison.2 
+California resident Zirk de Maison created nearly half of a dozen shell companies and offered them as penny stocks to investors between 2008 and 2013, according to the Federal Bureau of Investigation (FBI). De Maison told investors that the companies engaged in a variety of businesses, such as gold mining and diamond trading when, in fact, they did nothing. He sold the stocks in "boiler rooms," offices where [[brokers use high-pressure tactics]](https://www.investopedia.com/articles/active-trading/122315/illegal-highpressure-sales-tactics-brokers-use.asp) to push people into buying stocks by promising large profits. In 2015, de Maison and seven other perpetrators were found guilty of securities fraud and sentenced to federal prison.2 
 
 ## How Is a Penny Stock Created?
 
-Small companies and [startups](https://www.investopedia.com/terms/s/startup.asp) typically issue stock as a means of raising capital to grow the business. Although the process is lengthy, issuing stock is often one of the quickest and most effective ways for a startup company to obtain capital.
+Small companies and [[startups]](https://www.investopedia.com/terms/s/startup.asp) typically issue stock as a means of raising capital to grow the business. Although the process is lengthy, issuing stock is often one of the quickest and most effective ways for a startup company to obtain capital.
 
 A penny stock, like any other publicly traded stock, is created through a process called an initial public offering or IPO. To be listed on the OTCBB the company must first file a registration statement with the SEC or file stating the offering qualifies for an exemption from registration. It must also check state securities laws in the locations it plans to sell the stock. Once approved, the company may begin the process of soliciting orders from investors.
 
@@ -108,17 +108,17 @@ Finally, the company can apply to have the stock listed on a larger exchange, or
 
 As with other new offerings, the first step is hiring an underwriter, usually an attorney or investment bank specializing in securities offerings. The company's offering either needs to be registered with the SEC, according to Regulation A of the Securities Act of 1933, or file under [Regulation D](https://www.investopedia.com/terms/r/regulationd.asp) if exempt. If the company is required to register, Form 1-A, the registration statement, must be filed with the SEC along with the company's financial statements and proposed sales materials.
 
-The financial statements need to remain available for the public to review, and timely reports must be filed with the SEC to maintain the public offering. Once approved by the SEC, orders for shares may be solicited from the public by accompanying sales materials and disclosures, such as a [prospectus](https://www.investopedia.com/terms/p/prospectus.asp).
+The financial statements need to remain available for the public to review, and timely reports must be filed with the SEC to maintain the public offering. Once approved by the SEC, orders for shares may be solicited from the public by accompanying sales materials and disclosures, such as a [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp).
 
 ### Trading Penny Stocks
 
-After initial orders are collected and the stock is sold to investors, a registered offering can begin trading in the secondary market by listing on an exchange like the NYSE, Nasdaq, or trade over-the-counter. Many penny stocks wind up trading via OTC due to the strict [requirements for listing](https://www.investopedia.com/terms/l/listingrequirements.asp) on the larger exchanges.
+After initial orders are collected and the stock is sold to investors, a registered offering can begin trading in the secondary market by listing on an exchange like the NYSE, Nasdaq, or trade over-the-counter. Many penny stocks wind up trading via OTC due to the strict [[requirements for listing]](https://www.investopedia.com/terms/l/listingrequirements.asp) on the larger exchanges.
 
 Sometimes companies make an additional secondary market offering after the IPO, which dilutes the existing shares but gives the company access to more investors and increased capital. Furthermore, it is mandatory that the companies continue to publicly provide updated financial statements to keep investors informed and maintain the ability for quoting on the Over-the-Counter Bulletin Board.
 
 ## The SEC's Rules for Penny Stocks 
 
-Penny stocks are considered highly speculative investments. To protect investors, the SEC and [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA) have rules to regulate the trading of penny stocks. All broker-dealers must comply with Section 15(h) of the Securities Exchange Act of 1934 and the accompanying rules to be eligible to handle penny stock transactions.3
+Penny stocks are considered highly speculative investments. To protect investors, the SEC and [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA) have rules to regulate the trading of penny stocks. All broker-dealers must comply with Section 15(h) of the Securities Exchange Act of 1934 and the accompanying rules to be eligible to handle penny stock transactions.3
 
 -   Following Exchange Act rules of §240.15g-9, the broker-dealer must approve the investor's transaction and make sure the investment is suitable for their purchase.4 
 -   They must provide the customer with a standardized disclosure document as outlined in §240.15g-2. This document explains the risks associated with buying penny stocks, customer rights, and remedies in cases of fraud.5
@@ -136,7 +136,7 @@ However, even the best penny stocks are subject to low liquidity and inferior 
 
 Multiple events can trigger the transition of a penny stock to a regular stock. The company can issue new securities in an offering that is registered with the SEC, or it can register an existing class of securities with the regulatory body.
 
-Both types of transactions automatically require the firm to adhere to periodic reporting, including disclosures to investors about its business activities, financial conditions, and company management unless there is an exemption. These filings also mandate 10-Q quarterly reports, [the annual Form 10-K](https://www.investopedia.com/terms/1/10-k.asp), and periodic Form 8-K reports, which detail unexpected and significant events.
+Both types of transactions automatically require the firm to adhere to periodic reporting, including disclosures to investors about its business activities, financial conditions, and company management unless there is an exemption. These filings also mandate 10-Q quarterly reports, [[the annual Form 10-K]](https://www.investopedia.com/terms/1/10-k.asp), and periodic Form 8-K reports, which detail unexpected and significant events.
 
 In some instances, there are additional conditions that will require a company to file reports with the SEC. Reports must be filed if a company has either at least 2,000 investors, more than 500 investors that can’t be categorized as accredited investors, and possesses more than US$10 million in assets.
 

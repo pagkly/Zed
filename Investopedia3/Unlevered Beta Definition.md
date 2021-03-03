@@ -16,13 +16,13 @@ author: Akhilesh Ganti
 Unlevered Beta Definition
 ## **What is Unlevered Beta ?**
 
-[Beta](https://www.investopedia.com/terms/b/beta.asp) is a measure of market risk. Unlevered beta (or asset beta) measures the market risk of the company without the impact of debt. Unlevering a beta removes the financial effects of [leverage](https://www.investopedia.com/terms/l/leverage.asp) thus isolating the risk due solely to company assets. In other words, how much did the company's equity contribute to its risk profile.
+[Beta](https://www.investopedia.com/terms/b/beta.asp) is a measure of market risk. Unlevered beta (or asset beta) measures the market risk of the company without the impact of debt. Unlevering a beta removes the financial effects of [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) thus isolating the risk due solely to company assets. In other words, how much did the company's equity contribute to its risk profile.
 
 Unlevered beta (asset beta)\=Levered beta (equity beta)(1+(1−tax rate)∗DebtEquity)\\text{Unlevered beta (asset beta)} =\\frac{ \\text{Levered beta (equity beta)} } {\\left( 1 + \\frac{\\left( 1-\\text{tax rate} \\right )\*\\text{Debt}}{\\text{Equity}} \\right )}
 
 ## **Understanding Unlevered Beta**
 
-Beta is the slope of the [coefficient](https://www.investopedia.com/terms/c/coefficientofvariation.asp) for a stock regressed against a benchmark [market index](https://www.investopedia.com/terms/m/marketindex.asp) like the [Standard & Poor's (S&P) 500 Index](https://www.investopedia.com/terms/s/sp500.asp). A key determinant of beta is leverage, which measures the level of a company’s debt to its equity. Levered beta measures the risk of a firm with debt and equity in its [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp) to the volatility of the market. The other type of beta is known as _unlevered beta_.
+Beta is the slope of the [[coefficient]](https://www.investopedia.com/terms/c/coefficientofvariation.asp) for a stock regressed against a benchmark [[market index]](https://www.investopedia.com/terms/m/marketindex.asp) like the [[Standard & Poor's (S&P) 500 Index]](https://www.investopedia.com/terms/s/sp500.asp). A key determinant of beta is leverage, which measures the level of a company’s debt to its equity. Levered beta measures the risk of a firm with debt and equity in its [[capital structure]](https://www.investopedia.com/terms/c/capitalstructure.asp) to the volatility of the market. The other type of beta is known as _unlevered beta_.
 
 Unlevering the beta removes any beneficial or detrimental effects gained by adding debt to the firm's capital structure. Comparing companies' unlevered betas gives an investor clarity on the composition of risk being assumed when purchasing the stock.
 
@@ -37,7 +37,7 @@ Take a company that is increasing its debt thus raising its debt-to-equity ratio
 
 ## **Systematic Risk and Beta**
 
-[Systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp) is the type of risk that is caused by factors beyond a company's control. This type of risk cannot be diversified away. Examples of systematic risk include natural disasters, political events, inflation and wars. To measure the level of systematic risk or [volatility](https://www.investopedia.com/terms/v/volatility.asp) of a stock or portfolio, the beta is used.
+[Systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp) is the type of risk that is caused by factors beyond a company's control. This type of risk cannot be diversified away. Examples of systematic risk include natural disasters, political events, inflation and wars. To measure the level of systematic risk or [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) of a stock or portfolio, the beta is used.
 
 Beta is a statistical measure that compares the volatility of the price of a stock against the volatility of the broader market. If the volatility of the stock, as measured by beta, is higher, the stock is considered risky. If the volatility of the stock is lower, the stock is said to have less risk.
 
@@ -47,7 +47,7 @@ A beta of one is equivalent to the risk of the broader market. That is, a compan
 
 The level of debt that a company has can affect its performance, making it more sensitive to changes in its stock price. Note that the company being analyzed has debt in its financial statements, but unlevered beta treats it like it has no debt by stripping any debt off the calculation. Since companies have different capital structures and levels of debt, to effectively compare them against each other or against the market, an analyst can calculate the unlevered beta. This way, only the sensitivity of a firm’s assets (equity) to the market will be factored.
 
-To unlever the beta, the levered beta for the company has to be known in addition to the company’s [debt-equity ratio](https://www.investopedia.com/terms/d/debtequityratio.asp) and [corporate tax rate](https://www.investopedia.com/terms/c/corporatetax.asp).
+To unlever the beta, the levered beta for the company has to be known in addition to the company’s [[debt-equity ratio]](https://www.investopedia.com/terms/d/debtequityratio.asp) and [[corporate tax rate]](https://www.investopedia.com/terms/c/corporatetax.asp).
 
 **BU = BL / \[1 + ((1 - Tax Rate) x Debt/Equity)\]**
 

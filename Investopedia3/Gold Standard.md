@@ -16,7 +16,7 @@ author: James Chen
 Gold Standard
 ## What Is the Gold Standard?
 
-The gold standard is a fixed monetary regime under which the government's currency is fixed and may be freely converted into gold. It can also refer to a freely competitive monetary system in which gold or bank receipts for gold act as the principal medium of exchange; or to a standard of international trade, wherein some or all countries fix their [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) based on the relative gold parity values between individual [currencies](https://www.investopedia.com/terms/c/currency.asp).
+The gold standard is a fixed monetary regime under which the government's currency is fixed and may be freely converted into gold. It can also refer to a freely competitive monetary system in which gold or bank receipts for gold act as the principal medium of exchange; or to a standard of international trade, wherein some or all countries fix their [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) based on the relative gold parity values between individual [[currencies]](https://www.investopedia.com/terms/c/currency.asp).
 
 ### Key Takeaways
 
@@ -29,19 +29,19 @@ The gold standard is a fixed monetary regime under which the government's curren
 
 The gold standard is a monetary system where a country's currency or paper money has a value directly linked to gold. With the [gold standard](https://www.investopedia.com/terms/g/goldstandard.asp), countries agreed to convert paper money into a fixed amount of gold. A country that uses the gold standard sets a fixed price for gold and buys and sells gold at that price. That fixed price is used to determine the value of the currency. For example, if the U.S. sets the [price of gold](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) at $500 an ounce, the value of the dollar would be 1/500th of an ounce of gold.
 
-The gold standard developed a nebulous definition over time, but is generally used to describe any commodity-based monetary regime that does not rely on un-backed [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp), or money that is only valuable because the government forces people to use it. Beyond that, however, there are major differences.
+The gold standard developed a nebulous definition over time, but is generally used to describe any commodity-based monetary regime that does not rely on un-backed [[fiat money]](https://www.investopedia.com/terms/f/fiatmoney.asp), or money that is only valuable because the government forces people to use it. Beyond that, however, there are major differences.
 
-Some gold standards only rely on the actual circulation of physical gold coins and bars, or [bullion](https://www.investopedia.com/terms/b/bullion.asp), but others allow other commodity or paper currencies. Recent historical systems only granted the ability to convert the national currency into gold, thereby limiting the inflationary and deflationary ability of banks or governments.
+Some gold standards only rely on the actual circulation of physical gold coins and bars, or [[bullion]](https://www.investopedia.com/terms/b/bullion.asp), but others allow other commodity or paper currencies. Recent historical systems only granted the ability to convert the national currency into gold, thereby limiting the inflationary and deflationary ability of banks or governments.
 
 ## Why Gold?
 
-Most [commodity](https://www.investopedia.com/terms/c/commodity.asp)\-money advocates choose gold as a [medium of exchange](https://www.investopedia.com/terms/m/mediumofexchange.asp) because of its intrinsic properties. Gold has non-monetary uses, especially in jewelry, electronics and dentistry, so it should always retain a minimum level of real demand. It is perfectly and evenly divisible without losing value, unlike diamonds, and does not spoil over time. It is impossible to perfectly counterfeit and has a fixed stock — there is only so much gold on Earth, and inflation is limited to the speed of mining.
+Most [[commodity]](https://www.investopedia.com/terms/c/commodity.asp)\-money advocates choose gold as a [[medium of exchange]](https://www.investopedia.com/terms/m/mediumofexchange.asp) because of its intrinsic properties. Gold has non-monetary uses, especially in jewelry, electronics and dentistry, so it should always retain a minimum level of real demand. It is perfectly and evenly divisible without losing value, unlike diamonds, and does not spoil over time. It is impossible to perfectly counterfeit and has a fixed stock — there is only so much gold on Earth, and inflation is limited to the speed of mining.
 
 ## Advantages and Disadvantages of the Gold Standard
 
-There are many advantages to using the gold standard, including price stability. This is a long-term advantage that makes it harder for governments to inflate prices by expanding the [money supply](https://www.investopedia.com/terms/m/moneysupply.asp). Inflation is rare and hyperinflation doesn't happen because the money supply can only grow if the supply of gold reserves increases. Similarly, the gold standard can provide fixed international rates between countries that participate and can also reduce the uncertainty in international trade. 
+There are many advantages to using the gold standard, including price stability. This is a long-term advantage that makes it harder for governments to inflate prices by expanding the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp). Inflation is rare and hyperinflation doesn't happen because the money supply can only grow if the supply of gold reserves increases. Similarly, the gold standard can provide fixed international rates between countries that participate and can also reduce the uncertainty in international trade. 
 
-But it may cause an imbalance between countries that participate in the gold standard. Gold-producing nations may be at an advantage over those that don't produce the precious metal, thereby increasing their own reserves. The gold standard may also, according to some economists, prevent the mitigation of economic [recessions](https://www.investopedia.com/terms/r/recession.asp) because it hinders the ability of a government to increase its money supply — a tool many [central banks](https://www.investopedia.com/terms/c/centralbank.asp) have to help boost economic growth. 
+But it may cause an imbalance between countries that participate in the gold standard. Gold-producing nations may be at an advantage over those that don't produce the precious metal, thereby increasing their own reserves. The gold standard may also, according to some economists, prevent the mitigation of economic [[recessions]](https://www.investopedia.com/terms/r/recession.asp) because it hinders the ability of a government to increase its money supply — a tool many [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp) have to help boost economic growth. 
 
 ## A Brief History of the Gold Standard
 
@@ -57,7 +57,7 @@ There were many interruptions in the gold standard, especially during wartime, a
 
 As long as governments or central banks retained monopoly privileges over the supply of national currencies, the gold standard proved an ineffective or inconsistent restraint on fiscal policy. The gold standard slowly eroded during the 20th century. This began in the United States in 1933, when Franklin Delano Roosevelt signed an executive order criminalizing the private possession of monetary gold.
 
-After WWII, the [Bretton Woods agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp) forced Allied countries to accept the U.S. dollar as a reserve rather than gold, and the U.S. government pledged to keep enough gold to back its dollars. In 1971, the Nixon administration terminated the convertibility of U.S. dollars to gold, creating a fiat currency regime.
+After WWII, the [[Bretton Woods agreement]](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp) forced Allied countries to accept the U.S. dollar as a reserve rather than gold, and the U.S. government pledged to keep enough gold to back its dollars. In 1971, the Nixon administration terminated the convertibility of U.S. dollars to gold, creating a fiat currency regime.
 
 The gold standard is not currently used by any government. Britain stopped using the gold standard in 1931 and the U.S. followed suit in 1933 and abandoned the remnants of the system in 1973.
 

@@ -16,9 +16,9 @@ author: James Chen
 The Benefits and Risks of Fixed Income Products
 ## What Is Fixed Income?
 
-Fixed income broadly refers to those types of investment security that pay investors fixed interest or dividend payments until its [maturity](https://www.investopedia.com/terms/m/maturity.asp) date. At maturity, investors are repaid the principal amount they had invested. Government and corporate bonds are the most common types of fixed-income products. Unlike equities that may pay no cash flows to investors, or variable-income securities, where can payments change based on some underlying measure—such as short-term interest rates—the payments of a fixed-income security are known in advance.
+Fixed income broadly refers to those types of investment security that pay investors fixed interest or dividend payments until its [[maturity]](https://www.investopedia.com/terms/m/maturity.asp) date. At maturity, investors are repaid the principal amount they had invested. Government and corporate bonds are the most common types of fixed-income products. Unlike equities that may pay no cash flows to investors, or variable-income securities, where can payments change based on some underlying measure—such as short-term interest rates—the payments of a fixed-income security are known in advance.
 
-In addition to purchasing fixed income securities directly, there are several fixed-income [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp) and mutual funds available.
+In addition to purchasing fixed income securities directly, there are several fixed-income [[exchange-traded funds (ETFs)]](https://www.investopedia.com/terms/e/etf.asp) and mutual funds available.
 
 ### Key Takeaways
 
@@ -31,15 +31,15 @@ In addition to purchasing fixed income securities directly, there are several fi
 
 Companies and governments issue debt securities to raise money to fund day-to-day operations and finance large projects. For investors, fixed-income instruments pay a set interest rate return in exchange for investors lending their money. At the maturity date, investors are repaid the original amount they had invested—known as the principal.
 
-For example, a company might issue a 5% bond with a $1,000 [face or par value](https://www.investopedia.com/terms/f/facevalue.asp) that matures in five years. The investor buys the bond for $1,000 and will not be paid back until the end of the five-years. Over the course of the five years, the company pays interest payments—called coupon payments—based on a rate of 5% per year. As a result, the investor is paid $50 per year for five years. At the end of the five-years, the investor is repaid the $1,000 invested initially on the maturity date. Investors may also find fixed-income investments that pay coupon payments monthly, quarterly, or semiannually.
+For example, a company might issue a 5% bond with a $1,000 [[face or par value]](https://www.investopedia.com/terms/f/facevalue.asp) that matures in five years. The investor buys the bond for $1,000 and will not be paid back until the end of the five-years. Over the course of the five years, the company pays interest payments—called coupon payments—based on a rate of 5% per year. As a result, the investor is paid $50 per year for five years. At the end of the five-years, the investor is repaid the $1,000 invested initially on the maturity date. Investors may also find fixed-income investments that pay coupon payments monthly, quarterly, or semiannually.
 
 Fixed-income securities are recommended for conservative investors seeking a diversified portfolio. The percentage of the portfolio dedicated to fixed income depends on the investor's investment style. There is also an opportunity to diversify the portfolio with a mix of fixed-income products and stocks creating a portfolio that might have 50% in fixed income products and 50% in stocks.
 
-Treasury bonds and bills, municipal bonds, corporate bonds, and certificates of deposit (CDs) are all examples of fixed-income products. Bonds trade over-the-counter (OTC) on the [bond market](https://www.investopedia.com/terms/b/bondmarket.asp) and secondary market.
+Treasury bonds and bills, municipal bonds, corporate bonds, and certificates of deposit (CDs) are all examples of fixed-income products. Bonds trade over-the-counter (OTC) on the [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp) and secondary market.
 
 ## Special Considerations
 
-Fixed income investing is a conservative strategy where returns are generated from low-risk securities that pay predictable interest. Since the risk is lower, the interest coupon payments are also, usually, lower as well. Building a fixed income portfolio may include investing in bonds, [bond mutual funds](https://www.investopedia.com/terms/b/bondfund.asp), and certificates of deposit (CDs). One such strategy using fixed income products is called the [laddering](https://www.investopedia.com/terms/b/bondladder.asp) strategy.
+Fixed income investing is a conservative strategy where returns are generated from low-risk securities that pay predictable interest. Since the risk is lower, the interest coupon payments are also, usually, lower as well. Building a fixed income portfolio may include investing in bonds, [[bond mutual funds]](https://www.investopedia.com/terms/b/bondfund.asp), and certificates of deposit (CDs). One such strategy using fixed income products is called the [laddering](https://www.investopedia.com/terms/b/bondladder.asp) strategy.
 
 A laddering strategy offers steady interest income through the investment in a series of short-term bonds. As bonds mature, the portfolio manager reinvests the returned principal into new short-term bonds extending the ladder. This method allows the investor to have access to ready capital and avoid losing out on rising market interest rates.
 
@@ -66,7 +66,7 @@ Here are the most common types of fixed income products:
 
 Fixed income investments offer investors a steady stream of income over the life of the bond or debt instrument while simultaneously offering the issuer much-needed access to capital or money. Steady income lets investors plan for spending, a reason these are popular products in retirement portfolios.
 
-The interest payments from fixed-income products can also help investors stabilize the risk-return in their investment portfolio—known as the [market risk](https://www.investopedia.com/terms/m/marketrisk.asp). For investors holding stocks, prices can fluctuate resulting in large gains or losses. The steady and stable interest payments from fixed-income products can partly offset losses from the decline in stock prices. As a result, these safe investments help to diversify the risk of an investment portfolio.
+The interest payments from fixed-income products can also help investors stabilize the risk-return in their investment portfolio—known as the [[market risk]](https://www.investopedia.com/terms/m/marketrisk.asp). For investors holding stocks, prices can fluctuate resulting in large gains or losses. The steady and stable interest payments from fixed-income products can partly offset losses from the decline in stock prices. As a result, these safe investments help to diversify the risk of an investment portfolio.
 
 Also, fixed-income investments in the form of Treasury bonds (T-bonds) have the backing of the U.S. government.9 Fixed income CDs have Federal Deposit Insurance Corporation (FDIC) protection up to $250,000 per individual.7 Corporate bonds, while not insured are backed by the financial viability of the underlying company. Should a company declare bankruptcy or liquidation, bondholders have a higher claim on company assets than do common shareholders.1
 
@@ -76,7 +76,7 @@ Although there are many benefits to fixed income products, as with all investmen
 
 ### Credit and Default Risk
 
-As mentioned earlier, Treasurys and CDs have protection through the government and FDIC.9 7 Corporate debt, while less secure still ranks higher for repayment than do shareholders. When choosing an investment take care to look at the credit [rating of the bond](https://www.investopedia.com/terms/i/investmentgrade.asp) and the underlying company. Bonds with ratings below BBB are of low quality and consider junk bonds.10
+As mentioned earlier, Treasurys and CDs have protection through the government and FDIC.9 7 Corporate debt, while less secure still ranks higher for repayment than do shareholders. When choosing an investment take care to look at the credit [[rating of the bond]](https://www.investopedia.com/terms/i/investmentgrade.asp) and the underlying company. Bonds with ratings below BBB are of low quality and consider junk bonds.10
 
 The credit risk linked to a corporation can have varying effects on the valuations of the fixed-income instrument leading up to its maturity. If a company is struggling, the prices of its bonds on the secondary market might decline in value. If an investor tries to sell a bond of a struggling company, the bond might sell for less than the face or par value. Also, the bond may become difficult for investors to sell in the open market at a fair price or at all because there's no demand for it.
 
@@ -84,7 +84,7 @@ The prices of bonds can increase and decrease over the life of the bond. If the 
 
 ### Interest Rate Risk
 
-Fixed-income investors might face [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp). This risk happens in an environment where market interest rates are rising, and the rate paid by the bond falls behind. In this case, the bond would lose value in the secondary bond market. Also, the investor's capital is tied up in the investment, and they cannot put it to work earning higher income without taking an initial loss. For example, if an investor purchased a 2-year bond paying 2.5% per year and interest rates for 2-year bonds jumped to 5%, the investor is locked in at 2.5%. For better or worse, investors holding fixed-income products receive their fixed rate regardless of where interest rates move in the market.
+Fixed-income investors might face [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp). This risk happens in an environment where market interest rates are rising, and the rate paid by the bond falls behind. In this case, the bond would lose value in the secondary bond market. Also, the investor's capital is tied up in the investment, and they cannot put it to work earning higher income without taking an initial loss. For example, if an investor purchased a 2-year bond paying 2.5% per year and interest rates for 2-year bonds jumped to 5%, the investor is locked in at 2.5%. For better or worse, investors holding fixed-income products receive their fixed rate regardless of where interest rates move in the market.
 
 ### Inflationary Risks
 

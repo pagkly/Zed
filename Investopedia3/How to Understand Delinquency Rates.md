@@ -16,7 +16,7 @@ author: Julia Kagan
 How to Understand Delinquency Rates
 ## What Is a Delinquency Rate?
 
-Delinquency rate refers to the percentage of [loans](https://www.investopedia.com/terms/l/loan.asp) within a financial institution's loan portfolio whose payments are delinquent. When analyzing and investing in loans, the delinquency rate is an important metric to follow; it is easy to find comprehensive statistics on the delinquencies of all types of loans.
+Delinquency rate refers to the percentage of [[loans]](https://www.investopedia.com/terms/l/loan.asp) within a financial institution's loan portfolio whose payments are delinquent. When analyzing and investing in loans, the delinquency rate is an important metric to follow; it is easy to find comprehensive statistics on the delinquencies of all types of loans.
 
 ## How Delinquency Rates Work
 
@@ -24,7 +24,7 @@ Delinquency rate refers to the percentage of [loans](https://www.investopedia.co
 
 Typically, a lender will not report a loan as being delinquent until the borrower has missed two consecutive payments, after which a lender will report to the credit reporting agencies, or "credit bureaus," that the borrower is 60 days late in their payment. If late payments persist, then each month that the borrower is late, the lender may continue reporting the delinquency to the credit agencies for as long as 270 days.
 
-After 270 days of late payments, the code of federal regulations considers any type of federal loan to be in [default](https://www.investopedia.com/ask/answers/062315/what-are-differences-between-delinquency-and-default.asp). Loans between borrowers and private-sector lenders follow individual U.S. state codes that define when a loan is in default. To begin the process of retrieving delinquent payments, lenders generally work with third-party collection agents.
+After 270 days of late payments, the code of federal regulations considers any type of federal loan to be in [[default]](https://www.investopedia.com/ask/answers/062315/what-are-differences-between-delinquency-and-default.asp). Loans between borrowers and private-sector lenders follow individual U.S. state codes that define when a loan is in default. To begin the process of retrieving delinquent payments, lenders generally work with third-party collection agents.
 
 ### Reporting Delinquency Rates
 
@@ -38,4 +38,4 @@ To calculate a delinquency rate, divide the number of loans that are delinquent 
 
 ## Special Considerations: Publicly Reported Delinquency Rates
 
-The [Federal Reserve System (FRS)](https://www.investopedia.com/terms/f/federalreservesystem.asp) provides public data on delinquency rates quarterly across the U.S. financial market. As of the fourth quarter of 2018, the total [delinquency rate](https://www.federalreserve.gov/releases/chargeoff/delallsa.htm) from loans and leases at commercial banks was 1.79%. Residential real estate loans reported the highest delinquency rate at 2.83%. Consumer credit cards reported the second-highest delinquency rate at 2.54%.
+The [[Federal Reserve System (FRS)]](https://www.investopedia.com/terms/f/federalreservesystem.asp) provides public data on delinquency rates quarterly across the U.S. financial market. As of the fourth quarter of 2018, the total [[delinquency rate]](https://www.federalreserve.gov/releases/chargeoff/delallsa.htm) from loans and leases at commercial banks was 1.79%. Residential real estate loans reported the highest delinquency rate at 2.83%. Consumer credit cards reported the second-highest delinquency rate at 2.54%.

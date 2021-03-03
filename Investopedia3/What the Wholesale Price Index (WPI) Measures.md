@@ -16,7 +16,7 @@ author: Troy Segal
 What the Wholesale Price Index (WPI) Measures
 ## What Is a Wholesale Price Index (WPI)?
 
-A wholesale price index (WPI) is an index that measures and tracks the changes in the price of goods in the stages before the retail level. This refers to goods that are sold in bulk and traded between entities or businesses (instead of between consumers). Usually expressed as a ratio or percentage, the WPI shows the included goods' [average price](https://www.investopedia.com/terms/a/averageprice.asp) change; it is often seen as one indicator of a country's level of inflation.
+A wholesale price index (WPI) is an index that measures and tracks the changes in the price of goods in the stages before the retail level. This refers to goods that are sold in bulk and traded between entities or businesses (instead of between consumers). Usually expressed as a ratio or percentage, the WPI shows the included goods' [[average price]](https://www.investopedia.com/terms/a/averageprice.asp) change; it is often seen as one indicator of a country's level of inflation.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A wholesale price index (WPI) is an index that measures and tracks the changes i
 
 ## How a Wholesale Price Index (WPI) Works
 
-Wholesale price indexes (WPIs) are reported monthly in order to show the average price changes of goods. The total costs of the goods being considered in one year are then compared with the total costs of goods in the [base year](https://www.investopedia.com/terms/b/base-year.asp). The total prices for the base year are equal to 100 on the scale. Prices from another year are compared to that total and expressed as a percentage of change.
+Wholesale price indexes (WPIs) are reported monthly in order to show the average price changes of goods. The total costs of the goods being considered in one year are then compared with the total costs of goods in the [[base year]](https://www.investopedia.com/terms/b/base-year.asp). The total prices for the base year are equal to 100 on the scale. Prices from another year are compared to that total and expressed as a percentage of change.
 
 To illustrate, imagine 2013 is the base year. If the total price of the goods under consideration in 2013 was $4,300, and the total for 2018 is $5,000, the WPI for 2018 with the base year of 2013 is 117 (5000 – 4300 = 700/6 years), indicating an increase of 17 percent.
 

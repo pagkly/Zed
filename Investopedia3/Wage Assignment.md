@@ -20,7 +20,7 @@ Wage assignment is the act of taking money directly from an employee's paycheck�
 
 Such an automatic withholding plan may be used to pay back a variety of debt obligations, including back taxes, defaulted student loan debt, and both child and spousal support payments.
 
-A wage assignment is typically a last resort of a lender to receive repayment from a borrower who has previously failed to pay a debt obligation. A wage assignment, when involuntary, may also be referred to as [wage garnishment](https://www.investopedia.com/terms/g/garnishment.asp) and requires a court order.1
+A wage assignment is typically a last resort of a lender to receive repayment from a borrower who has previously failed to pay a debt obligation. A wage assignment, when involuntary, may also be referred to as [[wage garnishment]](https://www.investopedia.com/terms/g/garnishment.asp) and requires a court order.1
 
 ## How Wage Assignment Works
 
@@ -32,11 +32,11 @@ Wage assignments are typically incurred for debts that have gone unpaid for a pr
 -   Wage assignments may be either voluntary or involuntary.
 -   A wage assignment, when involuntary, may also be referred to as wage garnishment and requires a court order.1
 
-Employees may even voluntarily opt into a wage assignment plan as a part of a [payday loan](https://www.investopedia.com/terms/p/payday-loans.asp) repayment promise.
+Employees may even voluntarily opt into a wage assignment plan as a part of a [[payday loan]](https://www.investopedia.com/terms/p/payday-loans.asp) repayment promise.
 
 When a wage assignment is either undertaken voluntarily or mandated by a court and served to an employer, it is processed as part of an employer's payroll procedure. The employee has to do nothing, as their paycheck is decreased by the amount of the assignment, and noted on their pay stub.
 
-Wage assignments are a valuable tool for collecting unpaid debts, but unfortunately, they may be associated with [abusive lending practices](https://www.investopedia.com/terms/p/predatory_lending.asp).  
+Wage assignments are a valuable tool for collecting unpaid debts, but unfortunately, they may be associated with [[abusive lending practices]](https://www.investopedia.com/terms/p/predatory_lending.asp).  
 
 ## Wage Assignment: Voluntary
 

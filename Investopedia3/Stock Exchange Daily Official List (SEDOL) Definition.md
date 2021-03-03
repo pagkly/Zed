@@ -16,11 +16,11 @@ author: James Chen
 Stock Exchange Daily Official List (SEDOL) Definition
 ## What Is the Stock Exchange Daily Official List (SEDOL)?
 
-The stock exchange daily official list (SEDOL) is a seven-character identification code assigned to securities that trade on the [London Stock Exchange](https://www.investopedia.com/terms/l/lse.asp) and various smaller exchanges in the United Kingdom. SEDOL codes are used for [unit trusts](https://www.investopedia.com/terms/u/unittrust.asp), investment trusts, insurance-linked securities, and domestic and foreign stocks. SEDOL codes are comparable to [CUSIP numbers](https://www.investopedia.com/terms/c/cusipnumber.asp), which are codes issued by the Committee on Uniform Securities Identification Procedures for stocks traded in the United States.
+The stock exchange daily official list (SEDOL) is a seven-character identification code assigned to securities that trade on the [[London Stock Exchange]](https://www.investopedia.com/terms/l/lse.asp) and various smaller exchanges in the United Kingdom. SEDOL codes are used for [[unit trusts]](https://www.investopedia.com/terms/u/unittrust.asp), investment trusts, insurance-linked securities, and domestic and foreign stocks. SEDOL codes are comparable to [[CUSIP numbers]](https://www.investopedia.com/terms/c/cusipnumber.asp), which are codes issued by the Committee on Uniform Securities Identification Procedures for stocks traded in the United States.
 
 ## Understanding the Stock Exchange Daily Official List (SEDOL)
 
-New SEDOL codes may be issued for a number of reasons, including changes in [corporate headquarters](https://www.investopedia.com/terms/c/corporate-headquarters.asp), corporate mergers, the issuance of a new [ISIN](https://www.investopedia.com/terms/i/isin.asp), takeovers, company name changes, and when share [reclassifications](https://www.investopedia.com/terms/r/reclassification.asp) occur.
+New SEDOL codes may be issued for a number of reasons, including changes in [[corporate headquarters]](https://www.investopedia.com/terms/c/corporate-headquarters.asp), corporate mergers, the issuance of a new [[ISIN]](https://www.investopedia.com/terms/i/isin.asp), takeovers, company name changes, and when share [[reclassifications]](https://www.investopedia.com/terms/r/reclassification.asp) occur.
 
 ## The Makeup of SEDOL Classification Codes
 

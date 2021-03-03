@@ -18,7 +18,7 @@ Using Hedonic Pricing to Determine the Factors Impacting Home Prices
 
 Hedonic pricing is a model that identifies price factors according to the premise that price is determined both by internal characteristics of the good being sold and external factors affecting it.
 
-A hedonic pricing model is often used to estimate [quantitative values](https://www.investopedia.com/articles/trading/09/quant-strategies.asp) for environmental or ecosystem services that directly affect market prices for homes. This method of valuation can require a strong degree of statistical expertise and model specification, following a period of data collection.
+A hedonic pricing model is often used to estimate [[quantitative values]](https://www.investopedia.com/articles/trading/09/quant-strategies.asp) for environmental or ecosystem services that directly affect market prices for homes. This method of valuation can require a strong degree of statistical expertise and model specification, following a period of data collection.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A hedonic pricing model is often used to estimate [quantitative values](https://
 
 The most common example of the hedonic pricing method is in the real estate market, wherein the price of a building or piece of land is determined by the characteristics of both the property itself (i.e. internal factors like its size, appearance, features like solar panels or state-of-the-art faucet fixtures, and condition), as well as characteristics of its surrounding environment (i.e. external factors such as if the neighborhood has a high crime rate and/or is accessible to schools and a downtown area, the level of water and air pollution, or the value of other homes close by).
 
-The hedonic pricing model is used to estimate the extent to which each factor affects the [market price](https://www.investopedia.com/terms/m/market-price.asp) of the property. When running this type of model, if non-environmental factors are controlled for (held steady), any remaining discrepancies in price will represent differences in the good’s external surroundings. With regards to valuing properties, a hedonic pricing model is relatively straightforward as relies on actual market prices and comprehensive, available data sets.
+The hedonic pricing model is used to estimate the extent to which each factor affects the [[market price]](https://www.investopedia.com/terms/m/market-price.asp) of the property. When running this type of model, if non-environmental factors are controlled for (held steady), any remaining discrepancies in price will represent differences in the good’s external surroundings. With regards to valuing properties, a hedonic pricing model is relatively straightforward as relies on actual market prices and comprehensive, available data sets.
 
 Hedonic pricing is used to determine the extent that environmental or ecosystem factors affect the price of a good—usually a home.
 
@@ -38,7 +38,7 @@ Hedonic pricing is used to determine the extent that environmental or ecosystem 
 
 The hedonic pricing model has many advantages, including the ability to estimate values, based on concrete choices, particularly when applied to property markets with readily available, accurate data. At the same time, the method is flexible enough to be adapted to relationships among other market goods and external factors.
 
-Hedonic pricing also has significant drawbacks, including its ability to only capture consumers’ willingness to pay for what they perceive are environmental differences and their resulting consequences. For example, if potential buyers are not aware of a contaminated water supply or impending early morning construction next door, the price of the property in question will not change accordingly. Hedonic pricing also does not always incorporate external factors or regulations, such as [taxes](https://www.investopedia.com/terms/t/taxes.asp) and [interest rates](https://www.investopedia.com/terms/i/interestrate.asp), which could also have a significant impact on prices.
+Hedonic pricing also has significant drawbacks, including its ability to only capture consumers’ willingness to pay for what they perceive are environmental differences and their resulting consequences. For example, if potential buyers are not aware of a contaminated water supply or impending early morning construction next door, the price of the property in question will not change accordingly. Hedonic pricing also does not always incorporate external factors or regulations, such as [[taxes]](https://www.investopedia.com/terms/t/taxes.asp) and [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp), which could also have a significant impact on prices.
 
 ## Example of Hedonic Pricing
 

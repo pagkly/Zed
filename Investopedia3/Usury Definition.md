@@ -16,7 +16,7 @@ author: Julia Kagan
 Usury Definition
 ## What Is Usury?
 
-Usury is the act of lending money at an [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) that is considered unreasonably high or that is higher than the [rate permitted by law](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). Usury first became common in England under King Henry VIII and originally pertained to charging any amount of interest on loaned funds. Over time it evolved to mean charging excess interest, but in some religions and parts of the world charging any interest is considered illegal.
+Usury is the act of lending money at an [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) that is considered unreasonably high or that is higher than the [[rate permitted by law]](https://www.investopedia.com/terms/l/legal-rate-of-interest.asp). Usury first became common in England under King Henry VIII and originally pertained to charging any amount of interest on loaned funds. Over time it evolved to mean charging excess interest, but in some religions and parts of the world charging any interest is considered illegal.
 
 ### Key Takeaways
 
@@ -39,4 +39,4 @@ Today, usury laws help protect investors from predatory lenders.
 
 [Predatory lending](https://www.investopedia.com/terms/p/predatory_lending.asp) is broadly defined by the FDIC as “imposing unfair and abusive loan terms on borrowers." Predatory lending often targets groups with less access to and understanding of more traditional forms of financing. Predatory lenders can charge unreasonably high-interest rates and require significant collateral in the likely event a borrower defaults.
 
-Predatory lending is also affiliated with [payday loans](https://www.investopedia.com/terms/p/payday-loans.asp), also termed payday advances or small-dollar loans, among other names. Payday loans are small-sum, short-term unsecured loans, which can appear to carry substantial risk to the lender. To prevent usury, some jurisdictions limit the [annual percentage rate](https://www.investopedia.com/terms/a/apr.asp) (APR) that a payday lender can charge, while others outlaw the practice entirely.
+Predatory lending is also affiliated with [[payday loans]](https://www.investopedia.com/terms/p/payday-loans.asp), also termed payday advances or small-dollar loans, among other names. Payday loans are small-sum, short-term unsecured loans, which can appear to carry substantial risk to the lender. To prevent usury, some jurisdictions limit the [[annual percentage rate]](https://www.investopedia.com/terms/a/apr.asp) (APR) that a payday lender can charge, while others outlaw the practice entirely.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Microcredit
 ## What Is Microcredit?
 
-Microcredit is a common form of [microfinance](https://www.investopedia.com/terms/m/microfinance.asp) that involves an extremely small [loan](https://www.investopedia.com/terms/l/loan.asp) given to an individual to help them become self-employed or grow a small business. These borrowers tend to be low-income individuals, especially from less developed countries (LDCs). Microcredit is also known as "microlending" or "microloan."
+Microcredit is a common form of [[microfinance]](https://www.investopedia.com/terms/m/microfinance.asp) that involves an extremely small [[loan]](https://www.investopedia.com/terms/l/loan.asp) given to an individual to help them become self-employed or grow a small business. These borrowers tend to be low-income individuals, especially from less developed countries (LDCs). Microcredit is also known as "microlending" or "microloan."
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Microcredit is a common form of [microfinance](https://www.investopedia.com/term
 
 The concept of microcredit was built on the idea that skilled people in underdeveloped countries, who live outside of traditional banking and monetary systems could gain entry into an economy through the assistance of a small loan. The people to whom such microcredit is offered may live in barter systems where no actual currency is exchanged.
 
-Modern microcredit is typically attributed to the Grameen Bank model, developed by economist [Muhammad Yunus](https://www.investopedia.com/terms/m/muhammad-yunus.asp). This system started in Bangladesh in 1976, with a group of women borrowing $27 to finance the group's own small businesses. The women repaid the loan and were able to sustain the business.
+Modern microcredit is typically attributed to the Grameen Bank model, developed by economist [[Muhammad Yunus]](https://www.investopedia.com/terms/m/muhammad-yunus.asp). This system started in Bangladesh in 1976, with a group of women borrowing $27 to finance the group's own small businesses. The women repaid the loan and were able to sustain the business.
 
 The women in Bangladesh who received microcredit did not have money to purchase the materials they needed to make the bamboo stools that they would, in turn, sell—and at the same time, each individual borrower would be too risky to lend to on their own. By borrowing as a group, the initial financing gave them the resources to begin production, with an understanding that the loan would be paid over time as they brought in revenue.
 
@@ -50,6 +50,6 @@ Interestingly, although these borrowers often qualify as very poor, repayment am
 
 ## Critiques of Microcredit
 
-There have been criticisms of microcredit and the way it can be misused. For example, in South Africa, microcredit was introduced in some of the poorest communities to encourage people to pursue [self-employment](https://www.investopedia.com/terms/s/self-employed.asp). However, the way it was introduced, in some instances, led to the funds being expended through consumption spending, rather than the establishment or furthering of any form of business or employment activity.
+There have been criticisms of microcredit and the way it can be misused. For example, in South Africa, microcredit was introduced in some of the poorest communities to encourage people to pursue [[self-employment]](https://www.investopedia.com/terms/s/self-employed.asp). However, the way it was introduced, in some instances, led to the funds being expended through consumption spending, rather than the establishment or furthering of any form of business or employment activity.
 
 Also, the borrowers may find themselves with a magnitude of debt they cannot repay, even with the small-scale loans offered through microcredit. The problem is that the borrowers may not have a steady income source, or they plan to use the microcredit to create an income source for themselves that would allow them to pay back the financing. As a result, some borrowers have resorted to selling off personal property and seeking new financing to cover their previous microcredit.

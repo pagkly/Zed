@@ -16,7 +16,7 @@ author: James Chen
 Comparable Company Analysis (CCA) Definition
 ## What Is a Comparable Company Analysis (CCA)
 
-A comparable company analysis (CCA) is a process used to evaluate the value of a company using the metrics of other businesses of similar size in the same industry. Comparable company analysis operates under the assumption that similar companies will have similar valuation multiples, such as [EV/EBITDA](https://www.investopedia.com/terms/e/ebitda-ev-multiple.asp). Analysts compile a list of available statistics for the companies being reviewed and calculate the valuation multiples in order to compare them.
+A comparable company analysis (CCA) is a process used to evaluate the value of a company using the metrics of other businesses of similar size in the same industry. Comparable company analysis operates under the assumption that similar companies will have similar valuation multiples, such as [[EV/EBITDA]](https://www.investopedia.com/terms/e/ebitda-ev-multiple.asp). Analysts compile a list of available statistics for the companies being reviewed and calculate the valuation multiples in order to compare them.
 
 #### Comparable Company Analysis (CCA)
 
@@ -32,15 +32,15 @@ One of the first things every banker learns is how to do a comp analysis or comp
 
 ## Comparable Company Analysis
 
-Comparable company analysis starts with establishing a [peer group](https://www.investopedia.com/terms/p/peer-group.asp) consisting of similar companies of similar size in the same industry or region. Investors are then able to compare a particular company to its competitors on a relative basis. This information can be used to determine a company's [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) and to calculate other ratios used to compare a company to those in its peer group.
+Comparable company analysis starts with establishing a [[peer group]](https://www.investopedia.com/terms/p/peer-group.asp) consisting of similar companies of similar size in the same industry or region. Investors are then able to compare a particular company to its competitors on a relative basis. This information can be used to determine a company's [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) and to calculate other ratios used to compare a company to those in its peer group.
 
 ## Relative vs. Comparable Company Analysis
 
-There are many ways to value a company. The most common approaches are based on [cash flows](https://www.investopedia.com/terms/c/cashflow.asp) and relative performance compared to peers. Models that are based on cash, such as the [discounted cash flow](https://www.investopedia.com/terms/d/dcf.asp) (DCF) model, can help analysts calculate an [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) based on future cash flows. This value is then compared to the actual market value. If the intrinsic value is higher than the market value, the stock is undervalued. If the intrinsic value is lower than the market value, the stock is overvalued.
+There are many ways to value a company. The most common approaches are based on [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp) and relative performance compared to peers. Models that are based on cash, such as the [[discounted cash flow]](https://www.investopedia.com/terms/d/dcf.asp) (DCF) model, can help analysts calculate an [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) based on future cash flows. This value is then compared to the actual market value. If the intrinsic value is higher than the market value, the stock is undervalued. If the intrinsic value is lower than the market value, the stock is overvalued.
 
 In addition to intrinsic valuation, analysts like to confirm cash flow valuation with relative comparisons, and these relative comparisons allow the analyst to develop an industry benchmark or average.
 
-The most common valuation measures used in comparable company analysis are [enterprise value to sales](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) (EV/S), [price to earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E), [price to book](https://www.investopedia.com/terms/p/price-to-bookratio.asp) (P/B), and [price to sales](https://www.investopedia.com/terms/p/price-to-salesratio.asp) (P/S). If the company's valuation ratio is higher than the peer average, the company is overvalued. If the valuation ratio is lower than the peer average, the company is undervalued. Used together, intrinsic and relative valuation models provide a ballpark measure of valuation that can be used to help analysts gauge the true value of a company.
+The most common valuation measures used in comparable company analysis are [[enterprise value to sales]](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) (EV/S), [[price to earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E), [[price to book]](https://www.investopedia.com/terms/p/price-to-bookratio.asp) (P/B), and [[price to sales]](https://www.investopedia.com/terms/p/price-to-salesratio.asp) (P/S). If the company's valuation ratio is higher than the peer average, the company is overvalued. If the valuation ratio is lower than the peer average, the company is undervalued. Used together, intrinsic and relative valuation models provide a ballpark measure of valuation that can be used to help analysts gauge the true value of a company.
 
 ## Valuation and Transaction Metrics Used in Comps
 

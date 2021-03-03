@@ -16,7 +16,7 @@ author: Marshall Hargrave
 What's the Difference between a Middle Market Firm and Mid-Cap Stock?
 ## What Is a Middle Market Firm?
 
-A [middle market](https://www.investopedia.com/terms/m/middle-market.asp) firm is a firm in a given industry with annual [revenues](https://www.investopedia.com/terms/r/revenue.asp) that fall in the middle of the market for that industry. That is, middle-market firms are in the middle of the market between smaller companies and the giants of the industry that dominate the market.
+A [[middle market]](https://www.investopedia.com/terms/m/middle-market.asp) firm is a firm in a given industry with annual [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) that fall in the middle of the market for that industry. That is, middle-market firms are in the middle of the market between smaller companies and the giants of the industry that dominate the market.
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ For example, in the investment banking industry, middle market firms include Pip
 
 ## Requirements for a Middle Market Firm
 
-Middle market firms are often, but not always, publicly-traded. Small firms within the industry are usually not publicly-traded, and large firms are usually publicly-traded, but middle-market firms may or may not be. Middle market firms that are publicly traded are likely to be categorized as mid-capitalization, or [mid-cap](https://www.investopedia.com/terms/m/midcapstock.asp), stocks. Mid-cap stocks are attractive to [investors](https://www.investopedia.com/terms/i/investor.asp) because they have a high growth rate but they also have lower risk than [small-cap](https://www.investopedia.com/investing/introduction-to-small-cap-stocks/) or other speculative stocks. Mid-cap stocks, in general, have a market [capitalization](https://www.investopedia.com/terms/c/capitalization.asp) of between $2 billion and $10 billion. 
+Middle market firms are often, but not always, publicly-traded. Small firms within the industry are usually not publicly-traded, and large firms are usually publicly-traded, but middle-market firms may or may not be. Middle market firms that are publicly traded are likely to be categorized as mid-capitalization, or [[mid-cap]](https://www.investopedia.com/terms/m/midcapstock.asp), stocks. Mid-cap stocks are attractive to [[investors]](https://www.investopedia.com/terms/i/investor.asp) because they have a high growth rate but they also have lower risk than [[small-cap]](https://www.investopedia.com/investing/introduction-to-small-cap-stocks/) or other speculative stocks. Mid-cap stocks, in general, have a market [[capitalization]](https://www.investopedia.com/terms/c/capitalization.asp) of between $2 billion and $10 billion. 
 
 Mid-caps companies may be new companies or established companies, or anywhere in between, as the mid-cap classification is reachable for a new market entrant but also sustainable for established companies. Investors favor mid-cap stocks because they are less risky than small-cap stocks but have greater growth than large-cap stocks.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 What You Should Know About Fixed-Rate Payments
 ## What Is a Fixed-Rate Payment?
 
-A fixed-rate payment is an [installment loan](https://www.investopedia.com/terms/i/installmentdebt.asp) with an interest rate that cannot be changed during the life of the loan. The payment amount also will remain the same, though the proportions that go toward paying off the interest and paying off the principal will vary.1 A fixed-rate payment is sometimes referred to as a “vanilla wafer” payment, presumably because it is very predictable and contains no surprises.
+A fixed-rate payment is an [[installment loan]](https://www.investopedia.com/terms/i/installmentdebt.asp) with an interest rate that cannot be changed during the life of the loan. The payment amount also will remain the same, though the proportions that go toward paying off the interest and paying off the principal will vary.1 A fixed-rate payment is sometimes referred to as a “vanilla wafer” payment, presumably because it is very predictable and contains no surprises.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ A fixed-rate payment is an [installment loan](https://www.investopedia.com/terms
 
 ## How a Fixed-Rate Payment Works
 
-A fixed-rate payment agreement is most often used in mortgage loans. Homebuyers generally have a choice of [fixed-rate mortgage loans](https://www.investopedia.com/terms/f/fixed-rate_mortgage.asp) or [adjustable-rate (ARM) mortgage loans](https://www.investopedia.com/terms/a/arm.asp). Adjustable-rate mortgage loans are also known as [floating](https://www.investopedia.com/terms/f/floatinginterestrate.asp) rate loans. Homebuyers typically can decide [which loan type is the better choice](https://www.investopedia.com/ask/answers/07/fixed-variable.asp) for them.
+A fixed-rate payment agreement is most often used in mortgage loans. Homebuyers generally have a choice of [[fixed-rate mortgage loans]](https://www.investopedia.com/terms/f/fixed-rate_mortgage.asp) or [[adjustable-rate (ARM) mortgage loans]](https://www.investopedia.com/terms/a/arm.asp). Adjustable-rate mortgage loans are also known as [[floating]](https://www.investopedia.com/terms/f/floatinginterestrate.asp) rate loans. Homebuyers typically can decide [[which loan type is the better choice]](https://www.investopedia.com/ask/answers/07/fixed-variable.asp) for them.
 
 A bank will generally offer a variety of fixed-rate payment mortgage loans, each with a slightly different interest rate. Typically, a homebuyer can choose a [15-year term or a 30-year term](https://www.investopedia.com/articles/personal-finance/042015/comparison-30year-vs-15year-mortgage.asp).2 Slightly lower rates are offered for veterans and for Federal Housing Authority (FHA) loans. Although loans for veterans and those available through the FHA have lower interest rates, borrowers are typically required to purchase additional mortgage insurance to protect against default.3
 
 Banks also offer options for adjustable-rate loans. Historically, these could have a substantially lower starting interest rate than fixed-rate payment loans. In times when interest rates were low, the homebuyer could usually get an even lower introductory rate on an adjustable-rate mortgage, offering a break on the payments in the months immediately after the purchase. When the introductory period ended, the bank raised the rate and the payment amounts as interest rates were rising. When interest rates were high, a bank was more inclined to offer the introductory rate break on fixed-rate loans, because it anticipated that rates on new loans will go lower.
 
-However, with mortgage rates hovering below 5% since the 2008 housing crisis, the gap between [fixed-rate and variable-rate loans](https://www.investopedia.com/ask/answers/032515/what-difference-between-variable-cost-and-fixed-cost-economics.asp) has practically closed. As of Aug. 13, 2020, the average interest rate nationwide on a 30-year fixed mortgage was 2.96%. The rate for a comparable adjustable-rate loan was 2.9%.4 The latter is a so-called “5/1 ARM,” meaning the rate remains fixed for at least five years. After five years, it may be adjusted upward annually.5
+However, with mortgage rates hovering below 5% since the 2008 housing crisis, the gap between [[fixed-rate and variable-rate loans]](https://www.investopedia.com/ask/answers/032515/what-difference-between-variable-cost-and-fixed-cost-economics.asp) has practically closed. As of Aug. 13, 2020, the average interest rate nationwide on a 30-year fixed mortgage was 2.96%. The rate for a comparable adjustable-rate loan was 2.9%.4 The latter is a so-called “5/1 ARM,” meaning the rate remains fixed for at least five years. After five years, it may be adjusted upward annually.5
 
 ### 0.06%
 
@@ -40,7 +40,7 @@ The difference between the average interest rate for a 30-year fixed-rate mortga
 
 ## Special Considerations
 
-The amount paid for a fixed-rate payment loan remains the same month after month, but the proportions that go to pay off principal and interest change every month. The earliest payments are made up of more interest than principal. Month by month, the amount of interest paid declines gradually while the principal paid increases. This is called loan [amortization](https://www.investopedia.com/terms/a/amortization.asp).6
+The amount paid for a fixed-rate payment loan remains the same month after month, but the proportions that go to pay off principal and interest change every month. The earliest payments are made up of more interest than principal. Month by month, the amount of interest paid declines gradually while the principal paid increases. This is called loan [[amortization]](https://www.investopedia.com/terms/a/amortization.asp).6
 
 ### Example of a Fixed-Rate Payment Loan
 

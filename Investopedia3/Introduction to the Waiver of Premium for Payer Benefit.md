@@ -16,7 +16,7 @@ author: Julia Kagan
 Introduction to the Waiver of Premium for Payer Benefit
 ## What Is a Waiver of Premium For Payer Benefit?
 
-A waiver of premium for payer benefit [rider](https://www.investopedia.com/terms/r/rider.asp) in an insurance policy states the insurance company will not require the payor to pay premiums to maintain the plan under certain conditions. The life insurance company operates as payor when there is an event that qualifies under the waiver of premium for payer benefit.
+A waiver of premium for payer benefit [[rider]](https://www.investopedia.com/terms/r/rider.asp) in an insurance policy states the insurance company will not require the payor to pay premiums to maintain the plan under certain conditions. The life insurance company operates as payor when there is an event that qualifies under the waiver of premium for payer benefit.
 
 It's important to note the different parties associated with an insurance policy; the applicant; insured; owner; and payor. The key is that the insured is not always the payor, where the payor is the party designated by the policyowner to make premium payments on the insurance policy. Most commonly, waiver of premium occurs at the point of a disability, but not death of the payor. If there is a designated co-payor, that individual can continue to pay the premiums or if the owner was not also the payor, he or she can then designate a new payor or begin paying the premiums themselves. The insurance company may charge a higher premium to include this waiver in the policy to compensate for the additional risks presented with a waiver of premium for payor benefit
 
@@ -28,7 +28,7 @@ It's important to note the different parties associated with an insurance policy
 
 ## How Waiver Of Premium For Payer Benefit Works
 
-As an example of a waiver of premium for payer benefit, consider if a parent or grandparent purchased a [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) policy for their child or grandchild.The waiver of premium rider is not activated due to death. An insurance company may offer a paid up policy or extended term policy depending on the type of policy and cash value. Alternatively, if the policyowner is different from the payor (parent or grandparent), then the policyowner could designate another payor or begin premium payments themselves.
+As an example of a waiver of premium for payer benefit, consider if a parent or grandparent purchased a [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) policy for their child or grandchild.The waiver of premium rider is not activated due to death. An insurance company may offer a paid up policy or extended term policy depending on the type of policy and cash value. Alternatively, if the policyowner is different from the payor (parent or grandparent), then the policyowner could designate another payor or begin premium payments themselves.
 
 The waiver might only apply until the child reached an age where he or she could be expected to pay the premiums alone, such as age 21. The benefit will also protect the insured’s beneficiaries, who may need the financial benefits from the policy to pay for housing, college, or other living expenses when the insured is gone.
 

@@ -24,7 +24,7 @@ PVIF\=a(1+r)nwhere:a\=The future sum to be receivedr\=The discount intere
 
 ## Understanding the PVIF
 
-The present value interest factor is based on the key financial concept of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp). That is, a sum of money today is worth more than the same sum will be in the future, because money has the potential to grow in value over a given period of time. Provided money can earn interest, any amount of money is worth more the sooner it is received.
+The present value interest factor is based on the key financial concept of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp). That is, a sum of money today is worth more than the same sum will be in the future, because money has the potential to grow in value over a given period of time. Provided money can earn interest, any amount of money is worth more the sooner it is received.
 
 Present value interest factors are often used in analyzing annuities. The present value interest factor of an annuity ([PVIFA](https://www.investopedia.com/terms/p/pvifa.asp)) is useful when deciding whether to take a lump-sum payment now or accept an annuity payment in future periods. Using estimated rates of return, you can compare the value of the annuity payments to the lump sum.
 
@@ -38,7 +38,7 @@ The present value interest factor may only be calculated if the annuity payments
 
 ## Example of the PVIF
 
-Here is an example of how to use the PVIF to calculate the present value of a future sum: Assume an individual is going to receive $10,000 five years from now, and that the current discount [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) is 5%. Using the formula for calculating the PVIF, the calculation would be $10,000 / (1 + .05) ^ 5. The resulting PVIF figure from the calculation is $7,835.26.
+Here is an example of how to use the PVIF to calculate the present value of a future sum: Assume an individual is going to receive $10,000 five years from now, and that the current discount [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) is 5%. Using the formula for calculating the PVIF, the calculation would be $10,000 / (1 + .05) ^ 5. The resulting PVIF figure from the calculation is $7,835.26.
 
 The present value of the future sum is then determined by subtracting the PVIF figure from the total future sum to be received. Thus, the present value of the $10,000 to be received five years in the future would be $10,000 - $7,835.26 = $2,164.74.
 

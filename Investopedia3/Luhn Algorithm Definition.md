@@ -16,7 +16,7 @@ author: Jason Fernando
 Luhn Algorithm Definition
 ## What Is the Luhn Algorithm?
 
-The Luhn Algorithm—also known as the “Modulus 10 Algorithm”—is a formula that is used to determine whether the identification number provided by a user is accurate. The formula is widely used in validating [credit card](https://www.investopedia.com/terms/c/creditcard.asp) numbers, as well as other number sequences such as government [Social Security Numbers (SSNs)](https://www.investopedia.com/terms/s/ssn.asp).
+The Luhn Algorithm—also known as the “Modulus 10 Algorithm”—is a formula that is used to determine whether the identification number provided by a user is accurate. The formula is widely used in validating [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) numbers, as well as other number sequences such as government [[Social Security Numbers (SSNs)]](https://www.investopedia.com/terms/s/ssn.asp).
 
 Today, the Luhn Algorithm is an essential component in the electronics payments system and is used by all major credit cards.
 
@@ -32,7 +32,7 @@ The LUHN formula algorithm was developed by a German Computer Scientist named Ha
 
 The way it does so is by applying a series of computations to the credit card number given, adding up the results of those computations, and checking whether the resulting number matches the expected result. If it does, then the credit number is deemed valid. If not, the algorithm will reject the credit card number, indicating that the user made an error when inputting the number.
 
-From a customer’s perspective, we use the Luhn Algorithm all the time, without even realizing it. When placing orders online or using a merchant’s [point of sale (POS) terminal](https://www.investopedia.com/terms/p/point-of-sale.asp), computer systems are able to quickly tell when we have made a mistake inputting our information. This is because the Luhn Algorithm has been incorporated into those systems’ programming. Without it, we would need to wait until the entire purchase order is submitted before realizing whether the transaction was approved. The Luhn Algorithm, in other words, helps us quickly identify user errors and thereby speed up the pace of transactions."
+From a customer’s perspective, we use the Luhn Algorithm all the time, without even realizing it. When placing orders online or using a merchant’s [[point of sale (POS) terminal]](https://www.investopedia.com/terms/p/point-of-sale.asp), computer systems are able to quickly tell when we have made a mistake inputting our information. This is because the Luhn Algorithm has been incorporated into those systems’ programming. Without it, we would need to wait until the entire purchase order is submitted before realizing whether the transaction was approved. The Luhn Algorithm, in other words, helps us quickly identify user errors and thereby speed up the pace of transactions."
 
 ## Real-World Example of the Luhn Algorithm
 

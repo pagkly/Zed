@@ -16,7 +16,7 @@ author: Will Kenton
 What Is a Whitewash Resolution?
 ## What Is a Whitewash Resolution?
 
-Whitewash resolution is a European term used in conjunction with the Companies Act of 1985, which refers to a resolution that must be passed before a target company in a [buyout](https://www.investopedia.com/terms/b/buyout.asp) situation can give financial assistance to the buyer of the target. A whitewash resolution occurs when directors of the target company must swear that the company will be able to pay its debts for a period of at least 12 months. Oftentimes, an [auditor](https://www.investopedia.com/terms/a/auditor.asp) must then confirm the company's [solvency](https://www.investopedia.com/terms/s/solvency.asp).
+Whitewash resolution is a European term used in conjunction with the Companies Act of 1985, which refers to a resolution that must be passed before a target company in a [[buyout]](https://www.investopedia.com/terms/b/buyout.asp) situation can give financial assistance to the buyer of the target. A whitewash resolution occurs when directors of the target company must swear that the company will be able to pay its debts for a period of at least 12 months. Oftentimes, an [[auditor]](https://www.investopedia.com/terms/a/auditor.asp) must then confirm the company's [[solvency]](https://www.investopedia.com/terms/s/solvency.asp).
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Whitewash resolution is a European term used in conjunction with the Companies A
 
 ## How a Whitewash Resolution Works
 
-Some companies have used [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp) as a means of obtaining financing and draining the assets of the target companies only to leave those companies debt-ridden and unable to pay their bills. 
+Some companies have used [[acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp) as a means of obtaining financing and draining the assets of the target companies only to leave those companies debt-ridden and unable to pay their bills. 
 
-The Companies Act Of 1985 and the whitewash resolution is meant to ensure that the target company will remain solvent and will not seek to discharge its [liabilities](https://www.investopedia.com/terms/l/liability.asp) once the acquisition is complete.
+The Companies Act Of 1985 and the whitewash resolution is meant to ensure that the target company will remain solvent and will not seek to discharge its [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) once the acquisition is complete.
 
 The whitewash resolution means the buyer promises via a resolution that the target company will be solvent for at least a year. The auditor’s role in this is to ensure this is financially possible. Once this is done the target company can shift the responsibility to the acquiring company. 
 

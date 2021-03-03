@@ -16,7 +16,7 @@ author: Will Kenton
 Vintage Year
 ## What Is a Vintage Year?
 
-The term "vintage year" refers to the milestone year in which the first influx of investment capital is delivered to a project or company. This marks the moment when capital is committed by a [venture capital](https://www.investopedia.com/terms/v/venturecapital.asp) fund, a private equity fund or a combination of sources. Investors may cite the vintage year in order to gauge a potential return on investment (ROI).
+The term "vintage year" refers to the milestone year in which the first influx of investment capital is delivered to a project or company. This marks the moment when capital is committed by a [[venture capital]](https://www.investopedia.com/terms/v/venturecapital.asp) fund, a private equity fund or a combination of sources. Investors may cite the vintage year in order to gauge a potential return on investment (ROI).
 
 The vintage year of a private equity fund effectively launches the clock of the 10-year typical lifespan of most term PE funds.
 
@@ -26,9 +26,9 @@ A vintage year that occurs at the peak or bottom of a business cycle may affect 
 
 ## Vintage Years for Comparison
 
-By observing the trends among other companies with the same vintage year, an overall pattern may emerge, that can be used to potentially identify [economic trends](https://www.investopedia.com/articles/economics/08/leading-economic-indicators.asp) at a particular point in time. If certain vintage years perform better than others, these data help investors predict the performance of other companies with identical vintage years, like those other success stories.
+By observing the trends among other companies with the same vintage year, an overall pattern may emerge, that can be used to potentially identify [[economic trends]](https://www.investopedia.com/articles/economics/08/leading-economic-indicators.asp) at a particular point in time. If certain vintage years perform better than others, these data help investors predict the performance of other companies with identical vintage years, like those other success stories.
 
-For example, 2014 is considered a strong vintage year with respect to [crowdfunding platforms](https://www.investopedia.com/terms/c/crowdfunding.asp) such as GoFundMe. Businesses launched through this type of infrastructure, during that time period, have shown strong growth characteristics, as a whole. Since that time, the regulatory climate regarding crowdfunding efforts has tightened, which has only served to further legitimize this activity, suggesting sustained future growth of companies, that were birthed in this manner.
+For example, 2014 is considered a strong vintage year with respect to [[crowdfunding platforms]](https://www.investopedia.com/terms/c/crowdfunding.asp) such as GoFundMe. Businesses launched through this type of infrastructure, during that time period, have shown strong growth characteristics, as a whole. Since that time, the regulatory climate regarding crowdfunding efforts has tightened, which has only served to further legitimize this activity, suggesting sustained future growth of companies, that were birthed in this manner.
 
 ## Impact of Business Cycles
 
@@ -37,9 +37,9 @@ Most businesses experience economic shifts as a regular part of doing business. 
 The business cycle widely believed to systematically progress through the following four phases:
 
 1.  Upturn
-2.  [Peak](https://www.investopedia.com/terms/p/peak.asp)
-3.  [Decline](https://www.investopedia.com/terms/d/decline.asp) 
-4.  [Recovery](https://www.investopedia.com/terms/c/capital-recovery.asp)
+2.  [[Peak]](https://www.investopedia.com/terms/p/peak.asp)
+3.  [[Decline]](https://www.investopedia.com/terms/d/decline.asp) 
+4.  [[Recovery]](https://www.investopedia.com/terms/c/capital-recovery.asp)
 
 During the upturn and up to the peak, the value of the company is seen to increase. During the decline and until the start of recovery, the value of that company is considered to be falling.
 

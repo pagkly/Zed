@@ -16,7 +16,7 @@ author: Katelyn Peters
 Home Modification
 ## What Is Home Modification?
 
-A home modification is any alteration made to a home to meet the needs of people who have different physical abilities, often to specifications outlined by the [Americans With Disabilities Act](https://www.investopedia.com/terms/a/americans-with-disabilities-act-ada.asp) (ADA). These alternations are made so that disabled or differently-abled people can live independently and safely.
+A home modification is any alteration made to a home to meet the needs of people who have different physical abilities, often to specifications outlined by the [[Americans With Disabilities Act]](https://www.investopedia.com/terms/a/americans-with-disabilities-act-ada.asp) (ADA). These alternations are made so that disabled or differently-abled people can live independently and safely.
 
 Examples of home modifications include simple measures like removing throw rugs to prevent slips and falls to more permanent fixtures like installing wheelchair-accessible ramps or grab bars in the bathrooms for stability.
 
@@ -30,7 +30,7 @@ Examples of home modifications include simple measures like removing throw rugs 
 
 A home modification can refer to a range of changes, alterations, and repairs that make a home more livable for individuals with different physical abilities. The price of home modifications can be as little as a few hundred dollars, although more extensive renovations can cost many thousands of dollars.
 
-For larger projects, some financing options may be available. Some contractors even offer reduced rates and charge [sliding-scale fees](https://www.investopedia.com/terms/s/sliding-scale.asp) based on a senior’s income and ability to pay. The National Resource Center on Supportive Housing and Home Modifications is one of the best resources in the U.S.— it offers training, education courses, and technical assistance.
+For larger projects, some financing options may be available. Some contractors even offer reduced rates and charge [[sliding-scale fees]](https://www.investopedia.com/terms/s/sliding-scale.asp) based on a senior’s income and ability to pay. The National Resource Center on Supportive Housing and Home Modifications is one of the best resources in the U.S.— it offers training, education courses, and technical assistance.
 
 Because of the breadth of the term, some people may think that home modifications include any type of home improvement or home renovation. While in some cases, home modifications might also be considered a home improvement or renovation, home modifications specifically refer to alterations made to a home in order to make it more accessible for people with different physical abilities, including elderly people.
 

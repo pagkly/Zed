@@ -16,7 +16,7 @@ author: Julia Kagan
 Routing Transit Number
 ## What Is a Routing Transit Number?
 
-A routing transit number is a nine-digit number used to identify a bank or [financial institution](https://www.investopedia.com/terms/f/financialinstitution.asp) when clearing funds for electronic transfers or processing checks in the United States. A routing transit number is also used in online banking and clearinghouses for financial transactions. Only federally chartered and state-chartered banks are issued routing transit numbers.
+A routing transit number is a nine-digit number used to identify a bank or [[financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) when clearing funds for electronic transfers or processing checks in the United States. A routing transit number is also used in online banking and clearinghouses for financial transactions. Only federally chartered and state-chartered banks are issued routing transit numbers.
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ A bank’s routing transit number is located at the bottom of a check and is the
 
 ## How Routing Transit Numbers are Used
 
-Routing transit numbers are often used when setting up a [wire transfer](https://www.investopedia.com/terms/w/wiretransfer.asp) relationship with one’s personal or business bank. A wire transfer is an electronic funds payment across a network administered by hundreds of banks worldwide. While no physical currency moves among financial institutions during a wire transfer, information does pass between banks, including the recipient’s account information, the receiver’s bank account number, and the amount of the transfer. As a result, a correct routing transit number is critical to ensure sensitive information is directed to the appropriate receiving party and [that the transaction goes through smoothly](https://www.investopedia.com/articles/personal-finance/093015/best-ways-send-large-sums-money-abroad.asp).
+Routing transit numbers are often used when setting up a [[wire transfer]](https://www.investopedia.com/terms/w/wiretransfer.asp) relationship with one’s personal or business bank. A wire transfer is an electronic funds payment across a network administered by hundreds of banks worldwide. While no physical currency moves among financial institutions during a wire transfer, information does pass between banks, including the recipient’s account information, the receiver’s bank account number, and the amount of the transfer. As a result, a correct routing transit number is critical to ensure sensitive information is directed to the appropriate receiving party and [[that the transaction goes through smoothly]](https://www.investopedia.com/articles/personal-finance/093015/best-ways-send-large-sums-money-abroad.asp).
 
 Routing transit numbers are also involved in direct deposits of money from employers paying employees and income tax refunds from the Internal Revenue Service (IRS). A direct deposit allows a sender to deposit funds directly into the receiver’s bank account electronically, instead of issuing a paper check.
 
@@ -41,7 +41,7 @@ Routing transit numbers are also involved in direct deposits of money from emplo
 
 ## Transit Number vs. Routing Number
 
-There are a few terms that are synonymous with “routing transit number,” including “routing number,” “transit number” and “ABA number.” ABA is an acronym for the [American Bankers Association](https://www.investopedia.com/terms/a/aba.asp), which established these numbers in 1910. The terms—“routing,” “transit,” and “ABA”—are often used interchangeably. Routing numbers were originally established for checking accounts, but have since evolved to include identifying banks during electronic transactions as well.
+There are a few terms that are synonymous with “routing transit number,” including “routing number,” “transit number” and “ABA number.” ABA is an acronym for the [[American Bankers Association]](https://www.investopedia.com/terms/a/aba.asp), which established these numbers in 1910. The terms—“routing,” “transit,” and “ABA”—are often used interchangeably. Routing numbers were originally established for checking accounts, but have since evolved to include identifying banks during electronic transactions as well.
 
 ## Special Considerations
 
@@ -51,4 +51,4 @@ Despite advancements in technology and improvements in security involving electr
 
 Under the guidance of Tucci-Jarraf, a former prosecutor who has a substantial online following as an advocate of the radical “[sovereign citizens](https://www.splcenter.org/fighting-hate/intelligence-report/2015/what-sovereign-citizen)” movement, Beane took advantage of automatic delays present in money transfers within the United States banking system to purchase certificates of deposit (CDs). He used the U.S. Federal Reserve’s routing number coupled with a fake checking account number to achieve this. Then Beane, a U.S. Air Force veteran, quickly liquidated the CDs and placed the new funds in his bank accounts with the United Services Automobile Association (USAA), an online banking service for military personnel. USAA rules allowed the funds to be withdrawn prior to the transaction’s approval and funding, and Beane immediately did so.
 
-He took that money, opened $30 million in CDs, and was able to cash in about $2 million before the USAA learned of the fraud. Beane used the cash to pay off debts and purchase a $500,000 motor home, with said purchase concealed by a trust set up by Tucci-Jarraf, according to prosecutors. [The routing number of the U.S. Federal Reserve was key](https://www.knoxnews.com/story/news/crime/2018/07/17/heather-ann-tucci-jarraf-sovereign-citizen-hatj-sentenced-federal-bank-fraud-case/793925002/) in allowing Beane and Tucci-Jarraf to pull off the financial stunt.
+He took that money, opened $30 million in CDs, and was able to cash in about $2 million before the USAA learned of the fraud. Beane used the cash to pay off debts and purchase a $500,000 motor home, with said purchase concealed by a trust set up by Tucci-Jarraf, according to prosecutors. [[The routing number of the U.S. Federal Reserve was key]](https://www.knoxnews.com/story/news/crime/2018/07/17/heather-ann-tucci-jarraf-sovereign-citizen-hatj-sentenced-federal-bank-fraud-case/793925002/) in allowing Beane and Tucci-Jarraf to pull off the financial stunt.

@@ -16,22 +16,22 @@ author: James Chen
 Level 2 Definition
 ## What Is Level 2
 
-First introduced in 1983 as the Nasdaq Quotation Dissemination Service (NQDS), Level 2 is a subscription-based service that provides real-time access to the NASDAQ [order book](https://www.investopedia.com/terms/o/order-book.asp). It is intended to display market depth and momentum to [traders](https://www.investopedia.com/terms/s/stock-trader.asp) and [investors](https://www.investopedia.com/terms/i/investor.asp).1
+First introduced in 1983 as the Nasdaq Quotation Dissemination Service (NQDS), Level 2 is a subscription-based service that provides real-time access to the NASDAQ [[order book]](https://www.investopedia.com/terms/o/order-book.asp). It is intended to display market depth and momentum to [[traders]](https://www.investopedia.com/terms/s/stock-trader.asp) and [[investors]](https://www.investopedia.com/terms/i/investor.asp).1
 
-The service provides price quotes from [market makers](https://www.investopedia.com/terms/m/marketmaker.asp) registered in every [NASDAQ](https://www.investopedia.com/terms/n/nasdaq.asp)\-listed and [OTC](https://www.investopedia.com/terms/o/otc.asp) Bulletin Board securities. The Level 2 window shows the bid prices and sizes on the left side and ask prices and sizes on the right side.
+The service provides price quotes from [[market makers]](https://www.investopedia.com/terms/m/marketmaker.asp) registered in every [[NASDAQ]](https://www.investopedia.com/terms/n/nasdaq.asp)\-listed and [[OTC]](https://www.investopedia.com/terms/o/otc.asp) Bulletin Board securities. The Level 2 window shows the bid prices and sizes on the left side and ask prices and sizes on the right side.
 
 ### Key Takeaways
 
--   Nasdaq's Level 2 subscription service provides [market depth](https://www.investopedia.com/terms/d/depth-of-market.asp) and momentum statistics to traders. It is intended to provide a bird's eye view of market action.
+-   Nasdaq's Level 2 subscription service provides [[market depth]](https://www.investopedia.com/terms/d/depth-of-market.asp) and momentum statistics to traders. It is intended to provide a bird's eye view of market action.
 -   The additional information related to pricing action and market momentum gives traders and investors a leg up in implementing trading strategies.
 
 ## Basics of Level 2
 
-Level 2 provides users with depth of price information, including all the available prices that market makers and [electronic communication networks (ECN)](https://www.investopedia.com/terms/e/ecn.asp) post.1
+Level 2 provides users with depth of price information, including all the available prices that market makers and [[electronic communication networks (ECN)]](https://www.investopedia.com/terms/e/ecn.asp) post.1
 
-[Level 1](https://www.investopedia.com/terms/l/level1.asp) offers enough information to satisfy the needs of most investors, providing the inside or best bid and ask prices.2 However, active traders often prefer Level 2 because it displays the [supply and demand](https://www.investopedia.com/articles/economics/11/intro-supply-demand.asp) of the price levels beyond or outside of the [national best bid offer](https://www.investopedia.com/terms/n/nbbo.asp) (NBBO) price. This gives the user a visual display of the price range and associated liquidity at each [price level](https://www.investopedia.com/terms/p/price_level.asp). With this information, a trader can determine entry and or [exit points](https://www.investopedia.com/terms/e/exit-point.asp) that assure the [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) needed to complete the trade.
+[Level 1](https://www.investopedia.com/terms/l/level1.asp) offers enough information to satisfy the needs of most investors, providing the inside or best bid and ask prices.2 However, active traders often prefer Level 2 because it displays the [[supply and demand]](https://www.investopedia.com/articles/economics/11/intro-supply-demand.asp) of the price levels beyond or outside of the [[national best bid offer]](https://www.investopedia.com/terms/n/nbbo.asp) (NBBO) price. This gives the user a visual display of the price range and associated liquidity at each [[price level]](https://www.investopedia.com/terms/p/price_level.asp). With this information, a trader can determine entry and or [[exit points]](https://www.investopedia.com/terms/e/exit-point.asp) that assure the [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) needed to complete the trade.
 
-Price movement on Level 2 is not necessarily an actual reflection of the recorded trades; Level 2 is just a display of the available price and liquidity. This is an important distinction because [high-frequency trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp) programs frequently adjust Level 2 bid and ask prices violently to shake the trees and panic onlookers despite the lack of actual executed trades. This practice is common in momentum stocks.
+Price movement on Level 2 is not necessarily an actual reflection of the recorded trades; Level 2 is just a display of the available price and liquidity. This is an important distinction because [[high-frequency trading]](https://www.investopedia.com/terms/h/high-frequency-trading.asp) programs frequently adjust Level 2 bid and ask prices violently to shake the trees and panic onlookers despite the lack of actual executed trades. This practice is common in momentum stocks.
 
 ## Level 2 and Reserve and Hidden Orders
 

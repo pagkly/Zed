@@ -18,7 +18,7 @@ Understanding Days Sales Outstanding
 
 Days sales outstanding (DSO) is a measure of the average number of days that it takes a company to collect payment after a sale has been made. DSO is often determined on a monthly, quarterly or annual basis, and can be calculated by dividing the amount of accounts receivable during a given period by the total value of credit sales during the same period, and multiplying the result by the number of days in the period measured.
 
-Days sales outstanding is an element of the [cash conversion cycle](https://www.investopedia.com/terms/c/cashconversioncycle.asp) and is often referred to as days receivables or [average collection period](https://www.investopedia.com/terms/a/average_collection_period.asp).
+Days sales outstanding is an element of the [[cash conversion cycle]](https://www.investopedia.com/terms/c/cashconversioncycle.asp) and is often referred to as days receivables or [[average collection period]](https://www.investopedia.com/terms/a/average_collection_period.asp).
 
 ## The Formula for Days Sales Outstanding Is
 
@@ -26,7 +26,7 @@ DSO\=Accounts ReceivableTotal Credit Sales×Number of Days\\begin{aligned} 
 
 ## What Does Days Sales Outstanding Tell You?
 
-Due to the high importance of cash in running a business, it is in a company's best interest to collect on its outstanding [account receivables](https://www.investopedia.com/terms/a/accountsreceivable.asp) as quickly as possible. While companies can most often expect with relative certainty that they will, in fact, receive outstanding receivables, because of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp) principle, money that a company spends time waiting to receive is money lost. By quickly turning sales into cash, a company has a chance to put the cash to use again more quickly.
+Due to the high importance of cash in running a business, it is in a company's best interest to collect on its outstanding [[account receivables]](https://www.investopedia.com/terms/a/accountsreceivable.asp) as quickly as possible. While companies can most often expect with relative certainty that they will, in fact, receive outstanding receivables, because of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp) principle, money that a company spends time waiting to receive is money lost. By quickly turning sales into cash, a company has a chance to put the cash to use again more quickly.
 
 A high DSO number shows that a company is selling its product to customers on credit and taking longer to collect money. This may lead to cash flow problems because of the long duration between the time of a sale and the time the company receives payment. A low DSO value means that it takes a company fewer days to collect its accounts receivable. In effect, the ability to determine the average length of time that a company’s outstanding balances are carried in receivables can in some cases tell a great deal about the nature of the company’s cash flow.
 
@@ -58,7 +58,7 @@ With a DSO of 21.7, Company A has a short average turnaround in converting its r
 
 Like any metric attempting to gauge the efficiency of a business, days sales outstanding comes with a set of limitations that are important for any investor to consider before using it.
 
-Most simply, when using DSO to compare the cash flows of multiple companies, one should compare companies within the same industry, ideally when they have similar [business models](https://www.investopedia.com/terms/b/businessmodel.asp) and revenue numbers as well. As mentioned above, companies of different sizes often have very different [capital structures](https://www.investopedia.com/terms/c/capitalstructure.asp), which can greatly influence DSO calculations, and the same is often true of companies in different industries.
+Most simply, when using DSO to compare the cash flows of multiple companies, one should compare companies within the same industry, ideally when they have similar [[business models]](https://www.investopedia.com/terms/b/businessmodel.asp) and revenue numbers as well. As mentioned above, companies of different sizes often have very different [[capital structures]](https://www.investopedia.com/terms/c/capitalstructure.asp), which can greatly influence DSO calculations, and the same is often true of companies in different industries.
 
 DSO is not particularly useful in comparing companies with significant differences in the proportion of sales that are credit, as determining the DSO of a company with a low proportion of credit sales does not indicate much about that company’s cash flow. Comparing such companies with those that have a high proportion of credit sales also does not usually indicate much importance.
 

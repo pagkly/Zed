@@ -16,7 +16,7 @@ author: Lucas Downey
 Total Return Swap
 ## What Is a Total Return Swap?
 
-A total return swap is a swap agreement in which one party makes payments based on a set rate, either fixed or variable, while the other party makes payments based on the return of an underlying asset, which includes both the income it generates and any [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp). In total return swaps, the underlying asset, referred to as the reference asset, is usually an equity index, a basket of loans, or bonds. The asset is owned by the party receiving the set rate payment.
+A total return swap is a swap agreement in which one party makes payments based on a set rate, either fixed or variable, while the other party makes payments based on the return of an underlying asset, which includes both the income it generates and any [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp). In total return swaps, the underlying asset, referred to as the reference asset, is usually an equity index, a basket of loans, or bonds. The asset is owned by the party receiving the set rate payment.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A total return swap is a swap agreement in which one party makes payments based
 
 ## Understanding Total Return Swaps
 
-A total return swap allows the party receiving the [total return](https://www.investopedia.com/articles/investing/121015/yield-vs-total-return-how-they-differ-and-how-use-them.asp) to gain exposure and benefit from a reference asset without actually owning it. These swaps are popular with hedge funds because they provide the benefit of a large exposure to an asset with a minimal cash outlay. The two parties involved in a total return swap are known as the total return payer and the total return receiver.
+A total return swap allows the party receiving the [[total return]](https://www.investopedia.com/articles/investing/121015/yield-vs-total-return-how-they-differ-and-how-use-them.asp) to gain exposure and benefit from a reference asset without actually owning it. These swaps are popular with hedge funds because they provide the benefit of a large exposure to an asset with a minimal cash outlay. The two parties involved in a total return swap are known as the total return payer and the total return receiver.
 
 A total return swap is similar to a bullet swap; however, with a bullet swap, payment is postponed until the swap ends or the position closes.
 
@@ -39,7 +39,7 @@ If the asset's price falls over the swap's life, the total return receiver will 
 
 ## Total Return Swap Example
 
-Assume that two parties enter into a one-year total return swap in which one party receives the [London Interbank Offered Rate](https://www.investopedia.com/terms/l/libor.asp) ([LIBOR](https://www.investopedia.com/terms/l/libor.asp)) in addition to a fixed margin of 2%. The other party receives the total return of the Standard & Poor's 500 Index (S&P 500) on a principal amount of $1 million.
+Assume that two parties enter into a one-year total return swap in which one party receives the [[London Interbank Offered Rate]](https://www.investopedia.com/terms/l/libor.asp) ([LIBOR](https://www.investopedia.com/terms/l/libor.asp)) in addition to a fixed margin of 2%. The other party receives the total return of the Standard & Poor's 500 Index (S&P 500) on a principal amount of $1 million.
 
 After one year, if LIBOR is 3.5% and the S&P 500 appreciates by 15%, the first party pays the second party 15% and receives 5.5%. The payment is netted at the end of the swap with the second party receiving a payment of $95,000, or \[$1 million x (15% - 5.5%)\]. 
 

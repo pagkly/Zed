@@ -16,7 +16,7 @@ author: Adam Hayes
 What Is Overreaction?
 ## What Is an Overreaction in Finance and Investing?
 
-Overreaction is an emotional response to new information. In finance and investing, it is an emotional response to a security such as a stock or other investment, which is led either by greed or fear. Investors overreacting to news cause the security to become either overbought or oversold, until it returns to its [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp).
+Overreaction is an emotional response to new information. In finance and investing, it is an emotional response to a security such as a stock or other investment, which is led either by greed or fear. Investors overreacting to news cause the security to become either overbought or oversold, until it returns to its [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp).
 
 ### Key Takeaways
 
@@ -26,19 +26,19 @@ Overreaction is an emotional response to new information. In finance and investi
 
 ## Understanding Overreactions
 
-Investors are not always rational. Instead of pricing all publicly known information perfectly and instantly, as the [efficient market hypothesis](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) assumes, they are often affected by cognitive and emotional biases.
+Investors are not always rational. Instead of pricing all publicly known information perfectly and instantly, as the [[efficient market hypothesis]](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) assumes, they are often affected by cognitive and emotional biases.
 
-Some of the most influential work in [behavioral finance](https://www.investopedia.com/articles/05/032905.asp) concerns the initial under-reaction and subsequent overreaction of prices to new information. And many funds now use behavioral finance strategies to exploit these biases in their portfolios, especially in less efficient markets such as small-cap stocks.
+Some of the most influential work in [[behavioral finance]](https://www.investopedia.com/articles/05/032905.asp) concerns the initial under-reaction and subsequent overreaction of prices to new information. And many funds now use behavioral finance strategies to exploit these biases in their portfolios, especially in less efficient markets such as small-cap stocks.
 
-Funds that seek to take advantage of overreaction look for companies whose shares have been depressed by bad earnings news, but where the news is likely to be temporary. Low [price-to-book](https://www.investopedia.com/investing/using-price-to-book-ratio-evaluate-companies/) stocks, otherwise known as [value stocks](https://www.investopedia.com/terms/v/valuestock.asp), are an example of such stocks.
+Funds that seek to take advantage of overreaction look for companies whose shares have been depressed by bad earnings news, but where the news is likely to be temporary. Low [[price-to-book]](https://www.investopedia.com/investing/using-price-to-book-ratio-evaluate-companies/) stocks, otherwise known as [[value stocks]](https://www.investopedia.com/terms/v/valuestock.asp), are an example of such stocks.
 
-In contrast to overreaction, under-reaction to new information is more likely to be permanent and is caused by [anchoring](https://www.investopedia.com/terms/a/anchoring.asp), a term that describes people's attachment to old information, which is especially strong when that information is critical to a coherent way of explaining the world (also known as a hermeneutic) held by the investor. Anchoring ideas like "brick and mortar retail stores are dead" can cause investors to miss undervalued stocks and opportunities for profit.
+In contrast to overreaction, under-reaction to new information is more likely to be permanent and is caused by [[anchoring]](https://www.investopedia.com/terms/a/anchoring.asp), a term that describes people's attachment to old information, which is especially strong when that information is critical to a coherent way of explaining the world (also known as a hermeneutic) held by the investor. Anchoring ideas like "brick and mortar retail stores are dead" can cause investors to miss undervalued stocks and opportunities for profit.
 
 ## Examples of Overreaction
 
-All asset bubbles are examples of overreaction, from the [tulip mania](https://www.investopedia.com/terms/t/tulipmania.asp) in Holland in the 17th century to the [meteoric rise of cryptocurrencies in 2017](https://www.investopedia.com/news/cryptocurrency-bubble-more-housing-or-dotcom/).
+All asset bubbles are examples of overreaction, from the [[tulip mania]](https://www.investopedia.com/terms/t/tulipmania.asp) in Holland in the 17th century to the [[meteoric rise of cryptocurrencies in 2017]](https://www.investopedia.com/news/cryptocurrency-bubble-more-housing-or-dotcom/).
 
-Asset [bubbles](https://www.investopedia.com/terms/b/bubble.asp) form when the rising price of an asset starts to attract investors as the primary source of return rather than the fundamental returns offered by the asset. For stocks, the "fundamental" return is the growth of the company and possibly the dividend offered by the stock.
+Asset [[bubbles]](https://www.investopedia.com/terms/b/bubble.asp) form when the rising price of an asset starts to attract investors as the primary source of return rather than the fundamental returns offered by the asset. For stocks, the "fundamental" return is the growth of the company and possibly the dividend offered by the stock.
 
 The "fundamental return" of a tulip bulb in the 1600s was the beauty of the flower it produced, which is a difficult result to quantify. Because investors didn't have a good way to measure the desirability of the bulbs, price was used as that metric, and because the price of bulbs was always going up, it created the unfounded belief that the bulbs were intrinsically valuable—and a good investment.
 

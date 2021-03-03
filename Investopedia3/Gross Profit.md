@@ -18,17 +18,17 @@ Gross Profit
 
 Gross profit is the profit a company makes after deducting the costs associated with making and selling its products, or the costs associated with providing its services. Gross profit will appear on a company's income statement and can be calculated by subtracting the cost of goods sold ([COGS](https://www.investopedia.com/terms/c/cogs.asp)) from revenue (sales). These figures can be found on a company's income statement.
 
-Gross profit may also be referred to as sales profit or [gross income](https://www.investopedia.com/terms/g/grossincome.asp).
+Gross profit may also be referred to as sales profit or [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp).
 
 ## Understanding Gross Profit
 
-Gross profit assesses a company's efficiency at using its labor and supplies in producing goods or services. The metric mostly considers [variable costs](https://www.investopedia.com/terms/v/variablecost.asp)—that is, costs that fluctuate with the level of output, such as:
+Gross profit assesses a company's efficiency at using its labor and supplies in producing goods or services. The metric mostly considers [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp)—that is, costs that fluctuate with the level of output, such as:
 
 -   materials
 -   direct labor, assuming it is hourly or otherwise dependent on output levels
 -   commissions for sales staff
 -   credit card fees on customer purchases
--   equipment, perhaps including usage-based [depreciation](https://www.investopedia.com/terms/d/depreciation.asp)
+-   equipment, perhaps including usage-based [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp)
 -   utilities for the production site
 -   shipping
 
@@ -36,9 +36,9 @@ The formula for gross profit is:
 
 Gross Profit\=Revenue−Cost of Goods Sold\\begin{aligned} &\\text{Gross Profit} = \\text{Revenue} - \\text{Cost of Goods Sold} \\\\ \\end{aligned}
 
-As generally defined, gross profit does not include [fixed costs](https://www.investopedia.com/terms/f/fixedcost.asp) (that is, costs that must be paid regardless of the level of output). Fixed costs include rent, advertising, insurance, salaries for employees not directly involved in the production and office supplies.
+As generally defined, gross profit does not include [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp) (that is, costs that must be paid regardless of the level of output). Fixed costs include rent, advertising, insurance, salaries for employees not directly involved in the production and office supplies.
 
-However, it should be noted that a portion of the fixed cost is assigned to each unit of production under [absorption costing](https://www.investopedia.com/terms/a/absorptioncosting.asp), which is required for external reporting under the generally accepted accounting principles (GAAP). For example, if a factory produces 10,000 widgets in a given period, and the company pays $30,000 in rent for the building, a cost of $3 would be attributed to each widget under absorption costing.
+However, it should be noted that a portion of the fixed cost is assigned to each unit of production under [[absorption costing]](https://www.investopedia.com/terms/a/absorptioncosting.asp), which is required for external reporting under the generally accepted accounting principles (GAAP). For example, if a factory produces 10,000 widgets in a given period, and the company pays $30,000 in rent for the building, a cost of $3 would be attributed to each widget under absorption costing.
 
 Gross profit shouldn't be confused with [operating profit](https://www.investopedia.com/terms/o/operating_profit.asp), also known as earnings before interest and tax ([EBIT](https://www.investopedia.com/terms/e/ebit.asp)), which is a company's profit before interest and taxes are factored in. Operating profit is calculated by subtracting operating expenses from gross profit.
 
@@ -50,9 +50,9 @@ Gross profit shouldn't be confused with [operating profit](https://www.investop
 
 ## Gross Profit vs Gross Profit Margin
 
-Gross profit can be used to calculate another metric, the [gross profit margin](https://www.investopedia.com/terms/g/gross_profit_margin.asp). This metric is useful for comparing a company's production efficiency over time. Simply comparing gross profits from year to year or quarter to quarter can be misleading, since gross profits can rise while gross margins fall, a worrying trend that could land a company in hot water.
+Gross profit can be used to calculate another metric, the [[gross profit margin]](https://www.investopedia.com/terms/g/gross_profit_margin.asp). This metric is useful for comparing a company's production efficiency over time. Simply comparing gross profits from year to year or quarter to quarter can be misleading, since gross profits can rise while gross margins fall, a worrying trend that could land a company in hot water.
 
-Although the terms are similar (and sometimes used interchangeably), [gross margin is not the same as gross profit margin](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-gross-margin.asp). Gross profit is expressed as a currency value, gross profit margin as a percentage. The formula for gross profit margin is as follows:
+Although the terms are similar (and sometimes used interchangeably), [[gross margin is not the same as gross profit margin]](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-gross-margin.asp). Gross profit is expressed as a currency value, gross profit margin as a percentage. The formula for gross profit margin is as follows:
 
 Gross Margin\=Revenue−Cost of Goods SoldRevenue\\begin{aligned} &\\text{Gross Margin} = \\frac { \\text{Revenue} - \\text{Cost of Goods Sold} }{ \\text{Revenue} } \\\\ \\end{aligned}
 
@@ -100,7 +100,7 @@ Financial Services interest, operating, and other expenses
 
 147,684
 
-To calculate the gross profit, we first add up the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp), which sums up to $126,584. We do not include selling, administrative and other expenses since these are mostly fixed costs. We then subtract the cost of goods sold from revenues to obtain a gross profit of $151,800 - $126,584 = $25,216 million.
+To calculate the gross profit, we first add up the [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp), which sums up to $126,584. We do not include selling, administrative and other expenses since these are mostly fixed costs. We then subtract the cost of goods sold from revenues to obtain a gross profit of $151,800 - $126,584 = $25,216 million.
 
 To obtain the gross profit margin, we divide the gross profit by total revenues for a margin of $25,216 / $151,800 = 16.61%. This compares favorably to an automotive industry average of around 14%, suggesting that Ford operates more efficiently than its peers.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is Tax-Loss Harvesting?
 ## What Is Tax-Loss Harvesting?
 
-Tax-loss harvesting is the selling of securities at a loss to offset a [capital gains tax](https://www.investopedia.com/terms/c/capital_gains_tax.asp) liability. This strategy is typically employed to limit the recognition of short-term capital gains. Short-term capital gains are generally taxed at a higher federal income tax rate than long-term capital gains.1 However, the method may also offset long-term capital gains.
+Tax-loss harvesting is the selling of securities at a loss to offset a [[capital gains tax]](https://www.investopedia.com/terms/c/capital_gains_tax.asp) liability. This strategy is typically employed to limit the recognition of short-term capital gains. Short-term capital gains are generally taxed at a higher federal income tax rate than long-term capital gains.1 However, the method may also offset long-term capital gains.
 
 ## Understanding Tax-Loss Harvesting
 
@@ -45,10 +45,10 @@ Without tax-loss harvesting, the tax liability from this activity is:
 
 -   Tax without harvesting = ($200,000 x 20%) + ($150,000 x 37%) = $40,000 + $55,500 = $95,500
 
-If the investor harvested losses by selling [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) B and C, they would help to offset the gains, and the tax liability would be:
+If the investor harvested losses by selling [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) B and C, they would help to offset the gains, and the tax liability would be:
 
 -   Tax with harvesting = (($200,000 - $130,000) x 20%) + (($150,000 - $100,000) x 37%) = $14,000 + $18,500 = $32,500
 
-The proceeds of the sales may then be reinvested in assets like the ones sold, although [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) rules dictate that investors must wait at least 30 days before purchasing another asset that is “substantially identical” to the asset that was sold at a loss for tax-loss harvesting purposes.2
+The proceeds of the sales may then be reinvested in assets like the ones sold, although [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) rules dictate that investors must wait at least 30 days before purchasing another asset that is “substantially identical” to the asset that was sold at a loss for tax-loss harvesting purposes.2
 
 This can help preserve the value of the investor’s portfolio while defraying the cost of capital gains taxes on the profits of the sales of Mutual Fund E and Mutual Fund F. Using the tax-loss harvesting strategy, investors can realize significant tax savings.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Operating Margin
 ## What Is Operating Margin?
 
-Operating margin measures how much profit a company makes on a dollar of sales after paying for [variable costs](https://www.investopedia.com/terms/v/variablecost.asp) of production, such as wages and raw materials, but before paying interest or tax. It is calculated by dividing a company’s operating income by its [net sales](https://www.investopedia.com/terms/n/netsales.asp). Higher ratios are generally better, meaning the company is efficient in its operations and is good at turning sales into profits. 
+Operating margin measures how much profit a company makes on a dollar of sales after paying for [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp) of production, such as wages and raw materials, but before paying interest or tax. It is calculated by dividing a company’s operating income by its [[net sales]](https://www.investopedia.com/terms/n/netsales.asp). Higher ratios are generally better, meaning the company is efficient in its operations and is good at turning sales into profits. 
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Operating margin measures how much profit a company makes on a dollar of sales a
 
 ## Understanding Operating Margin
 
-A company’s operating margin, sometimes referred to as [return on sales](https://www.investopedia.com/terms/r/ros.asp) (ROS), is a good indicator of how well it is being managed and how efficient it is at generating profits from sales. It shows the proportion of revenues that are available to cover non-operating costs, like paying interest, which is why investors and lenders pay close attention to it.
+A company’s operating margin, sometimes referred to as [[return on sales]](https://www.investopedia.com/terms/r/ros.asp) (ROS), is a good indicator of how well it is being managed and how efficient it is at generating profits from sales. It shows the proportion of revenues that are available to cover non-operating costs, like paying interest, which is why investors and lenders pay close attention to it.
 
 Highly variable operating margins are a prime indicator of business risk. By the same token, looking at a company’s past operating margins is a good way to gauge whether a company's performance has been getting better. Operating margin can improve through better management controls, more efficient use of resources, improved pricing, and more effective marketing.
 
@@ -43,7 +43,7 @@ The formula for operating margin is:
 
 Operating Margin\=Operating EarningsRevenue\\begin{aligned} \\text{Operating Margin}=\\frac{\\text{Operating Earnings}}{\\text{Revenue}} \\end{aligned}
 
-When calculating operating margin, the numerator uses a firm's [earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp) (EBIT). EBIT, or [operating earnings](https://www.investopedia.com/terms/o/operatingearnings.asp), is calculated simply as revenue minus [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS) and the regular selling, general, and administrative costs of running a business, excluding interest and taxes.
+When calculating operating margin, the numerator uses a firm's [[earnings before interest and taxes]](https://www.investopedia.com/terms/e/ebit.asp) (EBIT). EBIT, or [[operating earnings]](https://www.investopedia.com/terms/o/operatingearnings.asp), is calculated simply as revenue minus [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS) and the regular selling, general, and administrative costs of running a business, excluding interest and taxes.
 
 ### Example
 
@@ -55,14 +55,14 @@ If the company was able to negotiate better prices with its suppliers, reducing 
 
 Operating margin should only be used to compare companies that operate in the same industry and, ideally, have similar business models and annual sales. Companies in different industries with wildly different business models have very different operating margins, so comparing them would be meaningless. It would not be an apples-to-apples comparison.
 
-To make it easier to compare profitability between companies and industries, many analysts use a profitability ratio that eliminates the effects of financing, accounting, and tax policies: [earnings before interest, taxes, depreciation, and amortization](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA). For example, by adding back depreciation, the operating margins of big manufacturing firms and heavy industrial companies are more comparable.
+To make it easier to compare profitability between companies and industries, many analysts use a profitability ratio that eliminates the effects of financing, accounting, and tax policies: [[earnings before interest, taxes, depreciation, and amortization]](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA). For example, by adding back depreciation, the operating margins of big manufacturing firms and heavy industrial companies are more comparable.
 
-EBITDA is sometimes used as a proxy for [operating cash flow](https://www.investopedia.com/terms/o/operatingcashflow.asp), because it excludes non-cash expenses, such as depreciation. However, EBITDA does not equal cash flow. This is because it does not adjust for any increase in [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) or account for capital expenditure that is needed to support production and maintain a company’s asset base—as operating cash flow does.
+EBITDA is sometimes used as a proxy for [[operating cash flow]](https://www.investopedia.com/terms/o/operatingcashflow.asp), because it excludes non-cash expenses, such as depreciation. However, EBITDA does not equal cash flow. This is because it does not adjust for any increase in [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) or account for capital expenditure that is needed to support production and maintain a company’s asset base—as operating cash flow does.
 
 ## Other Profit Margins
 
 By comparing earnings before interest and taxes (EBIT) to sales, operating profit margins show how successful a company's management has been at generating income from the operation of the business.  There are several other margin calculations that businesses and analysts can employ to get slightly different insights into a firm's profitability.
 
-The [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) tells us how much profit a company makes on its cost of sales, or cost of goods sold. In other words, it indicates how efficiently management uses labor and supplies in the production process.
+The [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp) tells us how much profit a company makes on its cost of sales, or cost of goods sold. In other words, it indicates how efficiently management uses labor and supplies in the production process.
 
 [Net margin](https://www.investopedia.com/terms/n/net_margin.asp) considers the net profits generated from all segments of a business accounting for all costs and accounting items incurred, including taxes and depreciation. In other words, this ratio compares net income with sales. It comes as close as possible to summing up in a single figure how effectively the managers are running a business.

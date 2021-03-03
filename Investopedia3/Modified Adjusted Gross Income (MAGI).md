@@ -16,15 +16,15 @@ author: Jason Fernando
 Modified Adjusted Gross Income (MAGI)
 ## What Is Modified Adjusted Gross Income (MAGI)?
 
-Modified adjusted gross income (MAGI) is an important number. First of all, it determines whether you can contribute to a [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp) and if you can deduct IRA contributions.1 2 It also factors into your eligibility for certain education tax benefits and income tax credits.3 Furthermore, it establishes your eligibility for income-based [Medicaid](https://www.investopedia.com/terms/m/medicaid.asp) and subsidized health insurance plans on the Health Insurance Marketplace.4
+Modified adjusted gross income (MAGI) is an important number. First of all, it determines whether you can contribute to a [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) and if you can deduct IRA contributions.1 2 It also factors into your eligibility for certain education tax benefits and income tax credits.3 Furthermore, it establishes your eligibility for income-based [[Medicaid]](https://www.investopedia.com/terms/m/medicaid.asp) and subsidized health insurance plans on the Health Insurance Marketplace.4
 
 Still, as important as this number is, you won’t find it on your tax return.5 You’ll have to crunch some numbers to find your MAGI.
 
-MAGI can be defined as your household’s adjusted gross income with any tax-exempt interest income and certain deductions added back.5 The [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) uses MAGI to establish if you qualify for certain tax benefits. Most notably, MAGI determines:
+MAGI can be defined as your household’s adjusted gross income with any tax-exempt interest income and certain deductions added back.5 The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) uses MAGI to establish if you qualify for certain tax benefits. Most notably, MAGI determines:
 
 -   If you can contribute to a Roth IRA2
 -   If you can deduct your traditional IRA contributions if you and/or your spouse has a retirement plan at work1
--   Your eligibility for the premium tax credit, [which lowers your health insurance premiums](https://www.investopedia.com/articles/personal-finance/101413/lowering-your-costs-marketplace-health-insurance-coverage.asp) if you buy a plan on the [Health Insurance Marketplace](https://www.healthcare.gov/)6
+-   Your eligibility for the premium tax credit, [[which lowers your health insurance premiums]](https://www.investopedia.com/articles/personal-finance/101413/lowering-your-costs-marketplace-health-insurance-coverage.asp) if you buy a plan on the [[Health Insurance Marketplace]](https://www.healthcare.gov/)6
 
 For example, you can contribute to a traditional IRA no matter how much money you earn.7 However, you can’t deduct those contributions when you file your tax return if your MAGI exceeds limits set by the IRS and you and/or your spouse have a retirement plan at work.1
 
@@ -41,7 +41,7 @@ For example, you can contribute to a traditional IRA no matter how much money yo
 Determining your MAGI is a three-step process:
 
 1.  Figure your gross income for the year
-2.  Calculate your [adjusted gross income](https://www.investopedia.com/terms/a/agi.asp) (AGI)
+2.  Calculate your [[adjusted gross income]](https://www.investopedia.com/terms/a/agi.asp) (AGI)
 3.  Add back certain deductions to find your MAGI5
 
 ### Figure Your Gross Income
@@ -65,7 +65,7 @@ Your gross income appears on line 9 of [Form 1040](https://www.irs.gov/forms-pu
 
 ### Calculate Your AGI (or Find It on Your Tax Return)
 
-Your adjusted gross income (AGI) is important because it’s the total taxable income calculated before itemized or standard deductions, exemptions, and credits are taken into account.13 It dictates how you can use various tax credits and exemptions. For example, AGI affects the amount of money you can claim for the [child tax credit](https://www.investopedia.com/terms/c/childtaxcredit.asp).15
+Your adjusted gross income (AGI) is important because it’s the total taxable income calculated before itemized or standard deductions, exemptions, and credits are taken into account.13 It dictates how you can use various tax credits and exemptions. For example, AGI affects the amount of money you can claim for the [[child tax credit]](https://www.investopedia.com/terms/c/childtaxcredit.asp).15
 
 Your adjusted gross income is equal to your gross income, less certain tax-deductible expenses, including:
 
@@ -100,7 +100,7 @@ Many of these deductions are not commonly used, so your MAGI and AGI could be si
 
 ### Roth IRAs
 
-To contribute to a Roth IRA, your MAGI must be below the limits specified by the IRS. If you’re within the income threshold, [the actual amount you can contribute](https://www.investopedia.com/retirement/ira-contribution-limits/) is also determined by your MAGI. If your MAGI exceeds the allowed limits, your contributions are phased out.2
+To contribute to a Roth IRA, your MAGI must be below the limits specified by the IRS. If you’re within the income threshold, [[the actual amount you can contribute]](https://www.investopedia.com/retirement/ira-contribution-limits/) is also determined by your MAGI. If your MAGI exceeds the allowed limits, your contributions are phased out.2
 
 Here are the Roth IRA income limits for 2019:2
 
@@ -218,7 +218,7 @@ $10,000 or more
 
 Zero
 
-Note that [if you contribute more than you’re allowed](https://www.investopedia.com/articles/retirement/04/042804.asp), you have to remove the excess contributions. Otherwise, you’ll face a tax penalty. Excess contributions are taxed at a rate of 6% per year for as long as the excess amount remains in your IRA.24
+Note that [[if you contribute more than you’re allowed]](https://www.investopedia.com/articles/retirement/04/042804.asp), you have to remove the excess contributions. Otherwise, you’ll face a tax penalty. Excess contributions are taxed at a rate of 6% per year for as long as the excess amount remains in your IRA.24
 
 ### Traditional IRAs
 

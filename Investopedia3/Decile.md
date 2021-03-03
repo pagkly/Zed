@@ -16,9 +16,9 @@ author: Adam Hayes
 Decile
 ## What Is a Decile?
 
-A decile is a quantitative method of splitting up a set of ranked data into 10 equally large subsections. This type of data ranking is performed as part of many academic and [statistical](https://www.investopedia.com/terms/s/statistics.asp) studies in the [finance](https://www.investopedia.com/terms/f/finance.asp) and [economics](https://www.investopedia.com/terms/e/economics.asp) fields. The data may be ranked from largest to smallest values, or vice versa.
+A decile is a quantitative method of splitting up a set of ranked data into 10 equally large subsections. This type of data ranking is performed as part of many academic and [[statistical]](https://www.investopedia.com/terms/s/statistics.asp) studies in the [[finance]](https://www.investopedia.com/terms/f/finance.asp) and [[economics]](https://www.investopedia.com/terms/e/economics.asp) fields. The data may be ranked from largest to smallest values, or vice versa.
 
-A decile, which has 10 categorical buckets may be contrasted with percentiles that have 100, quartiles that have four, or [quintiles](https://www.investopedia.com/terms/q/quintile.asp) that have five.
+A decile, which has 10 categorical buckets may be contrasted with percentiles that have 100, quartiles that have four, or [[quintiles]](https://www.investopedia.com/terms/q/quintile.asp) that have five.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ A decile, which has 10 categorical buckets may be contrasted with percentiles th
 
 ## Understanding a Decile
 
-In [descriptive statistics](https://www.investopedia.com/terms/d/descriptive_statistics.asp), a decile is used to categorize large data sets from the highest to lowest values, or vice versa. Like the quartile and the percentile, a decile is a form of a quantile that divides a set of observations into samples that are easier to analyze and measure.
+In [[descriptive statistics]](https://www.investopedia.com/terms/d/descriptive_statistics.asp), a decile is used to categorize large data sets from the highest to lowest values, or vice versa. Like the quartile and the percentile, a decile is a form of a quantile that divides a set of observations into samples that are easier to analyze and measure.
 
 While quartiles are three data points that divide an observation into four equal groups or quarters, a decile consists of nine data points that divide a data set into 10 equal parts. When an analyst or statistician ranks data and then splits them into deciles, they do so in an attempt to discover the largest and smallest values by a given metric.
 
-For example, by splitting the entire [S&P 500 Index](https://www.investopedia.com/terms/s/sp500.asp) into deciles (50 firms in each decile) using the [P/E multiple](https://www.investopedia.com/terms/p/price-earningsratio.asp), the analyst will discover the companies with the highest and lowest P/E valuations in the index.
+For example, by splitting the entire [[S&P 500 Index]](https://www.investopedia.com/terms/s/sp500.asp) into deciles (50 firms in each decile) using the [[P/E multiple]](https://www.investopedia.com/terms/p/price-earningsratio.asp), the analyst will discover the companies with the highest and lowest P/E valuations in the index.
 
 A decile is usually used to assign decile ranks to a data set. A decile rank arranges the data in order from lowest to highest and is done on a scale of one to 10 where each successive number corresponds to an increase of 10 percentage points. In other words, there are nine decile points. The 1st decile, or D1, is the point that has 10% of the observations below it, D2 has 20% of the observations below it, D3 has 30% of the observations falling below it, and so on.
 
@@ -52,11 +52,11 @@ From this formula, it is given that the 5th decile is the median since 5 (n+1) /
 
 ## Deciles in Finance and Economics
 
-Deciles are used in the investment field to assess the performance of a [portfolio](https://www.investopedia.com/terms/p/portfolio.asp) or a group of [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp). The decile rank acts as a comparative number that measures the performance of an asset against similar assets.
+Deciles are used in the investment field to assess the performance of a [[portfolio]](https://www.investopedia.com/terms/p/portfolio.asp) or a group of [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp). The decile rank acts as a comparative number that measures the performance of an asset against similar assets.
 
 For example, say an analyst is evaluating the performance of a set of mutual funds over time, a mutual fund that is ranked five on a decile scale of one to 10 means it’s in the top 50%. By splitting the mutual funds into deciles, the analyst can review the best and worst-performing mutual funds for a given time period, arranged from the smallest to highest average return on investment.
 
-The government also uses deciles to determine the level of [income inequality](https://www.investopedia.com/terms/i/income-inequality.asp) in the country, that is, how income is distributed. For example, if the top 20 wage earners of a country of 50,000 citizens fall in the 10th decile and earn more than 50% of the total income in the country, one can conclude that there is a very high degree of income inequality in that country. In this case, the government can introduce measures to decrease the wage gap, such as increasing the [income tax](https://www.investopedia.com/terms/i/incometax.asp) of the rich and creating [estate taxes](https://www.investopedia.com/terms/e/estatetax.asp) to limit how much wealth can be passed on to beneficiaries as an inheritance.
+The government also uses deciles to determine the level of [[income inequality]](https://www.investopedia.com/terms/i/income-inequality.asp) in the country, that is, how income is distributed. For example, if the top 20 wage earners of a country of 50,000 citizens fall in the 10th decile and earn more than 50% of the total income in the country, one can conclude that there is a very high degree of income inequality in that country. In this case, the government can introduce measures to decrease the wage gap, such as increasing the [[income tax]](https://www.investopedia.com/terms/i/incometax.asp) of the rich and creating [[estate taxes]](https://www.investopedia.com/terms/e/estatetax.asp) to limit how much wealth can be passed on to beneficiaries as an inheritance.
 
 ## Example of a Decile
 

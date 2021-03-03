@@ -27,13 +27,13 @@ Hard skills are learned abilities acquired and enhanced through practice, repeti
 
 ## Understanding Hard Skills
 
-In business, hard skills most often refer to the basics of accounting and [financial modeling](https://www.investopedia.com/terms/f/financialmodeling.asp). In a broad sense, hard skills may refer to proficiency in any complex task. Fluency in a second language, knowledge of Photoshop or PowerPoint, or expertise in carpentry are all hard skills that can be learned and improved upon with practice.
+In business, hard skills most often refer to the basics of accounting and [[financial modeling]](https://www.investopedia.com/terms/f/financialmodeling.asp). In a broad sense, hard skills may refer to proficiency in any complex task. Fluency in a second language, knowledge of Photoshop or PowerPoint, or expertise in carpentry are all hard skills that can be learned and improved upon with practice.
 
 Employers and recruiters most often look for these hard skills in professional resumes. Any hard skill that a person cites is best backed up with a certificate, degree, or other qualification that shows a level of achievement. Experience in the subject, such as years of working with quickbooks, are also seen as qualifications that validate expertise in hard skills.
 
 ## Hard and Soft Skills Characteristics
 
-Hard skills focus on practical abilities and skills, whereas soft skills focus on behaviors and personalities, such as social and communication skills. [Soft skills](https://www.investopedia.com/terms/s/soft-skills.asp) are less tangible and harder to teach. Getting along with others, listening well, and engaging in small talk are soft skills.
+Hard skills focus on practical abilities and skills, whereas soft skills focus on behaviors and personalities, such as social and communication skills. [[Soft skills]](https://www.investopedia.com/terms/s/soft-skills.asp) are less tangible and harder to teach. Getting along with others, listening well, and engaging in small talk are soft skills.
 
 A person's soft skills are more intrinsic to personality and more difficult to judge quickly, but they may be as important on the job over time. They might include an ability to work on a team, flexibility, patience, and time management ability.
 
@@ -43,7 +43,7 @@ Hard skills are easier to teach than soft skills, given a certain aptitude and e
 
 Scientists once believed that hard skills required the use of the left brain, or logic center, while soft skills were associated with the right brain, also referred to as the emotional center. Recent studies by neuroscientists indicate that mental processes can't be categorized that neatly.
 
-It can be said that hard skills generally have rules that remain the same regardless of the business, industry or even culture in which they are practiced. The rules of soft skills can change depending on company culture and the expectations of colleagues. For example, the rules for how a [programmer creates code](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp) are the same regardless of where the programmer works. However, a programmer may communicate effectively to other programmers about technical details but struggle when communicating with senior managers about a project's progress or support needs.
+It can be said that hard skills generally have rules that remain the same regardless of the business, industry or even culture in which they are practiced. The rules of soft skills can change depending on company culture and the expectations of colleagues. For example, the rules for how a [[programmer creates code]](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp) are the same regardless of where the programmer works. However, a programmer may communicate effectively to other programmers about technical details but struggle when communicating with senior managers about a project's progress or support needs.
 
 Hard skills may be learned in schools, from books, or through apprenticeships. The levels of competency can be defined and there is a direct path for achieving them. For example, a person may take basic and advanced accounting courses, gain work experience, and pass the Certified Public Accountant (CPA) exam.
 

@@ -18,7 +18,7 @@ Domestic Corporation Definition
 
 A domestic corporation is a company that conducts its affairs in its home country. A domestic business is often taxed differently than a non-domestic business and may be required to pay duties or fees on the products it imports. Typically, a domestic corporation can easily conduct business in other states or parts of the country where it has filed its articles of incorporation.
 
-Businesses that are located in a country different from the one where they originated are referred to as foreign corporations. Companies also may be referred to as foreign businesses when they are outside of the state in which they were formed. For example, a corporation that is incorporated in [Delaware](https://www.investopedia.com/terms/d/delaware-corporation.asp) will be considered as a domestic business in Delaware and as a foreign business in all other states.
+Businesses that are located in a country different from the one where they originated are referred to as foreign corporations. Companies also may be referred to as foreign businesses when they are outside of the state in which they were formed. For example, a corporation that is incorporated in [[Delaware]](https://www.investopedia.com/terms/d/delaware-corporation.asp) will be considered as a domestic business in Delaware and as a foreign business in all other states.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ About half of the companies of the S&P 500 are incorporated in the state of Dela
 
 ## Limitations of Domestic Businesses
 
-For a domestic business that is deciding where to be incorporated, weighing which states have lower [corporate tax](https://www.investopedia.com/terms/c/corporatetax.asp) rates is not a big consideration. Under federal tax laws, corporations are subject to taxation rates in the place where they do business, not where they were formed.
+For a domestic business that is deciding where to be incorporated, weighing which states have lower [[corporate tax]](https://www.investopedia.com/terms/c/corporatetax.asp) rates is not a big consideration. Under federal tax laws, corporations are subject to taxation rates in the place where they do business, not where they were formed.
 
 A business located where corporate tax is high would not be able to lower its tax bill by choosing to incorporate in a state where taxation is lower.
 
@@ -50,4 +50,4 @@ Corporations are subject to the tax rates in the state where they do business, n
 
 Usually, a corporation is established after a business files its articles of incorporation with a state agency. From that point forward, all of the corporation’s conduct is subject to the law of the state in which it was formed, even if it is not doing business there. This also means that if the firm was incorporated under Nevada law it will be considered a domestic corporation in that state and a foreign one everywhere else.
 
-Corporations are allowed to change which state laws govern them. To become a domestic business in another state, the corporation must first be [dissolved](https://www.investopedia.com/terms/w/windingup.asp) in the place where it was originally formed. After that process is complete, the company may file the appropriate articles of incorporation in another state.
+Corporations are allowed to change which state laws govern them. To become a domestic business in another state, the corporation must first be [[dissolved]](https://www.investopedia.com/terms/w/windingup.asp) in the place where it was originally formed. After that process is complete, the company may file the appropriate articles of incorporation in another state.

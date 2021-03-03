@@ -45,7 +45,7 @@ The marginal rate of substitution (MRS) formula is:
 
 ## Example of How to Use the Marginal Rate of Substitution
 
-For example, a [consumer](https://www.investopedia.com/articles/pf/10/know-your-consumer-protection-laws.asp) must choose between hamburgers and hot dogs. In order to determine the marginal rate of substitution, the consumer is asked what combinations of hamburgers and hot dogs provide the same level of satisfaction.
+For example, a [[consumer]](https://www.investopedia.com/articles/pf/10/know-your-consumer-protection-laws.asp) must choose between hamburgers and hot dogs. In order to determine the marginal rate of substitution, the consumer is asked what combinations of hamburgers and hot dogs provide the same level of satisfaction.
 
 When these combinations are graphed, the slope of the resulting line is negative. This means that the consumer faces a diminishing marginal rate of substitution: the more hamburgers they have relative to hot dogs, the fewer hot dogs they are willing to consume. If the marginal rate of substitution of hamburgers for hot dogs is -2, then the individual would be willing to give up 2 hot dogs for every additional hamburger consumption. 
 

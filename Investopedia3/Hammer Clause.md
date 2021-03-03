@@ -28,7 +28,7 @@ Hammer clauses allow the insurer to force the insured to settle. It does this by
 
 Insurance companies indemnify their policyholders from the risks outlined in the policy that they purchase. If a claim is made, the insurer is responsible for helping settle the loss. In some cases, the insurance company, and the insured party will have a different opinion on what the settlement value should be.
 
-The insurer wants to limit the costs that it incurs during the [settlement](https://www.investopedia.com/terms/s/settlement_period.asp) process, including legal fees and claims adjuster fees, which can grow substantially the longer the claims process drags out.
+The insurer wants to limit the costs that it incurs during the [[settlement]](https://www.investopedia.com/terms/s/settlement_period.asp) process, including legal fees and claims adjuster fees, which can grow substantially the longer the claims process drags out.
 
 A hammer clause allows the insurer to compel a manufacturer in a lawsuit to settle the case.
 

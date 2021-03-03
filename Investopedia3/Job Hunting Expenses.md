@@ -26,14 +26,14 @@ Job-hunting expenses are expenses incurred while seeking employment. The IRS no 
 
 ## Understanding Job Hunting Expenses
 
-Job-hunting expenses are not deductible when searching for your first job after completing school. Expenses used to be deductible when searching for a job in a new line of work or when there has been a substantial break in your employment. Prior to 2018, these expenses fell into the miscellaneous itemized deductions category, meaning that they could only be deducted to the extent that job-hunting expenses plus other miscellaneous expenses exceed 2% of your [adjusted gross income](https://www.investopedia.com/terms/a/agi.asp).2
+Job-hunting expenses are not deductible when searching for your first job after completing school. Expenses used to be deductible when searching for a job in a new line of work or when there has been a substantial break in your employment. Prior to 2018, these expenses fell into the miscellaneous itemized deductions category, meaning that they could only be deducted to the extent that job-hunting expenses plus other miscellaneous expenses exceed 2% of your [[adjusted gross income]](https://www.investopedia.com/terms/a/agi.asp).2
 
 Considering that these deductions are likely to resume in 2026, here's an example to calculate the deduction prior to 2018. Let's say your adjusted gross income is $62,000 and you have miscellaneous deductions of $2,200:
 
 -   $62,000 \* 0.02 = $1,240
 -   $2,200 – $1,240 = $960 is the deduction amount
 
-Like any deductions, you'll need to keep accurate receipts and timelines to take advantage of potential breaks. When you do lose a job, it's important that you begin to seek work promptly, or the [IRS](https://www.investopedia.com/terms/i/irs.asp) may deny the [exemptions](https://www.investopedia.com/terms/t/tax_exempt.asp).
+Like any deductions, you'll need to keep accurate receipts and timelines to take advantage of potential breaks. When you do lose a job, it's important that you begin to seek work promptly, or the [[IRS]](https://www.investopedia.com/terms/i/irs.asp) may deny the [[exemptions]](https://www.investopedia.com/terms/t/tax_exempt.asp).
 
 ## Examples of Job Hunting Expenses
 

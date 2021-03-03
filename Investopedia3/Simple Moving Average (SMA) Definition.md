@@ -26,7 +26,7 @@ A simple moving average (SMA) calculates the average of a selected range of pric
 
 ## Understanding a Simple Moving Average (SMA)
 
-A simple moving average (SMA) is an arithmetic [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) calculated by adding recent prices and then dividing that figure by the number of time periods in the calculation average. For example, one could add the closing price of a security for a number of time periods and then divide this total by that same number of periods. Short-term averages respond quickly to changes in the price of the underlying security, while long-term averages are slower to react. There are other types of moving averages, including the [exponential moving average](https://www.investopedia.com/terms/e/ema.asp) (EMA) and the [weighted moving average](https://www.investopedia.com/articles/technical/060401.asp) (WMA).
+A simple moving average (SMA) is an arithmetic [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) calculated by adding recent prices and then dividing that figure by the number of time periods in the calculation average. For example, one could add the closing price of a security for a number of time periods and then divide this total by that same number of periods. Short-term averages respond quickly to changes in the price of the underlying security, while long-term averages are slower to react. There are other types of moving averages, including the [[exponential moving average]](https://www.investopedia.com/terms/e/ema.asp) (EMA) and the [[weighted moving average]](https://www.investopedia.com/articles/technical/060401.asp) (WMA).
 
 TradingView.
 
@@ -56,7 +56,7 @@ Moving averages are an important analytical tool used to identify current price 
 
 ### Popular Trading Patterns
 
-Two popular trading patterns that use simple moving averages include the death cross and a golden cross. A [death cross](https://www.investopedia.com/terms/d/deathcross.asp) occurs when the 50-day SMA crosses below the 200-day SMA. This is considered a bearish signal, that further losses are in store. The [golden cross](https://www.investopedia.com/terms/g/goldencross.asp) occurs when a short-term SMA breaks above a long-term SMA. Reinforced by high trading volumes, this can signal further gains are in store.
+Two popular trading patterns that use simple moving averages include the death cross and a golden cross. A [[death cross]](https://www.investopedia.com/terms/d/deathcross.asp) occurs when the 50-day SMA crosses below the 200-day SMA. This is considered a bearish signal, that further losses are in store. The [[golden cross]](https://www.investopedia.com/terms/g/goldencross.asp) occurs when a short-term SMA breaks above a long-term SMA. Reinforced by high trading volumes, this can signal further gains are in store.
 
 ## Simple Moving Average vs. Exponential Moving Average
 

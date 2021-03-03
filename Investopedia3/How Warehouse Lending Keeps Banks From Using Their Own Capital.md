@@ -16,7 +16,7 @@ author: Caroline Banton
 How Warehouse Lending Keeps Banks From Using Their Own Capital
 ## What Is Warehouse Lending?
 
-Warehouse lending is a line of credit given to a loan originator. The funds are used to pay for a mortgage that a borrower uses to purchase property. The life of the loan generally extends from its [origination](https://www.investopedia.com/terms/o/origination.asp) to the time it is sold on the secondary market either directly or through securitization.
+Warehouse lending is a line of credit given to a loan originator. The funds are used to pay for a mortgage that a borrower uses to purchase property. The life of the loan generally extends from its [[origination]](https://www.investopedia.com/terms/o/origination.asp) to the time it is sold on the secondary market either directly or through securitization.
 
 The repayment of warehouse lines of credit is ensured by lenders through charges on each transaction, in addition to charges when loan originators post collateral.
 
@@ -38,10 +38,10 @@ Warehouse lending can most simply be understood as a means for a bank or similar
 
 In warehouse lending, a bank handles the application and approval of a loan but obtains the funds for the loan from a warehouse lender. When the bank then sells the mortgage to another creditor in the secondary market, it receives the funds that it then uses to pay back the warehouse lender. The bank profits through this process by earning points and origination fees.
 
-Warehouse lending is commercial [asset-based lending](https://www.investopedia.com/terms/a/assetbasedlending.asp). According to [Barry Epstein](https://www.abfjournal.com/articles/mortgage-warehouse-lending-clearing-up-misconceptions-about-this-unique-type-of-abl/), a mortgage lending consultant, bank regulators typically treat warehouse loans as lines of credit giving them a 100% risk-weighted classification. Epstein suggests that warehouse lines of credit are classified in this way partly because the time/risk exposure is days while the time/risk exposure for mortgage notes in years.
+Warehouse lending is commercial [[asset-based lending]](https://www.investopedia.com/terms/a/assetbasedlending.asp). According to [[Barry Epstein]](https://www.abfjournal.com/articles/mortgage-warehouse-lending-clearing-up-misconceptions-about-this-unique-type-of-abl/), a mortgage lending consultant, bank regulators typically treat warehouse loans as lines of credit giving them a 100% risk-weighted classification. Epstein suggests that warehouse lines of credit are classified in this way partly because the time/risk exposure is days while the time/risk exposure for mortgage notes in years.
 
 ## Fundamentals
 
-Warehouse lending is similar to [accounts receivable financing](https://www.investopedia.com/terms/a/accountsreceivablefinancing.asp) for industry sectors, though the collateral is typically much more significant in the case of warehouse lending. The similarity lies in the short-term nature of the loan. Mortgage lenders are granted a short-term, revolving credit line to close mortgage loans that are then sold to the secondary mortgage market.
+Warehouse lending is similar to [[accounts receivable financing]](https://www.investopedia.com/terms/a/accountsreceivablefinancing.asp) for industry sectors, though the collateral is typically much more significant in the case of warehouse lending. The similarity lies in the short-term nature of the loan. Mortgage lenders are granted a short-term, revolving credit line to close mortgage loans that are then sold to the secondary mortgage market.
 
 The housing market crash from 2007 to 2008 drastically affected warehouse lending. The mortgage market dried up as people could no longer afford to own a home. As the economy has recovered, the acquisition of mortgage loans has increased as has warehouse lending.

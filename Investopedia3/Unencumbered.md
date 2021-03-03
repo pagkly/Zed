@@ -16,13 +16,13 @@ author: Julia Kagan
 Unencumbered
 ## What Is Unencumbered?
 
-Unencumbered refers to an asset or property that is [free and clear](https://www.investopedia.com/terms/f/freeandclear.asp) of any encumbrances, such as creditor claims or liens. An unencumbered asset is much easier to sell or transfer than one with an [encumbrance](https://www.investopedia.com/terms/e/encumbrance.asp). Examples of common unencumbered assets are houses free from mortgages and other liens, cars with paid off loans/notes, or stocks purchased in a [cash account](https://www.investopedia.com/terms/c/cashaccount.asp).
+Unencumbered refers to an asset or property that is [[free and clear]](https://www.investopedia.com/terms/f/freeandclear.asp) of any encumbrances, such as creditor claims or liens. An unencumbered asset is much easier to sell or transfer than one with an [[encumbrance]](https://www.investopedia.com/terms/e/encumbrance.asp). Examples of common unencumbered assets are houses free from mortgages and other liens, cars with paid off loans/notes, or stocks purchased in a [[cash account]](https://www.investopedia.com/terms/c/cashaccount.asp).
 
 ## Understanding Unencumbered
 
-Creditors do not have claims to unencumbered assets as there are no associated debts. As a result, these assets are the full property of the person(s) listed as the owner(s) in an official capacity, such as on a title or deed. Unencumbered assets are not listed as [collateral](https://www.investopedia.com/terms/c/collateral.asp) for any debt and are not subject to competing claims, such as past-due property taxes.
+Creditors do not have claims to unencumbered assets as there are no associated debts. As a result, these assets are the full property of the person(s) listed as the owner(s) in an official capacity, such as on a title or deed. Unencumbered assets are not listed as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) for any debt and are not subject to competing claims, such as past-due property taxes.
 
-For the majority of consumers, especially young couples and recent graduates, high-value assets, such as real estate and cars, are unlikely to be unencumbered. This is because these purchases are often financed, leading to the acquisition of debt, with the asset as collateral. Over time, as the mortgage or car loan is paid off, these assets become unencumbered. A [title search](https://www.investopedia.com/terms/t/titlesearch.asp) is a key part of the due diligence process for a buyer of real estate or a used car to confirm that the asset is unencumbered or has outstanding liens.
+For the majority of consumers, especially young couples and recent graduates, high-value assets, such as real estate and cars, are unlikely to be unencumbered. This is because these purchases are often financed, leading to the acquisition of debt, with the asset as collateral. Over time, as the mortgage or car loan is paid off, these assets become unencumbered. A [[title search]](https://www.investopedia.com/terms/t/titlesearch.asp) is a key part of the due diligence process for a buyer of real estate or a used car to confirm that the asset is unencumbered or has outstanding liens.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ For the majority of consumers, especially young couples and recent graduates, hi
 
 Unencumbered assets are easier to transfer because only the property owner, acting as the seller, and the party interested in purchasing the property, acting as the buyer must approve the sale. Further, there will be no predetermined required sale price, allowing the seller to set the price at his or her discretion.
 
-Encumbered assets can be sold, but the sale process requires approval by the buyer and seller, as well as any other entity that has a claim to the asset, such as the bank that issued the loan for the collateralized asset. This can lead to minimum sales price requirements, often in an amount equal to or above the [collateralized](https://www.investopedia.com/terms/c/collateralization.asp) debt amount against the subject property. This allows the debt to be effectively paid off as part of the sales transaction.
+Encumbered assets can be sold, but the sale process requires approval by the buyer and seller, as well as any other entity that has a claim to the asset, such as the bank that issued the loan for the collateralized asset. This can lead to minimum sales price requirements, often in an amount equal to or above the [[collateralized]](https://www.investopedia.com/terms/c/collateralization.asp) debt amount against the subject property. This allows the debt to be effectively paid off as part of the sales transaction.
 
 ## Special Considerations
 

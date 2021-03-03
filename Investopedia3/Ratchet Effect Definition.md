@@ -16,7 +16,7 @@ author: Adam Barone
 Ratchet Effect Definition
 ## What is the Ratchet Effect?
 
-The ratchet effect, a [Keynesian theory](https://www.investopedia.com/terms/k/keynesianeconomics.asp), states that once prices have risen in lockstep to a rise in [aggregate demand](https://www.investopedia.com/terms/a/aggregatedemand.asp), they do not always reverse when that [demand](https://www.investopedia.com/terms/d/demand.asp) falls.
+The ratchet effect, a [[Keynesian theory]](https://www.investopedia.com/terms/k/keynesianeconomics.asp), states that once prices have risen in lockstep to a rise in [[aggregate demand]](https://www.investopedia.com/terms/a/aggregatedemand.asp), they do not always reverse when that [[demand]](https://www.investopedia.com/terms/d/demand.asp) falls.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The ratchet effect refers to escalations in production or prices that tend to se
 
 The ratchet effect first came up in Alan Peacock and Jack Wiseman's work: _The Growth of Public Expenditure in the United Kingdom._ Peacock and Wiseman found that public spending increases like a ratchet, following periods of crisis. Similarly, governments have difficulty in rolling back huge bureaucratic organizations created initially for temporary needs, such as during times of armed conflict or economic crisis. The governmental version of the ratchet effect is similar to that experienced in large businesses that add myriad layers of bureaucracy to support a larger, more complex array of products, services, and infrastructure to support it all.
 
-The ratchet effect can also impact large-scale firm's capital investments. For example, in the auto industry, competition drives firms to be constantly creating new features for their vehicles. This requires additional investment in new machinery, or a different type of skilled worker, which increases the [cost of labor](https://www.investopedia.com/terms/c/cost-of-labor.asp). Once an auto company has made these investments and added these features, it becomes difficult to scale back production. The firm cannot waste their investment in the physical [capital](https://www.investopedia.com/terms/c/capital.asp) required for the upgrades or the human capital in the form of new workers.
+The ratchet effect can also impact large-scale firm's capital investments. For example, in the auto industry, competition drives firms to be constantly creating new features for their vehicles. This requires additional investment in new machinery, or a different type of skilled worker, which increases the [[cost of labor]](https://www.investopedia.com/terms/c/cost-of-labor.asp). Once an auto company has made these investments and added these features, it becomes difficult to scale back production. The firm cannot waste their investment in the physical [[capital]](https://www.investopedia.com/terms/c/capital.asp) required for the upgrades or the human capital in the form of new workers.
 
 Similar principles apply to the ratchet effect from the consumer perspective because raised expectations escalate the consumption process. If a company has been producing 20 ounces sodas for ten years and then decreases their soda size to 16 ounces, consumers may feel duped, even if there is the commensurate price decrease.
 
@@ -42,7 +42,7 @@ The primary problem with the ratchet effect is that in certain situations, peopl
 
 ## The Ratchet Effect and Labor Markets
 
-In labor markets, the ratchet effect presents itself in situations where workers, who are subject to performance pay, [choose to restrict their output](https://www.nber.org/papers/w16325.pdf). They do this because they are anticipating that the company will respond to higher output levels by raising output requirements or cutting pay. This constitutes a multi-period, principal-agent problem. However, the ratchet effect in labor markets is nearly eliminated, when competition is introduced. This is true regardless of whether market conditions favor firms or workers.
+In labor markets, the ratchet effect presents itself in situations where workers, who are subject to performance pay, [[choose to restrict their output]](https://www.nber.org/papers/w16325.pdf). They do this because they are anticipating that the company will respond to higher output levels by raising output requirements or cutting pay. This constitutes a multi-period, principal-agent problem. However, the ratchet effect in labor markets is nearly eliminated, when competition is introduced. This is true regardless of whether market conditions favor firms or workers.
 
 ## Effects of the Ratchet Effect on Industry
 

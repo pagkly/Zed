@@ -16,7 +16,7 @@ author: James Chen
 Gate Provision
 ## What Is a Gate Provision?
 
-A gate provision refers to a statement in a fund's offering documents that establishes the fund manager’s right to limit or halt [redemptions](https://www.investopedia.com/terms/r/redemption.asp). The [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) or offering documents may provide more detail on a gate provision, such as scenarios where redemptions would be restricted or halted entirely. Gate provisions are intended to stop a [run on a fund](https://www.investopedia.com/terms/r/run-on-the-fund.asp), particularly when the assets a fund holds are [illiquid](https://www.investopedia.com/terms/i/illiquid.asp) and difficult to turn to cash for redemption in a timely manner. Even with scenarios and guidelines, the decision to exercise the gate provision is the fund managers.
+A gate provision refers to a statement in a fund's offering documents that establishes the fund manager’s right to limit or halt [[redemptions]](https://www.investopedia.com/terms/r/redemption.asp). The [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) or offering documents may provide more detail on a gate provision, such as scenarios where redemptions would be restricted or halted entirely. Gate provisions are intended to stop a [[run on a fund]](https://www.investopedia.com/terms/r/run-on-the-fund.asp), particularly when the assets a fund holds are [[illiquid]](https://www.investopedia.com/terms/i/illiquid.asp) and difficult to turn to cash for redemption in a timely manner. Even with scenarios and guidelines, the decision to exercise the gate provision is the fund managers.
 
 ## Gate Provisions Explained
 
@@ -26,7 +26,7 @@ Gate provisions restrict redemptions and help to prevent runs on the fund. When 
 
 Fund managers usually need to inform investors in writing when invoking the gate provision. The notification will usually state the need for the provision and outline how much, if any, investors will be able to receive when they request a redemption. Even though they are part of most fund documents, invoking the gate provision is a serious business and usually involves a consultation with an attorney. Because a gate provision is invoked at the discretion of the fund manager, investors who find their money locked in understandably question the fund manager’s judgment.
 
-Interestingly, a gate provision doesn't always affect all investors equally. [Institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) and preferred clients may have a side letter — a separate agreement with the fund — stating that their money will never be locked in. As a result, some hedge funds have eliminated gate provisions altogether because it doesn't actually cover the majority of the capital in the fund.
+Interestingly, a gate provision doesn't always affect all investors equally. [[Institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp) and preferred clients may have a side letter — a separate agreement with the fund — stating that their money will never be locked in. As a result, some hedge funds have eliminated gate provisions altogether because it doesn't actually cover the majority of the capital in the fund.
 
 ## A Famous Example of a Gate Provision
 

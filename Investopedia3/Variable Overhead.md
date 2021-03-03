@@ -16,9 +16,9 @@ author: Will Kenton
 Variable Overhead
 ## What Is Variable Overhead?
 
-Variable [overhead](https://www.investopedia.com/terms/o/overhead.asp) is a term used to describe the fluctuating manufacturing costs associated with operating businesses. As production output increases or decreases, variable overhead expenses move in kind. Variable overhead differs from the general overhead expenditures associated with administrative tasks and other functions that have fixed budgetary requirements.
+Variable [[overhead]](https://www.investopedia.com/terms/o/overhead.asp) is a term used to describe the fluctuating manufacturing costs associated with operating businesses. As production output increases or decreases, variable overhead expenses move in kind. Variable overhead differs from the general overhead expenditures associated with administrative tasks and other functions that have fixed budgetary requirements.
 
-Holding a firm grasp on variable overhead is useful in helping businesses correctly set their future product prices, in order to avoid overspending, which can cannibalize [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp).
+Holding a firm grasp on variable overhead is useful in helping businesses correctly set their future product prices, in order to avoid overspending, which can cannibalize [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp).
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Holding a firm grasp on variable overhead is useful in helping businesses correc
 
 For companies to operate continuously, they need to spend money on producing and selling their goods and services. The overall operation costs, including the managers, sales staff, marketing staff for the production facilities as well as the corporate office, are known as overhead costs.
 
-There are two types of overhead costs, [fixed and variable](https://www.investopedia.com/ask/answers/033015/how-does-fixed-overhead-differ-varied-overhead.asp). Typically, the overhead doesn't fluctuate with increases in production of a product—which is why it's considered a fixed cost. Examples of fixed costs include:
+There are two types of overhead costs, [[fixed and variable]](https://www.investopedia.com/ask/answers/033015/how-does-fixed-overhead-differ-varied-overhead.asp). Typically, the overhead doesn't fluctuate with increases in production of a product—which is why it's considered a fixed cost. Examples of fixed costs include:
 
 -   Mortgage or rent for the buildings such as the corporate office
 -   Salaries for administrative staff, managers, and supervisors, 
@@ -52,7 +52,7 @@ The key difference between variable and fixed overhead costs is that if the prod
 
 ## Variable Overhead and Pricing
 
-Manufacturers must include variable overhead expenses to calculate the total cost of production at current levels, as well as the total overhead required to increase manufacturing output in the future. The calculations can then be applied to determine the minimum price levels for products to ensure [profitability](https://www.investopedia.com/ask/answers/012715/what-difference-between-profitability-and-profit.asp).
+Manufacturers must include variable overhead expenses to calculate the total cost of production at current levels, as well as the total overhead required to increase manufacturing output in the future. The calculations can then be applied to determine the minimum price levels for products to ensure [[profitability]](https://www.investopedia.com/ask/answers/012715/what-difference-between-profitability-and-profit.asp).
 
 A manufacturing facility's monthly expense for electricity, for example, can vary greatly depending on production output. If shifts were added to meet product demand, the facility and equipment would undoubtedly use more electricity. As a result, the variable overhead expenses must be included in the calculation of the cost per unit to ensure accurate pricing.
 

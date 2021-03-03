@@ -16,7 +16,7 @@ author: Will Kenton
 What Is a Stock Dividend?
 ## What Is a Stock Dividend?
 
-A stock dividend is a dividend payment to shareholders that is made in shares rather than as cash. The stock dividend has the advantage of rewarding shareholders without reducing the company's cash balance, although it can [dilute](https://www.investopedia.com/terms/d/dilution.asp) earnings per share.
+A stock dividend is a dividend payment to shareholders that is made in shares rather than as cash. The stock dividend has the advantage of rewarding shareholders without reducing the company's cash balance, although it can [[dilute]](https://www.investopedia.com/terms/d/dilution.asp) earnings per share.
 
 These stock distributions are generally made as fractions paid per existing share. For example, a company might issue a stock dividend of 5%, which will require it to issue 0.05 shares for every share owned by existing shareholders, so the owner of 100 shares would receive five additional shares.
 
@@ -28,7 +28,7 @@ These stock distributions are generally made as fractions paid per existing shar
 
 ## How a Stock Dividend Works
 
-Also known as a "scrip dividend," a stock dividend is a distribution of shares to existing shareholders in lieu of a [cash dividend](https://www.investopedia.com/terms/c/cashdividend.asp). This type of dividend may be made when a company wants to reward its investors but doesn't have the spare cash or wants to preserve its cash for other investments.1
+Also known as a "scrip dividend," a stock dividend is a distribution of shares to existing shareholders in lieu of a [[cash dividend]](https://www.investopedia.com/terms/c/cashdividend.asp). This type of dividend may be made when a company wants to reward its investors but doesn't have the spare cash or wants to preserve its cash for other investments.1
 
 Stock dividends have a tax advantage for the investor. The share dividend, like any stock share, is not taxed until the investor sells it unless the company offers the option of taking the dividend as cash or in stock.1
 
@@ -40,15 +40,15 @@ If a stock dividend has a cash-dividend option, taxes will be due even if the o
 
 The board of a public company, for example, may approve a 5% stock dividend. That gives existing investors an additional share of company stock for every 20 shares they already own. However, this means that the pool of available stock shares in the company increases by 5%, diluting the value of existing shares.
 
-Therefore, in this example, an investor who owned 100 shares in a company will own 105 shares once the dividend is executed. But the total [market value](https://www.investopedia.com/terms/m/marketvalue.asp) of those shares remains the same. In this way, a stock dividend is similar to a [stock split](https://www.investopedia.com/terms/s/stocksplit.asp). This is not to say that the market value of the shares will stay the same. The incentive behind the stock dividend is the expectation that the share price will rise.
+Therefore, in this example, an investor who owned 100 shares in a company will own 105 shares once the dividend is executed. But the total [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp) of those shares remains the same. In this way, a stock dividend is similar to a [[stock split]](https://www.investopedia.com/terms/s/stocksplit.asp). This is not to say that the market value of the shares will stay the same. The incentive behind the stock dividend is the expectation that the share price will rise.
 
 ## Accounting for Small vs. Large Stock Dividends
 
-When a stock dividend is issued, the total value of equity remains the same from both the investor's perspective and the company's perspective. However, all stock dividends require a journal entry for the company issuing the dividend. This entry transfers the value of the issued stock from the [retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp) account to the [paid-in capital](https://www.investopedia.com/terms/p/paidincapital.asp) account.
+When a stock dividend is issued, the total value of equity remains the same from both the investor's perspective and the company's perspective. However, all stock dividends require a journal entry for the company issuing the dividend. This entry transfers the value of the issued stock from the [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) account to the [[paid-in capital]](https://www.investopedia.com/terms/p/paidincapital.asp) account.
 
 The amount transferred between the two accounts depends on whether the dividend is a small stock dividend or a large stock dividend. A stock dividend is considered small if the shares issued are less than 25% of the total value of shares outstanding before the dividend. A journal entry for a small stock dividend transfers the market value of the issued shares from retained earnings to paid-in capital.
 
-Large stock dividends are those in which the new shares issued are more than 25% of the value of the total shares outstanding prior to the dividend. In this case, the journal entry transfers the [par value](https://www.investopedia.com/terms/p/parvalue.asp) of the issued shares from retained earnings to paid-in capital.
+Large stock dividends are those in which the new shares issued are more than 25% of the value of the total shares outstanding prior to the dividend. In this case, the journal entry transfers the [[par value]](https://www.investopedia.com/terms/p/parvalue.asp) of the issued shares from retained earnings to paid-in capital.
 
 ## An Example of Stock Dividends
 

@@ -16,7 +16,7 @@ author: James Chen
 Covariance
 ## What Is Covariance?
 
-Covariance measures the directional relationship between the returns on two [assets](https://www.investopedia.com/terms/a/asset.asp). A positive covariance means that asset returns move together while a negative covariance means they move inversely. Covariance is calculated by analyzing at-return surprises ([standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) from the expected return) or by multiplying the correlation between the two variables by the standard deviation of each variable.
+Covariance measures the directional relationship between the returns on two [[assets]](https://www.investopedia.com/terms/a/asset.asp). A positive covariance means that asset returns move together while a negative covariance means they move inversely. Covariance is calculated by analyzing at-return surprises ([standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) from the expected return) or by multiplying the correlation between the two variables by the standard deviation of each variable.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Covariance measures the directional relationship between the returns on two [as
 
 ## Understanding Covariance
 
-Covariance evaluates how the mean values of two variables move together. If stock A's return moves higher whenever stock B's return moves higher and the same relationship is found when each stock's return decreases, then these stocks are said to have positive covariance. In finance, covariances are calculated to help [diversify](https://www.investopedia.com/terms/d/diversification.asp) security holdings.
+Covariance evaluates how the mean values of two variables move together. If stock A's return moves higher whenever stock B's return moves higher and the same relationship is found when each stock's return decreases, then these stocks are said to have positive covariance. In finance, covariances are calculated to help [[diversify]](https://www.investopedia.com/terms/d/diversification.asp) security holdings.
 
 When an analyst has a set of data, a pair of x and y values, covariance can be calculated using five variables from that data. They are:
 
@@ -43,11 +43,11 @@ While the covariance does measure the directional relationship between two asset
 
 ## Covariance Applications
 
-Covariances have significant applications in finance and [modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp). For example, in the capital asset pricing model ([CAPM](https://www.investopedia.com/terms/c/capm.asp)), which is used to calculate the expected return of an asset, the covariance between a security and the market is used in the formula for one of the model's key variables, [beta](https://www.investopedia.com/terms/b/beta.asp). In the CAPM, beta measures the volatility, or systematic risk, of a security in comparison to the market as a whole; it's a practical measure that draws from the covariance to gauge an investor's risk exposure specific to one security.
+Covariances have significant applications in finance and [[modern portfolio theory]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp). For example, in the capital asset pricing model ([CAPM](https://www.investopedia.com/terms/c/capm.asp)), which is used to calculate the expected return of an asset, the covariance between a security and the market is used in the formula for one of the model's key variables, [[beta]](https://www.investopedia.com/terms/b/beta.asp). In the CAPM, beta measures the volatility, or systematic risk, of a security in comparison to the market as a whole; it's a practical measure that draws from the covariance to gauge an investor's risk exposure specific to one security.
 
-Meanwhile, [portfolio theory uses covariances](https://www.investopedia.com/ask/answers/041315/how-covariance-used-portfolio-theory.asp) to statistically reduce the overall risk of a portfolio by protecting against volatility through covariance-informed diversification.
+Meanwhile, [[portfolio theory uses covariances]](https://www.investopedia.com/ask/answers/041315/how-covariance-used-portfolio-theory.asp) to statistically reduce the overall risk of a portfolio by protecting against volatility through covariance-informed diversification.
 
-Possessing [financial assets](https://www.investopedia.com/terms/f/financialasset.asp) with returns that have similar covariances does not provide very much diversification; therefore, a diversified portfolio would likely contain a mix of financial assets that have varying covariances.
+Possessing [[financial assets]](https://www.investopedia.com/terms/f/financialasset.asp) with returns that have similar covariances does not provide very much diversification; therefore, a diversified portfolio would likely contain a mix of financial assets that have varying covariances.
 
 ## Example of Covariance Calculation
 
@@ -59,7 +59,7 @@ Assume an analyst in a company has a five-quarter data set that shows quarterly�
 -   Q4: x = 3.2, y = 15
 -   Q5: x = 4.1, y = 20
 
-The average x value equals 3, and the average y value equals 14.2. [To calculate the covariance](https://www.investopedia.com/articles/financial-theory/11/calculating-covariance.asp), the sum of the products of the xi values minus the average x value, multiplied by the yi values minus the average y values would be divided by (n-1), as follows:
+The average x value equals 3, and the average y value equals 14.2. [[To calculate the covariance]](https://www.investopedia.com/articles/financial-theory/11/calculating-covariance.asp), the sum of the products of the xi values minus the average x value, multiplied by the yi values minus the average y values would be divided by (n-1), as follows:
 
 Cov(x,y) = ((2 - 3) x (10 - 14.2) + (3 - 3) x (14 - 14.2) + ... (4.1 - 3) x (20 - 14.2)) / 4 = (4.2 + 0 + 0.66 + 0.16 + 6.38) / 4 = 2.85
 

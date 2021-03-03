@@ -18,7 +18,7 @@ Unemployment Insurance
 
 Unemployment insurance (UI), also called unemployment benefits, is a type of state-provided insurance that pays money to individuals on a weekly basis when they lose their job and meet certain eligibility requirements. Typically, those who have either quit their job or were fired for a just cause are not eligible for UI. In other words, someone was separated from their job due to the lack of available work and at no fault of their own can usually qualify for unemployment benefits.1
 
-Please note that due to the coronavirus pandemic, the [Pandemic Emergency Unemployment Compensation](https://www.investopedia.com/pandemic-emergency-unemployment-compensation-peuc-definition-4802046) (PEUC) was created as an emergency program designed to help Americans who lost their jobs due to the pandemic. Under the program workers who had exhausted their 26 weeks of UI benefits could qualify for an additional 13 weeks of unemployment benefits if they met certain criteria.
+Please note that due to the coronavirus pandemic, the [[Pandemic Emergency Unemployment Compensation]](https://www.investopedia.com/pandemic-emergency-unemployment-compensation-peuc-definition-4802046) (PEUC) was created as an emergency program designed to help Americans who lost their jobs due to the pandemic. Under the program workers who had exhausted their 26 weeks of UI benefits could qualify for an additional 13 weeks of unemployment benefits if they met certain criteria.
 
 An additional 11 weeks of benefits were added to the original 13-week extension for a total of 24 additional weeks. Including the standard 26 weeks of unemployment and the additional 24 weeks related to the pandemic, an unemployed person would be entitled to 50 weeks of total unemployment in the 2020–2021 period. The benefits under the PEUC program are slated to expire on March 14, 2021.2
 
@@ -49,7 +49,7 @@ An unemployed person must meet two primary requirements to qualify for unemploym
 
 Individuals file claims in the state where they worked. A participant may file claims by phone or on the state unemployment insurance agency's website. After the first application, it generally takes two to three weeks for the processing and approval of a claim.
 
-After approval of a claim, the participant must either file weekly or biweekly reports that test or confirm their employment situation. Reports must be submitted to remain eligible for benefit payments. An unemployed worker cannot refuse work during a week, and on each weekly or bi-weekly claim, they must report any income that they earned from [freelance or consulting gigs](https://www.investopedia.com/terms/f/freelancer.asp).
+After approval of a claim, the participant must either file weekly or biweekly reports that test or confirm their employment situation. Reports must be submitted to remain eligible for benefit payments. An unemployed worker cannot refuse work during a week, and on each weekly or bi-weekly claim, they must report any income that they earned from [[freelance or consulting gigs]](https://www.investopedia.com/terms/f/freelancer.asp).
 
 ### $2 trillion
 
@@ -59,13 +59,13 @@ The amount of emergency stimulus in the CARES (Coronavirus Aid, Relief, and Econ
 
 On March 11, 2020, the World Health Organization (WHO) declared COVID-19, the illness caused by a novel coronavirus, to be a pandemic.3 States and businesses across the U.S. have been forced to close down, causing massive unemployment.
 
-Lawmakers agreed on the passage of the [Coronavirus Aid, Relief, and Economic Security (CARES) Act](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707), landmark legislation that, in part, expands states' ability to provide UI to millions of workers affected by COVID-19, including people who aren't ordinarily eligible for unemployment benefits.
+Lawmakers agreed on the passage of the [[Coronavirus Aid, Relief, and Economic Security (CARES) Act]](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707), landmark legislation that, in part, expands states' ability to provide UI to millions of workers affected by COVID-19, including people who aren't ordinarily eligible for unemployment benefits.
 
 Three specific programs are designed to help Americans who have been out of work because of the coronavirus:4  A fourth program was established through an Aug. 8, 2020, memorandum issued by President Trump in response to the expiration of the Federal Pandemic Employment Compensation program.
 
 ### Federal Pandemic Unemployment Compensation (FPUC)
 
-The [Federal Pandemic Unemployment Compensation](https://www.investopedia.com/federal-pandemic-unemployment-compensation-fpuc-definition-4802039) (FPUC) provides an extra $300 weekly benefit on top of regular unemployment insurance (UI). The money will be paid each week of unemployment beginning after Dec. 26, 2020, and ending on or before March 14, 2021.2
+The [[Federal Pandemic Unemployment Compensation]](https://www.investopedia.com/federal-pandemic-unemployment-compensation-fpuc-definition-4802039) (FPUC) provides an extra $300 weekly benefit on top of regular unemployment insurance (UI). The money will be paid each week of unemployment beginning after Dec. 26, 2020, and ending on or before March 14, 2021.2
 
 The original benefit had been an additional $600 weekly under the CARES Act, but that benefit expired on July 31, 2020. The FPUC was modified and extended as part of the Consolidated Appropriations Act, 2021, signed into law by former President Trump in December 2020.5 The FPUC was modified to provide an additional $300 per week in benefits—replacing the $600 weekly benefit.
 
@@ -73,17 +73,17 @@ It's important to note that the FPUC benefit is not payable during the gap from 
 
 ### Pandemic Unemployment Assistance (PUA)
 
-The [Pandemic Unemployment Assistance](https://www.investopedia.com/pandemic-unemployment-assistance-pua-definition-4802064) (PUA) expands UI eligibility to self-employed workers, freelancers, independent contractors, and part-time workers if they were impacted by the coronavirus pandemic in 2020 and 2021. Typically, self-employed workers might not qualify for UI, and the PUA helps to provide them financial assistance. The program had been set to expire on Dec. 31, 2020, but was extended and now expires on March 14, 2021.2
+The [[Pandemic Unemployment Assistance]](https://www.investopedia.com/pandemic-unemployment-assistance-pua-definition-4802064) (PUA) expands UI eligibility to self-employed workers, freelancers, independent contractors, and part-time workers if they were impacted by the coronavirus pandemic in 2020 and 2021. Typically, self-employed workers might not qualify for UI, and the PUA helps to provide them financial assistance. The program had been set to expire on Dec. 31, 2020, but was extended and now expires on March 14, 2021.2
 
 ### Pandemic Emergency Unemployment Compensation (PEUC)
 
-The [Pandemic Emergency Unemployment Compensation](https://www.investopedia.com/pandemic-emergency-unemployment-compensation-peuc-definition-4802046) (PEUC) extends UI benefits for an extra 24 weeks after regular unemployment compensation benefits have been exhausted. The PEUC is for workers that have been affected by the 2020 and 2021 novel coronavirus pandemic.
+The [[Pandemic Emergency Unemployment Compensation]](https://www.investopedia.com/pandemic-emergency-unemployment-compensation-peuc-definition-4802046) (PEUC) extends UI benefits for an extra 24 weeks after regular unemployment compensation benefits have been exhausted. The PEUC is for workers that have been affected by the 2020 and 2021 novel coronavirus pandemic.
 
 Under the CARES Act, the PEUC benefits were due to expire on Dec. 31, 2020, but the program was extended to March 14, 2021. The number of weeks that an individual can claim PEUC benefits was increased from the original 13 weeks to 24 weeks, meaning 11 weeks were added. There are additional benefits that some qualified individuals but it's important to check with your state to determine your eligibility for federal benefits.2
 
 ### Lost Wages Assistance (LWA) Program
 
-The [Lost Wages Assistance](https://www.investopedia.com/lost-wages-assistance-lwa-program-definition-5076976#citation-1) (LWA) program is a federal-state unemployment benefit that [provides $300 to $400 in weekly compensation to eligible claimants](https://www.investopedia.com/how-to-get-your-extra-usd300-in-unemployment-benefits-5076898). The Federal government, through the Disaster Relief Fund (DRF), provides $300 per claimant per week, and states are asked to provide the remaining $100. LWA came into existence in response to the expiration of FPUC on July 31, 2020.6
+The [[Lost Wages Assistance]](https://www.investopedia.com/lost-wages-assistance-lwa-program-definition-5076976#citation-1) (LWA) program is a federal-state unemployment benefit that [provides $300 to $400 in weekly compensation to eligible claimants](https://www.investopedia.com/how-to-get-your-extra-usd300-in-unemployment-benefits-5076898). The Federal government, through the Disaster Relief Fund (DRF), provides $300 per claimant per week, and states are asked to provide the remaining $100. LWA came into existence in response to the expiration of FPUC on July 31, 2020.6
 
 If you have applied or are planning on applying for unemployment insurance under the Pandemic Unemployment Assistance (PUA) program, be sure to check with your state to determine when your last PUA payment will be issued.
 

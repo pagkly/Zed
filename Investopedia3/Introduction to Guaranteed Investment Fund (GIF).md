@@ -16,13 +16,13 @@ author: Julia Kagan
 Introduction to Guaranteed Investment Fund (GIF)
 ## What is Guaranteed Investment Income (GIF)?
 
-Guaranteed investment income is a type of [investment product](https://www.investopedia.com/terms/i/investment-product.asp) offered by insurance companies that allow clients to invest in equity, bond, and/or [index fund](https://www.investopedia.com/terms/i/indexfund.asp) while providing a promise of a predefined minimum value of the fund (usually, the initial investment amount) will be available at the fund's maturity or when the client dies.
+Guaranteed investment income is a type of [[investment product]](https://www.investopedia.com/terms/i/investment-product.asp) offered by insurance companies that allow clients to invest in equity, bond, and/or [index fund](https://www.investopedia.com/terms/i/indexfund.asp) while providing a promise of a predefined minimum value of the fund (usually, the initial investment amount) will be available at the fund's maturity or when the client dies.
 
 Insurance companies typically charge up to 1% of the investment amount per year for this service.
 
 ## How Guaranteed Investment Fund (GIF) Works
 
-Some guaranteed investment income funds also allow people to reset the guaranteed amount during specific periods of time. This allows investors to lock in greater sums if they incur a large [capital gain](https://www.investopedia.com/terms/c/capitalgain.asp).
+Some guaranteed investment income funds also allow people to reset the guaranteed amount during specific periods of time. This allows investors to lock in greater sums if they incur a large [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp).
 
 For example, suppose an investor near retirement age had invested $500,000 into this fund, and after an incredible bull run, their investment grows to $585,000 in a year. By resetting the guarantee at this point, the investor has now guaranteed that they will, at the very least, receive $585,000.
 

@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Money Factor Definition
 ## What Is the Money Factor?
 
-The money factor is a method for determining the financing charges on a lease with monthly payments. The money factor can be translated into the more common [annual percentage rate](https://www.investopedia.com/terms/a/apr.asp) (APR) by multiplying the money factor by 2,400.
+The money factor is a method for determining the financing charges on a lease with monthly payments. The money factor can be translated into the more common [[annual percentage rate]](https://www.investopedia.com/terms/a/apr.asp) (APR) by multiplying the money factor by 2,400.
 
 Money factor is also known as a "lease factor" or a "lease fee."
 
@@ -29,9 +29,9 @@ Money factor is also known as a "lease factor" or a "lease fee."
 
 ## How the Money Factor Is Used
 
-An individual who takes out a [lease](https://www.investopedia.com/terms/l/lease.asp) on a car pays for the amount by which the value of the vehicle depreciates during the time he is in possession of it. The monthly lease payments made on the car include [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), taxes, and [interest](https://www.investopedia.com/terms/i/interest.asp). If the car is expected to depreciate in value by $5,000 annually, this amount will be factored into the monthly payments. Sales taxes are charged on both depreciation and interest and are included in the monthly payments of the lessee.
+An individual who takes out a [[lease]](https://www.investopedia.com/terms/l/lease.asp) on a car pays for the amount by which the value of the vehicle depreciates during the time he is in possession of it. The monthly lease payments made on the car include [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), taxes, and [[interest]](https://www.investopedia.com/terms/i/interest.asp). If the car is expected to depreciate in value by $5,000 annually, this amount will be factored into the monthly payments. Sales taxes are charged on both depreciation and interest and are included in the monthly payments of the lessee.
 
-To determine the interest portion of monthly lease payments, a concept known as the money factor is used. In effect, it is the interest rate that is paid for the duration of a lease term. It is similar to the interest rate paid on a [loan](https://www.investopedia.com/terms/l/loan.asp), but the value is expressed differently. Unlike APR, which is expressed as a percentage, the money factor is expressed in a decimal format. Either way, the interest rate and money factor can be obtained by contacting the car dealer or checking with the credit union.
+To determine the interest portion of monthly lease payments, a concept known as the money factor is used. In effect, it is the interest rate that is paid for the duration of a lease term. It is similar to the interest rate paid on a [[loan]](https://www.investopedia.com/terms/l/loan.asp), but the value is expressed differently. Unlike APR, which is expressed as a percentage, the money factor is expressed in a decimal format. Either way, the interest rate and money factor can be obtained by contacting the car dealer or checking with the credit union.
 
 ### Important
 
@@ -49,7 +49,7 @@ The second method of calculating the money factor is using the lease charge. If 
 
 Money Factor\=Lease Charge(CC+RV)×LTwhere:Lease Charge\=sum of all a lessee’s monthly finance feesover entire term of the leaseCC\=capitalized cost–the agreed price for a leased vehicle,also known as lease priceRV\=residual value–value of car at end of leaseLT\=lease term–length of time car is leased, in months\\begin{aligned} &\\text{Money Factor} = \\frac{ \\text{Lease Charge} }{ ( \\text{CC} + \\text{RV} ) \\times \\text{LT} } \\\\ &\\textbf{where:} \\\\ &\\text{Lease Charge} = \\text{sum of all a lessee's monthly finance fees} \\\\ &\\text{over entire term of the lease} \\\\ &\\text{CC} = \\text{capitalized cost--the agreed price for a leased vehicle,} \\\\ &\\text{also known as lease price} \\\\ &\\text{RV} = \\text{residual value--value of car at end of lease} \\\\ &\\text{LT} = \\text{lease term--length of time car is leased, in months} \\\\ \\end{aligned}
 
-For example, a car has a sticker price of $32,500. A lessee and dealer negotiate and agree on a lower price of $30,000 for the leased car. The car is to be leased for four years (or 48 months), and has an estimated [residual value](https://www.investopedia.com/terms/r/residual-value.asp) of $15,000. The total monthly fees are $4,750. The monthly factor is, therefore:
+For example, a car has a sticker price of $32,500. A lessee and dealer negotiate and agree on a lower price of $30,000 for the leased car. The car is to be leased for four years (or 48 months), and has an estimated [[residual value]](https://www.investopedia.com/terms/r/residual-value.asp) of $15,000. The total monthly fees are $4,750. The monthly factor is, therefore:
 
 Money Factor\=$4,750($30,000+$15,000)×48Money Factor\=$4,750$2,160,000Money Factor\=$0.002199\\begin{aligned} &\\text{Money Factor} = \\frac{ \\$4,750 }{ ( \\$30,000 + \\$15,000 ) \\times 48 } \\\\ &\\phantom{\\text{Money Factor} } = \\frac{ \\$4,750 }{ \\$2,160,000 } \\\\ &\\phantom{\\text{Money Factor} } = \\$0.002199 \\\\ \\end{aligned}
 

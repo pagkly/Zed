@@ -16,7 +16,7 @@ author: James Chen
 What Is a Dividend Aristocrat?
 ## What Is a Dividend Aristocrat?
 
-A dividend aristocrat is a company that not only consistently pays a [dividend](https://www.investopedia.com/terms/d/dividend.asp) to shareholders but annually increases the size of its payout.
+A dividend aristocrat is a company that not only consistently pays a [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) to shareholders but annually increases the size of its payout.
 
 A company may be considered a dividend aristocrat if it raises its dividends consistently for at least the past 25 years. Some aficionados of dividend aristocrats rank them according to additional factors such as company size and liquidity.
 
@@ -28,9 +28,9 @@ A company may be considered a dividend aristocrat if it raises its dividends con
 
 ## Understanding the Dividend Aristocrat
 
-Companies that are able to maintain high [dividend yields](https://www.investopedia.com/terms/d/dividendyield.asp) are relatively rare, and their businesses are usually very stable. They tend to have products that are recession-proof, allowing them to keep taking in profits and paying dividends even while other companies are struggling.
+Companies that are able to maintain high [[dividend yields]](https://www.investopedia.com/terms/d/dividendyield.asp) are relatively rare, and their businesses are usually very stable. They tend to have products that are recession-proof, allowing them to keep taking in profits and paying dividends even while other companies are struggling.
 
-There are usually fewer than 100 dividend aristocrats at any given time. In 2020, just 64 dividend aristocrats were listed among the [Standard & Poor's 500](https://www.investopedia.com/terms/s/sp500.asp). They can be found in many sectors, including health care, retail, oil and gas, and construction.
+There are usually fewer than 100 dividend aristocrats at any given time. In 2020, just 64 dividend aristocrats were listed among the [[Standard & Poor's 500]](https://www.investopedia.com/terms/s/sp500.asp). They can be found in many sectors, including health care, retail, oil and gas, and construction.
 
 ### 47 years
 
@@ -55,8 +55,8 @@ Two ways to track the performance of these stocks include the S&P Dividend Arist
 
 ## Identifying Other Quality Dividend Payers
 
-In general, companies have dividend policies that fall into three categories: A stable dividend policy, a constant dividend policy, or a [residual dividend](https://www.investopedia.com/terms/r/residual-dividend.asp) policy.
+In general, companies have dividend policies that fall into three categories: A stable dividend policy, a constant dividend policy, or a [[residual dividend]](https://www.investopedia.com/terms/r/residual-dividend.asp) policy.
 
 -   If a company has a stable dividend policy, the shareholder can expect steady and predictable dividend payouts every year, regardless of fluctuations in the company's earnings.
 -   If it has a constant dividend policy, the company pays a percentage of its profits to shareholders every year, so investors experience the full volatility of company earnings.
--   If it has a residual dividend policy, the company pays out in dividends whatever money remains after it has taken care of its [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) and working capital.
+-   If it has a residual dividend policy, the company pays out in dividends whatever money remains after it has taken care of its [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) and working capital.

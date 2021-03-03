@@ -29,7 +29,7 @@ When natural selection is applied conceptually in the field of finance, the assu
 
 ## Understanding Natural Selection
 
-One of the most well-known examples of natural selection in the field of biology is that of the English peppered moth. Although the English peppered moth has always existed in a variety of colors, until the [Industrial Revolution](https://www.investopedia.com/terms/i/industrial-revolution.asp) in England, the light gray, spotted variety was the most abundant. That's because these moths could easily camouflage against the background of a lichen of a similar color that grew abundantly in their environment. Conversely, dark-winged versions of the moths were easy targets for birds and other predators.1
+One of the most well-known examples of natural selection in the field of biology is that of the English peppered moth. Although the English peppered moth has always existed in a variety of colors, until the [[Industrial Revolution]](https://www.investopedia.com/terms/i/industrial-revolution.asp) in England, the light gray, spotted variety was the most abundant. That's because these moths could easily camouflage against the background of a lichen of a similar color that grew abundantly in their environment. Conversely, dark-winged versions of the moths were easy targets for birds and other predators.1
 
 The Industrial Revolution, which occurred between approximately 1760 and 1840, produced massive amounts of air pollution. This air pollution killed some of the lichen-covering of rocks in the moths' environment. At the same time, some lighter-colored buildings turned black from air pollution. As a result, the lighter gray-colored moths could no longer blend in with their surroundings as easily and were more readily spotted by predators, which led to their near-extinction. The dark-winged variety was now better-camouflaged and ended up surviving in greater numbers than the light-winged variation of the moth.1
 
@@ -39,7 +39,7 @@ Natural selection is a dynamic and ongoing process. While the ability to adapt t
 
 ## Example of Natural Selection
 
-During the credit crisis of 2008, several brokerage firms suffered a similar fate of bankruptcy. As a result of this dramatic deterioration in the financial landscape, [Bear Stearns](https://www.investopedia.com/articles/07/bear-stearns-collapse.asp) (founded in 1923), [Merrill Lynch](https://www.investopedia.com/terms/m/merrilllynch.asp) (founded in 1914), and [Lehman Brothers](https://www.investopedia.com/terms/l/lehman-brothers.asp) (founded in 1850) were all unable to retain the independence they had experienced for decades. They were all either acquired by larger banks (Bear Stearns by JPMorgan Chase,2 and Merrill Lynch by Bank of America)3 or forced into bankruptcy (Lehman Brothers).4
+During the credit crisis of 2008, several brokerage firms suffered a similar fate of bankruptcy. As a result of this dramatic deterioration in the financial landscape, [[Bear Stearns]](https://www.investopedia.com/articles/07/bear-stearns-collapse.asp) (founded in 1923), [[Merrill Lynch]](https://www.investopedia.com/terms/m/merrilllynch.asp) (founded in 1914), and [[Lehman Brothers]](https://www.investopedia.com/terms/l/lehman-brothers.asp) (founded in 1850) were all unable to retain the independence they had experienced for decades. They were all either acquired by larger banks (Bear Stearns by JPMorgan Chase,2 and Merrill Lynch by Bank of America)3 or forced into bankruptcy (Lehman Brothers).4
 
 ## The Bottom Line
 

@@ -16,7 +16,7 @@ author: Will Kenton
 Hull-White Model
 ## What Is the Hull-White Model?
 
-The Hull-White model is a single-factor interest model used to price [derivatives](https://www.investopedia.com/terms/d/derivative.asp). The Hull-White model assumes that short rates have a normal distribution and that the short rates are subject to mean reversion. Volatility is likely to be low when short rates are near zero, which is reflected in a larger mean reversion in the model. The Hull-White model extends the [Vasicek Model](https://www.investopedia.com/terms/v/vasicek-model.asp) and [Cox-Ingersoll-Ross (CIR)](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp) model.
+The Hull-White model is a single-factor interest model used to price [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp). The Hull-White model assumes that short rates have a normal distribution and that the short rates are subject to mean reversion. Volatility is likely to be low when short rates are near zero, which is reflected in a larger mean reversion in the model. The Hull-White model extends the [[Vasicek Model]](https://www.investopedia.com/terms/v/vasicek-model.asp) and [[Cox-Ingersoll-Ross (CIR)]](https://www.investopedia.com/terms/c/cox-ingersoll-ross-model.asp) model.
 
 ## The Hull-White Model Explained
 

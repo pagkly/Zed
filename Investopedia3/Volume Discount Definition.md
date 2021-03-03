@@ -16,7 +16,7 @@ author: Julia Kagan
 Volume Discount Definition
 ## What Is a Volume Discount?
 
-A volume discount is an economic incentive to encourage individuals or businesses to purchase goods in multiple units or in large quantities. The seller or manufacturer rewards those buying in bulk by providing a reduced price for each good or group of goods. Volume discounts allow businesses to purchase additional [inventory](https://www.investopedia.com/terms/i/inventory.asp) at reduced cost and allow sellers or manufacturers to reduce inventories by selling more units to bulk buyers who are incentivized by the lower price.
+A volume discount is an economic incentive to encourage individuals or businesses to purchase goods in multiple units or in large quantities. The seller or manufacturer rewards those buying in bulk by providing a reduced price for each good or group of goods. Volume discounts allow businesses to purchase additional [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) at reduced cost and allow sellers or manufacturers to reduce inventories by selling more units to bulk buyers who are incentivized by the lower price.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A volume discount is an economic incentive to encourage individuals or businesse
 
 Volume discounts allow buyers to purchase goods at a discounted rate. These savings are often passed on to consumers. For example, Walmart is able to purchase such large quantities of each particular good that it routinely receives volume discounts from its [vendors](https://www.investopedia.com/terms/v/vendor.asp). Walmart's customers, in turn, are able to purchase these goods for less money than if they went to a store that did not buy in such great volume.
 
-In financial markets, some brokerage firms offer volume discounts on commissions charged depending on the level of investment or trading activity or for large [block order](https://www.investopedia.com/terms/b/blockorder.asp) trades.
+In financial markets, some brokerage firms offer volume discounts on commissions charged depending on the level of investment or trading activity or for large [[block order]](https://www.investopedia.com/terms/b/blockorder.asp) trades.
 
 ## How Volume Discounts Work
 

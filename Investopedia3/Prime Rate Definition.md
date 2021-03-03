@@ -26,7 +26,7 @@ The prime rate is the interest rate that commercial banks charge their most cred
 
 ## Understanding the Prime Rate
 
-The prime rate (prime) is the interest rate that commercial banks charge their most creditworthy customers, generally large corporations. The prime interest rate, or prime lending rate, is largely determined by the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp), which is the overnight rate that banks use to lend to one another. Prime forms the basis of or starting point for most other interest rates—including rates for mortgages, small business loans, or personal loans—even though prime might not be specifically cited as a component of the rate ultimately charged.
+The prime rate (prime) is the interest rate that commercial banks charge their most creditworthy customers, generally large corporations. The prime interest rate, or prime lending rate, is largely determined by the [[federal funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp), which is the overnight rate that banks use to lend to one another. Prime forms the basis of or starting point for most other interest rates—including rates for mortgages, small business loans, or personal loans—even though prime might not be specifically cited as a component of the rate ultimately charged.
 
 Interest rates provide a way to cover costs associated with lending and they act as compensation for the risk assumed by the lender based on the borrower’s credit history and other financial details.
 
@@ -36,7 +36,7 @@ Prime—plus a percentage—forms the underlying base of almost all other intere
 
 Default risk is the main determiner of the interest rate that a bank charges a borrower. Because a bank's best customers have little chance of defaulting, the bank can charge them a rate that is lower than the rate they charge a customer who has a greater likelihood of defaulting on a loan.
 
-Each bank sets its own interest rate, so there is no single prime rate. Any quoted prime rate is usually an average of the largest banks' prime rates. The most important and most used prime rate is the one that the _Wall Street Journal_ publishes daily. Although other U.S. financial services institutions regularly note any changes that the [Federal Reserve (the Fed)](https://www.investopedia.com/terms/f/federalreservebank.asp) makes to its prime rate, and may use them to justify changes to their own prime rates, institutions are not required to raise their prime rates in accordance with the Fed's.
+Each bank sets its own interest rate, so there is no single prime rate. Any quoted prime rate is usually an average of the largest banks' prime rates. The most important and most used prime rate is the one that the _Wall Street Journal_ publishes daily. Although other U.S. financial services institutions regularly note any changes that the [[Federal Reserve (the Fed)]](https://www.investopedia.com/terms/f/federalreservebank.asp) makes to its prime rate, and may use them to justify changes to their own prime rates, institutions are not required to raise their prime rates in accordance with the Fed's.
 
 ## Prime Rates and Variable Interest Rates
 
@@ -46,4 +46,4 @@ In the case of variable interest rates, such as those used on certain credit car
 
 Generally, the prime rate is reserved for only the most qualified customers—those who pose the least amount of default risk. Prime rates may not be available to individual borrowers as often as to larger entities, such as corporations and particularly stable businesses.
 
-Even if the prime rate is set at a particular percentage, say 5%, a lender still may offer rates below 5% to well-qualified customers. The prime rate is used as a [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) only, and though it is likely to be the lowest announced rate available, it should not be considered as a mandatory minimum.
+Even if the prime rate is set at a particular percentage, say 5%, a lender still may offer rates below 5% to well-qualified customers. The prime rate is used as a [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) only, and though it is likely to be the lowest announced rate available, it should not be considered as a mandatory minimum.

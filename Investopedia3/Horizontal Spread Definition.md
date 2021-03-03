@@ -16,7 +16,7 @@ author: James Chen
 Horizontal Spread Definition
 ## What is a Horizontal Spread?
 
-A horizontal spread (more commonly known as a [calendar spread](https://www.investopedia.com/terms/c/calendarspread.asp)) is an options or futures strategy created with simultaneous long and short positions in the derivative on the same underlying asset and the same strike price, but with different expiration months. The goal is usually to profit from changes in volatility over time or exploit fluctuation in pricing from short-term events. The spread can also be used as a method for creating significant leverage with limited risk.
+A horizontal spread (more commonly known as a [[calendar spread]](https://www.investopedia.com/terms/c/calendarspread.asp)) is an options or futures strategy created with simultaneous long and short positions in the derivative on the same underlying asset and the same strike price, but with different expiration months. The goal is usually to profit from changes in volatility over time or exploit fluctuation in pricing from short-term events. The spread can also be used as a method for creating significant leverage with limited risk.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ In options markets this distinction is important because the time value of each 
 
 In futures markets, where time value is not a specific factor in the pricing, the difference in price represents the expectations of change in pricing that market participants think is likely to occur between the two differing expiration dates.
 
-While horizontal or calendar spreads, are widely used in the futures market, much of the analysis is focused on the options market where [volatility](https://www.investopedia.com/terms/v/volatility.asp) changes are crucial to pricing. Because volatility and time value are tightly connected in options pricing, this kind of spread minimizes the effect of time and produces a greater opportunity to profit from increases in volatility over the time of the trade. Short spreads can be created by reversing the configuration (buy the contract with nearer expiration and sell the contract with a more distant expiration). This variation seeks to profit from decreases in volatility.
+While horizontal or calendar spreads, are widely used in the futures market, much of the analysis is focused on the options market where [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) changes are crucial to pricing. Because volatility and time value are tightly connected in options pricing, this kind of spread minimizes the effect of time and produces a greater opportunity to profit from increases in volatility over the time of the trade. Short spreads can be created by reversing the configuration (buy the contract with nearer expiration and sell the contract with a more distant expiration). This variation seeks to profit from decreases in volatility.
 
-The long trade takes advantage of how near- and long-dated options act when time and volatility change. An increase in implied volatility, all other things reduced in importance, would have a positive impact on this strategy because longer-term options are more sensitive to changes in volatility (higher [vega](https://www.investopedia.com/terms/v/vega.asp)). The caveat is that the two options can and probably will trade at different implied volatility measures, but it is rare that the movement of volatility and the effect on the price of the horizontal option spread act different from what would be expected.
+The long trade takes advantage of how near- and long-dated options act when time and volatility change. An increase in implied volatility, all other things reduced in importance, would have a positive impact on this strategy because longer-term options are more sensitive to changes in volatility (higher [[vega]](https://www.investopedia.com/terms/v/vega.asp)). The caveat is that the two options can and probably will trade at different implied volatility measures, but it is rare that the movement of volatility and the effect on the price of the horizontal option spread act different from what would be expected.
 
 ## Example of a Calendar Spread with Stock Options
 
@@ -45,7 +45,7 @@ With Exxon Mobil stock trading at $89.05 in mid-January, 2018:
 
 Net cost (debit) $1.25 ($125 for one contract)
 
-Since this is a [debit spread](https://www.investopedia.com/terms/d/debitspread.asp), the maximum loss is the amount paid for the strategy. The option sold is closer to expiration and therefore has a lower price than the option bought, yielding a net debit or cost. In this scenario, the trader is hoping to capture an increase of value associated with a rising price (up to but not beyond $95) between purchase and February expiration.
+Since this is a [[debit spread]](https://www.investopedia.com/terms/d/debitspread.asp), the maximum loss is the amount paid for the strategy. The option sold is closer to expiration and therefore has a lower price than the option bought, yielding a net debit or cost. In this scenario, the trader is hoping to capture an increase of value associated with a rising price (up to but not beyond $95) between purchase and February expiration.
 
 The ideal market move for profit would be for the price to become more volatile in the near term, but to generally rise, closing just below 95 as of the February expiration. This allows the February option contract to expire worthless, and still allow the trader to profit from upward moves up until the March expiration.
 

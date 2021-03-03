@@ -20,7 +20,7 @@ A nonforfeiture (sometimes hyphenated) clause is an insurance policy clause stip
 
 ## How a Nonforfeiture Clause Works
 
-When the owner of [whole-life insurance](https://www.investopedia.com/terms/w/wholelife.asp) policy opts to surrender the policy, nonforfeiture options become available. The insurance company guarantees a minimum cash value for the insurance policy after a specific period—typically three years from when placed in force.
+When the owner of [[whole-life insurance]](https://www.investopedia.com/terms/w/wholelife.asp) policy opts to surrender the policy, nonforfeiture options become available. The insurance company guarantees a minimum cash value for the insurance policy after a specific period—typically three years from when placed in force.
 
 ### Key Takeaways
 
@@ -45,7 +45,7 @@ If the policyholder does not make a selection, the terms of the policy will gene
 
 After surrendering a whole-life insurance policy, the death benefit no longer exists. Before issuing payment to the policy owner, outstanding loan amounts are satisfied with the cash value.
 
-Select companies offer an [annuity](https://www.investopedia.com/terms/a/annuity.asp) option in the nonforfeiture clause, as well. The remaining cash value may be used to purchase an annuity free of commissions or expenses. Annuities pay regular payments as outlined in the contract.
+Select companies offer an [[annuity]](https://www.investopedia.com/terms/a/annuity.asp) option in the nonforfeiture clause, as well. The remaining cash value may be used to purchase an annuity free of commissions or expenses. Annuities pay regular payments as outlined in the contract.
 
 ### Cash Surrender Value
 

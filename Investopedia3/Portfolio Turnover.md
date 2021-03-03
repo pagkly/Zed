@@ -16,7 +16,7 @@ author: James Chen
 Portfolio Turnover
 ## What Is Portfolio Turnover?
 
-Portfolio turnover is a measure of how frequently assets within a fund are bought and sold by the managers. Portfolio turnover is calculated by taking either the total amount of new securities purchased or the number of securities sold (whichever is less) over a particular period, divided by the total [net asset value](https://www.investopedia.com/terms/n/nav.asp) (NAV) of the fund. The measurement is usually reported for a 12-month time period.
+Portfolio turnover is a measure of how frequently assets within a fund are bought and sold by the managers. Portfolio turnover is calculated by taking either the total amount of new securities purchased or the number of securities sold (whichever is less) over a particular period, divided by the total [[net asset value]](https://www.investopedia.com/terms/n/nav.asp) (NAV) of the fund. The measurement is usually reported for a 12-month time period.
 
 ### Key Takeaways
 
@@ -30,9 +30,9 @@ Portfolio turnover is a measure of how frequently assets within a fund are bough
 
 ## Understanding Portfolio Turnover
 
-The portfolio turnover measurement should be [considered by an investor](https://www.investopedia.com/ask/answers/051915/how-should-i-use-portfolio-turnover-evaluate-mutual-fund.asp) before deciding to purchase a given [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or similar financial instrument. After all, a firm with a high turnover rate will incur more [transaction costs](https://www.investopedia.com/terms/t/transactioncosts.asp) than a fund with a lower rate. Unless the superior asset selection renders benefits that offset the added transaction costs they cause, a less [active trading](https://www.investopedia.com/terms/a/active-trading.asp) posture may generate higher fund returns.
+The portfolio turnover measurement should be [[considered by an investor]](https://www.investopedia.com/ask/answers/051915/how-should-i-use-portfolio-turnover-evaluate-mutual-fund.asp) before deciding to purchase a given [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) or similar financial instrument. After all, a firm with a high turnover rate will incur more [[transaction costs]](https://www.investopedia.com/terms/t/transactioncosts.asp) than a fund with a lower rate. Unless the superior asset selection renders benefits that offset the added transaction costs they cause, a less [[active trading]](https://www.investopedia.com/terms/a/active-trading.asp) posture may generate higher fund returns.
 
-In addition, cost-conscious fund investors should take note that the transactional [brokerage fee](https://www.investopedia.com/terms/b/brokerage-fee.asp) costs are not included in the calculation of a fund's [operating expense ratio](https://www.investopedia.com/terms/o/operating-expense-ratio.asp) and thus represent what can be, in high-turnover portfolios, a significant additional expense that reduces investment return.
+In addition, cost-conscious fund investors should take note that the transactional [[brokerage fee]](https://www.investopedia.com/terms/b/brokerage-fee.asp) costs are not included in the calculation of a fund's [[operating expense ratio]](https://www.investopedia.com/terms/o/operating-expense-ratio.asp) and thus represent what can be, in high-turnover portfolios, a significant additional expense that reduces investment return.
 
 ### 100%
 
@@ -40,9 +40,9 @@ The turnover rate a very actively-managed fund might generate, reflecting the fa
 
 ## Managed Funds vs. Unmanaged Funds
 
-The debate continues between advocates of unmanaged funds such as index funds and managed funds. A 2015 Morningstar study revealed that index funds outperformed large-company growth funds about 68% of the time in the 10-year period ending Dec. 31, 2014. Unmanaged funds traditionally have low portfolio turnover. Funds such as the $410.4 billion Vanguard 500 Index fund mirror the holdings of the S&P 500 in which components infrequently are removed. The fund turns over at an annual rate of 3.1%, helping to keep [expense ratios](https://www.investopedia.com/terms/e/expenseratio.asp) low as the result of minimal trading and transaction fees.
+The debate continues between advocates of unmanaged funds such as index funds and managed funds. A 2015 Morningstar study revealed that index funds outperformed large-company growth funds about 68% of the time in the 10-year period ending Dec. 31, 2014. Unmanaged funds traditionally have low portfolio turnover. Funds such as the $410.4 billion Vanguard 500 Index fund mirror the holdings of the S&P 500 in which components infrequently are removed. The fund turns over at an annual rate of 3.1%, helping to keep [[expense ratios]](https://www.investopedia.com/terms/e/expenseratio.asp) low as the result of minimal trading and transaction fees.
 
-While some investors avoid high-cost funds at all costs, by doing so, there exists the possibility that an individual may miss out on superior returns that consistently outperform index funds. Seasoned fund managers that have consistently beat the [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) S&P 500 include 85-year old Ab Nicholas. The fund’s turnover rate averaged in the 19.47% range in the year ending Sept. 30, 2017. Despite increased buying and selling, the fund outpaced the S&P 500 in each year from 2008 through 2015.
+While some investors avoid high-cost funds at all costs, by doing so, there exists the possibility that an individual may miss out on superior returns that consistently outperform index funds. Seasoned fund managers that have consistently beat the [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) S&P 500 include 85-year old Ab Nicholas. The fund’s turnover rate averaged in the 19.47% range in the year ending Sept. 30, 2017. Despite increased buying and selling, the fund outpaced the S&P 500 in each year from 2008 through 2015.
 
 Portfolio turnover is determined by taking what the fund has sold or bought—whichever number is higher—and dividing it by the fund's average monthly assets for the year.
 
@@ -50,7 +50,7 @@ Portfolio turnover is determined by taking what the fund has sold or bought—wh
 
 Portfolios that turn over at high rates generate large capital gains distributions. Investors focused on after-tax returns may be adversely affected by taxes levied against realized gains. Consider an investor that continually pays an annual tax rate of 30% on distributions made from a mutual fund earning 10% per year. The individual is foregoing investment dollars that could be retained from participation in low transactional funds with a low turnover rate. An investor in an unmanaged fund that sees an identical 10% annual return does so largely from unrealized appreciation.
 
-Index funds should not have a [turnover rate](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) of higher than 20% to 30% since securities should only be added or removed from the fund when the underlying index makes a change in its holdings; a rate higher than 30% suggests the fund is poorly managed.
+Index funds should not have a [[turnover rate]](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) of higher than 20% to 30% since securities should only be added or removed from the fund when the underlying index makes a change in its holdings; a rate higher than 30% suggests the fund is poorly managed.
 
 ## Example of Portfolio Turnover
 

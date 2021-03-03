@@ -16,7 +16,7 @@ author: Daniel Liberto
 The Wealth Effect Definition
 ## What is The Wealth Effect?
 
-The wealth effect is a [behavioral economic](https://www.investopedia.com/terms/b/behavioraleconomics.asp) theory suggesting that people spend more as the value of their [assets](https://www.investopedia.com/terms/a/asset.asp) rise. The idea is that consumers feel more financially secure and confident about their wealth when their homes or investment [portfolios](https://www.investopedia.com/terms/p/portfolio.asp) increase in value. They are made to feel richer, even if their income and [fixed costs](https://www.investopedia.com/terms/f/fixedcost.asp) are the same as before.
+The wealth effect is a [[behavioral economic]](https://www.investopedia.com/terms/b/behavioraleconomics.asp) theory suggesting that people spend more as the value of their [[assets]](https://www.investopedia.com/terms/a/asset.asp) rise. The idea is that consumers feel more financially secure and confident about their wealth when their homes or investment [[portfolios]](https://www.investopedia.com/terms/p/portfolio.asp) increase in value. They are made to feel richer, even if their income and [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp) are the same as before.
 
 ### Key Takeaways
 
@@ -26,29 +26,29 @@ The wealth effect is a [behavioral economic](https://www.investopedia.com/terms/
 
 ## How The Wealth Effect Works
 
-The wealth effect reflects the psychological effect that rising asset values, such as those that occur during a [bull market](https://www.investopedia.com/terms/b/bullmarket.asp), have on [consumer spending](https://www.investopedia.com/terms/c/consumer-spending.asp) behavior. The concept hones in on how the feelings of security, referred to as [consumer confidence](https://www.investopedia.com/articles/fundamental/103002.asp), are strengthened by sizable increases in the value of investment portfolios. Extra confidence contributes to higher levels of spending and lower levels of saving.
+The wealth effect reflects the psychological effect that rising asset values, such as those that occur during a [[bull market]](https://www.investopedia.com/terms/b/bullmarket.asp), have on [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) behavior. The concept hones in on how the feelings of security, referred to as [[consumer confidence]](https://www.investopedia.com/articles/fundamental/103002.asp), are strengthened by sizable increases in the value of investment portfolios. Extra confidence contributes to higher levels of spending and lower levels of saving.
 
-This theory can also be applied to businesses. Companies tend to increase their hiring levels and [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CapEx) in response to rising asset values, in a similar fashion to that observed on the consumer side.
+This theory can also be applied to businesses. Companies tend to increase their hiring levels and [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CapEx) in response to rising asset values, in a similar fashion to that observed on the consumer side.
 
-What this means is [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) should strengthen during bull markets—and erode in [bear markets](https://www.investopedia.com/video/play/bear-market/).
+What this means is [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) should strengthen during bull markets—and erode in [[bear markets]](https://www.investopedia.com/video/play/bear-market/).
 
 ## Special Considerations
 
-At first glance, the notion that the wealth effect spurs personal consumption makes sense. It is reasonable to assume that anyone sitting on huge gains from a house or stock portfolio would be more inclined to splash out on an expensive holiday, new car, or other [discretionary items](https://www.investopedia.com/terms/d/discretionary-expense.asp).
+At first glance, the notion that the wealth effect spurs personal consumption makes sense. It is reasonable to assume that anyone sitting on huge gains from a house or stock portfolio would be more inclined to splash out on an expensive holiday, new car, or other [[discretionary items]](https://www.investopedia.com/terms/d/discretionary-expense.asp).
 
-Nevertheless, critics claim that increasing asset wealth should have a much smaller impact on consumer spending than other factors, such as tax, household expenses, and employment trends. Why? Because a gain in the value of an investor’s portfolio does not actually equate to higher [disposable income](https://www.investopedia.com/terms/d/disposableincome.asp).
+Nevertheless, critics claim that increasing asset wealth should have a much smaller impact on consumer spending than other factors, such as tax, household expenses, and employment trends. Why? Because a gain in the value of an investor’s portfolio does not actually equate to higher [[disposable income]](https://www.investopedia.com/terms/d/disposableincome.asp).
 
-Initially, [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) gains must be considered [unrealized](https://www.investopedia.com/terms/u/unrealizedgain.asp). An unrealized gain is a profit that exists on paper, but that has yet to be sold in return for cash. The same applies to rocketing property prices.
+Initially, [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) gains must be considered [[unrealized]](https://www.investopedia.com/terms/u/unrealizedgain.asp). An unrealized gain is a profit that exists on paper, but that has yet to be sold in return for cash. The same applies to rocketing property prices.
 
 ## Example of The Wealth Effect
 
-Proponents of the wealth effect can point to several occasions when significant [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) and [tax](https://www.investopedia.com/terms/t/taxrate.asp) increases during bull markets failed to put the brakes on consumer spending. Events in 1968 offer a good example.
+Proponents of the wealth effect can point to several occasions when significant [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) and [[tax]](https://www.investopedia.com/terms/t/taxrate.asp) increases during bull markets failed to put the brakes on consumer spending. Events in 1968 offer a good example.
 
 Taxes were hiked by 10%, yet people continued to spend more. Even though disposable income declined because of the additional tax burden, wealth continued to grow as the stock market persistently climbed higher.
 
 ## Criticism of The Wealth Effect
 
-Still, there is considerable debate among market pundits about whether or not the wealth effect truly exists, especially within the context of the stock market. Some believe the effect has more to do with [correlation](https://www.investopedia.com/terms/c/correlation.asp) and not causation, proposing that increased spending leads to asset appreciation, not the other way around.
+Still, there is considerable debate among market pundits about whether or not the wealth effect truly exists, especially within the context of the stock market. Some believe the effect has more to do with [[correlation]](https://www.investopedia.com/terms/c/correlation.asp) and not causation, proposing that increased spending leads to asset appreciation, not the other way around.
 
 ## Housing vs. Stock Market Wealth Effect 
 

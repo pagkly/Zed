@@ -28,13 +28,13 @@ Factors of production are the inputs needed for the creation of a good or servic
 
 The modern definition of factors of production is primarily derived from a neoclassical view of economics. It amalgamates past approaches to economic theory, such as the concept of labor as a factor of production from socialism, into a single definition. 
 
-Land, labor, and capital as factors of production were originally identified by the early political [economists](https://www.investopedia.com/articles/07/economists.asp) such as Adam Smith, David Ricardo, and Karl Marx. Today, capital and labor remain the two primary inputs for the productive processes and the generation of profits by a business. Production, such as in manufacturing, can be tracked by certain indexes, including the [ISM Manufacturing Index](https://www.investopedia.com/terms/i/ism-mfg.asp).
+Land, labor, and capital as factors of production were originally identified by the early political [[economists]](https://www.investopedia.com/articles/07/economists.asp) such as Adam Smith, David Ricardo, and Karl Marx. Today, capital and labor remain the two primary inputs for the productive processes and the generation of profits by a business. Production, such as in manufacturing, can be tracked by certain indexes, including the [[ISM Manufacturing Index]](https://www.investopedia.com/terms/i/ism-mfg.asp).
 
 Image by Sabrina Jiang © Investopedia 2020
 
 ### Land as a Factor
 
-Land has a broad definition as a factor of production and can take on various forms, from agricultural land to commercial real estate to the resources available from a particular piece of land. Natural resources, such as oil and gold, can be extracted and refined for human consumption from the land. Cultivation of crops on land by farmers increases its value and utility. For a group of early French economists called the physiocrats who pre-dated the [classical political economists](https://www.investopedia.com/terms/c/classicaleconomics.asp), the land was responsible for generating economic value.
+Land has a broad definition as a factor of production and can take on various forms, from agricultural land to commercial real estate to the resources available from a particular piece of land. Natural resources, such as oil and gold, can be extracted and refined for human consumption from the land. Cultivation of crops on land by farmers increases its value and utility. For a group of early French economists called the physiocrats who pre-dated the [[classical political economists]](https://www.investopedia.com/terms/c/classicaleconomics.asp), the land was responsible for generating economic value.
 
 While the land is an essential component of most ventures, its importance can diminish or increase based on industry. For example, a technology company can easily begin operations with zero investment in land. On the other hand, the land is the most significant investment for a real estate venture.
 
@@ -42,9 +42,9 @@ While the land is an essential component of most ventures, its importance can di
 
 Labor refers to the effort expended by an individual to bring a product or service to the market. Again, it can take on various forms. For example, the construction worker at a hotel site is part of labor as is the waiter who serves guests or the receptionist who enrolls them into the hotel.
 
-Within the [software industry](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp), labor refers to the work done by project managers and developers in building the final product. Even an artist involved in making art, whether it is a painting or a symphony, is considered labor.
+Within the [[software industry]](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp), labor refers to the work done by project managers and developers in building the final product. Even an artist involved in making art, whether it is a painting or a symphony, is considered labor.
 
-For the early political economists, [labor](https://www.investopedia.com/terms/l/labor-theory-of-value.asp) was the primary driver of economic value. Production workers are paid for their time and effort in wages that depend on their skill and training. Labor by an uneducated and untrained worker is typically paid at low prices. Skilled and trained workers are referred to as human capital and are paid higher wages because they bring more than their physical capacity to the task. For example, an accountant’s job requires synthesis and analysis of financial data for a company. Countries that are rich in human capital experience increased productivity and efficiency.
+For the early political economists, [[labor]](https://www.investopedia.com/terms/l/labor-theory-of-value.asp) was the primary driver of economic value. Production workers are paid for their time and effort in wages that depend on their skill and training. Labor by an uneducated and untrained worker is typically paid at low prices. Skilled and trained workers are referred to as human capital and are paid higher wages because they bring more than their physical capacity to the task. For example, an accountant’s job requires synthesis and analysis of financial data for a company. Countries that are rich in human capital experience increased productivity and efficiency.
 
 The difference in skill levels and terminology also helps companies and entrepreneurs arbitrage corresponding disparities in pay scales. This can result in a transformation of factors of production for entire industries. An example of this is the change in production processes in the Information Technology (IT) industry after jobs were outsourced to countries with a trained workforce and significantly lower salaries.   
 
@@ -84,7 +84,7 @@ While it is not directly listed as a factor, technology plays an important role 
 
 Increasingly, technology is responsible for the difference in efficiency between firms. To that end, technology, like money, is a facilitator of the factors of production. The introduction of technology into a labor or capital process makes it more efficient. For example, the use of robots in manufacturing has the potential to improve productivity and output. Similarly, the use of kiosks in self-serve restaurants can help firms cut back on their labor costs.
 
-Typically, [Solow Residual](https://www.investopedia.com/terms/s/solow-residual.asp) or Total Factor Productivity (TFP), which measures the residual output that remains unaccounted for from the four factors of production, increases when technological processes or equipment are applied to production. Economists consider TFP to be the main factor driving economic growth for a country. The more a firm or country’s total factor productivity, the more its growth.
+Typically, [[Solow Residual]](https://www.investopedia.com/terms/s/solow-residual.asp) or Total Factor Productivity (TFP), which measures the residual output that remains unaccounted for from the four factors of production, increases when technological processes or equipment are applied to production. Economists consider TFP to be the main factor driving economic growth for a country. The more a firm or country’s total factor productivity, the more its growth.
 
 ## Frequently Asked Questions
 

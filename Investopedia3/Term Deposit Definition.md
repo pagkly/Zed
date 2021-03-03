@@ -16,11 +16,11 @@ author: James Chen
 Term Deposit Definition
 ## What Is a Term Deposit?
 
-A term deposit is a fixed-term investment that includes the [deposit of money](https://www.investopedia.com/terms/d/deposit.asp) into an account at a financial institution. Term deposit investments usually carry short-term maturities ranging from one month to a few years and will have varying levels of required minimum deposits.
+A term deposit is a fixed-term investment that includes the [[deposit of money]](https://www.investopedia.com/terms/d/deposit.asp) into an account at a financial institution. Term deposit investments usually carry short-term maturities ranging from one month to a few years and will have varying levels of required minimum deposits.
 
 The investor must understand when buying a term deposit that they can withdraw their funds only after the term ends. In some cases, the account holder may allow the investor early termination—or withdrawal—if they give several days notification. Also, there will be a penalty assessed for early termination.
 
-Examples of term deposits include [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs) and [time deposits](https://www.investopedia.com/terms/t/timedeposit.asp).
+Examples of term deposits include [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs) and [[time deposits]](https://www.investopedia.com/terms/t/timedeposit.asp).
 
 ### Key Takeaways
 
@@ -36,13 +36,13 @@ To overcome this problem, banks offer term deposit accounts. A customer will dep
 
 The interest earned on a term deposit account is slightly higher than that paid on standard savings or interest-bearing checking accounts. The increased rate is because access to the money is limited for the timeframe of the term deposit.
 
-Term deposits are an extremely safe investment and are therefore very appealing to conservative, low-risk investors. The financial instruments are sold by banks, thrift institutions, and [credit unions](https://www.investopedia.com/terms/c/creditunion.asp). Term deposits sold by banks are insured by the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic-insured-account.asp) (FDIC). The [National Credit Union Administration](https://www.investopedia.com/terms/n/ncua.asp) (NCUA) provides coverage for those sold by credit unions.
+Term deposits are an extremely safe investment and are therefore very appealing to conservative, low-risk investors. The financial instruments are sold by banks, thrift institutions, and [credit unions](https://www.investopedia.com/terms/c/creditunion.asp). Term deposits sold by banks are insured by the [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic-insured-account.asp) (FDIC). The [[National Credit Union Administration]](https://www.investopedia.com/terms/n/ncua.asp) (NCUA) provides coverage for those sold by credit unions.
 
 ## How a Bank Uses a Term Deposit
 
-If a customer places money in a term deposit, the bank can invest the money in other financial products that pay a higher [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) than what the bank is paying the customer for the use of their funds. The bank can also lend the money out to its other clients, thereby receiving a higher interest rate from the borrowers as compared to what the bank is paying in interest for the term deposit.
+If a customer places money in a term deposit, the bank can invest the money in other financial products that pay a higher [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) than what the bank is paying the customer for the use of their funds. The bank can also lend the money out to its other clients, thereby receiving a higher interest rate from the borrowers as compared to what the bank is paying in interest for the term deposit.
 
-For example, a lender may offer a 2% rate for term deposits with a two-year maturity. The funds deposited are then structured as loans to borrowers who are charged 7% in interest on those notes. This difference in rates means that the bank makes a net 5% return. The spread between the rate the bank pays its customers for deposits and the rate it charges its borrowers is called [net interest margin](https://www.investopedia.com/ask/answers/061715/what-net-interest-margin-typical-bank.asp). Net interest margin is a profitability metric for banks.
+For example, a lender may offer a 2% rate for term deposits with a two-year maturity. The funds deposited are then structured as loans to borrowers who are charged 7% in interest on those notes. This difference in rates means that the bank makes a net 5% return. The spread between the rate the bank pays its customers for deposits and the rate it charges its borrowers is called [[net interest margin]](https://www.investopedia.com/ask/answers/061715/what-net-interest-margin-typical-bank.asp). Net interest margin is a profitability metric for banks.
 
 Banks are businesses, as such, they want to pay the lowest rate possible for term deposits and charge a much higher rate to borrowers for loans. This practice increases their margins or profitability. However, there is a balance the bank needs to maintain. If it pays too little interest, it won't attract new investors into the term deposit accounts. Also, if they charge too high of a rate on loans, it won't attract new borrowers.
 
@@ -52,7 +52,7 @@ In periods of rising interest rates, consumers are more likely to purchase term 
 
 When interest rates decrease, consumers are encouraged to borrow and spend more, thereby stimulating the economy. In a low interest rate environment, demand for term deposits can decrease since investors can typically find alternative investment vehicles that pay a higher rate.
 
-Typically, interest rates should be proportional to the time until maturity, and the minimum amount of principal lent to the credit union or bank. In other words, a six-month term deposit will likely pay a lower interest rate than a two-year term deposit. Investors not only receive a higher rate for locking up their money with the bank for extended periods, but also should earn a higher rate for large deposits. For example, a [jumbo CD](https://www.investopedia.com/terms/j/jumbocd.asp), which is a term deposit above $100,000, will receive a higher interest rate than a $1,000 CD.
+Typically, interest rates should be proportional to the time until maturity, and the minimum amount of principal lent to the credit union or bank. In other words, a six-month term deposit will likely pay a lower interest rate than a two-year term deposit. Investors not only receive a higher rate for locking up their money with the bank for extended periods, but also should earn a higher rate for large deposits. For example, a [[jumbo CD]](https://www.investopedia.com/terms/j/jumbocd.asp), which is a term deposit above $100,000, will receive a higher interest rate than a $1,000 CD.
 
 ## Opening or Closing a Term Deposit
 
@@ -60,7 +60,7 @@ Term deposits are also called certificates of deposits. Customers can view the c
 
 If a customer wants to close a term deposit before the end of the term, or maturity, the customer will be subject to a penalty. This penalty may include the loss of any interest paid on the deposit account until that point. Closing the CD before the term ends lets the customer take back the principal amount invested but with the forfeiture of the earned interest.
 
-The penalty for withdrawing prematurely or against the agreement is stated at the time of opening a term deposit, as required by the [Truth in Savings Act](https://www.investopedia.com/terms/t/truth-in-savings-act.asp).
+The penalty for withdrawing prematurely or against the agreement is stated at the time of opening a term deposit, as required by the [[Truth in Savings Act]](https://www.investopedia.com/terms/t/truth-in-savings-act.asp).
 
 Sometimes, if interest rates have risen considerably, it might be worth it for a customer to close the term deposit early, take the penalty for the early withdrawal, and reinvest the funds elsewhere at a higher rate. It's important to be sure that the alternative rate is high enough to more than compensate for the original rate on the term deposit plus the cost of the penalty.
 
@@ -70,11 +70,11 @@ Investors holding retirement CDs should speak to a financial planner or tax advi
 
 ## Inflation and Term Deposits
 
-Unfortunately, term deposits do not keep up with inflation. The [inflation rate](https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp) is a measure of how much prices rise in a given year. If the rate on a term deposit is 2% and the inflation rate in the U.S. is 2.5%, theoretically, the customer is not earning enough to compensate for price increases in the economy.
+Unfortunately, term deposits do not keep up with inflation. The [[inflation rate]](https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp) is a measure of how much prices rise in a given year. If the rate on a term deposit is 2% and the inflation rate in the U.S. is 2.5%, theoretically, the customer is not earning enough to compensate for price increases in the economy.
 
 ## Laddering Strategy
 
-Rather than investing a large lump sum into one term deposit, an investor may use a strategy that spreads out the funds between several CDs. This strategy for investing using term deposits is to distribute an investment evenly over a set number of years with maturities coming at regular intervals. This [laddering investment strategy](https://www.investopedia.com/terms/l/laddering.asp) locks in the interest rates with the CDs at longer terms having higher rates than those with shorter terms. As the CDs mature, the customer can choose to use the money for income by withdrawing the funds or roll those funds into another CD to continue the ladder. The method allows the investor to have access to funds as they mature.
+Rather than investing a large lump sum into one term deposit, an investor may use a strategy that spreads out the funds between several CDs. This strategy for investing using term deposits is to distribute an investment evenly over a set number of years with maturities coming at regular intervals. This [[laddering investment strategy]](https://www.investopedia.com/terms/l/laddering.asp) locks in the interest rates with the CDs at longer terms having higher rates than those with shorter terms. As the CDs mature, the customer can choose to use the money for income by withdrawing the funds or roll those funds into another CD to continue the ladder. The method allows the investor to have access to funds as they mature.
 
 For example, an investor can deposit $3,000 each into a five, four, three, two, and one-year term deposit. One of the CDs matures each year, which allows the customer to either withdraw the money for expenses or roll the funds into a new account. The new term deposit will have a rate based on the current market rate. This method is popular for retirees who need to withdraw a set amount of income each year from their savings to pay for living expenses.
 
@@ -106,7 +106,7 @@ Cons
 
 ## Example of Term Deposits
 
-Wells Fargo Bank [(WFC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc) is one of the largest consumer banks in the U.S. and offers several types of term deposits. Below are a few of the bank's CDs along with the interest rates paid to depositors as of [March 22, 2019](https://www.wellsfargo.com/savings-cds/rates/).
+Wells Fargo Bank [(WFC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc) is one of the largest consumer banks in the U.S. and offers several types of term deposits. Below are a few of the bank's CDs along with the interest rates paid to depositors as of [[March 22, 2019]](https://www.wellsfargo.com/savings-cds/rates/).
 
 -   A six-month CD with a minimum $2,500 deposit pays 0.90%.
 -   A one-year CD with a minimum $2,500 deposit pays 1.25%.

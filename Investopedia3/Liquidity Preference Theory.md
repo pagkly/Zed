@@ -16,7 +16,7 @@ author: James Chen
 Liquidity Preference Theory
 ## What Is Liquidity Preference Theory?
 
-Liquidity Preference Theory is a model that suggests that an investor should demand a higher interest rate or premium on securities with long-term [maturities](https://www.investopedia.com/terms/m/maturity.asp) that carry greater risk because, all other factors being equal, investors prefer cash or other highly liquid holdings.
+Liquidity Preference Theory is a model that suggests that an investor should demand a higher interest rate or premium on securities with long-term [[maturities]](https://www.investopedia.com/terms/m/maturity.asp) that carry greater risk because, all other factors being equal, investors prefer cash or other highly liquid holdings.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Liquidity Preference Theory is a model that suggests that an investor should dem
 
 ## How Does Liquidity Preference Theory Work?
 
-Liquidity Preference Theory suggests that investors demand progressively higher premiums on medium and long-term securities as opposed to short-term securities. According to the theory, which was developed by [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp) in support of his idea that the demand for liquidity holds speculative power, liquid investments are easier to cash in for full value.
+Liquidity Preference Theory suggests that investors demand progressively higher premiums on medium and long-term securities as opposed to short-term securities. According to the theory, which was developed by [[John Maynard Keynes]](https://www.investopedia.com/terms/j/john_maynard_keynes.asp) in support of his idea that the demand for liquidity holds speculative power, liquid investments are easier to cash in for full value.
 
 Cash is commonly accepted as the most liquid asset. According to the liquidity preference theory, interest rates on short-term securities are lower because investors are not sacrificing liquidity for greater time frames than medium or longer-term securities. 
 
@@ -44,4 +44,4 @@ When higher interest rates are offered, investors give up liquidity in exchange 
 
 ## Example of Liquidity Preference Theory
 
-A three-year [Treasury note](https://www.investopedia.com/terms/t/treasurynote.asp) might pay a 2% interest rate, a [10-year treasury note](https://www.investopedia.com/terms/1/10-yeartreasury.asp) might pay a 4% interest rate and a [30-year treasury](https://www.investopedia.com/terms/1/30-yeartreasury.asp) bond might pay a 6% interest rate. For the investor to sacrifice liquidity, they must receive a higher rate of return in exchange for agreeing to have the cash tied up for a longer period of time.
+A three-year [[Treasury note]](https://www.investopedia.com/terms/t/treasurynote.asp) might pay a 2% interest rate, a [10-year treasury note](https://www.investopedia.com/terms/1/10-yeartreasury.asp) might pay a 4% interest rate and a [30-year treasury](https://www.investopedia.com/terms/1/30-yeartreasury.asp) bond might pay a 6% interest rate. For the investor to sacrifice liquidity, they must receive a higher rate of return in exchange for agreeing to have the cash tied up for a longer period of time.

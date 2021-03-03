@@ -16,7 +16,7 @@ author: Lucas Downey
 What Is Hammering by Stock Traders?
 ## What Is Hammering?
 
-Hammering is rapid and concentrated selling of stock [shares](https://www.investopedia.com/terms/s/shares.asp) in the wake of an unexpected event that is perceived as extremely damaging to the company's short-term performance. The effect of hammering is a steep drop in the price of the stock.
+Hammering is rapid and concentrated selling of stock [[shares]](https://www.investopedia.com/terms/s/shares.asp) in the wake of an unexpected event that is perceived as extremely damaging to the company's short-term performance. The effect of hammering is a steep drop in the price of the stock.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Hammering is rapid and concentrated selling of stock [shares](https://www.invest
 
 ### Understanding an Asteroid Event
 
-Hammering is usually a response to unexpected bad news, also known as an [asteroid event](https://www.investopedia.com/terms/a/asteroid-event.asp), such as a terrorist attack. It may focus on a single stock, a sector of the market, or the entire stock market.
+Hammering is usually a response to unexpected bad news, also known as an [[asteroid event]](https://www.investopedia.com/terms/a/asteroid-event.asp), such as a terrorist attack. It may focus on a single stock, a sector of the market, or the entire stock market.
 
 In some cases, investors may collaborate in an effort to push the share price lower for their own purposes. Hammering can be accomplished with a few large sale orders or many small sell orders.
 
@@ -36,17 +36,17 @@ A single company may experience an asteroid event that triggers hammering. If th
 
 Some companies and industries are particularly prone to asteroid events. For a small pharmaceutical or biotechnology company, a setback in a clinical trial or FDA approval can change expectations of its short-term profit expectations overnight.
 
-More common asteroid events include corporate [restructurings](https://www.investopedia.com/terms/r/restructuring.asp), [mergers](https://www.investopedia.com/terms/m/merger.asp) and acquisitions deals, [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp), spin-offs, or [takeovers](https://www.investopedia.com/terms/t/takeover.asp). If such an event catches the market by surprise, the stock could well get hammered.
+More common asteroid events include corporate [[restructurings]](https://www.investopedia.com/terms/r/restructuring.asp), [[mergers]](https://www.investopedia.com/terms/m/merger.asp) and acquisitions deals, [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp), spin-offs, or [[takeovers]](https://www.investopedia.com/terms/t/takeover.asp). If such an event catches the market by surprise, the stock could well get hammered.
 
 Investors may try to benefit from an asteroid event if they perceive it as a temporary stock mispricing. They simply buy the stock after it falls in the expectation that it will quickly recover.
 
 That strategy may misfire. After an asteroid event, stock analysts review the stock and may issue revised recommendations and lower price targets. Other investors will respond to those recommendations, keeping the stock's price lower for the long haul.
 
-Some asteroid events actually are good for a stock's price. When a [hostile takeover](https://www.investopedia.com/terms/h/hostiletakeover.asp) occurs, the stock price of the target company is likely to rise. If the takeover fails, the stock price could rise or fall depending on market sentiment.
+Some asteroid events actually are good for a stock's price. When a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp) occurs, the stock price of the target company is likely to rise. If the takeover fails, the stock price could rise or fall depending on market sentiment.
 
 ### Achieving a Hammer Candlestick Chart Pattern
 
-Technical analysts, who watch the ups and downs of stock prices in order to identify patterns that can be exploited, have identified a [hammer](https://www.investopedia.com/terms/h/hammer.asp) [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) pattern that indicates a recovery in a stock's price.
+Technical analysts, who watch the ups and downs of stock prices in order to identify patterns that can be exploited, have identified a [[hammer]](https://www.investopedia.com/terms/h/hammer.asp) [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) pattern that indicates a recovery in a stock's price.
 
 This indicator may appear after a prolonged downtrend in the stock's price. The stock endures strong selling. It reaches a low point and then begins to recover. Eventually, it closes near its previous mark or higher.
 

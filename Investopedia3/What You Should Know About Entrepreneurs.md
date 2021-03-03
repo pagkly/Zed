@@ -18,7 +18,7 @@ What You Should Know About Entrepreneurs
 
 An entrepreneur is an individual who creates a new business, bearing most of the risks and enjoying most of the rewards. The process of setting up a business is known as entrepreneurship. The entrepreneur is commonly seen as an innovator, a source of new ideas, goods, services, and business/or procedures.
 
-Entrepreneurs play a key role in any economy, using the skills and initiative necessary to anticipate needs and bringing good new ideas to market. Entrepreneurship that proves to be successful in taking on the risks of creating a [startup](https://www.investopedia.com/terms/s/startup.asp) is rewarded with profits, fame, and continued growth opportunities. Entrepreneurship that fails results in losses and less prevalence in the markets for those involved.
+Entrepreneurs play a key role in any economy, using the skills and initiative necessary to anticipate needs and bringing good new ideas to market. Entrepreneurship that proves to be successful in taking on the risks of creating a [[startup]](https://www.investopedia.com/terms/s/startup.asp) is rewarded with profits, fame, and continued growth opportunities. Entrepreneurship that fails results in losses and less prevalence in the markets for those involved.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Entrepreneurs play a key role in any economy, using the skills and initiative ne
 
 ## How Entrepreneurship Works
 
-Entrepreneurship is one of the resources economists categorize as integral to production, the other three being land/natural resources, labor, and capital. An entrepreneur combines the first three of these to manufacture goods or provide services. They typically create a [business plan](https://www.investopedia.com/terms/b/business-plan.asp), hire labor, acquire resources and financing, and provide leadership and management for the business.
+Entrepreneurship is one of the resources economists categorize as integral to production, the other three being land/natural resources, labor, and capital. An entrepreneur combines the first three of these to manufacture goods or provide services. They typically create a [[business plan]](https://www.investopedia.com/terms/b/business-plan.asp), hire labor, acquire resources and financing, and provide leadership and management for the business.
 
 Entrepreneurs commonly face many obstacles when building their companies. The three that many of them cite as the most challenging are as follows:
 
@@ -36,13 +36,13 @@ Entrepreneurs commonly face many obstacles when building their companies. The th
 2.  Hiring talent
 3.  Obtaining financing
 
-Economists have never had a consistent definition of "entrepreneur" or "entrepreneurship" (the word "entrepreneur" comes from the French verb _entreprendre_, meaning "to undertake"). Though the concept of an entrepreneur existed and was known for centuries, the classical and [neoclassical economists](https://www.investopedia.com/terms/n/neoclassical.asp) left entrepreneurs out of their formal models: They assumed that perfect information would be known to fully rational actors, leaving no room for risk-taking or discovery. It wasn't until the middle of the 20th century that economists seriously attempted to incorporate entrepreneurship into their models.
+Economists have never had a consistent definition of "entrepreneur" or "entrepreneurship" (the word "entrepreneur" comes from the French verb _entreprendre_, meaning "to undertake"). Though the concept of an entrepreneur existed and was known for centuries, the classical and [[neoclassical economists]](https://www.investopedia.com/terms/n/neoclassical.asp) left entrepreneurs out of their formal models: They assumed that perfect information would be known to fully rational actors, leaving no room for risk-taking or discovery. It wasn't until the middle of the 20th century that economists seriously attempted to incorporate entrepreneurship into their models.
 
-Three thinkers were central to the inclusion of entrepreneurs: Joseph Schumpeter, Frank Knight, and Israel Kirzner. Schumpeter suggested that entrepreneurs—not just companies—were responsible for the creation of new things in the search for profit. Knight focused on entrepreneurs as the bearers of uncertainty and believed they were responsible for risk premiums in [financial markets](https://www.investopedia.com/terms/f/financial-market.asp). Kirzner thought of entrepreneurship as a process that led to the discovery.
+Three thinkers were central to the inclusion of entrepreneurs: Joseph Schumpeter, Frank Knight, and Israel Kirzner. Schumpeter suggested that entrepreneurs—not just companies—were responsible for the creation of new things in the search for profit. Knight focused on entrepreneurs as the bearers of uncertainty and believed they were responsible for risk premiums in [[financial markets]](https://www.investopedia.com/terms/f/financial-market.asp). Kirzner thought of entrepreneurship as a process that led to the discovery.
 
 ## How to Become an Entrepreneur
 
-After retiring her professional dancing shoes, Judi Sheppard Missett became an entrepreneur by teaching a dance class to civilians in order to earn some extra cash. But she soon learned that women who came to her studio were less interested in learning precise steps than they were in losing weight and toning up. Sheppard Missett then trained instructors to teach her routines to the masses, and Jazzercise was born. A [franchise](https://www.investopedia.com/terms/f/franchise.asp) deal followed. Today, the company has more than 8,300 locations worldwide.1
+After retiring her professional dancing shoes, Judi Sheppard Missett became an entrepreneur by teaching a dance class to civilians in order to earn some extra cash. But she soon learned that women who came to her studio were less interested in learning precise steps than they were in losing weight and toning up. Sheppard Missett then trained instructors to teach her routines to the masses, and Jazzercise was born. A [[franchise]](https://www.investopedia.com/terms/f/franchise.asp) deal followed. Today, the company has more than 8,300 locations worldwide.1
 
 Following an ice cream making correspondence course, two entrepreneurs, Jerry Greenfield and Ben Cohen paired $8,000 in savings with a $4,000 loan, leased a Burlington, Vt., gas station, and purchased equipment to create uniquely flavored ice cream for the local market.2 Today, Ben & Jerry’s hauls in millions in annual revenue.
 
@@ -58,7 +58,7 @@ This first step is not a strict requirement but is definitely recommended. While
 
 Once a person has strong finances, it is important to build a diverse set of skills and then apply those skills in the real world. The beauty of step two is it can be done concurrently with step one.
 
-Building a skill set can be achieved through [learning](https://www.investopedia.com/articles/personal-finance/111015/majoring-entrepreneurship-good-idea.asp) and trying new tasks in real-world settings. For example, if an aspiring entrepreneur has a background in finance, they can move into a sales role at their existing company to learn the soft skills necessary to be successful. Once a diverse skill set is built, it gives an entrepreneur a toolkit that they can rely on when they are faced with the inevitability of tough situations.
+Building a skill set can be achieved through [[learning]](https://www.investopedia.com/articles/personal-finance/111015/majoring-entrepreneurship-good-idea.asp) and trying new tasks in real-world settings. For example, if an aspiring entrepreneur has a background in finance, they can move into a sales role at their existing company to learn the soft skills necessary to be successful. Once a diverse skill set is built, it gives an entrepreneur a toolkit that they can rely on when they are faced with the inevitability of tough situations.
 
 Much has been discussed on if going to college is necessary to become a successful entrepreneur. Many famous entrepreneurs are famous for having dropped out of college: Steve Jobs, Mark Zuckerberg, and Larry Ellison, to name but a few.3
 
@@ -68,7 +68,7 @@ It is not true that majoring in entrepreneurship is necessary to start a busines
 
 ### Consume Content Across Multiple Channels
 
-As important as building a diverse skill set is, the need to consume a diverse array of content is equally so. This content can be in the form of podcasts, books, articles, or lectures. The important thing is that the content, no matter the channel, should be varied in what it covers. An aspiring entrepreneur should always familiarize themself with the world around them so they can look at industries with a fresh perspective, giving them the ability to build a business around a specific [sector](https://www.investopedia.com/terms/s/sector.asp).
+As important as building a diverse skill set is, the need to consume a diverse array of content is equally so. This content can be in the form of podcasts, books, articles, or lectures. The important thing is that the content, no matter the channel, should be varied in what it covers. An aspiring entrepreneur should always familiarize themself with the world around them so they can look at industries with a fresh perspective, giving them the ability to build a business around a specific [[sector]](https://www.investopedia.com/terms/s/sector.asp).
 
 ### Identify a Problem to Solve
 
@@ -90,39 +90,39 @@ Attending conferences, emailing and calling people in the industry, speaking to 
 
 ### Lead by Example
 
-Every entrepreneur needs to be a leader within their company. Simply doing the day-to-day requirements will not lead to [success](https://www.investopedia.com/articles/personal-finance/111815/10-ways-ensure-success-entrepreneur.asp). A leader needs to work hard, motivate, and inspire their employees to reach their best potential, which will lead to the success of the company.
+Every entrepreneur needs to be a leader within their company. Simply doing the day-to-day requirements will not lead to [[success]](https://www.investopedia.com/articles/personal-finance/111815/10-ways-ensure-success-entrepreneur.asp). A leader needs to work hard, motivate, and inspire their employees to reach their best potential, which will lead to the success of the company.
 
 Look at some of the greatest and most successful companies; all of them have had great leaders. Apple and Steve Jobs, Bill Gates and Microsoft, Bob Iger and Disney, and so on. Study these people and read their books to see how to be a great leader and become the leader that your employees can follow by the example you set.
 
 ## Entrepreneurship Financing
 
-Given the riskiness of a new venture, the acquisition of capital funding is particularly challenging, and many entrepreneurs deal with it via bootstrapping: financing a business using methods such as using their own money, providing [sweat equity](https://www.investopedia.com/terms/s/sweatequity.asp) to reduce labor costs, minimizing inventory, and factoring receivables.
+Given the riskiness of a new venture, the acquisition of capital funding is particularly challenging, and many entrepreneurs deal with it via bootstrapping: financing a business using methods such as using their own money, providing [[sweat equity]](https://www.investopedia.com/terms/s/sweatequity.asp) to reduce labor costs, minimizing inventory, and factoring receivables.
 
-While some entrepreneurs are lone players struggling to get small businesses off the ground on a [shoestring](https://www.investopedia.com/terms/s/shoestring.asp), others take on partners armed with greater access to capital and other resources. In these situations, new firms may acquire financing from venture capitalists, angel investors, hedge funds, crowdfunding, or through more traditional sources such as bank loans.
+While some entrepreneurs are lone players struggling to get small businesses off the ground on a [[shoestring]](https://www.investopedia.com/terms/s/shoestring.asp), others take on partners armed with greater access to capital and other resources. In these situations, new firms may acquire financing from venture capitalists, angel investors, hedge funds, crowdfunding, or through more traditional sources such as bank loans.
 
 ### Resources for Entrepreneurs
 
-There are a variety of financing resources for entrepreneurs starting their own businesses. Obtaining a small business loan through the [Small Business Administration](https://www.investopedia.com/terms/s/small-business-administration.asp) (SBA) can help entrepreneurs get the business off the ground with affordable loans. SBA helps connect businesses to loan providers.
+There are a variety of financing resources for entrepreneurs starting their own businesses. Obtaining a small business loan through the [[Small Business Administration]](https://www.investopedia.com/terms/s/small-business-administration.asp) (SBA) can help entrepreneurs get the business off the ground with affordable loans. SBA helps connect businesses to loan providers.
 
 If entrepreneurs are willing to give up a piece of equity in their business, then they may find financing in the form of angel investors and venture capitalists. These types of investors also provide guidance, mentorship, and connections in addition to just capital.
 
-[Crowdfunding](https://www.investopedia.com/terms/c/crowdfunding.asp) has also become a popular way for entrepreneurs to raise capital, particularly through [Kickstarter](https://www.investopedia.com/ask/answers/120214/how-does-kickstarter-make-money.asp). An entrepreneur creates a page for their product and a monetary goal to reach while promising certain givebacks to those who donate, such as products or experiences.
+[Crowdfunding](https://www.investopedia.com/terms/c/crowdfunding.asp) has also become a popular way for entrepreneurs to raise capital, particularly through [[Kickstarter]](https://www.investopedia.com/ask/answers/120214/how-does-kickstarter-make-money.asp). An entrepreneur creates a page for their product and a monetary goal to reach while promising certain givebacks to those who donate, such as products or experiences.
 
 ### Bootstrapping for Entrepreneurs
 
 Bootstrapping refers to building a company solely from your savings as an entrepreneur as well as from the initial sales made from your business. This is a difficult process as all the financial risk is placed on the entrepreneur and there is little room for error. If the business fails, the entrepreneur also may lose all of their life savings.
 
-The advantage of bootstrapping is that an entrepreneur can run the business with their own vision and no outside interference or investors demanding quick profits. That being said, sometimes having an outsider's assistance can help a business rather than hurt it. Many companies have [succeeded with the bootstrapping](https://www.investopedia.com/articles/investing/082814/companies-succeeded-bootstrapping.asp) strategy, but it is a difficult path.
+The advantage of bootstrapping is that an entrepreneur can run the business with their own vision and no outside interference or investors demanding quick profits. That being said, sometimes having an outsider's assistance can help a business rather than hurt it. Many companies have [[succeeded with the bootstrapping]](https://www.investopedia.com/articles/investing/082814/companies-succeeded-bootstrapping.asp) strategy, but it is a difficult path.
 
 ### Small Business vs. Entrepreneurship
 
-A small business and entrepreneurship have a lot in common but they are different. A small business is a company, usually, a [sole-proprietorship](https://www.investopedia.com/terms/s/soleproprietorship.asp) or partnership, that is not a medium-sized or large-sized business, operates locally, and does not have access to a vast amount of resources or capital.
+A small business and entrepreneurship have a lot in common but they are different. A small business is a company, usually, a [[sole-proprietorship]](https://www.investopedia.com/terms/s/soleproprietorship.asp) or partnership, that is not a medium-sized or large-sized business, operates locally, and does not have access to a vast amount of resources or capital.
 
 Entrepreneurship refers to an individual that has an idea and intends to execute on that idea, usually to disrupt the current market with a new product or service. Entrepreneurship usually starts as a small business but the long-term vision is much greater, to seek high profits and capture market share with an innovative new idea.
 
 ### How Entrepreneurs Make Money
 
-Entrepreneurs make money like any business: they seek to generate revenues that are greater than costs. Increasing revenues is the goal and that can be achieved through marketing, word-of-mouth, and networking. Keeping costs low is also critical as it results in higher [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp). This can be achieved through efficient operations and eventually [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp).
+Entrepreneurs make money like any business: they seek to generate revenues that are greater than costs. Increasing revenues is the goal and that can be achieved through marketing, word-of-mouth, and networking. Keeping costs low is also critical as it results in higher [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp). This can be achieved through efficient operations and eventually [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp).
 
 ### Taxes for Entrepreneurs
 
@@ -144,7 +144,7 @@ What else do entrepreneurial success stories have in common? They invariably inv
 
 Giving credence to the adage, “find a way to get paid for the job you’d do for free,” passion is arguably the most important component startup business owners must have, and every edge helps.
 
-While the prospect of becoming your own boss and raking in a fortune is alluring to entrepreneurial dreamers, the possible downside to hanging one’s own shingle is vast. Income isn’t guaranteed, employer-sponsored benefits go by the wayside, and when your business loses money, your personal assets can take a hit; not just a corporation’s bottom line. But adhering to a few tried and true principles can go a long way in diffusing risk. The following are a few [characteristics](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp) required to be a successful entrepreneur.
+While the prospect of becoming your own boss and raking in a fortune is alluring to entrepreneurial dreamers, the possible downside to hanging one’s own shingle is vast. Income isn’t guaranteed, employer-sponsored benefits go by the wayside, and when your business loses money, your personal assets can take a hit; not just a corporation’s bottom line. But adhering to a few tried and true principles can go a long way in diffusing risk. The following are a few [[characteristics]](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp) required to be a successful entrepreneur.
 
 ### Versatile
 
@@ -236,23 +236,23 @@ The goal of social entrepreneurship is to create a benefit to society and humank
 
 ## Entrepreneurs and the Economy
 
-In economist-speak, an entrepreneur acts as a coordinating agent in a [capitalist economy](https://www.investopedia.com/articles/investing/102914/main-characteristics-capitalist-economies.asp). This coordination takes the form of resources being diverted toward new potential profit opportunities. The entrepreneur [moves](https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp) various resources, both tangible and intangible, promoting capital formation.
+In economist-speak, an entrepreneur acts as a coordinating agent in a [[capitalist economy]](https://www.investopedia.com/articles/investing/102914/main-characteristics-capitalist-economies.asp). This coordination takes the form of resources being diverted toward new potential profit opportunities. The entrepreneur [[moves]](https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp) various resources, both tangible and intangible, promoting capital formation.
 
 In 2020, there were 31.7 million small businesses in the United States.5
 
 In a market full of uncertainty, it is the entrepreneur who can actually help clear up uncertainty, as they make judgments or assume the risk. To the extent that capitalism is a dynamic profit-and-loss system, entrepreneurs drive efficient discovery and consistently reveal knowledge.
 
-Established firms face increased competition and challenges from entrepreneurs, which often spurs them toward research and development efforts as well. In technical economic terms, the entrepreneur disrupts course toward [steady-state equilibrium](https://www.investopedia.com/terms/s/steady-state-economy.asp).
+Established firms face increased competition and challenges from entrepreneurs, which often spurs them toward research and development efforts as well. In technical economic terms, the entrepreneur disrupts course toward [[steady-state equilibrium]](https://www.investopedia.com/terms/s/steady-state-economy.asp).
 
 ### How Entrepreneurship Helps Economies
 
 Nurturing entrepreneurship can have a positive impact on an economy and a society in several ways. For starters, entrepreneurs create new businesses. They invent goods and services, resulting in employment, and often create a ripple effect, resulting in more and more development. For example, after a few information technology companies began in India in the 1990s, businesses in associated industries, like call center operations and hardware providers, began to develop too, offering support services and products.
 
-Entrepreneurs add to the [gross national income](https://www.investopedia.com/terms/g/gross-national-income-gni.asp). Existing businesses may remain confined to their markets and eventually hit an income ceiling. But new products or technologies create new markets and new wealth. And increased employment and higher earnings contribute to a nation’s tax base, enabling greater government spending on public projects.
+Entrepreneurs add to the [[gross national income]](https://www.investopedia.com/terms/g/gross-national-income-gni.asp). Existing businesses may remain confined to their markets and eventually hit an income ceiling. But new products or technologies create new markets and new wealth. And increased employment and higher earnings contribute to a nation’s tax base, enabling greater government spending on public projects.
 
 Entrepreneurs create social change. They break tradition with unique inventions that reduce dependence on existing methods and systems, sometimes rendering them obsolete. Smartphones and their apps, for example, have revolutionized work and play across the globe.
 
-Entrepreneurs invest in community projects and help charities and other non-profit organizations, supporting causes beyond their own. [Bill Gates](https://www.investopedia.com/articles/personal-finance/111214/where-does-bill-gates-keep-his-money.asp), for example, has used his considerable wealth for education and public health initiatives.
+Entrepreneurs invest in community projects and help charities and other non-profit organizations, supporting causes beyond their own. [[Bill Gates]](https://www.investopedia.com/articles/personal-finance/111214/where-does-bill-gates-keep-his-money.asp), for example, has used his considerable wealth for education and public health initiatives.
 
 ### Entrepreneurial Ecosystems
 
@@ -260,7 +260,7 @@ There is research that shows high levels of self-employment can stall economic d
 
 To this end, governments commonly assist in the development of entrepreneurial ecosystems, which may include entrepreneurs themselves, government-sponsored assistance programs, and venture capitalists. They may also include non-government organizations, such as entrepreneurs' associations, business incubators, and education programs.
 
-For example, California's [Silicon Valley](https://www.investopedia.com/terms/s/siliconvalley.asp) is often cited as an example of a well-functioning entrepreneurial ecosystem. The region has a well-developed venture capital base, a large pool of well-educated talent, especially in technical fields, and a wide range of government and non-government programs fostering new ventures and providing information and support to entrepreneurs.
+For example, California's [[Silicon Valley]](https://www.investopedia.com/terms/s/siliconvalley.asp) is often cited as an example of a well-functioning entrepreneurial ecosystem. The region has a well-developed venture capital base, a large pool of well-educated talent, especially in technical fields, and a wide range of government and non-government programs fostering new ventures and providing information and support to entrepreneurs.
 
 ## Questions for Entrepreneurs
 

@@ -18,7 +18,7 @@ Price Sensitivity: What You Should Know
 
 Price sensitivity is the degree to which the price of a product affects consumers' purchasing behaviors. Generally speaking, it's how demand changes with the change in the cost of products.
 
-In economics, price sensitivity is commonly measured using the [price elasticity of demand](https://www.investopedia.com/terms/p/priceelasticity.asp), or the measure of the change in demand based on its price change. For example, some consumers are not willing to pay a few extra cents per gallon for gasoline, especially if a lower-priced station is nearby.
+In economics, price sensitivity is commonly measured using the [[price elasticity of demand]](https://www.investopedia.com/terms/p/priceelasticity.asp), or the measure of the change in demand based on its price change. For example, some consumers are not willing to pay a few extra cents per gallon for gasoline, especially if a lower-priced station is nearby.
 
 When they study and analyze price sensitivity, companies and product manufacturers can make sound decisions about products and services.
 
@@ -32,7 +32,7 @@ When they study and analyze price sensitivity, companies and product manufacture
 
 Price sensitivity can basically be defined as being the extent to which demand changes when the price of a product or service changes.
 
-The [price sensitivity](https://www.investopedia.com/articles/economics/09/price-elasticity-of-demand.asp) of a product varies with the level of importance consumers place on price relative to other purchasing criteria. Some people may value quality over price, making them less susceptible to price sensitivity. For example, customers seeking top-quality goods are typically less price-sensitive than bargain hunters; so, they're willing to pay more for a high-quality product.
+The [[price sensitivity]](https://www.investopedia.com/articles/economics/09/price-elasticity-of-demand.asp) of a product varies with the level of importance consumers place on price relative to other purchasing criteria. Some people may value quality over price, making them less susceptible to price sensitivity. For example, customers seeking top-quality goods are typically less price-sensitive than bargain hunters; so, they're willing to pay more for a high-quality product.
 
 By contrast, people who are more sensitive to price may be willing to sacrifice quality. These individuals will not spend more for something like a brand name, even if it has a higher quality over a generic store brand product.
 
@@ -42,9 +42,9 @@ At some point, demand will fall to or close to zero if it reaches a certain pric
 
 ### Price Sensitivity and Elasticity of Demand
 
-The [law of demand](https://www.investopedia.com/terms/l/lawofdemand.asp) states that if all other market factors remain constant, a relative price increase leads to a drop in the quantity demanded. [Inelastic](https://www.investopedia.com/terms/e/inelastic.asp) demand means consumers are more willing to buy a product even after price increases. High elasticity means even small price increases may significantly lower demand.
+The [[law of demand]](https://www.investopedia.com/terms/l/lawofdemand.asp) states that if all other market factors remain constant, a relative price increase leads to a drop in the quantity demanded. [[Inelastic]](https://www.investopedia.com/terms/e/inelastic.asp) demand means consumers are more willing to buy a product even after price increases. High elasticity means even small price increases may significantly lower demand.
 
-In a perfect world, businesses would set prices at the exact point where supply and demand produce as much revenue as possible. This is referred to as the [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) price. Although this is difficult, computer software models and real-time analysis of sales volume at given price points can help determine equilibrium prices. Even if a small price rise diminishes sales volume, the relative gains in revenue may overcome a proportionally smaller decline in consumer purchases.
+In a perfect world, businesses would set prices at the exact point where supply and demand produce as much revenue as possible. This is referred to as the [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) price. Although this is difficult, computer software models and real-time analysis of sales volume at given price points can help determine equilibrium prices. Even if a small price rise diminishes sales volume, the relative gains in revenue may overcome a proportionally smaller decline in consumer purchases.
 
 ## Influences on Price Sensitivity
 

@@ -28,7 +28,7 @@ A relief rally often happens amid a secular decline in the market or persistent 
 
 Sometimes, even a lower-than-expected loss can ignite a relief rally in these situations or a more-positive tone on a company conference call with analysts. Part of the reason is that slightly good news sometimes causes short sellers to buy stock to cover their positions, which can trigger a short covering. This is done as short sellers look to avoid further losses as prices rise.
 
-A relief rally does not necessarily spell the end of a secular decline, however. Both the dot-com crash and the 2007–2009 financial crisis saw several relief rallies for stocks, only to see renewed fears push market prices lower again. Relief rallies in these very bearish markets are sometimes called a [dead-cat bounce](https://www.investopedia.com/terms/d/deadcatbounce.asp). This type of relief rally happens when there's a temporary recovery from a bear market or lengthy decline, but then the downtrend continues later.
+A relief rally does not necessarily spell the end of a secular decline, however. Both the dot-com crash and the 2007–2009 financial crisis saw several relief rallies for stocks, only to see renewed fears push market prices lower again. Relief rallies in these very bearish markets are sometimes called a [[dead-cat bounce]](https://www.investopedia.com/terms/d/deadcatbounce.asp). This type of relief rally happens when there's a temporary recovery from a bear market or lengthy decline, but then the downtrend continues later.
 
 ### Key Takeaways
 

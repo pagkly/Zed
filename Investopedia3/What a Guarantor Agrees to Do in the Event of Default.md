@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 What a Guarantor Agrees to Do in the Event of Default
 ## What Is a Guarantor?
 
-A guarantor is a financial term describing an individual who promises to pay a borrower's debt in the event that the borrower defaults on his or her loan obligation. Guarantors [pledge their own assets](https://www.investopedia.com/terms/p/pledgedasset.asp) as collateral against the loans. On rare occasions, individuals act as their own guarantors, by pledging their own assets against the loan. The term "guarantor" is often interchanged with the term "surety."
+A guarantor is a financial term describing an individual who promises to pay a borrower's debt in the event that the borrower defaults on his or her loan obligation. Guarantors [[pledge their own assets]](https://www.investopedia.com/terms/p/pledgedasset.asp) as collateral against the loans. On rare occasions, individuals act as their own guarantors, by pledging their own assets against the loan. The term "guarantor" is often interchanged with the term "surety."
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A guarantor is a financial term describing an individual who promises to pay a b
 
 ## Understanding the Role of a Guarantor
 
-A guarantor is typically over the age of 18 and [resides in the country](https://www.investopedia.com/terms/p/principalresidence.asp) where the payment agreement occurs. Guarantors generally exhibit exemplary credit histories and sufficient income to cover the loan payments if and when [the borrower defaults](https://www.investopedia.com/terms/e/event-of-default.asp), at which time the guarantor's assets may be seized by the lender. And if the borrower chronically makes payments late, the guarantor may be on the hook for additional interest owed or penalty costs.
+A guarantor is typically over the age of 18 and [[resides in the country]](https://www.investopedia.com/terms/p/principalresidence.asp) where the payment agreement occurs. Guarantors generally exhibit exemplary credit histories and sufficient income to cover the loan payments if and when [[the borrower defaults]](https://www.investopedia.com/terms/e/event-of-default.asp), at which time the guarantor's assets may be seized by the lender. And if the borrower chronically makes payments late, the guarantor may be on the hook for additional interest owed or penalty costs.
 
 ### Guarantors as Certifiers
 

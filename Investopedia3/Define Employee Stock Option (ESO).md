@@ -176,7 +176,7 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Risk and Reward Associated with Owning ESOs
 
-As discussed in the preceding section, your ESOs can have significant time value even if they have zero or little intrinsic value. In this section, we use the common 10-year grant term to expiration to [demonstrate the risk and reward](https://www.investopedia.com/video/play/calculating-risk-and-reward/) associated with owning ESOs.
+As discussed in the preceding section, your ESOs can have significant time value even if they have zero or little intrinsic value. In this section, we use the common 10-year grant term to expiration to [[demonstrate the risk and reward]](https://www.investopedia.com/video/play/calculating-risk-and-reward/) associated with owning ESOs.
 
 When you receive the ESOs at the time of grant, you typically have no intrinsic value because the ESO strike price or exercise price is equal to the stock’s closing price on that day. As your exercise price and the stock price are the same, this is an at-the-money option. Once the stock begins to rise, the option has intrinsic value, which is intuitive to understand and easy to compute. But a common mistake is not realizing the significance of time value, even on the grant day, and the opportunity cost of premature or early exercise.
 
@@ -267,7 +267,7 @@ Stock options are of two main types. Incentive stock options, generally only off
 
 While the option grant is not a taxable event, taxation begins at the time of exercise and the sale of acquired stock also triggers another taxable event. Tax payable at the time of exercise is a major deterrent against early exercise of ESOs.
 
-ESOs differ from exchange-traded or [listed options](https://www.investopedia.com/terms/l/listedoption.asp) in many ways—as they are not traded, their value is not easy to ascertain. Unlike listed options, ESOs do not have standardized specifications or automatic exercise. Counterparty risk and concentration risk are two risks of which ESO holders should be cognizant.
+ESOs differ from exchange-traded or [[listed options]](https://www.investopedia.com/terms/l/listedoption.asp) in many ways—as they are not traded, their value is not easy to ascertain. Unlike listed options, ESOs do not have standardized specifications or automatic exercise. Counterparty risk and concentration risk are two risks of which ESO holders should be cognizant.
 
 Although ESOs have no intrinsic value at option grant, it would be naïve to assume that they are worthless. Because of their lengthy time to expiration compared to listed options, ESOs have a significant amount of time value that should not be frittered away through early exercise.
 

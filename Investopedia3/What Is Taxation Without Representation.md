@@ -24,7 +24,7 @@ The phrase taxation without representation describes a populace that is required
 
 Opposition to taxation without representation was one of the primary causes of the American Revolution.
 
-The British Parliament began taxing its American colonists directly in 1760's, ostensibly to recoup losses incurred during the Seven Years’ War of 1756 to 1763.2 One particularly despised tax, imposed by the [Stamp Act of 1765](https://www.investopedia.com/terms/s/stampduty.asp), required colonial printers to pay a tax on documents used or created in the colonies, and to prove it by affixing an embossed revenue stamp to the documents.3
+The British Parliament began taxing its American colonists directly in 1760's, ostensibly to recoup losses incurred during the Seven Years’ War of 1756 to 1763.2 One particularly despised tax, imposed by the [[Stamp Act of 1765]](https://www.investopedia.com/terms/s/stampduty.asp), required colonial printers to pay a tax on documents used or created in the colonies, and to prove it by affixing an embossed revenue stamp to the documents.3
 
 Violators were tried in vice-admiralty courts without a jury. The denial of a trial by peers was a second injury, in the minds of colonists.3
 
@@ -42,7 +42,7 @@ William Samuel Johnson of Connecticut, John Dickinson of Pennsylvania, John Rutl
 
 ### Trial Without a Jury
 
-A later resolution disputed the use of [admiralty courts](https://www.investopedia.com/terms/a/admiralty-court.asp) that conducted trials without juries, citing a violation of the rights of all free Englishmen.8
+A later resolution disputed the use of [[admiralty courts]](https://www.investopedia.com/terms/a/admiralty-court.asp) that conducted trials without juries, citing a violation of the rights of all free Englishmen.8
 
 The Congress eventually drafted three petitions addressed to King George III, the House of Lords, and the House of Commons.9 8
 

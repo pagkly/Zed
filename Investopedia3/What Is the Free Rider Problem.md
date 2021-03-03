@@ -28,9 +28,9 @@ The free rider problem can occur in any community, large or small. In an urban a
 
 ## Understanding the Free Rider Problem
 
-The free rider problem is an issue in economics. It is considered an example of a [market failure](https://www.investopedia.com/terms/m/marketfailure.asp). That is, it is an inefficient distribution of goods or services that occurs when some individuals are allowed to consume more than their fair share of the shared resource or pay less than their fair share of the costs.
+The free rider problem is an issue in economics. It is considered an example of a [[market failure]](https://www.investopedia.com/terms/m/marketfailure.asp). That is, it is an inefficient distribution of goods or services that occurs when some individuals are allowed to consume more than their fair share of the shared resource or pay less than their fair share of the costs.
 
-Free riding prevents the production and consumption of goods and services through conventional [free-market](https://www.investopedia.com/terms/f/freemarket.asp) methods. To the free rider, there is little incentive to contribute to a collective resource since they can enjoy its benefits even if they don't. As a consequence, the producer of the resource cannot be sufficiently compensated. The shared resource must be subsidized in some other way, or it will not be created.
+Free riding prevents the production and consumption of goods and services through conventional [[free-market]](https://www.investopedia.com/terms/f/freemarket.asp) methods. To the free rider, there is little incentive to contribute to a collective resource since they can enjoy its benefits even if they don't. As a consequence, the producer of the resource cannot be sufficiently compensated. The shared resource must be subsidized in some other way, or it will not be created.
 
 ## When the Free Rider Problem Arises
 

@@ -16,7 +16,7 @@ author: James Chen
 Hostile Bid
 ## What Is a Hostile Bid?
 
-A hostile bid is a specific type of [takeover bid](https://www.investopedia.com/terms/t/takeoverbid.asp) that bidders present directly to the target firm's shareholders because the management is not in favor of the deal. Bidders generally present their hostile bids through a [tender offer](https://www.investopedia.com/terms/t/tenderoffer.asp). In this scenario, the acquiring company offers to purchase the common shares of the target at a substantial [premium](https://www.investopedia.com/terms/p/premium.asp).
+A hostile bid is a specific type of [[takeover bid]](https://www.investopedia.com/terms/t/takeoverbid.asp) that bidders present directly to the target firm's shareholders because the management is not in favor of the deal. Bidders generally present their hostile bids through a [[tender offer]](https://www.investopedia.com/terms/t/tenderoffer.asp). In this scenario, the acquiring company offers to purchase the common shares of the target at a substantial [[premium]](https://www.investopedia.com/terms/p/premium.asp).
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ A hostile bid is a specific type of [takeover bid](https://www.investopedia.com/
 
 ## Understanding Hostile Bids
 
-Hostile bids can lead to major changes in the organizational structure. If a board pursues defensive action to stop the merger, a [proxy fight](https://www.investopedia.com/terms/p/proxyfight.asp) can occur. In this scenario, the [acquirer](https://www.investopedia.com/terms/a/acquirer.asp) will often attempt to convince the target shareholders to replace management. Certain investors, such as activist investors, are known for using hostile bids to force takeovers and buyouts. For example, activist investor Carl Ichan made several hostile bids for Clorox in 2011.
+Hostile bids can lead to major changes in the organizational structure. If a board pursues defensive action to stop the merger, a [[proxy fight]](https://www.investopedia.com/terms/p/proxyfight.asp) can occur. In this scenario, the [[acquirer]](https://www.investopedia.com/terms/a/acquirer.asp) will often attempt to convince the target shareholders to replace management. Certain investors, such as activist investors, are known for using hostile bids to force takeovers and buyouts. For example, activist investor Carl Ichan made several hostile bids for Clorox in 2011.
 
 ### Soliciting Shareholders
 
-The acquirer and the target company use a variety of solicitation methods to influence shareholder votes. Shareholders receive a [Schedule 14A](https://www.investopedia.com/terms/s/sec-form-def-14a.asp) with financial and other information on the target company and the terms of the proposed acquisition. In many cases, the acquiring company hires an outside proxy solicitation firm that compiles a list of shareholders and contacts them to state the acquirer's case.
+The acquirer and the target company use a variety of solicitation methods to influence shareholder votes. Shareholders receive a [[Schedule 14A]](https://www.investopedia.com/terms/s/sec-form-def-14a.asp) with financial and other information on the target company and the terms of the proposed acquisition. In many cases, the acquiring company hires an outside proxy solicitation firm that compiles a list of shareholders and contacts them to state the acquirer's case.
 
 The firm can call or provide written information, detailing the reasons the acquirer is attempting to make fundamental changes and why the deal could create more shareholder wealth in the long-term.
 
-Individual shareholders or stock brokerages submit their votes to the entity assigned to aggregate the information (e.g., a [stock transfer agent](https://www.investopedia.com/terms/t/transferagent.asp) or brokerage). The corporate secretary of the target company receives all votes before the shareholders' meeting. Proxy solicitors may scrutinize and challenge the votes if they are unclear.
+Individual shareholders or stock brokerages submit their votes to the entity assigned to aggregate the information (e.g., a [[stock transfer agent]](https://www.investopedia.com/terms/t/transferagent.asp) or brokerage). The corporate secretary of the target company receives all votes before the shareholders' meeting. Proxy solicitors may scrutinize and challenge the votes if they are unclear.
 
 ## Hostile Bid vs. Friendly Bid
 

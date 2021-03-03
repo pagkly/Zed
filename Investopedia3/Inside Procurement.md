@@ -18,7 +18,7 @@ Inside Procurement
 
 Procurement is the act of obtaining goods or services, typically for business purposes. Procurement is most commonly associated with businesses because companies need to solicit services or purchase goods, usually on a relatively large scale.
 
-Procurement generally refers to the final act of purchasing but it can also include the procurement process overall which can be critically important for companies leading up to their final [purchasing](https://www.investopedia.com/articles/investing/010914/importance-purchasing-managers-index-pmi.asp) decision. Companies can be on both sides of the procurement process as buyers or sellers though here we mainly focus on the side of the soliciting company.
+Procurement generally refers to the final act of purchasing but it can also include the procurement process overall which can be critically important for companies leading up to their final [[purchasing]](https://www.investopedia.com/articles/investing/010914/importance-purchasing-managers-index-pmi.asp) decision. Companies can be on both sides of the procurement process as buyers or sellers though here we mainly focus on the side of the soliciting company.
 
 ### Key Takeaways
 
@@ -49,7 +49,7 @@ Procurement processing can be divided and analyzed from several angles. Companie
 
 ### Direct vs. Indirect Procurement Costs
 
-Direct spend refers to anything related to the cost of goods sold and production, including all items that are part of finished products. For manufacturing companies, this can range from [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp) to components and parts. For merchandising companies, this will include the cost at which merchandise is purchased from a wholesaler for sales.
+Direct spend refers to anything related to the cost of goods sold and production, including all items that are part of finished products. For manufacturing companies, this can range from [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp) to components and parts. For merchandising companies, this will include the cost at which merchandise is purchased from a wholesaler for sales.
 
 For service-based companies, direct costs will primarily be the hourly labor costs of employees performing services. Procurement for items pertaining to the cost of goods sold directly affects a company’s gross profit.
 
@@ -59,7 +59,7 @@ By contrast, indirect procurement involves non-production-related purchases. The
 
 Procurement is part of the expense process for all types of companies, but goods and services companies account for revenues and costs differently. As such, accounting for procured goods will also differ from accounting for procured services.
 
-Companies focused on goods will need to deal with the procurement of those goods as inventory. These companies place a lot of importance in this area on [supply chain management](https://www.investopedia.com/terms/s/scm.asp). Service-based companies provide services as their primary revenue generator so they do not necessarily rely as heavily on a supply chain for inventory although they may need to purchase goods for technology-based services.
+Companies focused on goods will need to deal with the procurement of those goods as inventory. These companies place a lot of importance in this area on [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp). Service-based companies provide services as their primary revenue generator so they do not necessarily rely as heavily on a supply chain for inventory although they may need to purchase goods for technology-based services.
 
 In general, the cost of sales for many service companies is based on the hourly labor cost of employees providing the service so procurement as a direct expense is not a major factor. However, service-based companies will usually have higher relative indirect costs because they typically deal with their own procurement as an indirect expense through marketing.
 

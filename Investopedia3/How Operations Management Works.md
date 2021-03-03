@@ -16,7 +16,7 @@ author: Will Kenton
 How Operations Management Works
 ## What Is Operations Management?
 
-Operations management is the administration of business practices to create the highest level of efficiency possible within an organization. It is concerned with converting materials and labor into goods and services as efficiently as possible to maximize the profit of an organization. Operations management teams attempt to balance costs with revenue to achieve the highest net [operating profit](https://www.investopedia.com/terms/o/operating_profit.asp) possible.
+Operations management is the administration of business practices to create the highest level of efficiency possible within an organization. It is concerned with converting materials and labor into goods and services as efficiently as possible to maximize the profit of an organization. Operations management teams attempt to balance costs with revenue to achieve the highest net [[operating profit]](https://www.investopedia.com/terms/o/operating_profit.asp) possible.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Operations management involves utilizing resources from staff, materials, equipm
 
 Operations management handles various strategic issues, including determining the size of manufacturing plants and project management methods and implementing the structure of information technology networks. Other operational issues include the management of inventory levels, including work-in-process levels and raw materials acquisition, quality control, materials handling, and maintenance policies.
 
-Operations management entails studying the use of raw materials and ensuring minimal waste occurs. Operations managers utilize numerous formulas, such as the [economic order quantity](https://www.investopedia.com/terms/e/economicorderquantity.asp) formula to determine when and how large of an inventory order to process and how much inventory to hold on hand.
+Operations management entails studying the use of raw materials and ensuring minimal waste occurs. Operations managers utilize numerous formulas, such as the [[economic order quantity]](https://www.investopedia.com/terms/e/economicorderquantity.asp) formula to determine when and how large of an inventory order to process and how much inventory to hold on hand.
 
 The combination of understanding and coordinating the work of a company are central to becoming a successful operations manager.
 
@@ -42,6 +42,6 @@ An operations management professional understands local and global trends, custo
 
 Another large facet of operations management involves the delivery of goods to customers. This includes ensuring products are delivered within the agreed time commitment. Operations management also typically follows up with customers to ensure the products meet quality and functionality needs. Finally, operations management takes the feedback received and distributes the relevant information to each department to use in process improvement.
 
-Operations managers are involved in coordinating and developing new processes while reevaluating current structures. Organization and [productivity](https://www.investopedia.com/terms/p/productivity.asp) are two key drivers of being an operations manager, and the work often requires versatility and innovation.
+Operations managers are involved in coordinating and developing new processes while reevaluating current structures. Organization and [[productivity]](https://www.investopedia.com/terms/p/productivity.asp) are two key drivers of being an operations manager, and the work often requires versatility and innovation.
 
 An MBA in operations management can give someone a global perspective on industry trends and an awareness of any financial regulations and political uncertainties that can affect an organization. It also gives someone a solid grasp on the inherent complexities and the tools needed to respond well to change.

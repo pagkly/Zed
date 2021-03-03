@@ -16,11 +16,11 @@ author: Adam Hayes
 What to Form an Exit Strategy
 ## What Is an Exit Strategy?
 
-An exit strategy is a contingency plan that is executed by an investor, trader, [venture capitalist](https://www.investopedia.com/terms/v/venturecapitalist.asp), or business owner to [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) a position in a financial asset or dispose of [tangible business assets](https://www.investopedia.com/terms/t/tangibleasset.asp) once predetermined criteria for either has been met or exceeded.
+An exit strategy is a contingency plan that is executed by an investor, trader, [[venture capitalist]](https://www.investopedia.com/terms/v/venturecapitalist.asp), or business owner to [[liquidate]](https://www.investopedia.com/terms/l/liquidate.asp) a position in a financial asset or dispose of [[tangible business assets]](https://www.investopedia.com/terms/t/tangibleasset.asp) once predetermined criteria for either has been met or exceeded.
 
 An exit strategy may be executed to exit a non-performing investment or close an unprofitable business. In this case, the purpose of the exit strategy is to limit losses.
 
-An exit strategy may also be executed when an investment or business venture has met its profit objective. For instance, an [angel investor](https://www.investopedia.com/terms/a/angelinvestor.asp) in a startup company may plan an exit strategy through an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) ([IPO](https://www.investopedia.com/terms/i/ipo.asp)).
+An exit strategy may also be executed when an investment or business venture has met its profit objective. For instance, an [[angel investor]](https://www.investopedia.com/terms/a/angelinvestor.asp) in a startup company may plan an exit strategy through an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) ([IPO](https://www.investopedia.com/terms/i/ipo.asp)).
 
 Other reasons for executing an exit strategy may include a significant change in market conditions due to a catastrophic event; legal reasons, such as estate planning, liability lawsuits or a divorce; or for the simple reason that a business owner/investor is retiring and wants to cash out.
 
@@ -36,9 +36,9 @@ Other reasons for executing an exit strategy may include a significant change in
 
 An effective exit strategy should be planned for every positive and negative contingency regardless of the type of investment, trade, or business venture. This planning should be an integral part of determining the risk associated with the investment, trade, or business venture.
 
-A business exit strategy is an entrepreneur's strategic plan to sell their ownership in a company to investors or another company. An exit strategy gives a business owner a way to reduce or [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) their stake in a business and, if the business is successful, make a substantial profit.
+A business exit strategy is an entrepreneur's strategic plan to sell their ownership in a company to investors or another company. An exit strategy gives a business owner a way to reduce or [[liquidate]](https://www.investopedia.com/terms/l/liquidate.asp) their stake in a business and, if the business is successful, make a substantial profit.
 
-If the business is not successful, an exit strategy (or "exit plan") enables the entrepreneur to limit losses. An exit strategy may also be used by an investor such as a venture capitalist to prepare for a [cash-out of an investment](https://www.investopedia.com/ask/answers/05/shortvsput.asp).
+If the business is not successful, an exit strategy (or "exit plan") enables the entrepreneur to limit losses. An exit strategy may also be used by an investor such as a venture capitalist to prepare for a [[cash-out of an investment]](https://www.investopedia.com/ask/answers/05/shortvsput.asp).
 
 For traders and investors, exit strategies and other money management techniques can greatly enhance their trading by eliminating emotion and reducing risk. Before entering a trade, an investor is advised to set a point at which they will sell for a loss and a point at which they will sell for a gain.
 
@@ -50,21 +50,21 @@ In the case of a startup business, successful entrepreneurs plan for a comprehen
 
 If cash flow draws down to a point where business operations are no longer sustainable and an external capital infusion is no longer feasible to maintain operations, a planned termination of operations and a liquidation of all assets are sometimes the best options to limit any further losses.
 
-Most venture capitalists insist that a carefully planned exit strategy be included in a business plan before committing any [capital](https://www.investopedia.com/terms/c/capital.asp). Business owners or investors may also choose to exit if a lucrative offer for the business is tendered by another party.
+Most venture capitalists insist that a carefully planned exit strategy be included in a business plan before committing any [[capital]](https://www.investopedia.com/terms/c/capital.asp). Business owners or investors may also choose to exit if a lucrative offer for the business is tendered by another party.
 
-Ideally, an entrepreneur will develop an exit strategy in their initial business plan before launching the business. The [choice of exit plan](https://www.investopedia.com/terms/e/exit-option.asp) will influence business development decisions. Common types of exit strategies include initial public offerings (IPO), strategic [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp), and [management buy-outs (MBO)](https://www.investopedia.com/terms/m/mbo.asp).
+Ideally, an entrepreneur will develop an exit strategy in their initial business plan before launching the business. The [[choice of exit plan]](https://www.investopedia.com/terms/e/exit-option.asp) will influence business development decisions. Common types of exit strategies include initial public offerings (IPO), strategic [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp), and [management buy-outs (MBO)](https://www.investopedia.com/terms/m/mbo.asp).
 
 The exit strategy that an entrepreneur chooses depends on many factors such as how much control or involvement the entrepreneur wants to retain in the business, whether they want the company to continue to be operated in the same way, or if they are willing to see it change going forward. The entrepreneur will want to be paid a fair price for their ownership share.
 
 A strategic acquisition, for example, will relieve the founder of their ownership responsibilities, but will also mean giving up control. IPOs are often considered the ultimate exit strategy since they are associated with prestige and high payoffs. Contrastingly, bankruptcy is seen as the least desirable way to exit a business.
 
-A key aspect of an exit strategy is [business valuation](https://www.investopedia.com/terms/b/business-valuation.asp), and there are [specialists](https://www.nacva.com/) that can help business owners (and buyers) examine a company's financials to determine a [fair value](https://www.investopedia.com/terms/f/fairvalue.asp). There are also transition managers whose role is to assist sellers with their business exit strategies.
+A key aspect of an exit strategy is [business valuation](https://www.investopedia.com/terms/b/business-valuation.asp), and there are [specialists](https://www.nacva.com/) that can help business owners (and buyers) examine a company's financials to determine a [[fair value]](https://www.investopedia.com/terms/f/fairvalue.asp). There are also transition managers whose role is to assist sellers with their business exit strategies.
 
 ## Exit Strategies for a Trade
 
-When trading [securities](https://www.investopedia.com/terms/s/security.asp), whether for long-term investments or intraday trades, it is imperative that exit strategies for both the profit and loss sides of a trade be planned and diligently executed. All exit trades should be placed immediately after a position is taken. For a trade that meets its profit target, it could immediately be liquidated or a [trailing stop](https://www.investopedia.com/terms/t/trailingstop.asp) could be employed in an attempt to extract more profit.
+When trading [[securities]](https://www.investopedia.com/terms/s/security.asp), whether for long-term investments or intraday trades, it is imperative that exit strategies for both the profit and loss sides of a trade be planned and diligently executed. All exit trades should be placed immediately after a position is taken. For a trade that meets its profit target, it could immediately be liquidated or a [[trailing stop]](https://www.investopedia.com/terms/t/trailingstop.asp) could be employed in an attempt to extract more profit.
 
-Under no circumstances should a winning trade be allowed to become a losing trade. For losing trades, an investor should predetermine an acceptable loss amount and adhere to a protective [stop-loss](https://www.investopedia.com/terms/s/stop-lossorder.asp).
+Under no circumstances should a winning trade be allowed to become a losing trade. For losing trades, an investor should predetermine an acceptable loss amount and adhere to a protective [[stop-loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp).
 
 In the context of trading, exit strategies are extremely important because they assist traders in overcoming emotion when trading. When a trade reaches its target price, many traders become greedy and hesitate to exit for the sake of gaining more profit, which ultimately turns winning trades into losing trades. When losing trades reach their stop-loss, fear creeps in, and traders hesitate to exit losing trades causing even greater losses.
 

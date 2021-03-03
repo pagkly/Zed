@@ -30,9 +30,9 @@ Netting is a method of reducing risks in financial contracts by combining or agg
 
 Netting is often used in trading, where an investor can offset a position in one security or currency with another position either in the same security or a different one. The goal of netting is to offset losses in one position with gains in another. For example, if an investor is short 40 shares of a security and long 100 shares of the same security, the position is net long 60 shares.
 
-Netting is also used when a company files for [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) whereby the parties tend to net the balances owed to each other. This is also called a set-off clause or set-off law. In other words, a company doing business with a defaulting company may offset any money they owe the defaulting company with money that’s owed them. The remainder represents the total amount owed by them or to them, which can be used in bankruptcy proceedings.
+Netting is also used when a company files for [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) whereby the parties tend to net the balances owed to each other. This is also called a set-off clause or set-off law. In other words, a company doing business with a defaulting company may offset any money they owe the defaulting company with money that’s owed them. The remainder represents the total amount owed by them or to them, which can be used in bankruptcy proceedings.
 
-Companies can also use netting to simplify third-party invoices, ultimately reducing multiple invoices into a single one. For example, several divisions in a large transport corporation purchase paper supplies from a single supplier, but the paper supplier also uses the same transport company to ship its products to others. By netting how much each party owes the other, a single invoice can be created for the company that has the outstanding bill. This technique can also be used when transferring funds between [subsidiaries](https://www.investopedia.com/terms/s/subsidiary.asp).
+Companies can also use netting to simplify third-party invoices, ultimately reducing multiple invoices into a single one. For example, several divisions in a large transport corporation purchase paper supplies from a single supplier, but the paper supplier also uses the same transport company to ship its products to others. By netting how much each party owes the other, a single invoice can be created for the company that has the outstanding bill. This technique can also be used when transferring funds between [[subsidiaries]](https://www.investopedia.com/terms/s/subsidiary.asp).
 
 Netting saves a great deal of time by eliminating the need to process multiple transactions, reducing the number of transactions down to one.
 
@@ -42,7 +42,7 @@ Here are the top four ways netting is used:
 
 ### Close-Out Netting
 
-Close-out netting happens after [default](https://www.investopedia.com/terms/d/default2.asp), which is when a party fails to make principal and interest payments. Transactions between the two parties are netted to arrive at a single amount for one party to pay the other. In close-out netting, the existing contracts are terminated, and an aggregate terminal value is calculated and paid as one lump sum.
+Close-out netting happens after [[default]](https://www.investopedia.com/terms/d/default2.asp), which is when a party fails to make principal and interest payments. Transactions between the two parties are netted to arrive at a single amount for one party to pay the other. In close-out netting, the existing contracts are terminated, and an aggregate terminal value is calculated and paid as one lump sum.
 
 ### Settlement Netting
 
@@ -60,7 +60,7 @@ Also known as payment netting, settlement netting aggregates the amount due amon
 
 Netting saves companies a great deal of time and costs by eliminating the need to process a large number of transactions per month and reducing the transactions necessary down to one payment. For banks transferring across borders, it limits the number of foreign exchange transactions as the number of flows decreases.
 
-With netting in [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp), companies or banks can consolidate the number of currencies and foreign exchange deals intro larger trades, reaping the benefits of improved pricing. When companies have more organized time frames and predictability in settlements, they can more accurately forecast their [cash flows](https://www.investopedia.com/terms/c/cashflow.asp).
+With netting in [[foreign exchange]](https://www.investopedia.com/terms/f/foreign-exchange.asp), companies or banks can consolidate the number of currencies and foreign exchange deals intro larger trades, reaping the benefits of improved pricing. When companies have more organized time frames and predictability in settlements, they can more accurately forecast their [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp).
 
 ## Example of Netting
 
@@ -73,4 +73,4 @@ Netting is very common in the swap markets. For example, assume two parties ente
 
 Image by Sabrina Jiang © Investopedia 2020
 
-This netting process occurs on a wide variety of swaps, but there is one type of swap where netting does not occur. With currency swaps, since the [notional amounts](https://www.investopedia.com/terms/n/notionalvalue.asp) are in different currencies, the notional amounts are exchanged in their respective currencies, and all payments due are exchanged in full between two parties; no netting occurs.
+This netting process occurs on a wide variety of swaps, but there is one type of swap where netting does not occur. With currency swaps, since the [[notional amounts]](https://www.investopedia.com/terms/n/notionalvalue.asp) are in different currencies, the notional amounts are exchanged in their respective currencies, and all payments due are exchanged in full between two parties; no netting occurs.

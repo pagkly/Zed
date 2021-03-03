@@ -18,7 +18,7 @@ What Is a Heatmap?
 
 A heatmap is a two-dimensional visual representation of data using colors, where the colors all represent different values.
 
-A heatmap can be used with all sorts of data, from the [real estate](https://www.investopedia.com/terms/r/realestate.asp) market representing the number of foreclosures to the spreads of [credit default swaps](https://www.investopedia.com/terms/c/creditdefaultswap.asp) (CDS) to webpage analysis reflecting the number of hits a website receives.
+A heatmap can be used with all sorts of data, from the [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) market representing the number of foreclosures to the spreads of [[credit default swaps]](https://www.investopedia.com/terms/c/creditdefaultswap.asp) (CDS) to webpage analysis reflecting the number of hits a website receives.
 
 ### Key Takeaways
 
@@ -39,4 +39,4 @@ However, heatmaps can also be misleading because they often involve large amount
 
 ## Heatmap Example
 
-Heatmaps can be employed in a variety of situations and industries. For example, a heatmap of [foreclosures](https://www.investopedia.com/terms/f/foreclosure.asp) data could show parts of the U.S. experiencing high rates of foreclosure in a dark color and states with low foreclosure rates in lighter colors, which could be useful for real estate professionals looking to understand more about the market and identify market trends. A color-gradient legend typically accompanies a heatmap to specify the data and help the map reader understand the data. Heatmaps are also widely used in webpage industries to show where users are clicking.
+Heatmaps can be employed in a variety of situations and industries. For example, a heatmap of [[foreclosures]](https://www.investopedia.com/terms/f/foreclosure.asp) data could show parts of the U.S. experiencing high rates of foreclosure in a dark color and states with low foreclosure rates in lighter colors, which could be useful for real estate professionals looking to understand more about the market and identify market trends. A color-gradient legend typically accompanies a heatmap to specify the data and help the map reader understand the data. Heatmaps are also widely used in webpage industries to show where users are clicking.

@@ -49,7 +49,7 @@ There are numerous societies dedicated to the study, research, and advancement o
 
 -   Ancient Coins Collectors Guild
 -   Archaeological Institute of America
--   [The Canadian Numismatic Association](https://www.rcna.ca/)
+-   [[The Canadian Numismatic Association]](https://www.rcna.ca/)
 -   The Czech Numismatic Society
 -   International Numismatic Commission/Commission Internationale de Numismatique
 -   The Israel Numismatic Society

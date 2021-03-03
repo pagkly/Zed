@@ -28,7 +28,7 @@ Residual income is income that one continues to receive after the completion of 
 
 ## How Residual Income Works 
 
-Residual income measures net income after taking into account all required costs of capital related to generating that income. Other terms for residual income include economic value-added, [economic profit](https://www.investopedia.com/terms/e/economicprofit.asp), and abnormal earnings.
+Residual income measures net income after taking into account all required costs of capital related to generating that income. Other terms for residual income include economic value-added, [[economic profit]](https://www.investopedia.com/terms/e/economicprofit.asp), and abnormal earnings.
 
 Although residual income is sometimes known as passive income, side hustles can be used to boost personal residual income. 
 
@@ -36,13 +36,13 @@ Although residual income is sometimes known as passive income, side hustles can 
 
 ### Equity Valuation
 
-In equity valuation, residual income represents an economic earnings stream and valuation method for estimating the intrinsic value of a company's common stock. The residual income valuation model values a company as the sum of book value and the present value of expected future residual income. Residual income attempts to measure economic profit, which is the profit remaining after the deduction of [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp) for all sources of capital.
+In equity valuation, residual income represents an economic earnings stream and valuation method for estimating the intrinsic value of a company's common stock. The residual income valuation model values a company as the sum of book value and the present value of expected future residual income. Residual income attempts to measure economic profit, which is the profit remaining after the deduction of [[opportunity costs]](https://www.investopedia.com/terms/o/opportunitycost.asp) for all sources of capital.
 
 Residual income is calculated as net income less a charge for the cost of capital. The charge is known as the equity charge and is calculated as the value of equity capital multiplied by the cost of equity or the required rate of return on equity. Given the opportunity cost of equity, a company can have positive net income but negative residual income.
 
 ### Corporate Finance
 
-Managerial accounting defines residual income in a corporate setting as the amount of leftover operating profit after paying all costs of capital used to generate the revenues. It is also considered the company's net operating income or the amount of profit that exceeds its [required rate of return](https://www.investopedia.com/terms/r/requiredrateofreturn.asp). Residual income is typically used to assess the performance of a capital investment, team, department, or business unit.
+Managerial accounting defines residual income in a corporate setting as the amount of leftover operating profit after paying all costs of capital used to generate the revenues. It is also considered the company's net operating income or the amount of profit that exceeds its [[required rate of return]](https://www.investopedia.com/terms/r/requiredrateofreturn.asp). Residual income is typically used to assess the performance of a capital investment, team, department, or business unit.
 
 The calculation of residual income is as follows: Residual income = operating income - (minimum required return x operating assets).
 

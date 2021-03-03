@@ -16,7 +16,7 @@ author: Adam Hayes
 Correlation
 ## What Is Correlation?
 
-Correlation, in the finance and investment industries, is a statistic that measures the degree to which two securities move in relation to each other. Correlations are used in advanced [portfolio management](https://www.investopedia.com/terms/p/portfoliomanagement.asp), computed as the [correlation coefficient](https://www.investopedia.com/terms/c/correlationcoefficient.asp), which has a value that must fall between -1.0 and +1.0.
+Correlation, in the finance and investment industries, is a statistic that measures the degree to which two securities move in relation to each other. Correlations are used in advanced [[portfolio management]](https://www.investopedia.com/terms/p/portfoliomanagement.asp), computed as the [[correlation coefficient]](https://www.investopedia.com/terms/c/correlationcoefficient.asp), which has a value that must fall between -1.0 and +1.0.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Correlation, in the finance and investment industries, is a statistic that measu
 
 ## Understanding Correlation
 
-Correlation shows the strength of a relationship between two variables and is expressed numerically by the correlation coefficient. The correlation coefficient's values range between -1.0 and 1.0. A perfect [positive correlation](https://www.investopedia.com/terms/p/positive-correlation.asp) means that the correlation coefficient is exactly 1. This implies that as one security moves, either up or down, the other security moves in lockstep, in the same direction. A perfect [negative correlation](https://www.investopedia.com/terms/n/negative-correlation.asp) means that two assets move in opposite directions, while a zero correlation implies no linear relationship at all.
+Correlation shows the strength of a relationship between two variables and is expressed numerically by the correlation coefficient. The correlation coefficient's values range between -1.0 and 1.0. A perfect [[positive correlation]](https://www.investopedia.com/terms/p/positive-correlation.asp) means that the correlation coefficient is exactly 1. This implies that as one security moves, either up or down, the other security moves in lockstep, in the same direction. A perfect [[negative correlation]](https://www.investopedia.com/terms/n/negative-correlation.asp) means that two assets move in opposite directions, while a zero correlation implies no linear relationship at all.
 
-For example, large-cap mutual funds generally have a high positive correlation to the [Standard and Poor's (S&P) 500 Index](https://www.investopedia.com/terms/s/sp500.asp) or nearly one. Small-cap stocks have a positive correlation to the S&P, but it's not as high or approximately 0.8.
+For example, large-cap mutual funds generally have a high positive correlation to the [[Standard and Poor's (S&P) 500 Index]](https://www.investopedia.com/terms/s/sp500.asp) or nearly one. Small-cap stocks have a positive correlation to the S&P, but it's not as high or approximately 0.8.
 
-However, [put option](https://www.investopedia.com/terms/p/putoption.asp) prices and their underlying stock prices will tend to have a negative correlation. For review, a put option gives the owner the right, but not the obligation, to sell a specific amount of an [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp) at a pre-determined price within a specified time frame. Put option contracts become more profitable when the underlying stock price decreases. In other words, as the stock price increases, the put option prices go down, which is a direct and high-magnitude negative correlation.
+However, [[put option]](https://www.investopedia.com/terms/p/putoption.asp) prices and their underlying stock prices will tend to have a negative correlation. For review, a put option gives the owner the right, but not the obligation, to sell a specific amount of an [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp) at a pre-determined price within a specified time frame. Put option contracts become more profitable when the underlying stock price decreases. In other words, as the stock price increases, the put option prices go down, which is a direct and high-magnitude negative correlation.
 
 ## The Formula for Correlation Is
 
@@ -40,7 +40,7 @@ Correlation does not imply causation!
 
 ## Example of Correlation
 
-Investment managers, traders, and analysts find it very important to calculate correlation because the [risk reduction benefits of diversification](https://www.investopedia.com/articles/basics/11/5-portfolio-protection-strategies.asp) rely on this statistic. Financial spreadsheets and software can calculate the value of correlation quickly.
+Investment managers, traders, and analysts find it very important to calculate correlation because the [[risk reduction benefits of diversification]](https://www.investopedia.com/articles/basics/11/5-portfolio-protection-strategies.asp) rely on this statistic. Financial spreadsheets and software can calculate the value of correlation quickly.
 
 As a hypothetical example, assume that an analyst needs to calculate the correlation for the following two data sets:
 

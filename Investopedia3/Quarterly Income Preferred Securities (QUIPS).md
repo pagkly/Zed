@@ -16,11 +16,11 @@ author: Will Kenton
 Quarterly Income Preferred Securities (QUIPS)
 ## What Is a Quarterly Income Preferred Securities
 
-Shares that are an interest in a limited partnership that exists solely for the purpose of issuing preferred securities and lending the proceeds of the sales to its parent company. They usually have a $25 par value, [NYSE](https://www.investopedia.com/terms/n/nyse.asp) listing, and cumulative quarterly distributions.
+Shares that are an interest in a limited partnership that exists solely for the purpose of issuing preferred securities and lending the proceeds of the sales to its parent company. They usually have a $25 par value, [[NYSE]](https://www.investopedia.com/terms/n/nyse.asp) listing, and cumulative quarterly distributions.
 
 ## Understanding Quarterly Income Preferred Securities (QUIPS)
 
-QUIPS are an example of hybrid securities, that were created by Goldman, Sachs & Co. as a service mark and a marketing tool. QUIPS combine features of preferred stock and corporate bonds. Hybrids can pay a higher rate of return than preferred stock because dividends are paid with pretax dollars and, therefore, they generate a sizable tax break for corporations. The issuing entity, whether it’s a [Limited Liability Company](https://www.investopedia.com/terms/l/llc.asp) (LLC), or a Limited Partnership (LP) is typically a wholly-owned subsidiary of a U.S. parent corporation. These issuers may be either U.S. or non-U.S entities, but in either case, the parent corporation pays interest on the proceeds it receives from the LLC or LP, directly to QUIPS holders, in the form of quarterly dividends.
+QUIPS are an example of hybrid securities, that were created by Goldman, Sachs & Co. as a service mark and a marketing tool. QUIPS combine features of preferred stock and corporate bonds. Hybrids can pay a higher rate of return than preferred stock because dividends are paid with pretax dollars and, therefore, they generate a sizable tax break for corporations. The issuing entity, whether it’s a [[Limited Liability Company]](https://www.investopedia.com/terms/l/llc.asp) (LLC), or a Limited Partnership (LP) is typically a wholly-owned subsidiary of a U.S. parent corporation. These issuers may be either U.S. or non-U.S entities, but in either case, the parent corporation pays interest on the proceeds it receives from the LLC or LP, directly to QUIPS holders, in the form of quarterly dividends.
 
 ## Higher Investor Risk
 

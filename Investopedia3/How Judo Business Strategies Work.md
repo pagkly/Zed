@@ -20,13 +20,13 @@ A judo business strategy is a plan for managing a company by using its speed an
 
 -   Movement (using a firm's smaller size to act quickly and neutralize a larger competitor's advantages)
 -   Balance (absorbing and countering competitors' moves)
--   [Leverage](https://www.investopedia.com/terms/l/leverage.asp) (using competitors' strengths against them)
+-   [[Leverage]](https://www.investopedia.com/terms/l/leverage.asp) (using competitors' strengths against them)
 
 Small companies can use their firm footing with a core product and its power to challenge a larger competitor.
 
 ## Understanding Judo Business Strategy
 
-The strategy is drawn from the principles of judo, a Japanese martial art, and was used as a metaphor in the book "Judo Strategy (2001) by David B. Yoffie and Mary Kwak. The origins could go further back to "judo economics," a term coined by [economists](https://www.investopedia.com/terms/e/economist.asp) Judith Gelman and Steven Salop to describe a strategy when starting a company in a sector dominated by a large competitor.
+The strategy is drawn from the principles of judo, a Japanese martial art, and was used as a metaphor in the book "Judo Strategy (2001) by David B. Yoffie and Mary Kwak. The origins could go further back to "judo economics," a term coined by [[economists]](https://www.investopedia.com/terms/e/economist.asp) Judith Gelman and Steven Salop to describe a strategy when starting a company in a sector dominated by a large competitor.
 
 One of the major aspects of judo is using the size of a larger opponent against itself. As a business strategy, it is designed to give smaller companies an advantage by using their nimbleness and ability to respond more quickly to market changes as a competitive advantage.
 

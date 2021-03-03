@@ -16,7 +16,7 @@ author: Chris B Murphy
 How Net Debt Is Calculated and Used to Measure a Company's Liquidity
 ## What Is Net Debt?
 
-Net debt is a liquidity metric used to determine how well a company can pay all of its debts if they were due immediately. Net debt shows much debt a company has on its [balance sheet](https://www.investopedia.com/articles/04/031004.asp) compared to its liquid assets. Net debt shows how much cash would remain if all debts were paid off and if a company has enough liquidity to meet its debt obligations.
+Net debt is a liquidity metric used to determine how well a company can pay all of its debts if they were due immediately. Net debt shows much debt a company has on its [[balance sheet]](https://www.investopedia.com/articles/04/031004.asp) compared to its liquid assets. Net debt shows how much cash would remain if all debts were paid off and if a company has enough liquidity to meet its debt obligations.
 
 ## Net Debt Formula and Calculation
 
@@ -30,7 +30,7 @@ Net Debt\=STD+LTD−CCEwhere:STD\= Debt that is due in 12 months or les
 
 ## What Net Debt Indicates
 
-The net debt figure is used as an indication of a business's ability to pay off all of its debts if they became due simultaneously on the date of calculation, using only its available cash and highly liquid assets called [cash equivalents](https://www.investopedia.com/terms/c/cashequivalents.asp).
+The net debt figure is used as an indication of a business's ability to pay off all of its debts if they became due simultaneously on the date of calculation, using only its available cash and highly liquid assets called [[cash equivalents]](https://www.investopedia.com/terms/c/cashequivalents.asp).
 
 Net debt helps to determine whether a company is overleveraged or has too much debt given its liquid assets. A negative net debt implies that the company possesses more cash and cash equivalents than its financial obligations and is hence more financially stable.
 
@@ -38,17 +38,17 @@ A negative net debt means a company has little debt and more cash, while a compa
 
 ## Net Debt and Total Debt
 
-Net debt is in part, calculated by determining the company's total debt. Total debt includes [long-term liabilities](https://www.investopedia.com/terms/l/longtermliabilities.asp), such as mortgages and other loans that do not mature for several years, as well as short-term obligations, including loan payments, credit card, and accounts payable balances.
+Net debt is in part, calculated by determining the company's total debt. Total debt includes [[long-term liabilities]](https://www.investopedia.com/terms/l/longtermliabilities.asp), such as mortgages and other loans that do not mature for several years, as well as short-term obligations, including loan payments, credit card, and accounts payable balances.
 
 ## Net Debt and Total Cash
 
-The net debt calculation also requires figuring out a company's total cash. Unlike the debt figure, the total cash includes cash and highly liquid assets. Cash and cash equivalents would include items such as checking and savings account balances, stocks, and some [marketable securities](https://www.investopedia.com/terms/m/marketablesecurities.asp). However, it's important to note that many companies may not include marketable securities as cash equivalents since it depends on the investment vehicle and whether it's liquid enough to be converted within 90 days.
+The net debt calculation also requires figuring out a company's total cash. Unlike the debt figure, the total cash includes cash and highly liquid assets. Cash and cash equivalents would include items such as checking and savings account balances, stocks, and some [[marketable securities]](https://www.investopedia.com/terms/m/marketablesecurities.asp). However, it's important to note that many companies may not include marketable securities as cash equivalents since it depends on the investment vehicle and whether it's liquid enough to be converted within 90 days.
 
 ## Comprehensive Debt Analysis
 
 While the net debt figure is a great place to start, a prudent investor must also investigate the company's debt level in more detail. Important factors to consider are the actual debt figures – both short term and long term—and what percentage of the total debt needs to be paid off within the coming year.
 
-Debt management is important for companies because it managed properly they should have access to additional funding if needed. For many companies, taking on new [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp) is vital to their long-growth strategy since the proceeds might be used to fund an expansion project, or to repay or refinance older or more expensive debt.
+Debt management is important for companies because it managed properly they should have access to additional funding if needed. For many companies, taking on new [[debt financing]](https://www.investopedia.com/terms/d/debtfinancing.asp) is vital to their long-growth strategy since the proceeds might be used to fund an expansion project, or to repay or refinance older or more expensive debt.
 
 A company might be in financial distress if it has too much debt, but also the maturity of the debt is important to monitor. If the majority of the company's debts are short term, meaning the obligations must be repaid within 12 months, the company must generate enough revenue and have enough liquid assets to cover the upcoming debt maturities. Investors should consider whether the business could afford to cover their short-term debts if the company's sales took decreased significantly.
 
@@ -78,7 +78,7 @@ To calculate net debt, we must first total all debt and total all cash and cash 
 
 ## Net Debt vs. Debt-to-Equity
 
-The [debt-to-equity ratio](https://www.investopedia.com/terms/d/debtequityratio.asp) is a leverage ratio, which shows how much of a company's financing or capital structure is made up of debt versus issuing shares of equity. The debt-to-equity ratio calculated by dividing a company’s total liabilities by its [shareholder equity](https://www.investopedia.com/terms/s/shareholdersequity.asp) and is used to determine if a company is using too much or too little debt or equity to finance its growth.
+The [[debt-to-equity ratio]](https://www.investopedia.com/terms/d/debtequityratio.asp) is a leverage ratio, which shows how much of a company's financing or capital structure is made up of debt versus issuing shares of equity. The debt-to-equity ratio calculated by dividing a company’s total liabilities by its [shareholder equity](https://www.investopedia.com/terms/s/shareholdersequity.asp) and is used to determine if a company is using too much or too little debt or equity to finance its growth.
 
 Net debt takes it to another level by measuring how much total debt is on the balance sheet after factoring cash and cash equivalents. Net debt is a liquidity metric while debt-to-equity is a leverage ratio.
 
@@ -86,6 +86,6 @@ Net debt takes it to another level by measuring how much total debt is on the ba
 
 Although it's typically perceived that companies with negative net debt are better able to withstand economic downtrends and deteriorating macroeconomic conditions, too little debt might be a warning sign. If a company is not investing in its long-term growth as a result of the lack of debt, it might struggle against competitors that are investing in their long-term growth.
 
-For example, oil and gas companies are capital intensive meaning they must invest in large [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp), which includes property, plant, and equipment. As a result, companies in the industry typically have significant portions of long-term debt to finance their oil rigs and drilling equipment.
+For example, oil and gas companies are capital intensive meaning they must invest in large [[fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp), which includes property, plant, and equipment. As a result, companies in the industry typically have significant portions of long-term debt to finance their oil rigs and drilling equipment.
 
-An oil company should have a positive net debt figure, but investors must compare the company's net debt with other oil companies in the same industry. It doesn't make sense to compare the net debt of an oil and gas company with the net debt of a consulting company with few if any fixed assets. As a result, net debt is not a good financial metric when comparing companies of different industries since the companies might have vastly different borrowing needs and [capital structures](https://www.investopedia.com/terms/c/capitalstructure.asp).
+An oil company should have a positive net debt figure, but investors must compare the company's net debt with other oil companies in the same industry. It doesn't make sense to compare the net debt of an oil and gas company with the net debt of a consulting company with few if any fixed assets. As a result, net debt is not a good financial metric when comparing companies of different industries since the companies might have vastly different borrowing needs and [[capital structures]](https://www.investopedia.com/terms/c/capitalstructure.asp).

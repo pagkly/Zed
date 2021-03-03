@@ -22,7 +22,7 @@ The NZD is affectionately referred to as the 'Kiwi', in honor of a flightless bi
 
 ## Understanding the NZD (New Zealand Dollar)
 
-The New Zealand currency is known as the New Zealand dollar. [Decimalization](https://www.investopedia.com/terms/d/decimalization.asp) of the currency (division into 100 cents) took place in 1967 when the New Zealand dollar replaced the New Zealand pound at a rate of two dollars to one pound. Initially [pegged](https://www.investopedia.com/terms/p/pegging.asp) to the United States dollar, the New Zealand dollar went through a series of changes in the fixed exchange rate until March of 1985, when the currency was allowed to float freely.
+The New Zealand currency is known as the New Zealand dollar. [[Decimalization]](https://www.investopedia.com/terms/d/decimalization.asp) of the currency (division into 100 cents) took place in 1967 when the New Zealand dollar replaced the New Zealand pound at a rate of two dollars to one pound. Initially [[pegged]](https://www.investopedia.com/terms/p/pegging.asp) to the United States dollar, the New Zealand dollar went through a series of changes in the fixed exchange rate until March of 1985, when the currency was allowed to float freely.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ The New Zealand currency is known as the New Zealand dollar. [Decimalization](ht
 
 ## History of the New Zealand Dollar
 
-New Zealand currency has had a long history of over 160 years. In fact, during the 1800s, New Zealand used their coins and bank notes before British currency was even legal [currency](https://www.investopedia.com/terms/c/currency.asp). However, nothing was made official until 1933, when New Zealand issued their first official coins, based on the British pound, shilling, and pence. The first coins had pictures of the native birds of New Zealand on the “tails” side, a tradition that has continued, with the British monarch on the head side.
+New Zealand currency has had a long history of over 160 years. In fact, during the 1800s, New Zealand used their coins and bank notes before British currency was even legal [[currency]](https://www.investopedia.com/terms/c/currency.asp). However, nothing was made official until 1933, when New Zealand issued their first official coins, based on the British pound, shilling, and pence. The first coins had pictures of the native birds of New Zealand on the “tails” side, a tradition that has continued, with the British monarch on the head side.
 
-In 1934, with the establishment of the Reserve Bank of New Zealand, it became the only supplier of [banknotes](https://www.investopedia.com/terms/b/banknote.asp). The original notes had a variety of designs, including that of a kiwi, the nation’s Coat of Arms, Maori King Tawhiao and Fiordland's Mitre Peak. It took another thirty years before the Reserve Bank replaced the currency of pounds, shillings, and pence with actual dollars and cents. In the year 1967 alone, the Bank printed 27 million new banknotes and 165 million new coins.
+In 1934, with the establishment of the Reserve Bank of New Zealand, it became the only supplier of [[banknotes]](https://www.investopedia.com/terms/b/banknote.asp). The original notes had a variety of designs, including that of a kiwi, the nation’s Coat of Arms, Maori King Tawhiao and Fiordland's Mitre Peak. It took another thirty years before the Reserve Bank replaced the currency of pounds, shillings, and pence with actual dollars and cents. In the year 1967 alone, the Bank printed 27 million new banknotes and 165 million new coins.
 
 The NZD currency has a long history of colorful and vibrant money and since first issuing, has changed its printed design several times. In 1992, the images of Queen Elizabeth on all of the banknotes altered to reflect prominent citizens of New Zealand such as Zealanders Edmund Hillary, Kate Sheppard, Apirana Ngata and Ernest Rutherford, along with local birds and plants on the backs of the notes.
 

@@ -27,13 +27,13 @@ Joint liability denotes the obligation of two or more partners to pay back a deb
 
 ## Understanding Joint Liability
 
-Joint liability for a debt results from two or more parties applying jointly for credit as [co-borrowers](https://www.investopedia.com/terms/c/co_borrowers.asp), which is implied in a [general partnership](https://www.investopedia.com/terms/g/generalpartnership.asp). Under the regulations of a general partnership, any partner entering into a contract with or without the knowledge of other partners automatically binds all partners to that contract. If a court finds that a partnership is at fault in a lawsuit, then every partner is responsible for paying any monetary legal liability or compensation. As such, any partner entering a joint liability agreement should be aware that they too are liable for the actions of each and every other partner as it pertains to the partnership.
+Joint liability for a debt results from two or more parties applying jointly for credit as [[co-borrowers]](https://www.investopedia.com/terms/c/co_borrowers.asp), which is implied in a [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp). Under the regulations of a general partnership, any partner entering into a contract with or without the knowledge of other partners automatically binds all partners to that contract. If a court finds that a partnership is at fault in a lawsuit, then every partner is responsible for paying any monetary legal liability or compensation. As such, any partner entering a joint liability agreement should be aware that they too are liable for the actions of each and every other partner as it pertains to the partnership.
 
 ## Joint Liability Example
 
-An example of joint liability would be when spouses both sign for a loan. If one spouse should die, the other remains liable for the balance of the loan as a co-signer. However, this is contingent upon [default](https://www.investopedia.com/terms/d/default2.asp) by the borrower.
+An example of joint liability would be when spouses both sign for a loan. If one spouse should die, the other remains liable for the balance of the loan as a co-signer. However, this is contingent upon [[default]](https://www.investopedia.com/terms/d/default2.asp) by the borrower.
 
-With joint liability, [creditors](https://www.investopedia.com/terms/c/creditor.asp) may sue once for any debt. In the case of partnerships, creditors tend to choose the one with the deepest pockets or the most likely to pay, as they cannot pursue additional amounts from other partners.
+With joint liability, [[creditors]](https://www.investopedia.com/terms/c/creditor.asp) may sue once for any debt. In the case of partnerships, creditors tend to choose the one with the deepest pockets or the most likely to pay, as they cannot pursue additional amounts from other partners.
 
 Joint liability is essentially the opposite of several liability, in which all parties are responsible for their individual obligations only.
 
@@ -43,4 +43,4 @@ Several liability (or proportionate liability) is when all parties are liable fo
 
 ## Joint Liability vs. Jointly and Severally Liable
 
-When partners have [joint and several liability](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) for a debt, a creditor can sue any of the partners for repayment. It is a variation of joint liability. If one partner pays the debt, then that partner may pursue other partners to collect their share of the debt obligation. In short, it is the responsibility of defendants to sort out and reconcile their separate shares of liability and payments.
+When partners have [[joint and several liability]](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) for a debt, a creditor can sue any of the partners for repayment. It is a variation of joint liability. If one partner pays the debt, then that partner may pursue other partners to collect their share of the debt obligation. In short, it is the responsibility of defendants to sort out and reconcile their separate shares of liability and payments.

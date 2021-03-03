@@ -16,13 +16,13 @@ author: Adam Hayes
 How an Electronic Communication Network Works
 ## What Is an Electronic Communication Network?
 
-An electronic communication network (ECN) is a computerized system that automatically matches buy and sell orders for securities in the market. It connects major brokerages and individual traders so they can trade directly between themselves without going through a [middleman](https://www.investopedia.com/terms/m/middleman.asp) and make it possible for investors in different geographic locations to quickly and easily trade with each other. The U.S. Securities and Exchange Commission (SEC) requires ECNs to register as broker-dealers.
+An electronic communication network (ECN) is a computerized system that automatically matches buy and sell orders for securities in the market. It connects major brokerages and individual traders so they can trade directly between themselves without going through a [[middleman]](https://www.investopedia.com/terms/m/middleman.asp) and make it possible for investors in different geographic locations to quickly and easily trade with each other. The U.S. Securities and Exchange Commission (SEC) requires ECNs to register as broker-dealers.
 
 #### Electronic Communications Network (ECN)
 
 ## Understanding Electronic Communication Networks
 
-Classified by the SEC as an alternative trading system (ATS), an ECN makes money by charging a fee for each transaction to meet financial obligations. It attempts to eliminate the third party’s role in executing orders entered by an exchange market maker or an over-the-counter market maker and permits such orders to be entirely or partly executed. Orders placed through ECNs are usually [limit orders](https://www.investopedia.com/terms/l/limitorder.asp), which is a particularly useful for safely [trading after hours](https://www.investopedia.com/terms/a/afterhourstrading.asp), given the volatile effect that can have on a [stock's price](https://www.investopedia.com/ask/answers/05/saleafterhours.asp).
+Classified by the SEC as an alternative trading system (ATS), an ECN makes money by charging a fee for each transaction to meet financial obligations. It attempts to eliminate the third party’s role in executing orders entered by an exchange market maker or an over-the-counter market maker and permits such orders to be entirely or partly executed. Orders placed through ECNs are usually [[limit orders]](https://www.investopedia.com/terms/l/limitorder.asp), which is a particularly useful for safely [[trading after hours]](https://www.investopedia.com/terms/a/afterhourstrading.asp), given the volatile effect that can have on a [[stock's price]](https://www.investopedia.com/ask/answers/05/saleafterhours.asp).
 
 The use of the ECN allows investors a way to trade outside traditional trading hours, providing a mechanism for those who either can’t be actively involved during normal market times or who prefer the flexibility offered by wider availability. It also avoids the wider spreads that are common when using a traditional broker and provides overall lower commissions and fees. For those concerned about privacy, the ECN can provide a level of anonymity to those who desire it. This can be particularly attractive to investors interested in making larger transactions.
 
@@ -49,7 +49,7 @@ Some of the different ECNs include Instinet, SelectNet, and NYSE Arca. Instinet 
 
 SelectNet is used primarily by market makers, but it does not require immediate order execution and helps investors trade with specific market makers. NYSE Arca grew out of the merger between the New York Stock Exchange (NYSE) and Archipelago, an early ECN from 1996. It facilitates electronic stock trading on major U.S. exchanges such as the NYSE and NASDAQ.
 
-In foreign exchange markets, certain Forex brokers are designated as [ECN brokers](https://www.investopedia.com/terms/e/ecn-broker.asp) who can facilitate currencies trades across electronic matching networks.
+In foreign exchange markets, certain Forex brokers are designated as [[ECN brokers]](https://www.investopedia.com/terms/e/ecn-broker.asp) who can facilitate currencies trades across electronic matching networks.
 
 ### 1969
 

@@ -16,11 +16,11 @@ author: Daniel Liberto
 Recurring Revenue Definition
 ## What is Recurring Revenue?
 
-Recurring revenue is the portion of a company's [revenue](https://www.investopedia.com/terms/r/revenue.asp) that is expected to continue in the future. Unlike one-off sales, these revenues are predictable, stable and can be counted on to occur at regular intervals going forward with a relatively high degree of certainty.
+Recurring revenue is the portion of a company's [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) that is expected to continue in the future. Unlike one-off sales, these revenues are predictable, stable and can be counted on to occur at regular intervals going forward with a relatively high degree of certainty.
 
 ## Understanding Recurring Revenue
 
-Businesses, investors and [analysts](https://www.investopedia.com/terms/a/analyst.asp) pay particular attention to a company’s [revenue](https://www.investopedia.com/terms/r/revenue.asp), also known as its [top line](https://www.investopedia.com/terms/t/topline.asp), recorded on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp). The top line determines the [bottom line](https://www.investopedia.com/terms/b/bottomline.asp), or profit, since all expenses and taxes are subtracted from revenues to get [net income.](https://www.investopedia.com/terms/n/netincome.asp)
+Businesses, investors and [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) pay particular attention to a company’s [revenue](https://www.investopedia.com/terms/r/revenue.asp), also known as its [[top line]](https://www.investopedia.com/terms/t/topline.asp), recorded on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp). The top line determines the [bottom line](https://www.investopedia.com/terms/b/bottomline.asp), or profit, since all expenses and taxes are subtracted from revenues to get [[net income.]](https://www.investopedia.com/terms/n/netincome.asp)
 
 Revenue can consist of one-time sales or a stream of expected periodic sales. The latter, known as recurring revenue, is very important to businesses that are concerned with maintaining a constant and consistent stream of revenue.
 
@@ -33,7 +33,7 @@ Revenue can consist of one-time sales or a stream of expected periodic sales. Th
 
 ## Examples of Recurring Revenue
 
-Recurring revenue can appear in different forms across various industries. Examples can range from companies who receive monthly payments from customers locked into long-term contracts extending beyond the current [accounting period](https://www.investopedia.com/terms/a/accountingperiod.asp) to big name brands that can reasonably expect their popular, [market-leading](https://www.investopedia.com/terms/m/market-leader.asp) products to continue being at the top of consumer shopping lists for years to come.
+Recurring revenue can appear in different forms across various industries. Examples can range from companies who receive monthly payments from customers locked into long-term contracts extending beyond the current [[accounting period]](https://www.investopedia.com/terms/a/accountingperiod.asp) to big name brands that can reasonably expect their popular, [[market-leading]](https://www.investopedia.com/terms/m/market-leader.asp) products to continue being at the top of consumer shopping lists for years to come.
 
 ### Long-Term Contracts
 
@@ -47,7 +47,7 @@ They also generally build cancellation clauses into their contracts, requiring t
 
 [Evergreen](https://www.investopedia.com/terms/e/evergreen.asp) subscriptions, including auto-renewal policies such as Microsoft Corp.’s ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) Office 365, Norton/McAfee anti-virus registrations, cloud services, music streaming, internet domain registrations, print or digital news publications, etc. are other examples of sources of revenue that are recurring for a firm.
 
-Companies are sure to collect on these payments until customers terminate their subscriptions. Monthly recurring revenue, an important [metric](https://www.investopedia.com/terms/m/metrics.asp) for subscription-based businesses, is calculated by multiplying the total number of paying users by the [average revenue per user](https://www.investopedia.com/terms/a/average-revenue-user-arpu.asp) (ARPU).
+Companies are sure to collect on these payments until customers terminate their subscriptions. Monthly recurring revenue, an important [[metric]](https://www.investopedia.com/terms/m/metrics.asp) for subscription-based businesses, is calculated by multiplying the total number of paying users by the [average revenue per user](https://www.investopedia.com/terms/a/average-revenue-user-arpu.asp) (ARPU).
 
 ### Cross-selling Supplementary Goods
 
@@ -65,4 +65,4 @@ The soft drink maker’s beverages are consumed by customers all over the world 
 
 Many market pundits consider recurring revenue to be a highly desirable quality. They make a company more stable and predictable, both operationally and financially, lowering the risk that business will take a drastic turn from one month to the next.
 
-That stability usually comes at a cost. Investors are regularly willing to pay more for the [earnings](https://www.investopedia.com/terms/e/earnings.asp) generated by companies with recurring revenues because their forecasts are deemed more reliable. Of course, that also means that any sign of falling sales can incite more panic. Contracts eventually end and company fortunes and market strength can fluctuate over time as consumer habits change and new competitors enter the market.
+That stability usually comes at a cost. Investors are regularly willing to pay more for the [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) generated by companies with recurring revenues because their forecasts are deemed more reliable. Of course, that also means that any sign of falling sales can incite more panic. Contracts eventually end and company fortunes and market strength can fluctuate over time as consumer habits change and new competitors enter the market.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Texas Ratio
 ## What Is a Texas Ratio?
 
-The Texas ratio was developed to warn of credit problems at particular banks or banks in particular regions. The Texas ratio takes the amount of a bank's [non-performing assets](https://www.investopedia.com/terms/n/non-performing-assets.asp) and divides this number by the sum of the bank's [tangible common equity](https://www.investopedia.com/terms/t/tangible-common-equity.asp) and its loan [loss reserves](https://www.investopedia.com/terms/l/loss-reserve.asp). A ratio of more than 100 (or 1:1) indicates that non-performing assets are greater than the resources the bank may need to cover potential losses on those assets.
+The Texas ratio was developed to warn of credit problems at particular banks or banks in particular regions. The Texas ratio takes the amount of a bank's [[non-performing assets]](https://www.investopedia.com/terms/n/non-performing-assets.asp) and divides this number by the sum of the bank's [[tangible common equity]](https://www.investopedia.com/terms/t/tangible-common-equity.asp) and its loan [[loss reserves]](https://www.investopedia.com/terms/l/loss-reserve.asp). A ratio of more than 100 (or 1:1) indicates that non-performing assets are greater than the resources the bank may need to cover potential losses on those assets.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ As part of the Texas ratio, non-performing assets include loans that are in defa
 
 ## Special Considerations
 
-The Texas ratio is useful for investors as well as customers. Banking customers will assess the Texas ratio to ensure their money is safe. This is especially important if a customer has money outside the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) coverage limits—$250,000. 
+The Texas ratio is useful for investors as well as customers. Banking customers will assess the Texas ratio to ensure their money is safe. This is especially important if a customer has money outside the [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) coverage limits—$250,000. 
 
 The Texas ratio, like many financial ratios, is best utilized with other analyses. A high ratio doesn’t mean the bank will go bankrupt, as many banks can operate with high Texas ratios. 
 

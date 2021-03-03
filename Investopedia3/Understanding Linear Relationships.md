@@ -18,7 +18,7 @@ Understanding Linear Relationships
 
 A linear relationship (or linear association) is a statistical term used to describe a straight-line relationship between two variables. Linear relationships can be expressed either in a graphical format where the variable and the constant are connected via a straight line or in a mathematical format where the independent variable is multiplied by the slope coefficient, added by a constant, which determines the dependent variable.
 
-A linear relationship may be contrasted with a [polynomial](https://www.investopedia.com/terms/p/polynomial_trending.asp) or non-linear (curved) relationship.
+A linear relationship may be contrasted with a [[polynomial]](https://www.investopedia.com/terms/p/polynomial_trending.asp) or non-linear (curved) relationship.
 
 ### Key Takeaways
 
@@ -40,9 +40,9 @@ m\=(y2−y1)(x2−x1)m = \\frac{(y\_2 - y\_1)}{(x\_2 - x\_1)}
 
 There are three sets of necessary criteria an equation has to meet in order to qualify as a linear one: an equation expressing a linear relationship can't consist of more than two variables, all of the variables in an equation must be to the first power, and the equation must graph as a straight line.
 
-A commonly used linear relationship is a [correlation](https://www.investopedia.com/terms/c/correlation.asp), which describes how close to linear fashion one variable changes as related to changes in another variable.
+A commonly used linear relationship is a [[correlation]](https://www.investopedia.com/terms/c/correlation.asp), which describes how close to linear fashion one variable changes as related to changes in another variable.
 
-In [econometrics](https://www.investopedia.com/terms/e/econometrics.asp), [linear regression](https://www.investopedia.com/terms/r/regression.asp) is an often-used method of generating linear relationships to explain various phenomena. It is commonly used in extrapolating events from the past to make forecasts for the future. Not all relationships are linear, however. Some data describe relationships that are curved (such as polynomial relationships) while still other data cannot be parameterized.
+In [[econometrics]](https://www.investopedia.com/terms/e/econometrics.asp), [[linear regression]](https://www.investopedia.com/terms/r/regression.asp) is an often-used method of generating linear relationships to explain various phenomena. It is commonly used in extrapolating events from the past to make forecasts for the future. Not all relationships are linear, however. Some data describe relationships that are curved (such as polynomial relationships) while still other data cannot be parameterized.
 
 ## Linear Functions
 
@@ -66,7 +66,7 @@ While there are more than two variables in this equation, it's still a linear eq
 
 A linear relationship can also be found in the equation distance = rate x time. Because distance is a positive number (in most cases), this linear relationship would be expressed on the top right quadrant of a graph with an X and Y-axis.
 
-If a bicycle made for two was traveling at a rate of 30 miles per hour for 20 hours, the rider will end up traveling 600 miles. Represented graphically with the distance on the Y-axis and time on the X-axis, a line tracking the distance over those 20 hours would travel straight out from the [convergence](https://www.investopedia.com/terms/c/convergence.asp) of the X and Y-axis.
+If a bicycle made for two was traveling at a rate of 30 miles per hour for 20 hours, the rider will end up traveling 600 miles. Represented graphically with the distance on the Y-axis and time on the X-axis, a line tracking the distance over those 20 hours would travel straight out from the [[convergence]](https://www.investopedia.com/terms/c/convergence.asp) of the X and Y-axis.
 
 ### Example 3
 

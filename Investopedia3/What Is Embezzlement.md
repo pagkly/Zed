@@ -16,9 +16,9 @@ author: James Chen
 What Is Embezzlement?
 ## What Is Embezzlement?
 
-Embezzlement refers to a form of [white-collar crime](https://www.investopedia.com/terms/w/white-collar-crime.asp) in which a person or entity misappropriates the [assets](https://www.investopedia.com/terms/a/asset.asp) entrusted to him or her. In this type of fraud, the embezzler attains the assets lawfully and has the right to possess them, but the assets are then used for unintended purposes.
+Embezzlement refers to a form of [[white-collar crime]](https://www.investopedia.com/terms/w/white-collar-crime.asp) in which a person or entity misappropriates the [[assets]](https://www.investopedia.com/terms/a/asset.asp) entrusted to him or her. In this type of fraud, the embezzler attains the assets lawfully and has the right to possess them, but the assets are then used for unintended purposes.
 
-Embezzlement is a breach of the [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) responsibilities placed upon a person.
+Embezzlement is a breach of the [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) responsibilities placed upon a person.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Embezzlement is a breach of the [fiduciary](https://www.investopedia.com/terms/f
 
 ## Understanding Embezzlement
 
-The nature of embezzlement can be both small and large. Embezzling funds can be as minor as a store clerk pocketing a few [bucks](https://www.investopedia.com/terms/b/buck.asp) from a cash register. However, on a grander scale, embezzlement also occurs when the executives of large companies falsely expense millions of dollars, transferring the funds into personal accounts. Depending on the scale of the crime, embezzlement may be punishable by large fines and time in jail.
+The nature of embezzlement can be both small and large. Embezzling funds can be as minor as a store clerk pocketing a few [[bucks]](https://www.investopedia.com/terms/b/buck.asp) from a cash register. However, on a grander scale, embezzlement also occurs when the executives of large companies falsely expense millions of dollars, transferring the funds into personal accounts. Depending on the scale of the crime, embezzlement may be punishable by large fines and time in jail.
 
 ## How Embezzlement Works
 
@@ -42,7 +42,7 @@ There are different types of embezzlement such as Ponzi schemes and other scams 
 
 ## Types of Embezzlement
 
-Some types of embezzlement might be combined with other forms of fraud, such as [Ponzi schemes](https://www.investopedia.com/terms/p/ponzischeme.asp). In such cases, the embezzler scams investors to entrust them with their assets to invest on their behalf but instead uses the money for personal gain and enrichment. Maintaining the fraud often includes seeking out new investors to bring in more money to appease prior investors.
+Some types of embezzlement might be combined with other forms of fraud, such as [[Ponzi schemes]](https://www.investopedia.com/terms/p/ponzischeme.asp). In such cases, the embezzler scams investors to entrust them with their assets to invest on their behalf but instead uses the money for personal gain and enrichment. Maintaining the fraud often includes seeking out new investors to bring in more money to appease prior investors.
 
 An embezzler might also transfer other assets aside from money. An embezzler might claim the real estate, company vehicles, smartphones, and other hardware such as laptops that belong to an organization for personal use.
 

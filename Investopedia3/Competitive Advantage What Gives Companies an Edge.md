@@ -18,7 +18,7 @@ Competitive Advantage: What Gives Companies an Edge
 
 Competitive advantage refers to factors that allow a company to produce goods or services better or more cheaply than its rivals. These factors allow the productive entity to generate more sales or superior margins compared to its market rivals.
 
-Competitive advantages are attributed to a variety of factors including cost structure, [branding](https://www.investopedia.com/articles/financial-theory/11/branding-ultimate-economic-moat.asp), the quality of product offerings, the [distribution network](https://www.investopedia.com/terms/d/distribution-network.asp), [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp), and [customer service](https://www.investopedia.com/terms/c/customer-service.asp).
+Competitive advantages are attributed to a variety of factors including cost structure, [[branding]](https://www.investopedia.com/articles/financial-theory/11/branding-ultimate-economic-moat.asp), the quality of product offerings, the [distribution network](https://www.investopedia.com/terms/d/distribution-network.asp), [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp), and [[customer service]](https://www.investopedia.com/terms/c/customer-service.asp).
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Competitive advantages are attributed to a variety of factors including cost st
 
 ## Understanding Competitive Advantage
 
-Competitive advantages generate greater value for a firm and its shareholders because of certain strengths or conditions. The more sustainable the competitive advantage, the more difficult it is for competitors to neutralize the advantage. The two main types of competitive advantages are [comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp) and differential advantage.
+Competitive advantages generate greater value for a firm and its shareholders because of certain strengths or conditions. The more sustainable the competitive advantage, the more difficult it is for competitors to neutralize the advantage. The two main types of competitive advantages are [[comparative advantage]](https://www.investopedia.com/terms/c/comparativeadvantage.asp) and differential advantage.
 
 The term "competitive advantage" traditionally refers to the business world, but can also be applied to a country, organization, or even a person who is competing for something.
 

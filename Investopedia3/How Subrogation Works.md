@@ -16,9 +16,9 @@ author: Julia Kagan
 How Subrogation Works
 ## What Is Subrogation?
 
-Subrogation is a term describing a right held by most insurance carriers to legally pursue a third party that caused an insurance loss to the insured. This is done in order to recover the amount of the [claim](https://www.investopedia.com/terms/i/insurance_claim.asp) paid by the insurance carrier to the insured for the loss.
+Subrogation is a term describing a right held by most insurance carriers to legally pursue a third party that caused an insurance loss to the insured. This is done in order to recover the amount of the [[claim]](https://www.investopedia.com/terms/i/insurance_claim.asp) paid by the insurance carrier to the insured for the loss.
 
-When an [insurance](https://www.investopedia.com/articles/pf/06/insureneeds.asp) company pursues a third party for damages, it is said to "step into the shoes of the policyholder," and thus will have the same rights and legal standing as the policyholder when seeking compensation for losses. If the insured party does not have the legal standing to sue the third party, the insurer will also be unable to pursue a lawsuit as a result.
+When an [[insurance]](https://www.investopedia.com/articles/pf/06/insureneeds.asp) company pursues a third party for damages, it is said to "step into the shoes of the policyholder," and thus will have the same rights and legal standing as the policyholder when seeking compensation for losses. If the insured party does not have the legal standing to sue the third party, the insurer will also be unable to pursue a lawsuit as a result.
 
 ## How Subrogation Works
 
@@ -28,11 +28,11 @@ In most cases, an individual’s insurance company pays its client’s claim for
 
 Insurance policies may contain language that entitles an insurer, once losses are paid on claims, to seek recovery of funds from a [third party](https://www.investopedia.com/terms/t/third-party.asp) if that third party caused the loss. The insured does not have the right both to file a claim with the insurer to receive the coverage outlined in the insurance policy and to seek damages from the third party that caused the losses.
 
-Subrogation in the insurance sector, especially among [auto insurance](https://www.investopedia.com/terms/a/auto-insurance.asp) policies, occurs when the insurance carrier takes on the financial burden of the insured as the result of an injury or accident payment and seeks repayment from the at-fault party.
+Subrogation in the insurance sector, especially among [[auto insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp) policies, occurs when the insurance carrier takes on the financial burden of the insured as the result of an injury or accident payment and seeks repayment from the at-fault party.
 
 [One example of subrogation](http://www.dmv.org/insurance/subrogation.php) is when an insured driver's car is totaled through the fault of another driver. The insurance carrier reimburses the covered driver under the terms of the policy and then pursues legal action against the driver at fault. If the carrier is successful, it must divide the amount recovered after expenses proportionately with the insured to repay any deductible paid by the insured.
 
-Subrogation is not only relegated to auto insurers and auto policyholders. Another possibility of subrogation occurs within the health care sector. If, for example, a [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) policyholder is injured in an accident and the insurer pays $20,000 to cover the medical bills, that same health insurance company is allowed to collect $20,000 from the at-fault party to reconcile the payment.
+Subrogation is not only relegated to auto insurers and auto policyholders. Another possibility of subrogation occurs within the health care sector. If, for example, a [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) policyholder is injured in an accident and the insurer pays $20,000 to cover the medical bills, that same health insurance company is allowed to collect $20,000 from the at-fault party to reconcile the payment.
 
 ### Key Takeaways
 
@@ -50,6 +50,6 @@ In the case of an accident, it is still important to stay in communication with 
 
 ### Waivers of Subrogation
 
-A [waiver of subrogation](https://www.investopedia.com/terms/w/waiver-of-subrogation.asp) is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent third party. Typically, insurers charge an additional fee for this special policy endorsement. Many construction contracts and leases include a waiver of subrogation clause.
+A [[waiver of subrogation]](https://www.investopedia.com/terms/w/waiver-of-subrogation.asp) is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent third party. Typically, insurers charge an additional fee for this special policy endorsement. Many construction contracts and leases include a waiver of subrogation clause.
 
 Such provisions prevent one party’s insurance carrier from pursuing a claim against the other contractual party in an attempt to recover money paid by the insurance company to the insured or to a third party to resolve a covered claim. In other words, if subrogation is waived, the insurance company cannot "step into the client's shoes" once a claim has been settled and sue the other party to recoup their losses. Thus, if subrogation is waived, the insurer is exposed to greater risk.

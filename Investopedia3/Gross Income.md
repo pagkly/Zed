@@ -18,7 +18,7 @@ Gross Income
 
 Gross income for an individual—also known as gross pay when it's on a paycheck—is the individual’s total pay from his or her employer before taxes or other deductions. This includes income from all sources and is not limited to income received in cash; it also includes property or services received. Gross annual income is the amount of money a person earns in one year before taxes and includes income from all sources.1 
 
-For companies, gross income is interchangeable with gross margin or [gross profit](https://www.investopedia.com/terms/g/grossprofit.asp). A company’s gross income, found on the income statement, is the revenue from all sources minus the firm’s [cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp). 
+For companies, gross income is interchangeable with gross margin or [[gross profit]](https://www.investopedia.com/terms/g/grossprofit.asp). A company’s gross income, found on the income statement, is the revenue from all sources minus the firm’s [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp). 
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ For companies, gross income is interchangeable with gross margin or [gross profi
 
 An individual’s gross income is used by lenders or landlords to determine whether said individual is a worthy borrower or renter. When filing federal and state income taxes, gross income is the starting point before subtracting deductions to determine the amount of tax owed.
 
-For individuals, the gross income metric used on the income tax return includes not just wages or salary but also other forms of income, such as tips, capital gains, rental payments, dividends, alimony, pension, and interest. After subtracting above-the-line tax deductions, the result is [adjusted gross income (AGI)](https://www.investopedia.com/terms/a/agi.asp).3
+For individuals, the gross income metric used on the income tax return includes not just wages or salary but also other forms of income, such as tips, capital gains, rental payments, dividends, alimony, pension, and interest. After subtracting above-the-line tax deductions, the result is [[adjusted gross income (AGI)]](https://www.investopedia.com/terms/a/agi.asp).3
 
-Continuing down the tax form, below-the-line deductions are taken from AGI and result in a taxable income figure. After applying any allowed deductions or exemptions, [the resulting taxable income can be significantly less than an individual’s gross income](https://www.investopedia.com/ask/answers/070915/what-difference-between-taxable-income-and-gross-income.asp).4
+Continuing down the tax form, below-the-line deductions are taken from AGI and result in a taxable income figure. After applying any allowed deductions or exemptions, [[the resulting taxable income can be significantly less than an individual’s gross income]](https://www.investopedia.com/ask/answers/070915/what-difference-between-taxable-income-and-gross-income.asp).4
 
 There are income sources that are not included in gross income for tax purposes but may still be included when calculating gross income for a lender or creditor. Common nontaxable income sources are certain Social Security benefits,5 life insurance payouts,6 some inheritances or gifts,7 and state or municipal bond interest.8 
 
@@ -48,8 +48,8 @@ Assume that an individual has a $75,000 annual salary, generates $1,000 a year i
 
 ## Example of Business Gross Income
 
-Gross income is a line item that is sometimes included in a company’s [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) but is not required. If not displayed, it’s calculated as gross revenue minus COGS.
+Gross income is a line item that is sometimes included in a company’s [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) but is not required. If not displayed, it’s calculated as gross revenue minus COGS.
 
 Gross Income\=Gross Revenue−COGSwhere:COGS\=Cost of Goods Sold\\begin{aligned} &\\text{Gross Income} = \\text{Gross Revenue} - \\text{COGS} \\\\ &\\textbf{where:}\\\\ &\\text{COGS} = \\text{Cost of Goods Sold} \\\\ \\end{aligned}
 
-Gross income is sometimes referred to as [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp). Then there's [gross profit margin, which is more correctly defined as a percentage](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-gross-margin.asp), and is used as a profitability metric. The gross income for a company reveals how much money it has made on its products or services after subtracting the direct costs to make the product or provide the service.
+Gross income is sometimes referred to as [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp). Then there's [[gross profit margin, which is more correctly defined as a percentage]](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-gross-profit-and-gross-margin.asp), and is used as a profitability metric. The gross income for a company reveals how much money it has made on its products or services after subtracting the direct costs to make the product or provide the service.

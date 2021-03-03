@@ -16,13 +16,13 @@ author: Julie Young
 Why Leveraged Leases Matter
 ## What Is a Leveraged Lease?
 
-A leveraged lease is a [lease](https://www.investopedia.com/terms/l/lease.asp) agreement that is financed through the [lessor](https://www.investopedia.com/terms/l/lessor.asp) with help from a third-party [financial institution](https://www.investopedia.com/terms/f/financialinstitution.asp). In a leveraged lease, an [asset](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) is rented with borrowed funds.
+A leveraged lease is a [lease](https://www.investopedia.com/terms/l/lease.asp) agreement that is financed through the [lessor](https://www.investopedia.com/terms/l/lessor.asp) with help from a third-party [[financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp). In a leveraged lease, an [[asset]](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) is rented with borrowed funds.
 
 ## Understanding Leveraged Leases
 
 Leveraged leases are most often used in the renting of assets planned for short-term use. Assets like cars, trucks, construction vehicles and business equipment are typically all available through the option of leveraged leasing. Leasing in general means a company or individual will be renting an asset.
 
-Leasing any type of asset gives an entity the right to use the asset for a short-term. In general, the entity is only renting the asset although many [leveraged leases](https://www.investopedia.com/articles/investing/080113/understanding-leverage-ratios.asp) offer a buyout option at the end of the lease term.
+Leasing any type of asset gives an entity the right to use the asset for a short-term. In general, the entity is only renting the asset although many [[leveraged leases]](https://www.investopedia.com/articles/investing/080113/understanding-leverage-ratios.asp) offer a buyout option at the end of the lease term.
 
 The leveraged aspect of a leveraged lease involves borrowing funds to pay for the high cost of the asset’s value. A leveraged lease is usually used when an entity does not have the funds to buy the asset outright nor do they necessarily want to keep the asset for a long-term. A leveraged lease allows a lessee to obtain a loan for the leased asset’s value during the lease term and repay the loan over the life of the lease. The amount needed for the loan can be lower than buying the asset outright because the lessee is only paying for a specified value associated with the length of time on the lease.
 
@@ -34,7 +34,7 @@ Leverage leases can be more complex than a basic operating lease because leverag
 
 The lessor may also work with a third party lender. In this case, the third-party lender provides the borrowed funds to the lessor on your behalf allowing you to take possession of the asset as soon as a loan is approved. In some cases, a lessor may put up some funds combined with borrowed funds from a third party which can help to improve the overall terms of the lease.
 
-Once a leveraged lease is approved and agreed on, the borrower takes possession of the asset and is responsible for making regularly scheduled payments toward the [loan](https://www.investopedia.com/terms/l/loan.asp) balance. The asset’s title is usually held by either the lessor or the lender depending on the structure. Regardless, a leveraged lease doesn’t involve the transfer of the title to the lessee during the lease period.
+Once a leveraged lease is approved and agreed on, the borrower takes possession of the asset and is responsible for making regularly scheduled payments toward the [[loan]](https://www.investopedia.com/terms/l/loan.asp) balance. The asset’s title is usually held by either the lessor or the lender depending on the structure. Regardless, a leveraged lease doesn’t involve the transfer of the title to the lessee during the lease period.
 
 Keep in mind that a leveraged lease is usually backed by a secured loan. This means that if a lessee stops making payments, the lessor can repossess the asset.
 
@@ -52,7 +52,7 @@ An entity can also have the option to finance a car, in this scenario the car lo
 
 ## Special Considerations: Accounting for Leveraged Leases
 
-Individuals usually do not need to worry about the accounting standards for leasing an asset with leverage but this would be a factor for a business. In business accounting, leveraged leases are referred to as [capital leases](https://www.investopedia.com/terms/c/capitallease.asp).
+Individuals usually do not need to worry about the accounting standards for leasing an asset with leverage but this would be a factor for a business. In business accounting, leveraged leases are referred to as [[capital leases]](https://www.investopedia.com/terms/c/capitallease.asp).
 
 To determine the difference, four criteria are used:
 

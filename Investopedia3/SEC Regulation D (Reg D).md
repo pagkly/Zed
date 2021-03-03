@@ -16,7 +16,7 @@ author: Will Kenton
 SEC Regulation D (Reg D)
 ## What Is SEC Regulation D (Reg D)?
 
-Regulation D (Reg D) is a Securities and Exchange Commission ([SEC](https://www.investopedia.com/terms/s/sec.asp)) regulation governing [private placement](https://www.investopedia.com/terms/p/privateplacement.asp) exemptions. It should not be confused with [Federal Reserve Board Regulation D](https://www.investopedia.com/this-government-regulation-restricts-how-often-you-can-move-money-out-of-your-savings-account-4589978), which limits withdrawals from savings accounts. Reg D offerings are advantageous to private companies or entrepreneurs that meet the requirements because funding can be obtained faster and at a lower cost than with a public offering. It is usually used by smaller companies. The regulation allows capital to be raised through the sale of equity or [debt securities](https://www.investopedia.com/terms/d/debtsecurity.asp) without the need to register those securities with the SEC. However, many other state and federal regulatory requirements still apply.
+Regulation D (Reg D) is a Securities and Exchange Commission ([SEC](https://www.investopedia.com/terms/s/sec.asp)) regulation governing [[private placement]](https://www.investopedia.com/terms/p/privateplacement.asp) exemptions. It should not be confused with [[Federal Reserve Board Regulation D]](https://www.investopedia.com/this-government-regulation-restricts-how-often-you-can-move-money-out-of-your-savings-account-4589978), which limits withdrawals from savings accounts. Reg D offerings are advantageous to private companies or entrepreneurs that meet the requirements because funding can be obtained faster and at a lower cost than with a public offering. It is usually used by smaller companies. The regulation allows capital to be raised through the sale of equity or [[debt securities]](https://www.investopedia.com/terms/d/debtsecurity.asp) without the need to register those securities with the SEC. However, many other state and federal regulatory requirements still apply.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Raising capital through a Reg D investment involves meeting significantly less o
 
 While Regulation D makes raising funds easier, buyers of these securities still enjoy the same legal protections as other investors.
 
-It is not necessary to keep Regulation D transactions a secret, even though they are [private offerings](https://www.investopedia.com/ask/answers/041315/what-are-some-advantage-raising-capital-through-private-placement.asp). There are directives within the regulation that, depending on which rules are applied, may allow offerings to be openly solicited to prospective investors in a company's network.
+It is not necessary to keep Regulation D transactions a secret, even though they are [[private offerings]](https://www.investopedia.com/ask/answers/041315/what-are-some-advantage-raising-capital-through-private-placement.asp). There are directives within the regulation that, depending on which rules are applied, may allow offerings to be openly solicited to prospective investors in a company's network.
 
 ## Requirements of SEC Regulation D
 

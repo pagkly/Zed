@@ -16,7 +16,7 @@ author: Adam Hayes
 Gray Market
 ## What Is a Gray Market?
 
-A gray market is an unofficial market for financial [securities](https://www.investopedia.com/terms/s/security.asp). Gray (or “grey”) market trading generally occurs when a stock that has been suspended from trades off the market, or when new securities are bought and sold before official trading begins. The gray market enables the [issuer](https://www.investopedia.com/terms/i/issuer.asp) and [underwriters](https://www.investopedia.com/terms/u/underwriter.asp) to gauge demand for a new offering because it is a “when issued” market (i.e., it trades securities that will be offered in the very near future). The gray market is an unofficial one but is not illegal.
+A gray market is an unofficial market for financial [[securities]](https://www.investopedia.com/terms/s/security.asp). Gray (or “grey”) market trading generally occurs when a stock that has been suspended from trades off the market, or when new securities are bought and sold before official trading begins. The gray market enables the [[issuer]](https://www.investopedia.com/terms/i/issuer.asp) and [[underwriters]](https://www.investopedia.com/terms/u/underwriter.asp) to gauge demand for a new offering because it is a “when issued” market (i.e., it trades securities that will be offered in the very near future). The gray market is an unofficial one but is not illegal.
 
 The term “gray market” also refers to the import and sale of goods by unauthorized dealers; in this instance as well, such activity is unofficial but not illegal.
 
@@ -29,7 +29,7 @@ The term “gray market” also refers to the import and sale of goods by unauth
 
 ## Gray Market Explained
 
-In gray market trading, while the trade is binding, it cannot be settled until official trading begins. This may cause an unscrupulous party to renege on the trade. Due to this risk, some institutional investors, like [pension funds](https://www.investopedia.com/terms/p/pensionplan.asp) and [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), may refrain from gray market trading.
+In gray market trading, while the trade is binding, it cannot be settled until official trading begins. This may cause an unscrupulous party to renege on the trade. Due to this risk, some institutional investors, like [[pension funds]](https://www.investopedia.com/terms/p/pensionplan.asp) and [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp), may refrain from gray market trading.
 
 The gray market for goods thrives when there is a significant price discrepancy for a popular product in different nations. In many nations, there is a substantial gray market for popular consumer devices and electronics because these can be easily purchased online and shipped to any location. Other popular gray market products include luxury cars, high-end apparel, handbags and shoes, cigarettes, pharmaceuticals, and cosmetics. Unauthorized dealers may import such items in bulk and, despite adding a healthy mark-up, sell them at a price still well below the local cost.
 

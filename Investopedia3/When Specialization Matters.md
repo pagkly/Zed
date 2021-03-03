@@ -32,9 +32,9 @@ Specialization is an agreement within a community, organization, or larger group
 
 ### Microeconomic Specialization
 
-Specialization can occur on both the [microeconomic](https://www.investopedia.com/terms/m/microeconomics.asp) level and the [macroeconomic](https://www.investopedia.com/terms/m/macroeconomics.asp) levels. At the individual level, specialization usually comes in the form of career or labor specialization. Each member of an organization or economy, for example, has a unique set of talents, abilities, skills, and interests that make her uniquely able to perform a set of tasks.
+Specialization can occur on both the [[microeconomic]](https://www.investopedia.com/terms/m/microeconomics.asp) level and the [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) levels. At the individual level, specialization usually comes in the form of career or labor specialization. Each member of an organization or economy, for example, has a unique set of talents, abilities, skills, and interests that make her uniquely able to perform a set of tasks.
 
-Labor specialization exploits these unique talents and places people in areas where they perform the best, helping both the individual, as well as [the overall economy](https://www.investopedia.com/ask/answers/051115/how-does-specialization-help-companies-achieve-economies-scale.asp).
+Labor specialization exploits these unique talents and places people in areas where they perform the best, helping both the individual, as well as [[the overall economy]](https://www.investopedia.com/ask/answers/051115/how-does-specialization-help-companies-achieve-economies-scale.asp).
 
 If, for example, a single individual excels at math but is not a proficient writer, it benefits both the individual and the community if she pursues a field that relies heavily on mathematics.
 
@@ -44,7 +44,7 @@ Specialization involves focusing on a specific skill, activity, or production pr
 
 ### Macroeconomic Specialization
 
-[Economies that realize specialization](https://www.investopedia.com/ask/answers/040615/what-are-economic-impacts-specialization.asp) have a comparative advantage in the production of a good or service. [Comparative advantage](https://www.investopedia.com/ask/answers/033115/what-difference-between-comparative-advantage-and-absolute-advantage.asp) refers to the ability to produce a good or service at a lower marginal cost and opportunity cost than another good or service.
+[Economies that realize specialization](https://www.investopedia.com/ask/answers/040615/what-are-economic-impacts-specialization.asp) have a comparative advantage in the production of a good or service. [[Comparative advantage]](https://www.investopedia.com/ask/answers/033115/what-difference-between-comparative-advantage-and-absolute-advantage.asp) refers to the ability to produce a good or service at a lower marginal cost and opportunity cost than another good or service.
 
 When an economy can specialize in production, it benefits from international trade. If, for example, a country can produce bananas at a lower cost than oranges, it can choose to specialize and dedicate all its resources to the production of bananas, using some of them to trade for oranges.
 

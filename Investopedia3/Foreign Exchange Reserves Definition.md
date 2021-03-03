@@ -16,7 +16,7 @@ author: Marshall Hargrave
 Foreign Exchange Reserves Definition
 ## What Are Foreign Exchange Reserves?
 
-[Foreign exchange](https://www.investopedia.com/terms/f/forex.asp) reserves are assets held on reserve by a [central bank](https://www.investopedia.com/terms/c/centralbank.asp) in foreign currencies. These reserves are used to back liabilities and influence monetary policy. It includes any foreign money held by a central bank, such as the U.S. Federal Reserve Bank.
+[Foreign exchange](https://www.investopedia.com/terms/f/forex.asp) reserves are assets held on reserve by a [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) in foreign currencies. These reserves are used to back liabilities and influence monetary policy. It includes any foreign money held by a central bank, such as the U.S. Federal Reserve Bank.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ Foreign Exchange Reserves Definition
 
 ## How Foreign Exchange Reserves Work
 
-Foreign exchange reserves can include [banknotes](https://www.investopedia.com/terms/b/banknote.asp), deposits, bonds, [treasury bills](https://www.investopedia.com/terms/t/treasurybill.asp) and other government securities. These assets serve many purposes but are most significantly held to ensure that a central government agency has backup funds if their national currency rapidly devalues or becomes all together insolvent.
+Foreign exchange reserves can include [[banknotes]](https://www.investopedia.com/terms/b/banknote.asp), deposits, bonds, [[treasury bills]](https://www.investopedia.com/terms/t/treasurybill.asp) and other government securities. These assets serve many purposes but are most significantly held to ensure that a central government agency has backup funds if their national currency rapidly devalues or becomes all together insolvent.
 
-It is a common practice in countries around the world for their central bank to hold a significant amount of reserves in their foreign exchange. Most of these reserves are held in the U.S. dollar since it is the most traded [currency](https://www.investopedia.com/terms/c/currency.asp) in the world. It is not uncommon for the foreign exchange reserves to be made up of the British pound (GBP), the euro (EUR), the Chinese yuan (CNY) or the Japanese yen (JPY) as well.
+It is a common practice in countries around the world for their central bank to hold a significant amount of reserves in their foreign exchange. Most of these reserves are held in the U.S. dollar since it is the most traded [[currency]](https://www.investopedia.com/terms/c/currency.asp) in the world. It is not uncommon for the foreign exchange reserves to be made up of the British pound (GBP), the euro (EUR), the Chinese yuan (CNY) or the Japanese yen (JPY) as well.
 
 Economists theorize that it is better to hold the foreign exchange reserves in a currency that is not directly connected to the country’s own currency in order to provide a barrier should there be a market shock. However, this practice has become more difficult as currencies have become more intertwined as global trading has become easier.
 
@@ -45,4 +45,4 @@ U.S. foreign exchange reserves totaled $129 billion, as of January 2020, compare
 
 Russia’s foreign exchange reserves are held mostly in U.S. dollars, much like the rest of the world, but the country also keeps some of its reserves in gold. Since gold is a commodity with an underlying value, the risk in relying on gold in the event of a Russian economic decline is that the value of gold will not be significant enough to support the country’s needs.
 
-Another danger of using gold as a reserve is that the asset is only worth what someone else is willing to pay for it. During an economic crash, that would put the power of determining the value of the [gold](https://www.investopedia.com/articles/basics/08/invest-in-gold.asp) reserve, and therefore Russia’s financial fallback, into the hands of the entity willing to purchase it.
+Another danger of using gold as a reserve is that the asset is only worth what someone else is willing to pay for it. During an economic crash, that would put the power of determining the value of the [[gold]](https://www.investopedia.com/articles/basics/08/invest-in-gold.asp) reserve, and therefore Russia’s financial fallback, into the hands of the entity willing to purchase it.

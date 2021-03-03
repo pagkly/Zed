@@ -16,7 +16,7 @@ author: Julia Kagan
 Jan Tinbergen Definition
 ## Who was Jan Tinbergen?
 
-Jan Tinbergen was a Dutch economist who won the first [Nobel Memorial Prize in Economics](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) in 1969, which he shared with Ragnar Frisch for their work in the development and application of dynamic models for analyzing economic processes. Tinbergen was one of the first economists to apply math to economics and is considered a pioneer in the economics field, as well as in [econometrics](https://www.investopedia.com/terms/e/econometrics.asp).
+Jan Tinbergen was a Dutch economist who won the first [[Nobel Memorial Prize in Economics]](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) in 1969, which he shared with Ragnar Frisch for their work in the development and application of dynamic models for analyzing economic processes. Tinbergen was one of the first economists to apply math to economics and is considered a pioneer in the economics field, as well as in [[econometrics]](https://www.investopedia.com/terms/e/econometrics.asp).
 
 ### Key Takeaways
 
@@ -44,6 +44,6 @@ Tibergen helped develop the theory of underlying econometrics and the use of sta
 
 Tinbergen viewed the goal of macroeconomic policy as maximizing social welfare subject to the constraints of technology, resources, and political feasibility. From his models, he also developed guidelines and recommendations for applying econometrics to policy making. Understanding these types of models can help policy makers aim for economic targets that are related to the policy instruments they control. 
 
-This includes the identification of targets and instruments, known as the Tinbergen rule. This is the idea that governments must use multiple policy instruments if they want to impact multiple policy [targets](https://www.investopedia.com/terms/i/intermediate-targets.asp). If policy makers have certain targets they wish to reach, they must have an equal number of instruments that they control in order to effectively direct policy towards the targets. 
+This includes the identification of targets and instruments, known as the Tinbergen rule. This is the idea that governments must use multiple policy instruments if they want to impact multiple policy [[targets]](https://www.investopedia.com/terms/i/intermediate-targets.asp). If policy makers have certain targets they wish to reach, they must have an equal number of instruments that they control in order to effectively direct policy towards the targets. 
 
-Throughout his career, Tinbergen was also interested in the issues of [income distribution](https://www.investopedia.com/articles/economics/08/gini-index.asp) in an economy, and the phrase "Tinbergen Norm" arose from a theory he pursued, in which a larger than five to one gap between the lowest income and the highest income will lead to serious social conflict.
+Throughout his career, Tinbergen was also interested in the issues of [[income distribution]](https://www.investopedia.com/articles/economics/08/gini-index.asp) in an economy, and the phrase "Tinbergen Norm" arose from a theory he pursued, in which a larger than five to one gap between the lowest income and the highest income will lead to serious social conflict.

@@ -16,7 +16,7 @@ author: Adam Hayes
 What Is a Traditional IRA?
 ## What Is a Traditional IRA?
 
-A traditional [individual retirement account](https://www.investopedia.com/terms/i/ira.asp) (IRA) allows individuals to direct pre-tax income toward investments that can grow tax-deferred. The IRS assesses no [capital gains](https://www.investopedia.com/terms/c/capital_gains_tax.asp) or [dividend](https://www.investopedia.com/terms/d/dividend.asp) income taxes until the beneficiary makes a withdrawal. Individual taxpayers can contribute 100% of any earned compensation up to a specified maximum dollar amount.1
+A traditional [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA) allows individuals to direct pre-tax income toward investments that can grow tax-deferred. The IRS assesses no [[capital gains]](https://www.investopedia.com/terms/c/capital_gains_tax.asp) or [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income taxes until the beneficiary makes a withdrawal. Individual taxpayers can contribute 100% of any earned compensation up to a specified maximum dollar amount.1
 
 Income thresholds may also apply. Contributions to a traditional IRA may be tax-deductible depending on the taxpayer's income, tax-filing status, and other factors. Retirement savers may open a traditional IRA through their broker (including online brokers or roboadvisors) or financial advisor.
 
@@ -46,7 +46,7 @@ The maximum amount an individual under age 50 can contribute to a traditional IR
 
 When you have both a traditional IRA and an employer-sponsored retirement plan, the IRS may limit the amount of your traditional IRA contributions that you can deduct from your taxes.
 
-In 2021, for example, if a taxpayer participates in an employer-sponsored program, such as a 401(k) or pension program, that individual, filing as a single person, would only be eligible to take the full deduction on a traditional IRA if their [modified adjusted gross income](https://www.investopedia.com/terms/m/magi.asp) (MAGI) was $66,000 or less, or $105,000 or less if married filing jointly. With MAGIs of $76,000 for singles and $125,000 for married couples, the IRS allows no deductions. In between, there's a partial deduction.5
+In 2021, for example, if a taxpayer participates in an employer-sponsored program, such as a 401(k) or pension program, that individual, filing as a single person, would only be eligible to take the full deduction on a traditional IRA if their [[modified adjusted gross income]](https://www.investopedia.com/terms/m/magi.asp) (MAGI) was $66,000 or less, or $105,000 or less if married filing jointly. With MAGIs of $76,000 for singles and $125,000 for married couples, the IRS allows no deductions. In between, there's a partial deduction.5
 
 IRA contributions must be made by the tax filing deadline. For example, you could have made a contribution to your 2018 IRA through April 15, 2019.6 If you are above the limits, you can still contribute post-tax income to a traditional IRA and take advantage of its tax-free growth, but investigate other options, too.
 
@@ -56,30 +56,30 @@ Income tax will ultimately have to be paid on IRA money at the time of withdrawa
 
 When you receive distributions from a traditional IRA, the IRS treats the money as ordinary income and subjects it to income tax. Account-holders can take distributions as early as age 59½. Starting after age 72, account holders must take [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) from their traditional IRAs.7
 
-Funds removed before full retirement eligibility [incur a 10% penalty](https://www.investopedia.com/ask/answers/082515/how-do-you-calculate-penalties-ira-or-roth-ira-early-withdrawal.asp) (of the amount withdrawn) and taxes, at standard income tax rates. There are [exceptions to these penalties for certain situations](https://www.investopedia.com/articles/retirement/02/111202.asp). These include the following:
+Funds removed before full retirement eligibility [[incur a 10% penalty]](https://www.investopedia.com/ask/answers/082515/how-do-you-calculate-penalties-ira-or-roth-ira-early-withdrawal.asp) (of the amount withdrawn) and taxes, at standard income tax rates. There are [[exceptions to these penalties for certain situations]](https://www.investopedia.com/articles/retirement/02/111202.asp). These include the following:
 
 -   You plan to use the distribution towards the purchase or rebuilding of a first home for yourself or a qualified family member (limited to $10,000 per lifetime).
 -   You become disabled before the distribution occurs.
 -   Your beneficiary receives the assets after your death.
 -   You use the assets for unreimbursed medical expenses.
--   Your distribution is part of a [SEPP](https://www.investopedia.com/terms/s/sepp.asp) program.
+-   Your distribution is part of a [[SEPP]](https://www.investopedia.com/terms/s/sepp.asp) program.
 -   You use the assets for higher-education expenses, or expenses incurred for having or adopting a child.
 -   You use the assets to pay for medical insurance after you lose your job.
--   The assets are distributed as a result of an IRS [levy](https://www.investopedia.com/terms/l/levy.asp).
+-   The assets are distributed as a result of an IRS [[levy]](https://www.investopedia.com/terms/l/levy.asp).
 -   The amount distributed is a return on non-deductible contributions.
 -   You are in the military and called to active duty for more than 179 days.2
 
 It's important for an individual to check with a tax attorney or the IRS to be sure that the particulars of their situation qualify for a waiver of the 10% penalty.
 
-Set by the [SECURE Act](https://www.investopedia.com/what-is-secure-act-how-affect-retirement-4692743), which became law in December 2019, the age 72-threshold applies from 2020 onwards. The old RMD threshold of 70½ still applies if you turned that age before Dec. 31, 2019.7
+Set by the [[SECURE Act]](https://www.investopedia.com/what-is-secure-act-how-affect-retirement-4692743), which became law in December 2019, the age 72-threshold applies from 2020 onwards. The old RMD threshold of 70½ still applies if you turned that age before Dec. 31, 2019.7
 
 ## Traditional IRAs vs. Other IRA Types
 
-Other variations of the IRA include the Roth IRA, SIMPLE IRA, and SEP-IRA. The last two are employer-generated, but individuals can set up a Roth IRA if they meet the income limitations. These individual accounts can be created through a broker. You can check out some of the best options with Investopedia's list of the [best brokers for IRAs](https://www.investopedia.com/best-brokers-for-iras-4587879).
+Other variations of the IRA include the Roth IRA, SIMPLE IRA, and SEP-IRA. The last two are employer-generated, but individuals can set up a Roth IRA if they meet the income limitations. These individual accounts can be created through a broker. You can check out some of the best options with Investopedia's list of the [[best brokers for IRAs]](https://www.investopedia.com/best-brokers-for-iras-4587879).
 
 ### Roth IRAs
 
-Unlike a traditional IRA, [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp) contributions are not tax-deductible, and qualified [distributions](https://www.investopedia.com/terms/d/distribution.asp) are tax-free. This means you contribute to a Roth IRA using after-tax dollars, but as the account grows, you do not face any taxes on investment gains. Because you paid taxes on your contributions, you can actually withdraw them, penalty-free, at any time. However, you cannot withdraw earnings until age 59½ without being subject to the 10% early-withdrawal penalty.8
+Unlike a traditional IRA, [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) contributions are not tax-deductible, and qualified [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) are tax-free. This means you contribute to a Roth IRA using after-tax dollars, but as the account grows, you do not face any taxes on investment gains. Because you paid taxes on your contributions, you can actually withdraw them, penalty-free, at any time. However, you cannot withdraw earnings until age 59½ without being subject to the 10% early-withdrawal penalty.8
 
 When you retire, you can withdraw from the account without incurring any income taxes on your withdrawals. Roth IRAs do not have RMDs. If you don't need the money, you don't have to take it out of your account and worry about penalties for failing to do so. You can also pass the money to your heirs if you don't end up needing to use it.
 
@@ -89,7 +89,7 @@ In 2021, the income phase-out range for Roth contributions for married couples f
 
 ### SIMPLE and SEP-IRAs
 
-[SIMPLE IRAs](https://www.investopedia.com/terms/s/simple-ira.asp) and [SEP-IRAs](https://www.investopedia.com/ask/answers/102714/how-does-simplified-employee-pension-sep-ira-work.asp) are benefits instituted by an employer so individuals cannot open them, although self-employed or sole proprietors may. Generally, these IRAs function similarly to traditional IRAs, but they have higher contribution limits and may allow for company matching.
+[SIMPLE IRAs](https://www.investopedia.com/terms/s/simple-ira.asp) and [[SEP-IRAs]](https://www.investopedia.com/ask/answers/102714/how-does-simplified-employee-pension-sep-ira-work.asp) are benefits instituted by an employer so individuals cannot open them, although self-employed or sole proprietors may. Generally, these IRAs function similarly to traditional IRAs, but they have higher contribution limits and may allow for company matching.
 
 A simplified employee pension (SEP, or SEP-IRA) is a retirement plan that an employer or self-employed individual can establish. The employer is allowed a tax deduction for contributions made to the SEP plan and makes contributions to each eligible employee's SEP-IRA on a discretionary basis. Fundamentally, a SEP-IRA can be considered a traditional IRA with the ability to receive employer contributions. One major benefit it offers employees is those employer contributions are [vested](https://www.investopedia.com/terms/v/vesting.asp) immediately.
 

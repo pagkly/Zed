@@ -16,7 +16,7 @@ author: Caroline Banton
 How Money-Weighted Rate of Return Measures Investment Performance
 ## What Is the Money-Weighted Rate of Return?
 
-The money-weighted rate of return (MWRR) is a measure of the performance of an investment. The MWRR is calculated by finding the rate of return that will set the [present values](https://www.investopedia.com/terms/p/presentvalue.asp) of all cash flows equal to the value of the initial investment. The MWRR is equivalent to the [internal rate of return](https://www.investopedia.com/terms/i/irr.asp) (IRR).
+The money-weighted rate of return (MWRR) is a measure of the performance of an investment. The MWRR is calculated by finding the rate of return that will set the [[present values]](https://www.investopedia.com/terms/p/presentvalue.asp) of all cash flows equal to the value of the initial investment. The MWRR is equivalent to the [[internal rate of return]](https://www.investopedia.com/terms/i/irr.asp) (IRR).
 
 ### Key Takeaways:
 
@@ -38,13 +38,13 @@ PVO\=PVI\=CF0+CF1(1+IRR)+CF2(1+IRR)2+CF3(1+IRR)3+...CFn(1+IRR)nwhere:PVO\=PV Ou
 
 ### What Does the Money-Weighted Rate of Return Tell You? 
 
-There are many ways to measure asset returns, and it is important to know which method is being used when reviewing [asset performance](https://www.investopedia.com/terms/a/assetperformance.asp). The MWRR incorporates the size and timing of cash flows, so it is an effective measure of [portfolio returns](https://www.investopedia.com/terms/p/portfolio-return.asp). 
+There are many ways to measure asset returns, and it is important to know which method is being used when reviewing [[asset performance]](https://www.investopedia.com/terms/a/assetperformance.asp). The MWRR incorporates the size and timing of cash flows, so it is an effective measure of [[portfolio returns]](https://www.investopedia.com/terms/p/portfolio-return.asp). 
 
-The MWRR sets the initial value of an investment to equal the future [cash flows](https://www.investopedia.com/terms/c/cashflow.asp), such as [dividends](https://www.investopedia.com/terms/d/dividend.asp) added, withdrawals, deposits, and sale proceeds. In other words, the MWRR helps determine the rate of return needed to start with the initial investment amount factoring all of the changes to cash flows during the investment period including the sale proceeds.
+The MWRR sets the initial value of an investment to equal the future [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp), such as [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) added, withdrawals, deposits, and sale proceeds. In other words, the MWRR helps determine the rate of return needed to start with the initial investment amount factoring all of the changes to cash flows during the investment period including the sale proceeds.
 
 ### Cash Flows and the Money-Weighted Rate of Return
 
-As stated earlier, the MWRR for an investment is identical in concept to the IRR. In other words, it is the [discount rate](https://www.investopedia.com/terms/d/discountrate.asp) on which the [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) = 0, or the present value of inflows = present value of outflows.
+As stated earlier, the MWRR for an investment is identical in concept to the IRR. In other words, it is the [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp) on which the [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) = 0, or the present value of inflows = present value of outflows.
 
 It’s important to identify the cash flows in and out of a portfolio including the sale of the asset or investment. Some of the cash flows that an investor might have in a portfolio include: 
 
@@ -72,7 +72,7 @@ Solving for _r_ using a spreadsheet or financial calculator, we have an MWRR of 
 
 ### The Difference Between Money-Weighted Rate of Return and Time-Weighted Rate of Return
 
-The money-weighted rate of return is often compared to the [time-weighted rate of return](https://www.investopedia.com/terms/t/time-weightedror.asp) (TWRR), but the two calculations have distinct differences. The TWRR is a measure of the compound rate of growth in a portfolio. The TWRR measure is often used to compare the returns of investment managers because it eliminates the distorting effects on growth rates created by inflows and outflows of money.
+The money-weighted rate of return is often compared to the [[time-weighted rate of return]](https://www.investopedia.com/terms/t/time-weightedror.asp) (TWRR), but the two calculations have distinct differences. The TWRR is a measure of the compound rate of growth in a portfolio. The TWRR measure is often used to compare the returns of investment managers because it eliminates the distorting effects on growth rates created by inflows and outflows of money.
 
 It can be difficult to determine how much money was earned on a portfolio because deposits and withdrawals distort the value of the return on the portfolio. Investors can't simply subtract the beginning balance, after the initial deposit, from the ending balance since the ending balance reflects both the rate of return on the investments and any deposits or withdrawals during the time invested in the fund. 
 

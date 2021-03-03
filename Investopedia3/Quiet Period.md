@@ -29,7 +29,7 @@ For publicly-traded stocks, the four weeks before the close of a business quarte
 
 ## Understanding the Quiet Period
 
-After a company files [registration](https://www.investopedia.com/terms/r/registration.asp) for newly issued securities (stocks and bonds) with the SEC, their management team, investment bankers and lawyers go on a [roadshow](https://www.investopedia.com/terms/r/roadshow.asp). During a series of presentations, potential institutional investors will ask questions about the company to gather investment research. Management teams must not offer any new information that is not already contained in the registration statement. But it still offers some level of informational gathering.
+After a company files [[registration]](https://www.investopedia.com/terms/r/registration.asp) for newly issued securities (stocks and bonds) with the SEC, their management team, investment bankers and lawyers go on a [[roadshow]](https://www.investopedia.com/terms/r/roadshow.asp). During a series of presentations, potential institutional investors will ask questions about the company to gather investment research. Management teams must not offer any new information that is not already contained in the registration statement. But it still offers some level of informational gathering.
 
 The quiet period begins when the registration statement is made effective and lasts for 40 days after the stock begins trading. Its purpose is to create a level playing field for all investors by ensuring that everyone has access to the same information at the same time.
 

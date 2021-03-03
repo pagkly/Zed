@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Rational Choice Theory Definition
 ## What Is Rational Choice Theory?
 
-Rational choice theory states that individuals use rational calculations to make rational choices and achieve outcomes that are aligned with their own personal objectives. These results are also associated with maximizing an individual's [self-interest](https://www.investopedia.com/terms/s/self-interest.asp). Using rational choice theory is expected to result in outcomes that provide people with the greatest benefit and satisfaction, given the limited option they have available. 
+Rational choice theory states that individuals use rational calculations to make rational choices and achieve outcomes that are aligned with their own personal objectives. These results are also associated with maximizing an individual's [[self-interest]](https://www.investopedia.com/terms/s/self-interest.asp). Using rational choice theory is expected to result in outcomes that provide people with the greatest benefit and satisfaction, given the limited option they have available. 
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Economists may use this assumption of rationality as part of broader studies see
 
 [Adam Smith](https://www.investopedia.com/updates/adam-smith-economics/) was one of the first economists to develop the underlying principles of the rational choice theory. Smith elaborated on his studies of self-interest and the invisible hand theory in his book “An Inquiry into the Nature and Causes of the Wealth of Nations,” which was published in 1776.
 
-The invisible hand itself is a metaphor for the unseen forces that influence a free market economy. First and foremost, the [invisible hand theory](https://www.investopedia.com/terms/i/invisiblehand.asp) assumes self-interest. Both this theory, and further developments in the rational choice theory, refute any negative misconceptions associated with self-interest. Instead, these concepts suggest that rational actors acting with their own self-interest in mind can actually create benefits for the economy at large.
+The invisible hand itself is a metaphor for the unseen forces that influence a free market economy. First and foremost, the [[invisible hand theory]](https://www.investopedia.com/terms/i/invisiblehand.asp) assumes self-interest. Both this theory, and further developments in the rational choice theory, refute any negative misconceptions associated with self-interest. Instead, these concepts suggest that rational actors acting with their own self-interest in mind can actually create benefits for the economy at large.
 
 According to the invisible hand theory, individuals driven by self-interest and rationality will make decisions that lead to positive benefits for the whole economy. Through the freedom of production, as well as consumption, the best interests of society are fulfilled. The constant interplay of individual pressures on market supply and demand causes the natural movement of prices and the flow of trade. Economists who believe in the invisible hand theory lobby for less government intervention and more free-market exchange opportunities.
 

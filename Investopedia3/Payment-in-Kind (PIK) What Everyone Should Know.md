@@ -16,9 +16,9 @@ author: Will Kenton
 Payment-in-Kind (PIK): What Everyone Should Know
 ## What Is Payment-in-Kind (PIK)?
 
-Payment-in-kind (PIK) is the use of a good or service as payment instead of cash. Payment-in-kind also refers to a financial instrument that pays interest or dividends to investors of bonds, notes, or preferred stock with additional [securities](https://www.investopedia.com/terms/s/security.asp) or [equity](https://www.investopedia.com/terms/e/equity.asp) instead of cash.
+Payment-in-kind (PIK) is the use of a good or service as payment instead of cash. Payment-in-kind also refers to a financial instrument that pays interest or dividends to investors of bonds, notes, or preferred stock with additional [[securities]](https://www.investopedia.com/terms/s/security.asp) or [[equity]](https://www.investopedia.com/terms/e/equity.asp) instead of cash.
 
-Payment-in-kind securities are attractive to companies preferring not to make cash outlays and they are often used in leveraged [buyouts](https://www.investopedia.com/terms/b/buyout.asp).
+Payment-in-kind securities are attractive to companies preferring not to make cash outlays and they are often used in leveraged [[buyouts]](https://www.investopedia.com/terms/b/buyout.asp).
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Payment-in-kind securities are attractive to companies preferring not to make ca
 
 ## Understanding Payment-in-Kind (PIK)
 
-Payment-in-kind securities are a type of mezzanine financing, where they have characteristics indicative of debt and equities. They tend to pay a relatively high rate of interest but are considered risky. Investors who can afford to take above-average risks, such as [private equity](https://www.investopedia.com/terms/p/privateequity.asp) investors and [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) managers, are most likely to invest in payment-in-kind securities.
+Payment-in-kind securities are a type of mezzanine financing, where they have characteristics indicative of debt and equities. They tend to pay a relatively high rate of interest but are considered risky. Investors who can afford to take above-average risks, such as [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp) investors and [[hedge fund]](https://www.investopedia.com/terms/h/hedgefund.asp) managers, are most likely to invest in payment-in-kind securities.
 
 Payment-in-kind notes give the issuer a chance to delay making dividend payments in cash and in return for the delay, the issuing company typically agrees to offer a higher rate of return on the note.
 

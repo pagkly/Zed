@@ -16,7 +16,7 @@ author: Will Kenton
 Learn About the European Sovereign Debt Crisis
 ## What Was Europe's Sovereign Debt Crisis?
 
-The European sovereign debt crisis was a period when several European countries experienced the collapse of financial institutions, high government debt, and rapidly rising bond [yield spreads](https://www.investopedia.com/terms/y/yieldspread.asp) in government securities.
+The European sovereign debt crisis was a period when several European countries experienced the collapse of financial institutions, high government debt, and rapidly rising bond [[yield spreads]](https://www.investopedia.com/terms/y/yieldspread.asp) in government securities.
 
 ### Key Takeaways
 
@@ -30,25 +30,25 @@ The debt crisis began in 2008 with the collapse of Iceland's banking system, th
 
 The crisis was eventually controlled by the financial guarantees of European countries, who feared the collapse of the euro and financial contagion, and by the International Monetary Fund (IMF). Rating agencies downgraded several Eurozone countries' debts.
 
-Greece's debt was, at one point, moved to junk status. Countries receiving bailout funds were required to meet [austerity measures](https://www.investopedia.com/terms/a/austerity.asp) designed to slow down the growth of public-sector debt as part of the loan agreements.
+Greece's debt was, at one point, moved to junk status. Countries receiving bailout funds were required to meet [[austerity measures]](https://www.investopedia.com/terms/a/austerity.asp) designed to slow down the growth of public-sector debt as part of the loan agreements.
 
 ## Debt Crisis Contributing Causes
 
-Some of the contributing causes included the financial crisis of 2007 to 2008, the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp) of 2008 to 2012, the real estate market crisis, and property [bubbles](https://www.investopedia.com/terms/b/bubble.asp) in several countries. The peripheral states’ fiscal policies regarding government expenses and revenues also contributed.
+Some of the contributing causes included the financial crisis of 2007 to 2008, the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp) of 2008 to 2012, the real estate market crisis, and property [[bubbles]](https://www.investopedia.com/terms/b/bubble.asp) in several countries. The peripheral states’ fiscal policies regarding government expenses and revenues also contributed.
 
-By the end of 2009, the peripheral Eurozone member states of Greece, Spain, Ireland, Portugal, and Cyprus were unable to repay or refinance their government debt or bail out their beleaguered banks without the assistance of third-party financial institutions. These included the [European Central Bank](https://www.investopedia.com/terms/e/europeancentralbank.asp) (ECB), the IMF, and, eventually, the [European Financial Stability Facility](https://www.investopedia.com/terms/e/european-financial-stability-facility.asp) (EFSF).
+By the end of 2009, the peripheral Eurozone member states of Greece, Spain, Ireland, Portugal, and Cyprus were unable to repay or refinance their government debt or bail out their beleaguered banks without the assistance of third-party financial institutions. These included the [[European Central Bank]](https://www.investopedia.com/terms/e/europeancentralbank.asp) (ECB), the IMF, and, eventually, the [[European Financial Stability Facility]](https://www.investopedia.com/terms/e/european-financial-stability-facility.asp) (EFSF).
 
 Also in 2009, Greece revealed that its previous government had grossly underreported its budget deficit, signifying a violation of EU policy and spurring fears of a euro collapse via political and financial contagion.
 
 Seventeen Eurozone countries voted to create the EFSF in 2010, specifically to address and assist with the crisis. The European sovereign debt crisis peaked between 2010 and 2012.
 
-With increasing fear of excessive [sovereign debt](https://www.investopedia.com/terms/s/sovereign-debt.asp), lenders demanded higher [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) from Eurozone states in 2010, with high debt and deficit levels making it harder for these countries to finance their budget deficits when they were faced with overall low economic growth. Some affected countries raised taxes and slashed expenditures to combat the crisis, which contributed to social upset within their borders and a crisis of confidence in leadership, particularly in Greece. Several of these countries, including Greece, Portugal, and Ireland had their sovereign debt downgraded to junk status by international credit rating agencies during this crisis, worsening investor fears.
+With increasing fear of excessive [[sovereign debt]](https://www.investopedia.com/terms/s/sovereign-debt.asp), lenders demanded higher [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp) from Eurozone states in 2010, with high debt and deficit levels making it harder for these countries to finance their budget deficits when they were faced with overall low economic growth. Some affected countries raised taxes and slashed expenditures to combat the crisis, which contributed to social upset within their borders and a crisis of confidence in leadership, particularly in Greece. Several of these countries, including Greece, Portugal, and Ireland had their sovereign debt downgraded to junk status by international credit rating agencies during this crisis, worsening investor fears.
 
-A [2012 report for the United States Congress](https://fas.org/sgp/crs/row/R42377.pdf) stated, “The Eurozone debt crisis began in late 2009 when a new Greek government revealed that previous governments had been misreporting government budget data. Higher than expected deficit levels eroded investor confidence causing [bond](https://www.investopedia.com/terms/b/bond.asp) spreads to rise to unsustainable levels. Fears quickly spread that the fiscal positions and debt levels of a number of Eurozone countries were unsustainable."
+A [2012 report for the United States Congress](https://fas.org/sgp/crs/row/R42377.pdf) stated, “The Eurozone debt crisis began in late 2009 when a new Greek government revealed that previous governments had been misreporting government budget data. Higher than expected deficit levels eroded investor confidence causing [[bond]](https://www.investopedia.com/terms/b/bond.asp) spreads to rise to unsustainable levels. Fears quickly spread that the fiscal positions and debt levels of a number of Eurozone countries were unsustainable."
 
 ## Greek Example of European Crisis
 
-In early 2010, the developments were reflected in rising spreads on [sovereign bond](https://www.investopedia.com/terms/s/sovereignbond.asp) yields between the affected peripheral member states of Greece, Ireland, Portugal, Spain and, most notably, Germany.
+In early 2010, the developments were reflected in rising spreads on [[sovereign bond]](https://www.investopedia.com/terms/s/sovereignbond.asp) yields between the affected peripheral member states of Greece, Ireland, Portugal, Spain and, most notably, Germany.
 
 The Greek yield diverged with Greece needing Eurozone assistance by May 2010. Greece received several bailouts from the EU and IMF over the following years in exchange for the adoption of EU-mandated austerity measures to cut public spending and a significant increase in taxes. The country's economic recession continued. These measures, along with the economic situation, caused social unrest. With divided political and fiscal leadership, Greece faced [sovereign default](https://www.investopedia.com/terms/s/sovereign-default.asp) in June 2015.
 
@@ -62,7 +62,7 @@ In the end, Greece remained part of the EMU and began to slowly show signs of re
 
 In June 2016, the United Kingdom voted to leave the European Union in a referendum. This vote fueled Eurosceptics across the continent, and speculation soared that other countries would leave the EU. After a drawn-out negotiation process, Brexit took place at 11pm Greenwich Mean Time, Jan. 31, 2020, and did not precipitate any groundswell of sentiment in other countries to depart the EMU.
 
-It's a common perception that this movement grew during the debt crisis, and campaigns have described the EU as a "sinking ship." The UK referendum sent shock waves through the economy. Investors fled to safety, pushing several government yields to a negative value, and the British pound was at its lowest against the dollar since 1985. The S&P 500 and Dow Jones plunged, then recovered in the following weeks until they hit all-time highs as investors ran out of investment options because of the negative [yields](https://www.investopedia.com/terms/b/bond-yield.asp).
+It's a common perception that this movement grew during the debt crisis, and campaigns have described the EU as a "sinking ship." The UK referendum sent shock waves through the economy. Investors fled to safety, pushing several government yields to a negative value, and the British pound was at its lowest against the dollar since 1985. The S&P 500 and Dow Jones plunged, then recovered in the following weeks until they hit all-time highs as investors ran out of investment options because of the negative [[yields]](https://www.investopedia.com/terms/b/bond-yield.asp).
 
 ## Italy and the European Debt Crisis
 

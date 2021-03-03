@@ -16,9 +16,9 @@ author: Adam Hayes
 Financing: What It Means and Why It Matters
 ## What Is Financing?
 
-Financing is the process of providing funds for [business activities](https://www.investopedia.com/terms/b/business-activities.asp), making purchases, or investing. [Financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp), such as banks, are in the business of providing capital to businesses, consumers, and investors to help them achieve their goals. The use of financing is vital in any economic system, as it allows companies to purchase products out of their immediate reach.
+Financing is the process of providing funds for [[business activities]](https://www.investopedia.com/terms/b/business-activities.asp), making purchases, or investing. [[Financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp), such as banks, are in the business of providing capital to businesses, consumers, and investors to help them achieve their goals. The use of financing is vital in any economic system, as it allows companies to purchase products out of their immediate reach.
 
-Put differently, financing is a way to leverage the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp) (TVM) to put future expected money flows to use for projects started today. Financing also takes advantage of the fact that some individuals in an economy will have a surplus of money that they wish to put to work to generate returns, while others demand money to undertake investment (also with the hope of generating returns), creating a market for money.
+Put differently, financing is a way to leverage the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp) (TVM) to put future expected money flows to use for projects started today. Financing also takes advantage of the fact that some individuals in an economy will have a surplus of money that they wish to put to work to generate returns, while others demand money to undertake investment (also with the hope of generating returns), creating a market for money.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Put differently, financing is a way to leverage the [time value of money](https:
 
 ## Understanding Financing
 
-There are two main types of financing available for companies: [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp) and [equity financing](https://www.investopedia.com/terms/e/equityfinancing.asp). Debt is a loan that must be paid back often with interest, but it is typically cheaper than raising capital because of tax deduction considerations. Equity does not need to be paid back, but it relinquishes ownership stakes to the shareholder. Both debt and equity have their advantages and disadvantages. Most companies use a combination of both to finance operations.
+There are two main types of financing available for companies: [[debt financing]](https://www.investopedia.com/terms/d/debtfinancing.asp) and [[equity financing]](https://www.investopedia.com/terms/e/equityfinancing.asp). Debt is a loan that must be paid back often with interest, but it is typically cheaper than raising capital because of tax deduction considerations. Equity does not need to be paid back, but it relinquishes ownership stakes to the shareholder. Both debt and equity have their advantages and disadvantages. Most companies use a combination of both to finance operations.
 
 ## Types of Financing
 
@@ -41,7 +41,7 @@ There are two main types of financing available for companies: [debt financing](
 
 At the same time, giving up equity is giving up some control. Equity investors want to have a say in how the company is operated, especially in difficult times, and are often entitled to votes based on the number of shares held. So, in exchange for ownership, an investor gives his money to a company and receives some claim on future earnings.
 
-Some investors are happy with growth in the form of share price [appreciation](https://www.investopedia.com/terms/a/appreciation.asp); they want the share price to go up. Other investors are looking for principal protection and income in the form of regular [dividends](https://www.investopedia.com/terms/d/dividend.asp).
+Some investors are happy with growth in the form of share price [[appreciation]](https://www.investopedia.com/terms/a/appreciation.asp); they want the share price to go up. Other investors are looking for principal protection and income in the form of regular [[dividends]](https://www.investopedia.com/terms/d/dividend.asp).
 
 ### Advantages of Equity Financing
 
@@ -60,9 +60,9 @@ Similarly, there are a number of disadvantages that come with equity financing, 
 
 ### Debt Financing
 
-Most people are familiar with [debt](https://www.investopedia.com/terms/d/debt.asp) as a form of financing because they have car loans or mortgages. Debt is also a common form of financing for new businesses. Debt financing must be repaid, and lenders want to be paid a [rate of interest](https://www.investopedia.com/terms/i/interestrate.asp) in exchange for the use of their money.
+Most people are familiar with [[debt]](https://www.investopedia.com/terms/d/debt.asp) as a form of financing because they have car loans or mortgages. Debt is also a common form of financing for new businesses. Debt financing must be repaid, and lenders want to be paid a [[rate of interest]](https://www.investopedia.com/terms/i/interestrate.asp) in exchange for the use of their money.
 
-Some lenders require [collateral](https://www.investopedia.com/terms/c/collateral.asp). For example, assume the owner of the grocery store also decides that they need a new truck and must take out a loan for $40,000. The truck can serve as collateral against the loan, and the grocery store owner agrees to pay 8% interest to the lender until the loan is paid off in five years.
+Some lenders require [[collateral]](https://www.investopedia.com/terms/c/collateral.asp). For example, assume the owner of the grocery store also decides that they need a new truck and must take out a loan for $40,000. The truck can serve as collateral against the loan, and the grocery store owner agrees to pay 8% interest to the lender until the loan is paid off in five years.
 
 Debt is easier to obtain for small amounts of cash needed for specific assets, especially if the asset can be used as collateral. While debt must be paid back even in difficult times, the company retains ownership and control over business operations.
 
@@ -84,7 +84,7 @@ Debt financing for your business does come with some downsides:
 
 ## Special Considerations
 
-The [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) is the average of the costs of all types of financing, each of which is weighted by its proportionate use in a given situation. By taking a weighted average in this way, one can determine how much interest a company owes for each dollar it finances. Firms will decide the appropriate mix of debt and equity financing by optimizing the WACC of each type of capital while taking into account the risk of [default](https://www.investopedia.com/terms/d/default2.asp) or bankruptcy on one side and the amount of ownership owners are willing to give up on the other.
+The [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) is the average of the costs of all types of financing, each of which is weighted by its proportionate use in a given situation. By taking a weighted average in this way, one can determine how much interest a company owes for each dollar it finances. Firms will decide the appropriate mix of debt and equity financing by optimizing the WACC of each type of capital while taking into account the risk of [[default]](https://www.investopedia.com/terms/d/default2.asp) or bankruptcy on one side and the amount of ownership owners are willing to give up on the other.
 
 Because interest on the debt is typically tax deductible, and because the interest rates associated with debt is typically cheaper than the rate of return expected for equity, debt is usually preferred. However, as more debt is accumulated, the credit risk associated with that debt also increases and so equity must be added to the mix. Investors also often demand equity stakes in order to capture future profitability and growth that debt instruments do not provide.
 

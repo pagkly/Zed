@@ -20,7 +20,7 @@ The Food and Drug Administration (FDA) is a government agency established in 190
 
 ## Understanding the Food and Drug Administration (FDA)
 
-The FDA is known for its work in regulating the development of new drugs. The FDA has developed rules regarding the [clinical trials](https://www.investopedia.com/terms/c/clinical-trials.asp) that must be done on all new medications. Pharmaceutical companies must test drugs through four phases of clinical trials before they can be marketed to individuals.
+The FDA is known for its work in regulating the development of new drugs. The FDA has developed rules regarding the [[clinical trials]](https://www.investopedia.com/terms/c/clinical-trials.asp) that must be done on all new medications. Pharmaceutical companies must test drugs through four phases of clinical trials before they can be marketed to individuals.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ The FDA is known for its work in regulating the development of new drugs. The FD
 
 According to the FDA, the agency holds responsibility for monitoring the safe consumption of medical products, food, and tobacco items worth more than $2.6 trillion. In fiscal 2020, the budget for the FDA was approximately $3.6 billion.
 
-The FDA is relevant for investors specifically in regards to biotech and pharmaceutical companies. FDA approval can be crucial to companies that are heavily involved in developing new drugs. Without the agency’s approval, [regulated products](https://www.investopedia.com/terms/r/regulated-market.asp) under the FDA's purview cannot be released for sale in the United States.
+The FDA is relevant for investors specifically in regards to biotech and pharmaceutical companies. FDA approval can be crucial to companies that are heavily involved in developing new drugs. Without the agency’s approval, [[regulated products]](https://www.investopedia.com/terms/r/regulated-market.asp) under the FDA's purview cannot be released for sale in the United States.
 
 The FDA approves products in the biotech and pharmaceutical industries, and its approval or rejection of a product can have a financial impact.
 
@@ -42,6 +42,6 @@ The FDA is responsible for inspecting and reviewing production facilities that m
 
 The agency also inspects facilities where testing on animals and clinical trials are conducted. Inspections may be regularly scheduled visits to facilities already in use.
 
-Imported regulated products must also be inspected by the FDA when they arrive at the border of the country. The agency publishes announcements of [product recalls](https://www.investopedia.com/terms/p/product_recall.asp) in collaboration with companies and local partners.
+Imported regulated products must also be inspected by the FDA when they arrive at the border of the country. The agency publishes announcements of [[product recalls]](https://www.investopedia.com/terms/p/product_recall.asp) in collaboration with companies and local partners.
 
 The agency conducts preapproval inspections for companies that applied to market new products. Inspections may be launched “for cause” if there is an issue reported at a facility. Such recalls can be the result of undeclared ingredients in the contents, which can pose risks for consumers with allergies. The contamination of products or the failure to handle the product according to safety parameters can also be the cause for recalls.

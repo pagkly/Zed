@@ -16,9 +16,9 @@ author: Adam Hayes
 Realized Gain
 ## What Is a Realized Gain?
 
-A realized gain results from selling an asset at a price higher than the original purchase price. It occurs when an asset is sold at a level that exceeds its [book value](https://www.investopedia.com/terms/b/bookvalue.asp) cost.
+A realized gain results from selling an asset at a price higher than the original purchase price. It occurs when an asset is sold at a level that exceeds its [[book value]](https://www.investopedia.com/terms/b/bookvalue.asp) cost.
 
-While an asset may be carried on a [balance sheet](https://www.investopedia.com/articles/04/031004.asp) at a level far above cost, any gains while the asset is still being held are considered unrealized as the asset is only being valued at [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp). If selling an asset results in a loss, there is a [realized loss](https://www.investopedia.com/terms/r/realizedloss.asp) instead.
+While an asset may be carried on a [[balance sheet]](https://www.investopedia.com/articles/04/031004.asp) at a level far above cost, any gains while the asset is still being held are considered unrealized as the asset is only being valued at [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp). If selling an asset results in a loss, there is a [[realized loss]](https://www.investopedia.com/terms/r/realizedloss.asp) instead.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Realized gains and unrealized gains vary considerably. An unrealized gain most o
 
 The assets are included on the company’s balance sheet; however, they may be reported with or without the unrealized gains. Unrealized gains for an asset can help to determine its selling price since these gains are added to the asset’s book valuation.
 
-An asset’s value, held on the company’s books, most often includes the total [unrealized gain](https://www.investopedia.com/terms/u/unrealizedgain.asp) for which it has received and appreciated above its originally booked price. However, unrealized gains may sometimes be off-balance sheet accruals allowing the asset to remain at book value until a sale.
+An asset’s value, held on the company’s books, most often includes the total [[unrealized gain]](https://www.investopedia.com/terms/u/unrealizedgain.asp) for which it has received and appreciated above its originally booked price. However, unrealized gains may sometimes be off-balance sheet accruals allowing the asset to remain at book value until a sale.
 
 ## Balance Sheet Elimination
 
@@ -40,7 +40,7 @@ The sale of an asset takes place when a company chooses to eliminate it from the
 
 Asset sales are regularly monitored to ensure the asset is sold at fair market value or arm’s length price. This regulation ensures companies are valuing the sale appropriately in the marketplace and takes into consideration whether the asset is sold to a related or unrelated party.
 
-When an asset is sold, a realized profit is achieved, and the firm predictably sees an increase in its [current assets](https://www.investopedia.com/terms/c/currentassets.asp) and a gain from the sale. The realized gain from the sale of the asset may lead to an increased tax burden since realized gains from sales are typically taxable income, while unrealized gains are not taxable income. This is one drawback of selling an asset and turning an unrealized "paper" gain into a realized gain.
+When an asset is sold, a realized profit is achieved, and the firm predictably sees an increase in its [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp) and a gain from the sale. The realized gain from the sale of the asset may lead to an increased tax burden since realized gains from sales are typically taxable income, while unrealized gains are not taxable income. This is one drawback of selling an asset and turning an unrealized "paper" gain into a realized gain.
 
 In most business cases, companies do not incur any tax until a realized and tangible profit occurs.
 

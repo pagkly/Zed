@@ -16,7 +16,7 @@ author: Julia Kagan
 Deposits: What You Need to Know
 ## What Is a Deposit?
 
-A deposit is a financial term that means money held at a bank. A deposit is a transaction involving a transfer of money to another party for safekeeping. However, a deposit can refer to a portion of money used as security or [collateral](https://www.investopedia.com/terms/c/collateral.asp) for the delivery of a good.
+A deposit is a financial term that means money held at a bank. A deposit is a transaction involving a transfer of money to another party for safekeeping. However, a deposit can refer to a portion of money used as security or [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) for the delivery of a good.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A deposit encompasses two different meanings. One kind of deposit involves a tra
 
 In this usage, the money deposited still belongs to the person or entity that deposited the money, and that person or entity can withdraw the money at any time, transfer it to another person’s account, or use the money to purchase goods.
 
-Often, a person must deposit a certain amount of money in order to open a new bank account, known as a minimum deposit. Depositing money into a typical checking account qualifies as a [transaction deposit](https://www.investopedia.com/terms/t/transaction-deposit.asp), which means that the funds are immediately available and liquid, without any delays.
+Often, a person must deposit a certain amount of money in order to open a new bank account, known as a minimum deposit. Depositing money into a typical checking account qualifies as a [[transaction deposit]](https://www.investopedia.com/terms/t/transaction-deposit.asp), which means that the funds are immediately available and liquid, without any delays.
 
 The other definition of deposit refers to when a portion of funds is used as a security or collateral for the delivery of a good. Some contracts require a percentage of funds paid before the delivery as an act of good faith. For example, brokerage firms often require traders to make an initial margin deposit in order to enter into a new futures contract.
 
@@ -44,7 +44,7 @@ When an individual deposits money into a banking account, it earns interest. Thi
 
 There are two types of deposits: demand and time. A demand deposit is a conventional bank and savings account. You can withdraw the money anytime from a demand deposit account. 
 
-Time deposits are those with a fixed time and usually pay a fixed interest rate, such as a [certificate of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD). These interest-earning accounts offer higher rates than savings accounts. However, time deposit accounts require that money be kept in the account for a set period of time. 
+Time deposits are those with a fixed time and usually pay a fixed interest rate, such as a [[certificate of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD). These interest-earning accounts offer higher rates than savings accounts. However, time deposit accounts require that money be kept in the account for a set period of time. 
 
 ## Example of a Deposit 
 

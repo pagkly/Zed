@@ -1,0 +1,51 @@
+---
+alias: [Non-Sampling Error]
+created: 2021-03-02T21:48:20 (UTC +11:00)
+tags: [Non-Sampling Error Definition, Non-Sampling Error]
+source: https://www.investopedia.com/terms/n/non-samplingerror.asp
+author: Will Kenton
+---
+
+# Non-Sampling Error Definition
+
+> ## Excerpt
+> A non-sampling error is an error that results during data collection, causing the data to differ from the true values.
+
+---
+
+Non-Sampling Error
+## What Is a Non-Sampling Error?
+
+A non-sampling error is a statistical term that refers to an error that results during data collection, causing the data to differ from the true values. A non-sampling error differs from a [sampling error.](https://www.investopedia.com/terms/s/samplingerror.asp) A sampling error is limited to any differences between sample values and universe values that arise because the sample size was limited. (The entire universe cannot be sampled in a survey or a census.)
+
+### Key Takeaways
+
+-   A non-sampling error is a term used in statistics that refers to an error that occurs during data collection, causing the data to differ from the true values. 
+-   A non-sampling error refers to either random or systematic errors, and these errors can be challenging to spot in a survey, sample, or census. 
+-   Systematic non-sampling errors are worse than random non-sampling errors because systematic errors may result in the study, survey or census having to be scrapped.
+-   The higher the number of errors, the less reliable the information.
+-   When non-sampling errors occur, the rate of bias in a study or survey goes up. 
+
+A sampling error can result even when no mistakes of any kind are made. The "errors" result from the mere fact that data in a sample is unlikely to perfectly match data in the universe from which the sample is taken. This "error" can be minimized by increasing the sample size.
+
+Non-sampling errors cover all other discrepancies, including those that arise from a poor sampling technique.
+
+## How a Non-Sampling Error Works
+
+Non-sampling errors may be present in both samples and censuses in which an entire population is surveyed. Non-sampling errors fall under two categories: random and systematic.
+
+Random errors are believed to offset each other and therefore, most often, are of little concern. Systematic errors, on the other hand, affect the entire sample and therefore present a more significant issue. Random errors, generally, will not result in scrapping a sample or a census, whereas a systematic error will most likely render the data collected unusable.
+
+Non-sampling errors are caused by external factors rather than an issue within a survey, study, or census.
+
+There are many ways non-sampling errors can occur. For example, non-sampling errors can include but are not limited to, [data entry errors](https://www.investopedia.com/articles/active-trading/013015/worst-mistakes-beginner-traders-make.asp), biased survey questions, biased processing/decision making, non-responses, inappropriate analysis conclusions, and false information provided by respondents.
+
+## Special Considerations
+
+While increasing sample size can help minimize sampling errors, it will not have any effect on reducing non-sampling errors. This is because non-sampling errors are often difficult to detect, and it is virtually impossible to eliminate them.
+
+Non-sampling errors include non-response errors, coverage errors, interview errors, and processing errors. A coverage error would occur, for example, if a person were counted twice in a survey, or their answers were duplicated on the survey. If an interviewer is [biased](https://www.investopedia.com/articles/investing/050813/4-behavioral-biases-and-how-avoid-them.asp) in their sampling, the non-sampling error would be considered an interviewer error.
+
+In addition, it is difficult to prove that respondents in a survey are providing false information—either by mistake or on purpose. Either way, misinformation provided by respondents count as non-sampling errors and they are described as response errors.
+
+Technical errors exist in a different category. If there are any data-related entries⁠—such as coding, collection, entry, or editing—they are considered processing errors.

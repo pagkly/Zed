@@ -26,9 +26,9 @@ The Jensen's measure, or Jensen's alpha, is a risk-adjusted performance measure 
 
 ## Understanding Jensen's Measure
 
-To accurately analyze the performance of an [investment manager](https://www.investopedia.com/terms/i/investment-manager.asp), an investor must look not only at the overall return of a portfolio but also at the risk of that portfolio to see if the investment's return compensates for the risk it takes. For example, if two mutual funds both have a 12% return, a rational investor should prefer the less risky fund. Jensen's measure is one of the ways to determine if a portfolio is earning the proper return for its level of risk.
+To accurately analyze the performance of an [[investment manager]](https://www.investopedia.com/terms/i/investment-manager.asp), an investor must look not only at the overall return of a portfolio but also at the risk of that portfolio to see if the investment's return compensates for the risk it takes. For example, if two mutual funds both have a 12% return, a rational investor should prefer the less risky fund. Jensen's measure is one of the ways to determine if a portfolio is earning the proper return for its level of risk.
 
-If the value is positive, then the portfolio is earning excess returns. In other words, a positive value for Jensen's alpha means a [fund manager](https://www.investopedia.com/terms/f/fundmanager.asp) has "beat the market" with their stock-picking skills.
+If the value is positive, then the portfolio is earning excess returns. In other words, a positive value for Jensen's alpha means a [[fund manager]](https://www.investopedia.com/terms/f/fundmanager.asp) has "beat the market" with their stock-picking skills.
 
 ## Real World Example of Jensen's Measure
 
@@ -56,4 +56,4 @@ Given a beta of 1.2, the mutual fund is expected to be riskier than the index, a
 
 ## Special Consideration: EMH
 
-Critics of Jensen's measure generally believe in the efficient market hypothesis (EMH), invented by Eugene Fama, and argue that any portfolio manager's excess returns derive from luck or random chance rather than skill. Because the market has already priced in all available information, it is said to be "efficient" and accurately priced, the theory says, precluding any active manager from bringing anything new to the table. Further supporting the theory is the fact that many active managers fail to beat the market any more than those that invest their clients' money in passive [index funds](https://www.investopedia.com/terms/i/index-etf.asp).
+Critics of Jensen's measure generally believe in the efficient market hypothesis (EMH), invented by Eugene Fama, and argue that any portfolio manager's excess returns derive from luck or random chance rather than skill. Because the market has already priced in all available information, it is said to be "efficient" and accurately priced, the theory says, precluding any active manager from bringing anything new to the table. Further supporting the theory is the fact that many active managers fail to beat the market any more than those that invest their clients' money in passive [[index funds]](https://www.investopedia.com/terms/i/index-etf.asp).

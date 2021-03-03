@@ -16,9 +16,9 @@ author: Adam Hayes
 Operating Income Definition
 ## What Is Operating Income?
 
-Operating income is an accounting figure that measures the amount of [profit](https://www.investopedia.com/terms/p/profit.asp) realized from a business's operations, after deducting operating expenses such as wages, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp).
+Operating income is an accounting figure that measures the amount of [[profit]](https://www.investopedia.com/terms/p/profit.asp) realized from a business's operations, after deducting operating expenses such as wages, [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), and [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp).
 
-Operating income_—_also called income from operations_—_takes a company's [gross income](https://www.investopedia.com/terms/g/grossincome.asp), which is equivalent to total revenue minus COGS, and subtracts all operating expenses. A business's operating expenses are costs incurred from normal operating activities and include items such as office supplies and utilities.
+Operating income_—_also called income from operations_—_takes a company's [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp), which is equivalent to total revenue minus COGS, and subtracts all operating expenses. A business's operating expenses are costs incurred from normal operating activities and include items such as office supplies and utilities.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Operating income_—_also called income from operations_—_takes a company's [g
 
 ## Understanding Operating Income
 
-Operating income is a measurement that shows how much of a company's revenue will eventually become profits. Operating income is similar to a company's [earnings before interest and taxes (EBIT)](https://www.investopedia.com/terms/e/ebit.asp); it is also referred to as the operating profit or recurring profit. The one big difference between [operating income and EBIT](https://www.investopedia.com/ask/answers/012015/what-difference-between-ebit-and-operating-income.asp) is that EBIT includes any [non-operating income](https://www.investopedia.com/terms/n/non-operating-income.asp) the company generates.
+Operating income is a measurement that shows how much of a company's revenue will eventually become profits. Operating income is similar to a company's [earnings before interest and taxes (EBIT)](https://www.investopedia.com/terms/e/ebit.asp); it is also referred to as the operating profit or recurring profit. The one big difference between [[operating income and EBIT]](https://www.investopedia.com/ask/answers/012015/what-difference-between-ebit-and-operating-income.asp) is that EBIT includes any [[non-operating income]](https://www.investopedia.com/terms/n/non-operating-income.asp) the company generates.
 
 Analyzing operating income is helpful to investors because it doesn't include taxes and other one-off items that might skew profit or net income. A company that's generating an increasing amount of operating income is seen as favorable because it means that the company's management is generating more revenue while controlling expenses, production costs, and overhead.
 
@@ -50,7 +50,7 @@ In another example, we have Company Red, which reports financial results for the
 
 ### How to Find Operating Income
 
-The example below highlights how to find and calculate operating income using the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) for Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)). The figures are from the quarter ending June 29, 2019.1
+The example below highlights how to find and calculate operating income using the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) for Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)). The figures are from the quarter ending June 29, 2019.1
 
 -   Operating income for June 2019 was $11.5 billion (highlighted in green).
 -   Operating income is calculated before, or located slightly above, net income.
@@ -60,7 +60,7 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Special Considerations
 
-It's important to note that operating income is [different than net income](https://www.investopedia.com/ask/answers/122414/what-difference-between-operating-income-and-net-income.asp) (as well as gross profit). Operating income includes more expense line items than gross profit, which primarily includes the costs of production. Operating income includes both COGS—or cost of sales—as well as [operating expenses](https://www.investopedia.com/terms/n/noninterest-expense.asp). However, operating income does not include items such as other income, non-operating income, and non-operating expenses. Instead, those figures are included in the net income calculation.
+It's important to note that operating income is [[different than net income]](https://www.investopedia.com/ask/answers/122414/what-difference-between-operating-income-and-net-income.asp) (as well as gross profit). Operating income includes more expense line items than gross profit, which primarily includes the costs of production. Operating income includes both COGS—or cost of sales—as well as [[operating expenses]](https://www.investopedia.com/terms/n/noninterest-expense.asp). However, operating income does not include items such as other income, non-operating income, and non-operating expenses. Instead, those figures are included in the net income calculation.
 
 ## Frequently Asked Questions
 

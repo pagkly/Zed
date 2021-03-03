@@ -16,7 +16,7 @@ author: Adam Hayes
 Harvard MBA Indicator Definition
 ## What Is the Harvard MBA Indicator?
 
-The Harvard MBA Indicator is a [contrarian](https://www.investopedia.com/terms/c/contrarian.asp) long-term stock market indicator that evaluates the percentage of Harvard Business School [MBA](https://www.investopedia.com/terms/m/mba.asp) graduates that accept "market sensitive" jobs. Market sensitive jobs exist in fields such as investment banking, securities sales and trading, private equity, venture capital, and leveraged buyouts.
+The Harvard MBA Indicator is a [contrarian](https://www.investopedia.com/terms/c/contrarian.asp) long-term stock market indicator that evaluates the percentage of Harvard Business School [[MBA]](https://www.investopedia.com/terms/m/mba.asp) graduates that accept "market sensitive" jobs. Market sensitive jobs exist in fields such as investment banking, securities sales and trading, private equity, venture capital, and leveraged buyouts.
 
 If more than 30% of a year's graduating class take jobs in these areas, the Harvard MBA Indicator is said to generate a sell signal for stocks. Conversely, if less than 10% of graduates take jobs in this sector, it represents a long-term buy signal for stocks. In between can be regarded as "neutral".1
 

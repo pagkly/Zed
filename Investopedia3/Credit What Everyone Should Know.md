@@ -18,11 +18,11 @@ Credit: What Everyone Should Know
 
 How do you define credit? This term is broad with many different meanings in the financial world. Credit is generally defined as a contractual agreement in which a borrower receives something of value now and agrees to repay the lender at a later date—generally with interest. Sometimes, it may even involve crediting a 401(k), for instance.
 
-Credit also refers to the creditworthiness or [credit history](https://www.investopedia.com/terms/c/credit-history.asp) of an individual or company. It also refers to an accounting entry that either decreases assets or increases liabilities and equity on a company's balance sheet.
+Credit also refers to the creditworthiness or [[credit history]](https://www.investopedia.com/terms/c/credit-history.asp) of an individual or company. It also refers to an accounting entry that either decreases assets or increases liabilities and equity on a company's balance sheet.
 
 ## How Credit Works
 
-In the first and most common definition of the term, credit refers to an agreement to purchase a good or service with the express promise to pay for it later. This is known as buying on credit. The most common form of buying on credit is via the use of [credit cards](https://www.investopedia.com/terms/c/creditcard.asp). People tend to make purchases with credit cards because they may not have enough cash on hand to make the purchase. Accepting credit cards can help increase sales at retailers or between businesses.
+In the first and most common definition of the term, credit refers to an agreement to purchase a good or service with the express promise to pay for it later. This is known as buying on credit. The most common form of buying on credit is via the use of [[credit cards]](https://www.investopedia.com/terms/c/creditcard.asp). People tend to make purchases with credit cards because they may not have enough cash on hand to make the purchase. Accepting credit cards can help increase sales at retailers or between businesses.
 
 The amount of money a consumer or business has available to borrow—or their creditworthiness—is also called credit. For example, someone may say, "He has great credit, so he's not worried about the bank rejecting his mortgage application."
 
@@ -30,7 +30,7 @@ Service credit is an agreement between a consumer and a service provider such as
 
 In other cases, credit refers to a deduction in the amount one owes. For example, imagine someone owes their credit card company $1,000, but they return a purchase worth $300 to the store. They receive a credit on their account and then owe only $700.
 
-Finally, in accounting, credit is an entry that depicts a decrease in assets or an increase in liability. So a credit increases [net income](https://www.investopedia.com/terms/n/netincome.asp) on the company's income statement while debit reduces net income.
+Finally, in accounting, credit is an entry that depicts a decrease in assets or an increase in liability. So a credit increases [[net income]](https://www.investopedia.com/terms/n/netincome.asp) on the company's income statement while debit reduces net income.
 
 ## Types of Credit
 
@@ -42,7 +42,7 @@ There are many different forms of credit. The most popular form is bank credit o
 -   Credit also refers to an individual or business' creditworthiness or credit history.
 -   In accounting, a credit may either decreases assets or increases liabilities and equity on a company's balance sheet.
 
-For example, when someone uses his or her [Visa card](https://www.investopedia.com/terms/v/visa-card.asp) to make a purchase, the card is considered a form of credit because they are buying goods with the understanding they will pay the bank back later.
+For example, when someone uses his or her [[Visa card]](https://www.investopedia.com/terms/v/visa-card.asp) to make a purchase, the card is considered a form of credit because they are buying goods with the understanding they will pay the bank back later.
 
 Financial resources are not the only form of credit that may be offered. There may be an exchange of goods and services in exchange for a deferred payment, which is another type of credit.
 
@@ -54,4 +54,4 @@ In accounting, a credit is an entry recording a sum that has been received. Trad
 
 Additionally, if a company buys something on credit, its accounts must record the transaction several places in its balance sheet. To explain, imagine that a company buys merchandise on credit.
 
-After the purchase, the company's inventory account increases by the amount of the purchase, adding an asset to the company. However, its [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp) field also increases by the amount of the purchase, adding a liability to the company.
+After the purchase, the company's inventory account increases by the amount of the purchase, adding an asset to the company. However, its [[accounts payable]](https://www.investopedia.com/terms/a/accountspayable.asp) field also increases by the amount of the purchase, adding a liability to the company.

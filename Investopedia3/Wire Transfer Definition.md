@@ -16,7 +16,7 @@ author: Julia Kagan
 Wire Transfer Definition
 ## What Is a Wire Transfer?
 
-A wire transfer is an [electronic transfer](https://www.investopedia.com/terms/e/electronic-transfer-account.asp) of funds via a network that is administered by hundreds of banks and transfer service agencies around the world. The transfer can also be made in cash at a cash office.
+A wire transfer is an [[electronic transfer]](https://www.investopedia.com/terms/e/electronic-transfer-account.asp) of funds via a network that is administered by hundreds of banks and transfer service agencies around the world. The transfer can also be made in cash at a cash office.
 
 ### Key Takeaways
 
@@ -29,13 +29,13 @@ A wire transfer is an [electronic transfer](https://www.investopedia.com/terms/e
 
 Wire transfers allow for the individualized transmission of funds from single individuals or entities to others while still maintaining the efficiencies associated with the fast and secure movement of money. By using a wire transfer, people in different geographic locations can safely transfer money to locales and financial institutions around the globe.
 
-A wire transfer is most often used to transfer funds from one bank or financial institution to another. No physical money is transferred between banks or financial institutions when conducting a wire transfer. Instead, information is passed between banking institutions about the recipient, the bank receiving [account number](https://www.investopedia.com/articles/personal-finance/063015/routing-number-vs-account-number-how-they-differ.asp), and the amount transferred.
+A wire transfer is most often used to transfer funds from one bank or financial institution to another. No physical money is transferred between banks or financial institutions when conducting a wire transfer. Instead, information is passed between banking institutions about the recipient, the bank receiving [[account number]](https://www.investopedia.com/articles/personal-finance/063015/routing-number-vs-account-number-how-they-differ.asp), and the amount transferred.
 
 The sender of a wire transfer first pays for the transaction upfront at his bank. The sending bank sends a message to the recipient's bank with payment instructions through a secure system, such as Fedwire or SWIFT. The recipient's bank receives all the necessary information from the initiating bank and deposits its own reserve funds into the correct account. The two banking institutions then settle the payment on the back end (after the money has already been deposited).
 
-Non-bank wire transfers do not require bank [account numbers](https://www.investopedia.com/terms/a/account-number.asp). One popular non-bank wire transfer company is Western Union, whose [international money transfer service](https://www.investopedia.com/terms/i/iban.asp) is available in more than 200 countries.
+Non-bank wire transfers do not require bank [[account numbers]](https://www.investopedia.com/terms/a/account-number.asp). One popular non-bank wire transfer company is Western Union, whose [[international money transfer service]](https://www.investopedia.com/terms/i/iban.asp) is available in more than 200 countries.
 
-All legitimate wire transfers take up to two days to process. If an electronic form of payment takes longer than a few days, it cannot truly be considered a wire transfer. A domestic wire transfer is processed on the same day it is initiated and can be received within a few hours. International wire transfers are normally delivered within two [business days](https://www.investopedia.com/terms/b/business-day.asp).
+All legitimate wire transfers take up to two days to process. If an electronic form of payment takes longer than a few days, it cannot truly be considered a wire transfer. A domestic wire transfer is processed on the same day it is initiated and can be received within a few hours. International wire transfers are normally delivered within two [[business days]](https://www.investopedia.com/terms/b/business-day.asp).
 
 The reason for the two different lead times comes from the use of domestic Automated Clearing Houses (ACH) and foreign processing systems. A domestic wire transfer only has to go through a domestic ACH and can be delivered within a day. International wire transfers must clear a domestic ACH and also its foreign equivalent (thus adding an additional day to the process).
 

@@ -26,7 +26,7 @@ A whistleblower is anyone who has and reports insider knowledge of illegal activ
 
 ## Whistleblower Explained
 
-Many organizations dedicate themselves to addressing whistleblowing, but some organizations specialize in specific aspects of it. For example, the [Occupational Safety and Health Administration](https://www.investopedia.com/terms/o/occupational-safety-and-health-act.asp) (OSHA) is more interested in environmental and safety breaches, and the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) is more concerned with securities law violations. Many organizations offer rewards for impactful information, allow anonymous tips, and provide various methods for submission of information.
+Many organizations dedicate themselves to addressing whistleblowing, but some organizations specialize in specific aspects of it. For example, the [[Occupational Safety and Health Administration]](https://www.investopedia.com/terms/o/occupational-safety-and-health-act.asp) (OSHA) is more interested in environmental and safety breaches, and the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) is more concerned with securities law violations. Many organizations offer rewards for impactful information, allow anonymous tips, and provide various methods for submission of information.
 
 A whistleblower may release information to company officials or a large governing or regulating body. In cases where fraud or other illegal activity involves high-ranking officials and executive members of management, the optimal choice is to report wrongdoings to a regulating body.
 
@@ -38,7 +38,7 @@ Less commonly, sports referees were also called whistleblowers as they alerted t
 
 ### Notable Whistleblowers
 
-One of the most notable whistleblowers is W. Mark Felt, also known as "Deep Throat," who exposed former President Richard Nixon's involvement in illegal dealings during the Watergate Scandal. Another famous whistleblower is Sherron Watkins, a former [Enron](https://www.investopedia.com/terms/e/enron.asp) employee, who shed light on the company's fraudulent accounting practices. As a result, Enron ceased operations and brought about the birth of the [Sarbanes Oxley Act.](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp)
+One of the most notable whistleblowers is W. Mark Felt, also known as "Deep Throat," who exposed former President Richard Nixon's involvement in illegal dealings during the Watergate Scandal. Another famous whistleblower is Sherron Watkins, a former [[Enron]](https://www.investopedia.com/terms/e/enron.asp) employee, who shed light on the company's fraudulent accounting practices. As a result, Enron ceased operations and brought about the birth of the [[Sarbanes Oxley Act.]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp)
 
 ## Whistleblower Protection
 

@@ -16,7 +16,7 @@ author: Evan Tarver
 The Earnout: Selling Your Business and Collecting Future Earnings
 ## What Is an Earnout?
 
-An earnout is a contractual provision stating that the seller of a business is to obtain additional compensation in the future if the business achieves certain financial goals, which are usually stated as a percentage of [gross sales](https://www.investopedia.com/terms/g/grosssales.asp) or earnings.
+An earnout is a contractual provision stating that the seller of a business is to obtain additional compensation in the future if the business achieves certain financial goals, which are usually stated as a percentage of [[gross sales]](https://www.investopedia.com/terms/g/grosssales.asp) or earnings.
 
 If an entrepreneur seeking to sell a business is asking for a price more than a buyer is willing to pay, an earnout provision can be utilized. In a simplified example, there could be a purchase price of $1 million plus 5% of gross sales over the next three years.
 
@@ -29,9 +29,9 @@ If an entrepreneur seeking to sell a business is asking for a price more than a 
 
 ## Understanding an Earnout
 
-Earnouts do not come with hard and fast rules. Instead, the [payout](https://www.investopedia.com/terms/p/payout.asp) level is dependent on a number of factors, including the size of the business. This can be used to bridge the gap between differing expectations from the buyers and sellers.
+Earnouts do not come with hard and fast rules. Instead, the [[payout]](https://www.investopedia.com/terms/p/payout.asp) level is dependent on a number of factors, including the size of the business. This can be used to bridge the gap between differing expectations from the buyers and sellers.
 
-An earnout helps eliminate uncertainty for the buyer, as it is tied to future financial performance. The buyer pays a portion of the cost of the business upfront, and the remainder of the cost is dependent upon if future performance targets are met. The seller also receives the benefits of future growth for a period of time. Different financial targets such as [net income](https://www.investopedia.com/terms/n/netincome.asp) or [revenue](https://www.investopedia.com/terms/r/revenue.asp) may help determine earnouts.
+An earnout helps eliminate uncertainty for the buyer, as it is tied to future financial performance. The buyer pays a portion of the cost of the business upfront, and the remainder of the cost is dependent upon if future performance targets are met. The seller also receives the benefits of future growth for a period of time. Different financial targets such as [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) may help determine earnouts.
 
 ## Structuring an Earnout
 
@@ -39,7 +39,7 @@ There are a number of key considerations, aside from the cash compensation when 
 
 The length of the contract and the executive's role with the company post-[acquisition](https://www.investopedia.com/terms/a/acquisition.asp) are two issues that also have to be negotiated. This is so because the performance of the company is tied to management as well as other key employees. If these employees leave then the company may not hit its financial targets.
 
-The agreement should also specify the accounting assumptions that will be used going forward. Although a company can adhere to [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), there are still judgments managers have to make that can affect results. For instance, assuming a higher level for returns and allowances will lower earnings.
+The agreement should also specify the accounting assumptions that will be used going forward. Although a company can adhere to [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), there are still judgments managers have to make that can affect results. For instance, assuming a higher level for returns and allowances will lower earnings.
 
 A change in strategy, such as a decision to exit a business or invest in growth initiatives may depress current results. The seller should be aware of this in order to come up with an equitable solution.
 
@@ -49,7 +49,7 @@ There are legal and financial advisors that can assist with the entire process. 
 
 ## Advantages and Disadvantages of an Earnout
 
-There are both advantages and disadvantages for the buyer and seller in an earnout. For the buyer, an advantage is having a longer period of time to pay for the business rather than all upfront. In addition, if [earnings](https://www.investopedia.com/terms/e/earnings.asp) are not as high as expected, the buyer does not have to pay as much. For the seller, the advantage is the ability to spread out taxes over a few years, helping to reduce the tax impact of the sale.
+There are both advantages and disadvantages for the buyer and seller in an earnout. For the buyer, an advantage is having a longer period of time to pay for the business rather than all upfront. In addition, if [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) are not as high as expected, the buyer does not have to pay as much. For the seller, the advantage is the ability to spread out taxes over a few years, helping to reduce the tax impact of the sale.
 
 A disadvantage to the buyer is that the seller may be involved in the business for a longer period of time, wanting to provide assistance to boost earnings or use their previous experience to run the business how they see fit. The disadvantage to the seller is that the future earnings are not high enough, therefore, they do not make as much from the sale of the business.
 

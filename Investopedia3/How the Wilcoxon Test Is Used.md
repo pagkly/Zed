@@ -16,7 +16,7 @@ author: Adam Hayes
 How the Wilcoxon Test Is Used
 ## What Is the Wilcoxon Test?
 
-The Wilcoxon test, which can refer to either the Rank Sum test or the Signed Rank test version, is a nonparametric statistical test that compares two paired groups. The tests essentially calculate the difference between sets of pairs and analyzes these differences to establish if they are [statistically significantly](https://www.investopedia.com/terms/s/statistical-significance.asp) different from one another.
+The Wilcoxon test, which can refer to either the Rank Sum test or the Signed Rank test version, is a nonparametric statistical test that compares two paired groups. The tests essentially calculate the difference between sets of pairs and analyzes these differences to establish if they are [[statistically significantly]](https://www.investopedia.com/terms/s/statistical-significance.asp) different from one another.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The Wilcoxon test, which can refer to either the Rank Sum test or the Signed Ran
 
 ## The Basics of the Wilcoxon Test
 
-The Rank Sum and Signed Rank tests were both proposed by American statistician Frank Wilcoxon in a groundbreaking research paper published in 1945. The tests laid the foundation for [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) of [nonparametric statistics](https://www.investopedia.com/terms/n/nonparametric-statistics.asp), which are used for population data that can be ranked but do not have numerical values, such as customer satisfaction or music reviews. Nonparametric distributions do not have parameters and cannot be defined by an equation as parametric distributions can.
+The Rank Sum and Signed Rank tests were both proposed by American statistician Frank Wilcoxon in a groundbreaking research paper published in 1945. The tests laid the foundation for [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp) of [[nonparametric statistics]](https://www.investopedia.com/terms/n/nonparametric-statistics.asp), which are used for population data that can be ranked but do not have numerical values, such as customer satisfaction or music reviews. Nonparametric distributions do not have parameters and cannot be defined by an equation as parametric distributions can.
 
 The types of questions that the Wilcoxon Test can help us answer include things like:
 
@@ -37,8 +37,8 @@ These models assume that the data comes from two matched, or dependent, populati
 
 ## Versions of the Wilcoxon Test
 
--   The Wilcoxon Rank Sum test can be used to test the [null hypothesis](https://www.investopedia.com/terms/n/null_hypothesis.asp) that two populations have the same continuous distribution. The base assumptions necessary to employ this method of testing is that the data are from the same population and are paired, the data can be measured on at least an interval scale, and the data were chosen randomly and independently.
--   The Wilcoxon Signed Rank test assumes that there is information in the magnitudes and signs of the differences between paired observations. As the [nonparametric](https://www.investopedia.com/terms/n/nonparametric-statistics.asp) equivalent of the paired student's t-test, the Signed Rank can be used as an alternative to the [t-test](https://www.investopedia.com/terms/t/t-test.asp) when the population data does not follow a [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp).
+-   The Wilcoxon Rank Sum test can be used to test the [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) that two populations have the same continuous distribution. The base assumptions necessary to employ this method of testing is that the data are from the same population and are paired, the data can be measured on at least an interval scale, and the data were chosen randomly and independently.
+-   The Wilcoxon Signed Rank test assumes that there is information in the magnitudes and signs of the differences between paired observations. As the [[nonparametric]](https://www.investopedia.com/terms/n/nonparametric-statistics.asp) equivalent of the paired student's t-test, the Signed Rank can be used as an alternative to the [[t-test]](https://www.investopedia.com/terms/t/t-test.asp) when the population data does not follow a [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp).
 
 ## Calculating a Wilcoxon Test Statistic
 

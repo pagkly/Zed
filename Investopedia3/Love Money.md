@@ -16,7 +16,7 @@ author: Adam Hayes
 Love Money
 ## What Is Love Money?
 
-Love money refers to [seed capital](https://www.investopedia.com/terms/s/seedcapital.asp) that has been extended by family or friends to an [entrepreneur](https://www.investopedia.com/terms/e/entrepreneur.asp) to start a business venture. The decision to lend money and the terms of the agreement are usually based on the relationship between the two parties, instead of a formulaic risk analysis.
+Love money refers to [[seed capital]](https://www.investopedia.com/terms/s/seedcapital.asp) that has been extended by family or friends to an [[entrepreneur]](https://www.investopedia.com/terms/e/entrepreneur.asp) to start a business venture. The decision to lend money and the terms of the agreement are usually based on the relationship between the two parties, instead of a formulaic risk analysis.
 
 ### Key Takeaways
 
@@ -27,19 +27,19 @@ Love money refers to [seed capital](https://www.investopedia.com/terms/s/seedcap
 
 ## Understanding Love Money
 
-Love money is usually given to entrepreneurs by family or friends when there are no other financial options available. Love money may be the only financing option for an entrepreneur who does not meet the criteria necessary to get [credit](https://www.investopedia.com/terms/c/credit.asp) or capital from traditional avenues like banks or other lenders. Love money may be used to start a new business or to provide an injection of capital to an existing business when required.
+Love money is usually given to entrepreneurs by family or friends when there are no other financial options available. Love money may be the only financing option for an entrepreneur who does not meet the criteria necessary to get [[credit]](https://www.investopedia.com/terms/c/credit.asp) or capital from traditional avenues like banks or other lenders. Love money may be used to start a new business or to provide an injection of capital to an existing business when required.
 
-Love money typically has no fixed [repayment](https://www.investopedia.com/terms/r/repayment.asp) terms, and can sometimes be given for equity in the venture. Love money may also be advanced as a loan or a [convertible note](https://www.investopedia.com/terms/c/convertiblebond.asp) with a more formal and structured agreement. Regardless of the structure, it is recommended that investors only use [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)—money they are prepared to lose—when providing love money investments to family and friends.
+Love money typically has no fixed [repayment](https://www.investopedia.com/terms/r/repayment.asp) terms, and can sometimes be given for equity in the venture. Love money may also be advanced as a loan or a [[convertible note]](https://www.investopedia.com/terms/c/convertiblebond.asp) with a more formal and structured agreement. Regardless of the structure, it is recommended that investors only use [[risk capital]](https://www.investopedia.com/terms/r/riskcapital.asp)—money they are prepared to lose—when providing love money investments to family and friends.
 
 ## Angel Investors and Love Money
 
-The people who advance love money may also be considered [angel investors](https://www.investopedia.com/terms/a/angelinvestor.asp), but that is not always the case. The term angel investors may refer to any high net worth individual who can afford to put money in a risky venture, but it usually refers to [accredited investors](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
+The people who advance love money may also be considered [[angel investors]](https://www.investopedia.com/terms/a/angelinvestor.asp), but that is not always the case. The term angel investors may refer to any high net worth individual who can afford to put money in a risky venture, but it usually refers to [[accredited investors]](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
 
 These investors will often inject cash into a new venture or when a business needs capital to continue its operations, especially during the difficult early stages, but they tend to have an expectation of returns and a set exit strategy. To qualify as love money, the angel investor would have to be in the entrepreneur's social network prior to investing.
 
 ## Why Is Love Money Important?
 
-Love money is crucial to many types of business ventures but is especially helpful for [startups](https://www.investopedia.com/terms/s/startup.asp). Many of these businesses would never obtain financing through traditional means. For many budding entrepreneurs, love money is the best way to get off the ground.
+Love money is crucial to many types of business ventures but is especially helpful for [[startups]](https://www.investopedia.com/terms/s/startup.asp). Many of these businesses would never obtain financing through traditional means. For many budding entrepreneurs, love money is the best way to get off the ground.
 
 That said, love money is not always for first-time entrepreneurs. It can also be a great source of capital for people who are already established but cannot secure enough financing. The more advanced a business is, the more formal a love money investment is likely to be. 
 

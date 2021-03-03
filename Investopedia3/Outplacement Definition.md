@@ -26,7 +26,7 @@ Outplacement is any service that assists a departing employee with obtaining a n
 
 ## Understanding Outplacement
 
-No one likes to be fired or laid off from a job or to deliver the news to someone else, but going above and beyond a [severance](https://www.investopedia.com/terms/s/severence-package.asp) package by providing outplacement services can help both parties through an often-rough transition.
+No one likes to be fired or laid off from a job or to deliver the news to someone else, but going above and beyond a [[severance]](https://www.investopedia.com/terms/s/severence-package.asp) package by providing outplacement services can help both parties through an often-rough transition.
 
 Sometimes services are offered in-house by the company that’s letting an employee go; others hire a third party when it's necessary to keep expenses lower or if tensions or awkwardness are particularly high. Outplacement services were traditionally provided at an outplacement firm so that the former employee could have access to office tools (such as a phone and computer) that he or she needed in order to write resumes and cover letters and find new employment. Today, many employees have home offices and may only need to visit an outplacement firm for career counseling, if at all, since counseling may also be done over the phone.
 
@@ -40,7 +40,7 @@ On the other hand, employees should recognize that employer-paid outplacement se
 
 From an employer’s perspective, providing outplacement services can show that the company truly cares about the person as a human being and could go a long way toward thwarting any revenge. Insurers who provide insurance against the risk of wrongful termination lawsuits look favorably at firms that a have a solid outplacement plan, as it can reduce the risk of costly legal problems. Compassionate outplacement may also reduce the risk of workplace violence and active shooter situations.
 
-It’s also a way to keep an ongoing relationship with an employee. That’s particularly important if it involves a layoff due to [downsizing](https://www.investopedia.com/terms/d/downsize.asp), not poor performance or behavior, or the person leaves on his or her own accord. It’s in a company’s best interest to be encouraging and supportive if it has an eye on possibly rehiring the person at a future time.
+It’s also a way to keep an ongoing relationship with an employee. That’s particularly important if it involves a layoff due to [[downsizing]](https://www.investopedia.com/terms/d/downsize.asp), not poor performance or behavior, or the person leaves on his or her own accord. It’s in a company’s best interest to be encouraging and supportive if it has an eye on possibly rehiring the person at a future time.
 
 The other aspect of providing outplacement services that bodes well for companies is saving money on unemployment claims. While companies do not pay extra when a former employee files a claim that’s approved, the annual tax rate they pay to the state toward unemployment can be affected.
 

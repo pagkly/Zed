@@ -26,13 +26,13 @@ Counterparty risk is the likelihood or probability that one of those involved in
 
 ## Understanding Counterparty Risk
 
-Varying degrees of counterparty risk exists in all financial transactions. Counterparty risk is also known as [default risk](https://www.investopedia.com/terms/d/defaultrisk.asp). Default risk is the chance that companies or individuals will be unable to make the required payments on their debt obligations. [Lenders](https://www.investopedia.com/terms/l/lender.asp) and [investors](https://www.investopedia.com/terms/i/investor.asp) are exposed to default risk in virtually all forms of credit extensions. Counterparty risk is a risk that both parties should consider when evaluating a contract.
+Varying degrees of counterparty risk exists in all financial transactions. Counterparty risk is also known as [[default risk]](https://www.investopedia.com/terms/d/defaultrisk.asp). Default risk is the chance that companies or individuals will be unable to make the required payments on their debt obligations. [[Lenders]](https://www.investopedia.com/terms/l/lender.asp) and [[investors]](https://www.investopedia.com/terms/i/investor.asp) are exposed to default risk in virtually all forms of credit extensions. Counterparty risk is a risk that both parties should consider when evaluating a contract.
 
 ### Counterparty Risk and Risk Premiums
 
 If one party has a higher risk of default, a premium is usually attached to the transaction to compensate the other party. The premium added due to counterparty risk is called a risk premium.
 
-In retail and commercial financial transactions, [credit reports](https://www.investopedia.com/terms/c/creditreport.asp) are often used by creditors to determine the counterparty's credit risk. Credit scores of borrowers are analyzed and monitored to gauge the level of risk to the creditor. A [credit score](https://www.investopedia.com/articles/personal-finance/081115/getting-your-credit-score-bank.asp) is a numerical value of an individual's or company's creditworthiness, which is based on many variables.
+In retail and commercial financial transactions, [[credit reports]](https://www.investopedia.com/terms/c/creditreport.asp) are often used by creditors to determine the counterparty's credit risk. Credit scores of borrowers are analyzed and monitored to gauge the level of risk to the creditor. A [[credit score]](https://www.investopedia.com/articles/personal-finance/081115/getting-your-credit-score-bank.asp) is a numerical value of an individual's or company's creditworthiness, which is based on many variables.
 
 A person's credit score ranges from 300 to 850, and the higher the score, the more financially trustworthy a person is considered to be to the creditor. Numerical values of credit scores are listed below:
 
@@ -50,7 +50,7 @@ Investors must consider the company that's issuing the bond, stock, or insurance
 
 ### Investment Counterparty Risk
 
-Financial investment products such as stocks, options, bonds, and derivatives carry counterparty risk. Bonds are rated by agencies, such as Moody's and Standard and Poor's, from AAA to junk bond status to gauge the level of counterparty risk. Bonds that carry higher counterparty risk pay higher yields. When counterparty risk is minimal, the premiums or interest rates are low, such as with [money market funds](https://www.investopedia.com/terms/m/money-marketfund.asp).
+Financial investment products such as stocks, options, bonds, and derivatives carry counterparty risk. Bonds are rated by agencies, such as Moody's and Standard and Poor's, from AAA to junk bond status to gauge the level of counterparty risk. Bonds that carry higher counterparty risk pay higher yields. When counterparty risk is minimal, the premiums or interest rates are low, such as with [[money market funds]](https://www.investopedia.com/terms/m/money-marketfund.asp).
 
 For example, a company that offers junk bonds will have a high yield to compensate investors for the added risk that the company could default on its obligations. Conversely, a U.S. Treasury bond has low counterparty risk and therefore; rated higher than corporate debt and junk bonds. However, treasuries typically pay a lower yield than corporate debt since there's a lower risk of default.
 
@@ -62,7 +62,7 @@ When the counterparty risk is miscalculated and a party defaults, the impending 
 
 Mortgages are securitized into CDOs for investment and backed by the underlying assets. One of the major flaws of CDOs before the economic crash was that they contained subprime and low-quality mortgages, whereby the CDOs were given the same high-grade ratings as corporate debt.
 
-The high credit rating for CDOs allowed them to receive institutional investment since funds are required to invest only in highly rated debt. When borrowers began defaulting on mortgage payments, the real estate bubble burst, leaving the investors, banks, and reinsurers on the hook for massive losses. The ratings agencies received a lot of blame for the collapse, which eventually led to the financial market meltdown that defined the [bear market](https://www.investopedia.com/terms/b/bearmarket.asp) of 2007–2009.
+The high credit rating for CDOs allowed them to receive institutional investment since funds are required to invest only in highly rated debt. When borrowers began defaulting on mortgage payments, the real estate bubble burst, leaving the investors, banks, and reinsurers on the hook for massive losses. The ratings agencies received a lot of blame for the collapse, which eventually led to the financial market meltdown that defined the [[bear market]](https://www.investopedia.com/terms/b/bearmarket.asp) of 2007–2009.
 
 ### AIG and Insurance Risk
 

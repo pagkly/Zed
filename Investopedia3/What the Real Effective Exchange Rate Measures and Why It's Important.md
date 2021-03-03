@@ -16,9 +16,9 @@ author: Adam Hayes
 What the Real Effective Exchange Rate Measures and Why It's Important
 ## What Is the Real Effective Exchange Rate – REER?
 
-The real effective exchange rate (REER) is the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) of a country's currency in relation to an index or basket of other major currencies. The weights are determined by comparing the relative trade balance of a country's currency against each country within the index.
+The real effective exchange rate (REER) is the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) of a country's currency in relation to an index or basket of other major currencies. The weights are determined by comparing the relative trade balance of a country's currency against each country within the index.
 
-This [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) is used to determine an individual country's currency value relative to the other major currencies in the index.
+This [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) is used to determine an individual country's currency value relative to the other major currencies in the index.
 
 ### Key Takeaways
 
@@ -37,13 +37,13 @@ REER\=CERn×CERn×CERn×100where:CER = Country exchange rate\\begin{aligned}
 1.  A country's REER can be derived by taking the average of the bilateral exchange rates between itself and its trading partners and then weighing it using the trade allocation of each partner.
 2.  The average of the exchange rates is calculated after assigning the weightings for each rate. For example, if a currency had a 60% weighting, the exchange rate would raised to the power by 0.60 and do the same for each exchange rate and its respective weighting.
 3.  Multiply each exchange rate in step 2 by each other and multiply the final result by 100 to create the scale or index.
-4.  Some calculations use bilateral exchange rates while other models use real exchange rates, which adjusts the exchange rate for inflation. Regardless of the way in which REER is calculated, it is an average and considered in equilibrium when it is [overvalued](https://www.investopedia.com/terms/o/overvalued.asp) in relation to one trading partner and [undervalued](https://www.investopedia.com/terms/u/undervalued.asp) in relation to a second partner.
+4.  Some calculations use bilateral exchange rates while other models use real exchange rates, which adjusts the exchange rate for inflation. Regardless of the way in which REER is calculated, it is an average and considered in equilibrium when it is [[overvalued]](https://www.investopedia.com/terms/o/overvalued.asp) in relation to one trading partner and [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp) in relation to a second partner.
 
 ## What Does REER Tell You?
 
 The real effective exchange rate (REER) is used to measure the value of a specific currency in relation to an average group of major currencies. A country's REER is an important measure when assessing its trade capabilities.
 
-The REER can be used to measure the [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) value of a country's currency, identify the underlying factors of a country's trade flow, and analyze the impact that other factors, such as competition and technological changes, have on a country and ultimately the trade-weighted index.
+The REER can be used to measure the [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) value of a country's currency, identify the underlying factors of a country's trade flow, and analyze the impact that other factors, such as competition and technological changes, have on a country and ultimately the trade-weighted index.
 
 For example, if the U.S. dollar exchange rate weakened against the euro, U.S. exports to Europe become cheaper. European businesses or consumers buying U.S. goods need to convert their euros to dollars to buy our exports. If the dollar is weaker than the euro, it means Europeans can get more dollars for each euro. As a result, U.S. goods are cheaper due solely to the exchange rate between the euro and the U.S. dollar.
 

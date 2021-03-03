@@ -16,7 +16,7 @@ author: Jason Fernando
 Law of Supply and Demand Definition
 ## What Is the Law of Supply and Demand?
 
-The law of supply and demand is a theory that explains the interaction between the sellers of a resource and the buyers for that resource. The theory defines the relationship between the price of a given good or product and the willingness of people to either buy or sell it. Generally, as price increases [people are willing to supply more and demand less](https://www.investopedia.com/video/play/law-supply-and-demand/) and vice versa when the price falls.
+The law of supply and demand is a theory that explains the interaction between the sellers of a resource and the buyers for that resource. The theory defines the relationship between the price of a given good or product and the willingness of people to either buy or sell it. Generally, as price increases [[people are willing to supply more and demand less]](https://www.investopedia.com/video/play/law-supply-and-demand/) and vice versa when the price falls.
 
 ### Key Takeaways
 
@@ -27,17 +27,17 @@ The law of supply and demand is a theory that explains the interaction between t
 
 ## Understanding the Law of Supply and Demand
 
-The law of supply and [demand](https://www.investopedia.com/video/play/law-demand/), one of the most basic economic laws, ties into almost all economic principles in some way. In practice, people's willingness to supply and demand a good determines the market equilibrium price, or the price where the quantity of the good that people are willing to supply just equals the quantity that people demand. However, multiple factors can affect both supply and demand, causing them to increase or decrease in various ways.
+The law of supply and [[demand]](https://www.investopedia.com/video/play/law-demand/), one of the most basic economic laws, ties into almost all economic principles in some way. In practice, people's willingness to supply and demand a good determines the market equilibrium price, or the price where the quantity of the good that people are willing to supply just equals the quantity that people demand. However, multiple factors can affect both supply and demand, causing them to increase or decrease in various ways.
 
 ## Law of Demand vs. Law of Supply
 
 The law of demand states that, if all other factors remain equal, the higher the price of a good, the less people will demand that good. In other words, the higher the price, the lower the quantity demanded. The amount of a good that buyers purchase at a higher price is less because as the price of a good goes up, so does the opportunity cost of buying that good. As a result, people will naturally avoid buying a product that will force them to forgo the consumption of something else they value more. The chart below shows that the curve is a downward slope.
 
-Like the law of demand, the [law of supply](https://www.investopedia.com/terms/l/lawofsupply.asp) demonstrates the quantities that will be sold at a certain price. But unlike the law of demand, the supply relationship shows an upward slope. This means that the higher the price, the higher the [quantity supplied](https://www.investopedia.com/terms/q/quantitysupplied.asp). From the seller's perspective, the opportunity cost of each additional unit that they sell tends to be higher and higher. Producers supply more at a higher price because the higher selling price justifies the higher opportunity cost of each additional unit sold.
+Like the law of demand, the [[law of supply]](https://www.investopedia.com/terms/l/lawofsupply.asp) demonstrates the quantities that will be sold at a certain price. But unlike the law of demand, the supply relationship shows an upward slope. This means that the higher the price, the higher the [[quantity supplied]](https://www.investopedia.com/terms/q/quantitysupplied.asp). From the seller's perspective, the opportunity cost of each additional unit that they sell tends to be higher and higher. Producers supply more at a higher price because the higher selling price justifies the higher opportunity cost of each additional unit sold.
 
 For both supply and demand, it is important to understand that time is always a dimension on these charts. The quantity demanded or supplied, found along the horizontal axis, is always measured in units of the good over a given time interval. Longer or shorter time intervals can influence the shapes of both the supply and demand curves.
 
-At any given _point_ in time, the [supply](https://www.investopedia.com/video/play/supply/) of a good brought to market is fixed. In other words the supply curve in this case is a vertical line, while the demand curve is always downward sloping due to the law of diminishing marginal utility. Sellers can charge no more than the market will bear based on consumer demand at that point in time. Over longer intervals of time however, suppliers can increase or decrease the quantity they supply to the market based on the price they expect to be able to charge. So over time the supply curve slopes upward; the more suppliers expect to be able to charge, the more they will be willing to produce and bring to market.
+At any given _point_ in time, the [[supply]](https://www.investopedia.com/video/play/supply/) of a good brought to market is fixed. In other words the supply curve in this case is a vertical line, while the demand curve is always downward sloping due to the law of diminishing marginal utility. Sellers can charge no more than the market will bear based on consumer demand at that point in time. Over longer intervals of time however, suppliers can increase or decrease the quantity they supply to the market based on the price they expect to be able to charge. So over time the supply curve slopes upward; the more suppliers expect to be able to charge, the more they will be willing to produce and bring to market.
 
 For all time periods, the demand curve slopes downward because of the law of diminishing marginal utility. The first unit of good that any buyer demands will always be put to that buyer's highest valued use. For each additional unit, the buyer will use it (or plan to use it) for a successively lower valued use.
 
@@ -55,13 +55,13 @@ Conversely, if the price for a bottle of beer was $2 and the quantity supplied d
 
 ## How Do Supply and Demand Create an Equilibrium Price?
 
-Also called a market-clearing price, the [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) price is the price at which the producer can sell all the units he wants to produce and the buyer can buy all the units he wants.
+Also called a market-clearing price, the [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp) price is the price at which the producer can sell all the units he wants to produce and the buyer can buy all the units he wants.
 
 With an upward sloping supply curve and a downward sloping demand curve it is easy to visualize that at some point the two will intersect. At this point, the market price is sufficient to induce suppliers to bring to market that same quantity of goods that consumers will be willing to pay for at that price. Supply and demand are balanced, or in equilibrium. The precise price and quantity where this occurs depends on the shape and position of the respective supply and demand curves, each of which can be influenced by a number of factors. 
 
 ## Factors Affecting Supply
 
-Supply is largely a function of [production costs](https://www.investopedia.com/terms/p/production-cost.asp) such as labor and materials (which reflect their opportunity costs of alternative uses to supply consumers with other goods); the physical technology available to combine inputs; the number of sellers and their total productive capacity over the given time frame; and taxes, regulations, or other institutional costs of production.
+Supply is largely a function of [[production costs]](https://www.investopedia.com/terms/p/production-cost.asp) such as labor and materials (which reflect their opportunity costs of alternative uses to supply consumers with other goods); the physical technology available to combine inputs; the number of sellers and their total productive capacity over the given time frame; and taxes, regulations, or other institutional costs of production.
 
 ## Factors Affecting Demand
 

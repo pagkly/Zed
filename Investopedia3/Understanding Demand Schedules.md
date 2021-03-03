@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Understanding Demand Schedules
 ## What Is a Demand Schedule?
 
-In economics, a demand schedule is a table that shows the [quantity demanded](https://www.investopedia.com/terms/q/quantitydemanded.asp) of a good or service at different price levels. A demand schedule can be graphed as a continuous [demand curve](https://www.investopedia.com/terms/d/demand-curve.asp) on a chart where the Y-axis represents price and the X-axis represents quantity.
+In economics, a demand schedule is a table that shows the [[quantity demanded]](https://www.investopedia.com/terms/q/quantitydemanded.asp) of a good or service at different price levels. A demand schedule can be graphed as a continuous [[demand curve]](https://www.investopedia.com/terms/d/demand-curve.asp) on a chart where the Y-axis represents price and the X-axis represents quantity.
 
 ## Understanding Demand Schedule
 
@@ -41,4 +41,4 @@ In a typical supply and demand relationship, as the price of a good or service r
 
 Price is not the sole factor that determines the demand for a particular product. Demand may also be affected by the amount of disposable income available, shifts in the quality of the goods in question, effective advertising, and even weather patterns.
 
-Price changes of related goods or services may also affect demand. If the price of one product rises, demand for a substitute may rise, while a fall in the price of a product may increase demand for its [complements](https://www.investopedia.com/terms/c/complement.asp). For example, a rise in the price of one brand of coffeemaker may increase the demand for a relatively cheaper coffeemaker produced by a competitor. If the price of all coffeemakers falls, the demand for coffee, a complement to the coffeemaker market, may rise as consumers take advantage of the price decline in coffeemakers.
+Price changes of related goods or services may also affect demand. If the price of one product rises, demand for a substitute may rise, while a fall in the price of a product may increase demand for its [[complements]](https://www.investopedia.com/terms/c/complement.asp). For example, a rise in the price of one brand of coffeemaker may increase the demand for a relatively cheaper coffeemaker produced by a competitor. If the price of all coffeemakers falls, the demand for coffee, a complement to the coffeemaker market, may rise as consumers take advantage of the price decline in coffeemakers.

@@ -22,7 +22,7 @@ In the U.S., the Federal Reserve dictates the amount of cash reserves each bank 
 
 ## How Bank Reserves Work
 
-Bank reserves are essentially an antidote to panic. The Federal Reserve obliges banks to hold a certain amount of cash in reserve so that they never run short and have to refuse a customer's withdrawal, possibly triggering a [bank run](https://www.investopedia.com/terms/b/bankrun.asp).
+Bank reserves are essentially an antidote to panic. The Federal Reserve obliges banks to hold a certain amount of cash in reserve so that they never run short and have to refuse a customer's withdrawal, possibly triggering a [[bank run]](https://www.investopedia.com/terms/b/bankrun.asp).
 
 ### Key Takeaways
 
@@ -38,9 +38,9 @@ Bank reserves decrease during periods of economic expansion and increase during 
 
 ## Special Considerations
 
-The required bank reserve follows a formula set by the [Federal Reserve Board's](https://www.investopedia.com/terms/f/frb.asp) regulations that are based on the amount deposited in net transaction accounts. These include demand deposits, automatic transfer accounts, and share draft accounts. Net transactions are calculated as the total amount in transaction accounts minus funds due from other banks and less cash in the process of collection.
+The required bank reserve follows a formula set by the [[Federal Reserve Board's]](https://www.investopedia.com/terms/f/frb.asp) regulations that are based on the amount deposited in net transaction accounts. These include demand deposits, automatic transfer accounts, and share draft accounts. Net transactions are calculated as the total amount in transaction accounts minus funds due from other banks and less cash in the process of collection.
 
-The [required reserve ratio](https://www.investopedia.com/terms/r/reserveratio.asp) may also be used as a tool to implement monetary policies. Through this ratio, a central bank can influence the amount of funds available for borrowing.
+The [[required reserve ratio]](https://www.investopedia.com/terms/r/reserveratio.asp) may also be used as a tool to implement monetary policies. Through this ratio, a central bank can influence the amount of funds available for borrowing.
 
 Beginning in late 2008, the Federal Reserve began paying interest to the banks for required and excess reserves as a way to infuse more cash into the U.S. economy. That upended the conventional wisdom that banks would rather lend money out than keep it in the vault.
 

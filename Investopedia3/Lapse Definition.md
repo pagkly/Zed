@@ -18,7 +18,7 @@ Lapse Definition
 
 A lapse is the cessation of a privilege, right or policy due to the passage of time or inaction. A lapse of a privilege due to inaction occurs when the party that is to receive the benefit does not fulfill the conditions or requirements set forth by a contract or agreement.
 
-When a policy lapses, it usually occurs because one party fails to act on its obligations, or one of the terms on the policy is breached; an insurance policy will lapse if the holder does not pay the [premiums](https://www.investopedia.com/terms/p/premium.asp), for example. The right given by an [options contract](https://www.investopedia.com/terms/o/optionscontract.asp) will lapse when the option reaches maturity, at which time the holder will no longer possess the right to buy or sell the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp).
+When a policy lapses, it usually occurs because one party fails to act on its obligations, or one of the terms on the policy is breached; an insurance policy will lapse if the holder does not pay the [[premiums]](https://www.investopedia.com/terms/p/premium.asp), for example. The right given by an [[options contract]](https://www.investopedia.com/terms/o/optionscontract.asp) will lapse when the option reaches maturity, at which time the holder will no longer possess the right to buy or sell the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp).
 
 ## Understanding Lapses
 
@@ -33,7 +33,7 @@ When a policy has lapsed, the benefits and everything stated in the contract no 
 
 A policy does not lapse each and every time a premium payment is missed. Insurers are legally bound to give a [[A Closer Look at Grace Periods|grace period]] to policyholders before the policy falls into a lapse. The [[A Closer Look at Grace Periods|grace period]] is usually 30 days. Insurers provide policyholders a period of 30 days to pay for the missed premium deadline.
 
-Whole life, variable universal life and [universal life insurance](https://www.investopedia.com/terms/u/universallife.asp) policies use existing cash values of policies if payments are missed. If policyholders still do not pay within the grace period, a policy may use its own account value to pay for the unpaid premiums. If the account value is not sufficient to pay for the policyholder’s premiums, then the policy will be considered lapsed. Once a policy lapses, the insurer is not under any legal obligation to provide the benefits stated in the policy.
+Whole life, variable universal life and [[universal life insurance]](https://www.investopedia.com/terms/u/universallife.asp) policies use existing cash values of policies if payments are missed. If policyholders still do not pay within the grace period, a policy may use its own account value to pay for the unpaid premiums. If the account value is not sufficient to pay for the policyholder’s premiums, then the policy will be considered lapsed. Once a policy lapses, the insurer is not under any legal obligation to provide the benefits stated in the policy.
 
 [Term life insurance](https://www.investopedia.com/terms/t/termlife.asp) does not have this benefit because it does not gain cash value. In this case, when premium payments are missed, the policy goes straight to the grace period and then falls into a lapse when the grace period is over.
 

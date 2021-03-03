@@ -18,7 +18,7 @@ Triangular Arbitrage Definition
 
 Triangular arbitrage is the result of a discrepancy between three foreign currencies that occurs when the currency's exchange rates do not exactly match up. These opportunities are rare and traders who take advantage of them usually have advanced computer equipment and/or programs to automate the process.
 
-A trader employing triangular arbitrage would exchange an amount at one rate (EUR/USD), convert it again (EUR/GBP) and then convert it finally back to the original (USD/GBP), and assuming low [transaction costs](https://www.investopedia.com/terms/t/transactioncosts.asp), net a profit.
+A trader employing triangular arbitrage would exchange an amount at one rate (EUR/USD), convert it again (EUR/GBP) and then convert it finally back to the original (USD/GBP), and assuming low [[transaction costs]](https://www.investopedia.com/terms/t/transactioncosts.asp), net a profit.
 
 ## Basics of Triangular Arbitrage
 

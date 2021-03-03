@@ -18,7 +18,7 @@ How to Use a Venn Diagram
 
 A Venn diagram is an illustration that uses circles to show the relationships among things or finite groups of things. Circles that overlap have a commonality while circles that do not overlap do not share those traits.
 
-Venn diagrams help to visually represent the similarities and differences between two concepts. They have long been recognized for their usefulness as [educational tools](https://www.investopedia.com/articles/basics/12/lessons-monopoly-teaches.asp). Since the mid-20th century, Venn diagrams have been used as part of the introductory logic curriculum and in elementary-level educational plans around the world.
+Venn diagrams help to visually represent the similarities and differences between two concepts. They have long been recognized for their usefulness as [[educational tools]](https://www.investopedia.com/articles/basics/12/lessons-monopoly-teaches.asp). Since the mid-20th century, Venn diagrams have been used as part of the introductory logic curriculum and in elementary-level educational plans around the world.
 
 ### Key Takeaways
 
@@ -34,11 +34,11 @@ The term Venn diagram did not appear until 1918 when Clarence Lewis, an American
 
 Venn diagrams have been used since the mid-20th century in classrooms from the elementary school level to introductory logic.
 
-Venn studied and taught logic and [probability theory](https://www.investopedia.com/articles/dictionary/042215/understand-math-behind-betting-odds-gambling.asp) at Cambridge University, where he developed his method of using diagrams to illustrate the branch of mathematics known as set theory.
+Venn studied and taught logic and [[probability theory]](https://www.investopedia.com/articles/dictionary/042215/understand-math-behind-betting-odds-gambling.asp) at Cambridge University, where he developed his method of using diagrams to illustrate the branch of mathematics known as set theory.
 
 Venn published a precedent-setting work, _The Logic of Chance_, which explained the frequency theory of probability. In it, he argued that probability, contrary to popular assumption, should be established based on the regularity with which something is predicted to occur.
 
-In another book, _Symbolic Logic,_ he built on and developed mathematician George Boole’s theories on [algebra](https://www.investopedia.com/articles/investing/020614/learn-simple-and-compound-interest.asp). This work helped him develop the Venn diagram.
+In another book, _Symbolic Logic,_ he built on and developed mathematician George Boole’s theories on [[algebra]](https://www.investopedia.com/articles/investing/020614/learn-simple-and-compound-interest.asp). This work helped him develop the Venn diagram.
 
 ### Applications for Venn Diagrams
 
@@ -52,7 +52,7 @@ A Venn diagram could be drawn to illustrate fruits that come in red or orange co
 
 Image by Julie Bang © Investopedia 2020
 
-You might also draw a Venn diagram to help decide which of two [cars to purchase](https://www.investopedia.com/articles/pf/07/neworusedcar.asp). The Venn diagram shows the features that are exclusive to each car and the features that both cars have.
+You might also draw a Venn diagram to help decide which of two [[cars to purchase]](https://www.investopedia.com/articles/pf/07/neworusedcar.asp). The Venn diagram shows the features that are exclusive to each car and the features that both cars have.
 
 Below, we see that Car A is a sedan that's powered by gasoline and gets 20 miles per gallon, while Car B is a hybrid, gets 40 miles-per-gallon for mileage, and is a hatchback.
 

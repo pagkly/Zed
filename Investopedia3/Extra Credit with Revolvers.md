@@ -29,11 +29,11 @@ A revolver can sometimes be referred to as a revolver loan or revolving debt. Ho
 
 ## Understanding Revolvers
 
-The term revolver comes from [revolving credit](https://www.investopedia.com/terms/r/revolvingcredit.asp)_,_ a category of financing or borrowing. A revolver lets an individual consumer or a business open a line of credit through a credit card or line of credit bank account, where the credit issuer offers a specified level of credit over time. Credit issuers tend to profit handsomely from revolvers because the open-ended credit line means companies use them frequently and keep them in use for extended periods of time.
+The term revolver comes from [[revolving credit]](https://www.investopedia.com/terms/r/revolvingcredit.asp)_,_ a category of financing or borrowing. A revolver lets an individual consumer or a business open a line of credit through a credit card or line of credit bank account, where the credit issuer offers a specified level of credit over time. Credit issuers tend to profit handsomely from revolvers because the open-ended credit line means companies use them frequently and keep them in use for extended periods of time.
 
 ## Revolving Debt Versus Non-Revolving Debt
 
-Revolving and non-revolving credit lines each have distinct advantages. Revolving financing allows the borrower to maintain an open credit line up to a specified limit. Non-revolving financing involves a loan whereby a one-time payout is issued to the borrower who must, in turn, make fixed payments according to a schedule. Revolver financing doesn't involve fixed payments or coupon payments. Instead, a minimum monthly payment is due based on the balance and interest rate according to the terms of the [credit agreement](https://www.investopedia.com/terms/c/creditagreement.asp).
+Revolving and non-revolving credit lines each have distinct advantages. Revolving financing allows the borrower to maintain an open credit line up to a specified limit. Non-revolving financing involves a loan whereby a one-time payout is issued to the borrower who must, in turn, make fixed payments according to a schedule. Revolver financing doesn't involve fixed payments or coupon payments. Instead, a minimum monthly payment is due based on the balance and interest rate according to the terms of the [[credit agreement]](https://www.investopedia.com/terms/c/creditagreement.asp).
 
 ### $1.065 trillion
 
@@ -43,7 +43,7 @@ Source: Federal Reserve.1
 
 Non-revolving credit loans are often obtained both by businesses seeking capital with which to finance new projects, and by consumers looking to buy homes, cars, and other big-ticket items. While the underwriting approval standards are typically the same for both revolving and non-revolving credit, revolving credit lines usually involve a more simplified application process.
 
-The emergence of [fintech](https://www.investopedia.com/terms/f/fintech.asp) technologies has dramatically increased the availability of both revolving and non-revolving credit products, providing greater access to credit to underbanked populations. Consumers in the market for non-revolving [loans](https://www.investopedia.com/terms/l/loan.asp) may now choose from independent lenders such as Lending Club or Prosper.
+The emergence of [[fintech]](https://www.investopedia.com/terms/f/fintech.asp) technologies has dramatically increased the availability of both revolving and non-revolving credit products, providing greater access to credit to underbanked populations. Consumers in the market for non-revolving [[loans]](https://www.investopedia.com/terms/l/loan.asp) may now choose from independent lenders such as Lending Club or Prosper.
 
 ## Special Considerations: Revolving Credit Payments
 

@@ -31,11 +31,11 @@ Misrepresentation applies only to statements of fact, not to opinions or predict
 
 A seller of a car in a private transaction could misrepresent the number of miles to a prospective buyer, which could cause the person to purchase the car. If the buyer later finds out that the car had much more wear and tear than represented, they can file a suit against the seller.
 
-In higher stakes situations, a misrepresentation can be considered an [event of default](https://www.investopedia.com/terms/e/event-of-default.asp) by a lender, for instance, in a credit agreement. Meanwhile, misrepresentations can be grounds for termination of a [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A) deal, in which case a substantial [break fee](https://www.investopedia.com/terms/b/breakfee.asp) could apply.
+In higher stakes situations, a misrepresentation can be considered an [[event of default]](https://www.investopedia.com/terms/e/event-of-default.asp) by a lender, for instance, in a credit agreement. Meanwhile, misrepresentations can be grounds for termination of a [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A) deal, in which case a substantial [[break fee]](https://www.investopedia.com/terms/b/breakfee.asp) could apply.
 
 ## Special Considerations
 
-In some situations, such as where a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) relationship is involved, misrepresentation can occur by omission. That is, misrepresentation may occur where a fiduciary fails to disclose material facts of which they have knowledge.
+In some situations, such as where a [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) relationship is involved, misrepresentation can occur by omission. That is, misrepresentation may occur where a fiduciary fails to disclose material facts of which they have knowledge.
 
 A duty also exists to correct any statements of fact which later become known to be untrue. In this case, the failure to correct a previous false statement would be a misrepresentation.
 

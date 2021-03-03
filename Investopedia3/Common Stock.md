@@ -16,7 +16,7 @@ author: James Chen
 Common Stock
 ## What Is Common Stock?
 
-Common stock is a security that represents ownership in a corporation. Holders of common stock elect the [board of directors](https://www.investopedia.com/terms/b/boardoftrustees.asp) and vote on corporate policies. This form of equity ownership typically yields higher rates of return long term. However, in the event of [liquidation](https://www.investopedia.com/terms/l/liquidation.asp), common shareholders have rights to a company's assets only after bondholders, preferred shareholders, and other debtholders are paid in full. Common stock is reported in the stockholder's equity section of a company's balance sheet.
+Common stock is a security that represents ownership in a corporation. Holders of common stock elect the [[board of directors]](https://www.investopedia.com/terms/b/boardoftrustees.asp) and vote on corporate policies. This form of equity ownership typically yields higher rates of return long term. However, in the event of [[liquidation]](https://www.investopedia.com/terms/l/liquidation.asp), common shareholders have rights to a company's assets only after bondholders, preferred shareholders, and other debtholders are paid in full. Common stock is reported in the stockholder's equity section of a company's balance sheet.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ Common stock is a security that represents ownership in a corporation. Holders o
 
 ## Understanding Common Stock
 
-With common stock, if a company goes bankrupt, the common stockholders do not receive their money until the creditors, bondholders, and preferred shareholders have received their respective share. This makes common stock riskier than debt or preferred shares. The upside to common shares is they usually outperform bonds and preferred shares in the long run. Many companies issue all three types of securities. For example, Wells Fargo & Company has several bonds available on the secondary market. It also has preferred stock, such as its Series L (NYSE: WFC-L), and common stock (NYSE: [WFC](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc)).
+With common stock, if a company goes bankrupt, the common stockholders do not receive their money until the creditors, bondholders, and preferred shareholders have received their respective share. This makes common stock riskier than debt or preferred shares. The upside to common shares is they usually outperform bonds and preferred shares in the long run. Many companies issue all three types of securities. For example, Wells Fargo & Company has several bonds available on the secondary market. It also has preferred stock, such as its Series L (NYSE: WFC-L), and common stock (NYSE: [[WFC]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc)).
 
 The first-ever common stock was established in 1602 by the Dutch East India Company and introduced on the Amsterdam Stock Exchange. Larger US-based stocks are traded on a public exchange, such as the New York Stock Exchange (NYSE) or NASDAQ. As of 2019, the former has 2800 stocks listed on its bourses, while the latter has 3300 stocks listed. NYSE had a market capitalization of $28.5 trillion in June 2018, making it the biggest stock exchange in the world by market cap.
 
-There are also several international exchanges for foreign stocks, such as the London Stock Exchange and the Tokyo Stock Exchange. Companies that are smaller in size and unable to meet an exchange’s listing requirements are considered unlisted. These unlisted stocks are traded on the [Over-The-Counter Bulletin Board](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or pink sheets.
+There are also several international exchanges for foreign stocks, such as the London Stock Exchange and the Tokyo Stock Exchange. Companies that are smaller in size and unable to meet an exchange’s listing requirements are considered unlisted. These unlisted stocks are traded on the [[Over-The-Counter Bulletin Board]](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or pink sheets.
 
 For a company to issue stock, it must begin by having an initial public offering (IPO). An IPO is a great way for a company, seeking additional capital, to expand. To begin the IPO process, a company must work with an underwriting investment banking firm, which helps determine both the type and pricing of the stock. After the IPO phase is completed, the general public is allowed to purchase the new stock on the secondary market.
 

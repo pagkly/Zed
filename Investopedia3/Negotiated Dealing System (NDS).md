@@ -16,11 +16,11 @@ author: Lucas Downey
 Negotiated Dealing System (NDS)
 ## What Is a Negotiated Dealing System (NDS)?
 
-The Negotiated Dealing System, or NDS, is an electronic trading platform operated by the [Reserve Bank of India](https://www.investopedia.com/terms/r/rbi.asp) to facilitate the issuing and exchange of government securities and other types of money market instruments. The goal was to reduce inefficiencies stemming from telephone orders and manual paperwork, while increasing transparency for all market participants.
+The Negotiated Dealing System, or NDS, is an electronic trading platform operated by the [[Reserve Bank of India]](https://www.investopedia.com/terms/r/rbi.asp) to facilitate the issuing and exchange of government securities and other types of money market instruments. The goal was to reduce inefficiencies stemming from telephone orders and manual paperwork, while increasing transparency for all market participants.
 
 ## Understanding Negotiated Dealing System (NDS)
 
-The Negotiated Dealing System was introduced in February 2002 to help the Reserve Bank of India, or RBI, enhance the dealings of [fixed income](https://www.investopedia.com/terms/f/fixedincome.asp) investments. Prior to the NDS, the country's government securities market was primarily telephone-based, which meant that buyers and sellers had to place trades over the phone, submit physical Subsidiary General Ledger transfer forms, and issue checks for the [settlement of funds](https://www.investopedia.com/terms/c/cashsettlement.asp) to the Reserve Bank of India. These slow and inefficient procedures led to the development and implementation of the NDS.
+The Negotiated Dealing System was introduced in February 2002 to help the Reserve Bank of India, or RBI, enhance the dealings of [[fixed income]](https://www.investopedia.com/terms/f/fixedincome.asp) investments. Prior to the NDS, the country's government securities market was primarily telephone-based, which meant that buyers and sellers had to place trades over the phone, submit physical Subsidiary General Ledger transfer forms, and issue checks for the [[settlement of funds]](https://www.investopedia.com/terms/c/cashsettlement.asp) to the Reserve Bank of India. These slow and inefficient procedures led to the development and implementation of the NDS.
 
 In August 2005, the RBI introduced the Negotiated Dealing System - Order Matching system, or NDS-OM, an an electronic, screen-based, anonymous, order-driven trading system for dealing in government securities. The system is designed to bring transparency to secondary market transactions, while enabling members to place bids and offers directly on the NDS-OM screen.
 
@@ -31,7 +31,7 @@ There are two types of NDS-OM members, including:
 
 Many other countries have similar electronic systems in place for managing government securities, money market accounts, and related securities to increase transparency and lower costs.
 
-For more information about the Negotiated Dealing System, see the RBI's [Negotiated Dealing System Overview](https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/NDSOM290410.pdf).
+For more information about the Negotiated Dealing System, see the RBI's [[Negotiated Dealing System Overview]](https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/NDSOM290410.pdf).
 
 ## Negotiated Dealing System Modules
 

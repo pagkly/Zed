@@ -16,7 +16,7 @@ author: Gordon Scott, CMT
 Noise Trader Definition
 ## What is a Noise Trader?
 
-Noise trader is generally a term used in academic finance studies associated with the [Efficient Markets Hypothesis (EMH](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp)). The definition is often vaguely stated throughout the literature though it is mainly intended to describe investors who make decisions to buy or sell based on factors they believe to be helpful but in reality will give them no better returns than random choices.
+Noise trader is generally a term used in academic finance studies associated with the [[Efficient Markets Hypothesis (EMH]](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp)). The definition is often vaguely stated throughout the literature though it is mainly intended to describe investors who make decisions to buy or sell based on factors they believe to be helpful but in reality will give them no better returns than random choices.
 
 ### Key Takeaways
 
@@ -31,11 +31,11 @@ Conventional wisdom posits that noise traders are considered to be substantial c
 
 The category of traders that are stereotyped as noise traders includes novices and those who trade primarily based on technical analysis. However, those who don't trade the market averages and instead follow trading systems that under perform the market, regardless of the factors involved, should, strictly speaking, be lumped into the same category. This is the reason that the definition is inconsistent and often unclear in the literature because the definition of what exactly constitutes rational investing is also not a standard definition.
 
-Some professional analysts and academics like to say that noise traders overinflated the price of securities in bullish trading periods and depressed the price of securities in bearish trading. For mainstream investors, these affects can be known as [noise trader risks](https://www.investopedia.com/terms/n/noisetraderrisk.asp).
+Some professional analysts and academics like to say that noise traders overinflated the price of securities in bullish trading periods and depressed the price of securities in bearish trading. For mainstream investors, these affects can be known as [[noise trader risks]](https://www.investopedia.com/terms/n/noisetraderrisk.asp).
 
 ## Technical Traders
 
-[Technical traders](https://www.investopedia.com/terms/t/technical-analyst.asp) are often considered noise traders since their trading strategies are usually unrelated to company fundamentals. But this assumes a study of company fundamentals generates better returns than random choices or market averages--and this is certainly not the case for all traders and investors who follow company fundamentals. [The semi-strong form of the EMH](https://www.investopedia.com/terms/s/semistrongform.asp) would categorize both technical and fundamental indicators as suspect in generating predictably better than random returns.
+[Technical traders](https://www.investopedia.com/terms/t/technical-analyst.asp) are often considered noise traders since their trading strategies are usually unrelated to company fundamentals. But this assumes a study of company fundamentals generates better returns than random choices or market averages--and this is certainly not the case for all traders and investors who follow company fundamentals. [[The semi-strong form of the EMH]](https://www.investopedia.com/terms/s/semistrongform.asp) would categorize both technical and fundamental indicators as suspect in generating predictably better than random returns.
 
 Noise traders, those who follow unproven signals of any kind, form a substantial portion of the market’s trading volume on any given day. Active technical analysts and full-time day traders make trades throughout the trading day based on price action indicators and patterns that are derived from daily price series charts. However a small portion of these are actually much more successful than random returns or the market averages. Conventional wisdom would still label these noise traders, but that designation is perhaps unwarranted since they clearly are following signals that matter at some level.
 

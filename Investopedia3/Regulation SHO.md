@@ -16,7 +16,7 @@ author: Troy Segal
 Regulation SHO
 ## What Is Regulation SHO?
 
-Regulation SHO is a set of rules from the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) implemented in 2005 that governs [short sale](https://www.investopedia.com/terms/s/shortsale.asp) practices. Regulation SHO established "locate" and "close-out" requirements aimed at curtailing [naked short selling](https://www.investopedia.com/terms/n/nakedshorting.asp) and other practices. Naked shorting takes place when investors sell short shares that they do not possess and have not confirmed their ability to possess.1
+Regulation SHO is a set of rules from the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) implemented in 2005 that governs [[short sale]](https://www.investopedia.com/terms/s/shortsale.asp) practices. Regulation SHO established "locate" and "close-out" requirements aimed at curtailing [[naked short selling]](https://www.investopedia.com/terms/n/nakedshorting.asp) and other practices. Naked shorting takes place when investors sell short shares that they do not possess and have not confirmed their ability to possess.1
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ Regulation SHO is a set of rules from the [Securities and Exchange Commission](h
 
 ## Understanding Regulation SHO
 
-Short selling refers to an exchange of securities through a broker on margin. An investor borrows a stock, sells it, and then buys the stock back to return to the lender. Short sellers are betting the stock they sell will drop in price. [Broker-dealers](https://www.investopedia.com/terms/b/broker-dealer.asp) loan securities to clients for the purpose of short selling.
+Short selling refers to an exchange of securities through a broker on margin. An investor borrows a stock, sells it, and then buys the stock back to return to the lender. Short sellers are betting the stock they sell will drop in price. [[Broker-dealers]](https://www.investopedia.com/terms/b/broker-dealer.asp) loan securities to clients for the purpose of short selling.
 
-The SEC implemented Regulation SHO on January 3, 2005_—_the first significant update to short selling rules since they were first adopted in 1938. Regulation SHO's "locate" standard requires [brokers](https://www.investopedia.com/terms/b/broker.asp) to have a reasonable belief the equity to be shorted can be borrowed and delivered on a specific date before short selling can occur. The "close-out" standard represents the increased amount of delivery requirements imposed upon securities that have many extended delivery failures at a clearing agency.1
+The SEC implemented Regulation SHO on January 3, 2005_—_the first significant update to short selling rules since they were first adopted in 1938. Regulation SHO's "locate" standard requires [[brokers]](https://www.investopedia.com/terms/b/broker.asp) to have a reasonable belief the equity to be shorted can be borrowed and delivered on a specific date before short selling can occur. The "close-out" standard represents the increased amount of delivery requirements imposed upon securities that have many extended delivery failures at a clearing agency.1
 
 ## History of Regulation SHO
 
@@ -42,4 +42,4 @@ As a part of Rule 201, trading centers are required to establish and enforce pol
 
 ## Special Considerations
 
-Certain types of short sales can qualify for an exception to Regulation SHO. These orders are known as [short exempt](https://www.investopedia.com/terms/s/shortexempt.asp) and are marked by brokers with the initials SSE. The primary exception is the use of non-standard pricing quotes for trade execution.1
+Certain types of short sales can qualify for an exception to Regulation SHO. These orders are known as [[short exempt]](https://www.investopedia.com/terms/s/shortexempt.asp) and are marked by brokers with the initials SSE. The primary exception is the use of non-standard pricing quotes for trade execution.1

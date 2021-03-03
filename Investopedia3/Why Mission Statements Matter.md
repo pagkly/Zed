@@ -22,11 +22,11 @@ These statements serve a dual purpose by helping employees remain focused on the
 
 ## Understanding Mission Statements
 
-A company’s mission statement defines its culture, values, ethics, fundamental goals, and agenda. Furthermore, it defines how each of these applies to the company's [stakeholders](https://www.investopedia.com/terms/s/stakeholder.asp)—its employees, distributors, suppliers, shareholders, and the community at large—use this statement to align their goals with that of the company.
+A company’s mission statement defines its culture, values, ethics, fundamental goals, and agenda. Furthermore, it defines how each of these applies to the company's [[stakeholders]](https://www.investopedia.com/terms/s/stakeholder.asp)—its employees, distributors, suppliers, shareholders, and the community at large—use this statement to align their goals with that of the company.
 
-The statement reveals what the company does, how it does it, and why it does it. Prospective investors may also refer to the mission statement to see if the values of the company align with theirs. For example, an [ethical investor](https://www.investopedia.com/terms/e/ethical-investing.asp) against tobacco products would probably not invest in a company whose mission is to be the largest global manufacturer of cigarettes.
+The statement reveals what the company does, how it does it, and why it does it. Prospective investors may also refer to the mission statement to see if the values of the company align with theirs. For example, an [[ethical investor]](https://www.investopedia.com/terms/e/ethical-investing.asp) against tobacco products would probably not invest in a company whose mission is to be the largest global manufacturer of cigarettes.
 
-It is not uncommon for the largest companies to spend many years and millions of dollars to develop and refine their mission statements. In some cases, many [mission statements](https://www.investopedia.com/articles/02/062602.asp) eventually become household phrases.
+It is not uncommon for the largest companies to spend many years and millions of dollars to develop and refine their mission statements. In some cases, many [[mission statements]](https://www.investopedia.com/articles/02/062602.asp) eventually become household phrases.
 
 A company's mission statement should evolve the same way as the business grows.
 
@@ -71,7 +71,7 @@ Mission statements vary considerably from company to company. The following exam
 
 ## Individual Mission Statements
 
-Mission statements aren't just for small or [large companies](https://www.investopedia.com/articles/markets/012516/worlds-top-10-restaurant-companies-mcdsbux.asp). Many successful individuals, professionals, and investors have taken the time to craft a personal mission statement.
+Mission statements aren't just for small or [[large companies]](https://www.investopedia.com/articles/markets/012516/worlds-top-10-restaurant-companies-mcdsbux.asp). Many successful individuals, professionals, and investors have taken the time to craft a personal mission statement.
 
 These personal mission statements often incorporate the financial, professional, spiritual, and relational aspects of life. This, in turn, helps the individual to keep a healthy work/life balance that increases their personal achievement in all of these areas.
 

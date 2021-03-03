@@ -16,7 +16,7 @@ author: Will Kenton
 Noncumulative Definition and Examples
 ## What Is Noncumulative?
 
-The term "noncumulative" describes a type of [preferred stock](https://www.investopedia.com/terms/p/preferredstock.asp) that does not pay stockholders any unpaid or omitted dividends. Preferred stock shares are issued with pre-established dividend rates, which may either be stated as a dollar amount or as a percentage of the par value. If the corporation chooses not to pay dividends in a given year, [investors](https://www.investopedia.com/terms/i/investor.asp) forfeit the right to claim any of the unpaid dividends in the future.
+The term "noncumulative" describes a type of [[preferred stock]](https://www.investopedia.com/terms/p/preferredstock.asp) that does not pay stockholders any unpaid or omitted dividends. Preferred stock shares are issued with pre-established dividend rates, which may either be stated as a dollar amount or as a percentage of the par value. If the corporation chooses not to pay dividends in a given year, [[investors]](https://www.investopedia.com/terms/i/investor.asp) forfeit the right to claim any of the unpaid dividends in the future.
 
 ### Key Takeaways
 
@@ -26,17 +26,17 @@ The term "noncumulative" describes a type of [preferred stock](https://www.inves
 
 ## Understanding Noncumulative
 
-Noncumulative describes a type of preferred stock that does not entitle investors to reap any missed [dividends](https://www.investopedia.com/terms/d/dividend.asp). By contrast, "cumulative" indicates a class of preferred stock that indeed entitles an investor to dividends that were missed.
+Noncumulative describes a type of preferred stock that does not entitle investors to reap any missed [[dividends]](https://www.investopedia.com/terms/d/dividend.asp). By contrast, "cumulative" indicates a class of preferred stock that indeed entitles an investor to dividends that were missed.
 
 ## The Differences Between Common and Preferred Stock
 
 Companies either issue common, preferred stock, or both. Preferred stock ranks ahead of common shares in getting something back if the company declares bankruptcy and sells off its assets. More importantly, preferred stocks are issued with stated dividend rates. If a company is profitable, preferred shareholders collect dividends before common stockholders.
 
-On the flip side, preferred stocks trade more like [bonds](https://www.investopedia.com/terms/b/bond.asp), and thus don't benefit much if the company experiences massive growth. Common shareholders reap those benefits. Common shareholders get [voting rights](https://www.investopedia.com/terms/v/votingright.asp), while preferred share holders typically don't.
+On the flip side, preferred stocks trade more like [[bonds]](https://www.investopedia.com/terms/b/bond.asp), and thus don't benefit much if the company experiences massive growth. Common shareholders reap those benefits. Common shareholders get [[voting rights]](https://www.investopedia.com/terms/v/votingright.asp), while preferred share holders typically don't.
 
 ## Convertible Bonds and Preferred Stock
 
-Corporate bonds may be issued with a [conversion feature](https://www.investopedia.com/terms/c/convertiblebond.asp), enabling those bonds to be converted into a specific number of shares of either common stock or preferred stock. This conversion option lets bondholders convert a debt investment into stock. For example, let's assume an investor owns a $1,000 [par amount](https://www.investopedia.com/terms/p/parvalue.asp) corporate bond that can be converted into 20 shares of preferred stock.
+Corporate bonds may be issued with a [[conversion feature]](https://www.investopedia.com/terms/c/convertiblebond.asp), enabling those bonds to be converted into a specific number of shares of either common stock or preferred stock. This conversion option lets bondholders convert a debt investment into stock. For example, let's assume an investor owns a $1,000 [[par amount]](https://www.investopedia.com/terms/p/parvalue.asp) corporate bond that can be converted into 20 shares of preferred stock.
 
 Let's further assume that the bond's market value is $1,050, while the stock is selling at $60 per share. If the investor converted their holding into preferred stock, they would own securities with a total market value of $1,200, compared with a $1,050 bond. If the investor's goal is to earn income, he may keep the bond and elect not to convert. By contrast, an investor who is interested in some growth may opt to convert his bond holdings into equities. This investor will want to compare the rates offered on the bond and preferred stock.
 
@@ -44,6 +44,6 @@ Most companies are reluctant to issue noncumulative stocks because shrewd invest
 
 ## Example of How a Noncumulative Preferred Stock Works
 
-Investors who own cumulative [preferred shares](https://www.investopedia.com/video/play/preferred-stock-vs-common-stock/) are entitled to any missed or omitted dividends. For example, if ABC Company fails to pay the $1.10 annual dividend to its cumulative preferred stockholders, those investors have the right to collect that income at some future date. This essentially means cumulative preferred stockholders will receive all of their missed dividends before holders of common stock receive any dividends, should the company begin paying dividends again.
+Investors who own cumulative [[preferred shares]](https://www.investopedia.com/video/play/preferred-stock-vs-common-stock/) are entitled to any missed or omitted dividends. For example, if ABC Company fails to pay the $1.10 annual dividend to its cumulative preferred stockholders, those investors have the right to collect that income at some future date. This essentially means cumulative preferred stockholders will receive all of their missed dividends before holders of common stock receive any dividends, should the company begin paying dividends again.
 
 If the preferred shares are noncumulative, the shareholders never receive the missed dividend of $1.10. This is why cumulative preferred shares are more valuable than noncumulative preferred shares.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Purchase-Money Mortgage Definition
 ## What Is a Purchase-Money Mortgage?
 
-A purchase-money mortgage is a mortgage issued to the borrower by the seller of a home as part of the purchase transaction. Also known as a seller or [owner financing](https://www.investopedia.com/terms/o/owner-financing.asp), this is usually done in situations where the buyer cannot qualify for a mortgage through traditional lending channels. A purchase-money mortgage can be used in situations where the buyer is assuming the seller's mortgage, and the difference between the balance on the [assumed mortgage](https://www.investopedia.com/terms/a/assumablemortgage.asp) and the sales price of the property is made up of [seller financing](https://www.investopedia.com/terms/s/seller-financing.asp).
+A purchase-money mortgage is a mortgage issued to the borrower by the seller of a home as part of the purchase transaction. Also known as a seller or [[owner financing]](https://www.investopedia.com/terms/o/owner-financing.asp), this is usually done in situations where the buyer cannot qualify for a mortgage through traditional lending channels. A purchase-money mortgage can be used in situations where the buyer is assuming the seller's mortgage, and the difference between the balance on the [[assumed mortgage]](https://www.investopedia.com/terms/a/assumablemortgage.asp) and the sales price of the property is made up of [[seller financing]](https://www.investopedia.com/terms/s/seller-financing.asp).
 
 ## The Basics of a Purchase-Money Mortgage
 
@@ -32,7 +32,7 @@ A lease-purchase agreement means the seller gives the buyer equitable title and 
 
 ## Purchase-Money Mortgage Benefits for Buyers
 
-Even if the seller requests a credit report on the buyer, the seller’s criteria for the buyer’s qualifications are typically more flexible than those of conventional lenders. Buyers may choose from payment options such as interest-only, [fixed-rate amortization](https://www.investopedia.com/terms/f/fixed-amortization-method.asp), less-than-interest or a [balloon payment](https://www.investopedia.com/terms/b/balloon-payment.asp). Payments may mix or match, and interest rates may periodically adjust or remain constant, depending on a borrower’s needs and seller’s discretion.
+Even if the seller requests a credit report on the buyer, the seller’s criteria for the buyer’s qualifications are typically more flexible than those of conventional lenders. Buyers may choose from payment options such as interest-only, [[fixed-rate amortization]](https://www.investopedia.com/terms/f/fixed-amortization-method.asp), less-than-interest or a [[balloon payment]](https://www.investopedia.com/terms/b/balloon-payment.asp). Payments may mix or match, and interest rates may periodically adjust or remain constant, depending on a borrower’s needs and seller’s discretion.
 
 Down payments are negotiable. If a seller requests a larger down payment than the buyer possesses, the seller may let the buyer make periodic lump-sum payments toward a down payment. Closing costs are lower as well. Without an institutional lender, there are no loan or discount points or fees for origination, processing, administration or other categories lenders routinely charge. Also, because buyers are not waiting on lenders for financing, buyers may close faster and receive possession earlier than with a conventional loan.
 

@@ -20,29 +20,29 @@ Price elasticity of demand is a measurement of the change in consumption of a pr
 
 **_Price Elasticity of Demand = % Change in Quantity Demanded / % Change in Price_**
 
-Economists use [price elasticity](https://www.investopedia.com/terms/e/elasticity.asp) to understand how supply and demand for a product changes when its price changes.
+Economists use [[price elasticity]](https://www.investopedia.com/terms/e/elasticity.asp) to understand how supply and demand for a product changes when its price changes.
 
 ## Price Elasticity of Demand In Depth
 
-Economists have found that the prices of some goods are very [inelastic](https://www.investopedia.com/terms/e/inelastic.asp). That is, a reduction in price does not increase demand much, and an increase in price does not hurt demand either.
+Economists have found that the prices of some goods are very [[inelastic]](https://www.investopedia.com/terms/e/inelastic.asp). That is, a reduction in price does not increase demand much, and an increase in price does not hurt demand either.
 
 For example, gasoline has little price elasticity of demand. Drivers will continue to buy as much as they have to, as will airlines, the trucking industry, and nearly every other buyer.
 
-Other goods are much more [elastic](https://www.investopedia.com/terms/e/elastic.asp), so price changes for these goods cause substantial changes in their demand or their supply.
+Other goods are much more [[elastic]](https://www.investopedia.com/terms/e/elastic.asp), so price changes for these goods cause substantial changes in their demand or their supply.
 
 Not surprisingly, this concept is of great interest to marketing professionals. It could even be said that their purpose is to create inelastic demand for the products they market. They achieve that by identifying a meaningful difference in their products from any others that are available.1
 
-If the [quantity demanded](https://www.investopedia.com/terms/q/quantitydemanded.asp) of a product changes greatly in response to changes in its price, it is termed "elastic." That is, the demand point for the product is stretched far from its prior point. If the quantity purchased shows a small change after a change in its price, it is termed "inelastic." The quantity didn't stretch much from its prior point. 
+If the [[quantity demanded]](https://www.investopedia.com/terms/q/quantitydemanded.asp) of a product changes greatly in response to changes in its price, it is termed "elastic." That is, the demand point for the product is stretched far from its prior point. If the quantity purchased shows a small change after a change in its price, it is termed "inelastic." The quantity didn't stretch much from its prior point. 
 
 ### Availability of Substitutes Is a Factor
 
 The more easily a shopper can substitute one product for another, the more the price will fall.
 
-For example, in a world in which people like coffee and tea equally, if the price of coffee goes up, people will have no problem switching to tea, and the demand for coffee will fall. This is because coffee and tea are considered good [substitutes](https://www.investopedia.com/terms/s/substitution-effect.asp) to each other.
+For example, in a world in which people like coffee and tea equally, if the price of coffee goes up, people will have no problem switching to tea, and the demand for coffee will fall. This is because coffee and tea are considered good [[substitutes]](https://www.investopedia.com/terms/s/substitution-effect.asp) to each other.
 
 ### Urgency Is a Factor
 
-The more [discretionary](https://www.investopedia.com/terms/d/discretionary-expense.asp) a purchase is, the more its quantity of demand will fall in response to price rises. That is, the product demand has greater elasticity.
+The more [[discretionary]](https://www.investopedia.com/terms/d/discretionary-expense.asp) a purchase is, the more its quantity of demand will fall in response to price rises. That is, the product demand has greater elasticity.
 
 Say you are considering buying a new washing machine, but the current one still works. It's just old and outdated. If the price of a new washing machine goes up, you're likely to forgo that immediate purchase and wait until prices go down or the current machine breaks down.
 

@@ -16,14 +16,14 @@ author: Julia Kagan
 eCash
 ## What Is eCash?
 
-eCash was a digital-based system that facilitated the transfer of funds anonymously. A pioneer in [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp), its goal was to secure the privacy of individuals that use the Internet for [micropayments](https://www.investopedia.com/terms/m/micropayment.asp). eCash was created by Dr. David Chaum under his company, DigiCash, in 1990. Though there was interest in the platform from large banks, eCash never took off and DigiCash filed for bankruptcy in 1998. DigiCash, along with its eCash patents, was eventually sold off. In 2018, Chaum launched a new startup focused on cryptography.
+eCash was a digital-based system that facilitated the transfer of funds anonymously. A pioneer in [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp), its goal was to secure the privacy of individuals that use the Internet for [[micropayments]](https://www.investopedia.com/terms/m/micropayment.asp). eCash was created by Dr. David Chaum under his company, DigiCash, in 1990. Though there was interest in the platform from large banks, eCash never took off and DigiCash filed for bankruptcy in 1998. DigiCash, along with its eCash patents, was eventually sold off. In 2018, Chaum launched a new startup focused on cryptography.
 
 ### Key Takeaways
 
 -   eCash was an electronic platform created to transfer funds anonymously. It was a pioneer in cryptocurrency.
 -   eCash was created by Dr. David Chaum and implemented via his company, DigiCash, in 1990.
 -   eCash worked on the premise of blind signatures where message content is invisible before signing, resulting in no user being able to link withdrawal and spend transactions.
--   Despite the initial interest and bringing large banks on board to use the system, eCash never fully took off and DigiCash filed for [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) in 1998.
+-   Despite the initial interest and bringing large banks on board to use the system, eCash never fully took off and DigiCash filed for [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) in 1998.
 -   Chaum launched a new startup in 2018 focused on cryptography.
 
 ## Understanding eCash
@@ -44,4 +44,4 @@ DigiCash eventually filed for bankruptcy in 1998. It was sold off to eCash Techn
 
 Despite the failure of DigiCash and with it eCash, online security is an ongoing issue in the digital realm to this day. Financial information, stored on a computer or electronic device, or the Internet more generally (e.g., the cloud) is vulnerable to hackers. Cryptocurrencies are extremely popular today and owe their foundations to eCash. The most popular cryptocurrency is Bitcoin, which was created in 2009 by an anonymous creator and had a better luck gaining traction quickly. Overall, many consider Dr. Chaum to be the father of digital currency.
 
-In 2018, Chaum launched a new [startup](https://www.investopedia.com/terms/s/startup.asp) called Elixxir, whose purpose is to create a [cryptography](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/) network focused on communication anonymity, that is controlled by users to protect their information, as opposed to the current setup, where companies have detailed access to consumer information and use it for targeting ads to generate revenue.
+In 2018, Chaum launched a new [[startup]](https://www.investopedia.com/terms/s/startup.asp) called Elixxir, whose purpose is to create a [[cryptography]](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/) network focused on communication anonymity, that is controlled by users to protect their information, as opposed to the current setup, where companies have detailed access to consumer information and use it for targeting ads to generate revenue.

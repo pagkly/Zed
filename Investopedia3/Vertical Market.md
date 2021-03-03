@@ -16,7 +16,7 @@ author: Julie Young
 Vertical Market
 ## What Is a Vertical Market?
 
-A vertical market is a market encompassing a group of companies and customers that are all interconnected around a specific niche. Companies in a vertical market are attuned to that market’s specialized needs and generally do not serve a broader market. As such, vertical markets typically have their own set of business standards. They may also have high [barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp) for new companies.
+A vertical market is a market encompassing a group of companies and customers that are all interconnected around a specific niche. Companies in a vertical market are attuned to that market’s specialized needs and generally do not serve a broader market. As such, vertical markets typically have their own set of business standards. They may also have high [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp) for new companies.
 
 ### Key Takeaways
 
@@ -37,15 +37,15 @@ A company operating or seeking to work in a vertical market will generally need 
 
 Operators in a vertical market can target a particular segment where they have a [comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp). As these operators grow within a specified vertical market environment, they also gain expertise in their market’s trends, terminology, regulations, and an increased level of competitiveness.
 
-Some of the most considerable advantages for vertical market businesses come in the savings from marketing expenses. Vertical market businesses have the benefit of targeting a narrower customer base. This narrow focus can lead to more streamlined and focused [marketing campaigns](https://www.investopedia.com/terms/m/marketing-campaign.asp) which are less costly than those seeking to reach a wider mass audience.
+Some of the most considerable advantages for vertical market businesses come in the savings from marketing expenses. Vertical market businesses have the benefit of targeting a narrower customer base. This narrow focus can lead to more streamlined and focused [[marketing campaigns]](https://www.investopedia.com/terms/m/marketing-campaign.asp) which are less costly than those seeking to reach a wider mass audience.
 
 Overall, a company that specializes in a vertical can provide targeted insight and specialized services to clients, becoming an integral component of their business over the long term. With specialized products and services, a vertical company can justify charging higher rates that can result in higher profits from a narrowed market focus. 
 
 ## The Practicalities of a Vertical Market
 
-While vertical markets concentrate on a specific industry or demographic, these concentrated markets can still have a wide customer base. A wide vertical market customer base is advantageous because the higher the demand for a specific product is, the greater the [revenue](https://www.investopedia.com/terms/r/revenue.asp) opportunity becomes.
+While vertical markets concentrate on a specific industry or demographic, these concentrated markets can still have a wide customer base. A wide vertical market customer base is advantageous because the higher the demand for a specific product is, the greater the [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) opportunity becomes.
 
-In a vertical market, customers usually have a high level of spending power, which often leads to requiring more attention in each customer relationship. This relationship-building is often crucial because of the market’s narrow focus. Customers within a vertical market typically rely on a single service provider to meet their long-term needs. Vertical market companies are also usually better positioned to understand market [trends](https://www.investopedia.com/terms/t/trend.asp) and how events affect their clients. 
+In a vertical market, customers usually have a high level of spending power, which often leads to requiring more attention in each customer relationship. This relationship-building is often crucial because of the market’s narrow focus. Customers within a vertical market typically rely on a single service provider to meet their long-term needs. Vertical market companies are also usually better positioned to understand market [[trends]](https://www.investopedia.com/terms/t/trend.asp) and how events affect their clients. 
 
 ## Real World Example
 

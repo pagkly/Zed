@@ -32,15 +32,15 @@ In mass production, mechanization is used to achieve high volume, detailed organ
 
 Mass production has many advantages. If production is stringently monitored, mass production can result in a high level of precision because production line machines have preset parameters. Mass production also results in lower costs because the automated assembly line production process requires fewer workers.
 
-In addition, mass production can create higher levels of efficiency because mass-produced items can be assembled at a quicker rate through automation. Rapid assembly aids the prompt distribution and marketing of an organization's products that, in turn, can create a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) and higher profits for a company. For example, McDonald's ([MCD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mcd)) has a competitive advantage in the fast-food industry because of the speed at which it can produce a meal for time-conscious customers.
+In addition, mass production can create higher levels of efficiency because mass-produced items can be assembled at a quicker rate through automation. Rapid assembly aids the prompt distribution and marketing of an organization's products that, in turn, can create a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) and higher profits for a company. For example, McDonald's ([MCD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mcd)) has a competitive advantage in the fast-food industry because of the speed at which it can produce a meal for time-conscious customers.
 
 ## Disadvantages of Mass Production
 
 However, not everything about mass production is beneficial. Establishing an automated assembly line is capital-intensive and requires a significant upfront investment of time and resources. If there is an error in the production design, an extensive investment of time and money may be necessary to redesign and rebuild mass production processes. 
 
-A revision of the mass production processes may be required for reasons other than errors. For example, if a pharmaceutical company has a comprehensive assembly line in place for the production of a popular drug, it would be time-consuming and expensive for them to respond to a [Food and Drug Administration](https://www.investopedia.com/terms/f/fda.asp) (FDA) regulatory change requiring a different production process.
+A revision of the mass production processes may be required for reasons other than errors. For example, if a pharmaceutical company has a comprehensive assembly line in place for the production of a popular drug, it would be time-consuming and expensive for them to respond to a [[Food and Drug Administration]](https://www.investopedia.com/terms/f/fda.asp) (FDA) regulatory change requiring a different production process.
 
-While an advantage of mass production is that it can reduce labor costs, employees who remain part of an assembly line may lack motivation because their tasks are repetitive. The boredom caused by repetitive work can lead to low employee morale and increased levels of [turnover](https://www.investopedia.com/terms/t/turnover.asp).
+While an advantage of mass production is that it can reduce labor costs, employees who remain part of an assembly line may lack motivation because their tasks are repetitive. The boredom caused by repetitive work can lead to low employee morale and increased levels of [[turnover]](https://www.investopedia.com/terms/t/turnover.asp).
 
 Manufacturers are experimenting with the integration of three-dimensional (3-D) printers in the mass production of everyday products.
 

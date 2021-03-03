@@ -16,7 +16,7 @@ author: James Chen
 Nasdaq
 ## What is Nasdaq?
 
-Nasdaq is a global electronic marketplace for buying and selling securities. Nasdaq was created by the [National Association of Securities Dealers](https://www.investopedia.com/terms/n/nasd.asp) (NASD) to enable investors to trade securities on a computerized, speedy and transparent system, and commenced operations on February 8, 1971. The term, “Nasdaq” is also used to refer to the Nasdaq Composite, an index of more than 3,000 stocks listed on the [Nasdaq exchange](https://www.investopedia.com/articles/basics/03/103103.asp) that includes the world’s foremost technology and biotech giants such as Apple, Google, Microsoft, Oracle, Amazon, and Intel.
+Nasdaq is a global electronic marketplace for buying and selling securities. Nasdaq was created by the [[National Association of Securities Dealers]](https://www.investopedia.com/terms/n/nasd.asp) (NASD) to enable investors to trade securities on a computerized, speedy and transparent system, and commenced operations on February 8, 1971. The term, “Nasdaq” is also used to refer to the Nasdaq Composite, an index of more than 3,000 stocks listed on the [[Nasdaq exchange]](https://www.investopedia.com/articles/basics/03/103103.asp) that includes the world’s foremost technology and biotech giants such as Apple, Google, Microsoft, Oracle, Amazon, and Intel.
 
 On Dec. 1, 2020, Nasdaq proposed a rule change to the SEC that, if approved, would require companies on the exchange to report on the diversity of their board of directors. Also, it would require most boards to have at least two "diverse directors," including at least one "who self-identifies as female" and one "who self-identifies as either an underrepresented minority or LGBTQ+."1
 

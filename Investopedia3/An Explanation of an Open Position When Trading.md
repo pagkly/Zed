@@ -16,7 +16,7 @@ author: Caroline Banton
 An Explanation of an Open Position When Trading
 ## What Is an Open Position?
 
-An open position in investing is any established or entered trade that has yet to close with an opposing trade. An open position can exist following a buy, a [long position](https://www.investopedia.com/terms/l/long.asp), a sell, or a [short position](https://www.investopedia.com/terms/s/short.asp). In any case, the position remains open until an opposing trade takes place.
+An open position in investing is any established or entered trade that has yet to close with an opposing trade. An open position can exist following a buy, a [long position](https://www.investopedia.com/terms/l/long.asp), a sell, or a [[short position]](https://www.investopedia.com/terms/s/short.asp). In any case, the position remains open until an opposing trade takes place.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ An open position in investing is any established or entered trade that has yet t
 
 ## Open Position Explained
 
-For example, an investor who owns 500 shares of a certain stock is said to have an open position in that stock. When the investor sells those 500 shares, the position closes. Buy-and-hold investors typically have one or more open positions at any given time. Short-term traders may execute "[round-trip" trades](https://www.investopedia.com/terms/r/round-triptrades.asp); a position opens and closes within a relatively short period. Day traders and [scalpers](https://www.investopedia.com/terms/s/scalpers.asp) may even open and close a position within a few seconds, trying to catch minimal but multiple price movements throughout the day.
+For example, an investor who owns 500 shares of a certain stock is said to have an open position in that stock. When the investor sells those 500 shares, the position closes. Buy-and-hold investors typically have one or more open positions at any given time. Short-term traders may execute "[round-trip" trades](https://www.investopedia.com/terms/r/round-triptrades.asp); a position opens and closes within a relatively short period. Day traders and [[scalpers]](https://www.investopedia.com/terms/s/scalpers.asp) may even open and close a position within a few seconds, trying to catch minimal but multiple price movements throughout the day.
 
 ## Open Positions and Risk
 
@@ -41,7 +41,7 @@ The only way to eliminate exposure is to close out the open positions. Notably, 
 
 The recommendation for investors is to limit risk by only holding open positions that equate to 2% or less of their total portfolio value. By spreading out the open positions throughout various market sectors and asset classes, an investor can also reduce risk through diversification. For example, holding a 2% portfolio position in stocks spread out through multiple sectors—such as financials, information technology, health care, utilities, and consumer staples along with fixed-income assets such as government bonds—represents a diversified portfolio.
 
-Investors adjust the allocation per sector according to market conditions, but keeping the positions to just 2% per stock can even out the risk. Using [stop-losses](https://www.investopedia.com/terms/s/stop-lossorder.asp) to close out positions is also recommended to curtail losses and eliminate exposure of underperforming companies. Investors are always susceptible to systemic risk when holding open positions overnight.
+Investors adjust the allocation per sector according to market conditions, but keeping the positions to just 2% per stock can even out the risk. Using [[stop-losses]](https://www.investopedia.com/terms/s/stop-lossorder.asp) to close out positions is also recommended to curtail losses and eliminate exposure of underperforming companies. Investors are always susceptible to systemic risk when holding open positions overnight.
 
 ## Open Position and Day Trading
 

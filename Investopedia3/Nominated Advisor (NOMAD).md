@@ -16,7 +16,7 @@ author: Will Kenton
 Nominated Advisor (NOMAD)
 ## What Is a Nominated Advisor (NOMAD)?
 
-A nominated advisor (NOMAD) is a financial services firm that shepherds a company onto the [Alternative Investment Market](https://www.investopedia.com/terms/a/alternative-investment-market.asp) (AIM) of the [London Stock Exchange](https://www.investopedia.com/terms/l/lse.asp) (LSE). The LSE requires that a company seeking a listing on AIM have a NOMAD, which the LSE itself must approve to carry out the functions. Once listed on the AIM, the NOMAD regulates the company.
+A nominated advisor (NOMAD) is a financial services firm that shepherds a company onto the [[Alternative Investment Market]](https://www.investopedia.com/terms/a/alternative-investment-market.asp) (AIM) of the [[London Stock Exchange]](https://www.investopedia.com/terms/l/lse.asp) (LSE). The LSE requires that a company seeking a listing on AIM have a NOMAD, which the LSE itself must approve to carry out the functions. Once listed on the AIM, the NOMAD regulates the company.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ A nominated advisor (NOMAD) is a financial services firm that shepherds a compan
 
 ## How a Nominated Advisor (NOMAD) Works
 
-The Alternative Investment Market (AIM) was established in 1995 by the London Stock Exchange to enable emerging growth companies to raise [capital](https://www.investopedia.com/terms/c/capital.asp). The AIM is considered to be a submarket of the LSE. Well over 3,500 of such companies from around the world have taken advantage of the lower listing requirements offered by this alternative exchange. However, there is a rule that a company must retain the services of a NOMAD to help guide it through the AIM listing process.
+The Alternative Investment Market (AIM) was established in 1995 by the London Stock Exchange to enable emerging growth companies to raise [[capital]](https://www.investopedia.com/terms/c/capital.asp). The AIM is considered to be a submarket of the LSE. Well over 3,500 of such companies from around the world have taken advantage of the lower listing requirements offered by this alternative exchange. However, there is a rule that a company must retain the services of a NOMAD to help guide it through the AIM listing process.
 
 Companies must retain NOMAD services to help guide them through the AIM listing process.
 
-A NOMAD is a corporate finance advisor, usually a boutique investment bank, which conducts thorough due diligence for the suitability of an AIM applicant for the exchange. If satisfied with the company's [business model](https://www.investopedia.com/terms/b/businessmodel.asp), financial and operating track record, competence of executives and directors, and intended capital structure, the NOMAD will assist the company in its preparation and application for admission to the AIM.
+A NOMAD is a corporate finance advisor, usually a boutique investment bank, which conducts thorough due diligence for the suitability of an AIM applicant for the exchange. If satisfied with the company's [[business model]](https://www.investopedia.com/terms/b/businessmodel.asp), financial and operating track record, competence of executives and directors, and intended capital structure, the NOMAD will assist the company in its preparation and application for admission to the AIM.
 
 If the company and NOMAD are successful in their efforts, the NOMAD will continue to monitor its client—this is a requirement of the LSE. The NOMAD must act as the regulator, ensuring that the company complies with AIM rules at all times. The NOMAD also serves an ongoing role of providing advice on business operational or financial strategy.
 
@@ -41,8 +41,8 @@ If the company and NOMAD are successful in their efforts, the NOMAD will continu
 As of April 2019, there are 45 NOMADs approved by the LSE. The following are noted criteria any entity to be considered a NOMAD:
 
 -   It must be a firm or company, not an individual.
--   The company must be involved in [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp) for at least two years.
--   It must have acted as a [financial advisor](https://www.investopedia.com/terms/f/financial-advisor.asp) in at least three qualified transactions in two years.
+-   The company must be involved in [[corporate finance]](https://www.investopedia.com/terms/c/corporatefinance.asp) for at least two years.
+-   It must have acted as a [[financial advisor]](https://www.investopedia.com/terms/f/financial-advisor.asp) in at least three qualified transactions in two years.
 -   The firm must employ at least four qualified executives.
 
-Along with a NOMAD, companies that want to join the AIM should consider retaining a broker, an accountant, and a legal adviser. Brokers are also members of the LSE and are required to be from the same firm as the NOMAD. [Brokers](https://www.investopedia.com/terms/b/broker.asp) are responsible to bring buyers and sellers together. Accountants are independent of the company and monitor the company's financials. The accountant also helps the company prepare any and all financial documents required of it. Finally, the legal adviser takes care of any verifications of statements as well as providing direction and advice to the company's [board members](https://www.investopedia.com/terms/b/boardofdirectors.asp).
+Along with a NOMAD, companies that want to join the AIM should consider retaining a broker, an accountant, and a legal adviser. Brokers are also members of the LSE and are required to be from the same firm as the NOMAD. [[Brokers]](https://www.investopedia.com/terms/b/broker.asp) are responsible to bring buyers and sellers together. Accountants are independent of the company and monitor the company's financials. The accountant also helps the company prepare any and all financial documents required of it. Finally, the legal adviser takes care of any verifications of statements as well as providing direction and advice to the company's [[board members]](https://www.investopedia.com/terms/b/boardofdirectors.asp).

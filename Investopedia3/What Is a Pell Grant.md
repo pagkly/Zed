@@ -26,11 +26,11 @@ A Pell Grant is a federal subsidy awarded to students for post-secondary educati
 
 ## How to Get a Pell Grant
 
-To be eligible for a Pell Grant, students and their parents must fill out the government's [Free Application for Federal Student Aid (FAFSA)](https://www.investopedia.com/terms/f/federal-application-of-student-aid-fafsa.asp).1
+To be eligible for a Pell Grant, students and their parents must fill out the government's [[Free Application for Federal Student Aid (FAFSA)]](https://www.investopedia.com/terms/f/federal-application-of-student-aid-fafsa.asp).1
 
 The application, which can be completed online, asks a series of questions about the student's and parents' finances, as well as other relevant information, such as whether any of the student's siblings will be in college at the same time. Schools that the student applies to will receive an electronic copy of the application.
 
-Financial aid officers at those schools use the FAFSA to determine how much federal aid to offer the student. The school's calculations consider the difference between the [expected family contribution (EFC)](https://www.investopedia.com/terms/e/expected-family-contribution.asp), as calculated by the FAFSA, and that school's [cost of attendance (COA)](https://www.investopedia.com/terms/c/cost-of-attendance.asp) to calculate the student's financial need.2
+Financial aid officers at those schools use the FAFSA to determine how much federal aid to offer the student. The school's calculations consider the difference between the [[expected family contribution (EFC)]](https://www.investopedia.com/terms/e/expected-family-contribution.asp), as calculated by the FAFSA, and that school's [[cost of attendance (COA)]](https://www.investopedia.com/terms/c/cost-of-attendance.asp) to calculate the student's financial need.2
 
 -   Expected family contribution (EFC) is based on the student's and family's income and assets, such as bank and investment accounts.
 -   Cost of attendance (COA) includes the school's tuition and fees, as well as room and board, books, and other expenses. Most schools publish their cost of attendance on their websites and elsewhere.
@@ -67,7 +67,7 @@ These federal funds are typically disbursed each school term or at least twice a
 
 ## Do You Have to Pay Back Pell Grants?
 
-Grants, like [scholarships](https://www.investopedia.com/understanding-scholarships-need-and-merit-4783132), generally represent money that doesn't have to be paid back. However, there are circumstances when you might have to repay all or a portion of your grant. Those include dropping out of the program of study for which you were awarded the grant, changing your attendance from full-time to part-time, or receiving other scholarships or grants that reduce your eligibility for federal aid.
+Grants, like [[scholarships]](https://www.investopedia.com/understanding-scholarships-need-and-merit-4783132), generally represent money that doesn't have to be paid back. However, there are circumstances when you might have to repay all or a portion of your grant. Those include dropping out of the program of study for which you were awarded the grant, changing your attendance from full-time to part-time, or receiving other scholarships or grants that reduce your eligibility for federal aid.
 
 If any of this happens, the school should let you know how much you owe and how to repay it.9
 

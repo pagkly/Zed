@@ -16,7 +16,7 @@ author: Mitchell Grant
 Understanding Tier 1 Capital
 ## What Is Tier 1 Capital?
 
-Tier 1 capital is used to describe the [capital adequacy](https://www.investopedia.com/ask/answers/040115/what-does-it-mean-when-company-has-high-capital-adequacy-ratio.asp) of a bank and refers to core capital that includes equity capital and disclosed reserves. Equity capital is inclusive of instruments that cannot be redeemed at the option of the holder.
+Tier 1 capital is used to describe the [[capital adequacy]](https://www.investopedia.com/ask/answers/040115/what-does-it-mean-when-company-has-high-capital-adequacy-ratio.asp) of a bank and refers to core capital that includes equity capital and disclosed reserves. Equity capital is inclusive of instruments that cannot be redeemed at the option of the holder.
 
 Tier 1 capital is essentially the most perfect form of a bank’s capital—the money the bank has stored to keep it functioning through all the risky transactions it performs, such as trading/investing and lending.
 
@@ -24,7 +24,7 @@ Tier 1 capital is essentially the most perfect form of a bank’s capital—the 
 
 From a regulator’s point of view, tier 1 capital is the core measure of the financial strength of a bank because it is composed of core capital.
 
-Core capital is composed primarily of disclosed reserves (also known as retained earnings) and common stock. It can also include noncumulative, nonredeemable preferred stock. Under the Basel Committee on Banking Supervision, which issued the [Basel Accord](https://www.investopedia.com/terms/b/basel_accord.asp), it was observed that banks utilize inventive instruments to accumulate tier 1 capital as well.
+Core capital is composed primarily of disclosed reserves (also known as retained earnings) and common stock. It can also include noncumulative, nonredeemable preferred stock. Under the Basel Committee on Banking Supervision, which issued the [[Basel Accord]](https://www.investopedia.com/terms/b/basel_accord.asp), it was observed that banks utilize inventive instruments to accumulate tier 1 capital as well.
 
 **\[Important: Equity capital is inclusive of instruments that cannot be redeemed at the option of the holder.\]**
 
@@ -34,7 +34,7 @@ Changes were made to the accord in 2013. The implementation date of the final ve
 
 The Basel III (aka the third Basel Accord) was developed in order to respond to deficiencies in financial regulation that were exposed by the world financial crisis in 2007 and 2008.
 
-The [Tier 1 Capital Ratio](https://www.investopedia.com/terms/t/tier-1-capital-ratio.asp) compares a bank’s equity capital with its total risk-weighted assets (RWAs). RWAs are all assets held by a bank that is weighted by credit risk. Most central banks set formulas for asset risk weights according to the Basel Committee’s guidelines.
+The [[Tier 1 Capital Ratio]](https://www.investopedia.com/terms/t/tier-1-capital-ratio.asp) compares a bank’s equity capital with its total risk-weighted assets (RWAs). RWAs are all assets held by a bank that is weighted by credit risk. Most central banks set formulas for asset risk weights according to the Basel Committee’s guidelines.
 
 ## Tier 1 Capital Versus Tier 2 Capital
 

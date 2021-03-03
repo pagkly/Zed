@@ -34,13 +34,13 @@ A flip, or reversal of one's position in the market, can be an effective way to 
 
 ### Technical Trading
 
-In [technical trading](https://www.investopedia.com/articles/trading/02/091802.asp), an investor can flip their position from net long to net short or vice versa based on price action. They might do this to benefit from a new trend, but the duration of that trend may only last a couple of weeks or over a year depending on the trader and their strategies. In the context of technical trading, a flip is commonly associated with a shift from having more long positions to having more short positions, or vice versa.
+In [[technical trading]](https://www.investopedia.com/articles/trading/02/091802.asp), an investor can flip their position from net long to net short or vice versa based on price action. They might do this to benefit from a new trend, but the duration of that trend may only last a couple of weeks or over a year depending on the trader and their strategies. In the context of technical trading, a flip is commonly associated with a shift from having more long positions to having more short positions, or vice versa.
 
 In a net long, to net short flip an investor could sell put options at various strike prices on their underlying holdings to benefit from falling prices. In the opposite scenario, an investor would increase their long positions in a security betting on price increases. These strategies allow traders to profit from price reversals occurring from a security investment over time.
 
 ### Real Estate Investment
 
-Broadly, the term flip can also refer to a [real estate](https://www.investopedia.com/terms/r/realestate.asp) investing strategy in which the investor may acquire or control assets for a short time, add improvement of some kind to the assets, and then sell, or [flip](https://www.investopedia.com/terms/f/flipping.asp), the assets for a profit.
+Broadly, the term flip can also refer to a [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) investing strategy in which the investor may acquire or control assets for a short time, add improvement of some kind to the assets, and then sell, or [[flip]](https://www.investopedia.com/terms/f/flipping.asp), the assets for a profit.
 
 In residential house flipping, an investor attempts to buy a home at the lowest possible price. This investor often has the intention and the ability to renovate the home to increase its value. After renovations are complete, the investor relists the home for a higher price and sells it, retaining the difference for a profit.
 
@@ -52,4 +52,4 @@ But others who were not able to buy as company insiders or accredited investors 
 
 ### Investment Management
 
-Among [macro funds](https://www.investopedia.com/terms/g/globalmacro.asp) that seek to follow broad market trends, flipping may also occasionally be used. If a macro fund manager believes potential losses are high in a certain sector they may choose to flip those assets to a more profitable sector. This type of flipping can also be used by investors who take a macroeconomic approach to managing their portfolios. Flipping from at-risk sectors to sectors with greater return opportunities can be important in mitigating certain systemic or idiosyncratic risks.
+Among [[macro funds]](https://www.investopedia.com/terms/g/globalmacro.asp) that seek to follow broad market trends, flipping may also occasionally be used. If a macro fund manager believes potential losses are high in a certain sector they may choose to flip those assets to a more profitable sector. This type of flipping can also be used by investors who take a macroeconomic approach to managing their portfolios. Flipping from at-risk sectors to sectors with greater return opportunities can be important in mitigating certain systemic or idiosyncratic risks.

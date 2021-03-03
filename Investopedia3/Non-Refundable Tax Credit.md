@@ -16,7 +16,7 @@ author: Julia Kagan
 Non-Refundable Tax Credit
 ## What Is a Non-Refundable Tax Credit?
 
-A non-refundable tax credit is a tax credit that can only reduce a taxpayer’s liability to zero.1 Any amount that remains from the credit is automatically forfeited by the taxpayer. A nonrefundable credit can also be referred to as a wastable tax credit, which may be contrasted with [refundable tax credits](https://www.investopedia.com/terms/r/refundablecredit.asp).
+A non-refundable tax credit is a tax credit that can only reduce a taxpayer’s liability to zero.1 Any amount that remains from the credit is automatically forfeited by the taxpayer. A nonrefundable credit can also be referred to as a wastable tax credit, which may be contrasted with [[refundable tax credits]](https://www.investopedia.com/terms/r/refundablecredit.asp).
 
 ### Key Takeaways
 
@@ -50,7 +50,7 @@ The most commonly claimed tax credits are non-refundable. Examples include:
 -   Mortgage interest tax credit
 -   Elderly and disabled credit
 -   Residential energy efficient property credit
--   [General business credit](https://www.investopedia.com/terms/g/general-business-tax-credit.asp) (GBC)
+-   [[General business credit]](https://www.investopedia.com/terms/g/general-business-tax-credit.asp) (GBC)
 -   Alternative motor vehicle credit
 -   Credit to holders of tax credit bonds4
 

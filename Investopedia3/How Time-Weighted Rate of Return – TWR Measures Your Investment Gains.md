@@ -16,9 +16,9 @@ author: Chris B. Murphy
 How Time-Weighted Rate of Return – TWR Measures Your Investment Gains
 ## What is Time-Weighted Rate of Return – TWR?
 
-The time-weighted rate of return (TWR) is a measure of the compound rate of growth in a portfolio. The TWR measure is often used to compare the returns of [investment managers](https://www.investopedia.com/terms/i/investment-manager.asp) because it eliminates the distorting effects on growth rates created by inflows and outflows of money. The time-weighted return breaks up the return on an investment portfolio into separate intervals based on whether money was added or withdrawn from the fund.
+The time-weighted rate of return (TWR) is a measure of the compound rate of growth in a portfolio. The TWR measure is often used to compare the returns of [[investment managers]](https://www.investopedia.com/terms/i/investment-manager.asp) because it eliminates the distorting effects on growth rates created by inflows and outflows of money. The time-weighted return breaks up the return on an investment portfolio into separate intervals based on whether money was added or withdrawn from the fund.
 
-The time-weighted return measure is also called the [geometric mean](https://www.investopedia.com/terms/g/geometricmean.asp) return, which is a complicated way of stating that the returns for each sub-period are multiplied by each other.
+The time-weighted return measure is also called the [[geometric mean]](https://www.investopedia.com/terms/g/geometricmean.asp) return, which is a complicated way of stating that the returns for each sub-period are multiplied by each other.
 
 ## Formula for TWR
 
@@ -30,7 +30,7 @@ TWR\=\[(1+HP1)×(1+HP2)×⋯×(1+HPn)\]−1where:TWR\= Time-weighted returnn\= 
 
 ## How to Calculate TWR
 
-1.  Calculate the [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) for each sub-period by subtracting the beginning balance of the period from the ending balance of the period and divide the result by the beginning balance of the period.
+1.  Calculate the [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) for each sub-period by subtracting the beginning balance of the period from the ending balance of the period and divide the result by the beginning balance of the period.
 2.  Create a new sub-period for each period that there is a change in cash flow, whether it's a withdrawal or deposit. You'll be left with multiple periods, each with a rate of return. Add 1 to each rate of return, which simply makes negative returns easier to calculate.
 3.  Multiply the rate of return for each sub-period by each other. Subtract the result by 1 to achieve the TWR.
 
@@ -40,7 +40,7 @@ It can be difficult to determine how much money was earned on a portfolio when t
 
 The time-weighted return breaks up the return on an investment portfolio into separate intervals based on whether money was added or withdrawn from the fund. The TWR provides the rate of return for each sub-period or interval that had cash flow changes. By isolating the returns that had cash flow changes, the result is more accurate than simply taking the beginning balance and ending balance of the time invested in a fund. The time-weighted return multiplies the returns for each sub-period or holding-period, which links them together showing how the returns are compounded over time.
 
-When calculating the time-weighted rate of return, it is assumed that all cash distributions are reinvested in the portfolio. Daily portfolio [valuations](https://www.investopedia.com/terms/v/valuation.asp) are needed whenever there is external [cash flow](https://www.investopedia.com/terms/c/cashflow.asp), such as a deposit or a withdrawal, which would denote the start of a new sub-period. In addition, sub-periods must be the same to compare the returns of different portfolios or investments. These periods are then geometrically linked to determine the time-weighted rate of return.
+When calculating the time-weighted rate of return, it is assumed that all cash distributions are reinvested in the portfolio. Daily portfolio [[valuations]](https://www.investopedia.com/terms/v/valuation.asp) are needed whenever there is external [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp), such as a deposit or a withdrawal, which would denote the start of a new sub-period. In addition, sub-periods must be the same to compare the returns of different portfolios or investments. These periods are then geometrically linked to determine the time-weighted rate of return.
 
 Because investment managers that deal in [publicly traded securities](https://www.investopedia.com/ask/answers/difference-between-publicly-and-privately-held-companies/) do not typically have control over fund investors' cash flows, the time-weighted rate of return is a popular performance measure for these types of funds as opposed to the internal rate of return ([IRR](https://www.investopedia.com/terms/i/irr.asp)), which is more sensitive to cash-flow movements.
 
@@ -91,10 +91,10 @@ As expected, both investors received the same 9.79% time-weighted return, even t
 
 ## Difference Between TWR and ROR
 
-A [rate of return (ROR)](https://www.investopedia.com/terms/r/rateofreturn.asp) is the net gain or loss on an investment over a specified time period, expressed as a percentage of the investment’s initial cost. Gains on investments are defined as income received plus any [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) realized on the sale of the investment.
+A [[rate of return (ROR)]](https://www.investopedia.com/terms/r/rateofreturn.asp) is the net gain or loss on an investment over a specified time period, expressed as a percentage of the investment’s initial cost. Gains on investments are defined as income received plus any [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) realized on the sale of the investment.
 
 However, the rate of return calculation does not account for the cash flow differences in the portfolio, whereas the TWR accounts for all deposits and withdrawals in determining the rate of return.
 
 ## Limitations of the TWR
 
-Due to changing cash flows in and out of funds on a daily basis, the TWR can be an extremely cumbersome way to calculate and keep track of the cash flows. It's best to use an online calculator or computational software. Another often-used rate of return calculation is the [money-weighted rate of return.](https://www.investopedia.com/terms/m/money-weighted-return.asp)
+Due to changing cash flows in and out of funds on a daily basis, the TWR can be an extremely cumbersome way to calculate and keep track of the cash flows. It's best to use an online calculator or computational software. Another often-used rate of return calculation is the [[money-weighted rate of return.]](https://www.investopedia.com/terms/m/money-weighted-return.asp)

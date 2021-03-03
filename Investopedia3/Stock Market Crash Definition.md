@@ -16,9 +16,9 @@ author: James Chen
 Stock Market Crash Definition
 ## What Is a Stock Market Crash?
 
-A stock market crash is a rapid and often unanticipated drop in stock prices. A stock market [crash](https://www.investopedia.com/terms/c/crash.asp) can be a side effect of a major catastrophic event, economic crisis, or the collapse of a long-term [speculative bubble](https://www.investopedia.com/terms/s/speculativebubble.asp). Reactionary public panic about a stock market crash can also be a major contributor to it, inducing panic selling that depresses prices even further.
+A stock market crash is a rapid and often unanticipated drop in stock prices. A stock market [[crash]](https://www.investopedia.com/terms/c/crash.asp) can be a side effect of a major catastrophic event, economic crisis, or the collapse of a long-term [[speculative bubble]](https://www.investopedia.com/terms/s/speculativebubble.asp). Reactionary public panic about a stock market crash can also be a major contributor to it, inducing panic selling that depresses prices even further.
 
-[Famous stock market crashes](https://www.investopedia.com/features/crashes/) include those during the 1929 Great Depression, [Black Monday](https://www.investopedia.com/terms/b/blackmonday.asp) of 1987, the 2001 [dotcom bubble](https://www.investopedia.com/terms/d/dotcom-bubble.asp) burst, the 2008 financial crisis, and during the 2020 COVID-19 pandemic.
+[Famous stock market crashes](https://www.investopedia.com/features/crashes/) include those during the 1929 Great Depression, [[Black Monday]](https://www.investopedia.com/terms/b/blackmonday.asp) of 1987, the 2001 [[dotcom bubble]](https://www.investopedia.com/terms/d/dotcom-bubble.asp) burst, the 2008 financial crisis, and during the 2020 COVID-19 pandemic.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ A stock market crash is a rapid and often unanticipated drop in stock prices. A
 
 ## Understanding Stock Market Crashes
 
-Although there is no specific threshold for stock market crashes, they are generally considered as abrupt double-digit percentage drop in a stock [index](https://www.investopedia.com/terms/i/index.asp) over the course of a few days. Stock market crashes often make a significant impact on the economy. Selling shares after a sudden drop in prices and buying too many stocks on margin prior to one are two of the most common ways investors can to [lose money when the market crashes](https://www.investopedia.com/ask/answers/lose-money-stock-market-crashes/).
+Although there is no specific threshold for stock market crashes, they are generally considered as abrupt double-digit percentage drop in a stock [[index]](https://www.investopedia.com/terms/i/index.asp) over the course of a few days. Stock market crashes often make a significant impact on the economy. Selling shares after a sudden drop in prices and buying too many stocks on margin prior to one are two of the most common ways investors can to [[lose money when the market crashes]](https://www.investopedia.com/ask/answers/lose-money-stock-market-crashes/).
 
-Well-known U.S. stock market crashes include the [market crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp), which resulted from economic decline and panic selling and sparked the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp), and Black Monday (1987), which was also largely caused by investor panic.
+Well-known U.S. stock market crashes include the [[market crash of 1929]](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp), which resulted from economic decline and panic selling and sparked the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp), and Black Monday (1987), which was also largely caused by investor panic.
 
-Another major crash occurred in 2008 in the housing and real estate market and resulted in what we now refer to as the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp). [High-frequency trading](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp) was determined to be a cause of the [flash crash](https://www.investopedia.com/terms/f/flash-crash.asp) that occurred in May 2010 and wiped off trillions of dollars from stock prices.
+Another major crash occurred in 2008 in the housing and real estate market and resulted in what we now refer to as the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp). [[High-frequency trading]](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp) was determined to be a cause of the [[flash crash]](https://www.investopedia.com/terms/f/flash-crash.asp) that occurred in May 2010 and wiped off trillions of dollars from stock prices.
 
 In March 2020, stock markets around the world declined into bear market territory because of the emergence of a pandemic of the COVID-19 coronavirus.
 
@@ -40,7 +40,7 @@ In March 2020, stock markets around the world declined into bear market territor
 
 ### Circuit Breakers
 
-Since the crashes of 1929 and 1987, safeguards have been put in place to prevent crashes due to panicked stockholders selling their assets. Such safeguards include [trading curbs](https://www.investopedia.com/terms/t/tradingcurb.asp), or [circuit breakers](https://www.investopedia.com/terms/c/circuitbreaker.asp), which prevent any trade activity whatsoever for a certain period of time following a sharp decline in stock prices, in hopes of stabilizing the market and preventing it from falling further.
+Since the crashes of 1929 and 1987, safeguards have been put in place to prevent crashes due to panicked stockholders selling their assets. Such safeguards include [trading curbs](https://www.investopedia.com/terms/t/tradingcurb.asp), or [[circuit breakers]](https://www.investopedia.com/terms/c/circuitbreaker.asp), which prevent any trade activity whatsoever for a certain period of time following a sharp decline in stock prices, in hopes of stabilizing the market and preventing it from falling further.
 
 For example, the New York Stock Exchange (NYSE) has a set of thresholds in place to guard against crashes. They provide for trading halts in all equities and options markets during a severe market decline as measured by a single-day decline in the S&P 500 Index. According to the NYSE:1
 
@@ -49,7 +49,7 @@ For example, the New York Stock Exchange (NYSE) has a set of thresholds in place
 -   A market decline that triggers a Level 1 or Level 2 circuit breaker after 9:30 a.m. ET and before 3:25 p.m. ET will halt market-wide trading for 15 minutes, while a similar market decline at or after 3:25 p.m. ET will not halt market-wide trading.
 -   A market decline that triggers a Level 3 circuit breaker, at any time during the trading day, will halt market-wide trading for the remainder of the trading day.
 
-Stock market crashes wipe out equity-investment values and are most harmful to those who rely on investment returns for retirement. Although the collapse of equity prices can occur over a day or a year, crashes are often followed by a [recession](https://www.investopedia.com/terms/r/recession.asp) or depression.
+Stock market crashes wipe out equity-investment values and are most harmful to those who rely on investment returns for retirement. Although the collapse of equity prices can occur over a day or a year, crashes are often followed by a [[recession]](https://www.investopedia.com/terms/r/recession.asp) or depression.
 
 ### Plunge Protection
 

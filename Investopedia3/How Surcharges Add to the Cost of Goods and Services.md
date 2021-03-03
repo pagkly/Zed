@@ -16,7 +16,7 @@ author: Alexandra Twin
 How Surcharges Add to the Cost of Goods and Services
 ## What Is a Surcharge?
 
-A surcharge is an extra fee, charge, or [tax](https://www.investopedia.com/articles/tax/08/tax-credit.asp) that is added on to the cost of a good or service, beyond the initially quoted price. Often, a surcharge is added to an existing tax and is not included in the stated price of the good or service. The charge could reflect a locality's need to collect money for extra services, a hike to defray the cost of increased commodity pricing, such as with a fuel surcharge, or an extra fee on your wireless bill for access to emergency services.
+A surcharge is an extra fee, charge, or [[tax]](https://www.investopedia.com/articles/tax/08/tax-credit.asp) that is added on to the cost of a good or service, beyond the initially quoted price. Often, a surcharge is added to an existing tax and is not included in the stated price of the good or service. The charge could reflect a locality's need to collect money for extra services, a hike to defray the cost of increased commodity pricing, such as with a fuel surcharge, or an extra fee on your wireless bill for access to emergency services.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A surcharge is an extra fee, charge, or [tax](https://www.investopedia.com/artic
 
 ## How Surcharges Work
 
-Many entities, including governments, businesses, and service professionals assess surcharges for [goods or services](https://www.investopedia.com/articles/economics/08/free-market-regulation.asp). For example, taxi drivers may add a fuel surcharge of $1 when gas prices increase. The cost of some products and services do not include the added surcharge. Instead, the calculated fee will be assessed upon acceptance or purchase of the item and appears in the contract or purchase agreement.
+Many entities, including governments, businesses, and service professionals assess surcharges for [[goods or services]](https://www.investopedia.com/articles/economics/08/free-market-regulation.asp). For example, taxi drivers may add a fuel surcharge of $1 when gas prices increase. The cost of some products and services do not include the added surcharge. Instead, the calculated fee will be assessed upon acceptance or purchase of the item and appears in the contract or purchase agreement.
 
 Surcharges may be set at specific dollar amounts, such as $5 per transaction, or based on a percentage of the total price.
 
@@ -34,7 +34,7 @@ A surcharge is an extra fee, tax, or cost added to the already existent cost of 
 
 ## Examples of Surcharges
 
-A variety of industries, such as the [telecommunications](https://www.investopedia.com/articles/markets/030216/worlds-top-10-telecommunications-companies.asp) and cable industries, regularly use surcharges to offset costs imposed on the business through federal, state, or local regulations. When regulations impose additional costs on the market, the business may adjust the surcharge instead of the price of the good or service. The fee is still being passed on to the consumer, but it is being done so in a more indirect way, through the surcharge.
+A variety of industries, such as the [[telecommunications]](https://www.investopedia.com/articles/markets/030216/worlds-top-10-telecommunications-companies.asp) and cable industries, regularly use surcharges to offset costs imposed on the business through federal, state, or local regulations. When regulations impose additional costs on the market, the business may adjust the surcharge instead of the price of the good or service. The fee is still being passed on to the consumer, but it is being done so in a more indirect way, through the surcharge.
 
 For example, a customer may see a regulatory recovery fee on a cable bill. The purpose of the regulatory recovery fee is to offset the burden on the cable provider for certain voice service fees imposed by various government entities. Another example of a cable surcharge is the fee to provide sports programming to the viewing market. In this case, the charge is to offset the premium the cable provider pays for the ability to broadcast the events.
 
@@ -42,6 +42,6 @@ If regulations raise the burden on a company by $1 per customer, the company may
 
 ## Special Considerations: Banking and Credit Card Surcharges
 
-One surcharge experienced by many consumers is the [automated teller machine (ATM)](https://www.investopedia.com/terms/a/atm.asp) fee associated with using a network’s ATM. The ATM surcharge is most often levied by the bank or other institution who owns and operates the machine. An ATM fee is shown as a set dollar amount per transaction. Most ATM providers waive fees for customers of the sponsoring ATM.
+One surcharge experienced by many consumers is the [[automated teller machine (ATM)]](https://www.investopedia.com/terms/a/atm.asp) fee associated with using a network’s ATM. The ATM surcharge is most often levied by the bank or other institution who owns and operates the machine. An ATM fee is shown as a set dollar amount per transaction. Most ATM providers waive fees for customers of the sponsoring ATM.
 
 Some businesses have added surcharges to compensate for the costs associated with accepting credit cards. Another name for these fees is a checkout fee. This additional fee may be a specific dollar amount or may be a percentage of the total price of the goods or services purchased.

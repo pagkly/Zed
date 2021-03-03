@@ -16,7 +16,7 @@ author: Will Kenton
 Quarter-To-Date (QTD)
 ## What Is Quarter-To-Date (QTD)?
 
-Quarter-to-date (QTD) is a time interval that captures all relevant company activity that occurred between the beginning of the current [quarter](https://www.investopedia.com/terms/q/quarter.asp) and the point at which the data was gathered later in the quarter. Quarter-to-date information is typically gathered in situations when the entire quarterly period has not yet ended, and it can allow management to see how the quarter is shaping up.
+Quarter-to-date (QTD) is a time interval that captures all relevant company activity that occurred between the beginning of the current [[quarter]](https://www.investopedia.com/terms/q/quarter.asp) and the point at which the data was gathered later in the quarter. Quarter-to-date information is typically gathered in situations when the entire quarterly period has not yet ended, and it can allow management to see how the quarter is shaping up.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ Quarter-to-date (QTD) is a time interval that captures all relevant company acti
 
 ## Understanding Quarter-To-Date (QTD)
 
-In financial parlance, a quarter refers to a three-month period during a [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp). Because there are 12 months in a year, there are four quarters: first quarter (Q1), second quarter (Q2), third quarter (Q3), and fourth quarter (Q4).
+In financial parlance, a quarter refers to a three-month period during a [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp). Because there are 12 months in a year, there are four quarters: first quarter (Q1), second quarter (Q2), third quarter (Q3), and fourth quarter (Q4).
 
 To determine how a company is performing during a given quarter, management may want to pull up data from the beginning of the quarter for a certain area to gauge how it has performed thus far.
 
-For example, a company may have a target [revenue](https://www.investopedia.com/terms/r/revenue.asp) of $5 million for the quarter. The end of the quarter is still one month away and management would like to see the quarter-to-date revenue to determine if they are on track to meet the $5 million target.
+For example, a company may have a target [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) of $5 million for the quarter. The end of the quarter is still one month away and management would like to see the quarter-to-date revenue to determine if they are on track to meet the $5 million target.
 
 Depending on the result, the QTD information helps management make a decision to either stay on course, as the company is on track, or to adjust course because they are going to miss their target number.
 
@@ -45,8 +45,8 @@ Many companies spend a great deal of time preparing their quarter-to-date repo
 
 A QTD analysis is most effective towards the end of the quarter, as there is more meaningful data available to assess the quality of results. That being said, needed changes are more impactful earlier in the quarter as there is more time to effect change. Management must find a balance between the two.
 
-A QTD analysis is typically only for internal use rather than for external use because the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) does not require companies to report information before a quarter has ended. QTD information is a tool for management to determine the progress of the business.
+A QTD analysis is typically only for internal use rather than for external use because the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) does not require companies to report information before a quarter has ended. QTD information is a tool for management to determine the progress of the business.
 
 As such, there are not many QTD comparisons between companies because management may pull information at different times within a quarter. That being said, final quarterly results are very much comparable between companies.
 
-When comparing quarterly results, it's important to note that not all company's use the calendar year as their fiscal year. Ensuring that you are comparing the exact same time period between companies, and therefore avoiding [seasonal](https://www.investopedia.com/terms/s/seasonality.asp) factors, will allow for an apples to apples comparison.
+When comparing quarterly results, it's important to note that not all company's use the calendar year as their fiscal year. Ensuring that you are comparing the exact same time period between companies, and therefore avoiding [[seasonal]](https://www.investopedia.com/terms/s/seasonality.asp) factors, will allow for an apples to apples comparison.

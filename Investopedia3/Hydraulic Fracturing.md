@@ -20,13 +20,13 @@ Hydraulic fracturing is a process which injects high-pressure liquid into an oil
 
 ## Understanding Hydraulic Fracturing
 
-Hydraulic fracturing involves pumping fuel into a [wellbore](https://www.investopedia.com/terms/w/wellbore.asp) to create enough pressure to develop and expand cracks in hard rock formations. The fluid injected into the well contains a combination of water, chemicals, and small particles of sand or ceramic materials. The water and chemicals crack and open the rock through high pressure, while the solid particles, called proppant, stay in place and keep the fractures open to stimulate a better flow of liquids or gases out of the well.
+Hydraulic fracturing involves pumping fuel into a [[wellbore]](https://www.investopedia.com/terms/w/wellbore.asp) to create enough pressure to develop and expand cracks in hard rock formations. The fluid injected into the well contains a combination of water, chemicals, and small particles of sand or ceramic materials. The water and chemicals crack and open the rock through high pressure, while the solid particles, called proppant, stay in place and keep the fractures open to stimulate a better flow of liquids or gases out of the well.
 
 ## History and Use of Hydraulic Fracturing
 
 Hydraulic fracturing was first used in Kansas in 1947 in an attempt to extract natural gas from a limestone formation in the Hugoton gas field.1 Since that time, petroleum engineers have regularly used hydraulic fracturing as a means of increasing well production. While fractures sometimes exist naturally in formations, both natural and human-made fractures can widen by this process.
 
-Hydraulic fracturing is one of several technologies that make [unconventional oil](https://www.investopedia.com/terms/u/uncoventional-oil.asp) and gas plays economically more viable. Tight oil and gas reservoirs, including those embedded within shale formations such as the Bakken, Eagle Ford, Niobrara and Pierre formations in the U.S., typically require a combination of [horizontal drilling](https://www.investopedia.com/terms/d/directional-drilling.asp) and hydraulic fracturing to produce efficiently.2
+Hydraulic fracturing is one of several technologies that make [[unconventional oil]](https://www.investopedia.com/terms/u/uncoventional-oil.asp) and gas plays economically more viable. Tight oil and gas reservoirs, including those embedded within shale formations such as the Bakken, Eagle Ford, Niobrara and Pierre formations in the U.S., typically require a combination of [[horizontal drilling]](https://www.investopedia.com/terms/d/directional-drilling.asp) and hydraulic fracturing to produce efficiently.2
 
 ## Environmental and Political Hydraulic Fracturing Controversy
 

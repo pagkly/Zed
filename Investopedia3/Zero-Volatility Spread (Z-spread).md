@@ -16,7 +16,7 @@ author: James Chen
 Zero-Volatility Spread (Z-spread)
 ## What Is the Zero-Volatility Spread (Z-Spread)?
 
-The Zero-volatility spread (Z-spread) is the constant spread that makes the price of a security equal to the present value of its cash flows when added to the yield at each point on the [spot rate Treasury curve](https://www.investopedia.com/terms/s/spot_rate_yield_curve.asp) where cash flow is received. In other words, each cash flow is discounted at the appropriate Treasury spot rate plus the Z-spread. The Z-spread is also known as a static spread.
+The Zero-volatility spread (Z-spread) is the constant spread that makes the price of a security equal to the present value of its cash flows when added to the yield at each point on the [[spot rate Treasury curve]](https://www.investopedia.com/terms/s/spot_rate_yield_curve.asp) where cash flow is received. In other words, each cash flow is discounted at the appropriate Treasury spot rate plus the Z-spread. The Z-spread is also known as a static spread.
 
 ## Formula and Calculation for the Zero-Volatility Spread
 
@@ -44,4 +44,4 @@ This implies that the Z-spread equals 0.5% in this example.
 
 A Z-spread calculation is different than a nominal spread calculation. A nominal spread calculation uses one point on the Treasury yield curve (not the spot-rate Treasury yield curve) to determine the spread at a single point that will equal the present value of the security's cash flows to its price.
 
-The Zero-volatility spread (Z-spread) helps analysts discover if there is a discrepancy in a bond's price. Because the Z-spread measures the spread that an investor will receive over the entirety of the Treasury yield curve, it gives analysts a more realistic valuation of a security instead of a single-point metric, such as a bond's [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp).
+The Zero-volatility spread (Z-spread) helps analysts discover if there is a discrepancy in a bond's price. Because the Z-spread measures the spread that an investor will receive over the entirety of the Treasury yield curve, it gives analysts a more realistic valuation of a security instead of a single-point metric, such as a bond's [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp).

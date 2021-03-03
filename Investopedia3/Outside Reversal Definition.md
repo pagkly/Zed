@@ -16,7 +16,7 @@ author: Gordon Scott, CMT
 Outside Reversal Definition
 ## What Is an Outside Reversal?
 
-An outside reversal is a price pattern that indicates a potential change in trend on a price chart. The two-day pattern is observed when a security’s high and low prices for the day exceed the high and low of the previous day’s trading session. Outside reversal is also known as either a [bullish engulfing](https://www.investopedia.com/terms/b/bullishengulfingpattern.asp) (after a downward price move) or a [bearish engulfing pattern](https://www.investopedia.com/terms/b/bearishengulfingp.asp) (after an upward price move) when observed on candlestick charts.
+An outside reversal is a price pattern that indicates a potential change in trend on a price chart. The two-day pattern is observed when a security’s high and low prices for the day exceed the high and low of the previous day’s trading session. Outside reversal is also known as either a [[bullish engulfing]](https://www.investopedia.com/terms/b/bullishengulfingpattern.asp) (after a downward price move) or a [[bearish engulfing pattern]](https://www.investopedia.com/terms/b/bearishengulfingp.asp) (after an upward price move) when observed on candlestick charts.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ An outside reversal is a price pattern that indicates a potential change in tren
 
 ## Understanding an Outside Reversal pattern
 
-Outside reversal is a two-day [price pattern](https://www.investopedia.com/terms/p/pattern.asp) that shows when a candle or bar on a [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) or [bar chart](https://www.investopedia.com/terms/b/barchart.asp) falls “outside” of the previous day’s candle or bar. This chart pattern is commonly employed by technical analysts who seek to identify points in the price action which imply a bullish or bearish reversal of an existing trend.
+Outside reversal is a two-day [[price pattern]](https://www.investopedia.com/terms/p/pattern.asp) that shows when a candle or bar on a [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) or [[bar chart]](https://www.investopedia.com/terms/b/barchart.asp) falls “outside” of the previous day’s candle or bar. This chart pattern is commonly employed by technical analysts who seek to identify points in the price action which imply a bullish or bearish reversal of an existing trend.
 
-An outside reversal pattern is typically one of the more precise candlestick patterns; however, these patterns require a strict definition to be useful forecasting tools. Technical analysts and experienced traders prefer to build trading signals using this identification in conjunction with other information such as trend, support and resistance or [technical studies](https://www.investopedia.com/articles/trading/11/indicators-and-strategies-explained.asp).
+An outside reversal pattern is typically one of the more precise candlestick patterns; however, these patterns require a strict definition to be useful forecasting tools. Technical analysts and experienced traders prefer to build trading signals using this identification in conjunction with other information such as trend, support and resistance or [[technical studies]](https://www.investopedia.com/articles/trading/11/indicators-and-strategies-explained.asp).
 
 Image by Julie Bang © Investopedia 2020
 
@@ -42,6 +42,6 @@ In the chart above, Amazon.com Inc. ([AMZN](https://www.investopedia.com/markets
 
 ## Bearish Outside Reversal
 
-A bearish outside reversal, also called a [bearish engulfing](https://www.investopedia.com/terms/b/bearishengulfingp.asp), transpires when the second candle is a move lower. For instance, a stock may have a small move higher on the first day, climb even higher the second day, but then sharply decline by the second day’s end. This demonstrates that the bulls had control over the market before the bears took the reins in a meaningful way, signaling a shift in the overall [trend](https://www.investopedia.com/terms/t/trend.asp).
+A bearish outside reversal, also called a [[bearish engulfing]](https://www.investopedia.com/terms/b/bearishengulfingp.asp), transpires when the second candle is a move lower. For instance, a stock may have a small move higher on the first day, climb even higher the second day, but then sharply decline by the second day’s end. This demonstrates that the bulls had control over the market before the bears took the reins in a meaningful way, signaling a shift in the overall [[trend]](https://www.investopedia.com/terms/t/trend.asp).
 
 The stock price of Cisco Systems Inc. ([CSCO](https://www.investopedia.com/markets/quote?tvwidgetsymbol=csco)) rose for three consecutive days before a bearish outside reversal. Share prices plunged the day after the outside reversal as the overall trend did an about-face.

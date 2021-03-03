@@ -26,9 +26,9 @@ Market cannibalization is a loss in sales caused by a company's introduction of 
 
 ## How Market Cannibalization Works
 
-Also referred to as [corporate cannibalism](https://www.investopedia.com/terms/c/corporatecannibalism.asp), market cannibalization occurs when a new product intrudes on the existing market for an older product. By appealing to its current customers instead of capturing new customers, the company has [failed to increase its market share](https://www.investopedia.com/terms/d/dog.asp) while almost certainly increasing its costs of production.
+Also referred to as [[corporate cannibalism]](https://www.investopedia.com/terms/c/corporatecannibalism.asp), market cannibalization occurs when a new product intrudes on the existing market for an older product. By appealing to its current customers instead of capturing new customers, the company has [[failed to increase its market share]](https://www.investopedia.com/terms/d/dog.asp) while almost certainly increasing its costs of production.
 
-Marketing cannibalization is often done unintentionally when the marketing or advertising campaign for new products draws customers away from an established product. As a result, market cannibalization can hurt a company's [bottom line](https://www.investopedia.com/terms/b/bottomline.asp).
+Marketing cannibalization is often done unintentionally when the marketing or advertising campaign for new products draws customers away from an established product. As a result, market cannibalization can hurt a company's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp).
 
 However, market cannibalization can be a deliberate strategy for growth. A supermarket chain, for example, might open a new store near one of its older stores, knowing that they will inevitably cannibalize each other's sales. However, the new store will also steal market share from nearby competitors, even driving them out of business eventually.
 
@@ -46,4 +46,4 @@ Macy's, as of 2019, is in the process of closing 100 brick-and-mortar stores nat
 
 Apple is an example of a company that has ignored the risk of market cannibalization in pursuit of larger objectives. When Apple announces a new iPhone, the sales of its older iPhone models immediately drop. However, Apple is counting on its new phone capturing competitors' current customers, increasing its overall market share.
 
-Companies often risk market [cannibalization](https://www.investopedia.com/articles/investing/081315/5-reasons-why-radioshack-went-out-business.asp) is hopes of gaining a bounce in overall market share. For example, a company that makes crackers may introduce a low-fat or lower-salt version of its brand. It knows some of its sales will be cannibalized from the original brand, but it hopes to expand its market share by appealing to health-conscious consumers who otherwise would buy a different brand or skip the crackers altogether.
+Companies often risk market [[cannibalization]](https://www.investopedia.com/articles/investing/081315/5-reasons-why-radioshack-went-out-business.asp) is hopes of gaining a bounce in overall market share. For example, a company that makes crackers may introduce a low-fat or lower-salt version of its brand. It knows some of its sales will be cannibalized from the original brand, but it hopes to expand its market share by appealing to health-conscious consumers who otherwise would buy a different brand or skip the crackers altogether.

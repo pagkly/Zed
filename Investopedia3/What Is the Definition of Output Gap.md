@@ -16,27 +16,27 @@ author: Christina Majaski
 What Is the Definition of Output Gap?
 ## What Is an Output Gap?
 
-An output gap indicates the difference between the actual output of an economy and the maximum potential output of an economy expressed as a percentage of [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP). A country's output gap may be either positive or negative.
+An output gap indicates the difference between the actual output of an economy and the maximum potential output of an economy expressed as a percentage of [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP). A country's output gap may be either positive or negative.
 
 A negative output gap suggests that actual economic output is below the economy's full capacity for output while a positive output suggests an economy that is outperforming expectations because its actual output is higher than the economy's recognized maximum capacity output.
 
 ## Calculating the Output Gap
 
-The output gap is a comparison between actual GDP (output) and potential GDP (maximum-efficiency output). It is difficult to calculate because it is difficult to estimate an economy's optimal level of [operating efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp). There is little consensus among economists about the best way to measure potential gross domestic product, but most agree that full employment would be a key component of maximum output.
+The output gap is a comparison between actual GDP (output) and potential GDP (maximum-efficiency output). It is difficult to calculate because it is difficult to estimate an economy's optimal level of [[operating efficiency]](https://www.investopedia.com/terms/o/operationalefficiency.asp). There is little consensus among economists about the best way to measure potential gross domestic product, but most agree that full employment would be a key component of maximum output.
 
-A method that can be used to project potential GDP is to run a [trend line](https://www.investopedia.com/terms/t/trendline.asp) through actual GDP over several decades or enough time to limit the impact of short-term peaks and valleys. By following the trend line, one can estimate where the gross domestic product should be right now or at a point in the near future.
+A method that can be used to project potential GDP is to run a [[trend line]](https://www.investopedia.com/terms/t/trendline.asp) through actual GDP over several decades or enough time to limit the impact of short-term peaks and valleys. By following the trend line, one can estimate where the gross domestic product should be right now or at a point in the near future.
 
 Determining the outcome gap is a simple calculation of dividing the difference between actual GDP and potential GDP by potential GDP.
 
 ### Key Takeaways
 
--   An output gap is a difference between the actual output of an economy and the maximum potential output of an economy expressed as a percentage of [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP).
+-   An output gap is a difference between the actual output of an economy and the maximum potential output of an economy expressed as a percentage of [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP).
 -   The output gap is a comparison between actual GDP (output) and potential GDP (maximum-efficiency output).
 -   An output gap, whether positive or negative, is an unfavorable indicator for an economy's efficiency.
 
 ## Positive and Negative Output Gaps
 
-An output gap, whether positive or negative, is an unfavorable indicator for an economy's efficiency. A positive output gap indicates a high demand for goods and services in an economy, which might be considered beneficial for an economy. However, the effect of excessively high demand is that businesses and employees must work beyond their maximum efficiency level to meet the level of demand. A positive output gap commonly spurs [inflation](https://www.investopedia.com/terms/i/inflation.asp) in an economy because both [labor costs](https://www.investopedia.com/terms/c/cost-of-labor.asp) and the prices of goods increase in response to the increased demand.
+An output gap, whether positive or negative, is an unfavorable indicator for an economy's efficiency. A positive output gap indicates a high demand for goods and services in an economy, which might be considered beneficial for an economy. However, the effect of excessively high demand is that businesses and employees must work beyond their maximum efficiency level to meet the level of demand. A positive output gap commonly spurs [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) in an economy because both [[labor costs]](https://www.investopedia.com/terms/c/cost-of-labor.asp) and the prices of goods increase in response to the increased demand.
 
 Alternatively, a negative output gap indicates a lack of demand for goods and services in an economy and can lead to companies and employees operating below their maximum efficiency levels. A negative output gap is a sign of a sluggish economy and portends a declining GDP growth rate and potential recession as wages and prices of goods typically fall when overall economic demand is low.
 

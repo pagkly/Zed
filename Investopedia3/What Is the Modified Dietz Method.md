@@ -16,7 +16,7 @@ author: Will Kenton
 What Is the Modified Dietz Method?
 ## What Is the Modified Dietz Method?
 
-The modified Dietz method is a way to measure a portfolio's historical return that is based on a weighted calculation of its [cash flow](https://www.investopedia.com/terms/c/cashflow.asp). The method takes into account the timing of cash flows and assumes that there is a constant [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) over a specified period of time.
+The modified Dietz method is a way to measure a portfolio's historical return that is based on a weighted calculation of its [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp). The method takes into account the timing of cash flows and assumes that there is a constant [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) over a specified period of time.
 
 The modified Dietz method is considered to be more accurate than the simple Dietz method, which assumes that all cash flows come from the middle of the period of time being evaluated.
 
@@ -31,7 +31,7 @@ The modified Dietz method is considered an accurate reflection of an individual'
 -   The method excludes external factors that could otherwise skew the numbers.
 -   Cash flow, in this case, can be contributions, withdrawals, or fees.
 
-The number achieved by using the modified Dietz method is sometimes called the [modified internal rate of return (MIRR)](https://www.investopedia.com/terms/m/mirr.asp), which is a metric often used in capital budgeting decisions.
+The number achieved by using the modified Dietz method is sometimes called the [[modified internal rate of return (MIRR)]](https://www.investopedia.com/terms/m/mirr.asp), which is a metric often used in capital budgeting decisions.
 
 Whatever its use, the point of measuring internal rate of return is to exclude external factors that could skew the results.
 
@@ -41,7 +41,7 @@ Financial industry watchdogs and investors are increasingly seeking greater tran
 
 The result of using the modified Dietz method is sometimes referred to as the modified internal rate of return.
 
-The method is a dollar-weighted analysis of a portfolio's return. That makes it is a more accurate way to measure the return on a [portfolio](https://www.investopedia.com/terms/p/portfolio.asp) than the simpler geometric return method, though it can run into problems during periods of heavy [volatility](https://www.investopedia.com/terms/v/volatility.asp) or if there are multiple cash flows within a particular period.
+The method is a dollar-weighted analysis of a portfolio's return. That makes it is a more accurate way to measure the return on a [[portfolio]](https://www.investopedia.com/terms/p/portfolio.asp) than the simpler geometric return method, though it can run into problems during periods of heavy [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) or if there are multiple cash flows within a particular period.
 
 This approach to return calculation is similar to the dollar-weighted return method but has the advantage of not requiring its solver to find the exact rate of return.
 

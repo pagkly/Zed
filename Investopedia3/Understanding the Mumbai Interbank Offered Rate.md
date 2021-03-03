@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Mumbai Interbank Offered Rate
 ## What Is the Mumbai Interbank Offered Rate (MIBOR)?
 
-The Mumbai Interbank Offer Rate (MIBOR) is one iteration of India's [interbank rate](https://www.investopedia.com/terms/i/interbankmarket.asp), which is the rate of interest charged by a bank on a short-term loan to another bank. As India's financial markets have continued to develop, India felt it needed a reference rate for its debt market, which led to the development and introduction of the MIBOR. MIBOR is used in conjunction with the Mumbai interbank bid and forward rates ([MIBID](https://www.investopedia.com/terms/m/mibid.asp) and [MIFOR](https://www.investopedia.com/terms/m/mifor.asp)) by the central bank of India to set short-term monetary policy.
+The Mumbai Interbank Offer Rate (MIBOR) is one iteration of India's [[interbank rate]](https://www.investopedia.com/terms/i/interbankmarket.asp), which is the rate of interest charged by a bank on a short-term loan to another bank. As India's financial markets have continued to develop, India felt it needed a reference rate for its debt market, which led to the development and introduction of the MIBOR. MIBOR is used in conjunction with the Mumbai interbank bid and forward rates ([MIBID](https://www.investopedia.com/terms/m/mibid.asp) and [[MIFOR]](https://www.investopedia.com/terms/m/mifor.asp)) by the central bank of India to set short-term monetary policy.
 
 ### Key Takeaway
 
@@ -30,11 +30,11 @@ Banks borrow and lend money to one another on the interbank market in order to 
 
 MIBOR is calculated every day by the National Stock Exchange of India (NSEIL) as a weighted average of lending rates of a group of major banks throughout India, on funds lent to first-class borrowers. This is the interest rate at which banks can borrow funds from other banks in the Indian interbank market.
 
-The Mumbai Interbank Offer Rate (MIBOR) is modeled closely on [London InterBank Overnight Rate](https://www.investopedia.com/terms/l/libor.asp) (LIBOR). The rate is used currently for forward contracts and floating-rate debentures. Over time and with more use, MIBOR may become more significant.
+The Mumbai Interbank Offer Rate (MIBOR) is modeled closely on [[London InterBank Overnight Rate]](https://www.investopedia.com/terms/l/libor.asp) (LIBOR). The rate is used currently for forward contracts and floating-rate debentures. Over time and with more use, MIBOR may become more significant.
 
 ## The History of MIBOR
 
-The MIBOR was launched on June 15, 1998, by the Committee for the Development of the Debt Market, as an [overnight rate](https://www.investopedia.com/terms/o/overnightrate.asp). The NSEIL launched the 14-day MIBOR on November 10, 1998, and the one-month and three-month MIBORs on December 1, 1998. Since the launch, MIBOR rates have been used as benchmark rates for the majority of [money market](https://www.investopedia.com/terms/m/moneymarket.asp) deals made in India.
+The MIBOR was launched on June 15, 1998, by the Committee for the Development of the Debt Market, as an [[overnight rate]](https://www.investopedia.com/terms/o/overnightrate.asp). The NSEIL launched the 14-day MIBOR on November 10, 1998, and the one-month and three-month MIBORs on December 1, 1998. Since the launch, MIBOR rates have been used as benchmark rates for the majority of [[money market]](https://www.investopedia.com/terms/m/moneymarket.asp) deals made in India.
 
 ## MIBOR vs. MIBID
 

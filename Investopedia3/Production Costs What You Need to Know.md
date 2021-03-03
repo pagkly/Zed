@@ -16,7 +16,7 @@ author: Will Kenton
 Production Costs: What You Need to Know
 ## What Are Production Costs?
 
-Production or product costs refer to the costs incurred by a business from manufacturing a product or providing a service. Production costs can include a variety of expenses, such as labor, [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp), consumable manufacturing supplies, and general [overhead](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-operating-expenses-and-overhead-expenses.asp). Product costs may also include those incurred as part of the delivery of a service to a customer. Taxes levied by the government or royalties owed by [natural resource-extraction companies](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp) also are treated as production costs.
+Production or product costs refer to the costs incurred by a business from manufacturing a product or providing a service. Production costs can include a variety of expenses, such as labor, [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp), consumable manufacturing supplies, and general [[overhead]](https://www.investopedia.com/ask/answers/101314/what-are-differences-between-operating-expenses-and-overhead-expenses.asp). Product costs may also include those incurred as part of the delivery of a service to a customer. Taxes levied by the government or royalties owed by [[natural resource-extraction companies]](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp) also are treated as production costs.
 
 ## Understanding Production Costs
 
@@ -32,7 +32,7 @@ Total product costs can be determined by adding together the total direct materi
 
 Data like the "cost of production per unit" can help you set an appropriate sales price for the finished item. To arrive at the cost of production per unit, divide the production costs by the number of units produced. To break even, the sales price must cover the cost per unit. Prices that are greater than the cost per unit result in profits, whereas prices that are less than the cost per unit result in losses.
 
-If the cost of producing a product exceeds the sale price, producers might first try to lower their production costs. If they could not, then producers might shut down operations, temporarily or permanently. For example, in late December 2018, the selling [price of a barrel of oil](https://www.investopedia.com/ask/answers/012715/what-causes-oil-prices-fluctuate.asp) fell to $45 per barrel.1 If production costs of oil varied between $20 and $50 per barrel, then a cash negative situation would occur for producers with steep production costs. Those producers could choose to stop production until sale prices return to profitable levels. 
+If the cost of producing a product exceeds the sale price, producers might first try to lower their production costs. If they could not, then producers might shut down operations, temporarily or permanently. For example, in late December 2018, the selling [[price of a barrel of oil]](https://www.investopedia.com/ask/answers/012715/what-causes-oil-prices-fluctuate.asp) fell to $45 per barrel.1 If production costs of oil varied between $20 and $50 per barrel, then a cash negative situation would occur for producers with steep production costs. Those producers could choose to stop production until sale prices return to profitable levels. 
 
 ### Production Costs and Asset Recording
 

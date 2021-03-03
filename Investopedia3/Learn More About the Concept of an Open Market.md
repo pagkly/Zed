@@ -16,19 +16,19 @@ author: Troy Segal
 Learn More About the Concept of an Open Market
 ## What Is an Open Market?
 
-An open market is an economic system with little to no barriers to free-market activity. An open market is characterized by the absence of tariffs, taxes, licensing requirements, [subsidies](https://www.investopedia.com/terms/s/subsidy.asp), unionization, and any other regulations or practices that interfere with free-market activity. Open markets may have competitive [barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp), but never any regulatory barriers to entry.
+An open market is an economic system with little to no barriers to free-market activity. An open market is characterized by the absence of tariffs, taxes, licensing requirements, [[subsidies]](https://www.investopedia.com/terms/s/subsidy.asp), unionization, and any other regulations or practices that interfere with free-market activity. Open markets may have competitive [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp), but never any regulatory barriers to entry.
 
 ### Key Takeaways
 
 -   An open market is an economic system with little to no barriers to free-market activity.
--   Open markets may have competitive [barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp), but never any regulatory barriers to entry.
+-   Open markets may have competitive [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp), but never any regulatory barriers to entry.
 -   The United States, Canada, Western Europe, and Australia are countries with relatively open markets.
 
 ## How an Open Market Works
 
 In an open market, the pricing of goods or services is driven predominantly by the principles of supply and demand, with limited interference or outside influence from large conglomerates or governmental agencies.
 
-Open markets go hand in hand with [free trade](https://www.investopedia.com/terms/f/free-trade.asp) policies, which are designed to eliminate discrimination against imports and exports. Buyers and sellers from different economies may voluntarily trade without a government applying tariffs, [quotas](https://www.investopedia.com/terms/q/quota.asp), subsidies, or prohibitions on goods and services, which are considerable barriers to entry in international trade.
+Open markets go hand in hand with [[free trade]](https://www.investopedia.com/terms/f/free-trade.asp) policies, which are designed to eliminate discrimination against imports and exports. Buyers and sellers from different economies may voluntarily trade without a government applying tariffs, [quotas](https://www.investopedia.com/terms/q/quota.asp), subsidies, or prohibitions on goods and services, which are considerable barriers to entry in international trade.
 
 ## Open Markets vs. Closed Markets
 
@@ -44,4 +44,4 @@ A closed market, which is also called a [protectionist](https://www.investoped
 
 ## Example of an Open Market
 
-In the United Kingdom, several foreign companies compete in the generation and supply of electricity; thus, the United Kingdom has an open market in the distribution and supply of electricity.1 The [European Union](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) believes that free trade can only exist when businesses can fully participate. Therefore, the EU ensures that its members have access to all markets.
+In the United Kingdom, several foreign companies compete in the generation and supply of electricity; thus, the United Kingdom has an open market in the distribution and supply of electricity.1 The [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) believes that free trade can only exist when businesses can fully participate. Therefore, the EU ensures that its members have access to all markets.

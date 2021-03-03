@@ -16,7 +16,7 @@ author: Will Kenton
 The Risks and Rewards of a Strategic Alliance
 ## What Is a Strategic Alliance?
 
-A strategic alliance is an arrangement between two companies to undertake a mutually beneficial project while each retains its independence. The agreement is less complex and less binding than a [joint venture](https://www.investopedia.com/terms/j/jointventure.asp), in which two businesses pool resources to create a separate business entity.
+A strategic alliance is an arrangement between two companies to undertake a mutually beneficial project while each retains its independence. The agreement is less complex and less binding than a [[joint venture]](https://www.investopedia.com/terms/j/jointventure.asp), in which two businesses pool resources to create a separate business entity.
 
 A company may enter into a strategic alliance to expand into a new market, improve its product line, or develop an edge over a competitor. The arrangement allows two businesses to work toward a common goal that will benefit both.
 
@@ -30,7 +30,7 @@ While the strategic alliance can be an informal alliance, the responsibilities o
 -   A strategic alliance agreement could help a company develop a more effective process.
 -   Strategic alliances allow two organizations, individuals or other entities to work toward common or correlating goals.
 
-The effects of forming a strategic alliance can include allowing each of the businesses to achieve [organic growth](https://www.investopedia.com/terms/o/organicgrowth.asp) more quickly than if they had acted alone.
+The effects of forming a strategic alliance can include allowing each of the businesses to achieve [[organic growth]](https://www.investopedia.com/terms/o/organicgrowth.asp) more quickly than if they had acted alone.
 
 The partnership entails sharing complimentary resources from each partner for the overall benefit of the alliance.
 
@@ -38,7 +38,7 @@ The partnership entails sharing complimentary resources from each partner for th
 
 Strategic alliances can be flexible and some of the burdens that a joint venture could include. The two firms do not need to merge capital and can remain independent of one another.
 
-A [strategic alliance](https://www.investopedia.com/articles/basics/06/themerger.asp) can, however, bring its own risks. While the agreement is usually clear for both companies, there may be differences in how the firms conduct business. Differences can create conflict. Further, if the alliance requires the parties to share proprietary information, there must be trust between the two allies.
+A [[strategic alliance]](https://www.investopedia.com/articles/basics/06/themerger.asp) can, however, bring its own risks. While the agreement is usually clear for both companies, there may be differences in how the firms conduct business. Differences can create conflict. Further, if the alliance requires the parties to share proprietary information, there must be trust between the two allies.
 
 In a long-term strategic alliance, one party may become dependent on the other. Disruption of the alliance can endanger the health of the company.
 

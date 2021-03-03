@@ -27,7 +27,7 @@ In reality, the data often studied has some degree of error or random noise with
 
 ## Understanding Overfitting
 
-For instance, a common problem is using computer [algorithms](https://www.investopedia.com/terms/a/algorithm.asp) to search extensive databases of historical market data in order to find patterns. Given enough study, it is often possible to develop elaborate theorems which appear to predict things such as returns in the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) with close accuracy.
+For instance, a common problem is using computer [[algorithms]](https://www.investopedia.com/terms/a/algorithm.asp) to search extensive databases of historical market data in order to find patterns. Given enough study, it is often possible to develop elaborate theorems which appear to predict things such as returns in the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) with close accuracy.
 
 However, when applied to data outside of the sample, such theorems may likely prove to be merely the overfitting of a model to what were in reality just chance occurrences. In all cases, it is important to test a model against data that is outside of the sample used to develop it.
 

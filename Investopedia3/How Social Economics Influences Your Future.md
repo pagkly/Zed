@@ -16,7 +16,7 @@ author: Evan Tarver
 How Social Economics Influences Your Future
 ## What Is Social Economics?
 
-Social economics is a branch of [economics](https://www.investopedia.com/terms/e/economics.asp)—and a social science—that focuses on the relationship between social behavior and economics. Social economics consists of two broad perspectives that, though opposite in their approach, can be thought of as complementary. The first, pioneered by Nobelist Gary Becker, applies the basic theoretical and applied tools of neoclassical microeconomics to areas of human behavior not traditionally considered as part of economics proper, such as crime and punishment, drug abuse, marriage, and family decisions.
+Social economics is a branch of [[economics]](https://www.investopedia.com/terms/e/economics.asp)—and a social science—that focuses on the relationship between social behavior and economics. Social economics consists of two broad perspectives that, though opposite in their approach, can be thought of as complementary. The first, pioneered by Nobelist Gary Becker, applies the basic theoretical and applied tools of neoclassical microeconomics to areas of human behavior not traditionally considered as part of economics proper, such as crime and punishment, drug abuse, marriage, and family decisions.
 
 The second, applies the ideas of other social sciences, such as sociology, psychology, and identity group studies to subjects of an economic nature like consumer behavior or labor markets. These practitioners of social economics use history, current events, politics, and other social sciences to predict social trends that could potentially impact the economy. This strand of social economics is the primary focus of this article.
 
@@ -44,7 +44,7 @@ An individual’s socioeconomic status can significantly impact their educationa
 
 Completing higher education is more likely to increase their income potential, as well as provide opportunities to interact with people of similar or more advanced social standing and build beneficial social networks.
 
-In contrast, higher education may not be attainable for an individual existing at or below the [poverty level](https://www.investopedia.com/terms/p/poverty.asp). Many studies have revealed that young children from families existing at or below the poverty level develop academic skills slower than children from affluent social classes. A lower socioeconomic status is also related to poor cognitive development, language, memory, socioemotional processing, and consequently poor income and health in adulthood.1
+In contrast, higher education may not be attainable for an individual existing at or below the [[poverty level]](https://www.investopedia.com/terms/p/poverty.asp). Many studies have revealed that young children from families existing at or below the poverty level develop academic skills slower than children from affluent social classes. A lower socioeconomic status is also related to poor cognitive development, language, memory, socioemotional processing, and consequently poor income and health in adulthood.1
 
 What's more, school systems in communities that are primarily populated by those at or below the poverty-level are often underresourced, which negatively impacts students’ academic progress and outcomes. Poor academic skills and progress, combined with high dropout rates, can impact children’s academic achievement in the long-term (and further perpetuate the low socioeconomic status of the community).
 

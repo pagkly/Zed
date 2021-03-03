@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Ratio Analysis
 ## What Is Ratio Analysis?
 
-Ratio analysis is a quantitative method of gaining insight into a company's liquidity, operational efficiency, and profitability by studying its financial statements such as the balance sheet and income statement. Ratio analysis is a cornerstone of [fundamental equity analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp).
+Ratio analysis is a quantitative method of gaining insight into a company's liquidity, operational efficiency, and profitability by studying its financial statements such as the balance sheet and income statement. Ratio analysis is a cornerstone of [[fundamental equity analysis]](https://www.investopedia.com/terms/f/fundamentalanalysis.asp).
 
 ### Key Takeaways
 
@@ -54,11 +54,11 @@ Also called activity ratios, [**efficiency ratios**](https://www.investopedia.co
 
 ### 5\. Coverage Ratios
 
-**[Coverage ratios](https://www.investopedia.com/terms/c/coverageratio.asp)** measure a company's ability to make the interest payments and other obligations associated with its debts. Examples include the [times interest earned ratio](https://www.investopedia.com/terms/t/tie.asp) and the [debt-service coverage ratio](https://www.investopedia.com/terms/d/dscr.asp).
+**[Coverage ratios](https://www.investopedia.com/terms/c/coverageratio.asp)** measure a company's ability to make the interest payments and other obligations associated with its debts. Examples include the [[times interest earned ratio]](https://www.investopedia.com/terms/t/tie.asp) and the [[debt-service coverage ratio]](https://www.investopedia.com/terms/d/dscr.asp).
 
 ### 6\. Market Prospect Ratios
 
-These are the most commonly used ratios in fundamental analysis. They include [dividend yield](https://www.investopedia.com/terms/d/dividendyield.asp), [P/E ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp), [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS), and [dividend payout ratio](https://www.investopedia.com/terms/d/dividendpayoutratio.asp). Investors use these metrics to predict earnings and future performance.
+These are the most commonly used ratios in fundamental analysis. They include [[dividend yield]](https://www.investopedia.com/terms/d/dividendyield.asp), [[P/E ratio]](https://www.investopedia.com/terms/p/price-earningsratio.asp), [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) (EPS), and [[dividend payout ratio]](https://www.investopedia.com/terms/d/dividendpayoutratio.asp). Investors use these metrics to predict earnings and future performance.
 
 For example, if the average P/E ratio of all companies in the S&P 500 index is 20, and the majority of companies have P/Es between 15 and 25, a stock with a P/E ratio of seven would be considered undervalued. In contrast, one with a P/E ratio of 50 would be considered overvalued. The former may trend upwards in the future, while the latter may trend downwards until each aligns with its intrinsic value.
 

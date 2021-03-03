@@ -16,7 +16,7 @@ author: Tim Smith
 Writing An Option
 ## What Is Writing an Option?
 
-Writing an option refers to an investment contract in which a fee, or [premium](https://www.investopedia.com/terms/o/option-premium.asp#targetText=An%20option%20premium%20is%20the,option%20contract%20to%20another%20party.&targetText=For%20stock%20options%2C%20the%20premium,the%20commitment%20of%20100%20shares.), is paid to the writer in exchange for the right to buy or sell shares at a future price and date. Put and [call](https://www.investopedia.com/terms/c/calloption.asp) options for stocks are typically written in lots, with each lot representing 100 shares.
+Writing an option refers to an investment contract in which a fee, or [[premium]](https://www.investopedia.com/terms/o/option-premium.asp#targetText=An%20option%20premium%20is%20the,option%20contract%20to%20another%20party.&targetText=For%20stock%20options%2C%20the%20premium,the%20commitment%20of%20100%20shares.), is paid to the writer in exchange for the right to buy or sell shares at a future price and date. Put and [[call]](https://www.investopedia.com/terms/c/calloption.asp) options for stocks are typically written in lots, with each lot representing 100 shares.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Writing an option refers to an investment contract in which a fee, or [premium](
 
 Traders write an option by creating a new option contract that sells someone the right to buy or sell a stock at a specific price ([strike price](https://www.investopedia.com/terms/s/strikeprice.asp)) on a specific date ([expiration date](https://www.investopedia.com/terms/e/expirationdate.asp)). In other words, the writer of the option can be forced to buy or sell a stock at the strike price.
 
-However, for that risk, the option writer receives a premium that the buyer of the option pays. The premium received when writing an option depends upon several factors, including the current price of the stock, when the option expires, and other factors such as the underlying asset’s [volatility](https://www.investopedia.com/terms/v/volatility.asp).
+However, for that risk, the option writer receives a premium that the buyer of the option pays. The premium received when writing an option depends upon several factors, including the current price of the stock, when the option expires, and other factors such as the underlying asset’s [[volatility]](https://www.investopedia.com/terms/v/volatility.asp).
 
 ## Benefits of Writing an Option
 
@@ -38,9 +38,9 @@ Some of the main benefits of writing an option include:
 
 **Premium received immediately**: Options writers receive a premium as soon as they sell an option contract.
 
-**Keep full premium for expired out of the money options**: If the written option expires [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp)—meaning that the stock price closes below the strike price for a call option, or above the strike price for a put option—the writer keeps the entire premium.
+**Keep full premium for expired out of the money options**: If the written option expires [[out of the money]](https://www.investopedia.com/terms/o/outofthemoney.asp)—meaning that the stock price closes below the strike price for a call option, or above the strike price for a put option—the writer keeps the entire premium.
 
-**Time decay**: Options decline in value due to [time decay](https://www.investopedia.com/terms/t/timedecay.asp), which reduces the option writer's risk and liability. Because the writer sold the option for a higher price and has already received a premium, they can buy it back for a lower price.
+**Time decay**: Options decline in value due to [[time decay]](https://www.investopedia.com/terms/t/timedecay.asp), which reduces the option writer's risk and liability. Because the writer sold the option for a higher price and has already received a premium, they can buy it back for a lower price.
 
 **Flexibility**: An options writer has the flexibility to close out their open contracts at any time. The writer removes their obligation by simply buying back their written option in the open market.
 
@@ -50,7 +50,7 @@ Even though an option writer receives a fee, or premium for selling their option
 
 Unexpectedly, Apple announces that it plans on delivering a [5G](https://www.investopedia.com/articles/active-trading/101615/5-things-know-about-5g-wireless-technology.asp) capability iPhone sooner than expected, and its stock price closes at $275 on the day the option expires. David still has to deliver the stock to the option buyer for $200. That means he will lose $75 per share as he has to buy the stock on the open market for $275 to deliver to his options buyer for $200.
 
-Note that the losses on writing an option are potentially unlimited if the option is written "[naked](https://www.investopedia.com/terms/n/naked-writer.asp)"; that is, if there are no other related positions. If, however, somebody writes a [covered call](https://www.investopedia.com/terms/c/coveredcall.asp) (where they are already long the stock), the losses in the call that are sold will be offset by increases in the value of the shares owned.
+Note that the losses on writing an option are potentially unlimited if the option is written "[naked](https://www.investopedia.com/terms/n/naked-writer.asp)"; that is, if there are no other related positions. If, however, somebody writes a [[covered call]](https://www.investopedia.com/terms/c/coveredcall.asp) (where they are already long the stock), the losses in the call that are sold will be offset by increases in the value of the shares owned.
 
 ## Practical Example of Writing an Option
 

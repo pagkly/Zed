@@ -22,11 +22,11 @@ Spoofing is a type of scam in which criminals attempt to obtain someone's person
 
 -   Spoofing to trick you into divulging personal information can be done through email, text messages, caller ID, even GPS receivers.
 -   Be skeptical of any request for personal information, download files only from trusted sources, and install antivirus software.
--   If you think you’ve been spoofed, file a complaint at the FCC's [Consumer Complaint Center](https://consumercomplaints.fcc.gov/hc/en-us); if you've lost money, also contact the local police.
+-   If you think you’ve been spoofed, file a complaint at the FCC's [[Consumer Complaint Center]](https://consumercomplaints.fcc.gov/hc/en-us); if you've lost money, also contact the local police.
 
 ## How Spoofing Works
 
-There are several kinds of spoofing, including email spoofing, text message spoofing, caller ID spoofing, and URL and GPS spoofing. In short, if there's a form of online communication, spoofers are trying to scam their way into it—and into [your identity](https://www.investopedia.com/best-identity-theft-protection-services-5025069) and your assets.
+There are several kinds of spoofing, including email spoofing, text message spoofing, caller ID spoofing, and URL and GPS spoofing. In short, if there's a form of online communication, spoofers are trying to scam their way into it—and into [[your identity]](https://www.investopedia.com/best-identity-theft-protection-services-5025069) and your assets.
 
 ## Special Considerations
 
@@ -34,13 +34,13 @@ Be skeptical whenever you receive a message asking for personal information and 
 
 If you get an inquiry seeking personal information, don’t provide it. Hang up (or log off) and then look up the phone number or customer service email address from the entity purportedly contacting you for your personal information.
 
-If you think you’ve been spoofed, you can file a complaint at the FCC's [Consumer Complaint Center](https://consumercomplaints.fcc.gov/hc/en-us). The FCC doesn't act on individual complaints but will add that information to its database. If you've lost money because of spoofing, the FCC recommends contacting your local police.
+If you think you’ve been spoofed, you can file a complaint at the FCC's [[Consumer Complaint Center]](https://consumercomplaints.fcc.gov/hc/en-us). The FCC doesn't act on individual complaints but will add that information to its database. If you've lost money because of spoofing, the FCC recommends contacting your local police.
 
 ## Types of Spoofing
 
 ### Email Spoofing
 
-Sometimes referred to as [phishing](https://www.investopedia.com/terms/p/phishing.asp), this tactic is used by both dishonest advertisers and outright thieves. The spoofer sends out emails with a falsified “From:” line to try to trick victims into believing that the message is from a friend, their bank, or some other legitimate source. Any email that asks for your password, Social Security number, or any other personal information could be a trick.
+Sometimes referred to as [[phishing]](https://www.investopedia.com/terms/p/phishing.asp), this tactic is used by both dishonest advertisers and outright thieves. The spoofer sends out emails with a falsified “From:” line to try to trick victims into believing that the message is from a friend, their bank, or some other legitimate source. Any email that asks for your password, Social Security number, or any other personal information could be a trick.
 
 ### Text Message Spoofing
 
@@ -54,7 +54,7 @@ Spoofing comes in many forms, but the goal is usually to trick people into divul
 
 ### Neighbor Spoofing
 
-This is a type of caller ID spoofing in which the call will appear to be from someone you know or a person who lives near you. The [Federal Communications Commission (FCC)](https://www.investopedia.com/terms/f/fcc.asp) says that the Truth in Caller ID Act prohibits "anyone from transmitting misleading or inaccurate caller ID information with the intent to defraud, cause harm or wrongly obtain anything of value." If they're caught (and that's a big "if"), the spoofer can face penalties of up to $10,000 for each violation.
+This is a type of caller ID spoofing in which the call will appear to be from someone you know or a person who lives near you. The [[Federal Communications Commission (FCC)]](https://www.investopedia.com/terms/f/fcc.asp) says that the Truth in Caller ID Act prohibits "anyone from transmitting misleading or inaccurate caller ID information with the intent to defraud, cause harm or wrongly obtain anything of value." If they're caught (and that's a big "if"), the spoofer can face penalties of up to $10,000 for each violation.
 
 ### URL Spoofing
 

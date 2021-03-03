@@ -34,7 +34,7 @@ Internally, company marketing executives might use this figure to help determine
 
 Analysts use it to evaluate a product's real contribution to the company's bottom line.
 
-Among other things, an analyst can see whether a product is facing [margin pressure](https://www.investopedia.com/terms/m/marginpressure.asp). For example, assume XYZ Corp. has $250 million in revenue, and it sold 5 million units. By taking the ratio of the two ($250 million/5 million), the analyst can see that the average selling price (ASP) is $50 per unit. Suppose that in the next reporting period that same firm has an average selling price of $48. The analyst would consider this at least a red flag that calls for more research.
+Among other things, an analyst can see whether a product is facing [[margin pressure]](https://www.investopedia.com/terms/m/marginpressure.asp). For example, assume XYZ Corp. has $250 million in revenue, and it sold 5 million units. By taking the ratio of the two ($250 million/5 million), the analyst can see that the average selling price (ASP) is $50 per unit. Suppose that in the next reporting period that same firm has an average selling price of $48. The analyst would consider this at least a red flag that calls for more research.
 
 Comparing unit sales every year may help analysts determine if a company is moving in a positive direction. For example, Apple was predicted to sell approximately 235 million units of its iPhone during the 2015 fiscal year when the iPhone market was growing. These predicted sales were a dramatic increase over the 2014 fiscal year sales of about 170 million units worldwide. By 2019, the figure had dropped to about 38 million.
 
@@ -42,7 +42,7 @@ This did not hurt Apple's stock. In fact, its share price almost tripled in the 
 
 ### Break-Even Point (BEP)
 
-One component of unit sales analysis is the [break-even](https://www.investopedia.com/terms/b/breakevenpoint.asp) quantity. Break-even quantity is the number of units that must be sold before the company experiences no loss (and no profit) by producing it.
+One component of unit sales analysis is the [[break-even]](https://www.investopedia.com/terms/b/breakevenpoint.asp) quantity. Break-even quantity is the number of units that must be sold before the company experiences no loss (and no profit) by producing it.
 
 Internally, the unit sales figure is used to determine the correct price point for a product.
 

@@ -18,7 +18,7 @@ When Do You Need a Trust Deed?
 
 A trust deed—also known as a deed of trust—is a document sometimes used in real estate transactions in the U.S. It is a document that comes into play when one party has taken out a loan from another party to purchase a property. The trust deed represents an agreement between the borrower and a lender to have the property held in trust by a neutral and independent third party until the loan is paid off.
 
-Although trust deeds are less common than they once were, some 20 states still mandate the use of one, rather than a [mortgage](https://www.investopedia.com/terms/m/mortgage.asp), when financing is involved in the purchase of real estate. Trust deeds are common in Alaska, Arizona, California, Colorado, Idaho, Illinois, Mississippi, Missouri, Montana, North Carolina, Tennessee, Texas, Virginia, and West Virginia. A few states—such as Kentucky, Maryland, and South Dakota—allow the use of both trust deeds and mortgages.
+Although trust deeds are less common than they once were, some 20 states still mandate the use of one, rather than a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp), when financing is involved in the purchase of real estate. Trust deeds are common in Alaska, Arizona, California, Colorado, Idaho, Illinois, Mississippi, Missouri, Montana, North Carolina, Tennessee, Texas, Virginia, and West Virginia. A few states—such as Kentucky, Maryland, and South Dakota—allow the use of both trust deeds and mortgages.
 
 ### Key Takeaways
 
@@ -28,23 +28,23 @@ Although trust deeds are less common than they once were, some 20 states still m
 
 ## Understanding Trust Deeds
 
-In a real estate transaction—the purchase of a home, say—a lender gives the borrower money in exchange for one or more promissory notes linked to a trust deed. This deed transfers legal title to the real property to an impartial [trustee](https://www.investopedia.com/terms/t/trustee.asp), typically a title company, [escrow](https://www.investopedia.com/terms/e/escrow.asp) company, or bank, which holds it as collateral for the [promissory notes](https://www.investopedia.com/terms/p/promissorynote.asp). The equitable title—the right to obtain full ownership—remains with the borrower, as does full use of and responsibility for the property.
+In a real estate transaction—the purchase of a home, say—a lender gives the borrower money in exchange for one or more promissory notes linked to a trust deed. This deed transfers legal title to the real property to an impartial [[trustee]](https://www.investopedia.com/terms/t/trustee.asp), typically a title company, [[escrow]](https://www.investopedia.com/terms/e/escrow.asp) company, or bank, which holds it as collateral for the [[promissory notes]](https://www.investopedia.com/terms/p/promissorynote.asp). The equitable title—the right to obtain full ownership—remains with the borrower, as does full use of and responsibility for the property.
 
-This state of affairs continues throughout the repayment period of the loan. The trustee holds the legal title until the borrower pays the [debt](https://www.investopedia.com/terms/d/debt.asp) in full, at which point the title to the property becomes the borrower's. If the borrower defaults on the loan, the trustee takes full control of the property.
+This state of affairs continues throughout the repayment period of the loan. The trustee holds the legal title until the borrower pays the [[debt]](https://www.investopedia.com/terms/d/debt.asp) in full, at which point the title to the property becomes the borrower's. If the borrower defaults on the loan, the trustee takes full control of the property.
 
 ## Trust Deed vs. Mortgage
 
-Trust deeds and mortgages are both used in bank and private loans for creating [liens](https://www.investopedia.com/terms/l/lien.asp) on real estate, and both are typically recorded as debt in the county where the property is located.
+Trust deeds and mortgages are both used in bank and private loans for creating [[liens]](https://www.investopedia.com/terms/l/lien.asp) on real estate, and both are typically recorded as debt in the county where the property is located.
 
-However, a mortgage involves two parties: a borrower (or mortgagor) and a lender (or mortgagee). In contrast, a trust deed involves three parties: a borrower (or trustor), a lender (or beneficiary), and the trustee. The trustee holds title to the lien for the lender's benefit; if the borrower defaults, the trustee will initiate and complete the [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp) process at the lender's request.
+However, a mortgage involves two parties: a borrower (or mortgagor) and a lender (or mortgagee). In contrast, a trust deed involves three parties: a borrower (or trustor), a lender (or beneficiary), and the trustee. The trustee holds title to the lien for the lender's benefit; if the borrower defaults, the trustee will initiate and complete the [[foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp) process at the lender's request.
 
 Contrary to popular usage, a mortgage is not technically a loan to buy a property; it's an agreement that pledges the property as collateral for the loan.
 
 ## Foreclosures and Trust Deeds
 
-Mortgages and trust deeds have different foreclosure processes. A [judicial foreclosure](https://www.investopedia.com/terms/j/judicial_foreclosure.asp) is a court-supervised process enforced when the lender files a lawsuit against the borrower for defaulting on a mortgage. The process is time-consuming and expensive.
+Mortgages and trust deeds have different foreclosure processes. A [[judicial foreclosure]](https://www.investopedia.com/terms/j/judicial_foreclosure.asp) is a court-supervised process enforced when the lender files a lawsuit against the borrower for defaulting on a mortgage. The process is time-consuming and expensive.
 
-Also, if the foreclosed-property auction doesn't bring in enough money to pay off the promissory note, the lender may file a [deficiency judgment](https://www.investopedia.com/terms/d/deficiency-judgment.asp) against the borrower, suing for the balance. However, even after the property is sold, the borrower has the [right of redemption](https://www.investopedia.com/terms/r/right-of-redemption.asp): They may repay the lender within a set amount of time and acquire the property title.
+Also, if the foreclosed-property auction doesn't bring in enough money to pay off the promissory note, the lender may file a [[deficiency judgment]](https://www.investopedia.com/terms/d/deficiency-judgment.asp) against the borrower, suing for the balance. However, even after the property is sold, the borrower has the [[right of redemption]](https://www.investopedia.com/terms/r/right-of-redemption.asp): They may repay the lender within a set amount of time and acquire the property title.
 
 In contrast, a trust deed lets the lender commence a faster and less-expensive non-judicial foreclosure, bypassing the court system and adhering to the procedures outlined in the trust deed and state law. If the borrower does not make the loan current, the property is put up for auction through a trustee's sale.
 
@@ -74,9 +74,9 @@ Cons
 
 What sort of developer enters this arrangement? Banks are often reluctant to lend to certain types of developments, such as mid-size commercial projects—too small for the big lenders, too big for the small ones—or developers with poor track records or too many loans. Cautious lenders may also move too slowly for developers up against a tight deadline for commencing or completing a project.
 
-Developers like these are often in a bit of a crunch. For these reasons, trust deed investors may often expect high-interest rates on their money. They can reap the benefits of diversifying into a different asset class, without having to be experts in real-estate construction or management: This is a [passive investment](https://www.investopedia.com/terms/p/passiveinvesting.asp).
+Developers like these are often in a bit of a crunch. For these reasons, trust deed investors may often expect high-interest rates on their money. They can reap the benefits of diversifying into a different asset class, without having to be experts in real-estate construction or management: This is a [[passive investment]](https://www.investopedia.com/terms/p/passiveinvesting.asp).
 
-Trust deed investing has certain risks and disadvantages. Unlike stocks, real estate investments are not [liquid](https://www.investopedia.com/terms/l/liquidasset.asp), meaning investors cannot retrieve their money on demand. Also, investors can expect only the interest the loan generates; any additional capital appreciation is unlikely.
+Trust deed investing has certain risks and disadvantages. Unlike stocks, real estate investments are not [[liquid]](https://www.investopedia.com/terms/l/liquidasset.asp), meaning investors cannot retrieve their money on demand. Also, investors can expect only the interest the loan generates; any additional capital appreciation is unlikely.
 
 Invested parties may exploit any legal discrepancies in the trust deed, causing costly legal entanglements that may endanger the investment. The typical investor with little experience may have difficulty, as it takes specific expertise to find credible and trustworthy developers, projects, and brokers. 
 
@@ -92,6 +92,6 @@ After this section, the document goes on to specify the transfer of rights in th
 -   Property insurance and structure maintenance
 -   Structure occupancy—stipulating the borrower must take up residency within 60 days
 
-The form also includes nonuniform covenants, which specify default or breach of any of the agreement terms. And it specifies that the loan the document deals with is not a [home equity loan](https://www.investopedia.com/terms/h/homeequityloan.asp)—that is, something the borrower will receive cash from—but one for purchasing the property.
+The form also includes nonuniform covenants, which specify default or breach of any of the agreement terms. And it specifies that the loan the document deals with is not a [[home equity loan]](https://www.investopedia.com/terms/h/homeequityloan.asp)—that is, something the borrower will receive cash from—but one for purchasing the property.
 
-The deed of trust ends with a space for the borrower's signature, which must be done in the presence of a [notary](https://www.investopedia.com/terms/n/notary.asp) and two witnesses, who also sign.
+The deed of trust ends with a space for the borrower's signature, which must be done in the presence of a [[notary]](https://www.investopedia.com/terms/n/notary.asp) and two witnesses, who also sign.

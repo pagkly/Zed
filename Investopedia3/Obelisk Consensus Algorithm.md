@@ -16,13 +16,13 @@ author: Jake Frankenfield
 Obelisk Consensus Algorithm
 ## DEFINITION of Obelisk Consensus Algorithm
 
-Obelisk is a promising [consensus algorithm](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) which aims to eliminate the shortcomings of [proof of work (POW)](https://www.investopedia.com/terms/p/proof-work.asp) and [proof of stake (POS)](https://www.investopedia.com/terms/p/proof-stake-pos.asp) algorithms and makes it possible to maintain the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) state across the distributed network with minimal computing power and no need for stake-related requirements. It reduces the need for mining, significantly improves transaction speed, and delivers enhanced security.
+Obelisk is a promising [[consensus algorithm]](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) which aims to eliminate the shortcomings of [[proof of work (POW)]](https://www.investopedia.com/terms/p/proof-work.asp) and [[proof of stake (POS)]](https://www.investopedia.com/terms/p/proof-stake-pos.asp) algorithms and makes it possible to maintain the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) state across the distributed network with minimal computing power and no need for stake-related requirements. It reduces the need for mining, significantly improves transaction speed, and delivers enhanced security.
 
 ## BREAKING DOWN Obelisk Consensus Algorithm
 
 Public blockchains operate on a global scale as self-regulated, decentralized platforms without any single authority. A real-time, reliable and secure network mechanism is required to ensure the authenticity of the transactions occurring on the network as well as a consensus on the ledger's status. This all-important activity is performed by the consensus algorithm, which is a network protocol that decides on the contributions by the various blockchain participants.
 
-While [proof of work (POW)](https://www.investopedia.com/terms/p/proof-work.asp) used by [Bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) and [Litecoin](https://www.investopedia.com/terms/l/litecoin.asp), and [proof of stake (POS)](https://www.investopedia.com/terms/p/proof-stake-pos.asp) used by Dash and NEO, are the two most commonly used consensus algorithms, they both have a few drawbacks. POW is said to be energy-intensive, and POS promotes cryptocurrency hoarding instead of spending.
+While [[proof of work (POW)]](https://www.investopedia.com/terms/p/proof-work.asp) used by [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) and [Litecoin](https://www.investopedia.com/terms/l/litecoin.asp), and [[proof of stake (POS)]](https://www.investopedia.com/terms/p/proof-stake-pos.asp) used by Dash and NEO, are the two most commonly used consensus algorithms, they both have a few drawbacks. POW is said to be energy-intensive, and POS promotes cryptocurrency hoarding instead of spending.
 
 ## How Does Obelisk Work?
 
@@ -38,4 +38,4 @@ In terms of roles and activities performed, there are two types of nodes on Obel
 
 Obelisk has the potential of high scalability and low energy consumption. Block generation can be run on low-cost hardware. The algorithm can easily and efficiently run on a sparse network with only nearest-neighbor connectivity, instead of needing high bandwidth connection.
 
-Obelisk is used by [SkyCoin](https://www.investopedia.com/terms/s/skycoin-sky-cryptocurrency.asp), which is emerging as a complete ecosystem of blockchain technology and was introduced to promote the use of cryptocurrency and public ledger technology as a “true” currency, instead of another medium for speculative cryptocurrency bets valuation.
+Obelisk is used by [[SkyCoin]](https://www.investopedia.com/terms/s/skycoin-sky-cryptocurrency.asp), which is emerging as a complete ecosystem of blockchain technology and was introduced to promote the use of cryptocurrency and public ledger technology as a “true” currency, instead of another medium for speculative cryptocurrency bets valuation.

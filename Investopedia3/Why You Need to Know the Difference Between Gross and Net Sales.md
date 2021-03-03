@@ -32,13 +32,13 @@ Gross sales are calculated by adding all sales receipts before discounts, return
 
 ## What Gross Sales Can Tell You?
 
-Gross sales can be an important tool, specifically for stores that sell retail items, but it is not the final word in a company's [revenue](https://www.investopedia.com/terms/r/revenue.asp). Ultimately, it is a reflection of the total amount of revenue a business brings in during a certain period of time, but it does not account for all of the expenses accrued throughout [the process of generating the products](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp) that have been sold. Gross sales are not typically listed on an income statement or often listed as total revenue. [Net sales](https://www.investopedia.com/terms/n/netsales.asp) reflect a truer picture of a company's [top line](https://www.investopedia.com/terms/t/topline.asp).
+Gross sales can be an important tool, specifically for stores that sell retail items, but it is not the final word in a company's [[revenue]](https://www.investopedia.com/terms/r/revenue.asp). Ultimately, it is a reflection of the total amount of revenue a business brings in during a certain period of time, but it does not account for all of the expenses accrued throughout [[the process of generating the products]](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp) that have been sold. Gross sales are not typically listed on an income statement or often listed as total revenue. [[Net sales]](https://www.investopedia.com/terms/n/netsales.asp) reflect a truer picture of a company's [[top line]](https://www.investopedia.com/terms/t/topline.asp).
 
 Analysts often find it helpful to plot gross sales lines and net sales lines together on a graph to determine how each value is trending over a period of time. If both lines increase together, this could indicate trouble with product quality because costs are also increasing, but it may also be an indication of a higher volume of discounts. These figures must be watched over a moderate period of time to make an accurate determination of their significance. Gross sales can be used to show consumer spending habits.
 
 ## Example of How to Use Gross Sales
 
-Most companies don’t provide gross sales in their publicly filed [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp). Instead, it’s generally used as an internal number. For example, a company like Dollar General (NYSE: DG) or Target (NYSE: TGT) sells products to customers.
+Most companies don’t provide gross sales in their publicly filed [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp). Instead, it’s generally used as an internal number. For example, a company like Dollar General (NYSE: DG) or Target (NYSE: TGT) sells products to customers.
 
 However, they offer discounts and experience product returns. These companies and many others choose not to report gross sales, instead of presenting net sales on their financial statements. Net sales already have discounts, returns and other allowances already factored in.
 
@@ -50,6 +50,6 @@ Net sales reflect all reductions in the price paid by customers, discounts on go
 
 ## Limitations of Using Gross Sales
 
-Gross sales are generally only significant to companies that operate in the [consumer retail industry](https://www.investopedia.com/articles/stocks/10/the-four-rs-of-retail.asp), reflecting the amount of a product that a business sells relative to its major competitors. A company may decide to present gross sales, deductions and net sales on different lines within an [income statement](https://www.investopedia.com/terms/i/incomestatement.asp).
+Gross sales are generally only significant to companies that operate in the [[consumer retail industry]](https://www.investopedia.com/articles/stocks/10/the-four-rs-of-retail.asp), reflecting the amount of a product that a business sells relative to its major competitors. A company may decide to present gross sales, deductions and net sales on different lines within an [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp).
 
 However, this is generally more confusing, so net sales are typically the only value presented. When gross sales are presented on a separate line, the figure is often misleading, because it tends to overstate the amount of sales performed and inhibits readers from determining the total of the various sales deductions.

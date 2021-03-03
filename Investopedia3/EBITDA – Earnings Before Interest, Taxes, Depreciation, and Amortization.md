@@ -16,9 +16,9 @@ author: Adam Hayes
 EBITDA – Earnings Before Interest, Taxes, Depreciation, and Amortization
 ## What Is Earnings Before Interest, Taxes, Depreciation, and Amortization – EBITDA?
 
-EBITDA, or earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall [financial performance](https://www.investopedia.com/terms/f/financialperformance.asp) and is used as an alternative to [net income](https://www.investopedia.com/terms/n/netincome.asp) in some circumstances. EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment.
+EBITDA, or earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall [[financial performance]](https://www.investopedia.com/terms/f/financialperformance.asp) and is used as an alternative to [[net income]](https://www.investopedia.com/terms/n/netincome.asp) in some circumstances. EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment.
 
-This metric also excludes expenses associated with debt by adding back [interest expense](https://www.investopedia.com/terms/i/interestexpense.asp) and taxes to earnings. Nonetheless, it is a more precise measure of corporate performance since it is able to show earnings before the influence of accounting and financial deductions.
+This metric also excludes expenses associated with debt by adding back [[interest expense]](https://www.investopedia.com/terms/i/interestexpense.asp) and taxes to earnings. Nonetheless, it is a more precise measure of corporate performance since it is able to show earnings before the influence of accounting and financial deductions.
 
 Simply put, EBITDA is a measure of profitability. While there is no legal requirement for companies to disclose their EBITDA, according to the U.S. [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), it can be worked out and reported using the information found in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp).
 
@@ -45,33 +45,33 @@ EBITDA first came to prominence in the mid-1980s as [leveraged buyout](https://
 
 [Leveraged](https://www.investopedia.com/terms/l/leverage.asp) [buyout](https://www.investopedia.com/terms/b/buyout.asp) [banker](https://www.investopedia.com/terms/i/investmentbanker.asp)s promoted EBITDA as a tool to determine whether a company could service its debt in the near term, say over a year or two. Looking at the company's [EBITDA-to-interest coverage ratio](https://www.investopedia.com/terms/e/ebitdacoverinterestratio.asp) (in theory, at least) would give investors a sense of whether a company could meet the heavier interest payments it would face after restructuring. For instance, bankers might argue that a company with EBITDA of $5 million and interest charges of $2.5 million had interest coverage of two – more than enough to pay off debt.
 
-EBITDA was a popular metric in the 1980s to measure a company's ability to service the debt used in a [leveraged buyout](https://www.investopedia.com/terms/l/leveragedbuyout.asp) (LBO). Using a limited measure of profits before a company has become fully leveraged in an LBO is appropriate. EBITDA was popularized further during the ["dot com" bubble](https://www.investopedia.com/terms/d/dotcom-bubble.asp) when companies had very expensive assets and debt loads that were obscuring what analysts and managers felt were legitimate growth numbers.
+EBITDA was a popular metric in the 1980s to measure a company's ability to service the debt used in a [[leveraged buyout]](https://www.investopedia.com/terms/l/leveragedbuyout.asp) (LBO). Using a limited measure of profits before a company has become fully leveraged in an LBO is appropriate. EBITDA was popularized further during the ["dot com" bubble](https://www.investopedia.com/terms/d/dotcom-bubble.asp) when companies had very expensive assets and debt loads that were obscuring what analysts and managers felt were legitimate growth numbers.
 
 ## Using EBITDA
 
 The use of EBITDA has since spread to a wide range of businesses. Its proponents argue that EBITDA offers a clearer reflection of operations by stripping out expenses that can obscure how the company is really performing.
 
-EBITDA is essentially net income (or earnings) with interest, taxes, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), and [amortization](https://www.investopedia.com/terms/a/amortization.asp) added back. EBITDA can be used to analyze and compare profitability among companies and industries, as it eliminates the effects of financing and capital expenditures. EBITDA is often used in valuation ratios and can be compared to [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) and revenue.
+EBITDA is essentially net income (or earnings) with interest, taxes, [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), and [[amortization]](https://www.investopedia.com/terms/a/amortization.asp) added back. EBITDA can be used to analyze and compare profitability among companies and industries, as it eliminates the effects of financing and capital expenditures. EBITDA is often used in valuation ratios and can be compared to [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) and revenue.
 
-Interest expenses and (to a lesser extent) interest income are added back to net income, which neutralizes the [cost of debt](https://www.investopedia.com/terms/c/costofdebt.asp), as well as the effect interest payments, have on taxes. Income taxes are also added back to net income, which does not always increase EBITDA if the company has a [net loss](https://www.investopedia.com/terms/n/netloss.asp). Companies tend to spotlight their EBITDA performance when they do not have very impressive (or even positive) net income. It's not always a telltale sign of malicious market trickery, but it can sometimes be used to distract investors from the lack of real profitability.
+Interest expenses and (to a lesser extent) interest income are added back to net income, which neutralizes the [[cost of debt]](https://www.investopedia.com/terms/c/costofdebt.asp), as well as the effect interest payments, have on taxes. Income taxes are also added back to net income, which does not always increase EBITDA if the company has a [[net loss]](https://www.investopedia.com/terms/n/netloss.asp). Companies tend to spotlight their EBITDA performance when they do not have very impressive (or even positive) net income. It's not always a telltale sign of malicious market trickery, but it can sometimes be used to distract investors from the lack of real profitability.
 
-Companies use depreciation and amortization accounts to expense the cost of property, plants, and equipment, or [capital investments](https://www.investopedia.com/terms/c/capital-investment.asp). Amortization is often used to expense the cost of software development or other [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp). This is one of the reasons that early-stage technology and research companies feature EBITDA when communicating with investors and analysts.
+Companies use depreciation and amortization accounts to expense the cost of property, plants, and equipment, or [[capital investments]](https://www.investopedia.com/terms/c/capital-investment.asp). Amortization is often used to expense the cost of software development or other [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp). This is one of the reasons that early-stage technology and research companies feature EBITDA when communicating with investors and analysts.
 
 Management teams will argue that using EBITDA gives a better picture of profit growth trends when the expense accounts associated with capital are excluded. While there is nothing necessarily misleading about using EBITDA as a growth metric, it can sometimes overshadow a company's actual financial performance and risks.
 
 ## The Drawbacks of EBITDA
 
-EBITDA does not fall under [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) as a measure of financial performance. Because EBITDA is a "non-GAAP" measure, its calculation can vary from one company to the next. It is not uncommon for companies to emphasize EBITDA over net income because it is more flexible and can distract from other problem areas in the [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp).
+EBITDA does not fall under [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) as a measure of financial performance. Because EBITDA is a "non-GAAP" measure, its calculation can vary from one company to the next. It is not uncommon for companies to emphasize EBITDA over net income because it is more flexible and can distract from other problem areas in the [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp).
 
 An important red flag for investors to watch is when a company starts to report EBITDA prominently when it hasn't done so in the past. This can happen when companies have borrowed heavily or are experiencing rising capital and development costs. In this circumstance, EBITDA can serve as a distraction for investors and may be misleading.
 
 ### Ignores Costs of Assets
 
-A common misconception is that EBITDA represents cash earnings. However, unlike [free cash flow](https://www.investopedia.com/terms/f/freecashflow.asp), EBITDA ignores the cost of assets. One of the most common criticisms of EBITDA is that it assumes that profitability is a function of sales and operations alone – almost as if the assets and financing the company needs to survive were a gift.
+A common misconception is that EBITDA represents cash earnings. However, unlike [[free cash flow]](https://www.investopedia.com/terms/f/freecashflow.asp), EBITDA ignores the cost of assets. One of the most common criticisms of EBITDA is that it assumes that profitability is a function of sales and operations alone – almost as if the assets and financing the company needs to survive were a gift.
 
 ### Ignores Working Capital
 
-EBITDA also leaves out the cash required to fund [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) and the replacement of old equipment. For example, a company may be able to sell a product for a profit, but what did it use to acquire the [inventory](https://www.investopedia.com/terms/i/inventory.asp) needed to fill its sales channels? In the case of a software company, EBITDA does not recognize the expense of developing the current software versions or upcoming products.
+EBITDA also leaves out the cash required to fund [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) and the replacement of old equipment. For example, a company may be able to sell a product for a profit, but what did it use to acquire the [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) needed to fill its sales channels? In the case of a software company, EBITDA does not recognize the expense of developing the current software versions or upcoming products.
 
 ### Varying Starting Points
 
@@ -79,7 +79,7 @@ While subtracting interest payments, tax charges, depreciation, and amortization
 
 ### Obscures Company Valuation
 
-Worst of all, [EBITDA](https://www.investopedia.com/ask/answers/061515/which-metric-should-i-pay-more-attention-evebitda-or-pe.asp) can make a company look less expensive than it really is. When analysts look at stock price multiples of EBITDA rather than bottom-line earnings, they produce lower multiples.
+Worst of all, [[EBITDA]](https://www.investopedia.com/ask/answers/061515/which-metric-should-i-pay-more-attention-evebitda-or-pe.asp) can make a company look less expensive than it really is. When analysts look at stock price multiples of EBITDA rather than bottom-line earnings, they produce lower multiples.
 
 Consider the historical example of wireless telecom operator Sprint Nextel. April 1, 2006, the stock was trading at 7.3 times its forecast EBITDA. That might sound like a low multiple, but it doesn't mean the company is a bargain. As a multiple of forecast operating profits, Sprint Nextel traded at a much higher 20 times. The company traded at 48 times its estimated net income. Investors need to consider other price multiples besides EBITDA when assessing a company's value.
 
@@ -87,7 +87,7 @@ Consider the historical example of wireless telecom operator Sprint Nextel. Apri
 
 Earnings before interest, taxes, depreciation, and amortization (EBITDA) adds depreciation and amortization expenses back into a company's operating profit. Analysts usually rely on EBITDA to evaluate a company's ability to generate profits from sales alone and to make comparisons across similar companies with different capital structures. EBITDA is a non-GAAP measure and can sometimes be used intentionally to obscure the real profit performance of a company.
 
-Because of these issues, EBITDA is featured more prominently by [developmental-stage](https://www.investopedia.com/terms/d/developmentstage.asp) companies or those with heavy debt loads and expensive assets.
+Because of these issues, EBITDA is featured more prominently by [[developmental-stage]](https://www.investopedia.com/terms/d/developmentstage.asp) companies or those with heavy debt loads and expensive assets.
 
 The measurement's sometimes bad reputation is mostly a result of overexposure and improper use. Just as a shovel is effective for digging holes, it wouldn't be the best tool for tightening screws or inflating tires. Thus, EBITDA shouldn't be used as a one-size-fits-all, stand-alone tool for evaluating corporate profitability. This is a particularly valid point when one considers that EBITDA calculations do not conform to generally accepted accounting principles (GAAP).
 
@@ -111,11 +111,11 @@ Since depreciation is not captured in EBITDA, it can lead to profit distortion
 
 [Operating cash flow](https://www.investopedia.com/terms/o/operatingcashflow.asp) is a better measure of how much cash a company is generating because it adds non-cash charges (depreciation and amortization) back to net income and includes the changes in [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) that also use or provide cash (such as changes in receivables, payables, and inventories).
 
-These working capital factors are the key to determining how much cash a company is generating. If investors do not include changes in working capital in their analysis and [rely solely on EBITDA](https://www.investopedia.com/ask/answers/012015/what-difference-between-cash-flow-and-ebidta.asp), they will miss clues that indicate whether a company is struggling with cash flow because it's not collecting on its receivables.
+These working capital factors are the key to determining how much cash a company is generating. If investors do not include changes in working capital in their analysis and [[rely solely on EBITDA]](https://www.investopedia.com/ask/answers/012015/what-difference-between-cash-flow-and-ebidta.asp), they will miss clues that indicate whether a company is struggling with cash flow because it's not collecting on its receivables.
 
 ## Example of Using EBITDA
 
-A retail company generates $100 million in revenue and incurs $40 million in [production cost](https://www.investopedia.com/terms/p/production-cost.asp) and $20 million in [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp). Depreciation and amortization expenses total $10 million, yielding an operating profit of $30 million. Interest expense is $5 million, which equals earnings before taxes of $25 million. With a 20% tax rate, net income equals $20 million after $5 million in taxes are subtracted from pre-tax income. If depreciation, amortization, interest, and taxes are added back to net income, EBITDA equals $40 million.
+A retail company generates $100 million in revenue and incurs $40 million in [[production cost]](https://www.investopedia.com/terms/p/production-cost.asp) and $20 million in [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp). Depreciation and amortization expenses total $10 million, yielding an operating profit of $30 million. Interest expense is $5 million, which equals earnings before taxes of $25 million. With a 20% tax rate, net income equals $20 million after $5 million in taxes are subtracted from pre-tax income. If depreciation, amortization, interest, and taxes are added back to net income, EBITDA equals $40 million.
 
 Net Income
 
@@ -137,7 +137,7 @@ EBITDA
 
 **$40,000,000**
 
-Many investors use EBITDA to make comparisons between companies with different [capital structures](https://www.investopedia.com/terms/c/capitalstructure.asp) or tax jurisdictions. Assuming that two companies are both profitable on an EBITDA basis, a comparison like this could help investors identify a company that is growing more quickly from a product sales perspective.
+Many investors use EBITDA to make comparisons between companies with different [[capital structures]](https://www.investopedia.com/terms/c/capitalstructure.asp) or tax jurisdictions. Assuming that two companies are both profitable on an EBITDA basis, a comparison like this could help investors identify a company that is growing more quickly from a product sales perspective.
 
 For example, imagine two companies with different capital structures but a similar business. Company A has a current EBITDA of $20,000,000 and Company B has EBITDA of $17,500,000. An analyst is evaluating both firms to determine which has the most attractive value.
 
@@ -182,8 +182,8 @@ Net Income
 In this example, both companies have the same net income largely because Company B has a smaller interest expense account. There are a few possible conclusions that can help the analyst dig a little deeper into the true value of these two companies:
 
 -   Is it possible that Company B could borrow more and increase both EBITDA and net income? If the company is underutilizing its ability to borrow, this could be a source of potential growth and value.
--   If both companies have the same amount of debt, perhaps Company A has a lower [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) and must pay a higher [interest rate](https://www.investopedia.com/terms/i/interestrate.asp). This may indicate additional risk compared to Company B and a lower value.
--   Based on the amount of depreciation and amortization, Company B is generating less EBITDA with more [assets](https://www.investopedia.com/terms/a/asset.asp) than Company A. This could indicate an inefficient management team and a problem for Company B's valuation.
+-   If both companies have the same amount of debt, perhaps Company A has a lower [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) and must pay a higher [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp). This may indicate additional risk compared to Company B and a lower value.
+-   Based on the amount of depreciation and amortization, Company B is generating less EBITDA with more [[assets]](https://www.investopedia.com/terms/a/asset.asp) than Company A. This could indicate an inefficient management team and a problem for Company B's valuation.
 
 ## Frequently Asked Questions
 

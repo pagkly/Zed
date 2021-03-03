@@ -16,19 +16,19 @@ author: Will Kenton
 Who Was Friedrich Hayek?
 ## Who Was Friedrich Hayek?
 
-Friedrich Hayek is a famous economist born in Vienna, Austria, in 1899. He is well-known for his numerous contributions to the field of economics and political philosophy. Hayek's approach mostly stems from the [Austrian school](https://www.investopedia.com/terms/a/austrian_school.asp) of economics and emphasizes the limited nature of knowledge. He is particularly famous for his defense of free-market capitalism and is remembered as one of the greatest critics of the socialist consensus.
+Friedrich Hayek is a famous economist born in Vienna, Austria, in 1899. He is well-known for his numerous contributions to the field of economics and political philosophy. Hayek's approach mostly stems from the [[Austrian school]](https://www.investopedia.com/terms/a/austrian_school.asp) of economics and emphasizes the limited nature of knowledge. He is particularly famous for his defense of free-market capitalism and is remembered as one of the greatest critics of the socialist consensus.
 
-Friedrich Hayek is the co-winner of The Sveriges Riksbank Prize in Economic Sciences in Memory of [Alfred Nobel](https://www.investopedia.com/terms/a/alfred-nobel.asp) (the Nobel Prize for Economics) in 1974. He died on March 23, 1992.
+Friedrich Hayek is the co-winner of The Sveriges Riksbank Prize in Economic Sciences in Memory of [[Alfred Nobel]](https://www.investopedia.com/terms/a/alfred-nobel.asp) (the Nobel Prize for Economics) in 1974. He died on March 23, 1992.
 
 ## Understanding Friedrich Hayek
 
-According to the official Nobel Prize website, Friedrich Hayek and [Gunnar Myrdal](https://www.investopedia.com/terms/g/gunnar-myrdal.asp) each won the Nobel Prize in Economics in 1974 "for their pioneering work in the theory of money and economic fluctuations and their penetrating analysis of the interdependence of economic, social and institutional phenomena." After his death, some of the universities Hayek had taught at made tributes to him (such as naming an auditorium after him).
+According to the official Nobel Prize website, Friedrich Hayek and [[Gunnar Myrdal]](https://www.investopedia.com/terms/g/gunnar-myrdal.asp) each won the Nobel Prize in Economics in 1974 "for their pioneering work in the theory of money and economic fluctuations and their penetrating analysis of the interdependence of economic, social and institutional phenomena." After his death, some of the universities Hayek had taught at made tributes to him (such as naming an auditorium after him).
 
 ### Key Takeaways
 
 -   Social theorist and political philosopher Friedrich Hayek and his colleague Gunnar Myrdal each won the Nobel Prize in Economics in 1974.
 -   His theory on how changing prices relay information that helps people determine their economic plans was a stunning milestone achievement in economics.
--   Hayek's approach to economics mainly came from the [Austrian school](https://www.investopedia.com/terms/a/austrian_school.asp) of economics.
+-   Hayek's approach to economics mainly came from the [[Austrian school]](https://www.investopedia.com/terms/a/austrian_school.asp) of economics.
 -   He was an ardent defender of free-market capitalism.
 -   Hayek is considered by most experts as one of the greatest critics of the socialist consensus.
 

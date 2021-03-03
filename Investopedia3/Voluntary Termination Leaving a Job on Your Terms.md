@@ -18,7 +18,7 @@ Voluntary Termination: Leaving a Job on Your Terms
 
 Voluntary termination may refer to a variety of actions, but most commonly, it refers to an employee's decision to leave a job on their own accord. It differs from a layoff or a firing, in which the decision to end employment was made by the employer or another party, rather than the employee.
 
-Voluntary termination can also be a reference to the voluntary [cancellation](https://www.investopedia.com/terms/c/cancellation.asp) of personal financial contracts, such as car leases or cell phone contracts, or the voluntary cancellation of institutional level contracts such as credit default swaps and [interest rate swaps](https://www.investopedia.com/terms/i/interestrateswap.asp).
+Voluntary termination can also be a reference to the voluntary [[cancellation]](https://www.investopedia.com/terms/c/cancellation.asp) of personal financial contracts, such as car leases or cell phone contracts, or the voluntary cancellation of institutional level contracts such as credit default swaps and [[interest rate swaps]](https://www.investopedia.com/terms/i/interestrateswap.asp).
 
 ### Key Takeaways
 
@@ -31,11 +31,11 @@ Voluntary termination can also be a reference to the voluntary [cancellation](ht
 
 An employee may choose to leave a job for a wide variety of reasons. For example, a change in personal circumstances such as family demands, a choice to go back to school, dissatisfaction with working conditions such as a hostile supervisor, lack of recognition of work performance, and lack of autonomy, challenge, or work relationships (among others).
 
-An especially common reason for voluntary termination is leaving for a new and better job, typically one that offers higher [remuneration](https://www.investopedia.com/terms/r/remuneration.asp) or improved career prospects. This is more likely to be cited as a reason for leaving a job during periods of strong economic growth and labor market demand than during recessionary times.
+An especially common reason for voluntary termination is leaving for a new and better job, typically one that offers higher [[remuneration]](https://www.investopedia.com/terms/r/remuneration.asp) or improved career prospects. This is more likely to be cited as a reason for leaving a job during periods of strong economic growth and labor market demand than during recessionary times.
 
 During recessionary times, or even during times when a particular firm is under duress, companies going through downsizing may ask some employees to voluntarily resign in order to reduce the number of layoffs the firm must carry out. In these circumstances, the company may offer the employee that is leaving voluntarily an improved exit package, including extra weeks of severance pay, longer coverage of health insurance and any other benefits.
 
-Conventional wisdom suggests that workers do not [leave jobs but rather leave supervisors](https://hbr.org/2018/01/why-people-really-quit-their-jobs) over conflicts in management style, lack of respect, or poor communication over goals, objectives, and practices.
+Conventional wisdom suggests that workers do not [[leave jobs but rather leave supervisors]](https://hbr.org/2018/01/why-people-really-quit-their-jobs) over conflicts in management style, lack of respect, or poor communication over goals, objectives, and practices.
 
 ## How Voluntary Termination Works
 

@@ -16,7 +16,7 @@ author: Will Kenton
 Fair Debt Collection Practices Act (FDCPA)
 ## What Is the Fair Debt Collection Practices Act (FDCPA)?
 
-The Fair Debt Collection Practices Act (FDCPA) is a federal law that limits the actions of third-party debt collectors who are attempting to collect debts on behalf of another person or entity. The law restricts the ways that collectors can contact [debtors](https://www.investopedia.com/terms/d/debtor.asp), as well as the time of day and number of times that contact can be made. If the FDCPA is violated, the debtor can sue the debt collection company as well as the individual debt collector for damages and attorney fees.
+The Fair Debt Collection Practices Act (FDCPA) is a federal law that limits the actions of third-party debt collectors who are attempting to collect debts on behalf of another person or entity. The law restricts the ways that collectors can contact [[debtors]](https://www.investopedia.com/terms/d/debtor.asp), as well as the time of day and number of times that contact can be made. If the FDCPA is violated, the debtor can sue the debt collection company as well as the individual debt collector for damages and attorney fees.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The Fair Debt Collection Practices Act (FDCPA) is a federal law that limits the 
 
 ## How the Fair Debt Collection Practices Act Works
 
-The FDCPA does not protect debtors from those who are attempting to collect a personal debt. If you owe money to the local hardware store, for example, and the owner of the store calls you to collect that debt, that person is not a [debt collector](https://www.investopedia.com/terms/d/debt-collector.asp) under the terms of this act. The FDCPA only applies to third-party debt collectors, such as those who work for a debt [collection agency](https://www.investopedia.com/terms/c/collectionagency.asp). Credit card debt, medical bills, student loans, mortgages, and other kinds of household debt are covered by the law.
+The FDCPA does not protect debtors from those who are attempting to collect a personal debt. If you owe money to the local hardware store, for example, and the owner of the store calls you to collect that debt, that person is not a [[debt collector]](https://www.investopedia.com/terms/d/debt-collector.asp) under the terms of this act. The FDCPA only applies to third-party debt collectors, such as those who work for a debt [[collection agency]](https://www.investopedia.com/terms/c/collectionagency.asp). Credit card debt, medical bills, student loans, mortgages, and other kinds of household debt are covered by the law.
 
 #### The Fair Debt Collection Practices Act (FDCPA)
 

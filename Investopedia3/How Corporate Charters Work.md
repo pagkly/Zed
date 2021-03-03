@@ -16,7 +16,7 @@ author: Will Kenton
 How Corporate Charters Work
 ## What Is a Corporate Charter?
 
-A corporate charter, also known as a "charter" or "[articles of incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp)," is a written document filed with the Secretary of State (or registrar in Canada) by the founders of a corporation. It details the major components of a company, such as its objectives, structure, and planned operations. If approved by the state, the company becomes a legal [corporation](https://www.investopedia.com/terms/c/corporation.asp).
+A corporate charter, also known as a "charter" or "[articles of incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp)," is a written document filed with the Secretary of State (or registrar in Canada) by the founders of a corporation. It details the major components of a company, such as its objectives, structure, and planned operations. If approved by the state, the company becomes a legal [[corporation]](https://www.investopedia.com/terms/c/corporation.asp).
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ A corporate charter is a document establishing a company as a corporation in the
 
 ## Requirements of Corporate Charters
 
-At the most basic level, the corporate charter includes the corporation's name, its purpose, whether the corporation is a for-profit or [nonprofit](https://www.investopedia.com/terms/n/non-profitorganization.asp) institution, the location of the corporation, the number of shares that are authorized to be issued, and the names of the parties involved in the formation. Corporate charters are filed with the state secretary in which the corporation is located. Typically, the state in which the company is located charges a filing fee to process the corporate charter.
+At the most basic level, the corporate charter includes the corporation's name, its purpose, whether the corporation is a for-profit or [[nonprofit]](https://www.investopedia.com/terms/n/non-profitorganization.asp) institution, the location of the corporation, the number of shares that are authorized to be issued, and the names of the parties involved in the formation. Corporate charters are filed with the state secretary in which the corporation is located. Typically, the state in which the company is located charges a filing fee to process the corporate charter.
 
 Some government websites provide templates for corporate charters. However, some businesses opt to consult and hire business lawyers when creating and filing corporate charters to provide more legitimate and favorable legal business documents and environments.
 

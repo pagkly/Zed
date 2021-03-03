@@ -38,6 +38,6 @@ Dillard II and his siblings in upper management have been excellent caretakers o
 
 This will eventually become a problem for the company as these customers are replaced by younger consumers who expect online interaction and more innovative styles.
 
-Dillard II's legacy as a titan of the industry my rest on the ability of his son, William T. Dillard III's, ability to usher the company into the digital age. Dillard III is a senior vice president at Dillard's Inc. It's not clear if he is the next in line to run the company, but given the tight-knit family business, this [succession](https://www.hbo.com/succession) scenario is heavily speculated.
+Dillard II's legacy as a titan of the industry my rest on the ability of his son, William T. Dillard III's, ability to usher the company into the digital age. Dillard III is a senior vice president at Dillard's Inc. It's not clear if he is the next in line to run the company, but given the tight-knit family business, this [[succession]](https://www.hbo.com/succession) scenario is heavily speculated.
 
 William Dillard II has served on the board of directors of Acxiom Corporation since 1988 and on the board of directors of Barnes & Noble, Inc. since 1993. In 2015, he received the University of Arkansas Chancellor's Medal for service in higher education and society. He was inducted into the Arkansas Business Hall of Fame in 2016.

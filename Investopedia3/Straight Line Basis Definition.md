@@ -16,19 +16,19 @@ author: Daniel Liberto
 Straight Line Basis Definition
 ## What Is Straight Line Basis?
 
-Straight line basis is a method of calculating [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) and [amortization](https://www.investopedia.com/terms/a/amortization.asp). Also known as straight line depreciation, it is the simplest way to work out the loss of value of an [asset](https://www.investopedia.com/terms/a/asset.asp) over time. Straight line basis is calculated by dividing the difference between an asset's cost and its expected [salvage value](https://www.investopedia.com/terms/s/salvagevalue.asp) by the number of years it is expected to be used.
+Straight line basis is a method of calculating [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) and [[amortization]](https://www.investopedia.com/terms/a/amortization.asp). Also known as straight line depreciation, it is the simplest way to work out the loss of value of an [[asset]](https://www.investopedia.com/terms/a/asset.asp) over time. Straight line basis is calculated by dividing the difference between an asset's cost and its expected [[salvage value]](https://www.investopedia.com/terms/s/salvagevalue.asp) by the number of years it is expected to be used.
 
 ## Understanding Straight Line Basis
 
 In accounting, there are many different [conventions](https://www.investopedia.com/terms/a/accounting-convention.asp) that are designed to match sales and expenses to the period in which they are incurred. One convention that companies embrace is referred to as [depreciation and amortization](https://www.investopedia.com/ask/answers/06/amortizationvsdepreciation.asp).
 
-Companies use depreciation for [physical assets](https://www.investopedia.com/terms/p/physicalasset.asp), and amortization for [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) such as patents and software. Both conventions are used to expense an asset over a longer period of time, not just in the period it was purchased. In other words, companies can stretch the cost of assets over many different time frames, which lets them benefit from the asset without deducting the full cost from [net income (NI)](https://www.investopedia.com/terms/n/netincome.asp).
+Companies use depreciation for [[physical assets]](https://www.investopedia.com/terms/p/physicalasset.asp), and amortization for [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) such as patents and software. Both conventions are used to expense an asset over a longer period of time, not just in the period it was purchased. In other words, companies can stretch the cost of assets over many different time frames, which lets them benefit from the asset without deducting the full cost from [[net income (NI)]](https://www.investopedia.com/terms/n/netincome.asp).
 
 ## Calculating Straight Line Basis
 
 The challenge is determining how much to expense. One method accountants use to determine this amount is the straight line basis method.
 
-To calculate straight line basis, take the purchase price of an asset and then subtract the salvage value**,** its estimated sell on value when it is no longer expected to be needed. Then divide the resulting figure by the total number of years the asset is expected to be useful, referred to as the [useful life](https://www.investopedia.com/terms/u/usefullife.asp) in accounting jargon.
+To calculate straight line basis, take the purchase price of an asset and then subtract the salvage value**,** its estimated sell on value when it is no longer expected to be needed. Then divide the resulting figure by the total number of years the asset is expected to be useful, referred to as the [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp) in accounting jargon.
 
 Straight Line Basis = (Purchase Price of Asset - Salvage Value) / Estimated Useful Life of Asset
 

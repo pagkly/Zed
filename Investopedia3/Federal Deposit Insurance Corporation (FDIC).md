@@ -16,7 +16,7 @@ author: Julia Kagan
 Federal Deposit Insurance Corporation (FDIC)
 ## What Is the Federal Deposit Insurance Corporation (FDIC)?
 
-The Federal Deposit Insurance Corporation (FDIC) is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. The [FDIC was created](https://www.investopedia.com/articles/economics/09/fdic-history.asp) in 1933 to maintain public confidence and encourage stability in the financial system through the promotion of sound banking practices. As of 2020, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm. It is [critical for consumers to confirm](https://www.investopedia.com/articles/pf/06/fdicinsurance.asp) if their institution is FDIC insured.
+The Federal Deposit Insurance Corporation (FDIC) is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. The [[FDIC was created]](https://www.investopedia.com/articles/economics/09/fdic-history.asp) in 1933 to maintain public confidence and encourage stability in the financial system through the promotion of sound banking practices. As of 2020, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm. It is [[critical for consumers to confirm]](https://www.investopedia.com/articles/pf/06/fdicinsurance.asp) if their institution is FDIC insured.
 
 #### Federal Deposit Insurance Corporation (FDIC)
 
@@ -39,30 +39,30 @@ In case of bank failure, the FDIC covers deposits up to $250,000, per FDIC-insur
 
 ### Example 1:
 
-If you have $200,000 in a savings account and $100,000 in a [certificate of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD), you have $50,000 uninsured.
+If you have $200,000 in a savings account and $100,000 in a [[certificate of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD), you have $50,000 uninsured.
 
 ### Example 2:
 
 If a couple has $500,000 in a joint account, as well as $250,000 in an eligible retirement account, the entire $750,000 would be covered by the FDIC, as each co-owner's share in the joint account is covered, and the retirement account is a different account category.
 
-The FDIC provides a [helpful interactive tool](https://www.fdic.gov/deposit/covered/categories.html) to check whether assets are covered.
+The FDIC provides a [[helpful interactive tool]](https://www.fdic.gov/deposit/covered/categories.html) to check whether assets are covered.
 
 If you have more than $250,000 deposited in an account type with a single bank, you may need to spread your assets among multiple banks to ensure you are fully covered by the FDIC.
 
 ## What the FDIC Covers
 
-Checking accounts, savings accounts, CDs, and [money market accounts](https://www.investopedia.com/terms/m/moneymarketaccount.asp) are generally 100% covered by the FDIC. Coverage extends to [individual retirement accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs), but only the parts that fit the type of accounts listed previously. Joint accounts, revocable and irrevocable trust accounts, and employee benefit plans are covered, as are corporate, partnership, and unincorporated association accounts.
+Checking accounts, savings accounts, CDs, and [[money market accounts]](https://www.investopedia.com/terms/m/moneymarketaccount.asp) are generally 100% covered by the FDIC. Coverage extends to [individual retirement accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs), but only the parts that fit the type of accounts listed previously. Joint accounts, revocable and irrevocable trust accounts, and employee benefit plans are covered, as are corporate, partnership, and unincorporated association accounts.
 
-FDIC insurance [does not cover](https://www.investopedia.com/articles/investing/100215/mutual-funds-are-not-fdic-insured-here-why.asp) products such as mutual funds, annuities, life insurance policies, stocks, or bonds. The contents of safe-deposit boxes are also not included in FDIC coverage. Cashier's checks and money orders issued by the failed bank remain fully covered by the FDIC. 
+FDIC insurance [[does not cover]](https://www.investopedia.com/articles/investing/100215/mutual-funds-are-not-fdic-insured-here-why.asp) products such as mutual funds, annuities, life insurance policies, stocks, or bonds. The contents of safe-deposit boxes are also not included in FDIC coverage. Cashier's checks and money orders issued by the failed bank remain fully covered by the FDIC. 
 
 Eligible business accounts from a corporation, partnership, LLC, or unincorporated organization at a bank are also FDIC-covered.
 
 ## Filing a Claim
 
-A customer can file a claim with the FDIC as early as the day after a bank or thrift folds. The request can be submitted online through the [FDIC website](https://www.fdic.gov/). By calling 877-275-3342 (1-877-ASKFDIC), bank customers can receive personalized assistance at no cost.
+A customer can file a claim with the FDIC as early as the day after a bank or thrift folds. The request can be submitted online through the [[FDIC website]](https://www.fdic.gov/). By calling 877-275-3342 (1-877-ASKFDIC), bank customers can receive personalized assistance at no cost.
 
-Note that the FDIC only insures against bank failures. Instances of fraud, theft, and similar loss are handled directly by the institution. The FDIC has [no jurisdiction over identity theft](https://www.investopedia.com/ask/answers/111815/does-fdic-cover-identity-theft.asp).
+Note that the FDIC only insures against bank failures. Instances of fraud, theft, and similar loss are handled directly by the institution. The FDIC has [[no jurisdiction over identity theft]](https://www.investopedia.com/ask/answers/111815/does-fdic-cover-identity-theft.asp).
 
 ## Special Considerations
 
-While banks are covered by the FDIC, deposits into credit unions are backstopped by the [National Credit Union Share Insurance Fund](https://www.ncua.gov/support-services/share-insurance-fund) (NCUSIF). And as of 1981, the state of Massachusetts has had its own insurer for state-chartered savings banks, the Depositors Insurance Fund (DIF), which insures any [deposits](https://www.investopedia.com/ask/answers/09/non-convertible-debentures-fixed-deposits-difference.asp) that exceed the FDIC limit.
+While banks are covered by the FDIC, deposits into credit unions are backstopped by the [[National Credit Union Share Insurance Fund]](https://www.ncua.gov/support-services/share-insurance-fund) (NCUSIF). And as of 1981, the state of Massachusetts has had its own insurer for state-chartered savings banks, the Depositors Insurance Fund (DIF), which insures any [[deposits]](https://www.investopedia.com/ask/answers/09/non-convertible-debentures-fixed-deposits-difference.asp) that exceed the FDIC limit.

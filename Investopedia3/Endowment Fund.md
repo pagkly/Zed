@@ -16,7 +16,7 @@ author: James Chen
 Endowment Fund
 ## What Is an Endowment Fund?
 
-An endowment fund is an [investment fund](https://www.investopedia.com/terms/i/investment-fund.asp) established by a foundation that makes consistent withdrawals from invested capital. The capital or money in endowment funds is often used by universities, nonprofit organizations, churches, and hospitals. Endowment funds are typically funded by donations that are deductible for the donors and are used for specific purposes.
+An endowment fund is an [[investment fund]](https://www.investopedia.com/terms/i/investment-fund.asp) established by a foundation that makes consistent withdrawals from invested capital. The capital or money in endowment funds is often used by universities, nonprofit organizations, churches, and hospitals. Endowment funds are typically funded by donations that are deductible for the donors and are used for specific purposes.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ An endowment fund is an [investment fund](https://www.investopedia.com/terms/i/i
 
 ## Understanding Endowment Funds
 
-Financial [endowments](https://www.investopedia.com/terms/e/endowment.asp) are typically structured, so the principal amount invested remains intact, while investment income is available for immediate funding for use to keep a nonprofit company operating efficiently. Most large donations to endowment funds are structured, so a portion of the principal is released for use only after a period of time. The delayed use of the donations has an impact over a longer period of time. However, the delayed use of the funds also encourages the endowment fund management to grow the income from the fund to ensure that operational needs are covered.
+Financial [[endowments]](https://www.investopedia.com/terms/e/endowment.asp) are typically structured, so the principal amount invested remains intact, while investment income is available for immediate funding for use to keep a nonprofit company operating efficiently. Most large donations to endowment funds are structured, so a portion of the principal is released for use only after a period of time. The delayed use of the donations has an impact over a longer period of time. However, the delayed use of the funds also encourages the endowment fund management to grow the income from the fund to ensure that operational needs are covered.
 
 Endowments also may be given with specific uses stated by the donor, further complicating disbursements. Most large endowment funds are professionally managed by investment managers that have clear investment goals and allocate the money into a variety of investments.
 

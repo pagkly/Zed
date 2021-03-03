@@ -28,7 +28,7 @@ GAFAM is quite close to, but nonetheless different than, the more popular [FAAN
 
 ## Understanding GAFAM Stocks
 
-While a lot of [market indexes](https://www.investopedia.com/terms/m/marketindex.asp) exist to collectively track the developments of a sector, there are a handful of companies that lead the pack in terms of sector influence. [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp), GAFAM, and [BATX](https://www.investopedia.com/terms/b/batx-stocks.asp) are acronyms for influential companies that have a large impact on their sectors, and the market as a whole.
+While a lot of [[market indexes]](https://www.investopedia.com/terms/m/marketindex.asp) exist to collectively track the developments of a sector, there are a handful of companies that lead the pack in terms of sector influence. [[FAANG]](https://www.investopedia.com/terms/f/faang-stocks.asp), GAFAM, and [[BATX]](https://www.investopedia.com/terms/b/batx-stocks.asp) are acronyms for influential companies that have a large impact on their sectors, and the market as a whole.
 
 GAFAM is made up of Alphabet Inc.([GOOG](https://www.investopedia.com/markets/quote?tvwidgetsymbol=googl)), Apple Inc. ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)), Facebook Inc. ([FB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=fb)), Amazon.com Inc. ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=amzn)), and Microsoft Corp. ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)). All five companies are listed on the [NASDAQ](https://www.investopedia.com/terms/n/nasdaq.asp) stock exchange.
 
@@ -38,13 +38,13 @@ Among the commonly used FAANG group of companies, Netflix is the only one belong
 
 The term GAFAM was coined to replace Netflix with Microsoft in the list, making it a group of more technology-focused companies.
 
-While Amazon is also classified under the “consumer services” sector and “catalog/specialty distribution” subsector, it also has its [cloud hosting](https://www.investopedia.com/terms/c/cloud-computing.asp) business and Amazon Web Services (AWS), which make it a significant contributor to the technology space.
+While Amazon is also classified under the “consumer services” sector and “catalog/specialty distribution” subsector, it also has its [[cloud hosting]](https://www.investopedia.com/terms/c/cloud-computing.asp) business and Amazon Web Services (AWS), which make it a significant contributor to the technology space.
 
 Essentially, GAFAM represents the U.S.'s technology leaders whose products span mobile and desktop systems, hosting services, online operations, and software products.
 
-The five GAFAM companies have a joint market capitalization of around $4.5 trillion and are all within the top 10 companies in the US according to [market capitalization](https://www.investopedia.com/investing/market-capitalization-defined/) as of March 31, 2020.
+The five GAFAM companies have a joint market capitalization of around $4.5 trillion and are all within the top 10 companies in the US according to [[market capitalization]](https://www.investopedia.com/investing/market-capitalization-defined/) as of March 31, 2020.
 
-Among GAFAM stocks, the oldest company to list on the stock exchange is Apple which had its [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO) in 1980, followed by Microsoft in 1986, Amazon in 1997, Google in 2004, and Facebook in 2012.
+Among GAFAM stocks, the oldest company to list on the stock exchange is Apple which had its [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO) in 1980, followed by Microsoft in 1986, Amazon in 1997, Google in 2004, and Facebook in 2012.
 
 ## Example How GAFAM Is Used in the Real World
 
@@ -52,7 +52,7 @@ Google, Apple, Facebook, Amazon, and Microsoft are big players in the technology
 
 Many investors believe that if these stocks are doing well, the entire sector likely is as well. In a way, these stocks act like an index for the technology sector.
 
-Heading into early 2020, the [Nasdaq 100 index](https://www.investopedia.com/terms/n/nasdaq100.asp) was rising. GAFAM stocks were also rising. Facebook was the first one to break lower, peaking in late January 2020. The other GAFAM stocks and the Nasdaq 100 continued to advance.
+Heading into early 2020, the [[Nasdaq 100 index]](https://www.investopedia.com/terms/n/nasdaq100.asp) was rising. GAFAM stocks were also rising. Facebook was the first one to break lower, peaking in late January 2020. The other GAFAM stocks and the Nasdaq 100 continued to advance.
 
 Nasdaq 100 Versus GAFAM Stocks. TradingView
 

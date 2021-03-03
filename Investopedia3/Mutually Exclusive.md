@@ -16,7 +16,7 @@ author: Julie Young
 Mutually Exclusive
 ## What Is Mutually Exclusive?
 
-Mutually exclusive is a [statistical](https://www.investopedia.com/terms/s/statistics.asp) term describing two or more events that cannot happen simultaneously. It is commonly used to describe a situation where the occurrence of one outcome supersedes the other.
+Mutually exclusive is a [[statistical]](https://www.investopedia.com/terms/s/statistics.asp) term describing two or more events that cannot happen simultaneously. It is commonly used to describe a situation where the occurrence of one outcome supersedes the other.
 
 ### Key Takeaways
 

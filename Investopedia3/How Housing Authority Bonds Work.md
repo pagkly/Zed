@@ -16,9 +16,9 @@ author: Carol M. Kopp
 How Housing Authority Bonds Work
 ## What Are Housing Authority Bonds?
 
-Housing authority bonds, or housing bonds, are issued by a state or local government agency to help finance the construction or rehabilitation of affordable rental housing. Under certain programs, the proceeds from such bonds also may be used to help low-income people purchase homes. The interest earned by investors on housing authority bonds is exempt from federal taxes, and may also be exempt from state and local [income taxes](https://www.investopedia.com/terms/i/incometax.asp).
+Housing authority bonds, or housing bonds, are issued by a state or local government agency to help finance the construction or rehabilitation of affordable rental housing. Under certain programs, the proceeds from such bonds also may be used to help low-income people purchase homes. The interest earned by investors on housing authority bonds is exempt from federal taxes, and may also be exempt from state and local [[income taxes]](https://www.investopedia.com/terms/i/incometax.asp).
 
-Like most [municipal bonds](https://www.investopedia.com/terms/m/municipalbond.asp), housing authority bonds have historically been viewed as very safe investments. In this case, the bonds are backed by the federal government, which views them as a means of encouraging construction of housing for low-income people.
+Like most [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp), housing authority bonds have historically been viewed as very safe investments. In this case, the bonds are backed by the federal government, which views them as a means of encouraging construction of housing for low-income people.
 
 ## The Basics of Housing Authority Bonds
 

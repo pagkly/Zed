@@ -16,7 +16,7 @@ author: Julia Kagan
 Lloyd's of London
 ## What Is Lloyd's of London?
 
-Lloyd's of London is a British insurance market where members operate as [syndicates](https://www.investopedia.com/terms/u/underwriter-syndicate.asp) to insure and spread out the risks of different businesses, organizations, and individuals. The syndicates are specialized in different types of risks and each syndicate decides which type of risk to insure. The main purpose of Lloyd's of London is to act as an intermediary between clients, [underwriters](https://www.investopedia.com/terms/i/insurance-underwriter.asp), brokers, and insurance companies. 
+Lloyd's of London is a British insurance market where members operate as [[syndicates]](https://www.investopedia.com/terms/u/underwriter-syndicate.asp) to insure and spread out the risks of different businesses, organizations, and individuals. The syndicates are specialized in different types of risks and each syndicate decides which type of risk to insure. The main purpose of Lloyd's of London is to act as an intermediary between clients, [[underwriters]](https://www.investopedia.com/terms/i/insurance-underwriter.asp), brokers, and insurance companies. 
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ Lloyd's of London is a British insurance market where members operate as [syndic
 
 ## Understanding Lloyd's of London
 
-Unlike most of its industry peers, Lloyd's of London is not an [insurance](https://www.investopedia.com/terms/i/insurance.asp) company. Rather, Lloyd's is a corporate body governed by the Lloyd's Act of 1871 and subsequent acts of Parliament. It operates as a partially mutualized marketplace consisting of multiple financial backers, grouped in syndicates, convened to pool and spread risks. These underwriters, or "members," include both corporations and private individuals, the latter of which is known as "names." In its essence, Lloyd's is a marketplace where buyers of insurance and sellers of insurance conduct business.
+Unlike most of its industry peers, Lloyd's of London is not an [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) company. Rather, Lloyd's is a corporate body governed by the Lloyd's Act of 1871 and subsequent acts of Parliament. It operates as a partially mutualized marketplace consisting of multiple financial backers, grouped in syndicates, convened to pool and spread risks. These underwriters, or "members," include both corporations and private individuals, the latter of which is known as "names." In its essence, Lloyd's is a marketplace where buyers of insurance and sellers of insurance conduct business.
 
-Lloyd's of London functions like any financial market where buyers represent clients who want to [hedge](https://www.investopedia.com/terms/h/hedge.asp) various risks. Buyers look to purchase protection (insurance policies) and sellers represent members who provide and sell protection against risks faced by these clients. The market also includes [brokers](https://www.investopedia.com/terms/b/broker.asp), who help buyers and sellers meet an optimal match and managing agents who handle syndicates on behalf of members (the ones who provide the capital).
+Lloyd's of London functions like any financial market where buyers represent clients who want to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) various risks. Buyers look to purchase protection (insurance policies) and sellers represent members who provide and sell protection against risks faced by these clients. The market also includes [[brokers]](https://www.investopedia.com/terms/b/broker.asp), who help buyers and sellers meet an optimal match and managing agents who handle syndicates on behalf of members (the ones who provide the capital).
 
 ## Key Operators at Lloyd's of London
 

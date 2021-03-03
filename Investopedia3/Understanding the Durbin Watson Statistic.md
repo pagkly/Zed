@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Durbin Watson Statistic
 ## What Is the Durbin Watson Statistic?
 
-The Durbin Watson (DW) statistic is a test for [autocorrelation](https://www.investopedia.com/terms/a/autocorrelation.asp) in the residuals from a statistical [regression analysis](https://www.investopedia.com/terms/r/regression.asp). The Durbin-Watson statistic will always have a value between 0 and 4. A value of 2.0 means that there is no autocorrelation detected in the sample. Values from 0 to less than 2 indicate positive autocorrelation and values from from 2 to 4 indicate negative autocorrelation.
+The Durbin Watson (DW) statistic is a test for [[autocorrelation]](https://www.investopedia.com/terms/a/autocorrelation.asp) in the residuals from a statistical [[regression analysis]](https://www.investopedia.com/terms/r/regression.asp). The Durbin-Watson statistic will always have a value between 0 and 4. A value of 2.0 means that there is no autocorrelation detected in the sample. Values from 0 to less than 2 indicate positive autocorrelation and values from from 2 to 4 indicate negative autocorrelation.
 
 A stock price displaying positive autocorrelation would indicate that the price yesterday has a positive correlation on the price today—so if the stock fell yesterday, it is also likely that it falls today. A security that has a negative autocorrelation, on the other hand, has a negative influence on itself over time—so that if it fell yesterday, there is a greater likelihood it will rise today.
 
@@ -29,7 +29,7 @@ A stock price displaying positive autocorrelation would indicate that the price 
 
 ## The Basics of the Durbin Watson Statistic
 
-Autocorrelation, also known as [serial correlation](https://www.investopedia.com/terms/s/serial-correlation.asp), can be a significant problem in analyzing historical data if one does not know to look out for it. For instance, since stock prices tend not to change too radically from one day to another, the prices from one day to the next could potentially be highly correlated, even though there is little useful information in this observation. In order to avoid autocorrelation issues, the easiest solution in finance is to simply convert a series of historical prices into a series of percentage-price changes from day to day.
+Autocorrelation, also known as [[serial correlation]](https://www.investopedia.com/terms/s/serial-correlation.asp), can be a significant problem in analyzing historical data if one does not know to look out for it. For instance, since stock prices tend not to change too radically from one day to another, the prices from one day to the next could potentially be highly correlated, even though there is little useful information in this observation. In order to avoid autocorrelation issues, the easiest solution in finance is to simply convert a series of historical prices into a series of percentage-price changes from day to day.
 
 Autocorrelation can be useful for [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp), which is most concerned with the trends of, and relationships between, security prices using charting techniques in lieu of a company's financial health or management. Technical analysts can use autocorrelation to see how much of an impact past prices for a security have on its future price.
 
@@ -39,7 +39,7 @@ Autocorrelation can show if there is a momentum factor associated with a stock. 
 
 ## Example of the Durbin Watson Statistic
 
-The formula for the Durbin Watson statistic is rather complex but involves the residuals from an ordinary [least squares regression](https://www.investopedia.com/terms/l/least-squares-method.asp) on a set of data. The following example illustrates how to calculate this statistic.
+The formula for the Durbin Watson statistic is rather complex but involves the residuals from an ordinary [[least squares regression]](https://www.investopedia.com/terms/l/least-squares-method.asp) on a set of data. The following example illustrates how to calculate this statistic.
 
 Assume the following (x,y) data points:
 
@@ -57,7 +57,7 @@ Next, the differences of the actual "y" values versus the expected "y" values, t
 
 Error(1)\=(1,100−1,102.9)\=−2.9Error(2)\=(1,200−1,076.7)\=123.3Error(3)\=(985−1,037.3)\=−52.3Error(4)\=(750−1,024.1)\=−274.1Error(5)\=(1,215−997.9)\=217.1Error(6)\=(1,000−1,011)\=−11\\begin{aligned} &\\text{Error}\\left({1}\\right)=\\left( {1,100}-{1,102.9} \\right )={-2.9}\\\\ &\\text{Error}\\left({2}\\right)=\\left( {1,200}-{1,076.7} \\right )={123.3}\\\\ &\\text{Error}\\left({3}\\right)=\\left( {985}-{1,037.3} \\right )={-52.3}\\\\ &\\text{Error}\\left({4}\\right)=\\left( {750}-{1,024.1} \\right )={-274.1}\\\\ &\\text{Error}\\left({5}\\right)=\\left( {1,215}-{997.9} \\right )={217.1}\\\\ &\\text{Error}\\left({6}\\right)=\\left( {1,000}-{1,011} \\right )={-11}\\\\ \\end{aligned}
 
-Next these errors must be [squared and summed](https://www.investopedia.com/terms/s/sum-of-squares.asp):
+Next these errors must be [[squared and summed]](https://www.investopedia.com/terms/s/sum-of-squares.asp):
 
 Sum of Errors Squared =(−2.92+123.32+−52.32+−274.12+217.12+−112)\=140,330.81\\begin{aligned} &\\text{Sum of Errors Squared =}\\\\ &\\left({-2.9}^{2}+{123.3}^{2}+{-52.3}^{2}+{-274.1}^{2}+{217.1}^{2}+{-11}^{2}\\right)= \\\\ &{140,330.81}\\\\ &\\text{}\\\\ \\end{aligned}
 

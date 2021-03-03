@@ -20,7 +20,7 @@ Mobile banking is the act of making financial transactions on a mobile device (c
 
 ## Understanding Mobile Banking
 
-Mobile banking is very convenient in today’s digital age with many banks offering impressive apps. The ability to deposit a check, to pay for merchandise, to transfer money to a friend or to find an [ATM](https://www.investopedia.com/terms/a/atm.asp) instantly are reasons why people choose to use mobile banking. However, establishing a secure connection before logging into a mobile banking app is important or else a client might risk personal information being compromised.
+Mobile banking is very convenient in today’s digital age with many banks offering impressive apps. The ability to deposit a check, to pay for merchandise, to transfer money to a friend or to find an [[ATM]](https://www.investopedia.com/terms/a/atm.asp) instantly are reasons why people choose to use mobile banking. However, establishing a secure connection before logging into a mobile banking app is important or else a client might risk personal information being compromised.
 
 ## Mobile Banking and Cybersecurity
 
@@ -29,7 +29,7 @@ Mobile banking is very convenient in today’s digital age with many banks offer
 Three main types of cyber attacks can occur. These are:
 
 -   Backdoor attacks, in which thieves exploit alternate methods of accessing a system that doesn't require the usual means of authentication. Some systems have backdoors by design; others result from an error.
--   [Denial-of-service attacks](https://www.investopedia.com/terms/d/denial-service-attack-dos.asp) prevent the rightful user from accessing the system. For example, thieves might enter a wrong password enough times that the account is locked.
+-   [[Denial-of-service attacks]](https://www.investopedia.com/terms/d/denial-service-attack-dos.asp) prevent the rightful user from accessing the system. For example, thieves might enter a wrong password enough times that the account is locked.
 -   The direct-access attack includes bugs and viruses, which gain access to a system and copy its information and/or modify it.
 
 Steps financial advisors can take to protect their clients against cyber attacks include:
@@ -39,4 +39,4 @@ Steps financial advisors can take to protect their clients against cyber attacks
 
 ## Mobile Banking and Remittances
 
-[Remittances](https://www.investopedia.com/terms/r/remittance.asp) are funds that an [expatriate](https://www.investopedia.com/terms/e/expatriate.asp) sends to their country of origin via wire, mail, or mobile banking (online transfer). These peer-to-peer transfers of funds across borders have enormous economic significance for many of the countries that receive them – so much so that the World Bank and the Gates Foundation have set up complex tracking mechanisms. They estimate that remittances to developing countries amounted to $529 billion in 2018, up 9.6% from the previous record high $486 billion recorded in 2017.
+[Remittances](https://www.investopedia.com/terms/r/remittance.asp) are funds that an [[expatriate]](https://www.investopedia.com/terms/e/expatriate.asp) sends to their country of origin via wire, mail, or mobile banking (online transfer). These peer-to-peer transfers of funds across borders have enormous economic significance for many of the countries that receive them – so much so that the World Bank and the Gates Foundation have set up complex tracking mechanisms. They estimate that remittances to developing countries amounted to $529 billion in 2018, up 9.6% from the previous record high $486 billion recorded in 2017.

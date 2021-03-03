@@ -32,9 +32,9 @@ Contracts involving international transportation often contain abbreviated trade
 
 ## Incoterms Define Shipping Terms
 
-The most commonly known trade terms are known as "incoterms," short for "international commercial terms." The [International Chamber of Commerce](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC), an organization, publishes them aiming to foster trade and commerce internationally. ICC promotes and protects open markets for goods and services. 
+The most commonly known trade terms are known as "incoterms," short for "international commercial terms." The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC), an organization, publishes them aiming to foster trade and commerce internationally. ICC promotes and protects open markets for goods and services. 
 
-[Incoterms](https://www.investopedia.com/terms/i/incoterms.asp) are often identical in form to domestic terms such as the [American Uniform Commercial Code](https://www.investopedia.com/terms/u/uniform-commercial-code.asp) (UCC), but they have different meanings. Parties to a contract must expressly indicate the governing law of their terms as a result.
+[Incoterms](https://www.investopedia.com/terms/i/incoterms.asp) are often identical in form to domestic terms such as the [[American Uniform Commercial Code]](https://www.investopedia.com/terms/u/uniform-commercial-code.asp) (UCC), but they have different meanings. Parties to a contract must expressly indicate the governing law of their terms as a result.
 
 Typically, the seller remains responsible for products until delivery. It bears the costs and risks that come with bringing goods to port. The seller has total responsibility for shipping, and it must pay the shipping company and purchase insurance for the goods.
 
@@ -44,9 +44,9 @@ Delivered Ex Ship (DES) is different from Delivered Ex Quay (DEQ), which says t
 
 ## Delivered Ex Ship Versus Ex Quay and Ex Works
 
-Delivered Ex Ship differs from [Delivered Ex Quay](https://www.investopedia.com/terms/d/delivered-ex-quay.asp) (DEQ) and [Ex Works](https://www.investopedia.com/terms/e/exw.asp) (EXW). Delivered Ex Ship (DES) stipulates that the seller has a legal obligation to deliver the goods to port and to ensure the goods' arrival there, but not to a wharf.
+Delivered Ex Ship differs from [[Delivered Ex Quay]](https://www.investopedia.com/terms/d/delivered-ex-quay.asp) (DEQ) and [[Ex Works]](https://www.investopedia.com/terms/e/exw.asp) (EXW). Delivered Ex Ship (DES) stipulates that the seller has a legal obligation to deliver the goods to port and to ensure the goods' arrival there, but not to a wharf.
 
-Delivered Ex Quay specifies that the seller must ship the goods to the wharf at the destination port. Delivered Ex Quay can note a [duty](https://www.investopedia.com/terms/d/duty.asp) as either paid or unpaid. The seller is obligated to cover costs, like duties, if it pays, and is responsible for providing the merchandise. If unpaid, those obligations and responsibilities shift to the buyer.
+Delivered Ex Quay specifies that the seller must ship the goods to the wharf at the destination port. Delivered Ex Quay can note a [[duty]](https://www.investopedia.com/terms/d/duty.asp) as either paid or unpaid. The seller is obligated to cover costs, like duties, if it pays, and is responsible for providing the merchandise. If unpaid, those obligations and responsibilities shift to the buyer.
 
 The seller must make the goods available for pickup at its place of business in Ex Works. All costs and risks of transportation are taken on by the buyer from there.
 

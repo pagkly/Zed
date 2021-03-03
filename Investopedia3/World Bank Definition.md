@@ -18,7 +18,7 @@ World Bank Definition
 
 The World Bank is an international organization dedicated to providing financing, advice, and research to developing nations to aid their economic advancement. The bank predominantly acts as an organization that attempts to fight poverty by offering developmental assistance to middle- and low-income countries.
 
-Currently, the World Bank has two stated goals that it aims to [achieve by 2030](https://www.worldbank.org/en/about/what-we-do). The first is to end extreme poverty by decreasing the number of people living on less than $1.90 a day to below 3% of the world population. The second is to increase overall prosperity by increasing income growth in the bottom 40% of every country in the world.
+Currently, the World Bank has two stated goals that it aims to [[achieve by 2030]](https://www.worldbank.org/en/about/what-we-do). The first is to end extreme poverty by decreasing the number of people living on less than $1.90 a day to below 3% of the world population. The second is to increase overall prosperity by increasing income growth in the bottom 40% of every country in the world.
 
 ## Understanding the World Bank
 
@@ -35,7 +35,7 @@ The World Bank supplies qualifying governments with low-interest loans, zero-int
 
 ## History of the World Bank
 
-The World Bank was created in 1944 out of the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp), which was secured under the auspices of the United Nations in the latter days of World War II. The Bretton Woods Agreement included several components: a collective international monetary system, the formation of the World Bank, and the creation of the International Monetary Fund (IMF). Since their foundings both the World Bank and the International Monetary Fund have worked together toward many of the same goals. The original goals of both [the World Bank and IMF](https://www.investopedia.com/ask/answers/043015/what-difference-between-international-monetary-fund-and-world-bank.asp) were to support European and Asian countries needing financing to fund post-war reconstruction efforts.
+The World Bank was created in 1944 out of the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp), which was secured under the auspices of the United Nations in the latter days of World War II. The Bretton Woods Agreement included several components: a collective international monetary system, the formation of the World Bank, and the creation of the International Monetary Fund (IMF). Since their foundings both the World Bank and the International Monetary Fund have worked together toward many of the same goals. The original goals of both [[the World Bank and IMF]](https://www.investopedia.com/ask/answers/043015/what-difference-between-international-monetary-fund-and-world-bank.asp) were to support European and Asian countries needing financing to fund post-war reconstruction efforts.
 
 Both the World Bank and IMF outlasted the collective international monetary system which was central to the Bretton Woods Agreement. President Nixon halted the Bretton Woods international monetary system in the 1970s. However, the World Bank and IMF remained open and continued to thrive on providing worldwide aid.
 

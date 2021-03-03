@@ -18,9 +18,9 @@ Simple Agreement for Future Tokens (SAFT)
 
 A Simple Agreement for Future Tokens (SAFT) is an investment contract offered by cryptocurrency developers to accredited investors. It is considered a security and, thus, must comply with securities regulations.
 
-Raising funds through the sale of digital currency requires more than just building a [blockchain](https://www.investopedia.com/terms/b/blockchain.asp). Investors want to know what they are getting into, that the currency will be viable, and they will be legally protected.
+Raising funds through the sale of digital currency requires more than just building a [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp). Investors want to know what they are getting into, that the currency will be viable, and they will be legally protected.
 
-While a company raising money through [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) could bypass using a formal framework to tap into global financial markets, it needs to adhere to international, federal, and state law. One way to do this is by using Simple Agreement for Future Tokens, or SAFT.
+While a company raising money through [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) could bypass using a formal framework to tap into global financial markets, it needs to adhere to international, federal, and state law. One way to do this is by using Simple Agreement for Future Tokens, or SAFT.
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ While a company raising money through [cryptocurrency](https://www.investopedia.
 
 ## Understanding SAFTs
 
-A SAFT is a form of an investment contract. They were created as a way to help new cryptocurrency ventures raise money without breaking financial regulations, specifically, regulations that govern when an investment is considered a [security](https://www.investopedia.com/terms/s/security.asp).
+A SAFT is a form of an investment contract. They were created as a way to help new cryptocurrency ventures raise money without breaking financial regulations, specifically, regulations that govern when an investment is considered a [[security]](https://www.investopedia.com/terms/s/security.asp).
 
-The speed at which cryptocurrencies have grown has far outpaced the speed at which regulators have addressed legal issues. It wasn’t until 2017 that the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) provided substantial guidance on when the sale of an [initial coin offering](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp) (ICO) or other tokens would be considered the same as the sale of a security.
+The speed at which cryptocurrencies have grown has far outpaced the speed at which regulators have addressed legal issues. It wasn’t until 2017 that the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) provided substantial guidance on when the sale of an [[initial coin offering]](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp) (ICO) or other tokens would be considered the same as the sale of a security.
 
-One of the most important regulatory hurdles that a new crypto venture must pass is the [Howey Test](https://www.investopedia.com/terms/h/howey-test.asp). The U.S. Supreme Court created this in 1946 in its ruling on _Securities and Exchange Commission v. W. J. Howey Co.,_ and it is used to determine whether a transaction is considered a security.
+One of the most important regulatory hurdles that a new crypto venture must pass is the [[Howey Test]](https://www.investopedia.com/terms/h/howey-test.asp). The U.S. Supreme Court created this in 1946 in its ruling on _Securities and Exchange Commission v. W. J. Howey Co.,_ and it is used to determine whether a transaction is considered a security.
 
 ### Regulations
 

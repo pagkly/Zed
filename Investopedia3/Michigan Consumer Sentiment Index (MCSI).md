@@ -30,11 +30,11 @@ The preliminary report is generally released during the middle of the month and 
 
 George Katona founded the survey at the University of Michigan in 1946. It is designed to capture the mood of American consumers. Whether the sentiment is optimistic, pessimistic or neutral, the survey signals information about near-term consumer spending plans.5
 
-Because consumer spending accounts for about 67% of [gross domestic product (GDP)](https://www.investopedia.com/terms/g/gdp.asp) in the U.S,3 the MCSI is regarded as one of many important economic indicators followed by businesses, policymakers and participants in the investment community.
+Because consumer spending accounts for about 67% of [[gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp) in the U.S,3 the MCSI is regarded as one of many important economic indicators followed by businesses, policymakers and participants in the investment community.
 
 ## MCSI Basic Design
 
-Each month, the university conducts a minimum of 500 phone interviews across the continental U.S. The survey asks 50 core questions and covers three areas: [personal finances](https://www.investopedia.com/terms/p/personalfinance.asp), business condition and buying conditions.5 Consumers are asked questions such as:
+Each month, the university conducts a minimum of 500 phone interviews across the continental U.S. The survey asks 50 core questions and covers three areas: [[personal finances]](https://www.investopedia.com/terms/p/personalfinance.asp), business condition and buying conditions.5 Consumers are asked questions such as:
 
 -   Would you say that at the present time business conditions are better or worse than they were a year ago?
 -   Would you say that you (and your family living there) are better off or worse off financially than you were a year ago?
@@ -44,4 +44,4 @@ Each month, the university conducts a minimum of 500 phone interviews across the
 
 ## Special Considerations
 
-According to the University of Michigan, the surveys "have proven to be an accurate indicator of the future course of the national economy."5 Surveys have demonstrated their ability to accurately anticipate changes in interest rates, unemployment rates, [inflation rates](https://www.investopedia.com/terms/i/inflation.asp), GDP growth, housing, car demand and other key economic measures.
+According to the University of Michigan, the surveys "have proven to be an accurate indicator of the future course of the national economy."5 Surveys have demonstrated their ability to accurately anticipate changes in interest rates, unemployment rates, [[inflation rates]](https://www.investopedia.com/terms/i/inflation.asp), GDP growth, housing, car demand and other key economic measures.

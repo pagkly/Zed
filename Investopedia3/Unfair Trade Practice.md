@@ -16,7 +16,7 @@ author: Will Kenton
 Unfair Trade Practice
 ## What Is an Unfair Trade Practice?
 
-Unfair trade practices refer to the use of various deceptive, fraudulent, or unethical methods to obtain business. Unfair business practices include [misrepresentation](https://www.investopedia.com/terms/m/misrepresentation.asp), false advertising or representation of a good or service, [tied selling](https://www.investopedia.com/terms/t/tiedselling.asp), false free prize or gift offers, deceptive pricing, and noncompliance with manufacturing standards. Such acts are considered unlawful by statute through the [Consumer Protection Law](https://www.investopedia.com/articles/pf/10/know-your-consumer-protection-laws.asp), which opens up recourse for consumers by way of compensatory or punitive damages. An unfair trade practice is sometimes referred to as “deceptive trade practices” or “unfair business practices.”
+Unfair trade practices refer to the use of various deceptive, fraudulent, or unethical methods to obtain business. Unfair business practices include [[misrepresentation]](https://www.investopedia.com/terms/m/misrepresentation.asp), false advertising or representation of a good or service, [[tied selling]](https://www.investopedia.com/terms/t/tiedselling.asp), false free prize or gift offers, deceptive pricing, and noncompliance with manufacturing standards. Such acts are considered unlawful by statute through the [[Consumer Protection Law]](https://www.investopedia.com/articles/pf/10/know-your-consumer-protection-laws.asp), which opens up recourse for consumers by way of compensatory or punitive damages. An unfair trade practice is sometimes referred to as “deceptive trade practices” or “unfair business practices.”
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Unfair trade practices are commonly seen in the purchase of goods and services b
 
 Unfair trade practices are commonly seen in the purchase of goods and services by consumers, tenancy, insurance claims and settlements, and debt collection.
 
-In the United States, unfair trade practices are addressed in [Section 5(a)](https://www.federalreserve.gov/boarddocs/supmanual/cch/ftca.pdf) of the Federal Trade Commission Act, which prohibits “unfair or deceptive acts or practices in or affecting commerce.” It applies to all individuals engaged in commerce, including banks, and sets the legal standard for unfair trade practices, which may be deemed unfair, deceptive, or both. Below are lists of unfair and deceptive practices as per the rule:
+In the United States, unfair trade practices are addressed in [[Section 5(a)]](https://www.federalreserve.gov/boarddocs/supmanual/cch/ftca.pdf) of the Federal Trade Commission Act, which prohibits “unfair or deceptive acts or practices in or affecting commerce.” It applies to all individuals engaged in commerce, including banks, and sets the legal standard for unfair trade practices, which may be deemed unfair, deceptive, or both. Below are lists of unfair and deceptive practices as per the rule:
 
 ## Unfair Practices
 
@@ -49,7 +49,7 @@ An act or practice is deceptive when it meets the following criteria:
 
 ## Examples of Unfair Trade Practices in Insurance
 
-Unfair trade practices can happen in any industry but are significant enough to prompt the [National Association of Insurance Commissioners (NAIC)](https://www.investopedia.com/terms/n/nainsurancec.asp) to issue [guidance related to the sale of insurance products](http://www.naic.org/store/free/MDL-880.pdf). The NAIC defines unfair trade practices in the following ways:
+Unfair trade practices can happen in any industry but are significant enough to prompt the [[National Association of Insurance Commissioners (NAIC)]](https://www.investopedia.com/terms/n/nainsurancec.asp) to issue [guidance related to the sale of insurance products](http://www.naic.org/store/free/MDL-880.pdf). The NAIC defines unfair trade practices in the following ways:
 
 -   It misrepresents the benefits, advantages, conditions, or terms of any policy.
 -   It misrepresents the dividends or share of the surplus to be received on any policy.

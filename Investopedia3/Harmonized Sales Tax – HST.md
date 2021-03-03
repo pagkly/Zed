@@ -20,7 +20,7 @@ The harmonized sales tax (HST) is a combination of the federal Canadian goods an
 
 ## Harmonized Sales Tax Explained
 
-The HST is a [consumption tax](https://www.investopedia.com/terms/c/consumption-tax.asp) paid by the consumer and businesses at the [point of sale (POS)](https://www.investopedia.com/terms/p/point-of-sale.asp). The vendor collects the tax proceeds by adding the HST rate to the cost of goods and services, and then remits the collected tax to the [Canada Revenue Agency](https://www.investopedia.com/terms/c/ccra.asp) (CRA), the tax division of the federal government. The CRA later allocates the provincial portion of the HST to the respective provincial government.
+The HST is a [[consumption tax]](https://www.investopedia.com/terms/c/consumption-tax.asp) paid by the consumer and businesses at the [[point of sale (POS)]](https://www.investopedia.com/terms/p/point-of-sale.asp). The vendor collects the tax proceeds by adding the HST rate to the cost of goods and services, and then remits the collected tax to the [[Canada Revenue Agency]](https://www.investopedia.com/terms/c/ccra.asp) (CRA), the tax division of the federal government. The CRA later allocates the provincial portion of the HST to the respective provincial government.
 
 Proponents of the HST argue it improves the competitiveness of Canadian businesses by lowering the cost of goods and simplifying businesses' tax-related administrative costs, while lowering costs for consumers.
 
@@ -42,13 +42,13 @@ BC, Saskatchewan, Quebec, and Manitoba apply the provincial system in addition t
 
 ## Registering and Collecting the HST
 
-It is the responsibility of Canadian business owners to collect and remit HST. To start raising the sales tax, the business operator must register for a GST/HST account through the CRA, provided that the business makes $30,000 or more per year in [total revenue](https://www.investopedia.com/terms/r/revenue.asp). Business owners with firms earning less than $30,000 can still voluntarily register as they may want to claim input tax credits on the goods and services that they purchase in the course of running the business.
+It is the responsibility of Canadian business owners to collect and remit HST. To start raising the sales tax, the business operator must register for a GST/HST account through the CRA, provided that the business makes $30,000 or more per year in [[total revenue]](https://www.investopedia.com/terms/r/revenue.asp). Business owners with firms earning less than $30,000 can still voluntarily register as they may want to claim input tax credits on the goods and services that they purchase in the course of running the business.
 
 ## Exempted Goods and Services
 
-While many goods and services are subject to HST, some are [zero-rated](https://www.investopedia.com/terms/z/zero-rated-goods.asp) or tax-exempt. A zero-rated commodity or service is one that has an HST tax rate of 0%. These include products like basic groceries, books, and many agricultural and fishery goods.
+While many goods and services are subject to HST, some are [[zero-rated]](https://www.investopedia.com/terms/z/zero-rated-goods.asp) or tax-exempt. A zero-rated commodity or service is one that has an HST tax rate of 0%. These include products like basic groceries, books, and many agricultural and fishery goods.
 
-Customers outside of Canada purchasing products from Canada do not have to pay HST provided that the goods or services purchased will be solely used outside of the country. However, [non-residents](https://www.investopedia.com/terms/r/nonresident.asp) in Canada, such as tourists, are required to pay HST but in some cases may qualify for an HST [rebate](https://www.investopedia.com/terms/r/rebate.asp).
+Customers outside of Canada purchasing products from Canada do not have to pay HST provided that the goods or services purchased will be solely used outside of the country. However, [[non-residents]](https://www.investopedia.com/terms/r/nonresident.asp) in Canada, such as tourists, are required to pay HST but in some cases may qualify for an HST [[rebate]](https://www.investopedia.com/terms/r/rebate.asp).
 
 ## Effect on Taxpayers
 

@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 How Negative Goodwill (NGW) Works
 ## What Is Negative Goodwill?
 
-In business, negative goodwill (NGW) is a term that refers to the [bargain purchase](https://www.investopedia.com/terms/b/bargain-purchase.asp) amount of money paid, when a company acquires another company or its assets for significantly less their fair market values. Negative goodwill generally indicates that the selling party is distressed or has declared bankruptcy, and faces no other option but to unload its assets for a fraction of their worth.
+In business, negative goodwill (NGW) is a term that refers to the [[bargain purchase]](https://www.investopedia.com/terms/b/bargain-purchase.asp) amount of money paid, when a company acquires another company or its assets for significantly less their fair market values. Negative goodwill generally indicates that the selling party is distressed or has declared bankruptcy, and faces no other option but to unload its assets for a fraction of their worth.
 
 Consequently, negative goodwill nearly always favors the buyer. Negative goodwill is the opposite of goodwill, where one company pays a premium for another company's assets.
 
@@ -31,13 +31,13 @@ Consequently, negative goodwill nearly always favors the buyer. Negative goodwil
 
 ## Understanding Negative Goodwill
 
-Negative goodwill, along with goodwill, are accounting concepts created to acknowledge the challenge of quantifying the value of intangible assets, such as a company's reputation, [patents](https://www.investopedia.com/terms/p/patent.asp), customer base, and licenses. These intangible assets differ from tangible items, such as equipment or inventory. In most acquisition cases, transactions involve goodwill, where buyers pay a greater sum than the value of the selling company's tangible assets. But in rarer cases, negative goodwill occurs, where the value of the intangible assets must be recorded as a gain on the buyer's income statement.
+Negative goodwill, along with goodwill, are accounting concepts created to acknowledge the challenge of quantifying the value of intangible assets, such as a company's reputation, [[patents]](https://www.investopedia.com/terms/p/patent.asp), customer base, and licenses. These intangible assets differ from tangible items, such as equipment or inventory. In most acquisition cases, transactions involve goodwill, where buyers pay a greater sum than the value of the selling company's tangible assets. But in rarer cases, negative goodwill occurs, where the value of the intangible assets must be recorded as a gain on the buyer's income statement.
 
 This goodwill/negative goodwill reporting mandate falls under generally accepted accounting standards (GAAP)—specifically under the Financial Accounting Standards Board (FASB) Statement No. 141, regarding business combinations. If the value of all the acquired company's assets exceeds the purchase price of the company, a "bargain purchase" is said to have occurred. FASB defines a bargain purchase as “a business combination where the acquisition date amounts of identifiable net assets acquired, excluding goodwill, exceed the sum of the value of consideration transferred.”1
 
 In the event of a bargain purchase, the purchaser is required under GAAP to recognize a gain for financial accounting purposes. The effect of this gain is an immediate increase in net income.
 
-Negative goodwill is especially important to track because it gives investors a more holistic snapshot of a company's value. An acquisition that involves negative goodwill increases reported assets, income, and shareholder equity, potentially distorting performance metrics like [return on assets (ROA)](https://www.investopedia.com/terms/r/returnonassets.asp) and [return on equity (ROE)](https://www.investopedia.com/terms/r/returnonequity.asp), which would appear lower as a result.
+Negative goodwill is especially important to track because it gives investors a more holistic snapshot of a company's value. An acquisition that involves negative goodwill increases reported assets, income, and shareholder equity, potentially distorting performance metrics like [[return on assets (ROA)]](https://www.investopedia.com/terms/r/returnonassets.asp) and [[return on equity (ROE)]](https://www.investopedia.com/terms/r/returnonequity.asp), which would appear lower as a result.
 
 ## Examples of Negative Goodwill
 

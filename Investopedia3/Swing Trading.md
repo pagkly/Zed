@@ -16,7 +16,7 @@ author: Cory Mitchell
 Swing Trading
 ## What Is Swing Trading?
 
-Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) to look for trading opportunities. These traders may utilize [fundamental analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) in addition to analyzing price trends and patterns.
+Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) to look for trading opportunities. These traders may utilize [[fundamental analysis]](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) in addition to analyzing price trends and patterns.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Swing trading is a style of trading that attempts to capture short- to medium-te
 
 ## Understanding Swing Trading
 
-Typically, swing trading involves holding a position either [long or short](https://www.investopedia.com/ask/answers/100314/whats-difference-between-long-and-short-position-market.asp) for more than one trading session, but usually not longer than several weeks or a couple of months. This is a general time frame, as some trades may last longer than a couple of months, yet the trader may still consider them swing trades. Swing trades can also occur during a trading session, though this is a rare outcome that is brought about by extremely volatile conditions.
+Typically, swing trading involves holding a position either [[long or short]](https://www.investopedia.com/ask/answers/100314/whats-difference-between-long-and-short-position-market.asp) for more than one trading session, but usually not longer than several weeks or a couple of months. This is a general time frame, as some trades may last longer than a couple of months, yet the trader may still consider them swing trades. Swing trades can also occur during a trading session, though this is a rare outcome that is brought about by extremely volatile conditions.
 
 The goal of swing trading is to capture a chunk of a potential price move. While some traders seek out volatile stocks with lots of movement, others may prefer more sedate stocks. In either case, swing trading is the process of identifying where an asset's price is likely to move next, entering a position, and then capturing a chunk of the profit if that move materializes.
 
@@ -34,11 +34,11 @@ Successful swing traders are only looking to capture a chunk of the expected pri
 
 Swing trading is one of the most popular forms of active trading, where traders look for intermediate-term opportunities using various forms of technical analysis.
 
-Many swing traders assess trades on a [risk/reward](https://www.investopedia.com/terms/r/riskrewardratio.asp) basis. By analyzing the chart of an asset they determine where they will enter, where they will place a [stop loss](https://www.investopedia.com/terms/s/stop-lossorder.asp), and then anticipate where they can get out with a profit. If they are risking $1 per share on a setup that could reasonably produce a $3 gain, that is a favorable risk/reward ratio. On the other hand, risking $1 to make $1 or only make $0.75 isn't quite as favorable.
+Many swing traders assess trades on a [[risk/reward]](https://www.investopedia.com/terms/r/riskrewardratio.asp) basis. By analyzing the chart of an asset they determine where they will enter, where they will place a [[stop loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp), and then anticipate where they can get out with a profit. If they are risking $1 per share on a setup that could reasonably produce a $3 gain, that is a favorable risk/reward ratio. On the other hand, risking $1 to make $1 or only make $0.75 isn't quite as favorable.
 
-Swing traders primarily use technical analysis, due to the short-term nature of the trades. That said, fundamental analysis can be used to enhance the analysis. For example, if a swing trader sees a [bullish](https://www.investopedia.com/terms/b/bull.asp) setup in a stock, they may want to verify that the fundamentals of the asset look favorable or are improving also.
+Swing traders primarily use technical analysis, due to the short-term nature of the trades. That said, fundamental analysis can be used to enhance the analysis. For example, if a swing trader sees a [[bullish]](https://www.investopedia.com/terms/b/bull.asp) setup in a stock, they may want to verify that the fundamentals of the asset look favorable or are improving also.
 
-Swing traders will often look for opportunities on the daily charts and may watch 1-hour or 15-minute charts to find a precise entry, stop loss, and [take-profit](https://www.investopedia.com/terms/t/take-profitorder.asp) levels.
+Swing traders will often look for opportunities on the daily charts and may watch 1-hour or 15-minute charts to find a precise entry, stop loss, and [[take-profit]](https://www.investopedia.com/terms/t/take-profitorder.asp) levels.
 
 Pros
 
@@ -60,15 +60,15 @@ Cons
 
 ## Day Trading vs. Swing Trading
 
-The [distinction between swing trading and day trading](https://www.investopedia.com/articles/active-trading/052815/pros-cons-day-trading-vs-swing-trading.asp) is, usually, the holding time for positions. Swing trading, often, involves at least an overnight hold, whereas day traders close out positions before the [market closes](https://www.investopedia.com/terms/t/tradingsession.asp). To generalize, day trading positions are limited to a single day while swing trading involves holding for several days to weeks.
+The [[distinction between swing trading and day trading]](https://www.investopedia.com/articles/active-trading/052815/pros-cons-day-trading-vs-swing-trading.asp) is, usually, the holding time for positions. Swing trading, often, involves at least an overnight hold, whereas day traders close out positions before the [[market closes]](https://www.investopedia.com/terms/t/tradingsession.asp). To generalize, day trading positions are limited to a single day while swing trading involves holding for several days to weeks.
 
-By holding overnight, the swing trader incurs the unpredictability of overnight risk such as [gaps](https://www.investopedia.com/terms/g/gap.asp) up or down against the position. By taking on the overnight risk, swing trades are usually done with a smaller position size compared to day trading (assuming the two traders have similarly sized accounts). Day traders typically utilize larger position sizes and may use a [day trading margin](https://www.investopedia.com/articles/active-trading/071114/guide-day-trading-margin.asp) of 25%.1
+By holding overnight, the swing trader incurs the unpredictability of overnight risk such as [[gaps]](https://www.investopedia.com/terms/g/gap.asp) up or down against the position. By taking on the overnight risk, swing trades are usually done with a smaller position size compared to day trading (assuming the two traders have similarly sized accounts). Day traders typically utilize larger position sizes and may use a [[day trading margin]](https://www.investopedia.com/articles/active-trading/071114/guide-day-trading-margin.asp) of 25%.1
 
 Swing traders also have access to margin or leverage of 50%. This means that if the trader is approved for margin trading, they only need to put up $25,000 in capital for a trade with a current value of $50,000, for example.
 
 ## Swing Trading Tactics
 
-A swing trader tends to look for multi-day chart patterns. Some of the more common patterns involve moving average crossovers, cup-and-handle patterns, [head and shoulders patterns](https://www.investopedia.com/terms/h/head-shoulders.asp), flags, and triangles. Key reversal [candlesticks](https://www.investopedia.com/terms/c/candlestick.asp) may be used in addition to other indicators to devise a solid [trading plan](https://www.investopedia.com/terms/t/trading-plan.asp).
+A swing trader tends to look for multi-day chart patterns. Some of the more common patterns involve moving average crossovers, cup-and-handle patterns, [[head and shoulders patterns]](https://www.investopedia.com/terms/h/head-shoulders.asp), flags, and triangles. Key reversal [[candlesticks]](https://www.investopedia.com/terms/c/candlestick.asp) may be used in addition to other indicators to devise a solid [[trading plan]](https://www.investopedia.com/terms/t/trading-plan.asp).
 
 Ultimately, each swing trader devises a plan and strategy that gives them an edge over many trades. This involves looking for trade setups that tend to lead to predictable movements in the asset's price. This isn't easy, and no strategy or setup works every time. With a favorable risk/reward, winning every time isn't required. The more favorable the risk/reward of a trading strategy, the fewer times it needs to win in order to produce an overall profit over many trades.
 
@@ -87,7 +87,7 @@ In this case:
 
 Aside from a risk/reward, the trader could also utilize other exit methods, such as waiting for the price to make a new low. With this method, an exit signal wasn't given until $216.46, when the price dropped below the prior pullback low. This method would have resulted in a profit of $23.76 per share. Thought of another way—a 12% profit in exchange for less than 3% risk. This swing trade took approximately two months.
 
-Other exit methods could be when the price crosses below a moving average (not shown), or when an indicator such as the [stochastic oscillator](https://www.investopedia.com/terms/s/stochasticoscillator.asp) crosses its [signal line](https://www.investopedia.com/terms/s/signal_line.asp).
+Other exit methods could be when the price crosses below a moving average (not shown), or when an indicator such as the [[stochastic oscillator]](https://www.investopedia.com/terms/s/stochasticoscillator.asp) crosses its [[signal line]](https://www.investopedia.com/terms/s/signal_line.asp).
 
 ## Frequently Asked Questions
 
@@ -97,7 +97,7 @@ Swing trading tried to identify entry and exit points into a security on the bas
 
 ### How does swing trading differ from day trading?
 
-Day trading, as the name suggests, involves making dozens of trades in a single day, based on [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) and sophisticated charting systems. Day trading seeks to [scalp](https://www.investopedia.com/articles/active-trading/012815/top-technical-indicators-scalping-trading-strategy.asp) small profits multiple times a day, closing out positions overnight. Swing traders do not close their positions on a daily basis and instead may hold onto them for weeks or months, or even longer. Swing traders will also tend to incorporate both technical and fundamental analysis.
+Day trading, as the name suggests, involves making dozens of trades in a single day, based on [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) and sophisticated charting systems. Day trading seeks to [[scalp]](https://www.investopedia.com/articles/active-trading/012815/top-technical-indicators-scalping-trading-strategy.asp) small profits multiple times a day, closing out positions overnight. Swing traders do not close their positions on a daily basis and instead may hold onto them for weeks or months, or even longer. Swing traders will also tend to incorporate both technical and fundamental analysis.
 
 ### What are some indicators or tools used by swing traders?
 

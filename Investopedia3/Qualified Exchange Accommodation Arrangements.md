@@ -26,7 +26,7 @@ A qualified exchange accommodation arrangement is a tax strategy where a third p
 
 ## Understanding Qualified Exchange Accommodation Arrangements
 
-A qualified exchange accommodation arrangement (QEAA) enables investors to comply with [section 1031](https://www.investopedia.com/terms/s/section1031.asp) of the Internal Revenue Code, which allows investors to defer taking a [capital gain](https://www.investopedia.com/terms/c/capitalgain.asp) or loss on the sale of real estate as long as the relinquished property is replaced by a like-kind property.
+A qualified exchange accommodation arrangement (QEAA) enables investors to comply with [[section 1031]](https://www.investopedia.com/terms/s/section1031.asp) of the Internal Revenue Code, which allows investors to defer taking a [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp) or loss on the sale of real estate as long as the relinquished property is replaced by a like-kind property.
 
 Also known as a [1031 exchange](https://www.investopedia.com/financial-edge/0110/10-things-to-know-about-1031-exchanges.aspx), this transaction is a tax-deferred exchange that allows for the disposal of an asset and the acquisition of another similar asset without generating a tax liability from the sale of the first asset.
 
@@ -38,9 +38,9 @@ This is one of the benefits of a qualified exchange accommodation arrangement si
 
 This tax strategy was recognized by the IRS in 2000 but previously was in use for many years. IRS approval of the procedure and establishment of specific qualification guidelines made investor compliance with 1031 exchange rules more straightforward. Because the purpose of such transactions was to hold a property temporarily, they also were known as warehouse transactions.
 
-Before January 1, 2018, a 1031 exchange could include the exchange of one business for another or one piece of tangible property for another. However, with the passage of the [Tax Cuts and Jobs Act (TCJA)](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained) in December 2017, a 1031 exchange is limited to real property. In other words, other asset exchanges, including machinery, equipment, vehicles, artwork, collectibles, patents, and other intellectual property as well as intangible business assets no longer qualify for like-kind exchange tax treatment.1
+Before January 1, 2018, a 1031 exchange could include the exchange of one business for another or one piece of tangible property for another. However, with the passage of the [[Tax Cuts and Jobs Act (TCJA)]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained) in December 2017, a 1031 exchange is limited to real property. In other words, other asset exchanges, including machinery, equipment, vehicles, artwork, collectibles, patents, and other intellectual property as well as intangible business assets no longer qualify for like-kind exchange tax treatment.1
 
-As a result, a 1031 exchange can only involve an exchange of property with a [like-kind property](https://www.investopedia.com/terms/l/like-kindproperty.asp), and it must be for real estate held for investment or for productive use in a trade or business located in the United States. Properties are of like-kind if they have the same nature or character, even if they differ in quality.
+As a result, a 1031 exchange can only involve an exchange of property with a [[like-kind property]](https://www.investopedia.com/terms/l/like-kindproperty.asp), and it must be for real estate held for investment or for productive use in a trade or business located in the United States. Properties are of like-kind if they have the same nature or character, even if they differ in quality.
 
 In other words, whether one property is improved or unimproved, they will typically be considered like-kind. For example, an apartment building would be considered like-kind for another apartment building. However, real property in the U.S. is not considered like-kind to property outside the U.S.
 
@@ -54,7 +54,7 @@ Section 1031 allows an investor to give or receive cash, liabilities, or other p
 
 In other words, if a person also receives other (not like-kind) property or money, (as part of the exchange), it must be recognized as a gain to the extent of the other property and money received. However, the taxpayer cannot recognize a loss.
 
-The taxable amount that is not deferred by Section 1031 is the amount of the boot. The taxable amount that is deferred by Section 1031 is the capital gain or loss on the like-kind real estate exchanged. Gain recognized because the boot was received is reported on Form 8949, Schedule D on Form 1040, or Form 4797, as applicable. If [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) must be recaptured, then this recognized gain may have to be reported as [ordinary income](https://www.investopedia.com/terms/o/ordinaryincome.asp).
+The taxable amount that is not deferred by Section 1031 is the amount of the boot. The taxable amount that is deferred by Section 1031 is the capital gain or loss on the like-kind real estate exchanged. Gain recognized because the boot was received is reported on Form 8949, Schedule D on Form 1040, or Form 4797, as applicable. If [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) must be recaptured, then this recognized gain may have to be reported as [[ordinary income]](https://www.investopedia.com/terms/o/ordinaryincome.asp).
 
 ### Exchange Accommodation Titleholder
 

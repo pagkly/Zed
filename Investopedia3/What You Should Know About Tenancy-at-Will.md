@@ -38,7 +38,7 @@ Tenancies-at-will generally involve parties who are known to each other. In some
 
 ### Holdover tenants
 
-A tenant-at-will is different from a [holdover tenant](https://www.investopedia.com/terms/h/holdover-tenant.asp), even though both lack a formal rental agreement. A holdover tenant typically stays on after a fixed-term agreement that has expired—sometimes without the landlord’s permission. If the landlord continues to accept rental payments, the tenant can legally occupy the unit. If not, the tenant is considered a trespasser and must move out. If they don’t, the landlord can begin eviction proceedings.
+A tenant-at-will is different from a [[holdover tenant]](https://www.investopedia.com/terms/h/holdover-tenant.asp), even though both lack a formal rental agreement. A holdover tenant typically stays on after a fixed-term agreement that has expired—sometimes without the landlord’s permission. If the landlord continues to accept rental payments, the tenant can legally occupy the unit. If not, the tenant is considered a trespasser and must move out. If they don’t, the landlord can begin eviction proceedings.
 
 ## Tenancy-at-Will Protections
 

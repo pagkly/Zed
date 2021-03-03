@@ -16,7 +16,7 @@ author: James Chen
 National Stock Exchange of India Limited (NSE)
 ## What Is the National Stock Exchange of India Limited (NSE)?
 
-The National Stock Exchange of India Limited (NSE) is India's largest financial market. Incorporated in 1992, the NSE has developed into a sophisticated, electronic market, which ranked fourth in the world by [equity](https://www.investopedia.com/terms/e/equity.asp) trading volume. Trading commenced in 1994 with the launch of the wholesale debt market and a cash market segment shortly thereafter.
+The National Stock Exchange of India Limited (NSE) is India's largest financial market. Incorporated in 1992, the NSE has developed into a sophisticated, electronic market, which ranked fourth in the world by [[equity]](https://www.investopedia.com/terms/e/equity.asp) trading volume. Trading commenced in 1994 with the launch of the wholesale debt market and a cash market segment shortly thereafter.
 
 ### Key Takeaways
 
@@ -33,11 +33,11 @@ The National Stock Exchange of India Limited was the first exchange in India to 
 
 ## Special Considerations
 
-As of June 2020, the National Stock Exchange had accumulated $2.27 trillion in total market capitalization, making it one of the world's largest stock exchange. The [flagship index](https://www.investopedia.com/articles/stocks/09/indian-stock-market.asp), the NIFTY 50, represents the majority of total market capitalization listed on the exchange.
+As of June 2020, the National Stock Exchange had accumulated $2.27 trillion in total market capitalization, making it one of the world's largest stock exchange. The [[flagship index]](https://www.investopedia.com/articles/stocks/09/indian-stock-market.asp), the NIFTY 50, represents the majority of total market capitalization listed on the exchange.
 
-The total traded value of stocks listed on the index makes up almost half of the traded value of all stocks on the NSE for the last six months. The index itself covers 12 sectors of the Indian economy across 50 stocks. Besides the NIFTY 50 Index, the National Stock Exchange [maintains market indices](https://nseindia.com/products/content/equities/indices/broad_indices.htm) that track various market capitalizations, volatility, specific sectors, and factor strategies. 
+The total traded value of stocks listed on the index makes up almost half of the traded value of all stocks on the NSE for the last six months. The index itself covers 12 sectors of the Indian economy across 50 stocks. Besides the NIFTY 50 Index, the National Stock Exchange [[maintains market indices]](https://nseindia.com/products/content/equities/indices/broad_indices.htm) that track various market capitalizations, volatility, specific sectors, and factor strategies. 
 
-The National Stock Exchange has been a pioneer in Indian financial markets, being the first electronic limit order book to trade derivatives and ETFs. The exchange supports more than 3,000 [Very Small Aperture Terminal](https://www.investopedia.com/terms/v/vsat.asp) (VSAT) terminals, making the NSE the largest private wide-area network in the country. Girish Chandra Chaturvedi is the Chairman of the Board of Directors and Vikram Limaye is the Managing Director and CEO of the exchange. 
+The National Stock Exchange has been a pioneer in Indian financial markets, being the first electronic limit order book to trade derivatives and ETFs. The exchange supports more than 3,000 [[Very Small Aperture Terminal]](https://www.investopedia.com/terms/v/vsat.asp) (VSAT) terminals, making the NSE the largest private wide-area network in the country. Girish Chandra Chaturvedi is the Chairman of the Board of Directors and Vikram Limaye is the Managing Director and CEO of the exchange. 
 
 ## Benefits of the NSE
 

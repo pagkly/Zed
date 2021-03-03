@@ -16,7 +16,7 @@ author: James Chen
 Golden Handshake Definition
 ## What Is a Golden Handshake?
 
-A golden handshake is a stipulation in an employment agreement which states that the employer will provide a significant [severance package](https://www.investopedia.com/terms/s/severence-package.asp) if the employee loses their job. It is usually provided to top executives in the event that they lose employment because of retirement, layoffs or for negligence. However, payment can be made in several ways, such as cash or [stock options](https://www.investopedia.com/terms/s/stockoption.asp).
+A golden handshake is a stipulation in an employment agreement which states that the employer will provide a significant [[severance package]](https://www.investopedia.com/terms/s/severence-package.asp) if the employee loses their job. It is usually provided to top executives in the event that they lose employment because of retirement, layoffs or for negligence. However, payment can be made in several ways, such as cash or [[stock options]](https://www.investopedia.com/terms/s/stockoption.asp).
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ An example of this is automotive companies that buy out union workers' contracts
 
 ## Criticism of Golden Handshakes
 
-Golden handshakes can be very controversial. They can damage a company's public image because large executive payoffs are viewed as a reward for failure. For example, in 2010 British the oil company BP had an [oil spill](https://www.investopedia.com/terms/b/bp-oil-spill.asp) that occurred in the Gulf of Mexico as a result of the explosion of the Deepwater Horizon oil rig. 
+Golden handshakes can be very controversial. They can damage a company's public image because large executive payoffs are viewed as a reward for failure. For example, in 2010 British the oil company BP had an [[oil spill]](https://www.investopedia.com/terms/b/bp-oil-spill.asp) that occurred in the Gulf of Mexico as a result of the explosion of the Deepwater Horizon oil rig. 
 
 The rig was leased to BP for exploration of the Macondo Prospect, an oil field off the coast of Louisiana. After the accident, which resulted in costs to the company of more than $60 billion, BP's CEO Tony Hayward was pushed out. However, he received a golden handshake payout of a year's salary, worth $1.61 million, in addition to keeping his approximately $17 million pension fund.
 

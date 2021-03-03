@@ -16,9 +16,9 @@ author: Julia Kagan
 How Transferable Letters of Credit Work
 ## What Is a Transferable Letter of Credit?
 
-A transferable letter of credit is a type of financial guarantee, known as a [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp), that additionally allows the first [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) to transfer some or all of the credit to another party, which creates a secondary beneficiary. The party that initially accepts the transferable letter of credit from the bank is referred to as the first, or primary beneficiary.
+A transferable letter of credit is a type of financial guarantee, known as a [[letter of credit]](https://www.investopedia.com/terms/l/letterofcredit.asp), that additionally allows the first [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp) to transfer some or all of the credit to another party, which creates a secondary beneficiary. The party that initially accepts the transferable letter of credit from the bank is referred to as the first, or primary beneficiary.
 
-A transferable letter of credit is often used in business deals to ensure payment to the supplier or manufacturer. A transferable letter of credit is an alternative option to [advance payments](https://www.investopedia.com/terms/a/advance-payment.asp).
+A transferable letter of credit is often used in business deals to ensure payment to the supplier or manufacturer. A transferable letter of credit is an alternative option to [[advance payments]](https://www.investopedia.com/terms/a/advance-payment.asp).
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ The parties involved in a transferable letter of credit are the applicant, the f
 
 ## Transferable Letter of Credit Approval
 
-The letter of credit approval process is similar to the process of receiving a bank loan. The buyer must submit a letter of [credit application](https://www.investopedia.com/terms/c/credit-application.asp), including details on their credit profile. A bank will analyze a buyer’s credit score and financial stability in the [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) process. If approved, the letter of credit shows the bank is willing to issue a loan for a specified amount to the borrower if a loan is needed to cover the payment of the customer’s order with the seller.
+The letter of credit approval process is similar to the process of receiving a bank loan. The buyer must submit a letter of [[credit application]](https://www.investopedia.com/terms/c/credit-application.asp), including details on their credit profile. A bank will analyze a buyer’s credit score and financial stability in the [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) process. If approved, the letter of credit shows the bank is willing to issue a loan for a specified amount to the borrower if a loan is needed to cover the payment of the customer’s order with the seller.
 
 ## Transferable Letters of Credit in Trade Agreements
 
@@ -48,6 +48,6 @@ A buyer needs to partner with a bank to obtain approval for a $45,000 letter of 
 
 ## Transferable Letter of Credit Versus Confirmed Letter of Credit
 
-A transferable letter of credit can be a more convenient option for a buyer than a [confirmed letter of credit](https://www.investopedia.com/terms/c/confirmed-letter-credit.asp). That's because the buyer is only required to deal with one bank for a transferable letter of credit.
+A transferable letter of credit can be a more convenient option for a buyer than a [[confirmed letter of credit]](https://www.investopedia.com/terms/c/confirmed-letter-credit.asp). That's because the buyer is only required to deal with one bank for a transferable letter of credit.
 
 In a confirmed letter of credit, however, the buyer must obtain two letters of credit to make the first letter of credit confirmed. They are obtained from two different banks, and the second bank guarantees the letter from the first bank. Confirmed letters of credit are required by a seller in the event that the first bank defaults on repayment.

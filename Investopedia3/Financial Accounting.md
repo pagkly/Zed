@@ -16,7 +16,7 @@ author: Will Kenton
 Financial Accounting
 ## What is Financial Accounting?
 
-Financial accounting is a specific branch of accounting involving a process of recording, summarizing, and reporting the myriad of transactions resulting from business operations over a period of time. These transactions are summarized in the preparation of financial statements, including the balance sheet, [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) and cash flow statement, that record the company's operating performance over a specified period.
+Financial accounting is a specific branch of accounting involving a process of recording, summarizing, and reporting the myriad of transactions resulting from business operations over a period of time. These transactions are summarized in the preparation of financial statements, including the balance sheet, [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) and cash flow statement, that record the company's operating performance over a specified period.
 
 Work opportunities for a financial accountant can be found in both the public and private sectors. A financial accountant's duties may differ from those of a general accountant, who works for himself or herself rather than directly for a company or organization.
 
@@ -42,7 +42,7 @@ Cash accounting entails recording transactions only upon the exchange of cash. R
 
 ## Financial Accounting Vs. Managerial Accounting
 
-The key difference between financial and [managerial accounting](https://www.investopedia.com/terms/m/managerialaccounting.asp) is that financial accounting aims at providing information to parties outside the organization, whereas managerial accounting information is aimed at helping managers within the organization make decisions.
+The key difference between financial and [[managerial accounting]](https://www.investopedia.com/terms/m/managerialaccounting.asp) is that financial accounting aims at providing information to parties outside the organization, whereas managerial accounting information is aimed at helping managers within the organization make decisions.
 
 Financial statement preparation using accounting principles is most relevant to regulatory organizations and financial institutions. Because there are numerous accounting rules that do not translate well into business operation management, different accounting rules and procedures are utilized by internal management for internal business analysis.
 

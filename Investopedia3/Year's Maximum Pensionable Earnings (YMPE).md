@@ -16,7 +16,7 @@ author: Julia Kagan
 Year's Maximum Pensionable Earnings (YMPE)
 ## What Is Year's Maximum Pensionable Earnings (YMPE)?
 
-The Canadian government sets the year's maximum pensionable earnings (YMPE) figure. The YMPE determines the maximum amount on which to base contributions to the Canada or Quebec Pension Plan (C/QPP). The YMPE specifies the [earnings](https://www.investopedia.com/terms/e/earnings.asp) amount that can be used in calculating pension contributions for each year.1 2
+The Canadian government sets the year's maximum pensionable earnings (YMPE) figure. The YMPE determines the maximum amount on which to base contributions to the Canada or Quebec Pension Plan (C/QPP). The YMPE specifies the [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) amount that can be used in calculating pension contributions for each year.1 2
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ The Canadian government sets the year's maximum pensionable earnings (YMPE) fig
 
 ## Understanding Year's Maximum Pensionable Earnings (YMPE)
 
-The [Canada Pension Plan (CPP)](https://www.investopedia.com/terms/c/cpp.asp) determines the maximum earnings amount for which contributions to the Canada Pension Plan can be made. According to the Government of Canada, the maximum pensionable earnings under the Canada Pension Plan (CPP) for 2020 are $58,700—up from $57,400 in 2019. Contributors who earn more than $58,700 in 2020 cannot make additional contributions to the CPP.3
+The [[Canada Pension Plan (CPP)]](https://www.investopedia.com/terms/c/cpp.asp) determines the maximum earnings amount for which contributions to the Canada Pension Plan can be made. According to the Government of Canada, the maximum pensionable earnings under the Canada Pension Plan (CPP) for 2020 are $58,700—up from $57,400 in 2019. Contributors who earn more than $58,700 in 2020 cannot make additional contributions to the CPP.3
 
 Beginning in 2024, a separate contribution rate will be implemented for earnings above the YMPE (expected to be 4% each for employers and employees).4
 
 ## Year's Maximum Pensionable Earnings and CPP Contributions
 
-The Canada Pension Plan is similar to the [Social Security](https://www.investopedia.com/terms/s/socialsecurity.asp) program in the United States. It provides workers with a series of monthly payments in retirement. The size of those payments depends on an individual's earnings during their working years.5
+The Canada Pension Plan is similar to the [[Social Security]](https://www.investopedia.com/terms/s/socialsecurity.asp) program in the United States. It provides workers with a series of monthly payments in retirement. The size of those payments depends on an individual's earnings during their working years.5
 
 On June 20, 2016, Canada's ministers of finance agreed to augment the CPP. The deal increased how much working Canadians would receive from the CPP—from one-quarter of the employees' eligible earnings to one-third, with a boost to the earnings limit. Changes will be phased in gradually over seven years—from 2019 to 2025—so that the impact is measured and piecemeal.4
 

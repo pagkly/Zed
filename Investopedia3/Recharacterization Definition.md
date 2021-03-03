@@ -16,11 +16,11 @@ author: Julia Kagan
 Recharacterization Definition
 ## What Is Recharacterization?
 
-A recharacterization is the reversal of an [IRA conversion](https://www.investopedia.com/terms/i/iraconversion.asp), such as from a Roth IRA back to a traditional IRA, generally to achieve better tax treatment. The [strategy of recharacterizing](https://www.irs.gov/retirement-plans/ira-faqs-recharacterization-of-ira-contributions) from a Roth back to a traditional IRA was banned by the Tax Cuts and Jobs Act of 2017.1
+A recharacterization is the reversal of an [[IRA conversion]](https://www.investopedia.com/terms/i/iraconversion.asp), such as from a Roth IRA back to a traditional IRA, generally to achieve better tax treatment. The [[strategy of recharacterizing]](https://www.irs.gov/retirement-plans/ira-faqs-recharacterization-of-ira-contributions) from a Roth back to a traditional IRA was banned by the Tax Cuts and Jobs Act of 2017.1
 
-Recharacterizations were mostly performed after a conversion from a [traditional individual retirement account](https://www.investopedia.com/terms/t/traditionalira.asp) (IRA) to a [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp), though they could go the other way, as well. A traditional-to-Roth conversion, also known as a "rollover," could result in a significant and unexpected tax burden—so much so that the individual who had done the conversion could decide to undo it, which resulted in a recharacterization.
+Recharacterizations were mostly performed after a conversion from a [[traditional individual retirement account]](https://www.investopedia.com/terms/t/traditionalira.asp) (IRA) to a [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp), though they could go the other way, as well. A traditional-to-Roth conversion, also known as a "rollover," could result in a significant and unexpected tax burden—so much so that the individual who had done the conversion could decide to undo it, which resulted in a recharacterization.
 
-With recharacterizations, there were a number of important [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) procedures and deadlines to be aware of. As many provisions of the 2017 tax bill were mandated to end in the 2026 tax year, this text will describe how recharacterizations have worked, in case the option returns in the future.
+With recharacterizations, there were a number of important [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) procedures and deadlines to be aware of. As many provisions of the 2017 tax bill were mandated to end in the 2026 tax year, this text will describe how recharacterizations have worked, in case the option returns in the future.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ The deadline for recharacterizing a traditional IRA (or other retirement plan) t
 
 For example, if you converted in 2019, you would have had until Oct. 15, 2020, to complete a recharacterization. You could also amend and submit a new tax return if you had already filed taxes for the conversion year. Upon recharacterization, you would need to wait until either 30 days or until the next calendar year (whichever was longer) to reconvert to a Roth IRA.1
 
-Filling out IRS [Form 8606](https://www.investopedia.com/terms/f/form-8606.asp) was required to perform a recharacterization. The IRS provided several resources on IRA recharacterizations, such as a [Form 8606 informational page](https://www.irs.gov/forms-pubs/about-form-8606), frequently asked questions on recharacterizations, and instructions for Form 8606.2
+Filling out IRS [[Form 8606]](https://www.investopedia.com/terms/f/form-8606.asp) was required to perform a recharacterization. The IRS provided several resources on IRA recharacterizations, such as a [[Form 8606 informational page]](https://www.irs.gov/forms-pubs/about-form-8606), frequently asked questions on recharacterizations, and instructions for Form 8606.2
 
 ## Recharacterization and Conversions
 
@@ -49,10 +49,10 @@ Retirement accounts that were eligible to convert to a Roth IRA included the fol
 -   [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) plan from a former employer
 -   [403(b](https://www.investopedia.com/terms/1/403bplan.asp)) plan from a former employer
 -   [457(b)](https://www.investopedia.com/terms/1/457plan.asp) plan from a former employer
--   [SIMPLE IRA](https://www.investopedia.com/terms/s/simple-ira.asp)
--   [SEP IRA](https://www.investopedia.com/terms/s/sep.asp)
--   [SARSEP IRA](https://www.investopedia.com/terms/s/sarsep.asp)
+-   [[SIMPLE IRA]](https://www.investopedia.com/terms/s/simple-ira.asp)
+-   [[SEP IRA]](https://www.investopedia.com/terms/s/sep.asp)
+-   [[SARSEP IRA]](https://www.investopedia.com/terms/s/sarsep.asp)
 
-A conversion from one of the above pre-tax accounts created a taxable event, which meant that any assets converted must be included in the taxpayer's taxable [gross income](https://www.investopedia.com/terms/g/grossincome.asp). This introduced several tax planning decisions, such as whether it made sense to make the conversion over many years or wait until a year that you were likely to be in a lower tax bracket.
+A conversion from one of the above pre-tax accounts created a taxable event, which meant that any assets converted must be included in the taxpayer's taxable [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp). This introduced several tax planning decisions, such as whether it made sense to make the conversion over many years or wait until a year that you were likely to be in a lower tax bracket.
 
-The upside of a conversion to a Roth IRA came with added flexibility in taking distributions. Since Roth IRAs are funded with dollars that are already taxed, there are no [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) that can complicate tax planning later in life. A Roth IRA conversion also ensured that a retiree would not have to worry about potential federal tax hikes later in life.
+The upside of a conversion to a Roth IRA came with added flexibility in taking distributions. Since Roth IRAs are funded with dollars that are already taxed, there are no [[required minimum distributions]](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) that can complicate tax planning later in life. A Roth IRA conversion also ensured that a retiree would not have to worry about potential federal tax hikes later in life.

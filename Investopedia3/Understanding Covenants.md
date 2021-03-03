@@ -34,7 +34,7 @@ Once a covenant is broken, the lender typically has the right to call back the o
 
 ### Affirmative Covenants
 
-An affirmative or positive covenant is a clause in a loan contract that requires a borrower to perform specific actions. Examples of [affirmative covenants](https://www.investopedia.com/terms/a/affirmative-covenant.asp) include requirements to maintain adequate levels of insurance, requirements to furnish audited financial statements to the lender, compliance with applicable laws, and maintenance of proper accounting books and credit rating, if applicable.
+An affirmative or positive covenant is a clause in a loan contract that requires a borrower to perform specific actions. Examples of [[affirmative covenants]](https://www.investopedia.com/terms/a/affirmative-covenant.asp) include requirements to maintain adequate levels of insurance, requirements to furnish audited financial statements to the lender, compliance with applicable laws, and maintenance of proper accounting books and credit rating, if applicable.
 
 A violation of an affirmative covenant ordinarily results in outright default. Certain loan contracts may contain clauses that provide a borrower with a grace period to remedy the violation. If not corrected, creditors are entitled to announce default and demand immediate repayment of principal and any accrued interest.
 
@@ -42,7 +42,7 @@ A violation of an affirmative covenant ordinarily results in outright default. C
 
 Negative covenants are put in place to make borrowers refrain from certain actions that could result in the deterioration of their credit standing and ability to repay existing debt. The most common forms of negative covenants are financial ratios that a borrower must maintain as of the date of the financial statements. For instance, most loan agreements require a ratio of total debt to a certain measure of earnings not to exceed a maximum amount, which ensures that a company does not burden itself with more debt than it can afford to service.
 
-Another common negative covenant is an [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp), which says that earnings before interest and taxes (EBIT) must be greater in proportion to interest payments by a certain number of times. The ratio puts a check on a borrower to make sure that he generates enough earnings to afford paying interest.
+Another common negative covenant is an [[interest coverage ratio]](https://www.investopedia.com/terms/i/interestcoverageratio.asp), which says that earnings before interest and taxes (EBIT) must be greater in proportion to interest payments by a certain number of times. The ratio puts a check on a borrower to make sure that he generates enough earnings to afford paying interest.
 
 ### Bond Violations
 

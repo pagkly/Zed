@@ -16,9 +16,9 @@ author: Akhilesh Ganti
 Natural Hedge Definition
 ## What Is a Natural Hedge?
 
-A natural [hedge](https://www.investopedia.com/terms/h/hedge.asp) is a management strategy that seeks to mitigate risk by investing in assets whose performances are inherently negatively [correlated](https://www.investopedia.com/terms/c/correlation.asp). For instance, a natural hedge against owning financial stocks is to hold bonds, since interest rate changes tend to influence each in opposite fashion,
+A natural [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) is a management strategy that seeks to mitigate risk by investing in assets whose performances are inherently negatively [[correlated]](https://www.investopedia.com/terms/c/correlation.asp). For instance, a natural hedge against owning financial stocks is to hold bonds, since interest rate changes tend to influence each in opposite fashion,
 
-A natural hedge can also be implemented when institutions exploit their normal operating procedures. For example, if they incur [expenses](https://www.investopedia.com/terms/e/expense.asp) in the same currency that their [revenues](https://www.investopedia.com/terms/r/revenue.asp) are generated they will actually reduce their [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) risk exposure, naturally.
+A natural hedge can also be implemented when institutions exploit their normal operating procedures. For example, if they incur [[expenses]](https://www.investopedia.com/terms/e/expense.asp) in the same currency that their [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) are generated they will actually reduce their [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) risk exposure, naturally.
 
 ### Key Takeaways
 
@@ -38,18 +38,18 @@ A commonly used example is that of an oil producer with refining operations in t
 
 ## Special Considerations
 
-Unlike other conventional hedging methods, a natural hedge does not require the use of sophisticated financial products such as [forwards](https://www.investopedia.com/terms/f/forwardcontract.asp) or [derivatives](https://www.investopedia.com/terms/d/derivative.asp). That said, companies can still use financial instruments such as [futures](https://www.investopedia.com/terms/f/futures.asp), to supplement their natural hedges.
+Unlike other conventional hedging methods, a natural hedge does not require the use of sophisticated financial products such as [[forwards]](https://www.investopedia.com/terms/f/forwardcontract.asp) or [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp). That said, companies can still use financial instruments such as [[futures]](https://www.investopedia.com/terms/f/futures.asp), to supplement their natural hedges.
 
-For example, a [commodity](https://www.investopedia.com/terms/c/commodity.asp) company could shift as much of their operations to the country where they plan to sell their product, which is a natural hedge against [currency risk](https://www.investopedia.com/terms/c/currencyrisk.asp), then use futures contracts to lock in the price to sell (revenue) that product at a later date.
+For example, a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) company could shift as much of their operations to the country where they plan to sell their product, which is a natural hedge against [[currency risk]](https://www.investopedia.com/terms/c/currencyrisk.asp), then use futures contracts to lock in the price to sell (revenue) that product at a later date.
 
 Most hedges (natural or otherwise) are imperfect, and usually do not eliminate risk completely, but, they are still deployed and are considered to be successful if they can reduce a vast portion of potential risk.
 
 ## Other Examples of Natural Hedges
 
-Natural hedges also occur when a business's structure protects it from exchange rate movements. For example, when suppliers, production, and customers are all operating in the same currency, large companies may look to source [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp), components, and other production inputs in the final consumer's country. The business can then set costs and prices in the same currency.
+Natural hedges also occur when a business's structure protects it from exchange rate movements. For example, when suppliers, production, and customers are all operating in the same currency, large companies may look to source [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp), components, and other production inputs in the final consumer's country. The business can then set costs and prices in the same currency.
 
-For [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) managers, [treasury bonds](https://www.investopedia.com/terms/t/treasurybond.asp) and [treasury notes](https://www.investopedia.com/terms/t/treasurynote.asp) can be a natural hedge against stock price movements. This is because bonds tend to perform well when stocks are performing poorly and vice versa.
+For [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) managers, [[treasury bonds]](https://www.investopedia.com/terms/t/treasurybond.asp) and [[treasury notes]](https://www.investopedia.com/terms/t/treasurynote.asp) can be a natural hedge against stock price movements. This is because bonds tend to perform well when stocks are performing poorly and vice versa.
 
-Bonds are considered to be "[risk-off](https://www.investopedia.com/terms/r/risk-on-risk-off.asp)" or safety assets while stocks are considered to be 'risk-on' or aggressive assets. This is a relationship that has been historically valid most of the time, but not always. In the years after the 2008 financial crisis, this negative correlation between bonds and stocks decoupled as both moved in tandem (e.g., strong [bull markets](https://www.investopedia.com/terms/b/bullmarket.asp)), so this natural hedge would not have been successful.
+Bonds are considered to be "[risk-off](https://www.investopedia.com/terms/r/risk-on-risk-off.asp)" or safety assets while stocks are considered to be 'risk-on' or aggressive assets. This is a relationship that has been historically valid most of the time, but not always. In the years after the 2008 financial crisis, this negative correlation between bonds and stocks decoupled as both moved in tandem (e.g., strong [[bull markets]](https://www.investopedia.com/terms/b/bullmarket.asp)), so this natural hedge would not have been successful.
 
-[Pairs trading](https://www.investopedia.com/terms/p/pairstrade.asp) is another type of natural hedge. This involves buying long and [short positions](https://www.investopedia.com/terms/s/short.asp) in highly [correlated](https://www.investopedia.com/terms/c/correlation.asp) stocks because the performance of one will offset the performance of the other.
+[Pairs trading](https://www.investopedia.com/terms/p/pairstrade.asp) is another type of natural hedge. This involves buying long and [[short positions]](https://www.investopedia.com/terms/s/short.asp) in highly [[correlated]](https://www.investopedia.com/terms/c/correlation.asp) stocks because the performance of one will offset the performance of the other.

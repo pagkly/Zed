@@ -16,9 +16,9 @@ author: Adam Hayes
 Unearned Premium
 ## What Are Unearned Premiums?
 
-An unearned premium is the [premium](https://www.investopedia.com/terms/p/premium.asp) amount that corresponds to the time period remaining on an [insurance](https://www.investopedia.com/terms/i/insurance.asp) policy. In other words, it is the portion of the policy premium that has not yet been "earned" by the insurance company because the policy still has some time before it expires.
+An unearned premium is the [[premium]](https://www.investopedia.com/terms/p/premium.asp) amount that corresponds to the time period remaining on an [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) policy. In other words, it is the portion of the policy premium that has not yet been "earned" by the insurance company because the policy still has some time before it expires.
 
-Unearned premiums appear as a [liability](https://www.investopedia.com/terms/l/liability.asp) on the insurer's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) because they would be paid back upon cancellation of the policy.
+Unearned premiums appear as a [[liability]](https://www.investopedia.com/terms/l/liability.asp) on the insurer's [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) because they would be paid back upon cancellation of the policy.
 
 For example, at the end of the first year of a fully prepaid five-year insurance policy with insurance premiums of $2,000 per year, the insurer has earned a premium of $2,000 and has an unearned premium of $8,000.
 
@@ -32,11 +32,11 @@ For example, at the end of the first year of a fully prepaid five-year insurance
 
 An unearned premium is the portion of an insurer's total premiums that is collected in advance by an insurance company. Unearned premiums may be subject to return if a client ends coverage before the term covered by the premium is complete. An unearned premium may be returned when an insured item is declared a total loss and coverage is no longer required, or when the insurance provider cancels the coverage.
 
-For example, consider a client who paid an [auto insurance](https://www.investopedia.com/terms/a/auto-insurance.asp) premium one year in advance who experiences the complete destruction of his vehicle four months into the coverage period. The insurance company keeps one-third of the annual premium for coverage provided and returns the other two-thirds as unearned premium.
+For example, consider a client who paid an [[auto insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp) premium one year in advance who experiences the complete destruction of his vehicle four months into the coverage period. The insurance company keeps one-third of the annual premium for coverage provided and returns the other two-thirds as unearned premium.
 
 Provisions in the insurance contract govern the terms for unearned premium. The provisions must follow regulations related to the area where the coverage is offered. A specific formula for calculating the amount of the unearned premium may be required.
 
-The [premium](https://www.investopedia.com/terms/i/insurance-premium.asp) that a policyholder pays for an insurance contract is not immediately recognized as earnings by the insurer. In certain circumstances, an insurance company may not have to issue a refund for unearned premium.
+The [[premium]](https://www.investopedia.com/terms/i/insurance-premium.asp) that a policyholder pays for an insurance contract is not immediately recognized as earnings by the insurer. In certain circumstances, an insurance company may not have to issue a refund for unearned premium.
 
 For example, if the policyholder has falsified information on the application for obtaining insurance coverage, the provider may not be required to refund any part of the earned or unearned premiums collected. Policies typically outline the conditions that must be met when applying for and receiving the unearned portion of a premium.
 
@@ -46,7 +46,7 @@ However, if the insured can prove the provider did not honor the terms and condi
 
 ## Unearned Premium vs. Earned Premium
 
-An unearned premium on an insurance policy can be contrasted with [earned premium](https://www.investopedia.com/terms/e/earnedpremium.asp). Earned premium is a pro-rated amount of paid-in-advance premiums that has been "earned" and now belongs to the insurer. The amount of the earned premium equates to the sum of the total premiums collected by an insurance company over a period of time. 
+An unearned premium on an insurance policy can be contrasted with [[earned premium]](https://www.investopedia.com/terms/e/earnedpremium.asp). Earned premium is a pro-rated amount of paid-in-advance premiums that has been "earned" and now belongs to the insurer. The amount of the earned premium equates to the sum of the total premiums collected by an insurance company over a period of time. 
 
 In other words, the earned premium is the portion of an insurance premium that paid for a portion of time in which the insurance policy was in effect, but has now passed and expired. Since the insurance company covered the risk during that time, it can now consider the associated premium payments it took from the insured as "earned."
 

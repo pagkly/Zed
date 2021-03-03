@@ -16,7 +16,7 @@ author: Adam hayes
 Understanding Return on Sales (ROS)
 ## What Is Return on Sales (ROS)?
 
-Return on sales (ROS) is a ratio used to evaluate a company's operational efficiency. This measure provides insight into how much profit is being produced per dollar of sales. An increasing ROS indicates that a company is growing more efficiently, while a decreasing ROS could signal impending financial troubles. ROS is very closely related to a firm's [operating profit margin](https://www.investopedia.com/terms/o/operatingmargin.asp).
+Return on sales (ROS) is a ratio used to evaluate a company's operational efficiency. This measure provides insight into how much profit is being produced per dollar of sales. An increasing ROS indicates that a company is growing more efficiently, while a decreasing ROS could signal impending financial troubles. ROS is very closely related to a firm's [[operating profit margin]](https://www.investopedia.com/terms/o/operatingmargin.asp).
 
 ## Formula and Calculation of Return on Sales
 
@@ -26,7 +26,7 @@ ROS\=Operating ProfitNet Saleswhere:ROS\=Return on salesOperating Profit i
 
 When calculating return on sales, investors might notice that some companies report net sales while others report revenue. Net sales is total revenue minus the credits or refunds paid to customers for merchandise returns. Net sales will likely be listed for companies in the retail industry, while others will list revenue. Below are the steps to calculate return on sales.
 
-1.  Locate [net sales](https://www.investopedia.com/terms/n/netsales.asp) on the income statement, but it can also be listed as revenue.
+1.  Locate [[net sales]](https://www.investopedia.com/terms/n/netsales.asp) on the income statement, but it can also be listed as revenue.
 2.  Locate operating profit on the income statement. Be sure not to include non-operating activities and expenses, such as taxes and interest expenses.
 3.  Divide operating profit by net sales.
 
@@ -40,11 +40,11 @@ When calculating return on sales, investors might notice that some companies rep
 
 Return on sales is a financial ratio that calculates how efficiently a company is generating profits from its top-line revenue. It measures the performance of a company by analyzing the percentage of total revenue that is converted into operating profits.
 
-The calculation shows how effectively a company is producing its core products and services and how its management runs the business. Therefore, ROS is used as an indicator of both efficiency and profitability. Investors, creditors, and other debt holders rely on this [efficiency ratio](https://www.investopedia.com/terms/e/efficiencyratio.asp) because it accurately communicates the percentage of operating cash a company makes on its revenue and provides insight into potential dividends, reinvestment potential, and the company's ability to repay debt.
+The calculation shows how effectively a company is producing its core products and services and how its management runs the business. Therefore, ROS is used as an indicator of both efficiency and profitability. Investors, creditors, and other debt holders rely on this [[efficiency ratio]](https://www.investopedia.com/terms/e/efficiencyratio.asp) because it accurately communicates the percentage of operating cash a company makes on its revenue and provides insight into potential dividends, reinvestment potential, and the company's ability to repay debt.
 
-ROS is used to compare current period calculations with calculations from previous periods. This allows a company to conduct [trend analyses](https://www.investopedia.com/terms/t/trendanalysis.asp) and compare internal efficiency performance over time. It is also useful to compare one company's ROS percentage with that of a competing company, regardless of scale.
+ROS is used to compare current period calculations with calculations from previous periods. This allows a company to conduct [[trend analyses]](https://www.investopedia.com/terms/t/trendanalysis.asp) and compare internal efficiency performance over time. It is also useful to compare one company's ROS percentage with that of a competing company, regardless of scale.
 
-The comparison makes it easier to assess the performance of a small company in relation to a [Fortune 500](https://www.investopedia.com/terms/f/fortune500.asp) company. However, ROS should only be used to compare companies within the same industry as they vary greatly across industries. A grocery chain, for example, has lower margins and therefore a lower ROS compared to a technology company.
+The comparison makes it easier to assess the performance of a small company in relation to a [[Fortune 500]](https://www.investopedia.com/terms/f/fortune500.asp) company. However, ROS should only be used to compare companies within the same industry as they vary greatly across industries. A grocery chain, for example, has lower margins and therefore a lower ROS compared to a technology company.
 
 ## Example of How to Use Return on Sales
 

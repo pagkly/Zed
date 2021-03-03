@@ -16,7 +16,7 @@ author: Julia Kagan
 Don't Miss Out on Property Tax Deductions
 ## What Is the Property Tax Deduction?
 
-State and local property taxes are generally eligible to be deducted from the property owner's [federal income taxes](https://www.investopedia.com/terms/f/federal_income_tax.asp). Deductible real estate taxes include any state, local, or foreign taxes that are levied for the general public welfare. They do not include taxes charged for home renovations or for services like trash collection.
+State and local property taxes are generally eligible to be deducted from the property owner's [[federal income taxes]](https://www.investopedia.com/terms/f/federal_income_tax.asp). Deductible real estate taxes include any state, local, or foreign taxes that are levied for the general public welfare. They do not include taxes charged for home renovations or for services like trash collection.
 
 As noted below, the Tax Cuts and Jobs Act capped the property tax deduction, along with other state and local taxes, starting with 2018 taxes. The law capped the deduction for state and local taxes, including property taxes, at $10,000 ($5,000 if married filing separately). Previously, there was no limit on the deduction.1
 
@@ -29,15 +29,15 @@ As noted below, the Tax Cuts and Jobs Act capped the property tax deduction, alo
 
 ## Understanding the Property Tax Deduction
 
-The owner of a property must pay taxes, assessed annually by a state and/or local government, on the value of the property. A property owner can claim a [tax deduction](https://www.investopedia.com/terms/t/tax-deduction.asp) on some or all of the [property taxes](https://www.investopedia.com/terms/p/propertytax.asp) paid if they use the property for personal use and [itemize deductions](https://www.investopedia.com/terms/i/itemizeddeduction.asp) on their federal tax return.
+The owner of a property must pay taxes, assessed annually by a state and/or local government, on the value of the property. A property owner can claim a [[tax deduction]](https://www.investopedia.com/terms/t/tax-deduction.asp) on some or all of the [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp) paid if they use the property for personal use and [[itemize deductions]](https://www.investopedia.com/terms/i/itemizeddeduction.asp) on their federal tax return.
 
 The real estate taxes that can be deducted include taxes paid at closing when buying or selling a home and taxes paid to a county or town’s tax assessor on the assessed value of the personal property. Personal property, according to the Internal Revenue Service (IRS), may include a taxpayer’s main home, vacation home, land, or foreign property.2
 
 ## Special Considerations
 
-Taxes paid on rental or commercial property—and on property not owned by the taxpayer—cannot be deducted. In addition, a homebuyer who pays the seller's [delinquent taxes](https://www.investopedia.com/terms/b/back-taxes.asp) from an earlier year at the time the sale was closed cannot deduct these tax payments on their tax return. This delinquent tax payment is, instead, treated as part of the cost of buying the home.
+Taxes paid on rental or commercial property—and on property not owned by the taxpayer—cannot be deducted. In addition, a homebuyer who pays the seller's [[delinquent taxes]](https://www.investopedia.com/terms/b/back-taxes.asp) from an earlier year at the time the sale was closed cannot deduct these tax payments on their tax return. This delinquent tax payment is, instead, treated as part of the cost of buying the home.
 
-Also, a property owner’s tax bill includes miscellaneous items that are not allowed to be deducted for tax purposes. Some of these items include payments for improvements made to a local residential area, such as sidewalks, and fees for a service delivery, such as trash collection. To understand what portion of a tax bill qualifies for deduction, refer to [Form 1098](https://www.investopedia.com/terms/f/form_1098.asp), which is reported by the bank or lender to the IRS and sent to the property owner.
+Also, a property owner’s tax bill includes miscellaneous items that are not allowed to be deducted for tax purposes. Some of these items include payments for improvements made to a local residential area, such as sidewalks, and fees for a service delivery, such as trash collection. To understand what portion of a tax bill qualifies for deduction, refer to [[Form 1098]](https://www.investopedia.com/terms/f/form_1098.asp), which is reported by the bank or lender to the IRS and sent to the property owner.
 
 #### Tax Deductions Vs. Tax Credits
 
@@ -45,15 +45,15 @@ Also, a property owner’s tax bill includes miscellaneous items that are not al
 
 To claim a property tax deduction, the tax must apply only to the value of the personal property owned and be charged on an annual basis, irrespective of when the government collects it from you. Therefore, if the state tax was only charged at the time the property was purchased then it does not meet the IRS definition of a deductible personal property tax.
 
-As stated earlier, property tax can only be deducted if the owner chooses to itemize deductions. It makes sense for a taxpayer to itemize deductions if the sum of all their eligible itemized expenses is greater than the [standard deduction](https://www.investopedia.com/terms/s/standarddeduction.asp) allowed in a given tax year.
+As stated earlier, property tax can only be deducted if the owner chooses to itemize deductions. It makes sense for a taxpayer to itemize deductions if the sum of all their eligible itemized expenses is greater than the [[standard deduction]](https://www.investopedia.com/terms/s/standarddeduction.asp) allowed in a given tax year.
 
 ## Pros and Cons of the Property Tax Deduction
 
-From time to time there is talk of eliminating the property tax deduction. One of the arguments for doing so is that the deduction—along with the federal [mortgage interest deduction](https://www.investopedia.com/terms/home-mortgage-interest.asp)—discriminates against renters and encourages people to take on more debt. Proponents of retaining the property tax deduction say that it promotes homeownership.
+From time to time there is talk of eliminating the property tax deduction. One of the arguments for doing so is that the deduction—along with the federal [[mortgage interest deduction]](https://www.investopedia.com/terms/home-mortgage-interest.asp)—discriminates against renters and encourages people to take on more debt. Proponents of retaining the property tax deduction say that it promotes homeownership.
 
 The Tax Cuts and Jobs Act of 2017 capped the deduction for state and local taxes, including property taxes, at a total of $10,000 ($5,000 if married filing separately), starting in 2018. Previously, there was no limit on the deduction.
 
-In addition, under the new law homeowners who deduct [mortgage interest](https://www.investopedia.com/terms/m/mortgageinterest.asp) are limited to the amount they pay on $750,000 worth of debt, down from $1 million. Interest on homes bought on or before Dec. 15, 2017 is grandfathered in at the previous rate.
+In addition, under the new law homeowners who deduct [[mortgage interest]](https://www.investopedia.com/terms/m/mortgageinterest.asp) are limited to the amount they pay on $750,000 worth of debt, down from $1 million. Interest on homes bought on or before Dec. 15, 2017 is grandfathered in at the previous rate.
 
 Because the standard deduction doubled in 2018, the predictions are that fewer homeowners will itemize their deductions. Thus, fewer property owners will claim the property tax deduction.
 

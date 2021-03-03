@@ -16,7 +16,7 @@ author: Caroline Banton
 Just In Case (JIC)
 ## What Is Just in Case (JIC)?
 
-Just in case (JIC) is an inventory strategy where companies keep large inventories on hand. This type of [inventory management](https://www.investopedia.com/terms/i/inventory-management.asp) strategy aims to minimize the probability that a product will sell out of stock. A company that uses this strategy typically has difficulty predicting consumer demand or experiences large surges in demand at unpredictable times. A company practicing this strategy essentially incurs higher inventory [holding costs](https://www.investopedia.com/terms/h/holding-costs.asp) in return for a reduction in the number of sales lost due to sold-out inventory.
+Just in case (JIC) is an inventory strategy where companies keep large inventories on hand. This type of [[inventory management]](https://www.investopedia.com/terms/i/inventory-management.asp) strategy aims to minimize the probability that a product will sell out of stock. A company that uses this strategy typically has difficulty predicting consumer demand or experiences large surges in demand at unpredictable times. A company practicing this strategy essentially incurs higher inventory [[holding costs]](https://www.investopedia.com/terms/h/holding-costs.asp) in return for a reduction in the number of sales lost due to sold-out inventory.
 
 ### Key Takeaways:
 
@@ -39,7 +39,7 @@ One major reason for practicing a more costly JIC system is the potential losses
 
 In a recent turn of events, some companies have started understocking their inventories on purpose. Makers of particular popular items for which buyers are not willing to accept substitutes can use this strategy.
 
-The "just in case" strategy is used by companies that have trouble [forecasting](https://www.investopedia.com/terms/f/forecasting.asp) demand. With this strategy, the companies have enough production material on hand to meet unexpected [spikes](https://www.investopedia.com/terms/s/spike.asp) in demand. Higher storage costs are the main disadvantage of this strategy.
+The "just in case" strategy is used by companies that have trouble [[forecasting]](https://www.investopedia.com/terms/f/forecasting.asp) demand. With this strategy, the companies have enough production material on hand to meet unexpected [[spikes]](https://www.investopedia.com/terms/s/spike.asp) in demand. Higher storage costs are the main disadvantage of this strategy.
 
 ## Real World Examples of Just In Case (JIC)
 

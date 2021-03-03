@@ -16,7 +16,7 @@ author: Clay Halton
 Hell or High Water Contract Definition
 ## What is a Hell or High Water Contract?
 
-A hell or high water contract (also known as a promise-to-pay contract) is a non-cancelable contract whereby the purchaser must make the specified payments to the seller, regardless of any difficulties they may encounter. Hell or high water clauses bind the purchaser or [lessee](https://www.investopedia.com/terms/l/lessee.asp) to the terms of the contract until the contract's expiration.
+A hell or high water contract (also known as a promise-to-pay contract) is a non-cancelable contract whereby the purchaser must make the specified payments to the seller, regardless of any difficulties they may encounter. Hell or high water clauses bind the purchaser or [[lessee]](https://www.investopedia.com/terms/l/lessee.asp) to the terms of the contract until the contract's expiration.
 
 ## Understanding Hell or High Water Contracts
 
@@ -24,7 +24,7 @@ Hell or high water contracts require payment whether or not the good or service 
 
 ## How Hell or High Water Contracts Work
 
-Hell or high water contracts can be enforced even in instances where there is some fault or defect in the property at the center of the agreement. For example, if a lessee agrees to rent or lease a piece of equipment or machinery under hell or high water terms, they are responsible for those payments regardless if the equipment malfunctions. The vendor or [lessor](https://www.investopedia.com/terms/l/lessor.asp) might only handle the financing aspect of the transaction and otherwise hold a passive role regarding the equipment itself.
+Hell or high water contracts can be enforced even in instances where there is some fault or defect in the property at the center of the agreement. For example, if a lessee agrees to rent or lease a piece of equipment or machinery under hell or high water terms, they are responsible for those payments regardless if the equipment malfunctions. The vendor or [[lessor]](https://www.investopedia.com/terms/l/lessor.asp) might only handle the financing aspect of the transaction and otherwise hold a passive role regarding the equipment itself.
 
 The lessee in such an agreement usually selects the equipment they wish to procure. The lessor then buys the chosen item that is in turn leased to the customer. A financing agreement with hell or high water language is designed to ensure that the lessee will pay the lessor under no uncertain terms.
 
@@ -32,4 +32,4 @@ If there is an issue with the equipment the lessee receives, the lessor typicall
 
 ## Hell or High Water Contracts in Finance
 
-Hell or high water contracts can come into play with project finance transactions, acquisition deals and high-yield [indentures](https://www.investopedia.com/terms/i/indenture.asp). For example, an acquisition deal with hell or high water language can direct the prospective buyer in the agreement to shoulder the burden of addressing any necessary divestitures or litigation that might result from antitrust regulatory issues. The viability of the acquisition agreement could be tied directly to the buyer's ability to resolve such matters and clear the way for the deal to proceed.
+Hell or high water contracts can come into play with project finance transactions, acquisition deals and high-yield [[indentures]](https://www.investopedia.com/terms/i/indenture.asp). For example, an acquisition deal with hell or high water language can direct the prospective buyer in the agreement to shoulder the burden of addressing any necessary divestitures or litigation that might result from antitrust regulatory issues. The viability of the acquisition agreement could be tied directly to the buyer's ability to resolve such matters and clear the way for the deal to proceed.

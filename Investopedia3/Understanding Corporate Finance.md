@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding Corporate Finance
 ## What Is Corporate Finance?
 
-Corporate finance is the division of [finance](https://www.investopedia.com/ask/answers/what-is-finance/) that deals with how corporations deal with funding sources, capital structuring, and investment decisions. Corporate finance is primarily concerned with maximizing shareholder value through long and short-term financial planning and the implementation of various strategies. Corporate finance activities range from capital investment decisions to investment banking.
+Corporate finance is the division of [[finance]](https://www.investopedia.com/ask/answers/what-is-finance/) that deals with how corporations deal with funding sources, capital structuring, and investment decisions. Corporate finance is primarily concerned with maximizing shareholder value through long and short-term financial planning and the implementation of various strategies. Corporate finance activities range from capital investment decisions to investment banking.
 
 ## Understanding Corporate Finance
 
@@ -34,7 +34,7 @@ It also includes whether shareholders should receive dividends. Additionally, t
 
 ### Capital Investments
 
-Corporate finance tasks include making capital investments and deploying a company's long-term capital. The capital investment decision process is primarily concerned with [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp). Through capital budgeting, a company identifies capital expenditures, estimates future cash flows from proposed capital projects, compares planned investments with potential proceeds, and decides which projects to include in its capital budget.
+Corporate finance tasks include making capital investments and deploying a company's long-term capital. The capital investment decision process is primarily concerned with [[capital budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp). Through capital budgeting, a company identifies capital expenditures, estimates future cash flows from proposed capital projects, compares planned investments with potential proceeds, and decides which projects to include in its capital budget.
 
 Making capital investments is perhaps the most important corporate finance task that can have serious business implications. Poor capital budgeting (e.g., excessive investing or under-funded investments) can compromise a company's financial position, either because of increased financing costs or inadequate operating capacity.
 
@@ -42,7 +42,7 @@ Corporate financing includes the activities involved with a corporation's financ
 
 ### Capital Financing
 
-Corporate finance is also responsible for sourcing capital in the form of debt or equity. A company may borrow from commercial banks and other financial intermediaries or may issue debt securities in the capital markets through [investment banks (IB)](https://www.investopedia.com/terms/i/investmentbank.asp). A company may also choose to sell stocks to equity investors, especially when need large amounts of capital for business expansions.
+Corporate finance is also responsible for sourcing capital in the form of debt or equity. A company may borrow from commercial banks and other financial intermediaries or may issue debt securities in the capital markets through [[investment banks (IB)]](https://www.investopedia.com/terms/i/investmentbank.asp). A company may also choose to sell stocks to equity investors, especially when need large amounts of capital for business expansions.
 
 Capital financing is a balancing act in terms of deciding on the relative amounts or weights between debt and equity. Having too much debt may increase default risk, and relying heavily on equity can dilute earnings and value for early investors. In the end, capital financing must provide the capital needed to implement capital investments.
 

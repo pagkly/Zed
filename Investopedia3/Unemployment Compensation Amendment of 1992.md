@@ -16,13 +16,13 @@ author: Julia Kagan
 Unemployment Compensation Amendment of 1992
 ## What Is the Unemployment Compensation Amendment of 1992
 
-Unemployment Compensation Amendment of 1992 is a law in the United States that allows a [terminated employee](https://www.investopedia.com/terms/t/termination-employment.asp) to take [employer-sponsored](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) retirement savings and place them into a retirement plan of their choice.
+Unemployment Compensation Amendment of 1992 is a law in the United States that allows a [[terminated employee]](https://www.investopedia.com/terms/t/termination-employment.asp) to take [[employer-sponsored]](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) retirement savings and place them into a retirement plan of their choice.
 
 ## Understanding Unemployment Compensation Amendment of 1992
 
-Unemployment Compensation Amendment of 1992 to the Unemployment Compensation Act allows an ex-employee to keep the money they saved and invested while working for their employer. This applies to either defined contribution [pension plans](https://www.investopedia.com/terms/p/pensionplan.asp) or defined benefit pension plans.
+Unemployment Compensation Amendment of 1992 to the Unemployment Compensation Act allows an ex-employee to keep the money they saved and invested while working for their employer. This applies to either defined contribution [[pension plans]](https://www.investopedia.com/terms/p/pensionplan.asp) or defined benefit pension plans.
 
-Because of this, employees do not have to worry about losing money being matched by their employer toward their investment plan upon being terminated. The Act gives the option upon termination of directly transferring the funds into an [individual retirement account](https://www.investopedia.com/terms/i/ira.asp) (IRA) or qualified pension plan of the individual's choice. If the individual would like to receive the distribution directly, there is a 20% withholding penalty paid to the Internal Revenue Service (IRS).1
+Because of this, employees do not have to worry about losing money being matched by their employer toward their investment plan upon being terminated. The Act gives the option upon termination of directly transferring the funds into an [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA) or qualified pension plan of the individual's choice. If the individual would like to receive the distribution directly, there is a 20% withholding penalty paid to the Internal Revenue Service (IRS).1
 
 ## Involuntary Termination
 
@@ -30,7 +30,7 @@ Involuntary termination of employment occurs when an employer lays off or dismis
 
 ## Termination Compensation
 
-In most cases in which an employee who has worked with a company for at least three months has their employment involuntarily terminated, the employer may provide a [notice of termination](https://www.investopedia.com/terms/n/notice-of-termination.asp) and termination pay or [severance pay](https://www.investopedia.com/terms/s/severancepay.asp). In the U.S., the only notifications legally required to be included in a notice of termination are related to the Consolidated Omnibus Benefits Reconciliation Act (COBRA) and the Worker Adjustment and Retraining Notification Act (WARN). A reason for termination need not be stated, though it tends to be best practice if an employee has been fired for cause.
+In most cases in which an employee who has worked with a company for at least three months has their employment involuntarily terminated, the employer may provide a [[notice of termination]](https://www.investopedia.com/terms/n/notice-of-termination.asp) and termination pay or [[severance pay]](https://www.investopedia.com/terms/s/severancepay.asp). In the U.S., the only notifications legally required to be included in a notice of termination are related to the Consolidated Omnibus Benefits Reconciliation Act (COBRA) and the Worker Adjustment and Retraining Notification Act (WARN). A reason for termination need not be stated, though it tends to be best practice if an employee has been fired for cause.
 
 Under the Fair Labor Standards Act (FLSA) a company is not mandated to provide severance packages. A company that offers severance does so following an agreement made privately with the employee.
 

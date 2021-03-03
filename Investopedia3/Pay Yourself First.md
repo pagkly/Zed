@@ -16,7 +16,7 @@ author: Julia Kagan
 Pay Yourself First
 ## What Is Pay Yourself First?
 
-"Pay yourself first" is an investor mentality and phrase popular in [personal finance](https://www.investopedia.com/terms/p/personalfinance.asp) and retirement-planning literature that means automatically routing a specified savings contribution from each paycheck at the time it is received.
+"Pay yourself first" is an investor mentality and phrase popular in [[personal finance]](https://www.investopedia.com/terms/p/personalfinance.asp) and retirement-planning literature that means automatically routing a specified savings contribution from each paycheck at the time it is received.
 
 Because the savings contributions are automatically routed from each paycheck to your savings or investment account, you are "paying yourself first." In other words, paying yourself before you begin paying your monthly living expenses and making discretionary purchases.
 
@@ -46,4 +46,4 @@ The advantage of "paying yourself first" out of your paycheck is that you build
 
 ## Special Considerations
 
-It's also important to know that money set aside for retirement, [especially in a Roth IRA](https://www.investopedia.com/articles/personal-finance/040714/how-use-your-roth-ira-emergency-fund.asp), is accessible if needed. Fear of having no money in emergencies is no reason to refuse to benefit from [tax-advantaged](https://www.investopedia.com/terms/t/tax-advantaged.asp) retirement savings plans.
+It's also important to know that money set aside for retirement, [[especially in a Roth IRA]](https://www.investopedia.com/articles/personal-finance/040714/how-use-your-roth-ira-emergency-fund.asp), is accessible if needed. Fear of having no money in emergencies is no reason to refuse to benefit from [[tax-advantaged]](https://www.investopedia.com/terms/t/tax-advantaged.asp) retirement savings plans.

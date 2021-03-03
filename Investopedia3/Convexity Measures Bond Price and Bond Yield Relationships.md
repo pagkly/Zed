@@ -16,7 +16,7 @@ author: James Chen
 Convexity Measures Bond Price and Bond Yield Relationships
 ## What Is Convexity?
 
-Convexity is a measure of the curvature, or the degree of the curve, in the relationship between bond prices and bond yields. Convexity demonstrates how the duration of a bond changes as the interest rate changes. Portfolio managers will use convexity as a risk-management tool, to measure and manage the portfolio's exposure to [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp).
+Convexity is a measure of the curvature, or the degree of the curve, in the relationship between bond prices and bond yields. Convexity demonstrates how the duration of a bond changes as the interest rate changes. Portfolio managers will use convexity as a risk-management tool, to measure and manage the portfolio's exposure to [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp).
 
 Image by Julie Bang © Investopedia 2019
 
@@ -34,7 +34,7 @@ Before explaining convexity, it's important to know how bond prices and market i
 
 In the example figure shown above, Bond A has a higher convexity than Bond B, which indicates that all else being equal, Bond A will always have a higher price than Bond B as interest rates rise or fall.
 
-The [bond yield](https://www.investopedia.com/terms/b/bond-yield.asp) is the earnings or returns an investor can expect to make by buying an holding that particular security. The price of the bond depends on several characteristics including the [market interest rate](https://www.investopedia.com/terms/i/interestrate.asp) and can change regularly.
+The [[bond yield]](https://www.investopedia.com/terms/b/bond-yield.asp) is the earnings or returns an investor can expect to make by buying an holding that particular security. The price of the bond depends on several characteristics including the [[market interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) and can change regularly.
 
 ## How Market Interest Rates and Bond Yields Relate
 
@@ -54,13 +54,13 @@ Typically, if market rates rise by 1%, a one-year maturity bond price should dec
 
 ## Convexity and Risk
 
-Convexity builds on the concept of duration by measuring the sensitivity of the duration of a bond as yields change. Convexity is a better [measure of interest rate risk](https://www.investopedia.com/terms/c/convexity-adjustment.asp), concerning bond duration. Where duration assumes that interest rates and bond prices have a linear relationship, convexity allows for other factors and produces a slope.
+Convexity builds on the concept of duration by measuring the sensitivity of the duration of a bond as yields change. Convexity is a better [[measure of interest rate risk]](https://www.investopedia.com/terms/c/convexity-adjustment.asp), concerning bond duration. Where duration assumes that interest rates and bond prices have a linear relationship, convexity allows for other factors and produces a slope.
 
 Duration can be a good measure of how bond prices may be affected due to small and sudden fluctuations in interest rates. However, the relationship between bond prices and yields is typically more sloped, or convex. Therefore, convexity is a better measure for assessing the impact on bond prices when there are large fluctuations in interest rates.
 
-As convexity increases, the [systemic risk](https://www.investopedia.com/terms/s/systemic-risk.asp) to which the portfolio is exposed increases. The term systemic risk became common during the financial crisis of 2008 as the failure of one financial institution threatened others. However, this risk can apply to all businesses, industries, and the economy as a whole.
+As convexity increases, the [[systemic risk]](https://www.investopedia.com/terms/s/systemic-risk.asp) to which the portfolio is exposed increases. The term systemic risk became common during the financial crisis of 2008 as the failure of one financial institution threatened others. However, this risk can apply to all businesses, industries, and the economy as a whole.
 
-The risk to a fixed-income portfolio means that as interest rates rise, the existing fixed-rate instruments are not as attractive. As convexity decreases, the exposure to market interest rates decreases and the bond portfolio can be considered hedged. Typically, the higher the [coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp) or yield, the lower the convexity—or market risk—of a bond. This lessening of risk is because market rates would have to increase greatly to surpass the coupon on the bond, meaning there is less risk to the investor.
+The risk to a fixed-income portfolio means that as interest rates rise, the existing fixed-rate instruments are not as attractive. As convexity decreases, the exposure to market interest rates decreases and the bond portfolio can be considered hedged. Typically, the higher the [[coupon rate]](https://www.investopedia.com/terms/c/coupon-rate.asp) or yield, the lower the convexity—or market risk—of a bond. This lessening of risk is because market rates would have to increase greatly to surpass the coupon on the bond, meaning there is less risk to the investor.
 
 ## Negative and Positive Convexity
 
@@ -74,6 +74,6 @@ Consequently, zero-coupon bonds have the highest degree of convexity because the
 
 ## Real World Example of Convexity
 
-Most [mortgage-backed securities (MBS)](https://www.investopedia.com/terms/m/mbs.asp) will have negative convexity because their yield is typically higher than traditional bonds. As a result, it would take a significant rise in yields to make an existing holder of an MBS to have a lower yield, or less attractive, than the current market.
+Most [[mortgage-backed securities (MBS)]](https://www.investopedia.com/terms/m/mbs.asp) will have negative convexity because their yield is typically higher than traditional bonds. As a result, it would take a significant rise in yields to make an existing holder of an MBS to have a lower yield, or less attractive, than the current market.
 
 For example, the SPDR Barclays Capital Mortgage Backed Bond ETF [(MBG)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mbg) offers a yield of 2.87% as of August 19, 2020.1 If we compare the ETF's yield to the current 10-year Treasury yield, which trades at roughly 0.67%, interest rates would have to rise substantially, and well above 3% for the MBG ETF to have a risk of losing out on higher yields.2 In other words, the ETF has negative convexity because any rise in yields would have less impact on existing investors.

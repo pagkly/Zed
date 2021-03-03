@@ -16,7 +16,7 @@ author: Will Kenton
 When Parity Matters
 ## What Is Parity?
 
-Parity refers to the condition where two (or more) things are equal to each other. It can thus refer to two securities having equal value, such as a [convertible bond](https://www.investopedia.com/terms/c/convertiblebond.asp) and the value of the stock if the bondholder chooses to convert into common stock. The term "[par value](https://www.investopedia.com/terms/p/parvalue.asp)" for a bond is similar to parity in that it suggests the bond is selling for its initial face value. The term "parity" is often applied in the financial markets when dealing with stocks, bonds, and currency exchange rates.
+Parity refers to the condition where two (or more) things are equal to each other. It can thus refer to two securities having equal value, such as a [[convertible bond]](https://www.investopedia.com/terms/c/convertiblebond.asp) and the value of the stock if the bondholder chooses to convert into common stock. The term "[par value](https://www.investopedia.com/terms/p/parvalue.asp)" for a bond is similar to parity in that it suggests the bond is selling for its initial face value. The term "parity" is often applied in the financial markets when dealing with stocks, bonds, and currency exchange rates.
 
 ### Key Takeaways
 

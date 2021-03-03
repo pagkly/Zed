@@ -18,7 +18,7 @@ What Is a Corporate Bond?
 
 A corporate bond is a type of debt security that is issued by a firm and sold to investors. The company gets the capital it needs and in return the investor is paid a pre-established number of interest payments at either a fixed or variable interest rate. When the bond expires, or "reaches maturity," the payments cease and the original investment is returned.
 
-The backing for the bond is generally the ability of the company to repay, which depends on its prospects for future revenues and profitability. In some cases, the company's physical assets may be used as [collateral](https://www.investopedia.com/terms/c/collateral.asp).
+The backing for the bond is generally the ability of the company to repay, which depends on its prospects for future revenues and profitability. In some cases, the company's physical assets may be used as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp).
 
 ### Key Takeaways
 
@@ -31,11 +31,11 @@ The backing for the bond is generally the ability of the company to repay, which
 
 In the investment hierarchy, high-quality corporate bonds are considered a relatively safe and conservative investment. Investors building balanced portfolios often add bonds in order to offset riskier investments such as growth stocks. Over a lifetime, these investors tend to add more bonds and fewer risky investments in order to safeguard their accumulated capital. Retirees often invest a larger portion of their assets in bonds in order to establish a reliable income supplement.
 
-In general, corporate bonds are considered to have a higher risk than U.S. [government bonds](https://www.investopedia.com/terms/g/government-bond.asp). As a result, interest rates are almost always higher on corporate bonds, even for companies with top-flight [credit quality](https://www.investopedia.com/terms/c/creditquality.asp). The difference between the yields on highly-rated corporate bonds and U.S. Treasuries is called the [credit spread](https://www.investopedia.com/terms/c/creditspread.asp).
+In general, corporate bonds are considered to have a higher risk than U.S. [[government bonds]](https://www.investopedia.com/terms/g/government-bond.asp). As a result, interest rates are almost always higher on corporate bonds, even for companies with top-flight [[credit quality]](https://www.investopedia.com/terms/c/creditquality.asp). The difference between the yields on highly-rated corporate bonds and U.S. Treasuries is called the [[credit spread]](https://www.investopedia.com/terms/c/creditspread.asp).
 
 ## Corporate Bond Ratings
 
-Before being issued to investors, bonds are reviewed for the creditworthiness of the issuer by one or more of [three U.S. rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp): Standard & Poor's Global Ratings, Moody's Investor Services, and Fitch Ratings.1 2 3 Each has its own ranking system, but the highest-rated bonds are commonly referred to as "[Triple-A](https://www.investopedia.com/terms/a/aaa.asp)" rated bonds. The lowest rated corporate bonds are called high-yield bonds due to their greater interest rate applied to compensate for their higher risk. These are also known as ["junk" bonds](https://www.investopedia.com/terms/j/junkbond.asp).
+Before being issued to investors, bonds are reviewed for the creditworthiness of the issuer by one or more of [[three U.S. rating agencies]](https://www.investopedia.com/terms/b/bond-rating-agencies.asp): Standard & Poor's Global Ratings, Moody's Investor Services, and Fitch Ratings.1 2 3 Each has its own ranking system, but the highest-rated bonds are commonly referred to as "[Triple-A](https://www.investopedia.com/terms/a/aaa.asp)" rated bonds. The lowest rated corporate bonds are called high-yield bonds due to their greater interest rate applied to compensate for their higher risk. These are also known as ["junk" bonds](https://www.investopedia.com/terms/j/junkbond.asp).
 
 Bond ratings are vital to alerting investors to the quality and stability of the bond in question. These ratings consequently greatly influence interest rates, investment appetite, and bond pricing.
 
@@ -45,7 +45,7 @@ Corporate bonds are issued in blocks of $1,000 in face or par value. Almost all 
 
 The investor receives regular interest payments from the issuer until the bond matures. At that point, the investor reclaims the face value of the bond. The bonds may have a fixed interest rate or a rate that floats according to the movements of a particular economic indicator.
 
-Corporate bonds sometimes have [call provisions](https://www.investopedia.com/terms/c/callprovision.asp) to allow for early prepayment if prevailing interest rates change so dramatically that the company deems it can do better by issuing a new bond.
+Corporate bonds sometimes have [[call provisions]](https://www.investopedia.com/terms/c/callprovision.asp) to allow for early prepayment if prevailing interest rates change so dramatically that the company deems it can do better by issuing a new bond.
 
 Investors may also opt to sell bonds before they mature. If a bond is sold, the owner gets less than face value. The amount it is worth is determined primarily by the number of payments that still are due before the bond matures.
 
@@ -53,7 +53,7 @@ Investors may also gain access to corporate bonds by investing in any number of 
 
 ## Why Corporations Sell Bonds
 
-Corporate bonds are a form of [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp). They are a major source of capital for many businesses, along with equity, bank loans, and lines of credit. They often are issued to provide the ready cash for a particular project the company wants to undertake. Debt financing is sometimes preferable to issuing stock (equity financing) because it is typically cheaper for the borrowing firm and does not entail giving up any ownership stake or control in the company.
+Corporate bonds are a form of [[debt financing]](https://www.investopedia.com/terms/d/debtfinancing.asp). They are a major source of capital for many businesses, along with equity, bank loans, and lines of credit. They often are issued to provide the ready cash for a particular project the company wants to undertake. Debt financing is sometimes preferable to issuing stock (equity financing) because it is typically cheaper for the borrowing firm and does not entail giving up any ownership stake or control in the company.
 
 Generally speaking, a company needs to have consistent earnings potential to be able to offer debt securities to the public at a favorable coupon rate. If a company's perceived credit quality is higher, it can issue more debt at lower rates.
 
@@ -67,6 +67,6 @@ The value of a stock rises and falls, and the investor's stake rises or falls wi
 
 By investing in bonds, an investor is paid in interest rather than profits. The original investment can only be at risk if the company collapses.One important difference is that even a bankrupt company must pay its bondholders and other creditors first. Stock owners may be reimbursed for their losses only after all of those debts are paid in full.
 
-Companies may also issue [convertible bonds](https://www.investopedia.com/terms/c/convertiblebond.asp), which are able to be turned into shares of the company if certain conditions are met.
+Companies may also issue [[convertible bonds]](https://www.investopedia.com/terms/c/convertiblebond.asp), which are able to be turned into shares of the company if certain conditions are met.
 
 A balanced portfolio may contain some bonds to offset riskier investments. The percentage devoted to bonds may grow as the investor approaches retirement.

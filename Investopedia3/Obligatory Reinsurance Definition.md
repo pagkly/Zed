@@ -16,13 +16,13 @@ author: Daniel Liberto
 Obligatory Reinsurance Definition
 ## What Is Obligatory Reinsurance?
 
-Obligatory reinsurance is a treaty that requires an [insurer](https://www.investopedia.com/terms/i/insurance.asp) to automatically send all policies on its books that fall within a set list of criteria to a [reinsurer](https://www.investopedia.com/terms/r/reinsurer.asp). Under the terms of an obligatory reinsurance agreement, also called an automatic treaty, the reinsurer is obliged to accept these policies.
+Obligatory reinsurance is a treaty that requires an [[insurer]](https://www.investopedia.com/terms/i/insurance.asp) to automatically send all policies on its books that fall within a set list of criteria to a [[reinsurer]](https://www.investopedia.com/terms/r/reinsurer.asp). Under the terms of an obligatory reinsurance agreement, also called an automatic treaty, the reinsurer is obliged to accept these policies.
 
 ## Understanding Obligatory Reinsurance
 
-Reinsurance, otherwise known as "insurance for insurance companies”, is a practice whereby insurers agree to transfer portions of their risk portfolios to other parties to reduce the likelihood of paying a large [obligation](https://www.investopedia.com/terms/o/obligation.asp) stemming from an insurance claim and potentially going bankrupt. The insurer, or the [cedent](https://www.investopedia.com/terms/c/cedent.asp), gives away some of its business to another party, the reinsurer, who agrees to take on the risk associated with it in exchange for a share of the insurance premium — the payment customers are charged for coverage under a given plan.
+Reinsurance, otherwise known as "insurance for insurance companies”, is a practice whereby insurers agree to transfer portions of their risk portfolios to other parties to reduce the likelihood of paying a large [[obligation]](https://www.investopedia.com/terms/o/obligation.asp) stemming from an insurance claim and potentially going bankrupt. The insurer, or the [[cedent]](https://www.investopedia.com/terms/c/cedent.asp), gives away some of its business to another party, the reinsurer, who agrees to take on the risk associated with it in exchange for a share of the insurance premium — the payment customers are charged for coverage under a given plan.
 
-Some reinsurance agreements are one-off transactional deals made on a case-by-case basis. On other occasions, a [reinsurance treaty](https://www.investopedia.com/terms/t/treaty-reinsurance.asp) might be struck, obligating the insurer to automatically send the reinsurer a specific class of policies. When such an arrangement is made, an insurer is required to cede and a reinsurer required to accept all risks that fall within a predetermined set of criteria.
+Some reinsurance agreements are one-off transactional deals made on a case-by-case basis. On other occasions, a [[reinsurance treaty]](https://www.investopedia.com/terms/t/treaty-reinsurance.asp) might be struck, obligating the insurer to automatically send the reinsurer a specific class of policies. When such an arrangement is made, an insurer is required to cede and a reinsurer required to accept all risks that fall within a predetermined set of criteria.
 
 ### Important
 
@@ -32,7 +32,7 @@ Each risk is automatically accepted under the terms of the arrangement, even if 
 
 Obligatory reinsurance enables the insurer and reinsurer to develop a long-term relationship. The reinsurer gets a regular stream of business, while the insurer automatically covers itself against a class of predetermined risks without having to repeatedly find new buyers for each individual one — transferring a “book” of risks also generally works out to be much cheaper.
 
-On the flip side, automatic acceptance eliminates the option to be picky, thereby increasing the threat of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp) for everyone involved**.** The reinsurer could suddenly find itself inheriting a large chunk of policies and becoming liable to cover more losses than it originally bargained for. Should those plans result in [claims](https://www.investopedia.com/terms/i/insurance_claim.asp) and the reinsurer be unable to foot the bill for them, the ceding insurer may become fully responsible again for this portion of risk that it originally underwrote, putting it, too, in a difficult financial position.
+On the flip side, automatic acceptance eliminates the option to be picky, thereby increasing the threat of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp) for everyone involved**.** The reinsurer could suddenly find itself inheriting a large chunk of policies and becoming liable to cover more losses than it originally bargained for. Should those plans result in [[claims]](https://www.investopedia.com/terms/i/insurance_claim.asp) and the reinsurer be unable to foot the bill for them, the ceding insurer may become fully responsible again for this portion of risk that it originally underwrote, putting it, too, in a difficult financial position.
 
 Over-reliance on reinsurance played a big role in the demise of Mission Insurance in 1985.1
 
@@ -42,7 +42,7 @@ It’s also paramount that the terms of the agreement include an accurate descri
 
 ## Types of Reinsurance
 
-There are two main categories of reinsurance: [facultative](https://www.investopedia.com/terms/f/facultative-reinsurance.asp) and treaty. Both may be classified as obligatory if the reinsurance contract mandates all policies that fall within their scope to be transferred.
+There are two main categories of reinsurance: [[facultative]](https://www.investopedia.com/terms/f/facultative-reinsurance.asp) and treaty. Both may be classified as obligatory if the reinsurance contract mandates all policies that fall within their scope to be transferred.
 
 #### Facultative
 
@@ -54,6 +54,6 @@ Treaty reinsurance, meanwhile, is effective for a set time period rather than o
 
 ## Special Considerations
 
-Reinsurance contracts can be both proportional and non-proportional. With proportional contracts, the reinsurer receives a prorated share of all policy [premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) sold by the insurer in exchange for bearing a portion of the losses based on a pre-negotiated percentage in the event that claims are made. The reinsurer also reimburses the insurer for processing, business acquisition, and writing costs. 
+Reinsurance contracts can be both proportional and non-proportional. With proportional contracts, the reinsurer receives a prorated share of all policy [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) sold by the insurer in exchange for bearing a portion of the losses based on a pre-negotiated percentage in the event that claims are made. The reinsurer also reimburses the insurer for processing, business acquisition, and writing costs. 
 
-With a non-proportional contract, on the other hand, the reinsurance company agrees to pay out claims only if they exceed a specified amount, known as the priority or [retention](https://www.investopedia.com/terms/a/application-retention.asp) limit, during a certain period of time. The priority or retention limit may be based on one type of risk or an entire risk category.
+With a non-proportional contract, on the other hand, the reinsurance company agrees to pay out claims only if they exceed a specified amount, known as the priority or [[retention]](https://www.investopedia.com/terms/a/application-retention.asp) limit, during a certain period of time. The priority or retention limit may be based on one type of risk or an entire risk category.

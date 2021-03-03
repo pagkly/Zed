@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 The Power of the Organizational Chart
 ## What Is an Organizational Chart?
 
-An [organizational chart](https://www.investopedia.com/articles/basics/03/022803.asp) is a diagram that visually conveys a company's internal structure by detailing the roles, responsibilities, and relationships between individuals within an entity. Organizational charts either broadly depict an enterprise company-wide or drill down to a specific department or unit.
+An [[organizational chart]](https://www.investopedia.com/articles/basics/03/022803.asp) is a diagram that visually conveys a company's internal structure by detailing the roles, responsibilities, and relationships between individuals within an entity. Organizational charts either broadly depict an enterprise company-wide or drill down to a specific department or unit.
 
 Organizational charts are alternatively referred to as "org charts" or "organization charts."
 
@@ -29,7 +29,7 @@ Organizational charts are alternatively referred to as "org charts" or "organiza
 
 ## Understanding Organizational Charts
 
-Organizational charts graphically display an employee's [hierarchical](https://www.investopedia.com/articles/professionals/102915/hierarchy-investment-bank.asp) status relative to other individuals within the company. For example, an assistant director will invariably fall directly below a director on the chart, indicating that the former reports to the latter. Organizational charts use simple symbols such as lines, squares, and circles to connect different job titles that relate to each other.
+Organizational charts graphically display an employee's [[hierarchical]](https://www.investopedia.com/articles/professionals/102915/hierarchy-investment-bank.asp) status relative to other individuals within the company. For example, an assistant director will invariably fall directly below a director on the chart, indicating that the former reports to the latter. Organizational charts use simple symbols such as lines, squares, and circles to connect different job titles that relate to each other.
 
 ## Types of Organizational Charts
 
@@ -71,4 +71,4 @@ There is no single correct way to fashion an organization chart, as long as it i
 
 This more complicated organizational structure groups individuals by their common skill-sets, the departments in which they work, and the people they may report to. Matrix charts often interconnect employees and teams with more than one manager, such as a software developer who is working on two projects—one with his regular team manager, and another with a separate product manager. In this scenario, the matrix chart would connect the software developer to each manager he is working with, with vertical lines.
 
-Regardless of a company's structure, org charts are extraordinarily useful when an entity is contemplating [restructuring](https://www.investopedia.com/terms/r/restructuring.asp) its workforce or changing its management complex. Most importantly, org charts let employees transparently see how their roles fit into the overall company structure.
+Regardless of a company's structure, org charts are extraordinarily useful when an entity is contemplating [[restructuring]](https://www.investopedia.com/terms/r/restructuring.asp) its workforce or changing its management complex. Most importantly, org charts let employees transparently see how their roles fit into the overall company structure.

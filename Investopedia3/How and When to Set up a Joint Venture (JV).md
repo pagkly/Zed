@@ -18,7 +18,7 @@ How and When to Set up a Joint Venture (JV)
 
 A joint venture (JV) is a business arrangement in which two or more parties agree to pool their resources for the purpose of accomplishing a specific task. This task can be a new project or any other business activity.
 
-In a joint venture (JV), each of the participants is responsible for [profits](https://www.investopedia.com/terms/p/profit.asp), losses, and costs associated with it. However, the venture is its own entity, separate from the participants' other business interests.
+In a joint venture (JV), each of the participants is responsible for [[profits]](https://www.investopedia.com/terms/p/profit.asp), losses, and costs associated with it. However, the venture is its own entity, separate from the participants' other business interests.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ In a joint venture (JV), each of the participants is responsible for [profits](h
 
 ## Understanding Joint Ventures (JVs)
 
-Joint ventures, although they are a partnership in the colloquial sense of the word, can take on any legal structure. Corporations, partnerships, [limited liability companies (LLCs)](https://www.investopedia.com/terms/l/llc.asp), and other business entities can all be used to form a JV.1 Despite the fact that the purpose of JVs is typically for production or for research, they can also be formed for a continuing purpose. Joint ventures can combine large and smaller companies to take on one or several big, or little, projects and deals.
+Joint ventures, although they are a partnership in the colloquial sense of the word, can take on any legal structure. Corporations, partnerships, [[limited liability companies (LLCs)]](https://www.investopedia.com/terms/l/llc.asp), and other business entities can all be used to form a JV.1 Despite the fact that the purpose of JVs is typically for production or for research, they can also be formed for a continuing purpose. Joint ventures can combine large and smaller companies to take on one or several big, or little, projects and deals.
 
 There are three main reasons why companies form joint ventures:
 
@@ -38,13 +38,13 @@ A joint venture can take advantage of the combined resources of both companies t
 
 ### Cost Savings
 
-By using [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp), both companies in the JV can leverage their production at a lower per-unit cost than they would separately. This is particularly appropriate with technology advances that are costly to implement. Other cost savings as a result of a JV can include sharing advertising or labor costs.
+By using [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp), both companies in the JV can leverage their production at a lower per-unit cost than they would separately. This is particularly appropriate with technology advances that are costly to implement. Other cost savings as a result of a JV can include sharing advertising or labor costs.
 
 ### Combined Expertise
 
 Two companies or parties forming a joint venture might each have unique backgrounds, skillsets, and expertise. When combined through a JV, each company can benefit from the other's expertise and talent within their company.
 
-Regardless of the legal structure used for the JV, the most important document will be the JV agreement that sets out all of the partners' rights and obligations. The objectives of the JV, the initial contributions of the partners, the day-to-day operations, and the right to the profits, and the responsibility for losses of the JV are all set out in this document. It is important to draft it with care, to avoid [litigation](https://www.investopedia.com/terms/l/litigation-risk.asp) down the road.
+Regardless of the legal structure used for the JV, the most important document will be the JV agreement that sets out all of the partners' rights and obligations. The objectives of the JV, the initial contributions of the partners, the day-to-day operations, and the right to the profits, and the responsibility for losses of the JV are all set out in this document. It is important to draft it with care, to avoid [[litigation]](https://www.investopedia.com/terms/l/litigation-risk.asp) down the road.
 
 JVs aren’t recognized by the IRS, where the JV agreement will determine how taxes are paid.
 
@@ -60,7 +60,7 @@ The JV agreement will spell out how profits or losses are taxed. But if the agre
 
 ### Using a Joint Venture (JV) to Enter Foreign Markets
 
-A common use of JVs is to partner up with a local business to enter a foreign market. A company that wants to expand its [distribution network](https://www.investopedia.com/terms/d/distribution-network.asp) to new countries can usefully enter into a JV agreement to supply products to a local business, thus benefiting from an already existing distribution network.2 Some countries also have restrictions on foreigners entering their market, making a JV with a local entity almost the only way to do business in the country.
+A common use of JVs is to partner up with a local business to enter a foreign market. A company that wants to expand its [[distribution network]](https://www.investopedia.com/terms/d/distribution-network.asp) to new countries can usefully enter into a JV agreement to supply products to a local business, thus benefiting from an already existing distribution network.2 Some countries also have restrictions on foreigners entering their market, making a JV with a local entity almost the only way to do business in the country.
 
 ## Joint Venture (JV) vs. Partnerships and Consortium
 
@@ -83,6 +83,6 @@ The key elements to a joint venture may include (but are not limited to):
 
 ## Examples of Joint Ventures
 
-Once the joint venture (JV) has reached its goal, it can be [liquidated](https://www.investopedia.com/terms/l/liquidation.asp) like any other business or sold. For example, in 2016, Microsoft Corporation (NASDAQ: MSFT) sold its 50% stake in Caradigm, a JV it had created in 2011 with General Electric Company (NYSE: GE). The JV was established to integrate Microsoft’s Amalga enterprise healthcare data and intelligence system, along with a variety of technologies from GE Healthcare. Microsoft has now sold its stake to GE, effectively ending the JV. GE is now the sole owner of the company and is free to carry on the business as it pleases.
+Once the joint venture (JV) has reached its goal, it can be [[liquidated]](https://www.investopedia.com/terms/l/liquidation.asp) like any other business or sold. For example, in 2016, Microsoft Corporation (NASDAQ: MSFT) sold its 50% stake in Caradigm, a JV it had created in 2011 with General Electric Company (NYSE: GE). The JV was established to integrate Microsoft’s Amalga enterprise healthcare data and intelligence system, along with a variety of technologies from GE Healthcare. Microsoft has now sold its stake to GE, effectively ending the JV. GE is now the sole owner of the company and is free to carry on the business as it pleases.
 
 Sony Ericsson is another famous example of a JV between two large companies. In this case, they partnered in the early 2000s with the aim of being a world leader in mobile phones.3 After several years of operating as a JV, the venture eventually became solely owned by Sony.

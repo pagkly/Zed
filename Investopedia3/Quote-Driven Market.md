@@ -16,7 +16,7 @@ author: Will Kenton
 Quote-Driven Market
 ## What Is a Quote-Driven Market?
 
-A quote-driven market is an electronic [stock exchange](https://www.investopedia.com/articles/basics/04/092404.asp) system in which prices are determined from bid and ask quotations made by market makers, [dealers](https://www.investopedia.com/terms/d/dealer.asp), or specialists. In a quote-driven market, also known as a price-driven market, dealers fill orders from their own inventory or by matching them with other orders. A quote-driven market is the opposite of an order-driven market, which displays individual investors' bid and ask prices and the number of [shares](https://www.investopedia.com/terms/s/shares.asp) they want to trade.
+A quote-driven market is an electronic [[stock exchange]](https://www.investopedia.com/articles/basics/04/092404.asp) system in which prices are determined from bid and ask quotations made by market makers, [[dealers]](https://www.investopedia.com/terms/d/dealer.asp), or specialists. In a quote-driven market, also known as a price-driven market, dealers fill orders from their own inventory or by matching them with other orders. A quote-driven market is the opposite of an order-driven market, which displays individual investors' bid and ask prices and the number of [[shares]](https://www.investopedia.com/terms/s/shares.asp) they want to trade.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A quote-driven market is an electronic [stock exchange](https://www.investopedia
 
 ## Understanding a Quote-Driven Market
 
-Quote-driven markets are most commonly found in markets for bonds, currencies, and commodities. Quote-driven markets are also known as a dealers market because all trades are executed through dealers. The dealers, working with investment banks, commercial banks, and broker-dealers, provide quotes for different instruments and all customers need to trade through them at the [quoted prices](https://www.investopedia.com/terms/q/quoted-price.asp).
+Quote-driven markets are most commonly found in markets for bonds, currencies, and commodities. Quote-driven markets are also known as a dealers market because all trades are executed through dealers. The dealers, working with investment banks, commercial banks, and broker-dealers, provide quotes for different instruments and all customers need to trade through them at the [[quoted prices]](https://www.investopedia.com/terms/q/quoted-price.asp).
 
 Some people may also refer to quote-driven markets as a dealer- or price-driven market. The following are some of the key points about the quote-driven market.
 
-Traders may either accept the prices quoted by the dealers or try to negotiate better prices either themselves or through their broker or agent. In a pure quote-driven market, all traders must trade through dealers; however, dealers may also trade among themselves through inter-dealer brokers. In a quote-driven market, dealers supply all the [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) in the market.
+Traders may either accept the prices quoted by the dealers or try to negotiate better prices either themselves or through their broker or agent. In a pure quote-driven market, all traders must trade through dealers; however, dealers may also trade among themselves through inter-dealer brokers. In a quote-driven market, dealers supply all the [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) in the market.
 
 Dealers may choose not to execute a trade for a specific client. This is often done because some dealers specialize in certain types of clients, such as retail or institutional.
 

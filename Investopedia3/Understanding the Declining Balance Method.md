@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Declining Balance Method
 ## What Is the Declining Balance Method?
 
-The declining balance method is an [accelerated depreciation](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) system of recording larger depreciation expenses during the earlier years of an asset’s useful life and recording smaller depreciation expenses during the asset's later years.
+The declining balance method is an [[accelerated depreciation]](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) system of recording larger depreciation expenses during the earlier years of an asset’s useful life and recording smaller depreciation expenses during the asset's later years.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Depreciation under the declining balance method is calculated with the following
 
 Declining Balance Depreciation\=CBV×DRwhere:CBV\=current book valueDR\=depreciation rate (%)\\begin{aligned} &\\text{Declining Balance Depreciation} = CBV \\times DR\\\\ &\\textbf{where:}\\\\ &CBV=\\text{current book value}\\\\ &DR=\\text{depreciation rate (\\%)}\\\\ \\end{aligned}
 
-Current book value is the asset's net value at the start of an accounting period, calculated by deducting the [accumulated depreciation](https://www.investopedia.com/terms/a/accumulated-depreciation.asp) from the cost of the fixed asset. [Residual value](https://www.investopedia.com/terms/r/residual-value.asp) is the estimated salvage value at the end of the useful life of the asset. And the rate of depreciation is defined according to the estimated pattern of an asset's use over its useful life. For example, if an asset costing $1,000, with a salvage value of $100 and a 10-year life depreciates at 30% each year, then the expense is $270 in the first year, $189 in the second year, $132 in the third year, and so on.
+Current book value is the asset's net value at the start of an accounting period, calculated by deducting the [[accumulated depreciation]](https://www.investopedia.com/terms/a/accumulated-depreciation.asp) from the cost of the fixed asset. [[Residual value]](https://www.investopedia.com/terms/r/residual-value.asp) is the estimated salvage value at the end of the useful life of the asset. And the rate of depreciation is defined according to the estimated pattern of an asset's use over its useful life. For example, if an asset costing $1,000, with a salvage value of $100 and a 10-year life depreciates at 30% each year, then the expense is $270 in the first year, $189 in the second year, $132 in the third year, and so on.
 
 ## What Does the Declining Balance Method Tell You?
 

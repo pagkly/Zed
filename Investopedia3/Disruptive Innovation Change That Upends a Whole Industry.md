@@ -34,11 +34,11 @@ Disruptive innovation is differentiated from disruptive technology in that it fo
 
 ## Disruptive Innovation Examples
 
-What makes a technology or innovation “disruptive” is a point of contention. The term may be used to describe technologies that are not truly disruptive. As mentioned above, the Internet was disruptive because it was not an iteration of previous technology. It was something new that created unique models for making money that never existed before. Of course, that created losses for other [business models](https://www.investopedia.com/terms/b/businessmodel.asp).
+What makes a technology or innovation “disruptive” is a point of contention. The term may be used to describe technologies that are not truly disruptive. As mentioned above, the Internet was disruptive because it was not an iteration of previous technology. It was something new that created unique models for making money that never existed before. Of course, that created losses for other [[business models]](https://www.investopedia.com/terms/b/businessmodel.asp).
 
 A classic example of the disruptive innovation of the Internet being unleashed was the restructuring of the bookselling industry. The [big bookselling chains](https://www.investopedia.com/terms/b/big_box_retailer.asp) lost out to Amazon because it could display its inventory without having to own a physical store in every town and then ship the book to the buyer's home.
 
-In contrast, the Model T car is not considered disruptive because it was an improvement on existing technology and it wasn't widely adopted upon its release. The auto industry didn't take off until [mass production](https://www.investopedia.com/terms/m/mass-production.asp) brought prices down, moving the entire transportation system from hooves to wheels. In that sense, the system of mass production does meet the criteria for disruptive innovation.
+In contrast, the Model T car is not considered disruptive because it was an improvement on existing technology and it wasn't widely adopted upon its release. The auto industry didn't take off until [[mass production]](https://www.investopedia.com/terms/m/mass-production.asp) brought prices down, moving the entire transportation system from hooves to wheels. In that sense, the system of mass production does meet the criteria for disruptive innovation.
 
 ## Special Considerations
 

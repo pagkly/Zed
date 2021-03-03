@@ -16,7 +16,7 @@ author:  Alexandra Twin
 Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance Risk Measurement
 ## What Is Maximum Foreseeable Loss – MFL?
 
-The maximum foreseeable loss is an insurance term most frequently used in the [insurance of businesses](https://www.investopedia.com/terms/b/business-insurance.asp) and business property. MFL is a worst-case situation in which the claim for damages and losses are significant.
+The maximum foreseeable loss is an insurance term most frequently used in the [[insurance of businesses]](https://www.investopedia.com/terms/b/business-insurance.asp) and business property. MFL is a worst-case situation in which the claim for damages and losses are significant.
 
 The maximum foreseeable loss is a reference to the most substantial financial hit a policyholder could potentially experience when an insured property has been harmed or destroyed by an adverse event, such as a fire. Maximum foreseeable loss assumes a malfunction and non-response of the usual safeguards, like sprinklers and professional firefighters, that would typically limit such a loss.
 
@@ -24,7 +24,7 @@ The maximum foreseeable loss is a reference to the most substantial financial hi
 
 A claim for a maximum foreseeable loss is extensive, as it will include not just physical losses, such as the property housing the business and the products, supplies, and equipment owned by the company, but also the impact the adverse event had on the day-to-day running of the operations.
 
-The policy acknowledges the potential loss of business, called [business interruption](https://www.investopedia.com/terms/b/business-interruption-insurance.asp), which is likely unavoidable while repairs to the property are ongoing. Depending on the size of the property and the extent of the business, repairs could take weeks or months. The business interruption might be complete (100%) or partial (say, 50%) depending on whether it’s possible to resume business at another physical location or in some cases, digitally. The maximum foreseeable loss refers to the worst-case scenario that a company might potentially face should an adverse event occur.
+The policy acknowledges the potential loss of business, called [[business interruption]](https://www.investopedia.com/terms/b/business-interruption-insurance.asp), which is likely unavoidable while repairs to the property are ongoing. Depending on the size of the property and the extent of the business, repairs could take weeks or months. The business interruption might be complete (100%) or partial (say, 50%) depending on whether it’s possible to resume business at another physical location or in some cases, digitally. The maximum foreseeable loss refers to the worst-case scenario that a company might potentially face should an adverse event occur.
 
 ### Key Takeaways
 
@@ -34,15 +34,15 @@ The policy acknowledges the potential loss of business, called [business interru
 
 ## Maximum Foreseeable Loss and Other Loss Determinations
 
-Insurers use a maximum foreseeable loss for [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) policies for insurance coverage. Besides MFL, the [insurance underwriter](https://www.investopedia.com/terms/i/insurance-underwriter.asp) considers probable maximum loss and usual loss expectancy for the typical business types. For example, the maximum foreseeable loss for the owner of a warehouse who experiences a fire, hurricane or tornado is the [full value](https://www.investopedia.com/terms/f/full-value.asp) of the warehouse building and all of its contents.
+Insurers use a maximum foreseeable loss for [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) policies for insurance coverage. Besides MFL, the [[insurance underwriter]](https://www.investopedia.com/terms/i/insurance-underwriter.asp) considers probable maximum loss and usual loss expectancy for the typical business types. For example, the maximum foreseeable loss for the owner of a warehouse who experiences a fire, hurricane or tornado is the [[full value]](https://www.investopedia.com/terms/f/full-value.asp) of the warehouse building and all of its contents.
 
 Common sense suggests most owners would seek such coverage. However, the owner of the warehouse also typically chooses to protect the business in the event of less all-encompassing damage, such as water damage of products after a roof leak. Other thresholds which can reflect the impact of smaller, yet still detrimental, losses to the company
 
 ## Probable and Normal Loss Expectancy
 
-The [probable maximum loss](https://www.investopedia.com/terms/p/probable-maximum-loss-pml.asp) (PML) is a lower financial figure that assumes part of the physical structure, and some of the contents of the warehouse are salvageable. That's because the building’s passive safeguards partially limited the damage, but the most critical active one did not.
+The [[probable maximum loss]](https://www.investopedia.com/terms/p/probable-maximum-loss-pml.asp) (PML) is a lower financial figure that assumes part of the physical structure, and some of the contents of the warehouse are salvageable. That's because the building’s passive safeguards partially limited the damage, but the most critical active one did not.
 
-A smaller allowance would be the [normal loss expectancy](https://www.investopedia.com/terms/l/life-expectancy-method.asp), the highest claim a company can file for property damage and business interruption from an adverse event like a fire. It is a best-case loss scenario. Normal loss expectancy assumes that all protection systems worked correctly, and the damage is limited to 10% of the property’s insured value.
+A smaller allowance would be the [[normal loss expectancy]](https://www.investopedia.com/terms/l/life-expectancy-method.asp), the highest claim a company can file for property damage and business interruption from an adverse event like a fire. It is a best-case loss scenario. Normal loss expectancy assumes that all protection systems worked correctly, and the damage is limited to 10% of the property’s insured value.
 
 ## Determining Maximum Foreseeable Loss – MFL
 

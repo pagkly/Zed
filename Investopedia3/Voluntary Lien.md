@@ -16,11 +16,11 @@ author: Julia Kagan
 Voluntary Lien
 ## What Is a Voluntary Lien?
 
-A voluntary lien is a claim that one person has over the property of another as security for the payment of a debt. Liens are attached to the property and not to a person. A voluntary [lien](https://www.investopedia.com/terms/l/lien.asp) is contractual or consensual, meaning that the lien is created by an action taken by the debtor, such as a mortgage loan to buy real estate.
+A voluntary lien is a claim that one person has over the property of another as security for the payment of a debt. Liens are attached to the property and not to a person. A voluntary [[lien]](https://www.investopedia.com/terms/l/lien.asp) is contractual or consensual, meaning that the lien is created by an action taken by the debtor, such as a mortgage loan to buy real estate.
 
 ## Understanding Voluntary Lien
 
-A voluntary lien is a type of lien that exists because of an action taken by a [debtor](https://www.investopedia.com/terms/d/debtor.asp). This is the opposite of an involuntary lien that occurs by law, such as a tax or special assessment lien that is imposed by a regulatory authority. Naturally the holder of property cannot legally sell the property while a lien is in place. The lien should reflect the real value of the property in question that is being used as collateral. Should there be a default on the debt, the lien holder can take possession of the property—for example, through foreclosure proceedings in real estate or through a repossession of vehicles.
+A voluntary lien is a type of lien that exists because of an action taken by a [[debtor]](https://www.investopedia.com/terms/d/debtor.asp). This is the opposite of an involuntary lien that occurs by law, such as a tax or special assessment lien that is imposed by a regulatory authority. Naturally the holder of property cannot legally sell the property while a lien is in place. The lien should reflect the real value of the property in question that is being used as collateral. Should there be a default on the debt, the lien holder can take possession of the property—for example, through foreclosure proceedings in real estate or through a repossession of vehicles.
 
 ## Different Ways Voluntary Liens Are Applied
 

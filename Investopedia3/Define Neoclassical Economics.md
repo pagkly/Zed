@@ -30,11 +30,11 @@ Neoclassical economics theories underlie modern-day economics, along with the te
 
 ## Understanding Neoclassical Economics
 
-The term neoclassical economics was coined in 1900.1 Neoclassical economists believe that a consumer's first concern is to maximize personal satisfaction. Therefore, they make purchasing decisions based on their evaluations of the utility of a product or service. This theory coincides with [rational behavior](https://www.investopedia.com/terms/r/rational-behavior.asp) theory, which states that people act rationally when making economic decisions.
+The term neoclassical economics was coined in 1900.1 Neoclassical economists believe that a consumer's first concern is to maximize personal satisfaction. Therefore, they make purchasing decisions based on their evaluations of the utility of a product or service. This theory coincides with [[rational behavior]](https://www.investopedia.com/terms/r/rational-behavior.asp) theory, which states that people act rationally when making economic decisions.
 
 Further, neoclassical economics stipulates that a product or service often has value above and beyond its production costs. While classical economic theory assumes that a product's value derives from the cost of materials plus the cost of labor, neoclassical economists say that consumer perceptions of the value of a product affect its price and demand.
 
-Finally, this [economic theory](https://www.investopedia.com/articles/economics/12/nobel-prize-winning-economic-theories.asp) states that competition leads to an efficient allocation of resources within an economy. The forces of supply and demand create market equilibrium.
+Finally, this [[economic theory]](https://www.investopedia.com/articles/economics/12/nobel-prize-winning-economic-theories.asp) states that competition leads to an efficient allocation of resources within an economy. The forces of supply and demand create market equilibrium.
 
 In contrast to Keynesian economics, the neoclassical school states that savings determine investment. It concludes that equilibrium in the market and growth at full employment should be the primary economic priorities of government. 
 
@@ -48,6 +48,6 @@ Some critics also blame neoclassical economics for inequalities in global debt a
 
 ### A Neoclassical Crisis?
 
-Followers of neoclassical economics believe that there is no upper limit to the profits that can be made by smart [capitalists](https://www.investopedia.com/terms/c/capitalism.asp) since the value of a product is driven by consumer perception. This difference between the actual costs of the product and the price it is sold for is termed the economic surplus.
+Followers of neoclassical economics believe that there is no upper limit to the profits that can be made by smart [[capitalists]](https://www.investopedia.com/terms/c/capitalism.asp) since the value of a product is driven by consumer perception. This difference between the actual costs of the product and the price it is sold for is termed the economic surplus.
 
-However, this type of thinking could be said to have led to the [2008 financial crisis](https://www.investopedia.com/terms/c/credit-crisis.asp). In the leadup to that crisis, modern economists believed that [synthetic financial instruments](https://www.investopedia.com/terms/s/synthetic.asp) had no price ceiling because investors in them perceived the housing market as limitless in its potential for growth. Both the economists and the investors were wrong, and the market for those financial instruments crashed.
+However, this type of thinking could be said to have led to the [2008 financial crisis](https://www.investopedia.com/terms/c/credit-crisis.asp). In the leadup to that crisis, modern economists believed that [[synthetic financial instruments]](https://www.investopedia.com/terms/s/synthetic.asp) had no price ceiling because investors in them perceived the housing market as limitless in its potential for growth. Both the economists and the investors were wrong, and the market for those financial instruments crashed.

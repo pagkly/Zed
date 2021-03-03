@@ -16,7 +16,7 @@ author: James Chen
 Short Covering Definition
 ## What Is Short Covering?
 
-Short covering refers to buying back borrowed securities in order to close out an open short position at a profit or loss. It requires purchasing the same security that was initially [sold short](https://www.investopedia.com/terms/s/shortselling.asp), and handing back the shares initially borrowed for the short sale. This type of transaction is referred to as [buy to cover](https://www.investopedia.com/terms/b/buytocover.asp).
+Short covering refers to buying back borrowed securities in order to close out an open short position at a profit or loss. It requires purchasing the same security that was initially [[sold short]](https://www.investopedia.com/terms/s/shortselling.asp), and handing back the shares initially borrowed for the short sale. This type of transaction is referred to as [[buy to cover]](https://www.investopedia.com/terms/b/buytocover.asp).
 
 For example, a trader sells short 100 shares of XYZ at $20, based on the opinion those shares will head lower. When XYZ declines to $15, the trader buys back XYZ to cover the short position, booking a $500 profit from the sale.
 
@@ -28,7 +28,7 @@ For example, a trader sells short 100 shares of XYZ at $20, based on the opinion
 
 ## How Does Short Covering Work?
 
-Short covering is necessary in order to close an open short position. A short position will be profitable if it is covered at a lower price than the initial transaction; it will incur a loss if it is covered at a higher price than the initial transaction. When there is a great deal of short covering occurring in a security, it may result in a [short squeeze](https://www.investopedia.com/terms/s/shortsqueeze.asp), wherein short sellers are forced to [liquidate](https://www.investopedia.com/terms/l/liquidate.asp) positions at progressively higher prices as they lose money and their brokers invoke [margin calls](https://www.investopedia.com/terms/m/margincall.asp).
+Short covering is necessary in order to close an open short position. A short position will be profitable if it is covered at a lower price than the initial transaction; it will incur a loss if it is covered at a higher price than the initial transaction. When there is a great deal of short covering occurring in a security, it may result in a [[short squeeze]](https://www.investopedia.com/terms/s/shortsqueeze.asp), wherein short sellers are forced to [[liquidate]](https://www.investopedia.com/terms/l/liquidate.asp) positions at progressively higher prices as they lose money and their brokers invoke [[margin calls]](https://www.investopedia.com/terms/m/margincall.asp).
 
 Short covering can also occur involuntarily when a stock with very high short interest is subjected to a “buy-in”. This term refers to the closing of a short position by a broker-dealer when the stock is extremely difficult to borrow and lenders are demanding it back. Often times, this occurs in stocks that are less liquid with fewer shareholders.
 
@@ -36,7 +36,7 @@ Short covering can also occur involuntarily when a stock with very high short in
 
 ### Short Interest and Short Interest Ratio (SIR)
 
-The higher the [short interest](https://www.investopedia.com/terms/s/shortinterest.asp) and [short interest ratio](https://www.investopedia.com/terms/s/shortinterestratio.asp) (SIR), the greater the risk that short covering may occur in a disorderly fashion. Short covering is generally responsible for the initial stages of a rally after a prolonged [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), or a protracted decline in a stock or other security. Short sellers usually have shorter-term holding periods than investors with [long positions](https://www.investopedia.com/terms/l/long.asp), due to the risk of runaway losses in a strong uptrend. As a result, short sellers are generally quick to cover short sales on signs of a turnaround in market sentiment or a security's bad fortunes.
+The higher the [[short interest]](https://www.investopedia.com/terms/s/shortinterest.asp) and [[short interest ratio]](https://www.investopedia.com/terms/s/shortinterestratio.asp) (SIR), the greater the risk that short covering may occur in a disorderly fashion. Short covering is generally responsible for the initial stages of a rally after a prolonged [[bear market]](https://www.investopedia.com/terms/b/bearmarket.asp), or a protracted decline in a stock or other security. Short sellers usually have shorter-term holding periods than investors with [[long positions]](https://www.investopedia.com/terms/l/long.asp), due to the risk of runaway losses in a strong uptrend. As a result, short sellers are generally quick to cover short sales on signs of a turnaround in market sentiment or a security's bad fortunes.
 
 ## Example of Short Covering
 

@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Supply Chain Finance: What You Should Know
 ## What Is Supply Chain Finance?
 
-Supply chain finance (SCF) is a term describing a set of technology-based solutions that aim to lower financing costs and improve business efficiency for buyers and sellers linked in a sales transaction. SCF methodologies work by automating transactions and tracking invoice approval and settlement processes, from initiation to completion. Under this paradigm, buyers agree to approve their suppliers' invoices for financing by a bank or other outside financier--often referred to as "factors." And by providing short-term credit that optimizes [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) and provides liquidity to both parties, SCF offers distinct advantages to all participants. While suppliers gain quicker access to money they are owed, buyers get more time to pay off their balances. On either side of the equation, the parties can use the cash on hand for other projects to keep their respective operations running smoothy.
+Supply chain finance (SCF) is a term describing a set of technology-based solutions that aim to lower financing costs and improve business efficiency for buyers and sellers linked in a sales transaction. SCF methodologies work by automating transactions and tracking invoice approval and settlement processes, from initiation to completion. Under this paradigm, buyers agree to approve their suppliers' invoices for financing by a bank or other outside financier--often referred to as "factors." And by providing short-term credit that optimizes [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) and provides liquidity to both parties, SCF offers distinct advantages to all participants. While suppliers gain quicker access to money they are owed, buyers get more time to pay off their balances. On either side of the equation, the parties can use the cash on hand for other projects to keep their respective operations running smoothy.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Supply chain finance (SCF) is a term describing a set of technology-based soluti
 
 ## How Supply Chain Finance Works
 
-Supply chain finance works best when the buyer has a better [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) than the seller, and can consequently source capital from a bank or other financial provider at a lower cost. This advantage lets buyers negotiate better terms from the seller, such as extended payment schedules. Meanwhile, the seller can unload its products more quickly, to receive immediate payment from the intermediary financing body.
+Supply chain finance works best when the buyer has a better [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) than the seller, and can consequently source capital from a bank or other financial provider at a lower cost. This advantage lets buyers negotiate better terms from the seller, such as extended payment schedules. Meanwhile, the seller can unload its products more quickly, to receive immediate payment from the intermediary financing body.
 
 Supply chain finance, often referred to as "supplier finance" or "reverse factoring," encourages collaboration between buyers and sellers. This philosophically counters the competitive dynamic that typically arises between these two parties. After all, under traditional circumstances, buyers attempt to delay payment, while sellers look to be paid as soon as possible.
 

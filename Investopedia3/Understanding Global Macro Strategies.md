@@ -24,7 +24,7 @@ Global macro funds are normally actively managed, which means they have a higher
 
 ## How the Global Macro Strategies Work
 
-Global macro funds build portfolios around predictions and projections of large-scale events on the country-wide, continental, and global scale, implementing opportunistic investment strategies to capitalize on [macroeconomic](https://www.investopedia.com/terms/m/macroeconomics.asp) and geopolitical trends. Global macro strategists make forecasts and analyze trends involving factors such as:
+Global macro funds build portfolios around predictions and projections of large-scale events on the country-wide, continental, and global scale, implementing opportunistic investment strategies to capitalize on [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) and geopolitical trends. Global macro strategists make forecasts and analyze trends involving factors such as:
 
 -   Interest rates
 -   Politics
@@ -37,11 +37,11 @@ Global macro funds are considered among the least-restricted funds as they gener
 
 ## Types of Global Macro Strategy
 
-Global macro funds generally use a combination of currency-based, interest rate-based, and stock index-based trading strategies. Within the context of currency strategies, the funds typically seek opportunities based on the relative strength of one currency to another. Funds monitor and project economic and monetary policies around the world, and make highly leveraged currency trades using [futures](https://www.investopedia.com/terms/f/futures.asp), forwards, options, and spot transactions.
+Global macro funds generally use a combination of currency-based, interest rate-based, and stock index-based trading strategies. Within the context of currency strategies, the funds typically seek opportunities based on the relative strength of one currency to another. Funds monitor and project economic and monetary policies around the world, and make highly leveraged currency trades using [[futures]](https://www.investopedia.com/terms/f/futures.asp), forwards, options, and spot transactions.
 
 Interest rate strategies usually invest in sovereign debt, making directional bets as well as relative value trades. A fund manager generally concentrates on monetary policy, its economy, and political situation. Some of the vehicles they may choose in this strategy include U.S. Treasury and European debt instruments. They may also invest in government debt from other developed and emerging countries.
 
-Stock or equity index trading under a global macro strategy analyzes the equity or commodity index of a specific country using futures, options, and exchange-traded funds (ETFs). Fund managers generally try to create portfolios that outperform the index during lower interest rate environments. They mainly focus on [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) that can be easily traded when there is uncertainty. These assets only come with market risks, which are expected. This means there are no other risks—liquidity or credit risks—involved. Certain global macro funds employ strategies focused on only emerging market countries.
+Stock or equity index trading under a global macro strategy analyzes the equity or commodity index of a specific country using futures, options, and exchange-traded funds (ETFs). Fund managers generally try to create portfolios that outperform the index during lower interest rate environments. They mainly focus on [[liquid assets]](https://www.investopedia.com/terms/l/liquidasset.asp) that can be easily traded when there is uncertainty. These assets only come with market risks, which are expected. This means there are no other risks—liquidity or credit risks—involved. Certain global macro funds employ strategies focused on only emerging market countries.
 
 ## General Types of Global Macro Funds
 

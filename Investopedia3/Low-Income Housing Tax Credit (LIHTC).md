@@ -16,7 +16,7 @@ author: Julia Kagan
 Low-Income Housing Tax Credit (LIHTC)
 ## What Is the Low-Income Housing Tax Credit (LIHTC)?
 
-The Low-Income Housing Tax Credit (LIHTC) is a [tax incentive](https://www.investopedia.com/terms/t/taxcredit.asp) for housing developers to construct, purchase, or renovate housing for low-income individuals and families. The Low-Income Housing Tax Credit was written into the [Tax Reform Act of 1986](https://www.investopedia.com/terms/t/taxreformact1986.asp).1
+The Low-Income Housing Tax Credit (LIHTC) is a [[tax incentive]](https://www.investopedia.com/terms/t/taxcredit.asp) for housing developers to construct, purchase, or renovate housing for low-income individuals and families. The Low-Income Housing Tax Credit was written into the [[Tax Reform Act of 1986]](https://www.investopedia.com/terms/t/taxreformact1986.asp).1
 
 There are specific qualifications residents must fulfill to benefit from these types of housing projects, including maximum income guidelines.
 
@@ -51,6 +51,6 @@ Low-income housing refers to any housing project or residential building that re
 
 While the Low-Income Housing Tax Credit is intended to spur the creation of more low-income housing, there are other types of supports for the people seeking low-income housing. Low-income housing subsidies are offered through the Department of Housing and Urban Development ([HUD](https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp)).
 
-The income qualifications can be found on [HUD’s web site](https://www.hud.gov/topics/rental_assistance) and they are subject to change as wages grow or decline in a given area. A prospective renter must earn less than 50 percent of the median income in their area to qualify. While the aid is available to single renters as well as families, there are qualifications for room counts in prospective homes and single renters may be excluded from a housing project due to lack of availability of properly sized units.6
+The income qualifications can be found on [[HUD’s web site]](https://www.hud.gov/topics/rental_assistance) and they are subject to change as wages grow or decline in a given area. A prospective renter must earn less than 50 percent of the median income in their area to qualify. While the aid is available to single renters as well as families, there are qualifications for room counts in prospective homes and single renters may be excluded from a housing project due to lack of availability of properly sized units.6
 
-Low-income housing should not be confused with [affordable housing](https://www.investopedia.com/articles/mortgages-real-estate/10/affordable-housing.asp), which is for families who are spending more than 30 percent of their income on housing.7
+Low-income housing should not be confused with [[affordable housing]](https://www.investopedia.com/articles/mortgages-real-estate/10/affordable-housing.asp), which is for families who are spending more than 30 percent of their income on housing.7

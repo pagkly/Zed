@@ -18,7 +18,7 @@ Definition of Year-Over-Year (YOY)
 
 Year-Over-Year (YOY) is a frequently used financial comparison for comparing two or more measurable events on an annualized basis.
 
-Looking at YOY performance allows for gauging if a company's [financial performance](https://www.investopedia.com/terms/f/financialperformance.asp) is improving, static, or worsening. For example, in financial reports, you may read that a particular business reported its [revenues](https://www.investopedia.com/terms/r/revenue.asp) increased for the third quarter, on a YOY basis, for the last three years.
+Looking at YOY performance allows for gauging if a company's [[financial performance]](https://www.investopedia.com/terms/f/financialperformance.asp) is improving, static, or worsening. For example, in financial reports, you may read that a particular business reported its [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) increased for the third quarter, on a YOY basis, for the last three years.
 
 #### Explaining Year Over Year (YOY)
 
@@ -40,7 +40,7 @@ For example, in the third quarter of 2017, Barrick Gold Corporation reported a 
 
 ## Reasoning Behind Year-over-Year (YOY)
 
-YOY comparisons are popular when analyzing a company's performance because they help mitigate [seasonality](https://www.investopedia.com/terms/s/seasonality.asp), a factor that can influence most businesses. Sales, profits, and other financial metrics change during different periods of the year because most lines of business have a peak season and a low demand season.
+YOY comparisons are popular when analyzing a company's performance because they help mitigate [[seasonality]](https://www.investopedia.com/terms/s/seasonality.asp), a factor that can influence most businesses. Sales, profits, and other financial metrics change during different periods of the year because most lines of business have a peak season and a low demand season.
 
 For example, retailers have a peak demand season during the holiday shopping season, which falls in the fourth quarter of the year. To properly quantify a company's performance, it makes sense to compare revenue and profits year-over-year.
 

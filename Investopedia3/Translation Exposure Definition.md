@@ -16,9 +16,9 @@ author: Adam Hayes
 Translation Exposure Definition
 ## What Is Translation Exposure?
 
-Translation exposure (also known as [translation risk](https://www.investopedia.com/terms/t/translationrisk.asp)) is the risk that a company's equities, assets, liabilities, or income will change in value as a result of [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) changes. This occurs when a firm denominates a portion of its equities, assets, liabilities, or income in a foreign currency. It is also known as "accounting exposure.”
+Translation exposure (also known as [[translation risk]](https://www.investopedia.com/terms/t/translationrisk.asp)) is the risk that a company's equities, assets, liabilities, or income will change in value as a result of [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) changes. This occurs when a firm denominates a portion of its equities, assets, liabilities, or income in a foreign currency. It is also known as "accounting exposure.”
 
-Accountants use various methods to insulate firms from these types of risks, such as consolidation techniques for the firm's financial statements and using the most effective [cost accounting](https://www.investopedia.com/terms/c/cost-accounting.asp) evaluation procedures. In many cases, translation exposure is recorded in financial statements as an exchange rate gain (or loss).
+Accountants use various methods to insulate firms from these types of risks, such as consolidation techniques for the firm's financial statements and using the most effective [[cost accounting]](https://www.investopedia.com/terms/c/cost-accounting.asp) evaluation procedures. In many cases, translation exposure is recorded in financial statements as an exchange rate gain (or loss).
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ Translation risk can occur at any time a business operates in regions that use d
 
 ## Transaction vs. Translation Exposure
 
-There is a distinct difference between transaction and translation exposure. [Transaction exposure](https://www.investopedia.com/terms/t/transactionexposure.asp) involves the risk that when a business transaction is arranged in a foreign currency, the value of that currency may change before the transaction is complete.
+There is a distinct difference between transaction and translation exposure. [[Transaction exposure]](https://www.investopedia.com/terms/t/transactionexposure.asp) involves the risk that when a business transaction is arranged in a foreign currency, the value of that currency may change before the transaction is complete.
 
 Should the foreign currency appreciate, it will cost more in the business’s home currency. Translation risk focuses on the change in a foreign-held asset’s value based on a change in exchange rate between the home and foreign currencies.
 

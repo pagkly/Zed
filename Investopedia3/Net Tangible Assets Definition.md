@@ -16,9 +16,9 @@ author: Alicia Tuovila
 Net Tangible Assets Definition
 ## What Are Net Tangible Assets?
 
-Net [tangible assets](https://www.investopedia.com/terms/t/tangibleasset.asp) are calculated as the total assets of a company, minus any [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) such as goodwill, patents, and trademarks, less all liabilities and the par value of preferred stock. In other words, its focus is on physical assets such as property, plant, and equipment, as well as inventories and cash instruments.
+Net [[tangible assets]](https://www.investopedia.com/terms/t/tangibleasset.asp) are calculated as the total assets of a company, minus any [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp) such as goodwill, patents, and trademarks, less all liabilities and the par value of preferred stock. In other words, its focus is on physical assets such as property, plant, and equipment, as well as inventories and cash instruments.
 
-To calculate a company's net tangible asset per share of [common stock](https://www.investopedia.com/terms/c/commonstock.asp), divide the net tangible assets figure by the number of shares of common stock outstanding.
+To calculate a company's net tangible asset per share of [[common stock]](https://www.investopedia.com/terms/c/commonstock.asp), divide the net tangible assets figure by the number of shares of common stock outstanding.
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ To calculate a company's net tangible asset per share of [common stock](https://
 
 ## Understanding Net Tangible Assets
 
-Net tangible assets are meant to represent a company's total amount of physical assets minus any liabilities. The calculation of net tangible assets takes the fair market value of a company's tangible assets and subtracts the fair market value of its liabilities. Tangible assets can include items such as cash, inventory, [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), and property, plant, and equipment (PPE). Liabilities include accounts payable, [long-term debt](https://www.investopedia.com/terms/l/longtermdebt.asp), and other similar obligations.
+Net tangible assets are meant to represent a company's total amount of physical assets minus any liabilities. The calculation of net tangible assets takes the fair market value of a company's tangible assets and subtracts the fair market value of its liabilities. Tangible assets can include items such as cash, inventory, [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp), and property, plant, and equipment (PPE). Liabilities include accounts payable, [[long-term debt]](https://www.investopedia.com/terms/l/longtermdebt.asp), and other similar obligations.
 
-For example, if a company has total assets of $1 million, [total liabilities](https://www.investopedia.com/terms/t/total-liabilities.asp) of $100,000, and intangible goodwill of $100,000, its net tangible asset amount is $800,000. This is derived by subtracting $100,000 in both liabilities and goodwill from the total asset number of $1 million.
+For example, if a company has total assets of $1 million, [[total liabilities]](https://www.investopedia.com/terms/t/total-liabilities.asp) of $100,000, and intangible goodwill of $100,000, its net tangible asset amount is $800,000. This is derived by subtracting $100,000 in both liabilities and goodwill from the total asset number of $1 million.
 
 ## Advantages and Disadvantages of Net Tangible Assets
 
-This measurement of a company's tangible assets is important because it allows a firm's management team to analyze its asset position without including obsolete or difficult to value intangible assets. A company's [return on assets (ROA)](https://www.investopedia.com/terms/r/returnonassets.asp), for example, is often more accurate when net tangible assets are used in the calculation.
+This measurement of a company's tangible assets is important because it allows a firm's management team to analyze its asset position without including obsolete or difficult to value intangible assets. A company's [[return on assets (ROA)]](https://www.investopedia.com/terms/r/returnonassets.asp), for example, is often more accurate when net tangible assets are used in the calculation.
 
-The usefulness of deriving net tangible assets, however, varies across industries. Medical device manufacturers, for example, have high levels of valuable intangible assets. It is thus important to look at a company's [price-to-book](https://www.investopedia.com/terms/p/price-to-bookratio.asp) (P/B) value and compare it against similar companies to gauge performance.
+The usefulness of deriving net tangible assets, however, varies across industries. Medical device manufacturers, for example, have high levels of valuable intangible assets. It is thus important to look at a company's [[price-to-book]](https://www.investopedia.com/terms/p/price-to-bookratio.asp) (P/B) value and compare it against similar companies to gauge performance.
 
 ## Net Tangible Assets vs. Net Tangible Assets Per Share
 

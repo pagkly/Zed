@@ -16,7 +16,7 @@ author: Marshall Hargrave
 How to Use the Winsorized Mean
 ## What Is the Winsorized Mean?
 
-Winsorized mean is a method of averaging that initially replaces the smallest and largest values with the observations closest to them. This is done to limit the effect of abnormal extreme values, or outliers, on the calculation. After replacing the values, [arithmetic mean](https://www.investopedia.com/terms/a/arithmeticmean.asp) formula is then used to calculate the winsorized mean.
+Winsorized mean is a method of averaging that initially replaces the smallest and largest values with the observations closest to them. This is done to limit the effect of abnormal extreme values, or outliers, on the calculation. After replacing the values, [[arithmetic mean]](https://www.investopedia.com/terms/a/arithmeticmean.asp) formula is then used to calculate the winsorized mean.
 
 ## The Formula for the Winsorized Mean Is
 
@@ -30,7 +30,7 @@ The winsorized mean is calculated by replacing the smallest and largest data poi
 
 ## What Does the Winsorized Mean Tell You?
 
-The winsorized mean is less sensitive to outliers because it can replace them with less extreme values. That is, it is less susceptible to outlines versus the [mean](https://www.investopedia.com/terms/m/mean.asp). However, if a distribution has fat tails, the effect of removing the highest and lowest values in the distribution will have little influence because of the high number of variability in the [distribution](https://www.investopedia.com/terms/d/distribution.asp) figures.
+The winsorized mean is less sensitive to outliers because it can replace them with less extreme values. That is, it is less susceptible to outlines versus the [[mean]](https://www.investopedia.com/terms/m/mean.asp). However, if a distribution has fat tails, the effect of removing the highest and lowest values in the distribution will have little influence because of the high number of variability in the [[distribution]](https://www.investopedia.com/terms/d/distribution.asp) figures.
 
 ### Key Takeaways
 
@@ -48,7 +48,7 @@ Or consider a 20% winsorized mean that takes the top 10% and bottom 10% and repl
 
 ## The Difference Between Winsorized Mean and Trimmed Mean
 
-The winsorized mean includes modifying data points, while the [trimmed mean](https://www.investopedia.com/terms/t/trimmed_mean.asp) involves removing data points. It’s common for the winsorized mean and trimmed mean to be close.
+The winsorized mean includes modifying data points, while the [[trimmed mean]](https://www.investopedia.com/terms/t/trimmed_mean.asp) involves removing data points. It’s common for the winsorized mean and trimmed mean to be close.
 
 ## Limitations of Using Winsorized Mean
 
@@ -56,4 +56,4 @@ One major downside for winsorized means is that they introduce bias into the dat
 
 ## Learn More About Winsorized Mean
 
-For related insight, read more about the [differences between key mean calculations](https://www.investopedia.com/ask/answers/06/geometricmean.asp).
+For related insight, read more about the [[differences between key mean calculations]](https://www.investopedia.com/ask/answers/06/geometricmean.asp).

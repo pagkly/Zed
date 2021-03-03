@@ -16,7 +16,7 @@ author: Will Kenton
 LIFO Liquidation
 ## What Is a LIFO Liquidation?
 
-A LIFO liquidation is when a company sells the most recently acquired inventory first. It occurs when a company that uses the [last-in, first-out](https://www.investopedia.com/terms/l/lifo.asp) (LIFO) inventory costing method liquidates its older LIFO inventory. A LIFO liquidation occurs when current sales exceed purchases, resulting in the liquidation of any inventory not sold in a previous period. 
+A LIFO liquidation is when a company sells the most recently acquired inventory first. It occurs when a company that uses the [[last-in, first-out]](https://www.investopedia.com/terms/l/lifo.asp) (LIFO) inventory costing method liquidates its older LIFO inventory. A LIFO liquidation occurs when current sales exceed purchases, resulting in the liquidation of any inventory not sold in a previous period. 
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A LIFO liquidation is when a company sells the most recently acquired inventory 
 
 ## How a LIFO Liquidation Works
 
-The LIFO method is a financial practice in which a company sells the most recent inventory purchased first. LIFO matches the most recent costs against current [revenues](https://www.investopedia.com/articles/analyst/071502.asp). Some companies use the LIFO method during periods of inflation when the cost to purchase inventory increases over time. The LIFO method provides tax benefits as the higher costs associated with new inventories seemingly offset profits, resulting in a lower tax burden.
+The LIFO method is a financial practice in which a company sells the most recent inventory purchased first. LIFO matches the most recent costs against current [[revenues]](https://www.investopedia.com/articles/analyst/071502.asp). Some companies use the LIFO method during periods of inflation when the cost to purchase inventory increases over time. The LIFO method provides tax benefits as the higher costs associated with new inventories seemingly offset profits, resulting in a lower tax burden.
 
 ## LIFO Liquidation Example
 
@@ -73,7 +73,7 @@ $15
 
 $7,500,000
 
-Despite its forecast, consumer demand for the product increased; ABC sold 1,000,000 units in year four. Under the LIFO method, 500,000 units from year four are liquidated, resulting in revenues of $25 million, [COGS](https://www.investopedia.com/terms/c/cogs.asp) of $7.5 million, and gross profits of $17.5 million; and 500,000 units from year three are liquidated, resulting in revenues of $25 million, COGS of $7 million, and gross profits of $18 million. 
+Despite its forecast, consumer demand for the product increased; ABC sold 1,000,000 units in year four. Under the LIFO method, 500,000 units from year four are liquidated, resulting in revenues of $25 million, [[COGS]](https://www.investopedia.com/terms/c/cogs.asp) of $7.5 million, and gross profits of $17.5 million; and 500,000 units from year three are liquidated, resulting in revenues of $25 million, COGS of $7 million, and gross profits of $18 million. 
 
 **Cost Year**
 

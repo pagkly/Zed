@@ -16,7 +16,7 @@ author: Julia Kagan
 Remuneration
 ## What Is Remuneration?
 
-Remuneration is payment or compensation received for services or employment. This includes a [base salary](https://www.investopedia.com/terms/b/base-pay.asp) and any bonuses or other economic benefits that an employee or executive receives during employment.
+Remuneration is payment or compensation received for services or employment. This includes a [[base salary]](https://www.investopedia.com/terms/b/base-pay.asp) and any bonuses or other economic benefits that an employee or executive receives during employment.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Remuneration is payment or compensation received for services or employment. T
 
 ## Understanding Remuneration
 
-Remuneration often refers to the total compensation received by an executive, which includes not only the person's base salary but options, [bonuses](https://www.investopedia.com/terms/b/bonus.asp), expense accounts and other forms of compensation.
+Remuneration often refers to the total compensation received by an executive, which includes not only the person's base salary but options, [[bonuses]](https://www.investopedia.com/terms/b/bonus.asp), expense accounts and other forms of compensation.
 
 The amount of remuneration and the form it takes is dependent on many factors, including:
 

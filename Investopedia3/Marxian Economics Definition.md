@@ -33,7 +33,7 @@ Much of Marxian economics is drawn from Karl Marx's seminal work "Das Kapital," 
 
 Much of Das Kapital spells out Marx’s concept of the “surplus value” of labor and its consequences for capitalism. According to Marx, it was not the pressure of labor pools that drove wages to the subsistence level but rather the existence of a large army of unemployed, which he blamed on capitalists. He maintained that within the capitalist system, labor was a mere commodity that could gain only subsistence wages.
 
-Capitalists, however, could force workers to spend more time on the job than was necessary to earn their subsistence and then appropriate the excess product, or surplus value, created by the workers. In other words, Marx argued that workers create value through their labor but are not properly compensated. Their hard work, he said, is exploited by the ruling classes, who generate [profits](https://www.investopedia.com/terms/p/profit.asp) not by selling their products at a higher price but by paying staff less than the value of their labor.
+Capitalists, however, could force workers to spend more time on the job than was necessary to earn their subsistence and then appropriate the excess product, or surplus value, created by the workers. In other words, Marx argued that workers create value through their labor but are not properly compensated. Their hard work, he said, is exploited by the ruling classes, who generate [[profits]](https://www.investopedia.com/terms/p/profit.asp) not by selling their products at a higher price but by paying staff less than the value of their labor.
 
 Marx claimed there are two major flaws inherent in capitalism that lead to exploitation: the chaotic nature of the free market and surplus labor.
 
@@ -49,7 +49,7 @@ He predicted that capitalism would eventually destroy itself as more people get 
 
 ## Special Considerations
 
-Marxian economics is considered separate from [Marxism](https://www.investopedia.com/terms/m/marxism.asp), even if the two ideologies are closely related. Where it differs is that it focuses less on social and political matters. More broadly, Marxian economic principles clash with the virtues of capitalist pursuits.
+Marxian economics is considered separate from [[Marxism]](https://www.investopedia.com/terms/m/marxism.asp), even if the two ideologies are closely related. Where it differs is that it focuses less on social and political matters. More broadly, Marxian economic principles clash with the virtues of capitalist pursuits.
 
 During the first half of the twentieth century, with the Bolshevik revolution in Russia and the spread of communism throughout Eastern Europe, it seemed the Marxist dream had finally and firmly taken root.
 

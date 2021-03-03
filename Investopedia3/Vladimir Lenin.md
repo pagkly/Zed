@@ -16,7 +16,7 @@ author: Will Kenton
 Vladimir Lenin
 ## Who Was Vladimir Lenin?
 
-Vladimir Ilyich Lenin was the architect of Russia’s 1917 Bolshevik revolution and the first leader of what became the Union of Soviet Socialist Republics (USSR). Through violent means he imposed a system of Marxist socialism called [Communism](https://www.investopedia.com/terms/c/communism.asp) on the former empire that attempted a redistribution of wealth intended to abolish the aristocracy and create a more equitable society for the masses.
+Vladimir Ilyich Lenin was the architect of Russia’s 1917 Bolshevik revolution and the first leader of what became the Union of Soviet Socialist Republics (USSR). Through violent means he imposed a system of Marxist socialism called [[Communism]](https://www.investopedia.com/terms/c/communism.asp) on the former empire that attempted a redistribution of wealth intended to abolish the aristocracy and create a more equitable society for the masses.
 
 ## The History of Vladimir Lenin
 

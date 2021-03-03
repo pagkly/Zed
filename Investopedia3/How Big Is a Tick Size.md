@@ -18,7 +18,7 @@ How Big Is a Tick Size?
 
 Tick size refers to the minimum price movement of a trading instrument in a market. The price movements of different trading instruments vary, with their tick sizes representing the minimum amount they can move up or down on an exchange.
 
-In U.S. markets, the tick size increment is expressed in terms of dollars or cents. Stocks generally trade in one-cent tick size increments, while currencies have tick sizes in [pips](https://www.investopedia.com/terms/p/pip.asp), and rates in basis points ([bps](https://www.investopedia.com/ask/answers/what-basis-point-bps/)).
+In U.S. markets, the tick size increment is expressed in terms of dollars or cents. Stocks generally trade in one-cent tick size increments, while currencies have tick sizes in [[pips]](https://www.investopedia.com/terms/p/pip.asp), and rates in basis points ([bps](https://www.investopedia.com/ask/answers/what-basis-point-bps/)).
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ In U.S. markets, the tick size increment is expressed in terms of dollars or cen
 
 ## How Is Tick Size Measured?
 
-In modern trading, tick sizes generally have a basis of decimals. Up until the early 2000s, however, U.S. stock markets expressed tick sizes based on fractions of a dollar. For most stocks, that fraction was one-sixteenth, so a tick size represented $0.0625, although some stocks had 1/8 (for thinly traded stocks) and some 1/32 tick sizes (for more active and liquid issues). This somewhat ungainly fraction tick size convention originated with the early [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), which first modeled its measurements on a centuries-old Spanish trading system that used a base of eight, or the number of fingers on a person’s two hands—minus the thumbs since they aren't considered fingers.
+In modern trading, tick sizes generally have a basis of decimals. Up until the early 2000s, however, U.S. stock markets expressed tick sizes based on fractions of a dollar. For most stocks, that fraction was one-sixteenth, so a tick size represented $0.0625, although some stocks had 1/8 (for thinly traded stocks) and some 1/32 tick sizes (for more active and liquid issues). This somewhat ungainly fraction tick size convention originated with the early [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE), which first modeled its measurements on a centuries-old Spanish trading system that used a base of eight, or the number of fingers on a person’s two hands—minus the thumbs since they aren't considered fingers.
 
-In 2005, the Securities and Exchange Commission introduced Rule 612, also known as the [Sub-Penny Rule](https://www.investopedia.com/terms/s/sub-pennying.asp). Rule 612 requires the minimum tick size for stocks over $1.00 to be $0.01 while stocks under $1.00 can be quoted in increments of $0.0001. This process was known as [decimalization](https://www.investopedia.com/terms/d/decimalization.asp). The [U.S. Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) now requires all U.S. exchanges to effectively use hundredths, which is why the tick size today is $0.01, or one cent, for most stocks, though it has recently experimented with larger tick sizes for some less liquid stocks.
+In 2005, the Securities and Exchange Commission introduced Rule 612, also known as the [[Sub-Penny Rule]](https://www.investopedia.com/terms/s/sub-pennying.asp). Rule 612 requires the minimum tick size for stocks over $1.00 to be $0.01 while stocks under $1.00 can be quoted in increments of $0.0001. This process was known as [[decimalization]](https://www.investopedia.com/terms/d/decimalization.asp). The [[U.S. Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) now requires all U.S. exchanges to effectively use hundredths, which is why the tick size today is $0.01, or one cent, for most stocks, though it has recently experimented with larger tick sizes for some less liquid stocks.
 
 [Futures markets](https://www.investopedia.com/terms/f/futuresmarket.asp) typically have a tick size that is specific to the instrument, with $1 minimum tick sizes known as "points". For instance, one of the most heavily traded futures contracts is the S&P 500 E-mini. Its tick size is 0.25, or $12.50. That means if, say, the March 2019 contract’s current price is $2,553 (as it was as of Jan 7, 2019), and someone wanted to offer more for it, they would have to bid, at a minimum, $2,565.50. However, other index futures can move as little as $10, and some $5.
 
 ## Real World Example of Tick Size
 
-On Oct. 3, 2016, the SEC started a two-year pilot program to test the potential benefits of larger tick sizes for stocks with closing prices of $2 or greater, [market capitalizations](https://www.investopedia.com/terms/m/marketcapitalization.asp) of $3 billion or less, and consolidated average daily volume of 1 million shares or fewer. The Tick Size Pilot Program period ended on Sept. 28, 2018, although data collection and reporting requirements were set to continue for six more months.
+On Oct. 3, 2016, the SEC started a two-year pilot program to test the potential benefits of larger tick sizes for stocks with closing prices of $2 or greater, [[market capitalizations]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of $3 billion or less, and consolidated average daily volume of 1 million shares or fewer. The Tick Size Pilot Program period ended on Sept. 28, 2018, although data collection and reporting requirements were set to continue for six more months.
 
 The test collected data, including the profit margins of market makers in these securities. As part of the test, the SEC separated a sample of small-cap securities into one control group and two test groups. According to the SEC, each test group included about 400 securities, with the remainder placed in the control group.
 
@@ -46,9 +46,9 @@ The third group quoted in $0.05 increments, trades in $0.05 increments, though a
 
 ### Results of the Tick Size Pilot
 
-While it was merely a test, some retail brokers and traders criticized the study, arguing that a move to $0.05 tick sizes benefited market makers by potentially raising trading margins at the expense of individual investors. A [white paper](https://www.sec.gov/dera/staff-papers/white-papers/dera_wp_tick_size-market_quality) on the plan, “Tick Size Pilot Plan and Market Quality,” released in January 2018, found that stocks in the test groups experienced an increase in spreads and volatility and a decrease in price efficiency, relative to stocks in the control group.
+While it was merely a test, some retail brokers and traders criticized the study, arguing that a move to $0.05 tick sizes benefited market makers by potentially raising trading margins at the expense of individual investors. A [[white paper]](https://www.sec.gov/dera/staff-papers/white-papers/dera_wp_tick_size-market_quality) on the plan, “Tick Size Pilot Plan and Market Quality,” released in January 2018, found that stocks in the test groups experienced an increase in spreads and volatility and a decrease in price efficiency, relative to stocks in the control group.
 
-The exchanges and FINRA submitted to the SEC a publicly available [joint assessment](https://www.sec.gov/files/TICK%20PILOT%20ASSESSMENT%20FINAL%20Aug%202.pdf) of the impact of the Tick Size Pilot in July 2018.
+The exchanges and FINRA submitted to the SEC a publicly available [[joint assessment]](https://www.sec.gov/files/TICK%20PILOT%20ASSESSMENT%20FINAL%20Aug%202.pdf) of the impact of the Tick Size Pilot in July 2018.
 
 ## Pips and Forex Quotes
 

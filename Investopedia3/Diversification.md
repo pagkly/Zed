@@ -16,17 +16,17 @@ author: Troy Segal
 Diversification
 ## What Is Diversification?
 
-Diversification is a [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp) strategy that mixes a wide variety of investments within a portfolio. A diversified portfolio contains a mix of distinct asset types and investment vehicles in an attempt at limiting exposure to any single asset or risk. The rationale behind this technique is that a portfolio constructed of different kinds of assets will, on average, yield higher long-term returns and lower the risk of any individual holding or security.
+Diversification is a [[risk management]](https://www.investopedia.com/terms/r/riskmanagement.asp) strategy that mixes a wide variety of investments within a portfolio. A diversified portfolio contains a mix of distinct asset types and investment vehicles in an attempt at limiting exposure to any single asset or risk. The rationale behind this technique is that a portfolio constructed of different kinds of assets will, on average, yield higher long-term returns and lower the risk of any individual holding or security.
 
 ## The Basics of Diversification
 
-Diversification strives to smooth out unsystematic risk events in a portfolio, so the positive performance of some investments neutralizes the [negative performance](https://www.investopedia.com/terms/n/negative-return.asp) of others. The benefits of diversification hold only if the securities in the portfolio are not perfectly [correlated](https://www.investopedia.com/terms/c/correlation.asp)—that is, they respond differently, often in opposing ways, to market influences.
+Diversification strives to smooth out unsystematic risk events in a portfolio, so the positive performance of some investments neutralizes the [[negative performance]](https://www.investopedia.com/terms/n/negative-return.asp) of others. The benefits of diversification hold only if the securities in the portfolio are not perfectly [[correlated]](https://www.investopedia.com/terms/c/correlation.asp)—that is, they respond differently, often in opposing ways, to market influences.
 
 Studies and mathematical models have shown that maintaining a well-diversified portfolio of 25 to 30 stocks yields the most cost-effective level of risk reduction. The investing in more securities generates further diversification benefits, albeit at a drastically smaller rate.
 
 ### Key Takeaways
 
--   Diversification is a strategy that mixes a [wide variety](https://www.investopedia.com/terms/w/wide-variety.asp) of investments within a portfolio.
+-   Diversification is a strategy that mixes a [[wide variety]](https://www.investopedia.com/terms/w/wide-variety.asp) of investments within a portfolio.
 -   Portfolio holdings can be diversified across asset classes and within classes, and also geographically—by investing in both domestic and foreign markets.
 -   Diversification limits portfolio risk but can also mitigate performance, at least in the short term.
 
@@ -35,13 +35,13 @@ Studies and mathematical models have shown that maintaining a well-diversified p
 Fund managers and investors often diversify their investments across asset classes and determine what percentages of the portfolio to allocate to each. Classes can include:
 
 -   Stocks—shares or equity in a publicly traded company
--   [Bonds](https://www.investopedia.com/terms/b/bond.asp)—government and corporate fixed-income debt instruments
+-   [[Bonds]](https://www.investopedia.com/terms/b/bond.asp)—government and corporate fixed-income debt instruments
 -   Real estate—land, buildings, natural resources, agriculture, livestock, and water and mineral deposits
 -   Exchange-traded funds (ETFs)—a marketable basket of securities that follow an index, commodity, or sector
--   [Commodities](https://www.investopedia.com/terms/c/commodity.asp)—basic goods necessary for the production of other products or services
+-   [[Commodities]](https://www.investopedia.com/terms/c/commodity.asp)—basic goods necessary for the production of other products or services
 -   Cash and short-term cash-equivalents (CCE)—Treasury bills, certificate of deposit (CD), money market vehicles, and other short-term, low-risk investments
 
-They will then diversify among investments within the assets classes, such as by selecting stocks from various sectors that tend to have low return correlation, or by choosing stocks with different [market capitalizations](https://www.investopedia.com/terms/m/marketcapitalization.asp). In the case of bonds, investors can select from investment-grade corporate bonds, U.S. Treasuries, state and municipal bonds, high-yield bonds and others. 
+They will then diversify among investments within the assets classes, such as by selecting stocks from various sectors that tend to have low return correlation, or by choosing stocks with different [[market capitalizations]](https://www.investopedia.com/terms/m/marketcapitalization.asp). In the case of bonds, investors can select from investment-grade corporate bonds, U.S. Treasuries, state and municipal bonds, high-yield bonds and others. 
 
 ## Foreign Diversification
 
@@ -49,7 +49,7 @@ Investors can reap further diversification benefits by investing in foreign secu
 
 ## Diversification and the Retail Investor
 
-Time and budget constraints can make it difficult for noninstitutional investors—i.e., individuals—to create an adequately diversified portfolio. This challenge is a key reason why [mutual funds](https://www.investopedia.com/video/play/introduction-mutual-funds/) are so popular with retail investors. Buying shares in a mutual fund offers an inexpensive way to diversify investments.
+Time and budget constraints can make it difficult for noninstitutional investors—i.e., individuals—to create an adequately diversified portfolio. This challenge is a key reason why [[mutual funds]](https://www.investopedia.com/video/play/introduction-mutual-funds/) are so popular with retail investors. Buying shares in a mutual fund offers an inexpensive way to diversify investments.
 
 While mutual funds provide diversification across various asset classes, exchange-traded funds (ETFs) afford investor access to narrow markets such as commodities and international plays that would ordinarily be difficult to access. An individual with a $100,000 portfolio can spread the investment among ETFs with no overlap.
 
@@ -85,6 +85,6 @@ For example, as of March 2019, the iShares Edge MSCI USA Quality Factor ETF hold
 
 ## Real World Example
 
-Say an [aggressive investor](https://www.investopedia.com/terms/a/aggressiveinvestmentstrategy.asp) who can assume a higher level of risk, wishes to construct a portfolio composed of Japanese equities, Australian bonds, and cotton futures. He can purchase stakes in the iShares MSCI Japan ETF, the Vanguard Australian Government Bond Index ETF, and the iPath Bloomberg Cotton Subindex Total Return ETN, for example.
+Say an [[aggressive investor]](https://www.investopedia.com/terms/a/aggressiveinvestmentstrategy.asp) who can assume a higher level of risk, wishes to construct a portfolio composed of Japanese equities, Australian bonds, and cotton futures. He can purchase stakes in the iShares MSCI Japan ETF, the Vanguard Australian Government Bond Index ETF, and the iPath Bloomberg Cotton Subindex Total Return ETN, for example.
 
 With this mix of ETF shares, due to the specific qualities of the targeted asset classes and the transparency of the holdings, the investor ensures true diversification in their holdings. Also, with different correlations, or responses to outside forces, among the securities, they can slightly lessen their risk exposure. (For related reading, see "[The Importance Of Diversification](https://www.investopedia.com/investing/importance-diversification/)")

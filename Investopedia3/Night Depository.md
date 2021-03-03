@@ -16,7 +16,7 @@ author: Troy Segal
 Night Depository
 ## What Is a Night Depository?
 
-A night depository is a secured bank drop box where accountholders (usually small business owners or employees) can deposit their daily cash, checks, and credit card slips outside of normal banking hours (usually between 9 AM and 5 PM). The bank will collect the [deposits](https://www.investopedia.com/terms/b/bank-deposits.asp) and credit them to the client's account on the following business day.
+A night depository is a secured bank drop box where accountholders (usually small business owners or employees) can deposit their daily cash, checks, and credit card slips outside of normal banking hours (usually between 9 AM and 5 PM). The bank will collect the [[deposits]](https://www.investopedia.com/terms/b/bank-deposits.asp) and credit them to the client's account on the following business day.
 
 ### key takeaways
 

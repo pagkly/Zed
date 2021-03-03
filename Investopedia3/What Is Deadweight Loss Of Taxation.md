@@ -30,7 +30,7 @@ The theory posits that imposing a new tax or raising an old one can backfire, re
 
 Deadweight loss of taxation may be viewed as the overall reduction in demand and the subsequent decline in production levels that follow the imposition of a tax. This is usually represented graphically.
 
-The graph illustrates the [supply curve](https://www.investopedia.com/terms/s/supply-curve.asp) for the product or service that is being taxed alongside the [demand curve](https://www.investopedia.com/terms/d/demand-curve.asp) for it. The difference represents the deadweight loss of taxation.
+The graph illustrates the [[supply curve]](https://www.investopedia.com/terms/s/supply-curve.asp) for the product or service that is being taxed alongside the [[demand curve]](https://www.investopedia.com/terms/d/demand-curve.asp) for it. The difference represents the deadweight loss of taxation.
 
 ## Example of Deadweight Loss of Taxation
 
@@ -52,7 +52,7 @@ Taxes result in a higher cost of production or a higher purchase price for the c
 
 The gap between the taxed and tax-free production volumes is the deadweight loss. 
 
-[Neoclassical analysis](https://www.investopedia.com/terms/n/neoclassical.asp) says the amount of loss depends on the shapes and [elasticities](https://www.investopedia.com/terms/e/elasticity.asp) of the supply and demand curves.
+[Neoclassical analysis](https://www.investopedia.com/terms/n/neoclassical.asp) says the amount of loss depends on the shapes and [[elasticities]](https://www.investopedia.com/terms/e/elasticity.asp) of the supply and demand curves.
 
 ### Arguments Against Taxation
 
@@ -68,7 +68,7 @@ The limited resources will move from their otherwise optimal use, away from heav
 
 The economics of taxation also apply to other forms of government financing. If a government finances activities through bonds rather than taxation, deadweight loss is only delayed. Higher future taxes must be levied to pay off the bond debt.
 
-The deadweight loss of [inflation](https://www.investopedia.com/terms/i/inflation.asp) is nuanced. Inflation reduces the economy’s production volume in three ways:
+The deadweight loss of [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) is nuanced. Inflation reduces the economy’s production volume in three ways:
 
 -   Individuals divert resources towards counter-inflationary activities.
 -   Governments engage in more spending and deficit financing becomes a “hidden tax.”

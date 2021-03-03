@@ -16,7 +16,7 @@ author: James Chen
 Political Risk
 ## What is Political Risk
 
-Political risk is the risk an investment's returns could suffer as a result of political changes or instability in a country. Instability affecting [investment](https://www.investopedia.com/terms/i/investment.asp) returns could stem from a change in government, legislative bodies, other foreign policymakers or military control. Political risk is also known as "geopolitical risk," and becomes more of a factor as the [time horizon](https://www.investopedia.com/terms/t/timehorizon.asp) of investment gets longer. They are considered a type of [jurisdiction risk](https://www.investopedia.com/terms/j/jurisdiction-risk.asp).
+Political risk is the risk an investment's returns could suffer as a result of political changes or instability in a country. Instability affecting [[investment]](https://www.investopedia.com/terms/i/investment.asp) returns could stem from a change in government, legislative bodies, other foreign policymakers or military control. Political risk is also known as "geopolitical risk," and becomes more of a factor as the [[time horizon]](https://www.investopedia.com/terms/t/timehorizon.asp) of investment gets longer. They are considered a type of [[jurisdiction risk]](https://www.investopedia.com/terms/j/jurisdiction-risk.asp).
 
 ## BREAKING DOWN Political Risk
 

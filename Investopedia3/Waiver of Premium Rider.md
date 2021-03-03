@@ -27,11 +27,11 @@ A waiver of premium rider is an insurance policy clause that waives premium paym
 
 ## How a Waiver of Premium Rider Works
 
-Policyholders often add the [rider](https://www.investopedia.com/terms/r/rider.asp), which is only available at issue, as an optional or supplemental benefit to a [life insurance policy](https://www.investopedia.com/terms/l/lifeinsurance.asp). Costs vary per insurer and applicant. Insurance companies typically add the rider fee to the premium or charge an upfront fee. This fee will raise the cost of a life insurance policy, which may be something to consider before purchasing.2
+Policyholders often add the [[rider]](https://www.investopedia.com/terms/r/rider.asp), which is only available at issue, as an optional or supplemental benefit to a [[life insurance policy]](https://www.investopedia.com/terms/l/lifeinsurance.asp). Costs vary per insurer and applicant. Insurance companies typically add the rider fee to the premium or charge an upfront fee. This fee will raise the cost of a life insurance policy, which may be something to consider before purchasing.2
 
 Most waiver of premium riders contain a waiting period during which there can be no claim of benefits. If disabled or hurt during the waiting period, the policyholder may receive a full refund of paid premiums. Without a waiting period, the insurer’s assumed risk increases substantially, and devastating losses could result.1
 
-Applicants with [pre-existing disabilities](https://www.investopedia.com/terms/p/preexisting_condition.asp) are not permitted to obtain benefits. Placing a pre-existing limitation avoids the possibility of writing a policy that could not see premium payments from the high-risk applicants. 3
+Applicants with [[pre-existing disabilities]](https://www.investopedia.com/terms/p/preexisting_condition.asp) are not permitted to obtain benefits. Placing a pre-existing limitation avoids the possibility of writing a policy that could not see premium payments from the high-risk applicants. 3
 
 ## Waiver of Premium Rider Benefits 
 
@@ -43,4 +43,4 @@ Waiver of premium riders may not be available in all states.
 
 ## Waiver of Premium Claim Requirements
 
-Requirements for filing a claim vary, but typically include a physician's statement and notice from the [Social Security Administration (SSA)](https://www.investopedia.com/terms/s/ssa.asp) confirming the disability. The applicant could then submit a completed claim form. The waiver of premiums allows the redirection of limited personal funds to palliative care, personal finances, and living expenses. However, the most substantial benefit is the continued protection of the insurance policy.4
+Requirements for filing a claim vary, but typically include a physician's statement and notice from the [[Social Security Administration (SSA)]](https://www.investopedia.com/terms/s/ssa.asp) confirming the disability. The applicant could then submit a completed claim form. The waiver of premiums allows the redirection of limited personal funds to palliative care, personal finances, and living expenses. However, the most substantial benefit is the continued protection of the insurance policy.4

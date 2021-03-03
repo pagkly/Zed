@@ -16,13 +16,13 @@ author: Gordon Scott
 Omega Defintion
 ## What is Omega?
 
-Omega is a measure of option pricing, similar to the option [Greeks](https://www.investopedia.com/terms/g/greeks.asp) that measures various characteristics of the option itself. Omega measures the percentage change in an option's value with respect to the percentage change in the underlying price. In this way, it measures the [leverage](https://www.investopedia.com/terms/l/leverage.asp) of an options position.
+Omega is a measure of option pricing, similar to the option [[Greeks]](https://www.investopedia.com/terms/g/greeks.asp) that measures various characteristics of the option itself. Omega measures the percentage change in an option's value with respect to the percentage change in the underlying price. In this way, it measures the [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) of an options position.
 
 The formula is as follows:
 
 Ω\=Percent Change in VPercent Change in Swhere:V\=Price of the optionS\= Underlying price\\begin{aligned} &\\Omega = \\frac{\\text{Percent Change in }V}{\\text{Percent Change in }S}\\\\ &\\textbf{where:}\\\\ &V = \\text{Price of the option}\\\\ &S = \\text{ Underlying price}\\\\ \\end{aligned}
 
-Omega is the third [derivative](https://www.investopedia.com/terms/d/derivative.asp) of the option price, and the derivative of gamma. It is also known as [elasticity](https://www.investopedia.com/terms/e/elasticity.asp).
+Omega is the third [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) of the option price, and the derivative of gamma. It is also known as [[elasticity]](https://www.investopedia.com/terms/e/elasticity.asp).
 
 ### Key Takeaways
 
@@ -32,13 +32,13 @@ Omega is the third [derivative](https://www.investopedia.com/terms/d/derivative.
 
 ## How Omega Works
 
-Traders use options for many reasons, but one of the most important is leverage. A small investment in a [call option](https://www.investopedia.com/terms/c/calloption.asp), for example, allows the trader to control a larger dollar value of the [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp). In other words, a call option trading at $25.00 per contract, or $250, could control 100 shares of a stock trading at $50 per share with a value of $5,000. The holder has the right, but not obligation, to purchase those 100 shares at a specific price (the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp)) by a certain date.
+Traders use options for many reasons, but one of the most important is leverage. A small investment in a [[call option]](https://www.investopedia.com/terms/c/calloption.asp), for example, allows the trader to control a larger dollar value of the [[underlying security]](https://www.investopedia.com/terms/u/underlying-security.asp). In other words, a call option trading at $25.00 per contract, or $250, could control 100 shares of a stock trading at $50 per share with a value of $5,000. The holder has the right, but not obligation, to purchase those 100 shares at a specific price (the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp)) by a certain date.
 
 To see leverage in action, assume Ford Motor Co. shares increase 7% in a given period and a Ford call option increases 3% in that same period. The omega of the call option is 3 ÷ 7, or 0.43. This would imply that for every 1% Ford stock moves, the call option will move 0.43%.
 
 ## Options Greeks
 
-Omega is calculated based on two of the standard option Greeks, Delta and Gamma. This set of metrics give a sense of an [options contract's](https://www.investopedia.com/terms/o/optionscontract.asp) risk and reward with respect to different variables. The most common option Greeks are:
+Omega is calculated based on two of the standard option Greeks, Delta and Gamma. This set of metrics give a sense of an [[options contract's]](https://www.investopedia.com/terms/o/optionscontract.asp) risk and reward with respect to different variables. The most common option Greeks are:
 
 [Delta](https://www.investopedia.com/terms/d/delta.asp) (Δ): Change in option value with respect to change in underlying price.
 
@@ -48,13 +48,13 @@ Omega is calculated based on two of the standard option Greeks, Delta and Gamma.
 
 Omega (Ω): Percent change in option price with respect to percent change in underlying price.
 
-[Vega](https://www.investopedia.com/terms/v/vega.asp) (v): Change in option value with respect to change in underlying [volatility](https://www.investopedia.com/terms/v/volatility.asp). (Vega is not the name of a Greek letter.)
+[Vega](https://www.investopedia.com/terms/v/vega.asp) (v): Change in option value with respect to change in underlying [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). (Vega is not the name of a Greek letter.)
 
-Another common Greek is a second-order variable, [gamma](https://www.investopedia.com/terms/g/gamma.asp) (Γ): the derivative of delta, it measures the change in delta with respect to the change in the underlying price. 
+Another common Greek is a second-order variable, [[gamma]](https://www.investopedia.com/terms/g/gamma.asp) (Γ): the derivative of delta, it measures the change in delta with respect to the change in the underlying price. 
 
 ## Relationship to Delta
 
-An option's gamma is also the [rate of change](https://www.investopedia.com/terms/r/rateofchange.asp) in its delta and may be called the delta of the delta.
+An option's gamma is also the [[rate of change]](https://www.investopedia.com/terms/r/rateofchange.asp) in its delta and may be called the delta of the delta.
 
 The equation for omega can also be expressed:
 

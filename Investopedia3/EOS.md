@@ -16,7 +16,7 @@ author: Jake Frankenfield
 EOS
 ## What Is EOS?
 
-EOS is a [blockchain](https://www.investopedia.com/terms/b/blockchain.asp)\-based decentralized operating system that is designed to create, host, and support secure, decentralized autonomous applications ([dApps](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)) and [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp). In addition, EOS nodes subscribe to a "constitution" that binds them, via the blockchain, to the rules and regulations set forth by the EOS community.
+EOS is a [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp)\-based decentralized operating system that is designed to create, host, and support secure, decentralized autonomous applications ([dApps](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)) and [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp). In addition, EOS nodes subscribe to a "constitution" that binds them, via the blockchain, to the rules and regulations set forth by the EOS community.
 
 Currently administered by the block.one organization, EOS was launched by Dan Larimer, who is also the founder and creator of established platforms like Bitshares and Steem.
 
@@ -34,9 +34,9 @@ Blockchain-based dApps can be commercial or focused on individual users, and wor
 
 No official full form exists for EOS, and the creators have decided not to formally define it themselves. Compared to the web-based apps platform, the EOS offers a lot of advantages.
 
-Leveraging the scalability potential of blockchain, it is capable of processing large numbers of transactions in parallel. Its ownership structure eliminates transaction charges as users are permitted to utilize resources in proportion to their stake instead of the standard [pay-per-transaction](https://www.investopedia.com/terms/t/transaction-fees.asp) model. This also makes it easier for app developers to predict hosting costs.2
+Leveraging the scalability potential of blockchain, it is capable of processing large numbers of transactions in parallel. Its ownership structure eliminates transaction charges as users are permitted to utilize resources in proportion to their stake instead of the standard [[pay-per-transaction]](https://www.investopedia.com/terms/t/transaction-fees.asp) model. This also makes it easier for app developers to predict hosting costs.2
 
-EOS uses delegated [proof-of-stake](https://www.investopedia.com/terms/p/proof-stake-pos.asp) concept, which allows flexibility to make instant high-level decisions, like rollback and bug fixing, through a majority accord among designated stakeholders.2
+EOS uses delegated [[proof-of-stake]](https://www.investopedia.com/terms/p/proof-stake-pos.asp) concept, which allows flexibility to make instant high-level decisions, like rollback and bug fixing, through a majority accord among designated stakeholders.2
 
 ## EOS.IO and EOS Tokens
 

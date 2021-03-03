@@ -16,7 +16,7 @@ author: Will Kenton
 Dissenters' Rights
 ## What Are Dissenters' Rights?
 
-Under various forms of state legislation, dissenting shareholders of a corporation are entitled to receive a cash payment for the [fair value](https://www.investopedia.com/terms/f/fairvalue.asp) of their shares, in the event of a share-for-share [merger or acquisition](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A) to which the shareholders do not consent. Dissenters' rights allow dissenting shareholders an easy way out of the company if they do not want to be a part of the merger.
+Under various forms of state legislation, dissenting shareholders of a corporation are entitled to receive a cash payment for the [[fair value]](https://www.investopedia.com/terms/f/fairvalue.asp) of their shares, in the event of a share-for-share [[merger or acquisition]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A) to which the shareholders do not consent. Dissenters' rights allow dissenting shareholders an easy way out of the company if they do not want to be a part of the merger.
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ Under various forms of state legislation, dissenting shareholders of a corporati
 
 ## Understanding Dissenters' Rights
 
-Prior to the legislation creating dissenters' rights, mergers and acquisitions required a unanimous vote in favor of the deal from the [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) of the company. This allowed for just one dissenting shareholder to veto the merger or acquisition, even though it may have been in the best interest of the company. State legislation took away this right, but in turn, gave the shareholders the right to receive the cash payment for their shares instead.
+Prior to the legislation creating dissenters' rights, mergers and acquisitions required a unanimous vote in favor of the deal from the [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) of the company. This allowed for just one dissenting shareholder to veto the merger or acquisition, even though it may have been in the best interest of the company. State legislation took away this right, but in turn, gave the shareholders the right to receive the cash payment for their shares instead.
 
 Although dissenting rights have made it easier to move ahead with a number of corporate transactions, certain business decisions are still not without issues. For instance, while the day-to-day operations of a corporation, and even the policies governing its ongoing operations, are generally left to the corporation's officers and directors, any "extraordinary" matter, such as a merger, must be approved by the corporation's shareholders.
 
 ## Exercising Dissenters' Rights
 
-If the necessary majority of the corporation's shareholders approve a merger or consolidation, it will advance, and the shareholders will receive compensation. However, no shareholder who votes against the transaction is required to accept shares in the surviving or successor corporation. Instead, they may exercise [appraisal rights](https://www.investopedia.com/terms/a/appraisalright.asp).
+If the necessary majority of the corporation's shareholders approve a merger or consolidation, it will advance, and the shareholders will receive compensation. However, no shareholder who votes against the transaction is required to accept shares in the surviving or successor corporation. Instead, they may exercise [[appraisal rights]](https://www.investopedia.com/terms/a/appraisalright.asp).
 
 Under appraisal rights, a dissenting shareholder who objects to an extraordinary transaction may have their shares of the pre-merger corporation appraised, and be compensated for the fair market value of their shares by the pre-merger company.
 

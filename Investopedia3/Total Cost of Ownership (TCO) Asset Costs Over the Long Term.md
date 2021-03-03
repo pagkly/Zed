@@ -16,9 +16,9 @@ author: Alexandra Twin
 Total Cost of Ownership (TCO): Asset Costs Over the Long Term
 ## What Is the Total Cost of Ownership?
 
-The total cost of ownership (TCO) is the [purchase price](https://www.investopedia.com/terms/p/purchaseprice.asp) of an [asset](https://www.investopedia.com/terms/a/asset.asp) plus the costs of operation. Assessing the total cost of ownership represents taking a bigger picture look at what the product is and what its value is over time.
+The total cost of ownership (TCO) is the [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) of an [[asset]](https://www.investopedia.com/terms/a/asset.asp) plus the costs of operation. Assessing the total cost of ownership represents taking a bigger picture look at what the product is and what its value is over time.
 
-When choosing among alternatives in a purchasing decision, buyers should look not just at an item's short-term price, known as its purchase price, but also at its long-term price, which is its total cost of ownership. The item with the lower total cost of ownership is the better value in the [long run](https://www.investopedia.com/terms/l/longrun.asp).
+When choosing among alternatives in a purchasing decision, buyers should look not just at an item's short-term price, known as its purchase price, but also at its long-term price, which is its total cost of ownership. The item with the lower total cost of ownership is the better value in the [[long run]](https://www.investopedia.com/terms/l/longrun.asp).
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ When choosing among alternatives in a purchasing decision, buyers should look no
 
 ## Understanding the Total Cost of Ownership (TCO)
 
-The total cost of ownership is considered by companies and individuals when they are looking to buy assets and make [investments](https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp) in [capital projects](https://www.investopedia.com/terms/c/capital-project.asp). Although these costs are often itemized separately on a company’s financial statements, a comprehensive analysis of the cost of ownership is a common practice for business dealings.
+The total cost of ownership is considered by companies and individuals when they are looking to buy assets and make [[investments]](https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp) in [[capital projects]](https://www.investopedia.com/terms/c/capital-project.asp). Although these costs are often itemized separately on a company’s financial statements, a comprehensive analysis of the cost of ownership is a common practice for business dealings.
 
 Companies use the total cost of ownership over the long term as a framework for analyzing business deals. Looking at the total cost of ownership is a way of taking a more holistic approach that assesses the purchase from a broad perspective. This analysis includes the initial purchase price as well as all direct and indirect expenses.
 
@@ -50,4 +50,4 @@ The purchase of a car is one example where the cost comparison matters. The tota
 
 The total cost of ownership analysis can be especially important when comparing a used car to a new car. A used car that appears to be a great bargain actually might have a total cost of ownership that is higher than that of a new car if the used car requires numerous repairs while the new car has a three-year warranty that could cover repair charges.
 
-In the automotive industry, leading consumer resource Kelley [Blue Book](https://www.investopedia.com/terms/b/bluebook.asp) provides buyers with details on the total cost of ownership. This industry analysis is provided for various vehicles and includes a variety of expenses such as fuel, insurance, repairs, and depreciation.
+In the automotive industry, leading consumer resource Kelley [[Blue Book]](https://www.investopedia.com/terms/b/bluebook.asp) provides buyers with details on the total cost of ownership. This industry analysis is provided for various vehicles and includes a variety of expenses such as fuel, insurance, repairs, and depreciation.

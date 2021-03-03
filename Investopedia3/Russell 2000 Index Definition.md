@@ -16,7 +16,7 @@ author: James Chen
 Russell 2000 Index Definition
 ## What Is the Russell 2000 Index?
 
-The Russell 2000 index is an index measuring the performance of approximately 2,000 smallest-cap American companies in the [Russell 3000 Index](https://www.investopedia.com/terms/r/russell_3000.asp), which is made up of 3,000 of the largest U.S. stocks. It is a market-cap weighted index.
+The Russell 2000 index is an index measuring the performance of approximately 2,000 smallest-cap American companies in the [[Russell 3000 Index]](https://www.investopedia.com/terms/r/russell_3000.asp), which is made up of 3,000 of the largest U.S. stocks. It is a market-cap weighted index.
 
 ### Important
 
@@ -36,7 +36,7 @@ The Russell 2000 index, created in 1984 by the Frank Russell Company, is a stock
 
 ### Important
 
-The Russell 2000 often serves as a [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) for small-cap stocks in the United States.
+The Russell 2000 often serves as a [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) for small-cap stocks in the United States.
 
 The Russell 2000 index is a commonly used benchmark for mutual funds that identify themselves as "small-cap," much like the S&P 500 index is used to benchmark large capitalization stocks. (For related reading, see "[S&P 500 vs. Russell 2000 ETF: What's the Difference?](https://www.investopedia.com/articles/investing/070715/sp-500-vs-russell-2000-etf-which-should-you-get.asp)")
 
@@ -44,7 +44,7 @@ Mutual fund investors favor the Russell 2000 index because it reflects the inv
 
 It is also the most widely quoted measure of the overall performance of small-cap to mid-cap stocks. The index represents approximately 10 percent of the total Russell 3000 market capitalization. As of June 30, 2020, the average value for a company on the Russell 2000 is $2.1 billion; the median market cap is $639 million.3 The market cap of the largest company in the index is $5.8 billion as of July 2020.4 It first traded above the 1,000 level on May 20, 2013. A similar small-cap index is the S&P SmallCap 600 from [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp), but it's not as widely referenced.
 
-Many regard the Russell 2000 as an important bellwether of the American economy because it measures the performance of smaller, domestically focused businesses. The Russell 2000 index is investable by replicating the index using component shares or through [index futures](https://www.investopedia.com/terms/i/indexfutures.asp), mutual funds, and exchange trading funds, such as the Russell 2000 [index ETF](https://www.investopedia.com/terms/i/index-etf.asp). There are an active [listed options](https://www.investopedia.com/terms/l/listedoption.asp) for IWM and Russell 2000 index futures as well.
+Many regard the Russell 2000 as an important bellwether of the American economy because it measures the performance of smaller, domestically focused businesses. The Russell 2000 index is investable by replicating the index using component shares or through [index futures](https://www.investopedia.com/terms/i/indexfutures.asp), mutual funds, and exchange trading funds, such as the Russell 2000 [[index ETF]](https://www.investopedia.com/terms/i/index-etf.asp). There are an active [listed options](https://www.investopedia.com/terms/l/listedoption.asp) for IWM and Russell 2000 index futures as well.
 
 The smallest 1000 companies in the Russell 2000 make up the Russell 1000 Microcap Index.
 

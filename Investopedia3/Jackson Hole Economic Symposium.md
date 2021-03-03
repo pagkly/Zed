@@ -16,7 +16,7 @@ author: Julia Kagan
 Jackson Hole Economic Symposium
 ## What Is the Jackson Hole Economic Symposium?
 
-The Jackson Hole Economic Symposium is an annual symposium, sponsored by the Federal Reserve Bank of Kansas City since 1978, and held in Jackson Hole, Wyo., since 1981. Every year, the symposium focuses on an important economic issue that faces world economies. Participants include prominent [central bankers](https://www.investopedia.com/terms/c/centralbank.asp) and finance ministers, as well as academic luminaries and leading financial market players from around the world.
+The Jackson Hole Economic Symposium is an annual symposium, sponsored by the Federal Reserve Bank of Kansas City since 1978, and held in Jackson Hole, Wyo., since 1981. Every year, the symposium focuses on an important economic issue that faces world economies. Participants include prominent [[central bankers]](https://www.investopedia.com/terms/c/centralbank.asp) and finance ministers, as well as academic luminaries and leading financial market players from around the world.
 
 The symposium proceedings are closely followed by market participants, as unexpected remarks emanating from the heavyweights at the symposium have the potential to affect global stock and currency markets.
 
@@ -32,7 +32,7 @@ The Jackson Hole Economic Symposium is one of the longest-standing central bank
 
 The Federal Reserve Bank of Kansas charges attendees a fee to cover the expenses associated with the symposium. About 120 people generally attend a year, representing a variety of backgrounds and industries. But attendance by participants is limited and select media is also invited. This not only helps keep the focus of the symposium on track, but also provides it with transparency.
 
-Each year, the Federal Reserve Bank of Kansas selects a specific topic for the symposium and chooses a pool of attendees based on that topic. These experts write and present research related to the symposium's theme. The bank posts the [papers online](https://www.kansascityfed.org/publications/research/escp/symposiums/escp-archive), along with full transcripts from the event. Anyone who wishes to view them can do so for free online, or get a free printed copy after they are published.
+Each year, the Federal Reserve Bank of Kansas selects a specific topic for the symposium and chooses a pool of attendees based on that topic. These experts write and present research related to the symposium's theme. The bank posts the [[papers online]](https://www.kansascityfed.org/publications/research/escp/symposiums/escp-archive), along with full transcripts from the event. Anyone who wishes to view them can do so for free online, or get a free printed copy after they are published.
 
 ## Example of Past Topics at the Jackson Hole Economic Symposium
 

@@ -16,9 +16,9 @@ author: James Chen
 Government Bond Definition
 ## What Is a Government Bond?
 
-A government bond is a debt security issued by a government to support government spending and obligations. Government bonds can pay periodic interest payments called coupon payments. [Government bonds](https://www.investopedia.com/ask/answers/where-can-i-buy-government-bonds/) issued by national governments are often considered low-risk investments since the issuing government backs them.
+A government bond is a debt security issued by a government to support government spending and obligations. Government bonds can pay periodic interest payments called coupon payments. [[Government bonds]](https://www.investopedia.com/ask/answers/where-can-i-buy-government-bonds/) issued by national governments are often considered low-risk investments since the issuing government backs them.
 
-Government bonds may also be known as [sovereign debt.](https://www.investopedia.com/terms/s/sovereign-debt.asp)
+Government bonds may also be known as [[sovereign debt.]](https://www.investopedia.com/terms/s/sovereign-debt.asp)
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ Government bonds may also be known as [sovereign debt.](https://www.investopedia
 
 ## Government Bonds Explained
 
-Government bonds are issued by governments to raise money to finance projects or day-to-day operations. The [U.S. Treasury Department](https://www.investopedia.com/terms/u/ustreasury.asp) sells the issued bonds during auctions throughout the year. Some [Treasury bonds](https://www.investopedia.com/terms/t/treasurybond.asp) trade in the secondary market. Individual investors, working with a financial institution or broker, can buy and sell previously issued bonds through this marketplace. Treasuries are widely available for purchase through the U.S. Treasury, brokers, as well as exchange-traded funds, which contain a basket of securities.
+Government bonds are issued by governments to raise money to finance projects or day-to-day operations. The [[U.S. Treasury Department]](https://www.investopedia.com/terms/u/ustreasury.asp) sells the issued bonds during auctions throughout the year. Some [[Treasury bonds]](https://www.investopedia.com/terms/t/treasurybond.asp) trade in the secondary market. Individual investors, working with a financial institution or broker, can buy and sell previously issued bonds through this marketplace. Treasuries are widely available for purchase through the U.S. Treasury, brokers, as well as exchange-traded funds, which contain a basket of securities.
 
-Fixed-rate government bonds can have [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp), which occurs when interest rates are rising, and investors are holding lower paying fixed-rate bonds as compared to the market. Also, only select bonds keep up with [inflation](https://www.investopedia.com/terms/i/inflation.asp), which is a measure of price increases throughout the economy. If a fixed-rate [government bond](https://www.investopedia.com/financial-edge/0812/5-places-to-keep-your-money-when-you-dont-trust-the-banks.aspx) pays 2% per year, for example, and prices in the economy rise by 1.5%, the investor is only earning .5% in real terms.
+Fixed-rate government bonds can have [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp), which occurs when interest rates are rising, and investors are holding lower paying fixed-rate bonds as compared to the market. Also, only select bonds keep up with [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), which is a measure of price increases throughout the economy. If a fixed-rate [[government bond]](https://www.investopedia.com/financial-edge/0812/5-places-to-keep-your-money-when-you-dont-trust-the-banks.aspx) pays 2% per year, for example, and prices in the economy rise by 1.5%, the investor is only earning .5% in real terms.
 
-Local governments may also issue bonds to fund projects such as infrastructure, libraries, or parks. These are known as [municipal bonds](https://www.investopedia.com/terms/m/municipalbond.asp), and often carry certain tax advantages for investors.
+Local governments may also issue bonds to fund projects such as infrastructure, libraries, or parks. These are known as [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp), and often carry certain tax advantages for investors.
 
 ## The U.S. vs. Foreign Government Bonds
 
@@ -41,13 +41,13 @@ U.S. Treasuries are nearly as close to risk-free as an investment can get. This 
 
 Due to this nearly risk-free nature, market participants and analysts use Treasuries as a benchmark in comparing the risk associated with securities. The 10-year Treasury bond is also used as a benchmark and guide for interest rates on lending products. Due to their low risk, U.S. Treasuries tend to offer lower rates of return relative to equities and corporate bonds.
 
-However, government-backed bonds, particularly those in [emerging markets](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp), can carry risks that include country risk, political risk, and central-bank risk, including whether the banking system is solvent. Investors saw a bleak reminder of how risky some government bonds can be during the [Asian financial crisis](https://www.investopedia.com/terms/a/asian-financial-crisis.asp) of 1997 and 1998. During this crisis, several Asian nations were forced to devalue their currency which sent reverberations around the globe. The crisis even caused Russia to default on its debt.
+However, government-backed bonds, particularly those in [[emerging markets]](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp), can carry risks that include country risk, political risk, and central-bank risk, including whether the banking system is solvent. Investors saw a bleak reminder of how risky some government bonds can be during the [[Asian financial crisis]](https://www.investopedia.com/terms/a/asian-financial-crisis.asp) of 1997 and 1998. During this crisis, several Asian nations were forced to devalue their currency which sent reverberations around the globe. The crisis even caused Russia to default on its debt.
 
 ## The Uses of Government Bonds
 
 Government bonds assist in funding deficits in the federal budget and are used to raise capital for various projects such as infrastructure spending. However, government bonds are also used by the Federal Reserve Bank to control the nation's money supply.
 
-When the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) repurchases U.S. government bonds, the [money supply](https://www.investopedia.com/terms/m/moneysupply.asp) increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.
+When the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) repurchases U.S. government bonds, the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp) increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.
 
 ## Pros and Cons of Government Bonds
 
@@ -89,7 +89,7 @@ There are various types of bonds offered by the U.S. Treasury that have various 
 
 ### Savings Bonds
 
-The U.S. Treasury offers series [EE bonds](https://www.investopedia.com/terms/s/serieseebond.asp) and series I savings bonds. Bonds sell at face value and have a fixed rate of interest. Bonds held for 20 years will reach their face value and effectively double. Series I bonds receive a semi-annually calculated secondary rate tied to an inflation rate.
+The U.S. Treasury offers series [[EE bonds]](https://www.investopedia.com/terms/s/serieseebond.asp) and series I savings bonds. Bonds sell at face value and have a fixed rate of interest. Bonds held for 20 years will reach their face value and effectively double. Series I bonds receive a semi-annually calculated secondary rate tied to an inflation rate.
 
 ### Treasury Notes
 

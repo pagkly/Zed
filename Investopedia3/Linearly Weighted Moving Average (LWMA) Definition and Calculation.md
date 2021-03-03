@@ -16,15 +16,15 @@ author: Cory Mitchell
 Linearly Weighted Moving Average (LWMA) Definition and Calculation
 ## What Is a Linearly Weighted Moving Average?
 
-A linearly weighted moving average (LWMA) is a [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) calculation that more heavily weights recent price data. The most recent price has the highest weighting, and each prior price has progressively less weight. The weights drop in a linear fashion. LWMAs are quicker to react to price changes than [simple moving averages](https://www.investopedia.com/terms/s/sma.asp) (SMA) and [exponential moving averages](https://www.investopedia.com/terms/e/ema.asp) (EMA).
+A linearly weighted moving average (LWMA) is a [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) calculation that more heavily weights recent price data. The most recent price has the highest weighting, and each prior price has progressively less weight. The weights drop in a linear fashion. LWMAs are quicker to react to price changes than [[simple moving averages]](https://www.investopedia.com/terms/s/sma.asp) (SMA) and [[exponential moving averages]](https://www.investopedia.com/terms/e/ema.asp) (EMA).
 
 TradingView.
 
 ### Key Takeaways
 
 -   Use a linearly weighted moving average in the same way as an SMA or EMA.
--   Use a LWMA to more clearly define the price trend and [reversals](https://www.investopedia.com/terms/r/reversal.asp), provide trade signals based on [crossovers](https://www.investopedia.com/terms/c/crossover.asp), and indicate areas of potential [support](https://www.investopedia.com/terms/s/support.asp) or resistance.
--   Traders who want a moving average with less [lag](https://www.investopedia.com/terms/l/laggingindicator.asp) than an SMA may wish to utilize a LWMA.
+-   Use a LWMA to more clearly define the price trend and [[reversals]](https://www.investopedia.com/terms/r/reversal.asp), provide trade signals based on [[crossovers]](https://www.investopedia.com/terms/c/crossover.asp), and indicate areas of potential [[support]](https://www.investopedia.com/terms/s/support.asp) or resistance.
+-   Traders who want a moving average with less [[lag]](https://www.investopedia.com/terms/l/laggingindicator.asp) than an SMA may wish to utilize a LWMA.
 
 ## The Formula for the Linearly Weighted Moving Average (LWMA) Is:
 
@@ -37,7 +37,7 @@ LWMA\=(Pn∗W1)+(Pn−1∗W2)+(Pn−2∗W3)...∑Wwhere:P = Price for the p
 3.  Multiply the prices for each period by their respective weights, then get the sum total.
 4.  Divide the above by the sum of all the weights.
 
-Let’s say we are interested in calculating the linearly weighted moving average of the [closing price](https://www.investopedia.com/terms/c/closingprice.asp) of a stock over the last five days.
+Let’s say we are interested in calculating the linearly weighted moving average of the [[closing price]](https://www.investopedia.com/terms/c/closingprice.asp) of a stock over the last five days.
 
 Begin by multiplying today’s price by 5, yesterday’s by 4, and the price of the day before by 3. Continue multiplying each day’s price by its position in the data series until reaching the first price in the data series, which is multiplied by 1. Add these results together, divide by the sum of the weights, and you will have the linearly weighted moving average for this period.
 
@@ -57,24 +57,24 @@ The LWMA of this stock over this time period is $90.62.
 
 ## What Does the Linearly Weighted Moving Average (LWMA) Tell You?
 
-The linearly weighted moving average is a method of calculating the average price of an asset over a given period of time. This method weights recent data more heavily than older data, and is used to analyze market [trends](https://www.investopedia.com/terms/t/trend.asp).
+The linearly weighted moving average is a method of calculating the average price of an asset over a given period of time. This method weights recent data more heavily than older data, and is used to analyze market [[trends]](https://www.investopedia.com/terms/t/trend.asp).
 
-Generally, when the price is above the LWMA, and the LWMA is rising, the price is above the weighted average which helps confirm an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp). If the price is below the LWMA, and the LWMA is pointed down, this helps confirm a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp) in price.
+Generally, when the price is above the LWMA, and the LWMA is rising, the price is above the weighted average which helps confirm an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp). If the price is below the LWMA, and the LWMA is pointed down, this helps confirm a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) in price.
 
 When the price crosses the LWMA that could signal a trend change. For example, if the price is above the LWMA and then drops below it, that could indicate a shift from an uptrend to a downtrend.
 
 When assessing trends, traders should be aware of the lookback period. The lookback period is how many periods are being calculated into the LWMA. A five-period LWMA will track price very closely and is useful for tracking small trends as the line will be easily breached by even minor price oscillations. A 100-period LWMA will not track the price as closely, meaning there will often be room between the LWMA and the price. This allows for the determination of longer-term trends and reversals.
 
-Like other types of moving averages, the LWMA may sometime be used to indicate [support and resistance](https://www.investopedia.com/trading/support-and-resistance-basics/) areas. For example, in the past, the price bounced off the LWMA on multiple occasions and then moved higher. This indicates the line is acting as support. The line may continue to act as support in the future. Failure to do so could indicate the price trend has undergone a change. It could be reversing to the downside or may be starting a period where it moves more sideways.
+Like other types of moving averages, the LWMA may sometime be used to indicate [[support and resistance]](https://www.investopedia.com/trading/support-and-resistance-basics/) areas. For example, in the past, the price bounced off the LWMA on multiple occasions and then moved higher. This indicates the line is acting as support. The line may continue to act as support in the future. Failure to do so could indicate the price trend has undergone a change. It could be reversing to the downside or may be starting a period where it moves more sideways.
 
 ## What is the Difference Between a Linearly Weighted Moving Average (LWMA) and a Double Exponential Moving Average (DEMA)?
 
-Both of these moving averages are designed to reduce the lag that is inherent in the SMA. The LWMA does this by applying greater weight to recent prices. The [double exponential moving average](https://www.investopedia.com/terms/d/double-exponential-moving-average.asp) (DEMA) does this through multiplying the EMA over a certain period by two, and then subtracting a smoothed EMA. Because the MAs are calculated differently they will provide different values on a price chart.
+Both of these moving averages are designed to reduce the lag that is inherent in the SMA. The LWMA does this by applying greater weight to recent prices. The [[double exponential moving average]](https://www.investopedia.com/terms/d/double-exponential-moving-average.asp) (DEMA) does this through multiplying the EMA over a certain period by two, and then subtracting a smoothed EMA. Because the MAs are calculated differently they will provide different values on a price chart.
 
 ## The Limitations of Using a Linearly Weighted Moving Average (LWMA)
 
-All moving averages help to define trends when they are present, but provide little information when the price action is [choppy](https://www.investopedia.com/terms/c/choppymarket.asp) or moving predominantly sideways. During such times the price will oscillate around the MA. The MA will not provide good crossover or support/resistance signals during such times.
+All moving averages help to define trends when they are present, but provide little information when the price action is [[choppy]](https://www.investopedia.com/terms/c/choppymarket.asp) or moving predominantly sideways. During such times the price will oscillate around the MA. The MA will not provide good crossover or support/resistance signals during such times.
 
 A LWMA may not provide support or resistance. This is especially likely if it hasn't done so in the past.
 
-Multiple [false signals](https://www.investopedia.com/terms/f/false-signal.asp) may also occur before a significant trend develops. A false signal is when the price crosses the LWMA but then fails to move in the direction expected, resulting in a poor trade.
+Multiple [[false signals]](https://www.investopedia.com/terms/f/false-signal.asp) may also occur before a significant trend develops. A false signal is when the price crosses the LWMA but then fails to move in the direction expected, resulting in a poor trade.

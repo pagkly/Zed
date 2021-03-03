@@ -16,7 +16,7 @@ author: Julia Kagan
 Josef Ackermann
 ## Who is Josef Ackermann
 
-Josef Ackermann is a Swiss banker who served as CEO and chairman of Deutsche Bank. Since 2014, he has served as chairman of the Bank of Cyprus. He has also served as a member of the [Group of Thirty](https://www.investopedia.com/terms/g/g-30.asp) (G30), a Washington, D.C.-based group of top international economists and financiers. He holds a seat on the steering committee Bilderberg Group.
+Josef Ackermann is a Swiss banker who served as CEO and chairman of Deutsche Bank. Since 2014, he has served as chairman of the Bank of Cyprus. He has also served as a member of the [[Group of Thirty]](https://www.investopedia.com/terms/g/g-30.asp) (G30), a Washington, D.C.-based group of top international economists and financiers. He holds a seat on the steering committee Bilderberg Group.
 
 ## BREAKING DOWN Josef Ackermann
 
@@ -29,7 +29,7 @@ Ackermann served as CEO of Deutsche Bank from 2002 to 2012. As CEO, he introduce
 Ackermann has served on the boards of Bayer, Deutsche Lufthansa, Linde, Mannesmann, Siemens, Zurich Financial Services and Royal Dutch Shell. He has also been a visiting professor of Finance at the London School of Economics and a visiting professor at Johann Wolfgang Goethe University. Positions he has held include:
 
 -   Second Deputy Chairman of Siemens AG
--   [Non-Executive Director](https://www.investopedia.com/terms/n/non-executive-director.asp) of Shell
+-   [[Non-Executive Director]](https://www.investopedia.com/terms/n/non-executive-director.asp) of Shell
 -   President of the Board of Trustees for the St. Gallen Foundation for International Studies
 -   President of the Board of Patrons of the Institute for Corporate Culture Affairs
 -   Chairman of the Board of Directors of the Institute of International Finance

@@ -16,9 +16,9 @@ author: Lucas Downey
 Efficient Market Hypothesis (EMH)
 ## What Is the Efficient Market Hypothesis (EMH)?
 
-The efficient market hypothesis (EMH), alternatively known as the efficient market theory, is a hypothesis that states that share prices reflect all information and consistent [alpha](https://www.investopedia.com/terms/a/alpha.asp) generation is impossible.
+The efficient market hypothesis (EMH), alternatively known as the efficient market theory, is a hypothesis that states that share prices reflect all information and consistent [[alpha]](https://www.investopedia.com/terms/a/alpha.asp) generation is impossible.
 
-According to the EMH, stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks for inflated prices. Therefore, it should be impossible to outperform the overall market through expert stock selection or [market timing](https://www.investopedia.com/terms/m/markettiming.asp), and the only way an investor can obtain higher returns is by purchasing riskier investments.
+According to the EMH, stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks for inflated prices. Therefore, it should be impossible to outperform the overall market through expert stock selection or [[market timing]](https://www.investopedia.com/terms/m/markettiming.asp), and the only way an investor can obtain higher returns is by purchasing riskier investments.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ According to the EMH, stocks always trade at their fair value on exchanges, maki
 
 ## Understanding the Efficient Market Hypothesis
 
-Although it is a cornerstone of modern financial theory, the EMH is highly controversial and often disputed. Believers argue it is pointless to search for undervalued stocks or to try to predict trends in the market through either fundamental or [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp).
+Although it is a cornerstone of modern financial theory, the EMH is highly controversial and often disputed. Believers argue it is pointless to search for undervalued stocks or to try to predict trends in the market through either fundamental or [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp).
 
 Theoretically, neither technical nor fundamental analysis can produce risk-adjusted excess returns (alpha) consistently, and only inside information can result in outsized risk-adjusted returns.
 
@@ -49,7 +49,7 @@ The assumption that markets are efficient is a cornerstone of modern financial e
 
 Proponents of the Efficient Market Hypothesis conclude that, because of the randomness of the market, investors could do better by investing in a low-cost, passive portfolio.
 
-Data compiled by Morningstar Inc., in its June 2019 Active/Passive Barometer study, supports the EMH. Morningstar compared active managers’ returns in all categories against a composite made of related index funds and [exchange-traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs). The study found that over a 10 year period beginning June 2009, only 23% of active managers were able to outperform their passive peers. Better success rates were found in foreign equity funds and bond funds. Lower success rates were found in US large cap funds. In general, investors have fared better by investing in low-cost index funds or ETFs.
+Data compiled by Morningstar Inc., in its June 2019 Active/Passive Barometer study, supports the EMH. Morningstar compared active managers’ returns in all categories against a composite made of related index funds and [[exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs). The study found that over a 10 year period beginning June 2009, only 23% of active managers were able to outperform their passive peers. Better success rates were found in foreign equity funds and bond funds. Lower success rates were found in US large cap funds. In general, investors have fared better by investing in low-cost index funds or ETFs.
 
 While a percentage of active managers do outperform passive funds at some point, the challenge for investors is being able to identify which ones will do so over the long-term. Less than 25 percent of the top-performing active managers can consistently outperform their passive manager counterparts over time.
 
@@ -65,13 +65,13 @@ The validity of the EMH has been questioned on both theoretical and empirical gr
 
 ### Can markets be inefficient?
 
-There are certainly some markets that are less efficient than others. An [inefficient market](https://www.investopedia.com/terms/i/inefficientmarket.asp) is one in which an asset's prices do not accurately reflect its true value, which may occur for several reasons. Market inefficiencies may exist due to information asymmetries, a lack of buyers and sellers (i.e. low [liquidity](https://www.investopedia.com/terms/l/liquidity.asp)), high transaction costs or delays, market psychology, and human emotion, among other reasons. Inefficiencies often lead to [deadweight losses](https://www.investopedia.com/terms/d/deadweightloss.asp). In reality, most markets do display some level of inefficiencies, and in the extreme case an inefficient market can be an example of a [market failure](https://www.investopedia.com/terms/m/marketfailure.asp).
+There are certainly some markets that are less efficient than others. An [[inefficient market]](https://www.investopedia.com/terms/i/inefficientmarket.asp) is one in which an asset's prices do not accurately reflect its true value, which may occur for several reasons. Market inefficiencies may exist due to information asymmetries, a lack of buyers and sellers (i.e. low [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp)), high transaction costs or delays, market psychology, and human emotion, among other reasons. Inefficiencies often lead to [deadweight losses](https://www.investopedia.com/terms/d/deadweightloss.asp). In reality, most markets do display some level of inefficiencies, and in the extreme case an inefficient market can be an example of a [market failure](https://www.investopedia.com/terms/m/marketfailure.asp).
 
 Accepting the EMH in its purest ([strong](https://www.investopedia.com/terms/s/strongform.asp)) form may be difficult as it states that all information in a [market](https://www.investopedia.com/terms/m/market.asp), whether public or private, is accounted for in a stock's price. However, modifications of EMH exist to reflect the degree to which it can be applied to markets:
 
--   [Semi-strong efficiency](https://www.investopedia.com/terms/s/semistrongform.asp) - This form of EMH implies all public (but not [non-public](https://www.investopedia.com/terms/m/materialinsiderinformation.asp)) information is calculated into a stock's current share price. Neither [fundamental](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) nor [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) can be used to achieve superior gains.
--   [Weak efficiency](https://www.investopedia.com/terms/w/weakform.asp) \- This type of EMH claims that all past prices of a stock are reflected in today's stock price. Therefore, technical analysis cannot be used to predict and beat the market.
+-   [[Semi-strong efficiency]](https://www.investopedia.com/terms/s/semistrongform.asp) - This form of EMH implies all public (but not [[non-public]](https://www.investopedia.com/terms/m/materialinsiderinformation.asp)) information is calculated into a stock's current share price. Neither [[fundamental]](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) nor [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) can be used to achieve superior gains.
+-   [[Weak efficiency]](https://www.investopedia.com/terms/w/weakform.asp) \- This type of EMH claims that all past prices of a stock are reflected in today's stock price. Therefore, technical analysis cannot be used to predict and beat the market.
 
 ### What can make a market more efficient?
 
-The more participants are engaged in a market, the more efficient it will become as more people compete and bring more and different types of information to bear on the price. As markets become more active and liquid, [arbitrageurs](https://www.investopedia.com/terms/a/arbitrageur.asp) will also emerge, profiting by correcting small inefficiencies whenever they might arise and quickly restoring efficiency.
+The more participants are engaged in a market, the more efficient it will become as more people compete and bring more and different types of information to bear on the price. As markets become more active and liquid, [[arbitrageurs]](https://www.investopedia.com/terms/a/arbitrageur.asp) will also emerge, profiting by correcting small inefficiencies whenever they might arise and quickly restoring efficiency.

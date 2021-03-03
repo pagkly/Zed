@@ -16,9 +16,9 @@ author: Alexandra Twin
 Guaranteed Payments to Partners: Get Paid Even If the Partnership Fails
 ## What Are Guaranteed Payments to Partners?
 
-Guaranteed payments to partners are payments meant to compensate [a partner](https://www.investopedia.com/terms/p/partnership.asp) for services rendered or use of capital. Essentially, they are the equivalent of a salary for partners or [limited liability company (LLC)](https://www.investopedia.com/terms/l/llc.asp) members. These kinds of payments eliminate the risk of a partner making personal contributions of time or property and then never getting compensated if the partnership does not prove to be successful.
+Guaranteed payments to partners are payments meant to compensate [[a partner]](https://www.investopedia.com/terms/p/partnership.asp) for services rendered or use of capital. Essentially, they are the equivalent of a salary for partners or [[limited liability company (LLC)]](https://www.investopedia.com/terms/l/llc.asp) members. These kinds of payments eliminate the risk of a partner making personal contributions of time or property and then never getting compensated if the partnership does not prove to be successful.
 
-The word "guaranteed" refers to the fact that these kinds of payments—known as first-priority distributions—are made without regard to the partnership's profitability. In fact, such payments constitute a net loss for the partnership. In addition, these payments can create special and unexpected tax implications if they are not handled correctly. Income from a guaranteed payment to a partner may be subject to [self-employment tax](https://www.investopedia.com/terms/s/selfemploymenttax.asp), though that depends on the terms of payment.
+The word "guaranteed" refers to the fact that these kinds of payments—known as first-priority distributions—are made without regard to the partnership's profitability. In fact, such payments constitute a net loss for the partnership. In addition, these payments can create special and unexpected tax implications if they are not handled correctly. Income from a guaranteed payment to a partner may be subject to [[self-employment tax]](https://www.investopedia.com/terms/s/selfemploymenttax.asp), though that depends on the terms of payment.
 
 Guaranteed payments protect partners who put in time or money so that they will be compensated even if the partnership is a failure.
 
@@ -34,13 +34,13 @@ More special tax considerations related to guaranteed payments to partners are h
 
 ## Guaranteed Payments to Partners and Tax Law
 
-Guaranteed payments to partners are outlined in [Section 707(c)](https://www.irs.gov/pub/irs-drop/rr-07-40.pdf) of the [Internal Revenue Code (IRC)](https://www.investopedia.com/terms/i/internal-revenue-code.asp), which defines such payments as those made by a partnership to an individual partner for services or for providing capital, and which are determined without regard to the income of the partnership.
+Guaranteed payments to partners are outlined in [[Section 707(c)]](https://www.irs.gov/pub/irs-drop/rr-07-40.pdf) of the [[Internal Revenue Code (IRC)]](https://www.investopedia.com/terms/i/internal-revenue-code.asp), which defines such payments as those made by a partnership to an individual partner for services or for providing capital, and which are determined without regard to the income of the partnership.
 
 When such payments meet this definition, they are considered made to a non-partner for tax purposes for both the partnership (payer) and the recipient (payee). More pertinently, such a payment to a partner is treated as ordinary income. And for the partnership, such payment is deductible under IRC Sec. 162 (ordinary or necessary business expenses) or capitalized under IRC Sec. 263.
 
 There are also special considerations that must be taken into account with guaranteed payments to partners and real estate as local governments sometimes levy a tax on unincorporated businesses.
 
-For example, New York City has the [New York Unincorporated Business Tax (UBT)](https://www.investopedia.com/articles/personal-finance/102815/taxes-new-york-small-business-basics.asp), which applies to partnerships as well as sole proprietorships. While the tax burden can be significant, exempt from it is net income from renting or ownership of the real estate. Therefore, [real estate partnerships](https://www.investopedia.com/terms/r/realestatelimitedpartnership.asp) should consider the tax implications of any guaranteed payment to a partner.
+For example, New York City has the [[New York Unincorporated Business Tax (UBT)]](https://www.investopedia.com/articles/personal-finance/102815/taxes-new-york-small-business-basics.asp), which applies to partnerships as well as sole proprietorships. While the tax burden can be significant, exempt from it is net income from renting or ownership of the real estate. Therefore, [[real estate partnerships]](https://www.investopedia.com/terms/r/realestatelimitedpartnership.asp) should consider the tax implications of any guaranteed payment to a partner.
 
 ### Key Takeaways
 

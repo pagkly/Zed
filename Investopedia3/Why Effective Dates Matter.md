@@ -16,7 +16,7 @@ author: Will Kenton
 Why Effective Dates Matter
 ## What Is Effective Date?
 
-In contract law, the effective date is the date that an agreement or transaction between or among signatories becomes binding. For an [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp), it is the date when shares can first be traded on an exchange.
+In contract law, the effective date is the date that an agreement or transaction between or among signatories becomes binding. For an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp), it is the date when shares can first be traded on an exchange.
 
 Both parties to a contract usually need to agree on an effective date before a contract is signed.
 
@@ -24,7 +24,7 @@ Both parties to a contract usually need to agree on an effective date before a c
 
 Business agreements and transactions are documented with effective dates, which are the times when parties to the contract begin their obligations to perform under the contract. These contracts can be in the form of employment agreements, credit or loan agreements, or commercial transaction deals. As far as the effective "date" is concerned, the parties will decide whether the contract should officially begin on the date of signing, on a date that has already passed ([backdating](https://www.investopedia.com/terms/b/backdating.asp)), or on a future date.
 
-For a company that wants to go public, the effective date occurs within 30 days after the security is registered with the Securities and Exchange Commission (SEC), giving time for the SEC to review the [Form S-1](https://www.investopedia.com/terms/s/sec-form-s-1.asp) registration for completeness of disclosure so that prospective investors can make informed decisions. During this review period, the SEC can ask questions, request clarifications or instruct the company to fill or amend certain sections of the filing.
+For a company that wants to go public, the effective date occurs within 30 days after the security is registered with the Securities and Exchange Commission (SEC), giving time for the SEC to review the [[Form S-1]](https://www.investopedia.com/terms/s/sec-form-s-1.asp) registration for completeness of disclosure so that prospective investors can make informed decisions. During this review period, the SEC can ask questions, request clarifications or instruct the company to fill or amend certain sections of the filing.
 
 ### Key Takeaways
 

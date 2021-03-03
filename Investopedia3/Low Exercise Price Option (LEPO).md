@@ -27,17 +27,17 @@ A low exercise price option (LEPO) is a European-style call option with an exerc
 
 ## Understanding Low Exercise Price Option (LEPO)
 
-Low exercise price options (LEPO) originated in Switzerland and quickly spread to Finland for the avoidance of paying the required [stamp duties](https://www.investopedia.com/terms/s/stampduty.asp) that were charged on stock trading. Since the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) is so close to zero, the investor purchasing the LEPO gains most of the features of owning the share directly with the major exceptions of dividends and voting rights.
+Low exercise price options (LEPO) originated in Switzerland and quickly spread to Finland for the avoidance of paying the required [[stamp duties]](https://www.investopedia.com/terms/s/stampduty.asp) that were charged on stock trading. Since the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) is so close to zero, the investor purchasing the LEPO gains most of the features of owning the share directly with the major exceptions of dividends and voting rights.
 
-The [Australian Stock Exchange (ASX)](https://www.investopedia.com/terms/a/asx.asp) listed LEPO options in 1995 and as of 2018 offers them on 100 ASX-listed companies.
+The [[Australian Stock Exchange (ASX)]](https://www.investopedia.com/terms/a/asx.asp) listed LEPO options in 1995 and as of 2018 offers them on 100 ASX-listed companies.
 
 ## Differences with Regular Options
 
 Low exercise price options differ from regular or standard options in several key ways.
 
 -   LEPOs are only available as call options.
--   Only available with [European style](https://www.investopedia.com/terms/e/europeanoption.asp) expirations.
--   They are so deep [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp) that they trade similarly to the underlying stock itself.
+-   Only available with [[European style]](https://www.investopedia.com/terms/e/europeanoption.asp) expirations.
+-   They are so deep [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp) that they trade similarly to the underlying stock itself.
 -   Buyers purchase them on margin so they do not pay the full amount of the premium upfront.
 -   Both buyers and sellers will have ongoing margin payments.
 -   Holders do not receive dividends or have voting rights until after exercise.
@@ -48,6 +48,6 @@ Of course, all options and futures may be sold to close out the position and avo
 
 ## Using LEPOs
 
-Since LEPOs are essentially a [deep in the money call option](https://www.investopedia.com/terms/d/deepinthemoney.asp), they have a very high [delta](https://www.investopedia.com/terms/d/delta.asp) value and trade similarly to the underlying stock. Because these options are of the European style, meaning they are only able to be exercised at expiration, their near-zero strike price almost guarantees that the holder will take delivery of shares at that time. The advantage over owning the stock outright is the participation in the performance of the underlying without any financial or legal issues caused by the direct holding of the stock.
+Since LEPOs are essentially a [[deep in the money call option]](https://www.investopedia.com/terms/d/deepinthemoney.asp), they have a very high [[delta]](https://www.investopedia.com/terms/d/delta.asp) value and trade similarly to the underlying stock. Because these options are of the European style, meaning they are only able to be exercised at expiration, their near-zero strike price almost guarantees that the holder will take delivery of shares at that time. The advantage over owning the stock outright is the participation in the performance of the underlying without any financial or legal issues caused by the direct holding of the stock.
 
 Deep in the money options have very high premiums, or initial costs. However, the investor holds LEPOs on margin, resulting in a lower upfront cost. Again, the benefits must be weighed against the disadvantages of having no claim on dividends or the ability to vote the shares.

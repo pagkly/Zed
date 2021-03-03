@@ -16,7 +16,7 @@ author: Will Kenton
 Outlay Cost
 ## What Is an Outlay Cost?
 
-An outlay cost is a cost incurred in order to execute a strategy or acquire an asset. Outlay costs are also paid to [vendors](https://www.investopedia.com/terms/v/vendor.asp) to acquire goods such as inventory or services, such as consulting or software design. They are concrete expenses that are actually incurred in order to achieve a goal. 
+An outlay cost is a cost incurred in order to execute a strategy or acquire an asset. Outlay costs are also paid to [[vendors]](https://www.investopedia.com/terms/v/vendor.asp) to acquire goods such as inventory or services, such as consulting or software design. They are concrete expenses that are actually incurred in order to achieve a goal. 
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ An outlay cost is a cost incurred in order to execute a strategy or acquire an a
 
 ## How Outlay Costs Work 
 
-Outlay costs are easy to recognize and measure because they have actually been paid to outside vendors, as opposed to [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp) which are not actually incurred and paid to outside parties by the company. 
+Outlay costs are easy to recognize and measure because they have actually been paid to outside vendors, as opposed to [[opportunity costs]](https://www.investopedia.com/terms/o/opportunitycost.asp) which are not actually incurred and paid to outside parties by the company. 
 
 For corporations, outlay costs for new projects include start-up, production, and asset acquisition costs. They can also include hiring costs for strategies or projects that require an addition to the workforce in order to be carried out.
 
 ## Special Considerations
 
-Outlay costs include the expenses paid by a business in order to manufacture a product or provide a service, and also include fees paid to outside parties to acquire assets or services. In [cash accounting](https://www.investopedia.com/terms/c/cashaccounting.asp), outlay costs immediately reduce earnings. In [accrual accounting](https://www.investopedia.com/terms/a/accrualaccounting.asp), outlay costs are split across all the periods that the expense applies to and matched to related revenues. 
+Outlay costs include the expenses paid by a business in order to manufacture a product or provide a service, and also include fees paid to outside parties to acquire assets or services. In [[cash accounting]](https://www.investopedia.com/terms/c/cashaccounting.asp), outlay costs immediately reduce earnings. In [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp), outlay costs are split across all the periods that the expense applies to and matched to related revenues. 
 
 Outlay costs do not include foregone profits or benefits—such costs are known as opportunity costs and are hidden, but an important component of a business's profitability.
 

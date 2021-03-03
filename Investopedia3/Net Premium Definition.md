@@ -16,7 +16,7 @@ author: Julia Kagan
 Net Premium Definition
 ## What Is Net Premium?
 
-Net premium, an insurance industry accounting term, is calculated as the expected [present value (PV)](https://www.investopedia.com/terms/p/presentvalue.asp) of an insurance policy’s benefits, _minus_ the expected PV of future [premiums](https://www.investopedia.com/terms/p/premium.asp). The net premium calculation does not take into account future expenses associated with maintaining the insurance policy.
+Net premium, an insurance industry accounting term, is calculated as the expected [[present value (PV)]](https://www.investopedia.com/terms/p/presentvalue.asp) of an insurance policy’s benefits, _minus_ the expected PV of future [[premiums]](https://www.investopedia.com/terms/p/premium.asp). The net premium calculation does not take into account future expenses associated with maintaining the insurance policy.
 
 Net premiums, along with gross premiums, help an insurance company to determine how much it owes in state taxes.
 
@@ -29,13 +29,13 @@ Net premiums, along with gross premiums, help an insurance company to determine 
 
 ## Net Premium Explained
 
-An [insurance](https://www.investopedia.com/terms/i/insurance.asp) policy's net premium value differs from the policy’s gross premium value, which does take into account future expenses. The calculated difference between net premium and gross premium equals the expected PV of expense loadings, _minus_ the expected PV of future expenses. Thus, a policy’s gross value will be less than its net value when the value of future expenses is less than the PV of those expense loadings.
+An [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) policy's net premium value differs from the policy’s gross premium value, which does take into account future expenses. The calculated difference between net premium and gross premium equals the expected PV of expense loadings, _minus_ the expected PV of future expenses. Thus, a policy’s gross value will be less than its net value when the value of future expenses is less than the PV of those expense loadings.
 
 Some states' tax laws may allow insurance companies to reduce their gross premium by accounting for expenses and unearned premiums. 
 
 ### Net Premium Tax Laws
 
-Because the net premium calculation does not take into account expenses, companies must determine how much expense they can add without causing a loss. Types of expenses that a company must account for include [commissions](https://www.investopedia.com/terms/c/commission.asp) paid to agents who sell the policies, legal expenses associated with settlements, salaries, taxes, clerical costs, and other general expenses.
+Because the net premium calculation does not take into account expenses, companies must determine how much expense they can add without causing a loss. Types of expenses that a company must account for include [[commissions]](https://www.investopedia.com/terms/c/commission.asp) paid to agents who sell the policies, legal expenses associated with settlements, salaries, taxes, clerical costs, and other general expenses.
 
 Commissions typically vary with the policy’s premium, but general and legal expenses may not be tied to the premium.
 
@@ -45,7 +45,7 @@ To estimate allowed expenses, a company can add a fixed amount of expenses to th
 
 When comparing policies with different net premiums, adding a fixed amount will lead to the same proportion of expenses to premiums as long as expenses do vary by proportion to the premium. Determining which method to use depends on the general and legal expenses associated with the policy, as they relate to commissions on the premium.
 
-Most policy calculations leave a margin for [contingencies](https://www.investopedia.com/terms/c/contingency.asp), such as when the money made from investing the premiums turns out to be less than expected.
+Most policy calculations leave a margin for [[contingencies]](https://www.investopedia.com/terms/c/contingency.asp), such as when the money made from investing the premiums turns out to be less than expected.
 
 ## Importance of Net Premium
 

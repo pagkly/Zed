@@ -16,7 +16,7 @@ author: Will Kenton
 NYSE Composite Index
 ## What Is the NYSE Composite Index?
 
-The NYSE Composite Index measures the performance of all common stocks listed on the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp), including [American Depositary Receipts](https://www.investopedia.com/terms/a/adr.asp) issued by foreign companies, [Real Estate Investment Trusts](https://www.investopedia.com/terms/r/reit.asp) and tracking stocks. The weights of the index constituents are calculated on the basis of their free-float [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp). The index itself is calculated on the basis of price return and [total return](https://www.investopedia.com/terms/t/totalreturn.asp), which includes dividends.1
+The NYSE Composite Index measures the performance of all common stocks listed on the [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp), including [[American Depositary Receipts]](https://www.investopedia.com/terms/a/adr.asp) issued by foreign companies, [[Real Estate Investment Trusts]](https://www.investopedia.com/terms/r/reit.asp) and tracking stocks. The weights of the index constituents are calculated on the basis of their free-float [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp). The index itself is calculated on the basis of price return and [[total return]](https://www.investopedia.com/terms/t/totalreturn.asp), which includes dividends.1
 
 The breadth of the NYSE Composite Index ([NYA](https://www.investopedia.com/markets/quote?tvwidgetsymbol=nya)) makes it a far better indicator of market performance than narrow indexes that have far fewer components.
 
@@ -30,7 +30,7 @@ The breadth of the NYSE Composite Index ([NYA](https://www.investopedia.com/mark
 
 The NYSE Composite Index includes all NYSE-listed stocks, including foreign stocks, American Depositary Receipts, real estate investment trusts and tracking stocks. The index excludes closed-end funds, ETFs, limited partnerships and derivatives.1
 
-The two biggest benefits to investors of the NYSE Composite Index are (a) its quality, as all constituents must meet the stringent [listing requirements](https://www.investopedia.com/terms/l/listingrequirements.asp) of the exchange, and (b) its global [diversification](https://www.investopedia.com/terms/d/diversification.asp), with international companies accounting for about one-third of market capitalization.2
+The two biggest benefits to investors of the NYSE Composite Index are (a) its quality, as all constituents must meet the stringent [[listing requirements]](https://www.investopedia.com/terms/l/listingrequirements.asp) of the exchange, and (b) its global [[diversification]](https://www.investopedia.com/terms/d/diversification.asp), with international companies accounting for about one-third of market capitalization.2
 
 The NYSE Composite Index is seen as a better stand-in for the broader stock market than many of its narrower counterparts, due to the number of constituents it has and the global diversity of its holdings.
 

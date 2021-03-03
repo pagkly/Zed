@@ -16,7 +16,7 @@ author: Will Kenton
 Who is William Cavanaugh III?
 ## Who is William Cavanaugh III?
 
-William Cavanaugh III is an American businessman with a long history of leadership positions in the [energy](https://www.investopedia.com/terms/e/energy_sector.asp) production and [real estate](https://www.investopedia.com/terms/r/realestate.asp) industries. He currently serves as a Lead Director on the Board of Directors of the Duke Realty, an American real estate investment trust (REIT), based in Indianapolis, Indiana.1
+William Cavanaugh III is an American businessman with a long history of leadership positions in the [[energy]](https://www.investopedia.com/terms/e/energy_sector.asp) production and [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) industries. He currently serves as a Lead Director on the Board of Directors of the Duke Realty, an American real estate investment trust (REIT), based in Indianapolis, Indiana.1
 
 ### Key Takeaways
 
@@ -37,22 +37,22 @@ In 1969, he was honorably discharged from the Navy, at which point he embarked o
 
 ### Cavanaugh's Early Career in the Energy Industry
 
-At Entergy Cavanaugh served in executive leadership roles at three of the firm’s electric utility [subsidiaries](https://www.investopedia.com/terms/s/subsidiary.asp): Arkansas Power & Light, Louisiana Power & Light, and Mississippi Power & Light.2 
+At Entergy Cavanaugh served in executive leadership roles at three of the firm’s electric utility [[subsidiaries]](https://www.investopedia.com/terms/s/subsidiary.asp): Arkansas Power & Light, Louisiana Power & Light, and Mississippi Power & Light.2 
 
 Cavanaugh went on to attend the Kidder-Peabody Utility Corporate Finance program in 1983 and Harvard University’s advanced management program in 1991. These certifications helped prepare him for senior management roles in the energy production sector.
 
-He joined Carolina Power & Light Company in the role of President and [Chief Operating Officer](https://www.investopedia.com/terms/c/coo.asp) in 1992, and rose to the role of President and [Chief Operating Officer (CEO)](https://www.investopedia.com/terms/c/ceo.asp) in 1999. 
+He joined Carolina Power & Light Company in the role of President and [Chief Operating Officer](https://www.investopedia.com/terms/c/coo.asp) in 1992, and rose to the role of President and [[Chief Operating Officer (CEO)]](https://www.investopedia.com/terms/c/ceo.asp) in 1999. 
 
 ### Cavanaugh's Later Career
 
-As CEO of Carolina Power & Light, Cavanaugh led the firm’s 1999 [acquisition](https://www.investopedia.com/terms/a/acquisition.asp) of Florida Progress Corp, which CP&L bought for $54 a share, or $5.3 billion in cash and stock, along with the assumption of $2.7 billion in debt.3
+As CEO of Carolina Power & Light, Cavanaugh led the firm’s 1999 [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp) of Florida Progress Corp, which CP&L bought for $54 a share, or $5.3 billion in cash and stock, along with the assumption of $2.7 billion in debt.3
 
 The combined company adopted a new name, Progress Energy, and became what was at the time the ninth largest energy producer in the United States. Under Cavanaugh’s leadership, the firm grew to become a Fortune 500 company with a new headquarters in Raleigh, North Carolina and more than $9 billion in annual revenues.
 
-During this period, Cavanaugh notably resisted the trend in the energy industry to take advantage of deregulation in order to shift operations into energy trading. Enron Corporation, the leader in this movement, was later [disgraced](https://www.investopedia.com/updates/enron-scandal-summary/) after it was accused to lying to shareholders and manipulating energy markets. Cavanaugh's skepticism led him to lobby _against_ deregulation of the energy industry. In the end, Cavanaugh was vindicated, and his reputation as a CEO with integrity grew.
+During this period, Cavanaugh notably resisted the trend in the energy industry to take advantage of deregulation in order to shift operations into energy trading. Enron Corporation, the leader in this movement, was later [[disgraced]](https://www.investopedia.com/updates/enron-scandal-summary/) after it was accused to lying to shareholders and manipulating energy markets. Cavanaugh's skepticism led him to lobby _against_ deregulation of the energy industry. In the end, Cavanaugh was vindicated, and his reputation as a CEO with integrity grew.
 
 ## William Cavanaugh III Retirement
 
-Cavanaugh retired as Chief Executive Officer of the new company in 2004, and the company was later taken over by Duke Energy in a $26 billion merger that formed the nation’s largest electric [utility](https://www.investopedia.com/terms/u/utility.asp).4
+Cavanaugh retired as Chief Executive Officer of the new company in 2004, and the company was later taken over by Duke Energy in a $26 billion merger that formed the nation’s largest electric [[utility]](https://www.investopedia.com/terms/u/utility.asp).4
 
 After retiring from Progress Energy, Cavanaugh served as Chairman of the World Association of Nuclear Operators, an international association of nuclear power plant operators that is dedicated to promoting the safe exploitation of nuclear energy. He also held positions at the Edison Electric Institute, the Nuclear Energy Institute, and the Research Triangle Foundation.

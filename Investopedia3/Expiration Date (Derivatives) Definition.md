@@ -16,9 +16,9 @@ author: James Chen
 Expiration Date (Derivatives) Definition
 ## What Is an Expiration Date? (Derivatives)
 
-An expiration date in derivatives is the last day that derivative contracts, such as [options](https://www.investopedia.com/terms/o/option.asp) or [futures](https://www.investopedia.com/terms/f/futures.asp), are valid. On or before this day, investors will have already decided what to do with their expiring position.
+An expiration date in derivatives is the last day that derivative contracts, such as [[options]](https://www.investopedia.com/terms/o/option.asp) or [[futures]](https://www.investopedia.com/terms/f/futures.asp), are valid. On or before this day, investors will have already decided what to do with their expiring position.
 
-Before an option expires, its owners can choose to [exercise](https://www.investopedia.com/terms/e/exercise.asp) the option, close the position to realize their profit or loss, or let the contract expire worthless.
+Before an option expires, its owners can choose to [[exercise]](https://www.investopedia.com/terms/e/exercise.asp) the option, close the position to realize their profit or loss, or let the contract expire worthless.
 
 ### Key Takeaways
 
@@ -31,13 +31,13 @@ Before an option expires, its owners can choose to [exercise](https://www.invest
 
 Expiration dates, and what they represent, vary based on the derivative being traded. The expiration date for listed stock options in the United States is normally the third Friday of the contract month or the month that the contract expires. On months that the Friday falls on a holiday, the expiration date is on the Thursday immediately before the third Friday. Once an options or futures contract passes its expiration date, the contract is invalid. The last day to trade equity options is the Friday prior to expiry.1 Therefore, traders must decide what to do with their options by this last trading day.
 
-Some options have an automatic exercise provision. These options are automatically exercised if they are [in the money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) at the time of expiry. If a trader doesn't want the option to be exercised, they must close out or roll the position by the last trading day.
+Some options have an automatic exercise provision. These options are automatically exercised if they are [[in the money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) at the time of expiry. If a trader doesn't want the option to be exercised, they must close out or roll the position by the last trading day.
 
-Index options also expire on the third Friday of the month, and this is also the last trading day for [American style index options](https://www.investopedia.com/terms/a/americanoption.asp). For [European style index options](https://www.investopedia.com/terms/e/europeanoption.asp), the last trading is typically the day before expiration.1
+Index options also expire on the third Friday of the month, and this is also the last trading day for [[American style index options]](https://www.investopedia.com/terms/a/americanoption.asp). For [[European style index options]](https://www.investopedia.com/terms/e/europeanoption.asp), the last trading is typically the day before expiration.1
 
 ## Expiration and Option Value
 
-In general, the longer a stock has to expiration, the more time it has to reach its strike price and thus the more [time value](https://www.investopedia.com/terms/t/timevalue.asp) it has.
+In general, the longer a stock has to expiration, the more time it has to reach its strike price and thus the more [[time value]](https://www.investopedia.com/terms/t/timevalue.asp) it has.
 
 There are two types of options, calls and puts. Calls give the holder the right, but not the obligation, to buy a stock if it reaches a certain strike price by the expiration date. Puts give the holder the right, but not the obligation, to sell a stock if it reaches a certain strike price by the expiration date.
 

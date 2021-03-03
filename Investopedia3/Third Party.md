@@ -16,9 +16,9 @@ author: Will Kenton
 Third Party
 ## What Is a Third Party?
 
-A third party is an individual or entity that is involved in a transaction but is not one of the principals and, thus, has a lesser interest in the transaction. An example of a third party would be the [escrow](https://www.investopedia.com/terms/e/escrow.asp) company in a real estate transaction; the escrow party acts as a neutral agent by collecting the documents and money that the buyer and seller exchange when completing the transaction.
+A third party is an individual or entity that is involved in a transaction but is not one of the principals and, thus, has a lesser interest in the transaction. An example of a third party would be the [[escrow]](https://www.investopedia.com/terms/e/escrow.asp) company in a real estate transaction; the escrow party acts as a neutral agent by collecting the documents and money that the buyer and seller exchange when completing the transaction.
 
-A collection agency may be another example of a third party. If a debtor owes a creditor a sum of money and hasn't been making the scheduled payments, the creditor is likely to hire a [collection agency](https://www.investopedia.com/terms/c/collectionagency.asp) to ensure that the debtor honors his agreement.
+A collection agency may be another example of a third party. If a debtor owes a creditor a sum of money and hasn't been making the scheduled payments, the creditor is likely to hire a [[collection agency]](https://www.investopedia.com/terms/c/collectionagency.asp) to ensure that the debtor honors his agreement.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ A collection agency may be another example of a third party. If a debtor owes a 
 
 ## How a Third Party Works
 
-A third party may also refer to an entity that a company uses to mitigate risk. For example, small investment firms face difficulty entering the industry when large firms continue leading the competition. One reason large firms grow more quickly is because they invest in middle- and [back-office](https://www.investopedia.com/terms/b/backoffice.asp) infrastructure. To stay competitive, many smaller firms [outsource](https://www.investopedia.com/terms/o/outsourcing.asp) those functions as a method of gaining a greater share of the marketplace.
+A third party may also refer to an entity that a company uses to mitigate risk. For example, small investment firms face difficulty entering the industry when large firms continue leading the competition. One reason large firms grow more quickly is because they invest in middle- and [[back-office]](https://www.investopedia.com/terms/b/backoffice.asp) infrastructure. To stay competitive, many smaller firms [[outsource]](https://www.investopedia.com/terms/o/outsourcing.asp) those functions as a method of gaining a greater share of the marketplace.
 
-Small firms save time and money by leveraging scalable infrastructure with variable costs for trade operations, data storage, disaster recovery, and system integration and maintenance. By outsourcing middle- and back-office solutions, small firms take advantage of technology and processes for more efficient task completion, maximum [operating efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp), reduced operational risks, decreased reliance on manual processes, and minimal errors. Operational costs are reduced, compliance is enhanced, and tax and investor reporting improve.
+Small firms save time and money by leveraging scalable infrastructure with variable costs for trade operations, data storage, disaster recovery, and system integration and maintenance. By outsourcing middle- and back-office solutions, small firms take advantage of technology and processes for more efficient task completion, maximum [[operating efficiency]](https://www.investopedia.com/terms/o/operationalefficiency.asp), reduced operational risks, decreased reliance on manual processes, and minimal errors. Operational costs are reduced, compliance is enhanced, and tax and investor reporting improve.
 
 ## Example of a Third Party
 
@@ -43,6 +43,6 @@ Although the escrow process follows a similar pattern for all homebuyers, the de
 
 ### Collection Agency
 
-A company may hire a [collection agency](https://www.investopedia.com/terms/c/collectionagency.asp) for securing payment of company debt. Company invoices or initial customer contracts typically state at which time a collection agency may be used for securing outstanding payments. Some businesses can carry debt for years, whereas others expect payment within 90 days. The schedule depends on the market and the company’s relationship with the client.
+A company may hire a [[collection agency]](https://www.investopedia.com/terms/c/collectionagency.asp) for securing payment of company debt. Company invoices or initial customer contracts typically state at which time a collection agency may be used for securing outstanding payments. Some businesses can carry debt for years, whereas others expect payment within 90 days. The schedule depends on the market and the company’s relationship with the client.
 
 When a business would pay more in court fees than the amount of the debt itself, the business may utilize a collection agency’s services instead of filing a lawsuit. The agency may pay the business 10% or less for each outstanding invoice, or it may agree to a large percentage of commission for recovered debts. The agency consolidates the company’s debt and goes to work recovering the outstanding balances.

@@ -16,9 +16,9 @@ author: James Chen
 ECN Broker
 ## What Is an ECN Broker?
 
-An ECN broker is a financial intermediary that uses electronic communications networks (ECNs) to give clients direct access to other participants in equity and currency markets. Because an ECN broker [consolidates](https://www.investopedia.com/terms/c/consolidate.asp) price quotations from several market participants, it can generally offer its clients tighter bid/ask spreads than would be otherwise available to them.
+An ECN broker is a financial intermediary that uses electronic communications networks (ECNs) to give clients direct access to other participants in equity and currency markets. Because an ECN broker [[consolidates]](https://www.investopedia.com/terms/c/consolidate.asp) price quotations from several market participants, it can generally offer its clients tighter bid/ask spreads than would be otherwise available to them.
 
-An [ECN](https://www.investopedia.com/terms/e/ecn.asp) broker only matches trades between other market participants; it cannot trade against the client. ECN spreads are often narrower than those used by conventional brokers, but ECN brokers still charge clients a fixed commission per transaction.
+An [[ECN]](https://www.investopedia.com/terms/e/ecn.asp) broker only matches trades between other market participants; it cannot trade against the client. ECN spreads are often narrower than those used by conventional brokers, but ECN brokers still charge clients a fixed commission per transaction.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The use of an ECN allows investors a way to trade outside traditional trading ho
 
 For those concerned about privacy, the ECN can provide a level of anonymity to those who desire it. This can be particularly attractive to investors interested in making larger transactions.
 
-ECN brokers are [non-dealing desk brokers](https://www.investopedia.com/terms/n/no-dealing-desk.asp), meaning that they do not pass on order flow to market makers. Instead, they match participants in a trade electronically and pass the orders to [liquidity providers](https://www.investopedia.com/terms/c/coreliquidityprovider.asp).
+ECN brokers are [[non-dealing desk brokers]](https://www.investopedia.com/terms/n/no-dealing-desk.asp), meaning that they do not pass on order flow to market makers. Instead, they match participants in a trade electronically and pass the orders to [[liquidity providers]](https://www.investopedia.com/terms/c/coreliquidityprovider.asp).
 
 An ECN broker facilitates trades for interested investors across the ECN. Working with brokers of this nature often results in lower fees as well as additional trading time availability because of how the ECN functions.
 

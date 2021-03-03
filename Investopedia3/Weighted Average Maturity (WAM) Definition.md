@@ -16,9 +16,9 @@ author: James Chen
 Weighted Average Maturity (WAM) Definition
 ## What Is Weighted Average Maturity (WAM)?
 
-Weighted average maturity (WAM) is the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) amount of time until the maturities on mortgages in a [mortgage-backed security (MBS).](https://www.investopedia.com/terms/m/mbs.asp) This term is used more broadly to describe maturities in a portfolio of debt securities, including corporate debt and municipal bonds. The higher the WAM, the longer it takes for all of the mortgages or bonds in the portfolio to mature. WAM is used to manage debt portfolios and to assess the performance of debt portfolio managers.
+Weighted average maturity (WAM) is the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) amount of time until the maturities on mortgages in a [[mortgage-backed security (MBS).]](https://www.investopedia.com/terms/m/mbs.asp) This term is used more broadly to describe maturities in a portfolio of debt securities, including corporate debt and municipal bonds. The higher the WAM, the longer it takes for all of the mortgages or bonds in the portfolio to mature. WAM is used to manage debt portfolios and to assess the performance of debt portfolio managers.
 
-WAM is closely related to [weighted average loan age](https://www.investopedia.com/terms/w/wala.asp) (WALA).
+WAM is closely related to [[weighted average loan age]](https://www.investopedia.com/terms/w/wala.asp) (WALA).
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ WAM is closely related to [weighted average loan age](https://www.investopedia.c
 
 ## Understanding Weighted Average Maturity
 
-WAM is calculated by computing the percentage value of each mortgage or debt instrument in the portfolio. The number of months or years until the bond’s [maturity](https://www.investopedia.com/terms/m/maturity.asp) is multiplied by each percentage, and the sum of the subtotals equals the weighted average maturity of the bonds in the portfolio.
+WAM is calculated by computing the percentage value of each mortgage or debt instrument in the portfolio. The number of months or years until the bond’s [[maturity]](https://www.investopedia.com/terms/m/maturity.asp) is multiplied by each percentage, and the sum of the subtotals equals the weighted average maturity of the bonds in the portfolio.
 
-WAM is used as a tool to manage bond portfolios and to assess the performance of portfolio managers. [Mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), for example, offer bond portfolios with a variety of WAM guidelines, and a fund portfolio may have a WAM as short as five years or as long as 30 years. The investor can choose a bond fund that matches a particular investing time frame. The fund’s investment objective includes a benchmark, such as a bond index, and the benchmark portfolio’s WAM is available for investors and portfolio managers. A portfolio manager’s investment performance is judged based on the rate of return and the WAM on the fund’s bond portfolio.
+WAM is used as a tool to manage bond portfolios and to assess the performance of portfolio managers. [[Mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp), for example, offer bond portfolios with a variety of WAM guidelines, and a fund portfolio may have a WAM as short as five years or as long as 30 years. The investor can choose a bond fund that matches a particular investing time frame. The fund’s investment objective includes a benchmark, such as a bond index, and the benchmark portfolio’s WAM is available for investors and portfolio managers. A portfolio manager’s investment performance is judged based on the rate of return and the WAM on the fund’s bond portfolio.
 
 [Bond laddering](https://www.investopedia.com/terms/b/bondladdering.asp) is an investment strategy that involves purchasing bonds with different maturity dates, which means that the dollars in the portfolio are returned to the investor at different points over time. A laddering strategy allows the owner to reinvest bond maturity proceeds at current interest rates over time, which reduces the risk of reinvesting the entire portfolio when interest rates are low. Bond laddering helps an income-oriented investor maintain a reasonable interest rate on a bond portfolio, and these investors use WAM to assess the portfolio.
 
@@ -46,6 +46,6 @@ To compute WAM, each of the percentages is multiplied by the years until maturit
 
 ## Weighted Average Maturity vs Weighted Average Loan Age
 
-Weighted average maturity (WAM) and [weighted average loan age](https://www.investopedia.com/terms/w/wala.asp) (WALA) are both used to estimate the likelihood of an investment in a mortgage-backed security being profitable. However, WAM tends to be a more broadly used measure for the maturity of pools of mortgage-backed securities. It measures the average time it takes for securities in a debt portfolio to mature, weighted in proportion to the dollar amount invested in the portfolio. Portfolios with higher weighted average maturities are more sensitive to interest rate changes.
+Weighted average maturity (WAM) and [[weighted average loan age]](https://www.investopedia.com/terms/w/wala.asp) (WALA) are both used to estimate the likelihood of an investment in a mortgage-backed security being profitable. However, WAM tends to be a more broadly used measure for the maturity of pools of mortgage-backed securities. It measures the average time it takes for securities in a debt portfolio to mature, weighted in proportion to the dollar amount invested in the portfolio. Portfolios with higher weighted average maturities are more sensitive to interest rate changes.
 
 WALA is actually calculated as the inverse of WAM: WAM computes the percentage value of each mortgage or debt instrument in the portfolio. The number of months or years until the bond’s [maturity](https://www.investopedia.com/terms/m/maturity.asp) is multiplied by each percentage, and the sum of the subtotals equals the weighted average maturity of the bonds in the portfolio.

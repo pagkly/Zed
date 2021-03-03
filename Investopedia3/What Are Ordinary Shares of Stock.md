@@ -26,7 +26,7 @@ An ordinary share represents a fraction of ownership in the corporation that iss
 
 The shareholder may or may not receive a dividend. The company's board of directors decides whether a dividend will be awarded, and how much it will be. The dividend represents the stock owner's share of the profits of the corporation over the past quarter or year.
 
-A corporation may also issue [preferred shares](https://www.investopedia.com/terms/p/preferredstock.asp). These are a kind of hybrid of a stock and a bond. Their owners are guaranteed a set dividend payment. The price of the shares may rise or fall but is not as volatile as the common stock price. Investors in preferred shares are motivated primarily by the steady income from dividends.
+A corporation may also issue [[preferred shares]](https://www.investopedia.com/terms/p/preferredstock.asp). These are a kind of hybrid of a stock and a bond. Their owners are guaranteed a set dividend payment. The price of the shares may rise or fall but is not as volatile as the common stock price. Investors in preferred shares are motivated primarily by the steady income from dividends.
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ Ordinary shareholders have the right to a corporation's residual profits. In oth
 
 This is effectively meaningless. The company's directors may well decide to plow all of its spare cash back into the business, in which case no residual profits will be available for dividends.
 
-Ordinary shareholders also are entitled to a share of the residual [economic value](https://www.investopedia.com/terms/e/economic-value.asp) of the company if the business collapses. However, they are last in line in bankruptcy court after bondholders and preferred shareholders. As such, ordinary shareholders are on the same footing as unsecured creditors.
+Ordinary shareholders also are entitled to a share of the residual [[economic value]](https://www.investopedia.com/terms/e/economic-value.asp) of the company if the business collapses. However, they are last in line in bankruptcy court after bondholders and preferred shareholders. As such, ordinary shareholders are on the same footing as unsecured creditors.
 
 ### The Advantages of Ordinary Shareholders
 

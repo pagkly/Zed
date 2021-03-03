@@ -16,11 +16,11 @@ author: Chris B. Murphy
 How the Loan-to-Deposit Ratio (LDR) Measures a Bank's Liquidity
 ## What Is Loan-to-Deposit Ratio (LDR)?
 
-The loan-to-deposit ratio (LDR) is used to assess a bank's [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) by comparing a bank's total loans to its total deposits for the same period. The LDR is expressed as a percentage. If the ratio is too high, it means that the bank may not have enough liquidity to cover any unforeseen fund requirements. Conversely, if the ratio is too low, the bank may not be earning as much as it could be.
+The loan-to-deposit ratio (LDR) is used to assess a bank's [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) by comparing a bank's total loans to its total deposits for the same period. The LDR is expressed as a percentage. If the ratio is too high, it means that the bank may not have enough liquidity to cover any unforeseen fund requirements. Conversely, if the ratio is too low, the bank may not be earning as much as it could be.
 
 ### Key Takeaways
 
--   The loan-to-deposit ratio is used to assess a bank's [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) by comparing a bank's total loans to its total deposits for the same period.
+-   The loan-to-deposit ratio is used to assess a bank's [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) by comparing a bank's total loans to its total deposits for the same period.
 -   To calculate the loan-to-deposit ratio, divide a bank's total amount of loans by the total amount of deposits for the same period.
 -   Typically, the ideal loan-to-deposit ratio is 80% to 90%. A loan-to-deposit ratio of 100 percent means a bank loaned one dollar to customers for every dollar received in deposits it received. 
 
@@ -34,7 +34,7 @@ To calculate the loan-to-deposit ratio, divide a bank's total amount of loans by
 
 ## What Does LDR Tell You?
 
-A loan-to-deposit ratio shows a bank's ability to cover loan losses and withdrawals by its customers. [Investors](https://www.investopedia.com/terms/i/investor.asp) monitor the LDR of banks to make sure there's adequate liquidity to cover loans in the event of an economic downturn resulting in loan defaults.
+A loan-to-deposit ratio shows a bank's ability to cover loan losses and withdrawals by its customers. [[Investors]](https://www.investopedia.com/terms/i/investor.asp) monitor the LDR of banks to make sure there's adequate liquidity to cover loans in the event of an economic downturn resulting in loan defaults.
 
 Also, the LDR helps to show how well a bank is attracting and retaining customers. If a bank's deposits are increasing, new money and new clients are being on-boarded. As a result, the bank will likely have more money to lend, which should increase earnings. Although it's counterintuitive, loans are an asset for a bank since banks earn interest income from lending. Deposits, on the other hand, are liabilities because banks must pay an interest rate on those deposits, albeit at a low rate.
 
@@ -44,13 +44,13 @@ As a result, a bank that borrows money to lend to its customers will typically h
 
 The proper LDR is a delicate balance for banks. If banks lend too much of their deposits, they might overextend themselves, particularly in an economic downturn. However, if banks lend too few of their deposits, they might have opportunity cost since their deposits would be sitting on their balance sheets earning no revenue. Banks with low LTD ratios might have lower interest income resulting in lower earnings.
 
-Multiple factors can drive changes in the loan-to-deposit ratios. [Economic conditions](https://www.investopedia.com/terms/e/economic-conditions.asp) can impact loan demand as well as how much investors deposit. If consumers are unemployed, they're unlikely to increase their deposits. The [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) bank regulates monetary policy by raising and lowering [interest rates](https://www.investopedia.com/terms/i/interestrate.asp). If rates are low, loan demand might increase depending on the economic conditions. In short, there are many outside factors that impact a bank's LDR.
+Multiple factors can drive changes in the loan-to-deposit ratios. [[Economic conditions]](https://www.investopedia.com/terms/e/economic-conditions.asp) can impact loan demand as well as how much investors deposit. If consumers are unemployed, they're unlikely to increase their deposits. The [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) bank regulates monetary policy by raising and lowering [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp). If rates are low, loan demand might increase depending on the economic conditions. In short, there are many outside factors that impact a bank's LDR.
 
 ## What Is an Ideal LDR?
 
 Typically, the ideal loan-to-deposit ratio is 80% to 90%. A loan-to-deposit ratio of 100% means a bank loaned one dollar to customers for every dollar received in deposits it received. It also means a bank will not have significant reserves available for expected or unexpected contingencies.
 
-Regulations also factor into how banks are managed and ultimately their loan-to-deposit ratios. The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) do not set minimum or maximum loan-to-deposit ratios for banks. However, these agencies monitor banks to see if their ratios are compliant with section 109 of the [Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (Interstate Act)](https://www.investopedia.com/terms/i/interstate-banking.asp).
+Regulations also factor into how banks are managed and ultimately their loan-to-deposit ratios. The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic.asp) do not set minimum or maximum loan-to-deposit ratios for banks. However, these agencies monitor banks to see if their ratios are compliant with section 109 of the [[Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (Interstate Act)]](https://www.investopedia.com/terms/i/interstate-banking.asp).
 
 ## Example of LDR
 

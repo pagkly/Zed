@@ -28,7 +28,7 @@ A vanishing premium is a fee paid for an insurance policy until the cash value o
 
 ## How a Vanishing Premium Works
 
-A vanishing premium provides a holder of a [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) policy with an option to pay [premiums](https://www.investopedia.com/terms/p/premium.asp) from the cash accrued in the policy rather than via payments made by the insured. The premium only vanishes in the sense that the policyholder no longer has to pay it out of pocket after a period of time.
+A vanishing premium provides a holder of a [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) policy with an option to pay [[premiums]](https://www.investopedia.com/terms/p/premium.asp) from the cash accrued in the policy rather than via payments made by the insured. The premium only vanishes in the sense that the policyholder no longer has to pay it out of pocket after a period of time.
 
 The funds for the premiums simply come out of the dividends thrown off by the cash accrued in the investment. This allows the policyholder to put cash otherwise needed for premiums to some other, more lucrative use. It also guarantees the insurance coverage will not lapse, as the premium payments get made automatically.
 
@@ -48,4 +48,4 @@ For example, consider a whole-life insurance policy with a $5,000 premium. In or
 
 [Whole-life policies](https://www.investopedia.com/terms/w/wholelife.asp) typically provide a minimum annual growth number alongside an expected growth number that depends upon the performance of the insurance company's investment portfolio. The minimum growth rate could require significantly more time to reach the threshold needed to make premiums vanish, and that would only work if the interest rate remained high enough to keep the threshold amount of principal in place.
 
-Given that premiums do not vanish so much as they decrease dividend payouts, savvy investors will calculate the total cost of a whole-life investment with vanishing premiums and set it against cheaper options such as [term life](https://www.investopedia.com/terms/t/termlife.asp), calculating potential upside from investing the difference between those two premium prices in another investment vehicle.
+Given that premiums do not vanish so much as they decrease dividend payouts, savvy investors will calculate the total cost of a whole-life investment with vanishing premiums and set it against cheaper options such as [[term life]](https://www.investopedia.com/terms/t/termlife.asp), calculating potential upside from investing the difference between those two premium prices in another investment vehicle.

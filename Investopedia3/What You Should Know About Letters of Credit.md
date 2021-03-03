@@ -16,7 +16,7 @@ author: Julia Kagan
 What You Should Know About Letters of Credit
 ## What Is a Letter of Credit?
 
-A letter of credit, or "credit letter" is a letter from a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount. In the event that the buyer is unable to make a payment on the purchase, the bank will be required to cover the full or remaining amount of the purchase. It may be offered as a [facility](https://www.investopedia.com/terms/f/facility.asp).
+A letter of credit, or "credit letter" is a letter from a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount. In the event that the buyer is unable to make a payment on the purchase, the bank will be required to cover the full or remaining amount of the purchase. It may be offered as a [[facility]](https://www.investopedia.com/terms/f/facility.asp).
 
 Due to the nature of international dealings, including factors such as distance, differing laws in each country, and difficulty in knowing each party personally, the use of letters of credit has become a very important aspect of international trade.
 
@@ -29,7 +29,7 @@ Due to the nature of international dealings, including factors such as distance,
 
 ## How a Letter of Credit Works
 
-Because a letter of credit is typically a [negotiable instrument](https://www.investopedia.com/terms/n/negotiable-instrument.asp), the issuing bank pays the beneficiary or any bank nominated by the beneficiary. If a letter of credit is transferable, the beneficiary may assign another entity, such as a corporate parent or a third party, the right to draw.
+Because a letter of credit is typically a [[negotiable instrument]](https://www.investopedia.com/terms/n/negotiable-instrument.asp), the issuing bank pays the beneficiary or any bank nominated by the beneficiary. If a letter of credit is transferable, the beneficiary may assign another entity, such as a corporate parent or a third party, the right to draw.
 
 Banks typically require a pledge of securities or cash as collateral for issuing a letter of credit.
 
@@ -39,7 +39,7 @@ Banks also collect a fee for service, typically a percentage of the size of the 
 
 ### Commercial Letter of Credit
 
-This is a direct payment method in which the issuing bank makes the payments to the beneficiary. In contrast, a [standby letter of credit](https://www.investopedia.com/terms/s/standbyletterofcredit.asp) is a secondary payment method in which the bank pays the beneficiary only when the holder cannot.
+This is a direct payment method in which the issuing bank makes the payments to the beneficiary. In contrast, a [[standby letter of credit]](https://www.investopedia.com/terms/s/standbyletterofcredit.asp) is a secondary payment method in which the bank pays the beneficiary only when the holder cannot.
 
 ### Revolving Letter of Credit
 

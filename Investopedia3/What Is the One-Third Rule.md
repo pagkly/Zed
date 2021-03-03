@@ -16,9 +16,9 @@ author: Christina Majaski
 What Is the One-Third Rule?
 ## What Is the One-Third Rule?
 
-The one-third rule estimates change in [labor productivity](https://www.investopedia.com/terms/l/labor-productivity.asp) based on changes in capital devoted to labor. The rule is used to determine the impact that changes in technology or capital have on production.
+The one-third rule estimates change in [[labor productivity]](https://www.investopedia.com/terms/l/labor-productivity.asp) based on changes in capital devoted to labor. The rule is used to determine the impact that changes in technology or capital have on production.
 
-Labor productivity is an economic term that describes the cost of a worker's hourly production based on the amount of gross domestic product (GDP) spend to produce that hour of work. In particular, the rule asserts that for an increase of 1% in capital expenditures to labor, a resulting productivity increase of 0.33% will happen. The one-third rule further assumes that all other variables remain static. So, no changes in technology or in [human capital](https://www.investopedia.com/terms/h/humancapital.asp) occur. Human capital is the knowledge and experience a worker has.
+Labor productivity is an economic term that describes the cost of a worker's hourly production based on the amount of gross domestic product (GDP) spend to produce that hour of work. In particular, the rule asserts that for an increase of 1% in capital expenditures to labor, a resulting productivity increase of 0.33% will happen. The one-third rule further assumes that all other variables remain static. So, no changes in technology or in [[human capital]](https://www.investopedia.com/terms/h/humancapital.asp) occur. Human capital is the knowledge and experience a worker has.
 
 Labor productivity can be hard to quantify accurately. While it’s simple enough to draw a connection between the number of goods produced by factory labor in one hour of work, for example, it’s harder to place a value on service. How much is an hour of a waitress’s time worth? What about an hour of an accountant’s? What about a nurse’s? Statisticians can estimate the dollar value of labor in these professions, but without tangible goods to appraise, an exact valuation is impossible.
 
@@ -36,7 +36,7 @@ You could use the equation % Increase in Productivity = 1/3 (% Increase in Physi
 
 ## The Basics of the One-Third Rule
 
-An increase in a country's labor productivity will, in turn, create growth in the real GDP per person. Since productivity indicates the number of goods an average worker can produce in one hour of labor, it may give clues to a country's [standard of living](https://www.investopedia.com/terms/s/standard-of-living.asp).
+An increase in a country's labor productivity will, in turn, create growth in the real GDP per person. Since productivity indicates the number of goods an average worker can produce in one hour of labor, it may give clues to a country's [[standard of living]](https://www.investopedia.com/terms/s/standard-of-living.asp).
 
 For example, during the Industrial Revolution in Europe and the United States, rapid industrial technological advances allowed workers to make great gains in their hourly productivity rates. This increased production led to higher standards of living in Europe and the United States. In general, this happens because, when laborers can produce more goods and services, their wages increase, too.
 

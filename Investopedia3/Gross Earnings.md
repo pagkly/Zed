@@ -16,7 +16,7 @@ author: Will Kenton
 Gross Earnings
 ## What Are Gross Earnings?
 
-Gross earnings, for individuals, refer to the total income earned before the application of any tax deductions or adjustments. For public companies, gross earnings are an [accounting convention](https://www.investopedia.com/terms/a/accounting-convention.asp), referring to the amount left over from total revenues over a specified time period once the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS) has been deducted.
+Gross earnings, for individuals, refer to the total income earned before the application of any tax deductions or adjustments. For public companies, gross earnings are an [[accounting convention]](https://www.investopedia.com/terms/a/accounting-convention.asp), referring to the amount left over from total revenues over a specified time period once the [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS) has been deducted.
 
 -   For individuals, gross earnings refer to the total income earned before taxes have been deducted.
 -   Gross earnings for businesses refer to the amount of revenue left over after the cost of goods sold has been deducted.
@@ -25,7 +25,7 @@ Gross earnings, for individuals, refer to the total income earned before the ap
 
 Gross earnings for an individual are generally the first line of an employee's gross earnings on a paycheck stub. Typically, this is followed by a list of deductions such as income taxes, and the difference between the gross earnings and the deductions is the employee's net income or the amount that appears on his paycheck
 
-To understand individual gross earnings, consider John, who earned a total of $50,000 for the recently completed [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp). He also paid $10,000 in income tax, retirement contributions, and Social Security payments. In this case, his gross earnings are $50,000, and his net earnings are $40,000.
+To understand individual gross earnings, consider John, who earned a total of $50,000 for the recently completed [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp). He also paid $10,000 in income tax, retirement contributions, and Social Security payments. In this case, his gross earnings are $50,000, and his net earnings are $40,000.
 
 ## Gross Earnings and Adjusted Gross Income
 
@@ -35,6 +35,6 @@ The IRS allows taxpayers to take a select number of above-the-line deductions fr
 
 ## Gross Earnings on Business Income Statements
 
-A company's gross earnings are reported periodically on its income statement. The first line of the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) reports a company's total sales and revenues for a given time period, while the COGS and gross earnings often appear on the second and third lines of many income statements. The difference between revenue and COGS is a company's gross earnings. The COGS includes costs directly related to the company's product, such as materials for manufacturing, inventory for shops, and labor costs. Indirect costs are not included in the COGS.
+A company's gross earnings are reported periodically on its income statement. The first line of the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) reports a company's total sales and revenues for a given time period, while the COGS and gross earnings often appear on the second and third lines of many income statements. The difference between revenue and COGS is a company's gross earnings. The COGS includes costs directly related to the company's product, such as materials for manufacturing, inventory for shops, and labor costs. Indirect costs are not included in the COGS.
 
 Once a business has calculated its gross earnings, it may then subtract the rest of its business expenses, including costs such as utilities, loan repayments, office supplies, contractor fees, and many other expenses. The difference between the business's gross earnings and its operating and capital expenses is its profit.

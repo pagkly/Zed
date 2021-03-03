@@ -16,7 +16,7 @@ author: Maya E. Dollarhide
 What Are Per Stirpes?
 ## What Is Per Stirpes?
 
-Per stirpes is a legal term stipulating that should a [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) predecease the testator—the person who has made out the will—the beneficiary's share of the inheritance goes to their heirs. While the term per stirpes is commonly used to refer to an individual's assets under a will, it is sometimes used in beneficiary designations for [individual retirement accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs). While per stirpes and per capita are similar, there are differences. Per capita means that any surviving descendants of the same generation distribute property equally.
+Per stirpes is a legal term stipulating that should a [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp) predecease the testator—the person who has made out the will—the beneficiary's share of the inheritance goes to their heirs. While the term per stirpes is commonly used to refer to an individual's assets under a will, it is sometimes used in beneficiary designations for [[individual retirement accounts]](https://www.investopedia.com/terms/i/ira.asp) (IRAs). While per stirpes and per capita are similar, there are differences. Per capita means that any surviving descendants of the same generation distribute property equally.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Per stirpes is a legal term stipulating that should a [beneficiary](https://www.
 
 Per stirpes, Latin for “by roots” or “by branch,” refers to every person down a family tree beginning from another person. For example, everyone below a mother, such as her children and great-grandchildren, is included in a branch.
 
-Per stirpes often appears in wills and retirement accounts to define asset distributions so each part of a family tree is treated in accordance with the testator or account owner’s wishes. Children may stand as representatives of their parents if a parent passes before the [decedent](https://www.investopedia.com/terms/d/decedent.asp). Spouses are not considered in per stirpes distribution.
+Per stirpes often appears in wills and retirement accounts to define asset distributions so each part of a family tree is treated in accordance with the testator or account owner’s wishes. Children may stand as representatives of their parents if a parent passes before the [[decedent]](https://www.investopedia.com/terms/d/decedent.asp). Spouses are not considered in per stirpes distribution.
 
 ## Per Stirpes vs. Per Capita
 

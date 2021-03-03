@@ -18,7 +18,7 @@ Tender Offer Definition
 
 A tender offer is a bid to purchase some or all of the shareholders' stock in a corporation. Tender offers are typically made publicly and invite shareholders to sell their shares for a specified price and within a particular window of time. The price offered is usually at a premium to the market price and is often contingent upon a minimum or a maximum number of shares sold.
 
-To [tender](https://www.investopedia.com/terms/t/tender.asp) is to invite bids for a project or accept a formal offer such as a [takeover bid](https://www.investopedia.com/articles/stocks/08/corporate-takeover-defense.asp). An exchange offer is a specialized type of tender offer in which securities or other non-cash alternatives are offered in exchange for shares.
+To [[tender]](https://www.investopedia.com/terms/t/tender.asp) is to invite bids for a project or accept a formal offer such as a [takeover bid](https://www.investopedia.com/articles/stocks/08/corporate-takeover-defense.asp). An exchange offer is a specialized type of tender offer in which securities or other non-cash alternatives are offered in exchange for shares.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ To [tender](https://www.investopedia.com/terms/t/tender.asp) is to invite bids f
 
 ## How a Tender Offer Works
 
-A tender offer often occurs when an investor proposes buying shares from every [shareholder](https://www.investopedia.com/terms/s/shareholder.asp) of a publicly traded company for a certain price at a certain time. The investor normally offers a higher price per share than the company’s stock price, providing shareholders a greater incentive to sell their shares.
+A tender offer often occurs when an investor proposes buying shares from every [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) of a publicly traded company for a certain price at a certain time. The investor normally offers a higher price per share than the company’s stock price, providing shareholders a greater incentive to sell their shares.
 
 Most tender offers are made at a specified price that represents a significant premium over the current stock share price. A tender offer might, for instance, be made to purchase outstanding stock shares for $18 a share when the current market price is only $15 a share. The reason for offering the premium is to induce a large number of shareholders to sell their shares. In the case of a takeover attempt, the tender may be conditional on the prospective buyer being able to obtain a certain amount of shares, such as a sufficient number of shares to constitute a controlling interest in the company.
 
-A publicly traded company issues a tender offer with the intent to buy back its own outstanding securities. Sometimes, a privately or publicly traded company executes a tender offer directly to shareholders without the board of directors’ (BOD) consent, resulting in a [hostile takeover](https://www.investopedia.com/terms/h/hostiletakeover.asp). Acquirers include [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp), [private equity](https://www.investopedia.com/terms/p/privateequity.asp) firms, management-led investor groups, and other companies.
+A publicly traded company issues a tender offer with the intent to buy back its own outstanding securities. Sometimes, a privately or publicly traded company executes a tender offer directly to shareholders without the board of directors’ (BOD) consent, resulting in a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp). Acquirers include [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp), [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp) firms, management-led investor groups, and other companies.
 
 The day after the announcement, a target company’s shares trade below or at a discount to the offer price, which is attributed to the uncertainty of and time needed for the offer. As the closing date nears and issues are resolved, the spread typically narrows.
 
@@ -54,4 +54,4 @@ In many instances, investors gain control of target companies in less than one m
 
 ## Disadvantages of a Tender Offer
 
-Although tender offers provide many benefits, there are some noted disadvantages. A tender offer is an expensive way to complete a hostile takeover as investors pay SEC filing fees, attorney costs, and other fees for specialized services. It can be a time-consuming process as [depository](https://www.investopedia.com/terms/d/depository.asp) banks verify tendered shares and issue payments on behalf of the investor. Also, if other investors become involved in a hostile takeover, the offer price increases, and because there are no guarantees, the investor may lose money on the deal.
+Although tender offers provide many benefits, there are some noted disadvantages. A tender offer is an expensive way to complete a hostile takeover as investors pay SEC filing fees, attorney costs, and other fees for specialized services. It can be a time-consuming process as [[depository]](https://www.investopedia.com/terms/d/depository.asp) banks verify tendered shares and issue payments on behalf of the investor. Also, if other investors become involved in a hostile takeover, the offer price increases, and because there are no guarantees, the investor may lose money on the deal.

@@ -26,7 +26,7 @@ A Wells Notice is a notification issued by regulators to inform individuals or c
 
 ## Understanding Wells Notices
 
-The Wells notice is named after the Wells Committee, formed in 1972 by then-SEC Chairman William J. Casey in order to review the enforcement practices and policies of the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC), and chaired by John Wells.3
+The Wells notice is named after the Wells Committee, formed in 1972 by then-SEC Chairman William J. Casey in order to review the enforcement practices and policies of the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC), and chaired by John Wells.3
 
 The receipt of a Wells Notice means that the SEC may bring a civil action against the person or firm named therein, and gives said person or firm the chance to offer information as to why such an action shouldn’t be brought. About 80% of those who received a Wells Notice during the period from 2011 to 2013, for instance, later faced charges for securities law violations.4
 

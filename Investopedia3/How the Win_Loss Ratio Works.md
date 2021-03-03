@@ -32,13 +32,13 @@ The win/loss ratio can also be stated as _winning trades : losing trades._ The w
 
 ## What the Win/Loss Ratio Can Tell You
 
-The win/loss ratio is used mostly by [day traders](https://www.investopedia.com/terms/d/daytrader.asp) to assess their daily wins and losses from trading. It is used with the win-rate, that is, the number of trades won out of total trades, to determine the probability of a trader’s success. A win/loss ratio above 1.0 or a win-rate above 50% is usually favorable.
+The win/loss ratio is used mostly by [[day traders]](https://www.investopedia.com/terms/d/daytrader.asp) to assess their daily wins and losses from trading. It is used with the win-rate, that is, the number of trades won out of total trades, to determine the probability of a trader’s success. A win/loss ratio above 1.0 or a win-rate above 50% is usually favorable.
 
 ## Example of How to Use the Win/Loss Ratio
 
 Assume that you have made 30 trades, of which 12 were winners and 18 were losers. This would make your win/loss ratio 12/18, which reduces to 2/3 or 2:3. In percentage format, the win/loss rate is 12/18 = 2/3 = 0.67, which means that you are losing 67% of the time. Using your total number of trades (30), your win-rate, or probability of success, would be 12/30 = 40%.
 
-The win/loss ratio is used to calculate the [risk/reward ratio](https://www.investopedia.com/terms/r/riskrewardratio.asp), which is the profit potential of a trade relative to its loss potential. The profit potential of a trade is determined by the difference between the [entry price](https://www.investopedia.com/terms/e/entry-point.asp) and the targeted exit price at which a profit will be made. The trade is executed using a stop-loss order set at the target exit price, and the profit is determined by the difference between the entry point and the stop-loss price.
+The win/loss ratio is used to calculate the [[risk/reward ratio]](https://www.investopedia.com/terms/r/riskrewardratio.asp), which is the profit potential of a trade relative to its loss potential. The profit potential of a trade is determined by the difference between the [[entry price]](https://www.investopedia.com/terms/e/entry-point.asp) and the targeted exit price at which a profit will be made. The trade is executed using a stop-loss order set at the target exit price, and the profit is determined by the difference between the entry point and the stop-loss price.
 
 For example, a trader purchases 100 shares of a company for $5.50 and places a stop loss at $5.00. The trader also places a sell limit order to execute when the price hits $6.50. The risk on the trade is $5.50 - $5.00 = $0.50, and the potential profit is $6.50 - $5.50 = $1.00. The trader is, thus, willing to risk $0.50 per share to make a profit of $1.00 per share after closing the position.
 

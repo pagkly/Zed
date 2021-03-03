@@ -26,7 +26,7 @@ A non-qualified stock option (NSO) is a type of [[[Define Employee Stock Option 
 
 ## Breaking Down Non-Qualified Stock Option (NSO)
 
-NSOs are simpler and more common than [incentive stock options (ISOs).](https://www.investopedia.com/terms/i/iso.asp) They are called non-qualified stock options because they do not meet all of the requirements of the [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp) to be qualified as ISOs.2
+NSOs are simpler and more common than [[incentive stock options (ISOs).]](https://www.investopedia.com/terms/i/iso.asp) They are called non-qualified stock options because they do not meet all of the requirements of the [[Internal Revenue Code]](https://www.investopedia.com/terms/i/internal-revenue-code.asp) to be qualified as ISOs.2
 
 ## How Non-Qualified Stocks Are Used
 
@@ -36,12 +36,12 @@ Non-qualified stock options give employees the right, within a designated timefr
 
 Non-qualified stock options often reduce the cash compensation employees earn from employment.
 
-The price of these stock options is typically the same as the market value of the shares when the company makes such options available, also known as the grant date. Employees will have a deadline to exercise these options, known as the expiration date. If the date passes without the [options being exercised](https://www.investopedia.com/ask/answers/06/putoptionexcercise.asp), the employee would lose those options.
+The price of these stock options is typically the same as the market value of the shares when the company makes such options available, also known as the grant date. Employees will have a deadline to exercise these options, known as the expiration date. If the date passes without the [[options being exercised]](https://www.investopedia.com/ask/answers/06/putoptionexcercise.asp), the employee would lose those options.
 
-There is an expectation that the company’s share price will increase over time. That means employees stand potentially to acquire stock at a discount if the grant price—also known as the exercise price—is lower than later market prices. However, the employee will pay income tax against the difference with a [market share price](https://www.investopedia.com/articles/basics/04/100804.asp) of the stock when the option is exercised. Once the options are exercised, the employee can choose to sell the shares immediately or retain them.1
+There is an expectation that the company’s share price will increase over time. That means employees stand potentially to acquire stock at a discount if the grant price—also known as the exercise price—is lower than later market prices. However, the employee will pay income tax against the difference with a [[market share price]](https://www.investopedia.com/articles/basics/04/100804.asp) of the stock when the option is exercised. Once the options are exercised, the employee can choose to sell the shares immediately or retain them.1
 
 Non-qualified stock options (NSOs) allow employees to buy a company’s shares at a preset price.
 
-As with other types of stock options, non-qualified stock options can be a way to reduce the cash compensation that companies pay directly to their employees while also connecting part of their compensation to the growth of the companies. The terms of the options may require employees to wait a period of time for the options to vest. Furthermore, the employee could lose the options if they left the company before the stock options are vested. There might also be [clawback](https://www.investopedia.com/terms/c/clawback.asp) provisions that allow the company to reclaim NSOs for a variety of reasons. This can include insolvency of the company or a buyout.
+As with other types of stock options, non-qualified stock options can be a way to reduce the cash compensation that companies pay directly to their employees while also connecting part of their compensation to the growth of the companies. The terms of the options may require employees to wait a period of time for the options to vest. Furthermore, the employee could lose the options if they left the company before the stock options are vested. There might also be [[clawback]](https://www.investopedia.com/terms/c/clawback.asp) provisions that allow the company to reclaim NSOs for a variety of reasons. This can include insolvency of the company or a buyout.
 
 For smaller and younger businesses with limited resources, such options that can be offered in lieu of salary increases. They can also be used as a recruiting tool to make up for shortcomings in the salaries offered when hiring talent.

@@ -16,21 +16,21 @@ author: James Chen
 North Sea Brent Crude
 ## What is North Sea Brent Crude
 
-North Sea Brent crude is a blended light sweet crude oil recovered from the North Sea in the early 1960s. Brent crude oil has relatively low sulfur content and a relatively high gravity on the [American Petroleum Institute’s](https://www.investopedia.com/terms/a/american-petroleum-institute.asp) standard scale.
+North Sea Brent crude is a blended light sweet crude oil recovered from the North Sea in the early 1960s. Brent crude oil has relatively low sulfur content and a relatively high gravity on the [[American Petroleum Institute’s]](https://www.investopedia.com/terms/a/american-petroleum-institute.asp) standard scale.
 
 Pricing for North Sea Brent crude, classified as a sweet light crude, serves as the most widely used benchmark for other worldwide oil markets.
 
 ## BREAKING DOWN North Sea Brent Crude
 
-North Sea [Brent crude](https://www.investopedia.com/ask/answers/052615/what-difference-between-brent-crude-and-west-texas-intermediate.asp) contains a blend of oils recovered from the oilfield systems in the North Sea.
+North Sea [[Brent crude]](https://www.investopedia.com/ask/answers/052615/what-difference-between-brent-crude-and-west-texas-intermediate.asp) contains a blend of oils recovered from the oilfield systems in the North Sea.
 
-Categorization of this crude is as a light-[sweet crude](https://www.investopedia.com/terms/s/sweetcrude.asp), due to its low density and low sulfur content. Light sweet crude oils are simpler to process into products such as gasoline because they contain a higher proportion of hydrocarbon molecules than other oils. Therefore, they tend to fetch higher prices on [commodity markets](https://www.investopedia.com/terms/c/commodity-market.asp). Sweet crude is a classification of petroleum that contains less than 0.42 percent sulfur. Sulfur is undesirable in crude oils because it lowers the yield of the high-value refined products including gasoline and plastics. 
+Categorization of this crude is as a light-[sweet crude](https://www.investopedia.com/terms/s/sweetcrude.asp), due to its low density and low sulfur content. Light sweet crude oils are simpler to process into products such as gasoline because they contain a higher proportion of hydrocarbon molecules than other oils. Therefore, they tend to fetch higher prices on [[commodity markets]](https://www.investopedia.com/terms/c/commodity-market.asp). Sweet crude is a classification of petroleum that contains less than 0.42 percent sulfur. Sulfur is undesirable in crude oils because it lowers the yield of the high-value refined products including gasoline and plastics. 
 
-[Benchmark crude oil](https://www.investopedia.com/terms/b/benchmark-crude-oil.asp) serves as an investment tool for the industry in setting a point to act as a standard of comparison when evaluating different varieties of crude oil. Another significant benchmark crude is [West Texas Intermediate](https://www.investopedia.com/terms/w/wti.asp) (WTI) which is lighter and sweeter than North Sea Brent crude. WTI futures and options are the most actively traded energy products in the world.
+[Benchmark crude oil](https://www.investopedia.com/terms/b/benchmark-crude-oil.asp) serves as an investment tool for the industry in setting a point to act as a standard of comparison when evaluating different varieties of crude oil. Another significant benchmark crude is [[West Texas Intermediate]](https://www.investopedia.com/terms/w/wti.asp) (WTI) which is lighter and sweeter than North Sea Brent crude. WTI futures and options are the most actively traded energy products in the world.
 
 ## Investing in North Sea Brent Crude
 
-Since the oil crisis of the late 1970s, the vast majority of crude oil commodity sales have taken place on the futures market. Brent futures are available on the Intercontinental Exchange in Europe as well as the [New York Mercantile Exchange](https://www.investopedia.com/terms/n/nymex.asp). Options linked to the North Sea Brent crude benchmark are also widely available.
+Since the oil crisis of the late 1970s, the vast majority of crude oil commodity sales have taken place on the futures market. Brent futures are available on the Intercontinental Exchange in Europe as well as the [[New York Mercantile Exchange]](https://www.investopedia.com/terms/n/nymex.asp). Options linked to the North Sea Brent crude benchmark are also widely available.
 
 Investors typically trade Brent-related commodity contracts either as a hedge or on a speculative basis. Those taking hedge positions include companies that produce and market crude oil, as well as refineries or other entities that process the oil. Hedging strategies for firms in fuel-dependent industries, such as airlines, may also take advantage of Brent-related contracts.
 
@@ -40,6 +40,6 @@ For example, some hedging strategies involve trading on crack spreads related to
 
 This large North Sea deposit is bounded by the United Kingdom, Norway, the Netherlands, Germany, France, Denmark, and Belgium. Active oil fields include the Brent, Forties, Oseberg, Ekofisk and Ninian systems.
 
-Oil was discovered in the area in 1859, but it was not until 1966 that commercial exploration of the fields was undertaken. Commercial exploration grew in the 1970s, just before the [Organization of Petroleum Exporting Countries](https://www.investopedia.com/terms/o/opec.asp)  (OPEC) oil crisis. The first pipeline transportation shortly after 1975. The high quality of the oil, coupled with regional stability of the North Sea area and OPEC oil embargo fears, made the cost of production of the North Sea Brent crude beneficial.
+Oil was discovered in the area in 1859, but it was not until 1966 that commercial exploration of the fields was undertaken. Commercial exploration grew in the 1970s, just before the [[Organization of Petroleum Exporting Countries]](https://www.investopedia.com/terms/o/opec.asp)  (OPEC) oil crisis. The first pipeline transportation shortly after 1975. The high quality of the oil, coupled with regional stability of the North Sea area and OPEC oil embargo fears, made the cost of production of the North Sea Brent crude beneficial.
 
 At the time of exploration, Shell UK Exploration and Production would name production oilfields after birds. The North Sea field derives its name from the brent goose, a North American species.

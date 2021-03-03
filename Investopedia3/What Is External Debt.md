@@ -16,7 +16,7 @@ author: Will Kenton
 What Is External Debt?
 ## What Is External Debt?
 
-External debt is the portion of a country's debt that is borrowed from foreign [lenders](https://www.investopedia.com/terms/l/lender.asp), including commercial banks, governments, or international financial institutions. These loans, including [interest](https://www.investopedia.com/terms/i/interest.asp), must usually be paid in the currency in which the loan was made. To earn the needed [currency](https://www.investopedia.com/terms/c/currency.asp), the borrowing country may sell and export goods to the lending country.
+External debt is the portion of a country's debt that is borrowed from foreign [[lenders]](https://www.investopedia.com/terms/l/lender.asp), including commercial banks, governments, or international financial institutions. These loans, including [[interest]](https://www.investopedia.com/terms/i/interest.asp), must usually be paid in the currency in which the loan was made. To earn the needed [[currency]](https://www.investopedia.com/terms/c/currency.asp), the borrowing country may sell and export goods to the lending country.
 
 ### Key Takeaways:
 
@@ -27,11 +27,11 @@ External debt is the portion of a country's debt that is borrowed from foreign [
 
 ## Understanding External Debt
 
-A [debt crisis](https://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp) can occur if a country with a weak economy is not able to repay the external debt due to an inability to produce and sell goods and make a profitable return. The [International Monetary Fund](https://www.investopedia.com/terms/i/imf.asp) (IMF) is one of the agencies that keeps track of countries' external debt. [The World Bank](https://www.investopedia.com/terms/w/worldbank.asp) publishes a quarterly report on external debt statistics.
+A [[debt crisis]](https://www.investopedia.com/terms/e/european-sovereign-debt-crisis.asp) can occur if a country with a weak economy is not able to repay the external debt due to an inability to produce and sell goods and make a profitable return. The [[International Monetary Fund]](https://www.investopedia.com/terms/i/imf.asp) (IMF) is one of the agencies that keeps track of countries' external debt. [[The World Bank]](https://www.investopedia.com/terms/w/worldbank.asp) publishes a quarterly report on external debt statistics.
 
-If a nation is unable or refuses to repay its external debt, it is said to be in [sovereign default](https://www.investopedia.com/terms/s/sovereign-default.asp). This can lead to the lenders withholding future releases of assets that might be needed by the borrowing nation. Such instances can have a rolling effect. The borrower’s currency may collapse, and the nation’s overall economic growth will stall.
+If a nation is unable or refuses to repay its external debt, it is said to be in [[sovereign default]](https://www.investopedia.com/terms/s/sovereign-default.asp). This can lead to the lenders withholding future releases of assets that might be needed by the borrowing nation. Such instances can have a rolling effect. The borrower’s currency may collapse, and the nation’s overall economic growth will stall.
 
-The conditions of [default](https://www.investopedia.com/terms/d/default2.asp) can make it challenging for a country to repay what it owes plus any penalties the lender has brought against the delinquent nation. Defaults and [bankruptcies](https://www.investopedia.com/terms/b/bankruptcy.asp) in the case of countries are handled differently than defaults and bankruptices in the consumer market. It is possible that countries that default on external debt may potentially avoid having to repay it.
+The conditions of [[default]](https://www.investopedia.com/terms/d/default2.asp) can make it challenging for a country to repay what it owes plus any penalties the lender has brought against the delinquent nation. Defaults and [[bankruptcies]](https://www.investopedia.com/terms/b/bankruptcy.asp) in the case of countries are handled differently than defaults and bankruptices in the consumer market. It is possible that countries that default on external debt may potentially avoid having to repay it.
 
 ### How External Debt Is Used by the Borrower
 

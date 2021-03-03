@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Residual Value
 ## What is Residual Value?
 
-The residual value, also known as [salvage value](https://www.investopedia.com/terms/s/salvagevalue.asp), is the estimated value of a fixed asset at the end of its lease term or useful life. In lease situations, the lessor uses residual value as one of its primary methods for determining how much the lessee pays in periodic lease payments. As a general rule, the longer the useful life or lease period of an asset, the lower its residual value.
+The residual value, also known as [[salvage value]](https://www.investopedia.com/terms/s/salvagevalue.asp), is the estimated value of a fixed asset at the end of its lease term or useful life. In lease situations, the lessor uses residual value as one of its primary methods for determining how much the lessee pays in periodic lease payments. As a general rule, the longer the useful life or lease period of an asset, the lower its residual value.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ The residual value, also known as [salvage value](https://www.investopedia.com/t
 
 ## Understanding Residual Value
 
-Residual value formulas differ across industries, but its general meaning - what remains - is constant. In [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) projects, residual values reflect how much you can sell an asset for after the firm has finished using it or once the asset-generated cash flows can no longer be accurately predicted. For investments, the residual value is calculated as the difference between profits and the cost of capital. In accounting, owner's equity is the residual net assets after the deduction of liabilities. In the field of mathematics, specifically in regression analysis, the residual value is found by subtracting the predicted value from the observed or measured value.
+Residual value formulas differ across industries, but its general meaning - what remains - is constant. In [[capital budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp) projects, residual values reflect how much you can sell an asset for after the firm has finished using it or once the asset-generated cash flows can no longer be accurately predicted. For investments, the residual value is calculated as the difference between profits and the cost of capital. In accounting, owner's equity is the residual net assets after the deduction of liabilities. In the field of mathematics, specifically in regression analysis, the residual value is found by subtracting the predicted value from the observed or measured value.
 
 ## Examples of Residual Value
 
-If you [lease](https://www.investopedia.com/terms/l/lease.asp) a car for three years, its residual value is how much it is worth after three years. The residual value is determined by the bank that issues the lease, and it is based on past models and future predictions. Along with interest rate and tax, the residual value is an important factor in determining the car's monthly lease payments.
+If you [[lease]](https://www.investopedia.com/terms/l/lease.asp) a car for three years, its residual value is how much it is worth after three years. The residual value is determined by the bank that issues the lease, and it is based on past models and future predictions. Along with interest rate and tax, the residual value is an important factor in determining the car's monthly lease payments.
 
-Additionally, consider the example of a business owner whose desk has a useful life of seven years. How much the desk is worth at the end of seven years (its [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) as determined by agreement or appraisal) is its residual value, also known as salvage value. To manage asset-value risk, companies that have numerous expensive fixed assets, such as machine tools, vehicles, or medical equipment, may purchase residual value insurance to guarantee the value of properly maintained assets at the end of their useful lives.
+Additionally, consider the example of a business owner whose desk has a useful life of seven years. How much the desk is worth at the end of seven years (its [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) as determined by agreement or appraisal) is its residual value, also known as salvage value. To manage asset-value risk, companies that have numerous expensive fixed assets, such as machine tools, vehicles, or medical equipment, may purchase residual value insurance to guarantee the value of properly maintained assets at the end of their useful lives.
 
 ## Calculating Depreciation/Amortization Using Residual Value
 

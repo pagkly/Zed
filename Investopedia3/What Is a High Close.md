@@ -30,7 +30,7 @@ A high close occurs at the end of a [trading session](https://www.investopedia.
 
 Since closing prices are widely followed, they can be manipulated by traders to produce the appearance of a rally in a stock. This practice, known as a high close, is especially prevalent with [micro-cap stocks](https://www.investopedia.com/terms/m/microcapstock.asp) that have limited liquidity (since less dollar volume is needed to move the price higher). Closing prices can also inflate the price of stock derivatives that might form the basis of that derivative. Similarly, mutual fund net asset values are also calculated using closing prices.
 
-Most of the manipulation that occurs through high closing happens at the end of a month or quarter. Stocks with low levels of liquidity and a high level of [information asymmetry](https://www.investopedia.com/terms/a/asymmetricinformation.asp) are especially susceptible to manipulation.
+Most of the manipulation that occurs through high closing happens at the end of a month or quarter. Stocks with low levels of liquidity and a high level of [[information asymmetry]](https://www.investopedia.com/terms/a/asymmetricinformation.asp) are especially susceptible to manipulation.
 
 ## Special Considerations
 
@@ -44,7 +44,7 @@ Stock manipulation is the act of artificially inflating or deflating the price o
 
 While illegal, regulators often find these manipulations hard to detect. The manipulator generally sticks with the stocks of smaller companies, as it’s much easier to manipulate their share prices. Penny stocks offer more-frequent targets compared to medium and large-cap firms, which are more closely scrutinized by analysts. Stock manipulation is also called price manipulation, market manipulation, or is simply referred to as manipulation.
 
-In addition to the high close, other kinds of manipulations include the [pump and dump](https://www.investopedia.com/terms/p/pumpanddump.asp), the most frequently used manipulation, which artificially inflates a micro-cap stock and then sells out, leaving later followers to hold the bag. There is also the [poop and scoop](https://www.investopedia.com/terms/p/poopandscoop.asp), the inverse of the pump and dump, which may be less common because it is much more difficult to besmirch the reputation of a solid company with a good reputation than to inflate the reputation of an unknown company.
+In addition to the high close, other kinds of manipulations include the [pump and dump](https://www.investopedia.com/terms/p/pumpanddump.asp), the most frequently used manipulation, which artificially inflates a micro-cap stock and then sells out, leaving later followers to hold the bag. There is also the [[poop and scoop]](https://www.investopedia.com/terms/p/poopandscoop.asp), the inverse of the pump and dump, which may be less common because it is much more difficult to besmirch the reputation of a solid company with a good reputation than to inflate the reputation of an unknown company.
 
 High closing is a form of stock manipulation and it can run afoul of regulators if abused.
 

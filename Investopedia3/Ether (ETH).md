@@ -18,7 +18,7 @@ Ether (ETH)
 
 Ether is the transactional token that facilitates operations on the Ethereum network. All of the programs and services linked with the Ethereum network require computing power (and that computing power is not free). Ether is a form of payment for network participants to execute their requested operations on the network.
 
-While ether can be thought of as the cryptocurrency of the Ethereum network, metaphorically speaking, it is more accurate to refer to it as the "fuel" of the network. Ether tracks and facilitates all transactions in the network. This process is notably different from the workings of a standard [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp). Nevertheless, ether does have some properties that make it similar to other cryptocurrencies, such as bitcoin.
+While ether can be thought of as the cryptocurrency of the Ethereum network, metaphorically speaking, it is more accurate to refer to it as the "fuel" of the network. Ether tracks and facilitates all transactions in the network. This process is notably different from the workings of a standard [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp). Nevertheless, ether does have some properties that make it similar to other cryptocurrencies, such as bitcoin.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The Ethereum technology uses blockchain development to replace the storage of co
 
 The Ethereum model aims to create a situation where the personal data of consumers is less vulnerable to hacking because no one company is storing it. Like other cryptocurrencies, ether is a medium of exchange. However, unlike other cryptocurrencies, ether tokens can only be used for one specific purpose: to facilitate the computation of decentralized applications on the Ethereum network. Users may exchange other cryptocurrencies for ether tokens, but ether tokens cannot be substituted with other cryptocurrencies to provide computing power for Ethereum transactions.
 
-The Ethereum network supports building and running digital, decentralized applications—called [dapps](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)—for business and personal use. The computational resources required to execute these operations are tracked and paid for with ether tokens.
+The Ethereum network supports building and running digital, decentralized applications—called [[dapps]](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)—for business and personal use. The computational resources required to execute these operations are tracked and paid for with ether tokens.
 
 A developer who builds Ethereum applications may need to pay charges to host and execute the applications on the Ethereum network, and a user who uses such applications may need to pay for using the application. Ether acts as a medium to allow for such payments.
 

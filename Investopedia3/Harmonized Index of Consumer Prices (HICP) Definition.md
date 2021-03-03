@@ -16,7 +16,7 @@ author: Adam Hayes
 Harmonized Index of Consumer Prices (HICP) Definition
 ## What Is the Harmonized Index of Consumer Prices (HICP)?
 
-The Harmonized Index of Consumer Prices (HICP) is a list of the final costs paid by European consumers for the items in a [basket](https://www.investopedia.com/terms/b/basket.asp) of common goods. It is a composite measure of [inflation](https://www.investopedia.com/terms/i/inflation.asp) in the Eurozone.
+The Harmonized Index of Consumer Prices (HICP) is a list of the final costs paid by European consumers for the items in a [[basket]](https://www.investopedia.com/terms/b/basket.asp) of common goods. It is a composite measure of [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) in the Eurozone.
 
 ### Key Takeaways
 
@@ -34,6 +34,6 @@ The main goal of the ECB is price stability, which it defines as an annual HIC
 
 ## MUICP Aggregates HICPs
 
-The [Monetary Union Index of Consumer Prices](https://www.investopedia.com/terms/m/muicp.asp) (MUICP) is calculated using the weighted average of the HICP from each country in the euro area. Each country's HICP measures the change over time in the prices of a basket of goods and services acquired, used or paid for by households within that country. All EU countries employ the same HICP methodology, enabling them to be compared to each other and aggregated to calculate the MUICP.
+The [[Monetary Union Index of Consumer Prices]](https://www.investopedia.com/terms/m/muicp.asp) (MUICP) is calculated using the weighted average of the HICP from each country in the euro area. Each country's HICP measures the change over time in the prices of a basket of goods and services acquired, used or paid for by households within that country. All EU countries employ the same HICP methodology, enabling them to be compared to each other and aggregated to calculate the MUICP.
 
 [Eurostat](https://www.investopedia.com/terms/e/europeanunion.asp) collects data provided by the national statistics agency of each member state on price changes and the consumption patterns of consumers within its economy. The HICPs encompass the full range of final consumption expenditure for all types of households to give a timely and relevant picture of inflation, according to Eurostat. The baskets of consumer goods and services and the weightings of each country are updated annually to reflect current spending patterns. Each country's weight represents its share of total household final monetary [consumption expenditure](https://www.investopedia.com/terms/p/pce.asp) in the euro area. The MUICP was launched in 1998 with the 11 EU states that were to become members of the euro area when the [euro](https://www.investopedia.com/terms/e/euro.asp) currency launched on 1 January 1999.

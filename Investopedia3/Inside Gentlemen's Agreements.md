@@ -34,7 +34,7 @@ Gentlemen's agreements have been commonly made in international trade and relati
 
 ## Limitations of a Gentlemen's Agreement
 
-At its worst, a gentlemen's agreement may be made to engage in anti-competitive practices, such as [price-fixing](https://www.investopedia.com/terms/p/pricefixing.asp) or trade quotas. Since a gentlemen's agreement is tacit—not committed to paper as a legal, binding contract—it may be used to create and impose rules that are illegal.
+At its worst, a gentlemen's agreement may be made to engage in anti-competitive practices, such as [[price-fixing]](https://www.investopedia.com/terms/p/pricefixing.asp) or trade quotas. Since a gentlemen's agreement is tacit—not committed to paper as a legal, binding contract—it may be used to create and impose rules that are illegal.
 
 The end result, in many cases, may be higher costs or lower quality products for consumers. Worse yet, a gentlemen's agreement may be used as a means to promote discriminatory practices, such as in an "old boy's network."
 
@@ -44,9 +44,9 @@ The U.S. government placed a prohibition on gentlemen's agreements in trade and 
 
 ## History and Examples of Gentlemen's Agreements
 
-Gentlemen's agreements between industry and the U.S. government were common in the 1800s and early 1900s. The Bureau of Corporations, a predecessor to the [Federal Trade Commission](https://www.investopedia.com/terms/f/ftc.asp), was formed in 1903 to investigate monopolistic practices.
+Gentlemen's agreements between industry and the U.S. government were common in the 1800s and early 1900s. The Bureau of Corporations, a predecessor to the [[Federal Trade Commission]](https://www.investopedia.com/terms/f/ftc.asp), was formed in 1903 to investigate monopolistic practices.
 
-What resulted, in some cases, were gentlemen's agreements in which Wall Street financiers, such as J.P. Morgan and his "House of Morgan," would meet with the bureau to receive prior clearance on mergers and takeovers. One such example was the gentlemen's agreement that had regulators and the President overlook the [Sherman Antitrust Act](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp) to allow United States Steel Corp. to become the world's first billion-dollar company.
+What resulted, in some cases, were gentlemen's agreements in which Wall Street financiers, such as J.P. Morgan and his "House of Morgan," would meet with the bureau to receive prior clearance on mergers and takeovers. One such example was the gentlemen's agreement that had regulators and the President overlook the [[Sherman Antitrust Act]](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp) to allow United States Steel Corp. to become the world's first billion-dollar company.
 
 In [1907, a stock market panic](https://www.investopedia.com/terms/b/bank-panic-of-1907.asp) that hit several big investment banks led to a financial crisis. The panic led to President Theodore Roosevelt working closely with J.P. Morgan to consolidate banks under the argument that doing so would stave off a larger crisis.
 

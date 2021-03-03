@@ -16,13 +16,13 @@ author: Will Kenton
 How Variable Cost-Plus Pricing Works
 ## What Is Variable Cost-Plus Pricing?
 
-Variable cost-plus pricing is a pricing method whereby the selling price is established by adding a [markup](https://www.investopedia.com/terms/m/markup.asp) to total [variable costs](https://www.investopedia.com/terms/v/variablecost.asp). The expectation is that the markup will contribute to meeting all or a part of the [fixed costs](https://www.investopedia.com/terms/f/fixedcost.asp) and yield some level of [profit](https://www.investopedia.com/terms/p/profit.asp). Variable cost-plus pricing is particularly useful in competitive scenarios, such as [contract bidding](https://www.investopedia.com/terms/c/competitivebid.asp), but it is not suitable in situations where fixed costs are a major component of total costs.
+Variable cost-plus pricing is a pricing method whereby the selling price is established by adding a [[markup]](https://www.investopedia.com/terms/m/markup.asp) to total [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp). The expectation is that the markup will contribute to meeting all or a part of the [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp) and yield some level of [[profit]](https://www.investopedia.com/terms/p/profit.asp). Variable cost-plus pricing is particularly useful in competitive scenarios, such as [[contract bidding]](https://www.investopedia.com/terms/c/competitivebid.asp), but it is not suitable in situations where fixed costs are a major component of total costs.
 
 Variable cost-plus pricing is not suitable for a company that has significant fixed costs or fixed costs that increase if more units are produced; any markup on the variable costs on top of the fixed costs per unit might result in an unsustainable price for the product.
 
 ## How Variable Cost-Plus Pricing Works
 
-Variable costs include direct labor, direct materials, and other expenses that change in proportion to production output. A firm employing the variable cost-plus pricing method would first calculate the [variable costs](https://www.investopedia.com/articles/stocks/06/opleverage.asp) per unit, then add a mark-up to cover fixed costs per unit and generate a targeted profit margin.
+Variable costs include direct labor, direct materials, and other expenses that change in proportion to production output. A firm employing the variable cost-plus pricing method would first calculate the [[variable costs]](https://www.investopedia.com/articles/stocks/06/opleverage.asp) per unit, then add a mark-up to cover fixed costs per unit and generate a targeted profit margin.
 
 For example, assume that total variable costs for manufacturing one unit of a product are $10. The firm estimates that fixed costs per unit are $4. To cover the fixed costs and leave a profit per unit of $1, the firm would price the unit at $15.
 
@@ -30,7 +30,7 @@ This type of pricing method is purely inward-looking. It does not incorporate be
 
 ### The Appropriate Use of Variable Cost-Plus Pricing
 
-This method of pricing can be suitable for a company when a high proportion of total costs are variable. A company can be confident that its markup will cover fixed costs per unit. If the [ratio of variable costs](https://www.investopedia.com/terms/v/variable-cost-ratio.asp) to fixed costs is low, meaning that there are considerable fixed costs that go up as more units are produced, the pricing of a product may end up being inaccurate and unsustainable for the company to make a profit.
+This method of pricing can be suitable for a company when a high proportion of total costs are variable. A company can be confident that its markup will cover fixed costs per unit. If the [[ratio of variable costs]](https://www.investopedia.com/terms/v/variable-cost-ratio.asp) to fixed costs is low, meaning that there are considerable fixed costs that go up as more units are produced, the pricing of a product may end up being inaccurate and unsustainable for the company to make a profit.
 
 Variable cost-plus pricing may also be suitable for companies that have excess capacity. In other words, a company that would not incur additional fixed costs per unit by incrementally increasing production. Variable costs, in this case, would compose most of the total costs (e.g., no additional factory space would need to be rented for extra production), and adding a markup on the variable costs would provide a profit margin.
 

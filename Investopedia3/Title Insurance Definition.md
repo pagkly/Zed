@@ -16,7 +16,7 @@ author: Adam Hayes
 Title Insurance Definition
 ## What Is Title Insurance?
 
-[Title](https://www.investopedia.com/terms/t/title.asp) insurance is a form of [indemnity insurance](https://www.investopedia.com/terms/i/indemnity_insurance.asp) that protects lenders and homebuyers from financial loss sustained from [defects in a title](https://www.investopedia.com/terms/b/bad-title.asp) to a property. The most common type of title insurance is lender's title insurance, which the borrower purchases to protect the lender. The other type is owner's title insurance, which is often paid for by the seller to protect the buyer's equity in the property.
+[Title](https://www.investopedia.com/terms/t/title.asp) insurance is a form of [[indemnity insurance]](https://www.investopedia.com/terms/i/indemnity_insurance.asp) that protects lenders and homebuyers from financial loss sustained from [[defects in a title]](https://www.investopedia.com/terms/b/bad-title.asp) to a property. The most common type of title insurance is lender's title insurance, which the borrower purchases to protect the lender. The other type is owner's title insurance, which is often paid for by the seller to protect the buyer's equity in the property.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Title Insurance Definition
 
 ## Understanding Title Insurance
 
-A [clear title](https://www.investopedia.com/terms/c/clear-title.asp) is necessary for any real estate transaction. Title companies must do a search on every title in order to check for claims or liens of any kind against them before they can be issued.1
+A [[clear title]](https://www.investopedia.com/terms/c/clear-title.asp) is necessary for any real estate transaction. Title companies must do a search on every title in order to check for claims or liens of any kind against them before they can be issued.1
 
 A title search is an examination of public records to determine and confirm a property's legal ownership and to find out whether there are any claims are on the property. Erroneous surveys and unresolved building code violations are two examples of blemishes that can make the title "dirty."1
 
-Title insurance protects both lenders and homebuyers against loss or damage occurring from liens, encumbrances, or defects in the title or actual ownership of a property. Common claims filed against a title are back taxes, liens (from mortgage loans, [home equity lines of credit (HELOC)](https://www.investopedia.com/terms/h/home_equity.asp), and [easements](https://www.investopedia.com/terms/e/easement.asp)), and conflicting wills. Unlike traditional insurance, which protects against future events, title insurance protects against claims for past occurrences.1
+Title insurance protects both lenders and homebuyers against loss or damage occurring from liens, encumbrances, or defects in the title or actual ownership of a property. Common claims filed against a title are back taxes, liens (from mortgage loans, [[home equity lines of credit (HELOC)]](https://www.investopedia.com/terms/h/home_equity.asp), and [[easements]](https://www.investopedia.com/terms/e/easement.asp)), and conflicting wills. Unlike traditional insurance, which protects against future events, title insurance protects against claims for past occurrences.1
 
 A basic owner's basic title insurance policy typically covers the following hazards:2
 
@@ -40,21 +40,21 @@ A basic owner's basic title insurance policy typically covers the following haza
 -   Restrictive covenants (terms that reduce value or enjoyment), such as unrecorded easements
 -   Encumbrances or judgments against property, such as outstanding lawsuits and liens
 
-In lieu of title insurance, some private transactions can involve a [warranty of title](https://www.investopedia.com/terms/w/warranty-title.asp), which is a guarantee by a seller to a buyer that the seller has the right to transfer ownership and no one else has rights to the property.
+In lieu of title insurance, some private transactions can involve a [[warranty of title]](https://www.investopedia.com/terms/w/warranty-title.asp), which is a guarantee by a seller to a buyer that the seller has the right to transfer ownership and no one else has rights to the property.
 
 ## Types of Title Insurance
 
 There are two types of title insurance: lender's title insurance and owner's title insurance (including extended policies). Almost all lenders require the borrower to purchase a lender's title insurance policy to protect the lender in the event the seller was not legally able to transfer the title of ownership rights. A lender's policy only protects the lender against loss. An issued policy signifies the completion of a title search, offering some assurance to the buyer.1
 
-Since [title searches](https://www.investopedia.com/terms/t/titlesearch.asp) are not infallible and the owner remains at risk of financial loss, there is a need for additional protection in the form of an owner's title insurance policy. Owner's title insurance, often purchased by the seller to protect the buyer against defects in the title, is optional.1
+Since [[title searches]](https://www.investopedia.com/terms/t/titlesearch.asp) are not infallible and the owner remains at risk of financial loss, there is a need for additional protection in the form of an owner's title insurance policy. Owner's title insurance, often purchased by the seller to protect the buyer against defects in the title, is optional.1
 
 ## Purchasing Title Insurance
 
-An [escrow](https://www.investopedia.com/terms/e/escrow.asp) or closing agent initiates the insurance process upon completion of the property purchase agreement. There are four major U.S. title insurance underwriters: Fidelity National Financial, First American Title Insurance Company, Old Republic National Title Insurance Company, and Stewart Title Guaranty Company. There are also regional title insurance companies from which to choose.
+An [[escrow]](https://www.investopedia.com/terms/e/escrow.asp) or closing agent initiates the insurance process upon completion of the property purchase agreement. There are four major U.S. title insurance underwriters: Fidelity National Financial, First American Title Insurance Company, Old Republic National Title Insurance Company, and Stewart Title Guaranty Company. There are also regional title insurance companies from which to choose.
 
 The cost of owner's title insurance ranges between $500 and $3,500, depending on the state in which you live, the insurance provider you choose, and the purchase price of your home.3
 
-Often, a lender's policy and an owner's policy are required together to guarantee everyone is adequately protected. At closing, the parties purchase title insurance for a one-time fee. To prevent abuse, the [Real Estate Settlement Procedures Act (RESPA)](https://www.investopedia.com/terms/r/real-estate-settlement-procedures-act-respa.asp) prohibits sellers from requiring purchase from a specific title insurance carrier.4
+Often, a lender's policy and an owner's policy are required together to guarantee everyone is adequately protected. At closing, the parties purchase title insurance for a one-time fee. To prevent abuse, the [[Real Estate Settlement Procedures Act (RESPA)]](https://www.investopedia.com/terms/r/real-estate-settlement-procedures-act-respa.asp) prohibits sellers from requiring purchase from a specific title insurance carrier.4
 
 While your lender, lawyer, or real estate agent may recommend a title insurance company, it's always a good idea to comparison shop.
 

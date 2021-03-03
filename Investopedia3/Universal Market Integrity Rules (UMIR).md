@@ -32,4 +32,4 @@ The IIROC surveys the market and analyzes trading to ensure that trading compli
 
 According to the Canadian Securities Exchange (CSE), traders who are members with a good track record with IIROC and who are also registered with a Canadian securities regulatory authority can apply to gain access to trade on the CSE.
 
-The IIROC amends UMIR rules from time to time. For example, in 2015 the IIROC proposed amendments to the rules after a proposal by [Canada Securities Administrator](https://www.investopedia.com/terms/c/csa.asp) (CSA) to clarify the interpretation of a protected order. The CSA proposed that orders that implement a systematic order processing delay, or a “speed bump,” would not be considered protected orders.
+The IIROC amends UMIR rules from time to time. For example, in 2015 the IIROC proposed amendments to the rules after a proposal by [[Canada Securities Administrator]](https://www.investopedia.com/terms/c/csa.asp) (CSA) to clarify the interpretation of a protected order. The CSA proposed that orders that implement a systematic order processing delay, or a “speed bump,” would not be considered protected orders.

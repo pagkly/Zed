@@ -20,9 +20,9 @@ A gift card is a prepaid debit card that contains a specific amount of money ava
 
 ## How a Gift Card Works
 
-Gift cards are a [form](https://www.investopedia.com/ask/answers/101314/what-difference-between-prepaid-credit-card-and-gift-card.asp) of prepaid debit cards loaded with funds for future use. There are generally two types of gift cards: open loop and closed loop cards. Both types can typically be used online and in person.
+Gift cards are a [[form]](https://www.investopedia.com/ask/answers/101314/what-difference-between-prepaid-credit-card-and-gift-card.asp) of prepaid debit cards loaded with funds for future use. There are generally two types of gift cards: open loop and closed loop cards. Both types can typically be used online and in person.
 
-Many gift cards will have a minimum and maximum initial loading amount. A common minimum is $10, and a common maximum is $500. In some situations, they can be used to pay for a portion of a purchase with cash, [debit](https://www.investopedia.com/terms/d/debitcard.asp) or credit used to balance the expense. As a precaution to mitigate the risk of losses, many gift cards can also be registered online—a procedure which allows the remaining balance to be tracked and frozen if a card is lost. In this way, some gift cards are safer than cash.
+Many gift cards will have a minimum and maximum initial loading amount. A common minimum is $10, and a common maximum is $500. In some situations, they can be used to pay for a portion of a purchase with cash, [[debit]](https://www.investopedia.com/terms/d/debitcard.asp) or credit used to balance the expense. As a precaution to mitigate the risk of losses, many gift cards can also be registered online—a procedure which allows the remaining balance to be tracked and frozen if a card is lost. In this way, some gift cards are safer than cash.
 
 A gift card is a type of prepaid debit card loaded with funds for future use.
 
@@ -50,7 +50,7 @@ The projected size of the global gift card market by 2025, according to Persiste
 
 [Open loop cards](https://www.investopedia.com/terms/o/open-loop-card.asp) offer the equivalent of cash – or more precisely, a credit or debit card that can be used at any merchant where that card is accepted, as well as online. Many of the major charge or credit card issuers/processors, like American Express, Visa, Discover, and MasterCard, offer open loop gift cards. These cards will display the payment processor’s logo and can be used to make all types of electronic payments nearly anywhere.
 
-Open loop gift cards also have the advantage of serving as a standard prepaid card. These cards are usually reloadable allowing the user to add funds on their own as well. Open loop cards will sometimes require an activation [fee](https://www.investopedia.com/terms/f/fee.asp) of approximately $5, which must be paid at the time the card is purchased.
+Open loop gift cards also have the advantage of serving as a standard prepaid card. These cards are usually reloadable allowing the user to add funds on their own as well. Open loop cards will sometimes require an activation [[fee]](https://www.investopedia.com/terms/f/fee.asp) of approximately $5, which must be paid at the time the card is purchased.
 
 ### 3 Out of 4
 
@@ -58,4 +58,4 @@ Loyalty-program redemptions that are in plastic, vs. digital, gift cards.
 
 ## Digital Gift Cards
 
-Gift cards debuted in 1994, according to [Mageplaza](https://www.mageplaza.com/blog/gift-card-statistics.html), an extension marketplace of the open-source-commerce platform Magento. And they are growing at an annual rate of 200%, comparing to about 6% for gift cards overall. Increasingly, many merchants are opting to offer eGift cards to customers: Upscale department stores such as Saks Fifth Avenue and Bergdorf Goodman, for example, send bonus gift cards to their loyalty program members (who have spent a certain amount during a promotion or over a certain time period). However, 75% of the volume in gift card program redemptions is still in physical cards versus 25%for digital gift cards, according to a [National Gift Card Corp](https://www.ngc-group.com/). (NGC) 2018 industry survey.
+Gift cards debuted in 1994, according to [[Mageplaza]](https://www.mageplaza.com/blog/gift-card-statistics.html), an extension marketplace of the open-source-commerce platform Magento. And they are growing at an annual rate of 200%, comparing to about 6% for gift cards overall. Increasingly, many merchants are opting to offer eGift cards to customers: Upscale department stores such as Saks Fifth Avenue and Bergdorf Goodman, for example, send bonus gift cards to their loyalty program members (who have spent a certain amount during a promotion or over a certain time period). However, 75% of the volume in gift card program redemptions is still in physical cards versus 25%for digital gift cards, according to a [[National Gift Card Corp]](https://www.ngc-group.com/). (NGC) 2018 industry survey.

@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does “Market Approach” Mean?
 ## What Is the Market Approach?
 
-The market approach is a method of determining the value of an asset based on the selling price of similar assets. It is one of three popular valuation methods, along with the [cost approach](https://www.investopedia.com/terms/c/cost-approach.asp) and [discounted cash-flow analysis](https://www.investopedia.com/terms/d/dcf.asp) (DCF).
+The market approach is a method of determining the value of an asset based on the selling price of similar assets. It is one of three popular valuation methods, along with the [[cost approach]](https://www.investopedia.com/terms/c/cost-approach.asp) and [[discounted cash-flow analysis]](https://www.investopedia.com/terms/d/dcf.asp) (DCF).
 
-Regardless of the type of asset being valued, the market approach studies recent sales of similar assets, making adjustments for the differences between them. For example, when [appraising real estate](https://www.investopedia.com/articles/realestate/12/real-estate-valuation.asp), adjustments might be made for factors such as the square footage of the unit, the age and location of the building, and its amenities.
+Regardless of the type of asset being valued, the market approach studies recent sales of similar assets, making adjustments for the differences between them. For example, when [[appraising real estate]](https://www.investopedia.com/articles/realestate/12/real-estate-valuation.asp), adjustments might be made for factors such as the square footage of the unit, the age and location of the building, and its amenities.
 
 Because the market approach relies on comparisons to similar assets, it is most useful when there is substantial data available regarding recent sales of comparable assets.
 
@@ -30,13 +30,13 @@ Because the market approach relies on comparisons to similar assets, it is most 
 
 ## How the Market Approach Works
 
-As its name suggests, the market approach seeks to answer the question, “what is the [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of this asset?” To answer this question, the valuator needs to survey recent transactions involving similar assets. Because these assets are unlikely to be identical to the one being valued, various adjustments will need to be made.
+As its name suggests, the market approach seeks to answer the question, “what is the [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of this asset?” To answer this question, the valuator needs to survey recent transactions involving similar assets. Because these assets are unlikely to be identical to the one being valued, various adjustments will need to be made.
 
-In some markets, such as residential real estate or publicly traded shares, there is often ample data available, making the market approach relatively easy to employ. In other markets, such as shares in private businesses or [alternative investments](https://www.investopedia.com/terms/a/alternative_investment.asp) such as fine art or wine, it can become quite difficult to find comparable transactions.
+In some markets, such as residential real estate or publicly traded shares, there is often ample data available, making the market approach relatively easy to employ. In other markets, such as shares in private businesses or [[alternative investments]](https://www.investopedia.com/terms/a/alternative_investment.asp) such as fine art or wine, it can become quite difficult to find comparable transactions.
 
 In situations where limited data is available, the valuator may need to rely on alternative methods such as the cost approach or discounted cash-flow analysis (DCF).
 
-The primary advantages of the market approach are that it is based on publicly available data on [comparable transactions](https://www.investopedia.com/terms/c/comparable-transaction.asp). As such, it can require fewer subjective assumptions than alternative approaches. The primary disadvantage of the market approach is that it can be impractical in situations where few if any comparable transactions exist, such as in the case of a private company operating in a niche market with few competitors.
+The primary advantages of the market approach are that it is based on publicly available data on [[comparable transactions]](https://www.investopedia.com/terms/c/comparable-transaction.asp). As such, it can require fewer subjective assumptions than alternative approaches. The primary disadvantage of the market approach is that it can be impractical in situations where few if any comparable transactions exist, such as in the case of a private company operating in a niche market with few competitors.
 
 ## Example of the Market Approach
 

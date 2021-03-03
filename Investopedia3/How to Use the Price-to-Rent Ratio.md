@@ -32,11 +32,11 @@ The price-to-rent ratio is calculated by dividing the median home price by the m
 
 ## What the Price-to-Rent Ratio Can Tell You
 
-The price-to-rent ratio is used as an indicator for whether housing markets are fairly valued, or in a bubble. The dramatic increase in the ratio leading up to the [2008-2009 housing market crash](https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp) was, with hindsight, a red flag for the housing bubble. Trulia produces a price-to-rent ratio called the Trulia Rent Versus Buy Index, which compares the total costs of [homeownership](https://www.investopedia.com/articles/mortgages-real-estate/08/first-time-homebuyer-guide.asp) with the total cost of renting a similar property.
+The price-to-rent ratio is used as an indicator for whether housing markets are fairly valued, or in a bubble. The dramatic increase in the ratio leading up to the [2008-2009 housing market crash](https://www.investopedia.com/articles/economics/09/subprime-market-2008.asp) was, with hindsight, a red flag for the housing bubble. Trulia produces a price-to-rent ratio called the Trulia Rent Versus Buy Index, which compares the total costs of [[homeownership]](https://www.investopedia.com/articles/mortgages-real-estate/08/first-time-homebuyer-guide.asp) with the total cost of renting a similar property.
 
-The total cost of homeownership factors in mortgage principal and interest, property taxes, insurance, closing costs, [homeowners association](https://www.investopedia.com/terms/h/hoa.asp) (HOA), mortgage insurance, and tax advantages, such as the mortgage interest deduction.
+The total cost of homeownership factors in mortgage principal and interest, property taxes, insurance, closing costs, [[homeowners association]](https://www.investopedia.com/terms/h/hoa.asp) (HOA), mortgage insurance, and tax advantages, such as the mortgage interest deduction.
 
-Trulia established thresholds for the ratios as follows: a price-to-rent ratio of 1 to 15 indicates it is much better to buy than rent; a price-to-rent ratio of 16 to 20 indicates it is typically better to rent than buy, and a price-to-rent ratio of 21 or more indicates it is much [better to rent than buy.](https://www.investopedia.com/financial-edge/1112/reasons-renting-is-better-than-buying.aspx)1
+Trulia established thresholds for the ratios as follows: a price-to-rent ratio of 1 to 15 indicates it is much better to buy than rent; a price-to-rent ratio of 16 to 20 indicates it is typically better to rent than buy, and a price-to-rent ratio of 21 or more indicates it is much [[better to rent than buy.]](https://www.investopedia.com/financial-edge/1112/reasons-renting-is-better-than-buying.aspx)1
 
 ## Special Considerations
 

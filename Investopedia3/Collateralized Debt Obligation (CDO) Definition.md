@@ -16,7 +16,7 @@ author: Carla Tardi
 Collateralized Debt Obligation (CDO) Definition
 ## What Is a Collateralized Debt Obligation (CDO)?
 
-A collateralized debt obligation (CDO) is a complex structured finance product that is backed by a pool of loans and other assets and sold to institutional investors. A CDO is a particular type of [derivative](https://www.investopedia.com/terms/d/derivative.asp) because, as its name implies, its value is _derived_ from another underlying asset. These assets become the collateral if the loan defaults.
+A collateralized debt obligation (CDO) is a complex structured finance product that is backed by a pool of loans and other assets and sold to institutional investors. A CDO is a particular type of [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) because, as its name implies, its value is _derived_ from another underlying asset. These assets become the collateral if the loan defaults.
 
 #### A Primer On Collateralized Debt Obligation (CDOs)
 
@@ -26,17 +26,17 @@ To create a CDO, investment banks gather cash flow-generating assets—such as m
 
 ### Types of CDOs
 
-These tranches of securities become the final investment products: bonds, whose names can reflect their specific underlying assets. For example, [mortgage-backed securities (MBS)](https://www.investopedia.com/terms/m/mbs.asp) are comprised of mortgage loans, and asset-backed securities (ABS) contain corporate debt, auto loans, or credit card debt. CDOs are called "collateralized" because the promised repayments of the underlying assets are the collateral that gives the CDOs their value.
+These tranches of securities become the final investment products: bonds, whose names can reflect their specific underlying assets. For example, [[mortgage-backed securities (MBS)]](https://www.investopedia.com/terms/m/mbs.asp) are comprised of mortgage loans, and asset-backed securities (ABS) contain corporate debt, auto loans, or credit card debt. CDOs are called "collateralized" because the promised repayments of the underlying assets are the collateral that gives the CDOs their value.
 
 Other types of CDOs include collateralized bond obligations (CBOs)—investment-grade bonds that are backed by a pool of high-yield but lower-rated bonds, and collateralized loan obligations (CLOs)—single securities that are backed by a pool of debt, that often contain corporate loans with a low credit rating. 
 
 ### How Are CDOs Structured?
 
-The tranches of CDOs are named to reflect their risk profiles; for example, senior debt, mezzanine debt, and junior debt—pictured in the sample below along with their [Standard and Poor's (S&P) credit ratings](https://www.investopedia.com/terms/s/sp.asp). But the actual structure varies depending on the individual product.
+The tranches of CDOs are named to reflect their risk profiles; for example, senior debt, mezzanine debt, and junior debt—pictured in the sample below along with their [[Standard and Poor's (S&P) credit ratings]](https://www.investopedia.com/terms/s/sp.asp). But the actual structure varies depending on the individual product.
 
 Image by Sabrina Jiang © Investopedia 2020
 
-In the table, note that the higher the credit rating, the lower the [coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp) (rate of interest the bond pays annually). If the loan defaults, the senior bondholders get paid first from the collateralized pool of assets, followed by bondholders in the other tranches according to their credit ratings; the lowest-rated credit is paid last.
+In the table, note that the higher the credit rating, the lower the [[coupon rate]](https://www.investopedia.com/terms/c/coupon-rate.asp) (rate of interest the bond pays annually). If the loan defaults, the senior bondholders get paid first from the collateralized pool of assets, followed by bondholders in the other tranches according to their credit ratings; the lowest-rated credit is paid last.
 
 The senior tranches are generally safest because they have the first claim on the collateral. Although the senior debt is usually rated higher than the junior tranches, it offers lower coupon rates. Conversely, the junior debt offers higher coupons (more interest) to compensate for their greater risk of default; but because they are riskier, they generally come with lower credit ratings.
 
@@ -60,7 +60,7 @@ Collateralized debt obligations are complicated, and numerous professionals have
 
 ## A Brief History of CDOs
 
-The earliest CDOs were constructed in 1987 by the former investment bank, Drexel Burnham Lambert—where [Michael Milken](https://www.investopedia.com/terms/m/michaelmilken.asp), then called the "junk bond king," reigned.1 The Drexel bankers created these early CDOs by assembling portfolios of junk bonds, issued by different companies. Ultimately, other securities firms launched CDOs containing other assets that had more predictable income streams, such as automobile loans, student loans, credit card receivables, and aircraft leases. However, CDOs remained a niche product until 2003–04, when the U.S. housing boom led CDO issuers to turn their attention to subprime mortgage-backed securities as a new source of collateral for CDOs.2
+The earliest CDOs were constructed in 1987 by the former investment bank, Drexel Burnham Lambert—where [[Michael Milken]](https://www.investopedia.com/terms/m/michaelmilken.asp), then called the "junk bond king," reigned.1 The Drexel bankers created these early CDOs by assembling portfolios of junk bonds, issued by different companies. Ultimately, other securities firms launched CDOs containing other assets that had more predictable income streams, such as automobile loans, student loans, credit card receivables, and aircraft leases. However, CDOs remained a niche product until 2003–04, when the U.S. housing boom led CDO issuers to turn their attention to subprime mortgage-backed securities as a new source of collateral for CDOs.2
 
 ## CDOs and the Global Financial Crisis
 

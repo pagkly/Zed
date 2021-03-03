@@ -16,7 +16,7 @@ author: Will Kenton
 Vertical Merger Definition
 ## What Is a Vertical Merger?
 
-A vertical merger is the [merger](https://www.investopedia.com/articles/stocks/09/merger-acquisitions-types.asp) of two or more companies that provide different supply chain functions for a common good or service. Most often, the merger is effected to increase [synergies](https://www.investopedia.com/terms/s/synergy.asp), gain more control of the supply chain process, and ramp up business. A vertical merger often results in reduced costs and increased productivity and efficiency.
+A vertical merger is the [[merger]](https://www.investopedia.com/articles/stocks/09/merger-acquisitions-types.asp) of two or more companies that provide different supply chain functions for a common good or service. Most often, the merger is effected to increase [[synergies]](https://www.investopedia.com/terms/s/synergy.asp), gain more control of the supply chain process, and ramp up business. A vertical merger often results in reduced costs and increased productivity and efficiency.
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ The synergies can include operational synergies, which can be improvements in th
 
 ### Financial Synergies
 
-Financial synergies can be realized, which might involve access to credit or capital by one of the companies. For example, a supplier might have debt on its balance sheet leading to reduced access to a borrowing credit facility from a bank. As a result, the supplier might experience a shortage of [cash flow](https://www.investopedia.com/investing/read-corporate-cash-flow-statement/). On the other hand, the producer could have less debt, more cash, or access to credit, such as a bank. The producer could help the supplier by paying down debt, providing access to cash, and a borrowing facility that the supplier needs to run more efficiently.
+Financial synergies can be realized, which might involve access to credit or capital by one of the companies. For example, a supplier might have debt on its balance sheet leading to reduced access to a borrowing credit facility from a bank. As a result, the supplier might experience a shortage of [[cash flow]](https://www.investopedia.com/investing/read-corporate-cash-flow-statement/). On the other hand, the producer could have less debt, more cash, or access to credit, such as a bank. The producer could help the supplier by paying down debt, providing access to cash, and a borrowing facility that the supplier needs to run more efficiently.
 
 ### Management Efficiencies
 
@@ -50,20 +50,20 @@ Improvements could include a consolidation or reduction of the executive managem
 
 ## Vertical Merger vs. Vertical Integration
 
-Although the terms vertical merger and [vertical integration](https://www.investopedia.com/terms/v/verticalintegration.asp) are often used interchangeably, they are not exactly the same. Vertical integration—the expansion of operations into other stages of the [supply chain](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) process—can occur without merging two businesses. For example, with vertical integration, a ladder manufacturing company could decide to produce its own aluminum for the end product instead of purchasing it from suppliers. A vertical merger, on the other hand, would result in the manufacturing company and the supplier merging.
+Although the terms vertical merger and [[vertical integration]](https://www.investopedia.com/terms/v/verticalintegration.asp) are often used interchangeably, they are not exactly the same. Vertical integration—the expansion of operations into other stages of the [[supply chain]](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) process—can occur without merging two businesses. For example, with vertical integration, a ladder manufacturing company could decide to produce its own aluminum for the end product instead of purchasing it from suppliers. A vertical merger, on the other hand, would result in the manufacturing company and the supplier merging.
 
-The opposite of a vertical merger is a [horizontal merger](https://www.investopedia.com/terms/h/horizontalmerger.asp), which involves the merger of two competing companies that produce at the same stage in the supply chain process.
+The opposite of a vertical merger is a [[horizontal merger]](https://www.investopedia.com/terms/h/horizontalmerger.asp), which involves the merger of two competing companies that produce at the same stage in the supply chain process.
 
 ## The Vertical Merger Controversy
 
 Vertical mergers are not without controversy. [Anti-trust violations](https://www.investopedia.com/ask/answers/09/antitrust-law.asp) are often cited when vertical mergers are planned or occur because of the probability of reduced market competition. Vertical mergers could be used to block competitors from accessing raw materials or completing certain stages within the supply chain.
 
-Consider the earlier example of the car manufacturer purchasing a tire manufacturer. Suppose this same car manufacturer purchased most of the tire manufacturers in the industry. It then could control the supply to the market as well as the price, thus destroying fair, or ["perfect" competition](https://www.investopedia.com/ask/answers/040915/what-difference-between-monopolistic-market-and-perfect-competition.asp). Moreover, some economists believe that vertical mergers can promote collusion among [upstream firms](https://www.investopedia.com/terms/u/upstream.asp), which are companies involved in the early stages of production.
+Consider the earlier example of the car manufacturer purchasing a tire manufacturer. Suppose this same car manufacturer purchased most of the tire manufacturers in the industry. It then could control the supply to the market as well as the price, thus destroying fair, or ["perfect" competition](https://www.investopedia.com/ask/answers/040915/what-difference-between-monopolistic-market-and-perfect-competition.asp). Moreover, some economists believe that vertical mergers can promote collusion among [[upstream firms]](https://www.investopedia.com/terms/u/upstream.asp), which are companies involved in the early stages of production.
 
 ## Real World Example of a Vertical Merger
 
-A notable vertical merger was the 1996 merger of Time Warner Inc., a major cable company, and the Turner Corporation, a major media company responsible for CNN, TNT, Cartoon Network, and TBS channels. In 2018, [a merger between Time Warner and AT&T](https://www.investopedia.com/investing/att-and-time-warner-merger-case-what-you-need-know/) ([T: NYSE](https://www.investopedia.com/markets/quote?tvwidgetsymbol=T)) was finalized but not without intense scrutiny.
+A notable vertical merger was the 1996 merger of Time Warner Inc., a major cable company, and the Turner Corporation, a major media company responsible for CNN, TNT, Cartoon Network, and TBS channels. In 2018, [[a merger between Time Warner and AT&T]](https://www.investopedia.com/investing/att-and-time-warner-merger-case-what-you-need-know/) ([T: NYSE](https://www.investopedia.com/markets/quote?tvwidgetsymbol=T)) was finalized but not without intense scrutiny.
 
-As of February 2019, as reported by the [Associated Press](https://www.apnews.com/42c976ea3fd24d3588522a8d5c1d5336), the "federal appeals court cleared AT&T’s takeover of Time Warner, rejecting the Trump administration’s claims that the $81 billion deal will harm consumers and reduce competition in the TV industry."
+As of February 2019, as reported by the [[Associated Press]](https://www.apnews.com/42c976ea3fd24d3588522a8d5c1d5336), the "federal appeals court cleared AT&T’s takeover of Time Warner, rejecting the Trump administration’s claims that the $81 billion deal will harm consumers and reduce competition in the TV industry."
 
-According to the acquisition's financial details outlined on [AT&T's website](https://about.att.com/story/att_completes_acquisition_of_time_warner_inc.html), the combined entity will realize increased financial synergies of $2.5 billion. Cost synergies of $1.5 billion and revenue synergies of $1 billion are expected by the end of three years following the close of the deal.
+According to the acquisition's financial details outlined on [[AT&T's website]](https://about.att.com/story/att_completes_acquisition_of_time_warner_inc.html), the combined entity will realize increased financial synergies of $2.5 billion. Cost synergies of $1.5 billion and revenue synergies of $1 billion are expected by the end of three years following the close of the deal.

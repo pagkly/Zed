@@ -16,7 +16,7 @@ author: Adam Hayes
 How Point of Sale (POS) Works
 ## What Is a Point of Sale (POS)?
 
-Point of sale (POS), a critical piece of a [point of purchase](https://www.investopedia.com/terms/p/pointofpurchase1.asp), refers to the place where a customer executes the payment for goods or services and where sales taxes may become payable. It can be in a physical store, where [POS terminals](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp) and systems are used to process card payments or a virtual sales point such as a computer or mobile electronic device.
+Point of sale (POS), a critical piece of a [[point of purchase]](https://www.investopedia.com/terms/p/pointofpurchase1.asp), refers to the place where a customer executes the payment for goods or services and where sales taxes may become payable. It can be in a physical store, where [[POS terminals]](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp) and systems are used to process card payments or a virtual sales point such as a computer or mobile electronic device.
 
 ## Understanding POS
 
@@ -28,9 +28,9 @@ Amazon’s concept convenience store, _Amazon Go_, which deploys technologies th
 
 ## Benefits of POS Systems
 
-Electronic POS software systems streamline retail operations by [automating the transaction process](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp) and tracking important sales data. Basic systems include an electronic cash register and software to coordinate data collected from daily purchases. Retailers can increase functionality by installing a network of data-capture devices, including card readers and barcode scanners.
+Electronic POS software systems streamline retail operations by [[automating the transaction process]](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp) and tracking important sales data. Basic systems include an electronic cash register and software to coordinate data collected from daily purchases. Retailers can increase functionality by installing a network of data-capture devices, including card readers and barcode scanners.
 
-Depending on the software features, retailers can track pricing accuracy, inventory changes, gross revenue, and sales patterns. Using integrated technology to track data helps retailers catch discrepancies in pricing or [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) that could lead to profit loss or interrupt sales. POS systems that monitor inventory and buying trends can help retailers avoid customer service issues, such as out-of-stock sales, and tailor purchasing and marketing to consumer behavior.
+Depending on the software features, retailers can track pricing accuracy, inventory changes, gross revenue, and sales patterns. Using integrated technology to track data helps retailers catch discrepancies in pricing or [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) that could lead to profit loss or interrupt sales. POS systems that monitor inventory and buying trends can help retailers avoid customer service issues, such as out-of-stock sales, and tailor purchasing and marketing to consumer behavior.
 
 ### Key Takeaways
 

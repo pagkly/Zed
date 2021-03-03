@@ -16,9 +16,9 @@ author: Adam Hayes
 Offering Circular Definition
 ## What Is an Offering Circular?
 
-An offering circular is a type of [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) provided for a new security listing. It is delivered to individuals and brokerage houses who are interested in potentially purchasing the newly issued securities. It is often slightly abbreviated from the final, long-form prospectus, but is still required to contain specific information.
+An offering circular is a type of [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) provided for a new security listing. It is delivered to individuals and brokerage houses who are interested in potentially purchasing the newly issued securities. It is often slightly abbreviated from the final, long-form prospectus, but is still required to contain specific information.
 
-An offering circular should not be confused with a [red herring](https://www.investopedia.com/terms/r/redherring.asp) or [preliminary prospectus](https://www.investopedia.com/terms/p/preliminaryprospectus.asp). The red herring is issued during the [IPO process](https://www.investopedia.com/terms/i/ipo.asp) and is intended to generate interest in the new issue. It lacks many of the specifics regarding the new issue. The offering circular, on the other hand, is a more complete document and should be viewed before making a final decision about an investment.
+An offering circular should not be confused with a [[red herring]](https://www.investopedia.com/terms/r/redherring.asp) or [[preliminary prospectus]](https://www.investopedia.com/terms/p/preliminaryprospectus.asp). The red herring is issued during the [[IPO process]](https://www.investopedia.com/terms/i/ipo.asp) and is intended to generate interest in the new issue. It lacks many of the specifics regarding the new issue. The offering circular, on the other hand, is a more complete document and should be viewed before making a final decision about an investment.
 
 ### Key Takeaways
 

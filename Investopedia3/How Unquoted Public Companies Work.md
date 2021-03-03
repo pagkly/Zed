@@ -22,7 +22,7 @@ OTC markets that trade unquoted public companies typically have less transparen
 
 ## Understanding Unquoted Public Companies
 
-A [public company](https://www.investopedia.com/terms/p/publiccompany.asp) is a company that has issued stock shares through an initial public offering (IPO) while its stock trades on a stock exchange or an over-the-counter market that is a market of private brokers and dealers. Publicly-quoted stocks might trade on exchanges like the New York Stock Exchange, which is the largest equities-based exchange in the world. However, unquoted public companies are unlisted and trade over-the-counter.
+A [[public company]](https://www.investopedia.com/terms/p/publiccompany.asp) is a company that has issued stock shares through an initial public offering (IPO) while its stock trades on a stock exchange or an over-the-counter market that is a market of private brokers and dealers. Publicly-quoted stocks might trade on exchanges like the New York Stock Exchange, which is the largest equities-based exchange in the world. However, unquoted public companies are unlisted and trade over-the-counter.
 
 ### Reasons for an Unquoted Public Company
 
@@ -32,11 +32,11 @@ An unquoted company might have too few shareholders for a listing, or the compan
 
 Companies that have been delisted or removed from major exchanges might result in their stock becoming an unquoted public company. Delisting can be voluntary or can be due to a failure to meet the listing requirements of an exchange.
 
-By remaining unquoted, the firm's owners can operate the business more like a [private company](https://www.investopedia.com/terms/p/privatecompany.asp) and avoid some of the exchange regulations. However, although unquoted public companies are less heavily regulated than listed public companies, they are more regulated than private ones. As public companies, they still have to comply with financial reporting requirements and may be subject to the same takeover codes as listed companies. Unquoted public companies may also be banned from marketing themselves to investors.
+By remaining unquoted, the firm's owners can operate the business more like a [[private company]](https://www.investopedia.com/terms/p/privatecompany.asp) and avoid some of the exchange regulations. However, although unquoted public companies are less heavily regulated than listed public companies, they are more regulated than private ones. As public companies, they still have to comply with financial reporting requirements and may be subject to the same takeover codes as listed companies. Unquoted public companies may also be banned from marketing themselves to investors.
 
 ### Trading and Valuation
 
-As unlisted securities, shares in unquoted public companies are bought and sold in [over-the-counter markets](https://www.investopedia.com/terms/o/over-the-countermarket.asp) (OTC). In an OTC market, broker-dealers quote stock prices at which they will buy and sell a stock. However, two investors (a buyer and seller) can execute a trade on an OTC market without other investors being aware of the price at which the transaction was completed. As a result, OTC markets that trade unquoted public companies typically have less transparency than public exchanges.
+As unlisted securities, shares in unquoted public companies are bought and sold in [[over-the-counter markets]](https://www.investopedia.com/terms/o/over-the-countermarket.asp) (OTC). In an OTC market, broker-dealers quote stock prices at which they will buy and sell a stock. However, two investors (a buyer and seller) can execute a trade on an OTC market without other investors being aware of the price at which the transaction was completed. As a result, OTC markets that trade unquoted public companies typically have less transparency than public exchanges.
 
 Also, stocks of unquoted public companies are rarely traded, or are illiquid, leading to difficulty in pricing the stock. Unquoted public companies are valued using various financial models, including the comparables approach. The comparables approach analyzes companies or divisions that are of similar makeup and industry.
 

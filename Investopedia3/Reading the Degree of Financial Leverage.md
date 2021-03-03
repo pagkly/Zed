@@ -16,7 +16,7 @@ author: Adam Hayes
 Reading the Degree of Financial Leverage
 ## What Is a Degree of Financial Leverage - DFL?
 
-A degree of financial leverage (DFL) is a [leverage ratio](https://www.investopedia.com/terms/l/leverageratio.asp) that measures the sensitivity of a company’s earnings per share (EPS) to fluctuations in its operating income, as a result of changes in its capital structure. The degree of financial leverage (DFL) measures the percentage change in EPS for a unit change in [operating income](https://www.investopedia.com/terms/o/operatingincome.asp), also known as earnings before interest and taxes (EBIT).
+A degree of financial leverage (DFL) is a [[leverage ratio]](https://www.investopedia.com/terms/l/leverageratio.asp) that measures the sensitivity of a company’s earnings per share (EPS) to fluctuations in its operating income, as a result of changes in its capital structure. The degree of financial leverage (DFL) measures the percentage change in EPS for a unit change in [[operating income]](https://www.investopedia.com/terms/o/operatingincome.asp), also known as earnings before interest and taxes (EBIT).
 
 This ratio indicates that the higher the degree of financial leverage, the more volatile earnings will be. Since interest is usually a fixed expense, leverage magnifies returns and EPS. This is good when operating income is rising, but it can be a problem when operating income is under pressure.
 
@@ -32,11 +32,11 @@ DFL\=EBITEBIT − Interest\\text{DFL}=\\frac{\\text{EBIT}}{\\text{EBIT }-\\text{
 
 ## What Does Degree of Financial Leverage Tell You?
 
-The higher the DFL, the more volatile [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) will be. Since interest is a fixed expense, leverage magnifies returns and EPS, which is good when [operating income](https://www.investopedia.com/terms/o/operatingincome.asp) is rising but can be a problem during tough economic times when operating income is under pressure.
+The higher the DFL, the more volatile [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) (EPS) will be. Since interest is a fixed expense, leverage magnifies returns and EPS, which is good when [[operating income]](https://www.investopedia.com/terms/o/operatingincome.asp) is rising but can be a problem during tough economic times when operating income is under pressure.
 
-DFL is invaluable in helping a company assess the amount of debt or financial leverage it should opt for in its [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp). If operating income is relatively stable, then earnings and EPS would be stable as well, and the company can afford to take on a significant amount of debt. However, if the company operates in a sector where operating income is quite volatile, it may be prudent to limit [debt](https://www.investopedia.com/articles/pf/12/good-debt-bad-debt.asp) to easily manageable levels.
+DFL is invaluable in helping a company assess the amount of debt or financial leverage it should opt for in its [[capital structure]](https://www.investopedia.com/terms/c/capitalstructure.asp). If operating income is relatively stable, then earnings and EPS would be stable as well, and the company can afford to take on a significant amount of debt. However, if the company operates in a sector where operating income is quite volatile, it may be prudent to limit [[debt]](https://www.investopedia.com/articles/pf/12/good-debt-bad-debt.asp) to easily manageable levels.
 
-The use of financial leverage varies greatly by industry and by the business sector. There are many industry sectors in which companies operate with a high degree of financial leverage. Retail stores, airlines, grocery stores, [utility companies](https://www.investopedia.com/articles/investing/022516/worlds-top-10-utility-companies.asp), and banking institutions are classic examples. Unfortunately, the excessive use of financial leverage by many companies in these sectors has played a paramount role in forcing a lot of them to file for [Chapter 11](https://www.investopedia.com/terms/c/chapter11.asp) bankruptcy.
+The use of financial leverage varies greatly by industry and by the business sector. There are many industry sectors in which companies operate with a high degree of financial leverage. Retail stores, airlines, grocery stores, [[utility companies]](https://www.investopedia.com/articles/investing/022516/worlds-top-10-utility-companies.asp), and banking institutions are classic examples. Unfortunately, the excessive use of financial leverage by many companies in these sectors has played a paramount role in forcing a lot of them to file for [Chapter 11](https://www.investopedia.com/terms/c/chapter11.asp) bankruptcy.
 
 Examples include R.H. Macy (1992), Trans World Airlines (2001), Great Atlantic & Pacific Tea Co (A&P) (2010) and Midwest Generation (2012). Moreover, excessive use of financial leverage was the primary culprit that led to the U.S. [financial crisis](https://www.investopedia.com/terms/f/financial-crisis.asp) between 2007 and 2009. The [demise of Lehman Brothers](https://www.investopedia.com/articles/economics/09/lehman-brothers-collapse.asp) (2008) and a host of other highly levered financial institutions are prime examples of the negative ramifications that are associated with the use of highly levered capital structures.
 
@@ -48,7 +48,7 @@ Examples include R.H. Macy (1992), Trans World Airlines (2001), Great Atlantic &
 
 ## Example of How to Use DFL
 
-Consider the following example to illustrate the concept. Assume hypothetical company BigBox Inc. has operating income or [earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp) (EBIT) of $100 million in Year 1, with [interest expense](https://www.investopedia.com/terms/i/interestexpense.asp) of $10 million, and has 100 million shares outstanding. (For the sake of clarity, let’s ignore the effect of taxes for the moment.)
+Consider the following example to illustrate the concept. Assume hypothetical company BigBox Inc. has operating income or [[earnings before interest and taxes]](https://www.investopedia.com/terms/e/ebit.asp) (EBIT) of $100 million in Year 1, with [[interest expense]](https://www.investopedia.com/terms/i/interestexpense.asp) of $10 million, and has 100 million shares outstanding. (For the sake of clarity, let’s ignore the effect of taxes for the moment.)
 
 EPS for BigBox in Year 1 would thus be:
 

@@ -16,7 +16,7 @@ author: Lucas Downey
 Lien Sale
 ## What Is a Lien Sale?
 
-A lien sale is the sale of the claim—or a hold—placed on an asset to satisfy an unpaid debt. Typically, lien sales are conducted as public [auctions](https://www.investopedia.com/terms/a/auction.asp), and the lien is on real estate, automobiles, and other personal property.
+A lien sale is the sale of the claim—or a hold—placed on an asset to satisfy an unpaid debt. Typically, lien sales are conducted as public [[auctions]](https://www.investopedia.com/terms/a/auction.asp), and the lien is on real estate, automobiles, and other personal property.
 
 Depending on a particular state's laws, contractors, subcontractors, and suppliers may put a lien on a piece of property they have worked on pending payment for services rendered.
 
@@ -28,7 +28,7 @@ Depending on a particular state's laws, contractors, subcontractors, and supplie
 
 ## How a Lien Sale Works
 
-Buying [delinquent](https://www.investopedia.com/terms/d/delinquent.asp) tax liens at a sale is becoming an increasingly popular form of investing and is similar to purchasing a long-term [Certificate of Deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD). However, unlike a CD, tax-liens cannot be sold back to the taxing authority and must be held until they are repaid. Redemption of the purchased lien is typically at a given rate of return within a specified time frame.
+Buying [[delinquent]](https://www.investopedia.com/terms/d/delinquent.asp) tax liens at a sale is becoming an increasingly popular form of investing and is similar to purchasing a long-term [[Certificate of Deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD). However, unlike a CD, tax-liens cannot be sold back to the taxing authority and must be held until they are repaid. Redemption of the purchased lien is typically at a given rate of return within a specified time frame.
 
 Lien sales for unpaid debts on a property can result in the amount owed increasing further. When the lien debt is sold, usually by a local government agency, the buyer can employ a lien servicing company that may add more fees and interest to the lien. This allows the buyer to see a return on their investment as the debtor must now pay the additional costs imposed.
 

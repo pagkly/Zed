@@ -29,7 +29,7 @@ The run rate can also refer to the average annual dilution from company stock op
 
 ## Understanding Run Rate
 
-In the context of extrapolating future performance, the run rate takes current performance information and extends it over a longer period. For example, if a company has [revenues](https://www.investopedia.com/terms/r/revenue.asp) of $100 million in its latest quarter, the [CEO](https://www.investopedia.com/terms/c/ceo.asp) might infer that, based on the latest quarter, the company is operating at a $400 million run rate. When the data is used to create a yearly projection for potential performance, the process is referred to as annualizing.
+In the context of extrapolating future performance, the run rate takes current performance information and extends it over a longer period. For example, if a company has [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) of $100 million in its latest quarter, the [[CEO]](https://www.investopedia.com/terms/c/ceo.asp) might infer that, based on the latest quarter, the company is operating at a $400 million run rate. When the data is used to create a yearly projection for potential performance, the process is referred to as annualizing.
 
 ## Uses for a Run Rate
 
@@ -41,6 +41,6 @@ Additionally, the run rate can be helpful in cases where a fundamental business 
 
 The run rate can be a very deceiving metric, especially in seasonal industries. A great example of this is a retailer examining profit after the winter holiday season, as this is a time when many retailers experience higher sales volumes. If information based on holiday season sales was used to create a run rate, estimates of future performance may be incidentally inflated.
 
-Additionally, the run rate is generally based only on the most current data and may not properly compensate for circumstantial changes that can cause an inaccurate overall picture. As an example, certain technology producers like [Apple and Microsoft](https://www.investopedia.com/articles/markets/111015/apple-vs-microsoft-vs-google-how-their-business-models-compare.asp) experience higher sales in correlation with a new product release. Using data only from the period immediately following a large product release may lead to skewed data.
+Additionally, the run rate is generally based only on the most current data and may not properly compensate for circumstantial changes that can cause an inaccurate overall picture. As an example, certain technology producers like [[Apple and Microsoft]](https://www.investopedia.com/articles/markets/111015/apple-vs-microsoft-vs-google-how-their-business-models-compare.asp) experience higher sales in correlation with a new product release. Using data only from the period immediately following a large product release may lead to skewed data.
 
 Further, run rates do not account for large, one-time sales. For example, if a manufacturer lands a large contract that is paid for upfront, regardless of the timing of the delivery of the goods or services, this can cause sales numbers to be abnormally high for one reporting period based on this anomalous purchase.

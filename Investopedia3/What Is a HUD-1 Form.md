@@ -24,7 +24,7 @@ Now, for most kinds of mortgage loans, borrowers receive a form called the [Clo
 
 ## Understanding the HUD-1 Form
 
-The HUD-1 lists all costs related to closing the transaction. Federal law requires the form to be used as a standard [real estate settlement](https://www.investopedia.com/articles/mortgages-real-estate/10/closing-home-process.asp) form in reverse mortgage and mortgage refinance transactions.
+The HUD-1 lists all costs related to closing the transaction. Federal law requires the form to be used as a standard [[real estate settlement]](https://www.investopedia.com/articles/mortgages-real-estate/10/closing-home-process.asp) form in reverse mortgage and mortgage refinance transactions.
 
 ### Key Takeaways
 
@@ -34,11 +34,11 @@ The HUD-1 lists all costs related to closing the transaction. Federal law requir
 
 The law also requires that borrowers be given a copy of the HUD-1 at least one day prior to settlement, although figures can be added, corrected, or updated up to the time the parties are seated at the closing table.
 
-Most buyers and sellers review the form with a real estate agent, attorney, or [settlement agent](https://www.investopedia.com/terms/s/settlementagent.asp). On the HUD-1 form, buyers are referred to as "borrowers" even if there is no loan involved.
+Most buyers and sellers review the form with a real estate agent, attorney, or [[settlement agent]](https://www.investopedia.com/terms/s/settlementagent.asp). On the HUD-1 form, buyers are referred to as "borrowers" even if there is no loan involved.
 
 Oddly, the HUD-1 is meant to be reviewed verso, or reverse side, first. The reverse side has two columns: The left-hand column itemizes the borrower's charges and the right-hand column itemizes the seller's charges.
 
-The Closing Disclosure form is a new requirement for mortgage lenders as a result of banking reform legislation enacted in 2010, called the [Dodd-Frank](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp) Wall Street Reform and Consumer Protection Act of 2010.
+The Closing Disclosure form is a new requirement for mortgage lenders as a result of banking reform legislation enacted in 2010, called the [[Dodd-Frank]](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp) Wall Street Reform and Consumer Protection Act of 2010.
 
 The borrower's list includes charges related to the mortgage, such as a loan origination fee, discount points, payment for a credit report, and fees for the appraisal and flood certification. It also may include any prepaid interest charges, homeowner's insurance fees, property taxes, owner's and lender's title insurance, and the closing agent's fees.
 
@@ -50,7 +50,7 @@ The figures on the HUD-1 verso (back page) are added up, and the totals are carr
 
 ### Dodd-Frank Act Introduces the Closing Disclosure Form
 
-The [Dodd-Frank](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp) Wall Street Reform and Consumer Protection Act of 2010 requires lenders to provide borrowers of all types of mortgages (other than reverse mortgages and mortgage refinances) with a Closing Disclosure form.
+The [[Dodd-Frank]](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp) Wall Street Reform and Consumer Protection Act of 2010 requires lenders to provide borrowers of all types of mortgages (other than reverse mortgages and mortgage refinances) with a Closing Disclosure form.
 
 Borrowers must be provided with the disclosure three days before closing. This five-page form includes finalized figures for all closing fees and costs to the borrower, as well as the loan terms, the projected monthly mortgage payments, and closing costs.
 

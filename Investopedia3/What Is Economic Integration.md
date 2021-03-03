@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Economic Integration?
 ## What Is Economic Integration?
 
-Economic integration is an arrangement among nations that typically includes the reduction or elimination of trade barriers and the coordination of monetary and [fiscal policies](https://www.investopedia.com/terms/f/fiscalpolicy.asp). Economic integration aims to reduce costs for both consumers and producers and to increase trade between the countries involved in the agreement.
+Economic integration is an arrangement among nations that typically includes the reduction or elimination of trade barriers and the coordination of monetary and [[fiscal policies]](https://www.investopedia.com/terms/f/fiscalpolicy.asp). Economic integration aims to reduce costs for both consumers and producers and to increase trade between the countries involved in the agreement.
 
 Economic integration is sometimes referred to as regional integration as it often occurs among neighboring nations.
 
@@ -49,7 +49,7 @@ Political cooperation among countries also can improve because of stronger econ
 Despite the benefits, economic integration has costs. These fall into two categories:
 
 -   Diversion of trade. That is, trade can be diverted from nonmembers to members, even if it is economically detrimental for the member state.
--   Erosion of national sovereignty. Members of economic unions typically are required to adhere to rules on trade, [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp), and fiscal policies established by an unelected external policymaking body.
+-   Erosion of national sovereignty. Members of economic unions typically are required to adhere to rules on trade, [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp), and fiscal policies established by an unelected external policymaking body.
 
 Because economists and policymakers believe economic integration leads to significant benefits, many institutions attempt to measure the degree of economic integration across countries and regions. The methodology for measuring economic integration typically involves multiple economic indicators including trade in goods and services, cross-border capital flows, labor migration, and others. Assessing economic integration also includes measures of institutional conformity, such as membership in trade unions and the strength of institutions that protect consumer and investor rights.
 

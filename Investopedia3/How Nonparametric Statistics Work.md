@@ -18,7 +18,7 @@ How Nonparametric Statistics Work
 
 Nonparametric statistics refers to a statistical method in which the data are not assumed to come from prescribed models that are determined by a small number of parameters; examples of such models include the normal distribution model and the linear regression model. Nonparametric statistics sometimes uses data that is ordinal, meaning it does not rely on numbers, but rather on a ranking or order of sorts. For example, a survey conveying consumer preferences ranging from like to dislike would be considered ordinal data.
 
-Nonparametric statistics includes nonparametric [descriptive statistics](https://www.investopedia.com/terms/d/descriptive_statistics.asp), statistical models, inference, and statistical tests. The model structure of nonparametric models is not specified _a priori_ but is instead determined from data. The term _nonparametric_ is not meant to imply that such models completely lack parameters, but rather that the number and nature of the parameters are flexible and not fixed in advance. A histogram is an example of a nonparametric estimate of a probability distribution.
+Nonparametric statistics includes nonparametric [[descriptive statistics]](https://www.investopedia.com/terms/d/descriptive_statistics.asp), statistical models, inference, and statistical tests. The model structure of nonparametric models is not specified _a priori_ but is instead determined from data. The term _nonparametric_ is not meant to imply that such models completely lack parameters, but rather that the number and nature of the parameters are flexible and not fixed in advance. A histogram is an example of a nonparametric estimate of a probability distribution.
 
 ### Key Takeaways
 

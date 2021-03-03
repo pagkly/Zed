@@ -16,9 +16,9 @@ author: James Chen
 What Is the Short Interest Ratio?
 ## What Is the Short Interest Ratio?
 
-The short Interest ratio is a simple formula that divides the number of shares [short](https://www.investopedia.com/terms/s/short.asp) in a stock by the stock's [average daily trading volume](https://www.investopedia.com/terms/a/averagedailytradingvolume.asp).
+The short Interest ratio is a simple formula that divides the number of shares [[short]](https://www.investopedia.com/terms/s/short.asp) in a stock by the stock's [[average daily trading volume]](https://www.investopedia.com/terms/a/averagedailytradingvolume.asp).
 
-Simply put, the ratio can help an investor find out very quickly if a stock is heavily shorted or not shorted versus its average daily trading volume. The term is also used interchangeably with [days to cover](https://www.investopedia.com/terms/d/daystocover.asp).
+Simply put, the ratio can help an investor find out very quickly if a stock is heavily shorted or not shorted versus its average daily trading volume. The term is also used interchangeably with [[days to cover]](https://www.investopedia.com/terms/d/daystocover.asp).
 
 ## The Formula for Short Interest Ratio Is:
 

@@ -26,7 +26,7 @@ Group term life insurance is a type of term insurance in which one contract is i
 
 ## How Group Term Life Insurance Works
 
-About 85% of companies offer company-paid group life insurance as a benefit, reports the Society for Human Resource Management.1 Group life insurance policies are generally written as [term insurance](https://www.investopedia.com/terms/t/termlife.asp) and offered to employees who meet eligibility requirements, such as being a permanent employee or 30 days after hire. Group term life insurance coverage can be adjusted for qualifying life events or during an open-enrollment period.
+About 85% of companies offer company-paid group life insurance as a benefit, reports the Society for Human Resource Management.1 Group life insurance policies are generally written as [[term insurance]](https://www.investopedia.com/terms/t/termlife.asp) and offered to employees who meet eligibility requirements, such as being a permanent employee or 30 days after hire. Group term life insurance coverage can be adjusted for qualifying life events or during an open-enrollment period.
 
 The standard amount of coverage is usually equivalent to the covered employee's annual salary. Employers typically pay most or all of the premiums for basic coverage. Additional amounts, ordinarily in multiples of the employee's annual salary, are usually offered for an extra premium paid by the employee. 
 
@@ -50,7 +50,7 @@ Consider your employer-sponsored group life insurance to be one piece of your in
 
 ## Requirements for Group Term Life Insurance
 
-Typically, all employees are automatically enrolled in the base coverage once they meet the eligibility requirements. Requirements vary and can include working a certain number of hours per week or a certain amount of time as an employee. The availability of supplemental group term coverage differs. In some plans, enrollment is only available when an individual is initially employed or upon a [qualifying life event](https://www.investopedia.com/terms/q/qualifying-event.asp), such as the birth of a child. In other plans, supplemental group term coverage can be added during open enrollment periods. Supplemental coverage may require underwriting. Usually, it is a simplified underwriting process whereby the insurance seeker answers some questions to determine eligibility rather than having to go through a physical exam. The carrier then decides whether or not it will offer the additional coverage. 
+Typically, all employees are automatically enrolled in the base coverage once they meet the eligibility requirements. Requirements vary and can include working a certain number of hours per week or a certain amount of time as an employee. The availability of supplemental group term coverage differs. In some plans, enrollment is only available when an individual is initially employed or upon a [[qualifying life event]](https://www.investopedia.com/terms/q/qualifying-event.asp), such as the birth of a child. In other plans, supplemental group term coverage can be added during open enrollment periods. Supplemental coverage may require underwriting. Usually, it is a simplified underwriting process whereby the insurance seeker answers some questions to determine eligibility rather than having to go through a physical exam. The carrier then decides whether or not it will offer the additional coverage. 
 
 ## Special Considerations
 

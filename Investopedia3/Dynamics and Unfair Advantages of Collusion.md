@@ -16,7 +16,7 @@ author: Julie Young
 Dynamics and Unfair Advantages of Collusion
 ## What Is Collusion?
 
-Collusion is a non-competitive, secret, and sometimes illegal agreement between rivals which attempts to disrupt the market's [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp). The act of collusion involves people or companies which would typically compete against one another, but who conspire to work together to gain an unfair market advantage. The colluding parties may collectively choose to influence the market supply of a good or agree to a specific pricing level which will help the partners maximize their [profits](https://www.investopedia.com/terms/p/profit.asp) at the detriment of other competitors. It is common among [duopolies](https://www.investopedia.com/terms/d/duopoly.asp).
+Collusion is a non-competitive, secret, and sometimes illegal agreement between rivals which attempts to disrupt the market's [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp). The act of collusion involves people or companies which would typically compete against one another, but who conspire to work together to gain an unfair market advantage. The colluding parties may collectively choose to influence the market supply of a good or agree to a specific pricing level which will help the partners maximize their [profits](https://www.investopedia.com/terms/p/profit.asp) at the detriment of other competitors. It is common among [[duopolies]](https://www.investopedia.com/terms/d/duopoly.asp).
 
 ### Key Takeaways
 

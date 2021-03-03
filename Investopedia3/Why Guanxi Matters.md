@@ -24,11 +24,11 @@ Generally an acknowledged fact, it is particularly true in China that the wheels
 
 Guanxi is perhaps best understood by the old axiom, "it's not _what_ you know, but _who_ you know that's important." Guanxi in the West comes in many forms—alumni networks, fraternity or sorority houses, past and present places of employment, clubs, churches, families, and friends.
 
-In social sciences, guanxi is similar to some concepts understood in network theory, such as the idea of information or connection brokerage by well-positioned individuals in a social network, or their [social capital](https://www.investopedia.com/terms/s/socialcapital.asp).
+In social sciences, guanxi is similar to some concepts understood in network theory, such as the idea of information or connection brokerage by well-positioned individuals in a social network, or their [[social capital]](https://www.investopedia.com/terms/s/socialcapital.asp).
 
 The odds of gaining access to a business opportunity and then winning that opportunity are higher when you work your connections. If you are bidding for a contract in competition with others and you know someone on the other side of the deal, naturally you will try to utilize this contact to your advantage.
 
-If you are a Wall Street executive with guanxi in Washington, you will certainly make a few phone calls to make sure lawmakers remain neutered and regulators stay off your back. If you are a CEO who wants to make an [acquisition](https://www.investopedia.com/terms/a/acquisition.asp), you will tap your guanxi at the golf club to find a quicker route to your objective.
+If you are a Wall Street executive with guanxi in Washington, you will certainly make a few phone calls to make sure lawmakers remain neutered and regulators stay off your back. If you are a CEO who wants to make an [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp), you will tap your guanxi at the golf club to find a quicker route to your objective.
 
 ### Key Takeaways
 
@@ -38,6 +38,6 @@ If you are a Wall Street executive with guanxi in Washington, you will certainly
 
 ## Staying Above Board with Guanxi
 
-Depending on where you do business and how aggressive you are, using your guanxi can be innocuous or hazardous. It is commonly accepted as a way of conducting business affairs in the West, but you must be mindful of conflict of interests, whether governed by law or a company code of ethics and very serious cases that involve the [Foreign Corrupt Practices Act](https://www.investopedia.com/terms/f/foreign-corrupt-practices-act.asp) (FCPA) if you do deals abroad.
+Depending on where you do business and how aggressive you are, using your guanxi can be innocuous or hazardous. It is commonly accepted as a way of conducting business affairs in the West, but you must be mindful of conflict of interests, whether governed by law or a company code of ethics and very serious cases that involve the [[Foreign Corrupt Practices Act]](https://www.investopedia.com/terms/f/foreign-corrupt-practices-act.asp) (FCPA) if you do deals abroad.
 
 In China, where the art of guanxi is practiced in high form, calling upon connections is the norm to get things moving. However, even there, one can go too far. Business leaders with guanxi in the government have engaged in illegal activity with dire consequences. Abusing guanxi is a bad idea in all but a few places on earth.

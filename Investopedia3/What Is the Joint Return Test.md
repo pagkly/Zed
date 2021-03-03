@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is the Joint Return Test?
 ## What Is the Joint Return Test?
 
-The joint return test is one of the [IRS](https://www.investopedia.com/terms/i/irs.asp) tests that potential [dependents](https://www.investopedia.com/terms/d/dependent.asp) must pass in order to be claimed as such by another taxpayer.1
+The joint return test is one of the [[IRS]](https://www.investopedia.com/terms/i/irs.asp) tests that potential [[dependents]](https://www.investopedia.com/terms/d/dependent.asp) must pass in order to be claimed as such by another taxpayer.1
 
 ### Important
 
@@ -46,7 +46,7 @@ Another example: "Your 18-year-old son and his 17-year-old wife had $800 of wage
 
 ## Joint Return Test for Claiming Dependents
 
-The modern [income tax](https://www.investopedia.com/terms/f/federal_income_tax.asp) was first introduced in 1913, and a deduction for dependents was added to the tax code four years later.4 5
+The modern [[income tax]](https://www.investopedia.com/terms/f/federal_income_tax.asp) was first introduced in 1913, and a deduction for dependents was added to the tax code four years later.4 5
 
 That Congress has supported a deduction for dependents for so long is a reflection of its desire to support the option to have a large family, while still maintaining the overall progressivity of the federal income tax regime. The original income tax was quite progressive, with only about the top 1% of incomes taxed.6 But with that progressivity came a bias against large families, which generally require more income to support.
 

@@ -16,13 +16,13 @@ author: James Chen
 Folio Number
 ## What is a Folio Number?
 
-In [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), a folio number is a unique number identifying your account with the fund. Like a bank account number, the folio number can be used as a way to uniquely identify fund investors. A folio number also records items such as how much money each investor has placed with the fund, their transaction history, and contact details.
+In [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp), a folio number is a unique number identifying your account with the fund. Like a bank account number, the folio number can be used as a way to uniquely identify fund investors. A folio number also records items such as how much money each investor has placed with the fund, their transaction history, and contact details.
 
 A folio number can also be used to identify journal entries or parcels of land. Different fund houses and providers of similar folio numbers will all use a slightly different method to create a number value.
 
 ## Understanding Folio Number
 
-All mutual funds need some sort of record-keeping system in place. This information is necessary for ensuring each investor is returned the money they are entitled to, and for determining what [fee structure](https://www.investopedia.com/terms/f/fee-structure.asp) applies to each investor.
+All mutual funds need some sort of record-keeping system in place. This information is necessary for ensuring each investor is returned the money they are entitled to, and for determining what [[fee structure]](https://www.investopedia.com/terms/f/fee-structure.asp) applies to each investor.
 
 ### Key Takeaways
 

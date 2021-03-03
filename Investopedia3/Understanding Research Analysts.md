@@ -20,7 +20,7 @@ A research analyst is a professional who prepares investigative reports on secu
 
 The work conducted by the research analyst is in an effort to inquire, examine, find or revise facts, principles, and theories for internal use by a financial institution or an external financial client. The report an analyst prepares entails the examination of public records of securities of companies or industries, and often concludes with a "buy," "sell" or "hold" recommendation.
 
-If the research analyst is involved with an [investment bank](https://www.investopedia.com/terms/i/investmentbank.asp) or a securities firm controlled by a member organization of the [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA), they may be required to register with a self-regulatory organization (SRO) and/or take certain exams.1
+If the research analyst is involved with an [[investment bank]](https://www.investopedia.com/terms/i/investmentbank.asp) or a securities firm controlled by a member organization of the [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA), they may be required to register with a self-regulatory organization (SRO) and/or take certain exams.1
 
 ### Key Takeaways
 
@@ -40,9 +40,9 @@ Research analysts can work at a variety of companies, such as at asset managemen
 
 ## Research Analyst Qualifications
 
-Companies that employ research analysts sometimes require a master's degree in finance or a [Chartered Financial Analyst](https://www.investopedia.com/terms/c/cfa.asp) (CFA) designation on top of several regulatory hurdles. Research analysts might be required to take the [Series 86/87](https://www.investopedia.com/terms/s/series-86-87.asp) exams if they are involved with a member organization.1
+Companies that employ research analysts sometimes require a master's degree in finance or a [[Chartered Financial Analyst]](https://www.investopedia.com/terms/c/cfa.asp) (CFA) designation on top of several regulatory hurdles. Research analysts might be required to take the [[Series 86/87]](https://www.investopedia.com/terms/s/series-86-87.asp) exams if they are involved with a member organization.1
 
-Other securities licenses are often required to include the [Series 7](https://www.investopedia.com/terms/s/series7.asp) general securities representative license and the [Series 63](https://www.investopedia.com/terms/s/series63.asp) uniform securities agent license.4 FINRA licenses are typically associated with the selling of specific securities as a firm’s registered representative. Investment analysts may also seek to obtain the chartered financial analyst (CFA) certification.5
+Other securities licenses are often required to include the [Series 7](https://www.investopedia.com/terms/s/series7.asp) general securities representative license and the [[Series 63]](https://www.investopedia.com/terms/s/series63.asp) uniform securities agent license.4 FINRA licenses are typically associated with the selling of specific securities as a firm’s registered representative. Investment analysts may also seek to obtain the chartered financial analyst (CFA) certification.5
 
 ## Financial Analyst vs. Research Analyst
 

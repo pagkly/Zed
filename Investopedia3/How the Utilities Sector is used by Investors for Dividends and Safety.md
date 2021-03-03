@@ -26,11 +26,11 @@ The many types of utilities available include large companies that offer multipl
 
 ## Paradigm Shift
 
-While electric utility companies used to be regionally [monopolistic](https://www.investopedia.com/ask/answers/041415/what-are-common-examples-monopolistic-markets.asp), broadly speaking, the industry is breaking down into the following four supplier segments:
+While electric utility companies used to be regionally [[monopolistic]](https://www.investopedia.com/ask/answers/041415/what-are-common-examples-monopolistic-markets.asp), broadly speaking, the industry is breaking down into the following four supplier segments:
 
 -   **Generators**: These operators create electrical power. 
 -   **Energy Network Operators**: Grid operators, regional network operators and distribution network operators sell access to their networks to retail service providers.
--   **Energy Traders and Marketers**: By buying and selling energy futures and other derivatives and creating complex "structured products," these companies usefully help utilities and power-hungry businesses secure a dependable [supply](https://www.investopedia.com/ask/answers/040915/how-does-law-supply-and-demand-affect-oil-industry.asp) of electricity at a stable, predictable price. 
+-   **Energy Traders and Marketers**: By buying and selling energy futures and other derivatives and creating complex "structured products," these companies usefully help utilities and power-hungry businesses secure a dependable [[supply]](https://www.investopedia.com/ask/answers/040915/how-does-law-supply-and-demand-affect-oil-industry.asp) of electricity at a stable, predictable price. 
 -   **Energy Service Providers and Retailers**: In most U.S. states, consumers can now choose their own retail service providers.
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ While electric utility companies used to be regionally [monopolistic](https://ww
 
 ## Debt Levels of the Utilities Sector
 
-Utilities require a significant amount of expensive [infrastructure](https://www.investopedia.com/terms/i/infrastructure.asp) and consequently carry large amounts of debt on their balance sheets. These [debt loads](https://www.investopedia.com/terms/d/debt-load.asp) make utilities hypersensitive to changes in the market [interest rate](https://www.investopedia.com/terms/i/interestrate.asp). And because utilities are capital-intensive, they require a continuous inflow of funds to finance infrastructure upgrades and new asset purchases. The significant debt load also results in high [utility debt-to-equity](https://www.investopedia.com/ask/answers/070715/what-debtequity-ratio-typical-companies-utilities-sector.asp) (D/E) ratios, which can impact companies’ [credit ratings](https://www.investopedia.com/terms/c/creditrating.asp), making it difficult to borrow funds, which ultimately increases their costs of operations.
+Utilities require a significant amount of expensive [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp) and consequently carry large amounts of debt on their balance sheets. These [[debt loads]](https://www.investopedia.com/terms/d/debt-load.asp) make utilities hypersensitive to changes in the market [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp). And because utilities are capital-intensive, they require a continuous inflow of funds to finance infrastructure upgrades and new asset purchases. The significant debt load also results in high [[utility debt-to-equity]](https://www.investopedia.com/ask/answers/070715/what-debtequity-ratio-typical-companies-utilities-sector.asp) (D/E) ratios, which can impact companies’ [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp), making it difficult to borrow funds, which ultimately increases their costs of operations.
 
 ## Consumer Impact on Utilities Sector
 
@@ -53,7 +53,7 @@ Long-term power purchase agreements between companies and consumers also impact 
 
 ## How Investors Trade Utilities
 
-Because utility stocks pay reliable dividends, investors often favor them over lower-dividend paying equities. After the [financial crisis of 2008](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp), the Federal Reserve cut interest rates, in an effort to stimulate the economy. As a result, investors flocked to utilities, as safer investments. Simply put: utility companies are a viable defensive choice for investors during macroeconomic downturns.
+Because utility stocks pay reliable dividends, investors often favor them over lower-dividend paying equities. After the [[financial crisis of 2008]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp), the Federal Reserve cut interest rates, in an effort to stimulate the economy. As a result, investors flocked to utilities, as safer investments. Simply put: utility companies are a viable defensive choice for investors during macroeconomic downturns.
 
 However, as the economy improves and interest rates rise, investors can find higher-yielding alternatives than utilities. As rates rise, so do the yields of U.S. Treasury bills. For example, if a utility pays a dividend yield of 3%, but increasing interest rates spike bond yields to 4%, the utility company would have to increase its dividend payout in order to match the rising yields of Treasuries. Therefore, utilities do well when interest rates decrease because their dividends are greater than Treasury yields. However, as the economy improves, utilities tend to sell off as interest rates rise back to normal levels and their dividends become once again lower than Treasuries.
 
@@ -83,8 +83,8 @@ Cons
 
 ## Real-World Example of Utilities
 
-Investors can buy into individual utility stocks or bonds, or they can invest in ETFs that comprise baskets of many utilities. For example, the [Utilities Select Sector SPDR Fund](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xlu) (XLU) is one of the largest utility sector funds, with a whopping $9 billion in assets under management. The ETF also is one of the most actively traded utility ETFs, with more than 10 million shares traded daily. The fund typically pays a dividend yield of around 3% with a low expense ratio of 0.13%.
+Investors can buy into individual utility stocks or bonds, or they can invest in ETFs that comprise baskets of many utilities. For example, the [[Utilities Select Sector SPDR Fund]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=xlu) (XLU) is one of the largest utility sector funds, with a whopping $9 billion in assets under management. The ETF also is one of the most actively traded utility ETFs, with more than 10 million shares traded daily. The fund typically pays a dividend yield of around 3% with a low expense ratio of 0.13%.
 
-In comparison, the XLU's dividend yield beats out the yield for the S&P 500 equity ETF—SPDR [S&P 500 Trust ETF](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy) (SPY)—that pays around 1.86%.
+In comparison, the XLU's dividend yield beats out the yield for the S&P 500 equity ETF—SPDR [[S&P 500 Trust ETF]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy) (SPY)—that pays around 1.86%.
 
 Furthermore, if the benchmark [10-year Treasury yield](https://www.cnbc.com/quotes/?symbol=US10Y) trades below 3%, investors might consider buying the utility sector through the XLU or individual stocks. It's important to check with your broker for current market pricing since Treasury yields, and dividend yields for both utilities and equities change with market conditions.

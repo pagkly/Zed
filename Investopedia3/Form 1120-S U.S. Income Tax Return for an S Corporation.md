@@ -16,11 +16,11 @@ author: Adam Barone
 Form 1120-S: U.S. Income Tax Return for an S Corporation
 ## What Is Form 1120-S: U.S. Income Tax Return?
 
-Form 1120-S: U.S. Income Tax Return for an S Corporation is a tax document that is used to report the income, losses, and dividends of S corporation shareholders. Essentially, Form 1120-S is an [S corporation's](https://www.investopedia.com/articles/investing/091614/understanding-s-corporations.asp) tax return.
+Form 1120-S: U.S. Income Tax Return for an S Corporation is a tax document that is used to report the income, losses, and dividends of S corporation shareholders. Essentially, Form 1120-S is an [[S corporation's]](https://www.investopedia.com/articles/investing/091614/understanding-s-corporations.asp) tax return.
 
-The [Schedule K-1](https://www.investopedia.com/terms/s/schedule-k-1.asp) is a form that can be attached to Form 1120-S or Form 1065. The Schedule K-1 form identifies the percentage of company shares owned by each individual shareholder for the tax year and must be prepared for every shareholder.
+The [[Schedule K-1]](https://www.investopedia.com/terms/s/schedule-k-1.asp) is a form that can be attached to Form 1120-S or Form 1065. The Schedule K-1 form identifies the percentage of company shares owned by each individual shareholder for the tax year and must be prepared for every shareholder.
 
-For a partnership, [Form 1065](https://www.investopedia.com/terms/f/form-1065.asp) is submitted instead of Form 1120-S.
+For a partnership, [[Form 1065]](https://www.investopedia.com/terms/f/form-1065.asp) is submitted instead of Form 1120-S.
 
 ### Key Takeaways
 
@@ -48,7 +48,7 @@ Form 1120-S can be downloaded from the IRS site.1
 
 Corporations with fewer than 100 shareholders may choose to form an S corporation for the purposes of avoiding double federal taxation. That is, the corporation passes its income along to the shareholders for the purposes of taxation. The shareholders are taxed but not the corporation.
 
-In addition, if the corporation does not have significant inventory, it is able to use the [cash method of accounting](https://www.investopedia.com/terms/c/cashaccounting.asp) under S corporation terms. This can be far simpler than the [accrual method](https://www.investopedia.com/terms/a/accrualaccounting.asp).
+In addition, if the corporation does not have significant inventory, it is able to use the [[cash method of accounting]](https://www.investopedia.com/terms/c/cashaccounting.asp) under S corporation terms. This can be far simpler than the [[accrual method]](https://www.investopedia.com/terms/a/accrualaccounting.asp).
 
 While S corporations have significant advantages, some downsides include being subject to many of the same rules that corporations (C corporations) must follow, including high legal and tax service fees.
 

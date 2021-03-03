@@ -16,9 +16,9 @@ author: Will Kenton
 Return on Revenue Defined
 ## What Is Return on Revenue?
 
-Return on revenue (ROR) is a measure of company profitability based on the amount of revenue generated. Return on revenue compares the amount of [net income](https://www.investopedia.com/terms/n/netincome.asp) generated for each dollar of [revenue](https://www.investopedia.com/terms/r/revenue.asp).
+Return on revenue (ROR) is a measure of company profitability based on the amount of revenue generated. Return on revenue compares the amount of [[net income]](https://www.investopedia.com/terms/n/netincome.asp) generated for each dollar of [[revenue]](https://www.investopedia.com/terms/r/revenue.asp).
 
-Return on revenue is one of the most important financial metrics in gauging the profitability of a company. ROR is also helpful in determining how well a company's management team generates sales while also managing expenses. Return on revenue is also called [net profit margin](https://www.investopedia.com/terms/n/net_margin.asp).
+Return on revenue is one of the most important financial metrics in gauging the profitability of a company. ROR is also helpful in determining how well a company's management team generates sales while also managing expenses. Return on revenue is also called [[net profit margin]](https://www.investopedia.com/terms/n/net_margin.asp).
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ ROR\=Net incomeSales Revenue\\text{ROR}=\\frac{\\text{Net income}}{\\text{Sale
 
 Net income is divided by revenue, which will yield a decimal. The result can be multiplied by 100 to make the result a percentage.
 
-Return on revenue uses net income, which is calculated as revenues minus expenses. The calculation includes both expenses paid in cash and non-cash expenses, such as [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). The net income calculation includes all of the business activities of the company, which includes day-to-day operations and unusual items, such as the sale of a building.
+Return on revenue uses net income, which is calculated as revenues minus expenses. The calculation includes both expenses paid in cash and non-cash expenses, such as [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp). The net income calculation includes all of the business activities of the company, which includes day-to-day operations and unusual items, such as the sale of a building.
 
 Revenue represents the total revenue from sales or the net revenue after rebates have been granted for returned merchandise. If net revenue is used by a company, it'll be calculated for investors and reported on the top line of the income statement.
 
@@ -56,11 +56,11 @@ A company can increase the return on revenue or profit margin by increasing reve
 
 Assume, for example, that a sporting goods store sells an $80 baseball glove that generates a $16 profit and a $200 baseball bat that produces a $20 profit. While the bat generates more revenue, the glove produces a 20% profit ($16 / $80), and the bat only earns a 10% profit ($20 / $200). By shifting the store's sales and marketing effort to baseball gloves, the business can earn more net income per dollar of sales, which increases ROR.
 
-A corporation's ROR allows an investor to compare profitability from year to year and evaluate the company's management's business decisions. Since ROR does not consider a company's assets and liabilities, it should be used in conjunction with other metrics when evaluating a company's [financial performance](https://www.investopedia.com/terms/f/financialperformance.asp).
+A corporation's ROR allows an investor to compare profitability from year to year and evaluate the company's management's business decisions. Since ROR does not consider a company's assets and liabilities, it should be used in conjunction with other metrics when evaluating a company's [[financial performance]](https://www.investopedia.com/terms/f/financialperformance.asp).
 
 ## ROR vs. EPS
 
-When management makes changes to increase ROR, the company's decisions also help increase [earnings per share (EPS)](https://www.investopedia.com/terms/e/eps.asp). EPS is an indicator of a company's profitability by comparing net income to the number of outstanding shares of common stock. The higher the EPS, the more profitable a company is considered.
+When management makes changes to increase ROR, the company's decisions also help increase [[earnings per share (EPS)]](https://www.investopedia.com/terms/e/eps.asp). EPS is an indicator of a company's profitability by comparing net income to the number of outstanding shares of common stock. The higher the EPS, the more profitable a company is considered.
 
 EPS is calculated by dividing net income by the number of outstanding shares of common stock. For example, let's assume that a firm earns a total net income of $1 million per year and has 100,000 shares of common stock outstanding, and EPS is ($1,000,000 / 100,000 shares), or $10 per share. If senior management can increase net income to $1.2 million, and there is no change in common stock shares, EPS increases to $12 per share. The increase in net income also increases ROR. However, ROR has no bearing on the number of shares outstanding.
 

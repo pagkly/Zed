@@ -48,7 +48,7 @@ Bilateral sanctions are generally considered less risky because no one country c
 
 ## Trade Sanction Mechanisms 
 
-The most common types of trade sanctions are [quotas](https://www.investopedia.com/terms/q/quota.asp), [tariffs](https://www.investopedia.com/terms/t/tariff.asp), [non-tariff barriers (NTBs)](https://www.investopedia.com/terms/n/nontariff-barrier.asp), asset freezes or seizures, and [embargoes](https://www.investopedia.com/terms/e/embargo.asp).
+The most common types of trade sanctions are [[quotas]](https://www.investopedia.com/terms/q/quota.asp), [[tariffs]](https://www.investopedia.com/terms/t/tariff.asp), [[non-tariff barriers (NTBs)]](https://www.investopedia.com/terms/n/nontariff-barrier.asp), asset freezes or seizures, and [embargoes](https://www.investopedia.com/terms/e/embargo.asp).
 
 -   **Quotas** are government-imposed trade restrictions that limit the number, or monetary value, of goods that can be imported or exported during a particular time period. 
 -   **Tariffs** are barriers between certain countries or geographical areas, taking the form of high import (and occasionally export) taxes, levied by a government. 

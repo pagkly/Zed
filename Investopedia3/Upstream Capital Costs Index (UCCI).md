@@ -16,7 +16,7 @@ author: Lucas Downey
 Upstream Capital Costs Index (UCCI)
 ## What Is the Upstream Capital Costs Index (UCCI)?
 
-The Upstream Capital Costs Index (UCCI) is a proprietary metric index that tracks the [composite capital cost](https://www.investopedia.com/terms/c/composite-cost-of-capital.asp) of materials, facilities, equipment, and personnel for oil and natural gas producing projects. Cambridge Energy Research Associates (CERA), now owned by IHS Markit, owns and manages the index.
+The Upstream Capital Costs Index (UCCI) is a proprietary metric index that tracks the [[composite capital cost]](https://www.investopedia.com/terms/c/composite-cost-of-capital.asp) of materials, facilities, equipment, and personnel for oil and natural gas producing projects. Cambridge Energy Research Associates (CERA), now owned by IHS Markit, owns and manages the index.
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ The UCCI is only one of a family of indexes published by IHS Markit, a London-b
 
 The 28 projects included in the UCCI represent a diversified portfolio of liquified natural gas (LNG), pipeline, onshore, and offshore projects in a range of geographic locations.1 The index looks at the changes to operating and capital costs over specific time frames.
 
-Generally, oil and gas production separates into the [upstream](https://www.investopedia.com/terms/u/upstream.asp), midstream, and downstream stages. The upstream segment of operations involves [exploration and production](https://www.investopedia.com/terms/e/exploration-production-company.asp) (E&P) of oil and natural gas. Many large integrated oil companies combine upstream activities with midstream and downstream operations.
+Generally, oil and gas production separates into the [[upstream]](https://www.investopedia.com/terms/u/upstream.asp), midstream, and downstream stages. The upstream segment of operations involves [[exploration and production]](https://www.investopedia.com/terms/e/exploration-production-company.asp) (E&P) of oil and natural gas. Many large integrated oil companies combine upstream activities with midstream and downstream operations.
 
 The composite cost of capital is a company's cost to finance its business and projects. The determination of this amount is known as the [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC). The calculation involves multiplying the cost of each of the individual capital components by its proportional weight and then summing the results. A high composite cost of capital indicates that a company has high borrowing costs.
 

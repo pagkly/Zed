@@ -16,11 +16,11 @@ author: Will Kenton
 How Takeovers Work
 ## What Is a Takeover?
 
-A takeover occurs when one company makes a successful bid to assume control of or acquire another. Takeovers can be done by purchasing a majority stake in the target firm. Takeovers are also commonly done through the [merger and acquisition](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) process. In a takeover, the company making the bid is the acquirer and the company it wishes to take control of is called the target.
+A takeover occurs when one company makes a successful bid to assume control of or acquire another. Takeovers can be done by purchasing a majority stake in the target firm. Takeovers are also commonly done through the [[merger and acquisition]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) process. In a takeover, the company making the bid is the acquirer and the company it wishes to take control of is called the target.
 
-Takeovers are typically initiated by a larger company seeking to take over a smaller one. They can be voluntary, meaning they are the result of a mutual decision between the two companies. In other cases, they may be unwelcome, in which case the acquirer goes after the [target](https://www.investopedia.com/terms/t/targetfirm.asp) without its knowledge or some times without its full agreement.
+Takeovers are typically initiated by a larger company seeking to take over a smaller one. They can be voluntary, meaning they are the result of a mutual decision between the two companies. In other cases, they may be unwelcome, in which case the acquirer goes after the [[target]](https://www.investopedia.com/terms/t/targetfirm.asp) without its knowledge or some times without its full agreement.
 
-In corporate finance, there can be a variety of ways for structuring a takeover. An acquirer may choose to take over [controlling interest](https://www.investopedia.com/terms/c/controllinginterest.asp) of the company’s outstanding shares, buy the entire company outright, merge an acquired company to create new synergies, or acquire the company as a subsidiary.
+In corporate finance, there can be a variety of ways for structuring a takeover. An acquirer may choose to take over [[controlling interest]](https://www.investopedia.com/terms/c/controllinginterest.asp) of the company’s outstanding shares, buy the entire company outright, merge an acquired company to create new synergies, or acquire the company as a subsidiary.
 
 ### Key Takeaways
 
@@ -33,11 +33,11 @@ In corporate finance, there can be a variety of ways for structuring a takeover.
 
 Takeovers are fairly common in the business world. However, they may be structured in a multitude of ways. Whether both parties are in agreement or not, will often influence the structuring of a takeover. 
 
-Keep in mind, if a company owns more than 50% of the shares of a company, it is considered controlling interest. Controlling interest requires a company to account for the owned company as a subsidiary in its financial reporting, and this requires consolidated financial statements.1 A 20% to 50% ownership stake is accounted for more simply through the [equity method](https://www.investopedia.com/terms/e/equityaccounting.asp).2 If a full-on merger or acquisition occurs, shares will often be combined under one symbol. 
+Keep in mind, if a company owns more than 50% of the shares of a company, it is considered controlling interest. Controlling interest requires a company to account for the owned company as a subsidiary in its financial reporting, and this requires consolidated financial statements.1 A 20% to 50% ownership stake is accounted for more simply through the [[equity method]](https://www.investopedia.com/terms/e/equityaccounting.asp).2 If a full-on merger or acquisition occurs, shares will often be combined under one symbol. 
 
 ## Types of Takeovers
 
-Takeovers can take many different forms. A welcome or [friendly takeover](https://www.investopedia.com/terms/f/friendly-takeover.asp) will usually be structured as a merger or acquisition. These generally go smoothly because the boards of directors for both companies usually consider it a positive situation. Voting must still take place in a friendly takeover. However, when the board of directors and key shareholders are in favor of the takeover, takeover voting can more easily be achieved. 
+Takeovers can take many different forms. A welcome or [[friendly takeover]](https://www.investopedia.com/terms/f/friendly-takeover.asp) will usually be structured as a merger or acquisition. These generally go smoothly because the boards of directors for both companies usually consider it a positive situation. Voting must still take place in a friendly takeover. However, when the board of directors and key shareholders are in favor of the takeover, takeover voting can more easily be achieved. 
 
 Usually, in these cases of mergers or acquisitions, shares will be combined under one symbol. This can be done by exchanging shares from the target’s shareholders to shares of the combined entity.
 
@@ -47,9 +47,9 @@ The target firm’s management and board of directors may strongly resist takeov
 
 A [reverse takeover](https://www.investopedia.com/terms/r/reversetakeover.asp) happens when a private company takes over a public one. The acquiring company must have enough capital to fund the takeover. Reverse takeovers provide a way for a private company to go public without having to take on the risk or added expense of going through an initial public offering (IPO).
 
-A creeping takeover occurs when one company slowly increases its share ownership in another. Once the share ownership gets to 50% or more, the acquiring company is required to account for the target’s business through [consolidated financial statement](https://www.investopedia.com/terms/c/consolidatedfinancialstatement.asp) reporting.1 The 50% level can thus be a significant threshold, particularly since some companies may not want the responsibilities of controlling ownership. After the 50% threshold has been breached, the target company should be considered a subsidiary.
+A creeping takeover occurs when one company slowly increases its share ownership in another. Once the share ownership gets to 50% or more, the acquiring company is required to account for the target’s business through [[consolidated financial statement]](https://www.investopedia.com/terms/c/consolidatedfinancialstatement.asp) reporting.1 The 50% level can thus be a significant threshold, particularly since some companies may not want the responsibilities of controlling ownership. After the 50% threshold has been breached, the target company should be considered a subsidiary.
 
-Creeping takeovers may also involve [activists](https://www.investopedia.com/terms/a/activist-investor.asp) who increasingly buy shares of a company with the intent of creating value through management changes. An activist takeover would likely happen gradually over time.
+Creeping takeovers may also involve [[activists]](https://www.investopedia.com/terms/a/activist-investor.asp) who increasingly buy shares of a company with the intent of creating value through management changes. An activist takeover would likely happen gradually over time.
 
 ### 50%
 
@@ -61,7 +61,7 @@ There are many reasons why companies may initiate a takeover. An acquiring compa
 
 Some companies may opt for a strategic takeover. This allows the acquirer to enter a new market without taking on any extra time, money, or risk. The acquirer may also be able to eliminate competition by going through a strategic takeover.
 
-There can also be [activist takeovers](https://www.wsj.com/articles/elliott-looks-beyond-activism-to-full-blown-takeovers-11548870326). With these takeovers, a shareholder seeks controlling interest ownership to initiate change or acquire controlling voting rights.
+There can also be [[activist takeovers]](https://www.wsj.com/articles/elliott-looks-beyond-activism-to-full-blown-takeovers-11548870326). With these takeovers, a shareholder seeks controlling interest ownership to initiate change or acquire controlling voting rights.
 
 Companies that make attractive takeover targets include:
 
@@ -73,7 +73,7 @@ Companies that make attractive takeover targets include:
 
 ## Funding Takeovers
 
-Financing takeovers can come in many different forms. When the target is a [publicly-traded company](https://www.investopedia.com/terms/p/publiccompany.asp), the acquiring company can buy shares of the business in the secondary market. In a friendly merger or acquisition, the acquirer makes an offer for all of the target’s outstanding shares. A friendly merger or acquisition will usually be funded through cash, debt, or new stock issuance of the combined entity. 
+Financing takeovers can come in many different forms. When the target is a [[publicly-traded company]](https://www.investopedia.com/terms/p/publiccompany.asp), the acquiring company can buy shares of the business in the secondary market. In a friendly merger or acquisition, the acquirer makes an offer for all of the target’s outstanding shares. A friendly merger or acquisition will usually be funded through cash, debt, or new stock issuance of the combined entity. 
 
 When a company uses debt, it's known as a leveraged buyout. Debt capital for the acquirer may come from new funding lines or the issuance of new corporate bonds.
 

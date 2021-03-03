@@ -16,7 +16,7 @@ author: Christina Majaski
 How the European Banking Authority Works
 ## What Is the European Banking Authority (EBA)?
 
-The European Banking Authority (EBA) is a regulatory body that strives to maintain financial stability throughout the [European Union’s (EU)](https://www.investopedia.com/terms/e/europeanunion.asp) banking industry. It was established in 2010 by the European Parliament, replacing the Committee of European Banking Supervisors (CEBS).
+The European Banking Authority (EBA) is a regulatory body that strives to maintain financial stability throughout the [[European Union’s (EU)]](https://www.investopedia.com/terms/e/europeanunion.asp) banking industry. It was established in 2010 by the European Parliament, replacing the Committee of European Banking Supervisors (CEBS).
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ The European Central Bank (ECB) ensures that banks follow the rules set forth by
 
 ## Real-World Example the European Banking Authority (EBA)
 
-The 2016 stress test carried out on 51 banks from 15 EU and [European Economic Area](https://www.investopedia.com/terms/e/european-economic-area-eea-agreement.asp) (EEA) countries revealed that only Banca Monte dei Paschi di Siena (MPS) in Italy lacked the adequate capital reserves needed to weather a three-year economic shock.
+The 2016 stress test carried out on 51 banks from 15 EU and [[European Economic Area]](https://www.investopedia.com/terms/e/european-economic-area-eea-agreement.asp) (EEA) countries revealed that only Banca Monte dei Paschi di Siena (MPS) in Italy lacked the adequate capital reserves needed to weather a three-year economic shock.
 
 After these results, MPS jettisoned many of its non-performing loans from its balance sheet, in a strategic effort to boost its capital levels to the required threshold.
 
@@ -51,7 +51,7 @@ The ECB supervises banks to ensure that they follow the rules set by the EBA, wh
 
 ## The Effectiveness of Bank Operations
 
-The 2008 financial crisis and the European sovereign debt crisis have illuminated general shortcomings in EU banking operations. After the collapse of the [U.S. mortgage bubble](https://www.investopedia.com/terms/h/housing_bubble.asp) and Greece's revelation that its deficits were vastly larger than previously thought, [Eurozone](https://www.investopedia.com/terms/e/eurozone.asp) states like Portugal, Ireland, Spain, and Greece itself faced soaring debt-servicing costs. These nations consequently sought bailouts from international institutions.
+The 2008 financial crisis and the European sovereign debt crisis have illuminated general shortcomings in EU banking operations. After the collapse of the [[U.S. mortgage bubble]](https://www.investopedia.com/terms/h/housing_bubble.asp) and Greece's revelation that its deficits were vastly larger than previously thought, [[Eurozone]](https://www.investopedia.com/terms/e/eurozone.asp) states like Portugal, Ireland, Spain, and Greece itself faced soaring debt-servicing costs. These nations consequently sought bailouts from international institutions.
 
 Fiscal austerity measures designed to help countries exit bailout programs have slowed European economic growth. At the same time, the introduction of negative interest rates by the ECB and other central banks has squeezed banks' margins.
 

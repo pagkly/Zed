@@ -16,7 +16,7 @@ author: Julia Kagan
 Qualified Pre-Retirement Survivor Annuity (QPSA)
 ## What Is a Qualified Pre-Retirement Survivor Annuity?
 
-A qualified pre-retirement survivor annuity (QPSA) is a death benefit that is paid to the surviving spouse of a deceased employee. If the employee dies before retirement, the qualified pre-retirement survivor annuity is paid to offer compensation to the surviving spouse for the loss of retirement benefits that would have otherwise been paid to the employee. As the name implies, QPSAs are paid only in the case of [qualified plans](https://www.investopedia.com/terms/q/qrp.asp).
+A qualified pre-retirement survivor annuity (QPSA) is a death benefit that is paid to the surviving spouse of a deceased employee. If the employee dies before retirement, the qualified pre-retirement survivor annuity is paid to offer compensation to the surviving spouse for the loss of retirement benefits that would have otherwise been paid to the employee. As the name implies, QPSAs are paid only in the case of [[qualified plans]](https://www.investopedia.com/terms/q/qrp.asp).
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ A qualified pre-retirement survivor annuity (QPSA) is a death benefit that is pa
 
 A QPSA provides a way for an individual to provide for their surviving spouse or another beneficiary should they become deceased prior to the institution of their retirement benefits. QPSA benefits are ones that must be offered with all types of qualified plans to vested participants. Some of these plans include defined-benefit plans and money purchase plans. 
 
-The [Employee Retirement Income Security Act (ERISA](https://www.investopedia.com/terms/e/erisa.asp)) mandates how the payments for a QPSA should be calculated. Both the employee and the spouse must sign off on a waiver of QPSA benefits and have it witnessed by either a notary public or an authorized plan representative.
+The [[Employee Retirement Income Security Act (ERISA]](https://www.investopedia.com/terms/e/erisa.asp)) mandates how the payments for a QPSA should be calculated. Both the employee and the spouse must sign off on a waiver of QPSA benefits and have it witnessed by either a notary public or an authorized plan representative.
 
 In some instances, a Qualified Domestic Relations Order (QDRO) is needed. The QDRO is a judgment or order for a retirement plan to pay child support, alimony, or property rights to a spouse, child, or another dependent of a participant.
 
-According to the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS), a "QPSA is a form of a death benefit paid as a [life annuity](https://www.investopedia.com/terms/l/lifeannuity.asp) (a series of payments, usually monthly, for life) to the surviving spouse (or former spouse, child or dependent who must be treated as a surviving spouse under a QDRO) of a participant,” where there are set conditions that must be met. 
+According to the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS), a "QPSA is a form of a death benefit paid as a [[life annuity]](https://www.investopedia.com/terms/l/lifeannuity.asp) (a series of payments, usually monthly, for life) to the surviving spouse (or former spouse, child or dependent who must be treated as a surviving spouse under a QDRO) of a participant,” where there are set conditions that must be met. 
 
 A QPSA provides a level of protection for a surviving spouse in the form of monthly payments for life.
 
@@ -42,6 +42,6 @@ A QPSA provides a level of protection for a surviving spouse in the form of mont
 
 For QPSA payments to be made, the participant must have vested benefits and died before retirement. As well, if it’s a spouse that is to receive QPSA payments, they must be married for at least one year.
 
-Some types of qualified plans may be exempt from having to provide a QPSA to a surviving spouse. This happens with [defined-contribution plans](https://www.investopedia.com/terms/d/definedcontributionplan.asp), if the plans do not offer a life annuity option, or if the plans require the benefit be paid in full to the surviving spouse.
+Some types of qualified plans may be exempt from having to provide a QPSA to a surviving spouse. This happens with [[defined-contribution plans]](https://www.investopedia.com/terms/d/definedcontributionplan.asp), if the plans do not offer a life annuity option, or if the plans require the benefit be paid in full to the surviving spouse.
 
 A QPSA notice must be sent to the participant if the plan offers a qualified pre-retirement survivor annuity. The notice must be sent when the participant is between the ages of 32 and 35, or within one year from when an employee becomes a plan participant if he or she is older than 35.

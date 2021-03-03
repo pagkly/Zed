@@ -16,7 +16,7 @@ author: Chris B Murphy
 How the EV/2P Ratio Is Used
 ## What Is the EV/2P Ratio?
 
-The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) divided by the proven and probable (2P) reserves. The enterprise value reflects the company's total value. Proven and probable (2P) refers to energy reserves, such as oil, that are likely to be recovered.
+The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) divided by the proven and probable (2P) reserves. The enterprise value reflects the company's total value. Proven and probable (2P) refers to energy reserves, such as oil, that are likely to be recovered.
 
 ## The Formula for the EV/2P Ratio Is
 
@@ -26,7 +26,7 @@ EV/2P\=Enterprise Value2P Reserveswhere:2P Reserves\=Total proven and prob
 
 ## How to Calculate the EV/2P Ratio
 
-1.  Obtain or calculate the enterprise value of the company. The EV is often calculated for [investors](https://www.investopedia.com/terms/l/letterofcredit.asp) but if not, add the market capitalization and total debt together and subtract out cash.
+1.  Obtain or calculate the enterprise value of the company. The EV is often calculated for [[investors]](https://www.investopedia.com/terms/l/letterofcredit.asp) but if not, add the market capitalization and total debt together and subtract out cash.
 2.  Plug the EV value in the numerator.
 3.  Plug the 2P reserves value into the denominator and divide it into EV.
 
@@ -34,7 +34,7 @@ EV/2P\=Enterprise Value2P Reserveswhere:2P Reserves\=Total proven and prob
 
 Enterprise value compared to proven and probable reserves is a metric that helps analysts understand how well a company's resources will support its operations and growth. Ideally, the EV/2P ratio should not be used in isolation, as not all reserves are the same. However, it can still be an important metric if little is known about the company's [cash flow](https://www.investopedia.com/terms/c/cashflow.asp).
 
-Reserves can be proven, probable, or [possible reserves](https://www.investopedia.com/terms/p/possible-reserves.asp). The [proven reserves](https://www.investopedia.com/terms/p/proven-reserves.asp) are typically known as 1P, with many analysts referring to it as P90, or having a 90% probability of being produced. [Probable reserves](https://www.investopedia.com/terms/p/probable-reserves.asp) are referred to as P50 or having a 50% certainty of being produced. When used in conjunction with one another, it is referred to as 2P.
+Reserves can be proven, probable, or [possible reserves](https://www.investopedia.com/terms/p/possible-reserves.asp). The [[proven reserves]](https://www.investopedia.com/terms/p/proven-reserves.asp) are typically known as 1P, with many analysts referring to it as P90, or having a 90% probability of being produced. [Probable reserves](https://www.investopedia.com/terms/p/probable-reserves.asp) are referred to as P50 or having a 50% certainty of being produced. When used in conjunction with one another, it is referred to as 2P.
 
 When the EV/2P multiple is high, it means the company is trading at a premium for a given amount of oil in the ground. Conversely, a low value would suggest a potentially undervalued company.
 
@@ -45,7 +45,7 @@ It's important to compare a company's EV/2P ratio with those of similar companie
 ### Key Takeaways
 
 -   Enterprise value compared to proven and probable reserves is a metric that helps analysts understand how well a company's resources will support its operations and growth.
--   The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) divided by the proven and probable (2P) reserves.
+-   The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) (EV) divided by the proven and probable (2P) reserves.
 -   It's important to compare a company's EV/2P ratio with those of similar companies and with the historical values of the ratio.
 
 ## Example of the EV/2P Ratio

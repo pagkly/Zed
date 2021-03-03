@@ -16,7 +16,7 @@ author: Will Kenton
 Ultra Vires Acts
 ## What Are Ultra Vires Acts?
 
-Ultra vires acts are any acts that lie beyond the authority of a [corporation](https://www.investopedia.com/terms/c/corporation.asp) to perform. Ultra vires acts fall outside the powers that are specifically listed in a [corporate charter](https://www.investopedia.com/terms/c/corporatecharter.asp) or law. This can also refer to any action that is specifically prohibited by the corporate charter.
+Ultra vires acts are any acts that lie beyond the authority of a [[corporation]](https://www.investopedia.com/terms/c/corporation.asp) to perform. Ultra vires acts fall outside the powers that are specifically listed in a [[corporate charter]](https://www.investopedia.com/terms/c/corporatecharter.asp) or law. This can also refer to any action that is specifically prohibited by the corporate charter.
 
 The roots of the term are from a Latin phrase that means beyond the power. It is the opposite of under proper authority—intra vires. You will also find the term in the legal profession.
 
@@ -26,7 +26,7 @@ Ultra vires acts can also be defined as any excessive use of corporate power tha
 
 Companies have a variety of legal documents and directives that outline the parameters of what actions are permitted by each organization, its employees, and directors. These documents can include what is known as a "memorandum of association." The memorandum is largely used in Europe but not in the United States.
 
-The [memorandum](https://www.investopedia.com/terms/o/offeringmemorandum.asp) combined with [articles of association](https://www.investopedia.com/terms/a/articles-of-association.asp) can serve as a constitution for companies that outlines the conditions by which the organization may operate and interact with [shareholders](https://www.investopedia.com/terms/s/shareholder.asp). The memorandum offers guidance on the external matters the company can engage in. [Articles of incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp) also define the nature of a company, its purpose, and the type of organization it will be.
+The [[memorandum]](https://www.investopedia.com/terms/o/offeringmemorandum.asp) combined with [[articles of association]](https://www.investopedia.com/terms/a/articles-of-association.asp) can serve as a constitution for companies that outlines the conditions by which the organization may operate and interact with [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp). The memorandum offers guidance on the external matters the company can engage in. [[Articles of incorporation]](https://www.investopedia.com/terms/a/articlesofincorporation.asp) also define the nature of a company, its purpose, and the type of organization it will be.
 
 If other types of entities such as government bodies also take actions beyond the scope of their legal powers, their deeds can also be described as ultra vires acts.
 

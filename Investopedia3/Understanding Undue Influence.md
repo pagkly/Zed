@@ -16,9 +16,9 @@ author: Will Kenton
 Understanding Undue Influence
 ## What Is Undue Influence?
 
-Undue influence occurs when an individual is able to persuade another's decisions due to the relationship between the two parties. Often, one of the parties is in a position of power over the other due to elevated [status](https://www.investopedia.com/terms/s/status-symbol.asp), higher education, or emotional ties. The more powerful individual uses this advantage to coerce the other individual into making decisions that might not be in their long-term best interest.
+Undue influence occurs when an individual is able to persuade another's decisions due to the relationship between the two parties. Often, one of the parties is in a position of power over the other due to elevated [[status]](https://www.investopedia.com/terms/s/status-symbol.asp), higher education, or emotional ties. The more powerful individual uses this advantage to coerce the other individual into making decisions that might not be in their long-term best interest.
 
-In exerting undue influence, the influencing individual is often able to take advantage of the weaker party. In contract law, a party claiming to be the victim of undue influence may be able to [void the terms of the agreement](https://www.investopedia.com/terms/v/void-contract.asp).
+In exerting undue influence, the influencing individual is often able to take advantage of the weaker party. In contract law, a party claiming to be the victim of undue influence may be able to [[void the terms of the agreement]](https://www.investopedia.com/terms/v/void-contract.asp).
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The onus in this type of relationship is on the person with influence to prove t
 
 ## Example of Undue Influence
 
-For example, Bert is Ernie's therapist. Bert is also involved in a couple of [real estate](https://www.investopedia.com/terms/r/realestate.asp) development deals around town. Ernie starts talking to Bert about how he has heard about units for sale in the complex that Bert is invested in developing. Ernie isn't interested and doesn't feel it's appropriate for him to purchase a home at that time, but feels left behind by his friends who are all purchasing units or making other investments in the project.
+For example, Bert is Ernie's therapist. Bert is also involved in a couple of [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) development deals around town. Ernie starts talking to Bert about how he has heard about units for sale in the complex that Bert is invested in developing. Ernie isn't interested and doesn't feel it's appropriate for him to purchase a home at that time, but feels left behind by his friends who are all purchasing units or making other investments in the project.
 
 Bert uses his place of power over Ernie to convince him that it's a good step forward in his life also to make an investment in the project. This is to Ernie's financial detriment, but it increases the value of Bert's investment. Bert has used undue influence.
 

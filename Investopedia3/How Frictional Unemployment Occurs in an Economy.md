@@ -17,9 +17,9 @@ Julia Kagan
 How Frictional Unemployment Occurs in an Economy
 ## What Is Frictional Unemployment?
 
-Frictional unemployment is the result of voluntary employment transitions within an [economy](https://www.investopedia.com/terms/e/economy.asp). Frictional unemployment naturally occurs, even in a growing, stable economy. Workers choosing to leave their jobs in search of new ones and workers entering the workforce for the first time constitute frictional unemployment. It does not include workers who remain in their current job until finding a new one, as, obviously, they are never unemployed.
+Frictional unemployment is the result of voluntary employment transitions within an [[economy]](https://www.investopedia.com/terms/e/economy.asp). Frictional unemployment naturally occurs, even in a growing, stable economy. Workers choosing to leave their jobs in search of new ones and workers entering the workforce for the first time constitute frictional unemployment. It does not include workers who remain in their current job until finding a new one, as, obviously, they are never unemployed.
 
-Frictional unemployment is always present in the economy. It contributes to the overall employment picture and is part of [natural unemployment](https://www.investopedia.com/terms/n/naturalunemployment.asp), which is the minimum unemployment rate in an economy due to economic forces and movement of labor. Natural unemployment also reflects the number of workers who are involuntarily unemployed, whether due to a lack of skill or replacement by technology.
+Frictional unemployment is always present in the economy. It contributes to the overall employment picture and is part of [[natural unemployment]](https://www.investopedia.com/terms/n/naturalunemployment.asp), which is the minimum unemployment rate in an economy due to economic forces and movement of labor. Natural unemployment also reflects the number of workers who are involuntarily unemployed, whether due to a lack of skill or replacement by technology.
 
 ### Key Takeaways
 
@@ -45,14 +45,14 @@ Frictional unemployment is actually beneficial because it is a sign that workers
 
 ## Advantages of Frictional Unemployment
 
-Frictional unemployment always exists in an economy with a free-moving labor force and is actually beneficial because it’s an indicator that individuals are seeking better positions by choice. It also helps businesses because it gives them a wider selection of potentially highly qualified candidates applying for positions. It is short term and thus [does not place much of a drain on government resources](https://www.investopedia.com/financial-edge/0811/the-cost-of-unemployment-to-the-economy.aspx).
+Frictional unemployment always exists in an economy with a free-moving labor force and is actually beneficial because it’s an indicator that individuals are seeking better positions by choice. It also helps businesses because it gives them a wider selection of potentially highly qualified candidates applying for positions. It is short term and thus [[does not place much of a drain on government resources]](https://www.investopedia.com/financial-edge/0811/the-cost-of-unemployment-to-the-economy.aspx).
 
 Frictional unemployment is reduced by quickly matching prospective job seekers with job openings. Thanks to the internet, workers can use social media and job-posting websites to search for jobs, which can lead to quicker turnaround times in getting hired.
 
 ## Frictional Unemployment vs. Cyclical Unemployment
 
-Frictional unemployment is not as worrisome as [cyclical unemployment](https://www.investopedia.com/terms/c/cyclicalunemployment.asp), which is predominant in a recession and caused by businesses laying off employees. In a recession with unemployment rising, frictional unemployment actually tends to decline because workers are usually afraid to leave their jobs to look for a better one.
+Frictional unemployment is not as worrisome as [[cyclical unemployment]](https://www.investopedia.com/terms/c/cyclicalunemployment.asp), which is predominant in a recession and caused by businesses laying off employees. In a recession with unemployment rising, frictional unemployment actually tends to decline because workers are usually afraid to leave their jobs to look for a better one.
 
 ## Special Considerations
 
-Frictional unemployment is [the only form of unemployment that is largely unaffected by economic stimulus](https://www.investopedia.com/ask/answers/050115/what-difference-between-frictional-unemployment-and-structural-unemployment.asp) from the government. For example, during bad economic times, the Federal Reserve Bank might lower interest rates to encourage borrowing. The hope is that the added money will spur spending by consumers and businesses, leading to growth and a reduction in unemployment. However, added money doesn’t address the causes of frictional unemployment, except perhaps in giving some workers the courage to become unemployed while searching for a new job. Still, as noted above, the challenging economic landscape that generated the pandemic stimulus would probably forestall such a choice.
+Frictional unemployment is [[the only form of unemployment that is largely unaffected by economic stimulus]](https://www.investopedia.com/ask/answers/050115/what-difference-between-frictional-unemployment-and-structural-unemployment.asp) from the government. For example, during bad economic times, the Federal Reserve Bank might lower interest rates to encourage borrowing. The hope is that the added money will spur spending by consumers and businesses, leading to growth and a reduction in unemployment. However, added money doesn’t address the causes of frictional unemployment, except perhaps in giving some workers the courage to become unemployed while searching for a new job. Still, as noted above, the challenging economic landscape that generated the pandemic stimulus would probably forestall such a choice.

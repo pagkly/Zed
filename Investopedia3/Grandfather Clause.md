@@ -29,7 +29,7 @@ A grandfather clause is an exemption that allows persons or entities to continue
 
 Generally speaking, a grandfather clause only exempts people or entities engaged in specified activities before new rules were put in place. All other parties entering the market post-implementation are required to abide by the new rules.
 
-As a result, grandfather clauses effectively place two sets of rules or regulations on otherwise similar businesses or circumstances, which can create unfair [competitive advantages](https://www.investopedia.com/terms/c/competitive_advantage.asp) for grandfathered parties. In these situations, grandfather clauses may only be granted for a set period of time, thereby encouraging the party with a grandfather clause to work towards compliance with the new rules before the [[A Closer Look at Grace Periods|grace period]] elapses.
+As a result, grandfather clauses effectively place two sets of rules or regulations on otherwise similar businesses or circumstances, which can create unfair [[competitive advantages]](https://www.investopedia.com/terms/c/competitive_advantage.asp) for grandfathered parties. In these situations, grandfather clauses may only be granted for a set period of time, thereby encouraging the party with a grandfather clause to work towards compliance with the new rules before the [[A Closer Look at Grace Periods|grace period]] elapses.
 
 ## History of the Grandfather Clause
 
@@ -49,6 +49,6 @@ Clauses with specific limitations may also be put in place to prevent unfair com
 
 ## Examples of Grandfather Clauses
 
-One of the most common uses of grandfather clauses is found in changing [zoning](https://www.investopedia.com/terms/z/zoning.asp) laws. For example, in situations where changes in zoning laws prohibit new retail establishments, the existing stores are typically granted grandfather clauses allowing them to stay in business if they abide by specified limitations. A common limitation in these circumstances is the sale of a business, which can void the grandfather clause.
+One of the most common uses of grandfather clauses is found in changing [[zoning]](https://www.investopedia.com/terms/z/zoning.asp) laws. For example, in situations where changes in zoning laws prohibit new retail establishments, the existing stores are typically granted grandfather clauses allowing them to stay in business if they abide by specified limitations. A common limitation in these circumstances is the sale of a business, which can void the grandfather clause.
 
 Grandfather clauses are also common in the electricity industry. In many countries, new regulations on carbon emissions are being applied to proposed generation plants, while grandfather clauses for specified time frames have been granted to existing coal-powered facilities. In part, the clauses are being put in place to allow coal-powered plants time to integrate emission controls and to allow workers and communities dependent on coal mining enough time to transition away from the industry.

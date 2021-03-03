@@ -16,7 +16,7 @@ author: Will Kenton
 What Is a Production Externality?
 ## What Are Production Externalities?
 
-Production externality refers to a side effect from an industrial operation, such as a paper mill producing waste that is dumped into a river. Production [externalities](https://www.investopedia.com/terms/e/externality.asp) are usually unintended, and their impacts are typically unrelated to and unsolicited by anyone. They can have economic, social, or environmental [side effects](https://www.investopedia.com/terms/s/side-effect.asp).
+Production externality refers to a side effect from an industrial operation, such as a paper mill producing waste that is dumped into a river. Production [[externalities]](https://www.investopedia.com/terms/e/externality.asp) are usually unintended, and their impacts are typically unrelated to and unsolicited by anyone. They can have economic, social, or environmental [[side effects]](https://www.investopedia.com/terms/s/side-effect.asp).
 
 Production externalities can be measured in terms of the difference between the actual cost of production of the good and the real cost of this production to society at large. The impact of production externalities can be positive or negative or a combination of both.
 
@@ -33,7 +33,7 @@ There are many examples of production externalities, such as pollution and deple
 
 A logging company can pay for the cost of a tree that they remove, but the cost of replacing an entire forest once it is gone is exponentially more than the sum of its lost trees. Freeway traffic jams and health problems that arise from breathing secondhand smoke are further examples of externalities in production. A notable example of a large ecosystem of negative production externality is the Flint water crisis in 2019.
 
-The British economist A. C. Pigou was the first to call out production externalities as a systemic phenomenon. Pigou argued that in the presence of externalities, we do not achieve [Pareto](https://www.investopedia.com/terms/p/paretoprinciple.asp) optimality, even under [perfect competition](https://www.investopedia.com/terms/p/perfectcompetition.asp). If the externalities are present, the resulting social benefit or cost becomes a combination of private and external benefits or costs. 
+The British economist A. C. Pigou was the first to call out production externalities as a systemic phenomenon. Pigou argued that in the presence of externalities, we do not achieve [Pareto](https://www.investopedia.com/terms/p/paretoprinciple.asp) optimality, even under [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp). If the externalities are present, the resulting social benefit or cost becomes a combination of private and external benefits or costs. 
 
 ### Examples of Positive Production Externalities
 

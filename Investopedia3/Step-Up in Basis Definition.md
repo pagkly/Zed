@@ -16,7 +16,7 @@ author: Will Kenton
 Step-Up in Basis Definition
 ## What Is a Step-Up in Basis?
 
-A step-up in basis is the readjustment of the value of an appreciated [asset](https://www.investopedia.com/terms/a/asset.asp) for tax purposes upon inheritance.1 The higher market value of the asset at the time of inheritance is considered for tax purposes. When an asset is passed on to a beneficiary, its value is typically more than what it was when the original owner acquired it. The asset receives a step-up in basis so that the beneficiary's capital gains tax is minimized. A step-up in basis is applied to the cost basis of property transferred at death.
+A step-up in basis is the readjustment of the value of an appreciated [[asset]](https://www.investopedia.com/terms/a/asset.asp) for tax purposes upon inheritance.1 The higher market value of the asset at the time of inheritance is considered for tax purposes. When an asset is passed on to a beneficiary, its value is typically more than what it was when the original owner acquired it. The asset receives a step-up in basis so that the beneficiary's capital gains tax is minimized. A step-up in basis is applied to the cost basis of property transferred at death.
 
 Tax basis is the amount of a taxpayer's investment in property for tax purposes, typically used to calculate figure depreciation, amortization, and other property dispositions.
 
@@ -28,7 +28,7 @@ Tax basis is the amount of a taxpayer's investment in property for tax purposes,
 
 ## Understanding Step-Up in Basis
 
-A step-up in basis reflects the changed value of an inherited asset. For example, an investor purchasing shares at $2 and leaving them to an heir when the shares are $15 means the shares receive a step-up in basis, making the [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) for the shares the current [market price](https://www.investopedia.com/terms/m/market-price.asp) of $15. Any capital gains tax paid in the future will be based on the $15 cost basis, not on the original [purchase price](https://www.investopedia.com/terms/p/purchaseprice.asp) of $2.
+A step-up in basis reflects the changed value of an inherited asset. For example, an investor purchasing shares at $2 and leaving them to an heir when the shares are $15 means the shares receive a step-up in basis, making the [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) for the shares the current [[market price]](https://www.investopedia.com/terms/m/market-price.asp) of $15. Any capital gains tax paid in the future will be based on the $15 cost basis, not on the original [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) of $2.
 
 The step-up in basis rule changes tax liability for inherited assets in comparison to other assets. For example, Sarah bought a loft in 2000 for $300,000. When Paul inherited the loft after Sarah's death, the loft was worth $500,000. When Paul sold the loft, his tax basis was $500,000. He paid taxes on the difference between the selling price and his stepped-up basis of $500,000. If there wasn't a step-up in basis then Paul would have to pay taxes on the difference between the selling price and the initial buying price of $300,000.
 
@@ -40,7 +40,7 @@ Residents of community property states, such as Wisconsin, may take advantage of
 
 The step-up in basis tax provision has often been criticized as a tax loophole for the ultra-rich and wealthy. They take advantage of it to eliminate or reduce their tax burden. For example, they can escape capital gains tax on stocks by placing their holdings in a trust fund for their heirs.
 
-In a typical case, a millionaire might invest in assets, such as real estate and stocks, that are expected to appreciate and provide them with a consistent rate of return during their lifetime. The investor's heirs will enjoy the benefits of the investment after their death because they will be taxed on the stepped-up cost basis, instead of the original cost, thereby allowing them to evade taxes worth millions of dollars. The case of the Walton family, which owns Walmart and is [supposed to have](https://www.dallasnews.com/business/retail/2013/09/14/how-wal-marts-waltons-keep-the-tax-man-at-bay/) put a majority of its holdings into estates to avoid taxes, is well-known.
+In a typical case, a millionaire might invest in assets, such as real estate and stocks, that are expected to appreciate and provide them with a consistent rate of return during their lifetime. The investor's heirs will enjoy the benefits of the investment after their death because they will be taxed on the stepped-up cost basis, instead of the original cost, thereby allowing them to evade taxes worth millions of dollars. The case of the Walton family, which owns Walmart and is [[supposed to have]](https://www.dallasnews.com/business/retail/2013/09/14/how-wal-marts-waltons-keep-the-tax-man-at-bay/) put a majority of its holdings into estates to avoid taxes, is well-known.
 
 Over the years, economists have proposed eliminating step-up in basis and have suggested that it could be replaced with lower capital gains taxes. Proponents of the provision argue that it is not difficult to calculate the exact value of assets that may be from several decades or, in some cases, even a century ago.
 

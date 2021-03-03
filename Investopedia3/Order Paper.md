@@ -16,7 +16,7 @@ author: Julia Kagan
 Order Paper
 ## What Is an Order Paper?
 
-An order paper, or order instrument, is a [negotiable instrument](https://www.investopedia.com/terms/n/negotiable-instrument.asp) that is payable to a specified person or its [assignee](https://www.investopedia.com/terms/a/assignee.asp). An instrument such as an order paper is negotiable only if it is payable to the order of a specified person; meaning that it must designate an individual's name to be paid out. It is the opposite of a bearer instrument, which does not require the designation of an individual to be paid out.
+An order paper, or order instrument, is a [[negotiable instrument]](https://www.investopedia.com/terms/n/negotiable-instrument.asp) that is payable to a specified person or its [[assignee]](https://www.investopedia.com/terms/a/assignee.asp). An instrument such as an order paper is negotiable only if it is payable to the order of a specified person; meaning that it must designate an individual's name to be paid out. It is the opposite of a bearer instrument, which does not require the designation of an individual to be paid out.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ An order paper, or order instrument, is a [negotiable instrument](https://www.in
 
 ## Understanding an Order Paper
 
-An order paper is one that says “pay to the order of,” whereas a [bearer instrument](https://www.investopedia.com/terms/b/bearer-instrument.asp) says “pay to the bearer of.” When an instrument states “pay to the order of,” it’s naming a specific designee who can collect payment on that instrument. Bearer instruments, on the other hand, do not name a specific payee; anyone who bears the instrument can collect payment on it. An order instrument must identify a named payee on the payee line. A bearer instrument, on the other hand, does not include the name of the payee on the instrument, and will typically not have a payee line.
+An order paper is one that says “pay to the order of,” whereas a [[bearer instrument]](https://www.investopedia.com/terms/b/bearer-instrument.asp) says “pay to the bearer of.” When an instrument states “pay to the order of,” it’s naming a specific designee who can collect payment on that instrument. Bearer instruments, on the other hand, do not name a specific payee; anyone who bears the instrument can collect payment on it. An order instrument must identify a named payee on the payee line. A bearer instrument, on the other hand, does not include the name of the payee on the instrument, and will typically not have a payee line.
 
-A common example of an order paper is a personal [check](https://www.investopedia.com/terms/c/check.asp). When a person writes a personal check, they name a specific payee on the payee line, which is preceded by the phrase “pay to the order of.” Only the payee named on this line is entitled to receive payment in the monetary amount specified on the check.
+A common example of an order paper is a personal [[check]](https://www.investopedia.com/terms/c/check.asp). When a person writes a personal check, they name a specific payee on the payee line, which is preceded by the phrase “pay to the order of.” Only the payee named on this line is entitled to receive payment in the monetary amount specified on the check.
 
-Other order instruments include registered bonds, [bills of exchange](https://www.investopedia.com/terms/b/billofexchange.asp) (a kind of check without interest), and [promissory notes](https://www.investopedia.com/terms/p/promissorynote.asp) (a written promise to pay). By contrast, a $20 bill would be an example of a bearer instrument. A $20 bill has no payee line and names no payee. Anyone who possesses (bears) the $20 bill can use it to obtain $20 worth of goods or services.
+Other order instruments include registered bonds, [[bills of exchange]](https://www.investopedia.com/terms/b/billofexchange.asp) (a kind of check without interest), and [[promissory notes]](https://www.investopedia.com/terms/p/promissorynote.asp) (a written promise to pay). By contrast, a $20 bill would be an example of a bearer instrument. A $20 bill has no payee line and names no payee. Anyone who possesses (bears) the $20 bill can use it to obtain $20 worth of goods or services.
 
 ## What Makes an Order Paper?
 

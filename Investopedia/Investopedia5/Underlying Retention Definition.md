@@ -1,0 +1,49 @@
+---
+alias: [Underlying Retention]
+created: 2021-03-03T00:17:17 (UTC +11:00)
+tags: [Underlying Retention Definition, Underlying Retention Definition]
+source: https://www.investopedia.com/terms/u/underlying-retention.asp
+author: Julia Kagan
+---
+
+# Underlying Retention Definition
+
+> ## Excerpt
+> Underlying retention is the net amount of risk or liability arising from an insurance policy that is retained by a company after reinsuring the balance.
+
+---
+
+Underlying Retention Definition
+## What is Underlying Retention
+
+Underlying retention is the [net amount of risk](https://www.investopedia.com/terms/a/amount-at-risk.asp) or [liability](https://www.investopedia.com/terms/l/liability.asp) arising from an insurance policy or policies that is retained by a ceding company after reinsuring the balance amount of the risk or liability. The degree of underlying retention will vary depending on the ceding company's assessment of the risks involved in retaining part of the policy liability and the profitability of the insurance policy.
+
+## Understanding Underlying Retention
+
+Underlying retention enables an insurer to avoid payment of the reinsurance premium. The insurer will generally retain the most profitable policies or their lowest-risk components while reinsuring less profitable, higher-risk policies.
+
+Reinsurance, also known as insurance for insurers or [stop-loss insurance](https://www.investopedia.com/terms/a/aggregate-stop-loss-insurance.asp), is the practice of insurers transferring portions of risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an [insurance claim](https://www.investopedia.com/terms/i/insurance_claim.asp).
+
+Reinsurance allows insurers to remain solvent by recovering some or all of amounts paid to claimants. Reinsurance reduces net liability on individual risks and catastrophe protection from large or multiple losses. It also provides [ceding companies](https://www.investopedia.com/terms/c/ceding-company.asp) the capacity to increase their [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) capabilities in terms of the number and size of risks.1
+
+### Key Takeaways
+
+-   Underlying retention enables insurers to avoid payment of the reinsurance premiums by retaining their lower-risk components.
+-   The ceding company assesses risks involved in retaining part of the policy liability to select policies that can be retained in its portfolio.
+-   Underlying retention is used in cases of non-proportional reinsurance.
+
+By covering the insurer against accumulated individual commitments, reinsurance gives the insurer more security for its equity and [solvency](https://www.investopedia.com/terms/s/solvency.asp) and more stable results when unusual and major events occur. Insurers may [underwrite](https://www.investopedia.com/terms/u/underwriting.asp) policies covering a larger quantity or volume of risks without excessively raising administrative costs to cover their [solvency margins](https://www.investopedia.com/terms/s/solvencyratio.asp). In addition, reinsurance makes substantial liquid assets available for insurers in case of exceptional losses.
+
+## Underlying Retention in Reinsurance
+
+Under proportional reinsurance, the reinsurer receives a prorated share of all policy premiums sold by the insurer. When claims are made, the reinsurer bears a portion of the losses based on a pre-negotiated percentage. The reinsurer also reimburses the insurer for processing, business acquisition, and writing costs.
+
+With non-proportional reinsurance, the reinsurer is liable if the insurer's losses exceed a specified amount, known as the priority or retention limit. As a result, the reinsurer does not have a proportional share in the insurer's premiums and losses. The priority or retention limit may be based on one type of risk or an entire risk category.
+
+[Excess-of-loss reinsurance](https://www.investopedia.com/terms/e/excess-loss-reinsurance.asp) is a type of non-proportional coverage in which the reinsurer covers the losses exceeding the insurer's retained limit. This contract is typically applied to catastrophic events, covering the insurer either on a per-occurrence basis or for the cumulative losses within a set time period.2
+
+Under risk-attaching reinsurance, all claims established during the effective period are covered, regardless of whether the losses occurred outside the coverage period. No coverage is provided for claims originating outside the coverage period, even if the losses occurred while the contract was in effect.
+
+## Example of Underlying Retention
+
+Suppose that an insurance company has a reinsurance treaty limit of $500,000. It chooses to retain $200,000 worth of insurance risk as its underlying retention. That retained portfolio consists mostly of policies that are worth much less and carry significantly lower risk. For example, the company may choose to retain claims less than $100,000, which carry significantly less risk, in its portfolio. On the other hand, policies that for greater amounts, averaging say $100,00 in payouts, are reinsured. Thus, the reinsurer saves money on premium payments for low-risk policies.

@@ -16,7 +16,7 @@ author: Julia Kagan
 Equated Monthly Installment (EMI)
 ## What Is an Equated Monthly Installment (EMI)?
 
-An equated monthly installment (EMI) is a fixed payment amount made by a [borrower](https://www.investopedia.com/terms/p/prime-borrower.asp) to a [lender](https://www.investopedia.com/terms/l/lender.asp) at a specified date each calendar month. Equated monthly installments are used to pay off both interest and [principal](https://www.investopedia.com/terms/p/principal.asp) each month so that over a specified number of years, the loan is paid off in full. With most common types of loans—such as real estate mortgages, auto loans, and student loans—the borrower makes fixed periodic payments to the lender over the course of several years with the goal of retiring the loan.
+An equated monthly installment (EMI) is a fixed payment amount made by a [[borrower]](https://www.investopedia.com/terms/p/prime-borrower.asp) to a [[lender]](https://www.investopedia.com/terms/l/lender.asp) at a specified date each calendar month. Equated monthly installments are used to pay off both interest and [[principal]](https://www.investopedia.com/terms/p/principal.asp) each month so that over a specified number of years, the loan is paid off in full. With most common types of loans—such as real estate mortgages, auto loans, and student loans—the borrower makes fixed periodic payments to the lender over the course of several years with the goal of retiring the loan.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ An equated monthly installment (EMI) is a fixed payment amount made by a [borrow
 
 ## How an Equated Monthly Installment Works
 
-EMIs differ from variable payment plans, in which the borrower is able to pay higher payment amounts at his or her discretion. In EMI plans borrowers are usually only allowed one fixed payment amount each month. The benefit of an EMI for borrowers is that they know precisely how much money they will need to pay toward their loan each month, which [makes their personal budgeting process easier](https://www.investopedia.com/articles/pf/06/budgeting.asp).
+EMIs differ from variable payment plans, in which the borrower is able to pay higher payment amounts at his or her discretion. In EMI plans borrowers are usually only allowed one fixed payment amount each month. The benefit of an EMI for borrowers is that they know precisely how much money they will need to pay toward their loan each month, which [[makes their personal budgeting process easier]](https://www.investopedia.com/articles/pf/06/budgeting.asp).
 
 The chief benefit of an EMI is to make your personal budgeting process easier.
 
@@ -40,7 +40,7 @@ The EMI reducing-balance method is calculated using the formula shown below, in 
 
 ## Example of Flat-Rate EMI
 
-Assume a property investor takes out a mortgage of $500,000, which is the principal loan amount, at an interest rate of 3.50% for 10 years. The investor’s EMI using the flat-rate method is calculated to be $5,625, or ($500,000 + ($500,000 x 10 x 0.035)) / (10 x 12). Note that in the EMI flat-rate calculation, the principal loan amount remains constant throughout the 10-year mortgage period, which suggests that the EMI reducing-balance method may be a better option, because [borrowers typically pay off the monthly balance to reduce the principal](https://www.investopedia.com/articles/pf/07/acceleratedpayments.asp).
+Assume a property investor takes out a mortgage of $500,000, which is the principal loan amount, at an interest rate of 3.50% for 10 years. The investor’s EMI using the flat-rate method is calculated to be $5,625, or ($500,000 + ($500,000 x 10 x 0.035)) / (10 x 12). Note that in the EMI flat-rate calculation, the principal loan amount remains constant throughout the 10-year mortgage period, which suggests that the EMI reducing-balance method may be a better option, because [[borrowers typically pay off the monthly balance to reduce the principal]](https://www.investopedia.com/articles/pf/07/acceleratedpayments.asp).
 
 ## Example of Reducing-Balance EMI
 

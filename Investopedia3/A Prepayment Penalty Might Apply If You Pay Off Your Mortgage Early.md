@@ -16,7 +16,7 @@ author: Carol M. Kopp
 A Prepayment Penalty Might Apply If You Pay Off Your Mortgage Early
 ## What Is a Prepayment Penalty?
 
-A [prepayment](https://www.investopedia.com/terms/p/prepayment.asp) penalty is usually specified in a clause in a mortgage contract stating that a penalty will be assessed if the borrower significantly pays down or pays off the mortgage before term, usually within the first three years of committing to the loan. The penalty is sometimes based on a percentage of the remaining [mortgage balance](https://www.investopedia.com/mortgage/mortgage-rates/payment-structure/), or it can be a certain number of months’ worth of interest. Prepayment penalties protect the lender against the financial loss of interest income that would otherwise have been paid over time.
+A [[prepayment]](https://www.investopedia.com/terms/p/prepayment.asp) penalty is usually specified in a clause in a mortgage contract stating that a penalty will be assessed if the borrower significantly pays down or pays off the mortgage before term, usually within the first three years of committing to the loan. The penalty is sometimes based on a percentage of the remaining [[mortgage balance]](https://www.investopedia.com/mortgage/mortgage-rates/payment-structure/), or it can be a certain number of months’ worth of interest. Prepayment penalties protect the lender against the financial loss of interest income that would otherwise have been paid over time.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ A [prepayment](https://www.investopedia.com/terms/p/prepayment.asp) penalty is u
 
 ## How a Prepayment Penalty Works
 
-Prepayment penalties are written into mortgage contracts by lenders to compensate for [prepayment risk](https://www.investopedia.com/terms/p/prepaymentrisk.asp), particularly in difficult economic climates and under circumstances where the incentive for a borrower to refinance a subprime mortgage is high. These penalties don’t only kick in when a borrower pays off the entire loan. Some penalty provisions go into effect if the borrower pays a large portion of the loan balance in a single payment.
+Prepayment penalties are written into mortgage contracts by lenders to compensate for [[prepayment risk]](https://www.investopedia.com/terms/p/prepaymentrisk.asp), particularly in difficult economic climates and under circumstances where the incentive for a borrower to refinance a subprime mortgage is high. These penalties don’t only kick in when a borrower pays off the entire loan. Some penalty provisions go into effect if the borrower pays a large portion of the loan balance in a single payment.
 
 Adding a prepayment penalty to a mortgage can safeguard against early refinancing or a home sale within the first three years after closing on a mortgage when a borrower is considered a risk to the lender. Alternatively, prepayment penalties might be added as a way to recoup some profit when a mortgage is advertised with a lower-than-average interest rate.
 
-Mortgage lenders are required to disclose prepayment penalties at the time of closing on a new mortgage. Such penalties can’t be imposed [without a borrower’s consent or knowledge](https://www.consumerfinance.gov/ask-cfpb/what-is-a-prepayment-penalty-en-1957/). However, borrowers should be made aware of any potential for prepayment penalties well before closing. If the lender hasn’t said anything about one, borrowers should ask early on.
+Mortgage lenders are required to disclose prepayment penalties at the time of closing on a new mortgage. Such penalties can’t be imposed [[without a borrower’s consent or knowledge]](https://www.consumerfinance.gov/ask-cfpb/what-is-a-prepayment-penalty-en-1957/). However, borrowers should be made aware of any potential for prepayment penalties well before closing. If the lender hasn’t said anything about one, borrowers should ask early on.
 
 Making small, additional principal payments over the life of the loan does not normally trigger penalties, but it can’t hurt to ask your lender to make sure.
 
@@ -48,7 +48,7 @@ VA mortgage loans issued to military and student loans do not allow prepayment p
 
 Prepayment penalties vary among lenders. This means borrowers should be diligent about asking for—and fully understanding—the prepayment disclosure document prior to closing. Prepayment penalties can be set either as a fixed amount or as a percentage of the remaining mortgage balance. They may also be assessed on a sliding scale based on the length of time the mortgage has been in place.
 
-Some lenders impose a penalty when a refinance or [sale of the home](https://www.investopedia.com/articles/mortgages-real-estate/08/home-seller-mistakes-selling-house.asp) is completed within the first two to three years of the original mortgage. Others charge a fee when the balance is paid off within the first five years.
+Some lenders impose a penalty when a refinance or [[sale of the home]](https://www.investopedia.com/articles/mortgages-real-estate/08/home-seller-mistakes-selling-house.asp) is completed within the first two to three years of the original mortgage. Others charge a fee when the balance is paid off within the first five years.
 
 ## Example of a Prepayment Penalty
 

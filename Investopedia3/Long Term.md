@@ -16,11 +16,11 @@ author: James Chen
 Long Term
 ## What is Long Term?
 
-Long term refers to the extended period of time that an [asset](https://www.investopedia.com/terms/a/asset.asp) is held. Depending on the type of security, a long-term asset can be held for as little as one year or for as long as 30 years or more. Generally speaking, long-term investing for individuals is often thought to be in the range of at least seven to ten years of holding time, although there is no absolute rule.  
+Long term refers to the extended period of time that an [[asset]](https://www.investopedia.com/terms/a/asset.asp) is held. Depending on the type of security, a long-term asset can be held for as little as one year or for as long as 30 years or more. Generally speaking, long-term investing for individuals is often thought to be in the range of at least seven to ten years of holding time, although there is no absolute rule.  
 
 ## Understanding Long Term
 
-Long term is one of those phrases that is so ubiquitous in finance that it has become difficult to pin down a specific meaning. The media frequently advises people to "invest for the long term," but determining whether or not an investment is long term is very subjective. A [day trader](https://www.investopedia.com/terms/d/daytrader.asp), for example, would define "long term" much differently than a buy-and-hold investor. For the day trader, a position held overnight would be a long term commitment. For the buy-and-hold investor, anything less than several years may be considered short-term.
+Long term is one of those phrases that is so ubiquitous in finance that it has become difficult to pin down a specific meaning. The media frequently advises people to "invest for the long term," but determining whether or not an investment is long term is very subjective. A [[day trader]](https://www.investopedia.com/terms/d/daytrader.asp), for example, would define "long term" much differently than a buy-and-hold investor. For the day trader, a position held overnight would be a long term commitment. For the buy-and-hold investor, anything less than several years may be considered short-term.
 
 ## Long-Term Investments for Companies
 

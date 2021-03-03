@@ -27,9 +27,9 @@ A virtual data room (VDR), also known as a deal room, is a secure online reposit
 
 ## Understanding Virtual Data Rooms
 
-Virtual data rooms have increasingly replaced physical data rooms traditionally used to disclose and share documents. With the [globalization](https://www.investopedia.com/terms/g/globalization.asp) of business and increased scrutiny to reduce costs, virtual data rooms are an attractive alternative to physical data rooms. Virtual data rooms are widely accessible, immediately available, and more secure.
+Virtual data rooms have increasingly replaced physical data rooms traditionally used to disclose and share documents. With the [[globalization]](https://www.investopedia.com/terms/g/globalization.asp) of business and increased scrutiny to reduce costs, virtual data rooms are an attractive alternative to physical data rooms. Virtual data rooms are widely accessible, immediately available, and more secure.
 
-As security concerns grow and incidents with breaches increase, VDR providers are developing more sophisticated and reliable databases. [Initial public offerings](https://www.investopedia.com/terms/i/ipo.asp) (IPOs), auditing operations, and partnerships or other businesses that must work jointly and share information will use virtual data rooms.
+As security concerns grow and incidents with breaches increase, VDR providers are developing more sophisticated and reliable databases. [[Initial public offerings]](https://www.investopedia.com/terms/i/ipo.asp) (IPOs), auditing operations, and partnerships or other businesses that must work jointly and share information will use virtual data rooms.
 
 ## Uses of Virtual Data Rooms
 
@@ -45,4 +45,4 @@ Offering an initial public offering (IPO) is a daunting task requiring an inconc
 
 ## Alternative to a VDR
 
-Although virtual data rooms offer many benefits, they are not suitable for every industry. For example, some governments may elect to continue using physical data rooms for highly confidential exchanges of information. The damage from potential cyber-attacks and [data breaches](https://www.investopedia.com/terms/d/data-breach.asp) exceeds the benefits offered by virtual data rooms. The results of such events could be cataclysmic if threatening parties accessed classified information. In those instances, the use of a VDR will not be a consideration.
+Although virtual data rooms offer many benefits, they are not suitable for every industry. For example, some governments may elect to continue using physical data rooms for highly confidential exchanges of information. The damage from potential cyber-attacks and [[data breaches]](https://www.investopedia.com/terms/d/data-breach.asp) exceeds the benefits offered by virtual data rooms. The results of such events could be cataclysmic if threatening parties accessed classified information. In those instances, the use of a VDR will not be a consideration.

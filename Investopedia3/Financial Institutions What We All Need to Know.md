@@ -16,7 +16,7 @@ author: Adam Hayes
 Financial Institutions: What We All Need to Know
 ## What Is a Financial Institution (FI)?
 
-A financial institution (FI) is a company engaged in the business of dealing with financial and monetary transactions such as deposits, loans, [investments](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp), and currency exchange. Financial institutions encompass a broad range of business operations within the financial services sector including banks, trust companies, insurance companies, brokerage firms, and investment dealers. Virtually everyone living in a developed economy has an ongoing or at least periodic need for the services of financial institutions.
+A financial institution (FI) is a company engaged in the business of dealing with financial and monetary transactions such as deposits, loans, [[investments]](https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp), and currency exchange. Financial institutions encompass a broad range of business operations within the financial services sector including banks, trust companies, insurance companies, brokerage firms, and investment dealers. Virtually everyone living in a developed economy has an ongoing or at least periodic need for the services of financial institutions.
 
 Financial institutions can operate at several scales from local community credit unions to international investment banks.
 
@@ -48,7 +48,7 @@ Investment banks specialize in providing services designed to facilitate busines
 
 ### Insurance Companies
 
-Among the most familiar [non-bank financial institutions](https://www.investopedia.com/terms/n/nbfcs.asp) are insurance companies. Providing insurance, whether for individuals or corporations, is one of the oldest financial services. Protection of assets and protection against financial risk, secured through insurance products, is an essential service that facilitates individual and corporate investments that fuel economic growth.
+Among the most familiar [[non-bank financial institutions]](https://www.investopedia.com/terms/n/nbfcs.asp) are insurance companies. Providing insurance, whether for individuals or corporations, is one of the oldest financial services. Protection of assets and protection against financial risk, secured through insurance products, is an essential service that facilitates individual and corporate investments that fuel economic growth.
 
 ### Brokerage Firms
 

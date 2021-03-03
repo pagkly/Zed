@@ -16,7 +16,7 @@ author: Evan Tarver
 What is point of purchase (POP) in marketing?
 ## What Is a Point of Purchase (POP)?
 
-A point of purchase (POP) is a term used by marketers and retailers when planning the placement of consumer products, such as product displays strategically placed in a grocery store aisle or advertised in a weekly flyer. Similar to this term is the [point of sale (POS)](https://www.investopedia.com/terms/p/point-of-sale.asp), which is the point at which a customer purchases and pays for products, such as on a website or at a store checkout. The POP is the area that surrounds the POS, where customers often encounter promotional activities or other products.
+A point of purchase (POP) is a term used by marketers and retailers when planning the placement of consumer products, such as product displays strategically placed in a grocery store aisle or advertised in a weekly flyer. Similar to this term is the [[point of sale (POS)]](https://www.investopedia.com/terms/p/point-of-sale.asp), which is the point at which a customer purchases and pays for products, such as on a website or at a store checkout. The POP is the area that surrounds the POS, where customers often encounter promotional activities or other products.
 
 ### Key Takeaways
 
@@ -27,15 +27,15 @@ A point of purchase (POP) is a term used by marketers and retailers when plannin
 
 ## Understanding Point of Purchase
 
-In recent years, the point of purchase for products and services has been an area of focus for marketers. POPs may be real, as in the case of a [brick and mortar](https://www.investopedia.com/terms/b/brickandmortar.asp) store, or virtual, as in the case of an electronic retailer that sells goods and services online. In both cases, marketers and retailers must determine the best way to showcase their products and services.
+In recent years, the point of purchase for products and services has been an area of focus for marketers. POPs may be real, as in the case of a [[brick and mortar]](https://www.investopedia.com/terms/b/brickandmortar.asp) store, or virtual, as in the case of an electronic retailer that sells goods and services online. In both cases, marketers and retailers must determine the best way to showcase their products and services.
 
-At the point of sale, the merchant typically creates an [invoice](https://www.investopedia.com/terms/i/invoice.asp) or sales order. After receiving payment, the seller generates a receipt for the customer. Merchants traditionally printed receipts; however, now many are delivered electronically.
+At the point of sale, the merchant typically creates an [[invoice]](https://www.investopedia.com/terms/i/invoice.asp) or sales order. After receiving payment, the seller generates a receipt for the customer. Merchants traditionally printed receipts; however, now many are delivered electronically.
 
 ## POS Systems
 
-Part of the point of purchase takes into account POS systems and experiences as well. POS systems frequently use hardware or software tailored to a particular industry or business. Although some small retailers use off-the-shelf cash registers to calculate payment amounts and issue receipts, most POS systems are computer-based, digital, and incorporate other devices or peripherals such as printers, bar code scanners, scales, and touch screens. In some cases, customers perform the duties that were previously performed only by checkout clerks such as scanning bar codes, weighing items that are sold by weight, operating POS terminals by tapping their fingers against touch screens and making payments by swiping their [credit cards](https://www.investopedia.com/terms/c/creditcard.asp) or inserting cash into machines.
+Part of the point of purchase takes into account POS systems and experiences as well. POS systems frequently use hardware or software tailored to a particular industry or business. Although some small retailers use off-the-shelf cash registers to calculate payment amounts and issue receipts, most POS systems are computer-based, digital, and incorporate other devices or peripherals such as printers, bar code scanners, scales, and touch screens. In some cases, customers perform the duties that were previously performed only by checkout clerks such as scanning bar codes, weighing items that are sold by weight, operating POS terminals by tapping their fingers against touch screens and making payments by swiping their [[credit cards]](https://www.investopedia.com/terms/c/creditcard.asp) or inserting cash into machines.
 
-Also, retailers use POS software for accounting, [warehousing](https://www.investopedia.com/terms/w/warehousing.asp), and management functions such as to track inventory and revenue. The software may be used to manage inventory, alerting warehouses when shelves run low, or create purchase orders and automatically send them to suppliers. POS software may assist management in deterring theft and employee [fraud](https://www.investopedia.com/terms/f/fraud.asp). It may be integrated with a business's accounting system to enter the day's sales directly into the company's books.
+Also, retailers use POS software for accounting, [[warehousing]](https://www.investopedia.com/terms/w/warehousing.asp), and management functions such as to track inventory and revenue. The software may be used to manage inventory, alerting warehouses when shelves run low, or create purchase orders and automatically send them to suppliers. POS software may assist management in deterring theft and employee [[fraud]](https://www.investopedia.com/terms/f/fraud.asp). It may be integrated with a business's accounting system to enter the day's sales directly into the company's books.
 
 ## POS Innovation
 

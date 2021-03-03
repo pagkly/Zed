@@ -16,7 +16,7 @@ author: James Chen
 Vulture Fund Definition
 ## What Is a Vulture Fund?
 
-A vulture fund is an investment fund that seeks out and buys securities in distressed investments, such as [high-yield bonds](https://www.investopedia.com/terms/h/high_yield_bond.asp) in or near [default](https://www.investopedia.com/terms/d/default2.asp), or equities that are in or near bankruptcy. The goal is to 'swoop in' and pick up underpriced shares that are perceived to have been oversold to make high-risk but potentially high-reward bets.
+A vulture fund is an investment fund that seeks out and buys securities in distressed investments, such as [[high-yield bonds]](https://www.investopedia.com/terms/h/high_yield_bond.asp) in or near [[default]](https://www.investopedia.com/terms/d/default2.asp), or equities that are in or near bankruptcy. The goal is to 'swoop in' and pick up underpriced shares that are perceived to have been oversold to make high-risk but potentially high-reward bets.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ A vulture fund is an investment fund that seeks out and buys securities in distr
 
 ## Understanding Vulture Funds
 
-Vulture funds take extreme bets on [distressed debt](https://www.investopedia.com/articles/bonds/08/distressed-debt-hedge-fund.asp) and high-yield investing, also deploying legal actions in their management strategies to obtain contracted payouts. These funds are typically managed by hedge funds using various types of alternative strategies to obtain profits for their investors.
+Vulture funds take extreme bets on [[distressed debt]](https://www.investopedia.com/articles/bonds/08/distressed-debt-hedge-fund.asp) and high-yield investing, also deploying legal actions in their management strategies to obtain contracted payouts. These funds are typically managed by hedge funds using various types of alternative strategies to obtain profits for their investors.
 
-To achieve the strategy, portfolio managers seek deeply discounted investments with high potential rates of return due to the high default risks. Generally, investments are focused on fixed income instruments such as high yield bonds and loans that pay fixed or variable interest rates. Oftentimes, the investments will be in [government debt](https://www.investopedia.com/terms/s/sovereign-debt.asp) of distressed countries, which requires even greater lobbyist involvement in resolving unpaid debts.
+To achieve the strategy, portfolio managers seek deeply discounted investments with high potential rates of return due to the high default risks. Generally, investments are focused on fixed income instruments such as high yield bonds and loans that pay fixed or variable interest rates. Oftentimes, the investments will be in [[government debt]](https://www.investopedia.com/terms/s/sovereign-debt.asp) of distressed countries, which requires even greater lobbyist involvement in resolving unpaid debts.
 
-A number of [legacy cases](https://qz.com/707165/wall-streets-vulture-hedge-funds-are-making-a-killing-by-undermining-the-global-economy/) involving hedge funds and sovereign debt highlight the processes and procedures that vulture funds undergo to receive payouts for invested assets.
+A number of [[legacy cases]](https://qz.com/707165/wall-streets-vulture-hedge-funds-are-making-a-killing-by-undermining-the-global-economy/) involving hedge funds and sovereign debt highlight the processes and procedures that vulture funds undergo to receive payouts for invested assets.
 
 ## Argentina’s Debt Crisis
 
@@ -38,7 +38,7 @@ After 15 years of negotiations ending in February 2016, Argentina agreed to repa
 
 ## Puerto Rico’s Debt Crisis
 
-A similar situation has emerged in Puerto Rico, where [the U.S. territory has filed for bankruptcy](https://www.investopedia.com/articles/investing/090915/origins-puerto-rican-debt-crisis.asp). The country reportedly owes [$120 billion in bond and pension debt](https://www.telesurtv.net/english/news/Why-US-Vulture-Funds-Are-Fighting-Over-Puerto-Ricos-Bankruptcy-20170728-0008.html) to its creditors, which include U.S. mutual funds and hedge fund managers. Leading fund managers seeking repayment include Oppenheimer, Franklin and [Aurelius Capital Management](https://www.reuters.com/article/us-puertorico-debt-bankruptcy/puerto-rico-creditor-aurelius-asks-u-s-judge-to-throw-out-bankruptcy-idUSKBN1EZ2UR).
+A similar situation has emerged in Puerto Rico, where [[the U.S. territory has filed for bankruptcy]](https://www.investopedia.com/articles/investing/090915/origins-puerto-rican-debt-crisis.asp). The country reportedly owes [$120 billion in bond and pension debt](https://www.telesurtv.net/english/news/Why-US-Vulture-Funds-Are-Fighting-Over-Puerto-Ricos-Bankruptcy-20170728-0008.html) to its creditors, which include U.S. mutual funds and hedge fund managers. Leading fund managers seeking repayment include Oppenheimer, Franklin and [[Aurelius Capital Management]](https://www.reuters.com/article/us-puertorico-debt-bankruptcy/puerto-rico-creditor-aurelius-asks-u-s-judge-to-throw-out-bankruptcy-idUSKBN1EZ2UR).
 
 ## Vulture Fund Investments
 
@@ -46,7 +46,7 @@ While Argentina and Puerto Rico are extreme cases, they highlight some of the in
 
 Vulture funds use alternative investing strategies, seeking bargain discount prices with substantial expected returns. Some people have looked down upon investment companies that operate like vulture funds, since they prey on the cheap debt of struggling investments, forcing companies to make payouts plus interest.
 
-Overall, vulture funds and vulture fund management are not typically for the [risk averse](https://www.investopedia.com/terms/r/riskaverse.asp). Across the U.S. there are several investment managers who engage in this type of investing. Some of the most popular include Autonomy Capital, Canyon Capital, Monarch Alternative Capital and Aurelius Capital Management.
+Overall, vulture funds and vulture fund management are not typically for the [[risk averse]](https://www.investopedia.com/terms/r/riskaverse.asp). Across the U.S. there are several investment managers who engage in this type of investing. Some of the most popular include Autonomy Capital, Canyon Capital, Monarch Alternative Capital and Aurelius Capital Management.
 
 ## Vulture Capitalists
 

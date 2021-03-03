@@ -16,11 +16,11 @@ author: Troy Segal
 Why Licensees Matter
 ## What Is a Licensee?
 
-A licensee is any business, organization, or individual that has been granted legal permission by another entity to engage in an activity. The permission, or [license](https://www.investopedia.com/terms/l/licensing-agreement.asp), can be given on an express or implied basis.
+A licensee is any business, organization, or individual that has been granted legal permission by another entity to engage in an activity. The permission, or [[license]](https://www.investopedia.com/terms/l/licensing-agreement.asp), can be given on an express or implied basis.
 
 ## Understanding Licensees
 
-A licensee has received legal permission from another party to conduct some sort of business over which the other party holds some control, ownership, or authority. The licensee may pay outright for this permission, known as a [licensing fee,](https://www.investopedia.com/terms/l/licensing-fee.asp) or may make payments based on the results of the business arrangement, known as [licensing revenue](https://www.investopedia.com/terms/l/licensing-revenue.asp).
+A licensee has received legal permission from another party to conduct some sort of business over which the other party holds some control, ownership, or authority. The licensee may pay outright for this permission, known as a [[licensing fee,]](https://www.investopedia.com/terms/l/licensing-fee.asp) or may make payments based on the results of the business arrangement, known as [[licensing revenue]](https://www.investopedia.com/terms/l/licensing-revenue.asp).
 
 **\[Important: The licensee may pay the licensor for the permission, or share revenue arising from activities arising from the permission.\]**
 
@@ -32,13 +32,13 @@ Under a franchise agreement, the franchisee is granted permission to use the fra
 
 ### Brand Licensing
 
-In [brand licensing](https://www.investopedia.com/terms/b/brand.asp), the licensee is permitted to use a licensor’s trademarks and logos on its own manufactured products, such a sports apparel.
+In [[brand licensing]](https://www.investopedia.com/terms/b/brand.asp), the licensee is permitted to use a licensor’s trademarks and logos on its own manufactured products, such a sports apparel.
 
 ### Government License
 
 A government license is a mechanism for local governments to oversee, and in many cases tax, business operators. A liquor license is an example of this type. By issuing the license, a city or county ensures compliance with local regulations regarding alcoholic beverages and receives an additional revenue stream specifically associated with the sale of alcohol.
 
-A license to sell securities is a sort of similar permission granted on a nationwide basis—although technically speaking, it is not granted by the government, but by the Financial Industry Regulatory Authority (FINRA), a private regulatory authority that enforces the rules governing registered brokers and [broker-dealer](https://www.investopedia.com/terms/b/broker-dealer.asp) firms in the United States.
+A license to sell securities is a sort of similar permission granted on a nationwide basis—although technically speaking, it is not granted by the government, but by the Financial Industry Regulatory Authority (FINRA), a private regulatory authority that enforces the rules governing registered brokers and [[broker-dealer]](https://www.investopedia.com/terms/b/broker-dealer.asp) firms in the United States.
 
 ### Implied License
 
@@ -58,6 +58,6 @@ A common example used in law schools is that of a hunter who has written permiss
 
 ## Special Considerations for Licensees
 
-In addition to paying any [fees](https://www.investopedia.com/terms/l/licensing-fee.asp) or revenues associated with being granted a license, licensees are often subject to requirements that they treat the granted permission responsibly. The hunter is expected to leave the property in the condition they found it. The securities broker is required to recommend investments appropriate to the client. The liquor store operator is prohibited from selling to underage or intoxicated customers.
+In addition to paying any [[fees]](https://www.investopedia.com/terms/l/licensing-fee.asp) or revenues associated with being granted a license, licensees are often subject to requirements that they treat the granted permission responsibly. The hunter is expected to leave the property in the condition they found it. The securities broker is required to recommend investments appropriate to the client. The liquor store operator is prohibited from selling to underage or intoxicated customers.
 
 A license does not grant free reign to exploit the licensed rights, whether they be to a public or private asset.

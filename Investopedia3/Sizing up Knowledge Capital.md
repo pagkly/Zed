@@ -18,7 +18,7 @@ Sizing up Knowledge Capital
 
 Knowledge capital is the intangible value of an organization made up of its [knowledge](https://www.investopedia.com/terms/k/knowledge-economy.asp), relationships, learned techniques, procedures, and innovations. In other words, knowledge capital is the full body of knowledge an organization possesses.
 
-Having employees with skills and access to knowledge capital puts a company at a [comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp) to its competitors. Knowledge capital, sometimes referred to as [intellectual capital](https://www.investopedia.com/terms/i/intellectual_capital.asp), is considered an [intangible asset](https://www.investopedia.com/terms/i/intangibleasset.asp).
+Having employees with skills and access to knowledge capital puts a company at a [[comparative advantage]](https://www.investopedia.com/terms/c/comparativeadvantage.asp) to its competitors. Knowledge capital, sometimes referred to as [[intellectual capital]](https://www.investopedia.com/terms/i/intellectual_capital.asp), is considered an [[intangible asset]](https://www.investopedia.com/terms/i/intangibleasset.asp).
 
 Rather than relying on the physical effort of its machines and other equipment, a company's knowledge capital is dependent on the skills and talents of its workers. This is what makes it an intangible asset with intangible value, or assets that we cannot touch whose value we cannot measure.
 
@@ -26,7 +26,7 @@ Rather than relying on the physical effort of its machines and other equipment, 
 
 Knowledge capital is anything of value that results from people's experience, skills, knowledge, and learning within an organization. This capital has immeasurable value and cannot be quantified. As such, it gives a company a competitive advantage over its rivals.
 
-Knowledge capital is unlike the physical [factors of production](https://www.investopedia.com/terms/f/factors-production.asp)—land, labor, and capital—in that it is based on skills employees share with each other in order to improve efficiencies rather than physical items.
+Knowledge capital is unlike the physical [[factors of production]](https://www.investopedia.com/terms/f/factors-production.asp)—land, labor, and capital—in that it is based on skills employees share with each other in order to improve efficiencies rather than physical items.
 
 Organizations with high knowledge capital may be more profitable or productive compared to organizations with lower knowledge capital. Businesses develop knowledge capital by encouraging employees to share information through white papers, seminars, and person-to-person communication. When this capital is pooled together and shared, the results can be worth a great deal.
 

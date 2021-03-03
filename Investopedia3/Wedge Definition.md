@@ -16,7 +16,7 @@ author: Gordon Scott, CMT
 Wedge Definition
 ## What Is a Wedge?
 
-A wedge is a price pattern marked by converging trend lines on a price chart. The two trend lines are drawn to connect the respective highs and lows of a price series over the course of 10 to 50 periods. The lines show that the highs and the lows are either rising or falling and differing rates, giving the appearance of a wedge as the lines approach a convergence. Wedge shaped trend lines are considered useful indicators of a potential reversal in price action by [technical analysts](https://www.investopedia.com/terms/t/technical-analyst.asp).
+A wedge is a price pattern marked by converging trend lines on a price chart. The two trend lines are drawn to connect the respective highs and lows of a price series over the course of 10 to 50 periods. The lines show that the highs and the lows are either rising or falling and differing rates, giving the appearance of a wedge as the lines approach a convergence. Wedge shaped trend lines are considered useful indicators of a potential reversal in price action by [[technical analysts]](https://www.investopedia.com/terms/t/technical-analyst.asp).
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ This usually occurs when a security’s price has been rising over time, but it 
 
 Image by Sabrina Jiang © Investopedia 2020
 
-The trend lines drawn above and below the price chart pattern can converge to help a trader or analyst anticipate a breakout [reversal](https://www.investopedia.com/terms/r/reversal.asp). While price can be out of either trend line, wedge patterns have a tendency to break in the opposite direction from the trend lines.
+The trend lines drawn above and below the price chart pattern can converge to help a trader or analyst anticipate a breakout [[reversal]](https://www.investopedia.com/terms/r/reversal.asp). While price can be out of either trend line, wedge patterns have a tendency to break in the opposite direction from the trend lines.
 
 Therefore, rising wedge patterns indicate the more likely potential of falling prices after a breakout of the lower trend line. Traders can make bearish trades after the breakout by selling the security short or using derivatives such as futures or options, depending on the security being charted. These trades would seek to profit on the potential that prices will fall.
 

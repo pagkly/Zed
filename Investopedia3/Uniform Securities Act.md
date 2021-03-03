@@ -16,7 +16,7 @@ author: James Chen
 Uniform Securities Act
 ## What Is the Uniform Securities Act?
 
-The Uniform Securities Act is a model law created as a starting point for state-level securities regulation. The purpose of the Uniform Securities Act is to deal with securities fraud at the state level and to assist the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) in enforcement and regulation.
+The Uniform Securities Act is a model law created as a starting point for state-level securities regulation. The purpose of the Uniform Securities Act is to deal with securities fraud at the state level and to assist the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) in enforcement and regulation.
 
 ## Uniform Securities Act Explained
 
@@ -30,6 +30,6 @@ One of the issues with regulating securities from two different levels of govern
 
 The act provides more structure and consistency in enforcement authority across states as well as in coordination with federal authority regarding the prosecution of securities fraud.
 
-The intent of [securities regulations](https://www.investopedia.com/articles/07/secbeginning.asp), whether at the state or federal levels, is to prevent the fraudulent sale of securities to investors. Regulatory efforts stem from three primary elements. Registration is required for initial public offerings. Those who deal in securities, specifically investment advisers, broker-dealers, and their representatives and agents, must also be registered. In order to prohibit and prevent securities fraud, regulatory agencies must also have enforcement authority to address such actions. That includes being granted the ability to establish regulations and rules on securities transactions and having the capacity to bring the prosecution of criminal and civil violations to court.1
+The intent of [[securities regulations]](https://www.investopedia.com/articles/07/secbeginning.asp), whether at the state or federal levels, is to prevent the fraudulent sale of securities to investors. Regulatory efforts stem from three primary elements. Registration is required for initial public offerings. Those who deal in securities, specifically investment advisers, broker-dealers, and their representatives and agents, must also be registered. In order to prohibit and prevent securities fraud, regulatory agencies must also have enforcement authority to address such actions. That includes being granted the ability to establish regulations and rules on securities transactions and having the capacity to bring the prosecution of criminal and civil violations to court.1
 
 The Uniform Securities Act serves as structure that includes state-level authority to take action on these issues.

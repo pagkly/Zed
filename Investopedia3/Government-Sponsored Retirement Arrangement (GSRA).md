@@ -16,7 +16,7 @@ author: Julia Kagan
 Government-Sponsored Retirement Arrangement (GSRA)
 ## What Is a Government-Sponsored Retirement Arrangement (GSRA)?
 
-A Government-Sponsored Retirement Arrangement (GSRA) is a Canadian retirement plan for individuals who are not employees of a local, provincial or federal government body, but who are paid for their services from public funds. This type of retirement plan is not registered with the [Canadian Revenue Agency](https://www.investopedia.com/terms/c/ccra.asp) and does not thus qualify for tax-deferred status.
+A Government-Sponsored Retirement Arrangement (GSRA) is a Canadian retirement plan for individuals who are not employees of a local, provincial or federal government body, but who are paid for their services from public funds. This type of retirement plan is not registered with the [[Canadian Revenue Agency]](https://www.investopedia.com/terms/c/ccra.asp) and does not thus qualify for tax-deferred status.
 
 ## Understanding Government-Sponsored Retirement Arrangements (GSRA)
 
@@ -30,7 +30,7 @@ A Registered Retirement Savings Plan (RRSP) is a retirement savings plan that yo
 
 According to Revenue Canada:
 
-> The Tax-Free Savings Account ( [TFSA](https://www.investopedia.com/terms/t/tax-free-savings-account-tfsa.asp)) program began in 2009. It is a way for individuals who are 18 and older and who have a valid social insurance number to set money aside tax-free throughout their lifetime. Contributions to a TFSA are not [deductible](https://www.investopedia.com/terms/d/deductible.asp) for income tax purposes. Any amount contributed as well as any income earned in the account (for example, investment income and capital gains) is generally tax-free, even when it is withdrawn. Administrative or other fees in relation to TFSA and any interest or money borrowed to contribute to a TFSA are not deductible.
+> The Tax-Free Savings Account ( [[TFSA]](https://www.investopedia.com/terms/t/tax-free-savings-account-tfsa.asp)) program began in 2009. It is a way for individuals who are 18 and older and who have a valid social insurance number to set money aside tax-free throughout their lifetime. Contributions to a TFSA are not [[deductible]](https://www.investopedia.com/terms/d/deductible.asp) for income tax purposes. Any amount contributed as well as any income earned in the account (for example, investment income and capital gains) is generally tax-free, even when it is withdrawn. Administrative or other fees in relation to TFSA and any interest or money borrowed to contribute to a TFSA are not deductible.
 
 ### Pooled Registered Pension Plans
 

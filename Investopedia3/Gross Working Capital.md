@@ -16,7 +16,7 @@ author: Will Kenton
 Gross Working Capital
 ## What Is Gross Working Capital?
 
-Gross working capital is the sum of a company's current assets (assets that are convertible to cash within a year or less). Gross working capital includes assets such as cash, accounts receivable, inventory, [short-term investments](https://www.investopedia.com/terms/s/shorterminvestments.asp), and [marketable securities](https://www.investopedia.com/terms/m/marketablesecurities.asp). Gross working capital less current liabilities is equal to net working capital, or simply "[working capital](https://www.investopedia.com/terms/w/workingcapital.asp);" a more useful measure for balance sheet analysis.
+Gross working capital is the sum of a company's current assets (assets that are convertible to cash within a year or less). Gross working capital includes assets such as cash, accounts receivable, inventory, [[short-term investments]](https://www.investopedia.com/terms/s/shorterminvestments.asp), and [[marketable securities]](https://www.investopedia.com/terms/m/marketablesecurities.asp). Gross working capital less current liabilities is equal to net working capital, or simply "[working capital](https://www.investopedia.com/terms/w/workingcapital.asp);" a more useful measure for balance sheet analysis.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ Gross working capital is the sum of a company's current assets (assets that are 
 
 ## Understanding Gross Working Capital
 
-Gross working capital, in practice, is not useful. It is just one half of a picture of a company's short-term financial health and the ability to use short-term resources efficiently. The other half is [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp). Gross working capital, or [current assets](https://www.investopedia.com/terms/c/currentassets.asp), less current liabilities, equates to working capital. When working capital is positive, it means that current assets are greater than current liabilities. The preferred way to express positive working capital is the ratio of current assets to current liabilities (e.g., > 1.0).
+Gross working capital, in practice, is not useful. It is just one half of a picture of a company's short-term financial health and the ability to use short-term resources efficiently. The other half is [[current liabilities]](https://www.investopedia.com/terms/c/currentliabilities.asp). Gross working capital, or [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp), less current liabilities, equates to working capital. When working capital is positive, it means that current assets are greater than current liabilities. The preferred way to express positive working capital is the ratio of current assets to current liabilities (e.g., > 1.0).
 
-If this ratio is less than 1.0, then a company may have trouble paying back its creditors in the short-term. [Negative working capital](https://www.investopedia.com/ask/answers/100915/can-working-capital-be-negative.asp) is when liabilities outstrip assets and indicate that a company may be in distress. A company needs just the right amount of working capital to function optimally.
+If this ratio is less than 1.0, then a company may have trouble paying back its creditors in the short-term. [[Negative working capital]](https://www.investopedia.com/ask/answers/100915/can-working-capital-be-negative.asp) is when liabilities outstrip assets and indicate that a company may be in distress. A company needs just the right amount of working capital to function optimally.
 
-With too much working capital, some current assets would be better put to use elsewhere. With too little working capital, a company may not be able to meet its day-to-day cash requirements. Managers aim for the correct balance through [working capital management](https://www.investopedia.com/terms/w/workingcapitalmanagement.asp).
+With too much working capital, some current assets would be better put to use elsewhere. With too little working capital, a company may not be able to meet its day-to-day cash requirements. Managers aim for the correct balance through [[working capital management]](https://www.investopedia.com/terms/w/workingcapitalmanagement.asp).
 
 Some methods in which a company can improve its working capital ratio include a reduction in time to collect receivables from customers, extending payable time frames with suppliers, a reduction on the reliance of short-term debt, and appropriately managing inventory levels.
 

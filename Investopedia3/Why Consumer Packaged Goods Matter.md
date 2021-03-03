@@ -18,11 +18,11 @@ Why Consumer Packaged Goods Matter
 
 Consumer packaged goods (CPG) are items used daily by average consumers that require routine replacement or replenishment, such as food, beverages, clothes, tobacco, makeup, and household products.
 
-While consumer demand for CPGs largely remains constant, this is nevertheless a highly competitive sector, due to high market saturation and low consumer [switching costs](https://www.investopedia.com/terms/s/switchingcosts.asp), where consumers can easily and cheaply switch their brand loyalties.
+While consumer demand for CPGs largely remains constant, this is nevertheless a highly competitive sector, due to high market saturation and low consumer [[switching costs]](https://www.investopedia.com/terms/s/switchingcosts.asp), where consumers can easily and cheaply switch their brand loyalties.
 
 ## Understanding Consumer Packaged Goods (CPG)
 
-Despite experiencing a slow-down in growth over recent years, the CPG industry is still one of the largest sectors in North America, valued at approximately $2 trillion, led by well-established companies like Coca-Cola, Procter & Gamble, and L'Oréal.1 Although CPG makers generally enjoy healthy margins and robust balance sheets, they must continuously fight for shelf space in stores, and they must ceaselessly invest in advertising, in an ongoing effort to increase [brand recognition](https://www.investopedia.com/terms/b/brand-recognition.asp) and stimulate sales.
+Despite experiencing a slow-down in growth over recent years, the CPG industry is still one of the largest sectors in North America, valued at approximately $2 trillion, led by well-established companies like Coca-Cola, Procter & Gamble, and L'Oréal.1 Although CPG makers generally enjoy healthy margins and robust balance sheets, they must continuously fight for shelf space in stores, and they must ceaselessly invest in advertising, in an ongoing effort to increase [[brand recognition]](https://www.investopedia.com/terms/b/brand-recognition.asp) and stimulate sales.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ Like most CPGs, cosmetics typically have limited shelf lives, as these products 
 
 Frozen dinners are another popular CPG example. These high-volume perishable items are sold at retailers worldwide and are often purchased for immediate use by consumers who automatically replenish their favorite go-to frozen meals, with little deliberation.
 
-Unlike CPGs, which are cheaply sold and replaced often, [durable goods](https://www.investopedia.com/terms/d/durables.asp) like automobiles are intended to last for several years and enjoyed for extended use. Consequently, the purchase of a durable good typically involves considerable thought and substantial comparison shopping, given the higher price-tags attached to these investments.
+Unlike CPGs, which are cheaply sold and replaced often, [[durable goods]](https://www.investopedia.com/terms/d/durables.asp) like automobiles are intended to last for several years and enjoyed for extended use. Consequently, the purchase of a durable good typically involves considerable thought and substantial comparison shopping, given the higher price-tags attached to these investments.
 
 Economic slumps often trigger flagging durable goods sales because people are more likely to hold onto their cash in times of economic uncertainty. This is especially true with consumers who own older versions of a durable goods product. A family may opt to squeeze a few more years from an outmoded washing machine, rather than upgrade to a newer model. By contrast, sales of CPG staples like bread, milk, and toothpaste are less affected by market fluctuations.
 

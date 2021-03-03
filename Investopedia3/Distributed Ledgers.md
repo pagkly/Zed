@@ -18,9 +18,9 @@ Distributed Ledgers
 
 A distributed ledger is a database that is consensually shared and synchronized across multiple sites, institutions, or geographies, accessible by multiple people. It allows transactions to have public "witnesses". The participant at each node of the network can access the recordings shared across that network and can own an identical copy of it. Any changes or additions made to the ledger are reflected and copied to all participants in a matter of seconds or minutes.
 
-A distributed ledger stands in contrast to a centralized ledger, which is the type of ledger that most companies use. A centralized [ledger](https://www.investopedia.com/terms/g/generalledger.asp) is more prone to cyber attacks and fraud, as it has a single point of failure.
+A distributed ledger stands in contrast to a centralized ledger, which is the type of ledger that most companies use. A centralized [[ledger]](https://www.investopedia.com/terms/g/generalledger.asp) is more prone to cyber attacks and fraud, as it has a single point of failure.
 
-Underlying distributed ledgers is the same technology that is used by [blockchain](https://www.investopedia.com/terms/b/blockchain.asp), which is the technology that is used by [bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp). Blockchain is a type of distributed ledger used by bitcoin.
+Underlying distributed ledgers is the same technology that is used by [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp), which is the technology that is used by [bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp). Blockchain is a type of distributed ledger used by bitcoin.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Over the last couple of decades, computers have provided the process of record-k
 
 A distributed ledger can be described as a ledger of any transactions or contracts maintained in decentralized form across different locations and people, eliminating the need for a central authority to keep a check against manipulation. In this manner, a central authority is not needed to authorize or validate any transactions.
 
-All the information on the ledger is securely and accurately stored using [cryptography](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/) and can be accessed using keys and cryptographic signatures. Once the information is stored, it becomes an immutable database, which the rules of the network govern.
+All the information on the ledger is securely and accurately stored using [[cryptography]](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/) and can be accessed using keys and cryptographic signatures. Once the information is stored, it becomes an immutable database, which the rules of the network govern.
 
 ## Advantages of Distributed Ledgers
 
@@ -46,11 +46,11 @@ While centralized ledgers are prone to cyber-attack, distributed ledgers are inh
 
 Distributed ledgers also reduce operational inefficiencies, speed up the amount of time a transaction takes to complete, are automated, and therefore function 24/7, all of which reduce overall costs for the entities that use them.
 
-Distributed ledgers also provide for an easy flow of information, which makes an [audit trail](https://www.investopedia.com/terms/a/audittrail.asp) easy to follow for accountants when they conduct reviews of financial statements. This helps remove the possibility of [fraud](https://www.investopedia.com/terms/f/fraud.asp) occurring on the financial books of a company. The reduction in the use of paper is also a benefit to the environment.
+Distributed ledgers also provide for an easy flow of information, which makes an [[audit trail]](https://www.investopedia.com/terms/a/audittrail.asp) easy to follow for accountants when they conduct reviews of financial statements. This helps remove the possibility of [[fraud]](https://www.investopedia.com/terms/f/fraud.asp) occurring on the financial books of a company. The reduction in the use of paper is also a benefit to the environment.
 
 ## Use of Distributed Ledgers
 
-Distributed ledger technology has great potential to revolutionize the way governments, institutions, and corporations work. It can help governments in tax collection, issuance of passports, recording land registries, licenses, and the outlay of [Social Security benefits](https://www.investopedia.com/terms/s/social-security-benefits.asp), as well as voting procedures.
+Distributed ledger technology has great potential to revolutionize the way governments, institutions, and corporations work. It can help governments in tax collection, issuance of passports, recording land registries, licenses, and the outlay of [[Social Security benefits]](https://www.investopedia.com/terms/s/social-security-benefits.asp), as well as voting procedures.
 
 The technology is making waves in several industries, including:
 

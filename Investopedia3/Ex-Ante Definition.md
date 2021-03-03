@@ -41,8 +41,8 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Looking Back at Ex-Ante Ex-Post
 
-Once the event that ex-ante analysis attempted to predict has passed, it’s then possible to compare expectations versus actuals, which is called [ex-post](https://www.investopedia.com/terms/e/expost.asp). Looking back at predictions ex-post helps to refine them going forward, and sometimes provides additional insights.
+Once the event that ex-ante analysis attempted to predict has passed, it’s then possible to compare expectations versus actuals, which is called [[ex-post]](https://www.investopedia.com/terms/e/expost.asp). Looking back at predictions ex-post helps to refine them going forward, and sometimes provides additional insights.
 
 ## Example of Ex-Ante
 
-Suppose company ABC is expected to report earnings on a certain date. An analyst at a research firm will use economic and financial data from its past and present operating conditions to make a prediction regarding its [earnings per share](https://www.investopedia.com/terms/e/eps.asp). For example, she might analyze the overall economic climate and whether the company's business operation costs might be affected by it. She may also use past business decisions and earnings statements to hypothesize about the company's sales figures.
+Suppose company ABC is expected to report earnings on a certain date. An analyst at a research firm will use economic and financial data from its past and present operating conditions to make a prediction regarding its [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp). For example, she might analyze the overall economic climate and whether the company's business operation costs might be affected by it. She may also use past business decisions and earnings statements to hypothesize about the company's sales figures.

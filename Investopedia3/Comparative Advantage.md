@@ -16,9 +16,9 @@ author: Adam Hayes
 Comparative Advantage
 ## What Is Comparative Advantage?
 
-Comparative advantage is an economy's ability to produce a particular good or service at a lower [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp) than its trading partners. A comparative advantage gives a company the ability to sell goods and services at a lower price than its competitors and realize stronger sales [margins](https://www.investopedia.com/terms/p/profitmargin.asp).
+Comparative advantage is an economy's ability to produce a particular good or service at a lower [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp) than its trading partners. A comparative advantage gives a company the ability to sell goods and services at a lower price than its competitors and realize stronger sales [[margins]](https://www.investopedia.com/terms/p/profitmargin.asp).
 
-The law of comparative advantage is popularly attributed to English political economist [David Ricardo](https://www.investopedia.com/terms/d/david-ricardo.asp) and his book “On the Principles of Political Economy and Taxation” written in 1817, although it is likely that Ricardo's mentor, James Mill, originated the analysis.
+The law of comparative advantage is popularly attributed to English political economist [[David Ricardo]](https://www.investopedia.com/terms/d/david-ricardo.asp) and his book “On the Principles of Political Economy and Taxation” written in 1817, although it is likely that Ricardo's mentor, James Mill, originated the analysis.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The law of comparative advantage is popularly attributed to English political ec
 
 ## Understanding Comparative Advantage
 
-Comparative advantage is one of the most important concepts in economic theory and a fundamental tenet of the argument that all actors, at all times, can mutually benefit from cooperation and voluntary trade. It is also a foundational principle in the theory of [international trade](https://www.investopedia.com/insights/what-is-international-trade/).
+Comparative advantage is one of the most important concepts in economic theory and a fundamental tenet of the argument that all actors, at all times, can mutually benefit from cooperation and voluntary trade. It is also a foundational principle in the theory of [[international trade]](https://www.investopedia.com/insights/what-is-international-trade/).
 
 The key to understanding comparative advantage is a solid grasp of opportunity cost. Put simply, an opportunity cost is a potential benefit that someone loses out on when selecting a particular option over another.
 
@@ -41,19 +41,19 @@ Another way to think of comparative advantage is as the best option given a trad
 
 ## Diversity of Skills
 
-People learn their comparative advantages through [wages](https://www.investopedia.com/articles/personal-finance/031115/salary-vs-hourly-how-benefits-laws-differ.asp). This drives people into those jobs that they are comparatively best at. If a skilled mathematician earns more money as an engineer than as a teacher, they and everyone they trade with are better off when they practice engineering.
+People learn their comparative advantages through [[wages]](https://www.investopedia.com/articles/personal-finance/031115/salary-vs-hourly-how-benefits-laws-differ.asp). This drives people into those jobs that they are comparatively best at. If a skilled mathematician earns more money as an engineer than as a teacher, they and everyone they trade with are better off when they practice engineering.
 
 Wider gaps in opportunity costs allow for higher levels of value production by organizing labor more efficiently. The greater the diversity in people and their skills, the greater the opportunity for beneficial trade through comparative advantage.
 
 As an example, consider a famous athlete like Michael Jordan. As a renowned basketball and baseball star, Michael Jordan is an exceptional athlete whose physical abilities surpass those of most other individuals. Michael Jordan would likely be able to, say, paint his house quickly, owing to his abilities as well as his impressive height.
 
-Hypothetically, say that [Michael Jordan](https://www.investopedia.com/rich-and-powerful-4689827) could paint his house in eight hours. In those same eight hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100.
+Hypothetically, say that [[Michael Jordan]](https://www.investopedia.com/rich-and-powerful-4689827) could paint his house in eight hours. In those same eight hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100.
 
 In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.
 
 ## Comparative Advantage vs. Absolute Advantage
 
-Comparative advantage is contrasted with [absolute advantage](https://www.investopedia.com/terms/a/absoluteadvantage.asp). Absolute advantage refers to the ability to produce more or better goods and services than somebody else. Comparative advantage refers to the ability to produce goods and services at a lower opportunity cost, not necessarily at a greater volume or quality.
+Comparative advantage is contrasted with [[absolute advantage]](https://www.investopedia.com/terms/a/absoluteadvantage.asp). Absolute advantage refers to the ability to produce more or better goods and services than somebody else. Comparative advantage refers to the ability to produce goods and services at a lower opportunity cost, not necessarily at a greater volume or quality.
 
 Comparative advantage is a key insight that trade will still occur even if one country has an absolute advantage in all products.
 
@@ -79,13 +79,13 @@ Comparative advantage is closely associated with free trade, which is seen as be
 
 A contemporary example: China’s comparative advantage with the United States is in the form of cheap labor. Chinese workers produce simple consumer goods at a much lower opportunity cost. The United States’ comparative advantage is in specialized, capital-intensive labor. American workers produce sophisticated goods or investment opportunities at lower opportunity costs. Specializing and trading along these lines benefit each.
 
-The theory of comparative advantage helps to explain why [protectionism](https://www.investopedia.com/terms/p/protectionism.asp) is typically unsuccessful. Adherents to this analytical approach believe that countries engaged in international trade will have already worked toward finding partners with comparative advantages.
+The theory of comparative advantage helps to explain why [[protectionism]](https://www.investopedia.com/terms/p/protectionism.asp) is typically unsuccessful. Adherents to this analytical approach believe that countries engaged in international trade will have already worked toward finding partners with comparative advantages.
 
-If a country removes itself from an international trade agreement, if a government imposes [tariffs](https://www.investopedia.com/terms/t/tariff.asp), and so on, it may produce a local benefit in the form of new jobs and industry. However, this is not a long-term solution to a trade problem. Eventually, that country will be at a disadvantage relative to its neighbors: countries that were already better able to produce these items at a lower opportunity cost.
+If a country removes itself from an international trade agreement, if a government imposes [[tariffs]](https://www.investopedia.com/terms/t/tariff.asp), and so on, it may produce a local benefit in the form of new jobs and industry. However, this is not a long-term solution to a trade problem. Eventually, that country will be at a disadvantage relative to its neighbors: countries that were already better able to produce these items at a lower opportunity cost.
 
 ## Criticisms of Comparative Advantage
 
-Why doesn't the world have open trading between countries? When there is [free trade](https://www.investopedia.com/terms/f/free-trade.asp), why do some countries remain poor at the expense of others? Perhaps comparative advantage does not work as suggested. There are many reasons this could be the case, but the most influential is something that economists call [rent seeking](https://www.investopedia.com/terms/r/rentseeking.asp). Rent seeking occurs when one group organizes and lobbies the government to protect its interests.
+Why doesn't the world have open trading between countries? When there is [[free trade]](https://www.investopedia.com/terms/f/free-trade.asp), why do some countries remain poor at the expense of others? Perhaps comparative advantage does not work as suggested. There are many reasons this could be the case, but the most influential is something that economists call [rent seeking](https://www.investopedia.com/terms/r/rentseeking.asp). Rent seeking occurs when one group organizes and lobbies the government to protect its interests.
 
 Say, for example, the producers of American shoes understand and agree with the free-trade argument but they also know that their narrow interests would be negatively impacted by cheaper foreign shoes. Even if laborers would be most productive by switching from making shoes to making computers, nobody in the shoe industry wants to lose their job or see profits decrease in the short run.
 

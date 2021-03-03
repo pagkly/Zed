@@ -48,9 +48,9 @@ A federal tax lien has precedence over all other creditors' claims. It also mak
 
 The only way to release a federal tax lien is to fully pay the tax owed or reach a settlement with the IRS.
 
-Once a lien has been filed, it used to show up on the taxpayer's [credit report](https://www.investopedia.com/terms/c/creditreport.asp), damaging the person's credit score. This could also prevent the taxpayer from selling or refinancing any assets to which liens have been attached. Note that since 2018, the 3 major credit reporting agencies have stopped including tax liens on credit reports.2
+Once a lien has been filed, it used to show up on the taxpayer's [[credit report]](https://www.investopedia.com/terms/c/creditreport.asp), damaging the person's credit score. This could also prevent the taxpayer from selling or refinancing any assets to which liens have been attached. Note that since 2018, the 3 major credit reporting agencies have stopped including tax liens on credit reports.2
 
-The lien will remain in place until the tax bill is resolved or the [statute of limitations](https://www.investopedia.com/terms/s/statute-of-limitations.asp) on the debt expires.
+The lien will remain in place until the tax bill is resolved or the [[statute of limitations]](https://www.investopedia.com/terms/s/statute-of-limitations.asp) on the debt expires.
 
 The IRS has the authority to seize the assets of a taxpayer who ignores a tax lien.
 
@@ -59,11 +59,11 @@ The IRS has the authority to seize the assets of a taxpayer who ignores a tax li
 The simplest way to get out of a federal tax lien is to pay the taxes owed. However, if this is not possible, there are other ways to deal with a lien with the cooperation of the IRS.
 
 -   The IRS will consider releasing a tax lien if the taxpayer agrees to a payment plan with an automatic withdrawal monthly until the debt is satisfied.
--   The taxpayer may be able to [discharge](https://www.investopedia.com/terms/d/debt-discharge.asp) a specific property, effectively removing it from the lien. Not all taxpayers or properties are eligible for discharge. IRS [Publication 783](https://www.irs.gov/pub/default_path_no_value/p783.pdf) details regulations about discharging property.
--   Subordination does not actually remove the lien from any property but it sometimes makes it easier for the taxpayer to obtain another mortgage or loan. IRS [Form 14134](https://www.irs.gov/pub/irs-pdf/f14134.pdf) is used to apply for such action.
--   Yet another process, withdrawal of notice, removes the public notice of a federal tax lien. The taxpayer is still liable for the debt, but under withdrawal, the IRS does not compete with any other creditors for the debtor’s property. [Form 12277](https://www.irs.gov/pub/irs-pdf/f12277.pdf) is the application.
+-   The taxpayer may be able to [[discharge]](https://www.investopedia.com/terms/d/debt-discharge.asp) a specific property, effectively removing it from the lien. Not all taxpayers or properties are eligible for discharge. IRS [[Publication 783]](https://www.irs.gov/pub/default_path_no_value/p783.pdf) details regulations about discharging property.
+-   Subordination does not actually remove the lien from any property but it sometimes makes it easier for the taxpayer to obtain another mortgage or loan. IRS [[Form 14134]](https://www.irs.gov/pub/irs-pdf/f14134.pdf) is used to apply for such action.
+-   Yet another process, withdrawal of notice, removes the public notice of a federal tax lien. The taxpayer is still liable for the debt, but under withdrawal, the IRS does not compete with any other creditors for the debtor’s property. [[Form 12277]](https://www.irs.gov/pub/irs-pdf/f12277.pdf) is the application.
 
-If repaying the taxes is simply impossible, the taxpayer must pay as much of the debt as possible and seek dismissal of the balance in [bankruptcy court](https://www.investopedia.com/terms/b/bankruptcy-court.asp).
+If repaying the taxes is simply impossible, the taxpayer must pay as much of the debt as possible and seek dismissal of the balance in [[bankruptcy court]](https://www.investopedia.com/terms/b/bankruptcy-court.asp).
 
 ## What Happens Next
 

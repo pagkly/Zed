@@ -16,7 +16,7 @@ author: Julie Young
 Frequency Distribution
 ## What Is Frequency Distribution?
 
-A frequency distribution is a representation, either in a graphical or tabular format, that displays the number of observations within a given interval. The interval size depends on the data being analyzed and the goals of the analyst. The intervals must be mutually exclusive and exhaustive. Frequency [distributions](https://www.investopedia.com/terms/d/distribution.asp) are typically used within a statistical context. Generally, frequency distribution can be associated with the charting of a [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp).
+A frequency distribution is a representation, either in a graphical or tabular format, that displays the number of observations within a given interval. The interval size depends on the data being analyzed and the goals of the analyst. The intervals must be mutually exclusive and exhaustive. Frequency [distributions](https://www.investopedia.com/terms/d/distribution.asp) are typically used within a statistical context. Generally, frequency distribution can be associated with the charting of a [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp).
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ A frequency distribution is a representation, either in a graphical or tabular f
 
 ## Understanding Frequency Distribution
 
-As a [statistical](https://www.investopedia.com/terms/s/statistics.asp) tool, a frequency distribution provides a visual representation for the distribution of observations within a particular test. Analysts often use frequency distribution to visualize or illustrate the data collected in a sample. For example, the height of children can be split into several different categories or ranges. In measuring the height of 50 children, some are tall and some are short, but there is a high probability of a higher frequency or concentration in the middle range. The most important factors for gathering data are that the intervals used must not overlap and must contain all of the possible observations.
+As a [[statistical]](https://www.investopedia.com/terms/s/statistics.asp) tool, a frequency distribution provides a visual representation for the distribution of observations within a particular test. Analysts often use frequency distribution to visualize or illustrate the data collected in a sample. For example, the height of children can be split into several different categories or ranges. In measuring the height of 50 children, some are tall and some are short, but there is a high probability of a higher frequency or concentration in the middle range. The most important factors for gathering data are that the intervals used must not overlap and must contain all of the possible observations.
 
 ## Visual Representation of Frequency Distribution
 
 Both histograms and bar charts provide a visual display using columns, with the y-axis representing the frequency count, and the x-axis representing the variable to be measured. In the height of children, for example, the y-axis is the number of children, and the x-axis is the height. The columns represent the number of children observed with heights measured in each interval.
 
-In general, a [histogram](https://www.investopedia.com/terms/h/histogram.asp) chart will typically show a normal distribution, which means that the majority of occurrences will fall in the middle columns. Frequency distributions can be a key aspect of charting normal distributions which show observation probabilities divided among [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp). Frequency distributions can be presented as a frequency table, a histogram, or a bar chart. Below is an example of a frequency distribution as a table.
+In general, a [[histogram]](https://www.investopedia.com/terms/h/histogram.asp) chart will typically show a normal distribution, which means that the majority of occurrences will fall in the middle columns. Frequency distributions can be a key aspect of charting normal distributions which show observation probabilities divided among [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp). Frequency distributions can be presented as a frequency table, a histogram, or a bar chart. Below is an example of a frequency distribution as a table.
 
 Height of Children in a School
 
@@ -59,7 +59,7 @@ Height of Children in a School
 
 ## Frequency Distribution in Trading
 
-Frequency distributions are not commonly used in the world of investments. However, [traders](https://www.investopedia.com/trading-4427765) who follow Richard D. Wyckoff, a pioneering early 20th-century trader, use an approach to trading that involves frequency distribution.
+Frequency distributions are not commonly used in the world of investments. However, [[traders]](https://www.investopedia.com/trading-4427765) who follow Richard D. Wyckoff, a pioneering early 20th-century trader, use an approach to trading that involves frequency distribution.
 
 Investment houses still use the approach, which requires considerable practice, to teach traders. The frequency chart is referred to as a point-and-figure chart and was created out of a need for [floor traders](https://www.investopedia.com/terms/f/floortrader.asp) to take note of price action and to identify trends.
 

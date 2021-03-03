@@ -26,7 +26,7 @@ The Expedited Funds Availability Act (EFAA) was implemented to regulate the hold
 
 ## Understanding the Expedited Funds Availability Act (EFAA)
 
-The Expedited Funds Availability Act (EFAA) intends to standardize the handling of deposit holds. Banks and other financial institutions must inform customers of their policies regarding deposit holds, as well as any changes to the policies. The [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) has implemented the EFAA as [Regulation CC](https://www.investopedia.com/terms/r/regulation-cc.asp).
+The Expedited Funds Availability Act (EFAA) intends to standardize the handling of deposit holds. Banks and other financial institutions must inform customers of their policies regarding deposit holds, as well as any changes to the policies. The [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) has implemented the EFAA as [[Regulation CC]](https://www.investopedia.com/terms/r/regulation-cc.asp).
 
 ## Hold Types Allowed Under EFAA
 

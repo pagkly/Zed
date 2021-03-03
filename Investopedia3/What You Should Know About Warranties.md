@@ -28,9 +28,9 @@ A warranty is a type of guarantee that a manufacturer or similar party makes reg
 
 Warranties usually have exceptions that limit the conditions in which a manufacturer will be obligated to rectify a problem. For example, many warranties for common household items only cover the product for up to one year from the date of purchase and usually only if the product in question contains problems resulting from defective parts or workmanship.
 
-As a result of these limited manufacturer warranties, many [vendors](https://www.investopedia.com/terms/v/vendor.asp) offer extended warranties. These extended warranties are essentially insurance policies for products that consumers pay for upfront. Coverage will usually last for a handful of years above and beyond the manufacturer's warranty and is often more lenient in terms of limited terms and conditions.
+As a result of these limited manufacturer warranties, many [[vendors]](https://www.investopedia.com/terms/v/vendor.asp) offer extended warranties. These extended warranties are essentially insurance policies for products that consumers pay for upfront. Coverage will usually last for a handful of years above and beyond the manufacturer's warranty and is often more lenient in terms of limited terms and conditions.
 
-Home warranties can provide discounted repair and replacement services for household appliances and systems and the [best home warranties](https://www.investopedia.com/best-home-warranties-4777763) offer a range of plans depending on the coverage you want.
+Home warranties can provide discounted repair and replacement services for household appliances and systems and the [[best home warranties]](https://www.investopedia.com/best-home-warranties-4777763) offer a range of plans depending on the coverage you want.
 
 ## Reasons Why a Warranty Could Be Denied
 

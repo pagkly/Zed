@@ -16,7 +16,7 @@ author: Julia Kagan
 Follow on Public Offer (FPO)
 ## What Is a Follow-on Public Offer (FPO)?
 
-A follow-on public offering (FPO) is the issuance of shares to investors by a company listed on a stock [exchange](https://www.investopedia.com/terms/e/exchange.asp). A follow-on offering is an issuance of additional shares made by a company after an initial public offering (IPO). Follow-on offerings are also known as [secondary offerings](https://www.investopedia.com/terms/s/secondaryoffering.asp).
+A follow-on public offering (FPO) is the issuance of shares to investors by a company listed on a stock [[exchange]](https://www.investopedia.com/terms/e/exchange.asp). A follow-on offering is an issuance of additional shares made by a company after an initial public offering (IPO). Follow-on offerings are also known as [[secondary offerings]](https://www.investopedia.com/terms/s/secondaryoffering.asp).
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A follow-on public offering (FPO) is the issuance of shares to investors by a co
 
 ## How a Follow-on Public Offer (FPO) Works
 
-Public companies can also take advantage of an FPO through an offer document. FPOs should not be confused with IPOs, the [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) of equity to the public. FPOs are additional issues made after a company is established on an exchange.
+Public companies can also take advantage of an FPO through an offer document. FPOs should not be confused with IPOs, the [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) of equity to the public. FPOs are additional issues made after a company is established on an exchange.
 
 ## Types of Follow-on Public Offers
 
-There are two main types of follow-on public offers. The first is [dilutive](https://www.investopedia.com/terms/d/dilution.asp) to investors, as the company’s Board of Directors agrees to increase the share float level or the number of shares available. This kind of follow-on public offering seeks to raise money to reduce debt or expand the business, resulting in an increase in the number of shares outstanding.
+There are two main types of follow-on public offers. The first is [[dilutive]](https://www.investopedia.com/terms/d/dilution.asp) to investors, as the company’s Board of Directors agrees to increase the share float level or the number of shares available. This kind of follow-on public offering seeks to raise money to reduce debt or expand the business, resulting in an increase in the number of shares outstanding.
 
 The other type of follow-on public offer is non-dilutive. This approach is useful when directors or substantial shareholders sell-off privately held shares.
 

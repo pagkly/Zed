@@ -16,7 +16,7 @@ author: Will Kenton
 Supply Curve Definition
 ## What Is a Supply Curve?
 
-The supply curve is a graphic representation of the correlation between the cost of a good or service and the [quantity supplied](https://www.investopedia.com/terms/q/quantitysupplied.asp) for a given period. In a typical illustration, the price will appear on the left vertical axis, while the quantity supplied will appear on the horizontal axis.
+The supply curve is a graphic representation of the correlation between the cost of a good or service and the [[quantity supplied]](https://www.investopedia.com/terms/q/quantitysupplied.asp) for a given period. In a typical illustration, the price will appear on the left vertical axis, while the quantity supplied will appear on the horizontal axis.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The supply curve is a graphic representation of the correlation between the cost
 
 ## How a Supply Curve Works
 
-The supply curve will move upward from left to right, which expresses the [law of supply](https://www.investopedia.com/terms/l/lawofsupply.asp): As the price of a given commodity increases, the quantity supplied increases (all else being equal).
+The supply curve will move upward from left to right, which expresses the [[law of supply]](https://www.investopedia.com/terms/l/lawofsupply.asp): As the price of a given commodity increases, the quantity supplied increases (all else being equal).
 
 Note that this formulation implies that price is the independent variable, and quantity the dependent variable. In most disciplines, the independent variable appears on the horizontal or x-axis, but economics is an exception to this rule.
 
@@ -36,9 +36,9 @@ If a factor besides price or quantity changes, a new supply curve needs to be dr
 
 Technology is a leading cause of supply curve shifts.
 
-Other factors can shift the supply curve as well, such as a change in the [price of production](https://www.investopedia.com/terms/p/production-cost.asp). If a drought causes water prices to spike, the curve will shift to the left (S3). If the price of a [substitute](https://www.investopedia.com/terms/s/substitute.asp)—from the supplier's perspective—such as corn increases, farmers will shift to growing that instead, and the supply of soybeans will decrease (S3).
+Other factors can shift the supply curve as well, such as a change in the [[price of production]](https://www.investopedia.com/terms/p/production-cost.asp). If a drought causes water prices to spike, the curve will shift to the left (S3). If the price of a [[substitute]](https://www.investopedia.com/terms/s/substitute.asp)—from the supplier's perspective—such as corn increases, farmers will shift to growing that instead, and the supply of soybeans will decrease (S3).
 
-If a new technology, such as a pest-resistant seed, increases yields, the supply curve will shift right (S2). If the [future price](https://www.investopedia.com/terms/f/futures.asp) of soybeans is higher than the current price, the supply will temporarily shift to the left (S3), since producers have an incentive to wait to sell.
+If a new technology, such as a pest-resistant seed, increases yields, the supply curve will shift right (S2). If the [[future price]](https://www.investopedia.com/terms/f/futures.asp) of soybeans is higher than the current price, the supply will temporarily shift to the left (S3), since producers have an incentive to wait to sell.
 
 Image by Julie Bang © Investopedia 2019
 
@@ -46,7 +46,7 @@ Image by Julie Bang © Investopedia 2019
 
 Should the price of soybeans rise, farmers will have an incentive to plant less corn and more soybeans, and the total quantity of soybeans on the market will increase. 
 
-The degree to which rising price translates into rising quantity is called [supply elasticity](https://www.investopedia.com/ask/answers/040615/how-does-price-elasticity-affect-supply.asp) or price elasticity of supply. If a 50% rise in soybean prices causes the number of soybeans produced to rise by 50%, the supply elasticity of soybeans is 1.
+The degree to which rising price translates into rising quantity is called [[supply elasticity]](https://www.investopedia.com/ask/answers/040615/how-does-price-elasticity-affect-supply.asp) or price elasticity of supply. If a 50% rise in soybean prices causes the number of soybeans produced to rise by 50%, the supply elasticity of soybeans is 1.
 
 On the other hand, if a 50% rise in soybean prices only increases the quantity supplied by 10 percent, the supply elasticity is 0.2. The supply curve is shallower (closer to horizontal) for products with more elastic supply and steeper (closer to vertical) for products with less elastic supply.
 

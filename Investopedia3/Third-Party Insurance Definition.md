@@ -16,11 +16,11 @@ author: Julia Kagan
 Third-Party Insurance Definition
 ## What Is Third-Party Insurance?
 
-Third-party insurance is an insurance policy purchased for protection against the claims of another. One of the most common types is third-party insurance is [automobile insurance](https://www.investopedia.com/terms/a/auto-insurance.asp). Third-party offers coverage against claims of damages and losses incurred by a driver who is not the insured, the principal, and is therefore not covered under the insurance policy. The driver who caused damages is the third party.
+Third-party insurance is an insurance policy purchased for protection against the claims of another. One of the most common types is third-party insurance is [[automobile insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp). Third-party offers coverage against claims of damages and losses incurred by a driver who is not the insured, the principal, and is therefore not covered under the insurance policy. The driver who caused damages is the third party.
 
 ## How Third-Party Insurance Works
 
-Third-party insurance is essentially a form of [liability insurance](https://www.investopedia.com/terms/l/liability_insurance.asp) purchased by an insured (first-party) from an insurer (second party) for protection against the claims of another (third party). The first party is responsible for their damages or losses, regardless of the cause of those damages.
+Third-party insurance is essentially a form of [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp) purchased by an insured (first-party) from an insurer (second party) for protection against the claims of another (third party). The first party is responsible for their damages or losses, regardless of the cause of those damages.
 
 There are two types of automobile third-party liability coverage. First, bodily injury liability covers costs resulting from injuries to a person. These injuries' costs could include expenses like hospital care, lost wages, and pain and suffering due to the accident. Second, property damage liability covers costs resulting from damages to or loss of property. Examples of property damage include the payment to replace landscaping and mailboxes, as well as compensation for loss of use of a structure.1
 
@@ -40,6 +40,6 @@ Both types of third-party insurance are important, specifically for individuals,
 
 ## Other Types of Third-Party Liability Insurance
 
-In most countries, third-party or liability insurance is [compulsory insurance](https://www.investopedia.com/terms/c/compulsory-insurance.asp) for any party that may potentially be sued by a third party. Public liability insurance involves industries or businesses that take part in processes or other activities that may affect third parties, such as subcontractors, architects, and engineers. Here, the third-party can be visitors, guests, or users of a facility. Most companies include public liability insurance in their insurance portfolio to protect against damage to property or personal injury.
+In most countries, third-party or liability insurance is [[compulsory insurance]](https://www.investopedia.com/terms/c/compulsory-insurance.asp) for any party that may potentially be sued by a third party. Public liability insurance involves industries or businesses that take part in processes or other activities that may affect third parties, such as subcontractors, architects, and engineers. Here, the third-party can be visitors, guests, or users of a facility. Most companies include public liability insurance in their insurance portfolio to protect against damage to property or personal injury.
 
 Product liability insurance is typically mandated by legislation, the scale of which varies by country and often varies by industry. This type of insurance covers all major product classes and types, including chemicals, agricultural products, and recreational equipment; and protects companies against lawsuits over products or components that cause damage or injury.

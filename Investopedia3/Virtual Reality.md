@@ -16,7 +16,7 @@ author: Cory Mitchell
 Virtual Reality
 ## What Is Virtual Reality?
 
-Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special [goggles with a screen or gloves](https://www.investopedia.com/terms/w/wearable-technology.asp) fitted with sensors. In this simulated artificial environment, the user is able to have a realistic-feeling experience.
+Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special [[goggles with a screen or gloves]](https://www.investopedia.com/terms/w/wearable-technology.asp) fitted with sensors. In this simulated artificial environment, the user is able to have a realistic-feeling experience.
 
 [Augmented reality](https://www.investopedia.com/terms/a/augmented-reality.asp) (AR) is different from VR, in that AR enhances the real world as it exists with graphical overlays and does not create a fully immersive experience.
 
@@ -40,6 +40,6 @@ Technological advances have enabled further enhancement beyond standard 3D glass
 
 Other uses of this VR technology involve training and simulation. For example, those wanting to get a driver's license can get a first-hand experience of road driving using a VR setup that involves handling car parts like the steering wheel, brake, and accelerator. It offers the benefit of experience without the possibility of causing an accident, so students can develop a certain level of expertise in driving before actually being on the road.
 
-Sellers of [real estate](https://www.investopedia.com/terms/r/realestate.asp) can also use VR-aided walkthroughs of a home or apartment to give a feel for a property without actually having to physically be at the location with a potential buyer.
+Sellers of [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) can also use VR-aided walkthroughs of a home or apartment to give a feel for a property without actually having to physically be at the location with a potential buyer.
 
 Other developing uses are training astronauts for space travel, exploring the intricacies of miniature objects, and allowing medical students to practice surgery on computer-generated subjects.

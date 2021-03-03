@@ -16,7 +16,7 @@ author: Chris B Murphy
 Why the Receivables Turnover Ratio Matters
 ## What Is the Receivables Turnover Ratio?
 
-The receivables turnover ratio is an accounting measure used to quantify a company's effectiveness in collecting its [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), or the money owed to it by its customers or clients. This ratio measures how well a company uses and manages the credit it extends to customers and how quickly that short-term debt is collected or is paid. A firm that is very good at collecting on its payments due will have a higher accounts receivable turnover ratio.
+The receivables turnover ratio is an accounting measure used to quantify a company's effectiveness in collecting its [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp), or the money owed to it by its customers or clients. This ratio measures how well a company uses and manages the credit it extends to customers and how quickly that short-term debt is collected or is paid. A firm that is very good at collecting on its payments due will have a higher accounts receivable turnover ratio.
 
 It is useful to compare a firm's ratio with that of its peers in the same industry to gauge whether it is on par with its competitors.
 
@@ -53,7 +53,7 @@ A high receivables turnover ratio can indicate that a company’s collection of 
 
 A high ratio can also suggest that a company is conservative when it comes to extending credit to its customers. Conservative credit policy can be beneficial since it could help the company avoid extending credit to customers who may not be able to pay on time.
 
-On the other hand, if a company’s credit policy is too conservative, it might drive away potential customers to the competition who will extend them credit. If a company is losing clients or suffering slow growth, they might be better off loosening their credit policy to improve [sales](https://www.investopedia.com/terms/s/sale.asp), even though it might lead to a lower accounts receivable turnover ratio.
+On the other hand, if a company’s credit policy is too conservative, it might drive away potential customers to the competition who will extend them credit. If a company is losing clients or suffering slow growth, they might be better off loosening their credit policy to improve [[sales]](https://www.investopedia.com/terms/s/sale.asp), even though it might lead to a lower accounts receivable turnover ratio.
 
 ### Low Accounts Turnover
 
@@ -83,7 +83,7 @@ A company could improve its turnover ratio by making changes to its collection p
 
 ## The Difference Between Receivables Turnover and Asset Turnover
 
-The [asset turnover ratio](https://www.investopedia.com/terms/a/assetturnover.asp) measures the value of a company's sales or revenues relative to the value of its assets. The asset turnover ratio is an indicator of the efficiency with which a company is using its assets to generate revenue. The higher the asset turnover ratio, the more efficient a company. Conversely, if a company has a low asset turnover ratio, it indicates it's not efficiently using its assets to generate sales.
+The [[asset turnover ratio]](https://www.investopedia.com/terms/a/assetturnover.asp) measures the value of a company's sales or revenues relative to the value of its assets. The asset turnover ratio is an indicator of the efficiency with which a company is using its assets to generate revenue. The higher the asset turnover ratio, the more efficient a company. Conversely, if a company has a low asset turnover ratio, it indicates it's not efficiently using its assets to generate sales.
 
 The accounts receivable turnover ratio measures a company's effectiveness in collecting its receivables or money owed by clients. The ratio shows how well a company uses and manages the credit it extends to customers and how quickly that short-term debt is collected or being paid.
 
@@ -91,7 +91,7 @@ The accounts receivable turnover ratio measures a company's effectiveness in col
 
 Like any metric attempting to gauge the efficiency of a business, the receivables turnover ratio comes with a set of limitations that are important for any investor to consider before using it.
 
-A limitation to consider is that some companies use total sales instead of [net sales](https://www.investopedia.com/terms/n/netsales.asp) when calculating their turnover ratio, which inflates the results. While this is not always necessarily meant to be deliberately misleading, investors should try to ascertain how a company calculates its ratio or calculate the ratio independently.
+A limitation to consider is that some companies use total sales instead of [[net sales]](https://www.investopedia.com/terms/n/netsales.asp) when calculating their turnover ratio, which inflates the results. While this is not always necessarily meant to be deliberately misleading, investors should try to ascertain how a company calculates its ratio or calculate the ratio independently.
 
 Another limitation of the receivables turnover ratio is that accounts receivables can vary dramatically throughout the year. For example, seasonal companies will likely have periods with high receivables along with perhaps a low turnover ratio and periods when the receivables are fewer and can be more easily managed and collected.
 
@@ -99,6 +99,6 @@ In other words, if an investor chooses a starting and ending point for calculati
 
 ## Special Considerations
 
-Any comparisons of the turnover ratio should be made with companies that are in the same industry, and ideally, have similar business models. Companies of different sizes may often have very different [capital structures](https://www.investopedia.com/terms/c/capitalstructure.asp), which can greatly influence turnover calculations, and the same is often true of companies in different industries.
+Any comparisons of the turnover ratio should be made with companies that are in the same industry, and ideally, have similar business models. Companies of different sizes may often have very different [[capital structures]](https://www.investopedia.com/terms/c/capitalstructure.asp), which can greatly influence turnover calculations, and the same is often true of companies in different industries.
 
 Lastly, a low receivables turnover might not necessarily indicate that the company’s issuing of credit and collecting debt is lacking. For example, if the company's distribution division is operating poorly, it might be failing to deliver the correct goods to customers in a timely manner. As a result, customers might delay paying their receivables, which would decrease the company’s receivables turnover ratio.

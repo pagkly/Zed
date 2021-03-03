@@ -29,7 +29,7 @@ A wear and tear exclusion is a provision in an insurance policy that states tha
 
 Wear and tear exclusions are fairly common. Auto insurance policies, for example, do not cover the cost of replacing auto parts that deteriorate with time and use, such as brake pads, timing belts, and water pumps. Auto insurance policies cover only unpredictable events such as collisions.1
 
-Wear and tear exclusions are designed to keep an insurer from being held liable when damage results from a customer’s failure to properly maintain, repair, and replace [deteriorated or defective portions of the insured property](https://www.investopedia.com/ask/answers/111815/does-homeowners-insurance-cover-broken-pipes.asp). To prepare for predictable losses from wear and tear, owners can self-insure by setting aside money each month in an [emergency fund](https://www.investopedia.com/terms/e/emergency_fund.asp).
+Wear and tear exclusions are designed to keep an insurer from being held liable when damage results from a customer’s failure to properly maintain, repair, and replace [[deteriorated or defective portions of the insured property]](https://www.investopedia.com/ask/answers/111815/does-homeowners-insurance-cover-broken-pipes.asp). To prepare for predictable losses from wear and tear, owners can self-insure by setting aside money each month in an [[emergency fund]](https://www.investopedia.com/terms/e/emergency_fund.asp).
 
 ### Exclusions Are Specified
 
@@ -37,7 +37,7 @@ The exclusions and limitations that are specified in the contract are what deter
 
 An insurance company may cite “wear and tear” on a claim in an effort to avoid a contractual payment. In the case of a natural disaster such as a flood or tornado, insurers will often try to invoke “wear and tear” and blame the property damage on a preexisting condition.
 
-Other common exclusions include poor maintenance, prior damage, manufacturing defects, or faulty installation. [Roof damage claims are often a cause of contention](https://www.investopedia.com/ask/answers/111815/does-homeowners-insurance-cover-roof-replacement.asp). Insurers may point to the age of the roof or its maintenance record as a cause of the damage instead of a hailstorm.
+Other common exclusions include poor maintenance, prior damage, manufacturing defects, or faulty installation. [[Roof damage claims are often a cause of contention]](https://www.investopedia.com/ask/answers/111815/does-homeowners-insurance-cover-roof-replacement.asp). Insurers may point to the age of the roof or its maintenance record as a cause of the damage instead of a hailstorm.
 
 Damage to older properties is often the cause of disputes between insured and insurer.
 

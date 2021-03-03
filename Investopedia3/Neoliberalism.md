@@ -28,7 +28,7 @@ Neoliberalism is often associated with the leadership of Margaret Thatcher–the
 
 ## Understanding Neoliberalism
 
-Neoliberalism is related to [laissez-faire economics](https://www.investopedia.com/terms/l/laissezfaire.asp), a school of thought that prescribes a minimal amount of government interference into the economic issues of individuals and society. Laissez-faire economics proposes that continued economic growth will lead to technological innovation, expansion of the free market, and limited state interference.
+Neoliberalism is related to [[laissez-faire economics]](https://www.investopedia.com/terms/l/laissezfaire.asp), a school of thought that prescribes a minimal amount of government interference into the economic issues of individuals and society. Laissez-faire economics proposes that continued economic growth will lead to technological innovation, expansion of the free market, and limited state interference.
 
 Neoliberalism is sometimes confused with libertarianism. However, neoliberals typically advocate for more government intervention into the economy and society than libertarianism. For example, while neoliberals usually favor progressive taxation, libertarians often eschew this stance in favor of schemes like a flat tax rate for all taxpayers.
 
@@ -64,4 +64,4 @@ Neoliberal policies have been proven to increase inequality.1 And this inequalit
 
 ### Globalization
 
-Finally, neoliberalism's emphasis on economic efficiency has encouraged [globalization](https://www.investopedia.com/terms/g/globalization.asp), which opponents see as depriving sovereign nations of the right to self-determination. Neoliberalism's naysayers also say that its call to replace government-owned corporations with private ones can reduce efficiency: While privatization may increase productivity, they assert, the improvement may not be sustainable because of the world’s limited geographical space. In addition, those opposed to neoliberalism add that it is anti-democratic, can lead to exploitation and social injustice, and may criminalize poverty.
+Finally, neoliberalism's emphasis on economic efficiency has encouraged [[globalization]](https://www.investopedia.com/terms/g/globalization.asp), which opponents see as depriving sovereign nations of the right to self-determination. Neoliberalism's naysayers also say that its call to replace government-owned corporations with private ones can reduce efficiency: While privatization may increase productivity, they assert, the improvement may not be sustainable because of the world’s limited geographical space. In addition, those opposed to neoliberalism add that it is anti-democratic, can lead to exploitation and social injustice, and may criminalize poverty.

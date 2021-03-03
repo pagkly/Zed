@@ -16,7 +16,7 @@ author: James Chen
 Greenspan Put Definition
 ## What Is Greenspan Put?
 
-Greenspan put is the name given to a trading strategy of [hedging](https://www.investopedia.com/trading/hedging-beginners-guide/) against price risk and became popular during the 1990s and 2000s as a result of certain policies implemented by Federal Reserve Chairman [Alan Greenspan](https://www.investopedia.com/terms/a/alangreenspan.asp) during that time.
+Greenspan put is the name given to a trading strategy of [[hedging]](https://www.investopedia.com/trading/hedging-beginners-guide/) against price risk and became popular during the 1990s and 2000s as a result of certain policies implemented by Federal Reserve Chairman [[Alan Greenspan]](https://www.investopedia.com/terms/a/alangreenspan.asp) during that time.
 
 ### Key Takeaways
 
@@ -28,10 +28,10 @@ Greenspan put is the name given to a trading strategy of [hedging](https://www.i
 
 ## Understanding Greenspan Put
 
-Greenspan was chairman from 1987 to 2006 and throughout his tenure he attempted to help support the U.S. economy by actively using the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) as a lever for change.  
-Many believed his policies encouraged excessive risk-taking in stock markets, and that investors needed to buy protection from the actions of speculators. As internet stocks fell drastically in price from 2000 to 2002, it led to profitability in trading [put options](https://www.investopedia.com/terms/p/putoption.asp) and seemed to confirm the name.
+Greenspan was chairman from 1987 to 2006 and throughout his tenure he attempted to help support the U.S. economy by actively using the [[federal funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp) as a lever for change.  
+Many believed his policies encouraged excessive risk-taking in stock markets, and that investors needed to buy protection from the actions of speculators. As internet stocks fell drastically in price from 2000 to 2002, it led to profitability in trading [[put options]](https://www.investopedia.com/terms/p/putoption.asp) and seemed to confirm the name.
 
-Greenspan put was a term coined in the 1990s. It referred to a reliance on a stock market put option strategy that, if utilized, could help investors mitigate losses and potentially profit from deflating market [bubbles](https://www.investopedia.com/terms/b/bubble.asp). The strategy itself was not a specific investing or trading methodology, but rather a generalized notion that stocks were so volatile that an investor would do well to buy a put option while holding on to those stocks.
+Greenspan put was a term coined in the 1990s. It referred to a reliance on a stock market put option strategy that, if utilized, could help investors mitigate losses and potentially profit from deflating market [[bubbles]](https://www.investopedia.com/terms/b/bubble.asp). The strategy itself was not a specific investing or trading methodology, but rather a generalized notion that stocks were so volatile that an investor would do well to buy a put option while holding on to those stocks.
 
 In practice, the idea might have advocated the notion that if you bought an internet stock, and then it dramatically rose in price over a few months, then, to preserve your gains, you would buy a put option with several months' duration to protect those shares.
 
@@ -41,7 +41,7 @@ The phrase Greenspan put suggested that many investors believed they could expec
 
 Volatility in Greenspan Era.
 
-This chart shows how, beginning in 1997, averaged [implied volatility](https://www.investopedia.com/terms/i/iv.asp) began to rise and remain elevated through 2004. Since this phrase was more heavily referenced in the late 1990s, it seems rational that investors and traders would hold this perception from that time forward. The fundamental factors that correspond to Greenspan's philosophy for how the Fed should accomplish its [stated goals](https://www.investopedia.com/articles/investing/100715/breaking-down-federal-reserves-dual-mandate.asp) equally contribute to the use of this phrase.
+This chart shows how, beginning in 1997, averaged [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) began to rise and remain elevated through 2004. Since this phrase was more heavily referenced in the late 1990s, it seems rational that investors and traders would hold this perception from that time forward. The fundamental factors that correspond to Greenspan's philosophy for how the Fed should accomplish its [[stated goals]](https://www.investopedia.com/articles/investing/100715/breaking-down-federal-reserves-dual-mandate.asp) equally contribute to the use of this phrase.
 
 ## Greenspan’s Actions
 
@@ -49,7 +49,7 @@ Greenspan took on the Chairman role with the Fed’s first actions following the
 
 In this environment stock prices could make wild fluctuations, making put options ever more popular insurance to investors. The inflated valuations and rising prices made it difficult for seasoned investors to buy stocks without considering put-option protection.
 
-In the early 1990s Greenspan instituted a series of rate decreases lasting until approximately 1993. Through Greenspan’s tenure there were also several instances where the Fed intervened to support exorbitant risk-taking in the stock market including market-moving events such as the savings and loan crisis, Gulf War, Mexican crisis, Asian financial crisis, [Long-Term Capital Management](https://www.investopedia.com/terms/l/longtermcapital.asp) crisis, [Y2K](https://www.investopedia.com/terms/y/y2k.asp), and especially the bursting of the [dotcom bubble](https://www.investopedia.com/terms/d/dotcom-bubble.asp) following the market's peak in 2000.
+In the early 1990s Greenspan instituted a series of rate decreases lasting until approximately 1993. Through Greenspan’s tenure there were also several instances where the Fed intervened to support exorbitant risk-taking in the stock market including market-moving events such as the savings and loan crisis, Gulf War, Mexican crisis, Asian financial crisis, [[Long-Term Capital Management]](https://www.investopedia.com/terms/l/longtermcapital.asp) crisis, [[Y2K]](https://www.investopedia.com/terms/y/y2k.asp), and especially the bursting of the [[dotcom bubble]](https://www.investopedia.com/terms/d/dotcom-bubble.asp) following the market's peak in 2000.
 
 [Source: The New York Times](https://www.nytimes.com/interactive/2015/12/11/business/economy/fed-interest-rates-history.html)
 
@@ -57,8 +57,8 @@ Overall, the Fed under Greenspan’s direction was known for supporting a Greens
 
 ## Ben Bernanke and After
 
-On February 1, 2006, [Ben Bernanke](https://www.investopedia.com/terms/b/benbernanke.asp) replaced Alan Greenspan as the [Federal Reserve Board](https://www.investopedia.com/terms/f/frb.asp) Chairman. Bernanke followed a similar strategy to Alan Greenspan in 2007 and 2008. The combination of rate reduction timing implemented by Alan Greenspan and Ben Bernanke has been generally attributed to supporting excessive risk-taking in the financial markets, which many believe to have been a catalyst contributing to the conditions of the 2008 financial crisis.
+On February 1, 2006, [[Ben Bernanke]](https://www.investopedia.com/terms/b/benbernanke.asp) replaced Alan Greenspan as the [[Federal Reserve Board]](https://www.investopedia.com/terms/f/frb.asp) Chairman. Bernanke followed a similar strategy to Alan Greenspan in 2007 and 2008. The combination of rate reduction timing implemented by Alan Greenspan and Ben Bernanke has been generally attributed to supporting excessive risk-taking in the financial markets, which many believe to have been a catalyst contributing to the conditions of the 2008 financial crisis.
 
-However, as the chart below shows, in the decade that followed the financial crisis, the results of such policies are not so obviously encouraging inordinate risk. The same policies implemented by Greenspan and Bernanke continued, in measured degree, with subsequent chairs [Janet Yellen](https://www.investopedia.com/articles/investing/101613/janet-yellen-background-and-philosophy.asp) and Jerome Powell. As the chart shows, the historical results after 2008 demonstrated, on average, much less volatility in both stock and option prices than the decade that preceded it.
+However, as the chart below shows, in the decade that followed the financial crisis, the results of such policies are not so obviously encouraging inordinate risk. The same policies implemented by Greenspan and Bernanke continued, in measured degree, with subsequent chairs [[Janet Yellen]](https://www.investopedia.com/articles/investing/101613/janet-yellen-background-and-philosophy.asp) and Jerome Powell. As the chart shows, the historical results after 2008 demonstrated, on average, much less volatility in both stock and option prices than the decade that preceded it.
 
 Volatility after Financial Crisis.

@@ -16,7 +16,7 @@ author: Julia Kagan
 Open-End Lease
 ## What Is an Open-End Lease?
 
-An open-end lease is a type of rental agreement that obliges the [lessee](https://www.investopedia.com/terms/l/lessee.asp) (the person making periodic lease payments) to make a balloon payment at the end of the lease agreement amounting to the difference between the residual and [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of the asset. Open-end leases are also called "finance leases."
+An open-end lease is a type of rental agreement that obliges the [[lessee]](https://www.investopedia.com/terms/l/lessee.asp) (the person making periodic lease payments) to make a balloon payment at the end of the lease agreement amounting to the difference between the residual and [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of the asset. Open-end leases are also called "finance leases."
 
 Often, open-end leases are used in commercial transactions. For example, when a moving business procures a fleet of vans and trucks, an open-end lease may prove to be a better bargain due to the unlimited mileage offered under the terms of a lease.
 
@@ -30,7 +30,7 @@ Often, open-end leases are used in commercial transactions. For example, when a 
 
 Since the lessee must purchase the leased asset upon lease expiration, that person bears the risk that the asset depreciates more than was expected by the end of the lease. Of course, at the same time, the lessee stands to realize a gain if the asset depreciates less than expected.
 
-For example, suppose your lease payments for a car are based on the assumption that a $20,000 new car will be worth only $10,000 at the end of your lease agreement. If the car turns out to be worth only $4,000, you must compensate the [lessor](https://www.investopedia.com/terms/l/lessor.asp) (the company who leased the car to you) for the lost $6,000 since your lease payment was calculated on the basis of the car having a salvage value of $10,000. Basically, since you are buying the car, you must bear the loss of that extra [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). Conversely, if the car is worth more than $10,000 at the end of the lease, you receive a refund from the lessor.
+For example, suppose your lease payments for a car are based on the assumption that a $20,000 new car will be worth only $10,000 at the end of your lease agreement. If the car turns out to be worth only $4,000, you must compensate the [[lessor]](https://www.investopedia.com/terms/l/lessor.asp) (the company who leased the car to you) for the lost $6,000 since your lease payment was calculated on the basis of the car having a salvage value of $10,000. Basically, since you are buying the car, you must bear the loss of that extra [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp). Conversely, if the car is worth more than $10,000 at the end of the lease, you receive a refund from the lessor.
 
 There are different opinions on whether an open-end lease is more appropriate for an enterprise that intends to own the vehicle at the end of the term.
 

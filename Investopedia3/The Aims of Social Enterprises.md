@@ -24,9 +24,9 @@ The concept of a social enterprise was developed in the UK in the late 1970s to 
 
 Funding is obtained primarily by selling goods and services to consumers, although some funding is obtained through grants. Because profit-maximization is not the primary goal, a social enterprise operates differently than a standard company.
 
-While earning profits is not the primary motivation behind a social enterprise, revenue still plays an essential role in the sustainability of the venture. [Sustainable revenue](https://www.investopedia.com/terms/s/sustainablegrowthrate.asp) differentiates a social enterprise from a traditional charity that relies on outside funding to fulfill its social mission. This goal does not mean social enterprises cannot be profitable; it's simply that their priority is to reinvest profits into their social mission, rather than fund payouts to shareholders. 
+While earning profits is not the primary motivation behind a social enterprise, revenue still plays an essential role in the sustainability of the venture. [[Sustainable revenue]](https://www.investopedia.com/terms/s/sustainablegrowthrate.asp) differentiates a social enterprise from a traditional charity that relies on outside funding to fulfill its social mission. This goal does not mean social enterprises cannot be profitable; it's simply that their priority is to reinvest profits into their social mission, rather than fund payouts to shareholders. 
 
-The [Organization for Economic Cooperation and Development (OECD](https://www.investopedia.com/terms/o/oecd.asp)) identifies social enterprises as being highly participatory, with stakeholders actively involved and a minimum number of paid employees.
+The [[Organization for Economic Cooperation and Development (OECD]](https://www.investopedia.com/terms/o/oecd.asp)) identifies social enterprises as being highly participatory, with stakeholders actively involved and a minimum number of paid employees.
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ Employees of social enterprises come from many backgrounds, but priority is give
 
 ## Social Enterprise vs. Social Entrepreneurship
 
-A social enterprise is not to be confused with [social entrepreneurship](https://www.investopedia.com/terms/s/social-entrepreneur.asp), which tends to focus on individuals who develop solutions to social and environmental problems using existing business techniques and strategies. Social entrepreneurs seek innovative ways and operate to drive change, whereas social enterprises form to fulfill a business purpose and solve societal needs through their commercial activities.
+A social enterprise is not to be confused with [[social entrepreneurship]](https://www.investopedia.com/terms/s/social-entrepreneur.asp), which tends to focus on individuals who develop solutions to social and environmental problems using existing business techniques and strategies. Social entrepreneurs seek innovative ways and operate to drive change, whereas social enterprises form to fulfill a business purpose and solve societal needs through their commercial activities.
 
 ## Examples of a Social Enterprise
 

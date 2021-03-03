@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Preferred Stock
 ## What Is a Preferred Stock?
 
-The term "stock" refers to ownership or equity in a firm. There are two types of equity—[common stock ](https://www.investopedia.com/terms/c/commonstock.asp) and preferred stock. Preferred stockholders have a higher claim to [dividends](https://www.investopedia.com/terms/d/dividend.asp) or asset distribution than common stockholders.1 The details of each preferred stock depend on the issue. 
+The term "stock" refers to ownership or equity in a firm. There are two types of equity—[common stock ](https://www.investopedia.com/terms/c/commonstock.asp) and preferred stock. Preferred stockholders have a higher claim to [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) or asset distribution than common stockholders.1 The details of each preferred stock depend on the issue. 
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The term "stock" refers to ownership or equity in a firm. There are two types of
 
 ## Understanding Preferred Stock
 
-Preferred shareholders have priority over common stockholders when it comes to dividends, which generally yield more than common stock and can be paid monthly or quarterly.1 These dividends can be fixed or set in terms of a benchmark interest rate like the [London InterBank Offered Rate](https://www.investopedia.com/terms/l/libor.asp) (LIBOR), and are often quoted as a percentage in the issuing description.
+Preferred shareholders have priority over common stockholders when it comes to dividends, which generally yield more than common stock and can be paid monthly or quarterly.1 These dividends can be fixed or set in terms of a benchmark interest rate like the [[London InterBank Offered Rate]](https://www.investopedia.com/terms/l/libor.asp) (LIBOR), and are often quoted as a percentage in the issuing description.
 
 Adjustable-rate shares specify certain factors that influence the dividend yield, and participating shares can pay additional dividends that are reckoned in terms of common stock dividends or the company's profits. The decision to pay the dividend is at the discretion of a company's board of directors.
 
@@ -51,7 +51,7 @@ Some preferred stock is convertible, meaning it can be exchanged for a given num
 
 ## Typical Buyers of Preferred Stock
 
-Preferred stock comes in a wide variety of forms and is generally purchased through [online stockbrokers](https://www.investopedia.com/best-online-brokers-4587872) by individual investors. The features described above are only the more common examples, and these are frequently combined in a number of ways. A company can issue preferred shares under almost any set of terms, assuming they don't fall foul of laws or regulations. Most preferred issues have no maturity dates or very distant ones.2
+Preferred stock comes in a wide variety of forms and is generally purchased through [[online stockbrokers]](https://www.investopedia.com/best-online-brokers-4587872) by individual investors. The features described above are only the more common examples, and these are frequently combined in a number of ways. A company can issue preferred shares under almost any set of terms, assuming they don't fall foul of laws or regulations. Most preferred issues have no maturity dates or very distant ones.2
 
 Institutions are usually the most common purchasers of preferred stock. This is due to certain tax advantages that are available to them which are not to individual investors.3 Because these institutions buy in bulk, preferred issues are a relatively simple way to raise large amounts of capital. Private or pre-public companies issue preferred stock for this reason.
 

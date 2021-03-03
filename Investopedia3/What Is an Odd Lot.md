@@ -20,7 +20,7 @@ An odd lot is an order amount for a security that is less than the normal unit o
 
 ## Understanding Odd Lots
 
-Odd lots may inadvertently arise in an investor's portfolio through [reverse splits](https://www.investopedia.com/terms/r/reversesplit.asp) or [dividend reinvestment plans](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp). For example, a one-for-eight reverse split of a security, of which the investor holds 200 shares, will result in a post-split amount of 25 shares. While trading commissions for odd lots may still be higher than for [standard lots](https://www.investopedia.com/terms/s/standard-lot.asp) on a percentage basis, the popularity of online trading platforms and the consequent plunge in brokerage commissions means that it is no longer as difficult or expensive for investors to dispose of odd lots as it used to be in the past. 
+Odd lots may inadvertently arise in an investor's portfolio through [[reverse splits]](https://www.investopedia.com/terms/r/reversesplit.asp) or [[dividend reinvestment plans]](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp). For example, a one-for-eight reverse split of a security, of which the investor holds 200 shares, will result in a post-split amount of 25 shares. While trading commissions for odd lots may still be higher than for [[standard lots]](https://www.investopedia.com/terms/s/standard-lot.asp) on a percentage basis, the popularity of online trading platforms and the consequent plunge in brokerage commissions means that it is no longer as difficult or expensive for investors to dispose of odd lots as it used to be in the past. 
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Odd lots may inadvertently arise in an investor's portfolio through [reverse spl
 
 ## Odd Lots, Round Lots, and Mixed Lots
 
-While odd lots can include any number of shares between one and 100, a [round lot](https://www.investopedia.com/terms/r/roundlot.asp) is any lot of shares that can be evenly divided by 100. For example, 75 shares would be an odd lot since it is below 100 shares, while 300 shares would be counted as a round lot since it can be evenly divided by 100.
+While odd lots can include any number of shares between one and 100, a [[round lot]](https://www.investopedia.com/terms/r/roundlot.asp) is any lot of shares that can be evenly divided by 100. For example, 75 shares would be an odd lot since it is below 100 shares, while 300 shares would be counted as a round lot since it can be evenly divided by 100.
 
 While round lots are posted on the associated exchange, odd lots are not posted as part of the bid/ask data. Further, the execution of odd-lot trades does not display on various data reporting sources. Due to the uncommon number of shares involved in the trade, odd-lot transactions often take longer to complete than those associated with round lots.
 

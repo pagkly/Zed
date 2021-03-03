@@ -16,7 +16,7 @@ author: Adam Hayes
 Leverage Ratio
 ## What Is a Leverage Ratio?
 
-A leverage ratio is any one of several financial measurements that look at how much [capital](https://www.investopedia.com/terms/c/capital.asp) comes in the form of [debt](https://www.investopedia.com/terms/d/debt.asp) (loans) or assesses the ability of a company to meet its financial obligations. The leverage ratio category is important because companies rely on a mixture of [equity](https://www.investopedia.com/terms/e/equity.asp) and debt to finance their operations, and knowing the amount of debt held by a company is useful in evaluating whether it can pay off its debts as they come due. Several common leverage ratios are discussed below.
+A leverage ratio is any one of several financial measurements that look at how much [[capital]](https://www.investopedia.com/terms/c/capital.asp) comes in the form of [[debt]](https://www.investopedia.com/terms/d/debt.asp) (loans) or assesses the ability of a company to meet its financial obligations. The leverage ratio category is important because companies rely on a mixture of [[equity]](https://www.investopedia.com/terms/e/equity.asp) and debt to finance their operations, and knowing the amount of debt held by a company is useful in evaluating whether it can pay off its debts as they come due. Several common leverage ratios are discussed below.
 
 -   A leverage ratio is any one of several financial measurements that assesses the ability of a company to meet its financial obligations.
 -   A leverage ratio may also be used to measure a company's mix of operating expenses to get an idea of how changes in output will affect operating income. 
@@ -29,7 +29,7 @@ A leverage ratio is any one of several financial measurements that look at how m
 
 Too much debt can be dangerous for a company and its investors. However, if a company's operations can generate a higher rate of return than the interest rate on its loans, then the debt may help to fuel growth. Uncontrolled debt levels can lead to credit downgrades or worse. On the other hand, too few debts can also raise questions. A reluctance or inability to borrow may be a sign that operating margins are tight.
 
-There are several different ratios that may be categorized as a leverage ratio, but the main factors considered are debt, equity, assets, and [interest expenses](https://www.investopedia.com/terms/i/interestexpense.asp).
+There are several different ratios that may be categorized as a leverage ratio, but the main factors considered are debt, equity, assets, and [[interest expenses]](https://www.investopedia.com/terms/i/interestexpense.asp).
 
 A leverage ratio may also be used to measure a company's mix of operating expenses to get an idea of how changes in output will affect operating income. Fixed and variable costs are the two types of operating costs; depending on the company and the industry, the mix will differ. 
 
@@ -45,7 +45,7 @@ Banking regulations for leverage ratios are complicated. The Federal Reserve cr
 
 There are several forms of capital requirements and minimum reserve placed on American banks through the FDIC and the Comptroller of the Currency that indirectly impacts leverage ratios. The level of scrutiny paid to leverage ratios has increased since the Great Recession of 2007 to 2009 when banks that were "[too big to fail](https://www.investopedia.com/terms/t/too-big-to-fail.asp)" were a calling card to make banks more solvent. These restrictions naturally limit the number of loans made because it is more difficult and more expensive for a bank to raise capital than it is to borrow funds. Higher capital requirements can reduce dividends or dilute share value if more shares are issued.
 
-For banks, the [tier 1 leverage ratio](https://www.investopedia.com/terms/t/tier-1-leverage-ratio.asp) is most commonly used by regulators.
+For banks, the [[tier 1 leverage ratio]](https://www.investopedia.com/terms/t/tier-1-leverage-ratio.asp) is most commonly used by regulators.
 
 ## Leverage Ratios for Evaluating Solvency and Capital Structure
 
@@ -77,7 +77,7 @@ Although debt is not specifically referenced in the formula, it is an underlying
 
 Remember that _Total Assets = Total Debt + Total shareholders' Equity_. The company's high ratio of 4.59 means that assets are mostly funded with debt than equity. From the equity multiplier calculation, Macy's assets are financed with $15.53 billion in liabilities.
 
-The equity multiplier is a component of the [DuPont analysis](https://www.investopedia.com/terms/d/dupontanalysis.asp) for calculating return on equity (ROE):       
+The equity multiplier is a component of the [[DuPont analysis]](https://www.investopedia.com/terms/d/dupontanalysis.asp) for calculating return on equity (ROE):       
 
 DuPont analysis\=NPM×AT×EMwhere:NPM\=net profit marginAT\=asset turnoverEM\=equity multiplier\\begin{aligned} &\\text{DuPont analysis} = NPM \\times AT \\times EM\\\\ &\\textbf{where:}\\\\ &NPM=\\text{net profit margin}\\\\ &AT=\\text{asset turnover}\\\\ &EM=\\text{equity multiplier}\\\\ \\end{aligned}
 
@@ -91,7 +91,7 @@ In this ratio, operating leases are capitalized and equity includes both common 
 
 ### Degree of Financial Leverage 
 
-[Degree of financial leverage](https://www.investopedia.com/terms/d/dfl.asp) (DFL) is a ratio that measures the sensitivity of a company’s [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) to fluctuations in its operating income, as a result of changes in its capital structure. It measures the percentage change in EPS for a unit change in [earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp) (EBIT) and is represented as:
+[Degree of financial leverage](https://www.investopedia.com/terms/d/dfl.asp) (DFL) is a ratio that measures the sensitivity of a company’s [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) (EPS) to fluctuations in its operating income, as a result of changes in its capital structure. It measures the percentage change in EPS for a unit change in [[earnings before interest and taxes]](https://www.investopedia.com/terms/e/ebit.asp) (EBIT) and is represented as:
 
 DFL\=% change in EPS% change in EBITwhere:EPS\=earnings per shareEBIT\=earnings before interest and taxes\\begin{aligned} &DFL = \\frac{\\% \\text{ change in }EPS}{\\% \\text{ change in }EBIT} \\\\ &\\textbf{where:}\\\\ &EPS=\\text{earnings per share}\\\\ &EBIT=\\text{earnings before interest and taxes}\\\\ \\end{aligned}
 
@@ -105,7 +105,7 @@ This ratio indicates that the higher the degree of financial leverage, the more 
 
 The consumer leverage ratio is used to quantify the amount of debt the average American consumer has relative to their [disposable income](https://www.investopedia.com/terms/d/disposableincome.asp).
 
-Some economists have stated that the rapid increase in consumer debt levels has been a contributing factor to corporate earnings growth over the past few decades. Others blamed the high level of consumer debt as a major cause of the [great recession](https://www.investopedia.com/terms/g/great-recession.asp).
+Some economists have stated that the rapid increase in consumer debt levels has been a contributing factor to corporate earnings growth over the past few decades. Others blamed the high level of consumer debt as a major cause of the [[great recession]](https://www.investopedia.com/terms/g/great-recession.asp).
 
 Consumer leverage ratio\=Total household debtDisposable personal income\\text{Consumer leverage ratio} = \\frac{\\text{Total household debt}}{\\text{Disposable personal income}}
 
@@ -123,18 +123,18 @@ The [debt-to-EBITDA](https://www.investopedia.com/terms/d/debt_edbitda.asp) le
 
 ### The Debt-To-EBITDAX Ratio
 
-Another variation of the debt-to-EBITDA ratio is the debt-to-EBITDAX ratio, which is similar, except EBITDAX is EBITDA before exploration costs for [successful efforts](https://www.investopedia.com/articles/fundamental-analysis/08/oil-gas.asp) companies. This ratio is commonly used in the United States to normalize different accounting treatments for exploration expenses (the full cost method versus the successful efforts method).
+Another variation of the debt-to-EBITDA ratio is the debt-to-EBITDAX ratio, which is similar, except EBITDAX is EBITDA before exploration costs for [[successful efforts]](https://www.investopedia.com/articles/fundamental-analysis/08/oil-gas.asp) companies. This ratio is commonly used in the United States to normalize different accounting treatments for exploration expenses (the full cost method versus the successful efforts method).
 
 Exploration costs are typically found in the financial statements as exploration, abandonment, and dry hole costs. Other noncash expenses that should be added back in are impairments, accretion of asset retirement obligations, and deferred taxes.
 
 ### The Interest Coverage Ratio
 
-Another leverage ratio concerned with interest payments is the [interest coverage ratio](https://www.investopedia.com/terms/i/interestcoverageratio.asp). One problem with only reviewing the total debt liabilities for a company is they do not tell you anything about the company's ability to service the debt. This is exactly what the interest coverage ratio aims to fix.
+Another leverage ratio concerned with interest payments is the [[interest coverage ratio]](https://www.investopedia.com/terms/i/interestcoverageratio.asp). One problem with only reviewing the total debt liabilities for a company is they do not tell you anything about the company's ability to service the debt. This is exactly what the interest coverage ratio aims to fix.
 
 This ratio, which equals operating income divided by interest expenses, showcases the company's ability to make interest payments. Generally, a ratio of 3.0 or higher is desirable, although this varies from industry to industry.
 
 ### The Fixed-Charge Coverage Ratio
 
-Times interest earned (TIE), also known as a [fixed-charge coverage ratio](https://www.investopedia.com/terms/c/coverageratio.asp), is a variation of the interest coverage ratio. This leverage ratio attempts to highlight cash flow relative to interest owed on long-term liabilities.
+Times interest earned (TIE), also known as a [[fixed-charge coverage ratio]](https://www.investopedia.com/terms/c/coverageratio.asp), is a variation of the interest coverage ratio. This leverage ratio attempts to highlight cash flow relative to interest owed on long-term liabilities.
 
 To calculate this ratio, find the company's [earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp) (EBIT), then divide by the interest expense of long-term debts. Use pre-tax earnings because interest is tax-deductible; the full amount of earnings can eventually be used to pay interest. Again, higher numbers are more favorable.

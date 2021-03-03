@@ -41,7 +41,7 @@ Many REITs are publicly traded on major securities exchanges, and investors can 
 
 Most REITs have a straightforward business model: The REIT leases space and collects rents on the properties, then distributes that income as dividends to shareholders. Mortgage REITs don't own real estate, but finance real estate, instead. These REITs earn income from the interest on their investments.
 
-To [qualify as a REIT](https://www.irs.gov/instructions/i1120rei#idm139967521591968), a company must comply with certain provisions in the Internal Revenue Code (IRC). These requirements include to primarily own income-generating real estate for the long term and distribute income to shareholders. Specifically, a company must meet the following requirements to qualify as a REIT:
+To [[qualify as a REIT]](https://www.irs.gov/instructions/i1120rei#idm139967521591968), a company must comply with certain provisions in the Internal Revenue Code (IRC). These requirements include to primarily own income-generating real estate for the long term and distribute income to shareholders. Specifically, a company must meet the following requirements to qualify as a REIT:
 
 -   Invest at least 75% of total assets in real estate, cash, or U.S. Treasuries
 -   Derive at least 75% of gross income from rents, interest on mortgages that finance real property, or real estate sales
@@ -58,7 +58,7 @@ Today, it's estimated that REITs collectively own about $3 trillion in gross ass
 There are three types of REITs:
 
 -   **Equity REITs.** Most REITs are equity REITs, which own and manage income-producing real estate. Revenues are generated primarily through rents (not by reselling properties).
--   **Mortgage REITs.** Mortgage REITs lend money to real estate owners and operators either directly through mortgages and loans, or indirectly through the acquisition of [mortgage-backed securities](https://www.investopedia.com/terms/a/aggregator.asp). Their earnings are generated primarily by the [net interest margin](https://www.investopedia.com/terms/n/netinterestmargin.asp)—the spread between the interest they earn on mortgage loans and the cost of funding these loans. This model makes them potentially sensitive to interest rate increases.
+-   **Mortgage REITs.** Mortgage REITs lend money to real estate owners and operators either directly through mortgages and loans, or indirectly through the acquisition of [[mortgage-backed securities]](https://www.investopedia.com/terms/a/aggregator.asp). Their earnings are generated primarily by the [net interest margin](https://www.investopedia.com/terms/n/netinterestmargin.asp)—the spread between the interest they earn on mortgage loans and the cost of funding these loans. This model makes them potentially sensitive to interest rate increases.
 -   **Hybrid REITs.** These REITs use the investment strategies of both equity and mortgage REITs.3 
 
 **Type of REIT**
@@ -97,15 +97,15 @@ REITs can be further classified based on how their shares are bought and held:
 
 ## How to Invest in REITs
 
-You can invest in publicly traded REITs—as well as [REIT mutual funds](https://www.investopedia.com/articles/investing/040315/reits-versus-real-estate-mutual-funds.asp) and REIT exchange-traded funds (ETFs)—by purchasing shares through a broker. You can buy shares of a non-traded REIT through a broker or financial advisor who participates in the non-traded REIT’s offering.
+You can invest in publicly traded REITs—as well as [[REIT mutual funds]](https://www.investopedia.com/articles/investing/040315/reits-versus-real-estate-mutual-funds.asp) and REIT exchange-traded funds (ETFs)—by purchasing shares through a broker. You can buy shares of a non-traded REIT through a broker or financial advisor who participates in the non-traded REIT’s offering.
 
-REITs are also included in a growing number of [defined-benefit](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) and [defined-contribution](https://www.investopedia.com/terms/d/definedcontributionplan.asp) investment plans. An estimated 87 million U.S. investors own REITs through their retirement savings and other investment funds, according to [Nareit](https://www.reit.com/), a Washington, D.C.-based REIT research firm.4
+REITs are also included in a growing number of [[defined-benefit]](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) and [[defined-contribution]](https://www.investopedia.com/terms/d/definedcontributionplan.asp) investment plans. An estimated 87 million U.S. investors own REITs through their retirement savings and other investment funds, according to [[Nareit]](https://www.reit.com/), a Washington, D.C.-based REIT research firm.4
 
 REIT activities resulted in the distribution of $69 billion in dividend income in 2019 (the most recent data available).4
 
 There are more than 225 publicly-traded REITs in the U.S., which means you’ll have some homework to do before you decide which REIT to buy.5 Be sure to consider the REIT’s management team and track record—and find out how they’re compensated. If it's performance-based compensation, odds are they’ll be working hard to pick the right investments and choose the best strategies.
 
-Of course, it’s also a good idea to look at the numbers, such as anticipated growth in earnings per share and current dividend yields. A particularly helpful metric is the REIT’s [funds from operations (FFO)](https://www.investopedia.com/terms/f/fundsfromoperation.asp), which is calculated by adding depreciation and amortization to earnings, and then subtracting any gains on sales. 
+Of course, it’s also a good idea to look at the numbers, such as anticipated growth in earnings per share and current dividend yields. A particularly helpful metric is the REIT’s [[funds from operations (FFO)]](https://www.investopedia.com/terms/f/fundsfromoperation.asp), which is calculated by adding depreciation and amortization to earnings, and then subtracting any gains on sales. 
 
 ## Pros and Cons of Investing in REITs
 
@@ -141,9 +141,9 @@ Cons
 
 ## REIT Fraud
 
-The Securities and Exchange Commission (SEC) recommends that investors should be wary of anyone who tries to sell REITs that aren't registered with the SEC. It advises that "You can verify the registration of both publicly traded and non-traded REITs through the [SEC's EDGAR system](https://www.sec.gov/edgar/search-and-access). You can also use EDGAR to review a REIT's annual and quarterly reports as well as any offering prospectus."2
+The Securities and Exchange Commission (SEC) recommends that investors should be wary of anyone who tries to sell REITs that aren't registered with the SEC. It advises that "You can verify the registration of both publicly traded and non-traded REITs through the [[SEC's EDGAR system]](https://www.sec.gov/edgar/search-and-access). You can also use EDGAR to review a REIT's annual and quarterly reports as well as any offering prospectus."2
 
-It's also a good idea to check out the broker or investment advisor who recommends the REIT. The SEC has a [free search tool](https://www.investor.gov/) that allows you to look up if an investment professional is licensed and registered.
+It's also a good idea to check out the broker or investment advisor who recommends the REIT. The SEC has a [[free search tool]](https://www.investor.gov/) that allows you to look up if an investment professional is licensed and registered.
 
 ## Real World Example of a REIT
 

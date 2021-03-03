@@ -16,7 +16,7 @@ author: Julia Kagan
 Estate
 ## What Is an Estate?
 
-An estate is everything comprising the [net worth](https://www.investopedia.com/terms/n/networth.asp) of an individual, including all land and real estate, possessions, financial securities, cash, and other [assets](https://www.investopedia.com/terms/a/asset.asp) that the individual owns or has a controlling interest in.
+An estate is everything comprising the [[net worth]](https://www.investopedia.com/terms/n/networth.asp) of an individual, including all land and real estate, possessions, financial securities, cash, and other [[assets]](https://www.investopedia.com/terms/a/asset.asp) that the individual owns or has a controlling interest in.
 
 ### Key Takeaways
 
@@ -27,21 +27,21 @@ An estate is everything comprising the [net worth](https://www.investopedia.com
 
 ## Understanding Estates
 
-The word _estate_ is colloquially used to refer to all of the [land and improvements on a vast property](https://www.investopedia.com/financial-edge/1012/3-of-the-most-lucrative-land-deals-in-history.aspx), often some farm or homestead, or the historic home of a prominent family. However, in the financial and legal sense of the term, an estate refers to everything of value that an individual owns—[real estate](https://www.investopedia.com/terms/r/realestate.asp), art collections, antique items, investments, insurance, and any other assets and entitlements—and is also used as an overarching way to refer to a person's net worth. Legally, a person's estate refers to an individual's total assets, minus any liabilities.
+The word _estate_ is colloquially used to refer to all of the [[land and improvements on a vast property]](https://www.investopedia.com/financial-edge/1012/3-of-the-most-lucrative-land-deals-in-history.aspx), often some farm or homestead, or the historic home of a prominent family. However, in the financial and legal sense of the term, an estate refers to everything of value that an individual owns—[real estate](https://www.investopedia.com/terms/r/realestate.asp), art collections, antique items, investments, insurance, and any other assets and entitlements—and is also used as an overarching way to refer to a person's net worth. Legally, a person's estate refers to an individual's total assets, minus any liabilities.
 
 The value of a personal estate is of particular relevance in two cases: if the individual declares bankruptcy, and if the individual dies. When an individual debtor declares bankruptcy, their estate is assessed to determine which of their debts they can be reasonably expected to pay. Bankruptcy proceedings involve the same rigorous legal assessment of an estate that also occurs upon an individual's death.
 
-Estates are most relevant upon the death of an individual. [Estate planning](https://www.investopedia.com/terms/e/estateplanning.asp) is the act of managing the division and inheritance of your personal estate, and arguably represents the most important financial planning of an individual's life. Generally, an individual draws up a [will](https://www.investopedia.com/best-online-will-makers-4843732) which explains the testator's intentions for the distribution of their estate upon their death. A person who receives assets through inheritance is called a [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp). 
+Estates are most relevant upon the death of an individual. [Estate planning](https://www.investopedia.com/terms/e/estateplanning.asp) is the act of managing the division and inheritance of your personal estate, and arguably represents the most important financial planning of an individual's life. Generally, an individual draws up a [[will]](https://www.investopedia.com/best-online-will-makers-4843732) which explains the testator's intentions for the distribution of their estate upon their death. A person who receives assets through inheritance is called a [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp). 
 
 ## How Estates Are Managed
 
 In almost all cases, estates are divided among members of the deceased's family. This passage of wealth from one generation of a family to the next has a tendency to entrench income in certain social classes or families. Inheritance accounts for a massive proportion of total wealth in the United States and around the world and is in part responsible for persistent income inequality (though there are, of course, many other factors).
 
-Partially as a response to the stagnation of wealth movement as a result of inheritance, most governments require those in line for an inheritance to pay an [inheritance tax](https://www.investopedia.com/terms/i/inheritancetax.asp) (estate tax) on the estate. This tax can be very large, sometimes requiring the beneficiary to sell some of the inherited assets to pay the tax bill.
+Partially as a response to the stagnation of wealth movement as a result of inheritance, most governments require those in line for an inheritance to pay an [[inheritance tax]](https://www.investopedia.com/terms/i/inheritancetax.asp) (estate tax) on the estate. This tax can be very large, sometimes requiring the beneficiary to sell some of the inherited assets to pay the tax bill.
 
 In the U.S., if the majority of an estate is left to a spouse or a charity, the estate tax is generally lifted.
 
-It is generally advisable for both the individual drafting the will and the beneficiaries of an estate to employ the services of estate attorneys. Inheritance taxes are notorious for their complexity and exorbitance, and the use of an attorney helps ensure that your inheritance taxes are paid correctly. On the drafting end, several measures can be taken to minimize the amount of tax one's beneficiaries will have to pay—for example, setting up [trusts](https://www.investopedia.com/terms/t/trust.asp).
+It is generally advisable for both the individual drafting the will and the beneficiaries of an estate to employ the services of estate attorneys. Inheritance taxes are notorious for their complexity and exorbitance, and the use of an attorney helps ensure that your inheritance taxes are paid correctly. On the drafting end, several measures can be taken to minimize the amount of tax one's beneficiaries will have to pay—for example, setting up [[trusts]](https://www.investopedia.com/terms/t/trust.asp).
 
 ## Writing a Will
 

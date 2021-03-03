@@ -16,7 +16,7 @@ author: Chris B. Murphy
 How a Premium Bond Works and Why They Cost More
 ## What Is a Premium Bond?
 
-A premium bond is a bond trading above its face value or in other words; it costs more than the face amount on the bond. A bond might trade at a [premium](https://www.investopedia.com/terms/a/at-a-premium.asp) because its interest rate is higher than current rates in the market.
+A premium bond is a bond trading above its face value or in other words; it costs more than the face amount on the bond. A bond might trade at a [[premium]](https://www.investopedia.com/terms/a/at-a-premium.asp) because its interest rate is higher than current rates in the market.
 
 ## Premium Bonds Explained
 
@@ -45,15 +45,15 @@ So, when interest rates fall, bond prices rise as investors rush to buy older hi
 
 Conversely, as interest rates rise, new bonds coming on the market are issued at the new, higher rates pushing those bond yields up.
 
-Also, as rates rise, investors demand a higher yield from the bonds they consider buying. If they expect rates to continue to rise in the future they don't want a fixed-rate bond at current yields. As a result, the secondary market price of older, lower-yielding bonds fall. So, those bonds sell at a [discount](https://www.investopedia.com/terms/d/discountbond.asp).
+Also, as rates rise, investors demand a higher yield from the bonds they consider buying. If they expect rates to continue to rise in the future they don't want a fixed-rate bond at current yields. As a result, the secondary market price of older, lower-yielding bonds fall. So, those bonds sell at a [[discount]](https://www.investopedia.com/terms/d/discountbond.asp).
 
 ## Bond Premiums and Credit Ratings
 
-The company's credit rating and ultimately the bond's credit rating also impacts the price of a bond and its offered coupon rate. A [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) is an assessment of the creditworthiness of a borrower in general terms or with respect to a particular debt or financial obligation. 
+The company's credit rating and ultimately the bond's credit rating also impacts the price of a bond and its offered coupon rate. A [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) is an assessment of the creditworthiness of a borrower in general terms or with respect to a particular debt or financial obligation. 
 
 If a company is performing well, its bonds will usually attract buying interest from investors. In the process, the bond's price rises as investors are willing to pay more for the creditworthy bond from the financially viable issuer. Bonds issued by well-run companies with excellent credit ratings usually sell at a premium to their face values. Since many bond investors are risk-averse, the credit rating of a bond is an important metric.
 
-[Credit-rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp) measure the creditworthiness of corporate and government bonds to provide investors with an overview of the [risks](https://www.investopedia.com/terms/i/interestraterisk.asp) involved in investing in bonds. Credit rating agencies typically assign letter grades to indicate ratings. Standard & Poor’s, for instance, has a credit rating scale ranging from AAA (excellent) to C and D. A debt instrument with a rating below BB is considered to be a speculative grade or a junk bond, which means it is more likely to default on loans.
+[Credit-rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp) measure the creditworthiness of corporate and government bonds to provide investors with an overview of the [[risks]](https://www.investopedia.com/terms/i/interestraterisk.asp) involved in investing in bonds. Credit rating agencies typically assign letter grades to indicate ratings. Standard & Poor’s, for instance, has a credit rating scale ranging from AAA (excellent) to C and D. A debt instrument with a rating below BB is considered to be a speculative grade or a junk bond, which means it is more likely to default on loans.
 
 ## Effective Yield on Premium Bonds
 

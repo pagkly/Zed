@@ -30,11 +30,11 @@ Gaps typically occur when a piece of news or an event causes a flood of buyers o
 
 [Gapping](https://www.investopedia.com/terms/g/gapping.asp) occurs when the price of a security or asset opens well above or below the previous day’s [close](https://www.investopedia.com/terms/c/closingprice.asp) with no trading activity in between. Partial gapping occurs when the [opening price](https://www.investopedia.com/terms/o/openingprice.asp) is higher or lower than the previous day’s close but within the previous day’s price range. Full gapping occurs when the open is outside of the previous day’s range. Gapping, especially a full gap, shows a strong shift in sentiment occurred overnight.
 
-Some traders make it a strategy to profit from [playing the gap](https://www.investopedia.com/articles/trading/05/playinggaps.asp) when such a situation occurs.
+Some traders make it a strategy to profit from [[playing the gap]](https://www.investopedia.com/articles/trading/05/playinggaps.asp) when such a situation occurs.
 
 ## The Difference Between Different Types of Gaps
 
-There are some fundamental differences between the different types of gaps: – [Common Gaps](https://www.investopedia.com/terms/c/commongap.asp), [Breakaway Gaps](https://www.investopedia.com/terms/b/breakawaygap.asp), [Runaway Gaps](https://www.investopedia.com/terms/r/runawaygap.asp), and [Exhaustion Gaps](https://www.investopedia.com/terms/e/exhaustiongap.asp).
+There are some fundamental differences between the different types of gaps: – [[Common Gaps]](https://www.investopedia.com/terms/c/commongap.asp), [[Breakaway Gaps]](https://www.investopedia.com/terms/b/breakawaygap.asp), [[Runaway Gaps]](https://www.investopedia.com/terms/r/runawaygap.asp), and [[Exhaustion Gaps]](https://www.investopedia.com/terms/e/exhaustiongap.asp).
 
 -   In general, there is no major event that precedes this type of gap. Common gaps generally get filled relatively quickly (usually within a couple of days) when compared to other types of gaps. Common gaps are also known as "area gaps" or "trading gaps" and tend to be accompanied by normal average trading volume.
 -   A breakaway gap occurs when the price gaps above a [support or resistance](https://www.investopedia.com/trading/support-and-resistance-basics/) area, like those established during a [trading range](https://www.investopedia.com/terms/t/tradingrange.asp). When the price breaks out of a well-established trading range via a gap, that is a breakaway gap. A breakaway gap could also occur out of another type of chart pattern, such as a triangle, [wedge](https://www.investopedia.com/terms/w/wedge.asp), cup and handle, [rounded bottom](https://www.investopedia.com/terms/r/roundingbottom.asp) or top, or head and shoulders pattern.

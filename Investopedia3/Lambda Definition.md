@@ -32,11 +32,11 @@ The full equation of lambda is as follows:
 
 Lambda Full Equation.
 
-The simplified lambda calculation reduces to the value of [delta](https://www.investopedia.com/terms/d/delta.asp) multiplied by the ratio of the stock price divided by the option price. Delta is one of the standard Greeks and represents the amount an option price is expected to change if the underlying asset changes by one dollar in price.
+The simplified lambda calculation reduces to the value of [[delta]](https://www.investopedia.com/terms/d/delta.asp) multiplied by the ratio of the stock price divided by the option price. Delta is one of the standard Greeks and represents the amount an option price is expected to change if the underlying asset changes by one dollar in price.
 
 ## Lambda in Action
 
-Assuming a share of stock trades at $100 and the [at-the-money call option](https://www.investopedia.com/articles/optioninvestor/08/option-moneyness.asp) with a strike price of $100 trades for $2.10, and also assuming that the delta score is 0.58, then the lambda value can be calculated with this equation:
+Assuming a share of stock trades at $100 and the [[at-the-money call option]](https://www.investopedia.com/articles/optioninvestor/08/option-moneyness.asp) with a strike price of $100 trades for $2.10, and also assuming that the delta score is 0.58, then the lambda value can be calculated with this equation:
 
 **Lambda = 0.58 x (100 / 2.10) = 27.62**
 
@@ -46,6 +46,6 @@ Consider what happens to a $1,000 stake in this $100 stock. The trader holds 10 
 
 ## Lambda and Volatility
 
-Academic papers have, in some cases, equated lambda and [vega](https://www.investopedia.com/terms/v/vega.asp). The confusion created by this would suggest that the calculations of their formulae are the same, but that is incorrect. However, because the influence of implied [volatility](https://www.investopedia.com/terms/v/volatility.asp) on option prices is measured by vega, and because this influence is captured in changing delta values, lambda and vega often point to the same or similar outcomes in price changes.
+Academic papers have, in some cases, equated lambda and [[vega]](https://www.investopedia.com/terms/v/vega.asp). The confusion created by this would suggest that the calculations of their formulae are the same, but that is incorrect. However, because the influence of implied [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) on option prices is measured by vega, and because this influence is captured in changing delta values, lambda and vega often point to the same or similar outcomes in price changes.
 
-For example, lambda's value is higher the further away an option's [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp) is and falls as the expiration date approaches. This observation is also true for vega. Lambda changes when there are large price movements, or increased volatility, in the underlying asset, because this value is captured in the price of the options. If the price of an option moves higher as volatility rises, then its lambda value will decrease because the greater expense of the options means a decreased amount of leverage.
+For example, lambda's value is higher the further away an option's [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp) is and falls as the expiration date approaches. This observation is also true for vega. Lambda changes when there are large price movements, or increased volatility, in the underlying asset, because this value is captured in the price of the options. If the price of an option moves higher as volatility rises, then its lambda value will decrease because the greater expense of the options means a decreased amount of leverage.

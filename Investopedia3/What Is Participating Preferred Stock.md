@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Participating Preferred Stock?
 ## What Is Participating Preferred Stock?
 
-Participating preferred stock is a type of [preferred stock](https://www.investopedia.com/terms/p/preferredstock.asp) that gives the holder the right to receive dividends equal to the customarily specified rate that [preferred dividends](https://www.investopedia.com/terms/p/preferreddividend.asp) are paid to preferred shareholders, as well as an additional [dividend](https://www.investopedia.com/terms/d/dividend.asp) based on some predetermined condition. Participating preferred stock can also have liquidation preferences upon a liquidation event.
+Participating preferred stock is a type of [[preferred stock]](https://www.investopedia.com/terms/p/preferredstock.asp) that gives the holder the right to receive dividends equal to the customarily specified rate that [[preferred dividends]](https://www.investopedia.com/terms/p/preferreddividend.asp) are paid to preferred shareholders, as well as an additional [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) based on some predetermined condition. Participating preferred stock can also have liquidation preferences upon a liquidation event.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ Participating preferred stock is a type of [preferred stock](https://www.investo
 
 ## Participating Preferred Stock
 
-Participating preferred stock—like other forms of preferred stock—takes precedence in a firm's capital structure over common stock but ranks below debt in liquidation events. The additional dividend paid to [preferred shareholders](https://www.investopedia.com/video/play/preference-shares/) is commonly structured to be paid only if the amount of dividends that [common shareholders](https://www.investopedia.com/terms/c/common_shareholder.asp) receive exceeds a specified per-share amount.
+Participating preferred stock—like other forms of preferred stock—takes precedence in a firm's capital structure over common stock but ranks below debt in liquidation events. The additional dividend paid to [[preferred shareholders]](https://www.investopedia.com/video/play/preference-shares/) is commonly structured to be paid only if the amount of dividends that [[common shareholders]](https://www.investopedia.com/terms/c/common_shareholder.asp) receive exceeds a specified per-share amount.
 
-Furthermore, in the event of [liquidation](https://www.investopedia.com/terms/l/liquidation.asp), participating preferred shareholders can also have the right to receive the stock's purchasing price back as well [as a pro-rata share](https://www.investopedia.com/video/play/prorata/) of any remaining proceeds that the common shareholders receive.
+Furthermore, in the event of [[liquidation]](https://www.investopedia.com/terms/l/liquidation.asp), participating preferred shareholders can also have the right to receive the stock's purchasing price back as well [[as a pro-rata share]](https://www.investopedia.com/video/play/prorata/) of any remaining proceeds that the common shareholders receive.
 
 When there is a liquidation event, whether an investor's preferred stock is participating or nonparticipating will determine if that investor receives additional consideration over the liquidation value of the preferred stock and any dividends owed to the investor. If an investor's preferred stock is participating, that investor is entitled to any value leftover post-liquidation as if that stock had been common stock. Nonparticipating preferred shareholders, on the other hand, receive their liquidation value and any dividends in arrears if applicable, but they are not entitled to any other consideration.
 
-Participating preferred stock is rarely issued, but one way in which it is used is as a [poison pill](https://www.investopedia.com/terms/p/poisonpill.asp). In this case, current shareholders are issued stock that gives them the right to new common shares at a bargain price in the event of an unwanted takeover bid.
+Participating preferred stock is rarely issued, but one way in which it is used is as a [[poison pill]](https://www.investopedia.com/terms/p/poisonpill.asp). In this case, current shareholders are issued stock that gives them the right to new common shares at a bargain price in the event of an unwanted takeover bid.
 
 ## Example of Participating Preferred Stock
 

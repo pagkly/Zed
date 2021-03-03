@@ -30,7 +30,7 @@ To illustrate an example of a gross margin calculation, imagine that a business 
 
 The gross margin represents the portion of each dollar of revenue that the company retains as gross profit. For example, if a company's recent quarterly gross margin is 35%, that means it retains $0.35 from each dollar of revenue generated. Because COGS have already been taken into account, those remaining funds may consequently be channeled toward paying debts, general and administrative expenses, interest fees, and dividend distributions to shareholders.
 
-Companies use gross margin to measure how their production costs relate to their revenues. For example, if a company's gross margin is falling, it may strive to slash labor costs or source cheaper suppliers of materials. Alternatively, it may decide to increase prices, as a revenue increasing measure. Gross profit margins can also be used to [measure company efficiency](https://www.investopedia.com/investing/measuring-company-efficiency/) or to compare two companies of different market capitalizations. 
+Companies use gross margin to measure how their production costs relate to their revenues. For example, if a company's gross margin is falling, it may strive to slash labor costs or source cheaper suppliers of materials. Alternatively, it may decide to increase prices, as a revenue increasing measure. Gross profit margins can also be used to [[measure company efficiency]](https://www.investopedia.com/investing/measuring-company-efficiency/) or to compare two companies of different market capitalizations. 
 
 ### Key Takeaways
 
@@ -44,4 +44,4 @@ While gross margin focuses solely on the relationship between revenue and COGS, 
 
 Gross margin--also called "gross profit margin", helps a company assess the profitability of its manufacturing activities, while net profit margin helps the company assess its overall profitability.
 
-For related insight, read more about [corporate profit margins](https://www.investopedia.com/articles/fundamental/04/042804.asp).
+For related insight, read more about [[corporate profit margins]](https://www.investopedia.com/articles/fundamental/04/042804.asp).

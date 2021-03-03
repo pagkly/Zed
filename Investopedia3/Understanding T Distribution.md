@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding T Distribution
 ## What Is a T Distribution?
 
-The T distribution, also known as the Student’s t-distribution, is a type of [probability distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that is similar to the normal distribution with its bell shape but has heavier tails. T distributions have a greater chance for extreme values than normal distributions, hence the fatter tails.
+The T distribution, also known as the Student’s t-distribution, is a type of [[probability distribution]](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that is similar to the normal distribution with its bell shape but has heavier tails. T distributions have a greater chance for extreme values than normal distributions, hence the fatter tails.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The T distribution, also known as the Student’s t-distribution, is a type of [
 
 ## What Does a T Distribution Tell You? 
 
-Tail heaviness is determined by a parameter of the T distribution called [degrees of freedom](https://www.investopedia.com/terms/d/degrees-of-freedom.asp), with smaller values giving heavier tails, and with higher values making the T distribution resemble a standard normal distribution with a mean of 0, and a standard deviation of 1. The T distribution is also known as "Student's T Distribution."
+Tail heaviness is determined by a parameter of the T distribution called [[degrees of freedom]](https://www.investopedia.com/terms/d/degrees-of-freedom.asp), with smaller values giving heavier tails, and with higher values making the T distribution resemble a standard normal distribution with a mean of 0, and a standard deviation of 1. The T distribution is also known as "Student's T Distribution."
 
 Image by Sabrina Jiang © Investopedia 2020
 

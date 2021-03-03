@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 Choose Well: The Risks of Establishing General Partnerships
 ## What Is a General Partnership?
 
-A general partnership is a business arrangement by which two or more individuals agree to share in all assets, profits, and financial and legal liabilities of a jointly-owned business. In a general partnership, partners agree to [unlimited liability](https://www.investopedia.com/terms/u/unlimited-liability.asp), meaning liabilities are not capped and can be paid through the seizure of an owner's assets. Furthermore, any partner may be sued for the business's debts.
+A general partnership is a business arrangement by which two or more individuals agree to share in all assets, profits, and financial and legal liabilities of a jointly-owned business. In a general partnership, partners agree to [[unlimited liability]](https://www.investopedia.com/terms/u/unlimited-liability.asp), meaning liabilities are not capped and can be paid through the seizure of an owner's assets. Furthermore, any partner may be sued for the business's debts.
 
 Each is responsible for their personal tax liabilities—including partnership earnings—on their income tax returns as taxes do not flow through the general partnership.
 
@@ -28,7 +28,7 @@ A general partnership must satisfy the following conditions:
 
 -   The partnership must minimally include two people.
 -   All partners must agree to any liability that their partnership may incur.
--   The partnership should ideally be memorialized in a formal written [partnership agreement](https://www.investopedia.com/terms/a/articles-of-partnership.asp), though oral agreements are valid.
+-   The partnership should ideally be memorialized in a formal written [[partnership agreement]](https://www.investopedia.com/terms/a/articles-of-partnership.asp), though oral agreements are valid.
 
 ### Key Takeaways
 
@@ -47,4 +47,4 @@ General partnerships typically dissolve when one partner dies, becomes disabled,
 
 ## Benefits of General Partnership
 
-The cost of creating a general partnership is less expensive than setting up a corporation or a limited liability partnership like an [LLC](https://www.investopedia.com/terms/l/llc.asp). General partnerships likewise involve substantially less paperwork. Case in point: In the United States, filing limited partnership paperwork with a state is generally not required, though certain registration forms, permits, and licenses may be necessary at the local level.
+The cost of creating a general partnership is less expensive than setting up a corporation or a limited liability partnership like an [[LLC]](https://www.investopedia.com/terms/l/llc.asp). General partnerships likewise involve substantially less paperwork. Case in point: In the United States, filing limited partnership paperwork with a state is generally not required, though certain registration forms, permits, and licenses may be necessary at the local level.

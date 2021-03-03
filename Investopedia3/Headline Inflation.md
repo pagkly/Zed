@@ -16,17 +16,17 @@ author: Will Kenton
 Headline Inflation
 ## What Is Headline Inflation?
 
-Headline inflation is the raw inflation figure reported through the [Consumer Price Index](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) that is released monthly by the Bureau of Labor Statistics. The CPI calculates the cost to purchase a fixed basket of goods, as a way of determining how much inflation is occurring in the broad economy. The CPI uses a base year and indexes the current year's prices according to the base year's values.
+Headline inflation is the raw inflation figure reported through the [[Consumer Price Index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) that is released monthly by the Bureau of Labor Statistics. The CPI calculates the cost to purchase a fixed basket of goods, as a way of determining how much inflation is occurring in the broad economy. The CPI uses a base year and indexes the current year's prices according to the base year's values.
 
 ## Headline Inflation Explained
 
-As it includes all aspects within an economy that experience inflation, headline inflation is not adjusted to remove highly volatile figures, including those that can shift regardless of economic conditions. Headline inflation is often closely related to shifts in the [cost of living](https://www.investopedia.com/terms/c/cost-of-living.asp), which provides useful information to consumers within the marketplace.
+As it includes all aspects within an economy that experience inflation, headline inflation is not adjusted to remove highly volatile figures, including those that can shift regardless of economic conditions. Headline inflation is often closely related to shifts in the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp), which provides useful information to consumers within the marketplace.
 
-The headline figure is not adjusted for [seasonality](https://www.investopedia.com/terms/s/seasonality.asp) or for the often-volatile elements of food and energy prices, which are removed in the core Consumer Price Index (CPI). Headline inflation is usually quoted on an annualized basis, meaning that a monthly headline figure of 4% inflation equates to a monthly rate that, if repeated for 12 months, would create 4% inflation for the year. Comparisons of headline inflation are typically made on a year-over-year basis, also known as top-line inflation.
+The headline figure is not adjusted for [[seasonality]](https://www.investopedia.com/terms/s/seasonality.asp) or for the often-volatile elements of food and energy prices, which are removed in the core Consumer Price Index (CPI). Headline inflation is usually quoted on an annualized basis, meaning that a monthly headline figure of 4% inflation equates to a monthly rate that, if repeated for 12 months, would create 4% inflation for the year. Comparisons of headline inflation are typically made on a year-over-year basis, also known as top-line inflation.
 
 ## Negatives of Rising Inflation
 
-Inflation is a threat to long-term investors because it erodes the value of future dollars, can stifle economic growth, and can cause a rise in prevailing interest rates. While headline inflation tends to get the most attention in the media, core inflation is often considered the more valuable metric to follow. Both headline and core results are followed closely by investors, and are also used by economists and central banking figures to set economic growth forecasts and [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp).
+Inflation is a threat to long-term investors because it erodes the value of future dollars, can stifle economic growth, and can cause a rise in prevailing interest rates. While headline inflation tends to get the most attention in the media, core inflation is often considered the more valuable metric to follow. Both headline and core results are followed closely by investors, and are also used by economists and central banking figures to set economic growth forecasts and [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp).
 
 ## Core Inflation
 

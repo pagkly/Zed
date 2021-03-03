@@ -16,11 +16,11 @@ author: Rajeev Dhir
 How the Quality Spread Differential Is Used
 ## What Is the Quality Spread Differential?
 
-The quality spread differential (QSD) is used to calculate the difference between market [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) that the two parties potentially entering into an interest rate swap are able to achieve. QSD is a measurement that companies can use to gauge interest rate swap counter-party default risk.
+The quality spread differential (QSD) is used to calculate the difference between market [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp) that the two parties potentially entering into an interest rate swap are able to achieve. QSD is a measurement that companies can use to gauge interest rate swap counter-party default risk.
 
 ## The Basics of the Quality Spread Differential
 
-A quality spread differential is a measure used in interest rate [swap](https://www.investopedia.com/terms/s/swap.asp) analysis. This tool is used by companies of different creditworthiness. They use a quality spread differential to gauge [default risk](https://www.investopedia.com/terms/d/defaultrisk.asp). When the QSD is positive, the swap is considered to benefit both parties involved.
+A quality spread differential is a measure used in interest rate [[swap]](https://www.investopedia.com/terms/s/swap.asp) analysis. This tool is used by companies of different creditworthiness. They use a quality spread differential to gauge [[default risk]](https://www.investopedia.com/terms/d/defaultrisk.asp). When the QSD is positive, the swap is considered to benefit both parties involved.
 
 The quality spread differential is the difference between the two quality spreads. It can be calculated as follows:
 
@@ -32,15 +32,15 @@ Bond investors can use the quality spread to decide whether higher yields are wo
 
 ## Interest Rate Swaps
 
-[Interest rate swaps](https://www.investopedia.com/terms/i/interestrateswap.asp) trade on institutional market exchanges or through direct agreements between counter-parties. They allow one entity to swap their [credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) with another using different types of credit instruments.
+[Interest rate swaps](https://www.investopedia.com/terms/i/interestrateswap.asp) trade on institutional market exchanges or through direct agreements between counter-parties. They allow one entity to swap their [[credit risk]](https://www.investopedia.com/terms/c/creditrisk.asp) with another using different types of credit instruments.
 
-A typical interest rate swap will include a fixed-rate and a floating-rate. A company that seeks to [hedge](https://www.investopedia.com/terms/h/hedge.asp) against paying higher rates on its floating-rate bonds in a rising rate environment would swap the floating-rate debt for fixed rate debt. The counter-party takes the opposite view of the market and believes it thinks rates will fall so it wants the floating-rate debt to pay off its obligations and obtain a profit.
+A typical interest rate swap will include a fixed-rate and a floating-rate. A company that seeks to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) against paying higher rates on its floating-rate bonds in a rising rate environment would swap the floating-rate debt for fixed rate debt. The counter-party takes the opposite view of the market and believes it thinks rates will fall so it wants the floating-rate debt to pay off its obligations and obtain a profit.
 
 For example, a bank may swap its floating-rate bond debt currently at 6% for a fixed-rate bond debt of 6%. Companies can match debt with varying maturity lengths depending on the swap contract length. Each company agrees to the swap using instruments it has issued.
 
 ## Understanding Quality Spreads
 
-A quality spread provides a [credit quality](https://www.investopedia.com/terms/c/creditquality.asp) measure for both parties involved in an interest rate swap. The quality differential is calculated by subtracting the contracted market rate by the rate available to the counter-party on similar rate instruments.
+A quality spread provides a [[credit quality]](https://www.investopedia.com/terms/c/creditquality.asp) measure for both parties involved in an interest rate swap. The quality differential is calculated by subtracting the contracted market rate by the rate available to the counter-party on similar rate instruments.
 
 ### Key Takeaways
 

@@ -18,7 +18,7 @@ Lancaster University Management School (LUMS)
 
 Lancaster University Management School (LUMS) is the business school of Lancaster University in Lancaster, England. Established in 1964, it offers a wide range of subjects from undergraduate degrees to postgraduate degrees including MBAs, Ph.D.s and post-experience executive education.
 
-The [MBA](https://www.investopedia.com/terms/m/mba.asp) program has been ranked as providing the best value for the money in the world. The school itself was relocated to modern buildings on the campus in 2005.
+The [[MBA]](https://www.investopedia.com/terms/m/mba.asp) program has been ranked as providing the best value for the money in the world. The school itself was relocated to modern buildings on the campus in 2005.
 
 ## Understanding the Lancaster University Management School (LUMS)
 
@@ -26,4 +26,4 @@ Lancaster University Management School (LUMS) is one of the four faculties of La
 
 LUMS is one of a small group of business schools in the world to have achieved quadruple accreditation by the leading international business school accreditation organizations, including AACSC, EQUIS, Association of MBAs and Small Business Charter.
 
-In 2005, LUMS partnered with Ernst & Young to offer undergraduate degrees in accounting and finance, in which students undertake two periods of paid work-experience with Ernst & Young, in preparation for a [Chartered Accountant](https://www.investopedia.com/terms/c/ca.asp) career.
+In 2005, LUMS partnered with Ernst & Young to offer undergraduate degrees in accounting and finance, in which students undertake two periods of paid work-experience with Ernst & Young, in preparation for a [[Chartered Accountant]](https://www.investopedia.com/terms/c/ca.asp) career.

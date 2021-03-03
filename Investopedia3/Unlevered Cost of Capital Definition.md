@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Unlevered Cost of Capital Definition
 ## What is Unlevered Cost of Capital?
 
-The unlevered cost of capital is an evaluation using either a hypothetical or actual debt-free scenario to measure a company's cost to implement a particular [capital project](https://www.investopedia.com/terms/c/capital-project.asp). The unlevered cost of capital should illustrate that the project is a less expensive alternative than a levered cost of capital investment program. Unlevered cost of capital is a variation on the cost of capital calculation. Investors may also use the unlevered cost of the capital method to determine if the company is a sound [investment](https://www.investopedia.com/terms/i/investment.asp).
+The unlevered cost of capital is an evaluation using either a hypothetical or actual debt-free scenario to measure a company's cost to implement a particular [[capital project]](https://www.investopedia.com/terms/c/capital-project.asp). The unlevered cost of capital should illustrate that the project is a less expensive alternative than a levered cost of capital investment program. Unlevered cost of capital is a variation on the cost of capital calculation. Investors may also use the unlevered cost of the capital method to determine if the company is a sound [[investment]](https://www.investopedia.com/terms/i/investment.asp).
 
 ## Understanding Unlevered Cost of Capital
 
@@ -26,11 +26,11 @@ The investment in an unlevered cost of capital expenditure is a less expensive a
 
 The unlevered cost of capital can be used to determine the cost of a particular project, separating it from procurement costs.
 
-The unlevered cost of capital represents the cost of a company financing the project itself without incurring debt. It provides an implied [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp), which helps investors make informed decisions on whether to invest. If a company fails to meet the anticipated unlevered returns, investors may reject the investment.
+The unlevered cost of capital represents the cost of a company financing the project itself without incurring debt. It provides an implied [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp), which helps investors make informed decisions on whether to invest. If a company fails to meet the anticipated unlevered returns, investors may reject the investment.
 
 ## Unlevered Cost of Capital Calculation
 
-Several factors are necessary to calculate the unlevered cost of capital, which includes [unlevered beta](https://www.investopedia.com/terms/u/unleveredbeta.asp), [market risk premium](https://www.investopedia.com/terms/m/marketriskpremium.asp), and the [risk-free rate of return](https://www.investopedia.com/terms/r/risk-freerate.asp). This calculation can be used as a standard for measuring the soundness of the investment.
+Several factors are necessary to calculate the unlevered cost of capital, which includes [unlevered beta](https://www.investopedia.com/terms/u/unleveredbeta.asp), [[market risk premium]](https://www.investopedia.com/terms/m/marketriskpremium.asp), and the [[risk-free rate of return]](https://www.investopedia.com/terms/r/risk-freerate.asp). This calculation can be used as a standard for measuring the soundness of the investment.
 
 The unlevered beta represents an investment's volatility as compared to the market. The unlevered beta, also known as asset beta, is determined by comparing the company to similar companies with known levered betas, often by using an average of multiple betas to derive an estimate. The calculation of market risk premium is the difference between expected market returns and the risk-free rate of return.
 

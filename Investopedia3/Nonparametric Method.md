@@ -16,7 +16,7 @@ author: Will Kenton
 Nonparametric Method
 ## What Does Nonparametric Method Mean?
 
-Nonparametric method refers to a type of statistic that does not require that the population being analyzed meet certain assumptions, or parameters. Well-known statistical methods such as ANOVA, [Pearson's correlation](https://www.investopedia.com/terms/p/pearsoncoefficient.asp), [t test](https://www.investopedia.com/terms/t/t-test.asp), and others provide valid information about the data being analyzed only if the underlying population meets certain assumptions. One of the most common assumptions is that the population data have a "[normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp)."
+Nonparametric method refers to a type of statistic that does not require that the population being analyzed meet certain assumptions, or parameters. Well-known statistical methods such as ANOVA, [[Pearson's correlation]](https://www.investopedia.com/terms/p/pearsoncoefficient.asp), [[t test]](https://www.investopedia.com/terms/t/t-test.asp), and others provide valid information about the data being analyzed only if the underlying population meets certain assumptions. One of the most common assumptions is that the population data have a "[normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp)."
 
 [Parametric statistics](https://www.investopedia.com/terms/n/nonparametric-statistics.asp) may also be applied to populations with other known distribution types, however. Nonparametric statistics do not require that the population data meet the assumptions required for parametric statistics. Nonparametric statistics, therefore, fall into a category of statistics sometimes referred to as distribution-free. Often nonparametric methods will be used when the population data has an unknown distribution, or when the sample size is small.
 
@@ -30,4 +30,4 @@ Ordinal variables are those in which the value suggests some order. An example o
 
 Although nonparametric statistics have the advantage of having to meet few assumptions, they are less powerful than parametric statistics. This means that they may not show a relationship between two variables when in fact one exists.
 
-Common nonparametric tests include [Chi Square](https://www.investopedia.com/terms/c/chi-square-statistic.asp), Wilcoxon rank-sum test, Kruskal-Wallis test, and Spearman's rank-order correlation.
+Common nonparametric tests include [[Chi Square]](https://www.investopedia.com/terms/c/chi-square-statistic.asp), Wilcoxon rank-sum test, Kruskal-Wallis test, and Spearman's rank-order correlation.

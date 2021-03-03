@@ -16,7 +16,7 @@ author: Jason Fernando
 United States Government Life Insurance (USGLI) Definition
 ## What Is United States Government Life Insurance (USGLI)?
 
-United States Government Life Insurance (USGLI) is a type of [life insurance](https://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp) that was offered by the United States government between 1919 and 1951. This measure, which was originally intended to support veterans who served during World War I, formed part of a broader set of policies known as the War Risk Insurance program.1
+United States Government Life Insurance (USGLI) is a type of [[life insurance]](https://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp) that was offered by the United States government between 1919 and 1951. This measure, which was originally intended to support veterans who served during World War I, formed part of a broader set of policies known as the War Risk Insurance program.1
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ United States Government Life Insurance (USGLI) is a type of [life insurance](ht
 
 ## How United States Government Life Insurance (USGLI) Works
 
-The purpose of USGLI was to support American soldiers who may have been unable to obtain life insurance at affordable rates from private insurers. After all, insurance companies must set their insurance premiums based on the expected frequency and cost of the claims made by their policyholders. Since soldiers are exposed to a much higher risk of injury or death as compared to other occupations, the [premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) charged to them under a private insurance plan would likely be very high.
+The purpose of USGLI was to support American soldiers who may have been unable to obtain life insurance at affordable rates from private insurers. After all, insurance companies must set their insurance premiums based on the expected frequency and cost of the claims made by their policyholders. Since soldiers are exposed to a much higher risk of injury or death as compared to other occupations, the [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) charged to them under a private insurance plan would likely be very high.
 
-To help support soldiers, the United States government created a series of policies called the War Risk Insurance program. One of the central pillars of this program was USGLI, which effectively subsidized the cost of life insurance for American soldiers. The premiums paid under this program were deposited to the [United States Treasury](https://www.investopedia.com/terms/u/ustreasury.asp) and were  used to cover the claims made by its policyholders.1
+To help support soldiers, the United States government created a series of policies called the War Risk Insurance program. One of the central pillars of this program was USGLI, which effectively subsidized the cost of life insurance for American soldiers. The premiums paid under this program were deposited to the [[United States Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) and were  used to cover the claims made by its policyholders.1
 
 The USGLI program entitled all active military personnel to a life insurance policy payable by the federal government in the case of death or disability caused by war. The maximum face amount of a USGLI policy was $10,000. The program was closed on April 25, 1951. War risk insurance proved to be extremely popular. During World War I, more than four million policies were issued.1
 

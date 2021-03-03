@@ -28,9 +28,9 @@ Proof of funds (POF) refers to a document or documents that demonstrate a perso
 
 ## Understanding Proof of Funds (POF)
 
-When an individual or entity is making a large purchase, such as buying a home, the seller usually requires proof of funds. This ensures not only that the buyer has the money available to make the purchase, but also has legal access to the funds, as the proof of funds comes from a verified authority, such as a bank. Particularly for the purchase of a home, the seller and/or mortgage company wants to see if you have enough money for the [down payment](https://www.investopedia.com/terms/d/down_payment.asp) and the [closing costs](https://www.investopedia.com/terms/c/closingcosts.asp).
+When an individual or entity is making a large purchase, such as buying a home, the seller usually requires proof of funds. This ensures not only that the buyer has the money available to make the purchase, but also has legal access to the funds, as the proof of funds comes from a verified authority, such as a bank. Particularly for the purchase of a home, the seller and/or mortgage company wants to see if you have enough money for the [[down payment]](https://www.investopedia.com/terms/d/down_payment.asp) and the [[closing costs]](https://www.investopedia.com/terms/c/closingcosts.asp).
 
-It's important to note that in the majority of instances, the proof of funds must refer to [liquid](https://www.investopedia.com/terms/l/liquidasset.asp) capital, primarily cash. Certain investments, such as retirement accounts, [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) accounts, and life insurance, do not qualify as proof of funds.
+It's important to note that in the majority of instances, the proof of funds must refer to [[liquid]](https://www.investopedia.com/terms/l/liquidasset.asp) capital, primarily cash. Certain investments, such as retirement accounts, [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) accounts, and life insurance, do not qualify as proof of funds.
 
 ## Requirements of a Proof of Funds (POF) Document
 
@@ -48,8 +48,8 @@ Once you have your proof of funds document in hand you want to ensure that it is
 
 ## Proof of Funds (POF) vs. Proof of Deposit (POD)
 
-In commercial banking, [proof of deposit](https://www.investopedia.com/terms/p/proof-of-deposit-pod.asp) is the financial institution’s verification that funds have been deposited into an account and where these deposits came from. To do so, the institution will compare the amount written on the check to the amount on the deposit slip. When applying for a [mortgage](https://www.investopedia.com/terms/m/mortgage.asp), in addition to demonstrating proof of funds, a buyer will have to demonstrate that funds in fact have been deposited into an account and demonstrate where they came from.
+In commercial banking, [[proof of deposit]](https://www.investopedia.com/terms/p/proof-of-deposit-pod.asp) is the financial institution’s verification that funds have been deposited into an account and where these deposits came from. To do so, the institution will compare the amount written on the check to the amount on the deposit slip. When applying for a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp), in addition to demonstrating proof of funds, a buyer will have to demonstrate that funds in fact have been deposited into an account and demonstrate where they came from.
 
 Mortgage companies typically want to see where the deposits originate from, whether they come from the borrower or are they gifts from other parties. This helps determine if the borrower will be able to furnish the mortgage loan.
 
-In addition to a proof of funds document and a proof of deposit, a [pre-approval](https://www.investopedia.com/terms/p/preapproval.asp) letter is required to give to the seller or the seller's agent when purchasing a home. The pre-approval letter will prove that you are able to obtain a mortgage to pay for the rest of the home purchase.
+In addition to a proof of funds document and a proof of deposit, a [[pre-approval]](https://www.investopedia.com/terms/p/preapproval.asp) letter is required to give to the seller or the seller's agent when purchasing a home. The pre-approval letter will prove that you are able to obtain a mortgage to pay for the rest of the home purchase.

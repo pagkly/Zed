@@ -16,7 +16,7 @@ author: Will Kenton
 Order Driven Market
 ## What Is an Order Driven Market?
 
-An order-driven market is a financial market where all buyers and sellers display the prices at which they wish to buy or sell a particular security, as well as the amounts of the security desired to be bought or sold. This kind of trading environment is the opposite of a [quote-driven market](https://www.investopedia.com/terms/q/quotedriven.asp), which only displays bids and asks of [designated market makers](https://www.investopedia.com/terms/d/designated-market-maker-dmm.asp) and specialists for the specific security that is being traded.
+An order-driven market is a financial market where all buyers and sellers display the prices at which they wish to buy or sell a particular security, as well as the amounts of the security desired to be bought or sold. This kind of trading environment is the opposite of a [[quote-driven market]](https://www.investopedia.com/terms/q/quotedriven.asp), which only displays bids and asks of [[designated market makers]](https://www.investopedia.com/terms/d/designated-market-maker-dmm.asp) and specialists for the specific security that is being traded.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ An order-driven market is a financial market where all buyers and sellers displa
 
 Order-driven markets consist of a constant flow of buy and sell orders from market participants. There are no designated liquidity providers, and the two basic types of orders are market orders and limit orders. By comparison, in a quote-driven market, designated market makers provide bids and offers that other market participants may trade on.
 
-The biggest advantage of participating in an order-driven market is [transparency](https://www.investopedia.com/terms/t/transparency.asp) since the entire [order book](https://www.investopedia.com/terms/o/order-book.asp) is displayed for investors who wish to access this information. Most exchanges charge fees for such information. On the other hand, an order-driven market may not have the same degree of [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) as a quote-driven market, since the specialists and market makers in the latter have to transact business at their posted bid and ask prices.
+The biggest advantage of participating in an order-driven market is [[transparency]](https://www.investopedia.com/terms/t/transparency.asp) since the entire [[order book]](https://www.investopedia.com/terms/o/order-book.asp) is displayed for investors who wish to access this information. Most exchanges charge fees for such information. On the other hand, an order-driven market may not have the same degree of [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) as a quote-driven market, since the specialists and market makers in the latter have to transact business at their posted bid and ask prices.
 
 Stock exchanges like the New York Stock Exchange and the Nasdaq are seen as hybrid markets—a combination of both order-driven and quote-driven markets.
 

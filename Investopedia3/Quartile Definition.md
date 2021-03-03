@@ -16,7 +16,7 @@ author: Daniel Liberto
 Quartile Definition
 ## What Is a Quartile?
 
-A quartile is a [statistical](https://www.investopedia.com/terms/s/statistics.asp) term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations. 
+A quartile is a [[statistical]](https://www.investopedia.com/terms/s/statistics.asp) term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations. 
 
 ## Understanding Quartiles
 

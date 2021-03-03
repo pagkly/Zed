@@ -16,7 +16,7 @@ author: James Chen
 Risk-Neutral Probabilities
 ## What Are Risk-Neutral Probabilities?
 
-Risk-neutral probabilities are probabilities of potential future outcomes adjusted for [risk](https://www.investopedia.com/terms/r/risk.asp), which are then used to compute expected [asset](https://www.investopedia.com/terms/a/asset.asp) values. In other words, assets and securities are bought and sold as if the hypothetical fair, single probability for an outcome were a reality, even though that is not, in fact, the actual scenario.
+Risk-neutral probabilities are probabilities of potential future outcomes adjusted for [[risk]](https://www.investopedia.com/terms/r/risk.asp), which are then used to compute expected [[asset]](https://www.investopedia.com/terms/a/asset.asp) values. In other words, assets and securities are bought and sold as if the hypothetical fair, single probability for an outcome were a reality, even though that is not, in fact, the actual scenario.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Risk-neutral probabilities are probabilities of potential future outcomes adjust
 
 Risk-neutral probabilities are used to try to determine objective fair prices for an asset or financial instrument. You are assessing the probability with the risk taken out of the equation, so it doesn’t play a factor in the anticipated outcome.
 
-By contrast, if you tried to estimate the anticipated value of that particular [stock](https://www.investopedia.com/terms/s/stock.asp) based on how likely it is to go up or down, considering unique factors or market conditions that influence that specific asset, you would be including risk into the equation and thus would be looking at real or physical probability.
+By contrast, if you tried to estimate the anticipated value of that particular [[stock]](https://www.investopedia.com/terms/s/stock.asp) based on how likely it is to go up or down, considering unique factors or market conditions that influence that specific asset, you would be including risk into the equation and thus would be looking at real or physical probability.
 
 The benefit of this risk-neutral pricing approach is that once the risk-neutral probabilities are calculated, they can be used to price every asset based on its expected payoff. These theoretical risk-neutral probabilities differ from actual real-world probabilities, which are sometimes also referred to as physical probabilities. If real-world probabilities were used, expected values of each security would need to be adjusted for its individual risk profile.
 
@@ -48,4 +48,4 @@ The investor prefers to focus on the potential gain of the investment instead. W
 
 ## Benefits Risk-Neutral Probabilities 
 
-Implementing risk-neutral probability in equations when calculating pricing for [fixed-income](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) financial instruments is useful. This is because you are able to price a security at its trade price when employing the risk-neutral measure. A key assumption in computing risk-neutral probabilities is the absence of arbitrage. The concept of risk-neutral probabilities is widely used in pricing derivatives.
+Implementing risk-neutral probability in equations when calculating pricing for [[fixed-income]](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) financial instruments is useful. This is because you are able to price a security at its trade price when employing the risk-neutral measure. A key assumption in computing risk-neutral probabilities is the absence of arbitrage. The concept of risk-neutral probabilities is widely used in pricing derivatives.

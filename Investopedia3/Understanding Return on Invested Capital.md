@@ -18,7 +18,7 @@ Understanding Return on Invested Capital
 
 Return on invested capital (ROIC) is a calculation used to assess a company's efficiency at allocating the capital under its control to profitable investments. The return on invested capital ratio gives a sense of how well a company is using its capital to generate profits.
 
-Comparing a company's return on invested capital with its [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) reveals whether [invested capital](https://www.investopedia.com/terms/i/invested-capital.asp) is being used effectively. This measure is also known simply as "return on capital."
+Comparing a company's return on invested capital with its [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) reveals whether [[invested capital]](https://www.investopedia.com/terms/i/invested-capital.asp) is being used effectively. This measure is also known simply as "return on capital."
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ Comparing a company's return on invested capital with its [weighted average cost
 
 > ROIC = (net income - dividend) / (debt + equity)
 
-The ROIC formula is calculated by assessing the value in the denominator, total capital, which is the sum of a company's debt and equity. There are a number of ways to calculate this value. One is to subtract cash and [non-interest bearing current liabilities](https://www.investopedia.com/terms/n/nibcl.asp) (NIBCL)—including tax liabilities and accounts payable, as long as these are not subject to interest or fees—from total assets.
+The ROIC formula is calculated by assessing the value in the denominator, total capital, which is the sum of a company's debt and equity. There are a number of ways to calculate this value. One is to subtract cash and [[non-interest bearing current liabilities]](https://www.investopedia.com/terms/n/nibcl.asp) (NIBCL)—including tax liabilities and accounts payable, as long as these are not subject to interest or fees—from total assets.
 
 Another, more precise way to write the ROIC formula is:
 
@@ -42,7 +42,7 @@ ROIC\=NOPATInvested Capitalwhere:NOPAT\=Net operating profit after tax\\beg
 
 A third method of calculating invested capital is to add the book value of a company's equity to the book value of its debt, then subtract non-operating assets, including cash and cash equivalents, marketable securities, and assets of discontinued operations.
 
-Yet another way to calculate invested capital is to obtain working capital by subtracting current liabilities from current assets. Next, you obtain non-cash working capital by subtracting cash from the working capital value you just calculated. Finally, non-cash working capital is added to a company's [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp), also known as long-term or non-current assets.
+Yet another way to calculate invested capital is to obtain working capital by subtracting current liabilities from current assets. Next, you obtain non-cash working capital by subtracting cash from the working capital value you just calculated. Finally, non-cash working capital is added to a company's [[fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp), also known as long-term or non-current assets.
 
 An ROIC higher than the cost of capital means a company is healthy and growing, while an ROIC lower than cost of capital suggests an unsustainable business model. 
 
@@ -50,15 +50,15 @@ An ROIC higher than the cost of capital means a company is healthy and growing, 
 
 The value in the numerator can also be calculated in several ways. The most straightforward way is to subtract dividends from a company's net income.
 
-On the other hand, because a company may have benefited from a one-time source of income unrelated to its core business—a windfall from foreign exchange rate fluctuations, for example—it is often preferable to look at [net operating profit after taxes](https://www.investopedia.com/terms/n/nopat.asp) (NOPAT). NOPAT is calculated by adjusting the operating profit for taxes:
+On the other hand, because a company may have benefited from a one-time source of income unrelated to its core business—a windfall from foreign exchange rate fluctuations, for example—it is often preferable to look at [[net operating profit after taxes]](https://www.investopedia.com/terms/n/nopat.asp) (NOPAT). NOPAT is calculated by adjusting the operating profit for taxes:
 
 > NOPAT = (operating profit) \* (1 - effective tax rate).
 
-[Operating profit](https://www.investopedia.com/terms/o/operating_profit.asp) is also referred to as [earnings before interest and tax](https://www.investopedia.com/terms/e/ebit.asp) (EBIT). Many companies will report their effective tax rates for the quarter or fiscal year in their earnings releases, but not all.
+[Operating profit](https://www.investopedia.com/terms/o/operating_profit.asp) is also referred to as [[earnings before interest and tax]](https://www.investopedia.com/terms/e/ebit.asp) (EBIT). Many companies will report their effective tax rates for the quarter or fiscal year in their earnings releases, but not all.
 
 ## How to Use ROIC
 
-ROIC is always calculated as a percentage and is usually expressed as an annualized or trailing 12-month value. It should be compared to a company's [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp) to determine whether the company is creating value.
+ROIC is always calculated as a percentage and is usually expressed as an annualized or trailing 12-month value. It should be compared to a company's [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) to determine whether the company is creating value.
 
 If ROIC is greater than a firm's weighted average cost of capital (WACC), the most common cost of capital metric, value is being created and these firms will trade at a premium. A common benchmark for evidence of value creation is a return in excess of 2% of the firm's cost of capital.
 
@@ -68,9 +68,9 @@ ROIC is one of the most important and informative valuation metrics to calculate
 
 ## Limitations of Return on Invested Capital
 
-One downside of this metric is that it tells nothing about what segment of the business is generating value. If you make your calculation based on [net income](https://www.investopedia.com/terms/n/netincome.asp) (minus dividends) instead of NOPAT, the result can be even more opaque, since the return may derive from a single, non-recurring event.
+One downside of this metric is that it tells nothing about what segment of the business is generating value. If you make your calculation based on [[net income]](https://www.investopedia.com/terms/n/netincome.asp) (minus dividends) instead of NOPAT, the result can be even more opaque, since the return may derive from a single, non-recurring event.
 
-ROIC provides the necessary context for other metrics such as the [P/E ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp). Viewed in isolation, the P/E ratio might suggest a company is oversold, but the decline could be due to the fact that the company is no longer generating value for shareholders at the same rate—or at all. On the other hand, companies that consistently generate high rates of return on invested capital probably deserve to trade at a premium to other stocks, even if their P/E ratios seem prohibitively high.
+ROIC provides the necessary context for other metrics such as the [[P/E ratio]](https://www.investopedia.com/terms/p/price-earningsratio.asp). Viewed in isolation, the P/E ratio might suggest a company is oversold, but the decline could be due to the fact that the company is no longer generating value for shareholders at the same rate—or at all. On the other hand, companies that consistently generate high rates of return on invested capital probably deserve to trade at a premium to other stocks, even if their P/E ratios seem prohibitively high.
 
 ## Example of How to Use Return on Invested Capital
 
@@ -176,11 +176,11 @@ Invested capital
 
 Target Corp. FY 2018 ROIC Calculation
 
-The ROIC calculation begins with earnings from continuing operations before interest expense and income taxes (EBIT), then adds operating lease interest and subtracts income taxes, yielding a net profit after taxes of $3.5 billion: this is the numerator.1 Next, add the current portion of long-term debt and other borrowings, the non-current portion of [long-term debt](https://www.investopedia.com/terms/l/longtermdebt.asp), shareholders equity, and capitalized operating lease obligations.
+The ROIC calculation begins with earnings from continuing operations before interest expense and income taxes (EBIT), then adds operating lease interest and subtracts income taxes, yielding a net profit after taxes of $3.5 billion: this is the numerator.1 Next, add the current portion of long-term debt and other borrowings, the non-current portion of [[long-term debt]](https://www.investopedia.com/terms/l/longtermdebt.asp), shareholders equity, and capitalized operating lease obligations.
 
-Subtract [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) and net assets of [discontinued operations](https://www.investopedia.com/terms/d/discontinued-operations.asp), which yields total invested capital of $22.2 billion. Average this figure with the invested capital from the end of the prior-year period ($22.3 billion), and you end up with a denominator of $22.2 billion.
+Subtract [[cash and cash equivalents]](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) and net assets of [[discontinued operations]](https://www.investopedia.com/terms/d/discontinued-operations.asp), which yields total invested capital of $22.2 billion. Average this figure with the invested capital from the end of the prior-year period ($22.3 billion), and you end up with a denominator of $22.2 billion.
 
-The resulting after-tax return on invested capital is 15.9%. The company attributed the increase over the previous 12 months largely to the effects of the tax bill passed in late 2017. This calculation would have been difficult to obtain from the income statement and balance sheet alone since the asterisked values are buried in an addendum. For this reason, calculating ROIC can be tricky, but it is worth arriving at a [ballpark figure](https://www.investopedia.com/terms/b/ballpark-figure.asp) in order to assess a company's efficiency at putting capital to work.
+The resulting after-tax return on invested capital is 15.9%. The company attributed the increase over the previous 12 months largely to the effects of the tax bill passed in late 2017. This calculation would have been difficult to obtain from the income statement and balance sheet alone since the asterisked values are buried in an addendum. For this reason, calculating ROIC can be tricky, but it is worth arriving at a [[ballpark figure]](https://www.investopedia.com/terms/b/ballpark-figure.asp) in order to assess a company's efficiency at putting capital to work.
 
 ## Frequently Asked Questions
 

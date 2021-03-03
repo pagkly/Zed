@@ -28,7 +28,7 @@ Home equity is the value of a homeowner’s interest in their home. In other wor
 
 If a portion—or all—of a home, is purchased via a mortgage loan, the lending institution has an interest in the home until the loan obligation has been met. Home equity is the portion of a home's current value that the owner actually possesses at any given time.
 
-Equity in a house is initially acquired with the down payment you make during the initial purchase of the property. After that, more equity is achieved through your [mortgage payments](https://www.investopedia.com/mortgage-calculator-5084794), since a contracted portion of that payment will be assigned to bring down the outstanding principal you still owe on the loan. You can also benefit from property value [appreciation](https://www.investopedia.com/terms/a/appreciation.asp) because it will cause your equity value to increase.
+Equity in a house is initially acquired with the down payment you make during the initial purchase of the property. After that, more equity is achieved through your [[mortgage payments]](https://www.investopedia.com/mortgage-calculator-5084794), since a contracted portion of that payment will be assigned to bring down the outstanding principal you still owe on the loan. You can also benefit from property value [[appreciation]](https://www.investopedia.com/terms/a/appreciation.asp) because it will cause your equity value to increase.
 
 Home equity is an asset; it is considered a portion of an individual's net worth, but it is not a liquid asset.
 
@@ -36,13 +36,13 @@ Home equity is an asset; it is considered a portion of an individual's net worth
 
 ### Home Equity Loans
 
-Unlike other investments, home equity cannot be quickly converted into cash. The equity calculation is based on a current market value [appraisal](https://www.investopedia.com/terms/a/appraisal.asp) of your property. But that appraisal is no guarantee that the property would sell at that price. 
+Unlike other investments, home equity cannot be quickly converted into cash. The equity calculation is based on a current market value [[appraisal]](https://www.investopedia.com/terms/a/appraisal.asp) of your property. But that appraisal is no guarantee that the property would sell at that price. 
 
-However, an owner can leverage their home equity as collateral to secure either a home equity loan or a home equity line of credit (HELOC), or [fixed-rate HELOC](https://www.investopedia.com/mortgage/heloc/fixed-rate-option/), which is a kind of home equity loan and HELOC hybrid.
+However, an owner can leverage their home equity as collateral to secure either a home equity loan or a home equity line of credit (HELOC), or [[fixed-rate HELOC]](https://www.investopedia.com/mortgage/heloc/fixed-rate-option/), which is a kind of home equity loan and HELOC hybrid.
 
-A [home equity loan](https://www.investopedia.com/terms/h/homeequityloan.asp), sometimes referred to as a [second mortgage](https://www.investopedia.com/terms/s/secondmortgage.asp), usually allows you to borrow a lump sum against your current home equity for a fixed rate over a fixed period of time. Many home equity loans are used to finance large expenditures, such as home repairs or college tuition.
+A [[home equity loan]](https://www.investopedia.com/terms/h/homeequityloan.asp), sometimes referred to as a [[second mortgage]](https://www.investopedia.com/terms/s/secondmortgage.asp), usually allows you to borrow a lump sum against your current home equity for a fixed rate over a fixed period of time. Many home equity loans are used to finance large expenditures, such as home repairs or college tuition.
 
-A [home equity line of credit (HELOC)](https://www.investopedia.com/mortgage/heloc/) is a revolving line of credit usually with an adjustable interest rate, which allows you to borrow up to a certain amount over a period of time. HELOCs work in a manner similar to credit cards, where you can continuously borrow up to an approved limit while paying off the balance.
+A [[home equity line of credit (HELOC)]](https://www.investopedia.com/mortgage/heloc/) is a revolving line of credit usually with an adjustable interest rate, which allows you to borrow up to a certain amount over a period of time. HELOCs work in a manner similar to credit cards, where you can continuously borrow up to an approved limit while paying off the balance.
 
 ## Example of Home Equity
 

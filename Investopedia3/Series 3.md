@@ -16,7 +16,7 @@ author: Julia Kagan
 Series 3
 ## What Is the Series 3?
 
-The Series 3 is an exam, also known as the National Commodities Futures Examination, administered by the Financial Industry Regulatory Authority (FINRA) on behalf of the [National Futures Association (NFA)](https://www.investopedia.com/terms/n/nfa.asp). Candidates who pass the exam are eligible to register with the NFA and sell [commodity futures contracts](https://www.investopedia.com/terms/c/commodityfuturescontract.asp) and options on commodity futures contracts. The Series 3 is one of a number of exams for investment professionals administered by FINRA, including the [Series 7](https://www.investopedia.com/terms/s/series7.asp), General Securities Representative Exam, which is required for brokers who wish to sell corporate, government, or other types of securities.
+The Series 3 is an exam, also known as the National Commodities Futures Examination, administered by the Financial Industry Regulatory Authority (FINRA) on behalf of the [[National Futures Association (NFA)]](https://www.investopedia.com/terms/n/nfa.asp). Candidates who pass the exam are eligible to register with the NFA and sell [[commodity futures contracts]](https://www.investopedia.com/terms/c/commodityfuturescontract.asp) and options on commodity futures contracts. The Series 3 is one of a number of exams for investment professionals administered by FINRA, including the [[Series 7]](https://www.investopedia.com/terms/s/series7.asp), General Securities Representative Exam, which is required for brokers who wish to sell corporate, government, or other types of securities.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Candidates must achieve a score of around 70% in each part to pass the exam. (Th
 
 Anyone who wants to sell commodity futures contracts must generally pass the Series 3 exam.
 
-The NFA, a self-regulatory organization for the U.S. derivatives market, requires anyone "who is applying for NFA membership as a futures commission merchant (FCM), retail foreign exchange dealer (RFED), introducing broker (IB), [commodity pool operator (CPO)](https://www.investopedia.com/terms/c/cpo.asp), or commodity trading advisor (CTA), leverage transaction merchant (LTM) or as an [associated person](https://www.investopedia.com/terms/a/associatedperson.asp) (AP) of these entities, to satisfy proficiency requirements."
+The NFA, a self-regulatory organization for the U.S. derivatives market, requires anyone "who is applying for NFA membership as a futures commission merchant (FCM), retail foreign exchange dealer (RFED), introducing broker (IB), [[commodity pool operator (CPO)]](https://www.investopedia.com/terms/c/cpo.asp), or commodity trading advisor (CTA), leverage transaction merchant (LTM) or as an [[associated person]](https://www.investopedia.com/terms/a/associatedperson.asp) (AP) of these entities, to satisfy proficiency requirements."
 
 In most cases, individuals seeking NFA membership or registration as an associated person must pass the Series 3 exam within two years before they apply. That's unless:
 
@@ -52,4 +52,4 @@ Other certification exams related to the Series 3 are the Series 30 (NFA Branch 
 
 The Series 3 is not considered a prerequisite or corequisite for any of these other exams.
 
-For more information on the Series 3 and other futures industry exams, visit the [NFA's Proficiency Requirements](https://www.nfa.futures.org/registration-membership/how-to-register/proficiency-requirements.html) page. And for more details on taking the test, visit FINRA's [On the Day of Your Qualification Exam](http://www.finra.org/industry/exam-day) resource page.
+For more information on the Series 3 and other futures industry exams, visit the [[NFA's Proficiency Requirements]](https://www.nfa.futures.org/registration-membership/how-to-register/proficiency-requirements.html) page. And for more details on taking the test, visit FINRA's [On the Day of Your Qualification Exam](http://www.finra.org/industry/exam-day) resource page.

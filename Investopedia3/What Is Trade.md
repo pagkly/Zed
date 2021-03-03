@@ -14,9 +14,9 @@ author: Adam Hayes
 ---
 
 What Is Trade?
-Trade is a basic economic concept involving the buying and selling of goods and services, with compensation paid by a buyer to a seller, or the exchange of goods or services between parties. Trade can take place within an economy between producers and consumers. [International trade](https://www.investopedia.com/insights/what-is-international-trade/) allows countries to expand markets for both goods and services that otherwise may not have been available to it. It is the reason why an American consumer can pick between a Japanese, German, or American car. As a result of international trade, the market contains greater competition and therefore, more competitive prices, which brings a cheaper product home to the consumer.
+Trade is a basic economic concept involving the buying and selling of goods and services, with compensation paid by a buyer to a seller, or the exchange of goods or services between parties. Trade can take place within an economy between producers and consumers. [[International trade]](https://www.investopedia.com/insights/what-is-international-trade/) allows countries to expand markets for both goods and services that otherwise may not have been available to it. It is the reason why an American consumer can pick between a Japanese, German, or American car. As a result of international trade, the market contains greater competition and therefore, more competitive prices, which brings a cheaper product home to the consumer.
 
-In financial markets, trading refers to the buying and selling of securities, such as the purchase of stock on the floor of the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE). For more on this kind of trade, please see the entry on '[what is an order?](https://www.investopedia.com/terms/o/order.asp)'
+In financial markets, trading refers to the buying and selling of securities, such as the purchase of stock on the floor of the [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE). For more on this kind of trade, please see the entry on '[what is an order?](https://www.investopedia.com/terms/o/order.asp)'
 
 ## How Trade Works
 
@@ -26,7 +26,7 @@ Trading globally between nations allows consumers and countries to be exposed to
 
 International trade not only results in increased efficiency but also allows countries to participate in a global economy, encouraging the opportunity of [foreign direct investment](https://www.investopedia.com/terms/f/fdi.asp) (FDI), which is the amount of money that individuals invest into foreign companies and other assets. In theory, economies can, therefore, grow more efficiently and can more easily become competitive economic participants. For the receiving government, FDI is a means by which foreign currency and expertise can enter the country. These raise employment levels, and, theoretically, lead to a growth in the gross domestic product. For the investor, FDI offers company expansion and growth, which means higher revenues.
 
-A [trade deficit](https://www.investopedia.com/terms/t/trade_deficit.asp) is a situation where a country spends more on aggregate imports from abroad than it earns from its aggregate exports. A trade deficit represents an outflow of domestic currency to foreign markets. This may also be referred to as a negative [balance of trade](https://www.investopedia.com/terms/b/bot.asp) (BOT).
+A [[trade deficit]](https://www.investopedia.com/terms/t/trade_deficit.asp) is a situation where a country spends more on aggregate imports from abroad than it earns from its aggregate exports. A trade deficit represents an outflow of domestic currency to foreign markets. This may also be referred to as a negative [balance of trade](https://www.investopedia.com/terms/b/bot.asp) (BOT).
 
 ### Key Takeaways
 
@@ -70,4 +70,4 @@ Money, which also functions as a unit of account and a store of value, is the mo
 
 ## Barter Transactions
 
-Cashless trades involving the exchange of goods or services between parties are referred to as [barter](https://www.investopedia.com/terms/b/barter.asp) transactions. While barter is often associated with primitive or undeveloped societies, these transactions are also used by large corporations and individuals as a means of gaining goods in exchange for excess, underutilized or unwanted assets. For example, in the 1970s, PepsiCo Inc. set up a barter agreement with the Russian government to trade cola syrup for Stolichnaya vodka. In 1990, the deal was expanded to $3 billion dollars and included 10 Russian-built ships, which PepsiCo leased or sold in the years following the agreement.1
+Cashless trades involving the exchange of goods or services between parties are referred to as [[barter]](https://www.investopedia.com/terms/b/barter.asp) transactions. While barter is often associated with primitive or undeveloped societies, these transactions are also used by large corporations and individuals as a means of gaining goods in exchange for excess, underutilized or unwanted assets. For example, in the 1970s, PepsiCo Inc. set up a barter agreement with the Russian government to trade cola syrup for Stolichnaya vodka. In 1990, the deal was expanded to $3 billion dollars and included 10 Russian-built ships, which PepsiCo leased or sold in the years following the agreement.1

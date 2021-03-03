@@ -16,7 +16,7 @@ author: James Chen
 Cost of Debt
 ## What Is the Cost of Debt?
 
-The cost of debt is the effective interest rate a company pays on its debts. It’s the cost of debt, such as bonds and loans, among others. The cost of debt often refers to before-tax cost of debt, which is the company's cost of debt before taking taxes into account. However, the difference in the cost of debt before and after taxes lies in the fact that [interest expenses](https://www.investopedia.com/terms/i/interestexpense.asp) are deductible.
+The cost of debt is the effective interest rate a company pays on its debts. It’s the cost of debt, such as bonds and loans, among others. The cost of debt often refers to before-tax cost of debt, which is the company's cost of debt before taking taxes into account. However, the difference in the cost of debt before and after taxes lies in the fact that [[interest expenses]](https://www.investopedia.com/terms/i/interestexpense.asp) are deductible.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ The cost of debt is the effective interest rate a company pays on its debts. It�
 
 ## How the Cost of Debt Works
 
-Cost of debt is one part of a company's capital structure, which also includes the [cost of equity](https://www.investopedia.com/terms/c/costofequity.asp). Capital structure deals with how a firm finances its overall operations and growth through different sources of funds, which may include debt such as bonds or loans, among other types.
+Cost of debt is one part of a company's capital structure, which also includes the [[cost of equity]](https://www.investopedia.com/terms/c/costofequity.asp). Capital structure deals with how a firm finances its overall operations and growth through different sources of funds, which may include debt such as bonds or loans, among other types.
 
-The cost of debt measure is helpful in understanding the overall rate being paid by a company to use these types of [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp). The measure can also give investors an idea of the company's risk level compared to others because riskier companies generally have a higher cost of debt.
+The cost of debt measure is helpful in understanding the overall rate being paid by a company to use these types of [[debt financing]](https://www.investopedia.com/terms/d/debtfinancing.asp). The measure can also give investors an idea of the company's risk level compared to others because riskier companies generally have a higher cost of debt.
 
 The cost of debt is generally lower than cost of equity. 
 
@@ -45,7 +45,7 @@ The interest on the first two loans is $50,000 and $12,000, respectively, and th
 
 ### Cost of Debt After Taxes
 
-The after-tax cost of debt is the interest paid on debt less any income tax savings due to deductible interest expenses. To calculate the after-tax cost of debt, subtract a company's effective tax rate from 1, and multiply the difference by its cost of debt. The company's [marginal tax rate](https://www.investopedia.com/terms/m/marginaltaxrate.asp) is not used, rather, the company's state and the federal tax rate are added together to ascertain its effective tax rate.
+The after-tax cost of debt is the interest paid on debt less any income tax savings due to deductible interest expenses. To calculate the after-tax cost of debt, subtract a company's effective tax rate from 1, and multiply the difference by its cost of debt. The company's [[marginal tax rate]](https://www.investopedia.com/terms/m/marginaltaxrate.asp) is not used, rather, the company's state and the federal tax rate are added together to ascertain its effective tax rate.
 
 For example, if a company's only debt is a bond it has issued with a 5% rate, its pre-tax cost of debt is 5%. If its tax rate is 40%, the difference between 100% and 40% is 60%, and 60% of the 5% is 3%. The after-tax cost of debt is 3%.
 

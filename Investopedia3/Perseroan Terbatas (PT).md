@@ -29,7 +29,7 @@ Any Indonesian company that directly receives foreign investments must take the 
 
 ## Understanding a Perseroan Terbatas (PT)
 
-Every country has different legal entity types. The American equivalent of a Perseroan Terbatas (PT) is a limited liability company (LLC). Most PTs operate similarly to [limited liability companies (LLCs)](https://www.investopedia.com/terms/l/llc.asp) and offer shares to the public. Shareholders of a PT are legally liable for a company's debts if it files for bankruptcy. However, investors are only liable only for the amount of their original investment. The [articles of association](https://www.investopedia.com/terms/a/articles-of-association.asp) of a PT outline share ownership.
+Every country has different legal entity types. The American equivalent of a Perseroan Terbatas (PT) is a limited liability company (LLC). Most PTs operate similarly to [[limited liability companies (LLCs)]](https://www.investopedia.com/terms/l/llc.asp) and offer shares to the public. Shareholders of a PT are legally liable for a company's debts if it files for bankruptcy. However, investors are only liable only for the amount of their original investment. The [[articles of association]](https://www.investopedia.com/terms/a/articles-of-association.asp) of a PT outline share ownership.
 
 Indonesian law governs the types of businesses that can operate as a PT. Governance and administration of PTs are handled on a regional basis and the rules may vary for each region of the country. The license requirements for each business will depend on the type of work in which they will be involved. While the United States has business entities that operate similarly to an Indonesian PT, the specific rules and guidelines for a PT adhere to Indonesian law regarding business entities. 
 
@@ -41,11 +41,11 @@ There are a few basic types of PTs.
 
 ### Open PT
 
-An open PT is an LLC that offers [shares](https://www.investopedia.com/terms/s/share_class.asp) to the public. Typically, this type of LLC offers ownership shares available for purchase by most investors. Thus, buying and selling stocks is relatively straightforward.
+An open PT is an LLC that offers [[shares]](https://www.investopedia.com/terms/s/share_class.asp) to the public. Typically, this type of LLC offers ownership shares available for purchase by most investors. Thus, buying and selling stocks is relatively straightforward.
 
 ### Closed PT
 
-A closed PT is an LLC that offers only [private shares](https://www.investopedia.com/ask/answers/09/how-to-value-shares-in-private-company.asp) and restricts the sale of those shares to specific individuals or groups. This limitation is most common for family-owned and operated companies.
+A closed PT is an LLC that offers only [[private shares]](https://www.investopedia.com/ask/answers/09/how-to-value-shares-in-private-company.asp) and restricts the sale of those shares to specific individuals or groups. This limitation is most common for family-owned and operated companies.
 
 ### Domestic PT
 
@@ -57,11 +57,11 @@ An individual PT is an LLC with shares issued to and owned by only one person. T
 
 ### Foreign PT
 
-A foreign PT is an LLC that is [incorporated](https://www.investopedia.com/terms/i/incorporate.asp) in, and subject to, the laws of a foreign country. When an external company establishes a PT in Indonesia, the business is also subject to the laws and regulations of Indonesia.
+A foreign PT is an LLC that is [[incorporated]](https://www.investopedia.com/terms/i/incorporate.asp) in, and subject to, the laws of a foreign country. When an external company establishes a PT in Indonesia, the business is also subject to the laws and regulations of Indonesia.
 
 ### General Public PT
 
-A general public PT is an LLC that has a free-share type ownership system. Any entity may own shares of this type of company. The structure is similar to an open PT. However, shares of this type of company can also be listed on the [stock exchange](https://www.investopedia.com/terms/e/exchange.asp).
+A general public PT is an LLC that has a free-share type ownership system. Any entity may own shares of this type of company. The structure is similar to an open PT. However, shares of this type of company can also be listed on the [[stock exchange]](https://www.investopedia.com/terms/e/exchange.asp).
 
 ## Requirements for Perseroan Terbatas (PTs)
 
@@ -79,8 +79,8 @@ Below are some of the steps required to establish a PT and the length of time it
 
 ## Special Considerations
 
-Foreigners interested in starting or investing in an Indonesian business will need to navigate the country's complex rules regarding [foreign investment](https://www.investopedia.com/terms/f/foreign-investment.asp). While a PT is a legal form for foreigners to engage in business, setting up a foreign investment company in Indonesia can require a significant amount of time and expertise to comply with government regulations and receive final approval.
+Foreigners interested in starting or investing in an Indonesian business will need to navigate the country's complex rules regarding [[foreign investment]](https://www.investopedia.com/terms/f/foreign-investment.asp). While a PT is a legal form for foreigners to engage in business, setting up a foreign investment company in Indonesia can require a significant amount of time and expertise to comply with government regulations and receive final approval.
 
-Not all [sectors](https://www.investopedia.com/ask/answers/05/industrysector.asp) are open to foreign investment in Indonesia. Some sectors require partial domestic ownership, which means the foreign investor will need to work with a local partner if they want to form a PT.
+Not all [[sectors]](https://www.investopedia.com/ask/answers/05/industrysector.asp) are open to foreign investment in Indonesia. Some sectors require partial domestic ownership, which means the foreign investor will need to work with a local partner if they want to form a PT.
 
-In some cases, establishing a representative office might be a better option for a foreign investment company looking to do business in Indonesia. This allows the company to explore business opportunities through local networking and market research. After performing such [due diligence](https://www.investopedia.com/terms/d/duediligence.asp), the company will be better informed before taking the next step of forming a Perseroan Terbatas.
+In some cases, establishing a representative office might be a better option for a foreign investment company looking to do business in Indonesia. This allows the company to explore business opportunities through local networking and market research. After performing such [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp), the company will be better informed before taking the next step of forming a Perseroan Terbatas.

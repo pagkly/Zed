@@ -16,9 +16,9 @@ author: Jason Fernando
 What Is Reinvestment Risk?
 ## What Is Reinvestment Risk?
 
-Reinvestment risk refers to the possibility that an investor will be unable to reinvest cash flows received from an investment (e.g., [coupon payments](https://www.investopedia.com/terms/c/coupon.asp) or interest) at a rate comparable to their current rate of return. This new rate is called the [reinvestment rate](https://www.investopedia.com/terms/r/reinvestmentrate.asp).
+Reinvestment risk refers to the possibility that an investor will be unable to reinvest cash flows received from an investment (e.g., [[coupon payments]](https://www.investopedia.com/terms/c/coupon.asp) or interest) at a rate comparable to their current rate of return. This new rate is called the [[reinvestment rate]](https://www.investopedia.com/terms/r/reinvestmentrate.asp).
 
-[Zero-coupon bonds](https://www.investopedia.com/terms/z/zero-couponbond.asp) (Z-bonds) are the only type of [fixed-income security](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) to have no inherent investment risk since they issue no coupon payments throughout their lives.
+[Zero-coupon bonds](https://www.investopedia.com/terms/z/zero-couponbond.asp) (Z-bonds) are the only type of [[fixed-income security]](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) to have no inherent investment risk since they issue no coupon payments throughout their lives.
 
 ### Key Takeaways
 
@@ -28,21 +28,21 @@ Reinvestment risk refers to the possibility that an investor will be unable to r
 
 ## Understanding Reinvestment Risk
 
-Reinvestment risk is the likelihood that an investment's cash flows will earn less in a new security, creating an [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp). It is the potential that the investor will be unable to reinvest cash flows at a rate comparable to their current rate of return.
+Reinvestment risk is the likelihood that an investment's cash flows will earn less in a new security, creating an [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp). It is the potential that the investor will be unable to reinvest cash flows at a rate comparable to their current rate of return.
 
-For example, an investor buys a 10-year $100,000 [Treasury note](https://www.investopedia.com/terms/t/treasurynote.asp) with an interest rate of 6%. The investor expects to earn $6,000 per year from the security. However, at the end of the first year, interest rates fall to 4%. If the investor buys another bond with the $6,000 received, they would receive only $240 annually rather than $360. Moreover, if interest rates subsequently increase and they sell the note before its maturity date, they stand to lose part of the principal.
+For example, an investor buys a 10-year $100,000 [[Treasury note]](https://www.investopedia.com/terms/t/treasurynote.asp) with an interest rate of 6%. The investor expects to earn $6,000 per year from the security. However, at the end of the first year, interest rates fall to 4%. If the investor buys another bond with the $6,000 received, they would receive only $240 annually rather than $360. Moreover, if interest rates subsequently increase and they sell the note before its maturity date, they stand to lose part of the principal.
 
 In addition to fixed-income instruments such as bonds, reinvestment risk also affects other income-producing assets such as dividend-paying stocks.
 
-[Callable bonds](https://www.investopedia.com/terms/c/callablebond.asp) are especially vulnerable to reinvestment risk. This is because callable bonds are typically redeemed when interest rates begin to fall. Upon redeeming the bonds, the investor will receive the [face value](https://www.investopedia.com/terms/f/facevalue.asp), and the issuer has a new opportunity to borrow at a lower rate. If they are willing to reinvest, the investor will do so receiving a lower rate of interest.
+[Callable bonds](https://www.investopedia.com/terms/c/callablebond.asp) are especially vulnerable to reinvestment risk. This is because callable bonds are typically redeemed when interest rates begin to fall. Upon redeeming the bonds, the investor will receive the [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), and the issuer has a new opportunity to borrow at a lower rate. If they are willing to reinvest, the investor will do so receiving a lower rate of interest.
 
 ## Managing Reinvestment Risk
 
-Investors may reduce reinvestment risk by investing in [non-callable securities](https://www.investopedia.com/terms/n/noncallable.asp). Also, zero-coupon bonds may be purchased since they do not make regular interest payments. Investing in longer-term securities is also an option since cash becomes available less frequently and does not need to be reinvested often.
+Investors may reduce reinvestment risk by investing in [[non-callable securities]](https://www.investopedia.com/terms/n/noncallable.asp). Also, zero-coupon bonds may be purchased since they do not make regular interest payments. Investing in longer-term securities is also an option since cash becomes available less frequently and does not need to be reinvested often.
 
-A [bond ladder](https://www.investopedia.com/terms/b/bondladder.asp), a portfolio of fixed-income securities with varying maturity dates, may help mitigate reinvestment risk. Bonds maturing when interest rates are low may be offset by bonds maturing when rates are high. The same type of strategy can be employed with certificates of deposits ([CDs](https://www.investopedia.com/terms/c/certificateofdeposit.asp)). Investors can reduce reinvestment risk by holding bonds of different durations and by hedging their investments with [interest rate derivatives](https://www.investopedia.com/terms/i/interest-rate-derivative.asp).
+A [[bond ladder]](https://www.investopedia.com/terms/b/bondladder.asp), a portfolio of fixed-income securities with varying maturity dates, may help mitigate reinvestment risk. Bonds maturing when interest rates are low may be offset by bonds maturing when rates are high. The same type of strategy can be employed with certificates of deposits ([CDs](https://www.investopedia.com/terms/c/certificateofdeposit.asp)). Investors can reduce reinvestment risk by holding bonds of different durations and by hedging their investments with [interest rate derivatives](https://www.investopedia.com/terms/i/interest-rate-derivative.asp).
 
-Having a fund manager can help reduce reinvestment risk; therefore, some investors consider allocating money into [actively managed](https://www.investopedia.com/terms/a/activemanagement.asp) bond funds. However, because [bond yields](https://www.investopedia.com/terms/b/bond-yield.asp) fluctuate with the market, reinvestment risk still exists.
+Having a fund manager can help reduce reinvestment risk; therefore, some investors consider allocating money into [[actively managed]](https://www.investopedia.com/terms/a/activemanagement.asp) bond funds. However, because [[bond yields]](https://www.investopedia.com/terms/b/bond-yield.asp) fluctuate with the market, reinvestment risk still exists.
 
 ### Reinvested Coupon Payments
 
@@ -52,4 +52,4 @@ Reinvested coupon payments may subsequently account for up to 80% of a bond’s 
 
 ## Real World Example of Reinvestment Risk
 
-For example, Company A issues callable bonds with an 8% interest rate. Interest rates subsequently drop to 4%, presenting the company with an opportunity to borrow at a much lower rate. As a result, the company calls the bonds, pays each investor their share of principal and a small [call premium](https://www.investopedia.com/terms/c/callpremium.asp), and issues new callable bonds with a 4% interest rate. Investors may reinvest at the lower rate or seek other securities with higher interest rates.
+For example, Company A issues callable bonds with an 8% interest rate. Interest rates subsequently drop to 4%, presenting the company with an opportunity to borrow at a much lower rate. As a result, the company calls the bonds, pays each investor their share of principal and a small [[call premium]](https://www.investopedia.com/terms/c/callpremium.asp), and issues new callable bonds with a 4% interest rate. Investors may reinvest at the lower rate or seek other securities with higher interest rates.

@@ -16,7 +16,7 @@ author: Jason Fernando
 Weighted Average Remaining Term (WART) Definition
 ## What Is the Weighted Average Remaining Term (WART)?
 
-Weighted Average Remaining Term (WART) is a metric that captures the average time to maturity of a portfolio of [asset-backed securities (ABS)](https://www.investopedia.com/terms/a/asset-backedsecurity.asp). Also known as the weighted average maturity, WART is often used in relation to [mortgage-backed securities (MBS)](https://www.investopedia.com/terms/m/mbs.asp).
+Weighted Average Remaining Term (WART) is a metric that captures the average time to maturity of a portfolio of [[asset-backed securities (ABS)]](https://www.investopedia.com/terms/a/asset-backedsecurity.asp). Also known as the weighted average maturity, WART is often used in relation to [[mortgage-backed securities (MBS)]](https://www.investopedia.com/terms/m/mbs.asp).
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Weighted Average Remaining Term (WART) is a metric that captures the average tim
 
 ## How the WART Works
 
-The WART of a portfolio is a helpful metric because it helps investors understand whether the [time to maturity](https://www.investopedia.com/terms/m/maturitydate.asp) of the assets within the portfolio is relatively short or long. For instance, a MBS whose underlying mortgages are all very near to the end of their terms would have a low overall WART, while one with mortgages that have only recently been initiated would have a higher WART. Depending on their risk tolerances and sources of funding, some investors may prefer being exposed to investments with a particular time to maturity.
+The WART of a portfolio is a helpful metric because it helps investors understand whether the [[time to maturity]](https://www.investopedia.com/terms/m/maturitydate.asp) of the assets within the portfolio is relatively short or long. For instance, a MBS whose underlying mortgages are all very near to the end of their terms would have a low overall WART, while one with mortgages that have only recently been initiated would have a higher WART. Depending on their risk tolerances and sources of funding, some investors may prefer being exposed to investments with a particular time to maturity.
 
-To calculate the WART of a portfolio, the investor first adds together the outstanding balance of the [underlying assets](https://www.investopedia.com/terms/u/underlying.asp) and calculates the size of each asset in relation to that total. Then, the investor would weigh the remaining time to maturity of each asset by using each asset’s relative size. As a final step, they would then add up the weighted times to maturity of each asset to arrive at a WART for the entire portfolio.
+To calculate the WART of a portfolio, the investor first adds together the outstanding balance of the [[underlying assets]](https://www.investopedia.com/terms/u/underlying.asp) and calculates the size of each asset in relation to that total. Then, the investor would weigh the remaining time to maturity of each asset by using each asset’s relative size. As a final step, they would then add up the weighted times to maturity of each asset to arrive at a WART for the entire portfolio.
 
-WART is commonly used in the disclosure materials associated with MBS, such as those offered by [Freddie Mac](https://www.investopedia.com/terms/f/freddiemac.asp). In this context, WART serves not to compare two securities but to demonstrate the effects of external forces such as [prepayment](https://www.investopedia.com/articles/mortgages-real-estate/08/weighted-average-mbs.asp) on the WART of the security.  An investor considering a Freddie Mac security would consider these WART calculations when comparing it to an alternative investment or when seeking to construct a portfolio containing different WARTs.
+WART is commonly used in the disclosure materials associated with MBS, such as those offered by [[Freddie Mac]](https://www.investopedia.com/terms/f/freddiemac.asp). In this context, WART serves not to compare two securities but to demonstrate the effects of external forces such as [[prepayment]](https://www.investopedia.com/articles/mortgages-real-estate/08/weighted-average-mbs.asp) on the WART of the security.  An investor considering a Freddie Mac security would consider these WART calculations when comparing it to an alternative investment or when seeking to construct a portfolio containing different WARTs.
 
 ## Real World Example of a WART
 

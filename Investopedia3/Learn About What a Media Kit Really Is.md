@@ -16,13 +16,13 @@ author: Adam Barone
 Learn About What a Media Kit Really Is
 ## What Is a Media Kit?
 
-A media kit is a package of information, assembled by a company, to provide basic information about itself to reporters. The media kit is a promotional [public relations](https://www.investopedia.com/terms/p/public-relations-pr.asp) tool that can serve several functions, including promoting the launch of a new company, promoting the launch of a new product or service by an existing company, giving a company a way to present itself as it would like to be seen, and/or saving time, by eliminating the need for a company's employees to repeatedly answer the same questions.
+A media kit is a package of information, assembled by a company, to provide basic information about itself to reporters. The media kit is a promotional [[public relations]](https://www.investopedia.com/terms/p/public-relations-pr.asp) tool that can serve several functions, including promoting the launch of a new company, promoting the launch of a new product or service by an existing company, giving a company a way to present itself as it would like to be seen, and/or saving time, by eliminating the need for a company's employees to repeatedly answer the same questions.
 
 ## Building a Media Kit
 
 A media kit should address the publicity and communication needs of your specific type of business. A media kit should demonstrate your creativity and value while being informative and easily understood. It should convey everything outsiders needs to know about your business, packaged up and ready to introduce you to anyone. You should be proud of your media kit.
 
-A media kit can be as simple as a page on a company's website or as complex as a package of information and product samples sent to selected members of the media. The media kit commonly provides the company's official name; the names, titles and biographies of its most important people; information about the company's history and function; photos; and any [press releases](https://www.investopedia.com/terms/p/pressrelease.asp) the company has had written about itself. A media kit can also provide contact information for reporters, who seek additional information or want to interview someone at the company.
+A media kit can be as simple as a page on a company's website or as complex as a package of information and product samples sent to selected members of the media. The media kit commonly provides the company's official name; the names, titles and biographies of its most important people; information about the company's history and function; photos; and any [[press releases]](https://www.investopedia.com/terms/p/pressrelease.asp) the company has had written about itself. A media kit can also provide contact information for reporters, who seek additional information or want to interview someone at the company.
 
 ## Possible Components of a Media Kit
 

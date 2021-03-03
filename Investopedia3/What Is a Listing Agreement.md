@@ -17,7 +17,7 @@ Jean Folger
 What Is a Listing Agreement?
 ## What Is a Listing Agreement?
 
-A listing agreement is a contract under which a property owner (as principal) authorizes a real estate broker (as agent) to find a buyer for the property on the owner's terms, for which service [the owner pays a commission](https://www.investopedia.com/financial-edge/0611/understanding-real-estate-commissions-who-pays.aspx).
+A listing agreement is a contract under which a property owner (as principal) authorizes a real estate broker (as agent) to find a buyer for the property on the owner's terms, for which service [[the owner pays a commission]](https://www.investopedia.com/financial-edge/0611/understanding-real-estate-commissions-who-pays.aspx).
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ A listing agreement is a contract under which a property owner (as principal) au
 
 ## How a Listing Agreement Works
 
-A listing agreement authorizes the broker to represent the [seller](https://www.investopedia.com/terms/s/seller.asp) and their property to third parties. The listing agreement is an employment contract rather than a real estate contract: The broker is hired to represent the seller, but no property is transferred between the two.
+A listing agreement authorizes the broker to represent the [[seller]](https://www.investopedia.com/terms/s/seller.asp) and their property to third parties. The listing agreement is an employment contract rather than a real estate contract: The broker is hired to represent the seller, but no property is transferred between the two.
 
-Under the provisions of real estate license laws, [only a broker can act as an agent to list, sell, or rent](https://www.investopedia.com/ask/answers/101314/what-are-differences-among-real-estate-agent-broker-and-realtor.asp) another person's real estate. In most states, listing agreements must be written.
+Under the provisions of real estate license laws, [[only a broker can act as an agent to list, sell, or rent]](https://www.investopedia.com/ask/answers/101314/what-are-differences-among-real-estate-agent-broker-and-realtor.asp) another person's real estate. In most states, listing agreements must be written.
 
 Because the same considerations arise in almost all real estate transactions, most listing agreements require similar information, starting with a description of the property. The description typically includes a list of personal property that will be left with the property when it's sold, as well as a list of personal property the seller expects to remove (for example, appliances and window treatments).
 
@@ -53,4 +53,4 @@ An exclusive right-to-sell listing is the most commonly used contract. With this
 
 ## Listing Agreements in Financial Markets
 
-Less commonly, a listing agreement refers to a contract made between a security issuer (e.g., a [public company](https://www.investopedia.com/terms/p/publiccompany.asp)) and the financial [exchange](https://www.investopedia.com/terms/e/exchange.asp) that hosts the issue. Examples of exchanges include the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp), the Tokyo Stock Exchange (TSE), and the London Stock Exchange (LSE).
+Less commonly, a listing agreement refers to a contract made between a security issuer (e.g., a [[public company]](https://www.investopedia.com/terms/p/publiccompany.asp)) and the financial [[exchange]](https://www.investopedia.com/terms/e/exchange.asp) that hosts the issue. Examples of exchanges include the [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp), the Tokyo Stock Exchange (TSE), and the London Stock Exchange (LSE).

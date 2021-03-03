@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is Keep and Pay?
 ## What Is Keep and Pay?
 
-Keep and pay refers to a type of [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) exemption. It lets a person keep an [asset](https://www.investopedia.com/terms/a/asset.asp) such as a house or car, provided that the individual continues to make payments.
+Keep and pay refers to a type of [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) exemption. It lets a person keep an [[asset]](https://www.investopedia.com/terms/a/asset.asp) such as a house or car, provided that the individual continues to make payments.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Keep and pay is a bankruptcy strategy in which an individual who wants to keep a
 
 All exemptions in bankruptcy refer to assets the filer gets to retain. All other property that is nonexempt can be liquidated by the court to help settle the filer's outstanding debts.
 
-Keep and pay prevents people from having a particular asset repossessed and possibly [liquidated](https://www.investopedia.com/terms/l/liquidate.asp), but it sometimes requires them to file an official statement with the bankruptcy court that shows they have a plan to pay for the asset going forward. Typically, this plan must also get the approval of the affected creditor.
+Keep and pay prevents people from having a particular asset repossessed and possibly [[liquidated]](https://www.investopedia.com/terms/l/liquidate.asp), but it sometimes requires them to file an official statement with the bankruptcy court that shows they have a plan to pay for the asset going forward. Typically, this plan must also get the approval of the affected creditor.
 
 ## How Keep and Pay Works
 
@@ -38,7 +38,7 @@ Generally, creditors are open to keep and pay plans if it appears likely they wi
 
 For example, say a person files bankruptcy and owes a substantial amount on a home. The bank can eventually sell the property to recoup the remaining amount owed on the mortgage, but it could take time and considerable effort, and thus, added cost. If that seems likely, it could be advantageous for the bank to take the chance of getting repaid under a Keep-and-Pay agreement.
 
-For each asset in a [Chapter 7 bankruptcy](https://www.investopedia.com/terms/c/chapter7.asp), for example, the filer typically is asked what they want to do with each valuable piece of property, including whether they wish to surrender it, retain and redeem it, keep it and pay what is owed over time, or do something else with it.1
+For each asset in a [[Chapter 7 bankruptcy]](https://www.investopedia.com/terms/c/chapter7.asp), for example, the filer typically is asked what they want to do with each valuable piece of property, including whether they wish to surrender it, retain and redeem it, keep it and pay what is owed over time, or do something else with it.1
 
 For this reason, the person filing can request to keep and pay for particular items. The court won’t always agree to such a request, however, many courts try to follow the filer’s wishes if they are made in good faith. Others have guidelines on what to do with assets based on the type of asset, its value, and the remaining amount owed.
 

@@ -20,7 +20,7 @@ A life estate is property that an individual owns only through the duration of t
 
 ## Understanding Life Estate
 
-A life estate is the vehicle by which the property owner, or the [grantor](https://www.investopedia.com/terms/g/grantor.asp), transfers legal ownership to another person or the life tenant. In many cases, the grantor and the life tenant are the same people, but not always. Typically, the deed will state that the occupant of the property is allowed to use it for the duration of their life. Almost all deeds creating a life estate will also name a remainderman, the person or persons who get the property when the life tenant dies. 
+A life estate is the vehicle by which the property owner, or the [[grantor]](https://www.investopedia.com/terms/g/grantor.asp), transfers legal ownership to another person or the life tenant. In many cases, the grantor and the life tenant are the same people, but not always. Typically, the deed will state that the occupant of the property is allowed to use it for the duration of their life. Almost all deeds creating a life estate will also name a remainderman, the person or persons who get the property when the life tenant dies. 
 
 ### Key Takeaways
 
@@ -36,8 +36,8 @@ One complicating factor to life estate deeds, especially in real estate dealings
 
 ## Creating Life Estates
 
-People who believe their beneficiary could benefit more from the income from the estate than a [lump-sum inheritance](https://www.investopedia.com/terms/l/lumpsumdistribution.asp) often create life estates. Many times, such estates are invested in various income-producing instruments, such as bonds, CDs, oil and gas leases, REITs, and other similar investments.
+People who believe their beneficiary could benefit more from the income from the estate than a [[lump-sum inheritance]](https://www.investopedia.com/terms/l/lumpsumdistribution.asp) often create life estates. Many times, such estates are invested in various income-producing instruments, such as bonds, CDs, oil and gas leases, REITs, and other similar investments.
 
 However, should the life tenant want to sell or mortgage the property prior to death, the remainderman would have to consent to agree and sign off. As part of the transaction, the remainderman could demand a portion of the proceeds based on a predetermined scale reflective of the life tenant’s age and current interest rates. Typically, the older the life tenant, the greater the share that the remainderman can expect to receive.
 
-Notable, too, is that any legal problems that a remainderman incurs may affect the life tenant as well. For example, if a child is sued or owes taxes, a [lien](https://www.investopedia.com/terms/l/lien.asp) could be filed against their parent’s home if a life estate has been established between the two.
+Notable, too, is that any legal problems that a remainderman incurs may affect the life tenant as well. For example, if a child is sued or owes taxes, a [[lien]](https://www.investopedia.com/terms/l/lien.asp) could be filed against their parent’s home if a life estate has been established between the two.

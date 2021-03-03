@@ -30,7 +30,7 @@ Marketing professionals try to influence consumers' perceived value of a product
 
 Perceived value comes down to the price the public is willing to pay for a good or service. Even a snap decision made in a store aisle involves an analysis of a product's ability to fulfill a need and provide satisfaction compared to other products under different brand names.
 
-The work of the [marketing](https://www.investopedia.com/terms/m/marketing.asp) professional is to enhance the perceived value of the brand they are selling.
+The work of the [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) professional is to enhance the perceived value of the brand they are selling.
 
 The pricing of products takes perceived value into consideration. In some cases, the price of a product or service may have more to do with its emotional appeal than with the actual cost of production.
 
@@ -42,7 +42,7 @@ Marketers who want to influence the perceived value of a product define its attr
 
 There are five types of utilities that companies aim to create through marketing campaigns for products:
 
--   Form utility is the aesthetic appeal of the physical [design of a product](https://www.investopedia.com/ask/answers/042815/what-difference-between-research-and-development-and-product-development.asp). Even a utilitarian product like a frying pan can increase in perceived value because of its appealing design.
+-   Form utility is the aesthetic appeal of the physical [[design of a product]](https://www.investopedia.com/ask/answers/042815/what-difference-between-research-and-development-and-product-development.asp). Even a utilitarian product like a frying pan can increase in perceived value because of its appealing design.
 -   Task utility is the value attached to a service that saves the customer time, effort, or money. Car detailing shops and laundry services offer utility value.
 -   Time utility refers to the ease of access to a service or product, such as 24-hour service compared to 9-to-5 hours.
 -   Place utility is the convenience of the location, like a fast-food outlet that's around the corner compared to a restaurant that's 20 miles away.
@@ -50,7 +50,7 @@ There are five types of utilities that companies aim to create through marketing
 
 ## Special Considerations of Perceived Value
 
-A company's [brand](https://www.investopedia.com/articles/financial-theory/11/branding-ultimate-economic-moat.asp) is meant to communicate a set of expectations associated with its products or services. That's why a well-established brand can command a higher price than its generic equivalents. Advil and Motrin both contain ibuprofen, but both brands are priced higher than generic ibuprofen.
+A company's [[brand]](https://www.investopedia.com/articles/financial-theory/11/branding-ultimate-economic-moat.asp) is meant to communicate a set of expectations associated with its products or services. That's why a well-established brand can command a higher price than its generic equivalents. Advil and Motrin both contain ibuprofen, but both brands are priced higher than generic ibuprofen.
 
 Luxury goods, however, carry the perception of value to another level with the addition of prestige. The highest value of luxury goods is not associated with their utility but with the prestige that owning and using it entails. The perceived value of a Rolex watch is not based on its functionality but with its image as a mark of personal success and refined taste.
 

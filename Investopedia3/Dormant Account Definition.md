@@ -30,7 +30,7 @@ Accounts that can become dormant include checking and savings accounts, brokerag
 
 To become dormant, the owner of an account must not have initiated any activity for a specific period of time. An activity can include contacting a financial institution by phone or Internet, logging into the account, or making a withdrawal or deposit. Periodic interest or dividends that are posted automatically on funds at checking, savings, or brokerage accounts are not considered to be activity.
 
-After an account has no activity for a specific period of time, state law considers it to be a dormant account. Financial institutions are required by state laws to make an attempt to contact owners of dormant accounts using the most recent contact information by mail. A [statute of limitations](https://www.investopedia.com/terms/s/statute-of-limitations.asp) usually does not apply to dormant accounts, meaning that funds can be claimed by the owner or beneficiary at any time.
+After an account has no activity for a specific period of time, state law considers it to be a dormant account. Financial institutions are required by state laws to make an attempt to contact owners of dormant accounts using the most recent contact information by mail. A [[statute of limitations]](https://www.investopedia.com/terms/s/statute-of-limitations.asp) usually does not apply to dormant accounts, meaning that funds can be claimed by the owner or beneficiary at any time.
 
 If an attempt to find the owner is unsuccessful, resources in dormant accounts become unclaimed property and must be transferred to the state's treasury department.
 
@@ -38,7 +38,7 @@ In California, for example, checking, savings and brokerage accounts must see no
 
 ## The Escheatment Process of Dormant Accounts
 
-States have enacted [escheatment](https://www.investopedia.com/terms/e/escheat.asp) statutes that govern the process of transferring unclaimed funds to the state and protect the unclaimed funds from being reverted back to financial institutions.
+States have enacted [[escheatment]](https://www.investopedia.com/terms/e/escheat.asp) statutes that govern the process of transferring unclaimed funds to the state and protect the unclaimed funds from being reverted back to financial institutions.
 
 Escheatment state laws require companies to transfer unclaimed property from dormant accounts to the general fund of a state for safekeeping. The state takes over record-keeping and the returning of lost or forgotten property to owners or their heirs if the owner has passed away.
 

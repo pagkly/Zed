@@ -16,17 +16,17 @@ author: Troy Segal
 Is It Worth Paying a Front-End Load for a Fund?
 ## What Is a Front-End Load?
 
-A front-end load is a [commission](https://www.investopedia.com/terms/c/commission.asp) or sales charge applied at the time of the initial purchase of an investment. The term most often applies to [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) investments, but may also apply to insurance policies or annuities. The front-end load is deducted from the initial deposit, or purchase funds and, as a result, lowers the amount of money actually going into the investment product.
+A front-end load is a [[commission]](https://www.investopedia.com/terms/c/commission.asp) or sales charge applied at the time of the initial purchase of an investment. The term most often applies to [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) investments, but may also apply to insurance policies or annuities. The front-end load is deducted from the initial deposit, or purchase funds and, as a result, lowers the amount of money actually going into the investment product.
 
-Front-end loads are paid to [financial intermediaries](https://www.investopedia.com/terms/f/financialintermediary.asp) as compensation for finding and selling the investment which best matches the needs, goals, and risk tolerance of their clients. So these are one-time charges, not part of the investment's ongoing operating expenses.
+Front-end loads are paid to [[financial intermediaries]](https://www.investopedia.com/terms/f/financialintermediary.asp) as compensation for finding and selling the investment which best matches the needs, goals, and risk tolerance of their clients. So these are one-time charges, not part of the investment's ongoing operating expenses.
 
 The opposite of a front-end load is a back-end load, which is paid by deducting it from profits or principal when the investor sells the investment. There are also other types of fund loading, including level loads, which charge an ongoing annual fee.
 
 ## The Basics of Front-End Loads
 
-Front-end loads are assessed as a percentage of the total investment or premium paid into a mutual fund, annuity, or life insurance contract. The percentage paid for the front-end load varies among investment companies but typically falls within a range of 3.75% to 5.75%. Lower front-end loads are found in [bond](https://www.investopedia.com/terms/b/bond.asp) mutual funds, annuities, and life insurance policies. Higher sales charges are assessed for equity-based mutual funds.
+Front-end loads are assessed as a percentage of the total investment or premium paid into a mutual fund, annuity, or life insurance contract. The percentage paid for the front-end load varies among investment companies but typically falls within a range of 3.75% to 5.75%. Lower front-end loads are found in [[bond]](https://www.investopedia.com/terms/b/bond.asp) mutual funds, annuities, and life insurance policies. Higher sales charges are assessed for equity-based mutual funds.
 
-Mutual funds that carry front-end loads are called [load funds](https://www.investopedia.com/terms/l/loadfund.asp). Whether an investor pays a front-end load depends on the type of shares in the fund that he owes. Class-A shares, also known as A-shares, typically carry a front-end load. Generally, the sales charge on a load mutual fund is waived if such a fund is included as an investment option in a retirement plan such as a 401(k).
+Mutual funds that carry front-end loads are called [[load funds]](https://www.investopedia.com/terms/l/loadfund.asp). Whether an investor pays a front-end load depends on the type of shares in the fund that he owes. Class-A shares, also known as A-shares, typically carry a front-end load. Generally, the sales charge on a load mutual fund is waived if such a fund is included as an investment option in a retirement plan such as a 401(k).
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Mutual funds that carry front-end loads are called [load funds](https://www.inve
 
 ## How Front-End Load Compensation Works
 
-When mutual fund investments and annuities were first introduced to the market, investors were only able to access them through licensed brokers, [investment advisors,](https://www.investopedia.com/terms/f/financial-advisor.asp) or financial planners. The front-end load concept arose out of an effort to provide compensation for these go-betweens—and of course, to encourage them to put clients into a particular product.
+When mutual fund investments and annuities were first introduced to the market, investors were only able to access them through licensed brokers, [[investment advisors,]](https://www.investopedia.com/terms/f/financial-advisor.asp) or financial planners. The front-end load concept arose out of an effort to provide compensation for these go-betweens—and of course, to encourage them to put clients into a particular product.
 
 Nowadays, individuals can often purchase products directly from the mutual fund company or insurance company. The lion's share of the contemporary front-end load goes to the investment company or insurance carrier that sponsors the product. The remaining portion is paid to the investment advisor or broker who facilitates the trade.
 
@@ -72,10 +72,10 @@ Cons
 
 On the downside, since front-end loads are taken out of your original investment, less of your money is going to work for you. Given the benefits of compounding, less money at the outset has an impact on the way your money grows. Over the long-term, it may not matter, but front-end-loaded funds are not optimal if you have a short investment horizon; you won't have a chance to recoup the sales charge through realizing earnings over time.
 
-Also, given the plethora of [no-load mutual funds](https://www.investopedia.com/terms/n/no-loadfund.asp) available currently, some financial advisors argue that no one should be paying any sales charges—front, back, or ongoing.
+Also, given the plethora of [[no-load mutual funds]](https://www.investopedia.com/terms/n/no-loadfund.asp) available currently, some financial advisors argue that no one should be paying any sales charges—front, back, or ongoing.
 
 ## Real-World Example
 
 Many companies offer mutual funds with varying loads to meet the investing style of any investor. American Funds Growth Fund of America (AGTHX) is an example of a mutual fund that carries a front-end load.
 
-To illustrate how the load works let's say an investor invests $10,000 in the AGTHX fund. They will pay a front-end load of 5.75%, or $575. The remaining $9,425 is used to purchase shares of the mutual fund at the current share [net asset value](https://www.investopedia.com/terms/n/nav.asp) (NAV) price.
+To illustrate how the load works let's say an investor invests $10,000 in the AGTHX fund. They will pay a front-end load of 5.75%, or $575. The remaining $9,425 is used to purchase shares of the mutual fund at the current share [[net asset value]](https://www.investopedia.com/terms/n/nav.asp) (NAV) price.

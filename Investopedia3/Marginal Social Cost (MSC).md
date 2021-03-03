@@ -16,7 +16,7 @@ author: Will Kenton
 Marginal Social Cost (MSC)
 ## What Does Marginal Social Cost Mean?
 
-Marginal social cost (MSC) is the total cost society pays for the production of another unit or for taking further action in the economy. The total cost of the production of an additional unit of something is not merely the [direct cost](https://www.investopedia.com/terms/d/directcost.asp) undertaken by the producer but also includes costs to other stakeholders and the environment as a whole. MSC is calculated as:
+Marginal social cost (MSC) is the total cost society pays for the production of another unit or for taking further action in the economy. The total cost of the production of an additional unit of something is not merely the [[direct cost]](https://www.investopedia.com/terms/d/directcost.asp) undertaken by the producer but also includes costs to other stakeholders and the environment as a whole. MSC is calculated as:
 
 Marginal Social Cost\=MPC+MECwhere:MPC\=marginal private costMEC\=marginal external cost (positive or negative)\\begin{aligned} &\\text{Marginal Social Cost} = \\text{MPC} + \\text{MEC} \\\\ &\\textbf{where:} \\\\ &\\text{MPC} = \\text{marginal private cost} \\\\ &\\text{MEC} = \\text{marginal external cost (positive or negative)} \\\\ \\end{aligned}
 
@@ -26,7 +26,7 @@ Marginal social cost reflects the impact that an economy feels from the producti
 
 ## Marginal Social Cost Example
 
-Consider, for example, the pollution of a town’s river by a nearby coal plant. If the plant’s marginal social costs are higher than the plant’s marginal private costs, the marginal external cost is positive and results in a negative [externality](https://www.investopedia.com/terms/e/externality.asp), meaning it produces a negative effect on the environment. The cost of the energy that is produced by the plant involves more than the rate that the company charges because the surrounding environment — the town — must bear the cost of the polluted river. This negative aspect must be factored in if a company strives to maintain the integrity of [social responsibility](https://www.investopedia.com/terms/s/socialresponsibility.asp) or its responsibility to benefit the environment around it and society in general.
+Consider, for example, the pollution of a town’s river by a nearby coal plant. If the plant’s marginal social costs are higher than the plant’s marginal private costs, the marginal external cost is positive and results in a negative [[externality]](https://www.investopedia.com/terms/e/externality.asp), meaning it produces a negative effect on the environment. The cost of the energy that is produced by the plant involves more than the rate that the company charges because the surrounding environment — the town — must bear the cost of the polluted river. This negative aspect must be factored in if a company strives to maintain the integrity of [[social responsibility]](https://www.investopedia.com/terms/s/socialresponsibility.asp) or its responsibility to benefit the environment around it and society in general.
 
 ## Costs of Marginal Social Cost
 
@@ -40,4 +40,4 @@ The importance with marginal social cost, then, is that the principle can be use
 
 ## Related Concepts
 
-Marginal social cost is related to [marginalism](https://www.investopedia.com/terms/m/marginalism.asp), a concept that works to determine the amount of extra use derived from the production of one additional unit. The effects of the extra units on supply and demand are also studied. Marginal social cost can also be compared to the [marginal benefit](https://www.investopedia.com/terms/m/marginalbenefit.asp), the principle that determines the amount that consumers will give up to gain one extra unit.
+Marginal social cost is related to [[marginalism]](https://www.investopedia.com/terms/m/marginalism.asp), a concept that works to determine the amount of extra use derived from the production of one additional unit. The effects of the extra units on supply and demand are also studied. Marginal social cost can also be compared to the [[marginal benefit]](https://www.investopedia.com/terms/m/marginalbenefit.asp), the principle that determines the amount that consumers will give up to gain one extra unit.

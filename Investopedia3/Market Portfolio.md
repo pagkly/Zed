@@ -16,13 +16,13 @@ author: James Chen
 Market Portfolio
 ## What is a Market Portfolio?
 
-A market portfolio is a theoretical bundle of investments that includes every type of asset available in the investment universe, with each asset weighted in proportion to its total presence in the market. The [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) of a market portfolio is identical to the expected return of the market as a whole.
+A market portfolio is a theoretical bundle of investments that includes every type of asset available in the investment universe, with each asset weighted in proportion to its total presence in the market. The [[expected return]](https://www.investopedia.com/terms/e/expectedreturn.asp) of a market portfolio is identical to the expected return of the market as a whole.
 
 ## The Basics of Market Portfolio
 
-A market portfolio, by nature of being completely diversified, is subject only to [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp), or risk that affects the market as a whole, and not to [unsystematic risk](https://www.investopedia.com/terms/u/unsystematicrisk.asp), which is the risk inherent to a particular asset class.
+A market portfolio, by nature of being completely diversified, is subject only to [[systematic risk]](https://www.investopedia.com/terms/s/systematicrisk.asp), or risk that affects the market as a whole, and not to [[unsystematic risk]](https://www.investopedia.com/terms/u/unsystematicrisk.asp), which is the risk inherent to a particular asset class.
 
-As a simple example of a theoretical market portfolio, assume three companies exist in the stock market: Company A, Company B, and Company C. The market [capitalization](https://www.investopedia.com/terms/c/capitalization.asp) of Company A is $2 billion, the market capitalization of Company B is $5 billion, and the market capitalization of Company C is $13 billion. Thus, the total market capitalization comes to $20 billion. The market portfolio consists of each of these companies, which are weighed in the portfolio as follows:
+As a simple example of a theoretical market portfolio, assume three companies exist in the stock market: Company A, Company B, and Company C. The market [[capitalization]](https://www.investopedia.com/terms/c/capitalization.asp) of Company A is $2 billion, the market capitalization of Company B is $5 billion, and the market capitalization of Company C is $13 billion. Thus, the total market capitalization comes to $20 billion. The market portfolio consists of each of these companies, which are weighed in the portfolio as follows:
 
 Company A portfolio weight = $2 billion / $20 billion = 10%
 
@@ -38,7 +38,7 @@ Company C portfolio weight = $13 billion / $20 billion = 65%
 
 ## The Market Portfolio in the Capital Asset Pricing Model
 
-The market portfolio is an essential component of the [capital asset pricing model (CAPM)](https://www.investopedia.com/terms/c/capm.asp). Widely used for pricing assets, especially equities, the CAPM shows what an asset's expected return should be based on its amount of systematic risk. The relationship between these two items is expressed in an equation called the [security market line](https://www.investopedia.com/terms/s/sml.asp). The equation for the security market line is:
+The market portfolio is an essential component of the [[capital asset pricing model (CAPM)]](https://www.investopedia.com/terms/c/capm.asp). Widely used for pricing assets, especially equities, the CAPM shows what an asset's expected return should be based on its amount of systematic risk. The relationship between these two items is expressed in an equation called the [[security market line]](https://www.investopedia.com/terms/s/sml.asp). The equation for the security market line is:
 
 R\=Rf+βc(Rm−Rf)where: R\=Expected returnRf\=Risk-free rateβc\=Beta of asset in question versus the market portfolioRm\=Expected return of the market portfolio\\begin{aligned} &R = R\_f + \\beta\_c ( R\_m - R\_f ) \\\\ &\\textbf{where:} \\\\\\ &R = \\text{Expected return} \\\\ &R\_f = \\text{Risk-free rate} \\\\ &\\beta\_c = \\text{Beta of asset in question versus the market portfolio} \\\\ &R\_m = \\text{Expected return of the market portfolio} \\\\ \\end{aligned}
 

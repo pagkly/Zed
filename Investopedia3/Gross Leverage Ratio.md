@@ -16,7 +16,7 @@ author: Julia Kagan
 Gross Leverage Ratio
 ## What Is the Gross Leverage Ratio?
 
-The gross leverage ratio is the sum of an insurance company’s [net premiums written](https://www.investopedia.com/terms/n/net-premiums-written.asp) ratio, net liability ratio, and [ceded reinsurance ratio](https://www.investopedia.com/terms/c/ceded-reinsurance-leverage.asp). The gross leverage ratio is used to determine how exposed an insurer is to pricing and estimation errors, as well as its exposure to reinsurance companies.
+The gross leverage ratio is the sum of an insurance company’s [[net premiums written]](https://www.investopedia.com/terms/n/net-premiums-written.asp) ratio, net liability ratio, and [[ceded reinsurance ratio]](https://www.investopedia.com/terms/c/ceded-reinsurance-leverage.asp). The gross leverage ratio is used to determine how exposed an insurer is to pricing and estimation errors, as well as its exposure to reinsurance companies.
 
 ### KEY TAKEAWAYS
 
@@ -27,15 +27,15 @@ The gross leverage ratio is the sum of an insurance company’s [net premiums wr
 
 ## Understanding the Gross Leverage Ratio
 
-The ideal gross leverage ratio depends on what type of insurance a company is underwriting. However, the desired range typically falls below 5.0 for property insurers and 7.0 for liability insurers. An insurer's gross leverage will usually be higher than its net leverage because the gross leverage ratio includes ceded reinsurance leverage. Other insurance leverage ratios include net leverage, [reinsurance recoverables](https://www.investopedia.com/terms/r/reinsurance-recoverables.asp) to policyholders’ surplus, and Best’s Capital Adequacy Ratio (BCAR).
+The ideal gross leverage ratio depends on what type of insurance a company is underwriting. However, the desired range typically falls below 5.0 for property insurers and 7.0 for liability insurers. An insurer's gross leverage will usually be higher than its net leverage because the gross leverage ratio includes ceded reinsurance leverage. Other insurance leverage ratios include net leverage, [[reinsurance recoverables]](https://www.investopedia.com/terms/r/reinsurance-recoverables.asp) to policyholders’ surplus, and Best’s Capital Adequacy Ratio (BCAR).
 
 The gross leverage ratio can sometimes make an insurer's situation look more dangerous than it actually is because of the inclusion of ceded reinsurance.
 
-An insurance company has to balance two primary goals. It must invest the premiums it receives from [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) activities to return a profit and limit the risk exposure created by the policies that it underwrites. Insurers may cede premiums to reinsurance companies to move some of the risks off their books.
+An insurance company has to balance two primary goals. It must invest the premiums it receives from [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) activities to return a profit and limit the risk exposure created by the policies that it underwrites. Insurers may cede premiums to reinsurance companies to move some of the risks off their books.
 
 Credit rating agencies typically look at several different financial ratios when determining the health of an insurance company. These ratios are created through an examination of the insurer's balance sheet. The gross leverage ratio is just one type of leverage ratio. There are several financial measurements for analyzing the ability of a company to meet its financial obligations. Leverage ratios are important because companies rely on a mixture of equity and debt to finance their operations. Knowing the amount of debt held by a company is useful in evaluating whether it can make payments as they come due.
 
-Insurers may set a target for an acceptable gross leverage ratio, similar to how a [central bank](https://www.investopedia.com/terms/c/centralbank.asp) may set an interest rate target. An insurer may accept a higher gross leverage ratio in some situations, such as when it uses debt to acquire another company.
+Insurers may set a target for an acceptable gross leverage ratio, similar to how a [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) may set an interest rate target. An insurer may accept a higher gross leverage ratio in some situations, such as when it uses debt to acquire another company.
 
 ## Gross Leverage Ratio vs. Net Leverage Ratio
 
@@ -45,7 +45,7 @@ The gross leverage ratio is defined as the net premiums written ratio plus the n
 
 We need only three pieces of data to compute the gross leverage ratio. They are premiums written, net liabilities, and policyholders’ surplus. However, the gross leverage ratio often overestimates liability. Most insurers rely on larger firms or groups of firms for reinsurance in case of disasters.
 
-For example, a company that sells [homeowners insurance](https://www.investopedia.com/terms/h/homeowners-insurance.asp) in a particular area might cede some of their premiums to protect themselves if the area is flooded. You may even notice "flood damage" as an optional extra item on your homeowners insurance policy. When you select this option, the additional premium for flood damage may ultimately go to a separate reinsurance company. This ceded reinsurance is not usually part of an insurer's exposure.
+For example, a company that sells [[homeowners insurance]](https://www.investopedia.com/terms/h/homeowners-insurance.asp) in a particular area might cede some of their premiums to protect themselves if the area is flooded. You may even notice "flood damage" as an optional extra item on your homeowners insurance policy. When you select this option, the additional premium for flood damage may ultimately go to a separate reinsurance company. This ceded reinsurance is not usually part of an insurer's exposure.
 
 Ceded reinsurance involves agreements between large companies, so it can be difficult to determine in some cases. Once we have it, we can subtract ceded reinsurance from premiums written to determine net premiums written. The net leverage ratio is equal to the net premiums written ratio plus the net liability ratio. It can also be expressed as (net premiums written / policyholders’ surplus) + (net liabilities / policyholders’ surplus) or (net premiums written + net liabilities) / (policyholders’ surplus).
 

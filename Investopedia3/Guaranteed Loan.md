@@ -16,7 +16,7 @@ author: Julia Kagan
 Guaranteed Loan
 ## What Is a Guaranteed Loan?
 
-A guaranteed loan is a loan that a third party guarantees—or assumes the debt obligation for—in the event that the borrower [defaults](https://www.investopedia.com/terms/d/default2.asp). Sometimes, a guaranteed loan is guaranteed by a government agency, which will purchase the debt from the lending financial institution and take on responsibility for the loan.
+A guaranteed loan is a loan that a third party guarantees—or assumes the debt obligation for—in the event that the borrower [[defaults]](https://www.investopedia.com/terms/d/default2.asp). Sometimes, a guaranteed loan is guaranteed by a government agency, which will purchase the debt from the lending financial institution and take on responsibility for the loan.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ There are a variety of guaranteed loans. Some are safe and reliable ways to rais
 
 One example of a guaranteed loan is a guaranteed mortgage. The third-party guaranteeing these home loans in most instances is the Federal Housing Administration (FHA) or Department of Veterans Affairs (VA).
 
-Homebuyers who are considered risky borrowers—they don't qualify for a [conventional mortgage](https://www.investopedia.com/terms/c/conventionalmortgage.asp), for example, or they don't have an adequate down payment and have to borrow close to 100% of the home's value – may get a guaranteed mortgage. FHA loans require that borrowers pay mortgage insurance to protect the lender in case the borrower defaults on their home loan.
+Homebuyers who are considered risky borrowers—they don't qualify for a [[conventional mortgage]](https://www.investopedia.com/terms/c/conventionalmortgage.asp), for example, or they don't have an adequate down payment and have to borrow close to 100% of the home's value – may get a guaranteed mortgage. FHA loans require that borrowers pay mortgage insurance to protect the lender in case the borrower defaults on their home loan.
 
 ### Federal Student Loans
 
@@ -49,8 +49,8 @@ Payday guaranteed loans often ensnare borrowers in a cycle of debt with interest
 
 ### Payday Loans
 
-The third type of guaranteed loan is a [payday loan](https://www.investopedia.com/terms/p/payday-loans.asp). When someone takes out a payday loan, their paycheck plays the role of the third party that guarantees the loan. A lending organization gives the borrower a loan, and the borrower writes the lender a post-dated check that the lender then cashes on that date – typically two weeks later. Sometimes lenders will require electronic access to a borrower's account to pull out funds, but it's best not to sign onto a guaranteed loan under those circumstances, especially if the lender isn't a traditional bank.
+The third type of guaranteed loan is a [[payday loan]](https://www.investopedia.com/terms/p/payday-loans.asp). When someone takes out a payday loan, their paycheck plays the role of the third party that guarantees the loan. A lending organization gives the borrower a loan, and the borrower writes the lender a post-dated check that the lender then cashes on that date – typically two weeks later. Sometimes lenders will require electronic access to a borrower's account to pull out funds, but it's best not to sign onto a guaranteed loan under those circumstances, especially if the lender isn't a traditional bank.
 
 The problem with payday loans is that they tend to create a cycle of debt, which can cause additional problems for people who are already in tough financial straits. This can happen when a borrower doesn't have the funds to repay their loan at the end of the typical two-week term. In such a scenario, the loan rolls into another loan with a whole new round of fees. Interest rates can be as high as 400% or more – and lenders typically charge the highest rates allowed under local laws. Some unscrupulous lenders may even attempt to cash a borrower's check before the post date, which creates the risk of overdraft.
 
-[Alternatives to payday guaranteed loans](https://www.investopedia.com/articles/personal-finance/111714/8-alternatives-credit-card-cash-advance.asp) include [unsecured personal loans](https://www.investopedia.com/articles/personal-finance/010516/how-apply-personal-loan.asp), which are available through local banks or online, credit card cash advances (you can save considerable money over payday loans [even with rates on advances as high as 30%](https://www.investopedia.com/ask/answers/111414/how-does-interest-work-cash-advance-my-credit-card.asp)) or borrowing from a family member.
+[Alternatives to payday guaranteed loans](https://www.investopedia.com/articles/personal-finance/111714/8-alternatives-credit-card-cash-advance.asp) include [[unsecured personal loans]](https://www.investopedia.com/articles/personal-finance/010516/how-apply-personal-loan.asp), which are available through local banks or online, credit card cash advances (you can save considerable money over payday loans [even with rates on advances as high as 30%](https://www.investopedia.com/ask/answers/111414/how-does-interest-work-cash-advance-my-credit-card.asp)) or borrowing from a family member.

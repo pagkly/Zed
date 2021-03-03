@@ -16,7 +16,7 @@ author: Adam Hayes
 How Merchandising Works
 ## What Is Merchandising?
 
-Merchandising is the promotion of goods and/or services that are available for [retail sale](https://www.investopedia.com/terms/r/retail-sales.asp). Merchandising includes the determination of quantities, setting prices for goods and services, creating display designs, developing marketing strategies, and establishing discounts or coupons. More broadly, merchandising may refer to retail sales itself: the provision of goods to end-user consumers.
+Merchandising is the promotion of goods and/or services that are available for [[retail sale]](https://www.investopedia.com/terms/r/retail-sales.asp). Merchandising includes the determination of quantities, setting prices for goods and services, creating display designs, developing marketing strategies, and establishing discounts or coupons. More broadly, merchandising may refer to retail sales itself: the provision of goods to end-user consumers.
 
 ### Key Takeaway
 
@@ -24,7 +24,7 @@ Merchandising is the promotion of goods and/or services that are available for [
 -   Merchandising, more narrowly, may refer to the marketing, promotion, and advertising of products intended for retail sale.
 -   Technology is changing the face of merchandising, with electronic point-of-sale terminals to targeted and personalized mobile ads.
 
-Cycles of merchandising are specific to cultures and climates. These cycles may accommodate school schedules and incorporate regional and [seasonal](https://www.investopedia.com/terms/s/seasonal-industry.asp) holidays, as well as the predicted impact of weather.
+Cycles of merchandising are specific to cultures and climates. These cycles may accommodate school schedules and incorporate regional and [[seasonal]](https://www.investopedia.com/terms/s/seasonal-industry.asp) holidays, as well as the predicted impact of weather.
 
 ## How Merchandising Works
 
@@ -58,4 +58,4 @@ Because consumer savvy is broadening, and technology is playing such a massive r
 
 ## Merchandising Company vs. Service Company
 
-As the name suggests, a merchandising company engages in the [sale of tangible goods](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp) to consumers. These businesses incur costs, such as labor and materials, to present and ultimately sell products. Service companies do not sell tangible goods to produce income; rather, they provide services to customers or clients who value their innovation and expertise. Examples of service companies include consultants, accountants, [financial planners](https://www.investopedia.com/terms/f/financialplanner.asp), and insurance providers.
+As the name suggests, a merchandising company engages in the [[sale of tangible goods]](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp) to consumers. These businesses incur costs, such as labor and materials, to present and ultimately sell products. Service companies do not sell tangible goods to produce income; rather, they provide services to customers or clients who value their innovation and expertise. Examples of service companies include consultants, accountants, [financial planners](https://www.investopedia.com/terms/f/financialplanner.asp), and insurance providers.

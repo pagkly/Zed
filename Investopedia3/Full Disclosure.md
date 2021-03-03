@@ -16,11 +16,11 @@ author: Will Kenton
 Full Disclosure
 ## What Is Full Disclosure?
 
-Full disclosure is the U.S. Securities and Exchange Commission's [(SEC)](https://www.investopedia.com/terms/s/sec.asp) requirement that publicly traded companies release and provide for the free exchange of all material facts that are relevant to their ongoing business operations.1 Full disclosure also refers to the general need in business transactions for both parties to tell the whole truth about any material issue pertaining to the transaction. For example, in [real estate](https://www.investopedia.com/terms/r/realestate.asp) transactions, there is typically a [disclosure](https://www.investopedia.com/terms/d/disclosure.asp) form signed by the seller that may result in legal penalties if it is later discovered that the seller knowingly lied about or concealed significant facts.
+Full disclosure is the U.S. Securities and Exchange Commission's [(SEC)](https://www.investopedia.com/terms/s/sec.asp) requirement that publicly traded companies release and provide for the free exchange of all material facts that are relevant to their ongoing business operations.1 Full disclosure also refers to the general need in business transactions for both parties to tell the whole truth about any material issue pertaining to the transaction. For example, in [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) transactions, there is typically a [[disclosure]](https://www.investopedia.com/terms/d/disclosure.asp) form signed by the seller that may result in legal penalties if it is later discovered that the seller knowingly lied about or concealed significant facts.
 
 ## How Full Disclosure Works
 
-Full disclosure laws began with the [Securities Act of 1933](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the Securities Exchange Act of 1934. The SEC combines these acts and subsequent legislation by implementing related rules and regulations.2
+Full disclosure laws began with the [[Securities Act of 1933]](https://www.investopedia.com/terms/s/securitiesact1933.asp) and the Securities Exchange Act of 1934. The SEC combines these acts and subsequent legislation by implementing related rules and regulations.2
 
 ### SEC Registration Requirements
 
@@ -28,7 +28,7 @@ Congress and the SEC realize full disclosure laws should not increase the challe
 
 ### SEC Reporting Requirements
 
-Publicly owned companies prepare a [Form 10-K](https://www.investopedia.com/terms/1/10-k.asp) annual report for the SEC. The report’s content and form are strictly governed by federal statutes and contain detailed financial and operating information. Management typically provides a narrative response to questions about the company’s operations. Public accountants prepare detailed financial statements.4
+Publicly owned companies prepare a [[Form 10-K]](https://www.investopedia.com/terms/1/10-k.asp) annual report for the SEC. The report’s content and form are strictly governed by federal statutes and contain detailed financial and operating information. Management typically provides a narrative response to questions about the company’s operations. Public accountants prepare detailed financial statements.4
 
 Due to SEC regulations, annual reports to stockholders contain certified financial statements, including a two-year audited balance sheet and a three-year audited statement of income and cash flows. Annual reports also contain five years of selected financial data, including net sales or operating revenue, income or loss from continuing operations, total assets, long-term obligations, redeemable preferred stock and cash dividends declared per common share.
 

@@ -14,7 +14,7 @@ author: Investopedia
 ---
 
 How Do Prepaid Debit Cards Work?
-A prepaid debit card is much like a [gift card](https://www.investopedia.com/terms/g/gift-card.asp): It allows you to spend whatever amount of money is stored on the card. Once the balance is used up, you can reload the card online or at an ATM, a participating store, or other physical location. Prepaid debit cards are issued by banks and branded by the major credit card companies, including Visa, MasterCard, Discover, and American Express.
+A prepaid debit card is much like a [[gift card]](https://www.investopedia.com/terms/g/gift-card.asp): It allows you to spend whatever amount of money is stored on the card. Once the balance is used up, you can reload the card online or at an ATM, a participating store, or other physical location. Prepaid debit cards are issued by banks and branded by the major credit card companies, including Visa, MasterCard, Discover, and American Express.
 
 ### Key Takeaways
 
@@ -34,11 +34,11 @@ Anyone who wants to stick to a strict budget, or who has had trouble managing cr
 
 You can use a prepaid debit card for any transaction that you might otherwise use a credit card or regular debit card for. In many instances, the recipient of your payment may even be unaware that the card is prepaid.
 
-Some employers pay their workers with prepaid debit cards called [payroll cards](https://www.investopedia.com/terms/p/payroll-card.asp) (which can be useful if the person doesn't have a bank account or direct deposit). Many government benefits are also available via prepaid debit cards, including Social Security.
+Some employers pay their workers with prepaid debit cards called [[payroll cards]](https://www.investopedia.com/terms/p/payroll-card.asp) (which can be useful if the person doesn't have a bank account or direct deposit). Many government benefits are also available via prepaid debit cards, including Social Security.
 
 ## Prepaid Debit Cards vs. Regular Debit Cards
 
-With a regular [debit card](https://www.investopedia.com/terms/d/debitcard.asp), the amount of money you can spend is tied to how much you have in the checking account it is linked to. So you need to have a bank account to use a regular debit card, while you don't with a prepaid debit card. With a regular debit card, the amount of money you have available to you will also fluctuate from day to day, as money moves in and out of your checking account. With a prepaid debit card, you have a fixed amount of money to spend, which declines as you spend it and rises only if you reload the card.
+With a regular [[debit card]](https://www.investopedia.com/terms/d/debitcard.asp), the amount of money you can spend is tied to how much you have in the checking account it is linked to. So you need to have a bank account to use a regular debit card, while you don't with a prepaid debit card. With a regular debit card, the amount of money you have available to you will also fluctuate from day to day, as money moves in and out of your checking account. With a prepaid debit card, you have a fixed amount of money to spend, which declines as you spend it and rises only if you reload the card.
 
 ## The Downsides of Prepaid Debit Cards
 
@@ -56,6 +56,6 @@ If your goal is to repair your credit rating, consider a secured credit card ins
 
 ## An Alternative to a Prepaid Debit Card
 
-If the reason you want a prepaid debit card is that you have a bad credit history or no credit history and are unable to get a conventional credit card, you might consider a [secured credit card](https://www.investopedia.com/terms/s/securedcard.asp) instead. Secured cards are easier to qualify for because they require you to put down a refundable security deposit that serves as collateral for the lender.
+If the reason you want a prepaid debit card is that you have a bad credit history or no credit history and are unable to get a conventional credit card, you might consider a [[secured credit card]](https://www.investopedia.com/terms/s/securedcard.asp) instead. Secured cards are easier to qualify for because they require you to put down a refundable security deposit that serves as collateral for the lender.
 
-The advantage of a secured credit card is that your monthly payments can be reported to the [three major credit bureaus](https://www.investopedia.com/personal-finance/top-three-credit-bureaus/) and help build your credit history. Debit cards, either prepaid or the regular kind, don't report transactions to the credit bureaus and will do nothing to improve your credit.
+The advantage of a secured credit card is that your monthly payments can be reported to the [[three major credit bureaus]](https://www.investopedia.com/personal-finance/top-three-credit-bureaus/) and help build your credit history. Debit cards, either prepaid or the regular kind, don't report transactions to the credit bureaus and will do nothing to improve your credit.

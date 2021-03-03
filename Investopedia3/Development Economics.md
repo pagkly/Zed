@@ -16,9 +16,9 @@ author: Carol M. Kopp
 Development Economics
 ## What Is Development Economics?
 
-Development economics is a branch of [economics](https://www.investopedia.com/terms/e/economics.asp) that focuses on improving fiscal, economic, and social conditions in [developing countries](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp). Development economics considers factors such as health, education, working conditions, domestic and international policies, and market conditions with a focus on improving conditions in the world's poorest countries.
+Development economics is a branch of [[economics]](https://www.investopedia.com/terms/e/economics.asp) that focuses on improving fiscal, economic, and social conditions in [[developing countries]](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp). Development economics considers factors such as health, education, working conditions, domestic and international policies, and market conditions with a focus on improving conditions in the world's poorest countries.
 
-The field also examines both [macroeconomic and microeconomic](https://www.investopedia.com/ask/answers/difference-between-microeconomics-and-macroeconomics/) factors relating to the structure of developing economies and domestic and international [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp).
+The field also examines both [[macroeconomic and microeconomic]](https://www.investopedia.com/ask/answers/difference-between-microeconomics-and-macroeconomics/) factors relating to the structure of developing economies and domestic and international [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp).
 
 ### Key Takeaways
 
@@ -34,11 +34,11 @@ Development economics studies the transformation of emerging nations into more p
 
 Students of economics, and professional economists, create theories and methods that guide practitioners in determining practices and policies that can be used and implemented at the domestic and international policy level.
 
-Some aspects of development economics include determining to what extent rapid population growth helps or hinders development, the structural transformation of economies, and the role of education and [healthcare](https://www.investopedia.com/terms/h/health_care_sector.asp) in development.
+Some aspects of development economics include determining to what extent rapid population growth helps or hinders development, the structural transformation of economies, and the role of education and [[healthcare]](https://www.investopedia.com/terms/h/health_care_sector.asp) in development.
 
-They also include international trade, [globalization](https://www.investopedia.com/terms/g/globalization.asp), sustainable development, the effects of epidemics, such as HIV, and the impact of catastrophes on economic and human development.
+They also include international trade, [[globalization]](https://www.investopedia.com/terms/g/globalization.asp), sustainable development, the effects of epidemics, such as HIV, and the impact of catastrophes on economic and human development.
 
-Prominent development [economists](https://www.investopedia.com/terms/e/economist.asp) include Jeffrey Sachs, Hernando de Soto Polar, and Nobel Laureates Simon Kuznets, [Amartya Sen](https://www.investopedia.com/terms/a/amartya-sen.asp), and Joseph Stiglitz.
+Prominent development [[economists]](https://www.investopedia.com/terms/e/economist.asp) include Jeffrey Sachs, Hernando de Soto Polar, and Nobel Laureates Simon Kuznets, [[Amartya Sen]](https://www.investopedia.com/terms/a/amartya-sen.asp), and Joseph Stiglitz.
 
 ## Types of Development Economics
 
@@ -48,13 +48,13 @@ Prominent development [economists](https://www.investopedia.com/terms/e/economis
 
 Like political absolutism and absolute monarchies, mercantilism promoted government regulation by prohibiting colonies from transacting with other nations.
 
-Mercantilism monopolized markets with staple ports and banned gold and silver exports. It believed the higher the supply of gold and silver, the more wealthy it would be. In general, it sought a [trade surplus](https://www.investopedia.com/terms/t/trade-surplus.asp) (exports greater than imports), did not allow the use of foreign ships for trade, and it optimized the use of domestic resources.
+Mercantilism monopolized markets with staple ports and banned gold and silver exports. It believed the higher the supply of gold and silver, the more wealthy it would be. In general, it sought a [[trade surplus]](https://www.investopedia.com/terms/t/trade-surplus.asp) (exports greater than imports), did not allow the use of foreign ships for trade, and it optimized the use of domestic resources.
 
 ### Economic Nationalism
 
-Economic nationalism reflects policies that focus on domestic control of [capital formation](https://www.investopedia.com/terms/c/capital-formation.asp), the economy, and labor, using tariffs or other barriers. It restricts the movement of capital, goods, and labor.
+Economic nationalism reflects policies that focus on domestic control of [[capital formation]](https://www.investopedia.com/terms/c/capital-formation.asp), the economy, and labor, using tariffs or other barriers. It restricts the movement of capital, goods, and labor.
 
-Economic nationalists do not generally agree with the benefits of globalization and unlimited [free trade](https://www.investopedia.com/terms/f/free-trade.asp). They focus on a policy that is isolationist so that the industries within a nation are able to grow without the threat of competition from established companies in other countries.
+Economic nationalists do not generally agree with the benefits of globalization and unlimited [[free trade]](https://www.investopedia.com/terms/f/free-trade.asp). They focus on a policy that is isolationist so that the industries within a nation are able to grow without the threat of competition from established companies in other countries.
 
 The economy of the early United States is a prime example of economic nationalism. As a new nation, it sought to develop itself without relying so much on outside influences. It enacted measures, such as high tariffs, so its own industries would grow unimpeded.
 
@@ -62,7 +62,7 @@ The economy of the early United States is a prime example of economic nationalis
 
 The linear stages of growth model was used to revitalize the European economy after World War II.
 
-This model states that economic growth can only stem from [industrialization](https://www.investopedia.com/terms/i/industrialization.asp). The model also agrees that local institutions and social attitudes can restrict growth if these factors influence people's [savings rates](https://www.investopedia.com/terms/s/savings-rate.asp) and investments.
+This model states that economic growth can only stem from [[industrialization]](https://www.investopedia.com/terms/i/industrialization.asp). The model also agrees that local institutions and social attitudes can restrict growth if these factors influence people's [[savings rates]](https://www.investopedia.com/terms/s/savings-rate.asp) and investments.
 
 The linear stages of growth model portrays an appropriately designed addition of capital partnered with public intervention. This injection of capital and restrictions from the public sector leads to economic development and industrialization.
 

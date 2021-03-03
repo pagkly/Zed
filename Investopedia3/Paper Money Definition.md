@@ -16,7 +16,7 @@ author: Adam Barone
 Paper Money Definition
 ## What Is Paper Money?
 
-Paper money is a country's official, paper currency that is circulated for the transactions involved in acquiring goods and services. The printing of paper money is typically regulated by a country's central bank or treasury in order to keep the flow of funds in line with [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp).
+Paper money is a country's official, paper currency that is circulated for the transactions involved in acquiring goods and services. The printing of paper money is typically regulated by a country's central bank or treasury in order to keep the flow of funds in line with [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp).
 
 Paper money tends to be updated with new versions that contain security features and attempt to make it more difficult for counterfeiters to create illegal copies.
 
@@ -32,7 +32,7 @@ The first recorded use of paper money was purported to be in the country of Chin
 
 ## Example of Paper Money
 
-In the U.S., paper money is considered [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp). This means that it has no actual value except as an accepted medium of exchange. Before 1971, this was not the case; U.S. banknotes were backed by a certain amount of gold, which was dictated by the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp).
+In the U.S., paper money is considered [[fiat money]](https://www.investopedia.com/terms/f/fiatmoney.asp). This means that it has no actual value except as an accepted medium of exchange. Before 1971, this was not the case; U.S. banknotes were backed by a certain amount of gold, which was dictated by the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp).
 
 The U.S. dollar has been the dominant reserve currency since the end of World War II. Prior to World War II, the British pound was the dominant reserve currency.
 

@@ -16,7 +16,7 @@ author: James Chen
 Carried Interest Definition
 ## What Is Carried Interest?
 
-Carried interest is a share of any profits that the general partners of [private equity](https://www.investopedia.com/terms/p/privateequity.asp) and [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) receive as compensation regardless of whether they contribute any initial funds. Because carried interest acts as a type of [performance fee](https://www.investopedia.com/terms/p/performance-fee.asp), it acts to motivate the the fund's overall performance. However, carried interest is often only paid if the fund’s returns meet a certain threshold. 
+Carried interest is a share of any profits that the general partners of [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp) and [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) receive as compensation regardless of whether they contribute any initial funds. Because carried interest acts as a type of [[performance fee]](https://www.investopedia.com/terms/p/performance-fee.asp), it acts to motivate the the fund's overall performance. However, carried interest is often only paid if the fund’s returns meet a certain threshold. 
 
 #### What is Carried Interest?
 
@@ -38,7 +38,7 @@ Carried interest has long been the center of debate in the U.S., with many polit
 
 The general partner is compensated through an annual management fee, which typically amounts to two percent of the fund’s assets. The carried interest portion of a general partner's compensation is vested over a number of years and, after that point, is received only as it is earned. 
 
-The [private equity](https://www.investopedia.com/terms/p/privateequity.asp) industry has always maintained that this is a fair compensation arrangement because general partners invest a tremendous amount of time and resources toward building the profitability of the companies in their portfolios. Much of the general partner's time is spent in developing strategy, working to improve management performance and company efficiencies, and maximizing the value of a company in preparation for its sale or initial public offering (IPO).
+The [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp) industry has always maintained that this is a fair compensation arrangement because general partners invest a tremendous amount of time and resources toward building the profitability of the companies in their portfolios. Much of the general partner's time is spent in developing strategy, working to improve management performance and company efficiencies, and maximizing the value of a company in preparation for its sale or initial public offering (IPO).
 
 ## Special Considerations 
 
@@ -50,4 +50,4 @@ The typical carried interest amount is 20% for private equity and hedge funds. N
 
 Carried interest is not automatic; it is only created when the fund generates profits that exceed a specified return level, often known as the hurdle rate. If the hurdle rate of return is not achieved, the general partner does not receive carry, although the limited partners receive their proportionate share. Carry can also be "clawed back" if the fund underperforms. 
 
-For example, If the limited partners are expecting a 10% annual return, and the fund only returns 7% over a period of time, a portion of the carry paid to the general partner could be returned to cover the deficiency. The [clawback](https://www.investopedia.com/terms/c/clawback.asp) provision, when added to the other risks the general partner undertakes, leads private equity industry advocates to their justification that carried interest is not a salary—instead, it is an at-risk return on investment that is only payable based on performance achievement.
+For example, If the limited partners are expecting a 10% annual return, and the fund only returns 7% over a period of time, a portion of the carry paid to the general partner could be returned to cover the deficiency. The [[clawback]](https://www.investopedia.com/terms/c/clawback.asp) provision, when added to the other risks the general partner undertakes, leads private equity industry advocates to their justification that carried interest is not a salary—instead, it is an at-risk return on investment that is only payable based on performance achievement.

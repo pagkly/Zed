@@ -16,7 +16,7 @@ author: Adam Hayes
 Performance Budget
 ## What Is a Performance Budget?
 
-A performance budget is one that reflects both the input of resources and the output of services for each unit of an organization. The goal is to identify and score relative performance based on goal attainment for specified outcomes. This type of [budget](https://www.investopedia.com/terms/b/budget.asp) is commonly used by government bodies and agencies to show the link between taxpayer funds and the outcome of services provided by federal, state, or local governments.
+A performance budget is one that reflects both the input of resources and the output of services for each unit of an organization. The goal is to identify and score relative performance based on goal attainment for specified outcomes. This type of [[budget]](https://www.investopedia.com/terms/b/budget.asp) is commonly used by government bodies and agencies to show the link between taxpayer funds and the outcome of services provided by federal, state, or local governments.
 
 ## Understanding a Performance Budget
 
@@ -42,9 +42,9 @@ All of these would have numerical targets attached to them. A performance budge
 
 ## Advantages and Disadvantages of a Performance Budget
 
-The advantages in the public sector are an increase in accountability of the local authorities to the [taxpayers](https://www.investopedia.com/terms/t/taxpayer.asp), communication to the public about priorities, and quantifying particular goals. Taxpayers want to know where and how their money is being spent and to what end.
+The advantages in the public sector are an increase in accountability of the local authorities to the [[taxpayers]](https://www.investopedia.com/terms/t/taxpayer.asp), communication to the public about priorities, and quantifying particular goals. Taxpayers want to know where and how their money is being spent and to what end.
 
-Similarly, [nonprofit organizations](https://www.investopedia.com/terms/n/non-profitorganization.asp) draw up performance budgets to link [inputs and outputs](https://www.investopedia.com/terms/i/input-output-analysis.asp) for their missions. Donors to these organizations also want to know what kind of "return" society is getting from their donations.
+Similarly, [[nonprofit organizations]](https://www.investopedia.com/terms/n/non-profitorganization.asp) draw up performance budgets to link [[inputs and outputs]](https://www.investopedia.com/terms/i/input-output-analysis.asp) for their missions. Donors to these organizations also want to know what kind of "return" society is getting from their donations.
 
 Some disadvantages of a performance budget include:
 
@@ -53,4 +53,4 @@ Some disadvantages of a performance budget include:
 -   The potential for a department to manipulate data in order to reach a target, which could lead to a need to spend funds on an independent party to verify results
 -   A lack of flexibility once the inputs/outputs have been set
 
-One prominent disadvantage of performance budgets is that by assigning target scores or numbers that an organization uses as its [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) for achievement, the numbers can be gamed or become the sole focus of one's task. For instance, teachers looking to earn a certain score may only focus on the factors that comprise that score and overlook or ignore other factors that may be important to teaching but not for the performance budget.
+One prominent disadvantage of performance budgets is that by assigning target scores or numbers that an organization uses as its [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) for achievement, the numbers can be gamed or become the sole focus of one's task. For instance, teachers looking to earn a certain score may only focus on the factors that comprise that score and overlook or ignore other factors that may be important to teaching but not for the performance budget.

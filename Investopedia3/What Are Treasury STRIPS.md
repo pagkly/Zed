@@ -32,23 +32,23 @@ As the acronym implies, Treasury STRIPS are created when a bond's coupons are se
 
 The coupons become separate investments that are sold separately.
 
-Treasury STRIPS are issued by the U.S. Treasury and backed by the U.S. government. They were introduced in 1985, replacing previous zero-coupon bond issues that were known as [TIGRs](https://www.investopedia.com/terms/t/tigrs.asp) and [CATS](https://www.investopedia.com/terms/c/cats.asp).
+Treasury STRIPS are issued by the U.S. Treasury and backed by the U.S. government. They were introduced in 1985, replacing previous zero-coupon bond issues that were known as [[TIGRs]](https://www.investopedia.com/terms/t/tigrs.asp) and [[CATS]](https://www.investopedia.com/terms/c/cats.asp).
 
 All issues from the Treasury with a maturity of 10 years or longer are eligible for the STRIPS process. STRIPS cannot be purchased directly from the government. They can be bought by brokerages for resale to investors.
 
 ### Example of Coupon Stripping
 
-The process of detaching the interest payments from the bond is called [coupon stripping](https://www.investopedia.com/terms/c/coupon-stripping.asp). The coupons become separate securities, with the principal payments due at maturity. No interim coupon payments are made along the way.
+The process of detaching the interest payments from the bond is called [[coupon stripping]](https://www.investopedia.com/terms/c/coupon-stripping.asp). The coupons become separate securities, with the principal payments due at maturity. No interim coupon payments are made along the way.
 
-For instance, a 10-year bond with a $40,000 face value and a 5% annual [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) can be stripped. Assuming it originally pays coupons semi-annually, 21 zero-coupon bonds can be created, including 20 semi-annual coupon payments and the bond itself. Each stripped coupon has a $1,000 face value, which is the amount of each coupon. All 21 securities are distinct and are traded separately in the market.
+For instance, a 10-year bond with a $40,000 face value and a 5% annual [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) can be stripped. Assuming it originally pays coupons semi-annually, 21 zero-coupon bonds can be created, including 20 semi-annual coupon payments and the bond itself. Each stripped coupon has a $1,000 face value, which is the amount of each coupon. All 21 securities are distinct and are traded separately in the market.
 
 ### Popularity of STRIPS
 
-STRIPS are a popular choice for fixed-income investors. They have extremely high credit quality because they are backed by [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp) securities. Since STRIPS are sold [at a discount](https://www.investopedia.com/terms/a/at-a-discount.asp), investors do not require a large stash of cash to purchase them. Assuming the STRIPS are held to maturity, their investors know the precise payouts they'll receive.
+STRIPS are a popular choice for fixed-income investors. They have extremely high credit quality because they are backed by [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) securities. Since STRIPS are sold [[at a discount]](https://www.investopedia.com/terms/a/at-a-discount.asp), investors do not require a large stash of cash to purchase them. Assuming the STRIPS are held to maturity, their investors know the precise payouts they'll receive.
 
 There is a robust secondary market for Treasury STRIPS, with individual STRIPS trading at market value until they reach maturity.
 
-STRIPS also offer a range of [maturity dates](https://www.investopedia.com/terms/m/maturitydate.asp), since they are based on the dates of the interest payments. If an investor wishes to sell a bond prior to its maturity, the market has enough liquidity to accommodate the transaction.
+STRIPS also offer a range of [[maturity dates]](https://www.investopedia.com/terms/m/maturitydate.asp), since they are based on the dates of the interest payments. If an investor wishes to sell a bond prior to its maturity, the market has enough liquidity to accommodate the transaction.
 
 ### Tax Considerations
 

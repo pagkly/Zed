@@ -32,7 +32,7 @@ Although a loan modification may be made for any type of loan, they are most com
 
 A lender may agree to a loan modification during a settlement procedure or in the case of a potential foreclosure. In such situations, the lender has concluded that a loan modification will be less costly to the business than a foreclosure or a charge-off of the debt.
 
-A loan modification agreement is not the same as a forbearance agreement. A [forbearance](https://www.investopedia.com/terms/f/forbearance.asp) agreement provides short-term relief for a borrower with a temporary financial problem. A loan modification agreement is a long-term solution.
+A loan modification agreement is not the same as a forbearance agreement. A [[forbearance]](https://www.investopedia.com/terms/f/forbearance.asp) agreement provides short-term relief for a borrower with a temporary financial problem. A loan modification agreement is a long-term solution.
 
 A loan modification may involve a reduced interest rate, a longer period to repay, a different type of loan, or any combination of these.
 

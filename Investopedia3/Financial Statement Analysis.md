@@ -16,7 +16,7 @@ author: Will Kenton
 Financial Statement Analysis
 ## What Is Financial Statement Analysis?
 
-Financial statement analysis is the process of analyzing a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) for decision-making purposes. External stakeholders use it to understand the overall health of an organization as well as to evaluate financial performance and business value. Internal constituents use it as a monitoring tool for managing the finances.
+Financial statement analysis is the process of analyzing a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) for decision-making purposes. External stakeholders use it to understand the overall health of an organization as well as to evaluate financial performance and business value. Internal constituents use it as a monitoring tool for managing the finances.
 
 #### Financial Statement Analysis
 
@@ -24,9 +24,9 @@ Financial statement analysis is the process of analyzing a company's [financial 
 
 The financial statements of a company record important financial data on every aspect of a business’s activities. As such they can be evaluated on the basis of past, current, and projected performance.
 
-In general, financial statements are centered around [generally accepted accounting principles (GAAP)](https://www.investopedia.com/terms/g/gaap.asp) in the U.S. These principles require a company to create and maintain three main financial statements: the balance sheet, the income statement, and the cash flow statement. Public companies have stricter standards for financial statement reporting. Public companies must follow GAAP standards which requires accrual accounting.1 Private companies have greater flexibility in their financial statement preparation and also have the option to use either accrual or cash accounting.2
+In general, financial statements are centered around [[generally accepted accounting principles (GAAP)]](https://www.investopedia.com/terms/g/gaap.asp) in the U.S. These principles require a company to create and maintain three main financial statements: the balance sheet, the income statement, and the cash flow statement. Public companies have stricter standards for financial statement reporting. Public companies must follow GAAP standards which requires accrual accounting.1 Private companies have greater flexibility in their financial statement preparation and also have the option to use either accrual or cash accounting.2
 
-Several techniques are commonly used as part of financial statement analysis. Three of the most important techniques include [horizontal analysis](https://www.investopedia.com/terms/h/horizontalanalysis.asp), [vertical analysis](https://www.investopedia.com/terms/v/vertical_analysis.asp), and [ratio analysis](https://www.investopedia.com/terms/r/ratioanalysis.asp). Horizontal analysis compares data horizontally, by analyzing values of line items across two or more years. Vertical analysis looks at the vertical affects line items have on other parts of the business and also the business’s proportions. Ratio analysis uses important ratio metrics to calculate statistical relationships.
+Several techniques are commonly used as part of financial statement analysis. Three of the most important techniques include [[horizontal analysis]](https://www.investopedia.com/terms/h/horizontalanalysis.asp), [[vertical analysis]](https://www.investopedia.com/terms/v/vertical_analysis.asp), and [[ratio analysis]](https://www.investopedia.com/terms/r/ratioanalysis.asp). Horizontal analysis compares data horizontally, by analyzing values of line items across two or more years. Vertical analysis looks at the vertical affects line items have on other parts of the business and also the business’s proportions. Ratio analysis uses important ratio metrics to calculate statistical relationships.
 
 ## Financial Statements
 
@@ -58,7 +58,7 @@ Companies and analysts also use free cash flow statements and other valuation st
 
 ## Financial Performance
 
-Financial statements are maintained by companies daily and used internally for business management. In general both internal and external stakeholders use the same corporate finance methodologies for maintaining business activities and evaluating overall [financial performance](https://www.investopedia.com/terms/f/financialperformance.asp).
+Financial statements are maintained by companies daily and used internally for business management. In general both internal and external stakeholders use the same corporate finance methodologies for maintaining business activities and evaluating overall [[financial performance]](https://www.investopedia.com/terms/f/financialperformance.asp).
 
 When doing comprehensive financial statement analysis, analysts typically use multiple years of data to facilitate horizontal analysis. Each financial statement is also analyzed with vertical analysis to understand how different categories of the statement are influencing results. Finally ratio analysis can be used to isolate some performance metrics in each statement and also bring together data points across statements collectively.
 
@@ -68,9 +68,9 @@ Balance sheet: asset turnover, quick ratio, receivables turnover, days to sales,
 
 Income statement: gross profit margin, operating profit margin, net profit margin, tax ratio efficiency, and interest coverage
 
-Cash Flow: Cash and [earnings before interest, taxes, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp). These metrics may be shown on a per share basis.
+Cash Flow: Cash and [[earnings before interest, taxes, depreciation, and amortization (EBITDA)]](https://www.investopedia.com/terms/e/ebitda.asp). These metrics may be shown on a per share basis.
 
-Comprehensive: [Return on assets (ROA)](https://www.investopedia.com/terms/r/returnonassets.asp) and [return on equity (ROE)](https://www.investopedia.com/terms/r/returnonequity.asp). Also [DuPont Analysis](https://www.investopedia.com/terms/d/dupontanalysis.asp).
+Comprehensive: [[Return on assets (ROA)]](https://www.investopedia.com/terms/r/returnonassets.asp) and [[return on equity (ROE)]](https://www.investopedia.com/terms/r/returnonequity.asp). Also [[DuPont Analysis]](https://www.investopedia.com/terms/d/dupontanalysis.asp).
 
 ## Frequently Asked Questions
 

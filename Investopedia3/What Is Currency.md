@@ -16,7 +16,7 @@ author: Jake Frankenfield
 What Is Currency?
 ## What Is Currency?
 
-Currency is a [medium of exchange](https://www.investopedia.com/terms/m/mediumofexchange.asp) for goods and services. In short, it's money, in the form of paper or coins, usually issued by a government and generally accepted at its face value as a method of payment.
+Currency is a [[medium of exchange]](https://www.investopedia.com/terms/m/mediumofexchange.asp) for goods and services. In short, it's money, in the form of paper or coins, usually issued by a government and generally accepted at its face value as a method of payment.
 
 Currency is the primary medium of exchange in the modern world, having long ago replaced bartering as a means of trading goods and services.
 
@@ -36,9 +36,9 @@ A key characteristic of modern money is that it is uniformly worthless in itself
 
 ### About National Currencies
 
-According to WorldAtlas.com, 180 national currencies recognized by the United Nations are currently in circulation. Another 66 countries either use the U.S. dollar or [peg their currencies](https://www.investopedia.com/terms/c/currency-peg.asp) directly to the dollar.
+According to WorldAtlas.com, 180 national currencies recognized by the United Nations are currently in circulation. Another 66 countries either use the U.S. dollar or [[peg their currencies]](https://www.investopedia.com/terms/c/currency-peg.asp) directly to the dollar.
 
-Most countries issue their own currencies. For example, Switzerland's official currency is the Swiss franc, and Japan's is the yen. An exception is the [euro](https://www.investopedia.com/terms/e/euro.asp), which has been adopted by most countries that are members of the European Union.
+Most countries issue their own currencies. For example, Switzerland's official currency is the Swiss franc, and Japan's is the yen. An exception is the [[euro]](https://www.investopedia.com/terms/e/euro.asp), which has been adopted by most countries that are members of the European Union.
 
 ### 180
 
@@ -50,9 +50,9 @@ There are also branded currencies, like airline and credit card points and Disne
 
 ### Currency Trading
 
-The [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) is the current value of any currency in exchange for another currency. This rate fluctuates constantly in response to economic and political events.
+The [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) is the current value of any currency in exchange for another currency. This rate fluctuates constantly in response to economic and political events.
 
-Those fluctuations create the market for currency trading. The [foreign exchange market](https://www.investopedia.com/terms/forex/f/foreign-exchange-markets.asp) where these trades are conducted is one of the world's largest markets in sheer volume. All trades are in large volumes, with a standard minimum lot of 100,000. Most currency traders are professionals investing for themselves or for institutional clients including banks and large corporations.
+Those fluctuations create the market for currency trading. The [[foreign exchange market]](https://www.investopedia.com/terms/forex/f/foreign-exchange-markets.asp) where these trades are conducted is one of the world's largest markets in sheer volume. All trades are in large volumes, with a standard minimum lot of 100,000. Most currency traders are professionals investing for themselves or for institutional clients including banks and large corporations.
 
 The foreign exchange market has no physical address. Trading is entirely electronic and goes on 24 hours a day to accommodate traders in every time zone.
 

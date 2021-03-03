@@ -31,9 +31,9 @@ Money orders were first issued by American Express in 1882 and later became popu
 
 ## How Money Orders Work
 
-A person who buys a money order will have to fill out the name of the recipient on a form and the amount that the recipient should receive. Most money orders have a maximum limit of $1,000. Therefore, a buyer would need to purchase multiple orders if he needs more than the stipulated limit. Be sure to [fill out the money order carefully](https://www.investopedia.com/how-to-fill-out-a-money-order-step-by-step-4589636); it's a one-off purchase and you need to keep good records of it.
+A person who buys a money order will have to fill out the name of the recipient on a form and the amount that the recipient should receive. Most money orders have a maximum limit of $1,000. Therefore, a buyer would need to purchase multiple orders if he needs more than the stipulated limit. Be sure to [[fill out the money order carefully]](https://www.investopedia.com/how-to-fill-out-a-money-order-step-by-step-4589636); it's a one-off purchase and you need to keep good records of it.
 
-The financial institution or authorized body that issues the money order to the payer will have the payee’s name, the issuer’s name, and the amount of money that can be cashed. This dollar value does not include the fees charged to the payee. Factor in all costs [when purchasing money orders](https://www.investopedia.com/money-orders-can-be-a-simple-safe-and-cheap-way-to-transfer-money-here-s-how-to-avoid-the-pitfalls-4589635). A bank or credit union will normally charge more than a convenience store to issue money orders.
+The financial institution or authorized body that issues the money order to the payer will have the payee’s name, the issuer’s name, and the amount of money that can be cashed. This dollar value does not include the fees charged to the payee. Factor in all costs [[when purchasing money orders]](https://www.investopedia.com/money-orders-can-be-a-simple-safe-and-cheap-way-to-transfer-money-here-s-how-to-avoid-the-pitfalls-4589635). A bank or credit union will normally charge more than a convenience store to issue money orders.
 
 A money order is not a check, and it's harder to trace one; keep your receipt until you are sure the order has been received and cashed.
 
@@ -65,7 +65,7 @@ Cons
 -   Money orders can be fraudulent; be wary about receiving them from people you don't know and don't spend money orders you deposit in the bank until you know the bank was able to cash them.
     
 
-On the downside, money orders can be more difficult to track than a personal check. To determine whether [a personal check has cleared](https://www.investopedia.com/ask/answers/082216/when-do-checks-expire.asp), check writers only need to visit their bank or look at their online account for information about its status.
+On the downside, money orders can be more difficult to track than a personal check. To determine whether [[a personal check has cleared]](https://www.investopedia.com/ask/answers/082216/when-do-checks-expire.asp), check writers only need to visit their bank or look at their online account for information about its status.
 
 To track a money order, the issuer must fill out tracking forms and pay an additional fee to learn whether the money order has been cashed. The entire process for researching the status of a money order can take weeks. The USPS offers an online money order inquiry service that allows buyers to input the money order number and get an update on its status.2
 
@@ -79,4 +79,4 @@ However, a payee does not have to cash the money order right away. They can depo
 
 Since the fees are certain to reduce the amount of money that will be received, depositing it with no additional charges at a bank will ensure that the account holder keeps all the money paid to them.
 
-As is often the case, a money order can be used as a vehicle to send money outside the country. An issuer with multiple branches in different countries can issue a money order in one country that can be cashed in another country. International money orders thus provide an [inexpensive and swift way to send money across the border](https://www.investopedia.com/financial-edge/0411/7-low-cost-ways-to-transfer-money.aspx).
+As is often the case, a money order can be used as a vehicle to send money outside the country. An issuer with multiple branches in different countries can issue a money order in one country that can be cashed in another country. International money orders thus provide an [[inexpensive and swift way to send money across the border]](https://www.investopedia.com/financial-edge/0411/7-low-cost-ways-to-transfer-money.aspx).

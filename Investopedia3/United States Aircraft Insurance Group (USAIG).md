@@ -16,7 +16,7 @@ author: Julia Kagan
 United States Aircraft Insurance Group (USAIG)
 ## What Is the United States Aircraft Insurance Group?
 
-United States Aircraft Insurance Group (USAIG) is the nation's first [aviation insurance company](https://www.investopedia.com/terms/a/aircraft-insurance.asp), founded in 1928 by World War I flying ace Reed McKinley Chambers and pilot David C. Beebe. The United States Aircraft Insurance Group was founded when Chambers realized a need for aviation insurance after the airline company that he had formed, Florida Airways, faced bankruptcy when four airplanes were lost to storms and one accident in 1926. Florida Airways had earned the first private air mail contract awarded by the United States government.
+United States Aircraft Insurance Group (USAIG) is the nation's first [[aviation insurance company]](https://www.investopedia.com/terms/a/aircraft-insurance.asp), founded in 1928 by World War I flying ace Reed McKinley Chambers and pilot David C. Beebe. The United States Aircraft Insurance Group was founded when Chambers realized a need for aviation insurance after the airline company that he had formed, Florida Airways, faced bankruptcy when four airplanes were lost to storms and one accident in 1926. Florida Airways had earned the first private air mail contract awarded by the United States government.
 
 ## Understanding USAIG
 
@@ -24,7 +24,7 @@ On July 1, 2003, USAIG celebrated its 75th anniversary. The insurance company is
 
 ## USAIG Today
 
-"USAIG is neither a single insurance company nor a corporation. It’s a pool of member firms, all highly rated [property and casualty insurance](https://www.investopedia.com/terms/c/casualtyinsurance.asp) and [reinsurance](https://www.investopedia.com/terms/r/reinsurance.asp) companies. We’re proud to say that our members all carry A.M. Best ratings ranging from A to A++," the company [notes on its website](https://www.usau.com/#). "United States Aircraft Insurance Group and Canadian Aircraft Insurance Group each comprise a pool of highly rated property-casualty insurers. United States Aviation Underwriters, a licensed New York agent, serves as manager for USAIG. USAU’s Canadian subsidiary manages the CAIG pool. Every policy written through USAIG or CAIG uses capacity that is admitted in all 50 United States or throughout Canada."
+"USAIG is neither a single insurance company nor a corporation. It’s a pool of member firms, all highly rated [[property and casualty insurance]](https://www.investopedia.com/terms/c/casualtyinsurance.asp) and [[reinsurance]](https://www.investopedia.com/terms/r/reinsurance.asp) companies. We’re proud to say that our members all carry A.M. Best ratings ranging from A to A++," the company [[notes on its website]](https://www.usau.com/#). "United States Aircraft Insurance Group and Canadian Aircraft Insurance Group each comprise a pool of highly rated property-casualty insurers. United States Aviation Underwriters, a licensed New York agent, serves as manager for USAIG. USAU’s Canadian subsidiary manages the CAIG pool. Every policy written through USAIG or CAIG uses capacity that is admitted in all 50 United States or throughout Canada."
 
 Each member company must meet minimum ratings requirements – at least an “A” rating with either A.M. Best or Standard & Poor’s and hold a required statutory surplus of $1 billion or greater. In addition, we go the extra step of requiring each member company, through a security agreement, to fund a trust account to meet 100 percent of their respective net liabilities, the company stated.
 

@@ -16,7 +16,7 @@ author:  Julia Kagan
 VantageScore
 ## What Is VantageScore?
 
-VantageScore is a consumer [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) product developed by [the top three credit bureaus, Equifax, TransUnion, and Experian](https://www.investopedia.com/personal-finance/top-three-credit-bureaus/), in 2006 as an alternative to the [FICO score](https://www.investopedia.com/terms/f/ficoscore.asp), created by the [Fair Isaac Corporation](https://www.investopedia.com/terms/f/fico-fair-isaac.asp) in 1989.12
+VantageScore is a consumer [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) product developed by [[the top three credit bureaus, Equifax, TransUnion, and Experian]](https://www.investopedia.com/personal-finance/top-three-credit-bureaus/), in 2006 as an alternative to the [[FICO score]](https://www.investopedia.com/terms/f/ficoscore.asp), created by the [[Fair Isaac Corporation]](https://www.investopedia.com/terms/f/fico-fair-isaac.asp) in 1989.12
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ VantageScore is a consumer [credit rating](https://www.investopedia.com/terms/c/
 
 ## Understanding VantageScore
 
-VantageScore 4, the most recent version, is a [credit score](https://www.investopedia.com/terms/c/credit_score.asp) calculated through an average of five weighted factors:
+VantageScore 4, the most recent version, is a [[credit score]](https://www.investopedia.com/terms/c/credit_score.asp) calculated through an average of five weighted factors:
 
 1.  Total credit usage, balance, and available credit
 2.  Credit mix and experience
@@ -56,9 +56,9 @@ The components of a VantageScore are weighted as follows:3
 -   New Accounts Opened (Less Influential)
 -   Age of Credit History (Less Influential)
 
-Total credit usage, balance, and available credit look at a consumer’s [credit utilization ratio](https://www.investopedia.com/terms/c/credit-utilization-rate.asp). For example, if you have a $10,000 line of credit in one month and have drawn $5,000 from that line, your ratio would be 50%.
+Total credit usage, balance, and available credit look at a consumer’s [[credit utilization ratio]](https://www.investopedia.com/terms/c/credit-utilization-rate.asp). For example, if you have a $10,000 line of credit in one month and have drawn $5,000 from that line, your ratio would be 50%.
 
-Credit mix and experience relates to the kinds of credit you have, with a mix of [revolving credit](https://www.investopedia.com/terms/r/revolvingcredit.asp), such as credit cards, and [installment credit](https://www.investopedia.com/terms/i/installmentdebt.asp), such as a mortgage or an auto loan, being considered the best. Payment history looks at whether you have consistently paid your bills on time or not. New accounts involve how many requests for new credit you have made, and age of credit history is how long you have maintained your credit accounts.
+Credit mix and experience relates to the kinds of credit you have, with a mix of [[revolving credit]](https://www.investopedia.com/terms/r/revolvingcredit.asp), such as credit cards, and [[installment credit]](https://www.investopedia.com/terms/i/installmentdebt.asp), such as a mortgage or an auto loan, being considered the best. Payment history looks at whether you have consistently paid your bills on time or not. New accounts involve how many requests for new credit you have made, and age of credit history is how long you have maintained your credit accounts.
 
 A VantageScore synthesizes information from all three credit bureaus and is the same for each bureau, while a FICO score only uses information from one credit bureau and is specific to that bureau.
 

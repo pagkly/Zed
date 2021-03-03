@@ -16,7 +16,7 @@ author: Caroline Banton
 Voluntary Plan Termination
 ## What Is Voluntary Plan Termination?
 
-Voluntary plan termination is the discontinuance of a [defined-benefit plan](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) by an employer. Since an employer is not legally required to provide a retirement plan to employees, it can terminate an established plan.
+Voluntary plan termination is the discontinuance of a [[defined-benefit plan]](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) by an employer. Since an employer is not legally required to provide a retirement plan to employees, it can terminate an established plan.
 
 However, an employer can terminate a voluntary plan only if all of the requirements for a standard termination or distress termination are followed by the plan administrator. Section 4041 of the U.S. Code of Federal Regulations addresses voluntary plan terminations.
 
@@ -29,7 +29,7 @@ However, an employer can terminate a voluntary plan only if all of the requirem
 
 ## Understanding Voluntary Plan Termination
 
-According to the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS), since an employer isn’t required by law to provide a retirement plan for employees, it can terminate its retirement plan.
+According to the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS), since an employer isn’t required by law to provide a retirement plan for employees, it can terminate its retirement plan.
 
 An employer might terminate a plan for the following reasons:
 
@@ -38,9 +38,9 @@ An employer might terminate a plan for the following reasons:
 -   If the business is to be sold to another company or purchased by another company
 -   If the employer is switching to an alternative retirement plan
 
-Under a voluntary plan termination, the assets must be distributed to participants in a manner described by federal law. The employer has the unilateral right to modify or end the retirement plan at any time. This right is set out by the [Employee Retirement Income Security Act of 1974](https://www.investopedia.com/terms/e/erisa.asp).
+Under a voluntary plan termination, the assets must be distributed to participants in a manner described by federal law. The employer has the unilateral right to modify or end the retirement plan at any time. This right is set out by the [[Employee Retirement Income Security Act of 1974]](https://www.investopedia.com/terms/e/erisa.asp).
 
-The allocation of plan assets is usually done by the plan administrator or trustee. An employer must distribute assets from a terminated plan as soon as administratively feasible after the plan is terminated. Affected participants can usually roll over the distributed money to another qualified plan or [individual retirement account](https://www.irs.gov/forms-pubs/about-publication-590-a) (IRA).
+The allocation of plan assets is usually done by the plan administrator or trustee. An employer must distribute assets from a terminated plan as soon as administratively feasible after the plan is terminated. Affected participants can usually roll over the distributed money to another qualified plan or [[individual retirement account]](https://www.irs.gov/forms-pubs/about-publication-590-a) (IRA).
 
 The IRS states: "For terminated defined benefit plans with insufficient money to pay all of the benefits, the Pension Benefit Guaranty Corporation will guarantee the payment of vested pension benefits up to limits set by law.
 

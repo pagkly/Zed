@@ -18,7 +18,7 @@ The Ins and Outs of Service Charges
 
 A service charge is a fee collected to pay for services related to the primary product or service being purchased. The charge is usually added at the time of the transaction.
 
-Many industries collect [service charges](https://www.investopedia.com/articles/pf/07/bank_fees.asp), including restaurants, banking, and travel and tourism. When collected, these charges may cover services rendered to the consumer, or they may cover administrative or processing costs.
+Many industries collect [[service charges]](https://www.investopedia.com/articles/pf/07/bank_fees.asp), including restaurants, banking, and travel and tourism. When collected, these charges may cover services rendered to the consumer, or they may cover administrative or processing costs.
 
 Service charges are paid directly to the company. They are different from tips, which are paid to the employee who renders the service. Paying a tip and the amount is wholly up to the customer.
 
@@ -30,7 +30,7 @@ Service charges are paid directly to the company. They are different from tips, 
 
 ## Understanding Service Charges
 
-Service charges are additional charges related to the purchase of a product or service. They are generally collected at the time the transaction takes place between the consumer and the company. For example, a concert venue may charge a service fee in addition to the initial price of a ticket at the time of purchase in order to cover the cost of security or for providing the [convenience](https://www.investopedia.com/terms/c/convenience-fee.asp) of electronic purchases.
+Service charges are additional charges related to the purchase of a product or service. They are generally collected at the time the transaction takes place between the consumer and the company. For example, a concert venue may charge a service fee in addition to the initial price of a ticket at the time of purchase in order to cover the cost of security or for providing the [[convenience]](https://www.investopedia.com/terms/c/convenience-fee.asp) of electronic purchases.
 
 Service charges are also called service fees. They go by a number of different names depending on the industry, including booking fees (hotels), security fees (travel), maintenance fees (banking), and customer service fees.
 
@@ -38,11 +38,11 @@ Service charges are also called service fees. They go by a number of different n
 
 ### Hospitality Industry
 
-Most hotels and restaurants in the U.S. charge a service fee that’s a percentage of the total bill, often in lieu of [tipping](https://www.investopedia.com/terms/t/tipincome.asp). The delivery fee charged for ordering room service at a hotel or a gratuity applied to the bill for a large group dining at a restaurant are examples of service charges. If the total bill on an order is $250, and gratuity is stated to be 18%, then the total bill to be paid is $250 + (18% x $250) = $295.
+Most hotels and restaurants in the U.S. charge a service fee that’s a percentage of the total bill, often in lieu of [[tipping]](https://www.investopedia.com/terms/t/tipincome.asp). The delivery fee charged for ordering room service at a hotel or a gratuity applied to the bill for a large group dining at a restaurant are examples of service charges. If the total bill on an order is $250, and gratuity is stated to be 18%, then the total bill to be paid is $250 + (18% x $250) = $295.
 
 ### Banking Industry
 
-The [banking industry](https://www.investopedia.com/articles/personal-finance/091216/top-5-books-learn-about-banking-industry-jpm-bac.asp) charges a number of different services charges, which are typically set at a flat, standard rate. When you open a checking or savings account with a bank, the bank charges a monthly maintenance fee. This fee is debited from the account at the end of the month. Banks also charge service charges for using the ATM of a competing bank, or when initiating a [wire transfer](https://www.investopedia.com/terms/w/wiretransfer.asp).
+The [[banking industry]](https://www.investopedia.com/articles/personal-finance/091216/top-5-books-learn-about-banking-industry-jpm-bac.asp) charges a number of different services charges, which are typically set at a flat, standard rate. When you open a checking or savings account with a bank, the bank charges a monthly maintenance fee. This fee is debited from the account at the end of the month. Banks also charge service charges for using the ATM of a competing bank, or when initiating a [[wire transfer]](https://www.investopedia.com/terms/w/wiretransfer.asp).
 
 ### Travel Industry
 
@@ -54,13 +54,13 @@ Depending on the location, the airport improvement fee is included in the cost o
 
 ### Residential Property
 
-Renting or leasing certain types of residential properties may have a service charge affixed to the monthly rent. For example, the tenant of a [condo](https://www.investopedia.com/terms/c/condominium.asp) unit may be required to pay a condo fee on top of the rent. The condo fee is a service charge for general cleaning and maintenance of the building.
+Renting or leasing certain types of residential properties may have a service charge affixed to the monthly rent. For example, the tenant of a [[condo]](https://www.investopedia.com/terms/c/condominium.asp) unit may be required to pay a condo fee on top of the rent. The condo fee is a service charge for general cleaning and maintenance of the building.
 
-Online rental platforms that link renters to property owners such as [Airbnb](https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp) have service charges to cover the payment fees associated with the reservation. The service charge is usually calculated as a percentage of the subtotal and applies to renters and owners.
+Online rental platforms that link renters to property owners such as [[Airbnb]](https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp) have service charges to cover the payment fees associated with the reservation. The service charge is usually calculated as a percentage of the subtotal and applies to renters and owners.
 
 ## Service Charges Versus Tips
 
-According to the Internal Revenue Service (IRS), there is a big [difference between service charges and tips](https://www.irs.gov/newsroom/employer-reminder-reporting-tips-versus-service-charges-key-differences-between-categories-affect-employees-tax-reporting). An amount imposed on the customer including automatic gratuities added to the bill is considered a service charge. The IRS classifies the following as service charges: banquet event fees, automatic gratuities added for large parties at restaurants and other dining facilities, hotel room charges, bottle charges, and cruise trip package fees.
+According to the Internal Revenue Service (IRS), there is a big [[difference between service charges and tips]](https://www.irs.gov/newsroom/employer-reminder-reporting-tips-versus-service-charges-key-differences-between-categories-affect-employees-tax-reporting). An amount imposed on the customer including automatic gratuities added to the bill is considered a service charge. The IRS classifies the following as service charges: banquet event fees, automatic gratuities added for large parties at restaurants and other dining facilities, hotel room charges, bottle charges, and cruise trip package fees.
 
 Employers are required to report service charges to the IRS in the same fashion as other wages.
 

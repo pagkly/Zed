@@ -16,7 +16,7 @@ author: James Chen
 What Is a Held-By-Production Clause?
 ## What is a Held-By-Production Clause?
 
-"Held by production" is a provision in an oil or natural gas property [lease](https://www.investopedia.com/terms/l/lease.asp) that allows the [lessee](https://www.investopedia.com/terms/l/lessee.asp), generally an energy company, to continue drilling activities on the property as long as it is economically producing a minimum amount of oil or gas. The held-by-production provision thereby extends the lessee's right to operate the property beyond the initial lease term. This provision is also a feature of mineral property leases.
+"Held by production" is a provision in an oil or natural gas property [[lease]](https://www.investopedia.com/terms/l/lease.asp) that allows the [[lessee]](https://www.investopedia.com/terms/l/lessee.asp), generally an energy company, to continue drilling activities on the property as long as it is economically producing a minimum amount of oil or gas. The held-by-production provision thereby extends the lessee's right to operate the property beyond the initial lease term. This provision is also a feature of mineral property leases.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ The held-by-production provision enables energy companies to avoid renegotiating
 
 ### Habendum Clause
 
-According to the law firm [Holland & Hart](https://www.hollandhart.com/lease-provisions-part-2), the held-by-production clause in a lease can also be called the habendum clause. A habendum clause in an oil and gas lease typically contains two separate terms, the primary term and the secondary term. The primary term is a fixed time period and expires at some point in the future. The time period under the secondary term is indefinite. So long as oil and gas are produced, the lease remains in effect. 
+According to the law firm [[Holland & Hart]](https://www.hollandhart.com/lease-provisions-part-2), the held-by-production clause in a lease can also be called the habendum clause. A habendum clause in an oil and gas lease typically contains two separate terms, the primary term and the secondary term. The primary term is a fixed time period and expires at some point in the future. The time period under the secondary term is indefinite. So long as oil and gas are produced, the lease remains in effect. 
 
 ### Mineral Rights Lease
 

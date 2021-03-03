@@ -16,7 +16,7 @@ author: James Chen
 How Hoarding Works
 ## What Is Hoarding?
 
-Hoarding is the purchase of large quantities of a [commodity](https://www.investopedia.com/terms/c/commodity.asp) by a speculator with the intent of benefiting from future price increases. The term hoarding is most frequently applied to buying commodities, especially gold.
+Hoarding is the purchase of large quantities of a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) by a speculator with the intent of benefiting from future price increases. The term hoarding is most frequently applied to buying commodities, especially gold.
 
 However, hoarding is sometimes used in other economic contexts. For example, political leaders might complain that speculators are hoarding dollars during a currency crisis.
 
@@ -32,7 +32,7 @@ Hoarding is sometimes blamed for shortages that are actually caused by price con
 
 ### Illegal Hoarding
 
-Laws are often passed against certain types of hoarding to prevent tragedies and reduce economic instability. If a speculator intends to corner or otherwise monopolize a commodity, then it may be considered an illegal act. Unfortunately for [traders](https://www.investopedia.com/terms/t/trader.asp) and regulators, it is sometimes difficult to distinguish hoarding from unlawful attempts to manipulate the market.
+Laws are often passed against certain types of hoarding to prevent tragedies and reduce economic instability. If a speculator intends to corner or otherwise monopolize a commodity, then it may be considered an illegal act. Unfortunately for [[traders]](https://www.investopedia.com/terms/t/trader.asp) and regulators, it is sometimes difficult to distinguish hoarding from unlawful attempts to manipulate the market.
 
 Owning more than $100 worth of gold bullion, coins, or certificates became a criminal act called hoarding in 1933. Holding gold bullion became legal again in the U.S. in 1974.
 
@@ -55,7 +55,7 @@ In the long run, investing in stocks has outperformed hoarding commodities. On t
 
 ### Silver Hoarding
 
-One of the most famous cases of hoarding occurred in the silver market in the 1970s and 80s when the Hunt brothers tried to hoard silver to [corner the market](https://www.investopedia.com/terms/c/corneramarket.asp). Nelson Bunker Hunt and William Herbert Hunt correctly predicted rising inflation, but they used excessive leverage and were ill-prepared when prices collapsed.
+One of the most famous cases of hoarding occurred in the silver market in the 1970s and 80s when the Hunt brothers tried to hoard silver to [[corner the market]](https://www.investopedia.com/terms/c/corneramarket.asp). Nelson Bunker Hunt and William Herbert Hunt correctly predicted rising inflation, but they used excessive leverage and were ill-prepared when prices collapsed.
 
 During the 1970s, the Hunt brothers purchased most of the physical silver inventory available on the market and later moved into futures contracts. Silver was less than two dollars per ounce when they started in the 70s. By early 1980, the brothers managed to drive the price of silver to almost $50 per ounce. At that point, the Hunts were no longer able to borrow the money they needed to keep buying silver and pushing up the price.
 
@@ -63,4 +63,4 @@ The Hunt brothers eventually had to start selling, and the ensuing panic caused 
 
 ### Copper Hoarding
 
-Yasuo Hamanaka, a commodities trader at Sumitomo Corporation, became known as [Mr. Copper](https://www.investopedia.com/articles/financial-theory/08/mr-copper-commodities.asp) after he attempted to manipulate the copper price through hoarding. He spent seven years in jail after more than ten years of unauthorized copper deals in the 1990s that led to more than $2.6 billion in losses. At one point, he hoarded as much as 5% of the world's total copper supply. Traders started calling him "Mr. Copper" or the "Copper King."
+Yasuo Hamanaka, a commodities trader at Sumitomo Corporation, became known as [[Mr. Copper]](https://www.investopedia.com/articles/financial-theory/08/mr-copper-commodities.asp) after he attempted to manipulate the copper price through hoarding. He spent seven years in jail after more than ten years of unauthorized copper deals in the 1990s that led to more than $2.6 billion in losses. At one point, he hoarded as much as 5% of the world's total copper supply. Traders started calling him "Mr. Copper" or the "Copper King."

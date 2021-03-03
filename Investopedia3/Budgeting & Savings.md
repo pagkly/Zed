@@ -16,8 +16,8 @@ author:
 Budgeting & Savings
 [Budgeting & Savings](https://www.investopedia.com/budgeting-and-savings-4427755)
 
--   [Savings](https://www.investopedia.com/savings-4689725)
--   [Budgeting](https://www.investopedia.com/budgeting-4689726)
+-   [[Savings]](https://www.investopedia.com/savings-4689725)
+-   [[Budgeting]](https://www.investopedia.com/budgeting-4689726)
 
 [Personal Finance](https://www.investopedia.com/personal-finance-4427760)
 
@@ -27,8 +27,8 @@ Budgeting & Savings
 
 [Budgeting & Savings](https://www.investopedia.com/budgeting-and-savings-4427755)
 
--   [Savings](https://www.investopedia.com/savings-4689725)
--   [Budgeting](https://www.investopedia.com/budgeting-4689726)
+-   [[Savings]](https://www.investopedia.com/savings-4689725)
+-   [[Budgeting]](https://www.investopedia.com/budgeting-4689726)
 
 [
 

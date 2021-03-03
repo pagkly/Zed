@@ -27,7 +27,7 @@ The Series EE Bond (often referred to as a "Patriot Bond") is a non-marketable, 
 
 ## How a Series EE Bond Works
 
-Along with the [Series I bond](https://www.investopedia.com/terms/s/seriesibond.asp), the Series EE bond is one of the two types of savings bonds issued by the US Treasury. Series EE bonds cannot be bought or sold in the open market, and are hence classified as [non-marketable securities](https://www.investopedia.com/terms/n/non-marketable_securities.asp).
+Along with the [[Series I bond]](https://www.investopedia.com/terms/s/seriesibond.asp), the Series EE bond is one of the two types of savings bonds issued by the US Treasury. Series EE bonds cannot be bought or sold in the open market, and are hence classified as [[non-marketable securities]](https://www.investopedia.com/terms/n/non-marketable_securities.asp).
 
 Series EE bonds issued after May 2005 are assigned semi-annual fixed coupon rates on May 1 and November 1. The rates apply to all issuances for the ensuing six months. Bonds issued after each date increase in value monthly, but interest payments are handed out semiannually.
 
@@ -43,4 +43,4 @@ Series EE bonds don't need to be reissued to correct small typographical errors 
 
 There is a $25 minimum investment requirement for EE bonds, and each investor may purchase up to $10,000 in these bonds each calendar year. Furthermore, bondholders must hold onto these investments for at least twelve months, before they can redeem the bonds. Those who redeem bonds within five years will be docked three months of accrued interest payments. Since EE bonds earn interest for up to 30 years, the longer they're held, the more they're worth.
 
-Paper bonds were issued at a 50% discount to par, while bonds electronically sourced through TreasuryDirect are purchased at [face value](https://www.investopedia.com/terms/f/facevalue.asp). The latter is still guaranteed to be worth twice their original value at first [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp) after 20 years while paying interest the same way as paper EE bonds.
+Paper bonds were issued at a 50% discount to par, while bonds electronically sourced through TreasuryDirect are purchased at [[face value]](https://www.investopedia.com/terms/f/facevalue.asp). The latter is still guaranteed to be worth twice their original value at first [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp) after 20 years while paying interest the same way as paper EE bonds.

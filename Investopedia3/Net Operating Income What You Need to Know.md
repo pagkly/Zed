@@ -16,9 +16,9 @@ author: Will Kenton
 Net Operating Income: What You Need to Know
 ## What Is Net Operating Income (NOI)?
 
-Net operating income (NOI) is a calculation used to analyze the profitability of income-generating real estate investments. NOI equals all [revenue](https://www.investopedia.com/terms/r/revenue.asp) from the property, minus all reasonably necessary [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp).
+Net operating income (NOI) is a calculation used to analyze the profitability of income-generating real estate investments. NOI equals all [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) from the property, minus all reasonably necessary [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp).
 
-NOI is a before-tax figure, appearing on a property’s income and cash flow statement, that excludes principal and interest payments on loans, capital expenditures, depreciation, and [amortization](https://www.investopedia.com/terms/a/amortization.asp). When this metric is used in other industries, it is referred to as “EBIT,” which stands for “[earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp).”
+NOI is a before-tax figure, appearing on a property’s income and cash flow statement, that excludes principal and interest payments on loans, capital expenditures, depreciation, and [[amortization]](https://www.investopedia.com/terms/a/amortization.asp). When this metric is used in other industries, it is referred to as “EBIT,” which stands for “[earnings before interest and taxes](https://www.investopedia.com/terms/e/ebit.asp).”
 
 ### Key Takeaways
 
@@ -32,11 +32,11 @@ NOI is a before-tax figure, appearing on a property’s income and cash flow sta
 
 Net operating income is a valuation method used by real estate professionals to determine the precise value of their income-producing properties. To calculate NOI, the property's operating expenses must be subtracted from the income a property produces.
 
-In addition to rental income, a property might also generate revenue from amenities such as parking structures, vending machines, and laundry facilities. Operating expenses include the costs of running and maintaining the building, including insurance premiums, legal fees, utilities, [property taxes](https://www.investopedia.com/terms/p/propertytax.asp), repair costs, and janitorial fees. [Capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp), such as costs for a new air-conditioning system for the entire building, are not included in the calculation.
+In addition to rental income, a property might also generate revenue from amenities such as parking structures, vending machines, and laundry facilities. Operating expenses include the costs of running and maintaining the building, including insurance premiums, legal fees, utilities, [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp), repair costs, and janitorial fees. [[Capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp), such as costs for a new air-conditioning system for the entire building, are not included in the calculation.
 
 NOI helps real estate investors determine the capitalization rate, which in turn helps them calculate a property’s value, thus allowing them to compare different properties they may be considering buying or selling.
 
-For financed properties, NOI is also used in the [debt coverage ratio](https://www.investopedia.com/terms/d/dscr.asp) (DCR), which tells lenders and investors whether a property’s income covers its operating expenses and debt payments. NOI is also used to calculate the net income multiplier, cash return on investment, and total return on investment.
+For financed properties, NOI is also used in the [[debt coverage ratio]](https://www.investopedia.com/terms/d/dscr.asp) (DCR), which tells lenders and investors whether a property’s income covers its operating expenses and debt payments. NOI is also used to calculate the net income multiplier, cash return on investment, and total return on investment.
 
 ## How to Calculate Net Operating Income (NOI)
 
@@ -73,11 +73,11 @@ The net operating income (NOI) in this example would be $26,000 - $10,000 = $16,
 
 ## Example of Net Operating Income (NOI)
 
-Let us assume that you own a property that annually pulls in $120,000 in revenues and incurs $80,000 in operating expenses. In this circumstance, it will have a resulting NOI of $40,000 ($120,000 - $80,000). If the total is negative, where operating expenses are higher than revenues, the result is called a [net operating loss](https://www.investopedia.com/terms/n/netoperatingloss.asp) (NOL).
+Let us assume that you own a property that annually pulls in $120,000 in revenues and incurs $80,000 in operating expenses. In this circumstance, it will have a resulting NOI of $40,000 ($120,000 - $80,000). If the total is negative, where operating expenses are higher than revenues, the result is called a [[net operating loss]](https://www.investopedia.com/terms/n/netoperatingloss.asp) (NOL).
 
 Creditors and commercial lenders rely heavily on NOI to determine the income generation potential of the property to be mortgaged, even more than they factor an investor's credit history into their decisions. Simply put: this metric helps lenders fundamentally assess the initial value of the property by forecasting its cash flows.
 
-NOI is used to determine the capitalization rate of a property, also known as the [return on investment](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI) in real estate. It divides NOI by the purchase price.
+NOI is used to determine the capitalization rate of a property, also known as the [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI) in real estate. It divides NOI by the purchase price.
 
 If a property is deemed profitable, the lenders also use this figure to determine the size of the loan they’re willing to make. On the other hand, if the property shows a net operating loss, lenders are likely to reject the borrower's mortgage application, outright.
 

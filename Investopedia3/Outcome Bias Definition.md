@@ -16,7 +16,7 @@ author: Clay Halton
 Outcome Bias Definition
 ## What Is Outcome Bias?
 
-Outcome bias arises when a decision is based on the outcome of previous events, without regard to how the past events developed. Outcome bias does not involve analysis of factors that lead to a previous event, and instead de-emphasizes the events preceding the outcomes and overemphasizes the outcome. Unlike [hindsight bias](https://www.investopedia.com/terms/h/hindsight-bias.asp), outcome bias does not involve the distortion of past events.
+Outcome bias arises when a decision is based on the outcome of previous events, without regard to how the past events developed. Outcome bias does not involve analysis of factors that lead to a previous event, and instead de-emphasizes the events preceding the outcomes and overemphasizes the outcome. Unlike [[hindsight bias]](https://www.investopedia.com/terms/h/hindsight-bias.asp), outcome bias does not involve the distortion of past events.
 
 ## Understanding Outcome Bias
 
@@ -26,4 +26,4 @@ Gamblers also fall prey to outcome bias. While statistically, casinos come out a
 
 In business settings, an overemphasis on "performance" is increasingly creating an outcome-centric culture which often exacerbates people’s fears by creating up a zero-sum game in which people are either succeeding or losing and “winners” quickly get weeded out from “losers.”
 
-As an example, few would argue with the impressive growth of social media companies. During this growth, only a handful of individuals cautioned against the methods by which growth was generated. Upon learning personal and private user data was a significant driver of growth, the outcome bias of social media is on full display. In effect, ethical lapses are generally overlooked during successful outcomes. However, bad outcomes are far more likely to [produce](https://www.hbs.edu/faculty/Publication%20Files/08-080_1751f2c7-abe2-402b-9959-1d8190ebf62a.pdf) active condemnation.
+As an example, few would argue with the impressive growth of social media companies. During this growth, only a handful of individuals cautioned against the methods by which growth was generated. Upon learning personal and private user data was a significant driver of growth, the outcome bias of social media is on full display. In effect, ethical lapses are generally overlooked during successful outcomes. However, bad outcomes are far more likely to [[produce]](https://www.hbs.edu/faculty/Publication%20Files/08-080_1751f2c7-abe2-402b-9959-1d8190ebf62a.pdf) active condemnation.

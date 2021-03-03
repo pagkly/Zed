@@ -16,7 +16,7 @@ author: James Chen
 Hang Seng Index (HSI) Definition
 ## What Is the Hang Seng Index (HSI)?
 
-The Hang Seng Index or HSI is a market [capitalization-weighted index](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp) of the largest companies that trade on the Hong Kong Exchange.
+The Hang Seng Index or HSI is a market [[capitalization-weighted index]](https://www.investopedia.com/terms/c/capitalizationweightedindex.asp) of the largest companies that trade on the Hong Kong Exchange.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ The Hang Seng Index or HSI is a market [capitalization-weighted index](https://w
 
 ## Understanding the Hang Seng Index (HSI)
 
-A [subsidiary](https://www.investopedia.com/terms/s/subsidiary.asp) of the Hang Seng Bank maintains the Hang Seng Index and has done so since 1969. The index aims to capture the leadership of the Hong Kong exchange and covers approximately 65% of its total [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp). The Hang Seng is the most widely quoted barometer for the Hong Kong economy and is often used as a market benchmark for Hong Kong investors. Because of Hong Kong's status as a [special administrative region](https://www.investopedia.com/terms/s/special-administrative-region.asp) of China, there are close ties between the two economies, and many Chinese companies are listed on the Hong Kong Exchange.
+A [[subsidiary]](https://www.investopedia.com/terms/s/subsidiary.asp) of the Hang Seng Bank maintains the Hang Seng Index and has done so since 1969. The index aims to capture the leadership of the Hong Kong exchange and covers approximately 65% of its total [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp). The Hang Seng is the most widely quoted barometer for the Hong Kong economy and is often used as a market benchmark for Hong Kong investors. Because of Hong Kong's status as a [[special administrative region]](https://www.investopedia.com/terms/s/special-administrative-region.asp) of China, there are close ties between the two economies, and many Chinese companies are listed on the Hong Kong Exchange.
 
-Hang Seng members also fall into one of four sub-indexes, including commerce and industry, finance, utilities, and properties. A 10% [capping](https://www.investopedia.com/terms/c/capped-index.asp) is applied to avoid any single stock domination of the index. A committee convenes on a quarterly basis to evaluate the index components and decide if companies should be added or removed.
+Hang Seng members also fall into one of four sub-indexes, including commerce and industry, finance, utilities, and properties. A 10% [[capping]](https://www.investopedia.com/terms/c/capped-index.asp) is applied to avoid any single stock domination of the index. A committee convenes on a quarterly basis to evaluate the index components and decide if companies should be added or removed.
 
-The HSI is a [free float-adjusted](https://www.investopedia.com/terms/f/freefloatmethodology.asp) market capitalization weighted index with that is calculated and disseminated real-time at 2-second intervals during the trading hours of the [Hong Kong stock exchange](https://www.investopedia.com/terms/h/hkex.asp) (HKEx). The HSI is also a price index without adjustments made for cash dividends or warrant bonuses.
+The HSI is a [[free float-adjusted]](https://www.investopedia.com/terms/f/freefloatmethodology.asp) market capitalization weighted index with that is calculated and disseminated real-time at 2-second intervals during the trading hours of the [[Hong Kong stock exchange]](https://www.investopedia.com/terms/h/hkex.asp) (HKEx). The HSI is also a price index without adjustments made for cash dividends or warrant bonuses.
 
 ## Hang Seng Components
 

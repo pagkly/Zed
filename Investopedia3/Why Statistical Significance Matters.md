@@ -16,7 +16,7 @@ author: Will Kenton
 Why Statistical Significance Matters
 ## What Is Statistical Significance?
 
-Statistical significance is a determination by an analyst that the results in the data are not explainable by chance alone. Statistical [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) is the method by which the analyst makes this determination. This test provides a [p-value](https://www.investopedia.com/terms/p/p-value.asp), which is the probability of observing results as extreme as those in the data, assuming the results are truly due to chance alone. A p-value of 5% or lower is often considered to be statistically significant.
+Statistical significance is a determination by an analyst that the results in the data are not explainable by chance alone. Statistical [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) is the method by which the analyst makes this determination. This test provides a [[p-value]](https://www.investopedia.com/terms/p/p-value.asp), which is the probability of observing results as extreme as those in the data, assuming the results are truly due to chance alone. A p-value of 5% or lower is often considered to be statistically significant.
 
 ### Key Takeaways
 

@@ -16,7 +16,7 @@ author: James Chen
 How Contract for Differences (CFD) Work
 ## What Is a Contract for Differences (CFD)?
 
-A contract for differences (CFD) is an arrangement made in financial derivatives trading where the differences in the settlement between the open and closing trade prices are [cash-settled](https://www.investopedia.com/terms/c/cashsettlement.asp). There is no delivery of physical goods or securities with CFDs.
+A contract for differences (CFD) is an arrangement made in financial derivatives trading where the differences in the settlement between the open and closing trade prices are [[cash-settled]](https://www.investopedia.com/terms/c/cashsettlement.asp). There is no delivery of physical goods or securities with CFDs.
 
 Contracts for differences is an advanced trading strategy that is used by experienced traders and is not allowed in the United States.1
 
@@ -40,7 +40,7 @@ Conversely, if a trader believes a security's price will decline, an opening sel
 
 ## Transacting in CFDs
 
-Contracts for differences can be used to trade many assets and securities including exchange-traded funds (ETFs). Traders will also use these products to speculate on the price moves in commodity [futures contracts](https://www.investopedia.com/terms/f/futurescontract.asp) such as those for crude oil and corn. Futures contracts are standardized agreements or contracts with obligations to buy or sell a particular asset at a preset price with a future expiration date.
+Contracts for differences can be used to trade many assets and securities including exchange-traded funds (ETFs). Traders will also use these products to speculate on the price moves in commodity [[futures contracts]](https://www.investopedia.com/terms/f/futurescontract.asp) such as those for crude oil and corn. Futures contracts are standardized agreements or contracts with obligations to buy or sell a particular asset at a preset price with a future expiration date.
 
 Although CFDs allow investors to trade the price movements of futures, they are not futures contracts by themselves. CFDs do not have expiration dates containing preset prices but trade like other securities with buy and sell prices.
 
@@ -52,19 +52,19 @@ CFDs provide traders with all of the benefits and risks of owning a security wit
 
 CFDs are traded on margin meaning the broker allows investors to borrow money to increase leverage or the size of the position to amply gains. Brokers will require traders to maintain specific account balances before they allow this type of transaction.
 
-Trading on margin CFDs typically provides higher [leverage](https://www.investopedia.com/terms/l/leverage.asp) than traditional trading. Standard leverage in the CFD market can be as low as a 2% margin requirement and as high as a 20% margin. Lower margin requirements mean less capital outlay and greater potential returns for the trader.
+Trading on margin CFDs typically provides higher [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) than traditional trading. Standard leverage in the CFD market can be as low as a 2% margin requirement and as high as a 20% margin. Lower margin requirements mean less capital outlay and greater potential returns for the trader.
 
-Typically, fewer rules and regulations surround the CFD market as compared to standard exchanges. As a result, CFDs can have lower capital requirements or cash required in a brokerage account. Often, traders can open an account for as little as $1,000 with a broker. Also, since CFDs mirror [corporate actions](https://www.investopedia.com/terms/c/corporateaction.asp) taking place, a CFD owner can receive [cash dividends](https://www.investopedia.com/terms/c/cashdividend.asp) increasing the trader’s return on investment. Most CFD brokers offer products in all major markets worldwide. Traders have easy access to any market that is open from the broker’s platform.
+Typically, fewer rules and regulations surround the CFD market as compared to standard exchanges. As a result, CFDs can have lower capital requirements or cash required in a brokerage account. Often, traders can open an account for as little as $1,000 with a broker. Also, since CFDs mirror [[corporate actions]](https://www.investopedia.com/terms/c/corporateaction.asp) taking place, a CFD owner can receive [[cash dividends]](https://www.investopedia.com/terms/c/cashdividend.asp) increasing the trader’s return on investment. Most CFD brokers offer products in all major markets worldwide. Traders have easy access to any market that is open from the broker’s platform.
 
-CFDs allow investors to easily take a long or short position or a buy and sell position. The CFD market typically does not have short-selling rules. An instrument may be shorted at any time. Since there is no ownership of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp), there is no borrowing or shorting cost. Also, few or no fees are charged for trading a CFD. Brokers make money from the trader paying the spread meaning the trader pays the ask price when buying, and takes the [bid price](https://www.investopedia.com/terms/b/bidprice.asp) when selling or shorting. The brokers take a piece or spread on each bid and ask price that they quote.
+CFDs allow investors to easily take a long or short position or a buy and sell position. The CFD market typically does not have short-selling rules. An instrument may be shorted at any time. Since there is no ownership of the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp), there is no borrowing or shorting cost. Also, few or no fees are charged for trading a CFD. Brokers make money from the trader paying the spread meaning the trader pays the ask price when buying, and takes the [[bid price]](https://www.investopedia.com/terms/b/bidprice.asp) when selling or shorting. The brokers take a piece or spread on each bid and ask price that they quote.
 
 ## Disadvantages of a CFD
 
-If the underlying asset experiences extreme [volatility](https://www.investopedia.com/terms/v/volatility.asp) or price fluctuations, the spread on the bid and ask prices can be significant. Paying a large spread on entries and exits prevents profiting from small moves in CFDs decreasing the number of winning trades while increasing losses.
+If the underlying asset experiences extreme [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) or price fluctuations, the spread on the bid and ask prices can be significant. Paying a large spread on entries and exits prevents profiting from small moves in CFDs decreasing the number of winning trades while increasing losses.
 
 Since the CFD industry is not highly regulated, the broker’s credibility is based on its reputation and financial viability. As a result, CFDs are not available in the United States.
 
-Since CFDs trade using leverage, investors holding a losing position can get a [margin call](https://www.investopedia.com/terms/m/margincall.asp) from their broker, which requires additional funds to be deposited to balance out the losing position. Although leverage can amplify gains with CFDs, leverage can also magnify losses and traders are at risk of losing 100% of their investment. Also, if money is borrowed from a broker to trade, the trader will be charged a daily interest rate amount.
+Since CFDs trade using leverage, investors holding a losing position can get a [[margin call]](https://www.investopedia.com/terms/m/margincall.asp) from their broker, which requires additional funds to be deposited to balance out the losing position. Although leverage can amplify gains with CFDs, leverage can also magnify losses and traders are at risk of losing 100% of their investment. Also, if money is borrowed from a broker to trade, the trader will be charged a daily interest rate amount.
 
 Pros
 
@@ -90,7 +90,7 @@ Cons
 
 ## Real-World Example of a CFD
 
-An investor wants to buy a CFD on the [SPDR S&P 500](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy) (SPY), which is an exchange traded fund that tracks the S&P 500 Index. The broker requires 5% down for the trade.
+An investor wants to buy a CFD on the [[SPDR S&P 500]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy) (SPY), which is an exchange traded fund that tracks the S&P 500 Index. The broker requires 5% down for the trade.
 
 The investor buys 100 shares of the SPY for $250 per share for a $25,000 position from which only 5% or $1,250 is paid initially to the broker.
 

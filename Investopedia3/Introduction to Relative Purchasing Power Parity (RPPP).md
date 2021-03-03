@@ -14,7 +14,7 @@ author: James Chen
 ---
 
 Introduction to Relative Purchasing Power Parity (RPPP)
-Relative Purchasing Power Parity (RPPP) is an expansion of the traditional [purchasing power parity](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) (PPP) theory to include changes in inflation over time. Purchasing power is the power of money expressed by the number of goods or services that one unit can buy, and which can be reduced by inflation. RPPP suggests that countries with higher rates of inflation will have a devalued currency.
+Relative Purchasing Power Parity (RPPP) is an expansion of the traditional [[purchasing power parity]](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) (PPP) theory to include changes in inflation over time. Purchasing power is the power of money expressed by the number of goods or services that one unit can buy, and which can be reduced by inflation. RPPP suggests that countries with higher rates of inflation will have a devalued currency.
 
 ### Key Takeaways
 
@@ -24,7 +24,7 @@ Relative Purchasing Power Parity (RPPP) is an expansion of the traditional [pur
 
 ## Understanding Relative Purchasing Power Parity (RPPP)
 
-According to relative purchasing power parity (RPPP), the difference between the two countries’ rates of inflation and the cost of commodities will drive changes in the [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) between the two countries. RPPP expands on the idea of purchasing power parity and complements the theory of absolute purchasing power parity (APPP). The APPP concept declares that the exchange rate between the two nations will be equal to the ratio of the price levels for those two countries. 
+According to relative purchasing power parity (RPPP), the difference between the two countries’ rates of inflation and the cost of commodities will drive changes in the [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) between the two countries. RPPP expands on the idea of purchasing power parity and complements the theory of absolute purchasing power parity (APPP). The APPP concept declares that the exchange rate between the two nations will be equal to the ratio of the price levels for those two countries. 
 
 The relative version of PPP is calculated with the following formula:
 
@@ -32,15 +32,15 @@ S\=P1P2where:S\= Exchange rate of currency 1 to currency 2P1\= Cost of goo
 
 ## Purchasing Power Parity in Theory
 
-Purchasing power parity (PPP) is the idea that goods in one country will cost the same in another country, once their exchange rate is applied. According to this theory, two [currencies](https://www.investopedia.com/terms/c/currency.asp) are at par when a market basket of goods is valued the same in both countries. The comparison of prices of identical items in different countries will determine the PPP rate. However, an exact comparison is difficult due to differences in product quality, consumer attitudes, and economic conditions in each nation. Also, purchasing power parity is a theoretical concept which may not be true in the real world, especially in the short run.
+Purchasing power parity (PPP) is the idea that goods in one country will cost the same in another country, once their exchange rate is applied. According to this theory, two [[currencies]](https://www.investopedia.com/terms/c/currency.asp) are at par when a market basket of goods is valued the same in both countries. The comparison of prices of identical items in different countries will determine the PPP rate. However, an exact comparison is difficult due to differences in product quality, consumer attitudes, and economic conditions in each nation. Also, purchasing power parity is a theoretical concept which may not be true in the real world, especially in the short run.
 
 Empirical evidence has shown that for many goods and baskets of goods, PPP is not observed in the short term, and there is uncertainty over whether it applies in the long term. 
 
 ## Dynamics of Relative PPP
 
-RPPP is essentially a dynamic form of PPP, as it relates the change in two countries’ inflation rates to the change in their exchange rate. The theory holds that inflation will reduce the real [purchasing power](https://www.investopedia.com/terms/p/purchasingpower.asp) of a nation's currency. Thus if a country has an annual inflation rate of 10%, that country's currency will be able to purchase 10% less real goods at the end of one year.
+RPPP is essentially a dynamic form of PPP, as it relates the change in two countries’ inflation rates to the change in their exchange rate. The theory holds that inflation will reduce the real [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp) of a nation's currency. Thus if a country has an annual inflation rate of 10%, that country's currency will be able to purchase 10% less real goods at the end of one year.
 
-RPPP also complements the theory of absolute purchasing power parity (APPP), which maintains that the exchange rate between two countries will be identical to the ratio of the price levels for those two countries. This concept comes from a basic idea known as the [law of one price](https://www.investopedia.com/terms/l/law-one-price.asp). This theory states that the real cost of a good must be the same across all countries after the consideration of the exchange rate.
+RPPP also complements the theory of absolute purchasing power parity (APPP), which maintains that the exchange rate between two countries will be identical to the ratio of the price levels for those two countries. This concept comes from a basic idea known as the [[law of one price]](https://www.investopedia.com/terms/l/law-one-price.asp). This theory states that the real cost of a good must be the same across all countries after the consideration of the exchange rate.
 
 ## Example of Relative Purchasing Power Parity
 

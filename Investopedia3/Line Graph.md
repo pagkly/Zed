@@ -26,7 +26,7 @@ A line graph (also known as a line plot or line chart) is a graph which uses lin
 
 ## Understanding Line Graphs
 
-In finance, line graphs are the most frequently used visual representation of values over time. They are frequently used to represent changes in the prices of securities, company revenue sheets, and histories of major stock [indexes](https://www.investopedia.com/terms/i/index.asp). They are also useful for comparing different securities. In investing, specifically with respect to the field of technical analysis, line graphs are quite informative in allowing the user to visualize trends, which can greatly aid them in their analyses.
+In finance, line graphs are the most frequently used visual representation of values over time. They are frequently used to represent changes in the prices of securities, company revenue sheets, and histories of major stock [[indexes]](https://www.investopedia.com/terms/i/index.asp). They are also useful for comparing different securities. In investing, specifically with respect to the field of technical analysis, line graphs are quite informative in allowing the user to visualize trends, which can greatly aid them in their analyses.
 
 Despite the benefits, there are limitations. For example, line graphs often lose clarity when there are too many data points. Furthermore, the apparent degree of change can be visually manipulated by adjusting the range of data points on the axes.
 
@@ -36,6 +36,6 @@ Line graphs consist of two axes: x-axis (horizontal) and y-axis (vertical), grap
 
 Each axis should be labeled according to the data measured along the axis and divided in appropriate increments (e.g., day 1, day 2, etc.). For example, if measuring the changes in a stock's prices for the previous two weeks, the x-axis would represent the time measured (trading days within the period), and the y-axis would represent stock prices. 
 
-When using line graphs to track the price of a [stock](https://www.investopedia.com/terms/s/stock.asp), the data point most commonly used is the [closing price](https://www.investopedia.com/terms/c/closingprice.asp) of the stock. On day one of trading, the stock's price was $30, resulting in a data point at (1, $30). On day two of trading, the stock's price was $35, resulting in a data point at (2, $35).
+When using line graphs to track the price of a [[stock]](https://www.investopedia.com/terms/s/stock.asp), the data point most commonly used is the [[closing price]](https://www.investopedia.com/terms/c/closingprice.asp) of the stock. On day one of trading, the stock's price was $30, resulting in a data point at (1, $30). On day two of trading, the stock's price was $35, resulting in a data point at (2, $35).
 
 Each data point is plotted and connected by a line that visually shows the changes in the values over time. If the value of the stock increased daily, the line would slope upward and to the right. Conversely, if the price of the stock was steadily decreasing, then the line would slope downward and to the right. Line graphs can be constructed manually, or by using software, such as Microsoft Excel, which greatly improves the speed, and accuracy, of the end product.

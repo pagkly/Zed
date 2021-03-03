@@ -30,7 +30,7 @@ The two-bin inventory control method is also sometimes referred to as [kanban](
 
 ## How Two-Bin Inventory Control Works
 
-Effectively managing stock levels is one of the biggest challenges that companies face. Not having enough [inventory](https://www.investopedia.com/terms/i/inventory.asp) can result in missing out on sales opportunities and losing out to competitors. Holding too much stock, on the other hand, increases the possibility of damage, spoilage, theft, and falling victim to shifts in [demand](https://www.investopedia.com/terms/d/demand.asp). It also means higher storage costs and delays recouping money from purchased goods to reinvest in the business.
+Effectively managing stock levels is one of the biggest challenges that companies face. Not having enough [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) can result in missing out on sales opportunities and losing out to competitors. Holding too much stock, on the other hand, increases the possibility of damage, spoilage, theft, and falling victim to shifts in [[demand]](https://www.investopedia.com/terms/d/demand.asp). It also means higher storage costs and delays recouping money from purchased goods to reinvest in the business.
 
 The two-bin inventory control system is a basic technique used to ensure that companies reduce these risks and always have, more or less, the right level of stock to meet demand without overdoing it.
 
@@ -51,11 +51,11 @@ Two-bin inventory control is almost always used for small or low-value items tha
 
 Moreover, depending on historical patterns of variance in the depletion rate of the working stock (bin no. 1), the amount ordered for the reserve stock (bin no. 2) can be adjusted.
 
-It is essential that the new order placed after the first bin is emptied arrives before the second bin is empty, otherwise, the process does not work as intended. The inventory approach used for both bins is [first in, first out](https://www.investopedia.com/terms/f/fifo.asp) (FIFO), given that the inventory placed in the first bin is also the inventory that is first sold.
+It is essential that the new order placed after the first bin is emptied arrives before the second bin is empty, otherwise, the process does not work as intended. The inventory approach used for both bins is [[first in, first out]](https://www.investopedia.com/terms/f/fifo.asp) (FIFO), given that the inventory placed in the first bin is also the inventory that is first sold.
 
 In general, the following calculation is used to determine how much inventory to keep in the reserve stock bin:
 
-_(Daily usage rate \* [lead time](https://www.investopedia.com/terms/l/leadtime.asp)) + safety stock_
+_(Daily usage rate \* [[lead time]](https://www.investopedia.com/terms/l/leadtime.asp)) + safety stock_
 
 ## Example of Two-Bin Inventory Control
 

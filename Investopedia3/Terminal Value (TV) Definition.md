@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Terminal Value (TV) Definition
 ## What Is Terminal Value (TV)?
 
-Terminal value (TV) is the value of a business or project beyond the forecast period when future cash flows can be estimated. Terminal value assumes a business will grow at a [set growth rate](https://www.investopedia.com/articles/active-trading/022315/stock-analysis-forecasting-revenue-and-growth.asp) forever after the forecast period. Terminal value often comprises a large percentage of the total assessed value.
+Terminal value (TV) is the value of a business or project beyond the forecast period when future cash flows can be estimated. Terminal value assumes a business will grow at a [[set growth rate]](https://www.investopedia.com/articles/active-trading/022315/stock-analysis-forecasting-revenue-and-growth.asp) forever after the forecast period. Terminal value often comprises a large percentage of the total assessed value.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Terminal value (TV) is the value of a business or project beyond the forecast pe
 
 Forecasting gets murkier as the time horizon grows longer. This holds true in finance as well, especially when it comes to estimating a company's cash flows well into the future. At the same time, businesses need to be valued. To "solve" this, analysts use financial models, such as discounted cash flow (DCF), along with certain assumptions to derive the total value of a business or project.
 
-Discounted cash flow (DCF) is a popular method used in feasibility studies, [corporate acquisitions](https://www.investopedia.com/terms/a/acquisition.asp), and stock market valuation. This method is based on the theory that an asset's value is equal to all future cash flows derived from that asset. These cash flows must be discounted to the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) at a discount rate representing the cost of capital, such as the interest rate.
+Discounted cash flow (DCF) is a popular method used in feasibility studies, [[corporate acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp), and stock market valuation. This method is based on the theory that an asset's value is equal to all future cash flows derived from that asset. These cash flows must be discounted to the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) at a discount rate representing the cost of capital, such as the interest rate.
 
 DCF has two major components: forecast period and terminal value. The forecast period is usually about five years. Anything longer than that and the accuracy of the projections suffer. This is where calculating terminal value becomes important.
 
@@ -39,7 +39,7 @@ There are two commonly used methods to calculate terminal value: perpetual growt
 
 ### Perpetuity Method
 
-Discounting is necessary because the time value of money creates a discrepancy between the current and future values of a given sum of money. In business valuation, [free cash flow](https://www.investopedia.com/terms/f/freecashflow.asp) or dividends can be forecast for a discrete period of time, but the performance of ongoing concerns becomes more challenging to estimate as the projections stretch further into the future. Moreover, it is difficult to determine the precise time when a company may cease operations.
+Discounting is necessary because the time value of money creates a discrepancy between the current and future values of a given sum of money. In business valuation, [[free cash flow]](https://www.investopedia.com/terms/f/freecashflow.asp) or dividends can be forecast for a discrete period of time, but the performance of ongoing concerns becomes more challenging to estimate as the projections stretch further into the future. Moreover, it is difficult to determine the precise time when a company may cease operations.
 
 To overcome these limitations, investors can assume that cash flows will grow at a stable rate forever, starting at some point in the future. This represents the terminal value. 
 
@@ -53,7 +53,7 @@ FCF = Free cash flow for the last forecast period 
 
 g = Terminal growth rate 
 
-d = discount rate (which is usually the [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp))
+d = discount rate (which is usually the [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp))
 
 The terminal growth rate is the constant rate that a company is expected to grow at forever. This growth rate starts at the end of the last forecasted cash flow period in a discounted cash flow model and goes into perpetuity. A terminal growth rate is usually in line with the long-term rate of inflation, but not higher than the historical gross domestic product (GDP) growth rate.  
 

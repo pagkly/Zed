@@ -16,7 +16,7 @@ author: Will Kenton
 Wei
 ## What is a Wei?
 
-Wei is the smallest denomination of ether, the [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) coin used on the [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp) network.
+Wei is the smallest denomination of ether, the [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) coin used on the [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) network.
 
 1 ether = 1,000,000,000,000,000,000 wei (1018). The other way to look at it is one wei is one quintillionth of an ether.
 
@@ -32,7 +32,7 @@ As the price of cryptocurrencies grew at though 2017, people not in the crypto w
 
 To correctly denote the quantity of a transaction that may appear to be a very small fraction in terms of ether but a high value when converted to U.S. dollars or other real-world currencies, new units have been named to correctly identify and support the transactions. The smallest unit of the ethereum cryptocurrency is called the wei after Wei Dai, a cryptography activist who is known for supporting the widespread use of strong cryptography and privacy-oriented technologies.
 
-Unlike other cryptocurrencies (bitcoin, for example, only has the satoshi as a common sub-unit), ether has many names for different numbers of wei. The names of these sub-units indicate the quantity of the units (for example, a kwei is a kilo, meaning a thousand wei), but they have [informal names](https://ethereum.stackexchange.com/questions/253/the-ether-denominations-are-called-finney-szabo-and-wei-what-who-are-these-na) as well. The kwei is also known as an "ada" and a gwei is also called a "shannon."
+Unlike other cryptocurrencies (bitcoin, for example, only has the satoshi as a common sub-unit), ether has many names for different numbers of wei. The names of these sub-units indicate the quantity of the units (for example, a kwei is a kilo, meaning a thousand wei), but they have [[informal names]](https://ethereum.stackexchange.com/questions/253/the-ether-denominations-are-called-finney-szabo-and-wei-what-who-are-these-na) as well. The kwei is also known as an "ada" and a gwei is also called a "shannon."
 
 Sub-units of Ethereum
 
@@ -104,6 +104,6 @@ ether
 
 Wei Dai has been called an "intensely private" person, and with his skills in cryptography, he's able to make sure the public record of him is very small. We do know that he graduated from the University of Washington with a degree in Computer Science and that he worked at Microsoft in its cryptography research group.
 
-According to VoteHere.net as [cited here](https://en.bitcoinwiki.org/wiki/Wei_Dai), "Mr. Dai worked in the Cryptography Research Group at Microsoft Corporation in Redmond, Washington. While at Microsoft, he was involved in the study, design and implementation of cryptosystems for specialized applications. Prior to joining Microsoft, Mr. Dai was a programmer with TerraSciences of Acton, Massachusetts."
+According to VoteHere.net as [[cited here]](https://en.bitcoinwiki.org/wiki/Wei_Dai), "Mr. Dai worked in the Cryptography Research Group at Microsoft Corporation in Redmond, Washington. While at Microsoft, he was involved in the study, design and implementation of cryptosystems for specialized applications. Prior to joining Microsoft, Mr. Dai was a programmer with TerraSciences of Acton, Massachusetts."
 
 Wei is an original member of the cypherpunk movement in the 1990s whose members eventually developed the theoretical basis for cryptocurrency in the 2010s. In his proto-crypto [manifesto](http://www.weidai.com/bmoney.txt) for a cryptocurrency called bmoney, Wei laid the foundation for "smart contracts" that would self-execute and not need intervention by a human third party for enforcement. For this innovation, he is honored by having the name of the atomic unit of ether named after him.

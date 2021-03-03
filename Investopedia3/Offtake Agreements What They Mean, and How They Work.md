@@ -24,9 +24,9 @@ Offtake agreements are typically used to help the selling company acquire financ
 
 Offtake agreements are legally binding contracts related to transactions between buyers and sellers. Their provisions usually specify the purchase price for the goods and their delivery date, even though the agreements are reached before any goods are produced and any ground is broken on a facility. However, companies can usually back out of an offtake agreement through negotiations with the other party and with the payment of a fee.
 
-Offtake agreements are frequently used in [natural resource development](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp), where the capital costs to extract resources are significant and the company wants a guarantee some of its product will be sold.
+Offtake agreements are frequently used in [[natural resource development]](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp), where the capital costs to extract resources are significant and the company wants a guarantee some of its product will be sold.
 
-The offtake agreement serves an important role for the producer. If [lenders](https://www.investopedia.com/terms/l/lender.asp) can see the company has clients and customers lined up before production begins, they are more likely to approve the extension of a [loan](https://www.investopedia.com/terms/l/loan.asp) or credit. So offtake agreements make it easier to obtain [financing](https://www.investopedia.com/terms/f/financing.asp) to construct a facility.
+The offtake agreement serves an important role for the producer. If [[lenders]](https://www.investopedia.com/terms/l/lender.asp) can see the company has clients and customers lined up before production begins, they are more likely to approve the extension of a [[loan]](https://www.investopedia.com/terms/l/loan.asp) or credit. So offtake agreements make it easier to obtain [[financing]](https://www.investopedia.com/terms/f/financing.asp) to construct a facility.
 
 ### Key Takeaways
 
@@ -45,4 +45,4 @@ Offtake agreements also include default clauses that outline the recourse—incl
 
 ## Special Considerations for Offtake Agreements
 
-Most offtake agreements include [force majeure clauses](https://www.investopedia.com/terms/f/forcemajeure.asp). These clauses allow the buyer or seller to cancel the contract if certain events occur deemed outside the control of either party and if one puts unnecessary hardship on the other. Force majeure clauses often provide protection against the negative impact of certain acts of nature such as flooding or wildfires.
+Most offtake agreements include [[force majeure clauses]](https://www.investopedia.com/terms/f/forcemajeure.asp). These clauses allow the buyer or seller to cancel the contract if certain events occur deemed outside the control of either party and if one puts unnecessary hardship on the other. Force majeure clauses often provide protection against the negative impact of certain acts of nature such as flooding or wildfires.

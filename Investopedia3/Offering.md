@@ -28,7 +28,7 @@ An offering is also known as a securities offering, investment round, or funding
 
 ## How an Offering Works
 
-Usually, a company will make an offering of stocks or bonds to the public in an attempt to raise capital to invest in expansion or growth. There are instances of companies offering stock or bonds because of liquidity issues (i.e., not enough [cash](https://www.investopedia.com/terms/e/excess-cash-flow.asp) to pay the bills), but investors should be wary of any offering of this type.
+Usually, a company will make an offering of stocks or bonds to the public in an attempt to raise capital to invest in expansion or growth. There are instances of companies offering stock or bonds because of liquidity issues (i.e., not enough [[cash]](https://www.investopedia.com/terms/e/excess-cash-flow.asp) to pay the bills), but investors should be wary of any offering of this type.
 
 When a company initiates the IPO process, a very specific set of events occurs. First, an external IPO team is formed, consisting of an underwriter, lawyers, certified public accountants (CPAs), and [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) experts. Next, information regarding the company is compiled, including financial performance and expected future operations. This becomes part of the company prospectus, which is circulated for review. 
 
@@ -42,7 +42,7 @@ IPO underwriters work closely with the issuing body to ensure an offering goes
 
 ## Secondary Offerings
 
-A secondary market offering is a large block of securities offered for public sale that have been previously issued to the public. The blocks being offered may have been held by large investors or institutions, and the proceeds of the sale go to those holders, not the issuing company. Also called [secondary distribution](https://www.investopedia.com/terms/s/secondaryoffering.asp), these types of offerings are very different than initial public offerings and don't require nearly the same amount of background work.
+A secondary market offering is a large block of securities offered for public sale that have been previously issued to the public. The blocks being offered may have been held by large investors or institutions, and the proceeds of the sale go to those holders, not the issuing company. Also called [[secondary distribution]](https://www.investopedia.com/terms/s/secondaryoffering.asp), these types of offerings are very different than initial public offerings and don't require nearly the same amount of background work.
 
 ## Non-Initial Public Offerings vs. Initial Public Offerings
 

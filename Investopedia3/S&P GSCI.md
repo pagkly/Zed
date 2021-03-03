@@ -16,7 +16,7 @@ author: James Chen
 S&P GSCI
 ## What Is the S&P GSCI?
 
-The S&P GSCI is a composite index of commodities that measures the performance of the commodity market. The S&P GSCI is the commodity equivalent of stock indexes, such as the S&P 500 and the Dow Jones. The S&P GSCI was simply called the Goldman Sachs Commodity Index (GSCI) before it was purchased by [Standard & Poor’s](https://www.investopedia.com/terms/s/sp.asp) in 2007. Investing in a GSCI fund provides a broadly diversified, unleveraged, [long-only](https://www.investopedia.com/terms/l/long.asp) position in commodity futures.
+The S&P GSCI is a composite index of commodities that measures the performance of the commodity market. The S&P GSCI is the commodity equivalent of stock indexes, such as the S&P 500 and the Dow Jones. The S&P GSCI was simply called the Goldman Sachs Commodity Index (GSCI) before it was purchased by [[Standard & Poor’s]](https://www.investopedia.com/terms/s/sp.asp) in 2007. Investing in a GSCI fund provides a broadly diversified, unleveraged, [[long-only]](https://www.investopedia.com/terms/l/long.asp) position in commodity futures.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ The S&P GSCI is a composite index of commodities that measures the performance o
 
 ## How the S&P GSCI Methodology Works
 
-The methodology of the S&P GSCI was left unchanged when Standard & Poor's took over the index. The S&P GSCI is made up of 24 [exchange-traded futures](https://www.investopedia.com/terms/e/etf-futures-and-options.asp) contracts that cover physical commodities spanning five sectors. The sectors in 2019 are energy, industrial metals, precious metals, agriculture, and livestock. This sector mix has been consistent over the years, but the weighting shifts year to year.
+The methodology of the S&P GSCI was left unchanged when Standard & Poor's took over the index. The S&P GSCI is made up of 24 [[exchange-traded futures]](https://www.investopedia.com/terms/e/etf-futures-and-options.asp) contracts that cover physical commodities spanning five sectors. The sectors in 2019 are energy, industrial metals, precious metals, agriculture, and livestock. This sector mix has been consistent over the years, but the weighting shifts year to year.
 
 ### Components of the S&P GSCI
 
-The index's components qualify for inclusion in the index based on liquidity measures and are weighted in relation to their global production levels. That makes the GSCI valuable as both an [economic indicator](https://www.investopedia.com/terms/e/economic_indicator.asp) and a commodities [market benchmark](https://www.investopedia.com/terms/b/benchmark.asp). Below is a table of the 2019 reference percentage dollar weights (RPDW) for the S&P GSCI.
+The index's components qualify for inclusion in the index based on liquidity measures and are weighted in relation to their global production levels. That makes the GSCI valuable as both an [[economic indicator]](https://www.investopedia.com/terms/e/economic_indicator.asp) and a commodities [[market benchmark]](https://www.investopedia.com/terms/b/benchmark.asp). Below is a table of the 2019 reference percentage dollar weights (RPDW) for the S&P GSCI.
 
 Commodity
 
@@ -141,7 +141,7 @@ The S&P GSCI is designed to be investable, and there are ETF products designed t
 
 ## Criticism of the S&P GSCI Index
 
-The S&P GSCI automatically rolls futures contracts, which may not be an optimal investment strategy. Futures contracts are affected by [contango](https://www.investopedia.com/terms/c/contango.asp) and [backwardation](https://www.investopedia.com/terms/b/backwardation.asp), and they can cause commodity futures to perform differently than actual commodities.
+The S&P GSCI automatically rolls futures contracts, which may not be an optimal investment strategy. Futures contracts are affected by [[contango]](https://www.investopedia.com/terms/c/contango.asp) and [[backwardation]](https://www.investopedia.com/terms/b/backwardation.asp), and they can cause commodity futures to perform differently than actual commodities.
 
 In theory, professional commodities traders can also use contango and backwardation to profit at the expense of simple automatic rolling strategies. This may be a significant flaw in the S&P GSCI. It could also be more theoretical than real, like many early criticisms of stock market index funds.
 

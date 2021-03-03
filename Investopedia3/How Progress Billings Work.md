@@ -16,7 +16,7 @@ author: Will Kenton
 How Progress Billings Work
 ## What Are Progress Billings?
 
-Progress billings are [invoices](https://www.investopedia.com/terms/i/invoice.asp) requesting payment for work completed to date. Progress billings are prepared and submitted for payment at different stages in the process of a major project.
+Progress billings are [[invoices]](https://www.investopedia.com/terms/i/invoice.asp) requesting payment for work completed to date. Progress billings are prepared and submitted for payment at different stages in the process of a major project.
 
 This type of billing is common in projects that last a long time. It allows the person billing—usually a contractor—to fund the project and themselves as the project continues.
 
@@ -79,7 +79,7 @@ Many contractors factor in a price allowance, such as small percentage that prov
 
 ## Example of Progress Billings
 
-Once a client chooses the contractor, the two will [negotiate](https://www.investopedia.com/terms/n/negotiation.asp) the terms of the contract. This process includes establishing a payment schedule or frequency of payment according to certain milestones agreed upon by both parties. Once the work begins, and the milestones are reached, the contractor can then start submitting invoices to the client.
+Once a client chooses the contractor, the two will [[negotiate]](https://www.investopedia.com/terms/n/negotiation.asp) the terms of the contract. This process includes establishing a payment schedule or frequency of payment according to certain milestones agreed upon by both parties. Once the work begins, and the milestones are reached, the contractor can then start submitting invoices to the client.
 
 Assume ABC Construction signs an agreement to build an office building for $1.6 million over a two-year period and that ABC’s profit is $600,000.
 

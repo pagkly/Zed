@@ -29,26 +29,26 @@ Lifetime cost is the total of all other expenses relating to a good, like a car 
 Businesses will frequently calculate the lifetime cost before making large expenditures, upgrades, and renovations. On the other hand, most individuals rarely estimate this cost before buying a home, boat, automobile, or other expensive items. Besides the base purchase price, lifetime costs include:
 
 -   The cost of maintaining the article in a good or functioning fashion
--   Cost of [insurance](https://www.investopedia.com/terms/i/insurance.asp) to protect the item
+-   Cost of [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) to protect the item
 -   Renovations or upgrades required by the product
 
 Another charge that could add to the lifetime cost is the alternative use of funds. In other words, there is an impact on a consumer's resources, if instead of purchasing the item the individual spent the sum differently.
 
 ## Special Considerations
 
-As an example, if a person bought a fur coat, lifetime cost would include the purchase price as well as the price to clean, store, insure, and otherwise maintain the coat. Alternatively, the individual could have invested that sum into a secure [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or other security.
+As an example, if a person bought a fur coat, lifetime cost would include the purchase price as well as the price to clean, store, insure, and otherwise maintain the coat. Alternatively, the individual could have invested that sum into a secure [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) or other security.
 
 Often, the lifetime cost of an item may be more than the original purchase price. Perhaps, it is the origin of the saying that the definition of a boat is a hole in the water into which you throw money.
 
-The lifetime cost of credit card debt is more than most people realize. According to [Credit.com](https://www.credit.com/tools/lifetime-cost-of-debt/), the average borrower will pay over $279,000 in interest charges on their credit card purchases during their lifetime.
+The lifetime cost of credit card debt is more than most people realize. According to [[Credit.com]](https://www.credit.com/tools/lifetime-cost-of-debt/), the average borrower will pay over $279,000 in interest charges on their credit card purchases during their lifetime.
 
 ## Lifetime Cost of Holding Debt
 
-Lifetime cost may also apply to debts. For example, the lifetime cost of debt held on a [line of credit](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC) will be much more than the amount spent on goods had they been purchased with cash or other ready funds. The use of a [credit card](https://www.investopedia.com/terms/c/creditcard.asp) or other loan will incur interest and fees, adding to the lifetime cost of the object.
+Lifetime cost may also apply to debts. For example, the lifetime cost of debt held on a [[line of credit]](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC) will be much more than the amount spent on goods had they been purchased with cash or other ready funds. The use of a [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) or other loan will incur interest and fees, adding to the lifetime cost of the object.
 
 ### $9,282
 
-The average amount it costs to own and operate a car per year, according to the [American Automobile Association](https://www.aaa.com/autorepair/articles/average-annual-cost-of-new-vehicle-ownership)'s latest survey; the number includes the cost of gasoline, maintenance, insurance, license and registration, loan finance charges, and depreciation costs.
+The average amount it costs to own and operate a car per year, according to the [[American Automobile Association]](https://www.aaa.com/autorepair/articles/average-annual-cost-of-new-vehicle-ownership)'s latest survey; the number includes the cost of gasoline, maintenance, insurance, license and registration, loan finance charges, and depreciation costs.
 
 ## Real-World Example of Lifetime Cost
 

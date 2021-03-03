@@ -16,18 +16,18 @@ author: Adam Barone
 Economic Indicator
 ## What Is Economic Indicator?
 
-An economic indicator is a piece of economic data, usually of [macroeconomic](https://www.investopedia.com/terms/m/macroeconomics.asp) scale, that is used by analysts to interpret current or future investment possibilities. These indicators also help to judge the overall health of an economy.
+An economic indicator is a piece of economic data, usually of [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) scale, that is used by analysts to interpret current or future investment possibilities. These indicators also help to judge the overall health of an economy.
 
 Economic indicators can be anything the investor chooses, but specific pieces of data released by the government and non-profit organizations have become widely followed. Such indicators include but aren't limited to:
 
 -   The [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp)
--   [Gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP)
+-   [[Gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP)
 -   Unemployment figures
 -   Price of crude oil
 
 ## Economic Indicator Explained
 
-Economic indicators can be divided into categories or groups. Most of these economic indicators have a specific schedule for release, allowing [investors](https://www.investopedia.com/terms/i/investor.asp) to prepare for and plan on seeing certain information at certain times of the month and year.
+Economic indicators can be divided into categories or groups. Most of these economic indicators have a specific schedule for release, allowing [[investors]](https://www.investopedia.com/terms/i/investor.asp) to prepare for and plan on seeing certain information at certain times of the month and year.
 
 [Leading indicators](https://www.investopedia.com/terms/l/leadingindicator.asp), such as the yield curve, consumer durables, net business formations, and share prices, are used to predict the future movements of an economy. The numbers or data on these financial guideposts will move or change before the economy, thus their category's name. Consideration of the information from these indicators must be taken with a grain of salt, as they can be incorrect.
 
@@ -43,7 +43,7 @@ Economic indicators can be divided into categories or groups. Most of these econ
 
 ## Interpreting Economic Indicators
 
-An economic indicator is only useful if one interprets it correctly. History has shown strong [correlations](https://www.investopedia.com/terms/c/correlation.asp) between [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp), as measured by GDP, and corporate profit growth. However, determining whether a specific company may grow its earnings based on one indicator of GDP is nearly impossible.
+An economic indicator is only useful if one interprets it correctly. History has shown strong [[correlations]](https://www.investopedia.com/terms/c/correlation.asp) between [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp), as measured by GDP, and corporate profit growth. However, determining whether a specific company may grow its earnings based on one indicator of GDP is nearly impossible.
 
 Indicators provide signs along the road, but the best investors utilize many economic indicators, combining them to glean insight into patterns and verifications within multiple sets of data.
 

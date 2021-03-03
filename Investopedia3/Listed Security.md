@@ -16,13 +16,13 @@ author: Will Kenton
 Listed Security
 ## What Is a Listed Security?
 
-A listed security is a [financial instrument](https://www.investopedia.com/terms/f/financialinstrument.asp) that is traded through an exchange, such as the NYSE or Nasdaq. When a private company decides to go public and issue shares, it will need to choose an exchange on which to be listed. To do so, it must be able to meet that exchange's listing requirements and pay both the exchange's entry and yearly listing fees. Listing requirements vary by exchange and include minimum stockholder's equity, a minimum share price, and a minimum number of shareholders. Exchanges have listing requirements to ensure that only high-quality securities are traded on them and to uphold the exchange's reputation among investors.
+A listed security is a [[financial instrument]](https://www.investopedia.com/terms/f/financialinstrument.asp) that is traded through an exchange, such as the NYSE or Nasdaq. When a private company decides to go public and issue shares, it will need to choose an exchange on which to be listed. To do so, it must be able to meet that exchange's listing requirements and pay both the exchange's entry and yearly listing fees. Listing requirements vary by exchange and include minimum stockholder's equity, a minimum share price, and a minimum number of shareholders. Exchanges have listing requirements to ensure that only high-quality securities are traded on them and to uphold the exchange's reputation among investors.
 
 ## Listed Security Definition
 
-Becoming a listed company on the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp) is considerably less expensive than listing on the [NYSE](https://www.investopedia.com/terms/n/nyse.asp), so newer companies often opt for the Nasdaq if they meet its requirements. The exchange a company chooses to be listed on can affect how investors perceive the stock. Some companies choose to cross-list their securities on more than one exchange.
+Becoming a listed company on the [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp) is considerably less expensive than listing on the [[NYSE]](https://www.investopedia.com/terms/n/nyse.asp), so newer companies often opt for the Nasdaq if they meet its requirements. The exchange a company chooses to be listed on can affect how investors perceive the stock. Some companies choose to cross-list their securities on more than one exchange.
 
-If a stock fails to comply with the exchange's listing requirements, it will be delisted. Delisted securities that can no longer be traded on an exchange will sometimes be traded over the counter. The [over-the-counter market](https://www.investopedia.com/terms/o/over-the-countermarket.asp) does not have listing requirements.
+If a stock fails to comply with the exchange's listing requirements, it will be delisted. Delisted securities that can no longer be traded on an exchange will sometimes be traded over the counter. The [[over-the-counter market]](https://www.investopedia.com/terms/o/over-the-countermarket.asp) does not have listing requirements.
 
 ## Requirements to Become a Listed Company on NASDAQ
 
@@ -32,6 +32,6 @@ However, a company may qualify under a [closing price](https://www.investopedia
 
 ## Requirements to Become a Listed Company on NYSE
 
-To get listed on NYSE, a corporation needs at least 400 round-lot holders, or stockholders, with 100 shares apiece. The company must also have at least 1.1 million outstanding shares worth $40 million or more, and a price-per-share can be no lower than $4. If a new listing is an [IPO](https://www.investopedia.com/terms/i/ipo.asp), the NYSE requires a guarantee from the IPO underwriter that the IPO will meet the board's standards.3 
+To get listed on NYSE, a corporation needs at least 400 round-lot holders, or stockholders, with 100 shares apiece. The company must also have at least 1.1 million outstanding shares worth $40 million or more, and a price-per-share can be no lower than $4. If a new listing is an [[IPO]](https://www.investopedia.com/terms/i/ipo.asp), the NYSE requires a guarantee from the IPO underwriter that the IPO will meet the board's standards.3 
 
 The earnings test for a new NYSE listing requires a minimum $100 million total earnings for the previous three years. Valuation with cash flow requires capitalization – the value of the outstanding stock – of $500 million and an aggregate $25 million cash flow for the past two years. Pure valuation requires a $750 million capitalization and revenue of $75 million in the most recent fiscal year. An affiliate of an established NYSE listing only needs $500 million in capitalization and a year in existence as a company.4

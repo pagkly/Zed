@@ -16,7 +16,7 @@ author: Will Kenton
 What Does It Mean to Tender?
 ## What Is a Tender?
 
-A tender is an [invitation to bid](https://www.investopedia.com/terms/i/invitation-for-bid.asp) for a project or accept a formal offer such as a [takeover bid](https://www.investopedia.com/articles/stocks/08/corporate-takeover-defense.asp). Tendering usually refers to the process whereby governments and financial institutions invite bids for large projects that must be submitted within a finite deadline. The term also refers to the process whereby shareholders submit their shares or securities in response to a takeover offer.
+A tender is an [[invitation to bid]](https://www.investopedia.com/terms/i/invitation-for-bid.asp) for a project or accept a formal offer such as a [[takeover bid]](https://www.investopedia.com/articles/stocks/08/corporate-takeover-defense.asp). Tendering usually refers to the process whereby governments and financial institutions invite bids for large projects that must be submitted within a finite deadline. The term also refers to the process whereby shareholders submit their shares or securities in response to a takeover offer.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A tender is an [invitation to bid](https://www.investopedia.com/terms/i/invitati
 
 ## How a Tender Works
 
-For projects or [procurements](https://www.investopedia.com/terms/p/procurement.asp), most institutions have a well-defined tender process, as well as processes to govern the opening, evaluation, and final selection of the [vendors](https://www.investopedia.com/terms/v/vendor.asp). This ensures that the selection process is fair and transparent. When it comes to tender offers for takeover attempts, the conditions of the offer are clearly listed and include the purchase price, the number of shares requested, and a deadline for a response.
+For projects or [[procurements]](https://www.investopedia.com/terms/p/procurement.asp), most institutions have a well-defined tender process, as well as processes to govern the opening, evaluation, and final selection of the [[vendors]](https://www.investopedia.com/terms/v/vendor.asp). This ensures that the selection process is fair and transparent. When it comes to tender offers for takeover attempts, the conditions of the offer are clearly listed and include the purchase price, the number of shares requested, and a deadline for a response.
 
 A request for tender (RFT) is a formal and structured invitation to suppliers to submit competitive bids to supply raw materials, products, or services. Because this is a public and open process, laws were created to govern the process to ensure fair competition among bidders.1 2
 
@@ -37,7 +37,7 @@ In the private sector, requests for tenders are referred to as requests for prop
 
 ## Special Considerations
 
-A [tender offer](https://www.investopedia.com/terms/t/tenderoffer.asp) is a public solicitation to all shareholders requesting that they tender their stock for sale at a specific price during a certain time. To entice shareholders to release a specific number of shares, the offer typically exceeds the current market value of the shares. In the U.S., tender offers are highly scrutinized and subject to extensive regulation.3
+A [[tender offer]](https://www.investopedia.com/terms/t/tenderoffer.asp) is a public solicitation to all shareholders requesting that they tender their stock for sale at a specific price during a certain time. To entice shareholders to release a specific number of shares, the offer typically exceeds the current market value of the shares. In the U.S., tender offers are highly scrutinized and subject to extensive regulation.3
 
 Since the deal targets shareholders directly, it effectively removes upper management from the process, unless those members of management are also substantial shareholders. If the company looking to take over already has a notable share of the target company, referred to as a foothold block, a minority of the remaining shareholders may be enough to allow the company making the offer to become the majority shareholder.
 

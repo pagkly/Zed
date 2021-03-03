@@ -18,7 +18,7 @@ What Is Tax Avoidance?
 
 Tax avoidance is the use of legal methods to minimize the amount of income tax owed by an individual or a business. This is generally accomplished by claiming as many deductions and credits as are allowable. It may also be achieved by prioritizing investments that have tax advantages, such as buying municipal bonds.
 
-Tax avoidance is not the same as [tax evasion](https://www.investopedia.com/terms/t/taxevasion.asp), which relies on illegal methods such as underreporting income and falsifying deductions.1
+Tax avoidance is not the same as [[tax evasion]](https://www.investopedia.com/terms/t/taxevasion.asp), which relies on illegal methods such as underreporting income and falsifying deductions.1
 
 ### Key Takeaways
 
@@ -48,16 +48,16 @@ If you're saving money for your retirement, you're probably engaging in tax avoi
 
 Many business owners, freelancers, and investors find it necessary to save every receipt that may be useful for the purpose of legal tax avoidance.
 
-Every individual who contributes to an [employer-sponsored retirement plan](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) or invests in an individual retirement account (IRA) is engaging in tax avoidance.
+Every individual who contributes to an [[employer-sponsored retirement plan]](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp) or invests in an individual retirement account (IRA) is engaging in tax avoidance.
 
 -   If the account is a so-called "traditional" plan, the investor gets an immediate tax break equalling the amount they contribute each year, up to a limit that is revised annually. Income taxes on the money will be owed when it is withdrawn after the saver retires.6 The retiree's taxable income will probably be lower then, as will the taxes owed on that income. That's tax avoidance.
 -   If it is a Roth plan, the investor saves after-tax money and the tax break will come after retirement, in the form of tax-free savings.6 In this case, the entire balance of the account is tax-free. Roths allow the saver to permanently avoid income taxes on the money their contributions earn over the year.
 
 ### How Congress Encourages Tax Avoidance
 
-Tax avoidance is built into the [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp). Lawmakers use the Tax Code to manipulate citizen behavior by offering tax credits, deductions, or exemptions. By doing so, they are indirectly subsidizing various essential services such as health insurance, retirement saving, and higher education. Or, they may use the Tax Code to advance national goals, such as greater energy efficiency.
+Tax avoidance is built into the [[Internal Revenue Code]](https://www.investopedia.com/terms/i/internal-revenue-code.asp). Lawmakers use the Tax Code to manipulate citizen behavior by offering tax credits, deductions, or exemptions. By doing so, they are indirectly subsidizing various essential services such as health insurance, retirement saving, and higher education. Or, they may use the Tax Code to advance national goals, such as greater energy efficiency.
 
-Some of these tax policies disproportionately advantage citizens with higher incomes. Federal estate taxes have been abolished for everyone who inherits less than $11.58 million. [Capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) are taxed at a lower rate than most earned income. Mortgage interest is deductible on both a first home and a second (but not a third) home.
+Some of these tax policies disproportionately advantage citizens with higher incomes. Federal estate taxes have been abolished for everyone who inherits less than $11.58 million. [[Capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) are taxed at a lower rate than most earned income. Mortgage interest is deductible on both a first home and a second (but not a third) home.
 
 ### Tax Avoidance Complicates the Tax Code
 
@@ -65,7 +65,7 @@ The expanding use of tax avoidance in the U.S. Tax Code has made it one of the m
 
 Because the tax code changes every year to some extent, families have a difficult time making decisions about retirement, savings, and education. Businesses especially suffer the consequences of an ever-evolving Tax Code that affects hiring decisions and growth strategies.
 
-Eliminating or reducing tax avoidance is at the core of most proposals seeking to change the Tax Code. The proposals that have been introduced over the last decade seek to simplify the process by flattening tax rates and removing most tax avoidance provisions. Proponents of establishing a [flat tax](https://www.investopedia.com/terms/f/flattax.asp) rate, for example, argue that it would eliminate the need to pursue tax avoidance strategies. (Opponents, however, call the flat tax concept [regressive](https://www.investopedia.com/terms/r/regressivetax.asp).)
+Eliminating or reducing tax avoidance is at the core of most proposals seeking to change the Tax Code. The proposals that have been introduced over the last decade seek to simplify the process by flattening tax rates and removing most tax avoidance provisions. Proponents of establishing a [[flat tax]](https://www.investopedia.com/terms/f/flattax.asp) rate, for example, argue that it would eliminate the need to pursue tax avoidance strategies. (Opponents, however, call the flat tax concept [[regressive]](https://www.investopedia.com/terms/r/regressivetax.asp).)
 
 ## Tax Avoidance vs. Tax Evasion
 

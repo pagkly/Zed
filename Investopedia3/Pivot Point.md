@@ -16,9 +16,9 @@ author: Cory Mitchell
 Pivot Point
 ## What Is a Pivot Point?
 
-A pivot point is a technical analysis indicator, or calculations, used to determine the overall trend of the market over different time frames. The pivot point itself is simply the average of the intraday high and low, and the [closing price](https://www.investopedia.com/terms/c/closingprice.asp) from the previous trading day. On the subsequent day, trading above the pivot point is thought to indicate ongoing [bullish](https://www.investopedia.com/terms/b/bull.asp) sentiment, while trading below the pivot point indicates bearish sentiment.
+A pivot point is a technical analysis indicator, or calculations, used to determine the overall trend of the market over different time frames. The pivot point itself is simply the average of the intraday high and low, and the [[closing price]](https://www.investopedia.com/terms/c/closingprice.asp) from the previous trading day. On the subsequent day, trading above the pivot point is thought to indicate ongoing [[bullish]](https://www.investopedia.com/terms/b/bull.asp) sentiment, while trading below the pivot point indicates bearish sentiment.
 
-The pivot point is the basis for the indicator, but it also includes other support and resistance levels that are projected based on the pivot point calculation. All these levels help traders see where the price could experience [support or resistance](https://www.investopedia.com/trading/support-and-resistance-basics/). Similarly, if the price moves through these levels it lets the trader know the price is trending in that direction.
+The pivot point is the basis for the indicator, but it also includes other support and resistance levels that are projected based on the pivot point calculation. All these levels help traders see where the price could experience [[support or resistance]](https://www.investopedia.com/trading/support-and-resistance-basics/). Similarly, if the price moves through these levels it lets the trader know the price is trending in that direction.
 
 -   A pivot point is an intraday technical indicator used to identify trends and reversals mainly in equities, commodities, and forex markets.
 -   Pivot points are calculated to determine levels in which the sentiment of the market could change from bullish to bearish, and vice-versa.
@@ -36,7 +36,7 @@ Note that:
 
 ## How to Calculate Pivot Points
 
-The pivot point indicator can be added to a chart, and the levels will automatically be calculated and shown. Here's how to calculate them yourself, keeping in mind that pivot points are predominantly used by [day traders](https://www.investopedia.com/articles/trading/05/011705.asp) and are based on the high, low, and close from the prior trading day.
+The pivot point indicator can be added to a chart, and the levels will automatically be calculated and shown. Here's how to calculate them yourself, keeping in mind that pivot points are predominantly used by [[day traders]](https://www.investopedia.com/articles/trading/05/011705.asp) and are based on the high, low, and close from the prior trading day.
 
 If it is Wednesday morning, use the high, low, and close from Tuesday to create the pivot point levels for the Wednesday trading day.
 
@@ -49,15 +49,15 @@ TradingView.
 
 ## What Do Pivot Points Tell You?
 
-Pivot points are an intraday indicator for trading [futures](https://www.investopedia.com/terms/f/futures.asp), commodities, and stocks. Unlike moving averages or [oscillators](https://www.investopedia.com/terms/o/oscillator.asp), they are static and remain at the same prices throughout the day. This means traders can use the levels to help plan out their trading in advance.
+Pivot points are an intraday indicator for trading [[futures]](https://www.investopedia.com/terms/f/futures.asp), commodities, and stocks. Unlike moving averages or [[oscillators]](https://www.investopedia.com/terms/o/oscillator.asp), they are static and remain at the same prices throughout the day. This means traders can use the levels to help plan out their trading in advance.
 
-For example, traders know that if the price falls below the pivot point they will likely be [shorting](https://www.investopedia.com/terms/s/shortselling.asp) early in the session. Conversely, if the price is above the pivot point, they will be buying. S1, S2, R1, and R2 can be used as target prices for such trades, as well as [stop-loss](https://www.investopedia.com/terms/s/stop-lossorder.asp) levels.
+For example, traders know that if the price falls below the pivot point they will likely be [[shorting]](https://www.investopedia.com/terms/s/shortselling.asp) early in the session. Conversely, if the price is above the pivot point, they will be buying. S1, S2, R1, and R2 can be used as target prices for such trades, as well as [[stop-loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp) levels.
 
-Combining pivot points with other trend indicators is common practice with traders. A pivot point that also overlaps or converges with a 50-period or 200-period [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) (MA), or [Fibonacci extension](https://www.investopedia.com/terms/f/fibonacciextensions.asp) level, becomes a stronger support/resistance level.
+Combining pivot points with other trend indicators is common practice with traders. A pivot point that also overlaps or converges with a 50-period or 200-period [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) (MA), or [[Fibonacci extension]](https://www.investopedia.com/terms/f/fibonacciextensions.asp) level, becomes a stronger support/resistance level.
 
 ## Pivot Points vs. Fibonacci Retracements
 
-Pivot points and [Fibonacci retracements](https://www.investopedia.com/terms/f/fibonacciretracement.asp) or extensions both draw horizontal lines to mark potential support and resistance areas. The Fibonacci indicator is useful because it can be drawn between any two significant price points, such as a high and a low. It will then create the levels between those two points.
+Pivot points and [[Fibonacci retracements]](https://www.investopedia.com/terms/f/fibonacciretracement.asp) or extensions both draw horizontal lines to mark potential support and resistance areas. The Fibonacci indicator is useful because it can be drawn between any two significant price points, such as a high and a low. It will then create the levels between those two points.
 
 Fibonacci retracement and extension levels can thus be created by connecting any price points on a chart. Once the levels are chosen, lines are drawn at percentages of the price range selected.
 
@@ -67,4 +67,4 @@ Pivot points, in contrast, do not use percentages and are based on set fixed num
 
 Pivot points are based on a simple calculation, and while they work for some traders, others may not find them useful. There is no assurance the price will stop at, reverse at, or even reach the levels created on the chart.
 
-Other times the price will move back and forth through a level. As with all indicators, it should only be used as part of a complete [trading plan](https://www.investopedia.com/terms/t/trading-plan.asp).
+Other times the price will move back and forth through a level. As with all indicators, it should only be used as part of a complete [[trading plan]](https://www.investopedia.com/terms/t/trading-plan.asp).

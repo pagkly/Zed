@@ -16,13 +16,13 @@ author: Carol M. Kopp
 Engagement Letters: What You Need to Know
 ## What Is an Engagement Letter?
 
-An engagement letter is a written agreement that describes the [business relationship](https://www.investopedia.com/articles/financialcareers/08/business-owner-relationships.asp) to be entered into by a client and a company. The letter details the scope of the agreement, its terms, and costs. The purpose of an engagement letter is to set expectations on both sides of the agreement.
+An engagement letter is a written agreement that describes the [[business relationship]](https://www.investopedia.com/articles/financialcareers/08/business-owner-relationships.asp) to be entered into by a client and a company. The letter details the scope of the agreement, its terms, and costs. The purpose of an engagement letter is to set expectations on both sides of the agreement.
 
 An engagement letter is a less formal than a contract, but still a legally-binding document that can be used in a court of law.
 
 ## How an Engagement Letter Works
 
-A letter of engagement serves the same purpose as a contract between two parties. Its format is less formal than a contract and generally avoids [legal jargon](https://www.investopedia.com/articles/stocks/09/abcs-of-private-equity.asp). The letter is intended to briefly but accurately describe the services to be delivered, the terms and conditions, the deadline or deadlines, and the compensation. A letter of engagement is a legal document and binding in a business deal.
+A letter of engagement serves the same purpose as a contract between two parties. Its format is less formal than a contract and generally avoids [[legal jargon]](https://www.investopedia.com/articles/stocks/09/abcs-of-private-equity.asp). The letter is intended to briefly but accurately describe the services to be delivered, the terms and conditions, the deadline or deadlines, and the compensation. A letter of engagement is a legal document and binding in a business deal.
 
 ### Key Takeaways
 
@@ -40,6 +40,6 @@ Setting expectations is important. The client gets the reassurance of knowing wh
 
 The business has set boundaries on the work that is expected to be performed. This is intended to prevent "scope creep," something that every tax accountant and attorney dreads. The letter may also cite services that lie outside the current agreement but may be added in the future as needed, with an estimate of the costs of these additions.
 
-An engagement letter may include a clause regarding mediation or binding [arbitration](https://www.investopedia.com/terms/a/arbitration.asp) for the relationship. This clause provides guidance for managing any disputes arising between the parties.
+An engagement letter may include a clause regarding mediation or binding [[arbitration]](https://www.investopedia.com/terms/a/arbitration.asp) for the relationship. This clause provides guidance for managing any disputes arising between the parties.
 
 If the relationship is long-term, many companies require their engagement letter to be updated and signed again by the client on an annual basis. This allows for any changes in the business relationship over time and strengthens the legal standing of the document. It also reminds the client of the scope of the agreement, perhaps forestalling "scope creep."

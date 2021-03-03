@@ -18,7 +18,7 @@ What Is a Value Chain?
 
 A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce goods, a value chain comprises the steps that involve bringing a product from conception to distribution, and everything in between—such as procuring raw materials, manufacturing functions, and marketing activities.
 
-A company conducts a [value-chain analysis](https://www.investopedia.com/articles/investing/111014/basics-value-chain-analysis.asp) by evaluating the detailed procedures involved in each step of its business. The purpose of a value-chain analysis is to increase production efficiency so that a company can deliver maximum value for the least possible cost.
+A company conducts a [[value-chain analysis]](https://www.investopedia.com/articles/investing/111014/basics-value-chain-analysis.asp) by evaluating the detailed procedures involved in each step of its business. The purpose of a value-chain analysis is to increase production efficiency so that a company can deliver maximum value for the least possible cost.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ A company conducts a [value-chain analysis](https://www.investopedia.com/article
 
 ## Understanding Value Chains
 
-Because of ever-increasing competition for unbeatable prices, exceptional products, and customer loyalty, companies must continually examine the value they create in order to retain their [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp). A value chain can help a company to discern areas of its business that are inefficient, then implement strategies that will optimize its procedures for maximum efficiency and profitability.
+Because of ever-increasing competition for unbeatable prices, exceptional products, and customer loyalty, companies must continually examine the value they create in order to retain their [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp). A value chain can help a company to discern areas of its business that are inefficient, then implement strategies that will optimize its procedures for maximum efficiency and profitability.
 
-In addition to ensuring that production mechanics are seamless and efficient, it's critical that businesses keep customers feeling confident and secure enough to remain loyal. [Value-chain analyses can help](https://www.investopedia.com/ask/answers/061115/what-are-some-advantages-and-disadvantages-value-chain-analysis.asp) with this, too.
+In addition to ensuring that production mechanics are seamless and efficient, it's critical that businesses keep customers feeling confident and secure enough to remain loyal. [[Value-chain analyses can help]](https://www.investopedia.com/ask/answers/061115/what-are-some-advantages-and-disadvantages-value-chain-analysis.asp) with this, too.
 
 The overarching goal of a value chain is to deliver the most value for the least cost in order to create a competitive advantage.
 
@@ -57,7 +57,7 @@ Primary activities consist of five components, and all are essential for adding 
 
 ### Support Activities
 
-The role of support activities is to help make the primary activities more efficient. When you increase the efficiency of any of the four support activities, it benefits at least one of the five primary activities. These support activities are generally denoted as overhead costs on a company's [income statement](https://www.investopedia.com/terms/i/incomestatement.asp):
+The role of support activities is to help make the primary activities more efficient. When you increase the efficiency of any of the four support activities, it benefits at least one of the five primary activities. These support activities are generally denoted as overhead costs on a company's [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp):
 
 1.  **Procurement** concerns how a company obtains raw materials.
 2.  **Technological development** is used at a firm's research and development (R&D) stage—like designing and developing manufacturing techniques and automating processes.
@@ -68,17 +68,17 @@ The role of support activities is to help make the primary activities more effic
 
 ### Starbucks Corporation
 
-Starbucks [(SBUX)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux) offers one of the most popular examples of a company that understands and successfully implements the value-chain concept. There are numerous articles about how [Starbucks incorporates the value chain](https://www.investopedia.com/articles/investing/103114/starbucks-example-value-chain-model.asp) into its business model.
+Starbucks [(SBUX)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux) offers one of the most popular examples of a company that understands and successfully implements the value-chain concept. There are numerous articles about how [[Starbucks incorporates the value chain]](https://www.investopedia.com/articles/investing/103114/starbucks-example-value-chain-model.asp) into its business model.
 
 ### Trader Joe's
 
-Another example is [privately held](https://www.investopedia.com/video/play/explaining-publicly-and-privately-held-companies/) grocery store [Trader Joe's](https://www.investopedia.com/articles/insights/050716/warren-buffetts-moat-how-sustainable-trader-joes-competitive-advantage.asp), which also has received much press about its tremendous value and competitive edge. Because the company is private, there are many aspects of its strategy that we don't know. However, when you enter a Trader Joe's store, you can readily observe instances of Trader Joe's business that reflect the five primary activities of the value chain.
+Another example is [[privately held]](https://www.investopedia.com/video/play/explaining-publicly-and-privately-held-companies/) grocery store [[Trader Joe's]](https://www.investopedia.com/articles/insights/050716/warren-buffetts-moat-how-sustainable-trader-joes-competitive-advantage.asp), which also has received much press about its tremendous value and competitive edge. Because the company is private, there are many aspects of its strategy that we don't know. However, when you enter a Trader Joe's store, you can readily observe instances of Trader Joe's business that reflect the five primary activities of the value chain.
 
-**1\. Inbound logistics.** Unlike traditional supermarkets, Trader Joe's does all of its receiving, shelving, and [inventory-taking during regular store hours](https://freakonomics.com/podcast/trader-joes/). Although potentially maddening for shoppers, this system creates a ton of cost savings in terms of employee wages alone. Moreover, the logistics of having this work take place while customers are still shopping sends the strategic message that "we're all in this together."
+**1\. Inbound logistics.** Unlike traditional supermarkets, Trader Joe's does all of its receiving, shelving, and [[inventory-taking during regular store hours]](https://freakonomics.com/podcast/trader-joes/). Although potentially maddening for shoppers, this system creates a ton of cost savings in terms of employee wages alone. Moreover, the logistics of having this work take place while customers are still shopping sends the strategic message that "we're all in this together."
 
 **2\. Operations.** Here's an example of how a company could apply the value chain creatively. In primary activity number two above, "converting raw materials into finished product" is cited as an "operations" activity. However, because converting raw materials is not an aspect of the supermarket industry, we can use operations to mean any other regular grocery store function. So, let's substitute "product development," as that operation is critical for Trader Joe's.
 
-The company selects its products carefully, featuring items that you generally can't find elsewhere. Its [private-label](https://www.investopedia.com/terms/p/private-brand.asp) products account for more than 80 percent of its offerings, which often have the highest [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp), too, as Trader Joe's can source them efficiently in volume.3 Another vital piece of product development for Trader Joe's is its taste-testing and chef-partnership programs, which ensure high quality and continuous product refinement.
+The company selects its products carefully, featuring items that you generally can't find elsewhere. Its [[private-label]](https://www.investopedia.com/terms/p/private-brand.asp) products account for more than 80 percent of its offerings, which often have the highest [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp), too, as Trader Joe's can source them efficiently in volume.3 Another vital piece of product development for Trader Joe's is its taste-testing and chef-partnership programs, which ensure high quality and continuous product refinement.
 
 **3\. Outbound logistics.** Many supermarkets offer home delivery, but Trader Joe's does not. Yet here, we can apply the activity of outbound logistics to mean the range of amenities that shoppers encounter once they are inside a Trader Joe's store. The company has thought carefully about the kind of experience it wants us to have when we visit its stores.
 

@@ -16,7 +16,7 @@ author: James Chen
 Non-Qualifying Investment Definition
 ## What is a Non-Qualifying Investment?
 
-A non-qualifying investment is an investment that does not qualify for any level of tax-deferred or tax-exempt status. [Investments](https://www.investopedia.com/terms/i/investment.asp) of this sort are made with after-tax money. They are purchased and held in tax-deferred accounts, plans or trusts. Returns from these investments are taxed on an [annual basis](https://www.investopedia.com/terms/a/annual-basis.asp).
+A non-qualifying investment is an investment that does not qualify for any level of tax-deferred or tax-exempt status. [[Investments]](https://www.investopedia.com/terms/i/investment.asp) of this sort are made with after-tax money. They are purchased and held in tax-deferred accounts, plans or trusts. Returns from these investments are taxed on an [[annual basis]](https://www.investopedia.com/terms/a/annual-basis.asp).
 
 ## Understanding Non-Qualifying Investments
 
@@ -35,4 +35,4 @@ Account holders can also make withdrawals on non-qualifying investments when the
 
 ## Example of Non-Qualifying Investment
 
-Some examples of investments that do not usually qualify for tax-exempt status are antiques, [collectibles](https://www.investopedia.com/terms/c/collectible.asp), jewelry, [precious metals](https://www.investopedia.com/terms/p/preciousmetal.asp) and art. Other investments that may not qualify for any sort of tax precedence are stocks, bonds, REITs (real estate investment trusts), and any other traditional investment that is not bought under a [qualifying investment](https://www.investopedia.com/terms/q/qualifyinginvestment.asp) plan or trust.
+Some examples of investments that do not usually qualify for tax-exempt status are antiques, [[collectibles]](https://www.investopedia.com/terms/c/collectible.asp), jewelry, [[precious metals]](https://www.investopedia.com/terms/p/preciousmetal.asp) and art. Other investments that may not qualify for any sort of tax precedence are stocks, bonds, REITs (real estate investment trusts), and any other traditional investment that is not bought under a [[qualifying investment]](https://www.investopedia.com/terms/q/qualifyinginvestment.asp) plan or trust.

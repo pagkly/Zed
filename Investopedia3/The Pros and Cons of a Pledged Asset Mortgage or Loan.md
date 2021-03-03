@@ -16,7 +16,7 @@ author: Chris B. Murphy
 The Pros and Cons of a Pledged Asset Mortgage or Loan
 ## What Is a Pledged Asset?
 
-A pledged asset is a valuable possession that is transferred to a lender to secure a debt or loan. A pledged asset is [collateral](https://www.investopedia.com/terms/c/collateral.asp) held by a lender in return for lending funds. Pledged assets can reduce the [down payment](https://www.investopedia.com/terms/d/down_payment.asp) that is typically required for a loan as well as reduces the interest rate charged. Pledged assets can include cash, stocks, bonds, and other equity or securities.
+A pledged asset is a valuable possession that is transferred to a lender to secure a debt or loan. A pledged asset is [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) held by a lender in return for lending funds. Pledged assets can reduce the [[down payment]](https://www.investopedia.com/terms/d/down_payment.asp) that is typically required for a loan as well as reduces the interest rate charged. Pledged assets can include cash, stocks, bonds, and other equity or securities.
 
 ### Key Takeaways
 
@@ -37,11 +37,11 @@ Once the loan is paid off and the debt is fully satisfied, the lender transfers 
 
 Homebuyers can sometimes pledge assets, such as securities, to lending institutions to reduce or eliminate the necessary down payment. With a traditional mortgage, the house itself is the collateral for the loan. However, banks usually require a 20% down payment of the value of the note, so that buyers do not end up owing more than their home's value.
 
-Also, without the 20% down payment, the buyer must pay a monthly insurance payment for [private mortgage insurance](https://www.investopedia.com/mortgage/insurance/) (PMI). Without a significant down payment, the borrower will likely also have a higher interest rate.
+Also, without the 20% down payment, the buyer must pay a monthly insurance payment for [[private mortgage insurance]](https://www.investopedia.com/mortgage/insurance/) (PMI). Without a significant down payment, the borrower will likely also have a higher interest rate.
 
 The pledged asset can be used to eliminate the down payment, avoid PMI payments, and secure a lower interest rate. For example, let's say a borrower is looking to buy a $200,000 house, which requires a $20,000 down payment. If the borrower has $20,000 in stocks or investments, they can be pledged to the bank in exchange for the down payment.
 
-The borrower retains ownership of the assets and continues to earn and report interest or [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) on those assets. However, the bank would be able to seize the assets if the borrower defaulted on the mortgage. The borrower continues to earn capital appreciation on the pledged assets and gets a no-down-payment mortgage.
+The borrower retains ownership of the assets and continues to earn and report interest or [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) on those assets. However, the bank would be able to seize the assets if the borrower defaulted on the mortgage. The borrower continues to earn capital appreciation on the pledged assets and gets a no-down-payment mortgage.
 
 ## Using Investments for a Pledged-Asset Mortgage
 
@@ -53,7 +53,7 @@ Typically, high-income borrowers are ideal candidates for pledged-asset mortgage
 
 To qualify for a pledged-asset mortgage, the borrower usually needs to have investments that have a higher value than the amount of down payment. If a borrower pledges security and the value of the security decreases, the bank may require additional funds from the borrower to make up for the decline in the asset's value.
 
-Although the borrower retains discretion as to how the pledged funds are invested, the bank may impose restrictions to ensure the pledged assets are not invested in financial instruments that are deemed risky by the bank. Such risky investments may include options or derivatives. Further, assets in an [individual retirement account](https://www.investopedia.com/terms/i/ira.asp) (IRA), 401(k), or other retirement accounts cannot be pledged as assets for a loan or mortgage.
+Although the borrower retains discretion as to how the pledged funds are invested, the bank may impose restrictions to ensure the pledged assets are not invested in financial instruments that are deemed risky by the bank. Such risky investments may include options or derivatives. Further, assets in an [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA), 401(k), or other retirement accounts cannot be pledged as assets for a loan or mortgage.
 
 ## Pros and Cons of a Pledged-Asset Loan or Mortgage
 

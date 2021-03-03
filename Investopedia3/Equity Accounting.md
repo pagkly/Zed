@@ -16,7 +16,7 @@ author: Will Kenton
 Equity Accounting
 ## What Is Equity Accounting?
 
-Equity accounting is an accounting process for recording investments in associated companies or entities. Companies sometimes have ownership interests in other companies. Typically, equity accounting–also called the [equity method](https://www.investopedia.com/terms/e/equitymethod.asp)–is applied when an investor or holding entity owns 20–50% of the [voting stock](https://www.investopedia.com/terms/v/votingshares.asp) of the associate company. The equity method of accounting is used only when an investor or investing company can exert a significant influence over the investee or owned company.
+Equity accounting is an accounting process for recording investments in associated companies or entities. Companies sometimes have ownership interests in other companies. Typically, equity accounting–also called the [[equity method]](https://www.investopedia.com/terms/e/equitymethod.asp)–is applied when an investor or holding entity owns 20–50% of the [[voting stock]](https://www.investopedia.com/terms/v/votingshares.asp) of the associate company. The equity method of accounting is used only when an investor or investing company can exert a significant influence over the investee or owned company.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ Equity accounting is an accounting process for recording investments in associat
 
 ## Understanding Equity Accounting
 
-When using the [equity method](https://www.investopedia.com/terms/e/equitymethod.asp), an investor recognizes only its share of the profits and losses of the investee, meaning it records a proportion of the profits based on the percentage of ownership interest. These profits and losses are also reflected in the financial accounts of the investee. If the investing entity records any profit or loss, it is reflected on its [income statement](https://www.investopedia.com/terms/i/incomestatement.asp).
+When using the [[equity method]](https://www.investopedia.com/terms/e/equitymethod.asp), an investor recognizes only its share of the profits and losses of the investee, meaning it records a proportion of the profits based on the percentage of ownership interest. These profits and losses are also reflected in the financial accounts of the investee. If the investing entity records any profit or loss, it is reflected on its [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp).
 
-Also, the initial investment amount in the company is recorded as an [asset](https://www.investopedia.com/terms/a/asset.asp) on the investing company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). However, changes in the investment value are also recorded and adjusted on the investor's balance sheet. In other words, profit increases of the investee would increase the investment value, while losses would decrease the investment amount on the balance sheet.
+Also, the initial investment amount in the company is recorded as an [[asset]](https://www.investopedia.com/terms/a/asset.asp) on the investing company's [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). However, changes in the investment value are also recorded and adjusted on the investor's balance sheet. In other words, profit increases of the investee would increase the investment value, while losses would decrease the investment amount on the balance sheet.
 
 ## Equity Accounting and Investor Influence
 
@@ -37,7 +37,7 @@ Under equity accounting, the biggest consideration is the level of investor infl
 
 While no precise measure can gauge an exact level of influence, several common indicators of operational and financial policies include:
 
--   [Board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) representation, meaning a seat on the board of the owned company
+-   [[Board of directors]](https://www.investopedia.com/terms/b/boardofdirectors.asp) representation, meaning a seat on the board of the owned company
 -   Policy-making participation
 -   Intra-entity transactions that are material
 -   Intra-entity management personnel interchange

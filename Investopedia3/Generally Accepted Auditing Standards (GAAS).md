@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Generally Accepted Auditing Standards (GAAS)
 ## What Are Generally Accepted Auditing Standards (GAAS)?
 
-Generally accepted auditing standards (GAAS) are a set of systematic guidelines used by auditors when conducting audits on companies' financial records. GAAS helps to ensure the accuracy, consistency, and verifiability of auditors' actions and reports. The [Auditing Standards Board](https://www.investopedia.com/terms/a/auditing-standards-board-asp.asp) (ASB) of the American Institute of Certified Public Accountants (AICPA) created GAAS.
+Generally accepted auditing standards (GAAS) are a set of systematic guidelines used by auditors when conducting audits on companies' financial records. GAAS helps to ensure the accuracy, consistency, and verifiability of auditors' actions and reports. The [[Auditing Standards Board]](https://www.investopedia.com/terms/a/auditing-standards-board-asp.asp) (ASB) of the American Institute of Certified Public Accountants (AICPA) created GAAS.
 
 ## Understanding the Generally Accepted Auditing Standards
 
@@ -40,7 +40,7 @@ Generally accepted auditing standards (GAAS) comprises a list of 10 standards,�
 
 1.  The auditor must have adequate technical training and proficiency to perform the audit.
 2.  The auditor must maintain independence in mental attitude in all matters relating to the audit.
-3.  The auditor must exercise due professional care in the performance of the audit and the preparation of the [auditor's report](https://www.investopedia.com/terms/a/auditorsreport.asp).2
+3.  The auditor must exercise due professional care in the performance of the audit and the preparation of the [[auditor's report]](https://www.investopedia.com/terms/a/auditorsreport.asp).2
 
 ### Standards of Field Work
 

@@ -16,19 +16,19 @@ author: Will Kenton
 Reading Into the York Antwerp Rules
 ## What Are York Antwerp Rules?
 
-The York Antwerp Rules are a set of maritime regulations concerning protocols surrounding jettisoned [cargo](https://www.investopedia.com/articles/investing/030816/bulk-carrier-vs-container-vs-tanker-exploring-2016-shipping-market-c.asp).
+The York Antwerp Rules are a set of maritime regulations concerning protocols surrounding jettisoned [[cargo]](https://www.investopedia.com/articles/investing/030816/bulk-carrier-vs-container-vs-tanker-exploring-2016-shipping-market-c.asp).
 
 ## How York Antwerp Rules Work
 
-The York Antwerp Rules are a set of maritime rules that were established in 1890. Amended several times since their inception, this set of maritime rules outlines the rights and obligations of both ship and cargo owners in the case that cargo must be jettisoned in order to save a ship. Generally, bills of lading, contracts of affreightment and marine [insurance policies](https://www.investopedia.com/insurance/insurance-policies-you-dont-need/) all include the York Antwerp Rules in their language.
+The York Antwerp Rules are a set of maritime rules that were established in 1890. Amended several times since their inception, this set of maritime rules outlines the rights and obligations of both ship and cargo owners in the case that cargo must be jettisoned in order to save a ship. Generally, bills of lading, contracts of affreightment and marine [[insurance policies]](https://www.investopedia.com/insurance/insurance-policies-you-dont-need/) all include the York Antwerp Rules in their language.
 
-The York Antwerp Rules state three clear principles, all of which must be met in order for the rule to be applied. The first stipulation is that danger to the ship must be imminent. Second, there must be a voluntary jettison of a portion of the [ship’s cargo](https://www.investopedia.com/articles/investing/030816/bulk-carrier-vs-container-vs-tanker-exploring-2016-shipping-market-c.asp) in order to save the whole. Third, the attempt to avoid the danger must be successful. If a situation meets all the stipulations, all parties involved in the maritime adventure must share proportionately in the financial burden of the losses incurred to the owner or owners of any of the cargo that was jettisoned in order to save the vessel.
+The York Antwerp Rules state three clear principles, all of which must be met in order for the rule to be applied. The first stipulation is that danger to the ship must be imminent. Second, there must be a voluntary jettison of a portion of the [[ship’s cargo]](https://www.investopedia.com/articles/investing/030816/bulk-carrier-vs-container-vs-tanker-exploring-2016-shipping-market-c.asp) in order to save the whole. Third, the attempt to avoid the danger must be successful. If a situation meets all the stipulations, all parties involved in the maritime adventure must share proportionately in the financial burden of the losses incurred to the owner or owners of any of the cargo that was jettisoned in order to save the vessel.
 
 All three principles of the York Antwerp Rules must be met for the rules to apply.
 
 ## Origins of the York Antwerp Rules
 
-The York Antwerp Rules are a codification of a principle called the law of general average. Though the York Antwerp Rules are quite old themselves, the law of general average is a much older [maritime](https://www.investopedia.com/terms/m/maritime-law.asp) principle with roots that go back to Ancient Greece. The law specifies that all parties involved in a sea venture must proportionately share in any losses that result from sacrifices made to the cargo to save the remainder.
+The York Antwerp Rules are a codification of a principle called the law of general average. Though the York Antwerp Rules are quite old themselves, the law of general average is a much older [[maritime]](https://www.investopedia.com/terms/m/maritime-law.asp) principle with roots that go back to Ancient Greece. The law specifies that all parties involved in a sea venture must proportionately share in any losses that result from sacrifices made to the cargo to save the remainder.
 
 ### Key Takeaways
 

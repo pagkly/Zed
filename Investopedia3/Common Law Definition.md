@@ -26,13 +26,13 @@ Common law is a body of unwritten laws based on legal precedents established by 
 
 ## Understanding Common Law
 
-A precedent, known as [stare decisis](https://www.investopedia.com/terms/s/stare_decisis.asp), is a history of judicial decisions which form the basis of evaluation for future cases. Common law, also known as case law, relies on detailed records of similar situations and statutes because there is no official legal code that can apply to a case at hand.
+A precedent, known as [[stare decisis]](https://www.investopedia.com/terms/s/stare_decisis.asp), is a history of judicial decisions which form the basis of evaluation for future cases. Common law, also known as case law, relies on detailed records of similar situations and statutes because there is no official legal code that can apply to a case at hand.
 
 The judge presiding over a case determines which precedents apply to that particular case. The example set by higher courts is binding on cases tried in lower courts. This system promotes stability and consistency in the U.S. legal justice system. However, lower courts can choose to modify or deviate from precedents if they are outdated or if the current case is substantially different from the precedent case. Lower courts can also choose to overturn the precedent, but this rarely occurs.
 
 ## Common Law vs. Civil Law
 
-Civil law is a comprehensive, codified set of legal statutes created by legislators. A civil system clearly defines the cases that can be brought to court, the procedures for handling claims, and the punishment for an offense. Judicial authorities use the conditions in the applicable civil code to evaluate the facts of each case and make legislative decisions. While civil law is regularly updated, the goal of standardized codes is to create order and reduce [biased](https://www.investopedia.com/terms/b/bias.asp) systems in which laws are applied differently from case to case.
+Civil law is a comprehensive, codified set of legal statutes created by legislators. A civil system clearly defines the cases that can be brought to court, the procedures for handling claims, and the punishment for an offense. Judicial authorities use the conditions in the applicable civil code to evaluate the facts of each case and make legislative decisions. While civil law is regularly updated, the goal of standardized codes is to create order and reduce [[biased]](https://www.investopedia.com/terms/b/bias.asp) systems in which laws are applied differently from case to case.
 
 Common law draws from institutionalized opinions and interpretations from judicial authorities and public juries. Similar to civil law, the goal of common law is to establish consistent outcomes by applying the same standards of interpretation. In some instances, precedent depends on the case-by-case traditions of individual jurisdictions. As a result, elements of common law may differ between districts.
 

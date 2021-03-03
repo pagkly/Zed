@@ -16,9 +16,9 @@ author: Adam Barone
 What You Should Know About Delivered-at-Place (DAP)
 ## What Is Delivered-at-Place (DAP)?
 
-Delivered-at-place (DAP) is an international trade term used to describe a deal in which a seller agrees to pay all costs and suffer any potential losses of moving goods sold to a specific location. In delivered-at-place agreements, the buyer is responsible for paying [import duties](https://www.investopedia.com/terms/i/import-duty.asp) and any applicable taxes, including clearance and local taxes, once the shipment has arrived at the specified destination.
+Delivered-at-place (DAP) is an international trade term used to describe a deal in which a seller agrees to pay all costs and suffer any potential losses of moving goods sold to a specific location. In delivered-at-place agreements, the buyer is responsible for paying [[import duties]](https://www.investopedia.com/terms/i/import-duty.asp) and any applicable taxes, including clearance and local taxes, once the shipment has arrived at the specified destination.
 
-The phrase "delivered-at-place" was introduced in the International Chamber of Commerce's (ICC) eighth publication of its [Incoterms](https://www.investopedia.com/terms/i/incoterms.asp)—international commercial terms—in 2010.1
+The phrase "delivered-at-place" was introduced in the International Chamber of Commerce's (ICC) eighth publication of its [[Incoterms]](https://www.investopedia.com/terms/i/incoterms.asp)—international commercial terms—in 2010.1
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ Delivered-at-place simply means that the seller takes on all the risks and costs
 
 A delivered-at-place agreement is applicable for any form, or combination of forms, of transportation and usually lists the point at which the buyer takes on financial responsibilities—for example, “Delivered-at-place, Port of Oakland.”
 
-When it was introduced in 2010, DAP replaced the term [Delivery Duty Unpaid (DDU)](https://www.investopedia.com/terms/d/delivereddutyunpaid.asp) and, while DDU may still be used colloquially, DAP is now the official term used in international trade.1
+When it was introduced in 2010, DAP replaced the term [[Delivery Duty Unpaid (DDU)]](https://www.investopedia.com/terms/d/delivereddutyunpaid.asp) and, while DDU may still be used colloquially, DAP is now the official term used in international trade.1
 
-The opposite of Delivered-at-place (DAP) is [Delivered Duty Paid](https://www.investopedia.com/terms/d/delivery-duty-paid.asp), which indicates that the seller must cover duties, import clearance, and any taxes.
+The opposite of Delivered-at-place (DAP) is [[Delivered Duty Paid]](https://www.investopedia.com/terms/d/delivery-duty-paid.asp), which indicates that the seller must cover duties, import clearance, and any taxes.
 
 ## Special Considerations
 
@@ -42,4 +42,4 @@ The main driver behind the ICC and the Incoterms is the need for a clear underst
 
 The ICC was founded in 1919 and has released eight updates of its international commercial terms since 1936.
 
-Even with the clear guidelines for DAP arrangements, there are still situations that result in disputes, such as when the carrier of the goods incurs [demurrage](https://www.investopedia.com/terms/d/demurrage.asp)—a charge for failing to unload in time—as a result of not receiving the proper clearance from one of the parties. In these cases, the fault usually lies with whichever party was amiss in providing timely documentation, but determining that can be difficult, as documentation requirements are defined by the national and local authorities controlling ports and vary from country to country. Indeed, international trade law can be complex even with the benefit of defined contract terms.
+Even with the clear guidelines for DAP arrangements, there are still situations that result in disputes, such as when the carrier of the goods incurs [[demurrage]](https://www.investopedia.com/terms/d/demurrage.asp)—a charge for failing to unload in time—as a result of not receiving the proper clearance from one of the parties. In these cases, the fault usually lies with whichever party was amiss in providing timely documentation, but determining that can be difficult, as documentation requirements are defined by the national and local authorities controlling ports and vary from country to country. Indeed, international trade law can be complex even with the benefit of defined contract terms.

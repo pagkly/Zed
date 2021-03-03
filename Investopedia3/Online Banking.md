@@ -18,7 +18,7 @@ Online Banking
 
 Online banking allows a user to conduct financial transactions via the Internet. Online banking is also known as Internet banking or web banking.
 
-Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. Virtually every banking institution has some form of [online banking](https://www.investopedia.com/articles/pf/11/benefits-and-drawbacks-of-internet-banks.asp), available both on desktop versions and through mobile apps.
+Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. Virtually every banking institution has some form of [[online banking]](https://www.investopedia.com/articles/pf/11/benefits-and-drawbacks-of-internet-banks.asp), available both on desktop versions and through mobile apps.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Online banking offers customers almost every service traditionally available thr
 
 With online banking, consumers aren't required to visit a bank branch to complete most of their basic banking transactions. They can do all of this at their own convenience, wherever they want—at home, at work, or on the go.
 
-Online banking requires a computer or other device, an Internet connection, and a bank or [debit card](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp). In order to access the service, clients need to register for their bank's online banking service. In order to register, they need to create a password. Once that's done, they can use the service to do all their banking.
+Online banking requires a computer or other device, an Internet connection, and a bank or [[debit card]](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp). In order to access the service, clients need to register for their bank's online banking service. In order to register, they need to create a password. Once that's done, they can use the service to do all their banking.
 
 Banking transactions offered online vary by the institution. Most banks generally offer basic services such as transfers and bill payments. Some banks also allow customers to open up new accounts and apply for credit cards through online banking portals. Other functions may include ordering checks, putting stop payments on checks, or reporting a change of address.
 
@@ -62,6 +62,6 @@ Additionally, online banking is dependent on a reliable Internet connection. Con
 
 Some banks operate exclusively online, with no physical branch. These banks handle customer service by phone, email, or online chat. Online banking is frequently performed on mobile devices now that Wi-Fi and 4G networks are widely available. It can also be done on a desktop computer.
 
-These banks may not provide direct [automatic teller machine](https://www.investopedia.com/terms/a/atm.asp) (ATM) access but will make provisions for consumers to use ATMs at other banks and retail stores. They may reimburse consumers for some of the ATM fees charged by other [financial institutions](https://www.investopedia.com/ask/answers/061615/what-are-major-categories-financial-institutions-and-what-are-their-primary-roles.asp). Reduced overhead costs associated with not having physical branches typically allow online banks to offer consumers significant savings on banking fees. They also offer higher interest rates on accounts.
+These banks may not provide direct [[automatic teller machine]](https://www.investopedia.com/terms/a/atm.asp) (ATM) access but will make provisions for consumers to use ATMs at other banks and retail stores. They may reimburse consumers for some of the ATM fees charged by other [[financial institutions]](https://www.investopedia.com/ask/answers/061615/what-are-major-categories-financial-institutions-and-what-are-their-primary-roles.asp). Reduced overhead costs associated with not having physical branches typically allow online banks to offer consumers significant savings on banking fees. They also offer higher interest rates on accounts.
 
 Prominent online banks in the United States include Ally Bank, Bank5 Connect, Discover Bank, and Synchrony Bank.

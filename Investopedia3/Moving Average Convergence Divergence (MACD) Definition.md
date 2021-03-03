@@ -16,9 +16,9 @@ author: Jason Fernando
 Moving Average Convergence Divergence (MACD) Definition
 ## What Is Moving Average Convergence Divergence (MACD)?
 
-Moving average convergence divergence (MACD) is a [trend-following](https://www.investopedia.com/terms/t/trendtrading.asp) [momentum](https://www.investopedia.com/terms/m/momentum.asp) indicator that shows the relationship between two [moving averages](https://www.investopedia.com/terms/m/movingaverage.asp) of a security’s price. The MACD is calculated by subtracting the 26-period [exponential moving average](https://www.investopedia.com/terms/e/ema.asp) (EMA) from the 12-period EMA.
+Moving average convergence divergence (MACD) is a [[trend-following]](https://www.investopedia.com/terms/t/trendtrading.asp) [[momentum]](https://www.investopedia.com/terms/m/momentum.asp) indicator that shows the relationship between two [[moving averages]](https://www.investopedia.com/terms/m/movingaverage.asp) of a security’s price. The MACD is calculated by subtracting the 26-period [[exponential moving average]](https://www.investopedia.com/terms/e/ema.asp) (EMA) from the 12-period EMA.
 
-The result of that calculation is the MACD line. A nine-day EMA of the MACD called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals. Traders may buy the security when the MACD crosses above its signal line and sell—or short—the security when the MACD crosses below the signal line. Moving average convergence divergence (MACD) indicators can be interpreted in several ways, but the more common methods are [crossovers](https://www.investopedia.com/terms/c/crossover.asp), [divergences](https://www.investopedia.com/terms/d/divergence.asp), and rapid rises/falls.
+The result of that calculation is the MACD line. A nine-day EMA of the MACD called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals. Traders may buy the security when the MACD crosses above its signal line and sell—or short—the security when the MACD crosses below the signal line. Moving average convergence divergence (MACD) indicators can be interpreted in several ways, but the more common methods are [[crossovers]](https://www.investopedia.com/terms/c/crossover.asp), [[divergences]](https://www.investopedia.com/terms/d/divergence.asp), and rapid rises/falls.
 
 ### Key Takeaways
 
@@ -39,13 +39,13 @@ The exponential moving average is also referred to as the exponentially [weight
 
 ## Learning From MACD
 
-The MACD has a positive value (shown as the blue line in the lower chart) whenever the 12-period EMA (indicated by the red line on the price chart) is above the 26-period EMA (the blue line in the price chart) and a negative value when the 12-period EMA is below the 26-period EMA. The more distant the MACD is above or below its [baseline](https://www.investopedia.com/terms/b/baseline.asp) indicates that the distance between the two EMAs is growing.
+The MACD has a positive value (shown as the blue line in the lower chart) whenever the 12-period EMA (indicated by the red line on the price chart) is above the 26-period EMA (the blue line in the price chart) and a negative value when the 12-period EMA is below the 26-period EMA. The more distant the MACD is above or below its [[baseline]](https://www.investopedia.com/terms/b/baseline.asp) indicates that the distance between the two EMAs is growing.
 
 In the following chart, you can see how the two EMAs applied to the price chart correspond to the MACD (blue) crossing above or below its baseline (dashed) in the indicator below the price chart.
 
 Image by Sabrina Jiang © Investopedia 2020 
 
-MACD is often displayed with a [histogram](https://www.investopedia.com/terms/h/histogram.asp) (see the chart below) which graphs the distance between the MACD and its signal line. If the MACD is above the signal line, the histogram will be above the MACD’s baseline. If the [MACD](https://www.investopedia.com/terms/r/relative_vigor_index.asp) is below its signal line, the histogram will be below the MACD’s baseline. Traders use the MACD’s histogram to identify when bullish or bearish momentum is high.
+MACD is often displayed with a [[histogram]](https://www.investopedia.com/terms/h/histogram.asp) (see the chart below) which graphs the distance between the MACD and its signal line. If the MACD is above the signal line, the histogram will be above the MACD’s baseline. If the [[MACD]](https://www.investopedia.com/terms/r/relative_vigor_index.asp) is below its signal line, the histogram will be below the MACD’s baseline. Traders use the MACD’s histogram to identify when bullish or bearish momentum is high.
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -65,9 +65,9 @@ One of the main problems with divergence is that it can often signal a possible 
 
 ## Additional MACD Resources
 
-Are you interested in using MACD for your trades? Check out our own [primer on the MACD](https://www.investopedia.com/trading/macd/) and [Spotting Trend Reversals with MACD](https://www.investopedia.com/articles/trading/09/spotting-trend-reversals-macd.asp) for more information.
+Are you interested in using MACD for your trades? Check out our own [primer on the MACD](https://www.investopedia.com/trading/macd/) and [[Spotting Trend Reversals with MACD]](https://www.investopedia.com/articles/trading/09/spotting-trend-reversals-macd.asp) for more information.
 
-If you'd like to learn about more indicators, Investopedia's [Technical Analysis Course](https://academy.investopedia.com/products/technical-analysis?aca_ref=inline) provides a comprehensive introduction to the subject. You'll learn basic and advanced technical analysis, chart reading skills, technical indicators you need to identify, and how to capitalize on price trends in over five hours of on-demand video, exercises, and interactive content. 
+If you'd like to learn about more indicators, Investopedia's [[Technical Analysis Course]](https://academy.investopedia.com/products/technical-analysis?aca_ref=inline) provides a comprehensive introduction to the subject. You'll learn basic and advanced technical analysis, chart reading skills, technical indicators you need to identify, and how to capitalize on price trends in over five hours of on-demand video, exercises, and interactive content. 
 
 ## Example of MACD Crossovers
 
@@ -97,7 +97,7 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Example of Rapid Rises or Falls
 
-When the MACD rises or falls rapidly (the shorter-term moving average pulls away from the longer-term moving average), it is a signal that the security is [overbought](https://www.investopedia.com/terms/o/overbought.asp) or [oversold](https://www.investopedia.com/terms/o/oversold.asp) and will soon return to normal levels. Traders will often combine this analysis with the [relative strength index](https://www.investopedia.com/terms/r/rsi.asp) (RSI) or other technical indicators to verify overbought or oversold conditions.
+When the MACD rises or falls rapidly (the shorter-term moving average pulls away from the longer-term moving average), it is a signal that the security is [[overbought]](https://www.investopedia.com/terms/o/overbought.asp) or [[oversold]](https://www.investopedia.com/terms/o/oversold.asp) and will soon return to normal levels. Traders will often combine this analysis with the [[relative strength index]](https://www.investopedia.com/terms/r/rsi.asp) (RSI) or other technical indicators to verify overbought or oversold conditions.
 
 Image by Sabrina Jiang © Investopedia 2020
 

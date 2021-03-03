@@ -24,7 +24,7 @@ In recent years, retention bonuses have become increasingly popular as corporate
 
 When an organization is going through a disruptive period of organizational change, it offers financial incentives to senior executives and key employees to persuade them to stay with the company until it becomes stable. The financial incentive is referred to as a retention bonus.
 
-During a merger, [restructure](https://www.investopedia.com/terms/r/restructuring.asp), or [reorganization](https://www.investopedia.com/terms/r/reorganization.asp), a company will attempt to retain its best employees to make certain that it has enough people working in the company during the challenging times. For example, a business that is shutting down a department or project will offer retention bonuses to its best performers to ensure that it has the much-needed employees to see the project through to the end.
+During a merger, [[restructure]](https://www.investopedia.com/terms/r/restructuring.asp), or [[reorganization]](https://www.investopedia.com/terms/r/reorganization.asp), a company will attempt to retain its best employees to make certain that it has enough people working in the company during the challenging times. For example, a business that is shutting down a department or project will offer retention bonuses to its best performers to ensure that it has the much-needed employees to see the project through to the end.
 
 ## Booming Economies and Liquid Labor Markets
 
@@ -32,7 +32,7 @@ In a booming economy in which employees are being offered and sold attractive jo
 
 In addition, employees who have obtained new skills or completed training that is vital to the operations of a business may be offered retention bonuses to ensure that they do not take their skills elsewhere.
 
-A retention [bonus](https://www.investopedia.com/articles/personal-finance/092915/raise-vs-bonus-your-small-business-employees.asp) is typically a one-time payment made to an employee. Companies usually prefer to offer a retention bonus instead of a salary increase because they may not have the necessary finances in place to commit to a permanent salary raise.
+A retention [[bonus]](https://www.investopedia.com/articles/personal-finance/092915/raise-vs-bonus-your-small-business-employees.asp) is typically a one-time payment made to an employee. Companies usually prefer to offer a retention bonus instead of a salary increase because they may not have the necessary finances in place to commit to a permanent salary raise.
 
 Depending on the company, the value of an employee’s retention bonus may be tied to the employee’s length of service with the firm. The bonus is paid at the end of a period as either a percentage of the employee’s current salary or a lump sum of money. For example, if a project will take 12 months to be completely shut down, the employee retention bonus will be paid after 15 months to ensure that the employee stays for the remaining life of the project.
 
@@ -48,4 +48,4 @@ The IRS treats all bonuses, including retention bonuses, as supplemental wages. 
 
 Under the percentage method, bonuses are separated from the employee's salary and taxed a flat rate of 22% directly. If the bonus amount is over $1 million, then it will be taxed 37% (or the highest income tax rate for that year). If an employee received $1.2 million as a retention bonus in 2020, $200,000 would be taxed at 37%, and $1 million would be taxed the regular 22% rate.1
 
-The aggregate method is used when the employer withholds tax by combining the retention bonus with the employee’s regular salary into a single payment. The tax rate used is found in the withholding table, which is based on information submitted in the employee’s IRS [W-4 Form](https://www.investopedia.com/terms/w/w4form.asp).1
+The aggregate method is used when the employer withholds tax by combining the retention bonus with the employee’s regular salary into a single payment. The tax rate used is found in the withholding table, which is based on information submitted in the employee’s IRS [[W-4 Form]](https://www.investopedia.com/terms/w/w4form.asp).1

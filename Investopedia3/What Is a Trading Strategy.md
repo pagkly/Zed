@@ -27,7 +27,7 @@ A trading strategy is a method of buying and selling in markets that is based on
 
 ## Understanding Trading Strategies
 
-A trading strategy includes a well-considered investing and trading plan that specifies investing objectives, risk tolerance, time horizon, and tax implications. Ideas and best practices need to be researched and adopted then adhered to. Planning for trading includes developing methods that include buying or selling [stocks](https://www.investopedia.com/terms/s/stock.asp), [bonds](https://www.investopedia.com/terms/b/bond.asp), [ETFs](https://www.investopedia.com/terms/e/etf.asp), or other investments and may extend to more complex trades such as options or futures.
+A trading strategy includes a well-considered investing and trading plan that specifies investing objectives, risk tolerance, time horizon, and tax implications. Ideas and best practices need to be researched and adopted then adhered to. Planning for trading includes developing methods that include buying or selling [[stocks]](https://www.investopedia.com/terms/s/stock.asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), [[ETFs]](https://www.investopedia.com/terms/e/etf.asp), or other investments and may extend to more complex trades such as options or futures.
 
 Placing trades means working with a broker or broker-dealer and identifying and managing trading costs including spreads, commissions, and fees. Once executed, trading positions are monitored and managed, including adjusting or closing them as needed. Risk and return are measured as well as portfolio impacts of trades and tax implications.
 
@@ -39,7 +39,7 @@ There are many types of trading strategies, but they are based largely on either
 
 Fundamental trading strategies take [fundamental](https://www.investopedia.com/terms/f/fundamentals.asp) factors into account. For instance, an investor may have a set of screening criteria to generate a list of opportunities. These criteria are developed by analyzing factors such as revenue growth and profitability.
 
-There is a third type of trading strategy that has gained prominence in recent times. A [quantitative trading](https://www.investopedia.com/terms/q/quantitativeanalysis.asp) strategy is similar to technical trading in that it uses information relating to the stock to arrive at a purchase or sale decision. However, the matrix of factors that it takes into account to arrive at a purchase or sale decision regarding a security is considerably larger as compared to technical analysis. A quantitative trader uses several data points—regression analysis of trading ratios, technical data, price—to exploit inefficiencies in the market and conduct quick trades using technology.
+There is a third type of trading strategy that has gained prominence in recent times. A [[quantitative trading]](https://www.investopedia.com/terms/q/quantitativeanalysis.asp) strategy is similar to technical trading in that it uses information relating to the stock to arrive at a purchase or sale decision. However, the matrix of factors that it takes into account to arrive at a purchase or sale decision regarding a security is considerably larger as compared to technical analysis. A quantitative trader uses several data points—regression analysis of trading ratios, technical data, price—to exploit inefficiencies in the market and conduct quick trades using technology.
 
 ## Special Considerations
 

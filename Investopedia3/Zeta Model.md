@@ -16,9 +16,9 @@ author: Adam Hayes
 Zeta Model
 ## What Is the Zeta Model?
 
-The Zeta Model is a mathematical model that estimates the chances of a public company going [bankrupt](https://www.investopedia.com/terms/b/bankruptcy.asp) within a two-year time period. The number produced by the model is referred to as the company's Z-score (or zeta score) and is considered to be a reasonably accurate predictor of future bankruptcy.
+The Zeta Model is a mathematical model that estimates the chances of a public company going [[bankrupt]](https://www.investopedia.com/terms/b/bankruptcy.asp) within a two-year time period. The number produced by the model is referred to as the company's Z-score (or zeta score) and is considered to be a reasonably accurate predictor of future bankruptcy.
 
-The model was published in 1968 by New York University professor of finance Edward I. Altman. The [resulting Z-score](https://www.investopedia.com/terms/a/altman.asp) uses multiple corporate income and balance sheet values to measure the financial health of a company.
+The model was published in 1968 by New York University professor of finance Edward I. Altman. The [[resulting Z-score]](https://www.investopedia.com/terms/a/altman.asp) uses multiple corporate income and balance sheet values to measure the financial health of a company.
 
 ## The Formula for the Zeta Model Is
 
@@ -26,7 +26,7 @@ The model was published in 1968 by New York University professor of finance Edw
 
 ## What Does the Zeta Model Tell You?
 
-The Zeta Model returns a single number, the [z-score](https://www.investopedia.com/terms/z/zscore.asp) (or zeta score), to represent the likelihood of a company going bankrupt in the next two years. The lower the z-score, the more likely a company is to go bankrupt. The Zeta model’s bankruptcy prediction accuracy has been found to range from more than 95% percent one period prior to a bankruptcy to 70% for a series of five prior [annual reporting](https://www.investopedia.com/terms/a/annualreport.asp) periods.
+The Zeta Model returns a single number, the [[z-score]](https://www.investopedia.com/terms/z/zscore.asp) (or zeta score), to represent the likelihood of a company going bankrupt in the next two years. The lower the z-score, the more likely a company is to go bankrupt. The Zeta model’s bankruptcy prediction accuracy has been found to range from more than 95% percent one period prior to a bankruptcy to 70% for a series of five prior [[annual reporting]](https://www.investopedia.com/terms/a/annualreport.asp) periods.
 
 Z-scores exist in so-called zones of discrimination, which indicates the likelihood of a firm going bankrupt. A z-score lower than 1.8 indicates that bankruptcy is likely, while scores greater than 3.0 indicate bankruptcy is unlikely to occur in the next two years. Companies that have a z-score between 1.8 and 3.0 are in the gray area, and bankruptcy is as likely as not.
 

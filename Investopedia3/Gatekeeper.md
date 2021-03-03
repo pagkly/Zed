@@ -28,7 +28,7 @@ A gatekeeper refers to requirements that must be met before an individual can qu
 
 A gatekeeper can refer either to an individual person or to the requirements that must be met before an individual can receive any payouts from their [long-term care insurance](https://www.investopedia.com/terms/l/ltcinsurance.asp) plan. These required standards are referred to as gatekeepers because they are the gate between the individual and the policy payouts. In order to receive the plan’s benefits, an individual must first qualify based on the policy’s requirements.
 
-But a gatekeeper can also refer to a person. In this case, a gatekeeper in the field of [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) describes the person in charge of a patient's treatment. Anyone who receives health insurance coverage through a health maintenance organization (HMO) plan, has a gatekeeper assigned to them or are allowed to choose one.
+But a gatekeeper can also refer to a person. In this case, a gatekeeper in the field of [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) describes the person in charge of a patient's treatment. Anyone who receives health insurance coverage through a health maintenance organization (HMO) plan, has a gatekeeper assigned to them or are allowed to choose one.
 
 ## Special Considerations
 

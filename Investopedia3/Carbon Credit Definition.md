@@ -56,11 +56,11 @@ The program is credited by the Environmental Defense Fund for substantially redu
 
 ### The United Nations' Kyoto Protocol
 
-The United Nations' Intergovernmental Panel on Climate Change (IPCC) developed a carbon credit proposal to reduce worldwide carbon emissions in a 1997 agreement known as the [Kyoto Protocol](https://www.investopedia.com/terms/k/kyoto.asp). The agreement set binding emission reduction targets for the countries that signed it. Another agreement, known as the Marrakesh Accords, spelled out the rules for how the system would work.5
+The United Nations' Intergovernmental Panel on Climate Change (IPCC) developed a carbon credit proposal to reduce worldwide carbon emissions in a 1997 agreement known as the [[Kyoto Protocol]](https://www.investopedia.com/terms/k/kyoto.asp). The agreement set binding emission reduction targets for the countries that signed it. Another agreement, known as the Marrakesh Accords, spelled out the rules for how the system would work.5
 
 California has its own carbon credit program, which is reputed to be the world's fourth-largest.
 
-The Kyoto Protocol divided countries into industrialized and developing economies. Industrialized countries, collectively called Annex 1, operated in their own emissions trading market. If a country emitted less than its target amount of [hydrocarbons](https://www.investopedia.com/terms/h/hydrocarbon.asp), it could sell its surplus credits to countries that did not achieve its Kyoto level goals, through an [Emission Reduction Purchase Agreement](https://www.investopedia.com/terms/e/erpa.asp) (ERPA). 
+The Kyoto Protocol divided countries into industrialized and developing economies. Industrialized countries, collectively called Annex 1, operated in their own emissions trading market. If a country emitted less than its target amount of [[hydrocarbons]](https://www.investopedia.com/terms/h/hydrocarbon.asp), it could sell its surplus credits to countries that did not achieve its Kyoto level goals, through an [[Emission Reduction Purchase Agreement]](https://www.investopedia.com/terms/e/erpa.asp) (ERPA). 
 
 The separate Clean Development Mechanism for developing countries issued carbon credits called a Certified Emission Reduction (CER). A developing nation could receive these credits for supporting sustainable development initiatives. The trading of CERs took place in a separate market.
 
@@ -70,4 +70,4 @@ The first commitment period of the Kyoto Protocol ended in 2012.6 (The U.S. drop
 
 The Kyoto protocol was revised in 2012 in an agreement known as the Doha Amendment, which was ratified as of October 2020, with 147 member nations having "deposited their instrument of acceptance."7
 
-In the meantime, more than 190 nations signed on to the [Paris Agreement](https://www.investopedia.com/terms/p/paris-agreementcop21.asp) of 2015, which also sets emission standards and allows for emissions trading.8 (The U.S. [dropped out in 2017](https://www.reuters.com/article/us-un-climate-usa-paris/u-s-submits-formal-notice-of-withdrawal-from-paris-climate-pact-idUSKBN1AK2FM).)
+In the meantime, more than 190 nations signed on to the [[Paris Agreement]](https://www.investopedia.com/terms/p/paris-agreementcop21.asp) of 2015, which also sets emission standards and allows for emissions trading.8 (The U.S. [[dropped out in 2017]](https://www.reuters.com/article/us-un-climate-usa-paris/u-s-submits-formal-notice-of-withdrawal-from-paris-climate-pact-idUSKBN1AK2FM).)

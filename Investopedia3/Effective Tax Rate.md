@@ -16,7 +16,7 @@ author: Julia Kagan
 Effective Tax Rate
 ## What Is the Effective Tax Rate?
 
-The effective tax rate is the percent of their income that an individual or a [corporation](https://www.investopedia.com/terms/c/corporation.asp) pays in taxes. The effective tax rate for individuals is the average rate at which their [earned income](https://www.investopedia.com/terms/e/earnedincome.asp), such as wages, and [unearned income](https://www.investopedia.com/terms/u/unearnedincome.asp), such as stock dividends, are taxed. The effective tax rate for a corporation is the average rate at which its pre-tax profits are taxed, while the statutory tax rate is the legal percentage established by law.
+The effective tax rate is the percent of their income that an individual or a [[corporation]](https://www.investopedia.com/terms/c/corporation.asp) pays in taxes. The effective tax rate for individuals is the average rate at which their [[earned income]](https://www.investopedia.com/terms/e/earnedincome.asp), such as wages, and [[unearned income]](https://www.investopedia.com/terms/u/unearnedincome.asp), such as stock dividends, are taxed. The effective tax rate for a corporation is the average rate at which its pre-tax profits are taxed, while the statutory tax rate is the legal percentage established by law.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The effective tax rate is the percent of their income that an individual or a [c
 
 ## Understanding the Effective Tax Rate
 
-An individual can [calculate their effective tax rate](https://www.investopedia.com/ask/answers/102714/how-are-effective-tax-rates-calculated-income-statements.asp) by looking at their [1040 form](https://www.investopedia.com/terms/1/1040.asp) and dividing the number on line 16, the "Total Tax," by the number on line 11(b), the "Taxable Income." [For corporations](https://www.investopedia.com/ask/answers/102714/how-are-effective-tax-rates-calculated-income-statements.asp), the effective tax rate is computed by dividing total tax expenses by the company's earnings before taxes.1
+An individual can [[calculate their effective tax rate]](https://www.investopedia.com/ask/answers/102714/how-are-effective-tax-rates-calculated-income-statements.asp) by looking at their [1040 form](https://www.investopedia.com/terms/1/1040.asp) and dividing the number on line 16, the "Total Tax," by the number on line 11(b), the "Taxable Income." [[For corporations]](https://www.investopedia.com/ask/answers/102714/how-are-effective-tax-rates-calculated-income-statements.asp), the effective tax rate is computed by dividing total tax expenses by the company's earnings before taxes.1
 
 Expressed as formulas, the effective tax rates (ETR) for individuals and corporations look like this:
 
@@ -40,9 +40,9 @@ Investors may use effective tax rate as a profitability indicator for a compan
 
 ## Marginal vs. Effective Tax Rate
 
-The effective tax rate is a more accurate representation of a person's or corporation's overall tax liability than their [marginal tax rate](https://www.investopedia.com/terms/m/marginaltaxrate.asp), and it is typically lower. When considering a marginal versus an effective tax rate, bear in mind that the marginal tax rate refers to the highest tax bracket into which their income falls.
+The effective tax rate is a more accurate representation of a person's or corporation's overall tax liability than their [[marginal tax rate]](https://www.investopedia.com/terms/m/marginaltaxrate.asp), and it is typically lower. When considering a marginal versus an effective tax rate, bear in mind that the marginal tax rate refers to the highest tax bracket into which their income falls.
 
-In a graduated or [progressive income-tax](https://www.investopedia.com/terms/p/progressivetax.asp) system, like the one in the United States, income is taxed at differing rates that rise as income hits certain thresholds. Two individuals or companies with income in the same upper marginal tax bracket may end up with very different effective tax rates, depending on how much of their income was in the top bracket.
+In a graduated or [[progressive income-tax]](https://www.investopedia.com/terms/p/progressivetax.asp) system, like the one in the United States, income is taxed at differing rates that rise as income hits certain thresholds. Two individuals or companies with income in the same upper marginal tax bracket may end up with very different effective tax rates, depending on how much of their income was in the top bracket.
 
 ## Example of an Effective Tax Rate
 

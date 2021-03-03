@@ -16,13 +16,13 @@ author: Julia Kagan
 Withdrawal Benefits
 ## What Are Withdrawal Benefits?
 
-Withdrawal benefits refer to the rights of employees with [pension](https://www.investopedia.com/terms/p/pensionplan.asp) or other retirement plans to cash out any accumulated funds upon leaving an employer.
+Withdrawal benefits refer to the rights of employees with [[pension]](https://www.investopedia.com/terms/p/pensionplan.asp) or other retirement plans to cash out any accumulated funds upon leaving an employer.
 
-Withdrawal benefits apply most often to [defined contribution](https://www.investopedia.com/terms/d/definedcontributionplan.asp) plans, under which employers and employees each contribute either a fixed amount or a percentage of each employee’s paycheck, to a plan such as a [401(k)](https://www.investopedia.com/articles/retirement/08/401k-info.asp). The majority of companies with defined contribution plans match what employees save for retirement at a fixed ratio, up to a certain salary percentage, such as when an employer matches 50 cents on the dollar, up to 6 percent of each individual’s salary.12
+Withdrawal benefits apply most often to [[defined contribution]](https://www.investopedia.com/terms/d/definedcontributionplan.asp) plans, under which employers and employees each contribute either a fixed amount or a percentage of each employee’s paycheck, to a plan such as a [401(k)](https://www.investopedia.com/articles/retirement/08/401k-info.asp). The majority of companies with defined contribution plans match what employees save for retirement at a fixed ratio, up to a certain salary percentage, such as when an employer matches 50 cents on the dollar, up to 6 percent of each individual’s salary.12
 
-Occasionally, withdrawal benefits apply to a [defined benefit](https://www.investopedia.com/ask/answers/032415/how-does-defined-benefit-pension-plan-differ-defined-contribution-plan.asp), or traditional pension plan. But in most cases, any earned benefits from these plans remain locked up until employees become eligible to receive them, typically at age 62.1
+Occasionally, withdrawal benefits apply to a [[defined benefit]](https://www.investopedia.com/ask/answers/032415/how-does-defined-benefit-pension-plan-differ-defined-contribution-plan.asp), or traditional pension plan. But in most cases, any earned benefits from these plans remain locked up until employees become eligible to receive them, typically at age 62.1
 
-The value of withdrawal benefits depends on an individual employee's salary or pay scale, years of service, and possibly other factors. It also varies based on whether the employee is vested. Some companies and unions use [cliff vesting](https://www.investopedia.com/terms/c/cliffvesting.asp), where all benefits, including [company matches](http://personal/), kick in after a certain number of years, while others offer graded vesting, under which benefits accrue over time.3
+The value of withdrawal benefits depends on an individual employee's salary or pay scale, years of service, and possibly other factors. It also varies based on whether the employee is vested. Some companies and unions use [[cliff vesting]](https://www.investopedia.com/terms/c/cliffvesting.asp), where all benefits, including [company matches](http://personal/), kick in after a certain number of years, while others offer graded vesting, under which benefits accrue over time.3
 
 ## How Withdrawal Benefits Work
 

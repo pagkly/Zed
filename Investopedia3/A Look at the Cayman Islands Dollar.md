@@ -16,7 +16,7 @@ author: Chris B. Murphy
 A Look at the Cayman Islands Dollar
 ## What Is the Cayman Islands Dollar - KYD?
 
-KYD is the currency abbreviation or currency symbol for the [Cayman Islands dollar](https://www.investopedia.com/terms/k/kyd.asp) (KYD), the currency for the Cayman Islands. The Cayman Islands are a British Overseas Territory that includes Grand Cayman, Little Cayman, and Cayman Brac.
+KYD is the currency abbreviation or currency symbol for the [[Cayman Islands dollar]](https://www.investopedia.com/terms/k/kyd.asp) (KYD), the currency for the Cayman Islands. The Cayman Islands are a British Overseas Territory that includes Grand Cayman, Little Cayman, and Cayman Brac.
 
 The Cayman Islands are a well-established offshore financial center. The Cayman Islands dollar comes in denominations of 1, 5, 10, 25, 50, and 100 dollars as well as coins. The Cayman Islands Monetary Authority manages the currency.
 
@@ -36,7 +36,7 @@ In 1974, the 1971 Currency Law was updated to reflect the parity between the KYD
 
 ## The Cayman Islands
 
-The [Cayman Islands](https://www.investopedia.com/articles/personal-finance/100715/top-10-caribbean-tax-havens.asp) are a group of island territories belonging to the United Kingdom. Located in the Caribbean Sea, the islands of Grand Cayman, Cayman Brac and Little Cayman make up the island chain. Christopher Columbus initially named the island chain Las Tortugas, due to the number of turtles in the region. The islands are mainly known for their tourist attractions and international financial services, thanks to picturesque beaches and very little regulatory oversight in the banking sector.
+The [[Cayman Islands]](https://www.investopedia.com/articles/personal-finance/100715/top-10-caribbean-tax-havens.asp) are a group of island territories belonging to the United Kingdom. Located in the Caribbean Sea, the islands of Grand Cayman, Cayman Brac and Little Cayman make up the island chain. Christopher Columbus initially named the island chain Las Tortugas, due to the number of turtles in the region. The islands are mainly known for their tourist attractions and international financial services, thanks to picturesque beaches and very little regulatory oversight in the banking sector.
 
 The Cayman Islands wrote their constitution into law in 2009, which states that an appointed governor is the head of the state acting on behalf of the monarch. The islands are still represented by the British monarchy.
 
@@ -44,7 +44,7 @@ The capital of the islands is George Town where the Cayman Islands National Muse
 
 Schooling on the islands is both free and mandatory at a primary level. The islands have three colleges available to residents looking to pursue higher education.
 
-The islands were hit hard by [Hurricane Ivan](https://www.investopedia.com/articles/investing/082015/3-characteristics-caribbean-economies.asp) in 2004 and a national disaster was declared. With an economy that relies so heavily on tourism, the resulting damages limited their desirability as a tourist attraction. After a strong effort by the government to repair the damages, the island has regained most of its lost revenues over the ensuing years.
+The islands were hit hard by [[Hurricane Ivan]](https://www.investopedia.com/articles/investing/082015/3-characteristics-caribbean-economies.asp) in 2004 and a national disaster was declared. With an economy that relies so heavily on tourism, the resulting damages limited their desirability as a tourist attraction. After a strong effort by the government to repair the damages, the island has regained most of its lost revenues over the ensuing years.
 
 ## Real World Example of KYD
 

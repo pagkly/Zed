@@ -16,7 +16,7 @@ author: Will Kenton
 How Strategic Management Works
 ## What Is Strategic Management?
 
-Strategic management is the management of an organization’s resources to achieve its goals and objectives. Strategic management involves setting objectives, analyzing the competitive environment, analyzing the internal organization, evaluating strategies, and ensuring that management rolls out the strategies [across the organization](https://www.investopedia.com/terms/m/mckinsey-7s-model.asp).
+Strategic management is the management of an organization’s resources to achieve its goals and objectives. Strategic management involves setting objectives, analyzing the competitive environment, analyzing the internal organization, evaluating strategies, and ensuring that management rolls out the strategies [[across the organization]](https://www.investopedia.com/terms/m/mckinsey-7s-model.asp).
 
 ## Understanding Strategic Management
 
@@ -28,9 +28,9 @@ Strategic management is divided into several schools of thought. A prescriptive 
 -   Flexible companies may find it easier to make changes to their structure and plans, while inflexible companies may chafe at a changing environment.
 -   A strategic manager may oversee strategic management plans and devise ways for organizations to meet their benchmark goals. 
 
-[Business culture](https://www.investopedia.com/terms/c/corporate-culture.asp), the skills and competencies of employees, and [organizational structure](https://www.investopedia.com/terms/o/organizational-structure.asp) are all important factors that influence how an organization can achieve its stated objectives. Inflexible companies may find it difficult to succeed in a changing business environment. Creating a barrier between the development of strategies and their implementation can make it difficult for managers to determine whether objectives have been efficiently met.
+[Business culture](https://www.investopedia.com/terms/c/corporate-culture.asp), the skills and competencies of employees, and [[organizational structure]](https://www.investopedia.com/terms/o/organizational-structure.asp) are all important factors that influence how an organization can achieve its stated objectives. Inflexible companies may find it difficult to succeed in a changing business environment. Creating a barrier between the development of strategies and their implementation can make it difficult for managers to determine whether objectives have been efficiently met.
 
-While an organization’s upper management is ultimately responsible for its [strategy](https://www.investopedia.com/terms/s/six-forces-model.asp), the strategies themselves are often sparked by actions and ideas from lower-level managers and employees. An organization may have several employees devoted to strategy rather than relying solely on the chief executive officer ([CEO](https://www.investopedia.com/terms/c/ceo.asp)) for guidance.
+While an organization’s upper management is ultimately responsible for its [[strategy]](https://www.investopedia.com/terms/s/six-forces-model.asp), the strategies themselves are often sparked by actions and ideas from lower-level managers and employees. An organization may have several employees devoted to strategy rather than relying solely on the chief executive officer ([CEO](https://www.investopedia.com/terms/c/ceo.asp)) for guidance.
 
 Because of this reality, organizational leaders focus on learning from past strategies and examining the environment at large. The collective knowledge is then used to develop future strategies and to guide the behavior of employees to ensure that the entire organization is moving forward. For these reasons, effective strategic management requires both an inward and outward perspective.
 

@@ -26,11 +26,11 @@ Subjective probability is a type of probability derived from an individual's per
 
 ## How Subjective Probability Works
 
-Subjective probabilities differ from person to person and contain a high degree of personal bias. Subjective probability can be contrasted with [objective probability](https://www.investopedia.com/terms/o/objective-probability.asp), which is the computed probability that an event will occur based on an analysis in which each measure is based on a recorded observation or a long history of collected data.
+Subjective probabilities differ from person to person and contain a high degree of personal bias. Subjective probability can be contrasted with [[objective probability]](https://www.investopedia.com/terms/o/objective-probability.asp), which is the computed probability that an event will occur based on an analysis in which each measure is based on a recorded observation or a long history of collected data.
 
 Subjective probabilities are the foundation for common errors and biases observed in the market that stem from "old wives' tales" or "rules of thumb."
 
-The [probability of an event](https://www.investopedia.com/articles/06/probabilitydistribution.asp) is based on the likelihood of that event occurring. In most forms of probability, quantitative information is gathered and interpreted to help determine this likelihood through a mathematical mechanism, normally relating to the mathematical field of statistics. The percentage chance of a flipped coin landing on heads or tails can be interpreted as a probability, expressed as a 50% chance that it will land heads up, and a 50% chance it will land tails up.
+The [[probability of an event]](https://www.investopedia.com/articles/06/probabilitydistribution.asp) is based on the likelihood of that event occurring. In most forms of probability, quantitative information is gathered and interpreted to help determine this likelihood through a mathematical mechanism, normally relating to the mathematical field of statistics. The percentage chance of a flipped coin landing on heads or tails can be interpreted as a probability, expressed as a 50% chance that it will land heads up, and a 50% chance it will land tails up.
 
 Subjective probability, on the other hand, is highly flexible, even in terms of one individual’s belief. While an individual may believe the chance of a specified event occurring is 25%, they could have a different belief when given a specific range from which to choose, such as 25% to 30%. This can occur even if no additional hard data is behind the change.
 

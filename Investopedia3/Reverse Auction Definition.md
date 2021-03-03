@@ -16,11 +16,11 @@ author: James Chen
 Reverse Auction Definition
 ## What is a Reverse Auction?
 
-A reverse auction is a type of [auction](https://www.investopedia.com/terms/a/auction.asp) in which sellers bid for the prices at which they are willing to sell their [goods and services](https://www.investopedia.com/business-4689640). In a regular auction, a [seller](https://www.investopedia.com/terms/s/seller.asp) puts up an item and buyers place [bids](https://www.investopedia.com/terms/b/bid.asp) until the close of the auction, at which time the item goes to the highest [bidder](https://www.investopedia.com/terms/b/bidder.asp). In a reverse auction, the buyer puts up a request for a required good or service. Sellers then place bids for the amount they are willing to be paid for the good or service, and at the end of the auction the seller with the lowest amount wins.
+A reverse auction is a type of [[auction]](https://www.investopedia.com/terms/a/auction.asp) in which sellers bid for the prices at which they are willing to sell their [[goods and services]](https://www.investopedia.com/business-4689640). In a regular auction, a [[seller]](https://www.investopedia.com/terms/s/seller.asp) puts up an item and buyers place [[bids]](https://www.investopedia.com/terms/b/bid.asp) until the close of the auction, at which time the item goes to the highest [[bidder]](https://www.investopedia.com/terms/b/bidder.asp). In a reverse auction, the buyer puts up a request for a required good or service. Sellers then place bids for the amount they are willing to be paid for the good or service, and at the end of the auction the seller with the lowest amount wins.
 
 ## Understanding Reverse Auction
 
-Reverse auctions gained popularity with the emergence of internet-based online auction tools that enabled multiple sellers to connect with a buyer on a real-time basis. Today, reverse auctions are used by large corporations and government entities as a competitive procurement method for [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp), supplies, and services like accounting and [customer service](https://www.investopedia.com/terms/c/customer-service.asp).
+Reverse auctions gained popularity with the emergence of internet-based online auction tools that enabled multiple sellers to connect with a buyer on a real-time basis. Today, reverse auctions are used by large corporations and government entities as a competitive procurement method for [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp), supplies, and services like accounting and [[customer service]](https://www.investopedia.com/terms/c/customer-service.asp).
 
 Image by Sabrina Jiang © Investopedia 2020
 

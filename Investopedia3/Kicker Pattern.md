@@ -16,9 +16,9 @@ author: Caroline Banton
 Kicker Pattern
 ## What Is a Kicker Pattern?
 
-A kicker pattern is a two-bar [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) pattern that predicts a change in the direction of an asset's price trend. This pattern is characterized by a sharp reversal in price over the span of two candlesticks. Traders use it to determine which group of market participants is in control of the direction.
+A kicker pattern is a two-bar [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) pattern that predicts a change in the direction of an asset's price trend. This pattern is characterized by a sharp reversal in price over the span of two candlesticks. Traders use it to determine which group of market participants is in control of the direction.
 
-The pattern points to a strong change in investors' attitudes toward a [security](https://www.investopedia.com/terms/s/security.asp). The change in direction usually occurs following the release of valuable information about a company, industry, or economy.
+The pattern points to a strong change in investors' attitudes toward a [[security]](https://www.investopedia.com/terms/s/security.asp). The change in direction usually occurs following the release of valuable information about a company, industry, or economy.
 
 ### Key Takeaways:
 
@@ -31,11 +31,11 @@ A kicker pattern is a type of candlestick pattern that predicts a change in the 
 
 ## Understanding the Kicker Pattern
 
-The stock market is characterized by competing buyers (bulls) and sellers (bears). The constant tug of war among these players is what forms [candlesticks patterns](https://www.investopedia.com/terms/c/candlestick.asp). Candlestick charting originated from a technique developed in Japan in the 1700s that tracked the price of rice. Candlesticks are a suitable technique for trading any liquid financial asset such as stocks, [futures](https://www.investopedia.com/terms/f/futures.asp), and [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp).
+The stock market is characterized by competing buyers (bulls) and sellers (bears). The constant tug of war among these players is what forms [[candlesticks patterns]](https://www.investopedia.com/terms/c/candlestick.asp). Candlestick charting originated from a technique developed in Japan in the 1700s that tracked the price of rice. Candlesticks are a suitable technique for trading any liquid financial asset such as stocks, [futures](https://www.investopedia.com/terms/f/futures.asp), and [[foreign exchange]](https://www.investopedia.com/terms/f/foreign-exchange.asp).
 
-The kicker pattern is considered one of the most reliable reversal patterns and usually indicates a dramatic change in a company's [fundamentals](https://www.investopedia.com/terms/f/fundamentals.asp). The kicker pattern is a reversal pattern, and it differs from a gap pattern, which tends to show a gap up or down and stay in that trend. The patterns look similar, but each implies something different.
+The kicker pattern is considered one of the most reliable reversal patterns and usually indicates a dramatic change in a company's [[fundamentals]](https://www.investopedia.com/terms/f/fundamentals.asp). The kicker pattern is a reversal pattern, and it differs from a gap pattern, which tends to show a gap up or down and stay in that trend. The patterns look similar, but each implies something different.
 
-Kicker patterns are either [bullish](https://www.investopedia.com/terms/b/bull.asp) or [bearish](https://www.investopedia.com/terms/b/bear.asp). Bullish kickers start with a bearish candle and then show a bullish gap up. Bearish kickers start with a bullish candle and then show a bearish gap down.
+Kicker patterns are either [[bullish]](https://www.investopedia.com/terms/b/bull.asp) or [[bearish]](https://www.investopedia.com/terms/b/bear.asp). Bullish kickers start with a bearish candle and then show a bullish gap up. Bearish kickers start with a bullish candle and then show a bearish gap down.
 
 Kicker Pattern.
 
@@ -47,7 +47,7 @@ To traders observing the kicker pattern, it may seem like the price has moved to
 
 While the kicker pattern is one of the strongest bull or bear sentiment indicators, the pattern is rare. Most professional traders do not rapidly overreact in one direction or another. However, if and when the kicker pattern presents itself, money managers are quick to take notice.
 
-The kicker pattern is one of the most powerful signals available to [technical analysts](https://www.investopedia.com/terms/t/technicalanalysis.asp). Its relevance is magnified when it occurs in overbought or oversold markets. The two candles behind the pattern take on visible significance. The first candle opens and moves in the direction of a current trend and the second candle opens at the same open of the previous day (a gap open) and then heads in the opposite direction of the prior day’s candle.
+The kicker pattern is one of the most powerful signals available to [[technical analysts]](https://www.investopedia.com/terms/t/technicalanalysis.asp). Its relevance is magnified when it occurs in overbought or oversold markets. The two candles behind the pattern take on visible significance. The first candle opens and moves in the direction of a current trend and the second candle opens at the same open of the previous day (a gap open) and then heads in the opposite direction of the prior day’s candle.
 
 The bodies of the candles are opposite colors on many trading platforms, creating a colorful display of the dramatic change in investor sentiment. Because the kicker pattern occurs only after a significant change in the investor attitude; the indicator is often studied with other measures of market psychology or behavioral finance.
 

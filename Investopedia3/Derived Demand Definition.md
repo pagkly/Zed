@@ -16,13 +16,13 @@ author: Adam Barone
 Derived Demand Definition
 ## What Is Derived Demand?
 
-Derived demand—in economics—is the demand for a good or service that results from the demand for a different, or related, good or service. It is a demand for some physical or intangible thing where a [market](https://www.investopedia.com/terms/m/market.asp) exists for both related goods and services in question. Derived demand can have a significant impact on the derived product's [market price](https://www.investopedia.com/terms/m/market-price.asp).
+Derived demand—in economics—is the demand for a good or service that results from the demand for a different, or related, good or service. It is a demand for some physical or intangible thing where a [[market]](https://www.investopedia.com/terms/m/market.asp) exists for both related goods and services in question. Derived demand can have a significant impact on the derived product's [[market price]](https://www.investopedia.com/terms/m/market-price.asp).
 
 ## Understanding Derived Demand
 
-Derived demand is related solely to the [demand](https://www.investopedia.com/terms/d/demand.asp) placed on a good or service for its ability to acquire or produce another good or service. Derived demand can be spurred by what is required to complete the production of a particular good, including the [capital](https://www.investopedia.com/terms/c/capital.asp), land, labor, and necessary [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp). In these instances, the demand for raw material is directly tied to the demand for products that require the raw material for their production.
+Derived demand is related solely to the [[demand]](https://www.investopedia.com/terms/d/demand.asp) placed on a good or service for its ability to acquire or produce another good or service. Derived demand can be spurred by what is required to complete the production of a particular good, including the [[capital]](https://www.investopedia.com/terms/c/capital.asp), land, labor, and necessary [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp). In these instances, the demand for raw material is directly tied to the demand for products that require the raw material for their production.
 
-The demand that is derived from the demand for another product can be an excellent [investing strategy](https://www.investopedia.com/terms/i/investmentstrategy.asp) when used to anticipate the potential market for goods outside of the original product desired. In addition, if activity in one [sector](https://www.investopedia.com/terms/s/sector.asp) increases, then any sector that's responsible for the first sector’s success may also see gains.
+The demand that is derived from the demand for another product can be an excellent [[investing strategy]](https://www.investopedia.com/terms/i/investmentstrategy.asp) when used to anticipate the potential market for goods outside of the original product desired. In addition, if activity in one [[sector]](https://www.investopedia.com/terms/s/sector.asp) increases, then any sector that's responsible for the first sector’s success may also see gains.
 
 The principles of derived demand work in both directions. If the demand for a product decreases, then the demand for the goods required to produce that product will also decrease.
 
@@ -30,7 +30,7 @@ The principles of derived demand work in both directions. If the demand for a pr
 
 ### Pick-and-Shovel Strategy
 
-The [pick-and-shovel investment strategy](https://www.investopedia.com/terms/p/pick-and-shovel-play.asp) employs the principles of derived demand because it invests in the underlying technology needed to produce a good or service instead of investing in the final product, itself. It is a way to invest in a specific industry without being exposed to the [market risks](https://www.investopedia.com/terms/m/marketrisk.asp) of the end product.
+The [[pick-and-shovel investment strategy]](https://www.investopedia.com/terms/p/pick-and-shovel-play.asp) employs the principles of derived demand because it invests in the underlying technology needed to produce a good or service instead of investing in the final product, itself. It is a way to invest in a specific industry without being exposed to the [[market risks]](https://www.investopedia.com/terms/m/marketrisk.asp) of the end product.
 
 This strategy is named after the tools used to mine for gold during the California Gold Rush of the 1840s and 1850s. Prospectors needed to buy picks and shovels to mine for gold. So, though there was no guarantee that a prospector would find gold, the companies that sold picks and shovels were earning revenue, and thus were considered good investments during that era. The demand for picks and shovels was derived largely from the demand for gold.
 

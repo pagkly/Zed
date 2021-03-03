@@ -18,7 +18,7 @@ Leading Indicator
 
 A leading indicator is any measurable or observable variable of interest that predicts a change or movement in another data series, process, trend, or other phenomenon of interest before it occurs. Leading economic indicators are used to forecast changes before the rest of the economy begins to move in a particular direction and help market observers and policymakers predict significant changes in the economy.
 
-Leading indicators can be useful to help forecast the timing, magnitude, and duration of future economic and business conditions. A leading indicator may be contrasted with a [lagging indicator](https://www.investopedia.com/terms/l/laggingindicator.asp).
+Leading indicators can be useful to help forecast the timing, magnitude, and duration of future economic and business conditions. A leading indicator may be contrasted with a [[lagging indicator]](https://www.investopedia.com/terms/l/laggingindicator.asp).
 
 ### Key Takeaways
 
@@ -29,23 +29,23 @@ Leading indicators can be useful to help forecast the timing, magnitude, and dur
 
 ## Understanding Leading Indicators
 
-Leading indicators must be measurable in order to provide hints as to where the economy is headed next. Investors use these indicators to guide their investment strategies as they anticipate future market conditions. Policymakers and central bankers use them when setting fiscal or [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp). Businesses use them to make strategic decisions as they anticipate how future economic conditions may affect markets and revenue.
+Leading indicators must be measurable in order to provide hints as to where the economy is headed next. Investors use these indicators to guide their investment strategies as they anticipate future market conditions. Policymakers and central bankers use them when setting fiscal or [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp). Businesses use them to make strategic decisions as they anticipate how future economic conditions may affect markets and revenue.
 
-Leading indicators are often based on aggregate data gathered by respected sources and focused on specific facets of the economy. For example, economists closely watch the [Purchasing Managers Index](https://www.investopedia.com/terms/p/pmi.asp) (PMI) in order to predict growth in a nation’s [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) due to changes in the demand for materials from corporations.
+Leading indicators are often based on aggregate data gathered by respected sources and focused on specific facets of the economy. For example, economists closely watch the [[Purchasing Managers Index]](https://www.investopedia.com/terms/p/pmi.asp) (PMI) in order to predict growth in a nation’s [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) due to changes in the demand for materials from corporations.
 
-[Durable goods orders](https://www.investopedia.com/terms/d/durable-goods-orders.asp) is instead based on a monthly survey of industrial manufacturers. It specifically measures the health of the durable goods sector. Similarly, many people consider the [Consumer Confidence Index](https://www.investopedia.com/terms/c/cci.asp) (CCI) to be among the most accurate leading indicators. This index surveys consumers about their own perceptions and attitudes about the economy and where it is going.
+[Durable goods orders](https://www.investopedia.com/terms/d/durable-goods-orders.asp) is instead based on a monthly survey of industrial manufacturers. It specifically measures the health of the durable goods sector. Similarly, many people consider the [[Consumer Confidence Index]](https://www.investopedia.com/terms/c/cci.asp) (CCI) to be among the most accurate leading indicators. This index surveys consumers about their own perceptions and attitudes about the economy and where it is going.
 
 ## Leading Indicators for Investors
 
 Many investors will pay attention to the same leading indicators as economists, but they tend to focus on those indicators directly related to the stock market. 
 
-One example of a leading indicator of interest to investors is the number of [jobless claims](https://www.investopedia.com/terms/j/jobless-claims.asp). The U.S. [Department of Labor](https://www.investopedia.com/terms/d/dol.asp) provides a weekly report on the number of jobless claims as an indicator of the economy’s health. A rise in jobless claims indicates a weakening economy, which will likely have a negative effect on the stock market. If jobless claims fall, this may indicate that companies are growing, which is a good indication for the stock market. 
+One example of a leading indicator of interest to investors is the number of [[jobless claims]](https://www.investopedia.com/terms/j/jobless-claims.asp). The U.S. [[Department of Labor]](https://www.investopedia.com/terms/d/dol.asp) provides a weekly report on the number of jobless claims as an indicator of the economy’s health. A rise in jobless claims indicates a weakening economy, which will likely have a negative effect on the stock market. If jobless claims fall, this may indicate that companies are growing, which is a good indication for the stock market. 
 
-As another example, many market participants consider the [yield curve](https://www.investopedia.com/articles/investing/110714/understanding-treasury-yield-curve-rates.asp), specifically, the spread between two-year and 10-year Treasury yields, a leading indicator. This is because two-year yields in excess of 10-year yields has been correlated with both recession and short-term market volatility.
+As another example, many market participants consider the [[yield curve]](https://www.investopedia.com/articles/investing/110714/understanding-treasury-yield-curve-rates.asp), specifically, the spread between two-year and 10-year Treasury yields, a leading indicator. This is because two-year yields in excess of 10-year yields has been correlated with both recession and short-term market volatility.
 
 ## Leading Indicators for Businesses
 
-All businesses track their own bottom lines and their [balance sheets](https://www.investopedia.com/terms/b/balancesheet.asp), but the data in these reports is a lagging indicator. A business’ past performance does not necessarily indicate how it will do in the future. 
+All businesses track their own bottom lines and their [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp), but the data in these reports is a lagging indicator. A business’ past performance does not necessarily indicate how it will do in the future. 
 
 Instead, businesses look at performance—such as customer satisfaction—as indicators of future revenues, growth, or profits. For example, customer complaints or negative online reviews often indicate problems related to production or service, and in some industries, may signal lower future revenue. 
 

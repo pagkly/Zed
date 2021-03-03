@@ -34,7 +34,7 @@ The balance sheet provides an overview of a company's assets, liabilities, and o
 
 ## Types of Cash Flow
 
-Overall, the cash flow statement provides an account of the cash used in operations, including [working capital](https://www.investopedia.com/terms/w/workingcapital.asp), financing, and investing. There are three sections–labeled activities–on the cash flow statement.
+Overall, the cash flow statement provides an account of the cash used in operations, including [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp), financing, and investing. There are three sections–labeled activities–on the cash flow statement.
 
 ### Cash Flow from Operating
 
@@ -50,21 +50,21 @@ Operating activities include any spending or sources of cash that's involved in 
 
 Cash generated or spent on financing activities shows the net cash flows involved in funding the company's operations. Financing activities include:
 
--   [Dividend](https://www.investopedia.com/terms/d/dividend.asp) payments
+-   [[Dividend]](https://www.investopedia.com/terms/d/dividend.asp) payments
 -   Stock repurchases
 -   Bond offerings–generating cash
 
 ## Cash Flow from Investing
 
-Cash flows from investing activities provides an account of cash used in the purchase of [non-current assets](https://www.investopedia.com/terms/n/noncurrent-assets.asp)–or long-term assets– that will deliver value in the future. 
+Cash flows from investing activities provides an account of cash used in the purchase of [[non-current assets]](https://www.investopedia.com/terms/n/noncurrent-assets.asp)–or long-term assets– that will deliver value in the future. 
 
-Investing activity is an important aspect of growth and capital. A change to [property, plant, and equipment (PPE),](https://www.investopedia.com/terms/p/ppe.asp) a large line item on the balance sheet, is considered an investing activity. When investors and analysts want to know how much a company spends on PPE, they can look for the sources and uses of funds in the investing section of the cash flow statement.
+Investing activity is an important aspect of growth and capital. A change to [[property, plant, and equipment (PPE),]](https://www.investopedia.com/terms/p/ppe.asp) a large line item on the balance sheet, is considered an investing activity. When investors and analysts want to know how much a company spends on PPE, they can look for the sources and uses of funds in the investing section of the cash flow statement.
 
 Capital expenditures (CapEx), also found in this section, is a popular measure of capital investment used in the valuation of stocks. An increase in capital expenditures means the company is investing in future operations. However, capital expenditures are a reduction in cash flow. Typically, companies with a significant amount of capital expenditures are in a state of growth.
 
 Below are a few examples of cash flows from investing activities along with whether the items generate negative or positive cash flow.
 
--   Purchase of [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp)–cash flow negative
+-   Purchase of [[fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp)–cash flow negative
 -   Purchase of investments such as stocks or securities–cash flow negative
 -   Lending money–cash flow negative
 -   Sale of fixed assets–cash flow positive

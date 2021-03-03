@@ -20,7 +20,7 @@ Market penetration is a measure of how much a product or service is being used b
 
 ## Understanding Market Penetration
 
-Market penetration can be used to determine the size of the potential market. If the total market is large, new entrants to the industry might be encouraged that they can gain [market share](https://www.investopedia.com/terms/m/marketshare.asp) or a percentage of the total number of potential customers in the industry.
+Market penetration can be used to determine the size of the potential market. If the total market is large, new entrants to the industry might be encouraged that they can gain [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) or a percentage of the total number of potential customers in the industry.
 
 For example, if there are 300 million people in a country and 65 million of them own cell phones, the market penetration of cell phones would be approximately 22%. In theory, there are still 235 million more potential customers for cell phones, or 78% of the population remains untapped. The penetration numbers might indicate the potential for growth for cell phone makers.
 
@@ -40,7 +40,7 @@ As a metric, market penetration relates to the number of potential customers tha
 
 To calculate market penetration, the current sales volume for the product or service is divided by the total sales volume of all similar products, including those sold by competitors. The result is multiplied by 100 to move the decimal and create a percentage.
 
-If a company has a high market penetration for their the products, they're considered a market leader in that industry. Market leaders have a marketing advantage because they can reach more potential customers due to their [well-established products and brand](https://www.investopedia.com/articles/professionaleducation/11/how-companies-create-brands.asp). For example, a market leader and manufacturer of cereal will have far more shelf space and better positioning than competitor [brands](https://www.investopedia.com/articles/investing/072115/why-these-are-most-valuable-brands-2015.asp) because their products are so popular.
+If a company has a high market penetration for their the products, they're considered a market leader in that industry. Market leaders have a marketing advantage because they can reach more potential customers due to their [[well-established products and brand]](https://www.investopedia.com/articles/professionaleducation/11/how-companies-create-brands.asp). For example, a market leader and manufacturer of cereal will have far more shelf space and better positioning than competitor [[brands]](https://www.investopedia.com/articles/investing/072115/why-these-are-most-valuable-brands-2015.asp) because their products are so popular.
 
 Also, market leaders can negotiate better terms with their suppliers because of their significant sales volume. As a result, market leaders can often produce a product cheaper than their competitors, given the scale of their operation.
 
@@ -50,12 +50,12 @@ While market penetration is a metric to determine the level of market share gain
 
 Market development is often a strategy of specific details or action steps needed to increase the number of potential customers. Some strategies employ advertising, social media campaigns, and direct sales outreach efforts to prospects of untapped market segments. Lowering prices and bundling product offerings can also help gain traction in previously untapped portions of the market.
 
-For example, an established company might have a product that has a large percentage of the market share for women. However, the company, following its market penetration analysis, realizes they have a [small market share](https://www.investopedia.com/terms/d/dog.asp) with male customers. As a result, they might develop a specific product and marketing outreach campaign designed to increase their male clients.
+For example, an established company might have a product that has a large percentage of the market share for women. However, the company, following its market penetration analysis, realizes they have a [[small market share]](https://www.investopedia.com/terms/d/dog.asp) with male customers. As a result, they might develop a specific product and marketing outreach campaign designed to increase their male clients.
 
 Market penetration, as a measurement, can be recalculated following the various sales and marketing campaigns to determine their level of success—whether market share increased or decreased. Market penetration provides companies with enormous insight as to how their customers and the total market view their products. The figures can, in turn, be compared to specific competitors to determine how the company is faring in its sales efforts and how its products and services stack up to the competition.
 
 ## Example of Market Penetration
 
-By the fourth quarter of 2017, Apple Inc. ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) had amassed a market share of [more than 50%](https://www.investopedia.com/news/apple-global-smartphone-market-share-more-50-first-time/) of the smartphone market throughout the world.1 Apple has consistently introduced new versions or their iPhones with added enhancements and upgrades, including releasing its high-end iPhone X. As a result of its market penetration, Apple has a larger market share than all of its competitors combined.
+By the fourth quarter of 2017, Apple Inc. ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) had amassed a market share of [[more than 50%]](https://www.investopedia.com/news/apple-global-smartphone-market-share-more-50-first-time/) of the smartphone market throughout the world.1 Apple has consistently introduced new versions or their iPhones with added enhancements and upgrades, including releasing its high-end iPhone X. As a result of its market penetration, Apple has a larger market share than all of its competitors combined.
 
 However, the company still has opportunities to add to its customer base by targeting its competitors' clients and woo them over to Apple products and services.

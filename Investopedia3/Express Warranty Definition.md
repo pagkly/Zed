@@ -16,7 +16,7 @@ author: Daniel Liberto
 Express Warranty Definition
 ## What Is an Express Warranty?
 
-An express warranty is an agreement by a [seller](https://www.investopedia.com/terms/s/seller.asp) to provide repairs or a replacement for a faulty product, component or service within a specified time period after it was purchased. Buyers rely on these promises or guarantees and sometimes purchase items because of them.
+An express warranty is an agreement by a [[seller]](https://www.investopedia.com/terms/s/seller.asp) to provide repairs or a replacement for a faulty product, component or service within a specified time period after it was purchased. Buyers rely on these promises or guarantees and sometimes purchase items because of them.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ An express warranty is an agreement by a [seller](https://www.investopedia.com/t
 
 ## How an Express Warranty Works
 
-A [warranty](https://www.investopedia.com/terms/w/warranty.asp) is an assurance that an item will live up to the promises of the seller. Under the federal Magnuson-Moss Warranty Act, passed by [Congress](https://www.investopedia.com/terms/c/congress.asp) in 1975, a company must provide a written express warranty if a product is sold for more than $15.
+A [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) is an assurance that an item will live up to the promises of the seller. Under the federal Magnuson-Moss Warranty Act, passed by [[Congress]](https://www.investopedia.com/terms/c/congress.asp) in 1975, a company must provide a written express warranty if a product is sold for more than $15.
 
 The warranty can be worded in many different ways. It may say something like: "We guarantee all furniture against defects in construction for one year. When a structural defect is brought to our attention, we will repair or replace it."
 
-Most express warranties come from the [manufacturer](https://www.investopedia.com/terms/m/manufacturing.asp) or are included in the seller’s contract. They can also be created by a simple statement on an advertisement or a sign in a store.
+Most express warranties come from the [[manufacturer]](https://www.investopedia.com/terms/m/manufacturing.asp) or are included in the seller’s contract. They can also be created by a simple statement on an advertisement or a sign in a store.
 
 ## Special Considerations
 
@@ -59,7 +59,7 @@ Auto dealers tend to advertise express warranty terms for repairs on the vehicle
 
 ## Express Warranty vs. Implied Warranty
 
-Express warranties are specific promises made by a seller to a buyer, either orally or in writing. In the absence of communicated guarantees, an [implied warranty](https://www.investopedia.com/terms/i/implied-warranty.asp) may come into force.
+Express warranties are specific promises made by a seller to a buyer, either orally or in writing. In the absence of communicated guarantees, an [[implied warranty]](https://www.investopedia.com/terms/i/implied-warranty.asp) may come into force.
 
 Implied warranties are unwritten guarantees that a product or service should work as expected. For example, if you buy a set of headphones you would expect them to function when you first use them—unless you were told otherwise when you agreed to purchase them.
 

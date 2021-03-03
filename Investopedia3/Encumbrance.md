@@ -16,13 +16,13 @@ author: James Chen
 Encumbrance
 ## What Is an Encumbrance?
 
-An encumbrance is a claim against a property by a party that is not the owner. An encumbrance can impact the transferability of the property and restrict its free use until the encumbrance is lifted. The most common types of encumbrance apply to real estate; these include mortgages, [easements](https://www.investopedia.com/terms/e/easement.asp), and [property tax liens](https://www.investopedia.com/terms/t/taxlien.asp). Not all forms of encumbrance are financial, easements being an example of non-financial encumbrances. An encumbrance can also apply to personal – as opposed to real – property.
+An encumbrance is a claim against a property by a party that is not the owner. An encumbrance can impact the transferability of the property and restrict its free use until the encumbrance is lifted. The most common types of encumbrance apply to real estate; these include mortgages, [[easements]](https://www.investopedia.com/terms/e/easement.asp), and [[property tax liens]](https://www.investopedia.com/terms/t/taxlien.asp). Not all forms of encumbrance are financial, easements being an example of non-financial encumbrances. An encumbrance can also apply to personal – as opposed to real – property.
 
 The term is used in accounting to refer to restricted funds inside an account that are reserved for a specific liability.
 
 ## Understanding Encumbrance
 
-The term encumbrance covers a wide range of financial and non-financial claims on a property by parties other than the title-holder. Property owners may be encumbered some from exercising full—that is, [unencumbered](https://www.investopedia.com/terms/u/unencumbered.asp)—control over their property. In some cases, the property can be repossessed by a creditor or seized by a government.
+The term encumbrance covers a wide range of financial and non-financial claims on a property by parties other than the title-holder. Property owners may be encumbered some from exercising full—that is, [[unencumbered]](https://www.investopedia.com/terms/u/unencumbered.asp)—control over their property. In some cases, the property can be repossessed by a creditor or seized by a government.
 
 Some encumbrances affect the marketability of a security: an easement or a lien can make a title unmarketable. While this does not necessarily mean the title cannot be bought and sold, it can enable the buyer to back out of the transaction, despite having signed a contract, and even seek damages in some jurisdictions.
 
@@ -54,13 +54,13 @@ Encroachment occurs when a party that is not the property owner intrudes on or i
 
 ### Lease
 
-A [lease](https://www.investopedia.com/terms/l/lease.asp) is an agreement to rent a property for an agreed-upon rate and period of time. It is a form of encumbrance because the lessor does not give up title to the property, but his or her use of the property is significantly constrained by the lease agreement. 
+A [[lease]](https://www.investopedia.com/terms/l/lease.asp) is an agreement to rent a property for an agreed-upon rate and period of time. It is a form of encumbrance because the lessor does not give up title to the property, but his or her use of the property is significantly constrained by the lease agreement. 
 
 ### Lien
 
 A lien is a type of security interest, an encumbrance that affects the title to a property. It gives a creditor the right to seize the property as collateral for an unmet obligation, usually an unpaid debt. The creditor can then sell the property to recoup at least a portion of their loan.
 
-A tax lien is a lien imposed by a government to force the payment of taxes; in the U.S., a federal tax lien trumps all other claims on a debtor's assets. A [mechanic's lien](https://www.investopedia.com/terms/m/mechanics-lien.asp) is a claim on personal or real property the claimant has performed services on. An example is if a contractor made adjustments to your property that were never paid for. Judgment liens are secured against the assets of a defendant in a lawsuit. 
+A tax lien is a lien imposed by a government to force the payment of taxes; in the U.S., a federal tax lien trumps all other claims on a debtor's assets. A [[mechanic's lien]](https://www.investopedia.com/terms/m/mechanics-lien.asp) is a claim on personal or real property the claimant has performed services on. An example is if a contractor made adjustments to your property that were never paid for. Judgment liens are secured against the assets of a defendant in a lawsuit. 
 
 ### Mortgage
 
@@ -68,7 +68,7 @@ A mortgage is one of the most common types of security interests. Essentially, i
 
 ### Restrictive Covenant
 
-A [restrictive covenant](https://www.investopedia.com/terms/r/restrictive-covenant.asp) is an agreement that a seller writes into a buyer's deed of property to restrict how the buyer may use that property. There might be a provision that requires the buyer to leave a building's original facade intact, for example. As long as they do not break the law, restrictive covenants can be as specific and arbitrary as the parties are willing to agree to.
+A [[restrictive covenant]](https://www.investopedia.com/terms/r/restrictive-covenant.asp) is an agreement that a seller writes into a buyer's deed of property to restrict how the buyer may use that property. There might be a provision that requires the buyer to leave a building's original facade intact, for example. As long as they do not break the law, restrictive covenants can be as specific and arbitrary as the parties are willing to agree to.
 
 ## Special Consideration: Use in Accounting
 

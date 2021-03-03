@@ -22,11 +22,11 @@ Most flat tax systems or proposals do not tax income from dividends, distributio
 
 ## Understanding a Flat Tax
 
-Supporters of a flat tax system propose that it gives taxpayers an incentive to earn more because they are not penalized with a higher [tax bracket](https://www.investopedia.com/terms/t/taxbracket.asp). Also, flat tax systems make filing easier. Critics of flat taxes argue that the system places an unfair burden on low-wage earners in exchange for lowering tax rates on the wealthy. Critics believe a [progressive tax](https://www.investopedia.com/terms/p/progressivetax.asp) system is fairer than a flat tax system.
+Supporters of a flat tax system propose that it gives taxpayers an incentive to earn more because they are not penalized with a higher [[tax bracket]](https://www.investopedia.com/terms/t/taxbracket.asp). Also, flat tax systems make filing easier. Critics of flat taxes argue that the system places an unfair burden on low-wage earners in exchange for lowering tax rates on the wealthy. Critics believe a [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp) system is fairer than a flat tax system.
 
 ## Flat Taxes vs. Regressive and Progressive Taxes
 
-While a flat tax imposes the same tax percentage on all individuals regardless of income, many see it as a [regressive tax](https://www.investopedia.com/terms/r/regressivetax.asp). A regressive tax is one in which the government taxes high-income earners at a lower percentage of their income and low-wage earners at a higher percentage of their income.
+While a flat tax imposes the same tax percentage on all individuals regardless of income, many see it as a [[regressive tax]](https://www.investopedia.com/terms/r/regressivetax.asp). A regressive tax is one in which the government taxes high-income earners at a lower percentage of their income and low-wage earners at a higher percentage of their income.
 
 The tax is seen as regressive due to a more significant portion of the total funds available to the low-income earner going to the tax expenditure. While the upper-income payer still pays the same percentage, they have enough income to offset this tax load.
 
@@ -38,6 +38,6 @@ To illustrate, as of 2020, individuals earning up to $9,875 in taxable income pa
 
 ## Real World Examples
 
-Russia is the largest nation in the world to use a flat tax. Russia imposes a 13% flat tax on personal income.5 The nation has considered moving to a progressive tax to boost tax revenue. Other countries that use a flat tax system include Estonia, Latvia, and Lithuania. These countries have experienced [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) since adopting flat tax rate policies.6
+Russia is the largest nation in the world to use a flat tax. Russia imposes a 13% flat tax on personal income.5 The nation has considered moving to a progressive tax to boost tax revenue. Other countries that use a flat tax system include Estonia, Latvia, and Lithuania. These countries have experienced [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) since adopting flat tax rate policies.6
 
-In the United States, the payroll tax is a type of flat tax. The IRS levies a 12.4% [payroll tax](https://www.investopedia.com/terms/p/payrolltax.asp). Employees pay 6.2% while their employers also pay 6.2% of the tax.7 Self-employed individuals submit the full amount on their own. This tax is considered flat because it imposes the same percentage on all wage earners. However, only earnings below the $137,700 threshold are subject to the Social Security portion of payroll tax in 2020 and below $142,800 in 2021.8 As a result, this tax is effectively regressive, although it only uses one rate.
+In the United States, the payroll tax is a type of flat tax. The IRS levies a 12.4% [[payroll tax]](https://www.investopedia.com/terms/p/payrolltax.asp). Employees pay 6.2% while their employers also pay 6.2% of the tax.7 Self-employed individuals submit the full amount on their own. This tax is considered flat because it imposes the same percentage on all wage earners. However, only earnings below the $137,700 threshold are subject to the Social Security portion of payroll tax in 2020 and below $142,800 in 2021.8 As a result, this tax is effectively regressive, although it only uses one rate.

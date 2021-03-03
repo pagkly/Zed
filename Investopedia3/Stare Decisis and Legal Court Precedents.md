@@ -22,7 +22,7 @@ Stare decisis is a Latin term meaning "to stand by that which is decided."
 
 ## Understanding Stare Decisis
 
-The U.S. [common law](https://www.investopedia.com/terms/c/common-law.asp) structure has a unified system of deciding legal matters with the principle of stare decisis at its core, making the concept of legal precedent extremely important. A prior ruling or judgment on any case is known as a [precedent](https://www.investopedia.com/terms/c/condition-precedent.asp). Stare decisis dictates that courts look to precedents when overseeing an on-going case with similar circumstances.
+The U.S. [[common law]](https://www.investopedia.com/terms/c/common-law.asp) structure has a unified system of deciding legal matters with the principle of stare decisis at its core, making the concept of legal precedent extremely important. A prior ruling or judgment on any case is known as a [precedent](https://www.investopedia.com/terms/c/condition-precedent.asp). Stare decisis dictates that courts look to precedents when overseeing an on-going case with similar circumstances.
 
 ### Key Takeaways
 
@@ -48,6 +48,6 @@ In the 2016 ruling of Salman v. the United States, the Supreme Court used stare 
 
 ### Considering precedent
 
-In 2014, the U.S. Court of Appeals for the Second Circuit in New York overturned the insider trading conviction of two [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) managers, Todd Newman and Anthony Chiasson, stating an insider can be convicted only if the misappropriated information produced a real personal benefit.3 When Bassam Salam appealed his 2013 conviction using the Second Circuit's ruling as precedent, the U.S. Court of Appeals for the Ninth Circuit based in San Francisco did not abide by the Second Circuit’s precedent, which it was not obligated to uphold. The Appeals Court upheld the conviction ruling on Salman.2
+In 2014, the U.S. Court of Appeals for the Second Circuit in New York overturned the insider trading conviction of two [[hedge fund]](https://www.investopedia.com/terms/h/hedgefund.asp) managers, Todd Newman and Anthony Chiasson, stating an insider can be convicted only if the misappropriated information produced a real personal benefit.3 When Bassam Salam appealed his 2013 conviction using the Second Circuit's ruling as precedent, the U.S. Court of Appeals for the Ninth Circuit based in San Francisco did not abide by the Second Circuit’s precedent, which it was not obligated to uphold. The Appeals Court upheld the conviction ruling on Salman.2
 
-However, Salman’s case went on to the U.S. Supreme Court for its final decision because the top court stated that the Second Circuit’s ruling was inconsistent with the Supreme Court precedent set about by [Dirks](https://www.investopedia.com/terms/d/dirks-test.asp) v. SEC and the Appeal Court had, therefore, not adhered to the principle of stare decisis.2 If it had abided by the Supreme Court’s precedent, Newman and Chiasson probably would have been convicted.
+However, Salman’s case went on to the U.S. Supreme Court for its final decision because the top court stated that the Second Circuit’s ruling was inconsistent with the Supreme Court precedent set about by [[Dirks]](https://www.investopedia.com/terms/d/dirks-test.asp) v. SEC and the Appeal Court had, therefore, not adhered to the principle of stare decisis.2 If it had abided by the Supreme Court’s precedent, Newman and Chiasson probably would have been convicted.

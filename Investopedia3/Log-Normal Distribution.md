@@ -16,7 +16,7 @@ author: Will Kenton
 Log-Normal Distribution
 ## DEFINITION of Log-Normal Distribution
 
-A log-normal distribution is a statistical distribution of logarithmic values from a related normal distribution. A log-normal distribution can be translated to a [normal distribution](https://www.investopedia.com/articles/investing/102014/lognormal-and-normal-distribution.asp) and vice versa using associated logarithmic calculations.
+A log-normal distribution is a statistical distribution of logarithmic values from a related normal distribution. A log-normal distribution can be translated to a [[normal distribution]](https://www.investopedia.com/articles/investing/102014/lognormal-and-normal-distribution.asp) and vice versa using associated logarithmic calculations.
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -36,13 +36,13 @@ For more, see also Investopedia's entry, _Lognormal and [Normal Distribution](
 
 Normal distributions may present a few problems that log-normal distributions can solve. Mainly, normal distributions can allow for negative random variables while log-normal distributions include all positive variables.
 
-One of the most common applications where log-normal distributions are used in finance is in the [analysis of stock prices](https://finance.zacks.com/stock-prices-considered-lognormal-10606.html). The potential returns of a stock can be graphed in a normal distribution. The prices of the stock however can be graphed in a log-normal distribution. The log-normal distribution curve can therefore be used to help better identify the compound return that the stock can expect to achieve over a period of time.
+One of the most common applications where log-normal distributions are used in finance is in the [[analysis of stock prices]](https://finance.zacks.com/stock-prices-considered-lognormal-10606.html). The potential returns of a stock can be graphed in a normal distribution. The prices of the stock however can be graphed in a log-normal distribution. The log-normal distribution curve can therefore be used to help better identify the compound return that the stock can expect to achieve over a period of time.
 
 Note that log-normal distributions are positively [skewed](https://www.investopedia.com/terms/s/skewness.asp) with long right tails due to low mean values and high variances in the random variables.
 
 **Lognormal Distribution in Excel**
 
-Lognormal distribution can be done [in Excel](https://support.office.com/en-us/article/lognorm-dist-function-eb60d00b-48a9-4217-be2b-6074aee6b070). It is found in the statistical functions as LOGNORM.DIST.
+Lognormal distribution can be done [[in Excel]](https://support.office.com/en-us/article/lognorm-dist-function-eb60d00b-48a9-4217-be2b-6074aee6b070). It is found in the statistical functions as LOGNORM.DIST.
 
 Excel defines it as the following:
 

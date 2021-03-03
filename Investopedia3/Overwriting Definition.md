@@ -16,7 +16,7 @@ author: James Chen
 Overwriting Definition
 ## What Is Overwriting?
 
-Overwriting is a trading strategy that involves selling [options](https://www.investopedia.com/terms/o/optionscontract.asp) that are believed to be overpriced, with the assumption that the options won't get exercised before they expire.
+Overwriting is a trading strategy that involves selling [[options]](https://www.investopedia.com/terms/o/optionscontract.asp) that are believed to be overpriced, with the assumption that the options won't get exercised before they expire.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ Overwriting is a trading strategy that involves selling [options](https://www.in
 
 ## How Overwriting Works
 
-Overwriting is a speculative strategy that some option writers may employ to collect a premium even when they believe the [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp) is incorrectly valued, hoping that they do not get [assigned](https://www.investopedia.com/terms/a/assignment.asp) the short options. Investors may also refer to the strategy as "overriding."
+Overwriting is a speculative strategy that some option writers may employ to collect a premium even when they believe the [[underlying security]](https://www.investopedia.com/terms/u/underlying-security.asp) is incorrectly valued, hoping that they do not get [[assigned]](https://www.investopedia.com/terms/a/assignment.asp) the short options. Investors may also refer to the strategy as "overriding."
 
-The [writer](https://www.investopedia.com/terms/w/writer.asp) (seller) of an option has an obligation to deliver their shares to the buyer if the buyer decides to [exercise](https://www.investopedia.com/terms/e/exercise.asp) the option, while the holder/buyer of an option has the right but not the obligation to purchase the seller's [shares](https://www.investopedia.com/terms/s/shares.asp) at a specific price within a specified time. Overwriting is a technique used by speculative option writers in an attempt to profit from the premiums paid by option buyers for option contracts the writer hopes will expire without being exercised. Overwriting is considered risky and should only be attempted by investors who have a comprehensive understanding of options and options strategies.
+The [[writer]](https://www.investopedia.com/terms/w/writer.asp) (seller) of an option has an obligation to deliver their shares to the buyer if the buyer decides to [[exercise]](https://www.investopedia.com/terms/e/exercise.asp) the option, while the holder/buyer of an option has the right but not the obligation to purchase the seller's [[shares]](https://www.investopedia.com/terms/s/shares.asp) at a specific price within a specified time. Overwriting is a technique used by speculative option writers in an attempt to profit from the premiums paid by option buyers for option contracts the writer hopes will expire without being exercised. Overwriting is considered risky and should only be attempted by investors who have a comprehensive understanding of options and options strategies.
 
-Overwriting can help investors who hold a [dividend-paying stock](https://www.investopedia.com/articles/stocks/11/dividend-capture-strategy.asp) to increase their income by collecting the premium they receive from writing an option against the stock they own. For example, if they currently receive a 3% dividend yield, they could increase that yield to effectively more than 10% by overwriting. The strategy is most effective when stock prices have had a sharp decline and premiums get overvalued, as the higher premiums help offset possible further losses.
+Overwriting can help investors who hold a [[dividend-paying stock]](https://www.investopedia.com/articles/stocks/11/dividend-capture-strategy.asp) to increase their income by collecting the premium they receive from writing an option against the stock they own. For example, if they currently receive a 3% dividend yield, they could increase that yield to effectively more than 10% by overwriting. The strategy is most effective when stock prices have had a sharp decline and premiums get overvalued, as the higher premiums help offset possible further losses.
 
-The downside risk to overwriting is that if the stock’s price rises sharply, the seller loses any profit they would have made above the options [strike price](https://www.investopedia.com/video/play/strike-price/). To combat this, the seller may want to buy the option back, although they would most likely need to repurchase it at a higher price than what they sold it for.
+The downside risk to overwriting is that if the stock’s price rises sharply, the seller loses any profit they would have made above the options [[strike price]](https://www.investopedia.com/video/play/strike-price/). To combat this, the seller may want to buy the option back, although they would most likely need to repurchase it at a higher price than what they sold it for.
 
 ## Overwriting Example
 

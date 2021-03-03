@@ -40,7 +40,7 @@ Some states do not impose a transfer tax on real estate. They include Alaska, Id
 
 A transfer tax may also be imposed on the transfer of property by inheritance. This is sometimes called a death tax, particularly by opponents of inheritance taxes.
 
-A [death tax](https://www.investopedia.com/terms/d/death-taxes.asp) may refer to any gift tax, estate tax, or generation-skipping transfer tax that is imposed on the value of property inherited after the death of the owner.
+A [[death tax]](https://www.investopedia.com/terms/d/death-taxes.asp) may refer to any gift tax, estate tax, or generation-skipping transfer tax that is imposed on the value of property inherited after the death of the owner.
 
 Exclusions for inheriting estates worth less than millions protect most Americans from owing estate taxes.
 
@@ -52,7 +52,7 @@ There is also a gift tax that applies to transfers of money or property made whi
 
 ## The Generation-Skipping Transfer Tax
 
-The [generation-skipping transfer](https://www.investopedia.com/terms/g/generation-skipping-transfer-tax.asp) (GST) tax is an additional tax on a transfer of title to a property that skips a generation. The GST tax was implemented to prevent families from avoiding the estate tax for one or more generations by making their gifts or bequests directly to their grandchildren or great-grandchildren rather than to their children.
+The [[generation-skipping transfer]](https://www.investopedia.com/terms/g/generation-skipping-transfer-tax.asp) (GST) tax is an additional tax on a transfer of title to a property that skips a generation. The GST tax was implemented to prevent families from avoiding the estate tax for one or more generations by making their gifts or bequests directly to their grandchildren or great-grandchildren rather than to their children.
 
 The same exclusions apply to the GST: The transfer must be worth more than $11.58 million in 2020 ($11.7 million in 2021) for the tax to kick in. For those who owe it, the rate is a flat 40%.
 

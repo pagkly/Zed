@@ -16,11 +16,11 @@ author: Rajeev Dhir
 How a Market Order Works
 ## What Is a Market Order?
 
-A market order is a request by an investor – usually made through a [broker](https://www.investopedia.com/terms/b/broker.asp) or brokerage service – to buy or sell a security at the best available price in the current market. It is widely considered the fastest and most reliable way to enter or exit a trade and provides the most likely method of getting in or out of a trade quickly. For many [large-cap](https://www.investopedia.com/terms/l/large-cap.asp) liquid stocks, market orders fill nearly instantaneously.
+A market order is a request by an investor – usually made through a [[broker]](https://www.investopedia.com/terms/b/broker.asp) or brokerage service – to buy or sell a security at the best available price in the current market. It is widely considered the fastest and most reliable way to enter or exit a trade and provides the most likely method of getting in or out of a trade quickly. For many [[large-cap]](https://www.investopedia.com/terms/l/large-cap.asp) liquid stocks, market orders fill nearly instantaneously.
 
 ## The Basics of Market Orders
 
-A market order is considered the most basic of all orders. It is meant to be executed as quickly as possible at the current asking price for a [security](https://www.investopedia.com/terms/s/security.asp). That is why certain brokerages include trading applications with a buy/sell button. Hitting this button generally executes a market order. In most cases, market orders incur the lowest commissions of any order type, as they require very little work from either a broker.
+A market order is considered the most basic of all orders. It is meant to be executed as quickly as possible at the current asking price for a [[security]](https://www.investopedia.com/terms/s/security.asp). That is why certain brokerages include trading applications with a buy/sell button. Hitting this button generally executes a market order. In most cases, market orders incur the lowest commissions of any order type, as they require very little work from either a broker.
 
 ### Key Takeaways
 
@@ -30,19 +30,19 @@ A market order is considered the most basic of all orders. It is meant to be exe
 
 ## When to Use a Market Order
 
-Market orders are well-suited for securities that are traded in very high volumes such as large-cap stocks, futures or ETFs. For example, market orders for the [E-mini S&P](https://www.investopedia.com/terms/e/emini.asp) or a stock such as Microsoft tend to fill very rapidly without issue.
+Market orders are well-suited for securities that are traded in very high volumes such as large-cap stocks, futures or ETFs. For example, market orders for the [[E-mini S&P]](https://www.investopedia.com/terms/e/emini.asp) or a stock such as Microsoft tend to fill very rapidly without issue.
 
-It’s a different story for stocks with low floats and/or very little [average daily volume](https://www.investopedia.com/terms/a/averagedailytradingvolume.asp). Because these stocks are thinly traded, the bid-ask spreads tend to be wide. As a result, market orders sometimes get filled slowly for these securities, and often at unexpected prices that lead to meaningful trading costs.
+It’s a different story for stocks with low floats and/or very little [[average daily volume]](https://www.investopedia.com/terms/a/averagedailytradingvolume.asp). Because these stocks are thinly traded, the bid-ask spreads tend to be wide. As a result, market orders sometimes get filled slowly for these securities, and often at unexpected prices that lead to meaningful trading costs.
 
 ## Market Order Slippage
 
 Any time a trader seeks to execute a market order, this means the trader is willing to buy at the asking price or sell at the bid price. Thus, the person executing a market order is immediately giving up the bid-ask spread.
 
-For this reason, it’s sometimes a good idea to look closely at the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp) before placing a market order – especially for thinly traded securities. Failure to do so may result in very high costs. This is doubly important for individuals who trade frequently or anyone utilizing an [automated trading system](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp).
+For this reason, it’s sometimes a good idea to look closely at the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) before placing a market order – especially for thinly traded securities. Failure to do so may result in very high costs. This is doubly important for individuals who trade frequently or anyone utilizing an [[automated trading system]](https://www.investopedia.com/articles/trading/11/automated-trading-systems.asp).
 
 ## Market Order Versus Limit Order
 
-Market orders are the most basic buy and sell trades. [Limit orders](https://www.investopedia.com/terms/l/limitorder.asp), on the other hand, allow investors to have more control over the bid or sell price. This is done by setting an acceptable maximum acceptable purchase price amount or an acceptable minimum acceptable sales price.
+Market orders are the most basic buy and sell trades. [[Limit orders]](https://www.investopedia.com/terms/l/limitorder.asp), on the other hand, allow investors to have more control over the bid or sell price. This is done by setting an acceptable maximum acceptable purchase price amount or an acceptable minimum acceptable sales price.
 
 Limit orders are good for trading securities that are trading thinly, are highly volatile or have wider bid-ask spreads.
 

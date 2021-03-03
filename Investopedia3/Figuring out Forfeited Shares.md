@@ -29,13 +29,13 @@ When a share is forfeited, the shareholder no longer owes any remaining balance 
 
 ## How Forfeited Shares Work
 
-Suppose an investor named David agrees to buy 5,000 [shares](https://www.investopedia.com/terms/s/shares.asp) of a company, with a 25% initial payment requirement, followed by three subsequent annual 25% installments, that are due according to a schedule dictated by the company. If David is derelict on a scheduled installment, the company may choose to seize his entire 5,000 shares, and David sadly would lose any money he previously paid.
+Suppose an investor named David agrees to buy 5,000 [[shares]](https://www.investopedia.com/terms/s/shares.asp) of a company, with a 25% initial payment requirement, followed by three subsequent annual 25% installments, that are due according to a schedule dictated by the company. If David is derelict on a scheduled installment, the company may choose to seize his entire 5,000 shares, and David sadly would lose any money he previously paid.
 
 Corporations are not required to seize shares from delinquent shareholders, and can instead offer investors grace periods in which to pay the money that is owed.
 
 ## Employee Share Forfeiture
 
-In certain cases, companies offer [employee stock purchase plans](https://www.investopedia.com/terms/e/espp.asp), where employees may allocate a portion of their salaries toward purchasing discounted shares of a company's stock. However, these programs often come with restrictions. In many cases, a stock cannot be sold or transferred within a defined period of time after the initial purchase.
+In certain cases, companies offer [[employee stock purchase plans]](https://www.investopedia.com/terms/e/espp.asp), where employees may allocate a portion of their salaries toward purchasing discounted shares of a company's stock. However, these programs often come with restrictions. In many cases, a stock cannot be sold or transferred within a defined period of time after the initial purchase.
 
 Furthermore, if an employee quits the company before a certain mandatory waiting period, he may be obligated to forfeit any shares he purchased. Contrarily, if an employee remains with the company for a stated duration of time, he becomes fully vested in those shares and may cash them in at will.
 

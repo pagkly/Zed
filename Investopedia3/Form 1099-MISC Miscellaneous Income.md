@@ -18,7 +18,7 @@ Form 1099-MISC: Miscellaneous Income
 
 Form 1099-MISC: Miscellaneous Income is an Internal Revenue Service (IRS) form taxpayers use to report non-employee compensation. This is generally a business payment—not a personal payment.
 
-Independent contractors, freelancers, [sole-proprietors](https://www.investopedia.com/terms/s/soleproprietorship.asp), and self-employed individuals, for example, receive one from each client who paid them $600 or more in a calendar year. The form is also used to report miscellaneous compensation such as rents, prizes, awards, healthcare payments, and payments to an attorney.1
+Independent contractors, freelancers, [[sole-proprietors]](https://www.investopedia.com/terms/s/soleproprietorship.asp), and self-employed individuals, for example, receive one from each client who paid them $600 or more in a calendar year. The form is also used to report miscellaneous compensation such as rents, prizes, awards, healthcare payments, and payments to an attorney.1
 
 A 1099-MISC form is one of many in the 1099 series and among the most commonly used. Taxpayers receive 1099s, including Form 1099-MISC, shortly after the end of the tax year.2 
 
@@ -39,7 +39,7 @@ Form 1099-MISC: Miscellaneous Income is completed and sent out by someone who ha
 -   Medical and healthcare payments
 -   Crop insurance proceeds
 -   Cash payments for fish (or other aquatic life) purchased from anyone who makes a living catching fish
--   Cash paid from a [notional principal](https://www.investopedia.com/terms/n/notionalprincipalamount.asp) contract to an individual, partnership, or estate
+-   Cash paid from a [[notional principal]](https://www.investopedia.com/terms/n/notionalprincipalamount.asp) contract to an individual, partnership, or estate
 -   Payments to an attorney
 -   Any fishing boat proceeds1
 
@@ -60,7 +60,7 @@ The black parts of the form can be completed and printed:
 -   Copy 2 goes with recipient's state tax return
 -   Copy C stays with the payer4
 
-The payer includes their name, address, and identification number, as well as the recipient's name, address, and [Social Security Number](https://www.investopedia.com/terms/s/ssn.asp).
+The payer includes their name, address, and identification number, as well as the recipient's name, address, and [[Social Security Number]](https://www.investopedia.com/terms/s/ssn.asp).
 
 A 1099-MISC form also has a series of boxes in which the payer will input whichever type of payment was made. That may include Rents in Box 1, Royalties in Box 2, or Non-Employee Compensation in Box 7. Other boxes that may be filled out include Box 4: Federal Income Tax Withheld and Box 16: State Tax Withheld.4
 

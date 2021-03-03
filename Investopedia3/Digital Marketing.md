@@ -16,7 +16,7 @@ author: Adam Barone
 Digital Marketing
 ## What Is Digital Marketing?
 
-Digital marketing is the use of the Internet, mobile devices, [social media](https://www.investopedia.com/terms/s/social-media.asp), search engines, and other channels to reach consumers. Some [marketing](https://www.investopedia.com/terms/m/marketing.asp) experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing.
+Digital marketing is the use of the Internet, mobile devices, [[social media]](https://www.investopedia.com/terms/s/social-media.asp), search engines, and other channels to reach consumers. Some [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) experts consider digital marketing to be an entirely new endeavor that requires a new way of approaching customers and new ways of understanding how customers behave compared to traditional marketing.
 
 ### Key Takeaways
 
@@ -25,11 +25,11 @@ Digital marketing is the use of the Internet, mobile devices, [social media](htt
 
 ## Understanding Digital Marketing
 
-Digital marketing targets a specific [segment](https://www.investopedia.com/terms/s/segment.asp) of the customer base and is interactive. Digital marketing is on the rise and includes search result ads, email ads, and promoted tweets – anything that incorporates marketing with customer feedback or a two-way interaction between the company and customer.
+Digital marketing targets a specific [[segment]](https://www.investopedia.com/terms/s/segment.asp) of the customer base and is interactive. Digital marketing is on the rise and includes search result ads, email ads, and promoted tweets – anything that incorporates marketing with customer feedback or a two-way interaction between the company and customer.
 
 Internet marketing differs from digital marketing. Internet marketing is advertising that is solely on the Internet, whereas digital marketing can take place through mobile devices, on a subway platform, in a video game, or via a smartphone app.
 
-In the parlance of digital marketing, advertisers are commonly referred to as sources, while members of the targeted ads are commonly called [receivers](https://www.investopedia.com/terms/r/receiver.asp). Sources frequently target highly specific, well-defined receivers. For example, after extending the late-night hours of many of its locations, McDonald's needed to get the word out. It targeted shift workers and travelers with digital ads because the company knew that these people made up a large segment of its late-night business. McDonald's encouraged them to download a new Restaurant Finder app, targeting them with ads placed at ATMs and gas stations, as well as on websites that it knew its customers frequented at night.
+In the parlance of digital marketing, advertisers are commonly referred to as sources, while members of the targeted ads are commonly called [[receivers]](https://www.investopedia.com/terms/r/receiver.asp). Sources frequently target highly specific, well-defined receivers. For example, after extending the late-night hours of many of its locations, McDonald's needed to get the word out. It targeted shift workers and travelers with digital ads because the company knew that these people made up a large segment of its late-night business. McDonald's encouraged them to download a new Restaurant Finder app, targeting them with ads placed at ATMs and gas stations, as well as on websites that it knew its customers frequented at night.
 
 ## Digital Marketing Channels
 

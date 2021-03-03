@@ -16,9 +16,9 @@ author: Caroline Banton
 Serial Correlation Definition
 ## What Is a Serial Correlation?
 
-Serial correlation occurs in a [time series](https://www.investopedia.com/terms/t/timeseries.asp) when a variable and a lagged version of itself (for instance a variable at times T and at T-1) are observed to be correlated with one another over periods of time. Repeating patterns often show serial correlation when the level of a variable affects its future level. In finance, this [correlation](https://www.investopedia.com/terms/c/correlation.asp) is used by technical analysts to determine how well the past price of a security predicts the future price.
+Serial correlation occurs in a [[time series]](https://www.investopedia.com/terms/t/timeseries.asp) when a variable and a lagged version of itself (for instance a variable at times T and at T-1) are observed to be correlated with one another over periods of time. Repeating patterns often show serial correlation when the level of a variable affects its future level. In finance, this [[correlation]](https://www.investopedia.com/terms/c/correlation.asp) is used by technical analysts to determine how well the past price of a security predicts the future price.
 
-Serial correlation is similar to the statistical concepts of [autocorrelation](https://www.investopedia.com/terms/a/autocorrelation.asp) or lagged correlation.
+Serial correlation is similar to the statistical concepts of [[autocorrelation]](https://www.investopedia.com/terms/a/autocorrelation.asp) or lagged correlation.
 
 ### Key Takeaways
 
@@ -47,4 +47,4 @@ Quants are integral to the success of many of these financial institutions since
 
 Serial correlation was originally used in signal processing and systems engineering to determine how a signal varies with itself over time. In the 1980s, economists and mathematicians rushed to Wall Street to apply the concept to predict stock prices.
 
-Serial correlation among these quants is determined using the [Durbin-Watson (DW) test](https://www.investopedia.com/terms/d/durbin-watson-statistic.asp). The correlation can be either positive or negative. A stock price displaying positive serial correlation has a positive pattern. A security that has a negative serial correlation has a negative influence on itself over time.
+Serial correlation among these quants is determined using the [[Durbin-Watson (DW) test]](https://www.investopedia.com/terms/d/durbin-watson-statistic.asp). The correlation can be either positive or negative. A stock price displaying positive serial correlation has a positive pattern. A security that has a negative serial correlation has a negative influence on itself over time.

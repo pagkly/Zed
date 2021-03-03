@@ -16,7 +16,7 @@ author: Will Kenton
 Uniform Rules for Demand Guarantees (URDG)
 ## What Are the Uniform Rules for Demand Guarantees (URDG)?
 
-The Uniform Rules for Demand Guarantees (URDG) refers to a set of international guidelines produced by the [International Chamber of Commerce](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC) and adopted in 1991.1 These guidelines set forth generally agreed-upon rules governing securing payments and meeting performance guarantees in contracts among global trading partners.
+The Uniform Rules for Demand Guarantees (URDG) refers to a set of international guidelines produced by the [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC) and adopted in 1991.1 These guidelines set forth generally agreed-upon rules governing securing payments and meeting performance guarantees in contracts among global trading partners.
 
 In general, the URDG guidelines outline the rights and obligations of parties under demand guarantees. A demand guarantee is a type of protection that one party in a transaction can impose on another party in the event that the second party does not perform according to predefined specifications.
 
@@ -28,7 +28,7 @@ According to the ICC, many bankers, traders, and industry associations recognize
 -   These guidelines set forth generally agreed-upon rules governing securing payments and meeting performance guarantees in contracts among global trading partners.
 -   Bankers, traders, and industry associations recognize and accept the URDG because it attempts to balance the interests of all parties involved in various types of international contracts.
 
-Both the World Bank and the [United Nations Commission on International Trade Law](https://www.investopedia.com/terms/u/united-nations-commission-on-international-trade-law-uncitral.asp) (UNCITRAL) each have adopted the URDG standard.
+Both the World Bank and the [[United Nations Commission on International Trade Law]](https://www.investopedia.com/terms/u/united-nations-commission-on-international-trade-law-uncitral.asp) (UNCITRAL) each have adopted the URDG standard.
 
 ## Understanding the Uniform Rules for Demand Guarantees (URDG)
 

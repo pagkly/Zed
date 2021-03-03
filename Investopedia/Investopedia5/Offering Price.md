@@ -1,0 +1,46 @@
+---
+alias: [Offering Price]
+created: 2021-03-02T22:15:54 (UTC +11:00)
+tags: [Offering Price, Offering Price]
+source: https://www.investopedia.com/terms/o/offeringprice.asp
+author: James Chen
+---
+
+# Offering Price
+
+> ## Excerpt
+> The offering price is the per-share value at which publicly issued securities are made available for purchase by the investment bank underwriting the issue.
+
+---
+
+Offering Price
+## What Is an Offering Price?
+
+The offering price is the per-share value at which publicly issued securities are made available for purchase by the investment bank during an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO). [Underwriters](https://www.investopedia.com/terms/u/underwriter.asp) analyze numerous factors when attempting to determine the ideal price for a security's offering. The underwriter's fee and any management fees applicable to the issue are typically included in the price.
+
+## Understanding Offering Prices
+
+The term offering price is most often used in reference to the IPO process, but it could apply to securities such as [stocks](https://www.investopedia.com/terms/s/stock.asp), [bonds](https://www.investopedia.com/terms/b/bond.asp), and other investments that are bought and sold in financial markets. For example, a stock quote includes a [bid and offer](https://www.investopedia.com/terms/b/bid-and-ask.asp). The bid is the current price that an investor can sell shares and the offer, which is also called the ask price, is how much it costs to buy shares.
+
+In the context of an IPO, a lead manager of the underwriting sets the offering price. Ideally, an investment bank assesses the current and near-term values of the underlying company and sets an offering price that is fair to the company relative to capital. In order to attract sufficient buying interest when the offering becomes available to the public, the price must also be fair to investors in terms of potential value.
+
+Setting the offering price is more Hollywood script writing than high finance, especially when high profile companies go public. The [syndicate](https://www.investopedia.com/terms/u/underwriter-syndicate.asp) handling the IPO wants to set the offering price high enough that the company is satisfied with the amount of money raised, but just low enough that the opening price and the trading on the first few days of listing provide a nice IPO pop as the public finally gets a chance at shares.
+
+### Key Takeaways
+
+-   An offering price refers to the price of a stock set by an investment bank during the IPO process.
+-   An offering price is based on the company's legitimate prospects and set at a level that will attract interest from the general investing public.
+-   After the IPO, the prices of shares are driven by market forces and will deviate from the offering price.
+-   While a nice pop after the offering makes for juicy headlines, there are many examples wherein shares failed to hold above the offering price after the IPO.
+
+## Offering Price and Opening Price
+
+The offering price was, and sometimes still is, referred to as the public offering price. This is a bit misleading as almost no individual investors are able to purchase an IPO at the offering price. The syndicate generally sells all the shares at the offering price to institutional and accredited investors.
+
+The opening price is thus the first opportunity for the public to purchase shares and it is set purely by [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp), as buy and sell orders queue up for the first day of trading. Shares of an IPO can see some [ups and downs](https://www.investopedia.com/articles/financial-theory/11/upside-downside-of-ipos.asp) from that point forward.
+
+### Individual Investors
+
+Individual investors should not be too upset about missing out on the offering price because many IPOs hit a patch of post-IPO blues where they can be snapped up below the offering price as initial market expectations and a company’s performance in reality finally collide. Indeed, there are many examples where an offering price is set much higher than any [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) can justify.
+
+The high valuation is often based on the perceived market appetite for shares in the sector or industry a company operates in, as opposed to the fundamentals of that particular company. In that case, the stock price in the market can fall and offer investors an opportunity to buy shares below the offering price.

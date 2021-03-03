@@ -16,11 +16,11 @@ author: Will Kenton
 SEC Form S-1
 ## What is SEC Form S-1?
 
-SEC Form S-1 is the initial registration form for new securities required by the [SEC](https://www.investopedia.com/terms/s/sec.asp) for public companies that are based in the U.S. Any security that meets the criteria must have an S-1 filing before shares can be listed on a national exchange, such as the New York Stock Exchange. Companies usually file SEC Form S-1 in anticipation of their [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp). Form S-1 requires companies to provide information on the planned use of capital proceeds, detail the current business model and competition and provide a brief prospectus of the planned security itself, offering price methodology and any dilution that will occur to other [listed securities](https://www.investopedia.com/terms/l/listedsecurity.asp).
+SEC Form S-1 is the initial registration form for new securities required by the [[SEC]](https://www.investopedia.com/terms/s/sec.asp) for public companies that are based in the U.S. Any security that meets the criteria must have an S-1 filing before shares can be listed on a national exchange, such as the New York Stock Exchange. Companies usually file SEC Form S-1 in anticipation of their [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp). Form S-1 requires companies to provide information on the planned use of capital proceeds, detail the current business model and competition and provide a brief prospectus of the planned security itself, offering price methodology and any dilution that will occur to other [[listed securities]](https://www.investopedia.com/terms/l/listedsecurity.asp).
 
-SEC Form S-1 is also known as the registration statement under the [Securities Act of 1933](https://www.investopedia.com/terms/s/securitiesact1933.asp). Additionally, the SEC requires the disclosure of any material business dealings between the company and its directors and outside counsel. Investors can view S-1 filings online to perform [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) on new offerings prior to their issue.
+SEC Form S-1 is also known as the registration statement under the [[Securities Act of 1933]](https://www.investopedia.com/terms/s/securitiesact1933.asp). Additionally, the SEC requires the disclosure of any material business dealings between the company and its directors and outside counsel. Investors can view S-1 filings online to perform [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp) on new offerings prior to their issue.
 
-Foreign issuers of securities in the U.S. do not use SEC Form S-1 but instead must submit an [SEC Form F-1](https://www.investopedia.com/terms/s/sec-form-f-1.asp).
+Foreign issuers of securities in the U.S. do not use SEC Form S-1 but instead must submit an [[SEC Form F-1]](https://www.investopedia.com/terms/s/sec-form-f-1.asp).
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Foreign issuers of securities in the U.S. do not use SEC Form S-1 but instead mu
 
 ## How to File SEC Form S-1
 
-Companies can use the SEC's online [EDGAR](https://www.sec.gov/page/everythingedgar) (the Electronic Data Gathering, Analysis, and Retrieval) system to submit forms, including Form S-1, that are required by the SEC. Individuals or companies have to first fill out a Form ID, an electronic application that is used to apply for a CIK (Central Index Key) and to get access codes in order to file on EDGAR. [EDGAR Filers Quick Reference Guides](https://www.sec.gov/info/edgar/edgar-quick-reference-guides.shtml) provide guidance on all the required steps as well as technical specifications and answers to FAQs.
+Companies can use the SEC's online [[EDGAR]](https://www.sec.gov/page/everythingedgar) (the Electronic Data Gathering, Analysis, and Retrieval) system to submit forms, including Form S-1, that are required by the SEC. Individuals or companies have to first fill out a Form ID, an electronic application that is used to apply for a CIK (Central Index Key) and to get access codes in order to file on EDGAR. [[EDGAR Filers Quick Reference Guides]](https://www.sec.gov/info/edgar/edgar-quick-reference-guides.shtml) provide guidance on all the required steps as well as technical specifications and answers to FAQs.
 
 Form S-1 has two parts. Part I, which is also called the prospectus, is a legal document that requires information on the following: business operations, the use of proceeds, total proceeds, the price per share, a description of management, financial condition, the percentage of the business being sold by individual holders and information on the underwriters.
 

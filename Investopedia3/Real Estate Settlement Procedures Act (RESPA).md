@@ -16,11 +16,11 @@ author: James Chen
 Real Estate Settlement Procedures Act (RESPA)
 ## What Is the Real Estate Settlement Procedures Act (RESPA)?
 
-The Real Estate Settlement Procedures Act, or RESPA, was enacted by Congress to provide homebuyers and sellers with complete settlement cost disclosures. The Act was also introduced to eliminate abusive practices in the real estate settlement process, to prohibit kickbacks, and to limit the use of escrow accounts. RESPA is a federal statute now regulated by the [Consumer Financial Protection Bureau](https://www.investopedia.com/terms/c/consumer-financial-protection-bureau-cfpb.asp) (CFPB).
+The Real Estate Settlement Procedures Act, or RESPA, was enacted by Congress to provide homebuyers and sellers with complete settlement cost disclosures. The Act was also introduced to eliminate abusive practices in the real estate settlement process, to prohibit kickbacks, and to limit the use of escrow accounts. RESPA is a federal statute now regulated by the [[Consumer Financial Protection Bureau]](https://www.investopedia.com/terms/c/consumer-financial-protection-bureau-cfpb.asp) (CFPB).
 
 ## Understanding RESPA
 
-Initially passed by Congress in 1974, RESPA effective on June 20, 1975. RESPA has been impacted over the years by several changes and amendments. Enforcement initially fell under the jurisdiction of the [U.S. Department of Housing & Urban Development](https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp) (HUD). After 2011, those responsibilities were assumed by the Consumer Financial Protection Bureau (CFPB) due to the Dodd-Frank Wall Street Reform and Consumer Protection legislation. 
+Initially passed by Congress in 1974, RESPA effective on June 20, 1975. RESPA has been impacted over the years by several changes and amendments. Enforcement initially fell under the jurisdiction of the [[U.S. Department of Housing & Urban Development]](https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp) (HUD). After 2011, those responsibilities were assumed by the Consumer Financial Protection Bureau (CFPB) due to the Dodd-Frank Wall Street Reform and Consumer Protection legislation. 
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Initially passed by Congress in 1974, RESPA effective on June 20, 1975. RESPA ha
 -   A plaintiff has up to one year to bring a lawsuit to enforce violations where kickbacks or other improper behavior occurred during the settlement process.
 -   A plaintiff has up to three years to bring a suit against their loan servicer.
 
-From its inception, RESPA has regulated mortgage loans attached to one-to-four family residential properties. The objective of the Act is to educate borrowers regarding their settlement costs and to eliminate kickback practices and referral fees that can inflate the cost of obtaining a mortgage. The types of loans covered by RESPA include the majority of purchase loans, assumptions, refinances, property improvement loans, and [equity lines of credit](https://www.investopedia.com/mortgage/heloc/). 
+From its inception, RESPA has regulated mortgage loans attached to one-to-four family residential properties. The objective of the Act is to educate borrowers regarding their settlement costs and to eliminate kickback practices and referral fees that can inflate the cost of obtaining a mortgage. The types of loans covered by RESPA include the majority of purchase loans, assumptions, refinances, property improvement loans, and [[equity lines of credit]](https://www.investopedia.com/mortgage/heloc/). 
 
 RESPA requires lenders, mortgage brokers, or servicers of home loans to disclose to borrowers any information about the real estate transaction. The information disclosure should include settlement services, relevant consumer protection laws, and any other information connected to the cost of the real estate settlement process. Business relationships between closing service providers and other parties connected to the settlement process should also be disclosed to the borrower.
 

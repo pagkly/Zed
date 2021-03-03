@@ -18,7 +18,7 @@ Electronic Checks: Understanding the Basics
 
 An electronic check, or e-check, is a form of payment made via the Internet, or another data network, designed to perform the same function as a conventional paper check. Since the check is in an electronic format, it can be processed in fewer steps.
 
-Additionally, it has more security features than standard paper checks including authentication, [public key](https://www.investopedia.com/terms/p/public-key.asp) cryptography, digital signatures, and encryption, among others.
+Additionally, it has more security features than standard paper checks including authentication, [[public key]](https://www.investopedia.com/terms/p/public-key.asp) cryptography, digital signatures, and encryption, among others.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Additionally, it has more security features than standard paper checks including
 
 An electronic check is part of the larger electronic banking field and part of a subset of transactions referred to as electronic fund transfers (EFTs). This includes not only electronic checks but also other computerized banking functions such as ATM withdrawals and deposits, debit card transactions and remote check depositing features. The transactions require the use of various computer and networking technologies to gain access to the relevant account data to perform the requested actions.
 
-Electronic checks were developed in response to the transactions that arose in the world of [electronic commerce](https://www.investopedia.com/terms/e/ecommerce.asp). Electronic checks can be used to make a payment for any transaction that a paper check can cover, and are governed by the same laws that apply to paper checks. This was the first form of Internet-based payment used by the U.S. Treasury for making large online payments.
+Electronic checks were developed in response to the transactions that arose in the world of [[electronic commerce]](https://www.investopedia.com/terms/e/ecommerce.asp). Electronic checks can be used to make a payment for any transaction that a paper check can cover, and are governed by the same laws that apply to paper checks. This was the first form of Internet-based payment used by the U.S. Treasury for making large online payments.
 
 ## The Benefits of Electronic Checks
 
@@ -45,4 +45,4 @@ Further, there are multiple levels of authentication to help ensure funds are ro
 
 ## Special Considerations
 
-One of the more frequently used versions of the electronic check is the direct deposit system offered by many employers. It is an electronic method of sending an employee’s wages directly into the employee’s bank account. Additionally, taxpayers who are owed a refund on federal tax returns can elect to receive a directly deposited electronic check from the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) instead of having a physical paper check sent through the mail.
+One of the more frequently used versions of the electronic check is the direct deposit system offered by many employers. It is an electronic method of sending an employee’s wages directly into the employee’s bank account. Additionally, taxpayers who are owed a refund on federal tax returns can elect to receive a directly deposited electronic check from the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) instead of having a physical paper check sent through the mail.

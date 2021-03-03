@@ -16,9 +16,9 @@ author: James Chen
 What Can Nonbank Financial Companies (NBFCs ) Do
 ## What Are Nonbank Financial Companies?
 
-Nonbank financial companies (NBFCs), also known as nonbank financial institutions (NBFIs) are [financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp) that offer various banking services but do not have a banking license. Generally, these institutions are not allowed to take traditional [demand deposits](https://www.investopedia.com/terms/d/demanddeposit.asp)—readily available funds, such as those in checking or savings accounts—from the public. This limitation keeps them outside the scope of conventional [oversight from federal and state financial regulators](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp).
+Nonbank financial companies (NBFCs), also known as nonbank financial institutions (NBFIs) are [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp) that offer various banking services but do not have a banking license. Generally, these institutions are not allowed to take traditional [demand deposits](https://www.investopedia.com/terms/d/demanddeposit.asp)—readily available funds, such as those in checking or savings accounts—from the public. This limitation keeps them outside the scope of conventional [oversight from federal and state financial regulators](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp).
 
-Nonbank financial companies fall under the oversight of the [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp), which describes them as companies "predominantly engaged in a financial activity" when more than 85% of their consolidated annual gross revenues or consolidated assets are financial in nature. Examples of NBFCs include investment banks, mortgage lenders, money market funds, insurance companies, hedge funds, private equity funds, and P2P lenders.1 2
+Nonbank financial companies fall under the oversight of the [[Dodd-Frank Wall Street Reform and Consumer Protection Act]](https://www.investopedia.com/terms/d/dodd-frank-financial-regulatory-reform-bill.asp), which describes them as companies "predominantly engaged in a financial activity" when more than 85% of their consolidated annual gross revenues or consolidated assets are financial in nature. Examples of NBFCs include investment banks, mortgage lenders, money market funds, insurance companies, hedge funds, private equity funds, and P2P lenders.1 2
 
 ### Key Takeaways
 
@@ -59,7 +59,7 @@ In short, in the decade following the financial crisis of 2007-08, NBFCs prolife
 
 Advocates of NBFCs argue that these institutions play an important role in meeting the rising demand for credit, loans, and other financial services. Customers include both businesses and individuals—especially those who might have trouble qualifying under the more stringent standards set by traditional banks.
 
-Not only do NBFCs provide alternate sources, proponents say, they also offer more efficient ones. NBFCs cut out the middleman—the role banks often play—to let clients deal with them directly, lowering costs, fees, and rates, in a process called [disintermediation](https://www.investopedia.com/terms/d/disintermediation.asp). Providing financing and credit is important to keep the money supply liquid and the economy humming.
+Not only do NBFCs provide alternate sources, proponents say, they also offer more efficient ones. NBFCs cut out the middleman—the role banks often play—to let clients deal with them directly, lowering costs, fees, and rates, in a process called [[disintermediation]](https://www.investopedia.com/terms/d/disintermediation.asp). Providing financing and credit is important to keep the money supply liquid and the economy humming.
 
 Pros
 
@@ -87,7 +87,7 @@ All of this could put an increasing strain on the financial system. NBFCs were a
 
 ## Real-World Example of NBFCs
 
-Entities ranging from mortgage provider Quicken Loans to financial services firm Fidelity Investments qualify as NBFCs. However, the fastest-growing segment of the non-bank lending sector has been in [peer-to-peer (P2P)](https://www.investopedia.com/terms/p/peer-to-peer-lending.asp) lending.
+Entities ranging from mortgage provider Quicken Loans to financial services firm Fidelity Investments qualify as NBFCs. However, the fastest-growing segment of the non-bank lending sector has been in [[peer-to-peer (P2P)]](https://www.investopedia.com/terms/p/peer-to-peer-lending.asp) lending.
 
 The growth of P2P lending has been facilitated by the power of social networking, which brings like-minded people from all over the world together. P2P lending websites, such as LendingClub Corp.(LC), StreetShares, and Prosper, are designed to connect prospective borrowers with investors willing to invest their money in loans that can generate high yields.
 
@@ -95,4 +95,4 @@ P2P borrowers tend to be individuals who could not otherwise qualify for a tradi
 
 Although P2P lending only represents a small fraction of the total loans issued in the United States, a report from Brand Essence Research suggests that:
 
-> _Global Peer-to-Peer Lending (P2P) Market is valued at USD 34.16 Billion in 2018 and expected to reach USD 589.05 Billion by 2025 with a [CAGR](https://www.investopedia.com/terms/c/cagr.asp) of 50.2% over the forecast period. Universal advancements in technologies which command the processes connected to money lending majorly driving the Global Peer to Peer (P2P) Market._ 5
+> _Global Peer-to-Peer Lending (P2P) Market is valued at USD 34.16 Billion in 2018 and expected to reach USD 589.05 Billion by 2025 with a [[CAGR]](https://www.investopedia.com/terms/c/cagr.asp) of 50.2% over the forecast period. Universal advancements in technologies which command the processes connected to money lending majorly driving the Global Peer to Peer (P2P) Market._ 5

@@ -28,7 +28,7 @@ The primary benefit of a section 1035 exchange is that it lets the contract or p
 
 Additionally, a section 1035 exchange lets policyholders preserve their original basis, even if there are no gains to be deferred. For example, Joe Sample invested a total of $100,000 [(cost basis)](https://www.investopedia.com/terms/c/costbasis.asp) in a non-qualified annuity and subsequently took no loans or withdrawals. But because of poor investment performance, its value dropped to $75,000. Dissatisfied, Joe decided to transfer his funds into another annuity with another company. In this scenario, the original contract's cost basis of $100,000 becomes the new contract's basis, although just $75,000 was transferred.2
 
-Despite the tax benefits, 1035 exchanges do not absolve contract owners of their obligations under the original contract. For example, insurance companies typically don't waive [surrender charges](https://www.investopedia.com/terms/s/surrendercharge.asp) for 1035 exchanges. However, if the owner exchanges one product for another within the same company, the fees may be waived.
+Despite the tax benefits, 1035 exchanges do not absolve contract owners of their obligations under the original contract. For example, insurance companies typically don't waive [[surrender charges]](https://www.investopedia.com/terms/s/surrendercharge.asp) for 1035 exchanges. However, if the owner exchanges one product for another within the same company, the fees may be waived.
 
 ### Key Takeaways
 

@@ -50,7 +50,7 @@ Blockchain, the technology behind Bitcoin, is a decentralized distributed ledger
 
 The automobile, electricity service, and television all were disruptive technologies in their own times.
 
-Blockchain technology has enormous implications for financial institutions such as banks and stock brokerages. For example, a brokerage firm could execute peer-to-peer trade confirmations on the blockchain, removing the need for custodians and clearinghouses, which will reduce [financial intermediary](https://www.investopedia.com/terms/f/financialintermediary.asp) costs and dramatically expedite transaction times.
+Blockchain technology has enormous implications for financial institutions such as banks and stock brokerages. For example, a brokerage firm could execute peer-to-peer trade confirmations on the blockchain, removing the need for custodians and clearinghouses, which will reduce [[financial intermediary]](https://www.investopedia.com/terms/f/financialintermediary.asp) costs and dramatically expedite transaction times.
 
 ### Investing in Disruptive Technology
 

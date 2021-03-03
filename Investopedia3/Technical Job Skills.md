@@ -16,7 +16,7 @@ author: Adam Barone
 Technical Job Skills
 ## What Are Technical Job Skills?
 
-Technical job skills, sometimes referred to as [hard skills](https://www.investopedia.com/terms/h/hard-skills.asp), are specific talents and expertise an individual possesses, helping him perform a certain task or job. These differ from [soft skills](https://www.investopedia.com/terms/s/soft-skills.asp), which instead describe character and personality traits.
+Technical job skills, sometimes referred to as [[hard skills]](https://www.investopedia.com/terms/h/hard-skills.asp), are specific talents and expertise an individual possesses, helping him perform a certain task or job. These differ from [[soft skills]](https://www.investopedia.com/terms/s/soft-skills.asp), which instead describe character and personality traits.
 
 Technical skills are abilities an individual acquires through practice and learning, although they may bring an inherent propensity for a certain skill. An individual who possesses a particular proficiency for coding, for instance, would have a sought-after technical skill as a job candidate at a software or technology company.
 
@@ -30,9 +30,9 @@ Technical skills are abilities an individual acquires through practice and learn
 
 Technical job skills are ideal to list on the skill section of a resume because they shine a light on abilities and strengths. However, it is important to realize not all technical skills at an individual’s disposal should be listed. The list should be tailored to fit the job. This gives the individual a greater chance of getting hired.
 
-New or prospective employees may be subject to an [aptitude test](https://www.investopedia.com/terms/a/aptitude-test.asp) to measure one's proficiency at various technical skills and abilities. Aptitude tests assume that individuals have inherent strengths and weaknesses, and have a natural inclination toward success or failure in specific areas based on their innate characteristics. Note that an aptitude test does not test knowledge or intelligence; only a particular skill or propensity. Therefore, it is not a test for which a person can study.
+New or prospective employees may be subject to an [[aptitude test]](https://www.investopedia.com/terms/a/aptitude-test.asp) to measure one's proficiency at various technical skills and abilities. Aptitude tests assume that individuals have inherent strengths and weaknesses, and have a natural inclination toward success or failure in specific areas based on their innate characteristics. Note that an aptitude test does not test knowledge or intelligence; only a particular skill or propensity. Therefore, it is not a test for which a person can study.
 
-Employees with technical job skills are referred to as [skilled labor](https://www.investopedia.com/terms/s/skilled-labor.asp), and may be contrasted with [unskilled labor](https://www.investopedia.com/terms/u/unskilled-labor.asp).
+Employees with technical job skills are referred to as [[skilled labor]](https://www.investopedia.com/terms/s/skilled-labor.asp), and may be contrasted with [[unskilled labor]](https://www.investopedia.com/terms/u/unskilled-labor.asp).
 
 ## Technical Skills vs. Soft Skills
 
@@ -49,7 +49,7 @@ For this reason, employers constantly look for potential employees with a mix of
 ## In-Demand Technical Skills
 
 -   **Programming and coding:** Programming and coding skills are not just for developers. These skills are also relevant for IT staff, customer service teams, and project managers that need to support customers or coordinate projects. Any IT graduate will be more valuable to an employer from the outset if they know how to code.
--   **Project Management:** The ability to effectively marshal resources, people, and budgets is one of the best technical skills that you can have. [Project managers work in virtually every industry](https://www.investopedia.com/articles/wealth-management/021616/project-manager-job-description-average-salary.asp), from construction to digital design. A qualified project manager can deliver projects more efficiently, use resources cost-effectively and deploy the right teams to complete work. A skilled project manager will save a company money, prompt resolution of problems, and help anticipate future issues.
+-   **Project Management:** The ability to effectively marshal resources, people, and budgets is one of the best technical skills that you can have. [[Project managers work in virtually every industry]](https://www.investopedia.com/articles/wealth-management/021616/project-manager-job-description-average-salary.asp), from construction to digital design. A qualified project manager can deliver projects more efficiently, use resources cost-effectively and deploy the right teams to complete work. A skilled project manager will save a company money, prompt resolution of problems, and help anticipate future issues.
 -   **Data Analysis:** Data analysis provides businesses vital information they need to retain market share and build their competitive advantage. It can be a complex task, but good data analysis can result in more effective sales and marketing operations, increased opportunities to generate revenue, and greater operational efficiency.
 -   **Information Security:** Data breaches can have a devastating impact on a business, from loss of business to irreparable damage to a brand. As such, demand is increasing for technical security specialists.
 -   **Design:** Designers need to master a number of technical skills, from software such as Photoshop to the tools they use to create wireframes. Technical skills such as a working knowledge of HTML, CSS, and JavaScript are also useful.

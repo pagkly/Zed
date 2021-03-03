@@ -22,11 +22,11 @@ The term is also sometimes used to describe a stock that has fallen precipitousl
 
 ### Important
 
-On **April 9, 2020**, the U.S. Federal Reserve [announced](https://www.investopedia.com/federal-reserve-launches-an-additional-usd2-3-trillion-in-support-4802350) monetary policy measures aimed at increasing liquidity in the corporate bond market, including extending its purchase of corporate bonds that have lost their investment grade ratings due, in part, to the economic slowdown brought on by the COVID-19 pandemic. Those 'fallen angels' include companies like Ford Motor Co. and Continental Resources. On **May 12, 2020**, the Fed began its purchases of corporate bond ETFs.
+On **April 9, 2020**, the U.S. Federal Reserve [[announced]](https://www.investopedia.com/federal-reserve-launches-an-additional-usd2-3-trillion-in-support-4802350) monetary policy measures aimed at increasing liquidity in the corporate bond market, including extending its purchase of corporate bonds that have lost their investment grade ratings due, in part, to the economic slowdown brought on by the COVID-19 pandemic. Those 'fallen angels' include companies like Ford Motor Co. and Continental Resources. On **May 12, 2020**, the Fed began its purchases of corporate bond ETFs.
 
 ## Fallen Angel Explained
 
-Fallen angel bonds have been downgraded by one of the major rating services, which include Standard & Poor’s, Fitch, and Moody’s Investors Service. They may be corporate, municipal, or [sovereign debt](https://www.investopedia.com/terms/s/sovereign-debt.asp).
+Fallen angel bonds have been downgraded by one of the major rating services, which include Standard & Poor’s, Fitch, and Moody’s Investors Service. They may be corporate, municipal, or [[sovereign debt]](https://www.investopedia.com/terms/s/sovereign-debt.asp).
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Fallen angel bonds have been downgraded by one of the major rating services, whi
 
 The primary reason for a downgrade is a decline in revenues, which jeopardizes the ability of the issuers to pay the interest due on their bonds. If the declining revenues are combined with increasing levels of debt, the potential for a downgrade increases dramatically.
 
-Fallen angel securities are often attractive to [contrarian](https://www.investopedia.com/terms/c/contrarian.asp) investors seeking to capitalize on the potential for a company to recover from a temporary setback. Under these circumstances, the downgrade process usually starts with the company's debt being placed on a negative [credit watch](https://www.investopedia.com/terms/c/credit_watch.asp). That alone forces many [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp) to sell their positions, as their governing rules may forbid holding them.
+Fallen angel securities are often attractive to [[contrarian]](https://www.investopedia.com/terms/c/contrarian.asp) investors seeking to capitalize on the potential for a company to recover from a temporary setback. Under these circumstances, the downgrade process usually starts with the company's debt being placed on a negative [[credit watch]](https://www.investopedia.com/terms/c/credit_watch.asp). That alone forces many [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) to sell their positions, as their governing rules may forbid holding them.
 
 ### Junk Status Drives Selling
 

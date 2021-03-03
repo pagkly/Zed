@@ -16,7 +16,7 @@ author: Will Kenton
 Feed-In Tariff (FIT)
 ## What Is a Feed-In Tariff (FIT)?
 
-A feed-in tariff is a policy tool designed to promote [investment in renewable energy sources](https://www.investopedia.com/renewable-energy-4689739). This usually means promising small-scale producers of the energy—such as solar or wind energy—an above-market price for what they deliver to the grid.
+A feed-in tariff is a policy tool designed to promote [[investment in renewable energy sources]](https://www.investopedia.com/renewable-energy-4689739). This usually means promising small-scale producers of the energy—such as solar or wind energy—an above-market price for what they deliver to the grid.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A feed-in tariff is a policy tool designed to promote [investment in renewable e
 
 ## Understanding Feed-In Tariffs (FITs)
 
-Feed-in tariffs are seen as necessary to promote renewable energy sources in the early stages of their development, when production is often not [economically feasible](https://www.investopedia.com/terms/f/feasibility-study.asp). Feed-in tariffs usually involve long-term agreements and prices tied to the cost of production of the energy in question. The long-term contracts and guaranteed prices shelter producers from some of the risks inherent in renewable energy production, encouraging investment and development that otherwise might not take place.
+Feed-in tariffs are seen as necessary to promote renewable energy sources in the early stages of their development, when production is often not [[economically feasible]](https://www.investopedia.com/terms/f/feasibility-study.asp). Feed-in tariffs usually involve long-term agreements and prices tied to the cost of production of the energy in question. The long-term contracts and guaranteed prices shelter producers from some of the risks inherent in renewable energy production, encouraging investment and development that otherwise might not take place.
 
 ## Feed-In Tariffs and Small Energy Producers
 
@@ -44,7 +44,7 @@ The U.S. was a pioneer in feed-in tariffs. Its first was implemented by the Cart
 
 ## The Growth in Use of FITs
 
-Since then FITs have become widely used internationally. Japan, Germany, and China have all used them successfully over the past decade or so, and in total dozens of countries have used them to one degree or another to drive the development of renewable energy. It is estimated that [about three-fourths of global solar energy](https://blogs.nicholas.duke.edu/env212/the-case-for-state-solar-feed-in-tariffs-fits-in-the-usa/) is linked to feed-in tariffs.
+Since then FITs have become widely used internationally. Japan, Germany, and China have all used them successfully over the past decade or so, and in total dozens of countries have used them to one degree or another to drive the development of renewable energy. It is estimated that [[about three-fourths of global solar energy]](https://blogs.nicholas.duke.edu/env212/the-case-for-state-solar-feed-in-tariffs-fits-in-the-usa/) is linked to feed-in tariffs.
 
 ## A Shift Away From Feed-In Tariffs
 

@@ -16,13 +16,13 @@ author: Carla Tardi
 Gwei Definition
 ## What Is Gwei?
 
-Gwei is a denomination of the cryptocurrency ether (ETH), which is used on the [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp) network. Ethereum is a blockchain platform, like Bitcoin, where users transact with each other to buy and sell goods and services without a middle man or interference from a third party.
+Gwei is a denomination of the cryptocurrency ether (ETH), which is used on the [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) network. Ethereum is a blockchain platform, like Bitcoin, where users transact with each other to buy and sell goods and services without a middle man or interference from a third party.
 
 ## More About Gwei
 
 ### Gwei is Barely Perceptible
 
-Gwei is also called nanoether, or simply nano, to denote the ninth power of the fractional ETH. If you try to imagine the physical size of a gwei—the way you can visualize 100 pennies—you likely will not succeed, because measurements in ether are essentially imperceptible, like digital dust. As with other [cryptocurrencies](https://www.investopedia.com/terms/c/cryptocurrency.asp), ether is really only used for technical cases and writing code.
+Gwei is also called nanoether, or simply nano, to denote the ninth power of the fractional ETH. If you try to imagine the physical size of a gwei—the way you can visualize 100 pennies—you likely will not succeed, because measurements in ether are essentially imperceptible, like digital dust. As with other [[cryptocurrencies]](https://www.investopedia.com/terms/c/cryptocurrency.asp), ether is really only used for technical cases and writing code.
 
 ### The Most-Used Denomination of Ether
 
@@ -39,15 +39,15 @@ Here, gas refers to Ethereum network transaction fees, not the gasoline for your
 
 ## Gwei and Its Sibling Units of Ether
 
-Gwei is short for gigawei, or 1,000,000,000 wei. Wei, as the smallest (base) unit of ether, is like what cents are to the dollar and [satoshi](https://www.investopedia.com/terms/s/satoshi.asp) are to bitcoin. As with fiat currencies, like the U.S. dollar or the euro, ether is broken into denominations. Just as it takes 100 pennies to make a U.S. dollar, it takes a great many wei to make an ETH; 10^18 wei, to be exact; and 10^9 wei is a gwei.
+Gwei is short for gigawei, or 1,000,000,000 wei. Wei, as the smallest (base) unit of ether, is like what cents are to the dollar and [[satoshi]](https://www.investopedia.com/terms/s/satoshi.asp) are to bitcoin. As with fiat currencies, like the U.S. dollar or the euro, ether is broken into denominations. Just as it takes 100 pennies to make a U.S. dollar, it takes a great many wei to make an ETH; 10^18 wei, to be exact; and 10^9 wei is a gwei.
 
 1 ether = 1,000,000,000 gwei (109). 1 gwei = 0.000000001 ether. Just like 1 cent = 0.01 dollar.
 
-With ether [valuations](https://www.investopedia.com/terms/v/valuation.asp) shooting through the roof recently, transaction sizes have become smaller. Say, if 1 ETH = $800, then you need to spend only a fraction of an ether (0.0025 ETH) for an equivalent of $2. Other fractional costs, like the mining fee, might be even smaller in value, which makes it difficult to quote a lengthy fractional value, such as 0.000034243 ETH.
+With ether [[valuations]](https://www.investopedia.com/terms/v/valuation.asp) shooting through the roof recently, transaction sizes have become smaller. Say, if 1 ETH = $800, then you need to spend only a fraction of an ether (0.0025 ETH) for an equivalent of $2. Other fractional costs, like the mining fee, might be even smaller in value, which makes it difficult to quote a lengthy fractional value, such as 0.000034243 ETH.
 
 New digital currency denominations are becoming popular to help denote the smaller transactions correctly; these may look like very lengthy fractions in terms of ether but equate to high values when converted to U.S. dollars or another fiat currency. The table below displays the typical units of ether (with Gwei highlighted in yellow). You likely would not use them all, however, because transactions on the Ethereum are mostly denominated in ETH or wei.
 
-Notice in the table that the denominations each have their own slang (in parentheses)—which are their nicknames based on influential figures in the world of cryptography. For example, Gwei also may be called shannon, after Claude Shannon, an American mathematician, cryptographer, and [crypto](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/)\-analysis guru.
+Notice in the table that the denominations each have their own slang (in parentheses)—which are their nicknames based on influential figures in the world of cryptography. For example, Gwei also may be called shannon, after Claude Shannon, an American mathematician, cryptographer, and [[crypto]](https://www.investopedia.com/tech/explaining-crypto-cryptocurrency/)\-analysis guru.
 
 Investopedia / Carla Tardi 
 

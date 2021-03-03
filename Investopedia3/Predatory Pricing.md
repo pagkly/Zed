@@ -16,7 +16,7 @@ author: Will Kenton
 Predatory Pricing
 ## What is Predatory Pricing?
 
-Predatory pricing is the illegal act of setting prices low in an attempt to eliminate the competition. Predatory pricing violates [antitrust law,](https://www.investopedia.com/ask/answers/09/antitrust-law.asp) as it makes markets more vulnerable to a [monopoly](https://www.investopedia.com/terms/m/monopoly.asp).
+Predatory pricing is the illegal act of setting prices low in an attempt to eliminate the competition. Predatory pricing violates [[antitrust law,]](https://www.investopedia.com/ask/answers/09/antitrust-law.asp) as it makes markets more vulnerable to a [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp).
 
 However, allegations of this practice can be difficult to prosecute because defendants may argue successfully that lowering prices are part of normal competition, rather than a deliberate attempt to undermine the marketplace. And predatory pricing isn't always successful in its goal, because of the difficulties in recouping lost revenue and successfully eliminating competitors.
 
@@ -24,7 +24,7 @@ However, allegations of this practice can be difficult to prosecute because defe
 
 ### Effects of Predatory Pricing
 
-A [price war](https://www.investopedia.com/terms/p/price-war.asp) spurred by predatory pricing can be favorable for consumers in the short run. The heightened competition may create a [buyers’ market](https://www.investopedia.com/terms/b/buyersmarket.asp) in which the consumer enjoys not only lower prices but also increased leverage and wider choice.
+A [price war](https://www.investopedia.com/terms/p/price-war.asp) spurred by predatory pricing can be favorable for consumers in the short run. The heightened competition may create a [[buyers’ market]](https://www.investopedia.com/terms/b/buyersmarket.asp) in which the consumer enjoys not only lower prices but also increased leverage and wider choice.
 
 However, should the price battle succeed in slaying all, or even some, of the market competitors, the advantages for consumers may quickly evaporate—or even reverse. A monopolistic marketplace might allow the company that holds the monopoly to raise prices as they wish, perhaps reducing consumer choice in the bargain.
 
@@ -40,9 +40,9 @@ Even if such an effort worked, the strategy would succeed only if the revenue lo
 
 ### Dumping as Predatory Pricing
 
-There's even risk in a predatory-pricing practice known as [dumping,](https://www.investopedia.com/terms/d/dumping.asp) in which the predator attempts to conquer a new foreign market by selling goods there, at least temporarily, for less than they charge at home. The challenge, especially in an increasingly global market, lies in preventing the "dumped" goods from being bought abroad and resold in the lucrative home market.
+There's even risk in a predatory-pricing practice known as [[dumping,]](https://www.investopedia.com/terms/d/dumping.asp) in which the predator attempts to conquer a new foreign market by selling goods there, at least temporarily, for less than they charge at home. The challenge, especially in an increasingly global market, lies in preventing the "dumped" goods from being bought abroad and resold in the lucrative home market.
 
-A famous cautionary tale from the early 20th century involves [dumping into the U.S. by a German cartel that controlled the European market for bromine](https://www.investopedia.com/ask/answers/09/dow-chemical-bromine-monopoly.asp), an essential ingredient in many medicines as well as a vital element to photography. After American company Dow Chemical exported competitively priced [bromine](https://en.wikipedia.org/wiki/Bromine) to Europe, the Germans retaliated, selling bromine in the U.S. at below their manufacturing cost.
+A famous cautionary tale from the early 20th century involves [[dumping into the U.S. by a German cartel that controlled the European market for bromine]](https://www.investopedia.com/ask/answers/09/dow-chemical-bromine-monopoly.asp), an essential ingredient in many medicines as well as a vital element to photography. After American company Dow Chemical exported competitively priced [bromine](https://en.wikipedia.org/wiki/Bromine) to Europe, the Germans retaliated, selling bromine in the U.S. at below their manufacturing cost.
 
 Dow responded by simply buying the bromine stateside at the dumped price and reselling it profitably in Europe, which allowed the company to strengthen its European customer base at the expense of the German cartel.
 
@@ -50,7 +50,7 @@ Dow responded by simply buying the bromine stateside at the dumped price and res
 
 The same factors that make predatory pricing beneficial to consumers, at least in the short run—and often of dubious benefit to the predators, at least in the long run—have tended to hamper prosecution of supposed predators under U.S. antitrust laws.
 
-The [Federal Trade Commission](https://www.investopedia.com/terms/f/ftc.asp) says it examines claims of predatory pricing carefully. In turn, the Department of Justice, in [a paper updated as recently as 2015](https://www.justice.gov/atr/predatory-pricing-strategic-theory-and-legal-policy), has asserted that economic theory based on strategic analysis supports that predatory pricing is a real problem, and that courts have adopted an overly cautious view of the practice.
+The [[Federal Trade Commission]](https://www.investopedia.com/terms/f/ftc.asp) says it examines claims of predatory pricing carefully. In turn, the Department of Justice, in [[a paper updated as recently as 2015]](https://www.justice.gov/atr/predatory-pricing-strategic-theory-and-legal-policy), has asserted that economic theory based on strategic analysis supports that predatory pricing is a real problem, and that courts have adopted an overly cautious view of the practice.
 
 The U.S. judiciary has indeed often been skeptical of claims of predatory pricing. Among the high bars set by the U.S. Supreme Court on antitrust claims is the requirement that plaintiffs show a likelihood that the pricing practices will affect not only rivals but also competition in the market as a whole, in order to establish that there is a substantial probability of success of the attempt to monopolize.
 

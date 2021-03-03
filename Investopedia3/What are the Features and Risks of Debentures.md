@@ -16,7 +16,7 @@ author: James Chen
 What are the Features and Risks of Debentures?
 ## What Is a Debenture?
 
-A debenture is a type of bond or other debt instrument that is unsecured by [collateral](https://www.investopedia.com/terms/c/collateral.asp). Since debentures have no collateral backing, they must rely on the creditworthiness and reputation of the issuer for support. Both corporations and governments frequently issue debentures to raise capital or funds.
+A debenture is a type of bond or other debt instrument that is unsecured by [[collateral]](https://www.investopedia.com/terms/c/collateral.asp). Since debentures have no collateral backing, they must rely on the creditworthiness and reputation of the issuer for support. Both corporations and governments frequently issue debentures to raise capital or funds.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A debenture is a type of bond or other debt instrument that is unsecured by [col
 
 ## Debentures Explained
 
-Similar to most bonds, debentures may pay periodic interest payments called coupon payments. Like other types of bonds, debentures are documented in an [indenture](https://www.investopedia.com/terms/i/indenture.asp). An indenture is a legal and binding contract between bond issuers and [bondholders](https://www.investopedia.com/terms/b/bondholder.asp). The contract specifies features of a debt offering, such as the [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp), the timing of interest or coupon payments, the method of interest calculation, and other features. Corporations and governments can issue debentures.
+Similar to most bonds, debentures may pay periodic interest payments called coupon payments. Like other types of bonds, debentures are documented in an [[indenture]](https://www.investopedia.com/terms/i/indenture.asp). An indenture is a legal and binding contract between bond issuers and [bondholders](https://www.investopedia.com/terms/b/bondholder.asp). The contract specifies features of a debt offering, such as the [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp), the timing of interest or coupon payments, the method of interest calculation, and other features. Corporations and governments can issue debentures.
 
 Governments typically issue long-term bonds—those with maturities of longer than 10 years. Considered low-risk investments, these government bonds have the backing of the government issuer.
 
@@ -51,7 +51,7 @@ The coupon rate is determined, which is the rate of interest that the company wi
 
 ### Credit Rating
 
-The company's [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) and ultimately the debenture's credit rating impacts the interest rate that investors will receive. Credit-rating agencies measure the creditworthiness of corporate and government issues.3 These entities provide investors with an overview of the risks involved in investing in debt.
+The company's [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) and ultimately the debenture's credit rating impacts the interest rate that investors will receive. Credit-rating agencies measure the creditworthiness of corporate and government issues.3 These entities provide investors with an overview of the risks involved in investing in debt.
 
 Credit rating agencies, such as Standard and Poor's, typically assign letter grades indicating the underlying creditworthiness. The Standard & Poor’s system uses a scale that ranges from AAA for excellent rating to the lowest rating of C and D. Any debt instrument receiving a rating of lower than a BB is said to be of speculative-grade.4 You may also hear these called junk bonds. It boils down to the underlying issuer being more likely to default on the debt.
 
@@ -79,17 +79,17 @@ Cons
 
 ## Debenture Risks to Investors
 
-Debenture holders may face [inflationary risk](https://www.investopedia.com/terms/i/inflationrisk.asp).5 Here, the risk is that the debt's interest rate paid may not keep up with the rate of inflation. Inflation measures economy-based price increases. As an example, say inflation causes prices to increase by 3%, should the debenture coupon pay at 2%, the holders may see a net loss, in real terms.
+Debenture holders may face [[inflationary risk]](https://www.investopedia.com/terms/i/inflationrisk.asp).5 Here, the risk is that the debt's interest rate paid may not keep up with the rate of inflation. Inflation measures economy-based price increases. As an example, say inflation causes prices to increase by 3%, should the debenture coupon pay at 2%, the holders may see a net loss, in real terms.
 
 Debentures also carry [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp).5 In this risk scenario, investors hold fixed-rate debts during times of rising market interest rates. These investors may find their debt returning less than what is available from other investments paying the current, higher, market rate. If this happens, the debenture holder earns a lower yield in comparison.
 
-Further, debentures may carry credit risk and [default risk](https://www.investopedia.com/terms/d/defaultrisk.asp).6 As stated earlier, debentures are only as secure as the underlying issuer's financial strength. If the company struggles financially due to internal or macroeconomic factors, investors are at risk of default on the debenture. As some consolation, a debenture holder would be repaid before common stock shareholders in the event of bankruptcy.
+Further, debentures may carry credit risk and [[default risk]](https://www.investopedia.com/terms/d/defaultrisk.asp).6 As stated earlier, debentures are only as secure as the underlying issuer's financial strength. If the company struggles financially due to internal or macroeconomic factors, investors are at risk of default on the debenture. As some consolation, a debenture holder would be repaid before common stock shareholders in the event of bankruptcy.
 
 The three main features of a debenture are the interest rate, the credit rating and the maturity date.
 
 ## Example of a Debenture
 
-An example of a government debenture would be the U.S. [Treasury bond (T-bond)](https://www.investopedia.com/terms/t/treasurybond.asp). T-bonds help finance projects and fund day-to-day governmental operations. The U.S. Treasury Department issues these bonds during auctions held throughout the year. Some Treasury bonds trade in the secondary market. In the secondary market through a financial institution or broker, investors can buy and sell previously issued bonds. T-bonds are nearly risk-free since they're backed by the full faith and credit of the U.S. government. However, they also face the risk of inflation and interest rates increase.7
+An example of a government debenture would be the U.S. [[Treasury bond (T-bond)]](https://www.investopedia.com/terms/t/treasurybond.asp). T-bonds help finance projects and fund day-to-day governmental operations. The U.S. Treasury Department issues these bonds during auctions held throughout the year. Some Treasury bonds trade in the secondary market. In the secondary market through a financial institution or broker, investors can buy and sell previously issued bonds. T-bonds are nearly risk-free since they're backed by the full faith and credit of the U.S. government. However, they also face the risk of inflation and interest rates increase.7
 
 ## Frequently Asked Question
 

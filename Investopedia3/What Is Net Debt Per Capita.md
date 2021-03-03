@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Net Debt Per Capita?
 ## What is Net Debt Per Capita?
 
-The net debt [per capita](https://www.investopedia.com/terms/p/percapita.asp) is a measurement of the value of a government's debt expressed in terms of the amount attributable to each citizen under the government's jurisdiction. It is commonly computed using the following formula:
+The net debt [[per capita]](https://www.investopedia.com/terms/p/percapita.asp) is a measurement of the value of a government's debt expressed in terms of the amount attributable to each citizen under the government's jurisdiction. It is commonly computed using the following formula:
 
 Net Debt Per Capita = (Short-Term Debt + Long-Term Debt – Cash & Cash Equivalents)/Population
 
@@ -28,7 +28,7 @@ Net Debt Per Capita = (Short-Term Debt + Long-Term Debt – Cash & Cash Equivale
 
 ## Understanding Net Debt Per Capita
 
-In simple terms, the net debt per capita is how much debt a government has per citizen. This is often calculated at the national level, but it also applies at the state and even municipal government levels. The level of net debt per capita can be an important factor to consider when analyzing a government's ability to continue to pay its debt service costs through its current levels of tax revenue. In other words, net debt per capita can be used to help evaluate the [default risk](https://www.investopedia.com/terms/d/defaultrisk.asp) of government bonds and give an indication of overall economic health.
+In simple terms, the net debt per capita is how much debt a government has per citizen. This is often calculated at the national level, but it also applies at the state and even municipal government levels. The level of net debt per capita can be an important factor to consider when analyzing a government's ability to continue to pay its debt service costs through its current levels of tax revenue. In other words, net debt per capita can be used to help evaluate the [[default risk]](https://www.investopedia.com/terms/d/defaultrisk.asp) of government bonds and give an indication of overall economic health.
 
 ## Calculating Net Debt Per Capita
 
@@ -42,6 +42,6 @@ Technically, this means that each taxpayer would owe the country $3,100 if the c
 
 Net debt per capita is more commonly used for political statements than it is as an economic indicator in and of itself. Expressing the national debt in terms of a citizen's share makes a figure that is often too large to comprehend as a whole much more real to people. In a sense, the liability of every taxpayer, present, and future, rises as the national debt grows.
 
-In 2016, for example, the net debt per capita of the United States was $61,539, almost twice what the average American taxpayer who [filed as a single adult](https://www.investopedia.com/terms/s/single.asp) made that entire year. Other countries with high net debt per capita include Japan, Ireland, Italy, Belgium, Austria, France, Greece, the United Kingdom, and Portugal.
+In 2016, for example, the net debt per capita of the United States was $61,539, almost twice what the average American taxpayer who [[filed as a single adult]](https://www.investopedia.com/terms/s/single.asp) made that entire year. Other countries with high net debt per capita include Japan, Ireland, Italy, Belgium, Austria, France, Greece, the United Kingdom, and Portugal.
 
-Again, these figures are generally used in domestic politics to push for some change in [fiscal policy](https://www.investopedia.com/terms/f/fiscalpolicy.asp). That said, net debt per capita may be plotted against [GDP per capita](https://www.investopedia.com/terms/p/per-capita-gdp.asp) to compare several regions around the world to determine the most promising area to invest in internationally. However, the [debt to GDP ratio](https://www.investopedia.com/terms/d/debtgdpratio.asp) is more commonly used for this purpose as it simplifies two data sets into a single plotted line for each country. This makes visualization and comparison much easier.
+Again, these figures are generally used in domestic politics to push for some change in [[fiscal policy]](https://www.investopedia.com/terms/f/fiscalpolicy.asp). That said, net debt per capita may be plotted against [[GDP per capita]](https://www.investopedia.com/terms/p/per-capita-gdp.asp) to compare several regions around the world to determine the most promising area to invest in internationally. However, the [[debt to GDP ratio]](https://www.investopedia.com/terms/d/debtgdpratio.asp) is more commonly used for this purpose as it simplifies two data sets into a single plotted line for each country. This makes visualization and comparison much easier.

@@ -16,7 +16,7 @@ author: Julia Kagan
 HIPAA Waiver of Authorization
 ## What is HIPAA Waiver of Authorization
 
-A legal document that allows an [individual’s health information](https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp) to be used or disclosed to a third party. The waiver is part of a series of patient-privacy measures set forth in the [Health Insurance Portability and Accountability Act (HIPAA) of 1996](https://www.investopedia.com/terms/h/hipaa.asp).
+A legal document that allows an [[individual’s health information]](https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp) to be used or disclosed to a third party. The waiver is part of a series of patient-privacy measures set forth in the [[Health Insurance Portability and Accountability Act (HIPAA) of 1996]](https://www.investopedia.com/terms/h/hipaa.asp).
 
 ## BREAKING DOWN HIPAA Waiver of Authorization
 
@@ -35,4 +35,4 @@ There are some additional standards and criteria designed to protect an indivi
 
 In order for a HIPAA waiver to be approved for research purposes, three criteria for the use of private health information must be met: the health information to be disclosed must present a minimal risk to the privacy of the disclosing party; the researchers must ensure that research activities could not be undertaken without the information; and the research could not be practicably conducted without the waiver.1
 
-Should a family member attempt to bypass HIPAA rules through the use of an attorney, usually in the event of a medical emergency, the patient must have already outlined in his/her [power of attorney for healthcare](https://www.investopedia.com/terms/h/hcpa.asp) that he/she expressly waives the protection offered by HIPAA and allows the specifically designated "personal representative" to know his/her otherwise private health information.
+Should a family member attempt to bypass HIPAA rules through the use of an attorney, usually in the event of a medical emergency, the patient must have already outlined in his/her [[power of attorney for healthcare]](https://www.investopedia.com/terms/h/hcpa.asp) that he/she expressly waives the protection offered by HIPAA and allows the specifically designated "personal representative" to know his/her otherwise private health information.

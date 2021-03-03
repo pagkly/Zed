@@ -16,7 +16,7 @@ author: Caroline Banton
 The Neoclassical Growth Theory Explained
 ## What Is the Neoclassical Growth Theory?
 
-Neoclassical growth theory is an economic theory that outlines how a steady [economic growth rate](https://www.investopedia.com/terms/e/economicgrowthrate.asp) results from a combination of three driving forces—labor, capital, and technology. The National Bureau of Economic Research names Robert Solow and Trevor Swan as having the credit of developing and introducing the [model](https://www.nber.org/papers/w13950) of long-run economic growth in 1956. The model first considered exogenous population increases to set the growth rate but, in 1957, Solow incorporated technology change into the model.1
+Neoclassical growth theory is an economic theory that outlines how a steady [[economic growth rate]](https://www.investopedia.com/terms/e/economicgrowthrate.asp) results from a combination of three driving forces—labor, capital, and technology. The National Bureau of Economic Research names Robert Solow and Trevor Swan as having the credit of developing and introducing the [[model]](https://www.nber.org/papers/w13950) of long-run economic growth in 1956. The model first considered exogenous population increases to set the growth rate but, in 1957, Solow incorporated technology change into the model.1
 
 -   Robert Solow and Trevor Swan first introduced the neoclassical growth theory in 1956.
 -   The theory states that economic growth is the result of three factors—labor, capital, and technology.
@@ -30,11 +30,11 @@ Neoclassical growth theory outlines the three factors necessary for a growing e
 
 ## Special Consideration
 
-This growth theory posits that the accumulation of capital within an economy, and how people use that capital, is important for economic growth. Further, the relationship between the capital and labor of an economy determines its output. Finally, technology is thought to augment [labor productivity](https://www.investopedia.com/terms/l/labor-productivity.asp) and increase the output capabilities of labor.
+This growth theory posits that the accumulation of capital within an economy, and how people use that capital, is important for economic growth. Further, the relationship between the capital and labor of an economy determines its output. Finally, technology is thought to augment [[labor productivity]](https://www.investopedia.com/terms/l/labor-productivity.asp) and increase the output capabilities of labor.
 
 Therefore, the production function of neoclassical growth theory is used to measure the growth and equilibrium of an economy. That function is Y = AF (K, L).
 
--   Y denotes an economy's [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP)
+-   Y denotes an economy's [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP)
 -   K represents its share of capital
 -   L describes the amount of unskilled labor in an economy 
 -   A represents a determinant level of technology

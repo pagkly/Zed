@@ -30,7 +30,7 @@ The W-8 series forms are fairly complex. Though they require basic information s
 
 ## Form W-8BEN
 
-Form W-8BEN ("Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting") must be submitted by foreign persons who receive certain types of income in the United States. The form, sometimes referred to as a "certificate of foreign status," establishes that the individual is both [a foreign person and the beneficial owner of the business in question](https://www.investopedia.com/articles/personal-finance/032615/starting-your-own-us-business-foreigner.asp).
+Form W-8BEN ("Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting") must be submitted by foreign persons who receive certain types of income in the United States. The form, sometimes referred to as a "certificate of foreign status," establishes that the individual is both [[a foreign person and the beneficial owner of the business in question]](https://www.investopedia.com/articles/personal-finance/032615/starting-your-own-us-business-foreigner.asp).
 
 Form W-8BEN is available on the IRS website.4
 

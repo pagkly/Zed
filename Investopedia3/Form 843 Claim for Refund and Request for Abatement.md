@@ -16,7 +16,7 @@ author: Rajeev Dhir
 Form 843: Claim for Refund and Request for Abatement
 ## What Is Form 843: Claim for Refund and Request for Abatement?
 
-Form 843 is a multipurpose tax document issued by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) used by taxpayers to make a claim for a refund of certain assessed taxes or to request abatement of interest or penalties applied in error.
+Form 843 is a multipurpose tax document issued by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) used by taxpayers to make a claim for a refund of certain assessed taxes or to request abatement of interest or penalties applied in error.
 
 ### Key Takeaways
 
@@ -28,17 +28,17 @@ Form 843 is a multipurpose tax document issued by the [Internal Revenue Service]
 
 Form 843 can be used to ask the IRS for abatement of certain taxes other than income including:
 
--   [Estate](https://www.investopedia.com/terms/e/estatetax.asp) or [gift taxes](https://www.investopedia.com/terms/g/gifttax.asp)
+-   [[Estate]](https://www.investopedia.com/terms/e/estatetax.asp) or [[gift taxes]](https://www.investopedia.com/terms/g/gifttax.asp)
 -   Interest or penalties due to IRS error or delays, or incorrect written advice from the IRS
--   To seek a refund of Social Security or [Medicare](https://www.investopedia.com/terms/m/medicare.asp) taxes that were withheld in error, and for which the employer will not adjust the over-collection
+-   To seek a refund of Social Security or [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) taxes that were withheld in error, and for which the employer will not adjust the over-collection
 
 Form 843 cannot be used to amend a previously filed income or employment tax return to:
 
 -   Claim a refund of agreement, offer-in-compromise fees, or lien fees
 -   Request an abatement of gift or estate taxes
--   Claim a refund or abatement of [Federal Insurance Contributions Act](https://www.investopedia.com/terms/f/fica.asp) (FICA) tax
+-   Claim a refund or abatement of [[Federal Insurance Contributions Act]](https://www.investopedia.com/terms/f/fica.asp) (FICA) tax
 -   Claim a refund or abatement of Railroad Retirement Tax Act tax
--   Claim a refund or abatement of income [tax withholding](https://www.investopedia.com/terms/w/withholdingtax.asp)
+-   Claim a refund or abatement of income [[tax withholding]](https://www.investopedia.com/terms/w/withholdingtax.asp)
 
 ## Who Can File Form 843: Claim for Refund and Request for Abatement?
 
@@ -66,4 +66,4 @@ The form must be filed within two years from the date you paid the taxes or thre
 
 ## Special Considerations for Form 843
 
-If the IRS denies your claim by sending a statutory notice of claim disallowance—or if six months pass without any action—you can petition the U.S. District Court or the U.S. Court of Federal Claims.2 3 You can also file a protective claim before the expiration of the [statute of limitations](https://www.investopedia.com/terms/s/statute-of-limitations.asp) to preserve your right to make a claim for a refund. Protective claims and real claims have the same legal effect.
+If the IRS denies your claim by sending a statutory notice of claim disallowance—or if six months pass without any action—you can petition the U.S. District Court or the U.S. Court of Federal Claims.2 3 You can also file a protective claim before the expiration of the [[statute of limitations]](https://www.investopedia.com/terms/s/statute-of-limitations.asp) to preserve your right to make a claim for a refund. Protective claims and real claims have the same legal effect.

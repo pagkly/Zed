@@ -16,7 +16,7 @@ author: James Chen
 The Benefits and Risks of Tracking Stocks
 ## What Is a Tracking Stock?
 
-A tracking stock is a stock issued by a [parent company](https://www.investopedia.com/terms/p/parentcompany.asp) that tracks the financial performance of a particular division. Tracking stocks trade in the open market separately from the parent company's stock.
+A tracking stock is a stock issued by a [[parent company]](https://www.investopedia.com/terms/p/parentcompany.asp) that tracks the financial performance of a particular division. Tracking stocks trade in the open market separately from the parent company's stock.
 
 Tracking stocks are also known as targeted stocks.
 
@@ -30,13 +30,13 @@ Tracking stocks are also known as targeted stocks.
 
 ## Understanding Tracking Stocks
 
-When a parent company issues a tracking stock, all revenues and expenses of the applicable division are separated from the parent company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) and bound only to the tracking stock. The performance of the tracking stock is tied to the financial performance of the division it follows.
+When a parent company issues a tracking stock, all revenues and expenses of the applicable division are separated from the parent company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) and bound only to the tracking stock. The performance of the tracking stock is tied to the financial performance of the division it follows.
 
 If the division is doing well, the tracking stock will rise even if the overall company is performing poorly. Conversely, if the division is performing poorly, the tracking stock will likely fall even if the overall company is doing well.
 
-Companies might issue tracking stocks to separate a division that doesn't fit in with the overall company such as a software developer division that's part of a parent manufacturer. Companies also separate a subsidiary's high-growth division from a larger parent company that is experiencing losses. However, the parent company and its shareholders still control the operations of the [subsidiary](https://www.investopedia.com/terms/s/subsidiary.asp).
+Companies might issue tracking stocks to separate a division that doesn't fit in with the overall company such as a software developer division that's part of a parent manufacturer. Companies also separate a subsidiary's high-growth division from a larger parent company that is experiencing losses. However, the parent company and its shareholders still control the operations of the [[subsidiary]](https://www.investopedia.com/terms/s/subsidiary.asp).
 
-Tracking stocks are registered similarly to [common stocks](https://www.investopedia.com/terms/c/commonstock.asp) per the regulations enforced by the U.S. Securities and Exchange Commission (SEC). The issuance and reporting are essentially the same as they are for any new common shares. Companies include a separate section for the tracking stock and the financials of the underlying division in their financial reports.
+Tracking stocks are registered similarly to [[common stocks]](https://www.investopedia.com/terms/c/commonstock.asp) per the regulations enforced by the U.S. Securities and Exchange Commission (SEC). The issuance and reporting are essentially the same as they are for any new common shares. Companies include a separate section for the tracking stock and the financials of the underlying division in their financial reports.
 
 Tracking stocks were more frequently made use of in the late 1990s technology boom than they are currently, although some companies still issue them today.
 
@@ -46,7 +46,7 @@ Tracking stocks allow investors the opportunity to invest in a particular portio
 
 If the division is a new up and coming technology, for example, investors can realize investment gains from its explosive growth. Those gains might not be possible by holding the parent company's stock since the performance of the other divisions could muddy the performance of the technology division. Conversely, prices of tracking stocks for a division that's not performing well or not living up to expectations might decline even if the overall company is on solid footing.
 
-Investors might receive [dividends](https://www.investopedia.com/terms/d/dividend.asp) based on the performance of the division regardless of the overall performance of the business as a whole. A dividend is a financial payment, returned to shareholders by companies. However, not all tracking stocks pay dividends. Tracking stocks also allow investors to participate in the business segments that appeal most to them and best fit their risk tolerance.
+Investors might receive [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) based on the performance of the division regardless of the overall performance of the business as a whole. A dividend is a financial payment, returned to shareholders by companies. However, not all tracking stocks pay dividends. Tracking stocks also allow investors to participate in the business segments that appeal most to them and best fit their risk tolerance.
 
 If a parent company experiences financial hardship and goes into bankruptcy, investors holding tracking stocks will not have a claim on the assets of the division or those of the parent company. Investors need to be mindful of the risks involved in buying a tracking stock when the parent company is struggling or not well established.
 
@@ -58,7 +58,7 @@ Companies that issue tracking stocks raise funds from any new issuance of equity
 
 Companies can gauge investor interest in specific segments of the business through the associated activity of each tracking stock. For example, a large-scale telecommunications company may choose to use tracking stocks to separate the activities of their wireless, or cellular division from its landline services. Investor interest in each division can be measured based on the activities of each of the tracking stocks.
 
-Tracking stocks also eliminate the need for the company to create a separate business or legal entity to separate the associated activities. This separation removes the need for the creation of additional management teams and shareholders as would occur when establishing a new legal entity, such as with the creation of a [spinoff](https://www.investopedia.com/video/play/spinoff/).
+Tracking stocks also eliminate the need for the company to create a separate business or legal entity to separate the associated activities. This separation removes the need for the creation of additional management teams and shareholders as would occur when establishing a new legal entity, such as with the creation of a [[spinoff]](https://www.investopedia.com/video/play/spinoff/).
 
 Companies that issue tracking stocks might be parsing out the best parts of their company. If the parent company and the parent stock price are underperforming, investors holding shares might lose interest and sell. By separating out the outperforming divisions, it might cast a light on how poorly the parent company is doing.
 

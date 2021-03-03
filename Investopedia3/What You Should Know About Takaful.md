@@ -16,9 +16,9 @@ author: Julia Kagan
 What You Should Know About Takaful
 ## What Is Takaful?
 
-Takaful is a type of Islamic insurance wherein members contribute money into a pool system to guarantee each other against loss or damage. Takaful-branded insurance is based on [sharia](https://www.investopedia.com/terms/s/shariah.asp) or Islamic religious law, which explains how individuals are responsible to cooperate and protect one another. Takaful policies cover health, life, and general insurance needs.
+Takaful is a type of Islamic insurance wherein members contribute money into a pool system to guarantee each other against loss or damage. Takaful-branded insurance is based on [[sharia]](https://www.investopedia.com/terms/s/shariah.asp) or Islamic religious law, which explains how individuals are responsible to cooperate and protect one another. Takaful policies cover health, life, and general insurance needs.
 
-Takaful insurance companies were introduced as an alternative to those in the commercial insurance industry, which are believed to go against Islamic restrictions on [riba](https://www.investopedia.com/terms/r/riba.asp) (interest), _al-maisir_ (gambling), and _al-gharar_ (uncertainty) principles—all of which are outlawed in sharia.
+Takaful insurance companies were introduced as an alternative to those in the commercial insurance industry, which are believed to go against Islamic restrictions on [[riba]](https://www.investopedia.com/terms/r/riba.asp) (interest), _al-maisir_ (gambling), and _al-gharar_ (uncertainty) principles—all of which are outlawed in sharia.
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ An Islamic insurance company operating a takaful fund must operate under the f
 
 ## Special Considerations
 
-According to a [report by Research and Markets](https://www.researchandmarkets.com/research/b9zk3d/global_takaful?w=5), the global takaful market is growing at a rapid pace. The market was worth roughly $19 billion USD by the end of 2017, with the largest segment being the life and family market. Takaful was expected to grow to $40 billion by 2023, according to the report, thanks in part to a large global Muslim population—especially in the Asia-Pacific region.
+According to a [[report by Research and Markets]](https://www.researchandmarkets.com/research/b9zk3d/global_takaful?w=5), the global takaful market is growing at a rapid pace. The market was worth roughly $19 billion USD by the end of 2017, with the largest segment being the life and family market. Takaful was expected to grow to $40 billion by 2023, according to the report, thanks in part to a large global Muslim population—especially in the Asia-Pacific region.
 
 Young Muslims make up about 60% of the community, making the takaful market even more likely to grow in the future.
 

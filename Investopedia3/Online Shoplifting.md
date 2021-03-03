@@ -27,7 +27,7 @@ Online shoplifting is the theft of goods from an Internet-based merchant. Online
 
 ## How Online Shoplifting Works
 
-One way to conduct online shoplifting is through the credit card [chargeback](https://www.investopedia.com/terms/c/chargeback.asp) process. A consumer purchases goods online using a credit card, receives the goods, then submits a statement to the credit card company claiming that they never received the goods. As a result, the credit card company initiates a chargeback and forces the merchant to [refund](https://www.investopedia.com/terms/r/refund.asp) the customer’s purchase.
+One way to conduct online shoplifting is through the credit card [[chargeback]](https://www.investopedia.com/terms/c/chargeback.asp) process. A consumer purchases goods online using a credit card, receives the goods, then submits a statement to the credit card company claiming that they never received the goods. As a result, the credit card company initiates a chargeback and forces the merchant to [[refund]](https://www.investopedia.com/terms/r/refund.asp) the customer’s purchase.
 
 Even though the customer has never set foot in the merchant’s place of business, they have effectively shoplifted by fraudulently using the chargeback process to obtain goods without paying for them. What is more, if a credit card payment processor receives too many chargeback requests for the same company, it may stop doing business with them. The online merchant then experiences secondary damage from online shoplifting because it can no longer accept a certain brand of credit card. This might, in turn, reduce sales since the inability to accept that card will significantly inconvenience customers.
 
@@ -35,7 +35,7 @@ To be clear, chargebacks themselves are not fraudulent, but when consumers abuse
 
 ## Types of Online Shoplifting
 
-Another way to conduct online shoplifting is through piracy. Illegally downloading [copyrighted](https://www.investopedia.com/terms/c/copyright.asp) music, books, or movies for free instead of purchasing them through legitimate channels is a form of online shoplifting that simultaneously robs both producers and distributors.
+Another way to conduct online shoplifting is through piracy. Illegally downloading [[copyrighted]](https://www.investopedia.com/terms/c/copyright.asp) music, books, or movies for free instead of purchasing them through legitimate channels is a form of online shoplifting that simultaneously robs both producers and distributors.
 
 The issue has posed a challenge for a number of reasons. Consumers of pirated content want it for free, or at least a very low cost. Secondly, media companies often lack the resources to respond to growing demands for free content; the digital media "underworld" moves faster than big businesses, with conglomerates of intelligent hackers and pirates joining forces across the globe. Thirdly, the proliferation of user-generated content allows anyone and everyone to create and distribute content without even realizing that they are committing copyright infringement along the way.
 

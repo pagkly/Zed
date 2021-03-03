@@ -18,7 +18,7 @@ Zero Capital Gains Rate Definition
 
 A zero capital gains rate implies a tax rate of 0% on capital gains. This 0% rate may be charged to individuals who sell property within a so-called "[enterprise zone](https://www.investopedia.com/terms/e/enterprise-zone.asp)." Such a zone is a geographic area that has been granted special tax breaks, regulatory exemptions, or other public assistance in order to encourage private economic development and job creation. They are used most often to promote the [revitalization](https://www.investopedia.com/articles/investing/022717/x-gentrifying-neighborhoods-los-angeles.asp) of a city neighborhood.
 
-The zero [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) rate can be applied by a given level of government in order to prompt investment in a given area.
+The zero [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) rate can be applied by a given level of government in order to prompt investment in a given area.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ In 2004, the U.S. Congress passed, and the president approved, the Working Famil
 
 The logic behind this act is to give an incentive to individuals to invest in this area. The rate is not exclusive to any one region, state, or municipality. Legislators looking to create jobs and draw investment into a community frequently enact a zero capital gains tax rate, or institute other tax-related incentives in that area.
 
-A 2012 tax bill made the 0% capital gains rate permanent for most filers, provided that are either single with a taxable income under $37,950, or couples with taxable income under $75,900.3 Even still, some of these filers face modest tax rates of 25% to 30%, if they earn additional income that’s taxed at ordinary rates, consequently pushing their long-term gains or qualified [dividend](https://www.investopedia.com/terms/d/dividend.asp) income from the 0% bracket into the 15% bracket for investment income.
+A 2012 tax bill made the 0% capital gains rate permanent for most filers, provided that are either single with a taxable income under $37,950, or couples with taxable income under $75,900.3 Even still, some of these filers face modest tax rates of 25% to 30%, if they earn additional income that’s taxed at ordinary rates, consequently pushing their long-term gains or qualified [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income from the 0% bracket into the 15% bracket for investment income.
 
 On the other hand, itemized deductions may reduce ordinary income, placing individuals beneath the 15% bracket and thus increasing the capital gains or dividends that are taxed at 0%. This helps explain why taxpayers can have high adjusted gross incomes but still face 0% taxes on their long-term capital gains.
 

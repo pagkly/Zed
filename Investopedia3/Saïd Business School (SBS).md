@@ -16,7 +16,7 @@ author: Julia Kagan
 Saïd Business School (SBS)
 ## What Is Saïd Business School?
 
-Saïd Business School is the business school at Oxford University. The Saïd Business School (SBS) offers both undergraduate and graduate programs in finance, business and management. The school has several [master of business administration](https://www.investopedia.com/terms/m/mba.asp) (MBA) and doctorate programs covering various aspects of business and finance.
+Saïd Business School is the business school at Oxford University. The Saïd Business School (SBS) offers both undergraduate and graduate programs in finance, business and management. The school has several [[master of business administration]](https://www.investopedia.com/terms/m/mba.asp) (MBA) and doctorate programs covering various aspects of business and finance.
 
 Established in 1996, the Saïd Business School is one of the newest players in the premier business school arena. Still, it has been ranked consistently among the top business schools in the world. This program has superseded the old Oxford Centre for Management Studies, which taught business and management courses from 1965 until it was rebranded.
 
@@ -26,7 +26,7 @@ The school was established following a large donation from Wafic Saïd, a wealth
 
 Saïd Business School offers undergraduate, graduate and doctoral programs. The undergraduate program offers one degree, a bachelor of arts in economics and management. It is offered as a joint program between the business school and the economics department.
 
-The school offers full-time MBA, [executive MBA](https://www.investopedia.com/terms/e/executive-mba.asp), and Ph.D. programs. It also offers a master of science degree in program management. The MBA program focuses on entrepreneurship, global rules of the game and responsible leadership. The executive MBA program is a 21-month program designed for people with more than five years of management experience.
+The school offers full-time MBA, [[executive MBA]](https://www.investopedia.com/terms/e/executive-mba.asp), and Ph.D. programs. It also offers a master of science degree in program management. The MBA program focuses on entrepreneurship, global rules of the game and responsible leadership. The executive MBA program is a 21-month program designed for people with more than five years of management experience.
 
 ## Saïd School of Business Mission
 

@@ -20,7 +20,7 @@ A Qualified Personal Residence Trust (QPRT) is a specific type of irrevocable tr
 
 Qualified Personal Residence Trusts allow for the owner of the residence to remain living on the property for a period of time with "retained interest" in the house; once that period is over, the interest remaining is transferred to the beneficiaries as "remainder interest."
 
-Depending on the length of the trust, the value of the property during the retained interest period is calculated based on [Applicable Federal Rates](https://www.investopedia.com/terms/a/applicablefederalrate.asp) that the Internal Revenue Service (IRS) provides. Because the owner retains a fraction of the value, the gift value of the property is lower than its [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp), thus lowering its incurred gift tax. This tax can also be lowered with a unified credit.
+Depending on the length of the trust, the value of the property during the retained interest period is calculated based on [[Applicable Federal Rates]](https://www.investopedia.com/terms/a/applicablefederalrate.asp) that the Internal Revenue Service (IRS) provides. Because the owner retains a fraction of the value, the gift value of the property is lower than its [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp), thus lowering its incurred gift tax. This tax can also be lowered with a unified credit.
 
 ## How a Qualified Personal Residence Trust (QPRT) Works
 
@@ -34,7 +34,7 @@ A qualified personal residence trust can be useful when the trust expires prior 
 
 ## QPRT and Other Trust Forms
 
-Many different types of trusts exist in addition to a qualified personal residence trust. Two additional ones are a bare trust and a [charitable remainder trust](https://www.investopedia.com/terms/c/charitableremaindertrust.asp). In a bare trust, the beneficiary has the absolute right to the trust’s assets (both financial and non-financial, such as real estate and collectibles), as well as the income generated from these assets (such as rental income from properties or bond interest).
+Many different types of trusts exist in addition to a qualified personal residence trust. Two additional ones are a bare trust and a [[charitable remainder trust]](https://www.investopedia.com/terms/c/charitableremaindertrust.asp). In a bare trust, the beneficiary has the absolute right to the trust’s assets (both financial and non-financial, such as real estate and collectibles), as well as the income generated from these assets (such as rental income from properties or bond interest).
 
 In a charitable remainder trust, a donor may provide an income interest to a non-charitable beneficiary with the remainder of the trust going to a charitable organization. The CRAT and CRUT are two types of charitable remainder trusts.
 

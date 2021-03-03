@@ -16,7 +16,7 @@ author: James Chen
 Portfolio Runoff
 ## What Is Portfolio Runoff?
 
-Portfolio runoff is a concept in financial [portfolio management](https://www.investopedia.com/terms/p/portfoliomanagement.asp) whereby assets decrease. It can occur in a variety of situations and scenarios. Portfolio runoff can be a balance sheet consideration or it may occur in different types of investment portfolios.
+Portfolio runoff is a concept in financial [[portfolio management]](https://www.investopedia.com/terms/p/portfoliomanagement.asp) whereby assets decrease. It can occur in a variety of situations and scenarios. Portfolio runoff can be a balance sheet consideration or it may occur in different types of investment portfolios.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Portfolio runoff can be important to manage in any financial portfolio that is d
 
 ## Balance Sheet Runoff
 
-For a bank or lender, portfolio runoff can occur when payments are made on fixed-term loans without further loan volume generation. Payments made on [loans](https://www.investopedia.com/terms/l/loan.asp) increase the asset balance matched against the liability with a specified target rate of interest collection until the established [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp). At maturity, a loan’s principal has been fully repaid with interest which then exceeds the initial liability at the targeted rate. If the bank does not issue more loans it experiences runoff. If interest rates fall and a bank must issue loans at lower rates it will also experience runoff defined as the difference between what it made from higher rate loans vs. what it makes from the newly issued loans. Runoff can also occur when early prepayments are allowed or defaults occur as these things lower the expected receivables and returns.
+For a bank or lender, portfolio runoff can occur when payments are made on fixed-term loans without further loan volume generation. Payments made on [[loans]](https://www.investopedia.com/terms/l/loan.asp) increase the asset balance matched against the liability with a specified target rate of interest collection until the established [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp). At maturity, a loan’s principal has been fully repaid with interest which then exceeds the initial liability at the targeted rate. If the bank does not issue more loans it experiences runoff. If interest rates fall and a bank must issue loans at lower rates it will also experience runoff defined as the difference between what it made from higher rate loans vs. what it makes from the newly issued loans. Runoff can also occur when early prepayments are allowed or defaults occur as these things lower the expected receivables and returns.
 
 Runoff can also occur when a bank experiences withdrawals which reduce its total capital. Individuals and businesses may reduce their capital at banks to invest in other higher-paying investments or vehicles.
 
@@ -42,11 +42,11 @@ In an effort to try and reduce portfolio runoff or offset the impact of unexpect
 
 ## Alternative Portfolio Assets
 
-Asset-backed portfolios or asset holdings can be another area where managers can experience runoff. Asset-backed securities like mortgage-backed securities usually have a fixed maturity date. The [mortgages](https://www.investopedia.com/terms/m/mortgage.asp) that are bundled to make up the security usually all have similar maturity dates which lead to the final maturity date.
+Asset-backed portfolios or asset holdings can be another area where managers can experience runoff. Asset-backed securities like mortgage-backed securities usually have a fixed maturity date. The [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp) that are bundled to make up the security usually all have similar maturity dates which lead to the final maturity date.
 
-For managers who hold mortgage-backed securities specifically, they can project a specific maturity date based on the security maturity for which interest payment receivables will stop and they will receive their full principal. If payments from mortgage-backed securities are not reinvested, the income from them will stop at a specified date. This means there will likely be a difference in the return of the portfolio which can be considered the runoff. Payments from [asset-backed](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) holdings are accumulated as cash which typically has a lower rate of return than the mortgage-backed security investments.
+For managers who hold mortgage-backed securities specifically, they can project a specific maturity date based on the security maturity for which interest payment receivables will stop and they will receive their full principal. If payments from mortgage-backed securities are not reinvested, the income from them will stop at a specified date. This means there will likely be a difference in the return of the portfolio which can be considered the runoff. Payments from [[asset-backed]](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) holdings are accumulated as cash which typically has a lower rate of return than the mortgage-backed security investments.
 
-In general, where alternative portfolio assets are involved, runoff is typically associated with the difference in return from cash holdings vs. reinvestment. For asset-backed portfolios, runoff can also be affected by early prepayments or [defaults](https://www.investopedia.com/terms/d/default2.asp) which are two factors that can reduce return and increase runoff.
+In general, where alternative portfolio assets are involved, runoff is typically associated with the difference in return from cash holdings vs. reinvestment. For asset-backed portfolios, runoff can also be affected by early prepayments or [[defaults]](https://www.investopedia.com/terms/d/default2.asp) which are two factors that can reduce return and increase runoff.
 
 Reinvestment can play a big part in runoff. Due to decreasing market returns, portfolio managers using reinvestments may be required to reinvest at lower rates which creates runoff from the rate differentials. Comprehensively, portfolio managers may also induce runoff to decrease portfolio assets intentionally. To decrease assets and create runoff, managers may stop reinvestment or they may choose to reinvest in lower return investments like Treasuries.
 

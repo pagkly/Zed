@@ -28,15 +28,15 @@ If something is given out to people on a pro rata basis, it means assigning an a
 
 ## Understanding Pro Rata
 
-Pro rata typically means that each party or person receives their fair share in proportion to the whole. Pro rata calculations can be used in many areas, including determining [dividend](https://www.investopedia.com/terms/d/dividend.asp) payments, which are cash payments by corporations paid to shareholders. Pro rata is also used to determine the amount of [premium](https://www.investopedia.com/terms/i/insurance-premium.asp) due for an insurance policy that only covered a partial term. Allocating the appropriate portion of an annual interest rate to a shorter time frame can also be done via pro rata.
+Pro rata typically means that each party or person receives their fair share in proportion to the whole. Pro rata calculations can be used in many areas, including determining [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) payments, which are cash payments by corporations paid to shareholders. Pro rata is also used to determine the amount of [[premium]](https://www.investopedia.com/terms/i/insurance-premium.asp) due for an insurance policy that only covered a partial term. Allocating the appropriate portion of an annual interest rate to a shorter time frame can also be done via pro rata.
 
 ## Pro Rata and Dividends per Shareholder
 
-When a company pays dividends to its shareholders, each investor is paid according to their holdings. If a company has 100 [shares outstanding](https://www.investopedia.com/terms/o/outstandingshares.asp), for example, and issues a dividend of $2 per share, the total amount of dividends paid will be $200. No matter how many shareholders there are, the total dividend payments cannot exceed this limit. In this case, $200 is the whole, and the pro rata calculation must be used to determine the appropriate portion of that whole due to each shareholder.
+When a company pays dividends to its shareholders, each investor is paid according to their holdings. If a company has 100 [[shares outstanding]](https://www.investopedia.com/terms/o/outstandingshares.asp), for example, and issues a dividend of $2 per share, the total amount of dividends paid will be $200. No matter how many shareholders there are, the total dividend payments cannot exceed this limit. In this case, $200 is the whole, and the pro rata calculation must be used to determine the appropriate portion of that whole due to each shareholder.
 
 Assume there are only four shareholders who hold 50, 25, 15, and 10 shares, respectively. The amount due to each shareholder is their pro rata share. This is calculated by dividing the ownership of each person by the total number of shares and then multiplying the resulting fraction by the total amount of the dividend payment.
 
-The [majority shareholder](https://www.investopedia.com/terms/m/majorityshareholder.asp)'s portion, therefore, is (50/100) x $200 = $100. This makes sense because the shareholder owns half of the shares and receives half of the total dividends. The remaining shareholders get $50, $30, and $20, respectively.
+The [[majority shareholder]](https://www.investopedia.com/terms/m/majorityshareholder.asp)'s portion, therefore, is (50/100) x $200 = $100. This makes sense because the shareholder owns half of the shares and receives half of the total dividends. The remaining shareholders get $50, $30, and $20, respectively.
 
 ## Pro Rata for Insurance Premiums
 
@@ -48,7 +48,7 @@ For example, assume an auto policy that typically covers a full year carries a p
 
 Pro rata calculations are also used to determine the amount of interest that will be earned on an investment. If an investment earns an annual interest rate, then the pro rata amount earned for a shorter period is calculated by dividing the total amount of interest by the number of months in a year and multiplying by the number of months in the truncated period. The amount of interest earned in two months on an investment that yields 10% interest each year is (10% / 12) x 2 = 1.67%.
 
-When it comes to bonds, payment on [accrued interest](https://www.investopedia.com/terms/a/accruedinterest.asp) is calculated on a pro rata basis. Accrued interest is the total interest that has accumulated on a bond since its last coupon payment. When the bondholder sells the bond before the next coupon date, they're still entitled to the interest that accrues up until the time the bond is sold. The bond buyer, not the issuer, is responsible for paying the bond seller the accrued interest, which is added to the market price.
+When it comes to bonds, payment on [[accrued interest]](https://www.investopedia.com/terms/a/accruedinterest.asp) is calculated on a pro rata basis. Accrued interest is the total interest that has accumulated on a bond since its last coupon payment. When the bondholder sells the bond before the next coupon date, they're still entitled to the interest that accrues up until the time the bond is sold. The bond buyer, not the issuer, is responsible for paying the bond seller the accrued interest, which is added to the market price.
 
 The formula for accrued interest is as follows:
 

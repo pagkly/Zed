@@ -16,9 +16,9 @@ author: Will Kenton
 Non-Sufficient Funds
 ## What Are Non-Sufficient Funds (NSF)?
 
-The term non-sufficient funds (NSF), or [insufficient funds](https://www.investopedia.com/terms/i/insufficient_funds.asp), refers to the status of a checking account that does not have enough money to cover transactions. NSF also describes the fee charged when a check is presented but cannot be covered by the balance in the account. You may see a “non-sufficient funds” or “insufficient funds” notice on a bank statement or at an ATM terminal (or on a receipt) when attempting to withdraw more money than your account holds.
+The term non-sufficient funds (NSF), or [[insufficient funds]](https://www.investopedia.com/terms/i/insufficient_funds.asp), refers to the status of a checking account that does not have enough money to cover transactions. NSF also describes the fee charged when a check is presented but cannot be covered by the balance in the account. You may see a “non-sufficient funds” or “insufficient funds” notice on a bank statement or at an ATM terminal (or on a receipt) when attempting to withdraw more money than your account holds.
 
-Colloquially, NSF checks are known as “bounced” or “bad” checks. If a bank receives a check written on an account with insufficient funds, the bank can refuse payment and charge the account holder an NSF fee. Additionally, a penalty or fee may be charged by the merchant for the returned check. By law, [certified checks and cashiers checks must be made available](https://www.investopedia.com/personal-finance/certified-check-vs-cashiers-check-which-safer/) to you within one business day of deposit.1
+Colloquially, NSF checks are known as “bounced” or “bad” checks. If a bank receives a check written on an account with insufficient funds, the bank can refuse payment and charge the account holder an NSF fee. Additionally, a penalty or fee may be charged by the merchant for the returned check. By law, [[certified checks and cashiers checks must be made available]](https://www.investopedia.com/personal-finance/certified-check-vs-cashiers-check-which-safer/) to you within one business day of deposit.1
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Colloquially, NSF checks are known as “bounced” or “bad” checks. If a ba
 
 ## How NSF Fees Work
 
-Banks often charge NSF fees when a presented payment is returned due to insufficient funds. A similar fee may be assessed when honoring payments from accounts with insufficient balances. The latter scenario describes an account [overdraft](https://www.investopedia.com/terms/o/overdraft.asp) (OD), which is often confused or used interchangeably with non-sufficient funds.
+Banks often charge NSF fees when a presented payment is returned due to insufficient funds. A similar fee may be assessed when honoring payments from accounts with insufficient balances. The latter scenario describes an account [[overdraft]](https://www.investopedia.com/terms/o/overdraft.asp) (OD), which is often confused or used interchangeably with non-sufficient funds.
 
 The fees many banks charge for NSF checks are a point of contention between consumers and banks. Consumer advocates allege that as fees are usually a fixed amount, customers are, in effect, paying extraordinarily high interest rates for relatively small deficits in their accounts.
 
@@ -40,7 +40,7 @@ Non-sufficient funds and overdrafts are two different things, though both can tr
 
 ## Overdraft vs. NSF Fees
 
-Banks charge NSF fees when they return presented payments (e.g., checks) and overdraft fees when they accept checks that overdraw checking accounts. Imagine, for example, that you have $100 in your checking account and initiate an [automated clearing house (ACH)](https://www.investopedia.com/terms/a/ach.asp) or electronic check payment for a purchase in the amount of $120. If your bank refuses to pay the check, you incur an NSF fee and face any penalties or charges the seller assesses for returned checks. If the bank accepts the check and pays the seller, your checking account balance falls to $-20 and incurs an overdraft fee. Either way, the fee assessed by the bank reduces the available account balance.
+Banks charge NSF fees when they return presented payments (e.g., checks) and overdraft fees when they accept checks that overdraw checking accounts. Imagine, for example, that you have $100 in your checking account and initiate an [[automated clearing house (ACH)]](https://www.investopedia.com/terms/a/ach.asp) or electronic check payment for a purchase in the amount of $120. If your bank refuses to pay the check, you incur an NSF fee and face any penalties or charges the seller assesses for returned checks. If the bank accepts the check and pays the seller, your checking account balance falls to $-20 and incurs an overdraft fee. Either way, the fee assessed by the bank reduces the available account balance.
 
 ## Special Considerations
 
@@ -50,7 +50,7 @@ Many banks also offer overdraft lines of credit. This is a special product that
 
 If you are granted an overdraft line of credit, you typically receive a [revolving credit](https://www.investopedia.com/terms/r/revolvingcredit.asp) line of approximately $1,000. This account can be linked to cover any transactions made with insufficient funds in the primary account. It can also be used for cash advances to your checking account.
 
-In 2010 the U.S. government created a set of sweeping bank-reform laws to address overdraft and NSF fees among other consumer banking issues. Under the laws, consumers can opt for [overdraft protection](https://www.investopedia.com/terms/o/overdraft-protection.asp) through their banks.2 Opting into overdraft protection affects credit and debit card transactions in particular. Like any banking service, [it can pay to read the fine print](https://www.investopedia.com/articles/personal-finance/021315/how-overdraft-fees-work-and-how-avoid-them.asp) and study the [pros and cons](https://www.investopedia.com/ask/answers/071114/what-are-pros-and-cons-overdraft-protection.asp).
+In 2010 the U.S. government created a set of sweeping bank-reform laws to address overdraft and NSF fees among other consumer banking issues. Under the laws, consumers can opt for [[overdraft protection]](https://www.investopedia.com/terms/o/overdraft-protection.asp) through their banks.2 Opting into overdraft protection affects credit and debit card transactions in particular. Like any banking service, [[it can pay to read the fine print]](https://www.investopedia.com/articles/personal-finance/021315/how-overdraft-fees-work-and-how-avoid-them.asp) and study the [[pros and cons]](https://www.investopedia.com/ask/answers/071114/what-are-pros-and-cons-overdraft-protection.asp).
 
 ## Examples of NSF and Overdraft Fees
 

@@ -16,7 +16,7 @@ author: James Chen
 William J. O'Neil
 ## Who is William J. O'Neil
 
-William J. O’Neil is a noted investor, [stockbroker](https://www.investopedia.com/terms/s/stockbroker.asp) and author. He is known for being one of the first investors to incorporate computers into his research and investment decision-making process. O’Neil also founded the influential investment publication _Investor’s Business Daily_. O’Neal has published the highly acclaimed books _How to Make Money in Stocks_ and _24 Essential Lessons for Investment Success_.
+William J. O’Neil is a noted investor, [[stockbroker]](https://www.investopedia.com/terms/s/stockbroker.asp) and author. He is known for being one of the first investors to incorporate computers into his research and investment decision-making process. O’Neil also founded the influential investment publication _Investor’s Business Daily_. O’Neal has published the highly acclaimed books _How to Make Money in Stocks_ and _24 Essential Lessons for Investment Success_.
 
 ## More on William J. O'Neil
 
@@ -32,6 +32,6 @@ As of 2015, the newspaper had a circulation of 113,000, and its website attracte
 
 ## O’Neil’s Investing Influences
 
-O’Neil stated in an interview that an early influence on him was Gerald Loeb's _The Battle for Investment Survival_.” According to O'Neil, this is the best book on the market. Other [investors](https://www.investopedia.com/terms/i/investor.asp) whom he has cited as influences include Bernard Baruch, Jesse Livermore, Gerald M. Loeb, Jack Dreyfus, and Nicolas Darvas. He also greatly admires Thomas Edison.
+O’Neil stated in an interview that an early influence on him was Gerald Loeb's _The Battle for Investment Survival_.” According to O'Neil, this is the best book on the market. Other [[investors]](https://www.investopedia.com/terms/i/investor.asp) whom he has cited as influences include Bernard Baruch, Jesse Livermore, Gerald M. Loeb, Jack Dreyfus, and Nicolas Darvas. He also greatly admires Thomas Edison.
 
 In 2002, O'Neil was awarded the Classic Award of Recognition from the AeA, at the time the largest high-tech industry group in the United States.

@@ -16,9 +16,9 @@ author: James Chen
 Gross Processing Margin (GPM)
 ## What Is Gross Processing Margin (GPM)?
 
-The gross processing margin (GPM) is the difference between the cost of a raw commodity and the income it generates once sold as a finished product. The gross processing margin is affected by supply and demand. The prices for raw commodities fluctuate, creating an ever-changing [spread](https://www.investopedia.com/terms/s/spread.asp) between the raw inputs and the processed products.
+The gross processing margin (GPM) is the difference between the cost of a raw commodity and the income it generates once sold as a finished product. The gross processing margin is affected by supply and demand. The prices for raw commodities fluctuate, creating an ever-changing [[spread]](https://www.investopedia.com/terms/s/spread.asp) between the raw inputs and the processed products.
 
-Investors, traders, and speculators are able to trade [futures](https://www.investopedia.com/terms/f/futures.asp) based on the price difference between a raw commodity and the final product it produces. For example, a trader can go long on the commodity and short on the finished product of it.
+Investors, traders, and speculators are able to trade [[futures]](https://www.investopedia.com/terms/f/futures.asp) based on the price difference between a raw commodity and the final product it produces. For example, a trader can go long on the commodity and short on the finished product of it.
 
 ### Key Takeaways
 
@@ -35,10 +35,10 @@ The gross processing margin usually increases for one of two reasons. One, the i
 
 ## Gross Processing Margin (GPM) and the Type of Processor
 
-The gross processing margin for two businesses using the same raw commodity can be very different depending on the end product mix. This applies to everything from soybeans to crude, but it is easiest to understand in terms of livestock and meat. Two pork processors are working with the same raw commodity, but if one simply sells whole cuts frozen and the other sells a range of [value-added](https://www.investopedia.com/terms/v/valueadded.asp) products including bacon, sausages, and marinated loins, then their gross processing margins will likely reflect that product variance.
+The gross processing margin for two businesses using the same raw commodity can be very different depending on the end product mix. This applies to everything from soybeans to crude, but it is easiest to understand in terms of livestock and meat. Two pork processors are working with the same raw commodity, but if one simply sells whole cuts frozen and the other sells a range of [[value-added]](https://www.investopedia.com/terms/v/valueadded.asp) products including bacon, sausages, and marinated loins, then their gross processing margins will likely reflect that product variance.
 
-The frozen [wholesaler](https://www.investopedia.com/terms/w/wholesaling.asp) has lower costs of production but similar procurement costs. The value-add focused processor puts more cost and time into the meat but should see a much higher premium upon sale.
+The frozen [[wholesaler]](https://www.investopedia.com/terms/w/wholesaling.asp) has lower costs of production but similar procurement costs. The value-add focused processor puts more cost and time into the meat but should see a much higher premium upon sale.
 
 ## Commodity Specific Names for Gross Processing Margin (GPM)
 
-The gross processing margin may go by a different name depending on the commodity it is describing. For example, the GPM for oil is called the [crack spread](https://www.investopedia.com/terms/c/crackspread.asp) in a reference to the refining process of cracking hydrocarbons into petroleum products. For soybeans and canola, it's called the [crush spread](https://www.investopedia.com/terms/c/crushspread.asp) because soybeans are crushed to produce oil and meal.
+The gross processing margin may go by a different name depending on the commodity it is describing. For example, the GPM for oil is called the [[crack spread]](https://www.investopedia.com/terms/c/crackspread.asp) in a reference to the refining process of cracking hydrocarbons into petroleum products. For soybeans and canola, it's called the [[crush spread]](https://www.investopedia.com/terms/c/crushspread.asp) because soybeans are crushed to produce oil and meal.

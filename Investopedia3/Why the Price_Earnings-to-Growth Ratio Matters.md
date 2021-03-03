@@ -16,7 +16,7 @@ author: Will Kenton
 Why the Price/Earnings-to-Growth Ratio Matters
 ## What Is the Price/Earnings-to-Growth (PEG) Ratio?
 
-The price/earnings to growth ratio (PEG ratio) is a stock's [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio divided by the growth rate of its earnings for a specified time period. The PEG ratio is used to determine a stock's value while also factoring in the company's expected earnings growth, and it is thought to provide a more complete picture than the more standard P/E ratio.
+The price/earnings to growth ratio (PEG ratio) is a stock's [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio divided by the growth rate of its earnings for a specified time period. The PEG ratio is used to determine a stock's value while also factoring in the company's expected earnings growth, and it is thought to provide a more complete picture than the more standard P/E ratio.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The price/earnings to growth ratio (PEG ratio) is a stock's [price-to-earnings](
 
 PEG Ratio\=Price/EPSEPS Growthwhere:EPS = The earnings per share\\begin{aligned} &\\text{PEG Ratio}=\\frac{\\text{Price/EPS}}{\\text{EPS Growth}}\\\\ &\\textbf{where:}\\\\ &\\text{EPS = The earnings per share}\\\\ \\end{aligned}
 
-To calculate the [PEG ratio](https://www.investopedia.com/ask/answers/012715/what-considered-good-peg-price-earnings-growth-ratio.asp), an investor or analyst needs to either look up or calculate the P/E ratio of the company in question. The P/E ratio is calculated as the price per share of the company divided by the earnings per share (EPS), or price per share / EPS.
+To calculate the [[PEG ratio]](https://www.investopedia.com/ask/answers/012715/what-considered-good-peg-price-earnings-growth-ratio.asp), an investor or analyst needs to either look up or calculate the P/E ratio of the company in question. The P/E ratio is calculated as the price per share of the company divided by the earnings per share (EPS), or price per share / EPS.
 
 Once the P/E is calculated, find the expected growth rate for the stock in question, using analyst estimates available on financial websites that follow the stock. Plug the figures into the equation, and solve for the PEG ratio number.
 
@@ -42,7 +42,7 @@ To distinguish between calculation methods using future growth and historical gr
 
 ## What Does the Price/Earnings-to-Growth Ratio Tell You?
 
-While a low [P/E ratio may make a stock look like a good buy](https://www.investopedia.com/articles/analyst/043002.asp), factoring in the company's growth rate to [get the stock's PEG ratio](https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future/) may tell a different story. The lower the PEG ratio, the more the stock may be undervalued given its future earnings expectations. Adding a company's expected growth into the ratio helps to adjust the result for companies that may have a high growth rate and a high P/E ratio.
+While a low [[P/E ratio may make a stock look like a good buy]](https://www.investopedia.com/articles/analyst/043002.asp), factoring in the company's growth rate to [[get the stock's PEG ratio]](https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future/) may tell a different story. The lower the PEG ratio, the more the stock may be undervalued given its future earnings expectations. Adding a company's expected growth into the ratio helps to adjust the result for companies that may have a high growth rate and a high P/E ratio.
 
 The degree to which a PEG ratio result indicates an over or underpriced stock varies by industry and by company type. As a broad rule of thumb, some investors feel that a PEG ratio below one is desirable.
 

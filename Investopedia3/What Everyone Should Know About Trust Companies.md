@@ -16,7 +16,7 @@ author: Adam Barone
 What Everyone Should Know About Trust Companies
 ## What Is a Trust Company?
 
-A trust company is a legal entity that acts as a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp), agent, or [trustee](https://www.investopedia.com/terms/t/trustee.asp) on behalf of a person or business for the purpose of administration, management, and the eventual transfer of [assets](https://www.investopedia.com/terms/t/trust-property.asp) to a beneficial party. The trust company acts as a custodian for trusts, estates, custodial arrangements, asset management, stock transfer, beneficial ownership registration, and other related arrangements.
+A trust company is a legal entity that acts as a [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp), agent, or [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) on behalf of a person or business for the purpose of administration, management, and the eventual transfer of [[assets]](https://www.investopedia.com/terms/t/trust-property.asp) to a beneficial party. The trust company acts as a custodian for trusts, estates, custodial arrangements, asset management, stock transfer, beneficial ownership registration, and other related arrangements.
 
 ### Key Takeaways
 
@@ -48,8 +48,8 @@ Trust companies also offer a variety of estate-oriented services, such as guardi
 
 ## Benefits of a Trust Company
 
-A trust company is hired to act as a fiduciary, meaning they act on your behalf and won't take advantage of you. As a result, a trust company can make all of the [investment](https://www.investopedia.com/terms/i/investment.asp) decisions and act in the best interest of its client. The investment management services offered by trust companies can be helpful to those who are not experienced or knowledgeable about the financial markets.
+A trust company is hired to act as a fiduciary, meaning they act on your behalf and won't take advantage of you. As a result, a trust company can make all of the [[investment]](https://www.investopedia.com/terms/i/investment.asp) decisions and act in the best interest of its client. The investment management services offered by trust companies can be helpful to those who are not experienced or knowledgeable about the financial markets.
 
 Also, clients who don’t want or care to manage their day-to-day finances can also benefit from using a trust company.
 
-Trust companies are often good alternatives for preventing future family squabbles when dealing with inheritances and estate planning. If dividing up the assets of an [estate](https://www.investopedia.com/terms/e/estate.asp) will cause family turmoil, a trust company can act as a neutral third party.
+Trust companies are often good alternatives for preventing future family squabbles when dealing with inheritances and estate planning. If dividing up the assets of an [[estate]](https://www.investopedia.com/terms/e/estate.asp) will cause family turmoil, a trust company can act as a neutral third party.

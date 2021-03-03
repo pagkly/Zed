@@ -16,11 +16,11 @@ author:
 Entrepreneurs
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
--   [Entrepreneurs](https://www.investopedia.com/entrepreneurs-4689828)
--   [Rich & Powerful](https://www.investopedia.com/rich-and-powerful-4689827)
--   [CEOs](https://www.investopedia.com/ceos-4689829)
--   [Warren Buffett](https://www.investopedia.com/warren-buffett-4689826)
--   [Math & Statistics](https://www.investopedia.com/math-and-statistics-4689831)
+-   [[Entrepreneurs]](https://www.investopedia.com/entrepreneurs-4689828)
+-   [[Rich & Powerful]](https://www.investopedia.com/rich-and-powerful-4689827)
+-   [[CEOs]](https://www.investopedia.com/ceos-4689829)
+-   [[Warren Buffett]](https://www.investopedia.com/warren-buffett-4689826)
+-   [[Math & Statistics]](https://www.investopedia.com/math-and-statistics-4689831)
 
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
@@ -30,11 +30,11 @@ Entrepreneurs
 
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
--   [Entrepreneurs](https://www.investopedia.com/entrepreneurs-4689828)
--   [Rich & Powerful](https://www.investopedia.com/rich-and-powerful-4689827)
--   [CEOs](https://www.investopedia.com/ceos-4689829)
--   [Warren Buffett](https://www.investopedia.com/warren-buffett-4689826)
--   [Math & Statistics](https://www.investopedia.com/math-and-statistics-4689831)
+-   [[Entrepreneurs]](https://www.investopedia.com/entrepreneurs-4689828)
+-   [[Rich & Powerful]](https://www.investopedia.com/rich-and-powerful-4689827)
+-   [[CEOs]](https://www.investopedia.com/ceos-4689829)
+-   [[Warren Buffett]](https://www.investopedia.com/warren-buffett-4689826)
+-   [[Math & Statistics]](https://www.investopedia.com/math-and-statistics-4689831)
 
 [
 

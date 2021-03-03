@@ -24,7 +24,7 @@ The term can also refer to money kept aside as a reserve to deal with unexpected
 
 ## Nest Eggs Explained
 
-The foremost [investment objective](https://www.investopedia.com/terms/i/investmentobjective.asp) of a nest egg is generally preserving capital, since it represents funds that have been accumulated over a considerable time. However, the portfolio should also have a growth component to offset the effects of inflation over time. A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips. The exact allocation of these securities within a nest egg should be based on [asset allocation](https://www.investopedia.com/terms/a/assetallocation.asp) principles as well as the investor’s [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp), time horizon, and investment objectives.
+The foremost [[investment objective]](https://www.investopedia.com/terms/i/investmentobjective.asp) of a nest egg is generally preserving capital, since it represents funds that have been accumulated over a considerable time. However, the portfolio should also have a growth component to offset the effects of inflation over time. A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips. The exact allocation of these securities within a nest egg should be based on [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) principles as well as the investor’s [[risk tolerance]](https://www.investopedia.com/terms/r/risktolerance.asp), time horizon, and investment objectives.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The foremost [investment objective](https://www.investopedia.com/terms/i/investm
 -   Such assets are generally earmarked for longer-term objectives, the most common being retirement, buying a home, and education.
 -   A nest egg should typically be invested in relatively conservative instruments such as certificates of deposit, bonds, and dividend-paying blue chips.
 
-It would be folly to invest nest egg proceeds in certain volatile investments in hopes of achieving a high [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp). These investments include commodities, small-cap stocks, and currencies since their inherent volatility makes them less suited for [conservative investing](https://www.investopedia.com/terms/c/conservativeinvesting.asp).
+It would be folly to invest nest egg proceeds in certain volatile investments in hopes of achieving a high [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp). These investments include commodities, small-cap stocks, and currencies since their inherent volatility makes them less suited for [[conservative investing]](https://www.investopedia.com/terms/c/conservativeinvesting.asp).
 
 ## The Importance of a Nest Egg
 

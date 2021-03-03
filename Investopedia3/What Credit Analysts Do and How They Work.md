@@ -16,11 +16,11 @@ author: Adam Hayes
 What Credit Analysts Do and How They Work
 ## What Is a Credit Analyst?
 
-A credit analyst is a financial professional who assesses the creditworthiness of [securities](https://www.investopedia.com/terms/s/security.asp), individuals, or companies. Credit analysts determine the likelihood that a borrower can repay their financial obligations by reviewing the borrower's financial and credit history and determining whether the state of the subject's financial health and the [economic conditions](https://www.investopedia.com/terms/e/economic-conditions.asp) are favorable to repayment.
+A credit analyst is a financial professional who assesses the creditworthiness of [[securities]](https://www.investopedia.com/terms/s/security.asp), individuals, or companies. Credit analysts determine the likelihood that a borrower can repay their financial obligations by reviewing the borrower's financial and credit history and determining whether the state of the subject's financial health and the [[economic conditions]](https://www.investopedia.com/terms/e/economic-conditions.asp) are favorable to repayment.
 
 Credit analysts are typically employed by commercial and investment banks, credit card issuing institutions, credit rating agencies, and investment companies.
 
-Credit analysts interpret financial statements and use ratios when analyzing the fiduciary behavior and history of a potential borrower. They decide whether the borrower has adequate cash flows by comparing ratios with industry data [benchmarks](https://www.investopedia.com/terms/b/benchmark.asp). For example, a credit analyst working at a bank may examine an agricultural company's [financial statements](https://www.investopedia.com/terms/f/financial-statement-analysis.asp) before approving a loan for new farm equipment.
+Credit analysts interpret financial statements and use ratios when analyzing the fiduciary behavior and history of a potential borrower. They decide whether the borrower has adequate cash flows by comparing ratios with industry data [[benchmarks]](https://www.investopedia.com/terms/b/benchmark.asp). For example, a credit analyst working at a bank may examine an agricultural company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statement-analysis.asp) before approving a loan for new farm equipment.
 
 ### Key Takeaways
 
@@ -41,11 +41,11 @@ A credit analyst also contributes to the overall well-being of the economy becau
 
 ## Types of Credit Analyst Ratings
 
-Credit analysts may also issue credit scores. For individuals, credit score generation is typically automated through algorithmic processes based on a person's credit payment history, spending, and past bankruptcies. A credit score is a three-digit number ranging from around 200 to 850. The most common type of individual credit score is the [Fair Isaac](https://www.investopedia.com/terms/f/fico-fair-isaac.asp) or FICO score.
+Credit analysts may also issue credit scores. For individuals, credit score generation is typically automated through algorithmic processes based on a person's credit payment history, spending, and past bankruptcies. A credit score is a three-digit number ranging from around 200 to 850. The most common type of individual credit score is the [[Fair Isaac]](https://www.investopedia.com/terms/f/fico-fair-isaac.asp) or FICO score.
 
-For debt issuers and their instruments (such as bonds), credit analysts assign scores based on letter grades such as [AAA](https://www.investopedia.com/terms/a/aaa.asp)—the highest credit worthiness, and then AA+, or BBB, and so on.. Below a certain rating, a company's debt is considered "junk," or below investment grade. These junk bonds typically carry higher yields to accommodate for the additional credit risk. Sovereign governments can also have credit scores on their bonds. Credit analysts who assess bonds often work at credit rating agencies such as [Moody's](https://www.investopedia.com/terms/m/moodys.asp) or [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp) (S&P).
+For debt issuers and their instruments (such as bonds), credit analysts assign scores based on letter grades such as [[AAA]](https://www.investopedia.com/terms/a/aaa.asp)—the highest credit worthiness, and then AA+, or BBB, and so on.. Below a certain rating, a company's debt is considered "junk," or below investment grade. These junk bonds typically carry higher yields to accommodate for the additional credit risk. Sovereign governments can also have credit scores on their bonds. Credit analysts who assess bonds often work at credit rating agencies such as [[Moody's]](https://www.investopedia.com/terms/m/moodys.asp) or [[Standard & Poor's]](https://www.investopedia.com/terms/s/sp.asp) (S&P).
 
-Insurance companies are also rated on their credit risk and financial stability by rating agencies such as [AM Best](https://www.investopedia.com/terms/a/a-m-best.asp).
+Insurance companies are also rated on their credit risk and financial stability by rating agencies such as [[AM Best]](https://www.investopedia.com/terms/a/a-m-best.asp).
 
 According to the most recent statistics from the U.S. Bureau of Labor Statistics (BLS), the mean annual salary for a credit analyst was $84,930. The highest in the U.S. was $123,470 in New York State.1
 
@@ -53,7 +53,7 @@ According to the most recent statistics from the U.S. Bureau of Labor Statistics
 
 A credit analyst may recommend a business loan or business credit after considering risk factors. The risk factors may be environment-oriented such as economic changes, stock market fluctuations, legislative changes, and regulatory requirements.
 
-For example, if a business client is struggling to meet payroll, this could be an indicator of a decline in revenue and potential [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp), which may affect the bank’s assets, ratings, and reputation.
+For example, if a business client is struggling to meet payroll, this could be an indicator of a decline in revenue and potential [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp), which may affect the bank’s assets, ratings, and reputation.
 
 Financial data determine the level of risk involved in extending credit so that a bank can decide if it wants to proceed with the loan approval. If the bank issues funding, the credit analyst will monitor the borrower's performance and may issue recommendations to terminate the loan agreement if it becomes risky. Determining the level of risk in a loan or investment helps banks manage risks and generate revenue.
 

@@ -16,7 +16,7 @@ author: Caroline Banton
 What a Waiver of Subrogation Provides for Clients
 ## What Is a Waiver of Subrogation?
 
-A waiver of subrogation is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent third party. Typically, [insurers](https://www.investopedia.com/articles/active-trading/111314/top-10-insurance-companies-metrics.asp) charge an additional fee for a waiver of subrogation endorsement. Many construction contracts and leases include a waiver of subrogation clause.
+A waiver of subrogation is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent third party. Typically, [[insurers]](https://www.investopedia.com/articles/active-trading/111314/top-10-insurance-companies-metrics.asp) charge an additional fee for a waiver of subrogation endorsement. Many construction contracts and leases include a waiver of subrogation clause.
 
 Such provisions prevent one party’s insurance carrier from pursuing a claim against the other contractual party in an attempt to recover money paid by the insurance company to the insured or to a third party to resolve a covered claim.
 
@@ -24,7 +24,7 @@ Insurance companies frequently charge an additional fee on top of the premium to
 
 ## Understanding Waivers of Subrogation
 
-A right of [subrogation](https://www.investopedia.com/terms/s/subrogation.asp) allows an insurer to stand in proxy for its insured after satisfying a claim paid to the insured per the company’s duties under the insurance policy. The insurance company may pursue a claim against other parties to cover its costs for that same loss, even when the loss involves a resolution of claims brought against the insured.
+A right of [[subrogation]](https://www.investopedia.com/terms/s/subrogation.asp) allows an insurer to stand in proxy for its insured after satisfying a claim paid to the insured per the company’s duties under the insurance policy. The insurance company may pursue a claim against other parties to cover its costs for that same loss, even when the loss involves a resolution of claims brought against the insured.
 
 In other words, if subrogation is waived, the insurance company cannot "step into the client's shoes" once a claim has been settled and sue the other party to recoup their losses. Thus, If subrogation is waived, the insurer is exposed to greater risk.
 
@@ -36,7 +36,7 @@ In other words, if subrogation is waived, the insurance company cannot "step int
 
 ## Special Considerations
 
-When a landlord includes a waiver of subrogation clause in a lease, the company issuing the tenant’s [renter’s insurance](https://www.investopedia.com/terms/r/renters-insurance.asp) policy usually requires an additional premium for coverage of losses paid by the insurer as a result of acts or omissions by the landlord.
+When a landlord includes a waiver of subrogation clause in a lease, the company issuing the tenant’s [[renter’s insurance]](https://www.investopedia.com/terms/r/renters-insurance.asp) policy usually requires an additional premium for coverage of losses paid by the insurer as a result of acts or omissions by the landlord.
 
 This extra cost is applied because the waiver of subrogation clause prevents the insurer from asserting a claim against the landlord for the amount paid to the insured, or on behalf of the insured, in resolution of a covered claim.
 

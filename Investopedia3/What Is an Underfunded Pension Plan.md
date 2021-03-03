@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is an Underfunded Pension Plan?
 ## What Is an Underfunded Pension Plan?
 
-An underfunded pension plan is a company-sponsored retirement plan that has more [liabilities](https://www.investopedia.com/terms/l/liability.asp) than assets. In other words, the money needed to cover current and future retirements is not readily available. This means there is no assurance that future retirees will receive the pensions they were promised or that current retirees will continue to get their previously established distribution amount. An underfunded pension may be contrasted with a [fully-funded](https://www.investopedia.com/terms/f/fully-funded.asp) or [overfunded](https://www.investopedia.com/terms/o/overfunded_pension_plan.asp) pension.
+An underfunded pension plan is a company-sponsored retirement plan that has more [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) than assets. In other words, the money needed to cover current and future retirements is not readily available. This means there is no assurance that future retirees will receive the pensions they were promised or that current retirees will continue to get their previously established distribution amount. An underfunded pension may be contrasted with a [[fully-funded]](https://www.investopedia.com/terms/f/fully-funded.asp) or [[overfunded]](https://www.investopedia.com/terms/o/overfunded_pension_plan.asp) pension.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ An underfunded pension plan is a company-sponsored retirement plan that has mor
 
 A defined-benefit pension plan comes with a guarantee that the promised payments will be received during the employee's retirement years.1 The company invests its pension fund in various assets in order to generate enough income to service the liabilities posed by those guarantees for both current and future retirees.
 
-The [funded status](https://www.investopedia.com/terms/f/fundedstatus.asp) of a pension plan describes how its assets versus its liabilities stack up. "Underfunded" means that the [liabilities](https://www.investopedia.com/terms/l/liability.asp), or the obligations to pay pensions, exceed the assets that have accumulated to fund those payments.
+The [[funded status]](https://www.investopedia.com/terms/f/fundedstatus.asp) of a pension plan describes how its assets versus its liabilities stack up. "Underfunded" means that the [liabilities](https://www.investopedia.com/terms/l/liability.asp), or the obligations to pay pensions, exceed the assets that have accumulated to fund those payments.
 
 Pensions can be underfunded for a number of reasons. Interest rate changes and stock market losses can greatly reduce the fund's assets. During an economic slowdown, pension plans are susceptible to becoming underfunded.
 

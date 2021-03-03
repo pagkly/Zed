@@ -16,9 +16,9 @@ author: Jason Fernando
 Relative Strength Index (RSI)
 ## What Is the Relative Strength Index (RSI)?
 
-The relative strength index (RSI) is a [momentum indicator](https://www.investopedia.com/investing/momentum-and-relative-strength-index/) used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. The RSI is displayed as an oscillator (a line graph that moves between two extremes) and can have a reading from 0 to 100. The indicator was originally developed by J. Welles Wilder Jr. and introduced in his seminal 1978 book, "New Concepts in Technical Trading Systems."
+The relative strength index (RSI) is a [[momentum indicator]](https://www.investopedia.com/investing/momentum-and-relative-strength-index/) used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. The RSI is displayed as an oscillator (a line graph that moves between two extremes) and can have a reading from 0 to 100. The indicator was originally developed by J. Welles Wilder Jr. and introduced in his seminal 1978 book, "New Concepts in Technical Trading Systems."
 
-Traditional interpretation and usage of the RSI are that values of 70 or above indicate that a security is becoming overbought or overvalued and may be primed for a trend [reversal](https://www.investopedia.com/terms/r/reversal.asp) or corrective [pullback](https://www.investopedia.com/terms/p/pullback.asp) in price. An RSI reading of 30 or below indicates an oversold or [undervalued](https://www.investopedia.com/terms/u/undervalued.asp) condition.
+Traditional interpretation and usage of the RSI are that values of 70 or above indicate that a security is becoming overbought or overvalued and may be primed for a trend [[reversal]](https://www.investopedia.com/terms/r/reversal.asp) or corrective [[pullback]](https://www.investopedia.com/terms/p/pullback.asp) in price. An RSI reading of 30 or below indicates an oversold or [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp) condition.
 
 ### Key Takeaways
 
@@ -48,25 +48,25 @@ RSIstep two\=100−\[1001+(Previous Average Gain×13) + Current Gain−((Pre
 
 Using the formulas above, RSI can be calculated, where the RSI line can then be plotted beneath an asset's price chart.
 
-The RSI will rise as the number and size of positive closes increase, and it will fall as the number and size of losses increase. The second part of the calculation smooths the result, so the RSI will only near 100 or 0 in a strongly [trending market](https://www.investopedia.com/terms/t/trending-market.asp).
+The RSI will rise as the number and size of positive closes increase, and it will fall as the number and size of losses increase. The second part of the calculation smooths the result, so the RSI will only near 100 or 0 in a strongly [[trending market]](https://www.investopedia.com/terms/t/trending-market.asp).
 
 TradingView.
 
-As you can see in the above chart, the RSI indicator can stay in the overbought region for extended periods while the stock is in an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp). The indicator may also remain in oversold territory for a long time when the stock is in a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp). This can be confusing for new analysts, but learning to use the indicator within the context of the prevailing trend will clarify these issues.
+As you can see in the above chart, the RSI indicator can stay in the overbought region for extended periods while the stock is in an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp). The indicator may also remain in oversold territory for a long time when the stock is in a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp). This can be confusing for new analysts, but learning to use the indicator within the context of the prevailing trend will clarify these issues.
 
 ## What Does RSI Tell You?
 
 The primary trend of the stock or asset is an important tool in making sure the indicator's readings are properly understood. For example, well-known market technician Constance Brown, CMT, has promoted the idea that an oversold reading on the RSI in an uptrend is likely much higher than 30%, and an overbought reading on the RSI during a downtrend is much lower than the 70% level.1
 
-As you can see in the following chart, during a downtrend, the RSI would peak near the 50% level rather than 70%, which could be used by investors to more reliably signal bearish conditions. Many investors will apply a horizontal [trendline](https://www.investopedia.com/terms/t/trendline.asp) that is between 30% and 70% levels when a strong trend is in place to better identify extremes. Modifying overbought or oversold levels when the price of a stock or asset is in a long-term, [horizontal channel](https://www.investopedia.com/terms/h/horizontalchannel.asp) is usually unnecessary.
+As you can see in the following chart, during a downtrend, the RSI would peak near the 50% level rather than 70%, which could be used by investors to more reliably signal bearish conditions. Many investors will apply a horizontal [[trendline]](https://www.investopedia.com/terms/t/trendline.asp) that is between 30% and 70% levels when a strong trend is in place to better identify extremes. Modifying overbought or oversold levels when the price of a stock or asset is in a long-term, [[horizontal channel]](https://www.investopedia.com/terms/h/horizontalchannel.asp) is usually unnecessary.
 
 TradingView.
 
-A related concept to using overbought or oversold levels appropriate to the trend is to focus on [trading signals](https://www.investopedia.com/terms/t/trade-signal.asp) and techniques that conform to the trend. In other words, using bullish signals when the price is in a bullish trend and bearish signals when a stock is in a bearish trend will help to avoid the many false alarms the RSI can generate.
+A related concept to using overbought or oversold levels appropriate to the trend is to focus on [[trading signals]](https://www.investopedia.com/terms/t/trade-signal.asp) and techniques that conform to the trend. In other words, using bullish signals when the price is in a bullish trend and bearish signals when a stock is in a bearish trend will help to avoid the many false alarms the RSI can generate.
 
 ## Example of RSI Divergences
 
-A bullish [divergence](https://www.investopedia.com/terms/d/divergence.asp) occurs when the RSI creates an oversold reading followed by a higher low that matches correspondingly lower lows in the price. This indicates rising bullish momentum, and a break above oversold territory could be used to trigger a new [long position](https://www.investopedia.com/terms/l/long.asp).
+A bullish [[divergence]](https://www.investopedia.com/terms/d/divergence.asp) occurs when the RSI creates an oversold reading followed by a higher low that matches correspondingly lower lows in the price. This indicates rising bullish momentum, and a break above oversold territory could be used to trigger a new [[long position]](https://www.investopedia.com/terms/l/long.asp).
 
 A bearish divergence occurs when the RSI creates an overbought reading followed by a lower high that matches corresponding higher highs on the price.
 
@@ -104,7 +104,7 @@ The moving average convergence divergence ([MACD](https://www.investopedia.com/t
 
 A nine-day EMA of the MACD called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals. Traders may buy the security when the MACD crosses above its signal line and sell, or short, the security when the MACD crosses below the signal line.
 
-The RSI was designed to indicate whether a security is [overbought](https://www.investopedia.com/terms/o/overbought.asp) or [oversold](https://www.investopedia.com/terms/o/oversold.asp) in relation to recent price levels. The RSI is calculated using average price gains and losses over a given period of time. The default time period is 14 periods with values bounded from 0 to 100.
+The RSI was designed to indicate whether a security is [[overbought]](https://www.investopedia.com/terms/o/overbought.asp) or [[oversold]](https://www.investopedia.com/terms/o/oversold.asp) in relation to recent price levels. The RSI is calculated using average price gains and losses over a given period of time. The default time period is 14 periods with values bounded from 0 to 100.
 
 The MACD measures the relationship between two EMAs, while the RSI measures price change in relation to recent price highs and lows. These two indicators are often used together to provide [analysts](https://www.investopedia.com/terms/a/analyst.asp) with a more complete technical picture of a market.
 
@@ -132,4 +132,4 @@ Some traders will consider it a “buy signal” if a security’s RSI reading m
 
 ### What is the difference between RSI and Moving Average Convergence Divergence (MACD)?
 
-RSI and [Moving Average Convergence Divergence (MACD)](https://www.investopedia.com/terms/m/macd.asp) are both measurements that seek to help traders understand a security’s recent trading activity, but they accomplish this goal in different ways. In essence, the way MACD works is by smoothing out the security’s recent price movements and comparing that medium-term trendline to another trendline showing its more recent-time price changes. Traders can then base their buy and sell decisions on whether the short-term trend line rises above or below the medium-term trend line.
+RSI and [[Moving Average Convergence Divergence (MACD)]](https://www.investopedia.com/terms/m/macd.asp) are both measurements that seek to help traders understand a security’s recent trading activity, but they accomplish this goal in different ways. In essence, the way MACD works is by smoothing out the security’s recent price movements and comparing that medium-term trendline to another trendline showing its more recent-time price changes. Traders can then base their buy and sell decisions on whether the short-term trend line rises above or below the medium-term trend line.

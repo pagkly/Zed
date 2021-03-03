@@ -52,7 +52,7 @@ This is why you may get a call from your credit card issuer inquiring, say, whet
 
 ### The Skimming Trick
 
-Through a process called [skimming](https://www.investopedia.com/terms/s/skimming.asp), a criminal can tamper with a credit card swiping device at a store so that a purchase authorization, and the relevant information about the account, can be captured by the criminal at the time of the purchase. The information can then be used to make unauthorized transactions.
+Through a process called [[skimming]](https://www.investopedia.com/terms/s/skimming.asp), a criminal can tamper with a credit card swiping device at a store so that a purchase authorization, and the relevant information about the account, can be captured by the criminal at the time of the purchase. The information can then be used to make unauthorized transactions.
 
 The transition to credit cards that contain a chip is designed to thwart this technique. The transaction information is coded, and therefore is not vulnerable to attack in this manner.
 

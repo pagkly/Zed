@@ -16,7 +16,7 @@ author: Adam Hayes
 Underemployment Equilibrium Definition
 ## What Is Underemployment Equilibrium?
 
-Underemployment equilibrium is a condition where underemployment in an economy is persistently above the norm and has entered an equilibrium state. This, in turn, is a result of the [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp) being consistently above the [natural rate of unemployment](https://www.investopedia.com/terms/n/naturalunemployment.asp) or [non-accelerating inflation rate of unemployment](https://www.investopedia.com/terms/n/non-accelerating-rate-unemployment.asp) (NAIRU) due to sustained economic weakness.
+Underemployment equilibrium is a condition where underemployment in an economy is persistently above the norm and has entered an equilibrium state. This, in turn, is a result of the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp) being consistently above the [[natural rate of unemployment]](https://www.investopedia.com/terms/n/naturalunemployment.asp) or [[non-accelerating inflation rate of unemployment]](https://www.investopedia.com/terms/n/non-accelerating-rate-unemployment.asp) (NAIRU) due to sustained economic weakness.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ How to bring underemployed workers more fully into the economy is a challenge th
 
 ## Underemployment Conditions
 
-Although by 2018 the economy had fully recovered from the Great Recession of a decade earlier and unemployment has fallen from over 10% to under 5%, the notion of underemployment remained. [According to the Federal Reserve](https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/is-underemployment-underestimated-evidence-from-panel-data-20160516.html), "the fraction of Americans [working part time for economic reasons](https://www.investopedia.com/terms/d/discouraged_worker.asp) (PTER) remains relatively elevated. Measurement of underemployment, i.e., working fewer hours than one is willing to, has important implications for understanding labor market conditions and the strength in the broader economy."
+Although by 2018 the economy had fully recovered from the Great Recession of a decade earlier and unemployment has fallen from over 10% to under 5%, the notion of underemployment remained. [According to the Federal Reserve](https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/is-underemployment-underestimated-evidence-from-panel-data-20160516.html), "the fraction of Americans [[working part time for economic reasons]](https://www.investopedia.com/terms/d/discouraged_worker.asp) (PTER) remains relatively elevated. Measurement of underemployment, i.e., working fewer hours than one is willing to, has important implications for understanding labor market conditions and the strength in the broader economy."
 
 PTER substantially underestimates underemployment along the dimension of hours people are actually working--relative to the numbers they would prefer to work at current wages, the Fed reported.
 

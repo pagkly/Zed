@@ -16,11 +16,11 @@ author: Troy Segal
 Market Timing Definition
 ## What Is Market Timing?
 
-Market timing is a type of investment or trading strategy. It is the act of moving in and out of a financial market or switching between asset classes based on predictive methods. These predictive tools include following [technical indicators](https://www.investopedia.com/terms/t/technicalindicator.asp) or economic data, to gauge how the market is going to move.
+Market timing is a type of investment or trading strategy. It is the act of moving in and out of a financial market or switching between asset classes based on predictive methods. These predictive tools include following [[technical indicators]](https://www.investopedia.com/terms/t/technicalindicator.asp) or economic data, to gauge how the market is going to move.
 
 Many investors, academics, and financial professionals believe it is impossible to time the market. Other investors, notably active traders, believe strongly in it. Thus, whether market timing is possible is a matter of opinion. What can be said with certainty is it is very difficult to time the market consistently over the long run successfully.
 
-Market timing is the opposite of a [buy-and-hold](https://www.investopedia.com/terms/b/buyandhold.asp) investment strategy.
+Market timing is the opposite of a [[buy-and-hold]](https://www.investopedia.com/terms/b/buyandhold.asp) investment strategy.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Market timing is the opposite of a [buy-and-hold](https://www.investopedia.com/t
 
 ## The Basics of Market Timing
 
-Market timing is not impossible to do. Short-term trading strategies have been successful for [professional day traders](https://www.investopedia.com/terms/d/daytrader.asp), portfolio managers, and full-time investors who use chart analysis, economic forecasts, and even gut feelings to decide the optimal times to buy and sell securities. However, few investors have been able to predict market shifts with such consistency that they gain any significant advantage over the buy-and-hold investor.
+Market timing is not impossible to do. Short-term trading strategies have been successful for [[professional day traders]](https://www.investopedia.com/terms/d/daytrader.asp), portfolio managers, and full-time investors who use chart analysis, economic forecasts, and even gut feelings to decide the optimal times to buy and sell securities. However, few investors have been able to predict market shifts with such consistency that they gain any significant advantage over the buy-and-hold investor.
 
 ## The Costs of Market Timing
 
@@ -64,7 +64,7 @@ Cons
 
 ## Lost Opportunity Costs
 
-A "Quantitative Analysis of Investor Behavior" [report by the Boston research firm Dalba](https://www.qidllc.com/wp-content/uploads/2016/02/2016-Dalbar-QAIB-Report.pdf)r shows that, if an investor remained fully invested in the [Standard & Poor’s](https://www.investopedia.com/terms/s/sp.asp) 500 Index between 1995 and 2014, they would have earned a 9.85% annualized return. However, if they missed only 10 of the best days in the market, the return would have been 5.1%. Some of the biggest upswings in the market occur during a volatile period when many investors fled the market.
+A "Quantitative Analysis of Investor Behavior" [[report by the Boston research firm Dalba]](https://www.qidllc.com/wp-content/uploads/2016/02/2016-Dalbar-QAIB-Report.pdf)r shows that, if an investor remained fully invested in the [[Standard & Poor’s]](https://www.investopedia.com/terms/s/sp.asp) 500 Index between 1995 and 2014, they would have earned a 9.85% annualized return. However, if they missed only 10 of the best days in the market, the return would have been 5.1%. Some of the biggest upswings in the market occur during a volatile period when many investors fled the market.
 
 ## Increased Transaction Costs
 
@@ -80,6 +80,6 @@ For the average individual investor, market timing is likely to be less effectiv
 
 In the estimation of Morningstar, actively managed portfolios that moved in and out of the market between 2004 and 2014 returned 1.5% less than passively managed portfolios.
 
-According to Morningstar, to gain an edge, active investors have to be correct 70% of the time, which is virtually impossible over that time span. A landmark study "Likely Gains From Market Timing," published in the _Financial Analyst Journal_, by Nobel Laureate [William Sharpe](https://www.investopedia.com/terms/w/william-f-sharpe.asp) in 1975 reached a similar conclusion. The study attempted to find how often a market timer must be accurate to perform as well as a passive index fund tracking a benchmark. Sharpe concluded that an investor employing a market timing strategy must be correct 74% of the time to beat the benchmark portfolio of similar risk annually.
+According to Morningstar, to gain an edge, active investors have to be correct 70% of the time, which is virtually impossible over that time span. A landmark study "Likely Gains From Market Timing," published in the _Financial Analyst Journal_, by Nobel Laureate [[William Sharpe]](https://www.investopedia.com/terms/w/william-f-sharpe.asp) in 1975 reached a similar conclusion. The study attempted to find how often a market timer must be accurate to perform as well as a passive index fund tracking a benchmark. Sharpe concluded that an investor employing a market timing strategy must be correct 74% of the time to beat the benchmark portfolio of similar risk annually.
 
 And not even the pros get it right. A 2017 study from the [Center for Retirement Research at Boston College](http://crr.bc.edu/wp-content/uploads/2017/01/IB_17-2.pdf) found that target-date funds that attempted market timing underperformed other funds by as much as 0.14 percentage points—a 3.8% difference over 30 years.

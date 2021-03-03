@@ -24,9 +24,9 @@ Dollar-cost averaging is a tool an investor can use to build savings and wealth 
 
 In a 401(k) plan, an employee can select a pre-determined amount of their salary that they wish to invest in a menu of mutual or index funds. When an employee receives their pay, the amount the employee has chosen to contribute to the 401(k) is invested in their investment choices.
 
-Dollar-cost averaging can also be used outside of 401(k) plans, such as [mutual](https://www.investopedia.com/terms/m/mutualfund.asp) or [index](https://www.investopedia.com/terms/i/indexfund.asp) fund accounts. Although it's one of the more basic techniques, dollar-cost averaging is still one of the [best strategies for beginning investors looking to trade ETFs](https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp).
+Dollar-cost averaging can also be used outside of 401(k) plans, such as [[mutual]](https://www.investopedia.com/terms/m/mutualfund.asp) or [[index]](https://www.investopedia.com/terms/i/indexfund.asp) fund accounts. Although it's one of the more basic techniques, dollar-cost averaging is still one of the [[best strategies for beginning investors looking to trade ETFs]](https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp).
 
-Additionally, many [dividend reinvestment plans](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp) allow investors to dollar-cost average by making contributions regularly.
+Additionally, many [[dividend reinvestment plans]](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp) allow investors to dollar-cost average by making contributions regularly.
 
 ### Key Takeaways
 
@@ -52,7 +52,7 @@ Investors who use a dollar-cost averaging strategy will generally lower their co
 
 ### What is dollar-cost averaging?
 
-Dollar-cost averaging is an approach to investing that involves periodically investing a set amount of money regardless of the market price of the securities being purchased. It is often associated with passive investing strategies in which the investor wants to minimize the time they must spend in administering their portfolio. Although dollar-cost averaging can be applied to all types of securities, it is most commonly used in relation to pooled investment vehicles such as [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), [index funds](https://www.investopedia.com/terms/i/indexfund.asp), and [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp).
+Dollar-cost averaging is an approach to investing that involves periodically investing a set amount of money regardless of the market price of the securities being purchased. It is often associated with passive investing strategies in which the investor wants to minimize the time they must spend in administering their portfolio. Although dollar-cost averaging can be applied to all types of securities, it is most commonly used in relation to pooled investment vehicles such as [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp), [[index funds]](https://www.investopedia.com/terms/i/indexfund.asp), and [[exchange-traded funds (ETFs)]](https://www.investopedia.com/terms/e/etf.asp).
 
 ### Why do some investors use dollar-cost averaging?
 

@@ -16,7 +16,7 @@ author: James Chen
 Understanding Dutch Disease
 ## What Is Dutch Disease?
 
-Dutch disease is an economic term for the negative consequences that can arise from a spike in the value of a nation’s [currency](https://www.investopedia.com/articles/investing/092413/how-currency-works.asp). It is primarily associated with the new discovery or exploitation of a valuable natural resource and the unexpected repercussions that such a discovery can have on the overall economy of a nation.
+Dutch disease is an economic term for the negative consequences that can arise from a spike in the value of a nation’s [[currency]](https://www.investopedia.com/articles/investing/092413/how-currency-works.asp). It is primarily associated with the new discovery or exploitation of a valuable natural resource and the unexpected repercussions that such a discovery can have on the overall economy of a nation.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Dutch disease is an economic term for the negative consequences that can arise 
 
 Dutch disease exhibits the following two chief economic effects:
 
--   It decreases the [price competitiveness](https://www.investopedia.com/terms/c/competitive-pricing.asp) of exports of the affected country's manufactured goods.
+-   It decreases the [[price competitiveness]](https://www.investopedia.com/terms/c/competitive-pricing.asp) of exports of the affected country's manufactured goods.
 -   It increases imports.
 
 Both phenomena result from a higher local currency.
@@ -43,6 +43,6 @@ Dutch disease became widely used in economic circles as a shorthand way of descr
 
 ## Examples of Dutch Disease
 
-In the 1970s, Dutch Disease hit Great Britain when the price of oil quadrupled, making it economically viable to drill for North Sea Oil off the coast of Scotland. By the late 1970s, Britain had become a [net exporter](https://www.investopedia.com/terms/n/netexporter.asp) of oil, though it had previously been a [net importer](https://www.investopedia.com/terms/n/netimporter.asp). Although the value of the pound skyrocketed, the country fell into recession as British workers demanded higher wages and Britain's other exports became uncompetitive.
+In the 1970s, Dutch Disease hit Great Britain when the price of oil quadrupled, making it economically viable to drill for North Sea Oil off the coast of Scotland. By the late 1970s, Britain had become a [[net exporter]](https://www.investopedia.com/terms/n/netexporter.asp) of oil, though it had previously been a [[net importer]](https://www.investopedia.com/terms/n/netimporter.asp). Although the value of the pound skyrocketed, the country fell into recession as British workers demanded higher wages and Britain's other exports became uncompetitive.
 
 In 2014, economists in Canada reported that the influx of foreign capital related to exploitation of the country's oil sands may have led to an overvalued currency and a decreased competitiveness in the manufacturing sector. Simultaneously, the Russian ruble greatly appreciated for similar reasons. In 2016, the price of oil dropped significantly, and both the Canadian dollar and the ruble returned to lower levels, easing the concerns of Dutch disease in both countries.

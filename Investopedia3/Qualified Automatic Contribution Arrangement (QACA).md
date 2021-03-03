@@ -16,7 +16,7 @@ author: Julia Kagan
 Qualified Automatic Contribution Arrangement (QACA)
 ## What Is a Qualified Automatic Contribution Arrangement (QACA)?
 
-Qualified automatic contribution arrangements (QACAs) refer to a rule established under the [Pension Protection Act](https://www.investopedia.com/terms/p/pensionprotectionact2006.asp) of 2006 to increase worker participation in self-funded retirement plans. Such plans include [401(k)s](https://www.investopedia.com/terms/1/401kplan.asp), [403(b)s](https://www.investopedia.com/terms/1/403bplan.asp), and deferred compensation [457s](https://www.investopedia.com/terms/1/457plan.asp). Companies that use QACAs automatically enroll workers in the plans at a deferral rate at or above 3%, unless employees take action to opt out.
+Qualified automatic contribution arrangements (QACAs) refer to a rule established under the [[Pension Protection Act]](https://www.investopedia.com/terms/p/pensionprotectionact2006.asp) of 2006 to increase worker participation in self-funded retirement plans. Such plans include [401(k)s](https://www.investopedia.com/terms/1/401kplan.asp), [403(b)s](https://www.investopedia.com/terms/1/403bplan.asp), and deferred compensation [457s](https://www.investopedia.com/terms/1/457plan.asp). Companies that use QACAs automatically enroll workers in the plans at a deferral rate at or above 3%, unless employees take action to opt out.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Qualified automatic contribution arrangements (QACAs) refer to a rule establishe
 
 Encouraging retirement savings at work has been a problem for economists and policymakers. Many employers offer 401(k) or 403(b) defined contribution plans. However, plan enrollment and contribution levels remain relatively low in actual practice. Traditional plans require opting-in, and research by Nobel Prize-winning economist Richard Thaler indicates that default options have a powerful influence on choices.
 
-One solution has been to implement an [opt-out plan](https://www.investopedia.com/terms/o/opt-out-plan.asp), where employees are automatically enrolled and must elect to stop participating.
+One solution has been to implement an [[opt-out plan]](https://www.investopedia.com/terms/o/opt-out-plan.asp), where employees are automatically enrolled and must elect to stop participating.
 
 Do not assume that all money withheld from paychecks goes to pay taxes. Withheld funds are sometimes used for QACAs and other automatic-enrollment retirement plans.
 
@@ -44,7 +44,7 @@ As of 2020, an employer must do one of the following for QACAs:
 1.  Contribute 100% of an employee’s contribution up to 1% of his or her compensation, along with a 50% matching contribution for the employee’s contributions above 1% (and up to 6%); or
 2.  Deliver a non-elective contribution of 3% of compensation to all participants.
 
-With a QACA, employer contributions can be subject to a two-year [vesting](https://www.investopedia.com/terms/v/vesting.asp) period. Firms must give their employees adequate notification about the QACA. They must also have the ability to choose a different contribution level or opt out entirely.
+With a QACA, employer contributions can be subject to a two-year [[vesting]](https://www.investopedia.com/terms/v/vesting.asp) period. Firms must give their employees adequate notification about the QACA. They must also have the ability to choose a different contribution level or opt out entirely.
 
 QACAs also have “safe harbor” provisions that exempt 401(k) plans from nondiscrimination testing requirements for actual deferral percentage (ADP). If additional requirements are met, the plan will also be exempt from actual contribution percentage (ACP) testing. A QACA also may not distribute the required employer contributions due to an employee’s financial hardship.
 
@@ -54,6 +54,6 @@ The Pension Protection Act defines two different choices for employers seeking t
 
 This election must be no earlier than 30 days or later than 90 days after the employee’s first automatic enrollment contribution was withheld. Unlike a QACA, employees are 100% vested in their automatic enrollment contributions with an EACA.
 
-QACAs provide employers with safe harbor provisions that exempt them from [ADP and ACP](https://www.investopedia.com/terms/a/actual-deferral-percentage-actual-contribution-percentage.asp) testing requirements under specific circumstances. Other plans must undergo such testing to ensure they do not discriminate against lower-paid employees.
+QACAs provide employers with safe harbor provisions that exempt them from [[ADP and ACP]](https://www.investopedia.com/terms/a/actual-deferral-percentage-actual-contribution-percentage.asp) testing requirements under specific circumstances. Other plans must undergo such testing to ensure they do not discriminate against lower-paid employees.
 
-In return, employers must make matching contributions as required by the IRS and must vest matching and non-elective contributions within two years. The default deferred contribution for a QACA must also increase annually from at least 3% the first year to at least 6%, with a maximum of 15% in any year. The maximum was 10% until it was raised to 15% by the [SECURE Act](https://www.congress.gov/bill/116th-congress/house-bill/1994/text) of 2019.
+In return, employers must make matching contributions as required by the IRS and must vest matching and non-elective contributions within two years. The default deferred contribution for a QACA must also increase annually from at least 3% the first year to at least 6%, with a maximum of 15% in any year. The maximum was 10% until it was raised to 15% by the [[SECURE Act]](https://www.congress.gov/bill/116th-congress/house-bill/1994/text) of 2019.

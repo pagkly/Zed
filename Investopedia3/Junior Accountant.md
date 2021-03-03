@@ -16,7 +16,7 @@ author: Adam Hayes
 Junior Accountant
 ## What Is a Junior Accountant?
 
-A junior accountant maintains and compiles financial reports and statements in compliance with government regulations and requirements. The junior accountant may analyze balance sheets, manage general ledger accounts, update [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), maintain accounts receivable and accounts payable, pay monthly payroll, and prepare financial reports. Accountants, auditors, and junior auditors typically work full time. Overtime hours may be required during tax season or at the end of the fiscal year.
+A junior accountant maintains and compiles financial reports and statements in compliance with government regulations and requirements. The junior accountant may analyze balance sheets, manage general ledger accounts, update [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), maintain accounts receivable and accounts payable, pay monthly payroll, and prepare financial reports. Accountants, auditors, and junior auditors typically work full time. Overtime hours may be required during tax season or at the end of the fiscal year.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A junior accountant maintains and compiles financial reports and statements in 
 
 ## Understanding Junior Accountant
 
-The duties and future career prospects for a junior accountant depend on the situation and the abilities of the candidate. A junior accountant holds an entry-level position in the accounting department of an accounting or [auditing](https://www.investopedia.com/terms/a/audit.asp) firm or the government. Junior accountants have an interest in finance. Accountants learn the ins and outs of the industry in which they work because they are privy to all the expenses, revenues, and investments that are involved in a business entity. A qualified accountant earned median pay of $71,550 in 2019, according to the Bureau of Labor Statistics (BLS).1
+The duties and future career prospects for a junior accountant depend on the situation and the abilities of the candidate. A junior accountant holds an entry-level position in the accounting department of an accounting or [[auditing]](https://www.investopedia.com/terms/a/audit.asp) firm or the government. Junior accountants have an interest in finance. Accountants learn the ins and outs of the industry in which they work because they are privy to all the expenses, revenues, and investments that are involved in a business entity. A qualified accountant earned median pay of $71,550 in 2019, according to the Bureau of Labor Statistics (BLS).1
 
 ### The Role of a Junior Accountant
 
-The duties and responsibilities of a junior accountant would vary within the organization but would include accounting for all business transactions with journal entries, updating financial statements, preparing monthly financial reports, calculating payroll taxes, and auditing and maintaining [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp) and accounts payable. All of this would be performed under the supervision of the manager as the junior accountant learns the business of accounting and the intricacies of different client situations.
+The duties and responsibilities of a junior accountant would vary within the organization but would include accounting for all business transactions with journal entries, updating financial statements, preparing monthly financial reports, calculating payroll taxes, and auditing and maintaining [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp) and accounts payable. All of this would be performed under the supervision of the manager as the junior accountant learns the business of accounting and the intricacies of different client situations.
 
 ## Requirements for a Junior Accountant
 
@@ -39,6 +39,6 @@ A bachelor's degree in accounting is a prerequisite for this position along with
 
 ## The Outlook for a Junior Accountant
 
-The junior accountant position would suit those who enjoy mathematics and are interested in finance. Junior accountants have above-average earnings potential and access to wide-ranging clientèle. The accounting profession is likely to see sustained demand because corporations and small businesses require accounting services on an ongoing basis. If a junior accountant wishes to climb the career ladder, they could become a [Certified Public Accountant](https://www.investopedia.com/terms/c/cpa.asp) (CPA), a [Certified Management Accountant](https://www.investopedia.com/terms/c/cma.asp) (CMA), or a [Certified Internal Auditor](https://www.investopedia.com/terms/c/certified-internal-auditor.asp) (CIA) by undertaking and passing the exam series.
+The junior accountant position would suit those who enjoy mathematics and are interested in finance. Junior accountants have above-average earnings potential and access to wide-ranging clientèle. The accounting profession is likely to see sustained demand because corporations and small businesses require accounting services on an ongoing basis. If a junior accountant wishes to climb the career ladder, they could become a [[Certified Public Accountant]](https://www.investopedia.com/terms/c/cpa.asp) (CPA), a [[Certified Management Accountant]](https://www.investopedia.com/terms/c/cma.asp) (CMA), or a [[Certified Internal Auditor]](https://www.investopedia.com/terms/c/certified-internal-auditor.asp) (CIA) by undertaking and passing the exam series.
 
 Growth in the accounting profession is expected to be average at around 4% per year from 2019-2029, according to the Bureau of Labor Statistics.1 Employment growth in the accounting field is linked to the overall economy. In a growing economy, more accountants are required.

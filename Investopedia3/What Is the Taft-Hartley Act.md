@@ -32,9 +32,9 @@ The Wagner Act – and therefore, the Taft-Hartley Act – does not cover domest
 
 ## Key Amendments
 
-Taft-Hartley outlined six unfair practices by [labor unions](https://www.investopedia.com/terms/l/labor-union.asp) and provided remedies, in the form of amendments, for protecting employees from harm resulting from these practices. Previously the Wagner Act had only addressed unfair labor practices perpetrated by employers.
+Taft-Hartley outlined six unfair practices by [[labor unions]](https://www.investopedia.com/terms/l/labor-union.asp) and provided remedies, in the form of amendments, for protecting employees from harm resulting from these practices. Previously the Wagner Act had only addressed unfair labor practices perpetrated by employers.
 
-One amendment protected employees' rights under Section 7 of the Wagner Act, which gave employees the right to form unions and engage in [collective bargaining](https://www.investopedia.com/terms/c/collective-bargaining.asp) with employers. This amendment protected employees from unfair coercion by unions that could result in discrimination against employees.
+One amendment protected employees' rights under Section 7 of the Wagner Act, which gave employees the right to form unions and engage in [[collective bargaining]](https://www.investopedia.com/terms/c/collective-bargaining.asp) with employers. This amendment protected employees from unfair coercion by unions that could result in discrimination against employees.
 
 A second amendment said that an employer cannot refuse to hire prospective employees because they won't join a union. However, an employer has the right to sign an agreement with a union that requires an employee to join the union on or before the employee's 30th day of employment.
 
@@ -50,4 +50,4 @@ A sixth amendment added a free speech clause for employers. Employers have the r
 
 The Taft-Hartley Act made changes to union election rules. These changes excluded supervisors from bargaining groups and gave special treatment to certain professional employees.
 
-The Taft-Hartley Act also created four new types of elections. One gave employers the right to vote on union demands. The other three gave employees the right to hold elections on the status of [incumbent](https://www.investopedia.com/terms/i/incumbent.asp) unions, to determine whether a union has the power to enter into agreements for employees and to withdraw union representation after it's granted. In 1951 Congress repealed the provisions governing union shop elections.
+The Taft-Hartley Act also created four new types of elections. One gave employers the right to vote on union demands. The other three gave employees the right to hold elections on the status of [[incumbent]](https://www.investopedia.com/terms/i/incumbent.asp) unions, to determine whether a union has the power to enter into agreements for employees and to withdraw union representation after it's granted. In 1951 Congress repealed the provisions governing union shop elections.

@@ -16,7 +16,7 @@ author: Will Kenton
 Regulation A
 ## What Is Regulation A?
 
-Regulation A is an exemption from registration requirements—instituted by the Securities Act—that applies to public offerings of securities that do not exceed $50 million in any one-year period. Companies utilizing the Regulation A exemption must still [file offering statements with the Securities and Exchange Commission (SEC)](https://www.investopedia.com/articles/07/secbeginning.asp). However, the companies utilizing the exemption are given distinct advantages over companies that must fully register. The issuer of a Regulation A offering must give buyers documentation with the issue, similar to the [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) of a registered offering.
+Regulation A is an exemption from registration requirements—instituted by the Securities Act—that applies to public offerings of securities that do not exceed $50 million in any one-year period. Companies utilizing the Regulation A exemption must still [[file offering statements with the Securities and Exchange Commission (SEC)]](https://www.investopedia.com/articles/07/secbeginning.asp). However, the companies utilizing the exemption are given distinct advantages over companies that must fully register. The issuer of a Regulation A offering must give buyers documentation with the issue, similar to the [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) of a registered offering.
 
 #### Government Regulations: Do They Help Businesses?
 
@@ -32,7 +32,7 @@ Every company is now required to indicate the tier its offering is conducted und
 
 ## Regulation A Tier 1 vs. Regulation A Tier 2
 
-Under tier 1, a company is permitted to offer a maximum of $20 million in any one-year period. The issuing company must also provide an offering circular, which must be filed with the Securities and Exchange Commission (SEC) and is subject to a [vetting](https://www.investopedia.com/terms/v/vetting.asp) process by the commission and securities regulators in the individual states relevant to the offering.
+Under tier 1, a company is permitted to offer a maximum of $20 million in any one-year period. The issuing company must also provide an offering circular, which must be filed with the Securities and Exchange Commission (SEC) and is subject to a [[vetting]](https://www.investopedia.com/terms/v/vetting.asp) process by the commission and securities regulators in the individual states relevant to the offering.
 
 ### Key Takeaways
 

@@ -16,7 +16,7 @@ author: Caroline Banton
 Economic Value
 ## What Is Economic Value?
 
-Economic value is the value that person places on an economic good based on the benefit that they derive from the good. It is often estimated based on the person’s willingness to pay for the good, typically measured in units of [currency](https://www.investopedia.com/terms/c/currency.asp). The economic value should not be confused with [market value](https://www.investopedia.com/terms/m/marketvalue.asp), which is the market price for a good or service which can be higher or lower than the economic value that any particular person puts on a good.
+Economic value is the value that person places on an economic good based on the benefit that they derive from the good. It is often estimated based on the person’s willingness to pay for the good, typically measured in units of [[currency]](https://www.investopedia.com/terms/c/currency.asp). The economic value should not be confused with [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp), which is the market price for a good or service which can be higher or lower than the economic value that any particular person puts on a good.
 
 ### Key Takeaways
 
@@ -44,6 +44,6 @@ Hedonic pricing is another way of estimating the economic value of a good. Hedon
 
 ### Economic Value in Marketing
 
-Companies use the economic value to the customer (EVC) to set prices for their products or services. EVC is not derived from a precise mathematical formula, but it considers the tangible and intangible value of a product. The tangible value is based on the product's functionality, and the [intangible value](https://www.investopedia.com/terms/i/intangibleasset.asp) is based on consumer sentiment toward product ownership.
+Companies use the economic value to the customer (EVC) to set prices for their products or services. EVC is not derived from a precise mathematical formula, but it considers the tangible and intangible value of a product. The tangible value is based on the product's functionality, and the [[intangible value]](https://www.investopedia.com/terms/i/intangibleasset.asp) is based on consumer sentiment toward product ownership.
 
 For example, a consumer places a tangible value on a durable pair of sneakers that provide protection and support during athletic activity. However, the sneaker's brand label or affiliation with a celebrity can add intangible value to the sneakers. Marketer can use surveys, focus groups, or other tools, so get an idea of how much value consumers will place on the sneakers based on their characteristics.

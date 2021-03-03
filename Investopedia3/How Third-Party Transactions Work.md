@@ -16,7 +16,7 @@ author: Alexandra Twin
 How Third-Party Transactions Work
 ## What Is a Third-Party Transaction?
 
-A third-party [transaction](https://www.investopedia.com/terms/t/transaction.asp) is a business deal that involves a person or entity other than the main participants. Typically, it would involve a buyer, a seller and another party, the [third party](https://www.investopedia.com/articles/financialcareers/08/third-party-marketing.asp). The involvement of the third party can vary, based on the type of business transaction.
+A third-party [[transaction]](https://www.investopedia.com/terms/t/transaction.asp) is a business deal that involves a person or entity other than the main participants. Typically, it would involve a buyer, a seller and another party, the [[third party]](https://www.investopedia.com/articles/financialcareers/08/third-party-marketing.asp). The involvement of the third party can vary, based on the type of business transaction.
 
 In some cases, the involvement is one-time, such as a third-party payment for an item purchased from a web site. Sometimes the involvement is longer term, such as a third-party vendor always used by a certain company.
 
@@ -34,11 +34,11 @@ When a buyer and seller enter into a business deal, they may decide to use the s
 
 ## Example of a Third-Party Transaction
 
-Many kinds of transactions involve third parties, and they take place on a [day-to-day basis](https://www.investopedia.com/terms/t/transaction-date.asp) across a variety of industries.
+Many kinds of transactions involve third parties, and they take place on a [[day-to-day basis]](https://www.investopedia.com/terms/t/transaction-date.asp) across a variety of industries.
 
 For example, in the insurance industry, insurance brokers are third-party agents that market insurance products to insurance shoppers. The client goes through the broker to secure a good insurance contract that has reasonable rates and terms, while the insurance company works through the broker to bring in a new client. If the broker is successful in bringing a new client to an insurance provider, it is paid a commission by the insurer.
 
-In the same light, a [mortgage broker](https://www.investopedia.com/terms/m/mortgagebroker.asp) is also considered a facilitator in third-party transactions, as they will attempt to match the needs of a potential home buyer with the loan programs offered by a lender.
+In the same light, a [[mortgage broker]](https://www.investopedia.com/terms/m/mortgagebroker.asp) is also considered a facilitator in third-party transactions, as they will attempt to match the needs of a potential home buyer with the loan programs offered by a lender.
 
 A third-party transaction involves the buyer, the seller, and an additional party who is not directly involved with the other two.
 
@@ -46,6 +46,6 @@ A third-party transaction involves the buyer, the seller, and an additional part
 
 As technology evolves and changes the way interactions are handled in the digital era, more people and businesses are participating in third-party transactions through online payment platforms.
 
-Through the [digital platforms](https://www.investopedia.com/terms/d/digital-transaction.asp), a buyer can make a payment for the purchase of a good or service bought from another party. The third-party provider receives the payment from the buyer, verifies that the funds are available, and debits the buyer’s account. The money is then forwarded to the seller’s account—typically on the same online portal. The seller’s account may be credited in minutes or days, but the funds may be withdrawn to a bank account or used to conduct other transactions once the deposit has been made in the account.
+Through the [[digital platforms]](https://www.investopedia.com/terms/d/digital-transaction.asp), a buyer can make a payment for the purchase of a good or service bought from another party. The third-party provider receives the payment from the buyer, verifies that the funds are available, and debits the buyer’s account. The money is then forwarded to the seller’s account—typically on the same online portal. The seller’s account may be credited in minutes or days, but the funds may be withdrawn to a bank account or used to conduct other transactions once the deposit has been made in the account.
 
 [PayPal](https://www.investopedia.com/articles/investing/072815/paypal-vs-venmo-function-versus-fun.asp) is one good example of an online payment portal that acts as a third party in a retail transaction. A seller offers a good or service, and a buyer uses a credit card entered through the PayPal payment service. The payment is run through PayPal and is thus a third-party transaction.

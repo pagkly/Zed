@@ -36,7 +36,7 @@ All businesses have basic ethical and legal responsibilities; however, the most 
 
 In 2010, the International Organization for Standardization (ISO) released a set of voluntary standards meant to help companies implement corporate social responsibility.
 
-Companies go through different stages during the process of developing corporate citizenship. Companies rise to the higher stages of corporate citizenship based on their capacity and credibility when supporting community activities, a strong understanding of community needs, and their dedication to incorporate citizenship within the [culture and structure of their company](https://www.investopedia.com/terms/o/organizational-structure.asp).
+Companies go through different stages during the process of developing corporate citizenship. Companies rise to the higher stages of corporate citizenship based on their capacity and credibility when supporting community activities, a strong understanding of community needs, and their dedication to incorporate citizenship within the [[culture and structure of their company]](https://www.investopedia.com/terms/o/organizational-structure.asp).
 
 ## The Development of Corporate Citizenship
 
@@ -54,7 +54,7 @@ In the engagement stage, companies will often develop policies that promote the 
 
 In the integrated stage, citizenship activities are formalized and blend in fluidly with the company’s regular operations. Performance in community activities is monitored, and these activities are driven into the lines of business.
 
-Once companies reach the transforming stage, they understand that corporate citizenship plays a strategic part in fueling [sales growth](https://www.investopedia.com/articles/stocks/04/100604.asp) and expansion to new markets. Economic and social involvement is a regular part of a company’s daily operations in this stage.
+Once companies reach the transforming stage, they understand that corporate citizenship plays a strategic part in fueling [[sales growth]](https://www.investopedia.com/articles/stocks/04/100604.asp) and expansion to new markets. Economic and social involvement is a regular part of a company’s daily operations in this stage.
 
 ## Corporate Social Responsibility (CSR)
 
@@ -62,7 +62,7 @@ Once companies reach the transforming stage, they understand that corporate citi
 
 As important as CSR is for the community, it is equally valuable for a company. CSR activities can help forge a stronger bond between employees and corporations; they can boost morale and can help both employees and employers feel more connected with the world around them.
 
-In order for a company to be socially responsible, it first needs to be responsible for itself and its [shareholders](https://www.investopedia.com/terms/s/shareholder.asp). Often, companies that adopt CSR programs have grown their business to the point where they can give back to society. Thus, CSR is primarily a strategy of large corporations. Also, the more visible and successful a [corporation](https://www.investopedia.com/terms/c/corporation.asp) is, the more responsibility it has to set standards of ethical behavior for its peers, competition, and industry.
+In order for a company to be socially responsible, it first needs to be responsible for itself and its [shareholders](https://www.investopedia.com/terms/s/shareholder.asp). Often, companies that adopt CSR programs have grown their business to the point where they can give back to society. Thus, CSR is primarily a strategy of large corporations. Also, the more visible and successful a [[corporation]](https://www.investopedia.com/terms/c/corporation.asp) is, the more responsibility it has to set standards of ethical behavior for its peers, competition, and industry.
 
 ## Starbucks as an Example
 

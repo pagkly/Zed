@@ -16,7 +16,7 @@ author: Julia Kagan
 Gift Splitting
 ## What Is Gift Splitting?
 
-Gift splitting allows married couples to split the value of a gift between them to double their allowed annual [gift tax exclusion](https://www.investopedia.com/terms/a/annual-exclusion.asp) amount. This is usually something done when helping someone out with a financial gift and the involved parties want to avoid the [gift tax](https://www.investopedia.com/terms/g/gifttax.asp) levied by the IRS.
+Gift splitting allows married couples to split the value of a gift between them to double their allowed annual [[gift tax exclusion]](https://www.investopedia.com/terms/a/annual-exclusion.asp) amount. This is usually something done when helping someone out with a financial gift and the involved parties want to avoid the [[gift tax]](https://www.investopedia.com/terms/g/gifttax.asp) levied by the IRS.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Gift splitting allows married couples to split the value of a gift between them 
 
 ## How Gift Splitting Works
 
-Gifts of money or property are subject to a gift tax if the donor or donors has exceeded the annual or lifetime gift exemption. Gift splitting is an easy way for married couples to maximize their annual gift tax exclusion amount. The IRS allows married couples who [file together](https://www.investopedia.com/terms/m/mfj.asp) to double the amount of their gift through gift splitting.1
+Gifts of money or property are subject to a gift tax if the donor or donors has exceeded the annual or lifetime gift exemption. Gift splitting is an easy way for married couples to maximize their annual gift tax exclusion amount. The IRS allows married couples who [[file together]](https://www.investopedia.com/terms/m/mfj.asp) to double the amount of their gift through gift splitting.1
 
 For the 2020 and 2021 tax years, the annual gift exclusion limit in a calendar year is $30,000 for a couple—twice as much as the $15,000 threshold for an individual. Married couples combine their individual allowances as if each contributed half of the amount. The thresholds are applied to each person who is the recipient of a gift—meaning a couple could give up to $30,000 each to any number of people without tax consequences.1
 
-If you receive a gift, you generally aren't required to report it as income. The gift giver is responsible for paying any tax and filing a [gift tax return](https://www.investopedia.com/terms/g/gift-tax-return.asp). 2
+If you receive a gift, you generally aren't required to report it as income. The gift giver is responsible for paying any tax and filing a [[gift tax return]](https://www.investopedia.com/terms/g/gift-tax-return.asp). 2
 
 To qualify for gift splitting in the eyes of the IRS, both spouses must agree to the gift and specify the situation in which the gift was given when filing their taxes.
 

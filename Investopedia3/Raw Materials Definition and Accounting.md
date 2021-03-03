@@ -20,13 +20,13 @@ Raw materials are materials or substances used in the primary production or manu
 
 ## Raw Materials Explained
 
-Raw materials are used in a multitude of products. They can take many different forms. The kind of raw materials inventory a company needs will depend on the type of manufacturing they do. For manufacturing companies, raw materials inventory requires detailed budgeting and a special framework for accounting on the balance sheet and [income](https://www.investopedia.com/ask/answers/031815/what-formula-calculating-profit-margins.asp) statement.
+Raw materials are used in a multitude of products. They can take many different forms. The kind of raw materials inventory a company needs will depend on the type of manufacturing they do. For manufacturing companies, raw materials inventory requires detailed budgeting and a special framework for accounting on the balance sheet and [[income]](https://www.investopedia.com/ask/answers/031815/what-formula-calculating-profit-margins.asp) statement.
 
 Examples of raw materials include: steel, oil, corn, grain, gasoline, lumber, forest resources, plastic, natural gas, coal, and minerals.
 
 ## Accounting Basics
 
-Manufacturing companies take special steps to account for raw materials inventory. This includes three distinct inventory classifications on their [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) compared to just one for non-manufacturers. The current assets portion of the balance sheet for manufacturing companies will include:
+Manufacturing companies take special steps to account for raw materials inventory. This includes three distinct inventory classifications on their [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) compared to just one for non-manufacturers. The current assets portion of the balance sheet for manufacturing companies will include:
 
 -   Raw materials inventory
 -   Work-in-process

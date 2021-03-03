@@ -16,7 +16,7 @@ author: Daniel Liberto
 Other Long-Term Liabilities Definition
 ## What Are Other Long-Term Liabilities?
 
-Other long-term liabilities is a line item on a [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) that lumps together [obligations](https://www.investopedia.com/terms/o/obligation.asp) that are not due within 12 months. These debts that are less urgent to repay are a part of their [total liabilities](https://www.investopedia.com/terms/t/total-liabilities.asp) but are categorized as “other” when the company doesn’t deem them important enough to warrant individual identification.
+Other long-term liabilities is a line item on a [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) that lumps together [[obligations]](https://www.investopedia.com/terms/o/obligation.asp) that are not due within 12 months. These debts that are less urgent to repay are a part of their [total liabilities](https://www.investopedia.com/terms/t/total-liabilities.asp) but are categorized as “other” when the company doesn’t deem them important enough to warrant individual identification.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ Other long-term liabilities is a line item on a [balance sheet](https://www.inv
 
 ## Understanding Other Long-Term Liabilities
 
-Liabilities are debts that a company owes. They appear on the balance sheet and are categorized as either [current](https://www.investopedia.com/terms/c/currentliabilities.asp)—they must be paid back within a year—or [long-term](https://www.investopedia.com/terms/l/longtermliabilities.asp)—they are not due for at least 12 months, or the length of a company’s operating cycle. 
+Liabilities are debts that a company owes. They appear on the balance sheet and are categorized as either [[current]](https://www.investopedia.com/terms/c/currentliabilities.asp)—they must be paid back within a year—or [[long-term]](https://www.investopedia.com/terms/l/longtermliabilities.asp)—they are not due for at least 12 months, or the length of a company’s operating cycle. 
 
-Then there are other liabilities. In [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), companies use the term “other” to refer to anything extra that is not significant enough to identify separately. Because they aren’t deemed particularly noteworthy, such items are grouped together rather than broken down one by one and ascribed an individual figure.
+Then there are other liabilities. In [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), companies use the term “other” to refer to anything extra that is not significant enough to identify separately. Because they aren’t deemed particularly noteworthy, such items are grouped together rather than broken down one by one and ascribed an individual figure.
 
 Other long-term liabilities can be defined as the rest of the debts that a company is required to pay back in a period of a year or more that are not separately accounted for and identified in the company's balance sheet.
 
@@ -40,14 +40,14 @@ In many cases, it is just a matter of presentation preference whether or not to 
 
 ## Types of Other Long-Term Liabilities
 
-Other long-term liabilities might include items such as [pension liabilities](https://www.investopedia.com/terms/p/pbo.asp), [capital leases](https://www.investopedia.com/terms/c/capitallease.asp), [deferred credits](https://www.investopedia.com/terms/d/deferred-credit.asp), customer [deposits](https://www.investopedia.com/terms/d/deposit.asp), and [deferred tax liabilities](https://www.investopedia.com/terms/d/deferredtaxliability.asp). In the case of [holding companies](https://www.investopedia.com/terms/h/holdingcompany.asp), it can also contain things such as intercompany borrowings—[loans](https://www.investopedia.com/terms/l/loan.asp) made from one of the company's divisions or [subsidiaries](https://www.investopedia.com/terms/s/subsidiary.asp) to another.
+Other long-term liabilities might include items such as [pension liabilities](https://www.investopedia.com/terms/p/pbo.asp), [[capital leases]](https://www.investopedia.com/terms/c/capitallease.asp), [deferred credits](https://www.investopedia.com/terms/d/deferred-credit.asp), customer [[deposits]](https://www.investopedia.com/terms/d/deposit.asp), and [[deferred tax liabilities]](https://www.investopedia.com/terms/d/deferredtaxliability.asp). In the case of [[holding companies]](https://www.investopedia.com/terms/h/holdingcompany.asp), it can also contain things such as intercompany borrowings—[loans](https://www.investopedia.com/terms/l/loan.asp) made from one of the company's divisions or [[subsidiaries]](https://www.investopedia.com/terms/s/subsidiary.asp) to another.
 
 ## Special Considerations
 
 Lumping together a group of debts without identifying the nature of the debt might sound like a potential red flag. In reality, this practice is normal and shouldn’t raise concern, provided that the obligations in question are relatively small compared to the company's total liabilities. They should also be comparable to how the company has operated in the past—sometimes year-to-year comparisons of other long-term liabilities are provided in financial statement footnotes.
 
-If the amount of other long-term liabilities as a percentage of total liabilities (as displayed on the balance sheet) is high enough to merit investigation and there is no associated note, the analyst could call the [investor relations](https://www.investopedia.com/terms/i/investorrelations.asp) (IR) contact to ask questions.
+If the amount of other long-term liabilities as a percentage of total liabilities (as displayed on the balance sheet) is high enough to merit investigation and there is no associated note, the analyst could call the [[investor relations]](https://www.investopedia.com/terms/i/investorrelations.asp) (IR) contact to ask questions.
 
 ## Example of Other Long-Term Liabilities
 
-Ford Motor Co. ([F](https://www.investopedia.com/markets/quote?tvwidgetsymbol=f)) reported approximately $21 billion of other long-term liabilities on its balance sheet for [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) 2016, representing around 10 percent of total liabilities. In the notes to the financial statements, the main components were broken down into pension liabilities, other post-retirement employee benefits, employee benefit plans, dealers' customer allowances and claims, and other.
+Ford Motor Co. ([F](https://www.investopedia.com/markets/quote?tvwidgetsymbol=f)) reported approximately $21 billion of other long-term liabilities on its balance sheet for [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY) 2016, representing around 10 percent of total liabilities. In the notes to the financial statements, the main components were broken down into pension liabilities, other post-retirement employee benefits, employee benefit plans, dealers' customer allowances and claims, and other.

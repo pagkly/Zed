@@ -16,7 +16,7 @@ author: Will Kenton
 Earnings Multiplier
 ## What Is the Earnings Multiplier?
 
-The earnings multiplier is a financial metric that frames a company's current stock price in terms of the company's [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) of stock, that's simply computed as price per share/earnings per share. Also known as the [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the earnings multiplier can be used as a simplified [valuation](https://www.investopedia.com/terms/v/valuation.asp) tool with which to compare the relative costliness of the stocks of similar companies. It can likewise help investors judge current stock prices against their historical prices on an earnings-relative basis.
+The earnings multiplier is a financial metric that frames a company's current stock price in terms of the company's [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) (EPS) of stock, that's simply computed as price per share/earnings per share. Also known as the [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the earnings multiplier can be used as a simplified [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) tool with which to compare the relative costliness of the stocks of similar companies. It can likewise help investors judge current stock prices against their historical prices on an earnings-relative basis.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The earnings multiplier is a financial metric that frames a company's current st
 
 ## Understanding Earnings Multiplier
 
-The earnings multiplier can be a useful tool for determining how expensive the current price of a stock is relative to the company's earnings per share of that stock. This is an important relationship because the price of a stock is theoretically supposed to be a function of the anticipated [future value](https://www.investopedia.com/terms/f/futurevalue.asp) of the issuing company and future cash flows resulting from ownership of that stock. If the price of a stock is historically expensive relative to the company's earnings, it may indicate that it's not an optimal time to purchase this equity because it's overly expensive. Furthermore, comparing earnings multipliers across similar companies can help illustrate how expensive various companies' stock prices are relative to one other.
+The earnings multiplier can be a useful tool for determining how expensive the current price of a stock is relative to the company's earnings per share of that stock. This is an important relationship because the price of a stock is theoretically supposed to be a function of the anticipated [[future value]](https://www.investopedia.com/terms/f/futurevalue.asp) of the issuing company and future cash flows resulting from ownership of that stock. If the price of a stock is historically expensive relative to the company's earnings, it may indicate that it's not an optimal time to purchase this equity because it's overly expensive. Furthermore, comparing earnings multipliers across similar companies can help illustrate how expensive various companies' stock prices are relative to one other.
 
 ## Example of the Earnings Multiplier
 

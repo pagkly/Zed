@@ -16,7 +16,7 @@ author: Adam Hayes
 The Ins and Outs of Systematic Sampling
 ## What Is Systematic Sampling?
 
-Systematic sampling is a type of probability [sampling](https://www.investopedia.com/terms/s/sampling-distribution.asp) method in which sample members from a larger population are selected according to a random starting point but with a fixed, periodic interval. This interval, called the sampling interval, is calculated by dividing the population size by the desired sample size.
+Systematic sampling is a type of probability [[sampling]](https://www.investopedia.com/terms/s/sampling-distribution.asp) method in which sample members from a larger population are selected according to a random starting point but with a fixed, periodic interval. This interval, called the sampling interval, is calculated by dividing the population size by the desired sample size.
 
 Despite the sample population being selected in advance, systematic sampling is still thought of as being random if the periodic interval is determined beforehand and the starting point is random.
 
@@ -24,7 +24,7 @@ There are several methods of sampling a population for statistical inference; sy
 
 ## How Systematic Sampling Works
 
-Since [simple random sampling](https://www.investopedia.com/terms/s/simple-random-sample.asp) of a population can be inefficient and time-consuming, statisticians turn to other methods, such as systematic sampling. Choosing a sample size through a systematic approach can be done quickly. Once a fixed starting point has been identified, a constant interval is selected to facilitate participant selection.
+Since [[simple random sampling]](https://www.investopedia.com/terms/s/simple-random-sample.asp) of a population can be inefficient and time-consuming, statisticians turn to other methods, such as systematic sampling. Choosing a sample size through a systematic approach can be done quickly. Once a fixed starting point has been identified, a constant interval is selected to facilitate participant selection.
 
 Systematic sampling is preferable to simple random sampling when there is a low risk of data manipulation. If such a risk is high when a researcher can manipulate the interval length to obtain desired results, a simple random sampling technique would be more appropriate.
 
@@ -47,7 +47,7 @@ For example, if the selected starting point was 20, the 70th person on the list 
 
 ## Systematic Sampling Versus Cluster Sampling
 
-Systematic sampling and cluster sampling differ in how they pull sample points from the population included in the sample. Cluster sampling breaks the population down into [clusters](https://www.investopedia.com/ask/answers/051815/what-difference-between-systematic-sampling-and-cluster-sampling.asp), while systematic sampling uses fixed intervals from the larger population to create the sample.
+Systematic sampling and cluster sampling differ in how they pull sample points from the population included in the sample. Cluster sampling breaks the population down into [[clusters]](https://www.investopedia.com/ask/answers/051815/what-difference-between-systematic-sampling-and-cluster-sampling.asp), while systematic sampling uses fixed intervals from the larger population to create the sample.
 
 Systematic sampling selects a random starting point from the population, and then a sample is taken from regular fixed intervals of the population depending on its size. Cluster sampling divides the population into clusters and then takes a simple random sample from each cluster.
 
@@ -59,4 +59,4 @@ However, a person could create a random subset of stores, which is the first ste
 
 One risk that statisticians must consider when conducting systematic sampling involves how the list used with the sampling interval is organized. If the population placed on the list is organized in a cyclical pattern that matches the sampling interval, the selected sample may be biased.
 
-For example, a company's [human resources](https://www.investopedia.com/terms/h/humanresources.asp) department wants to pick a sample of employees and ask how they feel about company policies. Employees are grouped in teams of 20, with each team headed by a manager. If the list used to pick the sample size is organized with teams clustered together, the statistician risks picking only managers (or no managers at all) depending on the sampling interval.
+For example, a company's [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp) department wants to pick a sample of employees and ask how they feel about company policies. Employees are grouped in teams of 20, with each team headed by a manager. If the list used to pick the sample size is organized with teams clustered together, the statistician risks picking only managers (or no managers at all) depending on the sampling interval.

@@ -16,7 +16,7 @@ author: Gordon Scott
 Theoretical Value (Of A Right) Definition
 ## What is the Theoretical Value (Of A Right)?
 
-The theoretical value (of a right) is the value of a [subscription right](https://www.investopedia.com/terms/s/subscription_right.asp). During the period of time when a new [rights offering](https://www.investopedia.com/terms/r/rightsoffering.asp) is announced up until three days before the subscription rights expire (known as the [cum rights](https://www.investopedia.com/terms/c/cumrights.asp) period), the value of the right is specific and can easily be calculated. To calculate the value of a right during the window in which it is effective, and investor must be told the subscription price and the number of rights required to buy one share of stock. With that information the value of the right can be calculated using the following formula:
+The theoretical value (of a right) is the value of a [[subscription right]](https://www.investopedia.com/terms/s/subscription_right.asp). During the period of time when a new [[rights offering]](https://www.investopedia.com/terms/r/rightsoffering.asp) is announced up until three days before the subscription rights expire (known as the [[cum rights]](https://www.investopedia.com/terms/c/cumrights.asp) period), the value of the right is specific and can easily be calculated. To calculate the value of a right during the window in which it is effective, and investor must be told the subscription price and the number of rights required to buy one share of stock. With that information the value of the right can be calculated using the following formula:
 
 (Stock Price - Rights subscription price per share) / (Number of rights required to buy one share + 1)
 
@@ -29,11 +29,11 @@ The theoretical value (of a right) is the value of a [subscription right](https:
 
 ## Understanding Theoretical Value (Of A Right)
 
-The theoretical value of a right and the [market value](https://www.investopedia.com/terms/m/marketvalue.asp) of a right are generally the same or very similar. It is also known as the [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) of the right. Because the value of stock shares that have rights attached to them during the cum rights period may differ from regular shares without such rights, investors want to know this theoretical value.
+The theoretical value of a right and the [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp) of a right are generally the same or very similar. It is also known as the [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) of the right. Because the value of stock shares that have rights attached to them during the cum rights period may differ from regular shares without such rights, investors want to know this theoretical value.
 
 ## Real-World Example of Theoretical Value of a Right
 
-As an example, the current price of a stock is $40, the [exercise price](https://www.investopedia.com/terms/e/exerciseprice.asp) (or subscription price) is $35 and four rights are required to purchase a share. The theoretical value of the right is:
+As an example, the current price of a stock is $40, the [[exercise price]](https://www.investopedia.com/terms/e/exerciseprice.asp) (or subscription price) is $35 and four rights are required to purchase a share. The theoretical value of the right is:
 
 ($40 - $35) / (4 + 1) = $1.
 
@@ -45,7 +45,7 @@ The calculation for the value during the exercise of rights period is:
 
 Continuing from the above example, the stock price during the ex-rights period is $38, the theoretical value of the right during the exercise rights period would be ($38 - $35) / 4 = $0.75.
 
-A right’s value is calculated using the same parameters used for pricing options, including the rights subscription price, prevailing interest rates, time to expiration, and the share price of the underlying stock, taking into consideration the level of its [volatility](https://www.investopedia.com/terms/v/volatility.asp). The major difference is that rights have significantly less [time value](https://www.investopedia.com/terms/t/timevalue.asp) than most options because of their comparatively short lifespan.
+A right’s value is calculated using the same parameters used for pricing options, including the rights subscription price, prevailing interest rates, time to expiration, and the share price of the underlying stock, taking into consideration the level of its [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). The major difference is that rights have significantly less [[time value]](https://www.investopedia.com/terms/t/timevalue.asp) than most options because of their comparatively short lifespan.
 
 ## Theoretical Nil Paid Price
 

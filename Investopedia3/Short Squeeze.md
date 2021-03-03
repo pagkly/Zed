@@ -52,7 +52,7 @@ That's where the short squeeze comes in. Every buying transaction by a short-sel
 
 ### How to Measure Short Interest
 
-Two measures useful in identifying stocks at risk of a short squeeze are [short interest](https://www.investopedia.com/terms/s/shortinterest.asp) and the [short-interest ratio](https://www.investopedia.com/terms/s/shortinterestratio.asp). Short interest is the total number of shares sold short as a percentage of total shares outstanding. Tesla's 18% short interest was extremely high. The short-interest ratio is the total number of shares sold short divided by the stock’s average daily trading volume. Speculative stocks tend to have higher short interest than more stable companies.
+Two measures useful in identifying stocks at risk of a short squeeze are [[short interest]](https://www.investopedia.com/terms/s/shortinterest.asp) and the [[short-interest ratio]](https://www.investopedia.com/terms/s/shortinterestratio.asp). Short interest is the total number of shares sold short as a percentage of total shares outstanding. Tesla's 18% short interest was extremely high. The short-interest ratio is the total number of shares sold short divided by the stock’s average daily trading volume. Speculative stocks tend to have higher short interest than more stable companies.
 
 Watching short interest can tell you whether investor sentiment about a company is changing. For example, if a stock typically has a 15% to 30% short interest, a move above or below that range could signal investors have shifted their view on the company. Fewer short shares could mean the price has risen too high too quickly, or that the short sellers are leaving the stock because it has become too stable.
 

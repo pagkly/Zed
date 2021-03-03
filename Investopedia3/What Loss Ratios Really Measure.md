@@ -28,7 +28,7 @@ Loss ratio is used in the insurance industry, representing the ratio of losses t
 
 ## How a Loss Ratio Works
 
-Loss ratios vary depending on the type of insurance. For example, the loss ratio for health insurance tends to be higher than the loss ratio for property and casualty insurance. Loss ratios help assess the health and profitability of an insurance company. A business collects premiums higher than amounts paid in claims, and so high loss ratios may indicate that a business is in [financial distress](https://www.investopedia.com/terms/f/financial_distress.asp).
+Loss ratios vary depending on the type of insurance. For example, the loss ratio for health insurance tends to be higher than the loss ratio for property and casualty insurance. Loss ratios help assess the health and profitability of an insurance company. A business collects premiums higher than amounts paid in claims, and so high loss ratios may indicate that a business is in [[financial distress]](https://www.investopedia.com/terms/f/financial_distress.asp).
 
 Unlike auto and homeowners insurance, under the ACA, health insurers do not retain the ability to adjust your insurance premiums based on submitted claims or your medical history.
 
@@ -36,7 +36,7 @@ Unlike auto and homeowners insurance, under the ACA, health insurers do not reta
 
 ### Medical Loss Ratio
 
-A health insurance carrier that pays $8 in claims for every $10 in premiums collected has a [medical cost ratio](https://www.investopedia.com/terms/m/medical-cost-ratio.asp) (MCR) of 80%. Under the [Affordable Care Act (ACA](https://www.investopedia.com/terms/a/affordable-care-act.asp)), health insurance carriers were mandated to allocate a significant share of the premium to clinical services and the improvement of healthcare quality.
+A health insurance carrier that pays $8 in claims for every $10 in premiums collected has a [[medical cost ratio]](https://www.investopedia.com/terms/m/medical-cost-ratio.asp) (MCR) of 80%. Under the [[Affordable Care Act (ACA]](https://www.investopedia.com/terms/a/affordable-care-act.asp)), health insurance carriers were mandated to allocate a significant share of the premium to clinical services and the improvement of healthcare quality.
 
 Health insurance providers are required to divert 80% of premiums to claims and activities that improve the quality of care and offer more value to the plan's participants. If an insurer fails to spend the required 80% on health care costs, it will have to rebate excess funds back to the consumer.
 
@@ -50,6 +50,6 @@ To determine if and for what amount a premium increase is warranted, carriers ma
 
 Related to loss ratios are benefit-expense ratios, which compares an insurer's expenses for acquiring, underwriting, and servicing a policy by the net premium charged. Expenses can include employee wages, agent and broker commissions, dividends, advertising, legal fees, and other general and administrative expenses (G&A).
 
-An insurer will combine the benefit-expense ratio with their loss ratio to arrive at a [combined ratio](https://www.investopedia.com/terms/c/combinedratio.asp). While the benefit ratio looks at company expenses, the loss-to-gain ratio looks at paid claims, including adjustments, compared to the net premium.
+An insurer will combine the benefit-expense ratio with their loss ratio to arrive at a [[combined ratio]](https://www.investopedia.com/terms/c/combinedratio.asp). While the benefit ratio looks at company expenses, the loss-to-gain ratio looks at paid claims, including adjustments, compared to the net premium.
 
 Also, due to the higher number of probable claims per period, losses for healthcare providers will be higher than those for property or casualty insurance. The combined ratio measures the flow of money out of a company through the payment of expenses and the total losses as they relate to the income from premiums.

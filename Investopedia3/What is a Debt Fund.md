@@ -16,9 +16,9 @@ author: James Chen
 What is a Debt Fund?
 ## What is a Debt Fund
 
-A debt fund is an investment pool, such as a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or exchange-traded fund, in which the [core holdings](https://www.investopedia.com/terms/c/coreholding.asp) comprise fixed income investments. A debt fund may invest in short-term or long-term bonds, securitized products, [money market](https://www.investopedia.com/terms/m/moneymarket.asp) instruments or [floating rate](https://www.investopedia.com/video/play/float/) debt. On average, the fee ratios on debt funds are lower than those attached to [equity funds](https://www.investopedia.com/terms/e/equityfund.asp) because the overall management costs are lower.
+A debt fund is an investment pool, such as a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) or exchange-traded fund, in which the [[core holdings]](https://www.investopedia.com/terms/c/coreholding.asp) comprise fixed income investments. A debt fund may invest in short-term or long-term bonds, securitized products, [money market](https://www.investopedia.com/terms/m/moneymarket.asp) instruments or [floating rate](https://www.investopedia.com/video/play/float/) debt. On average, the fee ratios on debt funds are lower than those attached to [[equity funds]](https://www.investopedia.com/terms/e/equityfund.asp) because the overall management costs are lower.
 
-Often referred to as credit funds or fixed income funds, [debt funds](https://www.investopedia.com/terms/d/debtfund.asp) fall under the fixed income asset category. These low-risk vehicles are customarily sought by investors looking to [preserve capital](https://www.investopedia.com/terms/p/preservationofcapital.asp) and/or achieve low-risk income distributions.
+Often referred to as credit funds or fixed income funds, [[debt funds]](https://www.investopedia.com/terms/d/debtfund.asp) fall under the fixed income asset category. These low-risk vehicles are customarily sought by investors looking to [[preserve capital]](https://www.investopedia.com/terms/p/preservationofcapital.asp) and/or achieve low-risk income distributions.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Often referred to as credit funds or fixed income funds, [debt funds](https://ww
 
 ## Debt Fund Risk
 
-Debt funds may invest in a wide swath of securities, with varying associated risk levels. U.S. government debt is generally considered to pose the least risk. The risk profile of corporate debt issued by businesses as part of their capital structures is generally classified by the company’s [credit rating](https://www.investopedia.com/terms/c/creditrating.asp).
+Debt funds may invest in a wide swath of securities, with varying associated risk levels. U.S. government debt is generally considered to pose the least risk. The risk profile of corporate debt issued by businesses as part of their capital structures is generally classified by the company’s [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp).
 
 Investment-grade debt is issued by companies with stable outlooks and high credit quality. High-yield debt, which is mainly issued by lower credit quality companies with potential emerging growth prospects, offers higher returns, along with higher prospective risk. Other debt categories include developed market debt and emerging market debt.
 
@@ -68,6 +68,6 @@ U.S. corporate debt funds are typically segregated by the credit quality of the 
 
 **Global Debt Funds**
 
-Many countries offer debt investments to support government fiscal policies. Risks and returns of government debt funds vary, depending on a nation's political and economic environment. Similar to equities, global corporate bond funds can be segregated by developed and emerging market indexes. [Credit ratings](https://www.investopedia.com/terms/c/creditrating.asp) are assigned to both government bonds and corporate bonds, using globally standardized credit rating analysis.
+Many countries offer debt investments to support government fiscal policies. Risks and returns of government debt funds vary, depending on a nation's political and economic environment. Similar to equities, global corporate bond funds can be segregated by developed and emerging market indexes. [[Credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp) are assigned to both government bonds and corporate bonds, using globally standardized credit rating analysis.
 
 Although debt funds are comparatively lower risk than equity funds, investors should be mindful of interest rate risk.

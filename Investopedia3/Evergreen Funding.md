@@ -16,7 +16,7 @@ author: Adam Hayes
 Evergreen Funding
 ## What Is Evergreen Funding?
 
-Evergreen funding (or evergreen finance) is the gradual infusion of capital into a new or recapitalized enterprise. This type of funding differs from the traditional funding situation in which all the capital required for a business venture is supplied up-front by [venture capitalists](https://www.investopedia.com/terms/v/venturecapitalist.asp) or other investors as part of a private funding round. When the money is provided upfront, the company then invests in short-term, low-risk securities until it is ready to use the money for business operations.
+Evergreen funding (or evergreen finance) is the gradual infusion of capital into a new or recapitalized enterprise. This type of funding differs from the traditional funding situation in which all the capital required for a business venture is supplied up-front by [[venture capitalists]](https://www.investopedia.com/terms/v/venturecapitalist.asp) or other investors as part of a private funding round. When the money is provided upfront, the company then invests in short-term, low-risk securities until it is ready to use the money for business operations.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Evergreen funding (or evergreen finance) is the gradual infusion of capital into
 
 ## How Evergreen Funding Works
 
-Evergreen funding takes its name from coniferous evergreen trees, which keep their leaves and stay green throughout the entire year. Similarly, evergreen funding means capital is provided throughout the seasons of a company's development. In a normal debt-financing arrangement, company-issued bonds or [debentures](https://www.investopedia.com/terms/d/debenture.asp) have a [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp) and require principal repayment at some future point in time.
+Evergreen funding takes its name from coniferous evergreen trees, which keep their leaves and stay green throughout the entire year. Similarly, evergreen funding means capital is provided throughout the seasons of a company's development. In a normal debt-financing arrangement, company-issued bonds or [[debentures]](https://www.investopedia.com/terms/d/debenture.asp) have a [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp) and require principal repayment at some future point in time.
 
 An evergreen funding arrangement, however, allows a business to renew its debt periodically, pushing back the maturity date each time so that the time until maturity remains relatively constant while the arrangement is in place. In the case of venture capital dollars, the financing is done by selling ownership stakes in the venture, but the infusions of capital are spread out over set periods. This approach is used to avoid pushing a company to grow too fast. Evergreen funding of this nature assures entrepreneurs that the money is there but prevents them from growing too rapidly by limiting the pace of capital infusions.
 

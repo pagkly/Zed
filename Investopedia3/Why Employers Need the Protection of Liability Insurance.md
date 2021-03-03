@@ -16,7 +16,7 @@ author: Adam Hayes
 Why Employers Need the Protection of Liability Insurance
 ## What Is Employers' Liability Insurance?
 
-Employers' liability insurance protects employers from financial loss if a worker has a job-related injury or illness not covered by [workers' compensation](https://www.investopedia.com/terms/w/workers-compensation.asp). Employers' [liability insurance](https://www.investopedia.com/terms/l/liability_insurance.asp) can be packaged with workers' compensation insurance to further protect companies against the costs associated with workplace injuries, illnesses, and deaths. Employers' liability insurance is also called “part 2” of a workers’ compensation policy.
+Employers' liability insurance protects employers from financial loss if a worker has a job-related injury or illness not covered by [[workers' compensation]](https://www.investopedia.com/terms/w/workers-compensation.asp). Employers' [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp) can be packaged with workers' compensation insurance to further protect companies against the costs associated with workplace injuries, illnesses, and deaths. Employers' liability insurance is also called “part 2” of a workers’ compensation policy.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Most employees are covered by workers' compensation laws established at the sta
 
 Workers' compensation provides some level of coverage for [medical expenses](https://www.investopedia.com/terms/m/medical-expenses.asp) and lost wages for employees or their beneficiaries when an employee is injured, falls sick, or is killed as a result of their job. There is no need for the employee to sue the employer to establish fault to qualify for workers' compensation. However, if an employee feels that workers' compensation does not adequately cover their loss—perhaps because they feel their employer’s negligence caused their injury—they may decide to sue their employer for punitive damages such as pain and suffering.
 
-Employers' liability coverage is designed to cover expenses not covered by workers' compensation or general liability [insurance](https://www.investopedia.com/terms/i/insurance.asp). In the event of a payout under an employers' liability insurance policy, an employer can help limit their losses by including, as a condition of the [payout](https://www.investopedia.com/terms/p/payout.asp), a clause that releases the employer and their insurance company from further liability related to the incident in question.
+Employers' liability coverage is designed to cover expenses not covered by workers' compensation or general liability [[insurance]](https://www.investopedia.com/terms/i/insurance.asp). In the event of a payout under an employers' liability insurance policy, an employer can help limit their losses by including, as a condition of the [payout](https://www.investopedia.com/terms/p/payout.asp), a clause that releases the employer and their insurance company from further liability related to the incident in question.
 
 Because workers' compensation laws don't cover all workers or injuries, an injured worker may sue their employer for work-related injuries; employers' liability coverage provides protection for the employer.
 

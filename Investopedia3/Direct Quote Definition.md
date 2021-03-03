@@ -16,9 +16,9 @@ author: James Chen
 Direct Quote Definition
 ## What Is a Direct Quote?
 
-A direct quote is a [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp) rate quoted in fixed units of foreign currency in variable amounts of the domestic [currency](https://www.investopedia.com/terms/c/currency.asp). In other words, a direct currency quote asks what amount of domestic currency is needed to buy one unit of the foreign currency (most commonly the U.S. dollar in forex markets). In a direct quote, the foreign currency is the [base currency](https://www.investopedia.com/terms/b/basecurrency.asp), while the domestic currency is the [counter currency](https://www.investopedia.com/terms/c/counter-currency.asp) (or [quote currency](https://www.investopedia.com/terms/q/quotecurrency.asp)).
+A direct quote is a [[foreign exchange]](https://www.investopedia.com/terms/f/foreign-exchange.asp) rate quoted in fixed units of foreign currency in variable amounts of the domestic [[currency]](https://www.investopedia.com/terms/c/currency.asp). In other words, a direct currency quote asks what amount of domestic currency is needed to buy one unit of the foreign currency (most commonly the U.S. dollar in forex markets). In a direct quote, the foreign currency is the [base currency](https://www.investopedia.com/terms/b/basecurrency.asp), while the domestic currency is the [counter currency](https://www.investopedia.com/terms/c/counter-currency.asp) (or [[quote currency]](https://www.investopedia.com/terms/q/quotecurrency.asp)).
 
-This can be contrasted with an [indirect quote](https://www.investopedia.com/terms/i/indirectquote.asp), in which the price of the domestic currency is expressed in terms of a foreign currency, or what is the amount of domestic currency received when one unit of the foreign currency is sold. Note that a quote involving two foreign currencies (or one not involving USD) is called a [cross currency](https://www.investopedia.com/terms/c/crosscurrency.asp) quote.
+This can be contrasted with an [[indirect quote]](https://www.investopedia.com/terms/i/indirectquote.asp), in which the price of the domestic currency is expressed in terms of a foreign currency, or what is the amount of domestic currency received when one unit of the foreign currency is sold. Note that a quote involving two foreign currencies (or one not involving USD) is called a [[cross currency]](https://www.investopedia.com/terms/c/crosscurrency.asp) quote.
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ Where:
 -   DQ = Direct Quote
 -   IQ = Indirect Quote
 
-In a direct quote, a higher [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) implies that the domestic currency is depreciating or becoming weaker, since the price of the foreign currency is effectively rising -- and vice-versa. Thus, if the [USD/JPY](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp) (direct) quotation changes from 100 to 105, it indicates the Yen would be weakening against the dollar - because it would take 5 more yen (the local currency) to buy 1 USD (the foreign currency).
+In a direct quote, a higher [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) implies that the domestic currency is depreciating or becoming weaker, since the price of the foreign currency is effectively rising -- and vice-versa. Thus, if the [[USD/JPY]](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp) (direct) quotation changes from 100 to 105, it indicates the Yen would be weakening against the dollar - because it would take 5 more yen (the local currency) to buy 1 USD (the foreign currency).
 
 ### U.S. Dollars
 
@@ -51,10 +51,10 @@ An example of a direct quote using U.S. dollars might be stating $1.17 Canadian 
 
 A major exception to the dollar-base quote rule is when the British pound ([GBP](https://www.investopedia.com/terms/g/gbp.asp)) is quoted against other currencies, including the dollar, but with the exception of the euro. This reflects the fact that the pound was the world's dominant currency in the years leading up to World War II and before the ascendancy of the U.S. economy.
 
-The [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) for the pound would thus be quoted as $1.45 per £1, regardless of whether this is considered direct (in the United States) or indirect (in the United Kingdom).
+The [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) for the pound would thus be quoted as $1.45 per £1, regardless of whether this is considered direct (in the United States) or indirect (in the United Kingdom).
 
 ### Euros
 
-The [euro](https://www.investopedia.com/terms/e/euro.asp) (EUR) came into existence on Jan. 1, 1999 as the unit of account for the member nations; notes and coins were first issued on Jan. 1, 2002. The euro replaced many major traded European currencies including the German mark, the French franc, and the Dutch guilder. The European Central Bank, which oversaw the conversion, intended the currency to be the financial market's dominant currency.
+The [[euro]](https://www.investopedia.com/terms/e/euro.asp) (EUR) came into existence on Jan. 1, 1999 as the unit of account for the member nations; notes and coins were first issued on Jan. 1, 2002. The euro replaced many major traded European currencies including the German mark, the French franc, and the Dutch guilder. The European Central Bank, which oversaw the conversion, intended the currency to be the financial market's dominant currency.
 
 For this reason, it specified that the euro should always be the base currency whenever it is traded, including against both the U.S. dollar and the British pound. For this reason, quotes are always the number of dollars, pounds, Swiss francs, or Japanese yen needed to buy €1.

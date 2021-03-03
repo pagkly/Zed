@@ -16,7 +16,7 @@ author: Adam Hayes
 Unilateral Transfer Definition
 ## What Is a Unilateral Transfer?
 
-A unilateral transfer is a one-way transfer of money, goods, or services from one party to another. It is often used to describe payments made by a government to their citizens, or from one country to another country in the form of [foreign aid](https://www.investopedia.com/terms/f/foreign-aid.asp). In these cases, the supplier of funds receives nothing in return from the recipient. A unilateral transfer differs from a bilateral transfer, such as [bilateral trade](https://www.investopedia.com/terms/b/bilateral-trade.asp), which involves reciprocal economic benefit for both parties to a transaction.
+A unilateral transfer is a one-way transfer of money, goods, or services from one party to another. It is often used to describe payments made by a government to their citizens, or from one country to another country in the form of [[foreign aid]](https://www.investopedia.com/terms/f/foreign-aid.asp). In these cases, the supplier of funds receives nothing in return from the recipient. A unilateral transfer differs from a bilateral transfer, such as [[bilateral trade]](https://www.investopedia.com/terms/b/bilateral-trade.asp), which involves reciprocal economic benefit for both parties to a transaction.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Unilateral transfers occur frequently as gifts in everyday life. This can be con
 
 Donations to charities or other forms of philanthropy can also be construed as a unilateral transfer, although some such donations may receive tax benefits. Governments may hand out unilateral transfers in the form of economic stimulus, for instance, in the checks sent to American families during the COVID-19 pandemic in early 2020.
 
-Unilateral transfers sent by governments are included in the [current account](https://www.investopedia.com/terms/c/currentaccount.asp) of a nation's [balance of payments](https://www.investopedia.com/terms/b/bop.asp). They are distinct from trade transactions, which are bilateral in that both parties receive something. Unilateral transfers encompass things such as humanitarian aid and payments made by immigrants to their native countries.
+Unilateral transfers sent by governments are included in the [[current account]](https://www.investopedia.com/terms/c/currentaccount.asp) of a nation's [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp). They are distinct from trade transactions, which are bilateral in that both parties receive something. Unilateral transfers encompass things such as humanitarian aid and payments made by immigrants to their native countries.
 
 Unilateral transfers are thus often involved in instances of direct foreign aid. Unilateral aid occurs when one government directly transfers money or other assets to a recipient country. Critics have argued, however, that direct foreign aid can be problematic and lead to negative unintended consequences.
 

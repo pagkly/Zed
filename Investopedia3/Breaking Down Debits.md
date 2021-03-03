@@ -16,17 +16,17 @@ author: Adam Hayes
 Breaking Down Debits
 ## What Is a Debit?
 
-A debit is an accounting entry that results in either an [increase in assets](https://www.investopedia.com/articles/pf/12/assets-that-increase-net-worth.asp) or a decrease in liabilities on a company's balance sheet. In fundamental accounting, [debits are balanced by credits](https://www.investopedia.com/ask/answers/04/072304.asp), which operate in the exact opposite direction.
+A debit is an accounting entry that results in either an [[increase in assets]](https://www.investopedia.com/articles/pf/12/assets-that-increase-net-worth.asp) or a decrease in liabilities on a company's balance sheet. In fundamental accounting, [[debits are balanced by credits]](https://www.investopedia.com/ask/answers/04/072304.asp), which operate in the exact opposite direction.
 
 For instance, if a firm takes out a loan to purchase equipment, it would debit fixed assets and at the same time credit a liabilities account, depending on the nature of the loan. The abbreviation for debit is sometimes "dr," which is short for "debtor."
 
 ## How Debits Work
 
-A debit is a feature found in all [double-entry accounting](https://www.investopedia.com/terms/d/double-entry.asp) systems. In [a standard journal entry](https://www.investopedia.com/ask/answers/030915/how-do-you-calculate-credits-and-debits-general-ledger.asp), all debits are placed as the top lines, while all credits are listed on the line below debits. When using T-accounts, a debit is the left side of the chart while a credit is the right side.
+A debit is a feature found in all [[double-entry accounting]](https://www.investopedia.com/terms/d/double-entry.asp) systems. In [[a standard journal entry]](https://www.investopedia.com/ask/answers/030915/how-do-you-calculate-credits-and-debits-general-ledger.asp), all debits are placed as the top lines, while all credits are listed on the line below debits. When using T-accounts, a debit is the left side of the chart while a credit is the right side.
 
 Debits and credits are utilized in the trial balance and adjusted trial balance to ensure all entries balance. The total dollar amount of all debits must equal the total dollar amount of all credits. In other words, finances must balance.
 
-A [dangling debit](https://www.investopedia.com/terms/d/dangling-debit.asp) is a debit balance with no offsetting credit balance that would allow it to be written off. It occurs in financial accounting and reflects discrepancies in a company's balance sheet, and when a company purchases goodwill or services to create a debit.
+A [[dangling debit]](https://www.investopedia.com/terms/d/dangling-debit.asp) is a debit balance with no offsetting credit balance that would allow it to be written off. It occurs in financial accounting and reflects discrepancies in a company's balance sheet, and when a company purchases goodwill or services to create a debit.
 
 As a quick example, if Barnes & Noble sold $20,000 worth of books, it would debit its cash account $20,000 and credit its books or inventory account $20,000. This double-entry system shows that the company now has $20,000 more in cash and a corresponding $20,000 less in books.
 
@@ -34,7 +34,7 @@ As a quick example, if Barnes & Noble sold $20,000 worth of books, it would debi
 
 Certain types of accounts have natural balances in financial accounting systems. Assets and expenses have natural debit balances. This means positive values for assets and expenses are debited and negative balances are credited.
 
-For example, upon the receipt of $1,000 cash, a [journal entry](https://www.investopedia.com/terms/j/journal.asp) would include a debit of $1,000 to the cash account in the balance sheet, because cash is increasing. If another transaction involves payment of $500 in cash, the journal entry would have a credit to the cash account of $500 because cash is being reduced. In effect, a debit increases an expense account in the income statement, and a credit decreases it. 
+For example, upon the receipt of $1,000 cash, a [[journal entry]](https://www.investopedia.com/terms/j/journal.asp) would include a debit of $1,000 to the cash account in the balance sheet, because cash is increasing. If another transaction involves payment of $500 in cash, the journal entry would have a credit to the cash account of $500 because cash is being reduced. In effect, a debit increases an expense account in the income statement, and a credit decreases it. 
 
 Liabilities, revenues, and equity accounts have natural credit balances. If a debit is applied to any of these accounts, the account balance has decreased. For example, a debit to the accounts payable account in the balance sheet indicates a reduction of a liability. The offsetting credit is most likely a credit to cash because the reduction of a liability means the debt is being paid and cash is an outflow. For the revenue accounts in the income statement, debit entries decrease the account, while a credit points to an increase to the account.
 
@@ -68,7 +68,7 @@ Sometimes, a trader's margin account has both long and short margin positions. 
 
 Certain accounts are used for valuation purposes and are displayed on the financial statements opposite the normal balances. These accounts are called contra accounts. The debit entry to a contra account has the opposite effect as it would to a normal account.
 
-For example, an [allowance for uncollectable accounts](https://www.investopedia.com/terms/a/allowance-for-bad-debt.asp) offsets the asset accounts receivable. Because the allowance is a negative asset, a debit actually decreases the allowance. A contra asset's debit is the opposite of a normal account's debit, which increases the asset.
+For example, an [[allowance for uncollectable accounts]](https://www.investopedia.com/terms/a/allowance-for-bad-debt.asp) offsets the asset accounts receivable. Because the allowance is a negative asset, a debit actually decreases the allowance. A contra asset's debit is the opposite of a normal account's debit, which increases the asset.
 
 ## Debit Cards vs. Credit Cards
 

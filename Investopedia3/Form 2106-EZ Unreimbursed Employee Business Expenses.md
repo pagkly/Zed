@@ -16,9 +16,9 @@ author: Rajeev Dhir
 Form 2106-EZ: Unreimbursed Employee Business Expenses
 ## What Was Form 2106-EZ: Unreimbursed Employee Business Expenses?
 
-Form 2106-EZ: Unreimbursed Employee Business Expenses was a tax form issued by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) for use by employees who wished to deduct ordinary and necessary expenses related to their jobs.
+Form 2106-EZ: Unreimbursed Employee Business Expenses was a tax form issued by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) for use by employees who wished to deduct ordinary and necessary expenses related to their jobs.
 
-The [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) (TCJA) eliminated virtually all of the deductions for unreimbursed employee expenses for most taxpayers. As a result, Form 2106-EZ: Unreimbursed Employee Business Expenses could no longer be used after the tax year 2017.
+The [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) (TCJA) eliminated virtually all of the deductions for unreimbursed employee expenses for most taxpayers. As a result, Form 2106-EZ: Unreimbursed Employee Business Expenses could no longer be used after the tax year 2017.
 
 ### Important!
 
@@ -34,7 +34,7 @@ While 2106-EZ is no longer in use, the longer Form 2106 is still available for a
 
 Ordinary expenses were generally defined as expenditures that were common and accepted in a particular line of business. Necessary expenses are those that are required in order to conduct business.
 
-Form 2106-EZ was a simplified version of Form 2106 and was used by employees who were claiming a [tax deduction](https://www.investopedia.com/terms/t/tax-deduction.asp) because of unreimbursed expenses related to their jobs.1
+Form 2106-EZ was a simplified version of Form 2106 and was used by employees who were claiming a [[tax deduction]](https://www.investopedia.com/terms/t/tax-deduction.asp) because of unreimbursed expenses related to their jobs.1
 
 An employee could only qualify for a deduction if the expense was not reimbursed by the employer. Employees who used this form were able to claim the standard mileage rate for vehicle expenses.
 
@@ -42,11 +42,11 @@ The Tax Cuts and Jobs Act repealed all unreimbursed employee expenses. Form 2106
 
 ## How to File Form 2106-EZ: Unreimbursed Employee Business Expenses
 
-The form was divided into two parts. Part I tabulated all employee [business expenses](https://www.investopedia.com/terms/b/businessexpenses.asp), then calculated whether—and which—expenses were eligible for a tax deduction. Part II more specifically addressed vehicle expenses.
+The form was divided into two parts. Part I tabulated all employee [[business expenses]](https://www.investopedia.com/terms/b/businessexpenses.asp), then calculated whether—and which—expenses were eligible for a tax deduction. Part II more specifically addressed vehicle expenses.
 
 In Part I, employees were required to list all unreimbursed business expenses, such as airfare, lodging, parking, tolls, and car rental, as well as any personal vehicle expenses from Part II. So-called incidental expenses allowed a deduction for valet tips and other small cash transactions that don’t typically generate a receipt. Meals and entertainment were added separately because most taxpayers were only allowed to claim 50% of those expenses.
 
-Another way to calculate overnight expenses was to use the General Services Administration (GSA) [per diem](https://www.investopedia.com/articles/personal-finance/093014/understanding-diem.asp) rates for cities around the U.S. or, for foreign travel, the State Department rates for every country.2 3 Lodging rates could vary considerably by month, based on supply and demand in any given locality. For example, the GSA would allow a per diem lodging rate of $361 in Aspen, Colorado, during January 2020, but only $185 in September. The per diem meal rate for Aspen was listed as $76 for 2020.4
+Another way to calculate overnight expenses was to use the General Services Administration (GSA) [[per diem]](https://www.investopedia.com/articles/personal-finance/093014/understanding-diem.asp) rates for cities around the U.S. or, for foreign travel, the State Department rates for every country.2 3 Lodging rates could vary considerably by month, based on supply and demand in any given locality. For example, the GSA would allow a per diem lodging rate of $361 in Aspen, Colorado, during January 2020, but only $185 in September. The per diem meal rate for Aspen was listed as $76 for 2020.4
 
 ### When Vehicle Expenses Are Still Deductible
 

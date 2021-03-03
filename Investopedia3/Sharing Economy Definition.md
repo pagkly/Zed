@@ -16,7 +16,7 @@ author: Investopedia Staff
 Sharing Economy Definition
 ## What is the Sharing Economy?
 
-The sharing economy is an economic model defined as a [peer-to-peer](https://www.investopedia.com/terms/p/peertopeer-p2p-economy.asp) (P2P) based activity of acquiring, providing, or sharing access to goods and services that is often facilitated by a community-based on-line platform.
+The sharing economy is an economic model defined as a [[peer-to-peer]](https://www.investopedia.com/terms/p/peertopeer-p2p-economy.asp) (P2P) based activity of acquiring, providing, or sharing access to goods and services that is often facilitated by a community-based on-line platform.
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ The sharing economy is an economic model defined as a [peer-to-peer](https://www
 
 ## Understanding the Sharing Economy
 
-Communities of people have shared the use of assets for thousands of years, but the advent of the Internet—and its use of [big data](https://www.investopedia.com/terms/b/big-data.asp)—has made it easier for asset owners and those seeking to use those assets to find each other. This sort of dynamic can also be referred to as the shareconomy, collaborative consumption, collaborative economy, or peer economy.
+Communities of people have shared the use of assets for thousands of years, but the advent of the Internet—and its use of [[big data]](https://www.investopedia.com/terms/b/big-data.asp)—has made it easier for asset owners and those seeking to use those assets to find each other. This sort of dynamic can also be referred to as the shareconomy, collaborative consumption, collaborative economy, or peer economy.
 
-Sharing economies allow individuals and groups to make money from underused assets. In a sharing economy, idle assets such as parked cars and spare bedrooms can be rented out when not in use. In this way, [physical assets](https://www.investopedia.com/terms/p/physicalasset.asp) are shared as services.
+Sharing economies allow individuals and groups to make money from underused assets. In a sharing economy, idle assets such as parked cars and spare bedrooms can be rented out when not in use. In this way, [[physical assets]](https://www.investopedia.com/terms/p/physicalasset.asp) are shared as services.
 
 For examples, car sharing services like Zipcar can help illustrate this idea. According to data provided by the Brookings Institute, private vehicles go unused for 95% of their lifetime. The same report detailed the lodging sharing service Airbnb’s cost advantage over hotel space as homeowners make use of spare bedrooms. Airbnb rates were reported to be between 30-60% cheaper than hotel rates around the world.1
 
 ## The Sharing Economy is Evolving
 
-The sharing economy has evolved over the past few years where it now serves as an all-encompassing term that refers to a host of on-line economic transactions that may even include [business to business](https://www.investopedia.com/terms/b/btob.asp) (B2B) interactions. Other platforms that have joined the sharing economy include:
+The sharing economy has evolved over the past few years where it now serves as an all-encompassing term that refers to a host of on-line economic transactions that may even include [[business to business]](https://www.investopedia.com/terms/b/btob.asp) (B2B) interactions. Other platforms that have joined the sharing economy include:
 
 -   Co-working Platforms: Companies that provide shared open work spaces for freelancers, entrepreneurs, and work-from-home employees in major metropolitan areas.
 -   Peer-to-Peer Lending Platforms: Companies that allow for individuals to lend money to other individuals at rates cheaper than those offered through traditional credit lending entities.
@@ -45,7 +45,7 @@ Spurred primarily with the growth of Uber and Airbnb, it is expected that the sh
 
 ## Current Criticisms of the Sharing Economy
 
-Criticism of the sharing economy often involves [regulatory](https://www.investopedia.com/terms/r/regulatory_risk.asp) uncertainty. Businesses offering rental services are often regulated by federal, state or local authorities; unlicensed individuals offering rental services may not be following these regulations or paying the associated costs. This could mean giving them an advantage that enables them to charge lower prices.
+Criticism of the sharing economy often involves [[regulatory]](https://www.investopedia.com/terms/r/regulatory_risk.asp) uncertainty. Businesses offering rental services are often regulated by federal, state or local authorities; unlicensed individuals offering rental services may not be following these regulations or paying the associated costs. This could mean giving them an advantage that enables them to charge lower prices.
 
 Another concern is that lack of government oversight will lead to serious abuses of both buyers and sellers in the sharing economy. This has been highlighted by numerous highly publicized cases of things like hidden cameras in rented rooms, lawsuits over unfair treatment of ridesharing contractors by the platforms that employ them, and even murders of customers by real or fraudulent rental and rideshare providers.
 

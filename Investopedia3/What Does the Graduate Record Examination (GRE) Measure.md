@@ -32,7 +32,7 @@ The GRE includes three key sections meant to measure verbal and quantitative rea
 
 The verbal reasoning section analyzes the test taker's ability to draw conclusions, distinguish major and relevant points, and understand words and sentences, among other things. It’s structured to measure the test taker’s ability to analyze and evaluate written material. This section also gauges their capacity to process the information they gather from written material, see and analyze relationships between different parts of sentences.
 
-In the quantitative segment, the test taker’s ability to solve problems is measured through the use of concepts of geometry, [data analysis](https://www.investopedia.com/terms/d/data-analytics.asp), and algebra. Test takers must solve problems using mathematical problems, and interpret and analyze quantitative data.
+In the quantitative segment, the test taker’s ability to solve problems is measured through the use of concepts of geometry, [[data analysis]](https://www.investopedia.com/terms/d/data-analytics.asp), and algebra. Test takers must solve problems using mathematical problems, and interpret and analyze quantitative data.
 
 The final section, analytical writing, measures the test taker’s capacity for critical thinking and analytic writing. In particular, how well they can articulate complex ideas and provide effective support for those concepts is tested.
 
@@ -58,13 +58,13 @@ The ETS has provided the mean scores for each section of the GRE based on all te
 
 ## How Admissions Use the GRE
 
-The GRE General Test is used broadly by graduate and [business schools](https://www.investopedia.com/terms/b/b-school.asp) to screen applicants. Some schools may require applicants to take GRE Subject Tests, which measure their knowledge in particular fields of study. These subject areas may include physics, psychology, biology, literature in English, and chemistry.
+The GRE General Test is used broadly by graduate and [[business schools]](https://www.investopedia.com/terms/b/b-school.asp) to screen applicants. Some schools may require applicants to take GRE Subject Tests, which measure their knowledge in particular fields of study. These subject areas may include physics, psychology, biology, literature in English, and chemistry.
 
 Note that GRE Subject Test areas of focus are not always static; tests have been introduced or discontinued for topics such as computer science and biochemistry, though the scores from previously taken tests remain reportable.
 
 ### Business School Admissions
 
-Although most business schools prefer that applicants attempt the [GMAT](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) before applying for an [MBA](https://www.investopedia.com/terms/m/mba.asp) program, many business schools will also accept GRE scores as an equivalent. The exam consists of several sections including those related to writing, verbal, quantitative, and experimental.
+Although most business schools prefer that applicants attempt the [[GMAT]](https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp) before applying for an [[MBA]](https://www.investopedia.com/terms/m/mba.asp) program, many business schools will also accept GRE scores as an equivalent. The exam consists of several sections including those related to writing, verbal, quantitative, and experimental.
 
 The GRE does measure a test taker's skills in vocabulary, as opposed to the GMAT, which focuses more on mathematical ability. Many business schools, including the top business schools in the US, accept the GRE as an entrance exam for their MBA programs.
 
@@ -172,6 +172,6 @@ The cost of the exam in the U.S. is $205. It’s higher in certain countries, su
 
 ## Signing Up and Preparing for the GRE
 
-Sign up to take the GRE is done on the [ETS website](https://www.ets.org/gre/revised_general/about/fees). Taking the computer test requires a free ETS account, then the test taker can sign up for a test date and center—although they must register at least two calendar days prior to the planned test date. Payment for the test can be made via credit or debit card, [e-check](https://www.investopedia.com/terms/e/electroniccheck.asp), paper check, or [PayPal](https://www.investopedia.com/terms/p/paypal.asp).
+Sign up to take the GRE is done on the [[ETS website]](https://www.ets.org/gre/revised_general/about/fees). Taking the computer test requires a free ETS account, then the test taker can sign up for a test date and center—although they must register at least two calendar days prior to the planned test date. Payment for the test can be made via credit or debit card, [[e-check]](https://www.investopedia.com/terms/e/electroniccheck.asp), paper check, or [[PayPal]](https://www.investopedia.com/terms/p/paypal.asp).
 
 In terms of preparing for the GRE, the ETS site offers a range of resources—most of them free. ETS offers free practice tests, math skills review with definitions and examples, and instructional videos. ETS also offers paid materials, which includes a number of additional practice tests. As well, there are section-specific questions, such as verbal reasoning, that can be purchased. There are also online writing practice features available through the service, which allows you to write two essays and get scores and feedback.

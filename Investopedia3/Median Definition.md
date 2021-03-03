@@ -27,7 +27,7 @@ The median is the middle number in a sorted, ascending or descending, list of nu
 
 ## Understanding the Median
 
-Median is the middle number in a sorted list of numbers. To determine the median value in a sequence of numbers, the numbers must first be sorted, or arranged, in value order from lowest to highest or highest to lowest. The median can be used to determine an approximate average, or [mean](https://www.investopedia.com/terms/m/mean.asp), but is not to be confused with the actual mean.
+Median is the middle number in a sorted list of numbers. To determine the median value in a sequence of numbers, the numbers must first be sorted, or arranged, in value order from lowest to highest or highest to lowest. The median can be used to determine an approximate average, or [[mean]](https://www.investopedia.com/terms/m/mean.asp), but is not to be confused with the actual mean.
 
 -   If there is an odd amount of numbers, the median value is the number that is in the middle, with the same amount of numbers below and above.
 -   If there is an even amount of numbers in the list, the middle pair must be determined, added together, and divided by two to find the median value.

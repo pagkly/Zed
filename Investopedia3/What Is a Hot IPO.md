@@ -16,7 +16,7 @@ author: Staff
 What Is a Hot IPO?
 ## What Is a Hot IPO?
 
-A hot IPO is an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) of equity in a company that appeals to many investors and for which there is an elevated demand for its stock.
+A hot IPO is an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) of equity in a company that appeals to many investors and for which there is an elevated demand for its stock.
 
 There are other ways to go public other than an IPO, including a direct listing or direct public offering. When a company starts the IPO process, a specific set of events take place facilitated by chosen bank underwriters.
 
@@ -31,7 +31,7 @@ There are other ways to go public other than an IPO, including a direct listing
 
 Companies that opt to issue stock via an IPO can raise a substantial amount of money in a short time, particularly if the issuance attracts public attention and becomes a hot IPO. An initial public offering gives a private company a chance to cash in on the public’s demand for its shares.
 
-When a company decides to make such an offering, it typically finds one or more investment banks to [underwrite](https://www.investopedia.com/terms/u/underwriting.asp) the issuance and make arrangements to sell shares on public stock exchanges. The underwriters market the IPO as they help the company set a per-share price. The underwriting banks will assume a specific number of shares, which they will offer to their buyers, and collect a portion of the sale proceeds as a fee. These buyers may be institutional or retail clients. The part they receive is the [underwriting spread](https://www.investopedia.com/terms/u/underwritingspread.asp).
+When a company decides to make such an offering, it typically finds one or more investment banks to [[underwrite]](https://www.investopedia.com/terms/u/underwriting.asp) the issuance and make arrangements to sell shares on public stock exchanges. The underwriters market the IPO as they help the company set a per-share price. The underwriting banks will assume a specific number of shares, which they will offer to their buyers, and collect a portion of the sale proceeds as a fee. These buyers may be institutional or retail clients. The part they receive is the [[underwriting spread]](https://www.investopedia.com/terms/u/underwritingspread.asp).
 
 ## Oversubscribed Hot IPO
 

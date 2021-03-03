@@ -16,11 +16,11 @@ author: Chris B Murphy
 Operating Ratio
 ## What Is the Operating Ratio?
 
-The operating ratio shows the efficiency of a company's management by comparing the total [operating expense](https://www.investopedia.com/terms/o/operating_expense.asp) (OPEX) of a company to net sales. The operating ratio shows how efficient a company's management is at keeping costs low while generating revenue or sales. The smaller the ratio, the more efficient the company is at generating revenue vs. total expenses.
+The operating ratio shows the efficiency of a company's management by comparing the total [[operating expense]](https://www.investopedia.com/terms/o/operating_expense.asp) (OPEX) of a company to net sales. The operating ratio shows how efficient a company's management is at keeping costs low while generating revenue or sales. The smaller the ratio, the more efficient the company is at generating revenue vs. total expenses.
 
 ### Key Takeaways
 
--   The operating ratio shows the efficiency of a company's management by comparing the total operating expense of a company to [net sales](https://www.investopedia.com/terms/n/netsales.asp).
+-   The operating ratio shows the efficiency of a company's management by comparing the total operating expense of a company to [[net sales]](https://www.investopedia.com/terms/n/netsales.asp).
 -   An operating ratio that is decreasing is viewed as a positive sign, as it indicates that operating expenses are becoming an increasingly smaller percentage of net sales.
 -   A limitation of the operating ratio is that it doesn't include debt.
 
@@ -30,7 +30,7 @@ The calculation for the operating ratio is:
 
 OperatingRatio\=OperatingExpenses+CostofGoodsSoldNetSalesOperating\\, Ratio = \\frac{Operating\\, Expenses\\, +\\, Cost\\, of\\, Goods\\, Sold}{Net\\, Sales}
 
-1.  From a company's income statement take the total [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp), which can also be called cost of sales.
+1.  From a company's income statement take the total [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp), which can also be called cost of sales.
 2.  Find total operating expenses, which should be farther down the income statement.
 3.  Add total operating expenses and cost of goods sold or COGS and plug the result into the numerator of the formula.
 4.  Divide the sum of operating expenses and COGS by the total net sales.
@@ -38,18 +38,18 @@ OperatingRatio\=OperatingExpenses+CostofGoodsSoldNetSalesOperating\\, Ratio = \\
 
 ## What Does the Operating Ratio Tell You?
 
-Investment analysts have many ways of analyzing company performance. Because it concentrates on core business activities, one of the most popular ways to analyze performance is by evaluating the operating ratio. Along with [return on assets](https://www.investopedia.com/terms/r/returnonassets.asp) and [return on equity](https://www.investopedia.com/terms/r/returnonequity.asp), it is often used to measure a company's operational efficiency. It is useful to track the operating ratio over a period of time to identify trends in operational efficiency or inefficiency.
+Investment analysts have many ways of analyzing company performance. Because it concentrates on core business activities, one of the most popular ways to analyze performance is by evaluating the operating ratio. Along with [[return on assets]](https://www.investopedia.com/terms/r/returnonassets.asp) and [[return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp), it is often used to measure a company's operational efficiency. It is useful to track the operating ratio over a period of time to identify trends in operational efficiency or inefficiency.
 
 An operating ratio that is going up is viewed as a negative sign, as this indicates that operating expenses are increasing relative to sales or revenue. Conversely, if the operating ratio is falling, expenses are decreasing, or revenue is increasing, or some combination of both. A company may need to implement cost controls for margin improvement if its operating ratio increases over time.
 
 ## Components of the Operating Ratio
 
-Operating expenses are essentially all expenses except taxes and interest payments. Also, companies will typically not include [non-operating expenses](https://www.investopedia.com/terms/n/non-operating-expense.asp) in the operating ratio.
+Operating expenses are essentially all expenses except taxes and interest payments. Also, companies will typically not include [[non-operating expenses]](https://www.investopedia.com/terms/n/non-operating-expense.asp) in the operating ratio.
 
-Operating expenses are the costs associated with running the business that is not directly tied to the production of the product or service. Operating expenses include [overhead expenses](https://www.investopedia.com/terms/o/overhead.asp) such as sales, general, and administrative costs. An example of overhead might be the expense of the corporate office for a company because although necessary, it's not directly tied to production. Operating expenses can include:
+Operating expenses are the costs associated with running the business that is not directly tied to the production of the product or service. Operating expenses include [[overhead expenses]](https://www.investopedia.com/terms/o/overhead.asp) such as sales, general, and administrative costs. An example of overhead might be the expense of the corporate office for a company because although necessary, it's not directly tied to production. Operating expenses can include:
 
 -   Accounting and legal fees
--   [Bank charges](https://www.investopedia.com/articles/pf/07/bank_fees.asp)
+-   [[Bank charges]](https://www.investopedia.com/articles/pf/07/bank_fees.asp)
 -   Sales and marketing costs
 -   Non-capitalized [research and development expenses](https://www.investopedia.com/terms/r/research-and-development-expenses.asp)
 -   Office supply costs
@@ -67,7 +67,7 @@ Operating expenses can also include the cost of goods sold, which are the expen
 
 Revenue or net sales is the top line of the income statement and is the amount of money a company generates before expenses are taken out. Some companies list revenue as net sales because they have returns of merchandise from customers whereby they credit the client back, which is deducted from revenue.
 
-All of these line items are listed on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp). Companies must clearly state which expenses are operational and which are designated for other uses.
+All of these line items are listed on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp). Companies must clearly state which expenses are operational and which are designated for other uses.
 
 ## Example of the Operating Ratio 
 
@@ -82,7 +82,7 @@ The operating ratio for Apple means that 78% of the company's net sales are oper
 
 ## Operating Ratio vs. Operating Expense Ratio
 
-The [operating expense ratio](https://www.investopedia.com/terms/o/operating-expense-ratio.asp) (OER) is used in the real estate industry and is a measurement of what it costs to operate a property compared to the income that the property generates. It is calculated by dividing a property's operating expense (minus depreciation) by its gross operating income. The OER is used for comparing the expenses of similar properties.
+The [[operating expense ratio]](https://www.investopedia.com/terms/o/operating-expense-ratio.asp) (OER) is used in the real estate industry and is a measurement of what it costs to operate a property compared to the income that the property generates. It is calculated by dividing a property's operating expense (minus depreciation) by its gross operating income. The OER is used for comparing the expenses of similar properties.
 
 On the other hand, the operating ratio is the comparison of a company's total expenses compared to the revenue or net sales generated. The operating ratio is used for company analysis in various industries while the OER is used in the real estate industry.
 

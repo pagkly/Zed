@@ -16,9 +16,9 @@ author: Michael Kramer
 Stop-Loss Order Definition
 ## What Is a Stop-Loss Order?
 
-A stop-loss order is an order placed with a broker to buy or sell a security when it reaches a certain price. Stop-loss orders are designed to limit an investor’s loss on a position in a security and are different from [stop-limit orders](https://www.investopedia.com/terms/s/stop-limitorder.asp). When a stock falls below the stop price the order becomes a [market order](https://www.investopedia.com/terms/m/marketorder.asp) and it executes at the next available price. For example, a trader may buy a stock and places a stop-loss order 10% below the purchase price. Should the stock drop, the stop-loss order would be activated, and the stock would be sold as a market order.
+A stop-loss order is an order placed with a broker to buy or sell a security when it reaches a certain price. Stop-loss orders are designed to limit an investor’s loss on a position in a security and are different from [[stop-limit orders]](https://www.investopedia.com/terms/s/stop-limitorder.asp). When a stock falls below the stop price the order becomes a [[market order]](https://www.investopedia.com/terms/m/marketorder.asp) and it executes at the next available price. For example, a trader may buy a stock and places a stop-loss order 10% below the purchase price. Should the stock drop, the stop-loss order would be activated, and the stock would be sold as a market order.
 
-Although most investors associate a stop-loss order with a long position, it can also protect a [short position](https://www.investopedia.com/terms/s/short.asp), in which case the security gets bought if it trades above a defined price.
+Although most investors associate a stop-loss order with a long position, it can also protect a [[short position]](https://www.investopedia.com/terms/s/short.asp), in which case the security gets bought if it trades above a defined price.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The one negative aspect of stop-loss is if a stock suddenly gaps lower below the
 
 A sell stop order refers to when a customer requests that a broker sell a security if it moves below a specified stop price. In a buy stop order, the stop price is set above the current market price.
 
-Investors may further enhance the efficacy of their [stop-loss order by combining it with a trailing stop](https://www.investopedia.com/articles/trading/08/trailing-stop-loss.asp). A trailing stop is a trade order where the stop-loss price isn't fixed at a specific dollar amount, but it is instead set at a certain percentage or dollar amount below the [market price](https://www.investopedia.com/terms/m/market-price.asp). 
+Investors may further enhance the efficacy of their [[stop-loss order by combining it with a trailing stop]](https://www.investopedia.com/articles/trading/08/trailing-stop-loss.asp). A trailing stop is a trade order where the stop-loss price isn't fixed at a specific dollar amount, but it is instead set at a certain percentage or dollar amount below the [market price](https://www.investopedia.com/terms/m/market-price.asp). 
 
 ## A Real World Example of a Stop-Loss Order
 

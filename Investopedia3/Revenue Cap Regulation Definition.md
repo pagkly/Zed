@@ -18,7 +18,7 @@ Revenue Cap Regulation Definition
 
 Revenue cap regulation seeks to limit the amount of total revenue that can be earned by a firm operating in an industry with no or few other competitors. An industry such as this, where one or a few companies control the entire production and sale of a good or service, is known as a monopoly or a concentrated industry.
 
-Revenue cap regulation is a form of incentive regulation that uses rewards and penalties and allows producers some discretion to reach the desired outcome for society. Revenue cap regulation is common in the [utility sector,](https://www.investopedia.com/terms/u/utilities_sector.asp) which includes many industries with monopolies sanctioned by a government, or [franchised monopoly](https://www.investopedia.com/terms/f/franchised-monopoly.asp) industries.
+Revenue cap regulation is a form of incentive regulation that uses rewards and penalties and allows producers some discretion to reach the desired outcome for society. Revenue cap regulation is common in the [[utility sector,]](https://www.investopedia.com/terms/u/utilities_sector.asp) which includes many industries with monopolies sanctioned by a government, or [[franchised monopoly]](https://www.investopedia.com/terms/f/franchised-monopoly.asp) industries.
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ Revenue cap regulation is a form of incentive regulation that uses rewards and p
 
 Governmental regulatory authorities impose revenue cap regulations on industries that have regulated monopolies, such as gas, water, and electric utility producers. Because these industries supply essential services to the populace, regulators seeking to balance the availability, affordability, and quality of the service with the costs incurred by producers to provide the service.
 
-Revenue cap regulation is similar to [price cap regulation](https://www.investopedia.com/terms/p/price-cap-regulation.asp), which seeks to control the prices companies can charge, and [rate of return regulation](https://www.investopedia.com/terms/r/rate-of-return-regulation.asp), which seeks to control the rate of return earned by companies.
+Revenue cap regulation is similar to [[price cap regulation]](https://www.investopedia.com/terms/p/price-cap-regulation.asp), which seeks to control the prices companies can charge, and [[rate of return regulation]](https://www.investopedia.com/terms/r/rate-of-return-regulation.asp), which seeks to control the rate of return earned by companies.
 
-Regulators can adjust revenue caps over time, with adjustments typically based on a formula incorporating increases in [inflation](https://www.investopedia.com/terms/i/inflation.asp) and a factor that favorably considers gains in efficiency. Inflation refers to the rate at which the value of money falls (or occasionally rises) over time; as inflation rises, revenue caps generally rise as well.
+Regulators can adjust revenue caps over time, with adjustments typically based on a formula incorporating increases in [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) and a factor that favorably considers gains in efficiency. Inflation refers to the rate at which the value of money falls (or occasionally rises) over time; as inflation rises, revenue caps generally rise as well.
 
-Gains in efficiency in the usage or production of a utility over time are also encouraged by revenue cap regulation. For example, because revenue cap regulation determines a level of revenue per year that a firm can collect from its customer base, producers have an incentive to encourage minimal demand per customer through the efficient use of energy (since they will not make any revenue from excess [demand](https://www.investopedia.com/terms/d/demand.asp) beyond the regulated revenue cap). Gains in efficiency generally result in an increase in the revenue cap imposed on a company as well.
+Gains in efficiency in the usage or production of a utility over time are also encouraged by revenue cap regulation. For example, because revenue cap regulation determines a level of revenue per year that a firm can collect from its customer base, producers have an incentive to encourage minimal demand per customer through the efficient use of energy (since they will not make any revenue from excess [[demand]](https://www.investopedia.com/terms/d/demand.asp) beyond the regulated revenue cap). Gains in efficiency generally result in an increase in the revenue cap imposed on a company as well.
 
 ## Advantages and Disadvantages of Revenue Cap Regulation
 

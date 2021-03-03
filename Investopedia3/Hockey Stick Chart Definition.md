@@ -16,7 +16,7 @@ author: Will Kenton
 Hockey Stick Chart Definition
 ## What is a Hockey Stick Chart?
 
-A hockey stick chart is a [line chart](https://www.investopedia.com/terms/l/linechart.asp) in which a sharp increase occurs suddenly after a short period of quiescence. The line connecting the data points resembles a hockey stick. Hockey stick charts have been used in the world of business and as a visual to show dramatic shifts, such as global temperatures and poverty statistics.
+A hockey stick chart is a [[line chart]](https://www.investopedia.com/terms/l/linechart.asp) in which a sharp increase occurs suddenly after a short period of quiescence. The line connecting the data points resembles a hockey stick. Hockey stick charts have been used in the world of business and as a visual to show dramatic shifts, such as global temperatures and poverty statistics.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A hockey stick chart is a [line chart](https://www.investopedia.com/terms/l/line
 
 ## Understanding Hockey Stick Charts
 
-A hockey stick is comprised of a blade, a small curve, and a long shaft. A hockey stick chart displays data low-level activity (y-axis) over a short period of time (x-axis), then a sudden bend indicative of an [inflection point](https://www.investopedia.com/terms/i/inflectionpoint.asp), and finally a long and straight rise at a steep angle.
+A hockey stick is comprised of a blade, a small curve, and a long shaft. A hockey stick chart displays data low-level activity (y-axis) over a short period of time (x-axis), then a sudden bend indicative of an [[inflection point]](https://www.investopedia.com/terms/i/inflectionpoint.asp), and finally a long and straight rise at a steep angle.
 
 The chart is typically observed in science labs, such as in the field of medicine or environmental studies. Scientists, for example, have plotted global warming data on a chart that follows a hockey stick pattern. Social scientists are also familiar with the chart. Some observations about the rate of increase in poverty have been delineated by this shape. The hockey stick chart can command immediate attention. A sudden and dramatic shift in the direction of data points from a flat period to what is visible in a hockey stick chart is a clear indicator that more focus should be given on causative factors. If the data shift occurs over a short time period, it is important to determine if the shift is an aberration or if it represents a fundamental change.
 

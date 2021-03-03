@@ -16,7 +16,7 @@ author: Troy Segal
 Inside Decision Support Systems—DSS
 ## What Is a Decision Support System?
 
-A decision support system (DSS) is a computerized program used to support determinations, judgments, and courses of action in an organization or a business. A DSS sifts through and analyzes massive amounts of data, compiling comprehensive information that can be used to solve problems and in [decision-making](https://www.investopedia.com/articles/investing/111113/advanced-game-theory-strategies-decisionmaking.asp).
+A decision support system (DSS) is a computerized program used to support determinations, judgments, and courses of action in an organization or a business. A DSS sifts through and analyzes massive amounts of data, compiling comprehensive information that can be used to solve problems and in [[decision-making]](https://www.investopedia.com/articles/investing/111113/advanced-game-theory-strategies-decisionmaking.asp).
 
 Typical information used by a DSS includes target or projected revenue, sales figures or past ones from different time periods, and other inventory- or operations-related data.
 
@@ -36,7 +36,7 @@ The DSS can either be completely computerized or powered by humans. In some case
 
 The DSS can be employed by operations management and other planning departments in an organization to compile information and data and to synthesize it into actionable intelligence. In fact, these systems are primarily used by mid- to upper-level management.
 
-For example, a DSS may be used to project a company's [revenue](https://www.investopedia.com/articles/stocks/07/top-line-projection.asp) over the upcoming six months based on new assumptions about product sales. Due to a large number of factors that surround projected revenue figures, this is not a straightforward calculation that can be done manually. However, a DSS can integrate all the multiple variables and generate an outcome and alternate outcomes, all based on the company's past product sales data and current variables.
+For example, a DSS may be used to project a company's [[revenue]](https://www.investopedia.com/articles/stocks/07/top-line-projection.asp) over the upcoming six months based on new assumptions about product sales. Due to a large number of factors that surround projected revenue figures, this is not a straightforward calculation that can be done manually. However, a DSS can integrate all the multiple variables and generate an outcome and alternate outcomes, all based on the company's past product sales data and current variables.
 
 A DSS can be tailored for any industry, profession, or domain including the medical field, government agencies, agricultural concerns, and corporate operations.
 

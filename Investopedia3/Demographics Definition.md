@@ -18,7 +18,7 @@ Demographics Definition
 
 Demographic analysis is the study of a population based on factors such as age, race, and sex. Demographic data refers to socio-economic information expressed statistically including employment, education, income, marriage rates, birth and death rates and more.
 
-Governments, corporations, and nongovernment organizations use demographics to learn more about a population's characteristics for many purposes, including policy development and economic [market research](https://www.investopedia.com/terms/m/market-research.asp).
+Governments, corporations, and nongovernment organizations use demographics to learn more about a population's characteristics for many purposes, including policy development and economic [[market research]](https://www.investopedia.com/terms/m/market-research.asp).
 
 For example, a company that sells high-end RVs may want to reach people nearing or at retirement age, and the percentage of those people who are able to afford their products.
 
@@ -30,7 +30,7 @@ For example, a company that sells high-end RVs may want to reach people nearing
 
 ## Understanding Demographics
 
-Demographic analysis is the collection and study of data regarding the general characteristics of specific [populations](https://www.investopedia.com/terms/p/population.asp). It is frequently used as a business marketing tool to determine the best way to reach customers and assess their behavior. Segmenting a population by using demographics allows companies to determine the size of a potential market.
+Demographic analysis is the collection and study of data regarding the general characteristics of specific [[populations]](https://www.investopedia.com/terms/p/population.asp). It is frequently used as a business marketing tool to determine the best way to reach customers and assess their behavior. Segmenting a population by using demographics allows companies to determine the size of a potential market.
 
 The use of demographics helps to determine whether its products and services are being targeted to that company's most important consumers. For example, market segments may identify a particular age group, such as baby boomers (born 1946-1964) or millennials (born 1981-1996), that have certain buying patterns and characteristics.
 
@@ -58,7 +58,7 @@ Demographics refers to the description or distribution of characteristics of som
 
 ### Who collects demographic data?
 
-The [U.S. Census Bureau](https://www.investopedia.com/terms/b/bureauofcensus.asp) collects demographic data on the American population every year through the American Community Survey (ACS) and every 10-years via an in-depth count of every American household. Companies use marketing departments or outsource to specialized marketing firms to collect demographics on users, customers, or prospective client groups. Academic researchers also collect demographic data for research purposes using various survey instruments. Political parties and campaigns also collect demographics in order to target messaging for political candidates.
+The [[U.S. Census Bureau]](https://www.investopedia.com/terms/b/bureauofcensus.asp) collects demographic data on the American population every year through the American Community Survey (ACS) and every 10-years via an in-depth count of every American household. Companies use marketing departments or outsource to specialized marketing firms to collect demographics on users, customers, or prospective client groups. Academic researchers also collect demographic data for research purposes using various survey instruments. Political parties and campaigns also collect demographics in order to target messaging for political candidates.
 
 ### Why do businesses need demographics?
 

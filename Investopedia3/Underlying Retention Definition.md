@@ -16,15 +16,15 @@ author: Julia Kagan
 Underlying Retention Definition
 ## What is Underlying Retention
 
-Underlying retention is the [net amount of risk](https://www.investopedia.com/terms/a/amount-at-risk.asp) or [liability](https://www.investopedia.com/terms/l/liability.asp) arising from an insurance policy or policies that is retained by a ceding company after reinsuring the balance amount of the risk or liability. The degree of underlying retention will vary depending on the ceding company's assessment of the risks involved in retaining part of the policy liability and the profitability of the insurance policy.
+Underlying retention is the [[net amount of risk]](https://www.investopedia.com/terms/a/amount-at-risk.asp) or [[liability]](https://www.investopedia.com/terms/l/liability.asp) arising from an insurance policy or policies that is retained by a ceding company after reinsuring the balance amount of the risk or liability. The degree of underlying retention will vary depending on the ceding company's assessment of the risks involved in retaining part of the policy liability and the profitability of the insurance policy.
 
 ## Understanding Underlying Retention
 
 Underlying retention enables an insurer to avoid payment of the reinsurance premium. The insurer will generally retain the most profitable policies or their lowest-risk components while reinsuring less profitable, higher-risk policies.
 
-Reinsurance, also known as insurance for insurers or [stop-loss insurance](https://www.investopedia.com/terms/a/aggregate-stop-loss-insurance.asp), is the practice of insurers transferring portions of risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an [insurance claim](https://www.investopedia.com/terms/i/insurance_claim.asp).
+Reinsurance, also known as insurance for insurers or [[stop-loss insurance]](https://www.investopedia.com/terms/a/aggregate-stop-loss-insurance.asp), is the practice of insurers transferring portions of risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an [insurance claim](https://www.investopedia.com/terms/i/insurance_claim.asp).
 
-Reinsurance allows insurers to remain solvent by recovering some or all of amounts paid to claimants. Reinsurance reduces net liability on individual risks and catastrophe protection from large or multiple losses. It also provides [ceding companies](https://www.investopedia.com/terms/c/ceding-company.asp) the capacity to increase their [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) capabilities in terms of the number and size of risks.1
+Reinsurance allows insurers to remain solvent by recovering some or all of amounts paid to claimants. Reinsurance reduces net liability on individual risks and catastrophe protection from large or multiple losses. It also provides [ceding companies](https://www.investopedia.com/terms/c/ceding-company.asp) the capacity to increase their [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) capabilities in terms of the number and size of risks.1
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Reinsurance allows insurers to remain solvent by recovering some or all of amoun
 -   The ceding company assesses risks involved in retaining part of the policy liability to select policies that can be retained in its portfolio.
 -   Underlying retention is used in cases of non-proportional reinsurance.
 
-By covering the insurer against accumulated individual commitments, reinsurance gives the insurer more security for its equity and [solvency](https://www.investopedia.com/terms/s/solvency.asp) and more stable results when unusual and major events occur. Insurers may [underwrite](https://www.investopedia.com/terms/u/underwriting.asp) policies covering a larger quantity or volume of risks without excessively raising administrative costs to cover their [solvency margins](https://www.investopedia.com/terms/s/solvencyratio.asp). In addition, reinsurance makes substantial liquid assets available for insurers in case of exceptional losses.
+By covering the insurer against accumulated individual commitments, reinsurance gives the insurer more security for its equity and [solvency](https://www.investopedia.com/terms/s/solvency.asp) and more stable results when unusual and major events occur. Insurers may [[underwrite]](https://www.investopedia.com/terms/u/underwriting.asp) policies covering a larger quantity or volume of risks without excessively raising administrative costs to cover their [[solvency margins]](https://www.investopedia.com/terms/s/solvencyratio.asp). In addition, reinsurance makes substantial liquid assets available for insurers in case of exceptional losses.
 
 ## Underlying Retention in Reinsurance
 

@@ -22,9 +22,9 @@ Redemptions can trigger capital gains or losses.
 
 ## Understanding Redemptions
 
-People who invest in fixed-income securities receive regular interest payments at a fixed value. These instruments can be redeemed before or on the [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp). If redeemed at the time of maturity, an investor receives the par value or the face value of the security.
+People who invest in fixed-income securities receive regular interest payments at a fixed value. These instruments can be redeemed before or on the [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp). If redeemed at the time of maturity, an investor receives the par value or the face value of the security.
 
-Corporations that issue bonds or other securities may pay investors a redemption value when they buy back their securities on or before the maturity date. Interest payments generally stop before they do this. The redemption value is typically higher than a bond's par value. So, redemption of these bonds, referred to as called bonds, is [at a premium](https://www.investopedia.com/terms/a/at-a-premium.asp) price above par.
+Corporations that issue bonds or other securities may pay investors a redemption value when they buy back their securities on or before the maturity date. Interest payments generally stop before they do this. The redemption value is typically higher than a bond's par value. So, redemption of these bonds, referred to as called bonds, is [[at a premium]](https://www.investopedia.com/terms/a/at-a-premium.asp) price above par.
 
 For a mutual fund investor to make a redemption, the investor must inform their fund manager of their request. The manager must process the request within a certain amount of time and distribute the funds to the investor. The amount owed to the investor is normally the current market value of their shares less any fees and other charges.
 
@@ -38,7 +38,7 @@ As consumers, we often make redemptions in our everyday lives. For example, a co
 
 ### Capital Gains and Losses on Redemptions
 
-The redemption of an investment may generate a capital gain or loss, both of which are recognized on fixed-income investments and mutual fund shares. Taxation of capital gains is reduced by capital losses recognized in the same year.1 Mutual fund gains and [losses](https://www.investopedia.com/terms/c/capitalloss.asp) are included in the same capital gain calculation.
+The redemption of an investment may generate a capital gain or loss, both of which are recognized on fixed-income investments and mutual fund shares. Taxation of capital gains is reduced by capital losses recognized in the same year.1 Mutual fund gains and [[losses]](https://www.investopedia.com/terms/c/capitalloss.asp) are included in the same capital gain calculation.
 
 To compute the capital gain or loss on redemption, the investor must know the cost basis. Bonds can be purchased at a price other than the par or face amount of the bond.
 
@@ -56,8 +56,8 @@ ETFs are generally considered more tax-friendly than mutual funds. By issuing sh
 
 ### Mutual Fund Redemptions
 
-The redemption of fund shares to a mutual [fund company](https://www.investopedia.com/terms/f/fund_company.asp) must occur within seven days of receiving a request for redemption from the investor. Because mutual funds are priced only once per day, investors who wish to redeem their money must place the order before the market's close or the time set by the mutual fund. Money is redeemed at the fund's net asset value (NAV) for the day, which is calculated as the sum of the value of the assets of a fund less than its liabilities. Once the sale is completed, clients typically receive their funds including any gains via check or direct deposit to their bank account.
+The redemption of fund shares to a mutual [[fund company]](https://www.investopedia.com/terms/f/fund_company.asp) must occur within seven days of receiving a request for redemption from the investor. Because mutual funds are priced only once per day, investors who wish to redeem their money must place the order before the market's close or the time set by the mutual fund. Money is redeemed at the fund's net asset value (NAV) for the day, which is calculated as the sum of the value of the assets of a fund less than its liabilities. Once the sale is completed, clients typically receive their funds including any gains via check or direct deposit to their bank account.
 
-Some mutual funds may have redemption fees attached in the form of a [back-end load](https://www.investopedia.com/terms/b/back-end-load.asp). A back-end load is a sales charge—a percentage of the fund's value that declines over time. If the investor holds the fund shares for a longer amount of time, the back-end load charged when the shares are redeemed is smaller.
+Some mutual funds may have redemption fees attached in the form of a [[back-end load]](https://www.investopedia.com/terms/b/back-end-load.asp). A back-end load is a sales charge—a percentage of the fund's value that declines over time. If the investor holds the fund shares for a longer amount of time, the back-end load charged when the shares are redeemed is smaller.
 
 Investments in mutual funds are designed for individuals who buy and hold fund shares for the long term and selling fund shares after a short period of time results in higher costs to the investor. The investor pays sales charges and annual fees for professional portfolio management and the fund's accounting and legal costs.

@@ -16,11 +16,11 @@ author: Mitchell Grant
 Understanding Dematerialization (DEMAT)
 ## What Is Dematerialization (DEMAT)?
 
-Dematerialization (DEMAT) is the move from physical certificates to electronic bookkeeping. Actual [stock certificates](https://www.investopedia.com/terms/s/stockcertificate.asp) are then removed and retired from circulation in exchange for electronic recording.
+Dematerialization (DEMAT) is the move from physical certificates to electronic bookkeeping. Actual [[stock certificates]](https://www.investopedia.com/terms/s/stockcertificate.asp) are then removed and retired from circulation in exchange for electronic recording.
 
 ## How Dematerialization Works
 
-With the age of computers and the [Depository Trust Company](https://www.investopedia.com/terms/d/dtc.asp), securities no longer need to be in certificate form. They can be registered and transferred electronically.
+With the age of computers and the [[Depository Trust Company]](https://www.investopedia.com/terms/d/dtc.asp), securities no longer need to be in certificate form. They can be registered and transferred electronically.
 
 Through dematerialization, so-called DEMAT accounts allow for electronic transactions when shares of stock are bought and sold. Within a DEMAT account, the certificates for stocks and other securities of the user are held as a means for seamless trades to be made.
 
@@ -32,9 +32,9 @@ The introduction of dematerialization served to eliminate such a paper-oriented 
 
 ## The Benefits of Dematerialization
 
-Dematerialization applies not only to stocks, but also to other forms of investment such as bonds, [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), and government securities. The use of dematerialization and DEMAT accounts is comparable to using a bank and bank accounts to maintain one’s assets rather than personally storing and exchanging paper money each time a transaction is made.
+Dematerialization applies not only to stocks, but also to other forms of investment such as bonds, [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp), and government securities. The use of dematerialization and DEMAT accounts is comparable to using a bank and bank accounts to maintain one’s assets rather than personally storing and exchanging paper money each time a transaction is made.
 
-Using a [debit card](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp) at a store creates a digital record of purchase and the amount is deducted from the cardholder’s account. Funds are exchanged between buyers and sellers without paper currency. Likewise, with dematerialization, the stock transactions are completed without physical certificates.
+Using a [[debit card]](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp) at a store creates a digital record of purchase and the amount is deducted from the cardholder’s account. Funds are exchanged between buyers and sellers without paper currency. Likewise, with dematerialization, the stock transactions are completed without physical certificates.
 
 Brokers or other intermediaries will typically retain the electronic records of the transactions associated with the assets.
 

@@ -16,7 +16,7 @@ author: Alexandra Twin
 How the Delphi Method Works
 ## What Is the Delphi Method?
 
-The Delphi method is a [forecasting](https://www.investopedia.com/terms/f/forecasting.asp) process framework based on the results of multiple rounds of questionnaires sent to a panel of experts. Several rounds of questionnaires are sent out to the group of experts, and the anonymous responses are aggregated and shared with the group after each round. The experts are allowed to adjust their answers in subsequent rounds, based on how they interpret the "group response" that has been provided to them. Since multiple rounds of questions are asked and the panel is told what the group thinks as a whole, the Delphi method seeks to reach the correct response through consensus.1
+The Delphi method is a [[forecasting]](https://www.investopedia.com/terms/f/forecasting.asp) process framework based on the results of multiple rounds of questionnaires sent to a panel of experts. Several rounds of questionnaires are sent out to the group of experts, and the anonymous responses are aggregated and shared with the group after each round. The experts are allowed to adjust their answers in subsequent rounds, based on how they interpret the "group response" that has been provided to them. Since multiple rounds of questions are asked and the panel is told what the group thinks as a whole, the Delphi method seeks to reach the correct response through consensus.1
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ The Delphi method is a [forecasting](https://www.investopedia.com/terms/f/foreca
 
 ## Understanding the Delphi Method
 
-The Delphi method was originally conceived in the 1950s by Olaf Helmer and Norman Dalkey of the Rand Corporation. The name refers to the Oracle of Delphi, a priestess at a temple of Apollo in ancient Greece known for her prophecies. The Delphi method allows experts to work toward a [mutual agreement](https://www.investopedia.com/terms/m/meeting-of-the-minds.asp) by conducting a circulating series of questionnaires and releasing related feedback to further the discussion with each subsequent round. The experts' responses shift as rounds are completed based on the information brought forth by other experts participating in the analysis.1
+The Delphi method was originally conceived in the 1950s by Olaf Helmer and Norman Dalkey of the Rand Corporation. The name refers to the Oracle of Delphi, a priestess at a temple of Apollo in ancient Greece known for her prophecies. The Delphi method allows experts to work toward a [[mutual agreement]](https://www.investopedia.com/terms/m/meeting-of-the-minds.asp) by conducting a circulating series of questionnaires and releasing related feedback to further the discussion with each subsequent round. The experts' responses shift as rounds are completed based on the information brought forth by other experts participating in the analysis.1
 
 The Delphi method is a process of arriving at group consensus by providing experts with rounds of questionnaires, as well as the group response before each subsequent round.
 

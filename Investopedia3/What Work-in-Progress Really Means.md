@@ -29,7 +29,7 @@ WIPs are one of the components on a company's balance sheet. The WIP figure refl
 
 ## Understanding Works-in-Progress (WIP)
 
-WIP is a concept used to describe the flow of manufacturing costs from one area of production to the next, and the balance in WIP represents all production costs incurred for partially completed goods. Production costs include raw materials, labor used in making goods, and allocated [overhead](https://www.investopedia.com/terms/o/overhead.asp).
+WIP is a concept used to describe the flow of manufacturing costs from one area of production to the next, and the balance in WIP represents all production costs incurred for partially completed goods. Production costs include raw materials, labor used in making goods, and allocated [[overhead]](https://www.investopedia.com/terms/o/overhead.asp).
 
 When the combs are manufactured, plastic is moved into production as a raw material; then, labor costs are incurred to operate molding equipment. Since the combs are only partially completed, all costs are posted to WIP. When the combs are completed, the costs are moved from WIP to finished goods, with both accounts being part of the inventory account. Costs are moved from "inventory" to "[cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp)" when the combs are eventually sold.
 
@@ -45,7 +45,7 @@ Accountants use several methods to determine the number of partially completed u
 
 For accounting purposes, process costing differs from job costing, which is a method used when each customer's job is different. Job costing tracks the costs (e.g., cost of materials, labor, and overhead) and profits for a specific job, and it allows accountants to trace expenses for each job for tax purposes and for analysis (scrutinizing costs to see how they can be reduced). 
 
-For example, XYZ Roofing Company provides its residential clients' [bids](https://www.investopedia.com/terms/b/bid.asp) for roof repair or replacement; each roof is a different size and will require specific roofing equipment and a varying number of labor hours. Each bid lists the labor, material, and overhead costs for the work.
+For example, XYZ Roofing Company provides its residential clients' [[bids]](https://www.investopedia.com/terms/b/bid.asp) for roof repair or replacement; each roof is a different size and will require specific roofing equipment and a varying number of labor hours. Each bid lists the labor, material, and overhead costs for the work.
 
 On the other hand, a process costing system tracks accumulates and assigns costs associated with the manufacturing of homogeneous products. Consider a company that manufactures plastic combs. The plastic is put into a mold in the molding department and is then painted before being packaged. As the combs move from one department (molding to painting to packaging) to another, more costs are added to production.
 

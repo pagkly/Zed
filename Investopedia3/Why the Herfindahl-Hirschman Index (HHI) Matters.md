@@ -36,15 +36,15 @@ HHI\=s12+s22+s32+…sn2where:sn\=the market share percentage of firm n expr
 
 ## How Does the Herfindahl-Hirschman Index Work?
 
-The closer a market is to a [monopoly](https://www.investopedia.com/terms/m/monopoly.asp), the higher the market's concentration (and the lower its competition). If, for example, there were only one firm in an industry, that firm would have 100% market share, and the Herfindahl-Hirschman Index (HHI) would equal 10,000, indicating a monopoly. If there were thousands of firms competing, each would have nearly 0% market share, and the HHI would be close to zero, indicating nearly perfect competition.
+The closer a market is to a [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp), the higher the market's concentration (and the lower its competition). If, for example, there were only one firm in an industry, that firm would have 100% market share, and the Herfindahl-Hirschman Index (HHI) would equal 10,000, indicating a monopoly. If there were thousands of firms competing, each would have nearly 0% market share, and the HHI would be close to zero, indicating nearly perfect competition.
 
-The U.S. Department of Justice considers a market with an HHI of less than 1,500 to be a competitive marketplace, an HHI of 1,500 to 2,500 to be a moderately concentrated marketplace, and an HHI of 2,500 or greater to be a highly concentrated marketplace. As a general rule, mergers that increase the HHI by more than 200 points in highly concentrated markets raise antitrust concerns, as they are assumed to enhance market power under section 5.3 of the Horizontal Merger Guidelines jointly issued by the department and the [Federal Trade Commission](https://www.investopedia.com/terms/f/ftc.asp) (FTC).1
+The U.S. Department of Justice considers a market with an HHI of less than 1,500 to be a competitive marketplace, an HHI of 1,500 to 2,500 to be a moderately concentrated marketplace, and an HHI of 2,500 or greater to be a highly concentrated marketplace. As a general rule, mergers that increase the HHI by more than 200 points in highly concentrated markets raise antitrust concerns, as they are assumed to enhance market power under section 5.3 of the Horizontal Merger Guidelines jointly issued by the department and the [[Federal Trade Commission]](https://www.investopedia.com/terms/f/ftc.asp) (FTC).1
 
 The primary advantage of the Herfindahl-Hirschman Index (HHI) is the simplicity of the calculation necessary to determine it and the small amount of data required for the calculation. The primary disadvantage of the HHI stems from the fact that it is such a simple measure that it fails to take into account the complexities of various markets in a way that allows for a genuinely accurate assessment of competitive or monopolistic market conditions.
 
 ## An Example of Herfindahl-Hirschman Index Calculations
 
-The HHI is calculated by taking the [market share](https://www.investopedia.com/terms/m/marketshare.asp) of each firm in the industry, squaring them, and summing the result, as depicted in the equation above.
+The HHI is calculated by taking the [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) of each firm in the industry, squaring them, and summing the result, as depicted in the equation above.
 
 Consider the following hypothetical industry with four total firms:
 

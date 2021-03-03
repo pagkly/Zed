@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding Externalities
 ## What Is an Externality?
 
-An externality is a cost or benefit caused by a producer that is not financially incurred or received by that producer. An externality can be both positive or negative and can stem from either the production or [consumption](https://www.investopedia.com/ask/answers/061615/what-difference-between-induced-consumption-and-autonomous-consumption.asp) of a good or service. The costs and benefits can be both private—to an individual or an organization—or social, meaning it can affect society as a whole.
+An externality is a cost or benefit caused by a producer that is not financially incurred or received by that producer. An externality can be both positive or negative and can stem from either the production or [[consumption]](https://www.investopedia.com/ask/answers/061615/what-difference-between-induced-consumption-and-autonomous-consumption.asp) of a good or service. The costs and benefits can be both private—to an individual or an organization—or social, meaning it can affect society as a whole.
 
 Externalities by nature are generally environmental, such as natural resources or public health. For example, a negative externality is a business that causes pollution that diminishes the property values or health of people in the surrounding area. A positive externality includes actions that reduce transmission of disease or avoids the use of lawn treatments that runoff to rivers and thus contribute to excess plant growth in lakes. Externalities are different from donations of parkland or open-source software.
 
@@ -24,7 +24,7 @@ Externalities by nature are generally environmental, such as natural resources o
 
 Externalities occur in an economy when the production or consumption of a specific good or service impacts a third party that is not directly related to the production or consumption of that good or service.
 
-Almost all externalities are considered to be technical externalities. Technical externalities have an impact on the consumption and production opportunities of unrelated third parties, but the price of consumption does not include the externalities. This exclusion creates a gap between the gain or loss of private individuals and the aggregate [gain](https://www.investopedia.com/terms/g/gain.asp) or loss of society as a whole.
+Almost all externalities are considered to be technical externalities. Technical externalities have an impact on the consumption and production opportunities of unrelated third parties, but the price of consumption does not include the externalities. This exclusion creates a gap between the gain or loss of private individuals and the aggregate [[gain]](https://www.investopedia.com/terms/g/gain.asp) or loss of society as a whole.
 
 The action of an individual or organization often results in positive private gains but detracts from the overall economy. Many economists consider technical externalities to be market deficiencies, and this is the reason people advocate for government intervention to curb negative externalities through taxation and regulation.
 
@@ -36,15 +36,15 @@ Most externalities are negative. Pollution is a well-known negative externality.
 
 However, the externality also increases the aggregate cost to the economy and society making it a negative externality. Externalities are negative when the social costs outweigh the private costs.
 
-Some externalities are positive. Positive externalities occur when there is a positive gain on both the private level and social level. [Research and development](https://www.investopedia.com/terms/r/randd.asp) (R&D) conducted by a company can be a positive externality. R&D increases the private profits of a company but also has the added benefit of increasing the general level of knowledge within a society.
+Some externalities are positive. Positive externalities occur when there is a positive gain on both the private level and social level. [[Research and development]](https://www.investopedia.com/terms/r/randd.asp) (R&D) conducted by a company can be a positive externality. R&D increases the private profits of a company but also has the added benefit of increasing the general level of knowledge within a society.
 
 Similarly, the emphasis on education is also a positive externality. Investment in education leads to a smarter and more intelligent workforce. Companies benefit from hiring employees who are educated because they are knowledgeable. This benefits employers because a better-educated workforce requires less investment in employee training and development costs.
 
 ## Overcoming Externalities
 
-There are solutions that exist to overcome the negative effects of externalities. These can include those from both the public and [private sectors](https://www.investopedia.com/terms/p/private-sector.asp).
+There are solutions that exist to overcome the negative effects of externalities. These can include those from both the public and [[private sectors]](https://www.investopedia.com/terms/p/private-sector.asp).
 
-Taxes are one solution to overcoming externalities. To help reduce the negative effects of certain externalities such as pollution, governments can impose a tax on the goods causing the externalities. The tax, called a [Pigovian tax](https://www.investopedia.com/terms/p/pigoviantax.asp)—named after economist Arthur C. Pigou, sometimes called a Pigouvian tax—is considered to be equal to the value of the negative externality. This tax is meant to discourage activities that impose a net cost to an unrelated third party. That means that the imposition of this type of tax will reduce the market outcome of the externality to an amount that is considered efficient.
+Taxes are one solution to overcoming externalities. To help reduce the negative effects of certain externalities such as pollution, governments can impose a tax on the goods causing the externalities. The tax, called a [[Pigovian tax]](https://www.investopedia.com/terms/p/pigoviantax.asp)—named after economist Arthur C. Pigou, sometimes called a Pigouvian tax—is considered to be equal to the value of the negative externality. This tax is meant to discourage activities that impose a net cost to an unrelated third party. That means that the imposition of this type of tax will reduce the market outcome of the externality to an amount that is considered efficient.
 
 [Subsidies](https://www.investopedia.com/terms/s/subsidy.asp) can also overcome negative externalities by encouraging the consumption of a positive externality. One example would be to subsidize orchards that plant fruit trees to provide positive externalities to beekeepers.
 

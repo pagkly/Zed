@@ -16,9 +16,9 @@ author: Will Kenton
 What Is an Oligopsony?
 ## Oligopsony: An Overview
 
-An oligopsony is a market for a product or service which is dominated by a few large buyers. The concentration of demand in just a few parties gives each substantial power over the [sellers](https://www.investopedia.com/terms/s/seller.asp) and can effectively keep prices down.
+An oligopsony is a market for a product or service which is dominated by a few large buyers. The concentration of demand in just a few parties gives each substantial power over the [[sellers]](https://www.investopedia.com/terms/s/seller.asp) and can effectively keep prices down.
 
-The opposite effect can be seen in an [oligopoly](https://www.investopedia.com/terms/o/oligopoly.asp). It is a market that is dominated by a few sellers, who can keep prices high in the absence of competition from alternative sources of supply.
+The opposite effect can be seen in an [[oligopoly]](https://www.investopedia.com/terms/o/oligopoly.asp). It is a market that is dominated by a few sellers, who can keep prices high in the absence of competition from alternative sources of supply.
 
 ## Understanding the Oligopsony
 

@@ -16,7 +16,7 @@ author: Cory Mitchell
 Introduction to the Qatari Riyal (QAR)
 ## What Is Qatari Riyal (QAR)?
 
-QAR is the [currency code](https://www.investopedia.com/terms/i/isocurrencycode.asp) for the Qatari riyal, the currency of the State of Qatar which is located along the coast of the Arabian Peninsula. The Qatari riyal is made up of 100 dirhams. The abbreviation for the currency is QR, in English. Riyal is also frequently referred to as rial.
+QAR is the [[currency code]](https://www.investopedia.com/terms/i/isocurrencycode.asp) for the Qatari riyal, the currency of the State of Qatar which is located along the coast of the Arabian Peninsula. The Qatari riyal is made up of 100 dirhams. The abbreviation for the currency is QR, in English. Riyal is also frequently referred to as rial.
 
 All Qatar notes and coins are issued by the Qatar Central Bank whose objectives include monetary stability and regulatory control of the currency.
 
@@ -29,11 +29,11 @@ All Qatar notes and coins are issued by the Qatar Central Bank whose objectives
 
 ## Understanding the Qatari Riyal (QAR)
 
-The Qatari riyal replaced the Qatar and Dubai riyal in 1973 when Dubai entered into the United Arab Emirates (UAE). At this time, Qatar began to issue its riyal separately. The Qatar and Dubai riyal came into force in 1966, at which time the previous currency, the Indian [rupee](https://www.investopedia.com/terms/i/inr.asp), was replaced due to India's devaluation of its currency.
+The Qatari riyal replaced the Qatar and Dubai riyal in 1973 when Dubai entered into the United Arab Emirates (UAE). At this time, Qatar began to issue its riyal separately. The Qatar and Dubai riyal came into force in 1966, at which time the previous currency, the Indian [[rupee]](https://www.investopedia.com/terms/i/inr.asp), was replaced due to India's devaluation of its currency.
 
-The riyal is pegged to the [U.S. dollar](https://www.investopedia.com/terms/forex/u/usd-united-states-dollar.asp) (USD) at 3.64 QAR per one USD, or USD/QAR = 3.64. The peg became official in 2001 when it was written into law by Royal Decree. Per the law, the currency will be maintained within a band between 3.6385 and 3.6415 riyals per USD.
+The riyal is pegged to the [[U.S. dollar]](https://www.investopedia.com/terms/forex/u/usd-united-states-dollar.asp) (USD) at 3.64 QAR per one USD, or USD/QAR = 3.64. The peg became official in 2001 when it was written into law by Royal Decree. Per the law, the currency will be maintained within a band between 3.6385 and 3.6415 riyals per USD.
 
-Because Qatar's economy is heavily dependent on commodities such as oil and [natural gas](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp), the pegging of its currency reduces potential economic shocks because these commodity prices are denominated in U.S. dollars. The oil and gas industry represents roughly half of the country's [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) and nearly all its exports.
+Because Qatar's economy is heavily dependent on commodities such as oil and [[natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp), the pegging of its currency reduces potential economic shocks because these commodity prices are denominated in U.S. dollars. The oil and gas industry represents roughly half of the country's [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) and nearly all its exports.
 
 ## QAR Currency Fluctuation and Bank Notes
 
@@ -47,7 +47,7 @@ As for banknotes, the Qatari riyal has bill denominations of one, five, 10, 50, 
 
 ## Example of Exchanging QAR for USD, and Vice Versa
 
-If traveling to Qatar, the [pegged](https://www.investopedia.com/terms/c/currency-peg.asp) exchange rate is one USD equals 3.64 QAR. Unfortunately, the live exchange is not the rate a traveler will get who wants QR cash. Banks and [currency exchange](https://www.investopedia.com/terms/c/currency-exchange.asp) services will typically charge a three to five percent service charge, and work this into the exchange rate they offer a client. Therefore, instead of getting QR3.64 for each one USD, the traveler will likely get 3.46, which is almost five percent less.
+If traveling to Qatar, the [[pegged]](https://www.investopedia.com/terms/c/currency-peg.asp) exchange rate is one USD equals 3.64 QAR. Unfortunately, the live exchange is not the rate a traveler will get who wants QR cash. Banks and [[currency exchange]](https://www.investopedia.com/terms/c/currency-exchange.asp) services will typically charge a three to five percent service charge, and work this into the exchange rate they offer a client. Therefore, instead of getting QR3.64 for each one USD, the traveler will likely get 3.46, which is almost five percent less.
 
 The currency exchange makes the money on the difference between the two rates.
 

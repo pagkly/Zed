@@ -16,13 +16,13 @@ author: James Chen
 Narrow Money Definition
 ## What is Narrow Money?
 
-Narrow money is a category of money supply that includes all physical money such as coins and currency,  [demand deposits](https://www.investopedia.com/terms/d/demanddeposit.asp) and other [liquid assets](https://www.investopedia.com/terms/l/liquidasset.asp) held by the central bank. In the United States, narrow money is classified as [M1](https://www.investopedia.com/terms/m/m1.asp) (M0 + demand accounts). In the United Kingdom, M0 is referenced as narrow money.
+Narrow money is a category of money supply that includes all physical money such as coins and currency,  [demand deposits](https://www.investopedia.com/terms/d/demanddeposit.asp) and other [[liquid assets]](https://www.investopedia.com/terms/l/liquidasset.asp) held by the central bank. In the United States, narrow money is classified as [[M1]](https://www.investopedia.com/terms/m/m1.asp) (M0 + demand accounts). In the United Kingdom, M0 is referenced as narrow money.
 
 ## Understanding Narrow Money
 
-The name is derived from the fact that M1/M0 are the narrowest or most restrictive forms of money that are the basis for the [medium of exchange](https://www.investopedia.com/terms/m/mediumofexchange.asp) within an economy. This category of money is considered to be the most readily available for transactions and commerce.
+The name is derived from the fact that M1/M0 are the narrowest or most restrictive forms of money that are the basis for the [[medium of exchange]](https://www.investopedia.com/terms/m/mediumofexchange.asp) within an economy. This category of money is considered to be the most readily available for transactions and commerce.
 
-The narrow money supply only contains the most liquid financial assets. These funds must be accessible on demand, which limits the category to physical notes and coins and funds held in the most accessible deposit accounts. According to the [Organisation for Economic Co-operation and Development](https://www.investopedia.com/terms/o/oecd.asp) (OECD), as of Dec. 2020, Hungary has the world's largest stock of narrow money, followed by Poland and Israel. The United States ranks fourth in terms of narrow money stock and New Zealand ranks fifth.1
+The narrow money supply only contains the most liquid financial assets. These funds must be accessible on demand, which limits the category to physical notes and coins and funds held in the most accessible deposit accounts. According to the [[Organisation for Economic Co-operation and Development]](https://www.investopedia.com/terms/o/oecd.asp) (OECD), as of Dec. 2020, Hungary has the world's largest stock of narrow money, followed by Poland and Israel. The United States ranks fourth in terms of narrow money stock and New Zealand ranks fifth.1
 
 Typically the availability of liquid money supply, whether long term or short term, should have a direct impact on its economic health. However, changes in the economy coupled with changes in the finance industry, has translated into an uncoupling of that direct relationship. The Federal Reserve does not implement its policy through changes in money supply. It focuses on interest rates instead. But it does track changes in narrow and broad money to formulate its response to the prevailing state of the economy.
 
@@ -37,7 +37,7 @@ The most accessible accounts, such as savings and checking deposit accounts, qua
 
 ## Narrow Money and Broad Money
 
-While M1/M0 are used to describe narrow money, M2/M3/M4 qualify as broad money and M4 represents the largest concept of the money supply. [Broad money](https://www.investopedia.com/terms/b/broad-money.asp) may include various deposit-based accounts that would take more than 24 hours to reach maturity and be considered accessible. These are often referred to as longer-term time deposits because their activity is restricted by a specific time requirement.
+While M1/M0 are used to describe narrow money, M2/M3/M4 qualify as broad money and M4 represents the largest concept of the money supply. [[Broad money]](https://www.investopedia.com/terms/b/broad-money.asp) may include various deposit-based accounts that would take more than 24 hours to reach maturity and be considered accessible. These are often referred to as longer-term time deposits because their activity is restricted by a specific time requirement.
 
 ## Narrow Money and the Money Supply
 

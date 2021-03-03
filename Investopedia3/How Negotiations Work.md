@@ -16,7 +16,7 @@ author: Will Kenton
 How Negotiations Work
 ## What Is a Negotiation?
 
-A negotiation is a strategic discussion that resolves an issue in a way that both parties find acceptable. In a negotiation, each party tries to persuade the other to agree with his or her point of view. By [negotiating](https://www.investopedia.com/articles/pf/07/negotiation_tips.asp), all involved parties try to avoid arguing but agree to reach some form of compromise.
+A negotiation is a strategic discussion that resolves an issue in a way that both parties find acceptable. In a negotiation, each party tries to persuade the other to agree with his or her point of view. By [[negotiating]](https://www.investopedia.com/articles/pf/07/negotiation_tips.asp), all involved parties try to avoid arguing but agree to reach some form of compromise.
 
 Negotiations involve some give and take, which means one party will always come out on top of the negotiation. The other, though, must concede—even if that concession is nominal.
 
@@ -41,11 +41,11 @@ Some negotiations require the use of a skilled negotiator such as an advocate, a
 
 ## Where Negotiations Take Place
 
-Many people assume that prices and offers are firm and final. But that's not necessarily true. In fact, many are actually flexible. Negotiating can be a way to come to agreements in a variety of areas: to reduce [debts](https://www.investopedia.com/terms/d/debt.asp), to lower the sale price of a house, to improve the conditions of a contract, or to get a better deal on a car.
+Many people assume that prices and offers are firm and final. But that's not necessarily true. In fact, many are actually flexible. Negotiating can be a way to come to agreements in a variety of areas: to reduce [[debts]](https://www.investopedia.com/terms/d/debt.asp), to lower the sale price of a house, to improve the conditions of a contract, or to get a better deal on a car.
 
-Say you want to buy a brand new SUV. The negotiation process usually begins between you and the salesperson with the [manufacturer's suggested retail price](https://www.investopedia.com/terms/m/manufacturers-suggested-retail-price-msrp.asp) (MSRP). This is the price the producer recommends the dealership use to sell the SUV. What many people don't know is that most dealerships typically sell below the MSRP—unless the make and model is very popular. You may approach the dealer with an offer below the MSRP price—one that the dealership may accept or counter. If you have good negotiating skills, you may be able to drive away with a great deal, even lower than the vehicle's invoice price. This is the price the manufacturer actually charges the dealer.
+Say you want to buy a brand new SUV. The negotiation process usually begins between you and the salesperson with the [[manufacturer's suggested retail price]](https://www.investopedia.com/terms/m/manufacturers-suggested-retail-price-msrp.asp) (MSRP). This is the price the producer recommends the dealership use to sell the SUV. What many people don't know is that most dealerships typically sell below the MSRP—unless the make and model is very popular. You may approach the dealer with an offer below the MSRP price—one that the dealership may accept or counter. If you have good negotiating skills, you may be able to drive away with a great deal, even lower than the vehicle's invoice price. This is the price the manufacturer actually charges the dealer.
 
-Negotiation is also an important skill when accepting a new job. The employer's first compensation offer is often not a company's best offer, and the employee can negotiate different terms such as higher pay, more vacation time, better [retirement](https://www.investopedia.com/terms/r/retirement.asp) benefits, and so on. Negotiating a job offer is particularly important because all future increases in compensation will be based on the initial offer.
+Negotiation is also an important skill when accepting a new job. The employer's first compensation offer is often not a company's best offer, and the employee can negotiate different terms such as higher pay, more vacation time, better [[retirement]](https://www.investopedia.com/terms/r/retirement.asp) benefits, and so on. Negotiating a job offer is particularly important because all future increases in compensation will be based on the initial offer.
 
 ## Key Factors in Negotiations
 

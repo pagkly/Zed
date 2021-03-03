@@ -16,7 +16,7 @@ author: Alexandra Twin
 What Is Risk Tolerance?
 ## What Is Risk Tolerance?
 
-[Risk tolerance](https://www.investopedia.com/articles/pf/07/risk_tolerance.asp) is the degree of [variability](https://www.investopedia.com/terms/v/variability.asp) in investment returns that an investor is willing to withstand in their [financial planning](https://www.investopedia.com/terms/f/financialplanner.asp). Risk tolerance is an important component in [investing](https://www.investopedia.com/terms/i/investing.asp). You should have a realistic understanding of your ability and willingness to stomach large [swings](https://www.investopedia.com/terms/s/swing.asp) in the value of your investments; if you take on too much risk, you might panic and sell at the wrong time.
+[Risk tolerance](https://www.investopedia.com/articles/pf/07/risk_tolerance.asp) is the degree of [[variability]](https://www.investopedia.com/terms/v/variability.asp) in investment returns that an investor is willing to withstand in their [[financial planning]](https://www.investopedia.com/terms/f/financialplanner.asp). Risk tolerance is an important component in [[investing]](https://www.investopedia.com/terms/i/investing.asp). You should have a realistic understanding of your ability and willingness to stomach large [[swings]](https://www.investopedia.com/terms/s/swing.asp) in the value of your investments; if you take on too much risk, you might panic and sell at the wrong time.
 
 Risk tolerance is often associated with age, although that is not the only determining factor. However, in a general sense, people who are younger and have a longer time horizon are often able to and are encouraged to take on greater risk than people older with a shorter-term horizon. Greater risk tolerance is often synonymous with equities and equity funds and ETFs, while lower risk tolerance is often associated with bonds, bond funds, and ETFs. But age itself shouldn't determine a switch in asset classes. Those with a higher net worth and more disposable income can also typically afford to take greater risks with their investments.
 
@@ -30,9 +30,9 @@ Risk tolerance is often associated with age, although that is not the only deter
 
 ## Understanding Risk Tolerance
 
-Risk tolerance assessments for investors abound, including risk-related surveys or questionnaires. As an investor, you may also want to review historical worst-case returns for different [asset classes](https://www.investopedia.com/terms/a/assetclasses.asp) to get an idea of how much money you would feel comfortable losing if your [investments](https://www.investopedia.com/terms/i/investment.asp) have a bad year or bad series of years. Other factors affecting risk tolerance are the [time horizon](https://www.investopedia.com/terms/t/timehorizon.asp) you have to invest, your future earning capacity, and the presence of other assets such as a home, pension, [Social Security](https://www.investopedia.com/terms/s/socialsecurity.asp), or an inheritance. In general, you can take greater risk with investable assets when you have other, more stable sources of funds available.
+Risk tolerance assessments for investors abound, including risk-related surveys or questionnaires. As an investor, you may also want to review historical worst-case returns for different [[asset classes]](https://www.investopedia.com/terms/a/assetclasses.asp) to get an idea of how much money you would feel comfortable losing if your [[investments]](https://www.investopedia.com/terms/i/investment.asp) have a bad year or bad series of years. Other factors affecting risk tolerance are the [[time horizon]](https://www.investopedia.com/terms/t/timehorizon.asp) you have to invest, your future earning capacity, and the presence of other assets such as a home, pension, [[Social Security]](https://www.investopedia.com/terms/s/socialsecurity.asp), or an inheritance. In general, you can take greater risk with investable assets when you have other, more stable sources of funds available.
 
-Risk tolerance is [different from risk capacity](https://www.investopedia.com/ask/answers/08/difference-between-risk-tolerance-and-risk-capacity.asp), which refers to the minimum amount of risk an investor has to tolerate in order to reach their investment goals, relative to their time frame and income.
+Risk tolerance is [[different from risk capacity]](https://www.investopedia.com/ask/answers/08/difference-between-risk-tolerance-and-risk-capacity.asp), which refers to the minimum amount of risk an investor has to tolerate in order to reach their investment goals, relative to their time frame and income.
 
 ## Aggressive Risk Tolerance
 
@@ -42,7 +42,7 @@ Aggressive investors tend to be market-savvy. A deep understanding of securities
 
 ## Moderate Risk Tolerance
 
-Moderate investors [accept some risk](https://www.investopedia.com/terms/a/accepting-risk.asp) to the principal but adopt a balanced approach with intermediate-term time horizons of five to 10 years. Combining large-company mutual funds with less volatile bonds and riskless securities, moderate investors often pursue a 50/50 structure. A typical strategy might involve investing half of the portfolio in a dividend-paying, growth fund.
+Moderate investors [[accept some risk]](https://www.investopedia.com/terms/a/accepting-risk.asp) to the principal but adopt a balanced approach with intermediate-term time horizons of five to 10 years. Combining large-company mutual funds with less volatile bonds and riskless securities, moderate investors often pursue a 50/50 structure. A typical strategy might involve investing half of the portfolio in a dividend-paying, growth fund.
 
 ## Conservative Risk Tolerance
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 Self-Regulatory Organization - SRO
 ## What Is a Self-Regulatory Organization (SRO)?
 
-A self-regulatory organization (SRO) is an entity such as a [non-governmental organization](https://www.investopedia.com/ask/answers/13/what-is-non-government-organization.asp), which has the power to create and enforce stand-alone industry and professional regulations and standards on its own. In the case of financial SROs, such as a stock exchange, the priority is to protect investors by establishing rules, regulations, and set standards of procedures which promote ethics, equality, and professionalism. 
+A self-regulatory organization (SRO) is an entity such as a [[non-governmental organization]](https://www.investopedia.com/ask/answers/13/what-is-non-government-organization.asp), which has the power to create and enforce stand-alone industry and professional regulations and standards on its own. In the case of financial SROs, such as a stock exchange, the priority is to protect investors by establishing rules, regulations, and set standards of procedures which promote ethics, equality, and professionalism. 
 
 ### Key Takeaways
 
@@ -44,21 +44,21 @@ An additional function undertaken by the SRO is educating investors on appropria
 
 ## Examples of Self-Regulatory Organizations Include:
 
--   The [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE)
+-   The [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE)
 -   The Financial Planning Association (FPA)
--   [Chicago Board of Trade](https://www.investopedia.com/terms/c/cbot.asp) (CBOT)
--   [American Council of Life Insurers](https://www.investopedia.com/terms/a/american-council-of-life-insurance.asp) (ACLI)
--   [Financial Industry Regulatory Authority, Inc](https://www.investopedia.com/terms/f/finra.asp). (FINRA)
+-   [[Chicago Board of Trade]](https://www.investopedia.com/terms/c/cbot.asp) (CBOT)
+-   [[American Council of Life Insurers]](https://www.investopedia.com/terms/a/american-council-of-life-insurance.asp) (ACLI)
+-   [[Financial Industry Regulatory Authority, Inc]](https://www.investopedia.com/terms/f/finra.asp). (FINRA)
 -   Fixed Income Clearing Corporation (FICC)
--   [Options Clearing Corporation](https://www.investopedia.com/terms/o/occ.asp) (OCC)
+-   [[Options Clearing Corporation]](https://www.investopedia.com/terms/o/occ.asp) (OCC)
 -   American Institute of Certified Public Accounts (AICPA)
 
 There may also be self-regulatory organizations specific to the country they serve, such as the Investment Industry Regulatory Organization of Canada (IIROC) and the Association of Mutual Funds in India (AMFI). Some industries may also create SROs with examples being the American Bar Association and the Institute of Nuclear Power Operations (INPO).
 
 ## Real World Example: FINRA
 
-As an example, the [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA) has the power to license securities dealers. Their authority includes the ability to audit dealers and associated firms and to ensure compliance with the standards currently in place. The goal is to promote ethical industry practices and improve transparency within the sector. 
+As an example, the [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA) has the power to license securities dealers. Their authority includes the ability to audit dealers and associated firms and to ensure compliance with the standards currently in place. The goal is to promote ethical industry practices and improve transparency within the sector. 
 
 FINRA also oversees arbitration between investors, brokers, and other involved parties. This oversight provides a standard to address various disputes although it also limits actions a firm may take outside of the system. FINRA is not a governmental organization. Instead, it is a private organization populated by member firms who consist of financial institutions, like broker-dealers and financial professionals. 
 
-The rules and regulations promoted and enforced by FINRA are, thus, under the auspices of a self-regulatory framework. Governmental laws or mandates fall under the control of the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC). The laws of the federal or state level of government will supersede any FINRA-specific regulations.
+The rules and regulations promoted and enforced by FINRA are, thus, under the auspices of a self-regulatory framework. Governmental laws or mandates fall under the control of the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). The laws of the federal or state level of government will supersede any FINRA-specific regulations.

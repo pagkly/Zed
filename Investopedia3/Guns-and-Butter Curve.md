@@ -16,7 +16,7 @@ author: Will Kenton
 Guns-and-Butter Curve
 ## What Is the Guns-and-Butter Curve?
 
-The [guns-and-butter](https://www.investopedia.com/ask/answers/08/guns-butter.asp) curve is the classic economic example of the production possibility curve, which demonstrates the idea of [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp). In a theoretical economy with only two goods, a choice must be made between how much of each good to produce. As an economy produces more guns (military spending) it must reduce its production of butter (food), and vice versa.
+The [[guns-and-butter]](https://www.investopedia.com/ask/answers/08/guns-butter.asp) curve is the classic economic example of the production possibility curve, which demonstrates the idea of [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp). In a theoretical economy with only two goods, a choice must be made between how much of each good to produce. As an economy produces more guns (military spending) it must reduce its production of butter (food), and vice versa.
 
 Image by Julie Bang © Investopedia 2020
 
@@ -30,7 +30,7 @@ Image by Julie Bang © Investopedia 2020
 
 In the chart, the red curve represents all possible choices of production for the economy. The black dots represent two possible choices of outputs. The point here is that every choice has an opportunity cost; you can get more of something only by giving up something else. Also, you'll notice that the curve is the limit to production. You cannot produce outside the curve unless there is an increase in productivity.
 
-Though the curve is meant to show a strict divide between only two options, production for [military spending](https://www.investopedia.com/articles/investing/072115/how-military-spending-affects-economy.asp) or food, it can also represent spending on military personnel, equipment, and operations versus all nonmilitary spending in an economy. This can include investments in domestic needs such as healthcare, education, utilities, and other services.
+Though the curve is meant to show a strict divide between only two options, production for [[military spending]](https://www.investopedia.com/articles/investing/072115/how-military-spending-affects-economy.asp) or food, it can also represent spending on military personnel, equipment, and operations versus all nonmilitary spending in an economy. This can include investments in domestic needs such as healthcare, education, utilities, and other services.
 
 ## Special Consideration: Economic Strategy
 

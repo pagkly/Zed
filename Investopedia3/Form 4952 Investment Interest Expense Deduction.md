@@ -16,9 +16,9 @@ author: Rajeev Dhir
 Form 4952: Investment Interest Expense Deduction
 ## What Is Form 4952: Investment Interest Expense Deduction?
 
-Form 4952: Investment Interest Expense Deduction is a tax form distributed by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) used to determine the amount of [investment interest expense](https://www.investopedia.com/terms/i/investment-interest-expense.asp) that can be deducted, as well as any interest expense that can be carried forward to a future tax year.1
+Form 4952: Investment Interest Expense Deduction is a tax form distributed by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) used to determine the amount of [[investment interest expense]](https://www.investopedia.com/terms/i/investment-interest-expense.asp) that can be deducted, as well as any interest expense that can be carried forward to a future tax year.1
 
-The IRS has different rules [taxpayers](https://www.investopedia.com/terms/t/taxpayer.asp) must follow depending on where the interest comes from and whether it is investment, personal, business, or mortgage-related. If an investor pays or [accrues](https://www.investopedia.com/terms/a/accrue.asp) interest on a loan and then uses the proceeds for several different purposes, the taxpayer may have to allocate the interest to ensure that the right interest rule is used.2
+The IRS has different rules [[taxpayers]](https://www.investopedia.com/terms/t/taxpayer.asp) must follow depending on where the interest comes from and whether it is investment, personal, business, or mortgage-related. If an investor pays or [[accrues]](https://www.investopedia.com/terms/a/accrue.asp) interest on a loan and then uses the proceeds for several different purposes, the taxpayer may have to allocate the interest to ensure that the right interest rule is used.2
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The IRS has different rules [taxpayers](https://www.investopedia.com/terms/t/tax
 
 ## Who Can File Form 4952: Investment Interest Expense Deduction?
 
-Form 4952: Investment Interest Expense Deduction must be filed by individuals, estates, or trusts seeking a deduction for investment interest expenses. That means if you borrow money for an investment, you may be able to get a [tax break](https://www.investopedia.com/terms/t/tax-break.asp). You can claim the interest on the investment as a deduction. Interest income may result from money borrowed specifically to purchase investments like parcels of land, commercial or residential investment properties, stocks, and non-tax-exempt bonds.
+Form 4952: Investment Interest Expense Deduction must be filed by individuals, estates, or trusts seeking a deduction for investment interest expenses. That means if you borrow money for an investment, you may be able to get a [[tax break]](https://www.investopedia.com/terms/t/tax-break.asp). You can claim the interest on the investment as a deduction. Interest income may result from money borrowed specifically to purchase investments like parcels of land, commercial or residential investment properties, stocks, and non-tax-exempt bonds.
 
 ## How to File Form 4952: Investment Interest Expense Deduction
 
@@ -50,7 +50,7 @@ The IRS limits the investment interest expense deduction to the taxpayer's net i
 
 According to the IRS, the following instances serve as exceptions to filing the form:
 
--   If the [investment interest expense](https://www.investopedia.com/terms/i/investment-interest-expense.asp) is less than your investment income from interest and ordinary dividends minus any [qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp).
+-   If the [[investment interest expense]](https://www.investopedia.com/terms/i/investment-interest-expense.asp) is less than your investment income from interest and ordinary dividends minus any [[qualified dividends]](https://www.investopedia.com/terms/q/qualifieddividend.asp).
 -   If you don't have any other deductible investment expense.
 -   There is no carryover of disallowed investment interest expense from the previous year.
 

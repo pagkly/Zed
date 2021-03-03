@@ -16,7 +16,7 @@ author: Jason Fernando
 What Is the Ex-Dividend Date?
 ## What Is the Ex-Dividend Date?
 
-The ex-dividend date, or ex-date for short, is one of four stages that companies go through when they pay [dividends](https://www.investopedia.com/terms/d/dividend.asp) to their shareholders. The ex-dividend date is important because it determines whether the buyer of a stock will be entitled to receive its upcoming dividend.
+The ex-dividend date, or ex-date for short, is one of four stages that companies go through when they pay [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) to their shareholders. The ex-dividend date is important because it determines whether the buyer of a stock will be entitled to receive its upcoming dividend.
 
 ### Key Takeaways
 

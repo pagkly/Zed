@@ -16,7 +16,7 @@ author: Julia Kagan
 Human-Life Approach
 ## What Is the Human-Life Approach?
 
-The human-life approach is a method of calculating the amount of [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) a family would need based on the financial loss they would incur if the insured person in the family were to pass away today.
+The human-life approach is a method of calculating the amount of [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) a family would need based on the financial loss they would incur if the insured person in the family were to pass away today.
 
 ### Key Takeaways
 
@@ -30,9 +30,9 @@ The human-life approach is a method of calculating the amount of [life insurance
 
 The human-life approach is usually calculated by taking into account a number of factors, including, but not limited to, the insured individual's age, gender, planned retirement age, occupation, annual wage, employment benefits, as well as the personal and financial information of the spouse and/or dependent children.
 
-Since the value of a human life has economic value only in its relation to other lives, such as a spouse or dependent children, this method is typically only used for families with working family members. The human-life approach contrasts with the [needs approach](https://www.investopedia.com/terms/n/needsapproach.asp).
+Since the value of a human life has economic value only in its relation to other lives, such as a spouse or dependent children, this method is typically only used for families with working family members. The human-life approach contrasts with the [[needs approach]](https://www.investopedia.com/terms/n/needsapproach.asp).
 
-When using the human-life approach, it's necessary to replace all of the income that's lost when an employed family member dies. This figure includes after-tax pay and makes adjustments for expenses (like a second car) incurred while earning that income. It also considers the value of [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) or other employee benefits.
+When using the human-life approach, it's necessary to replace all of the income that's lost when an employed family member dies. This figure includes after-tax pay and makes adjustments for expenses (like a second car) incurred while earning that income. It also considers the value of [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) or other employee benefits.
 
 ## The Human-Life Approach Calculation
 
@@ -40,11 +40,11 @@ When determining the life insurance amount needed for a family, there are many i
 
 **Step One:** Estimate the insured’s remaining lifetime earnings, taking into consideration both the “average” annual salary and potential future increases, which will have a significant impact on life insurance requirements.
 
-**Step Two:** Subtract a reasonable estimate of annual [income taxes](https://www.investopedia.com/terms/i/incometax.asp) and living expenses spent on the insured. This provides the actual salary needed to provide for family needs, minus the presence of the insured. As a rule of thumb, this figure should be close to about 70% of the pre-death income, although this number may vary from family to family, depending on individual budgets.
+**Step Two:** Subtract a reasonable estimate of annual [[income taxes]](https://www.investopedia.com/terms/i/incometax.asp) and living expenses spent on the insured. This provides the actual salary needed to provide for family needs, minus the presence of the insured. As a rule of thumb, this figure should be close to about 70% of the pre-death income, although this number may vary from family to family, depending on individual budgets.
 
 **Step Three:** Determine the length of time for which earnings will need to be replaced. This time period could be until the insured’s dependents are fully grown, and no longer require financial support, or until the insured's assumed retirement age.
 
-**Step Four:** Select a [discount rate](https://www.investopedia.com/terms/d/discountrate.asp) for future earnings. A conservative figure for this estimate would be the assumed rate of return on U.S. [Treasury bills](https://www.investopedia.com/terms/t/treasurybill.asp) or [notes](https://www.investopedia.com/terms/t/treasurynote.asp). This is needed because a life insurance company will leave a death benefit in an interest-bearing account.
+**Step Four:** Select a [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp) for future earnings. A conservative figure for this estimate would be the assumed rate of return on U.S. [[Treasury bills]](https://www.investopedia.com/terms/t/treasurybill.asp) or [[notes]](https://www.investopedia.com/terms/t/treasurynote.asp). This is needed because a life insurance company will leave a death benefit in an interest-bearing account.
 
 **Step Five:** Multiply the net salary needed by the length of time needed to determine the future earnings. Then, using the assumed rate of return, figure out the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of future earnings.
 

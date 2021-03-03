@@ -20,11 +20,11 @@ A distribution yield is the measurement of cash flow paid by an exchange-traded 
 
 ## Understanding Distribution Yield
 
-Distribution yields can be used as a metric for [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) comparisons for [annuity](https://www.investopedia.com/terms/a/annuity.asp) and fixed income investments, but basing the calculation on a single payment can distort the actual returns paid over longer periods.
+Distribution yields can be used as a metric for [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) comparisons for [[annuity]](https://www.investopedia.com/terms/a/annuity.asp) and fixed income investments, but basing the calculation on a single payment can distort the actual returns paid over longer periods.
 
-The calculation for distribution yields employs the most recent distribution, which may be interest, a [special dividend](https://www.investopedia.com/terms/s/specialdividend.asp), or a [capital gain](https://www.investopedia.com/terms/c/capitalgain.asp), and multiplies the payment by 12 to get an annualized total. The annualized total is then divided by the net asset value (NAV) to determine the distribution yield.
+The calculation for distribution yields employs the most recent distribution, which may be interest, a [[special dividend]](https://www.investopedia.com/terms/s/specialdividend.asp), or a [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp), and multiplies the payment by 12 to get an annualized total. The annualized total is then divided by the net asset value (NAV) to determine the distribution yield.
 
-While this metric is often used to compare [fixed income investments](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp), the single-payment calculation method can potentially extrapolate larger or smaller-than-normal payments into distribution yields that do not reflect the actual payments made over the [trailing 12 months](https://www.investopedia.com/terms/t/ttm.asp) or another representative period of time.
+While this metric is often used to compare [[fixed income investments]](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp), the single-payment calculation method can potentially extrapolate larger or smaller-than-normal payments into distribution yields that do not reflect the actual payments made over the [[trailing 12 months]](https://www.investopedia.com/terms/t/ttm.asp) or another representative period of time.
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ While this metric is often used to compare [fixed income investments](https://ww
 
 ## Calculating Distribution Yields
 
-The distribution of one-time special dividends can skew distribution yields higher than actual returns. When a [non-recurring dividend](https://www.investopedia.com/terms/s/specialdividend.asp) is paid by a company in a fund’s portfolio, the payment is included with the recurring dividends for that month. A yield calculated on a payment including a special dividend may reflect a larger distribution yield than is actually being paid by the fund.
+The distribution of one-time special dividends can skew distribution yields higher than actual returns. When a [[non-recurring dividend]](https://www.investopedia.com/terms/s/specialdividend.asp) is paid by a company in a fund’s portfolio, the payment is included with the recurring dividends for that month. A yield calculated on a payment including a special dividend may reflect a larger distribution yield than is actually being paid by the fund.
 
 Yield calculations based on distributions composed of interest and recurring dividends are generally more accurate than those using one-time or infrequent payments. The exclusion of non-recurring payments, however, can result in a distribution yield lower than the actual payouts during the preceding year.
 
@@ -41,17 +41,17 @@ Distribution yields generally provide a snapshot of income payments for investor
 
 ## Capital Gains and Distribution Yield
 
-Mutual funds and ETFs usually issue [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) distributions on an annual basis. These distributions represent the net trading profits realized during the year, which are divided into long-term and short-term gains. A distribution yield calculated using either of these payments has the potential to reflect an inaccurate annualized return.
+Mutual funds and ETFs usually issue [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) distributions on an annual basis. These distributions represent the net trading profits realized during the year, which are divided into long-term and short-term gains. A distribution yield calculated using either of these payments has the potential to reflect an inaccurate annualized return.
 
 For example, calculating the yield based on a long-term capital gain distribution greater than monthly interest payments results in a distribution yield higher than the amount paid to investors over the preceding year. On the other hand, a calculation using a capital gains distribution less than monthly interest payments results in a lower-than-actual distribution yield.
 
 ## SEC Yield Vs. Distribution Yield
 
-Investors often consider and compare the [SEC yield](https://www.investopedia.com/terms/s/secyield.asp), also known as the 30-day yield, with distribution yield while making an investment decision. While both estimates are estimates of bond returns, they are calculated differently. The SEC yield is an annualized figure based on returns over the most recent 30-day period. As outlined above, distribution yields are calculated taking into account returns over a 12-month period.
+Investors often consider and compare the [[SEC yield]](https://www.investopedia.com/terms/s/secyield.asp), also known as the 30-day yield, with distribution yield while making an investment decision. While both estimates are estimates of bond returns, they are calculated differently. The SEC yield is an annualized figure based on returns over the most recent 30-day period. As outlined above, distribution yields are calculated taking into account returns over a 12-month period.
 
 Opinions between analysts and investors are split over which yield is better to evaluate investment returns. Proponents of the SEC yield point to the fact that calculations for distribution yield vary between bond funds, making it an unreliable indicator of performance. Meanwhile, calculations for the SEC yield are standardized and determined by a centralized agency. Because it is based on yields from trailing periods, the distribution yield is also considered to be an inaccurate representation of current economic circumstances. According to Vanguard, the SEC yield approximates after-expenses yield an investor would receive yearly assuming bonds are held till maturity and income is reinvested.
 
-But bonds are rarely held till maturity by a majority of investors. For the most part, they are traded in the open market where conditions are constantly in a state of flux due to external circumstances. In [a 2008 note](https://www.morningstar.com/articles/240053/what-danger-lurks-behind-a-bond-funds-yield.html) discussing the importance of bond yields, research firm Morningstar made the case that 12-month yields offer a "more accurate picture" than the SEC yield because it accounts for 12 distinct dividend payments reflecting the bond's performance under a variety of different circumstances.
+But bonds are rarely held till maturity by a majority of investors. For the most part, they are traded in the open market where conditions are constantly in a state of flux due to external circumstances. In [[a 2008 note]](https://www.morningstar.com/articles/240053/what-danger-lurks-behind-a-bond-funds-yield.html) discussing the importance of bond yields, research firm Morningstar made the case that 12-month yields offer a "more accurate picture" than the SEC yield because it accounts for 12 distinct dividend payments reflecting the bond's performance under a variety of different circumstances.
 
 ## Example of Distribution Yield
 

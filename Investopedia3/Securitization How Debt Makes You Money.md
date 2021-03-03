@@ -16,19 +16,19 @@ author: James Chen
 Securitization: How Debt Makes You Money
 ## What Is Securitization?
 
-Securitization is the procedure where an issuer designs a marketable [financial instrument](https://www.investopedia.com/terms/f/financialinstrument.asp) by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) in the marketplace.
+Securitization is the procedure where an issuer designs a marketable [[financial instrument]](https://www.investopedia.com/terms/f/financialinstrument.asp) by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) in the marketplace.
 
-In theory, any financial asset can be securitized—that is, turned into a tradeable, [fungible](https://www.investopedia.com/terms/f/fungibility.asp) item of monetary value. In essence, this is what all securities are.
+In theory, any financial asset can be securitized—that is, turned into a tradeable, [[fungible]](https://www.investopedia.com/terms/f/fungibility.asp) item of monetary value. In essence, this is what all securities are.
 
-However, securitization most often occurs with loans and other assets that generate [receivables](https://www.investopedia.com/terms/r/receivables.asp) such as different types of consumer or commercial debt. It can involve the pooling of contractual debts such as auto loans and credit card debt obligations.
+However, securitization most often occurs with loans and other assets that generate [[receivables]](https://www.investopedia.com/terms/r/receivables.asp) such as different types of consumer or commercial debt. It can involve the pooling of contractual debts such as auto loans and credit card debt obligations.
 
 ## How Securitization Works
 
 In securitization, the company holding the assets—known as the originator—gathers the data on the assets it would like to remove from its associated balance sheets. For example, if it were a bank, it might be doing this with a variety of mortgages and personal loans it doesn't want to service anymore. This gathered group of assets is now considered a reference portfolio. The originator then sells the portfolio to an issuer who will create tradable securities. Created securities represent a stake in the assets in the portfolio. Investors will buy the created securities for a specified rate of return.
 
-Often the reference portfolio—the new, securitized financial instrument—is divided into different sections, called [tranches](https://www.investopedia.com/terms/t/tranches.asp). The tranches consist of the individual assets grouped by various factors, such as the type of loans, their maturity date, their interest rates, and the amount of remaining principal. As a result, each tranche carries different degrees of risk and offer different yields. Higher levels of risk correlate to higher interest rates the less-qualified borrowers of the underlying loans are charged, and the higher the risk, the higher the potential rate of return.
+Often the reference portfolio—the new, securitized financial instrument—is divided into different sections, called [[tranches]](https://www.investopedia.com/terms/t/tranches.asp). The tranches consist of the individual assets grouped by various factors, such as the type of loans, their maturity date, their interest rates, and the amount of remaining principal. As a result, each tranche carries different degrees of risk and offer different yields. Higher levels of risk correlate to higher interest rates the less-qualified borrowers of the underlying loans are charged, and the higher the risk, the higher the potential rate of return.
 
-[Mortgage-backed security](https://www.investopedia.com/terms/m/mbs.asp) (MBS) is a perfect example of securitization. After combining mortgages into one large portfolio, the issuer can divide the pool into smaller pieces based on each mortgage's [inherent risk](https://www.investopedia.com/terms/i/inherent-risk.asp) of default. These smaller portions then sell to investors, each packaged as a type of [bond](https://www.investopedia.com/terms/b/bond.asp).
+[Mortgage-backed security](https://www.investopedia.com/terms/m/mbs.asp) (MBS) is a perfect example of securitization. After combining mortgages into one large portfolio, the issuer can divide the pool into smaller pieces based on each mortgage's [[inherent risk]](https://www.investopedia.com/terms/i/inherent-risk.asp) of default. These smaller portions then sell to investors, each packaged as a type of [[bond]](https://www.investopedia.com/terms/b/bond.asp).
 
 By buying into the security, investors effectively take the position of the lender. Securitization allows the original lender or creditor to remove the associated assets from its balance sheets. With less liability on their balance sheets, they can underwrite additional loans. Investors profit as they earn a rate of return based on the associated principal and interest payments being made on the underlying loans and obligations by the debtors or borrowers.
 
@@ -42,7 +42,7 @@ By buying into the security, investors effectively take the position of the lend
 
 ## Benefits of Securitization
 
-The process of securitization creates liquidity by letting [retail investors](https://www.investopedia.com/terms/r/retailinvestor.asp) purchase shares in instruments that would normally be unavailable to them. For example, with an MBS an investor can buy portions of mortgages and receive regular returns as interest and principal payments. Without the securitization of mortgages, small investors may not be able to afford to buy into a large pool of mortgages.
+The process of securitization creates liquidity by letting [[retail investors]](https://www.investopedia.com/terms/r/retailinvestor.asp) purchase shares in instruments that would normally be unavailable to them. For example, with an MBS an investor can buy portions of mortgages and receive regular returns as interest and principal payments. Without the securitization of mortgages, small investors may not be able to afford to buy into a large pool of mortgages.
 
 Unlike some other investment vehicles, many loan-based securities are backed by tangible goods. Should a debtor cease the loan repayments on, say, his car or his house, it can be seized and liquidated to compensate those holding an interest in the debt.
 

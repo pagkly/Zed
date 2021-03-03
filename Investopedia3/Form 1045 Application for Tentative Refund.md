@@ -16,14 +16,14 @@ author: Julia Kagan
 Form 1045: Application for Tentative Refund
 ## What Is Form 1045: Application for Tentative Refund?
 
-Form 1045: Application for Tentative Refund is an [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) form used by individuals, [estates](https://www.investopedia.com/terms/e/estate.asp), and trusts to apply for a quick tax refund.1
+Form 1045: Application for Tentative Refund is an [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) form used by individuals, [[estates]](https://www.investopedia.com/terms/e/estate.asp), and trusts to apply for a quick tax refund.1
 
-According to the [instructions for Form 1045](https://www.irs.gov/pub/irs-pdf/f1045.pdf), the basis for the refund request must be for one of four reasons:
+According to the [[instructions for Form 1045]](https://www.irs.gov/pub/irs-pdf/f1045.pdf), the basis for the refund request must be for one of four reasons:
 
--   The carryback of a [net operating loss](https://www.investopedia.com/terms/n/netoperatingloss.asp) (NOL)
--   The carryback of an unused [general business credit](https://www.investopedia.com/terms/g/general-business-tax-credit.asp)
+-   The carryback of a [[net operating loss]](https://www.investopedia.com/terms/n/netoperatingloss.asp) (NOL)
+-   The carryback of an unused [[general business credit]](https://www.investopedia.com/terms/g/general-business-tax-credit.asp)
 -   The carryback of a net section 1256 contracts loss
--   An overpayment of tax due to a claim of right adjustment under [section 1341](https://www.investopedia.com/terms/s/section-1341-credit.asp)(b)(1)1
+-   An overpayment of tax due to a claim of right adjustment under [[section 1341]](https://www.investopedia.com/terms/s/section-1341-credit.asp)(b)(1)1
 
 The instructions for Form 1045 spell out what qualifies as a loss.
 
@@ -47,10 +47,10 @@ Form 1045: Application for Tentative Refund is not attached to an income tax ret
 
 ## How to File Form 1045: Application for Tentative Refund
 
-Taxpayers must file Form 1045 within one year after the end of the year in which the triggering incident—an NOL, unused credit, net [section 1256 contracts](https://www.investopedia.com/terms/s/section-1256-contract.asp) loss, or claim of right adjustment—arose.1
+Taxpayers must file Form 1045 within one year after the end of the year in which the triggering incident—an NOL, unused credit, net [[section 1256 contracts]](https://www.investopedia.com/terms/s/section-1256-contract.asp) loss, or claim of right adjustment—arose.1
 
-The first part of the form includes personal details including the name, address, and Social Security number of the filer. The next section includes questions about the nature of the carryback. The filer must then figure out the amount of the decrease in tax from the carryback for each year before the NOL or unused credit. The [taxpayer](https://www.investopedia.com/terms/t/taxpayer.asp) will sign and date the bottom of the form, along with the tax preparer, if any.
+The first part of the form includes personal details including the name, address, and Social Security number of the filer. The next section includes questions about the nature of the carryback. The filer must then figure out the amount of the decrease in tax from the carryback for each year before the NOL or unused credit. The [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp) will sign and date the bottom of the form, along with the tax preparer, if any.
 
 ## Other Relevant Forms
 
-While Form 1045 is filed separately from the taxpayer's main tax return, it should include the first two pages of [Form 1040](https://www.investopedia.com/terms/1/1040.asp), any [Form 4952](https://www.investopedia.com/terms/f/form-4952.asp), and all [Schedules K-1](https://www.investopedia.com/terms/s/schedule-k-1.asp).
+While Form 1045 is filed separately from the taxpayer's main tax return, it should include the first two pages of [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp), any [[Form 4952]](https://www.investopedia.com/terms/f/form-4952.asp), and all [[Schedules K-1]](https://www.investopedia.com/terms/s/schedule-k-1.asp).

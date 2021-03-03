@@ -16,7 +16,7 @@ author: James Chen
 What Is Nacha?
 ## What Is Nacha?
 
-Nacha is the steward of the electronic system that connects all U.S. bank accounts and facilitates the movement of money among them. According to the organization, $55.8 trillion moved through its [Automated Clearing House](https://www.investopedia.com/terms/a/ach.asp) (ACH) Network in 2019.1
+Nacha is the steward of the electronic system that connects all U.S. bank accounts and facilitates the movement of money among them. According to the organization, $55.8 trillion moved through its [[Automated Clearing House]](https://www.investopedia.com/terms/a/ach.asp) (ACH) Network in 2019.1
 
 Previously known as the National Automated Clearinghouse Association, Nacha is a non-profit association that is funded by the financial institutions that use its network. Nacha and the Interactive Financial eXchange (IFX) Forum merged in 2018, an international industry association that develops specifications for financial data systems.2
 
@@ -28,7 +28,7 @@ Previously known as the National Automated Clearinghouse Association, Nacha is 
 
 ## Understanding Nacha
 
-The ACH network enables billions of electronic financial transactions, including direct deposits, Social Security and government benefits statements, electronic bill payments, person-to-person (P2P), and [business-to-business](https://www.investopedia.com/terms/b/btob.asp) (B2B) payments.1 
+The ACH network enables billions of electronic financial transactions, including direct deposits, Social Security and government benefits statements, electronic bill payments, person-to-person (P2P), and [[business-to-business]](https://www.investopedia.com/terms/b/btob.asp) (B2B) payments.1 
 
 Nacha merged with the Interactive Financial eXchange (IFX) Forum in 2018.2
 
@@ -60,4 +60,4 @@ In November 2019, Nacha unveiled an initiative called the Faster Payments Playbo
 
 Nacha also provides services in education and accreditation; industry engagement with financial institutions, businesses and government; and advocacy resources.
 
-Nacha’s API Standardization Industry Group (ASIG) supports the advancement and use of standardized [Application Programming Interfaces](https://www.investopedia.com/terms/a/application-programming-interface.asp) (APIs) within the U.S. financial services industry.7
+Nacha’s API Standardization Industry Group (ASIG) supports the advancement and use of standardized [[Application Programming Interfaces]](https://www.investopedia.com/terms/a/application-programming-interface.asp) (APIs) within the U.S. financial services industry.7

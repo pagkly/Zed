@@ -16,9 +16,9 @@ author: James Chen
 Rally
 ## What Is a Rally?
 
-A rally is a period of sustained increases in the prices of stocks, bonds, or related indexes. A rally usually involves rapid or substantial upside moves over a relatively short period of time. This type of price movement can happen during either a bull or a bear market, when it is known as either a [bull market](https://www.investopedia.com/terms/b/bullmarket.asp) rally or a [bear market rally](https://www.investopedia.com/terms/b/bear-market-rally.asp), respectively. However, a rally will typically follow a period of flat or declining prices.
+A rally is a period of sustained increases in the prices of stocks, bonds, or related indexes. A rally usually involves rapid or substantial upside moves over a relatively short period of time. This type of price movement can happen during either a bull or a bear market, when it is known as either a [[bull market]](https://www.investopedia.com/terms/b/bullmarket.asp) rally or a [[bear market rally]](https://www.investopedia.com/terms/b/bear-market-rally.asp), respectively. However, a rally will typically follow a period of flat or declining prices.
 
-A rally may be contrasted with a [correction](https://www.investopedia.com/terms/c/correction.asp) or market [crash](https://www.investopedia.com/terms/s/stock-market-crash.asp), which is a rapid or substantial downward move in short-term prices.
+A rally may be contrasted with a [[correction]](https://www.investopedia.com/terms/c/correction.asp) or market [[crash]](https://www.investopedia.com/terms/s/stock-market-crash.asp), which is a rapid or substantial downward move in short-term prices.
 
 ### Key Takeaways
 
@@ -34,16 +34,16 @@ A rally is caused by a significant increase in demand resulting from a large inf
 
 For example, if there is a large pool of buyers but few investors willing to sell, there is likely to be a large rally. If, however, the same large pool of buyers is matched by a similar amount of sellers, the rally is likely to be short and the price movement minimal.
 
-A rally can be confirmed by various technical indicators. [Oscillators](https://www.investopedia.com/terms/o/oscillator.asp) immediately begin to assume overbought conditions. Trend indicators start shifting to uptrend indications. Price action begins to display higher highs with strong [volume](https://www.investopedia.com/terms/v/volumeoftrade.asp) and higher lows with weak volume. Price resistance levels are approached and broken through.
+A rally can be confirmed by various technical indicators. [[Oscillators]](https://www.investopedia.com/terms/o/oscillator.asp) immediately begin to assume overbought conditions. Trend indicators start shifting to uptrend indications. Price action begins to display higher highs with strong [[volume]](https://www.investopedia.com/terms/v/volumeoftrade.asp) and higher lows with weak volume. Price resistance levels are approached and broken through.
 
 ## Underlying Causes of Rallies
 
 The causes of rallies vary. Short-term rallies can result from news stories or events that create a short-term imbalance in supply and demand. Sizeable buying activity in a particular stock or sector by a large fund, or an introduction of a new product by a popular brand, can have a similar effect that results in a short-term rally. For example, almost every time Apple Inc. has launched a new iPhone, its stock has enjoyed a rally over the following months.
 
-Longer term rallies are typically the outcome of events with a longer-term impact such as changes in government tax or [fiscal policy](https://www.investopedia.com/terms/f/fiscalpolicy.asp), business regulation, or interest rates. Economic data announcements that signal positive changes in business and economic cycles also have a longer lasting impact that may cause shifts in investment capital from one sector to another. For example, a significant lowering of interest rates may cause investors to shift from fixed income instruments to [equities](https://www.investopedia.com/terms/e/equity.asp). This could create the conditions for a rally in the equities markets.
+Longer term rallies are typically the outcome of events with a longer-term impact such as changes in government tax or [[fiscal policy]](https://www.investopedia.com/terms/f/fiscalpolicy.asp), business regulation, or interest rates. Economic data announcements that signal positive changes in business and economic cycles also have a longer lasting impact that may cause shifts in investment capital from one sector to another. For example, a significant lowering of interest rates may cause investors to shift from fixed income instruments to [[equities]](https://www.investopedia.com/terms/e/equity.asp). This could create the conditions for a rally in the equities markets.
 
 ## Bear Market Rallies
 
-Market prices can rise even during a longer-term down trend. A [sucker rally](https://www.investopedia.com/terms/s/sucker-rally.asp), for instance, describes a price increase which quickly reverses course to the downside. Sucker rallies often occur during a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), where rallies are short-lived. Sucker rallies occur in all markets, and can also be unsupported (based on hype, not substance) rallies which are quickly reversed.
+Market prices can rise even during a longer-term down trend. A [[sucker rally]](https://www.investopedia.com/terms/s/sucker-rally.asp), for instance, describes a price increase which quickly reverses course to the downside. Sucker rallies often occur during a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), where rallies are short-lived. Sucker rallies occur in all markets, and can also be unsupported (based on hype, not substance) rallies which are quickly reversed.
 
 Sucker rallies are easy to identify in hindsight, yet in the moment they are harder to see. As prices fall, more and more investors assume that the next rally will mean the end of the downtrend. Eventually, the downtrend will end (in most cases), but identifying which rally turns into an uptrend, and not a sucker rally, is not always easy.

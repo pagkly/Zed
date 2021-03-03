@@ -16,7 +16,7 @@ author: Adam Barone
 Marketing Strategy
 ## What Is a Marketing Strategy?
 
-A marketing strategy refers to a business's overall game plan for reaching prospective consumers and turning them into customers of their products or services. A marketing strategy contains the company’s [value proposition](https://www.investopedia.com/terms/v/valueproposition.asp), key brand messaging, data on [target customer](https://www.investopedia.com/terms/t/target-market.asp) demographics, and other high-level elements. A thorough marketing strategy covers "[the four Ps](https://www.investopedia.com/terms/f/four-ps.asp)" of marketing: product, price, place, and promotion.
+A marketing strategy refers to a business's overall game plan for reaching prospective consumers and turning them into customers of their products or services. A marketing strategy contains the company’s [[value proposition]](https://www.investopedia.com/terms/v/valueproposition.asp), key brand messaging, data on [[target customer]](https://www.investopedia.com/terms/t/target-market.asp) demographics, and other high-level elements. A thorough marketing strategy covers "[the four Ps](https://www.investopedia.com/terms/f/four-ps.asp)" of marketing: product, price, place, and promotion.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A clear marketing strategy should revolve around the company's value proposition
 
 ## Marketing Strategies vs. Marketing Plans
 
-The marketing strategy informs the [marketing plan](https://www.investopedia.com/terms/m/marketing-plan.asp), which is a document that details the specific types of marketing activities a company conducts and contains timetables for rolling out various marketing initiatives.
+The marketing strategy informs the [[marketing plan]](https://www.investopedia.com/terms/m/marketing-plan.asp), which is a document that details the specific types of marketing activities a company conducts and contains timetables for rolling out various marketing initiatives.
 
 Marketing strategies should ideally have longer lifespans than individual marketing plans because they contain value propositions and other key elements of a company’s brand, which generally hold consistent over the long haul. In other words, marketing strategies cover big-picture messaging, while marketing plans delineate the logistical details of specific campaigns.
 
@@ -44,6 +44,6 @@ Academics continue to debate the precise meaning of marketing strategy, and so m
 
 ## The Creation of Marketing Strategy
 
-The ultimate goal of a marketing strategy is to achieve and communicate a sustainable [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) over rival companies by understanding the needs and wants of its consumers. Whether it's a print ad design, [mass customization](https://www.investopedia.com/terms/m/masscustomization.asp), or a social media campaign, a marketing asset can be judged based on how effectively it communicates a company's core value proposition.
+The ultimate goal of a marketing strategy is to achieve and communicate a sustainable [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) over rival companies by understanding the needs and wants of its consumers. Whether it's a print ad design, [[mass customization]](https://www.investopedia.com/terms/m/masscustomization.asp), or a social media campaign, a marketing asset can be judged based on how effectively it communicates a company's core value proposition.
 
 [Market research](https://www.investopedia.com/terms/m/market-research.asp) can help chart the efficacy of a given campaign and can help identify untapped audiences to achieve bottom-line goals and increase sales.

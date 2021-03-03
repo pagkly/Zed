@@ -16,9 +16,9 @@ author: James Chen
 How Capital Improvements Can Soften a Tax Bite
 ## What Is a Capital Improvement?
 
-A capital improvement is the addition of a permanent structural change or the restoration of some aspect of a property that will either enhance the property's overall value, prolongs its [useful life,](https://www.investopedia.com/terms/u/usefullife.asp) or adapt it to new uses. Individuals, businesses, and cities can make capital improvements to the property they own. Often capital improvements are given favorable tax treatment and may be exempted from sales tax in certain jurisdictions.
+A capital improvement is the addition of a permanent structural change or the restoration of some aspect of a property that will either enhance the property's overall value, prolongs its [[useful life,]](https://www.investopedia.com/terms/u/usefullife.asp) or adapt it to new uses. Individuals, businesses, and cities can make capital improvements to the property they own. Often capital improvements are given favorable tax treatment and may be exempted from sales tax in certain jurisdictions.
 
-In a business or corporate finance, this process is similar to investments in [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX).
+In a business or corporate finance, this process is similar to investments in [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX).
 
 ### Key Takeaways
 
@@ -40,13 +40,13 @@ Similarly, the creation of a new public park in a downtown area would also be co
 
 ### Cost Basis
 
-The [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) is the original cost of an asset. The IRS sets specific standards for an improvement to qualify as a cost-basis increase. A primary concern is it must be in place at the time a property is sold. A capital improvement must also become part of the property—or be affixed so permanently to the property—that the removal of it would cause significant damage or decrease in the value of the property itself.
+The [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) is the original cost of an asset. The IRS sets specific standards for an improvement to qualify as a cost-basis increase. A primary concern is it must be in place at the time a property is sold. A capital improvement must also become part of the property—or be affixed so permanently to the property—that the removal of it would cause significant damage or decrease in the value of the property itself.
 
 Repairs or maintenance cannot be included in a property's cost basis. However, repairs that are part of a larger project, such as replacing all of a home's windows, do qualify as capital improvements. Renovations that are necessary to keep a home in good condition are not included if they do not add value to the asset. Examples of such non-qualifying repairs, according to the IRS, include painting walls, fixing leaks, or replacing broken hardware.
 
 ### Capital Gains
 
-In addition to improving the home, a capital improvement—per the IRS—increases the cost basis of a structure. That is, expenses incurred upon making the improvements are added to the amount the owner paid to buy or build the property. Augmenting the cost basis, in turn, reduces the size of the taxable [capital gain](https://www.investopedia.com/terms/c/capitalgain.asp) when selling the property.
+In addition to improving the home, a capital improvement—per the IRS—increases the cost basis of a structure. That is, expenses incurred upon making the improvements are added to the amount the owner paid to buy or build the property. Augmenting the cost basis, in turn, reduces the size of the taxable [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp) when selling the property.
 
 Capital gains from real estate behave differently than do other types of capital gains. As of 2019, homeowners are entitled to a [capital gains exemption](https://www.irs.gov/taxtopics/tc701) on any profit from the sale of a primary residence up to $250,000 if single and $500,000 if married and filing jointly. This exemption has one important caveat. The homeowner must have had a residency at the property for at least two of the last five years before the sale.
 
@@ -56,7 +56,7 @@ Also, if the gain is significantly more than those sums listed above capital imp
 
 New York State's rent laws include a provision called the Major Capital Improvements (MCI) program. Dating from the 1970s, it allows landlords to raise rent-stabilized or -controlled building rents by up to 6% annually, to recoup the cost of major capital improvements to those structures. An HVAC system upgrade, new elevators, updated common spaces, and other improvements all count toward the MCI.
 
-In February 2019, two State Legislature members [introduced a bill to eliminate the program](https://ny.curbed.com/2019/2/26/18236584/new-york-rent-stabilization-major-capital-improvements-legislation), charging it is too easy for building owners to abuse the program. Abuse comes when these unscrupulous landlords submit inflated or fabricated claims of expenses. Potential for fraud aside, the MCI program is inherently unfair, claim some critics. These critics argue that a capital improvement is a one-time cost for a landlord, but a rent increase is an ongoing expense for a tenant.
+In February 2019, two State Legislature members [[introduced a bill to eliminate the program]](https://ny.curbed.com/2019/2/26/18236584/new-york-rent-stabilization-major-capital-improvements-legislation), charging it is too easy for building owners to abuse the program. Abuse comes when these unscrupulous landlords submit inflated or fabricated claims of expenses. Potential for fraud aside, the MCI program is inherently unfair, claim some critics. These critics argue that a capital improvement is a one-time cost for a landlord, but a rent increase is an ongoing expense for a tenant.
 
 ## Examples of Capital Improvements
 

@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Fungibility: When Interchangeability Matters
 ## What Is Fungibility?
 
-Fungibility is the ability of a good or asset to be interchanged with other individual goods or assets of the same type. [Fungible assets](https://www.investopedia.com/terms/f/fungibles.asp) simplify the exchange and trade processes, as fungibility implies equal value between the assets.
+Fungibility is the ability of a good or asset to be interchanged with other individual goods or assets of the same type. [[Fungible assets]](https://www.investopedia.com/terms/f/fungibles.asp) simplify the exchange and trade processes, as fungibility implies equal value between the assets.
 
 ### Key Takeaways
 
@@ -42,4 +42,4 @@ Conversely, as an example of non-fungibility, if Person A lends Person B his car
 
 The line between fungibility and non-fungibility may be a thin one. Gold is generally considered fungible (one gold ounce is equivalent to another gold ounce), though in some cases, it is not. When otherwise fungible goods are given serial numbers or other uniquely identifying marks, they may no longer be as fungible. Adding unique numbers to bars of gold, collectibles, and other items makes it possible to distinguish them.
 
-The Federal Reserve Bank of New York offers gold custody services to [central banks](https://www.investopedia.com/terms/c/centralbank.asp) and governments around the world by storing gold bars in its underground vault. All of the gold bars deposited into the vault are weighed with precision, and the refiner and purity markings on the individual bars are inspected to confirm they match the depositor instruction sheets. All of this is carefully monitored and recorded, and since the exact bars deposited to the New York Fed are the exact ones returned upon withdrawal, these types of gold deposits are not considered fungible.
+The Federal Reserve Bank of New York offers gold custody services to [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp) and governments around the world by storing gold bars in its underground vault. All of the gold bars deposited into the vault are weighed with precision, and the refiner and purity markings on the individual bars are inspected to confirm they match the depositor instruction sheets. All of this is carefully monitored and recorded, and since the exact bars deposited to the New York Fed are the exact ones returned upon withdrawal, these types of gold deposits are not considered fungible.

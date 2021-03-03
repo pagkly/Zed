@@ -28,7 +28,7 @@ Hong Kong and Singapore are among the most prominent worldwide financial centers
 
 ## Understanding the Four Asian Tigers
 
-Also known as the Asian Dragons, the countries that make up the Four Asian Tigers share common characteristics, including a sharp focus on exports, an educated populace, and high savings rates. The economies of the Four Tigers have proven resilient enough to withstand local crises such as the [Asian financial crisis](https://www.investopedia.com/terms/a/asian-financial-crisis.asp) of 1997 and global shocks like the [credit crunch](https://www.investopedia.com/terms/c/creditcrunch.asp) of 2008.
+Also known as the Asian Dragons, the countries that make up the Four Asian Tigers share common characteristics, including a sharp focus on exports, an educated populace, and high savings rates. The economies of the Four Tigers have proven resilient enough to withstand local crises such as the [[Asian financial crisis]](https://www.investopedia.com/terms/a/asian-financial-crisis.asp) of 1997 and global shocks like the [[credit crunch]](https://www.investopedia.com/terms/c/creditcrunch.asp) of 2008.
 
 The International Monetary Fund includes the Four Asian Tigers in its category of 35 most advanced economies.
 
@@ -42,7 +42,7 @@ Despite its contentious relationship with China, Taiwan has thrived over the las
 
 ### Hong Kong
 
-Hong Kong is considered a special administrative region (SAR) in China, which gives it freedom over all its activities except for its defense until the year 2047, at which time [Hong Kong](https://www.investopedia.com/articles/investing/121814/hong-kong-vs-china-understand-differences.asp) and China will reassess their relationship. The latest reports show that the region ranks exceptionally high on scales measuring economic freedom, boasting a GDP of approximately $340 billion as of Dec. 2020, a GDP per capita of $45,180, a growth rate of 2.9%, and a population of 7.6 million.3
+Hong Kong is considered a special administrative region (SAR) in China, which gives it freedom over all its activities except for its defense until the year 2047, at which time [[Hong Kong]](https://www.investopedia.com/articles/investing/121814/hong-kong-vs-china-understand-differences.asp) and China will reassess their relationship. The latest reports show that the region ranks exceptionally high on scales measuring economic freedom, boasting a GDP of approximately $340 billion as of Dec. 2020, a GDP per capita of $45,180, a growth rate of 2.9%, and a population of 7.6 million.3
 
 ### Singapore
 

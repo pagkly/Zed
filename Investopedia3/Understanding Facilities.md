@@ -16,7 +16,7 @@ author: Mitchell Grant
 Understanding Facilities
 ## What Is a Facility?
 
-A facility is a formal financial assistance program offered by a lending institution to help a company that requires operating capital. Types of facilities include overdraft services, deferred payment plans, [lines of credit](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC), revolving credit, term loans, letters of credit, and [swingline loans](https://www.investopedia.com/terms/s/swinglineloan.asp). A facility is essentially another name for a loan taken out by a company.
+A facility is a formal financial assistance program offered by a lending institution to help a company that requires operating capital. Types of facilities include overdraft services, deferred payment plans, [[lines of credit]](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC), revolving credit, term loans, letters of credit, and [[swingline loans]](https://www.investopedia.com/terms/s/swinglineloan.asp). A facility is essentially another name for a loan taken out by a company.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A facility is a formal financial assistance program offered by a lending institu
 
 ## How a Facility Works
 
-A facility is an agreement between a company and a public or private lender that allows the business to borrow a particular amount of money for different purposes for a short period of time. The loan is for a set amount and does not require [collateral](https://www.investopedia.com/terms/c/collateral.asp). The borrower makes monthly or quarterly payments, with interest, until the debt is paid in full.
+A facility is an agreement between a company and a public or private lender that allows the business to borrow a particular amount of money for different purposes for a short period of time. The loan is for a set amount and does not require [[collateral]](https://www.investopedia.com/terms/c/collateral.asp). The borrower makes monthly or quarterly payments, with interest, until the debt is paid in full.
 
 A facility is especially important for companies that want to avoid things such as laying off workers, slowing growth, or closing down during seasonal sales cycles when revenue is low.
 
@@ -34,7 +34,7 @@ For example, if a jewelry store is low on cash in December when sales are down, 
 
 ## Examples of Facilities
 
-There are a number of facilities available for short-term borrowers, depending on the needs of the borrowing businesses. These loans can be [committed](https://www.investopedia.com/terms/c/committedfacility.asp) or [uncommitted](https://www.investopedia.com/terms/u/uncommittedfacility.asp).
+There are a number of facilities available for short-term borrowers, depending on the needs of the borrowing businesses. These loans can be [[committed]](https://www.investopedia.com/terms/c/committedfacility.asp) or [[uncommitted]](https://www.investopedia.com/terms/u/uncommittedfacility.asp).
 
 ### Overdraft Services
 
@@ -44,11 +44,11 @@ Overdraft services provide a loan to a company when the company's cash account i
 
 An unsecured business line of credit gives corporations access to cash as needed at a competitive rate, with flexible payment choices. A traditional line of credit provides check-writing privileges, requires an annual review, and can be called early by the lender. A non-traditional line of credit provides businesses with quick access to cash and a high credit limit.
 
-[Revolving credit](https://www.investopedia.com/terms/r/revolvingcredit.asp) has a specific limit and no set monthly payments, yet interest accrues and is capitalized. Companies with low cash balances that need to fund their [net working capital](https://www.investopedia.com/terms/w/workingcapital.asp) needs will usually go for a revolving credit facility, which provides access to funds any time the business needs capital.
+[Revolving credit](https://www.investopedia.com/terms/r/revolvingcredit.asp) has a specific limit and no set monthly payments, yet interest accrues and is capitalized. Companies with low cash balances that need to fund their [[net working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) needs will usually go for a revolving credit facility, which provides access to funds any time the business needs capital.
 
 ### Term Loans
 
-A term loan is a [commercial loan](https://www.investopedia.com/terms/c/commercial-loan.asp) with a set interest rate and maturity date. A company typically uses the money to finance a large investment or acquisition. Intermediate-term loans are under three years and are repaid monthly, possibly with balloon payments. Long-term loans can be up to 20 years and are backed by collateral.
+A term loan is a [[commercial loan]](https://www.investopedia.com/terms/c/commercial-loan.asp) with a set interest rate and maturity date. A company typically uses the money to finance a large investment or acquisition. Intermediate-term loans are under three years and are repaid monthly, possibly with balloon payments. Long-term loans can be up to 20 years and are backed by collateral.
 
 ### Letters of Credit
 

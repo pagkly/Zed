@@ -18,7 +18,7 @@ Understanding Unilateral Contracts
 
 A unilateral contract is a contract agreement in which an offeror promises to pay after the occurrence of a specified act. In general, unilateral contracts are most often used when an offeror has an open request in which they are willing to pay for a specified act.
 
-An example of a unilateral contract is an insurance policy contract, which is usually partially unilateral. In a unilateral [contract](https://www.investopedia.com/articles/active-trading/102313/why-forward-contracts-are-foundation-all-derivatives.asp), the offeror is the only party with a contractual obligation.
+An example of a unilateral contract is an insurance policy contract, which is usually partially unilateral. In a unilateral [[contract]](https://www.investopedia.com/articles/active-trading/102313/why-forward-contracts-are-foundation-all-derivatives.asp), the offeror is the only party with a contractual obligation.
 
 Unilateral contracts are primarily one-sided.
 
@@ -26,7 +26,7 @@ Unilateral contracts are primarily one-sided.
 
 Unilateral contracts specify an obligation from the offeror. In a unilateral contract, the offeror promises to pay for specified acts that can be open requests, random, or optional for other parties involved.
 
-Unilateral contracts are considered enforceable by [contract law](https://www.investopedia.com/articles/pf/06/insurancecontracts.asp). However, legal issues typically do not arise until the offeree claims to be eligible for remuneration tied to acts or occurrences.
+Unilateral contracts are considered enforceable by [[contract law]](https://www.investopedia.com/articles/pf/06/insurancecontracts.asp). However, legal issues typically do not arise until the offeree claims to be eligible for remuneration tied to acts or occurrences.
 
 As such, legal contestation generally involves cases where the offering party refuses to pay the offered sum. The determination of contract breach would then depend on whether or not the terms of the contract were clear and if it can be proven that the offeree is eligible for payment of specified acts based on the contract’s provisions.
 
@@ -41,7 +41,7 @@ Unilateral contracts are primarily one-sided without a significant obligation fr
 
 ### Open Requests
 
-In the [open economy](https://www.investopedia.com/articles/03/073003.asp), offerors may use unilateral contracts to make a broad or optional request which is only paid for when certain specifications are met. If an individual or individuals fulfill the specified act, the offeror is required to pay. Rewards are a common type of unilateral contract request.
+In the [[open economy]](https://www.investopedia.com/articles/03/073003.asp), offerors may use unilateral contracts to make a broad or optional request which is only paid for when certain specifications are met. If an individual or individuals fulfill the specified act, the offeror is required to pay. Rewards are a common type of unilateral contract request.
 
 In criminal cases, a reward may be available for important information provided about the case. Reward funds can be paid to a single individual or several individuals offering information that meets specified criteria.
 

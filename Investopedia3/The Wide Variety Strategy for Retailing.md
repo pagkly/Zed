@@ -27,7 +27,7 @@ A variety store may offer miscellaneous food and beverages, personal hygiene pro
 ### Key Takeaways
 
 -   A wide variety merchandising strategy draws customers in with an impressive array of products in a relatively compact space.
--   The deep [assortment strategy](https://www.investopedia.com/terms/a/assortment-strategy.asp), by contrast, offers a greater range of sizes, colors, styles, and brands.
+-   The deep [[assortment strategy]](https://www.investopedia.com/terms/a/assortment-strategy.asp), by contrast, offers a greater range of sizes, colors, styles, and brands.
 -   Wide variety can be most effective in a boutique or small store.
 -   A wide variety store can compete with big box stores by offering superior service and a more enjoyable shopping experience.
 
@@ -37,7 +37,7 @@ A convenience store, for example, may offer a wide variety of products, but won'
 
 ## The Disadvantages of Wide Variety
 
-Carrying a wide variety of products limits the space available for a deep assortment of products. There is a risk that consumers will go to a specialized retailer with a better selection of a specific type of product. Some businesses, such as supermarkets, manage to offer both wide variety and [deep assortment](https://www.investopedia.com/terms/e/exclusive-assortment.asp).
+Carrying a wide variety of products limits the space available for a deep assortment of products. There is a risk that consumers will go to a specialized retailer with a better selection of a specific type of product. Some businesses, such as supermarkets, manage to offer both wide variety and [[deep assortment]](https://www.investopedia.com/terms/e/exclusive-assortment.asp).
 
 The sheer range of goods is meant to impress; a deep assortment is not needed to pull it off.
 
@@ -45,7 +45,7 @@ A wide variety business can also rely on convenience, personal service, and a mo
 
 ## Wide Variety vs. Deep Assortment
 
-Retailers face a trade-off when determining whether to pursue a wide variety or a deep assortment merchandising scheme. Trying to do both requires a great deal of space, and these days that means competing with [big box retailers](https://www.investopedia.com/terms/b/big_box_retailer.asp).
+Retailers face a trade-off when determining whether to pursue a wide variety or a deep assortment merchandising scheme. Trying to do both requires a great deal of space, and these days that means competing with [[big box retailers]](https://www.investopedia.com/terms/b/big_box_retailer.asp).
 
 Retailers with smaller spaces can go with a deep assortment if they choose to specialize in a certain product or products that they can offer in a range of colors, sizes, styles, and brands.
 

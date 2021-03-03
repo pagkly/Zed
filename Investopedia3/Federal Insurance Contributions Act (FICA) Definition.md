@@ -16,7 +16,7 @@ author: Julia Kagan
 Federal Insurance Contributions Act (FICA) Definition
 ## What Is the Federal Insurance Contributions Act (FICA)?
 
-The Federal Insurance Contributions Act (FICA) is a U.S. law that mandates a payroll tax on the paychecks of employees, as well as contributions from employers, to fund the [Social Security](https://www.investopedia.com/terms/s/social-security-benefits.asp) and [Medicare](https://www.investopedia.com/terms/m/medicare.asp) programs. For self-employed persons, there is an equivalent law called the [Self-Employed Contributions Act](https://www.investopedia.com/terms/s/seca.asp) (SECA).1
+The Federal Insurance Contributions Act (FICA) is a U.S. law that mandates a payroll tax on the paychecks of employees, as well as contributions from employers, to fund the [[Social Security]](https://www.investopedia.com/terms/s/social-security-benefits.asp) and [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) programs. For self-employed persons, there is an equivalent law called the [[Self-Employed Contributions Act]](https://www.investopedia.com/terms/s/seca.asp) (SECA).1
 
 ### Key Takeaways
 
@@ -28,17 +28,17 @@ The Federal Insurance Contributions Act (FICA) is a U.S. law that mandates a pay
 
 ## Understanding the Federal Insurance Contributions Act (FICA)
 
-FICA contributions are mandatory, and rates are set annually, although not necessarily changed every year—they remained stable between 2020 and 2021, for example. The amount of the FICA payment depends on the [income](https://www.investopedia.com/terms/i/income.asp) of the employee: the higher the income, the higher the FICA payment.
+FICA contributions are mandatory, and rates are set annually, although not necessarily changed every year—they remained stable between 2020 and 2021, for example. The amount of the FICA payment depends on the [[income]](https://www.investopedia.com/terms/i/income.asp) of the employee: the higher the income, the higher the FICA payment.
 
-However, for Social Security contributions there's a maximum [wage base](https://www.investopedia.com/terms/t/taxable-wage-base.asp), after which no contributions are levied on additional income. The federal government withholds [Social Security taxes](https://www.investopedia.com/terms/s/social-security-tax.asp) up to the annual wage base, which was set at $137,700 in 2020 and $142,800 in 2021.
+However, for Social Security contributions there's a maximum [[wage base]](https://www.investopedia.com/terms/t/taxable-wage-base.asp), after which no contributions are levied on additional income. The federal government withholds [[Social Security taxes]](https://www.investopedia.com/terms/s/social-security-tax.asp) up to the annual wage base, which was set at $137,700 in 2020 and $142,800 in 2021.
 
-The Social Security [tax rate](https://www.investopedia.com/terms/t/taxrate.asp) is 6.2%, and the Medicare tax rate is 1.45% for 2020 and 2021. The employer pays a tax equal to the amounts withheld from employee earnings.2
+The Social Security [[tax rate]](https://www.investopedia.com/terms/t/taxrate.asp) is 6.2%, and the Medicare tax rate is 1.45% for 2020 and 2021. The employer pays a tax equal to the amounts withheld from employee earnings.2
 
-While there is no maximum to the Medicare contribution, there is an additional 0.9% tax on wages over $200,000 for individuals ($250,000 for [married couples filing jointly](https://www.investopedia.com/terms/m/mfj.asp)) paid by employees. In total, the Additional Medicare Tax is 2.35% (1.45% plus 0.9%). Employers are not required to match the additional Medicare levy.3
+While there is no maximum to the Medicare contribution, there is an additional 0.9% tax on wages over $200,000 for individuals ($250,000 for [[married couples filing jointly]](https://www.investopedia.com/terms/m/mfj.asp)) paid by employees. In total, the Additional Medicare Tax is 2.35% (1.45% plus 0.9%). Employers are not required to match the additional Medicare levy.3
 
 ## The Federal Insurance Contributions Act (FICA) vs. the Self-Employed Contributions Act (SECA)
 
-Under SECA, [self-employed](https://www.investopedia.com/terms/s/self-employed.asp) people pay both the employee and employer portions of the SECA-related tax. The amount that represents the employer's share (half) is a [deductible](https://www.investopedia.com/terms/d/deductible.asp) business expense.
+Under SECA, [[self-employed]](https://www.investopedia.com/terms/s/self-employed.asp) people pay both the employee and employer portions of the SECA-related tax. The amount that represents the employer's share (half) is a [[deductible]](https://www.investopedia.com/terms/d/deductible.asp) business expense.
 
 ## Example of the Federal Insurance Contributions Act (FICA) Calculations
 
@@ -50,6 +50,6 @@ You can, of course, calculate contributions with a calculator, or turn to online
 
 ## Special Considerations
 
-On March 27, 2020, President Donald Trump signed a [$2 trillion coronavirus emergency stimulus package](https://www.investopedia.com/how-the-coronavirus-stimulus-bills-affect-you-4800404#citation-7) into law. Under the [CARES Act](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707), employers (not employees) can defer their share of Social Security taxes through Dec. 31, 2020—50% of the deferred amount will be due Dec. 31, 2021, and the other half by Dec. 31, 2022.4
+On March 27, 2020, President Donald Trump signed a [$2 trillion coronavirus emergency stimulus package](https://www.investopedia.com/how-the-coronavirus-stimulus-bills-affect-you-4800404#citation-7) into law. Under the [[CARES Act]](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707), employers (not employees) can defer their share of Social Security taxes through Dec. 31, 2020—50% of the deferred amount will be due Dec. 31, 2021, and the other half by Dec. 31, 2022.4
 
-The law applies to the self-employed too. Certain employers will also be eligible to claim [a payroll tax credit for employees whom they continue to pay](https://www.investopedia.com/what-is-the-employee-retention-credit-and-how-to-get-it-4802575) but who are not working due to the crisis.
+The law applies to the self-employed too. Certain employers will also be eligible to claim [[a payroll tax credit for employees whom they continue to pay]](https://www.investopedia.com/what-is-the-employee-retention-credit-and-how-to-get-it-4802575) but who are not working due to the crisis.

@@ -18,7 +18,7 @@ Undersubscribed Definition
 
 Undersubscribed is a situation in which the demand for an initial public offering ([IPO](https://www.investopedia.com/terms/i/ipo.asp)) or another offering of securities is less than the number of shares issued. Undersubscribed offerings are often a matter of overpricing the securities for sale.
 
-This situation is also known as an "underbooking," and may be contrasted with [oversubscribed](https://www.investopedia.com/terms/o/oversubscribed.asp) when demand for an issue exceeds its supply.
+This situation is also known as an "underbooking," and may be contrasted with [[oversubscribed]](https://www.investopedia.com/terms/o/oversubscribed.asp) when demand for an issue exceeds its supply.
 
 ### Key Takeaways
 
@@ -37,4 +37,4 @@ Typically, the goal of a public offering is to sell at the exact price at which
 
 Once the underwriter is sure it will sell all of the shares in the offering, it closes the offering. Then it purchases all the shares from the company (if the offering is a guaranteed [offering](https://www.investopedia.com/terms/o/offering.asp)), and the issuer receives the proceeds minus the underwriting fees. The underwriters then sell the shares to the subscribers at the offering price. Sometimes, when underwriters can't find enough investors to purchase IPO shares, they are forced to purchase the shares that could not be sold to the public (also known as "eating stock").
 
-Although the underwriter can influence the initial price of the securities, they don't have the final say on all the selling activity on the first day of an IPO. Once the subscribers begin selling on the secondary market, the free-market forces of supply and demand dictate the price, and that can also affect the initial selling price on the IPO. Underwriters usually maintain a secondary market in the securities they issue, which means they agree to purchase or sell [securities](https://www.investopedia.com/terms/s/security.asp) out of their own inventories in order to protect the price of the securities from extreme volatility.
+Although the underwriter can influence the initial price of the securities, they don't have the final say on all the selling activity on the first day of an IPO. Once the subscribers begin selling on the secondary market, the free-market forces of supply and demand dictate the price, and that can also affect the initial selling price on the IPO. Underwriters usually maintain a secondary market in the securities they issue, which means they agree to purchase or sell [[securities]](https://www.investopedia.com/terms/s/security.asp) out of their own inventories in order to protect the price of the securities from extreme volatility.

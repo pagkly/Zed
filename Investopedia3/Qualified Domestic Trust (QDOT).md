@@ -31,7 +31,7 @@ Normally, a U.S. citizen surviving spouse can take the marital deduction, but a 
 
 A qualified domestic trust (QDOT) allows a non-citizen surviving spouse of a deceased taxpayer to take advantage of the marital deduction on estate tax for any assets that are placed into the trust before the death of the decedent. This kind of trust is helpful for the non-citizen surviving spouse, who under standard tax laws, would not be eligible for the marital deduction on estate tax.
 
-As per the IRS, under Section 2056A, a surviving spouse is eligible for a 100% marital deduction of any estate taxes owed on assets. This means the surviving spouse pays no taxes on assets with no limit. However, if the surviving spouse is not a U.S. citizen, the marital deduction is not allowable. In addition, there is an estate tax [exemption](https://www.investopedia.com/terms/e/exemption.asp) amount that applies individually or jointly that a non-resident non-citizen surviving spouse is not able to take advantage of that a U.S. citizen surviving spouse is allowed to use.
+As per the IRS, under Section 2056A, a surviving spouse is eligible for a 100% marital deduction of any estate taxes owed on assets. This means the surviving spouse pays no taxes on assets with no limit. However, if the surviving spouse is not a U.S. citizen, the marital deduction is not allowable. In addition, there is an estate tax [[exemption]](https://www.investopedia.com/terms/e/exemption.asp) amount that applies individually or jointly that a non-resident non-citizen surviving spouse is not able to take advantage of that a U.S. citizen surviving spouse is allowed to use.
 
 Forming a QDOT and putting all assets into the trust allows a non-citizen surviving spouse to take advantage of the marital deduction of 100% of estate taxes.
 
@@ -43,6 +43,6 @@ A QDOT only protects the assets of decedents who have died after November 10, 19
 
 ## Limitations of a Qualified Domestic Trust (QDOT)
 
-Although a QDOT allows the qualifying non-citizen surviving spouse to take the marital deduction on assets inside the trust, it does not exempt the trust from paying the [estate tax](https://www.investopedia.com/terms/e/estatetax.asp). It merely defers it until the death of the surviving non-citizen spouse.
+Although a QDOT allows the qualifying non-citizen surviving spouse to take the marital deduction on assets inside the trust, it does not exempt the trust from paying the [[estate tax]](https://www.investopedia.com/terms/e/estatetax.asp). It merely defers it until the death of the surviving non-citizen spouse.
 
 At that time, the estate will be liable for Section 2056A estate taxes on all assets in the QDOT, whether or not there are surviving trustees. This could reduce the value of the assets in the trust significantly for any surviving trustees.

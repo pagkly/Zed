@@ -16,7 +16,7 @@ author: Will Kenton
 Expropriation
 ## What Is Expropriation?
 
-Expropriation is the act of a government claiming [privately owned](https://www.investopedia.com/terms/p/privately-owned.asp) property against the wishes of the owners, ostensibly to be used for the benefit of the overall public. In the United States, properties are most often expropriated in order to build highways, railroads, airports, or other infrastructure projects. The property owner must be paid for the seizure since the Fifth Amendment to the Constitution states that private property cannot be expropriated "for public use without [just compensation](https://www.investopedia.com/terms/j/just-compensation.asp)."
+Expropriation is the act of a government claiming [[privately owned]](https://www.investopedia.com/terms/p/privately-owned.asp) property against the wishes of the owners, ostensibly to be used for the benefit of the overall public. In the United States, properties are most often expropriated in order to build highways, railroads, airports, or other infrastructure projects. The property owner must be paid for the seizure since the Fifth Amendment to the Constitution states that private property cannot be expropriated "for public use without [[just compensation]](https://www.investopedia.com/terms/j/just-compensation.asp)."
 
 ### Key Takeaways:
 
@@ -44,11 +44,11 @@ Consequently, in eminent domain cases, the standard is often not the most probab
 
 Inconsistency and controversy also prevail over property owners who are compensated for their property, the inconvenience of being required to relocate, and the expense and possible business loss of doing so.
 
-These costs are not included in the concept of "[fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp)," but some are compensable in part by [statutes](https://www.investopedia.com/terms/c/common-law.asp), such as the federal Uniform Relocation Assistance and Real Property Acquisition Policies Act (Code of Federal Regulations 49) and its state counterparts.1
+These costs are not included in the concept of "[fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp)," but some are compensable in part by [[statutes]](https://www.investopedia.com/terms/c/common-law.asp), such as the federal Uniform Relocation Assistance and Real Property Acquisition Policies Act (Code of Federal Regulations 49) and its state counterparts.1
 
 Attorneys' and appraisers' fees the property owner incurs may also be recoverable by statute and, in California and New York, an award of such fees is at the court's discretion under certain conditions.
 
-When payment of just compensation is delayed, the owner is entitled to receive [interest](https://www.investopedia.com/terms/i/interest.asp) on the amount of the late payment.
+When payment of just compensation is delayed, the owner is entitled to receive [[interest]](https://www.investopedia.com/terms/i/interest.asp) on the amount of the late payment.
 
 ### Expropriations to Boost Tax Revenues
 

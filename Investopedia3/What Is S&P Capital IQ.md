@@ -16,7 +16,7 @@ author: James Chen
 What Is S&P Capital IQ?
 ## What Is S&P Capital IQ?
 
-S&P Capital IQ is the research division of [S&P Global](https://www.investopedia.com/terms/s/sp.asp), one of the world's largest providers of ratings, data, research, and the S&P Dow Jones Indices. S&P Capital IQ provides detailed research and analysis of the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) to a variety of investing stakeholders.
+S&P Capital IQ is the research division of [[S&P Global]](https://www.investopedia.com/terms/s/sp.asp), one of the world's largest providers of ratings, data, research, and the S&P Dow Jones Indices. S&P Capital IQ provides detailed research and analysis of the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) to a variety of investing stakeholders.
 
 ### Key Takeaways
 
@@ -26,19 +26,19 @@ S&P Capital IQ is the research division of [S&P Global](https://www.investopedia
 
 ## Understanding Capital IQ
 
-Founded in 1999, Capital IQ started as a provider of software and analytics related to the markets. It was sold to publisher McGraw-Hill Financial in 2004 for more than $200 million. McGraw-Hill Financial was rebranded as S&P Global in 2016, and Capital IQ was rebranded as [S&P Capital IQ](https://www.capitaliq.com/).
+Founded in 1999, Capital IQ started as a provider of software and analytics related to the markets. It was sold to publisher McGraw-Hill Financial in 2004 for more than $200 million. McGraw-Hill Financial was rebranded as S&P Global in 2016, and Capital IQ was rebranded as [[S&P Capital IQ]](https://www.capitaliq.com/).
 
-Standard & Poor’s was established in 1941 and has grown to become the world’s leading index provider and independent [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) source. Since having been acquired by Standard & Poor’s in 2004, the company has expanded to become a global presence, with operations in more than 20 countries overseen from its headquarters in New York City. It has made a number of significant acquisitions for growth and expansion. These include the acquisition of Heale Financial in 2006 for $13 million and ClariFI, Inc. for $87 million in 2007.
+Standard & Poor’s was established in 1941 and has grown to become the world’s leading index provider and independent [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) source. Since having been acquired by Standard & Poor’s in 2004, the company has expanded to become a global presence, with operations in more than 20 countries overseen from its headquarters in New York City. It has made a number of significant acquisitions for growth and expansion. These include the acquisition of Heale Financial in 2006 for $13 million and ClariFI, Inc. for $87 million in 2007.
 
 ## How S&P Capital IQ Works
 
-S&P Capital IQ’s web portal offers various software and data feeds to [advisory firms](https://www.investopedia.com/articles/professionals/080615/5-biggest-financial-advisory-firms-us.asp), banks, corporations, [investment managers](https://www.investopedia.com/terms/i/investment-manager.asp), private equity funds, universities, and more, providing overall market awareness and [investment analysis](https://www.investopedia.com/terms/i/investment-analysis.asp) audiences can use to inform their [investment strategies](https://www.investopedia.com/articles/trading/10/creating-a-better-investment-strategy.asp).
+S&P Capital IQ’s web portal offers various software and data feeds to [[advisory firms]](https://www.investopedia.com/articles/professionals/080615/5-biggest-financial-advisory-firms-us.asp), banks, corporations, [[investment managers]](https://www.investopedia.com/terms/i/investment-manager.asp), private equity funds, universities, and more, providing overall market awareness and [[investment analysis]](https://www.investopedia.com/terms/i/investment-analysis.asp) audiences can use to inform their [[investment strategies]](https://www.investopedia.com/articles/trading/10/creating-a-better-investment-strategy.asp).
 
 Every year, S&P Capital IQ collects and analyzes more than 135 billion data points in order to serve as the leading provider of financial services research. The data S&P Capital IQ collects and reports to its users includes company profiles, executive summaries, financial information, and independent analyst reports.
 
 ## Understanding S&P Capital IQ
 
-S&P Capital IQ investigates financial news, market insights, company performance data, and [sector-specific data](https://www.investopedia.com/terms/s/sector-analysis.asp). The firm provides subscribers with intelligence on more than 62,000 public companies and 4.4 million private firms. According to the company's website, it covers financials for 88,000 publicly-listed companies or 99% of global market capitalization.
+S&P Capital IQ investigates financial news, market insights, company performance data, and [[sector-specific data]](https://www.investopedia.com/terms/s/sector-analysis.asp). The firm provides subscribers with intelligence on more than 62,000 public companies and 4.4 million private firms. According to the company's website, it covers financials for 88,000 publicly-listed companies or 99% of global market capitalization.
 
 Additionally, S&P Capital IQ researches and analyzes more complex investment structures, including mutual funds and hedge funds, providing investors with up-to-date performance comparisons, insights, and fund strategies.
 

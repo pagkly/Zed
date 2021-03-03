@@ -16,7 +16,7 @@ author: Will Kenton
 Debtor in Possession (DIP)
 ## What Is a Debtor in Possession (DIP)?
 
-A debtor in possession (DIP) is a person or corporation that has filed for [Chapter 11](https://www.investopedia.com/terms/c/chapter11.asp) bankruptcy protection but still holds property to which creditors have a legal claim under a [lien](https://www.investopedia.com/terms/l/lien.asp) or other [security interest](https://www.investopedia.com/terms/s/security-interest.asp). A DIP may continue to do business using those assets. However, it is required to seek court approval for any actions that fall outside the scope of regular business activities. The DIP must also keep precise financial records, insure any property, and file appropriate tax returns.
+A debtor in possession (DIP) is a person or corporation that has filed for [[Chapter 11]](https://www.investopedia.com/terms/c/chapter11.asp) bankruptcy protection but still holds property to which creditors have a legal claim under a [[lien]](https://www.investopedia.com/terms/l/lien.asp) or other [[security interest]](https://www.investopedia.com/terms/s/security-interest.asp). A DIP may continue to do business using those assets. However, it is required to seek court approval for any actions that fall outside the scope of regular business activities. The DIP must also keep precise financial records, insure any property, and file appropriate tax returns.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ A debtor in possession (DIP) is a person or corporation that has filed for [Chap
 
 ## Understanding Debtor in Possession (DIP)
 
-Debtor in possession (DIP) is typically a transitional stage in which the debtor attempts to salvage value from assets after bankruptcy. The most obvious reason for obtaining DIP status is that the assets are used as part of a functioning business with higher resale value than the assets themselves. DIP status lets bankrupt firms and individuals avoid [liquidation](https://www.investopedia.com/terms/l/liquidation.asp) at [fire-sale](https://www.investopedia.com/terms/f/firesale.asp) prices, which helps both those who are bankrupt and their creditors.
+Debtor in possession (DIP) is typically a transitional stage in which the debtor attempts to salvage value from assets after bankruptcy. The most obvious reason for obtaining DIP status is that the assets are used as part of a functioning business with higher resale value than the assets themselves. DIP status lets bankrupt firms and individuals avoid [[liquidation]](https://www.investopedia.com/terms/l/liquidation.asp) at [[fire-sale]](https://www.investopedia.com/terms/f/firesale.asp) prices, which helps both those who are bankrupt and their creditors.
 
-Consider a [mom-and-pop](https://www.investopedia.com/terms/m/momandpop.asp) restaurant that was forced into bankruptcy during a [recession](https://www.investopedia.com/terms/r/recession.asp). The restaurant may still have talented staff, a good reputation, and loyal customers. These could all be more valuable to the right buyer than the restaurant's building and equipment. However, it may take months or even years to find that buyer. A debtor in possession might be able to continue operating until they find the right buyer.
+Consider a [[mom-and-pop]](https://www.investopedia.com/terms/m/momandpop.asp) restaurant that was forced into bankruptcy during a [[recession]](https://www.investopedia.com/terms/r/recession.asp). The restaurant may still have talented staff, a good reputation, and loyal customers. These could all be more valuable to the right buyer than the restaurant's building and equipment. However, it may take months or even years to find that buyer. A debtor in possession might be able to continue operating until they find the right buyer.
 
 Alternately, debtor in possession status can be used to reorganize a business. Returning to the bankrupt restaurant example, they could eventually find a local investor willing to buy their building and rent it to them. The funds from the sale might be used to pay off all their creditors and emerge from bankruptcy. The restaurant would then be back in business on a different basis.
 
@@ -51,4 +51,4 @@ A debtor in possession must act in the best interests of both creditors and its 
 
 Similarly, unless the court rules otherwise, federal, state, and local tax returns must continue to be filed when due, or with extensions sought by the DIP as needed. The DIP also needs to maintain adequate insurance on estate assets—and to be able to document that coverage—and must provide periodic reporting on the financial health of the business.
 
-Should the debtor not meet these obligations, or fail to follow court orders, the DIP designation can be terminated, after which the court will appoint a [trustee](https://www.investopedia.com/terms/t/trustee.asp) to manage the business. That step can make it more difficult for the debtor to salvage its enterprise and deal with its debts.
+Should the debtor not meet these obligations, or fail to follow court orders, the DIP designation can be terminated, after which the court will appoint a [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) to manage the business. That step can make it more difficult for the debtor to salvage its enterprise and deal with its debts.

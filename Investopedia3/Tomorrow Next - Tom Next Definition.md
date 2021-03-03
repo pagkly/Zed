@@ -22,7 +22,7 @@ The point of the transaction is so traders and investors maintain their position
 
 ## Basics of Tomorrow Next - Tom Next
 
-In most currency trades, delivery is two days after the [transaction date](https://www.investopedia.com/terms/t/transaction-date.asp). Tom-next trades arise because most currency traders have no intention of taking delivery of the currency so require their positions to be 'rolled-over' on a daily basis.This simultaneous transaction is an FX swap, and depending on what currency the person holds, they will either be charged or earn a premium. Those traders and investors holding high yielding currencies will roll it over at a more favorable rate (minimal) because of the interest rate differential. This differential is known as the [cost of carry](https://www.investopedia.com/terms/c/costofcarry.asp). 
+In most currency trades, delivery is two days after the [[transaction date]](https://www.investopedia.com/terms/t/transaction-date.asp). Tom-next trades arise because most currency traders have no intention of taking delivery of the currency so require their positions to be 'rolled-over' on a daily basis.This simultaneous transaction is an FX swap, and depending on what currency the person holds, they will either be charged or earn a premium. Those traders and investors holding high yielding currencies will roll it over at a more favorable rate (minimal) because of the interest rate differential. This differential is known as the [[cost of carry]](https://www.investopedia.com/terms/c/costofcarry.asp). 
 
 If the two currencies have identical interest rates then they will be swapped at the same rate. 
 

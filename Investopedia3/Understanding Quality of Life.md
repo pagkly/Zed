@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding Quality of Life
 ## What Is Quality of Life?
 
-Quality of life is a highly subjective measure of happiness that is an important component of many [financial decisions](https://www.investopedia.com/terms/p/personalfinance.asp). Factors that play a role in the quality of life vary according to personal preferences, but they often include financial security, job satisfaction, family life, health, and safety.
+Quality of life is a highly subjective measure of happiness that is an important component of many [[financial decisions]](https://www.investopedia.com/terms/p/personalfinance.asp). Factors that play a role in the quality of life vary according to personal preferences, but they often include financial security, job satisfaction, family life, health, and safety.
 
 Financial decisions can often involve a tradeoff wherein quality of life is decreased in order to save money or earn more money, or, conversely, quality of life can be increased by spending more money.
 
@@ -28,7 +28,7 @@ Financial decisions can often involve a tradeoff wherein quality of life is decr
 
 ## Understanding Quality of Life
 
-Quality of life is a [non-financial component](https://www.investopedia.com/articles/financial-theory/08/standard-of-living-quality-of-life.asp) associated with job and life satisfaction. When used in a work-related way, qualify of life often refers to the time and ability to do the thing you enjoy. If a job pays a lot of money but requires so many working hours that the worker cannot enjoy any of the money earned, that is a poor quality of life. If a job provides time to enjoy life but leaves the worker too tired, injured, stressed out, or otherwise unable to enjoy his or her earnings, this is another detriment to the quality of life. It is common today to weigh both salary and quality of life when considering how good or bad a job is.
+Quality of life is a [[non-financial component]](https://www.investopedia.com/articles/financial-theory/08/standard-of-living-quality-of-life.asp) associated with job and life satisfaction. When used in a work-related way, qualify of life often refers to the time and ability to do the thing you enjoy. If a job pays a lot of money but requires so many working hours that the worker cannot enjoy any of the money earned, that is a poor quality of life. If a job provides time to enjoy life but leaves the worker too tired, injured, stressed out, or otherwise unable to enjoy his or her earnings, this is another detriment to the quality of life. It is common today to weigh both salary and quality of life when considering how good or bad a job is.
 
 ## Common Quality of Life Factors
 
@@ -44,4 +44,4 @@ Workplace conditions are another aspect of quality of life. Different jobs may r
 
 There are also jobs that can expose employees to potential hazards such as harmful chemicals, heavy machinery, and high-risks of falling or another injury. The possibility for harm that could affect their enjoyment of life is weighed against earning a higher salary provided by an unpleasant job to provide the type of lifestyle the worker desires for themselves and their family members.
 
-Quality of life is also an issue when developing a personal [savings](https://www.investopedia.com/terms/s/savings.asp) plan. In this case, the tradeoff involves a sacrifice of the current quality of life to improve the future quality of life. This may include limiting immediate spending by purchasing lower cost items rather than buying higher cost, premium items.
+Quality of life is also an issue when developing a personal [[savings]](https://www.investopedia.com/terms/s/savings.asp) plan. In this case, the tradeoff involves a sacrifice of the current quality of life to improve the future quality of life. This may include limiting immediate spending by purchasing lower cost items rather than buying higher cost, premium items.

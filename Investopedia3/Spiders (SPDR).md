@@ -16,7 +16,7 @@ author: James Chen
 Spiders (SPDR)
 ## What Does "Spider" Mean?
 
-Spider (SPDR) is a short form name for a Standard & Poor's depository receipt, an [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) (ETF) managed by State Street Global Advisors that tracks the Standard & Poor's 500 index (S&P 500). Each share of an SPDR contains a 10th of the S&P 500 index and trades at roughly a 10th of the dollar-value level of the S&P 500. SPDRs can also refer to the general group of ETFs to which the Standard & Poor's depositary receipt belongs.
+Spider (SPDR) is a short form name for a Standard & Poor's depository receipt, an [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) (ETF) managed by State Street Global Advisors that tracks the Standard & Poor's 500 index (S&P 500). Each share of an SPDR contains a 10th of the S&P 500 index and trades at roughly a 10th of the dollar-value level of the S&P 500. SPDRs can also refer to the general group of ETFs to which the Standard & Poor's depositary receipt belongs.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ Spider (SPDR) is a short form name for a Standard & Poor's depository receipt, a
 
 ## How Spiders (SPDRs) Work
 
-Spiders are listed on the [New York Stock Exchange](https://www.investopedia.com/terms/n/nyse.asp) (NYSE) after the acquisition of the [American Stock Exchange](https://www.investopedia.com/terms/a/amex.asp) (AMEX) under the [ticker symbol](https://www.investopedia.com/terms/t/tickersymbol.asp) SPY. By trading similar to stocks, spiders have continuous [liquidity](https://www.investopedia.com/terms/l/liquidity.asp), can be short sold, bought on margin, provide regular dividend payments and incur regular brokerage [commissions](https://www.investopedia.com/terms/c/commission.asp) when traded.
+Spiders are listed on the [[New York Stock Exchange]](https://www.investopedia.com/terms/n/nyse.asp) (NYSE) after the acquisition of the [[American Stock Exchange]](https://www.investopedia.com/terms/a/amex.asp) (AMEX) under the [[ticker symbol]](https://www.investopedia.com/terms/t/tickersymbol.asp) SPY. By trading similar to stocks, spiders have continuous [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp), can be short sold, bought on margin, provide regular dividend payments and incur regular brokerage [[commissions]](https://www.investopedia.com/terms/c/commission.asp) when traded.
 
-Spiders are used by large institutions and traders as bets on the overall direction of the market. They are also used by individual investors who believe in [passive management](https://www.investopedia.com/terms/p/passivemanagement.asp) or index investing. In this respect, spiders compete directly with S&P 500 index funds and provide an alternative to traditional mutual fund investment.
+Spiders are used by large institutions and traders as bets on the overall direction of the market. They are also used by individual investors who believe in [[passive management]](https://www.investopedia.com/terms/p/passivemanagement.asp) or index investing. In this respect, spiders compete directly with S&P 500 index funds and provide an alternative to traditional mutual fund investment.
 
 SPDRs can be purchased and sold through a brokerage account, meaning that strategies that use stop-losses and limit orders can be implemented.
 
@@ -37,7 +37,7 @@ SPDRs provide investors with value in much the same way as a mutual fund, but th
 
 ## The Origin of SPDR ETFs
 
-SPDRs arrived in 1993 after the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) issued a 1988 report faulting automated orders for all index stocks for contributing to the "Black Monday" crash of 1987. The report stated that an instrument for trading a basket of stocks at one time could prevent the problem in the future. In response, the AMEX and several other organizations developed the SPY. The original ETF launched with $6.53 million in securities and, after initial difficulty persuading institutions to purchase the product, it soared to $1 billion in three years. The size of the ETF market as of Sept. 30, 2017, has exploded to $3.5 trillion in assets. 
+SPDRs arrived in 1993 after the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) issued a 1988 report faulting automated orders for all index stocks for contributing to the "Black Monday" crash of 1987. The report stated that an instrument for trading a basket of stocks at one time could prevent the problem in the future. In response, the AMEX and several other organizations developed the SPY. The original ETF launched with $6.53 million in securities and, after initial difficulty persuading institutions to purchase the product, it soared to $1 billion in three years. The size of the ETF market as of Sept. 30, 2017, has exploded to $3.5 trillion in assets. 
 
 ## Examples of SPDR ETFs
 

@@ -16,9 +16,9 @@ author: Will Kenton
 Hot Wallet Definition
 ## What Is a Hot Wallet?
 
-A hot wallet is a tool that allows a cryptocurrency owner to receive and send tokens. Unlike traditional currencies, there are no dedicated banks or physical wallets that can be used to keep cryptocurrency holdings secure. [Cryptocurrency wallets](https://www.investopedia.com/terms/d/digital-wallet.asp) are tools that are commonly used to store and protect these holdings, and they come in many different forms and varieties.
+A hot wallet is a tool that allows a cryptocurrency owner to receive and send tokens. Unlike traditional currencies, there are no dedicated banks or physical wallets that can be used to keep cryptocurrency holdings secure. [[Cryptocurrency wallets]](https://www.investopedia.com/terms/d/digital-wallet.asp) are tools that are commonly used to store and protect these holdings, and they come in many different forms and varieties.
 
-One of the most popular kinds of [cryptocurrency wallets](https://www.investopedia.com/best-bitcoin-wallets-5070283) is called a hot wallet. The difference between a hot wallet and a cold wallet is that hot wallets are connected to the internet, while cold wallets are not.
+One of the most popular kinds of [[cryptocurrency wallets]](https://www.investopedia.com/best-bitcoin-wallets-5070283) is called a hot wallet. The difference between a hot wallet and a cold wallet is that hot wallets are connected to the internet, while cold wallets are not.
 
 ### Key Takeaways
 
@@ -46,7 +46,7 @@ The safety and security of a hot wallet are largely dependent upon the user's be
 
 Experienced cryptocurrency investors will only keep a small portion of their holdings in their hot wallet because it's less likely that a hacker will break into a hot wallet for a small number of tokens. For example, they may only keep the amount they plan to spend in the near future in their hot wallet. Their remaining assets will stay in cold storage until they are needed for specific transactions.
 
-Some investors choose to keep their cryptocurrency tokens in accounts linked to popular exchanges like Bitstamp or [Poloniex](https://www.investopedia.com/tech/what-poloniex/). These companies will store your funds in their infrastructure and can be considered hot wallet providers. If an investor keeps their tokens in a Bitstamp or Poloniex account, and an attacker gains access to one of these company's servers, they could suffer a loss if the hacker is able to infiltrate their customer accounts.
+Some investors choose to keep their cryptocurrency tokens in accounts linked to popular exchanges like Bitstamp or [[Poloniex]](https://www.investopedia.com/tech/what-poloniex/). These companies will store your funds in their infrastructure and can be considered hot wallet providers. If an investor keeps their tokens in a Bitstamp or Poloniex account, and an attacker gains access to one of these company's servers, they could suffer a loss if the hacker is able to infiltrate their customer accounts.
 
 Because many of the top digital currency exchanges allow users to transfer between various fiat currencies and cryptocurrencies, it's common for users to hold small amounts of various currencies in their accounts. If they maintain a substantial balance of any currency, there is more risk of drawing the attention of hackers or, in the event of a theft, losing a substantial portion of their holdings.
 

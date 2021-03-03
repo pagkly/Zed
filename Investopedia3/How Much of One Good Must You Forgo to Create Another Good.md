@@ -32,13 +32,13 @@ So, the ratio tells you how much Y you need to give up to produce another X. The
 
 ## What the Marginal Rate of Transformation (MRT) Can Tell You
 
-The marginal rate of transformation (MRT) allows [economists](https://www.investopedia.com/terms/e/economist.asp) to analyze the [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp) to produce one extra unit of something. In this case, the opportunity cost is represented in the lost production of another specific good. The marginal rate of transformation is tied to the production possibility frontier ([PPF](https://www.investopedia.com/terms/p/productionpossibilityfrontier.asp)), which displays the output potential for two [goods](https://www.investopedia.com/terms/c/consumer-goods.asp) using the same resources.
+The marginal rate of transformation (MRT) allows [[economists]](https://www.investopedia.com/terms/e/economist.asp) to analyze the [[opportunity costs]](https://www.investopedia.com/terms/o/opportunitycost.asp) to produce one extra unit of something. In this case, the opportunity cost is represented in the lost production of another specific good. The marginal rate of transformation is tied to the production possibility frontier ([PPF](https://www.investopedia.com/terms/p/productionpossibilityfrontier.asp)), which displays the output potential for two [[goods]](https://www.investopedia.com/terms/c/consumer-goods.asp) using the same resources.
 
-MRT is the [absolute value](https://www.investopedia.com/terms/a/absolute-value.asp) of the slope of the production possibility frontier. For each point on the frontier, which is displayed as a curved line, there is a different marginal rate of transformation. This rate is based on the economics of producing the two goods.
+MRT is the [[absolute value]](https://www.investopedia.com/terms/a/absolute-value.asp) of the slope of the production possibility frontier. For each point on the frontier, which is displayed as a curved line, there is a different marginal rate of transformation. This rate is based on the economics of producing the two goods.
 
 It is possible to calculate the MRT for a variety of different goods, but the rates will differ depending on the goods compared. It follows that the MRT of X with respect to Y will usually be different from the MRT of X with respect to Z.
 
-Producing more of one good means making less of the other because the resources are efficiently allocated at points on the production possibility frontier. In other words, resources used to produce one good are diverted from other goods, which means less of the other goods will be created. This tradeoff is measured by the marginal rate of transformation (MRT). Generally speaking, the opportunity cost rises (as does the MRT's absolute value) as one moves along (down) the PPF. As more of one good is produced, the opportunity cost (in units) of the other good increases. This phenomenon is similar to the [law of diminishing returns](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp).
+Producing more of one good means making less of the other because the resources are efficiently allocated at points on the production possibility frontier. In other words, resources used to produce one good are diverted from other goods, which means less of the other goods will be created. This tradeoff is measured by the marginal rate of transformation (MRT). Generally speaking, the opportunity cost rises (as does the MRT's absolute value) as one moves along (down) the PPF. As more of one good is produced, the opportunity cost (in units) of the other good increases. This phenomenon is similar to the [[law of diminishing returns]](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp).
 
 ## Example of How to Use the Marginal Rate of Transformation (MRT)
 
@@ -50,7 +50,7 @@ As another example, consider a student who faces a tradeoff that involves giving
 
 ## The Difference Between the MRT and the Marginal Rate of Substitution (MRS)
 
-While the marginal rate of transformation (MRT) is similar to the marginal rate of substitution ([MRS](https://www.investopedia.com/terms/m/marginal_rate_substitution.asp)), these two concepts are not the same. The marginal rate of substitution focuses on [demand](https://www.investopedia.com/terms/d/demand.asp), while MRT focuses on supply.
+While the marginal rate of transformation (MRT) is similar to the marginal rate of substitution ([MRS](https://www.investopedia.com/terms/m/marginal_rate_substitution.asp)), these two concepts are not the same. The marginal rate of substitution focuses on [[demand]](https://www.investopedia.com/terms/d/demand.asp), while MRT focuses on supply.
 
 The marginal rate of substitution highlights how many units of Y would be considered by a given consumer group to be compensation for one less unit of X. For example, a consumer who prefers oranges to apples may only find equal satisfaction if she receives three apples instead of one orange.
 

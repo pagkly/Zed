@@ -34,7 +34,7 @@ Gifts of equity help the buyer reduce or eliminate down payment requirements, ma
 
 ## Gift of Equity Pros and Cons
 
-Families or interested parties can use a gift of equity instead of going through a real estate company that would charge a [commission](https://www.investopedia.com/terms/c/commission.asp) on the sale. The parents would name a price that they agreed on and “sell” the house to their children for that amount, even though the house could be worth more on the open market.1
+Families or interested parties can use a gift of equity instead of going through a real estate company that would charge a [[commission]](https://www.investopedia.com/terms/c/commission.asp) on the sale. The parents would name a price that they agreed on and “sell” the house to their children for that amount, even though the house could be worth more on the open market.1
 
 Pros
 
@@ -54,29 +54,29 @@ Cons
 -   Legal fees to draw up contract
     
 
-Gifts of equity do not avoid [closing costs](https://www.investopedia.com/terms/c/closingcosts.asp) or other necessary expenses when transferring the title of the property. A gift of equity could also trigger a [gift tax](https://www.investopedia.com/terms/g/gifttax.asp).1
+Gifts of equity do not avoid [[closing costs]](https://www.investopedia.com/terms/c/closingcosts.asp) or other necessary expenses when transferring the title of the property. A gift of equity could also trigger a [[gift tax]](https://www.investopedia.com/terms/g/gifttax.asp).1
 
-The gift will impact the property's cost basis causing [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) to be higher when the recipient sells the home in the future. A gift of equity will also affect the local real estate market by recording a sale of a property at below market value.2
+The gift will impact the property's cost basis causing [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) to be higher when the recipient sells the home in the future. A gift of equity will also affect the local real estate market by recording a sale of a property at below market value.2
 
 ## Requirements for a Gift of Equity
 
 A gift of equity requires a gift of equity letter, which is a letter stating the facts of the sale and is signed by both the seller and the buyer. Along with the letter, other considerations must be met:3
 
--   The seller must have an official, [paid appraisal completed on the home](https://www.investopedia.com/articles/pf/12/home-appraisals.asp)
+-   The seller must have an official, [[paid appraisal completed on the home]](https://www.investopedia.com/articles/pf/12/home-appraisals.asp)
 -   Appraisals must note the appraised value of the residence
 -   The appraisal includes the price the gift of equity home will sell for
 -   Paperwork must include the difference between the appraised value and the gift sale price
 
-At [closing](https://www.investopedia.com/terms/c/closing.asp), a second letter will note the gift of equity.
+At [[closing]](https://www.investopedia.com/terms/c/closing.asp), a second letter will note the gift of equity.
 
 ## Special Considerations
 
-A gift of equity can have tax consequences for both the giver and the receiver of the gift. The home's value can impact the asset's [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) for the new homeowner and have capital gains implications for the seller. Also, if not executed properly, a gift of equity could trigger a gift tax. The sellers must follow IRS guidelines for gifts. A couple can gift up to $30,000 and a person $15,000 to an individual per year without being subject to a gift tax.4
+A gift of equity can have tax consequences for both the giver and the receiver of the gift. The home's value can impact the asset's [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) for the new homeowner and have capital gains implications for the seller. Also, if not executed properly, a gift of equity could trigger a gift tax. The sellers must follow IRS guidelines for gifts. A couple can gift up to $30,000 and a person $15,000 to an individual per year without being subject to a gift tax.4
 
-Additionally, a considerable sale can affect the local real estate market. If a house sells for considerably less than others with comparable features, it may negatively impact other home sales in that price point or area. However, it may be possible for the transaction to be done privately or [off-market](https://www.investopedia.com/terms/p/pocket-listing.asp) to avoid that complication.
+Additionally, a considerable sale can affect the local real estate market. If a house sells for considerably less than others with comparable features, it may negatively impact other home sales in that price point or area. However, it may be possible for the transaction to be done privately or [[off-market]](https://www.investopedia.com/terms/p/pocket-listing.asp) to avoid that complication.
 
 ## Example of a Gift of Equity
 
-A lender can consider the gift of equity as all or part of the cash payment required to qualify for a mortgage. For example, say a bank requires 20% down (the standard amount needed in most [conventional loans](https://www.investopedia.com/terms/c/conventionalmortgage.asp), to avoid mortgage insurance). The gift of equity the seller makes equals 10% of the home's value. The buyer now only needs to make a down payment of 10% of the property's price tag.5
+A lender can consider the gift of equity as all or part of the cash payment required to qualify for a mortgage. For example, say a bank requires 20% down (the standard amount needed in most [[conventional loans]](https://www.investopedia.com/terms/c/conventionalmortgage.asp), to avoid mortgage insurance). The gift of equity the seller makes equals 10% of the home's value. The buyer now only needs to make a down payment of 10% of the property's price tag.5
 
-In the case of a [Federal Housing Administration (FHA)](https://www.investopedia.com/terms/f/fhaloan.asp) loan, a gift of equity is allowed from a family member to cover a minimum 3.5% down payment, as long as the home is their primary residence. 1
+In the case of a [[Federal Housing Administration (FHA)]](https://www.investopedia.com/terms/f/fhaloan.asp) loan, a gift of equity is allowed from a family member to cover a minimum 3.5% down payment, as long as the home is their primary residence. 1

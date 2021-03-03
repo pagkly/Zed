@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding High-Net-Worth Individuals (HNWI)
 ## What Is a High-Net-Worth Individual (HNWI)?
 
-High-net-worth individual (HNWI) is a person or family with [liquid assets](https://www.investopedia.com/ask/answers/032715/what-items-are-considered-liquid-assets.asp) above a certain figure. The term is often used by the financial services industry. Although there is no precise definition of how rich someone must be to fit into this category, high net worth is generally quoted in terms of having liquid assets of a particular number. The exact amount differs by financial institution and region but could range from people with a net wealth of 6- to 7- or more figures.
+High-net-worth individual (HNWI) is a person or family with [[liquid assets]](https://www.investopedia.com/ask/answers/032715/what-items-are-considered-liquid-assets.asp) above a certain figure. The term is often used by the financial services industry. Although there is no precise definition of how rich someone must be to fit into this category, high net worth is generally quoted in terms of having liquid assets of a particular number. The exact amount differs by financial institution and region but could range from people with a net wealth of 6- to 7- or more figures.
 
 The VHNWI classification—very high-net-worth individual—can refer to someone with a net worth of at least $5 million. Ultra-high-net-worth individuals ([UHNWI](https://www.investopedia.com/terms/u/ultra-high-net-worth-individuals-uhnwi.asp)) are defined as people with investable assets of at least $30 million, usually excluding personal assets and property such as a primary residence, collectibles and consumer durables.
 
@@ -24,7 +24,7 @@ The VHNWI classification—very high-net-worth individual—can refer to someone
 
 ## Understanding High-Net-Worth Individuals
 
-A high-net-worth [individual](https://www.investopedia.com/articles/financial-advisors/071015/what-highnetworth-clients-value-and-need.asp) classification generally qualifies for separately managed investment accounts instead of regular mutual funds. This is where the fact that different financial institutions maintain varying standards for HNWI classification comes into play. Most banks require that a customer have a certain amount in liquid assets and/or a certain amount in depository accounts with the bank to qualify for special HNWI treatment.
+A high-net-worth [[individual]](https://www.investopedia.com/articles/financial-advisors/071015/what-highnetworth-clients-value-and-need.asp) classification generally qualifies for separately managed investment accounts instead of regular mutual funds. This is where the fact that different financial institutions maintain varying standards for HNWI classification comes into play. Most banks require that a customer have a certain amount in liquid assets and/or a certain amount in depository accounts with the bank to qualify for special HNWI treatment.
 
 The most commonly quoted figure for membership in the high-net-worth club is around $1 million in liquid financial assets. An investor with less than $1 million but more than $100,000 is considered to be "affluent" or perhaps "sub-HNWI." The upper end of HNWI is around $5 million, at which point the client is then referred to as "very HNWI." More than $30 million in wealth classifies a person as "ultra HNWI."
 

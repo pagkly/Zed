@@ -22,7 +22,7 @@ A health reimbursement arrangement (HRA) is an employer-funded plan that reimbur
 
 A health reimbursement arrangement is a plan set up by an employer to cover medical expenses for its employees. The employer decides how much it will put into the plan, and the employee can request reimbursement for actual medical expenses incurred up to that amount. All employees in the same class must receive the same HRA contribution.
 
-An HRA is not an account. Employees cannot withdraw funds in advance and then use them to pay medical expenses. Instead, they must incur the expense first, then have it reimbursed. Reimbursement at the time of service is possible if the employer provides an HRA debit card. An employee who uses up all the allocated funds in the HRA before year-end will have to cover any subsequent health bill out-of-pocket—or with the funds in a flexible spending account (FSA), also known as a flexible spending arrangement), when available, or a health savings account (HSA) for employees who have a [high-deductible health plan (HDHP)](https://www.investopedia.com/terms/h/hdhp.asp).
+An HRA is not an account. Employees cannot withdraw funds in advance and then use them to pay medical expenses. Instead, they must incur the expense first, then have it reimbursed. Reimbursement at the time of service is possible if the employer provides an HRA debit card. An employee who uses up all the allocated funds in the HRA before year-end will have to cover any subsequent health bill out-of-pocket—or with the funds in a flexible spending account (FSA), also known as a flexible spending arrangement), when available, or a health savings account (HSA) for employees who have a [[high-deductible health plan (HDHP)]](https://www.investopedia.com/terms/h/hdhp.asp).
 
 ### Key Takeaways
 
@@ -38,9 +38,9 @@ In 2019, HRAs can be used to pay for qualified medical expenses, which include p
 
 Starting in January 2020, HRAs will change considerably. The government will allow employers to offer their employees a new type of HRA called an individual coverage HRA in lieu of group health insurance.
 
-Employees can use these HRAs to buy their own comprehensive individual health insurance with pretax dollars either on or off the Affordable Care Act's [health insurance marketplace](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp). Individual coverage HRAs can also reimburse employees for qualified health expenses such as copayments and deductibles.
+Employees can use these HRAs to buy their own comprehensive individual health insurance with pretax dollars either on or off the Affordable Care Act's [[health insurance marketplace]](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp). Individual coverage HRAs can also reimburse employees for qualified health expenses such as copayments and deductibles.
 
-In addition, under the new rules, employers that continue to offer traditional group health insurance can offer excepted benefit HRAs to reimburse employees for up to $1,800 a year in qualified medical expenses. Employees can enroll in an "excepted benefit HRA" even if they decline group health insurance coverage, but they cannot use the funds to buy comprehensive health insurance. They can, however, use the funds to pay for short-term health insurance, dental and vision insurance premiums, and qualified medical expenses (click [here](https://www.hhs.gov/sites/default/files/health-reimbursement-arrangements.pdf) and scroll to Q 11 for details).
+In addition, under the new rules, employers that continue to offer traditional group health insurance can offer excepted benefit HRAs to reimburse employees for up to $1,800 a year in qualified medical expenses. Employees can enroll in an "excepted benefit HRA" even if they decline group health insurance coverage, but they cannot use the funds to buy comprehensive health insurance. They can, however, use the funds to pay for short-term health insurance, dental and vision insurance premiums, and qualified medical expenses (click [[here]](https://www.hhs.gov/sites/default/files/health-reimbursement-arrangements.pdf) and scroll to Q 11 for details).
 
 Employees can use the money in their HRAs to cover the allowed medical, dental, and vision costs of their spouses and dependents.
 
@@ -60,11 +60,11 @@ Here's a closer look at two other options for funding out-of-pocket medical expe
 
 ### FSA
 
-An FSA is funded using a portion of an employee's pre-tax salary, and, in contrast to an HRA, each employee determines how much money should go into these arrangements annually—up to $2,700 in 2019. Unused funds in HRAs may be carried over to the following year according to the discretion of the employer. [Unused FSA funds](https://www.investopedia.com/ask/answers/111815/do-flexible-spending-accounts-fsas-expire.asp) generally cannot be used in the next plan year although an employer may offer either a short [[A Closer Look at Grace Periods|grace period]] or allow up to $500 to be carried over.
+An FSA is funded using a portion of an employee's pre-tax salary, and, in contrast to an HRA, each employee determines how much money should go into these arrangements annually—up to $2,700 in 2019. Unused funds in HRAs may be carried over to the following year according to the discretion of the employer. [[Unused FSA funds]](https://www.investopedia.com/ask/answers/111815/do-flexible-spending-accounts-fsas-expire.asp) generally cannot be used in the next plan year although an employer may offer either a short [[A Closer Look at Grace Periods|grace period]] or allow up to $500 to be carried over.
 
 ### HSA
 
-In comparison to an HRA, a [health savings account (HSA)](https://www.investopedia.com/terms/h/hsa.asp) is a fully vested tax-advantaged account that is not subject to forfeiture if funds remain in the account at the end of the year. An HSA is paired with a high-deductible health plan (HDHP) to pay for medical and dental expenses. The account is funded by the employee and/or employer and, like an FSA, cannot be used to pay insurance premiums. Unlike HRAs and FSAs, employees get to keep their HSAs if they change employers.
+In comparison to an HRA, a [[health savings account (HSA)]](https://www.investopedia.com/terms/h/hsa.asp) is a fully vested tax-advantaged account that is not subject to forfeiture if funds remain in the account at the end of the year. An HSA is paired with a high-deductible health plan (HDHP) to pay for medical and dental expenses. The account is funded by the employee and/or employer and, like an FSA, cannot be used to pay insurance premiums. Unlike HRAs and FSAs, employees get to keep their HSAs if they change employers.
 
 ## Special Considerations
 

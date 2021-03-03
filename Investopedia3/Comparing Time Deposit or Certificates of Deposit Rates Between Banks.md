@@ -16,7 +16,7 @@ author: Julia Kagan
 Comparing Time Deposit or Certificates of Deposit Rates Between Banks
 ## What Is a Time Deposit?
 
-A time deposit is an interest-bearing bank account that has a pre-set date of maturity. A [certificate of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD) is the best-known example. The money must remain in the account for the fixed term in order to earn the stated interest rate.
+A time deposit is an interest-bearing bank account that has a pre-set date of maturity. A [[certificate of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD) is the best-known example. The money must remain in the account for the fixed term in order to earn the stated interest rate.
 
 Time deposits generally pay a slightly higher rate of interest than a regular savings account. The longer the time to maturity, the higher the interest payment will be.
 
@@ -59,7 +59,7 @@ Once the investment matures, the funds can be withdrawn without penalty. Or, the
 
 ### Longer Terms Earn Higher Interest
 
-Typically, the longer the term to maturity, the higher the interest rate paid to the depositor. For example, a one-year CD may offer a 1.10% [annual percentage yield](https://www.investopedia.com/terms/a/apy.asp) (APY), while a five-year CD for the same amount might provide a 1.75% APY. The annual percentage yield is the effective annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) taking into account the effect of compounding interest. 
+Typically, the longer the term to maturity, the higher the interest rate paid to the depositor. For example, a one-year CD may offer a 1.10% [[annual percentage yield]](https://www.investopedia.com/terms/a/apy.asp) (APY), while a five-year CD for the same amount might provide a 1.75% APY. The annual percentage yield is the effective annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) taking into account the effect of compounding interest. 
 
 Generally, two rates are quoted for time deposits and CDs:
 

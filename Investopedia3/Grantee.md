@@ -16,7 +16,7 @@ author: Laura Green
 Grantee
 ## What Is a Grantee?
 
-A grantee is the recipient of a [grant](https://www.investopedia.com/terms/g/grant.asp), scholarship, or some other asset such as real estate property. In contrast, a grantor is a person or entity that conveys ownership of an asset to another person or entity: the grantee. Identifying the grantee and grantor is especially important in legal documents as specific duties, responsibilities, benefits, and limitations are assigned to each.
+A grantee is the recipient of a [[grant]](https://www.investopedia.com/terms/g/grant.asp), scholarship, or some other asset such as real estate property. In contrast, a grantor is a person or entity that conveys ownership of an asset to another person or entity: the grantee. Identifying the grantee and grantor is especially important in legal documents as specific duties, responsibilities, benefits, and limitations are assigned to each.
 
 ## Understanding Grantees
 
@@ -29,7 +29,7 @@ A grantee is the recipient of something granted or given. The term can be used i
 -   Legal documents, such as deeds, detail the transfer of assets between grantors and grantees.
 -   The type of legal document determines what limitations are placed on rights and interests transferred to a grantee.
 
-The grantor and grantee are named in legal documents, such as deeds, which transfer from one party to another the interests or rights to an asset. However, what exactly is being transferred can differ depending on the type of legal document. For example, in real estate, a [quitclaim deed](https://www.investopedia.com/terms/q/quitclaimdeed.asp) provides no warranty regarding the status of the property's title to the grantee. This type of deed can render the grantee powerless should there be title defects whereby no interest in the property is transferred to the grantee. These types of deeds are uncommon between parties with no existing relationship.
+The grantor and grantee are named in legal documents, such as deeds, which transfer from one party to another the interests or rights to an asset. However, what exactly is being transferred can differ depending on the type of legal document. For example, in real estate, a [[quitclaim deed]](https://www.investopedia.com/terms/q/quitclaimdeed.asp) provides no warranty regarding the status of the property's title to the grantee. This type of deed can render the grantee powerless should there be title defects whereby no interest in the property is transferred to the grantee. These types of deeds are uncommon between parties with no existing relationship.
 
 Special warranty deeds assure the grantee that the grantor owns the asset, such as real estate property, and had no issues with the title during their ownership. The special warranty deed does not provide any guarantees about the title before the grantor's ownership.
 

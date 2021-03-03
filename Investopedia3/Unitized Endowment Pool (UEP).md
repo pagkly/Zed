@@ -16,7 +16,7 @@ author: James Chen
 Unitized Endowment Pool (UEP)
 ## What Is a Unitized Endowment Pool (UEP)?
 
-A Unitized Endowment Pool (UEP) is a form of endowment [investing](https://www.investopedia.com/terms/i/investor.asp) that allows multiple endowments to invest in the same pool of assets.
+A Unitized Endowment Pool (UEP) is a form of endowment [[investing]](https://www.investopedia.com/terms/i/investor.asp) that allows multiple endowments to invest in the same pool of assets.
 
 Each endowment owns individual units in a UEP. Investors generally see their returns monthly. New endowments entering the pool can buy in by receiving units in the pool valued as of a specific buy-in date.
 
@@ -37,7 +37,7 @@ Unitized endowment pools are one of three main investing options for endowment f
 
 ## Pros and Cons of a Unitized Endowment Pool
 
-Some UEPs provide access to less-liquid securities such as [private equity](https://www.investopedia.com/terms/p/privateequity.asp) and stakes in timberland. Each tends to have attractive returns over time, but also carries significant liquidity risks.
+Some UEPs provide access to less-liquid securities such as [[private equity]](https://www.investopedia.com/terms/p/privateequity.asp) and stakes in timberland. Each tends to have attractive returns over time, but also carries significant liquidity risks.
 
 A smaller endowment might not own these assets outside of a unitized endowment pool, because they don’t have the internal expertise to manage these assets. Moreover, selling units of a unitized endowment pool with a share of these types of assets sometimes are easier and faster than it would be trying to sell illiquid assets directly.
 
@@ -45,4 +45,4 @@ Some unitized endowment pools also have more experience with emerging-markets eq
 
 Many endowments choose to take on more risk in search of higher potential rewards that have a better chance of beating inflation over time.
 
-The number of endowments that invest in unitized endowment pools and other outside investment managers, as opposed to making all decisions in-house, tends to run in cycles. In the decade following the 2007-2009 [financial crisis](https://www.investopedia.com/terms/f/financial-crisis.asp), for example, more midsize- and large endowments hired management expertise from the outside, in general, in an effort to focus on controlling costs and putting more focus on risk management.
+The number of endowments that invest in unitized endowment pools and other outside investment managers, as opposed to making all decisions in-house, tends to run in cycles. In the decade following the 2007-2009 [[financial crisis]](https://www.investopedia.com/terms/f/financial-crisis.asp), for example, more midsize- and large endowments hired management expertise from the outside, in general, in an effort to focus on controlling costs and putting more focus on risk management.

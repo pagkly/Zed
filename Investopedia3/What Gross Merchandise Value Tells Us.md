@@ -16,9 +16,9 @@ author: Adam Hayes
 What Gross Merchandise Value Tells Us
 ## What Is Gross Merchandise Value?
 
-Gross merchandise value (GMV) is the total value of merchandise sold over a given period of time through a [customer-to-customer](https://www.investopedia.com/terms/c/ctoc.asp) (C2C) exchange site. It is a measure of the growth of the business, or use of the site to sell merchandise owned by others.
+Gross merchandise value (GMV) is the total value of merchandise sold over a given period of time through a [[customer-to-customer]](https://www.investopedia.com/terms/c/ctoc.asp) (C2C) exchange site. It is a measure of the growth of the business, or use of the site to sell merchandise owned by others.
 
-Gross merchandise value is often used to determine the health of an [e-commerce](https://www.investopedia.com/terms/e/ecommerce.asp) site's business because its revenue will be a function of gross merchandise sold and fees charged. It is most useful as a comparative measure over time, such as current quarter value versus previous quarter value.
+Gross merchandise value is often used to determine the health of an [[e-commerce]](https://www.investopedia.com/terms/e/ecommerce.asp) site's business because its revenue will be a function of gross merchandise sold and fees charged. It is most useful as a comparative measure over time, such as current quarter value versus previous quarter value.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ The gross merchandise value is calculated prior to the deduction of any fees or 
 
 Accrued fees and expenses may include advertising, delivery, returns, and discounts.
 
-Since [retailers](https://www.investopedia.com/terms/r/retail-sales.asp) may or may not be producers of the goods they sell, measuring the gross value of all sales provides insight into the company’s performance. This is especially true in the customer-to-customer market, where the retailer serves as a third-party mechanism for connecting buyers and sellers without actually participating as either.
+Since [[retailers]](https://www.investopedia.com/terms/r/retail-sales.asp) may or may not be producers of the goods they sell, measuring the gross value of all sales provides insight into the company’s performance. This is especially true in the customer-to-customer market, where the retailer serves as a third-party mechanism for connecting buyers and sellers without actually participating as either.
 
-It may also provide value to retailers in the [consignment](https://www.investopedia.com/terms/c/consignment.asp) sector, as they never officially purchase their inventory. Even though the items are often housed within a company’s retail location, the business functions as the authorized reseller, often for a fee, of another person’s or entity’s merchandise or property. Generally, they are never the true owner of the items, as the person or entity that placed the item on consignment may return and claim the item if they so choose.
+It may also provide value to retailers in the [[consignment]](https://www.investopedia.com/terms/c/consignment.asp) sector, as they never officially purchase their inventory. Even though the items are often housed within a company’s retail location, the business functions as the authorized reseller, often for a fee, of another person’s or entity’s merchandise or property. Generally, they are never the true owner of the items, as the person or entity that placed the item on consignment may return and claim the item if they so choose.
 
 ## Customer-to-Customer Retailers
 

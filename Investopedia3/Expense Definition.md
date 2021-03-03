@@ -18,7 +18,7 @@ Expense Definition
 
 An expense is the cost of operations that a company incurs to generate revenue. As the popular saying goes, “it costs money to make money.”
 
-Common expenses include payments to suppliers, employee wages, factory leases, and equipment [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). Businesses are allowed to write off tax-deductible expenses on their income tax returns to lower their [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp) and thus their tax liability. However, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) ([IRS](https://www.investopedia.com/terms/i/irs.asp)) has strict rules on which expenses business are allowed to claim as a deduction.
+Common expenses include payments to suppliers, employee wages, factory leases, and equipment [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). Businesses are allowed to write off tax-deductible expenses on their income tax returns to lower their [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp) and thus their tax liability. However, the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) ([IRS](https://www.investopedia.com/terms/i/irs.asp)) has strict rules on which expenses business are allowed to claim as a deduction.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ However, if expenses are cut too much it could also have a detrimental effect. F
 
 ### How Expenses Are Recorded
 
-Companies break down their revenues and expenses in their [income statements](https://www.investopedia.com/terms/i/incomestatement.asp). Accountants record expenses through one of two accounting methods: cash basis or accrual basis. Under cash basis accounting, expenses are recorded when they are paid. In contrast, under the accrual method, expenses are recorded when they are incurred.
+Companies break down their revenues and expenses in their [[income statements]](https://www.investopedia.com/terms/i/incomestatement.asp). Accountants record expenses through one of two accounting methods: cash basis or accrual basis. Under cash basis accounting, expenses are recorded when they are paid. In contrast, under the accrual method, expenses are recorded when they are incurred.
 
 For example, if a business owner schedules a carpet cleaner to clean the carpets in the office, a company using cash basis records the expense when it pays the invoice. Under the accrual method, the business accountant would record the carpet cleaning expense when the company receives the service. Expenses are generally recorded on an accrual basis, ensuring that they match up with the revenues reported in accounting periods.
 
@@ -48,8 +48,8 @@ Expenses are used to calculate net income. The equation to calculate [net incom
 
 There are two main categories of business expenses in accounting: 
 
--   [Operating expenses](https://www.investopedia.com/terms/o/operating-cost.asp)**:** Expenses related to the company’s main activities, such as the cost of goods sold, administrative fees, and rent.
--   [Non-operating expenses](https://www.investopedia.com/terms/n/non-operating-expense.asp): Expenses not directly related to the business' core operations. Common examples include interest charges and other costs associated with borrowing money.
+-   [[Operating expenses]](https://www.investopedia.com/terms/o/operating-cost.asp)**:** Expenses related to the company’s main activities, such as the cost of goods sold, administrative fees, and rent.
+-   [[Non-operating expenses]](https://www.investopedia.com/terms/n/non-operating-expense.asp): Expenses not directly related to the business' core operations. Common examples include interest charges and other costs associated with borrowing money.
 
 ## Special Considerations
 
@@ -57,12 +57,12 @@ There are two main categories of business expenses in accounting: 
 
 [Capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp), commonly known as CapEx, are funds used by a company to acquire, upgrade, and maintain physical assets such as property, buildings, an industrial plant, technology, or equipment.
 
-The IRS treats [capital expenses differently](https://www.investopedia.com/ask/answers/042415/what-difference-between-operating-expense-and-capital-expense.asp) than most other business expenses. While most costs of doing business can be expensed or written off against business income the year they are incurred, capital expenses must be [capitalized](https://www.investopedia.com/terms/c/capitalization.asp) or written off slowly over time.
+The IRS treats [[capital expenses differently]](https://www.investopedia.com/ask/answers/042415/what-difference-between-operating-expense-and-capital-expense.asp) than most other business expenses. While most costs of doing business can be expensed or written off against business income the year they are incurred, capital expenses must be [[capitalized]](https://www.investopedia.com/terms/c/capitalization.asp) or written off slowly over time.
 
 The IRS has a schedule that dictates the portion of a capital asset a business may write off each year until the entire expense is claimed. The number of years over which a business writes off a capital expense varies based on the type of asset.
 
 ### Not All Expenses Can Be Deducted
 
-According to the [IRS](https://www.investopedia.com/terms/i/irs.asp), to be [deductible](https://www.investopedia.com/terms/d/deductible.asp), a business expense "must be both ordinary and necessary." Ordinary means the expense is common or accepted in that industry, while necessary means the expense is helpful in the pursuit of earning income. Business owners are not allowed to claim their personal, non-business expenses as business deductions. They also cannot claim lobbying expenses, penalties, and fines.
+According to the [IRS](https://www.investopedia.com/terms/i/irs.asp), to be [[deductible]](https://www.investopedia.com/terms/d/deductible.asp), a business expense "must be both ordinary and necessary." Ordinary means the expense is common or accepted in that industry, while necessary means the expense is helpful in the pursuit of earning income. Business owners are not allowed to claim their personal, non-business expenses as business deductions. They also cannot claim lobbying expenses, penalties, and fines.
 
-Investors can refer to [Publication 535, Business Expenses](https://www.irs.gov/publications/p535) on the IRS website for more information.
+Investors can refer to [[Publication 535, Business Expenses]](https://www.irs.gov/publications/p535) on the IRS website for more information.

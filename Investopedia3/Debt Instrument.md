@@ -16,15 +16,15 @@ author: James Chen
 Debt Instrument
 ## What Is a Debt Instrument?
 
-A debt instrument is a tool an entity can utilize to raise capital. It is a documented, binding obligation that provides funds to an entity in return for a promise from the entity to repay a lender or investor in accordance with terms of a contract. Debt instrument contracts include detailed provisions on the deal such as [collateral](https://www.investopedia.com/terms/c/collateral.asp) involved, the rate of interest, the schedule for interest payments, and the timeframe to maturity if applicable.
+A debt instrument is a tool an entity can utilize to raise capital. It is a documented, binding obligation that provides funds to an entity in return for a promise from the entity to repay a lender or investor in accordance with terms of a contract. Debt instrument contracts include detailed provisions on the deal such as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) involved, the rate of interest, the schedule for interest payments, and the timeframe to maturity if applicable.
 
 #### What are Debt Instruments?
 
 ## Understanding Debt Instruments
 
-Any type of instrument primarily classified as debt can be considered a debt instrument. Debt instruments are tools an individual, government entity, or business entity can utilize for the purpose of obtaining capital. Debt instruments provide capital to an entity that promises to repay the capital over time. Credit cards, credit lines, loans, and [bonds](https://www.investopedia.com/investing/basics-of-municipal-bonds/) can all be types of debt instruments.
+Any type of instrument primarily classified as debt can be considered a debt instrument. Debt instruments are tools an individual, government entity, or business entity can utilize for the purpose of obtaining capital. Debt instruments provide capital to an entity that promises to repay the capital over time. Credit cards, credit lines, loans, and [[bonds]](https://www.investopedia.com/investing/basics-of-municipal-bonds/) can all be types of debt instruments.
 
-Typically, the term debt instrument primarily focuses on debt capital raised by institutional entities. Institutional entities can include governments and both private and public companies. For financial business accounting purposes, the Financial Accounting Standards Board’s [Generally Accepted Accounting Principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) and the International Accounting Standards Board’s International Financial Reporting Standards (IFRS) may have certain requirements for the reporting of different types of debt instruments on an entity’s financial statements.
+Typically, the term debt instrument primarily focuses on debt capital raised by institutional entities. Institutional entities can include governments and both private and public companies. For financial business accounting purposes, the Financial Accounting Standards Board’s [[Generally Accepted Accounting Principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) and the International Accounting Standards Board’s International Financial Reporting Standards (IFRS) may have certain requirements for the reporting of different types of debt instruments on an entity’s financial statements.
 
 The issuance markets for institutionalized entities varies substantially by the type of debt instrument. Credit cards and credit lines are a type of debt instrument an institution can use to obtain capital. These revolving debt lines usually have simple structuring and only a single lender. They are also not typically associated with a primary or secondary market for securitization. More complex debt instruments will involve advanced contract structuring and the involvement of multiple lenders or investors, usually investing through an organized marketplace.
 
@@ -36,7 +36,7 @@ Some of the most common debt security instruments include:
 
 -   U.S. Treasuries
 -   Municipal bonds
--   [Corporate bonds](https://www.investopedia.com/investing/corporate-bonds-introduction-to-credit-risk/)
+-   [[Corporate bonds]](https://www.investopedia.com/investing/corporate-bonds-introduction-to-credit-risk/)
 
 Entities issue these debt security instruments because the issuance structuring allows for capital to be obtained from multiple investors. Debt securities can be structured with either short-term or long-term maturities. Short-term debt securities are paid back to investors and closed within one year. Long-term debt securities require payments to investors for more than one year. Entities typically structure debt security offerings for repayments ranging from one month to 30 years.
 

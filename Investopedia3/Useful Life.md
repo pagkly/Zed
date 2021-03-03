@@ -16,19 +16,19 @@ author: Will Kenton
 Useful Life
 ## What Is Useful Life?
 
-The useful life of an [asset](https://www.investopedia.com/terms/a/asset.asp) is an accounting estimate of the number of years it is likely to remain in service for the purpose of cost-effective revenue generation. The Internal Revenue Service [(IRS)](https://www.investopedia.com/terms/i/irs.asp) employs useful life estimates to determine the amount of time during which an asset can be depreciated. There are a variety of factors that can affect useful life estimates, including usage patterns, the age of the asset at the time of purchase and technological advances.
+The useful life of an [[asset]](https://www.investopedia.com/terms/a/asset.asp) is an accounting estimate of the number of years it is likely to remain in service for the purpose of cost-effective revenue generation. The Internal Revenue Service [(IRS)](https://www.investopedia.com/terms/i/irs.asp) employs useful life estimates to determine the amount of time during which an asset can be depreciated. There are a variety of factors that can affect useful life estimates, including usage patterns, the age of the asset at the time of purchase and technological advances.
 
 ## Understanding Useful Life
 
-Useful life refers to the estimated duration of utility placed on a variety of business assets, including buildings, machinery, equipment, vehicles, electronics, and furniture. Useful life estimations terminate at the point when assets are expected to become obsolete, require major repairs, or cease to deliver economical results. The estimation of the useful life of each asset, which is measured in years, can serve as a reference for [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) schedules used to write off expenses related to the purchase of capital goods.
+Useful life refers to the estimated duration of utility placed on a variety of business assets, including buildings, machinery, equipment, vehicles, electronics, and furniture. Useful life estimations terminate at the point when assets are expected to become obsolete, require major repairs, or cease to deliver economical results. The estimation of the useful life of each asset, which is measured in years, can serve as a reference for [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) schedules used to write off expenses related to the purchase of capital goods.
 
 ## Useful Life and Straight Line Depreciation
 
-The depreciation of assets using the [straight-line](https://www.investopedia.com/terms/s/straightlinebasis.asp) model divides the cost of an asset by the number of years in its estimated life calculation to determine a yearly depreciation value. The value is depreciated in equal amounts over the course of the estimated useful life. For example, the depreciation of an asset purchased for $1 million with an estimated useful life of 10 years is $100,000 per year.
+The depreciation of assets using the [[straight-line]](https://www.investopedia.com/terms/s/straightlinebasis.asp) model divides the cost of an asset by the number of years in its estimated life calculation to determine a yearly depreciation value. The value is depreciated in equal amounts over the course of the estimated useful life. For example, the depreciation of an asset purchased for $1 million with an estimated useful life of 10 years is $100,000 per year.
 
 ## Useful Life and Accelerated Depreciation
 
-Businesses may also elect to take higher depreciation levels at the beginning of the useful life period, with declining depreciation values over the duration of the time span using an [accelerated](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) model. The yearly write-offs in the reducing balance depreciation model decline by a set percentage rate to zero. Using the sum of the years method, depreciation declines by a set dollar amount each year throughout the useful life period.
+Businesses may also elect to take higher depreciation levels at the beginning of the useful life period, with declining depreciation values over the duration of the time span using an [[accelerated]](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) model. The yearly write-offs in the reducing balance depreciation model decline by a set percentage rate to zero. Using the sum of the years method, depreciation declines by a set dollar amount each year throughout the useful life period.
 
 ## Useful Life Adjustments
 

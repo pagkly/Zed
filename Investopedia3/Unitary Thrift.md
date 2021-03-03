@@ -16,7 +16,7 @@ author: Will Kenton
 Unitary Thrift
 ## What Is a Unitary Thrift?
 
-A unitary thrift is a chartered [holding company](https://www.investopedia.com/terms/h/holdingcompany.asp) that controls a single [thrift](https://www.investopedia.com/terms/t/thrift.asp) entity. Historically unitary thrifts could engage in a broader range of activities than bank holding companies, however, they have come under increasing restrictions since the 2008 financial crisis.
+A unitary thrift is a chartered [holding company](https://www.investopedia.com/terms/h/holdingcompany.asp) that controls a single [[thrift]](https://www.investopedia.com/terms/t/thrift.asp) entity. Historically unitary thrifts could engage in a broader range of activities than bank holding companies, however, they have come under increasing restrictions since the 2008 financial crisis.
 
 ### Key Takeaways
 
@@ -34,19 +34,19 @@ Unitary thrifts focus on customer and community service typically means they dea
 
 ## Savings and Loan Ownership Structures
 
-Unitary thrifts represent one of the two ownership models for savings and loan companies. Under a [mutual ownership structure](https://www.investopedia.com/terms/m/mutualcompany.asp), depositors and borrowers receive part ownership of the savings and loans when they engage in business with the company.
+Unitary thrifts represent one of the two ownership models for savings and loan companies. Under a [[mutual ownership structure]](https://www.investopedia.com/terms/m/mutualcompany.asp), depositors and borrowers receive part ownership of the savings and loans when they engage in business with the company.
 
 Unitary thrifts offer a smaller group of investors a way of controlling a savings and loan through the purchase of stock in the holding company that owns the thrift.
 
 ## Regulatory History of Unitary Thrifts
 
-Because thrifts tended to serve customer needs rather than investor desires, they initially operated under less regulatory oversight, and prior regulatory regimes allowed unitary thrifts to open [branches](https://www.investopedia.com/terms/b/branch-office.asp) anywhere in the United States.
+Because thrifts tended to serve customer needs rather than investor desires, they initially operated under less regulatory oversight, and prior regulatory regimes allowed unitary thrifts to open [[branches]](https://www.investopedia.com/terms/b/branch-office.asp) anywhere in the United States.
 
-Unlike major banks, unitary thrifts could allocate up to 20% of their assets to [commercial loans](https://www.investopedia.com/terms/c/commercial-loan.asp) as long as they continued to hold at least 65% of their assets in qualified thrift investments, such as residential mortgages or mortgage-backed securities.
+Unlike major banks, unitary thrifts could allocate up to 20% of their assets to [[commercial loans]](https://www.investopedia.com/terms/c/commercial-loan.asp) as long as they continued to hold at least 65% of their assets in qualified thrift investments, such as residential mortgages or mortgage-backed securities.
 
-In the 1980s the [savings and loan](https://www.investopedia.com/terms/s/sl-crisis.asp) industry underwent a crisis after thrifts engaged in risky financial activities in an attempt to cover losses caused by depositors who moved their cash from thrifts to money market funds as interest rates boomed in the late 1970s. By 1989, much of the industry had collapsed after failed thrifts caused the insolvency of the [Federal Savings and Loan Insurance Corporation, or FSLIC](https://www.investopedia.com/terms/f/federal-savings-and-loan-insurance-corporation-fslic.asp), which insured deposits.
+In the 1980s the [[savings and loan]](https://www.investopedia.com/terms/s/sl-crisis.asp) industry underwent a crisis after thrifts engaged in risky financial activities in an attempt to cover losses caused by depositors who moved their cash from thrifts to money market funds as interest rates boomed in the late 1970s. By 1989, much of the industry had collapsed after failed thrifts caused the insolvency of the [[Federal Savings and Loan Insurance Corporation, or FSLIC]](https://www.investopedia.com/terms/f/federal-savings-and-loan-insurance-corporation-fslic.asp), which insured deposits.
 
-The [Financial Services Modernization Act of 1999](https://www.investopedia.com/terms/f/financial-services-act-of-1999.asp), also known as the Gramm Leach Bliley Act, forbade the [Office of Thrift Supervision, or OTS,](https://www.investopedia.com/terms/o/ots.asp) from accepting any new applications for unitary thrifts. Since that time, the federal government has increased restrictions on the remaining unitary thrifts.
+The [[Financial Services Modernization Act of 1999]](https://www.investopedia.com/terms/f/financial-services-act-of-1999.asp), also known as the Gramm Leach Bliley Act, forbade the [[Office of Thrift Supervision, or OTS,]](https://www.investopedia.com/terms/o/ots.asp) from accepting any new applications for unitary thrifts. Since that time, the federal government has increased restrictions on the remaining unitary thrifts.
 
 ## Special Considerations
 

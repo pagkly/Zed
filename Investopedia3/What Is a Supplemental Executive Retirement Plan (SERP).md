@@ -30,7 +30,7 @@ A SERP is a form of a deferred-compensation plan. It is not a qualified plan. Th
 
 Companies use a SERP plan as a way to reward and retain key executives. Because these plans are non-qualified, they can be offered selectively to key executives, whose contributions to the company's qualified plan, such as a 401(k), are limited by the maximum annual contributions or the income eligibility limits, or both.
 
-Typically, the company and the executive sign an agreement that promises the executive a certain amount of supplemental retirement income based on various eligibility conditions that the executive must meet. The company funds the plan out of its current cash flows or through the funding of a [cash-value life insurance policy](https://www.investopedia.com/terms/c/cash-value-life-insurance.asp). The money, and the taxes on it, are deferred. After retiring, the executive can withdraw the money and must pay state and federal taxes on it as ordinary income.
+Typically, the company and the executive sign an agreement that promises the executive a certain amount of supplemental retirement income based on various eligibility conditions that the executive must meet. The company funds the plan out of its current cash flows or through the funding of a [[cash-value life insurance policy]](https://www.investopedia.com/terms/c/cash-value-life-insurance.asp). The money, and the taxes on it, are deferred. After retiring, the executive can withdraw the money and must pay state and federal taxes on it as ordinary income.
 
 ## Advantages of a SERP
 
@@ -40,11 +40,11 @@ The company controls the plan and is able to book an annual expense equal to the
 
 When a cash-value life insurance policy is used to fund the benefits, the company benefits from tax-deferred accumulation inside the policy. In most cases, the policy can be structured in a way that allows the company to recover its costs.
 
-For executives, the plan can be tailored to meet specific needs. The benefits accrue to the executive without any current tax consequences. When funded with a cash-value life insurance policy, [death benefits](https://www.investopedia.com/terms/d/deathbenefit.asp) are available to provide a continued supplemental payment or a lump-sum payment to the family in the event of the executive's premature death.
+For executives, the plan can be tailored to meet specific needs. The benefits accrue to the executive without any current tax consequences. When funded with a cash-value life insurance policy, [[death benefits]](https://www.investopedia.com/terms/d/deathbenefit.asp) are available to provide a continued supplemental payment or a lump-sum payment to the family in the event of the executive's premature death.
 
 ## Disadvantages of a SERP
 
-When funding a SERP, the company does not receive an immediate [tax deduction](https://www.investopedia.com/terms/t/tax-deduction.asp). The funds that accumulate for a SERP inside a life insurance policy are not protected from creditor claims against the company in case of the company's insolvency.
+When funding a SERP, the company does not receive an immediate [[tax deduction]](https://www.investopedia.com/terms/t/tax-deduction.asp). The funds that accumulate for a SERP inside a life insurance policy are not protected from creditor claims against the company in case of the company's insolvency.
 
 ## Example of a SERP
 

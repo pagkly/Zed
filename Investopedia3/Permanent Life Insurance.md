@@ -17,9 +17,9 @@ Julia Kagan
 Permanent Life Insurance
 ## What Is Permanent Life Insurance?
 
-Permanent life insurance is an umbrella term for life insurance policies that do not expire. Typically, permanent life insurance combines a [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp) with a savings portion.
+Permanent life insurance is an umbrella term for life insurance policies that do not expire. Typically, permanent life insurance combines a [[death benefit]](https://www.investopedia.com/terms/d/deathbenefit.asp) with a savings portion.
 
-[The two primary types of permanent life insurance](https://www.investopedia.com/articles/personal-finance/102015/how-compare-permanent-life-insurance-policies.asp) are [whole](https://www.investopedia.com/terms/w/wholelife.asp) life and [universal](https://www.investopedia.com/terms/u/universallife.asp) life. Whole life insurance offers coverage for the full lifetime of the insured, and its savings can grow at a guaranteed rate. Universal life insurance also offers a savings element in addition to a death benefit, but it features different types of premium structures and earns based on market performance.
+[The two primary types of permanent life insurance](https://www.investopedia.com/articles/personal-finance/102015/how-compare-permanent-life-insurance-policies.asp) are [[whole]](https://www.investopedia.com/terms/w/wholelife.asp) life and [[universal]](https://www.investopedia.com/terms/u/universallife.asp) life. Whole life insurance offers coverage for the full lifetime of the insured, and its savings can grow at a guaranteed rate. Universal life insurance also offers a savings element in addition to a death benefit, but it features different types of premium structures and earns based on market performance.
 
 ### Key Takeaways
 
@@ -29,13 +29,13 @@ Permanent life insurance is an umbrella term for life insurance policies that do
 
 ## Understanding Permanent Life Insurance
 
-Unlike [term life insurance](https://www.investopedia.com/terms/t/termlife.asp), which promises payment of a specified death benefit for a specific period of years, permanent life insurance lasts the lifetime of the insured (hence, the name), unless nonpayment of premiums causes the policy to lapse. Permanent life insurance premiums go toward both maintaining the policy’s death benefit and allowing the policy to build cash value. The policy owner can borrow funds against that cash value or, in some instances, withdraw cash from it outright to help meet needs such as paying for a child’s college education or covering medical expenses.
+Unlike [[term life insurance]](https://www.investopedia.com/terms/t/termlife.asp), which promises payment of a specified death benefit for a specific period of years, permanent life insurance lasts the lifetime of the insured (hence, the name), unless nonpayment of premiums causes the policy to lapse. Permanent life insurance premiums go toward both maintaining the policy’s death benefit and allowing the policy to build cash value. The policy owner can borrow funds against that cash value or, in some instances, withdraw cash from it outright to help meet needs such as paying for a child’s college education or covering medical expenses.
 
 There is often a waiting period after the purchase of a permanent life policy during which borrowing against the savings portion is not permitted. This allows sufficient cash to accumulate in the fund. If the amount of the total unpaid interest on a loan, plus the outstanding loan balance exceeds the amount of a policy’s cash value, the insurance policy and all coverage will terminate.
 
 [Permanent life insurance policies enjoy favorable tax treatment](https://www.investopedia.com/articles/pf/07/permanent_life_insurance_taxes.asp). The growth of the cash value is generally on a tax-deferred basis, meaning that the policyholder pays no taxes on any earnings as long as the policy remains active.
 
-As long as certain premium limits are adhered to, money can also be taken out of the policy without being subject to taxes because [policy loans](https://www.investopedia.com/terms/p/policyloan.asp) usually are not considered taxable income. Generally, withdrawals up to the sum total of premiums paid can be taken without being taxed.
+As long as certain premium limits are adhered to, money can also be taken out of the policy without being subject to taxes because [[policy loans]](https://www.investopedia.com/terms/p/policyloan.asp) usually are not considered taxable income. Generally, withdrawals up to the sum total of premiums paid can be taken without being taxed.
 
 Many term life insurance policies offer the option to convert to permanent life insurance before their term expires.
 

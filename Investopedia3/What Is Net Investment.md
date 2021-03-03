@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Net Investment?
 ## What Is Net Investment?
 
-Net investment is the total amount of money that a company spends on [capital assets](https://www.investopedia.com/terms/c/capitalasset.asp), minus the cost of the [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) of those assets. This figure provides a sense of the real expenditure on durable goods such as plants, equipment, and software that are being used in the company's operations.
+Net investment is the total amount of money that a company spends on [[capital assets]](https://www.investopedia.com/terms/c/capitalasset.asp), minus the cost of the [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) of those assets. This figure provides a sense of the real expenditure on durable goods such as plants, equipment, and software that are being used in the company's operations.
 
 ### Key Takeaways
 
@@ -24,7 +24,7 @@ Net investment is the total amount of money that a company spends on [capital as
 -   If net investment is positive, the company is expanding its capacity.
 -   If net investment is negative, its capacity is shrinking.
 
-Capital assets lose value over time due to wear and tear and obsolescence. Therefore, subtracting depreciation from gross [capital expenditure (CAPEX)](https://www.investopedia.com/terms/c/capitalexpenditure.asp) provides a more accurate picture of their actual value.
+Capital assets lose value over time due to wear and tear and obsolescence. Therefore, subtracting depreciation from gross [[capital expenditure (CAPEX)]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) provides a more accurate picture of their actual value.
 
 Capital assets include all property and equipment that contribute to the productive capacity of the business. The total for capital assets also includes the costs of their upkeep, maintenance, repair, and installation.
 
@@ -42,11 +42,11 @@ When comparing net investment figures, stick with the same industry for relevant
 
 Net investment is, therefore, a better indicator than gross investment of how much an enterprise is investing in its business since it takes depreciation into account.
 
-Investing an amount equal to the total depreciation in a year is the minimum required to keep the [asset base](https://www.investopedia.com/terms/a/asset-base.asp) from shrinking. While this may not be a problem for a year or two, a net investment that is negative for a prolonged time period eventually will render the enterprise uncompetitive.
+Investing an amount equal to the total depreciation in a year is the minimum required to keep the [[asset base]](https://www.investopedia.com/terms/a/asset-base.asp) from shrinking. While this may not be a problem for a year or two, a net investment that is negative for a prolonged time period eventually will render the enterprise uncompetitive.
 
 ## Net Investment Calculation
 
-Suppose a company spends $1 million on a new piece of machinery that has an expected life of 30 years and has a [residual value](https://www.investopedia.com/terms/r/residual-value.asp) of $100,000. Based on the straight-line method of depreciation, annual depreciation would be $30,000, or ($1,000,000 - $100,000) / 30. Therefore, the amount of net investment at the end of the first year would be $970,000.
+Suppose a company spends $1 million on a new piece of machinery that has an expected life of 30 years and has a [[residual value]](https://www.investopedia.com/terms/r/residual-value.asp) of $100,000. Based on the straight-line method of depreciation, annual depreciation would be $30,000, or ($1,000,000 - $100,000) / 30. Therefore, the amount of net investment at the end of the first year would be $970,000.
 
 ### The Formula
 

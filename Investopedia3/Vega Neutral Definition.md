@@ -18,11 +18,11 @@ Vega Neutral Definition
 
 Vega neutral is a method of managing risk in options trading by establishing a hedge against the implied volatility of the underlying asset.
 
-Vega is one of the options Greeks along with [delta](https://www.investopedia.com/terms/d/delta.asp), [gamma](https://www.investopedia.com/terms/g/gamma.asp), [rho](https://www.investopedia.com/terms/r/rho.asp) and [theta](https://www.investopedia.com/terms/t/theta.asp). Vega is the Greek that corresponds with the [Black-Scholes](https://www.investopedia.com/terms/b/blackscholes.asp) price factor for volatility, but it represents the sensitivity of the price of an option to volatility and not volatility itself. An options trader will use a vega neutral strategy when he believes that volatility presents a risk to the profits.
+Vega is one of the options Greeks along with [[delta]](https://www.investopedia.com/terms/d/delta.asp), [[gamma]](https://www.investopedia.com/terms/g/gamma.asp), [[rho]](https://www.investopedia.com/terms/r/rho.asp) and [[theta]](https://www.investopedia.com/terms/t/theta.asp). Vega is the Greek that corresponds with the [[Black-Scholes]](https://www.investopedia.com/terms/b/blackscholes.asp) price factor for volatility, but it represents the sensitivity of the price of an option to volatility and not volatility itself. An options trader will use a vega neutral strategy when he believes that volatility presents a risk to the profits.
 
 ## How Vega Neutral Works
 
-Vega neutral is not as popular as the neutral positions for the other Greeks. Vega essentially tells traders how a 1% change in the [implied volatility (IV)](https://www.investopedia.com/terms/i/iv.asp) of an option affects the price. So vega is a measure of how sensitive the option premium itself is to volatility. A vega neutral position is a way for options traders to remove that sensitivity from their calculations. If a position is vega neutral, it doesn't make or lose money when the implied volatility changes.
+Vega neutral is not as popular as the neutral positions for the other Greeks. Vega essentially tells traders how a 1% change in the [[implied volatility (IV)]](https://www.investopedia.com/terms/i/iv.asp) of an option affects the price. So vega is a measure of how sensitive the option premium itself is to volatility. A vega neutral position is a way for options traders to remove that sensitivity from their calculations. If a position is vega neutral, it doesn't make or lose money when the implied volatility changes.
 
 ## Building a Vega Neutral Portfolio
 

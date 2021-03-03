@@ -22,7 +22,7 @@ A graduated payment mortgage (GPM) is a type of [fixed-rate mortgage](https://
 
 A graduated payment mortgage is designed to start with the homeowner owing minimum payments. Then, over time, the payment amount increases. A low initial interest rate is used to qualify the buyer. This lower rate allows many, who might not otherwise qualify for a home mortgage, to be eligible because they can afford the low initial payments. Had the note been written at a higher interest rate, these buyers may not have qualified due to the higher monthly payments. This type of mortgage payment system may be optimal for young or first-time homeowners as their income levels tend to rise gradually.
 
-A graduated payment mortgage may or may not be a [negative amortization loan](https://www.investopedia.com/terms/n/negativelyamortizingloan.asp). If the initial payment amount is less than the accruing interest on the mortgage loan, the graduated payment mortgage is a negative amortization loan. With a negative amortization loan, the payments made by the borrower are less than the interest charged on the note. This less than interest payment structure creates deferred interest which adds to the total principal of the loan.
+A graduated payment mortgage may or may not be a [[negative amortization loan]](https://www.investopedia.com/terms/n/negativelyamortizingloan.asp). If the initial payment amount is less than the accruing interest on the mortgage loan, the graduated payment mortgage is a negative amortization loan. With a negative amortization loan, the payments made by the borrower are less than the interest charged on the note. This less than interest payment structure creates deferred interest which adds to the total principal of the loan.
 
 Graduated payment mortgages are only available on loans from the Federal Housing Administration (FHA). [FHA loans](https://www.investopedia.com/terms/f/fhaloan.asp) allow low-to-moderate income borrowers who are unable to make a large [down payment](https://www.investopedia.com/terms/d/down_payment.asp) finance up to 96.5% of the home's value.
 
@@ -42,6 +42,6 @@ Another major drawback which must bear consideration is with a graduated payment
 
 ## Graduated Payment Mortgage vs. Adjustable Rate Mortgage
 
-While a graduated payment mortgage may seem like a type of [adjustable rate mortgage](https://www.investopedia.com/terms/a/arm.asp) (ARM), it is not the same thing. 
+While a graduated payment mortgage may seem like a type of [[adjustable rate mortgage]](https://www.investopedia.com/terms/a/arm.asp) (ARM), it is not the same thing. 
 
 An adjustable rate mortgage fluctuates periodically to reflect market interest rate. The ARM rate is adjusted periodically, but not on a fixed schedule. Also, the interest rate may decrease or climb due to its basis on the going market rate. Conversely, the interest rate on a graduated payment mortgage only goes up.

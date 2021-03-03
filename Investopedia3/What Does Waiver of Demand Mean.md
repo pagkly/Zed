@@ -16,7 +16,7 @@ author: Jason Fernando
 What Does Waiver of Demand Mean?
 ## What Is a Waiver of Demand?
 
-A waiver of demand is a legal agreement given by a party who has endorsed a [check](https://www.investopedia.com/terms/c/check.asp) or a [bank draft](https://www.investopedia.com/terms/b/bank_draft.asp). It states that, should the original issuer of the check or draft default, the endorser will take responsibility for honoring that check or draft on the issuer’s behalf.
+A waiver of demand is a legal agreement given by a party who has endorsed a [[check]](https://www.investopedia.com/terms/c/check.asp) or a [[bank draft]](https://www.investopedia.com/terms/b/bank_draft.asp). It states that, should the original issuer of the check or draft default, the endorser will take responsibility for honoring that check or draft on the issuer’s behalf.
 
 Waivers of demand can either be expressed or implied, and can come in both written and verbal forms. In the event of default, the affected bank reserves the right to charge any applicable penalties or fees to the endorser.
 
@@ -30,9 +30,9 @@ Waivers of demand can either be expressed or implied, and can come in both writt
 
 Typically, there are three parties involved when a check or bank draft is written: the drawer, the payee, and the drawee. The drawer is the original writer of the check or daft, the payee is the party to whom the check or draft is written, and the drawee is the party from whose account the funds will be withdrawn.
 
-If a particular check or draft carries a waiver of demand, then this means that the [endorser](https://www.investopedia.com/terms/e/endorser.asp) has accepted legal responsibility for its fulfillment. Should the drawer of the check or draft default, then the endorser will take responsibility for honoring the check and paying any [fees](https://www.investopedia.com/terms/f/fee.asp) or penalties that may have been incurred.
+If a particular check or draft carries a waiver of demand, then this means that the [[endorser]](https://www.investopedia.com/terms/e/endorser.asp) has accepted legal responsibility for its fulfillment. Should the drawer of the check or draft default, then the endorser will take responsibility for honoring the check and paying any [[fees]](https://www.investopedia.com/terms/f/fee.asp) or penalties that may have been incurred.
 
-In the context of [banking](https://www.investopedia.com/terms/b/bank.asp), the term waiver of demand can also refer to a bank’s waiver of its right to formal notification when it presents short-term negotiable [debt instruments](https://www.investopedia.com/terms/d/debtinstrument.asp) such as drafts or [banker's acceptances](https://www.investopedia.com/terms/b/bankersacceptance.asp) to a [Federal Reserve Bank](https://www.investopedia.com/terms/f/federalreservesystem.asp) for rediscounting. In such instances, the Federal Reserve considers the bank's endorsement as a "waiver of demand, notice and protest" if the original issuer [defaults](https://www.investopedia.com/terms/d/default2.asp) on its debt obligation.
+In the context of [[banking]](https://www.investopedia.com/terms/b/bank.asp), the term waiver of demand can also refer to a bank’s waiver of its right to formal notification when it presents short-term negotiable [[debt instruments]](https://www.investopedia.com/terms/d/debtinstrument.asp) such as drafts or [[banker's acceptances]](https://www.investopedia.com/terms/b/bankersacceptance.asp) to a [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservesystem.asp) for rediscounting. In such instances, the Federal Reserve considers the bank's endorsement as a "waiver of demand, notice and protest" if the original issuer [[defaults]](https://www.investopedia.com/terms/d/default2.asp) on its debt obligation.
 
 ## Real World Example of a Waiver of Demand
 

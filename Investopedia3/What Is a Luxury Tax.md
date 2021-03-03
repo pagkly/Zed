@@ -49,7 +49,7 @@ Then again, sometimes luxury taxes just don't work. A "window tax" was imposed o
 
 ### Defining Luxury
 
-Since luxury goods are attributed to the wealthy in society, it is expected that the majority of taxpayers will not be affected by a luxury tax. However, as what is viewed as luxury changes over time, and as prices rise due to inflation, more people will be subject to this [progressive tax](https://www.investopedia.com/terms/p/progressivetax.asp). Goods considered as normal or ordinary goods may be hit with luxury taxes if the government needs to increase its revenue.
+Since luxury goods are attributed to the wealthy in society, it is expected that the majority of taxpayers will not be affected by a luxury tax. However, as what is viewed as luxury changes over time, and as prices rise due to inflation, more people will be subject to this [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp). Goods considered as normal or ordinary goods may be hit with luxury taxes if the government needs to increase its revenue.
 
 In the U.S., the "yacht tax" lasted only from 1991 to 1993 before being abolished as a job-killer.
 
@@ -61,8 +61,8 @@ In Vermont, the mansion tax kicks in at $100,000. The median home price in Vermo
 
 ### The Economic Theory of Luxury Taxes
 
-In economics, luxury goods are referred to as [Veblen goods](https://www.investopedia.com/terms/v/veblen-good.asp) in honor of Thorstein Veblen, who famously described the concept of conspicuous consumption. That defines them as goods for which demand increases as price increases. The more a thing costs, the more coveted it becomes.
+In economics, luxury goods are referred to as [[Veblen goods]](https://www.investopedia.com/terms/v/veblen-good.asp) in honor of Thorstein Veblen, who famously described the concept of conspicuous consumption. That defines them as goods for which demand increases as price increases. The more a thing costs, the more coveted it becomes.
 
-Since taxes increase the price of a good, the effect of luxury taxes should be increased demand for goods that are defined as luxuries. In practice, however, luxury goods have a high [income elasticity of demand](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) by definition. Both the income effect and the [substitution effect](https://www.investopedia.com/terms/s/substitution-effect.asp) will decrease demand sharply as the tax rises.
+Since taxes increase the price of a good, the effect of luxury taxes should be increased demand for goods that are defined as luxuries. In practice, however, luxury goods have a high [[income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) by definition. Both the income effect and the [[substitution effect]](https://www.investopedia.com/terms/s/substitution-effect.asp) will decrease demand sharply as the tax rises.
 
 Plainly put, some people who yearn to own a yacht will decide that a canoe will do.

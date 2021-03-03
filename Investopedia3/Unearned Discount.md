@@ -16,9 +16,9 @@ author: Will Kenton
 Unearned Discount
 ## What Is an Unearned Discount?
 
-An unearned discount is [interest](https://www.investopedia.com/terms/i/interest.asp) or a fee that has been collected on a loan by a lending institution but has not yet been counted as income (or earnings). Instead, it is initially recorded as a [liability](https://www.investopedia.com/terms/l/liability.asp). As the life of the loan progresses, proportionate parts of the fee or interest collected up front are removed from the liability side of the balance sheet and counted as income. If the loan is paid off early, the unearned interest portion must be returned to the borrower.
+An unearned discount is [[interest]](https://www.investopedia.com/terms/i/interest.asp) or a fee that has been collected on a loan by a lending institution but has not yet been counted as income (or earnings). Instead, it is initially recorded as a [[liability]](https://www.investopedia.com/terms/l/liability.asp). As the life of the loan progresses, proportionate parts of the fee or interest collected up front are removed from the liability side of the balance sheet and counted as income. If the loan is paid off early, the unearned interest portion must be returned to the borrower.
 
-Also called [unearned interest](https://www.investopedia.com/terms/u/unearned-interest.asp).
+Also called [[unearned interest]](https://www.investopedia.com/terms/u/unearned-interest.asp).
 
 ## Understanding Unearned Discount
 

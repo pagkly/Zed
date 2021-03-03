@@ -16,7 +16,7 @@ author: James Chen
 Regulation U
 ## What Is Regulation U?
 
-[Regulation U](https://www.federalreserve.gov/supervisionreg/regucg.htm) is a [Federal Reserve Board](https://www.investopedia.com/terms/f/frb.asp) regulation that governs loans by entities involving securities as collateral and the purchase of securities on margin. Regulation U limits the amount of [leverage](https://www.investopedia.com/terms/l/leverage.asp) that can be extended for loans secured by securities for the purpose of buying more securities. Securities involved typically include [stocks](https://www.investopedia.com/terms/s/stock.asp), [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), and other market-traded securities.
+[Regulation U](https://www.federalreserve.gov/supervisionreg/regucg.htm) is a [[Federal Reserve Board]](https://www.investopedia.com/terms/f/frb.asp) regulation that governs loans by entities involving securities as collateral and the purchase of securities on margin. Regulation U limits the amount of [leverage](https://www.investopedia.com/terms/l/leverage.asp) that can be extended for loans secured by securities for the purpose of buying more securities. Securities involved typically include [[stocks]](https://www.investopedia.com/terms/s/stock.asp), [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), and other market-traded securities.
 
 ### Key Takeaways
 
@@ -47,7 +47,7 @@ The year Regulation U first began covering securities credit extended specifical
 
 ## Example of Regulation U Limits
 
-For example, assume a borrower would like to borrow money from a bank for the purpose of buying [securities](https://www.investopedia.com/terms/s/security.asp) and the borrower plans to use $400,000 in securities as collateral. The loan would require a Form U-1 disclosing the purpose of the loan. Since the loan is for the purpose of buying more securities, the maximum amount of credit the bank can extend to the borrower is $200,000. If the borrower increased the amount of collateral he was willing to use to secure the loan to $500,000 then the bank could offer him a loan for $250,000.
+For example, assume a borrower would like to borrow money from a bank for the purpose of buying [[securities]](https://www.investopedia.com/terms/s/security.asp) and the borrower plans to use $400,000 in securities as collateral. The loan would require a Form U-1 disclosing the purpose of the loan. Since the loan is for the purpose of buying more securities, the maximum amount of credit the bank can extend to the borrower is $200,000. If the borrower increased the amount of collateral he was willing to use to secure the loan to $500,000 then the bank could offer him a loan for $250,000.
 
 ## Regulation U Exemptions
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Term Life Insurance
 ## What Is Term Life Insurance?
 
-Term life insurance, also known as pure life insurance, is a type of life insurance that guarantees payment of a stated death benefit if the covered person dies during a specified term. Once the term expires, the policyholder can either renew it for another term, convert the policy to permanent coverage, or allow the [term life insurance policy](https://www.investopedia.com/best-term-life-insurance-4845961) to terminate.1
+Term life insurance, also known as pure life insurance, is a type of life insurance that guarantees payment of a stated death benefit if the covered person dies during a specified term. Once the term expires, the policyholder can either renew it for another term, convert the policy to permanent coverage, or allow the [[term life insurance policy]](https://www.investopedia.com/best-term-life-insurance-4845961) to terminate.1
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Term life insurance, also known as pure life insurance, is a type of life insura
 
 When you buy a term life insurance policy, the insurance company determines the premiums based on the value of the policy (the payout amount) as well as your age, gender, and health. In some cases, a medical exam may be required. The insurance company may also inquire about your driving record, current medications, smoking status, occupation, hobbies, and family history.
 
-If you die during the term of the policy, the insurer will pay the face value of the policy to your beneficiaries. This cash benefit—which is, in most cases, not taxable—may be used by beneficiaries to settle your healthcare and funeral costs, consumer debt, or mortgage debt among other things. However, if the policy expires before your death, there is no payout. You may be able to renew a term policy at its expiration, but the premiums will be recalculated for your age at the time of renewal. Term life policies have no value other than the guaranteed death benefit. There is no savings component as found in a [whole life insurance](https://www.investopedia.com/terms/w/wholelife.asp) product.
+If you die during the term of the policy, the insurer will pay the face value of the policy to your beneficiaries. This cash benefit—which is, in most cases, not taxable—may be used by beneficiaries to settle your healthcare and funeral costs, consumer debt, or mortgage debt among other things. However, if the policy expires before your death, there is no payout. You may be able to renew a term policy at its expiration, but the premiums will be recalculated for your age at the time of renewal. Term life policies have no value other than the guaranteed death benefit. There is no savings component as found in a [[whole life insurance]](https://www.investopedia.com/terms/w/wholelife.asp) product.
 
 #### Term Life Insurance Explained
 
@@ -60,7 +60,7 @@ These provide coverage for a specified period ranging from 10 to 30 years. Both 
 
 These policies have a death benefit that declines each year, according to a predetermined schedule. The policyholder pays a fixed, level premium for the duration of the policy. Decreasing term policies are often used in concert with a mortgage to match the coverage with the declining principal of the home loan.
 
-Once you've picked the policy that's right for you, remember to research the firms you're considering thoroughly to ensure you'll get the [best term life insurance](https://www.investopedia.com/best-term-life-insurance-4845961) available.
+Once you've picked the policy that's right for you, remember to research the firms you're considering thoroughly to ensure you'll get the [[best term life insurance]](https://www.investopedia.com/best-term-life-insurance-4845961) available.
 
 ## Benefits of Term Life Insurance
 
@@ -70,7 +70,7 @@ These policies are also well-suited for people who temporarily need specific amo
 
 ## Term Life Insurance vs. Permanent Insurance
 
-The main [differences between a term life insurance policy and a permanent insurance policy, such as universal life insurance](https://www.investopedia.com/ask/answers/205.asp), are the duration of the policy, the accumulation of a cash value, and the cost.3 The right choice for you will depend on your needs; here are some things to consider.
+The main [[differences between a term life insurance policy and a permanent insurance policy, such as universal life insurance]](https://www.investopedia.com/ask/answers/205.asp), are the duration of the policy, the accumulation of a cash value, and the cost.3 The right choice for you will depend on your needs; here are some things to consider.
 
 ### Cost of premiums
 
@@ -80,13 +80,13 @@ While many buyers favor the affordability of term life, paying premiums for an e
 
 ### Availability of coverage
 
-Unless a term policy has [guaranteed renewable policy,](https://www.investopedia.com/terms/g/guaranteed_renewable_policy.asp) the company could refuse to renew coverage at the end of a policy's term if the policyholder developed a serious illness. Permanent insurance provides coverage for life, as long as premiums are paid.
+Unless a term policy has [[guaranteed renewable policy,]](https://www.investopedia.com/terms/g/guaranteed_renewable_policy.asp) the company could refuse to renew coverage at the end of a policy's term if the policyholder developed a serious illness. Permanent insurance provides coverage for life, as long as premiums are paid.
 
 ### Investment value
 
 Some customers prefer permanent life insurance because the policies can have an investment or savings vehicle. A portion of each premium payment is allocated to the cash value, which may have a growth guarantee. Some plans pay dividends, which can be paid out or kept on deposit within the policy. Over time, the cash value growth may be sufficient to pay the premiums on the policy. There are also several unique tax benefits, such as tax-deferred cash value growth and tax-free access to the cash portion.
 
-Financial advisors warn that the growth rate of a policy with cash value is often paltry compared to other financial instruments, such as [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) and [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp). Also, substantial administrative fees often cut into the rate of return. Hence, the common phrase "buy term and invest the difference." However, the performance is steady and tax-advantaged, a benefit in time when the stock market is volatile.
+Financial advisors warn that the growth rate of a policy with cash value is often paltry compared to other financial instruments, such as [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) and [[exchange-traded funds (ETFs)]](https://www.investopedia.com/terms/e/etf.asp). Also, substantial administrative fees often cut into the rate of return. Hence, the common phrase "buy term and invest the difference." However, the performance is steady and tax-advantaged, a benefit in time when the stock market is volatile.
 
 ### Other factors
 
@@ -95,7 +95,7 @@ Apparently, there is no one-size-fits-all answer to the term versus permanent in
 -   Is the rate of return earned on investments sufficiently attractive?
 -   Does the permanent policy have a loan provision and other features?
 -   Does the policyholder have or intend to have a business that requires insurance coverage?
--   Will life insurance play a role in [tax-sheltering](https://www.investopedia.com/terms/t/taxshelter.asp) a sizable estate?
+-   Will life insurance play a role in [[tax-sheltering]](https://www.investopedia.com/terms/t/taxshelter.asp) a sizable estate?
 
 ## Term Life Insurance vs. Convertible Term Life Insurance
 
@@ -103,4 +103,4 @@ Apparently, there is no one-size-fits-all answer to the term versus permanent in
 
 The primary features of the rider are maintaining the original health rating of the term policy upon conversion, even if you later have health issues or become uninsurable, and deciding when and how much of the coverage to convert. The basis for the premium of the new permanent policy is your age at conversion. 
 
-Of course, overall premiums will increase significantly, since whole life insurance is more expensive than term life insurance. The advantage is the guaranteed approval without a medical exam. Medical conditions that develop during the term life period cannot adjust premiums upward. However, if you want to add additional riders to the new policy, such as a [long-term care](https://www.investopedia.com/terms/l/ltcinsurance.asp) rider, the company may require limited or full underwriting.
+Of course, overall premiums will increase significantly, since whole life insurance is more expensive than term life insurance. The advantage is the guaranteed approval without a medical exam. Medical conditions that develop during the term life period cannot adjust premiums upward. However, if you want to add additional riders to the new policy, such as a [[long-term care]](https://www.investopedia.com/terms/l/ltcinsurance.asp) rider, the company may require limited or full underwriting.

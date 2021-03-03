@@ -16,7 +16,7 @@ author: Investopedia Staff
 Gig Economy
 ## What Is the Gig Economy?
 
-In a gig economy, temporary, flexible jobs are commonplace and companies tend to hire [independent contractors](https://www.investopedia.com/terms/i/independent-contractor.asp) and [freelancers](https://www.investopedia.com/terms/f/freelancer.asp) instead of full-time employees. A gig economy undermines the traditional economy of full-time workers who rarely change positions and instead focus on a lifetime career.
+In a gig economy, temporary, flexible jobs are commonplace and companies tend to hire [[independent contractors]](https://www.investopedia.com/terms/i/independent-contractor.asp) and [[freelancers]](https://www.investopedia.com/terms/f/freelancer.asp) instead of full-time employees. A gig economy undermines the traditional economy of full-time workers who rarely change positions and instead focus on a lifetime career.
 
 ### Key Takeaways
 
@@ -42,13 +42,13 @@ Economic reasons also factor into the development of a gig economy. Employers wh
 
 On the employee's side of the equation, people often find they need to move or take multiple positions to afford the lifestyle they want. It's also common to change careers many times throughout a lifetime, so the gig economy can be viewed as a reflection of this occurring on a large scale.
 
-During the coronavirus pandemic of 2020, the gig economy has experienced significant increases as gig workers have delivered necessities to home-bound consumers, and those whose jobs have been eliminated have turned to part-time and contract work for income. Employers will need to [plan for changes to the world of work](https://www.forbes.com/sites/rebeccahenderson/2020/12/10/how-covid-19-has-transformed-the-gig-economy/?sh=7cb0310f6c99), including the gig economy, when the pandemic has ended.
+During the coronavirus pandemic of 2020, the gig economy has experienced significant increases as gig workers have delivered necessities to home-bound consumers, and those whose jobs have been eliminated have turned to part-time and contract work for income. Employers will need to [[plan for changes to the world of work]](https://www.forbes.com/sites/rebeccahenderson/2020/12/10/how-covid-19-has-transformed-the-gig-economy/?sh=7cb0310f6c99), including the gig economy, when the pandemic has ended.
 
 ## Criticisms of the Gig Economy
 
 Despite its benefits, there are some downsides to the gig economy. While not all employers are inclined to hire contracted employees, the gig economy trend can make it harder for full-time employees to develop in their careers since temporary employees are often cheaper to hire and more flexible in their availability. Workers who prefer a traditional career path and the stability and security that come with it are being crowded out in some industries.
 
-For some workers, the flexibility of working gigs can actually disrupt the work-life balance, sleep patterns, and activities of daily life. Flexibility in a gig economy often means that workers have to make themselves available any time gigs come up, regardless of their other needs, and must always be on the hunt for the next gig. Competition for gigs has increased during the pandemic, too. And unemployment insurance usually doesn't cover gig workers who can't find employment (the [CARES Act](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707) made an exception during the pandemic).
+For some workers, the flexibility of working gigs can actually disrupt the work-life balance, sleep patterns, and activities of daily life. Flexibility in a gig economy often means that workers have to make themselves available any time gigs come up, regardless of their other needs, and must always be on the hunt for the next gig. Competition for gigs has increased during the pandemic, too. And unemployment insurance usually doesn't cover gig workers who can't find employment (the [[CARES Act]](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707) made an exception during the pandemic).
 
 In effect, workers in a gig economy are more like entrepreneurs than traditional workers. While this may mean greater freedom of choice for the individual worker, it also means that the security of a steady job with regular pay, benefits—including a retirement account—and a daily routine that has characterized work for generations are rapidly becoming a thing of the past.
 

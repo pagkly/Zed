@@ -36,11 +36,11 @@ The term consolidate comes from from the Latin _consolidatus,_ which means "to c
 
 In consolidated accounting, the information from a parent company and its subsidiaries are treated as though it comes from a single entity. The cumulative assets from the business, as well as any revenue or expenses, are recorded on the balance sheet of the parent company. This information is also reported on the income statement of the parent company.
 
-Consolidated financial statements are used when the parent company holds a [majority stake](https://www.investopedia.com/terms/c/controllinginterest.asp) by controlling more than 50% of the subsidiary business. Parent companies that hold more than 20% qualify to use consolidated accounting. If a parent company holds less than a 20% stake, it must use equity method accounting.
+Consolidated financial statements are used when the parent company holds a [[majority stake]](https://www.investopedia.com/terms/c/controllinginterest.asp) by controlling more than 50% of the subsidiary business. Parent companies that hold more than 20% qualify to use consolidated accounting. If a parent company holds less than a 20% stake, it must use equity method accounting.
 
 ### The Consolidation of Businesses
 
-In business, consolidation occurs when two or more businesses combine to form one new entity, with the expectation of increasing market share and profitability and the benefit of combining talent, industry expertise, or technology. Also referred to as [amalgamation](https://www.investopedia.com/terms/a/amalgamation.asp), consolidation can result in the creation of an entirely new business entity or a subsidiary of a larger firm. This approach may combine competing firms into one cooperative business.
+In business, consolidation occurs when two or more businesses combine to form one new entity, with the expectation of increasing market share and profitability and the benefit of combining talent, industry expertise, or technology. Also referred to as [[amalgamation]](https://www.investopedia.com/terms/a/amalgamation.asp), consolidation can result in the creation of an entirely new business entity or a subsidiary of a larger firm. This approach may combine competing firms into one cooperative business.
 
 For example, in 2015, Target Corp. moved to sell the pharmacy portion of its business to CVS Health, a major drugstore chain. As part of the agreement, CVS Health intended to rebrand the pharmacies operating within Target stores, changing the name to the MinuteClinic. The consolidation was friendly in nature and lessened overall competition in the pharmacy marketplace.
 

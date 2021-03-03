@@ -33,7 +33,7 @@ A supply chain involves a series of steps involved to get a product or service t
 -   The functions in a supply chain include product development, marketing, operations, distribution, finance, and customer service.
 -   Supply chain management results in lower costs and a faster production cycle.
 
-The elements of a supply chain include all the functions that start with receiving an order to meeting the customer's request. These functions include product development, marketing, operations, [distribution networks](https://www.investopedia.com/terms/d/distribution-network.asp), finance, and customer service.
+The elements of a supply chain include all the functions that start with receiving an order to meeting the customer's request. These functions include product development, marketing, operations, [[distribution networks]](https://www.investopedia.com/terms/d/distribution-network.asp), finance, and customer service.
 
 Supply chain management is a very important part of the business process. There are many different links in this chain that require skill and expertise. When supply chain management is effective, it can lower a company's overall costs and boost profitability. If one link breaks down, it can affect the rest of the chain and can be costly.
 
@@ -41,7 +41,7 @@ By cutting back on delays in product delivery, successful supply chain managemen
 
 ### Supply Chain Management vs. Business Logistics Management
 
-The terms [supply chain management](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) and business logistics management—or simply, [logistics](https://www.investopedia.com/terms/l/logistics.asp)—are often used interchangeably. Logistics, which is one link in the supply chain, is different.
+The terms [[supply chain management]](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) and business logistics management—or simply, [[logistics]](https://www.investopedia.com/terms/l/logistics.asp)—are often used interchangeably. Logistics, which is one link in the supply chain, is different.
 
 Logistics refers specifically to the part of the supply chain that deals with the planning and control of the movement and storage of goods and services from their point of origin to their final destination. Logistics management begins with the raw materials and ends with the delivery of the final product.
 
@@ -61,6 +61,6 @@ Assume, for example, that XYZ Furniture manufactures high-end furniture, and tha
 
 ### Supply Chain and Deflation
 
-The evolution and increased efficiencies of supply chains have played a significant role in curbing [inflation](https://www.investopedia.com/terms/i/inflation.asp). As efficiencies in moving products from A to B increase, the costs in doing so decrease, which lowers the final cost to the consumer. While [deflation](https://www.investopedia.com/terms/d/deflation.asp) is often regarded as a negative, supply chain efficiencies are one of the few examples where deflation is a good thing.
+The evolution and increased efficiencies of supply chains have played a significant role in curbing [[inflation]](https://www.investopedia.com/terms/i/inflation.asp). As efficiencies in moving products from A to B increase, the costs in doing so decrease, which lowers the final cost to the consumer. While [[deflation]](https://www.investopedia.com/terms/d/deflation.asp) is often regarded as a negative, supply chain efficiencies are one of the few examples where deflation is a good thing.
 
 As globalization continues, supply chain efficiencies become more optimized, which keeps the pressure on input prices.

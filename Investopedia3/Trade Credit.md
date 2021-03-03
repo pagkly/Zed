@@ -30,7 +30,7 @@ Since trade credit puts suppliers at somewhat of a disadvantage, many suppliers 
 
 ### Key Takeaways
 
--   Trade credit is a type of [commercial financing](https://www.investopedia.com/terms/t/tradefinance.asp) in which a customer is allowed to purchase goods or services and pay the supplier at a later scheduled date.
+-   Trade credit is a type of [[commercial financing]](https://www.investopedia.com/terms/t/tradefinance.asp) in which a customer is allowed to purchase goods or services and pay the supplier at a later scheduled date.
 -   Trade credit can be a good way for businesses to free up cash flow and finance short-term growth.
 -   Trade credit can create complexity for financial accounting.
 -   Trade credit financing is usually encouraged globally by regulators and can create opportunities for new financial technology solutions.
@@ -43,13 +43,13 @@ Trade credit invoicing can make accrual accounting more complex. If a public com
 
 With trade credit there is the possibility of default. Companies offering trade credits also usually offer discounts which means they can receive less than the accounts receivable balance. Both defaults and discounts can require the need for accounts receivable write-offs from defaults or write-downs from discounts. These are considered liabilities a company must expense.
 
-Alternatively, trade credit is a useful option for businesses on the buying side. A company can obtain assets but would not need to credit cash or recognize any expenses immediately. In this way a trade credit can act like a 0% loan on the balance sheet. The company’s assets increase but cash does not need to be paid until some time in the future and no interest is charged during the repayment period. A company only needs to recognize the expense when cash is paid using the cash method or when revenue is received using the accrual method. Overall, these activities greatly free up [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) for the buyer.
+Alternatively, trade credit is a useful option for businesses on the buying side. A company can obtain assets but would not need to credit cash or recognize any expenses immediately. In this way a trade credit can act like a 0% loan on the balance sheet. The company’s assets increase but cash does not need to be paid until some time in the future and no interest is charged during the repayment period. A company only needs to recognize the expense when cash is paid using the cash method or when revenue is received using the accrual method. Overall, these activities greatly free up [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) for the buyer.
 
 ## Trade Credit Trends
 
 Trade credit is most rewarding for businesses that do not have a lot of financing options. In financial technology, new types of point of sale financing options are being provided for businesses to utilize in place of trade credits. Many of these fintech firms partner with sellers at the point of sale to provide 0% or low interest financing on purchases. These partnerships help to alleviate trade credit risks for sellers while also supporting growth for buyers.
 
-Trade credit has also brought about new financing solutions for sellers in the form of [accounts receivable financing](https://www.investopedia.com/terms/a/accountsreceivablefinancing.asp). Accounts receivable financing, also known as invoice financing or factoring, is a type of financing that provides businesses with capital in relation to their trade credit, accounts receivable balances.
+Trade credit has also brought about new financing solutions for sellers in the form of [[accounts receivable financing]](https://www.investopedia.com/terms/a/accountsreceivablefinancing.asp). Accounts receivable financing, also known as invoice financing or factoring, is a type of financing that provides businesses with capital in relation to their trade credit, accounts receivable balances.
 
 From an international standpoint, trade credit is encouraged. The World Trade Organization reports that [80% to 90%](https://www.wto.org/english/thewto_e/coher_e/tr_finance_e.htm) of world trade is in some way reliant on trade finance. Trade finance insurance is also a part of many trade finance discussions globally with many new innovations. LiquidX for example now offers an electronic marketplace focused on trade credit insurance for global participants.
 
@@ -61,6 +61,6 @@ Trade credit has a significant impact on the financing of businesses and is ther
 
 A [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) is an overall assessment of the creditworthiness of a borrower, whether a business or individual, based on financial history that includes debt repayment timeliness and other factors. Without a good credit rating, trade credit may not be offered to a business. If businesses do not pay trade credit balances according to agreed terms, penalties in the form of fees and interest are usually incurred. Sellers can also report delinquencies on trade credit which may affect a buyer’s credit rating. Delinquencies affecting a buyer’s credit rating can also affect their ability to obtain other types of financing as well.
 
-A [trade line](https://www.investopedia.com/terms/t/trade-line.asp), or tradeline, is a business credit account record provided to a business credit reporting agency. For large businesses and public companies, trade lines can be followed by rating agencies such as [Standard & Poor’s](https://www.investopedia.com/terms/s/sp.asp), [Moody’s](https://www.investopedia.com/terms/m/moodys.asp), or [Fitch](https://www.investopedia.com/terms/f/fitch-ratings.asp).
+A [trade line](https://www.investopedia.com/terms/t/trade-line.asp), or tradeline, is a business credit account record provided to a business credit reporting agency. For large businesses and public companies, trade lines can be followed by rating agencies such as [[Standard & Poor’s]](https://www.investopedia.com/terms/s/sp.asp), [Moody’s](https://www.investopedia.com/terms/m/moodys.asp), or [Fitch](https://www.investopedia.com/terms/f/fitch-ratings.asp).
 
 [Buyer’s credit](https://www.investopedia.com/terms/b/buyers-credit.asp) is related to international trade and is essentially a loan given to specifically finance the purchase of capital goods and services. Buyer’s credit involves different agencies across borders and typically has a minimum loan amount of several million dollars.

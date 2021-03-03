@@ -16,7 +16,7 @@ author: Julia Kagan
 Present Value of an Annuity
 ## What Is the Present Value of an Annuity?
 
-The present value of an annuity is the current value of future payments from an annuity, given a specified rate of return, or [discount rate](https://www.investopedia.com/terms/d/discountrate.asp). The higher the discount rate, the lower the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of the annuity.
+The present value of an annuity is the current value of future payments from an annuity, given a specified rate of return, or [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp). The higher the discount rate, the lower the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of the annuity.
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ The present value of an annuity is the current value of future payments from an
 
 ## Understanding the Present Value of an Annuity
 
-Because of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp), money received today is worth more than the same amount of money in the future because it can be invested in the meantime. By the same logic, $5,000 received today is worth more than the same amount spread over five annual installments of $1,000 each.
+Because of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp), money received today is worth more than the same amount of money in the future because it can be invested in the meantime. By the same logic, $5,000 received today is worth more than the same amount spread over five annual installments of $1,000 each.
 
-The future value of money is calculated using a discount rate. The discount rate refers to an interest rate or an assumed rate of return on other investments over the same duration as the payments. The smallest discount rate used in these calculations is the [risk-free rate of return](https://www.investopedia.com/terms/r/risk-freerate.asp). U.S. Treasury bonds are generally considered to be the closest thing to a risk-free investment, so their return is often used for this purpose.
+The future value of money is calculated using a discount rate. The discount rate refers to an interest rate or an assumed rate of return on other investments over the same duration as the payments. The smallest discount rate used in these calculations is the [[risk-free rate of return]](https://www.investopedia.com/terms/r/risk-freerate.asp). U.S. Treasury bonds are generally considered to be the closest thing to a risk-free investment, so their return is often used for this purpose.
 
 #### Present Value of an Annuity
 
 ## Example of the Present Value of an Annuity
 
-The formula for the present value of an [ordinary annuity,](https://www.investopedia.com/terms/o/ordinaryannuity.asp) as opposed to an [annuity due](https://www.investopedia.com/terms/a/annuitydue.asp) is below. (An ordinary annuity pays interest at the end of a particular period, rather than at the beginning, as is the case with an annuity due.)
+The formula for the present value of an [[ordinary annuity,]](https://www.investopedia.com/terms/o/ordinaryannuity.asp) as opposed to an [[annuity due]](https://www.investopedia.com/terms/a/annuitydue.asp) is below. (An ordinary annuity pays interest at the end of a particular period, rather than at the beginning, as is the case with an annuity due.)
 
 P\=PMT×1−(1(1+r)n)rwhere:P\=Present value of an annuity streamPMT\=Dollar amount of each annuity paymentr\=Interest rate (also known as discount rate)n\=Number of periods in which payments will be made\\begin{aligned} &\\text{P} = \\text{PMT} \\times \\frac { 1 - \\Big ( \\frac { 1 }{ ( 1 + r ) ^ n } \\Big ) }{ r } \\\\ &\\textbf{where:} \\\\ &\\text{P} = \\text{Present value of an annuity stream} \\\\ &\\text{PMT} = \\text{Dollar amount of each annuity payment} \\\\ &r = \\text{Interest rate (also known as discount rate)} \\\\ &n = \\text{Number of periods in which payments will be made} \\\\ \\end{aligned}
 

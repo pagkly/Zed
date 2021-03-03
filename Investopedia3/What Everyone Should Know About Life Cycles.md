@@ -16,7 +16,7 @@ author: Marshall Hargrave
 What Everyone Should Know About Life Cycles
 ## What Is a Life Cycle?
 
-A life cycle is a course of events that brings a new product into existence and follows its growth into a mature product and eventual [critical mass](https://www.investopedia.com/terms/c/critical-mass.asp) and decline. The most common steps in the life cycle of a product include product development, market introduction, growth, maturity, and decline/stability.
+A life cycle is a course of events that brings a new product into existence and follows its growth into a mature product and eventual [[critical mass]](https://www.investopedia.com/terms/c/critical-mass.asp) and decline. The most common steps in the life cycle of a product include product development, market introduction, growth, maturity, and decline/stability.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ A life cycle is a course of events that brings a new product into existence and 
 
 ## Understanding the Life Cycle
 
-It is important for investors to understand a company's [product life cycle](https://www.investopedia.com/terms/p/product-life-cycle.asp). Firms that are predominately in the development phase will likely be characterized by small levels of sales and are more speculative in nature than firms in the growth or maturity phase. The five stages of a typical life cycle are:
+It is important for investors to understand a company's [[product life cycle]](https://www.investopedia.com/terms/p/product-life-cycle.asp). Firms that are predominately in the development phase will likely be characterized by small levels of sales and are more speculative in nature than firms in the growth or maturity phase. The five stages of a typical life cycle are:
 
 -   The **product development phase** includes market analysis, product design, conception, and testing.
 -   The **market introduction phase** includes the initial release of the product, usually marked with high levels of advertising.
--   In the **growth phase**, sales growth begins to accelerate, characterized by increasing sales year-over-year. As production levels increase, [gross margins](https://www.investopedia.com/terms/g/grossmargin.asp) should steadily decline, making the product less profitable on a per-unit basis. An increase in competition is probable.
+-   In the **growth phase**, sales growth begins to accelerate, characterized by increasing sales year-over-year. As production levels increase, [[gross margins]](https://www.investopedia.com/terms/g/grossmargin.asp) should steadily decline, making the product less profitable on a per-unit basis. An increase in competition is probable.
 -   In the **maturity phase**, the product will reach the upper bounds of its demand cycle, and further spending on advertising will have little to no effect on increasing demand.
 -   The **decline/stability phase** arrives when a product has reached or passed its point of highest demand. At this point, demand will either remain steady or slowly decline as a newer product makes it obsolete.
 

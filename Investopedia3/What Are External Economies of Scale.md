@@ -16,11 +16,11 @@ author: Troy Segal
 What Are External Economies of Scale?
 ## What Are External Economies of Scale?
 
-External economies of scale occur outside of an individual company but within the same industry. Remember that in economics, [economies of scale](https://www.investopedia.com/insights/what-are-economies-of-scale/) mean that the more units a business produces, the less it costs to produce each unit.
+External economies of scale occur outside of an individual company but within the same industry. Remember that in economics, [[economies of scale]](https://www.investopedia.com/insights/what-are-economies-of-scale/) mean that the more units a business produces, the less it costs to produce each unit.
 
 _External_ economies of scale describe similar conditions, only for an entire industry instead of a company. For example, if a city creates a better transportation network to service a particular industry, then all companies in that industry will benefit from the new transportation network, and experience decreased production costs.
 
-As an industry grows larger or becomes clustered in one location—as with, say, the banking and financial services in New York or London—than the average costs of doing business within that industry over the long run become lower, and we have external economies of scale. With external economies, costs also may fall because of increased specialization, better training of workers, faster innovation, or shared supplier relationships. These factors are typically referred to as positive [externalities](https://www.investopedia.com/terms/e/externality.asp); industry-level negative externalities are called external [diseconomies](https://www.investopedia.com/ask/answers/060115/what-difference-between-external-economies-and-external-diseconomies.asp).
+As an industry grows larger or becomes clustered in one location—as with, say, the banking and financial services in New York or London—than the average costs of doing business within that industry over the long run become lower, and we have external economies of scale. With external economies, costs also may fall because of increased specialization, better training of workers, faster innovation, or shared supplier relationships. These factors are typically referred to as positive [[externalities]](https://www.investopedia.com/terms/e/externality.asp); industry-level negative externalities are called external [[diseconomies]](https://www.investopedia.com/ask/answers/060115/what-difference-between-external-economies-and-external-diseconomies.asp).
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ An agglomeration economy, or synergy, is when businesses in different industries
 
 ## Agglomeration Economy
 
-If two or more separate industries are incidentally beneficial to one another, there can be external economies of scale across the entire group. This phenomenon is sometimes called an "agglomeration economy," in which businesses are located close to one another and can share resources and efficiencies. It is similar to the business governance concept of [synergy](https://www.investopedia.com/terms/s/synergy.asp).
+If two or more separate industries are incidentally beneficial to one another, there can be external economies of scale across the entire group. This phenomenon is sometimes called an "agglomeration economy," in which businesses are located close to one another and can share resources and efficiencies. It is similar to the business governance concept of [[synergy]](https://www.investopedia.com/terms/s/synergy.asp).
 
 Scale economies that occur outside of a company, but from which all companies in an industry benefit could include the following:
 
@@ -54,11 +54,11 @@ External economies of scale have several advantages. They include the following:
 
 -   **Egalitarian**: All of the businesses in an industry enjoy these economies of scale equally.
 -   **Growth**: External economies of scale can drive industry growth in particular regions and can also encourage the rapid economic development of support industries and the entire city or geographic area in general.
--   **Lower costs**: In addition to lower production and operating costs, economies of scale may also reduce [variable costs](https://www.investopedia.com/terms/v/variablecost.asp) per unit because of [operational efficiencies](https://www.investopedia.com/terms/o/operationalefficiency.asp) and synergies.
+-   **Lower costs**: In addition to lower production and operating costs, economies of scale may also reduce [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp) per unit because of [[operational efficiencies]](https://www.investopedia.com/terms/o/operationalefficiency.asp) and synergies.
 
 But external economies of scale are not without drawbacks as well. These disadvantages include:
 
--   **Lack of control**: Individual firms have no direct control over what happens externally. In particular, this means that a company would not have a [competitive edge](https://www.investopedia.com/terms/c/competitive_advantage.asp), as it cannot exclude competitors from benefiting also.
+-   **Lack of control**: Individual firms have no direct control over what happens externally. In particular, this means that a company would not have a [[competitive edge]](https://www.investopedia.com/terms/c/competitive_advantage.asp), as it cannot exclude competitors from benefiting also.
 -   **Limited locations**: External economies of scale may develop so strongly in one geographic region that it becomes difficult for companies in a certain industry to locate anywhere else.
 -   **Company instability**: A business might not be able to exploit existing external economies because of its internal shortcomings, such as poor management, or other circumstances.
 

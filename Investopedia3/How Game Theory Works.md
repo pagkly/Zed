@@ -57,7 +57,7 @@ However, this usually occurs in games with more complex elements than two choice
 
 Game theory brought about a revolution in economics by addressing crucial problems in prior mathematical economic models. For instance, [[Define Neoclassical Economics|neoclassical economics]] struggled to understand entrepreneurial anticipation and could not handle the imperfect competition. Game theory turned attention away from steady-state equilibrium toward the market process.
 
-In business, game theory is beneficial for modeling competing behaviors between economic agents. Businesses often have several strategic choices that affect their ability to realize economic gain. For example, businesses may face dilemmas such as whether to retire existing products or develop new ones, lower prices relative to the competition, or employ new marketing strategies. Economists often use game theory to understand [oligopoly](https://www.investopedia.com/terms/o/oligopoly.asp) firm behavior. It helps to predict likely outcomes when firms engage in certain behaviors, such as price-fixing and [collusion](https://www.investopedia.com/terms/c/collusion.asp).
+In business, game theory is beneficial for modeling competing behaviors between economic agents. Businesses often have several strategic choices that affect their ability to realize economic gain. For example, businesses may face dilemmas such as whether to retire existing products or develop new ones, lower prices relative to the competition, or employ new marketing strategies. Economists often use game theory to understand [[oligopoly]](https://www.investopedia.com/terms/o/oligopoly.asp) firm behavior. It helps to predict likely outcomes when firms engage in certain behaviors, such as price-fixing and [[collusion]](https://www.investopedia.com/terms/c/collusion.asp).
 
 Twenty game theorists have been awarded the Nobel Memorial Prize in Economic Sciences for their contributions to the discipline.
 
@@ -73,7 +73,7 @@ There are several "games" that game theory analyzes. Below, we will just briefly
 
 ### The Prisoner's Dilemma
 
-The [Prisoner's Dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is the most well-known example of game theory. Consider the example of two criminals arrested for a crime. Prosecutors have no hard evidence to convict them. However, to gain a confession, officials remove the prisoners from their solitary cells and question each one in separate chambers. Neither prisoner has the means to communicate with each other. Officials present four deals, often displayed as a 2 x 2 box.
+The [[Prisoner's Dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is the most well-known example of game theory. Consider the example of two criminals arrested for a crime. Prosecutors have no hard evidence to convict them. However, to gain a confession, officials remove the prisoners from their solitary cells and question each one in separate chambers. Neither prisoner has the means to communicate with each other. Officials present four deals, often displayed as a 2 x 2 box.
 
 1.  If both confess, they will each receive a five-year prison sentence. 
 2.  If Prisoner 1 confesses, but Prisoner 2 does not, Prisoner 1 will get three years and Prisoner 2 will get nine years. 
@@ -98,7 +98,7 @@ Being labeled as a whistleblower may also have some repercussions down the lin
 
 ### The Centipede Game
 
-The [centipede game](https://www.investopedia.com/terms/c/centipede-game.asp) is an extensive-form game in game theory in which two players alternately get a chance to take the larger share of a slowly increasing money stash. It is arranged so that if a player passes the stash to his opponent who then takes the stash, the player receives a smaller amount than if he had taken the pot.
+The [[centipede game]](https://www.investopedia.com/terms/c/centipede-game.asp) is an extensive-form game in game theory in which two players alternately get a chance to take the larger share of a slowly increasing money stash. It is arranged so that if a player passes the stash to his opponent who then takes the stash, the player receives a smaller amount than if he had taken the pot.
 
 The centipede game concludes as soon as a player takes the stash, with that player getting the larger portion and the other player getting the smaller portion. The game has a pre-defined total number of rounds, which are known to each player in advance.
 

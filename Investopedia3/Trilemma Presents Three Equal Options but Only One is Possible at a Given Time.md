@@ -30,9 +30,9 @@ Trilemma often is synonymous with the "impossible trinity," also called the Mund
 
 When making fundamental decisions about managing international monetary policy, a trilemma suggests that countries have three possible options from which to choose. According to the Mundell-Fleming trilemma model, these options include:
 
-1.  Setting a fixed currency [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp)
-2.  Allowing capital to flow freely with no fixed currency [exchange rate](https://www.investopedia.com/articles/forex/090314/how-calculate-exchange-rate.asp) agreement
-3.  Autonomous [monetary policy](https://www.investopedia.com/ask/answers/040315/how-do-fiscal-and-monetary-policies-affect-aggregate-demand.asp)
+1.  Setting a fixed currency [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp)
+2.  Allowing capital to flow freely with no fixed currency [[exchange rate]](https://www.investopedia.com/articles/forex/090314/how-calculate-exchange-rate.asp) agreement
+3.  Autonomous [[monetary policy]](https://www.investopedia.com/ask/answers/040315/how-do-fiscal-and-monetary-policies-affect-aggregate-demand.asp)
 
 Image by Julie Bang © Investopedia 2019
 
@@ -48,12 +48,12 @@ The challenge for a government’s international monetary policy comes in choosi
 
 ## Academic Influences
 
-The theory of the policy trilemma is frequently credited to the economists [Robert Mundell](https://www.investopedia.com/terms/o/optimal-currency-area.asp) and Marcus Fleming, who independently described the relationships among exchange rates, capital flows, and monetary policy in the 1960s. Maurice Obstfeld, who became chief economist at the [International Monetary Fund (IMF)](https://www.investopedia.com/terms/i/imf.asp) in 2015, presented the model they developed as a "trilemma" in a 1997 paper. 
+The theory of the policy trilemma is frequently credited to the economists [Robert Mundell](https://www.investopedia.com/terms/o/optimal-currency-area.asp) and Marcus Fleming, who independently described the relationships among exchange rates, capital flows, and monetary policy in the 1960s. Maurice Obstfeld, who became chief economist at the [[International Monetary Fund (IMF)]](https://www.investopedia.com/terms/i/imf.asp) in 2015, presented the model they developed as a "trilemma" in a 1997 paper. 
 
 The French economist [Hélène Rey](https://www.nber.org/papers/w21162) argued that the trilemma is not as simple as it appears. In the modern day, Rey believes that the majority of countries are faced with only two options, or a dilemma, since fixed currency pegs are not usually effective, leading to a focus on the relationship between independent monetary policy and free capital flow.
 
 ## Real World Example
 
-A real-world example of solving these trade-offs occurs in the [eurozone](https://www.investopedia.com/terms/e/eurozone.asp), where countries are closely interconnected. By forming the eurozone and using one currency, the countries have ultimately opted for side A of the triangle, maintaining a single currency (in effect a one-to-one peg coupled with the free capital flow).
+A real-world example of solving these trade-offs occurs in the [[eurozone]](https://www.investopedia.com/terms/e/eurozone.asp), where countries are closely interconnected. By forming the eurozone and using one currency, the countries have ultimately opted for side A of the triangle, maintaining a single currency (in effect a one-to-one peg coupled with the free capital flow).
 
 Following World War II, the wealthy opted for side C under the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp), which pegged currencies to the U.S. dollar but allowed countries to set their own interest rates. Cross-border capital flows were so small that this system held for a couple of decades—the exception being Mundell's native Canada, where he gained special insight into the tensions inherent in the Bretton Woods system.

@@ -18,13 +18,13 @@ M-Pesa
 
 M-Pesa is a mobile banking service that allows users to store and transfer money through their mobile phones. M-Pesa was introduced in Kenya as an alternative way for the population of the country to have access to financial services. Safaricom, the largest mobile phone operator in Kenya, launched M-Pesa in 2007. The service is a blend of two entities where _M_ means mobile and _Pesa_ means money or payment in the Swahili language.
 
-One of the drives for Fintech innovations, like M-Pesa, is [financial inclusion](https://www.investopedia.com/terms/f/financial-inclusion.asp), which is mostly geared toward an [underbanked](https://www.investopedia.com/terms/u/underbanked.asp) or [unbanked](https://www.investopedia.com/terms/u/unbanked.asp) group of people. Financial inclusion is an initiative that seeks to include residents who have no access to banks or who can’t afford the required minimum deposits in the digital banking era. In order for this initiative to succeed, different sectors must collaborate in sharing data with each other and build a meaningful digital platform.
+One of the drives for Fintech innovations, like M-Pesa, is [[financial inclusion]](https://www.investopedia.com/terms/f/financial-inclusion.asp), which is mostly geared toward an [[underbanked]](https://www.investopedia.com/terms/u/underbanked.asp) or [[unbanked]](https://www.investopedia.com/terms/u/unbanked.asp) group of people. Financial inclusion is an initiative that seeks to include residents who have no access to banks or who can’t afford the required minimum deposits in the digital banking era. In order for this initiative to succeed, different sectors must collaborate in sharing data with each other and build a meaningful digital platform.
 
 ### Key Takeaways
 
 -   M-Pesa is one of the innovative tools that have been birthed from the collaboration of telecommunication and banking sectors in East Africa.
 -   M-Pesa began in Kenya and is being utilized in 10 countries, including India and Romania. 
--   Emergent technology in the financial sector, or [Fintech](https://www.investopedia.com/terms/f/fintech.asp), has made it possible for financial services and products, like M-Pesa, to be more accessible at small costs.
+-   Emergent technology in the financial sector, or [[Fintech]](https://www.investopedia.com/terms/f/fintech.asp), has made it possible for financial services and products, like M-Pesa, to be more accessible at small costs.
 -   M-Pesa makes it possible for unbanked people to pay for and receive goods and services using a mobile phone instead of utilizing a brick-and-mortar bank.
 
 This cross-communication tactic used by M-Pesa is developing rapidly in sub-Saharan Africa, where the telecommunication and banking sectors are working together to create mobile banking services for those with limited access to traditional banking.
@@ -35,9 +35,9 @@ M-Pesa is a virtual banking system that provides transaction services through a 
 
 Users with no bank accounts can access the numerous M-Pesa outlets distributed across the country. The money that needs to be stored is given to the kiosk attendant, who transfers the amount in digital form to the user’s M-Pesa’s account.
 
-Cash collected from M-Pesa is deposited in bank accounts held by Safaricom. The bank accounts serve as regular [checking accounts](https://www.investopedia.com/terms/c/checkingaccount.asp) and are insured up to a maximum of 100,000 shillings (or $1000) by the Deposit Protection Fund.
+Cash collected from M-Pesa is deposited in bank accounts held by Safaricom. The bank accounts serve as regular [[checking accounts]](https://www.investopedia.com/terms/c/checkingaccount.asp) and are insured up to a maximum of 100,000 shillings (or $1000) by the Deposit Protection Fund.
 
-M-Pesa provides receipts as proof of transaction. For a transaction to take place, both parties have to exchange each other’s phone numbers because the phone numbers act as account numbers. After settlement, both parties receive an SMS notification with the full name of the [counterparty](https://www.investopedia.com/terms/c/counterparty.asp) and the amount of funds deposited or withdrawn from the user’s account. The mobile receipt, which is received within seconds, helps to promote transparency for all individuals involved in a transaction.
+M-Pesa provides receipts as proof of transaction. For a transaction to take place, both parties have to exchange each other’s phone numbers because the phone numbers act as account numbers. After settlement, both parties receive an SMS notification with the full name of the [[counterparty]](https://www.investopedia.com/terms/c/counterparty.asp) and the amount of funds deposited or withdrawn from the user’s account. The mobile receipt, which is received within seconds, helps to promote transparency for all individuals involved in a transaction.
 
 ## An Example of M-Pesa
 
@@ -51,6 +51,6 @@ Through mobile payment services like M-Pesa, the standard of living in Kenya has
 
 Using M-Pesa allows small business owners in remote and rural areas to conduct financial transactions safely and easily via their mobile phones.
 
-To [combat fraud](https://www.investopedia.com/articles/pf/05/051805.asp), Safaricom mandates that users of a Safaricom SIM card who want to register for M-Pesa have to do so with a valid government ID such as the Kenyan national identification card or a passport. This way, each transaction is marked with the identification of the party transferring, paying, depositing, or withdrawing money from an account.
+To [[combat fraud]](https://www.investopedia.com/articles/pf/05/051805.asp), Safaricom mandates that users of a Safaricom SIM card who want to register for M-Pesa have to do so with a valid government ID such as the Kenyan national identification card or a passport. This way, each transaction is marked with the identification of the party transferring, paying, depositing, or withdrawing money from an account.
 
-Mobile money is increasingly being adopted in developing nations where a high percentage of the population has little or no access to traditional banking. Revolutionary services like Paga, MTN Mobile Money, Airtel Money, and Orange Money are disrupting the traditional [payment systems](https://www.investopedia.com/articles/economics/08/nps.asp) used frequently by residents of emerging nations, by changing the economy from a cash society to a digital one.
+Mobile money is increasingly being adopted in developing nations where a high percentage of the population has little or no access to traditional banking. Revolutionary services like Paga, MTN Mobile Money, Airtel Money, and Orange Money are disrupting the traditional [[payment systems]](https://www.investopedia.com/articles/economics/08/nps.asp) used frequently by residents of emerging nations, by changing the economy from a cash society to a digital one.

@@ -16,9 +16,9 @@ author: Will Kenton
 What Is Nonpassive Income and Losses?
 ## What Are Nonpassive Income and Losses?
 
-Nonpassive income and losses constitute any income or losses that cannot be classified as passive. Nonpassive income includes any [active income](https://www.investopedia.com/terms/a/activeincome.asp), such as wages, [business income](https://www.investopedia.com/terms/b/businessincome.asp), or investment income. Nonpassive losses include losses incurred in the [active management](https://www.investopedia.com/terms/a/activemanagement.asp) of a business. Nonpassive income and losses are usually declarable and deductible in the year incurred.
+Nonpassive income and losses constitute any income or losses that cannot be classified as passive. Nonpassive income includes any [[active income]](https://www.investopedia.com/terms/a/activeincome.asp), such as wages, [[business income]](https://www.investopedia.com/terms/b/businessincome.asp), or investment income. Nonpassive losses include losses incurred in the [[active management]](https://www.investopedia.com/terms/a/activemanagement.asp) of a business. Nonpassive income and losses are usually declarable and deductible in the year incurred.
 
-Nonpassive income and losses cannot be offset with passive losses or income. For example, wages or self-employment income cannot be offset by losses from partnerships or other [passive activities](https://www.investopedia.com/terms/p/passiveactivity.asp). Conversely, nonpassive losses cannot be offset by [passive income](https://www.investopedia.com/terms/p/passiveincome.asp) from partnerships or other sources of income in which the taxpayer is not a material participant.
+Nonpassive income and losses cannot be offset with passive losses or income. For example, wages or self-employment income cannot be offset by losses from partnerships or other [[passive activities]](https://www.investopedia.com/terms/p/passiveactivity.asp). Conversely, nonpassive losses cannot be offset by [[passive income]](https://www.investopedia.com/terms/p/passiveincome.asp) from partnerships or other sources of income in which the taxpayer is not a material participant.
 
 ## Understanding Nonpassive Income and Losses
 

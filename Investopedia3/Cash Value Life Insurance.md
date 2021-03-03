@@ -29,9 +29,9 @@ Cash value life insurance is a form of [permanent life insurance](https://www.i
 
 ## How Cash Value Life Insurance Works
 
-Cash value insurance is permanent life insurance because it provides coverage for the policyholder’s life. Traditionally, cash value life insurance has higher premiums than [term life insurance](https://www.investopedia.com/terms/t/termlife.asp) because of the cash value element. Most cash value life insurance policies require a fixed-level premium payment, of which a portion is allocated to the cost of insurance and the remaining deposited into a cash value account.2
+Cash value insurance is permanent life insurance because it provides coverage for the policyholder’s life. Traditionally, cash value life insurance has higher premiums than [[term life insurance]](https://www.investopedia.com/terms/t/termlife.asp) because of the cash value element. Most cash value life insurance policies require a fixed-level premium payment, of which a portion is allocated to the cost of insurance and the remaining deposited into a cash value account.2
 
-The cash value of life insurance earns a modest rate of interest, with taxes deferred on the accumulated earnings. Thus, [the cash value of life insurance will increase over time](https://www.investopedia.com/articles/personal-finance/082114/how-cash-value-builds-life-insurance-policy.asp). As the life insurance cash value increases, the insurance company’s risk decreases, because the accumulated cash value offsets part of the insurer’s liability.
+The cash value of life insurance earns a modest rate of interest, with taxes deferred on the accumulated earnings. Thus, [[the cash value of life insurance will increase over time]](https://www.investopedia.com/articles/personal-finance/082114/how-cash-value-builds-life-insurance-policy.asp). As the life insurance cash value increases, the insurance company’s risk decreases, because the accumulated cash value offsets part of the insurer’s liability.
 
 ## Example of Cash Value Life Insurance
 
@@ -39,7 +39,7 @@ Consider a policy with a $25,000 death benefit. The policy has no outstanding lo
 
 ## Advantages and Disadvantages of Cash Value Life Insurance
 
-The cash value component [serves as a living benefit for policyholders](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp) from which they may draw funds. The life insurance net cash value is what the policyholder or their beneficiary has left over once the insurance company deducts its fees or any expenses incurred during the ownership of the policy. There are several options for accessing funds. For most policies, partial [surrenders](https://www.investopedia.com/terms/c/cashsurrendervalue.asp) or withdrawals are permissible but these can reduce the death benefit.
+The cash value component [[serves as a living benefit for policyholders]](https://www.investopedia.com/articles/personal-finance/082114/6-ways-capture-cash-value-life-insurance.asp) from which they may draw funds. The life insurance net cash value is what the policyholder or their beneficiary has left over once the insurance company deducts its fees or any expenses incurred during the ownership of the policy. There are several options for accessing funds. For most policies, partial [[surrenders]](https://www.investopedia.com/terms/c/cashsurrendervalue.asp) or withdrawals are permissible but these can reduce the death benefit.
 
 Taxes are deferred on earnings until withdrawn from the policy and distributed. Once distributed, earnings are taxable at the policyholder’s standard tax rate. Some policies allow for unlimited withdrawals, while others restrict how many draws can be taken during a term or calendar year. Some policies limit the amounts available for removal (e.g., minimum $500).
 

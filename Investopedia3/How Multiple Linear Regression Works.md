@@ -16,9 +16,9 @@ author: Will Kenton
 How Multiple Linear Regression Works
 ## What Is Multiple Linear Regression (MLR)?
 
-Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the [linear relationship](https://www.investopedia.com/terms/l/linearrelationship.asp) between the explanatory (independent) variables and response (dependent) variable.
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the [[linear relationship]](https://www.investopedia.com/terms/l/linearrelationship.asp) between the explanatory (independent) variables and response (dependent) variable.
 
-In essence, multiple regression is the extension of ordinary least-squares (OLS) [regression](https://www.investopedia.com/terms/r/regression.asp) because it involves more than one explanatory variable.
+In essence, multiple regression is the extension of ordinary least-squares (OLS) [[regression]](https://www.investopedia.com/terms/r/regression.asp) because it involves more than one explanatory variable.
 
 ## Formula and Calculation of Multiple Linear Regression
 
@@ -36,12 +36,12 @@ Simple linear regression is a function that allows an analyst or statistician to
 
 The multiple regression model is based on the following assumptions:
 
--   There is a [linear relationship](https://www.investopedia.com/terms/l/linearrelationship.asp) between the dependent variables and the independent variables
--   The independent variables are not too highly [correlated](https://www.investopedia.com/terms/c/correlation.asp) with each other
+-   There is a [[linear relationship]](https://www.investopedia.com/terms/l/linearrelationship.asp) between the dependent variables and the independent variables
+-   The independent variables are not too highly [[correlated]](https://www.investopedia.com/terms/c/correlation.asp) with each other
 -   yi observations are selected independently and randomly from the population
--   Residuals should be [normally distributed](https://www.investopedia.com/terms/n/normaldistribution.asp) with a mean of 0 and [variance](https://www.investopedia.com/terms/v/variance.asp) _σ_
+-   Residuals should be [[normally distributed]](https://www.investopedia.com/terms/n/normaldistribution.asp) with a mean of 0 and [[variance]](https://www.investopedia.com/terms/v/variance.asp) _σ_
 
-The [coefficient of determination](https://www.investopedia.com/terms/c/coefficient-of-determination.asp) (R-squared) is a statistical metric that is used to measure how much of the variation in outcome can be explained by the variation in the independent variables. R2 always increases as more predictors are added to the MLR model, even though the predictors may not be related to the outcome variable.
+The [[coefficient of determination]](https://www.investopedia.com/terms/c/coefficient-of-determination.asp) (R-squared) is a statistical metric that is used to measure how much of the variation in outcome can be explained by the variation in the independent variables. R2 always increases as more predictors are added to the MLR model, even though the predictors may not be related to the outcome variable.
 
 R2 by itself can't thus be used to identify which predictors should be included in a model and which should be excluded. R2 can only be between 0 and 1, where 0 indicates that the outcome cannot be predicted by any of the independent variables and 1 indicates that the outcome can be predicted without error from the independent variables.1
 
@@ -51,7 +51,7 @@ When interpreting the results of multiple regression, beta coefficients are vali
 
 As an example, an analyst may want to know how the movement of the market affects the price of ExxonMobil (XOM). In this case, their linear equation will have the value of the S&P 500 index as the independent variable, or predictor, and the price of XOM as the dependent variable.
 
-In reality, there are multiple factors that predict the outcome of an event. The price movement of ExxonMobil, for example, depends on more than just the performance of the overall market. Other predictors such as the price of oil, interest rates, and the price movement of oil [futures](https://www.investopedia.com/terms/f/futures.asp) can affect the price of XOM and stock prices of other oil companies. To understand a relationship in which more than two variables are present, multiple linear regression is used.
+In reality, there are multiple factors that predict the outcome of an event. The price movement of ExxonMobil, for example, depends on more than just the performance of the overall market. Other predictors such as the price of oil, interest rates, and the price movement of oil [[futures]](https://www.investopedia.com/terms/f/futures.asp) can affect the price of XOM and stock prices of other oil companies. To understand a relationship in which more than two variables are present, multiple linear regression is used.
 
 Multiple linear regression (MLR) is used to determine a mathematical relationship among a number of random variables. In other terms, MLR examines how multiple independent variables are related to one dependent variable. Once each of the independent factors has been determined to predict the dependent variable, the information on the multiple variables can be used to create an accurate prediction on the level of effect they have on the outcome variable. The model creates a relationship in the form of a straight line (linear) that best approximates all the individual data points.3
 
@@ -63,7 +63,7 @@ Referring to the MLR equation above, in our example:
 -   xi3 \= value of S&P 500 index
 -   xi4\= price of oil futures
 -   B0 = y-intercept at time zero
--   B1 = [regression coefficient](https://www.investopedia.com/terms/r/regression.asp) that measures a unit change in the dependent variable when xi1 changes - the change in XOM price when interest rates change
+-   B1 = [[regression coefficient]](https://www.investopedia.com/terms/r/regression.asp) that measures a unit change in the dependent variable when xi1 changes - the change in XOM price when interest rates change
 -   B2 = coefficient value that measures a unit change in the dependent variable when xi2 changes—the change in XOM price when oil prices change
 
 The least-squares estimates, B0, B1, B2…Bp, are usually computed by statistical software. As many variables can be included in the regression model in which each independent variable is differentiated with a number—1,2, 3, 4...p. The multiple regression model allows an analyst to predict an outcome based on information provided on multiple explanatory variables.

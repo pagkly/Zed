@@ -16,9 +16,9 @@ author: Will Kenton
 What the Total Debt-to-Capitalization Ratio Tells Us
 ## What Is the Total Debt-to-Capitalization Ratio?
 
-The total [debt-to-capitalization ratio](https://www.investopedia.com/terms/d/debt-to-capitalratio.asp) is a tool that measures the total amount of outstanding company [debt](https://www.investopedia.com/terms/d/debtratio.asp) as a percentage of the firm’s total capitalization. The ratio is an indicator of the company's [leverage](https://www.investopedia.com/terms/l/leverage.asp), which is debt used to purchase assets.
+The total [[debt-to-capitalization ratio]](https://www.investopedia.com/terms/d/debt-to-capitalratio.asp) is a tool that measures the total amount of outstanding company [[debt]](https://www.investopedia.com/terms/d/debtratio.asp) as a percentage of the firm’s total capitalization. The ratio is an indicator of the company's [[leverage]](https://www.investopedia.com/terms/l/leverage.asp), which is debt used to purchase assets.
 
-Companies with higher debt must manage it carefully, ensuring enough cash flow is on hand to manage principal and interest payments on debt. Higher debt as a percentage of total capital means a company has a higher risk of [insolvency](https://www.investopedia.com/terms/i/insolvency.asp).
+Companies with higher debt must manage it carefully, ensuring enough cash flow is on hand to manage principal and interest payments on debt. Higher debt as a percentage of total capital means a company has a higher risk of [[insolvency]](https://www.investopedia.com/terms/i/insolvency.asp).
 
 ## The Formula for the Total Debt-to-Capitalization Ratio Is
 
@@ -26,7 +26,7 @@ Total debt to capitalization\=(SD+LTD)(SD+LTD+SE)where:SD\=short-term debtLT
 
 ## What Does the Total Debt-to-Capitalization Ratio Tell You?
 
-Every business uses assets to generate sales and profits, and capitalization refers to the amount of money raised to purchase assets. A business can raise money by issuing debt to creditors or by selling stock to shareholders. You can see the amount of capital raised as reported in the long-term debt and stockholders' [equity accounts](https://www.investopedia.com/terms/e/equityaccounting.asp) on a company's balance sheet.
+Every business uses assets to generate sales and profits, and capitalization refers to the amount of money raised to purchase assets. A business can raise money by issuing debt to creditors or by selling stock to shareholders. You can see the amount of capital raised as reported in the long-term debt and stockholders' [[equity accounts]](https://www.investopedia.com/terms/e/equityaccounting.asp) on a company's balance sheet.
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ Assume, for example, that company ABC has short-term debt of $10 million, long-t
 
 ($10 mill.+$30 mill.)($10 mill.+$30 mill.+$60 mill.)\=0.4\=40%\\frac{(\\$10 \\text{ mill.} + \\$30 \\text{ mill.})} {(\\$10 \\text{ mill.} + \\$30 \\text{ mill.} + \\$60 \\text{ mill.})} = 0.4 = 40\\%
 
-This ratio indicates that 40% of the company’s [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp) consists of debt.
+This ratio indicates that 40% of the company’s [[capital structure]](https://www.investopedia.com/terms/c/capitalstructure.asp) consists of debt.
 
 Consider the capital structure of another company, XYZ, which has short-term debt of $5 million, long-term debt of $20 million and shareholders' equity of $15 million. The firm’s debt-to-capitalization ratio would be computed as follows:
 
@@ -51,4 +51,4 @@ Consider the capital structure of another company, XYZ, which has short-term deb
 
 Although XYZ has a lower dollar amount of total debt compared to ABC, $25 million versus $40 million, debt comprises a significantly larger part of its capital structure. In the event of an economic downturn, XYZ may have a difficult time making the interest payments on its debt, compared to firm ABC.
 
-The [acceptable level of total debt](https://www.investopedia.com/ask/answers/021215/what-good-debt-ratio-and-what-bad-debt-ratio.asp) for a company depends on the industry in which it operates. While companies in capital-intensive sectors such as utilities, pipelines, and telecommunications are typically highly leveraged, their cash flows have a greater degree of predictability than companies in other sectors that generate less consistent earnings.
+The [[acceptable level of total debt]](https://www.investopedia.com/ask/answers/021215/what-good-debt-ratio-and-what-bad-debt-ratio.asp) for a company depends on the industry in which it operates. While companies in capital-intensive sectors such as utilities, pipelines, and telecommunications are typically highly leveraged, their cash flows have a greater degree of predictability than companies in other sectors that generate less consistent earnings.

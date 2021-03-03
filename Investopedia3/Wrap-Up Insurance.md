@@ -16,7 +16,7 @@ author: Julia Kagan
 Wrap-Up Insurance
 ## What Is Wrap-Up Insurance?
 
-Wrap-up insurance is a liability policy that serves as all-encompassing [insurance](https://www.investopedia.com/terms/i/insurance.asp) that protects all contractors and subcontractors working on large projects costing over $10 million. The two types of wrap-up insurance are owner-controlled and contractor-controlled. 
+Wrap-up insurance is a liability policy that serves as all-encompassing [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) that protects all contractors and subcontractors working on large projects costing over $10 million. The two types of wrap-up insurance are owner-controlled and contractor-controlled. 
 
 Owner-controlled insurance is set up by the owner of a project for the benefit of the builder or contractor to cover all listed contractors. The general contractor, meanwhile, may use a contractor-controlled insurance program to extend coverage to all the contractors and subcontractors signed up on the project.
 
@@ -28,7 +28,7 @@ Owner-controlled insurance is set up by the owner of a project for the benefit
 
 ## Understanding Wrap-Up Insurance
 
-The intent of a wrap-up insurance policy is to provide peace of mind that everyone involved in a project is insured properly. Wrap-up insurance is sweeping [blanket coverage](https://www.investopedia.com/terms/b/blanket_insurance.asp) that protects the owner, contractors, and subcontractors. Wrap-up insurance is important because it avoids the need for every contractor and subcontractor to obtain their own [liability insurance](https://www.investopedia.com/terms/l/liability_insurance.asp). If there were several policies, there might be gaps in the coverage or insufficient limits. Instead, wrap-up insurance is more effective at making sure that all of the liability risks are covered adequately.
+The intent of a wrap-up insurance policy is to provide peace of mind that everyone involved in a project is insured properly. Wrap-up insurance is sweeping [[blanket coverage]](https://www.investopedia.com/terms/b/blanket_insurance.asp) that protects the owner, contractors, and subcontractors. Wrap-up insurance is important because it avoids the need for every contractor and subcontractor to obtain their own [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp). If there were several policies, there might be gaps in the coverage or insufficient limits. Instead, wrap-up insurance is more effective at making sure that all of the liability risks are covered adequately.
 
 For example, consider an owner-controlled insurance program purchased by the owner on behalf of the builder or contractor. Counting add-ons, the insurance includes workers compensation, general liability, excess liability, pollution liability, professional liability, builder's risk, and railroad protective liability. While the cost of wrap-up insurance can be expensive, the cost can be divided among the general contractors and sub-contractors.
 
@@ -42,7 +42,7 @@ This covers all liabilities for a project, including bodily injury coverage a
 
 ### Builders Risk 
 
-Builders risk covers for any water, weather, and fire damages to a building under construction. In other words, builders risk is essentially the same as [property insurance](https://www.investopedia.com/terms/p/property-insurance.asp) except this covers buildings under construction.
+Builders risk covers for any water, weather, and fire damages to a building under construction. In other words, builders risk is essentially the same as [[property insurance]](https://www.investopedia.com/terms/p/property-insurance.asp) except this covers buildings under construction.
 
 ### Umbrella Liability 
 

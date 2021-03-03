@@ -18,7 +18,7 @@ Dutch Auction Definition
 
 A Dutch auction is a market structure in which the price of something offered is determined after taking in all bids to arrive at the highest price at which the total offering can be sold. In this type of auction, investors place a bid for the amount they are willing to buy in terms of quantity and price.
 
-A Dutch auction also refers to a type of auction in which the price of an item is lowered until it gets a bid. The first bid made is the winning bid and results in a sale, assuming that the price is above the [reserve price](https://www.investopedia.com/terms/r/reserve-price.asp). This is in contrast to typical auction markets, where the price starts low and then rise as bidders compete among one another to be the successful buyer.
+A Dutch auction also refers to a type of auction in which the price of an item is lowered until it gets a bid. The first bid made is the winning bid and results in a sale, assuming that the price is above the [[reserve price]](https://www.investopedia.com/terms/r/reserve-price.asp). This is in contrast to typical auction markets, where the price starts low and then rise as bidders compete among one another to be the successful buyer.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ A Dutch auction also refers to a type of auction in which the price of an item i
 
 ## Understanding Dutch Auction for Public Offerings
 
-If a company is using a Dutch auction [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO), potential investors enter their bids for the number of shares they want to purchase as well as the price they are willing to pay. For example, an investor may place a bid for 100 shares at $100 while another investor offers $95 for 500 shares.
+If a company is using a Dutch auction [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO), potential investors enter their bids for the number of shares they want to purchase as well as the price they are willing to pay. For example, an investor may place a bid for 100 shares at $100 while another investor offers $95 for 500 shares.
 
 Once all the bids are submitted, the allotted placement is assigned to the bidders from the highest bids down, until all of the allotted shares are assigned. However, the price that each bidder pays is based on the lowest price of all the allotted bidders, or essentially the last successful bid. Therefore, even if you bid $100 for your 1,000 shares, if the last successful bid is $80, you will only have to pay $80 for your 1,000 shares.
 
-The [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp) uses a Dutch auction to sell its securities. To help finance the country's debt, the US Treasury holds regular auctions to sell Treasury bills (T-bills), notes (T-notes), and bonds (T-bonds), collectively known as Treasuries. Prospective investors submit bids electronically through [TreasuryDirect](https://www.investopedia.com/terms/t/treasurydirect.asp) or the [Treasury Automated Auction Processing System](https://www.investopedia.com/terms/t/taaps.asp) (TAAPS), which accepts bids up to 30 days in advance of the auction. Suppose the Treasury seeks to raise $9 million in two-year notes with a 5% coupon. Let's assume the submitted bids are as follows:
+The [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) uses a Dutch auction to sell its securities. To help finance the country's debt, the US Treasury holds regular auctions to sell Treasury bills (T-bills), notes (T-notes), and bonds (T-bonds), collectively known as Treasuries. Prospective investors submit bids electronically through [[TreasuryDirect]](https://www.investopedia.com/terms/t/treasurydirect.asp) or the [[Treasury Automated Auction Processing System]](https://www.investopedia.com/terms/t/taaps.asp) (TAAPS), which accepts bids up to 30 days in advance of the auction. Suppose the Treasury seeks to raise $9 million in two-year notes with a 5% coupon. Let's assume the submitted bids are as follows:
 
 -   $1 million at 4.79%
 -   $2.5 million at 4.85%
@@ -43,9 +43,9 @@ The [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp) uses a 
 -   $1 million at 5.1%
 -   $5 million at 5.5%
 
-The bids with the lowest [yield](https://www.investopedia.com/terms/b/bond-yield.asp) will be accepted first since the issuer will prefer to pay lower yields to its bond investors. In this case, since the Treasury is looking to raise $9 million, it will accept the bids with the lowest yield up to 5.07%. At this mark, only $2 million of the $3 million bid will be approved. All bids above the 5.07% yield will be rejected, and bids below will be accepted. In effect, this auction is cleared at 5.07%, and all successful bidders receive the 5.07% yield.
+The bids with the lowest [[yield]](https://www.investopedia.com/terms/b/bond-yield.asp) will be accepted first since the issuer will prefer to pay lower yields to its bond investors. In this case, since the Treasury is looking to raise $9 million, it will accept the bids with the lowest yield up to 5.07%. At this mark, only $2 million of the $3 million bid will be approved. All bids above the 5.07% yield will be rejected, and bids below will be accepted. In effect, this auction is cleared at 5.07%, and all successful bidders receive the 5.07% yield.
 
-The Dutch auction also provides an alternative bidding process to [IPO pricing](https://www.investopedia.com/articles/financial-theory/11/how-an-ipo-is-valued.asp). When Google launched its public offering, it relied on a Dutch auction to earn a fair price.
+The Dutch auction also provides an alternative bidding process to [[IPO pricing]](https://www.investopedia.com/articles/financial-theory/11/how-an-ipo-is-valued.asp). When Google launched its public offering, it relied on a Dutch auction to earn a fair price.
 
 ## Lowest Bidding Dutch Auction
 
@@ -53,7 +53,7 @@ At a Dutch Auction, prices start high and are dropped successively until a bidde
 
 ## Benefits and Drawbacks of Dutch Auctions
 
-The use of Dutch Auctions for [initial public offerings](https://www.investopedia.com/terms/i/ipo.asp) offers benefits as well as drawbacks.
+The use of Dutch Auctions for [[initial public offerings]](https://www.investopedia.com/terms/i/ipo.asp) offers benefits as well as drawbacks.
 
 The biggest benefit of such auctions is that they are meant to democratize public offerings. As it happens currently, the process for conducting a typical IPO is mostly controlled by investment banks. They act as underwriters to the offering and shepherd it through roadshows, enabling institutional investors to purchase securities of the issuing company at a discount. They are also responsible for setting the IPO's price. A Dutch Auction allows small investors to take part in the offering.
 
@@ -65,7 +65,7 @@ Another drawback of Dutch Auctions is known as the "[winner's curse](https://www
 
 ## Example of Dutch Auction
 
-The most prominent example of a Dutch Auction in recent times was Google's IPO in August 2004. The company opted for this type of offering to prevent a "pop" in its prices on the first day of trading. While the increase in share prices is a standard phenomenon in stock markets, it had escalated to bubble territory for tech stocks during the [Internet bubble](https://www.investopedia.com/terms/i/internet-bubble.asp) of 2000. From 1980 to 2001, the pop in first-day trading was 18.8%. That figure jumped to 77% in 1999 and in the first half of 2000.
+The most prominent example of a Dutch Auction in recent times was Google's IPO in August 2004. The company opted for this type of offering to prevent a "pop" in its prices on the first day of trading. While the increase in share prices is a standard phenomenon in stock markets, it had escalated to bubble territory for tech stocks during the [[Internet bubble]](https://www.investopedia.com/terms/i/internet-bubble.asp) of 2000. From 1980 to 2001, the pop in first-day trading was 18.8%. That figure jumped to 77% in 1999 and in the first half of 2000.
 
 Google's initial estimate for its offering was 25.9 million between the $108 to $135 range. But the company revised its expectations about a week before the actual offering after analysts questioned the reasoning behind those figures and suggested that Google was overpricing its shares. In the revised estimate, Google offered to sell 19.6 million shares to the public at a price range between $85 to $95.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Traveler’s Check
 ## What Is a Traveler’s Check?
 
-A traveler’s check is a once-popular but now largely outmoded medium of exchange utilized as an alternative to [hard currency](https://www.investopedia.com/terms/h/hardcurrency.asp). The product typically is used by people on vacation in foreign countries. It offers a safe way to travel overseas without cash. The issuing party, usually a bank, provides security against lost or stolen checks. Beginning in the late 1980s, [traveler’s checks have increasingly been supplanted by credit and prepaid debit cards](https://www.investopedia.com/articles/personal-finance/102314/cash-or-credit-better-european-trips.asp).
+A traveler’s check is a once-popular but now largely outmoded medium of exchange utilized as an alternative to [[hard currency]](https://www.investopedia.com/terms/h/hardcurrency.asp). The product typically is used by people on vacation in foreign countries. It offers a safe way to travel overseas without cash. The issuing party, usually a bank, provides security against lost or stolen checks. Beginning in the late 1980s, [[traveler’s checks have increasingly been supplanted by credit and prepaid debit cards]](https://www.investopedia.com/articles/personal-finance/102314/cash-or-credit-better-european-trips.asp).
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ A traveler’s check is a once-popular but now largely outmoded medium of exchan
 
 A traveler’s check is similar to a regular check because it has a unique check number or serial number. When a customer reports a check stolen or lost, the issuing company cancels that check and provides a new one. 
 
-A traveler’s check is for a prepaid fixed amount and operates like cash, so a purchaser can use it to buy goods or services when traveling. A customer can also exchange a traveler’s check for cash. Major financial service institutions issue traveler’s checks, and banks and [credit unions](https://www.investopedia.com/terms/c/creditunion.asp) sell them, though their ranks have significantly dwindled today. They often come with a 1% to 2% purchase fee. Companies that do still issue them today include American Express, Visa, and AAA.
+A traveler’s check is for a prepaid fixed amount and operates like cash, so a purchaser can use it to buy goods or services when traveling. A customer can also exchange a traveler’s check for cash. Major financial service institutions issue traveler’s checks, and banks and [[credit unions]](https://www.investopedia.com/terms/c/creditunion.asp) sell them, though their ranks have significantly dwindled today. They often come with a 1% to 2% purchase fee. Companies that do still issue them today include American Express, Visa, and AAA.
 
 American Express, Visa, and AAA are among the companies that still issue traveler’s checks.
 
-They come in several fixed denominations in a variety of currencies, making them [a safeguard in countries with fluctuating exchange rates](https://www.investopedia.com/articles/personal-finance/082114/best-places-exchange-currency.asp), and they do not have an expiration date. They are not linked to a customer’s bank account or line of credit and do not contain personally identifiable information, thus eliminating the risk of identity theft. They operate via a dual signature system. You sign them when you purchase them, and then you sign them again when you cash them, which is designed to prevent anyone other than the purchaser from using them.
+They come in several fixed denominations in a variety of currencies, making them [[a safeguard in countries with fluctuating exchange rates]](https://www.investopedia.com/articles/personal-finance/082114/best-places-exchange-currency.asp), and they do not have an expiration date. They are not linked to a customer’s bank account or line of credit and do not contain personally identifiable information, thus eliminating the risk of identity theft. They operate via a dual signature system. You sign them when you purchase them, and then you sign them again when you cash them, which is designed to prevent anyone other than the purchaser from using them.
 
-Many banks, hotels, and retailers used to accept them as cash, although some banks charged fees to cash them. However, with the rising worldwide use of credit cards and prepaid debit cards—such as the [Visa TravelMoney card](https://usa.visa.com/travel-with-visa/explore-product-benefits.html#1), which offers zero liability for its unauthorized use—it is getting much harder to find institutions that will cash traveler’s checks.
+Many banks, hotels, and retailers used to accept them as cash, although some banks charged fees to cash them. However, with the rising worldwide use of credit cards and prepaid debit cards—such as the [[Visa TravelMoney card]](https://usa.visa.com/travel-with-visa/explore-product-benefits.html#1), which offers zero liability for its unauthorized use—it is getting much harder to find institutions that will cash traveler’s checks.
 
 ## History of Traveler’s Checks
 

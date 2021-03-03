@@ -18,7 +18,7 @@ What Is a Fiscal Deficit?
 
 A fiscal deficit is a shortfall in a government's income compared with its spending. The government that has a fiscal deficit is spending beyond its means.
 
-A fiscal deficit is calculated as a percentage of [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP), or simply as total dollars spent in excess of income. In either case, the income figure includes only taxes and other revenues and excludes money borrowed to make up the shortfall.
+A fiscal deficit is calculated as a percentage of [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP), or simply as total dollars spent in excess of income. In either case, the income figure includes only taxes and other revenues and excludes money borrowed to make up the shortfall.
 
 A fiscal deficit is different from fiscal debt. The latter is the total debt accumulated over years of deficit spending.
 
@@ -30,15 +30,15 @@ A fiscal deficit is different from fiscal debt. The latter is the total debt acc
 
 ## Understanding the Fiscal Deficit
 
-A fiscal deficit is not universally regarded as a negative event. For example, the influential economist [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp) argued that deficit spending and the debts incurred to sustain that spending can help countries climb out of economic recession.
+A fiscal deficit is not universally regarded as a negative event. For example, the influential economist [[John Maynard Keynes]](https://www.investopedia.com/terms/j/john_maynard_keynes.asp) argued that deficit spending and the debts incurred to sustain that spending can help countries climb out of economic recession.
 
-Fiscal conservatives generally argue against deficits and in favor of a [balanced budget](https://www.investopedia.com/terms/b/balanced-budget.asp) policy.
+Fiscal conservatives generally argue against deficits and in favor of a [[balanced budget]](https://www.investopedia.com/terms/b/balanced-budget.asp) policy.
 
 In the United States, fiscal deficits have been occurring regularly since the nation declared independence. Alexander Hamilton, the first Secretary of the Treasury, proposed issuing bonds to pay off the debts incurred by the states during the Revolutionary War.
 
 ### Record Fiscal Deficits
 
-At the height of the Depression, President Franklin D. Roosevelt made a virtue of necessity and issued the first [U.S. Savings Bonds](https://www.investopedia.com/articles/personal-finance/060614/time-cash-your-us-savings-bonds.asp) to encourage Americans to save more and, not incidentally, finance government spending.
+At the height of the Depression, President Franklin D. Roosevelt made a virtue of necessity and issued the first [[U.S. Savings Bonds]](https://www.investopedia.com/articles/personal-finance/060614/time-cash-your-us-savings-bonds.asp) to encourage Americans to save more and, not incidentally, finance government spending.
 
 In fact, President Roosevelt holds the record for the fastest-growing U.S. fiscal deficits. The New Deal policies designed to pull America out of the Great Depression, combined with the need to finance the country's entry into World War II, drove the federal deficit from 4.5% of GDP in 1932 to 26.8% in 1943.1
 

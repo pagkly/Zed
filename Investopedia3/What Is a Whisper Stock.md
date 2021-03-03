@@ -16,13 +16,13 @@ author: Carol Kopp
 What Is a Whisper Stock?
 ## Whisper Stock: An Overview
 
-A public company's shares can briefly become a whisper stock if rumors circulate that the company is the target of a [takeover](https://www.investopedia.com/terms/t/takeover.asp) offer. The whispers will probably be followed by an immediate surge in [trading volume](https://www.investopedia.com/terms/v/volumeoftrade.asp) and an increase in its share price.
+A public company's shares can briefly become a whisper stock if rumors circulate that the company is the target of a [[takeover]](https://www.investopedia.com/terms/t/takeover.asp) offer. The whispers will probably be followed by an immediate surge in [[trading volume]](https://www.investopedia.com/terms/v/volumeoftrade.asp) and an increase in its share price.
 
 Its price can fall back to Earth just as quickly when the whispers stop, whether they prove to be true or false.
 
 ## Understanding a Whisper Stock
 
-When two companies discuss a [merger](https://www.investopedia.com/terms/m/merger.asp) or an [acquisition](https://www.investopedia.com/terms/a/acquisition.asp) of one company by the other, the talks are held in the strictest secrecy. An insider who acts on the information in an attempt to make a profit or help someone else make a profit is committing the crime of [insider trading](https://www.investopedia.com/terms/i/insidertrading.asp).
+When two companies discuss a [[merger]](https://www.investopedia.com/terms/m/merger.asp) or an [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp) of one company by the other, the talks are held in the strictest secrecy. An insider who acts on the information in an attempt to make a profit or help someone else make a profit is committing the crime of [[insider trading]](https://www.investopedia.com/terms/i/insidertrading.asp).
 
 ### Key Takeaways
 
@@ -44,10 +44,10 @@ At one time such trading on inside information was flagrant. Loose talk by a ban
 
 ### SEC Rules
 
-The [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) has since tightened its rules and cracked down on insider trading. Anyone with inside information has to become more discreet about passing it on. Resources to go after those who trade on insider information are generally insufficient, but when someone is caught, the penalties are severe.
+The [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) has since tightened its rules and cracked down on insider trading. Anyone with inside information has to become more discreet about passing it on. Resources to go after those who trade on insider information are generally insufficient, but when someone is caught, the penalties are severe.
 
 It's impossible to put a stop to gossip, however. The sight of two CEOs having a private lunch is enough to start speculation in the stock of either or both companies.
 
 ### The Whisper Number
 
-A whisper stock is similar to a [whisper number](https://www.investopedia.com/terms/w/whispernumber.asp). The latter is an unofficial estimate of a company's impending announcement on quarterly earnings, typically shared by an investment professional with favored clients. The number tops earlier published estimates by the company and by analysts, suggesting that those who buy the stock immediately will profit when the good news is announced.
+A whisper stock is similar to a [[whisper number]](https://www.investopedia.com/terms/w/whispernumber.asp). The latter is an unofficial estimate of a company's impending announcement on quarterly earnings, typically shared by an investment professional with favored clients. The number tops earlier published estimates by the company and by analysts, suggesting that those who buy the stock immediately will profit when the good news is announced.

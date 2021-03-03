@@ -16,7 +16,7 @@ author: Will Kenton
 Introduction to the Family and Medical Leave Act (FMLA)
 ## What Is the Family and Medical Leave Act (FMLA)?
 
-The Family and Medical Leave Act (FMLA) is a labor law requiring larger employers to provide employees unpaid leave for serious family health issues. Such qualified medical and family reasons may include adoption, pregnancy, foster care placement, family or personal illness, or military leave. It also provides for the continuation of [health insurance](https://www.investopedia.com/terms/h/healthinsurance.asp) coverage and job protection while the employee is on leave. The FMLA is intended to provide families with the time and resources to deal with family emergencies, while also guiding employers.
+The Family and Medical Leave Act (FMLA) is a labor law requiring larger employers to provide employees unpaid leave for serious family health issues. Such qualified medical and family reasons may include adoption, pregnancy, foster care placement, family or personal illness, or military leave. It also provides for the continuation of [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) coverage and job protection while the employee is on leave. The FMLA is intended to provide families with the time and resources to deal with family emergencies, while also guiding employers.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ The Family and Medical Leave Act (FMLA) is a labor law requiring larger employer
 
 ## Understanding the Family and Medical Leave Act (FMLA)
 
-The Family and Medical Leave Act (FMLA) is an acknowledgment by the federal government of changes in families, the workplace, the [labor force](https://www.investopedia.com/terms/l/labor-market.asp), and the expectations of both employees and employers. For example, the proliferation of single-parent households, or households in which both parents work. The FMLA seeks to remove the choice workers and parents may have to make between job security and caring for their children, or elderly and extended family. It is an acknowledgment that children and families are better off when mothers can participate in early child-rearing, the outsized roles women play in caregiving, and the fact that their role as default caregiver has a significant impact on their working lives. The FMLA is often referred to as the "Family and Medical Leave Act of 1993." It was signed into law on Feb. 5, 1993, by President Bill Clinton.2
+The Family and Medical Leave Act (FMLA) is an acknowledgment by the federal government of changes in families, the workplace, the [[labor force]](https://www.investopedia.com/terms/l/labor-market.asp), and the expectations of both employees and employers. For example, the proliferation of single-parent households, or households in which both parents work. The FMLA seeks to remove the choice workers and parents may have to make between job security and caring for their children, or elderly and extended family. It is an acknowledgment that children and families are better off when mothers can participate in early child-rearing, the outsized roles women play in caregiving, and the fact that their role as default caregiver has a significant impact on their working lives. The FMLA is often referred to as the "Family and Medical Leave Act of 1993." It was signed into law on Feb. 5, 1993, by President Bill Clinton.2
 
 The Family and Medical Leave Act of 1993 guarantees that when an employee on leave returns to work, they can return to the job they held before the leave. If that job is no longer available, they must be offered a job that is essentially equal in pay and status.3
 
@@ -35,7 +35,7 @@ The Family and Medical Leave Act of 1993 guarantees that when an employee on lea
 
 An employee who takes unpaid leave that falls under the FMLA is job-protected; that is, the employee can return to the same position held before the leave began. If the same position is unavailable, the employer must provide a position that is substantially equal in pay, benefits, and responsibility.3
 
-To qualify for [FMLA](https://www.investopedia.com/articles/personal-finance/061615/how-fill-out-fmla-forms.asp), an employee must be employed by a business with 50 or more employees within a 75-mile radius of his or her work site. The employee must have worked for the employer for at least 12 months and 1,250 hours within the last 12 months. The FMLA mandates unpaid, job-protected leave for up to 12 weeks a year. The Department of Labor's [FMLA Informational Page](https://www.dol.gov/agencies/whd/fmla) offers more details.
+To qualify for [[FMLA]](https://www.investopedia.com/articles/personal-finance/061615/how-fill-out-fmla-forms.asp), an employee must be employed by a business with 50 or more employees within a 75-mile radius of his or her work site. The employee must have worked for the employer for at least 12 months and 1,250 hours within the last 12 months. The FMLA mandates unpaid, job-protected leave for up to 12 weeks a year. The Department of Labor's [[FMLA Informational Page]](https://www.dol.gov/agencies/whd/fmla) offers more details.
 
 ## FMLA Purposes
 

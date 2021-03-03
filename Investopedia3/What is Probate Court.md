@@ -16,11 +16,11 @@ author: Julia Kagan
 What is Probate Court?
 ## What Is Probate Court?
 
-Probate court is a segment of the judicial system that primarily handles such matters as wills, estates, [conservatorships](https://www.investopedia.com/terms/c/conservatorship.asp), and guardianships, as well as the commitment of mentally ill persons to institutions designed to help them. When wills are contested, for example, the probate court is responsible for ruling on the authenticity of the document and the mental stability of the person who signed it. The court also decides who receives which portion of the [decedent's](https://www.investopedia.com/terms/d/decedent.asp) assets, based on the instructions in the will or – barring that – other laws in place.
+Probate court is a segment of the judicial system that primarily handles such matters as wills, estates, [[conservatorships]](https://www.investopedia.com/terms/c/conservatorship.asp), and guardianships, as well as the commitment of mentally ill persons to institutions designed to help them. When wills are contested, for example, the probate court is responsible for ruling on the authenticity of the document and the mental stability of the person who signed it. The court also decides who receives which portion of the [[decedent's]](https://www.investopedia.com/terms/d/decedent.asp) assets, based on the instructions in the will or – barring that – other laws in place.
 
 ## Understanding Probate Court
 
-The role of the probate court is to make sure that a deceased person's debts are paid and assets are allocated to the correct [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp). The term probate is used to describe the legal process that manages the assets and liabilities left behind by a recently deceased person. Probate is multifaceted in that it covers the overall legal process of dealing with a deceased person's assets and debt, the court that manages the process, and the actual distribution of assets itself.
+The role of the probate court is to make sure that a deceased person's debts are paid and assets are allocated to the correct [[beneficiaries]](https://www.investopedia.com/terms/b/beneficiary.asp). The term probate is used to describe the legal process that manages the assets and liabilities left behind by a recently deceased person. Probate is multifaceted in that it covers the overall legal process of dealing with a deceased person's assets and debt, the court that manages the process, and the actual distribution of assets itself.
 
 Individual states have specialized probate courts. Some states do not call it a probate court but instead refer to it as a surrogate’s court, orphan’s court or chancery court.
 
@@ -32,7 +32,7 @@ Individual states have specialized probate courts. Some states do not call it a 
 
 ## The Process of Probate Court
 
-The process of probate is initiated when a person files a petition for probate with the state's probate court system. This petition is normally filed by a family member of the deceased or by a designator of the deceased's will. The probate court then issues an order that appoints a person to be the [executor](https://www.investopedia.com/terms/e/executor.asp) or administrator of the deceased's estate. The executor or administrator is responsible for allocating the deceased's estate to the proper beneficiaries, among other administrative duties. A probate lawyer is often hired to help deal with the intricacies of probate.
+The process of probate is initiated when a person files a petition for probate with the state's probate court system. This petition is normally filed by a family member of the deceased or by a designator of the deceased's will. The probate court then issues an order that appoints a person to be the [[executor]](https://www.investopedia.com/terms/e/executor.asp) or administrator of the deceased's estate. The executor or administrator is responsible for allocating the deceased's estate to the proper beneficiaries, among other administrative duties. A probate lawyer is often hired to help deal with the intricacies of probate.
 
 ## Probate Court With a Will
 
@@ -40,4 +40,4 @@ When a person dies, the probate court determines if that person left behind a wi
 
 ## Probate Court Without a Will
 
-When a person dies with no will, the probate court allocates the person's assets to his or her [next of kin](https://www.investopedia.com/terms/n/next-of-kin.asp). This is known as the law of [intestate](https://www.investopedia.com/terms/i/intestate.asp) succession, and it outlines the allocation mix between surviving spouses, grandchildren, siblings, parents, aunts, and uncles.
+When a person dies with no will, the probate court allocates the person's assets to his or her [[next of kin]](https://www.investopedia.com/terms/n/next-of-kin.asp). This is known as the law of [[intestate]](https://www.investopedia.com/terms/i/intestate.asp) succession, and it outlines the allocation mix between surviving spouses, grandchildren, siblings, parents, aunts, and uncles.

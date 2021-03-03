@@ -16,9 +16,9 @@ author: Jason Fernando
 Strike Price Definition
 ## What Is a Strike Price?
 
-A strike price is the set price at which a derivative contract can be bought or sold when it is [exercised](https://www.investopedia.com/terms/e/exerciseprice.asp). For [call options](https://www.investopedia.com/terms/c/calloption.asp), the strike price is where the security can be bought by the option holder; for [put options](https://www.investopedia.com/terms/p/putoption.asp), the strike price is the price at which the security can be sold.
+A strike price is the set price at which a derivative contract can be bought or sold when it is [[exercised]](https://www.investopedia.com/terms/e/exerciseprice.asp). For [[call options]](https://www.investopedia.com/terms/c/calloption.asp), the strike price is where the security can be bought by the option holder; for [[put options]](https://www.investopedia.com/terms/p/putoption.asp), the strike price is the price at which the security can be sold.
 
-Strike price is also known as the [exercise price](https://www.investopedia.com/terms/e/exerciseprice.asp).
+Strike price is also known as the [[exercise price]](https://www.investopedia.com/terms/e/exerciseprice.asp).
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ Strike price is also known as the [exercise price](https://www.investopedia.com/
 
 ## Understanding Strike Prices
 
-Strike prices are used in [derivatives](https://www.investopedia.com/terms/d/derivative.asp) (mainly options) trading. Derivatives are financial products whose value is based (derived) on the underlying asset, usually another financial instrument. The strike price is a key variable of call and put options. For example, the buyer of a stock option call would have the right, but not the obligation, to buy that stock in the future at the strike price. Similarly, the buyer of a stock option put would have the right, but not the obligation, to sell that stock in the future at the strike price.
+Strike prices are used in [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) (mainly options) trading. Derivatives are financial products whose value is based (derived) on the underlying asset, usually another financial instrument. The strike price is a key variable of call and put options. For example, the buyer of a stock option call would have the right, but not the obligation, to buy that stock in the future at the strike price. Similarly, the buyer of a stock option put would have the right, but not the obligation, to sell that stock in the future at the strike price.
 
-The strike or exercise price is the most important determinant of option value. Strike prices are established when a contract is first written. It tells the investor what price the underlying asset must reach before the option is [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM). Strike prices are standardized, meaning they are at fixed dollar amounts, such as $31, $32, $33, $102.50, $105, and so on.
+The strike or exercise price is the most important determinant of option value. Strike prices are established when a contract is first written. It tells the investor what price the underlying asset must reach before the option is [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM). Strike prices are standardized, meaning they are at fixed dollar amounts, such as $31, $32, $33, $102.50, $105, and so on.
 
-[The price difference](https://www.investopedia.com/ask/answers/042715/what-difference-between-money-and-out-money.asp) between the underlying stock price and the strike price determines an option's value. For buyers of a call option, if the strike price is above the underlying stock price, the option is [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM). In this case, the option doesn't have [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp), but it may still have value based on volatility and time until expiration as either of these two factors could put the option in the money in the future. Conversely, If the underlying stock price is above the strike price, the option will have intrinsic value and be in the money.
+[The price difference](https://www.investopedia.com/ask/answers/042715/what-difference-between-money-and-out-money.asp) between the underlying stock price and the strike price determines an option's value. For buyers of a call option, if the strike price is above the underlying stock price, the option is [[out of the money]](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM). In this case, the option doesn't have [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp), but it may still have value based on volatility and time until expiration as either of these two factors could put the option in the money in the future. Conversely, If the underlying stock price is above the strike price, the option will have intrinsic value and be in the money.
 
 A buyer of a put option will be in the money when the underlying stock price is below the strike price and be out of the money when the underlying stock price is above the strike price. Again, an OTM option won't have intrinsic value, but it may still have value based on the volatility of the underlying asset and the time left until option expiration.
 

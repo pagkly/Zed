@@ -40,7 +40,7 @@ Ultra high-net-worth is generally quoted in terms of liquid assets over a certai
 
 Many of the world's super-rich citizens are self-made individuals. This is evident in _Forbes_' annually curated list of the world's richest people. On its World's Real-Time Billionaires List for 2021, the magazine ranks the daily worth on its wealth-tracking platform. According to the website, "The value of individuals’ public holdings are updated every 5 minutes when respective stock markets are open (there will be a 15-minute delay for stock prices)."3
 
-On _Forbes_' ever-changing list, [Elon Musk](https://www.investopedia.com/articles/personal-finance/082515/elon-musk-success-story-net-worth-education-top-quotes.asp) and Amazon.com CEO [Jeff Bezos](https://www.investopedia.com/investing/how-jeff-bezos-got-be-worlds-richest-man/) keep swapping number one and number two spots, as of Jan. 13, 2021. Others in the top 10 are Bill Gates, [Bernard Arnault](https://www.investopedia.com/terms/b/bernard-arnault.asp), [Mark Zuckerberg](https://www.investopedia.com/terms/m/mark-zuckerberg.asp).4 Musk, Bezos, and Gates all founded their own companies, and continue to take an active role in managing their immense wealth.
+On _Forbes_' ever-changing list, [[Elon Musk]](https://www.investopedia.com/articles/personal-finance/082515/elon-musk-success-story-net-worth-education-top-quotes.asp) and Amazon.com CEO [[Jeff Bezos]](https://www.investopedia.com/investing/how-jeff-bezos-got-be-worlds-richest-man/) keep swapping number one and number two spots, as of Jan. 13, 2021. Others in the top 10 are Bill Gates, [[Bernard Arnault]](https://www.investopedia.com/terms/b/bernard-arnault.asp), [[Mark Zuckerberg]](https://www.investopedia.com/terms/m/mark-zuckerberg.asp).4 Musk, Bezos, and Gates all founded their own companies, and continue to take an active role in managing their immense wealth.
 
 Others near the top of the world's UHNWI population include several children and in-laws of Sam Walton, the late founder of Wal-Mart.5
 
@@ -50,17 +50,17 @@ The number of billionaires in 2020, according to Forbes.5
 
 ## How the Ultra-High-Net-Worth Invest
 
-Most UHNWIs do not have their money sitting in [certificates of deposit (CDs)](https://www.investopedia.com/terms/c/certificateofdeposit.asp), money market accounts, or mutual funds in a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp). Here is how their portfolio asset allocations looked toward the end of 2019, according to Knight Frank:6
+Most UHNWIs do not have their money sitting in [[certificates of deposit (CDs)]](https://www.investopedia.com/terms/c/certificateofdeposit.asp), money market accounts, or mutual funds in a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp). Here is how their portfolio asset allocations looked toward the end of 2019, according to Knight Frank:6
 
 -   Property (as an investment): 27%
 -   Equities: 23%
 -   Bonds/Fixed Income: 17%
 -   Cash/Currencies: 11%
--   [Private Equity](https://www.investopedia.com/terms/p/privateequity.asp): 8%
+-   [[Private Equity]](https://www.investopedia.com/terms/p/privateequity.asp): 8%
 -   Collectibles: 5%
 -   Gold/Precious Metals 3%
--   [Crytocurrencies](https://www.investopedia.com/terms/c/cryptocurrency.asp): 1%
+-   [[Crytocurrencies]](https://www.investopedia.com/terms/c/cryptocurrency.asp): 1%
 
-When Forbes published the 2020 billionaires list, which was finalized in March, it pointed out that even the world's wealthiest weren't immune to the [economic impact of the coronavirus pandemic](https://www.investopedia.com/special-economic-impact-of-pandemics-4800597). At the time, the combined net worth of the world’s billionaires was $8 trillion, down $700 billion from 2019.5
+When Forbes published the 2020 billionaires list, which was finalized in March, it pointed out that even the world's wealthiest weren't immune to the [[economic impact of the coronavirus pandemic]](https://www.investopedia.com/special-economic-impact-of-pandemics-4800597). At the time, the combined net worth of the world’s billionaires was $8 trillion, down $700 billion from 2019.5
 
 But 25 of the wealthiest people on the list increased their net worth by $255 billion, combined, just two months after the U.S. stock market hit a low on March 23. Facebook's Zuckerberg saw some of the biggest gains, followed by Bezos, due to an increase in the stock prices of their companies. Elon Musk, however, saw the biggest gains in 2020, according to Forbes.7

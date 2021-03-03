@@ -16,9 +16,9 @@ author: Adam Hayes
 How Lease Payments Work
 ## What Are Lease Payments?
 
-A lease payment is the equivalent of the monthly rent, that is formally dictated under a contract between two parties, granting one participant the legal right to use the other individual's real estate holdings, manufacturing equipment, computers, software, or other fixed assets, for a specified amount of time. A lease provides the [lessee](https://www.investopedia.com/terms/l/lessee.asp) with limited right-to-use without transferring ownership in return for payment to the [lessor](https://www.investopedia.com/terms/l/lessor.asp).
+A lease payment is the equivalent of the monthly rent, that is formally dictated under a contract between two parties, granting one participant the legal right to use the other individual's real estate holdings, manufacturing equipment, computers, software, or other fixed assets, for a specified amount of time. A lease provides the [[lessee]](https://www.investopedia.com/terms/l/lessee.asp) with limited right-to-use without transferring ownership in return for payment to the [[lessor]](https://www.investopedia.com/terms/l/lessor.asp).
 
-The length of time in which lease payments will be made can range from a month-to-month timetable, as is traditionally the case with software-as-a-service ([SaaS](https://www.investopedia.com/terms/s/software-as-a-service-saas.asp)) business models, or it may contrarily extend through extremely long lengths of time, such as 100 years or more, which is often the case in [land-lease](https://www.investopedia.com/terms/l/land_lease_option.asp) scenarios.
+The length of time in which lease payments will be made can range from a month-to-month timetable, as is traditionally the case with software-as-a-service ([SaaS](https://www.investopedia.com/terms/s/software-as-a-service-saas.asp)) business models, or it may contrarily extend through extremely long lengths of time, such as 100 years or more, which is often the case in [[land-lease]](https://www.investopedia.com/terms/l/land_lease_option.asp) scenarios.
 
 ### Key Takeaways
 
@@ -31,15 +31,15 @@ The length of time in which lease payments will be made can range from a month-t
 
 Lease payments can be made by individuals as well as companies. Individuals traditionally use leases to finance cars, but they may also use them to obtain the use of computer equipment, tracts of land, and other physical assets. A lease payment amount is determined by a variety of different considerations, such as an asset's value, local residual values in a given neighborhood, discount rates, and a lessee's credit score.
 
-A company's lease payments are used in the calculation of the fixed-charge coverage ratio, which helps investors determine if a company is able to cover its fixed expenses, such as leases and interest. The fixed charge coverage ratio is essentially an amplified version of the [times interest earned ratio](https://www.investopedia.com/terms/t/tie.asp), or the times interest coverage ratio. It's highly adaptable for practical usage, with nearly all fixed costs, since these [fixed costs](https://www.investopedia.com/ask/answers/032515/what-difference-between-variable-cost-and-fixed-cost-economics.asp) are so similar to lease payments.
+A company's lease payments are used in the calculation of the fixed-charge coverage ratio, which helps investors determine if a company is able to cover its fixed expenses, such as leases and interest. The fixed charge coverage ratio is essentially an amplified version of the [times interest earned ratio](https://www.investopedia.com/terms/t/tie.asp), or the times interest coverage ratio. It's highly adaptable for practical usage, with nearly all fixed costs, since these [[fixed costs]](https://www.investopedia.com/ask/answers/032515/what-difference-between-variable-cost-and-fixed-cost-economics.asp) are so similar to lease payments.
 
 ## Common Types of Leases
 
 The most common types of lease agreements are as follows:
 
--   [Operating leases](https://www.investopedia.com/terms/o/operatinglease.asp)
--   Financial leases (also called [capital leases](https://www.investopedia.com/terms/c/capitallease.asp))
--   [Sale-and-leaseback](https://www.investopedia.com/terms/l/leaseback.asp) arrangements
+-   [[Operating leases]](https://www.investopedia.com/terms/o/operatinglease.asp)
+-   Financial leases (also called [[capital leases]](https://www.investopedia.com/terms/c/capitallease.asp))
+-   [[Sale-and-leaseback]](https://www.investopedia.com/terms/l/leaseback.asp) arrangements
 -   Combination leases (those which marry two or more of the aforementioned models)
 
 The most significant characteristic of an operating lease is that it allows for both financing and maintenance, in which lease payments include an element for financing charges as well as maintenance components. Operating leases require lessors to regularly service the leased equipment in question. For example, it is not uncommon for aircraft owners to lease out their jet engines.

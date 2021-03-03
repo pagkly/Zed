@@ -16,7 +16,7 @@ author:  Laura Green
 Green Monday
 ## What Is Green Monday?
 
-Green Monday refers to one of the retail industry's most profitable days, occurring on the second Monday in December. Green Monday has gained notoriety because it represents the day many [online shoppers](https://www.investopedia.com/articles/pf/08/buy-sell-online.asp) rush to purchase last-minute gifts and take advantage of deals.
+Green Monday refers to one of the retail industry's most profitable days, occurring on the second Monday in December. Green Monday has gained notoriety because it represents the day many [[online shoppers]](https://www.investopedia.com/articles/pf/08/buy-sell-online.asp) rush to purchase last-minute gifts and take advantage of deals.
 
 eBay claims to have coined the phrase in 20071 after it realized that the second Monday in December was one of its most profitable sales days. However, some report that it was Shopping.com that coined the phrase. Research company comScore defines the day as one with at least 10 days prior to Christmas2. Whatever its origin, this retail event continues to be a marker of holiday sales. 
 
@@ -28,7 +28,7 @@ eBay claims to have coined the phrase in 20071 after it realized that the second
 
 ## Understanding Green Monday
 
-Green Monday is promoted by [big-box stores](https://www.investopedia.com/articles/investing/121715/future-retail-not-big-box-stores.asp) and online shopping giants like Amazon and Target. In 2016, Green Monday online sales reached an unprecedented $1.62 billion, according to Statista.
+Green Monday is promoted by [[big-box stores]](https://www.investopedia.com/articles/investing/121715/future-retail-not-big-box-stores.asp) and online shopping giants like Amazon and Target. In 2016, Green Monday online sales reached an unprecedented $1.62 billion, according to Statista.
 
 Green Monday is also known as Cyber Monday 2 in retail circles due to the high volume of online shoppers seeking last-minute holiday deals. While some stores actively promote Green Monday, other retailers may simply offer holiday deals on that day to reach holiday shoppers and reduce merchandise before the end of the year. 
 
@@ -40,9 +40,9 @@ If you are shipping your packages, the USPS3 and UPS websites4 indicates Dec. 15
 
 ## Green Monday vs. Black Friday
 
-There is no shortage of catchphrases for the major retail shopping days that occur near the winter holidays. [Black Friday](https://www.investopedia.com/terms/b/blackfriday.asp) describes the Friday after Thanksgiving when many people start their holiday shopping. Most people are off of work and are eager to spend money they've saved all year. Retailers capitalize on the busiest shopping day by offering special sales. Traditionally, sales were exclusive to the Friday after Thanksgiving.
+There is no shortage of catchphrases for the major retail shopping days that occur near the winter holidays. [[Black Friday]](https://www.investopedia.com/terms/b/blackfriday.asp) describes the Friday after Thanksgiving when many people start their holiday shopping. Most people are off of work and are eager to spend money they've saved all year. Retailers capitalize on the busiest shopping day by offering special sales. Traditionally, sales were exclusive to the Friday after Thanksgiving.
 
-Now some [large retailers](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) offer sales before Thanksgiving and for several days thereafter including [Small Business Saturday](https://www.investopedia.com/small-business-saturday-5085723). Some are even attracting customers on Thanksgiving night with the chance to get Black Friday deals early. To gain consumer interest in an increasingly competitive landscape, most retailers advertise their sales before the event, luring shoppers to visit their establishments for deeply-discounted sales and giveaways.
+Now some [[large retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) offer sales before Thanksgiving and for several days thereafter including [[Small Business Saturday]](https://www.investopedia.com/small-business-saturday-5085723). Some are even attracting customers on Thanksgiving night with the chance to get Black Friday deals early. To gain consumer interest in an increasingly competitive landscape, most retailers advertise their sales before the event, luring shoppers to visit their establishments for deeply-discounted sales and giveaways.
 
 Black Friday has become a festive event in some places, with retailers offering gifts and prizes in a party-like atmosphere.
 

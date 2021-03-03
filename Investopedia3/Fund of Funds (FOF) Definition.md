@@ -22,7 +22,7 @@ FOFs usually invest in other mutual funds or hedge funds. They are typically cla
 
 ## How a Fund Of Funds Works
 
-The fund of funds (FOF) strategy aims to achieve broad [diversification](https://www.investopedia.com/terms/d/diversification.asp) and appropriate [asset allocation](https://www.investopedia.com/terms/a/assetallocation.asp) with investments in a variety of [fund categories](https://www.investopedia.com/terms/f/fundcategory.asp) that are all wrapped into one portfolio.
+The fund of funds (FOF) strategy aims to achieve broad [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) and appropriate [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) with investments in a variety of [[fund categories]](https://www.investopedia.com/terms/f/fundcategory.asp) that are all wrapped into one portfolio.
 
 There are different kinds of FOFs, with each type acting on a different investment scheme. A FOF may be structured as a mutual fund, a hedge fund, a private equity fund, or an investment trust. The FOF may be fettered, meaning it only invests in portfolios managed by one investment company. Alternatively, the FOF can be unfettered, letting it invests in external funds controlled by other managers from other companies.
 
@@ -65,9 +65,9 @@ Cons
 
 Though FOFs provide diversification and less exposure to market volatility, these returns may be lessened by investment fees that are typically higher than traditional investment funds. Higher fees come from the compounding of fees on top of fees.
 
-Like most mutual funds, a FOF carries an annual [operating expense](https://www.investopedia.com/terms/o/operating_expense.asp)—known as the expense ratio—as well as management fees and operating costs. However, FOFs investors are essentially paying double—because the underlying funds in the FOF all have their annual costs and fees, too.
+Like most mutual funds, a FOF carries an annual [[operating expense]](https://www.investopedia.com/terms/o/operating_expense.asp)—known as the expense ratio—as well as management fees and operating costs. However, FOFs investors are essentially paying double—because the underlying funds in the FOF all have their annual costs and fees, too.
 
-In the past, funds of funds' prospectuses didn't always include the fees of the underlying funds. As of January 2007, the SEC began requiring that these fees be disclosed in a line called [Acquired Fund Fees and Expenses](https://www.investopedia.com/terms/a/acquiredfundfeesandexpenses.asp) (AFFE).
+In the past, funds of funds' prospectuses didn't always include the fees of the underlying funds. As of January 2007, the SEC began requiring that these fees be disclosed in a line called [[Acquired Fund Fees and Expenses]](https://www.investopedia.com/terms/a/acquiredfundfeesandexpenses.asp) (AFFE).
 
 A fund of funds might charge annual management fees of 0.5% to 1% to invest in funds that charge another 1% annual management fee. So, the FOF investor in sum is paying up to 2%. Small wonder that, after allocating the money invested to fees and other payable taxes, the returns of fund of funds investments may generally be lower compared to the profits that single-manager funds can provide—even if the funds perform very well.
 
@@ -75,4 +75,4 @@ Picking good fund managers and funds can be difficult, too—especially if the F
 
 ## Real World Example for Fund of Funds
 
-Since they are so varied, funds of funds can be hard to track as a group and to compare. However, an index does exist. The [Barclay Fund of Funds Index](https://portal.barclayhedge.com/cgi-bin/indices/displayHfIndex.cgi?indexCat=Barclay-Hedge-Fund-Indices&indexName=Fund-of-Funds-Index), sponsored by Barclay-Hedge, a provider of data on alternative investments, is a measure of the average return of all FOFs that report into the company database; it includes some 500 to 650 funds. As of March 2019, 583 funds had an averaged return of 3.95% year-to-date.
+Since they are so varied, funds of funds can be hard to track as a group and to compare. However, an index does exist. The [[Barclay Fund of Funds Index]](https://portal.barclayhedge.com/cgi-bin/indices/displayHfIndex.cgi?indexCat=Barclay-Hedge-Fund-Indices&indexName=Fund-of-Funds-Index), sponsored by Barclay-Hedge, a provider of data on alternative investments, is a measure of the average return of all FOFs that report into the company database; it includes some 500 to 650 funds. As of March 2019, 583 funds had an averaged return of 3.95% year-to-date.

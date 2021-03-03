@@ -18,7 +18,7 @@ What Does the Operating Expense Ratio Measure?
 
 In real estate, the operating expense ratio (OER) is a measurement of the cost to operate a piece of property, compared to the income brought in by the property. It is calculated by dividing a property's operating expense (minus depreciation) by its gross operating income.
 
-OER is used for comparing the expenses of similar properties. An investor should look for [red flags](https://www.investopedia.com/terms/r/redflag.asp), such as higher [maintenance expenses](https://www.investopedia.com/terms/m/maintenance-expenses.asp), operating income, or utilities that may deter him from purchasing a specific property.
+OER is used for comparing the expenses of similar properties. An investor should look for [[red flags]](https://www.investopedia.com/terms/r/redflag.asp), such as higher [[maintenance expenses]](https://www.investopedia.com/terms/m/maintenance-expenses.asp), operating income, or utilities that may deter him from purchasing a specific property.
 
 The ideal OER is between 60% and 80% (although the lower it is, the better).
 
@@ -34,13 +34,13 @@ The ideal OER is between 60% and 80% (although the lower it is, the better).
 
 OER\=Total operating expenses−depreciationGross revenueOER = \\frac{\\text{Total operating expenses} - \\text{depreciation}}{\\text{Gross revenue}}
 
-In order to calculate the OER for a property, you need to know the operating expenses. These include all fees and costs incurred as the normal costs of doing business. You will also need to calculate the property's [depreciation](https://www.investopedia.com/articles/fundamental/04/090804.asp) expense, which will vary by the particular accounting method employed.
+In order to calculate the OER for a property, you need to know the operating expenses. These include all fees and costs incurred as the normal costs of doing business. You will also need to calculate the property's [[depreciation]](https://www.investopedia.com/articles/fundamental/04/090804.asp) expense, which will vary by the particular accounting method employed.
 
 Calculating OERs over a number of years may help an investor notice a property’s trends in operating expenses. If a property’s costs increase annually at a greater rate than income, the OER increases annually as well. Therefore, the investor may lose more money the longer they hold the property.
 
 When owning an apartment building, an investor should figure in vacancies by using effective rental income, or potential rental income minus vacancy and credit losses, rather than potential rental income. Because managing vacancies are included in efficient property management, including vacancies in an OER gives a more accurate picture of operating expenses and shows where improvements may be made. For example, a poorly managed property will most likely have higher vacancy rates, which will be reflected in the OER.
 
-Property management fees, utilities, trash removal, maintenance, insurance, repairs, property taxes, and other costs are included in OERs. Additional [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp) that investors should figure into the OER include property management fees, landscaping, attorney fees, landlord’s insurance, and basic property insurance. These costs help run the property on a daily basis. For this reason, loan payments, capital improvements, and personal property are excluded from operating expenses.
+Property management fees, utilities, trash removal, maintenance, insurance, repairs, property taxes, and other costs are included in OERs. Additional [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp) that investors should figure into the OER include property management fees, landscaping, attorney fees, landlord’s insurance, and basic property insurance. These costs help run the property on a daily basis. For this reason, loan payments, capital improvements, and personal property are excluded from operating expenses.
 
 A lower OER typically means the property is being managed efficiently and is more profitable for investors, and that less of the property’s income is covering operational and maintenance costs. If the business is scalable, the owner may increase the rent on each unit without greatly increasing operating expenses. In addition, the OER can show where potential issues may occur, such as utility bills increasing substantially, so investors can solve problems more quickly and protect their profit levels.
 
@@ -56,7 +56,7 @@ This means that operating expenses consume approximately two-thirds of revenues 
 
 ## Operating Expense Ratio (OER) vs. Capitalization Rate
 
-The [capitalization rate](https://www.investopedia.com/terms/c/capitalizationrate.asp) is used in the world of commercial real estate to indicate the [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) that is expected to be generated on a real estate investment property. Often referred to as the "cap rate," this measurement is computed based on the net income which the property is expected to generate. It is used to estimate the investor's potential return on investment in the real estate market. 
+The [[capitalization rate]](https://www.investopedia.com/terms/c/capitalizationrate.asp) is used in the world of commercial real estate to indicate the [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) that is expected to be generated on a real estate investment property. Often referred to as the "cap rate," this measurement is computed based on the net income which the property is expected to generate. It is used to estimate the investor's potential return on investment in the real estate market. 
 
 The cap rate simply represents the yield of a property over a one-year time horizon (assuming the property is purchased on cash and not on loan). It is defined by the formula:
 

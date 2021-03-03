@@ -16,7 +16,7 @@ author: Adam Hayes
 Phantom Stock Plan Definition
 ## What Is a Phantom Stock Plan?
 
-A phantom stock plan is an employee benefit plan that gives selected employees (senior management) many of the benefits of [stock](https://www.investopedia.com/terms/s/stock.asp) ownership without actually giving them any company stock. This type of plan is sometimes referred to as shadow stock.
+A phantom stock plan is an employee benefit plan that gives selected employees (senior management) many of the benefits of [[stock]](https://www.investopedia.com/terms/s/stock.asp) ownership without actually giving them any company stock. This type of plan is sometimes referred to as shadow stock.
 
 Rather than getting physical stock, the employee receives mock stock. Even though it's not real, the phantom stock follows the price movement of the company's actual stock, paying out any resulting profits.
 
@@ -32,7 +32,7 @@ There are two main types of phantom stock plans. "Appreciation only" plans do n
 
 Both types of plans resemble traditional nonqualified plans in many respects, as they can be discriminatory in nature and are also typically subject to a substantial risk of [forfeiture](https://www.investopedia.com/terms/f/forfeiture.asp) that ends when the benefit is actually paid to the employee, at which time the employee recognizes income for the amount paid and the employer can take a [deduction](https://www.investopedia.com/terms/d/deduction.asp).
 
-Phantom stock may be hypothetical, however, it still can pay out [dividends](https://www.investopedia.com/terms/d/dividend.asp) and it experiences price changes just like its real counterpart. After a period of time, the cash value of the phantom stock is distributed to the participating employees.
+Phantom stock may be hypothetical, however, it still can pay out [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) and it experiences price changes just like its real counterpart. After a period of time, the cash value of the phantom stock is distributed to the participating employees.
 
 Phantom stock, also known as synthetic equity, has no inherent requirements or restrictions regarding its use, allowing the organization to use it however it chooses. Phantom stock can also be changed at the leadership's discretion.
 
@@ -44,7 +44,7 @@ Phantom stock plans have a lot in common with traditional nonqualified stock pla
 
 Some organizations may use phantom stock as an incentive to upper management. Phantom stock ties a financial gain directly to a company performance metric. It can also be used selectively as a reward or a bonus to employees who meet certain criteria. Phantom stock can be provided to every employee, either across the board or distributed variably depending on performance, seniority, or other factors.
 
-Phantom stock also provides organizations with certain restrictions in place to provide incentives tied to stock value. This can apply to a [limited liability corporation](https://www.investopedia.com/terms/l/llc.asp) (LLC), a sole proprietor or S-companies restricted by the 100-owner rule.
+Phantom stock also provides organizations with certain restrictions in place to provide incentives tied to stock value. This can apply to a [[limited liability corporation]](https://www.investopedia.com/terms/l/llc.asp) (LLC), a sole proprietor or S-companies restricted by the 100-owner rule.
 
 The two types of phantom stock plans are "appreciation only," which doesn't include the value of the underlying shares, just the increase in stock over the amount of time the shares are held; and "full value," which pays the underlying value and the amount the stock increased while it was held.
 

@@ -36,7 +36,7 @@ State, county, and municipal taxes may be referred to as local taxes, as opposed
 
 Unlike federal taxes, the benefits arising from local taxes are generally apparent at the community level. Municipalities face a constant balancing act with regards to levying local taxes, since high taxes meet with resistance while low taxes lead to cutbacks in essential services.
 
-Among the common types of taxes that many states impose are personal income tax, [corporate income tax](https://www.investopedia.com/terms/c/corporatetax.asp), [estate tax](https://www.investopedia.com/terms/e/estatetax.asp), fuel tax, and sales tax.
+Among the common types of taxes that many states impose are personal income tax, [[corporate income tax]](https://www.investopedia.com/terms/c/corporatetax.asp), [[estate tax]](https://www.investopedia.com/terms/e/estatetax.asp), fuel tax, and sales tax.
 
 ## Types of Local Taxes
 
@@ -44,24 +44,24 @@ Among the common types of taxes that many states impose are personal income tax,
 
 The largest single tax bill that is received by most people is the local residential property tax imposed on homeowners. This is generally based on the assessed value of the home.
 
-Each state establishes the guidelines under which local governments can impose [property taxes](https://www.investopedia.com/terms/p/propertytax.asp).
+Each state establishes the guidelines under which local governments can impose [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp).
 
 ### Miscellaneous Local Taxes
 
-States and cities that impose a local [income tax](https://www.investopedia.com/terms/i/incometax.asp) withhold the tax from employee wages. Local wage taxes are relatively rare. A total of 16 states permit them. In addition, Ohio and Pennsylvania impose local levies known as school district taxes to help fund education costs.
+States and cities that impose a local [[income tax]](https://www.investopedia.com/terms/i/incometax.asp) withhold the tax from employee wages. Local wage taxes are relatively rare. A total of 16 states permit them. In addition, Ohio and Pennsylvania impose local levies known as school district taxes to help fund education costs.
 
-A [sales tax](https://www.investopedia.com/terms/s/salestax.asp) is imposed on goods and services sold to residents of a state or municipality. This is known as a [regressive tax](https://www.investopedia.com/terms/r/regressivetax.asp) rather than a progressive tax because every customer pays the same percentage regardless of income.
+A [[sales tax]](https://www.investopedia.com/terms/s/salestax.asp) is imposed on goods and services sold to residents of a state or municipality. This is known as a [[regressive tax]](https://www.investopedia.com/terms/r/regressivetax.asp) rather than a progressive tax because every customer pays the same percentage regardless of income.
 
 Education, public safety, and road maintenance are among the priorities of local governments.
 
 All but five states have sales taxes (Alaska, Delaware, Montana, New Hampshire, and Oregon). Many have complex sales tax laws that exclude some goods like food and reduce the percentage charged on others, such as cars. A number of states impose higher "sin taxes" on cigarettes and liquor.
 
-In some states, a smaller city tax may be added to the state tax. Many states also have a [use tax](https://www.investopedia.com/terms/u/use-tax.asp), which is due on major items purchased outside of the state, most notably vehicles.
+In some states, a smaller city tax may be added to the state tax. Many states also have a [[use tax]](https://www.investopedia.com/terms/u/use-tax.asp), which is due on major items purchased outside of the state, most notably vehicles.
 
 ### Other Government Funding Sources
 
 Municipal authorities typically issue bonds to fund some capital projects in the community.
 
-Investors who purchase [municipal bonds](https://www.investopedia.com/terms/m/municipalbond.asp) are lending money to the government which promises to repay a set amount of interest and repay the principal on a future date.
+Investors who purchase [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp) are lending money to the government which promises to repay a set amount of interest and repay the principal on a future date.
 
 To service the debt, that is, to fulfill interest and principal repayment obligations on the bonds, a municipal government may issue a new tax or raise existing local taxes.

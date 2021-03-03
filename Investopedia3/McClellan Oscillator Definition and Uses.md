@@ -16,9 +16,9 @@ author: Cory Mitchell
 McClellan Oscillator Definition and Uses
 ## What is the McClellan Oscillator?
 
-The McClellan Oscillator is a [market breadth](https://www.investopedia.com/terms/m/market_breadth.asp) indicator that is based on the difference between the number of advancing and declining issues on a stock exchange, such as the New York Stock Exchange (NYSE) or NASDAQ. The indicator is compared to stock market indexes related to the exchange.
+The McClellan Oscillator is a [[market breadth]](https://www.investopedia.com/terms/m/market_breadth.asp) indicator that is based on the difference between the number of advancing and declining issues on a stock exchange, such as the New York Stock Exchange (NYSE) or NASDAQ. The indicator is compared to stock market indexes related to the exchange.
 
-The indicator is used to show strong shifts in sentiment in the indexes, called breadth thrusts. It also helps in analyzing the strength of an index trend via [divergence](https://www.investopedia.com/terms/d/divergence.asp) or confirmation.
+The indicator is used to show strong shifts in sentiment in the indexes, called breadth thrusts. It also helps in analyzing the strength of an index trend via [[divergence]](https://www.investopedia.com/terms/d/divergence.asp) or confirmation.
 
 TradingView.
 
@@ -27,7 +27,7 @@ TradingView.
 -   The McClellan Oscillator formula can be applied to any stock exchange or group of stocks.
 -   A reading above zero helps confirm a rise in the index, while readings below zero confirm a decline in the index.
 -   When the index is rising but the oscillator is falling, that warns that the index could start declining too. When the index is falling and the oscillator is rising, that indicates the index could start rising soon. This is called divergence.
--   A significant change, such as moving 100 points or more, from a negative reading to a positive reading is called a breadth thrust. It may indicate a strong [reversal](https://www.investopedia.com/terms/r/reversal.asp) from downtrend to uptrend is underway on the stock exchange.
+-   A significant change, such as moving 100 points or more, from a negative reading to a positive reading is called a breadth thrust. It may indicate a strong [[reversal]](https://www.investopedia.com/terms/r/reversal.asp) from downtrend to uptrend is underway on the stock exchange.
 
 ## The Formula for the McClennan Oscillator is
 
@@ -39,24 +39,24 @@ where:EMA\=Exponential moving averageAdvances\=Number of stocks trading ab
 
 ## How to Calculate the McClellan Oscillator
 
-1.  To get the calculation started, track Advances - Declines on a stock exchange for 19 and 39 days. Calculate a [simple average](https://www.investopedia.com/terms/s/sma.asp) for these (not EMA).
+1.  To get the calculation started, track Advances - Declines on a stock exchange for 19 and 39 days. Calculate a [[simple average]](https://www.investopedia.com/terms/s/sma.asp) for these (not EMA).
 2.  Use these simple values as the Prior Day EMA values in the 19- and 39-day EMA formulas.
 3.  Calculate the 19- and 39-day EMAs.
 4.  Calculate the McClellan Oscillator value.
-5.  Now that the value has been calculated, on the next calculation use this value for the Prior Day EMA. Start [calculating EMAs](https://www.investopedia.com/ask/answers/122314/what-exponential-moving-average-ema-formula-and-how-ema-calculated.asp) for the formula instead of simple averages.
+5.  Now that the value has been calculated, on the next calculation use this value for the Prior Day EMA. Start [[calculating EMAs]](https://www.investopedia.com/ask/answers/122314/what-exponential-moving-average-ema-formula-and-how-ema-calculated.asp) for the formula instead of simple averages.
 6.  If using the adjusted formula, the steps are the same, except use ANA instead of using Advances - Declines.
 
 ## What Does the McClellan Oscillator Tell You?
 
-The McClellan Oscillator is an indicator based on market breadth which [technical analysts](https://www.investopedia.com/terms/t/technicalanalysis.asp) can use in conjunction with other technical tools to determine the overall health of the stock market and assess the strength of its current trend.
+The McClellan Oscillator is an indicator based on market breadth which [[technical analysts]](https://www.investopedia.com/terms/t/technicalanalysis.asp) can use in conjunction with other technical tools to determine the overall health of the stock market and assess the strength of its current trend.
 
-Since the indicator is based on all the stocks in an exchange, it is compared to the price movements of indexes that reflect that exchange, or compared to major indexes such as the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp).
+Since the indicator is based on all the stocks in an exchange, it is compared to the price movements of indexes that reflect that exchange, or compared to major indexes such as the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp).
 
 Positive and negative values indicate whether more stocks, on average, are advancing or declining. The indicator is positive when the 19-day EMA is above the 39-day EMA, and negative when the 19-day EMA is below the 39-day EMA.
 
 A positive and rising indicator suggests that stocks on the exchange are being accumulated. A negative and falling indicator signals that stocks are being sold. Typically such action confirms the current trend in the index.
 
-Crossovers from positive to negative, or vice versa, may signal the trend has changed in the index or exchange being tracked. When the indicator makes a large move, typically of 100 points or more, from negative to positive territory, that is called a breadth thrust. It means a large number of stocks moved up after a [bearish](https://www.investopedia.com/terms/b/bearmarket.asp) move. Since the [stock market tends to rise over time](https://www.investopedia.com/articles/personal-finance/120915/which-type-organization-best-your-business.asp), this a positive signal and may indicate that a bottom in the index is in and prices are heading higher overall.
+Crossovers from positive to negative, or vice versa, may signal the trend has changed in the index or exchange being tracked. When the indicator makes a large move, typically of 100 points or more, from negative to positive territory, that is called a breadth thrust. It means a large number of stocks moved up after a [[bearish]](https://www.investopedia.com/terms/b/bearmarket.asp) move. Since the [[stock market tends to rise over time]](https://www.investopedia.com/articles/personal-finance/120915/which-type-organization-best-your-business.asp), this a positive signal and may indicate that a bottom in the index is in and prices are heading higher overall.
 
 When index prices and the indicator are moving in different directions, then the current index trend may lack strength. Bullish divergence occurs when the oscillator is rising while the index is falling. This indicates the index could head higher soon since more stocks are starting to advance.
 
@@ -64,12 +64,12 @@ Bearish divergence is when the index is rising and the indicator is falling. Thi
 
 ## The Difference Between the McClellan Oscillator and McClellan Summation Index?
 
-The McClellan Oscillator was developed by Sherman and Marian McClellan who also developed the [McClellan Summation Index](https://www.investopedia.com/terms/m/mcclellansummation.asp). The McClellan Summation Index adds the current day's McClellan Oscillator to the previous day's McClellan Summation Index. In other words, the Summation Index is a cumulative measure, whereas the oscillator is not. While the oscillator may be more useful for analyzing shorter-term trends, the Summation Index is more applicable to broader and longer-term price trends.
+The McClellan Oscillator was developed by Sherman and Marian McClellan who also developed the [[McClellan Summation Index]](https://www.investopedia.com/terms/m/mcclellansummation.asp). The McClellan Summation Index adds the current day's McClellan Oscillator to the previous day's McClellan Summation Index. In other words, the Summation Index is a cumulative measure, whereas the oscillator is not. While the oscillator may be more useful for analyzing shorter-term trends, the Summation Index is more applicable to broader and longer-term price trends.
 
 ## Limitations of Using the McClellan Oscillator
 
-The indicator tends to produce lots of signals. Breadth thursts, divergence, and crossovers all occur with some frequency, but not all these signals will result in the price/index moving in the expected direction. The indicator is prone to producing [false signals](https://www.investopedia.com/terms/f/false-signal.asp) and therefore should be used in conjunction with [price action](https://www.investopedia.com/terms/p/price-action.asp) analysis and other technical indicators.
+The indicator tends to produce lots of signals. Breadth thursts, divergence, and crossovers all occur with some frequency, but not all these signals will result in the price/index moving in the expected direction. The indicator is prone to producing [[false signals]](https://www.investopedia.com/terms/f/false-signal.asp) and therefore should be used in conjunction with [[price action]](https://www.investopedia.com/terms/p/price-action.asp) analysis and other technical indicators.
 
-The indicator can also be quite choppy, moving between positive and negative territory rapidly. Such action indicates a [choppy market](https://www.investopedia.com/terms/c/choppymarket.asp), but this isn't evident until the indicator has made this whipsaw move a few times.
+The indicator can also be quite choppy, moving between positive and negative territory rapidly. Such action indicates a [[choppy market]](https://www.investopedia.com/terms/c/choppymarket.asp), but this isn't evident until the indicator has made this whipsaw move a few times.
 
 Study how the indicator acts over extended periods of time and in different market conditions before relying on the indicator for trading purposes.

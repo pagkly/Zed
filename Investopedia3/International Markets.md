@@ -16,10 +16,10 @@ author:
 International Markets
 [Markets](https://www.investopedia.com/markets-4689752)
 
--   [Stock Markets](https://www.investopedia.com/stock-markets-4689749)
--   [US Markets](https://www.investopedia.com/us-markets-4689748)
--   [International Markets](https://www.investopedia.com/international-markets-4689750)
--   [Emerging Markets](https://www.investopedia.com/emerging-markets-4689751)
+-   [[Stock Markets]](https://www.investopedia.com/stock-markets-4689749)
+-   [[US Markets]](https://www.investopedia.com/us-markets-4689748)
+-   [[International Markets]](https://www.investopedia.com/international-markets-4689750)
+-   [[Emerging Markets]](https://www.investopedia.com/emerging-markets-4689751)
 
 [Markets](https://www.investopedia.com/markets-4689752)
 
@@ -29,10 +29,10 @@ International Markets
 
 [Markets](https://www.investopedia.com/markets-4689752)
 
--   [Stock Markets](https://www.investopedia.com/stock-markets-4689749)
--   [US Markets](https://www.investopedia.com/us-markets-4689748)
--   [International Markets](https://www.investopedia.com/international-markets-4689750)
--   [Emerging Markets](https://www.investopedia.com/emerging-markets-4689751)
+-   [[Stock Markets]](https://www.investopedia.com/stock-markets-4689749)
+-   [[US Markets]](https://www.investopedia.com/us-markets-4689748)
+-   [[International Markets]](https://www.investopedia.com/international-markets-4689750)
+-   [[Emerging Markets]](https://www.investopedia.com/emerging-markets-4689751)
 
 [
 

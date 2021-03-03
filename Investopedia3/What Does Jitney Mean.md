@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does Jitney Mean?
 ## What Is a Jitney?
 
-In finance, the term jitney refers to a [broker](https://www.investopedia.com/terms/b/brokerage-company.asp) that does not have direct access to an [exchange](https://www.investopedia.com/terms/e/exchange.asp) and therefore relies on another broker with exchange access in order to execute their trades.
+In finance, the term jitney refers to a [[broker]](https://www.investopedia.com/terms/b/brokerage-company.asp) that does not have direct access to an [[exchange]](https://www.investopedia.com/terms/e/exchange.asp) and therefore relies on another broker with exchange access in order to execute their trades.
 
-The term can also be used to refer to a type of [market manipulation](https://www.investopedia.com/terms/m/manipulation.asp) in which brokers trade securities back and forth with one-another in order to earn [commissions](https://www.investopedia.com/terms/c/commission.asp) and artificially produce the appearance of high [trading volume](https://www.investopedia.com/terms/v/volume.asp).
+The term can also be used to refer to a type of [[market manipulation]](https://www.investopedia.com/terms/m/manipulation.asp) in which brokers trade securities back and forth with one-another in order to earn [[commissions]](https://www.investopedia.com/terms/c/commission.asp) and artificially produce the appearance of high [[trading volume]](https://www.investopedia.com/terms/v/volume.asp).
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Depending on the context, the term jitney can have a neutral or a negative conno
 
 However, some brokers have been known to collude with one-another in order to fraudulently generate commission revenues or else mislead other market participants into overestimating the level of market interest in a particular security. This is done by repeatedly buying and selling a particular security between one or more brokers, thereby generating increased transaction volume. 
 
-Depending on the nature of the scheme, this technique—which is also known as circular trading, [account churning](https://www.investopedia.com/terms/c/churning.asp), or a "jitney game"—can be used to generate commissions, inflate the market price of a security, or initiate a [sell-off](https://www.investopedia.com/terms/s/sell-off.asp) by other investors. Often, these schemes are centered on securities with very thin [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) and [market capitalizations](https://www.investopedia.com/terms/m/marketcapitalization.asp), such as so-called [penny stocks](https://www.investopedia.com/terms/p/pennystock.asp). In addition to being illegal, these practices are understandably frowned upon by clients and other investors, which can therefore give the term jitney a negative connotation regardless of its contextual meaning.
+Depending on the nature of the scheme, this technique—which is also known as circular trading, [[account churning]](https://www.investopedia.com/terms/c/churning.asp), or a "jitney game"—can be used to generate commissions, inflate the market price of a security, or initiate a [[sell-off]](https://www.investopedia.com/terms/s/sell-off.asp) by other investors. Often, these schemes are centered on securities with very thin [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) and [[market capitalizations]](https://www.investopedia.com/terms/m/marketcapitalization.asp), such as so-called [[penny stocks]](https://www.investopedia.com/terms/p/pennystock.asp). In addition to being illegal, these practices are understandably frowned upon by clients and other investors, which can therefore give the term jitney a negative connotation regardless of its contextual meaning.
 
 ## Real World Example of a Jitney
 
@@ -44,4 +44,4 @@ Other practices which the firms sometimes engage in include buying and selling t
 
 In other instances, the two firms will perpetrate a similar scheme but in the reverse direction. Instead of transacting at ever-increasing prices, they will do so at ever-decreasing prices. The goal in this transaction would be to scare other owners of the security into selling their shares, giving XYZ and ABC the opportunity to buy a large number of shares at an artificially low price. 
 
-These so-called "jitney game" practices amount to market manipulation, and they are prohibited under United States [laws and regulations](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp).1
+These so-called "jitney game" practices amount to market manipulation, and they are prohibited under United States [[laws and regulations]](https://www.investopedia.com/articles/economics/09/financial-regulatory-body.asp).1

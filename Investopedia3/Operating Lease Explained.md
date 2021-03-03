@@ -16,7 +16,7 @@ author: Carla Tardi
 Operating Lease Explained
 ## What Is an Operating Lease?
 
-An operating lease is a contract that allows for the use of an [asset](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) but does not convey ownership rights of the asset. Operating leases are considered a form of off-balance-sheet financing—meaning a leased asset and associated liabilities (i.e. future rent payments) are not included on a company's balance sheet. Historically, operating leases have enabled American firms to keep billions of dollars of assets and liabilities from being recorded on their balance sheets, thereby keeping their [debt-to-equity ratios](https://www.investopedia.com/terms/d/debtequityratio.asp) low.
+An operating lease is a contract that allows for the use of an [[asset]](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) but does not convey ownership rights of the asset. Operating leases are considered a form of off-balance-sheet financing—meaning a leased asset and associated liabilities (i.e. future rent payments) are not included on a company's balance sheet. Historically, operating leases have enabled American firms to keep billions of dollars of assets and liabilities from being recorded on their balance sheets, thereby keeping their [[debt-to-equity ratios]](https://www.investopedia.com/terms/d/debtequityratio.asp) low.
 
 ### Key Takeaways
 
@@ -26,12 +26,12 @@ An operating lease is a contract that allows for the use of an [asset](https://w
 
 ## Understanding Operating Leases
 
-To be classified as an operating lease, the lease must meet certain requirements under generally accepted accounting principles (GAAP) that exempt it from being recorded as a [capital lease](https://www.investopedia.com/terms/c/capitallease.asp). Companies must test for four criteria—“bright line” tests—that determine whether rental contracts must be booked as operating or capital leases. Current GAAP rules require companies to treat leases as capital leases if:
+To be classified as an operating lease, the lease must meet certain requirements under generally accepted accounting principles (GAAP) that exempt it from being recorded as a [[capital lease]](https://www.investopedia.com/terms/c/capitallease.asp). Companies must test for four criteria—“bright line” tests—that determine whether rental contracts must be booked as operating or capital leases. Current GAAP rules require companies to treat leases as capital leases if:
 
 -   There is an ownership transfer to the lessee at the end of the lease;
--   The lease contains a [bargain purchase](https://www.investopedia.com/terms/b/bargain-purchase.asp) option;
+-   The lease contains a [[bargain purchase]](https://www.investopedia.com/terms/b/bargain-purchase.asp) option;
 -   The lease life exceeds 75% of the asset's economic life; or,
--   The [present value (PV)](https://www.investopedia.com/terms/p/presentvalue.asp) of the lease payments exceed 90% of the asset's fair market value.
+-   The [[present value (PV)]](https://www.investopedia.com/terms/p/presentvalue.asp) of the lease payments exceed 90% of the asset's fair market value.
 
 If none of these conditions are met, then the lease must be classified as an operating lease. The Internal Revenue Service (IRS) may reclassify an operating lease as a capital lease to reject the lease payments as a deduction, thus increasing the company's taxable income and tax liability.
 
@@ -41,11 +41,11 @@ Under a new Financial Accounting Standards Board (FASB) rule effective Dec. 15, 
 
 ## Special Considerations
 
-Effective Dec. 15, 2018, [FASB revised its rules](https://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176167901010&acceptedDisclaimer=true) governing lease accounting. Most significantly, the standard now requires that all leases—except short-term leases of less than a year—must be capitalized. Other changes include the following:
+Effective Dec. 15, 2018, [[FASB revised its rules]](https://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176167901010&acceptedDisclaimer=true) governing lease accounting. Most significantly, the standard now requires that all leases—except short-term leases of less than a year—must be capitalized. Other changes include the following:
 
 -   There is a difference in the bright-line test that helps to determine whether or not a lessee has the right to control the identified asset.
--   There's a new definition of [indirect costs](https://www.investopedia.com/ask/answers/041415/what-are-different-types-costs-cost-accounting.asp) that likely would result in fewer indirect costs being capitalized.
--   Under the new rule, for a sale or [leaseback](https://www.investopedia.com/terms/l/leaseback.asp) to occur, the transfer of the asset must meet certain revenue recognition requirements.
+-   There's a new definition of [[indirect costs]](https://www.investopedia.com/ask/answers/041415/what-are-different-types-costs-cost-accounting.asp) that likely would result in fewer indirect costs being capitalized.
+-   Under the new rule, for a sale or [[leaseback]](https://www.investopedia.com/terms/l/leaseback.asp) to occur, the transfer of the asset must meet certain revenue recognition requirements.
 -   The new rule requires a significant number of new financial statement disclosures, both quantitative and qualitative, for both parties.
 
 ## Operating Lease vs. Capital Lease

@@ -16,7 +16,7 @@ author: Adam Barone
 How Wrap Accounts Work
 ## What Is a Wrap Account?
 
-A wrap account is an investment portfolio that is professionally managed by a brokerage firm for a flat fee that is charged quarterly or annually. The fee is based on total [assets under management](https://www.investopedia.com/terms/a/aum.asp) (AUM). It is comprehensive, covering all administrative, commission, and management expenses for the account.
+A wrap account is an investment portfolio that is professionally managed by a brokerage firm for a flat fee that is charged quarterly or annually. The fee is based on total [[assets under management]](https://www.investopedia.com/terms/a/aum.asp) (AUM). It is comprehensive, covering all administrative, commission, and management expenses for the account.
 
 Wrap fees range from about 1% to 3% of AUM.
 
@@ -42,7 +42,7 @@ A wrap account may require a $25,000 to $50,000 minimum investment. A mutual fun
 
 Investors who buy and hold stocks long-term may be better off with a traditional fee structure.
 
-The fees pay for marketing and distribution costs as well as the payments to brokers who sell the funds and work with clients. This fee is an additional charge to a [mutual fund wrap](https://www.investopedia.com/terms/m/mutual-fund-wrap.asp) account investor.
+The fees pay for marketing and distribution costs as well as the payments to brokers who sell the funds and work with clients. This fee is an additional charge to a [[mutual fund wrap]](https://www.investopedia.com/terms/m/mutual-fund-wrap.asp) account investor.
 
 ## Special Considerations
 
@@ -52,4 +52,4 @@ For example, an income-oriented investor may hold a portfolio of dividend-paying
 
 The investor may be better off holding the portfolio to earn the dividend income. No capital gain taxes are incurred, and there are no commissions or wrap fees to pay.
 
-In this case, moving the assets into a wrap account would have generated more costs and reduced the investor’s [total return](https://www.investopedia.com/terms/t/totalreturn.asp).
+In this case, moving the assets into a wrap account would have generated more costs and reduced the investor’s [[total return]](https://www.investopedia.com/terms/t/totalreturn.asp).

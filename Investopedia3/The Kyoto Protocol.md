@@ -16,7 +16,7 @@ author: Carla Tardi
 The Kyoto Protocol
 ## What Is the Kyoto Protocol?
 
-The Kyoto Protocol is an international agreement that aimed to reduce [carbon dioxide](https://www.investopedia.com/articles/investing/092915/5-countries-produce-most-carbon-dioxide-co2.asp) (CO2) emissions and the presence of greenhouse gases (GHG) in the atmosphere. The essential tenet of the Kyoto Protocol was that industrialized nations needed to lessen the amount of their CO2 emissions.1
+The Kyoto Protocol is an international agreement that aimed to reduce [[carbon dioxide]](https://www.investopedia.com/articles/investing/092915/5-countries-produce-most-carbon-dioxide-co2.asp) (CO2) emissions and the presence of greenhouse gases (GHG) in the atmosphere. The essential tenet of the Kyoto Protocol was that industrialized nations needed to lessen the amount of their CO2 emissions.1
 
 The protocol was adopted in Kyoto, Japan in 1997, when greenhouse gases were rapidly threatening our climate, life on the earth, and the planet, itself.1 Today, the Kyoto Protocol lives on in other forms and its issues are still being discussed.
 
@@ -32,15 +32,15 @@ The protocol was adopted in Kyoto, Japan in 1997, when greenhouse gases were rap
 
 The Kyoto Protocol mandated that industrialized nations cut their greenhouse gas emissions at a time when the threat of global warming was growing rapidly. The Protocol was linked to the United Nations Framework Convention on Climate Change (UNFCCC). It was adopted in Kyoto, Japan on December 11, 1997, and became international law on February 16, 2005.1
 
-Countries that ratified the Kyoto Protocol were assigned maximum carbon emission levels for specific periods and participated in [carbon credit trading](https://www.investopedia.com/terms/c/carbontrade.asp). If a country emitted more than its assigned limit, then it would be penalized by receiving a lower emissions limit in the following period.
+Countries that ratified the Kyoto Protocol were assigned maximum carbon emission levels for specific periods and participated in [[carbon credit trading]](https://www.investopedia.com/terms/c/carbontrade.asp). If a country emitted more than its assigned limit, then it would be penalized by receiving a lower emissions limit in the following period.
 
 ### Major Tenets
 
-Developed, industrialized countries made a promise under the Kyoto Protocol to reduce their annual [hydrocarbon](https://www.investopedia.com/terms/h/hydrocarbon.asp) emissions by an average of 5.2% by the year 2012. This number would represent about 29% of the world's total greenhouse gas emissions. Targets, though, depended on the individual country. This meant each nation had a different target to meet by that year. Members of the [European Union](https://www.investopedia.com/terms/e/european-community.asp) (EU) pledged to cut emissions by 8% while the U.S. and Canada promised to reduce their emissions by 7% and 6% respectively by 2012.2
+Developed, industrialized countries made a promise under the Kyoto Protocol to reduce their annual [[hydrocarbon]](https://www.investopedia.com/terms/h/hydrocarbon.asp) emissions by an average of 5.2% by the year 2012. This number would represent about 29% of the world's total greenhouse gas emissions. Targets, though, depended on the individual country. This meant each nation had a different target to meet by that year. Members of the [[European Union]](https://www.investopedia.com/terms/e/european-community.asp) (EU) pledged to cut emissions by 8% while the U.S. and Canada promised to reduce their emissions by 7% and 6% respectively by 2012.2
 
 ### Responsibilities of Developed Versus Developing Nations
 
-The Kyoto Protocol recognized that developed countries are principally responsible for the current high levels of [GHG emissions](https://www.investopedia.com/articles/markets/030816/top-4-oil-companies-protect-environment-xom-sun.asp) in the atmosphere as a result of more than 150 years of industrial activity. As such, the protocol placed a heavier burden on developed nations than less-developed nations.
+The Kyoto Protocol recognized that developed countries are principally responsible for the current high levels of [[GHG emissions]](https://www.investopedia.com/articles/markets/030816/top-4-oil-companies-protect-environment-xom-sun.asp) in the atmosphere as a result of more than 150 years of industrial activity. As such, the protocol placed a heavier burden on developed nations than less-developed nations.
 
 The Kyoto Protocol mandated that 37 industrialized nations plus the EU cut their GHG emissions. Developing nations were asked to comply voluntarily, and more than 100 developing countries, including China and India, were exempted from the Kyoto agreement altogether.
 
@@ -48,7 +48,7 @@ The Kyoto Protocol mandated that 37 industrialized nations plus the EU cut their
 
 The protocol separated countries into two groups: Annex I contained developed nations, and Non-Annex I referred to developing countries. The protocol placed emission limitations on Annex I countries only. Non-Annex I nations participated by investing in projects designed to lower emissions in their countries.
 
-For these projects, developing countries earned [carbon credits](https://www.investopedia.com/terms/c/carbon_credit.asp), which they could trade or sell to developed countries, allowing the developed nations a higher level of maximum carbon emissions for that period. In effect, this function helped the developed countries to continue emitting GHG vigorously.
+For these projects, developing countries earned [[carbon credits]](https://www.investopedia.com/terms/c/carbon_credit.asp), which they could trade or sell to developed countries, allowing the developed nations a higher level of maximum carbon emissions for that period. In effect, this function helped the developed countries to continue emitting GHG vigorously.
 
 ### The United States' Involvement
 
@@ -62,13 +62,13 @@ The United States and China—two of the world's biggest emitters—produced eno
 
 ### The Doha Amendment Extended Kyoto Protocol to 2020
 
-In December 2012, after the first commitment period of the Protocol ended, parties to the Kyoto Protocol met in Doha, Qatar, to adopt an amendment to the original Kyoto agreement. This so-called Doha Amendment added new emission-reduction targets for the second commitment period, 2012–2020, for participating countries.4 The Doha Amendment had a short life. In 2015, at the sustainable development summit held in Paris, all UNFCCC participants signed yet another pact, the [Paris Climate Agreement](https://www.investopedia.com/terms/p/paris-agreementcop21.asp), which effectively replaced the Kyoto Protocol.
+In December 2012, after the first commitment period of the Protocol ended, parties to the Kyoto Protocol met in Doha, Qatar, to adopt an amendment to the original Kyoto agreement. This so-called Doha Amendment added new emission-reduction targets for the second commitment period, 2012–2020, for participating countries.4 The Doha Amendment had a short life. In 2015, at the sustainable development summit held in Paris, all UNFCCC participants signed yet another pact, the [[Paris Climate Agreement]](https://www.investopedia.com/terms/p/paris-agreementcop21.asp), which effectively replaced the Kyoto Protocol.
 
 ### The Paris Climate Agreement
 
 The Paris Climate Agreement is a landmark environmental pact that was adopted by nearly every nation in 2015 to address climate change and its negative effects. The agreement includes commitments from all major GHG-emitting countries to cut their climate-altering pollution and to strengthen those commitments over time.5
 
-A major directive of the deal calls for reducing global GHG emissions so as to limit the earth's temperature increase in this century to 2 degrees Celsius above preindustrial levels while taking steps to limit the increase to 1.5 degrees. The Paris Agreement also provides a way for developed nations to assist developing nations in their efforts to adapt climate control and it creates a framework for monitoring and reporting countries’ climate goals [transparently](https://www.investopedia.com/terms/t/transparency.asp).6
+A major directive of the deal calls for reducing global GHG emissions so as to limit the earth's temperature increase in this century to 2 degrees Celsius above preindustrial levels while taking steps to limit the increase to 1.5 degrees. The Paris Agreement also provides a way for developed nations to assist developing nations in their efforts to adapt climate control and it creates a framework for monitoring and reporting countries’ climate goals [[transparently]](https://www.investopedia.com/terms/t/transparency.asp).6
 
 ## The Kyoto Protocol Today
 

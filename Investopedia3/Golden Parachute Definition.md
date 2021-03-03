@@ -16,7 +16,7 @@ author: Adam Hayes
 Golden Parachute Definition
 ## What Is a Golden Parachute?
 
-A golden parachute consists of substantial benefits given to top executives if the company is taken over by another firm, and the executives are terminated as a result of the [merger](https://www.investopedia.com/terms/m/merger.asp) or takeover. Golden parachutes are contracts with key executives and can be used as a type of anti-takeover measure, often collectively referred to as poison pills, taken by a firm to discourage an unwanted [takeover](https://www.investopedia.com/terms/t/takeover.asp) attempt. Benefits may include stock options, cash bonuses, and generous severance pay.
+A golden parachute consists of substantial benefits given to top executives if the company is taken over by another firm, and the executives are terminated as a result of the [[merger]](https://www.investopedia.com/terms/m/merger.asp) or takeover. Golden parachutes are contracts with key executives and can be used as a type of anti-takeover measure, often collectively referred to as poison pills, taken by a firm to discourage an unwanted [[takeover]](https://www.investopedia.com/terms/t/takeover.asp) attempt. Benefits may include stock options, cash bonuses, and generous severance pay.
 
 Golden parachutes are thus named as such because they are intended to provide a soft landing for employees of certain levels who lose their jobs.
 
@@ -28,7 +28,7 @@ Golden parachutes are thus named as such because they are intended to provide a 
 
 ## How Golden Parachutes Work
 
-Golden parachute clauses can be used to define the [lucrative](https://www.investopedia.com/terms/l/lucrative.asp) benefits that an employee would receive if they are terminated. The term often relates to the terminations of top executives that result from a takeover or merger. Golden parachutes may include [severance pay](https://www.investopedia.com/terms/s/severancepay.asp) in the form of cash, a special bonus, stock options, or vesting of previously awarded compensation. The employment contract contains explicit language detailing the conditions under which the silver parachute clause will become valid.
+Golden parachute clauses can be used to define the [[lucrative]](https://www.investopedia.com/terms/l/lucrative.asp) benefits that an employee would receive if they are terminated. The term often relates to the terminations of top executives that result from a takeover or merger. Golden parachutes may include [severance pay](https://www.investopedia.com/terms/s/severancepay.asp) in the form of cash, a special bonus, stock options, or vesting of previously awarded compensation. The employment contract contains explicit language detailing the conditions under which the silver parachute clause will become valid.
 
 In addition to monetary awards, other examples of opulent parachute benefits include:
 
@@ -43,7 +43,7 @@ Instances of these and other exclusive advantages have drawn criticism from shar
 
 The use of golden parachutes is controversial. Supporters believe that golden parachutes make it easier to hire and retain top executives, particularly in merger-prone industries. In addition, proponents believe that these lucrative benefit packages allow executives to remain objective if the company is involved in a takeover or merger and that they can discourage takeovers because of the costs that are associated with the golden parachute contracts.
 
-Opponents of golden parachutes argue that executives are already well-compensated and should not be rewarded for being terminated. Opponents may further argue that executives have an inherent [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) responsibility to act in the best interest of the company, and should not need an additional financial incentive to remain objective and act in the manner that best benefits the company. In addition, many people who disagree with golden parachutes argue that the associated costs are minuscule compared to the takeover costs and, as a result, can have little to no impact on the outcome of the takeover attempt.
+Opponents of golden parachutes argue that executives are already well-compensated and should not be rewarded for being terminated. Opponents may further argue that executives have an inherent [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) responsibility to act in the best interest of the company, and should not need an additional financial incentive to remain objective and act in the manner that best benefits the company. In addition, many people who disagree with golden parachutes argue that the associated costs are minuscule compared to the takeover costs and, as a result, can have little to no impact on the outcome of the takeover attempt.
 
 Then there is the [golden handshake](https://www.investopedia.com/terms/g/golden-handshake.asp). It is similar to a golden parachute in that it offers a [severance package](https://www.investopedia.com/terms/s/severancepay.asp) to an executive when they become unemployed. While both terms describe severance packages given to such an executive upon the termination of duties, a golden handshake goes further to include the severance packages granted executives upon retirement, too.
 

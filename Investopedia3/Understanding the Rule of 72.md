@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Rule of 72
 ## What Is the Rule of 72?
 
-The Rule of 72 is a quick, useful formula that is popularly used to estimate the number of years required to double the invested money at a given annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp). 
+The Rule of 72 is a quick, useful formula that is popularly used to estimate the number of years required to double the invested money at a given annual [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp). 
 
 While calculators and spreadsheet programs like excel sheets have inbuilt functions to accurately calculate the precise time required to double the invested money, the Rule of 72 comes in handy for mental calculations to quickly gauge an approximate value. Alternatively, it can compute the annual rate of compounded return from an investment given how many years it will take to double the investment.
 
@@ -52,7 +52,7 @@ People love money, and they love it more to see the money getting double. Gettin
 
 ### Simple Versus Compound Interest
 
-The interest rate charged on an investment or a loan broadly falls into two categories—simple or compounded. [Simple interest](https://www.investopedia.com/terms/s/simple_interest.asp) is determined by multiplying the daily [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) by the principal amount and by the number of days that elapse between payments. It is used for calculating interest on investments where the accumulated interest is not added back to the principal.
+The interest rate charged on an investment or a loan broadly falls into two categories—simple or compounded. [[Simple interest]](https://www.investopedia.com/terms/s/simple_interest.asp) is determined by multiplying the daily [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) by the principal amount and by the number of days that elapse between payments. It is used for calculating interest on investments where the accumulated interest is not added back to the principal.
 
 In the case of compound interest, the interest is calculated on the initial principal and also on the accumulated interest of previous periods of a deposit. Compound interest can be thought of as “interest on interest,” and it will make the invested money grow to a higher amount at a faster rate compared to that from the simple interest, which is calculated only on the principal amount.
 

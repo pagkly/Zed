@@ -16,19 +16,19 @@ author: Jason Fernando
 Supply Chain Management (SCM): What You Need to Know
 ## What Is Supply Chain Management (SCM)?
 
-Supply chain management is the management of the [flow of goods and services](https://www.investopedia.com/terms/h/hifo.asp) and includes all processes that transform raw materials into final products. It involves the active streamlining of a business's supply-side activities to maximize customer value and gain a competitive advantage in the marketplace.
+Supply chain management is the management of the [[flow of goods and services]](https://www.investopedia.com/terms/h/hifo.asp) and includes all processes that transform raw materials into final products. It involves the active streamlining of a business's supply-side activities to maximize customer value and gain a competitive advantage in the marketplace.
 
-SCM represents an effort by suppliers to develop and implement supply chains that are as efficient and economical as possible. [Supply chains](https://www.investopedia.com/terms/s/supplychain.asp) cover everything from production to product development to the information systems needed to direct these undertakings.
+SCM represents an effort by suppliers to develop and implement supply chains that are as efficient and economical as possible. [[Supply chains]](https://www.investopedia.com/terms/s/supplychain.asp) cover everything from production to product development to the information systems needed to direct these undertakings.
 
 #### Explaining Supply Chain Management (SCM)
 
 ## How Supply Chain Management Works
 
-Typically, SCM attempts to centrally control or link the production, shipment, and [distribution of a product](https://www.investopedia.com/terms/d/distribution-management.asp). By managing the supply chain, companies are able to cut excess costs and deliver products to the consumer faster. This is done by keeping tighter control of internal inventories, internal production, [distribution](https://www.investopedia.com/terms/d/distribution.asp), sales, and the [inventories](https://www.investopedia.com/terms/i/inventory.asp) of company vendors.
+Typically, SCM attempts to centrally control or link the production, shipment, and [[distribution of a product]](https://www.investopedia.com/terms/d/distribution-management.asp). By managing the supply chain, companies are able to cut excess costs and deliver products to the consumer faster. This is done by keeping tighter control of internal inventories, internal production, [[distribution]](https://www.investopedia.com/terms/d/distribution.asp), sales, and the [[inventories]](https://www.investopedia.com/terms/i/inventory.asp) of company vendors.
 
 SCM is based on the idea that nearly every product that comes to market results from the efforts of various organizations that make up a supply chain. Although supply chains have existed for ages, most companies have only recently paid attention to them as a value-add to their operations.
 
-In SCM, the [supply chain manager](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) coordinates the [logistics](https://www.investopedia.com/terms/l/logistics.asp) of all aspects of the supply chain which consists of five parts:
+In SCM, the [[supply chain manager]](https://www.investopedia.com/articles/personal-finance/021015/job-description-and-salary-supply-chain-management.asp) coordinates the [logistics](https://www.investopedia.com/terms/l/logistics.asp) of all aspects of the supply chain which consists of five parts:
 
 -   The plan or strategy
 -   The source (of raw materials or services)
@@ -42,9 +42,9 @@ Improvements in productivity and efficiency go straight to the bottom line of a 
 
 ### Supply Chains
 
-A [supply chain](https://www.investopedia.com/terms/s/supplychain.asp) is the connected network of individuals, organizations, resources, activities, and technologies involved in the manufacture and sale of a product or service. A supply chain starts with the delivery of raw materials from a supplier to a manufacturer and ends with the delivery of the finished product or service to the end consumer.
+A [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp) is the connected network of individuals, organizations, resources, activities, and technologies involved in the manufacture and sale of a product or service. A supply chain starts with the delivery of raw materials from a supplier to a manufacturer and ends with the delivery of the finished product or service to the end consumer.
 
-SCM oversees each touchpoint of a company's product or service, from initial creation to the final sale. With so many places along the supply chain that can add value through efficiencies or lose value through increased expenses, proper SCM can increase revenues, decrease costs, and impact a company's [bottom line](https://www.investopedia.com/terms/b/bottomline.asp).
+SCM oversees each touchpoint of a company's product or service, from initial creation to the final sale. With so many places along the supply chain that can add value through efficiencies or lose value through increased expenses, proper SCM can increase revenues, decrease costs, and impact a company's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp).
 
 ### Key Takeaways
 
@@ -72,4 +72,4 @@ Supply chain management is important because it can help achieve several busines
 
 ### What are the five elements of supply chain management?
 
-Supply chain management is often described as having five key elements: planning, sourcing of raw materials, manufacturing, delivery, and returns. The planning phase refers to developing an overall strategy for the supply chain, while the other four elements specialize in the key requirements for executing on that plan. Companies must develop expertise in all five elements in order to have an efficient supply chain and avoid expensive [bottlenecks](https://www.investopedia.com/terms/b/bottleneck.asp).
+Supply chain management is often described as having five key elements: planning, sourcing of raw materials, manufacturing, delivery, and returns. The planning phase refers to developing an overall strategy for the supply chain, while the other four elements specialize in the key requirements for executing on that plan. Companies must develop expertise in all five elements in order to have an efficient supply chain and avoid expensive [[bottlenecks]](https://www.investopedia.com/terms/b/bottleneck.asp).

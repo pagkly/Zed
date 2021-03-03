@@ -20,7 +20,7 @@ Kenneth Arrow was an American neoclassical economist who won the Nobel Memorial 
 
 ## Understanding Kenneth Arrow
 
-Born in New York City in 1921, Kenneth Arrow taught at Stanford University, Harvard and the University of Chicago. He earned his Ph.D. from Columbia University, with a dissertation that discussed his theorem called the [General Impossibility Theorem](https://www.investopedia.com/terms/a/arrows-impossibility-theorem.asp). Arrow determined in this theorem that results could not be decided fairly during an election. That's because, he stated, ideal voting methods did not exist when there are more than two candidates trying to satisfy certain criteria. Arrow outlined the criteria as follows:
+Born in New York City in 1921, Kenneth Arrow taught at Stanford University, Harvard and the University of Chicago. He earned his Ph.D. from Columbia University, with a dissertation that discussed his theorem called the [[General Impossibility Theorem]](https://www.investopedia.com/terms/a/arrows-impossibility-theorem.asp). Arrow determined in this theorem that results could not be decided fairly during an election. That's because, he stated, ideal voting methods did not exist when there are more than two candidates trying to satisfy certain criteria. Arrow outlined the criteria as follows:
 
 1.  **Nondictatorship**: One person shouldn't be the deciding factor. This means everyone's wishes should be considered.
 2.  **Individual sovereignty**: Voters should have the ability to order their choices any way they choose. They should also be able to mark down if they feel undecided or if there's a tie.
@@ -30,7 +30,7 @@ Born in New York City in 1921, Kenneth Arrow taught at Stanford University, Har
 
 The application of Arrow's General Impossibility Theorem has gone beyond democracy and election results. It has also been used for both welfare economics and (social) justice. It has also been linked to the liberal paradox, which was developed by economist Amartya Sen. According to Sen and his paradox, there is generally a conflict between the distribution of goods and services in a society and individual freedom in that both cannot exist at the same time.
 
-Arrow later published a book on the same subject. Arrow is also known as one of the first economists to recognize the [learning curve](https://www.investopedia.com/terms/l/learning-curve.asp).
+Arrow later published a book on the same subject. Arrow is also known as one of the first economists to recognize the [[learning curve]](https://www.investopedia.com/terms/l/learning-curve.asp).
 
 ## Legacy of Kenneth Arrow
 

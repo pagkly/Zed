@@ -16,9 +16,9 @@ author: Adam Hayes
 Hope Now Alliance
 ## What Is the Hope Now Alliance?
 
-Hope Now Alliance (now the Housing Policy Council - HPC) is a public-private initiative launched in 2007 to combat the overwhelming volume of home [foreclosures](https://www.investopedia.com/terms/f/foreclosure.asp) that emerged from the [subprime mortgage market meltdown](https://www.investopedia.com/terms/s/subprime-meltdown.asp). The Alliance is comprised of members from the U.S. government, the secondary mortgage market, lenders, [mortgage backed securities](https://www.investopedia.com/terms/m/mbs.asp) (MBS) investors, and homeownership counseling organizations.
+Hope Now Alliance (now the Housing Policy Council - HPC) is a public-private initiative launched in 2007 to combat the overwhelming volume of home [[foreclosures]](https://www.investopedia.com/terms/f/foreclosure.asp) that emerged from the [[subprime mortgage market meltdown]](https://www.investopedia.com/terms/s/subprime-meltdown.asp). The Alliance is comprised of members from the U.S. government, the secondary mortgage market, lenders, [[mortgage backed securities]](https://www.investopedia.com/terms/m/mbs.asp) (MBS) investors, and homeownership counseling organizations.
 
-The group's efforts to reverse the foreclosure trend focused on contacting homeowners for [loan modifications](https://www.investopedia.com/terms/l/loan_modification.asp) and workouts. Workouts can result in either a modified repayment plan, which simply brings the homeowner up to date on their current payments but doesn’t change the underlying terms of their mortgage, or a loan modification, in which the terms of the mortgage are modified in order to make the loan serviceable for the homeowner. 
+The group's efforts to reverse the foreclosure trend focused on contacting homeowners for [[loan modifications]](https://www.investopedia.com/terms/l/loan_modification.asp) and workouts. Workouts can result in either a modified repayment plan, which simply brings the homeowner up to date on their current payments but doesn’t change the underlying terms of their mortgage, or a loan modification, in which the terms of the mortgage are modified in order to make the loan serviceable for the homeowner. 
 
 ### Key Takeaways
 

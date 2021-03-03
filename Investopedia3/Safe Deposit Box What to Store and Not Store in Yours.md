@@ -16,7 +16,7 @@ author: Julia Kagan
 Safe Deposit Box: What to Store and Not Store in Yours
 ## What Is a Safe Deposit Box?
 
-A safe deposit box (or safety deposit box) is an individually secured container—usually a metal box—that stays in the [safe](https://www.investopedia.com/articles/personal-finance/072915/best-banks-stash-my-million-dollars.asp) or vault of a federally insured bank or credit union. Safe deposit boxes are used to keep valuables, important documents, and sentimental keepsakes protected. Customers rely on the security of the building and vault to safeguard their contents.
+A safe deposit box (or safety deposit box) is an individually secured container—usually a metal box—that stays in the [[safe]](https://www.investopedia.com/articles/personal-finance/072915/best-banks-stash-my-million-dollars.asp) or vault of a federally insured bank or credit union. Safe deposit boxes are used to keep valuables, important documents, and sentimental keepsakes protected. Customers rely on the security of the building and vault to safeguard their contents.
 
 ### Key Takeaways:
 
@@ -27,7 +27,7 @@ A safe deposit box (or safety deposit box) is an individually secured container�
 
 ## How Safe Deposit Boxes Work
 
-When you rent a safe deposit box, the bank gives you a key to use, in tandem with a second “guard key” held by a bank employee, to access the box. If your bank uses a keyless system, you will scan your finger or hand instead. Either way, you will have to provide some type of [identification](https://www.investopedia.com/articles/pf/05/051805.asp)—and your key, if it’s not a keyless system—every time you visit the bank to access the box.
+When you rent a safe deposit box, the bank gives you a key to use, in tandem with a second “guard key” held by a bank employee, to access the box. If your bank uses a keyless system, you will scan your finger or hand instead. Either way, you will have to provide some type of [[identification]](https://www.investopedia.com/articles/pf/05/051805.asp)—and your key, if it’s not a keyless system—every time you visit the bank to access the box.
 
 An individual can rent a box in their name only, or they can add other people to the lease. Co-lessors on a safe deposit box will have equal access and rights to the contents of the box. For example, people who have an addiction, financial, marriage, and/or judgment issues may not be ideal candidates. 
 
@@ -37,12 +37,12 @@ Safe deposit boxes are a good place to keep your hard-to-replace documents—suc
 
 -   Personal papers, such as original birth certificates, adoption papers, marriage licenses, and citizenship papers.
 -   Copies—but not the only copies—of wills and powers of attorney.
--   Military records and discharge papers (e.g., [DD 214s](https://www.archives.gov/personnel-records-center/dd-214)).
+-   Military records and discharge papers (e.g., [[DD 214s]](https://www.archives.gov/personnel-records-center/dd-214)).
 -   School transcripts and diplomas.
 -   Sensitive documents you would not want roommates, children, relatives, and visitors to stumble across.
 -   The deed to your house, along with any car titles.
 -   Paper stock and bond certificates (including U.S. savings bonds), if you have any (most are issued electronically these days).
--   An inventory of your home’s contents in case you need to file a claim with your [homeowner’s insurance policy](https://www.investopedia.com/articles/company-insights/090516/top-3-cheapest-homeowners-insurance-companies.asp).
+-   An inventory of your home’s contents in case you need to file a claim with your [[homeowner’s insurance policy]](https://www.investopedia.com/articles/company-insights/090516/top-3-cheapest-homeowners-insurance-companies.asp).
 -   Important business papers and records.
 -   Important contracts.
 -   Hard drives and flash drives with backups and important data.
@@ -57,7 +57,7 @@ Safe deposit boxes are undoubtedly more secure than most people’s homes. Bank 
 
 Although safe deposit boxes are designed to withstand natural disasters, it’s a good idea to put anything that could be damaged by water in a waterproof container, such as a zippered plastic bag, to add another layer of protection. 
 
-It’s best to store items in a safe deposit box that won’t be needed in an emergency. Passports, medical directives, [the only copies of wills](https://www.investopedia.com/articles/pf/08/what-is-a-will.asp), and powers of attorney, among other documents, are better kept in a secure spot, such as a fireproof home safe. You’re better off keeping the following items out of your safe deposit box:
+It’s best to store items in a safe deposit box that won’t be needed in an emergency. Passports, medical directives, [[the only copies of wills]](https://www.investopedia.com/articles/pf/08/what-is-a-will.asp), and powers of attorney, among other documents, are better kept in a secure spot, such as a fireproof home safe. You’re better off keeping the following items out of your safe deposit box:
 
 -   Passports
 -   Only copies of living wills, advanced medical directives, and durable powers of attorney
@@ -65,7 +65,7 @@ It’s best to store items in a safe deposit box that won’t be needed in an em
 -   Cash
 -   Anything illegal
 
-The contents of a safe deposit box are not insured in the same way as a bank or credit union deposits. The [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) insures cash deposits up to a certain limit but, due to the fact that there is no way to verify the contents of a safe deposit box, banks will not insure their contents. Also, if heirs are not told about the location of the drawer, upon non-payment the box is considered abandoned, and its contents are turned over to the state’s unclaimed-property offices for auction.
+The contents of a safe deposit box are not insured in the same way as a bank or credit union deposits. The [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) insures cash deposits up to a certain limit but, due to the fact that there is no way to verify the contents of a safe deposit box, banks will not insure their contents. Also, if heirs are not told about the location of the drawer, upon non-payment the box is considered abandoned, and its contents are turned over to the state’s unclaimed-property offices for auction.
 
 ## Special Considerations
 

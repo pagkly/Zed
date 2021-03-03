@@ -20,13 +20,13 @@ An overhead ratio is a measurement of the operating costs of doing business comp
 
 ## The Formula for the Overhead Ratio Is
 
-The overhead ratio is arrived at by dividing operating expenses by the sum of taxable [net interest income](https://www.investopedia.com/terms/n/net-interest-income.asp) and operating income. That is:
+The overhead ratio is arrived at by dividing operating expenses by the sum of taxable [[net interest income]](https://www.investopedia.com/terms/n/net-interest-income.asp) and operating income. That is:
 
 Overhead Ratio\=Operating ExpensesTII+Operating Incomewhere:TII\=Taxable interest income\\begin{aligned} &\\text{Overhead Ratio} = \\frac { \\text{Operating Expenses} }{ \\text{TII} + \\text{Operating Income} } \\\\ &\\textbf{where:} \\\\ &\\text{TII} = \\text{Taxable interest income} \\\\ \\end{aligned}
 
 ## The Basics of Overhead Ratios
 
-A company's overhead expenses are the costs that result from its normal, day-to-day business operations. Operating expenses might include office rent, advertising, utilities, insurance, [depreciation](https://www.investopedia.com/terms/d/depreciation.asp), or machinery.
+A company's overhead expenses are the costs that result from its normal, day-to-day business operations. Operating expenses might include office rent, advertising, utilities, insurance, [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), or machinery.
 
 Calculations of overhead exclude costs that are directly related to the production of the goods or services that the company produces.
 

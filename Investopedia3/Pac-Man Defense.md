@@ -16,7 +16,7 @@ author: Will Kenton
 Pac-Man Defense
 ## What Is the Pac-Man Defense?
 
-The Pac-Man defense is a defensive tactic used by a targeted firm in a [hostile takeover](https://www.investopedia.com/terms/h/hostiletakeover.asp) situation. In a Pac-Man defense, the target firm then tries to acquire the company that has made a hostile takeover attempt. In an attempt to scare off the would-be acquirers, the takeover target may use any method to acquire the other company, including dipping into its [war chest](https://www.investopedia.com/terms/w/warchest.asp) for cash to buy a majority stake in the other company.
+The Pac-Man defense is a defensive tactic used by a targeted firm in a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp) situation. In a Pac-Man defense, the target firm then tries to acquire the company that has made a hostile takeover attempt. In an attempt to scare off the would-be acquirers, the takeover target may use any method to acquire the other company, including dipping into its [[war chest]](https://www.investopedia.com/terms/w/warchest.asp) for cash to buy a majority stake in the other company.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The Pac-Man defense is a defensive tactic used by a targeted firm in a [hostile 
 
 In the actual Pac-Man video game, the player has several ghosts chasing and trying to eliminate it. If the player eats a power pellet, he may turn around and eat the ghosts.
 
-Companies may use a similar approach as a means of avoiding a hostile takeover by turning the tables on the acquirer and mounting a bid to take over the raider. During the acquiring phase, the [takeover](https://www.investopedia.com/terms/t/takeover.asp) company may begin a large-scale purchase of the target company’s stocks to gain control of the target company. As a counter-strategy, the target company may begin buying back its shares and purchasing shares of the acquiring company.
+Companies may use a similar approach as a means of avoiding a hostile takeover by turning the tables on the acquirer and mounting a bid to take over the raider. During the acquiring phase, the [[takeover]](https://www.investopedia.com/terms/t/takeover.asp) company may begin a large-scale purchase of the target company’s stocks to gain control of the target company. As a counter-strategy, the target company may begin buying back its shares and purchasing shares of the acquiring company.
 
 It helps substantially if the targeted company has a war chest so that it has the means to mount a Pac-Man defense. A company’s war chest is the buffer of cash kept aside for uncertain adverse events, such as taking over a company. A war chest is typically invested in liquid assets such as Treasury bills and bank deposits that are available on demand.
 

@@ -26,7 +26,7 @@ A Uniform Individual Accident and Sickness Policy Provisions Act is legislation 
 
 ## Understanding the Uniform Individual Accident and Sickness Policy Provisions Act
 
-The legislation was was created to establish a standard of quality and to ensure health insurance policies have an adequate level of coverage by requiring that certain provisions be written into every policy. It was written by the [National Association of Insurance Commissioners](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC), a non-governmental organization that is comprised of the insurance commissioners of every state and territory.2 The NAIC is not itself a regulator. Insurance markets are regulated at the state level. 
+The legislation was was created to establish a standard of quality and to ensure health insurance policies have an adequate level of coverage by requiring that certain provisions be written into every policy. It was written by the [[National Association of Insurance Commissioners]](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC), a non-governmental organization that is comprised of the insurance commissioners of every state and territory.2 The NAIC is not itself a regulator. Insurance markets are regulated at the state level. 
 
 ## Mandatory Uniform Policy Provisions
 

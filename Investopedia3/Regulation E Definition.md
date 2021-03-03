@@ -16,15 +16,15 @@ author: Will Kenton
 Regulation E Definition
 ## What Is Regulation E?
 
-Regulation E is a regulation put forth by the [Federal Reserve Board](https://www.investopedia.com/terms/f/frb.asp) that outlines rules and procedures for electronic funds transfers (EFTs) and provides guidelines for issuers of electronic [debit cards](https://www.investopedia.com/terms/d/debitcard.asp).
+Regulation E is a regulation put forth by the [[Federal Reserve Board]](https://www.investopedia.com/terms/f/frb.asp) that outlines rules and procedures for electronic funds transfers (EFTs) and provides guidelines for issuers of electronic [[debit cards]](https://www.investopedia.com/terms/d/debitcard.asp).
 
 ## Understanding Regulation E
 
-Regulation E provides guidelines for consumers and banks or other financial institutions in the context of electronic funds transfers. These include transfers with [automated teller machines](https://www.investopedia.com/terms/a/atm.asp) (ATMs), point-of-sale transactions, and [automated clearing house](https://www.investopedia.com/terms/a/ach.asp) (ACH) systems. Rules pertaining to consumer liability for unauthorized card usage fall under this regulation as well.
+Regulation E provides guidelines for consumers and banks or other financial institutions in the context of electronic funds transfers. These include transfers with [[automated teller machines]](https://www.investopedia.com/terms/a/atm.asp) (ATMs), point-of-sale transactions, and [[automated clearing house]](https://www.investopedia.com/terms/a/ach.asp) (ACH) systems. Rules pertaining to consumer liability for unauthorized card usage fall under this regulation as well.
 
 Consumers and financial institutions both have an interest in understanding Regulation E's guidelines.
 
-Regulation E was issued by the Federal Reserve as an implementation of the [Electronic Funds Transfers Act](https://www.investopedia.com/terms/e/electronic-funds-transfer-act.asp), a law passed by the U.S. Congress in 1978 as a means of protecting consumers engaged in these sorts of financial transactions.
+Regulation E was issued by the Federal Reserve as an implementation of the [[Electronic Funds Transfers Act]](https://www.investopedia.com/terms/e/electronic-funds-transfer-act.asp), a law passed by the U.S. Congress in 1978 as a means of protecting consumers engaged in these sorts of financial transactions.
 
 Much of Regulation E outlines the procedures consumers must follow in reporting errors with EFTs, and the steps a bank must take to provide recourse. Errors subject to these regulations could include the consumer's receipt of an incorrect amount of money from an ATM, unauthorized credit or debit card activity, or an unauthorized wire transfer to or from a consumer's account. 
 
@@ -38,7 +38,7 @@ Generally, banks have a period of 10 business days during which to investigate a
 
 Regulation E also outlines consumer responsibility for reporting unauthorized ETF activity, typically involving a stolen or missing card. For example, consumers must report lost or stolen credit cards no more than two days after the consumer becomes aware of the theft; otherwise, the bank has no obligation to refund losses. 
 
-Regulation E governs the issuance of debit but not credit cards, which are governed by regulations outlined in the [Truth in Lending Act](https://www.investopedia.com/terms/t/tila.asp) and implemented by the Federal Reserve as [Regulation Z](https://www.investopedia.com/terms/r/regulation_z.asp). However, Regulation E does govern EFT features of credit card usage.
+Regulation E governs the issuance of debit but not credit cards, which are governed by regulations outlined in the [[Truth in Lending Act]](https://www.investopedia.com/terms/t/tila.asp) and implemented by the Federal Reserve as [[Regulation Z]](https://www.investopedia.com/terms/r/regulation_z.asp). However, Regulation E does govern EFT features of credit card usage.
 
 ## Special Considerations
 

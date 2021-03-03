@@ -26,13 +26,13 @@ Estoppel is a legal principle that prevents someone from arguing something or as
 
 ## Types of Estoppel
 
-There are different types of estoppel. [Collateral](https://www.investopedia.com/terms/c/collateral.asp) estoppel can prevent a person from going back to court as a plaintiff with the same grievance. This prevents legal harassment and abuse of legal resources.
+There are different types of estoppel. [[Collateral]](https://www.investopedia.com/terms/c/collateral.asp) estoppel can prevent a person from going back to court as a plaintiff with the same grievance. This prevents legal harassment and abuse of legal resources.
 
 Estoppel by deed prevents a person from denying the truth of any fact stated in a deed they have executed. By contrast, Equitable estoppel prevents someone from taking a legal position that is contrary or inconsistent with their previous stance if doing so harms the other party.
 
 ## Promissory Estoppel
 
-A common form of estoppel often found in contract law is called [promissory estoppel](https://www.investopedia.com/terms/p/promissory_estoppel.asp). It protects a person who has acted based on another person's reasonable promise, whether in a formal contract or not, and then suffers significant economic loss because the other party did not fulfill that promise.
+A common form of estoppel often found in contract law is called [[promissory estoppel]](https://www.investopedia.com/terms/p/promissory_estoppel.asp). It protects a person who has acted based on another person's reasonable promise, whether in a formal contract or not, and then suffers significant economic loss because the other party did not fulfill that promise.
 
 ## Example of Promissory Estoppel
 

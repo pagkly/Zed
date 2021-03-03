@@ -16,7 +16,7 @@ author:  Jake Frankenfeld
 What is a hashgraph consensus mechanism?
 ## What Is the Hashgraph Consensus Mechanism?
 
-Hashgraph is ab decentralized [consensus mechanism](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) using the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) concepts of "gossip," "gossip about gossip" and virtual voting. It purports to solve problems with the standard consensus-building [algorithms](https://www.investopedia.com/terms/a/algorithm.asp), like [proof of work](https://www.investopedia.com/terms/p/proof-work.asp) (PoW), in terms of better speed and higher efficiency as it does not send any votes or details over the network, which often leads to congestion and delays.
+Hashgraph is ab decentralized [[consensus mechanism]](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp) using the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) concepts of "gossip," "gossip about gossip" and virtual voting. It purports to solve problems with the standard consensus-building [[algorithms]](https://www.investopedia.com/terms/a/algorithm.asp), like [[proof of work]](https://www.investopedia.com/terms/p/proof-work.asp) (PoW), in terms of better speed and higher efficiency as it does not send any votes or details over the network, which often leads to congestion and delays.
 
 ### Key Takeaways
 

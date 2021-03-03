@@ -16,7 +16,7 @@ author: Jake Frankenfield
 What Is an Eavesdropping Attack?
 ## What Is an Eavesdropping Attack?
 
-An eavesdropping attack, also known as a sniffing or snooping attack, is a theft of information as it is transmitted over a network by a computer, [smartphone](https://www.investopedia.com/terms/s/smartphone.asp), or another connected device.
+An eavesdropping attack, also known as a sniffing or snooping attack, is a theft of information as it is transmitted over a network by a computer, [[smartphone]](https://www.investopedia.com/terms/s/smartphone.asp), or another connected device.
 
 The attack takes advantage of unsecured network communications to access data as it is being sent or received by its user.
 
@@ -40,7 +40,7 @@ Any device in the network between the transmitting device and the receiving devi
 
 ### How to Foil an Eavesdropping Attack
 
-Eavesdropping attacks can be prevented by using a personal [firewall](https://www.investopedia.com/terms/f/firewall.asp), keeping antivirus software updated, and using a virtual private network (VPN).
+Eavesdropping attacks can be prevented by using a personal [[firewall]](https://www.investopedia.com/terms/f/firewall.asp), keeping antivirus software updated, and using a virtual private network (VPN).
 
 Using a strong password and changing it frequently helps, too. And don't use the same password for every site you log onto.
 

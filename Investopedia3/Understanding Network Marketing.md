@@ -16,9 +16,9 @@ author: Will Kenton
 Understanding Network Marketing
 ## What Is Network Marketing?
 
-Network [marketing](https://www.investopedia.com/terms/m/marketing.asp) is a business model that depends on person-to-person sales by independent representatives, often working from home. A network marketing business may require you to build a network of business partners or salespeople to assist with [lead](https://www.investopedia.com/terms/s/sales-lead.asp) generation and closing sales.
+Network [[marketing]](https://www.investopedia.com/terms/m/marketing.asp) is a business model that depends on person-to-person sales by independent representatives, often working from home. A network marketing business may require you to build a network of business partners or salespeople to assist with [[lead]](https://www.investopedia.com/terms/s/sales-lead.asp) generation and closing sales.
 
-There are many reputable network marketing operations, but some have been denounced as pyramid [schemes](https://www.investopedia.com/terms/p/pyramidscheme.asp). The latter may focus less on sales to consumers than on recruitment of salespeople who may be required to pay upfront for expensive starter kits.
+There are many reputable network marketing operations, but some have been denounced as pyramid [[schemes]](https://www.investopedia.com/terms/p/pyramidscheme.asp). The latter may focus less on sales to consumers than on recruitment of salespeople who may be required to pay upfront for expensive starter kits.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ There are many reputable network marketing operations, but some have been denoun
 
 ## How Network Marketing Works
 
-Network marketing is known by a variety of names, including multilevel marketing, cellular marketing, [affiliate marketing](https://www.investopedia.com/terms/a/affiliate-network.asp), consumer-direct marketing, referral marketing, or home-based business franchising.
+Network marketing is known by a variety of names, including multilevel marketing, cellular marketing, [[affiliate marketing]](https://www.investopedia.com/terms/a/affiliate-network.asp), consumer-direct marketing, referral marketing, or home-based business franchising.
 
-Companies that follow the network marketing model often create tiers of salespeople—that is, salespeople are encouraged to recruit their own networks of salespeople. The creators of a new tier (or "upline") earn [commission](https://www.investopedia.com/terms/c/commission.asp) on their own sales and on sales made by the people in the tier they created (the "downline"). In time, a new tier can sprout yet another tier, which contributes more commission to the person in the top tier as well as the middle tier.
+Companies that follow the network marketing model often create tiers of salespeople—that is, salespeople are encouraged to recruit their own networks of salespeople. The creators of a new tier (or "upline") earn [[commission]](https://www.investopedia.com/terms/c/commission.asp) on their own sales and on sales made by the people in the tier they created (the "downline"). In time, a new tier can sprout yet another tier, which contributes more commission to the person in the top tier as well as the middle tier.
 
 Thus, the earnings of salespeople depend on recruitment as well as product sales. Those who got in early and are in a top tier make the most.
 
@@ -42,7 +42,7 @@ There is some stigma attached to the networking marketing business, especially t
 
 The appeal of network marketing is that an individual with a lot of energy and good sales skills can create a profitable business with a modest investment.
 
-A good rule of thumb, according to the [Federal Trade Commission](https://www.investopedia.com/articles/financial-theory/10/the-us-federal-trade-commission.asp) (FCC), is that single-tier network marketing operations tend to be more reputable than multi-tier schemes, in which people make money based on the number of distributors they recruit.
+A good rule of thumb, according to the [[Federal Trade Commission]](https://www.investopedia.com/articles/financial-theory/10/the-us-federal-trade-commission.asp) (FCC), is that single-tier network marketing operations tend to be more reputable than multi-tier schemes, in which people make money based on the number of distributors they recruit.
 
 Some reputable examples of single-tier network marketing operations include Avon Products, Mary Kay, and Excel Communications.
 

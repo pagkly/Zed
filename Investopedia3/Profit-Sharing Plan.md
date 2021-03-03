@@ -16,7 +16,7 @@ author: Will Kenton
 Profit-Sharing Plan
 ## What Is a Profit-Sharing Plan?
 
-A profit-sharing plan is a retirement plan that gives employees a share in the profits of a company. Under this type of plan, also known as a [deferred profit-sharing plan](https://www.investopedia.com/terms/d/dpsp.asp) (DPSP), an employee receives a percentage of a company’s profits based on its quarterly or annual earnings. This is a great way for a business to give its employees a sense of ownership in the company, but there are typically restrictions as to when and how a person can withdraw these funds without penalties.
+A profit-sharing plan is a retirement plan that gives employees a share in the profits of a company. Under this type of plan, also known as a [[deferred profit-sharing plan]](https://www.investopedia.com/terms/d/dpsp.asp) (DPSP), an employee receives a percentage of a company’s profits based on its quarterly or annual earnings. This is a great way for a business to give its employees a sense of ownership in the company, but there are typically restrictions as to when and how a person can withdraw these funds without penalties.
 
 ### Key Takeaways
 
@@ -47,8 +47,8 @@ The contribution limit for a company sharing profits with an employee for 2021 a
 
 ## Requirements for a Profit-Sharing Plan
 
-A profit-sharing plan is available for a business of any size, and a company can establish one even if it already has other retirement plans. Further, a company has a lot of flexibility in how it can implement a profit-sharing plan. As with a 401(k) plan, an employer has full discretion over how and when it makes contributions. However, all companies have to prove that a profit-sharing plan does not discriminate in favor of [highly compensated employees](https://www.investopedia.com/terms/h/highly-compensated-employee.asp).
+A profit-sharing plan is available for a business of any size, and a company can establish one even if it already has other retirement plans. Further, a company has a lot of flexibility in how it can implement a profit-sharing plan. As with a 401(k) plan, an employer has full discretion over how and when it makes contributions. However, all companies have to prove that a profit-sharing plan does not discriminate in favor of [[highly compensated employees]](https://www.investopedia.com/terms/h/highly-compensated-employee.asp).
 
 As of 2021, the contribution limit for a company sharing its profits with an employee is the lesser of 25% of that employee’s compensation or $58,000. In addition, the amount of an employee’s salary that can be considered for a profit-sharing plan is limited, in 2020 to $290,000.1
 
-To implement a profit-sharing plan, all businesses must fill out an Internal Revenue Service [Form 5500](https://www.irs.gov/retirement-plans/form-5500-corner) and disclose all participants of the plan. Early withdrawals, just as with other retirement plans, are subject to penalties, [though with certain exceptions](https://www.investopedia.com/ask/answers/10/profit-sharing-down-payment.asp).
+To implement a profit-sharing plan, all businesses must fill out an Internal Revenue Service [[Form 5500]](https://www.irs.gov/retirement-plans/form-5500-corner) and disclose all participants of the plan. Early withdrawals, just as with other retirement plans, are subject to penalties, [[though with certain exceptions]](https://www.investopedia.com/ask/answers/10/profit-sharing-down-payment.asp).

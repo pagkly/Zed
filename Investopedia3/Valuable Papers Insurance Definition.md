@@ -16,7 +16,7 @@ author: Julia Kagan
 Valuable Papers Insurance Definition
 ## What Is Valuable Papers Insurance?
 
-Valuable papers insurance is a special type of [property](https://www.investopedia.com/terms/p/property-insurance.asp)\-[casualty insurance](https://www.investopedia.com/terms/c/casualtyinsurance.asp). Valuable papers insurance reimburses the policyholder for the monetary value of any valuable papers such as wills, trusts, or corporate charters that are lost for any reason, though it cannot actually replace these papers. It is often purchased by corporations, small businesses, and wealthy people.
+Valuable papers insurance is a special type of [[property]](https://www.investopedia.com/terms/p/property-insurance.asp)\-[casualty insurance](https://www.investopedia.com/terms/c/casualtyinsurance.asp). Valuable papers insurance reimburses the policyholder for the monetary value of any valuable papers such as wills, trusts, or corporate charters that are lost for any reason, though it cannot actually replace these papers. It is often purchased by corporations, small businesses, and wealthy people.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Valuable papers insurance protects businesses from the expensive and often time-
 
 For example, let's say a company's headquarters is destroyed in a flood. The company's share certificates, documents related to a court case the company was once involved in, as well as information related to personnel and other important papers were all destroyed in the flood. This company has valuable papers insurance, so it files a claim and is reimbursed for these documents, thus saving the company money as well as time and effort involved in reconstructing the evidence from the court case. Medical and legal records are often the toughest to reproduce, as well as documents related to research and development.
 
-If a business' [commercial property](https://www.investopedia.com/terms/c/commercial-property-insurance.asp) policy does not include valuable papers, those items can be insured by an [endorsement](https://www.investopedia.com/terms/e/endorsement.asp), which generally provides the same, or in some cases broader, coverage than what is included in a typical property-casualty insurance policy.
+If a business' [[commercial property]](https://www.investopedia.com/terms/c/commercial-property-insurance.asp) policy does not include valuable papers, those items can be insured by an [[endorsement]](https://www.investopedia.com/terms/e/endorsement.asp), which generally provides the same, or in some cases broader, coverage than what is included in a typical property-casualty insurance policy.
 
 ## What Isn't Covered
 

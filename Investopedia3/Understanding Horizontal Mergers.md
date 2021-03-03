@@ -18,11 +18,11 @@ Understanding Horizontal Mergers
 
 A horizontal merger is a merger or business consolidation that occurs between firms that operate in the same industry. Competition tends to be higher among companies operating in the same space, meaning synergies and potential gains in market share are much greater for merging firms.
 
-This type of merger occurs frequently because of larger companies attempting to create more efficient [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp). Conversely, a [vertical merger](https://www.investopedia.com/terms/v/verticalmerger.asp) takes place when firms from different parts of the supply chain consolidate to make the production process more efficient or cost-effective.
+This type of merger occurs frequently because of larger companies attempting to create more efficient [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp). Conversely, a [[vertical merger]](https://www.investopedia.com/terms/v/verticalmerger.asp) takes place when firms from different parts of the supply chain consolidate to make the production process more efficient or cost-effective.
 
 ## How Horizontal Mergers Work
 
-A horizontal [merger](https://www.investopedia.com/articles/stocks/09/merger-acquisitions-types.asp) can help a company gain competitive advantages. For example, if one company sells products similar to the other, the combined sales of a horizontal merger will give the new company a greater share of the market.
+A horizontal [[merger]](https://www.investopedia.com/articles/stocks/09/merger-acquisitions-types.asp) can help a company gain competitive advantages. For example, if one company sells products similar to the other, the combined sales of a horizontal merger will give the new company a greater share of the market.
 
 If one company manufactures products complementary to the other, the newly merged company may offer a wider range of products to customers. Merging with a company offering different products to a different sector of the marketplace helps the new company diversify its offerings and enter new markets.
 

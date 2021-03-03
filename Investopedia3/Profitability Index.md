@@ -16,7 +16,7 @@ author: James Chen
 Profitability Index
 ## What Is the Profitability Index (PI)?
 
-The profitability index (PI), alternatively referred to as value investment ratio (VIR) or profit investment ratio (PIR), describes an index that represents the relationship between the costs and benefits of a proposed project. It is calculated as the ratio between the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of future expected cash flows and the initial amount invested in the project. A higher PI means that a project will be considered more attractive.
+The profitability index (PI), alternatively referred to as value investment ratio (VIR) or profit investment ratio (PIR), describes an index that represents the relationship between the costs and benefits of a proposed project. It is calculated as the ratio between the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of future expected cash flows and the initial amount invested in the project. A higher PI means that a project will be considered more attractive.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ The profitability index (PI), alternatively referred to as value investment rati
 
 ## Understanding the Profitability Index
 
-The PI is helpful in ranking various projects because it lets investors quantify the value created per each investment unit. A profitability index of 1.0 is logically the lowest acceptable measure on the index, as any value lower than that number would indicate that the project's present value (PV) is less than the [initial investment](https://www.investopedia.com/terms/i/initialcashflow.asp). As the value of the profitability index increases, so does the financial attractiveness of the proposed project.
+The PI is helpful in ranking various projects because it lets investors quantify the value created per each investment unit. A profitability index of 1.0 is logically the lowest acceptable measure on the index, as any value lower than that number would indicate that the project's present value (PV) is less than the [[initial investment]](https://www.investopedia.com/terms/i/initialcashflow.asp). As the value of the profitability index increases, so does the financial attractiveness of the proposed project.
 
 The profitability index is an appraisal technique applied to potential capital outlays. The method divides the projected capital inflow by the projected capital outflow to determine the profitability of a project. As indicated by the aforementioned formula, the profitability index uses the present value of future cash flows and the initial investment to represent the aforementioned variables.
 
-When using the profitability index to compare the desirability of projects, it's essential to consider how the technique disregards project size. Therefore, projects with larger cash inflows may result in lower profitability index calculations because their [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp) are not as high.
+When using the profitability index to compare the desirability of projects, it's essential to consider how the technique disregards project size. Therefore, projects with larger cash inflows may result in lower profitability index calculations because their [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp) are not as high.
 
 The profitability index can be computed using the following ratio:
 
@@ -45,7 +45,7 @@ The present value of future cash flows requires the implementation of time value
 
 ### Investment Required (Denominator)
 
-The discounted projected cash outflows represent the initial capital outlay of a project. The initial investment required is only the cash flow required at the start of the project. All other outlays may occur at any point in the project's life, and these are factored into the calculation through the use of discounting in the numerator. These additional capital outlays may factor in benefits relating to taxation or [depreciation](https://www.investopedia.com/terms/d/depreciation.asp).
+The discounted projected cash outflows represent the initial capital outlay of a project. The initial investment required is only the cash flow required at the start of the project. All other outlays may occur at any point in the project's life, and these are factored into the calculation through the use of discounting in the numerator. These additional capital outlays may factor in benefits relating to taxation or [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp).
 
 ## Calculating and Interpreting the Profitability Index
 

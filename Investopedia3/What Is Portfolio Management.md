@@ -22,12 +22,12 @@ Portfolio management requires the ability to weigh strengths and weaknesses, opp
 
 ## Understanding Portfolio Management
 
-Professional licensed [portfolio managers](https://www.investopedia.com/articles/wealth-management/021816/portfolio-manager-job-description-average-salary.asp) work on behalf of clients, while individuals may choose to build and manage their own portfolios. In either case, the portfolio manager's ultimate goal is to maximize the investments' expected return within an appropriate level of risk exposure.
+Professional licensed [[portfolio managers]](https://www.investopedia.com/articles/wealth-management/021816/portfolio-manager-job-description-average-salary.asp) work on behalf of clients, while individuals may choose to build and manage their own portfolios. In either case, the portfolio manager's ultimate goal is to maximize the investments' expected return within an appropriate level of risk exposure.
 
 Portfolio management may be either passive or active in nature.
 
--   Passive management is a set-it-and-forget-it long-term strategy. It may involve investing in one or more exchange-traded (ETF) index funds. This is commonly referred to as indexing or index investing. Those who build Indexed portfolios may use modern [portfolio theory](https://www.investopedia.com/ask/answers/071515/how-can-i-measure-portfolio-variance.asp) (MPT) to help optimize the mix.
--   Active management involves attempting to beat the performance of an index by actively buying and selling individual stocks and other assets. [Closed-end funds](https://www.investopedia.com/terms/c/closed-endinvestment.asp) are generally actively managed. Active managers may use any of a wide range of quantitative or qualitative models to aid in their evaluations of potential investments.
+-   Passive management is a set-it-and-forget-it long-term strategy. It may involve investing in one or more exchange-traded (ETF) index funds. This is commonly referred to as indexing or index investing. Those who build Indexed portfolios may use modern [[portfolio theory]](https://www.investopedia.com/ask/answers/071515/how-can-i-measure-portfolio-variance.asp) (MPT) to help optimize the mix.
+-   Active management involves attempting to beat the performance of an index by actively buying and selling individual stocks and other assets. [[Closed-end funds]](https://www.investopedia.com/terms/c/closed-endinvestment.asp) are generally actively managed. Active managers may use any of a wide range of quantitative or qualitative models to aid in their evaluations of potential investments.
 
 ### Key Takeaways
 

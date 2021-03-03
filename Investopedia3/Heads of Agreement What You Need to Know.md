@@ -16,7 +16,7 @@ author: Adam Hayes
 Heads of Agreement: What You Need to Know
 ## What Is a Heads of Agreement?
 
-A "heads of" agreement is a non-binding document that outlines the basic terms of a tentative [partnership](https://www.investopedia.com/terms/p/partnership.asp) agreement or transaction. Also known as a "heads of terms," or "[letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp)," a heads of agreement marks the first step on the path to a full legally binding agreement or contract and a guideline for the roles and responsibilities of the parties involved in a potential partnership before any binding documents are drawn up. Such a document is commonly used in commercial transactions, such as the purchase of a business.
+A "heads of" agreement is a non-binding document that outlines the basic terms of a tentative [[partnership]](https://www.investopedia.com/terms/p/partnership.asp) agreement or transaction. Also known as a "heads of terms," or "[letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp)," a heads of agreement marks the first step on the path to a full legally binding agreement or contract and a guideline for the roles and responsibilities of the parties involved in a potential partnership before any binding documents are drawn up. Such a document is commonly used in commercial transactions, such as the purchase of a business.
 
 As a business term, "heads of agreement" is most commonly used in Australia, New Zealand, and the United Kingdom.
 
@@ -40,7 +40,7 @@ A heads of agreement can provide both parties in a transaction or partnership th
 -   Guidelines for negotiating a formal agreement
 -   A running list of agreed-to terms
 -   Proof to lenders or investors that both parties are committed to a formal agreement
--   A tool and guidelines for addressing confidentiality, due diligence, [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp), exclusivity, as well as other pre-contractual issues
+-   A tool and guidelines for addressing confidentiality, due diligence, [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp), exclusivity, as well as other pre-contractual issues
 
 ## Heads of Agreement: Binding or Not?
 

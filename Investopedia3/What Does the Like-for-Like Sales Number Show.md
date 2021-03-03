@@ -18,7 +18,7 @@ What Does the Like-for-Like Sales Number Show?
 
 Like-for-like sales is an adjusted growth metric that includes revenues generated from stores or products with similar characteristics while omitting any with distinct differences that could skew the numbers.
 
-Like-for-like sales are also referred to as comparable-store sales, [comps](https://www.investopedia.com/terms/c/comps.asp), same-store sales, or identical-store sales.
+Like-for-like sales are also referred to as comparable-store sales, [[comps]](https://www.investopedia.com/terms/c/comps.asp), same-store sales, or identical-store sales.
 
 ## Understanding Like-for-Like Sales
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 Loss Carryback
 ## What Is a Loss Carryback?
 
-A loss carryback describes a situation in which a business experiences a [net operating loss (NOL)](https://www.investopedia.com/terms/n/netoperatingloss.asp) and chooses to apply that loss to a prior year's tax return. This results in an immediate refund of taxes previously paid by reducing the [tax liability](https://www.investopedia.com/terms/t/taxliability.asp) for that previous year.
+A loss carryback describes a situation in which a business experiences a [[net operating loss (NOL)]](https://www.investopedia.com/terms/n/netoperatingloss.asp) and chooses to apply that loss to a prior year's tax return. This results in an immediate refund of taxes previously paid by reducing the [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp) for that previous year.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A loss carryback describes a situation in which a business experiences a [net op
 
 ## Understanding a Loss Carryback
 
-Loss carrybacks are similar to [loss carryforwards](https://www.investopedia.com/terms/l/losscarryforward.asp), except that companies apply their net operating losses to preceding rather than subsequent years' incomes. The loss carryback will generate a [tax refund](https://www.investopedia.com/terms/t/tax-refund.asp) of prior taxes paid by the business for that previous year due to its newly reduced tax liability. After the carried back loss is applied, it will be as though the business had overpaid its taxes for that year.
+Loss carrybacks are similar to [[loss carryforwards]](https://www.investopedia.com/terms/l/losscarryforward.asp), except that companies apply their net operating losses to preceding rather than subsequent years' incomes. The loss carryback will generate a [[tax refund]](https://www.investopedia.com/terms/t/tax-refund.asp) of prior taxes paid by the business for that previous year due to its newly reduced tax liability. After the carried back loss is applied, it will be as though the business had overpaid its taxes for that year.
 
 A business can choose how to apply a net operating loss (NOL) when such a loss occurs. For example, it can choose to waive the carryback period and only carry the loss forward. However, once the decision has been made to carry the loss forward, the action cannot be reversed. 1
 
@@ -45,9 +45,9 @@ Over the following years, the allowable duration for carryovers has been extende
 Some states have stricter income percentages or time limits on carrybacks or carryforwards for state income tax purposes.
 
 -   The Tax Relief Act of 1997 limited the NOL carryback provision to two years while extending the carryforward provision out to 20 years.2
--   Carrybacks were extended temporarily to three, four, or five years as a response to both the [September 11th attacks](https://www.investopedia.com/financial-edge/0911/the-impact-of-september-11-on-business.aspx) on the World Trade Center and the [Great Recession](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) in 2009. 2
--   The [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/how-gop-tax-bill-affects-you/) (TCJA), passed in 2017, removed the two-year carryback provision, with the exception of certain farming losses and non-life insurance companies. It also allows for an indefinite carryforward period, but the carryforwards are now limited to 80% of each subsequent year's net income. For the exceptions, insurance companies, other than life insurance, are permitted to carry back NOLs two years and forward 20 years, and the new 80% limitation does not apply. Farming losses are permitted to be carried back two years and carried forward indefinitely, still subject to the 80% limitation. 3
--   In 2020, the [Coronavirus Aid, Relief, and Economic Security](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707) (CARES) Act effectively delayed the changes put into place by the TCJA until Jan. 1, 2021. The CARES Act also extended the time frame for carrybacks and allowed a five-year NOL carryback for taxable years beginning after Dec. 31, 2017, and before Jan. 1, 2021. This includes NOLs incurred by non-life insurance companies and farming losses. 3
+-   Carrybacks were extended temporarily to three, four, or five years as a response to both the [[September 11th attacks]](https://www.investopedia.com/financial-edge/0911/the-impact-of-september-11-on-business.aspx) on the World Trade Center and the [[Great Recession]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) in 2009. 2
+-   The [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/how-gop-tax-bill-affects-you/) (TCJA), passed in 2017, removed the two-year carryback provision, with the exception of certain farming losses and non-life insurance companies. It also allows for an indefinite carryforward period, but the carryforwards are now limited to 80% of each subsequent year's net income. For the exceptions, insurance companies, other than life insurance, are permitted to carry back NOLs two years and forward 20 years, and the new 80% limitation does not apply. Farming losses are permitted to be carried back two years and carried forward indefinitely, still subject to the 80% limitation. 3
+-   In 2020, the [[Coronavirus Aid, Relief, and Economic Security]](https://www.investopedia.com/coronavirus-aid-relief-and-economic-security-cares-act-4800707) (CARES) Act effectively delayed the changes put into place by the TCJA until Jan. 1, 2021. The CARES Act also extended the time frame for carrybacks and allowed a five-year NOL carryback for taxable years beginning after Dec. 31, 2017, and before Jan. 1, 2021. This includes NOLs incurred by non-life insurance companies and farming losses. 3
 
 ## Real World Example
 

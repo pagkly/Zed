@@ -16,7 +16,7 @@ author: Chris B Murphy
 How the Non-Accelerating Inflation Rate of Unemployment Works
 ## What Is the Non-Accelerating Inflation Rate of Unemployment?
 
-The non-accelerating inflation rate of unemployment (NAIRU) is the specific level of [unemployment](https://www.investopedia.com/terms/u/unemployment.asp) that is evident in an economy that does not cause [inflation](https://www.investopedia.com/terms/i/inflation.asp) to increase. In other words, if unemployment is at the NAIRU level, inflation is constant. NAIRU often represents the equilibrium between the state of the economy and the labor market.1 2
+The non-accelerating inflation rate of unemployment (NAIRU) is the specific level of [[unemployment]](https://www.investopedia.com/terms/u/unemployment.asp) that is evident in an economy that does not cause [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) to increase. In other words, if unemployment is at the NAIRU level, inflation is constant. NAIRU often represents the equilibrium between the state of the economy and the labor market.1 2
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The non-accelerating inflation rate of unemployment (NAIRU) is the specific leve
 
 ## How NAIRU Works
 
-Although there is no formula for calculating a NAIRU level, the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) has historically used statistical models and estimates that the NAIRU level is somewhere between 5% to 6% unemployment (estimates from 2005-2030 are between 4 and 5%).3 NAIRU plays a role in the Fed's dual mandate objectives of achieving maximum employment and price stability.1
+Although there is no formula for calculating a NAIRU level, the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) has historically used statistical models and estimates that the NAIRU level is somewhere between 5% to 6% unemployment (estimates from 2005-2030 are between 4 and 5%).3 NAIRU plays a role in the Fed's dual mandate objectives of achieving maximum employment and price stability.1
 
 For example, the Fed typically targets an inflation rate of 2% as a medium-term level to maintain.4 If prices rise too quickly due to a strong economy, and it looks that the Fed's inflation target will be exceeded by the inflation rate, the Fed will tighten monetary policy slowing down the economy and inflation.5
 
@@ -44,15 +44,15 @@ Think of NAIRU as the tipping point between unemployment and rising or falling p
 
 ## How NAIRU Came About
 
-In 1958, New Zealand born economist William Phillips wrote a paper titled "The Relation between Unemployment and the Rate of Money Wage Rates" in the United Kingdom. In his paper, Phillips described the supposed inverse relationship between unemployment levels and the rate of inflation. This relationship was referred to as the [Phillips curve](https://www.investopedia.com/terms/p/phillipscurve.asp).6 However, during the severe recession of 1974 to 1975, inflation, and unemployment rates both reached historic levels, and people began to doubt the theoretical basis of the Phillips curve.7 8
+In 1958, New Zealand born economist William Phillips wrote a paper titled "The Relation between Unemployment and the Rate of Money Wage Rates" in the United Kingdom. In his paper, Phillips described the supposed inverse relationship between unemployment levels and the rate of inflation. This relationship was referred to as the [[Phillips curve]](https://www.investopedia.com/terms/p/phillipscurve.asp).6 However, during the severe recession of 1974 to 1975, inflation, and unemployment rates both reached historic levels, and people began to doubt the theoretical basis of the Phillips curve.7 8
 
 Milton Friedman and other critics argued that government macroeconomic policies were being driven by a low unemployment target, which caused the expectations of inflation to change. This led to accelerated inflation rather than reduced unemployment. It was then agreed that government economic policies should not be influenced by unemployment levels below a critical level also known as the “[natural rate of unemployment](https://www.investopedia.com/terms/n/naturalunemployment.asp)."9
 
-NAIRU was first introduced in 1975 as the noninflationary rate of unemployment (NIRU) by Franco Modigliani and Lucas Papademos.10 It was an improvement of the concept of the "natural rate of unemployment" by [Milton Friedman](https://www.investopedia.com/terms/m/milton-friedman.asp).11
+NAIRU was first introduced in 1975 as the noninflationary rate of unemployment (NIRU) by Franco Modigliani and Lucas Papademos.10 It was an improvement of the concept of the "natural rate of unemployment" by [[Milton Friedman]](https://www.investopedia.com/terms/m/milton-friedman.asp).11
 
 ## The Correlation Between Unemployment and Inflation
 
-Suppose that the [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp) is at 5% and the inflation rate is 2%. Assuming that both of these values remain the same for a period, it can then be said that when unemployment is under 5%, it is natural for an inflation rate of over 2% to correspond with it. Critics cite that it is unlikely to have a static rate of unemployment that lasts for long periods of time because of different levels of factors affecting the workforce and employers (such as natural disasters and political instability) that can quickly shift this equilibrium.
+Suppose that the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp) is at 5% and the inflation rate is 2%. Assuming that both of these values remain the same for a period, it can then be said that when unemployment is under 5%, it is natural for an inflation rate of over 2% to correspond with it. Critics cite that it is unlikely to have a static rate of unemployment that lasts for long periods of time because of different levels of factors affecting the workforce and employers (such as natural disasters and political instability) that can quickly shift this equilibrium.
 
 The theory states that if the actual unemployment rate is less than the NAIRU level for a few years, inflationary expectations rise, so the inflation rate tends to increase. If the actual unemployment rate is higher than the NAIRU level, inflationary expectations fall so the inflation rate decreases. If both the unemployment rate and the NAIRU level are equal, the inflation rate remains constant.
 
@@ -62,7 +62,7 @@ Natural unemployment, or the natural rate of unemployment, is the minimum unempl
 
 The term [full employment](https://www.investopedia.com/terms/f/fullemployment.asp) is a misnomer since there are always workers looking for employment including college graduates or those displaced by technological advances. In other words, there is always some movement of labor throughout the economy. The movement of labor in and out of employment, whether it's voluntary or not, represents natural unemployment.
 
-NAIRU has to do with the relationship between unemployment and inflation or rising prices. NAIRU is the specific level of unemployment whereby the economy does not cause [inflation](https://www.investopedia.com/terms/i/inflation.asp) to increase.
+NAIRU has to do with the relationship between unemployment and inflation or rising prices. NAIRU is the specific level of unemployment whereby the economy does not cause [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) to increase.
 
 ## Limitations of Using NAIRU
 

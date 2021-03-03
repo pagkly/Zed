@@ -26,11 +26,11 @@ A special purpose vehicle, also called a special purpose entity (SPE), is a subs
 
 For this reason, a special purpose vehicle is sometimes called a bankruptcy-remote entity.
 
-If [accounting loopholes](https://www.investopedia.com/articles/personal-finance/032116/top-6-strategies-protect-your-income-taxes.asp) are exploited, these vehicles can become a financially devastating way to hide company debt, as seen in 2001 in the Enron scandal.
+If [[accounting loopholes]](https://www.investopedia.com/articles/personal-finance/032116/top-6-strategies-protect-your-income-taxes.asp) are exploited, these vehicles can become a financially devastating way to hide company debt, as seen in 2001 in the Enron scandal.
 
 ## Understanding the SPV
 
-A [parent company](https://www.investopedia.com/articles/stocks/09/parents-and-spinoffs.asp) creates an SPV to isolate or securitize assets in a separate company that is often kept off the balance sheet. It may be created in order to undertake a risky project while protecting the parent company from the most severe risks of its failure.
+A [[parent company]](https://www.investopedia.com/articles/stocks/09/parents-and-spinoffs.asp) creates an SPV to isolate or securitize assets in a separate company that is often kept off the balance sheet. It may be created in order to undertake a risky project while protecting the parent company from the most severe risks of its failure.
 
 In other cases, the SPV may be created solely to securitize debt so that investors can be assured of repayment.
 
@@ -38,7 +38,7 @@ In any case, the operations of the SPV are limited to the acquisition and financ
 
 #### Special Purpose Entity/Vehicle
 
-A company may form the SPV as a limited partnership, a trust, a corporation, or a [limited liability corporation](https://www.investopedia.com/terms/l/llc.asp), among other options. It may be designed for independent ownership, management, and funding. In any case, SPVs help companies securitize assets, create [joint ventures](https://www.investopedia.com/terms/s/strategic-joint-venture.asp), isolate corporate assets, or perform other financial transactions.
+A company may form the SPV as a limited partnership, a trust, a corporation, or a [[limited liability corporation]](https://www.investopedia.com/terms/l/llc.asp), among other options. It may be designed for independent ownership, management, and funding. In any case, SPVs help companies securitize assets, create [[joint ventures]](https://www.investopedia.com/terms/s/strategic-joint-venture.asp), isolate corporate assets, or perform other financial transactions.
 
 ### How the SPV Works
 
@@ -52,7 +52,7 @@ Thus, the SPV may mask crucial information from investors, who are not getting a
 
 The massive financial collapse in 2001 of Enron Corp., a supposedly booming energy company based in Houston, is a prime example of misuse of an SPV.
 
-Enron's stock was rising rapidly, and the company transferred much of the stock to a special purpose vehicle, taking cash or a note in return. The special purpose vehicle then used the stock for [hedging assets](https://www.investopedia.com/trading/hedging-beginners-guide/) that were held on the company’s balance sheet. To reduce risk, Enron guaranteed the special purpose vehicle's value. When Enron's stock price dropped, the values of the special purpose vehicles followed, and the guarantees were forced into play.1
+Enron's stock was rising rapidly, and the company transferred much of the stock to a special purpose vehicle, taking cash or a note in return. The special purpose vehicle then used the stock for [[hedging assets]](https://www.investopedia.com/trading/hedging-beginners-guide/) that were held on the company’s balance sheet. To reduce risk, Enron guaranteed the special purpose vehicle's value. When Enron's stock price dropped, the values of the special purpose vehicles followed, and the guarantees were forced into play.1
 
 Its misuse of SPVs was by no means the only accounting trick perpetrated by Enron, but it may have been the greatest contributor to its abrupt fall. Enron could not pay the huge sums it owed creditors and investors, and financial collapse followed quickly.
 

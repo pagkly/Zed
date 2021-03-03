@@ -16,7 +16,7 @@ author: Marshall Hargrave
 Gauging Obsolescence Risk
 ## What Is Obsolescence Risk?
 
-Obsolescence risk is the risk that a process, product, or technology used or produced by a company for [profit](https://www.investopedia.com/terms/p/profit.asp) will become obsolete, and thus no longer competitive in the marketplace. This would reduce the profitability of the company.
+Obsolescence risk is the risk that a process, product, or technology used or produced by a company for [[profit]](https://www.investopedia.com/terms/p/profit.asp) will become obsolete, and thus no longer competitive in the marketplace. This would reduce the profitability of the company.
 
 Obsolescence risk is most significant for technology-based companies or companies with products or services based on technological advantages.
 
@@ -34,7 +34,7 @@ A publishing company is an example of one that faces obsolescence risk. As compu
 
 For the publishing company to remain competitive, it must minimize its investments in the old paper publications and maximize its investments in new technologies. Even as it makes this shift, it must remain alert to new and unimagined technologies that could supplant the currently popular ways of reading and require still more investment.
 
-The [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) "graveyards" are littered with dead companies whose products or technology were rendered obsolete. Examples are the technology companies Control Data and Digital Equipment from Morgan Stanley's 1982 “recommended” buy list.
+The [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) "graveyards" are littered with dead companies whose products or technology were rendered obsolete. Examples are the technology companies Control Data and Digital Equipment from Morgan Stanley's 1982 “recommended” buy list.
 
 ### Key Takeaways
 

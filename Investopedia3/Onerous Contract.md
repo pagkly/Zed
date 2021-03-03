@@ -18,7 +18,7 @@ Onerous Contract
 
 An onerous contract is an accounting term that refers to a contract that will cost a company more to fulfill than what the company will receive in return.
 
-The term is used in many countries worldwide, where international regulators have determined that such contracts must be accounted for on balance sheets. The United States has a different system, based on [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp), or GAAP, as set forth by the U.S.-based Financial Accounting Standards Board.
+The term is used in many countries worldwide, where international regulators have determined that such contracts must be accounted for on balance sheets. The United States has a different system, based on [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp), or GAAP, as set forth by the U.S.-based Financial Accounting Standards Board.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ An example of an onerous contract might be an agreement to rent a property that 
 
 ## Special Considerations
 
-The rules for how onerous contracts should be treated in a company's financial statements are part of the [International Financial Reporting Standards](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS), for which the IAS Board is the independent standard-setting body. The governing body, the IFRS Foundation, is a not-for-profit organization based in London.2
+The rules for how onerous contracts should be treated in a company's financial statements are part of the [[International Financial Reporting Standards]](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS), for which the IAS Board is the independent standard-setting body. The governing body, the IFRS Foundation, is a not-for-profit organization based in London.2
 
 International Accounting Standard 37 (IAS 37), "Provisions, Contingent Liabilities, and Contingent Assets," classifies onerous contracts as "provisions," meaning liabilities or debts that will accrue at an uncertain time or in an unknown amount. Provisions are measured using the best estimate of the expenses required to satisfy the current obligation.3
 

@@ -26,17 +26,17 @@ Novation is the act of substituting a valid existing contract with a replacement
 
 ## How Novation Works
 
-A novation is similar to an [assignment](https://www.investopedia.com/terms/a/assignment.asp), which is the act of one party transferring an interest in a property or a business to a third party, as opposed to transferring the entire entity. But while novations pass along both benefits and potential liabilities to the new party, assignments merely pass along the benefits, and so any future obligations remain with the original property holder.
+A novation is similar to an [[assignment]](https://www.investopedia.com/terms/a/assignment.asp), which is the act of one party transferring an interest in a property or a business to a third party, as opposed to transferring the entire entity. But while novations pass along both benefits and potential liabilities to the new party, assignments merely pass along the benefits, and so any future obligations remain with the original property holder.
 
 Notably, all concerned parties must consent to novations, which is not true with assignments. Finally, while novations effectively nullify the former contract, in favor of the replacement contract, assignments do not extinguish the original contracts.
 
-In property law, novation occurs when a tenant signs a [lease](https://www.investopedia.com/terms/l/lease.asp) over to another party, who assumes both the responsibility for the rent and the liability for any subsequent damages to the property, as indicated in the original lease. Novation is also commonly seen in the construction industry, when contractors transfer certain jobs to other contractors, as long as the clients' consent to such action.
+In property law, novation occurs when a tenant signs a [[lease]](https://www.investopedia.com/terms/l/lease.asp) over to another party, who assumes both the responsibility for the rent and the liability for any subsequent damages to the property, as indicated in the original lease. Novation is also commonly seen in the construction industry, when contractors transfer certain jobs to other contractors, as long as the clients' consent to such action.
 
 A novation is not a unilateral contract mechanism; therefore all concerned parties may negotiate the terms of the replacement contract until a consensus is reached.
 
 ## Special Considerations: Novation in Financial Markets
 
-In [derivatives](https://www.investopedia.com/terms/d/derivative.asp) markets, novation refers to an arrangement whereby bilateral transactions are done through a [clearinghouse](https://www.investopedia.com/terms/c/clearinghouse.asp), which essentially functions as a middleman. In this case, rather than transacting directly with buyers, sellers transfer their securities to the clearinghouse, which in turn sells the securities to the buyers. The clearinghouse assumes the counterparty risk of one party defaulting.
+In [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) markets, novation refers to an arrangement whereby bilateral transactions are done through a [[clearinghouse]](https://www.investopedia.com/terms/c/clearinghouse.asp), which essentially functions as a middleman. In this case, rather than transacting directly with buyers, sellers transfer their securities to the clearinghouse, which in turn sells the securities to the buyers. The clearinghouse assumes the counterparty risk of one party defaulting.
 
 The clearinghouse practice simplifies processes for participants, who may not have the resources to vet every potential counterparty for their credit-worthiness. However, the buying and selling parties bear the modest risk of clearinghouses becoming insolvent, though this is considered to be a rather unlikely possibility.
 

@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Ripple Definition
 ## What Is a Ripple?
 
-Ripple is a term used to conceptualize the day-to-day fluctuations in stock market prices. It has been discussed throughout the evolution of [Dow Theory](https://www.investopedia.com/terms/d/dowtheory.asp), a basic framework for [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) investing.
+Ripple is a term used to conceptualize the day-to-day fluctuations in stock market prices. It has been discussed throughout the evolution of [[Dow Theory]](https://www.investopedia.com/terms/d/dowtheory.asp), a basic framework for [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) investing.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Ripple is a term used to conceptualize the day-to-day fluctuations in stock mark
 
 Ripples, tides, and waves are technical analysis concepts that have become commonly associated with the Dow Theory, which was initially introduced in the late 1800s by Charles Dow.
 
-William P. Hamilton expanded on Dow Theory and first introduced [tides](https://www.investopedia.com/terms/t/tide.asp), waves, and ripples as oceanic metaphors in his writings on Dow Theory concepts in the early 1900s. (See also: [The Pioneers of Technical Analysis](https://www.investopedia.com/articles/financial-theory/10/pioneers-technical-analysis.asp).)
+William P. Hamilton expanded on Dow Theory and first introduced [[tides]](https://www.investopedia.com/terms/t/tide.asp), waves, and ripples as oceanic metaphors in his writings on Dow Theory concepts in the early 1900s. (See also: [[The Pioneers of Technical Analysis]](https://www.investopedia.com/articles/financial-theory/10/pioneers-technical-analysis.asp).)
 
-In 1932, Robert Rhea formally named the initial musings on technical analysis fundamentals in his book _The Dow Theory_ where he also expanded on the concepts of tides, [waves](https://www.investopedia.com/terms/e/elliottwavetheory.asp), and ripples. Rhea wrote in depth about the three simultaneous movements of stock prices and the high risks for speculators attempting to profit from day-to-day price ripples.
+In 1932, Robert Rhea formally named the initial musings on technical analysis fundamentals in his book _The Dow Theory_ where he also expanded on the concepts of tides, [[waves]](https://www.investopedia.com/terms/e/elliottwavetheory.asp), and ripples. Rhea wrote in depth about the three simultaneous movements of stock prices and the high risks for speculators attempting to profit from day-to-day price ripples.
 
 ## Dow Theory
 
@@ -48,4 +48,4 @@ Secondary movements that occur with the trend are known as the waves and happen 
 
 The day to day or shorter term price movements that make up the waves are the ripples that Dow Theory pioneers caution against. Dow Theory researchers suggest that the ripples occurring in the market are erratic and difficult to trade with any level of success.
 
-Overall, Dow Theory seeks to conceptualize tides, waves and ripples as components that comprehensively help traders to follow security price movements and potentially identify profitable trading opportunities. It is believed that these three components often work together to create the overall movements of a [security’s](https://www.investopedia.com/terms/s/security.asp) price over time.
+Overall, Dow Theory seeks to conceptualize tides, waves and ripples as components that comprehensively help traders to follow security price movements and potentially identify profitable trading opportunities. It is believed that these three components often work together to create the overall movements of a [[security’s]](https://www.investopedia.com/terms/s/security.asp) price over time.

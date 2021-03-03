@@ -16,7 +16,7 @@ author: Will Kenton
 Escrowed Shares Definition
 ## What Are Escrowed Shares?
 
-Escrowed shares are shares held in an [escrow](https://www.investopedia.com/terms/e/escrow.asp) account, secured by a third party, pending the completion of a corporate action or an elapse of time leading up to an event. Shares are escrowed in three common cases: merger and acquisition transactions; bankruptcy or reorganization of a company; and granting of restricted shares to an employee of a firm.
+Escrowed shares are shares held in an [[escrow]](https://www.investopedia.com/terms/e/escrow.asp) account, secured by a third party, pending the completion of a corporate action or an elapse of time leading up to an event. Shares are escrowed in three common cases: merger and acquisition transactions; bankruptcy or reorganization of a company; and granting of restricted shares to an employee of a firm.
 
 ### Key Takeaways
 
@@ -35,13 +35,13 @@ In stock transactions, the equity shares are held in escrow–essentially a hold
 
 ### Employee Compensation
 
-Oftentimes, companies issue shares of stock as a bonus or as part of the company's compensation program for executive employees. In these scenarios, the employees are typically required to wait a specified period of time before selling their shares. These shares are called [restricted shares](https://www.investopedia.com/terms/r/restrictedstock.asp) since the employee must wait until the [vesting period](https://www.investopedia.com/terms/v/vesting.asp) has elapsed to own the shares. Between the grant date and vesting date, the shares are held in escrow. Upon the vesting date, the shares are released to the employee.
+Oftentimes, companies issue shares of stock as a bonus or as part of the company's compensation program for executive employees. In these scenarios, the employees are typically required to wait a specified period of time before selling their shares. These shares are called [[restricted shares]](https://www.investopedia.com/terms/r/restrictedstock.asp) since the employee must wait until the [[vesting period]](https://www.investopedia.com/terms/v/vesting.asp) has elapsed to own the shares. Between the grant date and vesting date, the shares are held in escrow. Upon the vesting date, the shares are released to the employee.
 
 The reason companies hold their stock in escrow is that it provides an extra incentive for the employees to remain with the company for the long-term. Shares of stock can be held in escrow for anywhere between one to three years before an employee or executive can cash them out.
 
 ### Mergers and Acquisitions
 
-A merger or acquisition can result in the buyer (acquirer) requesting a portion of the deal in consideration– typically 10% to 15%–to be held in escrow. Typically, shares of the seller or target company would be held. The escrowed shares protect the buyer from potential breaches in seller representation and [warranties](https://www.investopedia.com/terms/w/warranty.asp), [covenants](https://www.investopedia.com/terms/c/covenant.asp), contingencies, and working capital adjustments, among other material adverse items that may affect the valuation of deal or the closing itself.
+A merger or acquisition can result in the buyer (acquirer) requesting a portion of the deal in consideration– typically 10% to 15%–to be held in escrow. Typically, shares of the seller or target company would be held. The escrowed shares protect the buyer from potential breaches in seller representation and [[warranties]](https://www.investopedia.com/terms/w/warranty.asp), [[covenants]](https://www.investopedia.com/terms/c/covenant.asp), contingencies, and working capital adjustments, among other material adverse items that may affect the valuation of deal or the closing itself.
 
 For example, funds for an acquisition can be held in escrow until government regulatory authorities approve the transaction. Other times, the purchase price might need to be adjusted at some point during the process, and as a result, funds are placed in escrow to cover for the variance.
 
@@ -49,4 +49,4 @@ A targeted company may also request that a holdback–in the form of acquirer sh
 
 ### Bankruptcy or Reorganization
 
-A company's shares may be suspended from trading during a [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) filing or a company reorganization, pending the resolution of the corporate action. In this case, a shareholder's holding will be converted to escrow shares and then converted back to their original form if any equity remains in the company after the completion of the bankruptcy or reorganization process.
+A company's shares may be suspended from trading during a [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) filing or a company reorganization, pending the resolution of the corporate action. In this case, a shareholder's holding will be converted to escrow shares and then converted back to their original form if any equity remains in the company after the completion of the bankruptcy or reorganization process.

@@ -20,7 +20,7 @@ Reputational risk is a threat or danger to the good name or standing of a busine
 
 -   Directly, as the result of the actions of the company itself
 -   Indirectly, due to the actions of an employee or employees
--   Tangentially, through other peripheral parties, such as [joint venture](https://www.investopedia.com/terms/j/jointventure.asp) partners or suppliers
+-   Tangentially, through other peripheral parties, such as [[joint venture]](https://www.investopedia.com/terms/j/jointventure.asp) partners or suppliers
 
 In addition to having good governance practices and transparency, companies need to be socially responsible and environmentally conscious to avoid or minimize reputational risk.
 
@@ -38,10 +38,10 @@ The biggest problem with reputational risk is that it can literally erupt out of
 
  Reputational risk can also arise from the actions of errant employees, such as egregious fraud or massive trading losses disclosed by some of the world's biggest financial institutions. In an increasingly globalized environment, reputational risk can arise even in a peripheral region far away from home base.
 
-In some instances, reputational risk can be mitigated through prompt damage control measures, which is essential in this age of instant communication and [social media](https://www.investopedia.com/terms/s/social-media.asp) networks. In other instances, this risk can be more insidious and last for years. For example, gas and oil companies have been increasingly targeted by activists because of the perceived damage to the environment caused by their extraction activities.
+In some instances, reputational risk can be mitigated through prompt damage control measures, which is essential in this age of instant communication and [[social media]](https://www.investopedia.com/terms/s/social-media.asp) networks. In other instances, this risk can be more insidious and last for years. For example, gas and oil companies have been increasingly targeted by activists because of the perceived damage to the environment caused by their extraction activities.
 
 ## Example of Reputational Risk
 
 Reputational risk exploded into full view in 2016 when the scandal involving the opening of millions of unauthorized accounts by retail bankers (and encouraged or coerced by certain supervisors) was exposed at Wells Fargo.
 
-The [CEO](https://www.investopedia.com/ask/answers/difference-between-president-and-ceo/), John Stumpf, and others were forced out or fired. Regulators subjected the bank to fines and penalties, and a number of large customers reduced, suspended, or discontinued altogether doing business with the bank. Wells Fargo's reputation was tarnished, and the company continues to rebuild its reputation and its brand into 2019.
+The [[CEO]](https://www.investopedia.com/ask/answers/difference-between-president-and-ceo/), John Stumpf, and others were forced out or fired. Regulators subjected the bank to fines and penalties, and a number of large customers reduced, suspended, or discontinued altogether doing business with the bank. Wells Fargo's reputation was tarnished, and the company continues to rebuild its reputation and its brand into 2019.

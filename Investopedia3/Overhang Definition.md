@@ -16,13 +16,13 @@ author: James Chen
 Overhang Definition
 ## What is Overhang?
 
-Overhang is a measure of the potential [dilution](https://www.investopedia.com/terms/d/dilution.asp) to which common shareholders are exposed due to possible awards of stock-based compensation. It is usually represented as a percentage and is calculated as [stock options](https://www.investopedia.com/terms/s/stockoption.asp) granted, plus the remaining options to be granted divided by the total shares outstanding.
+Overhang is a measure of the potential [[dilution]](https://www.investopedia.com/terms/d/dilution.asp) to which common shareholders are exposed due to possible awards of stock-based compensation. It is usually represented as a percentage and is calculated as [[stock options]](https://www.investopedia.com/terms/s/stockoption.asp) granted, plus the remaining options to be granted divided by the total shares outstanding.
 
 ## Understanding Overhang
 
 There is no rule-of-thumb for determining the level of options overhang that is harmful to common shareholders, but generally speaking, the higher the number, the greater the risk. The options overhang decreases after a public offering because the number of shares outstanding increases. If a company has a very high options overhang, it must generate even higher levels of growth and profits to compensate for the overhang's dilutive effects on earnings per share and therefore investor returns.
 
-This, in turn, can lead managers to take on more risk, pay out less in dividends, and take on more debt. This can result in greater [volatility](https://www.investopedia.com/terms/v/volatility.asp) in the company's stock price. Companies with high levels of employee stock ownership, on the other hand, tend to have stronger financial performance, pay higher dividends, and see less stock price volatility.
+This, in turn, can lead managers to take on more risk, pay out less in dividends, and take on more debt. This can result in greater [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) in the company's stock price. Companies with high levels of employee stock ownership, on the other hand, tend to have stronger financial performance, pay higher dividends, and see less stock price volatility.
 
 According to a [2017 study by](https://www.fwcook.com/content/documents/publications/09-30-17_FWC_2017_ASB_Final.pdf) executive compensation consultant F.W. Cook & Co., small-cap companies grant a significantly higher percentage of their stock options to executives as compared to large-cap companies. Technology companies also have the lowest share of awards granted to senior management while the energy and industrial sectors have the highest.
 
@@ -33,7 +33,7 @@ According to a [2017 study by](https://www.fwcook.com/content/documents/publicat
 
 ## Reducing the Overhang Impact
 
-Because an options overhang can have negative effect on the price of a stock, entrepreneurs and company management generally devise HR strategies to mitigate its impact. Performance-based options is one such strategy. The changes that an employee will exercise performance-based options are fewer as compared to traditional stock options that are not tied to performance and are almost certain to be exercised, once their [vesting](https://www.investopedia.com/terms/v/vesting.asp) period is over.
+Because an options overhang can have negative effect on the price of a stock, entrepreneurs and company management generally devise HR strategies to mitigate its impact. Performance-based options is one such strategy. The changes that an employee will exercise performance-based options are fewer as compared to traditional stock options that are not tied to performance and are almost certain to be exercised, once their [[vesting]](https://www.investopedia.com/terms/v/vesting.asp) period is over.
 
 ## Example of Overhang
 

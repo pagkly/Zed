@@ -16,9 +16,9 @@ author: Adam Hayes
 Upstream Guarantee
 ## What Is an Upstream Guarantee?
 
-An upstream guarantee, also known as a subsidiary guarantee, is a [financial guarantee](https://www.investopedia.com/terms/f/financial-guarantee.asp) in which the subsidiary guarantees its parent company's debt.
+An upstream guarantee, also known as a subsidiary guarantee, is a [[financial guarantee]](https://www.investopedia.com/terms/f/financial-guarantee.asp) in which the subsidiary guarantees its parent company's debt.
 
-An upstream guarantee can be contrasted with a [downstream guarantee](https://www.investopedia.com/terms/d/downstream_guarantee.asp), which is a pledge placed on a loan on behalf of the borrowing party by the borrowing party's parent company or stockholder.
+An upstream guarantee can be contrasted with a [[downstream guarantee]](https://www.investopedia.com/terms/d/downstream_guarantee.asp), which is a pledge placed on a loan on behalf of the borrowing party by the borrowing party's parent company or stockholder.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ An upstream guarantee can be contrasted with a [downstream guarantee](https://ww
 
 ## How Upstream Guarantees Work
 
-Upstream guarantees enable a parent company to obtain debt financing on better financing terms, by expanding the available collateral. They often occur in [leveraged buy-outs](https://www.investopedia.com/terms/l/leveragedbuyout.asp), when the parent company does not have enough assets to pledge as collateral.
+Upstream guarantees enable a parent company to obtain debt financing on better financing terms, by expanding the available collateral. They often occur in [[leveraged buy-outs]](https://www.investopedia.com/terms/l/leveragedbuyout.asp), when the parent company does not have enough assets to pledge as collateral.
 
-A payment guaranty obligates the [guarantor](https://www.investopedia.com/terms/g/guarantor.asp) to pay the debt should the borrower default, regardless of whether the lender makes a demand on the borrower. Alternatively, a collection guaranty only obligates the guarantor if the lender cannot collect the amount owed after bringing a lawsuit and exhausting its remedies against the borrower. Guaranties can be absolute, limited or conditional.
+A payment guaranty obligates the [[guarantor]](https://www.investopedia.com/terms/g/guarantor.asp) to pay the debt should the borrower default, regardless of whether the lender makes a demand on the borrower. Alternatively, a collection guaranty only obligates the guarantor if the lender cannot collect the amount owed after bringing a lawsuit and exhausting its remedies against the borrower. Guaranties can be absolute, limited or conditional.
 
 Typically, a lender will insist on an upstream guaranty when it lends to a parent whose only asset is stock ownership of a subsidiary. In this case, the subsidiary owns substantially all the assets upon which the lender bases its credit decision.
 
@@ -40,7 +40,7 @@ Since the subsidiary guaranteeing the debt payments owns no stock in the parent 
 
 ## Upstream vs. Downstream Guarantees
 
-An upstream guarantee, like a downstream guarantee in which the parent company guarantees the subsidiary company’s debt, does not have to be recorded as a liability on the balance sheet. However, it is disclosed as a [contingent liability](https://www.investopedia.com/terms/c/contingentliability.asp), including any provisions that might enable the guarantor to recover funds paid out in a guarantee.
+An upstream guarantee, like a downstream guarantee in which the parent company guarantees the subsidiary company’s debt, does not have to be recorded as a liability on the balance sheet. However, it is disclosed as a [[contingent liability]](https://www.investopedia.com/terms/c/contingentliability.asp), including any provisions that might enable the guarantor to recover funds paid out in a guarantee.
 
 A downstream guarantee can be undertaken in order to help a subsidiary company obtain debt financing that it otherwise would be unable to obtain, or to obtain funds at [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) that would be lower than it could obtain without the guarantee from its parent company.
 

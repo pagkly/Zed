@@ -22,7 +22,7 @@ A normal good is a good that experiences an increase in its demand due to a rise
 
 A normal good, also called a necessary good, doesn't refer to the quality of the good but rather, the level of demand for the good in relation to wage increases or declines.
 
-A normal good has an elastic relationship between income and demand for the good. In other words, changes in demand and income are positively correlated or move in the same direction. [Income elasticity of demand](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) measures the magnitude with which the quantity demanded for a good changes in reaction to a change in income. It is used to understand changes in consumption patterns that result from changes in [purchasing power](https://www.investopedia.com/terms/p/purchasingpower.asp).
+A normal good has an elastic relationship between income and demand for the good. In other words, changes in demand and income are positively correlated or move in the same direction. [[Income elasticity of demand]](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) measures the magnitude with which the quantity demanded for a good changes in reaction to a change in income. It is used to understand changes in consumption patterns that result from changes in [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp).
 
 Income elasticity of demand can be calculated by taking the percentage of change in the quantity demanded for the good and dividing it by the percentage change in income. A normal good has an income elasticity of demand that is positive, but less than one. 
 
@@ -44,7 +44,7 @@ Public transportation tends to have an income elasticity of demand coefficient t
 
 ## Luxury Goods and Normal Goods
 
-[Luxury goods](https://www.investopedia.com/terms/l/luxury-item.asp), on the other hand, have an income elasticity of demand that is greater than one. If the demand for sports cars increases by 25 percent when aggregate income increases by 20 percent, then sports cars are considered luxury goods because they have an income elasticity of demand of 1.25. Other luxury goods include vacations, consumer [durables](https://www.investopedia.com/terms/d/durables.asp), fine dining, and gym memberships.
+[Luxury goods](https://www.investopedia.com/terms/l/luxury-item.asp), on the other hand, have an income elasticity of demand that is greater than one. If the demand for sports cars increases by 25 percent when aggregate income increases by 20 percent, then sports cars are considered luxury goods because they have an income elasticity of demand of 1.25. Other luxury goods include vacations, consumer [[durables]](https://www.investopedia.com/terms/d/durables.asp), fine dining, and gym memberships.
 
 People spend a greater proportion of their income on luxury goods as their income rises, whereas people spend an equal or lesser proportion of their income on normal and inferior goods as their income increases. Typically, people with lower incomes spend a greater proportion of their income on normal and inferior goods than people with higher incomes. However, on an individual level, a particular good can be a normal good to one person but an inferior or luxury good to another.
 

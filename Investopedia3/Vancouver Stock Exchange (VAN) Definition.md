@@ -16,7 +16,7 @@ author: James Chen
 Vancouver Stock Exchange (VAN) Definition
 ## What Is the Vancouver Stock Exchange (VAN)?
 
-The Vancouver Stock Exchange (VAN/VSE) is a now-defunct stock exchange formerly located in Vancouver, British Columbia, Canada. It was incorporated in 1907 as the third-largest marketplace in Canada behind the [Toronto Stock Exchange](https://www.investopedia.com/terms/t/toronto-stock-exchange-tsx.asp) (TSX) and [Montreal Stock Exchange](https://www.investopedia.com/terms/m/montrealexchange.asp). Stocks listed on this exchange were denoted by a .V following the ticker symbol.
+The Vancouver Stock Exchange (VAN/VSE) is a now-defunct stock exchange formerly located in Vancouver, British Columbia, Canada. It was incorporated in 1907 as the third-largest marketplace in Canada behind the [[Toronto Stock Exchange]](https://www.investopedia.com/terms/t/toronto-stock-exchange-tsx.asp) (TSX) and [[Montreal Stock Exchange]](https://www.investopedia.com/terms/m/montrealexchange.asp). Stocks listed on this exchange were denoted by a .V following the ticker symbol.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ The Vancouver Stock Exchange (VAN/VSE) is a now-defunct stock exchange formerly 
 
 ## Understanding the Vancouver Stock Exchange (VAN)
 
-The Vancouver exchange originally featured primarily small-capitalization mining, oil, and gas exploration stocks. By the early 1990s, however, the Vancouver exchange had grown into a specialty market for venture capital securities. Today, the Vancouver Stock Exchange falls under the [TSX Venture Exchange](https://www.investopedia.com/terms/t/tsxventureexchange.asp) umbrella after a merger with the Canadian Venture Exchange in 1999.
+The Vancouver exchange originally featured primarily small-capitalization mining, oil, and gas exploration stocks. By the early 1990s, however, the Vancouver exchange had grown into a specialty market for venture capital securities. Today, the Vancouver Stock Exchange falls under the [[TSX Venture Exchange]](https://www.investopedia.com/terms/t/tsxventureexchange.asp) umbrella after a merger with the Canadian Venture Exchange in 1999.
 
 The Vancouver Stock Exchange was recognized as the home for venture capital solutions but many saw through the facade and quickly labeled it the "scam capital of the world." At one point the VAN listed about 2,300 stocks, many of which were considered total failures or frauds.1 The exchange provides a textbook example of how errors in floating-point calculations can lead to enormous discrepancies in the correctness of the index reading. Ultimately, however, the VAN is an example of one of the world's least successful stock exchanges as it was mostly known for low volumes and speculative listings.
 
-Still, the Vancouver Stock Exchange managed to reemerge throughout the market turmoil of the [dotcom bubble](https://www.investopedia.com/terms/d/dotcom-bubble.asp), and in 1999 it merged with the Alberta Stock Exchange and Bourse de Montreal to become part of the Canadian Venture Exchange, now known as the TSX Venture Exchange.
+Still, the Vancouver Stock Exchange managed to reemerge throughout the market turmoil of the [[dotcom bubble]](https://www.investopedia.com/terms/d/dotcom-bubble.asp), and in 1999 it merged with the Alberta Stock Exchange and Bourse de Montreal to become part of the Canadian Venture Exchange, now known as the TSX Venture Exchange.
 
 The trading floor of the Vancouver exchange remained the center of the new venture division, but that only lasted for two years. In 2001, TMX Group—the parent company of the Toronto Stock Exchange—purchased the newly formed marketplace and quickly renamed it. Today, the TSX Venture Exchange is headquartered in Calgary, Alberta, with offices in other major cities throughout Canada. All trading is executed electronically so a trading floor no longer exists.
 

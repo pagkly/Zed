@@ -16,9 +16,9 @@ author: Daniel Liberto
 Taguchi Method of Quality Control Definition
 ## What Is the Taguchi Method of Quality Control?
 
-The Taguchi method of quality control is an approach to engineering that emphasizes the roles of [research and development](https://www.investopedia.com/terms/r/randd.asp) (R&D), product design and [development](https://www.investopedia.com/ask/answers/042815/what-difference-between-research-and-development-and-product-development.asp) in reducing the occurrence of defects and failures in [manufactured](https://www.investopedia.com/terms/m/manufacturing.asp) goods.
+The Taguchi method of quality control is an approach to engineering that emphasizes the roles of [[research and development]](https://www.investopedia.com/terms/r/randd.asp) (R&D), product design and [development](https://www.investopedia.com/ask/answers/042815/what-difference-between-research-and-development-and-product-development.asp) in reducing the occurrence of defects and failures in [[manufactured]](https://www.investopedia.com/terms/m/manufacturing.asp) goods.
 
-This method, developed by Japanese engineer and [statistician](https://www.investopedia.com/terms/s/statistics.asp) Genichi Taguchi, considers design to be more important than the manufacturing process in [quality control](https://www.investopedia.com/terms/q/quality-control.asp), aiming to eliminate variances in production before they can occur.
+This method, developed by Japanese engineer and [[statistician]](https://www.investopedia.com/terms/s/statistics.asp) Genichi Taguchi, considers design to be more important than the manufacturing process in [[quality control]](https://www.investopedia.com/terms/q/quality-control.asp), aiming to eliminate variances in production before they can occur.
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ Loss from detrimental side effects on society speaks to whether or not the desig
 
 Under the Taguchi method, work done during the design stage of creation would aim to minimize the possibility that the drill would be crafted in a way that its use could cause injuries to the operator.
 
-From a higher perspective, the Taguchi method would also strive to reduce the cost to society to use the product, such as designing goods to be more [efficient](https://www.investopedia.com/terms/e/efficiency.asp) in their operation rather than generate waste. For instance, the drill could be designed to minimize the need for regular maintenance. 
+From a higher perspective, the Taguchi method would also strive to reduce the cost to society to use the product, such as designing goods to be more [[efficient]](https://www.investopedia.com/terms/e/efficiency.asp) in their operation rather than generate waste. For instance, the drill could be designed to minimize the need for regular maintenance. 
 
 ## History of the Taguchi Method of Quality Control
 

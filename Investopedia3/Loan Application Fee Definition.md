@@ -16,7 +16,7 @@ author: Julia Kagan
 Loan Application Fee Definition
 ## What Is a Loan Application Fee?
 
-A loan application fee is charged to a potential borrower for processing and underwriting an application for a [loan](https://www.investopedia.com/terms/l/loan.asp), such as a mortgage or car loan. Loan application fees may be required for all types of loans and are intended to pay for the costs of the process of loan approval, but are considered by many observers to be unnecessary or overly costly.
+A loan application fee is charged to a potential borrower for processing and underwriting an application for a [[loan]](https://www.investopedia.com/terms/l/loan.asp), such as a mortgage or car loan. Loan application fees may be required for all types of loans and are intended to pay for the costs of the process of loan approval, but are considered by many observers to be unnecessary or overly costly.
 
 ### Key Takeaways
 
@@ -34,12 +34,12 @@ Borrowers should also seek to compare application fees across lenders. Loan appl
 
 ## Special Considerations
 
-Online lenders generally require the lowest application fee, thanks to automated processing that does not require some of the added expenses associated with traditional and in-person loan consultations. Loan application fees are typically most common in a [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) loan, which includes many ad hoc fees in addition to the monthly interest. Working with a mortgage broker can increase the likelihood of a loan application fee because the broker works as an intermediary on behalf of both the borrower and the lender.
+Online lenders generally require the lowest application fee, thanks to automated processing that does not require some of the added expenses associated with traditional and in-person loan consultations. Loan application fees are typically most common in a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) loan, which includes many ad hoc fees in addition to the monthly interest. Working with a mortgage broker can increase the likelihood of a loan application fee because the broker works as an intermediary on behalf of both the borrower and the lender.
 
 ## Types of Loan Fees
 
-Loan application fees are just one type of fee lenders can charge on a loan. Other fees may include an [origination fee](https://www.investopedia.com/terms/o/origination-fee.asp) and monthly service fees. In general, fees help a lender cover costs associated with underwriting and processing a loan.
+Loan application fees are just one type of fee lenders can charge on a loan. Other fees may include an [[origination fee]](https://www.investopedia.com/terms/o/origination-fee.asp) and monthly service fees. In general, fees help a lender cover costs associated with underwriting and processing a loan.
 
-In the credit market, mortgage loans tend to have the broadest fee requirements. [Mortgage lenders](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/) may charge origination fees, appraisal fees, and administration fees. In some cases, a mortgage lender may bundle its fees by charging a closing points fee, which is a comprehensive fee calculated as a percentage of the principal balance.
+In the credit market, mortgage loans tend to have the broadest fee requirements. [[Mortgage lenders]](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/) may charge origination fees, appraisal fees, and administration fees. In some cases, a mortgage lender may bundle its fees by charging a closing points fee, which is a comprehensive fee calculated as a percentage of the principal balance.
 
-The loan application fee is sometimes considered to be a garbage, or junk fee, which are often unnecessary charges and fees that are tacked onto mortgage [closing costs](https://www.investopedia.com/terms/c/closingcosts.asp) by lenders. Lenders do this to increase their own profit on the loan. There are a number of ways that lenders manage to fold [garbage fees](https://www.investopedia.com/terms/j/junk-fees.asp) into closing costs.
+The loan application fee is sometimes considered to be a garbage, or junk fee, which are often unnecessary charges and fees that are tacked onto mortgage [closing costs](https://www.investopedia.com/terms/c/closingcosts.asp) by lenders. Lenders do this to increase their own profit on the loan. There are a number of ways that lenders manage to fold [[garbage fees]](https://www.investopedia.com/terms/j/junk-fees.asp) into closing costs.

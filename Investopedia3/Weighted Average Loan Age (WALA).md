@@ -16,7 +16,7 @@ author: Adam Hayes
 Weighted Average Loan Age (WALA)
 ## What Is Weighted Average Loan Age (WALA)?
 
-The weighted average loan age (WALA) measures the average age of the loans in a pool of [mortgage-backed securities](https://www.investopedia.com/terms/m/mbs.asp) (MBS). The weights are based on the dollar amount of each loan at each maturity in proportion to the aggregate total of the pool and can be weighted on the remaining principal balance dollar figure or the [nominal value](https://www.investopedia.com/terms/n/nominalvalue.asp) of the loan.
+The weighted average loan age (WALA) measures the average age of the loans in a pool of [[mortgage-backed securities]](https://www.investopedia.com/terms/m/mbs.asp) (MBS). The weights are based on the dollar amount of each loan at each maturity in proportion to the aggregate total of the pool and can be weighted on the remaining principal balance dollar figure or the [[nominal value]](https://www.investopedia.com/terms/n/nominalvalue.asp) of the loan.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Essentially, a mortgage-backed security turns the bank into a middleman between 
 
 The investor who buys a mortgage-backed security is essentially lending money to home buyers. An MBS can be bought and sold through a broker. The minimum investment varies between issuers.
 
-WALA is arrived at by multiplying the initial nominal value of each individual mortgage in the MBS pool by the number of months since the mortgage loan was originated. WALA and other measures of MBS maturity are used to estimate both profit potential as well as [prepayment risk](https://www.investopedia.com/terms/p/prepaymentrisk.asp). Prepayment risk is the risk involved with the premature return of principal on a [fixed-income security](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) such as when a mortgage is refinanced or a house is sold and the mortgage paid off. When principal is returned early, future interest payments will not be paid on that part of the principal, meaning investors in associated fixed-income securities will not receive interest paid on the principal.
+WALA is arrived at by multiplying the initial nominal value of each individual mortgage in the MBS pool by the number of months since the mortgage loan was originated. WALA and other measures of MBS maturity are used to estimate both profit potential as well as [[prepayment risk]](https://www.investopedia.com/terms/p/prepaymentrisk.asp). Prepayment risk is the risk involved with the premature return of principal on a [fixed-income security](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) such as when a mortgage is refinanced or a house is sold and the mortgage paid off. When principal is returned early, future interest payments will not be paid on that part of the principal, meaning investors in associated fixed-income securities will not receive interest paid on the principal.
 
 ## Weighted Average Loan Age vs. Weighted Average Maturity
 

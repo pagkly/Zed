@@ -18,7 +18,7 @@ Learn About the Netback Summary of Associated Costs
 
 Netback is a summary of all costs associated with bringing one unit of oil to the marketplace and the revenues from the sale of all the products generated from that same unit. It's expressed as gross profit per barrel.
 
-Netback is calculated by taking the revenues from the oil, less all [costs associated with getting the oil to a market](https://www.investopedia.com/articles/active-trading/102214/economics-oil-extraction.asp), including transportation, royalties, and production costs:
+Netback is calculated by taking the revenues from the oil, less all [[costs associated with getting the oil to a market]](https://www.investopedia.com/articles/active-trading/102214/economics-oil-extraction.asp), including transportation, royalties, and production costs:
 
 **Price - Royalties - Production - Transportation = Netback**
 
@@ -33,13 +33,13 @@ This term is only used in reference to oil producers and their associated produc
 
 ## Understanding Netback
 
-Netback per barrel is determined by removing the costs of production from the average realized price, resulting in a net profit per barrel amount. These costs include importing, transportation, marketing, production and refining costs, and [royalty fees](https://www.investopedia.com/terms/r/royalty.asp).
+Netback per barrel is determined by removing the costs of production from the average realized price, resulting in a net profit per barrel amount. These costs include importing, transportation, marketing, production and refining costs, and [[royalty fees]](https://www.investopedia.com/terms/r/royalty.asp).
 
 Producers with higher netback prices reflect a more operationally efficient oil company because they're receiving higher profits than their competitors from the materials produced.
 
 ## Netback Strengths and Weaknesses
 
-It bears noting that netback is not a [Generally Accepted Accounting Principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) equation. The formula presented here is a standard, but various companies might calculate netback somewhat differently.
+It bears noting that netback is not a [[Generally Accepted Accounting Principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) equation. The formula presented here is a standard, but various companies might calculate netback somewhat differently.
 
 To some extent, this can result in a less than perfect comparison between companies, although growth or falling prices can still be an indicator of an oil company's fiscal health.
 
@@ -57,6 +57,6 @@ Changes in netback prices attributed to a single company over time can also demo
 
 ## Real-World Example
 
-It might cost an oil producer $125 to convert one barrel of light [crude oil](https://www.investopedia.com/terms/c/crude-oil.asp) into heating oil, gasoline, diesel, and petrochemical byproducts. It owes royalties of $25, and it will cost $100 to transport the oil to the buyer. The netback would be $75, assuming a sales price of $325: $325 less $125 less $25 less $100.
+It might cost an oil producer $125 to convert one barrel of light [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) into heating oil, gasoline, diesel, and petrochemical byproducts. It owes royalties of $25, and it will cost $100 to transport the oil to the buyer. The netback would be $75, assuming a sales price of $325: $325 less $125 less $25 less $100.
 
-This figure allows [exploration and production](https://www.investopedia.com/terms/e/exploration-production-company.asp) (E&P) firms to compare the producer's costs with those of its competitors. It also allows for more efficient planning regarding which products a company should focus on producing.
+This figure allows [[exploration and production]](https://www.investopedia.com/terms/e/exploration-production-company.asp) (E&P) firms to compare the producer's costs with those of its competitors. It also allows for more efficient planning regarding which products a company should focus on producing.

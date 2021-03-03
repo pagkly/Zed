@@ -42,6 +42,6 @@ When comparing a gross lease vs. a net lease, a net lease is an exact opposite
 
 1.  Under a [single net lease](https://www.investopedia.com/terms/s/single-net-lease.asp), the tenant pays rent plus property taxes.
 2.  With a [double net lease](https://www.investopedia.com/terms/d/double-net-lease.asp), the tenant pays rent plus property taxes and insurance.
-3.  Through a [triple net lease](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp), the tenant pays for rent plus property taxes, insurance, and maintenance.
+3.  Through a [[triple net lease]](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp), the tenant pays for rent plus property taxes, insurance, and maintenance.
 
 Net leases may allow tenants more control over some costs and aspects of the property, but they come with an increased degree of responsibility. If maintenance is a cost borne by the tenant, they may have the ability to make cosmetic changes. However, they will also absorb most repair costs. Often, landlords restrict or prohibit cosmetic changes to the property even when maintenance is a tenant expense. Tenants are also subject to variable utility costs. To regulate the expenses, they may employ different strategies to reduce consumption.

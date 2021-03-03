@@ -16,7 +16,7 @@ author: Adam Hayes
 Welfare Definition
 ## What Is Welfare?
 
-Welfare refers to a range of government programs that provide financial or other aid to individuals or groups who cannot support themselves. Welfare programs are typically funded by taxpayers and allow people to cope with financial stress during rough periods of their lives. In most cases, people who use welfare will receive a biweekly or monthly payment. The goals of welfare vary, as it looks to promote the pursuance of work, education or, in some instances, a better [standard of living](https://www.investopedia.com/terms/s/standard-of-living.asp).
+Welfare refers to a range of government programs that provide financial or other aid to individuals or groups who cannot support themselves. Welfare programs are typically funded by taxpayers and allow people to cope with financial stress during rough periods of their lives. In most cases, people who use welfare will receive a biweekly or monthly payment. The goals of welfare vary, as it looks to promote the pursuance of work, education or, in some instances, a better [[standard of living]](https://www.investopedia.com/terms/s/standard-of-living.asp).
 
 ### Key Takeaways
 
@@ -41,18 +41,18 @@ Welfare programs are initiatives set up by the government to support the poor, d
 
 However, to receive the federal grant, states must also use some of their own money to fund their individual programs.
 
-An individual that is on welfare is usually provided free or deeply discounted goods and services. The government requires that individuals or families seeking assistance must provide proof that their annual income falls below the [federal poverty level](https://www.investopedia.com/terms/f/fpl.asp) (FPL). The FPL is an economic measure of income used to determine whether an individual or family qualifies for certain [subsidies](https://www.investopedia.com/terms/s/subsidy.asp) or aid. The [2019 FPL](https://aspe.hhs.gov/2019-poverty-guidelines) for one person is $12,490; $4,420 is added for each additional household member.
+An individual that is on welfare is usually provided free or deeply discounted goods and services. The government requires that individuals or families seeking assistance must provide proof that their annual income falls below the [[federal poverty level]](https://www.investopedia.com/terms/f/fpl.asp) (FPL). The FPL is an economic measure of income used to determine whether an individual or family qualifies for certain [[subsidies]](https://www.investopedia.com/terms/s/subsidy.asp) or aid. The [2019 FPL](https://aspe.hhs.gov/2019-poverty-guidelines) for one person is $12,490; $4,420 is added for each additional household member.
 
 As of 2019, the FPL for an individual is $12,490, and $16,910 for a two-person household with an increment of $4,420 for each additional household member.
 
 ## Different Kinds of Welfare
 
-Some popular types of welfare in America include Medicaid, [Supplemental Security Income](https://www.investopedia.com/terms/s/ssi.asp) (SSI), Supplemental Nutrition Assistance Program (SNAP), and [Child’s Health Insurance Program](https://www.investopedia.com/terms/c/childrens-health-insurance-program-chip.asp) (CHIP).
+Some popular types of welfare in America include Medicaid, [[Supplemental Security Income]](https://www.investopedia.com/terms/s/ssi.asp) (SSI), Supplemental Nutrition Assistance Program (SNAP), and [[Child’s Health Insurance Program]](https://www.investopedia.com/terms/c/childrens-health-insurance-program-chip.asp) (CHIP).
 
 -   Medicaid is a health insurance program geared towards people with low income and the elderly. Pregnant women, children, the disabled, and the elderly who fall below a certain income threshold are guaranteed coverage under the Medicaid program.
--   Supplemental Security Income is administered by the [Social Security Administration](https://www.investopedia.com/terms/s/ssa.asp) (SSA) and provides public assistance to families in need in the form of cash.
+-   Supplemental Security Income is administered by the [[Social Security Administration]](https://www.investopedia.com/terms/s/ssa.asp) (SSA) and provides public assistance to families in need in the form of cash.
 -   Supplemental Nutrition Assistance Program (SNAP), previously known as the Food Stamp Program, is run by each individual state and provides vouchers to low-income households to buy nutritious and low-cost foods.
--   Child’s Health Insurance Program (CHIP) is administered by the [US Department of Health and Human Services](https://www.investopedia.com/terms/u/us-department-health-and-human-services-hhs.asp) (HHS) and provides low-cost health care to children in households that won’t otherwise qualify for Medicaid.
+-   Child’s Health Insurance Program (CHIP) is administered by the [[US Department of Health and Human Services]](https://www.investopedia.com/terms/u/us-department-health-and-human-services-hhs.asp) (HHS) and provides low-cost health care to children in households that won’t otherwise qualify for Medicaid.
 
 ## Who Qualifies for Welfare?
 

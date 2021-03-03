@@ -30,7 +30,7 @@ The term sheet should cover the significant aspects of a deal without detailing 
 
 All term sheets contain information on the assets, initial purchase price including any contingencies that may affect the price, a timeframe for a response, and other salient information.
 
-Term sheets are most often associated with startups. Entrepreneurs find this document crucial for investors, often [venture capitalists](https://www.investopedia.com/terms/v/venturecapital.asp) (VC), who may offer capital to fund startups. Below are some conditions that a startup term sheet defines:
+Term sheets are most often associated with startups. Entrepreneurs find this document crucial for investors, often [[venture capitalists]](https://www.investopedia.com/terms/v/venturecapital.asp) (VC), who may offer capital to fund startups. Below are some conditions that a startup term sheet defines:
 
 1.  **It is nonbinding**. Neither the entrepreneur nor the VC is legally obligated to abide by whatever is outlined on the term sheet.
 2.  **Company valuations, investment amounts,** the **percentage of stakes**, and **anti-dilutive provisions** should be spelled out clearly.
@@ -38,10 +38,10 @@ Term sheets are most often associated with startups. Entrepreneurs find this doc
 4.  **Liquidation preference**. The term sheet should state how the proceeds of a sale will be distributed between the entrepreneur and the investors.
 5.  **Investor commitment**. The term sheet should state how long the investor is required to remain vested.
 
-A term sheet used as part of a [merger](https://www.investopedia.com/terms/m/merger.asp) or attempted acquisition would typically contain information regarding the initial purchase price offer, the preferred payment method, and the assets included in the deal. The term sheet may also contain information regarding what, if anything, is excluded from the deal or any items that may be considered requirements by one or both parties.
+A term sheet used as part of a [[merger]](https://www.investopedia.com/terms/m/merger.asp) or attempted acquisition would typically contain information regarding the initial purchase price offer, the preferred payment method, and the assets included in the deal. The term sheet may also contain information regarding what, if anything, is excluded from the deal or any items that may be considered requirements by one or both parties.
 
 ### Similar Documents to Term Sheets
 
-A term sheet may seem similar to a [letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp) (LOI) when the action is predominately one-sided, as in [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp), or a working document to serve as a jumping-off point for more intensive negotiations. The main difference between an LOI and a term sheet is stylistic; the former is written as a formal letter while the latter is composed of bullet points outlining the terms.
+A term sheet may seem similar to a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp) (LOI) when the action is predominately one-sided, as in [[acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp), or a working document to serve as a jumping-off point for more intensive negotiations. The main difference between an LOI and a term sheet is stylistic; the former is written as a formal letter while the latter is composed of bullet points outlining the terms.
 
-Although term sheets are distinct from LOI and [memorandums of understanding](https://www.investopedia.com/terms/m/mou.asp) (MOU), the three documents are often referred to interchangeably because they accomplish similar goals and contain similar information.
+Although term sheets are distinct from LOI and [[memorandums of understanding]](https://www.investopedia.com/terms/m/mou.asp) (MOU), the three documents are often referred to interchangeably because they accomplish similar goals and contain similar information.

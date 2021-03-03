@@ -20,14 +20,14 @@ A portfolio investment is ownership of a stock, bond, or other financial asset w
 
 Portfolio investment may be divided into two main categories:
 
--   [Strategic](https://www.investopedia.com/articles/company-insights/083116/portfolio-planning-process-step-step.asp) investment involves buying financial assets for their long-term growth potential or their income yield, or both, with the intention of holding onto those assets for a long time.
--   The [tactical](https://www.investopedia.com/terms/t/tactical-trading.asp) approach requires active buying and selling activity in hopes of achieving short-term gains.
+-   [[Strategic]](https://www.investopedia.com/articles/company-insights/083116/portfolio-planning-process-step-step.asp) investment involves buying financial assets for their long-term growth potential or their income yield, or both, with the intention of holding onto those assets for a long time.
+-   The [[tactical]](https://www.investopedia.com/terms/t/tactical-trading.asp) approach requires active buying and selling activity in hopes of achieving short-term gains.
 
 #### Understanding Portfolio Investment
 
 ## Understanding Portfolio Investment
 
-The term portfolio investments covers a wide range of [asset classes](https://www.investopedia.com/terms/a/assetclasses.asp) including stocks, government bonds, corporate bonds, real estate investment trusts (REITs), mutual funds, exchange-traded funds (ETFs), and bank [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp).
+The term portfolio investments covers a wide range of [[asset classes]](https://www.investopedia.com/terms/a/assetclasses.asp) including stocks, government bonds, corporate bonds, real estate investment trusts (REITs), mutual funds, exchange-traded funds (ETFs), and bank [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp).
 
 Portfolio investments can also include more esoteric choices including options and derivatives such as warrants and futures.
 

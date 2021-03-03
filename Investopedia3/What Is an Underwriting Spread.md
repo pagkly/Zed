@@ -16,7 +16,7 @@ author: James Chen
 What Is an Underwriting Spread?
 ## What Is Underwriting Spread?
 
-An underwriting spread is the spread between the dollar amount that [underwriters](https://www.investopedia.com/terms/u/underwriter.asp), such as investment banks, pay an issuing company for its securities and the dollar amount that underwriters receive from selling the securities in the public offering. The underwriting spread is essentially the investment bank's [gross profit margin](https://www.investopedia.com/terms/g/gross_profit_margin.asp), typically disclosed as a percentage or else in points-per-unit-of-sale.
+An underwriting spread is the spread between the dollar amount that [underwriters](https://www.investopedia.com/terms/u/underwriter.asp), such as investment banks, pay an issuing company for its securities and the dollar amount that underwriters receive from selling the securities in the public offering. The underwriting spread is essentially the investment bank's [[gross profit margin]](https://www.investopedia.com/terms/g/gross_profit_margin.asp), typically disclosed as a percentage or else in points-per-unit-of-sale.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ An underwriting spread is the spread between the dollar amount that [underwrit
 
 The size of underwriting spreads is determined on a deal-by-deal basis and is influenced mainly by the underwriter's perceived risk in the deal. This will also be influenced by expectations for the demand of the securities in the market. 
 
-The size of the [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) spread depends on the negotiations and competitive bidding among members of an [underwriter syndicate](https://www.investopedia.com/terms/u/underwriter-syndicate.asp) and the issuing company itself. The spread increases as the risks involved with the issuance increase.
+The size of the [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) spread depends on the negotiations and competitive bidding among members of an [[underwriter syndicate]](https://www.investopedia.com/terms/u/underwriter-syndicate.asp) and the issuing company itself. The spread increases as the risks involved with the issuance increase.
 
-The underwriting spread for an [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp) usually includes the following components:
+The underwriting spread for an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp) usually includes the following components:
 
 -   The manager's fee (earned by the lead)
 -   The underwriting fee (earned by syndicate members)
@@ -38,7 +38,7 @@ The underwriting spread for an [initial public offering (IPO)](https://www.inves
 
 The manager is usually entitled to the whole underwriting spread. Each member of the underwriting syndicate then gets a (not necessarily equal) share of the underwriting fee and a portion of the concession. Additionally, a broker-dealer (BD), which is not itself a member of the underwriter syndicate earns a share of the concession based on how well it does selling the issue.
 
-Proportionately, the concession increases as total underwriting fees rise. Meanwhile, the management and underwriting fees decrease with gross underwriting fees. The effect of size on the division of fees is usually due to differential economies of scale. The extent of investment banker work, for example, in writing the [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) and preparing the roadshow is somewhat fixed, while the amount of sales work is not. Larger deals will not involve exponentially more investment banker work.
+Proportionately, the concession increases as total underwriting fees rise. Meanwhile, the management and underwriting fees decrease with gross underwriting fees. The effect of size on the division of fees is usually due to differential economies of scale. The extent of investment banker work, for example, in writing the [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp) and preparing the roadshow is somewhat fixed, while the amount of sales work is not. Larger deals will not involve exponentially more investment banker work.
 
 However, it might involve much more sales effort, requiring an increase in the proportion of the selling concession. Alternatively, junior banks may join a syndicate, even if they receive a smaller share of the fees in the form of a lower selling concession.
 

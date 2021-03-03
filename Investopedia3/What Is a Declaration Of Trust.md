@@ -16,7 +16,7 @@ author: Will Kenton
 What Is a Declaration Of Trust?
 ## What Is a Declaration Of Trust?
 
-A declaration of trust under U.S. law is a document or an oral statement appointing a [trustee](https://www.investopedia.com/terms/t/trustee.asp) to oversee assets being held for the benefit of one or more other individuals. These assets are held in a trust.
+A declaration of trust under U.S. law is a document or an oral statement appointing a [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) to oversee assets being held for the benefit of one or more other individuals. These assets are held in a trust.
 
 The document or statement also contains details of the trust's purpose, its beneficiaries, and how it will be managed by the trustee.
 
@@ -28,7 +28,7 @@ A declaration of trust not only appoints a trustee but defines the trust to be c
 
 It identifies the assets held within the trust. It states who will benefit from the trust and who can amend or revoke the trust as well as the name of the trustee and what powers the trustee holds. The trustee may be a financial institution rather than an individual.
 
-The statement may include instructions on how and when the [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) will receive distributions.
+The statement may include instructions on how and when the [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp) will receive distributions.
 
 The declaration provides an overview of the trust's purpose or objectives and how the trustee may invest and manage assets to support the beneficiaries. It also may explain who will replace the trustee in the event of illness, incapacitation, death, or any other reason. 
 
@@ -52,4 +52,4 @@ The U.S. and the U.K. have different definitions of the declaration of trust.
 
 With a declaration of trust, an individual may be regarded as the owner of a property even if that person is not designated as the owner in the land registry. The trust itself can be cited in the land registry to show that the listed owner is not the sole owner of the property. 
 
-For example, a person may purchase a home with a mortgage. Some of the money towards the purchase may come from the person's parents. The parents would contribute towards the costs with the agreement that they will receive a share of any profit from the property's sale. The person creating the declaration of trust would be the registered owner on the title deeds of the property, but the parents can register their interests on the [trust deed](https://www.investopedia.com/terms/t/trustdeed.asp).
+For example, a person may purchase a home with a mortgage. Some of the money towards the purchase may come from the person's parents. The parents would contribute towards the costs with the agreement that they will receive a share of any profit from the property's sale. The person creating the declaration of trust would be the registered owner on the title deeds of the property, but the parents can register their interests on the [[trust deed]](https://www.investopedia.com/terms/t/trustdeed.asp).

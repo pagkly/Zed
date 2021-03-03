@@ -18,7 +18,7 @@ Short Selling
 
 Short selling is an investment or trading strategy that speculates on the decline in a stock or other security's price. It is an advanced strategy that should only be undertaken by experienced traders and investors.
 
-Traders may use short selling as [speculation](https://www.investopedia.com/terms/s/speculation.asp), and investors or portfolio managers may use it as a [hedge](https://www.investopedia.com/terms/h/hedge.asp) against the [downside risk](https://www.investopedia.com/terms/d/downsiderisk.asp) of a long position in the same security or a related one. Speculation carries the possibility of substantial risk and is an advanced trading method. Hedging is a more common transaction involving placing an offsetting position to reduce risk exposure.
+Traders may use short selling as [[speculation]](https://www.investopedia.com/terms/s/speculation.asp), and investors or portfolio managers may use it as a [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) against the [[downside risk]](https://www.investopedia.com/terms/d/downsiderisk.asp) of a long position in the same security or a related one. Speculation carries the possibility of substantial risk and is an advanced trading method. Hedging is a more common transaction involving placing an offsetting position to reduce risk exposure.
 
 In short selling, a position is opened by borrowing shares of a stock or other asset that the investor believes will decrease in value by a set future date—the expiration date. The investor then sells these borrowed shares to buyers willing to pay the market price. Before the borrowed shares must be returned, the trader is betting that the price will continue to decline and they can purchase them at a lower cost. The risk of loss on a short sale is theoretically unlimited since the price of any asset can climb to infinity.
 
@@ -30,9 +30,9 @@ In short selling, a position is opened by borrowing shares of a stock or other a
 
 ## Understanding Short Selling
 
-Wimpy of the famous _Popeye_ comic strip would have been a perfect short seller. The comic character was famous for saying he would "gladly pay next Tuesday for a hamburger today." In short selling, the seller opens a position by borrowing shares, usually from a [broker-dealer](https://www.investopedia.com/terms/b/broker-dealer.asp). [The short seller will try to make money](https://www.investopedia.com/ask/answers/how-does-one-make-money-short-selling/) on the use of those shares before they must return them to the lender.
+Wimpy of the famous _Popeye_ comic strip would have been a perfect short seller. The comic character was famous for saying he would "gladly pay next Tuesday for a hamburger today." In short selling, the seller opens a position by borrowing shares, usually from a [[broker-dealer]](https://www.investopedia.com/terms/b/broker-dealer.asp). [[The short seller will try to make money]](https://www.investopedia.com/ask/answers/how-does-one-make-money-short-selling/) on the use of those shares before they must return them to the lender.
 
-To open a short position, a trader must have a [margin account](https://www.investopedia.com/terms/m/marginaccount.asp) and will usually have to pay interest on the value of the borrowed shares while the position is open. Also, the [Financial Industry Regulatory Authority, Inc.](https://www.investopedia.com/terms/f/finra.asp) (FINRA), which enforces the rules and regulations governing registered brokers and broker-dealer firms in the United States, the New York Stock Exchange (NYSE), and the [Federal Reserve](https://www.investopedia.com/terms/f/frb.asp) have set minimum values for the amount that the margin account must maintain—known as the [maintenance margin](https://www.investopedia.com/terms/m/maintenancemargin.asp).1 If an investor's account value falls below the maintenance margin, more funds are required, or the position might be sold by the broker.
+To open a short position, a trader must have a [[margin account]](https://www.investopedia.com/terms/m/marginaccount.asp) and will usually have to pay interest on the value of the borrowed shares while the position is open. Also, the [[Financial Industry Regulatory Authority, Inc.]](https://www.investopedia.com/terms/f/finra.asp) (FINRA), which enforces the rules and regulations governing registered brokers and broker-dealer firms in the United States, the New York Stock Exchange (NYSE), and the [[Federal Reserve]](https://www.investopedia.com/terms/f/frb.asp) have set minimum values for the amount that the margin account must maintain—known as the [[maintenance margin]](https://www.investopedia.com/terms/m/maintenancemargin.asp).1 If an investor's account value falls below the maintenance margin, more funds are required, or the position might be sold by the broker.
 
 To close a short position, a trader buys the shares back on the market—hopefully at a price less than what they borrowed the asset—and returns them to the lender or broker. Traders must account for any interest charged by the broker or commissions charged on trades.
 
@@ -44,7 +44,7 @@ As mentioned earlier, one of the main reasons to engage in short selling is to s
 
 Imagine a trader who believes that XYZ stock—currently trading at $50—will decline in price in the next three months. They borrow 100 shares and sell them to another investor. The trader is now “short” 100 shares since they sold something that they did not own but had borrowed. The short sale was only made possible by borrowing the shares, which may not always be available if the stock is already heavily shorted by other traders.
 
-A week later, the company whose shares were shorted reports dismal financial results for the quarter, and the stock falls to $40. The trader decides to close the short position and buys 100 shares for $40 on the open market to replace the borrowed shares. The trader’s profit on the short sale, excluding [commissions](https://www.investopedia.com/terms/c/commission.asp) and interest on the margin account, is $1,000: ($50 - $40 = $10 x 100 shares = $1,000).
+A week later, the company whose shares were shorted reports dismal financial results for the quarter, and the stock falls to $40. The trader decides to close the short position and buys 100 shares for $40 on the open market to replace the borrowed shares. The trader’s profit on the short sale, excluding [[commissions]](https://www.investopedia.com/terms/c/commission.asp) and interest on the margin account, is $1,000: ($50 - $40 = $10 x 100 shares = $1,000).
 
 ## Short Selling for a Loss
 
@@ -88,7 +88,7 @@ When it comes time to close a position, a short seller might have trouble findin
 
 On the other hand, strategies which offer high risk also offer a high-yield reward. Short selling is no exception. If the seller predicts the price moves correctly, they can make a tidy return on investment (ROI), primarily if they use margin to initiate the trade. Using margin provides leverage, which means the trader did not need to put up much of their capital as an initial investment. If done carefully, short selling can be an inexpensive way to hedge, providing a counterbalance to other portfolio holdings.
 
-Beginning investors should generally avoid short selling until they get more trading experience under their belts. That being said, short selling through ETFs is a somewhat safer [strategy](https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp) due to the lower risk of a short squeeze.
+Beginning investors should generally avoid short selling until they get more trading experience under their belts. That being said, short selling through ETFs is a somewhat safer [[strategy]](https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp) due to the lower risk of a short squeeze.
 
 ## Additional Risks to Short Selling
 
@@ -104,7 +104,7 @@ Even though a company is overvalued, it could conceivably take a while for its s
 
 ### The Short Squeeze
 
-If a stock is actively shorted with a high short float and days to cover ratio, it is also at risk of experiencing a [short squeeze](https://www.investopedia.com/terms/s/shortsqueeze.asp). A short squeeze happens when a stock begins to rise, and short sellers cover their trades by buying their short positions back. This buying can turn into a feedback loop. Demand for the shares attracts more buyers, which pushes the stock higher, causing even more short-sellers to buy back or cover their positions.
+If a stock is actively shorted with a high short float and days to cover ratio, it is also at risk of experiencing a [[short squeeze]](https://www.investopedia.com/terms/s/shortsqueeze.asp). A short squeeze happens when a stock begins to rise, and short sellers cover their trades by buying their short positions back. This buying can turn into a feedback loop. Demand for the shares attracts more buyers, which pushes the stock higher, causing even more short-sellers to buy back or cover their positions.
 
 In Jan. 2021, short squeezes occurred on several different stocks, including GameStop Corp. ([GME](https://www.investopedia.com/markets/stocks/gme/)) and AMC Entertainment Holdings Inc. ([AMC](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AMC)), following efforts by retail traders on Reddit to drive up the price of the stocks. This resulted in large price spikes as short sellers were forced to cover their short positions for substantial losses. These volatile price movements were not driven by fundamental factors or news about the companies. Investors should be particularly cautious when considering trading stocks during short squeezes.
 
@@ -114,7 +114,7 @@ Regulators may sometimes impose bans on short sales in a specific sector or even
 
 ### Going Against the Trend
 
-History has shown that, in general, stocks have an upward drift. Over the long run, most stocks appreciate in price. For that matter, even if a company barely improves over the years, [inflation](https://www.investopedia.com/terms/i/inflation.asp) or the rate of price increase in the economy should drive its stock price up somewhat. What this means is that shorting is betting against the overall direction of the market.
+History has shown that, in general, stocks have an upward drift. Over the long run, most stocks appreciate in price. For that matter, even if a company barely improves over the years, [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) or the rate of price increase in the economy should drive its stock price up somewhat. What this means is that shorting is betting against the overall direction of the market.
 
 ## Costs of Short Selling
 
@@ -138,8 +138,8 @@ The short seller is responsible for making dividend payments on the shorted stoc
 
 Two metrics used to track short selling activity on a stock are:
 
-1.  [Short interest ratio](https://www.investopedia.com/terms/s/shortinterestratio.asp) (SIR)—also known as the short float—measures the ratio of shares that are currently shorted compared to the number of shares available or “floating” in the market. A very high SIR is associated with stocks that are falling or stocks that appear to be overvalued.
-2.  The short interest to volume ratio—also known as the [days to cover](https://www.investopedia.com/terms/d/daystocover.asp) ratio—the total shares held short divided by the average daily trading volume of the stock. A high value for the days to cover ratio is also a bearish indication for a stock.
+1.  [[Short interest ratio]](https://www.investopedia.com/terms/s/shortinterestratio.asp) (SIR)—also known as the short float—measures the ratio of shares that are currently shorted compared to the number of shares available or “floating” in the market. A very high SIR is associated with stocks that are falling or stocks that appear to be overvalued.
+2.  The short interest to volume ratio—also known as the [[days to cover]](https://www.investopedia.com/terms/d/daystocover.asp) ratio—the total shares held short divided by the average daily trading volume of the stock. A high value for the days to cover ratio is also a bearish indication for a stock.
 
 Both short-selling metrics help investors understand whether the overall sentiment is bullish or bearish for a stock.
 
@@ -161,7 +161,7 @@ A stock’s fundamentals can deteriorate for any number of reasons—slowing rev
 
 ### Technical Indicators Confirm the Bearish Trend
 
-Short sales may also have a higher probability of success when the bearish trend is confirmed by multiple [technical indicators](https://www.investopedia.com/terms/t/technicalindicator.asp). These indicators could include a breakdown below a key long-term support level or a bearish moving average crossover like the “death cross.” An example of a bearish moving average crossover occurs when a stock's 50-day moving average falls below its 200-day moving average. A [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) is merely the average of a stock's price over a set period of time. If the current price breaks the average, either down or up, it can signal a new trend in price.
+Short sales may also have a higher probability of success when the bearish trend is confirmed by multiple [[technical indicators]](https://www.investopedia.com/terms/t/technicalindicator.asp). These indicators could include a breakdown below a key long-term support level or a bearish moving average crossover like the “death cross.” An example of a bearish moving average crossover occurs when a stock's 50-day moving average falls below its 200-day moving average. A [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) is merely the average of a stock's price over a set period of time. If the current price breaks the average, either down or up, it can signal a new trend in price.
 
 ### Valuations Reach Elevated Levels Amid Rampant Optimism
 
@@ -171,20 +171,20 @@ Occasionally, valuations for certain sectors or the market as a whole may reach 
 
 ## Short Selling's Reputation
 
-Sometimes short selling is criticized, and short sellers are viewed as ruthless operators out to destroy companies. However, the reality is that short selling provides liquidity, meaning enough sellers and buyers, to markets and can help prevent bad stocks from rising on hype and over-optimism. Evidence of this benefit can be seen in asset [bubbles](https://www.investopedia.com/terms/b/bubble.asp) that disrupt the market. Assets that lead to bubbles such as the mortgage-backed security market before the 2008 financial crisis are frequently difficult or nearly impossible to short.
+Sometimes short selling is criticized, and short sellers are viewed as ruthless operators out to destroy companies. However, the reality is that short selling provides liquidity, meaning enough sellers and buyers, to markets and can help prevent bad stocks from rising on hype and over-optimism. Evidence of this benefit can be seen in asset [[bubbles]](https://www.investopedia.com/terms/b/bubble.asp) that disrupt the market. Assets that lead to bubbles such as the mortgage-backed security market before the 2008 financial crisis are frequently difficult or nearly impossible to short.
 
 Short selling activity is a legitimate source of information about market sentiment and demand for a stock. Without this information, investors may be caught off-guard by negative fundamental trends or surprising news.
 
-Unfortunately, short selling gets a bad name due to the practices employed by unethical speculators. These unscrupulous types have used short selling strategies and derivatives to artificially deflate prices and conduct “[bear raids](https://www.investopedia.com/terms/b/bearraid.asp)” on vulnerable stocks. Most forms of [market manipulation](https://www.investopedia.com/terms/m/manipulation.asp) like this are illegal in the U.S., but it still happens periodically.
+Unfortunately, short selling gets a bad name due to the practices employed by unethical speculators. These unscrupulous types have used short selling strategies and derivatives to artificially deflate prices and conduct “[bear raids](https://www.investopedia.com/terms/b/bearraid.asp)” on vulnerable stocks. Most forms of [[market manipulation]](https://www.investopedia.com/terms/m/manipulation.asp) like this are illegal in the U.S., but it still happens periodically.
 
 [_Put options provide a great alternative to short selling_](https://www.investopedia.com/articles/trading/092613/difference-between-short-selling-and-put-options.asp) _by enabling you to profit from a drop in a stock's price without the need for margin or leverage. If you're new to options trading, Investopedia's_ [_Options for Beginners Course_](https://academy.investopedia.com/products/options-for-beginners?aca_ref=inline) _provides a comprehensive introduction to the world of options. Its five hours of on-demand video, exercises, and interactive content offer real strategies to increase consistency of returns and improve the odds in the investor's favor._
 
 ## Real World Example of Short Selling
 
-Unexpected news events can initiate a short squeeze which may force short sellers to buy at any price to cover their margin requirements. For example, in October 2008, [Volkswagen briefly became the most valuable publicly traded company](https://www.cnbc.com/id/27414247) in the world during an epic short squeeze.3
+Unexpected news events can initiate a short squeeze which may force short sellers to buy at any price to cover their margin requirements. For example, in October 2008, [[Volkswagen briefly became the most valuable publicly traded company]](https://www.cnbc.com/id/27414247) in the world during an epic short squeeze.3
 
 In 2008, investors knew that Porsche was trying to build a position in Volkswagen and gain majority control. Short sellers expected that once Porsche had achieved control over the company, the stock would likely fall in value, so they heavily shorted the stock. However, in a surprise announcement, Porsche revealed that they had secretly acquired more than 70% of the company using derivatives, which triggered a massive feedback loop of short sellers buying shares to close their position.4
 
-Short sellers were at a disadvantage because 20% of Volkswagen was owned by a government entity that wasn’t interested in selling, and Porsche controlled another 70%, so there were very few shares available on the market—float—to buy back. Essentially, both the short interest and days to cover ratio had exploded higher overnight, which caused the stock to jump from [the low €200s to over €1,000](https://www.nytimes.com/2008/10/30/business/worldbusiness/30iht-norris31.1.17372644.html).
+Short sellers were at a disadvantage because 20% of Volkswagen was owned by a government entity that wasn’t interested in selling, and Porsche controlled another 70%, so there were very few shares available on the market—float—to buy back. Essentially, both the short interest and days to cover ratio had exploded higher overnight, which caused the stock to jump from [[the low €200s to over €1,000]](https://www.nytimes.com/2008/10/30/business/worldbusiness/30iht-norris31.1.17372644.html).
 
 A characteristic of a short squeeze is that they tend to fade quickly, and within several months, Volkswagen’s stock had declined back into its normal range.

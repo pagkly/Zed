@@ -22,9 +22,9 @@ Every financial market has a designated clearinghouse or an internal clearing di
 
 ## Understanding the Clearinghouse
 
-The responsibilities of a clearinghouse include "clearing" or finalizing trades, settling trading accounts, collecting [margin](https://www.investopedia.com/terms/m/margin.asp) payments, regulating delivery of the assets to their new owners, and reporting trading data.
+The responsibilities of a clearinghouse include "clearing" or finalizing trades, settling trading accounts, collecting [[margin]](https://www.investopedia.com/terms/m/margin.asp) payments, regulating delivery of the assets to their new owners, and reporting trading data.
 
-Clearinghouses act as third parties for futures and [options contracts](https://www.investopedia.com/terms/o/optionscontract.asp), as buyers to every [clearing member](https://www.investopedia.com/terms/m/memberfirm.asp) seller, and as sellers to every clearing member buyer.
+Clearinghouses act as third parties for futures and [[options contracts]](https://www.investopedia.com/terms/o/optionscontract.asp), as buyers to every [[clearing member]](https://www.investopedia.com/terms/m/memberfirm.asp) seller, and as sellers to every clearing member buyer.
 
 The clearinghouse enters the picture after a buyer and a seller execute a trade. Its role is to accomplish the steps that finalize, and therefore validate, the transaction. In acting as a middleman, the clearinghouse provides the security and efficiency that is integral to stability in a financial market.
 
@@ -48,7 +48,7 @@ Assume that a trader buys a futures contract. At this point, the clearinghouse h
 
 The initial margin can be viewed as a good faith assurance that the trader can afford to hold the trade until it is closed. These funds are held by the clearing firm but within the trader's account, and can't be used for other trades. The intention is to offset any losses the trader may experience in the transaction.
 
-The maintenance margin, usually a fraction of the initial margin requirement, is the amount that must be available in a trader's account to keep the trade open. If the trader's account equity drops below this threshold the account holder will receive a [margin call](https://www.investopedia.com/terms/m/margincall.asp) demanding that the account be replenished to the level that satisfies the initial margin requirements.
+The maintenance margin, usually a fraction of the initial margin requirement, is the amount that must be available in a trader's account to keep the trade open. If the trader's account equity drops below this threshold the account holder will receive a [[margin call]](https://www.investopedia.com/terms/m/margincall.asp) demanding that the account be replenished to the level that satisfies the initial margin requirements.
 
 If the trader fails to meet the margin call, the trade will be closed since the account cannot reasonably withstand further losses.
 

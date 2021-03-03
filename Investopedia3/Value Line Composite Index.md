@@ -16,7 +16,7 @@ author: Will Kenton
 Value Line Composite Index
 ## What Is Value Line Composite Index?
 
-The Value Line Composite Index is a stock index containing approximately 1,700 companies from the [NYSE](https://www.investopedia.com/terms/n/nyse.asp), [American Stock Exchange](https://www.investopedia.com/terms/a/amex.asp), Nasdaq, Toronto, and over-the-counter markets.1 The Value Line Composite Index has two forms: The Value Line Geometric Composite Index (the original equally weighted index) and the Value Line Arithmetic Composite Index (an index which mirrors changes if a portfolio held equal amounts of stock.) These indexes are typically published in the [Value Line Investment Survey](https://www.investopedia.com/articles/stocks/12/value-line-investment-survey.asp), created by Arnold Bernhard, the founder, and CEO of Value Line Inc.23
+The Value Line Composite Index is a stock index containing approximately 1,700 companies from the [[NYSE]](https://www.investopedia.com/terms/n/nyse.asp), [[American Stock Exchange]](https://www.investopedia.com/terms/a/amex.asp), Nasdaq, Toronto, and over-the-counter markets.1 The Value Line Composite Index has two forms: The Value Line Geometric Composite Index (the original equally weighted index) and the Value Line Arithmetic Composite Index (an index which mirrors changes if a portfolio held equal amounts of stock.) These indexes are typically published in the [[Value Line Investment Survey]](https://www.investopedia.com/articles/stocks/12/value-line-investment-survey.asp), created by Arnold Bernhard, the founder, and CEO of Value Line Inc.23
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ The Value Line Composite Index is a stock index containing approximately 1,700
 
 ## Understanding Value Line Composite Index
 
-The "Value Line" where the index receives its namesake refers to a multiple of cash flow that Bernhard would superimpose over a price chart to normalize the value of different companies. Value Line is one of the most respected investment research firms. Its performance record has been extremely strong. In fact, the firm's model portfolios have generally beat the market over the [long run](https://www.investopedia.com/terms/l/longrun.asp).
+The "Value Line" where the index receives its namesake refers to a multiple of cash flow that Bernhard would superimpose over a price chart to normalize the value of different companies. Value Line is one of the most respected investment research firms. Its performance record has been extremely strong. In fact, the firm's model portfolios have generally beat the market over the [[long run]](https://www.investopedia.com/terms/l/longrun.asp).
 
 The Value Line Composite Index is composed of the same companies as The Value Line Investment Survey, excluding closed-end funds.3
 

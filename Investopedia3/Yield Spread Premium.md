@@ -18,7 +18,7 @@ Yield Spread Premium
 
 A yield spread premium also called a "YSP" is a form of compensation that a mortgage broker, acting as the intermediary, receives from the original lender for selling an interest rate to a borrower that is above the lender's par rate for which the borrower qualifies.
 
-The YSP can be used to cover costs associated with the loan, so the borrower isn't on the hook for additional fees. Since new legislation was passed in 1999, the yield spread premium must now be reasonably related to services the mortgage broker performs for the home buyer. The yield spread premium must be disclosed on the [HUD-1 Form](https://www.investopedia.com/terms/h/hud-1.asp) when the loan is closed.
+The YSP can be used to cover costs associated with the loan, so the borrower isn't on the hook for additional fees. Since new legislation was passed in 1999, the yield spread premium must now be reasonably related to services the mortgage broker performs for the home buyer. The yield spread premium must be disclosed on the [[HUD-1 Form]](https://www.investopedia.com/terms/h/hud-1.asp) when the loan is closed.
 
 ## How Yield Spread Premium Works
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Tax Planning
 ## What Is Tax Planning?
 
-Tax planning is the analysis of a [financial situation or plan](https://www.investopedia.com/terms/f/financialplanner.asp) to ensure that all elements work together to allow you to pay the lowest taxes possible. A plan that minimizes how much you pay in taxes is referred to as [tax efficient](https://www.investopedia.com/terms/t/tax-efficiency.asp). Tax planning should be an essential part of an individual investor's financial plan. Reduction of tax liability and maximizing the ability to contribute to retirement plans are crucial for success. 
+Tax planning is the analysis of a [[financial situation or plan]](https://www.investopedia.com/terms/f/financialplanner.asp) to ensure that all elements work together to allow you to pay the lowest taxes possible. A plan that minimizes how much you pay in taxes is referred to as [[tax efficient]](https://www.investopedia.com/terms/t/tax-efficiency.asp). Tax planning should be an essential part of an individual investor's financial plan. Reduction of tax liability and maximizing the ability to contribute to retirement plans are crucial for success. 
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Tax planning covers several considerations. Considerations include timing of inc
 
 ## Tax Planning for Retirement Plans
 
-Saving via a retirement plan is a popular way to efficiently reduce taxes. Contributing money to a [traditional IRA](https://www.investopedia.com/terms/t/traditionalira.asp) can minimize gross income by the amount contributed. For 2020 and 2021, if meeting all qualifications, a filer under age 50 can contribute a maximum of $6,000 to their IRA and $7,000 if age 50 or older. For example, if a 52-year-old male with an annual income of $50,000 who made a $7,000 contribution to a traditional IRA has an adjusted gross income of $43,000, the $7,00 contribution would grow tax-deferred until retirement.1
+Saving via a retirement plan is a popular way to efficiently reduce taxes. Contributing money to a [[traditional IRA]](https://www.investopedia.com/terms/t/traditionalira.asp) can minimize gross income by the amount contributed. For 2020 and 2021, if meeting all qualifications, a filer under age 50 can contribute a maximum of $6,000 to their IRA and $7,000 if age 50 or older. For example, if a 52-year-old male with an annual income of $50,000 who made a $7,000 contribution to a traditional IRA has an adjusted gross income of $43,000, the $7,00 contribution would grow tax-deferred until retirement.1
 
 There are several other retirement plans that an individual may use to help reduce tax liability. [401(k) plans](https://www.investopedia.com/terms/1/401kplan.asp) are popular with larger companies that have many employees. Participants in the plan can defer income from their paycheck directly into the company’s 401(k) plan. The greatest difference is that the contribution limit dollar amount is much higher than that of an IRA. 
 
@@ -46,7 +46,7 @@ As of 2020, long-term capital gains are taxed as follows: 
 -   15% tax for single taxpayers whose income is more than $78,750 but less than $434,550 ($488,850 if married filing jointly or a qualifying widow(er), $461,700 for the head of the household, or $244,425 for married filing separately)
 -   20% tax for those whose income is higher than listed for the 15% tax3
 
-For example, if a single investor whose income was $80,000 had $10,000 in long-term capital gains, there would be a tax liability of $1,500. If the same investor sold underperforming investments carrying $10,000 in long-term capital losses, the losses would offset the gains, resulting in a tax liability of 0. If the same losing investment were brought back, then a minimum of 30 days would have to pass to avoid incurring a [wash sale](https://www.investopedia.com/terms/w/washsale.asp). 
+For example, if a single investor whose income was $80,000 had $10,000 in long-term capital gains, there would be a tax liability of $1,500. If the same investor sold underperforming investments carrying $10,000 in long-term capital losses, the losses would offset the gains, resulting in a tax liability of 0. If the same losing investment were brought back, then a minimum of 30 days would have to pass to avoid incurring a [[wash sale]](https://www.investopedia.com/terms/w/washsale.asp). 
 
 According to the Internal Revenue Service, "If your capital losses exceed your capital gains, the amount of the excess loss that you can claim to lower your income is the lesser of $3,000 ($1,500 if married filing separately) or your total net loss shown on line 21 of Schedule D (Form 1040 or 1040-SR).3
 

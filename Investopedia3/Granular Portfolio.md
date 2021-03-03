@@ -16,7 +16,7 @@ author: James Chen
 Granular Portfolio
 ## What Is a Granular Portfolio?
 
-A granular portfolio is an investment [portfolio](https://www.investopedia.com/terms/p/portfolio.asp) that is well diversified across a wide variety of assets, typically with a significant number of holdings. Because this type of portfolio contains a large number of positions in different asset classes and/or sectors, it is considered to have a lower overall risk profile. Conversely, portfolios that have "low granularity" have fewer positions or contain highly correlated assets. They are less [diversified](https://www.investopedia.com/terms/d/diversification.asp) and have a higher overall risk profile.
+A granular portfolio is an investment [portfolio](https://www.investopedia.com/terms/p/portfolio.asp) that is well diversified across a wide variety of assets, typically with a significant number of holdings. Because this type of portfolio contains a large number of positions in different asset classes and/or sectors, it is considered to have a lower overall risk profile. Conversely, portfolios that have "low granularity" have fewer positions or contain highly correlated assets. They are less [[diversified]](https://www.investopedia.com/terms/d/diversification.asp) and have a higher overall risk profile.
 
 ### Key Takeaways
 
@@ -35,11 +35,11 @@ While the primary advantage to an investor is the reduction of risk, other advan
 
 ### Reduces Risk
 
-Having investments across many sectors and asset classes helps to reduce a portfolio’s overall risk. For example, if healthcare stocks are underperforming, a granular portfolio with exposure to other sectors—such as technology, financials, and [consumer goods](https://www.investopedia.com/terms/c/consumer-goods-sector.asp)—helps to offset those positions. Bonds can be added to a granular portfolio to provide income when stocks go through range-bound periods.                                                                                                    
+Having investments across many sectors and asset classes helps to reduce a portfolio’s overall risk. For example, if healthcare stocks are underperforming, a granular portfolio with exposure to other sectors—such as technology, financials, and [[consumer goods]](https://www.investopedia.com/terms/c/consumer-goods-sector.asp)—helps to offset those positions. Bonds can be added to a granular portfolio to provide income when stocks go through range-bound periods.                                                                                                    
 
 ### Customization
 
-Because granular portfolios include many holdings, they can easily be adjusted to meet the financial objectives of many different investors. For instance, an investor might have their asset allocations split between equities, [bonds](https://www.investopedia.com/terms/b/bond.asp), and cash. When the investor is young, 90% of the portfolio may be invested in equities, with 5% in bonds and 5% in cash. As the investor approaches retirement, they can easily adjust the portfolio to have more conservative allocations.
+Because granular portfolios include many holdings, they can easily be adjusted to meet the financial objectives of many different investors. For instance, an investor might have their asset allocations split between equities, [[bonds]](https://www.investopedia.com/terms/b/bond.asp), and cash. When the investor is young, 90% of the portfolio may be invested in equities, with 5% in bonds and 5% in cash. As the investor approaches retirement, they can easily adjust the portfolio to have more conservative allocations.
 
 ### Asset Choice
 
@@ -51,10 +51,10 @@ Although there are fewer disadvantages to a granular portfolio, they can be sign
 
 ### Windfall Gains
 
-The diversified structure of a granular portfolio means that a large gain in a single investment has a minimal impact on overall returns. For instance, a [stock](https://www.investopedia.com/terms/s/stock.asp) in an investor’s portfolio may increase by 75%, but that holding only accounts for a slight gain if it represents 5% of the portfolio's value.
+The diversified structure of a granular portfolio means that a large gain in a single investment has a minimal impact on overall returns. For instance, a [[stock]](https://www.investopedia.com/terms/s/stock.asp) in an investor’s portfolio may increase by 75%, but that holding only accounts for a slight gain if it represents 5% of the portfolio's value.
 
 ### Exposure
 
 In a stable economic environment, a granular portfolio takes advantage of uncorrelated asset classes and sectors offsetting each other to help reduce risk. These correlations may break down in a financial crisis to actually increase risk.
 
-For example, during the global financial crisis between 2008 and 2009, price moves in equities and commodities became strongly correlated, while bonds and equities became uncorrelated. Investors who hold a granular portfolio should continually monitor changing correlations between asset classes to ensure they don’t overexpose themselves. Understanding this relationship between [market correlation and volatility](https://www.investopedia.com/articles/financial-advisors/022516/4-reasons-why-market-correlation-matters.asp) can help investors manage portfolio risk.
+For example, during the global financial crisis between 2008 and 2009, price moves in equities and commodities became strongly correlated, while bonds and equities became uncorrelated. Investors who hold a granular portfolio should continually monitor changing correlations between asset classes to ensure they don’t overexpose themselves. Understanding this relationship between [[market correlation and volatility]](https://www.investopedia.com/articles/financial-advisors/022516/4-reasons-why-market-correlation-matters.asp) can help investors manage portfolio risk.

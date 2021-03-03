@@ -16,7 +16,7 @@ author: Caroline Banton
 How Escrow Protects Parties in Financial Transactions
 ## What Is Escrow?
 
-Escrow is a legal concept describing a financial instrument whereby an asset or escrow money is held by a third party on behalf of two other parties that are in the process of completing a transaction. Escrow accounts might include escrow fees managed by agents who hold the funds or assets until receiving appropriate instructions or until the fulfillment of predetermined contractual obligations. Money, securities, funds, and other assets can all be held in escrow. A similar process would be a fully funded documentary letter of credit. It is often suggested as a replacement for a [certified or cashiers check](https://www.investopedia.com/personal-finance/certified-check-vs-cashiers-check-which-safer/).
+Escrow is a legal concept describing a financial instrument whereby an asset or escrow money is held by a third party on behalf of two other parties that are in the process of completing a transaction. Escrow accounts might include escrow fees managed by agents who hold the funds or assets until receiving appropriate instructions or until the fulfillment of predetermined contractual obligations. Money, securities, funds, and other assets can all be held in escrow. A similar process would be a fully funded documentary letter of credit. It is often suggested as a replacement for a [[certified or cashiers check]](https://www.investopedia.com/personal-finance/certified-check-vs-cashiers-check-which-safer/).
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Escrow is typically linked to real estate, but it also extends to other financia
 
 ### Escrow and Real Estate
 
-Escrow accounts apply to real estate transactions. Placing the funds in escrow allows the buyer to perform due diligence on a potential acquisition. Escrow accounts also assure the seller that the buyer can close on the purchase. For example, an escrow account can be used for the sale of a house. If there are conditions attached to the sale, such as the passing of an inspection, the buyer and seller may [agree to use escrow](https://www.investopedia.com/terms/e/escrowagreement.asp).
+Escrow accounts apply to real estate transactions. Placing the funds in escrow allows the buyer to perform due diligence on a potential acquisition. Escrow accounts also assure the seller that the buyer can close on the purchase. For example, an escrow account can be used for the sale of a house. If there are conditions attached to the sale, such as the passing of an inspection, the buyer and seller may [[agree to use escrow]](https://www.investopedia.com/terms/e/escrowagreement.asp).
 
 In this case, the buyer of the property deposits the payment amount for the house in an escrow account held by a third party. The seller can proceed with house inspections confident that the funds are there, and the buyer is capable of making payment. The amount in escrow is then transferred to the seller once all the conditions for the sale are satisfied.
 

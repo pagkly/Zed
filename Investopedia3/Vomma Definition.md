@@ -16,7 +16,7 @@ author: James Chen
 Vomma Definition
 ## What Is Vomma?
 
-Vomma is the rate at which the vega of an option will react to volatility in the market. Vomma is part of the group of measures, such as [delta](https://www.investopedia.com/terms/d/delta.asp), gamma, and vega, known as the "Greeks" which are used in options pricing.
+Vomma is the rate at which the vega of an option will react to volatility in the market. Vomma is part of the group of measures, such as [[delta]](https://www.investopedia.com/terms/d/delta.asp), gamma, and vega, known as the "Greeks" which are used in options pricing.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ Vomma is the rate at which the vega of an option will react to volatility in the
 
 ## Understanding Vomma
 
-Vomma is a second-order derivative for an option’s value and demonstrates the convexity of vega. A positive value for vomma indicates that a percentage point increase in volatility will result in an increased option value which is demonstrated by vega's [convexity](https://www.investopedia.com/terms/c/convexity.asp).
+Vomma is a second-order derivative for an option’s value and demonstrates the convexity of vega. A positive value for vomma indicates that a percentage point increase in volatility will result in an increased option value which is demonstrated by vega's [[convexity]](https://www.investopedia.com/terms/c/convexity.asp).
 
-Vomma and vega are two factors involved in understanding and identifying profitable option trades. The two work together in providing detail on an option's price and the option price’s sensitivity to market changes. They can influence the sensitivity and interpretation of the [Black-Scholes](https://www.investopedia.com/terms/b/blackscholes.asp) pricing model for option pricing.
+Vomma and vega are two factors involved in understanding and identifying profitable option trades. The two work together in providing detail on an option's price and the option price’s sensitivity to market changes. They can influence the sensitivity and interpretation of the [[Black-Scholes]](https://www.investopedia.com/terms/b/blackscholes.asp) pricing model for option pricing.
 
 ## Vega
 
@@ -42,7 +42,7 @@ The formula for calculating vega is below:
 
 ## Vega and Vomma
 
-Vomma is a second-order Greek derivative which means that its value provides insight on how vega will change with the [implied volatility](https://www.investopedia.com/terms/i/iv.asp) of the underlying instrument. If a positive vomma is calculated and volatility increases, vega on the option position will increase. If volatility falls, a positive vomma would indicate a decrease in vega. If vomma is negative, the opposite occurs with volatility changes as indicated by vega’s convexity.
+Vomma is a second-order Greek derivative which means that its value provides insight on how vega will change with the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) of the underlying instrument. If a positive vomma is calculated and volatility increases, vega on the option position will increase. If volatility falls, a positive vomma would indicate a decrease in vega. If vomma is negative, the opposite occurs with volatility changes as indicated by vega’s convexity.
 
 Generally, investors with long options should look for a high, positive value for vomma, while investors with short options should look for a negative one.
 

@@ -16,9 +16,9 @@ author: Akhilesh Ganti
 Vertical Spread Definition
 ## What Is a Vertical Spread?
 
-A vertical spread involves the simultaneous buying and selling of [options](https://www.investopedia.com/terms/o/option.asp) of the same type (i.e., either puts or calls) and expiry, but at different [strike prices](https://www.investopedia.com/terms/s/strikeprice.asp). The term 'vertical' comes from the position of the strike prices.
+A vertical spread involves the simultaneous buying and selling of [[options]](https://www.investopedia.com/terms/o/option.asp) of the same type (i.e., either puts or calls) and expiry, but at different [[strike prices]](https://www.investopedia.com/terms/s/strikeprice.asp). The term 'vertical' comes from the position of the strike prices.
 
-This is in contrast to a horizontal, or [calendar spread](https://www.investopedia.com/terms/c/calendarspread.asp), which is the simultaneous purchase and sale of the same option type with the same strike price, but with different [expiration dates](https://www.investopedia.com/terms/e/expirationdate.asp).
+This is in contrast to a horizontal, or [[calendar spread]](https://www.investopedia.com/terms/c/calendarspread.asp), which is the simultaneous purchase and sale of the same option type with the same strike price, but with different [[expiration dates]](https://www.investopedia.com/terms/e/expirationdate.asp).
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ This is in contrast to a horizontal, or [calendar spread](https://www.investoped
 
 ## Understanding Vertical Spreads
 
-[Traders](https://www.investopedia.com/terms/t/trader.asp) will use a vertical spread when they expect a moderate move in the price of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp). Vertical spreads are mainly directional plays and can be tailored to reflect the trader's view, bearish or bullish, on the underlying asset.
+[Traders](https://www.investopedia.com/terms/t/trader.asp) will use a vertical spread when they expect a moderate move in the price of the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp). Vertical spreads are mainly directional plays and can be tailored to reflect the trader's view, bearish or bullish, on the underlying asset.
 
-Depending on the type of vertical spread deployed, the trader's account can either be credited or debited. Since a vertical spread involves both a purchase and a sale, the proceeds from [writing](https://www.investopedia.com/terms/w/writing-an-option.asp) an option will partially, or even fully, offset the premium required to purchase the other leg of this strategy, namely buying the option. The result is often a lower cost, lower risk trade than a [naked options](https://www.investopedia.com/terms/n/nakedoption.asp) position.
+Depending on the type of vertical spread deployed, the trader's account can either be credited or debited. Since a vertical spread involves both a purchase and a sale, the proceeds from [[writing]](https://www.investopedia.com/terms/w/writing-an-option.asp) an option will partially, or even fully, offset the premium required to purchase the other leg of this strategy, namely buying the option. The result is often a lower cost, lower risk trade than a [[naked options]](https://www.investopedia.com/terms/n/nakedoption.asp) position.
 
-However, in return for lower risk, a vertical spread strategy will cap the profit potential as well. If an investor expects a substantial, [trend-like](https://www.investopedia.com/terms/t/trending-market.asp) move in the price of the underlying asset then a vertical spread is not an appropriate strategy.
+However, in return for lower risk, a vertical spread strategy will cap the profit potential as well. If an investor expects a substantial, [[trend-like]](https://www.investopedia.com/terms/t/trending-market.asp) move in the price of the underlying asset then a vertical spread is not an appropriate strategy.
 
 ## Types of Vertical Spreads
 
@@ -40,11 +40,11 @@ There are several varieties of vertical spreads.
 
 ### Bulls
 
-Bullish traders will use [bull call spreads](https://www.investopedia.com/terms/b/bullcallspread.asp) and [bull put spreads](https://www.investopedia.com/terms/b/bullputspread.asp). For both strategies, the trader buys the option with the lower strike price and sells the options with the higher strike price. Aside from the difference in the option types, the main variation is in the timing of the [cash flows](https://www.investopedia.com/terms/c/cashflow.asp). The bull call spread results in a net debit, while the bull put spread results in a net credit at the outset.
+Bullish traders will use [[bull call spreads]](https://www.investopedia.com/terms/b/bullcallspread.asp) and [[bull put spreads]](https://www.investopedia.com/terms/b/bullputspread.asp). For both strategies, the trader buys the option with the lower strike price and sells the options with the higher strike price. Aside from the difference in the option types, the main variation is in the timing of the [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp). The bull call spread results in a net debit, while the bull put spread results in a net credit at the outset.
 
 ### Bears
 
-Bearish traders utilize [bear call spreads](https://www.investopedia.com/terms/b/bearcallspread.asp) or [bear put spreads](https://www.investopedia.com/terms/b/bearputspread.asp). For these strategies, the trader sells the option with the lower strike price and buys the option with the higher strike price. Here, the bear put spread results in a net debit, while the bear call spread results in a net credit to the trader's account.
+Bearish traders utilize [[bear call spreads]](https://www.investopedia.com/terms/b/bearcallspread.asp) or [[bear put spreads]](https://www.investopedia.com/terms/b/bearputspread.asp). For these strategies, the trader sells the option with the lower strike price and buys the option with the higher strike price. Here, the bear put spread results in a net debit, while the bear call spread results in a net credit to the trader's account.
 
 Bull Vertical Spread P&L at Expiration.
 
@@ -52,11 +52,11 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Calculating Vertical Spread Profit and Loss
 
-All examples do not include [commissions](https://www.investopedia.com/terms/c/commission.asp).
+All examples do not include [[commissions]](https://www.investopedia.com/terms/c/commission.asp).
 
 **Bull call spread**: (premiums result in a net debit)
 
--   Max profit = the spread between the strike prices - net [premium](https://www.investopedia.com/terms/p/premium.asp) paid.
+-   Max profit = the spread between the strike prices - net [[premium]](https://www.investopedia.com/terms/p/premium.asp) paid.
 -   Max loss = net premium paid.
 -   Breakeven point = long call's strike price + net premium paid.
 
@@ -80,7 +80,7 @@ All examples do not include [commissions](https://www.investopedia.com/terms/c/c
 
 ## Real-World Example of a Bull Vertical Spread
 
-An investor looking to bet on a stock moving higher may embark on a bull vertical call spread. The investor buys an option on Company ABC, whose stock is trading at $50 per share. The investor buys an [in the money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) option with a strike price of $45 for $4 and sells an [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM) call with a strike price of $55 for $3.
+An investor looking to bet on a stock moving higher may embark on a bull vertical call spread. The investor buys an option on Company ABC, whose stock is trading at $50 per share. The investor buys an [[in the money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) option with a strike price of $45 for $4 and sells an [[out of the money]](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM) call with a strike price of $55 for $3.
 
 At expiration, Company ABC’s stock trades at $49. In this case, the investor would exercise their call, paying $45 and then selling for $49, netting a $4 profit. The call they sold expires worthless.
 

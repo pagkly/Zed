@@ -16,7 +16,7 @@ author: James Chen
 What Is Delta?
 ## What Is Delta?
 
-Delta is the ratio that compares the change in the price of an asset, usually [marketable securities](https://www.investopedia.com/terms/m/marketable_security.asp), to the corresponding change in the price of its [derivative](https://www.investopedia.com/terms/d/derivative.asp). For example, if a stock option has a delta value of 0.65, this means that if the underlying stock increases in price by $1 per share, the option on it will rise by $0.65 per share, all else being equal.
+Delta is the ratio that compares the change in the price of an asset, usually [[marketable securities]](https://www.investopedia.com/terms/m/marketable_security.asp), to the corresponding change in the price of its [[derivative]](https://www.investopedia.com/terms/d/derivative.asp). For example, if a stock option has a delta value of 0.65, this means that if the underlying stock increases in price by $1 per share, the option on it will rise by $0.65 per share, all else being equal.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ Delta is the ratio that compares the change in the price of an asset, usually [m
 
 ## Understanding Delta
 
-Delta values can be positive or negative depending on the type of option. For example, the delta for a [call option](https://www.investopedia.com/terms/c/calloption.asp) always ranges from 0 to 1 because as the underlying asset increases in price, call options increase in price. [Put option](https://www.investopedia.com/terms/p/putoption.asp) deltas always range from -1 to 0 because as the underlying security increases, the value of put options decrease.
+Delta values can be positive or negative depending on the type of option. For example, the delta for a [[call option]](https://www.investopedia.com/terms/c/calloption.asp) always ranges from 0 to 1 because as the underlying asset increases in price, call options increase in price. [[Put option]](https://www.investopedia.com/terms/p/putoption.asp) deltas always range from -1 to 0 because as the underlying security increases, the value of put options decrease.
 
-For example, if a put option has a delta of -0.33, and the price of the underlying asset increases by $1, the price of the put option will decrease by $0.33. Technically, the value of the option's delta is the first derivative of the value of the option with respect to the underlying security's price. Delta is often used in [hedging](https://www.investopedia.com/terms/h/hedge.asp) strategies and is also referred to as a hedge ratio.
+For example, if a put option has a delta of -0.33, and the price of the underlying asset increases by $1, the price of the put option will decrease by $0.33. Technically, the value of the option's delta is the first derivative of the value of the option with respect to the underlying security's price. Delta is often used in [[hedging]](https://www.investopedia.com/terms/h/hedge.asp) strategies and is also referred to as a hedge ratio.
 
 ## Special Considerations
 
-Delta is an important variable related to the pricing model used by option sellers. Professional option sellers determine how to price their options based on sophisticated models that often resemble the [Black-Scholes model](https://www.investopedia.com/terms/b/blackscholes.asp). Delta is a key variable within these models to help option buyers and sellers alike because it can help investors and traders determine how option prices are likely to change as the underlying security varies in price.
+Delta is an important variable related to the pricing model used by option sellers. Professional option sellers determine how to price their options based on sophisticated models that often resemble the [[Black-Scholes model]](https://www.investopedia.com/terms/b/blackscholes.asp). Delta is a key variable within these models to help option buyers and sellers alike because it can help investors and traders determine how option prices are likely to change as the underlying security varies in price.
 
 The calculation of delta is done in real-time by computer algorithms that continuously publish delta values to broker clientele. The delta value of an option is often used by traders and investors to inform their choices for buying or selling options.
 
@@ -47,7 +47,7 @@ Put option delta behaviors also depend on whether the option is "in-the-money," 
 
 Delta spread is an options trading strategy in which the trader initially establishes a delta neutral position by simultaneously buying and selling options in proportion to the neutral ratio (that is, the positive and negative deltas offset each other so that the overall delta of the assets in question totals zero). Using a delta spread, a trader usually expects to make a small profit if the underlying security does not change widely in price. However, larger gains or losses are possible if the stock moves significantly in either direction.
 
-The most common tool for implementing a delta spread strategy is an option trade known as a [calendar spread.](https://www.investopedia.com/terms/c/calendarspread.asp) The calendar spread involves constructing a [delta neutral](https://www.investopedia.com/terms/d/deltaneutral.asp) position using options with different expiration dates.
+The most common tool for implementing a delta spread strategy is an option trade known as a [[calendar spread.]](https://www.investopedia.com/terms/c/calendarspread.asp) The calendar spread involves constructing a [[delta neutral]](https://www.investopedia.com/terms/d/deltaneutral.asp) position using options with different expiration dates.
 
 In the simplest example, a trader will simultaneously sell near-month call options and buy call options with a later expiration in proportion to their neutral ratio. Since the position is delta neutral, the trader should not experience gains or losses from small price moves in the underlying security. Rather, the trader expects the price to remain unchanged, and as the near-month calls lose time value and expire, the trader can sell the call options with longer expiration dates and ideally net a profit.
 

@@ -26,7 +26,7 @@ A nonperforming loan (NPL) is a loan in which the borrower is in default due to 
 
 ## How a Nonperforming Loan Works
 
-A nonperforming loan (NPL) is considered in [default](https://www.investopedia.com/terms/d/default2.asp) or close to default. Once a loan is nonperforming, the odds the debtor will repay it in full are substantially lower. If the debtor resumes payments again on an NPL, it becomes a [reperforming loan](https://www.investopedia.com/terms/r/reperforming-loan.asp), even if the debtor has not caught up on all the missed payments.
+A nonperforming loan (NPL) is considered in [[default]](https://www.investopedia.com/terms/d/default2.asp) or close to default. Once a loan is nonperforming, the odds the debtor will repay it in full are substantially lower. If the debtor resumes payments again on an NPL, it becomes a [[reperforming loan]](https://www.investopedia.com/terms/r/reperforming-loan.asp), even if the debtor has not caught up on all the missed payments.
 
 In banking, commercial loans are considered nonperforming if the debtor has made zero payments of interest or principal within 90 days, or is 90 days past due. For a consumer loan, 180 days past due classifies it as an NPL.
 
@@ -46,21 +46,21 @@ Several international financial authorities offer specific guidelines for determ
 
 ### The European Central Bank
 
-The [European Central Bank](https://www.investopedia.com/terms/e/europeancentralbank.asp) (ECB) requires asset and definition comparability to evaluate risk exposures across euro area [central banks](https://www.investopedia.com/terms/c/centralbank.asp). The ECB specifies multiple criteria that can cause an NPL classification when it performs stress tests on participating banks.
+The [[European Central Bank]](https://www.investopedia.com/terms/e/europeancentralbank.asp) (ECB) requires asset and definition comparability to evaluate risk exposures across euro area [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp). The ECB specifies multiple criteria that can cause an NPL classification when it performs stress tests on participating banks.
 
 The ECB has performed a comprehensive assessment and developed criteria to define loans as nonperforming if they are:
 
 -   90 days past due, even if they are not defaulted or impaired
--   Impaired with respect to the accounting specifics for [U.S. GAAP](https://www.investopedia.com/terms/g/gaap.asp) and [International Financial Reporting Standards](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS) banks
+-   Impaired with respect to the accounting specifics for [[U.S. GAAP]](https://www.investopedia.com/terms/g/gaap.asp) and [[International Financial Reporting Standards]](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS) banks
 -   In default according to the Capital Requirements Regulation
 
-An [addendum](https://www.bankingsupervision.europa.eu/press/pr/date/2018/html/ssm.pr180315.en.html), issued in 2018, specified the time frame for lenders to set aside funds to cover nonperforming loans: two to seven years, depending on whether the loan was secured or not. As of 2020, eurozone lenders still have approximately $1 trillion worth of nonperforming loans on their books.
+An [[addendum]](https://www.bankingsupervision.europa.eu/press/pr/date/2018/html/ssm.pr180315.en.html), issued in 2018, specified the time frame for lenders to set aside funds to cover nonperforming loans: two to seven years, depending on whether the loan was secured or not. As of 2020, eurozone lenders still have approximately $1 trillion worth of nonperforming loans on their books.
 
 A nonperforming loan (NPL) is one in which payments of either interest or principal have not been made for a set number of days, for whatever reason.
 
 ### The International Money Fund Definition
 
-The [International Monetary Fund](https://www.investopedia.com/terms/i/imf.asp) (IMF) also sets out multiple criteria for a [nonperforming loan classification](https://www.imf.org/external/np/sta/fsi/eng/2003/051403bp.pdf).
+The [[International Monetary Fund]](https://www.investopedia.com/terms/i/imf.asp) (IMF) also sets out multiple criteria for a [[nonperforming loan classification]](https://www.imf.org/external/np/sta/fsi/eng/2003/051403bp.pdf).
 
 The IMF has defined nonperforming loans as those whose:\[[cite](https://www.imf.org/external/pubs/ft/bop/2005/05-29.pdf)\]
 

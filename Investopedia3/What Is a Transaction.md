@@ -16,10 +16,10 @@ author: Carol Kopp
 What Is a Transaction?
 ## What Is a Transaction?
 
-A transaction is a completed agreement between a buyer and a seller to exchange goods, services, or financial assets. But in business bookkeeping, this plain definition can get complicated. A transaction will be recorded earlier or later depending on whether the company uses [accrual accounting](https://www.investopedia.com/terms/a/accrualaccounting.asp) rather than [cash accounting](https://www.investopedia.com/terms/c/cashaccounting.asp).
+A transaction is a completed agreement between a buyer and a seller to exchange goods, services, or financial assets. But in business bookkeeping, this plain definition can get complicated. A transaction will be recorded earlier or later depending on whether the company uses [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp) rather than [[cash accounting]](https://www.investopedia.com/terms/c/cashaccounting.asp).
 
 -   The accrual accounting method requires a transaction to be recorded when it occurs, regardless of when the money is received or the expenses are paid.
--   The cash accounting method records a transaction only when the money is received or the expenses are paid. This may require a [letter of intent](https://www.investopedia.com/ask/answers/042715/what-difference-between-letter-intent-and-memorandum-understanding.asp) or a memorandum of understanding.
+-   The cash accounting method records a transaction only when the money is received or the expenses are paid. This may require a [[letter of intent]](https://www.investopedia.com/ask/answers/042715/what-difference-between-letter-intent-and-memorandum-understanding.asp) or a memorandum of understanding.
 
 Accrual accounting is used by businesses with gross receipts above $1 million a year, while the cash accounting method is used by most small businesses.
 
@@ -27,7 +27,7 @@ Accrual accounting is used by businesses with gross receipts above $1 million a 
 
 A sales transaction between a buyer and a seller is relatively straightforward. Person A pays person B in exchange for a product or service. When they agree on the terms, the transaction is complete.
 
-Transactions can be more complex in the accounting world since businesses may make a deal today which won't be [settled](https://www.investopedia.com/terms/c/cashsettlement.asp) until a future date. Or, they may have revenues or expenses that are known but not yet due. [Third-party transactions](https://www.investopedia.com/terms/t/third-party-transaction.asp) can also complicate the process.
+Transactions can be more complex in the accounting world since businesses may make a deal today which won't be [[settled]](https://www.investopedia.com/terms/c/cashsettlement.asp) until a future date. Or, they may have revenues or expenses that are known but not yet due. [[Third-party transactions]](https://www.investopedia.com/terms/t/third-party-transaction.asp) can also complicate the process.
 
 Whether a business records income and expense transactions using the accrual method of accounting or the cash method of accounting affects the company’s financial and tax reporting.
 
@@ -39,11 +39,11 @@ Whether a business records income and expense transactions using the accrual me
 
 ### Using Accrual Accounting
 
-When accrual accounting is used, a company records income when completing a service or delivering goods. If inventory is required when accounting for a company’s income, and the company has [gross receipts](https://www.investopedia.com/terms/g/gross-receipts.asp) above $1 million a year, the company normally uses the accrual method of accounting for sales and purchases.
+When accrual accounting is used, a company records income when completing a service or delivering goods. If inventory is required when accounting for a company’s income, and the company has [[gross receipts]](https://www.investopedia.com/terms/g/gross-receipts.asp) above $1 million a year, the company normally uses the accrual method of accounting for sales and purchases.
 
 ### Examples of Accrual Accounting
 
-For example, a company selling merchandise to a customer on store credit in October records the transaction immediately as an item in [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp). Even if the customer does not make a cash payment on the merchandise until December or pays in installments, the transaction is recorded as income for October.
+For example, a company selling merchandise to a customer on store credit in October records the transaction immediately as an item in [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp). Even if the customer does not make a cash payment on the merchandise until December or pays in installments, the transaction is recorded as income for October.
 
 If a customer buys something on credit, it will immediately be recorded as a transaction if the accrual accounting method is used.
 

@@ -16,9 +16,9 @@ author: Chris B. Murphy
 Over-The-Counter (OTC)
 ## What Is Over-the-Counter (OTC)?
 
-Over-the-counter (OTC) refers to the process of how securities are traded via a [broker-dealer network](https://www.investopedia.com/terms/b/broker-dealer.asp) as opposed to on a centralized exchange. Over-the-counter trading can involve equities, debt instruments, and [derivatives](https://www.investopedia.com/terms/d/derivative.asp), which are financial contracts that derive their value from an underlying asset such as a [commodity](https://www.investopedia.com/terms/c/commodity.asp).
+Over-the-counter (OTC) refers to the process of how securities are traded via a [[broker-dealer network]](https://www.investopedia.com/terms/b/broker-dealer.asp) as opposed to on a centralized exchange. Over-the-counter trading can involve equities, debt instruments, and [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp), which are financial contracts that derive their value from an underlying asset such as a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp).
 
-In some cases, securities might not meet the requirements to have a listing on a standard market exchange such as the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp). Instead, these securities can be traded over-the-counter.1
+In some cases, securities might not meet the requirements to have a listing on a standard market exchange such as the [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp). Instead, these securities can be traded over-the-counter.1
 
 However, over-the-counter trading can include equities that are listed on exchanges and stocks that are not listed. Stocks that are not listed on an exchange, and trade via OTC, are typically called over-the-counter equity securities, or OTC equities.2
 
@@ -31,25 +31,25 @@ However, over-the-counter trading can include equities that are listed on exchan
 
 ## Understanding Over-the-Counter (OTC)
 
-Stocks that trade via OTC are typically smaller companies that cannot meet exchange [listing requirements](https://www.investopedia.com/terms/l/listingrequirements.asp) of formal exchanges. However, many other types of securities also trade here. Stocks that [trade on exchanges](https://www.investopedia.com/ask/answers/08/otc-nyse-nasdaq.asp) are called listed stocks, whereas stocks that trade via OTC are called unlisted stocks.
+Stocks that trade via OTC are typically smaller companies that cannot meet exchange [[listing requirements]](https://www.investopedia.com/terms/l/listingrequirements.asp) of formal exchanges. However, many other types of securities also trade here. Stocks that [[trade on exchanges]](https://www.investopedia.com/ask/answers/08/otc-nyse-nasdaq.asp) are called listed stocks, whereas stocks that trade via OTC are called unlisted stocks.
 
-Trade transactions can take place through the [Over the Counter Bulletin Board](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or the Pink Sheets listing services. The OTCBB is an electronic quotation and trading service that facilitates higher liquidity and better information sharing.3 A Pink Sheet company is a private company that works with broker-dealers to bring small company shares to the market.
+Trade transactions can take place through the [[Over the Counter Bulletin Board]](https://www.investopedia.com/terms/o/otcbb.asp) (OTCBB) or the Pink Sheets listing services. The OTCBB is an electronic quotation and trading service that facilitates higher liquidity and better information sharing.3 A Pink Sheet company is a private company that works with broker-dealers to bring small company shares to the market.
 
-OTC securities trade by broker-dealers who negotiate directly with one another over computer networks and by phone using the OTCBB. The dealers act as market makers using the Pink Sheets and the OTC Bulletin Board, which is provided by the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp), which is an agency that writes and enforces the rules governing brokers and broker-dealers.
+OTC securities trade by broker-dealers who negotiate directly with one another over computer networks and by phone using the OTCBB. The dealers act as market makers using the Pink Sheets and the OTC Bulletin Board, which is provided by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp), which is an agency that writes and enforces the rules governing brokers and broker-dealers.
 
 ## Types of OTC Securities
 
 The equities that trade via OTC are not only small companies. Some well-known large companies are listed on the OTC markets. For instance, the OTCQX trades shares of foreign companies such as Nestle SA, Bayer A.G., Allianz SE, BASF SE, Roche Holding Ag, and Danone SA.
 
-[American depository receipts](https://www.investopedia.com/terms/a/adr.asp) (ADRs), which represent shares in a stock that trade on a [foreign exchange](https://www.investopedia.com/articles/forex/11/why-trade-forex.asp), are often traded OTC. Shares trade in this manner because the underlying company does not wish to or cannot meet the stringent exchange requirements. Also, the $500,000 cost to list on the NYSE—up to $75,000 on Nasdaq—creates a barrier for many companies.45
+[American depository receipts](https://www.investopedia.com/terms/a/adr.asp) (ADRs), which represent shares in a stock that trade on a [[foreign exchange]](https://www.investopedia.com/articles/forex/11/why-trade-forex.asp), are often traded OTC. Shares trade in this manner because the underlying company does not wish to or cannot meet the stringent exchange requirements. Also, the $500,000 cost to list on the NYSE—up to $75,000 on Nasdaq—creates a barrier for many companies.45
 
-Instruments such as bonds do not trade on a formal exchange as banks issue these debt instruments and market them through broker-dealer networks. These are also considered OTC securities. Banks save the cost of the exchange listing fees by matching buys and sells from clients internally or from another brokerage firm. Other financial instruments, such as [derivatives](https://www.investopedia.com/terms/d/derivative.asp), also trade through the dealer network.
+Instruments such as bonds do not trade on a formal exchange as banks issue these debt instruments and market them through broker-dealer networks. These are also considered OTC securities. Banks save the cost of the exchange listing fees by matching buys and sells from clients internally or from another brokerage firm. Other financial instruments, such as [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp), also trade through the dealer network.
 
 ## Over-the-Counter (OTC) Networks
 
 The OTC Markets Group operates some of the most well-known networks, such as the Best Market ([OTCQX](https://www.investopedia.com/terms/o/otcqx.asp)), the Venture Market ([OTCQB](https://www.investopedia.com/terms/o/otcqb.asp)), and the Pink Open Market. Although OTC networks are not formal exchanges such as the NYSE, they still have eligibility requirements. For example, the OTCQX does not list the stocks that sell for less than five dollars—known as penny stocks—shell companies, or companies going through bankruptcy. The OTCQX Best Market includes securities of companies with the largest market caps and greater liquidity than the other markets.
 
-Through the OTC marketplaces, you can find the stocks of companies that are small and developing. Depending on the listing platform, these companies may also submit reports to the [Securities and Exchange Commission (SEC](https://www.investopedia.com/terms/s/sec.asp)) regulators. OTCBB stocks will usually have a suffix of "OB" and must file financial statements with the SEC.
+Through the OTC marketplaces, you can find the stocks of companies that are small and developing. Depending on the listing platform, these companies may also submit reports to the [[Securities and Exchange Commission (SEC]](https://www.investopedia.com/terms/s/sec.asp)) regulators. OTCBB stocks will usually have a suffix of "OB" and must file financial statements with the SEC.
 
 Another trading platform is the Pink Sheets, and these stocks come in a wide variety. These businesses do not meet the requirements of the SEC. While buying shares of this nature may involve less transactional costs, they are prime for price manipulation and fraud. These stocks will usually have a suffix of "PK" and are not required to file financial statements with the SEC.
 

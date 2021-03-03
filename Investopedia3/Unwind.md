@@ -16,7 +16,7 @@ author: James Chen
 Unwind
 ## What Is Unwinding a Position?
 
-To unwind is to close out a trading position, with the term tending to be used when the trade is complex or large. Unwinding also refers to the correction of a trading error, since correcting a trading error may be complex or require multiple steps or trades. For example, a [broker](https://www.investopedia.com/terms/b/broker.asp) mistakenly sells part of a position when an investor wanted to add to it. The broker would have to unwind the transaction by first buying the sold shares and then purchasing the shares that should have been purchased in the first place.
+To unwind is to close out a trading position, with the term tending to be used when the trade is complex or large. Unwinding also refers to the correction of a trading error, since correcting a trading error may be complex or require multiple steps or trades. For example, a [[broker]](https://www.investopedia.com/terms/b/broker.asp) mistakenly sells part of a position when an investor wanted to add to it. The broker would have to unwind the transaction by first buying the sold shares and then purchasing the shares that should have been purchased in the first place.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ To unwind is to close out a trading position, with the term tending to be used w
 
 ## How Unwinding Works
 
-Unwinding is used to refer to the closing trades that require multiple steps, trades, or time. If an investor takes a [long](https://www.investopedia.com/terms/l/long.asp) position in stocks while at the same time selling [puts](https://www.investopedia.com/terms/p/put.asp) on the same issue, they will need to unwind those trades at some point. This entails covering the options and selling the underlying stock. A similar process would be followed by a broker attempting to correct a buying or selling error.
+Unwinding is used to refer to the closing trades that require multiple steps, trades, or time. If an investor takes a [[long]](https://www.investopedia.com/terms/l/long.asp) position in stocks while at the same time selling [[puts]](https://www.investopedia.com/terms/p/put.asp) on the same issue, they will need to unwind those trades at some point. This entails covering the options and selling the underlying stock. A similar process would be followed by a broker attempting to correct a buying or selling error.
 
 Unwinding is a process of reversing or closing a trade by participating in an offsetting transaction.
 
 ## Closing a Position
 
-Closing a position is the process required to eliminate a particular investment from a [portfolio](https://www.investopedia.com/terms/p/portfolio.asp). In the case of securities, when an investor wants to close the position, the most common action is to sell the security. In the case of [shorts](https://www.investopedia.com/terms/s/short.asp), an investor would need to buy the short shares back to close the position. The term unwinding is more likely to be used when buying or selling occurs over multiple transactions, and not just one. Unwinding is a process.
+Closing a position is the process required to eliminate a particular investment from a [portfolio](https://www.investopedia.com/terms/p/portfolio.asp). In the case of securities, when an investor wants to close the position, the most common action is to sell the security. In the case of [[shorts]](https://www.investopedia.com/terms/s/short.asp), an investor would need to buy the short shares back to close the position. The term unwinding is more likely to be used when buying or selling occurs over multiple transactions, and not just one. Unwinding is a process.
 
 ## Unwinding to Correct Trade Errors
 

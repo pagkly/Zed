@@ -26,13 +26,13 @@ Working Class
 
 ## Understanding the Working Class
 
-While "working class" is typically associated with manual labor and limited education, [blue collar](https://www.investopedia.com/terms/b/bluecollar.asp) workers are vital to every economy. Economists in the United States generally define "working class" as adults without a college degree. Many members of the working class are also defined as middle-class. 
+While "working class" is typically associated with manual labor and limited education, [[blue collar]](https://www.investopedia.com/terms/b/bluecollar.asp) workers are vital to every economy. Economists in the United States generally define "working class" as adults without a college degree. Many members of the working class are also defined as middle-class. 
 
-Sociologists such as Dennis Gilbert and Joseph Kahl, who was a [sociology professor](https://news.cornell.edu/stories/2010/01/influential-sociology-professor-joseph-kahl-dies) at Cornell University and the author of the 1957 textbook _The American Class Structure,_1 identified the working class as the most populous class in America.
+Sociologists such as Dennis Gilbert and Joseph Kahl, who was a [[sociology professor]](https://news.cornell.edu/stories/2010/01/influential-sociology-professor-joseph-kahl-dies) at Cornell University and the author of the 1957 textbook _The American Class Structure,_1 identified the working class as the most populous class in America.
 
 Other sociologists such as William Thompson, Joseph Hickey and James Henslin say the lower middle class is largest. In the class models devised by these sociologists, the working class comprises between 30% to 35% of the population, roughly the same number in the lower middle class. According to Dennis Gilbert, the working class comprises those between the 25th and 55th percentile of society.
 
-[Karl Marx](https://www.investopedia.com/terms/k/karl-marx.asp) described the working class as the "proletariat", and that it was the working class who ultimately created the goods and provided the services that created a society's wealth. Marxists and socialists define the working class as those who have nothing to sell but their labor-power and skills. In that sense, the _working class_ includes both [white and blue-collar workers](https://www.investopedia.com/articles/wealth-management/120215/blue-collar-vs-white-collar-different-social-classes.asp), manual and menial workers of all types, excluding only individuals who derive their income from business ownership and the labor of others.
+[Karl Marx](https://www.investopedia.com/terms/k/karl-marx.asp) described the working class as the "proletariat", and that it was the working class who ultimately created the goods and provided the services that created a society's wealth. Marxists and socialists define the working class as those who have nothing to sell but their labor-power and skills. In that sense, the _working class_ includes both [[white and blue-collar workers]](https://www.investopedia.com/articles/wealth-management/120215/blue-collar-vs-white-collar-different-social-classes.asp), manual and menial workers of all types, excluding only individuals who derive their income from business ownership and the labor of others.
 
 ## Types of Working Class Jobs
 

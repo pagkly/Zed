@@ -16,7 +16,7 @@ author: Staff
 Horizontal Market Definition
 ## What Is a Horizontal Market?
 
-A horizontal market is [diversified](https://www.investopedia.com/terms/d/diversification.asp) so that the products created are able to meet the needs of more than one industry. A horizontal market is one in which the output good or service is widely used and in wide demand, and so the producers bear little risk in demand for their output. Producers do, however, typically face a great amount of competition within the industry.
+A horizontal market is [[diversified]](https://www.investopedia.com/terms/d/diversification.asp) so that the products created are able to meet the needs of more than one industry. A horizontal market is one in which the output good or service is widely used and in wide demand, and so the producers bear little risk in demand for their output. Producers do, however, typically face a great amount of competition within the industry.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ The profitability for companies producing goods in a horizontal market is determ
 
 Businesses that operate in a horizontal market system seek to appeal to a wide demographic that is not really niche. For example, a reseller of general office furniture is probably not going to target (sell to) other companies that specialize in office furniture. Rather, they’re going to target all types of businesses that maintain offices—accounting firms, travel agencies, insurance agencies, etc. Their market is anyone who needs office furniture.
 
-Examples of companies in horizontal markets include [conglomerates](https://www.investopedia.com/terms/c/conglomerate.asp) and diversified manufacturing companies.
+Examples of companies in horizontal markets include [[conglomerates]](https://www.investopedia.com/terms/c/conglomerate.asp) and diversified manufacturing companies.
 
 ## Horizontal Markets vs. Vertical Markets
 

@@ -16,7 +16,7 @@ author: James Chen
 Short (Short Position) Definition
 ## What is a Short (or Short Position)
 
-A short, or a short position, is created when a trader sells a security first with the intention of repurchasing it or covering it later at a lower price. A trader may decide to short a security when she believes that the price of that security is likely to decrease in the near future. There are two types of short positions: naked and covered. A [naked short](https://www.investopedia.com/terms/n/nakedshorting.asp) is when a trader sells a security without having possession of it.
+A short, or a short position, is created when a trader sells a security first with the intention of repurchasing it or covering it later at a lower price. A trader may decide to short a security when she believes that the price of that security is likely to decrease in the near future. There are two types of short positions: naked and covered. A [[naked short]](https://www.investopedia.com/terms/n/nakedshorting.asp) is when a trader sells a security without having possession of it.
 
 However, that practice is illegal in the U.S. for equities. A covered short is when a trader borrows the shares from a stock loan department; in return, the trader pays a borrow-rate during the time the short position is in place.
 
@@ -30,7 +30,7 @@ In the futures or foreign exchange markets, short positions can be created at an
 
 ## Understanding Short Positions
 
-When creating a short position, one must understand that the trader has a finite potential to earn a profit and infinite potential for losses. That is because the potential for a profit is limited to the stock’s distance to zero. However, a stock could potentially rise for years, making a series of higher highs. One of the most dangerous aspects of being short is the potential for a [short-squeeze](https://www.investopedia.com/video/play/short-squeeze/). 
+When creating a short position, one must understand that the trader has a finite potential to earn a profit and infinite potential for losses. That is because the potential for a profit is limited to the stock’s distance to zero. However, a stock could potentially rise for years, making a series of higher highs. One of the most dangerous aspects of being short is the potential for a [[short-squeeze]](https://www.investopedia.com/video/play/short-squeeze/). 
 
 A short-squeeze is when a heavily shorted stock suddenly begins to increase in price as traders that are short begin to cover the stock. One famous short-squeeze occurred in October 2008 when the shares of Volkswagen surged higher as short-sellers scrambled to cover their shares. During the short-squeeze, the stock rose from roughly €200 to €1000 in a little over a month. 
 

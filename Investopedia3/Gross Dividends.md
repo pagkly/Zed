@@ -16,7 +16,7 @@ author: James Chen
 Gross Dividends
 ## What Are Gross Dividends?
 
-Similar in concept to gross income, gross dividends are the sum total of all dividends received by an investor for tax purposes. Gross dividends include all [ordinary dividends](https://www.investopedia.com/terms/o/ordinary-dividends.asp) that are paid, plus capital-gains distributions and [nontaxable distributions](https://www.investopedia.com/terms/n/nontaxable-distribution.asp) received by the taxpayer during the year before taxes, fees, and expenses are deducted.
+Similar in concept to gross income, gross dividends are the sum total of all dividends received by an investor for tax purposes. Gross dividends include all [[ordinary dividends]](https://www.investopedia.com/terms/o/ordinary-dividends.asp) that are paid, plus capital-gains distributions and [[nontaxable distributions]](https://www.investopedia.com/terms/n/nontaxable-distribution.asp) received by the taxpayer during the year before taxes, fees, and expenses are deducted.
 
 Gross dividends can be contrasted with net dividends.
 
@@ -28,7 +28,7 @@ Gross dividends can be contrasted with net dividends.
 
 ## Understanding Gross Dividends
 
-Most of the time, gross dividends paid to American investors are reported on IRS [Form 1099-DIV](https://www.investopedia.com/terms/f/form1099div.asp). Ordinary dividends are reported in Box 1a, while the other types of dividend income are listed elsewhere. All dividends are considered ordinary unless they are specifically classified as [qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp). Box 1b is designated for reporting qualified dividends, which shows the portion of the amount in Box 1a that may be eligible for reduced capital gains rates. Box 3 shows non-dividend distributions.
+Most of the time, gross dividends paid to American investors are reported on IRS [[Form 1099-DIV]](https://www.investopedia.com/terms/f/form1099div.asp). Ordinary dividends are reported in Box 1a, while the other types of dividend income are listed elsewhere. All dividends are considered ordinary unless they are specifically classified as [qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp). Box 1b is designated for reporting qualified dividends, which shows the portion of the amount in Box 1a that may be eligible for reduced capital gains rates. Box 3 shows non-dividend distributions.
 
 A 1099-DIV is required to be sent to anyone who has received dividends (including capital gain dividends and exempt-interest dividends) and other distributions on stock of ten dollars or more, or if funds were withheld to pay foreign tax on dividends and other distributions on stock over a given year. Not all dividend income reported on the 1099-DIV is reported on Schedule B.
 

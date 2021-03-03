@@ -18,7 +18,7 @@ Underinsured Motorist Coverage Limits Trigger
 
 The underinsured motorist coverage limits trigger is one of the two triggers that can be specified by an insured party to protect against losses caused by an accident with a driver who has insufficient insurance.
 
-The underinsured motorist coverage limits trigger ensures coverage in the event of an accident caused by a driver with inadequate insurance, and when the underinsured driver's liability limit is lower than that of the insured person or policyholder. The other trigger for underinsured motorist coverage is known as the damages or [coverage trigger](https://www.investopedia.com/terms/c/coverage-trigger.asp).
+The underinsured motorist coverage limits trigger ensures coverage in the event of an accident caused by a driver with inadequate insurance, and when the underinsured driver's liability limit is lower than that of the insured person or policyholder. The other trigger for underinsured motorist coverage is known as the damages or [[coverage trigger]](https://www.investopedia.com/terms/c/coverage-trigger.asp).
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Drivers purchase [auto insurance](https://www.investopedia.com/terms/a/auto-ins
 
 In that instance, the policyholder might have a legitimate claim against the at-fault driver but be unable to collect damages. After all, if the at-fault driver does not have the necessary assets or insurance, they might simply declare [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp), leaving little or nothing for the victim to collect.
 
-To protect against this risk, drivers can purchase [underinsured motorist coverage](https://www.investopedia.com/terms/u/underinsured-motorist-coverage.asp) as part of their auto insurance policy. This supplemental insurance covers property damages, bodily injury to the policyholder, as well as injuries to insured family members or passengers. If a claim needs to be filed, the [endorsement](https://www.investopedia.com/terms/e/endorsement.asp) can cover the difference between the coverage paid by the at-fault driver’s insurance and the full amount owing.
+To protect against this risk, drivers can purchase [[underinsured motorist coverage]](https://www.investopedia.com/terms/u/underinsured-motorist-coverage.asp) as part of their auto insurance policy. This supplemental insurance covers property damages, bodily injury to the policyholder, as well as injuries to insured family members or passengers. If a claim needs to be filed, the [endorsement](https://www.investopedia.com/terms/e/endorsement.asp) can cover the difference between the coverage paid by the at-fault driver’s insurance and the full amount owing.
 
 ## Under- vs. Un-insured Motorist Coverage
 

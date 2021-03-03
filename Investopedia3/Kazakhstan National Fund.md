@@ -28,7 +28,7 @@ The Kazakhstan National Fund is a sovereign wealth fund for Kazakhstan that is o
 
 The Kazakhstan National Fund was established in 2000, primarily to act as a stabilization fund to lessen the impact that volatility in oil, gas, and mineral prices have on the Republic of Kazakhstan.
 
-The Kazakhstan National Fund is financed from surplus revenues gained from taxes on the development of oil, gas and mineral reserves. The [Kazakhstan National Bank](https://nationalbank.kz/en?switch=english) lists assets for the fund at $59.8 billion as of January 2021. Some $123.6 billion of that total was in gold.1 The fund has no website and issues no public reports on its activities. The Kazakhstan National Fund is a secretive organization, and little information can be found as to its governance, holdings or investment strategies.
+The Kazakhstan National Fund is financed from surplus revenues gained from taxes on the development of oil, gas and mineral reserves. The [[Kazakhstan National Bank]](https://nationalbank.kz/en?switch=english) lists assets for the fund at $59.8 billion as of January 2021. Some $123.6 billion of that total was in gold.1 The fund has no website and issues no public reports on its activities. The Kazakhstan National Fund is a secretive organization, and little information can be found as to its governance, holdings or investment strategies.
 
 ## Kazakhstan National Fund's Assets Frozen
 

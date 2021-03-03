@@ -29,7 +29,7 @@ Public-private partnerships involve collaboration between a government agency an
 
 ## How Public-Private Partnerships Work
 
-A city government, for example, might be heavily indebted and unable to undertake a capital-intensive building project, but a private enterprise might be interested in funding its construction in exchange for receiving the [operating profits](https://www.investopedia.com/terms/o/operating_profit.asp) once the project is complete.
+A city government, for example, might be heavily indebted and unable to undertake a capital-intensive building project, but a private enterprise might be interested in funding its construction in exchange for receiving the [[operating profits]](https://www.investopedia.com/terms/o/operating_profit.asp) once the project is complete.
 
 Public-private partnerships typically have contract periods of 25 to 30 years or longer. Financing comes partly from the private sector but requires payments from the public sector and/or users over the project's lifetime. The private partner participates in designing, completing, implementing, and funding the project, while the public partner focuses on defining and monitoring compliance with the objectives. Risks are distributed between the public and private partners through a process of negotiation, ideally though not always according to the ability of each to assess, control, and cope with them. 
 
@@ -47,7 +47,7 @@ The private partner may face special risks from engaging in a public-private par
 
 Public-private partnerships also create risks from the general public's and taxpayers' point of view. Private operators' partnership with the government may insulate them from accountability to the users of the public service for cutting too many corners, providing substandard service, or even violating peoples' civil or Constitutional rights. At the same time, the private partner may enjoy a position to raise tolls, rates, and fees for captive consumers who may be compelled by law or geographic natural monopoly to pay for their services. 
 
-Lastly, as with any situation where ownership and decision rights are separated, public-private partnerships can create complex [principal-agent problems](https://www.investopedia.com/terms/p/principal-agent-problem.asp). This may facilitate corrupt dealings, pay-offs to political cronies, and general [rent seeking](https://www.investopedia.com/terms/r/rentseeking.asp) activity by attenuating the link between the private parties who make important decisions over a project, from which they stand to benefit, and accountability to the taxpayers who foot at least part of the bill and who may be left holding the bag in terms of ultimate liability for the project's outcome.    
+Lastly, as with any situation where ownership and decision rights are separated, public-private partnerships can create complex [[principal-agent problems]](https://www.investopedia.com/terms/p/principal-agent-problem.asp). This may facilitate corrupt dealings, pay-offs to political cronies, and general [[rent seeking]](https://www.investopedia.com/terms/r/rentseeking.asp) activity by attenuating the link between the private parties who make important decisions over a project, from which they stand to benefit, and accountability to the taxpayers who foot at least part of the bill and who may be left holding the bag in terms of ultimate liability for the project's outcome.    
 
 ## Public-Private Partnership Examples
 

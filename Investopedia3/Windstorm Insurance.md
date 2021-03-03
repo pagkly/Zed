@@ -16,7 +16,7 @@ author: Julia Kagan
 Windstorm Insurance
 ## What Is Windstorm Insurance?
 
-Windstorm insurance is a special type of property-casualty insurance that protects policyholders from property damage caused by gales, winds, hail, and other gusty [hazards](https://www.investopedia.com/terms/w/windstorm-hazard.asp). A subset of storm insurance, windstorm insurance is usually offered in the form of a rider on a standard casualty insurance policy through the extended coverage endorsement.
+Windstorm insurance is a special type of property-casualty insurance that protects policyholders from property damage caused by gales, winds, hail, and other gusty [[hazards]](https://www.investopedia.com/terms/w/windstorm-hazard.asp). A subset of storm insurance, windstorm insurance is usually offered in the form of a rider on a standard casualty insurance policy through the extended coverage endorsement.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ Windstorm insurance is a special type of property-casualty insurance that protec
 
 ## How Windstorm Insurance Works
 
-Windstorm insurance covers the types of excessively gusty events, such as hurricanes and cyclones, that are often considered [vis major](https://www.investopedia.com/terms/v/vis-major.asp) and so might be excluded from standard [homeowners insurance policies](https://www.investopedia.com/terms/h/homeowners-insurance.asp). Those who live in areas susceptible to this type of peril must purchase this additional coverage to protect themselves. Residents of coastal states and midwestern states, where hurricanes and tornadoes are relatively common, fall into this category.
+Windstorm insurance covers the types of excessively gusty events, such as hurricanes and cyclones, that are often considered [[vis major]](https://www.investopedia.com/terms/v/vis-major.asp) and so might be excluded from standard [[homeowners insurance policies]](https://www.investopedia.com/terms/h/homeowners-insurance.asp). Those who live in areas susceptible to this type of peril must purchase this additional coverage to protect themselves. Residents of coastal states and midwestern states, where hurricanes and tornadoes are relatively common, fall into this category.
 
 Windstorm insurance will typically cover physical damage to the property and personal belongings inside the home. Many policies also include coverage for detached structures such as garages and sheds. When big winds harm roofs and windows, rain and debris can cause additional damage. In such cases, most policies will cover repairs as long as the claim is filed soon after the event.
 
-Sometimes, windstorms are followed by storm surges and flooding, but windstorm insurance will not typically cover damage caused by these rising waters. [Flood insurance coverage](https://www.investopedia.com/terms/f/flood-insurance.asp) provided by the federal government must be purchased separately, and it takes 30 days to go into effect.1
+Sometimes, windstorms are followed by storm surges and flooding, but windstorm insurance will not typically cover damage caused by these rising waters. [[Flood insurance coverage]](https://www.investopedia.com/terms/f/flood-insurance.asp) provided by the federal government must be purchased separately, and it takes 30 days to go into effect.1
 
 Windstorm insurance will not cover the repair or replacement of a vehicle that is damaged by a wind-toppled tree or other blowing debris. A person must carry a comprehensive auto policy to cover a car.
 

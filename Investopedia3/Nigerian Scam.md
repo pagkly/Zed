@@ -16,7 +16,7 @@ author: Will Kenton
 Nigerian Scam
 ## What Is a Nigerian Scam?
 
-A Nigerian scam, also known as advance fee fraud or 419 fraud, is a scheme in which a sender requests help in facilitating the transfer of a sum of money, generally in the form of an email. In return, the sender offers a [commission](https://www.investopedia.com/terms/c/commission.asp)—a large amount, sometimes up to several million dollars depending on the perceived gullibility of the target. The scammers then request that money be sent to pay for some of the costs associated with the transfer. If money is sent to the scammers, they will either disappear immediately or try to get more money with claims of continued problems with the transfer.
+A Nigerian scam, also known as advance fee fraud or 419 fraud, is a scheme in which a sender requests help in facilitating the transfer of a sum of money, generally in the form of an email. In return, the sender offers a [[commission]](https://www.investopedia.com/terms/c/commission.asp)—a large amount, sometimes up to several million dollars depending on the perceived gullibility of the target. The scammers then request that money be sent to pay for some of the costs associated with the transfer. If money is sent to the scammers, they will either disappear immediately or try to get more money with claims of continued problems with the transfer.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A Nigerian scam, also known as advance fee fraud or 419 fraud, is a scheme in wh
 
 ## How a Nigerian Scam Works
 
-This specific type of scam is generally referred to as the Nigerian scam because of its prevalence in the country, particularly during the 1990s. There is also a section of the Nigerian Criminal Code Section 419 that makes this type of [fraud](https://www.investopedia.com/terms/f/fraud.asp) illegal. However, this scam is not limited to Nigeria and is also perpetrated by many organizations in many different countries around the world. 
+This specific type of scam is generally referred to as the Nigerian scam because of its prevalence in the country, particularly during the 1990s. There is also a section of the Nigerian Criminal Code Section 419 that makes this type of [[fraud]](https://www.investopedia.com/terms/f/fraud.asp) illegal. However, this scam is not limited to Nigeria and is also perpetrated by many organizations in many different countries around the world. 
 
 The origins of this scam are widely debated with some suggesting it started in Nigeria during the 1970s, while others suggest its origins going back hundreds of years to other confidence scams such as the Spanish Prisoner scam.
 

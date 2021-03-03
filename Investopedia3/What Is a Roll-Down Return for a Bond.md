@@ -29,9 +29,9 @@ The size of the roll-down return varies greatly between long- and short-term dat
 
 ## Understanding a Roll-Down Return
 
-A bond investor may calculate the return on a bond in several ways. The [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM) is the rate of return that will be earned if the bond is held until it reaches its maturity date. The [current yield](https://www.investopedia.com/terms/c/currentyield.asp) is the total in coupon payments owed on the bond at the time it is purchased. The roll-down return is yet another method of evaluating a bond’s earnings.
+A bond investor may calculate the return on a bond in several ways. The [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM) is the rate of return that will be earned if the bond is held until it reaches its maturity date. The [[current yield]](https://www.investopedia.com/terms/c/currentyield.asp) is the total in coupon payments owed on the bond at the time it is purchased. The roll-down return is yet another method of evaluating a bond’s earnings.
 
-The roll-down return depends on the shape of the [yield curve](https://www.investopedia.com/terms/y/yieldcurve.asp), which is a graphical representation of the yields for a variety of maturities ranging from one month to 30 years. Assuming that the [yield curve is normal](https://www.investopedia.com/terms/n/normalyieldcurve.asp), that is upward sloping to the right, the rate earned on longer-term bonds will be higher than the yield earned from short-term bonds.
+The roll-down return depends on the shape of the [[yield curve]](https://www.investopedia.com/terms/y/yieldcurve.asp), which is a graphical representation of the yields for a variety of maturities ranging from one month to 30 years. Assuming that the [[yield curve is normal]](https://www.investopedia.com/terms/n/normalyieldcurve.asp), that is upward sloping to the right, the rate earned on longer-term bonds will be higher than the yield earned from short-term bonds.
 
 ## How the Roll-Down Strategy Works
 
@@ -43,7 +43,7 @@ In general, as its maturity date grows closer, a bond's interest rate moves clos
 
 ## Example of Roll-Down Process
 
-For example, assume a 10-year [Treasury yield](https://www.investopedia.com/terms/t/treasury-yield.asp) is 2.46% and a seven-year yield is 2.28%. After three years, the 10-year bond will become a seven-year bond.
+For example, assume a 10-year [[Treasury yield]](https://www.investopedia.com/terms/t/treasury-yield.asp) is 2.46% and a seven-year yield is 2.28%. After three years, the 10-year bond will become a seven-year bond.
 
 Because the difference in yield between the 10-year and 7-year is 2.46% - 2.28% = 0.18%, the seven-year bond can rise 0.18% over three years before exceeding the investor’s yield to maturity, that is, 2.46%.
 
@@ -51,6 +51,6 @@ Assuming that interest rates stay the same, this positive roll means that the pr
 
 In effect, the investor is earning money by rolling down the yield curve.
 
-Roll-down return works in two ways. The direction depends on whether the bond is trading [at a premium](https://www.investopedia.com/terms/a/at-a-premium.asp) or [at a discount](https://www.investopedia.com/terms/a/at-a-discount.asp) to its face value.
+Roll-down return works in two ways. The direction depends on whether the bond is trading [[at a premium]](https://www.investopedia.com/terms/a/at-a-premium.asp) or [[at a discount]](https://www.investopedia.com/terms/a/at-a-discount.asp) to its face value.
 
 If the bond is trading at a discount, the roll-down effect will be positive. This means the roll-down will pull the price up towards par. If the bond is trading at a premium the opposite will occur. The roll-down return will be negative and pull the price of the bond down back to par.

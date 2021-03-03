@@ -16,7 +16,7 @@ author: James Chen
 Troy Ounce
 ## What Is a Troy Ounce?
 
-A troy ounce is a unit of measure used for weighing [precious metals](https://www.investopedia.com/terms/p/preciousmetal.asp) that dates back to the Middle Ages. Originally used in Troyes, France, one troy ounce is equal to 31.1034768 grams, [according to the U.K. Royal Mint](https://articles.royalmintbullion.com/faqs/). One standard ounce, used to weigh other items such as sugar and grain, is slightly less at 28.35 grams. The troy ounce is retained even today as the standard unit of measurement in the [precious metals market](https://www.investopedia.com/articles/basics/09/precious-metals-gold-silver-platinum.asp) to ensure purity standards and other common measures remain consistent over time. The troy ounce is often abbreviated to read "t oz" or "oz t." 
+A troy ounce is a unit of measure used for weighing [[precious metals]](https://www.investopedia.com/terms/p/preciousmetal.asp) that dates back to the Middle Ages. Originally used in Troyes, France, one troy ounce is equal to 31.1034768 grams, [[according to the U.K. Royal Mint]](https://articles.royalmintbullion.com/faqs/). One standard ounce, used to weigh other items such as sugar and grain, is slightly less at 28.35 grams. The troy ounce is retained even today as the standard unit of measurement in the [[precious metals market]](https://www.investopedia.com/articles/basics/09/precious-metals-gold-silver-platinum.asp) to ensure purity standards and other common measures remain consistent over time. The troy ounce is often abbreviated to read "t oz" or "oz t." 
 
 ## Understanding Troy Ounce
 
@@ -29,7 +29,7 @@ Some historians believe the troy ounce had its origins in Roman times. Romans st
 -   A troy pound (12 troy ounces) is lighter than a standard pound (14.6 troy ounces).
 -   The troy ounce is the last remaining metric still used in the troy weighting system.
 
-The troy ounce is the only measure of the troy weighting system that is still used in modern times. It is used in the pricing of metals, such as gold, [platinum](https://www.investopedia.com/terms/p/platinum.asp), and silver.
+The troy ounce is the only measure of the troy weighting system that is still used in modern times. It is used in the pricing of metals, such as gold, [[platinum]](https://www.investopedia.com/terms/p/platinum.asp), and silver.
 
 JM Bullion says that before the adoption of the metric system in Europe, French-born King Henry II of England adjusted the British coinage system to be more reflective of the French troy system. The system was adjusted periodically, but troy weights, as we know them today, were first used in England in the 15th century. Before the adoption of the troy system, the British used an Anglo-Norman French system called the avoirdupois system, which means "goods of weight" and was also used to weigh both precious metal and non-precious metal items. By 1527, the troy ounce became the official standard measurement for gold and silver in Britain, and the US followed suit in 1828.
 

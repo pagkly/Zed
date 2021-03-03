@@ -16,13 +16,13 @@ author: Will Kenton
 Why Early Adopters Matter
 ## What Is Early Adopter?
 
-The term _early adopter_ refers to an individual or business who uses a new product, [innovation](https://www.investopedia.com/terms/d/diffusion-of-innovations-theory.asp), or technology before others. An early adopter is likely to pay more for the product than later adopters but accepts this [premium](https://www.investopedia.com/terms/p/premium.asp) if using the product improves efficiency, reduces cost, increases [market penetration](https://www.investopedia.com/terms/m/market-penetration.asp) or raises the early adopter's social status.
+The term _early adopter_ refers to an individual or business who uses a new product, [[innovation]](https://www.investopedia.com/terms/d/diffusion-of-innovations-theory.asp), or technology before others. An early adopter is likely to pay more for the product than later adopters but accepts this [[premium]](https://www.investopedia.com/terms/p/premium.asp) if using the product improves efficiency, reduces cost, increases [[market penetration]](https://www.investopedia.com/terms/m/market-penetration.asp) or raises the early adopter's social status.
 
-Companies rely on early adopters to provide feedback about product deficiencies and to cover the cost of the product's [research and development](https://www.investopedia.com/terms/r/randd.asp).
+Companies rely on early adopters to provide feedback about product deficiencies and to cover the cost of the product's [[research and development]](https://www.investopedia.com/terms/r/randd.asp).
 
 ## How an Early Adopter Works
 
-The [rate of diffusion, or adoption](https://www.investopedia.com/terms/r/rate-of-adoption.asp), of a new product by the market at large can vary according to the type of product and its price. Early adopters in the business world face a high level of risk in that they are using a product or technology that may not be perfected, and which may not work with the products used by suppliers and customers or may not be compatible with other products they own.
+The [[rate of diffusion, or adoption]](https://www.investopedia.com/terms/r/rate-of-adoption.asp), of a new product by the market at large can vary according to the type of product and its price. Early adopters in the business world face a high level of risk in that they are using a product or technology that may not be perfected, and which may not work with the products used by suppliers and customers or may not be compatible with other products they own.
 
 An early adopter is someone who uses a new product before everyone else.
 
@@ -34,7 +34,7 @@ For instance, after the introduction of high-definition television, early adopte
 
 In those early years, entertainment companies released movies, and other video content might have been published on one or the other format. This left early adopters with limited options on the content their disc players could access. Only rarely did content get published by entertainment companies for both standards. Eventually, the Blu-Ray platform became universally adopted for high definition video discs, leaving early adopters of HD DVD players with unsupported equipment that would have to be replaced.
 
-Early adopters may enjoy a period of prestige by being the first to own a new form of technology, yet they also face the high probability that the equipment or service they are using will be made obsolete in future iterations of the [product](https://www.investopedia.com/terms/p/product-family.asp). Contrast to [other categories of adopters](https://www.investopedia.com/terms/a/adopter-categories.asp).
+Early adopters may enjoy a period of prestige by being the first to own a new form of technology, yet they also face the high probability that the equipment or service they are using will be made obsolete in future iterations of the [[product]](https://www.investopedia.com/terms/p/product-family.asp). Contrast to [[other categories of adopters]](https://www.investopedia.com/terms/a/adopter-categories.asp).
 
 ### Key Takeaways
 

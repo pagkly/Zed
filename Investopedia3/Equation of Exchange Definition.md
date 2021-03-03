@@ -16,7 +16,7 @@ author: Investopedia Staff
 Equation of Exchange Definition
 ## What Is the Equation of Exchange?
 
-The equation of exchange is an economic identity that shows the relationship between money supply, the [velocity of money](https://www.investopedia.com/terms/v/velocity.asp), the [price level](https://www.investopedia.com/terms/p/price_level.asp), and an index of expenditures. English classical economist [John Stuart Mill](https://www.investopedia.com/terms/j/john-stuart-mill.asp) derived the equation of exchange, based on earlier ideas of David Hume. It says that the total amount of money that changes hands in the economy will always equal the total money value of the goods and services that change hands in the economy. 
+The equation of exchange is an economic identity that shows the relationship between money supply, the [[velocity of money]](https://www.investopedia.com/terms/v/velocity.asp), the [[price level]](https://www.investopedia.com/terms/p/price_level.asp), and an index of expenditures. English classical economist [[John Stuart Mill]](https://www.investopedia.com/terms/j/john-stuart-mill.asp) derived the equation of exchange, based on earlier ideas of David Hume. It says that the total amount of money that changes hands in the economy will always equal the total money value of the goods and services that change hands in the economy. 
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ M × V \= P × Qwhere:Q \= an index of real expendituresP × Q \= nominal g
 
 So now the equation of exchange says that total nominal expenditures is always equal to total nominal income.
 
-The equation of exchange has two primary uses. It represents the primary expression of the [quantity theory of money](https://www.investopedia.com/terms/q/quantity_theory_of_money.asp), which relates changes in the money supply to changes in the overall level of prices. Additionally, solving the equation for M can serve as an indicator of the demand for money in a macroeconomic model.
+The equation of exchange has two primary uses. It represents the primary expression of the [[quantity theory of money]](https://www.investopedia.com/terms/q/quantity_theory_of_money.asp), which relates changes in the money supply to changes in the overall level of prices. Additionally, solving the equation for M can serve as an indicator of the demand for money in a macroeconomic model.
 
 ## The Quantity Theory of Money
 
@@ -56,7 +56,7 @@ And differentiate with respect to time:
 
 dPdt \= dMdt\\frac{dP}{dt}\\ =\\ \\frac{dM}{dt}
 
-This means inflation will be proportional to any increase in the money supply. This then becomes the fundamental idea behind [monetarism](https://www.investopedia.com/terms/m/monetarism.asp) and the impetus for [Milton Friedman’s](https://www.investopedia.com/terms/m/milton-friedman.asp) dictum that, "Inflation is always and everywhere a monetary phenomenon."
+This means inflation will be proportional to any increase in the money supply. This then becomes the fundamental idea behind [[monetarism]](https://www.investopedia.com/terms/m/monetarism.asp) and the impetus for [[Milton Friedman’s]](https://www.investopedia.com/terms/m/milton-friedman.asp) dictum that, "Inflation is always and everywhere a monetary phenomenon."
 
 ## Money Demand
 
@@ -72,4 +72,4 @@ Or:
 
 MD \= (P × Q) × (1V)M\_D\\ =\\ \\left(P\\ \\times\\ Q\\right)\\ \\times\\ \\left(\\frac{1}{V}\\right)
 
-This means the demand for money is proportional to nominal income and the inverse of the velocity of money. Economists typically interpret the inverse of the velocity of money as the demand to hold cash balances, so this version of the equation of exchange shows that the demand for money in an economy is made up of demand for use in transactions, (P x Q), and [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) demand, (1/V).
+This means the demand for money is proportional to nominal income and the inverse of the velocity of money. Economists typically interpret the inverse of the velocity of money as the demand to hold cash balances, so this version of the equation of exchange shows that the demand for money in an economy is made up of demand for use in transactions, (P x Q), and [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) demand, (1/V).

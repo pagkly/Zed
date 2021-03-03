@@ -32,7 +32,7 @@ In another sense of the word, a custodian may be appointed to manage the assets 
 
 Investment advisory firms routinely use custodians to safeguard the assets they manage for their clients.
 
-Most custodians offer related services such as account administration, transaction settlements, collection of [dividends](https://www.investopedia.com/terms/d/dividend.asp) and interest payments, tax support, and foreign exchange management. The fees charged by custodians vary depending on the services that the client needs. Many firms charge quarterly custody fees based on the aggregate value of the holdings.
+Most custodians offer related services such as account administration, transaction settlements, collection of [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) and interest payments, tax support, and foreign exchange management. The fees charged by custodians vary depending on the services that the client needs. Many firms charge quarterly custody fees based on the aggregate value of the holdings.
 
 A custodian may have the right to assert possession of the assets if required, often in conjunction with a power of attorney. This allows the custodian to perform actions in the client's name, such as making payments or altering investments.
 

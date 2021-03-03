@@ -16,9 +16,9 @@ author: Adam Hayes
 How Negotiable Instruments Work
 ## What Is a Negotiable Instrument?
 
-A negotiable instrument is a signed document that promises a sum of payment to a specified person or the assignee. In other words, it is a formalized type of [IOU](https://www.investopedia.com/terms/i/iou.asp): A transferable, signed document that promises to pay the bearer a sum of money at a future date or on-demand. The payee, who is the person receiving the payment, must be named or otherwise indicated on the instrument.
+A negotiable instrument is a signed document that promises a sum of payment to a specified person or the assignee. In other words, it is a formalized type of [[IOU]](https://www.investopedia.com/terms/i/iou.asp): A transferable, signed document that promises to pay the bearer a sum of money at a future date or on-demand. The payee, who is the person receiving the payment, must be named or otherwise indicated on the instrument.
 
-Because they are transferable and assignable, some negotiable instruments may trade on a [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp).
+Because they are transferable and assignable, some negotiable instruments may trade on a [[secondary market]](https://www.investopedia.com/terms/s/secondarymarket.asp).
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ The term _negotiable_ refers to the fact that the note in question can be transf
 
 ## Examples of Negotiable Instruments
 
-One of the more common negotiable instruments is the personal check. It serves as a draft, payable by the payer’s [financial institution](https://www.investopedia.com/terms/f/financialinstitution.asp) upon receipt in the exact amount specified. Similarly, a cashier’s check provides the same function; however, it requires the funds to be allocated, or set aside, for the payee prior to the check being issued.
+One of the more common negotiable instruments is the personal check. It serves as a draft, payable by the payer’s [[financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) upon receipt in the exact amount specified. Similarly, a cashier’s check provides the same function; however, it requires the funds to be allocated, or set aside, for the payee prior to the check being issued.
 
 Money orders are similar to checks but may or may not be issued by the payer’s financial institution. Often, cash must be received from the payer prior to the money order being issued. Once the money order is received by the payee, it can be exchanged for cash in a manner consistent with the issuing entity's policies.
 

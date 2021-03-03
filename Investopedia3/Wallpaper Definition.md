@@ -16,9 +16,9 @@ author: Will Kenton
 Wallpaper Definition
 ## What Is Wallpaper?
 
-Wallpaper is the name given to stocks, bonds, and other securities that have become worthless. This colloquialism saw its beginnings when stocks and bonds existed as printed, physical certificates rather than digital identifying information stored on a [brokerage](https://www.investopedia.com/terms/b/brokerage-company.asp)'s server.
+Wallpaper is the name given to stocks, bonds, and other securities that have become worthless. This colloquialism saw its beginnings when stocks and bonds existed as printed, physical certificates rather than digital identifying information stored on a [[brokerage]](https://www.investopedia.com/terms/b/brokerage-company.asp)'s server.
 
-The name stuck, however, and denotes when a stock or bond certificate (or another exercisable right to securities such as stock [options](https://www.investopedia.com/terms/o/option.asp)) no longer has value due to a variety of reasons, most commonly, bankruptcy.
+The name stuck, however, and denotes when a stock or bond certificate (or another exercisable right to securities such as stock [[options]](https://www.investopedia.com/terms/o/option.asp)) no longer has value due to a variety of reasons, most commonly, bankruptcy.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The name stuck, however, and denotes when a stock or bond certificate (or anothe
 
 ## Understanding Wallpaper
 
-The term "wallpaper" implies that because the certificates are worthless, they may as well wallpaper your house with them. This was an actual practice during the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) that followed the [Stock Market Crash of 1929](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp). In that era, physical paper certificates represented actual ownership of shares of a company.
+The term "wallpaper" implies that because the certificates are worthless, they may as well wallpaper your house with them. This was an actual practice during the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp) that followed the [[Stock Market Crash of 1929]](https://www.investopedia.com/terms/s/stock-market-crash-1929.asp). In that era, physical paper certificates represented actual ownership of shares of a company.
 
 When the stock market crashed on Black Thursday (Oct. 25, 1929), $30 billion was quickly lost. That amount was twice the U.S. national debt at the time. Some 20,000 companies went bankrupt, which left many investors with a lot of worthless paper.
 
@@ -50,7 +50,7 @@ Old securities certificates have found a new life: as a collectible. Collectors
 
 Some popular examples are exceedingly rare, such as a Confederate States of America $1,000 bond and an 1887 stock certificate from Chadborn & Coldwell Manufacturing Co. (later Toro Co.) featuring a vignette of a boy mowing a lawn. Each is valued at about $2,500.
 
-The practice of collecting out-of-date or worthless "wallpaper" stock and bond certificates is called [scripophily](https://www.investopedia.com/terms/s/scripophily.asp).
+The practice of collecting out-of-date or worthless "wallpaper" stock and bond certificates is called [[scripophily]](https://www.investopedia.com/terms/s/scripophily.asp).
 
 ## Special Considerations
 

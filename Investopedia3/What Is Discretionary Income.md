@@ -18,7 +18,7 @@ What Is Discretionary Income?
 
 Discretionary income is the amount of an individual's income that is left for spending, investing, or saving after paying taxes and paying for personal necessities, such as food, shelter, and clothing.
 
-Discretionary income includes [money spent on luxury items, vacations](https://www.investopedia.com/financial-edge/0512/the-spending-habits-of-americans.aspx), and nonessential goods and services. Because discretionary income is the first to shrink amid a job loss or pay reduction, businesses that sell discretionary goods tend to suffer the most during economic downturns and recessions.
+Discretionary income includes [[money spent on luxury items, vacations]](https://www.investopedia.com/financial-edge/0512/the-spending-habits-of-americans.aspx), and nonessential goods and services. Because discretionary income is the first to shrink amid a job loss or pay reduction, businesses that sell discretionary goods tend to suffer the most during economic downturns and recessions.
 
 ## Understanding Discretionary Income
 
@@ -50,8 +50,8 @@ If their paycheck gets cut to $3,000 per month, they can still meet their essent
 
 ## Discretionary Income and the Economy
 
-Discretionary income is an important marker of economic health. Economists use it, along with disposable income, to derive other important economic ratios, such as the [marginal propensity to consume](https://www.investopedia.com/terms/m/marginalpropensitytoconsume.asp) (MPC), [marginal propensity to save](https://www.investopedia.com/terms/m/marginal-propensity-save.asp) (MPS), and consumer leverage ratios.
+Discretionary income is an important marker of economic health. Economists use it, along with disposable income, to derive other important economic ratios, such as the [[marginal propensity to consume]](https://www.investopedia.com/terms/m/marginalpropensitytoconsume.asp) (MPC), [[marginal propensity to save]](https://www.investopedia.com/terms/m/marginal-propensity-save.asp) (MPS), and consumer leverage ratios.
 
 In 2005, in the midst of a debt-fueled economic bubble, the U.S. personal savings rate went negative for four consecutive months. After paying for necessary expenses out of disposable income, the average consumer spent all of their discretionary income and then some, using credit cards and other debt instruments to make additional discretionary purchases beyond what they could afford.
 
-Aggregate discretionary income levels for an economy fluctuate over time, typically in line with [business cycle](https://www.investopedia.com/terms/i/inflation.asp) activity. When economic output is strong, as measured by the gross domestic product (GDP) or another gross measure, discretionary income levels tend to be high as well. If inflation occurs in the price of life's necessities, then discretionary income falls, assuming that wages and taxes remain relatively constant.
+Aggregate discretionary income levels for an economy fluctuate over time, typically in line with [[business cycle]](https://www.investopedia.com/terms/i/inflation.asp) activity. When economic output is strong, as measured by the gross domestic product (GDP) or another gross measure, discretionary income levels tend to be high as well. If inflation occurs in the price of life's necessities, then discretionary income falls, assuming that wages and taxes remain relatively constant.

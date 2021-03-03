@@ -16,7 +16,7 @@ author: James Chen
 White Candlestick Definition
 ## What Is a White Candlestick?
 
-A white candlestick depicts a period where the security's price has closed at a higher level than where it had opened. It is a point on a security's [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) chart representing a bullish period.
+A white candlestick depicts a period where the security's price has closed at a higher level than where it had opened. It is a point on a security's [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) chart representing a bullish period.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Candlestick charts are convenient for technical traders because they can easily 
 
 [Red/black candlesticks](https://www.investopedia.com/terms/r/red-candlestick.asp) are the opposite of white candlesticks. They represent a downward movement for the day. In a red/black candlestick, the closing price of a security is reported as lower than the opening price.
 
-The last possibility for charting a period's price action is where the open and close prices are identical. This is called a [doji](https://www.investopedia.com/terms/d/doji.asp) and is graphically portrayed by a dash, signifying that the charted security’s opening price is equal to its closing price.
+The last possibility for charting a period's price action is where the open and close prices are identical. This is called a [[doji]](https://www.investopedia.com/terms/d/doji.asp) and is graphically portrayed by a dash, signifying that the charted security’s opening price is equal to its closing price.
 
 ## Technical Analysis Indicators
 

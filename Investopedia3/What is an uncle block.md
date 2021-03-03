@@ -16,7 +16,7 @@ author: Will Kenton
 What is an uncle block?
 ## What Is an Uncle Block (Cryptocurrency)?
 
-Uncle blocks are created on [Ethereum](https://www.investopedia.com/terms/e/ethereum.asp)\-based blockchains, and they are similar to Bitcoin's [orphan block](https://www.investopedia.com/terms/o/orphan-block-cryptocurrency.asp).
+Uncle blocks are created on [[Ethereum]](https://www.investopedia.com/terms/e/ethereum.asp)\-based blockchains, and they are similar to Bitcoin's [[orphan block]](https://www.investopedia.com/terms/o/orphan-block-cryptocurrency.asp).
 
 In a process similar to the way Bitcoin creates orphan blocks, uncle blocks are created when more than one child block is created from a parent block. This situation is possible because all the nodes that maintain the ledger are not updated instantaneously when a new block is mined. Instead, you may have two blocks mined close together, but only one gets validated across nodes on the ledger. The one that is not validated is an uncle block.
 
@@ -28,9 +28,9 @@ In a process similar to the way Bitcoin creates orphan blocks, uncle blocks are
 
 ## Understanding Uncle Block (Cryptocurrency)
 
-A blockchain is formed by a growing chain of [blocks](https://www.investopedia.com/terms/b/block-bitcoin-block.asp) that store details of the various transactions occurring on the blockchain network. Miners continue to mine for the new blocks following the standard [mining](https://www.investopedia.com/terms/b/bitcoin-mining.asp) process implemented by the blockchain.
+A blockchain is formed by a growing chain of [[blocks]](https://www.investopedia.com/terms/b/block-bitcoin-block.asp) that store details of the various transactions occurring on the blockchain network. Miners continue to mine for the new blocks following the standard [mining](https://www.investopedia.com/terms/b/bitcoin-mining.asp) process implemented by the blockchain.
 
-A newly mined block is appended to the blockchain after verification, and the miner who found this new block is entitled to the [block reward](https://www.investopedia.com/terms/b/block-reward.asp). The [block height](https://www.investopedia.com/terms/b/block-height.asp), which indicates the length of the blockchain, increases after the addition of the new block.
+A newly mined block is appended to the blockchain after verification, and the miner who found this new block is entitled to the [[block reward]](https://www.investopedia.com/terms/b/block-reward.asp). The [[block height]](https://www.investopedia.com/terms/b/block-height.asp), which indicates the length of the blockchain, increases after the addition of the new block.
 
 However, at times, two different miners may generate a block simultaneously. This happens due to the working mechanism of the blockchain, which may not accept the newly identified blocks into the blockchain instantaneously.
 

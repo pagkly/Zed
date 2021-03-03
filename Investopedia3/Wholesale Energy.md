@@ -16,7 +16,7 @@ author: James Chen
 Wholesale Energy
 ## What is Wholesale Energy
 
-[Wholesale](https://www.investopedia.com/terms/w/wholesaling.asp) energy is a term referring to the bulk purchase and sale of energy products—primarily electricity, but also steam and natural gas—in the wholesale market by energy producers and energy retailers. Other participants in the wholesale energy market include financial intermediaries, energy traders, and large consumers. Wholesale energy markets developed following the [deregulation](https://www.investopedia.com/terms/d/deregulate.asp) and restructuring of utilities and electricity markets around the world in the 1990s.
+[Wholesale](https://www.investopedia.com/terms/w/wholesaling.asp) energy is a term referring to the bulk purchase and sale of energy products—primarily electricity, but also steam and natural gas—in the wholesale market by energy producers and energy retailers. Other participants in the wholesale energy market include financial intermediaries, energy traders, and large consumers. Wholesale energy markets developed following the [[deregulation]](https://www.investopedia.com/terms/d/deregulate.asp) and restructuring of utilities and electricity markets around the world in the 1990s.
 
 ## BREAKING DOWN Wholesale Energy
 

@@ -16,7 +16,7 @@ author:  Staff Author
 Tax Deed
 ## What Is a Tax Deed?
 
-The term “tax deed” refers to a legal document granting ownership of a property to a government body when the owner fails to pay any associated [property taxes](https://www.investopedia.com/terms/p/propertytax.asp). A tax deed gives the government agency the authority to sell the property to collect the [delinquent taxes](https://www.investopedia.com/terms/b/back-taxes.asp). Once sold, the property is then transferred to the purchaser. These transactions are called “tax deed sales” and are usually held at auctions.1 2
+The term “tax deed” refers to a legal document granting ownership of a property to a government body when the owner fails to pay any associated [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp). A tax deed gives the government agency the authority to sell the property to collect the [[delinquent taxes]](https://www.investopedia.com/terms/b/back-taxes.asp). Once sold, the property is then transferred to the purchaser. These transactions are called “tax deed sales” and are usually held at auctions.1 2
 
 ### Key Takeaways
 
@@ -45,13 +45,13 @@ Some states have a redemption period during which the original owner may pay bac
 
 While some states sell the title to the winning bidder the day of the tax deed sale auction, others will allow a redemption period during which the original owner has an opportunity to repay their tax debt and redeem the property. If the owner chooses to pay their debt obligations within this period, they must pay the winning bidder the amount bid at the auction plus interest, which can be quite high.
 
-However, if the redemption period passes, and the owner still does not reclaim their property deed, the highest bidder has a [chance to foreclose on the property](https://www.investopedia.com/financial-edge/0510/the-6-phases-of-a-foreclosure.aspx). The redemption period in Idaho, for example, is 14 months, while owners in Iowa have one year and nine months to redeem their property.6 7
+However, if the redemption period passes, and the owner still does not reclaim their property deed, the highest bidder has a [[chance to foreclose on the property]](https://www.investopedia.com/financial-edge/0510/the-6-phases-of-a-foreclosure.aspx). The redemption period in Idaho, for example, is 14 months, while owners in Iowa have one year and nine months to redeem their property.6 7
 
 ## Tax Deeds vs. Tax Liens
 
 [Tax liens](https://www.investopedia.com/terms/t/taxlien.asp) are similar to tax deeds, but there are some subtle differences. While tax deeds transfer ownership of the property itself to a new party, tax liens are a legal claim against the property when the taxes aren’t paid. Tax liens provide a relatively cheap investment for investors with a guaranteed return. Liens can cost anywhere from a few hundred to a few thousand dollars and pay simple interest that accrues on a monthly basis.
 
-Here’s how the process works. A government body places a lien against a property if its owner defaults on their property taxes. These liens, which prevent owners from doing anything with the property, including [refinancing](https://www.investopedia.com/terms/r/refinance.asp) or selling it, are sold off at auction rather than the property itself. Interested parties can invest in these tax liens by bidding for them. The return is based on a maximum rate of interest allowed by the municipality.
+Here’s how the process works. A government body places a lien against a property if its owner defaults on their property taxes. These liens, which prevent owners from doing anything with the property, including [[refinancing]](https://www.investopedia.com/terms/r/refinance.asp) or selling it, are sold off at auction rather than the property itself. Interested parties can invest in these tax liens by bidding for them. The return is based on a maximum rate of interest allowed by the municipality.
 
 When a property owner defaults on their property, the municipality sends a notice advising them of the upcoming tax lien. If the owner doesn’t bring the taxes up to date, the tax lien is then put up for auction. The lien is transferred to the highest bidder, who pays the outstanding tax amount to the municipality. In order to remove the lien, the property owner must pay the new lien owner the outstanding amount plus interest.
 

@@ -16,9 +16,9 @@ author: Alexandra Twin
 Participatory Notes Allow Foreign Investors to Buy Indian Securities
 ## What Are Participatory Notes?
 
-Participatory notes also referred to as P-Notes, or PNs, are financial instruments required by investors or [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) to invest in Indian securities without having to register with the [Securities and Exchange Board of India](https://www.investopedia.com/terms/s/sebi.asp) (SEBI). P-Notes are among the group of investments considered to be Offshore Derivative Investments (ODIs). Citigroup ([C](https://www.investopedia.com/markets/quote?tvwidgetsymbol=c)) and Deutsche Bank ([DB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=db)) are among the biggest issuers of these instruments.
+Participatory notes also referred to as P-Notes, or PNs, are financial instruments required by investors or [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) to invest in Indian securities without having to register with the [[Securities and Exchange Board of India]](https://www.investopedia.com/terms/s/sebi.asp) (SEBI). P-Notes are among the group of investments considered to be Offshore Derivative Investments (ODIs). Citigroup ([C](https://www.investopedia.com/markets/quote?tvwidgetsymbol=c)) and Deutsche Bank ([DB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=db)) are among the biggest issuers of these instruments.
 
-Any dividends or capital gains collected from the securities goes back to the investors. Indian regulators are generally not in support of participatory notes because they fear that hedge funds acting through participatory notes will cause [economic volatility](https://www.investopedia.com/terms/v/volatility.asp) in India's exchanges.
+Any dividends or capital gains collected from the securities goes back to the investors. Indian regulators are generally not in support of participatory notes because they fear that hedge funds acting through participatory notes will cause [[economic volatility]](https://www.investopedia.com/terms/v/volatility.asp) in India's exchanges.
 
 ## Participatory Notes Explained
 
@@ -35,7 +35,7 @@ This system lets unregistered overseas investors buy Indian shares without the 
 
 ## How Do Participatory Notes Work?
 
-Participatory notes are offshore [derivative](https://www.investopedia.com/terms/d/derivative.asp) instruments with Indian shares as underlying assets. Brokers and foreign institutional investors registered with the Securities and Exchange Board of India (SEBI) issue the participatory notes and invest on behalf of the foreign investors. Brokers must report their participatory note issuance status to the regulatory board each quarter. The notes allow foreign investors with high net worth, hedge funds, and other investors, to participate in the Indian markets without registering with the SEBI. Investors save time, money and scrutiny associated with direct registration.
+Participatory notes are offshore [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) instruments with Indian shares as underlying assets. Brokers and foreign institutional investors registered with the Securities and Exchange Board of India (SEBI) issue the participatory notes and invest on behalf of the foreign investors. Brokers must report their participatory note issuance status to the regulatory board each quarter. The notes allow foreign investors with high net worth, hedge funds, and other investors, to participate in the Indian markets without registering with the SEBI. Investors save time, money and scrutiny associated with direct registration.
 
 ## Pros and Cons of Participatory Notes
 
@@ -49,7 +49,7 @@ SEBI has no jurisdiction over participatory note trading. Although foreign insti
 
 This inability to track money is also why the Special Investigation Team (SIT) would like stricter compliance measures for the trading of participatory notes. The SIT is a specialized team of officers in Indian law enforcement which consists of personnel who have been trained to investigate serious crimes.
 
-However, when the government [proposed trade restrictions](https://www.investopedia.com/terms/p/primary-regulator.asp) on the notes in the past, the Indian market became extremely volatile. For example, in October 2007, the government announced it was considering curbing participatory note trading. The announcement caused the Sensex index to plummet 1,744 points during the day's session, which was greater than an eight percent drop at the time.
+However, when the government [[proposed trade restrictions]](https://www.investopedia.com/terms/p/primary-regulator.asp) on the notes in the past, the Indian market became extremely volatile. For example, in October 2007, the government announced it was considering curbing participatory note trading. The announcement caused the Sensex index to plummet 1,744 points during the day's session, which was greater than an eight percent drop at the time.
 
 This market disturbance was in response to investor and government worries that the curbing of the P-Notes would be a direct hit on the Indian economy. That is because foreign institutional investors help fuel the growth of the Indian economy, industries, and capital markets, and increasing regulation would make it more difficult for foreign money to enter the market. The government ultimately decided not to regulate participatory notes.
 

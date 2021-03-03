@@ -16,7 +16,7 @@ author: James Chen
 Graduated Lease
 ## What Is a Graduated Lease?
 
-A graduated lease is an agreement under which a tenant and [landlord](https://www.investopedia.com/terms/l/landlord.asp) agree to a periodic adjustment of monthly payments. For example, the agreement may reflect an increase in the tenant’s payments due to market conditions or an increase in the value of the leased property.
+A graduated lease is an agreement under which a tenant and [[landlord]](https://www.investopedia.com/terms/l/landlord.asp) agree to a periodic adjustment of monthly payments. For example, the agreement may reflect an increase in the tenant’s payments due to market conditions or an increase in the value of the leased property.
 
 ## How a Graduated Lease Works
 
@@ -30,7 +30,7 @@ A graduated lease tends to benefit the property owner over the long term, but th
 
 Graduated leases are also known as graded leases. Graduated leases tend to be structured for longer terms than traditional straight or fixed leases, which typically have one to two-year terms.
 
-From a lender’s perspective, a graduated lease is a better fit for real estate agreements than equipment agreements because real estate values tend to [appreciate](https://www.investopedia.com/terms/a/appreciation.asp) over time. A lessor would be unlikely to offer a graduated lease on an automobile, for instance, because the value of a car depreciates steadily over time. This depreciation could lead to decreasing monthly payments.
+From a lender’s perspective, a graduated lease is a better fit for real estate agreements than equipment agreements because real estate values tend to [[appreciate]](https://www.investopedia.com/terms/a/appreciation.asp) over time. A lessor would be unlikely to offer a graduated lease on an automobile, for instance, because the value of a car depreciates steadily over time. This depreciation could lead to decreasing monthly payments.
 
 ## Triggers for Rent Increase Under a Graduated Lease
 
@@ -39,4 +39,4 @@ Traditionally, adjustments in graduated leases occur due to one of the following
 -   An escalator clause. Many graduated lease agreements contain an escalator clause triggered by a rise in an economic index. This can also be known as an index clause. The Consumer Price Index (CPI) or 10-year U.S. Treasury Bond are common benchmarks. When prices rise, the landlord can raise monthly lease payments.
 -   A reappraisal clause. A lease agreement may also contain a reappraisal clause which allows for a hike in rent following an annual appraisal of the property. Again, this is likely only to result in an increase in rent.
 -   A participation clause. This type of clause can force the tenant to contribute to increases in expenses such as utilities, taxes, or maintenance. These hikes can be limited by an expense stop provision.
--   A [step-up lease](https://www.investopedia.com/terms/s/step-up-lease.asp). This type of lease is a form of graduated lease whereby increases in rent are built into the agreement and may be used for the lease of an asset that will depreciate in value, such as machinery. A start-up may enter into a step-up lease to avoid large payments upfront to buy machinery. The start-up anticipates future cash flows arising from the use of the equipment that will allow them to cover larger payments in the future.
+-   A [[step-up lease]](https://www.investopedia.com/terms/s/step-up-lease.asp). This type of lease is a form of graduated lease whereby increases in rent are built into the agreement and may be used for the lease of an asset that will depreciate in value, such as machinery. A start-up may enter into a step-up lease to avoid large payments upfront to buy machinery. The start-up anticipates future cash flows arising from the use of the equipment that will allow them to cover larger payments in the future.

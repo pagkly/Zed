@@ -26,9 +26,9 @@ Home office expenses are expenses incurred from the operation of a business or t
 
 ## Understanding Home Office Expenses
 
-Home office expenses allow individuals to deduct some housing expenses such as utilities, interest paid towards the property’s [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) and property taxes on their annual tax return.1
+Home office expenses allow individuals to deduct some housing expenses such as utilities, interest paid towards the property’s [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) and property taxes on their annual tax return.1
 
-The IRS provides the details for the rules on home office deductions in [Publication 587](https://www.irs.gov/pub/irs-pdf/p587.pdf).
+The IRS provides the details for the rules on home office deductions in [[Publication 587]](https://www.irs.gov/pub/irs-pdf/p587.pdf).
 
 ### Home Office Deductions
 
@@ -88,11 +88,11 @@ Once you have this information you can calculate your deduction with these steps
 2.  Subtract the expenses from the business that are not related to the use of the home from the gross income related to the business use of the home. If these expenses are greater than the gross income from the business use of the home, then you cannot take a deduction for this business use of the home.
 3.  Take the smaller of the amounts from (1) and (2). This is the amount you can deduct for this qualified business use of your home using the simplified method.
 
-Other rules apply that limit the filer's ability to use the simplified method. For example, if you share the space with another person you can't both deduct the same space.10 Other restrictions are listed in [Publication 587](https://www.irs.gov/pub/irs-pdf/p587.pdf).
+Other rules apply that limit the filer's ability to use the simplified method. For example, if you share the space with another person you can't both deduct the same space.10 Other restrictions are listed in [[Publication 587]](https://www.irs.gov/pub/irs-pdf/p587.pdf).
 
 ## Real World Examples of Home Office Expenses
 
-As an example, consider a [freelance](https://www.investopedia.com/taxes/file-early-tax-return/) writer who operates their own business out of their home. They have a dedicated office space which is approximately 200 square feet, a cell phone that is only used for work-related calls and a subscription to a magazine that provides editorial leads to writers. All these items are tax-deductible as home office expenses, including the 200 square feet of the writer’s house, since that room is used for business purposes.
+As an example, consider a [[freelance]](https://www.investopedia.com/taxes/file-early-tax-return/) writer who operates their own business out of their home. They have a dedicated office space which is approximately 200 square feet, a cell phone that is only used for work-related calls and a subscription to a magazine that provides editorial leads to writers. All these items are tax-deductible as home office expenses, including the 200 square feet of the writer’s house, since that room is used for business purposes.
 
 Additionally, the writer can deduct the ink that they use to print contracts out, the full cost of the all-in-one printer that they had to purchase to be able to send those signed contracts in and any industry-related training they complete.
 
@@ -100,6 +100,6 @@ Additionally, the writer can deduct the ink that they use to print contracts out
 
 Because the Tax Cuts and Jobs Act limited the amount of property tax filers can deduct, you cannot use the home office deduction to deduct the full amount of your property tax if it exceeds $10,000.11
 
-There are a variety of expenses that can be deducted when a person works out of their home, whether it be as a remote employee or because they are self-employed. A certified [tax](https://www.investopedia.com/terms/t/tax-accounting.asp) specialist can review available deductions and make sure that all items that are being claimed are valid.
+There are a variety of expenses that can be deducted when a person works out of their home, whether it be as a remote employee or because they are self-employed. A certified [[tax]](https://www.investopedia.com/terms/t/tax-accounting.asp) specialist can review available deductions and make sure that all items that are being claimed are valid.
 
 For instance, if this freelance writer didn’t have a dedicated office space and instead worked out of the coffee shop around the corner from their house every day, they wouldn’t be able to claim the utility and mortgage associated costs as part of their home office deduction. There may be additional deductions available to them, like the coffee and donut they purchase each day while working out of the shop.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding Lapping Schemes
 ## What Is a Lapping Scheme?
 
-A lapping scheme is a [fraudulent](https://www.investopedia.com/terms/f/fraud.asp) practice that involves altering [accounts receivables](https://www.investopedia.com/terms/a/accountsreceivable.asp) to hide stolen cash. The method involves taking a subsequent receivables payment from a transaction (for example, a sale) and using that to cover the theft. The receivable from the second transaction is covered by money from the third transaction, and so on.
+A lapping scheme is a [[fraudulent]](https://www.investopedia.com/terms/f/fraud.asp) practice that involves altering [[accounts receivables]](https://www.investopedia.com/terms/a/accountsreceivable.asp) to hide stolen cash. The method involves taking a subsequent receivables payment from a transaction (for example, a sale) and using that to cover the theft. The receivable from the second transaction is covered by money from the third transaction, and so on.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A lapping scheme is a [fraudulent](https://www.investopedia.com/terms/f/fraud.as
 
 A lapping scheme can be detected by tracing how cash receipts have been applied to customer accounts. If there is evidence that cash receipts are routinely being applied to the wrong customer accounts, then there is likely an active lapping scheme in progress.
 
-Another indicator of a lapping scheme is an employee who refuses to take the vacation time they've earned. This is because lapping requires that the 'lapper' (the individual engaged in the fraud) is involved every day, and so is unable to take any vacation time. One telltale sign of lapping is a rise in the [aging of accounts receivable](https://www.investopedia.com/terms/a/accounts-receivable-aging.asp). A lapping scheme can only temporarily hide the theft. Sooner or later, the shortfall will show up and have to be recorded as a loss.
+Another indicator of a lapping scheme is an employee who refuses to take the vacation time they've earned. This is because lapping requires that the 'lapper' (the individual engaged in the fraud) is involved every day, and so is unable to take any vacation time. One telltale sign of lapping is a rise in the [[aging of accounts receivable]](https://www.investopedia.com/terms/a/accounts-receivable-aging.asp). A lapping scheme can only temporarily hide the theft. Sooner or later, the shortfall will show up and have to be recorded as a loss.
 
 Lapping schemes typically happen in smaller companies where only one person may handle cash receipts and customer billing.
 

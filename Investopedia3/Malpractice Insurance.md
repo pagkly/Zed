@@ -16,7 +16,7 @@ author: Julia Kagan
 Malpractice Insurance
 ## What Is Malpractice Insurance?
 
-Malpractice insurance is a type of [professional liability insurance](https://www.investopedia.com/terms/p/professional-liability-insurance.asp) purchased by healthcare professionals. This [insurance coverage](https://www.investopedia.com/terms/i/insurance-coverage.asp) protects healthcare providers against patients who file suits against them under the complaint that they were harmed by the professional's negligence or intentionally harmful treatment decisions. Malpractice insurance also covers the death of a patient.
+Malpractice insurance is a type of [[professional liability insurance]](https://www.investopedia.com/terms/p/professional-liability-insurance.asp) purchased by healthcare professionals. This [[insurance coverage]](https://www.investopedia.com/terms/i/insurance-coverage.asp) protects healthcare providers against patients who file suits against them under the complaint that they were harmed by the professional's negligence or intentionally harmful treatment decisions. Malpractice insurance also covers the death of a patient.
 
 ### Key Takeaways
 
@@ -35,15 +35,15 @@ Medical negligence can happen during diagnosis, during treatment, or as part of 
 
 Some studies show that more than 17,000 malpractice lawsuits are brought to healthcare professionals every year in the United States. An average U.S. doctor can expect to have a malpractice lawsuit brought against them once every seven years. This underlines the importance of having malpractice insurance for a healthcare professional.
 
-States require that medical professionals have current malpractice coverage to work in hospitals and other medical facilities. Medical malpractice insurance premiums are usually based on the physician's specialty and geographic location, not on [claims](https://www.investopedia.com/terms/i/insurance_claim.asp) experience. This means that even if a physician has never been sued, they can end up paying extremely high premiums. The [premiums](https://www.investopedia.com/terms/p/premium.asp) can be high because of such factors as the amount of coverage needed, claims severity, claims frequency, location of practice, and laws in the area.
+States require that medical professionals have current malpractice coverage to work in hospitals and other medical facilities. Medical malpractice insurance premiums are usually based on the physician's specialty and geographic location, not on [[claims]](https://www.investopedia.com/terms/i/insurance_claim.asp) experience. This means that even if a physician has never been sued, they can end up paying extremely high premiums. The [[premiums]](https://www.investopedia.com/terms/p/premium.asp) can be high because of such factors as the amount of coverage needed, claims severity, claims frequency, location of practice, and laws in the area.
 
 ## Types of Malpractice Insurance
 
-There are many options for procuring malpractice insurance. In the most basic form, an insurance policy can be purchased for an individual or group by a private insurer. Individual or group policies can also be purchased by a medical [risk retention group](https://www.investopedia.com/terms/r/risk-retention-group-rrg.asp) (RRG). An RRG is a group of medical professionals organized to provide malpractice insurance. Another option for obtaining malpractice insurance is under the coverage plan of an employer, such as a hospital.
+There are many options for procuring malpractice insurance. In the most basic form, an insurance policy can be purchased for an individual or group by a private insurer. Individual or group policies can also be purchased by a medical [[risk retention group]](https://www.investopedia.com/terms/r/risk-retention-group-rrg.asp) (RRG). An RRG is a group of medical professionals organized to provide malpractice insurance. Another option for obtaining malpractice insurance is under the coverage plan of an employer, such as a hospital.
 
 Individuals that work as medical professionals under the government do not need to obtain malpractice insurance as the federal government insures against liability claims. Insurance can often also be obtained through state and local agencies if the situation deems it necessary.
 
-The two types of policies that a healthcare professional can purchase are a [claims-made policy](https://www.investopedia.com/terms/c/claimsmade-policy.asp) or an [occurrence policy](https://www.investopedia.com/terms/o/occurrence-policy.asp). A claims-made policy only covers claims if the policy was in effect when the treatment occurred and when the lawsuit was made. An occurrence policy covers any claim that was made on a treatment that occurred while the policy was in effect, even if the policy has since expired.
+The two types of policies that a healthcare professional can purchase are a [[claims-made policy]](https://www.investopedia.com/terms/c/claimsmade-policy.asp) or an [[occurrence policy]](https://www.investopedia.com/terms/o/occurrence-policy.asp). A claims-made policy only covers claims if the policy was in effect when the treatment occurred and when the lawsuit was made. An occurrence policy covers any claim that was made on a treatment that occurred while the policy was in effect, even if the policy has since expired.
 
 The types of costs covered under a malpractice policy are wide. They include all legal fees, such as lawyer fees, settlement and arbitration costs, medical damages, and punitive damages.
 

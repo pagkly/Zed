@@ -16,7 +16,7 @@ author: Adam Hayes
 Portfolio Variance
 ## What Is Portfolio Variance?
 
-Portfolio variance is a measurement of risk, of how the aggregate [actual returns](https://www.investopedia.com/terms/a/actualreturn.asp) of a set of securities making up a portfolio fluctuate over time. This portfolio [variance](https://www.investopedia.com/terms/v/variance.asp) statistic is calculated using the [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) of each security in the portfolio as well as the [correlations](https://www.investopedia.com/terms/c/correlation.asp) of each security pair in the portfolio.
+Portfolio variance is a measurement of risk, of how the aggregate [[actual returns]](https://www.investopedia.com/terms/a/actualreturn.asp) of a set of securities making up a portfolio fluctuate over time. This portfolio [[variance]](https://www.investopedia.com/terms/v/variance.asp) statistic is calculated using the [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp) of each security in the portfolio as well as the [[correlations]](https://www.investopedia.com/terms/c/correlation.asp) of each security pair in the portfolio.
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ Portfolio variance is a measurement of risk, of how the aggregate [actual return
 
 ## Understanding Portfolio Variance
 
-Portfolio variance looks at the [covariance](https://www.investopedia.com/terms/c/covariance.asp) or [correlation coefficients](https://www.investopedia.com/terms/c/correlationcoefficient.asp) for the securities in a portfolio. Generally, a lower correlation between securities in a portfolio results in a lower portfolio variance.
+Portfolio variance looks at the [[covariance]](https://www.investopedia.com/terms/c/covariance.asp) or [[correlation coefficients]](https://www.investopedia.com/terms/c/correlationcoefficient.asp) for the securities in a portfolio. Generally, a lower correlation between securities in a portfolio results in a lower portfolio variance.
 
-Portfolio variance is calculated by multiplying the squared weight of each security by its corresponding variance and adding twice the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) weight multiplied by the covariance of all individual security pairs.
+Portfolio variance is calculated by multiplying the squared weight of each security by its corresponding variance and adding twice the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) weight multiplied by the covariance of all individual security pairs.
 
-[Modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) says that portfolio variance can be reduced by choosing asset classes with a low or [negative correlation](https://www.investopedia.com/terms/n/negative-correlation.asp), such as stocks and bonds, where the variance (or standard deviation) of the portfolio is the x-axis of the [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp).
+[Modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) says that portfolio variance can be reduced by choosing asset classes with a low or [[negative correlation]](https://www.investopedia.com/terms/n/negative-correlation.asp), such as stocks and bonds, where the variance (or standard deviation) of the portfolio is the x-axis of the [[efficient frontier]](https://www.investopedia.com/terms/e/efficientfrontier.asp).
 
 ## Formula and Calculation of Portfolio Variance
 
@@ -55,13 +55,13 @@ As the number of assets in the portfolio grows, the terms in the formula for var
 
 ## Portfolio Variance and Modern Portfolio Theory
 
-[Modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) is a framework for constructing an investment portfolio. MPT takes as its central premise the idea that rational investors want to maximize returns while also minimizing risk, sometimes measured using [volatility](https://www.investopedia.com/terms/v/volatility.asp). Investors seek what is called an efficient frontier, or the lowest level of risk and volatility at which a target return can be achieved.
+[Modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) is a framework for constructing an investment portfolio. MPT takes as its central premise the idea that rational investors want to maximize returns while also minimizing risk, sometimes measured using [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). Investors seek what is called an efficient frontier, or the lowest level of risk and volatility at which a target return can be achieved.
 
 Risk is lowered in MPT portfolios by investing in non-correlated assets. Assets that might be risky on their own can actually lower the overall risk of a portfolio by introducing an investment that will rise when other investments fall. This reduced correlation can reduce the variance of a theoretical portfolio.
 
-In this sense, an individual investment's return is less important than its overall contribution to the portfolio, in terms of risk, return, and [diversification](https://www.investopedia.com/terms/d/diversification.asp).
+In this sense, an individual investment's return is less important than its overall contribution to the portfolio, in terms of risk, return, and [[diversification]](https://www.investopedia.com/terms/d/diversification.asp).
 
-The level of risk in a portfolio is often measured using standard deviation, which is calculated as the square root of the variance. If data points are far away from the mean, the variance is high, and the overall level of risk in the portfolio is high as well. [Standard deviation is a key measure of risk](https://www.investopedia.com/ask/answers/021915/how-standard-deviation-used-determine-risk.asp) used by portfolio managers, financial advisors, and institutional investors. Asset managers routinely include standard deviation in their performance reports.
+The level of risk in a portfolio is often measured using standard deviation, which is calculated as the square root of the variance. If data points are far away from the mean, the variance is high, and the overall level of risk in the portfolio is high as well. [[Standard deviation is a key measure of risk]](https://www.investopedia.com/ask/answers/021915/how-standard-deviation-used-determine-risk.asp) used by portfolio managers, financial advisors, and institutional investors. Asset managers routinely include standard deviation in their performance reports.
 
 ## Example of Portfolio Variance
 

@@ -16,7 +16,7 @@ author: Claire Boyte-White
 Land Trust
 ## What Is a Land Trust?
 
-A land trust is a legal entity that takes ownership of, or authority over, a piece of property at the behest of the property owner. Like other [types of trust](https://www.investopedia.com/articles/pf/08/trust-basics.asp), each land trust's terms are unique.
+A land trust is a legal entity that takes ownership of, or authority over, a piece of property at the behest of the property owner. Like other [[types of trust]](https://www.investopedia.com/articles/pf/08/trust-basics.asp), each land trust's terms are unique.
 
 ### Key Takeaways
 
@@ -38,13 +38,13 @@ Start by understanding the two types of land trust.
 
 In a title-holding land trust, the landowner signs a document called a Deed in Trust, which transfers legal ownership of the property. When setting up the trust, the landowner (who is both the trust grantor and the beneficiary) can specify how the land is to be managed, who has control over it, and how any income it produces is distributed. This means that while the trust is the title-holder on paper, the landowner maintains complete control over the property.
 
-Title-holding trusts are used as a way for property owners to maintain anonymity and keep valuable assets out of probate. They can also provide a number of other estate planning benefits and [protect assets from judgments](https://www.investopedia.com/articles/retirement/07/buildawall.asp) or liens. This can be especially useful for the very wealthy, celebrities, and large companies who may want to keep development plans under wraps.
+Title-holding trusts are used as a way for property owners to maintain anonymity and keep valuable assets out of probate. They can also provide a number of other estate planning benefits and [[protect assets from judgments]](https://www.investopedia.com/articles/retirement/07/buildawall.asp) or liens. This can be especially useful for the very wealthy, celebrities, and large companies who may want to keep development plans under wraps.
 
 A case in point: The famous Walt Disney World Resort in Orlando, Fla., was initially purchased in 1965 using a title-holding land trust. The original owners of the Florida swamplands upon which the resort is built had no idea that Disney, already a household name at the time, was behind the purchase. Had they been aware of the buyer's identity, they likely would have increased their asking price.
 
 ### Conservation Land Trusts
 
-In a conservation land trust, the trust doesn't necessarily take over the land title unless the property is donated in its entirety. Instead, a landowner can enter into a legally binding agreement, called a conservation [easement](https://www.investopedia.com/terms/e/easement.asp), thereby "donating" their development rights to the trust. The trust is tasked with ensuring the easement is enforced and, in some cases, managing the property.
+In a conservation land trust, the trust doesn't necessarily take over the land title unless the property is donated in its entirety. Instead, a landowner can enter into a legally binding agreement, called a conservation [[easement]](https://www.investopedia.com/terms/e/easement.asp), thereby "donating" their development rights to the trust. The trust is tasked with ensuring the easement is enforced and, in some cases, managing the property.
 
 Conservation easements can be tailored so that the landowner retains ownership and usage rights—such as the right to continue farming or raising livestock—while still ensuring that the land remains undeveloped in perpetuity. Conservation easements "follow the land," which means that the terms of the easement remain in force even if the land is sold or passed to heirs.
 
@@ -62,7 +62,7 @@ Typically, landowners are either farmers and ranchers who have owned the propert
 
 ### Investing in conservation easements...
 
-Using a multi-member [partnership](https://www.investopedia.com/terms/p/partnership.asp) (or 'syndicate'), these investment companies allow multiple accredited investors to pool their money to purchase land for conservation. After donating the property development rights to a land trust via a conservation easement, the members of the partnership split the tax deduction pro rata. Thanks, in part, to these conservation partnerships, it is estimated that land conservation increased by 175% between 2005 and 2015.
+Using a multi-member [[partnership]](https://www.investopedia.com/terms/p/partnership.asp) (or 'syndicate'), these investment companies allow multiple accredited investors to pool their money to purchase land for conservation. After donating the property development rights to a land trust via a conservation easement, the members of the partnership split the tax deduction pro rata. Thanks, in part, to these conservation partnerships, it is estimated that land conservation increased by 175% between 2005 and 2015.
 
 ### ...And the controversy over conservation easement investing
 

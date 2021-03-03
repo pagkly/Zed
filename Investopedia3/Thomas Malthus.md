@@ -16,7 +16,7 @@ author: Julia Kagan
 Thomas Malthus
 ## Who Is Thomas Malthus?
 
-Thomas Robert Malthus was a famous 18th-century British [economist](https://www.investopedia.com/articles/economics/08/economic-thought.asp) known for the population growth philosophies outlined in his 1798 book "An Essay on the Principle of Population." In it, Malthus theorized that populations would continue expanding until growth is stopped or reversed by disease, famine, war, or calamity. He is also known for developing an exponential formula used to forecast population growth, which is currently known as the Malthusian growth model.
+Thomas Robert Malthus was a famous 18th-century British [[economist]](https://www.investopedia.com/articles/economics/08/economic-thought.asp) known for the population growth philosophies outlined in his 1798 book "An Essay on the Principle of Population." In it, Malthus theorized that populations would continue expanding until growth is stopped or reversed by disease, famine, war, or calamity. He is also known for developing an exponential formula used to forecast population growth, which is currently known as the Malthusian growth model.
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ Thomas Robert Malthus was a famous 18th-century British [economist](https://www.
 
 In the 18th and early 19th centuries, philosophers broadly believed that humanity would continue growing and tilting toward utopianism. Malthus countered this belief, arguing that segments of the general population have always been invariably poor and miserable, which effectively slowed population growth.
 
-After observing conditions in England in the early 1800s, Malthus penned "An Inquiry into the Nature and Progress of Rent" (1815) and "Principles of Political Economy" (1820), in which he argued that the available [farmland](https://www.investopedia.com/articles/investing/091615/how-invest-farming-without-owning-farm.asp) was insufficient to feed the increasing world population. Malthus specifically stated that the human population increases geometrically, while food production increases arithmetically. Under this paradigm, humans would eventually be unable to produce enough food to sustain themselves.
+After observing conditions in England in the early 1800s, Malthus penned "An Inquiry into the Nature and Progress of Rent" (1815) and "Principles of Political Economy" (1820), in which he argued that the available [[farmland]](https://www.investopedia.com/articles/investing/091615/how-invest-farming-without-owning-farm.asp) was insufficient to feed the increasing world population. Malthus specifically stated that the human population increases geometrically, while food production increases arithmetically. Under this paradigm, humans would eventually be unable to produce enough food to sustain themselves.
 
 This theory was criticized by economists and ultimately disproved. Even as the human population continues to increase, technological developments and migration have ensured that the percentage of people living below the poverty line continues to decline. In addition, global interconnectedness stimulates the flow of aid from food-rich nations to developing regions.
 
 In India, which boasts the world's second-biggest population, the Green Revolution in the state of Punjab helped feed its growing population. In western economies like Germany, which was battered during World War II, population increases did not hamper development.
 
-Famous naturalist Charles Darwin partially based his [natural selection](https://www.investopedia.com/terms/n/natural-selection.asp) theory on Malthus' analysis of population growth. Furthermore, Malthus' views enjoyed a resurgence in the 20th century, with the advent of Keynesian economics.
+Famous naturalist Charles Darwin partially based his [[natural selection]](https://www.investopedia.com/terms/n/natural-selection.asp) theory on Malthus' analysis of population growth. Furthermore, Malthus' views enjoyed a resurgence in the 20th century, with the advent of Keynesian economics.
 
 When Malthus joined the faculty as a professor of history and political economy at the East India Company's college at Haileybury, this marked the first time the term "political economy" was introduced in academic circles.1 
 

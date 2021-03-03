@@ -16,9 +16,9 @@ author: Adam Hayes
 How Multipliers Impact Economics
 ## What Is a Multiplier?
 
-In economics, a multiplier broadly refers to an economic factor that, when increased or changed, causes increases or changes in many other related economic variables. In terms of [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp), the [multiplier effect](https://www.investopedia.com/terms/m/multipliereffect.asp) causes gains in total output to be greater than the change in spending that caused it.
+In economics, a multiplier broadly refers to an economic factor that, when increased or changed, causes increases or changes in many other related economic variables. In terms of [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp), the [[multiplier effect]](https://www.investopedia.com/terms/m/multipliereffect.asp) causes gains in total output to be greater than the change in spending that caused it.
 
-The term multiplier is usually used in reference to the relationship between government spending and total national income. Multipliers are also used in explaining fractional reserve banking, known as the [deposit multiplier](https://www.investopedia.com/terms/d/deposit_multiplier.asp).
+The term multiplier is usually used in reference to the relationship between government spending and total national income. Multipliers are also used in explaining fractional reserve banking, known as the [[deposit multiplier]](https://www.investopedia.com/terms/d/deposit_multiplier.asp).
 
 ### Key Takeaways
 
@@ -32,25 +32,25 @@ A multiplier is simply a factor that amplifies or increase the base value of som
 
 ### The Fiscal Multiplier
 
-The [fiscal multiplier](https://www.investopedia.com/terms/f/fiscal-multiplier.asp) is the ratio of a country's additional national income to the initial boost in spending or reduction in taxes that led to that extra income. For example, say that a national government enacts a $1 billion fiscal stimulus and that its consumers' marginal propensity to consume (MPC) is 0.75. Consumers who receive the initial $1 billion will save $250 million and spend $750 million, effectively initiating another, smaller round of stimulus. The recipients of that $750 million will spend $562.5 million, and so on.
+The [[fiscal multiplier]](https://www.investopedia.com/terms/f/fiscal-multiplier.asp) is the ratio of a country's additional national income to the initial boost in spending or reduction in taxes that led to that extra income. For example, say that a national government enacts a $1 billion fiscal stimulus and that its consumers' marginal propensity to consume (MPC) is 0.75. Consumers who receive the initial $1 billion will save $250 million and spend $750 million, effectively initiating another, smaller round of stimulus. The recipients of that $750 million will spend $562.5 million, and so on.
 
 ### The Investment Multiplier
 
-An [investment multiplier](https://www.investopedia.com/terms/i/investment-multiplier.asp) similarly refers to the concept that any increase in public or private investment has a more than proportionate positive impact on aggregate income and the general economy. The multiplier attempts to quantify the additional effects of a policy beyond those immediately measurable. The larger an investment's multiplier, the more efficient it is at creating and distributing wealth throughout an economy.
+An [[investment multiplier]](https://www.investopedia.com/terms/i/investment-multiplier.asp) similarly refers to the concept that any increase in public or private investment has a more than proportionate positive impact on aggregate income and the general economy. The multiplier attempts to quantify the additional effects of a policy beyond those immediately measurable. The larger an investment's multiplier, the more efficient it is at creating and distributing wealth throughout an economy.
 
 ### The Earnings Multiplier
 
-The [earnings multiplier](https://www.investopedia.com/terms/e/earningsmultiplier.asp) frames a company's current stock price in terms of the company's [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) of stock. It presents the stock's market value as a function of the company's earnings and is computed as (price per share/earnings per share).
+The [[earnings multiplier]](https://www.investopedia.com/terms/e/earningsmultiplier.asp) frames a company's current stock price in terms of the company's [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS) of stock. It presents the stock's market value as a function of the company's earnings and is computed as (price per share/earnings per share).
 
 This is also known as the [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio. It can be used as a simplified valuation tool for comparing relative costliness of the stocks of similar companies, and for judging current stock prices against their historical prices on an earnings relative basis.
 
 ### The Equity Multiplier
 
-The [equity multiplier](https://www.investopedia.com/terms/e/equitymultiplier.asp) is a commonly used financial ratio calculated by dividing a company's total asset value by total net equity. It is a measure of financial leverage. Companies finance their operations with equity or debt, so a higher equity multiplier indicates that a larger portion of asset financing is attributed to debt. The equity multiplier is thus a variation of the debt ratio, in which the definition of debt financing includes all liabilities.
+The [[equity multiplier]](https://www.investopedia.com/terms/e/equitymultiplier.asp) is a commonly used financial ratio calculated by dividing a company's total asset value by total net equity. It is a measure of financial leverage. Companies finance their operations with equity or debt, so a higher equity multiplier indicates that a larger portion of asset financing is attributed to debt. The equity multiplier is thus a variation of the debt ratio, in which the definition of debt financing includes all liabilities.
 
 ## Multiplying Money
 
-One popular multiplier theory and its equations were created by British economist [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp). Keynes believed that any injection of government spending created a proportional increase in overall income for the population, since the extra spending would carry through the economy. In his 1936 book, "The General Theory of Employment, Interest, and Money," Keynes wrote the following equation to describe the relationship between income (Y), consumption (C) and investment (I):
+One popular multiplier theory and its equations were created by British economist [[John Maynard Keynes]](https://www.investopedia.com/terms/j/john_maynard_keynes.asp). Keynes believed that any injection of government spending created a proportional increase in overall income for the population, since the extra spending would carry through the economy. In his 1936 book, "The General Theory of Employment, Interest, and Money," Keynes wrote the following equation to describe the relationship between income (Y), consumption (C) and investment (I):
 
 Y\=C+Iwhere:Y\=incomeC\=consumptionI\=investment\\begin{aligned} &Y = C + I \\\\ &\\textbf{where:}\\\\ &Y=\\text{income}\\\\ &C=\\text{consumption}\\\\ &I=\\text{investment}\\\\ \\end{aligned}
 

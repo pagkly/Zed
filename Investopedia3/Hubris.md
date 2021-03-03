@@ -28,7 +28,7 @@ Hubris is the characteristic of excessive confidence or arrogance, which leads a
 
 ## How Hubris Works
 
-Hubris may be developed after a person encounters a period of success. Corporate executives and traders overcome by hubris may become a [liability](https://www.investopedia.com/terms/l/liability.asp) for their firms. A manager might start making business decisions without fully thinking through the consequences, or a trader may begin taking on excessive [risk](https://www.investopedia.com/terms/r/risk.asp). In many cases, people overcome by hubris will bring about their downfall. 
+Hubris may be developed after a person encounters a period of success. Corporate executives and traders overcome by hubris may become a [[liability]](https://www.investopedia.com/terms/l/liability.asp) for their firms. A manager might start making business decisions without fully thinking through the consequences, or a trader may begin taking on excessive [[risk]](https://www.investopedia.com/terms/r/risk.asp). In many cases, people overcome by hubris will bring about their downfall. 
 
 [Chief executive officers](https://www.investopedia.com/terms/c/ceo.asp) and very successful business people who are overcome with hubris tend to be difficult to work within team settings. They lack the ability to consider the opinions of others when they conflict with their own. This inconsideration is because they believe they always know best. 
 

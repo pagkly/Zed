@@ -16,7 +16,7 @@ author: James Chen
 Perpetual Bond
 ## What Is a Perpetual Bond?
 
-A perpetual bond, also known as a "consol bond" or "prep," is a fixed income security with no [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp). This type of bond is often considered a type of [equity](https://www.investopedia.com/terms/e/equity.asp), rather than debt. One major drawback to these types of bonds is that they are not redeemable. However, the major benefit of them is that they pay a steady stream of interest payments forever.
+A perpetual bond, also known as a "consol bond" or "prep," is a fixed income security with no [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp). This type of bond is often considered a type of [[equity]](https://www.investopedia.com/terms/e/equity.asp), rather than debt. One major drawback to these types of bonds is that they are not redeemable. However, the major benefit of them is that they pay a steady stream of interest payments forever.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A perpetual bond, also known as a "consol bond" or "prep," is a fixed income sec
 
 ## Understanding Perpetual Bonds
 
-Perpetual bonds exist within a small niche of the [bond market](https://www.investopedia.com/terms/b/bondmarket.asp). This is mainly due to the fact that there are very few entities that are safe enough for investors to invest in a bond where the principal will never be repaid.
+Perpetual bonds exist within a small niche of the [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp). This is mainly due to the fact that there are very few entities that are safe enough for investors to invest in a bond where the principal will never be repaid.
 
 Some of the notable perpetual bonds in existence are those that were issued by the British Treasury for World War I and the South Sea Bubble of 1720. Some in the U.S. believe the federal government should issue perpetual bonds, which may help it avoid the refinancing costs associated with bond issues that have maturity dates.
 
@@ -34,7 +34,7 @@ Some of the notable perpetual bonds in existence are those that were issued by t
 
 Since perpetual bond payments are similar to stock dividend payments, as they both offer some sort of return for an indefinite period of time, it is logical that they would be priced the same way.
 
-The [price of a perpetual bond](https://www.investopedia.com/articles/investing/082313/perpetual-bonds-overview.asp) is, therefore, the fixed interest payment, or coupon amount, divided by some constant discount rate, which represents the speed at which money loses value over time (partly due to inflation). The [discount rate](https://www.investopedia.com/terms/d/discountrate.asp) denominator reduces the real value of the nominally fixed [coupon amounts](https://www.investopedia.com/video/play/coupon/) over time, eventually making this value equal zero. As such, perpetual bonds, even though they pay interest forever, can be assigned a finite value, which in turn represents their price.
+The [[price of a perpetual bond]](https://www.investopedia.com/articles/investing/082313/perpetual-bonds-overview.asp) is, therefore, the fixed interest payment, or coupon amount, divided by some constant discount rate, which represents the speed at which money loses value over time (partly due to inflation). The [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp) denominator reduces the real value of the nominally fixed [[coupon amounts]](https://www.investopedia.com/video/play/coupon/) over time, eventually making this value equal zero. As such, perpetual bonds, even though they pay interest forever, can be assigned a finite value, which in turn represents their price.
 
 ## Formula for the Present Value of a Perpetual Bond
 

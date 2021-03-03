@@ -16,7 +16,7 @@ author: Julia Kagan
 Revocable Beneficiary
 ## What Is a Revocable Beneficiary?
 
-A revocable beneficiary does not have guaranteed rights to receive compensation from an entity such as an insurance policy or a trust fund. The policy owner reserves the right to make changes to who receives payment, change the terms of the policy, or terminate the policy without the need of revocable beneficiary consent. Most [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) policies have this feature.
+A revocable beneficiary does not have guaranteed rights to receive compensation from an entity such as an insurance policy or a trust fund. The policy owner reserves the right to make changes to who receives payment, change the terms of the policy, or terminate the policy without the need of revocable beneficiary consent. Most [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) policies have this feature.
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ A policyholder must have completed their last will before they can name an est
 
 ## Naming Multiple Beneficiaries
 
-A policyholder may name multiple revocable beneficiaries. These recipients can be broken down into [primary beneficiaries](https://www.investopedia.com/terms/p/primary-beneficiary.asp) and [contingent beneficiaries](https://www.investopedia.com/terms/c/contingent_beneficiary.asp). A primary beneficiary has first rights to payouts upon the policyholder's death. However, a contingent beneficiary has rights to the payouts should the primary beneficiary die.
+A policyholder may name multiple revocable beneficiaries. These recipients can be broken down into [[primary beneficiaries]](https://www.investopedia.com/terms/p/primary-beneficiary.asp) and [[contingent beneficiaries]](https://www.investopedia.com/terms/c/contingent_beneficiary.asp). A primary beneficiary has first rights to payouts upon the policyholder's death. However, a contingent beneficiary has rights to the payouts should the primary beneficiary die.
 
 ## Irrevocable Beneficiary
 

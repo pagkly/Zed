@@ -16,13 +16,13 @@ author: Julia Kagan
 Tangible Personal Property
 ## What is Tangible Personal Property?
 
-Tangible personal property is a tax term describing personal property that can be physically relocated, such as furniture and office equipment. Tangible personal property is always depreciated over either a five- or seven-year period using [straight-line depreciation](https://www.investopedia.com/terms/s/straightlinebasis.asp) but is eligible for accelerated depreciation as well.
+Tangible personal property is a tax term describing personal property that can be physically relocated, such as furniture and office equipment. Tangible personal property is always depreciated over either a five- or seven-year period using [[straight-line depreciation]](https://www.investopedia.com/terms/s/straightlinebasis.asp) but is eligible for accelerated depreciation as well.
 
 Tangible personal property is anything other than real property (land and building) that is used in the operations of a business or rental property.
 
 ## Understanding Tangible Personal Property
 
-Tangible personal property is the opposite of real property, in a sense, as real property is immovable. In comparison to [intangible personal property](https://www.investopedia.com/terms/i/intangible-personal-property.asp), tangible property can be touched. Consider property such as furniture, machinery, cell phones, computers, and collectibles which can be felt compared to intangibles such as patents, copyrights, and non-compete agreements that cannot be seen or touched.
+Tangible personal property is the opposite of real property, in a sense, as real property is immovable. In comparison to [[intangible personal property]](https://www.investopedia.com/terms/i/intangible-personal-property.asp), tangible property can be touched. Consider property such as furniture, machinery, cell phones, computers, and collectibles which can be felt compared to intangibles such as patents, copyrights, and non-compete agreements that cannot be seen or touched.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ Tangible personal property is subject to ad valorem taxes. In most states, a bus
 
 Property owners who lease or rent tangible personal property must also file this return for tax purposes.
 
-Some counties and cities require the filer to list all property on the tax form and to provide the [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) and cost for each tangible property. In these cases, the county will also provide a valuation table that can be used to estimate the value of the property based on its age and useful life. Some states only apply a tax on tangible property in the year the property was purchased.
+Some counties and cities require the filer to list all property on the tax form and to provide the [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) and cost for each tangible property. In these cases, the county will also provide a valuation table that can be used to estimate the value of the property based on its age and useful life. Some states only apply a tax on tangible property in the year the property was purchased.
 
 ## Example of Taxes and Tangible Personal Property
 

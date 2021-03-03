@@ -16,7 +16,7 @@ author: Troy Segal
 Understanding Rollover Risk
 ## What Is Rollover Risk?
 
-Rollover risk is a risk associated with the refinancing of [debt](https://www.investopedia.com/terms/d/debt.asp). Rollover risk is commonly faced by countries and companies when a loan or other debt obligation (like a bond) is about to mature and needs to be converted, or rolled over, into new debt. If interest rates have risen in the meantime, they would have to [refinance](https://www.investopedia.com/terms/r/refinance.asp) their debt at a higher rate and incur more interest charges in the future—or, in case of a bond issue, pay out more in interest.
+Rollover risk is a risk associated with the refinancing of [[debt]](https://www.investopedia.com/terms/d/debt.asp). Rollover risk is commonly faced by countries and companies when a loan or other debt obligation (like a bond) is about to mature and needs to be converted, or rolled over, into new debt. If interest rates have risen in the meantime, they would have to [[refinance]](https://www.investopedia.com/terms/r/refinance.asp) their debt at a higher rate and incur more interest charges in the future—or, in case of a bond issue, pay out more in interest.
 
 ### Key Takeaways
 
@@ -33,9 +33,9 @@ In particular, it refers to the possibility that a hedge position will expire at
 
 ## Rollover Risk vs. Refinancing Risk
 
-Also known as "roll risk," rollover risk is sometimes used interchangeably with [refinancing risk](https://www.investopedia.com/terms/r/refinancing_risk.asp). However, it's actually more of a sub-category of that. Refinancing risk is a more general term, referring to the possibility of a borrower being unable to replace an existing loan with a new one. Rollover risk deals more specifically with the adverse effect of rolling over or refinancing debt.
+Also known as "roll risk," rollover risk is sometimes used interchangeably with [[refinancing risk]](https://www.investopedia.com/terms/r/refinancing_risk.asp). However, it's actually more of a sub-category of that. Refinancing risk is a more general term, referring to the possibility of a borrower being unable to replace an existing loan with a new one. Rollover risk deals more specifically with the adverse effect of rolling over or refinancing debt.
 
-This effect has more to do with prevailing economic conditions—specifically, interest rate trends and the [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) of credit—than the financial condition of the borrower. For example, if the U.S. had $1 trillion dollars of debt it needed to roll over in the next year, and interest rates suddenly rose 2% higher before the new debt was issued, it would cost the government a lot more in new interest payments.
+This effect has more to do with prevailing economic conditions—specifically, interest rate trends and the [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) of credit—than the financial condition of the borrower. For example, if the U.S. had $1 trillion dollars of debt it needed to roll over in the next year, and interest rates suddenly rose 2% higher before the new debt was issued, it would cost the government a lot more in new interest payments.
 
 The state of the economy is also significant. Lenders are often unwilling to renew expiring loans during a financial crisis, when collateral values drop, especially if they are short-term loans—that is, their remaining maturity is less than one year.
 
@@ -47,6 +47,6 @@ So along with the economy, the nature of the debt can matter, according to a 201
 
 At the beginning of October 2018, the World Bank issued concerns about two Asian nations. "Rollover risks are potentially acute for Indonesia and Thailand, given their sizable stocks of short-term debt (around $50 billion and $63 billion, respectively)," it stated.
 
-The World Bank's concerns had reflected the fact that central banks around the world had been tightening credit and raising interest rates, following the lead of the U.S. [Federal Reserve](https://www.investopedia.com/terms/f/federalreservesystem.asp), which had increased the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) steadily between 2015 and December 2018, from near 0% to 2.25%—resulting in billions in U.S. and foreign investments being pulled from both countries.
+The World Bank's concerns had reflected the fact that central banks around the world had been tightening credit and raising interest rates, following the lead of the U.S. [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservesystem.asp), which had increased the [[federal funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp) steadily between 2015 and December 2018, from near 0% to 2.25%—resulting in billions in U.S. and foreign investments being pulled from both countries.
 
 However, in the years since, central banks around the world have been lowering interest rates—following the lead of the Fed, which in March 2020, cut the federal funds rate to a range of 0.0% to 0.25% for the second time since the 2008 financial crisis.1 The move was made to support the economy amid the COVID-19 pandemic. As of December 2020, the Fed said it intended to keep the fed funds rate in the same range until inflation has risen 2 percent and is on track to moderately exceed 2 percent for some time.2

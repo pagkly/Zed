@@ -18,7 +18,7 @@ Delivery Versus Payment (DVP): What Guarantees Do You Have?
 
 Delivery versus payment (DVP) is a securities industry settlement method that guarantees the transfer of securities only happens after payment has been made. DVP stipulates that the buyer's cash payment for securities must be made prior to or at the same time as the delivery of the security.
 
-Delivery versus payment is the settlement process from the buyer's perspective; from the seller's perspective, this settlement system is called [receive versus payment (RVP).](https://www.investopedia.com/terms/r/rvp.asp) DVP/RVP requirements emerged in the aftermath of institutions being banned from paying money for securities before the securities were held in negotiable form. DVP is also known as delivery against payment (DAP), delivery against cash (DAC), and cash on delivery.
+Delivery versus payment is the settlement process from the buyer's perspective; from the seller's perspective, this settlement system is called [[receive versus payment (RVP).]](https://www.investopedia.com/terms/r/rvp.asp) DVP/RVP requirements emerged in the aftermath of institutions being banned from paying money for securities before the securities were held in negotiable form. DVP is also known as delivery against payment (DAP), delivery against cash (DAC), and cash on delivery.
 
 ### Key Takeaways
 
@@ -36,10 +36,10 @@ The use of such standard message types is meant to reduce risk in the settlemen
 
 A significant source of credit risk in securities settlement is the principal risk associated with the settlement date. The idea behind the RVP/DVP system is that part of that risk can be removed if the settlement procedure requires that delivery occurs only if payment occurs (in other words, that securities are not delivered prior to the exchange of payment for the securities). The system helps to ensure that payments accompany deliveries, thereby reducing principal risk, limiting the chance that deliveries or payments would be withheld during periods of stress in the financial markets and reducing liquidity risk.
 
-By law, institutions are required to demand assets of equal value in exchange for the delivery of securities. The delivery of the securities is typically made to the bank of the buying customer, while the payment is made simultaneously by [bank wire](https://www.investopedia.com/terms/b/bankwire.asp) transfer, check, or direct credit to an account.
+By law, institutions are required to demand assets of equal value in exchange for the delivery of securities. The delivery of the securities is typically made to the bank of the buying customer, while the payment is made simultaneously by [[bank wire]](https://www.investopedia.com/terms/b/bankwire.asp) transfer, check, or direct credit to an account.
 
 Delivery versus payment (DVP) is a settlement method that requires that securities are delivered to a particular recipient only after payment is made.
 
 ## Special Considerations
 
-Following the October 1987 worldwide drop in equity prices, the central banks in the [Group of Ten](https://www.investopedia.com/terms/g/groupoften.asp) worked to strengthen settlement procedures and eliminate the risk that a security delivery could be made without payment, or that a payment could be made without delivery (known as principal risk). The DVP procedure reduces or eliminates the counterparties' exposure to this principal risk.
+Following the October 1987 worldwide drop in equity prices, the central banks in the [[Group of Ten]](https://www.investopedia.com/terms/g/groupoften.asp) worked to strengthen settlement procedures and eliminate the risk that a security delivery could be made without payment, or that a payment could be made without delivery (known as principal risk). The DVP procedure reduces or eliminates the counterparties' exposure to this principal risk.

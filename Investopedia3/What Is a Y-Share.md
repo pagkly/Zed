@@ -16,7 +16,7 @@ author: James Chen
 What Is a Y-Share?
 ## What Is a Y-Share?
 
-Y-shares are an [institutional share](https://www.investopedia.com/terms/i/institutionalshares.asp) class offered in open-end mutual funds. Targeting institutional investors, the share class often has a high minimum investment, beginning at approximately $25,000. This share class also offers the benefit of waived or limited load charges and lower comparative total annual fees.
+Y-shares are an [[institutional share]](https://www.investopedia.com/terms/i/institutionalshares.asp) class offered in open-end mutual funds. Targeting institutional investors, the share class often has a high minimum investment, beginning at approximately $25,000. This share class also offers the benefit of waived or limited load charges and lower comparative total annual fees.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Y-shares are an [institutional share](https://www.investopedia.com/terms/i/insti
 
 ## How Y-Shares Work
 
-Y-shares are an alternative to [I-shares](https://www.investopedia.com/terms/i/institutionalshares.asp) which are in the most commonly offered mutual fund share class for [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp). Y-shares have features and characteristics that are tailored to institutions.
+Y-shares are an alternative to [[I-shares]](https://www.investopedia.com/terms/i/institutionalshares.asp) which are in the most commonly offered mutual fund share class for [[institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp). Y-shares have features and characteristics that are tailored to institutions.
 
 High minimum investments are one of the most distinguishable characteristics of Y-shares and other institutional shares classes. Minimum investments typically begin at $25,000 and can be as high as $5 million. Sales loads are usually not required for Y-shares, which allows institutional investors to buy and sell shares with no added commission charges.
 
@@ -36,13 +36,13 @@ Since Y-shares are not associated with intermediary sales charges, they also usu
 
 ## Special Considerations
 
-While Y-shares are typically reserved for institutional investors, they may allow investment from retirement plan investors in some cases. Most [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) will have designated retirement share classes with similar benefits to institutional shares.
+While Y-shares are typically reserved for institutional investors, they may allow investment from retirement plan investors in some cases. Most [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) will have designated retirement share classes with similar benefits to institutional shares.
 
 Funds without retirement share classes may allow pooled fund investments in Y-shares from retirement plans that collectively seek investment in the fund. This can provide a significant benefit to retirement shareholders, who would take part in the savings from the share class’s lower fees.
 
 ## Example of Y-Shares
 
-Putnam Investments is one investment manager that offers Y-shares across many of its funds as the primary share class for institutional investors. The [Putnam Global Equity Fund](https://www.putnam.com/individual/mutual-funds/funds/36-global-equity-fund/A) provides one example. The Fund offers [A-shares](https://www.investopedia.com/terms/a/a-shares.asp), B-shares, C-shares, M-shares, R-shares, R6-shares, T-shares, and Y-shares.
+Putnam Investments is one investment manager that offers Y-shares across many of its funds as the primary share class for institutional investors. The [[Putnam Global Equity Fund]](https://www.putnam.com/individual/mutual-funds/funds/36-global-equity-fund/A) provides one example. The Fund offers [[A-shares]](https://www.investopedia.com/terms/a/a-shares.asp), B-shares, C-shares, M-shares, R-shares, R6-shares, T-shares, and Y-shares.
 
 The Putnam Global Equity Fund’s Y-share class charges no front-end or back-end sales commissions. The share class also charges no 12b-1 fees, which helps it to have one of the lowest annual expense ratios in the Fund at 0.90%. This compares to total annual fund operating expenses of 1.9% for the B-shares and C-shares.
 

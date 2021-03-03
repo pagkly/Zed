@@ -18,7 +18,7 @@ Understanding Mortgage-Backed Securities (MBS)
 
 A mortgage-backed security (MBS) is an investment similar to a bond that is made up of a bundle of home loans bought from the banks that issued them. Investors in MBS receive periodic payments similar to bond coupon payments.
 
-The MBS is a type of [asset-backed security](https://www.investopedia.com/terms/a/asset-backedsecurity.asp). As became glaringly obvious in the subprime mortgage meltdown of 2007-2008, a mortgage-backed security is only as sound as the mortgages that back it up.
+The MBS is a type of [[asset-backed security]](https://www.investopedia.com/terms/a/asset-backedsecurity.asp). As became glaringly obvious in the subprime mortgage meltdown of 2007-2008, a mortgage-backed security is only as sound as the mortgages that back it up.
 
 An MBS may also be called a mortgage-related security or a mortgage pass-through.
 
@@ -32,7 +32,7 @@ Mortgage-backed securities loaded up with subprime loans played a central role i
 
 This process works for all concerned as everyone does what they're supposed to do. That is, the bank keeps to reasonable standards for granting mortgages; the homeowner keeps paying on time, and the credit rating agencies that review MBS perform due diligence.
 
-In order to be sold on the markets today, an MBS must be issued by a [government-sponsored enterprise](https://www.investopedia.com/terms/g/gse.asp) (GSE) or a private financial company. The mortgages must have originated from a regulated and authorized financial institution. And the MBS must have received one of the top two ratings issued by an accredited [credit rating agency](https://www.investopedia.com/terms/c/credit-agency.asp).
+In order to be sold on the markets today, an MBS must be issued by a [[government-sponsored enterprise]](https://www.investopedia.com/terms/g/gse.asp) (GSE) or a private financial company. The mortgages must have originated from a regulated and authorized financial institution. And the MBS must have received one of the top two ratings issued by an accredited [[credit rating agency]](https://www.investopedia.com/terms/c/credit-agency.asp).
 
 #### Understanding Mortgage-Backed Securities
 
@@ -46,21 +46,21 @@ Pass-throughs are structured as trusts in which mortgage payments are collected 
 
 ### Collateralized Mortgage Obligations
 
-CMOs consist of multiple pools of securities which are known as slices, or [tranches](https://www.investopedia.com/terms/t/tranches.asp). The tranches are given credit ratings which determine the rates that are returned to investors.
+CMOs consist of multiple pools of securities which are known as slices, or [[tranches]](https://www.investopedia.com/terms/t/tranches.asp). The tranches are given credit ratings which determine the rates that are returned to investors.
 
 ## The Role of MBSs in the Financial Crisis
 
-Mortgage-backed securities played a central role in the [financial crisis](https://www.investopedia.com/terms/s/subprime-meltdown.asp) that began in 2007 and went on to wipe out trillions of dollars in wealth, bring down [Lehman Brothers](https://www.investopedia.com/terms/l/lehman-brothers.asp), and roil the world financial markets.
+Mortgage-backed securities played a central role in the [[financial crisis]](https://www.investopedia.com/terms/s/subprime-meltdown.asp) that began in 2007 and went on to wipe out trillions of dollars in wealth, bring down [[Lehman Brothers]](https://www.investopedia.com/terms/l/lehman-brothers.asp), and roil the world financial markets.
 
 In retrospect, it seems inevitable that the rapid increase in home prices and the growing demand for MBS would encourage banks to lower their lending standards and drive consumers to jump into the market at any cost.
 
-That was the beginning of the [subprime](https://www.investopedia.com/terms/s/subprime_mortgage.asp) MBS. With [Freddie Mac and Fannie Mae](https://www.investopedia.com/articles/economics/08/fannie-mae-freddie-mac-credit-crisis.asp) aggressively supporting the mortgage market, the quality of all mortgage-backed securities declined and their ratings became meaningless. Then, in 2006, housing prices peaked.
+That was the beginning of the [[subprime]](https://www.investopedia.com/terms/s/subprime_mortgage.asp) MBS. With [[Freddie Mac and Fannie Mae]](https://www.investopedia.com/articles/economics/08/fannie-mae-freddie-mac-credit-crisis.asp) aggressively supporting the mortgage market, the quality of all mortgage-backed securities declined and their ratings became meaningless. Then, in 2006, housing prices peaked.
 
 Subprime borrowers started to default and the housing market began its long collapse. More people began walking away from their mortgages because their homes were worth less than their debts. Even the conventional mortgages underpinning the MBS market saw steep declines in value. The avalanche of non-payments meant that many MBSs and collateralized debt obligations (CDO) based off of pools of mortgages were vastly overvalued.
 
 The losses piled up as institutional investors and banks tried and failed to unload bad MBS investments. Credit tightened, causing many banks and financial institutions to teeter on the brink of insolvency. Lending was disrupted to the point that the entire economy was at risk of collapse.
 
-In the end, the U.S. Treasury stepped in with a $700 billion financial system bailout intended to ease the [credit crunch](https://www.investopedia.com/terms/c/creditcrunch.asp). The [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) bought $4.5 trillion in MBS over a period of years while the [Troubled Asset Relief Program (TARP)](https://www.investopedia.com/terms/t/troubled-asset-relief-program-tarp.asp) injected capital directly into banks.
+In the end, the U.S. Treasury stepped in with a $700 billion financial system bailout intended to ease the [[credit crunch]](https://www.investopedia.com/terms/c/creditcrunch.asp). The [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) bought $4.5 trillion in MBS over a period of years while the [[Troubled Asset Relief Program (TARP)]](https://www.investopedia.com/terms/t/troubled-asset-relief-program-tarp.asp) injected capital directly into banks.
 
 The financial crisis eventually passed, but the total government commitment was much larger than the $700 billion figure often cited.
 
@@ -76,4 +76,4 @@ MBSs are still bought and sold today. There is a market for them again simply be
 
 The Fed still owns a huge chunk of the market for MBSs, but it is gradually selling off its holdings. Even CDOs have returned after falling out of favor for a few years post-crisis.
 
-The assumption is that [Wall Street](https://www.investopedia.com/terms/w/wallstreet.asp) has learned its lesson and will question the value of MBSs rather than blindly buying them. Time will tell.
+The assumption is that [[Wall Street]](https://www.investopedia.com/terms/w/wallstreet.asp) has learned its lesson and will question the value of MBSs rather than blindly buying them. Time will tell.

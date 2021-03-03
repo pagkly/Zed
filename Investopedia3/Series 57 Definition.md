@@ -16,7 +16,7 @@ author: Jason Fernando
 Series 57 Definition
 ## What Is Series 57?
 
-Series 57, also known as the Securities Trader Representative Exam, is an examination administered by the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp). Passing the Series 57 exam is a requirement for those who wish to become professional traders of either [equities](https://www.investopedia.com/terms/e/equity.asp) or [convertible debt securities](https://www.investopedia.com/investing/introduction-convertible-bonds/). 
+Series 57, also known as the Securities Trader Representative Exam, is an examination administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp). Passing the Series 57 exam is a requirement for those who wish to become professional traders of either [[equities]](https://www.investopedia.com/terms/e/equity.asp) or [[convertible debt securities]](https://www.investopedia.com/investing/introduction-convertible-bonds/). 
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ Series 57, also known as the Securities Trader Representative Exam, is an examin
 
 ## How Series 57 Works
 
-The purpose of the Series 57 exam is to protect the public by ensuring that professional traders meet a required standard of professional knowledge and competency. In addition to the Series 57 exam, would-be traders must also pass the [Securities Industry Essentials (SIE)](https://www.investopedia.com/securities-industry-essentials-sie-exam-overview-4692828) exam. Once both are completed, entry-level traders are certified to conduct trading on the [Nasdaq exchange](https://www.investopedia.com/terms/n/nasdaq.asp) or [over-the-counter (OTC)](https://www.investopedia.com/terms/o/otc.asp) transactions, and may also conduct [proprietary trading activities](https://www.investopedia.com/terms/p/proprietarytrading.asp).2
+The purpose of the Series 57 exam is to protect the public by ensuring that professional traders meet a required standard of professional knowledge and competency. In addition to the Series 57 exam, would-be traders must also pass the [[Securities Industry Essentials (SIE)]](https://www.investopedia.com/securities-industry-essentials-sie-exam-overview-4692828) exam. Once both are completed, entry-level traders are certified to conduct trading on the [[Nasdaq exchange]](https://www.investopedia.com/terms/n/nasdaq.asp) or [[over-the-counter (OTC)]](https://www.investopedia.com/terms/o/otc.asp) transactions, and may also conduct [[proprietary trading activities]](https://www.investopedia.com/terms/p/proprietarytrading.asp).2
 
 The Series 57 exam is designed to reflect the current technologies and practices of professional securities traders. As such, its questions are drawn from interviews with real-world practitioners and trading firms active in the field. By continuously updating the Series 57 exam in light of new developments in the industry, FINRA hopes to ensure that those who pass the exam will be well equipped to work with the public in both a competent and ethical manner.
 
 ### Important
 
-In order to take the Series 57 exam, candidates must be affiliated with and sponsored by a FINRA member firm or other [self-regulatory organization (SRO)](https://www.investopedia.com/terms/s/sro.asp). The candidate must also pass the SIE to become registered as a securities trader.2
+In order to take the Series 57 exam, candidates must be affiliated with and sponsored by a FINRA member firm or other [[self-regulatory organization (SRO)]](https://www.investopedia.com/terms/s/sro.asp). The candidate must also pass the SIE to become registered as a securities trader.2
 
-The Series 57 exam has received several updates over the year that reflect ongoing changes in the industry. The most recent substantial change to the exam occurred in January 2017, when new sections regarding [high-frequency trading (HFT)](https://www.investopedia.com/terms/h/high-frequency-trading.asp) were added. This was done in the wake of various news stories involving unethical behavior by some HFT firms.3 This change only affects new Series 57 candidates, whereas those who passed the previous versions of the exam are not required to be re-tested on the new material.
+The Series 57 exam has received several updates over the year that reflect ongoing changes in the industry. The most recent substantial change to the exam occurred in January 2017, when new sections regarding [[high-frequency trading (HFT)]](https://www.investopedia.com/terms/h/high-frequency-trading.asp) were added. This was done in the wake of various news stories involving unethical behavior by some HFT firms.3 This change only affects new Series 57 candidates, whereas those who passed the previous versions of the exam are not required to be re-tested on the new material.
 
 ## Example of Series 57
 

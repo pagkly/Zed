@@ -16,19 +16,19 @@ author: Will Kenton
 What is on-chain governance?
 ## What Is On-Chain Governance?
 
-On-chain governance is a system for managing and implementing changes to [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) blockchains. In this type of governance, rules for instituting changes are encoded into the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) protocol. Developers propose changes through code updates and each node votes on whether to accept or reject the proposed change. 
+On-chain governance is a system for managing and implementing changes to [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) blockchains. In this type of governance, rules for instituting changes are encoded into the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) protocol. Developers propose changes through code updates and each node votes on whether to accept or reject the proposed change. 
 
 ## Understanding On-Chain Governance
 
-Current governance systems in [bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) and [ethereum](https://www.investopedia.com/terms/e/ethereum.asp) are informal. They were designed with a decentralized ethos, first promulgated by Satoshi Nakamoto in his original paper.1
+Current governance systems in [[bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) and [[ethereum]](https://www.investopedia.com/terms/e/ethereum.asp) are informal. They were designed with a decentralized ethos, first promulgated by Satoshi Nakamoto in his original paper.1
 
 Improvement proposals to make changes to the blockchain must be submitted by developers. A core group, consisting mostly of developers, is responsible for coordinating and achieving consensus between stakeholders. The stakeholders in this case are miners (who operate nodes), developers (who are responsible for core blockchain algorithms) and users (who use and invest in various coins). 
 
-Critics of the system claim that this form of informal governance is, in fact, centralized among miners and developers. They point to two prominent forks in the cryptocurrency ecosystem as proof. The first is a split of the original ethereum blockchain into [ethereum classic](https://www.investopedia.com/terms/e/ethereum-classic.asp) and ethereum in 2016. That split occurred despite another soft-fork proposal, which would have been easier to implement but would have resulted in a loss for investors affected by a hack in the cryptocurrency's blockchain.
+Critics of the system claim that this form of informal governance is, in fact, centralized among miners and developers. They point to two prominent forks in the cryptocurrency ecosystem as proof. The first is a split of the original ethereum blockchain into [[ethereum classic]](https://www.investopedia.com/terms/e/ethereum-classic.asp) and ethereum in 2016. That split occurred despite another soft-fork proposal, which would have been easier to implement but would have resulted in a loss for investors affected by a hack in the cryptocurrency's blockchain.
 
 According to news reports, a majority of the ethereum community was in favor of a soft fork, but its core group of developers was swayed by investor opinion and implemented a hard fork. Some claim that this was a contravention of the widely-held "Code is Law" principle, in which the governing parameters for software are laid down in the original code. 
 
-The [Bitcoin Cash](https://www.investopedia.com/terms/b/bitcoin-cash.asp) fork in 2017 is another example of shaky governance systems. During that fork, a proposal to increase the average block size in bitcoin's blockchain was rejected by the cryptocurrency's core development team. They rejected the change, despite the fact that high transaction fees made bitcoin's use as a medium for daily transactions unsustainable. The only constituency that benefited from high transaction fees were miners. In the end, a renegade group of developers and miners moved away to create their own cryptocurrency with variable block size.
+The [[Bitcoin Cash]](https://www.investopedia.com/terms/b/bitcoin-cash.asp) fork in 2017 is another example of shaky governance systems. During that fork, a proposal to increase the average block size in bitcoin's blockchain was rejected by the cryptocurrency's core development team. They rejected the change, despite the fact that high transaction fees made bitcoin's use as a medium for daily transactions unsustainable. The only constituency that benefited from high transaction fees were miners. In the end, a renegade group of developers and miners moved away to create their own cryptocurrency with variable block size.
 
 On-chain governance emerged as an alternative to informal systems of governance. It claims to solve the problems of the centralization of bitcoin by incorporating all nodes within a blockchain network into the decision-making process.
 
@@ -40,7 +40,7 @@ Unlike informal governance systems, which use a combination of offline coordinat
 
 If the change is accepted, it is included in the blockchain and baselined. In some instances of on-chain governance implementation, the updated code may be rolled back to its version before a baseline, if the proposed change is unsuccessful. 
 
-Implementation of on-chain governance differs between various blockchains. For example, [Tezos](https://www.investopedia.com/terms/t/tezos.asp) uses a form of self-amending ledger. Proposed changes are implemented to the coin's blockchain and rolled out onto a test version of the chain. If the planned changes are successful, they are finalized to a production version of the blockchain. If not, they are rolled back.
+Implementation of on-chain governance differs between various blockchains. For example, [[Tezos]](https://www.investopedia.com/terms/t/tezos.asp) uses a form of self-amending ledger. Proposed changes are implemented to the coin's blockchain and rolled out onto a test version of the chain. If the planned changes are successful, they are finalized to a production version of the blockchain. If not, they are rolled back.
 
 DFinity, a startup that is using blockchain to build what it claims will be the world's biggest virtual computer, unveiled a plan to adopt a hardcoded constitution on its network. The constitution triggers passive and active actions. An example of the former might be an increase in reward size for blocks while the latter might involve quarantining certain parts of the network for updates or rollbacks.2 
 

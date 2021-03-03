@@ -16,7 +16,7 @@ author: Daniel Liberto
 Rival Good Definition
 ## What Is a Rival Good?
 
-A rival good is a type of good that may only be possessed or consumed by a single user. These items can be [durable](https://www.investopedia.com/terms/d/durables.asp), meaning they may only be used one at a time, or nondurable, meaning they are destroyed after consumption, allowing only one user to enjoy it. When a good is rival in consumption, competition for the rival good can occur as in the case of people bidding to buy a particular house.
+A rival good is a type of good that may only be possessed or consumed by a single user. These items can be [[durable]](https://www.investopedia.com/terms/d/durables.asp), meaning they may only be used one at a time, or nondurable, meaning they are destroyed after consumption, allowing only one user to enjoy it. When a good is rival in consumption, competition for the rival good can occur as in the case of people bidding to buy a particular house.
 
 ## Understanding a Rival Good
 
@@ -41,7 +41,7 @@ A nondurable good, such as a cup of coffee or apple, does not fall into this cat
 
 Goods are either classified as rival or non-rival. As already explained, a rival good is something that can only be possessed or consumed by a single user. Conversely, a good that can be consumed or possessed by multiple users is said to be nonrival.
 
-The internet and radio stations are examples of goods that are nonrival. Many people can access them at the same time, and they can be consumed over and over again without impacting their quality or running the risk that [supply](https://www.investopedia.com/terms/s/supply.asp) will be depleted.
+The internet and radio stations are examples of goods that are nonrival. Many people can access them at the same time, and they can be consumed over and over again without impacting their quality or running the risk that [[supply]](https://www.investopedia.com/terms/s/supply.asp) will be depleted.
 
 Procuring a rival good can impact the overall supply of them, potentially leading to price increases and a future lack of availability.
 

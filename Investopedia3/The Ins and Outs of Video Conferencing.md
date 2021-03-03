@@ -16,7 +16,7 @@ author: Julia Kagan
 The Ins and Outs of Video Conferencing
 ## What Is Video Conferencing?
 
-Video conferencing is a technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. This technology is particularly convenient for business users in different cities or even different countries because it saves time, expenses, and hassles associated with business travel. Uses for video conferencing include holding routine meetings, [negotiating](https://www.investopedia.com/terms/n/negotiation.asp) business deals, and interviewing job candidates.
+Video conferencing is a technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. This technology is particularly convenient for business users in different cities or even different countries because it saves time, expenses, and hassles associated with business travel. Uses for video conferencing include holding routine meetings, [[negotiating]](https://www.investopedia.com/terms/n/negotiation.asp) business deals, and interviewing job candidates.
 
 ### Key Takeaways
 
@@ -42,6 +42,6 @@ Companies with multiple offices might establish direct video communications betw
 
 Video conferencing can also be used as a medium for conducting training, with the instructor teaching a remote class from almost anywhere. This can be done in a corporate context, especially for getting workers the knowledge they need to better perform their jobs. The academic world can also make use of video conferencing to connect a traditional classroom setting with students who based a considerable distance from the school.
 
-A video conference may also be used to conduct regular meetings with a company staff or to confer with [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) about the latest activities at the business. It may be used to announce significant changes at a company, such as introducing a new [CEO](https://www.investopedia.com/terms/c/ceo.asp) or to present information in an interactive way that allows all participants to engage in discussion about what they see on screen.
+A video conference may also be used to conduct regular meetings with a company staff or to confer with [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) about the latest activities at the business. It may be used to announce significant changes at a company, such as introducing a new [[CEO]](https://www.investopedia.com/terms/c/ceo.asp) or to present information in an interactive way that allows all participants to engage in discussion about what they see on screen.
 
 Hotels and conference centers sometimes make video conferencing services available to guests who require such services. This may be offered in suites or conference rooms that have been equipped for this purpose.

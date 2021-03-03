@@ -16,7 +16,7 @@ author: Caroline Banton
 Why Underwriters Are the Risk Experts of the Financial World
 ## What Is an Underwriter?
 
-An underwriter is any party that evaluates and assumes another party's risk for a fee. The fee paid to an underwriter often takes the form of a commission, premium, spread, or interest. Underwriters play a critical role in many industries in the financial world, including the mortgage industry, insurance industry, equity markets, and some common types of debt security trading. An individual in the position of a lead underwriter is sometimes called a [book runner](https://www.investopedia.com/terms/b/bookrunner.asp).
+An underwriter is any party that evaluates and assumes another party's risk for a fee. The fee paid to an underwriter often takes the form of a commission, premium, spread, or interest. Underwriters play a critical role in many industries in the financial world, including the mortgage industry, insurance industry, equity markets, and some common types of debt security trading. An individual in the position of a lead underwriter is sometimes called a [[book runner]](https://www.investopedia.com/terms/b/bookrunner.asp).
 
 ### Key Takeaways
 
@@ -43,7 +43,7 @@ Investors rely on underwriters because they determine if a business risk is wor
 
 The most common type of underwriter is a mortgage loan underwriter. Mortgage loans are approved based on a combination of an applicant's income, credit history, debt ratios, and overall savings.
 
-Mortgage loan underwriters ensure that a loan applicant meets all of these requirements, and they subsequently approve or deny a loan. Underwriters also review a property's appraisal to ensure that it is accurate and the home is worth the [purchase price](https://www.investopedia.com/terms/p/purchaseprice.asp) and loan amount.
+Mortgage loan underwriters ensure that a loan applicant meets all of these requirements, and they subsequently approve or deny a loan. Underwriters also review a property's appraisal to ensure that it is accurate and the home is worth the [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) and loan amount.
 
 Mortgage loan underwriters have final approval for all mortgage loans. Loans that are not approved can go through an appeal process, but the decision requires overwhelming evidence to be overturned.
 
@@ -59,7 +59,7 @@ Additionally, insurance underwriters advise on risk management issues, determine
 
 In the equity markets, underwriters administer the public issuance and distribution of securities—in the form of common or preferred stock—from a corporation or other issuing body. Perhaps the most prominent role of an equity underwriter is in the IPO process. 
 
-IPO underwriters are financial specialists who work closely with the issuing body to determine the initial offering price of the securities, buy the securities from the issuer, and sell the securities to investors via the underwriter's [distribution network](https://www.investopedia.com/terms/d/distribution-network.asp).
+IPO underwriters are financial specialists who work closely with the issuing body to determine the initial offering price of the securities, buy the securities from the issuer, and sell the securities to investors via the underwriter's [[distribution network]](https://www.investopedia.com/terms/d/distribution-network.asp).
 
 According to the U.S. Bureau of Labor Statistics, the total employment levels of insurance underwriters is projected to decline 5% from 2016 to 2026.
 
@@ -69,4 +69,4 @@ IPO underwriters are typically investment banks that have IPO specialists on st
 
 Underwriters purchase debt securities—such as government bonds, corporate bonds, municipal bonds, or preferred stock—from the issuing body (usually a company or government agency) to resell them for a profit. This profit is known as the "underwriting spread."
 
-An [underwriter](https://www.investopedia.com/ask/answers/020915/how-do-i-become-underwriter.asp) may resell debt securities either directly to the marketplace or to dealers (who will then sell them to other buyers). When the issuance of a debt security requires more than one underwriter, the resulting group of underwriters is known as an [underwriter syndicate](https://www.investopedia.com/terms/u/underwriter-syndicate.asp).
+An [underwriter](https://www.investopedia.com/ask/answers/020915/how-do-i-become-underwriter.asp) may resell debt securities either directly to the marketplace or to dealers (who will then sell them to other buyers). When the issuance of a debt security requires more than one underwriter, the resulting group of underwriters is known as an [[underwriter syndicate]](https://www.investopedia.com/terms/u/underwriter-syndicate.asp).

@@ -28,7 +28,7 @@ In the world of markets, a widow maker is an investment that results in large, p
 
 [Traders](https://www.investopedia.com/terms/t/trader.asp) apply the term widow maker to financial investments that cause catastrophic losses or are risky enough to do so. The use of the term in forestry refers to loose limbs lodged overhead that are at risk of suddenly falling and killing someone. In medicine, the term refers to a blocked artery likely to cause a patient’s death by heart attack.
 
-[Excessive risk](https://www.investopedia.com/terms/r/risk.asp) often plays a critical role in widow maker trades. As a general rule, investments likely to offer high returns also hold the potential for bigger losses. Many investors make decisions about their investments based upon the amount of risk they are willing to take on to achieve a certain level of return. This is known as the [risk/reward ratio](https://www.investopedia.com/terms/r/riskrewardratio.asp).
+[Excessive risk](https://www.investopedia.com/terms/r/risk.asp) often plays a critical role in widow maker trades. As a general rule, investments likely to offer high returns also hold the potential for bigger losses. Many investors make decisions about their investments based upon the amount of risk they are willing to take on to achieve a certain level of return. This is known as the [[risk/reward ratio]](https://www.investopedia.com/terms/r/riskrewardratio.asp).
 
 Some widow maker trades, though, make perfect sense from a rational perspective, meaning they don't appear to be that risky. But in the end, the market confounds consensus expectations and even defies historical patterns.
 
@@ -36,10 +36,10 @@ Some widow maker trades, though, make perfect sense from a rational perspective,
 
 ### The Granddaddy of Widow Makers
 
-Shorting [Japanese government bonds](https://www.investopedia.com/terms/j/jgb.asp) (JGBs) is perhaps the most well-known widow maker trade of all. Traders have shorted JGBs over the past two decades as Japanese government debt spiraled ever higher. Usually, this trade would make sense. But the Japanese [central bank](https://www.investopedia.com/terms/c/centralbank.asp) has repeatedly pushed [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) to unprecedented lows—even below zero—and this drove JGB prices to record highs, making "widows" of many traders over the years.
+Shorting [[Japanese government bonds]](https://www.investopedia.com/terms/j/jgb.asp) (JGBs) is perhaps the most well-known widow maker trade of all. Traders have shorted JGBs over the past two decades as Japanese government debt spiraled ever higher. Usually, this trade would make sense. But the Japanese [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) has repeatedly pushed [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp) to unprecedented lows—even below zero—and this drove JGB prices to record highs, making "widows" of many traders over the years.
 
 ## Amaranth Collapse Illustrates Commodity Widow Makers
 
-Another famous example of a widow maker trade occurred in natural gas [futures](https://www.investopedia.com/terms/f/futures.asp), which professional traders have long considered widow makers because of their price volatility. In 2006, the hedge fund Amaranth Advisors made a massive [leveraged](https://www.investopedia.com/terms/l/leverage.asp) trade on natural gas futures, trying to repeat its success on a similar speculative trade made a year earlier.
+Another famous example of a widow maker trade occurred in natural gas [[futures]](https://www.investopedia.com/terms/f/futures.asp), which professional traders have long considered widow makers because of their price volatility. In 2006, the hedge fund Amaranth Advisors made a massive [[leveraged]](https://www.investopedia.com/terms/l/leverage.asp) trade on natural gas futures, trying to repeat its success on a similar speculative trade made a year earlier.
 
 The energy desk at Amaranth sought higher-than-average rewards by taking on a risky trade in a market prone to unpredictable and swift price changes. Adding leverage increased that risk further. Instead of enjoying a replay of their previous money-making trade, Amaranth lost $6 billion as the bottom fell out of the natural gas market. This massive loss forced the hedge fund to liquidate its assets.

@@ -30,8 +30,8 @@ Guinea's economy is fueled by a rich reserve of minerals, gold, high-grade iron 
 
 ## The GNF and CFA Franc
 
-Guinea used to be part of the franc zone of former French colonies, using the [CFA Franc](https://www.investopedia.com/terms/c/cfa-franc.asp) as its official currency until its independence. Many of its neighboring nations, 14 West African countries in total, 12 of which are former French colonies, still use the CFA franc. Together, they make up the African Financial Community.
+Guinea used to be part of the franc zone of former French colonies, using the [[CFA Franc]](https://www.investopedia.com/terms/c/cfa-franc.asp) as its official currency until its independence. Many of its neighboring nations, 14 West African countries in total, 12 of which are former French colonies, still use the CFA franc. Together, they make up the African Financial Community.
 
-The CFA was created in 1945, after World War II to keep from devaluing money in French colonies. Prior to this, currencies in the French colonies were pegged to the [French franc](https://www.investopedia.com/terms/f/franc-f.asp), which was devalued with the signing of the Bretton Woods Agreement in 1945.
+The CFA was created in 1945, after World War II to keep from devaluing money in French colonies. Prior to this, currencies in the French colonies were pegged to the [[French franc]](https://www.investopedia.com/terms/f/franc-f.asp), which was devalued with the signing of the Bretton Woods Agreement in 1945.
 
-When it was introduced in 1945, the exchange rate was 1 CFA to 1.70 French francs, shifting to 1 CFA to 2 French francs in 1948. The currency kept parity when France switched its currency from the French franc to the euro. The current fixed exchange rate for the CFA to the [euro](https://www.investopedia.com/terms/e/euro.asp) is 1 euro = 655.64 CFA franc.
+When it was introduced in 1945, the exchange rate was 1 CFA to 1.70 French francs, shifting to 1 CFA to 2 French francs in 1948. The currency kept parity when France switched its currency from the French franc to the euro. The current fixed exchange rate for the CFA to the [[euro]](https://www.investopedia.com/terms/e/euro.asp) is 1 euro = 655.64 CFA franc.

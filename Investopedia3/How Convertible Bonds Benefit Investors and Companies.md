@@ -16,9 +16,9 @@ author: James Chen
 How Convertible Bonds Benefit Investors and Companies
 ## What Is a Convertible Bond?
 
-A convertible bond is a fixed-income corporate debt security that yields interest payments, but can be converted into a predetermined number of common stock or equity shares. The conversion from the bond to stock can be done at certain times during the bond's life and is usually at the discretion of the [bondholder](https://www.investopedia.com/terms/b/bondholder.asp).
+A convertible bond is a fixed-income corporate debt security that yields interest payments, but can be converted into a predetermined number of common stock or equity shares. The conversion from the bond to stock can be done at certain times during the bond's life and is usually at the discretion of the [[bondholder]](https://www.investopedia.com/terms/b/bondholder.asp).
 
-As a [hybrid security](https://www.investopedia.com/terms/h/hybridsecurity.asp), the price of a convertible bond is especially sensitive to changes in interest rates, the price of the underlying stock, and the issuer's [credit rating](https://www.investopedia.com/terms/c/creditrating.asp).
+As a [[hybrid security]](https://www.investopedia.com/terms/h/hybridsecurity.asp), the price of a convertible bond is especially sensitive to changes in interest rates, the price of the underlying stock, and the issuer's [credit rating](https://www.investopedia.com/terms/c/creditrating.asp).
 
 ### Key Takeaways
 
@@ -28,17 +28,17 @@ As a [hybrid security](https://www.investopedia.com/terms/h/hybridsecurity.asp),
 
 ## Understanding Convertible Bonds
 
-Convertible bonds are a flexible financing option for companies. A convertible bond offers investors a type of hybrid security, which has features of a bond such as interest payments while also providing the opportunity of owning the stock. This bond's [conversion ratio](https://www.investopedia.com/terms/c/conversionratio.asp) determines how many shares of stock you can get from converting one bond. For example, a 5:1 ratio means that one bond would convert to five shares of common stock.
+Convertible bonds are a flexible financing option for companies. A convertible bond offers investors a type of hybrid security, which has features of a bond such as interest payments while also providing the opportunity of owning the stock. This bond's [[conversion ratio]](https://www.investopedia.com/terms/c/conversionratio.asp) determines how many shares of stock you can get from converting one bond. For example, a 5:1 ratio means that one bond would convert to five shares of common stock.
 
-The [conversion price](https://www.investopedia.com/terms/c/conversionprice.asp) is the price per share at which a convertible security, such as corporate bonds or preferred shares, can be converted into [common stock](https://www.investopedia.com/terms/c/commonstock.asp). The conversion price is set when the conversion ratio is decided for a [convertible security](https://www.investopedia.com/terms/c/convertible-security.asp).
+The [[conversion price]](https://www.investopedia.com/terms/c/conversionprice.asp) is the price per share at which a convertible security, such as corporate bonds or preferred shares, can be converted into [common stock](https://www.investopedia.com/terms/c/commonstock.asp). The conversion price is set when the conversion ratio is decided for a [convertible security](https://www.investopedia.com/terms/c/convertible-security.asp).
 
 The conversion price and ratio can be found in the bond [indenture](https://www.investopedia.com/terms/i/indenture.asp) (in the case of convertible bonds) or in the security [prospectus](https://www.investopedia.com/terms/p/prospectus.asp) (in the case of convertible preferred shares).
 
 ## Varieties of Convertible Bonds
 
-A vanilla convertible bond provides the investor with the choice to hold the bond until [maturity](https://www.investopedia.com/terms/m/maturity.asp) or convert it to stock. If the stock price has decreased since the bond's issue date, the investor can hold the bond until maturity and get paid the face value. If the stock price increases significantly, the investor can convert the bond to stock and either hold or sell the stock at their discretion. Ideally, an investor wants to convert the bond to stock when the gain from the stock sale exceeds the face value of the bond plus the total amount of remaining interest payments.
+A vanilla convertible bond provides the investor with the choice to hold the bond until [[maturity]](https://www.investopedia.com/terms/m/maturity.asp) or convert it to stock. If the stock price has decreased since the bond's issue date, the investor can hold the bond until maturity and get paid the face value. If the stock price increases significantly, the investor can convert the bond to stock and either hold or sell the stock at their discretion. Ideally, an investor wants to convert the bond to stock when the gain from the stock sale exceeds the face value of the bond plus the total amount of remaining interest payments.
 
-Mandatory convertible bonds are required to be converted by the investor at a particular conversion ratio and price level. On the other hand, a [reversible convertible bond](https://www.investopedia.com/terms/r/reverseconvertiblebond.asp) gives the company the right to convert the bond to equity shares or keep the bond as a fixed income investment until maturity. If the bond is converted, it is done so at a preset price and conversion ratio.
+Mandatory convertible bonds are required to be converted by the investor at a particular conversion ratio and price level. On the other hand, a [[reversible convertible bond]](https://www.investopedia.com/terms/r/reverseconvertiblebond.asp) gives the company the right to convert the bond to equity shares or keep the bond as a fixed income investment until maturity. If the bond is converted, it is done so at a preset price and conversion ratio.
 
 ## Benefits and Disadvantages of Convertible Bonds
 
@@ -46,9 +46,9 @@ Issuing convertible bonds can help companies minimize negative investor sentimen
 
 Issuing convertible bonds can also help provide investors with some security in the event of default. A convertible bond protects investors' principal on the downside, but allows them to participate in the upside should the underlying company succeed.
 
-A startup company, for example, might have a project that requires a significant amount of capital resulting in a loss in the near-term revenues. However, the project should lead the company to profitability in the future. Convertible bond investors can get back some of their principal upon failure of the company while they can also benefit from [capital appreciation](https://www.investopedia.com/terms/c/capitalappreciation.asp), by converting the bonds into equity, if the company is successful.
+A startup company, for example, might have a project that requires a significant amount of capital resulting in a loss in the near-term revenues. However, the project should lead the company to profitability in the future. Convertible bond investors can get back some of their principal upon failure of the company while they can also benefit from [[capital appreciation]](https://www.investopedia.com/terms/c/capitalappreciation.asp), by converting the bonds into equity, if the company is successful.
 
-Investors can enjoy the value-added component built into convertible bonds meaning they're essentially a bond with a [stock option](https://www.investopedia.com/terms/s/stockoption.asp), particularly a call option. A call option is an agreement that gives the option buyer the right—not the obligation—to buy a stock, bond, or other instruments at a specified price within a specific period. However, convertible bonds tend to offer a lower coupon rate or [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) in exchange for the value of the option to convert the bond into common stock.
+Investors can enjoy the value-added component built into convertible bonds meaning they're essentially a bond with a [[stock option]](https://www.investopedia.com/terms/s/stockoption.asp), particularly a call option. A call option is an agreement that gives the option buyer the right—not the obligation—to buy a stock, bond, or other instruments at a specified price within a specific period. However, convertible bonds tend to offer a lower coupon rate or [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) in exchange for the value of the option to convert the bond into common stock.
 
 Companies benefit since they can issue debt at lower interest rates than with traditional bond offerings. However, not all companies offer convertible bonds. Also, most convertible bonds are considered to be riskier/more volatile than typical fixed-income instruments.
 

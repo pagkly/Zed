@@ -34,6 +34,6 @@ Many policyholders only think about the cost of medical services after the servi
 
 ## Usual, Customary and Reasonable Fees and Medicare
 
-Medicare UCR charges are not regulated by state or federal agencies, but Medicare does publish its UCR fee schedule. This is commonly referred to as "Medicare Allowable" charges. Providers who participate with [Medicare](https://www.investopedia.com/terms/m/medicare.asp) agree to accept the Medicare allowable charge as full payment. Patients are still responsible for their co-insurance and deductible.
+Medicare UCR charges are not regulated by state or federal agencies, but Medicare does publish its UCR fee schedule. This is commonly referred to as "Medicare Allowable" charges. Providers who participate with [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) agree to accept the Medicare allowable charge as full payment. Patients are still responsible for their co-insurance and deductible.
 
  Medicare providers may choose not to bill the patient for amounts above the Medicare allowable fee schedule. It is important to verify that a provider "Accepts Medicare Assignment" or is a "Medicare Provider" to avoid unexpected and potentially large out-of-pocket expenses.

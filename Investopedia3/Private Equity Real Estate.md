@@ -16,11 +16,11 @@ author: Julia Kagan
 Private Equity Real Estate
 ## What Is Private Equity Real Estate?
 
-Private equity real estate is an [alternative asset class](https://www.investopedia.com/terms/a/alternativeassets.asp) composed of professionally managed pooled private and public investments in the [real estate](https://www.investopedia.com/terms/r/realestate.asp) markets. Investing in this private equity real estate involves the acquisition, financing, and ownership (either direct or indirect) of property or properties via an investment fund.
+Private equity real estate is an [[alternative asset class]](https://www.investopedia.com/terms/a/alternativeassets.asp) composed of professionally managed pooled private and public investments in the [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) markets. Investing in this private equity real estate involves the acquisition, financing, and ownership (either direct or indirect) of property or properties via an investment fund.
 
 Private equity real estate funds became popular in the 1990s amid falling property prices as a way to scoop up properties as values fell. Previously, most institutional real estate investing adhered to core assets.
 
-Private equity real estate should not be confused with an equity real estate investment trust, or [equity REIT](https://www.investopedia.com/ask/answers/052815/what-difference-between-equity-reit-and-mortgage-reit.asp), which are publicly-traded shares representing real estate investments whose revenues are mainly generated through rental incomes on their real estate holdings.
+Private equity real estate should not be confused with an equity real estate investment trust, or [[equity REIT]](https://www.investopedia.com/ask/answers/052815/what-difference-between-equity-reit-and-mortgage-reit.asp), which are publicly-traded shares representing real estate investments whose revenues are mainly generated through rental incomes on their real estate holdings.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ Private equity real estate should not be confused with an equity real estate inv
 
 [Private equity](https://www.investopedia.com/terms/p/privateequity.asp) real estate funds allow [high-net-worth individuals](https://www.investopedia.com/terms/h/hnwi.asp) (HWNIs) and institutions like endowments and pension funds to invest in equity and debt holdings related to real estate assets. Using an [active management strategy](https://www.investopedia.com/terms/a/activemanagement.asp), private equity real estate takes a [diversified](https://www.investopedia.com/terms/d/diversifiedfund.asp) approach to property ownership. [General partners](https://www.investopedia.com/terms/g/generalpartner.asp) (GPs) invest in a variety of property types in different locations, which can range from new development and raw land holdings to complete redevelopment of existing properties, or cash-flow injections into struggling properties.
 
-Investing in private equity real estate requires an investor with a long-term outlook and a significant upfront [capital](https://www.investopedia.com/terms/c/capital.asp) commitment (over $250,000 initially and follow-on investments over time). Little flexibility and [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) are offered to investors since the capital commitment window typically requires several years.
+Investing in private equity real estate requires an investor with a long-term outlook and a significant upfront [[capital]](https://www.investopedia.com/terms/c/capital.asp) commitment (over $250,000 initially and follow-on investments over time). Little flexibility and [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) are offered to investors since the capital commitment window typically requires several years.
 
-[Lock-up periods](https://www.investopedia.com/terms/l/lockup-period.asp) for private equity real estate can sometimes last for more than a dozen or more years. Also, [distributions](https://www.investopedia.com/terms/d/distribution.asp) can be slow because they are often paid from cash flow rather than outright liquidation (investors have no right to demand a liquidation). Fund managers typically charge a [2-and-20 fee structure](https://www.investopedia.com/terms/t/two_and_twenty.asp), costing investors 2% of invested assets per year plus 20% of profits.
+[Lock-up periods](https://www.investopedia.com/terms/l/lockup-period.asp) for private equity real estate can sometimes last for more than a dozen or more years. Also, [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) can be slow because they are often paid from cash flow rather than outright liquidation (investors have no right to demand a liquidation). Fund managers typically charge a [2-and-20 fee structure](https://www.investopedia.com/terms/t/two_and_twenty.asp), costing investors 2% of invested assets per year plus 20% of profits.
 
 Private equity real estate investing is risky, but it can also provide high returns.
 
@@ -42,7 +42,7 @@ Private equity real estate investing is risky, but it can also provide high retu
 
 Despite the lack of flexibility and liquidity, this type of investment can provide high potential levels of income with strong price appreciation. Annual returns in the 6% to 8% range for core strategies and 8% to 10% for core-plus strategies are not uncommon. Returns for value-added or opportunistic strategies can be considerably higher. That said, private equity real estate is risky enough that investors can lose their entire investment if a fund underperforms.
 
-Funds created for individual investors generally require that the investment be funded at the time of the signing of the investment agreement, whereas funds created for [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) require a capital commitment. That capital is then drawn down as suitable investments are made. If no investments are made during the investment period specified by the agreement, nothing can be drawn from the commitment. 
+Funds created for individual investors generally require that the investment be funded at the time of the signing of the investment agreement, whereas funds created for [[institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp) require a capital commitment. That capital is then drawn down as suitable investments are made. If no investments are made during the investment period specified by the agreement, nothing can be drawn from the commitment. 
 
 ## Types of Private Equity Real Estate Investments
 

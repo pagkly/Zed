@@ -16,7 +16,7 @@ author: Adam Hayes
 The Ins and Outs of Expense Ratios
 ## What Is an Expense Ratio (ER)?
 
-The expense ratio (ER), also sometimes known as the [management expense ratio (MER)](https://www.investopedia.com/articles/investing/062113/mutual-funds-management-fees-vs-mer.asp), measures how much of a fund's assets are used for administrative and other operating expenses. An expense ratio is determined by dividing a fund's operating expenses by the average dollar value of its [assets under management (AUM)](https://www.investopedia.com/terms/a/aum.asp). Operating expenses reduce the fund's assets, thereby reducing the return to investors.
+The expense ratio (ER), also sometimes known as the [[management expense ratio (MER)]](https://www.investopedia.com/articles/investing/062113/mutual-funds-management-fees-vs-mer.asp), measures how much of a fund's assets are used for administrative and other operating expenses. An expense ratio is determined by dividing a fund's operating expenses by the average dollar value of its [[assets under management (AUM)]](https://www.investopedia.com/terms/a/aum.asp). Operating expenses reduce the fund's assets, thereby reducing the return to investors.
 
 ## The Formula for the Expense Ratio Is
 
@@ -26,15 +26,15 @@ ER\=Total Fund CostsTotal Fund Assets\\begin{aligned} &\\text{ER} = \\frac{ 
 
 Operating expenses vary according to the fund or stock; however, the expenses within the fund remain relatively stable. For example, a fund with low expenses will generally continue to have low expenses. The largest component of operating expenses is the fee paid to a fund's investment manager or advisor.
 
-Other costs include recordkeeping, custodial services, taxes, legal expenses, and accounting and auditing fees. Expenses that are charged by the fund are reflected in the fund's daily [net asset value (NAV)](https://www.investopedia.com/terms/n/nav.asp) and do not appear as a distinct charge to shareholders.
+Other costs include recordkeeping, custodial services, taxes, legal expenses, and accounting and auditing fees. Expenses that are charged by the fund are reflected in the fund's daily [[net asset value (NAV)]](https://www.investopedia.com/terms/n/nav.asp) and do not appear as a distinct charge to shareholders.
 
 Expense ratios can be modified in several ways. The expense ratio is most often concerned with total expenses, but sometimes, people want to understand gross expenses versus net.
 
 ## Components of an Expense Ratio
 
-Most expenses within a fund are variable; however, the variable expenses are fixed within the fund. For example, a fee consuming .5% of the fund's assets will always consume .5% of the assets regardless of how it varies. In addition to the management fees associated with a fund, some funds have an advertising and promotion expense referred to as a [12b-1 fee](https://www.investopedia.com/terms/1/12b-1fees.asp), which is included in operating expenses. Notably, 12b-f fees within a fund cannot exceed 1% (0.75% allocated to distribution and 0.25% allocated to shareholder servicing) according to [FINRA](https://www.investopedia.com/terms/f/finra.asp) rules.
+Most expenses within a fund are variable; however, the variable expenses are fixed within the fund. For example, a fee consuming .5% of the fund's assets will always consume .5% of the assets regardless of how it varies. In addition to the management fees associated with a fund, some funds have an advertising and promotion expense referred to as a [12b-1 fee](https://www.investopedia.com/terms/1/12b-1fees.asp), which is included in operating expenses. Notably, 12b-f fees within a fund cannot exceed 1% (0.75% allocated to distribution and 0.25% allocated to shareholder servicing) according to [[FINRA]](https://www.investopedia.com/terms/f/finra.asp) rules.
 
-A fund's trading activity, the buying, and selling of portfolio securities is not included in the calculation of the expense ratio. Costs not included in operating expenses are loads, contingent deferred sales charges (CDSC), and [redemption fees](https://www.investopedia.com/terms/r/redemptionfee.asp), which, if applicable, are paid directly by fund investors.
+A fund's trading activity, the buying, and selling of portfolio securities is not included in the calculation of the expense ratio. Costs not included in operating expenses are loads, contingent deferred sales charges (CDSC), and [[redemption fees]](https://www.investopedia.com/terms/r/redemptionfee.asp), which, if applicable, are paid directly by fund investors.
 
 ### Key Takeaways
 

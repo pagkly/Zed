@@ -16,13 +16,13 @@ author: Julia Kagan
 Loan Officer Definition
 ## What Is a Loan Officer?
 
-A loan officer is a representative of a bank, credit union, or other [financial institution](https://www.investopedia.com/articles/financial-theory/09/risk-free-rate-return.asp) who assists borrowers in the application process. Loan officers are often called mortgage loan officers since that is the most complex and costly type of loan most consumers encounter. However, most loan officers assist consumers and small business owners with a wide variety of secured and unsecured loans.
+A loan officer is a representative of a bank, credit union, or other [[financial institution]](https://www.investopedia.com/articles/financial-theory/09/risk-free-rate-return.asp) who assists borrowers in the application process. Loan officers are often called mortgage loan officers since that is the most complex and costly type of loan most consumers encounter. However, most loan officers assist consumers and small business owners with a wide variety of secured and unsecured loans.
 
 Loan officers must have a comprehensive knowledge of lending products, banking industry rules and regulations, and the required documentation for obtaining a loan.
 
 ## How a Loan Officer Works
 
-The loan officer is the direct contact for most [borrowers](https://www.investopedia.com/articles/basics/07/financing-options.asp) applying for a loan from a financial institution. The entire process can be handled over the internet, but most consumers probably still prefer a well-informed human on the other side of what is, after all, a costly and complex transaction. In fact, one reason why banks continue to have so many branch offices is that they need to bring loan officers face to face with potential borrowers.
+The loan officer is the direct contact for most [[borrowers]](https://www.investopedia.com/articles/basics/07/financing-options.asp) applying for a loan from a financial institution. The entire process can be handled over the internet, but most consumers probably still prefer a well-informed human on the other side of what is, after all, a costly and complex transaction. In fact, one reason why banks continue to have so many branch offices is that they need to bring loan officers face to face with potential borrowers.
 
 ### Key Takeaways
 
@@ -42,6 +42,6 @@ If the loan is approved, the loan officer is responsible for preparing the appro
 
 The loan officer is responsible for collecting the appropriate closing documents for a mortgage or other loan.
 
-Some loans are more work than others. Secured loans generally require more documentation than unsecured loans. Mortgage loans require a hefty stack of documentation due to the many federal, state, and local regulations that pertain to them. Reverse mortgages and mortgage refinancings require that the borrower receive a [HUD-1 settlement statement](https://www.investopedia.com/terms/h/hud-1.asp) before the closing.1
+Some loans are more work than others. Secured loans generally require more documentation than unsecured loans. Mortgage loans require a hefty stack of documentation due to the many federal, state, and local regulations that pertain to them. Reverse mortgages and mortgage refinancings require that the borrower receive a [[HUD-1 settlement statement]](https://www.investopedia.com/terms/h/hud-1.asp) before the closing.1
 
 Some loan officers are compensated through commissions. This commission is a prepaid charge and is often negotiable. Commission fees are usually highest for mortgage loans.

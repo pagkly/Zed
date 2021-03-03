@@ -16,7 +16,7 @@ author: Mitchell Grant
 Vertical Analysis: The Basics
 ## What Is Vertical Analysis?
 
-Vertical analysis is a method of financial statement analysis in which each line item is listed as a percentage of a base figure within the statement. Thus, line items on an income statement can be stated as a percentage of [gross sales](https://www.investopedia.com/terms/g/grosssales.asp), while line items on a balance sheet can be stated as a percentage of total assets or liabilities, and vertical analysis of a cash flow statement shows each cash inflow or outflow as a percentage of the total cash inflows.
+Vertical analysis is a method of financial statement analysis in which each line item is listed as a percentage of a base figure within the statement. Thus, line items on an income statement can be stated as a percentage of [[gross sales]](https://www.investopedia.com/terms/g/grosssales.asp), while line items on a balance sheet can be stated as a percentage of total assets or liabilities, and vertical analysis of a cash flow statement shows each cash inflow or outflow as a percentage of the total cash inflows.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Vertical analysis makes it much easier to compare the financial statements of on
 
 For example, by showing the various expense line items in the income statement as a percentage of sales, one can see how these are contributing to profit margins and whether profitability is improving over time. It thus becomes easier to compare the profitability of a company with its peers.
 
-Financial statements that include vertical analysis clearly show line item percentages in a separate column. These types of financial statements, including detailed vertical analysis, are also known as [common-size financial statements](https://www.investopedia.com/terms/c/commonsizefinancialstatement.asp) and are used by many companies to provide greater detail on a company’s financial position.
+Financial statements that include vertical analysis clearly show line item percentages in a separate column. These types of financial statements, including detailed vertical analysis, are also known as [[common-size financial statements]](https://www.investopedia.com/terms/c/commonsizefinancialstatement.asp) and are used by many companies to provide greater detail on a company’s financial position.
 
 Common-size financial statements often incorporate comparative financial statements that include columns comparing each line item to a previously reported period.
 
@@ -37,7 +37,7 @@ Vertical analysis is used in order to gain a picture of whether performance metr
 
 ## Vertical vs. Horizontal Analysis
 
-Another form of financial statement analysis used in ratio analysis is horizontal analysis or [trend analysis](https://www.investopedia.com/terms/t/trendanalysis.asp). This is where ratios or line items in a company's financial statements are compared over a certain period of time by choosing one year's worth of entries as a baseline, while every other year represents percentage differences in terms of changes to that baseline.
+Another form of financial statement analysis used in ratio analysis is horizontal analysis or [[trend analysis]](https://www.investopedia.com/terms/t/trendanalysis.asp). This is where ratios or line items in a company's financial statements are compared over a certain period of time by choosing one year's worth of entries as a baseline, while every other year represents percentage differences in terms of changes to that baseline.
 
 For example, the amount of cash reported on the balance sheet on December 31 of 2018, 2017, 2016, 2015, and 2014 will be expressed as a percentage of the December 31, 2014, amount. Instead of dollar amounts, you might see 141, 135, 126, 118, and 100.
 

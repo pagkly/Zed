@@ -39,11 +39,11 @@ Tobin’s Q\=Equity Market ValueEquity Book Value\\text{Tobin's Q} = \\frac
 
 ## What the Q Ratio Can Tell You
 
-The Tobin's Q ratio is a quotient popularized by [James Tobin](https://www.investopedia.com/terms/j/james-tobin.asp) of Yale University, Nobel laureate in economics, who hypothesized that the combined [market value](https://www.investopedia.com/terms/m/marketvalue.asp) of all the companies on the stock market should be about equal to their replacement costs.
+The Tobin's Q ratio is a quotient popularized by [[James Tobin]](https://www.investopedia.com/terms/j/james-tobin.asp) of Yale University, Nobel laureate in economics, who hypothesized that the combined [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp) of all the companies on the stock market should be about equal to their replacement costs.
 
 While Tobin is often attributed as its creator, this ratio was first proposed in an academic publication by economist Nicholas Kaldor in 1966. In earlier texts, the ratio is sometimes referred to as "Kaldor's v."
 
-A low Q ratio—between 0 and 1—means that the cost to replace a firm's assets is greater than the value of its stock. This implies that the stock is undervalued. Conversely, a high Q (greater than 1) implies that a firm's stock is more expensive than the [replacement cost](https://www.investopedia.com/terms/r/replacementcost.asp) of its assets, which implies that the stock is [overvalued](https://www.investopedia.com/terms/o/overvalued.asp).
+A low Q ratio—between 0 and 1—means that the cost to replace a firm's assets is greater than the value of its stock. This implies that the stock is undervalued. Conversely, a high Q (greater than 1) implies that a firm's stock is more expensive than the [[replacement cost]](https://www.investopedia.com/terms/r/replacementcost.asp) of its assets, which implies that the stock is [[overvalued]](https://www.investopedia.com/terms/o/overvalued.asp).
 
 This measure of stock valuation is the driving factor behind investment decisions in Tobin's Q ratio. When applied to the market as a whole, we can gauge whether an entire market is relatively overbought or undervalued; we can represent this relationship as follows:
 
@@ -79,6 +79,6 @@ As for overvalued companies, those with a ratio higher than one, they may see in
 
 ## Limitations of Using the Q Ratio
 
-Tobin's Q is still used in practice, but others have since found that [fundamentals](https://www.investopedia.com/terms/f/fundamentals.asp) predict investment results much better than the Q ratio, including the rate of profit—either for a company or the average rate of profit for a nation's economy.
+Tobin's Q is still used in practice, but others have since found that [[fundamentals]](https://www.investopedia.com/terms/f/fundamentals.asp) predict investment results much better than the Q ratio, including the rate of profit—either for a company or the average rate of profit for a nation's economy.
 
 Others, like Doug Henwood in his book _Wall Street: How It Works and For Whom_, find that the Q ratio fails to accurately predict investment outcomes over an important time period. The data for Tobin's original (1977) paper covered the years 1960 to 1974, a period for which Q seemed to explain investment pretty well. But looking at other time periods, the Q fails to predict over- or undervalued markets or firms. While the Q and the investment seemed to move together for the first half of the 1970s, the Q collapsed during the bearish stock markets of the late 1970s, even as investment in assets rose.

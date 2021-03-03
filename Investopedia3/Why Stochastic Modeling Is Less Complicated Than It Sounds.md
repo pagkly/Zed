@@ -16,9 +16,9 @@ author: Will Kenton
 Why Stochastic Modeling Is Less Complicated Than It Sounds
 ## What Is Stochastic Modeling?
 
-Stochastic modeling is a form of [financial model](https://www.investopedia.com/terms/f/financialmodeling.asp) that is used to help make investment decisions. This type of modeling forecasts the probability of various outcomes under different conditions, using random variables.
+Stochastic modeling is a form of [[financial model]](https://www.investopedia.com/terms/f/financialmodeling.asp) that is used to help make investment decisions. This type of modeling forecasts the probability of various outcomes under different conditions, using random variables.
 
-Stochastic modeling presents data and predicts outcomes that account for certain levels of unpredictability or randomness. Companies in many industries can employ stochastic modeling to improve their business practices and increase profitability. In the financial services sector, planners, analysts, and portfolio managers use stochastic modeling to [manage their assets and liabilities](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) and optimize their portfolios.
+Stochastic modeling presents data and predicts outcomes that account for certain levels of unpredictability or randomness. Companies in many industries can employ stochastic modeling to improve their business practices and increase profitability. In the financial services sector, planners, analysts, and portfolio managers use stochastic modeling to [[manage their assets and liabilities]](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) and optimize their portfolios.
 
 ## Understanding Stochastic Modeling: Constant Versus Changeable
 
@@ -42,7 +42,7 @@ A stochastic model incorporates random variables to produce many different outco
 
 ### How It's Used in the Investment Industry
 
-Stochastic investment models attempt to forecast the variations of prices, returns on assets (ROA), and asset classes—such as bonds and stocks—over time. The [Monte Carlo simulation](https://www.investopedia.com/terms/m/montecarlosimulation.asp) is one example of a stochastic model; it can simulate how a portfolio may perform based on the probability distributions of individual stock returns. Stochastic investment models can be either single-asset or multi-asset models, and may be used for financial planning, to optimize asset-liability-management (ALM) or asset allocation; they are also used for actuarial work.
+Stochastic investment models attempt to forecast the variations of prices, returns on assets (ROA), and asset classes—such as bonds and stocks—over time. The [[Monte Carlo simulation]](https://www.investopedia.com/terms/m/montecarlosimulation.asp) is one example of a stochastic model; it can simulate how a portfolio may perform based on the probability distributions of individual stock returns. Stochastic investment models can be either single-asset or multi-asset models, and may be used for financial planning, to optimize asset-liability-management (ALM) or asset allocation; they are also used for actuarial work.
 
 ### A Pivotal Tool in Financial Decision-Making
 

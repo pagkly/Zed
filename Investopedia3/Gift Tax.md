@@ -29,11 +29,11 @@ The giver of the gift is required to pay the gift tax. Under special circumstanc
 
 ## How a Gift Tax Works
 
-The [federal gift tax](https://www.investopedia.com/financial-edge/0412/what-are-gift-taxes.aspx) was created to prevent taxpayers from gifting their money and items of value to others to avoid paying taxes. To prevent undue hardship to the recipient and oblige givers to honor their tax liability, the gift tax is applied to the gift giver.
+The [[federal gift tax]](https://www.investopedia.com/financial-edge/0412/what-are-gift-taxes.aspx) was created to prevent taxpayers from gifting their money and items of value to others to avoid paying taxes. To prevent undue hardship to the recipient and oblige givers to honor their tax liability, the gift tax is applied to the gift giver.
 
 The following are generally not subject to gift tax:
 
--   [Gifts to the donor’s spouse are excluded if the spouse is a U.S. citizen](https://www.investopedia.com/terms/u/unlimited-marital-deduction.asp). As of 2019 noncitizen spouses cannot receive more than $155,000 without being subject to the gift tax (rising to $157,000 in 2020).2
+-   [[Gifts to the donor’s spouse are excluded if the spouse is a U.S. citizen]](https://www.investopedia.com/terms/u/unlimited-marital-deduction.asp). As of 2019 noncitizen spouses cannot receive more than $155,000 without being subject to the gift tax (rising to $157,000 in 2020).2
 -   Gifts to a political organization for use by the political organization are excluded.
 -   Gifts that are valued at less than the annual gift tax exclusion for a given year are excluded.
 -   Medical and educational expenses—payments made by a donor to a person or an organization, such as a college, doctor, or hospital—are excluded.

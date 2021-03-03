@@ -18,9 +18,9 @@ Money Market Fund Definition
 
 A money market fund is a kind of mutual fund that invests in highly liquid, near-term instruments. These instruments include cash, cash equivalent securities, and high-credit-rating, debt-based securities with a short-term maturity (such as U.S. Treasuries). Money market funds are intended to offer investors high liquidity with a very low level of risk. Money market funds are also called money market mutual funds.
 
-On March 18, 2020, the Federal Reserve announced the [Money Market Mutual Fund Liquidity Facility (MMLF)](https://www.investopedia.com/money-market-mutual-fund-liquidity-facility-4800304). This is a lending program that lends money to banks so they can purchase assets from money market funds, ensuring those funds' liquidity during the COVID-19 crisis.
+On March 18, 2020, the Federal Reserve announced the [[Money Market Mutual Fund Liquidity Facility (MMLF)]](https://www.investopedia.com/money-market-mutual-fund-liquidity-facility-4800304). This is a lending program that lends money to banks so they can purchase assets from money market funds, ensuring those funds' liquidity during the COVID-19 crisis.
 
-While they sound similar in name, a money market fund is not the same as a [money market account](https://www.investopedia.com/terms/m/moneymarketaccount.asp) (MMA). A money market fund is an investment that is sponsored by an investment fund company. Therefore, it carries no guarantee of principal. A money market account is a type of interest-earning savings account. Money market accounts are offered by financial institutions. They are insured by the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC), and they typically have limited transaction privileges.
+While they sound similar in name, a money market fund is not the same as a [[money market account]](https://www.investopedia.com/terms/m/moneymarketaccount.asp) (MMA). A money market fund is an investment that is sponsored by an investment fund company. Therefore, it carries no guarantee of principal. A money market account is a type of interest-earning savings account. Money market accounts are offered by financial institutions. They are insured by the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC), and they typically have limited transaction privileges.
 
 ### Key Takeaways
 
@@ -31,14 +31,14 @@ While they sound similar in name, a money market fund is not the same as a [mone
 
 ## How a Money Market Fund Works
 
-Money market funds work like a typical mutual fund. They issue redeemable units or shares to investors, and they are mandated to follow the guidelines drafted by financial regulators (for example, those set by the U.S. [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC)).
+Money market funds work like a typical mutual fund. They issue redeemable units or shares to investors, and they are mandated to follow the guidelines drafted by financial regulators (for example, those set by the U.S. [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC)).
 
 A money market fund may invest in the following types of debt-based financial instruments:
 
--   [Bankers' Acceptances](https://www.investopedia.com/terms/b/bankersacceptance.asp) (BA)—short-term debt guaranteed by a commercial bank
--   [Certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs)—bank-issued savings certificate with short-term maturity
--   [Commercial paper](https://www.investopedia.com/terms/c/commercialpaper.asp)—unsecured short-term corporate debt
--   [Repurchase agreements](https://www.investopedia.com/terms/r/repurchaseagreement.asp) (Repo)—short-term government securities
+-   [[Bankers' Acceptances]](https://www.investopedia.com/terms/b/bankersacceptance.asp) (BA)—short-term debt guaranteed by a commercial bank
+-   [[Certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs)—bank-issued savings certificate with short-term maturity
+-   [[Commercial paper]](https://www.investopedia.com/terms/c/commercialpaper.asp)—unsecured short-term corporate debt
+-   [[Repurchase agreements]](https://www.investopedia.com/terms/r/repurchaseagreement.asp) (Repo)—short-term government securities
 -   U.S. Treasuries—short-term government debt issues
 
 Returns from these instruments are dependent on the applicable market interest rates, and therefore, the overall returns from the money market funds are also dependent on interest rates.
@@ -89,17 +89,17 @@ To prevent this from happening again, in 2010—in the aftermath of the 2008 fin
 
 In the U.S., money market funds are under the purview of the SEC. This regulatory body defines the necessary guidelines for the characteristics, maturity, and variety of allowable investments in a money market fund.
 
-Under the provisions, a money fund mainly invests in the top-rated debt instruments, and they should have a maturity period under 13 months.4 The money market fund portfolio is required to maintain a [weighted average maturity (WAM)](https://www.investopedia.com/terms/w/weightedaveragematurity.asp) period of 60 days or less. This WAM requirement means that the average maturity period of all the invested instruments—taken in proportion to their weights in the fund portfolio—should not be more than 60 days.5 This maturity limitation is done to ensure that only highly liquid instruments qualify for investments, and the investor’s money is not locked into long-maturity instruments that can mar the liquidity.
+Under the provisions, a money fund mainly invests in the top-rated debt instruments, and they should have a maturity period under 13 months.4 The money market fund portfolio is required to maintain a [[weighted average maturity (WAM)]](https://www.investopedia.com/terms/w/weightedaveragematurity.asp) period of 60 days or less. This WAM requirement means that the average maturity period of all the invested instruments—taken in proportion to their weights in the fund portfolio—should not be more than 60 days.5 This maturity limitation is done to ensure that only highly liquid instruments qualify for investments, and the investor’s money is not locked into long-maturity instruments that can mar the liquidity.
 
 A money market fund is not allowed to invest more than 5% in any one issuer (in order to avoid issuer-specific risk).6 However, government-issued securities and repurchase agreements provide an exception to this rule.
 
 ## Advantages and Disadvantages of Money Market Funds
 
-Money market funds compete against similar investment options, such as bank money market accounts, [ultrashort bond funds](https://www.investopedia.com/terms/u/ultra_short_bond_fund.asp), and enhanced cash funds. These investment options may invest in a wider variety of assets, as well as aiming for higher returns.
+Money market funds compete against similar investment options, such as bank money market accounts, [[ultrashort bond funds]](https://www.investopedia.com/terms/u/ultra_short_bond_fund.asp), and enhanced cash funds. These investment options may invest in a wider variety of assets, as well as aiming for higher returns.
 
 The primary purpose of a money market fund is to provide investors a safe avenue for investing in secure and highly liquid, cash-equivalent, debt-based assets using smaller investment amounts. In the realm of mutual-fund-like investments, money market funds are characterized as a low-risk, low-return investment.
 
-Many investors prefer to park substantial amounts of cash in such funds for the short-term. However, money market funds are not suitable for long term investment goals, like retirement planning. This is because they don’t offer much [capital appreciation.](https://www.investopedia.com/terms/c/capitalappreciation.asp)
+Many investors prefer to park substantial amounts of cash in such funds for the short-term. However, money market funds are not suitable for long term investment goals, like retirement planning. This is because they don’t offer much [[capital appreciation.]](https://www.investopedia.com/terms/c/capitalappreciation.asp)
 
 Money market funds appear attractive to investors as they come with no loads—no entry charges or exit charges. Many funds also provide investors with tax-advantaged gains by investing in municipal securities that are tax-exempt at the federal tax level (and in some instances at the state level, too).
 
@@ -131,7 +131,7 @@ Fund shareholders can typically withdraw their money at any time, but they may h
 
 Money market funds were designed and launched during the early 1970s in the U.S. They gained rapid popularity because they were an easy way for investors to purchase a pool of securities that, in general, offered better returns than those available from a standard interest-bearing bank account.
 
-Commercial paper has become a common component of many money market funds. Previously, money market funds held only [government bonds](https://www.investopedia.com/terms/g/government-bond.asp). However, this transition away from only government bonds resulted in higher yields. At the same time, it was this reliance on commercial paper that led to the Reserve Primary Fund crisis.
+Commercial paper has become a common component of many money market funds. Previously, money market funds held only [[government bonds]](https://www.investopedia.com/terms/g/government-bond.asp). However, this transition away from only government bonds resulted in higher yields. At the same time, it was this reliance on commercial paper that led to the Reserve Primary Fund crisis.
 
 In addition to the reforms that the SEC introduced in 2010, the SEC also implemented some fundamental structural changes to the way they regulate money market funds in 2016.
 
@@ -147,6 +147,6 @@ During the decade spanning from 2000 to 2010, the monetary policies of the Feder
 
 A 2012 comparative study by Winthrop Capital Management indicates that, although the net assets of the Federated Prime Money Market Fund increased from $95.7 billion to $204.1 billion between 2007 and 2011, the total return from the fund effectively fell [from 4.78% to 0%](http://winthropcm.com/wp-content/uploads/2016/11/The-Future-of-Money-Market-Funds.pdf) during the same period.
 
-Another economic policy in recent years that has had an adverse impact on money market funds is [quantitative easing (QE)](https://www.investopedia.com/terms/q/quantitative-easing.asp). QE is an unconventional monetary policy where a central bank purchases government securities or other securities from the market in order to lower interest rates and increase the money supply.
+Another economic policy in recent years that has had an adverse impact on money market funds is [[quantitative easing (QE)]](https://www.investopedia.com/terms/q/quantitative-easing.asp). QE is an unconventional monetary policy where a central bank purchases government securities or other securities from the market in order to lower interest rates and increase the money supply.
 
 As major economies across the globe—including the U.S.—followed QE measures in the aftermaths of the 2008 financial crisis, a good portion of the QE money made its way into money market mutual funds as a haven. This migration of funds led to interest rates remaining low for a long duration, and the diminishing of returns from money market funds.

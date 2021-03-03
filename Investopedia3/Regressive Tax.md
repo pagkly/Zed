@@ -16,7 +16,7 @@ author: Julia Kagan
 Regressive Tax
 ## What Is a Regressive Tax?
 
-A [regressive tax](https://www.investopedia.com/ask/answers/042415/what-types-economies-are-regressive-taxes-common.asp) is a tax applied uniformly, taking a larger percentage of income from low-income earners than from high-income earners. It is in opposition to a [progressive tax](https://www.investopedia.com/terms/p/progressivetax.asp), which takes a larger percentage from high-income earners.
+A [[regressive tax]](https://www.investopedia.com/ask/answers/042415/what-types-economies-are-regressive-taxes-common.asp) is a tax applied uniformly, taking a larger percentage of income from low-income earners than from high-income earners. It is in opposition to a [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp), which takes a larger percentage from high-income earners.
 
 ### Key Takeaways
 
@@ -27,15 +27,15 @@ A [regressive tax](https://www.investopedia.com/ask/answers/042415/what-types-ec
 
 ## Understanding Regressive Taxes
 
-A regressive tax affects people with low incomes more severely than people with high incomes because it is applied uniformly to all situations, regardless of the [taxpayer](https://www.investopedia.com/terms/t/taxpayer.asp). While it may be fair in some instances to tax everyone at the same rate, it is seen as unjust in other cases. As such, most income tax systems employ a progressive schedule that taxes high-income earners at a higher percentage rate than low-income earners, while other types of taxes are uniformly applied.
+A regressive tax affects people with low incomes more severely than people with high incomes because it is applied uniformly to all situations, regardless of the [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp). While it may be fair in some instances to tax everyone at the same rate, it is seen as unjust in other cases. As such, most income tax systems employ a progressive schedule that taxes high-income earners at a higher percentage rate than low-income earners, while other types of taxes are uniformly applied.
 
-Although the United States has a progressive taxation system when it comes to [income tax](https://www.investopedia.com/terms/i/incometax.asp), meaning higher income earners pay a higher percentage of taxes each year compared to those with a lower income, we do pay certain levies that are considered to be regressive taxes. Some of these include state sales taxes, user fees, and to some degree, property taxes.
+Although the United States has a progressive taxation system when it comes to [[income tax]](https://www.investopedia.com/terms/i/incometax.asp), meaning higher income earners pay a higher percentage of taxes each year compared to those with a lower income, we do pay certain levies that are considered to be regressive taxes. Some of these include state sales taxes, user fees, and to some degree, property taxes.
 
 A regressive tax system is more common in less developed countries, where there may be a greater number of people in the same income bracket, thus reducing the negative impact of the regressive tax.
 
 ## Sales Taxes
 
-Governments apply sales tax uniformly to all consumers based on what they buy. Even though the tax may be uniform (such as a 7 percent [sales tax](https://www.investopedia.com/terms/s/salestax.asp)), lower-income consumers are more affected.
+Governments apply sales tax uniformly to all consumers based on what they buy. Even though the tax may be uniform (such as a 7 percent [[sales tax]](https://www.investopedia.com/terms/s/salestax.asp)), lower-income consumers are more affected.
 
 For example, imagine two individuals each purchase $100 of clothing per week, and they each pay $7 in tax on their retail purchases. The first individual earns $2,000 per week, making the sales tax rate on her purchase 0.35 percent of income. In contrast, the other individual earns $320 per week, making her clothing sales tax 2.2 percent of income. In this case, although the tax is the same rate in both cases, the person with the lower income pays a higher percentage of income, making the tax regressive.
 
@@ -55,4 +55,4 @@ Often tossed around in debates about income tax, the phrase "[flat tax](https://
 
 ## "Sin" Taxes
 
-Taxes levied on products that are deemed to be harmful to society are called [sin taxes](https://www.investopedia.com/terms/s/sin_tax.asp). These are added to the prices of goods like alcohol and tobacco in order to dissuade people from using them. The [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) considers these taxes to be regressive, because, once again, they are more burdensome to low-income earners rather than their high-income counterparts.
+Taxes levied on products that are deemed to be harmful to society are called [[sin taxes]](https://www.investopedia.com/terms/s/sin_tax.asp). These are added to the prices of goods like alcohol and tobacco in order to dissuade people from using them. The [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) considers these taxes to be regressive, because, once again, they are more burdensome to low-income earners rather than their high-income counterparts.

@@ -16,9 +16,9 @@ author: James Chen
 Forward Premium
 ## What Is a Forward Premium?
 
-A forward premium is a situation in which the forward or expected future price for a currency is greater than the [spot price](https://www.investopedia.com/terms/s/spotprice.asp). It is an indication by the market that the current domestic exchange rate is going to increase against the other currency.
+A forward premium is a situation in which the forward or expected future price for a currency is greater than the [[spot price]](https://www.investopedia.com/terms/s/spotprice.asp). It is an indication by the market that the current domestic exchange rate is going to increase against the other currency.
 
-This circumstance can be confusing because an increasing exchange rate means the [currency is depreciating](https://www.investopedia.com/terms/c/currency-depreciation.asp) in value.
+This circumstance can be confusing because an increasing exchange rate means the [[currency is depreciating]](https://www.investopedia.com/terms/c/currency-depreciation.asp) in value.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ This circumstance can be confusing because an increasing exchange rate means th
 
 ## Understanding Forward Premiums
 
-A forward premium is frequently measured as the difference between the current [spot rate](https://www.investopedia.com/terms/s/spot_rate.asp) and the [forward rate](https://www.investopedia.com/terms/f/forwardrate.asp), so it is reasonable to assume that the future spot rate will be equal to the current futures rate. According to the forward expectation's theory of exchange rates, the current spot futures rate will be the future spot rate. This theory is rooted in [empirical studies](https://www.investopedia.com/terms/e/empiricalprobability.asp) and is a reasonable assumption over a long-term time horizon.
+A forward premium is frequently measured as the difference between the current [[spot rate]](https://www.investopedia.com/terms/s/spot_rate.asp) and the [[forward rate]](https://www.investopedia.com/terms/f/forwardrate.asp), so it is reasonable to assume that the future spot rate will be equal to the current futures rate. According to the forward expectation's theory of exchange rates, the current spot futures rate will be the future spot rate. This theory is rooted in [[empirical studies]](https://www.investopedia.com/terms/e/empiricalprobability.asp) and is a reasonable assumption over a long-term time horizon.
 
 Typically, a forward premium reflects possible changes arising from differences in the interest rate between the two currencies of the two countries involved.
 
-Forward currency [exchange rates](https://www.investopedia.com/terms/e/exchangerate.asp) are often different from the spot exchange rate for the currency. If the forward exchange rate for a currency is more than the spot rate, a premium exists for that currency. A discount happens when the forward exchange rate is less than the spot rate.
+Forward currency [[exchange rates]](https://www.investopedia.com/terms/e/exchangerate.asp) are often different from the spot exchange rate for the currency. If the forward exchange rate for a currency is more than the spot rate, a premium exists for that currency. A discount happens when the forward exchange rate is less than the spot rate.
 
 ## Forward Rate Premium Calculation
 

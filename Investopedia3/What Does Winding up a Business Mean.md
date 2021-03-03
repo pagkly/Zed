@@ -16,7 +16,7 @@ author: Will Kenton
 What Does Winding up a Business Mean?
 ## What Is Winding Up?
 
-Winding up is the process of dissolving a company. While winding up, a company ceases to do business as usual. Its sole purpose is to sell off stock, pay off creditors, and distribute any remaining assets to partners or [shareholders](https://www.investopedia.com/terms/s/shareholder.asp). The term is used primarily in Great Britain, where it is synonymous with [liquidation](https://www.investopedia.com/terms/l/liquidate.asp), which is the process of converting assets to cash.
+Winding up is the process of dissolving a company. While winding up, a company ceases to do business as usual. Its sole purpose is to sell off stock, pay off creditors, and distribute any remaining assets to partners or [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp). The term is used primarily in Great Britain, where it is synonymous with [[liquidation]](https://www.investopedia.com/terms/l/liquidate.asp), which is the process of converting assets to cash.
 
 ### Key Takeaways
 
@@ -26,19 +26,19 @@ Winding up is the process of dissolving a company. While winding up, a company
 
 ## How Winding Up Works
 
-Winding up a business is a legal process regulated by corporate laws as well as a company's [articles of association](https://www.investopedia.com/terms/a/articles-of-association.asp) or partnership agreement. Winding up can be compulsory or voluntary and can apply to publicly and privately held companies.
+Winding up a business is a legal process regulated by corporate laws as well as a company's [[articles of association]](https://www.investopedia.com/terms/a/articles-of-association.asp) or partnership agreement. Winding up can be compulsory or voluntary and can apply to publicly and privately held companies.
 
 ### Compulsory Winding Up
 
-A company can be legally forced to wind up by a court order. In such cases, the company is ordered to appoint a [liquidator](https://www.investopedia.com/terms/l/liquidator.asp) to manage the sale of assets and distribution of the proceeds to creditors.
+A company can be legally forced to wind up by a court order. In such cases, the company is ordered to appoint a [[liquidator]](https://www.investopedia.com/terms/l/liquidator.asp) to manage the sale of assets and distribution of the proceeds to creditors.
 
-The court order is often triggered by a suit brought by the company's creditors. They are often the first to realize that a company is [insolvent](https://www.investopedia.com/terms/i/insolvency.asp) because their bills have remained unpaid. In other cases, the winding-up is the final conclusion of a [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) proceeding, which can involve creditors trying to recoup money owed by the company. In any case, a company may not have sufficient assets to satisfy all of its debtors entirely, and the creditors will face an [economic loss](https://www.investopedia.com/terms/e/economicprofit.asp).
+The court order is often triggered by a suit brought by the company's creditors. They are often the first to realize that a company is [[insolvent]](https://www.investopedia.com/terms/i/insolvency.asp) because their bills have remained unpaid. In other cases, the winding-up is the final conclusion of a [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) proceeding, which can involve creditors trying to recoup money owed by the company. In any case, a company may not have sufficient assets to satisfy all of its debtors entirely, and the creditors will face an [economic loss](https://www.investopedia.com/terms/e/economicprofit.asp).
 
 ### Voluntary Winding Up
 
 A company's shareholders or partners may trigger a voluntary winding up, usually by the passage of a resolution. If the company is insolvent, the shareholders may trigger a winding-up to avoid bankruptcy and, in some cases, personal liability for the company's debts. Even if it is solvent, the shareholders may feel their objectives have been met, and it is time to cease operations and distribute company assets.
 
-In other cases, market situations may paint a bleak outlook for the business. If the [stakeholders](https://www.investopedia.com/terms/s/stakeholder.asp) decide the company will face insurmountable challenges, they may call for a resolution to wind up the business. A [subsidiary](https://www.investopedia.com/terms/s/subsidiary.asp) also may be wound up, usually because of its diminishing prospects or its inadequate contribution to the parent company's [bottom line](https://www.investopedia.com/terms/b/bottomline.asp) or profit.
+In other cases, market situations may paint a bleak outlook for the business. If the [[stakeholders]](https://www.investopedia.com/terms/s/stakeholder.asp) decide the company will face insurmountable challenges, they may call for a resolution to wind up the business. A [[subsidiary]](https://www.investopedia.com/terms/s/subsidiary.asp) also may be wound up, usually because of its diminishing prospects or its inadequate contribution to the parent company's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) or profit.
 
 Winding up is when a business liquidates and permanently ceases operations while bankruptcy can allow a company to start again.
 

@@ -16,11 +16,11 @@ author: Julia Kagan
 Certified Information Systems Auditor (CISA)
 ## What Is a Certified Information Systems Auditor?
 
-Certified Information Systems Auditor (CISA) refers to a designation issued by the Information Systems Audit and Control Association (ISACA). The designation is the global standard for professionals who have a [career in information systems](https://www.investopedia.com/ask/answers/040315/what-difference-between-mis-management-information-system-and-information-technology.asp), in particular, auditing, control, and security. CISA holders demonstrate to employers that they have the knowledge, technical skills, and proficiency to meet the dynamic challenges facing modern organizations.
+Certified Information Systems Auditor (CISA) refers to a designation issued by the Information Systems Audit and Control Association (ISACA). The designation is the global standard for professionals who have a [[career in information systems]](https://www.investopedia.com/ask/answers/040315/what-difference-between-mis-management-information-system-and-information-technology.asp), in particular, auditing, control, and security. CISA holders demonstrate to employers that they have the knowledge, technical skills, and proficiency to meet the dynamic challenges facing modern organizations.
 
 ### Key Takeaways
 
--   Certified Information Systems Auditor (CISA) is the global standard for professionals who have a [career in information systems](https://www.investopedia.com/ask/answers/040315/what-difference-between-mis-management-information-system-and-information-technology.asp), in particular, auditing, control, and security.
+-   Certified Information Systems Auditor (CISA) is the global standard for professionals who have a [[career in information systems]](https://www.investopedia.com/ask/answers/040315/what-difference-between-mis-management-information-system-and-information-technology.asp), in particular, auditing, control, and security.
 -   CISA candidates must pass a comprehensive exam and satisfy industry work experience requirements.
 -   CISA candidates must have a minimum of five years of professional experience and must undertake 20 hours of training per year to keep their designation.
 
@@ -41,7 +41,7 @@ CISA candidates must have a minimum of five years of professional experience in
 -   A maximum of one year of information systems experience OR one year of non-information systems auditing experience. (Substitutes one year of work experience.)
 -   Sixty to 120 completed university semester credit hours. (Sixty credit hours substitutes one year of work experience, while 120 credit hours substitute two years of work experience.)
 -   A master’s or bachelor’s degree from a university that sponsors ISACA programs. (Substitutes one year of work experience.)
--   A [master’s degree](https://www.investopedia.com/articles/personal-finance/041415/masters-degree-vs-work-experience-which-one-more-valuable.asp) in information security or information technology from an ISACA accredited university. (Substitutes one year of work experience.)
+-   A [[master’s degree]](https://www.investopedia.com/articles/personal-finance/041415/masters-degree-vs-work-experience-which-one-more-valuable.asp) in information security or information technology from an ISACA accredited university. (Substitutes one year of work experience.)
 
 University instructors who have two years of experience in a related field, such as computer science, information systems auditing, or accounting, can substitute that experience for one year of work experience.
 

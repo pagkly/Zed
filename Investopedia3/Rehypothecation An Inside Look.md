@@ -26,15 +26,15 @@ Rehypothecation is a practice whereby banks and brokers use, for their own purpo
 
 ## Understanding Rehypothecation
 
-Rehypothecation was a common practice until 2007, but hedge funds became much more wary about it in the wake of the [Lehman Brothers](https://www.investopedia.com/terms/l/lehman-brothers.asp) collapse and subsequent credit crunch in 2008-09. In the United States, rehypothecation of collateral by broker-dealers is limited to 140% of the loan amount to a client, under Rule 15c3-3 of the SEC.
+Rehypothecation was a common practice until 2007, but hedge funds became much more wary about it in the wake of the [[Lehman Brothers]](https://www.investopedia.com/terms/l/lehman-brothers.asp) collapse and subsequent credit crunch in 2008-09. In the United States, rehypothecation of collateral by broker-dealers is limited to 140% of the loan amount to a client, under Rule 15c3-3 of the SEC.
 
 Rehypothecation occurs when a lender uses an asset, supplied as collateral on a debt by a borrower, and applies its value to cover its own obligations. In order to do so, the lender may have access to a variety of assets promised as collateral including tangible assets and various securities.
 
 ## Elements of Rehypothecation and Hypothecation
 
-Rehypothecation happens if a customer leaves a number of securities with a [broker](https://www.investopedia.com/broker-awards-4587871) as a deposit, most often in a margin account, and the broker then uses the securities as a pledge for the margin on his own margin account or as backing for a loan.
+Rehypothecation happens if a customer leaves a number of securities with a [[broker]](https://www.investopedia.com/broker-awards-4587871) as a deposit, most often in a margin account, and the broker then uses the securities as a pledge for the margin on his own margin account or as backing for a loan.
 
-[Hypothecation](https://www.investopedia.com/terms/h/hypothecation.asp) occurs when a [borrower](https://www.investopedia.com/articles/investing/092315/7-best-peertopeer-lending-websites.asp) promises the right to an asset as a form of collateral in exchange for funds. One common example occurs in the primary housing market, where a borrower uses the home he is purchasing as collateral for a mortgage loan.
+[Hypothecation](https://www.investopedia.com/terms/h/hypothecation.asp) occurs when a [[borrower]](https://www.investopedia.com/articles/investing/092315/7-best-peertopeer-lending-websites.asp) promises the right to an asset as a form of collateral in exchange for funds. One common example occurs in the primary housing market, where a borrower uses the home he is purchasing as collateral for a mortgage loan.
 
 Even though the borrower asserts a level of ownership over the property, the lender can seize the asset if payments are not made as required. Similar situations occur in other collateralized loans, such as a vehicle loan, as well as with the setup of margin accounts to support other trading actions.
 

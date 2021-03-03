@@ -16,11 +16,11 @@ author: Julia Kagan
 Employment Insurance (EI)
 ## What Is Employment Insurance (EI)?
 
-[Employment Insurance (EI)](https://www.canada.ca/en/services/benefits/ei.html) is an unemployment insurance program in [Canada](https://www.investopedia.com/articles/personal-finance/021715/economic-indicators-canada.asp) that allows individuals who have recently lost a job to receive temporary financial assistance. Employment insurance can also be extended to individuals who are unable to work because of illness or who are caring for a young child or a seriously ill family member. In addition to financial assistance, the program assists the unemployed with job search services.
+[Employment Insurance (EI)](https://www.canada.ca/en/services/benefits/ei.html) is an unemployment insurance program in [[Canada]](https://www.investopedia.com/articles/personal-finance/021715/economic-indicators-canada.asp) that allows individuals who have recently lost a job to receive temporary financial assistance. Employment insurance can also be extended to individuals who are unable to work because of illness or who are caring for a young child or a seriously ill family member. In addition to financial assistance, the program assists the unemployed with job search services.
 
 ## Understanding Employment Insurance (EI)
 
-The Employment Insurance Act replaced the Unemployment Insurance Act of 1996. The updated scheme was designed to link [unemployment](https://www.investopedia.com/articles/personal-finance/062315/unemployment-rates-country.asp) benefits with wages and to reduce penalties for those who could only find temporary work. To qualify for benefits, individuals must work a certain number of hours, and the length of time for which benefits are provided depends on an individual's geographic region's unemployment rate. 
+The Employment Insurance Act replaced the Unemployment Insurance Act of 1996. The updated scheme was designed to link [[unemployment]](https://www.investopedia.com/articles/personal-finance/062315/unemployment-rates-country.asp) benefits with wages and to reduce penalties for those who could only find temporary work. To qualify for benefits, individuals must work a certain number of hours, and the length of time for which benefits are provided depends on an individual's geographic region's unemployment rate. 
 
 Employment insurance offers a wide range of benefits to those who qualify for them.
 

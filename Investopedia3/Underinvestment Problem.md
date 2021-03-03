@@ -16,7 +16,7 @@ author: Adam Hayes
 Underinvestment Problem
 ## What Is the Underinvestment Problem?
 
-The underinvestment problem is an [agency problem](https://www.investopedia.com/terms/a/agencyproblem.asp) proposed by financial economists that exists between shareholders and debt holders, in which a [leveraged](https://www.investopedia.com/terms/l/leverage.asp) company foregoes valuable investment opportunities because debt holders would capture a portion of the benefits of the project, leaving insufficient returns to the equity shareholders.
+The underinvestment problem is an [[agency problem]](https://www.investopedia.com/terms/a/agencyproblem.asp) proposed by financial economists that exists between shareholders and debt holders, in which a [[leveraged]](https://www.investopedia.com/terms/l/leverage.asp) company foregoes valuable investment opportunities because debt holders would capture a portion of the benefits of the project, leaving insufficient returns to the equity shareholders.
 
 ### Key Takeaways
 
@@ -32,16 +32,16 @@ The underinvestment problem in corporate finance theory is credited to Stewart C
 
 Myers adds that "the firm financed with risky debt will, in some states of nature, pass up valuable investment opportunities—opportunities which could make a positive net contribution to the market value of the firm."
 
-The underinvestment problem moves into focus when a firm frequently passes up [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) projects because the managers, acting on behalf of shareholders, believe that creditors would benefit more than owners. If cash flows from a prospective investment go to creditors, then there would be no incentive to equity holders to proceed with the investment. Such an investment would increase the overall value of the firm, but it does not happen—hence, there is a "problem."
+The underinvestment problem moves into focus when a firm frequently passes up [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) projects because the managers, acting on behalf of shareholders, believe that creditors would benefit more than owners. If cash flows from a prospective investment go to creditors, then there would be no incentive to equity holders to proceed with the investment. Such an investment would increase the overall value of the firm, but it does not happen—hence, there is a "problem."
 
 ## Contradicting the Modigliani-Miller Theorem
 
-The underinvestment problem theory is at conflict with the theoretical assumption in the [Modigliani-Miller theorem](https://www.investopedia.com/terms/m/modigliani-millertheorem.asp) that investment decisions can be made independent of financing decisions. Managers of a leveraged company, Myers argues, do in fact take into consideration the amount of debt that needs to be serviced when evaluating a new investment project.
+The underinvestment problem theory is at conflict with the theoretical assumption in the [[Modigliani-Miller theorem]](https://www.investopedia.com/terms/m/modigliani-millertheorem.asp) that investment decisions can be made independent of financing decisions. Managers of a leveraged company, Myers argues, do in fact take into consideration the amount of debt that needs to be serviced when evaluating a new investment project.
 
 According to Myers, the value of the firm can be influenced by financing decisions, in contradiction to Modigliani-Miller's central tenet.
 
 ## The Underinvestment Problem and Debt Overhang
 
-One instance of the underinvestment problem is known as a [debt overhang](https://www.investopedia.com/terms/d/debtoverhang.asp). When a firm has a very large level of debt, there comes a point when it can no longer borrow from creditors any longer. The debt burden is so large, in fact, that any and all earnings that come into the company immediately go directly to paying off existing debt instead of going into new investments or projects, limiting the growth of the company. It leads to underinvestment in the firm. As a result, shareholders lose out both to creditors in the present and to future lost growth potential as well.
+One instance of the underinvestment problem is known as a [[debt overhang]](https://www.investopedia.com/terms/d/debtoverhang.asp). When a firm has a very large level of debt, there comes a point when it can no longer borrow from creditors any longer. The debt burden is so large, in fact, that any and all earnings that come into the company immediately go directly to paying off existing debt instead of going into new investments or projects, limiting the growth of the company. It leads to underinvestment in the firm. As a result, shareholders lose out both to creditors in the present and to future lost growth potential as well.
 
 Debt overhangs also apply to national governments, where the sovereign debt of a nation exceeds its future capacity to repay it. A debt overhang can lead to stagnant growth and the degradation of [living standards](https://www.investopedia.com/terms/s/standard-of-living.asp) from underinvestment in critical areas such as healthcare, education, and infrastructure.

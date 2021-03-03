@@ -34,11 +34,11 @@ In any case, the purpose of over-collateralization is to increase the credit rat
 
 [Securitization](https://www.investopedia.com/terms/s/securitization.asp) is the practice of transforming a collection of assets, such as loans, into an investment, or security. Ordinary bank loans such as home mortgages are sold on by the banks that issue them to financial institutions that then package them for resale as securitized investments.
 
-In any case, these are not liquid assets but interest-producing debts. In financial terminology, they are [asset-backed securities](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) (ABS). Almost any kind of debt may be securitized include residential or commercial mortgages, student loans, car loans, and credit card debt.
+In any case, these are not liquid assets but interest-producing debts. In financial terminology, they are [[asset-backed securities]](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) (ABS). Almost any kind of debt may be securitized include residential or commercial mortgages, student loans, car loans, and credit card debt.
 
 ### Credit Enhancement
 
-A key step in the securitization of products is determining the appropriate level of [credit enhancement](https://www.investopedia.com/terms/c/creditenhancement.asp). This refers to risk reduction to improve the credit profile of the structured financial products. A higher credit profile leads to a higher credit rating, which is key to finding buyers for securitized assets.
+A key step in the securitization of products is determining the appropriate level of [[credit enhancement]](https://www.investopedia.com/terms/c/creditenhancement.asp). This refers to risk reduction to improve the credit profile of the structured financial products. A higher credit profile leads to a higher credit rating, which is key to finding buyers for securitized assets.
 
 Investors in any securitized product face a risk of default on the underlying assets. Credit enhancement can be thought of as a financial cushion that allows the securities to absorb losses from defaults on the underlying loans.
 
@@ -46,11 +46,11 @@ Investors in any securitized product face a risk of default on the underlying as
 
 The rule of thumb for the amount of over-collateralization needed in order to improve a credit profile.
 
-Over-collateralization is one technique that may be used for credit enhancement. In this case, the issuer backs a loan with assets or collateral which has a value that is in excess of the loan. That limits the [credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) for the creditor and enhances the credit rating assigned to the loan.
+Over-collateralization is one technique that may be used for credit enhancement. In this case, the issuer backs a loan with assets or collateral which has a value that is in excess of the loan. That limits the [[credit risk]](https://www.investopedia.com/terms/c/creditrisk.asp) for the creditor and enhances the credit rating assigned to the loan.
 
 ### The Rule of Thumb
 
-Over-collateralization is achieved when the value of assets in the pool is greater than the amount of the [asset-backed security](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) (ABS). So, even if some of the payments from the underlying loans are late or go into default, the principal and interest payments on the asset-backed security can still be made from the excess collateral.
+Over-collateralization is achieved when the value of assets in the pool is greater than the amount of the [[asset-backed security]](https://www.investopedia.com/terms/a/asset-backedsecurity.asp) (ABS). So, even if some of the payments from the underlying loans are late or go into default, the principal and interest payments on the asset-backed security can still be made from the excess collateral.
 
 As a rule of thumb, the value underlying a pool of assets is often 10% to 20% greater than the price of the issued security. For example, the principal amount of a mortgage-backed security issue might be $100 million, while the principal value of the mortgages underlying the issue might be $120 million.
 

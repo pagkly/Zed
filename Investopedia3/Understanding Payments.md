@@ -26,9 +26,9 @@ Payment is the transfer of money, goods, or services in exchange for goods and s
 
 ## Understanding Payment
 
-Today's monetary system allows for payments to be made with [currency](https://www.investopedia.com/terms/c/currency.asp). Currency, which has simplified the means of economic transactions, provides a convenient medium through which payments can be made, and it can also be easily stored.
+Today's monetary system allows for payments to be made with [[currency]](https://www.investopedia.com/terms/c/currency.asp). Currency, which has simplified the means of economic transactions, provides a convenient medium through which payments can be made, and it can also be easily stored.
 
-Before the widespread use of currency and other payment methods, [barter payments](https://www.investopedia.com/terms/b/barter.asp) were used in which one product or service was exchanged for another. For example, if an egg farmer [with a large surplus](https://www.investopedia.com/video/play/producer-surplus/) of eggs wanted milk, the farmer would need to find a dairy farmer who would be willing to take eggs as payment for milk.
+Before the widespread use of currency and other payment methods, [[barter payments]](https://www.investopedia.com/terms/b/barter.asp) were used in which one product or service was exchanged for another. For example, if an egg farmer [[with a large surplus]](https://www.investopedia.com/video/play/producer-surplus/) of eggs wanted milk, the farmer would need to find a dairy farmer who would be willing to take eggs as payment for milk.
 
 In this case, if a suitable dairy farmer weren't found in time, not only would the egg farmer not get the milk, but the eggs would spoil, becoming worthless. Currency, on the other hand, maintains its value over time. However, bartering is still practiced today when companies want to exchange services between one another.
 
@@ -42,7 +42,7 @@ Payments are made using various methods that include the following.
 
 ### Credit and Debit Cards
 
-[Credit](https://www.investopedia.com/terms/c/creditcard.asp) and [debit cards](https://www.investopedia.com/terms/d/debitcard.asp) are widely used for purchases and payments. However, many businesses that accept cards are charged a fee from the merchant that provides the machine as well as the financial institution. The fee is often a percentage of the transaction amount or a flat fee for each payment.
+[Credit](https://www.investopedia.com/terms/c/creditcard.asp) and [[debit cards]](https://www.investopedia.com/terms/d/debitcard.asp) are widely used for purchases and payments. However, many businesses that accept cards are charged a fee from the merchant that provides the machine as well as the financial institution. The fee is often a percentage of the transaction amount or a flat fee for each payment.
 
 ### Cash
 
@@ -50,11 +50,11 @@ Cash is still used for many businesses, such as the retail industry. Coffee shop
 
 ### Mobile Phones
 
-The [contactless payment](https://www.investopedia.com/terms/c/contactless-payment.asp) technology that has emerged in recent years has made payments easier than ever. The credit or debit card machine—called a [point of sale terminal (POS)](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp)—can read the customer's banking information through the software application that's installed on the mobile device. Once the phone reads the information from the POS terminal, a signal is generated to inform the customer that the payment has been made.
+The [[contactless payment]](https://www.investopedia.com/terms/c/contactless-payment.asp) technology that has emerged in recent years has made payments easier than ever. The credit or debit card machine—called a [[point of sale terminal (POS)]](https://www.investopedia.com/terms/p/point-of-sale-terminal.asp)—can read the customer's banking information through the software application that's installed on the mobile device. Once the phone reads the information from the POS terminal, a signal is generated to inform the customer that the payment has been made.
 
 ### Checks
 
-[Checks](https://www.investopedia.com/terms/c/check.asp) have fallen out of favor over the years due to advancements in technology, allowing payments to be electronically submitted. However, there are instances when checks might be helpful, such as when the seller wants a guaranteed payment. A bank [cashier's check](https://www.investopedia.com/terms/c/cashierscheck.asp) or a [certified check](https://www.investopedia.com/terms/c/certifiedcheck.asp) are two types of checks that banks offer to help sellers receive the money owed from the buyer.
+[Checks](https://www.investopedia.com/terms/c/check.asp) have fallen out of favor over the years due to advancements in technology, allowing payments to be electronically submitted. However, there are instances when checks might be helpful, such as when the seller wants a guaranteed payment. A bank [[cashier's check]](https://www.investopedia.com/terms/c/cashierscheck.asp) or a [[certified check]](https://www.investopedia.com/terms/c/certifiedcheck.asp) are two types of checks that banks offer to help sellers receive the money owed from the buyer.
 
 ### Wire Transfers
 

@@ -16,7 +16,7 @@ author: James Chen
 Holding the Market
 ## What Is Holding the Market?
 
-Holding the market is the deliberate practice of placing active or pending orders for a security into a market where the price is dropping rapidly in an attempt to artificially "hold" the price of the security steady, or create a [floor](https://www.investopedia.com/terms/f/floor.asp) in the security. This practice is outlawed in most instances, except when a broker or other party is mandated to keep the price of a security steady; this is only done in rare cases where there isn't enough market [depth](https://www.investopedia.com/terms/m/marketdepth.asp) to hold the price.
+Holding the market is the deliberate practice of placing active or pending orders for a security into a market where the price is dropping rapidly in an attempt to artificially "hold" the price of the security steady, or create a [[floor]](https://www.investopedia.com/terms/f/floor.asp) in the security. This practice is outlawed in most instances, except when a broker or other party is mandated to keep the price of a security steady; this is only done in rare cases where there isn't enough market [[depth]](https://www.investopedia.com/terms/m/marketdepth.asp) to hold the price.
 
 "Holding the market" may also refer to the practice of owning a broad market index such as the S&P 500 or Wilshire Total Market.
 

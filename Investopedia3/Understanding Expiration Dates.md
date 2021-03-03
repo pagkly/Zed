@@ -20,7 +20,7 @@ An expiration date is a date after which a consumable product such as food or me
 
 ## Understanding Expiration Dates
 
-Expiration dates are especially important for medications because they offer the only indication about whether the product is still safe to use. Food items, on the other hand, often look or smell bad when they have passed their "best-buy" dates. Because using expired medical products may potentially harm our health, in the late 1970s the United States [Food and Drug Administration (FDA)](https://www.investopedia.com/terms/f/fda.asp) mandated that all prescription and [over-the-counter (OTC)](https://www.investopedia.com/terms/o/otc.asp) medical products contain an expiration date. Expiration dates for medicines are often marked “EXP” and are printed on the label or stamped onto the medicine bottle or box.
+Expiration dates are especially important for medications because they offer the only indication about whether the product is still safe to use. Food items, on the other hand, often look or smell bad when they have passed their "best-buy" dates. Because using expired medical products may potentially harm our health, in the late 1970s the United States [[Food and Drug Administration (FDA)]](https://www.investopedia.com/terms/f/fda.asp) mandated that all prescription and [[over-the-counter (OTC)]](https://www.investopedia.com/terms/o/otc.asp) medical products contain an expiration date. Expiration dates for medicines are often marked “EXP” and are printed on the label or stamped onto the medicine bottle or box.
 
 Certain medications can be fatal to children or pets if they ingest even the smallest amount; these should be flushed down the sink or toilet once they pass their expiration date.
 
@@ -51,7 +51,7 @@ With food, however, expiration dates are a somewhat different story. Food manufa
 
 ### The FSIS: Watchdog for Our Meat, Poultry, and Eggs
 
-The Food Safety and Inspection Service (FSIS), an agency of the [United States Department of Agriculture (USDA)](https://www.investopedia.com/terms/u/usda.asp), is the public health regulatory agency responsible for ensuring that America's commercial supply of meat, poultry, and eggs is safe, wholesome, and correctly labeled and packaged. The FSIS's [mission statement](https://www.investopedia.com/terms/m/missionstatement.asp) reads: "Protecting the public’s health by ensuring the safety of meat, poultry, and processed egg products." 
+The Food Safety and Inspection Service (FSIS), an agency of the [[United States Department of Agriculture (USDA)]](https://www.investopedia.com/terms/u/usda.asp), is the public health regulatory agency responsible for ensuring that America's commercial supply of meat, poultry, and eggs is safe, wholesome, and correctly labeled and packaged. The FSIS's [[mission statement]](https://www.investopedia.com/terms/m/missionstatement.asp) reads: "Protecting the public’s health by ensuring the safety of meat, poultry, and processed egg products." 
 
 For these products, manufacturers may assign expiration dates voluntarily if they are labeled in a manner that is truthful and not misleading, and which complies with FSIS regulations. To comply, a calendar date must express both the month and day of the month. Shelf-stable and frozen products also must display the year. Further, immediately adjacent to the date must be a phrase explaining the meaning of that date—such as, "Best if Used By."
 
@@ -72,6 +72,6 @@ Although it's true that the quality of perishable products may deteriorate after
 
 ## Expiration Dates for Prescription Drug Patents
 
-The U.S. Patent and Trademark Office awards [medical patents](https://www.investopedia.com/terms/m/medical-patent.asp) to pharma companies when a new brand-name drug is released to the market. The patent protects the drugmaker from having its drug copied by competitors for a certain time, typically 20 years. The patent exclusivity for [orphan drugs](https://www.investopedia.com/ask/answers/06/orphandrugstatus.asp) lasts for seven years, and a patent for a new chemical lasts for five years.
+The U.S. Patent and Trademark Office awards [[medical patents]](https://www.investopedia.com/terms/m/medical-patent.asp) to pharma companies when a new brand-name drug is released to the market. The patent protects the drugmaker from having its drug copied by competitors for a certain time, typically 20 years. The patent exclusivity for [[orphan drugs]](https://www.investopedia.com/ask/answers/06/orphandrugstatus.asp) lasts for seven years, and a patent for a new chemical lasts for five years.
 
 The Orange Book—a list of drugs that the FDA has approved as both safe and effective—cites the patents for new drugs, along with their expiration dates. Under the Hatch-Waxman Act, for a generic drug manufacturer to win approval for a drug, the manufacturer must certify that it will not launch its generic product until after the original drug's patent has expired; unless the patent is found to be invalid or unenforceable, or if the generic product will not infringe upon the listed patent.

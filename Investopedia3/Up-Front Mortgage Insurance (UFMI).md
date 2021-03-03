@@ -16,7 +16,7 @@ author: Troy Segal
 Up-Front Mortgage Insurance (UFMI)
 ## What Is Up-Front Mortgage Insurance (UFMI)?
 
-Up-front mortgage insurance is an insurance premium that is collected, typically on Federal Housing Administration (FHA) loans, at the time the loan is initially made. Though similar, it is not quite the same as [private mortgage insurance](https://www.investopedia.com/mortgage/insurance/) (PMI), which is collected by a conventional private mortgage lender each month when a buyer's down payment on a home is less than 20% of the purchase price. Up-front mortgage premiums are added to a pool of money that is used to help entities, such as the FHA, insure loans for certain borrowers.
+Up-front mortgage insurance is an insurance premium that is collected, typically on Federal Housing Administration (FHA) loans, at the time the loan is initially made. Though similar, it is not quite the same as [[private mortgage insurance]](https://www.investopedia.com/mortgage/insurance/) (PMI), which is collected by a conventional private mortgage lender each month when a buyer's down payment on a home is less than 20% of the purchase price. Up-front mortgage premiums are added to a pool of money that is used to help entities, such as the FHA, insure loans for certain borrowers.
 
 ### key takeaways
 
@@ -26,7 +26,7 @@ Up-front mortgage insurance is an insurance premium that is collected, typically
 
 ## Understanding Up-Front Mortgage Insurance (UFMI)
 
-Like PMI, the purpose of FHA mortgage insurance is to protect the [lender](https://www.investopedia.com/terms/l/lender.asp#axzz1d25MRRfK). When borrowers have minimal [equity](https://www.investopedia.com/terms/e/equity.asp#axzz1d25MRRfK) in their homes, the risk (to the lender) that the borrower will default is higher, because the borrower doesn't have as much to lose by walking away and letting the bank foreclose. With mortgage insurance, if you stop making your mortgage payments and walk away from your home, the insurer will help your lender recoup its losses.
+Like PMI, the purpose of FHA mortgage insurance is to protect the [[lender]](https://www.investopedia.com/terms/l/lender.asp#axzz1d25MRRfK). When borrowers have minimal [[equity]](https://www.investopedia.com/terms/e/equity.asp#axzz1d25MRRfK) in their homes, the risk (to the lender) that the borrower will default is higher, because the borrower doesn't have as much to lose by walking away and letting the bank foreclose. With mortgage insurance, if you stop making your mortgage payments and walk away from your home, the insurer will help your lender recoup its losses.
 
 [FHA loans](https://www.investopedia.com/terms/f/fhaloan.asp) have lower down-payment requirements—as low as 3.5% of a home's price tag— and less stringent income and credit requirements than conventional loans.1 So these loans require the payment of up-front mortgage insurance, which is collected at the time of closing.
 
@@ -34,7 +34,7 @@ Since 2015, the rate for up-front mortgage insurance has been 1.75% of the base 
 
 If you can afford to pay the amount of up-front mortgage insurance (UFMI) at the outset, it's a good idea to do so. If you decide to roll it into your loan, it will be a lot more expensive in the long run.
 
-In addition to the UFMI, borrowers have to pay ongoing [mortgage insurance premiums (MIP)](https://www.investopedia.com/mortgage/insurance/qualified-insurance-premium/), which range from 0.45% to 1.05% of the total mortgage.2 You'll have to pay this mortgage insurance until your [loan-to-value ratio](https://www.investopedia.com/terms/l/loantovalue.asp) is high enough—that is, until you have paid off a certain amount of your mortgage. When your equity is high enough (in the case of an FHA loan, the percentage is 22%3 ), there is less risk for the lender should you walk away from the loan. At this time, the insurance is no longer required. Those with loans greater than 15 years are required to make monthly mortgage insurance payments for five years. If your mortgage is shorter than 15 years, then the only requirement is the 78% loan-to-value ratio.
+In addition to the UFMI, borrowers have to pay ongoing [[mortgage insurance premiums (MIP)]](https://www.investopedia.com/mortgage/insurance/qualified-insurance-premium/), which range from 0.45% to 1.05% of the total mortgage.2 You'll have to pay this mortgage insurance until your [[loan-to-value ratio]](https://www.investopedia.com/terms/l/loantovalue.asp) is high enough—that is, until you have paid off a certain amount of your mortgage. When your equity is high enough (in the case of an FHA loan, the percentage is 22%3 ), there is less risk for the lender should you walk away from the loan. At this time, the insurance is no longer required. Those with loans greater than 15 years are required to make monthly mortgage insurance payments for five years. If your mortgage is shorter than 15 years, then the only requirement is the 78% loan-to-value ratio.
 
 Up-front mortgage insurance premium payments are submitted directly to the U.S. Department of Housing and Urban Development (HUD) and collected by the U.S. Department of the Treasury's automated collection service. They go into an escrow account.4
 

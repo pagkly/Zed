@@ -16,7 +16,7 @@ author: Troy Segal
 What People Mean When They Say "Near the Money"
 ## What Is Near The Money?
 
-"Near the money" refers to an [options contract](https://www.investopedia.com/terms/o/optionscontract.asp) whose strike price is close to the current market price of the corresponding underlying security. "Close to the money" is an alternative phrase, designating the same situation. While a call option can be considered “in the money” if its strike price is lower than the market price, the option is considered near the money if its strike price is lower than the market price but extremely close to it. However, if the strike price is higher than the market price, it is considered out of the money. Near the money is one of the three states of option moneyness, along with in the money and [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp).
+"Near the money" refers to an [[options contract]](https://www.investopedia.com/terms/o/optionscontract.asp) whose strike price is close to the current market price of the corresponding underlying security. "Close to the money" is an alternative phrase, designating the same situation. While a call option can be considered “in the money” if its strike price is lower than the market price, the option is considered near the money if its strike price is lower than the market price but extremely close to it. However, if the strike price is higher than the market price, it is considered out of the money. Near the money is one of the three states of option moneyness, along with in the money and [[out of the money]](https://www.investopedia.com/terms/o/outofthemoney.asp).
 
 ### Key Takeaways
 

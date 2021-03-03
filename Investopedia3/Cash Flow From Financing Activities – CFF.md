@@ -51,10 +51,10 @@ Thus, CFF would be as follows:
 
 ## Cash Flow in the Financial Statement
 
-The cash flow statement is one of the three main financial statements that show the state of a company's financial health. The other two important statements are the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and income statement. The balance sheet shows the assets and liabilities as well as shareholder equity at a particular date. Also known as the profit and loss statement, the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) focuses on business income and expenses. The cash flow statement measures the cash generated or used by a company during a given period. The cash flow statement has three sections:
+The cash flow statement is one of the three main financial statements that show the state of a company's financial health. The other two important statements are the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) and income statement. The balance sheet shows the assets and liabilities as well as shareholder equity at a particular date. Also known as the profit and loss statement, the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) focuses on business income and expenses. The cash flow statement measures the cash generated or used by a company during a given period. The cash flow statement has three sections:
 
-1.  [Cash flow from operating](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) indicates the amount of cash that a company brings in from its regular business activities or operations. This section includes accounts receivable, accounts payable, amortization, depreciation, and other items.
-2.  [Cash flow from investing](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp) (CFI) reflects a company's purchases and sales of capital assets. CFI reports the aggregate change in the business cash position as a result of profits and losses from investments in items like plant and equipment. These items are considered long-term investments in the business.
+1.  [[Cash flow from operating]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) indicates the amount of cash that a company brings in from its regular business activities or operations. This section includes accounts receivable, accounts payable, amortization, depreciation, and other items.
+2.  [[Cash flow from investing]](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp) (CFI) reflects a company's purchases and sales of capital assets. CFI reports the aggregate change in the business cash position as a result of profits and losses from investments in items like plant and equipment. These items are considered long-term investments in the business.
 3.  Cash flow from financing activities (CFF) measures the movement of cash between a firm and its owners, investors, and creditors. This report shows the net flow of funds used to run the company including debt, equity, and dividends.
 
 Investors can also get information about CFF activities from the balance sheetâ€™s equity and long-term debt sections and possibly the footnotes.
@@ -63,11 +63,11 @@ Investors can also get information about CFF activities from the balance sheetâ€
 
 CFF indicates the means through which a company raises cash to maintain or grow its operations. A company's source of capital can be from either debt or equity. When a company takes on debt, it typically does so by issuing bonds or taking a loan from the bank. Either way, it must make interest payments to its bondholders and creditors to compensate them for loaning their money.
 
-When a company goes through the equity route, it issues stock to investors who purchase the stock for a share in the company. Some companies make dividend payments to shareholders, which represents a [cost of equity](https://www.investopedia.com/terms/c/costofequity.asp) for the firm.
+When a company goes through the equity route, it issues stock to investors who purchase the stock for a share in the company. Some companies make dividend payments to shareholders, which represents a [[cost of equity]](https://www.investopedia.com/terms/c/costofequity.asp) for the firm.
 
 ## Positive and Negative CFF
 
-Debt and equity financing are reflected in the cash flow from financing section, which varies with the different [capital structures](https://www.investopedia.com/terms/c/capitalstructure.asp), dividend policies, or debt terms that companies may have.
+Debt and equity financing are reflected in the cash flow from financing section, which varies with the different [[capital structures]](https://www.investopedia.com/terms/c/capitalstructure.asp), dividend policies, or debt terms that companies may have.
 
 ### Transactions That Cause Positive Cash Flow From Financing Activities
 

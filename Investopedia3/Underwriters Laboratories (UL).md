@@ -16,7 +16,7 @@ author: Julia Kagan
 Underwriters Laboratories (UL)
 ## What Is Underwriters Laboratories?
 
-Underwriters Laboratories (UL) is a global safety science company, the largest and oldest independent testing laboratory in the United States. [Underwriters Laboratories](https://www.ul.com/) tests the latest products and technologies for safety before they are marketed around the world. It tests over 19,000 different products annually, ranging from consumer electronics, alarms and security equipment, to lasers, medical devices, and robotics. 
+Underwriters Laboratories (UL) is a global safety science company, the largest and oldest independent testing laboratory in the United States. [[Underwriters Laboratories]](https://www.ul.com/) tests the latest products and technologies for safety before they are marketed around the world. It tests over 19,000 different products annually, ranging from consumer electronics, alarms and security equipment, to lasers, medical devices, and robotics. 
 
 Founded in 1894, which means that it has over 125 years of service and experience, Underwriters Laboratories offers its services in five strategic areas, from product safety, environment, life and health, university, and verification services. 
 
@@ -38,10 +38,10 @@ UL's operations are global in scope, with customers in 102 countries. In 2009, 2
 
 The start of Underwriters Laboratories can be traced back to the widely-attended World’s Fair, held in Chicago in 1890. At the fair, UL’s founder, William Henry Merrill, Jr., a graduate of the MIT electrical engineering program, was working at his assigned post with the Boston Board of Fire Underwriters to assess for any fire risks with all of the new construction going on for the fairgrounds.
 
-At the fair, Merrill, Jr. meets many insurance underwriters and proposes his idea to create an electrical testing laboratory. The [underwriters](https://www.investopedia.com/terms/u/underwriter.asp) agree that it is a good idea and both Western Insurance Union and the Chicago Underwriters Association give Merrill, Jr. funding to form what will soon become the Underwriters Electrical Bureau.
+At the fair, Merrill, Jr. meets many insurance underwriters and proposes his idea to create an electrical testing laboratory. The [[underwriters]](https://www.investopedia.com/terms/u/underwriter.asp) agree that it is a good idea and both Western Insurance Union and the Chicago Underwriters Association give Merrill, Jr. funding to form what will soon become the Underwriters Electrical Bureau.
 
 Eventually, that first Bureau became the Electrical Bureau of the National Board of Fire Underwriters. It set its mission, even back then, on promoting safe working and living conditions for people. In 1895, the organization hired its first employees.
 
-The Bureau was officially operating with three staff members and a [budget](https://www.investopedia.com/terms/b/budget.asp) of $3,000 annually. In 1901, the organization officially became Underwriters Laboratories and established headquarters in Illinois.
+The Bureau was officially operating with three staff members and a [[budget]](https://www.investopedia.com/terms/b/budget.asp) of $3,000 annually. In 1901, the organization officially became Underwriters Laboratories and established headquarters in Illinois.
 
 Founder Merrill, Jr. became the manager of UL and a new president, Henry Clay Eddy, was named. In 1903, the UL began establishing its first set of safety standards, beginning with tin-clad fire doors.

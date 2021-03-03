@@ -16,7 +16,7 @@ author: Marshall Hargrave
 What the Net Asset Value per Share Means for ETFs and Mutual Funds
 ## What Is Net Asset Value Per Share – NAVPS?
 
-Net asset value per share (NAVPS) is an expression for net asset value that represents the value per share of a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp), an exchange-traded fund (ETF), or a [closed-end fund](https://www.investopedia.com/financial-edge/0712/closed-end-vs.-open-end-funds.aspx). It is calculated by dividing the total [net asset value](https://www.investopedia.com/terms/n/nav.asp) of the fund or company by the number of shares outstanding and is also known as book value per share.
+Net asset value per share (NAVPS) is an expression for net asset value that represents the value per share of a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp), an exchange-traded fund (ETF), or a [[closed-end fund]](https://www.investopedia.com/financial-edge/0712/closed-end-vs.-open-end-funds.aspx). It is calculated by dividing the total [[net asset value]](https://www.investopedia.com/terms/n/nav.asp) of the fund or company by the number of shares outstanding and is also known as book value per share.
 
 ## The Formula for Net Asset Value Per Share – NAVPS Is
 
@@ -28,9 +28,9 @@ Net asset value per share (NAVPS) is calculated by dividing the net asset value 
 
 ## What Does NAVPS Tell You?
 
-The net asset value per share (NAVPS) is often used in relation to open-end or [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) since shares of such funds registered with the U.S. Securities and Exchange Commission (SEC) are redeemed at their net asset value.
+The net asset value per share (NAVPS) is often used in relation to open-end or [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) since shares of such funds registered with the U.S. Securities and Exchange Commission (SEC) are redeemed at their net asset value.
 
-Referring to the formula for net asset value per share (NAVPS) above, assets include the total market value of the fund's investments, [cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp), receivables, and accrued income. Liabilities equal total short-term and long-term liabilities, plus all [accrued expenses](https://www.investopedia.com/terms/a/accruedexpense.asp), such as staff salaries, utilities, and other operational expenses. The total number of expenses may be large as management expenses, distribution and marketing expenses, transfer agent fees, custodian, and audit fees may all be included.
+Referring to the formula for net asset value per share (NAVPS) above, assets include the total market value of the fund's investments, [[cash and cash equivalents]](https://www.investopedia.com/terms/c/cashandcashequivalents.asp), receivables, and accrued income. Liabilities equal total short-term and long-term liabilities, plus all [[accrued expenses]](https://www.investopedia.com/terms/a/accruedexpense.asp), such as staff salaries, utilities, and other operational expenses. The total number of expenses may be large as management expenses, distribution and marketing expenses, transfer agent fees, custodian, and audit fees may all be included.
 
 ### Key Takeaways
 
@@ -48,14 +48,14 @@ For mutual funds and ETFs, the NAVPS is often readily available on sites like Mo
 
 ## The Difference Between NAVPS and Market Price
 
-For a mutual fund, the NAVPS is the price at which shares are bought and sold at the end of each trading day. [Exchange-traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs) and [closed-end funds](https://www.investopedia.com/terms/c/closed-endinvestment.asp) are different in that they trade as stocks throughout the trading day. Because these types of funds are subject to market forces, their NAVPS at any given time may diverge from the actual buying and selling prices of the funds.
+For a mutual fund, the NAVPS is the price at which shares are bought and sold at the end of each trading day. [[Exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs) and [[closed-end funds]](https://www.investopedia.com/terms/c/closed-endinvestment.asp) are different in that they trade as stocks throughout the trading day. Because these types of funds are subject to market forces, their NAVPS at any given time may diverge from the actual buying and selling prices of the funds.
 
 The NAVPS for ETFs and closed-end funds are calculated at the end of the trading day for reporting purposes but are updated many times per minute in real time throughout the trading day.
 
 ## Limitations of Using Net Asset Value Per Share – NAVPS
 
-In the context of corporate financial statements of publicly traded companies, the NAVPS or book value per share is usually below the market price per share. The [historical cost](https://www.investopedia.com/terms/h/historical-cost.asp) accounting principle, which tends to understate certain asset values, and the supply and demand forces of the marketplace generally push stock prices above book value per share valuations.
+In the context of corporate financial statements of publicly traded companies, the NAVPS or book value per share is usually below the market price per share. The [[historical cost]](https://www.investopedia.com/terms/h/historical-cost.asp) accounting principle, which tends to understate certain asset values, and the supply and demand forces of the marketplace generally push stock prices above book value per share valuations.
 
 ## Learn More About Net Asset Value Per Share – NAVPS
 
-For related insight, read more about the [difference between an ETF’s NAVPS and market price](https://www.investopedia.com/ask/answers/052815/what-difference-between-etfs-net-asset-value-nav-and-its-market-price.asp).
+For related insight, read more about the [[difference between an ETF’s NAVPS and market price]](https://www.investopedia.com/ask/answers/052815/what-difference-between-etfs-net-asset-value-nav-and-its-market-price.asp).

@@ -20,9 +20,9 @@ Social sciences are a group of academic disciplines dedicated to examining socie
 
 ## Understanding Social Sciences
 
-Social sciences help to explain how society works, exploring everything from the triggers of [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) and causes of [unemployment](https://www.investopedia.com/terms/u/unemployment.asp) to what makes people happy. This information is vital and can be used for many purposes. Among other things, it helps to shape corporate strategies and government policies.
+Social sciences help to explain how society works, exploring everything from the triggers of [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) and causes of [[unemployment]](https://www.investopedia.com/terms/u/unemployment.asp) to what makes people happy. This information is vital and can be used for many purposes. Among other things, it helps to shape corporate strategies and government policies.
 
-Social science as a field of study is separate from the natural sciences, which cover topics such as physics, biology, and chemistry. Social science examines the relationships between individuals and societies, as well as the development and operation of societies, rather than studying the physical world. These academic disciplines rely more heavily on interpretation and [qualitative](https://www.investopedia.com/terms/q/qualitativeanalysis.asp) research methodologies.
+Social science as a field of study is separate from the natural sciences, which cover topics such as physics, biology, and chemistry. Social science examines the relationships between individuals and societies, as well as the development and operation of societies, rather than studying the physical world. These academic disciplines rely more heavily on interpretation and [[qualitative]](https://www.investopedia.com/terms/q/qualitativeanalysis.asp) research methodologies.
 
 The social sciences include:
 
@@ -40,7 +40,7 @@ In the U.S., early education of social sciences begins in elementary school and 
 
 The origins of social sciences can be traced back to the ancient Greeks. The lives they led, and their early studies into human nature, the state, and mortality, helped to shape Western civilization.
 
-Social science as an academic field of study developed out of the Age of Enlightenment (or the Age of Reason), which flourished through much of the 18th century in Europe. [Adam Smith](https://www.investopedia.com/updates/adam-smith-economics/), Voltaire, Jean-Jacques Rousseau, Denis Diderot, Immanuel Kant, and David Hume were among the big intellectuals at the time who laid the foundations for the study of social sciences in the Western World. 
+Social science as an academic field of study developed out of the Age of Enlightenment (or the Age of Reason), which flourished through much of the 18th century in Europe. [[Adam Smith]](https://www.investopedia.com/updates/adam-smith-economics/), Voltaire, Jean-Jacques Rousseau, Denis Diderot, Immanuel Kant, and David Hume were among the big intellectuals at the time who laid the foundations for the study of social sciences in the Western World. 
 
 Individuals began to take a more disciplined approach to quantify their observations of society, and over time, similar aspects of society, such as linguistics and psychology, were separated into unique fields of study. 
 

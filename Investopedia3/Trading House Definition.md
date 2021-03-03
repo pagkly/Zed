@@ -16,9 +16,9 @@ author: James Chen
 Trading House Definition
 ## What Is a Trading House?
 
-A trading house is a business that specializes in facilitating [transactions](https://www.investopedia.com/terms/t/transaction.asp) between a home country and foreign countries. A trading house is an exporter, importer and also a trader that purchases and sells products for other businesses. Trading houses provide a service for businesses that want international trade experts to receive or deliver goods or services.
+A trading house is a business that specializes in facilitating [[transactions]](https://www.investopedia.com/terms/t/transaction.asp) between a home country and foreign countries. A trading house is an exporter, importer and also a trader that purchases and sells products for other businesses. Trading houses provide a service for businesses that want international trade experts to receive or deliver goods or services.
 
-A trading house may also refer to a firm that buys and sells both commodity [futures](https://www.investopedia.com/terms/f/futures.asp) and physical commodities on behalf of customers and for their own accounts. Prominent commodity trading houses include Cargill, Vitol and Glencore.
+A trading house may also refer to a firm that buys and sells both commodity [[futures]](https://www.investopedia.com/terms/f/futures.asp) and physical commodities on behalf of customers and for their own accounts. Prominent commodity trading houses include Cargill, Vitol and Glencore.
 
 ### Key Takeaways
 
@@ -28,23 +28,23 @@ A trading house may also refer to a firm that buys and sells both commodity [fut
 
 ## Understanding Trading Houses
 
-A trading house serves as an intermediary. It might purchase t-shirts wholesale from China, then sell them to a retailer in the United States. The U.S. retailer would still receive [wholesale](https://www.investopedia.com/terms/w/wholesaling.asp) pricing, but the price would be slightly higher than if the retailer purchased directly from the Chinese company. The trading house must mark up the price of the goods it sells to cover its costs and earn a profit, however, the t-shirt retailer avoids the hassles of importing. The retailer also may be able to simplify its operations by dealing with one or two trading houses to get its [inventory](https://www.investopedia.com/terms/i/inventory.asp) instead of dealing directly with numerous wholesalers.
+A trading house serves as an intermediary. It might purchase t-shirts wholesale from China, then sell them to a retailer in the United States. The U.S. retailer would still receive [[wholesale]](https://www.investopedia.com/terms/w/wholesaling.asp) pricing, but the price would be slightly higher than if the retailer purchased directly from the Chinese company. The trading house must mark up the price of the goods it sells to cover its costs and earn a profit, however, the t-shirt retailer avoids the hassles of importing. The retailer also may be able to simplify its operations by dealing with one or two trading houses to get its [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) instead of dealing directly with numerous wholesalers.
 
-Small businesses that use a trading house can benefit from its expertise and insight into international markets they operate in, as well as get access to [vendor financing](https://www.investopedia.com/terms/v/vendorfinancing.asp) through direct loans and trade credits.
+Small businesses that use a trading house can benefit from its expertise and insight into international markets they operate in, as well as get access to [[vendor financing]](https://www.investopedia.com/terms/v/vendorfinancing.asp) through direct loans and trade credits.
 
 ## Advantages of Trading Houses
 
 ### Economies of Scale
 
-A trading house typically has a large portfolio of clients that provide [economies of scale](https://www.investopedia.com/insights/what-are-economies-of-scale/) benefits. For example, a large trading house can use its significant buying power to receive discounts from manufacturers and suppliers. A trading house can also reduce transportation costs if it ships to customers in large quantities.
+A trading house typically has a large portfolio of clients that provide [[economies of scale]](https://www.investopedia.com/insights/what-are-economies-of-scale/) benefits. For example, a large trading house can use its significant buying power to receive discounts from manufacturers and suppliers. A trading house can also reduce transportation costs if it ships to customers in large quantities.
 
 ### International Foothold
 
-Trading houses have an extensive network of contacts in international markets that help them secure favorable deals and find new [customers](https://www.investopedia.com/terms/c/customer.asp). They may also have staff working in foreign offices to work with customs officials and manage legal issues to ensure the smooth operation of the business.
+Trading houses have an extensive network of contacts in international markets that help them secure favorable deals and find new [[customers]](https://www.investopedia.com/terms/c/customer.asp). They may also have staff working in foreign offices to work with customs officials and manage legal issues to ensure the smooth operation of the business.
 
 ### Currency Management
 
-Because a trading house is continually importing and exporting products, they have expertise in managing currency risk. Trading houses use risk management techniques, such as [hedging](https://www.investopedia.com/articles/optioninvestor/07/hedging-intro.asp), to avoid getting exposed to adverse currency fluctuations. For example, a trading house that has a future payment in euros may use a currency forward contract to lock in the current EUR/USD exchange rate.
+Because a trading house is continually importing and exporting products, they have expertise in managing currency risk. Trading houses use risk management techniques, such as [[hedging]](https://www.investopedia.com/articles/optioninvestor/07/hedging-intro.asp), to avoid getting exposed to adverse currency fluctuations. For example, a trading house that has a future payment in euros may use a currency forward contract to lock in the current EUR/USD exchange rate.
 
 ## Example of Trading Houses
 

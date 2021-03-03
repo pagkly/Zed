@@ -16,11 +16,11 @@ author: Will Kenton
 Residual Standard Deviation
 ## What Is Residual Standard Deviation?
 
-Residual standard deviation is a statistical term used to describe the difference in [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) of observed values versus predicted values as shown by points in a [regression analysis](https://www.investopedia.com/articles/financial-theory/09/regression-analysis-basics-business.asp).
+Residual standard deviation is a statistical term used to describe the difference in [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp) of observed values versus predicted values as shown by points in a [[regression analysis]](https://www.investopedia.com/articles/financial-theory/09/regression-analysis-basics-business.asp).
 
-Regression analysis is a method used in [statistics](https://www.investopedia.com/terms/s/statistics.asp) to show a relationship between two different variables, and to describe how well you can predict the behavior of one variable from the behavior of another.
+Regression analysis is a method used in [[statistics]](https://www.investopedia.com/terms/s/statistics.asp) to show a relationship between two different variables, and to describe how well you can predict the behavior of one variable from the behavior of another.
 
-Residual standard deviation is also referred to as the standard deviation of points around a fitted line or the [standard error](https://www.investopedia.com/terms/s/standard-error.asp) of estimate.
+Residual standard deviation is also referred to as the standard deviation of points around a fitted line or the [[standard error]](https://www.investopedia.com/terms/s/standard-error.asp) of estimate.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Residual standard deviation is also referred to as the standard deviation of poi
 
 ## Understanding Residual Standard Deviation
 
-Residual standard deviation is a [goodness-of-fit](https://www.investopedia.com/terms/g/goodness-of-fit.asp) measure that can be used to analyze how well a set of data points fit with the actual model. In a business setting for example, after performing a regression analysis on multiple data points of costs over time, the residual standard deviation can provide a business owner with information on the difference between actual costs and projected costs, and an idea of how much-projected costs could vary from the mean of the historical cost data.
+Residual standard deviation is a [[goodness-of-fit]](https://www.investopedia.com/terms/g/goodness-of-fit.asp) measure that can be used to analyze how well a set of data points fit with the actual model. In a business setting for example, after performing a regression analysis on multiple data points of costs over time, the residual standard deviation can provide a business owner with information on the difference between actual costs and projected costs, and an idea of how much-projected costs could vary from the mean of the historical cost data.
 
 ## Formula for Residual Standard Deviation
 
@@ -195,7 +195,7 @@ Sum of each residual squared, or Σ (y-y est ) 2
 
 1
 
-Observe that the [sum of the squared residuals](https://www.investopedia.com/terms/r/residual-sum-of-squares.asp) = 6, which represents the numerator of the residual standard deviation equation.
+Observe that the [[sum of the squared residuals]](https://www.investopedia.com/terms/r/residual-sum-of-squares.asp) = 6, which represents the numerator of the residual standard deviation equation.
 
 For the bottom portion or denominator of the residual standard deviation equation, n = the number of data points, which is 4 in this case. Calculate the denominator of the equation as:
 
@@ -205,6 +205,6 @@ Finally, calculate the square root of the results:
 
 -   **Residual standard deviation:** √(6/2) = √3 ≈ 1.732
 
-The magnitude of a typical residual can give you a sense of generally how close your estimates are. The smaller the residual standard deviation, the closer is the fit of the estimate to the actual data. In effect, the smaller the residual standard deviation is compared to the [sample](https://www.investopedia.com/terms/s/sample.asp) standard deviation, the more predictive, or useful, the model is.
+The magnitude of a typical residual can give you a sense of generally how close your estimates are. The smaller the residual standard deviation, the closer is the fit of the estimate to the actual data. In effect, the smaller the residual standard deviation is compared to the [[sample]](https://www.investopedia.com/terms/s/sample.asp) standard deviation, the more predictive, or useful, the model is.
 
-The residual standard deviation can be calculated when a [regression](https://www.investopedia.com/terms/r/regression.asp) analysis has been performed, as well as an analysis of variance (ANOVA). When determining a limit of quantitation (LoQ), the use of a residual standard deviation is permissible instead of the standard deviation.
+The residual standard deviation can be calculated when a [[regression]](https://www.investopedia.com/terms/r/regression.asp) analysis has been performed, as well as an analysis of variance (ANOVA). When determining a limit of quantitation (LoQ), the use of a residual standard deviation is permissible instead of the standard deviation.

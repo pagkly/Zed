@@ -26,7 +26,7 @@ A sweep account is a bank or brokerage account that automatically transfers amou
 
 ## How a Sweep Account Works
 
-Using a sweep vehicle like a sweep fund works by providing the customer with the greatest amount of interest with the minimum amount of personal intervention by transferring money at the end of the day into a high-interest account. In a sweep program, a bank's computers analyze customer use of [checkable deposits](https://www.investopedia.com/terms/c/checkable-deposits.asp) and sweep funds into money market deposit accounts.
+Using a sweep vehicle like a sweep fund works by providing the customer with the greatest amount of interest with the minimum amount of personal intervention by transferring money at the end of the day into a high-interest account. In a sweep program, a bank's computers analyze customer use of [[checkable deposits]](https://www.investopedia.com/terms/c/checkable-deposits.asp) and sweep funds into money market deposit accounts.
 
 As of 2016, some brokerage accounts had similar features that enabled investors to gain some additional return for unused cash.1 Sweep accounts are simple mechanisms that allow any money above or below a set threshold in a checking account to be swept into a better investment vehicle. Sweep accounts were needed historically because federal banking regulations prohibited interest on checking accounts.
 
@@ -36,7 +36,7 @@ Businesses and individuals need to keep an eye on the costs of sweep accounts, a
 
 ## Special Considerations: Personal Sweeps vs. Business Sweeps
 
-Sweep accounts for individual investors are typically used by brokerages to park money waiting to be reinvested such as dividends, incoming cash deposits, and money from sell orders. These funds are typically swept into high-interest holding accounts or into money market funds until an investor makes a decision on future investments or until the [broker](https://www.investopedia.com/terms/b/broker.asp) can execute already standing orders within the portfolio.
+Sweep accounts for individual investors are typically used by brokerages to park money waiting to be reinvested such as dividends, incoming cash deposits, and money from sell orders. These funds are typically swept into high-interest holding accounts or into money market funds until an investor makes a decision on future investments or until the [[broker]](https://www.investopedia.com/terms/b/broker.asp) can execute already standing orders within the portfolio.
 
 Sweep accounts are a typical business tool, especially for small businesses that rely on daily cash flow but want to maximize earning potential on sitting cash reserves. A business sets a minimum balance for its main checking account, over which any funds are swept into a higher-interest investment product. If the balance ever dips below the threshold, the funds are swept back into the checking account from the investment account.
 

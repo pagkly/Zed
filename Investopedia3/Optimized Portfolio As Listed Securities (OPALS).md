@@ -16,7 +16,7 @@ author: James Chen
 Optimized Portfolio As Listed Securities (OPALS)
 ## What Is an Optimized Portfolio As Listed Securities (OPALS)?
 
-Optimized portfolio as listed securities is a single-country equity index that contains fewer holdings than the benchmarked index. Optimized portfolio as listed securities was created by [Morgan Stanley](https://www.investopedia.com/articles/markets/082515/how-morgan-stanley-makes-its-money-ms.asp) in 1994. It is seen as a predecessor to the popularity of exchange-traded funds.
+Optimized portfolio as listed securities is a single-country equity index that contains fewer holdings than the benchmarked index. Optimized portfolio as listed securities was created by [[Morgan Stanley]](https://www.investopedia.com/articles/markets/082515/how-morgan-stanley-makes-its-money-ms.asp) in 1994. It is seen as a predecessor to the popularity of exchange-traded funds.
 
 ## Understanding an Optimized Portfolio As Listed Securities (OPALS)
 
@@ -32,4 +32,4 @@ Portfolio optimization often takes place in two stages: optimizing weights of as
 
 Optimized portfolios as listed securities trade on the Luxembourg Stock Exchange. They are available for many of the different Morgan Stanley Capital International (MSCI) indices. The portfolios are typically purchased only by large institutional investors. They have a $100 million minimum investment, and they are not registered with the U.S. Securities and Exchange Commission, so they are generally unavailable to the majority of U.S. investors.
 
-Optimized portfolios as listed securities are often seen as one of several predecessors to the introduction of exchange-traded funds in the United States. Optimized portfolios were introduced on the Luxembourg Stock Exchange because the exchange’s more permissive rules allowed Morgan Stanley to offer the shares to retail investors. In 1996, Morgan Stanley introduced [World Equity Benchmark Shares](https://www.investopedia.com/terms/w/webs.asp) (WEBS). These were SEC-registered units, similar to optimized portfolios as listed securities and available to U.S. retail investors.
+Optimized portfolios as listed securities are often seen as one of several predecessors to the introduction of exchange-traded funds in the United States. Optimized portfolios were introduced on the Luxembourg Stock Exchange because the exchange’s more permissive rules allowed Morgan Stanley to offer the shares to retail investors. In 1996, Morgan Stanley introduced [[World Equity Benchmark Shares]](https://www.investopedia.com/terms/w/webs.asp) (WEBS). These were SEC-registered units, similar to optimized portfolios as listed securities and available to U.S. retail investors.

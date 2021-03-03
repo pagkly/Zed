@@ -16,9 +16,9 @@ author: Adam Hayes
 How Operating Leverage Works
 ## What Is Operating Leverage?
 
-Operating leverage is a cost-accounting formula that measures the degree to which a firm or project can increase operating income by increasing revenue. A business that generates sales with a high [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) and low variable costs has high operating leverage.
+Operating leverage is a cost-accounting formula that measures the degree to which a firm or project can increase operating income by increasing revenue. A business that generates sales with a high [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp) and low variable costs has high operating leverage.
 
-The higher the [degree of operating leverage](https://www.investopedia.com/terms/d/degreeofoperatingleverage.asp), the greater the potential danger from forecasting risk, in which a relatively small error in forecasting sales can be magnified into large errors in [cash flow projections](https://www.investopedia.com/terms/f/financialinstitution.asp).
+The higher the [[degree of operating leverage]](https://www.investopedia.com/terms/d/degreeofoperatingleverage.asp), the greater the potential danger from forecasting risk, in which a relatively small error in forecasting sales can be magnified into large errors in [[cash flow projections]](https://www.investopedia.com/terms/f/financialinstitution.asp).
 
 #### The Operating Leverage And DOL
 
@@ -64,6 +64,6 @@ For example, a software business has greater fixed costs in developers’ salari
 
 ## Examples of Operating Leverage
 
-Most of [Microsoft’s](https://www.investopedia.com/news/why-microsofts-stock-breaking-down/) costs are fixed, such as expenses for upfront development and marketing. With each dollar in sales earned beyond the break-even point, the company makes a profit, but Microsoft has high operating leverage.
+Most of [[Microsoft’s]](https://www.investopedia.com/news/why-microsofts-stock-breaking-down/) costs are fixed, such as expenses for upfront development and marketing. With each dollar in sales earned beyond the break-even point, the company makes a profit, but Microsoft has high operating leverage.
 
 Conversely, Walmart retail stores have low fixed costs and large variable costs, especially for merchandise. Because Walmart sells a huge volume of items and pays upfront for each unit it sells, its cost of goods sold increases as sales increase. Because of this, Walmart stores have low operating leverage.

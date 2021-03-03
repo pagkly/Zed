@@ -16,11 +16,11 @@ author: Jake Frankenfield
 Hierarchical Deterministic Wallet – HD Wallet
 ## What Is an HD Wallet?
 
-An HD Wallet, or Hierarchical Deterministic wallet, is a new-age [digital wallet](https://www.investopedia.com/terms/d/digital-wallet.asp) that automatically generates a hierarchical tree-like structure of private/public addresses (or keys), thereby addressing the problem of the user having to generate them on their own.
+An HD Wallet, or Hierarchical Deterministic wallet, is a new-age [[digital wallet]](https://www.investopedia.com/terms/d/digital-wallet.asp) that automatically generates a hierarchical tree-like structure of private/public addresses (or keys), thereby addressing the problem of the user having to generate them on their own.
 
 ## HD Wallet Explained
 
-A standard cryptocurrency wallet is used to store the [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp) tokens or coins. It has a public address which the user can give to others to receive funds from them, and a [private key](https://www.investopedia.com/terms/p/private-key.asp) that the user uses to spend the stored tokens.
+A standard cryptocurrency wallet is used to store the [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) tokens or coins. It has a public address which the user can give to others to receive funds from them, and a [[private key]](https://www.investopedia.com/terms/p/private-key.asp) that the user uses to spend the stored tokens.
 
 This public/private combination mechanism ensures safety of the cryptocurrency tokens but comes with an additional overhead of the user being required to repeatedly generate a random pair of private/public addresses (or keys), and back up each time one configures a new pair of addresses. As the number of transactions increases, this process becomes cumbersome for the user.
 

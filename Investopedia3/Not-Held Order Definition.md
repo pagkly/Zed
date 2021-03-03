@@ -16,9 +16,9 @@ author: Akhilesh Ganti
 Not-Held Order Definition
 ## What Is a Not-Held Order?
 
-A not-held order, usually a [market](https://www.investopedia.com/terms/m/marketorder.asp) or [limit order](https://www.investopedia.com/terms/l/limitorder.asp), gives a [broker](https://www.investopedia.com/terms/b/broker.asp) both time and price discretion to get the best price available. As a result, the broker is not held responsible for any potential losses or missed opportunities that result from their [best efforts](https://www.investopedia.com/terms/b/bestefforts.asp).
+A not-held order, usually a [[market]](https://www.investopedia.com/terms/m/marketorder.asp) or [[limit order]](https://www.investopedia.com/terms/l/limitorder.asp), gives a [[broker]](https://www.investopedia.com/terms/b/broker.asp) both time and price discretion to get the best price available. As a result, the broker is not held responsible for any potential losses or missed opportunities that result from their [[best efforts]](https://www.investopedia.com/terms/b/bestefforts.asp).
 
-A not-held order may be contrasted with a [held order](https://www.investopedia.com/terms/h/held-order.asp), which requires prompt execution for an immediate fill.
+A not-held order may be contrasted with a [[held order]](https://www.investopedia.com/terms/h/held-order.asp), which requires prompt execution for an immediate fill.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ A not-held order may be contrasted with a [held order](https://www.investopedia.
 
 ## Understanding Not-Held Orders
 
-An investor placing a not-held order is trusting that the broker can obtain a better [market price](https://www.investopedia.com/terms/m/market-price.asp) than what the investor can get by accessing the market directly on their own. Although the broker has price and time [discretion](https://www.investopedia.com/terms/w/withdiscretion.asp), they are also not responsible for any losses that the shareholder may suffer from this type of order.
+An investor placing a not-held order is trusting that the broker can obtain a better [[market price]](https://www.investopedia.com/terms/m/market-price.asp) than what the investor can get by accessing the market directly on their own. Although the broker has price and time [[discretion]](https://www.investopedia.com/terms/w/withdiscretion.asp), they are also not responsible for any losses that the shareholder may suffer from this type of order.
 
 Providing the broker tries to obtain the best price for a with discretion order, they are "not held" liable for failing to execute a trade above or below an attached limit price. For example, a [broker](https://www.investopedia.com/terms/b/broker.asp) may have received a with discretion order to buy 1,000 shares of ABC with an upper limit of $16. They might think the market is about to fall and will not buy the stock when it is trading below $16. Instead, the market rallies and the broker now can’t [execute](https://www.investopedia.com/terms/e/execution.asp) the order below $16. As it was a with discretion order, the investor has little recourse or grounds to complain.
 
-Not-held orders are most common when trading international [equities](https://www.investopedia.com/terms/e/equity.asp). The opposite of a not-held order is a held order, which is the order that most investors are more familiar with, and one that demands immediate execution. In other words, the execution of the order remains held with the customer.
+Not-held orders are most common when trading international [[equities]](https://www.investopedia.com/terms/e/equity.asp). The opposite of a not-held order is a held order, which is the order that most investors are more familiar with, and one that demands immediate execution. In other words, the execution of the order remains held with the customer.
 
 ## When to Use Not-Held Orders
 
@@ -52,4 +52,4 @@ Brokers have the benefit of seeing order flows and trading patterns, which often
 
 ## Limitations of Not-Held Orders
 
-Once the investor gives a not-held order to the broker, they are placing full confidence in that individual to execute the trade at the best possible price. The investor cannot dispute the trade [execution](https://www.investopedia.com/terms/e/execution.asp), provided that the broker met all regulatory requirements. For instance, if a shareholder thinks the broker shouldn't have executed their not-held order before an FOMC interest rate announcement, they cannot seek a rebooking.
+Once the investor gives a not-held order to the broker, they are placing full confidence in that individual to execute the trade at the best possible price. The investor cannot dispute the trade [[execution]](https://www.investopedia.com/terms/e/execution.asp), provided that the broker met all regulatory requirements. For instance, if a shareholder thinks the broker shouldn't have executed their not-held order before an FOMC interest rate announcement, they cannot seek a rebooking.

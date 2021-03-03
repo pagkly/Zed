@@ -16,9 +16,9 @@ author: Julia Kagan
 What Is a Value-Added Tax (VAT)?
 ## What Is a Value-Added Tax (VAT)?
 
-A value-added tax (VAT) is a [consumption tax](https://www.investopedia.com/terms/c/consumption-tax.asp) placed on a product whenever value is added at each stage of the supply chain, from production to the point of sale. The amount of VAT that the user pays is on the cost of the product, less any of the costs of materials used in the product that have already been taxed.
+A value-added tax (VAT) is a [[consumption tax]](https://www.investopedia.com/terms/c/consumption-tax.asp) placed on a product whenever value is added at each stage of the supply chain, from production to the point of sale. The amount of VAT that the user pays is on the cost of the product, less any of the costs of materials used in the product that have already been taxed.
 
-[More than 160 countries around the world use value-added taxation](https://www.investopedia.com/ask/answers/042315/what-are-some-examples-value-added-tax.asp), and it is most commonly found in the European Union.1 Nevertheless, it is not without controversy. Advocates say it raises government revenues without punishing success or wealth, as income taxes do, and it is simpler and more standardized than a traditional sales tax, with fewer compliance issues. Critics charge that a VAT is essentially a [regressive tax](https://www.investopedia.com/terms/r/regressivetax.asp) that places an increased economic strain on lower-income taxpayers and also adds bureaucratic burdens for businesses.
+[More than 160 countries around the world use value-added taxation](https://www.investopedia.com/ask/answers/042315/what-are-some-examples-value-added-tax.asp), and it is most commonly found in the European Union.1 Nevertheless, it is not without controversy. Advocates say it raises government revenues without punishing success or wealth, as income taxes do, and it is simpler and more standardized than a traditional sales tax, with fewer compliance issues. Critics charge that a VAT is essentially a [[regressive tax]](https://www.investopedia.com/terms/r/regressivetax.asp) that places an increased economic strain on lower-income taxpayers and also adds bureaucratic burdens for businesses.
 
 Value-added taxation is based on taxpayers’ consumption rather than their income. In contrast to a progressive income tax, which levies greater taxes on higher-level earners, VAT applies equally to every purchase.
 
@@ -30,7 +30,7 @@ Value-added taxation is based on taxpayers’ consumption rather than their inco
 
 ## How a Value-Added Tax Works
 
-A VAT is levied on the [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) at each point in the manufacturing-distribution-sales process of an item. The tax is assessed and collected at each stage, in contrast to a sales tax, which is only assessed and paid by the consumer at the very end of the [supply chain](https://www.investopedia.com/terms/s/supplychain.asp).1
+A VAT is levied on the [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp) at each point in the manufacturing-distribution-sales process of an item. The tax is assessed and collected at each stage, in contrast to a sales tax, which is only assessed and paid by the consumer at the very end of the [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp).1
 
 Say, for example, Dulce is an expensive candy manufactured and sold in the country of Alexia. Alexia has a 10% value-added tax. Here is how the VAT would work:
 
@@ -40,9 +40,9 @@ Say, for example, Dulce is an expensive candy manufactured and sold in the count
 
 ## History of the Value-Added Tax
 
-The vast majority of industrialized countries that make up the [Organisation for Economic Cooperation and Development](https://www.investopedia.com/terms/o/oecd.asp) (OECD) have a VAT system. The United States remains the only notable exception.1
+The vast majority of industrialized countries that make up the [[Organisation for Economic Cooperation and Development]](https://www.investopedia.com/terms/o/oecd.asp) (OECD) have a VAT system. The United States remains the only notable exception.1
 
-Most industrial countries with a VAT adopted their systems in the 1980s. Results have been mixed, but there is certainly no tendency among VAT countries to have small budget deficits or low government debt. According to one [International Monetary Fund](https://www.investopedia.com/terms/i/imf.asp) study, any nation that switches to VAT initially feels the negative impact of reduced tax revenues despite its greater revenue potential down the road.2
+Most industrial countries with a VAT adopted their systems in the 1980s. Results have been mixed, but there is certainly no tendency among VAT countries to have small budget deficits or low government debt. According to one [[International Monetary Fund]](https://www.investopedia.com/terms/i/imf.asp) study, any nation that switches to VAT initially feels the negative impact of reduced tax revenues despite its greater revenue potential down the road.2
 
 VAT has earned a negative connotation in some parts of the world where it has been introduced, even hurting its proponents politically. In the Philippines, for example, Senator Ralph Recto, the chief proponent of VAT in the early 2000s,3 was voted out of office by the electorate when he ran for re-election.4 However, in the years that followed its implementation, the population eventually accepted the tax. Recto ended up finding his way back to the Senate, where he became the proponent of an expanded VAT.
 
@@ -60,19 +60,19 @@ VATs and sales taxes can raise the same amount of revenue; the difference lies i
 
 Just as it would with a traditional 10% sales tax, the government receives 10¢ on a $1 sale. The VAT differs in that it is paid at different stops along the supply chain; the farmer pays 3¢, the baker pays 4¢, and the supermarket pays 3¢.
 
-However, a VAT offers advantages over a national sales tax. It is much easier to track. The exact tax levied at each step of production is known. With a sales tax, the entire amount is rendered after the sale, making it difficult to allocate to specific production stages. Additionally, because the VAT only taxes each value addition—not the sale of a product itself—assurance is provided that the same product is not [double taxed](https://www.investopedia.com/terms/d/double_taxation.asp).
+However, a VAT offers advantages over a national sales tax. It is much easier to track. The exact tax levied at each step of production is known. With a sales tax, the entire amount is rendered after the sale, making it difficult to allocate to specific production stages. Additionally, because the VAT only taxes each value addition—not the sale of a product itself—assurance is provided that the same product is not [[double taxed]](https://www.investopedia.com/terms/d/double_taxation.asp).
 
 ## Special Considerations
 
-There’s been much debate in the U.S. about replacing the current income tax system with a federal VAT. Advocates claim it would increase government revenue, help fund essential social services, and reduce the federal deficit. Most recently, a VAT has been [advocated by Democratic presidential candidate Andrew Yang](https://www.yang2020.com/policies/value-added-tax/).
+There’s been much debate in the U.S. about replacing the current income tax system with a federal VAT. Advocates claim it would increase government revenue, help fund essential social services, and reduce the federal deficit. Most recently, a VAT has been [[advocated by Democratic presidential candidate Andrew Yang]](https://www.yang2020.com/policies/value-added-tax/).
 
-In 1992 the Congressional Budget Office conducted an economic study on implementing a VAT. At the time, the CBO concluded that a VAT would add only $150 billion in annual revenue, or less than 3% of the national output.6 If you adjust $150 billion to 2020 dollars, it comes out to just under $275 billion; 3% of the third quarter of 2019 [gross domestic product (GDP)](https://www.investopedia.com/terms/g/gdp.asp) of $21.53 trillion comes out to just over $650 billion. Using these approximations, it can be estimated that a VAT might raise between $250 billion and $500 billion in revenue for the government.
+In 1992 the Congressional Budget Office conducted an economic study on implementing a VAT. At the time, the CBO concluded that a VAT would add only $150 billion in annual revenue, or less than 3% of the national output.6 If you adjust $150 billion to 2020 dollars, it comes out to just under $275 billion; 3% of the third quarter of 2019 [[gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp) of $21.53 trillion comes out to just over $650 billion. Using these approximations, it can be estimated that a VAT might raise between $250 billion and $500 billion in revenue for the government.
 
 Of course, these figures don’t account for all of the outside impacts of a VAT system. A VAT would change the structure of production in the United States, as not all firms will be equally able to absorb the hike in input costs. It is unknown if the additional revenue would be used as an excuse to borrow more money—historically proven to be the case in Europe—or reduce taxes in other areas (potentially making the VAT budget-neutral).
 
-The Baker Institute, in conjunction with Ernst & Young, conducted a [macroeconomic](https://www.investopedia.com/terms/m/macroeconomics.asp) analysis of the VAT in 2010. The three principal findings were that the VAT would reduce retail spending by $2.5 trillion over 10 years, the economy could lose up to 850,000 jobs in the first year alone, and the VAT would have “significant redistributional effects” that would harm current workers.7
+The Baker Institute, in conjunction with Ernst & Young, conducted a [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) analysis of the VAT in 2010. The three principal findings were that the VAT would reduce retail spending by $2.5 trillion over 10 years, the economy could lose up to 850,000 jobs in the first year alone, and the VAT would have “significant redistributional effects” that would harm current workers.7
 
-Three years later, in a 2013 Brookings Institution report, William Gale and Benjamin Harris proposed a VAT to help solve the country’s fiscal problems coming out of the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp). They calculated that a 5% VAT could reduce the deficit by $1.6 trillion over 10 years and raise revenues without distorting savings and investment choices.8
+Three years later, in a 2013 Brookings Institution report, William Gale and Benjamin Harris proposed a VAT to help solve the country’s fiscal problems coming out of the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp). They calculated that a 5% VAT could reduce the deficit by $1.6 trillion over 10 years and raise revenues without distorting savings and investment choices.8
 
 ## Pros and Cons of a Value-Added Tax
 
@@ -102,7 +102,7 @@ Proponents argue that not only would a VAT greatly simplify the complex federal 
 
 ### Pro: A stronger incentive to earn
 
-If a VAT supplants American income tax, it eliminates the disincentive-to-succeed complaint levied against such [progressive tax](https://www.investopedia.com/terms/p/progressivetax.asp) systems: Citizens get to keep more of the money they make and are only affected by taxes when purchasing goods. This change not only confers a stronger incentive to earn; it also encourages saving and discourages frivolous spending (theoretically).
+If a VAT supplants American income tax, it eliminates the disincentive-to-succeed complaint levied against such [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp) systems: Citizens get to keep more of the money they make and are only affected by taxes when purchasing goods. This change not only confers a stronger incentive to earn; it also encourages saving and discourages frivolous spending (theoretically).
 
 ### Con: Higher costs for businesses
 
@@ -132,7 +132,7 @@ No, there is no VAT tax in the U.S. at present, and each state sets its own sale
 
 ### Who benefits from a VAT tax and who doesn't?
 
-Better-off consumers could ultimately benefit if a VAT replaced the income tax. As with other [flat taxes](https://www.investopedia.com/terms/f/flattax.asp), a VAT’s impact would be felt less by the wealthy and shouldered more heavily by the poor, who spend a larger percentage of their take-home pay on necessities. In short, lower-income consumers would pay a much higher proportion of their earnings in taxes with a VAT system, critics, including the Tax Policy Center, charge.9
+Better-off consumers could ultimately benefit if a VAT replaced the income tax. As with other [[flat taxes]](https://www.investopedia.com/terms/f/flattax.asp), a VAT’s impact would be felt less by the wealthy and shouldered more heavily by the poor, who spend a larger percentage of their take-home pay on necessities. In short, lower-income consumers would pay a much higher proportion of their earnings in taxes with a VAT system, critics, including the Tax Policy Center, charge.9
 
 ### How can the negative potential effects of a VAT on lower-income individuals be fixed?
 

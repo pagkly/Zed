@@ -16,13 +16,13 @@ author: Will Kenton
 Unrestricted Cash
 ## What is Unrestricted Cash
 
-Unrestricted cash refers to monetary reserves that are not tied to a particular use. Unrestricted cash can be used for any purpose since it is not earmarked for a specific use and is extremely liquid. Often, in order to satisfy debt [covenants](https://www.investopedia.com/terms/c/covenant.asp), firms will have to maintain a certain level of cash on their [balance sheets](https://www.investopedia.com/terms/b/balancesheet.asp) — the amount that exceeds the requirements is referred to as unrestricted cash.
+Unrestricted cash refers to monetary reserves that are not tied to a particular use. Unrestricted cash can be used for any purpose since it is not earmarked for a specific use and is extremely liquid. Often, in order to satisfy debt [[covenants]](https://www.investopedia.com/terms/c/covenant.asp), firms will have to maintain a certain level of cash on their [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp) — the amount that exceeds the requirements is referred to as unrestricted cash.
 
-Unrestricted cash is a part of an organization's liquid funds. An organization's liquid funds include [restricted cash](https://www.investopedia.com/terms/r/restricted-cash.asp), unrestricted cash, cash equivalents, unrestricted [short-term](https://www.investopedia.com/terms/s/shortterm.asp) (ST) investments, plus net short-term borrowing capacity.
+Unrestricted cash is a part of an organization's liquid funds. An organization's liquid funds include [[restricted cash]](https://www.investopedia.com/terms/r/restricted-cash.asp), unrestricted cash, cash equivalents, unrestricted [[short-term]](https://www.investopedia.com/terms/s/shortterm.asp) (ST) investments, plus net short-term borrowing capacity.
 
 ## Breaking Down Unrestricted Cash
 
-Cash and [cash equivalents](https://www.investopedia.com/terms/c/cashequivalents.asp) represent the money that an organization can spend now, as they are assets readily available for use. In order to spend more than that, a company will have to take on a higher level of liabilities through borrowing, such as through loans or accounts receivable. For some organizations with a varying pattern of [cash flow](https://www.investopedia.com/terms/c/cashflow.asp), such as non-profits, unrestricted cash can keep operations active even when funding sources dry up.
+Cash and [[cash equivalents]](https://www.investopedia.com/terms/c/cashequivalents.asp) represent the money that an organization can spend now, as they are assets readily available for use. In order to spend more than that, a company will have to take on a higher level of liabilities through borrowing, such as through loans or accounts receivable. For some organizations with a varying pattern of [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp), such as non-profits, unrestricted cash can keep operations active even when funding sources dry up.
 
 ## Example of Unrestricted Cash
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Qualifying Disposition
 ## What Is a Qualifying Disposition?
 
-Qualifying disposition refers to a sale, transfer, or exchange of stock that qualifies for favorable tax treatment. Individuals typically acquire this type of stock through an incentive stock option (ISO), or through a qualified [employee stock purchase plan (ESPP)](https://www.investopedia.com/terms/e/espp.asp). A qualified ESPP requires shareholder approval before it is implemented. Furthermore, all plan members must have equal rights in the plan.1
+Qualifying disposition refers to a sale, transfer, or exchange of stock that qualifies for favorable tax treatment. Individuals typically acquire this type of stock through an incentive stock option (ISO), or through a qualified [[employee stock purchase plan (ESPP)]](https://www.investopedia.com/terms/e/espp.asp). A qualified ESPP requires shareholder approval before it is implemented. Furthermore, all plan members must have equal rights in the plan.1
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Qualifying disposition refers to a sale, transfer, or exchange of stock that qua
 
 ## How Qualifying Disposition Works
 
-To be a qualifying disposition, the employee must sell their position at least one year after exercising the stock, and two years after the [incentive stock option (ISO)](https://www.investopedia.com/terms/i/iso.asp) was granted, or two years after the beginning of the ESPP offering period.1
+To be a qualifying disposition, the employee must sell their position at least one year after exercising the stock, and two years after the [[incentive stock option (ISO)]](https://www.investopedia.com/terms/i/iso.asp) was granted, or two years after the beginning of the ESPP offering period.1
 
 For example, suppose Cathy’s ISO options were granted September 20, 2018, and she exercises them September 20, 2019. In this scenario, Cathy must wait until September 20, 2020, before she may report a long-term capital gain.
 
@@ -49,4 +49,4 @@ The bargain element for NSOs is added to an individual’s alternative minimum t
 
 A disqualifying distribution is the sale or exchange of shares received from an ISO or ESPP before the holding period has been met. The ISO holding period is one year from the exercise date and two years from the grant date or two years from the ESPP offering date. Gains or losses realized in a disqualifying disposition are taxed at a higher rate.3
 
-If ESPP or ISO shares are sold in a qualifying disposition, the bargain amount is taxed at the capital gains rate. Disqualifying dispositions are recorded at the [income tax](https://www.investopedia.com/terms/i/incometax.asp) rate, which is generally higher than the capital gains tax.3
+If ESPP or ISO shares are sold in a qualifying disposition, the bargain amount is taxed at the capital gains rate. Disqualifying dispositions are recorded at the [[income tax]](https://www.investopedia.com/terms/i/incometax.asp) rate, which is generally higher than the capital gains tax.3

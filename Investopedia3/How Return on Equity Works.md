@@ -16,7 +16,7 @@ author: Jason Fernando
 How Return on Equity Works
 ## What Is Return on Equity (ROE)?
 
-Return on equity (ROE) is a measure of financial performance calculated by dividing [net income](https://www.investopedia.com/terms/n/netincome.asp) by [shareholders' equity](https://www.investopedia.com/terms/s/shareholdersequity.asp). Because shareholders' equity is equal to a company’s assets minus its debt, ROE is considered the [return on net assets](https://www.investopedia.com/ask/answers/070914/what-are-main-differences-between-return-equity-roe-and-return-assets-roa.asp). ROE is considered a measure of the profitability of a corporation in relation to stockholders’ equity.
+Return on equity (ROE) is a measure of financial performance calculated by dividing [[net income]](https://www.investopedia.com/terms/n/netincome.asp) by [[shareholders' equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp). Because shareholders' equity is equal to a company’s assets minus its debt, ROE is considered the [[return on net assets]](https://www.investopedia.com/ask/answers/070914/what-are-main-differences-between-return-equity-roe-and-return-assets-roa.asp). ROE is considered a measure of the profitability of a corporation in relation to stockholders’ equity.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Return on Equity\=Net IncomeAverage Shareholders’ Equity\\begin{aligned} 
 
 Net income is the amount of income, net of expense, and taxes that a company generates for a given period. Average shareholders' equity is calculated by adding equity at the beginning of the period. The beginning and end of the period should coincide with the period during which the net income is earned.
 
-Net income over the last full fiscal year, or [trailing 12 months](https://www.investopedia.com/terms/t/ttm.asp), is found on the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp)—a sum of financial activity over that period. Shareholders' equity comes from the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp)—a running balance of a company’s entire history of changes in assets and liabilities.
+Net income over the last full fiscal year, or [[trailing 12 months]](https://www.investopedia.com/terms/t/ttm.asp), is found on the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp)—a sum of financial activity over that period. Shareholders' equity comes from the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp)—a running balance of a company’s entire history of changes in assets and liabilities.
 
 It is considered best practice to calculate ROE based on average equity over a period because of the mismatch between the income statement and the balance sheet.
 
@@ -44,9 +44,9 @@ A good rule of thumb is to target an ROE that is equal to or just above the aver
 
 ### Using ROE to Estimate Growth Rates
 
-Sustainable growth rates and dividend growth rates can be estimated using ROE, assuming that the ratio is roughly in line or just above its peer group average. Although there may be some challenges, ROE can be a good starting place for developing future estimates of a stock’s growth rate and the growth rate of its [dividends](https://www.investopedia.com/terms/d/dividend.asp). These two calculations are functions of each other and can be used to make an easier comparison between similar companies.
+Sustainable growth rates and dividend growth rates can be estimated using ROE, assuming that the ratio is roughly in line or just above its peer group average. Although there may be some challenges, ROE can be a good starting place for developing future estimates of a stock’s growth rate and the growth rate of its [[dividends]](https://www.investopedia.com/terms/d/dividend.asp). These two calculations are functions of each other and can be used to make an easier comparison between similar companies.
 
-To estimate a company’s future growth rate, multiply the ROE by the company’s [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp). The retention ratio is the percentage of net income that is retained or reinvested by the company to fund future growth.
+To estimate a company’s future growth rate, multiply the ROE by the company’s [[retention ratio]](https://www.investopedia.com/terms/r/retentionratio.asp). The retention ratio is the percentage of net income that is retained or reinvested by the company to fund future growth.
 
 ### ROE and a Sustainable Growth Rate
 
@@ -54,13 +54,13 @@ Assume that there are two companies with an identical ROE and net income, but di
 
 For company A, the growth rate is 10.5%, or ROE times the retention ratio, which is 15% times 70%. Business B's growth rate is 13.5%, or 15% times 90%.
 
-This analysis is referred to as the [sustainable growth rate](https://www.investopedia.com/video/play/sustainable-growth-rate/) model. Investors can use this model to make estimates about the future and to identify stocks that may be risky because they are running ahead of their sustainable growth ability. A stock that is growing slower than its sustainable rate could be undervalued, or the market may be discounting risky signs from the company. In either case, a growth rate that is far above or below the sustainable rate warrants additional investigation.
+This analysis is referred to as the [[sustainable growth rate]](https://www.investopedia.com/video/play/sustainable-growth-rate/) model. Investors can use this model to make estimates about the future and to identify stocks that may be risky because they are running ahead of their sustainable growth ability. A stock that is growing slower than its sustainable rate could be undervalued, or the market may be discounting risky signs from the company. In either case, a growth rate that is far above or below the sustainable rate warrants additional investigation.
 
 This comparison seems to make business B more attractive than company A, but it ignores the advantages of a higher dividend rate that may be favored by some investors. We can modify the calculation to estimate the stock’s dividend growth rate, which may be more important to income investors.
 
 ## Estimating the Dividend Growth Rate
 
-Continuing with our example from above, the [dividend growth rate](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) can be estimated by multiplying ROE by the [payout ratio](https://www.investopedia.com/terms/p/payoutratio.asp). The payout ratio is the percentage of net income that is returned to common shareholders through dividends. This formula gives us a sustainable dividend growth rate, which favors company A.
+Continuing with our example from above, the [[dividend growth rate]](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) can be estimated by multiplying ROE by the [[payout ratio]](https://www.investopedia.com/terms/p/payoutratio.asp). The payout ratio is the percentage of net income that is returned to common shareholders through dividends. This formula gives us a sustainable dividend growth rate, which favors company A.
 
 The company A dividend growth rate is 4.5%, or ROE times the payout ratio, which is 15% times 30%. Business B's dividend growth rate is 1.5%, or 15% times 10%. A stock that is growing its dividend far above or below the sustainable dividend growth rate may indicate risks that should be investigated.
 
@@ -76,7 +76,7 @@ The first potential issue with a high ROE could be inconsistent profits. Imagine
 
 ### Excess Debt
 
-A second issue that could cause a high ROE is excess debt. If a company has been borrowing aggressively, it can increase ROE because equity is equal to assets minus debt. The more debt a company has, the lower equity can fall. A common scenario is when a company borrows large amounts of debt to buy back its own stock. This can inflate [earnings per share](https://www.investopedia.com/terms/e/eps.asp) (EPS), but it does not affect actual performance or growth rates.
+A second issue that could cause a high ROE is excess debt. If a company has been borrowing aggressively, it can increase ROE because equity is equal to assets minus debt. The more debt a company has, the lower equity can fall. A common scenario is when a company borrows large amounts of debt to buy back its own stock. This can inflate [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) (EPS), but it does not affect actual performance or growth rates.
 
 ### Negative Net Income
 
@@ -92,7 +92,7 @@ A high ROE might not always be positive. An outsized ROE can be indicative of a 
 
 ## ROE vs. Return on Invested Capital
 
-While return on equity looks at how much profit a company can generate relative to shareholders’ equity, [return on invested capital](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC) takes that calculation a couple of steps further.
+While return on equity looks at how much profit a company can generate relative to shareholders’ equity, [[return on invested capital]](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC) takes that calculation a couple of steps further.
 
 The purpose of ROIC is to figure out the amount of money after dividends a company makes based on all its sources of capital, which includes shareholders equity and debt. ROE looks at how well a company uses shareholder equity while ROIC is meant to determine how well a company uses all its available capital to make money.
 
@@ -118,7 +118,7 @@ As with most other performance metrics, what counts as a “good” ROE will dep
 
 ### How do you calculate ROE?
 
-To calculate ROE, analysts simply divide the company’s net income by its average [shareholders’ equity](https://www.investopedia.com/terms/s/shareholdersequity.asp). Since shareholders’ equity is equal to assets minus liabilities, ROE is essentially a measure of the return generated on the net assets of the company. The reason average shareholders’ equity is used is that this figure might fluctuate during the accounting period in question.
+To calculate ROE, analysts simply divide the company’s net income by its average [[shareholders’ equity]](https://www.investopedia.com/terms/s/shareholdersequity.asp). Since shareholders’ equity is equal to assets minus liabilities, ROE is essentially a measure of the return generated on the net assets of the company. The reason average shareholders’ equity is used is that this figure might fluctuate during the accounting period in question.
 
 ### What is the difference between Return on Assets (ROA) and ROE?
 

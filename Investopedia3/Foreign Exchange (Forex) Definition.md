@@ -16,7 +16,7 @@ author: James Chen
 Foreign Exchange (Forex) Definition
 ## What Is Foreign Exchange (Forex)?
 
-Foreign Exchange ([forex](https://www.investopedia.com/terms/f/forex.asp) or FX) is the trading of one [currency](https://www.investopedia.com/terms/c/currency.asp) for another. For example, one can swap the U.S. dollar for the euro. Foreign exchange transactions can take place on the foreign exchange market, also known as the [forex market](https://www.investopedia.com/terms/forex/f/forex-market.asp).
+Foreign Exchange ([forex](https://www.investopedia.com/terms/f/forex.asp) or FX) is the trading of one [[currency]](https://www.investopedia.com/terms/c/currency.asp) for another. For example, one can swap the U.S. dollar for the euro. Foreign exchange transactions can take place on the foreign exchange market, also known as the [[forex market]](https://www.investopedia.com/terms/forex/f/forex-market.asp).
 
 The forex market is the largest, most [liquid market](https://www.investopedia.com/terms/l/liquidmarket.asp) in the world, with [trillions of dollars](https://www.investopedia.com/articles/forex/11/who-trades-forex-and-why.asp) changing hands every day.1 There is no centralized location. Rather, the forex market is an electronic network of banks, brokers, institutions, and individual traders (mostly trading through brokers or banks).
 
@@ -29,9 +29,9 @@ The forex market is the largest, most [liquid market](https://www.investopedia.
 
 ## How Does Foreign Exchange Work? 
 
-The market determines the value, also known as an [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp), of the majority of currencies. Foreign exchange can be as simple as changing one currency for another at a local bank. It can also involve trading currency on the foreign exchange market. For example, a trader is betting a central bank will ease or tighten [monetary policy](https://www.investopedia.com/video/play/monetary-policy/) and that one currency will strengthen versus the other.
+The market determines the value, also known as an [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp), of the majority of currencies. Foreign exchange can be as simple as changing one currency for another at a local bank. It can also involve trading currency on the foreign exchange market. For example, a trader is betting a central bank will ease or tighten [[monetary policy]](https://www.investopedia.com/video/play/monetary-policy/) and that one currency will strengthen versus the other.
 
-When [trading currencies](https://www.investopedia.com/articles/forex/08/forex-concepts.asp), they are listed in pairs, such as USD/CAD, EUR/USD, or USD/JPY. These represent the U.S. dollar (USD) versus the Canadian dollar (CAD), the euro (EUR) versus the USD, and the USD versus the Japanese yen (JPY).
+When [[trading currencies]](https://www.investopedia.com/articles/forex/08/forex-concepts.asp), they are listed in pairs, such as USD/CAD, EUR/USD, or USD/JPY. These represent the U.S. dollar (USD) versus the Canadian dollar (CAD), the euro (EUR) versus the USD, and the USD versus the Japanese yen (JPY).
 
 There will also be a price associated with each pair, such as 1.2569. If this price was associated with the USD/CAD pair, it means that it costs 1.2569 CAD to buy one USD. If the price increases to 1.3336, then it now costs 1.3336 CAD to buy one USD. The USD has increased in value (CAD decrease) because it now costs more CAD to buy one USD.
 
@@ -45,7 +45,7 @@ The largest trading centers are London, New York, Singapore, Hong Kong, and Toky
 
 ## Trading in the Foreign Exchange Market
 
-The [market](https://www.investopedia.com/articles/forex/08/3-market-system.asp) is open 24 hours a day, five days a week across major financial centers across the globe. This means that you can buy or sell currencies at any time during the day.
+The [[market]](https://www.investopedia.com/articles/forex/08/3-market-system.asp) is open 24 hours a day, five days a week across major financial centers across the globe. This means that you can buy or sell currencies at any time during the day.
 
 The foreign exchange market isn't exactly a one-stop shop. There are a whole variety of different avenues that an investor can go through in order to execute forex trades. You can go through different dealers or through different financial centers which use a host of [electronic networks](https://www.investopedia.com/articles/stocks/11/securities-market-introduction.asp).
 
@@ -81,6 +81,6 @@ A [futures](https://www.investopedia.com/terms/f/futures.asp) transaction is s
 
 ## Example of Foreign Exchange
 
-A trader thinks that the European Central Bank (ECB) will be easing its monetary policy in the coming months as the Eurozone’s economy slows. As a result, the trader bets that the euro will fall against the U.S. dollar and sells [short](https://www.investopedia.com/terms/s/short.asp) €100,000 at an exchange rate of 1.15. Over the next several weeks the ECB signals that it may indeed ease its monetary policy. That causes the exchange rate for the euro to fall to 1.10 versus the dollar. It creates a profit for the trader of $5,000.
+A trader thinks that the European Central Bank (ECB) will be easing its monetary policy in the coming months as the Eurozone’s economy slows. As a result, the trader bets that the euro will fall against the U.S. dollar and sells [[short]](https://www.investopedia.com/terms/s/short.asp) €100,000 at an exchange rate of 1.15. Over the next several weeks the ECB signals that it may indeed ease its monetary policy. That causes the exchange rate for the euro to fall to 1.10 versus the dollar. It creates a profit for the trader of $5,000.
 
 By shorting €100,000, the trader took in $115,000 for the short sale. When the euro fell, and the trader covered their short, it cost the trader only $110,000 to repurchase the currency. The difference between the money received on the short-sale and the buy to cover is the profit. Had the euro strengthened versus the dollar, it would have resulted in a loss.

@@ -46,8 +46,8 @@ Once the selling volume reached critical mass with no more buyers, the firm dump
 
 Investors should be wary about notices that a stock is about to take off – especially when they are unsolicited – no matter how tempting it may be. Consider the source and check for red flags. Many notices come from paid promotors or insiders, who should not be trusted. If an email or newsletter only talks about the hype and doesn't mention any of the risk, it's probably a scam. Always do your own research in a stock before making an investment.
 
-The [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) has [some tips](http://www.finra.org/investors/highlights/wake-and-smell-pump-and-dump) to help avoid becoming a victim.
+The [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) has [some tips](http://www.finra.org/investors/highlights/wake-and-smell-pump-and-dump) to help avoid becoming a victim.
 
 ## Real Life Example of Pump-and-Dump
 
-A [study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3303365) conducted in 2018 examined the prevalence of pump and dump schemes in the cryptocurrency market, an area that is predominantly unregulated. Researchers identified more than 3,700 different pump messages and signals advertised on two popular cryptocurrency messaging boards between January and July 2018, urging investors to buy specific coins.
+A [[study]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3303365) conducted in 2018 examined the prevalence of pump and dump schemes in the cryptocurrency market, an area that is predominantly unregulated. Researchers identified more than 3,700 different pump messages and signals advertised on two popular cryptocurrency messaging boards between January and July 2018, urging investors to buy specific coins.

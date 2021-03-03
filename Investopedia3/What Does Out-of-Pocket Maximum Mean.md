@@ -22,21 +22,21 @@ After the policyholder meets the out-of-pocket maximum, the health insurance com
 
 ## Out-of-Pocket Maximum Explained
 
-Health [insurance premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) don't count toward the out-of-pocket maximum. Nor do balance billing charges for services you receive from out-of-network providers.
+Health [[insurance premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) don't count toward the out-of-pocket maximum. Nor do balance billing charges for services you receive from out-of-network providers.
 
 Also, costs that aren't considered covered expenses don't go toward the out-of-pocket maximum. For example, if the insured pays $2,000 for an elective surgery that isn't covered, that amount will not count toward the maximum. That means that a policyholder could end up paying more than the out-of-pocket limit in a given year.
 
-Still, deductibles, copayments, and coinsurance all count toward the out-of-pocket maximum under the [Affordable Care Act](https://www.investopedia.com/terms/a/affordable-care-act.asp). For 2020, the out-of-pocket maximums are $8,150 for individuals and $16,300 for families. These limits will rise $8,550 and $17,100, respectively, for 2021.1
+Still, deductibles, copayments, and coinsurance all count toward the out-of-pocket maximum under the [[Affordable Care Act]](https://www.investopedia.com/terms/a/affordable-care-act.asp). For 2020, the out-of-pocket maximums are $8,150 for individuals and $16,300 for families. These limits will rise $8,550 and $17,100, respectively, for 2021.1
 
-[Health Insurance Marketplace](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp) bronze and silver [health plans](https://www.investopedia.com/terms/h/health-plan-categories.asp) have lower monthly premiums and higher out-of-pocket limits. The gold and platinum plans, which have higher monthly premiums, typically have lower out-of-pocket limits.2
+[Health Insurance Marketplace](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp) bronze and silver [[health plans]](https://www.investopedia.com/terms/h/health-plan-categories.asp) have lower monthly premiums and higher out-of-pocket limits. The gold and platinum plans, which have higher monthly premiums, typically have lower out-of-pocket limits.2
 
-However, lower-income individuals and families may qualify for reduced out-of-pocket maximums through [cost-sharing reduction](https://www.investopedia.com/terms/c/costsharing-reductions.asp) discounts. To be eligible, you must meet income requirements and enroll in a Health Insurance Marketplace plan in the silver category.3
+However, lower-income individuals and families may qualify for reduced out-of-pocket maximums through [[cost-sharing reduction]](https://www.investopedia.com/terms/c/costsharing-reductions.asp) discounts. To be eligible, you must meet income requirements and enroll in a Health Insurance Marketplace plan in the silver category.3
 
 ## Out-of-Pocket Maximum vs. Deductible
 
-An out-of-pocket maximum differs from the plan's [deductible](https://www.investopedia.com/terms/d/deductible.asp). Amounts you pay for covered services go toward your deductible first. That's the amount you must pay before your insurance kicks in.
+An out-of-pocket maximum differs from the plan's [[deductible]](https://www.investopedia.com/terms/d/deductible.asp). Amounts you pay for covered services go toward your deductible first. That's the amount you must pay before your insurance kicks in.
 
-Once you meet the deductible, you may be responsible for a percentage of covered costs (called [coinsurance](https://www.investopedia.com/articles/insurance/120816/coinsurance-vs-copay-why-you-need-know-difference.asp)). These payments help you meet your out-of-pocket maximum. Once you reach that amount, the insurance plan pays 100% of covered expenses.
+Once you meet the deductible, you may be responsible for a percentage of covered costs (called [[coinsurance]](https://www.investopedia.com/articles/insurance/120816/coinsurance-vs-copay-why-you-need-know-difference.asp)). These payments help you meet your out-of-pocket maximum. Once you reach that amount, the insurance plan pays 100% of covered expenses.
 
 ## How Out-of-Pocket Limits Work
 

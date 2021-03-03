@@ -38,7 +38,7 @@ All told, more than 26,000 stocks worldwide have been classified by GICS, accoun
 
 It also is used for benchmarking the MSCI Indexes. Morgan Stanley estimates that more than $3 trillion in global assets is benchmarked to its MSCI indexes, many of which are sector-specific.
 
-GICS competes with the Industry Classification Benchmark (ICB) system, which is maintained by Dow Jones and London's [FTSE](https://www.investopedia.com/terms/f/ftse.asp) Group.
+GICS competes with the Industry Classification Benchmark (ICB) system, which is maintained by Dow Jones and London's [[FTSE]](https://www.investopedia.com/terms/f/ftse.asp) Group.
 
 In practice, most of the same sector and industry designations exist in both standards.
 

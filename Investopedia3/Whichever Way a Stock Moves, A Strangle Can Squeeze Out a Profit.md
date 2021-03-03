@@ -16,9 +16,9 @@ author: James Chen
 Whichever Way a Stock Moves, A Strangle Can Squeeze Out a Profit
 ## What Is a Strangle?
 
-A strangle is an options strategy in which the investor holds a position in both a [call](https://www.investopedia.com/terms/c/call.asp) and a [put](https://www.investopedia.com/terms/p/put.asp) option with different [strike prices](https://www.investopedia.com/terms/s/strikeprice.asp), but with the same expiration date and underlying asset. A strangle is a good strategy if you think the underlying security will experience a large price movement in the near future but are unsure of the direction. However, it is profitable mainly if the asset does swing sharply in price.
+A strangle is an options strategy in which the investor holds a position in both a [[call]](https://www.investopedia.com/terms/c/call.asp) and a [[put]](https://www.investopedia.com/terms/p/put.asp) option with different [[strike prices]](https://www.investopedia.com/terms/s/strikeprice.asp), but with the same expiration date and underlying asset. A strangle is a good strategy if you think the underlying security will experience a large price movement in the near future but are unsure of the direction. However, it is profitable mainly if the asset does swing sharply in price.
 
-A strangle is similar to a [straddle](https://www.investopedia.com/terms/s/straddle.asp) but uses options at different strike prices, while a straddle uses a call and put at the same strike price.
+A strangle is similar to a [[straddle]](https://www.investopedia.com/terms/s/straddle.asp) but uses options at different strike prices, while a straddle uses a call and put at the same strike price.
 
 ### Key Takeaways
 
@@ -30,14 +30,14 @@ A strangle is similar to a [straddle](https://www.investopedia.com/terms/s/strad
 
 Strangles come in two forms:
 
-1.  In a **long strangle**—the more common strategy—the investor simultaneously buys an [out-of-the-money](https://www.investopedia.com/terms/o/outofthemoney.asp) call and an out-of-the-money put option. The call option's strike price is higher than the underlying asset's current market price, while the put has a strike price that is lower than the asset's market price. This strategy has large profit potential since the call option has theoretically unlimited upside if the underlying asset rises in price, while the put option can profit if the underlying asset falls. The risk on the trade is limited to the [premium](https://www.investopedia.com/terms/p/premium.asp) paid for the two options.
-2.  An investor doing a **short strangle** simultaneously sells an out-of-the-money put and an out-of-the-money call. This approach is a neutral strategy with limited profit potential. A short strangle profits when the price of the underlying stock trades in a narrow range between the breakeven points. The maximum profit is equivalent to the net premium received for [writing](https://www.investopedia.com/terms/w/writing-an-option.asp) the two options, less trading costs.
+1.  In a **long strangle**—the more common strategy—the investor simultaneously buys an [[out-of-the-money]](https://www.investopedia.com/terms/o/outofthemoney.asp) call and an out-of-the-money put option. The call option's strike price is higher than the underlying asset's current market price, while the put has a strike price that is lower than the asset's market price. This strategy has large profit potential since the call option has theoretically unlimited upside if the underlying asset rises in price, while the put option can profit if the underlying asset falls. The risk on the trade is limited to the [[premium]](https://www.investopedia.com/terms/p/premium.asp) paid for the two options.
+2.  An investor doing a **short strangle** simultaneously sells an out-of-the-money put and an out-of-the-money call. This approach is a neutral strategy with limited profit potential. A short strangle profits when the price of the underlying stock trades in a narrow range between the breakeven points. The maximum profit is equivalent to the net premium received for [[writing]](https://www.investopedia.com/terms/w/writing-an-option.asp) the two options, less trading costs.
 
 Image by Julie Bang © Investopedia 2019
 
 ## Strangle vs. Straddle
 
-Strangles and [straddles](https://www.investopedia.com/terms/s/straddle.asp) are similar options strategies that allow investors to profit from large moves to the upside or downside. However, a long straddle involves simultaneously buying [at the money](https://www.investopedia.com/terms/a/atthemoney.asp) call and put options—where the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) is identical to the underlying asset's market price—rather than out-of-the-money options.
+Strangles and [[straddles]](https://www.investopedia.com/terms/s/straddle.asp) are similar options strategies that allow investors to profit from large moves to the upside or downside. However, a long straddle involves simultaneously buying [at the money](https://www.investopedia.com/terms/a/atthemoney.asp) call and put options—where the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) is identical to the underlying asset's market price—rather than out-of-the-money options.
 
 A short straddle is similar to a short strangle, with limited profit potential that is equivalent to the premium collected from writing the at the money call and put options.
 
@@ -61,7 +61,7 @@ Cons
 
 ## Real-World Example of a Strangle
 
-To illustrate, let's say that Starbucks ([SBUX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux)) is currently trading at US$50 per share. To employ the strangle option strategy, a trader enters into two long option positions, one call and one put. The call has a strike of $52, and the premium is $3, for a total cost of $300 ($3 x 100 shares). The put option has a strike price of $48, and the premium is $2.85, for a total cost of $285 ($2.85 x 100 shares). Both options have the same [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp).
+To illustrate, let's say that Starbucks ([SBUX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux)) is currently trading at US$50 per share. To employ the strangle option strategy, a trader enters into two long option positions, one call and one put. The call has a strike of $52, and the premium is $3, for a total cost of $300 ($3 x 100 shares). The put option has a strike price of $48, and the premium is $2.85, for a total cost of $285 ($2.85 x 100 shares). Both options have the same [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp).
 
 If the price of the stock stays between $48 and $52 over the life of the option, the loss to the trader will be $585, which is the total cost of the two option contracts ($300 + $285).
 

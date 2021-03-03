@@ -31,22 +31,22 @@ Financial statements are written records that convey the business activities and
 
 ## Using Financial Statement Information
 
-Investors and financial analysts rely on financial data to analyze the performance of a company and make predictions about its future direction of the company's stock price. One of the most important resources of [reliable and audited financial data is the annual report,](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp) which contains the firm's financial statements.
+Investors and financial analysts rely on financial data to analyze the performance of a company and make predictions about its future direction of the company's stock price. One of the most important resources of [[reliable and audited financial data is the annual report,]](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp) which contains the firm's financial statements.
 
-The [financial statements](https://www.investopedia.com/ask/answers/06/compiledandcertifiedfinancialstatements.asp) are used by investors, market analysts, and creditors to evaluate a company's financial health and earnings potential. The three major financial statement reports are the balance sheet, income statement, and statement of cash flows.
+The [[financial statements]](https://www.investopedia.com/ask/answers/06/compiledandcertifiedfinancialstatements.asp) are used by investors, market analysts, and creditors to evaluate a company's financial health and earnings potential. The three major financial statement reports are the balance sheet, income statement, and statement of cash flows.
 
 ## Understanding Balance Sheets
 
-The [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) provides an [overview](https://www.investopedia.com/ask/answers/032615/why-do-shareholders-need-financial-statements.asp) of a company's assets, liabilities, and stockholders' equity as a snapshot in time. The date at the top of the balance sheet tells you when the snapshot was taken, which is generally the end of the fiscal year.
+The [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) provides an [[overview]](https://www.investopedia.com/ask/answers/032615/why-do-shareholders-need-financial-statements.asp) of a company's assets, liabilities, and stockholders' equity as a snapshot in time. The date at the top of the balance sheet tells you when the snapshot was taken, which is generally the end of the fiscal year.
 
 ## The Balance Sheet Formula
 
 Assets\=(Liabilities+Owner’s Equity)\\displaystyle \\text{Assets}=(\\text{Liabilities}+\\text{Owner's Equity})
 
-The [balance sheet](https://www.investopedia.com/terms/c/commonsizebalancesheet.asp) totals will be calculated already, but here's how you identify them.
+The [[balance sheet]](https://www.investopedia.com/terms/c/commonsizebalancesheet.asp) totals will be calculated already, but here's how you identify them.
 
 1.  Locate total assets on the balance sheet for the period.
-2.  Total all liabilities, which should be a separate listing on the balance sheet. It may not include [contingent liabilities](https://www.investopedia.com/terms/c/contingentliability.asp).
+2.  Total all liabilities, which should be a separate listing on the balance sheet. It may not include [[contingent liabilities]](https://www.investopedia.com/terms/c/contingentliability.asp).
 3.  Locate total shareholder's equity and add the number to total liabilities.
 4.  Total assets should equal the total of liabilities and total equity.
 
@@ -62,20 +62,20 @@ Below are examples of items listed on the balance sheet.
 
 ### Assets
 
--   [Cash and cash equivalents](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) are liquid assets, which may include Treasury bills and certificates of deposit.
--   [Accounts receivables](https://www.investopedia.com/terms/a/accountsreceivable.asp) are the amount of money owed to the company by its customers for the sale of its product and service.
+-   [[Cash and cash equivalents]](https://www.investopedia.com/terms/c/cashandcashequivalents.asp) are liquid assets, which may include Treasury bills and certificates of deposit.
+-   [[Accounts receivables]](https://www.investopedia.com/terms/a/accountsreceivable.asp) are the amount of money owed to the company by its customers for the sale of its product and service.
 -   Inventory
 
 ### Liabilities
 
--   [Debt including long-term debt](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp)
+-   [[Debt including long-term debt]](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp)
 -   Wages payable
--   [Dividends](https://www.investopedia.com/terms/d/dividend.asp) payable
+-   [[Dividends]](https://www.investopedia.com/terms/d/dividend.asp) payable
 
 ### Shareholders' Equity
 
 -   Shareholders' equity is a company's total assets minus its total liabilities. Shareholders' equity represents the amount of money that would be returned to shareholders if all of the assets were liquidated and all of the company's debt was paid off.
--   [Retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp) are part of shareholders' equity and are the amount of net earnings that were not paid to shareholders as dividends. 
+-   [[Retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) are part of shareholders' equity and are the amount of net earnings that were not paid to shareholders as dividends. 
 
 ## Example of a Balance Sheet 
 
@@ -121,7 +121,7 @@ Other income is the revenue earned from other activities. Other income could inc
 
 ### Types of Expenses
 
-Primary expenses are incurred during the process of earning revenue from the primary activity of the business. Expenses include the [cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp), selling, general and administrative expenses (SG&A), depreciation or amortization, and research and development (R&D). Typical expenses include employee wages, sales commissions, and utilities such as electricity and transportation.
+Primary expenses are incurred during the process of earning revenue from the primary activity of the business. Expenses include the [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp), selling, general and administrative expenses (SG&A), depreciation or amortization, and research and development (R&D). Typical expenses include employee wages, sales commissions, and utilities such as electricity and transportation.
 
 Expenses that are linked to secondary activities include interest paid on loans or debt. Losses from the sale of an asset are also recorded as expenses.
 
@@ -159,7 +159,7 @@ Also, purchases of fixed assets such as property, plant, and equipment (PPE) ar
 
 ### Financing Activities
 
-Cash from [financing activities](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) include the sources of cash from investors or banks, as well as the uses of cash paid to shareholders. Financing activities include debt issuance, equity issuance, stock repurchases, loans, dividends paid, and repayments of debt.
+Cash from [[financing activities]](https://www.investopedia.com/terms/c/cashflowfromfinancing.asp) include the sources of cash from investors or banks, as well as the uses of cash paid to shareholders. Financing activities include debt issuance, equity issuance, stock repurchases, loans, dividends paid, and repayments of debt.
 
 The cash flow statement reconciles the income statement with the balance sheet in three major business activities.
 

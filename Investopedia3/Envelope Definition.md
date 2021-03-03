@@ -16,7 +16,7 @@ author: James Chen
 Envelope Definition
 ## What Is an Envelope?
 
-Envelopes are [technical indicators](https://www.investopedia.com/terms/t/technicalindicator.asp) that are typically plotted over a price chart with upper and lower bounds. The most common example of an envelope is a [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) envelope, which is created using two moving averages that define upper and lower price range levels. Envelopes are commonly used to help traders and investors identify extreme overbought and oversold conditions as well as trading ranges.
+Envelopes are [[technical indicators]](https://www.investopedia.com/terms/t/technicalindicator.asp) that are typically plotted over a price chart with upper and lower bounds. The most common example of an envelope is a [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) envelope, which is created using two moving averages that define upper and lower price range levels. Envelopes are commonly used to help traders and investors identify extreme overbought and oversold conditions as well as trading ranges.
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ Envelopes are [technical indicators](https://www.investopedia.com/terms/t/techni
 
 ## How Envelopes Work
 
-Traders can interpret envelopes in many different ways, but most use them to define trading ranges. When the price reaches the upper bound, the security is considered [overbought](https://www.investopedia.com/terms/o/overbought.asp), and a sell signal is generated. Conversely, when the price reaches the lower bound, the security is considered [oversold](https://www.investopedia.com/terms/o/oversold.asp), and a buy signal is generated. These strategies are based on [mean reversion](https://www.investopedia.com/terms/m/meanreversion.asp) principles.
+Traders can interpret envelopes in many different ways, but most use them to define trading ranges. When the price reaches the upper bound, the security is considered [[overbought]](https://www.investopedia.com/terms/o/overbought.asp), and a sell signal is generated. Conversely, when the price reaches the lower bound, the security is considered [[oversold]](https://www.investopedia.com/terms/o/oversold.asp), and a buy signal is generated. These strategies are based on [[mean reversion]](https://www.investopedia.com/terms/m/meanreversion.asp) principles.
 
-The upper and lower bounds are typically defined such that the price tends to stay within the upper and lower thresholds during normal conditions. For a [volatile](https://www.investopedia.com/terms/v/volatility.asp) security, traders may use higher percentages when creating the envelope to avoid [whipsaw](https://www.investopedia.com/terms/w/whipsaw.asp) trading signals. Meanwhile, less volatile securities may necessitate lower percentages to create a sufficient number of [trading signals](https://www.investopedia.com/terms/t/trade-signal.asp).
+The upper and lower bounds are typically defined such that the price tends to stay within the upper and lower thresholds during normal conditions. For a [[volatile]](https://www.investopedia.com/terms/v/volatility.asp) security, traders may use higher percentages when creating the envelope to avoid [[whipsaw]](https://www.investopedia.com/terms/w/whipsaw.asp) trading signals. Meanwhile, less volatile securities may necessitate lower percentages to create a sufficient number of [[trading signals]](https://www.investopedia.com/terms/t/trade-signal.asp).
 
-Envelopes are commonly used in conjunction with other forms of [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) to enhance the odds of success. For example, traders may identify potential opportunities when the price moves outside of the envelope and then look at chart patterns or [volume](https://www.investopedia.com/terms/v/volume.asp) metrics to identify when a tipping point is about to occur. After all, securities can trade at overbought or oversold conditions for a prolonged period of time.
+Envelopes are commonly used in conjunction with other forms of [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) to enhance the odds of success. For example, traders may identify potential opportunities when the price moves outside of the envelope and then look at chart patterns or [[volume]](https://www.investopedia.com/terms/v/volume.asp) metrics to identify when a tipping point is about to occur. After all, securities can trade at overbought or oversold conditions for a prolonged period of time.
 
 ## Example of an Envelope
 
-Moving average envelopes are the most common type of envelope indicator. Using either a simple or [exponential moving average](https://www.investopedia.com/terms/e/ema.asp), an envelope is created by defining a fixed percentage to create upper and lower bounds. 
+Moving average envelopes are the most common type of envelope indicator. Using either a simple or [[exponential moving average]](https://www.investopedia.com/terms/e/ema.asp), an envelope is created by defining a fixed percentage to create upper and lower bounds. 
 
 Let's take a look at a five percent simple moving average envelope for the S&P 500 SPDR (SPY):
 
@@ -42,6 +42,6 @@ The calculations for this envelope are:
 
 Upper Bound\=SMA50+SMA50∗0.05Lower Bound\=SMA50−SMA50∗0.05Midpoint\=SMA50where:SMA50\=50-day Simple Moving Average\\begin{aligned} &\\text{Upper Bound} = \\text{SMA}\_{50} + \\text{SMA}\_{50}\*0.05\\\\ &\\text{Lower Bound} = \\text{SMA}\_{50} - \\text{SMA}\_{50}\*0.05\\\\ &\\text{Midpoint} = \\text{SMA}\_{50}\\\\ \\\\ \\textbf{where:}&\\\\ &\\text{SMA}\_{50}=\\text{50-day Simple Moving Average} \\\\ \\end{aligned}
 
-Traders may have taken a short position in the [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) when the price moved beyond the upper range and a long position when the price moved below the lower range. In these cases, the trader would have benefited from the reversion to the mean over the following periods. Traders may set [stop-loss](https://www.investopedia.com/terms/s/stop-lossorder.asp) points at a fixed percentage beyond the upper and lower bounds, while [take-profit](https://www.investopedia.com/terms/t/take-profitorder.asp) points are often set at the midpoint line.
+Traders may have taken a short position in the [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) when the price moved beyond the upper range and a long position when the price moved below the lower range. In these cases, the trader would have benefited from the reversion to the mean over the following periods. Traders may set [[stop-loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp) points at a fixed percentage beyond the upper and lower bounds, while [[take-profit]](https://www.investopedia.com/terms/t/take-profitorder.asp) points are often set at the midpoint line.
 
-_For more, see: [Moving Average Envelopes: A Popular Trading Tool](https://www.investopedia.com/articles/trading/08/moving-average-envelope.asp)_
+_For more, see: [[Moving Average Envelopes: A Popular Trading Tool]](https://www.investopedia.com/articles/trading/08/moving-average-envelope.asp)_

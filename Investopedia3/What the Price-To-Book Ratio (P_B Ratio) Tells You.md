@@ -16,7 +16,7 @@ author: Jason Fernando
 What the Price-To-Book Ratio (P/B Ratio) Tells You?
 ## What Is the Price-To-Book (P/B Ratio)?
 
-Companies use the price-to-book ratio (P/B ratio) to compare a firm's market capitalization to its book value. It's calculated by dividing the company's stock price per share by its [book value per share](https://www.investopedia.com/terms/b/bookvaluepercommon.asp) (BVPS). An asset's [book value](https://www.investopedia.com/terms/b/bookvalue.asp) is equal to its carrying value on the balance sheet, and companies calculate it netting the asset against its [accumulated depreciation](https://www.investopedia.com/terms/a/accumulated-depreciation.asp).
+Companies use the price-to-book ratio (P/B ratio) to compare a firm's market capitalization to its book value. It's calculated by dividing the company's stock price per share by its [[book value per share]](https://www.investopedia.com/terms/b/bookvaluepercommon.asp) (BVPS). An asset's [[book value]](https://www.investopedia.com/terms/b/bookvalue.asp) is equal to its carrying value on the balance sheet, and companies calculate it netting the asset against its [accumulated depreciation](https://www.investopedia.com/terms/a/accumulated-depreciation.asp).
 
 Book value is also the tangible net asset value of a company calculated as total assets minus [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) (.e.g. patents, goodwill) and liabilities. For the initial outlay of an investment, book value may be net or gross of expenses, such as trading costs, sales taxes, and service charges. Some people may know this ratio by its less common name, the price-equity ratio.
 
@@ -39,7 +39,7 @@ A lower P/B ratio could mean the stock is [undervalued](https://www.investopedi
 
 ## What Price-To-Book Ratio (P/B Ratio) Can Tell You
 
-The P/B ratio reflects the [value](https://www.investopedia.com/ask/answers/010915/what-considered-good-price-book-ratio.asp) that market participants attach to a company's equity relative to the book value of its equity. A stock's market value is a forward-looking metric that reflects a company's future [cash flows](https://www.investopedia.com/terms/c/cashflow.asp). The book value of equity is an accounting measure based on the historic cost principle and reflects past issuances of equity, augmented by any profits or losses, and reduced by dividends and share [buybacks](https://www.investopedia.com/terms/b/buyback.asp).
+The P/B ratio reflects the [[value]](https://www.investopedia.com/ask/answers/010915/what-considered-good-price-book-ratio.asp) that market participants attach to a company's equity relative to the book value of its equity. A stock's market value is a forward-looking metric that reflects a company's future [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp). The book value of equity is an accounting measure based on the historic cost principle and reflects past issuances of equity, augmented by any profits or losses, and reduced by dividends and share [[buybacks]](https://www.investopedia.com/terms/b/buyback.asp).
 
 The price-to-book ratio compares a company's market value to its book value. The market value of a company is its share price multiplied by the number of outstanding shares. The book value is the net assets of a company.
 
@@ -55,9 +55,9 @@ The P/B ratio has been favored by [value investors](https://www.investopedia.c
 
 ### Equity Market Value vs. Book Value
 
-Due to accounting conventions on the treatment of certain costs, the market value of equity is typically higher than the book value of a company, resulting in a P/B ratio above 1. Under certain circumstances of financial distress, bankruptcy or expected plunges in [earnings power](https://www.investopedia.com/terms/e/earnings-power.asp), a company's P/B ratio can dive below a value of 1.
+Due to accounting conventions on the treatment of certain costs, the market value of equity is typically higher than the book value of a company, resulting in a P/B ratio above 1. Under certain circumstances of financial distress, bankruptcy or expected plunges in [[earnings power]](https://www.investopedia.com/terms/e/earnings-power.asp), a company's P/B ratio can dive below a value of 1.
 
-Because [accounting principles](https://www.investopedia.com/terms/a/accounting-principles.asp) do not recognize intangible assets such as the brand value, unless the company derived them through acquisitions, companies expense all costs associated with creating intangible assets immediately.
+Because [[accounting principles]](https://www.investopedia.com/terms/a/accounting-principles.asp) do not recognize intangible assets such as the brand value, unless the company derived them through acquisitions, companies expense all costs associated with creating intangible assets immediately.
 
 For example, companies must expense [research and most development](https://www.investopedia.com/terms/r/randd.asp) costs, reducing a company's book value. However, these R&D outlays can create unique production processes for a company or result in new patents that can bring royalty revenues going forward. While accounting principles favor a conservative approach in capitalizing costs, market participants may raise the stock price because of such R&D efforts, resulting in wide differences between the market and book values of equity.
 
@@ -67,7 +67,7 @@ Assume that a company has $100 million in assets on the balance sheet and $75 mi
 
 ## The Difference Between P/B Ratio and Price-to-Tangible-Book Ratio
 
-Closely related to the P/B ratio is the [price to tangible book value ratio](https://www.investopedia.com/terms/p/ptbv.asp) (PTBV). The latter is a valuation ratio expressing the price of a security compared to its hard, or tangible, book value as reported in the company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). The tangible book value number is equal to the company's total book value less than the value of any intangible assets.
+Closely related to the P/B ratio is the [[price to tangible book value ratio]](https://www.investopedia.com/terms/p/ptbv.asp) (PTBV). The latter is a valuation ratio expressing the price of a security compared to its hard, or tangible, book value as reported in the company's [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). The tangible book value number is equal to the company's total book value less than the value of any intangible assets.
 
 Intangible assets can be items such as patents, intellectual property, and goodwill. This may be a more useful measure of valuation when the market is valuing something like a patent in different ways or if it is difficult to put a value on such an intangible asset in the first place.
 
@@ -75,7 +75,7 @@ Intangible assets can be items such as patents, intellectual property, and goodw
 
 Investors find the P/B ratio useful because the book value of equity provides a relatively stable and intuitive metric they can easily compare to the market price. The P/B ratio can also be used for firms with positive book values and negative earnings since negative earnings render price-to-earnings ratios useless, and there are fewer companies with negative book values than companies with negative earnings.
 
-However, when accounting standards applied by firms vary, P/B ratios may not be comparable, especially for companies from different countries. Additionally, P/B ratios can be less useful for service and information technology companies with little [tangible assets](https://www.investopedia.com/terms/t/tangibleasset.asp) on their [balance sheets](https://www.investopedia.com/terms/b/balancesheet.asp). Finally, the book value can become negative because of a long series of negative earnings, making the P/B ratio useless for relative [valuation](https://www.investopedia.com/terms/v/valuation.asp).
+However, when accounting standards applied by firms vary, P/B ratios may not be comparable, especially for companies from different countries. Additionally, P/B ratios can be less useful for service and information technology companies with little [[tangible assets]](https://www.investopedia.com/terms/t/tangibleasset.asp) on their [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp). Finally, the book value can become negative because of a long series of negative earnings, making the P/B ratio useless for relative [[valuation]](https://www.investopedia.com/terms/v/valuation.asp).
 
 Other potential problems in using the P/B ratio stem from the fact that any number of scenarios, such as recent acquisitions, recent write-offs, or share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) can distort the book value figure in the equation. In searching for undervalued stocks, investors should consider multiple valuation measures to complement the P/B ratio.
 
@@ -87,7 +87,7 @@ The price-to-book ratio is one of the most widely-used financial ratios. It comp
 
 ### Why is the price-to-book ratio important?
 
-The price-to-book ratio is important because it can help investors understand whether the market price of a company seems reasonable when compared to its balance sheet. For example, if a company shows a high price-to-book ratio, investors might check to see whether that valuation is justified given other measures, such as its historical return on assets or growth in [earnings per share (EPS)](https://www.investopedia.com/terms/e/eps.asp). Price-to-book ratio is also frequently used to screen potential investment opportunities.
+The price-to-book ratio is important because it can help investors understand whether the market price of a company seems reasonable when compared to its balance sheet. For example, if a company shows a high price-to-book ratio, investors might check to see whether that valuation is justified given other measures, such as its historical return on assets or growth in [[earnings per share (EPS)]](https://www.investopedia.com/terms/e/eps.asp). Price-to-book ratio is also frequently used to screen potential investment opportunities.
 
 ### What is a good price-to-book ratio?
 

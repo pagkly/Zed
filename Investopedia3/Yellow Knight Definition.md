@@ -26,11 +26,11 @@ A yellow knight is a company that was orchestrating a [hostile takeover](https
 
 ## Understanding a Yellow Knight
 
-Various colored knights are used to identify the nature of a [takeover](https://www.investopedia.com/terms/t/takeover.asp) or potential takeover: The process where a company tables an offer to assume control of or [acquire](https://www.investopedia.com/terms/a/acquisition.asp) another. Yellow knights are the ones that start out aggressively, seeking to purchase a company against its management’s wishes, and then experience a change of heart, back down and propose joining forces in a merger instead.
+Various colored knights are used to identify the nature of a [[takeover]](https://www.investopedia.com/terms/t/takeover.asp) or potential takeover: The process where a company tables an offer to assume control of or [[acquire]](https://www.investopedia.com/terms/a/acquisition.asp) another. Yellow knights are the ones that start out aggressively, seeking to purchase a company against its management’s wishes, and then experience a change of heart, back down and propose joining forces in a merger instead.
 
-Yellow knights are a case of if you can’t beat them, join them. They might have any number of reasons for backing out of the takeover attempt. Often, they simply realize that the [target company](https://www.investopedia.com/terms/t/targetfirm.asp) is going to cost more and/or has better [takeover defenses](https://www.investopedia.com/terms/a/anti-takeovermeasure.asp) than they thought, and that they need to change strategy.
+Yellow knights are a case of if you can’t beat them, join them. They might have any number of reasons for backing out of the takeover attempt. Often, they simply realize that the [[target company]](https://www.investopedia.com/terms/t/targetfirm.asp) is going to cost more and/or has better [[takeover defenses]](https://www.investopedia.com/terms/a/anti-takeovermeasure.asp) than they thought, and that they need to change strategy.
 
-A stern rejection might leave the yellow predator in a weak bargaining position, and lead it to conclude that a friendly merger is the only reasonable option it has left on the table to get hold of the target’s [assets](https://www.investopedia.com/terms/a/asset.asp). In a complete U-turn, the yellow knight goes from attempting to bully the target into submission and swallow it up to proposing that they team up together as an equal force.
+A stern rejection might leave the yellow predator in a weak bargaining position, and lead it to conclude that a friendly merger is the only reasonable option it has left on the table to get hold of the target’s [[assets]](https://www.investopedia.com/terms/a/asset.asp). In a complete U-turn, the yellow knight goes from attempting to bully the target into submission and swallow it up to proposing that they team up together as an equal force.
 
 Why are these types of companies called yellow knights? Because yellow is a color associated, among other things, with cowardice and deceit. 
 
@@ -40,7 +40,7 @@ The term yellow knight is derogatory, as it implies that the hostile bidder got 
 
 ## Other Types of Knights
 
-In [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A), the buying company may be described as a knight of any one of four different colors. Other than yellow knights, there are:
+In [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A), the buying company may be described as a knight of any one of four different colors. Other than yellow knights, there are:
 
 ### Black Knights
 
@@ -48,9 +48,9 @@ In [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacq
 
 ### White Knights
 
-The opposite of black knights, [white knights](https://www.investopedia.com/terms/w/whiteknight.asp) are the friendly forces tasked with rescuing the target from the clutches of another prospective buyer with intentions to bleed it dry to make a quick [profit](https://www.investopedia.com/terms/p/profit.asp).
+The opposite of black knights, [[white knights]](https://www.investopedia.com/terms/w/whiteknight.asp) are the friendly forces tasked with rescuing the target from the clutches of another prospective buyer with intentions to bleed it dry to make a quick [[profit]](https://www.investopedia.com/terms/p/profit.asp).
 
-Often, company officials will seek out a white knight to preserve its core business or to negotiate better takeover terms. The white knight might agree to play this role in exchange for some incentives, such as paying a smaller [premium](https://www.investopedia.com/terms/a/at-a-premium.asp) to take control than otherwise would be required under competitive bid conditions.
+Often, company officials will seek out a white knight to preserve its core business or to negotiate better takeover terms. The white knight might agree to play this role in exchange for some incentives, such as paying a smaller [[premium]](https://www.investopedia.com/terms/a/at-a-premium.asp) to take control than otherwise would be required under competitive bid conditions.
 
 ### Grey Knights
 

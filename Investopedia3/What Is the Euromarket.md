@@ -18,8 +18,8 @@ What Is the Euromarket?
 
 The term euromarket has two distinct meanings:
 
-1.  In finance, it is the market for [eurocurrencies](https://www.investopedia.com/terms/e/eurocurrency.asp): these are all currencies that are held as deposits by companies or individuals outside of their country of issue.
-2.  In commerce, it refers to the single market of the [European Union](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) in which goods and services are freely traded between member countries, and which have a common trade policy with non-EU countries.
+1.  In finance, it is the market for [[eurocurrencies]](https://www.investopedia.com/terms/e/eurocurrency.asp): these are all currencies that are held as deposits by companies or individuals outside of their country of issue.
+2.  In commerce, it refers to the single market of the [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) in which goods and services are freely traded between member countries, and which have a common trade policy with non-EU countries.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The term euromarket has two distinct meanings:
 
 ## Understanding the Euromarket
 
-A euromarket can be used to describe the financial market for eurocurrencies. A eurocurrency is any currency held or traded outside its country of issue. For example, a [eurodollar](https://www.investopedia.com/terms/e/eurodollar.asp) is a dollar deposit held or traded outside the U.S. A key incentive for the development, and continued existence of such a market is that it is free from the regulatory environment (and sometimes political or other country-specific risks) of the "home" country.
+A euromarket can be used to describe the financial market for eurocurrencies. A eurocurrency is any currency held or traded outside its country of issue. For example, a [[eurodollar]](https://www.investopedia.com/terms/e/eurodollar.asp) is a dollar deposit held or traded outside the U.S. A key incentive for the development, and continued existence of such a market is that it is free from the regulatory environment (and sometimes political or other country-specific risks) of the "home" country.
 
 The "euro-" prefix in the term arose because originally such currencies were held in Europe, but that is no longer solely the case, and a eurocurrency can now be held anywhere in the world that local banking regulations permit. The eurocurrency market is a major source of finance for international trade because of ease of convertibility and the absence of domestic restrictions on trading.
 
@@ -37,7 +37,7 @@ The "euro-" prefix in the term arose because originally such currencies were hel
 
 The term can also be used to refer to the single market of the European Union. The single market was created by the abolition of restrictions on the movement of goods and services (as well as people) between member countries of the EU. The European Commission describes the single market as "one territory without any internal borders or other regulatory obstacles to the free movement of goods and services."
 
-The free flow of goods and services across borders makes it easier for companies to operate across countries. It is intended to improve efficiency, stimulate trade, and help growth, while also helping achieve the political objective of deeper [integration](https://www.investopedia.com/terms/e/economic-integration.asp) between EU member countries. Note that most, but not all, members of the EU have adopted the euro as their currency, so the [eurozone](https://www.investopedia.com/terms/e/eurozone.asp) (which refers to the countries that have adopted the euro in a common monetary union) is not synonymous with the euromarket.
+The free flow of goods and services across borders makes it easier for companies to operate across countries. It is intended to improve efficiency, stimulate trade, and help growth, while also helping achieve the political objective of deeper [[integration]](https://www.investopedia.com/terms/e/economic-integration.asp) between EU member countries. Note that most, but not all, members of the EU have adopted the euro as their currency, so the [[eurozone]](https://www.investopedia.com/terms/e/eurozone.asp) (which refers to the countries that have adopted the euro in a common monetary union) is not synonymous with the euromarket.
 
 Let's look at a hypothetical example where Bank A is based in France, and Bank B is based in the United States. Bank A is planning to make some rather large loans to a client of theirs and has determined that they would be able to make more money if they borrowed money from Bank B—in US dollars—and loaned it out to their client.
 

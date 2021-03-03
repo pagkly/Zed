@@ -16,7 +16,7 @@ author: Will Kenton
 Walk-Through Test
 ## What Is a Walk-Through Test?
 
-A walk-through test is a procedure used during an [audit](https://www.investopedia.com/terms/a/audit.asp) of an entity's accounting system to gauge its reliability. A walk-through test traces a transaction step-by-step through the [accounting](https://www.investopedia.com/terms/a/accounting.asp) system from its inception to the final disposition. However, walk-throughs aren’t required for accountants but can be instrumental in addressing weaknesses and problems. 
+A walk-through test is a procedure used during an [[audit]](https://www.investopedia.com/terms/a/audit.asp) of an entity's accounting system to gauge its reliability. A walk-through test traces a transaction step-by-step through the [[accounting]](https://www.investopedia.com/terms/a/accounting.asp) system from its inception to the final disposition. However, walk-throughs aren’t required for accountants but can be instrumental in addressing weaknesses and problems. 
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A walk-through test is a procedure used during an [audit](https://www.investoped
 
 ## Understanding Walk-Through Tests
 
-A walk-through test is only one of many tests performed by [auditors](https://www.investopedia.com/terms/a/auditor.asp) during their evaluation of an organization's [accounting controls](https://www.investopedia.com/terms/a/accounting-control.asp) and risk management measures. The test can reveal system deficiencies and material weaknesses that would need to be rectified by the organization as soon as possible.
+A walk-through test is only one of many tests performed by [[auditors]](https://www.investopedia.com/terms/a/auditor.asp) during their evaluation of an organization's [[accounting controls]](https://www.investopedia.com/terms/a/accounting-control.asp) and risk management measures. The test can reveal system deficiencies and material weaknesses that would need to be rectified by the organization as soon as possible.
 
-In conducting a walk-through test, an auditor will study how a transaction is initiated and moves through a company or organization's accounting system to completion. This involves identifying how a transaction is authorized, recorded—manually, by automated means, or both—and then reported in the [general ledger](https://www.investopedia.com/terms/g/generalledger.asp) of the books. The auditor will want to know how controls for accuracy are applied at each step in the process and how follow-up steps are taken to improve controls. 
+In conducting a walk-through test, an auditor will study how a transaction is initiated and moves through a company or organization's accounting system to completion. This involves identifying how a transaction is authorized, recorded—manually, by automated means, or both—and then reported in the [[general ledger]](https://www.investopedia.com/terms/g/generalledger.asp) of the books. The auditor will want to know how controls for accuracy are applied at each step in the process and how follow-up steps are taken to improve controls. 
 
-A good walk-through test will also document the personnel involved in transaction entries in the accounting system. Checklists and flowcharts are helpful in conducting thorough walk-through tests. The [American Institute of Certified Public Accountants](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA) recommends walk-through tests on an annual basis.
+A good walk-through test will also document the personnel involved in transaction entries in the accounting system. Checklists and flowcharts are helpful in conducting thorough walk-through tests. The [[American Institute of Certified Public Accountants]](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA) recommends walk-through tests on an annual basis.
 
 Walk-through tests don’t have to be a formal process, as many small businesses will perform a walk-through test without keeping detailed records or assessing a company’s accounting records. That is, the auditor will observe and make inquiries without requesting detailed documentation or reviewing the paperwork or paper trail of the transaction. 
 

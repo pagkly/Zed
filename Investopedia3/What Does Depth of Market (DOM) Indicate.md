@@ -16,9 +16,9 @@ author: Alexandra Twin
 What Does Depth of Market (DOM) Indicate?
 ## What Is Depth of Market (DOM)?
 
-Depth of market (DOM) is a measure of the supply and demand for [liquid](https://www.investopedia.com/terms/l/liquidity.asp), tradeable assets. It is based on the number of open buy and sell orders for a given asset such as a stock or [futures contract](https://www.investopedia.com/terms/f/futurescontract.asp). The greater the quantity of those orders, the deeper or more liquid, the market is considered to be.
+Depth of market (DOM) is a measure of the supply and demand for [[liquid]](https://www.investopedia.com/terms/l/liquidity.asp), tradeable assets. It is based on the number of open buy and sell orders for a given asset such as a stock or [[futures contract]](https://www.investopedia.com/terms/f/futurescontract.asp). The greater the quantity of those orders, the deeper or more liquid, the market is considered to be.
 
-Depth of market data is also known as the [order book](https://www.investopedia.com/terms/o/order-book.asp) since it consists of a list of pending orders for a security or currency. The data in the book is used to determine which transactions can be processed. DOM data is available from most online brokers for free or for a small fee.
+Depth of market data is also known as the [[order book]](https://www.investopedia.com/terms/o/order-book.asp) since it consists of a list of pending orders for a security or currency. The data in the book is used to determine which transactions can be processed. DOM data is available from most online brokers for free or for a small fee.
 
 ## Understanding DOM
 
@@ -40,7 +40,7 @@ Most online brokers offer some form of DOM display. This allows users to see a f
 
 ### How to Use DOM Data
 
-Depth of market data helps traders see where the price of a security may be heading in the near future as orders are filled, updated, or canceled. A trader might use market depth data to understand the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp) for a stock, along with its current [volume](https://www.investopedia.com/terms/v/volume.asp).
+Depth of market data helps traders see where the price of a security may be heading in the near future as orders are filled, updated, or canceled. A trader might use market depth data to understand the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp) for a stock, along with its current [[volume]](https://www.investopedia.com/terms/v/volume.asp).
 
 Stocks with a strong depth of market tend to be popular large-cap companies like Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)). They usually have strong volumes and are quite liquid, allowing traders to place large orders without significantly affecting their market prices.
 

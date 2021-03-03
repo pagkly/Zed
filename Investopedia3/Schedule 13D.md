@@ -16,7 +16,7 @@ author: Will Kenton
 Schedule 13D
 ## What Is Schedule 13D?
 
-Schedule 13D is a form that must be filed with the U.S. [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) when a person or group acquires more than 5% of any class of a company's [equity](https://www.investopedia.com/terms/e/equity.asp) shares. There are several pieces of relevant information that must be disclosed within 10 days of the transaction. Schedule 13D is also known as a "beneficial ownership report."
+Schedule 13D is a form that must be filed with the U.S. [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) when a person or group acquires more than 5% of any class of a company's [[equity]](https://www.investopedia.com/terms/e/equity.asp) shares. There are several pieces of relevant information that must be disclosed within 10 days of the transaction. Schedule 13D is also known as a "beneficial ownership report."
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ Schedule 13D is a form that must be filed with the U.S. [Securities and Exchange
 
 ## Understanding Schedule 13D
 
-Investors may decide to buy a large number of shares in a publicly-held company for a variety of reasons. For example, they could be [activist investors](https://www.investopedia.com/terms/a/activist-investor.asp) attempting a hostile takeover, institutional investors who believe the stock is undervalued, or a dissident investor contemplating a [proxy contest](https://www.investopedia.com/terms/p/proxyfight.asp) with the goal of controlling the voting or replacing management.
+Investors may decide to buy a large number of shares in a publicly-held company for a variety of reasons. For example, they could be [[activist investors]](https://www.investopedia.com/terms/a/activist-investor.asp) attempting a hostile takeover, institutional investors who believe the stock is undervalued, or a dissident investor contemplating a [[proxy contest]](https://www.investopedia.com/terms/p/proxyfight.asp) with the goal of controlling the voting or replacing management.
 
-When a person or group of persons acquire a significant ownership stake in a company, characterized as more than 5% of a voting [class](https://www.investopedia.com/terms/c/class.asp) of its publicly traded securities, the SEC requires that they disclose the purchase on a Schedule 13D form. In some cases, they may be able to use a simpler form, called the [Schedule 13G](https://www.investopedia.com/terms/s/schedule13g.asp).
+When a person or group of persons acquire a significant ownership stake in a company, characterized as more than 5% of a voting [[class]](https://www.investopedia.com/terms/c/class.asp) of its publicly traded securities, the SEC requires that they disclose the purchase on a Schedule 13D form. In some cases, they may be able to use a simpler form, called the [[Schedule 13G]](https://www.investopedia.com/terms/s/schedule13g.asp).
 
-Once the disclosure has been filed with the SEC, the public company and the exchange(s) on which the company trades are notified of the new [beneficial owner](https://www.investopedia.com/terms/b/beneficialowner.asp). Schedule 13D is intended to provide transparency to the public regarding who these shareholders are and why they have taken a significant stake in the company. The form signifies to the public that a change of control, such as a hostile takeover or proxy fight, might be about to take place so that current shareholders in the company can make informed investing and voting decisions.
+Once the disclosure has been filed with the SEC, the public company and the exchange(s) on which the company trades are notified of the new [[beneficial owner]](https://www.investopedia.com/terms/b/beneficialowner.asp). Schedule 13D is intended to provide transparency to the public regarding who these shareholders are and why they have taken a significant stake in the company. The form signifies to the public that a change of control, such as a hostile takeover or proxy fight, might be about to take place so that current shareholders in the company can make informed investing and voting decisions.
 
-The obligation to file Schedule 13D lies with the new beneficial owner. This is because the [target company](https://www.investopedia.com/terms/t/targetfirm.asp) might not know the person or group behind the transaction. The beneficial owner must file Schedule 13D within 10 days following the purchase of the shares.1
+The obligation to file Schedule 13D lies with the new beneficial owner. This is because the [[target company]](https://www.investopedia.com/terms/t/targetfirm.asp) might not know the person or group behind the transaction. The beneficial owner must file Schedule 13D within 10 days following the purchase of the shares.1
 
 ## Requirements for Schedule 13D
 
@@ -46,7 +46,7 @@ Schedule 13D requires that the beneficial owner provide relevant information abo
 
 **Item 4: Purpose of Transaction.** This section of Schedule 13D alerts investors to any change of control that might be looming. Among other disclosures, beneficial owners must indicate whether they have plans involving a merger, reorganization, or liquidation of the issuer or any of its subsidiaries.
 
-**Item 5: Interest in Securities of the Issuer.** Here the beneficial owner lists the number of shares being purchased and the percentage of the company's [outstanding shares](https://www.investopedia.com/terms/o/outstandingshares.asp) that this purchase represents.
+**Item 5: Interest in Securities of the Issuer.** Here the beneficial owner lists the number of shares being purchased and the percentage of the company's [[outstanding shares]](https://www.investopedia.com/terms/o/outstandingshares.asp) that this purchase represents.
 
 **Item 6: Contracts, Arrangements, Understandings, or Relationships with Respect to Securities of the Issuer.** The beneficial owner should describe any agreement or relationship they have with any person regarding the target company’s securities. For example, that might involve voting rights, finder's fees, joint ventures, or loans or option arrangements.
 
@@ -56,7 +56,7 @@ Schedule 13D requires that the beneficial owner provide relevant information abo
 
 If there are any material changes to the information filed in Schedule 13D, the beneficial owners must amend their Schedule 13D within two days. A material change includes any increase or decrease of at least 1% in the percentage of the class of securities held by the beneficial owner.
 
-Most Schedule 13D filings are available for viewing in the SEC's [EDGAR database](https://www.investopedia.com/terms/e/edgar.asp). The database presents Form 13D as “SC 13D–General statement of acquisition of beneficial ownership.” Any amended form is denoted as SC 13D/A.
+Most Schedule 13D filings are available for viewing in the SEC's [[EDGAR database]](https://www.investopedia.com/terms/e/edgar.asp). The database presents Form 13D as “SC 13D–General statement of acquisition of beneficial ownership.” Any amended form is denoted as SC 13D/A.
 
 ## Real World Example of Schedule 13D
 

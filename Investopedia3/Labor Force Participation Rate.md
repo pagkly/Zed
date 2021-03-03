@@ -16,9 +16,9 @@ author: Investopedia Staff
 Labor Force Participation Rate
 ## What Is the Labor Force Participation Rate?
 
-The labor force participation rate is a measure of an economy’s active workforce. The formula for the number is the sum of all workers who are employed or actively seeking employment divided by the total noninstitutionalized, civilian [working-age population](https://www.investopedia.com/terms/w/working-age-population.asp).
+The labor force participation rate is a measure of an economy’s active workforce. The formula for the number is the sum of all workers who are employed or actively seeking employment divided by the total noninstitutionalized, civilian [[working-age population]](https://www.investopedia.com/terms/w/working-age-population.asp).
 
-The U.S. labor participation rate stood at 61.5% as of Nov. 2020, according to the federal Bureau of Labor Statistics, which publishes updates monthly.1 The monthly figures have hovered around 63% since 2013, after a sharp decline in the wake of the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp). In August 2020, there were 13.6 million unemployed, up 7.6 million from the 6 million in August 2019.2 3
+The U.S. labor participation rate stood at 61.5% as of Nov. 2020, according to the federal Bureau of Labor Statistics, which publishes updates monthly.1 The monthly figures have hovered around 63% since 2013, after a sharp decline in the wake of the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp). In August 2020, there were 13.6 million unemployed, up 7.6 million from the 6 million in August 2019.2 3
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ The U.S. labor participation rate stood at 61.5% as of Nov. 2020, according to t
 
 ## Understanding the Labor Force Participation Rate
 
-The labor force participation rate is an important metric to use when analyzing employment and [unemployment](https://www.investopedia.com/terms/u/unemployment.asp) data, because it measures the number of people who are actively job hunting as well as those who are currently employed. It omits institutionalized people (in prisons, nursing homes, or mental hospitals) and members of the military. It includes all other people of working age (16 or older) and compares the proportion of those who are working or seeking work outside the home to those who aren’t working or seeking work outside the home.
+The labor force participation rate is an important metric to use when analyzing employment and [[unemployment]](https://www.investopedia.com/terms/u/unemployment.asp) data, because it measures the number of people who are actively job hunting as well as those who are currently employed. It omits institutionalized people (in prisons, nursing homes, or mental hospitals) and members of the military. It includes all other people of working age (16 or older) and compares the proportion of those who are working or seeking work outside the home to those who aren’t working or seeking work outside the home.
 
-Because it accounts for people who have given up looking for work, this may make the labor force participation rate a somewhat more reliable figure than the unemployment rate, which is often criticized for under-counting true joblessness, as it fails to take into account those who have unwillingly dropped out of the workforce. Some argue that [the labor participation rate and unemployment data should be considered together](https://www.investopedia.com/ask/answers/061515/what-key-difference-between-participation-rate-and-unemployment-rate.asp) to better understand an economy’s real employment status.
+Because it accounts for people who have given up looking for work, this may make the labor force participation rate a somewhat more reliable figure than the unemployment rate, which is often criticized for under-counting true joblessness, as it fails to take into account those who have unwillingly dropped out of the workforce. Some argue that [[the labor participation rate and unemployment data should be considered together]](https://www.investopedia.com/ask/answers/061515/what-key-difference-between-participation-rate-and-unemployment-rate.asp) to better understand an economy’s real employment status.
 
 ## Trends in the Participation Rate
 
@@ -43,9 +43,9 @@ The U.S. labor force participation rate in Nov. 2020, according to the Bureau of
 
 ### Economic Factors
 
-Short- and long-term economic trends can influence the labor force participation rate. In the long run, industrialization and the accumulation of wealth can have an impact. Industrialization tends to increase participation by creating employment opportunities in labor markets that attract people to leave household production roles or employment in the [informal economy](https://www.investopedia.com/terms/b/black-economy.asp). High levels of accumulated wealth can reduce participation, because wealthier people simply have less need to work for a living.
+Short- and long-term economic trends can influence the labor force participation rate. In the long run, industrialization and the accumulation of wealth can have an impact. Industrialization tends to increase participation by creating employment opportunities in labor markets that attract people to leave household production roles or employment in the [[informal economy]](https://www.investopedia.com/terms/b/black-economy.asp). High levels of accumulated wealth can reduce participation, because wealthier people simply have less need to work for a living.
 
-In the short term, [business cycles](https://www.investopedia.com/terms/b/businesscycle.asp) and unemployment rates can influence the participation rate. During an economic recession the labor force participation rate tends to fall, because many laid-off workers become discouraged and give up looking for jobs. Economic policies that increase unemployment rates, such as heavy labor market regulation and generous social benefit programs, will also tend to decrease labor force participation.
+In the short term, [[business cycles]](https://www.investopedia.com/terms/b/businesscycle.asp) and unemployment rates can influence the participation rate. During an economic recession the labor force participation rate tends to fall, because many laid-off workers become discouraged and give up looking for jobs. Economic policies that increase unemployment rates, such as heavy labor market regulation and generous social benefit programs, will also tend to decrease labor force participation.
 
 ### Social Factors
 

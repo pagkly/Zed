@@ -16,9 +16,9 @@ author: Brian Beers
 Negative Interest Rate
 ## What Are Negative Interest Rates?
 
-Negative interest rates occur when borrowers are credited interest rather than paying interest to lenders. While this is a very unusual scenario, it is most likely to occur during a deep economic recession when monetary efforts and market forces have already pushed interest rates to their [nominal zero bound](https://www.investopedia.com/terms/z/zero-bound.asp).
+Negative interest rates occur when borrowers are credited interest rather than paying interest to lenders. While this is a very unusual scenario, it is most likely to occur during a deep economic recession when monetary efforts and market forces have already pushed interest rates to their [[nominal zero bound]](https://www.investopedia.com/terms/z/zero-bound.asp).
 
-Typically, a central bank will charge commercial banks on their reserves as a form of [non-traditional expansionary monetary policy](https://www.investopedia.com/articles/investing/022415/how-unconventional-monetary-policy-works.asp), rather than crediting them interest. This extraordinary monetary policy tool is used to strongly encourage lending, spending, and investment rather than hoarding cash, which will lose value to negative deposit rates. Note that individual depositors will not be charged negative interest rates on their bank accounts.
+Typically, a central bank will charge commercial banks on their reserves as a form of [[non-traditional expansionary monetary policy]](https://www.investopedia.com/articles/investing/022415/how-unconventional-monetary-policy-works.asp), rather than crediting them interest. This extraordinary monetary policy tool is used to strongly encourage lending, spending, and investment rather than hoarding cash, which will lose value to negative deposit rates. Note that individual depositors will not be charged negative interest rates on their bank accounts.
 
 ### Key Takeaways
 
@@ -28,19 +28,19 @@ Typically, a central bank will charge commercial banks on their reserves as a fo
 
 ## Understanding a Negative Interest Rate
 
-While [real interest rates](https://www.investopedia.com/terms/r/realinterestrate.asp) can be effectively negative if inflation exceeds the nominal interest rate, the nominal interest rate is, theoretically, bounded by zero. Negative interest rates are often [the result](https://www.investopedia.com/articles/investing/070915/how-negative-interest-rates-work.asp) of a desperate and critical effort to boost economic growth through financial means.
+While [[real interest rates]](https://www.investopedia.com/terms/r/realinterestrate.asp) can be effectively negative if inflation exceeds the nominal interest rate, the nominal interest rate is, theoretically, bounded by zero. Negative interest rates are often [[the result]](https://www.investopedia.com/articles/investing/070915/how-negative-interest-rates-work.asp) of a desperate and critical effort to boost economic growth through financial means.
 
 The zero-bound refers to the lowest level that interest rates can fall to; some forms of logic would dictate that zero would be that lowest level. However, there are instances where negative rates have been implemented during normal times. Switzerland is one such example; as of mid-2020, its [target interest rate](https://www.investopedia.com/terms/t/target-rate.asp) was -0.75%.1 Japan adopted a similar policy, with a mid-2020 target rate of -0.1%.2
 
-Negative interest rates may occur during deflationary periods. During these times, people and businesses hold too much money—instead of spending money—with the expectation that a dollar will be worth more tomorrow than today (i.e., the opposite of [inflation](https://www.investopedia.com/terms/i/inflation.asp)). This can result in a sharp decline in demand, and send prices even lower.
+Negative interest rates may occur during deflationary periods. During these times, people and businesses hold too much money—instead of spending money—with the expectation that a dollar will be worth more tomorrow than today (i.e., the opposite of [[inflation]](https://www.investopedia.com/terms/i/inflation.asp)). This can result in a sharp decline in demand, and send prices even lower.
 
-Often, a loose monetary policy is used to deal with this type of situation. However, when there are strong signs of [deflation](https://www.investopedia.com/terms/d/deflation.asp) factoring into the equation, simply cutting the central bank's interest rate to zero may not be sufficient enough to stimulate growth in both credit and lending.
+Often, a loose monetary policy is used to deal with this type of situation. However, when there are strong signs of [[deflation]](https://www.investopedia.com/terms/d/deflation.asp) factoring into the equation, simply cutting the central bank's interest rate to zero may not be sufficient enough to stimulate growth in both credit and lending.
 
 In a negative interest rate environment, an entire economic zone can be impacted because the nominal interest rate dips below zero. Banks and financial firms have to pay to store their funds at the central bank, rather than earn interest income.
 
 ## Consequences of Negative Rates
 
-A [negative interest rate environment](https://www.investopedia.com/terms/n/negative-interest-rate-environment.asp) occurs when the nominal interest rate drops below zero percent for a specific economic zone. This effectively means that banks and other financial firms have to pay to keep their excess reserves stored at the central bank, rather than receiving positive interest income.
+A [[negative interest rate environment]](https://www.investopedia.com/terms/n/negative-interest-rate-environment.asp) occurs when the nominal interest rate drops below zero percent for a specific economic zone. This effectively means that banks and other financial firms have to pay to keep their excess reserves stored at the central bank, rather than receiving positive interest income.
 
 A negative interest rate policy ([NIRP](https://www.investopedia.com/terms/n/negative-interest-rate-policy-nirp.asp)) is an unusual monetary policy tool. Nominal target interest rates are set with a negative value, which is below the theoretical lower bound of zero percent.
 
@@ -50,7 +50,7 @@ A loose or expansionary monetary policy is usually employed to deal with such ec
 
 ## Example of a Negative Interest Rate
 
-In recent years, central banks in Europe, Scandinavia, and Japan have implemented a negative interest rate policy (NIRP) on excess bank reserves in the financial system. This unorthodox monetary policy tool is designed to spur [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) through spending and investment; depositors would be incentivized to spend cash rather than store it at the bank and incur a guaranteed loss.
+In recent years, central banks in Europe, Scandinavia, and Japan have implemented a negative interest rate policy (NIRP) on excess bank reserves in the financial system. This unorthodox monetary policy tool is designed to spur [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) through spending and investment; depositors would be incentivized to spend cash rather than store it at the bank and incur a guaranteed loss.
 
 It's still not clear if this policy has been effective in achieving this goal in those countries, and in the way it was intended. It's also unclear whether or not negative rates have successfully spread beyond excess cash reserves in the banking system to other parts of the economy.
 

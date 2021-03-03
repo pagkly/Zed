@@ -16,7 +16,7 @@ author: Jason Fernando
 What Does Weightless Economy Mean?
 ## What Is the Weightless Economy?
 
-The term weightless economy refers to the trade in [intangible](https://www.investopedia.com/terms/i/intangibleasset.asp) or abstract products and services such as consulting, software, and professional services. The weightless economy sells ideas, information, expertise, or services.
+The term weightless economy refers to the trade in [[intangible]](https://www.investopedia.com/terms/i/intangibleasset.asp) or abstract products and services such as consulting, software, and professional services. The weightless economy sells ideas, information, expertise, or services.
 
 Other terms, such as post-industrial economy or new economy, are also used to describe these intangible products.
 
@@ -26,7 +26,7 @@ Other terms, such as post-industrial economy or new economy, are also used to de
 -   The growth of information technology has given the weightless economy a dominant role compared to traditional components of the economy such as manufacturing and distribution.
 -   For entrepreneurs, the weightless economy has created opportunities for a fast ramp-up from an idea in its infancy to a profitable business.
 
-The concept of the weightless economy largely evolved at the turn of the 21st century with the rise of [information technology](https://www.investopedia.com/terms/t/technology_sector.asp) and the many products associated with it.
+The concept of the weightless economy largely evolved at the turn of the 21st century with the rise of [[information technology]](https://www.investopedia.com/terms/t/technology_sector.asp) and the many products associated with it.
 
 ## Understanding the Weightless Economy
 
@@ -42,7 +42,7 @@ Today, that same artist and record label can distribute their music online throu
 
 ### The Economics of the Weightless Economy
 
-An economist looking at this example would say that the musician has a [marginal cost of production](https://www.investopedia.com/terms/m/marginalcostofproduction.asp) of nearly $0. Therefore, the [marginal profit](https://www.investopedia.com/terms/m/marginal-profit.asp) associated with selling each additional song is essentially 100%. Once you have already recorded the song and made it available for sale online, it costs you almost nothing to sell each additional unit.
+An economist looking at this example would say that the musician has a [[marginal cost of production]](https://www.investopedia.com/terms/m/marginalcostofproduction.asp) of nearly $0. Therefore, the [[marginal profit]](https://www.investopedia.com/terms/m/marginal-profit.asp) associated with selling each additional song is essentially 100%. Once you have already recorded the song and made it available for sale online, it costs you almost nothing to sell each additional unit.
 
 This is the fundamental reason why it is possible for some technology companies to become so profitable in a relatively short amount of time. In the weightless economy, there is almost nothing preventing a company from acquiring a large pool of customers if demand for the product or service takes off.
 
@@ -54,9 +54,9 @@ By comparison, traditional firms such as manufacturing plants and brick-and-mort
 
 ## Real-World Example of the Weightless Economy
 
-The weightless economy is characterized by information technology and is made possible by [intellectual property rights](https://www.investopedia.com/terms/i/intellectualproperty.asp). An artist cannot make money selling songs online if their rights to those songs are not protected by [copyright laws](https://www.investopedia.com/terms/c/copyright.asp).
+The weightless economy is characterized by information technology and is made possible by [[intellectual property rights]](https://www.investopedia.com/terms/i/intellectualproperty.asp). An artist cannot make money selling songs online if their rights to those songs are not protected by [[copyright laws]](https://www.investopedia.com/terms/c/copyright.asp).
 
-One of the consequences of the weightless economy is that it permits new [entrepreneurs](https://www.investopedia.com/terms/e/entrepreneur.asp) to offer products and services to a large potential customer base with relatively limited [barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp).
+One of the consequences of the weightless economy is that it permits new [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp) to offer products and services to a large potential customer base with relatively limited [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp).
 
 For example, if coding is part of your skillset, you can create a smartphone application and sell it through the Apple and Android app stores. Although there are certainly costs involved in doing so, those costs pale in comparison to the cost of establishing a factory, for example.
 

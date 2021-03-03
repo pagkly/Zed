@@ -20,7 +20,7 @@ A junior capital pool (JCP) is a corporate capital structure that allows early-s
 
 The JCP may also be known as a Capital Pool Company (CPC).
 
-The JPC is, essentially, a [shell corporation](https://www.investopedia.com/terms/s/shellcorporation.asp) with no assets other than [cash](https://www.investopedia.com/terms/c/cash.asp), which has not yet begun business operations. Their issues might be described as stock options rather that stock shares, since their value remains to be determined at a future date.1
+The JPC is, essentially, a [[shell corporation]](https://www.investopedia.com/terms/s/shellcorporation.asp) with no assets other than [[cash]](https://www.investopedia.com/terms/c/cash.asp), which has not yet begun business operations. Their issues might be described as stock options rather that stock shares, since their value remains to be determined at a future date.1
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ This novel form of start-up financing was invented in Alberta, Canada, in the la
 
 Over time, it has morphed into a more widely used corporate structure known as the capital pool company ([CPC](https://www.investopedia.com/terms/c/capital-pool-company-tsx-venture.asp)). The capital pool company has become an alternative way for newly-created private companies to raise money and go public.
 
-The system was created by and is regulated by the Canada-based [TMX Group](https://www.investopedia.com/terms/t/tmx-group.asp). Companies with this structure also trade on the TSX Exchange.
+The system was created by and is regulated by the Canada-based [[TMX Group]](https://www.investopedia.com/terms/t/tmx-group.asp). Companies with this structure also trade on the TSX Exchange.
 
 A capital pool company is a company with experienced directors and some capital, but without current commercial operations at the time of the initial public offering ([IPO](https://www.investopedia.com/terms/i/ipo.asp)). The directors of the CPC often focus on acquiring an emerging company. After the completion of the acquisition, that emerging company has access to the capital and the listing prepared by the CPC.
 

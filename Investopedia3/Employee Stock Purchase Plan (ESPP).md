@@ -16,7 +16,7 @@ author: Will Kenton
 Employee Stock Purchase Plan (ESPP)
 ## What Is an Employee Stock Purchase Plan?
 
-An employee stock purchase plan (ESPP) is a company-run program in which participating employees can purchase company stock at a discounted price. Employees contribute to the plan through [payroll](https://www.investopedia.com/terms/p/payroll.asp) deductions which build up between the offering date and the purchase date. At the purchase date, the company uses the employee's [accumulated funds](https://www.investopedia.com/terms/a/accumulated-fund.asp) to purchase stock in the company on behalf of the participating employees.
+An employee stock purchase plan (ESPP) is a company-run program in which participating employees can purchase company stock at a discounted price. Employees contribute to the plan through [[payroll]](https://www.investopedia.com/terms/p/payroll.asp) deductions which build up between the offering date and the purchase date. At the purchase date, the company uses the employee's [[accumulated funds]](https://www.investopedia.com/terms/a/accumulated-fund.asp) to purchase stock in the company on behalf of the participating employees.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ An employee stock purchase plan (ESPP) is a company-run program in which partici
 
 ## Understanding Employee Stock Purchase Plans (ESPP)
 
-With employee stock purchase plans, the discount rate on company shares depends on the specific plan but can be as much as 15% lower than the [market price](https://www.investopedia.com/terms/m/market-price.asp). ESPPs may have a “look back” provision allowing the plan to use a historical closing price of the stock. This price may be either the price of the stock offering date or the purchase date – often whichever figure is lower.
+With employee stock purchase plans, the discount rate on company shares depends on the specific plan but can be as much as 15% lower than the [[market price]](https://www.investopedia.com/terms/m/market-price.asp). ESPPs may have a “look back” provision allowing the plan to use a historical closing price of the stock. This price may be either the price of the stock offering date or the purchase date – often whichever figure is lower.
 
 ### Qualified Vs. Non-qualified Plans
 

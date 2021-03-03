@@ -18,7 +18,7 @@ Economic Depreciation Definition
 
 Economic depreciation is a measure of the decrease in the [market value](https://www.investopedia.com/terms/m/marketvalue.asp) of an asset over time from influential economic factors. This form of [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) usually pertains to [real estate](https://www.investopedia.com/terms/r/realestate.asp), which can lose value for several reasons such as the addition of unfavorable construction in close proximity to a property, road closures, a decline in the quality of a neighborhood, or other negative influences. 
 
-Economic depreciation is different than [accounting](https://www.investopedia.com/terms/a/accounting.asp) depreciation. In accounting depreciation, an asset is expensed over a specific amount of time, based on a set schedule.
+Economic depreciation is different than [[accounting]](https://www.investopedia.com/terms/a/accounting.asp) depreciation. In accounting depreciation, an asset is expensed over a specific amount of time, based on a set schedule.
 
 ## How Economic Depreciation Works
 

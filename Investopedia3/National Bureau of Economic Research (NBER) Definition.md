@@ -26,7 +26,7 @@ The National Bureau of Economic Research (NBER) is a private, non-profit, non-pa
 
 ## Understanding National Bureau of Economic Research (NBER)
 
-Hundreds of the nation's leading scholars in economics and business are also NBER researchers who focus on four types of empirical research: developing new statistical measurements, estimating quantitative models of economic behavior, assessing the effects of public policies on the U.S. economy, and projecting the effects of alternative policy proposals. Twelve of the 31 American [Nobel Prize winners in Economics](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) have been researchers at the bureau.
+Hundreds of the nation's leading scholars in economics and business are also NBER researchers who focus on four types of empirical research: developing new statistical measurements, estimating quantitative models of economic behavior, assessing the effects of public policies on the U.S. economy, and projecting the effects of alternative policy proposals. Twelve of the 31 American [[Nobel Prize winners in Economics]](https://www.investopedia.com/terms/n/nobel-memorial-prize-in-economic-sciences.asp) have been researchers at the bureau.
 
 According to the organization, "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals. NBER-affiliated researchers study a wide range of topics and they employ many different methods in their work. Key focus areas include developing new statistical measurements, estimating quantitative models of economic behavior, and analyzing the effects of public policies."
 
@@ -40,6 +40,6 @@ The NBER is supported by research grants from government agencies and private fo
 
 The group took in $41 million for the year ended June 30, 2017, according to its [financial statement](http://www.nber.org/FY2017FinancialsSummary.pdf).
 
-The economist Paul Krugman, [writing in the New York Times](https://krugman.blogs.nytimes.com/2013/04/22/understanding-the-nber/), said NBER is "best described, I’d say, as the old-boy network of economics made flesh. There are a couple of NBER offices, but they’re small; what the organization mainly consists of is its associates and what they do. In many sub-fields of economics, just about anyone well-known in the profession is an NBER research associate; it’s normal for these associates to release new research as NBER working papers.
+The economist Paul Krugman, [[writing in the New York Times]](https://krugman.blogs.nytimes.com/2013/04/22/understanding-the-nber/), said NBER is "best described, I’d say, as the old-boy network of economics made flesh. There are a couple of NBER offices, but they’re small; what the organization mainly consists of is its associates and what they do. In many sub-fields of economics, just about anyone well-known in the profession is an NBER research associate; it’s normal for these associates to release new research as NBER working papers.
 
 The function of these papers, in turn, is to get research out quickly so other economists can discuss it (which includes criticizing it). For working economists, the NBER WP series provides what amounts to one-stop shopping for new developments in their field."

@@ -16,7 +16,7 @@ author: Julia Kagan
 Life Expectancy
 ## What Is Life Expectancy?
 
-Life expectancy is the statistical age that a person is expected to live until, based on actuarial data. There are many uses for it in the financial world, including life insurance, pension planning, and U.S. Social Security benefits. In most countries, the calculations for this [actuarial age](https://www.investopedia.com/terms/a/actuarial-age.asp) is derived from a national statistical agency based on large amounts of data.
+Life expectancy is the statistical age that a person is expected to live until, based on actuarial data. There are many uses for it in the financial world, including life insurance, pension planning, and U.S. Social Security benefits. In most countries, the calculations for this [[actuarial age]](https://www.investopedia.com/terms/a/actuarial-age.asp) is derived from a national statistical agency based on large amounts of data.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ There are several factors that affect your life expectancy, the two single most 
 
 You can view the federal government's data on U.S. life expectancy on the [National Center for Health Statistic's website](https://www.cdc.gov/nchs/fastats/life-expectancy.htm) and the [Social Security Administration's Actuarial Period Life Table](https://www.ssa.gov/OACT/STATS/table4c6.html).
 
-It's important to note that life expectancy changes over time. That's because as you age, [actuaries](https://www.investopedia.com/terms/a/actuary.asp) use complex formulas that factor out people who are younger than you but who have died. As you continue to age past mid-life, you outlive an increasing number of people who are younger than you, so your life expectancy actually increases. In other words, the older you get (past a certain age), the older you are likely to get.
+It's important to note that life expectancy changes over time. That's because as you age, [[actuaries]](https://www.investopedia.com/terms/a/actuary.asp) use complex formulas that factor out people who are younger than you but who have died. As you continue to age past mid-life, you outlive an increasing number of people who are younger than you, so your life expectancy actually increases. In other words, the older you get (past a certain age), the older you are likely to get.
 
 Overall, human life expectancy has been rapidly increasing during the past two hundred years, particularly in developing countries. In 2020, the average life expectancy in the United States is 78.9 years.1
 
@@ -53,11 +53,11 @@ The principle of life expectancy suggests that you should purchase a life insura
 
 ## Retirement and Annuity Planning
 
-Life expectancy is critical for [retirement planning](https://www.investopedia.com/terms/r/retirement-planning.asp). Many aging workers arrange their retirement plans' asset allocations based on a prediction of how long they expect to live. Personal, rather than statistical, life expectancy is a primary factor in the character of a retirement plan. When couples are planning for retirement or annuity payments, they often use a joint life expectancy in which they take the life expectancy of their partner (who may become the beneficiary of a retirement fund or annuity plan) into account as well.
+Life expectancy is critical for [[retirement planning]](https://www.investopedia.com/terms/r/retirement-planning.asp). Many aging workers arrange their retirement plans' asset allocations based on a prediction of how long they expect to live. Personal, rather than statistical, life expectancy is a primary factor in the character of a retirement plan. When couples are planning for retirement or annuity payments, they often use a joint life expectancy in which they take the life expectancy of their partner (who may become the beneficiary of a retirement fund or annuity plan) into account as well.
 
-Most retirement plans, including the traditional and Roth, SEP, and [SIMPLE IRA](https://www.investopedia.com/terms/s/simple-ira.asp) plans, also use life expectancy to determine the implementation of [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp)  
+Most retirement plans, including the traditional and Roth, SEP, and [[SIMPLE IRA]](https://www.investopedia.com/terms/s/simple-ira.asp) plans, also use life expectancy to determine the implementation of [[required minimum distributions]](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp)  
 (RMDs) for the plan. Most retirement plans expect participants to begin taking at least the RMD by the time they reach the age of 72 (previously 70½). Retirement plans set distributions on the IRS life expectancy tables. Some qualified plans may allow RMD distributions to begin at a later date.
 
 Due to an increase in life expectancy, the SECURE Act adjusted the required minimum distribution age from 70½ to 72—for individuals who attain age 70½ after Dec. 31, 2019. Those who have reached 70½ during 2019 or earlier are not affected.
 
-Your life expectancy is also a significant factor when arranging [annuity](https://www.investopedia.com/terms/a/annuity.asp) payments with an insurance company. In an annuity contract, the insurance company agrees to pay a certain amount of money for a fixed period or until the policyholder's death. It's important to take life expectancy into account when negotiating annuity contracts. If you agree to receive payouts for a specific period, it is tantamount to estimate how long you might expect to live. You may also elect to use a single-life annuity payment plan in which annuity payments will cease after your death.
+Your life expectancy is also a significant factor when arranging [[annuity]](https://www.investopedia.com/terms/a/annuity.asp) payments with an insurance company. In an annuity contract, the insurance company agrees to pay a certain amount of money for a fixed period or until the policyholder's death. It's important to take life expectancy into account when negotiating annuity contracts. If you agree to receive payouts for a specific period, it is tantamount to estimate how long you might expect to live. You may also elect to use a single-life annuity payment plan in which annuity payments will cease after your death.

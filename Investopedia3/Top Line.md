@@ -16,7 +16,7 @@ author: Alicia Tuovila
 Top Line
 ## What Is the Top Line?
 
-The top line is a reference to gross figures reported by a company, such as sales or [revenue](https://www.investopedia.com/terms/r/revenue.asp). It is called the top line because it is displayed at the very top of a company's [income statement](https://www.investopedia.com/terms/i/incomestatement.asp), and is reserved for the reporting of gross sales or revenue. A company that increases its revenue or sales is said to be generating top-line growth. The opposite of the top line is the bottom line.
+The top line is a reference to gross figures reported by a company, such as sales or [[revenue]](https://www.investopedia.com/terms/r/revenue.asp). It is called the top line because it is displayed at the very top of a company's [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp), and is reserved for the reporting of gross sales or revenue. A company that increases its revenue or sales is said to be generating top-line growth. The opposite of the top line is the bottom line.
 
 ### Key Takeaways
 
@@ -28,23 +28,23 @@ The top line is a reference to gross figures reported by a company, such as sale
 
 ## Understanding the Top Line
 
-The top line is a record of a company’s revenue that reflects the full sales price of goods or services sold to consumers within the statement period. It is placed at the top of the income statement, as subsequent line items reference an [expense](https://www.investopedia.com/terms/e/expense.asp) or loss that must be deducted from the gross figure.
+The top line is a record of a company’s revenue that reflects the full sales price of goods or services sold to consumers within the statement period. It is placed at the top of the income statement, as subsequent line items reference an [[expense]](https://www.investopedia.com/terms/e/expense.asp) or loss that must be deducted from the gross figure.
 
-Expenses can include any payments made in order to support the production of goods or rendering of a service. [Capital losses](https://www.investopedia.com/terms/c/capitalloss.asp) incurred through the sale of a [capital asset](https://www.investopedia.com/terms/c/capitalasset.asp) at a loss can also be deducted. Common expenses include, but are not limited to, the cost of materials required to manufacture the goods that were sold as well as any [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp). Applicable taxes are also deducted from this running total.
+Expenses can include any payments made in order to support the production of goods or rendering of a service. [[Capital losses]](https://www.investopedia.com/terms/c/capitalloss.asp) incurred through the sale of a [[capital asset]](https://www.investopedia.com/terms/c/capitalasset.asp) at a loss can also be deducted. Common expenses include, but are not limited to, the cost of materials required to manufacture the goods that were sold as well as any [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp). Applicable taxes are also deducted from this running total.
 
 Once the costs have been subtracted from the top line then a business arrives at its profits, also known as the bottom line.
 
 ## Importance of the Top Line
 
-The top line is one of the most important figures in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp). It shows how much business a company does in the specified period. It reflects the pure [demand](https://www.investopedia.com/terms/d/demand.asp) for a company's goods or services without any other effects.
+The top line is one of the most important figures in a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp). It shows how much business a company does in the specified period. It reflects the pure [[demand]](https://www.investopedia.com/terms/d/demand.asp) for a company's goods or services without any other effects.
 
-The top line reflects a company's growth by showing if a company is selling more goods or services over time. If it is, revenue will be increasing. If it is not growing or growing but not by the desired amount, it is an indicator to a company that changes need to be made. This can include the [marketing strategy](https://www.investopedia.com/terms/m/marketing-strategy.asp), quality of the product, pricing, or the customer's overall engagement with the company.
+The top line reflects a company's growth by showing if a company is selling more goods or services over time. If it is, revenue will be increasing. If it is not growing or growing but not by the desired amount, it is an indicator to a company that changes need to be made. This can include the [[marketing strategy]](https://www.investopedia.com/terms/m/marketing-strategy.asp), quality of the product, pricing, or the customer's overall engagement with the company.
 
 ## Top Line vs. Bottom Line
 
-The top line is a gross figure of all revenue earned in the statement period, while the [bottom line](https://www.investopedia.com/terms/b/bottomline.asp) refers to the net figure after taking into account the costs of earning the revenue. The bottom line reflects the [net income](https://www.investopedia.com/terms/n/netincome.asp), which is often listed as the last, or bottom, line on a company's income statement.
+The top line is a gross figure of all revenue earned in the statement period, while the [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) refers to the net figure after taking into account the costs of earning the revenue. The bottom line reflects the [[net income]](https://www.investopedia.com/terms/n/netincome.asp), which is often listed as the last, or bottom, line on a company's income statement.
 
-The bottom line reflects what remains once all of the necessary expenses have been deducted from the top line, and reflects the amount of [profit](https://www.investopedia.com/terms/a/accountingprofit.asp) that was generated during the statement period.
+The bottom line reflects what remains once all of the necessary expenses have been deducted from the top line, and reflects the amount of [[profit]](https://www.investopedia.com/terms/a/accountingprofit.asp) that was generated during the statement period.
 
 Both the top line and the bottom line are important but they both provide very different insights. The top line is primarily a growth indicator and a company's ability to sell its goods while the bottom line reflects many internal aspects, such as costs, operating expenses, and generally how a company carries out its business.
 

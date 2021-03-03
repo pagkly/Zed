@@ -16,25 +16,25 @@ author: Will Kenton
 Public Company Accounting Oversight Board (PCAOB)
 ## What Is the Public Company Accounting Oversight Board (PCAOB)?
 
-The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates auditors of publicly traded companies. The purpose of PCAOB is to minimize [audit risk](https://www.investopedia.com/terms/a/audit-risk.asp).
+The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates auditors of publicly traded companies. The purpose of PCAOB is to minimize [[audit risk]](https://www.investopedia.com/terms/a/audit-risk.asp).
 
 ### Key Takeaways:
 
 -   The Public Company Accounting Oversight Board (PCAOB) is a non-profit organization that regulates audits of publicly traded companies to minimize audit risk.
--   The PCAOB was established at the same time as the [Sarbanes-Oxley Act of 2002](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp) to address the accounting scandals of the late 1990s.
+-   The PCAOB was established at the same time as the [[Sarbanes-Oxley Act of 2002]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp) to address the accounting scandals of the late 1990s.
 -   The board protects investors and other stakeholders of public companies by ensuring that auditors follow strict guidelines.
 
 ## Understanding the Public Company Accounting Oversight Board
 
 ## (PCAOB)
 
-The Public Company Accounting Oversight Board (PCAOB) was established with the passage of the [Sarbanes-Oxley Act of 2002](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). The act was passed in response to various accounting scandals of the late 1990s. The board protects investors and other stakeholders of public companies by ensuring that the auditor of a company's financial statements has followed a set of strict guidelines. PCAOB is overseen by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) and, since 2010, the PCAOB has overseen the audits of SEC-registered brokers and dealers.
+The Public Company Accounting Oversight Board (PCAOB) was established with the passage of the [[Sarbanes-Oxley Act of 2002]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). The act was passed in response to various accounting scandals of the late 1990s. The board protects investors and other stakeholders of public companies by ensuring that the auditor of a company's financial statements has followed a set of strict guidelines. PCAOB is overseen by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) and, since 2010, the PCAOB has overseen the audits of SEC-registered brokers and dealers.
 
 ### Public Company Accounting Oversight Board (PCAOB) Advisory Groups
 
 The PCAOB has two advisory groups: the Standing Advisory Group and the Investor Advisory Group. The role of these two groups is to provide advice and insight to the Board.
 
-The Standing Advisory Group met twice in 2018 and discussed data and technology, cybersecurity, corporate culture, communications on PCAOB standards, the governance and leadership of quality control systems, current or emerging issues affecting audits or auditors, and implementation of the new auditor’s report. According to the [latest annual report](https://pcaobus.org/About/Administration/Documents/Annual%20Reports/2018-PCAOB-Annual-Report.pdf), The Investor Advisory Group met in November 2018. Subjects under discussion were the group's strategic plan, quality control standards, implementation of the new auditor’s report, and implementation of Form AP.  
+The Standing Advisory Group met twice in 2018 and discussed data and technology, cybersecurity, corporate culture, communications on PCAOB standards, the governance and leadership of quality control systems, current or emerging issues affecting audits or auditors, and implementation of the new auditor’s report. According to the [[latest annual report]](https://pcaobus.org/About/Administration/Documents/Annual%20Reports/2018-PCAOB-Annual-Report.pdf), The Investor Advisory Group met in November 2018. Subjects under discussion were the group's strategic plan, quality control standards, implementation of the new auditor’s report, and implementation of Form AP.  
 
 The PCAOB Board has a five-step strategic plan, which is laid out in its 2018 annual report. The five-step plan is composed of the following:
 

@@ -16,7 +16,7 @@ author: Will Kenton
 GIP (Gibraltar Pound)
 ## What Is GIP?
 
-GIP is the abbreviation for the Gibraltar pound, the official currency for the country of Gibraltar. The Gibraltar pound is pegged at [par value](https://www.investopedia.com/terms/p/parvalue.asp) with the British pound sterling. The government of Gibraltar issues the GIP, and mints coins in £1, £2, £5, 1 pence, 2 pence, 5 pence, 10 pence, 20 pence and 50 pence, and it prints banknotes in £5, £10, £20, £50, and £100. 
+GIP is the abbreviation for the Gibraltar pound, the official currency for the country of Gibraltar. The Gibraltar pound is pegged at [[par value]](https://www.investopedia.com/terms/p/parvalue.asp) with the British pound sterling. The government of Gibraltar issues the GIP, and mints coins in £1, £2, £5, 1 pence, 2 pence, 5 pence, 10 pence, 20 pence and 50 pence, and it prints banknotes in £5, £10, £20, £50, and £100. 
 
 ## Understanding GIP
 

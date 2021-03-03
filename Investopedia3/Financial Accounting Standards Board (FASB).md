@@ -16,7 +16,7 @@ author: Will Kenton
 Financial Accounting Standards Board (FASB)
 ## What Is the Financial Accounting Standards Board (FASB)?
 
-The Financial Accounting Standards Board (FASB) is an independent nonprofit organization responsible for establishing accounting and financial reporting standards for companies and nonprofit organizations in the United States, following [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The FASB was formed in 1973 to succeed the [Accounting Principles Board](https://www.investopedia.com/terms/a/accounting-priciples-board.asp) and carry on its mission. It is based in Norwalk, Conn.
+The Financial Accounting Standards Board (FASB) is an independent nonprofit organization responsible for establishing accounting and financial reporting standards for companies and nonprofit organizations in the United States, following [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The FASB was formed in 1973 to succeed the [[Accounting Principles Board]](https://www.investopedia.com/terms/a/accounting-priciples-board.asp) and carry on its mission. It is based in Norwalk, Conn.
 
 ### Key Takeaways:
 
@@ -26,13 +26,13 @@ The Financial Accounting Standards Board (FASB) is an independent nonprofit orga
 
 ## How the Financial Accounting Standards Board (FASB) Works
 
-The Financial Accounting Standards Board has the authority to establish and interpret generally accepted accounting principles (GAAP) in the United States for public and private companies and [nonprofit organizations](https://www.investopedia.com/terms/n/non-profitorganization.asp). GAAP is a set of standards that companies, nonprofits, and governments should follow when preparing and presenting their financial statements, including any [related party transactions](https://www.investopedia.com/terms/r/related-partytransaction.asp).
+The Financial Accounting Standards Board has the authority to establish and interpret generally accepted accounting principles (GAAP) in the United States for public and private companies and [[nonprofit organizations]](https://www.investopedia.com/terms/n/non-profitorganization.asp). GAAP is a set of standards that companies, nonprofits, and governments should follow when preparing and presenting their financial statements, including any [[related party transactions]](https://www.investopedia.com/terms/r/related-partytransaction.asp).
 
-The [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) recognizes the FASB as the accounting standard setter for public companies. It is also recognized by state accounting boards, the American Institute of Certified Public Accountants (AICPA), and other organizations in the field.
+The [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) recognizes the FASB as the accounting standard setter for public companies. It is also recognized by state accounting boards, the American Institute of Certified Public Accountants (AICPA), and other organizations in the field.
 
-The Financial Accounting Standards Board is part of a larger, independent nonprofit group that also includes the [Financial Accounting Foundation (FAF)](https://www.investopedia.com/terms/f/financial-accounting-foundation.asp), the Financial Accounting Standards Advisory Council (FASAC), the [Governmental Accounting Standards Board (GASB)](https://www.investopedia.com/terms/g/government-accounting-standards-board-gasb.asp), and the Governmental Accounting Standards Advisory Council (GASAC).
+The Financial Accounting Standards Board is part of a larger, independent nonprofit group that also includes the [[Financial Accounting Foundation (FAF)]](https://www.investopedia.com/terms/f/financial-accounting-foundation.asp), the Financial Accounting Standards Advisory Council (FASAC), the [[Governmental Accounting Standards Board (GASB)]](https://www.investopedia.com/terms/g/government-accounting-standards-board-gasb.asp), and the Governmental Accounting Standards Advisory Council (GASAC).
 
-The GASB, which is similar in function to the FASB, was established in 1984 to set accounting and financial reporting [standards](https://www.investopedia.com/ask/answers/040215/what-are-objectives-financial-accounting.asp) for state and local governments across the United States. The FAF oversees both the FASB and the GASB. The two advisory councils provide guidance in their respective areas.
+The GASB, which is similar in function to the FASB, was established in 1984 to set accounting and financial reporting [[standards]](https://www.investopedia.com/ask/answers/040215/what-are-objectives-financial-accounting.asp) for state and local governments across the United States. The FAF oversees both the FASB and the GASB. The two advisory councils provide guidance in their respective areas.
 
 Collectively, the organizations' mission is to improve financial accounting and reporting standards so that the information is useful to investors and other users of financial reports. The organizations also educate stakeholders on how to understand and implement the standards most effectively.
 
@@ -42,4 +42,4 @@ In 2009, the FAF launched the FASB Accounting Standards Codification, an online 
 
 ### FASB vs. IASB
 
-The London-based International Accounting Standards Board (IASB), founded in 2001 to replace an older standards organization, is responsible for the [International Financial Reporting Standards (IFRS)](https://www.investopedia.com/terms/i/ifrs.asp), which are now used in many countries throughout the world. In recent years, the FASB has been working with the IASB on an initiative to improve financial reporting and the comparability of financial reports globally.
+The London-based International Accounting Standards Board (IASB), founded in 2001 to replace an older standards organization, is responsible for the [[International Financial Reporting Standards (IFRS)]](https://www.investopedia.com/terms/i/ifrs.asp), which are now used in many countries throughout the world. In recent years, the FASB has been working with the IASB on an initiative to improve financial reporting and the comparability of financial reports globally.

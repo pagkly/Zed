@@ -16,11 +16,11 @@ author: Andrew Bloomenthal
 Why We Avoid Void Contracts
 ## What Is a Void Contract?
 
-A void contract is a formal agreement that is effectively illegitimate and unenforceable from the moment it is created. A void contract differs from a [voidable contract](https://www.investopedia.com/terms/v/voidable-contract.asp) because, while a void contract is one that was never legally valid to begin with (and will never be enforceable at any future point in time), voidable contracts may be legally enforceable once underlying contractual defects are corrected. At the same time, void contracts and voidable contracts can be nullified for similar reasons.
+A void contract is a formal agreement that is effectively illegitimate and unenforceable from the moment it is created. A void contract differs from a [[voidable contract]](https://www.investopedia.com/terms/v/voidable-contract.asp) because, while a void contract is one that was never legally valid to begin with (and will never be enforceable at any future point in time), voidable contracts may be legally enforceable once underlying contractual defects are corrected. At the same time, void contracts and voidable contracts can be nullified for similar reasons.
 
 ## Understanding Void Contracts
 
-A contract may be deemed void if the agreement is not enforceable as it was originally written. In such instances, void contracts (also referred to as "void agreements"), involve agreements that are either illegal in nature or in violation of fairness or [public policy](https://www.investopedia.com/articles/economics/11/government-regulations.asp).
+A contract may be deemed void if the agreement is not enforceable as it was originally written. In such instances, void contracts (also referred to as "void agreements"), involve agreements that are either illegal in nature or in violation of fairness or [[public policy]](https://www.investopedia.com/articles/economics/11/government-regulations.asp).
 
 ### Key Takeaways
 

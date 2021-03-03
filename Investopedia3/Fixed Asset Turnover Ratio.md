@@ -16,9 +16,9 @@ author: Will Kenton
 Fixed Asset Turnover Ratio
 ## What Is the Fixed Asset Turnover Ratio?
 
-The fixed asset [turnover ratio](https://www.investopedia.com/terms/t/turnoverratio.asp) (FAT) is, in general, used by analysts to measure operating performance. This efficiency ratio compares net sales (income statement) to fixed assets (balance sheet) and measures a company's ability to generate net sales from its fixed-asset investments, namely [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp) (PP&E).
+The fixed asset [[turnover ratio]](https://www.investopedia.com/terms/t/turnoverratio.asp) (FAT) is, in general, used by analysts to measure operating performance. This efficiency ratio compares net sales (income statement) to fixed assets (balance sheet) and measures a company's ability to generate net sales from its fixed-asset investments, namely [[property, plant, and equipment]](https://www.investopedia.com/terms/p/ppe.asp) (PP&E).
 
-The fixed asset balance is used as a net of accumulated [depreciation](https://www.investopedia.com/terms/d/depreciation.asp). A higher fixed asset turnover ratio indicates that a company has effectively used investments in fixed assets to generate sales.
+The fixed asset balance is used as a net of accumulated [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp). A higher fixed asset turnover ratio indicates that a company has effectively used investments in fixed assets to generate sales.
 
 ### Key Takeaways
 
@@ -42,13 +42,13 @@ Overall, investments in fixed assets tend to represent the largest component of 
 
 A higher turnover ratio is indicative of greater efficiency in managing fixed-asset investments, but there is not an exact number or range that dictates whether a company has been efficient at generating revenue from such investments. For this reason, it is important for analysts and investors to compare a company’s most recent ratio to both its own historical ratios and ratio values from peer companies and/or average ratios for the company's industry as a whole.
 
-Though the FAT ratio is of significant importance in certain industries, an investor or [analyst](https://www.investopedia.com/terms/a/analyst.asp) must determine whether the company under study is in the appropriate sector or industry for the ratio to be calculated before attaching much weight to it.
+Though the FAT ratio is of significant importance in certain industries, an investor or [[analyst]](https://www.investopedia.com/terms/a/analyst.asp) must determine whether the company under study is in the appropriate sector or industry for the ratio to be calculated before attaching much weight to it.
 
 Fixed assets vary drastically from one company type to the next. As an example, consider the difference between an Internet company and a manufacturing company. An Internet company, such as Facebook, has a significantly smaller fixed asset base than a manufacturing giant, such as Caterpillar. Clearly, in this example, Caterpillar’s fixed asset turnover ratio is of more relevance and should hold more weight than Facebook’s FAT ratio.
 
 ## Difference Between the Fixed Asset Turnover Ratio and the Asset Turnover Ratio
 
-The asset turnover ratio uses total assets instead of focusing only on fixed assets as done in the FAT ratio. Using total assets acts as an indicator of a number of management’s decisions on [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) and other assets.
+The asset turnover ratio uses total assets instead of focusing only on fixed assets as done in the FAT ratio. Using total assets acts as an indicator of a number of management’s decisions on [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) and other assets.
 
 ## Limitations of Using the Fixed Asset Ratio
 

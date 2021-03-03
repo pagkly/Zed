@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Hard Fork (Blockchain) Definition
 ## What Is a Hard Fork?
 
-A hard fork (or hardfork), as it relates to [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) technology, is a radical change to a network's protocol that makes previously invalid blocks and transactions valid, or vice-versa. A hard fork requires all nodes or users to upgrade to the latest version of the protocol software.
+A hard fork (or hardfork), as it relates to [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) technology, is a radical change to a network's protocol that makes previously invalid blocks and transactions valid, or vice-versa. A hard fork requires all nodes or users to upgrade to the latest version of the protocol software.
 
 Forks may be initiated by developers or members of a crypto community who grow dissatisfied with functionalities offered by existing blockchain implementations. They may also emerge as a way to crowdsource funding for new technology projects or cryptocurrency offerings.
 
@@ -38,7 +38,7 @@ A fork in a blockchain can occur in _any_ crypto-technology platform—[Ethereum
 
 However, _all_ of the miners need to agree about the new rules and about what comprises a valid block in the chain. So when you want to change those rules you need to "fork it"—like a fork in a road—to indicate that there's been a change in or a diversion to the protocol. The developers can then update all of the software to reflect the new rules.
 
-It is through this forking process that various digital currencies with names similar to bitcoin have come to be: bitcoin cash, bitcoin gold, and others. For the casual cryptocurrency investor, it can be difficult to tell the difference between these cryptocurrencies and to map the various forks onto a timeline. To help sort this out, we have composed a [history of the most important bitcoin hard forks](https://www.investopedia.com/tech/history-bitcoin-hard-forks/) of the past several years. 
+It is through this forking process that various digital currencies with names similar to bitcoin have come to be: bitcoin cash, bitcoin gold, and others. For the casual cryptocurrency investor, it can be difficult to tell the difference between these cryptocurrencies and to map the various forks onto a timeline. To help sort this out, we have composed a [[history of the most important bitcoin hard forks]](https://www.investopedia.com/tech/history-bitcoin-hard-forks/) of the past several years. 
 
 As the graphic below displays, nodes that are not upgraded reject the new rules, which creates a divergence, or hard fork, in the blockchain.
 

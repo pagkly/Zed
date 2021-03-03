@@ -16,11 +16,11 @@ author: James Chen
 What Is a Non-Security?
 ## What Is a Non-Security?
 
-A non-security is an alternative investment that is not traded on a public [exchange](https://www.investopedia.com/terms/e/exchange.asp) as stocks and bonds are. Assets such as art, rare coins, life insurance, gold, and diamonds all are non-securities.
+A non-security is an alternative investment that is not traded on a public [[exchange]](https://www.investopedia.com/terms/e/exchange.asp) as stocks and bonds are. Assets such as art, rare coins, life insurance, gold, and diamonds all are non-securities.
 
 Non-securities by definition are not liquid assets. That is, they cannot be easily bought or sold on demand as no exchange exists for trading them.
 
-Non-securities also are known as [real assets](https://www.investopedia.com/terms/r/realasset.asp).
+Non-securities also are known as [[real assets]](https://www.investopedia.com/terms/r/realasset.asp).
 
 ## Understanding Non-Securities
 
@@ -40,17 +40,17 @@ The SPDR Gold Shares ETF is one example. The portfolio is fully invested in gold
 
 Some personal financial assets such as life insurance could be called non-securities.
 
-However, non-security assets do not themselves undergo an institutionalized process for public trading on exchanges. This makes them highly illiquid investments, in contrast to securities such as [stocks](https://www.investopedia.com/terms/s/stock.asp), mutual funds, and bonds.
+However, non-security assets do not themselves undergo an institutionalized process for public trading on exchanges. This makes them highly illiquid investments, in contrast to securities such as [[stocks]](https://www.investopedia.com/terms/s/stock.asp), mutual funds, and bonds.
 
 ### Valuation of Non-Securities
 
 The valuation process for non-securities also differs. Market experts in each type of non-security typically appraise them to estimate their valuations. In some cases, non-securities may require authentication and registration to support their use and potential sale.
 
-These assets, however, do not require the backing of an [underwriter](https://www.investopedia.com/terms/u/underwriter.asp) or bank and involve much less documentation and paperwork.
+These assets, however, do not require the backing of an [[underwriter]](https://www.investopedia.com/terms/u/underwriter.asp) or bank and involve much less documentation and paperwork.
 
 ### Personal Financial Assets as Non-Securities
 
-Some personal financial assets such as life insurance and [annuities](https://www.investopedia.com/terms/a/annuity.asp) could be considered non-securities.
+Some personal financial assets such as life insurance and [[annuities]](https://www.investopedia.com/terms/a/annuity.asp) could be considered non-securities.
 
 Investors have the option to invest in these non-security assets through an insurance company. Life insurance and annuities are two types of non-security assets that are not publicly traded but rather contractual agreements made with a sponsoring company.
 

@@ -16,7 +16,7 @@ author: Will Kenton
 Leveraged Buyout (LBO) Definition
 ## What Is a Leveraged Buyout?
 
-A leveraged buyout (LBO) is the acquisition of another company using a significant amount of borrowed money to meet the [cost of acquisition](https://www.investopedia.com/terms/c/costofacquisition.asp). The assets of the company being acquired are often used as collateral for the loans, along with the assets of the acquiring company.
+A leveraged buyout (LBO) is the acquisition of another company using a significant amount of borrowed money to meet the [[cost of acquisition]](https://www.investopedia.com/terms/c/costofacquisition.asp). The assets of the company being acquired are often used as collateral for the loans, along with the assets of the acquiring company.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A leveraged buyout (LBO) is the acquisition of another company using a significa
 
 ## Understanding Leveraged Buyout (LBO)
 
-In a leveraged buyout (LBO), there is usually a ratio of 90% debt to 10% equity. Because of this high debt/equity ratio, the bonds issued in the buyout are usually not investment grade and are referred to as [junk bonds](https://www.investopedia.com/terms/j/junkbond.asp). LBOs have garnered a reputation for being an especially ruthless and predatory tactic as the target company doesn't usually sanction the acquisition. Aside from being a hostile move, there is a bit of irony to the process in that the target company's success, in terms of assets on the balance sheet, can be used against it as collateral by the acquiring company.
+In a leveraged buyout (LBO), there is usually a ratio of 90% debt to 10% equity. Because of this high debt/equity ratio, the bonds issued in the buyout are usually not investment grade and are referred to as [[junk bonds]](https://www.investopedia.com/terms/j/junkbond.asp). LBOs have garnered a reputation for being an especially ruthless and predatory tactic as the target company doesn't usually sanction the acquisition. Aside from being a hostile move, there is a bit of irony to the process in that the target company's success, in terms of assets on the balance sheet, can be used against it as collateral by the acquiring company.
 
 LBOs are conducted for three main reasons:
 
@@ -38,7 +38,7 @@ LBOs are conducted for three main reasons:
 
 However, it is usually a requirement that the acquired company or entity, in each scenario, is profitable and growing.
 
-Leveraged buyouts have had a notorious history, especially in the 1980s, when several prominent buyouts led to the eventual bankruptcy of the acquired companies. This was mainly due to the fact that the leverage ratio was nearly 100% and the interest payments were so large that the company's [operating cash flows](https://www.investopedia.com/terms/o/operatingcashflow.asp) were unable to meet the obligation.
+Leveraged buyouts have had a notorious history, especially in the 1980s, when several prominent buyouts led to the eventual bankruptcy of the acquired companies. This was mainly due to the fact that the leverage ratio was nearly 100% and the interest payments were so large that the company's [[operating cash flows]](https://www.investopedia.com/terms/o/operatingcashflow.asp) were unable to meet the obligation.
 
 ## An Example of Leveraged Buyouts (LBO)
 

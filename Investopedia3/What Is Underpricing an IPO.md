@@ -22,7 +22,7 @@ Underpricing is short-lived because investor demand will drive the price upwards
 
 ## Understanding Underpricing
 
-An [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp) is the introduction of a new stock for public trading on a stock exchange. Its purpose is to raise capital for the future growth of the company. 
+An [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp) is the introduction of a new stock for public trading on a stock exchange. Its purpose is to raise capital for the future growth of the company. 
 
 Determining the offering price requires a consideration of many factors. Quantitative factors are considered first. Those are the numbers, real and projected, on cash flow.
 
@@ -39,7 +39,7 @@ Nevertheless, there are two opposing goals at play. The company's executives and
 IPO pricing is far from an exact science, so underpricing an IPO is equally inexact. The process mixes facts, projections, and comparables:
 
 -   Quantitative factors considered include the company's financials including its current sales, expenses, earnings, and cash flow. Projected earnings also are factored in.
--   An IPO price that reflects a [price-to-earnings (P/E)](https://www.investopedia.com/terms/p/price-earningsratio.asp) multiple comparable to the company's industry peers is sought.
+-   An IPO price that reflects a [[price-to-earnings (P/E)]](https://www.investopedia.com/terms/p/price-earningsratio.asp) multiple comparable to the company's industry peers is sought.
 -   The size of the current and near-future market for the product or service that the company produces is considered.
 -   The marketability of the company's stock in the current economic environment also is crucial.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Open Cover
 ## What Is Open Cover?
 
-Open cover is a type of marine [insurance](https://www.investopedia.com/terms/i/insurance.asp) policy in which the insurer agrees to provide coverage for all cargo shipped during the policy period. Open cover insurance is most commonly purchased by companies that make frequent shipments, as the blanket coverage keeps them from having to purchase a new policy each time a shipment is made.
+Open cover is a type of marine [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) policy in which the insurer agrees to provide coverage for all cargo shipped during the policy period. Open cover insurance is most commonly purchased by companies that make frequent shipments, as the blanket coverage keeps them from having to purchase a new policy each time a shipment is made.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ If a company believes it will not be engaging in marine activity that often, it 
 
 The permanent policy covers all voyages under that time period without having to negotiate a contract for each shipment. It is a form of blanket coverage that only requires certain details to be notified before embarking on the voyage.
 
-Since the insured is agreeing to purchase a longer-term contract, it may be able to realize lower [premiums](https://www.investopedia.com/terms/p/premium.asp) because the insurer does not have to spend time on administrative activities and the insurer benefits from having a guaranteed premium over a longer period of time. Premiums are typically paid upon declaration of a voyage, for example, weekly or monthly.
+Since the insured is agreeing to purchase a longer-term contract, it may be able to realize lower [[premiums]](https://www.investopedia.com/terms/p/premium.asp) because the insurer does not have to spend time on administrative activities and the insurer benefits from having a guaranteed premium over a longer period of time. Premiums are typically paid upon declaration of a voyage, for example, weekly or monthly.
 
 Individual countries manage insurance regulations for international shipping, rather than an international organization. Scandinavian countries and the U.K. are well-known marine insurance policy providers, and China is also growing as an [underwriter](https://www.investopedia.com/terms/u/underwriter.asp) country.
 
@@ -43,7 +43,7 @@ Individual countries manage insurance regulations for international shipping, ra
 
 Marine insurance is typically divided into two types: facultative and open cover. Facultative insurance gives the insurance company the option of covering cargo. However, the insured and the insurer must negotiate the terms for each shipment, including the type of coverage, cargo, and ship.
 
-Open cover insurance differs in that the insurer is obligated to provide coverage, provided that the cargo falls within the boundaries outlined in the insurance policy document, and the shipment happens within the policy time period. This makes open cover insurance a form of treaty [reinsurance](https://www.investopedia.com/terms/r/reinsurance.asp).
+Open cover insurance differs in that the insurer is obligated to provide coverage, provided that the cargo falls within the boundaries outlined in the insurance policy document, and the shipment happens within the policy time period. This makes open cover insurance a form of treaty [[reinsurance]](https://www.investopedia.com/terms/r/reinsurance.asp).
 
 ## Requirements for Open Cover
 

@@ -16,7 +16,7 @@ author: Carla Tardi
 Genesis Block Definition
 ## What Is Genesis Block?
 
-Genesis Block is the name of the first block of [Bitcoin](https://www.investopedia.com/terms/b/bitcoin.asp) ever mined—thus called "Genesis." The Genesis Block forms the foundation of the entire Bitcoin trading system and is the prototype of all other blocks in the blockchain. In 2009, Bitcoin's named developer, [Satoshi Nakamoto](https://www.investopedia.com/terms/s/satoshi-nakamoto.asp), created the Genesis Block, which launched the process of Bitcoin trading that's in place today.
+Genesis Block is the name of the first block of [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) ever mined—thus called "Genesis." The Genesis Block forms the foundation of the entire Bitcoin trading system and is the prototype of all other blocks in the blockchain. In 2009, Bitcoin's named developer, [[Satoshi Nakamoto]](https://www.investopedia.com/terms/s/satoshi-nakamoto.asp), created the Genesis Block, which launched the process of Bitcoin trading that's in place today.
 
 Perhaps the true gift of the Genesis Block is its legacy of accountability, integrity, and transparency.
 
@@ -28,11 +28,11 @@ Bitcoin devotees have been donating small amounts of bitcoin (BTC) to the Genesi
 
 ## A Quick Bitcoin Primer
 
-Bitcoin is a type of [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp), which is based on the peer-to-peer electronic cash system developed by Satoshi Nakamoto. Bitcoin refers to the system and concept of the trading platform and "bitcoin"—small "b"—refers to the virtual coinage that is traded. There are no actual coins, thus the "bit"—or binary digit, the most basic unit of data in computing—before "coin."
+Bitcoin is a type of [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp), which is based on the peer-to-peer electronic cash system developed by Satoshi Nakamoto. Bitcoin refers to the system and concept of the trading platform and "bitcoin"—small "b"—refers to the virtual coinage that is traded. There are no actual coins, thus the "bit"—or binary digit, the most basic unit of data in computing—before "coin."
 
-In the world of digital currency, blocks are files where data about the Bitcoin network and its transactions are permanently recorded. Each time a block is completed—that is, filled with bitcoin transactions—it gives way to the next block in the blockchain. The only way to release new cryptocurrency into circulation is through [mining](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/). So, to "mine bitcoin" is to "mint currency."
+In the world of digital currency, blocks are files where data about the Bitcoin network and its transactions are permanently recorded. Each time a block is completed—that is, filled with bitcoin transactions—it gives way to the next block in the blockchain. The only way to release new cryptocurrency into circulation is through [[mining]](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/). So, to "mine bitcoin" is to "mint currency."
 
-Like gold, Bitcoin cannot be created arbitrarily. Gold must be mined out of the ground, and BTC must be mined via digital means. Moreover, Bitcoin's founder stipulated that, like gold, the supply of bitcoin should be limited and finite. [Only 21 million BTC can be mined in total](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/). When miners have unlocked this many bitcoin, then the planet's supply will be tapped out, unless someone changes Bitcoin's protocol to allow for a larger supply.
+Like gold, Bitcoin cannot be created arbitrarily. Gold must be mined out of the ground, and BTC must be mined via digital means. Moreover, Bitcoin's founder stipulated that, like gold, the supply of bitcoin should be limited and finite. [[Only 21 million BTC can be mined in total]](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/). When miners have unlocked this many bitcoin, then the planet's supply will be tapped out, unless someone changes Bitcoin's protocol to allow for a larger supply.
 
 ## Mysteries of the Genesis Block
 

@@ -16,7 +16,7 @@ author: Adam Hayes
 How Working Capital Turnover Works
 ## What Is Working Capital Turnover?
 
-Working capital turnover is a ratio that measures how efficiently a company is using its [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) to support sales and growth. Also known as net sales to working capital, working capital turnover measures the relationship between the funds used to finance a company's operations and the revenues a company generates to continue operations and turn a profit.
+Working capital turnover is a ratio that measures how efficiently a company is using its [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) to support sales and growth. Also known as net sales to working capital, working capital turnover measures the relationship between the funds used to finance a company's operations and the revenues a company generates to continue operations and turn a profit.
 
 ### Key Takeaways
 
@@ -33,25 +33,25 @@ where:
 -   net annual sales is the sum of a company's [gross sales](https://www.investopedia.com/terms/g/grosssales.asp) minus its returns, allowances, and discounts over the course of a year; and
 -   average working capital is average current assets less average current liabilities
 
-The working capital turnover ratio is calculated by dividing net annual sales by the average amount of working capital—[current assets](https://www.investopedia.com/terms/c/currentassets.asp) minus [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp)—during the same 12-month period. For example,
+The working capital turnover ratio is calculated by dividing net annual sales by the average amount of working capital—[current assets](https://www.investopedia.com/terms/c/currentassets.asp) minus [[current liabilities]](https://www.investopedia.com/terms/c/currentliabilities.asp)—during the same 12-month period. For example,
 
 ## What Does Working Capital Turnover Tell You?
 
-A high turnover ratio shows that management is being very efficient in using a company’s short-term assets and liabilities for supporting sales (i.e., it is generating a higher dollar amount of sales for every dollar of the working capital used). In contrast, a low ratio may indicate that a business is investing in too many [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp) and inventory to support its sales, which could lead to an excessive amount of bad debts or obsolete inventory.
+A high turnover ratio shows that management is being very efficient in using a company’s short-term assets and liabilities for supporting sales (i.e., it is generating a higher dollar amount of sales for every dollar of the working capital used). In contrast, a low ratio may indicate that a business is investing in too many [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp) and inventory to support its sales, which could lead to an excessive amount of bad debts or obsolete inventory.
 
-To gauge just how efficient a company is at using its working capital, analysts also compare working capital ratios to those of other companies in the same industry and look at how the ratio has been changing over time. However, such comparisons are meaningless when [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) turns negative because the working capital turnover ratio then also turns negative.
+To gauge just how efficient a company is at using its working capital, analysts also compare working capital ratios to those of other companies in the same industry and look at how the ratio has been changing over time. However, such comparisons are meaningless when [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp) turns negative because the working capital turnover ratio then also turns negative.
 
 ## Working Capital Management
 
-Working capital management commonly involves monitoring cash flow, current assets, and current liabilities through [ratio analysis](https://www.investopedia.com/terms/r/ratioanalysis.asp) of the key elements of operating expenses, including working capital turnover, the collection ratio, and inventory turnover ratio. Working capital management helps maintain the smooth operation of the net operating cycle, also known as the [cash conversion cycle](https://www.investopedia.com/terms/c/cashconversioncycle.asp) (CCC)—the minimum amount of time required to convert net current assets and liabilities into cash. When a company does not have enough working capital to cover its obligations, financial [insolvency](https://www.investopedia.com/terms/i/insolvency.asp) can result and lead to legal troubles, liquidation of assets, and potential [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp).
+Working capital management commonly involves monitoring cash flow, current assets, and current liabilities through [ratio analysis](https://www.investopedia.com/terms/r/ratioanalysis.asp) of the key elements of operating expenses, including working capital turnover, the collection ratio, and inventory turnover ratio. Working capital management helps maintain the smooth operation of the net operating cycle, also known as the [[cash conversion cycle]](https://www.investopedia.com/terms/c/cashconversioncycle.asp) (CCC)—the minimum amount of time required to convert net current assets and liabilities into cash. When a company does not have enough working capital to cover its obligations, financial [insolvency](https://www.investopedia.com/terms/i/insolvency.asp) can result and lead to legal troubles, liquidation of assets, and potential [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp).
 
-To manage how efficiently they use their working capital, companies use [inventory management](https://www.investopedia.com/terms/i/inventory-management.asp) and manage accounts receivables and accounts payable. [Inventory turnover](https://www.investopedia.com/terms/i/inventoryturnover.asp) shows how many times a company has sold and replaced inventory during a period, and the receivable turnover ratio shows how effectively it extends credit and collects debts on that credit.
+To manage how efficiently they use their working capital, companies use [[inventory management]](https://www.investopedia.com/terms/i/inventory-management.asp) and manage accounts receivables and accounts payable. [[Inventory turnover]](https://www.investopedia.com/terms/i/inventoryturnover.asp) shows how many times a company has sold and replaced inventory during a period, and the receivable turnover ratio shows how effectively it extends credit and collects debts on that credit.
 
 ## Special Considerations
 
 A high working capital turnover ratio shows a company is running smoothly and has limited need for additional funding. Money is coming in and flowing out regularly, giving the business flexibility to spend capital on expansion or inventory. A high ratio may also give the business a competitive edge over similar companies as a measure of profitability.
 
-However, an extremely high ratio might indicate that a business does not have enough capital to support its sales growth. Therefore, the company could become insolvent in the near future unless it raises additional capital to support that growth. The working capital turnover indicator may also be misleading when a firm's [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp) are very high, which could indicate that the company is having difficulty paying its bills as they come due.
+However, an extremely high ratio might indicate that a business does not have enough capital to support its sales growth. Therefore, the company could become insolvent in the near future unless it raises additional capital to support that growth. The working capital turnover indicator may also be misleading when a firm's [[accounts payable]](https://www.investopedia.com/terms/a/accountspayable.asp) are very high, which could indicate that the company is having difficulty paying its bills as they come due.
 
 ## Example
 

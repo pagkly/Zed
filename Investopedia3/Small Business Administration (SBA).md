@@ -16,9 +16,9 @@ author: Will Kenton
 Small Business Administration (SBA)
 ## What Is the Small Business Administration?
 
-The Small Business Administration (SBA) is an autonomous U.S. government agency established in 1953 to bolster and promote the economy in general by providing assistance to small businesses. One of the largest functions of the SBA is the provision of counseling to aid individuals trying to [start](https://www.investopedia.com/terms/m/momandpop.asp) and grow businesses.
+The Small Business Administration (SBA) is an autonomous U.S. government agency established in 1953 to bolster and promote the economy in general by providing assistance to small businesses. One of the largest functions of the SBA is the provision of counseling to aid individuals trying to [[start]](https://www.investopedia.com/terms/m/momandpop.asp) and grow businesses.
 
-On the [agency’s website](https://www.sba.gov/), there is a wealth of tools to assist small businesses including a small business planner and additional training programs. Localized SBA offices throughout the United States and associated territories offer in-person, one-on-one counseling services that include business plan writing instruction, and assistance with small business [loans](https://www.investopedia.com/terms/l/loan.asp).
+On the [[agency’s website]](https://www.sba.gov/), there is a wealth of tools to assist small businesses including a small business planner and additional training programs. Localized SBA offices throughout the United States and associated territories offer in-person, one-on-one counseling services that include business plan writing instruction, and assistance with small business [[loans]](https://www.investopedia.com/terms/l/loan.asp).
 
 The SBA is headed by the administrator and deputy administrator, and also has a chief counsel for advocacy and inspector general—all of which are confirmed by the Senate. The Small Business Administration has at least one office in every state.
 
@@ -50,11 +50,11 @@ The SBA faced another threat from President Bush and his administration. Though 
 
 ## The SBA Loan Program
 
-The loan programs offered by the SBA are among the most visible elements the agency provides. The organization does not offer grants or direct loans, with the exception of disaster relief loans, but instead, guarantees against [default](https://www.investopedia.com/terms/d/default2.asp) pieces of business loans extended by banks and other official lenders that meet the agency’s guidelines. The number one function of these loan programs is to make loans with longer [repayment](https://www.investopedia.com/terms/r/repayment.asp) periods available to small businesses.
+The loan programs offered by the SBA are among the most visible elements the agency provides. The organization does not offer grants or direct loans, with the exception of disaster relief loans, but instead, guarantees against [[default]](https://www.investopedia.com/terms/d/default2.asp) pieces of business loans extended by banks and other official lenders that meet the agency’s guidelines. The number one function of these loan programs is to make loans with longer [[repayment]](https://www.investopedia.com/terms/r/repayment.asp) periods available to small businesses.
 
 Loans backed by the SBA include 504 Loan—also called a grow loan— which provides small businesses with financing to buy some of the fixed assets they need to run their operations including real estate. The 7(a) loan, on the other hand is the agency's primary loan program. The maximum loan amount guaranteed under this program is $5 million.
 
-As part of the government response to COVID-19, several new [SBA loan programs](https://www.investopedia.com/articles/personal-finance/091514/expanding-your-small-business-sba-loan.asp) have been developed and implementing.
+As part of the government response to COVID-19, several new [[SBA loan programs]](https://www.investopedia.com/articles/personal-finance/091514/expanding-your-small-business-sba-loan.asp) have been developed and implementing.
 
 Other SBA-guaranteed loan programs include
 
@@ -68,4 +68,4 @@ These loans are generally provided by financial institutions, with the SBA actin
 
 ## The Future of the SBA
 
-Despite numerous attempts to do away with the SBA entirely, many political officials and offices continue to support the agency. The SBA’s ability to offer loans has also been significantly strengthened by the [American Recovery and Reinvestment Act](https://www.investopedia.com/terms/a/american-recovery-and-reinvestment-act.asp) of 2009 and the Small Business Jobs Act of 2010.
+Despite numerous attempts to do away with the SBA entirely, many political officials and offices continue to support the agency. The SBA’s ability to offer loans has also been significantly strengthened by the [[American Recovery and Reinvestment Act]](https://www.investopedia.com/terms/a/american-recovery-and-reinvestment-act.asp) of 2009 and the Small Business Jobs Act of 2010.

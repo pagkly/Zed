@@ -18,11 +18,11 @@ Considering a New Venture? Consider a Feasibility Study
 
 A feasibility study is an analysis that takes all of a project's relevant factors into account—including economic, technical, legal, and scheduling considerations—to ascertain the likelihood of completing the project successfully. Project managers use feasibility studies to discern the pros and cons of undertaking a project before they invest a lot of time and money into it.
 
-Feasibility studies also can provide a company's management with crucial information that could prevent the company from entering blindly into [risky](https://www.investopedia.com/terms/r/risk.asp) businesses.
+Feasibility studies also can provide a company's management with crucial information that could prevent the company from entering blindly into [[risky]](https://www.investopedia.com/terms/r/risk.asp) businesses.
 
 ## Understanding Feasibility Studies
 
-A feasibility study is simply an assessment of the practicality of a proposed plan or project. As the name implies, these studies ask: Is this project feasible? Do we have the people, tools, technology, and resources necessary for this project to succeed? Will the project get us the [return on investment](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI) that we need and expect?
+A feasibility study is simply an assessment of the practicality of a proposed plan or project. As the name implies, these studies ask: Is this project feasible? Do we have the people, tools, technology, and resources necessary for this project to succeed? Will the project get us the [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI) that we need and expect?
 
 The goals of feasibility studies are as follows:
 
@@ -47,7 +47,7 @@ Feasibility studies reflect a project's unique goals and needs, so each is diffe
 -   Conduct a market survey or market research to enhance data collection
 -   Write an organizational, operational, or a business plan
 -   Prepare a projected income statement
--   Prepare an opening day [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp)
+-   Prepare an opening day [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp)
 -   Make an initial "go" or "no-go" decision about moving ahead with the plan
 
 ### Suggested Components
@@ -58,7 +58,7 @@ Once you have finished your basic due diligence, you might consider the elements
 -   **Technological considerations**: Ask what will it take. Do you have it? If not, can you get it? What will it cost?
 -   **Existing marketplace**: Examine the local and broader markets for the product, service, plan, or business.
 -   **Marketing strategy**: Describe it in detail.
--   **Required staffing** (including an organizational chart): What are the [human capital](https://www.investopedia.com/terms/h/humancapital.asp) needs for this project?
+-   **Required staffing** (including an organizational chart): What are the [[human capital]](https://www.investopedia.com/terms/h/humancapital.asp) needs for this project?
 -   **Schedule and timeline**: Include significant interim markers for the project's completion date.
 -   **Project financials**.
 -   **Findings and recommendations**: Break down into subsets of technology, marketing, organization, and financials.

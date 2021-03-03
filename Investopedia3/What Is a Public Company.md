@@ -16,7 +16,7 @@ author: Caroline Banton
 What Is a Public Company?
 ## What Is a Public Company?
 
-A public company—also called a publicly traded company—is a [corporation](https://www.investopedia.com/terms/c/corporation.asp) whose shareholders have a claim to part of the company's assets and profits. Through the free trade of shares of stock on stock exchanges or over-the-counter (OTC) markets, ownership of a public company is distributed among general public shareholders.
+A public company—also called a publicly traded company—is a [[corporation]](https://www.investopedia.com/terms/c/corporation.asp) whose shareholders have a claim to part of the company's assets and profits. Through the free trade of shares of stock on stock exchanges or over-the-counter (OTC) markets, ownership of a public company is distributed among general public shareholders.
 
 Many Americans invest directly in public companies, and if you have any type of pension plan or own a mutual fund, it's likely that the plan or fund owns some stock in public companies.
 
@@ -54,7 +54,7 @@ However, the ability to access the public capital markets also comes with increa
 
 Public companies must meet mandatory reporting standards regulated by government entities, and they must file reports with the SEC on an ongoing basis. The SEC sets stringent reporting requirements for public companies. These requirements include the public disclosure of financial statements and an annual financial report—called a Form 10-K—that gives a comprehensive summary of a company's financial performance. Companies must also file quarterly financial reports—called Form 10-Q—and current reports on Form 8-K to report when certain events occur, such as the election of new directors or the completion of an acquisition.
 
-These reporting requirements were established by the [Sarbanes-Oxley Act](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp), a set of reforms intended to prevent fraudulent reporting.5 Additionally, qualified shareholders are entitled to specific documents and notifications about the corporation's business activities.
+These reporting requirements were established by the [[Sarbanes-Oxley Act]](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp), a set of reforms intended to prevent fraudulent reporting.5 Additionally, qualified shareholders are entitled to specific documents and notifications about the corporation's business activities.
 
 Finally, once a company is public, it must answer to its shareholders. Shareholders elect a board of directors who oversee the company's operations on their behalf. Furthermore, certain activities—such as mergers and acquisitions and certain corporate structure changes and amendments—must be brought up for shareholder approval. This effectively means that shareholders can control many of the company's decisions.
 
@@ -62,7 +62,7 @@ Finally, once a company is public, it must answer to its shareholders. Sharehold
 
 ### Transitioning From a Public Company to a Private Company
 
-There may be some situations where a public company no longer wishes to operate within the business model required of a public company. There are [many reasons why a public company may decide to go private](https://www.investopedia.com/articles/stocks/08/public-companies-privatize-go-private.asp). A company may decide that it does not want to have to comply with the costly and time-consuming regulatory requirements of a public company, or a company may want to free up its resources to devote to research and development (R&D), capital expenditures, and the funding of pension plans for its employees.
+There may be some situations where a public company no longer wishes to operate within the business model required of a public company. There are [[many reasons why a public company may decide to go private]](https://www.investopedia.com/articles/stocks/08/public-companies-privatize-go-private.asp). A company may decide that it does not want to have to comply with the costly and time-consuming regulatory requirements of a public company, or a company may want to free up its resources to devote to research and development (R&D), capital expenditures, and the funding of pension plans for its employees.
 
 When a company transitions to private, a "take-private" transaction is necessary. In a "take-private" transaction, a private equity firm, or a consortium of private equity firms, either purchase or acquires all of the outstanding stock of the publicly-listed company. Sometimes this requires the private equity firm to secure additional financing from an investment bank or another type of [lender](https://www.investopedia.com/terms/l/lender.asp) that can provide enough loans to help finance the deal.
 

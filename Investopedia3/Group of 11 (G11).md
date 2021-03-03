@@ -22,6 +22,6 @@ The G11 member countries are: Croatia, Ecuador, El Salvador, Georgia, Honduras, 
 
 ## Understanding Group of 11 (G11)
 
-The Group of 11 (G-11) member countries believe that their debt hinders their development in that it consumes much of their [export](https://www.investopedia.com/terms/e/export.asp) earnings and fiscal revenues. They believe it is in the interest of [G-8 countries](https://www.investopedia.com/terms/g/g8.asp) that their debt is written off and/or converted into assistance for economic development projects.
+The Group of 11 (G-11) member countries believe that their debt hinders their development in that it consumes much of their [[export]](https://www.investopedia.com/terms/e/export.asp) earnings and fiscal revenues. They believe it is in the interest of [[G-8 countries]](https://www.investopedia.com/terms/g/g8.asp) that their debt is written off and/or converted into assistance for economic development projects.
 
 In addition, tariffs imposed by the G88 and other developed countries also hamper the growth of national income and the improvement of living standards, which often pursue development via export-led growth. The group, therefore, also seeks to work with member countries of the Group of Eight (G-8) for increased market access, lower tariffs and investment. G-11 members believe that the international donor community can help accelerate global peace and security by helping those countries achieve sustained economic growth.

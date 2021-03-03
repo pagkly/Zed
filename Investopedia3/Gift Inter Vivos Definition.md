@@ -16,7 +16,7 @@ author: Julia Kagan
 Gift Inter Vivos Definition
 ## What Is Gift Inter Vivos?
 
-A gift inter vivos, which means a gift between the living in Latin, is a legal term that refers to a transfer or gift made during the life of the grantor. Inter vivos gifts, which includes property related to an estate, are not subject to [probate](https://www.investopedia.com/terms/p/probate.asp) taxes since they are not part of the donor's estate at death. An inter vivos transfer is one made during the grantor's lifetime.
+A gift inter vivos, which means a gift between the living in Latin, is a legal term that refers to a transfer or gift made during the life of the grantor. Inter vivos gifts, which includes property related to an estate, are not subject to [[probate]](https://www.investopedia.com/terms/p/probate.asp) taxes since they are not part of the donor's estate at death. An inter vivos transfer is one made during the grantor's lifetime.
 
 Gifts that exceed $15,000 per year are subject to gift taxes if they are made to someone other than a spouse or qualified charity. The actual value of the gifted property is calculated at the time of the transfer. The person receiving the gift does not need to report the gift to the IRS or pay income tax on it, but the giver of the gift must pay gift taxes on it if it exceeds the $15,000 threshold.
 
@@ -28,7 +28,7 @@ Gifts that exceed $15,000 per year are subject to gift taxes if they are made to
 
 ## Understanding Gift Inter Vivos
 
-A gift inter vivos is a useful estate planning strategy for several reasons. In addition to avoiding probate taxes, if given as a donation to a [charitable foundation](https://www.investopedia.com/terms/c/charitabledonation.asp), the person making the gift can use the value amount as a tax credit on their tax return.
+A gift inter vivos is a useful estate planning strategy for several reasons. In addition to avoiding probate taxes, if given as a donation to a [[charitable foundation]](https://www.investopedia.com/terms/c/charitabledonation.asp), the person making the gift can use the value amount as a tax credit on their tax return.
 
 Also, many people give inter vivos gifts simply because they want to oversee the gift during their lifetime, unlike gifts that are bequeathed through a will or a trust. Having the flexibility to distribute the property as intended is attractive to many people. There are minimal reporting requirements as well, so a grantor’s property and affairs can retain a measure of confidentiality.
 
@@ -36,9 +36,9 @@ Gifts that exceed $15,000 may be subject to gift tax if not given to a charity.
 
 ## Making an Inter Vivos Gift
 
-The donor must be of legal capacity and be at least 18 years of age when making the gift. The intent to make a gift should be confirmed in writing and there must be a present and irrevocable transfer of title or right of ownership. A donor cannot intend for the gift to transfer after his death. Delivery should be immediate either physically or symbolically, particularly when the gift involves the transfer of [property](https://www.investopedia.com/terms/p/property.asp) or something that is physically impractical to deliver.
+The donor must be of legal capacity and be at least 18 years of age when making the gift. The intent to make a gift should be confirmed in writing and there must be a present and irrevocable transfer of title or right of ownership. A donor cannot intend for the gift to transfer after his death. Delivery should be immediate either physically or symbolically, particularly when the gift involves the transfer of [[property]](https://www.investopedia.com/terms/p/property.asp) or something that is physically impractical to deliver.
 
-Following the gift, the person making the gift relinquishes any rights to the property and can not get it back without the permission of the party that received the gift. Any attempt to control the gifted property or derive a benefit from it may result in voiding the [tax-exempt](https://www.investopedia.com/terms/t/tax_exempt.asp) nature of the gift, thus putting the legal status of the transfer in question and making it susceptible to tax.
+Following the gift, the person making the gift relinquishes any rights to the property and can not get it back without the permission of the party that received the gift. Any attempt to control the gifted property or derive a benefit from it may result in voiding the [[tax-exempt]](https://www.investopedia.com/terms/t/tax_exempt.asp) nature of the gift, thus putting the legal status of the transfer in question and making it susceptible to tax.
 
 The recipient must accept the gift as well. Should the gift have actual value, the law assumes the recipient will accept it. However, it is customary for the person receiving the gift to indicate their acceptance in writing to avoid any confusion and to formally complete the transaction.
 

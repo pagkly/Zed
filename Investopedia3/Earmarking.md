@@ -16,7 +16,7 @@ author: Adam Hayes
 Earmarking
 ## What Is Earmarking?
 
-Earmarking is the practice of setting particular money aside for a specific purpose. The term can be used in several contexts, such as in congressional appropriations of taxpayer funds to individual practices like [mental accounting](https://www.investopedia.com/terms/m/mentalaccounting.asp).
+Earmarking is the practice of setting particular money aside for a specific purpose. The term can be used in several contexts, such as in congressional appropriations of taxpayer funds to individual practices like [[mental accounting]](https://www.investopedia.com/terms/m/mentalaccounting.asp).
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Earmarking is the practice of setting particular money aside for a specific purp
 
 ## Understanding Earmarking
 
-The phrase has an agricultural origin. Farmers would cut recognizable notches in their livestock's ears to mark the animals as belonging to them. In its most basic sense, to earmark is to flag something for a specific purpose. In practice, it generally means to set funds aside for a particular project. A company might earmark a sum to spend on upgrading its IT system, or a city government might earmark the proceeds of a [municipal bond](https://www.investopedia.com/terms/m/municipalbond.asp) issue to pay for a new road or bridge.
+The phrase has an agricultural origin. Farmers would cut recognizable notches in their livestock's ears to mark the animals as belonging to them. In its most basic sense, to earmark is to flag something for a specific purpose. In practice, it generally means to set funds aside for a particular project. A company might earmark a sum to spend on upgrading its IT system, or a city government might earmark the proceeds of a [[municipal bond]](https://www.investopedia.com/terms/m/municipalbond.asp) issue to pay for a new road or bridge.
 
 In social science, the term earmarking has been associated with the economic sociologist Viviana Zelizer, who identifies the practice of earmarking as imbuing certain dollars with specific meaning related to the relational ties and cultural meaning for what that money is earmarked for—claiming the "not all dollars are equal."
 
@@ -34,7 +34,7 @@ Therefore, money earmarked for a loved one will be treated more carefully than m
 
 ## Earmarking Doctrine in Bankruptcy Law
 
-In [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) law, the earmarking doctrine allows certain borrowed funds to be excluded from a bankrupt party's assets, as long as they were lent to the borrower 90 or fewer days before the bankruptcy filing and were lent with the express intention of paying a specific creditor.
+In [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) law, the earmarking doctrine allows certain borrowed funds to be excluded from a bankrupt party's assets, as long as they were lent to the borrower 90 or fewer days before the bankruptcy filing and were lent with the express intention of paying a specific creditor.
 
 Earmarking ensures that the funds will go to the intended creditor, rather than being subject to claims by other creditors who have preference in the bankruptcy proceedings. The doctrine is based on the idea that, because there was no net decrease in the bankrupt party's asset base, the funds never really belonged to the bankrupt party; they "borrowed from Peter to pay Paul."
 
@@ -54,7 +54,7 @@ The bridge was not built, but funds for a road leading to it continued to flow, 
 
 ### Earmarking Moratorium
 
-Outrage over pork led Congress to ban earmarks in 2011, with Republicans leading the effort. Citizens Against Government Waste, a fiscally conservative watchdog group, claims that this ban has failed in practice, writing in its 2017 [Pig Book](https://www.cagw.org/sites/default/files/pdf/2017_Congressional_Pig_Book_Web_Version.pdf), "Pork-barrel spending is alive and well in Washington, D.C., despite claims to the contrary." The group counted 163 earmarks worth $6.8 billion in fiscal 2017, up from 123 worth $5.1 billion the previous year. In 2006, the group tallied $29 billion worth of pork, around 1% of total federal outlays.
+Outrage over pork led Congress to ban earmarks in 2011, with Republicans leading the effort. Citizens Against Government Waste, a fiscally conservative watchdog group, claims that this ban has failed in practice, writing in its 2017 [[Pig Book]](https://www.cagw.org/sites/default/files/pdf/2017_Congressional_Pig_Book_Web_Version.pdf), "Pork-barrel spending is alive and well in Washington, D.C., despite claims to the contrary." The group counted 163 earmarks worth $6.8 billion in fiscal 2017, up from 123 worth $5.1 billion the previous year. In 2006, the group tallied $29 billion worth of pork, around 1% of total federal outlays.
 
 ### In Favor of Political Earmarks
 

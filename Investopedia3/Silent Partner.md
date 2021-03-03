@@ -16,15 +16,15 @@ author: Will Kenton
 Silent Partner
 ## What Is a Silent Partner?
 
-A silent partner is an individual whose involvement in a partnership is limited to providing capital to the business. A [silent partner](https://www.investopedia.com/ask/answers/062515/what-difference-between-silent-partner-and-general-partner.asp) is seldom involved in the partnership's daily operations and does not generally participate in management meetings. Silent partners are also known as limited partners, since their liability is typically limited to the amount invested in the partnership.
+A silent partner is an individual whose involvement in a partnership is limited to providing capital to the business. A [[silent partner]](https://www.investopedia.com/ask/answers/062515/what-difference-between-silent-partner-and-general-partner.asp) is seldom involved in the partnership's daily operations and does not generally participate in management meetings. Silent partners are also known as limited partners, since their liability is typically limited to the amount invested in the partnership.
 
-Apart from providing [capital](https://www.investopedia.com/ask/answers/031715/what-difference-between-financial-capital-and-economic-capital.asp), an effective silent partner can benefit an enterprise by giving guidance when solicited, providing business contacts to develop the business, and stepping in for mediation when a dispute arises between other partners.
+Apart from providing [[capital]](https://www.investopedia.com/ask/answers/031715/what-difference-between-financial-capital-and-economic-capital.asp), an effective silent partner can benefit an enterprise by giving guidance when solicited, providing business contacts to develop the business, and stepping in for mediation when a dispute arises between other partners.
 
 Regardless of such requests, it is considered a background role that cedes control to the general partner. This requires the silent partner to have full confidence in the general partner's ability to grow the business. The silent partner also may need to ensure that their management styles or corporate visions are compatible.
 
 ## How Silent Partners Work
 
-As with other [partnership agreements](https://www.investopedia.com/ask/answers/041015/which-terms-should-be-included-partnership-agreement.asp), a silent partnership generally calls for a formal agreement in writing. Prior to the formation of a silent partnership, the business must be registered either as a general partnership or a limited liability partnership per state regulations.
+As with other [[partnership agreements]](https://www.investopedia.com/ask/answers/041015/which-terms-should-be-included-partnership-agreement.asp), a silent partnership generally calls for a formal agreement in writing. Prior to the formation of a silent partnership, the business must be registered either as a general partnership or a limited liability partnership per state regulations.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ As with other [partnership agreements](https://www.investopedia.com/ask/answers/
 -   While not active in daily management, a silent partner still may serve an advisory role.
 -   A silent partner can earn a passive income from an investment should the business become profitable.
 
-All parties will be responsible for ensuring the business's financial obligations are met, including any general expenses or applicable taxes, except those that are exempt if the partnership is formed as part of a [limited liability company](https://www.investopedia.com/terms/l/llc.asp) (LLC).
+All parties will be responsible for ensuring the business's financial obligations are met, including any general expenses or applicable taxes, except those that are exempt if the partnership is formed as part of a [[limited liability company]](https://www.investopedia.com/terms/l/llc.asp) (LLC).
 
 A partnership agreement designates which parties are general partners or silent partners. This serves as an outline to which functions, both financial and operational, the general partner will perform as well as the financial obligations that are assumed by the silent partner. Additionally, it includes the earnings percentage due to each partner in regard to business profits.
 

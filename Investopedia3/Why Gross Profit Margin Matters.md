@@ -16,13 +16,13 @@ author: Andrew Bloomenthal
 Why Gross Profit Margin Matters
 ## What Is Gross Profit Margin?
 
-Gross profit margin is a metric analysts use to assess a company's [financial health](https://www.investopedia.com/terms/f/financial-health.asp) by calculating the amount of money left over from product sales after subtracting the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS). Sometimes referred to as the gross margin ratio, gross profit margin is frequently expressed as a percentage of sales.
+Gross profit margin is a metric analysts use to assess a company's [[financial health]](https://www.investopedia.com/terms/f/financial-health.asp) by calculating the amount of money left over from product sales after subtracting the [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS). Sometimes referred to as the gross margin ratio, gross profit margin is frequently expressed as a percentage of sales.
 
 ### Key Takeaways
 
 -   Gross profit margin is an analytical metric expressed as a company's net sales minus the cost of goods sold (COGS).
 -   Gross profit margin is often shown as the gross profit as a percentage of net sales.
--   The gross profit margin shows the amount of profit made before deducting selling, general, and administrative costs, which is the firm's [net profit margin](https://www.investopedia.com/terms/n/net_margin.asp).
+-   The gross profit margin shows the amount of profit made before deducting selling, general, and administrative costs, which is the firm's [[net profit margin]](https://www.investopedia.com/terms/n/net_margin.asp).
 
 ## The Formula for Gross Profit Margin
 
@@ -34,7 +34,7 @@ A company's gross profit margin percentage is calculated by first subtracting th
 
 ## What Does the Gross Profit Margin Tell You?
 
-If a company's gross profit margin wildly fluctuates, this may signal poor management practices and/or inferior products. On the other hand, such fluctuations may be justified in cases where a company makes sweeping operational [changes to its business model](https://www.investopedia.com/articles/personal-finance/093015/whats-good-profit-margin-new-business.asp), in which case temporary volatility should be no cause for alarm.
+If a company's gross profit margin wildly fluctuates, this may signal poor management practices and/or inferior products. On the other hand, such fluctuations may be justified in cases where a company makes sweeping operational [[changes to its business model]](https://www.investopedia.com/articles/personal-finance/093015/whats-good-profit-margin-new-business.asp), in which case temporary volatility should be no cause for alarm.
 
 For example, if a company decides to automate certain supply chain functions, the initial investment may be high, but the cost of goods ultimately decreases due to the lower labor costs resulting from the introduction of the automation.
 

@@ -31,7 +31,7 @@ Although Johnson's policies targeted education, workforce training, healthcare, 
 
 ## Understanding the Great Society
 
-The initiatives that comprised the Great Society have been compared, in their scope and their intent, to President Franklin D. Roosevelt’s [New Deal](https://www.investopedia.com/terms/n/new-deal.asp) programs, enacted in the U.S. between 1933 and 1939.2
+The initiatives that comprised the Great Society have been compared, in their scope and their intent, to President Franklin D. Roosevelt’s [[New Deal]](https://www.investopedia.com/terms/n/new-deal.asp) programs, enacted in the U.S. between 1933 and 1939.2
 
 The Great Society is considered one of the largest social reform plans in modern history. It produced Medicare, Medicaid, the Older Americans Act, and the Elementary and Secondary Education Act (ESEA) of 1965, all of which remain government programs. In addition, Johnson's efforts helped to establish greater civil and voting rights, greater environmental protections, and increased aid to public schools.
 
@@ -43,13 +43,13 @@ In March 1964, Johnson introduced the Office of Economic Opportunity and the Eco
 
 ### Healthcare
 
-When Johnson took office, many of the elderly and underprivileged members of the U.S. lacked any health insurance. When Johnson became the President, the [Medicare](https://www.investopedia.com/terms/m/medicare.asp) and [Medicaid](https://www.investopedia.com/terms/m/medicaid.asp) programs became part of U.S. law. Medicare helped to provide coverage for hospital and physician visits for the elderly; the Medicaid program helped to cover healthcare costs for those suffering from poverty and receiving assistance from the government.4 
+When Johnson took office, many of the elderly and underprivileged members of the U.S. lacked any health insurance. When Johnson became the President, the [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) and [[Medicaid]](https://www.investopedia.com/terms/m/medicaid.asp) programs became part of U.S. law. Medicare helped to provide coverage for hospital and physician visits for the elderly; the Medicaid program helped to cover healthcare costs for those suffering from poverty and receiving assistance from the government.4 
 
 ### Education
 
 Project Head Start began as an eight-week summer camp. It was operated by the Office of Economic Opportunity, and 500,000 children aged from three to five received preschool education.5 In 1965, the Elementary and Secondary Education Act was passed, which guaranteed federal funding for education in school districts where the majority of students were living in low-income households.6
 
-Great Society policies also focused on urban renewal. Following [World War II](https://www.investopedia.com/articles/markets/022516/economic-conditions-helped-cause-world-war-ii.asp), many major cities were in poor condition, and affordable housing was hard to find, particularly for the disadvantaged and underprivileged. The Housing and Urban Development Act of 1965 provided federal funds to cities so they could invest in urban development that met minimum housing standards.7 The Act provided better access to home mortgages and a rent-subsidy program.
+Great Society policies also focused on urban renewal. Following [[World War II]](https://www.investopedia.com/articles/markets/022516/economic-conditions-helped-cause-world-war-ii.asp), many major cities were in poor condition, and affordable housing was hard to find, particularly for the disadvantaged and underprivileged. The Housing and Urban Development Act of 1965 provided federal funds to cities so they could invest in urban development that met minimum housing standards.7 The Act provided better access to home mortgages and a rent-subsidy program.
 
 Johnson also created additional support for the arts and humanities by signing the National Foundation on the Arts and Humanities Act in 1965.8
 

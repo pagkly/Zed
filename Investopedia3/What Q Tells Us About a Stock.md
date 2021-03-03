@@ -16,7 +16,7 @@ author: Troy Segal
 What Q Tells Us About a Stock
 ## What Is Q?
 
-The letter Q used to be part of the [ticker symbol](https://www.investopedia.com/terms/t/tickersymbol.asp) for a stock trading on the Nasdaq, specifying that a particular company was in [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) proceedings. If the letter Q appeared as the final letter of a NASDAQ symbol, it meant, "bankrupt: issuer has filed for bankruptcy," as the Nasdaq put it.
+The letter Q used to be part of the [[ticker symbol]](https://www.investopedia.com/terms/t/tickersymbol.asp) for a stock trading on the Nasdaq, specifying that a particular company was in [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) proceedings. If the letter Q appeared as the final letter of a NASDAQ symbol, it meant, "bankrupt: issuer has filed for bankruptcy," as the Nasdaq put it.
 
 ### Key Takeaways
 

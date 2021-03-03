@@ -60,8 +60,8 @@ Exclusions classify certain types of income as tax-free or as tax relief, reduci
 
 In some cases, income that has been excluded for tax purposes is not recorded on the return. In other cases, it is recorded in one section of the return and then deducted in another section.
 
-For example, the value of company-paid health insurance is not recorded on an individual tax return, and employees do not pay income tax for that cost. Their employers, on the other hand, deduct the cost as a [business expense](https://www.investopedia.com/terms/b/businessexpenses.asp).3 4
+For example, the value of company-paid health insurance is not recorded on an individual tax return, and employees do not pay income tax for that cost. Their employers, on the other hand, deduct the cost as a [[business expense]](https://www.investopedia.com/terms/b/businessexpenses.asp).3 4
 
 ### Tax Debt Forgiveness
 
-The IRS has a program called [Fresh Start](https://www.irs.gov/pub/irs-utl/oc_theirsfreshstartprogramcanhelpyoupayyourtaxesfinal.pdf) that offers a number of options for taxpayers to settle outstanding tax debts, often for a percentage of the original liability.5 The agency can provide a tax relief arrangement to help people pay the reduced tax amounts over time and avoid a tax lien.6
+The IRS has a program called [[Fresh Start]](https://www.irs.gov/pub/irs-utl/oc_theirsfreshstartprogramcanhelpyoupayyourtaxesfinal.pdf) that offers a number of options for taxpayers to settle outstanding tax debts, often for a percentage of the original liability.5 The agency can provide a tax relief arrangement to help people pay the reduced tax amounts over time and avoid a tax lien.6

@@ -18,7 +18,7 @@ How a Flexible Manufacturing System (FMS) Works
 
 A flexible manufacturing system (FMS) is a production method that is designed to easily adapt to changes in the type and quantity of the product being manufactured. Machines and computerized systems can be configured to manufacture a variety of parts and handle changing levels of production.
 
-A flexible manufacturing system (FMS) can improve efficiency and thus lower a company's [production cost](https://www.investopedia.com/terms/p/production-cost.asp). Flexible manufacturing also can be a key component of a make-to-order strategy that allows customers to customize the products they want.
+A flexible manufacturing system (FMS) can improve efficiency and thus lower a company's [[production cost]](https://www.investopedia.com/terms/p/production-cost.asp). Flexible manufacturing also can be a key component of a make-to-order strategy that allows customers to customize the products they want.
 
 Such flexibility can come with higher upfront costs. Purchasing and installing the specialized equipment that allows for such customization may be costly compared with more traditional systems.
 
@@ -30,7 +30,7 @@ Systems based on Lemelson's FMS inventions debuted on factory floors in the U.S.
 
 A flexible manufacturing system may include a configuration of interconnected processing workstations with computer terminals that process the end-to-end creation of a product, from loading/unloading functions to machining and assembly to storing to quality testing and data processing. The system can be programmed to run a batch of one set of products in a particular quantity and then automatically switch over to another set of products in another quantity.
 
-A [make-to-order](https://www.investopedia.com/terms/m/make-to-order.asp) production process that allows customers to customize their products would also be an example of flexible manufacturing.
+A [[make-to-order]](https://www.investopedia.com/terms/m/make-to-order.asp) production process that allows customers to customize their products would also be an example of flexible manufacturing.
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ A [make-to-order](https://www.investopedia.com/terms/m/make-to-order.asp) produc
 
 ## Pros and Cons of a Flexible Manufacturing System
 
-The main benefit is the enhancement of production efficiency. Downtime is reduced because the [production line](https://www.investopedia.com/terms/p/product-line.asp) does not have to be shut down to set up for a different product.
+The main benefit is the enhancement of production efficiency. Downtime is reduced because the [[production line]](https://www.investopedia.com/terms/p/product-line.asp) does not have to be shut down to set up for a different product.
 
 Flexible manufacturing can be a key component of a make-to-order strategy that allows customers to customize the products they want.
 

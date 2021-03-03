@@ -18,7 +18,7 @@ What Does the Price-to-Sales (P/S) Ratio Reveal?
 
 The price-to-sales (P/S) ratio is a valuation ratio that compares a company’s stock price to its revenues. It is an indicator of the value that financial markets have placed on each dollar of a company’s sales or revenues.
 
-The P/S ratio can be calculated either by dividing the company’s [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) by its total sales over a designated period (usually twelve months) or on a per-share basis by dividing the stock price by [sales per share](https://www.investopedia.com/terms/s/salespershare.asp). The P/S ratio is also known as a sales multiple or revenue multiple.
+The P/S ratio can be calculated either by dividing the company’s [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) by its total sales over a designated period (usually twelve months) or on a per-share basis by dividing the stock price by [[sales per share]](https://www.investopedia.com/terms/s/salespershare.asp). The P/S ratio is also known as a sales multiple or revenue multiple.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ The P/S ratio can be calculated either by dividing the company’s [market capit
 
 ## Understanding the Price-to-Sales (P/S) Ratio
 
-The price-to-sales ratio is a key analysis and valuation tool for investors and analysts. The [ratio](https://www.investopedia.com/terms/r/ratioanalysis.asp) shows how much investors are willing to pay per dollar of sales. Like all ratios, the P/S ratio is most relevant when used to compare companies in the same sector. A low ratio may indicate the stock is [undervalued](https://www.investopedia.com/terms/u/undervalued.asp), while a ratio that is significantly above the average may suggest overvaluation.
+The price-to-sales ratio is a key analysis and valuation tool for investors and analysts. The [[ratio]](https://www.investopedia.com/terms/r/ratioanalysis.asp) shows how much investors are willing to pay per dollar of sales. Like all ratios, the P/S ratio is most relevant when used to compare companies in the same sector. A low ratio may indicate the stock is [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp), while a ratio that is significantly above the average may suggest overvaluation.
 
-The typical 12-month period used for sales in the price-to-sales ratio is generally the past four quarters (also called [trailing 12 months](https://www.investopedia.com/terms/t/ttm.asp) or TTM), or the most recent or current [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY). A price-to-sales ratio that is based on forecast sales for the current year is called a forward ratio.
+The typical 12-month period used for sales in the price-to-sales ratio is generally the past four quarters (also called [[trailing 12 months]](https://www.investopedia.com/terms/t/ttm.asp) or TTM), or the most recent or current [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp) (FY). A price-to-sales ratio that is based on forecast sales for the current year is called a forward ratio.
 
 As is the case with other ratios, the P/S ratio is of greatest value when it is used for comparing companies within the same sector.
 
@@ -39,11 +39,11 @@ As is the case with other ratios, the P/S ratio is of greatest value when it is 
 
 P/S Ratio\=MVSSPSwhere:MVS\=Market Value per ShareSPS\=Sales per Share\\begin{aligned} &\\text{P/S Ratio}=\\frac{MVS}{SPS}\\\\ &\\textbf{where:}\\\\ &MVS = \\text{Market Value per Share}\\\\ &SPS = \\text{Sales per Share}\\\\ \\end{aligned}
 
-To determine the P/S ratio, one must divide the current stock price by the [sales per share](https://www.investopedia.com/terms/s/salespershare.asp). The current stock price can be found by plugging the stock symbol into any major finance website. The sales per share metric is calculated by dividing a company’s sales by the number of [outstanding shares](https://www.investopedia.com/terms/o/outstandingshares.asp).
+To determine the P/S ratio, one must divide the current stock price by the [[sales per share]](https://www.investopedia.com/terms/s/salespershare.asp). The current stock price can be found by plugging the stock symbol into any major finance website. The sales per share metric is calculated by dividing a company’s sales by the number of [[outstanding shares]](https://www.investopedia.com/terms/o/outstandingshares.asp).
 
 ## Examples of Price-to-Sales Ratio
 
-As an example, consider the quarterly sales for Acme Co. shown in the table below. The sales for fiscal year 1 (FY1) are actual sales, while sales for FY2 are [analysts’ average forecasts](https://www.investopedia.com/terms/f/forecasting.asp) (assume that we are currently in the first quarter or Q1 of FY2). Acme has 100 million shares outstanding, with the shares presently trading at $10 per share.
+As an example, consider the quarterly sales for Acme Co. shown in the table below. The sales for fiscal year 1 (FY1) are actual sales, while sales for FY2 are [[analysts’ average forecasts]](https://www.investopedia.com/terms/f/forecasting.asp) (assume that we are currently in the first quarter or Q1 of FY2). Acme has 100 million shares outstanding, with the shares presently trading at $10 per share.
 
  
 
@@ -93,20 +93,20 @@ Acme’s P/S ratio for the current fiscal year would be calculated as follows:
 -   Sales per share = $5.20
 -   P/S ratio = $10 / $5.20 = 1.92
 
-If Acme’s peers—which we assume are based in the same [sector](https://www.investopedia.com/ask/answers/05/industrysector.asp) and are of similar size in terms of market capitalization—are trading at an average P/S ratio (TTM) of 1.5, compared with Acme’s 2.2, it suggests a premium valuation for the company. One reason for this could be the 14.2% revenue growth that Acme is expected to post in the current fiscal year ($520 million versus $455 million), which may be better than what is expected for its peers.
+If Acme’s peers—which we assume are based in the same [[sector]](https://www.investopedia.com/ask/answers/05/industrysector.asp) and are of similar size in terms of market capitalization—are trading at an average P/S ratio (TTM) of 1.5, compared with Acme’s 2.2, it suggests a premium valuation for the company. One reason for this could be the 14.2% revenue growth that Acme is expected to post in the current fiscal year ($520 million versus $455 million), which may be better than what is expected for its peers.
 
 ### Apple Example
 
-Taking that a step further, consider Apple's (NASDAQ: [AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL)) fiscal 2019 revenues of $260.2 billion.1 With 17.42 billion in outstanding shares as of June 30, 2020, Apple's sales per share are $14.94.2 With its share price at $114.96 as of Sept. 28, 2020, its P/S ratio is 7.7.
+Taking that a step further, consider Apple's (NASDAQ: [[AAPL]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL)) fiscal 2019 revenues of $260.2 billion.1 With 17.42 billion in outstanding shares as of June 30, 2020, Apple's sales per share are $14.94.2 With its share price at $114.96 as of Sept. 28, 2020, its P/S ratio is 7.7.
 
 Meanwhile, Google (NASDAQ: GOOGL) trades with a P/S ratio of 6.5, and Microsoft (NASDAQ: MSFT) at 11.3, suggesting that Apple and Google might be undervalued or Microsoft might be overvalued.34
 
 ## P/S Ratio vs. EV/Sales
 
-The P/S ratio doesn’t take debt into account. However, the [enterprise value-to-sales ratio (EV/Sales)](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) does. The EV/Sales ratio uses enterprise value and not market capitalization like the P/S ratio. Enterprise value adds debt and preferred shares to the market cap and subtracts cash. The EV/Sales ratio is said to be superior, although it involves more steps and isn’t always as readily available.
+The P/S ratio doesn’t take debt into account. However, the [[enterprise value-to-sales ratio (EV/Sales)]](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) does. The EV/Sales ratio uses enterprise value and not market capitalization like the P/S ratio. Enterprise value adds debt and preferred shares to the market cap and subtracts cash. The EV/Sales ratio is said to be superior, although it involves more steps and isn’t always as readily available.
 
 ## Limitations of the Price-to-Sales Ratio
 
 The P/S ratio doesn’t take into account whether the company makes any earnings or whether it will ever make earnings. Comparing companies in different industries can prove difficult as well. For example, companies that make video games will have different capabilities when it comes to turning sales into profits when compared to the likes of grocery retailers.
 
-As well, P/S ratios do not account for [debt loads](https://www.investopedia.com/terms/d/debt-load.asp) or the status of a company’s [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). That is, a company with virtually no debt will be more attractive than a highly levered company with the same P/S ratio.
+As well, P/S ratios do not account for [[debt loads]](https://www.investopedia.com/terms/d/debt-load.asp) or the status of a company’s [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). That is, a company with virtually no debt will be more attractive than a highly levered company with the same P/S ratio.

@@ -16,9 +16,9 @@ author: Troy Segal
 Reading Into Operational Risk
 ## What Is Operational Risk?
 
-Operational risk summarizes the uncertainties and hazards a company faces when it attempts to do its day-to-day business activities within a given field or industry. A type of [business risk](https://www.investopedia.com/terms/b/businessrisk.asp), it can result from breakdowns in internal procedures, people and systems—as opposed to problems incurred from external forces, such as political or economic events, or inherent to the entire market or market segment, known as [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp).
+Operational risk summarizes the uncertainties and hazards a company faces when it attempts to do its day-to-day business activities within a given field or industry. A type of [[business risk]](https://www.investopedia.com/terms/b/businessrisk.asp), it can result from breakdowns in internal procedures, people and systems—as opposed to problems incurred from external forces, such as political or economic events, or inherent to the entire market or market segment, known as [[systematic risk]](https://www.investopedia.com/terms/s/systematicrisk.asp).
 
-Operational risk can also be classified as a variety of [unsystematic risk,](https://www.investopedia.com/terms/u/unsystematicrisk.asp) which is unique to a specific company or industry.
+Operational risk can also be classified as a variety of [[unsystematic risk,]](https://www.investopedia.com/terms/u/unsystematicrisk.asp) which is unique to a specific company or industry.
 
 #### What Is Operational Risk?
 
@@ -34,7 +34,7 @@ Operational risk falls into the category of business risk; other types of busine
 
 One area that may involve operational risk is the maintenance of necessary systems and equipment. If two maintenance activities are required, but it is determined that only one can be afforded at the time, making the choice to perform one over the other alters the operational risk depending on which system is left in disrepair. If a system fails, the negative impact is associated directly with the operational risk.
 
-Other areas that qualify as operational risk tend to involve the personal element within the organization. If a sales-oriented business chooses to maintain a subpar sales staff, due to its lower salary costs or any other factor, this behavior is considered an operational risk. The same can be said for failing to properly maintain a staff to avoid certain risks. In a manufacturing company, for example, choosing not to have a qualified mechanic on staff, and having to rely on [third parties](https://www.investopedia.com/terms/t/third-party.asp) for that work, can be classified as an operational risk. Not only does this impact the smooth functioning of a system, but it also involves additional time delays.
+Other areas that qualify as operational risk tend to involve the personal element within the organization. If a sales-oriented business chooses to maintain a subpar sales staff, due to its lower salary costs or any other factor, this behavior is considered an operational risk. The same can be said for failing to properly maintain a staff to avoid certain risks. In a manufacturing company, for example, choosing not to have a qualified mechanic on staff, and having to rely on [[third parties]](https://www.investopedia.com/terms/t/third-party.asp) for that work, can be classified as an operational risk. Not only does this impact the smooth functioning of a system, but it also involves additional time delays.
 
 The willing participation of employees in fraudulent activity may also be seen as operational risk. In this case, the risk involves the possibility of repercussions if the activity is uncovered. Since individuals make an active decision to commit fraud, it is considered a risk relating to how the business operates.
 

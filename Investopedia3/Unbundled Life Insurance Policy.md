@@ -29,9 +29,9 @@ Provisions of the policy do not have expiration dates and the policyholder can a
 
 ## Understanding Unbundled Life Insurance Policy
 
-Universal/unbundled life insurance is one of several types of [permanent life insurance](https://www.investopedia.com/terms/p/permanentlife.asp). Unbundled life insurance has a cash value component, in which a portion of each premium payment can be saved and invested on the policyholder's behalf. The other portion of the premium goes toward the death benefit and administrative expenses.
+Universal/unbundled life insurance is one of several types of [[permanent life insurance]](https://www.investopedia.com/terms/p/permanentlife.asp). Unbundled life insurance has a cash value component, in which a portion of each premium payment can be saved and invested on the policyholder's behalf. The other portion of the premium goes toward the death benefit and administrative expenses.
 
-With universal/unbundled life insurance, the premiums and death benefit can be changed during the life of the policy. This can be a desirable feature if the policyholder's needs change. The universal/unbundled policy also clearly discloses the policy's [administrative fees](https://www.investopedia.com/terms/a/administrative-charge.asp)—also called underwriting and sales expense charges—to the policyholder, whereas other types of permanent life insurance policies may not.
+With universal/unbundled life insurance, the premiums and death benefit can be changed during the life of the policy. This can be a desirable feature if the policyholder's needs change. The universal/unbundled policy also clearly discloses the policy's [[administrative fees]](https://www.investopedia.com/terms/a/administrative-charge.asp)—also called underwriting and sales expense charges—to the policyholder, whereas other types of permanent life insurance policies may not.
 
 Within the permanent life insurance category, individuals can choose from whole life, universal/unbundled life, variable life, and variable universal life options. Some of the key benefits of the unbundled life insurance policy include its flexibility and allowance for the policyholder to see exactly where his or her premium payments are going.
 
@@ -55,4 +55,4 @@ Most unbundled life insurance policies come with a policy loan option. The borro
 
 ### Surrender Options
 
-A [surrender](https://www.investopedia.com/terms/s/surrender-rights.asp) option allows the policyholder to terminate the policy and withdraw their cash value. The cash value is usually subject to surrender charges which can vary depending on the year of termination. Cash values can usually be withdrawn directly by the policyholder. Other alternatives may also exist such as a paid in full life insurance policy death benefit for varying amounts.
+A [[surrender]](https://www.investopedia.com/terms/s/surrender-rights.asp) option allows the policyholder to terminate the policy and withdraw their cash value. The cash value is usually subject to surrender charges which can vary depending on the year of termination. Cash values can usually be withdrawn directly by the policyholder. Other alternatives may also exist such as a paid in full life insurance policy death benefit for varying amounts.

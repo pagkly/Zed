@@ -16,7 +16,7 @@ author: Carol M. Kopp
 Chattel Mortgages: An Ownership Interest Rather Than a Lien
 ## What Is a Chattel Mortgage?
 
-A chattel mortgage is a loan arrangement in which an item of the movable personal property acts as security for a [loan](https://www.investopedia.com/terms/l/loan.asp). The movable property, or chattel, guarantees the loan, and the [lender](https://www.investopedia.com/terms/l/lender.asp) holds an interest in it. A chattel mortgage differs from a conventional mortgage in which the loan is secured by a [lien](https://www.investopedia.com/terms/l/lien.asp) on the real stationary property.
+A chattel mortgage is a loan arrangement in which an item of the movable personal property acts as security for a [[loan]](https://www.investopedia.com/terms/l/loan.asp). The movable property, or chattel, guarantees the loan, and the [[lender]](https://www.investopedia.com/terms/l/lender.asp) holds an interest in it. A chattel mortgage differs from a conventional mortgage in which the loan is secured by a [lien](https://www.investopedia.com/terms/l/lien.asp) on the real stationary property.
 
 Chattel home loans are referred to as security agreements in some areas of the country. The terms "personal property security," "lien on personal property," or even "[movable hypothec](https://www.investopedia.com/terms/h/hypothecation.asp)" are also synonyms for a chattel mortgage used in different jurisdictions around the world.
 
@@ -29,7 +29,7 @@ Chattel home loans are referred to as security agreements in some areas of the c
 
 ## Understanding Chattel Mortgages
 
-Vehicles, airplanes, boats, farm equipment, and [manufactured homes](https://www.investopedia.com/articles/personal-finance/112814/fha-loans-option-manufactured-homes-too.asp) are good examples of assets often financed using chattel mortgages.
+Vehicles, airplanes, boats, farm equipment, and [[manufactured homes]](https://www.investopedia.com/articles/personal-finance/112814/fha-loans-option-manufactured-homes-too.asp) are good examples of assets often financed using chattel mortgages.
 
 These mortgages on personal property have specific rules. For example, chattel home loans must be registered in a public registry so that third parties can be aware of them before entering into financing agreements with potential borrowers who want to put the property up as security for another loan. Security agreements associated with aircraft are also typically recorded with the Aircraft Registration Branch of the Federal Aviation Administration.
 
@@ -43,12 +43,12 @@ The lender does not hold a lien against the movable property—the chattel. Inst
 
 ### Mobile Homes
 
-Chattel mortgages are frequently used to [finance mobile homes](https://www.investopedia.com/articles/personal-finance/033115/are-mortgages-available-mobile-homes.asp) that are situated on leased land. A traditional mortgage can't be used because the land doesn't belong to the mobile homeowner. Instead, the mobile home is considered "personal movable property," and it can be the subject of a chattel mortgage, serving as security for the loan.
+Chattel mortgages are frequently used to [[finance mobile homes]](https://www.investopedia.com/articles/personal-finance/033115/are-mortgages-available-mobile-homes.asp) that are situated on leased land. A traditional mortgage can't be used because the land doesn't belong to the mobile homeowner. Instead, the mobile home is considered "personal movable property," and it can be the subject of a chattel mortgage, serving as security for the loan.
 
 The financing arrangement remains valid even if the mobile home is moved to a different location.
 
 ### Equipment Loans
 
-Businesses frequently use chattel mortgages to [purchase new equipment](https://www.fsa.usda.gov/Internet/FSA_File/helpful_hints.pdf). Heavy machinery has a long lifespan, and its purchase can be financed over some time by the seller. Still, the seller will want to keep a security interest in the machinery in the event of default.
+Businesses frequently use chattel mortgages to [[purchase new equipment]](https://www.fsa.usda.gov/Internet/FSA_File/helpful_hints.pdf). Heavy machinery has a long lifespan, and its purchase can be financed over some time by the seller. Still, the seller will want to keep a security interest in the machinery in the event of default.
 
 A chattel mortgage allows the buyer to use the equipment while maintaining a safe position for the seller at the same time. The seller can recover the equipment and sell it to recover losses from the loan balance if the buyer defaults.

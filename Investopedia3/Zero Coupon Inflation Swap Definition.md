@@ -26,13 +26,13 @@ A zero coupon inflation swap is a type of derivative in which a fixed rate payme
 
 ## Understanding a Zero Coupon Inflation Swap (ZCIS)
 
-In a zero coupon inflation swap, which is a basic type of inflation derivative, an income stream tied to the rate of inflation is exchanged for an income stream with a fixed interest rate. A [zero-coupon](https://www.investopedia.com/terms/z/zero-couponbond.asp) security does not make periodic interest payments during the life of the investment. Instead, a lump sum is paid on the maturity date to the holder of the security.
+In a zero coupon inflation swap, which is a basic type of inflation derivative, an income stream tied to the rate of inflation is exchanged for an income stream with a fixed interest rate. A [[zero-coupon]](https://www.investopedia.com/terms/z/zero-couponbond.asp) security does not make periodic interest payments during the life of the investment. Instead, a lump sum is paid on the maturity date to the holder of the security.
 
-Likewise, with a zero coupon inflation swap, both income streams are paid as one lump-sum payment when the swap reaches maturity and the inflation level is known, instead of actually exchanging payments periodically. The payoff at maturity depends on the [inflation rate](https://www.investopedia.com/terms/i/inflation.asp) realized over a given period of time, as measured by an inflation index. In effect, the zero coupon inflation swap is a bilateral contract used to provide a [hedge](https://www.investopedia.com/terms/h/hedge.asp) against inflation.
+Likewise, with a zero coupon inflation swap, both income streams are paid as one lump-sum payment when the swap reaches maturity and the inflation level is known, instead of actually exchanging payments periodically. The payoff at maturity depends on the [[inflation rate]](https://www.investopedia.com/terms/i/inflation.asp) realized over a given period of time, as measured by an inflation index. In effect, the zero coupon inflation swap is a bilateral contract used to provide a [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) against inflation.
 
 Under a zero coupon inflation swap, the inflation receiver, or buyer, pays a predetermined fixed rate and, in return, receives an inflation-linked payment from the inflation payer, or seller. The side of the contract that pays a fixed rate is referred to as the fixed leg, while the other end of the derivatives contract is the inflation leg. The fixed rate is called the breakeven swap rate.
 
-The payments from both legs captures the difference between expected and actual inflation. If actual inflation exceeds expected inflation, the resulting positive return to the buyer is considered a capital gain. As inflation rises, the buyer earns more; if inflation falls, the buyer earns less. While payment is typically exchanged at the end of the swap term, a buyer may choose to sell the swap on the [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) (OTC) market prior to maturity.
+The payments from both legs captures the difference between expected and actual inflation. If actual inflation exceeds expected inflation, the resulting positive return to the buyer is considered a capital gain. As inflation rises, the buyer earns more; if inflation falls, the buyer earns less. While payment is typically exchanged at the end of the swap term, a buyer may choose to sell the swap on the [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) (OTC) market prior to maturity.
 
 The inflation buyer pays a fixed amount, known as the fixed leg. This is:
 
@@ -44,7 +44,7 @@ Inflation Leg = A \* \[(IE ÷ IS) – 1\]
 
 **where:**
 
-A = Reference [notional](https://www.investopedia.com/terms/n/notionalvalue.asp) of the swap
+A = Reference [[notional]](https://www.investopedia.com/terms/n/notionalvalue.asp) of the swap
 
 r = The fixed rate
 
@@ -72,8 +72,8 @@ Inflation Leg = $100,000,000 \* \[(0.025 ÷ 0.020) – 1\]
 
 Since the compounded inflation rose above 2.4%, the inflation buyer profited, else the inflation seller would have profited.
 
-The currency of the swap determines the price index that is used to calculate the rate of inflation. For example, a swap denominated in U.S. dollars would be based on the [Consumer Price Index](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI), a proxy for inflation that measures price changes in a basket of goods and services in the United States. A swap denominated in British pounds would typically be based on Great Britain's [Retail Price Index](https://www.investopedia.com/terms/r/rpi.asp) (RPI).
+The currency of the swap determines the price index that is used to calculate the rate of inflation. For example, a swap denominated in U.S. dollars would be based on the [[Consumer Price Index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI), a proxy for inflation that measures price changes in a basket of goods and services in the United States. A swap denominated in British pounds would typically be based on Great Britain's [[Retail Price Index]](https://www.investopedia.com/terms/r/rpi.asp) (RPI).
 
-Like every debt contract, a zero coupon inflation swap is subject to the [risk of default](https://www.investopedia.com/terms/d/defaultrisk.asp) from either party either because of temporary liquidity problems or more significant structural issues, such as insolvency. To mitigate this risk, both parties may agree to put up [collateral](https://www.investopedia.com/terms/c/collateral.asp) for the amount due.
+Like every debt contract, a zero coupon inflation swap is subject to the [[risk of default]](https://www.investopedia.com/terms/d/defaultrisk.asp) from either party either because of temporary liquidity problems or more significant structural issues, such as insolvency. To mitigate this risk, both parties may agree to put up [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) for the amount due.
 
-Other financial instruments that can be used to hedge against inflation risk are real yield inflation swaps, price index inflation swaps, [Treasury Inflation Protected Securities](https://www.investopedia.com/terms/t/tips.asp) (TIPS), municipal and corporate [inflation-linked securities](https://www.investopedia.com/terms/i/inflation-indexedsecurity.asp), inflation-linked certificates of deposit, and inflation-linked savings bonds.
+Other financial instruments that can be used to hedge against inflation risk are real yield inflation swaps, price index inflation swaps, [[Treasury Inflation Protected Securities]](https://www.investopedia.com/terms/t/tips.asp) (TIPS), municipal and corporate [[inflation-linked securities]](https://www.investopedia.com/terms/i/inflation-indexedsecurity.asp), inflation-linked certificates of deposit, and inflation-linked savings bonds.

@@ -28,7 +28,7 @@ One benefit is that it more clearly indicates how much cash flow a company has o
 
 ## EBITA vs. EBITDA
 
-EBITA is not used as commonly as EBITDA, which adds [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) into the calculation. Depreciation, in company accounting, is the recording of the reduced value of the company's tangible assets over time. It's a way of accounting for the wear and tear on assets such as equipment and facilities. Some companies, such as those in the utilities, manufacturing, and telecommunications industries, require significant expenditures in equipment and infrastructure, which are reflected in their books.
+EBITA is not used as commonly as EBITDA, which adds [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) into the calculation. Depreciation, in company accounting, is the recording of the reduced value of the company's tangible assets over time. It's a way of accounting for the wear and tear on assets such as equipment and facilities. Some companies, such as those in the utilities, manufacturing, and telecommunications industries, require significant expenditures in equipment and infrastructure, which are reflected in their books.
 
 ### Key Takeaways
 
@@ -38,10 +38,10 @@ EBITA is not used as commonly as EBITDA, which adds [depreciation](https://www.i
 
 Both EBITA and EBITDA are useful tools in gauging a company's operating profitability. Profitability is earnings generated throughout the ordinary course of doing business. A clearer picture of the company's profitability may be gained if capital expenditures and financing costs are subtracted from the official earnings total.
 
-Analysts generally consider both EBITA and EBITDA to be reliable indicators of a company’s [cash flow](https://www.investopedia.com/terms/c/cashflow.asp). However, some industries require significant investment in fixed assets. Using EBITA to evaluate companies in those industries may distort a company's profitability by ignoring the depreciation of those assets. EBITDA is deemed to be a more appropriate measure of its operating profitability.
+Analysts generally consider both EBITA and EBITDA to be reliable indicators of a company’s [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp). However, some industries require significant investment in fixed assets. Using EBITA to evaluate companies in those industries may distort a company's profitability by ignoring the depreciation of those assets. EBITDA is deemed to be a more appropriate measure of its operating profitability.
 
-In other words, the EBITA measurement may be used instead of EBITDA for companies that do not have substantial [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) which may skew the numbers.
+In other words, the EBITA measurement may be used instead of EBITDA for companies that do not have substantial [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) which may skew the numbers.
 
 ## Calculation of EBITA
 
-To calculate a company's EBITA, an analyst must first determine the company’s [earnings before tax](https://www.investopedia.com/terms/e/ebt.asp) (EBT). This figure appears in the company's income statements and other investor relations materials. Add to this figure any interest and amortization costs. So, the formula is: EBITA = EBT + interest expense + amortization expense.
+To calculate a company's EBITA, an analyst must first determine the company’s [[earnings before tax]](https://www.investopedia.com/terms/e/ebt.asp) (EBT). This figure appears in the company's income statements and other investor relations materials. Add to this figure any interest and amortization costs. So, the formula is: EBITA = EBT + interest expense + amortization expense.

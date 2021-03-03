@@ -16,7 +16,7 @@ author: James Chen
 What Is a Falling Knife?
 ## What is a Falling Knife?
 
-A falling knife is a colloquial term for a rapid drop in the price or value of a security. The term is commonly used in phrases like, "don't try to catch a falling knife," which can be translated to mean, "wait for the price to bottom out before buying it." A falling knife can quickly rebound - in what's known as a [whipsaw](https://www.investopedia.com/terms/w/whipsaw.asp)—or the security may lose all of its value, as in the case of a [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp).
+A falling knife is a colloquial term for a rapid drop in the price or value of a security. The term is commonly used in phrases like, "don't try to catch a falling knife," which can be translated to mean, "wait for the price to bottom out before buying it." A falling knife can quickly rebound - in what's known as a [[whipsaw]](https://www.investopedia.com/terms/w/whipsaw.asp)—or the security may lose all of its value, as in the case of a [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp).
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ A falling knife is a colloquial term for a rapid drop in the price or value of a
 
 ## What a Falling Knife Tells You
 
-The term falling knife suggests that buying into a market with a lot of downward [momentum](https://www.investopedia.com/terms/m/momentum.asp) can be extremely dangerous—just like trying to catch an actual falling knife. In practice, however, there are many different profit points with a falling knife. If timed perfectly, a trader that buys at the bottom of a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp) can realize a significant profit as the price recovers. Likewise, piling into a short position as the price falls and getting out before a rebound can be profitable. Moreover, even buy and hold investors can use a falling knife as a buy opportunity provided they have a fundamental case for owning the stock.
+The term falling knife suggests that buying into a market with a lot of downward [[momentum]](https://www.investopedia.com/terms/m/momentum.asp) can be extremely dangerous—just like trying to catch an actual falling knife. In practice, however, there are many different profit points with a falling knife. If timed perfectly, a trader that buys at the bottom of a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) can realize a significant profit as the price recovers. Likewise, piling into a short position as the price falls and getting out before a rebound can be profitable. Moreover, even buy and hold investors can use a falling knife as a buy opportunity provided they have a fundamental case for owning the stock.
 
-That said, there is a very real risk that the timing will be off and there could be significant losses before any gains. So many traders still pay lip service to the adage. Instead of trying to "catch the falling knife," traders should look for confirmation of a trend reversal using other technical indicators and chart patterns. An example of a confirmation could be as simple as waiting for several days of upward momentum after the fall or looking at the [relative strength index (RSI)](https://www.investopedia.com/terms/r/rsi.asp) for signs of a stronger uptrend before buying into the new trend.
+That said, there is a very real risk that the timing will be off and there could be significant losses before any gains. So many traders still pay lip service to the adage. Instead of trying to "catch the falling knife," traders should look for confirmation of a trend reversal using other technical indicators and chart patterns. An example of a confirmation could be as simple as waiting for several days of upward momentum after the fall or looking at the [[relative strength index (RSI)]](https://www.investopedia.com/terms/r/rsi.asp) for signs of a stronger uptrend before buying into the new trend.
 
 ## How to Use a Falling Knife?
 
@@ -36,8 +36,8 @@ As mentioned, there are ways to profit from a falling knife. Many of the trading
 
 There are many different potential causes for a falling knife to occur, including:
 
--   Earnings Reports: Companies that report their earnings are often subject to [volatile](https://www.investopedia.com/terms/v/volatility.asp) swings. If the financial results are lower than expected, the stock may become a falling knife until the market reaches an equilibrium.
--   Economic Reports: Major indexes are often influenced by economic reports, such as employment reports or [FOMC](https://www.investopedia.com/terms/f/fomc.asp) meetings. If these reports are negative, stocks can move sharply lower in response.
+-   Earnings Reports: Companies that report their earnings are often subject to [[volatile]](https://www.investopedia.com/terms/v/volatility.asp) swings. If the financial results are lower than expected, the stock may become a falling knife until the market reaches an equilibrium.
+-   Economic Reports: Major indexes are often influenced by economic reports, such as employment reports or [[FOMC]](https://www.investopedia.com/terms/f/fomc.asp) meetings. If these reports are negative, stocks can move sharply lower in response.
 -   Technical Breakdown: Some falling knives occur due to technical, rather than fundamental, factors. If a security breaks down from key support levels, the price can move sharply lower before finding support below.
 -   Fundamental Deterioration: This occurs when the company underlying the stock either badly misses on a key performance indicator like sales, earnings or so on. It also happens when companies are found to be doing something fraudulent or suffering damage in the media.
 
@@ -49,7 +49,7 @@ The following chart shows an example of a falling knife and demonstrates the d
 
 Image by Sabrina Jiang © Investopedia 2020
 
-The stock became a falling knife after moving off of its 50-day [moving average](https://www.investopedia.com/terms/m/movingaverage.asp). Traders trying to "catch the falling knife" may have bought in around $8.50 when there was a brief reprieve from the selling pressure, but they would have lost money as the stock moved to a low of around $6.00 before finally bottoming out. Traders that waited for confirmation could have benefited from the move from $6.00 to $10.00 in the ensuing month.
+The stock became a falling knife after moving off of its 50-day [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp). Traders trying to "catch the falling knife" may have bought in around $8.50 when there was a brief reprieve from the selling pressure, but they would have lost money as the stock moved to a low of around $6.00 before finally bottoming out. Traders that waited for confirmation could have benefited from the move from $6.00 to $10.00 in the ensuing month.
 
 ## Difference Between a Falling Knife and a Spike
 
@@ -57,4 +57,4 @@ A falling knife is specifically a sharp drop. A similar type of trading slang is
 
 ## Limitations of a Falling Knife
 
-As mentioned, there are many cases where a sharp fall is an opportunity. From a trading perspective, many of these required some form of confirmation, such as a [moving average convergence divergence (MACD)](https://www.investopedia.com/terms/m/macd.asp) indicator showing positive divergence. So a falling knife—an ill-defined chart formation at best—is not really the most significant part of a trade playing off of a breach of support or a true reversal.
+As mentioned, there are many cases where a sharp fall is an opportunity. From a trading perspective, many of these required some form of confirmation, such as a [[moving average convergence divergence (MACD)]](https://www.investopedia.com/terms/m/macd.asp) indicator showing positive divergence. So a falling knife—an ill-defined chart formation at best—is not really the most significant part of a trade playing off of a breach of support or a true reversal.

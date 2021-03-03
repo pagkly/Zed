@@ -16,7 +16,7 @@ author: Will Kenton
 How Equivalent Annual Cost Helps with Capital Budget Decisions
 ## What Is the Equivalent Annual Cost (EAC)?
 
-Equivalent annual cost (EAC) is the annual cost of owning, operating, and maintaining an asset over its entire life. Firms often use EAC for [capital budgeting decisions](https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp), as it allows a company to compare the cost-effectiveness of various assets with unequal lifespans.
+Equivalent annual cost (EAC) is the annual cost of owning, operating, and maintaining an asset over its entire life. Firms often use EAC for [[capital budgeting decisions]](https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp), as it allows a company to compare the cost-effectiveness of various assets with unequal lifespans.
 
 #### Equivalent Annual Cost (EAC)
 
@@ -26,7 +26,7 @@ Equivalent annual cost (EAC) is used for a variety of purposes, including capita
 
 Other uses of EAC include calculating the optimal life of an asset, determining if leasing or purchasing an asset is the better option, determining the magnitude of which maintenance costs will impact an asset, determining the necessary cost savings to support purchasing a new asset, and determining the cost of keeping existing equipment.
 
-The EAC calculation factors in a discount rate or the cost of capital. [Cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp) is the required return necessary to make a capital budgeting project—such as building a new factory—worthwhile. Cost of capital includes the cost of debt and the cost of equity and is used by companies internally to judge whether a capital project is worth the expenditure of resources.
+The EAC calculation factors in a discount rate or the cost of capital. [[Cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) is the required return necessary to make a capital budgeting project—such as building a new factory—worthwhile. Cost of capital includes the cost of debt and the cost of equity and is used by companies internally to judge whether a capital project is worth the expenditure of resources.
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ EAC\=Asset Price×Discount Rate1−(1+Discount Rate)−nwhere:Discount Rate\
 ## How to Calculate the Equivalent Annual Cost
 
 1.  Take the asset price or cost and multiply it by the discount rate.
-2.  The discount rate is also called the [cost of capital,](https://www.investopedia.com/terms/c/costofcapital.asp) which is the required return necessary to make a [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) project, such as building a new factory, worthwhile.
+2.  The discount rate is also called the [[cost of capital,]](https://www.investopedia.com/terms/c/costofcapital.asp) which is the required return necessary to make a [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) project, such as building a new factory, worthwhile.
 3.  In the denominator add 1 + the discount rate and raise the result as an exponent to the number of years for the project. Subtract the result by 1 and divide the numerator figure by the denominator.
 4.  Many financial online calculators are available to calculate EAC.
 
@@ -63,7 +63,7 @@ As stated earlier, EAC allows managers to compare NPVs of different projects ove
 
 The cost of capital for the company making the decision is thus 5%.
 
-Next, we calculate the EAC, which is equal to the [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) divided by the present value annuity factor or A(t,r), while taking into account the cost of capital or r, and the number of years in question or t.
+Next, we calculate the EAC, which is equal to the [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) divided by the present value annuity factor or A(t,r), while taking into account the cost of capital or r, and the number of years in question or t.
 
 The annuity factor is calculated as follows:
 

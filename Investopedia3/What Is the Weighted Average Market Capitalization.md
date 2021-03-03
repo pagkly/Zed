@@ -16,7 +16,7 @@ author: James Chen
 What Is the Weighted Average Market Capitalization?
 ## What Is the Weighted Average Market Capitalization?
 
-The weighted average market capitalization refers to a type of stock market index construction that is based on the [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) of the index's constituent stocks. Large companies would, therefore, account for a greater portion of an index than smaller stocks. This means the movement of an index would depend on a small set of stocks.
+The weighted average market capitalization refers to a type of stock market index construction that is based on the [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of the index's constituent stocks. Large companies would, therefore, account for a greater portion of an index than smaller stocks. This means the movement of an index would depend on a small set of stocks.
 
 The most well-known market capitalization weight index is the S&P 500, which tracks the 500 largest assets by market capitalization. The top four holdings combine for over 10% of the entire index. These include Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)), Microsoft ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)), Amazon ([AMZN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=amzn)), and Facebook ([FB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=fb)).1 The S&P 500 is widely considered a gauge of the health of the broader market and a benchmark for performance. 
 
@@ -40,6 +40,6 @@ The efficient market hypothesis says that stock prices reflect all information a
 
 ## Alternatives to Weighted Average Market Capitalization
 
-Alternative methods of asset allocation include price weighting and equal market cap weighting among many more. The holdings of a price-weighted index are determined by a simple mathematical average of several stock prices. The [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) is perhaps the most well-known index that employs price weighting.3
+Alternative methods of asset allocation include price weighting and equal market cap weighting among many more. The holdings of a price-weighted index are determined by a simple mathematical average of several stock prices. The [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) is perhaps the most well-known index that employs price weighting.3
 
-In contrast, an equal-weighted index gives the same weight to each stock in a portfolio or fund. For example, the [S&P 500 Equal Weight Index](https://www.investopedia.com/articles/exchangetradedfunds/08/market-equal-weight.asp) is the equal-weighted version of the popular market-cap-weighted S&P 500.4
+In contrast, an equal-weighted index gives the same weight to each stock in a portfolio or fund. For example, the [[S&P 500 Equal Weight Index]](https://www.investopedia.com/articles/exchangetradedfunds/08/market-equal-weight.asp) is the equal-weighted version of the popular market-cap-weighted S&P 500.4

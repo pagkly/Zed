@@ -16,7 +16,7 @@ author: Julia Kagan
 Non-Purpose Loan
 ## What Is a Non-Purpose Loan?
 
-A non-purpose loan is an alternative type of loan that often involves using investment securities as [collateral](https://www.investopedia.com/terms/c/collateral.asp) and relies on complex structuring. Regulated non-purpose loans can be offered by brokerages and financial institutions with some specific government-regulatory documentation requirements.1
+A non-purpose loan is an alternative type of loan that often involves using investment securities as [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) and relies on complex structuring. Regulated non-purpose loans can be offered by brokerages and financial institutions with some specific government-regulatory documentation requirements.1
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ Non-purpose loans give investors access to funds without having to sell their in
 
 ## Non-Purpose Loan vs. Margin Loan
 
-Non-purpose loans are considered an alternative to traditional [margin](https://www.investopedia.com/terms/m/marginaccount.asp) borrowing because they allow multiple investment accounts to be used to secure a loan. Both non-purpose and margin loans will allow investors to continue to receive the benefits of their portfolio holdings, such as dividends, interest and appreciation. Both are also subject to a [margin call](https://www.investopedia.com/terms/m/margincall.asp) if the value of the pledged securities declines below the specified limit. Nonetheless, there are differences between these two types of borrowing.
+Non-purpose loans are considered an alternative to traditional [[margin]](https://www.investopedia.com/terms/m/marginaccount.asp) borrowing because they allow multiple investment accounts to be used to secure a loan. Both non-purpose and margin loans will allow investors to continue to receive the benefits of their portfolio holdings, such as dividends, interest and appreciation. Both are also subject to a [[margin call]](https://www.investopedia.com/terms/m/margincall.asp) if the value of the pledged securities declines below the specified limit. Nonetheless, there are differences between these two types of borrowing.
 
 Non-purpose loans are typically marketed as securities backed lines of credit (SBLOCs). They are generally more complex to obtain than a standard margin loan. And, as noted above, they cannot be used to buy securities whereas margin loans are typically used for the sole purpose of investing in securities.
 

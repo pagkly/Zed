@@ -16,9 +16,9 @@ author: Julia Kagan
 What Is a Deferment Period?
 ## What Is a Deferment Period?
 
-The deferment period is a time during which a borrower does not have to pay interest or repay the [principal](https://www.investopedia.com/terms/p/principal.asp) on a loan. The deferment period also refers to the period after the issue of a callable security during which the issuer can not call the security.
+The deferment period is a time during which a borrower does not have to pay interest or repay the [[principal]](https://www.investopedia.com/terms/p/principal.asp) on a loan. The deferment period also refers to the period after the issue of a callable security during which the issuer can not call the security.
 
-The duration of a deferment period can vary and is established in advance usually by a contract between the two parties. A student loan deferment, for example, is usually for up to three years, while many [municipal bonds](https://www.investopedia.com/terms/m/municipalbond.asp) have a deferment period of 10 years.
+The duration of a deferment period can vary and is established in advance usually by a contract between the two parties. A student loan deferment, for example, is usually for up to three years, while many [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp) have a deferment period of 10 years.
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ The duration of a deferment period can vary and is established in advance usuall
 
 ## Understanding Deferment Periods
 
-The deferment period applies to [student loans](https://www.investopedia.com/terms/s/student-debt.asp), mortgages, callable securities, some types of options, and benefit claims in the insurance industry. Borrowers should be careful not to confuse a deferment period with a [grace period](https://www.investopedia.com/terms/g/grace_period.asp). A grace period is a length of time after a due date that a borrower can make a payment without incurring a penalty.
+The deferment period applies to [[student loans]](https://www.investopedia.com/terms/s/student-debt.asp), mortgages, callable securities, some types of options, and benefit claims in the insurance industry. Borrowers should be careful not to confuse a deferment period with a [[grace period]](https://www.investopedia.com/terms/g/grace_period.asp). A grace period is a length of time after a due date that a borrower can make a payment without incurring a penalty.
 
-Grace periods are usually short windows of time, such as 15 days, when a borrower can make a payment beyond the due date without the risk of [late fees](https://www.investopedia.com/terms/l/late-fee.asp) or cancellation of the loan or contract. Deferment periods are usually longer time frames, such as years. In most cases, deferments are not automatic and borrowers will need to apply to their lender and receive approval for a deferment.
+Grace periods are usually short windows of time, such as 15 days, when a borrower can make a payment beyond the due date without the risk of [[late fees]](https://www.investopedia.com/terms/l/late-fee.asp) or cancellation of the loan or contract. Deferment periods are usually longer time frames, such as years. In most cases, deferments are not automatic and borrowers will need to apply to their lender and receive approval for a deferment.
 
 ## Deferment Period on Student Loans
 
-The deferment period is common with student loans that borrowers take out to pay for educational expenses. The lender of a student loan may grant the deferment while the student is still in school or just after graduation when the student has few resources to repay the loan. The lender may also grant deferment at their discretion during other periods of financial hardship to provide the borrower with temporary relief from debt payments and as an alternative to [default](https://www.investopedia.com/terms/d/default2.asp).
+The deferment period is common with student loans that borrowers take out to pay for educational expenses. The lender of a student loan may grant the deferment while the student is still in school or just after graduation when the student has few resources to repay the loan. The lender may also grant deferment at their discretion during other periods of financial hardship to provide the borrower with temporary relief from debt payments and as an alternative to [[default]](https://www.investopedia.com/terms/d/default2.asp).
 
-During a loan's deferment period, [interest may or may not accrue](https://www.investopedia.com/terms/a/accruedinterest.asp). Borrowers should check their loan terms to determine whether a loan deferment means they will owe more interest than if they did not defer the payment. For most [subsidized deferred student loans](https://www.investopedia.com/what-is-student-loan-deferment-4771251), interest does not accrue. However, interest does accrue on unsubsidized deferred student loans. Additionally, the lender will capitalize the interest, meaning that the interest is added to the amount due at the end of the deferment period.
+During a loan's deferment period, [[interest may or may not accrue]](https://www.investopedia.com/terms/a/accruedinterest.asp). Borrowers should check their loan terms to determine whether a loan deferment means they will owe more interest than if they did not defer the payment. For most [[subsidized deferred student loans]](https://www.investopedia.com/what-is-student-loan-deferment-4771251), interest does not accrue. However, interest does accrue on unsubsidized deferred student loans. Additionally, the lender will capitalize the interest, meaning that the interest is added to the amount due at the end of the deferment period.
 
 ## Deferment Period on Mortgages
 
@@ -46,17 +46,17 @@ Usually, a newly established mortgage will include a deferment of the first paym
 
 ## Deferment Period on Callable Securities
 
-Different types of securities may have an [embedded call option](https://www.investopedia.com/terms/e/embeddedoption.asp) allowing the issuer to buy them back at a predetermined price before the maturity date. These securities are referred to as [callable securities](https://www.investopedia.com/terms/c/callable-security.asp).
+Different types of securities may have an [[embedded call option]](https://www.investopedia.com/terms/e/embeddedoption.asp) allowing the issuer to buy them back at a predetermined price before the maturity date. These securities are referred to as [[callable securities]](https://www.investopedia.com/terms/c/callable-security.asp).
 
-An issuer will typically “call” bonds when prevailing interest rates in the economy drop, providing an opportunity for the issuer to [refinance its debt](https://www.investopedia.com/terms/r/refinance.asp) at a lower rate. However, since early redemption is unfavorable to bondholders who will stop receiving interest income after a bond is retired, the [trust indenture](https://www.investopedia.com/terms/t/trust_indenture.asp) will stipulate a call protection or a deferment period.
+An issuer will typically “call” bonds when prevailing interest rates in the economy drop, providing an opportunity for the issuer to [[refinance its debt]](https://www.investopedia.com/terms/r/refinance.asp) at a lower rate. However, since early redemption is unfavorable to bondholders who will stop receiving interest income after a bond is retired, the [[trust indenture]](https://www.investopedia.com/terms/t/trust_indenture.asp) will stipulate a call protection or a deferment period.
 
-The deferment period is the period of time during which an issuing entity cannot redeem the bonds. The issuer cannot call the security back during the deferment period, which is uniformly predetermined by the [underwriter](https://www.investopedia.com/terms/u/underwriter.asp) and the issuer at the time of issuance.
+The deferment period is the period of time during which an issuing entity cannot redeem the bonds. The issuer cannot call the security back during the deferment period, which is uniformly predetermined by the [[underwriter]](https://www.investopedia.com/terms/u/underwriter.asp) and the issuer at the time of issuance.
 
 ## Deferment Period on Options
 
-[European options](https://www.investopedia.com/terms/e/europeanoption.asp) have a deferment period for the life of the option. This means they can be [exercised](https://www.investopedia.com/terms/e/exercise.asp) only on the expiry date.
+[European options](https://www.investopedia.com/terms/e/europeanoption.asp) have a deferment period for the life of the option. This means they can be [[exercised]](https://www.investopedia.com/terms/e/exercise.asp) only on the expiry date.
 
-Another type of option, called the Deferment Period Option, has all the characteristics of an American [vanilla option](https://www.investopedia.com/terms/v/vanillaoption.asp). The option can be exercised anytime before it expires. However, payment is deferred until the original expiration date of the option.
+Another type of option, called the Deferment Period Option, has all the characteristics of an American [[vanilla option]](https://www.investopedia.com/terms/v/vanillaoption.asp). The option can be exercised anytime before it expires. However, payment is deferred until the original expiration date of the option.
 
 ## Deferment Period in Insurance
 
@@ -64,4 +64,4 @@ Benefits are payable to the insured when they become incapacitated and are unabl
 
 ## Example of a Deferment Period
 
-A bond issued with 15 years to [maturity](https://www.investopedia.com/terms/m/maturity.asp) may have a deferment period of six years. This means investors are guaranteed periodic interest payments for at least six years. After six years, the issuer may choose to buy back the bonds, depending on interest rates in the markets. Most municipal bonds are callable and have a deferment period of 10 years.
+A bond issued with 15 years to [[maturity]](https://www.investopedia.com/terms/m/maturity.asp) may have a deferment period of six years. This means investors are guaranteed periodic interest payments for at least six years. After six years, the issuer may choose to buy back the bonds, depending on interest rates in the markets. Most municipal bonds are callable and have a deferment period of 10 years.

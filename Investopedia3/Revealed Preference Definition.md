@@ -16,7 +16,7 @@ author: Will Kenton
 Revealed Preference Definition
 ## What is Revealed Preference?
 
-Revealed preference, a theory offered by American economist [Paul Anthony Samuelson](https://www.investopedia.com/terms/p/paul-samuelson.asp) in 1938, states that consumer behavior, if their income and the item's price are held constant, is the best indicator of their preferences.
+Revealed preference, a theory offered by American economist [[Paul Anthony Samuelson]](https://www.investopedia.com/terms/p/paul-samuelson.asp) in 1938, states that consumer behavior, if their income and the item's price are held constant, is the best indicator of their preferences.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Revealed preference is an economic theory regarding an individual's consumption 
 
 Revealed preference theory allows room for the preferred option to change depending upon price and budgetary constraints. By examining the preferred preference at each point of constraint, a schedule can be created of a given population's preferred items under a varied schedule of pricing and budget constraints. The theory states that given a consumer's budget, they will select the same bundle of goods (the "preferred" bundle) as long as that bundle remains affordable. It is only if the preferential bundle becomes unaffordable that they will switch to a less expensive, less desirable bundle of goods.
 
-The original intention of revealed preference theory was to expand upon the theory of marginal utility, coined by Jeremy Bentham. Utility, or enjoyment from a good, is very hard to quantify, so Samuelson set about looking for a way to do so. Since then, revealed preference theory has been expanded upon by a number of [economists](https://www.investopedia.com/terms/e/economist.asp) and remains a major theory of consumption behavior. The theory is especially useful in providing a method for analyzing consumer choice empirically.
+The original intention of revealed preference theory was to expand upon the theory of marginal utility, coined by Jeremy Bentham. Utility, or enjoyment from a good, is very hard to quantify, so Samuelson set about looking for a way to do so. Since then, revealed preference theory has been expanded upon by a number of [[economists]](https://www.investopedia.com/terms/e/economist.asp) and remains a major theory of consumption behavior. The theory is especially useful in providing a method for analyzing consumer choice empirically.
 
 ## Three Axioms of Revealed Preference
 

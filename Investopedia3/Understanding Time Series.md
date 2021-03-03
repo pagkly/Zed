@@ -28,11 +28,11 @@ A time series can be taken on any variable that changes over time. In investing,
 
 Time series analysis can be useful to see how a given asset, security, or economic variable changes over time. It can also be used to examine how the changes associated with the chosen data point compare to shifts in other variables over the same time period.
 
-For example, suppose you wanted to analyze a time series of daily closing stock prices for a given stock over a period of one year. You would obtain a list of all the closing prices for the stock from each day for the past year and list them in chronological order. This would be a one-year daily [closing price](https://www.investopedia.com/terms/c/closingprice.asp) time series for the stock.
+For example, suppose you wanted to analyze a time series of daily closing stock prices for a given stock over a period of one year. You would obtain a list of all the closing prices for the stock from each day for the past year and list them in chronological order. This would be a one-year daily [[closing price]](https://www.investopedia.com/terms/c/closingprice.asp) time series for the stock.
 
 Delving a bit deeper, you might analyze time series data with technical analysis tools to know whether the stock's time series shows any seasonality. This will help to determine if the stock goes through peaks and troughs at regular times each year. Analysis in this area would require taking the observed prices and correlating them to a chosen season. This can include traditional calendar seasons, such as summer and winter, or retail seasons, such as holiday seasons.
 
-Alternatively, you can record a stock's share price changes as it relates to an economic variable, such as the [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp). By correlating the data points with information relating to the selected economic variable, you can observe patterns in situations exhibiting dependency between the data points and the chosen variable.
+Alternatively, you can record a stock's share price changes as it relates to an economic variable, such as the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp). By correlating the data points with information relating to the selected economic variable, you can observe patterns in situations exhibiting dependency between the data points and the chosen variable.
 
 ### Time Series Forecasting
 

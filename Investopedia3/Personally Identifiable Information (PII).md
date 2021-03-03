@@ -39,15 +39,15 @@ However, the emergence of big data has also increased the number of data breache
 Personally identifiable information (PII) can be sensitive or non-sensitive. Sensitive personal information includes legal statistics such as:
 
 -   Full name
--   [Social Security Number](https://www.investopedia.com/terms/s/ssn.asp) (SSN)
+-   [[Social Security Number]](https://www.investopedia.com/terms/s/ssn.asp) (SSN)
 -   Driver’s license
--   [Mailing address](https://www.investopedia.com/terms/t/taxhome.asp)
+-   [[Mailing address]](https://www.investopedia.com/terms/t/taxhome.asp)
 -   Credit card information
 -   Passport information
 -   Financial information
 -   Medical records
 
-The above list is by no means exhaustive. Companies that share data about their clients normally use [anonymization](https://www.investopedia.com/terms/d/data-anonymization.asp) techniques to encrypt and obfuscate the PII, so it is received in a non-personally identifiable form. An insurance company that shares its clients’ information with a marketing company will mask the sensitive PII included in the data and leave only information related to the marketing company’s goal.
+The above list is by no means exhaustive. Companies that share data about their clients normally use [[anonymization]](https://www.investopedia.com/terms/d/data-anonymization.asp) techniques to encrypt and obfuscate the PII, so it is received in a non-personally identifiable form. An insurance company that shares its clients’ information with a marketing company will mask the sensitive PII included in the data and leave only information related to the marketing company’s goal.
 
 Non-sensitive or indirect PII is easily accessible from public sources like phonebooks, the Internet, and corporate directories. Examples of non-sensitive or indirect PII include:
 
@@ -60,7 +60,7 @@ Non-sensitive or indirect PII is easily accessible from public sources like phon
 
 The above list contains quasi-identifiers and examples of non-sensitive information that can be released to the public. This type of information cannot be used alone to determine an individual’s identity.
 
-However, non-sensitive information, although not delicate, is linkable. This means that non-sensitive data, when used with other personal linkable information, can reveal the identity of an individual. [De-anonymization](https://www.investopedia.com/terms/d/deanonymization.asp) and re-identification techniques tend to be successful when multiple sets of quasi-identifiers are pieced together and can be used to distinguish one person from another.
+However, non-sensitive information, although not delicate, is linkable. This means that non-sensitive data, when used with other personal linkable information, can reveal the identity of an individual. [[De-anonymization]](https://www.investopedia.com/terms/d/deanonymization.asp) and re-identification techniques tend to be successful when multiple sets of quasi-identifiers are pieced together and can be used to distinguish one person from another.
 
 ## Safeguarding Personally Identifiable Information (PII)
 
@@ -76,11 +76,11 @@ Regulating and safeguarding personally identifiable information (PII) will likel
 
 The definition of what comprises PII differs depending on where you live in the world. In the United States, the government defined "personally identifiable" in 2020 as anything that can "be used to distinguish or trace an individual's identity" such as name, SSN, and biometrics information; either alone or with other identifiers such as date of birth or place of birth.2
 
-In the [European Union](https://www.investopedia.com/terms/e/europeanunion.asp) (EU), the definition expands to include quasi-identifiers as outlined in the [General Data Protection Regulation](https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp) (GDPR) that went into effect in May 2018.34 The GDPR is a legal framework that sets rules for collecting and processing personal information for those residing in the EU.
+In the [European Union](https://www.investopedia.com/terms/e/europeanunion.asp) (EU), the definition expands to include quasi-identifiers as outlined in the [[General Data Protection Regulation]](https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp) (GDPR) that went into effect in May 2018.34 The GDPR is a legal framework that sets rules for collecting and processing personal information for those residing in the EU.
 
 ## Example of Personally Identifiable Information (PII)
 
-In early 2018, [Facebook](https://www.investopedia.com/ask/answers/120114/how-does-facebook-fb-make-money.asp) Inc. (FB) was embroiled in a major data breach. The profiles of 50 million Facebook users were collected without their consent by an outside company called Cambridge Analytica_._5
+In early 2018, [[Facebook]](https://www.investopedia.com/ask/answers/120114/how-does-facebook-fb-make-money.asp) Inc. (FB) was embroiled in a major data breach. The profiles of 50 million Facebook users were collected without their consent by an outside company called Cambridge Analytica_._5
 
 Cambridge Analytica got its data from Facebook through a researcher who worked at the University of Cambridge. The researcher built a Facebook app that was a personality quiz. An app is a software application used on mobile devices and websites.
 

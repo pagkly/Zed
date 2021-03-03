@@ -16,7 +16,7 @@ author: Will Kenton
 What You Should Know About Delaware Corporations
 ## What Is a Delaware Corporation?
 
-A Delaware corporation is a company that is legally registered in the state of Delaware but may conduct business in any state. Delaware first began to adapt its laws in the late 19th century, making changes that would attract businesses away from other states such as New York. Over time, Delaware became a respected state in which to [incorporate](https://www.investopedia.com/terms/i/incorporate.asp), even if the majority of a company's business was conducted outside the state.
+A Delaware corporation is a company that is legally registered in the state of Delaware but may conduct business in any state. Delaware first began to adapt its laws in the late 19th century, making changes that would attract businesses away from other states such as New York. Over time, Delaware became a respected state in which to [[incorporate]](https://www.investopedia.com/terms/i/incorporate.asp), even if the majority of a company's business was conducted outside the state.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ A Delaware corporation is a company that is legally registered in the state of D
 
 ## Delaware Corporations Explained
 
-Incorporating in Delaware has become widespread among large U.S. companies; about half of the S&P 500 members are incorporated in the state. This is especially true of the financial sector. Delaware has business-friendly [usury laws](https://www.investopedia.com/terms/u/usury-laws.asp), which allow banks and credit card companies to have much more freedom to charge high-interest rates on loans.
+Incorporating in Delaware has become widespread among large U.S. companies; about half of the S&P 500 members are incorporated in the state. This is especially true of the financial sector. Delaware has business-friendly [[usury laws]](https://www.investopedia.com/terms/u/usury-laws.asp), which allow banks and credit card companies to have much more freedom to charge high-interest rates on loans.
 
-Usury laws are state-based legislation that establishes limits on the amount of [interest](https://www.investopedia.com/terms/i/interestrate.asp) that can be applied to loans and other forms of financing. This is a form of consumer protection that regulates how much interest businesses can charge their local customers. Delaware usury laws, by comparison, give lenders greater leeway to charge interest.
+Usury laws are state-based legislation that establishes limits on the amount of [[interest]](https://www.investopedia.com/terms/i/interestrate.asp) that can be applied to loans and other forms of financing. This is a form of consumer protection that regulates how much interest businesses can charge their local customers. Delaware usury laws, by comparison, give lenders greater leeway to charge interest.
 
 The state’s legislation also applies to operations and business conducted in other states. In other words, a company incorporated in Delaware can charge interest rates in accordance with Delaware usury law rather than local usury laws even when doing business with customers nationwide.
 

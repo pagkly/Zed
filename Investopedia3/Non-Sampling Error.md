@@ -16,7 +16,7 @@ author: Will Kenton
 Non-Sampling Error
 ## What Is a Non-Sampling Error?
 
-A non-sampling error is a statistical term that refers to an error that results during data collection, causing the data to differ from the true values. A non-sampling error differs from a [sampling error.](https://www.investopedia.com/terms/s/samplingerror.asp) A sampling error is limited to any differences between sample values and universe values that arise because the sample size was limited. (The entire universe cannot be sampled in a survey or a census.)
+A non-sampling error is a statistical term that refers to an error that results during data collection, causing the data to differ from the true values. A non-sampling error differs from a [[sampling error.]](https://www.investopedia.com/terms/s/samplingerror.asp) A sampling error is limited to any differences between sample values and universe values that arise because the sample size was limited. (The entire universe cannot be sampled in a survey or a census.)
 
 ### Key Takeaways
 
@@ -38,13 +38,13 @@ Random errors are believed to offset each other and therefore, most often, are o
 
 Non-sampling errors are caused by external factors rather than an issue within a survey, study, or census.
 
-There are many ways non-sampling errors can occur. For example, non-sampling errors can include but are not limited to, [data entry errors](https://www.investopedia.com/articles/active-trading/013015/worst-mistakes-beginner-traders-make.asp), biased survey questions, biased processing/decision making, non-responses, inappropriate analysis conclusions, and false information provided by respondents.
+There are many ways non-sampling errors can occur. For example, non-sampling errors can include but are not limited to, [[data entry errors]](https://www.investopedia.com/articles/active-trading/013015/worst-mistakes-beginner-traders-make.asp), biased survey questions, biased processing/decision making, non-responses, inappropriate analysis conclusions, and false information provided by respondents.
 
 ## Special Considerations
 
 While increasing sample size can help minimize sampling errors, it will not have any effect on reducing non-sampling errors. This is because non-sampling errors are often difficult to detect, and it is virtually impossible to eliminate them.
 
-Non-sampling errors include non-response errors, coverage errors, interview errors, and processing errors. A coverage error would occur, for example, if a person were counted twice in a survey, or their answers were duplicated on the survey. If an interviewer is [biased](https://www.investopedia.com/articles/investing/050813/4-behavioral-biases-and-how-avoid-them.asp) in their sampling, the non-sampling error would be considered an interviewer error.
+Non-sampling errors include non-response errors, coverage errors, interview errors, and processing errors. A coverage error would occur, for example, if a person were counted twice in a survey, or their answers were duplicated on the survey. If an interviewer is [[biased]](https://www.investopedia.com/articles/investing/050813/4-behavioral-biases-and-how-avoid-them.asp) in their sampling, the non-sampling error would be considered an interviewer error.
 
 In addition, it is difficult to prove that respondents in a survey are providing false information—either by mistake or on purpose. Either way, misinformation provided by respondents count as non-sampling errors and they are described as response errors.
 

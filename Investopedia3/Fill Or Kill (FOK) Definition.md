@@ -16,7 +16,7 @@ author: James Chen
 Fill Or Kill (FOK) Definition
 ## What Is Fill Or Kill (FOK)?
 
-Fill or kill (FOK) is a conditional type of [time-in-force](https://www.investopedia.com/terms/t/timeinforce.asp) order used in [securities](https://www.investopedia.com/terms/s/security.asp) trading that instructs a brokerage to execute a transaction immediately and completely or not at all. This type of order is most often used by active traders and is usually for a large quantity of stock. The order [must be filled](https://www.investopedia.com/terms/m/mustbefilled.asp) in its entirety or else canceled (killed).
+Fill or kill (FOK) is a conditional type of [[time-in-force]](https://www.investopedia.com/terms/t/timeinforce.asp) order used in [[securities]](https://www.investopedia.com/terms/s/security.asp) trading that instructs a brokerage to execute a transaction immediately and completely or not at all. This type of order is most often used by active traders and is usually for a large quantity of stock. The order [[must be filled]](https://www.investopedia.com/terms/m/mustbefilled.asp) in its entirety or else canceled (killed).
 
 A FOK is essentially an all-or-none ([AON](https://www.investopedia.com/terms/a/aon.asp)) and immediate-or-cancel order ([IOC](https://www.investopedia.com/terms/i/immediateorcancel.asp)) combined.
 
@@ -30,9 +30,9 @@ A FOK is essentially an all-or-none ([AON](https://www.investopedia.com/terms/a/
 
 The purpose of a fill or kill (FOK) order is to ensure that an entire position is executed at prevailing prices in a timely manner. Without a fill or kill designation, it might take a prolonged period of time to complete a large order. Because such orders are typically placed for large quantities, prolonged execution of the order has the potential to cause significant changes to a stock's price and causing market disruption.
 
-On some exchanges, an FOK should be executed within a few seconds of it being shown to the trading community. In this context, the market or [limit order](https://www.investopedia.com/terms/l/limitorder.asp) FOK is treated similarly to an "all or none" order with the exception that it is immediately canceled if not completely filled. On other exchanges, an FOK is executed by filling the order with the number of shares that the first bid or offer makes available. Then, any unfilled balance of shares would be canceled. In this context, the FOK is a way for a buyer or seller to fill what is possible, then cancel the rest.
+On some exchanges, an FOK should be executed within a few seconds of it being shown to the trading community. In this context, the market or [[limit order]](https://www.investopedia.com/terms/l/limitorder.asp) FOK is treated similarly to an "all or none" order with the exception that it is immediately canceled if not completely filled. On other exchanges, an FOK is executed by filling the order with the number of shares that the first bid or offer makes available. Then, any unfilled balance of shares would be canceled. In this context, the FOK is a way for a buyer or seller to fill what is possible, then cancel the rest.
 
-In reality, however, the fill-or-kill type of trade does not occur very often. Other methods of instructing a brokerage on the time frame in which a trade is to be executed include immediate or cancel (IOC) which means to fill all or part of the order immediately, then cancel any part that cannot be filled, and [good ‘til canceled](https://www.investopedia.com/terms/g/gtc.asp) (GTC), which keeps an order open until it is able to be filled at a specified price.
+In reality, however, the fill-or-kill type of trade does not occur very often. Other methods of instructing a brokerage on the time frame in which a trade is to be executed include immediate or cancel (IOC) which means to fill all or part of the order immediately, then cancel any part that cannot be filled, and [[good ‘til canceled]](https://www.investopedia.com/terms/g/gtc.asp) (GTC), which keeps an order open until it is able to be filled at a specified price.
 
 ## Fill or Kill Example
 

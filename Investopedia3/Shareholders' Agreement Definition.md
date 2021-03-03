@@ -16,7 +16,7 @@ author: James Chen
 Shareholders' Agreement Definition
 ## What Is a Shareholders' Agreement?
 
-A shareholders' agreement, also called a stockholders’ agreement, is an arrangement among a company's shareholders that describes how the company should be operated and outlines shareholders' rights and obligations. The agreement also includes information on the management of the company and privileges and protection of [shareholders](https://www.investopedia.com/terms/s/shareholder.asp).
+A shareholders' agreement, also called a stockholders’ agreement, is an arrangement among a company's shareholders that describes how the company should be operated and outlines shareholders' rights and obligations. The agreement also includes information on the management of the company and privileges and protection of [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp).
 
 ## The Basics of a Shareholders' Agreement
 
@@ -24,7 +24,7 @@ The shareholders' agreement is intended to make sure that shareholders are treat
 
 The agreement includes sections outlining the fair and legitimate pricing of shares (particularly when sold). It also allows shareholders to make decisions about what outside parties may become future shareholders and provides safeguards for minority positions.
 
-A shareholders’ agreement includes a date, often the number of shares issued, a [capitalization (or “cap”) table](https://www.investopedia.com/terms/c/capitalization-table.asp), outlining shareholders and their percentage of company ownership, any restrictions on transferring shares, [pre-emptive rights](https://www.investopedia.com/terms/p/preemptiveright.asp) for current shareholders to purchase shares (in the event of a new issue to maintain their percentage of ownership), and details on payments in the event of a company sale.
+A shareholders’ agreement includes a date, often the number of shares issued, a [[capitalization (or “cap”) table]](https://www.investopedia.com/terms/c/capitalization-table.asp), outlining shareholders and their percentage of company ownership, any restrictions on transferring shares, [[pre-emptive rights]](https://www.investopedia.com/terms/p/preemptiveright.asp) for current shareholders to purchase shares (in the event of a new issue to maintain their percentage of ownership), and details on payments in the event of a company sale.
 
 Shareholder agreements differ from company bylaws. While bylaws are mandatory and outline the governing of the company’s operations, a shareholder agreement is optional. This document is often by and for shareholders, outlining certain rights and obligations. It can be most helpful when a corporation has a small number of active shareholders.
 

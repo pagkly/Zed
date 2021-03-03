@@ -16,9 +16,9 @@ author: Julia Kagan
 Loan Production Office (LPO)
 ## What Is a Loan Production Office?
 
-A loan production office (LPO) is an administrative division of a bank, that, as the name implies, deals solely with loan-related activities. The [Federal Reserve](https://www.investopedia.com/articles/investing/061515/what-do-federal-reserve-banks-do.asp) defines an LPO as “a staffed facility, other than a branch, which is open to the public and provides lending-related services such as loan information and applications.”
+A loan production office (LPO) is an administrative division of a bank, that, as the name implies, deals solely with loan-related activities. The [[Federal Reserve]](https://www.investopedia.com/articles/investing/061515/what-do-federal-reserve-banks-do.asp) defines an LPO as “a staffed facility, other than a branch, which is open to the public and provides lending-related services such as loan information and applications.”
 
-Regulated by both state law and the Board of Directors of the main banking facility, the LPO itself cannot make loans, but may only carry out administrative functions regarding the processing of them. For that reason, regulations prohibit prevent the LPO facility from being called a [branch](https://www.investopedia.com/terms/b/branch-banking.asp) of the bank—unless the state banking commissioner grants an application for it to act in a branch capacity. At this point, the loan production office may provide full [loan servicing](https://www.investopedia.com/terms/l/loan_servicing.asp).
+Regulated by both state law and the Board of Directors of the main banking facility, the LPO itself cannot make loans, but may only carry out administrative functions regarding the processing of them. For that reason, regulations prohibit prevent the LPO facility from being called a [[branch]](https://www.investopedia.com/terms/b/branch-banking.asp) of the bank—unless the state banking commissioner grants an application for it to act in a branch capacity. At this point, the loan production office may provide full [[loan servicing]](https://www.investopedia.com/terms/l/loan_servicing.asp).
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Regulated by both state law and the Board of Directors of the main banking facil
 
 ## How a Loan Production Office Works
 
-Located on the bank's premises or at another location, the loan production office reviews, and process loan applications, checking for [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) standard compliance and completeness of documents. It most often deals with residential mortgages, but services other sorts of loans as well.
+Located on the bank's premises or at another location, the loan production office reviews, and process loan applications, checking for [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) standard compliance and completeness of documents. It most often deals with residential mortgages, but services other sorts of loans as well.
 
 An LPO processor or underwriter performs these support duties: the receipt, collection, distribution, and analysis of information required for the processing or underwriting of a loan. Also, the LPO processor communicates with applicants to obtain the information necessary for these activities. Other roles in an LPO include loan production leader, loan specialist, operations supervisor, and customer service coordinator.
 
@@ -43,7 +43,7 @@ A loan production office can only act in a branch capacity, providing full loan 
 
 ## Special Considerations for Loan Production Office
 
-Because it is not a full branch of the bank, the loan production office is not required to post [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) or [Availability of Funds and Collection of Checks](https://www.investopedia.com/terms/r/regulation-cc.asp) (Regulation CC) policies or signage. However, the office should display an Equal Housing Lender poster, which is a requirement wherever deposits are received or loans made.
+Because it is not a full branch of the bank, the loan production office is not required to post [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic.asp) (FDIC) or [Availability of Funds and Collection of Checks](https://www.investopedia.com/terms/r/regulation-cc.asp) (Regulation CC) policies or signage. However, the office should display an Equal Housing Lender poster, which is a requirement wherever deposits are received or loans made.
 
 ## LPO vs. Loan Servicer
 

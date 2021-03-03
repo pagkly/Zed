@@ -42,7 +42,7 @@ They also are used to promote certain types of behaviors that are seen as benefi
 
 Tax deductions are expenses that can be subtracted from gross income to reduce taxable income.1
 
-For example, if a single filer's taxable income for the tax year is $75,000, the person will fall in the 22% [marginal tax bracket](https://www.investopedia.com/terms/m/marginaltaxrate.asp) for 2020 and 2021.2 3 The total marginal tax bill will be 22% x $75,000 = $16,500. However, if that person qualifies for an $8,000 tax deduction, the income taxed will be $75,000 – $8,000 = $67,000 taxable income, not $75,000. That reduces the person's tax bill to $14,740.
+For example, if a single filer's taxable income for the tax year is $75,000, the person will fall in the 22% [[marginal tax bracket]](https://www.investopedia.com/terms/m/marginaltaxrate.asp) for 2020 and 2021.2 3 The total marginal tax bill will be 22% x $75,000 = $16,500. However, if that person qualifies for an $8,000 tax deduction, the income taxed will be $75,000 – $8,000 = $67,000 taxable income, not $75,000. That reduces the person's tax bill to $14,740.
 
 The reduction of taxable income is a tax break for the taxpayer who ends up paying less to the government.
 
@@ -56,7 +56,7 @@ In effect, a tax credit is applied to the amount of tax owed by the taxpayer aft
 
 An exemption screens a certain portion of income or type of income from taxation.
 
-For example, an expatriate who earns income in a foreign country is eligible for a tax break of $107,600 as of the 2020 tax year. This is applied through the [Foreign Earned Income Exclusion](https://www.investopedia.com/terms/f/foreign-earned-income-exclusion.asp) (FEIE).
+For example, an expatriate who earns income in a foreign country is eligible for a tax break of $107,600 as of the 2020 tax year. This is applied through the [[Foreign Earned Income Exclusion]](https://www.investopedia.com/terms/f/foreign-earned-income-exclusion.asp) (FEIE).
 
 An expat who earns $180,000 for a job in a foreign country, for example, will be taxed only on the amount that exceeds $107,600, or $72,400.
 

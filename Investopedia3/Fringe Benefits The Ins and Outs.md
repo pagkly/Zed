@@ -16,13 +16,13 @@ author: Julia Kagan
 Fringe Benefits: The Ins and Outs
 ## What Are Fringe Benefits?
 
-Fringe benefits are additions to compensation that companies give their employees. Some fringe [benefits](https://www.investopedia.com/financial-edge/0912/companies-that-offer-unique-employee-discounts.aspx) are given universally to all employees of a company while others may be offered only to those at executive levels. Some benefits are awarded to compensate employees for costs related to their work while others are geared to general job satisfaction.
+Fringe benefits are additions to compensation that companies give their employees. Some fringe [[benefits]](https://www.investopedia.com/financial-edge/0912/companies-that-offer-unique-employee-discounts.aspx) are given universally to all employees of a company while others may be offered only to those at executive levels. Some benefits are awarded to compensate employees for costs related to their work while others are geared to general job satisfaction.
 
 In any case, employers use fringe benefits to help them recruit, motivate, and keep high-quality people.
 
 ## Understanding Fringe Benefits
 
-[Common fringe benefits are basic items often included in hiring packages](https://www.investopedia.com/ask/answers/011915/what-are-some-examples-common-fringe-benefits.asp). These include health insurance, life insurance, tuition assistance, childcare reimbursement, cafeteria subsidies, below-market loans, employee discounts, [employee stock options](https://www.investopedia.com/terms/e/eso.asp), and personal use of a company-owned vehicle.
+[Common fringe benefits are basic items often included in hiring packages](https://www.investopedia.com/ask/answers/011915/what-are-some-examples-common-fringe-benefits.asp). These include health insurance, life insurance, tuition assistance, childcare reimbursement, cafeteria subsidies, below-market loans, employee discounts, [[employee stock options]](https://www.investopedia.com/terms/e/eso.asp), and personal use of a company-owned vehicle.
 
 Uncommon fringe benefits may fit the company profile. PetSmart And Dogtopia both operate pet-friendly workplaces. Ben&Jerry's rewards its workers with free ice cream. Patagonia's headquarters features extensive volleyball courts and yoga classes.
 
@@ -45,11 +45,11 @@ In general, fringe benefits are valued at fair market value. This is the amount 
 
 ## Special Considerations
 
-By default, fringe benefits are taxable unless they are specifically exempted. Recipients of taxable fringe benefits are required to include the [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of the benefit in their taxable income for the year.
+By default, fringe benefits are taxable unless they are specifically exempted. Recipients of taxable fringe benefits are required to include the [[fair market value]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of the benefit in their taxable income for the year.
 
 The companies that compete for the best talent in highly competitive fields may offer the most extraordinary fringe benefits.
 
-The Internal Revenue Service (IRS) maintains a list called the [Tax Guide to Fringe Benefits](https://www.investopedia.com/terms/i/irs-publication-15-b.asp). As of 2019, the list of fringe benefits excluded from income taxes includes:1
+The Internal Revenue Service (IRS) maintains a list called the [[Tax Guide to Fringe Benefits]](https://www.investopedia.com/terms/i/irs-publication-15-b.asp). As of 2019, the list of fringe benefits excluded from income taxes includes:1
 
 -   Accident and health benefits
 -   Achievement awards (up to $1,600 for qualified awards)
@@ -57,7 +57,7 @@ The Internal Revenue Service (IRS) maintains a list called the [Tax Guide to Fri
 -   Athletic facilities
 -   Commuting benefits
 -   De minimis (minimal) benefits
--   [Dependent care assistance](https://www.investopedia.com/terms/d/dependent-care-benefits.asp)
+-   [[Dependent care assistance]](https://www.investopedia.com/terms/d/dependent-care-benefits.asp)
 -   Educational assistance
 -   Employee discounts
 -   Employee stock options

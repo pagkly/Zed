@@ -16,7 +16,7 @@ author: Will Kenton
 Net Debt-to-EBITDA Ratio
 ## What Is the Net Debt-to-EBITDA Ratio?
 
-The net debt-to-[EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) (earnings before interest depreciation and amortization) ratio is a measurement of leverage, calculated as a company's interest-bearing liabilities minus cash or cash equivalents, divided by its EBITDA. The net debt-to-EBITDA ratio is a debt ratio that shows how many years it would take for a company to pay back its debt if net debt and EBITDA are held constant. However, if a company has more cash than debt, the ratio can be negative. It is similar to the [debt/EBITDA ratio](https://www.investopedia.com/terms/d/debt_edbitda.asp), but net debt subtracts cash and cash equivalents while the standard ratio does not.
+The net debt-to-[EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) (earnings before interest depreciation and amortization) ratio is a measurement of leverage, calculated as a company's interest-bearing liabilities minus cash or cash equivalents, divided by its EBITDA. The net debt-to-EBITDA ratio is a debt ratio that shows how many years it would take for a company to pay back its debt if net debt and EBITDA are held constant. However, if a company has more cash than debt, the ratio can be negative. It is similar to the [[debt/EBITDA ratio]](https://www.investopedia.com/terms/d/debt_edbitda.asp), but net debt subtracts cash and cash equivalents while the standard ratio does not.
 
 ##  The Formula for Net Debt-to-EBITDA Is
 
@@ -33,7 +33,7 @@ Net Debt to EBITDA\=Total Debt−Cash&EquivalentsEBITDANet \\ Debt \\ to \\ EBIT
 
 The net debt-to-EBITDA ratio is popular with analysts because it takes into account a company's ability to decrease its debt. Ratios higher than 4 or 5 typically set off alarm bells because this indicates that a company is less likely to be able to handle its debt burden, and thus is less likely to be able to take on the additional debt required to grow the business.
 
-The net debt-to-EBITDA ratio should be compared with that of a benchmark or the industry average to determine the creditworthiness of a company. Additionally, a [horizontal analysis](https://www.investopedia.com/terms/h/horizontalanalysis.asp) could be conducted to determine whether a company has increased or decreased its debt burden over a specified period. For horizontal analysis, ratios or items in the financial statement are compared with those of previous periods to determine how the company has grown over the specified time frame.
+The net debt-to-EBITDA ratio should be compared with that of a benchmark or the industry average to determine the creditworthiness of a company. Additionally, a [[horizontal analysis]](https://www.investopedia.com/terms/h/horizontalanalysis.asp) could be conducted to determine whether a company has increased or decreased its debt burden over a specified period. For horizontal analysis, ratios or items in the financial statement are compared with those of previous periods to determine how the company has grown over the specified time frame.
 
 ## Example of How to Use Net Debt-to-EBITDA
 

@@ -16,7 +16,7 @@ author: James Chen
 Who Is Gordon Gekko?
 ## Who Is Gordon Gekko?
 
-Gordon Gekko is a fictional character who appears as the villain in the popular 1987 Oliver Stone movie "Wall Street" and its 2010 sequel "Wall Street: Money Never Sleeps." The character, a ruthless and wildly wealthy investor and [corporate raider](https://www.investopedia.com/terms/c/corporate-raider.asp), has become a cultural symbol for greed, as epitomized by the famous "Wall Street" quote "Greed is good."
+Gordon Gekko is a fictional character who appears as the villain in the popular 1987 Oliver Stone movie "Wall Street" and its 2010 sequel "Wall Street: Money Never Sleeps." The character, a ruthless and wildly wealthy investor and [[corporate raider]](https://www.investopedia.com/terms/c/corporate-raider.asp), has become a cultural symbol for greed, as epitomized by the famous "Wall Street" quote "Greed is good."
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Gordon Gekko is a fictional character who appears as the villain in the popular 
 
 ## Understanding Gordon Gekko
 
-In "Wall Street," the protagonist, a young stockbroker named Bud Fox, is desperate to work with Gordon Gekko, who is a legend in the world of finance. Predatory, amoral Gekko is only impressed when Fox is willing to compromise his ethics and provide Gekko with inside information about his father's company. Gekko makes Fox wealthy, but eventually, Fox regrets what he has done and turns state's evidence against Gekko, who is sent to prison for [securities fraud](https://www.investopedia.com/terms/s/securities-fraud.asp) and [insider trading](https://www.investopedia.com/terms/i/insidertrading.asp).
+In "Wall Street," the protagonist, a young stockbroker named Bud Fox, is desperate to work with Gordon Gekko, who is a legend in the world of finance. Predatory, amoral Gekko is only impressed when Fox is willing to compromise his ethics and provide Gekko with inside information about his father's company. Gekko makes Fox wealthy, but eventually, Fox regrets what he has done and turns state's evidence against Gekko, who is sent to prison for [[securities fraud]](https://www.investopedia.com/terms/s/securities-fraud.asp) and [[insider trading]](https://www.investopedia.com/terms/i/insidertrading.asp).
 
 For his portrayal of Gordon Gekko in the original film, Michael Douglas won an Academy Award.
 
@@ -38,7 +38,7 @@ The famous Gekko quote "Greed is good" echoes a speech Boesky gave in 1985 at th
 
 Gekko's penthouse office and elegant suits were modeled after those of art collector Asher Edelman. Weiser adds that some of Gekko's blunt, workaholic dialogue is lifted from the phone calls and work sessions of the film's director and co-writer Oliver Stone.
 
-The film's producer, Ed Pressman, stated that one of the inspirations for Gordon Gekko was [Michael Milken](https://www.investopedia.com/terms/m/michaelmilken.asp). In the 1980s, Milken gained a reputation as the "Junk Bond King," but he was arrested in 1989 and convicted of multiple counts of fraud and [racketeering](https://www.investopedia.com/terms/r/racketeering.asp). Oliver Stone looks to his father as the inspiration for the overall film of "Wall Street," as his father was a broker and frequently lamented the lack of good movies on business.
+The film's producer, Ed Pressman, stated that one of the inspirations for Gordon Gekko was [[Michael Milken]](https://www.investopedia.com/terms/m/michaelmilken.asp). In the 1980s, Milken gained a reputation as the "Junk Bond King," but he was arrested in 1989 and convicted of multiple counts of fraud and [[racketeering]](https://www.investopedia.com/terms/r/racketeering.asp). Oliver Stone looks to his father as the inspiration for the overall film of "Wall Street," as his father was a broker and frequently lamented the lack of good movies on business.
 
 ## Emulation of Gordon Gekko
 

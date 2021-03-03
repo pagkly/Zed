@@ -16,7 +16,7 @@ author: Adam hayes
 Yearly Rate Of Return Method
 ## What Is The Yearly Rate Of Return Method?
 
-The yearly rate of return method, commonly referred to as the [annual percentage rate](https://www.investopedia.com/terms/a/apr.asp), is the amount earned on a fund throughout an entire year. The yearly rate of return is calculated by taking the amount of money gained or lost at the end of the year and dividing it by the initial investment at the beginning of the year. This method is also referred to as the annual rate of return or the nominal annual rate.
+The yearly rate of return method, commonly referred to as the [[annual percentage rate]](https://www.investopedia.com/terms/a/apr.asp), is the amount earned on a fund throughout an entire year. The yearly rate of return is calculated by taking the amount of money gained or lost at the end of the year and dividing it by the initial investment at the beginning of the year. This method is also referred to as the annual rate of return or the nominal annual rate.
 
 ### Key Takeaways
 
@@ -32,16 +32,16 @@ Yearly Rate of Return\=(EYP−BYPBYP)×100where:EYP\=End of year priceBYP\
 
 If a stock begins the year at $25.00 per share and ends the year with a market price of $45.00 a share, this stock would have an annual, or yearly, rate of return of 80.00%. First, we subtract the end of year price from the beginning price, which equals 45 - 25, or 20. Next, we divide by the beginning price, or 20/25 equals .80. Lastly, to arrive at a percentage, .80 is multiplied by 100 in order to arrive at a percentage and the rate of return 80.00%.
 
-It should be noted that this would technically be called [capital appreciation](https://www.investopedia.com/terms/c/capitalappreciation.asp), which is only one source of an equity security’s return. The other component would be any [dividend yield](https://www.investopedia.com/terms/d/dividendyield.asp). For instance, if the stock in the earlier example paid $2 in dividends, the rate of return would be $2 greater or, using the same calculation, roughly 88.00% over the one-year period.
+It should be noted that this would technically be called [[capital appreciation]](https://www.investopedia.com/terms/c/capitalappreciation.asp), which is only one source of an equity security’s return. The other component would be any [[dividend yield]](https://www.investopedia.com/terms/d/dividendyield.asp). For instance, if the stock in the earlier example paid $2 in dividends, the rate of return would be $2 greater or, using the same calculation, roughly 88.00% over the one-year period.
 
-As a measure of return, the yearly rate of return is rather limiting because it delivers only a percentage increase over a single, one-year period. By not taking into consideration the potential effects of [compounding](https://www.investopedia.com/terms/c/compounding.asp) over many years, it’s limited by not including a growth component. But as a single period rate, it does serve its purpose.
+As a measure of return, the yearly rate of return is rather limiting because it delivers only a percentage increase over a single, one-year period. By not taking into consideration the potential effects of [[compounding]](https://www.investopedia.com/terms/c/compounding.asp) over many years, it’s limited by not including a growth component. But as a single period rate, it does serve its purpose.
 
 ## Other Return Measures
 
 Other common return measures, which may be an extension of the basic return method, include adjusting for discrete or continuous time periods, which is helpful for more accurate compounding calculations over longer time periods and in certain financial market applications.
 
-Asset managers commonly use [money-weighted](https://www.investopedia.com/terms/m/money-weighted-return.asp) and [time-weighted rates](https://www.investopedia.com/terms/t/time-weightedror.asp) of return to measure performance or the rate of return on an investment portfolio. While money-weighted rates of return focus on cash flows, the time-weighted rate of return looks at the compound rate of growth of the portfolio.
+Asset managers commonly use [[money-weighted]](https://www.investopedia.com/terms/m/money-weighted-return.asp) and [[time-weighted rates]](https://www.investopedia.com/terms/t/time-weightedror.asp) of return to measure performance or the rate of return on an investment portfolio. While money-weighted rates of return focus on cash flows, the time-weighted rate of return looks at the compound rate of growth of the portfolio.
 
-In an effort to be more transparent with investors, particularly retail, measuring and disseminating investment performance has become its niche within capital markets. The CFA Institute, a worldwide leader in the advancement of financial analysis, now offers a professional [Certificate in Investment Performance Measurement (CIPM)](https://www.investopedia.com/terms/c/certificate-investment-performance-measurement-cipm.asp) designation.
+In an effort to be more transparent with investors, particularly retail, measuring and disseminating investment performance has become its niche within capital markets. The CFA Institute, a worldwide leader in the advancement of financial analysis, now offers a professional [[Certificate in Investment Performance Measurement (CIPM)]](https://www.investopedia.com/terms/c/certificate-investment-performance-measurement-cipm.asp) designation.
 
-According to the CIPM Association, the CIPM program was developed by the [CFA Institute](https://www.investopedia.com/terms/c/cfainstitute.asp) as a specialty credentialing program that develops and recognizes the performance evaluation and presentation expertise of investment professionals who "pursue excellence with a passion."
+According to the CIPM Association, the CIPM program was developed by the [[CFA Institute]](https://www.investopedia.com/terms/c/cfainstitute.asp) as a specialty credentialing program that develops and recognizes the performance evaluation and presentation expertise of investment professionals who "pursue excellence with a passion."

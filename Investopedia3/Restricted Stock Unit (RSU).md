@@ -16,7 +16,7 @@ author: Jason Fernando
 Restricted Stock Unit (RSU)
 ## What Is a Restricted Stock Unit (RSU)?
 
-A restricted stock unit (RSU) is a form of compensation issued by an employer to an employee in the form of company shares. [Restricted stock](https://www.investopedia.com/terms/r/restrictedstock.asp) units are issued to an employee through a [vesting](https://www.investopedia.com/terms/v/vesting.asp) plan and distribution schedule after achieving required performance milestones or upon remaining with their employer for a particular length of time.
+A restricted stock unit (RSU) is a form of compensation issued by an employer to an employee in the form of company shares. [Restricted stock](https://www.investopedia.com/terms/r/restrictedstock.asp) units are issued to an employee through a [[vesting]](https://www.investopedia.com/terms/v/vesting.asp) plan and distribution schedule after achieving required performance milestones or upon remaining with their employer for a particular length of time.
 
 RSUs give an employee interest in company stock but they have no tangible value until vesting is complete. The restricted stock units are assigned a fair market value when they vest. Upon vesting, they are considered income, and a portion of the shares is withheld to pay income taxes. The employee receives the remaining shares and can sell them at their discretion.
 
@@ -29,11 +29,11 @@ RSUs give an employee interest in company stock but they have no tangible value 
 
 ## Understanding Restricted Stock
 
-Restricted stock as a form of executive compensation became more popular after accounting scandals in the mid-2000s involving companies like Enron and WorldCom as a better alternative to [stock options](https://www.investopedia.com/terms/e/eso.asp). At the end of 2004, the [Financial Accounting Standards Board](https://www.investopedia.com/terms/f/fasb.asp) (FASB) issued a statement requiring companies to book an accounting expense for stock options issued. This action leveled the playing field among equity types.
+Restricted stock as a form of executive compensation became more popular after accounting scandals in the mid-2000s involving companies like Enron and WorldCom as a better alternative to [[stock options]](https://www.investopedia.com/terms/e/eso.asp). At the end of 2004, the [[Financial Accounting Standards Board]](https://www.investopedia.com/terms/f/fasb.asp) (FASB) issued a statement requiring companies to book an accounting expense for stock options issued. This action leveled the playing field among equity types.
 
 Previously, stock options had been the vehicle of choice, but with scandals, malpractice, and issues of tax-evasion, companies were (as of 2004) able to consider other types of stock awards that might be more effective in attracting and retaining talent. Soon, restricted stock units, which before had typically been reserved for higher levels of management, were being granted to all levels of employees around the world.
 
-Accordingly, the median number of stock options granted per company by [Fortune 1000](https://www.investopedia.com/terms/f/fortune-1000.asp) firms declined by 40% between 2003 and 2005, while the median number of restricted stock awards increased by nearly 41% over the same period.
+Accordingly, the median number of stock options granted per company by [[Fortune 1000]](https://www.investopedia.com/terms/f/fortune-1000.asp) firms declined by 40% between 2003 and 2005, while the median number of restricted stock awards increased by nearly 41% over the same period.
 
 #### Restricted Stock Unit (RSU)
 
@@ -57,11 +57,11 @@ Suppose Madeline receives a job offer. Because the company thinks Madeline's ski
 
 The company's stock is worth $10 per share, making the RSUs potentially worth an additional $10,000. To give Madeline an incentive to stay with the company and receive the 1,000 shares, it puts the RSUs on a five-year vesting schedule. After one year of employment, Madeline receives 200 shares; after two years, she receives another 200, and so on until she acquires all 1,000 shares at the end of the vesting period. Depending on how the company's stock performs, Madeline may receive more or less than $10,000.
 
-As a real-world example of what a company does to issue RSUs, take a look at December 2017 SEC [Form 4](https://www.investopedia.com/terms/f/form4.asp) filed by the electric vehicle company [Tesla, Inc.](https://www.investopedia.com/markets/quote?tvwidgetsymbol=tsla) (NASDAQ: TSLA). This form indicates that Eric Branderiz—the company's former chief accounting officer—who received some restricted stock, wished to convert 4,808 restricted stock units into [common shares](https://www.investopedia.com/terms/c/commonstock.asp).
+As a real-world example of what a company does to issue RSUs, take a look at December 2017 SEC [[Form 4]](https://www.investopedia.com/terms/f/form4.asp) filed by the electric vehicle company [[Tesla, Inc.]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=tsla) (NASDAQ: TSLA). This form indicates that Eric Branderiz—the company's former chief accounting officer—who received some restricted stock, wished to convert 4,808 restricted stock units into [[common shares]](https://www.investopedia.com/terms/c/commonstock.asp).
 
  SEC EDGAR
 
-_Source: [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/webusers.htm)_
+_Source: [[SEC EDGAR]](https://www.sec.gov/edgar/searchedgar/webusers.htm)_
 
 ## Frequently Asked Questions
 

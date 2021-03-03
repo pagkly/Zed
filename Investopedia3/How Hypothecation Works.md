@@ -28,7 +28,7 @@ A rental property, for example, may undergo hypothecation as collateral against 
 
 ## Understanding Hypothecation
 
-Hypothecation occurs most commonly in mortgage lending. The borrower technically owns the house, but as the house is pledged as collateral, the mortgage lender has the right to seize the house if the borrower cannot meet the repayment terms of the [loan agreement](https://www.investopedia.com/best-personal-loans-4773300)—which occurred during the [foreclosure crisis](https://www.investopedia.com/terms/f/foreclosure-crisis.asp). Auto loans are similarly secured by the underlying vehicle. [Unsecured loans](https://www.investopedia.com/terms/u/unsecuredloan.asp), on the other hand, do not work with hypothecation since there is no collateral to claim in the event of default.
+Hypothecation occurs most commonly in mortgage lending. The borrower technically owns the house, but as the house is pledged as collateral, the mortgage lender has the right to seize the house if the borrower cannot meet the repayment terms of the [[loan agreement]](https://www.investopedia.com/best-personal-loans-4773300)—which occurred during the [[foreclosure crisis]](https://www.investopedia.com/terms/f/foreclosure-crisis.asp). Auto loans are similarly secured by the underlying vehicle. [[Unsecured loans]](https://www.investopedia.com/terms/u/unsecuredloan.asp), on the other hand, do not work with hypothecation since there is no collateral to claim in the event of default.
 
 As hypothecation provides security to the lender because of the collateral pledged by the borrower, it is easier to secure a loan, and the lender may offer a lower interest rate than on an unsecured loan.
 
@@ -36,6 +36,6 @@ As hypothecation provides security to the lender because of the collateral pledg
 
 Margin lending in brokerage accounts is another common form of hypothecation. When an investor chooses to buy on margin or sell-short, they are agreeing that those securities can be sold if necessary if there is a margin call. The investor owns the securities in their account, but the broker can sell them if they issue a margin call that the investor cannot meet, to cover the investors’ losses.
 
-When banks and brokers use hypothecated collateral as collateral to back their own transactions and trades with their client’s agreement, in order to secure a lower cost of borrowing or a rebate on fees. This is called [rehypothecation](https://www.investopedia.com/terms/r/rehypothecation.asp).
+When banks and brokers use hypothecated collateral as collateral to back their own transactions and trades with their client’s agreement, in order to secure a lower cost of borrowing or a rebate on fees. This is called [[rehypothecation]](https://www.investopedia.com/terms/r/rehypothecation.asp).
 
 Rehypothecation by banks and financial institutions is a less common practice today due to the adverse impact this practice had during the financial crisis of 2007–2008.

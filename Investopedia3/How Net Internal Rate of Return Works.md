@@ -16,7 +16,7 @@ author: Adam Hayes
 How Net Internal Rate of Return Works
 ## What Is Net Internal Rate of Return – Net IRR?
 
-Net internal rate of return (net IRR) is a performance measurement equal to the [internal rate of return](https://www.investopedia.com/terms/i/irr.asp) after fees and carried interest are factored in. It is used in [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) and portfolio management to calculate an investment's yield or overall financial quality by calculating an expected rate of return.
+Net internal rate of return (net IRR) is a performance measurement equal to the [[internal rate of return]](https://www.investopedia.com/terms/i/irr.asp) after fees and carried interest are factored in. It is used in [[capital budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp) and portfolio management to calculate an investment's yield or overall financial quality by calculating an expected rate of return.
 
 Practically, net IRR is the rate at which the net present value of negative cash flow equals the net present value of positive cash flow. A net internal rate of return is expressed as a percentage.
 
@@ -28,7 +28,7 @@ Practically, net IRR is the rate at which the net present value of negative cas
 
 ## The Basics of Net IRR
 
-The IRR is a discount rate where the [present value](https://www.investopedia.com/video/play/present-value/) of future cash flows of an investment is equal to the cost of the investment. The _net_ IRR is a modified IRR value that has taken into consideration management fees and any carried interest.
+The IRR is a discount rate where the [[present value]](https://www.investopedia.com/video/play/present-value/) of future cash flows of an investment is equal to the cost of the investment. The _net_ IRR is a modified IRR value that has taken into consideration management fees and any carried interest.
 
 Generally, a higher net internal rate of return means that it is a better investment. However, a marginally lower net IRR spread over a longer time period can be superior to a shorter-term, higher net IRR investment.
 
@@ -44,6 +44,6 @@ Net internal rate of return is commonly used in private equity to analyze invest
 
 If the investment's net present value is the same as the net present value of benefits, or if it surpasses the acceptable rate of return, the project is considered profitable. If two competing projects turn out to have the same net internal rate of return, the one with the shorter time frame is considered the better investment.
 
-In 2014, the Securities and Exchange Commission (SEC) began [investigating](https://www.reuters.com/article/us-sec-privateequity/exclusive-sec-probing-private-equity-performance-figures-sources-idUSKBN0II08K20141029) whether private equity fund managers were correctly disclosing their own invested capital into their own funds when performing net internal rate of return calculations. Including that sum—known as a "general partner commitment"—could artificially inflate fund performance because such capital infusions do not have fees attached to them.
+In 2014, the Securities and Exchange Commission (SEC) began [[investigating]](https://www.reuters.com/article/us-sec-privateequity/exclusive-sec-probing-private-equity-performance-figures-sources-idUSKBN0II08K20141029) whether private equity fund managers were correctly disclosing their own invested capital into their own funds when performing net internal rate of return calculations. Including that sum—known as a "general partner commitment"—could artificially inflate fund performance because such capital infusions do not have fees attached to them.
 
 How net IRR calculations are performed (whether they include general partner capital or not) varies among private equity firms, Reuters found. The SEC expects private equity firms to clearly report both average net IRRs and gross IRRs on all fund prospectuses and marketing material.

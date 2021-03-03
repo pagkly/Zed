@@ -16,7 +16,7 @@ author: Mitchell Grant
 Understanding Withdrawal
 ## What Is a Withdrawal?
 
-A withdrawal involves removing funds from a bank account, savings plan, pension, or trust. In some cases, conditions must be met to withdraw funds without penalty, and penalty for [early withdrawal](https://www.investopedia.com/terms/e/earlywithdrawal.asp) usually arises when a clause in an investment contract is broken.
+A withdrawal involves removing funds from a bank account, savings plan, pension, or trust. In some cases, conditions must be met to withdraw funds without penalty, and penalty for [[early withdrawal]](https://www.investopedia.com/terms/e/earlywithdrawal.asp) usually arises when a clause in an investment contract is broken.
 
 ## How a Withdrawal Works
 
@@ -36,7 +36,7 @@ On the other hand, with few exceptions, an account owner must refrain from withd
 -   Some accounts don't function like simple bank accounts and carry fees for the early withdrawal of funds.
 -   Both certificates of deposit and individual retirement accounts deal with withdrawal penalties if the accounts are withdrawn before the stipulated time.
 
-In 2013, the IRS compiled statistics about IRAs and people who withdraw money early. During the 2013 [tax year](https://www.investopedia.com/terms/t/taxyear.asp), more than 690,000 people paid penalties for early withdrawals, which was much lower than the 1.2 million in 2009.
+In 2013, the IRS compiled statistics about IRAs and people who withdraw money early. During the 2013 [[tax year]](https://www.investopedia.com/terms/t/taxyear.asp), more than 690,000 people paid penalties for early withdrawals, which was much lower than the 1.2 million in 2009.
 
 ## Special Considerations
 
@@ -48,4 +48,4 @@ In addition to an IRA withdrawal, banks typically offer certificates of deposit 
 
 Penalties for early withdrawals from CDs are steep. If someone withdrew early from a one-year CD, the average penalty was six months of interest. For a five-year CD, the typical penalty was 12 months' interest. If someone withdrew money early from a three-month CD, the penalty included the entire three months of interest accrued in the account.
 
-Some penalties from banks dipped into taking a small percentage, such as 1% or 2%, of the principal amount invested in a CD. Banks assess early [withdrawal penalties](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) proportional to the time an investor must leave the money in the account, which means a longer-term CD gets a higher penalty.
+Some penalties from banks dipped into taking a small percentage, such as 1% or 2%, of the principal amount invested in a CD. Banks assess early [[withdrawal penalties]](https://www.investopedia.com/terms/w/withdrawal-penalty.asp) proportional to the time an investor must leave the money in the account, which means a longer-term CD gets a higher penalty.

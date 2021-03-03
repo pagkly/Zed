@@ -16,7 +16,7 @@ author: Julia Kagan
 Fiduciary
 ## What Is a Fiduciary?
 
-A fiduciary is a person or organization that acts on behalf of another person or persons, putting their clients' interest ahead of their own, with a duty to preserve [good faith](https://www.investopedia.com/terms/d/doctrineofutmostgoodfaith.asp) and trust. Being a fiduciary thus requires being bound both legally and ethically to act in the other's best interests.
+A fiduciary is a person or organization that acts on behalf of another person or persons, putting their clients' interest ahead of their own, with a duty to preserve [[good faith]](https://www.investopedia.com/terms/d/doctrineofutmostgoodfaith.asp) and trust. Being a fiduciary thus requires being bound both legally and ethically to act in the other's best interests.
 
 A fiduciary may be responsible for the general well-being of another (e.g. a child's legal guardian), but often the task involves finances; managing the assets of another person, or a group of people, for example. Money managers, financial advisors, bankers, insurance agents, accountants, executors, board members, and corporate officers all have fiduciary responsibility. 
 
@@ -31,7 +31,7 @@ A fiduciary may be responsible for the general well-being of another (e.g. a chi
 
 ## Understanding a Fiduciary
 
-A fiduciary's responsibilities and duties are both ethical and legal. When a party knowingly accepts a [fiduciary duty](https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp) on behalf of another party, they are required to act in the best interest of the principal, i.e. the client or party whose assets they are managing. This is what is known as a "prudent person standard of care;" a standard that originally stems from an 1830 court ruling. This formulation of the [prudent-person rule](https://www.investopedia.com/terms/p/prudentmanrule.asp) required that a person acting as fiduciary was required to act first and foremost with the needs of beneficiaries in mind. Strict care must be taken to ensure no [conflict of interest](https://www.investopedia.com/terms/c/conflict-of-interest.asp) arises between the fiduciary and their principal.
+A fiduciary's responsibilities and duties are both ethical and legal. When a party knowingly accepts a [[fiduciary duty]](https://www.investopedia.com/ask/answers/042915/what-are-some-examples-fiduciary-duty.asp) on behalf of another party, they are required to act in the best interest of the principal, i.e. the client or party whose assets they are managing. This is what is known as a "prudent person standard of care;" a standard that originally stems from an 1830 court ruling. This formulation of the [prudent-person rule](https://www.investopedia.com/terms/p/prudentmanrule.asp) required that a person acting as fiduciary was required to act first and foremost with the needs of beneficiaries in mind. Strict care must be taken to ensure no [[conflict of interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp) arises between the fiduciary and their principal.
 
 In many cases, no profit is to be made from the relationship unless explicit consent is granted at the time the relationship begins. As an example, in the United Kingdom, fiduciaries cannot profit from their position, according to an English High Court ruling, _Keech vs. Sandford_ (1726). If the principal provides consent, then the fiduciary can keep whatever benefit they have received; these benefits can be either monetary or defined more broadly as an "opportunity."
 
@@ -48,15 +48,15 @@ Fiduciary duties appear in a wide variety of common business relationships, incl
 
 ## Fiduciary Relationship Between Trustee & Beneficiary
 
-Estate arrangements and implemented trusts involve both a trustee and a beneficiary. An individual named as a trust or estate [trustee](https://www.investopedia.com/terms/t/trustee.asp) is the fiduciary, and the beneficiary is the principal. Under a trustee/beneficiary duty, the fiduciary has legal ownership of the property or assets and holds the power necessary to handle assets held in the name of the trust. In estate law, the trustee may also be known as the estate's [executor](https://www.investopedia.com/terms/e/executor.asp).
+Estate arrangements and implemented trusts involve both a trustee and a beneficiary. An individual named as a trust or estate [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) is the fiduciary, and the beneficiary is the principal. Under a trustee/beneficiary duty, the fiduciary has legal ownership of the property or assets and holds the power necessary to handle assets held in the name of the trust. In estate law, the trustee may also be known as the estate's [[executor]](https://www.investopedia.com/terms/e/executor.asp).
 
 Note that the trustee must make decisions that are in the best interest of the beneficiary as the latter holds equitable title to the property. The trustee/beneficiary relationship is an important aspect of comprehensive estate planning, and special care should be taken to determine who is designated as trustee.
 
-Politicians often set up [blind trusts](https://www.investopedia.com/terms/b/blindtrust.asp) in order to avoid real or perceived conflict-of-interest scandals. A blind trust is a relationship in which a trustee is in charge of all of the investment of a beneficiary's [corpus](https://www.investopedia.com/articles/personal-finance/070815/10-questions-ask-your-estate-planning-attorney.asp) (assets) without the beneficiary knowing how the corpus is being invested. Even while the beneficiary has no knowledge, the trustee has a fiduciary duty to invest the corpus according to the prudent person standard of conduct. 
+Politicians often set up [[blind trusts]](https://www.investopedia.com/terms/b/blindtrust.asp) in order to avoid real or perceived conflict-of-interest scandals. A blind trust is a relationship in which a trustee is in charge of all of the investment of a beneficiary's [[corpus]](https://www.investopedia.com/articles/personal-finance/070815/10-questions-ask-your-estate-planning-attorney.asp) (assets) without the beneficiary knowing how the corpus is being invested. Even while the beneficiary has no knowledge, the trustee has a fiduciary duty to invest the corpus according to the prudent person standard of conduct. 
 
 ## Fiduciary Relationship Between Board Members & Shareholders
 
-A similar fiduciary duty can be held by [corporate directors](https://www.investopedia.com/terms/b/boardofdirectors.asp), as they can be considered trustees for stockholders if on the board of a corporation, or trustees of depositors if they serve as the director of a bank. Specific duties include the following:
+A similar fiduciary duty can be held by [[corporate directors]](https://www.investopedia.com/terms/b/boardofdirectors.asp), as they can be considered trustees for stockholders if on the board of a corporation, or trustees of depositors if they serve as the director of a bank. Specific duties include the following:
 
 ### The Duty of Care
 
@@ -94,9 +94,9 @@ Attorneys are held liable for breaches of their fiduciary duties by the client a
 
 ## Fiduciary Relationship Between Principal & Agent
 
-A more generic example of fiduciary duty lies in the [principal/agent relationship](https://www.investopedia.com/terms/p/principal-agent-relationship.asp). Any individual person, corporation, partnership, or government agency can act as a principal or agent as long as the person or business has the legal capacity to do so. Under a principal/agent duty, an agent is legally appointed to act on behalf of the principal without conflict of interest.
+A more generic example of fiduciary duty lies in the [[principal/agent relationship]](https://www.investopedia.com/terms/p/principal-agent-relationship.asp). Any individual person, corporation, partnership, or government agency can act as a principal or agent as long as the person or business has the legal capacity to do so. Under a principal/agent duty, an agent is legally appointed to act on behalf of the principal without conflict of interest.
 
-A common example of a principal/agent relationship that implies fiduciary duty is a group of shareholders as principals electing management or [C-suite](https://www.investopedia.com/terms/c/c-suite.asp) individuals to act as agents. Similarly, investors act as principals when selecting investment fund managers as agents to manage assets.
+A common example of a principal/agent relationship that implies fiduciary duty is a group of shareholders as principals electing management or [[C-suite]](https://www.investopedia.com/terms/c/c-suite.asp) individuals to act as agents. Similarly, investors act as principals when selecting investment fund managers as agents to manage assets.
 
 ## Investment Fiduciary
 
@@ -106,7 +106,7 @@ Also, hiring a financial or investment expert does not relieve the committee mem
 
 ## The Suitability Rule
 
-Broker-dealers, who are often compensated by commission, generally only have to fulfill a [suitability](https://www.investopedia.com/terms/s/suitable.asp) obligation. This is defined as making recommendations that are consistent with the needs and preferences of the underlying customer. Broker-dealers are regulated by the Financial Industry Regulatory Authority (FINRA) under standards that require them to make suitable recommendations to their clients.
+Broker-dealers, who are often compensated by commission, generally only have to fulfill a [[suitability]](https://www.investopedia.com/terms/s/suitable.asp) obligation. This is defined as making recommendations that are consistent with the needs and preferences of the underlying customer. Broker-dealers are regulated by the Financial Industry Regulatory Authority (FINRA) under standards that require them to make suitable recommendations to their clients.
 
 Instead of having to place their interests below that of the client, the suitability standard only details that the broker-dealer has to reasonably believe that any recommendations made are suitable for the client, in terms of the client's financial needs, objectives, and unique circumstances. A key distinction in terms of loyalty is also important: A broker's primary duty is to their employer, the broker-dealer for whom they work, not to their clients.
 
@@ -120,9 +120,9 @@ Under the suitability requirement, as long as the investment is suitable for the
 
 ## Suitability vs. Fiduciary Standard
 
-If your investment advisor is a [Registered Investment Advisor](https://www.investopedia.com/terms/r/ria.asp) (RIA), they share fiduciary responsibility with the investment committee. On the other hand, a broker, who works for a broker-dealer, may not. Some brokerage firms don't want or allow their brokers to be fiduciaries.
+If your investment advisor is a [[Registered Investment Advisor]](https://www.investopedia.com/terms/r/ria.asp) (RIA), they share fiduciary responsibility with the investment committee. On the other hand, a broker, who works for a broker-dealer, may not. Some brokerage firms don't want or allow their brokers to be fiduciaries.
 
-Investment advisors, who are usually fee-based, are bound to a fiduciary standard that was established as part of the [Investment Advisers Act of 1940](https://www.investopedia.com/terms/i/investadvact.asp). They can be regulated by the SEC or state securities regulators. The act is pretty specific in defining what a fiduciary means, and it stipulates a duty of loyalty and care, which means that the advisor must put their client's interests above their own.
+Investment advisors, who are usually fee-based, are bound to a fiduciary standard that was established as part of the [[Investment Advisers Act of 1940]](https://www.investopedia.com/terms/i/investadvact.asp). They can be regulated by the SEC or state securities regulators. The act is pretty specific in defining what a fiduciary means, and it stipulates a duty of loyalty and care, which means that the advisor must put their client's interests above their own.
 
 For example, the advisor cannot buy securities for their account prior to buying them for a client and is prohibited from making trades that may result in higher commissions for the advisor or their investment firm.
 
@@ -132,11 +132,11 @@ Additionally, the advisor needs to place trades under a "best execution" standar
 
 ## The Short-Lived Fiduciary Rule
 
-While the term "suitability" was the standard for transactional accounts or brokerage accounts, the [Department of Labor Fiduciary Rule](https://www.investopedia.com/updates/dol-fiduciary-rule/), proposed to toughen things up for brokers. Anyone with retirement money under management, who made recommendations or solicitations for an IRA or other tax-advantaged retirement accounts, would be considered a fiduciary required to adhere to that standard, rather than to the suitability standard that was otherwise in effect.
+While the term "suitability" was the standard for transactional accounts or brokerage accounts, the [[Department of Labor Fiduciary Rule]](https://www.investopedia.com/updates/dol-fiduciary-rule/), proposed to toughen things up for brokers. Anyone with retirement money under management, who made recommendations or solicitations for an IRA or other tax-advantaged retirement accounts, would be considered a fiduciary required to adhere to that standard, rather than to the suitability standard that was otherwise in effect.
 
 The fiduciary rule has had a long and yet unclear implementation. Originally proposed in 2010, it was scheduled to go into effect between April 10, 2017, and Jan. 1, 2018. After President Trump took office it was postponed to June 9, 2017, including a transition period for certain exemptions extending through Jan. 1, 2018.
 
-Subsequently, the implementation of all elements of the rule was pushed back to July 1, 2019. Before that could happen, the rule was vacated following a June 2018 [decision](https://www.investopedia.com/news/dols-fiduciary-rule-officially-shelved-0/) by the Fifth U.S. Circuit Court.
+Subsequently, the implementation of all elements of the rule was pushed back to July 1, 2019. Before that could happen, the rule was vacated following a June 2018 [[decision]](https://www.investopedia.com/news/dols-fiduciary-rule-officially-shelved-0/) by the Fifth U.S. Circuit Court.
 
 In June 2020, a new proposal, Proposal 3.0, was released by the Department of Labor, which "reinstated the investment advice fiduciary definition in effect since 1975 accompanied by new interpretations that extended its reach in the rollover setting, and proposed a new exemption for conflicted investment advice and principal transactions."1
 
@@ -154,7 +154,7 @@ In contrast, a situation in which an individual or entity who is legally appoint
 
 A business can insure the individuals who act as fiduciaries of a qualified retirement plan, such as the company's directors, officers, employees, and other natural person trustees.
 
-Fiduciary [liability insurance](https://www.investopedia.com/terms/l/liability_insurance.asp) is meant to fill in the gaps existing in traditional coverage offered through employee benefits liability or director's and officer's policies. It provides financial protection when the need for litigation arises, due to scenarios such as purported mismanaging of funds or investments, administrative errors or delays in transfers or distributions, a change or reduction in benefits, or erroneous advice surrounding investment allocation within the plan.
+Fiduciary [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp) is meant to fill in the gaps existing in traditional coverage offered through employee benefits liability or director's and officer's policies. It provides financial protection when the need for litigation arises, due to scenarios such as purported mismanaging of funds or investments, administrative errors or delays in transfers or distributions, a change or reduction in benefits, or erroneous advice surrounding investment allocation within the plan.
 
 ## Investment Fiduciary Guidelines
 
@@ -168,13 +168,13 @@ The process begins with fiduciaries educating themselves on the laws and rules t
 
 Formalizing the investment process starts by creating the investment program's goals and objectives. Fiduciaries should identify factors such as investment horizon, an acceptable level of risk, and expected return. By identifying these factors, fiduciaries create a framework for evaluating investment options. 
 
-Fiduciaries then need to select appropriate asset classes that will enable them to create a diversified portfolio through some justifiable methodology. Most fiduciaries go about this by employing the [modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) because MPT is one of the most accepted methods for creating investment portfolios that target a desired risk/return profile. 
+Fiduciaries then need to select appropriate asset classes that will enable them to create a diversified portfolio through some justifiable methodology. Most fiduciaries go about this by employing the [[modern portfolio theory]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) because MPT is one of the most accepted methods for creating investment portfolios that target a desired risk/return profile. 
 
 Finally, the fiduciary should formalize these steps by creating an investment policy statement that provides the detail necessary to implement a specific investment strategy. Now the fiduciary is ready to proceed with the implementation of the investment program, as identified in the first two steps.
 
 ### Step 3: Implement
 
-The implementation phase is where specific investments or investment managers are selected to fulfill the requirements detailed in the investment policy statement. A [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) process must be designed to evaluate potential investments. The due diligence process should identify criteria used to evaluate and filter through the pool of potential investment options.
+The implementation phase is where specific investments or investment managers are selected to fulfill the requirements detailed in the investment policy statement. A [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp) process must be designed to evaluate potential investments. The due diligence process should identify criteria used to evaluate and filter through the pool of potential investment options.
 
 The implementation phase is usually performed with the assistance of an investment advisor because many fiduciaries lack the skill and/or resources to perform this step. When an advisor is used to assist in the implementation phase, fiduciaries and advisors must communicate to ensure that an agreed-upon due diligence process is being used in the selection of investments or managers.
 
@@ -190,6 +190,6 @@ In addition to performance reviews, fiduciaries must review expenses incurred in
 
 ## Current Fiduciary Rules and Regulations
 
-A Department of the Treasury agency, the [Office of the Comptroller of the Currency](https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp), is in charge of regulating federal savings associations and their fiduciary activities in the U.S. Multiple fiduciary duties may at times be in conflict with one another, a problem that often occurs with real estate agents and lawyers. Two opposing interests can at best be balanced; however, balancing interests is not the same as serving the best interest of a client. 
+A Department of the Treasury agency, the [[Office of the Comptroller of the Currency]](https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp), is in charge of regulating federal savings associations and their fiduciary activities in the U.S. Multiple fiduciary duties may at times be in conflict with one another, a problem that often occurs with real estate agents and lawyers. Two opposing interests can at best be balanced; however, balancing interests is not the same as serving the best interest of a client. 
 
 Fiduciary certifications are distributed at the state level and can be revoked by the courts if a person is found to neglect their duties. To become certified, a fiduciary is required to pass an examination that tests their knowledge of laws, practices, and security-related procedures, such as background checks and screening. While board volunteers do not require certification, due diligence includes making sure that professionals working in these areas have the appropriate certifications or licenses for the tasks they are performing.

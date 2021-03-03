@@ -16,7 +16,7 @@ author: James Chen
 Does Tenancy in Common Make It Easier to Own Property?
 ## What Is Tenancy in Common – TIC?
 
-Tenancy in common is an arrangement where two or more people share ownership rights in a property or parcel of land. The property may be [commercial](https://www.investopedia.com/terms/c/commercialrealestate.asp) or residential. When a tenant in common dies, the property passes to that tenant's estate. Each independent owner may control an equal or different percentage of the total property. Also, the tenancy in common partner has the right to leave their share of the property to any beneficiary as a portion of their estate. Contract terms for tenants in common are detailed in the [deed](https://www.investopedia.com/terms/d/deed.asp), [title](https://www.investopedia.com/terms/t/title.asp), or other legally binding property ownership documents.
+Tenancy in common is an arrangement where two or more people share ownership rights in a property or parcel of land. The property may be [[commercial]](https://www.investopedia.com/terms/c/commercialrealestate.asp) or residential. When a tenant in common dies, the property passes to that tenant's estate. Each independent owner may control an equal or different percentage of the total property. Also, the tenancy in common partner has the right to leave their share of the property to any beneficiary as a portion of their estate. Contract terms for tenants in common are detailed in the [[deed]](https://www.investopedia.com/terms/d/deed.asp), [[title]](https://www.investopedia.com/terms/t/title.asp), or other legally binding property ownership documents.
 
 ## How TIC Works
 
@@ -43,17 +43,17 @@ Should the co-tenants refuse to work together, they may consider entering into a
 
 ## Property Taxes With TIC Properties
 
-The tenancy in common agreement, guided by applicable law, usually outlines the implications of shared ownership on a property's taxes. The contract will outline how [tax liability](https://www.investopedia.com/terms/t/taxliability.asp) is contractually distributed to each owner. 
+The tenancy in common agreement, guided by applicable law, usually outlines the implications of shared ownership on a property's taxes. The contract will outline how [[tax liability]](https://www.investopedia.com/terms/t/taxliability.asp) is contractually distributed to each owner. 
 
 Because a tenancy in common agreement does not legally divide a parcel of land or property, most taxing jurisdictions will not separately assign each owner a proportional property tax bill based on their ownership percentage. Most often, the tenants in common receive a single property tax bill.2
 
-In many jurisdictions, a tenancy in common agreement imposes [joint-and-several liability](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) on the co-tenants. This stipulation means each of the independent owners may be liable for the [property tax](https://www.investopedia.com/terms/p/propertytax.asp) up to the full amount of the assessment. The liability applies to each owner regardless of the level or percentage of ownership.3
+In many jurisdictions, a tenancy in common agreement imposes [[joint-and-several liability]](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) on the co-tenants. This stipulation means each of the independent owners may be liable for the [[property tax]](https://www.investopedia.com/terms/p/propertytax.asp) up to the full amount of the assessment. The liability applies to each owner regardless of the level or percentage of ownership.3
 
 Once the property tax is satisfied, co-tenants will deduct that payment from their income tax filings. If the taxing jurisdiction followed joint-and-several liability, each co-tenant might deduct the amount they contributed from personal income tax filings. In the counties that do not follow this procedure, they can deduct a percentage of the total tax up to their level of ownership.4
 
 ## Tenancy in Common vs Joint Tenancy
 
-Although they sound similar, tenancy in common differs in several ways from a [joint tenancy](https://www.investopedia.com/terms/j/joint-tenancy.asp). In a joint tenancy, tenants obtain equal shares of a property with the same deed at the same time.5
+Although they sound similar, tenancy in common differs in several ways from a [[joint tenancy]](https://www.investopedia.com/terms/j/joint-tenancy.asp). In a joint tenancy, tenants obtain equal shares of a property with the same deed at the same time.5
 
 One of the primary differences comes with the addition or removal of any member from the agreement. In TIC agreements the change in members does not break the agreement. With a joint tenancy, the agreement is broken if any of the members wish to sell their interest.5
 
@@ -67,7 +67,7 @@ In other words, tenants in common have no automatic rights of survivorship. Unle
 
 ### Marriage and Property Ownership
 
-Some states set joint tenancy as the default property ownership for married couples, while others use the tenancy in common ownership model. A third model, used in some 25 states and the District of Columbia, is a [tenancy by the entirety](https://www.investopedia.com/terms/t/tenancy-by-the-entirety.asp) (TbyE), in which each spouse has an equal and undivided interest in the property.7 8
+Some states set joint tenancy as the default property ownership for married couples, while others use the tenancy in common ownership model. A third model, used in some 25 states and the District of Columbia, is a [[tenancy by the entirety]](https://www.investopedia.com/terms/t/tenancy-by-the-entirety.asp) (TbyE), in which each spouse has an equal and undivided interest in the property.7 8
 
 ## Pros and Cons of a Tenancy in Common
 
@@ -93,7 +93,7 @@ Cons
 
 However, when mortgaging property as tenants in common, typically all borrowers sign the documents. Since all members sign mortgage documents, in the case of a default, the lender may seize the holdings from all group members. Also, even if one or more borrowers cease giving contributions to the mortgage payment, the other borrowers must still cover the payments to avoid foreclosure.9
 
-The ability to use a will for designating beneficiaries to the property allows the co-tenant with control over their share. If a co-tenant dies without a will, his interest in the property will go through [probate](https://www.investopedia.com/terms/p/probate.asp)—a costly event both in terms of time and money.10
+The ability to use a will for designating beneficiaries to the property allows the co-tenant with control over their share. If a co-tenant dies without a will, his interest in the property will go through [[probate]](https://www.investopedia.com/terms/p/probate.asp)—a costly event both in terms of time and money.10
 
 Also, the remaining co-tenants may find they now own the property with someone they do not know or with whom they do not agree. This new co-tenant may file a partition action, forcing unwilling co-tenants to sell or divide the property.9
 
@@ -101,7 +101,7 @@ Also, the remaining co-tenants may find they now own the property with someone t
 
 California allows four types of co-ownership that include community property, partnership, joint tenancy, and tenancy in common. However, TIC is the default form among unmarried parties or individuals who together acquire real property. In California, these owners have the status of tenants in common unless their agreement or contract expressly states otherwise, setting up a partnership or joint tenancy.11
 
-According to [SirkinLaw,](https://andysirkin.com/tenancy-in-common-tic/general-information/clear-answers-and-explanations/) a San Francisco real estate law firm specializing in co-ownership.
+According to [[SirkinLaw,]](https://andysirkin.com/tenancy-in-common-tic/general-information/clear-answers-and-explanations/) a San Francisco real estate law firm specializing in co-ownership.
 
 > More and more people are turning to tenancies in common… as a way to maximize their buying and selling power. These arrangements lower prices and increase choice for buyers by allowing them to pool resources and buy more real estate than they otherwise could or would.
 
@@ -111,7 +111,7 @@ According to [SirkinLaw,](https://andysirkin.com/tenancy-in-common-tic/general-i
 
 ### What does Tenancy in Common (TIC) mean?
 
-The term “Tenancy in Common” (TIC) refers to a legal arrangement in which two or more parties jointly own a piece of real property, such as a building or parcel of land. The details of these parties’ arrangement would differ from one case to the next, depending on their individual purchase contracts and legal agreements. But the key feature of a TIC is that either party can sell their share of the property while also reserving the right to [pass on their share of the property](https://www.investopedia.com/terms/i/inheritance.asp) to their heirs.
+The term “Tenancy in Common” (TIC) refers to a legal arrangement in which two or more parties jointly own a piece of real property, such as a building or parcel of land. The details of these parties’ arrangement would differ from one case to the next, depending on their individual purchase contracts and legal agreements. But the key feature of a TIC is that either party can sell their share of the property while also reserving the right to [[pass on their share of the property]](https://www.investopedia.com/terms/i/inheritance.asp) to their heirs.
 
 ### What is the difference between a Joint Tenancy and a TIC?
 

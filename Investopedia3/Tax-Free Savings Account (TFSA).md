@@ -16,7 +16,7 @@ author: Julia Kagan
 Tax-Free Savings Account (TFSA)
 ## What Is a Tax-Free Savings Account (TFSA)?
 
-A tax-free savings account (TFSA) is an account in which contributions, interest earned, dividends, and capital gains are not taxed, and can be withdrawn tax-free.1 While it's called a [savings account](https://www.investopedia.com/terms/s/savingsaccount.asp), a TFSA can hold certain investments including mutual funds, securities, and bonds as well as cash.2 This account is available to individuals ages 18 and older in Canada and can be used for any purpose.1
+A tax-free savings account (TFSA) is an account in which contributions, interest earned, dividends, and capital gains are not taxed, and can be withdrawn tax-free.1 While it's called a [[savings account]](https://www.investopedia.com/terms/s/savingsaccount.asp), a TFSA can hold certain investments including mutual funds, securities, and bonds as well as cash.2 This account is available to individuals ages 18 and older in Canada and can be used for any purpose.1
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A tax-free savings account (TFSA) is an account in which contributions, interest
 
 Tax-free savings accounts (TFSA) were introduced in Canada in 2009 with a contribution limit of C$5,000 per year. In 2013, that limit was increased to C$5,500 annually and remained at that level through 2018, except in 2015 when the limit was C$10,000.3 In 2019, the contribution limit was raised to C$6,000, where it remains for 2020.4
 
-The benefit of holding an investment within a TFSA is that you won't be taxed on any income the investment earns. As an example, let's take two savers, Joe and Jane. At the beginning of the year, Joe puts C$6,000 in an investment account earning 7% per year; Jane does the same but within a TFSA. They will each have C$6,420 at the end of the year, but Jane will be able to withdraw all C$6,420 with no tax penalty, whereas Joe would be taxed on the C$420 he earned in [capital gain](https://www.investopedia.com/terms/c/capitalgain.asp).5
+The benefit of holding an investment within a TFSA is that you won't be taxed on any income the investment earns. As an example, let's take two savers, Joe and Jane. At the beginning of the year, Joe puts C$6,000 in an investment account earning 7% per year; Jane does the same but within a TFSA. They will each have C$6,420 at the end of the year, but Jane will be able to withdraw all C$6,420 with no tax penalty, whereas Joe would be taxed on the C$420 he earned in [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp).5
 
 ### TFSA Contributions
 
@@ -44,11 +44,11 @@ Any withdrawal amount is added back to your contribution room at the beginning o
 
 ## TFSAs vs. RRSPs
 
-While a [registered retirement savings plan (RRSP)](https://www.investopedia.com/terms/r/rrsp.asp) account is specifically for retirement savings, a TFSA can be used to save for anything. The tax-free savings account differs from a registered retirement account in two other main ways:
+While a [[registered retirement savings plan (RRSP)]](https://www.investopedia.com/terms/r/rrsp.asp) account is specifically for retirement savings, a TFSA can be used to save for anything. The tax-free savings account differs from a registered retirement account in two other main ways:
 
-1.  Deposits made to an RRSP are deducted from your [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp).6 Deposits into a TFSA are not tax-deductible.1
+1.  Deposits made to an RRSP are deducted from your [[taxable income]](https://www.investopedia.com/terms/t/taxableincome.asp).6 Deposits into a TFSA are not tax-deductible.1
 2.  Withdrawals from a retirement plan are taxed as income.7 Withdrawals from a TFSA are not taxed.1
 
 ## Special Considerations
 
-Any contribution made to a TFSA beyond the maximum allowable amount is considered an over-contribution. The [Canada Revenue Agency (CRA)](https://www.investopedia.com/terms/c/ccra.asp) will charge a penalty of 1% per month on the excess contribution until it is withdrawn.3
+Any contribution made to a TFSA beyond the maximum allowable amount is considered an over-contribution. The [[Canada Revenue Agency (CRA)]](https://www.investopedia.com/terms/c/ccra.asp) will charge a penalty of 1% per month on the excess contribution until it is withdrawn.3

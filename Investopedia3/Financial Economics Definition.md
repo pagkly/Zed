@@ -16,7 +16,7 @@ author: Will Kenton
 Financial Economics Definition
 ## What Is Financial Economics?
 
-Financial economics is a branch of economics that analyzes the use and distribution of resources in [markets](https://www.investopedia.com/terms/f/financial-market.asp). Financial decisions must often take into account future events, whether those be related to individual stocks, [portfolios](https://www.investopedia.com/terms/p/portfolio.asp), or the market as a whole.
+Financial economics is a branch of economics that analyzes the use and distribution of resources in [[markets]](https://www.investopedia.com/terms/f/financial-market.asp). Financial decisions must often take into account future events, whether those be related to individual stocks, [portfolios](https://www.investopedia.com/terms/p/portfolio.asp), or the market as a whole.
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ Financial economics is a branch of economics that analyzes the use and distrib
 
 ## How Financial Economics Works
 
-Making financial decisions is not always a straightforward process. Time, [risk](https://www.investopedia.com/terms/r/risk.asp) (uncertainty), [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp), and information can create incentives or disincentives. Financial economics employs economic theory to evaluate how certain things impact decision making, providing investors with the instruments to make the right calls.
+Making financial decisions is not always a straightforward process. Time, [[risk]](https://www.investopedia.com/terms/r/risk.asp) (uncertainty), [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp), and information can create incentives or disincentives. Financial economics employs economic theory to evaluate how certain things impact decision making, providing investors with the instruments to make the right calls.
 
 Financial economics usually involves the creation of sophisticated models to test the variables affecting a particular decision. Often, these models assume that individuals or institutions making decisions act rationally, though this is not necessarily the case. The irrational behavior of parties has to be taken into account in financial economics as a potential risk factor.
 
-This branch of economics builds heavily on [microeconomics](https://www.investopedia.com/terms/m/microeconomics.asp) and basic accounting concepts. It is a quantitative discipline that uses [econometrics](https://www.investopedia.com/terms/e/econometrics.asp) as well as other mathematical tools.
+This branch of economics builds heavily on [[microeconomics]](https://www.investopedia.com/terms/m/microeconomics.asp) and basic accounting concepts. It is a quantitative discipline that uses [[econometrics]](https://www.investopedia.com/terms/e/econometrics.asp) as well as other mathematical tools.
 
 Financial economics necessitates familiarity with basic probability and statistics since these are the standard tools used to measure and evaluate risk. 
 
-Financial economics studies [fair value](https://www.investopedia.com/video/play/fair-value/), risk and returns, and the financing of securities and assets. Numerous monetary factors are taken into account, too, including [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) and inflation.
+Financial economics studies [[fair value]](https://www.investopedia.com/video/play/fair-value/), risk and returns, and the financing of securities and assets. Numerous monetary factors are taken into account, too, including [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp) and inflation.
 
 ## Financial Economics vs. Traditional Economics
 
@@ -48,12 +48,12 @@ There are many angles to the concept of financial economics. Two of the most pr
 
 ### Discounting
 
-Decision making over time recognizes the fact that the value of $1 in 10 years' time is less than the value of $1 now. Therefore, the $1 at 10 years must be discounted to allow for risk, [inflation](https://www.investopedia.com/terms/i/inflation.asp), and the simple fact that it is in the future. Failure to discount appropriately can lead to problems, such as underfunded pension schemes.
+Decision making over time recognizes the fact that the value of $1 in 10 years' time is less than the value of $1 now. Therefore, the $1 at 10 years must be discounted to allow for risk, [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), and the simple fact that it is in the future. Failure to discount appropriately can lead to problems, such as underfunded pension schemes.
 
 ### Risk Management and Diversification
 
 Advertisements for stock market-based financial products must remind potential buyers that the value of investments may fall as well as rise.
 
-Financial institutions are always looking for ways of insuring, or [hedging](https://www.investopedia.com/terms/h/hedge.asp), this risk. It is sometimes possible to hold two highly risky [assets](https://www.investopedia.com/terms/a/asset.asp) but for the overall risk to be low: if share A only performs badly when share B performs well (and vice versa) then the two shares perform a perfect hedge.
+Financial institutions are always looking for ways of insuring, or [[hedging]](https://www.investopedia.com/terms/h/hedge.asp), this risk. It is sometimes possible to hold two highly risky [[assets]](https://www.investopedia.com/terms/a/asset.asp) but for the overall risk to be low: if share A only performs badly when share B performs well (and vice versa) then the two shares perform a perfect hedge.
 
 An important part of finance is working out the total risk of a portfolio of risky assets, since the total risk may be less than the risk of the individual components.

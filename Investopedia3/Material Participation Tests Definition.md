@@ -27,7 +27,7 @@ Material participation tests are a set of Internal Revenue Services (IRS) criter
 
 ## Understanding Material Participation Tests
 
-Material participation in an income-producing activity is, generally speaking, an activity that is regular, continuous, and substantial. Income-producing actions, in which the taxpayer materially participates is an active income or loss. An active loss is deductible but subject to [at-risk rules](https://www.investopedia.com/terms/a/atriskrules.asp) or other limitations imposed by the [Internal Revenue Code (IRC)](https://www.investopedia.com/terms/i/internal-revenue-code.asp).
+Material participation in an income-producing activity is, generally speaking, an activity that is regular, continuous, and substantial. Income-producing actions, in which the taxpayer materially participates is an active income or loss. An active loss is deductible but subject to [[at-risk rules]](https://www.investopedia.com/terms/a/atriskrules.asp) or other limitations imposed by the [[Internal Revenue Code (IRC)]](https://www.investopedia.com/terms/i/internal-revenue-code.asp).
 
 [Passive activity rules](https://www.investopedia.com/terms/p/passive-activity-loss-rules.asp) apply to participation that fails to meet one of the material participation tests. A passive participation in an income-producing venture is participation that is not regular, continuous, and substantial. Income-producing actions, in which the taxpayer passively participates is passive income and loss. Passive activity rules limit the deductibility of any passive loss.
 
@@ -35,7 +35,7 @@ Material participation may or may not be worse than passive participation in any
 
 ## Types of Material Participation Tests
 
-For any tax year, a [taxpayer](https://www.investopedia.com/articles/tax/09/sources-free-tax-help.asp), or their spouse, qualifies as materially participating in a venture if they satisfy any one of the seven material participation tests.1
+For any tax year, a [[taxpayer]](https://www.investopedia.com/articles/tax/09/sources-free-tax-help.asp), or their spouse, qualifies as materially participating in a venture if they satisfy any one of the seven material participation tests.1
 
 -   Test one: Participation for more than 500 hours.
 -   Test two: Activity that constituted all participation substantially.

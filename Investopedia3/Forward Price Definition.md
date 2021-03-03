@@ -16,7 +16,7 @@ author: James Chen
 Forward Price Definition
 ## What is a Forward Price
 
-Forward price is the predetermined [delivery price](https://www.investopedia.com/terms/d/deliveryprice.asp) for an underlying commodity, currency, or financial asset as decided by the buyer and the seller of the [forward contract](https://www.investopedia.com/terms/f/forwardcontract.asp), to be paid at a predetermined date in the future. At the inception of a forward contract, the forward price makes the value of the contract zero, but changes in the price of the underlying will cause the forward to take on a positive or negative value.
+Forward price is the predetermined [[delivery price]](https://www.investopedia.com/terms/d/deliveryprice.asp) for an underlying commodity, currency, or financial asset as decided by the buyer and the seller of the [[forward contract]](https://www.investopedia.com/terms/f/forwardcontract.asp), to be paid at a predetermined date in the future. At the inception of a forward contract, the forward price makes the value of the contract zero, but changes in the price of the underlying will cause the forward to take on a positive or negative value.
 
 The forward price is determined by the following formula:
 
@@ -24,9 +24,9 @@ F0\=S0×erT\\begin{aligned} &F\_0 = S\_0 \\times e^{rT} \\\\ \\end{aligned}
 
 ## Basics of Forward Price
 
-Forward price is based on the current [spot price](https://www.investopedia.com/terms/s/spotprice.asp) of the underlying asset, plus any carrying costs such as interest, storage costs, foregone interest or other costs or [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp).
+Forward price is based on the current [[spot price]](https://www.investopedia.com/terms/s/spotprice.asp) of the underlying asset, plus any carrying costs such as interest, storage costs, foregone interest or other costs or [[opportunity costs]](https://www.investopedia.com/terms/o/opportunitycost.asp).
 
-Although the contract has no [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) at the inception, over time, a contract may gain or lose value. Offsetting positions in a forward contract are equivalent to a [zero-sum game](https://www.investopedia.com/terms/z/zero-sumgame.asp). For example, if one investor takes a long position in a pork belly forward agreement and another investor takes the [short position](https://www.investopedia.com/terms/s/short.asp), any gains in the long position equals the losses that the second investor incurs from the short position. By initially setting the value of the contract to zero, both parties are on equal ground at the inception of the contract.
+Although the contract has no [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) at the inception, over time, a contract may gain or lose value. Offsetting positions in a forward contract are equivalent to a [[zero-sum game]](https://www.investopedia.com/terms/z/zero-sumgame.asp). For example, if one investor takes a long position in a pork belly forward agreement and another investor takes the [short position](https://www.investopedia.com/terms/s/short.asp), any gains in the long position equals the losses that the second investor incurs from the short position. By initially setting the value of the contract to zero, both parties are on equal ground at the inception of the contract.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ Although the contract has no [intrinsic value](https://www.investopedia.com/term
 
 ## Forward Price Calculation Example
 
-When the underlying asset in the forward contract does not pay any [dividends](https://www.investopedia.com/terms/d/dividend.asp), the forward price can be calculated using the following formula:
+When the underlying asset in the forward contract does not pay any [[dividends]](https://www.investopedia.com/terms/d/dividend.asp), the forward price can be calculated using the following formula:
 
 F\=S×e(r×t)where:F\=the contract’s forward priceS\=the underlying asset’s current spot pricee\=the mathematical irrational constant approximatedby 2.7183r\=the risk-free rate that applies to the life of theforward contractt\=the delivery date in years\\begin{aligned} &F = S \\times e ^ { (r \\times t) } \\\\ &\\textbf{where:} \\\\ &F = \\text{the contract's forward price} \\\\ &S = \\text{the underlying asset's current spot price} \\\\ &e = \\text{the mathematical irrational constant approximated} \\\\ &\\text{by 2.7183} \\\\ &r = \\text{the risk-free rate that applies to the life of the} \\\\ &\\text{forward contract} \\\\ &t = \\text{the delivery date in years} \\\\ \\end{aligned}
 

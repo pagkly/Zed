@@ -33,15 +33,15 @@ The rule of 70 can help investors determine what the value of an investment migh
 
 Investors can use this metric to evaluate various investments including mutual fund returns and the growth rate for a retirement portfolio. For example, if the calculation yielded a result of 15 years for a portfolio to double, an investor who wants the result to be close to 10 years, could make allocation changes to the portfolio to attempt to increase the growth rate.
 
-The rule of 70 is accepted as a way to manage [exponential growth](https://www.investopedia.com/terms/e/exponential-growth.asp) concepts without complex mathematical procedures. It is most often related to items in the financial sector when examining the potential growth rate of an investment. By dividing the number 70 by the expected rate of growth, or return in financial transactions, an estimate in years can be produced.
+The rule of 70 is accepted as a way to manage [[exponential growth]](https://www.investopedia.com/terms/e/exponential-growth.asp) concepts without complex mathematical procedures. It is most often related to items in the financial sector when examining the potential growth rate of an investment. By dividing the number 70 by the expected rate of growth, or return in financial transactions, an estimate in years can be produced.
 
 ### Rules of 72 and 69
 
-In some instances, the [rule of 72](https://www.investopedia.com/terms/r/ruleof72.asp) or the rule of 69 is used. The function is the same as the rule of 70 but uses the number 72 or 69, respectively, in place of 70 in the calculations. While the rule of 69 is often considered more accurate when addressing [continuous compounding](https://www.investopedia.com/terms/c/continuouscompounding.asp) processes, 72 may be more accurate for less frequent compounding intervals. Often, the rule of 70 is used because it's easier to remember.
+In some instances, the [[rule of 72]](https://www.investopedia.com/terms/r/ruleof72.asp) or the rule of 69 is used. The function is the same as the rule of 70 but uses the number 72 or 69, respectively, in place of 70 in the calculations. While the rule of 69 is often considered more accurate when addressing [[continuous compounding]](https://www.investopedia.com/terms/c/continuouscompounding.asp) processes, 72 may be more accurate for less frequent compounding intervals. Often, the rule of 70 is used because it's easier to remember.
 
 ### Other Applications of the Rule of 70
 
-Another useful application of the rule of 70 is in the area of estimating how long it would take a country's real [gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) to double. Similar to calculating [compound interest rates](https://www.investopedia.com/terms/c/compoundinterest.asp), we could use the GDP growth rate in the divisor of the rule. For example, if the growth rate of China is 10%, the rule of 70 predicts it would take seven years, or 70/10, for China's real GDP to double.
+Another useful application of the rule of 70 is in the area of estimating how long it would take a country's real [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) to double. Similar to calculating [[compound interest rates]](https://www.investopedia.com/terms/c/compoundinterest.asp), we could use the GDP growth rate in the divisor of the rule. For example, if the growth rate of China is 10%, the rule of 70 predicts it would take seven years, or 70/10, for China's real GDP to double.
 
 ## Rule of 70 Versus Real Growth
 

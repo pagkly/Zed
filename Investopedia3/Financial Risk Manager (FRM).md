@@ -16,7 +16,7 @@ author: James Chen
 Financial Risk Manager (FRM)
 ## What Is a Financial Risk Manager (FRM)?
 
-Financial Risk Manager (FRM) is a professional designation issued by the [Global Association of Risk Professionals](https://www.garp.org/#!/home) (GARP). The GARP FRM accreditation is globally recognized as the premier certification for financial risk professionals dealing in financial markets. FRMs possess specialized knowledge in assessing risk and typically work for major banks, [insurance companies](https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-insurance-companies.asp), accounting firms, regulatory agencies, and asset management firms.
+Financial Risk Manager (FRM) is a professional designation issued by the [[Global Association of Risk Professionals]](https://www.garp.org/#!/home) (GARP). The GARP FRM accreditation is globally recognized as the premier certification for financial risk professionals dealing in financial markets. FRMs possess specialized knowledge in assessing risk and typically work for major banks, [[insurance companies]](https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-insurance-companies.asp), accounting firms, regulatory agencies, and asset management firms.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ An FRM identify threats to assets, earning capacity, or the success of an organi
 
 Financial risk managers (FRMs) are required to be accredited by the Global Association of Risk Professionals (GARP).
 
-To receive the FRM designation, candidates must successfully complete a comprehensive, two-part exam and complete two years of work experience in financial [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp). Professionals who hold the FRM designation can participate in optional continued professional development. The FRM program follows the major strategic disciplines of risk management: [market risk](https://www.investopedia.com/terms/m/marketrisk.asp), credit risk, operational risk, and investment management. The exam is recognized in over 90 countries and is designed to measure a financial risk manager's ability to manage risk in a global environment.
+To receive the FRM designation, candidates must successfully complete a comprehensive, two-part exam and complete two years of work experience in financial [[risk management]](https://www.investopedia.com/terms/r/riskmanagement.asp). Professionals who hold the FRM designation can participate in optional continued professional development. The FRM program follows the major strategic disciplines of risk management: [[market risk]](https://www.investopedia.com/terms/m/marketrisk.asp), credit risk, operational risk, and investment management. The exam is recognized in over 90 countries and is designed to measure a financial risk manager's ability to manage risk in a global environment.
 
 ### The Financial Risk Manager (FRM) Program
 

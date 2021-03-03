@@ -16,7 +16,7 @@ author: Jason Fernando
 Validation Code Definition
 ## What Is a Validation Code?
 
-A validation code—also known as a CVV, CV2, or CVV2 code—is a series of three or four numbers located on the front or back of a [credit card](https://www.investopedia.com/terms/c/creditcard.asp). It is intended to provide an additional layer of security for credit card transactions that take place online or over the phone.
+A validation code—also known as a CVV, CV2, or CVV2 code—is a series of three or four numbers located on the front or back of a [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp). It is intended to provide an additional layer of security for credit card transactions that take place online or over the phone.
 
 Most credit card issuers place their validation codes on the back of the card, on the far-right side of the signature panel. On American Express ([AXP](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AXP)) cards, however, the validation code is printed on the front of the card.1
 
@@ -28,11 +28,11 @@ Most credit card issuers place their validation codes on the back of the card, o
 
 ## How Validation Codes Work
 
-As online shopping continues to grow in popularity, the threat of [identity theft](https://www.investopedia.com/identity-theft-4689708) and other forms of credit card fraud has become increasingly severe. One measure taken to try to mitigate this risk is the use of validation codes when making credit card purchases.
+As online shopping continues to grow in popularity, the threat of [[identity theft]](https://www.investopedia.com/identity-theft-4689708) and other forms of credit card fraud has become increasingly severe. One measure taken to try to mitigate this risk is the use of validation codes when making credit card purchases.
 
 In a typical transaction, a customer will be asked to provide their name, billing address, card number, expiration date, and validation code. Although many of these details, such as the name and address, could be obtained from other sources; the card number, expiration date, and validation code can theoretically only be obtained from possessing the card itself. As an added measure, the validation code is generally printed on the back of the card, making it more difficult for would-be thieves to glean all the necessary information from a single photograph of the credit card.
 
-To further enhance these security measures, consumer protection laws prevent merchants from storing customers’ validation codes after a purchase has been made—although unscrupulous sellers may still record this information illegally. An additional measure of protection is provided by the personal identification numbers (PINs) which cardholders must enter when making payments using [point-of-sale (POS)](https://www.investopedia.com/terms/p/point-of-sale.asp) terminals.3
+To further enhance these security measures, consumer protection laws prevent merchants from storing customers’ validation codes after a purchase has been made—although unscrupulous sellers may still record this information illegally. An additional measure of protection is provided by the personal identification numbers (PINs) which cardholders must enter when making payments using [[point-of-sale (POS)]](https://www.investopedia.com/terms/p/point-of-sale.asp) terminals.3
 
 ## Real-World Example of a Validation Code
 

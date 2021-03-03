@@ -16,11 +16,11 @@ author: Will Kenton
 Exculpatory Clause
 ## What Is an Exculpatory Clause?
 
-An exculpatory clause is a contract provision that relieves one party of [liability](https://www.investopedia.com/terms/l/liability.asp) if damages are caused during the execution of the contract. The party that issues the exculpatory clause is typically the one seeking to be relieved of the potential liability. For example, a venue may print an exculpatory clause on tickets it sells for a concert, indicating that it is not responsible for personal injury caused by employees or others during the show.
+An exculpatory clause is a contract provision that relieves one party of [[liability]](https://www.investopedia.com/terms/l/liability.asp) if damages are caused during the execution of the contract. The party that issues the exculpatory clause is typically the one seeking to be relieved of the potential liability. For example, a venue may print an exculpatory clause on tickets it sells for a concert, indicating that it is not responsible for personal injury caused by employees or others during the show.
 
 ## Exculpatory Clause Definition
 
-While exculpatory clauses are typically upheld, they can be challenged and overturned in court. The court can determine that the clause is unreasonable if both parties in the contract do not have equal bargaining power or if the clause eliminates liability for [negligence](https://www.investopedia.com/terms/c/contributory-negligence.asp).
+While exculpatory clauses are typically upheld, they can be challenged and overturned in court. The court can determine that the clause is unreasonable if both parties in the contract do not have equal bargaining power or if the clause eliminates liability for [[negligence]](https://www.investopedia.com/terms/c/contributory-negligence.asp).
 
 Exculpatory clauses are often included in agreements where a service provider can come into contact with the personal property, possessions, or physical well-being of a customer. When a patron visits a restaurant or bar that offers coat-check service, the venue might inform the customer that the business is not responsible for items that go missing from their coat. Likewise, the operator of a parking facility might post signs indicating that damages to vehicles stored at the facility and thefts that occur are not the responsibility of the company.
 

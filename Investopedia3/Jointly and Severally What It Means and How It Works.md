@@ -16,13 +16,13 @@ author: Will Kenton
 Jointly and Severally: What It Means and How It Works
 ## What Does Jointly and Severally Mean?
 
-Jointly and severally is a legal term that is used to describe a [partnership](https://www.investopedia.com/terms/p/partnership.asp) or any other group of individuals in which each individual named shares responsibility equally.
+Jointly and severally is a legal term that is used to describe a [[partnership]](https://www.investopedia.com/terms/p/partnership.asp) or any other group of individuals in which each individual named shares responsibility equally.
 
 For example, if a judge rules that a number of people are jointly and severally liable for injuries suffered by a plaintiff, any one of those people may be pursued for payment of the full amount of the judgment.
 
 As the word severally implies, the phrasing of some contractual agreements may specify that some parties have proportional liability. For example, a partner with a 10% stake in a business may have a liability that is proportional to that 10% investment.
 
-Jointly and severally is sometimes referred to as [joint and several liability](https://www.investopedia.com/terms/j/joint-and-several-liability.asp).
+Jointly and severally is sometimes referred to as [[joint and several liability]](https://www.investopedia.com/terms/j/joint-and-several-liability.asp).
 
 ## Understanding Jointly and Severally
 
@@ -44,6 +44,6 @@ Joint and several liability are also cited in laws. For example, employers are g
 
 ### Jointly and Severally in the Securities Industry
 
-The expression jointly and severally is commonly used in the securities industry in agreements for the [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) of a new bond or stock issue. In such cases, the firm that agrees to sell a portion of the total issue is responsible for that agreed upon portion plus a corresponding portion of any unsold securities.
+The expression jointly and severally is commonly used in the securities industry in agreements for the [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) of a new bond or stock issue. In such cases, the firm that agrees to sell a portion of the total issue is responsible for that agreed upon portion plus a corresponding portion of any unsold securities.
 
-Thus, an underwriter who has jointly and severally agreed to be responsible for selling a 30% stake in a [new issue](https://www.investopedia.com/terms/n/newissue.asp) must sell 30% of any remaining unsold portion. Each member of the [syndicate](https://www.investopedia.com/terms/s/syndicate.asp) is responsible for any leftover shares, in proportion to the size of each stake.
+Thus, an underwriter who has jointly and severally agreed to be responsible for selling a 30% stake in a [[new issue]](https://www.investopedia.com/terms/n/newissue.asp) must sell 30% of any remaining unsold portion. Each member of the [[syndicate]](https://www.investopedia.com/terms/s/syndicate.asp) is responsible for any leftover shares, in proportion to the size of each stake.

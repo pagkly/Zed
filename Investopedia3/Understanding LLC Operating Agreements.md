@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding LLC Operating Agreements
 ## What Is an LLC Operating Agreement?
 
-An LLC operating agreement is a document that customizes the terms of a [limited liability company](https://www.investopedia.com/terms/l/llc.asp) according to the specific needs of its owners. It also outlines the financial and functional decision-making in a structured manner. It is similar to [articles of incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp) that govern the operations of a corporation.
+An LLC operating agreement is a document that customizes the terms of a [[limited liability company]](https://www.investopedia.com/terms/l/llc.asp) according to the specific needs of its owners. It also outlines the financial and functional decision-making in a structured manner. It is similar to [[articles of incorporation]](https://www.investopedia.com/terms/a/articlesofincorporation.asp) that govern the operations of a corporation.
 
 Although writing an operating agreement is not a mandatory requirement for most states, it is nonetheless considered a crucial document that should be included when setting up a limited liability company. The document, once signed by each member (owners), acts as a binding set of rules for them to adhere. The document is drafted to allow owners to govern the internal operations according to their own rules and specifications. The absence of this document means that your business has to be run according to the default rules of your state.
 
@@ -28,7 +28,7 @@ To take full advantage of having an LLC, you should go one step further and wri
 
 The operating agreement is thus a document which spells out the terms of a limited liability company (LLC) according to the members. It sets forth the path for the business to follow and brings in more clarity in operations and management. An LLC operating agreement is a 10- to 20-page contract document which sets up guidelines and rules for an LLC.
 
-In states such as California, Delaware, Maine, Missouri, and New York, it is mandatory to include this document during the [incorporation](https://www.investopedia.com/terms/i/incorporate.asp) process. While most other states do not insist on including it, it is always considered wise to draft an operating agreement, as it protects the status of a company, comes in handy in times of misunderstandings and helps in carrying out the business according to the rules set by you.
+In states such as California, Delaware, Maine, Missouri, and New York, it is mandatory to include this document during the [[incorporation]](https://www.investopedia.com/terms/i/incorporate.asp) process. While most other states do not insist on including it, it is always considered wise to draft an operating agreement, as it protects the status of a company, comes in handy in times of misunderstandings and helps in carrying out the business according to the rules set by you.
 
 Businesses that do not sign an operating agreement fall under the default rules outlined by the states. In such a case the rules imposed by the state will be very general in nature and may not be right for every business. For example, in the absence of an operating agreement, some states may stipulate that all profits in an LLC are shared equally by each partner regardless of each party's capital contribution. An agreement can also protect partners from any personal liability if it appears they are operating as a sole proprietorship or a partnership.
 

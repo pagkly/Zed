@@ -18,7 +18,7 @@ What is a Revenue Officer?
 
 A revenue officer (RO) is an individual who collects revenues, such as taxes and duties, on behalf of the government or some agency. The specific duties of a revenue officer depend on the particular organization that employs the individual.
 
-Revenue officers employed by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) are known as [revenue agents](https://www.investopedia.com/terms/r/revenueagent.asp), and perform a variety of other duties in addition to the collection of taxes. Unfortunately, many scammers claim to be IRS revenue officers and claim to have the ability to arrest the people they are trying to extort.
+Revenue officers employed by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) are known as [[revenue agents]](https://www.investopedia.com/terms/r/revenueagent.asp), and perform a variety of other duties in addition to the collection of taxes. Unfortunately, many scammers claim to be IRS revenue officers and claim to have the ability to arrest the people they are trying to extort.
 
 ### Key Takeaways
 
@@ -28,20 +28,20 @@ Revenue officers employed by the [Internal Revenue Service](https://www.investop
 
 ## Responsibilities of a Revenue Officer
 
-A revenue officer is generally employed by a government agency such as the Internal Revenue Service (IRS) in the United States, or the [Canada Revenue Agency](https://www.investopedia.com/terms/c/ccra.asp) (CRA) in Canada. State and local taxing agencies may also employ revenue officers.
+A revenue officer is generally employed by a government agency such as the Internal Revenue Service (IRS) in the United States, or the [[Canada Revenue Agency]](https://www.investopedia.com/terms/c/ccra.asp) (CRA) in Canada. State and local taxing agencies may also employ revenue officers.
 
-With the IRS, for instance, the primary responsibility of revenue officers is collecting [delinquent taxes](https://www.investopedia.com/terms/b/back-taxes.asp) and overdue tax returns from taxpayers. Their duties, therefore, include:
+With the IRS, for instance, the primary responsibility of revenue officers is collecting [[delinquent taxes]](https://www.investopedia.com/terms/b/back-taxes.asp) and overdue tax returns from taxpayers. Their duties, therefore, include:
 
 -   Conducting face-to-face interviews with taxpayers
 -   Obtaining and analyzing financial information to ascertain the ability to pay the tax bill
 -   Designing payment plans to help those with tax arrears pay them over time
--   [Garnishing wages](https://www.investopedia.com/terms/g/garnishment.asp) and seizing personal property to pay off delinquent taxes
+-   [[Garnishing wages]](https://www.investopedia.com/terms/g/garnishment.asp) and seizing personal property to pay off delinquent taxes
 
 A revenue officer with the IRS is also responsible for filing extensions on statutes of limitations for tax collection and also initiating administrative and judicial actions. This position is often confused with that of a revenue agent. The difference is the agent is tasked with conducting audits of tax returns.
 
-While they are government employees, the IRS revenue officer does not carry a firearm or have the authority to arrest a taxpayer. One of the primary duties of these individuals is to help to create a payment plan for collecting any unpaid taxes. The officer will attempt to make an [unannounced, in-person visit](https://www.irs.gov/newsroom/how-to-know-its-really-the-irs-calling-or-knocking-on-your-door-collection) with the delinquent taxpayer, known as a [field audit](https://www.investopedia.com/terms/f/field-audit.asp).
+While they are government employees, the IRS revenue officer does not carry a firearm or have the authority to arrest a taxpayer. One of the primary duties of these individuals is to help to create a payment plan for collecting any unpaid taxes. The officer will attempt to make an [[unannounced, in-person visit]](https://www.irs.gov/newsroom/how-to-know-its-really-the-irs-calling-or-knocking-on-your-door-collection) with the delinquent taxpayer, known as a [[field audit]](https://www.investopedia.com/terms/f/field-audit.asp).
 
-Excise tax revenue officers in Canada, on the other hand, have more of an [audit](https://www.investopedia.com/terms/a/audit.asp), advisory, and legal role.
+Excise tax revenue officers in Canada, on the other hand, have more of an [[audit]](https://www.investopedia.com/terms/a/audit.asp), advisory, and legal role.
 
 ## Revenue Agents vs. Revenue Officers 
 
@@ -51,7 +51,7 @@ The role of a revenue agent is to determine tax liability via an audit. The audi
 
 ## Chief Revenue Officer
 
-Some organizations have a position known as Chief Revenue Officer (CRO), who is a person responsible for all revenue-generating functions of a business. They are also responsible for overseeing the strategy for profitable revenue generation over the company's long term. A CRO’s purpose is to align and optimize the entire customer experience with the aim of increasing revenue. The CRO mostly reports to the [Chief Financial Officer](https://www.investopedia.com/terms/c/cfo.asp) (CFO).
+Some organizations have a position known as Chief Revenue Officer (CRO), who is a person responsible for all revenue-generating functions of a business. They are also responsible for overseeing the strategy for profitable revenue generation over the company's long term. A CRO’s purpose is to align and optimize the entire customer experience with the aim of increasing revenue. The CRO mostly reports to the [[Chief Financial Officer]](https://www.investopedia.com/terms/c/cfo.asp) (CFO).
 
 The role of a Chief Revenue Officer was born in Silicon Valley to capitalize on new revenue opportunities created by digital products and services, particularly the software-as-a-service (SaaS) industry. CROs are typically data-driven ad tech-savvy, which is essential given that they work in companies that have the majority of their employees with product and engineering backgrounds.
 

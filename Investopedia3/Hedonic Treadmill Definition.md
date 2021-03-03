@@ -20,7 +20,7 @@ A hedonic treadmill is the tendency of a person to remain at a relatively stable
 
 ## Understanding the Hedonic Treadmill
 
-The hedonic treadmill theory explains the often-held observation that [rich people](https://www.investopedia.com/terms/h/hnwi.asp) are no happier than poor people, and that those with severe money problems are sometimes quite happy. The theory supports the argument that money does not buy happiness and that the pursuit of money as a way to reach this goal is futile. Good and bad fortunes may temporarily affect how happy a person is, but most people will end up back at their normal level of happiness.
+The hedonic treadmill theory explains the often-held observation that [[rich people]](https://www.investopedia.com/terms/h/hnwi.asp) are no happier than poor people, and that those with severe money problems are sometimes quite happy. The theory supports the argument that money does not buy happiness and that the pursuit of money as a way to reach this goal is futile. Good and bad fortunes may temporarily affect how happy a person is, but most people will end up back at their normal level of happiness.
 
 ## What is a Hedonic Set Point?
 
@@ -30,7 +30,7 @@ In psychology, a hedonic set point is the general baseline level of happiness a 
 
 An interview-based study titled "[Lottery Winners and Accident Victims: Is Happiness Relative?](http://psy2.ucsd.edu/~nchristenfeld/Happiness_Readings_files/Class%203%20-%20Brickman%201978.pdf)" that was published in 1978 by Brickman, Coates, and Janoff-Bulman set out to determine how people adapted to happiness. The researchers interviewed three groups of people: lottery winners, paralyzed accident victims and a control group.
 
-Based on their findings, the newly-rich lottery winners were shown to have similar levels of happiness before and after winning. This indicated that there wasn't a consistent relationship between increased happiness and personal financial gains, and that the [baseline](https://www.investopedia.com/terms/b/baseline.asp) level of happiness for the lottery winners over time would remain nearly the same.
+Based on their findings, the newly-rich lottery winners were shown to have similar levels of happiness before and after winning. This indicated that there wasn't a consistent relationship between increased happiness and personal financial gains, and that the [[baseline]](https://www.investopedia.com/terms/b/baseline.asp) level of happiness for the lottery winners over time would remain nearly the same.
 
 According to the study, "Although lottery winners felt very good about winning the lottery, they took less pleasure than controls \[group\] in a variety of ordinary events and were not in general happier than \[the control group\]. These results can be derived from an adaptation level analysis of the effects of a single extremely positive event."
 

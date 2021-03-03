@@ -31,7 +31,7 @@ When the PDF is graphically portrayed, the area under the curve will indicate th
 
 ## The Basics of Probability Density Functions (PDFs)
 
-PDFs are used to gauge the risk of a particular security, such as an individual stock or [ETF](https://www.investopedia.com/articles/mutualfund/05/060605.asp). They are typically depicted on a graph, with a normal bell curve indicating neutral market risk, and a bell at either end indicating greater or lesser risk/reward. A bell at the right side of the curve suggests greater reward, but with lesser likelihood, while a bell on the left indicates lower risk and lower reward.
+PDFs are used to gauge the risk of a particular security, such as an individual stock or [[ETF]](https://www.investopedia.com/articles/mutualfund/05/060605.asp). They are typically depicted on a graph, with a normal bell curve indicating neutral market risk, and a bell at either end indicating greater or lesser risk/reward. A bell at the right side of the curve suggests greater reward, but with lesser likelihood, while a bell on the left indicates lower risk and lower reward.
 
 Investors should use PDFs as one of many tools to calculate the overall risk/reward in play in their portfolios.
 

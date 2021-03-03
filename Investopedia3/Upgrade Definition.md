@@ -16,7 +16,7 @@ author: Will Kenton
 Upgrade Definition
 ## What Is an Upgrade?
 
-An upgrade refers to the positive change in an analyst's outlook of a particular security's valuation based primarily on that security's improving [fundamentals](https://www.investopedia.com/terms/f/fundamentals.asp).
+An upgrade refers to the positive change in an analyst's outlook of a particular security's valuation based primarily on that security's improving [[fundamentals]](https://www.investopedia.com/terms/f/fundamentals.asp).
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ An upgrade refers to the positive change in an analyst's outlook of a particular
 
 ## Understanding an Upgrade
 
-An upgrade to a specific security assigns it a higher ranking and is usually triggered by [qualitative](https://www.investopedia.com/terms/q/qualitativeanalysis.asp) and quantitative information that contributes to an increase in the financial valuation of that security. In the context of portfolio management, the term "upgrade" also refers to a strategy whereby the risk profile and quality of the portfolio are improved by including blue chips in it while eliminating speculative stocks.
+An upgrade to a specific security assigns it a higher ranking and is usually triggered by [[qualitative]](https://www.investopedia.com/terms/q/qualitativeanalysis.asp) and quantitative information that contributes to an increase in the financial valuation of that security. In the context of portfolio management, the term "upgrade" also refers to a strategy whereby the risk profile and quality of the portfolio are improved by including blue chips in it while eliminating speculative stocks.
 
-Upgrades to investment ratings for stocks and [fixed-income securities](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) are issued by [equity](https://www.investopedia.com/terms/e/equity.asp) and [bond](https://www.investopedia.com/terms/b/bond.asp) analysts at their respective brokerage houses. Upgrades to the credit rating of corporate issuers of debt securities are issued by rating agencies, such as [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp).
+Upgrades to investment ratings for stocks and [[fixed-income securities]](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) are issued by [[equity]](https://www.investopedia.com/terms/e/equity.asp) and [[bond]](https://www.investopedia.com/terms/b/bond.asp) analysts at their respective brokerage houses. Upgrades to the credit rating of corporate issuers of debt securities are issued by rating agencies, such as [[Standard & Poor's]](https://www.investopedia.com/terms/s/sp.asp).
 
 For example, a rating agency may upgrade the credit rating of an issuer from AA+ to AAA. Such a move would have a positive effect on all outstanding bonds and other fixed-income instruments of the issuer.
 

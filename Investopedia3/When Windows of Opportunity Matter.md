@@ -38,11 +38,11 @@ In some cases, it is possible to plan for and anticipate a window of opportunity
 
 ### The Subscription Period for a Hot IPO
 
-[Institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) and the best retail clients of the [underwriters](https://www.investopedia.com/terms/u/underwriter.asp) for Google's IPO in 2004 were given a chance to buy shares at the initial offering price. Those who took advantage of the window bought these oversubscribed shares at $85 per share. The shares ended the first day of trading at just over $100 per share.
+[Institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) and the best retail clients of the [[underwriters]](https://www.investopedia.com/terms/u/underwriter.asp) for Google's IPO in 2004 were given a chance to buy shares at the initial offering price. Those who took advantage of the window bought these oversubscribed shares at $85 per share. The shares ended the first day of trading at just over $100 per share.
 
 ### Mergers and Acquisitions (M&A) in a Sector with Scarce Assets
 
-The biotechnology industry is extremely active, with dozens of [start-ups](https://www.investopedia.com/terms/s/startup.asp) and firms in early-stage pipeline development of therapies with blockbuster potential. However, history has shown that a vast majority of these firms will not be successful with their clinical trials.
+The biotechnology industry is extremely active, with dozens of [[start-ups]](https://www.investopedia.com/terms/s/startup.asp) and firms in early-stage pipeline development of therapies with blockbuster potential. However, history has shown that a vast majority of these firms will not be successful with their clinical trials.
 
 For the distinct minority that demonstrates efficacy and safety in their therapies, a group of large-cap pharmaceutical and biotech companies will take notice. Then, a window will open for acquisition. Celgene Corp., prompted by a series of positive data readouts by Juno Therapeutics, Inc., agreed to acquire the development-stage immunotherapy biotech firm for $9 billion in cash in early 2018.
 
@@ -50,4 +50,4 @@ For the distinct minority that demonstrates efficacy and safety in their therapi
 
 In 2015, Facebook purchased a 56-acre industrial site in Menlo Park, California from Prologis Inc. and in 2016, the company exercised an option to purchase one million square feet of office space, also in Menlo Park, that it was leasing from the Wisconsin Investment Board.
 
-Since the area is highly desired by expanding high tech companies, Facebook made sure it acted quickly to secure the real estate. This was certainly for the benefit of the company, but it also was advantageous for the thousands of employees to have a large centralized home base for intellectual and social [synergies](https://www.investopedia.com/terms/s/synergy.asp).
+Since the area is highly desired by expanding high tech companies, Facebook made sure it acted quickly to secure the real estate. This was certainly for the benefit of the company, but it also was advantageous for the thousands of employees to have a large centralized home base for intellectual and social [[synergies]](https://www.investopedia.com/terms/s/synergy.asp).

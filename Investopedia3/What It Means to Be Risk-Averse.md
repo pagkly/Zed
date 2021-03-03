@@ -26,7 +26,7 @@ Generally, the return on a low-risk investment will match, or slightly exceed, t
 
 ## Understanding the Risk-Averse Investor
 
-The term [risk-neutral](https://www.investopedia.com/terms/r/riskneutral.asp) describes the attitude of an individual who evaluates investment alternatives by focusing solely on potential gains regardless of the risk. That may seem counter-intuitive: To evaluate reward without considering risk seems inherently risky.
+The term [[risk-neutral]](https://www.investopedia.com/terms/r/riskneutral.asp) describes the attitude of an individual who evaluates investment alternatives by focusing solely on potential gains regardless of the risk. That may seem counter-intuitive: To evaluate reward without considering risk seems inherently risky.
 
 Nonetheless, offered two investment opportunities, the risk-neutral investor looks only at the potential gains of each investment and ignores the potential downside risk.
 
@@ -56,7 +56,7 @@ The greatest number of risk-averse investors can be found among older investors 
 
 ### Savings Accounts
 
-A high-yield savings account from a bank or credit union provides a stable return with virtually no investment risk. The [Federal Deposit Insurance Corp.](https://www.investopedia.com/ask/answers/08/fdic-insured-bank-account.asp) (FDIC) and the National Credit Union Administration (NCUA), insure funds held in these savings accounts up to generous limits.
+A high-yield savings account from a bank or credit union provides a stable return with virtually no investment risk. The [[Federal Deposit Insurance Corp.]](https://www.investopedia.com/ask/answers/08/fdic-insured-bank-account.asp) (FDIC) and the National Credit Union Administration (NCUA), insure funds held in these savings accounts up to generous limits.
 
 The term "high-yield" is relative, however. The return on the money should meet or slightly exceed the level of inflation.
 

@@ -16,9 +16,9 @@ author: James Chen
 Load Fund Definition
 ## What Is a Load Fund?
 
-A load fund is a mutual fund that comes with a [sales charge](https://www.investopedia.com/terms/s/salescharge.asp) or commission. The fund investor pays the load, which goes to compensate a sales intermediary, such as a [broker](https://www.investopedia.com/ask/answers/06/brokerandmarketmaker.asp), [financial planner](https://www.investopedia.com/terms/f/financialplanner.asp) or investment advisor, for his time and expertise in selecting an appropriate fund for the investor. The load is either paid up front at the time of purchase (front-end load), when the shares are sold (back-end load), or as long as the fund is held by the investor (level-load).
+A load fund is a mutual fund that comes with a [[sales charge]](https://www.investopedia.com/terms/s/salescharge.asp) or commission. The fund investor pays the load, which goes to compensate a sales intermediary, such as a [[broker]](https://www.investopedia.com/ask/answers/06/brokerandmarketmaker.asp), [[financial planner]](https://www.investopedia.com/terms/f/financialplanner.asp) or investment advisor, for his time and expertise in selecting an appropriate fund for the investor. The load is either paid up front at the time of purchase (front-end load), when the shares are sold (back-end load), or as long as the fund is held by the investor (level-load).
 
-Load funds may be contrasted with [no-load funds](https://www.investopedia.com/terms/n/no-loadfund.asp), which do not carry a sales charge.
+Load funds may be contrasted with [[no-load funds]](https://www.investopedia.com/terms/n/no-loadfund.asp), which do not carry a sales charge.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Load funds may be contrasted with [no-load funds](https://www.investopedia.com/t
 
 ## The Basics of Load Funds
 
-If a fund limits its [level load](https://www.investopedia.com/terms/l/levelload.asp) to no more than 0.25% (the maximum is 1%) it can call itself a "no-load" fund in its marketing literature. Front-end and [back-end loads](https://www.investopedia.com/terms/b/back-end-load.asp) are not part of a mutual fund's [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp) and are typically paid out to the selling broker and the broker-dealer as a commission. However, level-loads, called [12b-1 fees](https://www.investopedia.com/terms/1/12b-1fees.asp), are included as operating expenses.
+If a fund limits its [[level load]](https://www.investopedia.com/terms/l/levelload.asp) to no more than 0.25% (the maximum is 1%) it can call itself a "no-load" fund in its marketing literature. Front-end and [[back-end loads]](https://www.investopedia.com/terms/b/back-end-load.asp) are not part of a mutual fund's [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp) and are typically paid out to the selling broker and the broker-dealer as a commission. However, level-loads, called [12b-1 fees](https://www.investopedia.com/terms/1/12b-1fees.asp), are included as operating expenses.
 
 Funds that do not charge a load are called no-load funds, which are typically sold directly by the mutual fund company or through their partners.
 
@@ -38,7 +38,7 @@ In the 1970's, mutual fund companies came under criticism for the high front-end
 
 [Class A Shares](https://www.investopedia.com/terms/a/ashare.asp): Class A shares are the traditional front-end load funds that charge an upfront sales charge on the amount invested. Most class A funds offer breakpoint discounts that reduce the sales charge for purchases at higher thresholds. For investors with larger amounts of money to invest over a long period of time, class A shares can be the lowest cost option due to the breakpoint discounts.
 
-[Class B Shares](https://www.investopedia.com/terms/b/bshare.asp): Class B shares include a back-end load or [contingent deferred sales charge](https://www.investopedia.com/terms/c/cdsc.asp) (CDSC), which is deducted when selling the shares. Class B share funds do not offer breakpoint discounts, although the CDSC decreases over a five- to eight-year timeframe. At that point, the shares are converted to class A shares with no back-end load. Some class B share funds also charge annual 12b-1 fees, which can increase investment costs over time. When Class B shares are converted to Class A shares, the 12b-1 fees go away. Class B shares with a low expense ratio can be a better option when smaller investments are made with a long holding period.
+[Class B Shares](https://www.investopedia.com/terms/b/bshare.asp): Class B shares include a back-end load or [[contingent deferred sales charge]](https://www.investopedia.com/terms/c/cdsc.asp) (CDSC), which is deducted when selling the shares. Class B share funds do not offer breakpoint discounts, although the CDSC decreases over a five- to eight-year timeframe. At that point, the shares are converted to class A shares with no back-end load. Some class B share funds also charge annual 12b-1 fees, which can increase investment costs over time. When Class B shares are converted to Class A shares, the 12b-1 fees go away. Class B shares with a low expense ratio can be a better option when smaller investments are made with a long holding period.
 
 [Class C Shares](https://www.investopedia.com/terms/c/cshare.asp): Class C share funds also charge a CDSC, but it is typically lower than Class B shares. Class C shares rely more heavily on 12b-1 fees, which tend to be higher than Class B shares, and they can last indefinitely. Class C share funds do not offer any breakpoint discounts. Because of higher 12b-1 fees, Class C shares can be the most expensive option over the long term.
 

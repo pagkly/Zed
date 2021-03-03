@@ -24,7 +24,7 @@ The Hawthorne Effect refers to the fact that people will modify their behavior s
 
 However, subsequent analysis of the effect by the University of Chicago economists in 2009 revealed that the original results were likely overstated.
 
-The Hawthorne experiments were originally designed by the National Research Council to study the effect of shop-floor lighting on worker [productivity](https://www.investopedia.com/terms/p/productivity.asp) at a telephone parts factory in Hawthorne. However, the researchers were perplexed to find that productivity improved, not just when the lighting was improved, but also when the lighting was diminished. Productivity improved whenever changes were made in other variables such as working hours and rest breaks.
+The Hawthorne experiments were originally designed by the National Research Council to study the effect of shop-floor lighting on worker [[productivity]](https://www.investopedia.com/terms/p/productivity.asp) at a telephone parts factory in Hawthorne. However, the researchers were perplexed to find that productivity improved, not just when the lighting was improved, but also when the lighting was diminished. Productivity improved whenever changes were made in other variables such as working hours and rest breaks.
 
 The researchers concluded that the workers’ productivity was not being affected by the changes in working conditions, but rather by the fact that someone was concerned enough about their working conditions to conduct an experiment on it.
 
@@ -38,7 +38,7 @@ Although it can be challenging to determine how a subject's awareness of a study
 
 ## The Hawthorne Effect in Practice
 
-As an example of the Hawthorne Effect, consider a 1978 study conducted to determine if cerebellar neurostimulators could reduce the motor dysfunction of young cerebral palsy sufferers. The objective testing revealed that the patients in the study claimed that their motor dysfunctions decreased and that they embraced the treatment. But this patient feedback countered the [quantitative analysis](https://www.investopedia.com/terms/q/quantitativeanalysis.asp), which demonstrated that there was scant increased motor function.
+As an example of the Hawthorne Effect, consider a 1978 study conducted to determine if cerebellar neurostimulators could reduce the motor dysfunction of young cerebral palsy sufferers. The objective testing revealed that the patients in the study claimed that their motor dysfunctions decreased and that they embraced the treatment. But this patient feedback countered the [[quantitative analysis]](https://www.investopedia.com/terms/q/quantitativeanalysis.asp), which demonstrated that there was scant increased motor function.
 
 Indeed, the increased human interaction with doctors, nurses, therapists, and other medical personnel during these trials had a positive psychological impact on patients, which consequently fostered their illusion of physical improvements to their conditions. When analyzing the results, researchers concluded that the Hawthorne Effect negatively impacted the data, as there was no evidence that the cerebellar neurostimulators were measurably effective.
 

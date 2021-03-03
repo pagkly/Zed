@@ -16,7 +16,7 @@ author: James Chen
 What Happens in Divestitures
 ## What Is a Divestiture?
 
-A divestiture is the partial or full disposal of a business unit through [sale](https://www.investopedia.com/terms/a/asset-disposal-plan.asp), exchange, closure, or bankruptcy. A divestiture most commonly results from a management decision to cease operating a business unit because it is not part of a [core competency](https://www.investopedia.com/terms/c/core-competency.asp).
+A divestiture is the partial or full disposal of a business unit through [[sale]](https://www.investopedia.com/terms/a/asset-disposal-plan.asp), exchange, closure, or bankruptcy. A divestiture most commonly results from a management decision to cease operating a business unit because it is not part of a [[core competency]](https://www.investopedia.com/terms/c/core-competency.asp).
 
 A divestiture may also occur if a business unit is deemed to be redundant after a merger or acquisition, if the disposal of a unit increases the sale value of the firm, or if a court requires the sale of a business unit to improve market competition.
 
@@ -28,9 +28,9 @@ A divestiture may also occur if a business unit is deemed to be redundant after 
 
 ## Understanding Divestitures
 
-In its simplest form, a divestiture is the disposition or sale of an asset by a company, a way to manage its portfolio of assets. As companies grow, they may find they are in too many lines of business and they must close some operational units to focus on more profitable lines. Many [conglomerates](https://www.investopedia.com/terms/c/conglomerate.asp) face this problem.
+In its simplest form, a divestiture is the disposition or sale of an asset by a company, a way to manage its portfolio of assets. As companies grow, they may find they are in too many lines of business and they must close some operational units to focus on more profitable lines. Many [[conglomerates]](https://www.investopedia.com/terms/c/conglomerate.asp) face this problem.
 
-Companies may also sell off business lines if they are under financial [duress](https://www.investopedia.com/terms/d/duress.asp). For example, an automobile manufacturer that sees a significant and prolonged drop in competitiveness may sell off its financing division to pay for the development of a new line of vehicles.
+Companies may also sell off business lines if they are under financial [[duress]](https://www.investopedia.com/terms/d/duress.asp). For example, an automobile manufacturer that sees a significant and prolonged drop in competitiveness may sell off its financing division to pay for the development of a new line of vehicles.
 
 Divested business units may be spun off into their own companies rather than closed in bankruptcy or a similar outcome. Companies may be required to divest some of their assets as part of the terms of a merger. Governments may divest some of their interests in order to give the private sector a chance to profit.
 
@@ -48,7 +48,7 @@ Government regulation may require corporations to divest some of their assets, e
 
 ## Examples of Divestitures
 
-Divestitures can come about in many different forms. The most common is the sale of a business unit to improve financial performance. For example, [Thomson Reuters](https://www.investopedia.com/terms/r/reuters.asp), a multinational media and information company based in Canada, sold its intellectual property and sciences division in July 2016. The company initiated the divestiture because it wanted to reduce the amount of leverage on its balance sheet.
+Divestitures can come about in many different forms. The most common is the sale of a business unit to improve financial performance. For example, [[Thomson Reuters]](https://www.investopedia.com/terms/r/reuters.asp), a multinational media and information company based in Canada, sold its intellectual property and sciences division in July 2016. The company initiated the divestiture because it wanted to reduce the amount of leverage on its balance sheet.
 
 The division was purchased by Onex and Baring Private Equity for $3.55 billion in cash. The division booked sales of $1.01 billion in 2015, and 80% of those sales are recurring, making it an attractive investment for the private equity firm. The divestiture represented one-quarter of Thomas Reuters' business in terms of divisions but is not expected to alter the company's overall valuation.
 

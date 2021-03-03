@@ -16,7 +16,7 @@ author: Lucas Downey
 Oil ETF
 ## What Is an Oil ETF?
 
-An oil ETF is an exchange-traded fund (ETF) which invests in companies engaged in the oil and gas industry. Companies featured in the ETF basket include discovery, production, distribution, and retail businesses as well as the commodity itself. Some oil ETFs may be [commodity pools](https://www.investopedia.com/terms/c/commoditypool.asp), with limited partnership interests instead of shares. These pools invest in derivative contracts such as [futures](https://www.investopedia.com/terms/f/futures.asp) and options.
+An oil ETF is an exchange-traded fund (ETF) which invests in companies engaged in the oil and gas industry. Companies featured in the ETF basket include discovery, production, distribution, and retail businesses as well as the commodity itself. Some oil ETFs may be [commodity pools](https://www.investopedia.com/terms/c/commoditypool.asp), with limited partnership interests instead of shares. These pools invest in derivative contracts such as [[futures]](https://www.investopedia.com/terms/f/futures.asp) and options.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ An oil ETF offers advantages to those wanting to participate in oil markets and 
 
 Most investors, especially individuals, cannot obtain and store physical supplies of crude oil nor would they want to do that. However, the volatile oil industry is a favorite investment and trading sector. With an oil ETF, the investors are not dealing in futures, so physical inventory isn't a concern. This option provides a convenient way for investors interested in getting into the oil market to participate.
 
-The benchmark target for an oil ETF may be a market index of oil companies or the spot price of crude itself. Funds may focus on only United States-based companies or may invest around the world. There are even [inverse ETFs](https://www.investopedia.com/terms/i/inverse-etf.asp) for oil and other sectors. Inverse securities move in an equal and opposite direction to the underlying index or benchmark. Oil ETFs will attempt to track their relative index as closely as possible, but small performance discrepancies will be found, especially over short time frames.
+The benchmark target for an oil ETF may be a market index of oil companies or the spot price of crude itself. Funds may focus on only United States-based companies or may invest around the world. There are even [[inverse ETFs]](https://www.investopedia.com/terms/i/inverse-etf.asp) for oil and other sectors. Inverse securities move in an equal and opposite direction to the underlying index or benchmark. Oil ETFs will attempt to track their relative index as closely as possible, but small performance discrepancies will be found, especially over short time frames.
 
 ## Investing Challenges of Oil ETFs
 

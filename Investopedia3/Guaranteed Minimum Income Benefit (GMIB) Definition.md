@@ -36,6 +36,6 @@ Different annuity providers may call the GMIB by different names, such as Guaran
 
 ## Advantages and Disadvantages of a GMIB
 
-The Guaranteed Minimum Income Benefit feature is one way to help offset the market risk that comes with investing in a [variable annuity](https://www.investopedia.com/terms/v/variableannuity.asp). By guaranteeing a minimum level of annuity payments regardless of investment performance, a GMIB feature can provide additional security for retirees who plan to live on their annuity income.
+The Guaranteed Minimum Income Benefit feature is one way to help offset the market risk that comes with investing in a [[variable annuity]](https://www.investopedia.com/terms/v/variableannuity.asp). By guaranteeing a minimum level of annuity payments regardless of investment performance, a GMIB feature can provide additional security for retirees who plan to live on their annuity income.
 
 However, add-on annuity benefits such as a GMIB come with additional costs and fees, which can eat into any investment growth. Additionally, there are many complex factors that go into calculating annuity payments, particularly when a GMIB provision is involved. For this reason, it can be difficult to compare the different options offered by annuity providers against one another. Variable annuities also offer a limited menu of investment options, which may not meet the needs of all investors.

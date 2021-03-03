@@ -16,9 +16,9 @@ author: Maya E. Dollarhide
 Which Investors Buy Real Estate Mortgage Investment Conduits – REMIC?
 ## What Is a Real Estate Mortgage Investment Conduit (REMIC)?
 
-A real estate mortgage investment conduit (REMIC) is a complex pool of mortgage securities created to acquire investment income for its creators and investors. REMICs consist of a fixed pool of mortgages broken apart into [tranches](https://www.investopedia.com/terms/t/tranches.asp), repackaged, and marketed to investors as individual securities. In this way, they fall into the category of being a manufactured or synthetic investment vehicle. A tranche is merely a grouping of debt or securities by the underlying characteristics of the individual units.
+A real estate mortgage investment conduit (REMIC) is a complex pool of mortgage securities created to acquire investment income for its creators and investors. REMICs consist of a fixed pool of mortgages broken apart into [[tranches]](https://www.investopedia.com/terms/t/tranches.asp), repackaged, and marketed to investors as individual securities. In this way, they fall into the category of being a manufactured or synthetic investment vehicle. A tranche is merely a grouping of debt or securities by the underlying characteristics of the individual units.
 
-After gathering a pool of mortgages, the firm designing the REMIC divides the individual units into varying classes of securities. The division has a basis of differing [maturities](https://www.investopedia.com/terms/m/maturity.asp) and coupon payments. According to an article in the [CPA Journal](https://www.cpajournal.com/2016/10/01/tax-aspects-of-investing-in-reits-and-remics/), REMICS "provide a safer alternative for risk-averse investors interested in this market."
+After gathering a pool of mortgages, the firm designing the REMIC divides the individual units into varying classes of securities. The division has a basis of differing [[maturities]](https://www.investopedia.com/terms/m/maturity.asp) and coupon payments. According to an article in the [[CPA Journal]](https://www.cpajournal.com/2016/10/01/tax-aspects-of-investing-in-reits-and-remics/), REMICS "provide a safer alternative for risk-averse investors interested in this market."
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ After gathering a pool of mortgages, the firm designing the REMIC divides the in
 
 ## History of the REMIC
 
-The U.S. Congress created the real estate mortgage investment conduit as a tax vehicle in 1986. Its creation was to bolster and support the housing market, making it easier to invest in [real estate](https://www.investopedia.com/terms/r/realestate.asp).
+The U.S. Congress created the real estate mortgage investment conduit as a tax vehicle in 1986. Its creation was to bolster and support the housing market, making it easier to invest in [[real estate]](https://www.investopedia.com/terms/r/realestate.asp).
 
-According to the [National Association of REALTORS](https://www.nar.realtor/)® (NAR) website:
+According to the [[National Association of REALTORS]](https://www.nar.realtor/)® (NAR) website:
 
 "Since \[1986\] REMICs have become an integral part of the commercial backed securities market. However, regulations adopted over 15 years ago limit the ability of property owners with \[a\] securitized mortgage to reposition their property to meet changing economic trends."
 
@@ -40,12 +40,12 @@ REMICs are treated as partnerships for Federal income tax purposes.
 
 ## REMIC vs. Collateralized Mortgage Obligation
 
-A REMIC is sometimes called a [collateralized mortgage obligation](https://www.investopedia.com/terms/c/cmo.asp) (CMO), a pool of mortgages bundled together and sold as an investment. Collateralized mortgage obligations exist within REMICs, although CMOs are a [separate legal entity for tax and legal](https://www.investopedia.com/articles/investing/111213/cmo-vs-cdo-same-outside-different-inside.asp) purposes. A REMIC is exempt from federal tax, but only on the income investors collect from the underlying mortgages at the corporate level. Any income generated and paid out to the investors is taxable, using Form 1066 when filing a REMIC.
+A REMIC is sometimes called a [[collateralized mortgage obligation]](https://www.investopedia.com/terms/c/cmo.asp) (CMO), a pool of mortgages bundled together and sold as an investment. Collateralized mortgage obligations exist within REMICs, although CMOs are a [[separate legal entity for tax and legal]](https://www.investopedia.com/articles/investing/111213/cmo-vs-cdo-same-outside-different-inside.asp) purposes. A REMIC is exempt from federal tax, but only on the income investors collect from the underlying mortgages at the corporate level. Any income generated and paid out to the investors is taxable, using Form 1066 when filing a REMIC.
 
 REMICs are not technically CMOs—the two differ for legal and tax purposes.
 
 ## Real World Example
 
-Dealers and investors can work with the Federal Home Loan Mortgage Corporation (FHLMC), or [Freddie Mac](https://www.investopedia.com/terms/f/freddiemac.asp), to obtain REMICs. The companies will help dealers and investors create a custom structure for real estate investment conduits.
+Dealers and investors can work with the Federal Home Loan Mortgage Corporation (FHLMC), or [[Freddie Mac]](https://www.investopedia.com/terms/f/freddiemac.asp), to obtain REMICs. The companies will help dealers and investors create a custom structure for real estate investment conduits.
 
 Freddie Mac started offering REMIC investments in 1988 and is considered "the industry standard" according to its website. One of its offerings, the [Reference REMIC](http://www.freddiemac.com/mbs/products/reference-remics.html), offers "investors a structured alternative to a traditional 30- or 15-year mortgage-backed security."

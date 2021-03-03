@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is Mortgage Insurance?
 ## What Is Mortgage Insurance?
 
-Mortgage insurance is an insurance policy that protects a mortgage lender or titleholder if the borrower defaults on payments, passes away, or is otherwise unable to meet the contractual obligations of the mortgage. Mortgage insurance can refer to [private mortgage insurance](https://www.investopedia.com/mortgage/insurance/) (PMI), qualified mortgage insurance premium (MIP) insurance, or mortgage title insurance. What these have in common is an obligation to make the lender or property holder whole in the event of specific cases of loss.
+Mortgage insurance is an insurance policy that protects a mortgage lender or titleholder if the borrower defaults on payments, passes away, or is otherwise unable to meet the contractual obligations of the mortgage. Mortgage insurance can refer to [[private mortgage insurance]](https://www.investopedia.com/mortgage/insurance/) (PMI), qualified mortgage insurance premium (MIP) insurance, or mortgage title insurance. What these have in common is an obligation to make the lender or property holder whole in the event of specific cases of loss.
 
 Mortgage life insurance, on the other hand, which sounds similar, is designed to protect heirs if the borrower dies while owing mortgage payments. It may pay off either the lender or the heirs, depending on the terms of the policy.
 
@@ -28,7 +28,7 @@ Mortgage life insurance, on the other hand, which sounds similar, is designed to
 
 ## How Mortgage Insurance Works
 
-Mortgage insurance may come with a typical pay-as-you-go premium payment, or it may be capitalized into a lump-sum payment at the time of mortgage origination. For homeowners who are required to have PMI because of the 80% [loan-to-value ratio rule](https://www.investopedia.com/terms/l/loantovalue.asp), they can request that the insurance policy be canceled once 20% of the principal balance has been paid off. Here are three types of mortgage insurance:
+Mortgage insurance may come with a typical pay-as-you-go premium payment, or it may be capitalized into a lump-sum payment at the time of mortgage origination. For homeowners who are required to have PMI because of the 80% [[loan-to-value ratio rule]](https://www.investopedia.com/terms/l/loantovalue.asp), they can request that the insurance policy be canceled once 20% of the principal balance has been paid off. Here are three types of mortgage insurance:
 
 ## Private Mortgage Insurance (PMI)
 
@@ -42,12 +42,12 @@ When you get a U.S. Federal Housing Administration (FHA)-backed mortgage, you wi
 
 ## Mortgage Title Insurance
 
-Mortgage [title insurance](https://www.investopedia.com/terms/t/title_insurance.asp) protects against loss in the event a sale is later invalidated because of a problem with the title. Mortgage title insurance protects a beneficiary against losses if it is determined at the time of the sale that someone other than the seller owns the property. 
+Mortgage [[title insurance]](https://www.investopedia.com/terms/t/title_insurance.asp) protects against loss in the event a sale is later invalidated because of a problem with the title. Mortgage title insurance protects a beneficiary against losses if it is determined at the time of the sale that someone other than the seller owns the property. 
 
-Before mortgage closing, a representative, such as a lawyer or a title company employee, performs a [title search](https://www.investopedia.com/terms/t/titlesearch.asp). The process is designed to uncover any liens placed on the property that would prevent the owner from selling. A title search also verifies that the real estate being sold belongs to the seller. Despite a thorough search, it isn’t hard to miss important pieces of evidence when information is not centralized.
+Before mortgage closing, a representative, such as a lawyer or a title company employee, performs a [[title search]](https://www.investopedia.com/terms/t/titlesearch.asp). The process is designed to uncover any liens placed on the property that would prevent the owner from selling. A title search also verifies that the real estate being sold belongs to the seller. Despite a thorough search, it isn’t hard to miss important pieces of evidence when information is not centralized.
 
 ## Mortgage Protection Life Insurance
 
-Borrowers are often offered mortgage protection life insurance when they fill out paperwork to start a mortgage. [A borrower can decline this insurance](https://www.investopedia.com/mortgage/insurance/why-you-dont-need-mpli/) when it is offered, but you may be required to sign a series of forms and waivers, verifying your decision. This extra paperwork intends to prove you understand the risks associated with having a mortgage.
+Borrowers are often offered mortgage protection life insurance when they fill out paperwork to start a mortgage. [[A borrower can decline this insurance]](https://www.investopedia.com/mortgage/insurance/why-you-dont-need-mpli/) when it is offered, but you may be required to sign a series of forms and waivers, verifying your decision. This extra paperwork intends to prove you understand the risks associated with having a mortgage.
 
 Payouts for mortgage life insurance can be either declining-term (the payout drops as the mortgage balance drops) or level, although the latter costs more. The recipient of the payments can be either the lender or the heirs of the borrower, depending on the terms of the policy.

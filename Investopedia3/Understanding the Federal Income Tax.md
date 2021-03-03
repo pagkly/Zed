@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding the Federal Income Tax
 ## What Is Federal Income Tax?
 
-The federal income tax is the tax levied by the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) on the annual earnings of individuals, corporations, trusts, and other legal entities. Federal income taxes are applied to all forms of earnings that make up a taxpayer's taxable income, such as employment earnings or capital gains.1
+The federal income tax is the tax levied by the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) on the annual earnings of individuals, corporations, trusts, and other legal entities. Federal income taxes are applied to all forms of earnings that make up a taxpayer's taxable income, such as employment earnings or capital gains.1
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ Federal tax is the money used by the government of a country to pay for the grow
 -   Provide food and housing assistance to the poor
 -   Improve sectors such as education, defense, health, agriculture, utilities, and public transportation
 -   Embark on new feats such as space exploration
--   Provide [emergency disaster relief](https://www.investopedia.com/insights/3-government-agencies-danger-going-broke/)2
+-   Provide [[emergency disaster relief]](https://www.investopedia.com/insights/3-government-agencies-danger-going-broke/)2
 
 The largest source of revenue for the federal government comes from the income of its residents. In 2018, the latest year for which figures are available, the IRS collected nearly $3 trillion in receipts, of which individuals, estates and trusts contributed $1.57 trillion.3 When people work for a company, group, or for themselves, they are compensated for the services that they render. They are mostly paid with cash, check, or direct transfer to their bank accounts.
 
@@ -43,7 +43,7 @@ Workers receive their earnings either as net income or gross income. Net income
 
 Tax deducted from income is known as the federal income tax. All money earned whether as a wage, a salary, cash gift from an employer, business income, tips, gambling income, bonuses, or unemployment compensation constitutes as income for federal tax purposes.1
 
-The federal income tax is built on a [progressive tax system](https://www.investopedia.com/terms/p/progressivetax.asp), where higher income earners are taxed at a higher rate. Taxpayers who earn below an annual threshold set by the government would pay little to no tax, while workers who earn six figures or more annually have a mandatory tax rate that applies to their income. The tax rate that applies to each individual is set up in a marginal tax bracket that shows the highest tax rate to be paid on income earned. In effect, the amount of taxable income that one earns determines which tax bracket he would fall into.
+The federal income tax is built on a [[progressive tax system]](https://www.investopedia.com/terms/p/progressivetax.asp), where higher income earners are taxed at a higher rate. Taxpayers who earn below an annual threshold set by the government would pay little to no tax, while workers who earn six figures or more annually have a mandatory tax rate that applies to their income. The tax rate that applies to each individual is set up in a marginal tax bracket that shows the highest tax rate to be paid on income earned. In effect, the amount of taxable income that one earns determines which tax bracket he would fall into.
 
 The table below shows the marginal tax brackets for single taxpayers, or taxpayers who are married by filing separately.
 
@@ -99,7 +99,7 @@ on incomes over $518,400
 
 _Source: Internal Revenue Service._4 5
 
-The [marginal tax rate](https://www.investopedia.com/ask/answers/05/marginaltaxrate.asp) refers to the tax applied on a taxpayer’s next dollar earned. Unless a taxpayer is in the lowest marginal bracket of 10%, they would have two or more marginal tax brackets. An individual who is unmarried and earns $80,000 annually falls into the 22% marginal tax bracket. This means the taxpayer would be responsible for $13,459 in taxes in 2019, the breakdown for which is illustrated in the chart below.
+The [[marginal tax rate]](https://www.investopedia.com/ask/answers/05/marginaltaxrate.asp) refers to the tax applied on a taxpayer’s next dollar earned. Unless a taxpayer is in the lowest marginal bracket of 10%, they would have two or more marginal tax brackets. An individual who is unmarried and earns $80,000 annually falls into the 22% marginal tax bracket. This means the taxpayer would be responsible for $13,459 in taxes in 2019, the breakdown for which is illustrated in the chart below.
 
 **Dollars**
 
@@ -145,4 +145,4 @@ However, note that while the marginal rate is 22%, the effective tax rate is 16.
 
 ## Income Tax vs. Federal Income Tax
 
-It is important to distinguish between the general notion of income tax and federal income tax. In the United States, governments at the state level may also levy income taxes in addition to federal income taxes. Not all states have implemented [state-level income taxes](https://www.investopedia.com/terms/state-income-tax.asp). The states of Washington, Texas, Florida, Alaska, Nevada, South Dakota, and Wyoming don’t have an income tax. New Hampshire and Tennessee only tax dividends and interest income, and don’t apply taxes to wages, earnings, or other income.6
+It is important to distinguish between the general notion of income tax and federal income tax. In the United States, governments at the state level may also levy income taxes in addition to federal income taxes. Not all states have implemented [[state-level income taxes]](https://www.investopedia.com/terms/state-income-tax.asp). The states of Washington, Texas, Florida, Alaska, Nevada, South Dakota, and Wyoming don’t have an income tax. New Hampshire and Tennessee only tax dividends and interest income, and don’t apply taxes to wages, earnings, or other income.6

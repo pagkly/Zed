@@ -16,7 +16,7 @@ author: Alice Zhang
 Undivided Profit
 ## What Is Undivided Profit?
 
-Undivided profits refer to gains from current and past years that have not been transferred to a surplus account or distributed as [dividends](https://www.investopedia.com/terms/d/dividend.asp) to shareholders. Often times, financial gains or budget surpluses are set aside in a separate account designated as a surplus account, are earmarked for distribution as dividends, or assigned to another purpose such as funding a project. 
+Undivided profits refer to gains from current and past years that have not been transferred to a surplus account or distributed as [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) to shareholders. Often times, financial gains or budget surpluses are set aside in a separate account designated as a surplus account, are earmarked for distribution as dividends, or assigned to another purpose such as funding a project. 
 
 Essentially, undivided profit refers to corporate earnings that have been allowed to accumulate over a period of time as opposed to being disbursed for other purposes.
 

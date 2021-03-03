@@ -18,7 +18,7 @@ Microfinance Definition
 
 Microfinance, also called [microcredit](https://www.investopedia.com/terms/m/microcredit.asp), is a type of banking service provided to unemployed or low-income individuals or groups who otherwise would have no other access to financial services.
 
-While institutions participating in the area of microfinance most often provide lending—microloans can range from as small as $100 to as large as $25,000—many banks offer additional services such as checking and savings accounts as well as [micro-insurance](https://www.investopedia.com/terms/m/microinsurance.asp) products, and some even provide financial and business education. The goal of microfinance is to ultimately give impoverished people an opportunity to become self-sufficient.
+While institutions participating in the area of microfinance most often provide lending—microloans can range from as small as $100 to as large as $25,000—many banks offer additional services such as checking and savings accounts as well as [[micro-insurance]](https://www.investopedia.com/terms/m/microinsurance.asp) products, and some even provide financial and business education. The goal of microfinance is to ultimately give impoverished people an opportunity to become self-sufficient.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ While institutions participating in the area of microfinance most often provide
 
 Microfinance services are provided to unemployed or low-income individuals because most of those trapped in poverty, or who have limited financial resources, do not have enough income to do business with traditional financial institutions.
 
-Despite being excluded from banking services, however, those who live on as little as $2 a day _do_ attempt to save, borrow, acquire credit or insurance, and they do make payments on their debt. Thus, many poor people typically look to family, friends, and even [loan sharks](https://www.investopedia.com/terms/l/loansharking.asp) (who often charge exorbitant [interest rates](https://www.investopedia.com/terms/i/interestrate.asp)) for help.
+Despite being excluded from banking services, however, those who live on as little as $2 a day _do_ attempt to save, borrow, acquire credit or insurance, and they do make payments on their debt. Thus, many poor people typically look to family, friends, and even [[loan sharks]](https://www.investopedia.com/terms/l/loansharking.asp) (who often charge exorbitant [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp)) for help.
 
 Microfinance allows people to take on reasonable small business loans safely, and in a manner that is consistent with ethical lending practices. Although they exist all around the world, the majority of microfinancing operations occur in developing nations, such as Uganda, Indonesia, Serbia, and Honduras. Many [microfinance institutions](https://www.investopedia.com/articles/insurance/090116/5-biggest-microfinance-companies-bbrijk.asp) focus on helping women in particular.
 
@@ -40,9 +40,9 @@ Microfinance allows people to take on reasonable small business loans safely, a
 
 Microfinancing organizations support a large number of activities that range from providing the basics—like bank checking and savings accounts—to [startup capital](https://www.investopedia.com/terms/s/startup-capital.asp) for small business entrepreneurs and educational programs that teach the principles of investing. These programs can focus on such skills as bookkeeping, cash-flow management, and technical or professional skills, like accounting.
 
-Unlike typical financing situations, in which the lender is primarily concerned with the borrower having enough [collateral](https://www.investopedia.com/terms/c/collateral.asp) to cover the loan, many microfinance organizations focus on helping entrepreneurs succeed.
+Unlike typical financing situations, in which the lender is primarily concerned with the borrower having enough [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) to cover the loan, many microfinance organizations focus on helping entrepreneurs succeed.
 
-In many instances, people seeking help from microfinance organizations are first required to take a basic money-management class. Lessons cover understanding interest rates, the concept of cash flow, how financing agreements and savings accounts work, how to [budget](https://www.investopedia.com/terms/b/budget.asp), and how to manage debt.
+In many instances, people seeking help from microfinance organizations are first required to take a basic money-management class. Lessons cover understanding interest rates, the concept of cash flow, how financing agreements and savings accounts work, how to [[budget]](https://www.investopedia.com/terms/b/budget.asp), and how to manage debt.
 
 Once educated, customers may apply for loans. Just as one would find at a traditional bank, a loan officer helps borrowers with applications, oversees the lending process, and approves loans. The typical loan, sometimes as little as $100, may not seem like much to some people in the developed world, but for many impoverished people, this figure often is enough to start a business or engage in other profitable activities.
 
@@ -54,7 +54,7 @@ Empowering women in particular, as many microfinance organizations do, may lead
 
 Because many applicants cannot offer collateral, microlenders often pool borrowers together as a buffer. After receiving loans, recipients repay their debts together. Because the success of the program depends on everyone's contributions, this creates a form of peer pressure that can help to ensure repayment.
 
-For example, if an individual is having trouble using his or her money to start a business, that person can seek help from other group members or from the loan officer. Through repayment, loan recipients start to develop a good [credit history](https://www.investopedia.com/terms/c/credit-history.asp), which allows them to obtain larger loans in the future.
+For example, if an individual is having trouble using his or her money to start a business, that person can seek help from other group members or from the loan officer. Through repayment, loan recipients start to develop a good [[credit history]](https://www.investopedia.com/terms/c/credit-history.asp), which allows them to obtain larger loans in the future.
 
 Interestingly, although these borrowers often qualify as very poor, repayment amounts on microloans are often actually higher than the average repayment rate on more conventional forms of financing. For example, the microfinancing institution Opportunity International reported repayment rates of approximately 99 percent in 2019.
 
@@ -62,7 +62,7 @@ Interestingly, although these borrowers often qualify as very poor, repayment am
 
 Microfinance is not a new concept. Small operations have existed since the 18th century. The first occurrence of microlending is attributed to the Irish Loan Fund system, introduced by Jonathan Swift, which sought to improve conditions for impoverished Irish citizens. In its modern form, microfinancing became popular on a large scale in the 1970s.
 
-The first organization to receive attention was the Grameen Bank, which was started in 1976 by [Muhammad Yunus](https://www.investopedia.com/terms/m/muhammad-yunus.asp) in Bangladesh. In addition to providing loans to its clients, the Grameen Bank also suggests that its customers subscribe to its "16 Decisions," a basic list of ways that the poor can improve their lives.
+The first organization to receive attention was the Grameen Bank, which was started in 1976 by [[Muhammad Yunus]](https://www.investopedia.com/terms/m/muhammad-yunus.asp) in Bangladesh. In addition to providing loans to its clients, the Grameen Bank also suggests that its customers subscribe to its "16 Decisions," a basic list of ways that the poor can improve their lives.
 
 The "16 Decisions" touch upon a wide variety of subjects ranging from a request to stop the practice of issuing dowries upon a couple's marriage, to keeping drinking water sanitary. In 2006, the Nobel Peace Prize was awarded to both Yunus and the Grameen Bank for their efforts in developing the microfinance system.
 
@@ -70,7 +70,7 @@ India's SKS Microfinance also serves a large number of poor clients. Formed in 1
 
 ## Additional Microfinance Operations
 
-There are other microfinance operations around the world. Some larger organizations work closely with [the World Bank](https://www.investopedia.com/terms/w/worldbank.asp), while other smaller groups operate in different nations. Some organizations enable lenders to choose exactly who they want to support, categorizing borrowers with criteria such as level of poverty, geographic region, and type of small business.
+There are other microfinance operations around the world. Some larger organizations work closely with [[the World Bank]](https://www.investopedia.com/terms/w/worldbank.asp), while other smaller groups operate in different nations. Some organizations enable lenders to choose exactly who they want to support, categorizing borrowers with criteria such as level of poverty, geographic region, and type of small business.
 
 Others are very specifically targeted. There are organizations in Uganda, for example, that focus on providing women with the capital to undertake projects like growing eggplants and opening small cafés.
 
@@ -78,7 +78,7 @@ Some groups focus their efforts only on businesses whose goal is to improve the
 
 ## Benefits of Microfinance
 
-The World Bank estimates that more than 500 million people have directly or indirectly benefited from microfinance-related operations. The [International Finance Corporation](https://www.investopedia.com/terms/i/international-finance-corporation.asp) (IFC), part of the larger World Bank Group, estimates that, as of 2014, more than 130 million people have directly benefited from microfinance-related operations. However, these operations are only available to approximately 20% of the three billion people who qualify as among the world’s poor. 
+The World Bank estimates that more than 500 million people have directly or indirectly benefited from microfinance-related operations. The [[International Finance Corporation]](https://www.investopedia.com/terms/i/international-finance-corporation.asp) (IFC), part of the larger World Bank Group, estimates that, as of 2014, more than 130 million people have directly benefited from microfinance-related operations. However, these operations are only available to approximately 20% of the three billion people who qualify as among the world’s poor. 
 
 In addition to providing microfinancing options, the IFC has helped establish or improve credit reporting bureaus in 30 developing nations. It has also advocated for adding relevant laws in 33 countries that govern financial activities.
 
@@ -88,7 +88,7 @@ The benefits of microfinance extend beyond the direct effects of giving people a
 
 Although there are countless heartwarming success stories ranging from micro-entrepreneurs starting their own water supply business in Tanzania, to a $1,500 loan that allowed a family to open a barbecue restaurant in China, to immigrants in the U.S. being able to build their own businesses, microfinance has sometimes fallen under criticism.
 
-While microfinance interest rates are generally lower than conventional banks', critics have charged that these operations are making money off of the poor. Especially since the trend in for-profit microfinance institutions, such as BancoSol in Bolivia and the above-mentioned SKS (which actually began as a [nonprofit organization](https://www.investopedia.com/terms/n/non-profitorganization.asp) (NPO) but became for-profit in 2003.)
+While microfinance interest rates are generally lower than conventional banks', critics have charged that these operations are making money off of the poor. Especially since the trend in for-profit microfinance institutions, such as BancoSol in Bolivia and the above-mentioned SKS (which actually began as a [[nonprofit organization]](https://www.investopedia.com/terms/n/non-profitorganization.asp) (NPO) but became for-profit in 2003.)
 
 One of the largest, and most controversial, is Mexico's Compartamos Banco. The bank was started in 1990 as a nonprofit. However, 10 years later, management decided to transform the enterprise into a traditional, for-profit company. In 2007, it went public on the Mexican Stock Exchange, and its initial public offering (IPO) raised more than $400 million.
 
@@ -96,13 +96,13 @@ Like most other microfinance companies, Compartamos Banco makes relatively sma
 
 ## Concerns about For-Profit Microfinancing
 
-In addition to Compartamos Banco, many major financial institutions and other large corporations have launched for-profit microfinance departments, including CitiGroup, Barclays, and General Electric, for example. Other companies have created [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) that invest primarily in microfinance firms.
+In addition to Compartamos Banco, many major financial institutions and other large corporations have launched for-profit microfinance departments, including CitiGroup, Barclays, and General Electric, for example. Other companies have created [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) that invest primarily in microfinance firms.
 
 Compartamos Banco and its for-profit peers have been criticized by many, including the grandfather of modern microfinance himself, Muhammad Yunus. The immediate, pragmatic fear is that, out of a desire to make money, large microfinance bankers will charge higher interest rates that may create a debt trap for low-income borrowers.
 
 But Yunus and others also have a more fundamental concern: that the incentive for microcredit should be poverty alleviation, not profit. By their very nature—and their obligation to stockholders—these publicly-traded firms work against the original mission of microfinance, helping the poor above all else.
 
-In response, Compartamos and other for-profit microfinanciers counter that [commercialization](https://www.investopedia.com/terms/c/commercialization.asp) allows them to operate more efficiently, and to attract more capital by appealing to profit-seeking investors. By becoming a profitable business, their argument goes, a microfinance bank is able to extend its reach, providing more money and more loans to low-income applicants. For now, though, charitable and commercialized microfinanciers do co-exist.
+In response, Compartamos and other for-profit microfinanciers counter that [[commercialization]](https://www.investopedia.com/terms/c/commercialization.asp) allows them to operate more efficiently, and to attract more capital by appealing to profit-seeking investors. By becoming a profitable business, their argument goes, a microfinance bank is able to extend its reach, providing more money and more loans to low-income applicants. For now, though, charitable and commercialized microfinanciers do co-exist.
 
 ## Nonprofit vs. For-Profit Microfinance
 

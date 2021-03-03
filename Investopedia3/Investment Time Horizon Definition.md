@@ -16,7 +16,7 @@ author: Brian Dolan
 Investment Time Horizon Definition
 ## What Is an Investment Time Horizon?
 
-An investment time horizon, or just time horizon, is the period of time one expects to hold an investment until they need the money back. Time horizons are largely dictated by investment goals and [strategies](https://www.investopedia.com/articles/financial-advisors/060815/comparison-bucket-strategy-vs-systematic-withdrawals.asp). For example, saving for a down payment on a house, for maybe two years, would be considered a short-term time horizon, while saving for college would be a medium-term time horizon, and investing for retirement, a long-term time horizon.
+An investment time horizon, or just time horizon, is the period of time one expects to hold an investment until they need the money back. Time horizons are largely dictated by investment goals and [[strategies]](https://www.investopedia.com/articles/financial-advisors/060815/comparison-bucket-strategy-vs-systematic-withdrawals.asp). For example, saving for a down payment on a house, for maybe two years, would be considered a short-term time horizon, while saving for college would be a medium-term time horizon, and investing for retirement, a long-term time horizon.
 
 #### Understanding Risk And Time Horizon
 

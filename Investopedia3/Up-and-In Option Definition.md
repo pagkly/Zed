@@ -28,7 +28,7 @@ Image by Julie Bang © Investopedia 2020
 
 ## How an Up-and-In Option Works
 
-Up-and-in options are a type of exotic option known as a barrier option. As an exotic option, barrier options are structured with more complex terms than standard plain vanilla options. Barrier options can be of two varieties, either a [knock in option](https://www.investopedia.com/terms/k/knock-inoption.asp) or a [knock out option](https://www.investopedia.com/terms/k/knock-outoption.asp). The option pays out differently depending on the variety. Barrier options may also include a rebate provision for the holder if the option cannot be exercised.
+Up-and-in options are a type of exotic option known as a barrier option. As an exotic option, barrier options are structured with more complex terms than standard plain vanilla options. Barrier options can be of two varieties, either a [[knock in option]](https://www.investopedia.com/terms/k/knock-inoption.asp) or a [[knock out option]](https://www.investopedia.com/terms/k/knock-outoption.asp). The option pays out differently depending on the variety. Barrier options may also include a rebate provision for the holder if the option cannot be exercised.
 
 Because exotic options are often available in OTC markets, there is a fair amount of variation to how these options may be offered. Depending on the liquidity of the underlying, which may be forex or stocks, some options may be offered in a bespoke manner. These kinds of options are also rarely available to most retail investors. Here is how the payouts vary between the two varieties.
 
@@ -36,15 +36,15 @@ Because exotic options are often available in OTC markets, there is a fair amoun
 
 Knock in options can be either up-and-in or down-and-in. This implies whether the price will rise or fall to meet the barrier price level. The barrier price, when crossed, makes the option available for exercise. An up-and-in option will give the holder the right to exercise when the barrier price level is reached or exceeded, depending on the structuring.
 
-In a down-and-in option the holder gets the right to exercise when the underlying asset’s price falls to, or below, a certain barrier level. Barrier options are structured with either puts or calls. An up-and-in [call option](https://www.investopedia.com/terms/c/calloption.asp) allows an investor to benefit when a price is rising. A down-and-in uses a put option and allows an investor to benefit when a price is falling.
+In a down-and-in option the holder gets the right to exercise when the underlying asset’s price falls to, or below, a certain barrier level. Barrier options are structured with either puts or calls. An up-and-in [[call option]](https://www.investopedia.com/terms/c/calloption.asp) allows an investor to benefit when a price is rising. A down-and-in uses a put option and allows an investor to benefit when a price is falling.
 
 ## Knock Out Options
 
-Knock out options are the opposite of knock in options. These products make the [option](https://www.investopedia.com/terms/o/option.asp) defective when a price is reached, but viable so long as the barrier price is not reached. Knock out options can be either up-and-out or down-and-out. With an up-and-out option the product becomes defective when a price is reached or exceeded, and with a down-and-out option the product becomes defective when a price falls to or below its barrier level.
+Knock out options are the opposite of knock in options. These products make the [[option]](https://www.investopedia.com/terms/o/option.asp) defective when a price is reached, but viable so long as the barrier price is not reached. Knock out options can be either up-and-out or down-and-out. With an up-and-out option the product becomes defective when a price is reached or exceeded, and with a down-and-out option the product becomes defective when a price falls to or below its barrier level.
 
 ## Rebate Barrier Options
 
-Both knock in and knock out options can include a rebate provision. These options will be known as [rebate barrier options](https://www.investopedia.com/terms/r/rebatebarrieroption.asp). In a rebate barrier option the holder receives a rebate when the option is non-exercisable at expiration.
+Both knock in and knock out options can include a rebate provision. These options will be known as [[rebate barrier options]](https://www.investopedia.com/terms/r/rebatebarrieroption.asp). In a rebate barrier option the holder receives a rebate when the option is non-exercisable at expiration.
 
 ## Barrier Option Provisions
 

@@ -16,7 +16,7 @@ author: James Chen
 Korea Investment Corporation
 ## DEFINITION of Korea Investment Corporation
 
-The Korea Investment Corporation (KIC) is a government-owned investment organization that manages the [sovereign wealth fund](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) for the Government of South Korea. The KIC was established by law in 2005. The KIC received initial deposits of $17 billion from the Bank of Korea and $3 billion from the Korean Ministry of Strategy and Finance. The KIC has approximately USD$122.3 billion in assets under management as of the end of 2018, according to the [Sovereign Wealth Fund Institute's rankings](https://www.swfinstitute.org/sovereign-wealth-fund-rankings/).
+The Korea Investment Corporation (KIC) is a government-owned investment organization that manages the [[sovereign wealth fund]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) for the Government of South Korea. The KIC was established by law in 2005. The KIC received initial deposits of $17 billion from the Bank of Korea and $3 billion from the Korean Ministry of Strategy and Finance. The KIC has approximately USD$122.3 billion in assets under management as of the end of 2018, according to the [[Sovereign Wealth Fund Institute's rankings]](https://www.swfinstitute.org/sovereign-wealth-fund-rankings/).
 
 ## BREAKING DOWN Korea Investment Corporation
 

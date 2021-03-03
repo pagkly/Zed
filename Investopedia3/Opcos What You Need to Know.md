@@ -16,7 +16,7 @@ author: Adam Hayes
 Opcos: What You Need to Know
 ## What Is an Opco?
 
-Opco is the abbreviation for "operating company," typically used when describing the primary operating company involved in an [opco/propco deal](https://www.investopedia.com/terms/o/opco-propco.asp), which is the most common structure for spinning off a real estate investment trust ([REIT](https://www.investopedia.com/terms/r/reit.asp)).
+Opco is the abbreviation for "operating company," typically used when describing the primary operating company involved in an [[opco/propco deal]](https://www.investopedia.com/terms/o/opco-propco.asp), which is the most common structure for spinning off a real estate investment trust ([REIT](https://www.investopedia.com/terms/r/reit.asp)).
 
 The property company ([propco](https://www.investopedia.com/terms/p/propco.asp)) maintains ownership of all real estate and related debt, while the opco conducts day-to-day operations and management, offering the opco advantages related to its credit rating and financing capabilities.
 
@@ -36,7 +36,7 @@ An opco/propco strategy makes it possible for companies to keep certain elements
 
 ## Example of an Opco
 
-[Casino companies](https://www.investopedia.com/markets-news-4427704), which often function in a sense as entertainment or resort REITS, may consider opco/propco restructuring to create shareholder value and to streamline operations. The model for this is the 2013 restructuring of Penn National Gaming Inc., where the casino company received permission from the U.S. Internal Revenue Service (IRS) to perform a [tax-free spinoff](https://www.investopedia.com/terms/t/tax-freespinoff.asp) of its properties into a new REIT.
+[Casino companies](https://www.investopedia.com/markets-news-4427704), which often function in a sense as entertainment or resort REITS, may consider opco/propco restructuring to create shareholder value and to streamline operations. The model for this is the 2013 restructuring of Penn National Gaming Inc., where the casino company received permission from the U.S. Internal Revenue Service (IRS) to perform a [[tax-free spinoff]](https://www.investopedia.com/terms/t/tax-freespinoff.asp) of its properties into a new REIT.
 
 Penn National Gaming thus spun off the REIT Gaming and Leisure Properties, transferring all ownership of real estate assets to the newly formed REIT. After completing this spinoff, Gaming and Leisure Properties then leased the properties back to Penn National Gaming who operated them.
 

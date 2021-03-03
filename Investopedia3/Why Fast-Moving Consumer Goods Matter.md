@@ -16,7 +16,7 @@ author: Will Kenton
 Why Fast-Moving Consumer Goods Matter
 ## What Are Fast-Moving Consumer Goods (FMCG)?
 
-Fast-moving [consumer goods](https://www.investopedia.com/terms/c/consumer-goods.asp) are products that sell quickly at relatively low cost. These goods are also called [consumer packaged goods](https://www.investopedia.com/terms/c/cpg.asp).
+Fast-moving [consumer goods](https://www.investopedia.com/terms/c/consumer-goods.asp) are products that sell quickly at relatively low cost. These goods are also called [[consumer packaged goods]](https://www.investopedia.com/terms/c/cpg.asp).
 
 FMCGs have a short shelf life because of high consumer demand (e.g., soft drinks and confections) or because they are perishable (e.g., meat, dairy products, and baked goods). These goods are purchased frequently, are consumed rapidly, are priced low, and are sold in large quantities. They also have a high turnover when they're on the shelf at the store.
 
@@ -28,7 +28,7 @@ Consumer goods are products purchased for consumption by the average consumer. T
 
 Nearly everyone in the world uses fast-moving consumer goods (FMCG) every day. They are the small-scale consumer purchases we make at the produce stand, grocery store, supermarket, and warehouse outlet. Examples include milk, gum, fruit and vegetables, toilet paper, soda, beer, and over-the-counter drugs like aspirin.
 
-FMCGs account for more than half of all [consumer spending](https://www.investopedia.com/terms/c/consumer-spending.asp), but they tend to be low-involvement purchases. Consumers are more likely to show off a durable good such as a new car or beautifully designed smartphone than a new energy drink they picked up for $2.50 at the convenience store.
+FMCGs account for more than half of all [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp), but they tend to be low-involvement purchases. Consumers are more likely to show off a durable good such as a new car or beautifully designed smartphone than a new energy drink they picked up for $2.50 at the convenience store.
 
 ## Types of Fast-Moving Consumer Goods
 
@@ -52,9 +52,9 @@ Because fast-moving consumer goods have such a high turnover rate, the market is
 
 That's why packaging is a very important factor in the production process. The logistics and distribution systems often require secondary and tertiary packaging to maximize efficiency. The unit pack or primary package is critical for product protection and shelf life, and also provides information and sales incentives to consumers.
 
-FCMGs are sold in large quantities, so they are considered a reliable source of revenue. This high volume of sales also offsets the low [profit margins](https://www.investopedia.com/terms/p/profitmargin.asp) on individual sales as well.
+FCMGs are sold in large quantities, so they are considered a reliable source of revenue. This high volume of sales also offsets the low [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp) on individual sales as well.
 
-As investments, FMCG stocks generally promise low-growth but are safe bets with predictable [margins](https://www.investopedia.com/terms/m/margin.asp), stable returns, and regular dividends.
+As investments, FMCG stocks generally promise low-growth but are safe bets with predictable [[margins]](https://www.investopedia.com/terms/m/margin.asp), stable returns, and regular dividends.
 
 ## Special Considerations
 

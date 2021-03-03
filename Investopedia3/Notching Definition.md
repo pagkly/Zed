@@ -16,7 +16,7 @@ author: Will Kenton
 Notching Definition
 ## What Is Notching?
 
-Notching is the practice by credit rating agencies to give different [credit ratings](https://www.investopedia.com/terms/c/creditrating.asp) to the particular obligations or debts of a single issuing entity or closely related entities. Rating distinctions among obligations are made based on differences in their security or priority of claim. With varying degrees of losses in the event of [default](https://www.investopedia.com/terms/d/default2.asp), obligations are subject to being notched higher or lower. Thus, while company A may have an overall credit rating of "AA," its rating on its [junior debt](https://www.investopedia.com/terms/j/junior-debt.asp) may be "A."
+Notching is the practice by credit rating agencies to give different [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp) to the particular obligations or debts of a single issuing entity or closely related entities. Rating distinctions among obligations are made based on differences in their security or priority of claim. With varying degrees of losses in the event of [[default]](https://www.investopedia.com/terms/d/default2.asp), obligations are subject to being notched higher or lower. Thus, while company A may have an overall credit rating of "AA," its rating on its [[junior debt]](https://www.investopedia.com/terms/j/junior-debt.asp) may be "A."
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Notching is the practice by credit rating agencies to give different [credit rat
 
 Companies receive credit ratings agencies that evaluate the firm's creditworthiness and ability to meet its debt payments and other obligations. However, a company may also issue several types of debts (e.g., secured vs. unsecured) or related types of obligations (such as preferred shares or convertible bonds). As a result, the credit rating on those particular debts or obligations may differ somewhat from the issuing company's overall credit rating due to unique risks or restrictions on those obligations.
 
-[Moody's Investors Service](https://www.investopedia.com/terms/m/moodys.asp) ("Moody's) and [Standard & Poor's Financial Services](https://www.investopedia.com/terms/s/sp.asp) ("S&P") are two major credit rating agencies that notch up or notch down instruments within the same corporate family depending on placement in an [obligor's](https://www.investopedia.com/terms/o/obligor.asp) capital structure and their level of collateral.
+[Moody's Investors Service](https://www.investopedia.com/terms/m/moodys.asp) ("Moody's) and [[Standard & Poor's Financial Services]](https://www.investopedia.com/terms/s/sp.asp) ("S&P") are two major credit rating agencies that notch up or notch down instruments within the same corporate family depending on placement in an [[obligor's]](https://www.investopedia.com/terms/o/obligor.asp) capital structure and their level of collateral.
 
 The base from which an instrument is notched in either direction is an obligor's senior unsecured debt (base = 0), or the corporate family rating ([[Cost and Freight (CFR) Definition|CFR]]). Notching also applies to the structural subordination of debt issued by operating subsidiaries or holding companies, according to S&P. As an example, the debt of a holding company of an enterprise could be rated lower than the debt of the subsidiaries, the entities that directly own the enterprise's assets and cash flows.
 

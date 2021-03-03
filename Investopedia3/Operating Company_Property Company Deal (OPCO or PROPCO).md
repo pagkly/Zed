@@ -16,7 +16,7 @@ author: James Chen
 Operating Company/Property Company Deal (OPCO or PROPCO)
 ## What Is an Operating Company/Property Company Deal (OPCO or PROPCO)?
 
-An operating company/property operating company ([opco](https://www.investopedia.com/terms/o/opco.asp)/propco) deal is a business arrangement in which a subsidiary company (i.e., the property company) owns all of the revenue-generating properties instead of the main company (operating company). Opco/propco deals allow all financing and [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) related issues for both companies to remain separate.
+An operating company/property operating company ([opco](https://www.investopedia.com/terms/o/opco.asp)/propco) deal is a business arrangement in which a subsidiary company (i.e., the property company) owns all of the revenue-generating properties instead of the main company (operating company). Opco/propco deals allow all financing and [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) related issues for both companies to remain separate.
 
 ### Key Takeaways
 
@@ -36,4 +36,4 @@ A master limited partnership has a pass-through tax structure, meaning that all 
 
 In the U.K., opco/propco deals are a very popular method in which a parent company can create a real estate income trust (REIT). A REIT owns, operates and/or finances real estate that produces income. Most REITs specialize in a specific sector, such as office REITs or healthcare REITs. In general, REITs will pass on collected rent payments to its investors in the form of dividends.
 
-The creation of a REIT via an opco/propco deal can occur by initially selling income-generating assets from the operating company to a subsidiary. The subsidiary then leases the property back to the operating company. The operating company can subsequently spin off the subsidiary as a REIT. The advantage of doing this is that the company can then avoid [double taxation](https://www.investopedia.com/terms/d/double_taxation.asp) on its income distributions.
+The creation of a REIT via an opco/propco deal can occur by initially selling income-generating assets from the operating company to a subsidiary. The subsidiary then leases the property back to the operating company. The operating company can subsequently spin off the subsidiary as a REIT. The advantage of doing this is that the company can then avoid [[double taxation]](https://www.investopedia.com/terms/d/double_taxation.asp) on its income distributions.

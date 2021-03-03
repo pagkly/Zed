@@ -16,7 +16,7 @@ author: Julia Kagan
 What You Should Know About Non-Recourse Debt
 ## What Is Non-Recourse Debt?
 
-Non-recourse debt is a type of loan secured by [collateral](https://www.investopedia.com/terms/c/collateral.asp), which is usually property. If the borrower defaults, the issuer can seize the collateral but cannot seek out the borrower for any further compensation, even if the collateral does not cover the full value of the defaulted amount. This is one instance where the borrower does not have personal liability for the loan.
+Non-recourse debt is a type of loan secured by [[collateral]](https://www.investopedia.com/terms/c/collateral.asp), which is usually property. If the borrower defaults, the issuer can seize the collateral but cannot seek out the borrower for any further compensation, even if the collateral does not cover the full value of the defaulted amount. This is one instance where the borrower does not have personal liability for the loan.
 
 ## Understanding Non-Recourse Debt
 
@@ -33,11 +33,11 @@ Recourse debt allows the lender to go after the borrower for any balance that re
 
 ## Recourse vs. Non-recourse Debt
 
-Recourse debt gives the creditor full autonomy to pursue the borrower for the total debt owed in the event of default. After liquidating the collateral, any balance that remains is known as a deficiency balance. The lender may attempt to collect this balance by several means, including filing a lawsuit and obtaining a [deficiency judgment](https://www.investopedia.com/terms/d/deficiency-judgment.asp) in court. If the debt is non-recourse, the lender may liquidate the collateral but may not attempt to collect the deficiency balance.
+Recourse debt gives the creditor full autonomy to pursue the borrower for the total debt owed in the event of default. After liquidating the collateral, any balance that remains is known as a deficiency balance. The lender may attempt to collect this balance by several means, including filing a lawsuit and obtaining a [[deficiency judgment]](https://www.investopedia.com/terms/d/deficiency-judgment.asp) in court. If the debt is non-recourse, the lender may liquidate the collateral but may not attempt to collect the deficiency balance.
 
 With non-recourse debt, the creditor's only protection against borrower default is the ability to seize the collateral and liquidate it to cover the debt owed.
 
-For example, consider an auto lender who loans a customer $30,000 to purchase a new vehicle. New cars are notorious for declining precipitously in value the minute they are driven off the lot. When the borrower stops making [car payments](https://www.investopedia.com/articles/personal-finance/061615/how-interest-rates-work-car-loans.asp) six months into the loan, the vehicle is only worth $22,000, yet the borrower still owes $28,000.
+For example, consider an auto lender who loans a customer $30,000 to purchase a new vehicle. New cars are notorious for declining precipitously in value the minute they are driven off the lot. When the borrower stops making [[car payments]](https://www.investopedia.com/articles/personal-finance/061615/how-interest-rates-work-car-loans.asp) six months into the loan, the vehicle is only worth $22,000, yet the borrower still owes $28,000.
 
 The lender repossesses the car and liquidates it for its full market value, leaving a deficiency balance of $6,000. Most car loans are recourse loans, meaning the lender can pursue the borrower for the $6,000 deficiency balance. In the event it is a non-recourse loan, the lender forfeits this sum.
 

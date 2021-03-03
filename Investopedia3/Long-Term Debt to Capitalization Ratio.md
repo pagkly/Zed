@@ -16,7 +16,7 @@ author: Adam Hayes
 Long-Term Debt to Capitalization Ratio
 ## What Is the Long-Term Debt to Capitalization Ratio?
 
-The long-term debt to capitalization ratio, a variation of the traditional [debt-to-equity](https://www.investopedia.com/terms/d/debtequityratio.asp) (D/E) ratio, shows the financial leverage of a firm. It is calculated by dividing long-term debt by total available capital (long-term debt, preferred stock, and common stock). Investors compare the financial leverage of firms to analyze the associated investment risk. High ratios indicate riskier investments, as debt is the primary source of financing and introduces a greater risk of insolvency.
+The long-term debt to capitalization ratio, a variation of the traditional [[debt-to-equity]](https://www.investopedia.com/terms/d/debtequityratio.asp) (D/E) ratio, shows the financial leverage of a firm. It is calculated by dividing long-term debt by total available capital (long-term debt, preferred stock, and common stock). Investors compare the financial leverage of firms to analyze the associated investment risk. High ratios indicate riskier investments, as debt is the primary source of financing and introduces a greater risk of insolvency.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Long-term debt can be beneficial if a company anticipates strong growth and ampl
 
 ## Long-Term Debt and Cost of Capital
 
-Contrary to intuitive understanding, using long-term debt can help lower a company's total [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp). Lenders establish terms that are not predicated on the borrower's financial performance; therefore, they are only entitled to what is due according to the agreement (e.g., principal and interest). When a company finances with equity, it must share profits proportionately with equity holders, commonly referred to as shareholders. Financing with equity appears attractive and may be the best solution for many companies; however, it is quite an expensive endeavor.
+Contrary to intuitive understanding, using long-term debt can help lower a company's total [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp). Lenders establish terms that are not predicated on the borrower's financial performance; therefore, they are only entitled to what is due according to the agreement (e.g., principal and interest). When a company finances with equity, it must share profits proportionately with equity holders, commonly referred to as shareholders. Financing with equity appears attractive and may be the best solution for many companies; however, it is quite an expensive endeavor.
 
 ## Financing Risk
 

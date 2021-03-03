@@ -18,7 +18,7 @@ How a Forward Rate Agreement (FRA) Hedges Interest Rates
 
 Forward rate agreements (FRA) are over-the-counter contracts between parties that determine the rate of interest to be paid on an agreed-upon date in the future. In other words, an FRA is an agreement to exchange an interest rate commitment on a notional amount.
 
-The FRA determines the rates to be used along with the [termination date](https://www.investopedia.com/terms/t/termination_date.asp) and [notional value](https://www.investopedia.com/terms/n/notionalvalue.asp). FRAs are cash-settled. The payment is based on the net difference between the interest rate of the contract and the floating rate in the market—the reference rate. The notional amount is not exchanged. It is a cash amount based on the rate differentials and the notional value of the contract.
+The FRA determines the rates to be used along with the [[termination date]](https://www.investopedia.com/terms/t/termination_date.asp) and [[notional value]](https://www.investopedia.com/terms/n/notionalvalue.asp). FRAs are cash-settled. The payment is based on the net difference between the interest rate of the contract and the floating rate in the market—the reference rate. The notional amount is not exchanged. It is a cash amount based on the rate differentials and the notional value of the contract.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ FRAP\=((R−FRA)×NP×PY)×(11+R×(PY))where:FRAP\=FRA paymentFRA\=Forward rat
 3.  In the second part of the formula, divide the number of days in the contract by 360 and multiply the result by 1 + the reference rate. Then divide the value into 1.
 4.  Multiply the result from the right side of the formula by the left side of the formula.
 
-Forward rate agreements typically involve two parties exchanging a fixed interest rate for a variable one. The party paying the fixed rate is referred to as the borrower, while the party paying the variable rate is referred to as the [lender](https://www.investopedia.com/terms/l/lender.asp). The forward rate agreement could have the maturity as long as five years.
+Forward rate agreements typically involve two parties exchanging a fixed interest rate for a variable one. The party paying the fixed rate is referred to as the borrower, while the party paying the variable rate is referred to as the [[lender]](https://www.investopedia.com/terms/l/lender.asp). The forward rate agreement could have the maturity as long as five years.
 
 A borrower might enter into a forward rate agreement with the goal of locking in an interest rate if the borrower believes rates might rise in the future. In other words, a borrower might want to fix their borrowing costs today by entering into an FRA. The cash difference between the FRA and the reference rate or floating rate is settled on the value date or settlement date.
 
@@ -43,7 +43,7 @@ For example, if the Federal Reserve Bank is in the process of hiking U.S. intere
 
 ## Forward Rate Agreements (FRA) vs. Forward Contracts (FWD)
 
-A forward rate agreement is different than a [forward contract.](https://www.investopedia.com/terms/c/currencyforward.asp) A currency forward is a binding contract in the [foreign exchange market](https://www.investopedia.com/terms/forex/f/foreign-exchange-markets.asp) that locks in the exchange rate for the purchase or sale of a currency on a future date. A currency forward is a hedging tool that does not involve any upfront payment. The other major benefit of a currency forward is that it can be tailored to a particular amount and delivery period, unlike standardized currency futures.
+A forward rate agreement is different than a [[forward contract.]](https://www.investopedia.com/terms/c/currencyforward.asp) A currency forward is a binding contract in the [foreign exchange market](https://www.investopedia.com/terms/forex/f/foreign-exchange-markets.asp) that locks in the exchange rate for the purchase or sale of a currency on a future date. A currency forward is a hedging tool that does not involve any upfront payment. The other major benefit of a currency forward is that it can be tailored to a particular amount and delivery period, unlike standardized currency futures.
 
 The FWD can result in the currency exchange being settled, which would include a wire transfer or a settling of the funds into an account. There are times when an offsetting contract is entered, which would be at the prevailing exchange rate. However, offsetting the forward contract results in settling the net difference between the two exchange rates of the contracts. An FRA results in settling the cash difference between the interest rate differentials of the two contracts.
 
@@ -55,15 +55,15 @@ There is a risk to the borrower if they had to unwind the FRA and the rate in th
 
 ## Example of a Forward Rate Agreement
 
-Company A enters into an FRA with Company B in which Company A will receive a fixed (reference) rate of 4% on a principal amount of $5 million in one half a year and the FRA rate will be set at 50 [basis points](https://www.investopedia.com/terms/b/basispoint.asp) less than that rate. In return, Company B will receive the one-year [LIBOR](https://www.investopedia.com/terms/l/libor.asp) rate, determined in three years' time, on the principal amount. The agreement will be settled in cash in a payment made at the beginning of the forward period, discounted by an amount calculated using the contract rate and the contract period.
+Company A enters into an FRA with Company B in which Company A will receive a fixed (reference) rate of 4% on a principal amount of $5 million in one half a year and the FRA rate will be set at 50 [[basis points]](https://www.investopedia.com/terms/b/basispoint.asp) less than that rate. In return, Company B will receive the one-year [[LIBOR]](https://www.investopedia.com/terms/l/libor.asp) rate, determined in three years' time, on the principal amount. The agreement will be settled in cash in a payment made at the beginning of the forward period, discounted by an amount calculated using the contract rate and the contract period.
 
 The formula for the FRA payment takes into account five variables. They are:
 
 -   FRA = the FRA rate
--   R = the [reference rate](https://www.investopedia.com/terms/r/referencerate.asp)
--   NP = the [notional principal](https://www.investopedia.com/terms/n/notionalprincipalamount.asp)
+-   R = the [[reference rate]](https://www.investopedia.com/terms/r/referencerate.asp)
+-   NP = the [[notional principal]](https://www.investopedia.com/terms/n/notionalprincipalamount.asp)
 -   P = the period, which is the number of days in the contract period
--   Y = the number of days in the year based on the correct [day-count convention](https://www.investopedia.com/terms/d/daycount.asp) for the contract
+-   Y = the number of days in the year based on the correct [[day-count convention]](https://www.investopedia.com/terms/d/daycount.asp) for the contract
 
 Assume the following data, and plugging it into the formula above:
 

@@ -16,13 +16,13 @@ author: Lucas Downey
 Unitholder
 ## What Is a Unitholder?
 
-A unitholder is an investor who owns one or more units in an investment trust or [master limited partnership](https://www.investopedia.com/terms/m/mlp.asp) (MLP). A unit is equivalent to a share, or piece of interest. Unitholders are afforded specific rights that are outlined in the trust declaration, which governs the trust's actions.
+A unitholder is an investor who owns one or more units in an investment trust or [[master limited partnership]](https://www.investopedia.com/terms/m/mlp.asp) (MLP). A unit is equivalent to a share, or piece of interest. Unitholders are afforded specific rights that are outlined in the trust declaration, which governs the trust's actions.
 
-The most common type of [unit trust](https://www.investopedia.com/terms/u/unittrust.asp) is an investment vehicle that pools funds from investors to purchase a portfolio of assets. These unit trusts invest in many asset classes of stocks (large-cap, small-cap, domestic, international, etc.), bonds (investment grade, high-yield, emerging market, tax-free, etc.), real estate, and other securities.
+The most common type of [[unit trust]](https://www.investopedia.com/terms/u/unittrust.asp) is an investment vehicle that pools funds from investors to purchase a portfolio of assets. These unit trusts invest in many asset classes of stocks (large-cap, small-cap, domestic, international, etc.), bonds (investment grade, high-yield, emerging market, tax-free, etc.), real estate, and other securities.
 
 ## Understanding Unitholders
 
-There is a whole spectrum of risk/reward choices for investors in these unit trusts. The unitholder gains exposure to a pool of securities and is free to trade units at any time, though a unit trust tends to be less liquid than, say, an [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) (ETF), and the price of the traded unit may not be equivalent to [net asset value](https://www.investopedia.com/terms/n/nav.asp) (NAV) of the unit trust per share.
+There is a whole spectrum of risk/reward choices for investors in these unit trusts. The unitholder gains exposure to a pool of securities and is free to trade units at any time, though a unit trust tends to be less liquid than, say, an [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) (ETF), and the price of the traded unit may not be equivalent to [[net asset value]](https://www.investopedia.com/terms/n/nav.asp) (NAV) of the unit trust per share.
 
 ### Key Takeaways
 
@@ -37,9 +37,9 @@ One difference between unitholders and shareholders is that while unitholders ma
 
 ### Unitholder Taxation
 
-For unit trusts, unitholders pay income taxes on interest, dividends, and capital gains distributed to them if the units are held in a taxable account. The unit trusts send all unitholders IRS [Form 1099](https://www.investopedia.com/terms/f/form1099div.asp).
+For unit trusts, unitholders pay income taxes on interest, dividends, and capital gains distributed to them if the units are held in a taxable account. The unit trusts send all unitholders IRS [[Form 1099]](https://www.investopedia.com/terms/f/form1099div.asp).
 
-In the case of master limited partnerships (MLPs), each unitholder's proportion of income, gains, deductions, losses, and credits is reported on a [Schedule K-1](https://www.investopedia.com/terms/s/schedule-k-1.asp). If the net amount is positive the unitholder pays tax on a pass-through basis whether or not a cash distribution was actually received; if there is a net loss, the amount can be carried forward and used against future income, but only from the same MLP.
+In the case of master limited partnerships (MLPs), each unitholder's proportion of income, gains, deductions, losses, and credits is reported on a [[Schedule K-1]](https://www.investopedia.com/terms/s/schedule-k-1.asp). If the net amount is positive the unitholder pays tax on a pass-through basis whether or not a cash distribution was actually received; if there is a net loss, the amount can be carried forward and used against future income, but only from the same MLP.
 
 ### Example of a Unitholder
 

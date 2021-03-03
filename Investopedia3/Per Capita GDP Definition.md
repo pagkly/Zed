@@ -32,7 +32,7 @@ There are a few ways to analyze a country’s wealth and prosperity. Per capita 
 
 At its most basic interpretation, per capita GDP shows how much economic production value can be attributed to each individual citizen. Alternatively, this translates to a measure of national wealth since GDP market value per person also readily serves as a prosperity measure.
 
-GDP itself is the primary measure of a country's economic productivity. A country's GDP shows the market value of goods and services it produces. In the United States, the [Bureau of Economic Analysis](https://www.investopedia.com/terms/b/bea.asp) reports GDP every quarter.1 Economists watch this quarterly report closely for the quarter over quarter and annual growth figures which can assist them in analyzing the overall health of the economy. Legislators use GDP when making [fiscal policy](https://www.investopedia.com/insights/what-is-fiscal-policy/) decisions. GDP can also influence central bankers when they are deciding on the course of future [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp).
+GDP itself is the primary measure of a country's economic productivity. A country's GDP shows the market value of goods and services it produces. In the United States, the [[Bureau of Economic Analysis]](https://www.investopedia.com/terms/b/bea.asp) reports GDP every quarter.1 Economists watch this quarterly report closely for the quarter over quarter and annual growth figures which can assist them in analyzing the overall health of the economy. Legislators use GDP when making [[fiscal policy]](https://www.investopedia.com/insights/what-is-fiscal-policy/) decisions. GDP can also influence central bankers when they are deciding on the course of future [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp).
 
 Per capita GDP is often analyzed alongside GDP. Economists use this metric for insight on both their own country's domestic productivity as well as the productivity of other countries. Per capita GDP considers both a country's GDP and its population. Therefore, it can be important to understand how each factor contributes to the overall result and how each factor is affecting per capita GDP growth.
 
@@ -40,11 +40,11 @@ Per capita GDP is often analyzed alongside GDP. Economists use this metric for i
 
 ### Applications of Per Capita GDP
 
-Governments can use per capita GDP to understand how the economy is growing with its population. [GDP per capita analysis](https://www.investopedia.com/terms/p/pareto-analysis.asp) on a national level can provide insights on a country’s domestic population influence. Overall, it is important to look at each variable’s contribution to understand how an economy is growing or contracting in terms of its people. There can be several numerical relationships that affect per capita GDP.
+Governments can use per capita GDP to understand how the economy is growing with its population. [[GDP per capita analysis]](https://www.investopedia.com/terms/p/pareto-analysis.asp) on a national level can provide insights on a country’s domestic population influence. Overall, it is important to look at each variable’s contribution to understand how an economy is growing or contracting in terms of its people. There can be several numerical relationships that affect per capita GDP.
 
 If a country’s per capita GDP is growing with a stable population level it can potentially be the result of technological progressions that are producing more with the same population level. Some countries may have high per capita GDP but a small population which usually means they have built up a self-sufficient economy based on an abundance of special resources.
 
-A nation may have consistent [economic growth](https://www.investopedia.com/articles/economics/08/genuine-progress-indicator-gpi.asp) but if its population is growing faster than its GDP, per capita GDP growth will be negative. This is not a problem for most [established economies](https://www.investopedia.com/insights/worlds-top-economies/), as even a tepid pace of economic growth can still outpace their population growth rates. However, countries with low levels of per capita GDP to begin with—including many nations in Africa—can have rapidly increasing populations with little GDP growth, resulting in a steady erosion of living standards.
+A nation may have consistent [[economic growth]](https://www.investopedia.com/articles/economics/08/genuine-progress-indicator-gpi.asp) but if its population is growing faster than its GDP, per capita GDP growth will be negative. This is not a problem for most [[established economies]](https://www.investopedia.com/insights/worlds-top-economies/), as even a tepid pace of economic growth can still outpace their population growth rates. However, countries with low levels of per capita GDP to begin with—including many nations in Africa—can have rapidly increasing populations with little GDP growth, resulting in a steady erosion of living standards.
 
 Global analysis of per capita GDP helps provide comparable insight on economic prosperity and economic developments across the globe. Both GDP and population are factors in the per capita equation. This means countries with the highest GDP may or may not have the highest per capita GDP. Countries may also see a significant increase in per capita GDP as they become more advanced through technological progressions. Technology can be a revolutionary factor that helps countries increase their per capita ranking with a stable population level.
 
@@ -54,7 +54,7 @@ Per capita GDP shows a country's economic product value per person. Universally,
 
 ### Nations With the Highest Per Capita GDP
 
-Below are the top 10 nations with the [highest per capita GDP](https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD) as of April 2019, according to the International Monetary Fund (IMF).
+Below are the top 10 nations with the [[highest per capita GDP]](https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD) as of April 2019, according to the International Monetary Fund (IMF).
 
 Per Capita GDP
 
@@ -158,7 +158,7 @@ Source: IMF
 
 4
 
-Many of the nations on the list have relatively small populations. [Luxembourg](https://www.investopedia.com/articles/wealth-management/121515/top-10-european-tax-havens.asp), at the top of the list, has one of the smallest populations at 602,000 people.5 Most of the small population countries are energy exporters, regional financial centers, and export business powerhouses.
+Many of the nations on the list have relatively small populations. [[Luxembourg]](https://www.investopedia.com/articles/wealth-management/121515/top-10-european-tax-havens.asp), at the top of the list, has one of the smallest populations at 602,000 people.5 Most of the small population countries are energy exporters, regional financial centers, and export business powerhouses.
 
 The U.S. is one of the world's largest countries by population but still manages to rank high in per capita GDP. China has the world’s second-largest GDP ($15,270 billion) with the world's largest population (1.4 billion) leading to a low per capita GDP ranking ($10,870). 4
 

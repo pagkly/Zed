@@ -16,9 +16,9 @@ author: Will Kenton
 The Merton Model Analysis Tool
 ## What Is the Merton Model?
 
-The Merton model is an analysis model used to assess the [credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) of a company's debt. Analysts and investors utilize the Merton model to understand how capable a company is at meeting financial obligations, servicing its debt, and weighing the general possibility that it will go into credit default.
+The Merton model is an analysis model used to assess the [[credit risk]](https://www.investopedia.com/terms/c/creditrisk.asp) of a company's debt. Analysts and investors utilize the Merton model to understand how capable a company is at meeting financial obligations, servicing its debt, and weighing the general possibility that it will go into credit default.
 
-In 1974, economist Robert C. Merton proposed this model for assessing the structural credit risk of a company by modeling the company's equity as a [call option](https://www.investopedia.com/terms/c/calloption.asp) on its assets. This model was later extended by Fischer Black and Myron Scholes to develop the Nobel-prize winning Black-Scholes pricing model for options.
+In 1974, economist Robert C. Merton proposed this model for assessing the structural credit risk of a company by modeling the company's equity as a [[call option]](https://www.investopedia.com/terms/c/calloption.asp) on its assets. This model was later extended by Fischer Black and Myron Scholes to develop the Nobel-prize winning Black-Scholes pricing model for options.
 
 ## The Formula for the Merton Model Is
 
@@ -28,9 +28,9 @@ Consider a company's shares sell for $210.59, stock price volatility is 14.04%, 
 
 ## What Does the Merton Model Tell You?
 
-[Loan officers](https://www.investopedia.com/terms/l/loanofficer.asp) and stock analysts utilize the Merton model to analyze a corporation's risk of credit default. This model allows for easier valuation of the company and also helps analysts determine if the company will be able to retain solvency by analyzing [maturity dates](https://www.investopedia.com/terms/m/maturitydate.asp) and debt totals.
+[Loan officers](https://www.investopedia.com/terms/l/loanofficer.asp) and stock analysts utilize the Merton model to analyze a corporation's risk of credit default. This model allows for easier valuation of the company and also helps analysts determine if the company will be able to retain solvency by analyzing [[maturity dates]](https://www.investopedia.com/terms/m/maturitydate.asp) and debt totals.
 
-The Merton (or Black-Scholes) model calculates the theoretical pricing of European put and [call options](https://www.investopedia.com/terms/c/calloption.asp) without considering dividends paid out during the life of the option. The model can, however, be adapted to consider these dividends by calculating the [ex-dividend date](https://www.investopedia.com/terms/e/ex-dividend.asp) value of underlying stocks.
+The Merton (or Black-Scholes) model calculates the theoretical pricing of European put and [[call options]](https://www.investopedia.com/terms/c/calloption.asp) without considering dividends paid out during the life of the option. The model can, however, be adapted to consider these dividends by calculating the [[ex-dividend date]](https://www.investopedia.com/terms/e/ex-dividend.asp) value of underlying stocks.
 
 The Merton Model makes the following basic assumptions:
 

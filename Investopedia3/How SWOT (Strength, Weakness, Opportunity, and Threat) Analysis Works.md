@@ -16,7 +16,7 @@ author: Mitchell Grant
 How SWOT (Strength, Weakness, Opportunity, and Threat) Analysis Works
 ## What Is SWOT Analysis?
 
-SWOT (strengths, weaknesses, opportunities, and threats) analysis is a framework used to evaluate a [company's competitive position](https://www.investopedia.com/ask/answers/020515/how-do-i-determine-my-companys-competitive-advantage.asp) and to develop strategic planning. SWOT analysis assesses internal and external factors, as well as current and future potential.
+SWOT (strengths, weaknesses, opportunities, and threats) analysis is a framework used to evaluate a [[company's competitive position]](https://www.investopedia.com/ask/answers/020515/how-do-i-determine-my-companys-competitive-advantage.asp) and to develop strategic planning. SWOT analysis assesses internal and external factors, as well as current and future potential.
 
 A SWOT analysis is designed to facilitate a realistic, fact-based, data-driven look at the strengths and weaknesses of an organization, its initiatives, or an industry. The organization needs to keep the analysis accurate by avoiding pre-conceived beliefs or gray areas and instead focusing on real-life contexts. Companies should use it as a guide and not necessarily as a prescription.
 
@@ -32,7 +32,7 @@ SWOT analysis is a technique for assessing the performance, competition, risk, a
 
 Using internal and external data, a SWOT analysis can tell a company where it needs to improve internally, as well as help develop strategic plans.
 
-Using [internal and external data](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp), the technique can guide businesses toward strategies more likely to be successful, and away from those in which they have been, or are likely to be, less successful. An independent SWOT analysis analysts, investors or competitors can also guide them on whether a company, product line or industry might be strong or weak and why.
+Using [[internal and external data]](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp), the technique can guide businesses toward strategies more likely to be successful, and away from those in which they have been, or are likely to be, less successful. An independent SWOT analysis analysts, investors or competitors can also guide them on whether a company, product line or industry might be strong or weak and why.
 
 ## A Visual Overview
 
@@ -50,9 +50,9 @@ Its SWOT analysis prompted Value Line to pose some tough questions about Coca-Co
 
 Five years later, the Value Line SWOT analysis proved effective as Coca-Cola remains the 6th strongest brand in the world (as it was then). Coca-Cola's shares (traded under ticker symbol KO) have increased in value by over 60% during the five years after the analysis was completed.
 
--   **Strengths** describe what an organization excels at and what [separates it from the competition](https://www.investopedia.com/terms/c/competitive_advantage.asp): a strong brand, loyal customer base, a strong balance sheet, unique technology, and so on. For example, a hedge fund may have developed a proprietary trading strategy that returns market-beating results. It must then decide how to use those results to attract new investors.
+-   **Strengths** describe what an organization excels at and what [[separates it from the competition]](https://www.investopedia.com/terms/c/competitive_advantage.asp): a strong brand, loyal customer base, a strong balance sheet, unique technology, and so on. For example, a hedge fund may have developed a proprietary trading strategy that returns market-beating results. It must then decide how to use those results to attract new investors.
 -   **Weaknesses** stop an organization from performing at its optimum level. They are areas where the business needs to improve to remain competitive: a weak brand, higher-than-average turnover, high levels of debt, an inadequate supply chain, or lack of capital.
--   **Opportunities** refer to favorable external factors that could give an organization a competitive advantage. For example, if a country cuts tariffs, a car manufacturer can export its cars into a new market, increasing sales and [market share](https://www.investopedia.com/terms/m/marketshare.asp).
+-   **Opportunities** refer to favorable external factors that could give an organization a competitive advantage. For example, if a country cuts tariffs, a car manufacturer can export its cars into a new market, increasing sales and [[market share]](https://www.investopedia.com/terms/m/marketshare.asp).
 -   **Threats** refer to factors that have the potential to harm an organization. For example, a drought is a threat to a wheat-producing company, as it may destroy or reduce the crop yield. Other common threats include things like rising costs for materials, increasing competition, tight labor supply and so on.
 
 ## Advantages of SWOT Analysis

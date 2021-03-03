@@ -16,9 +16,9 @@ author: Will Kenton
 Normative Economics
 ## What Is Normative Economics?
 
-Normative economics is a perspective on [economics](https://www.investopedia.com/terms/e/economics.asp) that reflects normative, or ideologically prescriptive judgments toward economic development, investment projects, statements, and scenarios.
+Normative economics is a perspective on [[economics]](https://www.investopedia.com/terms/e/economics.asp) that reflects normative, or ideologically prescriptive judgments toward economic development, investment projects, statements, and scenarios.
 
-Unlike [positive economics](https://www.investopedia.com/terms/p/positiveeconomics.asp), which relies on objective data analysis, normative economics heavily concerns itself with value judgments and statements of "what ought to be" rather than facts based on cause-and-effect statements. It expresses ideological judgments about what may result in economic activity if public policy changes are made. Normative economic statements can't be verified or tested.
+Unlike [[positive economics]](https://www.investopedia.com/terms/p/positiveeconomics.asp), which relies on objective data analysis, normative economics heavily concerns itself with value judgments and statements of "what ought to be" rather than facts based on cause-and-effect statements. It expresses ideological judgments about what may result in economic activity if public policy changes are made. Normative economic statements can't be verified or tested.
 
 ### Key Takeaways
 
@@ -42,12 +42,12 @@ As positive economics describe economic programs, situations, and conditions as 
 
 Normative economics may be useful in establishing and generating new ideas from different perspectives, but it cannot be the only basis for making decisions on important economic issues, as it does not take an objective angle that focuses on facts and causes and effects.
 
-Economic statements coming from the positive economics angle can be broken down into determinable and observable facts that can be examined and tested. Because of this characteristic, [economists](https://www.investopedia.com/terms/e/economist.asp) and analysts often practice their professions under the positive economic angle. Positive economics, being the measurable perspective, helps policymakers and other government and business authorities decide on important matters that affect particular policies under the guidance of fact-based findings.
+Economic statements coming from the positive economics angle can be broken down into determinable and observable facts that can be examined and tested. Because of this characteristic, [[economists]](https://www.investopedia.com/terms/e/economist.asp) and analysts often practice their professions under the positive economic angle. Positive economics, being the measurable perspective, helps policymakers and other government and business authorities decide on important matters that affect particular policies under the guidance of fact-based findings.
 
 However, policymakers, business owners, and other organizational authorities also typically look at what is desirable and what is not for their respective constituents, making normative economics an important part of the equation when deciding on important economic matters. Paired with positive economics, normative economics can branch into many opinion-based solutions that mirror how an individual or one whole community portrays particular economic projects. These kinds of views are especially important for policymakers or national leaders.
 
 ## Examples of Normative Economics
 
-An example of normative economics would be, "We should cut taxes in half to increase [disposable income](https://www.investopedia.com/terms/d/disposableincome.asp) levels." By contrast, a positive or objective economic observation would be, "Based on past data, big [tax cuts](https://www.investopedia.com/articles/07/tax_cuts.asp) would help many people, but government budget constraints make that option unfeasible." The provided example is a normative economic statement because it mirrors value judgments. This particular judgment assumes that disposable income levels must be increased.
+An example of normative economics would be, "We should cut taxes in half to increase [[disposable income]](https://www.investopedia.com/terms/d/disposableincome.asp) levels." By contrast, a positive or objective economic observation would be, "Based on past data, big [[tax cuts]](https://www.investopedia.com/articles/07/tax_cuts.asp) would help many people, but government budget constraints make that option unfeasible." The provided example is a normative economic statement because it mirrors value judgments. This particular judgment assumes that disposable income levels must be increased.
 
 Economic statements that are normative in nature cannot be tested or proved for factual values or legitimate cause and effect. Samples of normative economic statements include "Women should be provided higher school loans than men," "Laborers should receive greater parts of capitalist profits," and "Working citizens should not pay for hospital care." Normative economic statements typically contain keywords such as "should" and "ought."

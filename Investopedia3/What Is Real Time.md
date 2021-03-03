@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Real Time?
 ## What Is Real-Time?
 
-Real-time is when a system relays information to a user at a speed that is near-instantaneous or has a short delay from when the event occurred. [Online brokerages](https://www.investopedia.com/best-online-brokers-4587872) often provide a real-time data feed that displays stock quotes and their respective real-time changes, with a very insignificant lag time, so that clients can base their investing decisions on the most up-to-date information.
+Real-time is when a system relays information to a user at a speed that is near-instantaneous or has a short delay from when the event occurred. [[Online brokerages]](https://www.investopedia.com/best-online-brokers-4587872) often provide a real-time data feed that displays stock quotes and their respective real-time changes, with a very insignificant lag time, so that clients can base their investing decisions on the most up-to-date information.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Real-time is when a system relays information to a user at a speed that is near
 
 ## Understanding Real-Time
 
-While many financial websites do offer free [stock quotes](https://www.investopedia.com/terms/s/stockquote.asp) to the general public, many of these feeds are not real-time and may be delayed up to 20 minutes. Therefore, when viewing stock quotes from any financial website, be aware of the time that is posted near the stock quote to verify whether the quote is actually in real-time.
+While many financial websites do offer free [[stock quotes]](https://www.investopedia.com/terms/s/stockquote.asp) to the general public, many of these feeds are not real-time and may be delayed up to 20 minutes. Therefore, when viewing stock quotes from any financial website, be aware of the time that is posted near the stock quote to verify whether the quote is actually in real-time.
 
 Possessing accurate real-time quotes is especially important for traders, as even the smallest time discrepancy between a provided quote and the real-time situation can change a profitable position into a loss.
 
@@ -35,7 +35,7 @@ For rapid intra-day traders, especially, it can be critical to get real-time qu
 
 ## Real-Time vs. Delayed Stock Quotes
 
-Stock quotes reflect the results of actual trading on stock market exchanges, such as the [New York Stock Exchange or NASDAQ](https://www.investopedia.com/articles/basics/03/103103.asp). Investors and traders can get quotes on the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp), other indices or individual stocks from any number of financial news sources. However, some financial news services don’t report real-time information and instead delay stock quotes for 15 or 20 minutes. 
+Stock quotes reflect the results of actual trading on stock market exchanges, such as the [[New York Stock Exchange or NASDAQ]](https://www.investopedia.com/articles/basics/03/103103.asp). Investors and traders can get quotes on the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp), other indices or individual stocks from any number of financial news sources. However, some financial news services don’t report real-time information and instead delay stock quotes for 15 or 20 minutes. 
 
 Actively traded stocks can fluctuate price dramatically from minute to minute or from second to second. That's why knowing the current price is imperative. In a rapidly rising or falling market, also known as a fast market, even real-time quotes can have a hard time keeping up. In that market scenario, a quote that’s delayed 15 or 20 minutes is virtually useless, as a stock could have moved by a significant percentage in that time frame.  
 

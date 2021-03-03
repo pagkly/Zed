@@ -16,19 +16,19 @@ author: Will Kenton
 Material Requirements Planning (MRP) Definition
 ## What Is Material Requirements Planning (MRP)?
 
-Material requirements planning (MRP) is a computer-based inventory management system designed to improve productivity for businesses. Companies use material requirements-planning systems to estimate quantities of raw materials and schedule their [deliveries](https://www.investopedia.com/terms/d/delivery.asp).
+Material requirements planning (MRP) is a computer-based inventory management system designed to improve productivity for businesses. Companies use material requirements-planning systems to estimate quantities of raw materials and schedule their [[deliveries]](https://www.investopedia.com/terms/d/delivery.asp).
 
 ## How MRP Works
 
 MRP is designed to answer three questions: _What_ is needed? _How much_ is needed? _When_ is it needed?" MRP works backward from a production plan for finished goods, which is converted into a list of requirements for the subassemblies, component parts, and raw materials that are needed to produce the final product within the established schedule.
 
-By parsing raw data—like bills of lading and shelf life of stored materials—this technology provides meaningful information to managers about their need for labor and supplies, which can help companies improve their [production efficiency](https://www.investopedia.com/terms/p/production_efficiency.asp).
+By parsing raw data—like bills of lading and shelf life of stored materials—this technology provides meaningful information to managers about their need for labor and supplies, which can help companies improve their [[production efficiency]](https://www.investopedia.com/terms/p/production_efficiency.asp).
 
 ## MRP Systems: Background
 
 Material requirements planning was the earliest of the integrated information technology (IT) systems that aimed to improve productivity for businesses by using computers and software technology. The first MRP systems of inventory management evolved in the 1940s and 1950s. They used mainframe computers to extrapolate information from a bill of materials for a specific finished product into a production and purchasing plan. Soon, MRP systems expanded to include information feedback loops so that production managers could change and update the system inputs as needed.
 
-The next generation of MRP, manufacturing resources planning (MRP II), also incorporated marketing, finance, accounting, engineering, and human resources aspects into the planning process. A related concept that expands on MRP is [enterprise resources planning (ERP)](https://www.investopedia.com/terms/e/erp.asp), which uses computer technology to link the various functional areas across an entire business enterprise. As data analysis and technology became more sophisticated, more comprehensive systems were developed to integrate MRP with other aspects of the manufacturing process.
+The next generation of MRP, manufacturing resources planning (MRP II), also incorporated marketing, finance, accounting, engineering, and human resources aspects into the planning process. A related concept that expands on MRP is [[enterprise resources planning (ERP)]](https://www.investopedia.com/terms/e/erp.asp), which uses computer technology to link the various functional areas across an entire business enterprise. As data analysis and technology became more sophisticated, more comprehensive systems were developed to integrate MRP with other aspects of the manufacturing process.
 
 ### Key Takeaways
 

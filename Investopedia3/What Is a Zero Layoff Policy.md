@@ -16,7 +16,7 @@ author: Alexandra Twin
 What Is a Zero Layoff Policy?
 ## What Is a Zero Layoff Policy?
 
-A zero [layoff](https://www.investopedia.com/terms/l/layoff.asp) policy dictates that no employees shall be [terminated](https://www.investopedia.com/terms/t/termination-employment.asp) as a result of business-based purposes dictated by the economy. This policy does not exempt termination as a result of poor performance or other violations of the [employment contract](https://www.investopedia.com/terms/t/terms-of-employment.asp), such as ethical lapses.
+A zero [[layoff]](https://www.investopedia.com/terms/l/layoff.asp) policy dictates that no employees shall be [[terminated]](https://www.investopedia.com/terms/t/termination-employment.asp) as a result of business-based purposes dictated by the economy. This policy does not exempt termination as a result of poor performance or other violations of the [[employment contract]](https://www.investopedia.com/terms/t/terms-of-employment.asp), such as ethical lapses.
 
 Such policies are enacted in recognition that the welfare of employees should not be harmed due to economic factors that are out of their control. A zero layoff policy may also be referred to as a "no layoffs policy."
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Modified Accelerated Cost Recovery System (MACRS)
 ## What Does Modified Accelerated Cost Recovery System (MACRS) Mean?
 
-The modified accelerated cost recovery system (MACRS) is a depreciation system used for tax purposes in the U.S. MACRS [depreciation](https://www.investopedia.com/articles/fundamental/04/090804.asp) allows the capitalized cost of an asset to be recovered over a specified period via annual deductions. The MACRS system puts fixed assets into classes that have set depreciation periods.1  
+The modified accelerated cost recovery system (MACRS) is a depreciation system used for tax purposes in the U.S. MACRS [[depreciation]](https://www.investopedia.com/articles/fundamental/04/090804.asp) allows the capitalized cost of an asset to be recovered over a specified period via annual deductions. The MACRS system puts fixed assets into classes that have set depreciation periods.1  
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The modified accelerated cost recovery system (MACRS) is a depreciation system u
 
 ## Understanding the Modified Accelerated Cost Recovery System (MACRS)
 
-As defined by the Internal Revenue Service (IRS), depreciation is an income tax deduction that allows a business to recover the cost basis of certain property. It is an annual allowance for the wear and tear, deterioration, or obsolescence of the property. Most tangible assets are depreciable. Likewise, certain [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp), such as patents and copyrights, are depreciable.1
+As defined by the Internal Revenue Service (IRS), depreciation is an income tax deduction that allows a business to recover the cost basis of certain property. It is an annual allowance for the wear and tear, deterioration, or obsolescence of the property. Most tangible assets are depreciable. Likewise, certain [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp), such as patents and copyrights, are depreciable.1
 
 The modified accelerated cost recovery system (MACRS) is the proper depreciation method for most assets. MACRS allows for greater accelerated depreciation over longer time periods. This is beneficial since faster acceleration allows individuals and businesses to deduct greater amounts during the first few years of an asset's life, and relatively less later. Depreciation using MACRS can be applied to assets such as computer equipment, office furniture, automobiles, fences, farm buildings, racehorses, and so on.
 
@@ -118,6 +118,6 @@ An office building, store, or warehouse that is not residential property or has 
 
 The information in this table is sourced from the IRS
 
-Refer to [IRS Publication 946 – _How to Depreciate Property_](https://www.irs.gov/publications/p946#en_US_2017_publink1000107507) for a full breakdown of asset classes and their useful lives. Since the tax rules for MACRS are complex, the 100-plus pages of the IRS Publication 946 provide complete guidance on depreciating assets with MACRS.
+Refer to [[IRS Publication 946 – _How to Depreciate Property_]](https://www.irs.gov/publications/p946#en_US_2017_publink1000107507) for a full breakdown of asset classes and their useful lives. Since the tax rules for MACRS are complex, the 100-plus pages of the IRS Publication 946 provide complete guidance on depreciating assets with MACRS.
 
-Based on the information provided in the table, a business can determine its tax depreciation for assets. The basis for depreciation of MACRS property is the property's cost basis multiplied by the percentage of business/investment use. The amount derived is recognized in the company’s income tax return and used to determine taxable income by factoring in any tax credits and deductions that can be claimed on the property.1 Note that the derived tax depreciation is not recorded in the financial statements, as these statements calculate depreciation using the [straight-line depreciation](https://www.investopedia.com/terms/s/straightlinebasis.asp) method or some other form of accelerated cost depreciation method.
+Based on the information provided in the table, a business can determine its tax depreciation for assets. The basis for depreciation of MACRS property is the property's cost basis multiplied by the percentage of business/investment use. The amount derived is recognized in the company’s income tax return and used to determine taxable income by factoring in any tax credits and deductions that can be claimed on the property.1 Note that the derived tax depreciation is not recorded in the financial statements, as these statements calculate depreciation using the [[straight-line depreciation]](https://www.investopedia.com/terms/s/straightlinebasis.asp) method or some other form of accelerated cost depreciation method.

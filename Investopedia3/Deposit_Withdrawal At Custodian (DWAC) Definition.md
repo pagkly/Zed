@@ -16,17 +16,17 @@ author: James Chen
 Deposit/Withdrawal At Custodian (DWAC) Definition
 ## What Does Deposit/Withdrawal At Custodian Mean?
 
-Deposit/withdrawal at custodian (DWAC) is a method of electronically transferring new shares or paper [share certificates](https://www.investopedia.com/terms/s/share-certificate.asp) to and from the [Depository Trust Company (DTC)](https://www.investopedia.com/terms/d/dtc.asp) using a Fast Automated Securities Transfer (FAST) service transfer agent as the distribution point. The DWAC is one of two ways of transferring between broker/dealers and the DTC, the other being the Direct Registry System (DRS) method. Both enable investors to hold securities in registered form on the books of the transfer agent, rather than in physical form. DRS is different from DWAC in that shares in DRS have already been issued and are held electronically on the books of the transfer agent.
+Deposit/withdrawal at custodian (DWAC) is a method of electronically transferring new shares or paper [[share certificates]](https://www.investopedia.com/terms/s/share-certificate.asp) to and from the [[Depository Trust Company (DTC)]](https://www.investopedia.com/terms/d/dtc.asp) using a Fast Automated Securities Transfer (FAST) service transfer agent as the distribution point. The DWAC is one of two ways of transferring between broker/dealers and the DTC, the other being the Direct Registry System (DRS) method. Both enable investors to hold securities in registered form on the books of the transfer agent, rather than in physical form. DRS is different from DWAC in that shares in DRS have already been issued and are held electronically on the books of the transfer agent.
 
 ## Understanding Deposit/Withdrawal At Custodian (DWAC)
 
 The DWAC process offers a number of benefits to investors, including time, cost savings, and lower risk.
 
-As an electronic system, DWAC allows for immediate transfer to a [brokerage account](https://www.investopedia.com/terms/b/brokerageaccount.asp). There is no time needed for [physical delivery](https://www.investopedia.com/terms/p/physicaldelivery.asp) so the settlement process is made more efficient and significantly accelerated. It also saves on costs associated with printing a physical certificate and mailing it.
+As an electronic system, DWAC allows for immediate transfer to a [[brokerage account]](https://www.investopedia.com/terms/b/brokerageaccount.asp). There is no time needed for [[physical delivery]](https://www.investopedia.com/terms/p/physicaldelivery.asp) so the settlement process is made more efficient and significantly accelerated. It also saves on costs associated with printing a physical certificate and mailing it.
 
 Because there are no physical certificates transferred, there is no risk of loss or damage when transporting and handling such certificates.
 
-While not typically a concern of investors, there are several requirements for the DWAC. Shares must be free trading or eligible for restriction removal. The [broker](https://www.investopedia.com/terms/b/broker.asp) must be a DTC participant and the issuer must be DWAC eligible.
+While not typically a concern of investors, there are several requirements for the DWAC. Shares must be free trading or eligible for restriction removal. The [[broker]](https://www.investopedia.com/terms/b/broker.asp) must be a DTC participant and the issuer must be DWAC eligible.
 
 ### Key Takeaways
 
@@ -35,13 +35,13 @@ While not typically a concern of investors, there are several requirements for t
 
 ## What is FAST?
 
-The Fast Automated Securities Transfer Program (FAST) is a contract between DTC and [transfer agents](https://www.investopedia.com/terms/t/transferagent.asp) whereby FAST agents act as custodians for DTC. It eliminates the movement of physical securities.
+The Fast Automated Securities Transfer Program (FAST) is a contract between DTC and [[transfer agents]](https://www.investopedia.com/terms/t/transferagent.asp) whereby FAST agents act as custodians for DTC. It eliminates the movement of physical securities.
 
-The FAST program facilitates the industry’s dematerialization efforts and plays a significant role in reducing the costs associated with shipping certificates to and from agents as well as those related to printing and processing certificates. The FAST program does not apply to [money market](https://www.investopedia.com/terms/m/moneymarket.asp) securities.
+The FAST program facilitates the industry’s dematerialization efforts and plays a significant role in reducing the costs associated with shipping certificates to and from agents as well as those related to printing and processing certificates. The FAST program does not apply to [[money market]](https://www.investopedia.com/terms/m/moneymarket.asp) securities.
 
 ## Requesting and Delivering Physical Certificates
 
-While this process is electronic, shareholders can still withdraw their stock from their [brokerage accounts](https://www.investopedia.com/terms/b/brokerageaccount.asp) and request a physical [stock certificate](https://www.investopedia.com/terms/s/stockcertificate.asp) by either having the broker initiate the request through DTC or by having their broker send the shares electronically directly to the transfer agent through the DWAC system. There may be fees for this service. The withdrawal of DWAC shares as physical certificates generally require [Medallion Signature Guarantee](https://www.investopedia.com/terms/m/medallionsignatureguarantee.asp) - a certification stamp that guarantees the signature on a share certificate is authentic.
+While this process is electronic, shareholders can still withdraw their stock from their [[brokerage accounts]](https://www.investopedia.com/terms/b/brokerageaccount.asp) and request a physical [[stock certificate]](https://www.investopedia.com/terms/s/stockcertificate.asp) by either having the broker initiate the request through DTC or by having their broker send the shares electronically directly to the transfer agent through the DWAC system. There may be fees for this service. The withdrawal of DWAC shares as physical certificates generally require [[Medallion Signature Guarantee]](https://www.investopedia.com/terms/m/medallionsignatureguarantee.asp) - a certification stamp that guarantees the signature on a share certificate is authentic.
 
 [Shareholders](https://www.investopedia.com/terms/s/shareholder.asp) can deposit their stock into a brokerage account by either sending their physical stock certificate to their broker or by having the transfer agent send the shares directly to the broker through the DWAC system.
 

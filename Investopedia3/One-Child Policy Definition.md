@@ -40,7 +40,7 @@ The one-child policy had serious implications for China's demographic and econo
 
 China now has a considerable gender skew—there are roughly 3-4% more males than females in the country. With the implementation of the one-child policy, and the preference for male children, China saw a rise in female fetus abortions, increases in the number of baby girls left in orphanages, and even increases in infanticide of baby girls. There were 33 million more men, with 115 boys for every 100 girls, as compared to women in China.
 
-This will have an impact on marriage in the country, and a number of factors surrounding marriage, for years to come. Lower numbers of females also means that [there were less women](https://www.scmp.com/comment/insight-opinion/article/2151359/patriotism-may-hold-key-china-births-challenge) of child-bearing age in China.
+This will have an impact on marriage in the country, and a number of factors surrounding marriage, for years to come. Lower numbers of females also means that [[there were less women]](https://www.scmp.com/comment/insight-opinion/article/2151359/patriotism-may-hold-key-china-births-challenge) of child-bearing age in China.
 
 The drop in birth-rates meant less children, which occurred as death rates dropped and longevity rates rose. It is estimated that a third of China's population will be over the age of 60 by 2050. That means more elderly people relying on their children to support them, and fewer children to do so. So, China is facing a labor shortage, and will have trouble supporting this aging population through its state services. 
 

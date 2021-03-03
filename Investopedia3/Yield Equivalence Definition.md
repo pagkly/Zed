@@ -16,7 +16,7 @@ author: James Chen
 Yield Equivalence Definition
 ## What Is Yield Equivalence?
 
-Yield equivalence is the [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) on a taxable security that would generate a return equivalent to the return of a [tax-exempt security](https://www.investopedia.com/terms/t/tax_exempt_security.asp), and vice versa.
+Yield equivalence is the [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) on a taxable security that would generate a return equivalent to the return of a [[tax-exempt security]](https://www.investopedia.com/terms/t/tax_exempt_security.asp), and vice versa.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Yield equivalence is the [interest rate](https://www.investopedia.com/terms/i/in
 
 ## Understanding Yield Equivalence
 
-Yield equivalence is important to [municipal bond](https://www.investopedia.com/terms/m/municipalbond.asp) investors, who want to know if the tax savings of their bonds will make up for the lower [yields](https://www.investopedia.com/terms/y/yield.asp) relative to similar duration taxable securities. Yield equivalence is a comparison often used by investors when they are attempting to figure out if they’d get a better return from a tax-exempt or tax-free investment than they would from a taxable alternative.
+Yield equivalence is important to [[municipal bond]](https://www.investopedia.com/terms/m/municipalbond.asp) investors, who want to know if the tax savings of their bonds will make up for the lower [[yields]](https://www.investopedia.com/terms/y/yield.asp) relative to similar duration taxable securities. Yield equivalence is a comparison often used by investors when they are attempting to figure out if they’d get a better return from a tax-exempt or tax-free investment than they would from a taxable alternative.
 
 Yield equivalence can be calculated using the following equations:
 
@@ -36,17 +36,17 @@ and
 
 Tax-Exempt Yield Equivalence\= Taxable Yield ×(1−Tax Rate)\\begin{aligned} \\text{Tax-Exempt Yield Equivalence} =& \\ \\text{Taxable Yield} \\ \\times \\\\ &( 1 - \\text{Tax Rate} ) \\\\ \\end{aligned}
 
-To calculate the yield equivalence between tax-exempt and taxable securities, start by dividing the bond’s tax-exempt yield by 1 minus the investor's [tax rate](https://www.investopedia.com/terms/t/taxrate.asp). For example, suppose you were considering an investment in a 6% tax-exempt municipal bond, but wanted to know what the interest rate on a taxable [corporate bond](https://www.investopedia.com/terms/c/corporatebond.asp) would have to be to give you the same return. If you have a 24% rate of taxation, you would subtract 0.24 minus one, which totals .76. Then, you would divide 6, the tax-exempt yield, by .76, which equals 7.9.
+To calculate the yield equivalence between tax-exempt and taxable securities, start by dividing the bond’s tax-exempt yield by 1 minus the investor's [[tax rate]](https://www.investopedia.com/terms/t/taxrate.asp). For example, suppose you were considering an investment in a 6% tax-exempt municipal bond, but wanted to know what the interest rate on a taxable [[corporate bond]](https://www.investopedia.com/terms/c/corporatebond.asp) would have to be to give you the same return. If you have a 24% rate of taxation, you would subtract 0.24 minus one, which totals .76. Then, you would divide 6, the tax-exempt yield, by .76, which equals 7.9.
 
-This calculation tells you that you would need a [return](https://www.investopedia.com/terms/r/return.asp) of 7.9% on your taxable investment to match the 6% return on the tax-exempt investment. If, on the other hand, you were in the 35% tax bracket, you would need a return of 9.2% on your corporate bond to match the 6% return on your muni investment.
+This calculation tells you that you would need a [[return]](https://www.investopedia.com/terms/r/return.asp) of 7.9% on your taxable investment to match the 6% return on the tax-exempt investment. If, on the other hand, you were in the 35% tax bracket, you would need a return of 9.2% on your corporate bond to match the 6% return on your muni investment.
 
 Conversely, if you know your taxable rate of return, you can calculate the equivalent rate on a tax-exempt investment. This is done by multiplying the taxable rate by 1 minus your tax rate. So, if your taxable return is 6% and your rate of taxation is 24%, you need a 4.6% return on a tax-exempt security to match the after-tax return on a taxable security.
 
 ## New Marginal Tax Rates
 
-The passage of the Tax Cuts and Jobs Act in late 2017 resulted in a number of changes to [marginal tax rates](https://www.investopedia.com/terms/m/marginaltaxrate.asp) and income brackets beginning in 2018.1 The marginal tax rate is the rate of tax income earners incur on each additional dollar of [income](https://www.investopedia.com/terms/i/income.asp). As the marginal tax rate increases, taxpayers end up with less money per dollar earned than they had retained on previously earned dollars.
+The passage of the Tax Cuts and Jobs Act in late 2017 resulted in a number of changes to [[marginal tax rates]](https://www.investopedia.com/terms/m/marginaltaxrate.asp) and income brackets beginning in 2018.1 The marginal tax rate is the rate of tax income earners incur on each additional dollar of [[income]](https://www.investopedia.com/terms/i/income.asp). As the marginal tax rate increases, taxpayers end up with less money per dollar earned than they had retained on previously earned dollars.
 
-Tax systems employing marginal tax rates apply different tax rates to different levels of income; as income rises, it is taxed at a higher rate. It is important to note, however, the income is not all taxed at one rate but at many rates as it moves across the marginal [tax rate schedule](https://www.investopedia.com/terms/t/taxschedule.asp).
+Tax systems employing marginal tax rates apply different tax rates to different levels of income; as income rises, it is taxed at a higher rate. It is important to note, however, the income is not all taxed at one rate but at many rates as it moves across the marginal [[tax rate schedule]](https://www.investopedia.com/terms/t/taxschedule.asp).
 
 When calculating the yield equivalence between tax-free and taxable investments, investors should be aware of these new tax rates and incorporate them accordingly into their yield equivalence equations.
 

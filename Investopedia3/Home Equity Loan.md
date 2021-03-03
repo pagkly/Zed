@@ -16,7 +16,7 @@ author:  Julia Kagan
 Home Equity Loan
 ## What Is a Home Equity Loan?
 
-A home equity loan—also known as an equity loan, home equity installment loan, or [second mortgage](https://www.investopedia.com/terms/s/secondmortgage.asp)—is a type of consumer debt. Home equity loans allow homeowners to borrow against the equity in their home. The loan amount is based on the difference between the home’s current market value and the homeowner’s mortgage balance due. Home equity loans tend to be fixed-rate, while the typical alternative, [home equity lines of credit](https://www.investopedia.com/mortgage/heloc/) (HELOCs), generally have variable rates.
+A home equity loan—also known as an equity loan, home equity installment loan, or [[second mortgage]](https://www.investopedia.com/terms/s/secondmortgage.asp)—is a type of consumer debt. Home equity loans allow homeowners to borrow against the equity in their home. The loan amount is based on the difference between the home’s current market value and the homeowner’s mortgage balance due. Home equity loans tend to be fixed-rate, while the typical alternative, [[home equity lines of credit]](https://www.investopedia.com/mortgage/heloc/) (HELOCs), generally have variable rates.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A home equity loan—also known as an equity loan, home equity installment loan,
 
 ## How a Home Equity Loan Works
 
-Essentially, a home equity loan is akin to a mortgage, hence the name second mortgage. The equity in the home serves as collateral for the lender. The amount a homeowner is allowed to borrow will be partially based on a [combined loan-to-value (CLTV) ratio](https://www.investopedia.com/terms/c/combinedloantovalue.asp) of 80% to 90% of the home’s [appraised](https://www.investopedia.com/terms/a/appraisal.asp) value. Of course, the amount of the loan and the rate of interest charged also depend on the borrower’s [credit score](https://www.investopedia.com/terms/c/credit_score.asp) and payment history.
+Essentially, a home equity loan is akin to a mortgage, hence the name second mortgage. The equity in the home serves as collateral for the lender. The amount a homeowner is allowed to borrow will be partially based on a [combined loan-to-value (CLTV) ratio](https://www.investopedia.com/terms/c/combinedloantovalue.asp) of 80% to 90% of the home’s [[appraised]](https://www.investopedia.com/terms/a/appraisal.asp) value. Of course, the amount of the loan and the rate of interest charged also depend on the borrower’s [[credit score]](https://www.investopedia.com/terms/c/credit_score.asp) and payment history.
 
 Traditional home equity loans have a set repayment term, just like conventional mortgages. The borrower makes regular, fixed payments covering both principal and interest. As with any mortgage, if the loan is not paid off, the home could be sold to satisfy the remaining debt.
 
@@ -40,11 +40,11 @@ Should you want to relocate, you might end up losing money on the sale of the ho
 
 Home equity loans exploded in popularity after the [Tax Reform Act of 1986](https://www.investopedia.com/terms/t/taxreformact1986.asp) because they provided a way for consumers to get around one of its main provisions—the elimination of deductions for the interest on most consumer purchases. The act left in place one big exception: interest in the service of residence-based debt. 
 
-However, the [Tax Cuts and Jobs Act of 2017](https://www.investopedia.com/taxes/how-gop-tax-bill-affects-you/) suspended the deduction for interest paid on home equity loans and HELOCs until 2026, unless, according to the IRS, “they are used to buy, build, or substantially improve the taxpayer’s home that secures the loan.” The interest on a home equity loan used to consolidate debts or pay for a child’s college expenses, for example, is not tax-deductible.1
+However, the [[Tax Cuts and Jobs Act of 2017]](https://www.investopedia.com/taxes/how-gop-tax-bill-affects-you/) suspended the deduction for interest paid on home equity loans and HELOCs until 2026, unless, according to the IRS, “they are used to buy, build, or substantially improve the taxpayer’s home that secures the loan.” The interest on a home equity loan used to consolidate debts or pay for a child’s college expenses, for example, is not tax-deductible.1
 
-Before you take a home equity loan, be sure to compare terms and interest rates. When looking, “don’t focus solely on large banks, but instead consider a loan with your local credit union,” recommends [Clair Jones](https://www.imove.com/blog/author/cjones/), a real estate and relocation expert who writes for Movearoo.com and iMove.com. “Credit unions sometimes offer better interest rates and more-personalized account service if you’re willing to deal with a slower application processing time.”
+Before you take a home equity loan, be sure to compare terms and interest rates. When looking, “don’t focus solely on large banks, but instead consider a loan with your local credit union,” recommends [[Clair Jones]](https://www.imove.com/blog/author/cjones/), a real estate and relocation expert who writes for Movearoo.com and iMove.com. “Credit unions sometimes offer better interest rates and more-personalized account service if you’re willing to deal with a slower application processing time.”
 
-As with a mortgage, you can ask for a [good faith estimate](https://www.investopedia.com/terms/g/good_faith_estimate.asp), but before you do, make your own honest estimate of your finances. [Casey Fleming](https://www.facebook.com/CaseyFleming.sbcglobal/), mortgage advisor at C2 Financial Corporation and author of _The Loan Guide: How to Get the Best Possible Mortgage_, says, “You should have a good sense of where your credit and home value are before applying, in order to save money. Especially on the appraisal \[of your home\], which is a major expense. If your appraisal comes in too low to support the loan, the money is already spent”—and there are no refunds for not qualifying.
+As with a mortgage, you can ask for a [good faith estimate](https://www.investopedia.com/terms/g/good_faith_estimate.asp), but before you do, make your own honest estimate of your finances. [[Casey Fleming]](https://www.facebook.com/CaseyFleming.sbcglobal/), mortgage advisor at C2 Financial Corporation and author of _The Loan Guide: How to Get the Best Possible Mortgage_, says, “You should have a good sense of where your credit and home value are before applying, in order to save money. Especially on the appraisal \[of your home\], which is a major expense. If your appraisal comes in too low to support the loan, the money is already spent”—and there are no refunds for not qualifying.
 
 Before signing—especially if you’re using the home equity loan for debt consolidation—run the numbers with your bank and make sure the loan’s monthly payments will indeed be lower than the combined payments of all your current obligations. Even though home equity loans have lower interest rates, your term on the new loan could be longer than that of your existing debts.
 
@@ -54,7 +54,7 @@ The interest on a home equity loan is only tax deductible if the loan is used to
 
 Home equity loans provide a single lump-sum payment to the borrower, which is repaid over a set period of time (generally five to 15 years) at an agreed-upon interest rate. The payment and interest rate remain the same over the lifetime of the loan. The loan must be repaid in full if the home on which it is based is sold.
 
-A HELOC is a revolving line of credit, much like a credit card, that you can draw on as needed, payback, and then draw on again, for a term determined by the lender. The draw period (five to 10 years) is followed by a repayment period when draws are no longer allowed (10 to 20 years). HELOCs typically have a variable interest rate, but some lenders offer [HELOC fixed-rate options](https://www.investopedia.com/mortgage/heloc/fixed-rate-option/).
+A HELOC is a revolving line of credit, much like a credit card, that you can draw on as needed, payback, and then draw on again, for a term determined by the lender. The draw period (five to 10 years) is followed by a repayment period when draws are no longer allowed (10 to 20 years). HELOCs typically have a variable interest rate, but some lenders offer [[HELOC fixed-rate options]](https://www.investopedia.com/mortgage/heloc/fixed-rate-option/).
 
 ## Advantages and Disadvantages of a Home Equity Loan
 
@@ -86,7 +86,7 @@ Obtaining a home equity loan is quite simple for many consumers because it is a 
 
 The interest rate on a home equity loan—although higher than that of a first mortgage—is much lower than that on credit cards and other consumer loans. That helps explain why the primary reason consumers borrow against the value of their homes via a fixed-rate home equity loan is to pay off credit card balances.
 
-Home equity loans are generally a good choice if you know exactly how much you need to borrow and what you’ll use the money for. You’re guaranteed a certain amount, which you receive in full at closing. “Home equity loans are generally preferred for larger, more expensive goals such as remodeling, paying for higher education, or even [debt consolidation](https://www.investopedia.com/terms/d/debtconsolidation.asp), since the funds are received in one lump sum,” says [Richard Airey](https://www.rickairey.com/), a loan officer with First Financial Mortgage in Portland, Maine.
+Home equity loans are generally a good choice if you know exactly how much you need to borrow and what you’ll use the money for. You’re guaranteed a certain amount, which you receive in full at closing. “Home equity loans are generally preferred for larger, more expensive goals such as remodeling, paying for higher education, or even [debt consolidation](https://www.investopedia.com/terms/d/debtconsolidation.asp), since the funds are received in one lump sum,” says [[Richard Airey]](https://www.rickairey.com/), a loan officer with First Financial Mortgage in Portland, Maine.
 
 ### Disadvantages
 

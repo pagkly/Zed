@@ -18,7 +18,7 @@ What Is Quadrix?
 
 Quadrix is a stock rating system that uses over 90 variables in seven major categories to determine the value of a stock. The Quadrix system is produced and maintained by Horizon Publishing Company. The seven major categories are momentum, quality, value, financial strength, earnings estimates, performance, and reversion. The overall score for a particular stock is determined by a weighted average of all 90 variables.1
 
-The Quadrix system was developed by Horizon Investment Services’ Chief Investment Officer, [Rich Moroney](https://www.horizoninvestment.com/team.asp#Moroney) and has been publishing scores for stocks since the year 2000.1
+The Quadrix system was developed by Horizon Investment Services’ Chief Investment Officer, [[Rich Moroney]](https://www.horizoninvestment.com/team.asp#Moroney) and has been publishing scores for stocks since the year 2000.1
 
 ### Key Takeaways
 
@@ -34,4 +34,4 @@ Quadrix is a first stock screen for building portfolios. The system looks at the
 
 ## Examples and Uses of Quadrix
 
-Quadrix is used in-house by Horizon Publishing to screen stocks for clients, and it is available for subscribers to Horizon's newsletter products. As mentioned above, it is not a risk-based portfolio builder, and it does not rely on [Modern Portfolio Theory (MPT)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) to weight stocks or evaluate risk versus return for the investor.
+Quadrix is used in-house by Horizon Publishing to screen stocks for clients, and it is available for subscribers to Horizon's newsletter products. As mentioned above, it is not a risk-based portfolio builder, and it does not rely on [[Modern Portfolio Theory (MPT)]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) to weight stocks or evaluate risk versus return for the investor.

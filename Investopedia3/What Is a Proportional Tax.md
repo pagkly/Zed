@@ -16,9 +16,9 @@ author: Julia Kagan
 What Is a Proportional Tax?
 ## What Is a Proportional Tax?
 
-A proportional tax is an income tax system that levies the same percentage tax to everyone regardless of income. A proportional tax is the same for low, middle, and high-income taxpayers. Proportional taxes are sometimes referred to as [flat taxes](https://www.investopedia.com/terms/f/flattax.asp).
+A proportional tax is an income tax system that levies the same percentage tax to everyone regardless of income. A proportional tax is the same for low, middle, and high-income taxpayers. Proportional taxes are sometimes referred to as [[flat taxes]](https://www.investopedia.com/terms/f/flattax.asp).
 
-In contrast, a [progressive tax](https://www.investopedia.com/terms/p/progressivetax.asp) or [marginal tax](https://www.investopedia.com/terms/m/marginaltaxrate.asp) system adjusts tax rates progressively by income. Low-income earners are taxed at a lower rate than high-income earners.
+In contrast, a [[progressive tax]](https://www.investopedia.com/terms/p/progressivetax.asp) or [[marginal tax]](https://www.investopedia.com/terms/m/marginaltaxrate.asp) system adjusts tax rates progressively by income. Low-income earners are taxed at a lower rate than high-income earners.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ In contrast, a [progressive tax](https://www.investopedia.com/terms/p/progressiv
 
 A proportional tax allows people to be taxed at the same percentage of their annual income. Supporters of a proportional tax system propose that it gives taxpayers incentive to earn more because they are not penalized with a higher [tax bracket](https://www.investopedia.com/terms/t/taxbracket.asp). Also, flat tax systems make filing easier. Critics of flat taxes argue the system places an unfair burden on low-wage earners in exchange for lowering tax rates on the wealthy. Critics, however, believe that a progressive tax system is fairer than a flat tax system.
 
-In some instances, a [sales tax](https://www.investopedia.com/terms/s/salestax.asp) can also be considered a type of proportional tax since all consumers, regardless of earnings, are required to pay the same fixed rate. The sales tax rate applies to goods and services, and the income of the purchaser is not a part of the equation. Other examples include poll taxes and the capped portion of the [Federal Insurance Contributions Act](https://www.investopedia.com/terms/f/fica.asp) (FICA) payroll deductions.1
+In some instances, a [[sales tax]](https://www.investopedia.com/terms/s/salestax.asp) can also be considered a type of proportional tax since all consumers, regardless of earnings, are required to pay the same fixed rate. The sales tax rate applies to goods and services, and the income of the purchaser is not a part of the equation. Other examples include poll taxes and the capped portion of the [[Federal Insurance Contributions Act]](https://www.investopedia.com/terms/f/fica.asp) (FICA) payroll deductions.1
 
 Russia is the largest nation in the world to use a flat tax. Russia imposes a 13% flat tax on earnings.
 
@@ -40,7 +40,7 @@ In a proportional tax system, all taxpayers are required to pay the same percent
 
 ## Pros and Cons of Proportional Taxes
 
-Proportional taxes are a type of [regressive tax](https://www.investopedia.com/terms/r/regressivetax.asp) because the tax rate does not increase as the amount of income subject to taxation rises, placing a higher financial burden on low-income individuals. A tax is said to be regressive if it has an inverse association where the average tax carries less impact on higher-income individuals or businesses.
+Proportional taxes are a type of [[regressive tax]](https://www.investopedia.com/terms/r/regressivetax.asp) because the tax rate does not increase as the amount of income subject to taxation rises, placing a higher financial burden on low-income individuals. A tax is said to be regressive if it has an inverse association where the average tax carries less impact on higher-income individuals or businesses.
 
 Opponents of the proportional tax have claimed that higher-income earners should pay a higher percentage than poorer taxpayers. They see the system as placing a more significant burden on middle-income earners to carry a large portion of government spending. While the percentage of tax is the same, which can be regarded as fair, the after-tax effect on low-income earners is more burdensome than for high-income earners.
 

@@ -18,13 +18,13 @@ Series 66
 
 The Series 66 is an exam and license that is meant to qualify individuals as investment advisor representatives or securities agents. The Series 66, also known as the Uniform Combined State Law Examination, covers topics relevant to providing investment advice and effecting securities transactions for clients.
 
-As of December 2018, the [North American Securities Administrators Association](https://www.investopedia.com/terms/n/nasaa.asp) (NASAA), which creates the Series 66 exam, had updated its questions due to recent changes in the tax code. Questions using the 2018 tax code were rolled out in January 2019.
+As of December 2018, the [[North American Securities Administrators Association]](https://www.investopedia.com/terms/n/nasaa.asp) (NASAA), which creates the Series 66 exam, had updated its questions due to recent changes in the tax code. Questions using the 2018 tax code were rolled out in January 2019.
 
 ## Understanding the Series 66
 
-The Series 66 certification was developed by the NASAA based on requests from the industry. The exam is administered by the [Financial Industry Regulatory Authority](https://www.investopedia.com/terms/f/finra.asp) (FINRA), which is also responsible for processing and disseminating test results. FINRA's [Series 7](https://www.investopedia.com/terms/s/series7.asp) exam is a co-requisite of the Series 66, which means it needs to be successfully completed along with the Series 66 before a candidate may apply to register in a state.
+The Series 66 certification was developed by the NASAA based on requests from the industry. The exam is administered by the [[Financial Industry Regulatory Authority]](https://www.investopedia.com/terms/f/finra.asp) (FINRA), which is also responsible for processing and disseminating test results. FINRA's [[Series 7]](https://www.investopedia.com/terms/s/series7.asp) exam is a co-requisite of the Series 66, which means it needs to be successfully completed along with the Series 66 before a candidate may apply to register in a state.
 
-There is no order in which the Series 7 and Series 66 must be taken. Individuals who have passed the Series 7 may take the Series 66 in order to avoid having to take the more difficult [Series 65](https://www.investopedia.com/terms/s/series65.asp) exam.
+There is no order in which the Series 7 and Series 66 must be taken. Individuals who have passed the Series 7 may take the Series 66 in order to avoid having to take the more difficult [[Series 65]](https://www.investopedia.com/terms/s/series65.asp) exam.
 
 ### Key Takeaways
 

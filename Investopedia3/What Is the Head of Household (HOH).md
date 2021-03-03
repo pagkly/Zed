@@ -26,7 +26,7 @@ What Is the Head of Household (HOH)?
 
 ## Understanding Head of Household
 
-HOH is a [filing status](https://www.investopedia.com/terms/f/filingstatus.asp) available to taxpayers who meet certain qualifying thresholds. They must file separate individual tax returns, be considered unmarried, and be entitled to an [exemption](https://www.investopedia.com/terms/e/exemption.asp) for a qualifying person, such as a child or parent. Further, the HOH must pay more than one-half the cost of supporting the qualifying person and more than one-half the cost of maintaining that qualifying person’s primary home.1
+HOH is a [[filing status]](https://www.investopedia.com/terms/f/filingstatus.asp) available to taxpayers who meet certain qualifying thresholds. They must file separate individual tax returns, be considered unmarried, and be entitled to an [exemption](https://www.investopedia.com/terms/e/exemption.asp) for a qualifying person, such as a child or parent. Further, the HOH must pay more than one-half the cost of supporting the qualifying person and more than one-half the cost of maintaining that qualifying person’s primary home.1
 
 To be considered unmarried, the HOH must be single, divorced, or considered unmarried. Married taxpayers would be regarded as unmarried if they did not live with their spouse during the last six months of the tax year.1 The status is further reliant on the head of household meeting either of these two requirements.
 
@@ -35,7 +35,7 @@ To be considered unmarried, the HOH must be single, divorced, or considered unm
 
 An HOH must pay for more than one-half of the cost of a qualifying person’s support and housing costs. The HOH must also pay more than one-half of the rent or mortgage, utilities, repairs, insurance, taxes, and other costs of maintaining the home where the qualifying person lives for more than half the year. The home must be the taxpayer’s own home unless the qualifying person is the taxpayer’s parent and the home is the property of that parent.1 
 
-Since the [Tax Cuts and Jobs Act of 2017](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) the personal exemption has been suspended through 2025.3 Back when there was one, HOH filers had to be able to claim an exemption for their qualifying person. Taxpayers could release their exemption to a noncustodial parent in a divorce proceeding or a legal separation agreement and remain eligible to file as an HOH.4
+Since the [[Tax Cuts and Jobs Act of 2017]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) the personal exemption has been suspended through 2025.3 Back when there was one, HOH filers had to be able to claim an exemption for their qualifying person. Taxpayers could release their exemption to a noncustodial parent in a divorce proceeding or a legal separation agreement and remain eligible to file as an HOH.4
 
 Married taxpayers are nevertheless considered unmarried if they have not lived with their spouse for the last six months of the tax year.
 

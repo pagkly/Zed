@@ -16,9 +16,9 @@ author: James Chen
 Second World Definition
 ## What is Second World?
 
-The outdated term "second world" included countries that were once controlled by the Soviet Union. Second world countries were [centrally planned economies](https://www.investopedia.com/terms/c/centrally-planned-economy.asp) and one-party states. Notably, the use of the term "second world" to refer to Soviet countries largely fell out of use in the early 1990s, shortly after the end of the Cold War.
+The outdated term "second world" included countries that were once controlled by the Soviet Union. Second world countries were [[centrally planned economies]](https://www.investopedia.com/terms/c/centrally-planned-economy.asp) and one-party states. Notably, the use of the term "second world" to refer to Soviet countries largely fell out of use in the early 1990s, shortly after the end of the Cold War.
 
-But the term second world has also been used to cover countries that are more stable and more developed than offensive term "[third-world" countries](https://www.investopedia.com/terms/t/third-world.asp) but less-stable and less-developed than [first world countries](https://www.investopedia.com/terms/f/first-world.asp). Examples of second-world countries by this definition include almost all of Latin and South America, Turkey, Thailand, South Africa, and many others. Investors sometimes refer to second world countries that appear to be headed toward first world status as "[emerging markets](https://www.investopedia.com/articles/03/073003.asp)" instead.
+But the term second world has also been used to cover countries that are more stable and more developed than offensive term "[third-world" countries](https://www.investopedia.com/terms/t/third-world.asp) but less-stable and less-developed than [[first world countries]](https://www.investopedia.com/terms/f/first-world.asp). Examples of second-world countries by this definition include almost all of Latin and South America, Turkey, Thailand, South Africa, and many others. Investors sometimes refer to second world countries that appear to be headed toward first world status as "[emerging markets](https://www.investopedia.com/articles/03/073003.asp)" instead.
 
 Some countries could be considered second world by either of these two definitions.
 

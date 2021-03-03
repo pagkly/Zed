@@ -16,17 +16,17 @@ author: Julia Kagan
 Uninsurable Peril
 ## Definition of Uninsurable Peril
 
-Uninsurable peril are events for which insurance coverage is not available or for which insurers are unlikely to [underwrite](https://www.investopedia.com/terms/u/underwriting.asp) policies. An uninsurable peril is typically an event that has a high risk of occurrence, meaning the probability of a payout is high and expected. Perils that insurers are unwilling to cover are often catastrophic in nature.
+Uninsurable peril are events for which insurance coverage is not available or for which insurers are unlikely to [[underwrite]](https://www.investopedia.com/terms/u/underwriting.asp) policies. An uninsurable peril is typically an event that has a high risk of occurrence, meaning the probability of a payout is high and expected. Perils that insurers are unwilling to cover are often catastrophic in nature.
 
 ## Breaking Down Uninsurable Peril
 
-An example of an uninsurable peril would be if an individual builds a home in a known flood area. Because the area has a history of that particular peril, it is unlikely an [insurance company](https://www.investopedia.com/terms/m/mutual-insurance-company.asp) will want to extend flood coverage because of the difficulty in managing the potential risk. It's the reason why [flood insurance](https://www.investopedia.com/terms/f/flood-insurance.asp) exists as a government program managed by the Federal Emergency Management Agency (FEMA).1
+An example of an uninsurable peril would be if an individual builds a home in a known flood area. Because the area has a history of that particular peril, it is unlikely an [[insurance company]](https://www.investopedia.com/terms/m/mutual-insurance-company.asp) will want to extend flood coverage because of the difficulty in managing the potential risk. It's the reason why [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp) exists as a government program managed by the Federal Emergency Management Agency (FEMA).1
 
 ## When Insurance Won't Work
 
 The major areas where insurance is unobtainable include reputational risk, regulatory risk, trade secret risk, political risk and pandemic risk.
 
-[Reputational risk](https://www.investopedia.com/terms/r/reputational-risk.asp) occurs when a company does something, or something happens to a company, that damages its public image to the point where its business is [imperiled](https://www.investopedia.com/ask/answers/090815/what-difference-between-peril-and-hazard.asp). For example, a CEO is involved in a sexual harassment scandal, or someone is randomly placing poison in bottles of a company's product. There may be some coverage (for product recall expenses, for example). But generally these situations cannot be insured because an insurer cannot determine what the risk is and what it's worth.
+[Reputational risk](https://www.investopedia.com/terms/r/reputational-risk.asp) occurs when a company does something, or something happens to a company, that damages its public image to the point where its business is [[imperiled]](https://www.investopedia.com/ask/answers/090815/what-difference-between-peril-and-hazard.asp). For example, a CEO is involved in a sexual harassment scandal, or someone is randomly placing poison in bottles of a company's product. There may be some coverage (for product recall expenses, for example). But generally these situations cannot be insured because an insurer cannot determine what the risk is and what it's worth.
 
 [Regulatory risk](https://www.investopedia.com/terms/r/regulatory_risk.asp) is the possibility a government agency will do something, or a government will pass a law, that severely damages a business. For example, forcing coal-powered electric generators to close. Thousands of new rules and laws are posted at the state, local and federal level every year. It's impossible for an insurer to anticipate these or write a policy to mitigate the damage to a company stemming from them.
 

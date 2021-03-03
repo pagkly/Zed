@@ -16,9 +16,9 @@ author: Adam Barone
 Form 5405: First-Time Homebuyer Credit and Repayment of the Credit
 ## What Is Form 5405: First-Time Homebuyer Credit and Repayment of the Credit?
 
-Form 5405: First-Time Homebuyer Credit and Repayment of the Credit is a tax form distributed by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) and used by first-time homeowners or long-time residents of a home to claim a tax credit that is no longer available to taxpayers. However, people who purchased homes before 2010 can still benefit from the tax credit initiative. The Obama administration enacted the federal first-time homebuyer tax credit in 2008. The tax credit was only available for approximately two years and five months—from April 9, 2008 through September 2010.1 2 3
+Form 5405: First-Time Homebuyer Credit and Repayment of the Credit is a tax form distributed by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) and used by first-time homeowners or long-time residents of a home to claim a tax credit that is no longer available to taxpayers. However, people who purchased homes before 2010 can still benefit from the tax credit initiative. The Obama administration enacted the federal first-time homebuyer tax credit in 2008. The tax credit was only available for approximately two years and five months—from April 9, 2008 through September 2010.1 2 3
 
-[First-time homebuyers](https://www.investopedia.com/terms/f/firsttimehomebuyer.asp) applying for the credit could not have owned another home within three years of the new home purchase, and either the purchase price of the home or the homebuyer's [modified adjusted gross income](https://www.investopedia.com/terms/m/magi.asp) (MAGI) could not exceed a certain threshold. The amount of the credit was the lesser of either a fixed percentage of the home's purchase price or a fixed dollar value.4
+[First-time homebuyers](https://www.investopedia.com/terms/f/firsttimehomebuyer.asp) applying for the credit could not have owned another home within three years of the new home purchase, and either the purchase price of the home or the homebuyer's [[modified adjusted gross income]](https://www.investopedia.com/terms/m/magi.asp) (MAGI) could not exceed a certain threshold. The amount of the credit was the lesser of either a fixed percentage of the home's purchase price or a fixed dollar value.4
 
 If the property the credit was received for was sold within 36 months of the purchase date or if the home was no longer the taxpayer's main home, the homeowner was generally responsible for repaying the full credit.3
 
@@ -37,7 +37,7 @@ A first-time homebuyer tax credit could provide the taxpayer with a refund even 
 
 Form 5405: First-Time Homebuyer Credit And Repayment of the Credit first-time homebuyer tax credit is no longer available; it was available from April 9, 2008, through September 30, 2010.
 
-Form 5405 was attached to the homebuyer's tax return, along with a copy of the settlement statement, which is typically the [HUD-1 Form](https://www.investopedia.com/terms/h/hud-1.asp). The form contained all parties' names, signatures, the property's address, the purchase date, and the purchase price. Some types of homes, such as mobile homes, could use other forms of contracts to demonstrate that the property met requirements for the credit.3
+Form 5405 was attached to the homebuyer's tax return, along with a copy of the settlement statement, which is typically the [[HUD-1 Form]](https://www.investopedia.com/terms/h/hud-1.asp). The form contained all parties' names, signatures, the property's address, the purchase date, and the purchase price. Some types of homes, such as mobile homes, could use other forms of contracts to demonstrate that the property met requirements for the credit.3
 
 Qualified homebuyers who purchased a qualified home but did not claim the tax credit on their 2009 returns were encouraged to file an amended [1040X](https://www.investopedia.com/terms/f/form1040x.asp) return with Form 5405 attached to claim their credit.3
 
@@ -57,4 +57,4 @@ Taxpayers must file the new Form 5405 with their 2019 tax return if they purchas
 -   The property was disposed of in 2020.
 -   The taxpayer ceased using it as their main home in 2020.8
 
-Otherwise, Form 5405 isn't required to be filed. For more information and exceptions to filing the revised Form 5405, see the [newest set of instructions published by the IRS](https://www.irs.gov/pub/irs-pdf/i5405.pdf) in November 2020.
+Otherwise, Form 5405 isn't required to be filed. For more information and exceptions to filing the revised Form 5405, see the [[newest set of instructions published by the IRS]](https://www.irs.gov/pub/irs-pdf/i5405.pdf) in November 2020.

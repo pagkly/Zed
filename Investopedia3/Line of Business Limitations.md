@@ -16,15 +16,15 @@ author: Julia Kagan
 Line of Business Limitations
 ## What Are Line of Business Limitations?
 
-Line of business limitations is a [federal income tax](https://www.investopedia.com/terms/f/federal_income_tax.asp) rule applied to fringe benefits that employers provide their employees. It states that if a company is engaged in multiple lines of business and an employee receives a [fringe benefit](https://www.investopedia.com/terms/f/fringe-benefits.asp) from a line of the company's business that she does not work in, she must pay taxes on that benefit.1
+Line of business limitations is a [[federal income tax]](https://www.investopedia.com/terms/f/federal_income_tax.asp) rule applied to fringe benefits that employers provide their employees. It states that if a company is engaged in multiple lines of business and an employee receives a [[fringe benefit]](https://www.investopedia.com/terms/f/fringe-benefits.asp) from a line of the company's business that she does not work in, she must pay taxes on that benefit.1
 
 ## Understanding Line of Business Limitations
 
-As one example of line of business limitations, if an individual works for a movie theater and her company also owns an amusement park, if she received free or discounted admission to the amusement park, she would be required to pay taxes on the value of the free ticket or the discount because the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) would consider this benefit to be income. However, if she saw a movie for free at the theater where she worked, she would generally not have to pay tax on the amount of the free movie ticket because it would not be subject to line of business limitations.2
+As one example of line of business limitations, if an individual works for a movie theater and her company also owns an amusement park, if she received free or discounted admission to the amusement park, she would be required to pay taxes on the value of the free ticket or the discount because the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) would consider this benefit to be income. However, if she saw a movie for free at the theater where she worked, she would generally not have to pay tax on the amount of the free movie ticket because it would not be subject to line of business limitations.2
 
 Products or services sold primarily to employees rather than to the general public are not considered employee discounts and thus do not fall under the line of business limitations rules.2
 
-An employer’s line of business is defined in the Enterprise [Standard Industrial Classification](https://www.investopedia.com/terms/s/sic_code.asp) (ESIC) Manual, which is published by the U.S. Office of Management and Budget. An employer is considered to have more than one line of business if it offers products or services for sale to customers in more than one two-digit ESIC classification.3
+An employer’s line of business is defined in the Enterprise [[Standard Industrial Classification]](https://www.investopedia.com/terms/s/sic_code.asp) (ESIC) Manual, which is published by the U.S. Office of Management and Budget. An employer is considered to have more than one line of business if it offers products or services for sale to customers in more than one two-digit ESIC classification.3
 
 ## Exemptions from Line of Business Limitations
 

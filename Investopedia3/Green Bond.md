@@ -16,7 +16,7 @@ author: Troy Segal
 Green Bond
 ## What Is a Green Bond?
 
-A green bond is a type of fixed-income instrument that is specifically earmarked to raise money for climate and environmental projects. These bonds are typically asset-linked and backed by the issuing entity's balance sheet, so they usually carry the same [credit rating](https://www.thebalance.com/what-are-bond-credit-ratings-417074) as their issuers’ other debt obligations.
+A green bond is a type of fixed-income instrument that is specifically earmarked to raise money for climate and environmental projects. These bonds are typically asset-linked and backed by the issuing entity's balance sheet, so they usually carry the same [[credit rating]](https://www.thebalance.com/what-are-bond-credit-ratings-417074) as their issuers’ other debt obligations.
 
 Dating back to the first decade of the 21st century, green bonds are also referred to as climate bonds.
 
@@ -31,13 +31,13 @@ Dating back to the first decade of the 21st century, green bonds are also referr
 
 Green bonds are designated bonds intended to encourage sustainability and to support climate-related or other types of special environmental projects. More specifically, green bonds finance projects aimed at energy efficiency, pollution prevention, sustainable agriculture, fishery and forestry, the protection of aquatic and terrestrial ecosystems, clean transportation, clean water, and sustainable water management. They also finance the cultivation of environmentally friendly technologies and the mitigation of climate change.
 
-[Green bonds come with tax incentives](https://www.investopedia.com/articles/investing/081115/green-bonds-benefits-and-risks.asp) such as tax exemption and tax credits, making them a more attractive investment compared to a comparable [taxable bond](https://www.investopedia.com/terms/t/taxablebond.asp). These tax advantages provide a monetary incentive to tackle prominent social issues such as climate change and a movement to renewable sources of energy. To qualify for green bond status, they are often verified by a third party such as the Climate Bond Standard Board, which certifies that the bond will fund projects that include benefits to the environment.
+[Green bonds come with tax incentives](https://www.investopedia.com/articles/investing/081115/green-bonds-benefits-and-risks.asp) such as tax exemption and tax credits, making them a more attractive investment compared to a comparable [[taxable bond]](https://www.investopedia.com/terms/t/taxablebond.asp). These tax advantages provide a monetary incentive to tackle prominent social issues such as climate change and a movement to renewable sources of energy. To qualify for green bond status, they are often verified by a third party such as the Climate Bond Standard Board, which certifies that the bond will fund projects that include benefits to the environment.
 
 ## History of Green Bonds
 
 As recently as 2012, green bond issuance amounted only to $2.6 billion. But in 2016, green bonds began to sprout. Much of the action was attributable to Chinese borrowers, who accounted for $32.9 billion of the total, or more than a third of all issuances. But the interest is global, with the European Union and the United States among the leaders too.
 
-In 2017, green bond issuance soared to a record high, accounting for $161 billion worth of investment worldwide, according to the latest report from the rating agency [Moody's](https://www.investopedia.com/terms/m/moodys.asp). Growth slowed a bit in 2018, hitting only $167 billion,1 but rebounded the following year. Moody's estimates that global issuances in 2019, when finally tabulated, could top $250 billion.2 The Climate Bonds Initiative, an international, investor-focused not-for-profit organization, puts the figure at $257.5 billion. 3
+In 2017, green bond issuance soared to a record high, accounting for $161 billion worth of investment worldwide, according to the latest report from the rating agency [[Moody's]](https://www.investopedia.com/terms/m/moodys.asp). Growth slowed a bit in 2018, hitting only $167 billion,1 but rebounded the following year. Moody's estimates that global issuances in 2019, when finally tabulated, could top $250 billion.2 The Climate Bonds Initiative, an international, investor-focused not-for-profit organization, puts the figure at $257.5 billion. 3
 
 ### 2009
 
@@ -47,6 +47,6 @@ The 2010s saw the development of green bond funds, broadening the ability of ret
 
 ## Real-World Example of Green Bonds
 
-The [World Bank](https://www.investopedia.com/terms/w/worldbank.asp) is a major issuer of green bonds. While it finances projects around the world, the institution has been very active especially in the United States, where its issuances have totaled U.S. $5.3 billion between FY 2014 and FY 2018,4 and in India, where its issuances total over 2.7 billion rupees.
+The [[World Bank]](https://www.investopedia.com/terms/w/worldbank.asp) is a major issuer of green bonds. While it finances projects around the world, the institution has been very active especially in the United States, where its issuances have totaled U.S. $5.3 billion between FY 2014 and FY 2018,4 and in India, where its issuances total over 2.7 billion rupees.
 
 In the latter country, one of the bank's oldest ventures has been the Rampur Hydropower Project, which aims to provide low-carbon hydroelectric power to northern India's electricity grid. It produces 1,957,000 megawatts annually, saving 1,407,700 tons of carbon dioxide emissions a year.

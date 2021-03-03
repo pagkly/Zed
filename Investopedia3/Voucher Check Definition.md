@@ -16,7 +16,7 @@ author: Adam Hayes
 Voucher Check Definition
 ## What Is a Voucher Check?
 
-A voucher check is a combination of a [check](https://www.investopedia.com/terms/c/check.asp) and a [voucher](https://www.investopedia.com/terms/v/voucher.asp), also known as "remittance advice," which includes pertinent information about the parties to the transaction and thus creates an auditable paper trail about that check's payment.
+A voucher check is a combination of a [[check]](https://www.investopedia.com/terms/c/check.asp) and a [[voucher]](https://www.investopedia.com/terms/v/voucher.asp), also known as "remittance advice," which includes pertinent information about the parties to the transaction and thus creates an auditable paper trail about that check's payment.
 
 ### Key Takeaways
 
@@ -26,14 +26,14 @@ A voucher check is a combination of a [check](https://www.investopedia.com/terms
 
 ## Understanding Voucher Checks
 
-The voucher check creates a paper trail for the payment by the [issuer](https://www.investopedia.com/terms/i/issuer.asp) of the check. The recipient of the voucher check detaches one voucher part and retains it for record-keeping before cashing the check. The issuer retains the other voucher portion.
+The voucher check creates a paper trail for the payment by the [[issuer]](https://www.investopedia.com/terms/i/issuer.asp) of the check. The recipient of the voucher check detaches one voucher part and retains it for record-keeping before cashing the check. The issuer retains the other voucher portion.
 
-Voucher checks that are used in computerized accounting systems have three parts that together fit on standard-sized sheets of paper for ease of use in printers. The checks are usually business sized—longer than a standard check but with the same width. One part is the check and the other two parts are the vouchers for the [payee](https://www.investopedia.com/terms/p/payee.asp) and issuer for their respective records. Perforations make the different sections easy to separate.
+Voucher checks that are used in computerized accounting systems have three parts that together fit on standard-sized sheets of paper for ease of use in printers. The checks are usually business sized—longer than a standard check but with the same width. One part is the check and the other two parts are the vouchers for the [[payee]](https://www.investopedia.com/terms/p/payee.asp) and issuer for their respective records. Perforations make the different sections easy to separate.
 
 A voucher is a document used by a company’s [accounts payable](https://www.investopedia.com/terms/a/accountspayable.asp) department to gather and file all of the supporting documents needed to approve and track the payment of a [liability](https://www.investopedia.com/terms/l/liability.asp). A voucher is essentially the backup documents for accounts payable, invoicing, or payroll. (Accounts payable are the short-term bills owed by companies to vendors and suppliers.) The voucher is important because it is an internal [accounting control](https://www.investopedia.com/terms/a/accounting-control.asp) mechanism that ensures that every payment is properly authorized and that the goods or services purchased are actually received.
 
 ## Who Uses Voucher Checks?
 
-Voucher checks are commonly used by a company's payroll department and are referred to as payroll checks. The voucher will contain a voucher number, name of the payee, date, amount (gross and net if any deductions), signatures, and any memo notes that need to be recorded. For [payroll](https://www.investopedia.com/terms/p/payroll.asp), even though direct deposit is increasingly becoming the norm for paying employees, having a paper trail back-up is a common practice.
+Voucher checks are commonly used by a company's payroll department and are referred to as payroll checks. The voucher will contain a voucher number, name of the payee, date, amount (gross and net if any deductions), signatures, and any memo notes that need to be recorded. For [[payroll]](https://www.investopedia.com/terms/p/payroll.asp), even though direct deposit is increasingly becoming the norm for paying employees, having a paper trail back-up is a common practice.
 
-[Vendors](https://www.investopedia.com/terms/v/vendor.asp) also use voucher checks. In this instance, a voucher check is issued when an [invoice](https://www.investopedia.com/terms/i/invoice.asp) is matched with a purchase order and documentation that the order was filled. In addition, for the accounts payable department, having a file of voucher records of payments to vendors is helpful in resolving payment disputes and in preparing books for internal month-end closings.
+[Vendors](https://www.investopedia.com/terms/v/vendor.asp) also use voucher checks. In this instance, a voucher check is issued when an [[invoice]](https://www.investopedia.com/terms/i/invoice.asp) is matched with a purchase order and documentation that the order was filled. In addition, for the accounts payable department, having a file of voucher records of payments to vendors is helpful in resolving payment disputes and in preparing books for internal month-end closings.

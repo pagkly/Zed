@@ -16,9 +16,9 @@ author: Adam Hayes
 Capital Markets: What You Should Know
 ## What Are Capital Markets?
 
-[Capital markets](https://www.investopedia.com/ask/answers/021615/whats-difference-between-capital-market-and-stock-market.asp) are venues where savings and investments are channeled between the suppliers who have capital and those who are in need of capital. The entities that have capital include retail and [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) while those who seek capital are businesses, governments, and people.
+[Capital markets](https://www.investopedia.com/ask/answers/021615/whats-difference-between-capital-market-and-stock-market.asp) are venues where savings and investments are channeled between the suppliers who have capital and those who are in need of capital. The entities that have capital include retail and [[institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp) while those who seek capital are businesses, governments, and people.
 
-Capital markets are composed of primary and secondary markets. The most common capital markets are the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp) and the [bond market.](https://www.investopedia.com/terms/b/bondmarket.asp)
+Capital markets are composed of primary and secondary markets. The most common capital markets are the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) and the [[bond market.]](https://www.investopedia.com/terms/b/bondmarket.asp)
 
 Capital markets seek to improve transactional efficiencies. These markets bring those who hold capital and those seeking capital together and provide a place where entities can exchange securities.
 
@@ -36,15 +36,15 @@ Capital markets are composed of the suppliers and users of funds. Suppliers incl
 
 Capital markets are used to sell financial products such as equities and debt securities. Equities are stocks, which are ownership shares in a company. Debt securities, such as bonds, are interest-bearing IOUs.
 
-These markets are divided into two different categories: [primary markets](https://www.investopedia.com/terms/p/primarymarket.asp)—where new equity stock and bond issues are sold to investors—and [secondary markets](https://www.investopedia.com/terms/s/secondarymarket.asp), which trade existing securities. Capital markets are a crucial part of a functioning modern economy because they move money from the people who have it to those who need it for productive use.
+These markets are divided into two different categories: [[primary markets]](https://www.investopedia.com/terms/p/primarymarket.asp)—where new equity stock and bond issues are sold to investors—and [[secondary markets]](https://www.investopedia.com/terms/s/secondarymarket.asp), which trade existing securities. Capital markets are a crucial part of a functioning modern economy because they move money from the people who have it to those who need it for productive use.
 
 ## Primary vs. Secondary Markets
 
 Capital markets are composed of primary and secondary markets. The majority of modern primary and secondary markets are computer-based electronic platforms.
 
-Primary markets are open to specific investors who buy securities directly from the issuing company. These securities are considered primary offerings or [initial public offerings](https://www.investopedia.com/terms/i/ipo.asp) (IPOs). When a company goes public, it sells its stocks and bonds to large-scale and institutional investors such as hedge funds and mutual funds.
+Primary markets are open to specific investors who buy securities directly from the issuing company. These securities are considered primary offerings or [[initial public offerings]](https://www.investopedia.com/terms/i/ipo.asp) (IPOs). When a company goes public, it sells its stocks and bonds to large-scale and institutional investors such as hedge funds and mutual funds.
 
-The secondary market, on the other hand, includes venues overseen by a regulatory body like the [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) where existing or already-issued securities are traded between investors. Issuing companies do not have a part in the secondary market. The New York Stock Exchange (NYSE) and Nasdaq are examples of the secondary market.
+The secondary market, on the other hand, includes venues overseen by a regulatory body like the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) where existing or already-issued securities are traded between investors. Issuing companies do not have a part in the secondary market. The New York Stock Exchange (NYSE) and Nasdaq are examples of the secondary market.
 
 The secondary market serves an important purpose in capital markets because it creates liquidity, giving investors the confidence to purchase securities.
 
@@ -58,19 +58,19 @@ In this realm, the capital market is where investable capital for non-financia
 
 ### Financial Services
 
-Financial companies involved in private rather than public markets are part of the capital market. They include [investment banks, private equity](https://www.investopedia.com/ask/answers/041315/what-are-major-differences-between-investment-banking-and-private-equity.asp), and [venture capital](https://www.investopedia.com/terms/v/venturecapital.asp) (VC) firms in contrast to broker-dealers and public exchanges.
+Financial companies involved in private rather than public markets are part of the capital market. They include [[investment banks, private equity]](https://www.investopedia.com/ask/answers/041315/what-are-major-differences-between-investment-banking-and-private-equity.asp), and [[venture capital]](https://www.investopedia.com/terms/v/venturecapital.asp) (VC) firms in contrast to broker-dealers and public exchanges.
 
 ### Public Markets
 
 Operated by a regulated exchange, capital markets can refer to equity markets in contrast to debt, bond, fixed income, money, derivatives, and commodities markets. Mirroring the corporate finance context, capital markets can also mean equity as well as debt, bond, or fixed income markets.
 
-Capital markets may also refer to investments that receive [capital gains tax](https://www.investopedia.com/terms/c/capital_gains_tax.asp) treatment. While short-term gains—assets held under a year—are taxed as income according to a tax bracket, there are different rates for long-term gains.1 These rates are often related to transactions arranged privately through investment banks or private funds such as private equity or venture capital.
+Capital markets may also refer to investments that receive [[capital gains tax]](https://www.investopedia.com/terms/c/capital_gains_tax.asp) treatment. While short-term gains—assets held under a year—are taxed as income according to a tax bracket, there are different rates for long-term gains.1 These rates are often related to transactions arranged privately through investment banks or private funds such as private equity or venture capital.
 
 ## Frequently Asked Questions
 
 ### Are Capital Markets the Same as Financial Markets?
 
-While there is a great deal of overlap at times, there are some fundamental distinctions between these two terms. [Financial markets](https://www.investopedia.com/terms/f/financial-market.asp) encompass the broad range of venues where people and organizations exchange assets, securities, and contracts with one another, and are often [secondary markets](https://www.investopedia.com/ask/answers/012615/whats-difference-between-primary-and-secondary-capital-markets.asp). Capital markets, on the other hand, are used primarily to raise funding, usually for a firm, to be used in operations or for growth.
+While there is a great deal of overlap at times, there are some fundamental distinctions between these two terms. [[Financial markets]](https://www.investopedia.com/terms/f/financial-market.asp) encompass the broad range of venues where people and organizations exchange assets, securities, and contracts with one another, and are often [[secondary markets]](https://www.investopedia.com/ask/answers/012615/whats-difference-between-primary-and-secondary-capital-markets.asp). Capital markets, on the other hand, are used primarily to raise funding, usually for a firm, to be used in operations or for growth.
 
 ### What Is a Primary vs. Secondary Market?
 

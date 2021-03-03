@@ -16,7 +16,7 @@ author: Julia Kagan
 Umbrella Insurance Policy
 ## What Is an Umbrella Insurance Policy?
 
-An umbrella insurance policy is extra [liability insurance](https://www.investopedia.com/terms/l/liability_insurance.asp) coverage that goes beyond the limits of the insured's homeowners, auto, or [watercraft insurance](https://www.investopedia.com/terms/w/watercraft-insurance.asp). It provides an additional layer of security to those who are at risk of being sued for damages to other people's property or injuries caused to others in an accident. It also protects against libel, vandalism, slander, and invasion of privacy.
+An umbrella insurance policy is extra [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp) coverage that goes beyond the limits of the insured's homeowners, auto, or [[watercraft insurance]](https://www.investopedia.com/terms/w/watercraft-insurance.asp). It provides an additional layer of security to those who are at risk of being sued for damages to other people's property or injuries caused to others in an accident. It also protects against libel, vandalism, slander, and invasion of privacy.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ An umbrella insurance policy is extra [liability insurance](https://www.investop
 
 The added coverage provided by an umbrella insurance policy is most useful to high net worth individuals who own a lot of assets—or very expensive assets—and are at a significant risk of being sued. Small businesses also use an umbrella insurance policy to guard against potential monetary damages arising due to claims.
 
-The premium for an umbrella insurance policy may be less expensive if the policy is purchased from the same insurer that provided the original auto, home, or watercraft insurance. Depending on the provider, the policyholder who wants to add an umbrella insurance policy is required to have a base insurance coverage of $150,000 to $250,000 for [auto insurance](https://www.investopedia.com/terms/a/auto-insurance.asp) and $250,000 to $300,000 for [homeowners insurance](https://www.investopedia.com/terms/h/homeowners-insurance.asp).
+The premium for an umbrella insurance policy may be less expensive if the policy is purchased from the same insurer that provided the original auto, home, or watercraft insurance. Depending on the provider, the policyholder who wants to add an umbrella insurance policy is required to have a base insurance coverage of $150,000 to $250,000 for [[auto insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp) and $250,000 to $300,000 for [[homeowners insurance]](https://www.investopedia.com/terms/h/homeowners-insurance.asp).
 
 Umbrella insurance is often referred to as excess liability insurance. If a policyholder is sued for damages that exceed the liability limits of car insurance, homeowners insurance, or other coverage types, an umbrella policy helps pay what they owe. In other words, if the dollar limit of the original policy has been exhausted, the umbrella policy acts as a fail-safe, so the insured person doesn't have to dip into savings and other assets.
 
@@ -53,4 +53,4 @@ The annual cost of $1 million personal umbrella insurance policy, according to t
 
 To understand how umbrella insurance can help, consider the following scenario. If a driver runs a red light and accidentally hits another car, there might be significant damage to the vehicle and several people might be injured.
 
-With car repairs totaling $50,000 and the treatment of the injuries eclipsing $500,000, the driver at fault may be liable for expenses that go far beyond the coverage limits of their insurance. [An umbrella insurance policy](https://www.investopedia.com/articles/personal-finance/040115/how-umbrella-insurance-works.asp) will pick up the additional liability costs beyond the limits of car insurance coverage.
+With car repairs totaling $50,000 and the treatment of the injuries eclipsing $500,000, the driver at fault may be liable for expenses that go far beyond the coverage limits of their insurance. [[An umbrella insurance policy]](https://www.investopedia.com/articles/personal-finance/040115/how-umbrella-insurance-works.asp) will pick up the additional liability costs beyond the limits of car insurance coverage.

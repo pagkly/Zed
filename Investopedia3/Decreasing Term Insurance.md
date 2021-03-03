@@ -16,11 +16,11 @@ author: Julia Kagan
 Decreasing Term Insurance
 ## What Is Decreasing Term Insurance?
 
-Decreasing term insurance is renewable [term life insurance](https://www.investopedia.com/terms/t/termlife.asp) with coverage decreasing over the life of the policy at a predetermined rate. Premiums are usually constant throughout the contract, and reductions in coverage typically occur monthly or annually. Terms range between 1 year and 30 years but it depends on the insurance company and the plan they offer.
+Decreasing term insurance is renewable [[term life insurance]](https://www.investopedia.com/terms/t/termlife.asp) with coverage decreasing over the life of the policy at a predetermined rate. Premiums are usually constant throughout the contract, and reductions in coverage typically occur monthly or annually. Terms range between 1 year and 30 years but it depends on the insurance company and the plan they offer.
 
 ## Understanding Decreasing Term Insurance 
 
-The theory behind decreasing term insurance holds that with age, certain liabilities, and the corresponding need for high levels of insurance decreases. Numerous in-force decreasing term insurance policies take the form of [mortgage life insurance](https://www.investopedia.com/mortgage/insurance/mortgage-life-insurance/), which affixes its benefit to the remaining mortgage of an insured’s home.
+The theory behind decreasing term insurance holds that with age, certain liabilities, and the corresponding need for high levels of insurance decreases. Numerous in-force decreasing term insurance policies take the form of [[mortgage life insurance]](https://www.investopedia.com/mortgage/insurance/mortgage-life-insurance/), which affixes its benefit to the remaining mortgage of an insured’s home.
 
 The payment structure is the primary way this type of insurance is different from regular term life. The amount in the death benefit goes down, unlike other forms of life insurance.
 
@@ -34,7 +34,7 @@ Alone, decreasing term insurance may not be sufficient for an individual's life 
 
 ## Inexpensive Life Insurance Protection
 
-Decreasing term insurance is a more affordable option than [whole life](https://www.investopedia.com/terms/w/wholelife.asp) or [universal life insurance](https://www.investopedia.com/terms/u/universallife.asp). The death benefit is designed to mirror the [amortization schedule](https://www.investopedia.com/terms/a/amortization_schedule.asp) of a mortgage or other personal debt not easily covered by personal assets or income, like personal loans or business loans.
+Decreasing term insurance is a more affordable option than [[whole life]](https://www.investopedia.com/terms/w/wholelife.asp) or [[universal life insurance]](https://www.investopedia.com/terms/u/universallife.asp). The death benefit is designed to mirror the [[amortization schedule]](https://www.investopedia.com/terms/a/amortization_schedule.asp) of a mortgage or other personal debt not easily covered by personal assets or income, like personal loans or business loans.
 
 Decreasing term insurance allows a pure death benefit with no cash accumulation, unlike, for example, a whole life insurance policy. As such, this insurance option has modest premiums for comparable benefit amounts to either a permanent or temporary life insurance.
 

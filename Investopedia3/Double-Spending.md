@@ -16,13 +16,13 @@ author: Jake Frankenfield
 Double-Spending
 ## What Is Double-Spending?
 
-Double-spending is the risk that a digital currency can be spent twice. It is a potential problem unique to [digital currencies](https://www.investopedia.com/terms/d/digital-currency.asp) because digital information can be reproduced relatively easily by savvy individuals who understand the blockchain network and the computing power necessary to manipulate it.
+Double-spending is the risk that a digital currency can be spent twice. It is a potential problem unique to [[digital currencies]](https://www.investopedia.com/terms/d/digital-currency.asp) because digital information can be reproduced relatively easily by savvy individuals who understand the blockchain network and the computing power necessary to manipulate it.
 
 Physical currencies do not have this issue because they cannot be easily replicated, and the parties involved in a transaction can immediately verify the authenticity and past ownership of the physical currency. That is of course excluding matters involving cash transactions.
 
 With digital currency, there is a risk that the holder could make a copy of the digital token and send it to a merchant or another party while retaining the original.
 
-This was a concern initially with bitcoin, the most popular digital currency or "cryptocurrency," since it is a decentralized currency with no central agency to verify that it is spent only once. However, bitcoin has a mechanism based on transaction logs, known as the [blockchain](https://www.investopedia.com/terms/b/blockchain.asp), to verify the authenticity of each transaction and prevent double-counting.
+This was a concern initially with bitcoin, the most popular digital currency or "cryptocurrency," since it is a decentralized currency with no central agency to verify that it is spent only once. However, bitcoin has a mechanism based on transaction logs, known as the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp), to verify the authenticity of each transaction and prevent double-counting.
 
 ### Key Takeaways
 
@@ -42,4 +42,4 @@ Hackers have tried to get around the bitcoin verification system by using method
 
 These ploys have met with only limited success. In fact, most bitcoin thefts so far have not involved double-counting but rather have been due to users storing bitcoins without adequate safety measures.
 
-The greatest risk for double-spending comes in the form of a 51% attack, which can occur if a user controls more than 50% of the computing power maintaining the distributed ledgers of a [cryptocurrency](https://www.investopedia.com/terms/c/cryptocurrency.asp). If this user controls the blockchain they will be able to process transfer bitcoins to their wallet multiple times by reversing the blockchain ledger as though the initial transactions had never occurred.
+The greatest risk for double-spending comes in the form of a 51% attack, which can occur if a user controls more than 50% of the computing power maintaining the distributed ledgers of a [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp). If this user controls the blockchain they will be able to process transfer bitcoins to their wallet multiple times by reversing the blockchain ledger as though the initial transactions had never occurred.

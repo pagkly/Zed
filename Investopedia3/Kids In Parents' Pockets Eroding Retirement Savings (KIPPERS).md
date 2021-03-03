@@ -20,7 +20,7 @@ Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS) is a slang term fo
 
 Their parents face the challenges of managing their own finances and planning for retirement while dealing with the added expense of housing and feeding their adult offspring.
 
-KIPPERS are also known as [boomerang children](https://www.investopedia.com/terms/b/boomerangs.asp).
+KIPPERS are also known as [[boomerang children]](https://www.investopedia.com/terms/b/boomerangs.asp).
 
 ### Key Takeaways
 
@@ -34,13 +34,13 @@ According to some studies, most parents find that having KIPPERS in the house is
 
 However, it usually results in the parents spending more and saving less than they otherwise would as they approach retirement age. They may also postpone important life decisions such as downsizing their homes, moving to a better climate, or even retirement itself.
 
-Contrast this to the situation of a married dual-income couple with no children at home, whose discretionary income is often higher and who find saving for retirement easier. This demographic group is sometimes referred to as [Dual Income No Kids](https://www.investopedia.com/terms/d/dinks.asp) (DINKs).
+Contrast this to the situation of a married dual-income couple with no children at home, whose discretionary income is often higher and who find saving for retirement easier. This demographic group is sometimes referred to as [[Dual Income No Kids]](https://www.investopedia.com/terms/d/dinks.asp) (DINKs).
 
 ## Millennials on the Couch
 
-A Pew Research Center study in 2016 found that nearly one-third of 18- to 34-year-olds lived with at least one parent, up from just 23% in 1960. "For the first time in 130 years, shacking up with Mom and/or Dad was the most common living arrangement for young adults, edging out being married/cohabitating, living alone, or living with someone other than a parent," [Consumer Reports](https://www.investopedia.com/terms/c/consumer-reports.asp) noted.
+A Pew Research Center study in 2016 found that nearly one-third of 18- to 34-year-olds lived with at least one parent, up from just 23% in 1960. "For the first time in 130 years, shacking up with Mom and/or Dad was the most common living arrangement for young adults, edging out being married/cohabitating, living alone, or living with someone other than a parent," [[Consumer Reports]](https://www.investopedia.com/terms/c/consumer-reports.asp) noted.
 
-For parents struggling to [save for retirement](https://www.investopedia.com/terms/r/retirement-planning.asp) and contain costs, the magazine offered these tips:
+For parents struggling to [[save for retirement]](https://www.investopedia.com/terms/r/retirement-planning.asp) and contain costs, the magazine offered these tips:
 
 -   Don't allow freeloading. Make sure your adult children are financially responsible by setting goals, discussing household costs, and assigning their share, even if they don't have the money to pay for them right now.
 -   Talk about timelines for leaving the nest, and educate them about the costs of living.

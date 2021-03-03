@@ -16,7 +16,7 @@ author: James Chen
 India's Answer to the SEC: SEBI, the Securities and Exchange Board of India
 ## What Is the Securities and Exchange Board of India (SEBI)?
 
-The Securities and Exchange Board of India (SEBI) is the most important regulator of securities markets in India. SEBI is the counterpart of the [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) in the U.S. Its [stated objective](https://www.sebi.gov.in/index.html) is “to protect the interests of investors in securities and to promote the development of and to regulate the securities market and for matters connected therewith or incidental thereto.”
+The Securities and Exchange Board of India (SEBI) is the most important regulator of securities markets in India. SEBI is the counterpart of the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) in the U.S. Its [[stated objective]](https://www.sebi.gov.in/index.html) is “to protect the interests of investors in securities and to promote the development of and to regulate the securities market and for matters connected therewith or incidental thereto.”
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ According to its charter, SEBI is expected to be responsible for three main grou
 
 The body drafts regulations and statutes in a regulatory capacity, passes rulings and orders in a judicial capacity, and conducts investigations and imposes penalties in an enforcement capacity.
 
-SEBI is run by a board of directors, including a chairman who is elected by the parliament, two officers from the Ministry of Finance, one member from the [Reserve Bank of India](https://www.investopedia.com/terms/r/rbi.asp), and five members who are also elected by the parliament.
+SEBI is run by a board of directors, including a chairman who is elected by the parliament, two officers from the Ministry of Finance, one member from the [[Reserve Bank of India]](https://www.investopedia.com/terms/r/rbi.asp), and five members who are also elected by the parliament.
 
 ## Criticism of SEBI
 

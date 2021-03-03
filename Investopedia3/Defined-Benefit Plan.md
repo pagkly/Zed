@@ -20,7 +20,7 @@ A defined-benefit plan is an employer-sponsored retirement plan where employee 
 
 ## Understanding Defined-Benefit Plan
 
-Also known as [pension plans](https://www.investopedia.com/terms/p/pensionplan.asp) or qualified-benefit plans, this type of plan is called "defined benefit" because employees and employers know the formula for calculating retirement benefits ahead of time, and they use it to define and set the benefit paid out. This fund is different from other retirement funds, like retirement savings accounts, where the payout amounts depend on investment returns. Poor investment returns or faulty assumptions and calculations can result in a funding shortfall, where employers are legally obligated to make up the difference with a cash contribution.1
+Also known as [[pension plans]](https://www.investopedia.com/terms/p/pensionplan.asp) or qualified-benefit plans, this type of plan is called "defined benefit" because employees and employers know the formula for calculating retirement benefits ahead of time, and they use it to define and set the benefit paid out. This fund is different from other retirement funds, like retirement savings accounts, where the payout amounts depend on investment returns. Poor investment returns or faulty assumptions and calculations can result in a funding shortfall, where employers are legally obligated to make up the difference with a cash contribution.1
 
 ### Key Takeaways
 
@@ -34,13 +34,13 @@ Since the employer is responsible for making investment decisions and managing t
 
 ## Examples of Defined-Benefit Plan Payouts
 
-A defined-benefit plan guarantees a specific benefit or payout upon retirement. The employer may opt for a fixed benefit or one calculated according to a formula that factors in years of service, age, and average salary. The employer typically funds the plan by contributing a regular amount, usually a percentage of the employee's pay, into a [tax-deferred](https://www.investopedia.com/terms/t/taxdeferred.asp) account. However, depending on the plan, employees may also make contributions. The employer contribution is, in effect, deferred compensation.1
+A defined-benefit plan guarantees a specific benefit or payout upon retirement. The employer may opt for a fixed benefit or one calculated according to a formula that factors in years of service, age, and average salary. The employer typically funds the plan by contributing a regular amount, usually a percentage of the employee's pay, into a [[tax-deferred]](https://www.investopedia.com/terms/t/taxdeferred.asp) account. However, depending on the plan, employees may also make contributions. The employer contribution is, in effect, deferred compensation.1
 
 Upon retirement, the plan may pay monthly payments throughout the employee’s lifetime or as a [lump-sum payment](https://www.investopedia.com/terms/l/lump-sum-payment.asp). For example, a plan for a retiree with 30 years of service at retirement may state the benefit as an exact dollar amount, such as $150 per month per year of the employee's service. This plan would pay the employee $4,500 per month in retirement. If the employee dies, some plans distribute any remaining benefits to the employee's beneficiaries.
 
 ## Annuity vs. Lump-Sum Payments
 
-Payment options commonly include a single-[life annuity](https://www.investopedia.com/terms/l/lifeannuity.asp), which provides a fixed monthly benefit until death; a [qualified joint and survivor annuity](https://www.investopedia.com/terms/q/qjsa.asp), which offers a fixed monthly benefit until death and allows the surviving spouse to continue receiving benefits thereafter;2 or a lump-sum payment, which pays the entire value of the plan in a single payment.
+Payment options commonly include a single-[life annuity](https://www.investopedia.com/terms/l/lifeannuity.asp), which provides a fixed monthly benefit until death; a [[qualified joint and survivor annuity]](https://www.investopedia.com/terms/q/qjsa.asp), which offers a fixed monthly benefit until death and allows the surviving spouse to continue receiving benefits thereafter;2 or a lump-sum payment, which pays the entire value of the plan in a single payment.
 
 Selecting the right payment option is important because it can affect the benefit amount the employee receives. It is best to discuss benefit options with a financial advisor.
 

@@ -16,7 +16,7 @@ author: James Chen
 How an Escrow Agreement Works
 ## What Is an Escrow Agreement?
 
-An escrow agreement is a contract that outlines the terms and conditions between parties involved, and the responsibility of each. Escrow agreements generally involve an independent third party, called an [escrow agent](https://www.investopedia.com/terms/e/escrow_agent.asp), who holds an asset of value until the specified conditions of the contract are met. However, they should fully outline the conditions for all parties involved. 
+An escrow agreement is a contract that outlines the terms and conditions between parties involved, and the responsibility of each. Escrow agreements generally involve an independent third party, called an [[escrow agent]](https://www.investopedia.com/terms/e/escrow_agent.asp), who holds an asset of value until the specified conditions of the contract are met. However, they should fully outline the conditions for all parties involved. 
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ An escrow agreement normally includes information such as:
 -   The escrow agent's fees and expenses
 -   The jurisdiction and venue in the event of a legal action
 
-Most escrow agreements are put into place when one party wants to make sure the other party meets certain conditions or obligations before it moves forward with a deal. For instance, a seller may set up an escrow agreement to ensure a potential homebuyer can secure financing before the sale goes through. If the buyer cannot secure [financing](https://www.investopedia.com/terms/f/financing.asp), the deal can be called off and the escrow agreement canceled.
+Most escrow agreements are put into place when one party wants to make sure the other party meets certain conditions or obligations before it moves forward with a deal. For instance, a seller may set up an escrow agreement to ensure a potential homebuyer can secure financing before the sale goes through. If the buyer cannot secure [[financing]](https://www.investopedia.com/terms/f/financing.asp), the deal can be called off and the escrow agreement canceled.
 
 For certain transactions such as real estate, the escrow agent may open up an escrow account into which funds are deposited. Cash has traditionally been the go-to asset that people entrust to an escrow agent. But nowadays, any asset that holds a value can be put into escrow including stocks, bonds, deeds, mortgages, patents, or a check.
 
@@ -55,8 +55,8 @@ For example, a company purchasing goods internationally wants to be certain its 
 
 ## Types of Escrow Agreements
 
-Escrow agreements are frequently used in [real estate](https://www.investopedia.com/terms/r/realestate.asp) transactions. Title agents in the United States, notaries in civil law countries, and attorneys in other parts of the world routinely act as escrow agents by holding the seller's deed to a property.
+Escrow agreements are frequently used in [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) transactions. Title agents in the United States, notaries in civil law countries, and attorneys in other parts of the world routinely act as escrow agents by holding the seller's deed to a property.
 
-Payment is typically made to the escrow agent. The buyer can perform due diligence on his potential acquisition—like doing a [home inspection](https://www.investopedia.com/terms/h/home-inspection.asp) or securing financing—while assuring the seller of his capacity to close on the purchase. If the purchase goes through, the escrow agent will apply the money to the purchase price. If the conditions set forth by the agreement are not met or the deal falls through, the escrow agent can refund the money to the buyer.
+Payment is typically made to the escrow agent. The buyer can perform due diligence on his potential acquisition—like doing a [[home inspection]](https://www.investopedia.com/terms/h/home-inspection.asp) or securing financing—while assuring the seller of his capacity to close on the purchase. If the purchase goes through, the escrow agent will apply the money to the purchase price. If the conditions set forth by the agreement are not met or the deal falls through, the escrow agent can refund the money to the buyer.
 
 Stocks are often the subject of an escrow agreement in the context of an initial public offering (IPO) or when they are granted to employees under stock option plans. These stocks are usually in escrow because there is a minimum time limit that needs to pass before they can be freely traded by their owners.

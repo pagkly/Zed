@@ -16,7 +16,7 @@ author: Adam Hayes
 What Is Hong Kong SAR, China?
 ## What Is the Hong Kong SAR?
 
-Hong Kong is the premier financial and business center in China and a regional financial leader. Hong Kong is one of China's [special administrative regions (SARs)](https://www.investopedia.com/terms/s/special-administrative-region.asp). An SAR is a relatively autonomous regions within the People's Republic of China that maintain separate legal, administrative, and judicial systems from the rest of the country.
+Hong Kong is the premier financial and business center in China and a regional financial leader. Hong Kong is one of China's [[special administrative regions (SARs)]](https://www.investopedia.com/terms/s/special-administrative-region.asp). An SAR is a relatively autonomous regions within the People's Republic of China that maintain separate legal, administrative, and judicial systems from the rest of the country.
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ Hong Kong is the premier financial and business center in China and a regional f
 
 Hong Kong is a special administrative region (SAR) that exists as part of the People’s Republic of China under the “One Country, Two Systems” doctrine, negotiated in the Sino-British Joint Declaration, negotiated and signed in 1984, but taking effect in 1997. The "One Country, Two Systems" doctrine stipulated that the People's Republic of China's socialist system would not be practiced in Hong Kong, and Hong Kong would maintain its political and economic quasi-independence for 50 years after the transfer of sovereignty, until 2047.
 
-What does that mean? Since July 1, 1997, when the United Kingdom transferred sovereignty of Hong Kong to China, Hong Kong has maintained a separate political and economic system from China—democratic(ish), and capitalist—and a separate currency (the [Hong Kong Dollar, HKD$](https://www.investopedia.com/terms/forex/h/hkd-hong-kong-dollars.asp)). Hong Kong retains independent executive, legislative and judiciary powers, in all matters other than military defense and foreign affairs. English and Chinese are the two official languages.
+What does that mean? Since July 1, 1997, when the United Kingdom transferred sovereignty of Hong Kong to China, Hong Kong has maintained a separate political and economic system from China—democratic(ish), and capitalist—and a separate currency (the [[Hong Kong Dollar, HKD$]](https://www.investopedia.com/terms/forex/h/hkd-hong-kong-dollars.asp)). Hong Kong retains independent executive, legislative and judiciary powers, in all matters other than military defense and foreign affairs. English and Chinese are the two official languages.
 
 ## Hong Kong's Economy
 
-Hong Kong has been ranked as the world's freest economy in the Heritage's [Index of Economic Freedom](https://www.investopedia.com/terms/i/index-of-economic-freedom.asp) since the index's inception in 1995. In 1990, [Milton Friedman](https://www.investopedia.com/terms/m/milton-friedman.asp) wrote that it was perhaps the best example of a free market economy. The service economy in Hong Kong is characterized primarily by low taxation, near free port trade, and a well established international financial market. Service economy, here, meaning an economy that is not industrial, or manufacturing based, but is instead based in financial services, health, and human services, hospitality, information technology, etc.
+Hong Kong has been ranked as the world's freest economy in the Heritage's [Index of Economic Freedom](https://www.investopedia.com/terms/i/index-of-economic-freedom.asp) since the index's inception in 1995. In 1990, [[Milton Friedman]](https://www.investopedia.com/terms/m/milton-friedman.asp) wrote that it was perhaps the best example of a free market economy. The service economy in Hong Kong is characterized primarily by low taxation, near free port trade, and a well established international financial market. Service economy, here, meaning an economy that is not industrial, or manufacturing based, but is instead based in financial services, health, and human services, hospitality, information technology, etc.
 
 And using its political and economic autonomy, Hong Kong has positioned itself as the place where international and Chinese businesses find common ground. It is also considered the principal financial center in China. As a result, more than 1,300 companies from all over the world are headquartered in Hong Kong.
 

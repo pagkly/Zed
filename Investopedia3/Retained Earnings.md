@@ -16,7 +16,7 @@ author: Jason Fernando
 Retained Earnings
 ## What Is Retained Earnings?
 
-Retained earnings (RE) is the amount of net income left over for the business after it has paid out dividends to its shareholders. A business generates [earnings](https://www.investopedia.com/terms/e/earnings.asp) that can be positive ([profits](https://www.investopedia.com/terms/p/profit.asp)) or negative (losses).
+Retained earnings (RE) is the amount of net income left over for the business after it has paid out dividends to its shareholders. A business generates [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) that can be positive ([profits](https://www.investopedia.com/terms/p/profit.asp)) or negative (losses).
 
 Profits give a lot of room to the business owner(s) or the company management to utilize the surplus money earned. Often this profit is paid out to shareholders, but it can also be reinvested back into the company for growth purposes. The money not paid to shareholders counts as retained earnings.
 
@@ -28,7 +28,7 @@ RE\=BP+Net Income (or Loss)−C−Swhere:BP\=Beginning Period REC\=Cash di
 
 Whenever a company generates surplus income, a portion of the long-term shareholders may expect some regular income in the form of dividends as a reward for putting their money in the company. Traders who look for short-term gains may also prefer getting dividend payments that offer instant gains.
 
-Dividends are also preferred as many jurisdictions allow dividends as tax-free income, while gains on stocks are subject to taxes. On the other hand, company management may believe that they can better utilize the money if it is retained within the company. Similarly, there may be shareholders who trust the management potential and may prefer to retain the earnings in hopes of much higher [returns](https://www.investopedia.com/terms/r/rore.asp) (even with the taxes).
+Dividends are also preferred as many jurisdictions allow dividends as tax-free income, while gains on stocks are subject to taxes. On the other hand, company management may believe that they can better utilize the money if it is retained within the company. Similarly, there may be shareholders who trust the management potential and may prefer to retain the earnings in hopes of much higher [[returns]](https://www.investopedia.com/terms/r/rore.asp) (even with the taxes).
 
 ### Key Takeaways
 
@@ -40,16 +40,16 @@ Dividends are also preferred as many jurisdictions allow dividends as tax-free i
 
 The following options broadly cover all possibilities on how the surplus money can be utilized:
 
--   The income money can be distributed (fully or partially) among the business owners (shareholders) in the form of [dividends](https://www.investopedia.com/terms/d/dividend.asp).
+-   The income money can be distributed (fully or partially) among the business owners (shareholders) in the form of [[dividends]](https://www.investopedia.com/terms/d/dividend.asp).
 -   It can be invested to expand the existing business operations, like increasing the production capacity of the existing products or hiring more sales representatives.
 -   It can be invested to launch a new product/variant, like a refrigerator maker foraying into producing air conditioners, or a chocolate cookie manufacturer launching orange- or pineapple-flavored variants.
--   The money can be utilized for any possible [merger](https://www.investopedia.com/terms/m/merger.asp), [acquisition](https://www.investopedia.com/terms/a/acquisition.asp), or partnership that leads to improved business prospects.
--   It can also be used for [share buybacks](https://www.investopedia.com/terms/s/sharerepurchase.asp).
+-   The money can be utilized for any possible [[merger]](https://www.investopedia.com/terms/m/merger.asp), [[acquisition]](https://www.investopedia.com/terms/a/acquisition.asp), or partnership that leads to improved business prospects.
+-   It can also be used for [[share buybacks]](https://www.investopedia.com/terms/s/sharerepurchase.asp).
 -   The earnings can be used to repay any outstanding loan (debt) the business may have.
 
 The first option leads to the earnings money going out of the books and accounts of the business forever because dividend payments are irreversible. However, all the other options retain the earnings money for use within the business, and such investments and funding activities constitute the retained earnings (RE).
 
-By definition, retained earnings are the cumulative net earnings or profits of a company after accounting for dividend payments. It is also called earnings surplus and represents the reserve money, which is available to the company management for reinvesting back into the business. When expressed as a percentage of total earnings, it is also called [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp) and is equal to (1 - [dividend payout ratio](https://www.investopedia.com/terms/d/dividendpayoutratio.asp)).
+By definition, retained earnings are the cumulative net earnings or profits of a company after accounting for dividend payments. It is also called earnings surplus and represents the reserve money, which is available to the company management for reinvesting back into the business. When expressed as a percentage of total earnings, it is also called [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp) and is equal to (1 - [[dividend payout ratio]](https://www.investopedia.com/terms/d/dividendpayoutratio.asp)).
 
 While the last option of debt repayment also leads to the money going out, it still has an impact on the business accounts, like saving future interest payments, which qualifies it for inclusion in retained earnings.
 
@@ -93,7 +93,7 @@ The difference between total EPS and total dividend gives the net earnings retai
 
 If the company had not retained this money and instead taken an interest-bearing loan, the value generated would have been less owing to the outgoing interest payment. RE offers free capital to finance projects allowing for efficient value creation by profitable companies.
 
-A look at a similar calculation for another stock, Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)), indicates that over the five-year period between January 2013 and January 2018, the [mature firm's](https://www.investopedia.com/terms/m/mature-firm.asp) stock price rose from $58.61 to $105.88, and net earnings retained were $12.36 per share.3 The change in market value with respect to retained earnings comes to ($105.88 - $58.61) / $12.36 = 3.824, which indicates that Walmart generated more than triple the market value for each dollar of retained earnings.
+A look at a similar calculation for another stock, Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)), indicates that over the five-year period between January 2013 and January 2018, the [[mature firm's]](https://www.investopedia.com/terms/m/mature-firm.asp) stock price rose from $58.61 to $105.88, and net earnings retained were $12.36 per share.3 The change in market value with respect to retained earnings comes to ($105.88 - $58.61) / $12.36 = 3.824, which indicates that Walmart generated more than triple the market value for each dollar of retained earnings.
 
 ### Value Created
 
@@ -107,9 +107,9 @@ Similarly, the iPhone maker, whose fiscal year ends in September, had $98.33 bil
 
 The retained earnings are calculated by adding net income to (or subtracting net losses from) the previous term’s retained earnings and then subtracting any net dividend(s) paid to the shareholders.
 
-The figure is calculated at the end of each accounting period (quarterly/annually.) As the formula suggests, retained earnings are dependent on the corresponding figure of the previous term. The resultant number may either be positive or negative, depending upon the [net income](https://www.investopedia.com/terms/n/netincome.asp) or loss generated by the company.
+The figure is calculated at the end of each accounting period (quarterly/annually.) As the formula suggests, retained earnings are dependent on the corresponding figure of the previous term. The resultant number may either be positive or negative, depending upon the [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or loss generated by the company.
 
-Alternatively, the company paying large dividends whose nets exceed the other figures can also lead to retained earnings going negative. Any item that impacts net income (or net loss) will impact the retained earnings. Such items include sales revenue, [cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp), depreciation, and necessary [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp).
+Alternatively, the company paying large dividends whose nets exceed the other figures can also lead to retained earnings going negative. Any item that impacts net income (or net loss) will impact the retained earnings. Such items include sales revenue, [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp), depreciation, and necessary [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp).
 
 ## Frequently Asked Questions
 

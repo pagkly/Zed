@@ -16,11 +16,11 @@ author: Carol M. Kopp
 Understanding Contract Provisions
 ## What Is a Contract Provision?
 
-A contract provision is a stipulation within a [contract](https://www.investopedia.com/terms/c/contract-theory.asp), legal document, or a law. A contract provision often requires action by a specific date or within a specified period of time. Contract provisions are intended to protect the interests of one or both parties in a contract.
+A contract provision is a stipulation within a [[contract]](https://www.investopedia.com/terms/c/contract-theory.asp), legal document, or a law. A contract provision often requires action by a specific date or within a specified period of time. Contract provisions are intended to protect the interests of one or both parties in a contract.
 
 ## How a Contract Provision Works
 
-Contract provisions can be found in a country's laws, in [loan](https://www.investopedia.com/terms/l/loan.asp) documents, and in contract agreements. They also can be found in the fine print accompanying purchases of some stocks.
+Contract provisions can be found in a country's laws, in [[loan]](https://www.investopedia.com/terms/l/loan.asp) documents, and in contract agreements. They also can be found in the fine print accompanying purchases of some stocks.
 
 ### Key Takeaways
 
@@ -42,8 +42,8 @@ This practice of sunsetting has its parallel in business. For example, a sunset 
 
 ## Example of a Contract Provision
 
-One of the most familiar uses of a contract provision is a bond’s [call provision](https://www.investopedia.com/terms/c/callprovision.asp). A bond's call provision refers to a specific date; after this date, the company may recall and retire the bond. The bond investor can turn it in for payment of the face amount (or the face amount plus a premium).
+One of the most familiar uses of a contract provision is a bond’s [[call provision]](https://www.investopedia.com/terms/c/callprovision.asp). A bond's call provision refers to a specific date; after this date, the company may recall and retire the bond. The bond investor can turn it in for payment of the face amount (or the face amount plus a premium).
 
-For example, a 12-year bond issue can be called after five years. That first five-year period has a [hard call protection](https://www.investopedia.com/terms/h/hardcallprotection.asp). Investors are guaranteed to earn interest until at least the first call date. When an investor buys a bond, the [broker](https://www.investopedia.com/terms/b/broker.asp) typically provides the yield to call as well as the yield to maturity. These two yields show the bond’s investment potential.
+For example, a 12-year bond issue can be called after five years. That first five-year period has a [[hard call protection]](https://www.investopedia.com/terms/h/hardcallprotection.asp). Investors are guaranteed to earn interest until at least the first call date. When an investor buys a bond, the [[broker]](https://www.investopedia.com/terms/b/broker.asp) typically provides the yield to call as well as the yield to maturity. These two yields show the bond’s investment potential.
 
 If a bond has a soft call provision, the procedure will go into effect after the hard call provision period passes. Soft call protection is typically a premium to face value that the issuer pays for calling the bond before maturity. For example, after the call date is reached, the issuer might pay a 3% premium for calling the bonds for the next year, a 2% premium the following year, and a 1% premium for calling the bonds more than two years after the hard call expires.

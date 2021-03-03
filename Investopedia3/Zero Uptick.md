@@ -16,15 +16,15 @@ author: Will Kenton
 Zero Uptick
 ## DEFINITION of Zero Uptick
 
-Zero uptick is a transaction executed at the same price as the trade immediately preceding it, but at a price higher than the transaction before that. For example, if shares are bought and sold at $47, followed by $48 and $48, the last trade at $48 is considered to be a zero uptick. This distinction can be important for [short sellers](https://www.investopedia.com/terms/s/shortselling.asp) trying to avoid shorting an ascending stock. Also known as a zero-plus tick.
+Zero uptick is a transaction executed at the same price as the trade immediately preceding it, but at a price higher than the transaction before that. For example, if shares are bought and sold at $47, followed by $48 and $48, the last trade at $48 is considered to be a zero uptick. This distinction can be important for [[short sellers]](https://www.investopedia.com/terms/s/shortselling.asp) trying to avoid shorting an ascending stock. Also known as a zero-plus tick.
 
 ## BREAKING DOWN Zero Uptick
 
-The technique of shorting on a zero uptick is not applicable to all investment markets, due to various rules and regulations prohibiting or restricting such transactions. The [Forex](https://www.investopedia.com/terms/f/forex.asp) of foreign exchange market, which has limited restrictions on shorting, is among the markets in which the technique is more popular.
+The technique of shorting on a zero uptick is not applicable to all investment markets, due to various rules and regulations prohibiting or restricting such transactions. The [[Forex]](https://www.investopedia.com/terms/f/forex.asp) of foreign exchange market, which has limited restrictions on shorting, is among the markets in which the technique is more popular.
 
 ## Uptick Rules
 
-The Uptick Rule (also known as the "plus tick rule") is a former law established by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) that requires every short sale transaction to be entered at a higher price than the previous trade. This rule was introduced in the Securities Exchange Act of 1934 as Rule 10a-1 and implemented in 1938. It prevents short sellers from adding to the downward momentum of an asset already experiencing sharp declines.
+The Uptick Rule (also known as the "plus tick rule") is a former law established by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) that requires every short sale transaction to be entered at a higher price than the previous trade. This rule was introduced in the Securities Exchange Act of 1934 as Rule 10a-1 and implemented in 1938. It prevents short sellers from adding to the downward momentum of an asset already experiencing sharp declines.
 
 By entering a short sale order with a price above the current bid, a short seller ensures their order is filled on an uptick. The uptick rule is disregarded when trading some types of financial instruments such as futures, single stock futures, currencies or market ETFs such as the QQQQ or SPDRs. These instruments can be shorted on a [downtick](https://www.investopedia.com/terms/d/downtick.asp) because they are highly liquid and have enough buyers willing to enter into a [long position](https://www.investopedia.com/terms/l/long.asp), ensuring that the price will rarely be driven to unjustifiably low levels.
 

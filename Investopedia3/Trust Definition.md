@@ -16,7 +16,7 @@ author: Julia Kagan
 Trust Definition
 ## What is a Trust?
 
-A trust is a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) relationship in which one party, known as a trustor, gives another party, the trustee, the right to hold title to [property or assets](https://www.investopedia.com/terms/t/trust-property.asp) for the benefit of a third party, the beneficiary. Trusts are established to provide legal protection for the trustor’s assets, to make sure those assets are distributed according to the wishes of the trustor, and to save time, reduce paperwork and, in some cases, avoid or reduce inheritance or estate taxes. In finance, a trust can also be a type of [closed-end fund](https://www.investopedia.com/terms/c/closed-endinvestment.asp) built as a public limited company.
+A trust is a [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) relationship in which one party, known as a trustor, gives another party, the trustee, the right to hold title to [[property or assets]](https://www.investopedia.com/terms/t/trust-property.asp) for the benefit of a third party, the beneficiary. Trusts are established to provide legal protection for the trustor’s assets, to make sure those assets are distributed according to the wishes of the trustor, and to save time, reduce paperwork and, in some cases, avoid or reduce inheritance or estate taxes. In finance, a trust can also be a type of [[closed-end fund]](https://www.investopedia.com/terms/c/closed-endinvestment.asp) built as a public limited company.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A trust is a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) rel
 
 ## Understanding Trusts
 
-Trusts are created by settlors (an individual along with his or her lawyer) who decide how to transfer parts or all of their assets to [trustees](https://www.investopedia.com/terms/t/trustee.asp). These trustees hold on to the assets for the beneficiaries of the trust. The rules of a trust depend on the terms on which it was built. In some areas, it is possible for older beneficiaries to become trustees. For example, in some jurisdictions, the grantor can be a lifetime [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp) and a trustee at the same time.
+Trusts are created by settlors (an individual along with his or her lawyer) who decide how to transfer parts or all of their assets to [[trustees]](https://www.investopedia.com/terms/t/trustee.asp). These trustees hold on to the assets for the beneficiaries of the trust. The rules of a trust depend on the terms on which it was built. In some areas, it is possible for older beneficiaries to become trustees. For example, in some jurisdictions, the grantor can be a lifetime [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp) and a trustee at the same time.
 
 A trust can be used to determine how a person’s money should be managed and distributed while that person is alive, or after their death. A trust helps avoid taxes and probate. It can protect assets from creditors, and it can dictate the terms of an inheritance for beneficiaries. The disadvantages of trusts are that they require time and money to create, and they cannot be easily revoked.
 
@@ -38,15 +38,15 @@ Although there are many different types of trusts, each fits into one or more of
 
 ### Living or Testamentary
 
-A [living trust](https://www.investopedia.com/terms/l/living-trust.asp) – also called an [inter-vivos trust](https://www.investopedia.com/terms/i/intervivostrust.asp) – is a written document in which an individual's assets are provided as a trust for the individual's use and benefit during his lifetime. These assets are transferred to his beneficiaries at the time of the individual's death. The individual has a successor trustee who is in charge of transferring the assets.
+A [[living trust]](https://www.investopedia.com/terms/l/living-trust.asp) – also called an [[inter-vivos trust]](https://www.investopedia.com/terms/i/intervivostrust.asp) – is a written document in which an individual's assets are provided as a trust for the individual's use and benefit during his lifetime. These assets are transferred to his beneficiaries at the time of the individual's death. The individual has a successor trustee who is in charge of transferring the assets.
 
-A [testamentary trust](https://www.investopedia.com/terms/t/testamentarytrust.asp), also called a will trust, specifies how the assets of an individual are designated after the individual's death. 
+A [[testamentary trust]](https://www.investopedia.com/terms/t/testamentarytrust.asp), also called a will trust, specifies how the assets of an individual are designated after the individual's death. 
 
 ### Revocable or Irrevocable
 
-A [revocable trust](https://www.investopedia.com/terms/r/revocabletrust.asp) can be changed or terminated by the trustor during his lifetime. An [irrevocable trust](https://www.investopedia.com/terms/i/irrevocabletrust.asp), as the name implies, is one the trustor cannot change once it's established, or one that becomes irrevocable upon his death.
+A [[revocable trust]](https://www.investopedia.com/terms/r/revocabletrust.asp) can be changed or terminated by the trustor during his lifetime. An [[irrevocable trust]](https://www.investopedia.com/terms/i/irrevocabletrust.asp), as the name implies, is one the trustor cannot change once it's established, or one that becomes irrevocable upon his death.
 
-Living trusts can be revocable or irrevocable. Testamentary trusts can only be irrevocable. An irrevocable trust is usually more desirable. The fact that it is unalterable, containing assets that have been permanently moved out of the [trustor's](https://www.investopedia.com/terms/t/trustor.asp) possession, is what allows estate taxes to be minimized or avoided altogether.
+Living trusts can be revocable or irrevocable. Testamentary trusts can only be irrevocable. An irrevocable trust is usually more desirable. The fact that it is unalterable, containing assets that have been permanently moved out of the [[trustor's]](https://www.investopedia.com/terms/t/trustor.asp) possession, is what allows estate taxes to be minimized or avoided altogether.
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -64,15 +64,15 @@ Though they seem geared primarily toward high net worth individuals and families
 
 Some individuals use trusts simply for privacy. The terms of a will may be public in some jurisdictions. The same conditions of a will may apply through a trust, and individuals who don't want their wills publicly posted opt for trusts instead.
 
-Trusts can also be used for [estate planning](https://www.investopedia.com/terms/e/estateplanning.asp). Typically, the assets of a deceased individual are passed to the spouse and then equally divided to the surviving children. However, children who are under the legal age of 18 need to have trustees. The trustees only have control over the assets until the children reach adulthood.
+Trusts can also be used for [[estate planning]](https://www.investopedia.com/terms/e/estateplanning.asp). Typically, the assets of a deceased individual are passed to the spouse and then equally divided to the surviving children. However, children who are under the legal age of 18 need to have trustees. The trustees only have control over the assets until the children reach adulthood.
 
 Trusts can also be used for tax planning. In some cases, the tax consequences provided by using trusts are lower compared to other alternatives. As such, the usage of trusts has become a staple in tax planning for individuals and corporations.
 
-Assets in a trust benefit from a [step-up in basis](https://www.investopedia.com/terms/s/stepupinbasis.asp), which can mean a substantial tax savings for the heirs who eventually inherit from the trust. By contrast, assets that are simply given away during the owner’s lifetime typically carry his or her original [cost basis](https://www.investopedia.com/terms/c/costbasis.asp).
+Assets in a trust benefit from a [[step-up in basis]](https://www.investopedia.com/terms/s/stepupinbasis.asp), which can mean a substantial tax savings for the heirs who eventually inherit from the trust. By contrast, assets that are simply given away during the owner’s lifetime typically carry his or her original [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp).
 
 Here's how the calculation works: Shares of stock that cost $5,000 when originally purchased, and that are worth $10,000 when the beneficiary of a trust inherits them, would have a basis of $10,000. Had the same beneficiary received them as a gift when the original owner was still alive, their basis would be $5,000. Later, if the shares were sold for $12,000, the person who inherited them from a trust would owe tax on a $2,000 gain, while someone who was given the shares would owe tax on a gain of $7,000. (Note that the step-up in basis applies to inherited assets in general, not just those that involve a trust.)
 
-Finally, a person may create a trust to qualify for [Medicaid](https://www.investopedia.com/terms/m/medicare.asp) and still preserve at least a portion of their wealth.
+Finally, a person may create a trust to qualify for [[Medicaid]](https://www.investopedia.com/terms/m/medicare.asp) and still preserve at least a portion of their wealth.
 
 ## Types of Trust Funds
 
@@ -92,12 +92,12 @@ Below is a list of some of the more common types of trust funds:
 
 **A Spendthrift Trust:** This trust protects the assets a person places in the trust from being claimed by creditors. This trust also allows for management of the assets by an independent trustee and forbids the beneficiary from selling his interest in the trust.
 
-**Charitable Trust:** This trust benefits a particular charity or non-profit organization. Normally, a charitable trust is established as part of an estate plan and helps lower or avoid estate and gift taxes. A [charitable remainder trust](https://www.investopedia.com/terms/c/charitableremaindertrust.asp), funded during a person's lifetime, disperses income to the designated beneficiaries (like children or a spouse) for a specified period of time, and then donates the remaining assets to the charity.
+**Charitable Trust:** This trust benefits a particular charity or non-profit organization. Normally, a charitable trust is established as part of an estate plan and helps lower or avoid estate and gift taxes. A [[charitable remainder trust]](https://www.investopedia.com/terms/c/charitableremaindertrust.asp), funded during a person's lifetime, disperses income to the designated beneficiaries (like children or a spouse) for a specified period of time, and then donates the remaining assets to the charity.
 
 **[Special Needs Trust](https://www.investopedia.com/terms/s/special-needs-trust.asp):** This trust is meant for a dependent who receives government benefits, such as Social Security disability benefits. Setting up the trust enables the disabled person to receive income without affecting or forfeiting the government payments.
 
 **[Blind Trust](https://www.investopedia.com/terms/b/blindtrust.asp):** This trust provides for the trustees to handle the assets of the trust without the knowledge of the beneficiaries. This could be useful if the beneficiary needs to avoid conflicts of interest.
 
-**Totten Trust:** Also known as a [payable-on-death](https://www.investopedia.com/terms/p/payableondeath.asp) account, this trust is created during the lifetime of the trustor, who also acts as the trustee. It's generally used for bank accounts (physical property cannot be put into it). The big advantage is that assets in the trust avoid probate upon the trustor’s death. Often called a “poor man’s trust," this variety does not require a written document and often costs nothing to set up. It can be established simply by having the title on the account include identifying language such as "In Trust For," "Payable on Death To" or "As Trustee For."
+**Totten Trust:** Also known as a [[payable-on-death]](https://www.investopedia.com/terms/p/payableondeath.asp) account, this trust is created during the lifetime of the trustor, who also acts as the trustee. It's generally used for bank accounts (physical property cannot be put into it). The big advantage is that assets in the trust avoid probate upon the trustor’s death. Often called a “poor man’s trust," this variety does not require a written document and often costs nothing to set up. It can be established simply by having the title on the account include identifying language such as "In Trust For," "Payable on Death To" or "As Trustee For."
 
-Except, perhaps, for the Totten trust, trusts are complex vehicles. Setting a trust up properly typically requires expert advice from a trust attorney or a [trust company](https://www.investopedia.com/terms/t/trustcompany.asp), which sets up trust funds as part of a wide range of estate- and asset-management services.
+Except, perhaps, for the Totten trust, trusts are complex vehicles. Setting a trust up properly typically requires expert advice from a trust attorney or a [[trust company]](https://www.investopedia.com/terms/t/trustcompany.asp), which sets up trust funds as part of a wide range of estate- and asset-management services.

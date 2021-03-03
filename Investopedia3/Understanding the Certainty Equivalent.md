@@ -26,7 +26,7 @@ The certainty equivalent is a guaranteed return that someone would accept now, r
 
 Investments must pay a risk premium to compensate investors for the possibility that they may not get their money back and the higher the risk, the higher premium an investor expects over the average return.
 
-If an investor has a choice between a U.S. [government bond](https://www.investopedia.com/terms/g/government-bond.asp) paying 3% interest and a corporate bond paying 8% interest and he chooses the government bond, the payoff differential is the certainty equivalent. The corporation would need to offer this particular investor a potential return of more than 8% on its bonds to convince him to buy.
+If an investor has a choice between a U.S. [[government bond]](https://www.investopedia.com/terms/g/government-bond.asp) paying 3% interest and a corporate bond paying 8% interest and he chooses the government bond, the payoff differential is the certainty equivalent. The corporation would need to offer this particular investor a potential return of more than 8% on its bonds to convince him to buy.
 
 A company seeking investors can use the certainty equivalent as a basis for determining how much more it needs to pay to convince investors to consider the riskier option. The certainty equivalent varies because each investor has a unique risk tolerance.
 
@@ -34,7 +34,7 @@ The term is also used in gambling, to represent the amount of payoff someone wou
 
 ## Example of How to Use the Certainty Equivalent
 
-The idea of certainty equivalent can be applied to cash flow from an investment. The certainty equivalent cash flow is the [risk-free](https://www.investopedia.com/terms/r/risk-freereturn.asp) cash flow that an investor or manager considers equal to a different expected cash flow which is higher, but also riskier. The formula for calculating the certainty equivalent cash flow is as follows:
+The idea of certainty equivalent can be applied to cash flow from an investment. The certainty equivalent cash flow is the [[risk-free]](https://www.investopedia.com/terms/r/risk-freereturn.asp) cash flow that an investor or manager considers equal to a different expected cash flow which is higher, but also riskier. The formula for calculating the certainty equivalent cash flow is as follows:
 
 Certainty Equivalent Cash Flow\=Expected Cash Flow(1 + Risk Premium)\\text{Certainty Equivalent Cash Flow} = \\frac{\\text{Expected Cash Flow}}{\\left(1\\ +\\ \\text{Risk Premium} \\right )}
 
@@ -50,7 +50,7 @@ Based on these probabilities, the expected cash flow of this scenario is:
 
 Expected Cash Flow\=0.3×$7.5 Million+0.5×$15.5 Million+0.2×$4 Million\=$10.8 Million\\begin{aligned} \\text{Expected Cash Flow} &= 0.3\\times\\$7.5\\text{ Million}\\\\&\\quad + 0.5\\times \\$15.5\\text{ Million}\\\\&\\quad + 0.2\\times\\$4\\text{ Million}\\\\ &=\\$10.8 \\text{ Million} \\end{aligned}
 
-Assume the risk-adjusted [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) used to discount this option is 12% and the risk-free rate is 3%. Thus, the risk premium is (12% - 3%), or 9%. Using the above equation, the certainty equivalent cash flow is:
+Assume the risk-adjusted [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) used to discount this option is 12% and the risk-free rate is 3%. Thus, the risk premium is (12% - 3%), or 9%. Using the above equation, the certainty equivalent cash flow is:
 
 Certainty Equivalent Cash Flow\=$10.8 Million(1+0.09)\=$9.908 Million\\begin{aligned} \\text{Certainty Equivalent Cash Flow} &= \\frac{\\$10.8 \\text{ Million}}{\\left(1 + 0.09 \\right )} \\\\ &=\\$9.908 \\text{ Million} \\end{aligned}
 

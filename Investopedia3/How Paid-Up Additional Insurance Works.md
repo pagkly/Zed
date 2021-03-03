@@ -16,7 +16,7 @@ author: Adam Hayes
 How Paid-Up Additional Insurance Works
 ## What Is Paid-Up Additional Insurance?
 
-Paid-up additional insurance is additional [whole life insurance](https://www.investopedia.com/terms/w/wholelife.asp) coverage that a policyholder purchases using the policy’s dividends instead of premiums. Paid-up additional insurance is available as a [rider](https://www.investopedia.com/terms/r/rider.asp) on a whole life policy. It lets policyholders increase their [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp) and living benefit by increasing the [policy’s cash value](https://www.investopedia.com/terms/a/add-to-cash-value-option.asp).
+Paid-up additional insurance is additional [[whole life insurance]](https://www.investopedia.com/terms/w/wholelife.asp) coverage that a policyholder purchases using the policy’s dividends instead of premiums. Paid-up additional insurance is available as a [[rider]](https://www.investopedia.com/terms/r/rider.asp) on a whole life policy. It lets policyholders increase their [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp) and living benefit by increasing the [[policy’s cash value]](https://www.investopedia.com/terms/a/add-to-cash-value-option.asp).
 
 Paid-up additions themselves then earn dividends, and the value continues to compound indefinitely over time. The policyholder can also surrender paid-up additions for their cash value or take a loan against them.
 
@@ -28,11 +28,11 @@ Paid-up additions themselves then earn dividends, and the value continues to c
 
 ## Understanding Paid-Up Additional Insurance
 
-The cash value of paid-up additional insurance can increase over time, and these increases are tax deferred. Another benefit is that the policyholder can use them to increase coverage without going through [medical underwriting](https://www.investopedia.com/terms/m/medical-underwriting.asp). This is not only convenient but also extra value for a policyholder whose health has declined since the policy was originally issued and who can’t increase insurance coverage through other means.1
+The cash value of paid-up additional insurance can increase over time, and these increases are tax deferred. Another benefit is that the policyholder can use them to increase coverage without going through [[medical underwriting]](https://www.investopedia.com/terms/m/medical-underwriting.asp). This is not only convenient but also extra value for a policyholder whose health has declined since the policy was originally issued and who can’t increase insurance coverage through other means.1
 
-Even without medical underwriting, paid-up additional insurance may have a higher premium than the base policy, because the price [depends on a policyholder’s age at the time](https://www.investopedia.com/articles/fa-profession/091816/10-best-companies-obtaining-life-insurance-over-50-met-pru.asp) they purchase the extra insurance. Some policies, such as those issued by the Veterans Administration, have no premiums for paid-up additions.
+Even without medical underwriting, paid-up additional insurance may have a higher premium than the base policy, because the price [[depends on a policyholder’s age at the time]](https://www.investopedia.com/articles/fa-profession/091816/10-best-companies-obtaining-life-insurance-over-50-met-pru.asp) they purchase the extra insurance. Some policies, such as those issued by the Veterans Administration, have no premiums for paid-up additions.
 
-If you take two otherwise identical whole life insurance policies with the same annual premium, but one has a paid-up rider and one doesn’t, the one with the rider will have a higher guaranteed net cash value sooner than the one without.2 However, a policy that allows for paid-up additions may initially have a lower cash value and much lower death benefit. It will take many years, possibly decades, [for the two policies to have similar death benefits](https://www.investopedia.com/articles/personal-finance/102015/how-compare-permanent-life-insurance-policies.asp).
+If you take two otherwise identical whole life insurance policies with the same annual premium, but one has a paid-up rider and one doesn’t, the one with the rider will have a higher guaranteed net cash value sooner than the one without.2 However, a policy that allows for paid-up additions may initially have a lower cash value and much lower death benefit. It will take many years, possibly decades, [[for the two policies to have similar death benefits]](https://www.investopedia.com/articles/personal-finance/102015/how-compare-permanent-life-insurance-policies.asp).
 
 A paid-up additional insurance rider must be structured into the policy when you purchase it. Some companies may allow you to add it later, but health, age, and other factors could make it more difficult. Policies for paid-up additional insurance can vary among insurance companies. For some, the paid-up additions rider allows you to contribute as much or as little as you want from year to year. Other companies stipulate that contributions remain at consistent levels, or you might risk losing the rider and be forced to reapply for it in the future.
 
@@ -46,7 +46,7 @@ Only member-owned mutual insurance companies issue dividends. Dividends are no
 
 ### Reduced Paid-Up Insurance
 
-Reduced paid-up insurance is a [nonforfeiture option](https://www.investopedia.com/terms/n/nonforfeiture-clause.asp) that allows the policy owner to receive a lower amount of fully paid whole life insurance, excluding commissions and expenses. The attained age of the insured will determine the face value of the new policy. As a result, the death benefit is smaller than that of the lapsed policy.
+Reduced paid-up insurance is a [[nonforfeiture option]](https://www.investopedia.com/terms/n/nonforfeiture-clause.asp) that allows the policy owner to receive a lower amount of fully paid whole life insurance, excluding commissions and expenses. The attained age of the insured will determine the face value of the new policy. As a result, the death benefit is smaller than that of the lapsed policy.
 
 ### Paying Premiums With Cash Value
 

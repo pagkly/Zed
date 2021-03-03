@@ -16,7 +16,7 @@ author: Julia Kagan
 How Depository Transfer Checks Work
 ## What Is a Depository Transfer Check?
 
-A depository transfer check (DTC) is used by a designated collection bank to deposit the daily receipts of a corporation from multiple locations. Depository transfer checks are a way to ensure better [cash management](https://www.investopedia.com/terms/c/cash-management.asp) for companies, which collect cash at multiple locations.
+A depository transfer check (DTC) is used by a designated collection bank to deposit the daily receipts of a corporation from multiple locations. Depository transfer checks are a way to ensure better [[cash management]](https://www.investopedia.com/terms/c/cash-management.asp) for companies, which collect cash at multiple locations.
 
 Data is transferred by a third-party information service from each location, from which DTCs are created for each deposit location. This information is then entered into the check-processing system at the destination bank for deposit.
 
@@ -39,7 +39,7 @@ DTCs are not to be confused with overnight deposits. Businesses are given a key 
 
 ## DTCs vs. Automatic Clearing House (ACH) Systems
 
-DTC-based systems have slowly been replaced by [Automatic Clearing House (ACH)](https://www.investopedia.com/terms/a/ach.asp). ACH systems are electronic funds-transfer systems that generally deal with payroll, direct deposit, tax refunds, consumer bills, and other payment systems in the United States. Roughly 14.4 billion deposits and 10.3 billion credits were made via ACH in 2019, which are considered to be faster, cheaper, and more efficient.1
+DTC-based systems have slowly been replaced by [[Automatic Clearing House (ACH)]](https://www.investopedia.com/terms/a/ach.asp). ACH systems are electronic funds-transfer systems that generally deal with payroll, direct deposit, tax refunds, consumer bills, and other payment systems in the United States. Roughly 14.4 billion deposits and 10.3 billion credits were made via ACH in 2019, which are considered to be faster, cheaper, and more efficient.1
 
 Firms that are not part of an ACH network must still use DTCs.
 
@@ -49,4 +49,4 @@ As noted above, depository transfer checks enable companies to better manage the
 
 For example, Goldman Sachs has a robust treasury team to ensure its cash is managed in a manner that maintains its value and mitigates several key risks, related to changes in interest rates, credit, currency, commodities, and operations. Cash management is critical to ensuring a company's financial stability and solvency or its ability to meet its long-term financial obligations.
 
-DTCs and ACHs can help some organizations track cash inflows. These systems often help organize [accounts receivable (AR)](https://www.investopedia.com/video/play/accounts-receivable/), along with collection rates.
+DTCs and ACHs can help some organizations track cash inflows. These systems often help organize [[accounts receivable (AR)]](https://www.investopedia.com/video/play/accounts-receivable/), along with collection rates.

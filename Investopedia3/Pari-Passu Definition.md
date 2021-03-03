@@ -16,9 +16,9 @@ author: Adam Hayes
 Pari-Passu Definition
 ## What Is Pari-Passu?
 
-Pari-passu is a Latin phrase meaning "equal footing" that describes situations where two or more assets, securities, [creditors](https://www.investopedia.com/terms/c/creditor.asp), or obligations are equally managed without preference. An example of pari-passu occurs during [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) proceedings: When the court reaches a verdict, the court regards all creditors equally, and the [trustee](https://www.investopedia.com/terms/t/trustee.asp) will repay them the same fractional amount as other creditors and at the same time.
+Pari-passu is a Latin phrase meaning "equal footing" that describes situations where two or more assets, securities, [[creditors]](https://www.investopedia.com/terms/c/creditor.asp), or obligations are equally managed without preference. An example of pari-passu occurs during [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) proceedings: When the court reaches a verdict, the court regards all creditors equally, and the [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) will repay them the same fractional amount as other creditors and at the same time.
 
-Pari-passu may describe certain clauses within a variety of financial vehicles, such as loans and [bonds](https://www.investopedia.com/terms/b/bond.asp), which are debt instruments issued by companies to raise cash. Often, these clauses are in place to ensure the associated financial product is functioning as an equal to all similar others.
+Pari-passu may describe certain clauses within a variety of financial vehicles, such as loans and [[bonds]](https://www.investopedia.com/terms/b/bond.asp), which are debt instruments issued by companies to raise cash. Often, these clauses are in place to ensure the associated financial product is functioning as an equal to all similar others.
 
 ### Key Takeaways
 
@@ -29,15 +29,15 @@ Pari-passu may describe certain clauses within a variety of financial vehicles,
 
 ## How Pari-Passu Works
 
-In finance, the term pari-passu can refer to [loans](https://www.investopedia.com/terms/l/loan.asp), bonds, or [classes of shares](https://www.investopedia.com/terms/c/class.asp) that have equal rights of payment or equal seniority. Pari-passu can describe any instance where two or more items can claim equal rights as the other.
+In finance, the term pari-passu can refer to [[loans]](https://www.investopedia.com/terms/l/loan.asp), bonds, or [[classes of shares]](https://www.investopedia.com/terms/c/class.asp) that have equal rights of payment or equal seniority. Pari-passu can describe any instance where two or more items can claim equal rights as the other.
 
 ### Equity Shares
 
-Within the marketplace, all new [equity](https://www.investopedia.com/terms/e/equity.asp) shares (called a [secondary offering](https://www.investopedia.com/terms/s/secondaryoffering.asp)) have equal rights with existing shares or those that were previously issued. In that sense, the shares are pari-passu. Pari-passu can apply to common stock shares, for example, so that each [shareholder](https://www.investopedia.com/terms/s/shareholder.asp) has equal rights to claims for [dividends](https://www.investopedia.com/terms/d/dividend.asp), [voting rights](https://www.investopedia.com/terms/v/votingright.asp), and the [liquidation](https://www.investopedia.com/terms/l/liquidate.asp) of assets.
+Within the marketplace, all new [[equity]](https://www.investopedia.com/terms/e/equity.asp) shares (called a [[secondary offering]](https://www.investopedia.com/terms/s/secondaryoffering.asp)) have equal rights with existing shares or those that were previously issued. In that sense, the shares are pari-passu. Pari-passu can apply to common stock shares, for example, so that each [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) has equal rights to claims for [[dividends]](https://www.investopedia.com/terms/d/dividend.asp), [[voting rights]](https://www.investopedia.com/terms/v/votingright.asp), and the [[liquidation]](https://www.investopedia.com/terms/l/liquidate.asp) of assets.
 
 ### Creditors
 
-However, pari-passu does not apply to creditors such as banks. If a company has debt or loans outstanding, there's a pecking order in which certain creditors are repaid first in the event of [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) and liquidation of the company's assets. As a result, pari-passu would not apply to creditors and shareholders since the creditors would be paid before the shareholders.
+However, pari-passu does not apply to creditors such as banks. If a company has debt or loans outstanding, there's a pecking order in which certain creditors are repaid first in the event of [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) and liquidation of the company's assets. As a result, pari-passu would not apply to creditors and shareholders since the creditors would be paid before the shareholders.
 
 ### Wills and Trusts
 
@@ -49,9 +49,9 @@ Often, identical items will be pari-passu, coming with the same benefits and cos
 
 ## Pari-Passu and Unsecured Debts
 
-Since an asset backs secured debts, they are often not fully equal to the other obligations held by the borrower. Since there is no asset supporting unsecured debts, there are greater instances of borrower [default](https://www.investopedia.com/terms/d/default2.asp) or bankruptcy. Further, a provider of unsecured financing may enact clauses that prevent a borrower from taking part in certain activities, such as the promising of assets for another debt to keep a position with regard to repayment.
+Since an asset backs secured debts, they are often not fully equal to the other obligations held by the borrower. Since there is no asset supporting unsecured debts, there are greater instances of borrower [[default]](https://www.investopedia.com/terms/d/default2.asp) or bankruptcy. Further, a provider of unsecured financing may enact clauses that prevent a borrower from taking part in certain activities, such as the promising of assets for another debt to keep a position with regard to repayment.
 
-A [parity bond](https://www.investopedia.com/terms/p/paritybond.asp) refers to two or more bond issues with equal rights of payment or equal seniority to one another. In other words, a parity bond is an issued bond with equal rights to a claim as other bonds already issued. For example, unsecured bonds have equal rights in that coupons may be claimed without any particular bond having priority over another. Therefore, unsecured bonds would be referred to as parity bonds with each other. Similarly, secured bonds are parity bonds with other [secured bonds](https://www.investopedia.com/terms/s/securedbond.asp).
+A [[parity bond]](https://www.investopedia.com/terms/p/paritybond.asp) refers to two or more bond issues with equal rights of payment or equal seniority to one another. In other words, a parity bond is an issued bond with equal rights to a claim as other bonds already issued. For example, unsecured bonds have equal rights in that coupons may be claimed without any particular bond having priority over another. Therefore, unsecured bonds would be referred to as parity bonds with each other. Similarly, secured bonds are parity bonds with other [secured bonds](https://www.investopedia.com/terms/s/securedbond.asp).
 
 Pari-passu usually comes into play when dealing with unsecured debt obligations.
 

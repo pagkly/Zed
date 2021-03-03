@@ -16,9 +16,9 @@ author: Adam Hayes
 How Zero-One Integer Programming Works
 ## What Is Zero-One Integer Programming?
 
-Zero-one integer programming (which can also be written as '0-1' integer programming) is a mathematical method of using a series of binary functions; in particular, yes ('1') and no ('0') answers to arrive at a solution when there are two [mutually exclusive](https://www.investopedia.com/terms/m/mutuallyexclusive.asp) options.
+Zero-one integer programming (which can also be written as '0-1' integer programming) is a mathematical method of using a series of binary functions; in particular, yes ('1') and no ('0') answers to arrive at a solution when there are two [[mutually exclusive]](https://www.investopedia.com/terms/m/mutuallyexclusive.asp) options.
 
-In the world of finance, zero-one integer programming is often used to provide answers to [capital rationing problems](https://www.investopedia.com/terms/c/capitalrationing.asp), as well as to optimize investment returns and assist in planning, production, transportation, and with other issues.
+In the world of finance, zero-one integer programming is often used to provide answers to [[capital rationing problems]](https://www.investopedia.com/terms/c/capitalrationing.asp), as well as to optimize investment returns and assist in planning, production, transportation, and with other issues.
 
 ### Key Takeaways
 
@@ -34,8 +34,8 @@ Fundamentally, the most basic instructions executed by a computer are binary cod
 
 Of course, no human would be able to construct modern software programs by explicitly programming ones and zeros. Instead, human programmers must rely on various layers of abstraction that can allow them to articulate their commands in a format that is more intuitive to humans. Specifically, modern programmers issue commands in so-called “high-level languages”, which utilize intuitive syntax such as whole English words and sentences, as well as logical operators such as “And”, “Or”, and “Else” that are familiar to everyday usage.
 
-Ultimately, however, these high-level commands need to be translated into machine language. Rather than doing so manually, programmers rely on [assembly languages](https://www.investopedia.com/terms/a/assembly-language.asp) whose purpose is to automatically translate between these high-level and low-level languages.
+Ultimately, however, these high-level commands need to be translated into machine language. Rather than doing so manually, programmers rely on [[assembly languages]](https://www.investopedia.com/terms/a/assembly-language.asp) whose purpose is to automatically translate between these high-level and low-level languages.
 
 ## Real-World Example of Zero-One Integer Programming
 
-A simple example of how zero-one integer [programming](https://www.investopedia.com/terms/a/application-programming-interface.asp) might be used in capital rationing would be in determining the number of product development projects that can be completed by a company by a certain date or within a certain budget. For example, a number of variables for each project can be given values that ultimately result in a 1 (yes) or 0 (no) binary decision about whether or not to include the project in a budget. This can be helpful to companies that are unsure about a specific business decision and are looking for a straightforward way to assess the possibilities.
+A simple example of how zero-one integer [[programming]](https://www.investopedia.com/terms/a/application-programming-interface.asp) might be used in capital rationing would be in determining the number of product development projects that can be completed by a company by a certain date or within a certain budget. For example, a number of variables for each project can be given values that ultimately result in a 1 (yes) or 0 (no) binary decision about whether or not to include the project in a budget. This can be helpful to companies that are unsure about a specific business decision and are looking for a straightforward way to assess the possibilities.

@@ -27,7 +27,7 @@ The Organisation of Eastern Caribbean States (OECS) is an economic union compris
 
 ## Understanding Organisation of Eastern Caribbean States (OECS)
 
-Many of the countries and dependencies that participate in the Organisation of Eastern Caribbean States (OECS) operate under one official currency, the [Eastern Caribbean Dollar](https://www.investopedia.com/terms/x/xcd-eastern-caribbean-dollar.asp). The British Virgin Islands use the United States dollar, while Martinique, as an overseas department of France, uses the Euro. Geographically, these islands form a near-continuous archipelago across the Caribbean Sea, known as the Lesser Antilles.
+Many of the countries and dependencies that participate in the Organisation of Eastern Caribbean States (OECS) operate under one official currency, the [[Eastern Caribbean Dollar]](https://www.investopedia.com/terms/x/xcd-eastern-caribbean-dollar.asp). The British Virgin Islands use the United States dollar, while Martinique, as an overseas department of France, uses the Euro. Geographically, these islands form a near-continuous archipelago across the Caribbean Sea, known as the Lesser Antilles.
 
 ## Member States of the OECS
 

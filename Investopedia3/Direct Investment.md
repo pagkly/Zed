@@ -16,7 +16,7 @@ author: Will Kenton
 Direct Investment
 ## What Is Direct Investment?
 
-Direct investment is more commonly referred to as [foreign direct investment](https://www.investopedia.com/terms/f/fdi.asp) (FDI). FDI refers to an investment in a foreign business enterprise designed to acquire a controlling interest in the enterprise. The direct investment provides [capital](https://www.investopedia.com/terms/c/capital.asp) funding in exchange for an [equity](https://www.investopedia.com/terms/e/equity.asp) interest without the purchase of regular shares of a company's stock.
+Direct investment is more commonly referred to as [[foreign direct investment]](https://www.investopedia.com/terms/f/fdi.asp) (FDI). FDI refers to an investment in a foreign business enterprise designed to acquire a controlling interest in the enterprise. The direct investment provides [[capital]](https://www.investopedia.com/terms/c/capital.asp) funding in exchange for an [[equity]](https://www.investopedia.com/terms/e/equity.asp) interest without the purchase of regular shares of a company's stock.
 
 ### Key Takeaways:
 
@@ -28,9 +28,9 @@ Direct investment is more commonly referred to as [foreign direct investment](ht
 
 ## Understanding Direct Investment
 
-The purpose of FDI is to gain an equity interest sufficient to control a company. In some instances, it involves a company in one country opening its own business operations in another country. In other cases, direct investment involves acquiring control of existing assets of a business already operating in the foreign country. A direct investment can involve gaining a majority interest in a company or a [minority interest](https://www.investopedia.com/terms/m/minorityinterest.asp), but the interest acquired gives the investing party effective control.
+The purpose of FDI is to gain an equity interest sufficient to control a company. In some instances, it involves a company in one country opening its own business operations in another country. In other cases, direct investment involves acquiring control of existing assets of a business already operating in the foreign country. A direct investment can involve gaining a majority interest in a company or a [[minority interest]](https://www.investopedia.com/terms/m/minorityinterest.asp), but the interest acquired gives the investing party effective control.
 
-Direct investment is primarily distinguished from [portfolio investment](https://www.investopedia.com/terms/p/portfolio-investment.asp), the purchase of common or [preferred stock](https://www.investopedia.com/terms/p/preferredstock.asp) shares of a foreign company, and by the element of control that is sought.
+Direct investment is primarily distinguished from [[portfolio investment]](https://www.investopedia.com/terms/p/portfolio-investment.asp), the purchase of common or [[preferred stock]](https://www.investopedia.com/terms/p/preferredstock.asp) shares of a foreign company, and by the element of control that is sought.
 
 Control can come from sources other than an investment of capital; however, control of assets such as technology is considered only a critical input. In fact, FDI is frequently not a simple monetary transfer of ownership or controlling interest but can include complementary factors, such as organizational and management systems or technology.
 
@@ -38,10 +38,10 @@ Foreign direct investments can be made by individuals but are more commonly made
 
 ## Examples of Foreign Direct Investment
 
-Foreign direct investment takes many forms in practice but is generally classified as either a vertical, horizontal, or [conglomerate](https://www.investopedia.com/terms/c/conglomerate.asp) investment.
+Foreign direct investment takes many forms in practice but is generally classified as either a vertical, horizontal, or [[conglomerate]](https://www.investopedia.com/terms/c/conglomerate.asp) investment.
 
 For a vertical direct investment, the investor adds foreign activities to an existing business. An example is an American auto manufacturer that establishes dealerships or acquires a parts supply business in a foreign country.
 
-Horizontal direct investment is perhaps the most common form of direct investment. For horizontal investments, a business already existing in one country establishes the same business operations in a foreign country. A fast-food franchise based in the United States might open restaurant locations in China. Horizontal direct investment is also referred to as [green-field](https://www.investopedia.com/terms/g/greenfield.asp) entry into a foreign market.
+Horizontal direct investment is perhaps the most common form of direct investment. For horizontal investments, a business already existing in one country establishes the same business operations in a foreign country. A fast-food franchise based in the United States might open restaurant locations in China. Horizontal direct investment is also referred to as [[green-field]](https://www.investopedia.com/terms/g/greenfield.asp) entry into a foreign market.
 
 For a conglomerate-type direct investment, an existing company in one country adds an unrelated business operation in a foreign country. This is a particularly challenging form of direct investment since it requires simultaneously establishing a new business and establishing it in a foreign country. An example of conglomerate direct investment might be an insurance firm opening a resort park in a foreign country.

@@ -16,11 +16,11 @@ author: James Chen
 Short Put Definition
 ## What is a Short Put
 
-A short [put](https://www.investopedia.com/terms/p/put.asp) refers to when a trader opens an options trade by selling or [writing](https://www.investopedia.com/terms/w/writing-an-option.asp) a put option. The trader who buys the put option is [long](https://www.investopedia.com/terms/l/long.asp) that option, and the trader who wrote that option is [short](https://www.investopedia.com/terms/s/short.asp). The writer (short) of the put option receives the [premium](https://www.investopedia.com/terms/p/premium.asp) (option cost), and the profit on the trade is limited to that premium. 
+A short [[put]](https://www.investopedia.com/terms/p/put.asp) refers to when a trader opens an options trade by selling or [[writing]](https://www.investopedia.com/terms/w/writing-an-option.asp) a put option. The trader who buys the put option is [[long]](https://www.investopedia.com/terms/l/long.asp) that option, and the trader who wrote that option is [[short]](https://www.investopedia.com/terms/s/short.asp). The writer (short) of the put option receives the [[premium]](https://www.investopedia.com/terms/p/premium.asp) (option cost), and the profit on the trade is limited to that premium. 
 
 ## Basics of the Short Put
 
-A short put is also known as an uncovered put or a naked put. If an investor writes a put option, that investor is obligated to purchase shares of the underlying stock if the put option buyer [exercises](https://www.investopedia.com/terms/e/exercise.asp) the option. The short put holder could also face a substantial loss prior to the buyer exercising, or the option expiring, if the price of the underlying falls below the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) of the short put option. 
+A short put is also known as an uncovered put or a naked put. If an investor writes a put option, that investor is obligated to purchase shares of the underlying stock if the put option buyer [exercises](https://www.investopedia.com/terms/e/exercise.asp) the option. The short put holder could also face a substantial loss prior to the buyer exercising, or the option expiring, if the price of the underlying falls below the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) of the short put option. 
 
 ## Short Put Mechanics
 

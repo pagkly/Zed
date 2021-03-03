@@ -16,7 +16,7 @@ author: James Chen
 Equal Weight
 ## What Is Equal Weight?
 
-Equal weight is a type of weighting that gives the same weight, or importance, to each stock in a portfolio or index fund, and the smallest companies are given equal weight to the largest companies in an equal-weight [index fund](https://www.investopedia.com/terms/i/indexfund.asp) or portfolio. Equal weighting differs from the weighting method more commonly used by funds and portfolios in which stocks are [weighted](https://www.investopedia.com/terms/w/weighted.asp) based on their market [capitalizations](https://www.investopedia.com/terms/c/capitalization.asp). Equal-weighted index funds tend to have higher stock [turnover](https://www.investopedia.com/terms/t/turnover.asp) than market-cap weighted index funds, and as a result, they usually have higher trading costs.
+Equal weight is a type of weighting that gives the same weight, or importance, to each stock in a portfolio or index fund, and the smallest companies are given equal weight to the largest companies in an equal-weight [[index fund]](https://www.investopedia.com/terms/i/indexfund.asp) or portfolio. Equal weighting differs from the weighting method more commonly used by funds and portfolios in which stocks are [[weighted]](https://www.investopedia.com/terms/w/weighted.asp) based on their market [[capitalizations]](https://www.investopedia.com/terms/c/capitalization.asp). Equal-weighted index funds tend to have higher stock [[turnover]](https://www.investopedia.com/terms/t/turnover.asp) than market-cap weighted index funds, and as a result, they usually have higher trading costs.
 
 Image by Sabrina Jiang © Investopedia 2020
 

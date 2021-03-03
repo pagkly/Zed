@@ -16,7 +16,7 @@ author: Julia Kagan
 Long-Tail Liability
 ## What Is a Long-Tail Liability?
 
-A long-tail liability is a type of liability that carries a long settlement period. Long-tail liabilities are likely to result in high [incurred but not reported (IBNR)](https://www.investopedia.com/terms/i/incurredbutnotreported.asp) claims, because it may take a long period of time for the claims to be settled.
+A long-tail liability is a type of liability that carries a long settlement period. Long-tail liabilities are likely to result in high [[incurred but not reported (IBNR)]](https://www.investopedia.com/terms/i/incurredbutnotreported.asp) claims, because it may take a long period of time for the claims to be settled.
 
 ### Key Takeaways
 
@@ -36,9 +36,9 @@ Liability insurance providers often see new claims being filed a long time after
 
 ## Financial Impact of Long-Tail Liabilities
 
-Insurance companies that offer coverage for risks that are considered long-tail may have higher [investment income ratios](https://www.investopedia.com/terms/i/investment-income-ratio.asp) (net investment income / earned premiums) than companies that offer coverage for short-term liabilities. The investment income ratio is used to determine an insurance company’s profitability. Insurance companies typically invest the premiums they receive from their customers. Policies that cover long-tail risks have a larger gap between the time premiums are collected versus when claims are paid. As a result, long-tail insurance providers have more time to invest their premiums, allowing them more time to earn a higher rate of return.
+Insurance companies that offer coverage for risks that are considered long-tail may have higher [[investment income ratios]](https://www.investopedia.com/terms/i/investment-income-ratio.asp) (net investment income / earned premiums) than companies that offer coverage for short-term liabilities. The investment income ratio is used to determine an insurance company’s profitability. Insurance companies typically invest the premiums they receive from their customers. Policies that cover long-tail risks have a larger gap between the time premiums are collected versus when claims are paid. As a result, long-tail insurance providers have more time to invest their premiums, allowing them more time to earn a higher rate of return.
 
-However, policies covering long-tail liabilities tend to have higher [loss ratios](https://www.investopedia.com/terms/l/loss-ratio.asp) (losses incurred divided by earned premiums) and higher [combined ratios](https://www.investopedia.com/terms/c/combinedratio.asp) (losses and loss adjustment expenses divided by earned premium). The combined ratio also helps to determine the profitability of an insurer. The ratio includes the premiums collected, claims paid, and any claim-related expenses. A combined ratio below 100% indicates that the insurer is making a profit while a ratio above 100% means the company is paying out more in claims than its collecting in premiums.
+However, policies covering long-tail liabilities tend to have higher [[loss ratios]](https://www.investopedia.com/terms/l/loss-ratio.asp) (losses incurred divided by earned premiums) and higher [[combined ratios]](https://www.investopedia.com/terms/c/combinedratio.asp) (losses and loss adjustment expenses divided by earned premium). The combined ratio also helps to determine the profitability of an insurer. The ratio includes the premiums collected, claims paid, and any claim-related expenses. A combined ratio below 100% indicates that the insurer is making a profit while a ratio above 100% means the company is paying out more in claims than its collecting in premiums.
 
 ## Special Considerations
 

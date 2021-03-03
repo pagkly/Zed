@@ -16,7 +16,7 @@ author: Julia Kagan
 Yale School of Management
 ## What Is the Yale School of Management?
 
-Yale School of Management is Yale University's graduate business school. Yale School of Management offers both [MBA](https://www.investopedia.com/terms/m/mba.asp) and Ph.D. level programs and is known for, among other things, its focus on finance and ethics. The school recently introduced a new kind of integrated curriculum that combines a brief period of foreign study with organizational and employee analysis.
+Yale School of Management is Yale University's graduate business school. Yale School of Management offers both [[MBA]](https://www.investopedia.com/terms/m/mba.asp) and Ph.D. level programs and is known for, among other things, its focus on finance and ethics. The school recently introduced a new kind of integrated curriculum that combines a brief period of foreign study with organizational and employee analysis.
 
 ## Understanding the Yale School of Management
 
@@ -28,7 +28,7 @@ Yale School of Management is located in New Haven, Conn. The first class to atte
 
 ## Yale School of Management Programs
 
-Yale School of Management offers several different programs for graduate studies. In addition to the standard two-year master of business administration (MBA), the school also offers an [executive MBA](https://www.investopedia.com/terms/e/executive-mba.asp) program for working students; a master of advanced management for graduates of business schools that are members of the Global Network for Advanced Management; master’s degree for [systemic risk](https://www.investopedia.com/terms/s/systemic-risk.asp); a master’s degree for global business and society; a PhD program; and executive education programs. The doctoral program at Yale School of Management is a full-time, in-residence program intended for students who plan scholarly careers involving research and teaching in management.
+Yale School of Management offers several different programs for graduate studies. In addition to the standard two-year master of business administration (MBA), the school also offers an [[executive MBA]](https://www.investopedia.com/terms/e/executive-mba.asp) program for working students; a master of advanced management for graduates of business schools that are members of the Global Network for Advanced Management; master’s degree for [[systemic risk]](https://www.investopedia.com/terms/s/systemic-risk.asp); a master’s degree for global business and society; a PhD program; and executive education programs. The doctoral program at Yale School of Management is a full-time, in-residence program intended for students who plan scholarly careers involving research and teaching in management.
 
 ## Yale School of Management Admission Standards
 

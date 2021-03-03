@@ -68,6 +68,6 @@ Since the inception of Super PACs, they have quickly grown to be a hugely influe
 
 ## Special Considerations
 
-Corporations cannot [contribute directly to a campaign](https://www.investopedia.com/video/play/difference-between-hard-money-and-soft-money/); however, a 2010 Supreme Court decision–Citizens United v. Federal Election Committee–made it legal for corporations to support a PAC. The decision overruled the 2002 Campaign Reform Act, which prevented corporations, unions, and other entities from donating money to [political](https://www.investopedia.com/articles/economics/12/money-and-politics.asp) campaigns. 
+Corporations cannot [[contribute directly to a campaign]](https://www.investopedia.com/video/play/difference-between-hard-money-and-soft-money/); however, a 2010 Supreme Court decision–Citizens United v. Federal Election Committee–made it legal for corporations to support a PAC. The decision overruled the 2002 Campaign Reform Act, which prevented corporations, unions, and other entities from donating money to [[political]](https://www.investopedia.com/articles/economics/12/money-and-politics.asp) campaigns. 
 
 The new laws allow these entities to contribute a limited amount of money to a PAC, which can, in turn, be donated to a campaign. In the case of Super PACs, a corporation can contribute an unlimited amount of money. Even though this money can't be directly given to a campaign, it can be spent to indirectly influence an election.

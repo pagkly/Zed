@@ -16,11 +16,11 @@ author: Clay Halton
 Joint Supply Definition
 ## What Is Joint Supply?
 
-Joint supply is an economic term referring to a product or process that can yield two or more outputs. Common examples occur within the livestock industry: cows can be utilized for milk, beef, and hide; sheep can be utilized for meat, milk products, wool, and sheepskin. If the [supply](https://www.investopedia.com/terms/s/supply.asp) of cows increases, so will the joint supply of dairy and beef products.
+Joint supply is an economic term referring to a product or process that can yield two or more outputs. Common examples occur within the livestock industry: cows can be utilized for milk, beef, and hide; sheep can be utilized for meat, milk products, wool, and sheepskin. If the [[supply]](https://www.investopedia.com/terms/s/supply.asp) of cows increases, so will the joint supply of dairy and beef products.
 
 ## Understanding Joint Supply
 
-Where joint supply exists, the [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for each product is linked to the others originating from the same source. For example, if demand increases for wool, and sheep farmers therefore raise more animals for wool, there will be a related increase in sheep meat production. This increased production will lead to greater meat supply and potentially lower prices.
+Where joint supply exists, the [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for each product is linked to the others originating from the same source. For example, if demand increases for wool, and sheep farmers therefore raise more animals for wool, there will be a related increase in sheep meat production. This increased production will lead to greater meat supply and potentially lower prices.
 
 ## Challenges With Joint Supply
 
@@ -32,4 +32,4 @@ Another important issue with joint supply products is the allocation of expense
 
 Joint demand isn't necessarily related to joint supply. Rather, joint demand happens when demand for two goods is interdependent. For example, printers need ink to function. Similarly, ink cartridges are no use without a printer. Another example could be razors and razor blades, or gasoline and motor oil.
 
-Basically, joint demand is when you need two goods because they work together to provide a benefit for the consumer. If two goods are in joint demand, they will have a high and negative cross [elasticity of demand](https://www.investopedia.com/terms/d/demand-elasticity.asp). In other words, a fall in the price of ink may prompt an increase in demand for printers.
+Basically, joint demand is when you need two goods because they work together to provide a benefit for the consumer. If two goods are in joint demand, they will have a high and negative cross [[elasticity of demand]](https://www.investopedia.com/terms/d/demand-elasticity.asp). In other words, a fall in the price of ink may prompt an increase in demand for printers.

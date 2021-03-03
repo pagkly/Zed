@@ -16,7 +16,7 @@ author: Julia Kagan
 Open Architecture
 ## What Is Open Architecture?
 
-Open architecture is used to describe a financial institution's ability to offer clients both proprietary and external products and services. Open architecture ensures that a client can satisfy all their financial needs and that the investment firm can act in each client’s best interests by recommending the financial products best suited to that client, even if they are not proprietary products. Open architecture helps investment firms avoid the [conflict of interest](https://www.investopedia.com/terms/c/conflict-of-interest.asp) that would exist if the firm only recommended its own products.
+Open architecture is used to describe a financial institution's ability to offer clients both proprietary and external products and services. Open architecture ensures that a client can satisfy all their financial needs and that the investment firm can act in each client’s best interests by recommending the financial products best suited to that client, even if they are not proprietary products. Open architecture helps investment firms avoid the [[conflict of interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp) that would exist if the firm only recommended its own products.
 
 ### Key Takeaways
 
@@ -26,15 +26,15 @@ Open architecture is used to describe a financial institution's ability to offer
 
 ## Open Architecture Explained
 
-Financial advisers who work for [financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp) with an open architecture approach can potentially meet their clients’ needs better than advisers who work for proprietary institutions. Advisers receive a fee for their recommendations in an open architecture setting rather than the commission they would earn in a proprietary setting. At their best, open architecture can improve the client’s asset allocation and diversification, offer lower fees, and provide better returns. It also fosters an environment of increased trust between clients and advisers.
+Financial advisers who work for [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp) with an open architecture approach can potentially meet their clients’ needs better than advisers who work for proprietary institutions. Advisers receive a fee for their recommendations in an open architecture setting rather than the commission they would earn in a proprietary setting. At their best, open architecture can improve the client’s asset allocation and diversification, offer lower fees, and provide better returns. It also fosters an environment of increased trust between clients and advisers.
 
 Open architecture has become much more common as investors have gotten smarter and demanded more options from financial institutions. One result of open architecture is that brokerage firms have had to rely less on earning fees from their own funds and more on earning fees for offering high-quality financial advice.
 
 ## Reasons for Open Architecture 
 
-A single brokerage may not offer all the financial products a client needs or that are in a client’s best interests. In fact, the greater the wealth of a client usually will mean a greater need for a wider range of products and services. Open architecture makes it possible for investors and their advisers to select the best funds available and obtain the best potential investment performance given their needs and [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp). Open architecture also helps investors obtain better diversification and possibly reduce risk by not placing their entire future investment returns in the hands of a single investment firm and its approach.
+A single brokerage may not offer all the financial products a client needs or that are in a client’s best interests. In fact, the greater the wealth of a client usually will mean a greater need for a wider range of products and services. Open architecture makes it possible for investors and their advisers to select the best funds available and obtain the best potential investment performance given their needs and [[risk tolerance]](https://www.investopedia.com/terms/r/risktolerance.asp). Open architecture also helps investors obtain better diversification and possibly reduce risk by not placing their entire future investment returns in the hands of a single investment firm and its approach.
 
-Brokerage firms and banks that limit clients’ choices through a closed architecture approach, where investors can only choose that firm’s or bank’s funds, put themselves at risk of client lawsuits over [fiduciary negligence](https://www.investopedia.com/terms/f/fiduciary_negligence.asp).
+Brokerage firms and banks that limit clients’ choices through a closed architecture approach, where investors can only choose that firm’s or bank’s funds, put themselves at risk of client lawsuits over [[fiduciary negligence]](https://www.investopedia.com/terms/f/fiduciary_negligence.asp).
 
 ## Questions to Ask About Open Architecture
 

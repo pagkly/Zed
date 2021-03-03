@@ -16,7 +16,7 @@ author: James Chen
 Dividend Growth Rate Definition
 ## What Is Dividend Growth Rate?
 
-The dividend growth rate is the [annualized percentage rate](https://www.investopedia.com/terms/a/apr.asp) of growth that a particular stock's [dividend](https://www.investopedia.com/terms/d/dividend.asp) undergoes over a period of time. Many mature companies seek to increase the dividends paid to their investors on a regular basis. Knowing the dividend growth rate is a key input for stock valuation models known as [dividend discount models](https://www.investopedia.com/terms/d/ddm.asp).
+The dividend growth rate is the [[annualized percentage rate]](https://www.investopedia.com/terms/a/apr.asp) of growth that a particular stock's [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) undergoes over a period of time. Many mature companies seek to increase the dividends paid to their investors on a regular basis. Knowing the dividend growth rate is a key input for stock valuation models known as [[dividend discount models]](https://www.investopedia.com/terms/d/ddm.asp).
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ The dividend growth rate is the [annualized percentage rate](https://www.investo
 
 ## Understanding the Dividend Growth Rate
 
-Being able to calculate the dividend growth rate is necessary for using the dividend discount model. The dividend discount model is a type of [security-pricing](https://www.investopedia.com/terms/s/security.asp) model. The dividend discount model assumes that the estimated future dividends–discounted by the excess of [internal growth](https://www.investopedia.com/terms/i/internalgrowthrate.asp) over the company's estimated dividend growth rate–determines a given stock's price. If the dividend discount model procedure results in a higher number than the [current price](https://www.investopedia.com/terms/c/currentprice.asp) of a company’s shares, the model considers the stock undervalued. Investors who use the dividend discount model believe that by estimating the expected value of cash flow in the future, they can find the intrinsic value of a specific stock.
+Being able to calculate the dividend growth rate is necessary for using the dividend discount model. The dividend discount model is a type of [[security-pricing]](https://www.investopedia.com/terms/s/security.asp) model. The dividend discount model assumes that the estimated future dividends–discounted by the excess of [[internal growth]](https://www.investopedia.com/terms/i/internalgrowthrate.asp) over the company's estimated dividend growth rate–determines a given stock's price. If the dividend discount model procedure results in a higher number than the [[current price]](https://www.investopedia.com/terms/c/currentprice.asp) of a company’s shares, the model considers the stock undervalued. Investors who use the dividend discount model believe that by estimating the expected value of cash flow in the future, they can find the intrinsic value of a specific stock.
 
-A history of strong dividend growth could mean future dividend growth is likely, which can signal [long-term](https://www.investopedia.com/terms/l/longterm.asp) profitability for a given company. When an investor calculates the dividend growth rate, they can use any interval of time they wish. They may also calculate the dividend growth rate using the [least squares](https://www.investopedia.com/terms/l/least-squares.asp) method or by simply taking a simple annualized figure over the time period.
+A history of strong dividend growth could mean future dividend growth is likely, which can signal [[long-term]](https://www.investopedia.com/terms/l/longterm.asp) profitability for a given company. When an investor calculates the dividend growth rate, they can use any interval of time they wish. They may also calculate the dividend growth rate using the [[least squares]](https://www.investopedia.com/terms/l/least-squares.asp) method or by simply taking a simple annualized figure over the time period.
 
 ## How to Calculate the Dividend Growth Rate
 
@@ -62,7 +62,7 @@ The average of these four annual growth rates is 3.56%. To confirm this is corre
 
 To value a company’s stock, an individual can use the dividend discount model (DDM). The dividend discount model is based on the idea that a stock is worth the sum of its future payments to shareholders, discounted back to the present day.
 
-The simplest dividend discount model, known as the [Gordon Growth Model](https://www.investopedia.com/terms/g/gordongrowthmodel.asp) (GGM)'s formula is:
+The simplest dividend discount model, known as the [[Gordon Growth Model]](https://www.investopedia.com/terms/g/gordongrowthmodel.asp) (GGM)'s formula is:
 
 P\=D1r−gwhere:P\=Current stock priceg\=Constant growth rate expected fordividends, in perpetuityr\=Constant cost of equity capital for thecompany (or rate of return)D1\=Value of next year’s dividends\\begin{aligned} &P = \\frac{ D\_1 }{ r - g } \\\\ &\\textbf{where:} \\\\ &P = \\text{Current stock price} \\\\ &g = \\text{Constant growth rate expected for} \\\\ &\\text{dividends, in perpetuity} \\\\ &r = \\text{Constant cost of equity capital for the} \\\\ &\\text{company (or rate of return)} \\\\ &D\_1 = \\text{Value of next year's dividends} \\\\ \\end{aligned}
 

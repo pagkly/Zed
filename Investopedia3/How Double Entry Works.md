@@ -16,11 +16,11 @@ author: Adam Hayes
 How Double Entry Works
 ## What Is Double Entry?
 
-Double entry, a fundamental concept underlying present-day bookkeeping and accounting, states that every financial transaction has equal and opposite effects in at least two different accounts. It is used to satisfy the [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp):
+Double entry, a fundamental concept underlying present-day bookkeeping and accounting, states that every financial transaction has equal and opposite effects in at least two different accounts. It is used to satisfy the [[accounting equation]](https://www.investopedia.com/terms/a/accounting-equation.asp):
 
 Assets\=Liabilities+Equity\\begin{aligned} &\\text{Assets} = \\text{Liabilities} + \\text{Equity} \\\\ \\end{aligned}
 
-With a double entry system, credits are offset by debits in a [general ledger](https://www.investopedia.com/terms/g/generalledger.asp) or [T-account](https://www.investopedia.com/terms/t/t-account.asp).
+With a double entry system, credits are offset by debits in a [[general ledger]](https://www.investopedia.com/terms/g/generalledger.asp) or [[T-account]](https://www.investopedia.com/terms/t/t-account.asp).
 
 ## The Basics of Double Entry
 
@@ -50,9 +50,9 @@ A debit may increase one account while decreasing another. For example, a debit
 
 ## The Double-Entry Accounting System
 
-Double-entry bookkeeping was developed in the mercantile period of Europe to help rationalize commercial transactions and make trade more efficient. It also helped merchants and bankers understand their costs and profits. Some thinkers have argued that double-entry accounting was a key calculative technology responsible for the birth of [capitalism](https://www.investopedia.com/terms/c/capitalism.asp).
+Double-entry bookkeeping was developed in the mercantile period of Europe to help rationalize commercial transactions and make trade more efficient. It also helped merchants and bankers understand their costs and profits. Some thinkers have argued that double-entry accounting was a key calculative technology responsible for the birth of [[capitalism]](https://www.investopedia.com/terms/c/capitalism.asp).
 
-The accounting equation forms the foundation of the double-entry accounting and is a concise representation of a concept that [expands into](https://www.investopedia.com/terms/e/expanded-accounting-equation.asp) the complex, expanded and multi-item display of the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). The balance sheet is based on the double-entry accounting system where total assets of a company are equal to the total of liabilities and shareholder equity.
+The accounting equation forms the foundation of the double-entry accounting and is a concise representation of a concept that [[expands into]](https://www.investopedia.com/terms/e/expanded-accounting-equation.asp) the complex, expanded and multi-item display of the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). The balance sheet is based on the double-entry accounting system where total assets of a company are equal to the total of liabilities and shareholder equity.
 
 Essentially, the representation equates all uses of capital (assets) to all sources of capital (where debt capital leads to liabilities and equity capital leads to shareholders' equity). For a company keeping accurate accounts, every single business transaction will be represented in at least of its two accounts.
 
@@ -69,7 +69,7 @@ This practice ensures that the accounting equation always remains balanced – t
 
 ## Real World Example of Double Entry
 
-A bakery purchases a fleet of refrigerated delivery trucks on credit; the total credit purchase was $250,000. The new set of trucks will be used in business operations and will not be sold for at least 10 years—their estimated [useful life](https://www.investopedia.com/terms/u/usefullife.asp).
+A bakery purchases a fleet of refrigerated delivery trucks on credit; the total credit purchase was $250,000. The new set of trucks will be used in business operations and will not be sold for at least 10 years—their estimated [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp).
 
 To account for the credit purchase, entries must be made in their respective accounting ledgers. Because the business has accumulated more assets, a debit to the asset account for the cost of the purchase ($250,000) will be made. To account for the credit purchase, a credit entry of $250,000 will be made to notes payable. The debit entry increases the asset balance and the credit entry increases the notes payable liability balance by the same amount. 
 

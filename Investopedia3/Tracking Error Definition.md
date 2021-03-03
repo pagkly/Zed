@@ -16,9 +16,9 @@ author: James Chen
 Tracking Error Definition
 ## What Is a Tracking Error?
 
-Tracking error is the [divergence](https://www.investopedia.com/terms/d/divergence.asp) between the price behavior of a position or a portfolio and the price behavior of a benchmark. This is often in the context of a [hedge fund](https://www.investopedia.com/terms/h/hedge.asp), [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp), or [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) (ETF) that did not work as effectively as intended, creating an unexpected profit or loss.
+Tracking error is the [[divergence]](https://www.investopedia.com/terms/d/divergence.asp) between the price behavior of a position or a portfolio and the price behavior of a benchmark. This is often in the context of a [hedge fund](https://www.investopedia.com/terms/h/hedge.asp), [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp), or [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) (ETF) that did not work as effectively as intended, creating an unexpected profit or loss.
 
-Tracking error is reported as a [standard deviation](https://www.investopedia.com/video/play/standard-deviation/) percentage difference, which reports the difference between the return an investor receives and that of the [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) they were attempting to imitate.
+Tracking error is reported as a [[standard deviation]](https://www.investopedia.com/video/play/standard-deviation/) percentage difference, which reports the difference between the return an investor receives and that of the [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) they were attempting to imitate.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Tracking error is the standard deviation of the difference between the returns o
 
 -   Where P is portfolio return and B is benchmark return.
 
-From an investor's point of view, tracking error can be used to evaluate [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp). If a manager is realizing low [average returns](https://www.investopedia.com/terms/a/averagereturn.asp) and has a large tracking error, it is a sign that there is something significantly wrong with that investment and that the investor should most likely find a replacement.
+From an investor's point of view, tracking error can be used to evaluate [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp). If a manager is realizing low [[average returns]](https://www.investopedia.com/terms/a/averagereturn.asp) and has a large tracking error, it is a sign that there is something significantly wrong with that investment and that the investor should most likely find a replacement.
 
 It may also be used to forecast performance, particularly for quantitative portfolio managers who construct risk models that include the likely factors that influence price changes. The managers then construct a portfolio that uses the type of constituents of a benchmark (such as style, leverage, momentum, or market cap) to create a portfolio that will have a tracking error that closely adheres to the benchmark. 
 
@@ -66,7 +66,7 @@ ETFs are registered with regulators as mutual funds and need to abide by the a
 
 ### Cash Drag
 
-Indexes don't have cash holdings, but ETFs do. Cash can accumulate at intervals due to [dividend](https://www.investopedia.com/terms/d/dividend.asp#axzz1lc9Gduoi) payments, overnight balances, and trading activity. The lag between receiving and reinvesting the cash can lead to a decline in performance known as [drag](https://www.investopedia.com/terms/p/performance_drag.asp). Dividend funds with high payout [yields](https://www.investopedia.com/terms/y/yield.asp#axzz1lc9Gduoi) are most susceptible.
+Indexes don't have cash holdings, but ETFs do. Cash can accumulate at intervals due to [dividend](https://www.investopedia.com/terms/d/dividend.asp#axzz1lc9Gduoi) payments, overnight balances, and trading activity. The lag between receiving and reinvesting the cash can lead to a decline in performance known as [[drag]](https://www.investopedia.com/terms/p/performance_drag.asp). Dividend funds with high payout [yields](https://www.investopedia.com/terms/y/yield.asp#axzz1lc9Gduoi) are most susceptible.
 
 ### Index Changes
 
@@ -94,7 +94,7 @@ International ETFs with currency hedging may not follow a benchmark index due to
 
 ## Example of a Tracking Error
 
-For example, assume that there is a [large-cap](https://www.investopedia.com/terms/l/large-cap.asp) mutual fund benchmarked to the S&P 500 index. Next, assume that the mutual fund and the index realized the following returns over a given five-year period:
+For example, assume that there is a [[large-cap]](https://www.investopedia.com/terms/l/large-cap.asp) mutual fund benchmarked to the S&P 500 index. Next, assume that the mutual fund and the index realized the following returns over a given five-year period:
 
 -   Mutual Fund: 11%, 3%, 12%, 14% and 8%.
 -   S&P 500 index: 12%, 5%, 13%, 9% and 7%.

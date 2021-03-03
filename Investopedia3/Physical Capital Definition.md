@@ -16,7 +16,7 @@ author: Troy Segal
 Physical Capital Definition
 ## What Is Physical Capital?
 
-Physical capital is one of what economists call the three main [factors of production](https://www.investopedia.com/terms/f/factors-production.asp). It consists of tangible, man-made goods that assist in the process of creating a product or service. The machinery, buildings, office or warehouse supplies, vehicles, and computers that a company owns are all considered part of its physical capital.
+Physical capital is one of what economists call the three main [[factors of production]](https://www.investopedia.com/terms/f/factors-production.asp). It consists of tangible, man-made goods that assist in the process of creating a product or service. The machinery, buildings, office or warehouse supplies, vehicles, and computers that a company owns are all considered part of its physical capital.
 
 ### Key Takeaways
 
@@ -54,9 +54,9 @@ Experts agree that physical capital is an important consideration in a company's
 
 For example, take the Coca-Cola Company's corporate headquarters in Atlanta. Some might deem their campus of office buildings as physical capital since they are man-made structures. Others might consider the corporate plaza as falling into the land/real estate category.
 
-Secondly, physical capital is often relatively [illiquid](https://www.investopedia.com/terms/l/liquidity.asp) because it is usually designed to fulfill a particular purpose. The machine that puts caps on the iconic Coca-Cola soda pop bottles not going to be of much use to anyone outside of another beverage company—and maybe not even then, given that the machine is probably designed to fit the size and shape of the unique Coke glassware.
+Secondly, physical capital is often relatively [[illiquid]](https://www.investopedia.com/terms/l/liquidity.asp) because it is usually designed to fulfill a particular purpose. The machine that puts caps on the iconic Coca-Cola soda pop bottles not going to be of much use to anyone outside of another beverage company—and maybe not even then, given that the machine is probably designed to fit the size and shape of the unique Coke glassware.
 
-Most objects of physical capital are also [fixed capital](https://www.investopedia.com/terms/f/fixed-capital.asp), meaning they are not consumed or destroyed during the actual production of a good or service but are reusable. As such, an item of fixed capital has long-term value, but that value can change over time. Usually, it declines.
+Most objects of physical capital are also [[fixed capital]](https://www.investopedia.com/terms/f/fixed-capital.asp), meaning they are not consumed or destroyed during the actual production of a good or service but are reusable. As such, an item of fixed capital has long-term value, but that value can change over time. Usually, it declines.
 
 Again, manufacturing equipment is a prime example—as the machine ages, it becomes worth much less; that's why fixed-capital investments are typically depreciated on the company's accounting statements over a long period (often decades).
 

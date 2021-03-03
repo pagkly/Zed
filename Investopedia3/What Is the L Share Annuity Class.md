@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is the L Share Annuity Class?
 ## What Is the L Share Annuity Class?
 
-The L share [annuity](https://www.investopedia.com/ask/answers/12/what-is-an-annuity.asp) class is a version of a [variable annuity](https://www.investopedia.com/terms/v/variableannuity.asp) that starts paying out earlier than most but has relatively high administrative costs. It is designed for investors who want to be able to begin withdrawing funds from an account after a comparatively short period of time. Other share classes offered by variable annuities are A share, B share, C share, O share, and X share annuity classes.
+The L share [[annuity]](https://www.investopedia.com/ask/answers/12/what-is-an-annuity.asp) class is a version of a [[variable annuity]](https://www.investopedia.com/terms/v/variableannuity.asp) that starts paying out earlier than most but has relatively high administrative costs. It is designed for investors who want to be able to begin withdrawing funds from an account after a comparatively short period of time. Other share classes offered by variable annuities are A share, B share, C share, O share, and X share annuity classes.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ The L share [annuity](https://www.investopedia.com/ask/answers/12/what-is-an-ann
 
 ## How the L Share Annuity Class Works
 
-A variable annuity, in general, is a long-term investment vehicle set up by an insurance company for an investor planning for retirement. The investor pays an annual premium fee, which is invested in any combination of assets like [stocks](https://www.investopedia.com/terms/e/equity.asp), [bonds](https://www.investopedia.com/terms/b/bond.asp), and money market funds.
+A variable annuity, in general, is a long-term investment vehicle set up by an insurance company for an investor planning for retirement. The investor pays an annual premium fee, which is invested in any combination of assets like [[stocks]](https://www.investopedia.com/terms/e/equity.asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), and money market funds.
 
-The wealth that accumulates from these investments is [tax-deferred](https://www.investopedia.com/terms/t/taxdeferred.asp) until the money is withdrawn, and the value of the variable annuity is correlated with the performance of the underlying investments.
+The wealth that accumulates from these investments is [[tax-deferred]](https://www.investopedia.com/terms/t/taxdeferred.asp) until the money is withdrawn, and the value of the variable annuity is correlated with the performance of the underlying investments.
 
-In addition to the premium paid, the [annuitant](https://www.investopedia.com/terms/a/annuitant.asp)—or purchaser of the annuity—also pays a [mortality risk and expense](https://www.investopedia.com/terms/m/mortalityandexpenseriskcharge.asp) (M&E) fee to compensate the insurance company for the risk that the annuitant will outlive his or her life expectancy. The insurance company makes guaranteed annuitized periodic payments to the annuity investor.
+In addition to the premium paid, the [[annuitant]](https://www.investopedia.com/terms/a/annuitant.asp)—or purchaser of the annuity—also pays a [[mortality risk and expense]](https://www.investopedia.com/terms/m/mortalityandexpenseriskcharge.asp) (M&E) fee to compensate the insurance company for the risk that the annuitant will outlive his or her life expectancy. The insurance company makes guaranteed annuitized periodic payments to the annuity investor.
 
-Variable annuities are regulated by state insurance regulators, the [Securities Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp), and the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp).
+Variable annuities are regulated by state insurance regulators, the [[Securities Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp), and the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp).
 
 ## Special Considerations
 
@@ -48,7 +48,7 @@ The L share annuity class offers some advantages versus other annuity classes, i
 
 ### Advantages
 
-There are various share classes available in variable annuities, one of which is the L share class. The L share class differs from other annuity classes in terms of surrender charges, administrative and expense fees, and the M&E fee schedule. The [surrender period](https://www.investopedia.com/terms/s/surrender-period.asp) is the period of time during which an annuitant may not withdraw funds from the account. Otherwise, a surrender charge or penalty will be applied.
+There are various share classes available in variable annuities, one of which is the L share class. The L share class differs from other annuity classes in terms of surrender charges, administrative and expense fees, and the M&E fee schedule. The [[surrender period]](https://www.investopedia.com/terms/s/surrender-period.asp) is the period of time during which an annuitant may not withdraw funds from the account. Otherwise, a surrender charge or penalty will be applied.
 
 The L share class has a surrender period of three to four years, which indicates that the owner may start withdrawing money after three or four years, depending on the financial institution’s contractual agreement. Conversely, the average surrender period for a variable annuity is six to eight years, which makes the L share annuity an advantageous option.
 

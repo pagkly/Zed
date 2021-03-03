@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding Contributed Capital
 ## What Is Contributed Capital?
 
-Contributed capital, also known as [paid-in capital](https://www.investopedia.com/terms/p/paidincapital.asp), is the cash and other assets that shareholders have given a company in exchange for stock. Investors make capital contributions when a company issues equity shares based on a price that shareholders are willing to pay for them. The total amount of contributed capital or paid-in-capital represents their stake or ownership in the company.
+Contributed capital, also known as [[paid-in capital]](https://www.investopedia.com/terms/p/paidincapital.asp), is the cash and other assets that shareholders have given a company in exchange for stock. Investors make capital contributions when a company issues equity shares based on a price that shareholders are willing to pay for them. The total amount of contributed capital or paid-in-capital represents their stake or ownership in the company.
 
 Contributed capital may also refer to a company's balance sheet item listed under stockholders' equity, often shown alongside the balance sheet entry for additional paid-in capital.
 
@@ -44,7 +44,7 @@ It's important to distinguish that capital contributions, which are an injection
 
 Contributed capital is reported in the shareholder’s equity section of the balance sheet and usually split into two different accounts: common stock and additional paid-in capital account. In other words, contributed capital includes the par value—or nominal value—of the stock, found in the common stock account, and the amount of money over and above the par value that shareholders were willing to pay for their shares—the share premium—found in the additional paid-in capital account.
 
-The common stock account is also known as share capital account, and the additional paid-in capital account is also known as the [share premium account](https://www.investopedia.com/terms/s/sharepremiumaccount.asp).
+The common stock account is also known as share capital account, and the additional paid-in capital account is also known as the [[share premium account]](https://www.investopedia.com/terms/s/sharepremiumaccount.asp).
 
 ## Example of Contributed Capital
 

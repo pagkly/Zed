@@ -31,7 +31,7 @@ Classical computers that we use today can only encode information in bits that t
 
 According to the Institute for Quantum Computing at the University of Waterloo, the field of quantum computing started in the 1980s. It was then discovered that certain computational problems could be tackled more efficiently with quantum algorithms than with their classical counterparts.
 
-Quantum computing could contribute greatly in the fields of finance, military affairs, intelligence, drug design and discovery, aerospace designing, utilities (nuclear fusion), polymer design, [Artificial Intelligence](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI) and Big Data search, and digital manufacturing. 
+Quantum computing could contribute greatly in the fields of finance, military affairs, intelligence, drug design and discovery, aerospace designing, utilities (nuclear fusion), polymer design, [[Artificial Intelligence]](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) (AI) and Big Data search, and digital manufacturing. 
 
 Its potential and projected market size has engaged some of the most prominent technology companies to work in the field of quantum computing, including IBM, Microsoft, Google, D-Waves Systems, Alibaba, Nokia, Intel, Airbus, HP, Toshiba, Mitsubishi, SK Telecom, NEC, Raytheon, Lockheed Martin, Rigetti, Biogen, Volkswagen, and Amgen. 
 

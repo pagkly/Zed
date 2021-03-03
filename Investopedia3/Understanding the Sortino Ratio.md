@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding the Sortino Ratio
 ## What Is the Sortino Ratio?
 
-The Sortino ratio is a variation of the [Sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp) that differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns—[downside deviation](https://www.investopedia.com/terms/d/downside-deviation.asp)—instead of the total standard deviation of portfolio returns. The Sortino ratio takes an asset or portfolio's return and subtracts the risk-free rate, and then divides that amount by the asset's downside deviation. The ratio was named after Frank A. Sortino.
+The Sortino ratio is a variation of the [[Sharpe ratio]](https://www.investopedia.com/terms/s/sharperatio.asp) that differentiates harmful volatility from total overall volatility by using the asset's standard deviation of negative portfolio returns—[downside deviation](https://www.investopedia.com/terms/d/downside-deviation.asp)—instead of the total standard deviation of portfolio returns. The Sortino ratio takes an asset or portfolio's return and subtracts the risk-free rate, and then divides that amount by the asset's downside deviation. The ratio was named after Frank A. Sortino.
 
 ## Formula and Calculation of Sortino Ratio
 
@@ -32,7 +32,7 @@ Sortino Ratio\=Rp−rfσdwhere:Rp\=Actual or expected portfolio returnrf\=R
 
 ## What the Sortino Ratio Can Tell You
 
-The Sortino ratio is a useful way for investors, analysts, and [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp) to evaluate an investment's return for a given level of bad risk. Since this ratio uses only the downside deviation as its risk measure, it addresses the problem of using total risk, or standard deviation, which is important because upside volatility is beneficial to investors and isn't a factor most investors worry about.
+The Sortino ratio is a useful way for investors, analysts, and [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) to evaluate an investment's return for a given level of bad risk. Since this ratio uses only the downside deviation as its risk measure, it addresses the problem of using total risk, or standard deviation, which is important because upside volatility is beneficial to investors and isn't a factor most investors worry about.
 
 ## Example of How to Use the Sortino Ratio
 
@@ -46,10 +46,10 @@ Mutual Fund Z Sortino\=10%−2.5%7%\=1.07\\begin{aligned} &\\text{Mutual Fund
 
 Even though Mutual Fund X is returning 2% more on an annualized basis, it is not earning that return as efficiently as Mutual Fund Z, given their downside deviations. Based on this metric, Mutual Fund Z is the better investment choice.
 
-While using the risk-free rate of return is common, investors can also use [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) in calculations. To keep the formulas accurate, the investor should be consistent in terms of the type of return.
+While using the risk-free rate of return is common, investors can also use [[expected return]](https://www.investopedia.com/terms/e/expectedreturn.asp) in calculations. To keep the formulas accurate, the investor should be consistent in terms of the type of return.
 
 ## The Difference Between the Sortino Ratio and the Sharpe Ratio
 
 The Sortino ratio improves upon the Sharpe ratio by isolating downside or negative volatility from total volatility by dividing excess return by the downside deviation instead of the total standard deviation of a portfolio or asset.
 
-The Sharpe ratio punishes the investment for good risk, which provides positive returns for investors. However, determining which ratio to use depends on whether the investor wants to focus on total or [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp), or just downside deviation.
+The Sharpe ratio punishes the investment for good risk, which provides positive returns for investors. However, determining which ratio to use depends on whether the investor wants to focus on total or [[standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp), or just downside deviation.

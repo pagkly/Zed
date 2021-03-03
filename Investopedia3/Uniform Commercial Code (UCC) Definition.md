@@ -16,7 +16,7 @@ author: Daniel Liberto
 Uniform Commercial Code (UCC) Definition
 ## What Is the Uniform Commercial Code (UCC)?
 
-The Uniform Commercial Code (UCC) is a [standardized](https://www.investopedia.com/terms/s/standardization.asp) set of laws and regulations for transacting business. Then UCC code was established because it was becoming increasingly difficult for companies to transact business across state lines given the various state laws.
+The Uniform Commercial Code (UCC) is a [[standardized]](https://www.investopedia.com/terms/s/standardization.asp) set of laws and regulations for transacting business. Then UCC code was established because it was becoming increasingly difficult for companies to transact business across state lines given the various state laws.
 
 The Uniform Commercial Code (UCC) is important since it helps companies in different states to transact with each other by providing a standard legal and contractual framework. The UCC laws have been fully adopted by most states in the U.S. Although there are some slight variations from state-to-state, the UCC code consists of nine separate articles. The UCC articles govern various types of transactions, including banking and loans.
 
@@ -24,7 +24,7 @@ The Uniform Commercial Code (UCC) is important since it helps companies in diffe
 
 Uniform Commercial Code (UCC) laws regulate sales of personal property and various other transactions. If you’ve ever purchased a business or a vehicle in the past, chances are you signed a UCC-1 statement. The title remains in the lender’s possession until the loan is paid off.
 
-The policies instituted under the Uniform Commercial Code (UCC) are largely focused on the activities of small businesses and [entrepreneurs](https://www.investopedia.com/terms/e/entrepreneur.asp). Part of the intent is to clear up confusion over how each state might separately regulate such operations.
+The policies instituted under the Uniform Commercial Code (UCC) are largely focused on the activities of small businesses and [[entrepreneurs]](https://www.investopedia.com/terms/e/entrepreneur.asp). Part of the intent is to clear up confusion over how each state might separately regulate such operations.
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ The policies instituted under the Uniform Commercial Code (UCC) are largely focu
 -   Companies that conduct business transactions outside of their home state must comply with the Uniform Commercial Code (UCC).
 -   The UCC code has been fully adopted by most states and adapted slightly by others.
 
-The UCC code imposes standards for processing checks and other types of commercial paper. Often it is applied to the property secured by a bank where the title is held until the borrower pays off the balance of the financing. Companies that conduct business transactions outside of their home state must comply with the applicable UCC law, including when [leasing](https://www.investopedia.com/terms/l/lease.asp) equipment, selling goods, borrowing money, and establishing contracts.
+The UCC code imposes standards for processing checks and other types of commercial paper. Often it is applied to the property secured by a bank where the title is held until the borrower pays off the balance of the financing. Companies that conduct business transactions outside of their home state must comply with the applicable UCC law, including when [[leasing]](https://www.investopedia.com/terms/l/lease.asp) equipment, selling goods, borrowing money, and establishing contracts.
 
 Although the UCC code regulates dealings involving personal property, it does not govern real property such as land or any structures attached to land.
 
@@ -55,7 +55,7 @@ The Uniform Commercial Code (UCC) undergoes frequent revisions that address spec
 
 ## History of the Uniform Commercial Code (UCC)
 
-The Uniform Commercial Code (UCC) was not established through [Congress](https://www.investopedia.com/terms/c/congress.asp). It was created by private organizations that include the National Conference of Commissioners on Uniform State Laws (NCCUSL) and the American Law Institute (ALI).
+The Uniform Commercial Code (UCC) was not established through [[Congress]](https://www.investopedia.com/terms/c/congress.asp). It was created by private organizations that include the National Conference of Commissioners on Uniform State Laws (NCCUSL) and the American Law Institute (ALI).
 
 The Uniform Commercial Code (UCC) was drawn up and ratified by most states in the 1950s. Louisiana is now the only state that has not fully ratified the code, although it has adopted part of it.
 

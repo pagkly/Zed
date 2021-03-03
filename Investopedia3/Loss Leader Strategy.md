@@ -28,17 +28,17 @@ A loss leader strategy involves selling a product or service at a price that is 
 
 ## Understanding a Loss Leader Strategy
 
-Loss leading can be a successful strategy if executed properly. A classic example is [razor blades](https://www.investopedia.com/terms/r/razor-razorblademodel.asp). Gillette, for example, often gives their razor units away for free or at a low price, knowing that customers must buy replacement blades, which is where the company makes its profit.1
+Loss leading can be a successful strategy if executed properly. A classic example is [[razor blades]](https://www.investopedia.com/terms/r/razor-razorblademodel.asp). Gillette, for example, often gives their razor units away for free or at a low price, knowing that customers must buy replacement blades, which is where the company makes its profit.1
 
 Another example is Microsoft's Xbox One video game console. The product was sold at a low margin per unit, but Microsoft knew that there was potential to profit from the sale of video games with higher margins and subscriptions to the company's Xbox Live service. The loss leader strategy is common throughout the video game industry and, in most cases, consoles are sold for less than they cost to build.2
 
-The loss leader strategy is also known as [penetration pricing](https://www.investopedia.com/terms/p/penetration-pricing.asp) as the manufacturer attempts to penetrate the market by pricing its products low.
+The loss leader strategy is also known as [[penetration pricing]](https://www.investopedia.com/terms/p/penetration-pricing.asp) as the manufacturer attempts to penetrate the market by pricing its products low.
 
 Opponents of loss leader pricing practices argue that the strategy is predatory in nature and designed to force competitors out of business.
 
 ## Loss Leaders and Retail Shops
 
-Both [brick-and-mortar](https://www.investopedia.com/terms/b/brickandmortar.asp) stores and online shops use loss leader pricing strategies. These businesses frequently price a few items so low that there is no [profit margin](https://www.investopedia.com/terms/p/profitmargin.asp). The hope is that once the shopper buys the product from the store or the website, the shopper will buy other products and become loyal to the brand. Unfortunately, for business owners, consumers sometimes leave without buying other products or subscribing to the brand. This consumer practice of jumping from shop to shop and picking up loss leader items is called [cherry picking](https://www.investopedia.com/terms/c/cherrypicking.asp).
+Both [[brick-and-mortar]](https://www.investopedia.com/terms/b/brickandmortar.asp) stores and online shops use loss leader pricing strategies. These businesses frequently price a few items so low that there is no [[profit margin]](https://www.investopedia.com/terms/p/profitmargin.asp). The hope is that once the shopper buys the product from the store or the website, the shopper will buy other products and become loyal to the brand. Unfortunately, for business owners, consumers sometimes leave without buying other products or subscribing to the brand. This consumer practice of jumping from shop to shop and picking up loss leader items is called [[cherry picking]](https://www.investopedia.com/terms/c/cherrypicking.asp).
 
 Some retailers place loss leaders at the back of their stores so consumers will have to walk by other, more expensive products to get to them. One of the most practiced examples of this is the sale of milk. Milk, a common household item, is often placed at the back of every grocery store, requiring an individual to pass by almost every other item in a grocery store.
 
@@ -46,7 +46,7 @@ Even if the shopper just came in the store to buy milk, it is very likely they w
 
 ## Loss Leaders and Introductory Pricing
 
-Introductory pricing can also be a loss leader. For example, a credit card company may offer a low [introductory rate](https://www.investopedia.com/terms/i/initial-interest-rate.asp) to entice clients to use a card or transfer their existing balances. Then, after snagging the client, the company raises its interest rates. Similarly, cable companies often offer low rates, sometimes at a loss, for an initial period to attract new customers or to lure customers away from competitors.
+Introductory pricing can also be a loss leader. For example, a credit card company may offer a low [[introductory rate]](https://www.investopedia.com/terms/i/initial-interest-rate.asp) to entice clients to use a card or transfer their existing balances. Then, after snagging the client, the company raises its interest rates. Similarly, cable companies often offer low rates, sometimes at a loss, for an initial period to attract new customers or to lure customers away from competitors.
 
 ## Disadvantages of a Loss Leader Strategy
 

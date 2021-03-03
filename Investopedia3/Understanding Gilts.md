@@ -16,7 +16,7 @@ author: James Chen
 Understanding Gilts
 ## What Are Gilts?
 
-Government bonds in the U.K., India, and several other Commonwealth countries are known as gilts. Gilts are the equivalent of [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp) securities in their respective countries. The term gilt is often used informally to describe any bond that has a very low risk of default and a correspondingly low rate of return. They are called gilts because the original certificates issued by the British government had gilded edges.
+Government bonds in the U.K., India, and several other Commonwealth countries are known as gilts. Gilts are the equivalent of [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) securities in their respective countries. The term gilt is often used informally to describe any bond that has a very low risk of default and a correspondingly low rate of return. They are called gilts because the original certificates issued by the British government had gilded edges.
 
 Gilts are government bonds, so they are particularly sensitive to interest rate changes. They also provide diversification benefits because of their low or negative correlation with stock markets. Gilts often respond strongly to political events, such as Brexit.
 
@@ -24,25 +24,25 @@ The term "gilt-edged" may imply safety, but an interested investor should always
 
 ## Types of Gilts
 
-Gilts may be conventional gilts issued in nominal terms or index-linked gilts, which are indexed to inflation. Governments issue conventional gilts in the national currency, and they do not make adjustments for inflation. Index-linked gilts make payments for inflation, so they are quite similar to U.S. Treasury Inflation-Protected Securities ([TIPS](https://www.investopedia.com/terms/t/tips.asp)). There are also gilt [strips](https://www.investopedia.com/terms/s/stripbond.asp) that separate the interest payments from the gilts, creating separate securities.
+Gilts may be conventional gilts issued in nominal terms or index-linked gilts, which are indexed to inflation. Governments issue conventional gilts in the national currency, and they do not make adjustments for inflation. Index-linked gilts make payments for inflation, so they are quite similar to U.S. Treasury Inflation-Protected Securities ([TIPS](https://www.investopedia.com/terms/t/tips.asp)). There are also gilt [[strips]](https://www.investopedia.com/terms/s/stripbond.asp) that separate the interest payments from the gilts, creating separate securities.
 
 ### Conventional Gilts
 
-Conventional gilts are nominal bonds that promise to pay a fixed coupon rate at set time intervals, such as every six months. They represent the majority of government debt. When a conventional gilt matures, its holder receives the last coupon and the [principal](https://www.investopedia.com/terms/p/principal.asp).
+Conventional gilts are nominal bonds that promise to pay a fixed coupon rate at set time intervals, such as every six months. They represent the majority of government debt. When a conventional gilt matures, its holder receives the last coupon and the [[principal]](https://www.investopedia.com/terms/p/principal.asp).
 
-When first issued, the coupon rate of a conventional gilt typically approximates the market interest rate. Conventional gilts have prescribed maturities, which are often five, ten, or 30 years from the date of issuance. The U.K. also issued some [undated gilts](https://www.investopedia.com/terms/p/perpetualbond.asp), which pay interest forever without ever reaching maturity and repaying the principal.
+When first issued, the coupon rate of a conventional gilt typically approximates the market interest rate. Conventional gilts have prescribed maturities, which are often five, ten, or 30 years from the date of issuance. The U.K. also issued some [[undated gilts]](https://www.investopedia.com/terms/p/perpetualbond.asp), which pay interest forever without ever reaching maturity and repaying the principal.
 
 ### Index-Linked Gilts
 
 Index-linked gilts represent bonds with borrowing rates and principal payments linked to changes in the inflation rate. The U.K. became the first country to issue inflation-indexed bonds in 1981. Index-linked gilts are a much more recent phenomenon in India, where they were first issued in 2013.
 
-Index-linked gilts in the U.K. make coupon payments every six months, coupled with one principal payment upon maturity. Coupon rates are adjusted to reflect changes in the U.K. [retail price index](https://www.investopedia.com/terms/r/rpi.asp), which measures inflation. A higher inflation rate results in a higher coupon payment on index-linked gilts. For gilts issued after September 2005, coupon rates are adjusted based on the inflation rate published three months ago. Securities issued before September 2005 use an eight-month lag.
+Index-linked gilts in the U.K. make coupon payments every six months, coupled with one principal payment upon maturity. Coupon rates are adjusted to reflect changes in the U.K. [[retail price index]](https://www.investopedia.com/terms/r/rpi.asp), which measures inflation. A higher inflation rate results in a higher coupon payment on index-linked gilts. For gilts issued after September 2005, coupon rates are adjusted based on the inflation rate published three months ago. Securities issued before September 2005 use an eight-month lag.
 
 ## Private Sector Gilts or Gilt-Edged Securities
 
 Low-risk corporate bonds and stocks may also be called gilts or gilt-edged securities. A gilt-edge denotes a high-quality item, the value of which remains relatively stable over time. For that reason, only large companies and national governments that have a track record of operating safely and profitably issue gilt-edge securities.
 
-A bond described as gilt-edged should have one of the top ratings assigned by credit rating services such as Standard & Poor's and Moody's. Because of their low risk, [gilt-edged bonds](https://www.investopedia.com/terms/g/giltedgedbond.asp) have yields that are well below those offered by more speculative bonds. Such bonds often serve as the cornerstone of investment portfolios for conservative investors whose top priority is capital preservation.
+A bond described as gilt-edged should have one of the top ratings assigned by credit rating services such as Standard & Poor's and Moody's. Because of their low risk, [[gilt-edged bonds]](https://www.investopedia.com/terms/g/giltedgedbond.asp) have yields that are well below those offered by more speculative bonds. Such bonds often serve as the cornerstone of investment portfolios for conservative investors whose top priority is capital preservation.
 
 ### Key Takeaways
 
@@ -58,7 +58,7 @@ Private sector gilts or guilt-edged securities should not be confused with gover
 
 Corporate gilts in the U.K. or other Commonwealth countries should be considered the equivalent of blue-chip securities in the United States.
 
-Even the bluest of blue-chip companies can run into difficulties from time to time. [A study](https://www.nber.org/papers/w15848) by the National Bureau of Economic Research notes that defaults reached 36% of the par value of the total corporate bond market in the railroad crisis between 1873 and 1875. During the 2008 financial crisis, several prestigious financial institutions saw their credit ratings reduced and bond values plummet. Some of them, such as Lehman Brothers, went bankrupt.
+Even the bluest of blue-chip companies can run into difficulties from time to time. [[A study]](https://www.nber.org/papers/w15848) by the National Bureau of Economic Research notes that defaults reached 36% of the par value of the total corporate bond market in the railroad crisis between 1873 and 1875. During the 2008 financial crisis, several prestigious financial institutions saw their credit ratings reduced and bond values plummet. Some of them, such as Lehman Brothers, went bankrupt.
 
 ### Buying Gilts in the U.K.
 

@@ -16,7 +16,7 @@ author: Daniel Liberto
 Underlying Profit Definition
 ## What is Underlying Profit?
 
-Underlying profit is a calculation made internally by a company to show what it believes is a more accurate reflection of how much money it generates. The number focuses on regular [accounting cycle](https://www.investopedia.com/terms/a/accounting-cycle.asp) events and often excludes [one-time charges](https://www.investopedia.com/terms/o/one-time-charge.asp) or infrequent occurrences. Underlying profit differs from the required [accounting profit](https://www.investopedia.com/terms/a/accountingprofit.asp) that is recorded on [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) and other mandatory documents that follow preset practices, rules, and regulations.
+Underlying profit is a calculation made internally by a company to show what it believes is a more accurate reflection of how much money it generates. The number focuses on regular [[accounting cycle]](https://www.investopedia.com/terms/a/accounting-cycle.asp) events and often excludes [[one-time charges]](https://www.investopedia.com/terms/o/one-time-charge.asp) or infrequent occurrences. Underlying profit differs from the required [accounting profit](https://www.investopedia.com/terms/a/accountingprofit.asp) that is recorded on [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) and other mandatory documents that follow preset practices, rules, and regulations.
 
 ### Key Takeaways
 
@@ -26,24 +26,24 @@ Underlying profit is a calculation made internally by a company to show what it 
 
 ## How Underlying Profit Works
 
-When companies publish their financials, [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) require them to disclose how much [profit](https://www.investopedia.com/terms/p/profit.asp) they generated. This is calculated by subtracting all dollar costs from revenue, the same calculation used to determine how much [income tax](https://www.investopedia.com/terms/i/incometax.asp) to pay.
+When companies publish their financials, [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) require them to disclose how much [[profit]](https://www.investopedia.com/terms/p/profit.asp) they generated. This is calculated by subtracting all dollar costs from revenue, the same calculation used to determine how much [[income tax]](https://www.investopedia.com/terms/i/incometax.asp) to pay.
 
 Often, companies will choose to supplement this figure with their own calculation. Underlying profit is designed to offer a more useful indicator of performance on a year-by-year basis.
 
-Stripping out unusual, [non-recurring costs](https://www.investopedia.com/terms/n/nonrecurringcharge.asp), such as natural disaster damage charges, irons out random fluctuations and should, in theory, make it easier for investors to get a better idea of how the company’s profit from its everyday, standard business operations varies over several fiscal years.
+Stripping out unusual, [[non-recurring costs]](https://www.investopedia.com/terms/n/nonrecurringcharge.asp), such as natural disaster damage charges, irons out random fluctuations and should, in theory, make it easier for investors to get a better idea of how the company’s profit from its everyday, standard business operations varies over several fiscal years.
 
 ### Important
 
 Companies often use underlying profit figures for business planning purposes.
 
-The goal here is to eliminate any distractions caused by random occurrences. Losses or gains that do not regularly crop up, such as [restructuring charges](https://www.investopedia.com/terms/r/restructuring-charge.asp) or the buying or selling of land or property, are usually not taken into account because they do not occur often and, as a result, are not deemed to reflect the everyday costs of running the business.
+The goal here is to eliminate any distractions caused by random occurrences. Losses or gains that do not regularly crop up, such as [[restructuring charges]](https://www.investopedia.com/terms/r/restructuring-charge.asp) or the buying or selling of land or property, are usually not taken into account because they do not occur often and, as a result, are not deemed to reflect the everyday costs of running the business.
 
-In general, only regular [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp) considered to be predictable or required will be deducted from gross sales in order to arrive at the underlying profit. They can include the following:
+In general, only regular [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp) considered to be predictable or required will be deducted from gross sales in order to arrive at the underlying profit. They can include the following:
 
 -   Personnel expenses, including everything from [payroll](https://www.investopedia.com/terms/p/payroll.asp) to training, are often considered to be operating expenses because salaries are often negotiated in advance and training costs are known from prior experience.
 -   Facility expenses, including rent or [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) payments (if applicable), utilities and insurance also qualify because costs have been pre-established by contract or other agreement.
 -   Technology-related expenses, including software maintenance and upgrades.
--   [Asset replacement](https://www.investopedia.com/terms/r/replacementcost.asp)
+-   [[Asset replacement]](https://www.investopedia.com/terms/r/replacementcost.asp)
 
 ## Example of a One-Time Event Removed for the Calculation of Underlying Profit
 

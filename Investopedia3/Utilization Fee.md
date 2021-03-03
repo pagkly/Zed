@@ -16,13 +16,13 @@ author: Julia Kagan
 Utilization Fee
 ## What Is a Utilization Fee?
 
-A utilization fee is a regular, periodic fee assessed by a lender against a borrower. The fee is based on the amount of credit actually used by a borrower in a revolving line of credit or [term loan](https://www.investopedia.com/terms/t/termloan.asp).
+A utilization fee is a regular, periodic fee assessed by a lender against a borrower. The fee is based on the amount of credit actually used by a borrower in a revolving line of credit or [[term loan]](https://www.investopedia.com/terms/t/termloan.asp).
 
 ## Utilization Fee Explained
 
 The fee is based on the actual amount of funds that is used from a line of credit or term loan. The borrower must pay the utilization fee, in addition to other fees, as part of the terms of the line of credit or term loan. Utilization fees may be charged by lenders especially when borrowers access large portions of their line of credit or loan because of the capital demands such activity puts on the borrower.
 
-If all borrowers [used nearly the full amount of the balance](https://www.investopedia.com/terms/c/credit-utilization-rate.asp) available to them, lenders could be strained to meet demand consistently. By charging utilization fees, a lender can create streams of capital to sustain their operations, while also giving borrowers an incentive to reduce or eliminate their outstanding balances in order to avoid paying these costs.
+If all borrowers [[used nearly the full amount of the balance]](https://www.investopedia.com/terms/c/credit-utilization-rate.asp) available to them, lenders could be strained to meet demand consistently. By charging utilization fees, a lender can create streams of capital to sustain their operations, while also giving borrowers an incentive to reduce or eliminate their outstanding balances in order to avoid paying these costs.
 
 ## How Utilization Fees Are Applied
 

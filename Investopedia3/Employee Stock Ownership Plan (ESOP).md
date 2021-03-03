@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Employee Stock Ownership Plan (ESOP)
 ## What Is an Employee Stock Ownership Plan (ESOP)?
 
-An employee stock ownership plan (ESOP) is an employee benefit plan that gives workers ownership interest in the company. ESOPs give the sponsoring company, the selling [shareholder](https://www.investopedia.com/terms/s/shareholder.asp), and participants receive various tax benefits, making them qualified plans. Companies often use ESOPs as a [corporate-finance](https://www.investopedia.com/terms/c/corporatefinance.asp) strategy to align the interests of their employees with those of their shareholders.
+An employee stock ownership plan (ESOP) is an employee benefit plan that gives workers ownership interest in the company. ESOPs give the sponsoring company, the selling [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp), and participants receive various tax benefits, making them qualified plans. Companies often use ESOPs as a [[corporate-finance]](https://www.investopedia.com/terms/c/corporatefinance.asp) strategy to align the interests of their employees with those of their shareholders.
 
 ### Key Takeaways
 
@@ -43,10 +43,10 @@ Employee-owned corporations are companies with majority holdings held by their o
 
 Stock ownership plans provide packages that act as additional benefits for employees to prevent hostility and keep a specific corporate culture that company managements want to maintain.
 
-Other versions of employee ownership include direct-purchase programs, stock options, [restricted stock](https://www.investopedia.com/terms/r/restrictedstock.asp), phantom stock, and stock appreciation rights. Direct-purchase plans let employees purchase shares of their respective companies with their personal after-tax money. Some countries provide special tax-qualified plans that let employees purchase company stock at discounted prices. 
+Other versions of employee ownership include direct-purchase programs, stock options, [[restricted stock]](https://www.investopedia.com/terms/r/restrictedstock.asp), phantom stock, and stock appreciation rights. Direct-purchase plans let employees purchase shares of their respective companies with their personal after-tax money. Some countries provide special tax-qualified plans that let employees purchase company stock at discounted prices. 
 
 ### Restricted Stock, Stock Options, and Phantom Stock
 
-Restricted stock gives the employees the right to receive shares as a gift or a purchased item after meeting particular restrictions, such as working for a specific period or hitting specific performance targets. Stock options provide employees with the opportunity to buy shares at a fixed price for a set period, while phantom stock provides [cash bonuses](https://www.investopedia.com/terms/c/cash-bonus.asp) for good employee performance.
+Restricted stock gives the employees the right to receive shares as a gift or a purchased item after meeting particular restrictions, such as working for a specific period or hitting specific performance targets. Stock options provide employees with the opportunity to buy shares at a fixed price for a set period, while phantom stock provides [[cash bonuses]](https://www.investopedia.com/terms/c/cash-bonus.asp) for good employee performance.
 
 These bonuses equate to the value of a particular number of shares. Stock appreciation rights give employees the right to raise the value of an assigned number of shares. Companies usually pay these shares in cash.

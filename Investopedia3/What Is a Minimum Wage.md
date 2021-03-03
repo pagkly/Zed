@@ -26,11 +26,11 @@ A minimum wage is the lowest wage per hour that a worker may be paid, as mandate
 
 ## Understanding a Minimum Wage
 
-Minimum wage laws were first introduced in Australia and New Zealand in an attempt to raise the income of [unskilled workers](https://www.investopedia.com/terms/u/unskilled-labor.asp).1 Nowadays, most modern [developed economies](https://www.investopedia.com/terms/d/developed-economy.asp), as well as many [underdeveloped economies](https://www.investopedia.com/terms/l/ldc.asp), enforce a national minimum wage. Exceptions include Sweden, Norway, and Singapore.2
+Minimum wage laws were first introduced in Australia and New Zealand in an attempt to raise the income of [unskilled workers](https://www.investopedia.com/terms/u/unskilled-labor.asp).1 Nowadays, most modern [[developed economies]](https://www.investopedia.com/terms/d/developed-economy.asp), as well as many [[underdeveloped economies]](https://www.investopedia.com/terms/l/ldc.asp), enforce a national minimum wage. Exceptions include Sweden, Norway, and Singapore.2
 
-As of 2021, the federal minimum wage rate in the United States is $7.25 per hour.3 This means that it is illegal for an American worker to sell their labor for less than $7.25 per hour unless the worker falls into a category specifically exempted from the [Fair Labor Standards Act (FLSA)](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp).
+As of 2021, the federal minimum wage rate in the United States is $7.25 per hour.3 This means that it is illegal for an American worker to sell their labor for less than $7.25 per hour unless the worker falls into a category specifically exempted from the [[Fair Labor Standards Act (FLSA)]](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp).
 
-The government periodically assesses the federal minimum wage level for changes in [inflation](https://www.investopedia.com/terms/i/inflation.asp) or [cost of living](https://www.investopedia.com/terms/c/cost-of-living.asp). The federal minimum wage has not increased since July 2009. The Fair Minimum Wage Act of 2007 ordered the minimum wage to be raised from $5.15 in three increments, rising to $5.85, $6.55, and then finally to $7.25.4
+The government periodically assesses the federal minimum wage level for changes in [inflation](https://www.investopedia.com/terms/i/inflation.asp) or [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp). The federal minimum wage has not increased since July 2009. The Fair Minimum Wage Act of 2007 ordered the minimum wage to be raised from $5.15 in three increments, rising to $5.85, $6.55, and then finally to $7.25.4
 
 ## Federal Minimum Wage vs. State Minimum Wages
 
@@ -82,7 +82,7 @@ The first minimum wage law in the United States appeared over a century ago. In 
 
 ## Special Considerations
 
-Like all [price floors](https://www.investopedia.com/terms/f/floor.asp), a minimum wage law only has a measurable effect when set above the market [clearing price](https://www.investopedia.com/terms/c/clearingprice.asp) for a transaction. For example, a minimum wage of $10 per hour will not affect workers whose marginal [productivity](https://www.investopedia.com/terms/p/productivity.asp) in a given line of work is greater than $10 per hour. The legal [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) rate remains unchanged for such labor.
+Like all [price floors](https://www.investopedia.com/terms/f/floor.asp), a minimum wage law only has a measurable effect when set above the market [clearing price](https://www.investopedia.com/terms/c/clearingprice.asp) for a transaction. For example, a minimum wage of $10 per hour will not affect workers whose marginal [[productivity]](https://www.investopedia.com/terms/p/productivity.asp) in a given line of work is greater than $10 per hour. The legal [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) rate remains unchanged for such labor.
 
 For those with marginal productivity less than $10 per hour, however, a $10 per hour minimum wage creates an artificial shortage of profitable labor. An unskilled worker with marginal productivity of $8 per hour in California or Massachusetts can only offer to work at a loss to their potential employer. This means the employer can only hire the worker if they are willing to pay more in salary than the [marginal revenue](https://www.investopedia.com/terms/m/marginal-revenue-mr.asp) produced by the worker or if the employer incorrectly estimates the worker's marginal productivity to be above $10 per hour.
 

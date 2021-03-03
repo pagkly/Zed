@@ -16,7 +16,7 @@ author: Adam Hayes
 Shareholder Definition
 ## What Is a Shareholder?
 
-A shareholder, also referred to as a stockholder, is a person, company, or institution that owns at least one share of a company’s [stock](https://www.investopedia.com/investing/what-owning-stock-actually-means/), which is known as equity. Because shareholders are essentially owners in a company, they reap the benefits of a business’ success. These rewards come in the form of increased stock valuations, or as financial profits distributed as dividends. Conversely, when a company loses money, the share price invariably drops, which can cause shareholders to lose money, or suffer declines in their portfolios’ values.
+A shareholder, also referred to as a stockholder, is a person, company, or institution that owns at least one share of a company’s [[stock]](https://www.investopedia.com/investing/what-owning-stock-actually-means/), which is known as equity. Because shareholders are essentially owners in a company, they reap the benefits of a business’ success. These rewards come in the form of increased stock valuations, or as financial profits distributed as dividends. Conversely, when a company loses money, the share price invariably drops, which can cause shareholders to lose money, or suffer declines in their portfolios’ values.
 
 **\[Important: While shareholder are entitled to collect proceeds that are left-over after a company liquidates its assets, creditors, bondholders, and preferred stockholders have precedence over common stockholders, who may be left with nothing.\]**
 
@@ -43,10 +43,10 @@ According to a corporation's charter and bylaws, shareholders traditionally enjo
 -   The right to inspect the company's books and records
 -   To power to sue the corporation for misdeeds of its directors and/or officers
 -   The right to vote on key corporate matters, such as naming board directors and deciding whether or not to greenlight potential mergers
--   The entitlement to receive [dividends](https://www.investopedia.com/terms/d/dividend.asp)
+-   The entitlement to receive [[dividends]](https://www.investopedia.com/terms/d/dividend.asp)
 -   The right to attend annual meetings, either in person or via conference calls
 -   The right to vote on key matters by proxy, either through mail-in ballots, or online voting platforms, if they’re unable to attend voting meetings in person
--   The right to claim a proportionate allocation of proceeds if a company [liquidates](https://www.investopedia.com/terms/l/liquidate.asp) its assets 
+-   The right to claim a proportionate allocation of proceeds if a company [[liquidates]](https://www.investopedia.com/terms/l/liquidate.asp) its assets 
 
 It is a common myth that corporations are required to maximize shareholder value. While this may be the goal of a firm's management or directors, it is not a legal duty.
 

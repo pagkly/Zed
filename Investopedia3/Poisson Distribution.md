@@ -16,9 +16,9 @@ author: Adam Hayes
 Poisson Distribution
 ## What Is a Poisson Distribution?
 
-In [statistics](https://www.investopedia.com/terms/s/statistics.asp), a Poisson distribution is a [probability distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that can be used to show how many times an event is likely to occur within a specified period of time. In other words, it is a count distribution. Poisson distributions are often used to understand independent events that occur at a constant rate within a given interval of time. It was named after French mathematician Siméon Denis Poisson.
+In [[statistics]](https://www.investopedia.com/terms/s/statistics.asp), a Poisson distribution is a [[probability distribution]](https://www.investopedia.com/terms/p/probabilitydistribution.asp) that can be used to show how many times an event is likely to occur within a specified period of time. In other words, it is a count distribution. Poisson distributions are often used to understand independent events that occur at a constant rate within a given interval of time. It was named after French mathematician Siméon Denis Poisson.
 
-The Poisson distribution is a [discrete function](https://www.investopedia.com/terms/d/discrete-distribution.asp), meaning that the variable can only take specific values in a (potentially infinite) list. Put differently, the variable cannot take all values in any continuous range. For the Poisson distribution (a discrete distribution), the variable can only take the values 0, 1, 2, 3, etc., with no fractions or decimals.
+The Poisson distribution is a [[discrete function]](https://www.investopedia.com/terms/d/discrete-distribution.asp), meaning that the variable can only take specific values in a (potentially infinite) list. Put differently, the variable cannot take all values in any continuous range. For the Poisson distribution (a discrete distribution), the variable can only take the values 0, 1, 2, 3, etc., with no fractions or decimals.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The Poisson distribution is a [discrete function](https://www.investopedia.com/t
 
 ## Understanding Poisson Distributions
 
-A Poisson [distribution](https://www.investopedia.com/articles/investing/102014/lognormal-and-normal-distribution.asp) can be used to estimate how likely it is that something will happen "X" number of times. For example, if the average number of people who rent movies on a Friday night at a single video store location is 400, a Poisson distribution can answer such questions as, "What is the probability that more than 600 people will rent movies?" Therefore, the application of the Poisson distribution enables managers to introduce optimal scheduling systems that would not work with, say, a [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp).
+A Poisson [[distribution]](https://www.investopedia.com/articles/investing/102014/lognormal-and-normal-distribution.asp) can be used to estimate how likely it is that something will happen "X" number of times. For example, if the average number of people who rent movies on a Friday night at a single video store location is 400, a Poisson distribution can answer such questions as, "What is the probability that more than 600 people will rent movies?" Therefore, the application of the Poisson distribution enables managers to introduce optimal scheduling systems that would not work with, say, a [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp).
 
 One of the most famous historical, practical uses of the Poisson distribution was estimating the annual number of Prussian cavalry soldiers killed due to horse-kicks. Other modern examples include estimating the number of car crashes in a city of a given size; in physiology, this distribution is often used to calculate the probabilistic frequencies of different types of neurotransmitter secretions. Or, if a video store averages 400 customers every Friday night, what is the probability that 600 customers will come in on any given Friday night?
 
@@ -38,10 +38,10 @@ Poisson Distribution Formula. C.K.Taylor
 
 Where:
 
--   _e_ is [Euler's number](https://www.investopedia.com/terms/e/eulers-constant.asp) (_e_ = 2.71828...)
+-   _e_ is [[Euler's number]](https://www.investopedia.com/terms/e/eulers-constant.asp) (_e_ = 2.71828...)
 -   _x_ is the number of occurrences
 -   _x_! is the factorial of _x_
--   λ is equal to the [expected value](https://www.investopedia.com/terms/e/expected-value.asp) of _x_ when that is also equal to its [variance](https://www.investopedia.com/terms/v/variance.asp)
+-   λ is equal to the [[expected value]](https://www.investopedia.com/terms/e/expected-value.asp) of _x_ when that is also equal to its [[variance]](https://www.investopedia.com/terms/v/variance.asp)
 
 Given data that follows a Poisson distribution, it appears graphically as:
 

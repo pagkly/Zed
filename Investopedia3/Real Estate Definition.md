@@ -16,7 +16,7 @@ author: James Chen
 Real Estate Definition
 ## What Is Real Estate?
 
-Real estate is the land along with any permanent improvements attached to the land, whether natural or man-made—including water, trees, minerals, buildings, homes, fences, and bridges. Real estate is a form of [real property](https://www.investopedia.com/terms/r/real-property.asp). It differs from personal property, which are things not permanently attached to the land, such as vehicles, boats, jewelry, furniture, and farm equipment.
+Real estate is the land along with any permanent improvements attached to the land, whether natural or man-made—including water, trees, minerals, buildings, homes, fences, and bridges. Real estate is a form of [[real property]](https://www.investopedia.com/terms/r/real-property.asp). It differs from personal property, which are things not permanently attached to the land, such as vehicles, boats, jewelry, furniture, and farm equipment.
 
 ### Key Takeaways
 
@@ -69,7 +69,7 @@ Despite the magnitude and complexity of the real estate market, many people tend
 
 Many professionals and businesses—including accountants, architects, banks, title insurance companies, surveyors, and lawyers—also depend on the real estate industry.
 
-[Real estate is a critical driver](https://www.investopedia.com/articles/mortages-real-estate/11/factors-affecting-real-estate-market.asp) of economic growth in the U.S. In fact, [housing starts](https://www.investopedia.com/terms/h/housingstarts.asp)—the number of new residential construction projects in any given month—released by the U.S. Census Bureau is a key economic indicator. The report includes building permits, housing starts, and housing completions data, divided into three different categories:
+[Real estate is a critical driver](https://www.investopedia.com/articles/mortages-real-estate/11/factors-affecting-real-estate-market.asp) of economic growth in the U.S. In fact, [[housing starts]](https://www.investopedia.com/terms/h/housingstarts.asp)—the number of new residential construction projects in any given month—released by the U.S. Census Bureau is a key economic indicator. The report includes building permits, housing starts, and housing completions data, divided into three different categories:
 
 -   Single-family homes
 -   Homes with 2-4 units
@@ -87,11 +87,11 @@ For example, if housing starts indicate fewer single-family and more multifamily
 
 There are a number of ways to invest in real estate. Some of the most common ways to invest directly include:
 
--   [Homeownership](https://www.investopedia.com/homebuying-guide-4776300)
--   [Rental properties](https://www.investopedia.com/articles/investing/090815/buying-your-first-investment-property-top-10-tips.asp)
--   [House flipping](https://www.investopedia.com/articles/pf/07/flippers.asp)
+-   [[Homeownership]](https://www.investopedia.com/homebuying-guide-4776300)
+-   [[Rental properties]](https://www.investopedia.com/articles/investing/090815/buying-your-first-investment-property-top-10-tips.asp)
+-   [[House flipping]](https://www.investopedia.com/articles/pf/07/flippers.asp)
 
-If you buy physical property (e.g., rental properties, house flipping), you can make money two different ways: Revenue from rent or leases, and [appreciation](https://www.investopedia.com/terms/a/appreciation.asp) of the real estate's value. Unlike other investments, real estate is dramatically affected by its location. Factors such as employment rates, the local economy, crime rates, transportation facilities, school quality, municipal services, and property taxes can drive real estate prices up or down.
+If you buy physical property (e.g., rental properties, house flipping), you can make money two different ways: Revenue from rent or leases, and [[appreciation]](https://www.investopedia.com/terms/a/appreciation.asp) of the real estate's value. Unlike other investments, real estate is dramatically affected by its location. Factors such as employment rates, the local economy, crime rates, transportation facilities, school quality, municipal services, and property taxes can drive real estate prices up or down.
 
 Pros
 
@@ -115,7 +115,7 @@ Cons
 -   May require active management and expertise
     
 
-You can invest in real estate indirectly, as well. One of the most popular ways to do so is through a [real estate investment trust](https://www.investopedia.com/terms/r/reit.asp) (REIT)—a company that holds a portfolio of income-producing real estate. There are several broad types of REITs, including equity, mortgage, and hybrid REITs. REITs are further classified based on how their shares are bought and sold:
+You can invest in real estate indirectly, as well. One of the most popular ways to do so is through a [[real estate investment trust]](https://www.investopedia.com/terms/r/reit.asp) (REIT)—a company that holds a portfolio of income-producing real estate. There are several broad types of REITs, including equity, mortgage, and hybrid REITs. REITs are further classified based on how their shares are bought and sold:
 
 -   Publicly traded REITs
 -   Public non-traded REITs
@@ -123,7 +123,7 @@ You can invest in real estate indirectly, as well. One of the most popular ways 
 
 The most popular way to invest in a REIT is to buy shares that are publicly traded on an exchange. Since the shares trade like any other security traded on an exchange (think stocks), it makes REITs very liquid and transparent.
 
-Like many stocks, you earn income from REITs through dividend payments and appreciation of the shares. In addition to individual REITs, you can also invest in real estate mutual funds and real estate [exchange traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs).
+Like many stocks, you earn income from REITs through dividend payments and appreciation of the shares. In addition to individual REITs, you can also invest in real estate mutual funds and real estate [[exchange traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs).
 
 What We Like
 
@@ -149,7 +149,7 @@ What We Don't Like
 
 ## Mortgage-Backed Securities
 
-Another option for investing in real estate is via [mortgage-backed securities](https://www.investopedia.com/terms/m/mbs.asp) (MBS). These received a lot of bad press due to the role they played in the mortgage meltdown that triggered a global financial crisis in 2007-08. However, MBS are still in existence and traded.
+Another option for investing in real estate is via [[mortgage-backed securities]](https://www.investopedia.com/terms/m/mbs.asp) (MBS). These received a lot of bad press due to the role they played in the mortgage meltdown that triggered a global financial crisis in 2007-08. However, MBS are still in existence and traded.
 
 The most accessible way for the average investor to buy into these products is via ETFs. Like all investments, these products carry a degree of risk. However, they may also offer portfolio diversification. Investors must investigate the holdings to ensure the funds specialize in investment-grade mortgage-backed securities, not the subprime variety that figured in the crisis.
 

@@ -16,9 +16,9 @@ author: Julia Kagan
 Home Equity Conversion Mortgage (HECM)
 ## What Is a Home Equity Conversion Mortgage (HECM)?
 
-A home equity conversion mortgage (HECM) is a type of reverse mortgage that is insured by the [Federal Housing Administration (FHA)](https://www.investopedia.com/terms/f/federal-housing-administration.asp) Home equity conversion mortgages allow seniors to convert the equity in their home into cash.
+A home equity conversion mortgage (HECM) is a type of reverse mortgage that is insured by the [[Federal Housing Administration (FHA)]](https://www.investopedia.com/terms/f/federal-housing-administration.asp) Home equity conversion mortgages allow seniors to convert the equity in their home into cash.
 
-The amount that may be borrowed is based on the [appraised value](https://www.investopedia.com/terms/a/appraised_value.asp) of the home (and is subject to FHA limits). Borrowers must also be at least 62 years old. Money is advanced against the value of the equity in the home. Interest accrues on the outstanding loan balance, but no payments must be made until the home is sold or the borrower(s) die, at which point the loan must be repaid entirely.
+The amount that may be borrowed is based on the [[appraised value]](https://www.investopedia.com/terms/a/appraised_value.asp) of the home (and is subject to FHA limits). Borrowers must also be at least 62 years old. Money is advanced against the value of the equity in the home. Interest accrues on the outstanding loan balance, but no payments must be made until the home is sold or the borrower(s) die, at which point the loan must be repaid entirely.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ The amount that may be borrowed is based on the [appraised value](https://www.in
 
 ## How a Home Equity Conversion Mortgage Works
 
-Home equity conversion mortgages are a popular type of [reverse mortgage](https://www.investopedia.com/mortgage/reverse-mortgage/); in fact, they make up the bulk of the reverse mortgage market. Generally, reverse mortgage terms can vary with privately sponsored reverse mortgage products—officially known as [proprietary reverse mortgages](https://www.investopedia.com/terms/p/proprietary-reverse-mortgage.asp)—potentially allowing for higher borrowing amounts with lower costs than HECMs.
+Home equity conversion mortgages are a popular type of [[reverse mortgage]](https://www.investopedia.com/mortgage/reverse-mortgage/); in fact, they make up the bulk of the reverse mortgage market. Generally, reverse mortgage terms can vary with privately sponsored reverse mortgage products—officially known as [[proprietary reverse mortgages]](https://www.investopedia.com/terms/p/proprietary-reverse-mortgage.asp)—potentially allowing for higher borrowing amounts with lower costs than HECMs.
 
 HECMs, however, will typically offer lower interest rates for borrowers. The economics of a HECM—versus a privately sponsored reverse mortgage—will depend on the borrower’s age and how long the borrower expects to live or own the home. Many types of reverse mortgages will exclusively target seniors with no requirements for repayment until the borrower sells their home or dies.
 
-A HECM can also be considered in comparison to a [home equity](https://www.investopedia.com/terms/h/home_equity.asp) loan. A home equity loan is not dissimilar to a reverse mortgage, since borrowers are issued a cash advance based on the equity value of their home, which acts as collateral. However, with a home equity loan, the funds have to be paid back, usually in steady monthly interest payments shortly after the funds are disbursed.
+A HECM can also be considered in comparison to a [[home equity]](https://www.investopedia.com/terms/h/home_equity.asp) loan. A home equity loan is not dissimilar to a reverse mortgage, since borrowers are issued a cash advance based on the equity value of their home, which acts as collateral. However, with a home equity loan, the funds have to be paid back, usually in steady monthly interest payments shortly after the funds are disbursed.
 
 ### $765,600
 

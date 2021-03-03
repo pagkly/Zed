@@ -16,7 +16,7 @@ author: Troy Segal
 TreasuryDirect Definition
 ## What Is TreasuryDirect?
 
-TreasuryDirect is the online platform through which investors can purchase federal government securities directly from the [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp).
+TreasuryDirect is the online platform through which investors can purchase federal government securities directly from the [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp).
 
 ### Key Takeaways
 
@@ -33,12 +33,12 @@ The TreasuryDirect website is the main portal through which the U.S. Treasury se
 
 The types of Treasury securities available through TreasuryDirect include:
 
--   [Treasury bills](https://www.investopedia.com/terms/t/treasurybill.asp)2
--   [Treasury notes](https://www.investopedia.com/terms/t/treasurynote.asp)3
--   [Treasury bonds](https://www.investopedia.com/terms/t/treasurybond.asp)4
--   [Series I savings bonds](https://www.investopedia.com/terms/s/seriesibond.asp)5
--   [Series EE savings bonds](https://www.investopedia.com/terms/s/serieseebond.asp)6
--   [Treasury Inflation-Protected Securities](https://www.investopedia.com/terms/t/tips.asp) (TIPS)7
+-   [[Treasury bills]](https://www.investopedia.com/terms/t/treasurybill.asp)2
+-   [[Treasury notes]](https://www.investopedia.com/terms/t/treasurynote.asp)3
+-   [[Treasury bonds]](https://www.investopedia.com/terms/t/treasurybond.asp)4
+-   [[Series I savings bonds]](https://www.investopedia.com/terms/s/seriesibond.asp)5
+-   [[Series EE savings bonds]](https://www.investopedia.com/terms/s/serieseebond.asp)6
+-   [[Treasury Inflation-Protected Securities]](https://www.investopedia.com/terms/t/tips.asp) (TIPS)7
 
 The TreasuryDirect trading system eliminates banks, brokers, and dealers as middlemen, saving investors money on commissions and fees.
 
@@ -46,18 +46,18 @@ The TreasuryDirect trading system eliminates banks, brokers, and dealers as midd
 
 The minimum required investment in the TreasuryDirect market
 
-Treasury securities are sold through an auction process, which establishes a security’s rate and [yield](https://www.investopedia.com/terms/y/yield.asp). Investors can place either competitive or non-competitive bids. [Competitive bidders](https://www.investopedia.com/terms/c/competitivebid.asp) specify the rate, yield, or [discount margin](https://www.investopedia.com/terms/d/discountmargin.asp) that they will accept; non-competitive bidders agree to accept the rate, yield, or discount margin that the auction establishes.
+Treasury securities are sold through an auction process, which establishes a security’s rate and [[yield]](https://www.investopedia.com/terms/y/yield.asp). Investors can place either competitive or non-competitive bids. [[Competitive bidders]](https://www.investopedia.com/terms/c/competitivebid.asp) specify the rate, yield, or [[discount margin]](https://www.investopedia.com/terms/d/discountmargin.asp) that they will accept; non-competitive bidders agree to accept the rate, yield, or discount margin that the auction establishes.
 
-At the auction’s close, the Treasury first issues securities to all [non-competitive bidders](https://www.investopedia.com/terms/n/noncompetitivetender.asp), then to competitive bidders from lowest to the highest bid, until it has issued the total amount of securities provided for by that [auction](https://www.investopedia.com/terms/a/auction.asp). All accepted bidders receive the terms of the highest accepted offer. The minimum required investment in the TreasuryDirect market is $100.8
+At the auction’s close, the Treasury first issues securities to all [[non-competitive bidders]](https://www.investopedia.com/terms/n/noncompetitivetender.asp), then to competitive bidders from lowest to the highest bid, until it has issued the total amount of securities provided for by that [[auction]](https://www.investopedia.com/terms/a/auction.asp). All accepted bidders receive the terms of the highest accepted offer. The minimum required investment in the TreasuryDirect market is $100.8
 
 ## How to Open a TreasuryDirect Account
 
-To open a TreasuryDirect account, investors must have a Social Security number or [employer identification number](https://www.investopedia.com/terms/e/employer-identification-number.asp) (EIN), a U.S. address, a checking or savings account for transferring funds to and from a Treasury Direct account, an email address, and a secure web browser and Internet connection. Individuals, institutions, corporations, partnerships, [limited liability companies](https://www.investopedia.com/terms/l/llc.asp) (LLCs), sole proprietors, [estates](https://www.investopedia.com/terms/e/estate.asp) and trusts can also establish TreasuryDirect accounts.9
+To open a TreasuryDirect account, investors must have a Social Security number or [[employer identification number]](https://www.investopedia.com/terms/e/employer-identification-number.asp) (EIN), a U.S. address, a checking or savings account for transferring funds to and from a Treasury Direct account, an email address, and a secure web browser and Internet connection. Individuals, institutions, corporations, partnerships, [[limited liability companies]](https://www.investopedia.com/terms/l/llc.asp) (LLCs), sole proprietors, [[estates]](https://www.investopedia.com/terms/e/estate.asp) and trusts can also establish TreasuryDirect accounts.9
 
 You can request the IRS or your state tax department to deposit your tax refund straight into your Treasury Direct account and use the funds to purchase securities.10
 
-Of course, investors can still purchase Treasury securities through traditional channels, like brokerages or banks, even if they set up a [TreasuryDirect](https://www.treasurydirect.gov/indiv/products/products.htm) account; however, financial professionals cannot buy securities for clients through the system.
+Of course, investors can still purchase Treasury securities through traditional channels, like brokerages or banks, even if they set up a [[TreasuryDirect]](https://www.treasurydirect.gov/indiv/products/products.htm) account; however, financial professionals cannot buy securities for clients through the system.
 
 ## Special Considerations for Treasury Direct
 
-Only [new issues](https://www.investopedia.com/terms/n/newissue.asp) can be bought through TreasuryDirect. Treasury securities typically follow a schedule to release these new issues, also known as on-the-run Treasuries. Treasuries issued before the most recently issued bond or note of a particular maturity are referred to as [off-the-run Treasuries](https://www.investopedia.com/terms/o/off-the-runtreasuries.asp) as they are taken off TreasuryDirect. For example, the 52-week bill is auctioned every four weeks, at which time the previously existing 52-week bills will only be available for trading in the secondary market.11
+Only [[new issues]](https://www.investopedia.com/terms/n/newissue.asp) can be bought through TreasuryDirect. Treasury securities typically follow a schedule to release these new issues, also known as on-the-run Treasuries. Treasuries issued before the most recently issued bond or note of a particular maturity are referred to as [[off-the-run Treasuries]](https://www.investopedia.com/terms/o/off-the-runtreasuries.asp) as they are taken off TreasuryDirect. For example, the 52-week bill is auctioned every four weeks, at which time the previously existing 52-week bills will only be available for trading in the secondary market.11

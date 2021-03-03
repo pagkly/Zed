@@ -28,8 +28,8 @@ The net profit margin, or simply net margin, is equal to how much net income o
 
 Net profit margin\=R−COGS−E−I−TR∗100\=Net incomeR∗100where:R\=RevenueCOGS\=The cost of goods soldE\=Operating and other expensesI\=InterestT\=Taxes\\begin{aligned} \\text{Net profit margin} &= \\frac{R - COGS - E - I - T}{R}\*100\\\\ &= \\frac{\\text{Net income}}{R}\*100\\\\ \\textbf{where:}\\\\ R &= \\text{Revenue}\\\\ COGS &= \\text{The cost of goods sold}\\\\ E &= \\text{Operating and other expenses}\\\\ I &= \\text{Interest}\\\\ T &= \\text{Taxes} \\end{aligned}
 
-1.  On the income statement, subtract the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS), [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp), other expenses, interest (on debt), and taxes owed on revenue.
-2.  Divide the result by [revenue](https://www.investopedia.com/terms/r/revenue.asp).
+1.  On the income statement, subtract the [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS), [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp), other expenses, interest (on debt), and taxes owed on revenue.
+2.  Divide the result by [[revenue]](https://www.investopedia.com/terms/r/revenue.asp).
 3.  Convert the figure to a percentage by multiplying it by 100.
 4.  Alternatively, locate net income from the bottom line of the income statement and divide the figure by revenue. Convert the figure to a percentage by multiplying it by 100.
 
@@ -42,14 +42,14 @@ The net profit margin factors in all business activities including:
 -   Additional income streams
 -   COGS and other operational expenses
 -   Debt payments including interest paid
--   [Investment income](https://www.investopedia.com/terms/i/investmentincome.asp) and income from secondary operations 
--   [One-time payments](https://www.investopedia.com/terms/o/one-time-charge.asp) for unusual events such as lawsuits and taxes
+-   [[Investment income]](https://www.investopedia.com/terms/i/investmentincome.asp) and income from secondary operations 
+-   [[One-time payments]](https://www.investopedia.com/terms/o/one-time-charge.asp) for unusual events such as lawsuits and taxes
 
 Net profit margin is one of the most important indicators of a company's financial health. By tracking increases and decreases in its net profit margin, a company can assess whether current practices are working and forecast profits based on revenues. Because companies express net profit margin as a percentage rather than a dollar amount, it is possible to compare the profitability of two or more businesses regardless of size.
 
 Investors can assess if a company's management is generating enough profit from its sales and whether operating costs and overhead costs are being contained. For example, a company can have growing revenue, but if its operating costs are increasing at a faster rate than revenue, its net profit margin will shrink. Ideally, investors want to see a track record of expanding margins meaning that net profit margin is rising over time.
 
-Most publicly traded companies report their net profit margins both quarterly during [earnings](https://www.investopedia.com/terms/e/earnings.asp) releases and in their [annual reports](https://www.investopedia.com/terms/a/annualreport.asp). Companies that can expand their net margins over time are generally rewarded with share price growth, as share price growth is typically highly correlated with earnings growth.
+Most publicly traded companies report their net profit margins both quarterly during [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) releases and in their [[annual reports]](https://www.investopedia.com/terms/a/annualreport.asp). Companies that can expand their net margins over time are generally rewarded with share price growth, as share price growth is typically highly correlated with earnings growth.
 
 ## Net Margin vs. Gross Profit Margin
 
@@ -57,15 +57,15 @@ Most publicly traded companies report their net profit margins both quarterly du
 
 Gross profit margin is the gross profit divided by total revenue and is the percentage of income retained as profit after accounting for the cost of goods. Gross margin is helpful in determining how much profit is generated from the production of a company's goods because it excludes other items such as overhead from the corporate office, taxes, and interest on a debt.
 
-Net profit margin is the percentage of profit generated from revenue after accounting for all expenses, costs, and [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) items.
+Net profit margin is the percentage of profit generated from revenue after accounting for all expenses, costs, and [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) items.
 
-[Net income](https://www.investopedia.com/terms/n/netincome.asp) is also called the [bottom line](https://www.investopedia.com/terms/b/bottomline.asp) for a company as it appears at the end of the income statement.
+[Net income](https://www.investopedia.com/terms/n/netincome.asp) is also called the [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) for a company as it appears at the end of the income statement.
 
 ## Limitations of Net Profit Margin
 
-Net profit margin can be influenced by one-off items like the sale of an asset, which would temporarily boost profits. Net profit margin doesn't hone in on [sales or revenue](https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-sales.asp) growth, nor does it provide insight as to whether management is managing its production costs.
+Net profit margin can be influenced by one-off items like the sale of an asset, which would temporarily boost profits. Net profit margin doesn't hone in on [[sales or revenue]](https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-sales.asp) growth, nor does it provide insight as to whether management is managing its production costs.
 
-It's best to utilize several ratios and financial metrics when analyzing a company. Net profit margin is typically used in financial analysis, along with gross profit margin and [operating profit margin](https://www.investopedia.com/terms/o/operatingmargin.asp).
+It's best to utilize several ratios and financial metrics when analyzing a company. Net profit margin is typically used in financial analysis, along with gross profit margin and [[operating profit margin]](https://www.investopedia.com/terms/o/operatingmargin.asp).
 
 ## Hypothetical Example
 
@@ -83,7 +83,7 @@ Let's take another hypothetical example using the made-up Jazz Music Shop's FY 2
 
 Image by Julie Bang © Investopedia 2020
 
-Here, we can gather all of the information we need to plug into the net profit margin equation. We take our total revenue of $6,400 and deduct [variable costs](https://www.investopedia.com/terms/v/variablecost.asp) of $1,700 as well as [fixed costs](https://www.investopedia.com/terms/f/fixedcost.asp) of $350 to arrive at a net income of $4,350 for the period. If Jazz Music Shop also had to pay interest and taxes, that too would have been deducted from revenues.
+Here, we can gather all of the information we need to plug into the net profit margin equation. We take our total revenue of $6,400 and deduct [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp) of $1,700 as well as [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp) of $350 to arrive at a net income of $4,350 for the period. If Jazz Music Shop also had to pay interest and taxes, that too would have been deducted from revenues.
 
 The net profit margin is calculated by taking the ratio of net income to revenue. Net profit margin is calculated as follows:
 
@@ -94,7 +94,7 @@ $4350/$6400∗100\=0.68∗100\=68%\\$4350 / \\$6400 \* 100 = 0.68 \* 100 = 68\\%
 
 ## Real World Example
 
-Below is a portion of the [income statement](https://www.apple.com/newsroom/pdfs/Q1_FY19_Consolidated_Financial_Statements.pdf) for Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) as reported for the quarter ending on Dec. 29, 2018:
+Below is a portion of the [[income statement]](https://www.apple.com/newsroom/pdfs/Q1_FY19_Consolidated_Financial_Statements.pdf) for Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) as reported for the quarter ending on Dec. 29, 2018:
 
 -   Net sales or revenue was $84.310 billion (highlighted in blue).
 -   Net income was $19.965 billion for the period (highlighted in green). 

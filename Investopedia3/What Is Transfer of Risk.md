@@ -42,7 +42,7 @@ The insurance industry exists because few individuals or companies have the fina
 
 Some risks are too big for insurance companies to bear alone. That's where reinsurance comes in.
 
-When insurance companies don't want to assume too much risk, they transfer the excess risk to [reinsurance](https://www.investopedia.com/terms/r/reinsurance.asp) companies. For example, an insurance company may routinely write policies that limit its maximum liability to $10 million. But it may take on policies that require higher maximum amounts and then transfer the remainder of the risk in excess of $10 million to a reinsurer. This subcontract comes into play only if a major loss occurs.
+When insurance companies don't want to assume too much risk, they transfer the excess risk to [[reinsurance]](https://www.investopedia.com/terms/r/reinsurance.asp) companies. For example, an insurance company may routinely write policies that limit its maximum liability to $10 million. But it may take on policies that require higher maximum amounts and then transfer the remainder of the risk in excess of $10 million to a reinsurer. This subcontract comes into play only if a major loss occurs.
 
 ## Property Insurance Risk Transfer
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Personal Property
 ## What is Personal Property?
 
-Personal property is a class of property that can include any asset other than real estate. The distinguishing factor between personal property and [real estate](https://www.investopedia.com/terms/r/realestate.asp), or real property, is that personal property is movable; that is, it isn't fixed permanently to one particular location. It is generally not [taxed like fixed property](https://www.investopedia.com/terms/p/propertytax.asp).
+Personal property is a class of property that can include any asset other than real estate. The distinguishing factor between personal property and [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), or real property, is that personal property is movable; that is, it isn't fixed permanently to one particular location. It is generally not [[taxed like fixed property]](https://www.investopedia.com/terms/p/propertytax.asp).
 
 ## Understanding Personal Property
 
@@ -24,7 +24,7 @@ Personal property is also known as movable property, movables, and chattels. Bec
 
 Personal property can be insured for its current, possibly depreciated, value or for what it would cost to replace with a similar new item.
 
-Some kinds of property, such as home appliances, clothing, and automobiles, tend to depreciate in value over time. Other kinds, such as artworks and antiques, will sometimes appreciate in value. When assessing a would-be borrower's [creditworthiness](https://www.investopedia.com/terms/c/credit-worthiness.asp), lenders may look at the total current value of their personal property added to their real property.
+Some kinds of property, such as home appliances, clothing, and automobiles, tend to depreciate in value over time. Other kinds, such as artworks and antiques, will sometimes appreciate in value. When assessing a would-be borrower's [[creditworthiness]](https://www.investopedia.com/terms/c/credit-worthiness.asp), lenders may look at the total current value of their personal property added to their real property.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Just as some loans—mortgages, for example—are secured by real property, such
 
 ## Example of Personal Property and Insurance
 
-Personal property also comes into play when people insure their homes. A [homeowner's insurance](https://www.investopedia.com/terms/h/homeowners-insurance.asp) policy typically covers not just the physical dwelling but also the owner's personal property, often referred to as the home's "contents."
+Personal property also comes into play when people insure their homes. A [[homeowner's insurance]](https://www.investopedia.com/terms/h/homeowners-insurance.asp) policy typically covers not just the physical dwelling but also the owner's personal property, often referred to as the home's "contents."
 
 Most homeowners policies base the value of the policyholder's personal property on a percentage of the dwelling's value, typically 50% to 70%. For example, if a home would cost $200,000 to rebuild if it burned to the ground, the policy might use 70% of that figure, or $140,000, as the coverage limit for the owner's personal property.
 
@@ -50,4 +50,4 @@ So, for example, if a refrigerator were destroyed in a house fire, a homeowner w
 
 In the event that their personal property is destroyed, policyholders must file a claim with their insurance company, describing what they lost. For that reason, homeowners are well-advised to make an inventory of their personal property, ideally with photos and receipts, and store it safely off-premises, just in case it's ever needed.
 
-Homeowners policies also limits coverage for certain types of personal property, such as jewelry and computers. For example, a policy may limit its coverage of jewelry to $1,500. Policyholders whose jewelry is worth more than that can pay extra to raise the limits in their policy or buy additional insurance, often called a [floater](https://www.investopedia.com/terms/f/floaterinsurance.asp), to cover its full value.
+Homeowners policies also limits coverage for certain types of personal property, such as jewelry and computers. For example, a policy may limit its coverage of jewelry to $1,500. Policyholders whose jewelry is worth more than that can pay extra to raise the limits in their policy or buy additional insurance, often called a [[floater]](https://www.investopedia.com/terms/f/floaterinsurance.asp), to cover its full value.

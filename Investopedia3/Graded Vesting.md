@@ -16,7 +16,7 @@ author: Julia Kagan
 Graded Vesting
 ## What Is Graded Vesting?
 
-Graded vesting is the process by which employees gain, over time, ownership of employer contributions made to the employee's retirement plan account, traditional pension benefits, or stock options. Graded [vesting](https://www.investopedia.com/terms/v/vesting.asp) differs from [cliff vesting](https://www.investopedia.com/terms/c/cliffvesting.asp), in which employees become fully vested following an initial period of service; and immediate vesting, in which contributions are owned by the employee as soon as they start the job.
+Graded vesting is the process by which employees gain, over time, ownership of employer contributions made to the employee's retirement plan account, traditional pension benefits, or stock options. Graded [[vesting]](https://www.investopedia.com/terms/v/vesting.asp) differs from [cliff vesting](https://www.investopedia.com/terms/c/cliffvesting.asp), in which employees become fully vested following an initial period of service; and immediate vesting, in which contributions are owned by the employee as soon as they start the job.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Graded vesting is the process by which employees gain, over time, ownership of e
 
 ## Understanding Graded Vesting
 
-Graded vesting encourages employee loyalty since the vesting plays out over a few years of continuous employment. Many employers offer matching contributions to workers’ [tax-deferred retirement accounts](https://www.investopedia.com/terms/t/tax-deferred-savings-plan.asp) as a way to attract employees and to score corporate tax benefits. In some cases, these matches are 100%, up to certain limitations, perhaps 7% of salary. In that case, an employee who earns $75,000 and contributes 7% of their earnings to a [401(k) account](https://www.investopedia.com/terms/1/401kplan.asp) would save $10,500 towards retirement every year, with only $5,250 coming out of their own pocket. 
+Graded vesting encourages employee loyalty since the vesting plays out over a few years of continuous employment. Many employers offer matching contributions to workers’ [[tax-deferred retirement accounts]](https://www.investopedia.com/terms/t/tax-deferred-savings-plan.asp) as a way to attract employees and to score corporate tax benefits. In some cases, these matches are 100%, up to certain limitations, perhaps 7% of salary. In that case, an employee who earns $75,000 and contributes 7% of their earnings to a [401(k) account](https://www.investopedia.com/terms/1/401kplan.asp) would save $10,500 towards retirement every year, with only $5,250 coming out of their own pocket. 
 
 Over many years, that employer contribution dramatically boosts retirement savings. But while those contributions are real money that gets invested every year, the principal and potential gains show up only on paper until the employee is vested.
 
-Employers must follow certain federal laws that determine the longest allowable vesting periods, generally six years; however, they are free to choose shorter periods. In addition, if a plan is terminated, all participants become fully vested immediately. Contributions to [SEPs](https://www.investopedia.com/terms/s/sep.asp) and [Simple IRAs](https://www.investopedia.com/terms/s/simple-ira.asp) always fully vest immediately. And an employee’s personal contributions to any retirement plan are always fully vested and belong to the employee even should they leave the job.
+Employers must follow certain federal laws that determine the longest allowable vesting periods, generally six years; however, they are free to choose shorter periods. In addition, if a plan is terminated, all participants become fully vested immediately. Contributions to [[SEPs]](https://www.investopedia.com/terms/s/sep.asp) and [[Simple IRAs]](https://www.investopedia.com/terms/s/simple-ira.asp) always fully vest immediately. And an employee’s personal contributions to any retirement plan are always fully vested and belong to the employee even should they leave the job.
 
 It’s important for employees to understand their company vesting schedule, since quitting a job before the full vesting period could mean leaving free money on the table, whether in the form of tax-deferred retirement savings, a pension plan, or stock options.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Uniform Transfer Tax
 ## What Is a Uniform Transfer Tax
 
-Uniform transfer tax is a term that refers to the combination of federal [estate taxes](https://www.investopedia.com/terms/e/estatetax.asp) and federal [gift taxes](https://www.investopedia.com/terms/g/gifttax.asp) into a single tax.
+Uniform transfer tax is a term that refers to the combination of federal [[estate taxes]](https://www.investopedia.com/terms/e/estatetax.asp) and federal [[gift taxes]](https://www.investopedia.com/terms/g/gifttax.asp) into a single tax.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Uniform transfer tax is a term that refers to the combination of federal [estate
 
 ## Understanding a Uniform Transfer Tax
 
-A uniform transfer tax covers the transfer of assets from the death of one individual to their chosen [beneficiary](https://www.investopedia.com/terms/b/beneficiary.asp). It is important to note that the [Internal Revenue Service (IRS)](https://www.investopedia.com/terms/i/irs.asp) imposes estate tax on assets left to heirs, but the law does not apply to the transfer of assets to a surviving spouse.
+A uniform transfer tax covers the transfer of assets from the death of one individual to their chosen [[beneficiary]](https://www.investopedia.com/terms/b/beneficiary.asp). It is important to note that the [[Internal Revenue Service (IRS)]](https://www.investopedia.com/terms/i/irs.asp) imposes estate tax on assets left to heirs, but the law does not apply to the transfer of assets to a surviving spouse.
 
 The term uniform transfer tax also refers to when assets are transferred from one individual to another without receiving anything or receiving less than market value in return. It is the combination of both these taxes that creates the uniform transfer tax.
 
@@ -36,19 +36,19 @@ The uniform transfer tax is a kind of transfer tax, which means it is a kind of 
 
 ### Estate Tax
 
-The uniform transfer tax combines elements of the federal gift tax and the federal estate tax. The federal gift tax applies to [transfers](https://www.investopedia.com/terms/t/transfer.asp) made while a person is living and is 40 percent of any amount gifted over $15,000 in a given year. It applies to the giver of the gift, not the individual receiving it. For an asset or amount to be considered a [gift](https://www.investopedia.com/terms/g/gift.asp) the receiving party cannot pay the giver full value for the gift.
+The uniform transfer tax combines elements of the federal gift tax and the federal estate tax. The federal gift tax applies to [[transfers]](https://www.investopedia.com/terms/t/transfer.asp) made while a person is living and is 40 percent of any amount gifted over $15,000 in a given year. It applies to the giver of the gift, not the individual receiving it. For an asset or amount to be considered a [[gift]](https://www.investopedia.com/terms/g/gift.asp) the receiving party cannot pay the giver full value for the gift.
 
 The gift tax excludes gifts to one's spouse, gifts to a political organization for use by the political organization, gifts that are valued at less than the annual gift tax exclusion for a given year, and medical and educational expenses. The tax law that oversees gift taxes is notoriously complicated but was raised to $15,000 in 2018. It has remained at this amount.1
 
 ### Gift Tax
 
-The other half of the uniform transfer tax is the estate tax, which is a tax [levied](https://www.investopedia.com/terms/l/levy.asp) on an heir's inherited portion of an estate. This estate tax only applies if the value of the estate exceeds the exclusion limit set by law. That act is referred to as an unlimited marital deduction.
+The other half of the uniform transfer tax is the estate tax, which is a tax [[levied]](https://www.investopedia.com/terms/l/levy.asp) on an heir's inherited portion of an estate. This estate tax only applies if the value of the estate exceeds the exclusion limit set by law. That act is referred to as an unlimited marital deduction.
 
 For 2019, the IRS requires estates exceeding $11.4 million to file a federal estate tax return and pay estate taxes. The exclusion amount rises to $11.58 million in 2020 and $11.7 million in 2021. This means that an estate of $11 million does not need to file an estate tax return. These exclusion amounts are significantly higher from previous years. In 2017, for example, taxes were owed if the estate exceeded $5.49 million.2
 
 ## Uniform Transfer Tax and Probate
 
-Since the [probate](https://www.investopedia.com/terms/p/probate.asp) process can be expensive, some people would rather use the unified transfer tax to save on estate taxes after their deaths. This is done via the [uniform tax credit](https://www.investopedia.com/terms/u/unified-tax-credit.asp), which integrates both the gift and estate tax credits into one tax system. It is a [tax credit](https://www.investopedia.com/terms/t/taxcredit.asp) that decreases the tax bill of the individual or estate, dollar to dollar.
+Since the [probate](https://www.investopedia.com/terms/p/probate.asp) process can be expensive, some people would rather use the unified transfer tax to save on estate taxes after their deaths. This is done via the [[uniform tax credit]](https://www.investopedia.com/terms/u/unified-tax-credit.asp), which integrates both the gift and estate tax credits into one tax system. It is a [tax credit](https://www.investopedia.com/terms/t/taxcredit.asp) that decreases the tax bill of the individual or estate, dollar to dollar.
 
 An individual or couple that plans to gift some of their assets to someone may need to file a [gift tax return](https://www.investopedia.com/terms/g/gift-tax-return.asp) if the value of the assets is higher than the annual exemption amount. Gifts made to charities or to pay another person's medical or tuition expenses are exempt from gift tax return requirements.
 

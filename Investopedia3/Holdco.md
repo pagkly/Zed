@@ -16,7 +16,7 @@ author: Will Kenton
 Holdco
 ## What Is a Holdco?
 
-Holdco is an abbreviation for "[holding company](https://www.investopedia.com/terms/h/holdingcompany.asp)," which is a firm that exercises control over one or more additional firm(s). The holdco accomplishes this through the acquisition of stock that is sufficient to control or influence the voting by shareholders. The holding company earns money by collecting the dividends from the shares of firms in which it owns a [controlling interest](https://www.investopedia.com/terms/c/controllinginterest.asp).
+Holdco is an abbreviation for "[holding company](https://www.investopedia.com/terms/h/holdingcompany.asp)," which is a firm that exercises control over one or more additional firm(s). The holdco accomplishes this through the acquisition of stock that is sufficient to control or influence the voting by shareholders. The holding company earns money by collecting the dividends from the shares of firms in which it owns a [[controlling interest]](https://www.investopedia.com/terms/c/controllinginterest.asp).
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ Holdco is an abbreviation for "[holding company](https://www.investopedia.com/te
 
 ## Understanding a Holdco
 
-Holdcos are businesses that own other entities of value, which is usually accomplished through the acquisition of stock that is sufficient to control, or influence, voting by shareholders. A holdco earns money by collecting the [dividends](https://www.investopedia.com/terms/d/dividend.asp) from the shares of firms in which it owns a [controlling interest](https://www.investopedia.com/terms/c/controllinginterest.asp).
+Holdcos are businesses that own other entities of value, which is usually accomplished through the acquisition of stock that is sufficient to control, or influence, voting by shareholders. A holdco earns money by collecting the [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) from the shares of firms in which it owns a [[controlling interest]](https://www.investopedia.com/terms/c/controllinginterest.asp).
 
-The establishment of a holding company can be both less expensive and legally complicated than a [merger](https://www.investopedia.com/terms/m/merger.asp) or [consolidation](https://www.investopedia.com/terms/c/consolidation.asp), making it an attractive means of gaining control of another company. A holdco is also known as a [parent company](https://www.investopedia.com/terms/p/parentcompany.asp). The key purpose of a holdco is to "hold" (i.e., own) assets. The holdco itself can be held by a single person or company or a group of individuals or companies. The main purpose of holdcos is to limit liability.
+The establishment of a holding company can be both less expensive and legally complicated than a [[merger]](https://www.investopedia.com/terms/m/merger.asp) or [[consolidation]](https://www.investopedia.com/terms/c/consolidation.asp), making it an attractive means of gaining control of another company. A holdco is also known as a [[parent company]](https://www.investopedia.com/terms/p/parentcompany.asp). The key purpose of a holdco is to "hold" (i.e., own) assets. The holdco itself can be held by a single person or company or a group of individuals or companies. The main purpose of holdcos is to limit liability.
 
 ## Example of Holdcos
 

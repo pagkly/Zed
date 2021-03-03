@@ -16,7 +16,7 @@ author: Alexandra Twin
 What Liquidation Preference Tells Us
 ## What Is a Liquidation Preference?
 
-A liquidation preference is a clause in a contract that dictates the payout order in case of a corporate [liquidation](https://www.investopedia.com/terms/l/liquidation.asp). Typically, the company's investors or preferred stockholders get their money back first, ahead of other kinds of stockholders or debtholders, in the event that the company must be liquidated. Liquidation preferences are frequently used in venture capital contracts, _hybrid debt instruments, promissory notes and other structured private capital transactions, to clarify what investors get paid and in which order during a liquidation event, such as the sale of the company._"
+A liquidation preference is a clause in a contract that dictates the payout order in case of a corporate [[liquidation]](https://www.investopedia.com/terms/l/liquidation.asp). Typically, the company's investors or preferred stockholders get their money back first, ahead of other kinds of stockholders or debtholders, in the event that the company must be liquidated. Liquidation preferences are frequently used in venture capital contracts, _hybrid debt instruments, promissory notes and other structured private capital transactions, to clarify what investors get paid and in which order during a liquidation event, such as the sale of the company._"
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The liquidation preference determines who gets their money first when a company 
 
 ## How Liquidation Preferences Work
 
-The use of specific liquidation preference dispositions is popular when venture capital firms invest in startup companies. The investors often make it a condition for their investment that they receive liquidation preference over other shareholders. This protects [venture capitalists](https://www.investopedia.com/terms/v/venturecapitalist.asp) from losing money by making sure they get their initial investments back before other parties.
+The use of specific liquidation preference dispositions is popular when venture capital firms invest in startup companies. The investors often make it a condition for their investment that they receive liquidation preference over other shareholders. This protects [[venture capitalists]](https://www.investopedia.com/terms/v/venturecapitalist.asp) from losing money by making sure they get their initial investments back before other parties.
 
 In these cases, there does not need to be an actual liquidation or bankruptcy of a company. In venture capital contracts, a sale of the company is often deemed to be a liquidation event. As such, if the company is sold at a profit, liquidation preference can also help venture capitalists be first in line to claim part of the profits. Venture capitalists are usually repaid before holders of common stock and before the company's original owners and employees. In many cases, the venture capital firm is also a common shareholder.
 
@@ -42,4 +42,4 @@ For example, assume a venture capital company invests $1 million in a startup in
 
 Conversely, if the company sells for $1 million, the venture capital firm receives $1 million and the founders receive nothing.
 
-More generally, liquidation preference can also refer to the repayment of [creditors](https://www.investopedia.com/terms/c/creditor.asp) (such as bondholders) before shareholders if a company goes bankrupt. In such a case, the liquidator sells its assets, then uses that money to repay senior creditors first, then junior creditors, then shareholders. In the same way, creditors holding liens on specific assets, such as a mortgage on a building, have a liquidation preference over other creditors in terms of the proceeds of sale from the building.
+More generally, liquidation preference can also refer to the repayment of [[creditors]](https://www.investopedia.com/terms/c/creditor.asp) (such as bondholders) before shareholders if a company goes bankrupt. In such a case, the liquidator sells its assets, then uses that money to repay senior creditors first, then junior creditors, then shareholders. In the same way, creditors holding liens on specific assets, such as a mortgage on a building, have a liquidation preference over other creditors in terms of the proceeds of sale from the building.

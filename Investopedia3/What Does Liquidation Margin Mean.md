@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does Liquidation Margin Mean?
 ## What Is a Liquidation Margin?
 
-The liquidation margin is the value of all of the positions in a [margin account](https://www.investopedia.com/terms/m/marginaccount.asp). These can include both [long and short positions](https://www.investopedia.com/ask/answers/100314/whats-difference-between-long-and-short-position-market.asp).
+The liquidation margin is the value of all of the positions in a [[margin account]](https://www.investopedia.com/terms/m/marginaccount.asp). These can include both [[long and short positions]](https://www.investopedia.com/ask/answers/100314/whats-difference-between-long-and-short-position-market.asp).
 
-Because margin accounts are subject to [margin calls](https://www.investopedia.com/terms/m/margincall.asp), the current liquidation margin is a significant concern for both margin traders and their [brokers](https://www.investopedia.com/terms/b/broker.asp). If the liquidation margin becomes insufficient to support the trader's positions, the broker may liquidate those positions to reduce their risk.
+Because margin accounts are subject to [[margin calls]](https://www.investopedia.com/terms/m/margincall.asp), the current liquidation margin is a significant concern for both margin traders and their [[brokers]](https://www.investopedia.com/terms/b/broker.asp). If the liquidation margin becomes insufficient to support the trader's positions, the broker may liquidate those positions to reduce their risk.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Because margin accounts are subject to [margin calls](https://www.investopedia.c
 
 ## Understanding Liquidation Margins
 
-Margin trading is the practice of borrowing money from a broker to execute [leveraged](https://www.investopedia.com/terms/l/leverage.asp) transactions. When buying securities, this leveraged trading consists of borrowing cash from the broker and using it to purchase securities. When engaging in [short selling](https://www.investopedia.com/terms/s/shortselling.asp), leveraged trading involves borrowing the securities themselves from the broker's inventory. The leveraged short seller then sells those securities and seeks to repurchase them at a lower price in the future.
+Margin trading is the practice of borrowing money from a broker to execute [[leveraged]](https://www.investopedia.com/terms/l/leverage.asp) transactions. When buying securities, this leveraged trading consists of borrowing cash from the broker and using it to purchase securities. When engaging in [[short selling]](https://www.investopedia.com/terms/s/shortselling.asp), leveraged trading involves borrowing the securities themselves from the broker's inventory. The leveraged short seller then sells those securities and seeks to repurchase them at a lower price in the future.
 
 When using margin, a trader must be careful to ensure that the total value of the margin account does not drop below a certain level. The value of the account, which is based on market prices, is known as the liquidation margin.
 
@@ -38,10 +38,10 @@ A margin call would effectively force the trader to provide additional collatera
 
 ## Types of Liquidation Margins
 
-If an investor or trader holds a [long position](https://www.investopedia.com/terms/l/long.asp), the liquidation margin is equal to what the investor or trader would retain if the position were closed. If a trader has a [short position](https://www.investopedia.com/terms/s/short.asp), the liquidation margin is equal to what the trader would owe to purchase the security.
+If an investor or trader holds a [[long position]](https://www.investopedia.com/terms/l/long.asp), the liquidation margin is equal to what the investor or trader would retain if the position were closed. If a trader has a [[short position]](https://www.investopedia.com/terms/s/short.asp), the liquidation margin is equal to what the trader would owe to purchase the security.
 
 ## Example of a Liquidation Margin
 
-Sarah is a margin trader who invested her entire $10,000 in a single stock using 100% leverage. For simplicity, assume that Sarah already paid the required [margin interest](https://www.investopedia.com/ask/answers/07/margin_interest.asp). She now has control of $20,000 worth of stock. However, the initial liquidation margin is only $10,000. $10,000 is what Sarah would receive if the account were closed.
+Sarah is a margin trader who invested her entire $10,000 in a single stock using 100% leverage. For simplicity, assume that Sarah already paid the required [[margin interest]](https://www.investopedia.com/ask/answers/07/margin_interest.asp). She now has control of $20,000 worth of stock. However, the initial liquidation margin is only $10,000. $10,000 is what Sarah would receive if the account were closed.
 
 Suppose that Sarah's stock performed poorly and fell 25%. Since Sarah was initially using 2:1 leverage, that means she lost 50% of her original investment. Sarah's account now has a liquidation margin of just $5,000, but she commands $15,000 worth of stock. At this point, a more conservative brokerage might become concerned and make a margin call.

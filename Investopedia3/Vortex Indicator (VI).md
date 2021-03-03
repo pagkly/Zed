@@ -16,7 +16,7 @@ author: James Chen
 Vortex Indicator (VI)
 ## What is the Vortex Indicator (VI)?
 
-A vortex indicator (VI) is an indicator composed of two lines - an uptrend line (VI+) and a downtrend line (VI-). These lines are typically colored green and red respectively. A vortex indicator is used to spot trend [reversals](https://www.investopedia.com/terms/r/reversal.asp) and confirm current trends.
+A vortex indicator (VI) is an indicator composed of two lines - an uptrend line (VI+) and a downtrend line (VI-). These lines are typically colored green and red respectively. A vortex indicator is used to spot trend [[reversals]](https://www.investopedia.com/terms/r/reversal.asp) and confirm current trends.
 
 ## Understanding Vortex Indicator (VI)
 
@@ -32,7 +32,7 @@ The calculation for the indicator is divided into four parts.
 -   Current high minus previous close
 -   Current low minus previous close
 
-2\. [Uptrend](https://www.investopedia.com/terms/u/uptrend.asp) and downtrend movement:
+2\. [[Uptrend]](https://www.investopedia.com/terms/u/uptrend.asp) and downtrend movement:
 
 -   VM+ = Absolute value of current high minus prior low
 -   VM- = Absolute value of current low minus prior high
@@ -55,8 +55,8 @@ The traditional application of using VI- and VI+ crossovers can result in a numb
 
 ## Inferences
 
-The vortex indicator is commonly used in conjunction with other reversal trend patterns to help support a reversal signal. It is integrated into most [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) software programs. VI+ and VI- are typically graphed independently below a candlestick chart. The chart below provides an example with lines that indicate changing trend signals on a [candlestick](https://www.investopedia.com/terms/c/candlestick.asp) chart.
+The vortex indicator is commonly used in conjunction with other reversal trend patterns to help support a reversal signal. It is integrated into most [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) software programs. VI+ and VI- are typically graphed independently below a candlestick chart. The chart below provides an example with lines that indicate changing trend signals on a [[candlestick]](https://www.investopedia.com/terms/c/candlestick.asp) chart.
 
 Image by Sabrina Jiang © Investopedia 2020
 
-An uptrend or buy signal occurs when VI+ is below VI- and then crosses above VI- to take the top position among the trendlines. A downtrend or sell signal occurs when VI- is below VI+ and crosses above VI+ to take the top position among the trendlines. Overall, the trendline in the top position generally dictates whether the [security](https://www.investopedia.com/terms/s/security.asp) is in an uptrend or downtrend.
+An uptrend or buy signal occurs when VI+ is below VI- and then crosses above VI- to take the top position among the trendlines. A downtrend or sell signal occurs when VI- is below VI+ and crosses above VI+ to take the top position among the trendlines. Overall, the trendline in the top position generally dictates whether the [[security]](https://www.investopedia.com/terms/s/security.asp) is in an uptrend or downtrend.

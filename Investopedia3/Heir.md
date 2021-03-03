@@ -30,7 +30,7 @@ Heirs who inherit property are typically children, descendants, or other close r
 
 When there is more than one heir with the same relationship to the deceased, such as the case when there are two siblings, those individuals typically divvy up the estate equally. The portion of a deceased person's estate that's bequeathed to an heir is known as an inheritance. This can involve cash, stocks, bonds, real estate and other personal property such as automobiles, furniture, antiques, artwork, and jewelry.
 
-There are [many specific types of heirs](https://legal-dictionary.thefreedictionary.com/heir), including the following:
+There are [[many specific types of heirs]](https://legal-dictionary.thefreedictionary.com/heir), including the following:
 
 -   An heir apparent: This describes a person who is widely assumed to receive the inheritance.
 -   A presumptive heir: This describes a person who under present circumstances, would be considered to be an heir, but whose right of inheritance may be defeated by the contingency of a more recently-born individual.
@@ -41,6 +41,6 @@ There are [many specific types of heirs](https://legal-dictionary.thefreediction
 
 While the term "heir" legally refers to a person who receives the property of an individual who died intestate, in common parlance, the word "heir" is often used to describe those inheriting property, as designated by a will. However, strictly speaking, this usage of the word is factually inaccurate, as the proper term for such an individual is a "beneficiary", which legally defines an individual who is entitled to collect property, as prescribed by a will, trust, insurance policy or other binding arrangement.
 
-Not all heirs are beneficiaries, such as the case with an estranged adult child who is intentionally left out of a will. Likewise, not all beneficiaries are heirs. For example, a person can designate a friend or companion to receive property. In this case, the friend is not an heir, because he would not be the recipient of property if left intestate, because he is not a child or direct relative of the decedent. However, that friend can accurately be called a beneficiary, as designated through the deceased person's will or other arrangement. A female heir is often referred to as an heiress, particularly if the inheritance involves substantial [wealth](https://www.investopedia.com/terms/w/wealth.asp).
+Not all heirs are beneficiaries, such as the case with an estranged adult child who is intentionally left out of a will. Likewise, not all beneficiaries are heirs. For example, a person can designate a friend or companion to receive property. In this case, the friend is not an heir, because he would not be the recipient of property if left intestate, because he is not a child or direct relative of the decedent. However, that friend can accurately be called a beneficiary, as designated through the deceased person's will or other arrangement. A female heir is often referred to as an heiress, particularly if the inheritance involves substantial [[wealth]](https://www.investopedia.com/terms/w/wealth.asp).
 
 **\[Important: Traditionally speaking, Jewish, Christian, and Islamic laws each have their own sets of customs, when it comes to heirs.\]**

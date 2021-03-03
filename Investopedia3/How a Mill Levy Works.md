@@ -16,7 +16,7 @@ author: Brian Beers
 How a Mill Levy Works
 ## What Is a Mill Levy?
 
-The mill levy is a property tax. It is applied to a property based on its [assessed value](https://www.investopedia.com/terms/a/assessedvalue.asp). The rate of the tax is expressed in mills and is equal to one dollar per $1,000 dollars of assessed value. The mill [levy](https://www.investopedia.com/terms/l/levy.asp) is calculated by determining how much revenue each tax jurisdiction will need for the upcoming year to fund its budget for public services. For example, funding public schools and maintaining parks and recreation areas. That revenue is then divided by the total value of all property within the area. Finally, the rate from each jurisdiction is added to obtain the mill levy for the entire area.1
+The mill levy is a property tax. It is applied to a property based on its [[assessed value]](https://www.investopedia.com/terms/a/assessedvalue.asp). The rate of the tax is expressed in mills and is equal to one dollar per $1,000 dollars of assessed value. The mill [[levy]](https://www.investopedia.com/terms/l/levy.asp) is calculated by determining how much revenue each tax jurisdiction will need for the upcoming year to fund its budget for public services. For example, funding public schools and maintaining parks and recreation areas. That revenue is then divided by the total value of all property within the area. Finally, the rate from each jurisdiction is added to obtain the mill levy for the entire area.1
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ There can be several taxing authorities in one region, which could include schoo
 
 Most jurisdictions use a percentage formula, which is known as an assessment ratio, to determine the property value for the mill levy.
 
-Each year, the official assessed value of a property is usually set by a [tax assessor](https://www.investopedia.com/terms/a/assessor.asp) and may be used to set the mill levy. In some cases, a percentage of the market value of the property can be used to set the mill levy instead.
+Each year, the official assessed value of a property is usually set by a [[tax assessor]](https://www.investopedia.com/terms/a/assessor.asp) and may be used to set the mill levy. In some cases, a percentage of the market value of the property can be used to set the mill levy instead.
 
 To determine what the mill levy will be, most jurisdictions use a percentage formula, which is known as an assessment ratio, to determine the property value for the mill levy.
 

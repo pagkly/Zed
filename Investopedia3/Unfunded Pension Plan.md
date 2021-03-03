@@ -16,7 +16,7 @@ author: Julia Kagan
 Unfunded Pension Plan
 ## What Is Unfunded Pension Plan?
 
-An unfunded pension plan is an employer-managed retirement plan that uses the employer's current income to fund pension payments as they become necessary.1 This is in contrast to an advance funded [pension plan](https://www.investopedia.com/terms/p/pensionplan.asp) where an employer sets aside funds systematically and in advance to cover any pension plan expenses such as payments to retirees and their [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp).2
+An unfunded pension plan is an employer-managed retirement plan that uses the employer's current income to fund pension payments as they become necessary.1 This is in contrast to an advance funded [[pension plan]](https://www.investopedia.com/terms/p/pensionplan.asp) where an employer sets aside funds systematically and in advance to cover any pension plan expenses such as payments to retirees and their [[beneficiaries]](https://www.investopedia.com/terms/b/beneficiary.asp).2
 
 ### Key Takeaways
 

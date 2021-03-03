@@ -16,7 +16,7 @@ author: Will Kenton
 What Are Non-Member Banks?
 ## What Are Non-Member Banks?
 
-Non-member banks are banks that are not members of the U.S. [Federal Reserve System](https://www.investopedia.com/terms/f/federalreservesystem.asp). As with member banks, non-member banks are subject to [reserve requirements](https://www.investopedia.com/terms/r/requiredreserves.asp), which they have to maintain by placing a percentage of their deposits at a [Federal Reserve Bank](https://www.investopedia.com/terms/f/federalreservebank.asp). Although non-member banks are not required to purchase stock in their district Federal Reserve banks, they still have access to services offered by the Federal Reserve, such as its discount window on the same terms as member banks.
+Non-member banks are banks that are not members of the U.S. [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp). As with member banks, non-member banks are subject to [[reserve requirements]](https://www.investopedia.com/terms/r/requiredreserves.asp), which they have to maintain by placing a percentage of their deposits at a [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservebank.asp). Although non-member banks are not required to purchase stock in their district Federal Reserve banks, they still have access to services offered by the Federal Reserve, such as its discount window on the same terms as member banks.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Non-member banks are banks that are not members of the U.S. [Federal Reserve Sys
 
 ## How Non-Member Banks Work
 
-Non-member banks can only be state-chartered since all nationally-[chartered banks](https://www.investopedia.com/terms/c/charteredbank.asp) necessarily have to be members of the Federal Reserve System. One reason that state-chartered banks may decide to refrain from membership is that regulation can be less onerous, some believe, under the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC), which oversees non-member banks rather than the Federal Reserve Banks (member banks report to regional Federal Reserve banks).
+Non-member banks can only be state-chartered since all nationally-[chartered banks](https://www.investopedia.com/terms/c/charteredbank.asp) necessarily have to be members of the Federal Reserve System. One reason that state-chartered banks may decide to refrain from membership is that regulation can be less onerous, some believe, under the [[Federal Deposit Insurance Corporation]](https://www.investopedia.com/terms/f/fdic.asp) (FDIC), which oversees non-member banks rather than the Federal Reserve Banks (member banks report to regional Federal Reserve banks).
 
 Depending on where they are located, non-member banks are only subject to state laws, rather than federal laws, so they may opt for less-regulated operations in a state like North Dakota. In addition, they are able to keep at least a part of their reserves in interest-bearing securities. Non-member banks, like members, still receive services from the Federal Reserve System, including check clearing, electronic funds movements, and automated clearing house payments.
 

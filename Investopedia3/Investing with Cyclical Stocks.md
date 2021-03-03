@@ -16,7 +16,7 @@ author: Julie Young
 Investing with Cyclical Stocks
 ## What Is a Cyclical Stock?
 
-A cyclical stock is a [stock](https://www.investopedia.com/terms/s/stock.asp) that's price is affected by macroeconomic or systematic changes in the overall economy. Cyclical stocks are known for following the cycles of an economy through [expansion](https://www.investopedia.com/terms/e/expansion.asp), peak, recession, and recovery. Most cyclical stocks involve companies that sell consumer discretionary items that consumers buy more during a booming economy but spend less on during a [recession](https://www.investopedia.com/terms/r/recession.asp).
+A cyclical stock is a [[stock]](https://www.investopedia.com/terms/s/stock.asp) that's price is affected by macroeconomic or systematic changes in the overall economy. Cyclical stocks are known for following the cycles of an economy through [[expansion]](https://www.investopedia.com/terms/e/expansion.asp), peak, recession, and recovery. Most cyclical stocks involve companies that sell consumer discretionary items that consumers buy more during a booming economy but spend less on during a [[recession]](https://www.investopedia.com/terms/r/recession.asp).
 
 ### Key Takeaways
 
@@ -38,17 +38,17 @@ Investors should use caution about the weight of cyclical stocks in their portfo
 
 ## Special Considerations
 
-Cyclical stocks are viewed as more volatile than noncyclical or [defensive stocks,](https://www.investopedia.com/terms/d/defensivestock.asp) which tend to be more stable during periods of economic weakness. However, they offer greater potential for growth because they tend to outperform the market during periods of economic strength. Investors seeking long-term growth with managed [volatility](https://www.investopedia.com/terms/v/volatility.asp) tend to balance their portfolios with a mix of cyclical stocks and defensive stocks.
+Cyclical stocks are viewed as more volatile than noncyclical or [defensive stocks,](https://www.investopedia.com/terms/d/defensivestock.asp) which tend to be more stable during periods of economic weakness. However, they offer greater potential for growth because they tend to outperform the market during periods of economic strength. Investors seeking long-term growth with managed [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) tend to balance their portfolios with a mix of cyclical stocks and defensive stocks.
 
-Investors frequently choose to use [exchange-traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs) to gain exposure to cyclical stocks while expanding economic cycles. The SPDR ETF series offers one of the most popular cyclical ETF investments in the Consumer Discretionary Select Sector Fund (XLY).
+Investors frequently choose to use [[exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs) to gain exposure to cyclical stocks while expanding economic cycles. The SPDR ETF series offers one of the most popular cyclical ETF investments in the Consumer Discretionary Select Sector Fund (XLY).
 
 ## Cyclical vs. Noncyclical Stocks
 
-The performance of cyclical stocks tend to correlate with the [economy](https://www.investopedia.com/terms/e/economy.asp). But the same can't be said about noncyclical stocks. These stocks tend to beat the market regardless of the economic trend, even when there's a slowdown in the economy.
+The performance of cyclical stocks tend to correlate with the [[economy]](https://www.investopedia.com/terms/e/economy.asp). But the same can't be said about noncyclical stocks. These stocks tend to beat the market regardless of the economic trend, even when there's a slowdown in the economy.
 
 Noncyclical stocks are also called defensive stocks. These stocks encompass the [consumer staples](https://www.investopedia.com/terms/c/consumerstaples.asp) category, with goods and services that people continue to buy through all types of business cycles, even economic downturns.
 
-Companies that deal with food, gas, and water are examples of those that have noncyclical stocks, such as Walmart. Adding noncyclical stocks to a portfolio can be a great strategy for investors as it helps [hedge](https://www.investopedia.com/terms/h/hedge.asp) against losses sustained from cyclical companies during an economic slowdown.
+Companies that deal with food, gas, and water are examples of those that have noncyclical stocks, such as Walmart. Adding noncyclical stocks to a portfolio can be a great strategy for investors as it helps [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) against losses sustained from cyclical companies during an economic slowdown.
 
 ## Example of Cyclical Stocks
 

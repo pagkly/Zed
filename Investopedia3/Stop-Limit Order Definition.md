@@ -35,11 +35,11 @@ A stop-limit order requires the setting of two price points.
 
 A timeframe must also be set, during which the stop-limit order is considered executable.
 
-The primary benefit of a stop-limit order is that the [trader](https://www.investopedia.com/terms/t/trader.asp) has precise control over when the order should be filled.
+The primary benefit of a stop-limit order is that the [[trader]](https://www.investopedia.com/terms/t/trader.asp) has precise control over when the order should be filled.
 
-The [downside](https://www.investopedia.com/terms/d/downside.asp), as with all limit orders, is that the trade is not guaranteed to be executed if the stock/commodity does not reach the stop price during the specified time period.
+The [[downside]](https://www.investopedia.com/terms/d/downside.asp), as with all limit orders, is that the trade is not guaranteed to be executed if the stock/commodity does not reach the stop price during the specified time period.
 
-The stop-limit order will be executed at a specified price, or better, after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a [limit order](https://www.investopedia.com/terms/l/limitorder.asp) to buy or sell at the limit price or better. This type of order is an available option with nearly every [online broker](https://www.investopedia.com/best-online-brokers-4587872).
+The stop-limit order will be executed at a specified price, or better, after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a [[limit order]](https://www.investopedia.com/terms/l/limitorder.asp) to buy or sell at the limit price or better. This type of order is an available option with nearly every [[online broker]](https://www.investopedia.com/best-online-brokers-4587872).
 
 ## Features of Stop and Limit Orders
 
@@ -47,9 +47,9 @@ A stop order is an order that becomes executable once a set price has been reach
 
 A limit order is one that is set at a certain price. It is only executable at times the trade can be performed at the limit price or at a price that is considered more favorable than the limit price. If trading activity causes the price to become unfavorable in regards to the limit price, the activity related to the order will be ceased.
 
-By combining the two orders, the [investor](https://www.investopedia.com/terms/i/investor.asp) has much greater precision in executing the trade.
+By combining the two orders, the [[investor]](https://www.investopedia.com/terms/i/investor.asp) has much greater precision in executing the trade.
 
-A stop order is filled [at the market](https://www.investopedia.com/terms/a/atthemarket.asp) price after the stop price has been hit, regardless of whether the price changes to an unfavorable position. This can lead to trades being completed at less than desirable prices should the market adjust quickly. By combining it with the features of a limit order, trading is halted once the pricing becomes unfavorable, based on the investor’s limit. Thus, in a stop-limit order, after the stop price is triggered, the limit order takes effect to ensure that the order is not completed unless the price is at or better than the limit price the investor has specified.
+A stop order is filled [[at the market]](https://www.investopedia.com/terms/a/atthemarket.asp) price after the stop price has been hit, regardless of whether the price changes to an unfavorable position. This can lead to trades being completed at less than desirable prices should the market adjust quickly. By combining it with the features of a limit order, trading is halted once the pricing becomes unfavorable, based on the investor’s limit. Thus, in a stop-limit order, after the stop price is triggered, the limit order takes effect to ensure that the order is not completed unless the price is at or better than the limit price the investor has specified.
 
 ## Real World Example of a Stop-Limit Order
 

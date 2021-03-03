@@ -16,9 +16,9 @@ author: Alexandra Twin
 What Makes a Cash Cow?
 ## What Is a Cash Cow?
 
-A cash cow is one of the four categories (quadrants) in the growth-share, BCG matrix that represents a product, product line, or company with a large market share within a [mature industry](https://www.investopedia.com/terms/m/matureindustry.asp).
+A cash cow is one of the four categories (quadrants) in the growth-share, BCG matrix that represents a product, product line, or company with a large market share within a [[mature industry]](https://www.investopedia.com/terms/m/matureindustry.asp).
 
-A cash cow is also a reference to a business, product, or [asset](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) that, once acquired and paid off, will produce consistent [cash flows](https://www.investopedia.com/terms/c/cashflow.asp) over its lifespan. 
+A cash cow is also a reference to a business, product, or [[asset]](https://www.investopedia.com/ask/answers/12/what-is-an-asset.asp) that, once acquired and paid off, will produce consistent [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp) over its lifespan. 
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A cash cow is also a reference to a business, product, or [asset](https://www.in
 
 A cash cow is a metaphor for a dairy cow that produces milk over the course of its life and requires little to no maintenance. The phrase is applied to a business that is also similarly low-maintenance. Modern-day cash cows require little investment capital and perennially provide positive cash flows, which can be allocated to other divisions within a corporation. They are low risk, high reward investments.
 
-Cash cows are one of four quadrants in the [BCG matrix](https://www.investopedia.com/terms/b/bcg.asp), a business unit organization method introduced by the Boston Consulting Group in the early 1970s. The BCG matrix, also known as the Boston Box or Grid, places an organization's businesses or products into one of four categories: star, question mark, dog, and cash cow. The matrix helps firms understand where their business stands in terms of [market share](https://www.investopedia.com/terms/m/marketshare.asp) and industry growth rate. It serves as a comparative analysis of a business's potential and an evaluation of the industry and market. 
+Cash cows are one of four quadrants in the [[BCG matrix]](https://www.investopedia.com/terms/b/bcg.asp), a business unit organization method introduced by the Boston Consulting Group in the early 1970s. The BCG matrix, also known as the Boston Box or Grid, places an organization's businesses or products into one of four categories: star, question mark, dog, and cash cow. The matrix helps firms understand where their business stands in terms of [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) and industry growth rate. It serves as a comparative analysis of a business's potential and an evaluation of the industry and market. 
 
 However, some firms, especially large corporations, realize that businesses/products within their portfolio lie between two categories. This is especially true with product lines at different points in the product life-cycle. Cash cows and stars tend to complement each other, whereas dogs and question marks use resources less efficiently.
 

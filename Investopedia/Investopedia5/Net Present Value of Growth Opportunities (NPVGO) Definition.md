@@ -1,0 +1,41 @@
+---
+alias: [Net Present Value of Growth Opportunities, NPVGO]
+created: 2021-03-02T21:39:27 (UTC +11:00)
+tags: [Net Present Value of Growth Opportunities (NPVGO) Definition, Net Present Value of Growth Opportunities (NPVGO) Definition]
+source: https://www.investopedia.com/terms/n/npvgo.asp
+author: Will Kenton
+---
+
+# Net Present Value of Growth Opportunities (NPVGO) Definition
+
+> ## Excerpt
+> Net present value of growth opportunities is a calculation of the net present value of all future cash flows involved with a potential acquisition.
+
+---
+
+Net Present Value of Growth Opportunities (NPVGO) Definition
+## What Is the Net Present Value Of Growth Opportunities (NPVGO)?
+
+The net present value of growth opportunities (NPVGO) is a calculation of the [net present value](https://www.investopedia.com/terms/n/npv.asp) per share of all future cash flows involved with growth opportunities such as new projects or potential acquisitions. The net present value of growth opportunities is used to determine the intrinsic value per share of these growth opportunities in order to determine how much of the firm's current per-share value is determined by them.
+
+NPVGO is calculated by taking the projected cash inflow, discounted at the firm's cost of capital, less the initial investment or [purchase price](https://www.investopedia.com/terms/p/purchaseprice.asp) of the project or asset.
+
+#### Understanding Net Present Value
+
+## Understanding Net Present Value of Growth Opportunities (NPVGO)
+
+A company's share price may be thought of as the value per share of present and future earnings discounted by the company's cost of capital. Using the dividend discount model, NPVGO may be used to segment that value into the portion that is due to its current earnings and the portion that is due to its earnings from its future growth opportunities. [Discounting](https://www.investopedia.com/terms/d/discounting.asp) current earnings per share by the cost of capital will give the value per share of the company's current earnings. Discounting the cash flows expected from growth opportunities will give the value per share due to those growth opportunities.
+
+In this way, NPVGO can be used to determine the incremental value of an acquisition or new project. It can be used to negotiate the price of an acquisition or determine any value the market might give to that company’s future growth.
+
+However, NPVGO is based on projections, so it’s important for analysts to exclude nonstandard cash flows, such as earnings based on discontinued operations or earnings based on nonrecurring operations, from those projections. Otherwise, the projections could be skewed. Accurate projections are necessary because they can be so influential in making key business decisions.
+
+Furthermore, the process of determining whether an NPVGO is high or low needs to be undertaken in an industry context. Technology, capital, and other factors that go into calculating the NPVGO of a specific company will depend on the sector in which it operates. Valuations tend to be extremely industry-specific, and industry standards need to be considered when calculating an NPVGO.
+
+## Example of Net Present Value of Growth Opportunities (NPVGO)
+
+For example, assume that the intrinsic value of a company's stock is $64.17. If a company's cost of capital is 12% and earnings per share are $5, then the value of those current earnings is $5/.12 = $41.67.
+
+If the expected earnings per share from future growth opportunities is $.90, and the growth rate (g) is 8%, then the value of those earnings is $0.90/(.12 - .08) = $22.50.
+
+The intrinsic value per share of the company is the value per share due to current earnings and the value due to future growth opportunities: $41.67 + $22.50 = $64.17.

@@ -16,17 +16,17 @@ author: James Chen
 Market Value Added (MVA) Definition
 ## What Is Market Value Added?
 
-Market value added (MVA) is a calculation that shows the difference between the [market value](https://www.investopedia.com/terms/m/marketvalue.asp) of a company and the capital contributed by all investors, both bondholders and shareholders. In other words, it is the sum of all capital claims held against the company plus the market value of debt and equity. It is calculated as:
+Market value added (MVA) is a calculation that shows the difference between the [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp) of a company and the capital contributed by all investors, both bondholders and shareholders. In other words, it is the sum of all capital claims held against the company plus the market value of debt and equity. It is calculated as:
 
 **MVA = V - K**
 
-where MVA is the market value added of the firm, V is the market value of the firm, including the value of the firm's equity and debt (its [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp)), and K is the total amount of capital invested in the firm.
+where MVA is the market value added of the firm, V is the market value of the firm, including the value of the firm's equity and debt (its [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp)), and K is the total amount of capital invested in the firm.
 
 MVA is closely related to the concept of economic value added ([EVA](https://www.investopedia.com/terms/e/eva.asp)), representing the net present value ([NPV](https://www.investopedia.com/terms/n/npv.asp)) of a series of EVA values.
 
 ## Understanding Market Value Added (MVA)
 
-When investors want to look under the hood to see how a company performs for its shareholders, they first look at MVA. A company’s MVA is an indication of its capacity to increase shareholder value over time. A high MVA is evidence of effective management and strong operational capabilities. A low MVA can mean the value of management’s actions and investments is less than the value of the [capital contributed](https://www.investopedia.com/terms/c/contributed-capital.asp) by shareholders. A negative MVA means the management's actions and investments have diminished and reversed the value of capital contributed by shareholders.
+When investors want to look under the hood to see how a company performs for its shareholders, they first look at MVA. A company’s MVA is an indication of its capacity to increase shareholder value over time. A high MVA is evidence of effective management and strong operational capabilities. A low MVA can mean the value of management’s actions and investments is less than the value of the [[capital contributed]](https://www.investopedia.com/terms/c/contributed-capital.asp) by shareholders. A negative MVA means the management's actions and investments have diminished and reversed the value of capital contributed by shareholders.
 
 Image by Sabrina Jiang © Investopedia 2020
 

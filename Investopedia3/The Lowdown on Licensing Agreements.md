@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 The Lowdown on Licensing Agreements
 ## What Is a Licensing Agreement?
 
-A licensing agreement is a written contract between two parties, in which a property owner permits another party to use that property under a specific set of parameters. A licensing agreement or license agreement typically involves a licensor and a [licensee](https://www.investopedia.com/terms/l/licensee.asp).
+A licensing agreement is a written contract between two parties, in which a property owner permits another party to use that property under a specific set of parameters. A licensing agreement or license agreement typically involves a licensor and a [[licensee]](https://www.investopedia.com/terms/l/licensee.asp).
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A licensing agreement is a written contract between two parties, in which a prop
 
 ## Understanding Licensing Agreements
 
-Licensing agreements delineate the terms under which one party may use property owned by another party. While the properties in question can include a myriad of items, including real estate holdings and personal possessions, licensing agreements are most often used for [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp), such as [patents](https://www.investopedia.com/terms/p/patent.asp) and [trademarks](https://www.investopedia.com/terms/t/trademark.asp), as well as [copyrights](https://www.investopedia.com/terms/c/copyright.asp) for written materials and visual art.
+Licensing agreements delineate the terms under which one party may use property owned by another party. While the properties in question can include a myriad of items, including real estate holdings and personal possessions, licensing agreements are most often used for [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp), such as [[patents]](https://www.investopedia.com/terms/p/patent.asp) and [[trademarks]](https://www.investopedia.com/terms/t/trademark.asp), as well as [[copyrights]](https://www.investopedia.com/terms/c/copyright.asp) for written materials and visual art.
 
 Licensing agreements are widely used for the commercialization of new discoveries or technologies.
 
@@ -35,7 +35,7 @@ In addition to detailing all parties involved, licensing agreements specify in g
 -   The geographical regions within which the property may be utilized.
 -   The time period parties are allotted to use the property.
 -   The exclusivity or non-exclusivity of a given arrangement.
--   Scaling terms, such that new [royalty](https://www.investopedia.com/terms/r/royalty.asp) fees will be incurred if the property is reused a certain number of times. For example, a book publisher may enter a licensing agreement with another party to use a piece of artwork on the hardcover editions of a book, but not on the covers of subsequent paperback issuances. The publisher may also be restricted from using the artistic image in certain advertising campaigns.
+-   Scaling terms, such that new [[royalty]](https://www.investopedia.com/terms/r/royalty.asp) fees will be incurred if the property is reused a certain number of times. For example, a book publisher may enter a licensing agreement with another party to use a piece of artwork on the hardcover editions of a book, but not on the covers of subsequent paperback issuances. The publisher may also be restricted from using the artistic image in certain advertising campaigns.
 
 ## Licensing Revenues
 

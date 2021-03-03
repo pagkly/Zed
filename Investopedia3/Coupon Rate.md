@@ -16,11 +16,11 @@ author: James Chen
 Coupon Rate
 ## What Is a Coupon Rate?
 
-A coupon rate is the yield paid by a [fixed-income](https://www.investopedia.com/terms/f/fixedincome.asp) security; a fixed-income security's coupon rate is simply just the annual coupon payments paid by the issuer relative to the bond's face or par value. The coupon rate, or coupon payment, is the yield the bond paid on its issue date. This yield changes as the [value of the bond changes](https://www.investopedia.com/terms/v/variable-rated-demand-bond.asp), thus giving the bond's [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp).
+A coupon rate is the yield paid by a [[fixed-income]](https://www.investopedia.com/terms/f/fixedincome.asp) security; a fixed-income security's coupon rate is simply just the annual coupon payments paid by the issuer relative to the bond's face or par value. The coupon rate, or coupon payment, is the yield the bond paid on its issue date. This yield changes as the [[value of the bond changes]](https://www.investopedia.com/terms/v/variable-rated-demand-bond.asp), thus giving the bond's [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp).
 
 ## How a Coupon Rate Works
 
-A bond's coupon rate can be calculated by dividing the sum of the security's annual coupon payments and dividing them by the bond's [par value](https://www.investopedia.com/terms/p/parvalue.asp). For example, a bond issued with a [face value](https://www.investopedia.com/terms/f/facevalue.asp) of $1,000 that pays a $25 coupon semiannually has a coupon rate of 5%. All else held equal, bonds with higher coupon rates are more desirable for investors than those with lower coupon rates.
+A bond's coupon rate can be calculated by dividing the sum of the security's annual coupon payments and dividing them by the bond's [[par value]](https://www.investopedia.com/terms/p/parvalue.asp). For example, a bond issued with a [[face value]](https://www.investopedia.com/terms/f/facevalue.asp) of $1,000 that pays a $25 coupon semiannually has a coupon rate of 5%. All else held equal, bonds with higher coupon rates are more desirable for investors than those with lower coupon rates.
 
 The coupon rate is the interest rate paid on a bond by its issuer for the term of the security. The term "coupon" is derived from the historical use of actual coupons for periodic interest payment collections. Once set at the issuance date, a bond's coupon rate remains unchanged and holders of the bond receive fixed interest payments at a predetermined time-frequency.
 

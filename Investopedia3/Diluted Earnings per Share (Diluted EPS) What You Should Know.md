@@ -16,7 +16,7 @@ author: Will Kenton
 Diluted Earnings per Share (Diluted EPS): What You Should Know
 ## What Is Diluted Earnings per Share (Diluted EPS)?
 
-Diluted EPS is a calculation used to gauge the quality of a company's earnings per share (EPS) if all convertible securities were exercised. Convertible securities are all outstanding [convertible preferred shares](https://www.investopedia.com/articles/stocks/05/052705.asp), [convertible debentures](https://www.investopedia.com/terms/c/convertibledebenture.asp), stock options, and [warrants](https://www.investopedia.com/trading/warrants-risky-but-high-return-investment-tool/). The diluted EPS will usually be lower than the simple or basic EPS but in the rare case that there are anti-dilutive securities it may be higher. In this case only the basic EPS is reported in the financial statements.
+Diluted EPS is a calculation used to gauge the quality of a company's earnings per share (EPS) if all convertible securities were exercised. Convertible securities are all outstanding [[convertible preferred shares]](https://www.investopedia.com/articles/stocks/05/052705.asp), [[convertible debentures]](https://www.investopedia.com/terms/c/convertibledebenture.asp), stock options, and [[warrants]](https://www.investopedia.com/trading/warrants-risky-but-high-return-investment-tool/). The diluted EPS will usually be lower than the simple or basic EPS but in the rare case that there are anti-dilutive securities it may be higher. In this case only the basic EPS is reported in the financial statements.
 
 #### Earnings Per Share Explained
 
@@ -41,9 +41,9 @@ Earnings per share, the value of earnings per share of outstanding common stock,
 
 EPS is reported on a company's income statement, and only public companies are required to report it. In their earnings reports, companies report both primary and diluted EPS, but the focus is generally on the more conservative diluted EPS measure. Dilutive EPS is considered a conservative metric because it indicates a worst-case scenario in terms of EPS.
 
-It is unlikely that everyone holding options, warrants, convertible preferred shares, etc. would convert their shares simultaneously. However, if things go well, there is a good chance that all options and [convertibles](https://www.investopedia.com/terms/c/convertibles.asp) will be converted into [common stock](https://www.investopedia.com/terms/c/commonstock.asp).
+It is unlikely that everyone holding options, warrants, convertible preferred shares, etc. would convert their shares simultaneously. However, if things go well, there is a good chance that all options and [[convertibles]](https://www.investopedia.com/terms/c/convertibles.asp) will be converted into [[common stock]](https://www.investopedia.com/terms/c/commonstock.asp).
 
-A large difference between a company's basic EPS and diluted EPS can indicate high potential [dilution](https://www.investopedia.com/terms/d/dilution.asp) for the company's shares, an unappealing attribute according to most analysts and investors. For example, company A has $9 billion outstanding shares. There is a $0.10 difference between its basic EPS and diluted EPS. While $0.10 seems insignificant, it equates to $900 million in value not available to investors.
+A large difference between a company's basic EPS and diluted EPS can indicate high potential [[dilution]](https://www.investopedia.com/terms/d/dilution.asp) for the company's shares, an unappealing attribute according to most analysts and investors. For example, company A has $9 billion outstanding shares. There is a $0.10 difference between its basic EPS and diluted EPS. While $0.10 seems insignificant, it equates to $900 million in value not available to investors.
 
 ## Example of Diluted Earnings per Share
 

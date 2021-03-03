@@ -18,7 +18,7 @@ Take-home pay is the net amount of income received after the deduction of taxes,
 
 ## Breaking Down Take-Home Pay
 
-The net pay amount located on a paycheck is the take-home pay. Paychecks or pay statements detail the income activity for a given pay period. Activity listed on pay statements includes earnings and deductions. Common deductions are income tax and [Federal Insurance Contributions Act](https://www.investopedia.com/terms/f/fica.asp) (FICA) withholdings. There may also be less standard deductions such as court-ordered child support or alimony, and uniform upkeep cost. The net pay is the amount remaining after all deductions are taken.1 Many paychecks also have cumulative fields that show the year-to-date earnings, withholdings, and deduction amounts.  
+The net pay amount located on a paycheck is the take-home pay. Paychecks or pay statements detail the income activity for a given pay period. Activity listed on pay statements includes earnings and deductions. Common deductions are income tax and [[Federal Insurance Contributions Act]](https://www.investopedia.com/terms/f/fica.asp) (FICA) withholdings. There may also be less standard deductions such as court-ordered child support or alimony, and uniform upkeep cost. The net pay is the amount remaining after all deductions are taken.1 Many paychecks also have cumulative fields that show the year-to-date earnings, withholdings, and deduction amounts.  
 
 [Gross pay](https://www.investopedia.com/terms/g/grossincome.asp) is often shown as a line item on a pay statement. If it is not shown, you may calculate it using either the annual salary divided by the number of pay periods, or multiply the hourly wage by the number of hours worked in a pay period.
 
@@ -28,4 +28,4 @@ For example, a bi-monthly paid employee earning an annual salary of $50,000 will
 
 Take-home pay can differ significantly from the gross pay rate. As an example, an hourly-waged employee making $15/hour and working 80 hours per pay period has a gross pay of $1,200 (15 x 80 =1200). But, after deductions the employee's take-home pay is $900, the employee is earning $11.25/hour as a take-home rate (900/80=11.25).
 
-As seen, this employee's take-home pay rate differs significantly from the gross pay rate. Many [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) and lending agencies will consider take-home pay when loaning money for large purchases, such as vehicles, and property.
+As seen, this employee's take-home pay rate differs significantly from the gross pay rate. Many [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) and lending agencies will consider take-home pay when loaning money for large purchases, such as vehicles, and property.

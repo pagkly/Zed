@@ -16,9 +16,9 @@ author: Jake Frankenfield
 Hyperledger Composer Definition
 ## What Is Hyperledger Composer?
 
-Hyperledger Composer is a set of [open source tools](https://www.investopedia.com/terms/o/open-source.asp) that allows business owners, operators, and developers a way to create [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) applications and [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp) aimed at solving business problems and/or improving operational efficiencies. It is an example of a commercial application of [blockchain-as-a-service](https://www.investopedia.com/terms/b/blockchainasaservice-baas.asp) (BaaS). Hyperledger Composer is one of the several [Hyperledger](https://www.investopedia.com/terms/h/hyperledger.asp) projects hosted by The Linux Foundation in collaboration with corporate members.1
+Hyperledger Composer is a set of [[open source tools]](https://www.investopedia.com/terms/o/open-source.asp) that allows business owners, operators, and developers a way to create [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) applications and [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp) aimed at solving business problems and/or improving operational efficiencies. It is an example of a commercial application of [[blockchain-as-a-service]](https://www.investopedia.com/terms/b/blockchainasaservice-baas.asp) (BaaS). Hyperledger Composer is one of the several [[Hyperledger]](https://www.investopedia.com/terms/h/hyperledger.asp) projects hosted by The Linux Foundation in collaboration with corporate members.1
 
-As of August 2019, the Hyperledger Composer project is in deprecated status, meaning that while it is still in-use, none of the maintainers are actively developing new features or provide support. Composer has been combined into [Hyperledger Fabric](https://www.investopedia.com/terms/h/hyperledger-fabric.asp) v1.4+.2
+As of August 2019, the Hyperledger Composer project is in deprecated status, meaning that while it is still in-use, none of the maintainers are actively developing new features or provide support. Composer has been combined into [[Hyperledger Fabric]](https://www.investopedia.com/terms/h/hyperledger-fabric.asp) v1.4+.2
 
 ### Key Takeaways
 

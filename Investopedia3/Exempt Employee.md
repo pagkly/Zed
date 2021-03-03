@@ -16,7 +16,7 @@ author: James Chen
 Exempt Employee
 ## What Is an Exempt Employee?
 
-An exempt employee is a term that refers to a category of employees set out in the [Fair Labor Standards Act](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp) (FLSA). Exempt employees do not receive overtime pay nor do they qualify for [minimum wage](https://www.investopedia.com/terms/m/minimum_wage.asp). When an employee is "exempt" it primarily means that they are exempt from receiving overtime pay. Exempt employees stand in contrast to non-exempt employees.
+An exempt employee is a term that refers to a category of employees set out in the [[Fair Labor Standards Act]](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp) (FLSA). Exempt employees do not receive overtime pay nor do they qualify for [[minimum wage]](https://www.investopedia.com/terms/m/minimum_wage.asp). When an employee is "exempt" it primarily means that they are exempt from receiving overtime pay. Exempt employees stand in contrast to non-exempt employees.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ An exempt employee is a term that refers to a category of employees set out in t
 
 ## Understanding an Exempt Employee
 
-In any workplace, there are two types of employees: exempt employees and [non-exempt employees](https://www.investopedia.com/terms/n/nonexempt-employee.asp). Exempt employees are classified as employees who are exempt from overtime pay and the minimum wage. This is because exempt employees are not [paid hourly but rather paid by salary](https://www.investopedia.com/articles/personal-finance/031115/salary-vs-hourly-how-benefits-laws-differ.asp), and their jobs are considered to be more of an executive or professional nature. Exempt employees often receive year-end bonuses to compensate for the type of work they do as well as for any overtime hours.
+In any workplace, there are two types of employees: exempt employees and [[non-exempt employees]](https://www.investopedia.com/terms/n/nonexempt-employee.asp). Exempt employees are classified as employees who are exempt from overtime pay and the minimum wage. This is because exempt employees are not [[paid hourly but rather paid by salary]](https://www.investopedia.com/articles/personal-finance/031115/salary-vs-hourly-how-benefits-laws-differ.asp), and their jobs are considered to be more of an executive or professional nature. Exempt employees often receive year-end bonuses to compensate for the type of work they do as well as for any overtime hours.
 
 Requirements differ from state to state, but the Fair Labor Standards Act classifies exempt employees as any job that falls into the following categories:
 
@@ -41,7 +41,7 @@ Requirements differ from state to state, but the Fair Labor Standards Act classi
 
 One can see that these classifications are quite broad, and they are intended to be so, as they can encompass a variety of jobs in many different industries. As of January 1, 2020, the FLSA stipulates that employees in the above categories are exempt if they are paid by salary as opposed to hourly and if they earn a minimum of $684 per week or $35,568 annually. This is an increase from $455 per week or $23,660 annually.
 
-In addition to the main categories of exempt employees, there are other categories of employees that may possibly be considered exempt from receiving overtime pay. These include farm workers, motion picture theatre employees, certain employees of non-metropolitan broadcast stations, taxi drivers, employees of railroads, motor carriers, and American vessels, and [commissioned](https://www.investopedia.com/terms/c/commission.asp) employees of retail or service entities.
+In addition to the main categories of exempt employees, there are other categories of employees that may possibly be considered exempt from receiving overtime pay. These include farm workers, motion picture theatre employees, certain employees of non-metropolitan broadcast stations, taxi drivers, employees of railroads, motor carriers, and American vessels, and [[commissioned]](https://www.investopedia.com/terms/c/commission.asp) employees of retail or service entities.
 
 ## Exempt Employees, Non-Exempt Employees, and the Fair Labor Standards Act
 

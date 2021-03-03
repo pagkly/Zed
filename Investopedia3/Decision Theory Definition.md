@@ -26,7 +26,7 @@ Decision theory is an interdisciplinary approach to arrive at the decisions that
 
 ## Understanding Decision Theory
 
-Decision theory brings together psychology, statistics, philosophy, and mathematics to analyze the decision-making process. Decision theory is closely related to [game theory](https://www.investopedia.com/terms/g/gametheory.asp) and is studied within the context of understanding the activities and decisions underpinning activities such as [auctions](https://www.investopedia.com/terms/a/auction.asp), evolution, and marketing.
+Decision theory brings together psychology, statistics, philosophy, and mathematics to analyze the decision-making process. Decision theory is closely related to [[game theory]](https://www.investopedia.com/terms/g/gametheory.asp) and is studied within the context of understanding the activities and decisions underpinning activities such as [[auctions]](https://www.investopedia.com/terms/a/auction.asp), evolution, and marketing.
 
 There are three main areas of decision theory. Each studies a different type of decision making.
 
@@ -42,4 +42,4 @@ Decision theory framework generally identifies three types of decision classes:
 
 ## Decision Under Uncertainty: Prisoner's Dilemma
 
-A common example of decision theory stems from the [prisoner's dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) in which two individuals are faced with an uncertain decision where the outcome is not only based on their personal decision, but also on that of the other individual. Since both parties do not know what actions the other person will take, this results in an uncertain decision framework. While mathematics and statistical models determine what the optimal decision should be, psychology and philosophy introduce factors of human behaviors to suggest the most likely outcome.
+A common example of decision theory stems from the [[prisoner's dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) in which two individuals are faced with an uncertain decision where the outcome is not only based on their personal decision, but also on that of the other individual. Since both parties do not know what actions the other person will take, this results in an uncertain decision framework. While mathematics and statistical models determine what the optimal decision should be, psychology and philosophy introduce factors of human behaviors to suggest the most likely outcome.

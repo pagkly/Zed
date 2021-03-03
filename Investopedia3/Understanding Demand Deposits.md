@@ -16,7 +16,7 @@ author: James Chen
 Understanding Demand Deposits
 ## What Is a Demand Deposit?
 
-A demand deposit account (DDA) consists of funds held in a [bank account](https://www.investopedia.com/articles/personal-finance/080114/10-banks-will-pay-you-cash-open-account.asp) from which deposited funds can be withdrawn at any time, such as checking accounts. DDA accounts can pay interest on a deposit into the accounts but aren’t required. A DDA allows funds to be accessed anytime, while a term deposit account restricts access for a predetermined time. 
+A demand deposit account (DDA) consists of funds held in a [[bank account]](https://www.investopedia.com/articles/personal-finance/080114/10-banks-will-pay-you-cash-open-account.asp) from which deposited funds can be withdrawn at any time, such as checking accounts. DDA accounts can pay interest on a deposit into the accounts but aren’t required. A DDA allows funds to be accessed anytime, while a term deposit account restricts access for a predetermined time. 
 
 ### Key Takeaways
 
@@ -38,9 +38,9 @@ Some banks create minimum balances for demand deposit accounts. Accounts falling
 
 ## Types of Demand Deposit Accounts 
 
-As of Sept. 16, 2019, the total amount of demand deposit accounts in the U.S. was $1.42 trillion. This compares to $1.1 trillion five years ago and $395 billion 10 years ago. The types of DDAs are primarily checking accounts but can include savings accounts. This is in contrast to term deposits, which have time constraints. Term deposits offer interest rates that are generally higher than savings accounts. The most common term deposit is [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs).
+As of Sept. 16, 2019, the total amount of demand deposit accounts in the U.S. was $1.42 trillion. This compares to $1.1 trillion five years ago and $395 billion 10 years ago. The types of DDAs are primarily checking accounts but can include savings accounts. This is in contrast to term deposits, which have time constraints. Term deposits offer interest rates that are generally higher than savings accounts. The most common term deposit is [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs).
 
-Although negotiable order of withdrawal (NOW) accounts and [money market accounts (MMAs)](https://www.investopedia.com/terms/m/moneymarketaccount.asp) let holders deposit and withdraw funds on demand and typically pay market interest rates, they are not DDA accounts. MMAs typically limit withdrawals, or transactions including deposits, withdrawals, and transfers, to six per month. Fees may apply if the limit is exceeded.
+Although negotiable order of withdrawal (NOW) accounts and [[money market accounts (MMAs)]](https://www.investopedia.com/terms/m/moneymarketaccount.asp) let holders deposit and withdraw funds on demand and typically pay market interest rates, they are not DDA accounts. MMAs typically limit withdrawals, or transactions including deposits, withdrawals, and transfers, to six per month. Fees may apply if the limit is exceeded.
 
 ## Requirements for Demand Deposits
 

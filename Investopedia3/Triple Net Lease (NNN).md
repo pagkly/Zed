@@ -16,7 +16,7 @@ author: James Chen
 Triple Net Lease (NNN)
 ## What Is a Triple Net Lease?
 
-A triple net lease (triple-Net or NNN) is a [lease](https://www.investopedia.com/terms/l/lease.asp) agreement on a property whereby the tenant or lessee promises to pay all the expenses of the property including real estate taxes, building insurance, and maintenance. These payments are in addition to the fees for rent and utilities, and all payments are typically the responsibility of the landlord in the absence of a triple, double, or single net lease.
+A triple net lease (triple-Net or NNN) is a [[lease]](https://www.investopedia.com/terms/l/lease.asp) agreement on a property whereby the tenant or lessee promises to pay all the expenses of the property including real estate taxes, building insurance, and maintenance. These payments are in addition to the fees for rent and utilities, and all payments are typically the responsibility of the landlord in the absence of a triple, double, or single net lease.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ A triple net lease (triple-Net or NNN) is a [lease](https://www.investopedia.
 
 ## Understanding Triple Net Leases
 
-If a property owner leases out a building to a business using a triple net lease, the tenant is responsible for paying the building's [property taxes](https://www.investopedia.com/terms/p/propertytax.asp), building insurance, and the cost of any maintenance or repairs the building may require for the term of the lease. Because the tenant is covering these costs, which would otherwise be the responsibility of the property owner, the rent charged in the triple net lease is generally lower than the rent charged in a standard lease agreement. The capitalization rate, which is used to calculate the lease amount, is determined by the creditworthiness of the tenant.
+If a property owner leases out a building to a business using a triple net lease, the tenant is responsible for paying the building's [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp), building insurance, and the cost of any maintenance or repairs the building may require for the term of the lease. Because the tenant is covering these costs, which would otherwise be the responsibility of the property owner, the rent charged in the triple net lease is generally lower than the rent charged in a standard lease agreement. The capitalization rate, which is used to calculate the lease amount, is determined by the creditworthiness of the tenant.
 
-In commercial real estate, a [net lease](https://www.investopedia.com/ask/answers/040115/what-are-differences-between-single-double-and-triplenet-leases.asp) is a lease in which the tenant is required to pay a portion, or all, of the taxes, fees and maintenance costs for a property. A single net lease requires tenants to pay property taxes in addition to rent, and a double net lease typically tacks on property insurance.
+In commercial real estate, a [[net lease]](https://www.investopedia.com/ask/answers/040115/what-are-differences-between-single-double-and-triplenet-leases.asp) is a lease in which the tenant is required to pay a portion, or all, of the taxes, fees and maintenance costs for a property. A single net lease requires tenants to pay property taxes in addition to rent, and a double net lease typically tacks on property insurance.
 
 ### Double Net Leases
 
@@ -44,7 +44,7 @@ Triple net leased properties have become popular investment vehicles for investo
 
 The benefits for investors include long-term, stable income with the possibility of capital appreciation of the underlying property. Investors can invest in high-quality real estate without concern for management operations including vacancy factors, tenant improvement costs or leasing fees. When the underlying properties are sold, investors can roll their capital into another triple-net-lease investment without paying taxes through a [1031 tax-deferred](https://www.investopedia.com/terms/s/section1031.asp) exchange.1
 
-Investors in triple net lease investment offerings must be accredited with a net worth of at least $1 million excluding the value of their primary residence or $200,000 in income ($300,000 for joint filers). Smaller investors may participate in triple net lease real estate by investing in [real estate investment trusts](https://www.investopedia.com/terms/r/reit.asp) (REITs) that focus on such properties in their portfolios.
+Investors in triple net lease investment offerings must be accredited with a net worth of at least $1 million excluding the value of their primary residence or $200,000 in income ($300,000 for joint filers). Smaller investors may participate in triple net lease real estate by investing in [[real estate investment trusts]](https://www.investopedia.com/terms/r/reit.asp) (REITs) that focus on such properties in their portfolios.
 
 ## Frequently Asked Questions
 

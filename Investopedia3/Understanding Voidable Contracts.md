@@ -20,7 +20,7 @@ A voidable contract is a formal agreement between two parties that may be render
 
 -   Failure by one or both parties to disclose a material fact
 -   A mistake, misrepresentation or fraud
--   [Undue influence](https://www.investopedia.com/terms/u/undue-influence.asp) or duress
+-   [[Undue influence]](https://www.investopedia.com/terms/u/undue-influence.asp) or duress
 -   One party's legal incapacity to enter a contract
 -   One or more terms that are unconscionable
 -   A breach of contract
@@ -35,7 +35,7 @@ A voidable contract occurs when one of the involved parties would not have agree
 
 A contract may be deemed void should the terms require one or both parties to participate in an illegal act, or if a party becomes incapable of meeting the terms.
 
-Alternatively, a contract is voidable when one or both parties were not legally capable of entering into the agreement, such as when one party is a minor. In contrast, a [void contract](https://www.investopedia.com/terms/v/void-contract.asp) is inherently unenforceable. A contract may be deemed void should the terms require one or both parties to participate in an illegal act, or if a party becomes incapable of meeting the terms as set forth, such as in the event of one party’s death.
+Alternatively, a contract is voidable when one or both parties were not legally capable of entering into the agreement, such as when one party is a minor. In contrast, a [[void contract]](https://www.investopedia.com/terms/v/void-contract.asp) is inherently unenforceable. A contract may be deemed void should the terms require one or both parties to participate in an illegal act, or if a party becomes incapable of meeting the terms as set forth, such as in the event of one party’s death.
 
 A contract that is deemed voidable can be corrected through the process of ratification. Contract ratification requires all involved parties to agree to new terms that effectively remove the initial point of contention present in the original contract.
 

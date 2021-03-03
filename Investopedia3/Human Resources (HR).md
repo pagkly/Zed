@@ -30,13 +30,13 @@ John R. Commons, an American institutional economist, first coined the term "hum
 
 The presence of an HR department is an essential component of any business, regardless of the organization's size. An HR department is tasked with maximizing employee productivity and protecting the company from any issues that may arise within the workforce. HR responsibilities include compensation and benefits, recruitment, firing, and keeping up to date with any laws that may affect the company and its employees.
 
-Research conducted by [The Conference Board](https://www.investopedia.com/terms/c/conferenceboard.asp), a member-driven economic think tank, has found six key people-related activities that HR must effectively do to add value to a company. These include:
+Research conducted by [[The Conference Board]](https://www.investopedia.com/terms/c/conferenceboard.asp), a member-driven economic think tank, has found six key people-related activities that HR must effectively do to add value to a company. These include:
 
 -   Managing and using people effectively
 -   Tying performance appraisal and compensation to competencies
 -   Developing competencies that enhance individual and organizational performance
 -   Increasing the innovation, creativity, and flexibility necessary to enhance competitiveness
--   Applying new approaches to work process design, [succession planning](https://www.investopedia.com/terms/s/succession-planning.asp), career development, and inter-organizational mobility
+-   Applying new approaches to work process design, [[succession planning]](https://www.investopedia.com/terms/s/succession-planning.asp), career development, and inter-organizational mobility
 -   Managing the implementation and integration of technology through improved staffing, training, and communication with employees1
 
 Beginning in the 1980s, there was a push for strategic initiatives within HR departments. This movement was based on research related to the impact of employee-related issues on a firm's long-term business success. Collectively, these strategies are sometimes referred to as human resource management (HRM) strategies. HRM is a comprehensive approach to managing employees and an organization's culture and environment. It focuses on the recruitment, management, and general direction of the people who work in an organization.
@@ -45,4 +45,4 @@ An HR department that adopts HRM strategies typically plays a more active role i
 
 ## Special Considerations
 
-Since the start of the 20th century, some companies have started [outsourcing](https://www.investopedia.com/terms/o/outsourcing.asp) some of the more traditional administrative, transactional HR functions in an effort to free the department to recommend and implement more meaningful, value-adding programs that impact the business in positive ways. Functions that may be outsourced in this process include payroll administration, employee benefits, recruitment, background checks, exit interviews, risk management, dispute resolution, safety inspection, and office policies.
+Since the start of the 20th century, some companies have started [[outsourcing]](https://www.investopedia.com/terms/o/outsourcing.asp) some of the more traditional administrative, transactional HR functions in an effort to free the department to recommend and implement more meaningful, value-adding programs that impact the business in positive ways. Functions that may be outsourced in this process include payroll administration, employee benefits, recruitment, background checks, exit interviews, risk management, dispute resolution, safety inspection, and office policies.

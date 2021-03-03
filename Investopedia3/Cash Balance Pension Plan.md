@@ -16,9 +16,9 @@ author: Julia Kagan
 Cash Balance Pension Plan
 ## What Is a Cash Balance Pension Plan?
 
-A cash balance pension plan is a [pension plan](https://www.investopedia.com/terms/p/pensionplan.asp) with the option of a lifetime [annuity](https://www.investopedia.com/terms/a/annuity.asp). For a cash balance plan, the employer credits a participant's account with a set percentage of their yearly compensation plus interest charges.1
+A cash balance pension plan is a [[pension plan]](https://www.investopedia.com/terms/p/pensionplan.asp) with the option of a lifetime [[annuity]](https://www.investopedia.com/terms/a/annuity.asp). For a cash balance plan, the employer credits a participant's account with a set percentage of their yearly compensation plus interest charges.1
 
-A cash balance pension plan is a [[Defined-Benefit Plan]]. As such, the plan's funding limits, funding requirements, and [investment risk](https://www.investopedia.com/articles/investing/032415/how-investment-risk-quantified.asp) are based on defined-benefit requirements. Changes in the portfolio do not affect the final benefits received by the participant upon retirement or termination, and the company bears all ownership of profits and losses in the portfolio.1
+A cash balance pension plan is a [[Defined-Benefit Plan]]. As such, the plan's funding limits, funding requirements, and [[investment risk]](https://www.investopedia.com/articles/investing/032415/how-investment-risk-quantified.asp) are based on defined-benefit requirements. Changes in the portfolio do not affect the final benefits received by the participant upon retirement or termination, and the company bears all ownership of profits and losses in the portfolio.1
 
 ### Key Takeaways
 
@@ -29,13 +29,13 @@ A cash balance pension plan is a [[Defined-Benefit Plan]]. As such, the plan's f
 
 ## Understanding Cash Balance Pension Plans
 
-Although a cash balance pension plan is a [[Defined-Benefit Plan]], unlike the regular [[Defined-Benefit Plan]], the cash balance plan is maintained on an individual account basis, much like a defined-contribution plan. The cash balance plan acts similarly to a [defined-contribution plan](https://www.investopedia.com/terms/d/definedcontributionplan.asp) because changes in the value of the participant's portfolio do not affect the yearly contribution.3
+Although a cash balance pension plan is a [[Defined-Benefit Plan]], unlike the regular [[Defined-Benefit Plan]], the cash balance plan is maintained on an individual account basis, much like a defined-contribution plan. The cash balance plan acts similarly to a [[defined-contribution plan]](https://www.investopedia.com/terms/d/definedcontributionplan.asp) because changes in the value of the participant's portfolio do not affect the yearly contribution.3
 
 The added features of a cash balance pension plan resemble those of [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) plans. As in a traditional pension plan, investments are managed professionally, and participants are promised a certain benefit at retirement. However, the benefits are stated in terms of a 401(k)-style account balance rather than the terms of a monthly income stream.3
 
-Having a cash balance pension plan, in addition to a 401(k), can help a retirement saver slash their [tax bills](https://www.investopedia.com/articles/tax/08/real-estate-reduce-tax.asp) and bolster their nest egg. However, those who depend on generous traditional pension plans are less enthusiastic.
+Having a cash balance pension plan, in addition to a 401(k), can help a retirement saver slash their [[tax bills]](https://www.investopedia.com/articles/tax/08/real-estate-reduce-tax.asp) and bolster their nest egg. However, those who depend on generous traditional pension plans are less enthusiastic.
 
-Many older business owners seek out these types of plans to turbocharge their retirement savings because of the generous contribution limits that increase with age. People 60 years and older can sock away well over $200,000 annually in [pretax contributions](https://www.investopedia.com/terms/p/pretaxcontribution.asp).4
+Many older business owners seek out these types of plans to turbocharge their retirement savings because of the generous contribution limits that increase with age. People 60 years and older can sock away well over $200,000 annually in [[pretax contributions]](https://www.investopedia.com/terms/p/pretaxcontribution.asp).4
 
 With a 401(k), total employer and employee contributions for those 50 and older are much more limited. For the 2021 tax year, the maximum combined contribution is $64,500 ($63,500 for 2020). That figure includes a $6,500 "catch-up" allowance for those aged 50 and over.2
 

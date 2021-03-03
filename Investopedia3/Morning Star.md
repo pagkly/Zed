@@ -16,17 +16,17 @@ author: James Chen
 Morning Star
 ## What Does Morning Star Mean?
 
-A morning star is a visual pattern consisting of three [candlesticks](https://www.investopedia.com/terms/c/candlestick.asp) that is interpreted as a bullish sign by technical analysts. A morning star forms following a downward trend and it indicates the start of an upward climb. It is a sign of a [reversal](https://www.investopedia.com/terms/r/reversal.asp) in the previous price trend. Traders watch for the formation of a morning star and then seek confirmation that a reversal is indeed occurring using additional indicators.
+A morning star is a visual pattern consisting of three [[candlesticks]](https://www.investopedia.com/terms/c/candlestick.asp) that is interpreted as a bullish sign by technical analysts. A morning star forms following a downward trend and it indicates the start of an upward climb. It is a sign of a [[reversal]](https://www.investopedia.com/terms/r/reversal.asp) in the previous price trend. Traders watch for the formation of a morning star and then seek confirmation that a reversal is indeed occurring using additional indicators.
 
 ### Key Takeaways
 
 -   A morning star is a visual pattern made up of a tall black candlestick, a smaller black or white candlestick with a short body and long wicks, and a third tall white candlestick.
 -   The middle candle of the morning star captures a moment of market indecision where the bears begin to give way to bulls. The third candle confirms the reversal and can mark a new uptrend.
--   The opposite pattern to a morning star is the [evening star](https://www.investopedia.com/terms/e/eveningstar.asp), which signals a reversal of an uptrend into a downtrend.
+-   The opposite pattern to a morning star is the [[evening star]](https://www.investopedia.com/terms/e/eveningstar.asp), which signals a reversal of an uptrend into a downtrend.
 
 ## What Does the Morning Star Tell You?
 
-A morning star is a visual pattern, so there are no particular calculations to perform. A morning star forms after three sessions or it doesn't. However, there are other technical indicators that can help predict if a morning star is forming, such as whether the price action is nearing a support zone or whether or not the [relative strength indicator (RSI)](https://www.investopedia.com/terms/r/rsi.asp) is showing that the stock or commodity is oversold.
+A morning star is a visual pattern, so there are no particular calculations to perform. A morning star forms after three sessions or it doesn't. However, there are other technical indicators that can help predict if a morning star is forming, such as whether the price action is nearing a support zone or whether or not the [[relative strength indicator (RSI)]](https://www.investopedia.com/terms/r/rsi.asp) is showing that the stock or commodity is oversold.
 
 Here is what a morning star pattern looks like:
 
@@ -40,7 +40,7 @@ Morning star patterns can be used as a visual sign for the start of a trend reve
 
 ## The Difference Between a Morning Star and a Doji Morning Star
 
-The morning star pattern comes in a minor variation. When the price action is essentially flat in the middle candlestick, it forms a [doji](https://www.investopedia.com/terms/d/doji.asp). This is a small candlestick with no significant wicks - not unlike a + sign. The doji morning star shows the market indecision more clearly than a morning star with a thicker middle candle. The appearance of a doji following a black candle will generally see a more aggressive volume spike and a correspondingly longer white candle due to more traders being able to clearly identify a morning star forming.
+The morning star pattern comes in a minor variation. When the price action is essentially flat in the middle candlestick, it forms a [[doji]](https://www.investopedia.com/terms/d/doji.asp). This is a small candlestick with no significant wicks - not unlike a + sign. The doji morning star shows the market indecision more clearly than a morning star with a thicker middle candle. The appearance of a doji following a black candle will generally see a more aggressive volume spike and a correspondingly longer white candle due to more traders being able to clearly identify a morning star forming.
 
 ## The Difference Between a Morning Star and an Evening Star
 

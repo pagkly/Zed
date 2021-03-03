@@ -16,9 +16,9 @@ author: Adam Hayes
 What a Z-Score Tells Us
 ## What Is a Z-Score?
 
-A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values. Z-score is measured in terms of [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.
+A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values. Z-score is measured in terms of [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp) from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.
 
-In finance, Z-scores are measures of an observation's variability and can be used by traders to help determine market volatility. The Z-score is also sometimes known as the [Altman Z-score](https://www.investopedia.com/terms/a/altman.asp).
+In finance, Z-scores are measures of an observation's variability and can be used by traders to help determine market volatility. The Z-score is also sometimes known as the [[Altman Z-score]](https://www.investopedia.com/terms/a/altman.asp).
 
 -   A Z-Score is a statistical measurement of a score's relationship to the mean in a group of scores.
 -   A Z-score can reveal to a trader if a value is typical for a specified data set or if it is atypical.
@@ -28,7 +28,7 @@ In finance, Z-scores are measures of an observation's variability and can be use
 
 Z-scores reveal to statisticians and traders whether a score is typical for a specified data set or if it is atypical. Z-scores also make it possible for analysts to adapt scores from various data sets to make scores that can be compared to one another more accurately.
 
-Edward Altman, a professor at New York University, developed and introduced the Z-score formula in the late 1960s as a solution to the time-consuming and somewhat confusing process investors had to undergo to determine how close to [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp) a company was.1 2 In reality, the Z-score formula that Altman developed actually ended up providing investors with an idea of the overall financial health of a company.
+Edward Altman, a professor at New York University, developed and introduced the Z-score formula in the late 1960s as a solution to the time-consuming and somewhat confusing process investors had to undergo to determine how close to [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp) a company was.1 2 In reality, the Z-score formula that Altman developed actually ended up providing investors with an idea of the overall financial health of a company.
 
 Over the years, Altman continued to reevaluate his Z-score. From 1969 until 1975, Altman looked at 86 companies in distress. From 1976 to 1995, he observed 110 companies. Finally, from 1997 to 1999, he evaluated an additional 120 companies. From his findings, it was revealed that the Z-score had an accuracy of between 82% and 94%.3
 
@@ -48,7 +48,7 @@ The Z-score, by contrast, is the number of standard deviations a given data poin
 
 ## Criticisms of Z-Scores
 
-The Z-score should be calculated and interpreted with care. For example, the Z-score is not immune to [false accounting practices](https://www.investopedia.com/terms/c/creative-accounting.asp). Since companies in trouble may sometimes misrepresent or cover up their financials, the Z-score is only as accurate as the data that goes into it.
+The Z-score should be calculated and interpreted with care. For example, the Z-score is not immune to [[false accounting practices]](https://www.investopedia.com/terms/c/creative-accounting.asp). Since companies in trouble may sometimes misrepresent or cover up their financials, the Z-score is only as accurate as the data that goes into it.
 
 Additionally, the Z-score isn't very effective for new companies with little to zero earnings. Regardless of their actual financial health, these companies will score low. Moreover, the Z-score doesn't address the cash flows of a company. Rather, it only hints at it through the use of the net working capital-to-asset ratio.
 

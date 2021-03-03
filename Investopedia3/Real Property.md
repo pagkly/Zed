@@ -27,11 +27,11 @@ Real property is the land, everything that is permanently attached to the land, 
 
 ## Understanding Real Property
 
-To understand real property, it's helpful to start with land and real estate. Land is defined as the earth's surface extending downward to the center of the earth and upward to infinity, including everything that is permanently attached by nature, such as boulders, trees, and water. Land also includes the [minerals below the earth's surface](https://www.investopedia.com/terms/m/mineral-rights.asp) and the airspace above the land.
+To understand real property, it's helpful to start with land and real estate. Land is defined as the earth's surface extending downward to the center of the earth and upward to infinity, including everything that is permanently attached by nature, such as boulders, trees, and water. Land also includes the [[minerals below the earth's surface]](https://www.investopedia.com/terms/m/mineral-rights.asp) and the airspace above the land.
 
 In contrast, real estate is defined as the land at, above, and below the earth's surface, including everything that's permanently attached to it, _whether natural or artificial_. So, while land includes only those components permanently attached by nature, real estate includes any artificial, permanent improvements to the land—such as streets, utilities, sewers, fences, and buildings.
 
-Real property, on the other hand, is defined as the interests, benefits, and rights inherent in the ownership of real estate. The broader term real property includes the physical land (the surface and what lies below and above it), everything that is permanently attached to it—whether natural or artificial—plus all the rights of ownership, including the right to possess, sell, [lease](https://www.investopedia.com/articles/mortgages-real-estate/08/leased-land.asp), and enjoy the land.
+Real property, on the other hand, is defined as the interests, benefits, and rights inherent in the ownership of real estate. The broader term real property includes the physical land (the surface and what lies below and above it), everything that is permanently attached to it—whether natural or artificial—plus all the rights of ownership, including the right to possess, sell, [[lease]](https://www.investopedia.com/articles/mortgages-real-estate/08/leased-land.asp), and enjoy the land.
 
 ## Estates in Real Property
 

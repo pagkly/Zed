@@ -16,7 +16,7 @@ author: Adam Hayes
 How the Expanded Accounting Equation Works
 ## What Is the Expanded Accounting Equation?
 
-The expanded accounting equation is derived from the common [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp) and illustrates in greater detail the different components of [stockholder equity](https://www.investopedia.com/terms/s/stockholdersequity.asp) in a company.
+The expanded accounting equation is derived from the common [[accounting equation]](https://www.investopedia.com/terms/a/accounting-equation.asp) and illustrates in greater detail the different components of [[stockholder equity]](https://www.investopedia.com/terms/s/stockholdersequity.asp) in a company.
 
 By decomposing equity into component parts, analysts can get a better idea of how profits are being used—as dividends, reinvested into the company, or retained as cash.
 
@@ -40,15 +40,15 @@ Assets\=Liabilities+CC+BRE+R−E−Dwhere:CC\=Contributed Capital, capital pr
 
 Sometimes, analysts want to better understand the composition of a company's shareholders' equity. Besides assets and liabilities, which are part of the general accounting equation, stockholders' equity is expanded into the following elements:
 
--   _**Contributed capital**_ is the capital provided by the original stockholders (also known as [Paid-In Capital](https://www.investopedia.com/terms/p/paidincapital.asp)).
+-   _**Contributed capital**_ is the capital provided by the original stockholders (also known as [[Paid-In Capital]](https://www.investopedia.com/terms/p/paidincapital.asp)).
 -   _**Beginning retained earnings**_ are the earnings not distributed to the stockholders from the previous period.
 -   _**Revenue**_ is what's generated from the ongoing operation of the company.
 -   _**Expenses**_ are those costs incurred to run operations of the business_._
 -   _**Dividends**_ are subtracted since they are the earnings distributed to the stockholders of the company.
 
-[Contributed capital](https://www.investopedia.com/terms/c/contributed-capital.asp) and dividends show the effect of transactions with the stockholders. The difference between the revenue and profit generated and expenses and losses incurred reflects the effect of [net income](https://www.investopedia.com/terms/n/netincome.asp) for stockholders' equity. Overall, then, the expanded accounting equation is useful in identifying at a basic level how stockholders' equity in a firm changes from period to period.
+[Contributed capital](https://www.investopedia.com/terms/c/contributed-capital.asp) and dividends show the effect of transactions with the stockholders. The difference between the revenue and profit generated and expenses and losses incurred reflects the effect of [[net income]](https://www.investopedia.com/terms/n/netincome.asp) for stockholders' equity. Overall, then, the expanded accounting equation is useful in identifying at a basic level how stockholders' equity in a firm changes from period to period.
 
-Some terminology may vary depending on the type of entity structure. "Members' Capital" and "Owners' Capital" are commonly used for partnerships and [sole proprietorships](https://www.investopedia.com/terms/s/soleproprietorship.asp), respectively, while "distributions" and "withdrawals" are substitute nomenclature for "dividends."
+Some terminology may vary depending on the type of entity structure. "Members' Capital" and "Owners' Capital" are commonly used for partnerships and [[sole proprietorships]](https://www.investopedia.com/terms/s/soleproprietorship.asp), respectively, while "distributions" and "withdrawals" are substitute nomenclature for "dividends."
 
 ## Real-World Example of the Expanded Accounting Equation
 

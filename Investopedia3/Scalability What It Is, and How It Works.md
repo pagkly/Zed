@@ -16,9 +16,9 @@ author: Adam Hayes
 Scalability: What It Is, and How It Works
 ## What Is Scalability?
 
-Scalability is a characteristic of an organization, system, model, or function that describes its capability to cope and perform well under an increased or expanding workload or [scope](https://www.investopedia.com/terms/s/scope.asp). A system that scales well will be able to maintain or even increase its level of performance or efficiency even as it is tested by larger and larger operational demands.
+Scalability is a characteristic of an organization, system, model, or function that describes its capability to cope and perform well under an increased or expanding workload or [[scope]](https://www.investopedia.com/terms/s/scope.asp). A system that scales well will be able to maintain or even increase its level of performance or efficiency even as it is tested by larger and larger operational demands.
 
-In [financial markets](https://www.investopedia.com/terms/f/financial-market.asp), scalability refers to financial institutions' ability to handle increased market demands; in the corporate environment, a scalable company is one that can maintain or improve profit margins while sales volume increases.
+In [[financial markets]](https://www.investopedia.com/terms/f/financial-market.asp), scalability refers to financial institutions' ability to handle increased market demands; in the corporate environment, a scalable company is one that can maintain or improve profit margins while sales volume increases.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Some tech companies, for example, have an amazing ability to scale quickly, maki
 
 Even companies that are not directly related to the technology industry have a greater ability to scale by utilizing specific technologies. Customer acquisition, for example, through the use of tools like digital advertising, has become a lot easier.
 
-Even banking institutions can implement digital advertising strategies to increase signups for [online banking](https://www.investopedia.com/terms/o/onlinebanking.asp) services, increasing their customer base and revenue potential. Other technologies that help with scaling include labor-saving technologies such as automated warehouse management systems used by large retailers including Amazon and Wal-Mart.
+Even banking institutions can implement digital advertising strategies to increase signups for [[online banking]](https://www.investopedia.com/terms/o/onlinebanking.asp) services, increasing their customer base and revenue potential. Other technologies that help with scaling include labor-saving technologies such as automated warehouse management systems used by large retailers including Amazon and Wal-Mart.
 
 ## Special Considerations
 
@@ -46,4 +46,4 @@ At its core, a scalable business is one that focuses on the implementation of pr
 
 All scalable companies have an established group of leaders, including C-level executives, investors, and advisors, who provide strategy and direction. Scalable businesses also have consistent brand messaging across their divisions and locations. A lack of brand enforcement sometimes causes companies to lose sight of their core value, thus decreasing scalability. Yahoo is an example of this. After the company scaled up quickly, it lost sight of its core business and has floundered.
 
-A scalable company has effective tools for measurement, so the entire business can be assessed and managed at each level. This management leads to the efficient operations described above and helps with [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp).
+A scalable company has effective tools for measurement, so the entire business can be assessed and managed at each level. This management leads to the efficient operations described above and helps with [[capital budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp).

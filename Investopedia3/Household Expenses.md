@@ -16,9 +16,9 @@ author: Julia Kagan
 Household Expenses
 ## What Are Household Expenses?
 
-Household expenses represent a per-person breakdown of general living expenses. They include the amount paid for lodging, food consumed within the home, [utilities](https://www.investopedia.com/terms/u/utility.asp) paid, and other costs. The sum of all the [expenses](https://www.investopedia.com/terms/e/expense.asp) is then divided by the number of family members residing in the house in order to find each member's share of the total expense.
+Household expenses represent a per-person breakdown of general living expenses. They include the amount paid for lodging, food consumed within the home, [[utilities]](https://www.investopedia.com/terms/u/utility.asp) paid, and other costs. The sum of all the [[expenses]](https://www.investopedia.com/terms/e/expense.asp) is then divided by the number of family members residing in the house in order to find each member's share of the total expense.
 
-Some household expenses qualify for tax deductions. For example, if you work from home and have an office there, you might qualify for the [home office deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction).
+Some household expenses qualify for tax deductions. For example, if you work from home and have an office there, you might qualify for the [[home office deduction]](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction).
 
 ### Key Takeaways:
 
@@ -28,7 +28,7 @@ Some household expenses qualify for tax deductions. For example, if you work fro
 
 ## Understanding Household Expenses
 
-If you have "head of household" status, you can enjoy a larger [standard deduction](https://www.investopedia.com/terms/s/standarddeduction.asp) and lower [tax rates](https://www.investopedia.com/terms/t/taxrate.asp). The items associated with household expenses include a broad range of recurring purchases.
+If you have "head of household" status, you can enjoy a larger [[standard deduction]](https://www.investopedia.com/terms/s/standarddeduction.asp) and lower [[tax rates]](https://www.investopedia.com/terms/t/taxrate.asp). The items associated with household expenses include a broad range of recurring purchases.
 
 ## Types of Household Expenses
 
@@ -54,4 +54,4 @@ Costs for leisure and pastimes might be part of a household's regular expenditur
 
 The money spent on vacations, costs to participate in hobbies such as procuring collectible items, and fees for club memberships also add to these expenses. However, the necessity of such expenditures may come into question when budgeting to maintain the necessities of a household, particularly if there is a decline in personal income. If household expenses surpass your capacity to pay them, increased debt and more extensive consequences may occur.
 
-The Internal Revenue Service [lists the expenses](https://www.irs.gov/credits-deductions-for-individuals) that qualify for a tax deduction. To claim a tax deduction, keep meticulous records and all receipts so that you are ready to fill out the required forms at tax time.
+The Internal Revenue Service [[lists the expenses]](https://www.irs.gov/credits-deductions-for-individuals) that qualify for a tax deduction. To claim a tax deduction, keep meticulous records and all receipts so that you are ready to fill out the required forms at tax time.

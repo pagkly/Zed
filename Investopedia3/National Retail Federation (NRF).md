@@ -30,4 +30,4 @@ The NRF created the NRF Foundation to provide resources and experiences for thos
 
 ## This Is Retail Campaign
 
-The NRF launched the This is Retail campaign in 2013. The initiative highlights opportunities in the retail [sector](https://www.investopedia.com/terms/s/sector.asp) by bringing together industry advocates from both emerging and established brands to share their experiences. Retail Across America is an extension of the This is Retail program, and it brings together retailers and universities with retail associations and legislators.
+The NRF launched the This is Retail campaign in 2013. The initiative highlights opportunities in the retail [[sector]](https://www.investopedia.com/terms/s/sector.asp) by bringing together industry advocates from both emerging and established brands to share their experiences. Retail Across America is an extension of the This is Retail program, and it brings together retailers and universities with retail associations and legislators.

@@ -24,7 +24,7 @@ EBITDAR\=EBITDA + Restructuring/Rental Costswhere:EBITDA = Earnings before
 
 ## What Does EBITDAR Tell You?
 
-EBITDAR is a metric used primarily to analyze the financial health and performance of companies that have gone through restructuring within the past year. It is also useful for businesses such as restaurants or casinos that have unique rent costs. It exists alongside [earnings before interest and tax (EBIT)](https://www.investopedia.com/terms/e/ebit.asp) and [earnings before interest, tax, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp).
+EBITDAR is a metric used primarily to analyze the financial health and performance of companies that have gone through restructuring within the past year. It is also useful for businesses such as restaurants or casinos that have unique rent costs. It exists alongside [[earnings before interest and tax (EBIT)]](https://www.investopedia.com/terms/e/ebit.asp) and [[earnings before interest, tax, depreciation, and amortization (EBITDA)]](https://www.investopedia.com/terms/e/ebitda.asp).
 
 Using EBITDAR in analysis helps to reduce variability from one company's expenses to the next, in order to focus only on costs that are related to operations. This is helpful when comparing peer companies within the same industry.
 
@@ -56,6 +56,6 @@ Note that rent is excluded for the EBITDAR metric only.
 
 ## The Difference Between EBITDAR and EBITDA
 
-The difference between EBITDA and EBITDAR is that the latter excludes restructuring or rent costs. However, both metrics are utilized to compare the financial performance of two companies without considering their taxes or non-cash expenses such as depreciation and amortization. When a business [amortizes](https://www.investopedia.com/terms/a/amortization.asp) or depreciates an asset, it writes off a portion of the asset's cost each year over the course of several years, although it may have actually paid for the asset all in one year.
+The difference between EBITDA and EBITDAR is that the latter excludes restructuring or rent costs. However, both metrics are utilized to compare the financial performance of two companies without considering their taxes or non-cash expenses such as depreciation and amortization. When a business [[amortizes]](https://www.investopedia.com/terms/a/amortization.asp) or depreciates an asset, it writes off a portion of the asset's cost each year over the course of several years, although it may have actually paid for the asset all in one year.
 
 While essential for tax returns and accounting ledgers, these numbers may cloud the picture of a business's current financial state. As a result, investors want to consider the performance of a company without taking non-operational expenses into account as they may look quite different from one company to the next.

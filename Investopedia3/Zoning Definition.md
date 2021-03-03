@@ -16,7 +16,7 @@ author: Will Kenton
 Zoning Definition
 ## What Is Zoning?
 
-Zoning refers to municipal or local laws or regulations that govern how [real property](https://www.investopedia.com/terms/r/real-property.asp) can and cannot be used in certain geographic areas. For example, zoning laws can limit [commercial](https://www.investopedia.com/terms/c/commercial.asp) or industrial use of land in order to prevent oil, manufacturing, or other types of businesses from building in residential neighborhoods.
+Zoning refers to municipal or local laws or regulations that govern how [[real property]](https://www.investopedia.com/terms/r/real-property.asp) can and cannot be used in certain geographic areas. For example, zoning laws can limit [[commercial]](https://www.investopedia.com/terms/c/commercial.asp) or industrial use of land in order to prevent oil, manufacturing, or other types of businesses from building in residential neighborhoods.
 
 These laws can be modified or suspended if the construction of a property will serve to help the community advance economically.
 
@@ -36,13 +36,13 @@ Local government might ban the use of residential property for business purposes
 
 Zoning laws can also regulate the details of construction in specific neighborhoods. For example, zoning can limit the maximum height of buildings in a given area regardless of the type of construction allowed. High-rise residences or offices could be banned on particular parcels through zoning regardless of whether the buildings otherwise comply with the laws.
 
-The presence of zoning restrictions can influence prices when purchasing a piece of property. [Real estate](https://www.investopedia.com/terms/r/realtor-property-resource-rpr.asp) might sell at a premium based on how many limits were put in place by the municipality.
+The presence of zoning restrictions can influence prices when purchasing a piece of property. [[Real estate]](https://www.investopedia.com/terms/r/realtor-property-resource-rpr.asp) might sell at a premium based on how many limits were put in place by the municipality.
 
-In 1926, the Supreme Court ruled that properly drawn [zoning ordinances](https://www.investopedia.com/terms/z/zoning-ordinance.asp) were a valid exercise of the states' governing power. Zoning became constitutional by the U.S. Supreme Court as a result of the case Village of Euclid v. Ambler Realty Co., 272 U.S. 365, 395 (1926).
+In 1926, the Supreme Court ruled that properly drawn [[zoning ordinances]](https://www.investopedia.com/terms/z/zoning-ordinance.asp) were a valid exercise of the states' governing power. Zoning became constitutional by the U.S. Supreme Court as a result of the case Village of Euclid v. Ambler Realty Co., 272 U.S. 365, 395 (1926).
 
 ## Economic Theory of Zoning
 
-According to Nobel Prize-winning economist Ronald Coase's [Theorem](https://www.investopedia.com/terms/c/coase-theorem.asp), in the absence of [transaction costs](https://www.investopedia.com/terms/t/transactioncosts.asp), questions and disputes over land use and development could be solved optimally without government regulation. Under the assumptions of Coase's Theorem, how a given piece of land should be used and what type of activities should be permitted could simply be negotiated amongst the parties involved to achieve an economically efficient outcome.
+According to Nobel Prize-winning economist Ronald Coase's [[Theorem]](https://www.investopedia.com/terms/c/coase-theorem.asp), in the absence of [[transaction costs]](https://www.investopedia.com/terms/t/transactioncosts.asp), questions and disputes over land use and development could be solved optimally without government regulation. Under the assumptions of Coase's Theorem, how a given piece of land should be used and what type of activities should be permitted could simply be negotiated amongst the parties involved to achieve an economically efficient outcome.
 
 Coase's Theorem illustrates why, in the real world where transaction costs do occur and frictionless bargaining between stakeholders is unlikely, land use regulations such as zoning and other government-imposed solutions are the norm.
 
@@ -50,7 +50,7 @@ Coase's Theorem illustrates why, in the real world where transaction costs do oc
 
 Critics of zoning laws claim that the practice creates and widens the disparity of quality of life between socioeconomic groups.
 
-For example, a township might maintain zoning laws that restrict heavy industrial and commercial development to tracts of land adjacent to [lower-income](https://www.investopedia.com/terms/i/income-per-capita.asp) neighborhoods. The effects of such policies would let more affluent parts of town avoid the associated noise and pollution.
+For example, a township might maintain zoning laws that restrict heavy industrial and commercial development to tracts of land adjacent to [[lower-income]](https://www.investopedia.com/terms/i/income-per-capita.asp) neighborhoods. The effects of such policies would let more affluent parts of town avoid the associated noise and pollution.
 
 ## Special Considerations
 

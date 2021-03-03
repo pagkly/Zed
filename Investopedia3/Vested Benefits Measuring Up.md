@@ -20,7 +20,7 @@ A vested benefit is a financial package granted to employees who have met the te
 
 This process is called graduated vesting or cliff vesting. When the employee has earned full rights to the incentive after a predetermined number of years of service, those benefits are called fully vested.
 
-The [Employee Retirement Income Security Act (ERISA)](https://www.investopedia.com/terms/e/erisa.asp) sets rules that protect Americans’ retirement assets—including minimum standards for participation, vesting, benefit accrual, and funding. ERISA also guarantees that workers can access the benefits that have vested once they have worked at a job for the prescribed period.
+The [[Employee Retirement Income Security Act (ERISA)]](https://www.investopedia.com/terms/e/erisa.asp) sets rules that protect Americans’ retirement assets—including minimum standards for participation, vesting, benefit accrual, and funding. ERISA also guarantees that workers can access the benefits that have vested once they have worked at a job for the prescribed period.
 
 The precise structure of a vested benefits program might be negotiated as part of a labor union's collective bargaining agreement or during the process of recruiting and hiring new employees.
 
@@ -32,7 +32,7 @@ For example, an employee might be awarded 100 shares of stock as a performance b
 
 ### How Vested Benefits Are Applied
 
-Depending on the type of benefit, the time required to be fully vested can vary. For example, a 401(k) plan vests as soon as an employee begins to participate, which means that they will be able to access the full amount of money they put into that account whenever they leave the company. If the benefits program includes [matching contributions](https://www.investopedia.com/terms/m/matchingcontribution.asp) by the company in an employer-sponsored retirement plan, there may be a minimum required amount of time that the employee must work before that portion of the funding becomes vested.
+Depending on the type of benefit, the time required to be fully vested can vary. For example, a 401(k) plan vests as soon as an employee begins to participate, which means that they will be able to access the full amount of money they put into that account whenever they leave the company. If the benefits program includes [[matching contributions]](https://www.investopedia.com/terms/m/matchingcontribution.asp) by the company in an employer-sponsored retirement plan, there may be a minimum required amount of time that the employee must work before that portion of the funding becomes vested.
 
 The precise structure of a vested benefits program might be negotiated as part of a labor union's collective bargaining agreement or during the process of recruiting and hiring new employees. As more employees earn vested benefits, the amount of funding that an organization is required to put toward these benefits can create potential liabilities for companies. For accounting purposes, a company may be required to report the amount of the obligation being carried on the books for such vested benefits.
 

@@ -16,7 +16,7 @@ author: Julia Kagan
 Resident Alien
 ## What Is a Resident Alien?
 
-A resident alien is a foreign-born United States resident who is not a U.S. citizen. A resident alien is also known as a permanent resident or a lawful permanent resident, which means they are considered an immigrant who has been legally and lawfully recorded as a resident of the country. A resident alien must have a [green card](https://www.investopedia.com/terms/g/green-card.asp) or pass a substantial presence test. 
+A resident alien is a foreign-born United States resident who is not a U.S. citizen. A resident alien is also known as a permanent resident or a lawful permanent resident, which means they are considered an immigrant who has been legally and lawfully recorded as a resident of the country. A resident alien must have a [[green card]](https://www.investopedia.com/terms/g/green-card.asp) or pass a substantial presence test. 
 
 ## Understanding Resident Alien Status
 
@@ -33,16 +33,16 @@ People can also fall under the U.S. classification of resident aliens if they pa
 According to the United States Citizenship and Immigration Services (USCIS), there are three types of resident alien:
 
 -   **Permanent resident:** This is someone who has been given the lawful and legal right by the government to live in the United States.
--   **Conditional resident:** This person receives a two-year green card, which is usually given to people who have applied for [residency](https://www.investopedia.com/articles/personal-finance/121214/developed-countries-easy-residencycitizenship.asp) based on marriage or because they are entrepreneurs. A person must apply to have the conditions removed 90 days before the green card expires, or else the permanent resident status will be removed. 
+-   **Conditional resident:** This person receives a two-year green card, which is usually given to people who have applied for [[residency]](https://www.investopedia.com/articles/personal-finance/121214/developed-countries-easy-residencycitizenship.asp) based on marriage or because they are entrepreneurs. A person must apply to have the conditions removed 90 days before the green card expires, or else the permanent resident status will be removed. 
 -   **Returning resident:** This is someone who has been outside the U.S. and is returning to the country. This person, also known as a "special immigrant," and must apply for readmission if he is outside the U.S. for more than 180 days. 
 
-The main issue with resident aliens is that of tax law. For example, a resident alien can use [foreign tax credits](https://www.investopedia.com/terms/f/foreign-tax-credit.asp), whereas a non-resident cannot. However, in general, a resident alien is subject to the same taxes as a U.S. citizen, while a non-resident alien only pays tax on domestic income that is generated within the United States, not including [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp).
+The main issue with resident aliens is that of tax law. For example, a resident alien can use [[foreign tax credits]](https://www.investopedia.com/terms/f/foreign-tax-credit.asp), whereas a non-resident cannot. However, in general, a resident alien is subject to the same taxes as a U.S. citizen, while a non-resident alien only pays tax on domestic income that is generated within the United States, not including [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp).
 
 ### Fast Fact
 
 The U.S. Department of Homeland Security recorded admitting 1,031,765 million new permanent residents in 2019, the most recent figure available as of Feb. 1, 2021.1
 
-Resident aliens are required to report worldwide income from sources both within and outside the United States. Income is reported using [Form 1040](https://www.investopedia.com/terms/1/1040.asp). Non-resident aliens, on the other hand, report domestic income using Form [1040NR](https://www.irs.gov/forms-pubs/about-form-1040-nr) or Form [1040NR-EZ](https://www.irs.gov/forms-pubs/about-form-1040-nr-ez).
+Resident aliens are required to report worldwide income from sources both within and outside the United States. Income is reported using [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp). Non-resident aliens, on the other hand, report domestic income using Form [1040NR](https://www.irs.gov/forms-pubs/about-form-1040-nr) or Form [1040NR-EZ](https://www.irs.gov/forms-pubs/about-form-1040-nr-ez).
 
 ### Example of a Resident Alien
 

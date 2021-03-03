@@ -18,19 +18,19 @@ Pre-Foreclosure: What Happens before the Bank Forecloses on a Home
 
 Pre-foreclosure refers to the beginning phase of a legal proceeding that ultimately can conclude in property being repossessed from a defaulted borrower. In pre-foreclosure, the lender files a [notice of default](https://www.investopedia.com/terms/n/notice-of-default.asp) on the property because the borrowing owner has exceeded the contractual terms for delinquent payments. A notice of default informs the borrowing owner that the lender is pursuing legal actions toward foreclosure.
 
-Pre-foreclosure can be an important phase because the lender may be open to a last rights negotiation on delinquent debt for the borrower. The borrower often has a final opportunity to potentially reverse the default status by either making up late payments, negotiating a modification, or possibly opting to sell the property before it reaches a final [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp) eviction.
+Pre-foreclosure can be an important phase because the lender may be open to a last rights negotiation on delinquent debt for the borrower. The borrower often has a final opportunity to potentially reverse the default status by either making up late payments, negotiating a modification, or possibly opting to sell the property before it reaches a final [[foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp) eviction.
 
 ### Key Takeaways
 
 -   Pre-foreclosure usually begins when the lender files a default notice on the property because the homeowner has exceeded the contractual terms for delinquent payments (often three months of delinquency or non-payments).
--   In pre-foreclosure, mortgage borrowers may still have some options, including making backdated payments, negotiating a modification, or arranging a [short sale](https://www.investopedia.com/terms/r/real-estate-short-sale.asp).
--   Government-backed mortgages have a moratorium for forbearance, evictions, and foreclosure proceedings due to the Coronavirus pandemic. The federal moratorium has been extended until at least March 31, 2021. [States](https://www.justia.com/covid-19/50-state-covid-19-resources/eviction-mortgage-foreclosure-relief-during-covid-19-50-state-resource/) may also have their own foreclosure moratoriums.
+-   In pre-foreclosure, mortgage borrowers may still have some options, including making backdated payments, negotiating a modification, or arranging a [[short sale]](https://www.investopedia.com/terms/r/real-estate-short-sale.asp).
+-   Government-backed mortgages have a moratorium for forbearance, evictions, and foreclosure proceedings due to the Coronavirus pandemic. The federal moratorium has been extended until at least March 31, 2021. [[States]](https://www.justia.com/covid-19/50-state-covid-19-resources/eviction-mortgage-foreclosure-relief-during-covid-19-50-state-resource/) may also have their own foreclosure moratoriums.
 
 #### The Pitfalls Of Buying A Foreclosed House
 
 ## How Pre-Foreclosure Works
 
-When a homebuyer takes out a loan to purchase a property, they sign a contract with the lending institution to repay the mortgage loan according to a contractual agreement, typically with monthly installments. Monthly payments are usually structured to cover a portion of [principal](https://www.investopedia.com/terms/p/principal.asp) and interest payments on the mortgage.
+When a homebuyer takes out a loan to purchase a property, they sign a contract with the lending institution to repay the mortgage loan according to a contractual agreement, typically with monthly installments. Monthly payments are usually structured to cover a portion of [[principal]](https://www.investopedia.com/terms/p/principal.asp) and interest payments on the mortgage.
 
 Standard mortgage contracts are often structured to be in default if a borrower fails to make payments for three consecutive months. At that point, the lender is usually contractually authorized to begin pre-foreclosure.1
 
@@ -38,7 +38,7 @@ The borrower receives a copy of a notice of default, which is also made a matter
 
 There are several standard steps to a foreclosure proceeding. The notice of default kicks off the proceeding, in the pre-foreclosure phase. In general, the lender needs court approval for their lien on a property, which must be given by a judge.
 
-Lenders are often more willing to negotiate backdated payments and possible loan modifications in the pre-foreclosure stage of a proceeding in order to avoid paying what can be extensive foreclosure proceeding costs. If foreclosure is granted and a foreclosure [eviction](https://www.investopedia.com/terms/e/eviction.asp) notice is authorized, the lender can move toward a public auction or trustee sale.
+Lenders are often more willing to negotiate backdated payments and possible loan modifications in the pre-foreclosure stage of a proceeding in order to avoid paying what can be extensive foreclosure proceeding costs. If foreclosure is granted and a foreclosure [[eviction]](https://www.investopedia.com/terms/e/eviction.asp) notice is authorized, the lender can move toward a public auction or trustee sale.
 
 ## Advantages and Disadvantages of Pre-Foreclosure
 

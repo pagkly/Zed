@@ -16,7 +16,7 @@ author: Will Kenton
 How the High-Low Method Works
 ## What Is the High-Low Method?
 
-In [cost accounting](https://www.investopedia.com/terms/c/cost-accounting.asp), the high-low method is a way of attempting to separate out fixed and variable costs given a limited amount of data. The high-low method involves taking the highest level of activity and the lowest level of activity and comparing the [total costs at each level](https://www.investopedia.com/ask/answers/041415/what-are-different-types-costs-cost-accounting.asp).
+In [[cost accounting]](https://www.investopedia.com/terms/c/cost-accounting.asp), the high-low method is a way of attempting to separate out fixed and variable costs given a limited amount of data. The high-low method involves taking the highest level of activity and the lowest level of activity and comparing the [[total costs at each level]](https://www.investopedia.com/ask/answers/041415/what-are-different-types-costs-cost-accounting.asp).
 
 If the variable cost is a fixed charge per unit and fixed costs remain the same, it is possible to determine the fixed and variable costs by solving the system of equations. It is worth being cautious when using the High-Low Method, however, as it can yield more or less accurate results depending on the distribution of values between the highest and lowest dollar amounts or quantities.
 
@@ -38,9 +38,9 @@ High-Low Cost\=Fixed Cost+(Variable Cost×UA)where:UA\=Unit activity\\begin{
 
 ## What Does the High-Low Method Tell You?
 
-The costs associated with a product, product line, equipment, store, geographic sales region, or subsidiary, consist of both [variable costs](https://www.investopedia.com/terms/v/variablecost.asp) and [fixed costs](https://www.investopedia.com/terms/f/fixedcost.asp). To determine both cost components of the total cost, an analyst or accountant can use a technique known as the high-low method.
+The costs associated with a product, product line, equipment, store, geographic sales region, or subsidiary, consist of both [[variable costs]](https://www.investopedia.com/terms/v/variablecost.asp) and [[fixed costs]](https://www.investopedia.com/terms/f/fixedcost.asp). To determine both cost components of the total cost, an analyst or accountant can use a technique known as the high-low method.
 
-The high-low method is used to calculate the variable and fixed cost of a product or entity with mixed costs. It takes two factors into consideration. It considers the total dollars of the mixed costs at the highest volume of activity and the total dollars of the [mixed costs](https://www.investopedia.com/terms/s/semivariablecost.asp) at the lowest volume of activity. The total amount of fixed costs is assumed to be the same at both points of activity. The change in the total costs is thus the variable cost rate times the change in the number of units of activity.
+The high-low method is used to calculate the variable and fixed cost of a product or entity with mixed costs. It takes two factors into consideration. It considers the total dollars of the mixed costs at the highest volume of activity and the total dollars of the [[mixed costs]](https://www.investopedia.com/terms/s/semivariablecost.asp) at the lowest volume of activity. The total amount of fixed costs is assumed to be the same at both points of activity. The change in the total costs is thus the variable cost rate times the change in the number of units of activity.
 
 ### Key Takeaways
 
@@ -238,10 +238,10 @@ The high-low method is a simple analysis that takes less calculation work. It on
 
 [Regression analysis](https://www.investopedia.com/articles/financial-theory/09/regression-analysis-basics-business.asp) helps forecast costs as well, by comparing the influence of one predictive variable upon another value or criteria. It also considers outlying values that help refine the results. However, regression analysis is only as good as the set of data points used, and the results suffer when the data set is incomplete.
 
-It's also possible to draw incorrect conclusions by assuming that just because two sets of data [correlate](https://www.investopedia.com/terms/c/correlation.asp) with each other, one must cause changes in the other. Regression analysis is also best performed using a spreadsheet program or statistics program.
+It's also possible to draw incorrect conclusions by assuming that just because two sets of data [[correlate]](https://www.investopedia.com/terms/c/correlation.asp) with each other, one must cause changes in the other. Regression analysis is also best performed using a spreadsheet program or statistics program.
 
 ## Limitations of the High-Low Method
 
 The high-low method is relatively unreliable because it only takes two extreme activity levels into consideration. The high or low points used for the calculation may not be representative of the costs normally incurred at those volume levels due to outlier costs that are higher or lower than would normally be incurred. In this case, the high-low method will produce inaccurate results.
 
-The high-low method is generally not preferred as it can yield an incorrect understanding of the data if there are changes in variable or fixed cost rates over time or if a tiered pricing system is employed. In most real-world cases, it should be possible to obtain more information so the variable and fixed costs can be determined directly. Thus, the high-low method should only be used when it is not possible to obtain actual [billing](https://www.investopedia.com/terms/d/descriptive-billing.asp) data.
+The high-low method is generally not preferred as it can yield an incorrect understanding of the data if there are changes in variable or fixed cost rates over time or if a tiered pricing system is employed. In most real-world cases, it should be possible to obtain more information so the variable and fixed costs can be determined directly. Thus, the high-low method should only be used when it is not possible to obtain actual [[billing]](https://www.investopedia.com/terms/d/descriptive-billing.asp) data.

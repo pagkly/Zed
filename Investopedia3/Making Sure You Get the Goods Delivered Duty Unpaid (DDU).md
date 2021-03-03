@@ -16,7 +16,7 @@ author: Troy Segal
 Making Sure You Get the Goods: Delivered Duty Unpaid (DDU)
 ## What Is Delivered Duty Unpaid (DDU)?
 
-Delivered Duty Unpaid (DDU) is an old international trade term indicating that the seller is responsible for the safe delivery of goods to a named destination, paying all transportation expenses and assuming all risks during transport. Once the goods arrive at the agreed-upon location, the buyer becomes responsible for paying import duties, as well as further transport costs. However, [Delivered Duty Paid](https://www.investopedia.com/terms/d/delivery-duty-paid.asp) (DDP) indicates that the seller must cover duties, import clearance, and any taxes.
+Delivered Duty Unpaid (DDU) is an old international trade term indicating that the seller is responsible for the safe delivery of goods to a named destination, paying all transportation expenses and assuming all risks during transport. Once the goods arrive at the agreed-upon location, the buyer becomes responsible for paying import duties, as well as further transport costs. However, [[Delivered Duty Paid]](https://www.investopedia.com/terms/d/delivery-duty-paid.asp) (DDP) indicates that the seller must cover duties, import clearance, and any taxes.
 
 ### Key Takeaways
 
@@ -34,10 +34,10 @@ With DDU, the seller assumes all risks until the goods are delivered to the spec
 
 According to DDU arrangements, the seller secures licenses and takes care of other formalities involved in exporting a good; it is also responsible for all licenses and costs incurred in transit countries, as well as providing an invoice at its own cost. The seller assumes all risk until the goods are delivered to the specified location, but it has no obligation to obtain insurance on the goods. 
 
-The buyer is responsible for obtaining all necessary licenses for importing the goods and paying all relevant taxes, [duties](https://www.investopedia.com/terms/d/duty.asp), and inspection costs. All risks involved in this process are borne by the buyer. Once the goods are placed at the disposal of the buyer, all further transportation costs and risks fall on the buyer.
+The buyer is responsible for obtaining all necessary licenses for importing the goods and paying all relevant taxes, [[duties]](https://www.investopedia.com/terms/d/duty.asp), and inspection costs. All risks involved in this process are borne by the buyer. Once the goods are placed at the disposal of the buyer, all further transportation costs and risks fall on the buyer.
 
 ## Special Considerations
 
-The [International Chamber of Commerce](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC) is an organization that was originally formed after World War I with the goal of fostering prosperity in Europe by setting standards for international trade. It was this group that, in 1936, published a set of standardized terms for different types of shipping agreements, known as Incoterms.
+The [[International Chamber of Commerce]](https://www.investopedia.com/terms/i/international-chamber-of-commerce-icc.asp) (ICC) is an organization that was originally formed after World War I with the goal of fostering prosperity in Europe by setting standards for international trade. It was this group that, in 1936, published a set of standardized terms for different types of shipping agreements, known as Incoterms.
 
-Incoterms are contract specifications outlining who bears the costs and risks of [international transactions](https://www.investopedia.com/insights/what-is-international-trade/); they are subject to change at the discretion of the ICC. Because of the legal and logistical intricacies of international shipping, the ICC seeks to simplify matters for businesses by standardizing its terms. 2020 Incoterms revision is [available for purchase](https://2go.iccwbo.org/incoterms-2020-eng-config+book_version-eBook) direct from the site.
+Incoterms are contract specifications outlining who bears the costs and risks of [[international transactions]](https://www.investopedia.com/insights/what-is-international-trade/); they are subject to change at the discretion of the ICC. Because of the legal and logistical intricacies of international shipping, the ICC seeks to simplify matters for businesses by standardizing its terms. 2020 Incoterms revision is [[available for purchase]](https://2go.iccwbo.org/incoterms-2020-eng-config+book_version-eBook) direct from the site.

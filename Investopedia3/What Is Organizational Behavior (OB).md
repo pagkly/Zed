@@ -18,7 +18,7 @@ What Is Organizational Behavior (OB)?
 
 Organizational behavior (OB) is the academic study of how people act within groups. Its principles are applied primarily in attempts to make businesses operate more effectively.
 
-The study of organizational behavior includes areas of research dedicated to improving job performance, increasing job satisfaction, promoting innovation, and encouraging [leadership](https://www.investopedia.com/terms/l/leadership.asp). Each has its own recommended actions, such as reorganizing groups, modifying compensation structures, or changing methods of [performance evaluation](https://www.investopedia.com/what-is-a-performance-appraisal-4586834).
+The study of organizational behavior includes areas of research dedicated to improving job performance, increasing job satisfaction, promoting innovation, and encouraging [[leadership]](https://www.investopedia.com/terms/l/leadership.asp). Each has its own recommended actions, such as reorganizing groups, modifying compensation structures, or changing methods of [[performance evaluation]](https://www.investopedia.com/what-is-a-performance-appraisal-4586834).
 
 The study of organizational behavior has its roots in the late 1920s, when the Western Electric Company launched a now-famous series of studies of the behavior of workers at its Hawthorne Works plant in Cicero, Illinois.1
 
@@ -48,13 +48,13 @@ The new frontiers of organizational behavior are the cultural components of orga
 
 ## Where Organizational Behavior Is Studied
 
-Academic programs focusing on organizational behavior are found in [business schools](https://www.investopedia.com/colleges-and-universities-4689808) as well as at schools of social work and psychology. These programs draw from the fields of anthropology, ethnography, and leadership studies, and use quantitative, qualitative, and computer models as methods to explore and test ideas.
+Academic programs focusing on organizational behavior are found in [[business schools]](https://www.investopedia.com/colleges-and-universities-4689808) as well as at schools of social work and psychology. These programs draw from the fields of anthropology, ethnography, and leadership studies, and use quantitative, qualitative, and computer models as methods to explore and test ideas.
 
-Depending on the program, one can study specific topics within organizational behavior or broader fields within it. Specific topics covered include cognition, decision-making, learning, motivation, negotiation, impressions, group process, stereotyping, and power and influence. The broader study areas include social systems, the dynamics of change, markets, relationships between organizations and their environments, how social movements influence markets, and the power of [social networks](https://www.investopedia.com/articles/markets/081315/3-social-media-networks-facebook.asp).
+Depending on the program, one can study specific topics within organizational behavior or broader fields within it. Specific topics covered include cognition, decision-making, learning, motivation, negotiation, impressions, group process, stereotyping, and power and influence. The broader study areas include social systems, the dynamics of change, markets, relationships between organizations and their environments, how social movements influence markets, and the power of [[social networks]](https://www.investopedia.com/articles/markets/081315/3-social-media-networks-facebook.asp).
 
 ## Real World Examples of Organizational Behavior
 
-Findings from organizational behavior research are used by executives and human relations professionals to better understand a [business’s culture](https://www.investopedia.com/terms/c/corporate-culture.asp), how that culture helps or hinders productivity and employee retention, and how to evaluate candidates' skills and personality during the hiring process.
+Findings from organizational behavior research are used by executives and human relations professionals to better understand a [[business’s culture]](https://www.investopedia.com/terms/c/corporate-culture.asp), how that culture helps or hinders productivity and employee retention, and how to evaluate candidates' skills and personality during the hiring process.
 
 Organizational behavior theories inform real-world evaluation and management of groups of people. There are a number of components:
 

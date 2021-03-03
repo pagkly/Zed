@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding Guaranteed Stock
 ## What Is Guaranteed Stock?
 
-Guaranteed stock has two meanings, one applied to [dividends](https://www.investopedia.com/terms/s/stockdividend.asp) and one applied to [inventory](https://www.investopedia.com/terms/i/inventory.asp). The more common reference is to an infrequently used form of common or [preferred stock](https://www.thebalance.com/the-many-flavors-of-preferred-stock-356336), in which the dividends are guaranteed by one or more other companies. Guaranteed stock issues, like guaranteed bonds, have most often used by [railroads](https://www.investopedia.com/articles/stocks/11/primer-on-railroad-sector.asp) and public utilities. The guaranteed dividend can increase the stock's price.
+Guaranteed stock has two meanings, one applied to [[dividends]](https://www.investopedia.com/terms/s/stockdividend.asp) and one applied to [[inventory]](https://www.investopedia.com/terms/i/inventory.asp). The more common reference is to an infrequently used form of common or [[preferred stock]](https://www.thebalance.com/the-many-flavors-of-preferred-stock-356336), in which the dividends are guaranteed by one or more other companies. Guaranteed stock issues, like guaranteed bonds, have most often used by [[railroads]](https://www.investopedia.com/articles/stocks/11/primer-on-railroad-sector.asp) and public utilities. The guaranteed dividend can increase the stock's price.
 
 The second meaning for guaranteed stock correlates to a company's physical inventory. In this use of the term, guaranteed stock refers to commonly purchased items that a company always keeps a supply of for customers to purchase.
 
@@ -24,7 +24,7 @@ With guaranteed stock, a third party must come in to essentially vouch for a par
 
 ## Guaranteed Stock and Preferred Stock
 
-Guaranteed stock in the financial world is used, on rare occasions, when a company either can't pay dividends or is in danger of not being able to continue paying dividends. A company must earn a profit if it wants to pay dividends. A company that doesn't earn a profit can't pay dividends. A company that can temporarily pay dividends but has considerable financial issues that could threaten future profitability cannot guarantee dividends in the future. In both scenarios, the company cannot guarantee that it will be able to pay dividends and continue doing so; as a result, a [third party](https://www.investopedia.com/terms/t/third-party.asp) must come in to guarantee that the company will pay the dividend.
+Guaranteed stock in the financial world is used, on rare occasions, when a company either can't pay dividends or is in danger of not being able to continue paying dividends. A company must earn a profit if it wants to pay dividends. A company that doesn't earn a profit can't pay dividends. A company that can temporarily pay dividends but has considerable financial issues that could threaten future profitability cannot guarantee dividends in the future. In both scenarios, the company cannot guarantee that it will be able to pay dividends and continue doing so; as a result, a [[third party]](https://www.investopedia.com/terms/t/third-party.asp) must come in to guarantee that the company will pay the dividend.
 
 This is different from standard preferred stock, which is typically guaranteed, even in the case of bankruptcy. Preferred stockholders receive priority over common stockholders, who cannot receive a dividend until the preferred shareholders' dividend has been paid in full. If the company files for bankruptcy and must liquidate assets, preferred stockholders receive payments before the common stockholders, but not before the creditors, secured creditors, general creditors, and bondholders.
 
@@ -34,7 +34,7 @@ Guaranteed stock is used infrequently, on occasions when a company is unable to 
 
 By having guaranteed stock, or a full supply of all of its inventory, a company can acquire an advantage over competitors who do not have all their products available. Customers will have more and better options insofar as what they can buy, and any orders can be fulfilled and delivered faster.
 
-However, there is some risk with this strategy, as the company faces the [costs associated with carrying](https://www.investopedia.com/terms/c/carryingcostofinventory.asp) a large amount of inventory. It may not want to or be able to spend the money needed to have all of its inventory guaranteed.
+However, there is some risk with this strategy, as the company faces the [[costs associated with carrying]](https://www.investopedia.com/terms/c/carryingcostofinventory.asp) a large amount of inventory. It may not want to or be able to spend the money needed to have all of its inventory guaranteed.
 
 In addition, if the inventory fails to sell by a certain time period, it may that it is stuck with a surplus, which it then has to sell at a discount, causing it to lose money. Even worse, particularly in terms of technology, inventory can become obsolete and potentially incapable of being sold.
 

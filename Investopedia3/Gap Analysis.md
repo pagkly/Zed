@@ -18,7 +18,7 @@ Gap Analysis
 
 A gap analysis is the process companies use to compare their current performance with their desired, expected performance. This analysis is used to determine whether a company is meeting expectations and using its resources effectively.
 
-A gap analysis is the means by which a company can recognize its current state—by measuring time, money, and labor—and compare it to its target state. By defining and analyzing these gaps, the management team can [create an action plan](https://www.investopedia.com/terms/s/strategic-gap-analysis.asp) to move the organization forward and fill in the performance gaps.
+A gap analysis is the means by which a company can recognize its current state—by measuring time, money, and labor—and compare it to its target state. By defining and analyzing these gaps, the management team can [[create an action plan]](https://www.investopedia.com/terms/s/strategic-gap-analysis.asp) to move the organization forward and fill in the performance gaps.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ A gap analysis is the means by which a company can recognize its current state�
 
 ## Understanding a Gap Analysis
 
-When organizations aren't making the best use of their resources, [capital](https://www.investopedia.com/terms/c/capital.asp), and technology, they may not be able to reach their full potential. This is where a gap analysis can help.
+When organizations aren't making the best use of their resources, [[capital]](https://www.investopedia.com/terms/c/capital.asp), and technology, they may not be able to reach their full potential. This is where a gap analysis can help.
 
 A gap analysis, which is also referred to as a needs analysis, is important for any type of organizational performance. It allows companies to determine where they are today and where they want to be in the future. Companies can reexamine their goals through a gap analysis to figure out whether they are on the right track to accomplishing them.
 
@@ -61,6 +61,6 @@ Gap analysis can be used by organizations of varying degrees, from large corpora
 
 ## Gap Analysis in Asset Management
 
-Gap analysis is also a method of asset-liability management that can be used to assess [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp) (IRR) or [liquidity risk](https://www.investopedia.com/terms/l/liquidityrisk.asp), excluding [credit risk](https://www.investopedia.com/terms/c/creditrisk.asp). It is a simple IRR measurement method that conveys the difference between rate-sensitive assets and rate-sensitive liabilities over a given period of time.
+Gap analysis is also a method of asset-liability management that can be used to assess [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp) (IRR) or [[liquidity risk]](https://www.investopedia.com/terms/l/liquidityrisk.asp), excluding [[credit risk]](https://www.investopedia.com/terms/c/creditrisk.asp). It is a simple IRR measurement method that conveys the difference between rate-sensitive assets and rate-sensitive liabilities over a given period of time.
 
-This type of analysis works well if assets and liabilities are composed of fixed [cash flows](https://www.investopedia.com/terms/c/cashflow.asp). Because of this, a significant shortcoming of gap analysis is that it cannot handle [options](https://www.investopedia.com/terms/o/option.asp), as options have uncertain cash flows.
+This type of analysis works well if assets and liabilities are composed of fixed [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp). Because of this, a significant shortcoming of gap analysis is that it cannot handle [[options]](https://www.investopedia.com/terms/o/option.asp), as options have uncertain cash flows.

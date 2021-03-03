@@ -16,7 +16,7 @@ author: Julia Kagan
 Household Income Definition
 ## What Is Household Income?
 
-Household income is the combined [gross income](https://www.investopedia.com/terms/g/grossincome.asp) of all household members who are 15 years or older. Individuals do not have to be related in any way to be considered members of the same household. Household income is an important risk measure used by lenders for [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) loans and a useful economic indicator of an area's standard of living.
+Household income is the combined [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp) of all household members who are 15 years or older. Individuals do not have to be related in any way to be considered members of the same household. Household income is an important risk measure used by lenders for [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) loans and a useful economic indicator of an area's standard of living.
 
 ## Understanding Household Income
 
@@ -32,7 +32,7 @@ At an individual level, household income is adjusted gross income, meaning that 
 
 ## Difference Between Household Income, Family Income, and Per Capita Income
 
-Household income is one of three commonly cited measures of individual wealth. The other two, family income and [per capita](https://www.investopedia.com/terms/p/percapita.asp) income, take slightly different approaches to measuring how well people in a given area are doing financially.
+Household income is one of three commonly cited measures of individual wealth. The other two, family income and [[per capita]](https://www.investopedia.com/terms/p/percapita.asp) income, take slightly different approaches to measuring how well people in a given area are doing financially.
 
 Household income considers the income of all people ages 15 years or older occupying the same housing unit, regardless of relation. A single person occupying a dwelling by himself is also considered a household.
 

@@ -20,7 +20,7 @@ Organization Of Arab Petroleum Exporting Countries (OAPEC) is an inter-governme
 
 ## Understanding OAPEC
 
-OAPEC was established in 1968 by Kuwait, Libya, and Saudi Arabia. Its other members include Algeria, Bahrain, Egypt, Iraq, Qatar, Syria, Tunisia, and the United Arab Emirates. Although they have several members in common, OAPEC is a separate and distinct entity from [OPEC](https://www.investopedia.com/terms/o/opec.asp) (the Organization of the Petroleum Exporting Countries), the 12-nation [cartel](https://www.investopedia.com/terms/c/cartel.asp) that plays a pivotal role in determining global petroleum prices. OAPEC sponsors joint ventures for its member countries to promote the effective use of resources and the economic integration of Arab countries.  
+OAPEC was established in 1968 by Kuwait, Libya, and Saudi Arabia. Its other members include Algeria, Bahrain, Egypt, Iraq, Qatar, Syria, Tunisia, and the United Arab Emirates. Although they have several members in common, OAPEC is a separate and distinct entity from [[OPEC]](https://www.investopedia.com/terms/o/opec.asp) (the Organization of the Petroleum Exporting Countries), the 12-nation [[cartel]](https://www.investopedia.com/terms/c/cartel.asp) that plays a pivotal role in determining global petroleum prices. OAPEC sponsors joint ventures for its member countries to promote the effective use of resources and the economic integration of Arab countries.  
 
 ## The History of OAPEC
 

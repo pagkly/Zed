@@ -16,7 +16,7 @@ author: Caroline Banton
 Contingent Liability Definition
 ## What Is a Contingent Liability?
 
-A contingent liability is a [liability](https://www.investopedia.com/articles/investing/041213/examples-assetliability-management.asp) that may occur depending on the outcome of an uncertain future event. A contingent liability is recorded if the contingency is likely and the amount of the liability can be reasonably estimated. The liability may be disclosed in a footnote on the financial statements unless both conditions are not met.
+A contingent liability is a [[liability]](https://www.investopedia.com/articles/investing/041213/examples-assetliability-management.asp) that may occur depending on the outcome of an uncertain future event. A contingent liability is recorded if the contingency is likely and the amount of the liability can be reasonably estimated. The liability may be disclosed in a footnote on the financial statements unless both conditions are not met.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A contingent liability is a [liability](https://www.investopedia.com/articles/in
 
 ## Understanding Contingent Liabilities
 
-Pending lawsuits and [product warranties](https://www.investopedia.com/articles/pf/07/warranties.asp) are common contingent liability examples because their outcomes are uncertain. The accounting rules for reporting a contingent liability differ depending on the estimated dollar amount of the liability and the likelihood of the event occurring. The accounting rules ensure that financial statement readers receive sufficient information.
+Pending lawsuits and [[product warranties]](https://www.investopedia.com/articles/pf/07/warranties.asp) are common contingent liability examples because their outcomes are uncertain. The accounting rules for reporting a contingent liability differ depending on the estimated dollar amount of the liability and the likelihood of the event occurring. The accounting rules ensure that financial statement readers receive sufficient information.
 
 An estimated liability is certain to occur; so, an amount is always entered into the accounts even if the precise amount is not known at the time of data entry.
 
@@ -42,7 +42,7 @@ Both GAAP (generally accepted accounting principles) and IFRS (international 
 
 ## Special Considerations
 
-A [warranty](https://www.investopedia.com/terms/w/warranty.asp) is another common contingent liability because the number of products returned under a warranty is unknown. Assume, for example, that a bike manufacturer offers a three-year warranty on bicycle seats, which cost $50 each. If the firm manufactures 1,000 bicycle seats in a year and offers a warranty per seat, the firm needs to estimate the number of seats that may be returned under warranty each year.
+A [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) is another common contingent liability because the number of products returned under a warranty is unknown. Assume, for example, that a bike manufacturer offers a three-year warranty on bicycle seats, which cost $50 each. If the firm manufactures 1,000 bicycle seats in a year and offers a warranty per seat, the firm needs to estimate the number of seats that may be returned under warranty each year.
 
 If, for example, the company forecasts that 200 seats must be replaced under warranty for $50, the firm posts a debit (increase) to warranty expense for $10,000 and a credit (increase) to accrued warranty liability for $10,000. At the end of the year, the accounts are adjusted for the actual warranty expense incurred.
 

@@ -16,7 +16,7 @@ author:  Staff Author
 What Is the Employment-to-Population Ratio?
 ## What Is the Employment-to-Population Ratio?
 
-The employment-to-population ratio, also known as the “employment-population ratio,” is a [macroeconomic](https://www.investopedia.com/terms/m/macroeconomics.asp) statistic that measures the civilian labor force currently employed against the total [working-age population](https://www.investopedia.com/terms/w/working-age-population.asp) of a region, municipality, or country. It is calculated by dividing the number of people employed by the total number of people of working age, and it is used as a metric of labor and unemployment.
+The employment-to-population ratio, also known as the “employment-population ratio,” is a [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) statistic that measures the civilian labor force currently employed against the total [[working-age population]](https://www.investopedia.com/terms/w/working-age-population.asp) of a region, municipality, or country. It is calculated by dividing the number of people employed by the total number of people of working age, and it is used as a metric of labor and unemployment.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The employment-to-population ratio, also known as the “employment-population r
 
 ## Understanding the Employment-to-Population Ratio
 
-Compared with other measures of labor force participation, the employment-to-population ratio is not as affected by [seasonal](https://www.investopedia.com/terms/s/seasonality.asp) variations or short-term fluctuations in the [labor market](https://www.investopedia.com/terms/l/labor-market.asp). As a result, it is often considered to be a more reliable indicator of job shrinkage or growth than the [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp).
+Compared with other measures of labor force participation, the employment-to-population ratio is not as affected by [[seasonal]](https://www.investopedia.com/terms/s/seasonality.asp) variations or short-term fluctuations in the [[labor market]](https://www.investopedia.com/terms/l/labor-market.asp). As a result, it is often considered to be a more reliable indicator of job shrinkage or growth than the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp).
 
 If 50 million people are employed in an area with 75 million people of working age, the employment-to-population ratio is 66.7%. The calculation is as follows:
 
@@ -34,13 +34,13 @@ Labor Force EmployedTotal Population\\frac{\\text{Labor Force Employed}}{\\te
 
 This measure is similar to the labor force participation rate, which measures the total labor force—and not just the part of the labor force already employed like the unemployment rate does—divided by the total population. 
 
-The [civilian labor force](https://www.investopedia.com/terms/c/civilian-labor-force.asp) is a term used by the [U.S. Bureau of Labor Statistics (BLS)](https://www.investopedia.com/terms/b/bls.asp) to refer to Americans who are considered either employed or unemployed. Those not included in the labor force count include military personnel, federal government employees, retirees, handicapped or discouraged workers, and some agricultural workers.
+The [[civilian labor force]](https://www.investopedia.com/terms/c/civilian-labor-force.asp) is a term used by the [[U.S. Bureau of Labor Statistics (BLS)]](https://www.investopedia.com/terms/b/bls.asp) to refer to Americans who are considered either employed or unemployed. Those not included in the labor force count include military personnel, federal government employees, retirees, handicapped or discouraged workers, and some agricultural workers.
 
 The employment-to-population ratio does not take hours worked into account, so it fails to distinguish between part-time and full-time workers.
 
 ## Disadvantages of the Employment-to-Population Ratio
 
-The employment-to-population ratio does not include the institutionalized population, such as people in mental hospitals and prisons, or people in school who are studying for a career. It also doesn’t take into account [black market](https://www.investopedia.com/terms/b/blackmarket.asp) labor.
+The employment-to-population ratio does not include the institutionalized population, such as people in mental hospitals and prisons, or people in school who are studying for a career. It also doesn’t take into account [[black market]](https://www.investopedia.com/terms/b/blackmarket.asp) labor.
 
 The employment-to-population ratio also fails to account for people who are over or under the working age but are still working, such as babysitters, child actors, or moonlighting retirees. These workers may be counted in the "employed" side of the ratio but may not be included in the total number of people of working age. As a result, their employment inaccurately increases the ratio.
 

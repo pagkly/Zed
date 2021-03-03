@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding Mosaic Theory
 ## What Is the Mosaic Theory?
 
-The mosaic theory refers to a method of analysis used by [security analysts](https://www.investopedia.com/terms/s/securityanalyst.asp) to gather information about a corporation. The mosaic theory involves collecting public, non-public, and non-material information about a company to determine the underlying value of its securities and to enable the analyst to make recommendations to clients based on that information.
+The mosaic theory refers to a method of analysis used by [[security analysts]](https://www.investopedia.com/terms/s/securityanalyst.asp) to gather information about a corporation. The mosaic theory involves collecting public, non-public, and non-material information about a company to determine the underlying value of its securities and to enable the analyst to make recommendations to clients based on that information.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ Analysts using mosaic theory should disclose to clients the details of the infor
 
 ## Mosaic Theory vs. Scuttlebutt Method
 
-Mosaic theory closely aligns with the scuttlebutt method, a company analysis technique popularized by investment guru [Philip Fisher](https://www.investopedia.com/terms/t/the_greatest_generation.asp) in his 1958 book “Common Stocks and Uncommon Profits."
+Mosaic theory closely aligns with the scuttlebutt method, a company analysis technique popularized by investment guru [[Philip Fisher]](https://www.investopedia.com/terms/t/the_greatest_generation.asp) in his 1958 book “Common Stocks and Uncommon Profits."
 
 Investors who use the scuttlebutt method make conclusions about a company by piecing information together using firsthand knowledge from discussions with employees, competitors and industry experts. Both the mosaic theory and the scuttlebutt method gather small pieces of non-material information and add them together to form a material conclusion.
 
@@ -52,7 +52,7 @@ These websites provide useful insight into a company’s employees from customer
 
 ### Google Trends
 
-Determine if there is robust consumer demand for a company’s products and services by using this Google research tool. For example, an investor may conclude that a company is likely to receive a [takeover](https://www.investopedia.com/video/play/takeover/) bid from a multinational corporation due to strong demand for a new product it sells in a foreign market.
+Determine if there is robust consumer demand for a company’s products and services by using this Google research tool. For example, an investor may conclude that a company is likely to receive a [[takeover]](https://www.investopedia.com/video/play/takeover/) bid from a multinational corporation due to strong demand for a new product it sells in a foreign market.
 
 ### The Pew Research Center
 

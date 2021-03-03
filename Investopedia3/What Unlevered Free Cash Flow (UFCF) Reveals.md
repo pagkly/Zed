@@ -16,13 +16,13 @@ author: Adam Hayes
 What Unlevered Free Cash Flow (UFCF) Reveals
 ## What Is Unlevered Free Cash Flow (UFCF)?
 
-Unlevered free cash flow (UFCF) is a company's cash flow before taking interest payments into account. Unlevered free cash flow can be reported in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) or calculated using financial statements by analysts. Unlevered free cash flow shows how much cash is available to the firm before taking financial obligations into account.
+Unlevered free cash flow (UFCF) is a company's cash flow before taking interest payments into account. Unlevered free cash flow can be reported in a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) or calculated using financial statements by analysts. Unlevered free cash flow shows how much cash is available to the firm before taking financial obligations into account.
 
 ## The Formula for UFCF is:
 
 UFCF\=EBITDA−CAPEX−Working Capital−Taxeswhere:UFCF\=Unlevered free cash flow\\begin{aligned} &\\text{UFCF} = \\textit{EBITDA} - \\textit{CAPEX} - \\text{Working Capital} - \\text{Taxes} \\\\ &\\textbf{where:} \\\\ &\\text{UFCF} = \\text{Unlevered free cash flow} \\\\ \\end{aligned}
 
-The formula for unlevered free cash flow uses [earnings before interest, taxes, depreciation and amortization](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA) and [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX), which represents the investments in buildings, machines and equipment. It also uses working capital, which includes inventory, accounts receivable and accounts payable.
+The formula for unlevered free cash flow uses [[earnings before interest, taxes, depreciation and amortization]](https://www.investopedia.com/terms/e/ebitda.asp) (EBITDA) and [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX), which represents the investments in buildings, machines and equipment. It also uses working capital, which includes inventory, accounts receivable and accounts payable.
 
 ## What Does Unlevered Free Cash Flow Reveal?
 
@@ -40,7 +40,7 @@ A company that has a large amount of outstanding debt, being highly leveraged,�
 
 ## The Difference Between Levered and Unlevered Free Cash Flow
 
-The difference between levered and unlevered free cash flow is the inclusion of expenses. [Levered cash flow](https://www.investopedia.com/terms/l/levered-free-cash-flow.asp) is the amount of cash a business has after it has met all of its financial obligations, such as interest, loan payments and [operating expenses](https://www.investopedia.com/terms/o/operating_expense.asp). Unlevered free cash flow is the money the business has _before_ paying those financial obligations. Financial obligations will be paid from levered free cash flow.
+The difference between levered and unlevered free cash flow is the inclusion of expenses. [[Levered cash flow]](https://www.investopedia.com/terms/l/levered-free-cash-flow.asp) is the amount of cash a business has after it has met all of its financial obligations, such as interest, loan payments and [[operating expenses]](https://www.investopedia.com/terms/o/operating_expense.asp). Unlevered free cash flow is the money the business has _before_ paying those financial obligations. Financial obligations will be paid from levered free cash flow.
 
 The difference between the levered and unlevered cash flow is also an important indicator. The difference shows how many financial obligations the business has and if the business is overextended or operating with a healthy amount of debt. It is possible for a business to have a negative levered cash flow if its expenses are more than what the company earned. This is not an ideal situation, but as long as it's a temporary issue, investors should not be too rattled.
 

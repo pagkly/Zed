@@ -16,9 +16,9 @@ author: Adam Hayes
 Learn About Simple Interest
 ## What Is Simple Interest?
 
-Simple interest is a quick and easy method of calculating the interest charge on a loan. Simple interest is determined by multiplying the daily [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) by the principal by the number of days that elapse between payments.
+Simple interest is a quick and easy method of calculating the interest charge on a loan. Simple interest is determined by multiplying the daily [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) by the principal by the number of days that elapse between payments.
 
-This type of interest usually applies to automobile loans or short-term loans, although some [mortgages](https://www.investopedia.com/terms/m/mortgage.asp) use this calculation method.
+This type of interest usually applies to automobile loans or short-term loans, although some [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp) use this calculation method.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ This type of interest usually applies to automobile loans or short-term loans, a
 
 ## Understanding Simple Interest
 
-When you make a payment on a simple interest loan, the payment first goes toward that month’s interest, and the remainder goes toward the principal. Each month’s interest is paid in full so it never [accrues](https://www.investopedia.com/terms/a/accrue.asp). In contrast, [compound interest](https://www.investopedia.com/articles/investing/020614/learn-simple-and-compound-interest.asp) adds some of the monthly interest back onto the loan; in each succeeding month, you pay new interest on old interest.
+When you make a payment on a simple interest loan, the payment first goes toward that month’s interest, and the remainder goes toward the principal. Each month’s interest is paid in full so it never [[accrues]](https://www.investopedia.com/terms/a/accrue.asp). In contrast, [[compound interest]](https://www.investopedia.com/articles/investing/020614/learn-simple-and-compound-interest.asp) adds some of the monthly interest back onto the loan; in each succeeding month, you pay new interest on old interest.
 
 To understand how simple interest works, consider an automobile loan that has a $15,000 principal balance and an annual 5% simple interest rate. If your payment is due on May 1 and you pay it precisely on the due date, the finance company calculates your interest on the 30 days in April. Your interest for 30 days is $61.64 under this scenario. However, if you make the payment on April 21, the finance company charges you interest for only 20 days in April, dropping your interest payment to $41.09, a $20 savings.
 
@@ -56,13 +56,13 @@ Conversely, if you pay the loan late, more of your payment goes toward interest 
 
 ## What Types of Loans Use Simple Interest?
 
-Simple interest [usually applies](https://www.investopedia.com/articles/personal-finance/101315/4-ways-simple-interest-used-real-life.asp) to automobile loans or short-term [personal loans](https://www.investopedia.com/best-personal-loans-4773300). Most mortgages do not use simple interest, although some banks use this method for mortgages for bi-weekly payment plans. Bi-weekly plans generally help consumers pay off their mortgages early because the borrowers make two extra payments a year, saving interest over the life of the loan by paying off the principal faster.
+Simple interest [[usually applies]](https://www.investopedia.com/articles/personal-finance/101315/4-ways-simple-interest-used-real-life.asp) to automobile loans or short-term [[personal loans]](https://www.investopedia.com/best-personal-loans-4773300). Most mortgages do not use simple interest, although some banks use this method for mortgages for bi-weekly payment plans. Bi-weekly plans generally help consumers pay off their mortgages early because the borrowers make two extra payments a year, saving interest over the life of the loan by paying off the principal faster.
 
-If you're looking to take out a short-term personal loan, then a [personal loan calculator](https://www.investopedia.com/personal-loan-calculator-5082130) can be a great tool for determining an interest rate that's within your means.
+If you're looking to take out a short-term personal loan, then a [[personal loan calculator]](https://www.investopedia.com/personal-loan-calculator-5082130) can be a great tool for determining an interest rate that's within your means.
 
 ## Simple Interest vs. Compound Interest
 
-[Interest](https://www.investopedia.com/terms/i/interest.asp) is the cost of borrowing money, where the borrower pays a fee to the [lender](https://www.investopedia.com/terms/l/lender.asp) for the loan. The interest, typically expressed as a percentage, can be either simple or compounded. Simple interest is based on the [principal amount](https://www.investopedia.com/terms/p/principal.asp) of a loan or deposit. [Compound interest](https://www.investopedia.com/terms/c/compoundinterest.asp), on the other hand, is based on the principal amount and the interest that accumulates on it in every period. Simple interest is calculated only on the principal amount of a loan or deposit, so it is easier to determine than compound interest.
+[Interest](https://www.investopedia.com/terms/i/interest.asp) is the cost of borrowing money, where the borrower pays a fee to the [lender](https://www.investopedia.com/terms/l/lender.asp) for the loan. The interest, typically expressed as a percentage, can be either simple or compounded. Simple interest is based on the [principal amount](https://www.investopedia.com/terms/p/principal.asp) of a loan or deposit. [[Compound interest]](https://www.investopedia.com/terms/c/compoundinterest.asp), on the other hand, is based on the principal amount and the interest that accumulates on it in every period. Simple interest is calculated only on the principal amount of a loan or deposit, so it is easier to determine than compound interest.
 
 In real-life situations, compound interest is often a factor in business transactions, investments, and financial products intended to extend for multiple periods or years. Simple interest is mainly used for easy calculations: those generally for a single period or less than a year, though they also apply to open-ended situations, such as credit card balances.
 
@@ -70,7 +70,7 @@ In real-life situations, compound interest is often a factor in business transac
 
 ### Why is simple interest "simple"?
 
-"Simple" interest refers to the straightforward crediting of cash flows associated with some investment or deposit. For instance 1% annual simple interest would credit $1 for every $100 invested. Simple interest does not, however, take into account the power of compounding, or [interest-on-interest](https://www.investopedia.com/terms/i/interestoninterest.asp), where after the first year the 1% would actually be earned on the $101 balance.
+"Simple" interest refers to the straightforward crediting of cash flows associated with some investment or deposit. For instance 1% annual simple interest would credit $1 for every $100 invested. Simple interest does not, however, take into account the power of compounding, or [[interest-on-interest]](https://www.investopedia.com/terms/i/interestoninterest.asp), where after the first year the 1% would actually be earned on the $101 balance.
 
 ### Which will pay out more over time, simple or compound interest?
 

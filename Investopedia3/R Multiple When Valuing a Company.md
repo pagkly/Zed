@@ -16,7 +16,7 @@ author: Marshall Hargrave
 When You Should Use the EV/R Multiple When Valuing a Company
 ## What Is the Enterprise Value-to-Revenue Multiple (EV/R)?
 
-The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a stock that compares a company's enterprise value to its revenue. EV/R is one of several fundamental indicators that investors use to determine whether a stock is priced fairly. The EV/R multiple is also often used to determine a company's [valuation](https://www.investopedia.com/terms/v/valuation.asp) in the case of a potential acquisition. It’s also called the [enterprise value-to-sales](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) multiple.
+The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a stock that compares a company's enterprise value to its revenue. EV/R is one of several fundamental indicators that investors use to determine whether a stock is priced fairly. The EV/R multiple is also often used to determine a company's [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) in the case of a potential acquisition. It’s also called the [[enterprise value-to-sales]](https://www.investopedia.com/terms/e/enterprisevaluesales.asp) multiple.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a s
 
 The enterprise value-to-revenue (EV/R) multiple helps compare a company’s revenues to its enterprise value. The lower the better, in that, a lower EV/R multiple signals a company is undervalued.
 
-Generally used as a valuation [multiple](https://www.investopedia.com/terms/m/multiple.asp), the EV/R is often used during acquisitions. An acquirer will use the EV/R multiple to determine an appropriate [fair value](https://www.investopedia.com/video/play/fair-value/). The enterprise value is used because it adds debt and takes out cash, which an acquirer would take on and receive, respectively.
+Generally used as a valuation [[multiple]](https://www.investopedia.com/terms/m/multiple.asp), the EV/R is often used during acquisitions. An acquirer will use the EV/R multiple to determine an appropriate [[fair value]](https://www.investopedia.com/video/play/fair-value/). The enterprise value is used because it adds debt and takes out cash, which an acquirer would take on and receive, respectively.
 
 ## How to Calculate Enterprise-Value-to-Revenue Multiple (EV/R)
 
-The enterprise value-to-revenue (EV/R) is easily calculated by taking the [enterprise value](https://www.investopedia.com/terms/e/enterprisevalue.asp) of the company and dividing it by the company's revenue.
+The enterprise value-to-revenue (EV/R) is easily calculated by taking the [[enterprise value]](https://www.investopedia.com/terms/e/enterprisevalue.asp) of the company and dividing it by the company's revenue.
 
 EV/R\=Enterprise ValueRevenuewhere:Enterprise Value\=MC+D−CCMC\=Market capitalizationD\=DebtCC\=Cash and cash equivalents\\begin{aligned} &\\text{EV/R} = \\frac{ \\text{Enterprise Value} }{ \\text{Revenue} } \\\\ &\\textbf{where:}\\\\ &\\text{Enterprise Value} = \\text{MC} + \\text{D} - \\text{CC} \\\\ &\\text{MC} = \\text{Market capitalization} \\\\ &\\text{D} = \\text{Debt} \\\\ &\\text{CC} = \\text{Cash and cash equivalents} \\\\ \\end{aligned}
 
@@ -54,11 +54,11 @@ Enterprise Value\=MC+D+PSC+MI−CCwhere:PSC\=Preferred shared capitalMI\=Mino
 
 As a real-life example, consider the major retail sector, notably Wal-Mart (NYSE: WMT), Target (NYSE: TGT), and Big Lots (NYSE: BIG). The enterprise values of Wal-Mart, Target, and Big Lots are $433.9 billion, $79.33 billion, and $3.36 billion, respectively, as of Aug. 15, 2020.123
 
-Meanwhile, the three have revenues over the [trailing 12 months](https://www.investopedia.com/terms/t/ttm.asp) of $534.66 billion, $80.1 billion, and $5.47 billion, respectively. Dividing each of their enterprise values by revenues means Wal-Mart’s EV/R is 0.81, Target’s is 0.99, and Big Lots’ is 0.61.123
+Meanwhile, the three have revenues over the [[trailing 12 months]](https://www.investopedia.com/terms/t/ttm.asp) of $534.66 billion, $80.1 billion, and $5.47 billion, respectively. Dividing each of their enterprise values by revenues means Wal-Mart’s EV/R is 0.81, Target’s is 0.99, and Big Lots’ is 0.61.123
 
 ## The Difference Between Enterprise Value-to-Revenue Multiple (EV/R) and Enterprise Value-to-EBITDA (EV/EBITDA)
 
-The enterprise value-to-revenue (EV/R) looks at a companies revenue-generating ability, while the enterprise value-to-EBITDA (EV/EBITDA)—also known as the [enterprise multiple](https://www.investopedia.com/terms/e/ev-ebitda.asp)—looks at a company’s ability to generate operating cash flows.
+The enterprise value-to-revenue (EV/R) looks at a companies revenue-generating ability, while the enterprise value-to-EBITDA (EV/EBITDA)—also known as the [[enterprise multiple]](https://www.investopedia.com/terms/e/ev-ebitda.asp)—looks at a company’s ability to generate operating cash flows.
 
 EV/EBITDA takes into account operating expenses, while EV/R looks at just the top line. The advantage that EV/R has is that it can be used for companies that are yet to generate income or profits, such as the case with Amazon (AMZN) in its early days.
 

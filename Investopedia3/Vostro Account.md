@@ -16,7 +16,7 @@ author: Julia Kagan
 Vostro Account
 ## What Is a Vostro Account?
 
-A vostro account is an account a [correspondent bank](https://www.investopedia.com/terms/c/correspondent-bank.asp) holds on behalf of another bank. These accounts are an essential aspect of correspondent banking in which the bank holding the funds acts as custodian for or manages the account of a foreign counterpart. For example, if a Spanish [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) company approaches a U.S. bank to manage funds on the Spanish life insurer's behalf, the account is deemed by the holding bank as a vostro account of the insurance company.
+A vostro account is an account a [[correspondent bank]](https://www.investopedia.com/terms/c/correspondent-bank.asp) holds on behalf of another bank. These accounts are an essential aspect of correspondent banking in which the bank holding the funds acts as custodian for or manages the account of a foreign counterpart. For example, if a Spanish [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) company approaches a U.S. bank to manage funds on the Spanish life insurer's behalf, the account is deemed by the holding bank as a vostro account of the insurance company.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ A vostro account is an account a [correspondent bank](https://www.investopedia.c
 
 ## Understanding Vostro Accounts
 
-A vostro account is established to enable a foreign correspondent bank to act as an agent or provide services as an intermediary for a domestic bank. These services include executing [wire transfers](https://www.investopedia.com/terms/w/wiretransfer.asp), withdrawals, and deposits for customers in countries where the domestic bank does not have a physical presence.
+A vostro account is established to enable a foreign correspondent bank to act as an agent or provide services as an intermediary for a domestic bank. These services include executing [[wire transfers]](https://www.investopedia.com/terms/w/wiretransfer.asp), withdrawals, and deposits for customers in countries where the domestic bank does not have a physical presence.
 
-The foreign correspondent bank might also perform treasury services, execute [foreign exchange transactions](https://www.investopedia.com/terms/f/foreign-exchange.asp), and expedite international trade on behalf of the domestic bank. The correspondent bank charges the domestic bank for the services associated with the vostro account.
+The foreign correspondent bank might also perform treasury services, execute [[foreign exchange transactions]](https://www.investopedia.com/terms/f/foreign-exchange.asp), and expedite international trade on behalf of the domestic bank. The correspondent bank charges the domestic bank for the services associated with the vostro account.
 
 Small domestic banks that lack financial and human resources sometimes use the services of larger correspondent banks in foreign countries as an economic way to serve clients with global banking needs.
 
@@ -37,16 +37,16 @@ Small domestic banks that lack financial and human resources sometimes use the s
 
 The term _vostro,_ translated from Latin, means "your," as in your account.1 From the foreign correspondent bank’s point of view, the funds held on behalf of other banks are referred to as vostro accounts and are denominated in the local currency.
 
-From the perspective of domestic banks, the funds deposited at correspondent banks are referred to as [nostro accounts](https://www.investopedia.com/terms/n/nostroaccount.asp). _Nostro,_ translated from Latin, means "our," as in our accounts.2 Nostro accounts are denominated in the foreign currency of the correspondent bank.
+From the perspective of domestic banks, the funds deposited at correspondent banks are referred to as [[nostro accounts]](https://www.investopedia.com/terms/n/nostroaccount.asp). _Nostro,_ translated from Latin, means "our," as in our accounts.2 Nostro accounts are denominated in the foreign currency of the correspondent bank.
 
 ## Vostro Accounts in an Agency Relationship
 
-For most banks, the cost of building physical branches in every country their customers might need banking services is prohibitive. As a solution, domestic banks can initiate agency relationship agreements with correspondent banks to transact business for customers who are traveling, living abroad, or who own companies that do business abroad. As an agent of the domestic bank, the correspondent bank is authorized to perform certain agreed-upon financial transactions, acting as a [fiduciary](https://www.investopedia.com/terms/f/fiduciary.asp) in the relationship.
+For most banks, the cost of building physical branches in every country their customers might need banking services is prohibitive. As a solution, domestic banks can initiate agency relationship agreements with correspondent banks to transact business for customers who are traveling, living abroad, or who own companies that do business abroad. As an agent of the domestic bank, the correspondent bank is authorized to perform certain agreed-upon financial transactions, acting as a [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) in the relationship.
 
 ## Vostro Accounts in an Intermediary Relationship
 
-When funds are wired between a domestic and a foreign bank that do not have a direct relationship, a correspondent bank acts as the [financial intermediary](https://www.investopedia.com/terms/f/financialintermediary.asp) in the transaction. To facilitate the wire, the originator of the transfer sends the amount of the wire plus applicable fees to the vostro account held on its behalf by the correspondent bank. The correspondent bank deducts the fees and the amount of the wire from the vostro account and executes a domestic wire to the receiving bank.
+When funds are wired between a domestic and a foreign bank that do not have a direct relationship, a correspondent bank acts as the [[financial intermediary]](https://www.investopedia.com/terms/f/financialintermediary.asp) in the transaction. To facilitate the wire, the originator of the transfer sends the amount of the wire plus applicable fees to the vostro account held on its behalf by the correspondent bank. The correspondent bank deducts the fees and the amount of the wire from the vostro account and executes a domestic wire to the receiving bank.
 
 ## Example of a Vostro Account
 
-With a vostro account relationship in place, the customer of a domestic bank can walk into the office of a correspondent bank to withdraw or deposit funds. For example, to process a customer’s withdrawal of funds at a correspondent bank, the domestic bank deducts the withdrawal amount plus any fees from the customer’s account and executes a transfer to the vostro account held by the correspondent bank. The funds are converted to the local currency, deducted from the vostro account, and paid to the domestic bank’s customer, [minus the applicable fees](https://www.investopedia.com/articles/pf/07/bank_fees.asp).
+With a vostro account relationship in place, the customer of a domestic bank can walk into the office of a correspondent bank to withdraw or deposit funds. For example, to process a customer’s withdrawal of funds at a correspondent bank, the domestic bank deducts the withdrawal amount plus any fees from the customer’s account and executes a transfer to the vostro account held by the correspondent bank. The funds are converted to the local currency, deducted from the vostro account, and paid to the domestic bank’s customer, [[minus the applicable fees]](https://www.investopedia.com/articles/pf/07/bank_fees.asp).

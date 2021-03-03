@@ -16,13 +16,13 @@ author: Will Kenton
 Net Sales
 ## What Is Net Sales?
 
-Net sales is the sum of a company's [gross sales](https://www.investopedia.com/terms/g/grosssales.asp) minus its returns, allowances, and discounts. Net sales calculations are not always transparent externally. They can often be factored into the reporting of top line revenues reported on the income statement. 
+Net sales is the sum of a company's [[gross sales]](https://www.investopedia.com/terms/g/grosssales.asp) minus its returns, allowances, and discounts. Net sales calculations are not always transparent externally. They can often be factored into the reporting of top line revenues reported on the income statement. 
 
 ## Understanding Net Sales
 
 The income statement is the financial report that is primarily used when analyzing a company’s revenues, revenue growth, and operational expenses. The income statement is broken out into three parts which support analysis of direct costs, indirect costs, and capital costs. The direct costs portion of the income statement is where net sales can be found.
 
-Companies may not provide a lot of external transparency in the area of net sales. [Net sales](https://www.accountingtools.com/articles/2017/5/12/net-sales) may also not apply to every company and industry because of the distinct components of its calculation. Net sales is the result of gross revenue minus applicable sales returns, allowances, and discounts. Costs associated with net sales will affect a company’s [gross profit](https://www.investopedia.com/terms/g/grossprofit.asp) and gross profit margin but net sales does not include cost of goods sold which is usually a primary driver of gross profit margins.
+Companies may not provide a lot of external transparency in the area of net sales. [[Net sales]](https://www.accountingtools.com/articles/2017/5/12/net-sales) may also not apply to every company and industry because of the distinct components of its calculation. Net sales is the result of gross revenue minus applicable sales returns, allowances, and discounts. Costs associated with net sales will affect a company’s [[gross profit]](https://www.investopedia.com/terms/g/grossprofit.asp) and gross profit margin but net sales does not include cost of goods sold which is usually a primary driver of gross profit margins.
 
 If a business has any returns, allowances, or discounts then adjustments are made to identify and report net sales. Companies may report gross sales, then net sales, and cost of sales in the direct costs portion of the income statement or they may just report net sales on the top line and then move on to costs of goods sold. Net sales do not account for cost of goods sold, general expenses, and administrative expenses which are analyzed with different effects on income statement margins.
 

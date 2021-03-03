@@ -35,11 +35,11 @@ High earners could contribute much more than other employees and were thus likel
 
 ### Nondiscrimination Test
 
-The Internal Revenue Service (IRS) requires that all 401(k) plans take a [nondiscrimination test](https://www.investopedia.com/terms/n/nondiscrimination_rule.asp) every year.3 The test separates employees into two groups—non-highly compensated and highly compensated employees (HCE). By examining the contributions made by HCEs, the compliance test determines whether all employees are treated equally through the company’s 401(k) plan.
+The Internal Revenue Service (IRS) requires that all 401(k) plans take a [[nondiscrimination test]](https://www.investopedia.com/terms/n/nondiscrimination_rule.asp) every year.3 The test separates employees into two groups—non-highly compensated and highly compensated employees (HCE). By examining the contributions made by HCEs, the compliance test determines whether all employees are treated equally through the company’s 401(k) plan.
 
 The non-discrimination stipulations are set in place so that employee retirement plans do not discriminate in favor of highly compensated employees. Defining highly compensated employees provided a way for the IRS to regulate deferred plans and ensure that companies were not just setting up retirement plans to benefit their executives.
 
-The 5% threshold is based on voting power or the [value of company shares](https://www.investopedia.com/articles/stocks/08/stock-prices-fool.asp). The interest owned by an individual also includes the interest attributed to his or her relatives such as spouse, parents, children, grandchildren, but not grandparents or siblings.4 An employee with exactly 5% ownership in the company is not considered a highly compensated employee, whereas one with a 5.01% interest in the company has the HCE status. For example, an employee with 3% holdings in the company will be considered an HCE if his spouse owns 2.2% interest in the same company (total interest is 5.2%).
+The 5% threshold is based on voting power or the [[value of company shares]](https://www.investopedia.com/articles/stocks/08/stock-prices-fool.asp). The interest owned by an individual also includes the interest attributed to his or her relatives such as spouse, parents, children, grandchildren, but not grandparents or siblings.4 An employee with exactly 5% ownership in the company is not considered a highly compensated employee, whereas one with a 5.01% interest in the company has the HCE status. For example, an employee with 3% holdings in the company will be considered an HCE if his spouse owns 2.2% interest in the same company (total interest is 5.2%).
 
 ## Special Considerations
 
@@ -47,7 +47,7 @@ If the average contributions of HCEs to the plan are more than 2% higher than th
 
 How much an HCE can contribute to their own retirement plans depends on the level of non-HCEs participation in the plan.
 
-In simpler terms, when a company contributes to a defined-benefit or [defined-contribution plan](https://www.investopedia.com/terms/d/definedcontributionplan.asp) for its employees and those contributions are based on the employee's compensation, the IRS requires that the company minimize the discrepancy between the retirement benefits received by highly compensated and lower compensated employees.
+In simpler terms, when a company contributes to a defined-benefit or [[defined-contribution plan]](https://www.investopedia.com/terms/d/definedcontributionplan.asp) for its employees and those contributions are based on the employee's compensation, the IRS requires that the company minimize the discrepancy between the retirement benefits received by highly compensated and lower compensated employees.
 
 If the employer fails to correct the discrimination, the plan could lose its tax-qualified status and all contributions will have to be re-distributed to the plan’s participants.5 The employer could also face severe financial and tax consequences as a result of distributing the contributions and earnings.
 

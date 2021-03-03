@@ -14,7 +14,7 @@ author: James Chen
 ---
 
 Nasdaq 100 Index
-The Nasdaq 100 Index is a basket of the 100 largest, most actively traded U.S companies listed on the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp) stock exchange. The index includes companies from various industries except for the financial industry, like commercial and investment banks. These non-financial sectors include retail, biotechnology, industrial, technology, health care, and others.
+The Nasdaq 100 Index is a basket of the 100 largest, most actively traded U.S companies listed on the [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp) stock exchange. The index includes companies from various industries except for the financial industry, like commercial and investment banks. These non-financial sectors include retail, biotechnology, industrial, technology, health care, and others.
 
 ## Weighting the Index
 
@@ -28,7 +28,7 @@ Some exceptions are made for newly public companies that have extremely high ma
 
 ## Composition of the Nasdaq 100 Index
 
-The Nasdaq 100 Index is composed of [assets](https://www.investopedia.com/terms/a/asset.asp) in various sectors, excluding financial services. A large portion of the index covers the technology sector, which accounts for 54% of the index's weight. The next largest sector is consumer services, represented by companies like restaurant chains, retailers, and travel services. These stocks account for nearly a quarter of the cap weight thanks to the continued growth of retail giant Amazon (AMZN). Rounding out the index is healthcare, industrials, and telecommunications. The diversity of companies included in the Nasdaq 100 helped drive strong returns for the past two decades.
+The Nasdaq 100 Index is composed of [[assets]](https://www.investopedia.com/terms/a/asset.asp) in various sectors, excluding financial services. A large portion of the index covers the technology sector, which accounts for 54% of the index's weight. The next largest sector is consumer services, represented by companies like restaurant chains, retailers, and travel services. These stocks account for nearly a quarter of the cap weight thanks to the continued growth of retail giant Amazon (AMZN). Rounding out the index is healthcare, industrials, and telecommunications. The diversity of companies included in the Nasdaq 100 helped drive strong returns for the past two decades.
 
 ## Criteria for Eligibility 
 

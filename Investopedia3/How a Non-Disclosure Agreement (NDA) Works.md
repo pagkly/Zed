@@ -29,15 +29,15 @@ A non-disclosure agreement is a legally binding contract that establishes a conf
 
 ## Understanding the NDA
 
-The NDA serves a purpose in a variety of situations. NDAs are generally required when two companies enter into discussions about [doing business together](https://www.investopedia.com/articles/personal-finance/090815/basics-business-development.asp) but want to protect their own interests and the details of any potential deal. In this case, the language of the NDA forbids all involved from releasing information regarding any business processes or plans of the other party or parties.
+The NDA serves a purpose in a variety of situations. NDAs are generally required when two companies enter into discussions about [[doing business together]](https://www.investopedia.com/articles/personal-finance/090815/basics-business-development.asp) but want to protect their own interests and the details of any potential deal. In this case, the language of the NDA forbids all involved from releasing information regarding any business processes or plans of the other party or parties.
 
 Some companies also require that new employees sign an NDA If the employee has access to sensitive information about the company.
 
-NDAs are also commonly used before discussions between a company seeking funding and potential [investors](https://www.investopedia.com/articles/younginvestors/09/common-mistakes-young-investors.asp). In such cases, the NDA is meant to prevent competitors from obtaining its [trade secrets](https://www.investopedia.com/terms/t/trade-secret.asp) or business plans.
+NDAs are also commonly used before discussions between a company seeking funding and potential [[investors]](https://www.investopedia.com/articles/younginvestors/09/common-mistakes-young-investors.asp). In such cases, the NDA is meant to prevent competitors from obtaining its [[trade secrets]](https://www.investopedia.com/terms/t/trade-secret.asp) or business plans.
 
 ### Keeping Plans Secret
 
-In all of the above, the information that is being protected may include a [marketing strategy](https://www.investopedia.com/terms/m/marketing-strategy.asp) and sales plan, potential customers, a manufacturing process, or proprietary software.
+In all of the above, the information that is being protected may include a [[marketing strategy]](https://www.investopedia.com/terms/m/marketing-strategy.asp) and sales plan, potential customers, a manufacturing process, or proprietary software.
 
 If an NDA is breached by one party, the other party may seek court action to prevent any further disclosures and may sue the offending party for monetary damages.
 

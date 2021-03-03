@@ -16,7 +16,7 @@ author: Christina Majaski
 How Hypothesis Testing Works
 ## What Is Hypothesis Testing?
 
-Hypothesis testing is an act in statistics whereby an analyst [tests](https://www.investopedia.com/terms/w/wilcoxon-test.asp) an assumption regarding a population parameter. The methodology employed by the analyst depends on the nature of the data used and the reason for the analysis.
+Hypothesis testing is an act in statistics whereby an analyst [[tests]](https://www.investopedia.com/terms/w/wilcoxon-test.asp) an assumption regarding a population parameter. The methodology employed by the analyst depends on the nature of the data used and the reason for the analysis.
 
 Hypothesis testing is used to assess the plausibility of a hypothesis by using sample data. Such data may come from a larger population, or from a data-generating process. The word "population" will be used for both of these cases in the following descriptions.
 
@@ -30,9 +30,9 @@ Hypothesis testing is used to assess the plausibility of a hypothesis by using s
 
 In hypothesis testing, an [analyst](https://www.investopedia.com/terms/a/analyst.asp) tests a statistical sample, with the goal of providing evidence on the plausibility of the null hypothesis.
 
-Statistical analysts test a hypothesis by measuring and examining a random sample of the population being analyzed. All analysts use a random population sample to test two different hypotheses: the [null hypothesis](https://www.investopedia.com/terms/n/null_hypothesis.asp) and the alternative hypothesis.
+Statistical analysts test a hypothesis by measuring and examining a random sample of the population being analyzed. All analysts use a random population sample to test two different hypotheses: the [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) and the alternative hypothesis.
 
-The null hypothesis is usually a hypothesis of equality between population parameters; e.g., a null hypothesis may state that the population mean return is equal to zero. The alternative hypothesis is effectively the opposite of a null hypothesis (e.g., the population mean return is not equal to zero). Thus, they are [mutually exclusive](https://www.investopedia.com/terms/m/mutuallyexclusive.asp), and only one can be true. However, one of the two hypotheses will always be true.
+The null hypothesis is usually a hypothesis of equality between population parameters; e.g., a null hypothesis may state that the population mean return is equal to zero. The alternative hypothesis is effectively the opposite of a null hypothesis (e.g., the population mean return is not equal to zero). Thus, they are [[mutually exclusive]](https://www.investopedia.com/terms/m/mutuallyexclusive.asp), and only one can be true. However, one of the two hypotheses will always be true.
 
 ### 4 Steps of Hypothesis Testing
 

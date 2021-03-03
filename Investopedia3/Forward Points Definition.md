@@ -16,23 +16,23 @@ author: James Chen
 Forward Points Definition
 ## What are Forward Points?
 
-In currency trading, forward points are the number of [basis points](https://www.investopedia.com/terms/b/basispoint.asp) added to or subtracted from the current [spot rate](https://www.investopedia.com/terms/s/spot_rate.asp) of a currency pair to determine the forward rate for delivery on a specific value date. When points are added to the spot rate this is called a forward premium; when points are subtracted from the spot rate it is a forward discount. The [forward rate](https://www.investopedia.com/terms/f/forwardrate.asp) is based on the difference between the interest rates of the two currencies (currency deals always involve two currencies) and the time until the maturity of the deal. 
+In currency trading, forward points are the number of [[basis points]](https://www.investopedia.com/terms/b/basispoint.asp) added to or subtracted from the current [[spot rate]](https://www.investopedia.com/terms/s/spot_rate.asp) of a currency pair to determine the forward rate for delivery on a specific value date. When points are added to the spot rate this is called a forward premium; when points are subtracted from the spot rate it is a forward discount. The [[forward rate]](https://www.investopedia.com/terms/f/forwardrate.asp) is based on the difference between the interest rates of the two currencies (currency deals always involve two currencies) and the time until the maturity of the deal. 
 
-Forward points are also known as the [forward spread](https://www.investopedia.com/terms/f/forward-spread.asp).
+Forward points are also known as the [[forward spread]](https://www.investopedia.com/terms/f/forward-spread.asp).
 
 Basis points can be either added or taken away from the spot rate. If they are added, they are forward points. If subtracted, they are discount points.
 
 ## The Basics of Forward Points
 
-Forward points are used to calculate the price for both an outright [forward contract](https://www.investopedia.com/terms/f/forwardcontract.asp) and a [foreign currency swap](https://www.investopedia.com/terms/f/foreign-currency-swaps.asp). Points can be calculated and transactions executed for any date that is a valid business day in both currencies. The most commonly traded forward currencies are the U.S. dollar, the euro, Japanese yen, British pound and Swiss franc.
+Forward points are used to calculate the price for both an outright [[forward contract]](https://www.investopedia.com/terms/f/forwardcontract.asp) and a [[foreign currency swap]](https://www.investopedia.com/terms/f/foreign-currency-swaps.asp). Points can be calculated and transactions executed for any date that is a valid business day in both currencies. The most commonly traded forward currencies are the U.S. dollar, the euro, Japanese yen, British pound and Swiss franc.
 
-Forwards are most commonly done for periods of up to one year. Prices for further out dates are available, but [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) is generally lower. In an outright forward foreign exchange contract, one currency is bought against another for delivery on any date beyond spot. The price is the spot rate plus or minus the forward points to the value date. No money changes hands until the [value date](https://www.investopedia.com/terms/v/valuedate.asp).
+Forwards are most commonly done for periods of up to one year. Prices for further out dates are available, but [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) is generally lower. In an outright forward foreign exchange contract, one currency is bought against another for delivery on any date beyond spot. The price is the spot rate plus or minus the forward points to the value date. No money changes hands until the [[value date]](https://www.investopedia.com/terms/v/valuedate.asp).
 
 In a foreign exchange swap, a currency is bought for the near date (usually spot) against another currency, and the same amount is sold back for the forward date. The rate for the forward leg of the swap is the near date rate plus or minus the forward points to the far date. Money changes hands on both value dates.
 
 ### Discount Spreads
 
-In contrast to the forward spread, a [discount spread](https://www.investopedia.com/terms/d/discount-spread.asp) is the currency forward points that are subtracted from the spot rate, to obtain a forward rate for a currency. In the currency markets, forward spreads, or points, are presented as two-way quotes; that is, they have a bid price and an offer price. In a discount spread, the bid price will be higher than the offer price, while in a premium spread, the bid price will be lower than the offer price.
+In contrast to the forward spread, a [[discount spread]](https://www.investopedia.com/terms/d/discount-spread.asp) is the currency forward points that are subtracted from the spot rate, to obtain a forward rate for a currency. In the currency markets, forward spreads, or points, are presented as two-way quotes; that is, they have a bid price and an offer price. In a discount spread, the bid price will be higher than the offer price, while in a premium spread, the bid price will be lower than the offer price.
 
 ### Key Takeaways
 

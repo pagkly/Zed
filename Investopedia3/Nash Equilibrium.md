@@ -16,7 +16,7 @@ author: James Chen
 Nash Equilibrium
 ## What Is the Nash Equilibrium?
 
-Nash equilibrium is a concept within game theory where the optimal outcome of a game is where there is no incentive to deviate from their initial strategy. More specifically, the Nash equilibrium is a concept of [game theory](https://www.investopedia.com/terms/g/gametheory.asp) where the optimal outcome of a game is one where no player has an incentive to deviate from his chosen strategy after considering an opponent's choice.
+Nash equilibrium is a concept within game theory where the optimal outcome of a game is where there is no incentive to deviate from their initial strategy. More specifically, the Nash equilibrium is a concept of [[game theory]](https://www.investopedia.com/terms/g/gametheory.asp) where the optimal outcome of a game is one where no player has an incentive to deviate from his chosen strategy after considering an opponent's choice.
 
 Overall, an individual can receive no incremental benefit from changing actions, assuming other players remain constant in their strategies. A game may have multiple Nash equilibria or none at all.
 
@@ -24,7 +24,7 @@ Investopedia/Julie Bang
 
 ## Understanding the Nash Equilibrium
 
-Nash equilibrium is named after its inventor, [John Nash](https://www.investopedia.com/terms/j/john-f-nash-jr.asp), an American mathematician. It is considered one of the most important concepts of game theory, which attempts to determine mathematically and logically the actions that participants of a game should take to secure the best outcomes for themselves. The reason why Nash equilibrium is considered such an important concept of game theory relates to its applicability. The Nash equilibrium can be incorporated into a wide range of disciplines, from economics to the social sciences.
+Nash equilibrium is named after its inventor, [[John Nash]](https://www.investopedia.com/terms/j/john-f-nash-jr.asp), an American mathematician. It is considered one of the most important concepts of game theory, which attempts to determine mathematically and logically the actions that participants of a game should take to secure the best outcomes for themselves. The reason why Nash equilibrium is considered such an important concept of game theory relates to its applicability. The Nash equilibrium can be incorporated into a wide range of disciplines, from economics to the social sciences.
 
 ### Key Takeaways
 
@@ -40,6 +40,6 @@ Imagine a game between Tom and Sam. In this simple game, both players can choose
 
 ## Special Consideration: The Prisoner's Dilemma
 
-The [prisoner's dilemma](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is a common situation analyzed in game theory that can employ the Nash equilibrium. In this game, two criminals are arrested and each is held in solitary confinement with no means of communicating with the other. The prosecutors do not have the evidence to convict the pair, so they offer each prisoner the opportunity to either betray the other by testifying that the other committed the crime or cooperate by remaining silent.
+The [[prisoner's dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) is a common situation analyzed in game theory that can employ the Nash equilibrium. In this game, two criminals are arrested and each is held in solitary confinement with no means of communicating with the other. The prosecutors do not have the evidence to convict the pair, so they offer each prisoner the opportunity to either betray the other by testifying that the other committed the crime or cooperate by remaining silent.
 
 If both prisoners betray each other, each serves five years in prison. If A betrays B but B remains silent, prisoner A is set free and prisoner B serves 10 years in prison or vice versa. If each remains silent, then each serves just one year in prison. The Nash equilibrium in this example is for both players to betray each other. Even though mutual cooperation leads to a better outcome if one prisoner chooses mutual cooperation and the other does not, one prisoner's outcome is worse.

@@ -26,7 +26,7 @@ A direct tax is a tax that a person or organization pays directly to the entity 
 
 ## Understanding a Direct Tax
 
-Direct taxes in the United States are largely based on the [ability-to-pay principle](https://www.investopedia.com/terms/a/abilitytopay.asp). This economic principle states that those who have more resources or earn a higher income should bear a greater tax burden. Some critics see that as a disincentive for individuals to work hard and earn more money because the more a person makes, the more taxes they pay.
+Direct taxes in the United States are largely based on the [[ability-to-pay principle]](https://www.investopedia.com/terms/a/abilitytopay.asp). This economic principle states that those who have more resources or earn a higher income should bear a greater tax burden. Some critics see that as a disincentive for individuals to work hard and earn more money because the more a person makes, the more taxes they pay.
 
 Direct taxes cannot be passed onto a different person or entity. The individual or organization upon which the tax is levied is responsible for paying it.
 
@@ -42,7 +42,7 @@ This antiquated verbiage created a situation in which the federal government cou
 
 ## Examples of Direct Taxes
 
-Corporate taxes are a good example of direct taxes. If, for example, a manufacturing company reports $1 million in revenue, $500,000 in the [cost of goods sold (COGS)](https://www.investopedia.com/terms/c/cogs.asp), and $100,000 in operating costs, its [earnings before interest, taxes, depreciation, and amortization (EBITDA)](https://www.investopedia.com/terms/e/ebitda.asp) would be $400,000. If the company has no debt, depreciation, or amortization, and has a corporate tax rate of 21%, its direct tax would be $84,000 ($400,000 x 0.21 = $84,000).
+Corporate taxes are a good example of direct taxes. If, for example, a manufacturing company reports $1 million in revenue, $500,000 in the [[cost of goods sold (COGS)]](https://www.investopedia.com/terms/c/cogs.asp), and $100,000 in operating costs, its [[earnings before interest, taxes, depreciation, and amortization (EBITDA)]](https://www.investopedia.com/terms/e/ebitda.asp) would be $400,000. If the company has no debt, depreciation, or amortization, and has a corporate tax rate of 21%, its direct tax would be $84,000 ($400,000 x 0.21 = $84,000).
 
 An individual's federal income tax is another example of a direct tax. If a person makes $100,000 in a year, for example, and owes the government $20,000 in taxes, that $20,000 would be a direct tax.
 

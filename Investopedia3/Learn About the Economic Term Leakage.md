@@ -30,11 +30,11 @@ Leakage is usually used in relation to a particular depiction of the flow of inc
 
 This particular Keynesian model of the flow of income is usually depicted as a circle, and the components include national income, output, consumption, and factor payments. Non-consumption uses of income—savings, taxes, and imports—are "leaked" out of the main flow. This reduces the money available throughout the rest of the economy.
 
-This theory of Keynesian economics purports that when leakage causes a shortage of capital, governments might have to take steps to stimulate their economies by [injecting cash](https://www.investopedia.com/terms/c/capital-injection.asp) into their systems. This injection of funds can be achieved by increasing the level of exports to foreign nations, or by borrowing funds from investors or foreign governments.
+This theory of Keynesian economics purports that when leakage causes a shortage of capital, governments might have to take steps to stimulate their economies by [[injecting cash]](https://www.investopedia.com/terms/c/capital-injection.asp) into their systems. This injection of funds can be achieved by increasing the level of exports to foreign nations, or by borrowing funds from investors or foreign governments.
 
 ### Imported Goods
 
-Imported goods are sometimes referred to as a source of "leakage" because they can have the effect of transferring income that was earned in one country to another country. The funds used to purchase the imports leave the immediate area, resulting in an [outflow](https://www.investopedia.com/terms/c/capital-outflow.asp) from the domestic area.
+Imported goods are sometimes referred to as a source of "leakage" because they can have the effect of transferring income that was earned in one country to another country. The funds used to purchase the imports leave the immediate area, resulting in an [[outflow]](https://www.investopedia.com/terms/c/capital-outflow.asp) from the domestic area.
 
 When the term leakage is used In the retail sector, it usually refers to consumers who spend money outside their local market. This presents a challenge for businesses within this kind of economy; in general, they must search for other sources of revenue.
 
@@ -50,4 +50,4 @@ In the case of transnational corporations (TNCs), leakage can also occur. Large 
 
 Tourism can cause leakage through funds transitioning between those who live in a particular area and chosen tourist destinations. Additionally, tourism-based businesses that have facilities in one area but hold headquarters in another can create leakage as funds are shifted to the headquarters location.
 
-Information or [data leakage](https://www.investopedia.com/terms/d/data-breach.asp) occurs when internal information that should be held private or confidential is released to the public. This release of information can include the accidental or intentional disclosure of information, or a failure to secure the information, which leads to exposure.
+Information or [[data leakage]](https://www.investopedia.com/terms/d/data-breach.asp) occurs when internal information that should be held private or confidential is released to the public. This release of information can include the accidental or intentional disclosure of information, or a failure to secure the information, which leads to exposure.

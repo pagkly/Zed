@@ -16,9 +16,9 @@ author: Jason Fernando
 Working Capital (NWC)
 ## What Is Working Capital?
 
-Working capital, also known as net working capital (NWC), is the difference between a company’s [current assets](https://www.investopedia.com/terms/c/currentassets.asp), such as cash, accounts receivable (customers’ unpaid bills) and inventories of raw materials and finished goods, and its [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp), such as accounts payable. Net operating working capital is a measure of a company's liquidity and refers to the difference between operating current assets and operating current liabilities. In many cases these calculations are the same and are derived from company cash plus accounts receivable plus inventories, less accounts payable and less accrued expenses.
+Working capital, also known as net working capital (NWC), is the difference between a company’s [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp), such as cash, accounts receivable (customers’ unpaid bills) and inventories of raw materials and finished goods, and its [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp), such as accounts payable. Net operating working capital is a measure of a company's liquidity and refers to the difference between operating current assets and operating current liabilities. In many cases these calculations are the same and are derived from company cash plus accounts receivable plus inventories, less accounts payable and less accrued expenses.
 
-Working capital is a measure of a company's [liquidity](https://www.investopedia.com/terms/l/liquidity.asp), [operational efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp) and its short-term financial health. If a company has substantial positive working capital, then it should have the potential to invest and grow. If a company's current assets do not exceed its current liabilities, then it may have trouble growing or paying back creditors, or even go bankrupt.
+Working capital is a measure of a company's [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp), [[operational efficiency]](https://www.investopedia.com/terms/o/operationalefficiency.asp) and its short-term financial health. If a company has substantial positive working capital, then it should have the potential to invest and grow. If a company's current assets do not exceed its current liabilities, then it may have trouble growing or paying back creditors, or even go bankrupt.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Working capital is a measure of a company's [liquidity](https://www.investopedia
 
 ## The Formula for Working Capital
 
-To [calculate the working capital](https://www.investopedia.com/ask/answers/071114/how-do-you-calculate-working-capital.asp), compare a company's current assets to its current liabilities. Current assets listed on a company's balance sheet include cash, accounts receivable, inventory and other assets that are expected to be liquidated or turned into cash in less than one year. Current liabilities include accounts payable, wages, taxes payable, and the current portion of long-term debt. Current assets are available within 12 months. Current liabilities are due within 12 months.
+To [[calculate the working capital]](https://www.investopedia.com/ask/answers/071114/how-do-you-calculate-working-capital.asp), compare a company's current assets to its current liabilities. Current assets listed on a company's balance sheet include cash, accounts receivable, inventory and other assets that are expected to be liquidated or turned into cash in less than one year. Current liabilities include accounts payable, wages, taxes payable, and the current portion of long-term debt. Current assets are available within 12 months. Current liabilities are due within 12 months.
 
 The standard formula for working capital is current assets minus current liabilities.
 
@@ -44,7 +44,7 @@ Most major new projects, such as an expansion in production or into new markets,
 
 ### How do you calculate working capital?
 
-Working capital is calculated by taking current assets and deducting current liabilities. For instance, if a company has current assets of $100,000 and current liabilities of $80,000, then their working capital would be $20,000. Common examples of current assets include cash, accounts receivable, and inventory. Examples of current liabilities include accounts payable, short-term debt payments, or the current portion of [deferred revenues](https://www.investopedia.com/terms/d/deferredrevenue.asp).
+Working capital is calculated by taking current assets and deducting current liabilities. For instance, if a company has current assets of $100,000 and current liabilities of $80,000, then their working capital would be $20,000. Common examples of current assets include cash, accounts receivable, and inventory. Examples of current liabilities include accounts payable, short-term debt payments, or the current portion of [[deferred revenues]](https://www.investopedia.com/terms/d/deferredrevenue.asp).
 
 ### What is an example of working capital?
 

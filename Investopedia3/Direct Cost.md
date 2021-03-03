@@ -16,7 +16,7 @@ author: Will Kenton
 Direct Cost
 ## What Is a Direct Cost?
 
-A direct cost is a price that can be directly tied to the production of specific goods or services. A direct cost can be traced to the cost object, which can be a service, product, or department. Direct and indirect costs are the two major types of expenses or costs that companies can incur. Direct costs are often variable costs, meaning they fluctuate with production levels such as inventory. However, some costs, such as indirect costs are more difficult to assign to a specific product. Examples of indirect costs include [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) and administrative expenses.
+A direct cost is a price that can be directly tied to the production of specific goods or services. A direct cost can be traced to the cost object, which can be a service, product, or department. Direct and indirect costs are the two major types of expenses or costs that companies can incur. Direct costs are often variable costs, meaning they fluctuate with production levels such as inventory. However, some costs, such as indirect costs are more difficult to assign to a specific product. Examples of indirect costs include [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) and administrative expenses.
 
 ## Understanding Direct Costs
 
@@ -57,4 +57,4 @@ Using direct costs requires strict management of inventory valuation when invent
 
 For example, in the construction of a building, a company may have purchased a window for $500 and another window for $600. If only one window is to be installed on the building and the other is to remain in inventory, consistent application of accounting valuation must occur.
 
-Companies typically trace these costs using two methods: [first-in, first-out (FIFO)](https://www.investopedia.com/terms/f/fifo.asp) or [last-in, first-out (LIFO)](https://www.investopedia.com/terms/l/lifo.asp). FIFO involves the assigning of costs, such as the purchase of inventory, based on what items arrived first. As inventory is used up in the production of goods, the first ones or the oldest inventory items are used first when measuring the cost of the item. Conversely, LIFO assigns the value of a cost item based on the last item purchased or added to inventory.
+Companies typically trace these costs using two methods: [[first-in, first-out (FIFO)]](https://www.investopedia.com/terms/f/fifo.asp) or [[last-in, first-out (LIFO)]](https://www.investopedia.com/terms/l/lifo.asp). FIFO involves the assigning of costs, such as the purchase of inventory, based on what items arrived first. As inventory is used up in the production of goods, the first ones or the oldest inventory items are used first when measuring the cost of the item. Conversely, LIFO assigns the value of a cost item based on the last item purchased or added to inventory.

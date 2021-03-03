@@ -28,7 +28,7 @@ For example, a retailer produces its operating revenue through merchandise sales
 
 ## Understanding Operating Revenue
 
-Distinguishing operating revenue from total [revenue](https://www.investopedia.com/terms/r/revenue.asp) is important because it provides valuable information about the productivity and profitability of a company's primary business operations. 
+Distinguishing operating revenue from total [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) is important because it provides valuable information about the productivity and profitability of a company's primary business operations. 
 
 Despite the fact that operating revenue is recorded separately on financial statements, some firms may attempt to mask decreases in operating revenue by combining it with non-operating revenue. Understanding and identifying the sources of revenue is helpful in assessing the health of a firm and its operations. 
 
@@ -38,18 +38,18 @@ Despite the fact that operating revenue is recorded separately on financial stat
 
 For example, a private university may classify tuition received as operating revenue, whereas gifts from alumni are considered non-operating revenue (because they are not expected nor are they part of ordinary university operations).
 
-In this example, the university's [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) lists operating revenue and profit from operations first, then it posts non-operating revenue and profit, such as revenue received from gifts and legacy donations. This presentation of information informs those reviewing the company's financial records that the gift is not an ordinary part of the university's business. It is important to distinguish the difference because non-operating revenue can change drastically from year to year.
+In this example, the university's [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) lists operating revenue and profit from operations first, then it posts non-operating revenue and profit, such as revenue received from gifts and legacy donations. This presentation of information informs those reviewing the company's financial records that the gift is not an ordinary part of the university's business. It is important to distinguish the difference because non-operating revenue can change drastically from year to year.
 
 ## Special Considerations
 
 ### Cash Flow
 
-Non-operating revenue and income do not produce [cash inflows](https://www.investopedia.com/terms/c/cashflow.asp) that are consistent from one year to the next, which is another reason why the activity is separately identified in the income statement. For a company to fund company operations, the business must generate operating revenue. Firms that drive operating revenue can fund the business regularly without the need to seek additional financing, and these companies can operate with a lower cash balance.
+Non-operating revenue and income do not produce [[cash inflows]](https://www.investopedia.com/terms/c/cashflow.asp) that are consistent from one year to the next, which is another reason why the activity is separately identified in the income statement. For a company to fund company operations, the business must generate operating revenue. Firms that drive operating revenue can fund the business regularly without the need to seek additional financing, and these companies can operate with a lower cash balance.
 
-For example, a company may sell a [fixed asset](https://www.investopedia.com/terms/f/fixedasset.asp), such as a building, in the current year. If the building is sold at a gain, the gain will be treated as non-operating revenue in the year it was sold. This revenue is not expected as a normal course of doing business, and the one-time revenue should not be used to assess the success of the company's primary operations year over year.
+For example, a company may sell a [[fixed asset]](https://www.investopedia.com/terms/f/fixedasset.asp), such as a building, in the current year. If the building is sold at a gain, the gain will be treated as non-operating revenue in the year it was sold. This revenue is not expected as a normal course of doing business, and the one-time revenue should not be used to assess the success of the company's primary operations year over year.
 
 ### Stock Prices
 
-For a successful company, operating revenue and income are the primary sources of [earnings per share (EPS)](https://www.investopedia.com/terms/e/eps.asp); this ratio is a key statistic for evaluating a firm's stock price.
+For a successful company, operating revenue and income are the primary sources of [[earnings per share (EPS)]](https://www.investopedia.com/terms/e/eps.asp); this ratio is a key statistic for evaluating a firm's stock price.
 
-EPS is defined as earnings available to common shareholders divided by [common shares](https://www.investopedia.com/terms/c/commonstock.asp) outstanding. A well-managed business can grow operating revenue and income by finding more customers and moving into new markets that generate higher earnings. As EPS increases, many investors and analysts consider the stock to be more valuable and the stock price increases.
+EPS is defined as earnings available to common shareholders divided by [[common shares]](https://www.investopedia.com/terms/c/commonstock.asp) outstanding. A well-managed business can grow operating revenue and income by finding more customers and moving into new markets that generate higher earnings. As EPS increases, many investors and analysts consider the stock to be more valuable and the stock price increases.

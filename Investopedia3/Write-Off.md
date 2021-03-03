@@ -20,13 +20,13 @@ A write-off is an accounting action that reduces the value of an asset while sim
 
 ### Key Takeaways
 
--   A [write-off](https://www.investopedia.com/ask/answers/070715/what-difference-between-writeoff-and-writedown.asp) primarily refers to a business accounting expense reported to account for unreceived payments or losses on assets.
+-   A [[write-off]](https://www.investopedia.com/ask/answers/070715/what-difference-between-writeoff-and-writedown.asp) primarily refers to a business accounting expense reported to account for unreceived payments or losses on assets.
 -   Three common scenarios requiring a business write-off include unpaid bank loans, unpaid receivables, and losses on stored inventory.
 -   Write-offs are a business expense that reduces taxable income on the income statement.
 
 ## Understanding Write-Offs
 
-Businesses regularly use [accounting write-offs](https://www.accountingtools.com/articles/2017/5/13/write-off) to account for losses on assets related to various circumstances. As such, on the balance sheet, write-offs usually involve a debit to an expense account and a credit to the associated asset account. Each write-off scenario will differ but usually expenses will also be reported on the income statement, deducting from any revenues already reported.
+Businesses regularly use [[accounting write-offs]](https://www.accountingtools.com/articles/2017/5/13/write-off) to account for losses on assets related to various circumstances. As such, on the balance sheet, write-offs usually involve a debit to an expense account and a credit to the associated asset account. Each write-off scenario will differ but usually expenses will also be reported on the income statement, deducting from any revenues already reported.
 
 Generally Accepted Accounting Principles (GAAP) detail the accounting entries required for a write-off. The two most common business accounting methods for write-offs include the direct write-off method and the allowance method. The entries used will usually vary depending on each individual scenario. Three of the most common scenarios for business write-offs include unpaid bank loans, unpaid receivables, and losses on stored inventory.
 

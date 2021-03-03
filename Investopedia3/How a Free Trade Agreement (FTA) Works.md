@@ -18,7 +18,7 @@ How a Free Trade Agreement (FTA) Works
 
 A free trade agreement is a pact between two or more nations to reduce barriers to imports and exports among them. Under a free trade policy, goods and services can be bought and sold across international borders with little or no government tariffs, quotas, subsidies, or prohibitions to inhibit their exchange.
 
-The concept of free trade is the opposite of trade [protectionism](https://www.investopedia.com/terms/p/protectionism.asp) or economic isolationism.
+The concept of free trade is the opposite of trade [[protectionism]](https://www.investopedia.com/terms/p/protectionism.asp) or economic isolationism.
 
 ## How a Free Trade Agreement Works
 
@@ -48,7 +48,7 @@ This view was first popularized in 1817 by economist David Ricardo in his book,
 
 ### Public Opinion on Free Trade
 
-Few issues divide economists and the general public as much as free trade. Research suggests that faculty economists at American universities are seven times more likely to support free-trade policies than the general public. In fact, the American economist [Milton Friedman](https://www.investopedia.com/terms/m/milton-friedman.asp) said: “The economics profession has been almost unanimous on the subject of the desirability of free trade.”2
+Few issues divide economists and the general public as much as free trade. Research suggests that faculty economists at American universities are seven times more likely to support free-trade policies than the general public. In fact, the American economist [[Milton Friedman]](https://www.investopedia.com/terms/m/milton-friedman.asp) said: “The economics profession has been almost unanimous on the subject of the desirability of free trade.”2
 
 Free-trade policies have not been as popular with the general public. The key issues include unfair competition from countries where lower labor costs allow price-cutting and a loss of good-paying jobs to manufacturers abroad.
 
@@ -60,7 +60,7 @@ Not surprisingly, the financial markets see the other side of the coin. Free tra
 
 Moreover, free trade is now an integral part of the financial system and the investing world. American investors now have access to most foreign financial markets and to a wider range of securities, currencies, and other financial products.
 
-However, completely free trade in the financial markets is unlikely in our times. There are many supranational regulatory organizations for world financial markets, including the [Basel Committee on Banking Supervision](https://www.investopedia.com/terms/b/baselcommittee.asp), the [International Organization of Securities Commission](https://www.investopedia.com/terms/i/iosco.asp) (IOSCO), and the Committee on Capital Movements and Invisible Transactions.
+However, completely free trade in the financial markets is unlikely in our times. There are many supranational regulatory organizations for world financial markets, including the [[Basel Committee on Banking Supervision]](https://www.investopedia.com/terms/b/baselcommittee.asp), the [[International Organization of Securities Commission]](https://www.investopedia.com/terms/i/iosco.asp) (IOSCO), and the Committee on Capital Movements and Invisible Transactions.
 
 ## Real-World Examples of Free Trade Agreements
 

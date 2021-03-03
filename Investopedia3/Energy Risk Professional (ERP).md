@@ -16,7 +16,7 @@ author: Will Kenton
 Energy Risk Professional (ERP)
 ## What Is an Energy Risk Professional (ERP)?
 
-Energy Risk Professional (ERP) is a professional designation awarded by the Global Association of Risk Professionals (GARP) to individuals who work in the [oil](https://www.investopedia.com/investing/oil-gas-industry-overview/), coal, natural gas, and [alternative energy](https://www.investopedia.com/investing/top-alternative-energy-companies/) industries. As of 2021, the designation will no longer be offered.
+Energy Risk Professional (ERP) is a professional designation awarded by the Global Association of Risk Professionals (GARP) to individuals who work in the [[oil]](https://www.investopedia.com/investing/oil-gas-industry-overview/), coal, natural gas, and [[alternative energy]](https://www.investopedia.com/investing/top-alternative-energy-companies/) industries. As of 2021, the designation will no longer be offered.
 
 ### Key Takeaways
 
@@ -36,9 +36,9 @@ GARP announced in 2020 that 2021 will be the last year the ERP exam will be offe
 
 ## Attributes of an Energy Risk Professional (ERP)
 
-The study program to become an Energy Risk Professional (ERP) covers physical energy markets, financial trading instruments, valuation and structuring of energy transactions, [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp) in financial trading, financial disclosure, [accounting](https://www.investopedia.com/terms/a/accounting.asp), and [compliance](https://www.investopedia.com/terms/c/compliancedepartment.asp).
+The study program to become an Energy Risk Professional (ERP) covers physical energy markets, financial trading instruments, valuation and structuring of energy transactions, [[risk management]](https://www.investopedia.com/terms/r/riskmanagement.asp) in financial trading, financial disclosure, [[accounting]](https://www.investopedia.com/terms/a/accounting.asp), and [[compliance]](https://www.investopedia.com/terms/c/compliancedepartment.asp).
 
-Individuals with the Energy Risk Professional (ERP) designation may work for banks, academic institutions, consulting firms, [asset management firms](https://www.investopedia.com/terms/a/asset_management_company.asp), and a wide variety of other organizations concerned with energy risk.
+Individuals with the Energy Risk Professional (ERP) designation may work for banks, academic institutions, consulting firms, [[asset management firms]](https://www.investopedia.com/terms/a/asset_management_company.asp), and a wide variety of other organizations concerned with energy risk.
 
 The designation equates to a specific degree level. For example, the ERP designation is equivalent to an American master's degree, the Regulated Qualifications Framework Level 7 in the United Kingdom, the Ontario Qualifications Framework Level 12 in Canada, and the Hong Kong Qualifications Framework Level 6 in Hong Kong. Degree equivalents also apply in the European Union, Singapore, Australia, India, the United Arab Emirates, and South Africa.2
 
@@ -46,11 +46,11 @@ To maintain the ERP designation, members must participate in the Continuing Prof
 
 ## The Energy Risk Professional (ERP) Exam
 
-The Energy Risk Professional (ERP) Exam is taken to earn the ERP designation. It is designed to measure a candidate's knowledge of the major [energy markets](https://www.investopedia.com/terms/e/energy_sector.asp) and gauge their ability to manage the physical and financial risks inherent in the complex world of energy.
+The Energy Risk Professional (ERP) Exam is taken to earn the ERP designation. It is designed to measure a candidate's knowledge of the major [[energy markets]](https://www.investopedia.com/terms/e/energy_sector.asp) and gauge their ability to manage the physical and financial risks inherent in the complex world of energy.
 
-The exam provides a comprehensive overview of all major energy markets, including the [upstream](https://www.investopedia.com/terms/u/upstream.asp) and [downstream processes](https://www.investopedia.com/terms/d/downstream.asp) associated with each, the trading and structuring of diverse energy commodities, and the identification, measurement, and management of key physical and financial risks.
+The exam provides a comprehensive overview of all major energy markets, including the [[upstream]](https://www.investopedia.com/terms/u/upstream.asp) and [[downstream processes]](https://www.investopedia.com/terms/d/downstream.asp) associated with each, the trading and structuring of diverse energy commodities, and the identification, measurement, and management of key physical and financial risks.
 
-Candidates must successfully pass two multiple-choice exams: ERP Exam Part I and ERP Exam Part II. Part I consists of 80 questions, to be completed within four hours. This exam consists of questions testing the candidate's knowledge of physical energy [commodity markets](https://www.investopedia.com/terms/c/commodity-market.asp). Part II consists of 60 questions, also to be completed within 4 hours. Part II evaluates the test-takers' knowledge of the application of energy derivatives and risk mitigation.
+Candidates must successfully pass two multiple-choice exams: ERP Exam Part I and ERP Exam Part II. Part I consists of 80 questions, to be completed within four hours. This exam consists of questions testing the candidate's knowledge of physical energy [[commodity markets]](https://www.investopedia.com/terms/c/commodity-market.asp). Part II consists of 60 questions, also to be completed within 4 hours. Part II evaluates the test-takers' knowledge of the application of energy derivatives and risk mitigation.
 
 ## Additional Exam Details
 
@@ -67,7 +67,7 @@ Candidates must successfully pass two multiple-choice exams: ERP Exam Part I and
 Part I of the exam focuses on the following:
 
 -   Crude oil and refined product markets
--   [Natural gas](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) and coal markets
+-   [[Natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) and coal markets
 -   Electricity markets and power generation
 
 Part II of the exam focuses on the following:

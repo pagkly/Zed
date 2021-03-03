@@ -16,7 +16,7 @@ author: Will Kenton
 Goodness-Of-Fit Definition
 ## What is Goodness-Of-Fit?
 
-The goodness of fit test is a statistical hypothesis test to see how well sample data fit a distribution from a population with a [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp). Put differently, this test shows if your sample data represents the data you would expect to find in the actual population or if it is somehow skewed. Goodness-of-fit establishes the discrepancy between the observed values and those that would be expected of the model in a normal distribution case.
+The goodness of fit test is a statistical hypothesis test to see how well sample data fit a distribution from a population with a [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp). Put differently, this test shows if your sample data represents the data you would expect to find in the actual population or if it is somehow skewed. Goodness-of-fit establishes the discrepancy between the observed values and those that would be expected of the model in a normal distribution case.
 
 There are multiple methods for determining goodness-of-fit. Some of the most popular methods used in statistics include the chi-square, the Kolmogorov-Smirnov test, the Anderson-Darling test and the Shipiro-Wilk test.
 
@@ -28,7 +28,7 @@ There are multiple methods for determining goodness-of-fit. Some of the most pop
 
 ## Understanding Goodness-Of-Fit
 
-Goodness-of-fit tests are often used in business decision making. In order to calculate a chi-square goodness-of-fit, it is necessary to first state the [null hypothesis](https://www.investopedia.com/terms/n/null_hypothesis.asp) and the alternative hypothesis, choose a significance level (such as α = 0.5) and determine the critical value.
+Goodness-of-fit tests are often used in business decision making. In order to calculate a chi-square goodness-of-fit, it is necessary to first state the [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) and the alternative hypothesis, choose a significance level (such as α = 0.5) and determine the critical value.
 
 The most common goodness-of-fit test is the chi-square test, typically used for discrete distributions. The chi-square test is used exclusively for data put into classes (bins), and it requires a sufficient sample size in order to produce accurate results.
 

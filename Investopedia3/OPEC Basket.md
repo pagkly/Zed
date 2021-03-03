@@ -16,7 +16,7 @@ author: James Chen
 OPEC Basket
 ## What Is the OPEC Basket?
 
-The OPEC Basket is a weighted average of oil prices from the different OPEC members around the world. Members of the [Organization of the Petroleum Exporting Countries](https://www.investopedia.com/terms/o/opec.asp) (OPEC) contribute data that forms the basis of the basket. The basket is a benchmark, or reference point, for those monitoring the oil price and the stability of the global oil market.
+The OPEC Basket is a weighted average of oil prices from the different OPEC members around the world. Members of the [[Organization of the Petroleum Exporting Countries]](https://www.investopedia.com/terms/o/opec.asp) (OPEC) contribute data that forms the basis of the basket. The basket is a benchmark, or reference point, for those monitoring the oil price and the stability of the global oil market.
 
 The OPEC Basket is also known as the OPEC Reference Basket (ORB) or the OPEC Reference Basket of Crude.
 
@@ -36,24 +36,24 @@ Some of the OPEC oils have higher sulfur content than crude oils from other coun
 
 Crude oil with excessive impurities is unsuitable for many uses unless it is extensively processed.
 
-Many other countries throughout the world also produce oil. However, they are not OPEC members. Russia, the United States, China, and Canada are all [major oil producers](https://www.investopedia.com/investing/worlds-top-oil-producers/) but not OPEC members. OPEC’s member countries produce a substantial fraction of the world’s oil.
+Many other countries throughout the world also produce oil. However, they are not OPEC members. Russia, the United States, China, and Canada are all [[major oil producers]](https://www.investopedia.com/investing/worlds-top-oil-producers/) but not OPEC members. OPEC’s member countries produce a substantial fraction of the world’s oil.
 
 Oil prices matter a great deal to the global economy because the production and distribution of all consumer goods depend on petroleum. Oil fuels the trucks that transport goods, the tractors that plow agricultural fields, the cars that consumers use to get to the market, and much more. OPEC provides a way for the member oil-producing countries to create stable market conditions for themselves by raising or lowering production.
 
 ## The OPEC Basket vs. Other Crude Oil Benchmarks
 
-There are many different [crude oil benchmarks](https://www.investopedia.com/terms/b/benchmark-crude-oil.asp), representing more than 200 varieties of crude oil. They vary substantially in both price and overall quality. Some of the leading alternatives to the OPEC Basket include:
+There are many different [[crude oil benchmarks]](https://www.investopedia.com/terms/b/benchmark-crude-oil.asp), representing more than 200 varieties of crude oil. They vary substantially in both price and overall quality. Some of the leading alternatives to the OPEC Basket include:
 
--   [West Texas Intermediate](https://www.investopedia.com/terms/w/wti.asp) (WTI) crude oil is a lighter, higher quality oil. It sells for about $5 to $6 more than the OPEC Basket price.
--   The [Brent](https://www.investopedia.com/terms/b/brentblend.asp) blend from the North Sea is generally refined in Northwestern Europe. It sells at about $4 above the OPEC Basket price.
+-   [[West Texas Intermediate]](https://www.investopedia.com/terms/w/wti.asp) (WTI) crude oil is a lighter, higher quality oil. It sells for about $5 to $6 more than the OPEC Basket price.
+-   The [[Brent]](https://www.investopedia.com/terms/b/brentblend.asp) blend from the North Sea is generally refined in Northwestern Europe. It sells at about $4 above the OPEC Basket price.
 
 ## Benefits of the OPEC Basket
 
-The main use of the OPEC Basket is setting and achieving OPEC price targets. Whenever people hear news stories about OPEC raising oil prices, the price they are hearing about is the OPEC Basket price. There is a substantial competition between various crude oils because most of them are relatively close [substitutes](https://www.investopedia.com/terms/s/substitute.asp). However, the direct goal of OPEC members is to raise the price that they receive for their own oil in the global market. Since the OPEC Basket is a weighted average of OPEC members' oil prices, it is ideal for setting the organization's goals and measuring its success.
+The main use of the OPEC Basket is setting and achieving OPEC price targets. Whenever people hear news stories about OPEC raising oil prices, the price they are hearing about is the OPEC Basket price. There is a substantial competition between various crude oils because most of them are relatively close [[substitutes]](https://www.investopedia.com/terms/s/substitute.asp). However, the direct goal of OPEC members is to raise the price that they receive for their own oil in the global market. Since the OPEC Basket is a weighted average of OPEC members' oil prices, it is ideal for setting the organization's goals and measuring its success.
 
 ## Criticism of the OPEC Basket
 
-Since it is just an average, the OPEC Basket is not a type of unrefined oil that businesses can buy directly. Instead, they must buy some particular oil, such as Kuwait Export or Arab Light. These crude oils vary in price and quality, so the OPEC Basket is not very useful for [oil refineries](https://www.investopedia.com/terms/o/oil-refinery.asp).
+Since it is just an average, the OPEC Basket is not a type of unrefined oil that businesses can buy directly. Instead, they must buy some particular oil, such as Kuwait Export or Arab Light. These crude oils vary in price and quality, so the OPEC Basket is not very useful for [[oil refineries]](https://www.investopedia.com/terms/o/oil-refinery.asp).
 
 ## Real-World Example of the OPEC Basket
 

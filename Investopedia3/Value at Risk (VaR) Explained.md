@@ -16,9 +16,9 @@ author: Will Kenton
 Value at Risk (VaR) Explained
 ## What Is Value at Risk (VaR)?
 
-Value at risk (VaR) is a statistic that measures and quantifies the level of financial risk within a firm, portfolio or position over a specific time frame. This metric is most commonly used by investment and [commercial banks](https://www.investopedia.com/terms/c/commercialbank.asp) to determine the extent and occurrence ratio of potential losses in their institutional portfolios.
+Value at risk (VaR) is a statistic that measures and quantifies the level of financial risk within a firm, portfolio or position over a specific time frame. This metric is most commonly used by investment and [[commercial banks]](https://www.investopedia.com/terms/c/commercialbank.asp) to determine the extent and occurrence ratio of potential losses in their institutional portfolios.
 
-Risk managers use VaR to measure and control the level of risk exposure. One can apply VaR [calculations](https://www.investopedia.com/ask/answers/033115/how-can-you-calculate-value-risk-var-excel.asp) to specific positions or whole portfolios or to measure firm-wide risk exposure.
+Risk managers use VaR to measure and control the level of risk exposure. One can apply VaR [[calculations]](https://www.investopedia.com/ask/answers/033115/how-can-you-calculate-value-risk-var-excel.asp) to specific positions or whole portfolios or to measure firm-wide risk exposure.
 
 ## Understanding Value at Risk (VaR)
 
@@ -32,11 +32,11 @@ Using a firm-wide VaR assessment allows for the determination of the cumulative 
 
 ## Example of Problems with Value at Risk (VaR) Calculations
 
-There is no standard protocol for the statistics used to determine asset, portfolio or firm-wide risk. For example, statistics pulled arbitrarily from a period of low [volatility](https://www.investopedia.com/terms/v/volatility.asp) may understate the potential for risk events to occur and the magnitude of those events. Risk may be further understated using normal distribution probabilities, which rarely account for extreme or black-swan events.
+There is no standard protocol for the statistics used to determine asset, portfolio or firm-wide risk. For example, statistics pulled arbitrarily from a period of low [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) may understate the potential for risk events to occur and the magnitude of those events. Risk may be further understated using normal distribution probabilities, which rarely account for extreme or black-swan events.
 
 The assessment of potential loss represents the lowest amount of risk in a range of outcomes. For example, a VaR determination of 95% with 20% asset risk represents an expectation of losing at least 20% one of every 20 days on average. In this calculation, a loss of 50% still validates the risk assessment.
 
-The [financial crisis of 2008](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) that exposed these problems as relatively benign VaR calculations understated the potential occurrence of risk events posed by portfolios of subprime mortgages. Risk magnitude was also underestimated, which resulted in extreme leverage ratios within subprime portfolios. As a result, the underestimations of occurrence and risk magnitude left institutions unable to cover billions of dollars in losses as subprime mortgage values collapsed.1
+The [[financial crisis of 2008]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp) that exposed these problems as relatively benign VaR calculations understated the potential occurrence of risk events posed by portfolios of subprime mortgages. Risk magnitude was also underestimated, which resulted in extreme leverage ratios within subprime portfolios. As a result, the underestimations of occurrence and risk magnitude left institutions unable to cover billions of dollars in losses as subprime mortgage values collapsed.1
 
 ### Key Takeaways
 

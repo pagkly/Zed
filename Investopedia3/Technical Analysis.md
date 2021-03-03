@@ -24,7 +24,7 @@ Technical analysis can be used on any security with historical trading data. Thi
 
 ### Key Takeaways
 
--   Technical analysis is a [trading discipline](https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp) employed to evaluate investments and identify trading opportunities in price trends and patterns seen on charts.
+-   Technical analysis is a [[trading discipline]](https://www.investopedia.com/articles/personal-finance/090916/top-5-books-learn-technical-analysis.asp) employed to evaluate investments and identify trading opportunities in price trends and patterns seen on charts.
 -   Technical analysts believe past trading activity and price changes of a security can be valuable indicators of the security's future price movements.
 -   Technical analysis may be contrasted with fundamental analysis, which focuses on a company's financials rather than historical price patterns or stock trends.
 
@@ -32,15 +32,15 @@ Technical analysis can be used on any security with historical trading data. Thi
 
 ## The Basics Of Technical Analysis
 
-Technical analysis as we know it today [was first introduced by Charles Dow](https://www.investopedia.com/articles/financial-theory/10/pioneers-technical-analysis.asp) and the Dow Theory in the late 1800s.1 Several noteworthy researchers including William P. Hamilton, Robert Rhea, Edson Gould, and John Magee further contributed to Dow Theory concepts helping to form its basis. In modern day, technical analysis has evolved to included hundreds of patterns and signals developed through years of research.
+Technical analysis as we know it today [[was first introduced by Charles Dow]](https://www.investopedia.com/articles/financial-theory/10/pioneers-technical-analysis.asp) and the Dow Theory in the late 1800s.1 Several noteworthy researchers including William P. Hamilton, Robert Rhea, Edson Gould, and John Magee further contributed to Dow Theory concepts helping to form its basis. In modern day, technical analysis has evolved to included hundreds of patterns and signals developed through years of research.
 
-Technical analysis operates from the assumption that past trading activity and price changes of a [security](https://www.investopedia.com/terms/s/security.asp) can be valuable indicators of the security's future price movements when paired with appropriate investing or trading rules. Professional analysts often use technical analysis in conjunction with other forms of research. Retail traders may make decisions based solely on the price charts of a security and similar statistics, but practicing equity analysts rarely limit their research to fundamental or technical analysis alone.
+Technical analysis operates from the assumption that past trading activity and price changes of a [[security]](https://www.investopedia.com/terms/s/security.asp) can be valuable indicators of the security's future price movements when paired with appropriate investing or trading rules. Professional analysts often use technical analysis in conjunction with other forms of research. Retail traders may make decisions based solely on the price charts of a security and similar statistics, but practicing equity analysts rarely limit their research to fundamental or technical analysis alone.
 
 Among professional analysts, the CMT Association supports the largest collection of chartered or certified analysts using technical analysis professionally around the world. The association's Chartered Market Technician (CMT) designation can be obtained after three levels of exams that cover both a broad and deep look at technical analysis tools. Nearly one third of CMT charter holders are also Certified Financial Analyst (CFA) charter holders. This demonstrates how well the two disciplines reinforce each other.2
 
 ## The Underlying Assumptions of Technical Analysis
 
-There are two primary methods used to analyze securities and make investment decisions: [fundamental analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) and technical analysis. Fundamental analysis involves analyzing a company’s financial statements to determine the fair value of the business, while technical analysis assumes that a security's price already reflects all publicly-available information and instead focuses on the [statistical analysis of price movements](https://www.investopedia.com/ask/answers/05/logvslinear.asp). Technical analysis attempts to understand the market sentiment behind price trends by looking for patterns and trends rather than analyzing a security's fundamental attributes.
+There are two primary methods used to analyze securities and make investment decisions: [fundamental analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) and technical analysis. Fundamental analysis involves analyzing a company’s financial statements to determine the fair value of the business, while technical analysis assumes that a security's price already reflects all publicly-available information and instead focuses on the [[statistical analysis of price movements]](https://www.investopedia.com/ask/answers/05/logvslinear.asp). Technical analysis attempts to understand the market sentiment behind price trends by looking for patterns and trends rather than analyzing a security's fundamental attributes.
 
 Charles Dow released a series of editorials discussing technical analysis theory. His writings included two basic assumptions that have continued to form the framework for technical analysis trading.
 
@@ -51,7 +51,7 @@ Today the field of technical analysis builds on Dow's work. Professional analyst
 
 ### 1: The market discounts everything
 
-Technical analysts believe that everything from a company's fundamentals to broad market factors to [market psychology](https://www.investopedia.com/terms/m/marketpsychology.asp) are already priced into the stock. This point of view is congruent with the [Efficient Markets Hypothesis (EMH)](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) which assumes a similar conclusion about prices. The only thing remaining is the analysis of price movements, which technical analysts view as the product of supply and demand for a particular stock in the market.4
+Technical analysts believe that everything from a company's fundamentals to broad market factors to [market psychology](https://www.investopedia.com/terms/m/marketpsychology.asp) are already priced into the stock. This point of view is congruent with the [[Efficient Markets Hypothesis (EMH)]](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) which assumes a similar conclusion about prices. The only thing remaining is the analysis of price movements, which technical analysts view as the product of supply and demand for a particular stock in the market.4
 
 ### 2: Price moves in trends
 
@@ -71,9 +71,9 @@ In general, technical analysts look at the following broad types of indicators:
 
 -   Price trends
 -   Chart patterns
--   Volume and [momentum](https://www.investopedia.com/investing/momentum-and-relative-strength-index/) indicators
--   [Oscillators](https://www.investopedia.com/terms/o/oscillator.asp)
--   [Moving averages](https://www.investopedia.com/articles/trading/10/simple-exponential-moving-averages-compare.asp)
+-   Volume and [[momentum]](https://www.investopedia.com/investing/momentum-and-relative-strength-index/) indicators
+-   [[Oscillators]](https://www.investopedia.com/terms/o/oscillator.asp)
+-   [[Moving averages]](https://www.investopedia.com/articles/trading/10/simple-exponential-moving-averages-compare.asp)
 -   Support and resistance levels
 
 ## The Difference Between Technical Analysis And Fundamental Analysis

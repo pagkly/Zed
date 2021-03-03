@@ -16,9 +16,9 @@ author: James Chen
 Press Conference
 ## What Is a Press Conference?
 
-A press conference is an event organized to officially distribute information and answer questions from the media. Press conferences are also announced in response to specific [public relations](https://www.investopedia.com/terms/p/public-relations-pr.asp) issues.
+A press conference is an event organized to officially distribute information and answer questions from the media. Press conferences are also announced in response to specific [[public relations]](https://www.investopedia.com/terms/p/public-relations-pr.asp) issues.
 
-Corporate press conferences are generally led by the company's executive management, press liaison, or communications officer. Given limited resources, particularly during a time of quarterly or annual [earnings](https://www.investopedia.com/terms/e/earnings-announcement.asp), it may be difficult to attract major media attention unless a company has a truly unique or newsworthy announcement to share.
+Corporate press conferences are generally led by the company's executive management, press liaison, or communications officer. Given limited resources, particularly during a time of quarterly or annual [[earnings]](https://www.investopedia.com/terms/e/earnings-announcement.asp), it may be difficult to attract major media attention unless a company has a truly unique or newsworthy announcement to share.
 
 Press conferences are held by corporations and other businesses, politicians, and other government officials.
 
@@ -38,7 +38,7 @@ Before a press conference takes place, a company may issue a press release, outl
 
 A company has the opportunity to present a news story in its most favorable light by inviting the press to special events. In other cases, lesser-known companies may want to increase their stature in the media by making it easier for news agencies to cover company events.
 
-By gaining favorable media exposure, companies are able to gain greater [brand recognition](https://www.investopedia.com/terms/b/brand-recognition.asp) and authority in the market, usually at a much lower cost than would be required for a widespread [advertising campaign](https://www.investopedia.com/terms/m/marketing-strategy.asp).
+By gaining favorable media exposure, companies are able to gain greater [[brand recognition]](https://www.investopedia.com/terms/b/brand-recognition.asp) and authority in the market, usually at a much lower cost than would be required for a widespread [[advertising campaign]](https://www.investopedia.com/terms/m/marketing-strategy.asp).
 
 Press conferences are also called news conferences. When there is no official statement or no questions allowed, the event is called a photo op.
 
@@ -46,10 +46,10 @@ Press conferences are also called news conferences. When there is no official st
 
 There are many reasons why companies choose to hold press conferences. They may be called to do any of the following:
 
--   Respond to [earnings](https://www.investopedia.com/terms/e/earnings.asp), other news, or controversies
+-   Respond to [[earnings]](https://www.investopedia.com/terms/e/earnings.asp), other news, or controversies
 -   Announce the departure or addition of a new executive
 -   Unveil a new production facility
--   Announce the release of a new product or a [merger or acquisition](https://www.investopedia.com/terms/m/mergersandacquisitions.asp)
+-   Announce the release of a new product or a [[merger or acquisition]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp)
 
 Of course, these are just some of the instances when a company may call a conference. In some cases, companies may time their press conferences before any news breaks. This can be beneficial to get ahead of any negative news to portray the company in an honest and truthful light as opposed to a company that was trying to hide the negative news.
 

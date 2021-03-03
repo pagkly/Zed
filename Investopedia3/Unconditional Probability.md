@@ -20,7 +20,7 @@ An unconditional probability is the chance that a single outcome results among s
 
 The probability that snow will fall in Jackson, Wyoming, on Groundhog Day, without taking into consideration the historical weather patterns and climate data for northwestern Wyoming in early February is an example of an unconditional probability.
 
-Unconditional probability may be contrasted with [conditional probability](https://www.investopedia.com/terms/c/conditional_probability.asp).
+Unconditional probability may be contrasted with [[conditional probability]](https://www.investopedia.com/terms/c/conditional_probability.asp).
 
 ### Key Takeaways
 
@@ -38,8 +38,8 @@ Unconditional probability is also known as marginal probability and measures the
 
 Conditional probability, on the other hand, is the likelihood of an event or outcome occurring, but based on the occurrence of some other event or prior outcome. Conditional probability is calculated by multiplying the probability of the preceding event by the updated probability of the succeeding, or conditional, event.
 
-Conditional probability is often portrayed as the "probability of A given B," notated as P(A|B). Unconditional probability also differs from [joint probability](https://www.investopedia.com/terms/j/jointprobability.asp), which calculates the likelihood of two or more outcomes occurring simultaneously, and portrayed as the "probability of A _and_ B", written as P(A ∩ B). It essentially incorporates the unconditional probabilities of A and B.
+Conditional probability is often portrayed as the "probability of A given B," notated as P(A|B). Unconditional probability also differs from [[joint probability]](https://www.investopedia.com/terms/j/jointprobability.asp), which calculates the likelihood of two or more outcomes occurring simultaneously, and portrayed as the "probability of A _and_ B", written as P(A ∩ B). It essentially incorporates the unconditional probabilities of A and B.
 
 ## Example of Unconditional Probability
 
-As a hypothetical example from finance, let's examine a group of [stocks](https://www.investopedia.com/terms/s/stock.asp) and their returns. A stock can either be a winner, which earns a positive return, or a loser, which has a negative returns. Say that out of five stocks, stocks A and B are winners, while stocks C, D, and E are losers. What, then, is the unconditional probability of choosing a winning stock? Since two outcomes out of a possible five will produce a winner, the unconditional probability is 2 successes divided by 5 total outcomes (2 / 5 = 0.4), or 40%.
+As a hypothetical example from finance, let's examine a group of [[stocks]](https://www.investopedia.com/terms/s/stock.asp) and their returns. A stock can either be a winner, which earns a positive return, or a loser, which has a negative returns. Say that out of five stocks, stocks A and B are winners, while stocks C, D, and E are losers. What, then, is the unconditional probability of choosing a winning stock? Since two outcomes out of a possible five will produce a winner, the unconditional probability is 2 successes divided by 5 total outcomes (2 / 5 = 0.4), or 40%.

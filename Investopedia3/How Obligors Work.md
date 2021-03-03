@@ -16,7 +16,7 @@ author: Adam Hayes
 How Obligors Work
 ## What Is an Obligor?
 
-An obligor, also known as a debtor, is a person or entity who is legally or contractually obliged to provide a benefit or payment to another. In a financial context, the term "obligor" refers to a bond issuer who is contractually bound to make all principal [repayments](https://www.investopedia.com/terms/r/repayment.asp) and interest payments on outstanding debt. The recipient of the benefit or payment is known as the obligee.
+An obligor, also known as a debtor, is a person or entity who is legally or contractually obliged to provide a benefit or payment to another. In a financial context, the term "obligor" refers to a bond issuer who is contractually bound to make all principal [[repayments]](https://www.investopedia.com/terms/r/repayment.asp) and interest payments on outstanding debt. The recipient of the benefit or payment is known as the obligee.
 
 If a covenant is breached by an obligor, the bond may become invalid and require immediate repayment, or it can sometimes be converted to equity ownership.
 
@@ -28,7 +28,7 @@ An obligor is a person who is legally bound to another. Debt holders are the mos
 
 [Covenants](https://www.investopedia.com/terms/c/covenant.asp) can be either affirmative or negative. An affirmative covenant is something that the obligor is required to do, such as the need to hit specific performance benchmarks. A negative covenant is restrictive in that it stops the obligor from doing something, such as restructuring the leadership of the organization.
 
-Since these bond issues are contractual [obligations](https://www.investopedia.com/terms/o/obligation.asp), obligors may have very little leeway in terms of deferring principal repayments, interest payments or circumventing covenants. Any delay in payment or non-payment of interest could be interpreted as a [default](https://www.investopedia.com/terms/d/default2.asp) for the bond issuer, an event that can have massive repercussions and long-term ramifications for the continuing viability of the business. As a result, most bond obligors take their debt obligations very seriously. Defaults by overleveraged obligors do occur from time to time.
+Since these bond issues are contractual [[obligations]](https://www.investopedia.com/terms/o/obligation.asp), obligors may have very little leeway in terms of deferring principal repayments, interest payments or circumventing covenants. Any delay in payment or non-payment of interest could be interpreted as a [[default]](https://www.investopedia.com/terms/d/default2.asp) for the bond issuer, an event that can have massive repercussions and long-term ramifications for the continuing viability of the business. As a result, most bond obligors take their debt obligations very seriously. Defaults by overleveraged obligors do occur from time to time.
 
 ### Obligor in a Personal Setting
 

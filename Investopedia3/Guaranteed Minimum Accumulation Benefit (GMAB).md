@@ -16,7 +16,7 @@ author: Julia Kagan
 Guaranteed Minimum Accumulation Benefit (GMAB)
 ## What Is a Guaranteed Minimum Accumulation Benefit?
 
-The guaranteed minimum accumulation benefit (GMAB) is a [variable annuity](https://www.investopedia.com/terms/v/variableannuity.asp) rider that guarantees a minimum value to the annuitant after the [accumulation period](https://www.investopedia.com/terms/a/accumulationperiod.asp) or another set period, usually somewhere close to 10 years. The GMAB rider protects the value of the annuity from market fluctuations. This optional benefit is available for an additional cost, which varies per insurance provider.
+The guaranteed minimum accumulation benefit (GMAB) is a [[variable annuity]](https://www.investopedia.com/terms/v/variableannuity.asp) rider that guarantees a minimum value to the annuitant after the [accumulation period](https://www.investopedia.com/terms/a/accumulationperiod.asp) or another set period, usually somewhere close to 10 years. The GMAB rider protects the value of the annuity from market fluctuations. This optional benefit is available for an additional cost, which varies per insurance provider.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ The guaranteed minimum accumulation benefit (GMAB) is a [variable annuity](https
 
 ## Understanding the Guaranteed Minimum Accumulation Benefit
 
-The guaranteed minimum accumulation benefit will only be used if the annuity’s [market value](https://www.investopedia.com/terms/m/marketvalue.asp) falls below the minimum guaranteed value. In certain scenarios, the cumulative costs of the benefit are returned to the annuity if the value of the annuity is higher than the minimum benefit, eliminating the need to use the rider.
+The guaranteed minimum accumulation benefit will only be used if the annuity’s [[market value]](https://www.investopedia.com/terms/m/marketvalue.asp) falls below the minimum guaranteed value. In certain scenarios, the cumulative costs of the benefit are returned to the annuity if the value of the annuity is higher than the minimum benefit, eliminating the need to use the rider.
 
-In addition to the guaranteed minimum accumulation benefit, which restricts [withdrawals](https://www.investopedia.com/terms/w/withdrawal.asp) until after the accumulation period, other guaranteed minimum living benefit riders may or may not have a holding period or require annuitization. These include a guaranteed minimum income benefit (GMIB) and a guaranteed minimum withdrawal benefit (GMWB).
+In addition to the guaranteed minimum accumulation benefit, which restricts [[withdrawals]](https://www.investopedia.com/terms/w/withdrawal.asp) until after the accumulation period, other guaranteed minimum living benefit riders may or may not have a holding period or require annuitization. These include a guaranteed minimum income benefit (GMIB) and a guaranteed minimum withdrawal benefit (GMWB).
 
 Additionally, there are two other riders: a guaranteed lifetime withdrawal benefit and a standalone lifetime benefit.
 
@@ -41,4 +41,4 @@ A guaranteed minimum withdrawal benefit (GMWB) is a hybrid product that guarante
 
 If the investments perform well, annuitants can take advantage of a step-up option, securing higher guaranteed withdrawals. A guaranteed lifetime withdrawal benefit (GLWB), also considered a hybrid product, guarantees an investor a specific percentage of the fund’s value for withdrawal during their lifetime, offering further protection against market fluctuations. A GLWB is sometimes called a GMWB with a lifetime option.
 
-A standalone lifetime benefit (SALB) is similar to the GLWB but doesn’t require the purchase of an annuity. Generally, an investor wanting access to their funds would have to [annuitize](https://www.investopedia.com/terms/a/annuitization.asp) or face penalties. The SALB offers lifetime access to the fund, regardless of market performance, with fees and certain restrictions.
+A standalone lifetime benefit (SALB) is similar to the GLWB but doesn’t require the purchase of an annuity. Generally, an investor wanting access to their funds would have to [[annuitize]](https://www.investopedia.com/terms/a/annuitization.asp) or face penalties. The SALB offers lifetime access to the fund, regardless of market performance, with fees and certain restrictions.

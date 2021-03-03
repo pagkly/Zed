@@ -38,7 +38,7 @@ The dotcom business model requires an Internet presence in order for the busines
 
 ### The Dotcom Bubble
 
-The dotcoms took the world by storm in the late 1990s, with valuations rising faster than any other industry in recent memory. Any company with dotcom in its name could score a huge [valuation](https://www.investopedia.com/terms/v/valuation.asp) on the [stock market](https://www.investopedia.com/terms/s/stockmarket.asp), even if it lacked any profits or physical assets and couldn't produce a coherent business plan.
+The dotcoms took the world by storm in the late 1990s, with valuations rising faster than any other industry in recent memory. Any company with dotcom in its name could score a huge [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) on the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp), even if it lacked any profits or physical assets and couldn't produce a coherent business plan.
 
 Many early dotcoms spent lavishly on marketing and brand recognition and much less on any actual product or service being offered.
 

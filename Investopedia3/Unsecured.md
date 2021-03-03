@@ -16,17 +16,17 @@ author: Julia Kagan
 Unsecured
 ## What is Unsecured
 
-Unsecured loans or [lines of credit](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC) are loans where lending happens without the backing of equal value collateral. Collateral is property or other valuable assets which a borrower offers as a way to secure the loan. In an unsecured loan, the lender will loan funds based on other borrower qualifying factors. These qualifying factors include the credit history, income, work status, and other existing debts.
+Unsecured loans or [[lines of credit]](https://www.investopedia.com/terms/l/lineofcredit.asp) (LOC) are loans where lending happens without the backing of equal value collateral. Collateral is property or other valuable assets which a borrower offers as a way to secure the loan. In an unsecured loan, the lender will loan funds based on other borrower qualifying factors. These qualifying factors include the credit history, income, work status, and other existing debts.
 
 ## BREAKING DOWN Unsecured
 
-Unsecured loans present a high risk to lenders. Because there is no collateral to take as recourse if the borrower [defaults](https://www.investopedia.com/terms/d/default2.asp) on the loan, the lender has nothing of value to claim against, and cover their costs. Default happens when the debtor is unable to meet their legal obligations to pay a debt. Instead, of demanding the collateral, the lender will need to turn to civil actions. Such actions include hiring a collection agency and filing a lawsuit to recoup unpaid balances. 
+Unsecured loans present a high risk to lenders. Because there is no collateral to take as recourse if the borrower [[defaults]](https://www.investopedia.com/terms/d/default2.asp) on the loan, the lender has nothing of value to claim against, and cover their costs. Default happens when the debtor is unable to meet their legal obligations to pay a debt. Instead, of demanding the collateral, the lender will need to turn to civil actions. Such actions include hiring a collection agency and filing a lawsuit to recoup unpaid balances. 
 
 Unsecured loans and lines of credit (LOC) often have high-interest rates. These rates help to insulate lenders against the risks of loss. The most common forms of unsecured funds are credit cards and personal loans.
 
 ## Differences between Unsecured and Secured Loans
 
-Many people are already familiar with secured loans in the form of mortgages and auto loans. In both of those cases, the seizing the collateral which secures the loan can happen in the event of a default. For mortgages, this occurrence is called a [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp). Once a borrower has missed a payment the default process has begun. The servicer will complete the legal requirements on their end to reclaim the property which secured the mortgage.
+Many people are already familiar with secured loans in the form of mortgages and auto loans. In both of those cases, the seizing the collateral which secures the loan can happen in the event of a default. For mortgages, this occurrence is called a [[foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp). Once a borrower has missed a payment the default process has begun. The servicer will complete the legal requirements on their end to reclaim the property which secured the mortgage.
 
 In the case of an auto, boat, or other large equipment loans, this process is repossession. In both foreclosure and repossession, the borrower will lose the item which secures the loan.
 
@@ -34,7 +34,7 @@ In the case of an auto, boat, or other large equipment loans, this process is re
 
 ## Problems with Foreclosed Flooding
 
-With the 2006 housing market crash, foreclosed properties flooded the market. This massive influx of homes drove the value of all houses downward. Before the crash, home values increased exponentially, making a bubble. When the [housing market bubble](https://www.investopedia.com/terms/h/housing_bubble.asp) burst, the problem was two-fold. 
+With the 2006 housing market crash, foreclosed properties flooded the market. This massive influx of homes drove the value of all houses downward. Before the crash, home values increased exponentially, making a bubble. When the [[housing market bubble]](https://www.investopedia.com/terms/h/housing_bubble.asp) burst, the problem was two-fold. 
 
 First, the surplus of houses led to lower overall home values. Because, like all products, more demand commands increased prices, while more supply than demand forces prices down. This drop in value caused the second shoe to drop. Homeowners seeing the worth of their investment fall hoped to sell. Due to the amount of ready supply, they often found this difficult, if not impossible to do. They, in turn, begin to default on their mortgages.
 

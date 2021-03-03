@@ -16,7 +16,7 @@ author: Will Kenton
 Nominal Interest Rate Definition
 ## What Is the Nominal Interest Rate?
 
-Nominal interest rate refers to the interest rate before taking inflation into account. [Nominal](https://www.investopedia.com/terms/n/nominal.asp) can also refer to the advertised or stated interest rate on a loan, without taking into account any fees or compounding of interest. The nominal interest rate formula can be calculated as: r = m × \[ ( 1 + i)1/m - 1 \].
+Nominal interest rate refers to the interest rate before taking inflation into account. [[Nominal]](https://www.investopedia.com/terms/n/nominal.asp) can also refer to the advertised or stated interest rate on a loan, without taking into account any fees or compounding of interest. The nominal interest rate formula can be calculated as: r = m × \[ ( 1 + i)1/m - 1 \].
 
 Where:
 
@@ -38,7 +38,7 @@ Nominal interest rates exist in contrast to real interest rates and effective in
 
 [Unlike the nominal rate, the real interest rate](https://www.investopedia.com/ask/answers/032515/what-difference-between-real-and-nominal-interest-rates.asp) takes the inflation rate into account. The equation that links nominal and real interest rates can be approximated as nominal rate = real interest rate + inflation rate, or nominal rate - inflation rate = real interest rate.
 
-To avoid purchasing power erosion through inflation, investors consider the real interest rate, rather than the nominal rate. One way to estimate the real rate of return in the United States is to observe the interest rates on Treasury Inflation-Protected Securities (TIPS).1 The difference between the yield on a [Treasury bond](https://www.investopedia.com/terms/t/treasurybond.asp) and the yield on TIPS of the same maturity provides an estimate of inflation expectations in the economy.2
+To avoid purchasing power erosion through inflation, investors consider the real interest rate, rather than the nominal rate. One way to estimate the real rate of return in the United States is to observe the interest rates on Treasury Inflation-Protected Securities (TIPS).1 The difference between the yield on a [[Treasury bond]](https://www.investopedia.com/terms/t/treasurybond.asp) and the yield on TIPS of the same maturity provides an estimate of inflation expectations in the economy.2
 
 For example, if the nominal interest rate offered on a three-year deposit is 4% and the inflation rate over this period is 3%, the investor’s real rate of return is 1%. On the other hand, if the nominal interest rate is 2% in an environment of 3% annual inflation, the investor’s purchasing power erodes by 1% per year.
 

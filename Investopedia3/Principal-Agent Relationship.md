@@ -16,7 +16,7 @@ author: James Chen
 Principal-Agent Relationship
 ## What Is the Principal-Agent Relationship?
 
-The principal-agent relationship is an arrangement in which one entity legally appoints another to act on its behalf. In a principal-agent relationship, the agent acts on behalf of the principal and should not have a [conflict of interest](https://www.investopedia.com/terms/c/conflict-of-interest.asp) in carrying out the act. The relationship between the principal and the agent is called the "agency," and the law of agency establishes guidelines for such a relationship.
+The principal-agent relationship is an arrangement in which one entity legally appoints another to act on its behalf. In a principal-agent relationship, the agent acts on behalf of the principal and should not have a [[conflict of interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp) in carrying out the act. The relationship between the principal and the agent is called the "agency," and the law of agency establishes guidelines for such a relationship.
 
 #### Principal-Agent Relationship
 
@@ -28,7 +28,7 @@ The principal-agent relationship is an arrangement in which one entity legally a
 
 ## Understanding a Principal-Agent Relationship
 
-A principal-agent relationship is often defined in formal terms described in a contract. For example, when an investor buys shares of an index fund, he is the principal, and the [fund manager](https://www.investopedia.com/terms/f/fundmanager.asp) becomes his agent. As an agent, the [index fund](https://www.investopedia.com/terms/i/indexfund.asp) manager must manage the fund, which consists of many principals' assets, in a way that will maximize returns for a given level of risk in accordance with the fund's [prospectus](https://www.investopedia.com/terms/p/prospectus.asp).
+A principal-agent relationship is often defined in formal terms described in a contract. For example, when an investor buys shares of an index fund, he is the principal, and the [[fund manager]](https://www.investopedia.com/terms/f/fundmanager.asp) becomes his agent. As an agent, the [[index fund]](https://www.investopedia.com/terms/i/indexfund.asp) manager must manage the fund, which consists of many principals' assets, in a way that will maximize returns for a given level of risk in accordance with the fund's [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp).
 
 Agents have an obligation to perform tasks with a certain level of skill and care and may not intentionally or negligently complete the task in an improper manner.
 
@@ -40,4 +40,4 @@ The agent is most often an individual capable of understanding and ultimately ca
 
 Whether the principal-agent relationship is expressed clearly through a written contract or is implied through actions, the principal-agent relationship creates a fiduciary relationship between the parties involved. This means the agent acting on behalf of the principal must carry out the assigned tasks with the principal's best interest as a priority.
 
-The agent is responsible for completing tasks given by the principal so long as the principal provides reasonable instruction. Additionally, the agent has an obligation to perform tasks that will not intentionally harm the principal. A duty of loyalty is also implied within the principal-agent relationship, which requires the agent to refrain from putting himself in a position that creates or encourages conflict between his interest and the interest of the principal, also known as the [principal-agent problem](https://www.investopedia.com/terms/p/principal-agent-problem.asp).
+The agent is responsible for completing tasks given by the principal so long as the principal provides reasonable instruction. Additionally, the agent has an obligation to perform tasks that will not intentionally harm the principal. A duty of loyalty is also implied within the principal-agent relationship, which requires the agent to refrain from putting himself in a position that creates or encourages conflict between his interest and the interest of the principal, also known as the [[principal-agent problem]](https://www.investopedia.com/terms/p/principal-agent-problem.asp).

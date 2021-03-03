@@ -16,9 +16,9 @@ author: Adam Hayes
 Understanding Geometric Mean
 ## What Is the Geometric Mean?
 
-The geometric mean is the average of a set of products, the calculation of which is commonly used [to determine the performance results of an investment or portfolio](https://www.investopedia.com/articles/investing/071113/breaking-down-geometric-mean.asp). It is technically defined as "the _nth_ root product of _n_ numbers." The geometric mean must be used when working with percentages, which are derived from values, while the standard [arithmetic mean](https://www.investopedia.com/terms/a/arithmeticmean.asp) works with the values themselves.
+The geometric mean is the average of a set of products, the calculation of which is commonly used [[to determine the performance results of an investment or portfolio]](https://www.investopedia.com/articles/investing/071113/breaking-down-geometric-mean.asp). It is technically defined as "the _nth_ root product of _n_ numbers." The geometric mean must be used when working with percentages, which are derived from values, while the standard [[arithmetic mean]](https://www.investopedia.com/terms/a/arithmeticmean.asp) works with the values themselves.
 
-The geometric mean is an important tool for calculating [portfolio performance](https://www.investopedia.com/articles/08/performance-measure.asp) for many reasons, but one of the most significant is it takes into account the [effects of compounding](https://www.investopedia.com/terms/c/compounding.asp).
+The geometric mean is an important tool for calculating [[portfolio performance]](https://www.investopedia.com/articles/08/performance-measure.asp) for many reasons, but one of the most significant is it takes into account the [effects of compounding](https://www.investopedia.com/terms/c/compounding.asp).
 
 ### Key Takeaways
 
@@ -49,10 +49,10 @@ In year three, the new principal amount is $12,100, and 10% of $12,100 is $1,210
 
 ## Example of Geometric Mean
 
-If you have $10,000 and get paid 10% interest on that $10,000 every year for 25 years, the amount of interest is $1,000 every year for 25 years, or $25,000. However, this does not take the interest into consideration. That is, the calculation assumes you only get paid interest on the original $10,000, not the $1,000 added to it every year. If the investor gets paid interest on the interest, it is referred to as [compounding](https://www.investopedia.com/terms/c/compounding.asp) interest, which is calculated using the geometric mean.
+If you have $10,000 and get paid 10% interest on that $10,000 every year for 25 years, the amount of interest is $1,000 every year for 25 years, or $25,000. However, this does not take the interest into consideration. That is, the calculation assumes you only get paid interest on the original $10,000, not the $1,000 added to it every year. If the investor gets paid interest on the interest, it is referred to as [[compounding]](https://www.investopedia.com/terms/c/compounding.asp) interest, which is calculated using the geometric mean.
 
-Using the geometric mean allows [analysts](https://www.investopedia.com/terms/a/analyst.asp) to calculate the return on an investment that gets paid interest on interest. This is one reason [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp) advise clients to reinvest dividends and earnings.
+Using the geometric mean allows [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) to calculate the return on an investment that gets paid interest on interest. This is one reason [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) advise clients to reinvest dividends and earnings.
 
-The geometric mean is also used for [present value](https://www.investopedia.com/terms/p/presentvalue.asp) and [future value](https://www.investopedia.com/terms/f/futurevalue.asp) cash flow formulas. The geometric mean return is specifically used for investments that offer a compounding return. Going back to the example above, instead of only making $25,000 on a simple interest investment, the investor makes $108,347.06 on a compounding interest investment.
+The geometric mean is also used for [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) and [[future value]](https://www.investopedia.com/terms/f/futurevalue.asp) cash flow formulas. The geometric mean return is specifically used for investments that offer a compounding return. Going back to the example above, instead of only making $25,000 on a simple interest investment, the investor makes $108,347.06 on a compounding interest investment.
 
 Simple interest or return is represented by the arithmetic mean, while compounding interest or return is represented by the geometric mean.

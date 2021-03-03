@@ -16,13 +16,13 @@ author: Adam Hayes
 Mode Definition
 ## What Is the Mode?
 
-The mode is the value that appears most frequently in a data set. A set of data may have one mode, more than one mode, or no mode at all. Other popular measures of central tendency include the mean, or the average of a set, and the [median](https://www.investopedia.com/terms/m/median.asp), the middle value in a set.
+The mode is the value that appears most frequently in a data set. A set of data may have one mode, more than one mode, or no mode at all. Other popular measures of central tendency include the mean, or the average of a set, and the [[median]](https://www.investopedia.com/terms/m/median.asp), the middle value in a set.
 
 The mode can be the same value as the mean and/or median, but this is usually not the case.
 
 ## Understanding the Mode
 
-In statistics, data can be distributed in various ways. The most often cited distribution is the classic [normal](https://www.investopedia.com/terms/n/normaldistribution.asp) (bell-curve) distribution. In this, and some other distributions, the mean (average) value falls at the mid-point, which is also the peak frequency of observed values. For such a distribution, the mean, median, and mode are all the same value. This means that this value is the average value, the middle value, also the mode—the most frequently occurring value in the data.
+In statistics, data can be distributed in various ways. The most often cited distribution is the classic [[normal]](https://www.investopedia.com/terms/n/normaldistribution.asp) (bell-curve) distribution. In this, and some other distributions, the mean (average) value falls at the mid-point, which is also the peak frequency of observed values. For such a distribution, the mean, median, and mode are all the same value. This means that this value is the average value, the middle value, also the mode—the most frequently occurring value in the data.
 
 Mode is most useful as a measure of central tendency when examining categorical data, such as models of cars or flavors of soda, for which a mathematical average median value based on ordering can not be calculated.
 
@@ -56,7 +56,7 @@ A set of numbers with two modes is **bimodal**, a set of numbers with three mode
 
 -   The mode is easy to understand and calculate.
 -   The mode is not affected by extreme values.
--   The mode is easy to identify in a data set and in a discrete [frequency distribution](https://www.investopedia.com/terms/f/frequencydistribution.asp).
+-   The mode is easy to identify in a data set and in a discrete [[frequency distribution]](https://www.investopedia.com/terms/f/frequencydistribution.asp).
 -   The mode is useful for qualitative data.
 -   The mode can be computed in an open-ended frequency table.
 -   The mode can be located graphically.

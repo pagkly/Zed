@@ -18,7 +18,7 @@ Eurobond
 
 A Eurobond is a debt instrument that's denominated in a currency other than the home currency of the country or market in which it is issued. Eurobonds are frequently grouped together by the currency in which they are denominated, such as eurodollar or Euro-yen bonds. Since Eurobonds are issued in an external currency, they're often called external bonds. Eurobonds are important because they help organizations raise capital while having the flexibility to issue them in another currency.
 
-Issuance of Eurobonds is usually handled by an international [syndicate](https://www.investopedia.com/terms/s/syndicate.asp) of financial institutions on behalf of the borrower, one of which may underwrite the bond, thus guaranteeing the purchase of the entire issue.
+Issuance of Eurobonds is usually handled by an international [[syndicate]](https://www.investopedia.com/terms/s/syndicate.asp) of financial institutions on behalf of the borrower, one of which may underwrite the bond, thus guaranteeing the purchase of the entire issue.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Issuance of Eurobonds is usually handled by an international [syndicate](https:/
 
 ## Understanding Eurobonds
 
-The popularity of Eurobonds as a financing tool reflects their high degree of flexibility as they offer issuers the ability to choose the country of issuance based on the regulatory landscape, interest rates, and depth of the market. They are also attractive to investors because they usually have small par values or face values providing a low-cost investment. Eurobonds also have high [liquidity](https://www.investopedia.com/terms/l/liquidity.asp), meaning they can be bought and sold easily.
+The popularity of Eurobonds as a financing tool reflects their high degree of flexibility as they offer issuers the ability to choose the country of issuance based on the regulatory landscape, interest rates, and depth of the market. They are also attractive to investors because they usually have small par values or face values providing a low-cost investment. Eurobonds also have high [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp), meaning they can be bought and sold easily.
 
 The term Eurobond refers only to the fact the bond is issued outside of the borders of the currency's home country; it does not mean the bond was issued in Europe or denominated in the euro currency. For example, a company can issue a Eurobond denominated in U.S. dollars in Japan.
 
@@ -44,4 +44,4 @@ The earliest Eurobonds were physically delivered to investors. They are issued e
 
 ## Market Size
 
-The global bond market totals over $100 trillion in outstanding debt. The fact many Eurobonds are unregistered, and trade-in bearer form makes definitive numbers for the sector impossible to obtain, but it is likely they account for about 30% of the total. A growing portion of Eurobond issuance is from [emerging market](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp) nations, with both governments and companies seeking deeper and more developed markets in which to borrow.
+The global bond market totals over $100 trillion in outstanding debt. The fact many Eurobonds are unregistered, and trade-in bearer form makes definitive numbers for the sector impossible to obtain, but it is likely they account for about 30% of the total. A growing portion of Eurobond issuance is from [[emerging market]](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp) nations, with both governments and companies seeking deeper and more developed markets in which to borrow.

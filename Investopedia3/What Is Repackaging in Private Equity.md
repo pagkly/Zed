@@ -29,7 +29,7 @@ For some years, the primary goal of repackaging was to prepare a company for a r
 
 A private equity firm looks for a company that is unprofitable or underperforming and buys it outright in the belief that the business can be turned around. Once the company is no longer public, the private equity firm can take whatever measures it thinks will be effective, such as selling off divisions, replacing management, or slashing overhead costs.
 
-Its goal may be to take the revamped company public with a new [initial public offering](https://www.investopedia.com/terms/i/ipo.asp), to sell the company outright to another private buyer, or to merge it with another larger entity or entities. In any case, if the repackaging succeeds, the private equity firm will make more money than it spent reviving the company.
+Its goal may be to take the revamped company public with a new [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp), to sell the company outright to another private buyer, or to merge it with another larger entity or entities. In any case, if the repackaging succeeds, the private equity firm will make more money than it spent reviving the company.
 
 Most of the money used to purchase the company is borrowed. Thus, the transaction is usually termed a leveraged buyout.
 
@@ -43,7 +43,7 @@ Private equity firms appear to have found easier and more lucrative ways to cash
 
 Burger King, for example, had a long string of corporate owners, including the Pillsbury Company, before it was bought in 2002 by TPG Capital. The investment group retooled the company and launched a successful initial public offering in 2006. Only four years later, in the midst of the Great Recession, Burger King was in trouble again. It was taken private again in a buyout by 3G Capital.
 
-Today, Burger King is a subsidiary of Restaurant Brands International, a fast-food [conglomerate](https://www.investopedia.com/terms/c/conglomerate.asp) that is headquartered in Toronto, Canada, but majority-owned by 3G, a Brazilian company. The conglomerate also owns the Canadian coffee shop chain Tim Hortons and the fried chicken chain Popeyes.
+Today, Burger King is a subsidiary of Restaurant Brands International, a fast-food [[conglomerate]](https://www.investopedia.com/terms/c/conglomerate.asp) that is headquartered in Toronto, Canada, but majority-owned by 3G, a Brazilian company. The conglomerate also owns the Canadian coffee shop chain Tim Hortons and the fried chicken chain Popeyes.
 
 ## Recent Repackaging Targets
 

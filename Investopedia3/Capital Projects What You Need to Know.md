@@ -16,7 +16,7 @@ author: Adam Barone
 Capital Projects: What You Need to Know
 ## What Is a Capital Project?
 
-A capital project is a long-term, capital-intensive investment project with a purpose to build upon, add to, or improve a [capital asset](https://www.investopedia.com/terms/c/capitalasset.asp). Capital projects are defined by their large scale and large cost relative to other investments that involve less planning and resources.
+A capital project is a long-term, capital-intensive investment project with a purpose to build upon, add to, or improve a [[capital asset]](https://www.investopedia.com/terms/c/capitalasset.asp). Capital projects are defined by their large scale and large cost relative to other investments that involve less planning and resources.
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ A capital project is a long-term, capital-intensive investment project with a pu
 
 ## Understanding Capital Projects
 
-A capital project is a project in which the cost of the product is [capitalized](https://www.investopedia.com/terms/c/capitalize.asp) or depreciated. The most common examples of capital projects are infrastructure projects such as railways, roads, and dams. In addition, these projects include assets such as subways, pipelines, refineries, power plants, land, and buildings.
+A capital project is a project in which the cost of the product is [[capitalized]](https://www.investopedia.com/terms/c/capitalize.asp) or depreciated. The most common examples of capital projects are infrastructure projects such as railways, roads, and dams. In addition, these projects include assets such as subways, pipelines, refineries, power plants, land, and buildings.
 
-Capital projects are also common in [corporations](https://www.investopedia.com/terms/c/corporation.asp). Corporations allocate large amounts of resources (financial and human capital) to build or maintain capital assets, such as equipment or a new manufacturing project. In both cases, capital projects are typically planned and discussed at length to decide the most efficient and resourceful plan of execution.
+Capital projects are also common in [[corporations]](https://www.investopedia.com/terms/c/corporation.asp). Corporations allocate large amounts of resources (financial and human capital) to build or maintain capital assets, such as equipment or a new manufacturing project. In both cases, capital projects are typically planned and discussed at length to decide the most efficient and resourceful plan of execution.
 
 ## Examples of Capital Projects
 
@@ -40,6 +40,6 @@ A capital project financed by public funds often seeks to build, renovate, or bu
 
 ## Special Considerations
 
-Additional funding sources for these projects include bonds, grants, bank loans, existing cash reserves, company operation budgets, and private funding. These projects may require [debt financing](https://www.investopedia.com/terms/d/debtfinancing.asp) to secure funding. Debt financing may also be required for infrastructures, such as bridges. However, the bridge cannot be seized if the builder defaults on the loan. Debt financing ensures that the financier can recover funds if the builder defaults on the loan.
+Additional funding sources for these projects include bonds, grants, bank loans, existing cash reserves, company operation budgets, and private funding. These projects may require [[debt financing]](https://www.investopedia.com/terms/d/debtfinancing.asp) to secure funding. Debt financing may also be required for infrastructures, such as bridges. However, the bridge cannot be seized if the builder defaults on the loan. Debt financing ensures that the financier can recover funds if the builder defaults on the loan.
 
 Economic conditions and regulatory changes can affect the start or completion of capital projects, as in the case of Brexit, which caused the cancellation or delays of some projects in Britain. In the U.S., Congress is responsible for funding capital projects, such as roads, power lines, bridges, and dams.

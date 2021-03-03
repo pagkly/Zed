@@ -16,9 +16,9 @@ author: Adam Hayes
 Understanding Uncovered Interest Rate Parity – UIP
 ## What Is Uncovered Interest Rate Parity (UIP)?
 
-Uncovered interest rate parity (UIP) theory states that the difference in interest rates between two countries will equal the relative change in currency foreign exchange rates over the same period. It is one form of interest rate parity (IRP) used alongside [covered interest rate parity](https://www.investopedia.com/terms/c/covered-interest-rate-parity.asp).
+Uncovered interest rate parity (UIP) theory states that the difference in interest rates between two countries will equal the relative change in currency foreign exchange rates over the same period. It is one form of interest rate parity (IRP) used alongside [[covered interest rate parity]](https://www.investopedia.com/terms/c/covered-interest-rate-parity.asp).
 
-If the uncovered interest rate parity relationship does not hold, then there is an opportunity to make a risk-free profit using [currency arbitrage](https://www.investopedia.com/terms/c/currency-arbitrage.asp) or [Forex arbitrage](https://www.investopedia.com/terms/forex/f/forex-arbritrage.asp).
+If the uncovered interest rate parity relationship does not hold, then there is an opportunity to make a risk-free profit using [[currency arbitrage]](https://www.investopedia.com/terms/c/currency-arbitrage.asp) or [[Forex arbitrage]](https://www.investopedia.com/terms/forex/f/forex-arbritrage.asp).
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ A currency with a lower interest rate will trade at a forward premium in relatio
 
 ## What Does Uncovered Interest Rate Parity Tell You?
 
-Uncovered interest rate parity conditions consist of two return streams, one from the foreign money market interest rate on the investment and one from the change in the foreign currency spot rate. Said another way, uncovered interest rate parity assumes foreign exchange equilibrium, thus implying that the expected return of a domestic asset (i.e., a risk-free rate like a [U.S. Treasury Bill](https://www.investopedia.com/terms/t/treasurybill.asp) or T-Bill) will equal the expected return of a foreign asset after adjusting for the change in foreign currency exchange spot rates.
+Uncovered interest rate parity conditions consist of two return streams, one from the foreign money market interest rate on the investment and one from the change in the foreign currency spot rate. Said another way, uncovered interest rate parity assumes foreign exchange equilibrium, thus implying that the expected return of a domestic asset (i.e., a risk-free rate like a [[U.S. Treasury Bill]](https://www.investopedia.com/terms/t/treasurybill.asp) or T-Bill) will equal the expected return of a foreign asset after adjusting for the change in foreign currency exchange spot rates.
 
 When uncovered interest rate parity holds, there can be no excess return earned from simultaneously going long a higher-yielding currency investment and shorting a different lower-yielding currency investment or interest rate spread. Uncovered interest rate parity assumes that the country with the higher interest rate or risk-free money market yield will experience depreciation in its domestic currency relative to the foreign currency.
 

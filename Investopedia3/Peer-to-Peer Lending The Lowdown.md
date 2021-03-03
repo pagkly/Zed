@@ -16,7 +16,7 @@ author: Julia Kagan
 Peer-to-Peer Lending: The Lowdown
 ## What Is Peer-to-Peer (P2P) Lending?
 
-Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other individuals, cutting out the financial institution as the middleman. [Websites that facilitate P2P lending](https://www.investopedia.com/articles/investing/092315/7-best-peertopeer-lending-websites.asp) have greatly increased its adoption as an alternative method of financing.
+Peer-to-peer (P2P) lending enables individuals to obtain loans directly from other individuals, cutting out the financial institution as the middleman. [[Websites that facilitate P2P lending]](https://www.investopedia.com/articles/investing/092315/7-best-peertopeer-lending-websites.asp) have greatly increased its adoption as an alternative method of financing.
 
 P2P lending is also known as “social lending” or “crowd lending.” It has only existed since 2005, but the crowd of competitors already includes Prosper, Lending Club, Peerform, Upstart, and StreetShares.
 
@@ -36,11 +36,11 @@ Some sites specialize in particular types of borrowers. StreetShares, for exampl
 
 ### How P2P lending evolved
 
-Early on, the P2P lending system was seen as offering credit access to people who would be spurned by conventional institutions or a way to consolidate student loan debt at a more favorable interest rate. In recent years, however, [P2P lending sites have expanded their reach](https://www.investopedia.com/articles/financial-theory/08/peer-to-peer-lending.asp). Most now target consumers who want to pay off credit card debt at a lower interest rate. Home improvement loans and auto financing are also now available at P2P lending sites.
+Early on, the P2P lending system was seen as offering credit access to people who would be spurned by conventional institutions or a way to consolidate student loan debt at a more favorable interest rate. In recent years, however, [[P2P lending sites have expanded their reach]](https://www.investopedia.com/articles/financial-theory/08/peer-to-peer-lending.asp). Most now target consumers who want to pay off credit card debt at a lower interest rate. Home improvement loans and auto financing are also now available at P2P lending sites.
 
 The rates for applicants with good credit are often lower than comparable bank rates, while rates for applicants with sketchy credit records may go much higher. LendingTree.com, for example, offered personal loan rates from 10.19% to 24.98% as of December 2019.1 Peerform posted loan rates at a range of 5.99% to 29.99% as of February 2020.2 The average credit card interest rate was 17.30% as of Feb. 5, 2020, according to CreditCards.com.
 
-For lenders, P2P lending is a way to generate interest income on their cash at a rate that exceeds those offered by conventional savings accounts or [certificates of deposit (CDs)](https://www.investopedia.com/terms/c/certificateofdeposit.asp).
+For lenders, P2P lending is a way to generate interest income on their cash at a rate that exceeds those offered by conventional savings accounts or [[certificates of deposit (CDs)]](https://www.investopedia.com/terms/c/certificateofdeposit.asp).
 
 Some P2P sites allow lenders to start with an account balance of as little as $25.
 

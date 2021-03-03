@@ -18,13 +18,13 @@ How Time Decay Impacts Option Pricing
 
 Time decay is a measure of the rate of decline in the value of an options contract due to the passage of time. Time decay accelerates as an option's time to expiration draws closer since there's less time to realize a profit from the trade.
 
-Time decay is also called theta and is known as one of the [options Greeks](https://www.investopedia.com/trading/getting-to-know-the-greeks/). Other Greeks include delta, gamma, vega, and rho, and these formulas help you assess the risks inherent with an options trade.
+Time decay is also called theta and is known as one of the [[options Greeks]](https://www.investopedia.com/trading/getting-to-know-the-greeks/). Other Greeks include delta, gamma, vega, and rho, and these formulas help you assess the risks inherent with an options trade.
 
 Image by Sabrina Jiang © Investopedia 2020
 
 ## Time Decay—The Silent Killer
 
-Time decay is the reduction in the value of an option as the time to the [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp) approaches. An option's [time value](https://www.investopedia.com/terms/t/timevalue.asp) is how much time plays into the value—or the premium—for the option. The time value declines or time decay accelerates as the expiration date gets closer because there's less time for an investor to earn a profit from the option.
+Time decay is the reduction in the value of an option as the time to the [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp) approaches. An option's [[time value]](https://www.investopedia.com/terms/t/timevalue.asp) is how much time plays into the value—or the premium—for the option. The time value declines or time decay accelerates as the expiration date gets closer because there's less time for an investor to earn a profit from the option.
 
 This figure, when calculated, will always be negative, as time only moves in one direction. The countdown for time decay begins as soon as the option is initially bought and continues until expiration.
 
@@ -36,7 +36,7 @@ This figure, when calculated, will always be negative, as time only moves in one
 
 ## Pricing an Option
 
-To understand how time decay impacts an option, we must first review what makes up the value of an option. An options contract provides an investor the right to buy (a call), or sell (a put), securities such as stocks at a specific price and time. The [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) is the price at which the options contract changes to shares of the underlying security if the option is exercised. Each option has a [premium](https://www.investopedia.com/terms/o/option-premium.asp) attached to it, which is the value and often the cost of purchasing the option. However, there are a few other components that also drive the value of the premium. These factors include intrinsic value, extrinsic value, interest rate changes, and the volatility the underlying asset may exhibit.
+To understand how time decay impacts an option, we must first review what makes up the value of an option. An options contract provides an investor the right to buy (a call), or sell (a put), securities such as stocks at a specific price and time. The [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) is the price at which the options contract changes to shares of the underlying security if the option is exercised. Each option has a [[premium]](https://www.investopedia.com/terms/o/option-premium.asp) attached to it, which is the value and often the cost of purchasing the option. However, there are a few other components that also drive the value of the premium. These factors include intrinsic value, extrinsic value, interest rate changes, and the volatility the underlying asset may exhibit.
 
 ## Intrinsic Value
 
@@ -46,17 +46,17 @@ However, a call option with a strike price of $20, while the underlying stock is
 
 ## Extrinsic Value and Time Decay
 
-The [extrinsic value](https://www.investopedia.com/terms/e/extrinsicvalue.asp) is more abstract than the intrinsic value, and it's more difficult to measure. The extrinsic value of options factors in the amount of time left before expiration and the rate of time decay leading up to the expiry. If an investor buys a call option with a few months until expiry, the option will have a greater value than an option that expires in a few days. The time value of an option with little time left until expiry is less since there's a lower probability of an investor making money by buying the option. As a result, the option's price or premium declines. 
+The [[extrinsic value]](https://www.investopedia.com/terms/e/extrinsicvalue.asp) is more abstract than the intrinsic value, and it's more difficult to measure. The extrinsic value of options factors in the amount of time left before expiration and the rate of time decay leading up to the expiry. If an investor buys a call option with a few months until expiry, the option will have a greater value than an option that expires in a few days. The time value of an option with little time left until expiry is less since there's a lower probability of an investor making money by buying the option. As a result, the option's price or premium declines. 
 
 The option with a few months until expiry will have an increased amount of time value and slow time decay since there's a reasonable probability that an option buyer could earn a profit. However, as time passes and the option isn't yet profitable, time decay accelerates, particularly in the last 30 days before expiration. As a result, the option's value declines as the expiry approaches, and more so if it's not yet profitable. 
 
 ## Time Decay and Moneyness
 
-[Moneyness](https://www.investopedia.com/terms/m/moneyness.asp) is the level of profitability of an option as measured by its intrinsic value. If the option is [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) or profitable, it will retain some of its value as the expiration approaches since the profit is already built in and time is less of a factor. The option would have intrinsic value, while time decay would increase at a slower rate. However, time decay and the time value of an option are extremely important for investors to consider because they are key factors in determining the likelihood that the option will be profitable. 
+[Moneyness](https://www.investopedia.com/terms/m/moneyness.asp) is the level of profitability of an option as measured by its intrinsic value. If the option is [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp) (ITM) or profitable, it will retain some of its value as the expiration approaches since the profit is already built in and time is less of a factor. The option would have intrinsic value, while time decay would increase at a slower rate. However, time decay and the time value of an option are extremely important for investors to consider because they are key factors in determining the likelihood that the option will be profitable. 
 
-Time decay is prevalent with [at-the-money](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM) options since there's no intrinsic value. In other words, the premium for an ATM option mostly consists of time value. If the option is out-of-the-money (OTM)—or not profitable—time decay increases at a faster rate. This acceleration is because as more time passes, the option becomes less and less likely to become in-the-money.
+Time decay is prevalent with [[at-the-money]](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM) options since there's no intrinsic value. In other words, the premium for an ATM option mostly consists of time value. If the option is out-of-the-money (OTM)—or not profitable—time decay increases at a faster rate. This acceleration is because as more time passes, the option becomes less and less likely to become in-the-money.
 
-The loss of time value happens even if the value of the underlying asset has not changed during the same period. Another way to look at options contracts is that they're [wasting assets](https://www.investopedia.com/terms/w/wastingasset.asp) meaning their value declines or depreciates over time.
+The loss of time value happens even if the value of the underlying asset has not changed during the same period. Another way to look at options contracts is that they're [[wasting assets]](https://www.investopedia.com/terms/w/wastingasset.asp) meaning their value declines or depreciates over time.
 
 Essentially, investors are buying options that have the greatest probability of making a profit by expiry and how much time is left determines the price investors are willing to pay for the option. In short, the more time left until expiry, the slower the time decay while the closer to expiry, the more time decay increases. 
 

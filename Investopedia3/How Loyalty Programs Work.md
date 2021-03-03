@@ -27,11 +27,11 @@ Loyalty programs encourage shoppers to return to stores where they frequently ma
 
 ## How a Loyalty Program Works
 
-Loyalty programs provide two key functions: They reward customers for [brand loyalty](https://www.investopedia.com/terms/b/brand-loyalty.asp), and they provide the issuing company with a wealth of consumer information. While companies can evaluate anonymous purchases, the use of a loyalty program offers additional details on the type of products that may be purchased together, and whether certain coupons are more effective than others.
+Loyalty programs provide two key functions: They reward customers for [[brand loyalty]](https://www.investopedia.com/terms/b/brand-loyalty.asp), and they provide the issuing company with a wealth of consumer information. While companies can evaluate anonymous purchases, the use of a loyalty program offers additional details on the type of products that may be purchased together, and whether certain coupons are more effective than others.
 
 When rewards programs are integrated into the customer's everyday routine, they can cultivate true brand loyalty. In many ways, companies are doing this by eliminating punch cards for unique mobile experiences that connect a customer to the brand's product or service. Once a customer becomes comfortable with the app, they begin to trust the company will deliver a consistent experience at each time. At this point, customers will stick to a hotel, restaurant, airline, etc., because of points more than anything else.
 
-Loyalty programs can provide important spending [data](https://www.investopedia.com/terms/d/datamining.asp) from a brand's customers.
+Loyalty programs can provide important spending [[data]](https://www.investopedia.com/terms/d/datamining.asp) from a brand's customers.
 
 ## Loyalty Program Examples
 

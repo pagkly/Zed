@@ -16,7 +16,7 @@ author: Julia Kagan
 Hybrid ARM Defintiion
 ## What Is a Hybrid ARM?
 
-A hybrid [adjustable-rate mortgage](https://www.investopedia.com/terms/a/arm.asp), or hybrid ARM (also known as a "fixed-period ARM"), blends characteristics of a fixed-rate mortgage with an adjustable-rate mortgage. This type of mortgage will have an initial fixed interest rate period followed by an adjustable rate period. After the fixed interest rate expires, the interest rate starts to adjust based on an index plus a margin. The date at which the mortgage changes from the fixed rate to the adjustable rate is referred to as the reset date.
+A hybrid [[adjustable-rate mortgage]](https://www.investopedia.com/terms/a/arm.asp), or hybrid ARM (also known as a "fixed-period ARM"), blends characteristics of a fixed-rate mortgage with an adjustable-rate mortgage. This type of mortgage will have an initial fixed interest rate period followed by an adjustable rate period. After the fixed interest rate expires, the interest rate starts to adjust based on an index plus a margin. The date at which the mortgage changes from the fixed rate to the adjustable rate is referred to as the reset date.
 
 The most common configuration of hybrid ARM is the 5/1, which has an initial fixed term of 5 years followed by adjustable rates that reset every 12 months.1
 
@@ -29,7 +29,7 @@ The most common configuration of hybrid ARM is the 5/1, which has an initial fix
 
 ## Understanding Hybrid ARMs
 
-A borrower should carefully consider his or her [time horizon](https://www.investopedia.com/terms/t/timehorizon.asp) when choosing a hybrid arm and recognize the risks associated with the reset date, or the expiration of the fixed interest rate period. If there has been a large change in interest rates, this reset could create substantially large payments; however, typically, the amount by which the interest rate can adjust is subject to an interest rate cap.
+A borrower should carefully consider his or her [[time horizon]](https://www.investopedia.com/terms/t/timehorizon.asp) when choosing a hybrid arm and recognize the risks associated with the reset date, or the expiration of the fixed interest rate period. If there has been a large change in interest rates, this reset could create substantially large payments; however, typically, the amount by which the interest rate can adjust is subject to an interest rate cap.
 
 The [5/1 hybrid ARM](https://www.investopedia.com/terms/1/5-1_arm.asp) may be the most popular type of adjustable-rate mortgage, but it's not the only option. There are 3/1, 7/1, and 10/1 ARMs, as well. These loans offer an introductory fixed rate for three, seven, or 10 years respectively, after which they adjust annually.2
 
@@ -41,7 +41,7 @@ Hybrid adjustable-rate mortgages may be set with fixed-rate intervals of three, 
 
 The long-term, fixed-rate mortgages, especially those with a 30 year period, can see low interest rates that are competitive, hybrid ARMs offer homebuyers options that may be more suitable for their needs. For instance, many homeowners do not remain in their residences for 30 years, making it more attractive to pursue a mortgage that offers interest rates that better suit the time frame they expect to hold the property.
 
-With a hybrid ARM, and index is established to serve as the benchmark interest that the margin is added to as way to figure out the new rate that will be enacted after the reset date is reached. The index can be based on a variety of benchmarks, such as the [London Interbank Offered Rate](https://www.investopedia.com/terms/l/libor.asp).
+With a hybrid ARM, and index is established to serve as the benchmark interest that the margin is added to as way to figure out the new rate that will be enacted after the reset date is reached. The index can be based on a variety of benchmarks, such as the [[London Interbank Offered Rate]](https://www.investopedia.com/terms/l/libor.asp).
 
 For the adjustable-rate period of the mortgage, a floor will be set to determine the absolute lowest rate the loan’s interest rate can be adjusted to. For instance, the lender might stipulate that the interest rate cannot fall below its stated margin.
 

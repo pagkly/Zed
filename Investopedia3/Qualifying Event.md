@@ -28,7 +28,7 @@ Without a qualifying event, you would need to wait until the next open enrollmen
 
 ## How Qualifying Events Work
 
-In the United States, most healthcare services are covered by private health insurance plans, with the remainder provided by government programs such as [Medicare and Medicaid](https://www.investopedia.com/articles/pf/07/medicare-vs-medicaid.asp). Many people receive health insurance through their employers who may cover all or part of the [premiums](https://www.investopedia.com/terms/i/insurance-premium.asp), or they can purchase a plan through the [Health Insurance Marketplace](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp).
+In the United States, most healthcare services are covered by private health insurance plans, with the remainder provided by government programs such as [[Medicare and Medicaid]](https://www.investopedia.com/articles/pf/07/medicare-vs-medicaid.asp). Many people receive health insurance through their employers who may cover all or part of the [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp), or they can purchase a plan through the [[Health Insurance Marketplace]](https://www.investopedia.com/terms/h/health-insurance-marketplace.asp).
 
 Typically, you can choose the type and amount of coverage based on your needs during open enrollment periods. Open enrollment periods are typically held at the end of the year with coverage starting at the beginning of the following year. For example, open enrollment for the Health Insurance Marketplace typically runs from November through mid-December. Once open enrollment is closed, you can't make changes to the type of insurance coverage selected, unless you experience a qualifying event.1
 
@@ -40,7 +40,7 @@ Generally, you need to prove that a qualifying event occurred by providing evide
 
 ## Special Considerations
 
-One potential life event that is treated differently relates to employment. If you leave or lose your job, you may be able to stay on your employer's group health plan thanks to the [Consolidated Omnibus Budget Reconciliation Act (COBRA)](https://www.investopedia.com/articles/insurance/11/intro-cobra-health-insurance.asp), which was passed by Congress in 1986.
+One potential life event that is treated differently relates to employment. If you leave or lose your job, you may be able to stay on your employer's group health plan thanks to the [[Consolidated Omnibus Budget Reconciliation Act (COBRA)]](https://www.investopedia.com/articles/insurance/11/intro-cobra-health-insurance.asp), which was passed by Congress in 1986.
 
 One caveat of COBRA coverage is that the premium is usually higher than when you were employed because you pay the entire cost of the insurance. Most employers usually chip in a significant portion of healthcare premiums for employees.5
 
@@ -48,6 +48,6 @@ COBRA is a temporary solution that generally only covers you up to 18 or 36 mont
 
 ## Real-World Example of a Qualifying Event
 
-The passage of the [Affordable Care Act (ACA)](https://www.investopedia.com/terms/a/affordable-care-act.asp), colloquially known as “Obamacare,” had an impact on what counts as a qualifying event. For example, the ACA made it possible for young people to be covered under their parents' health insurance until the age of 26. Their 26th birthday is then considered a qualifying event, which makes them eligible to sign up for their own coverage at that time.3
+The passage of the [[Affordable Care Act (ACA)]](https://www.investopedia.com/terms/a/affordable-care-act.asp), colloquially known as “Obamacare,” had an impact on what counts as a qualifying event. For example, the ACA made it possible for young people to be covered under their parents' health insurance until the age of 26. Their 26th birthday is then considered a qualifying event, which makes them eligible to sign up for their own coverage at that time.3
 
 Losing existing health coverage due to, for example, the loss of a job or losing student health coverage is also considered a qualifying event under the ACA.

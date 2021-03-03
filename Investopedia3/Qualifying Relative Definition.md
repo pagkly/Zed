@@ -16,7 +16,7 @@ author: Julia Kagan
 Qualifying Relative Definition
 ## What Is a Qualifying Relative?
 
-A qualifying relative is a person designated by federal income tax code to be allowed to be claimed as a [dependent](https://www.investopedia.com/terms/d/dependent.asp) by a taxpayer assuming the taxpayer provided considerable financial support for the qualifying relative during the tax year. Claiming a qualifying relative as a dependent will not currently allow the taxpayer to take an additional exemption, though, as the personal exemption has been temporarily eliminated1 under the TCJA (Tax Cuts and Jobs Act of 2018). Under the TCJA the standard deduction was nearly doubled and as such taxpayers do not get an additional exemption for claiming a qualifying relative. A qualifying relative does not have to be biologically related to the taxpayer.2
+A qualifying relative is a person designated by federal income tax code to be allowed to be claimed as a [[dependent]](https://www.investopedia.com/terms/d/dependent.asp) by a taxpayer assuming the taxpayer provided considerable financial support for the qualifying relative during the tax year. Claiming a qualifying relative as a dependent will not currently allow the taxpayer to take an additional exemption, though, as the personal exemption has been temporarily eliminated1 under the TCJA (Tax Cuts and Jobs Act of 2018). Under the TCJA the standard deduction was nearly doubled and as such taxpayers do not get an additional exemption for claiming a qualifying relative. A qualifying relative does not have to be biologically related to the taxpayer.2
 
 ### Key Takeaways
 

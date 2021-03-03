@@ -16,9 +16,9 @@ author: Jason Fernando
 Oil Price to Natural Gas Ratio
 ## What Is the Oil Price to Natural Gas Ratio?
 
-As its name suggests, the oil price to natural gas ratio is a [ratio](https://www.investopedia.com/terms/r/ratioanalysis.asp) in which the price of oil is the numerator and the price of natural gas is the denominator. 
+As its name suggests, the oil price to natural gas ratio is a [[ratio]](https://www.investopedia.com/terms/r/ratioanalysis.asp) in which the price of oil is the numerator and the price of natural gas is the denominator. 
 
-The purpose of the oil price to natural gas ratio is to capture the relative valuation of these two important [energy commodities](https://www.investopedia.com/energy-trading-4689668). It is widely used by commodities traders, energy analysts, and investors.
+The purpose of the oil price to natural gas ratio is to capture the relative valuation of these two important [[energy commodities]](https://www.investopedia.com/energy-trading-4689668). It is widely used by commodities traders, energy analysts, and investors.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ The purpose of the oil price to natural gas ratio is to capture the relative val
 
 ## Understanding the Oil Price to Natural Gas Ratio
 
-Crude oil and natural gas are important energy commodities that are actively traded on commodities markets such as the [New York Mercantile Exchange (NYMEX)](https://www.investopedia.com/terms/n/nymex.asp). They are widely used as fuels for heating and electricity generation throughout the world.
+Crude oil and natural gas are important energy commodities that are actively traded on commodities markets such as the [[New York Mercantile Exchange (NYMEX)]](https://www.investopedia.com/terms/n/nymex.asp). They are widely used as fuels for heating and electricity generation throughout the world.
 
-One NYMEX crude oil contract is equivalent to 1,000 barrels of [crude oil](https://www.investopedia.com/terms/c/crude-oil.asp), whereas one natural gas contract equals 10,000 British Thermal Units (MMBtu) of [natural gas](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp).23 When calculating the oil price to natural gas ratio, the oil numerator refers to barrels of oil whereas the natural gas denominator refers to units of 10 MMBtu. The higher the oil price to natural gas ratio, the greater the price of oil relative to natural gas. If the ratio declines, then this means the difference in the prices of the two commodities is narrowing.
+One NYMEX crude oil contract is equivalent to 1,000 barrels of [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp), whereas one natural gas contract equals 10,000 British Thermal Units (MMBtu) of [[natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp).23 When calculating the oil price to natural gas ratio, the oil numerator refers to barrels of oil whereas the natural gas denominator refers to units of 10 MMBtu. The higher the oil price to natural gas ratio, the greater the price of oil relative to natural gas. If the ratio declines, then this means the difference in the prices of the two commodities is narrowing.
 
-Oftentimes, traders will purchase crude oil futures when the oil price to natural gas ratio is below its historical averages, believing that they are receiving a bargain price for oil. Likewise, they will purchase natural gas [futures](https://www.investopedia.com/terms/f/futures.asp) when the ratio is above its historical norm. The same strategy can also work in reverse, selling oil futures when the ratio is high and selling natural gas futures when the ratio is low.
+Oftentimes, traders will purchase crude oil futures when the oil price to natural gas ratio is below its historical averages, believing that they are receiving a bargain price for oil. Likewise, they will purchase natural gas [[futures]](https://www.investopedia.com/terms/f/futures.asp) when the ratio is above its historical norm. The same strategy can also work in reverse, selling oil futures when the ratio is high and selling natural gas futures when the ratio is low.
 
 ## Real-World Example of the Oil Price to Natural Gas Ratio
 

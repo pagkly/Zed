@@ -16,7 +16,7 @@ author: James Chen
 How Commodity Futures Contracts Work
 ## What Is a Commodity Futures Contract?
 
-A commodity futures contract is an agreement to buy or sell a predetermined amount of a [commodity](https://www.investopedia.com/terms/c/commodity.asp) at a specific price on a specific date in the future. Commodity futures can be used to hedge or protect an investment position or to bet on the directional move of the underlying asset.
+A commodity futures contract is an agreement to buy or sell a predetermined amount of a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) at a specific price on a specific date in the future. Commodity futures can be used to hedge or protect an investment position or to bet on the directional move of the underlying asset.
 
 Many investors confuse futures contracts with options contracts. With futures contracts, the holder has an obligation to act. Unless the holder unwinds the futures contract before expiration, they must either buy or sell the underlying asset at the stated price.
 
@@ -43,21 +43,21 @@ Commodity futures contracts are called by the name of their expiration month mea
 
 Commodities futures contracts can be used by speculators to make directional price bets on the underlying asset's price. Positions can be taken in either direction meaning investors can go long (or buy) as well as go short (or sell) the commodity.
 
-Commodity futures use a high degree of [leverage](https://www.investopedia.com/terms/l/leverage.asp) so that the investor doesn't need to put up the total amount of the contract. Instead, a fraction of the total trade amount must be placed with the broker handling the account. The amount of leverage needed can vary, given the commodity and the broker.
+Commodity futures use a high degree of [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) so that the investor doesn't need to put up the total amount of the contract. Instead, a fraction of the total trade amount must be placed with the broker handling the account. The amount of leverage needed can vary, given the commodity and the broker.
 
-As an example, let's say an [initial margin](https://www.investopedia.com/terms/i/initialmargin.asp) amount of $3,700 allows an investor to enter into a [futures contract](https://www.investopedia.com/terms/f/futurescontract.asp) for 1,000 barrels of oil valued at $45,000—with oil priced at $45 per barrel. If the price of oil is trading at $60 at the contract's expiry, the investor has a $15 gain or a $15,000 profit. The trades would settle through the investor's brokerage account crediting the net difference of the two contracts. Most futures contracts will be cash-settled, but some contracts will settle with the delivery of the underlying asset to a centralized processing warehouse.
+As an example, let's say an [[initial margin]](https://www.investopedia.com/terms/i/initialmargin.asp) amount of $3,700 allows an investor to enter into a [[futures contract]](https://www.investopedia.com/terms/f/futurescontract.asp) for 1,000 barrels of oil valued at $45,000—with oil priced at $45 per barrel. If the price of oil is trading at $60 at the contract's expiry, the investor has a $15 gain or a $15,000 profit. The trades would settle through the investor's brokerage account crediting the net difference of the two contracts. Most futures contracts will be cash-settled, but some contracts will settle with the delivery of the underlying asset to a centralized processing warehouse.
 
 Considering the significant amount of leverage with futures trading, a small move in the price of a commodity could result in large gains or losses compared to the initial margin. Speculating on futures is an advanced trading strategy and not fit for the risk tolerance of most investors.
 
 ### Risks of Commodity Speculating
 
-Unlike options, futures are the obligation of the purchase or sale of the [underlying asset](https://www.investopedia.com/terms/u/underlying-asset.asp). As a result, failure to close an existing position could result in an inexperienced investor taking delivery of a large quantity of unwanted commodities.
+Unlike options, futures are the obligation of the purchase or sale of the [[underlying asset]](https://www.investopedia.com/terms/u/underlying-asset.asp). As a result, failure to close an existing position could result in an inexperienced investor taking delivery of a large quantity of unwanted commodities.
 
-Trading in commodity [futures](https://www.investopedia.com/terms/f/futures.asp) contracts can be very risky for the inexperienced. The high degree of leverage used with commodity futures can amplify gains, but losses can be amplified as well. If a futures contract position is losing money, the broker can initiate a [margin call](https://www.investopedia.com/terms/m/margincall.asp), which is a demand for additional funds to shore up the account. Further, the broker will usually have to approve an account to trade on margins before they can enter into contracts.
+Trading in commodity [[futures]](https://www.investopedia.com/terms/f/futures.asp) contracts can be very risky for the inexperienced. The high degree of leverage used with commodity futures can amplify gains, but losses can be amplified as well. If a futures contract position is losing money, the broker can initiate a [[margin call]](https://www.investopedia.com/terms/m/margincall.asp), which is a demand for additional funds to shore up the account. Further, the broker will usually have to approve an account to trade on margins before they can enter into contracts.
 
 ## Hedging with Commodity Futures Contracts
 
-As mentioned earlier, most speculation futures cash settle. Another reason to enter the futures market, however, is to [hedge](https://www.investopedia.com/terms/h/hedge.asp) the price of the commodity. Businesses use future hedges to lock in prices of the commodities they sell or used in production.
+As mentioned earlier, most speculation futures cash settle. Another reason to enter the futures market, however, is to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) the price of the commodity. Businesses use future hedges to lock in prices of the commodities they sell or used in production.
 
 Commodity futures used by companies give a hedge to the risk of adverse price movements. The goal of hedging is to prevent losses from potentially unfavorable price changes rather than to speculate. Many companies that hedge use or producing the underlying asset of a futures contract. Examples of commodities hedging use include farmers, oil producers, livestock breeders, manufacturers, and many others.
 

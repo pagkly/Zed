@@ -36,7 +36,7 @@ For example, a cosmetic company that's already selling a high-priced product lin
 
 Companies add new items to their product lines, sometimes referred to as a product-line extension, to introduce brands to new customers. Consumers who have no interest in a company's sporting good products, for example, might be more interested in buying its product line of energy bars or sports beverages. Extending product lines allows companies to maximize their reach.
 
-The way that companies use product lines is clearly evident in the [auto industry](https://www.investopedia.com/ask/answers/041615/what-automotive-sector.asp). Auto manufacturers famously produce various product lines of vehicles to reach the widest possible range of consumers.
+The way that companies use product lines is clearly evident in the [[auto industry]](https://www.investopedia.com/ask/answers/041615/what-automotive-sector.asp). Auto manufacturers famously produce various product lines of vehicles to reach the widest possible range of consumers.
 
 For this reason, they produce lines of economy vehicles, environmentally-friendly vehicles, and luxury vehicles all under their leading brands. Some are marketed to families, some to individuals, and others to the young.
 
@@ -44,7 +44,7 @@ Expanding product lines enables a company to target consumers who are either alr
 
 ## Special Considerations
 
-Product lines allow companies to reach regions and socioeconomic groups, sometimes even [worldwide](https://www.investopedia.com/ask/answers/060415/how-much-global-beverage-industry-controlled-coca-cola-and-pepsi.asp). In some cases, such as the cosmetic industry, companies also launch product lines under their best-selling brands to capture sales from consumers of various ethnic or age groups. Multinational corporations, such as restaurants, often launch product lines specifically for the countries in which they operate, as is the case with fast food restaurants operating in Asia.
+Product lines allow companies to reach regions and socioeconomic groups, sometimes even [[worldwide]](https://www.investopedia.com/ask/answers/060415/how-much-global-beverage-industry-controlled-coca-cola-and-pepsi.asp). In some cases, such as the cosmetic industry, companies also launch product lines under their best-selling brands to capture sales from consumers of various ethnic or age groups. Multinational corporations, such as restaurants, often launch product lines specifically for the countries in which they operate, as is the case with fast food restaurants operating in Asia.
 
 ## Examples of Product Lines
 

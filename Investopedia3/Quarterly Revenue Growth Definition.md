@@ -16,7 +16,7 @@ author: James Chen
 Quarterly Revenue Growth Definition
 ## What Is Quarterly Revenue Growth?
 
-Quarterly revenue growth is an increase in a company's sales in one quarter compared to sales of a different quarter. The current quarter's sales figure can be compared on a year-over-year basis (e.g., 3Q sales of Year 1 compared with 3Q sales of Year 2) or sequentially (3Q sales of Year 1 compared with 4Q sales of Year 1). This gives [analysts](https://www.investopedia.com/terms/a/analyst.asp), investors, and additional stakeholders an idea of how much a company's sales are increasing over time.
+Quarterly revenue growth is an increase in a company's sales in one quarter compared to sales of a different quarter. The current quarter's sales figure can be compared on a year-over-year basis (e.g., 3Q sales of Year 1 compared with 3Q sales of Year 2) or sequentially (3Q sales of Year 1 compared with 4Q sales of Year 1). This gives [[analysts]](https://www.investopedia.com/terms/a/analyst.asp), investors, and additional stakeholders an idea of how much a company's sales are increasing over time.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ Quarterly revenue growth is an increase in a company's sales in one quarter comp
 
 ## Understanding Quarterly Revenue Growth
 
-When looking at a company's quarterly or annual financials, it is not enough to just look at the revenue for the current period. When investing in a company, an investor wants to see it grow or improve over time. Comparing a company's financials from one period to another gives a clear picture of its revenue [growth rate](https://www.investopedia.com/terms/g/growthrates.asp) and can help investors identify the catalyst for such growth.
+When looking at a company's quarterly or annual financials, it is not enough to just look at the revenue for the current period. When investing in a company, an investor wants to see it grow or improve over time. Comparing a company's financials from one period to another gives a clear picture of its revenue [[growth rate]](https://www.investopedia.com/terms/g/growthrates.asp) and can help investors identify the catalyst for such growth.
 
 For example, Exxon Mobil generated $66.2 billion in revenue for the three months ended September 30, 2017, and $58.7 billion for the three months ended September 30, 2016. Therefore, the company saw quarterly revenue growth of 12.78%. Over time, if this rate continues, it will be an excellent investment. Zooming out and calculating quarterly growth rates for a multi-year period can provide even more insight than simply a six- or 12-month period.
 
 ## Limitations of Quarterly Revenue Growth
 
-As an investor, there are certain limitations with focusing too much on quarterly revenue growth. For example, the time between quarters is short. In any given multi-quarter period, the company’s results could change drastically with [business cycles](https://www.investopedia.com/terms/b/businesscycle.asp), economic shocks, management changes, or other internal disruptions to a company’s supply chain or operations.
+As an investor, there are certain limitations with focusing too much on quarterly revenue growth. For example, the time between quarters is short. In any given multi-quarter period, the company’s results could change drastically with [[business cycles]](https://www.investopedia.com/terms/b/businesscycle.asp), economic shocks, management changes, or other internal disruptions to a company’s supply chain or operations.
 
 While strong quarterly revenue growth is one metric for success, it’s important to look at several quarters and the consistency of growth over time. If growth is simply a two- or three-quarter phenomenon, it does not necessarily bode well for a longer-term investment.
 

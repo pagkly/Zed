@@ -16,7 +16,7 @@ author: Adam Hayes
 Zacks Lifecycle Indexes Definition
 ## What Are Zacks Lifecycle Indices?
 
-Zacks Lifecycle Indices are a series of indexes developed by [Zacks Investment Research, Inc](https://www.investopedia.com/terms/z/zacks-investment-research.asp)., that provide a benchmark for the lifecycle allocation of various [target-date funds](https://www.investopedia.com/terms/t/target-date_fund.asp), with a different index for each target date.
+Zacks Lifecycle Indices are a series of indexes developed by [[Zacks Investment Research, Inc]](https://www.investopedia.com/terms/z/zacks-investment-research.asp)., that provide a benchmark for the lifecycle allocation of various [[target-date funds]](https://www.investopedia.com/terms/t/target-date_fund.asp), with a different index for each target date.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Zacks Lifecycle Indices are a series of indexes developed by [Zacks Investment R
 
 ## Understanding Zacks Lifecycle Indices
 
-Zacks Lifecycle Indices provide comparative benchmarks for [lifecycle](https://www.investopedia.com/articles/mutualfund/05/051005.asp) or target-date funds that have become popular with investors saving for retirement, especially those without the knowledge or interest to be actively involved in the management of their investments. As the target date approaches, the asset allocation, or [glide path](https://www.investopedia.com/terms/g/glide-path.asp), gradually becomes more conservative.
+Zacks Lifecycle Indices provide comparative benchmarks for [[lifecycle]](https://www.investopedia.com/articles/mutualfund/05/051005.asp) or target-date funds that have become popular with investors saving for retirement, especially those without the knowledge or interest to be actively involved in the management of their investments. As the target date approaches, the asset allocation, or [[glide path]](https://www.investopedia.com/terms/g/glide-path.asp), gradually becomes more conservative.
 
 Zacks, a provider of proprietary research on securities and packaged investments, launched its lifecycle indexes in 2007. It uses proprietary selection rules to identify stocks and bonds with risk/return profiles consistent with general market benchmarks. At launch, the five Zacks indices consisted of different combinations of U.S. stocks, international developed markets stocks and U.S. bonds for funds with target dates of “at retirement” as well as 2010, 2020, 2030 and 2040.
 

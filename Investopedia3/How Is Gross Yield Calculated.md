@@ -22,7 +22,7 @@ The gross yield of an investment is its profit before taxes and expenses are ded
 
 Gross yield is a measurement used for many investments including real estate, fixed-income investments, and mutual fund investments. But it is only one way to measure the return on an investment.
 
-For example, a stock that pays $3 in annual dividends and is currently trading at $60 a share has a gross (dividend) yield of 5.0%. If there is a withholding tax of 10% on the dividend payments, the net [dividend yield](https://www.investopedia.com/terms/d/dividendyield.asp) would be 4.5%.
+For example, a stock that pays $3 in annual dividends and is currently trading at $60 a share has a gross (dividend) yield of 5.0%. If there is a withholding tax of 10% on the dividend payments, the net [[dividend yield]](https://www.investopedia.com/terms/d/dividendyield.asp) would be 4.5%.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ And, mutual fund investors need to carefully watch the difference between the gr
 
 ### Gross Yield, Bond Yields, and Mutual Fund Yields
 
-Common [bond yield](https://www.investopedia.com/terms/b/bond-yield.asp) terms include nominal yield, current yield, and yield to maturity.
+Common [[bond yield]](https://www.investopedia.com/terms/b/bond-yield.asp) terms include nominal yield, current yield, and yield to maturity.
 
 -   Nominal yield is the coupon rate on a bond divided by its par value. It is the interest rate that a bond issuer promises to pay bond purchasers. The nominal rate is fixed and applies for the entire life of the bond. It may also be called the nominal rate, coupon yield, or coupon rate.
 -   The current yield of a bond equals its annual earnings (or dividends) divided by its current market price. Current yield represents the return an investor would expect if the owner purchased the bond and held it for one full year.

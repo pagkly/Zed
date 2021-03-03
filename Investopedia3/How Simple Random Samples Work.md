@@ -18,13 +18,13 @@ How Simple Random Samples Work
 
 A simple random sample is a subset of a statistical population in which each member of the subset has an equal probability of being chosen. A simple random sample is meant to be an unbiased representation of a group.
 
-An example of a simple random sample would be the names of 25 employees being chosen out of a hat from a company of 250 employees. In this case, the [population](https://www.investopedia.com/terms/p/population.asp) is all 250 employees, and the sample is random because each employee has an equal chance of being chosen. Random sampling is used in science to conduct randomized control tests or for blinded experiments.
+An example of a simple random sample would be the names of 25 employees being chosen out of a hat from a company of 250 employees. In this case, the [[population]](https://www.investopedia.com/terms/p/population.asp) is all 250 employees, and the sample is random because each employee has an equal chance of being chosen. Random sampling is used in science to conduct randomized control tests or for blinded experiments.
 
 No easier method exists to extract a research sample from a larger population than simple random sampling. Selecting subjects completely at random from the larger population also yields a sample that is representative of the group being studied.
 
 ## Understanding Simple Random Sample
 
-Researchers can create a [simple random sample](https://www.investopedia.com/ask/answers/042815/what-are-disadvantages-using-simple-random-sample-approximate-larger-population.asp) using a couple of methods. With a lottery method, each member of the population is assigned a number, after which numbers are selected at random.
+Researchers can create a [[simple random sample]](https://www.investopedia.com/ask/answers/042815/what-are-disadvantages-using-simple-random-sample-approximate-larger-population.asp) using a couple of methods. With a lottery method, each member of the population is assigned a number, after which numbers are selected at random.
 
 The example in which the names of 25 employees out of 250 are chosen out of a hat is an example of the lottery method at work. Each of the 250 employees would be assigned a number between 1 and 250, after which 25 of those numbers would be chosen at random.
 
@@ -46,7 +46,7 @@ The same is true regardless of subject matter. A survey on the percentage of the
 
 ## Simple Random Versus Stratified Random Sample
 
-Simple random samples and stratified random samples are [both statistical measurement tools](https://www.investopedia.com/ask/answers/042415/what-difference-between-simple-random-sample-and-stratified-random-sample.asp). A simple random sample is used to represent the entire data population. A stratified random sample divides the population into smaller groups, or strata, based on shared characteristics.
+Simple random samples and stratified random samples are [[both statistical measurement tools]](https://www.investopedia.com/ask/answers/042415/what-difference-between-simple-random-sample-and-stratified-random-sample.asp). A simple random sample is used to represent the entire data population. A stratified random sample divides the population into smaller groups, or strata, based on shared characteristics.
 
 Unlike simple random samples, stratified random samples are used with populations that can be easily broken into different subgroups or subsets. These groups are based on certain criteria, then elements from each are randomly chosen in proportion to the group's size versus the population.
 
@@ -54,7 +54,7 @@ This method of sampling means there will be selections from each different group
 
 ## Advantages of Simple Random Samples
 
-Ease of use represents the biggest advantage of [simple random sampling](https://www.investopedia.com/ask/answers/042815/what-are-disadvantages-using-simple-random-sample-approximate-larger-population.asp). Unlike more complicated sampling methods, such as stratified random sampling and probability sampling, no need exists to divide the population into sub-populations or take any other additional steps before selecting members of the population at random.
+Ease of use represents the biggest advantage of [[simple random sampling]](https://www.investopedia.com/ask/answers/042815/what-are-disadvantages-using-simple-random-sample-approximate-larger-population.asp). Unlike more complicated sampling methods, such as stratified random sampling and probability sampling, no need exists to divide the population into sub-populations or take any other additional steps before selecting members of the population at random.
 
 A simple random sample is meant to be an unbiased representation of a group. It is considered a fair way to select a sample from a larger population since every member of the population has an equal chance of getting selected.
 
@@ -62,6 +62,6 @@ Although simple random sampling is intended to be an unbiased approach to survey
 
 ## Disadvantages of Simple Random Samples
 
-A [sampling error](https://www.investopedia.com/terms/s/samplingerror.asp) can occur with a simple random sample if the sample does not end up accurately reflecting the population it is supposed to represent. For example, in our simple random sample of 25 employees, it would be possible to draw 25 men even if the population consisted of 125 women and 125 men.
+A [[sampling error]](https://www.investopedia.com/terms/s/samplingerror.asp) can occur with a simple random sample if the sample does not end up accurately reflecting the population it is supposed to represent. For example, in our simple random sample of 25 employees, it would be possible to draw 25 men even if the population consisted of 125 women and 125 men.
 
-For this reason, simple random sampling is more commonly used when the researcher knows little about the population. If the researcher knew more, it would be better to use a different sampling technique, such as [stratified random sampling](https://www.investopedia.com/terms/stratified_random_sampling.asp), which helps to account for the differences within the population, such as age, race or gender. Other disadvantages include the fact that for sampling from large populations, the process can be time-consuming and costly compared to other methods.
+For this reason, simple random sampling is more commonly used when the researcher knows little about the population. If the researcher knew more, it would be better to use a different sampling technique, such as [[stratified random sampling]](https://www.investopedia.com/terms/stratified_random_sampling.asp), which helps to account for the differences within the population, such as age, race or gender. Other disadvantages include the fact that for sampling from large populations, the process can be time-consuming and costly compared to other methods.

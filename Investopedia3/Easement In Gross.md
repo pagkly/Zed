@@ -16,7 +16,7 @@ author: Will Kenton
 Easement In Gross
 ## What is an Easement In Gross
 
-An easement in gross is an [easement](https://www.investopedia.com/terms/e/easement.asp) that attaches a particular right to an individual or entity rather than to the property itself. The easement in gross is often considered irrevocable for the life of the individual, but it can be rendered void if the individual [sells](https://www.investopedia.com/terms/s/sell.asp) the property upon which the easement request was based.
+An easement in gross is an [[easement]](https://www.investopedia.com/terms/e/easement.asp) that attaches a particular right to an individual or entity rather than to the property itself. The easement in gross is often considered irrevocable for the life of the individual, but it can be rendered void if the individual [[sells]](https://www.investopedia.com/terms/s/sell.asp) the property upon which the easement request was based.
 
 ## BREAKING DOWN Easement In Gross
 
@@ -34,4 +34,4 @@ Easements grant specific rights or privileges to someone other than the property
 
 For example, if a utility company has an easement, to run necessary cabling, the property owner may not be able to build certain structures on the land included in the agreement. This can include restricting the addition of a swimming pool, a driveway or another permanent structure that may interfere with the company’s ability to access the land specified.
 
-Some easements, especially those given to utility companies, carry with them significant interest and can ultimately be assigned to other parties. If a piece of [real estate](https://www.investopedia.com/terms/r/realestate.asp) is purchased without the [seller](https://www.investopedia.com/terms/s/seller.asp) disclosing the nature of an easement, the buyer can seek legal remedies if the easement reduces the value of the property.
+Some easements, especially those given to utility companies, carry with them significant interest and can ultimately be assigned to other parties. If a piece of [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) is purchased without the [[seller]](https://www.investopedia.com/terms/s/seller.asp) disclosing the nature of an easement, the buyer can seek legal remedies if the easement reduces the value of the property.

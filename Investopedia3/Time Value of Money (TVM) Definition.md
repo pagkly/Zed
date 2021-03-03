@@ -16,7 +16,7 @@ author: Jason Fernando
 Time Value of Money (TVM) Definition
 ## What Is the Time Value of Money (TVM)?
 
-The [time value](https://www.investopedia.com/terms/t/timevalue.asp) of money (TVM) is the concept that money you have now is worth more than the identical sum in the future due to its potential [earning capacity](https://www.investopedia.com/terms/e/earning-potential.asp). This core principle of finance holds that provided money can earn interest, any amount of money is worth more the sooner it is received. TVM is also sometimes referred to as present discounted value.
+The [[time value]](https://www.investopedia.com/terms/t/timevalue.asp) of money (TVM) is the concept that money you have now is worth more than the identical sum in the future due to its potential [[earning capacity]](https://www.investopedia.com/terms/e/earning-potential.asp). This core principle of finance holds that provided money can earn interest, any amount of money is worth more the sooner it is received. TVM is also sometimes referred to as present discounted value.
 
 #### Understanding The Time Value Of Money
 
@@ -31,11 +31,11 @@ The time value of money draws from the idea that rational investors prefer to re
 -   The formula for computing time value of money considers the payment now, the future value, the interest rate, and the time frame.
 -   The number of compounding periods during each time frame is an important determinant in the time value of money formula as well.
 
-Further illustrating the rational investor's preference, assume you have the option to choose between receiving $10,000 now versus $10,000 in two years. It's reasonable to assume most people would choose the first option. Despite the equal value at the time of disbursement, receiving the $10,000 today has more value and [utility](https://www.investopedia.com/terms/u/utility.asp) to the beneficiary than receiving it in the future due to the opportunity costs associated with the wait. Such opportunity costs could include the potential gain on interest were that money received today and held in a savings account for two years.
+Further illustrating the rational investor's preference, assume you have the option to choose between receiving $10,000 now versus $10,000 in two years. It's reasonable to assume most people would choose the first option. Despite the equal value at the time of disbursement, receiving the $10,000 today has more value and [[utility]](https://www.investopedia.com/terms/u/utility.asp) to the beneficiary than receiving it in the future due to the opportunity costs associated with the wait. Such opportunity costs could include the potential gain on interest were that money received today and held in a savings account for two years.
 
 ## Time Value of Money Formula
 
-Depending on the exact situation in question, the time value of money formula may change slightly. For example, in the case of annuity or [perpetuity](https://www.investopedia.com/terms/p/perpetuity.asp) payments, the generalized formula has additional or less factors. But in general, the most fundamental TVM formula takes into account the following variables:
+Depending on the exact situation in question, the time value of money formula may change slightly. For example, in the case of annuity or [[perpetuity]](https://www.investopedia.com/terms/p/perpetuity.asp) payments, the generalized formula has additional or less factors. But in general, the most fundamental TVM formula takes into account the following variables:
 
 -   FV = Future value of money
 -   PV = Present value of money
@@ -71,12 +71,12 @@ This shows TVM depends not only on interest rate and time horizon, but also on 
 
 ### What is the Time Value of Money?
 
-The time value of money is the idea that, all else being equal, money is more valuable when it is received closer to the present. The key to understanding the time value of money is the concept of [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp). To illustrate, consider the fact that, if an investor receives money today, they can invest that money and earn a positive return. If, on the other hand, they receive that money one year in the future, they effectively lose the positive return they could have otherwise earned.
+The time value of money is the idea that, all else being equal, money is more valuable when it is received closer to the present. The key to understanding the time value of money is the concept of [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp). To illustrate, consider the fact that, if an investor receives money today, they can invest that money and earn a positive return. If, on the other hand, they receive that money one year in the future, they effectively lose the positive return they could have otherwise earned.
 
 ### Why is the Time Value of Money important?
 
-Time value of money is very important because it can help guide investment decisions. For instance, suppose an investor can choose between two projects: Project A and Project B. Both projects have identical descriptions except that Project A promises a $1 million cash payout in year 1, whereas Project B offers a $1 million cash payout in year 5. If the investor did not understand the time value of money, they might believe that these two projects are equally attractive. In fact, however, time of money dictates that Project A is more attractive than Project B because its $1 million payout has a higher [present value](https://www.investopedia.com/terms/p/presentvalue.asp).
+Time value of money is very important because it can help guide investment decisions. For instance, suppose an investor can choose between two projects: Project A and Project B. Both projects have identical descriptions except that Project A promises a $1 million cash payout in year 1, whereas Project B offers a $1 million cash payout in year 5. If the investor did not understand the time value of money, they might believe that these two projects are equally attractive. In fact, however, time of money dictates that Project A is more attractive than Project B because its $1 million payout has a higher [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp).
 
 ### How is the Time Value of Money used in finance?
 
-Time value of money is the central concept underlying [discounted cashflow analysis (DCF)](https://www.investopedia.com/terms/d/dcf.asp), which is one of the most popular and influential methods for valuing investment opportunities. It is also an integral part of financial planning and risk management activities, such as in the case of pension fund managers who need to ensure that their account holders will have adequate funds to finance their retirement. Simply put, it would be hard to find a single significant area of finance that is not influenced in some way by the time value of money.
+Time value of money is the central concept underlying [[discounted cashflow analysis (DCF)]](https://www.investopedia.com/terms/d/dcf.asp), which is one of the most popular and influential methods for valuing investment opportunities. It is also an integral part of financial planning and risk management activities, such as in the case of pension fund managers who need to ensure that their account holders will have adequate funds to finance their retirement. Simply put, it would be hard to find a single significant area of finance that is not influenced in some way by the time value of money.

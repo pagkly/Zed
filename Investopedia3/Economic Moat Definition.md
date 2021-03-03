@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Economic Moat Definition
 ## What is an Economic Moat?
 
-Conceptualized and named by [Warren Buffett](https://www.investopedia.com/articles/01/071801.asp), an economic moat is a distinct advantage a company has over its competitors which allows it to protect its market share and profitability. It is often an advantage that is difficult to mimic or duplicate (brand identity, patents) and thus creates an effective barrier against competition from other firms.
+Conceptualized and named by [[Warren Buffett]](https://www.investopedia.com/articles/01/071801.asp), an economic moat is a distinct advantage a company has over its competitors which allows it to protect its market share and profitability. It is often an advantage that is difficult to mimic or duplicate (brand identity, patents) and thus creates an effective barrier against competition from other firms.
 
 #### Moat: My Favorite Financial Term
 
@@ -26,7 +26,7 @@ Every successful company understands that the main threat to their continued suc
 
 This is important not only to the company's bottom line but also to potential investors seeking to maximize their portfolios by including companies that will maintain their performance edge. By establishing a defensible competitive advantage a company can fashion a wide enough economic moat that effectively curbs competition within their industry. Essentially, the wider the economic moat, the larger and more sustainable the competitive advantage of a firm.
 
-An intangible asset, such as a company crafting a well-known brand name (Nike), [pricing power](https://www.investopedia.com/terms/p/pricingpower.asp) edge (Apple), cost advantages (Walmart), making it costly for customers to switch products (cell phone companies), [efficient scale](https://www.investopedia.com/terms/m/minimum_efficiency_scale.asp), and [network effects](https://www.investopedia.com/terms/n/network-effect.asp) are all advantages that businesses can utilize to create a [wide economic moat](https://www.investopedia.com/terms/w/wide-economic-moat.asp).
+An intangible asset, such as a company crafting a well-known brand name (Nike), [[pricing power]](https://www.investopedia.com/terms/p/pricingpower.asp) edge (Apple), cost advantages (Walmart), making it costly for customers to switch products (cell phone companies), [[efficient scale]](https://www.investopedia.com/terms/m/minimum_efficiency_scale.asp), and [[network effects]](https://www.investopedia.com/terms/n/network-effect.asp) are all advantages that businesses can utilize to create a [[wide economic moat]](https://www.investopedia.com/terms/w/wide-economic-moat.asp).
 
 The most obvious financial characteristics that companies with a wide economic moat have is that they usually generate large amounts of free cash flow and have a track record of strong returns.
 
@@ -42,7 +42,7 @@ A company that is able to maintain low operating expenses in relation to its sal
 
 Intangible assets refer to the patents, brands and licenses that allow a company to protect its production process and charge premium prices. While brands are typically derived from superior product offerings and marketing, patents are obtained as a result of companies' filings with governments to protect know-hows for a specific period of time, typically 20 years. Pharmaceutical companies earn high profits due to patented drugs after spending billions on research and development.
 
-Efficient scale arises when a particular market is best served by a limited number of companies, giving them near [monopoly](https://www.investopedia.com/terms/m/monopoly.asp) statuses. Utility firms are examples of companies with efficient scale that is necessary to serve electricity and water to their customers in a single geographic area. Building a second utility company in the same area would be too costly and inefficient.
+Efficient scale arises when a particular market is best served by a limited number of companies, giving them near [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp) statuses. Utility firms are examples of companies with efficient scale that is necessary to serve electricity and water to their customers in a single geographic area. Building a second utility company in the same area would be too costly and inefficient.
 
 Switching costs is another type of economic moat, which make it very time-consuming and expensive for consumers to switch products or brands. Autodesk Inc. offers various software solutions for engineers and designers that are very difficult to learn. Once an Autodesk customer starts using its software, he is unlikely to switch, allowing Autodesk to charge premium prices for its products.
 

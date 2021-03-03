@@ -17,13 +17,13 @@ Maya Dollarhide
 Chapter 11
 ## What Is Chapter 11?
 
-Chapter 11 is a form of [bankruptcy](https://www.investopedia.com/video/play/bankruptcy/) that involves a [reorganization](https://www.investopedia.com/terms/r/reorganization.asp) of a debtor’s business affairs, debts, and assets, and for that reason is known as "reorganization" bankruptcy.1 Named after the U.S. bankruptcy code 11, [corporations generally file Chapter 11](https://www.investopedia.com/articles/01/120501.asp) if they require time to restructure their debts.2 This version of bankruptcy gives the debtor a fresh start. However, the terms are subject to the debtor’s fulfillment of its obligations under the plan of reorganization.
+Chapter 11 is a form of [[bankruptcy]](https://www.investopedia.com/video/play/bankruptcy/) that involves a [[reorganization]](https://www.investopedia.com/terms/r/reorganization.asp) of a debtor’s business affairs, debts, and assets, and for that reason is known as "reorganization" bankruptcy.1 Named after the U.S. bankruptcy code 11, [[corporations generally file Chapter 11]](https://www.investopedia.com/articles/01/120501.asp) if they require time to restructure their debts.2 This version of bankruptcy gives the debtor a fresh start. However, the terms are subject to the debtor’s fulfillment of its obligations under the plan of reorganization.
 
 Chapter 11 bankruptcy is the most complex of all bankruptcy cases. It is also usually the most expensive form of a bankruptcy proceeding. For these reasons, a company must consider Chapter 11 reorganization only after careful analysis and exploration of all other possible alternatives.
 
 ## How Chapter 11 Works
 
-During a Chapter 11 proceeding, the court will help a business restructure its debts and obligations. In most cases the firm remains open and operating. Many large U.S. companies file for Chapter 11 bankruptcy and stay afloat. Such businesses include automobile giant General Motors, the airline United Airlines, retail outlet K-mart, and thousands of other corporations of all sizes. Corporations, partnerships, and limited liability companies (LLCs) usually file Chapter 11, but in rare cases [individuals with a lot of debt who do not qualify for Chapter 7 or 13 may be eligible for Chapter 11](https://www.investopedia.com/ask/answers/061815/what-are-differences-between-chapter-11-and-chapter-13-bankruptcy.asp).23 However, the process is not a speedy one.
+During a Chapter 11 proceeding, the court will help a business restructure its debts and obligations. In most cases the firm remains open and operating. Many large U.S. companies file for Chapter 11 bankruptcy and stay afloat. Such businesses include automobile giant General Motors, the airline United Airlines, retail outlet K-mart, and thousands of other corporations of all sizes. Corporations, partnerships, and limited liability companies (LLCs) usually file Chapter 11, but in rare cases [[individuals with a lot of debt who do not qualify for Chapter 7 or 13 may be eligible for Chapter 11]](https://www.investopedia.com/ask/answers/061815/what-are-differences-between-chapter-11-and-chapter-13-bankruptcy.asp).23 However, the process is not a speedy one.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ The business is not able to make some decisions without the permission of the co
 
 Because Chapter 11 is the most expensive and complex form of bankruptcy, most companies explore all alternative routes before filing for one.
 
-In Chapter 11 the individual or business filing bankruptcy has the first chance to propose a reorganization plan. These plans may include downsizing of business operations to reduce expenses, as well as renegotiating of debts. In some cases plans involve [liquidating](https://www.investopedia.com/terms/l/liquidate.asp) all assets to repay creditors. If the chosen path is feasible and fair, the courts accept it, and the process moves forward.6
+In Chapter 11 the individual or business filing bankruptcy has the first chance to propose a reorganization plan. These plans may include downsizing of business operations to reduce expenses, as well as renegotiating of debts. In some cases plans involve [[liquidating]](https://www.investopedia.com/terms/l/liquidate.asp) all assets to repay creditors. If the chosen path is feasible and fair, the courts accept it, and the process moves forward.6
 
 ## An Example of Chapter 11
 

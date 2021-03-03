@@ -16,17 +16,17 @@ author: James Chen
 Modified Duration
 ## What Is Modified Duration?
 
-Modified duration is a formula that expresses the measurable change in the value of a security in response to a change in interest rates. Modified duration follows the concept that interest rates and bond prices move in opposite directions. This formula is used to determine the effect that a 100-basis-point (1%) change in [interest rates](https://www.investopedia.com/terms/i/interestrate.asp) will have on the price of a bond.
+Modified duration is a formula that expresses the measurable change in the value of a security in response to a change in interest rates. Modified duration follows the concept that interest rates and bond prices move in opposite directions. This formula is used to determine the effect that a 100-basis-point (1%) change in [[interest rates]](https://www.investopedia.com/terms/i/interestrate.asp) will have on the price of a bond.
 
 ## Formula and Calculation of Modified Duration
 
 Modified Duration\=Macauley Duration1+YTMnwhere:Macauley Duration\=weighted average term tomaturity of the cash flows from a bondYTM\=yield to maturityn\=number of coupon periods per year\\begin{aligned} &\\text{Modified Duration} = \\frac{ \\text{Macauley Duration} }{ 1 + \\frac{ \\text{YTM} }{ n } } \\\\ &\\textbf{where:} \\\\ &\\text{Macauley Duration} = \\text{weighted average term to}\\\\ &\\text{maturity of the cash flows from a bond} \\\\ &\\text{YTM} = \\text{yield to maturity} \\\\ &n = \\text{number of coupon periods per year} \\\\ \\end{aligned}
 
-Modified duration is an [extension](https://www.investopedia.com/ask/answers/051415/what-difference-between-macaulay-duration-and-modified-duration.asp) of the [Macaulay duration](https://www.investopedia.com/terms/m/macaulayduration.asp), which allows investors to measure the sensitivity of a bond to changes in interest rates. Macaulay duration calculates the weighted average time before a bondholder receives the bond's cash flows. In order to calculate modified duration, the Macaulay duration must first be calculated. The formula for the Macaulay duration is:
+Modified duration is an [[extension]](https://www.investopedia.com/ask/answers/051415/what-difference-between-macaulay-duration-and-modified-duration.asp) of the [[Macaulay duration]](https://www.investopedia.com/terms/m/macaulayduration.asp), which allows investors to measure the sensitivity of a bond to changes in interest rates. Macaulay duration calculates the weighted average time before a bondholder receives the bond's cash flows. In order to calculate modified duration, the Macaulay duration must first be calculated. The formula for the Macaulay duration is:
 
 Macauley Duration\=∑t\=1n(PV×CF)×TMarket Price of Bondwhere:PV×CF\=present value of coupon at period tT\=time to each cash flow in yearsn\=number of coupon periods per year\\begin{aligned} &\\text{Macauley Duration} = \\frac{ \\sum\_{t=1}^{n} ( \\text{PV} \\times \\text{CF} ) \\times \\text{T} }{ \\text{Market Price of Bond} } \\\\ &\\textbf{where:} \\\\ &\\text{PV} \\times \\text{CF} = \\text{present value of coupon at period } t \\\\ &\\text{T} = \\text{time to each cash flow in years} \\\\ &n = \\text{number of coupon periods per year} \\\\ \\end{aligned}
 
-Here, (PV) \* (CF) is the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of a coupon at period t and T is equal to the time to each cash flow in years. This calculation is performed and summed for the number of periods to maturity.
+Here, (PV) \* (CF) is the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of a coupon at period t and T is equal to the time to each cash flow in years. This calculation is performed and summed for the number of periods to maturity.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ Here, (PV) \* (CF) is the [present value](https://www.investopedia.com/terms/p/p
 
 ## What Modified Duration Can Tell You
 
-Modified duration measures the average cash-weighted [term to maturity](https://www.investopedia.com/terms/t/termtomaturity.asp) of a bond. It is a very important number for portfolio managers, [financial advisors](https://www.investopedia.com/terms/f/financial-advisor.asp), and clients to consider when selecting investments because—all other risk factors equal—bonds with higher durations have greater price [volatility](https://www.investopedia.com/terms/v/volatility.asp) than bonds with lower durations. There are many types of duration, and all components of a bond, such as its price, coupon, maturity date, and interest rates, are used to calculate duration.
+Modified duration measures the average cash-weighted [[term to maturity]](https://www.investopedia.com/terms/t/termtomaturity.asp) of a bond. It is a very important number for portfolio managers, [[financial advisors]](https://www.investopedia.com/terms/f/financial-advisor.asp), and clients to consider when selecting investments because—all other risk factors equal—bonds with higher durations have greater price [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) than bonds with lower durations. There are many types of duration, and all components of a bond, such as its price, coupon, maturity date, and interest rates, are used to calculate duration.
 
 Here are some principles of duration to keep in mind. First, as maturity increases, duration increases and the bond becomes more volatile. Second, as a bond's coupon increases, its duration decreases and the bond becomes less volatile. Third, as interest rates increase, duration decreases, and the bond's sensitivity to further interest rate increases goes down.
 

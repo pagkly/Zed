@@ -16,7 +16,7 @@ author: Will Kenton
 Understanding Population Statistics
 ## What Is Population?
 
-In [statistics](https://www.investopedia.com/terms/s/statistics.asp), a population is the entire pool from which a statistical [sample](https://www.investopedia.com/terms/s/sample.asp) is drawn. A population may refer to an entire group of people, objects, events, hospital visits, or measurements. A population can thus be said to be an aggregate observation of subjects grouped together by a common feature.
+In [[statistics]](https://www.investopedia.com/terms/s/statistics.asp), a population is the entire pool from which a statistical [[sample]](https://www.investopedia.com/terms/s/sample.asp) is drawn. A population may refer to an entire group of people, objects, events, hospital visits, or measurements. A population can thus be said to be an aggregate observation of subjects grouped together by a common feature.
 
 Unlike a sample, when carrying out statistical analysis on a population, there are no standard errors to report—that is, because such errors inform analysts using a sample how far their estimate may deviate from the true population value. But since you are working with the true population you already know the true value.
 
@@ -44,9 +44,9 @@ The information obtained from the statistical sample allows statisticians to dev
 
 ### Population Parameters
 
-A parameter is data based on an entire population. Statistics such as [averages](https://www.investopedia.com/terms/a/arithmeticmean.asp) and [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp), when taken from populations, are referred to as population parameters. The population mean and population standard deviation are represented by the Greek letters µ and σ, respectively.
+A parameter is data based on an entire population. Statistics such as [[averages]](https://www.investopedia.com/terms/a/arithmeticmean.asp) and [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp), when taken from populations, are referred to as population parameters. The population mean and population standard deviation are represented by the Greek letters µ and σ, respectively.
 
-The standard deviation is the variation in the population inferred from the variation in the sample. When the standard deviation is divided by the square root of the number of observations in the sample, the result is referred to as the [standard error of the mean](https://www.investopedia.com/terms/s/standard-error.asp).
+The standard deviation is the variation in the population inferred from the variation in the sample. When the standard deviation is divided by the square root of the number of observations in the sample, the result is referred to as the [[standard error of the mean]](https://www.investopedia.com/terms/s/standard-error.asp).
 
 While a parameter is a characteristic of a population, a statistic is a characteristic of a sample. Inferential statistics enables you to make an educated guess about a population parameter based on a statistic computed from a sample randomly drawn from that population.
 

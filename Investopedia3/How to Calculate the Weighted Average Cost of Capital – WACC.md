@@ -16,9 +16,9 @@ author: Marshall Hargrave
 How to Calculate the Weighted Average Cost of Capital – WACC
 ## What Is Weighted Average Cost of Capital – WACC?
 
-The weighted average cost of capital (WACC) is a calculation of a firm's [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp) in which each category of capital is proportionately [weighted](https://www.investopedia.com/terms/w/weighted.asp). All sources of capital, including common stock, preferred stock, bonds, and any other long-term debt, are included in a WACC calculation.
+The weighted average cost of capital (WACC) is a calculation of a firm's [[cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) in which each category of capital is proportionately [[weighted]](https://www.investopedia.com/terms/w/weighted.asp). All sources of capital, including common stock, preferred stock, bonds, and any other long-term debt, are included in a WACC calculation.
 
-A firm’s WACC increases as the beta and rate of return on equity increase because an [increase in WACC](https://www.investopedia.com/ask/answers/013015/what-does-high-weighted-average-cost-capital-wacc-signify.asp) denotes a decrease in valuation and an increase in risk.
+A firm’s WACC increases as the beta and rate of return on equity increase because an [[increase in WACC]](https://www.investopedia.com/ask/answers/013015/what-does-high-weighted-average-cost-capital-wacc-signify.asp) denotes a decrease in valuation and an increase in risk.
 
 #### Weighted Average Cost Of Capital (WACC)
 
@@ -29,7 +29,7 @@ WACC\=EV∗Re+DV∗Rd∗(1−Tc)where:Re = Cost of equityRd = Cost of de
 To calculate WACC the analyst will multiply the cost of each capital component by its proportional weight. The sum of these results, in turn, is multiplied by 1 minus the corporate tax rate. Apply the following values to the formula listed above:
 
 -   Re = cost of equity
--   Rd = [cost of debt](https://www.investopedia.com/terms/c/costofdebt.asp)
+-   Rd = [[cost of debt]](https://www.investopedia.com/terms/c/costofdebt.asp)
 -   E = market value of the firm's equity
 -   D = market value of the firm's debt
 -   V = E + D = total market value of the firm’s financing (equity and debt)
@@ -39,7 +39,7 @@ To calculate WACC the analyst will multiply the cost of each capital component b
 
 ## Calculating WACC in Excel
 
-The weighted average cost of capital (WACC) can be calculated in Excel. The biggest part is sourcing the correct data to plug into the model. See Investopedia’s notes on [how to calculate WACC in Excel](https://www.investopedia.com/ask/answers/030915/what-formula-calculating-weighted-average-cost-capital-wacc-excel.asp).
+The weighted average cost of capital (WACC) can be calculated in Excel. The biggest part is sourcing the correct data to plug into the model. See Investopedia’s notes on [[how to calculate WACC in Excel]](https://www.investopedia.com/ask/answers/030915/what-formula-calculating-weighted-average-cost-capital-wacc-excel.asp).
 
 ### Key Takeaways
 
@@ -54,7 +54,7 @@ The weighted average cost of capital (WACC) can be calculated in Excel. The bigg
 
 Since shareholders will expect to receive a certain return on their investments in a company, the equity holders' required rate of return is a cost from the company's perspective, because if the company fails to deliver this expected return, shareholders will simply sell off their shares, which leads to a decrease in share price and in the company’s value. The cost of equity, then, is essentially the amount that a company must spend in order to maintain a share price that will satisfy its investors.
 
-Calculating the [cost of debt](https://www.investopedia.com/terms/c/costofdebt.asp) (Rd), on the other hand, is a relatively straightforward process. To determine the cost of debt, you use the market rate that a company is currently paying on its debt. If the company is paying a rate other than the market rate, you can estimate an appropriate market rate and substitute it in your calculations instead.
+Calculating the [[cost of debt]](https://www.investopedia.com/terms/c/costofdebt.asp) (Rd), on the other hand, is a relatively straightforward process. To determine the cost of debt, you use the market rate that a company is currently paying on its debt. If the company is paying a rate other than the market rate, you can estimate an appropriate market rate and substitute it in your calculations instead.
 
 There are tax deductions available on interest paid, which are often to companies’ benefit. Because of this, the net cost of a company's debt is the amount of interest it is paying, minus the amount it has saved in taxes as a result of its tax-deductible interest payments. This is why the after-tax cost of debt is Rd (1 - corporate tax rate).
 
@@ -70,13 +70,13 @@ To help understand WACC, try to think of a company as a pool of money. Money ent
 
 ## Who Uses WACC?
 
-Securities analysts frequently use WACC when assessing the value of investments and when determining which ones to pursue. For example, in [discounted cash flow](https://www.investopedia.com/terms/d/dcf.asp) analysis, one may apply WACC as the discount rate for future cash flows in order to derive a business's net present value. WACC may also be used as a hurdle rate against which companies and investors can gauge [return on invested capital](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC) performance. WACC is also essential in order to perform economic value-added (EVA) calculations.
+Securities analysts frequently use WACC when assessing the value of investments and when determining which ones to pursue. For example, in [[discounted cash flow]](https://www.investopedia.com/terms/d/dcf.asp) analysis, one may apply WACC as the discount rate for future cash flows in order to derive a business's net present value. WACC may also be used as a hurdle rate against which companies and investors can gauge [[return on invested capital]](https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp) (ROIC) performance. WACC is also essential in order to perform economic value-added (EVA) calculations.
 
 Investors may often use WACC as an indicator of whether or not an investment is worth pursuing. Put simply, WACC is the minimum acceptable rate of return at which a company yields returns for its investors. To determine an investor’s personal returns on an investment in a company, simply subtract the WACC from the company’s returns percentage.
 
 ## WACC vs. Required Rate of Return – RRR
 
-The [required rate of return](https://www.investopedia.com/terms/r/requiredrateofreturn.asp) (RRR) is from the investor’s perspective, being the minimum rate an investor will accept for a project or investment. Meanwhile, the cost of capital is what the company expects to return on its securities. Learn more about [WACC versus the required rate of return](https://www.investopedia.com/ask/answers/020415/what-difference-between-cost-capital-and-required-return.asp).
+The [[required rate of return]](https://www.investopedia.com/terms/r/requiredrateofreturn.asp) (RRR) is from the investor’s perspective, being the minimum rate an investor will accept for a project or investment. Meanwhile, the cost of capital is what the company expects to return on its securities. Learn more about [[WACC versus the required rate of return]](https://www.investopedia.com/ask/answers/020415/what-difference-between-cost-capital-and-required-return.asp).
 
 ## Limitations of WACC
 
@@ -90,8 +90,8 @@ As a real-life example, consider Walmart (NYSE: WMT). The WACC of Walmart is 4.2
 
 As of the end of its most recent quarter (Oct. 31, 2018), its book value of debt was $50 billion. As of Feb. 5, 2019, its market cap (or equity value) is $276.7 billion. Thus, V is $326.7 billion, or $50 billion + $276.7 billion. Walmart finances operations with 85% equity (E / V, or $276.7 billion / $326.7 billion) and 15% debt (D / V, or $50 billion / $326.7 billion).
 
-To find the cost of equity (Re) one can use the [capital asset pricing model](https://www.investopedia.com/terms/c/capm.asp) (CAPM). This model uses a company’s beta, the risk-free rate and expected return of the market to determine the cost of equity. The formula is risk-free rate + beta \* (market return - risk-free rate). The 10-year Treasury rate can be used as the risk-free rate and the [expected market return](https://www.investopedia.com/ask/answers/062215/how-expected-market-return-determined-when-calculating-market-risk-premium.asp) is generally estimated to be 7%. Thus, Walmart’s cost of equity is 2.7% + 0.37 \* (7% - 2.7%), or 4.3%.
+To find the cost of equity (Re) one can use the [[capital asset pricing model]](https://www.investopedia.com/terms/c/capm.asp) (CAPM). This model uses a company’s beta, the risk-free rate and expected return of the market to determine the cost of equity. The formula is risk-free rate + beta \* (market return - risk-free rate). The 10-year Treasury rate can be used as the risk-free rate and the [[expected market return]](https://www.investopedia.com/ask/answers/062215/how-expected-market-return-determined-when-calculating-market-risk-premium.asp) is generally estimated to be 7%. Thus, Walmart’s cost of equity is 2.7% + 0.37 \* (7% - 2.7%), or 4.3%.
 
-The cost of debt is calculated by dividing the company’s interest expense by its debt load. In Walmart’s case, its recent fiscal year interest expense is $2.33 billion. Thus, its cost of debt is 4.7%, or $2.33 billion / $50 billion. The tax rate can be calculated by dividing the income tax expense by income before taxes. In Walmart’s case, it lays out the company’s tax rate in the [annual report](https://www.investopedia.com/video/play/what-annual-report/), said to be 30% for the last fiscal year.
+The cost of debt is calculated by dividing the company’s interest expense by its debt load. In Walmart’s case, its recent fiscal year interest expense is $2.33 billion. Thus, its cost of debt is 4.7%, or $2.33 billion / $50 billion. The tax rate can be calculated by dividing the income tax expense by income before taxes. In Walmart’s case, it lays out the company’s tax rate in the [[annual report]](https://www.investopedia.com/video/play/what-annual-report/), said to be 30% for the last fiscal year.
 
 Finally, we’re ready to calculate Walmart’s weighted average cost of capital (WACC). The WACC is 4.2%, with the calculation being 85% \* 4.3% + 15% \* 4.7% \* (1 - 30%).

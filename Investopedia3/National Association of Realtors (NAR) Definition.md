@@ -16,9 +16,9 @@ author: Julia Kagan
 National Association of Realtors (NAR) Definition
 ## What Is the National Association of Realtors (NAR)?
 
-The National Association of Realtors (NAR) is a national organization of [real estate](https://www.investopedia.com/terms/r/realestate.asp) brokers, known as [realtors](https://www.investopedia.com/terms/r/realtor.asp), created to promote the real estate profession and foster professional behavior in its members. The association has its own [code of ethics](https://www.investopedia.com/terms/c/code-of-ethics.asp) to which it requires its members to adhere.
+The National Association of Realtors (NAR) is a national organization of [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) brokers, known as [[realtors]](https://www.investopedia.com/terms/r/realtor.asp), created to promote the real estate profession and foster professional behavior in its members. The association has its own [[code of ethics]](https://www.investopedia.com/terms/c/code-of-ethics.asp) to which it requires its members to adhere.
 
-As of 2020, the NAR has over 1.38 million members worldwide, including 600,000 members in the United States. It has 54 state associations (including D.C., Guam, the U.S. Virgin Islands and Puerto Rico) as well as more than 1,400 national and international [affiliate](https://www.investopedia.com/terms/a/affiliate.asp) organizations.1
+As of 2020, the NAR has over 1.38 million members worldwide, including 600,000 members in the United States. It has 54 state associations (including D.C., Guam, the U.S. Virgin Islands and Puerto Rico) as well as more than 1,400 national and international [[affiliate]](https://www.investopedia.com/terms/a/affiliate.asp) organizations.1
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ As of 2020, the NAR has over 1.38 million members worldwide, including 600,000 m
 
 ## Understanding the National Association of Realtors
 
-The NAR's membership increased to just under 1.4 million as of year end 2019. It claims to be the largest trade association, comprising real estate brokers, salespeople, [property managers](https://www.investopedia.com/terms/p/property-manager.asp), [appraisers](https://www.investopedia.com/terms/a/appraiser.asp), counselors as well as others in the real estate industry. Members belong to one or more of the 1,300 local associations/boards and 54 state and territory associations of Realtors or to one of 87 cooperating associations in 66 countries.
+The NAR's membership increased to just under 1.4 million as of year end 2019. It claims to be the largest trade association, comprising real estate brokers, salespeople, [[property managers]](https://www.investopedia.com/terms/p/property-manager.asp), [[appraisers]](https://www.investopedia.com/terms/a/appraiser.asp), counselors as well as others in the real estate industry. Members belong to one or more of the 1,300 local associations/boards and 54 state and territory associations of Realtors or to one of 87 cooperating associations in 66 countries.
 
 The NAR was founded as the National Association of Real Estate Exchanges in May 1908, with 120 members, 19 Boards (local associations) and one state association. Its objective was to standardize real estate practices and to “unite the real estate men of America for the purpose of effectively exerting a combined influence upon matters affecting real estate interests.” The NAR Code of Ethics was adopted in 1913.
 
@@ -46,11 +46,11 @@ The use of the realtor trademark by agents is heavily regulated by the NAR which
 
 ## NAR Research Division
 
-There is a research division that collects and disseminates real estate data and conducts economic analysis. Delivery of this information takes place via [press releases](https://www.investopedia.com/terms/p/pressrelease.asp), reports, presentations, and daily blog posts about the overall economy and housing market.
+There is a research division that collects and disseminates real estate data and conducts economic analysis. Delivery of this information takes place via [[press releases]](https://www.investopedia.com/terms/p/pressrelease.asp), reports, presentations, and daily blog posts about the overall economy and housing market.
 
-Well-known national and regional housing statistics include existing home sales, [pending home sales index](https://www.investopedia.com/terms/p/pending-home-sales-index.asp) and the housing [affordability index](https://www.investopedia.com/terms/a/affordability-index.asp). The organization releases existing home sales monthly, providing national and regional price and volume statistics. The data is for the past 12 months along with annual totals going back three years. It is broken down into existing single-family homes, condos and co-ops. The first week of each month, the NAR releases the pending home sales index, considered a leading indicator for housing activity. The index measures signed real estate contracts for existing single-family homes, condos and co-ops. The housing affordability index measures whether a typical family earns enough income to qualify for a mortgage loan on an average home based on recent monthly price and income data.
+Well-known national and regional housing statistics include existing home sales, [[pending home sales index]](https://www.investopedia.com/terms/p/pending-home-sales-index.asp) and the housing [[affordability index]](https://www.investopedia.com/terms/a/affordability-index.asp). The organization releases existing home sales monthly, providing national and regional price and volume statistics. The data is for the past 12 months along with annual totals going back three years. It is broken down into existing single-family homes, condos and co-ops. The first week of each month, the NAR releases the pending home sales index, considered a leading indicator for housing activity. The index measures signed real estate contracts for existing single-family homes, condos and co-ops. The housing affordability index measures whether a typical family earns enough income to qualify for a mortgage loan on an average home based on recent monthly price and income data.
 
-The NAR also provides a host of [research reports](https://www.investopedia.com/terms/r/research-report.asp), including a monthly report on [foot traffic](https://www.investopedia.com/terms/f/foot-traffic.asp), which attempts to predict future sales trends. Others are local market reports, which analyze a host of data, and a confidence index.
+The NAR also provides a host of [[research reports]](https://www.investopedia.com/terms/r/research-report.asp), including a monthly report on [[foot traffic]](https://www.investopedia.com/terms/f/foot-traffic.asp), which attempts to predict future sales trends. Others are local market reports, which analyze a host of data, and a confidence index.
 
 ## Strategic Plan and Benefits
 

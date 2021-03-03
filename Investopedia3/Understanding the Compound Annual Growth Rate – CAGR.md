@@ -16,7 +16,7 @@ author: Jason Fernando
 Understanding the Compound Annual Growth Rate – CAGR
 ## What Is Compound Annual Growth Rate – CAGR?
 
-Compound annual growth rate (CAGR) is the [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each year of the investment’s lifespan.
+Compound annual growth rate (CAGR) is the [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each year of the investment’s lifespan.
 
 ## Formula and Calculation of CAGR
 
@@ -52,15 +52,15 @@ On the other hand, the compound annual growth rate smooths the investment’s pe
 
 CAGR\=($19,000$10,000)13−1\=23.86%CAGR=\\left(\\frac{\\$19,000}{\\$10,000}\\right )^{\\frac{1}{3}}-1=23.86\\%
 
-The compound annual growth rate of 23.86% over the three-year investment period can help an investor compare alternatives for their capital or make forecasts of future values. For example, imagine an investor is comparing the performance of two investments that are uncorrelated. In any given year during the period, one investment may be rising while the other falls. This could be the case when comparing high-yield [bonds](https://www.investopedia.com/terms/b/bond.asp) to [stocks](https://www.investopedia.com/terms/s/stock.asp), or a real estate investment to emerging markets. Using CAGR would smooth the annual return over the period so the two alternatives would be easier to compare.
+The compound annual growth rate of 23.86% over the three-year investment period can help an investor compare alternatives for their capital or make forecasts of future values. For example, imagine an investor is comparing the performance of two investments that are uncorrelated. In any given year during the period, one investment may be rising while the other falls. This could be the case when comparing high-yield [[bonds]](https://www.investopedia.com/terms/b/bond.asp) to [[stocks]](https://www.investopedia.com/terms/s/stock.asp), or a real estate investment to emerging markets. Using CAGR would smooth the annual return over the period so the two alternatives would be easier to compare.
 
 ## Additional CAGR Uses
 
-The compound annual growth rate can be used to calculate the average growth of a single investment. As we saw in our example above, due to market [volatility](https://www.investopedia.com/terms/v/volatility.asp), the year-to-year growth of an investment will likely appear erratic and uneven. For example, an investment may increase in value by 8% in one year, decrease in value by -2% the following year and increase in value by 5% in the next. CAGR helps smooth returns when growth rates are expected to be volatile and inconsistent.
+The compound annual growth rate can be used to calculate the average growth of a single investment. As we saw in our example above, due to market [[volatility]](https://www.investopedia.com/terms/v/volatility.asp), the year-to-year growth of an investment will likely appear erratic and uneven. For example, an investment may increase in value by 8% in one year, decrease in value by -2% the following year and increase in value by 5% in the next. CAGR helps smooth returns when growth rates are expected to be volatile and inconsistent.
 
 ### Compare Investments
 
-CAGR can be used to compare investments of different types with one another. For example, suppose in 2013 an investor placed $10,000 into an account for 5 years with a fixed annual [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) of 1% and another $10,000 into a stock [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp). The rate of return in the stock fund will be uneven over the next few years so a comparison between the two investments would be difficult.
+CAGR can be used to compare investments of different types with one another. For example, suppose in 2013 an investor placed $10,000 into an account for 5 years with a fixed annual [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) of 1% and another $10,000 into a stock [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp). The rate of return in the stock fund will be uneven over the next few years so a comparison between the two investments would be difficult.
 
 Assume that at the end of the five-year period, the savings account’s balance is $10,510.10 and, although the other investment has grown unevenly, the ending balance in the stock fund was $15,348.52. Using CAGR to compare the two investments can help an investor understand the difference in returns:
 
@@ -82,13 +82,13 @@ Comparing CAGRs of business activities across similar companies will help evalua
 
 ## Investor Use of CAGR
 
-Understanding the formula used to calculate CAGR is an introduction to many other ways investors evaluate past returns or estimate future profits. The formula can be manipulated algebraically into a formula to find the present value or future value of money, or to calculate a [hurdle rate](https://www.investopedia.com/terms/h/hurdlerate.asp) of return.
+Understanding the formula used to calculate CAGR is an introduction to many other ways investors evaluate past returns or estimate future profits. The formula can be manipulated algebraically into a formula to find the present value or future value of money, or to calculate a [[hurdle rate]](https://www.investopedia.com/terms/h/hurdlerate.asp) of return.
 
 For example, imagine that an investor knows that they need $50,000 for a child’s college education in 18 years and they have $15,000 to invest today. How much does the average rate of return need to be in order to reach that objective? The CAGR calculation can be used to find the answer to this question as follows:
 
 Required Return\=($50,000$15,000)118−1\=6.90%\\text{Required Return} =\\, \\left ( \\frac{\\$ 50,000}{\\$ 15,000} \\right )^{\\frac{1}{18}}-1 = 6.90\\%
 
-This version of the CAGR formula is just a rearranged [present value](https://www.investopedia.com/terms/p/presentvalue.asp) and [future value](https://www.investopedia.com/terms/f/futurevalue.asp) equation. For example, if an investor knew that they needed $50,000 and they felt it was reasonable to expect an 8% annual return on their investment, they could use this formula to find out how much they needed to invest to meet their goal.
+This version of the CAGR formula is just a rearranged [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) and [[future value]](https://www.investopedia.com/terms/f/futurevalue.asp) equation. For example, if an investor knew that they needed $50,000 and they felt it was reasonable to expect an 8% annual return on their investment, they could use this formula to find out how much they needed to invest to meet their goal.
 
 ## Modifying the CAGR Formula
 
@@ -125,7 +125,7 @@ A third limitation of CAGR is a limitation of representation. Say that an invest
 
 ## CAGR vs. IRR
 
-The CAGR measures the return on an investment over a certain period of time. The [internal rate of return](https://www.investopedia.com/terms/i/irr.asp) (IRR) also measures investment performance but is more flexible than CAGR.
+The CAGR measures the return on an investment over a certain period of time. The [[internal rate of return]](https://www.investopedia.com/terms/i/irr.asp) (IRR) also measures investment performance but is more flexible than CAGR.
 
 The most important distinction is that CAGR is straightforward enough that it can be calculated by hand. In contrast, more complicated investments and projects, or those that have many different cash inflows and outflows, are best evaluated using IRR. To back into the IRR rate, a financial calculator, Excel, or portfolio accounting system is ideal.
 
@@ -142,7 +142,7 @@ Using the CAGR formula, we know that we need the:
 So to calculate the CAGR for this simple example we'd enter that data into the formula as follows:
 
 CAGR for Amazon\=($175,000$65,000)13−1\=39.12%\\text{CAGR for Amazon} =\\, \\left ( \\frac{\\$ 175,000}{\\$ 65,000} \\right )^{\\frac{1}{3}}-1 = 39.12\\%  
-This tells us that the compound annual growth rate for the investment in [Amazon](https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp) is 39.12%.
+This tells us that the compound annual growth rate for the investment in [[Amazon]](https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp) is 39.12%.
 
 ## Frequently Asked Questions
 

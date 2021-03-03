@@ -20,7 +20,7 @@ A liability-driven investment, otherwise known as liability-driven investing, is
 
 ## Understanding Liability Driven Investments (LDI)
 
-The liabilities of [defined-benefit](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) pension plans, accrued as the direct result of the guaranteed pensions they are designed to provide upon retirement, are perfectly positioned to benefit from liability-driven investments. However, liability investing is a treatment that a variety of clients can use.
+The liabilities of [[defined-benefit]](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) pension plans, accrued as the direct result of the guaranteed pensions they are designed to provide upon retirement, are perfectly positioned to benefit from liability-driven investments. However, liability investing is a treatment that a variety of clients can use.
 
 ### Key Takeaways
 
@@ -29,13 +29,13 @@ The liabilities of [defined-benefit](https://www.investopedia.com/terms/d/define
 
 ## Liability-Driven Investment for Individual Clients
 
-For a retiree, using the LDI strategy starts with estimating the amount of income the individual will need for each future year. All potential income, including [Social Security benefits,](https://www.investopedia.com/terms/s/social-security-benefits.asp) is deducted from the yearly amount that the retiree needs, helping determine the amount of money the retiree will have to withdraw from his or her retirement portfolio to meet the established income needed annually.
+For a retiree, using the LDI strategy starts with estimating the amount of income the individual will need for each future year. All potential income, including [[Social Security benefits,]](https://www.investopedia.com/terms/s/social-security-benefits.asp) is deducted from the yearly amount that the retiree needs, helping determine the amount of money the retiree will have to withdraw from his or her retirement portfolio to meet the established income needed annually.
 
 The yearly withdrawals then become the liabilities that the LDI strategy must focus on. The retiree’s portfolio must invest in a manner that provides the individual with the necessary cash flows to meet the yearly withdrawals, accounting for intermittent spending, inflation, and other incidental expenses that arise throughout the year.
 
 ## Liability-Driven Investment for Pension Funds
 
-For a pension fund or [pension plan](https://www.investopedia.com/terms/p/pensionplan.asp) that utilizes the LDI strategy, the focus must be placed on the pension fund’s assets. More specifically, the focus should be on the assurances made to pensioners and employees. These assurances become the liabilities the strategy must target. This strategy directly contrasts the investing approach that directs its attention to the asset side of a pension fund’s balance sheet.
+For a pension fund or [[pension plan]](https://www.investopedia.com/terms/p/pensionplan.asp) that utilizes the LDI strategy, the focus must be placed on the pension fund’s assets. More specifically, the focus should be on the assurances made to pensioners and employees. These assurances become the liabilities the strategy must target. This strategy directly contrasts the investing approach that directs its attention to the asset side of a pension fund’s balance sheet.
 
 There is not one agreed-upon approach or definition for the specific actions taken in regard to the LDI. Pension fund managers quite often use a variety of approaches under the LDI strategy banner. Broadly, however, they have two objectives. The first one is to manage or minimize risk from liabilities. These risks range from a change in interest rates to currency inflation because they have a direct effect on the funding status of the pension plan.2
 

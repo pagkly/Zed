@@ -16,7 +16,7 @@ author: Will Kenton
 Turnkey Solution
 ## What is a Turnkey Solution?
 
-A turnkey solution is a type of system built [end-to-end](https://www.investopedia.com/terms/e/end-to-end.asp) for a customer that can be easily implemented into a current business process. It is immediately ready to use upon implementation and is designed to fulfill a certain process such as manufacturing (in part or whole), billing, website design, training, or content management.
+A turnkey solution is a type of system built [[end-to-end]](https://www.investopedia.com/terms/e/end-to-end.asp) for a customer that can be easily implemented into a current business process. It is immediately ready to use upon implementation and is designed to fulfill a certain process such as manufacturing (in part or whole), billing, website design, training, or content management.
 
 A turnkey solution system is different than a custom-built or designed system. When a company or business isn't looking for multiple bells and whistles, a turnkey solution may be an affordable and simple option.
 
@@ -31,7 +31,7 @@ In a turnkey solution, a corporate buyer just has to "turn" a "key" to commence 
 
 A possible drawback of this method, as opposed to designing a process in-house or a custom-built system, is that specifications that are important to a particular company may not be sufficiently integrated into the solution. In-house or custom-built versus turnkey decisions take the complexity of a business process into consideration.
 
-With rapid advances in technology [software](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp) and hardware, turnkey solutions are popular for businesses that desire speed to market.
+With rapid advances in technology [[software]](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp) and hardware, turnkey solutions are popular for businesses that desire speed to market.
 
 ## Other Types of Turnkey Terms
 
@@ -47,4 +47,4 @@ A turnkey solution may be the most affordable way to construct something end-to-
 
 ## Example of a Turnkey Solution
 
-A company looking to implement an online billing feature on its website can use third-party providers to process each [transaction](https://www.investopedia.com/terms/t/transaction.asp) and handle all the technical issues surrounding this process. The use of a turnkey solution, in this case, allows the company to avoid the headaches of programming the tool in-house and the approvals associated with developing a billing system from scratch.
+A company looking to implement an online billing feature on its website can use third-party providers to process each [[transaction]](https://www.investopedia.com/terms/t/transaction.asp) and handle all the technical issues surrounding this process. The use of a turnkey solution, in this case, allows the company to avoid the headaches of programming the tool in-house and the approvals associated with developing a billing system from scratch.

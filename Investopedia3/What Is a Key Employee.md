@@ -20,7 +20,7 @@ A key employee is an employee with major ownership and/or decision-making role i
 
 ## Understanding Key Employee
 
-The term key employee is also used by the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp). The IRS uses this term with regard to company-sponsored defined contribution retirement plans. It refers:
+The term key employee is also used by the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp). The IRS uses this term with regard to company-sponsored defined contribution retirement plans. It refers:
 
 -   to an employee who owns more than 5 percent of the business,
 -   owns more than 1% of the business,
@@ -48,4 +48,4 @@ For instance, the chief scientist on a team developing a novel new product expec
 
 Employers may feel the need to address compensation for key employees differently from the majority of the staff beyond providing salary. This can include offering a variety of options for them to save for retirement or presenting them work-life balance benefits to keep them engaged in the business.
 
-Conversely, employers might adopt a different stance if a key employee makes use of the [Family and Medical Leave Act](https://www.investopedia.com/terms/f/family-and-medical-leave-act.asp) to take unpaid leave from work. Such employees, who may rank among the top 10 percent of salaried workers at a company, might not be reinstated by the employer under certain circumstances.
+Conversely, employers might adopt a different stance if a key employee makes use of the [[Family and Medical Leave Act]](https://www.investopedia.com/terms/f/family-and-medical-leave-act.asp) to take unpaid leave from work. Such employees, who may rank among the top 10 percent of salaried workers at a company, might not be reinstated by the employer under certain circumstances.

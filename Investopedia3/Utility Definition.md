@@ -30,9 +30,9 @@ The utility definition in economics is derived from the concept of usefulness. A
 
 ## Ordinal Utility
 
-Early economists of the Spanish Scholastic tradition of the 1300s and 1400s described the economic value of goods as deriving directly from this property of usefulness and based their theories of prices and monetary exchanges. This conception of utility was not quantified, but a qualitative property of an economic good. Later economists, particularly those of the [Austrian School](https://www.investopedia.com/terms/a/austrian_school.asp), developed this idea into an ordinal theory of utility, or the idea that individuals could order or rank the usefulness of various discrete units of economic goods. 
+Early economists of the Spanish Scholastic tradition of the 1300s and 1400s described the economic value of goods as deriving directly from this property of usefulness and based their theories of prices and monetary exchanges. This conception of utility was not quantified, but a qualitative property of an economic good. Later economists, particularly those of the [[Austrian School]](https://www.investopedia.com/terms/a/austrian_school.asp), developed this idea into an ordinal theory of utility, or the idea that individuals could order or rank the usefulness of various discrete units of economic goods. 
 
-Austrian economist Carl Menger, in a discovery known as the [marginal revolution](https://www.investopedia.com/terms/m/marginalutility.asp), used this type of framework to help him resolve the diamond-water paradox that had vexed many previous economists. Because the first available units of any economic good will be put to the most highly valued uses, and subsequent units go to lower-valued uses, this ordinal theory of utility is useful for explaining the law of diminishing marginal utility and fundamental economic [laws of supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp).1     
+Austrian economist Carl Menger, in a discovery known as the [[marginal revolution]](https://www.investopedia.com/terms/m/marginalutility.asp), used this type of framework to help him resolve the diamond-water paradox that had vexed many previous economists. Because the first available units of any economic good will be put to the most highly valued uses, and subsequent units go to lower-valued uses, this ordinal theory of utility is useful for explaining the law of diminishing marginal utility and fundamental economic [[laws of supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp).1     
 
 ## Cardinal Utility
 
@@ -48,7 +48,7 @@ Economic utility can be estimated by observing a consumer's choice between simil
 
 ## The Definition of Total Utility
 
-If utility in economics is cardinal and measurable, the [total utility (TU)](https://www.investopedia.com/terms/t/totalutility.asp) is defined as the sum of the satisfaction that a person can receive from the consumption of all units of a specific product or service. Using the example above, if a person can only consume three slices of pizza and the first slice of pizza consumed yields ten utils, the second slice of pizza consumed yields eight utils, and the third slice yields two utils, the total utility of pizza would be twenty utils.
+If utility in economics is cardinal and measurable, the [[total utility (TU)]](https://www.investopedia.com/terms/t/totalutility.asp) is defined as the sum of the satisfaction that a person can receive from the consumption of all units of a specific product or service. Using the example above, if a person can only consume three slices of pizza and the first slice of pizza consumed yields ten utils, the second slice of pizza consumed yields eight utils, and the third slice yields two utils, the total utility of pizza would be twenty utils.
 
 ## The Definition of Marginal Utility
 

@@ -16,9 +16,9 @@ author: Adam Hayes
 Understanding Euro Interbank Offer Rate (Euribor)
 ## What Is the Euro Interbank Offer Rate (Euribor)?
 
-Euribor, or the Euro Interbank Offer Rate, is a [reference rate](https://www.investopedia.com/terms/r/referencerate.asp) that is constructed from the average interest rate at which [eurozone](https://www.investopedia.com/terms/e/eurozone.asp) banks offer unsecured short-term lending on the [inter-bank market](https://www.investopedia.com/terms/i/interbankmarket.asp). The maturities on [loans](https://www.investopedia.com/terms/l/loan.asp) used to calculate Euribor often range from one week to one year.
+Euribor, or the Euro Interbank Offer Rate, is a [[reference rate]](https://www.investopedia.com/terms/r/referencerate.asp) that is constructed from the average interest rate at which [[eurozone]](https://www.investopedia.com/terms/e/eurozone.asp) banks offer unsecured short-term lending on the [[inter-bank market]](https://www.investopedia.com/terms/i/interbankmarket.asp). The maturities on [[loans]](https://www.investopedia.com/terms/l/loan.asp) used to calculate Euribor often range from one week to one year.
 
-This is the benchmark rate with which banks lend or borrow excess reserves from one another over short periods of time, from one week to 12 months. These short-term loans are often structured as [repurchase agreements](https://www.investopedia.com/terms/r/repurchaseagreement.asp) (repos) and are intended to maintain bank liquidity and to make sure that excess cash is able to generate an interest return rather than sit idle.
+This is the benchmark rate with which banks lend or borrow excess reserves from one another over short periods of time, from one week to 12 months. These short-term loans are often structured as [[repurchase agreements]](https://www.investopedia.com/terms/r/repurchaseagreement.asp) (repos) and are intended to maintain bank liquidity and to make sure that excess cash is able to generate an interest return rather than sit idle.
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ This is the benchmark rate with which banks lend or borrow excess reserves from 
 
 ## What Does the Euro Interbank Offer Rate Tell You?
 
-The Euro Interbank Offer Rate (Euribor) in fact refers to a set of eight [money market](https://www.investopedia.com/terms/m/moneymarket.asp) rates corresponding to different maturities: the one-week, two-week, one-month, two-month, three-month, six-month, nine-month, and twelve-month rates. These rates, which are updated daily, represent the average interest rate that eurozone banks charge each other for [uncollateralized](https://www.investopedia.com/terms/c/collateral.asp) loans.
+The Euro Interbank Offer Rate (Euribor) in fact refers to a set of eight [[money market]](https://www.investopedia.com/terms/m/moneymarket.asp) rates corresponding to different maturities: the one-week, two-week, one-month, two-month, three-month, six-month, nine-month, and twelve-month rates. These rates, which are updated daily, represent the average interest rate that eurozone banks charge each other for [[uncollateralized]](https://www.investopedia.com/terms/c/collateral.asp) loans.
 
-Euribor rates are an important benchmark for a range of euro-denominated financial products, including mortgages, savings accounts, car loans, and various derivatives securities. Euribor's role in the eurozone is analogous to [LIBOR](https://www.investopedia.com/terms/l/libor.asp) in Britain and the United States.
+Euribor rates are an important benchmark for a range of euro-denominated financial products, including mortgages, savings accounts, car loans, and various derivatives securities. Euribor's role in the eurozone is analogous to [[LIBOR]](https://www.investopedia.com/terms/l/libor.asp) in Britain and the United States.
 
 ## Who Contributes To the Euribor Rate?
 
-There are 20 [panel banks](https://www.investopedia.com/trading-instruments-4427763) that contribute to Euribor. These are the financial institutions that handle the largest volume of eurozone money market transactions. As of 2018, these panel banks include:
+There are 20 [[panel banks]](https://www.investopedia.com/trading-instruments-4427763) that contribute to Euribor. These are the financial institutions that handle the largest volume of eurozone money market transactions. As of 2018, these panel banks include:
 
 -   Belfius (Belgium)
 -   BNP Paribas (France)

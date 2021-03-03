@@ -26,7 +26,7 @@ Marginal analysis is an examination of the additional benefits of an activity co
 
 ## Understanding Marginal Analysis
 
-Marginal analysis is also widely used in [microeconomics](https://www.investopedia.com/terms/m/microeconomics.asp) when analyzing how a complex system is affected by marginal manipulation of its comprising variables. In this sense, marginal analysis focuses on examining the results of small changes as the effects cascade across the business as a whole.
+Marginal analysis is also widely used in [[microeconomics]](https://www.investopedia.com/terms/m/microeconomics.asp) when analyzing how a complex system is affected by marginal manipulation of its comprising variables. In this sense, marginal analysis focuses on examining the results of small changes as the effects cascade across the business as a whole.
 
 Marginal analysis is an examination of the associated costs and potential benefits of specific business activities or financial decisions. The goal is to determine if the costs associated with the change in activity will result in a benefit that is sufficient enough to offset them. Instead of focusing on business output as a whole, the impact on the cost of producing an individual unit is most often observed as a point of comparison.
 

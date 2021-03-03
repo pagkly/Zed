@@ -16,7 +16,7 @@ author: James Chen
 What Is the Modigliani-Miller Theorem (M&M)?
 ## What Is the Modigliani-Miller Theorem (M&M)?
 
-The Modigliani-Miller theorem (M&M) states that the market value of a company is correctly calculated as the present value of its future earnings and its [underlying assets](https://www.investopedia.com/terms/u/underlying-asset.asp), and is independent of its capital structure.
+The Modigliani-Miller theorem (M&M) states that the market value of a company is correctly calculated as the present value of its future earnings and its [[underlying assets]](https://www.investopedia.com/terms/u/underlying-asset.asp), and is independent of its capital structure.
 
 At its most basic level, the theorem argues that, with certain assumptions in place, it is irrelevant whether a company finances its growth by borrowing, by issuing stock shares, or by reinvesting its profits.
 
@@ -32,7 +32,7 @@ The Modigliani-Miller theorem argues that the option or combination of options t
 
 [Merton Miller](https://www.investopedia.com/terms/m/merton-miller.asp), one of the two originators of the theorem, explains the concept behind the theory with an analogy in his book, _Financial Innovations and Market Volatility_:
 
-"Think of the firm as a gigantic tub of whole milk. The farmer can sell the whole milk as is. Or he can separate out the cream and sell it at a considerably higher price than the whole milk would bring. (That's the analog of a firm selling low-yield and hence high-priced [debt securities](https://www.investopedia.com/terms/d/debtsecurity.asp).) But, of course, what the farmer would have left would be skim milk with low butterfat content and that would sell for much less than whole milk. That corresponds to the levered equity. The M and M proposition says that if there were no costs of separation (and, of course, no government dairy-support programs), the cream plus the skim milk would bring the same price as the whole milk."1
+"Think of the firm as a gigantic tub of whole milk. The farmer can sell the whole milk as is. Or he can separate out the cream and sell it at a considerably higher price than the whole milk would bring. (That's the analog of a firm selling low-yield and hence high-priced [[debt securities]](https://www.investopedia.com/terms/d/debtsecurity.asp).) But, of course, what the farmer would have left would be skim milk with low butterfat content and that would sell for much less than whole milk. That corresponds to the levered equity. The M and M proposition says that if there were no costs of separation (and, of course, no government dairy-support programs), the cream plus the skim milk would bring the same price as the whole milk."1
 
 ### History of the M&M Theory
 

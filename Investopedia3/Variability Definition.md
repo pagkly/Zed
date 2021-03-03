@@ -26,9 +26,9 @@ Variability, almost by definition, is the extent to which data points in a stati
 
 ## Understanding Variability
 
-Professional investors perceive the risk of an [asset class](https://www.investopedia.com/terms/a/assetclasses.asp) to be directly proportional to the variability of its returns. As a result, investors demand a greater return from assets with higher variability of returns, such as stocks or commodities, than what they might expect from assets with lower variability of returns, such as Treasury bills.
+Professional investors perceive the risk of an [[asset class]](https://www.investopedia.com/terms/a/assetclasses.asp) to be directly proportional to the variability of its returns. As a result, investors demand a greater return from assets with higher variability of returns, such as stocks or commodities, than what they might expect from assets with lower variability of returns, such as Treasury bills.
 
-This difference in expectation is also known as the [risk premium](https://www.investopedia.com/terms/r/riskpremium.asp). The risk premium refers to the amount required to motivate investors to place their money in higher-risk assets. If an asset displays a greater variability of returns but does not show a greater rate of return, investors will not be as likely to invest money in that asset.
+This difference in expectation is also known as the [[risk premium]](https://www.investopedia.com/terms/r/riskpremium.asp). The risk premium refers to the amount required to motivate investors to place their money in higher-risk assets. If an asset displays a greater variability of returns but does not show a greater rate of return, investors will not be as likely to invest money in that asset.
 
 Variability in statistics refers to the difference being exhibited by data points within a data set, as related to each other or as related to the mean. This can be expressed through the range, variance or standard deviation of a data set. The field of finance uses these concepts as they are specifically applied to price data and the returns that changes in price imply.
 
@@ -36,4 +36,4 @@ The range refers to the difference between the largest and smallest value assign
 
 ## Special Considerations Variability in Investing
 
-One measure of reward-to-variability is the [Sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp), which measures the excess return or risk premium per unit of risk for an asset. In essence, the Sharpe ratio provides a metric to compare the amount of compensation an investor receives with regard to the overall risk being assumed by holding said investment. The excess return is based on the amount of return experienced beyond investments that are considered free of risk. All else being equal, the asset with the higher Sharpe ratio delivers more return for the same amount of risk.
+One measure of reward-to-variability is the [[Sharpe ratio]](https://www.investopedia.com/terms/s/sharperatio.asp), which measures the excess return or risk premium per unit of risk for an asset. In essence, the Sharpe ratio provides a metric to compare the amount of compensation an investor receives with regard to the overall risk being assumed by holding said investment. The excess return is based on the amount of return experienced beyond investments that are considered free of risk. All else being equal, the asset with the higher Sharpe ratio delivers more return for the same amount of risk.

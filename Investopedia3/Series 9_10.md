@@ -16,9 +16,9 @@ author: Julia Kagan
 Series 9/10
 ## What is Series 9/10
 
-Series 9/10 refers to a two-part securities exam and license entitling the holder to supervise sales activities at a general securities-oriented [branch office](https://www.investopedia.com/terms/b/branch-office.asp). Before taking the Series 9/10 Exam, also known as the General Securities Sales Supervisor Qualification Examination, a candidate must have a [Series 7](https://www.investopedia.com/terms/s/series7.asp) license.1
+Series 9/10 refers to a two-part securities exam and license entitling the holder to supervise sales activities at a general securities-oriented [[branch office]](https://www.investopedia.com/terms/b/branch-office.asp). Before taking the Series 9/10 Exam, also known as the General Securities Sales Supervisor Qualification Examination, a candidate must have a [[Series 7]](https://www.investopedia.com/terms/s/series7.asp) license.1
 
-The Series 9/10 covers topics such as the supervision of [options](https://www.investopedia.com/terms/o/option.asp) and general securities sales and trading practices in primary and secondary markets. The Series 9/10 exams are administered by the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp) and were formerly known as the Series 8 Exam. As the name would suggest, the exam is broken into two parts; the Series 9 is the shorter and covers options sales and trading, as well as regulation and administration. Series 10 represents a deeper dive into a similar but broader range of topics and requirements.2
+The Series 9/10 covers topics such as the supervision of [[options]](https://www.investopedia.com/terms/o/option.asp) and general securities sales and trading practices in primary and secondary markets. The Series 9/10 exams are administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp) and were formerly known as the Series 8 Exam. As the name would suggest, the exam is broken into two parts; the Series 9 is the shorter and covers options sales and trading, as well as regulation and administration. Series 10 represents a deeper dive into a similar but broader range of topics and requirements.2
 
 ## Series 9/10 Permitted Activities
 
@@ -28,7 +28,7 @@ Sale of corporate securities; Rights; Warrants; Closed-end funds; Money market f
 
 ## Series 9/10 Eligibility
 
-Series 9/10 candidates must be registered with a FINRA [member firm](https://www.investopedia.com/terms/m/memberfirm.asp) or other self-regulatory organization, and must already have passed the Series 7 General Securities Representative test. 2
+Series 9/10 candidates must be registered with a FINRA [[member firm]](https://www.investopedia.com/terms/m/memberfirm.asp) or other self-regulatory organization, and must already have passed the Series 7 General Securities Representative test. 2
 
 ## Series 9/10 Test Content
 

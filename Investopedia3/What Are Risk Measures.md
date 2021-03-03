@@ -16,9 +16,9 @@ author: James Chen
 What Are Risk Measures?
 ## What Are Risk Measures?
 
-Risk measures are statistical measures that are historical predictors of investment risk and [volatility](https://www.investopedia.com/terms/v/volatility.asp), and they are also major components in [modern portfolio theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT). MPT is a standard financial and academic methodology for assessing the performance of a stock or a stock fund as compared to its [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) index.
+Risk measures are statistical measures that are historical predictors of investment risk and [[volatility]](https://www.investopedia.com/terms/v/volatility.asp), and they are also major components in [[modern portfolio theory]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT). MPT is a standard financial and academic methodology for assessing the performance of a stock or a stock fund as compared to its [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) index.
 
-There are five principal risk measures, and each measure provides a unique way to assess the risk present in investments that are under consideration. The five measures include the [alpha](https://www.investopedia.com/terms/a/alpha.asp), [beta](https://www.investopedia.com/terms/b/beta.asp), [R-squared](https://www.investopedia.com/terms/r/r-squared.asp), standard deviation, and [Sharpe ratio](https://www.investopedia.com/terms/s/sharperatio.asp). Risk measures can be used individually or together to perform a risk assessment. When comparing two potential investments, it is wise to compare like for like to determine which investment holds the most risk.
+There are five principal risk measures, and each measure provides a unique way to assess the risk present in investments that are under consideration. The five measures include the [[alpha]](https://www.investopedia.com/terms/a/alpha.asp), [[beta]](https://www.investopedia.com/terms/b/beta.asp), [[R-squared]](https://www.investopedia.com/terms/r/r-squared.asp), standard deviation, and [[Sharpe ratio]](https://www.investopedia.com/terms/s/sharperatio.asp). Risk measures can be used individually or together to perform a risk assessment. When comparing two potential investments, it is wise to compare like for like to determine which investment holds the most risk.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ Alpha measures risk relative to the market or a selected benchmark index. For ex
 
 ### Beta
 
-Beta measures the volatility or [systemic risk](https://www.investopedia.com/terms/s/systemic-risk.asp) of a fund in comparison to the market or the selected benchmark index. A beta of one indicates the fund is expected to move in conjunction with the benchmark. Betas below one are considered less volatile than the benchmark, while those over one are considered more volatile than the benchmark.
+Beta measures the volatility or [[systemic risk]](https://www.investopedia.com/terms/s/systemic-risk.asp) of a fund in comparison to the market or the selected benchmark index. A beta of one indicates the fund is expected to move in conjunction with the benchmark. Betas below one are considered less volatile than the benchmark, while those over one are considered more volatile than the benchmark.
 
 ### R-Squared
 

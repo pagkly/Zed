@@ -16,12 +16,12 @@ author: James Chen
 How Options Work for Buyers and Sellers
 ## What Is an Option?
 
-Options are [financial instruments](https://www.investopedia.com/terms/f/financialinstrument.asp) that are [derivatives](https://www.investopedia.com/terms/d/derivative.asp) based on the value of underlying securities such as stocks. An options contract offers the buyer the opportunity to buy or sell—depending on the type of contract they hold—the underlying asset. [Unlike futures](https://www.investopedia.com/ask/answers/difference-between-options-and-futures/), the holder is not required to buy or sell the asset if they choose not to.
+Options are [[financial instruments]](https://www.investopedia.com/terms/f/financialinstrument.asp) that are [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) based on the value of underlying securities such as stocks. An options contract offers the buyer the opportunity to buy or sell—depending on the type of contract they hold—the underlying asset. [[Unlike futures]](https://www.investopedia.com/ask/answers/difference-between-options-and-futures/), the holder is not required to buy or sell the asset if they choose not to.
 
--   [Call options](https://www.investopedia.com/terms/c/call.asp) allow the holder to buy the asset at a stated price within a specific timeframe.
--   [Put options](https://www.investopedia.com/terms/p/put.asp) allow the holder to sell the asset at a stated price within a specific timeframe.
+-   [[Call options]](https://www.investopedia.com/terms/c/call.asp) allow the holder to buy the asset at a stated price within a specific timeframe.
+-   [[Put options]](https://www.investopedia.com/terms/p/put.asp) allow the holder to sell the asset at a stated price within a specific timeframe.
 
-Each option contract will have a specific expiration date by which the holder must exercise their option. The stated price on an option is known as the strike price. Options are typically bought and sold through [online or retail brokers](https://www.investopedia.com/best-brokers-for-options-trading-4587876).
+Each option contract will have a specific expiration date by which the holder must exercise their option. The stated price on an option is known as the strike price. Options are typically bought and sold through [[online or retail brokers]](https://www.investopedia.com/best-brokers-for-options-trading-4587876).
 
 ### Key Takeaways
 
@@ -31,13 +31,13 @@ Each option contract will have a specific expiration date by which the holder mu
 
 ## Understanding Options
 
-Options are a versatile financial product. These contracts involve a buyer and a seller, where the buyer pays an options [premium](https://www.investopedia.com/terms/o/option-premium.asp) for the rights granted by the contract. Each call option has a bullish buyer and a bearish seller, while put options have a bearish buyer and a bullish seller. 
+Options are a versatile financial product. These contracts involve a buyer and a seller, where the buyer pays an options [[premium]](https://www.investopedia.com/terms/o/option-premium.asp) for the rights granted by the contract. Each call option has a bullish buyer and a bearish seller, while put options have a bearish buyer and a bullish seller. 
 
-[Options contracts](https://www.investopedia.com/terms/o/optionscontract.asp) usually represent 100 shares of the underlying security, and the buyer will pay a premium fee for each contract. For example, if an option has a premium of 35 cents per contract, buying one option would cost $35 ($0.35 x 100 = $35). The premium is partially based on the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp)—the price for buying or selling the security until the expiration date. Another factor in the premium price is the [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp). Just like with that carton of milk in the refrigerator, the expiration date indicates the day the option contract must be used. The underlying asset will determine the use-by date. For stocks, it is usually the third Friday of the contract's month.
+[Options contracts](https://www.investopedia.com/terms/o/optionscontract.asp) usually represent 100 shares of the underlying security, and the buyer will pay a premium fee for each contract. For example, if an option has a premium of 35 cents per contract, buying one option would cost $35 ($0.35 x 100 = $35). The premium is partially based on the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp)—the price for buying or selling the security until the expiration date. Another factor in the premium price is the [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp). Just like with that carton of milk in the refrigerator, the expiration date indicates the day the option contract must be used. The underlying asset will determine the use-by date. For stocks, it is usually the third Friday of the contract's month.
 
-[Traders](https://www.investopedia.com/ask/answers/sell-open-buy-close-buy-open-sell-close-mean/) and investors will buy and sell options for several reasons. [Options speculation](https://www.investopedia.com/ask/answers/06/speculateoptions.asp) allows a trader to hold a leveraged position in an asset at a lower cost than buying shares of the asset. Investors will use options to [hedge](https://www.investopedia.com/terms/h/hedge.asp) or reduce the risk exposure of their portfolio. In some cases, the option holder can [generate income](https://www.investopedia.com/articles/active-trading/091714/basics-options-profitability.asp) when they buy call options or become an options writer. Options are also one of the most direct ways to [invest in oil](https://www.investopedia.com/ask/answers/08/oil-as-investment.asp). For [options traders](https://www.investopedia.com/trading/options-trading-volume-and-open-interest/), an option's daily trading [volume](https://www.investopedia.com/terms/v/volume.asp) and [open interest](https://www.investopedia.com/terms/o/openinterest.asp) are the two key numbers to watch in order to make the most well-informed investment decisions.
+[Traders](https://www.investopedia.com/ask/answers/sell-open-buy-close-buy-open-sell-close-mean/) and investors will buy and sell options for several reasons. [[Options speculation]](https://www.investopedia.com/ask/answers/06/speculateoptions.asp) allows a trader to hold a leveraged position in an asset at a lower cost than buying shares of the asset. Investors will use options to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) or reduce the risk exposure of their portfolio. In some cases, the option holder can [generate income](https://www.investopedia.com/articles/active-trading/091714/basics-options-profitability.asp) when they buy call options or become an options writer. Options are also one of the most direct ways to [[invest in oil]](https://www.investopedia.com/ask/answers/08/oil-as-investment.asp). For [[options traders]](https://www.investopedia.com/trading/options-trading-volume-and-open-interest/), an option's daily trading [volume](https://www.investopedia.com/terms/v/volume.asp) and [open interest](https://www.investopedia.com/terms/o/openinterest.asp) are the two key numbers to watch in order to make the most well-informed investment decisions.
 
-[American options](https://www.investopedia.com/terms/a/americanoption.asp) can be exercised any time before the expiration date of the option, while [European options](https://www.investopedia.com/terms/e/europeanoption.asp) can only be exercised on the expiration date or the exercise date. Exercising means utilizing the right to buy or sell the underlying security.
+[American options](https://www.investopedia.com/terms/a/americanoption.asp) can be exercised any time before the expiration date of the option, while [[European options]](https://www.investopedia.com/terms/e/europeanoption.asp) can only be exercised on the expiration date or the exercise date. Exercising means utilizing the right to buy or sell the underlying security.
 
 ## Options Risk Metrics: The Greeks
 
@@ -49,7 +49,7 @@ The "[Greeks](https://www.investopedia.com/terms/g/greeks.asp)" is a term used i
 
 For options traders, delta also represents the [hedge ratio](https://www.investopedia.com/terms/h/hedgeratio.asp) for creating a [delta-neutral](https://www.investopedia.com/terms/d/deltaneutral.asp) position. For example if you purchase a standard American call option with a 0.40 delta, you will need to sell 40 shares of stock to be fully hedged. Net delta for a portfolio of options can also be used to obtain the portfolio's hedge ration.
 
-A [less common usage of an option's delta](https://www.investopedia.com/articles/optioninvestor/03/021403.asp) is it's current probability that it will expire [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp). For instance, a 0.40 delta call option today has an implied 40% probability of finishing in-the-money.
+A [[less common usage of an option's delta]](https://www.investopedia.com/articles/optioninvestor/03/021403.asp) is it's current probability that it will expire [in-the-money](https://www.investopedia.com/terms/i/inthemoney.asp). For instance, a 0.40 delta call option today has an implied 40% probability of finishing in-the-money.
 
 ### Theta
 
@@ -85,7 +85,7 @@ These Greeks are second- or third-derivatives of the pricing model and affect th
 
 ## Risk and Profits From Buying Call Options
 
-As mentioned earlier, the [call options](https://www.investopedia.com/terms/c/calloption.asp) let the holder buy an underlying security at the stated strike price by the expiration date called the expiry. The holder has no obligation to buy the asset if they do not want to purchase the asset. The risk to the call option buyer is limited to the premium paid. Fluctuations of the underlying stock have no impact.
+As mentioned earlier, the [[call options]](https://www.investopedia.com/terms/c/calloption.asp) let the holder buy an underlying security at the stated strike price by the expiration date called the expiry. The holder has no obligation to buy the asset if they do not want to purchase the asset. The risk to the call option buyer is limited to the premium paid. Fluctuations of the underlying stock have no impact.
 
 Call options buyers are bullish on a stock and believe the share price will rise above the strike price before the option's expiry. If the investor's bullish outlook is realized and the stock price increases above the strike price, the investor can exercise the option, buy the stock at the strike price, and immediately sell the stock at the current market price for a profit.
 
@@ -159,9 +159,9 @@ If the stock fell to $100, your option would expire worthlessly, and you would b
 
 ## Options Spreads
 
-Options spreads are strategies that use various combinations of buying and selling different options for a desired risk-return profile. Spreads are constructed using [vanilla options](https://www.investopedia.com/terms/v/vanillaoption.asp), and can take advantage of various scenarios such as high- or low-volatility environments, up- or down-moves, or anything in-between.
+Options spreads are strategies that use various combinations of buying and selling different options for a desired risk-return profile. Spreads are constructed using [[vanilla options]](https://www.investopedia.com/terms/v/vanillaoption.asp), and can take advantage of various scenarios such as high- or low-volatility environments, up- or down-moves, or anything in-between.
 
-Spread strategies, can be characterized by their payoff or visualizations of their profit-loss profile, such as [bull call spreads](https://www.investopedia.com/terms/b/bullcallspread.asp) or [iron condors](https://www.investopedia.com/terms/i/ironcondor.asp). See our piece on [10 common options spread strategies](https://www.investopedia.com/trading/options-strategies/) to learn more about things like covered calls, straddles, and calendar spreads.
+Spread strategies, can be characterized by their payoff or visualizations of their profit-loss profile, such as [[bull call spreads]](https://www.investopedia.com/terms/b/bullcallspread.asp) or [[iron condors]](https://www.investopedia.com/terms/i/ironcondor.asp). See our piece on [10 common options spread strategies](https://www.investopedia.com/trading/options-strategies/) to learn more about things like covered calls, straddles, and calendar spreads.
 
 ## Frequently Asked Questions
 

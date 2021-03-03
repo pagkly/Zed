@@ -26,7 +26,7 @@ A holdover tenant is a renter who remains in a property after the expiration of 
 
 ## Understanding Holdover Tenants
 
-[Landlords who want to avoid the mistake](https://www.investopedia.com/financial-edge/0909/11-mistakes-inexperienced-landlords-make.aspx) of winding up with a holdover tenant should always include a clause in the original lease stating what happens at the end of the lease period in order to protect their property and interests. A year-long apartment rental lease, for example, might specify that when the lease expires, it converts to a [month-to-month lease](https://www.investopedia.com/terms/m/month-to-month-tenancy.asp).
+[Landlords who want to avoid the mistake](https://www.investopedia.com/financial-edge/0909/11-mistakes-inexperienced-landlords-make.aspx) of winding up with a holdover tenant should always include a clause in the original lease stating what happens at the end of the lease period in order to protect their property and interests. A year-long apartment rental lease, for example, might specify that when the lease expires, it converts to a [[month-to-month lease]](https://www.investopedia.com/terms/m/month-to-month-tenancy.asp).
 
 If a landlord accepts rent from a holdover tenant, the implications vary based on state and local laws. In some cases accepting payment resets the lease term. To illustrate, if the original lease was for a year, a new year-long lease starts when the landlord accepts a rent payment after the first lease has expired. In other cases accepting payment from a holdover tenant triggers a month-to-month lease.
 
@@ -36,7 +36,7 @@ If a landlord wants a holdover tenant to vacate a property, the landlord must no
 
 ## Holdover Tenant Rights
 
-Holdover tenants have a [tenancy at sufferance](https://www.investopedia.com/terms/t/tenancy-at-sufferance.asp). The term “sufferance” means the absence of objection without genuine approval, and a tenancy at sufferance is the opposite of a [tenancy-at-will](https://www.investopedia.com/terms/t/tenancy-at-will.asp), where a tenant occupies the property with the consent of the owner but generally without a written contract or lease. Tenancy at sufferance, on the other hand, refers to holdover tenants of an expired lease who no longer have the landlord’s permission to remain in the property but have not yet been evicted.1
+Holdover tenants have a [[tenancy at sufferance]](https://www.investopedia.com/terms/t/tenancy-at-sufferance.asp). The term “sufferance” means the absence of objection without genuine approval, and a tenancy at sufferance is the opposite of a [[tenancy-at-will]](https://www.investopedia.com/terms/t/tenancy-at-will.asp), where a tenant occupies the property with the consent of the owner but generally without a written contract or lease. Tenancy at sufferance, on the other hand, refers to holdover tenants of an expired lease who no longer have the landlord’s permission to remain in the property but have not yet been evicted.1
 
 When a landlord wishes to evict you as a holdover tenant, they generally must serve you with a notice of termination, though, as noted above, this is regulated by the state and so can vary from state to state. The notice precipitates the holdover proceeding. In New York State, a notice of termination must be served in the following circumstances:2
 

@@ -16,7 +16,7 @@ author: James Chen
 Going Public
 ## What Is Going Public?
 
-Going public is the process of selling shares that were formerly held privately and are now available to new investors for the first time, otherwise known as an [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp).
+Going public is the process of selling shares that were formerly held privately and are now available to new investors for the first time, otherwise known as an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp).
 
 ### Key Takeaways
 
@@ -44,15 +44,15 @@ Upon approval, management starts assembling the IPO team, which usually starts w
 
 ### 3\. Review and Restate Financials
 
-After approval, the company's financial statements for the preceding five years are carefully reviewed and, if necessary, restated to comply with [Generally Accepted Accounting Principles (GAAP)](https://www.investopedia.com/terms/g/gaap.asp). Certain transactions that are okay for private companies, such as some [sale-leaseback](https://www.investopedia.com/terms/l/leaseback.asp) arrangements, are then eliminated and financial statements are adjusted accordingly. The accounting firm takes the lead in this review and adjustment step.
+After approval, the company's financial statements for the preceding five years are carefully reviewed and, if necessary, restated to comply with [[Generally Accepted Accounting Principles (GAAP)]](https://www.investopedia.com/terms/g/gaap.asp). Certain transactions that are okay for private companies, such as some [[sale-leaseback]](https://www.investopedia.com/terms/l/leaseback.asp) arrangements, are then eliminated and financial statements are adjusted accordingly. The accounting firm takes the lead in this review and adjustment step.
 
 ### 4\. Letter of Intent With Investment Bank 
 
-Now the company selects an investment bank and issues a [letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp) to formalize the relationship and outline the investment bank's fees, offering size, price ranges, and other parameters.
+Now the company selects an investment bank and issues a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp) to formalize the relationship and outline the investment bank's fees, offering size, price ranges, and other parameters.
 
 ### 5\. Draft Prospectus
 
-With a signed letter of intent, the securities lawyers and accountants prepare the [prospectus](https://www.investopedia.com/terms/p/prospectus.asp). A prospectus is written to present to investors as both a selling document and as a legal disclosure document. A prospectus requires:
+With a signed letter of intent, the securities lawyers and accountants prepare the [[prospectus]](https://www.investopedia.com/terms/p/prospectus.asp). A prospectus is written to present to investors as both a selling document and as a legal disclosure document. A prospectus requires:
 
 -   Description of the business
 -   Explanation of management structure
@@ -73,7 +73,7 @@ The company's investment bank and accountants will examine the company's managem
 
 ### 7\. Preliminary Prospectus
 
-A [preliminary prospectus](https://www.investopedia.com/terms/p/preliminaryprospectus.asp) must be presented to the [SEC](https://www.investopedia.com/terms/s/sec.asp) and the relevant stock market regulators. State securities commissions may also be required to sign off. The SEC usually comments on the prospectus, normally in the form of requirements for additional disclosure or explanation.
+A [[preliminary prospectus]](https://www.investopedia.com/terms/p/preliminaryprospectus.asp) must be presented to the [[SEC]](https://www.investopedia.com/terms/s/sec.asp) and the relevant stock market regulators. State securities commissions may also be required to sign off. The SEC usually comments on the prospectus, normally in the form of requirements for additional disclosure or explanation.
 
 ### 8\. Syndication 
 
@@ -81,7 +81,7 @@ After the preliminary prospectus has been filed with the SEC, the investment ban
 
 ### 9\. Roadshow 
 
-Company management and investment bankers often perform a series of meetings with potential investors and analysts. This [roadshow](https://www.investopedia.com/terms/r/roadshow.asp) is a formal presentation by management on the company's financial condition, operations, performance, markets, and products or services. The potential investors and analysts then ask questions about the company.
+Company management and investment bankers often perform a series of meetings with potential investors and analysts. This [[roadshow]](https://www.investopedia.com/terms/r/roadshow.asp) is a formal presentation by management on the company's financial condition, operations, performance, markets, and products or services. The potential investors and analysts then ask questions about the company.
 
 ### 10\. Prospectus Finalization
 

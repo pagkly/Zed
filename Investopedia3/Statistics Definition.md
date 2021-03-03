@@ -25,13 +25,13 @@ Some common statistical tools and procedures include the following:
 -   _Descriptive_
 -   Mean (average)
 -   Variance
--   [Skewness](https://www.investopedia.com/terms/s/skewness.asp)
--   [Kurtosis](https://www.investopedia.com/terms/k/kurtosis.asp)
+-   [[Skewness]](https://www.investopedia.com/terms/s/skewness.asp)
+-   [[Kurtosis]](https://www.investopedia.com/terms/k/kurtosis.asp)
 -   _Inferential_
--   Liner [regression analysis](https://www.investopedia.com/video/play/regression/)
+-   Liner [[regression analysis]](https://www.investopedia.com/video/play/regression/)
 -   Analysis of variance ([ANOVA](https://www.investopedia.com/terms/a/anova.asp))
 -   Logit/Probit models
--   [Null hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp)
+-   [[Null hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp)
 
 ### Key Takeaways
 
@@ -43,15 +43,15 @@ Some common statistical tools and procedures include the following:
 
 Statistics are used in virtually all scientific disciplines such as the physical and social sciences, as well as in business, the humanities, government, and manufacturing. Statistics is fundamentally a branch of applied mathematics that developed from the application of mathematical tools including calculus and linear algebra to probability theory.
 
-In practice, statistics is the idea we can learn about the properties of large sets of objects or events (a [population](https://www.investopedia.com/terms/p/population.asp)) by studying the characteristics of a smaller number of similar objects or events (a [sample](https://www.investopedia.com/terms/s/sample.asp)). Because in many cases gathering comprehensive data about an entire population is too costly, difficult, or flat out impossible, statistics start with a sample that can conveniently or affordably be observed.
+In practice, statistics is the idea we can learn about the properties of large sets of objects or events (a [[population]](https://www.investopedia.com/terms/p/population.asp)) by studying the characteristics of a smaller number of similar objects or events (a [[sample]](https://www.investopedia.com/terms/s/sample.asp)). Because in many cases gathering comprehensive data about an entire population is too costly, difficult, or flat out impossible, statistics start with a sample that can conveniently or affordably be observed.
 
-Two types of statistical methods are used in analyzing data: [descriptive statistics](https://www.investopedia.com/terms/d/descriptive_statistics.asp) and inferential statistics. Statisticians measure and gather data about the individuals or elements of a sample, then analyze this data to generate descriptive statistics. They can then use these observed characteristics of the sample data, which are properly called "statistics," to make inferences or educated guesses about the unmeasured (or unmeasured) characteristics of the broader population, known as the parameters.
+Two types of statistical methods are used in analyzing data: [[descriptive statistics]](https://www.investopedia.com/terms/d/descriptive_statistics.asp) and inferential statistics. Statisticians measure and gather data about the individuals or elements of a sample, then analyze this data to generate descriptive statistics. They can then use these observed characteristics of the sample data, which are properly called "statistics," to make inferences or educated guesses about the unmeasured (or unmeasured) characteristics of the broader population, known as the parameters.
 
 ## Descriptive Statistics
 
-Descriptive statistics mostly focus on the central tendency, variability, and distribution of sample data. Central tendency means the estimate of the characteristics, a typical element of a sample or population, and includes descriptive statistics such as [mean](https://www.investopedia.com/terms/m/mean.asp), [median](https://www.investopedia.com/terms/m/median.asp), and [mode](https://www.investopedia.com/terms/m/mode.asp). [Variability](https://www.investopedia.com/terms/v/variability.asp) refers to a set of statistics that show how much difference there is among the elements of a sample or population along the characteristics measured, and includes metrics such as [range](https://www.investopedia.com/terms/r/range.asp), [variance](https://www.investopedia.com/terms/v/variance.asp), and [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp).
+Descriptive statistics mostly focus on the central tendency, variability, and distribution of sample data. Central tendency means the estimate of the characteristics, a typical element of a sample or population, and includes descriptive statistics such as [[mean]](https://www.investopedia.com/terms/m/mean.asp), [[median]](https://www.investopedia.com/terms/m/median.asp), and [[mode]](https://www.investopedia.com/terms/m/mode.asp). [[Variability]](https://www.investopedia.com/terms/v/variability.asp) refers to a set of statistics that show how much difference there is among the elements of a sample or population along the characteristics measured, and includes metrics such as [[range]](https://www.investopedia.com/terms/r/range.asp), [[variance]](https://www.investopedia.com/terms/v/variance.asp), and [[standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp).
 
-The [distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) refers to the overall "shape" of the data, which can be depicted on a chart such as a histogram or dot plot, and includes properties such as the probability distribution function, skewness, and kurtosis. Descriptive statistics can also describe differences between observed characteristics of the elements of a data set. Descriptive statistics help us understand the collective properties of the elements of a data sample and form the basis for testing hypotheses and making predictions using inferential statistics.
+The [[distribution]](https://www.investopedia.com/terms/p/probabilitydistribution.asp) refers to the overall "shape" of the data, which can be depicted on a chart such as a histogram or dot plot, and includes properties such as the probability distribution function, skewness, and kurtosis. Descriptive statistics can also describe differences between observed characteristics of the elements of a data set. Descriptive statistics help us understand the collective properties of the elements of a data sample and form the basis for testing hypotheses and making predictions using inferential statistics.
 
 ## Inferential Statistics
 
@@ -59,7 +59,7 @@ Inferential statistics are tools that statisticians use to draw conclusions abou
 
 Inferential statistics are used to make generalizations about large groups, such as estimating average demand for a product by surveying a sample of consumers' buying habits, or to attempt to predict future events, such as projecting the future return of a security or asset class based on returns in a sample period.
 
-[Regression](https://www.investopedia.com/terms/r/regression.asp) analysis is a common method of statistical inference that attempts to determine the strength and character of the relationship (or [correlation](https://www.investopedia.com/terms/c/correlationcoefficient.asp)) between one dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). The output of a regression model can be analyzed for [statistical significance](https://www.investopedia.com/terms/s/statistical-significance.asp), which refers to the claim that a result from findings generated by testing or experimentation is not likely to have occurred randomly or by chance but are instead likely to be attributable to a specific cause elucidated by the data. Having statistical significance is important for academic disciplines or practitioners that rely heavily on analyzing data and research.
+[Regression](https://www.investopedia.com/terms/r/regression.asp) analysis is a common method of statistical inference that attempts to determine the strength and character of the relationship (or [[correlation]](https://www.investopedia.com/terms/c/correlationcoefficient.asp)) between one dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). The output of a regression model can be analyzed for [[statistical significance]](https://www.investopedia.com/terms/s/statistical-significance.asp), which refers to the claim that a result from findings generated by testing or experimentation is not likely to have occurred randomly or by chance but are instead likely to be attributable to a specific cause elucidated by the data. Having statistical significance is important for academic disciplines or practitioners that rely heavily on analyzing data and research.
 
 ## Frequently Asked Questions
 
@@ -73,4 +73,4 @@ Statistics are used widely across an array of applications and professions. Any 
 
 ### How are statistics used in economics and finance?
 
-Economists collect and look at all sorts of data, ranging from consumer spending to housing starts to inflation to GDP growth. In finance, analysts and investors collect data about companies, industries, sentiment, and market data on price and volume. Together, the use of inferential statistics in these fields is known as [econometrics](https://www.investopedia.com/terms/e/econometrics.asp). Several important financial models from [CAPM](https://www.investopedia.com/terms/c/capm.asp) to [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) and the [Black-Scholes](https://www.investopedia.com/terms/b/blackscholes.asp) options pricing model, rely on statistical inference.
+Economists collect and look at all sorts of data, ranging from consumer spending to housing starts to inflation to GDP growth. In finance, analysts and investors collect data about companies, industries, sentiment, and market data on price and volume. Together, the use of inferential statistics in these fields is known as [[econometrics]](https://www.investopedia.com/terms/e/econometrics.asp). Several important financial models from [[CAPM]](https://www.investopedia.com/terms/c/capm.asp) to [[Modern Portfolio Theory]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) (MPT) and the [[Black-Scholes]](https://www.investopedia.com/terms/b/blackscholes.asp) options pricing model, rely on statistical inference.

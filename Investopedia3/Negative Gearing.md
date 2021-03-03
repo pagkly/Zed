@@ -16,7 +16,7 @@ author: Will Kenton
 Negative Gearing
 ## What Is Negative Gearing?
 
-Negative gearing is a practice common in property investing. It is a form of financial [leverage](https://www.investopedia.com/terms/l/leverage.asp) that describes the purchase of an income-producing asset, such as a rental property, by an investor when the asset will not produce enough income to cover the cost of the asset. For example, the rental income is insufficient to cover the loan payments, maintenance, interest, or depreciation for the asset in the short term. Ideally, the asset will eventually produce enough money to cover those costs. The reason a buyer would employ negative gearing is that the short-term losses can be beneficial to the owner's tax bill in certain instances. 
+Negative gearing is a practice common in property investing. It is a form of financial [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) that describes the purchase of an income-producing asset, such as a rental property, by an investor when the asset will not produce enough income to cover the cost of the asset. For example, the rental income is insufficient to cover the loan payments, maintenance, interest, or depreciation for the asset in the short term. Ideally, the asset will eventually produce enough money to cover those costs. The reason a buyer would employ negative gearing is that the short-term losses can be beneficial to the owner's tax bill in certain instances. 
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Negative gearing is a practice common in property investing. It is a form of fin
 
 ## Understanding Negative Gearing
 
-A negatively geared asset is one that does not provide sufficient income to cover its cost. It results in a loss for the asset owner. The benefit to the buyer or investor is that, depending on the investor's home country, the [shortfall](https://www.investopedia.com/terms/s/shortfall.asp) between income earned and interest due can be deducted from current income taxes. Countries that allow this tax deduction include Australia, Japan, and New Zealand. Other countries, such as Canada, France, Germany, Sweden, and the United States, allow the deduction but with restrictions. Investing in such a way might make sense in instances where large capital gains are expected at the time of sale, which will recoup intermittent losses.
+A negatively geared asset is one that does not provide sufficient income to cover its cost. It results in a loss for the asset owner. The benefit to the buyer or investor is that, depending on the investor's home country, the [[shortfall]](https://www.investopedia.com/terms/s/shortfall.asp) between income earned and interest due can be deducted from current income taxes. Countries that allow this tax deduction include Australia, Japan, and New Zealand. Other countries, such as Canada, France, Germany, Sweden, and the United States, allow the deduction but with restrictions. Investing in such a way might make sense in instances where large capital gains are expected at the time of sale, which will recoup intermittent losses.
 
 ### Profiting From Negative Gearing
 

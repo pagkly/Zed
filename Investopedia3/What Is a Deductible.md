@@ -53,4 +53,4 @@ Business tax deductions are considerably more complex than individual tax deduct
 
 Examples of ordinary deductible business expenses include payroll, utilities, rent, leases, and other operational costs. Additional deductions include capital expenses, such as depreciating equipment or real estate.
 
-Permissible deductions vary by the structure of the business. [Limited-liability companies](https://www.investopedia.com/terms/l/llc.asp) (LLCs) and corporations differ in the types and amounts of deductions available to their owners.2 3
+Permissible deductions vary by the structure of the business. [[Limited-liability companies]](https://www.investopedia.com/terms/l/llc.asp) (LLCs) and corporations differ in the types and amounts of deductions available to their owners.2 3

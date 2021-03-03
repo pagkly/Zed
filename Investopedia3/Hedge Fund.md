@@ -18,7 +18,7 @@ Hedge Fund
 
 Hedge funds are alternative investments using [pooled funds](https://www.investopedia.com/terms/p/pooledfunds.asp) that employ different strategies to earn active returns, or alpha, for their investors. Hedge funds may be aggressively managed or make use of [derivatives](https://www.investopedia.com/terms/d/derivative.asp) and leverage in both domestic and international markets with the goal of generating high returns (either in an absolute sense or over a specified market benchmark).
 
-It is important to note that hedge funds are generally only accessible to accredited investors as they require less SEC regulations than [other funds](https://www.investopedia.com/articles/investing-strategy/090916/how-do-pension-funds-work.asp). One aspect that has set the hedge fund industry apart is the fact that hedge funds [face less regulation](https://www.investopedia.com/articles/financial-theory/11/how-to-legally-form-a-hedge-fund.asp) than mutual funds and other investment vehicles.1
+It is important to note that hedge funds are generally only accessible to accredited investors as they require less SEC regulations than [[other funds]](https://www.investopedia.com/articles/investing-strategy/090916/how-do-pension-funds-work.asp). One aspect that has set the hedge fund industry apart is the fact that hedge funds [[face less regulation]](https://www.investopedia.com/articles/financial-theory/11/how-to-legally-form-a-hedge-fund.asp) than mutual funds and other investment vehicles.1
 
 ### Key Takeaways
 
@@ -119,7 +119,7 @@ Factors used by some advocates of hedge funds include:
 -   Standard deviation
 -   Rolling standard deviation
 -   Months to recovery/maximum [drawdown](https://www.investopedia.com/terms/d/drawdown.asp)
--   [Downside](https://www.investopedia.com/terms/d/downside.asp) deviation
+-   [[Downside]](https://www.investopedia.com/terms/d/downside.asp) deviation
 
 These guidelines will help eliminate many of the funds in the universe and identify a workable number of funds for further analysis.
 
@@ -144,7 +144,7 @@ Many hedge funds are structured to take advantage of [carried interest](https:/
 
 Hedge fund managers are compensated with this carried interest; their income from the fund is taxed as a return on investments as opposed to a salary or compensation for services rendered. The [incentive fee](https://www.investopedia.com/terms/i/incentive-fee.asp) is taxed at the long-term [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp) rate of 20% as opposed to ordinary income tax rates, where the top rate is 39.6%. This represents significant tax savings for hedge fund managers.9
 
-This business arrangement has its critics, who say that the structure is a [loophole](https://www.investopedia.com/terms/l/loophole.asp) that allows hedge funds to avoid paying taxes. The carried interest rule has not yet been overturned despite multiple attempts in Congress. It became a topical issue during the 2016 primary election. And [President Biden's tax plan includes eliminating the carried interest provision](https://www.investopedia.com/explaining-biden-s-tax-plan-5080766).
+This business arrangement has its critics, who say that the structure is a [loophole](https://www.investopedia.com/terms/l/loophole.asp) that allows hedge funds to avoid paying taxes. The carried interest rule has not yet been overturned despite multiple attempts in Congress. It became a topical issue during the 2016 primary election. And [[President Biden's tax plan includes eliminating the carried interest provision]](https://www.investopedia.com/explaining-biden-s-tax-plan-5080766).
 
 Many prominent hedge funds use reinsurance businesses in Bermuda as another way to reduce their tax liabilities. Bermuda does not charge a corporate income tax, so hedge funds set up their own reinsurance companies in Bermuda. The hedge funds then send money to the reinsurance companies in Bermuda. These [reinsurers](https://www.investopedia.com/terms/r/reinsurer.asp), in turn, invest those funds back into the hedge funds. Any profits from the hedge funds go to the reinsurers in Bermuda, where they owe no corporate income tax. The profits from the hedge fund investments grow without any [tax liability](https://www.investopedia.com/terms/t/taxliability.asp). Taxes are only owed once the investors sell their stakes in the reinsurers.10
 
@@ -180,7 +180,7 @@ However, the firm posted losses of 34 percent, its worst year ever, in 2018 on t
 
 Notably, the overall size of the hedge fund industry (in terms of assets under management) has not declined significantly during this period and has continued to grow. There are new hedge funds launching all the time, even as several of the past 10 years have seen record numbers of hedge fund closures.
 
-In the midst of growing pressures, some hedge funds are reevaluating aspects of their organization, including the "Two and Twenty" fee structure. [According to data from Hedge Fund Research](https://www.marketwatch.com/story/hedge-funds-closed-down-last-year-at-a-pace-unseen-since-2008-2017-03-17), the last quarter of 2016 saw the average management fee fall to 1.48%, while the average incentive fee fell to 17.4%. In this sense, the average hedge fund is still much more costly than, say, an index or mutual fund, but the fact that the fee structure is changing on average is notable.
+In the midst of growing pressures, some hedge funds are reevaluating aspects of their organization, including the "Two and Twenty" fee structure. [[According to data from Hedge Fund Research]](https://www.marketwatch.com/story/hedge-funds-closed-down-last-year-at-a-pace-unseen-since-2008-2017-03-17), the last quarter of 2016 saw the average management fee fall to 1.48%, while the average incentive fee fell to 17.4%. In this sense, the average hedge fund is still much more costly than, say, an index or mutual fund, but the fact that the fee structure is changing on average is notable.
 
 ## Major Hedge Funds
 
@@ -200,11 +200,11 @@ Ray Dalio's Bridgewater Associates remains the largest hedge fund in the world, 
 
 ### What is a hedge fund?
 
-A hedge fund is a type of investment vehicle that caters to high-net-worth individuals, institutional investors, and other accredited investors. The term “hedge” is used because hedge funds originally focused on strategies that hedged the risks faced by investors, such as by simultaneously buying and shorting shares in a [long-short equity](https://www.investopedia.com/terms/l/long-shortequity.asp) strategy. Today, hedge funds offer a very wide range of strategies across practically all available asset classes, including real estate, derivatives, and non-traditional investments such as fine art and wine.
+A hedge fund is a type of investment vehicle that caters to high-net-worth individuals, institutional investors, and other accredited investors. The term “hedge” is used because hedge funds originally focused on strategies that hedged the risks faced by investors, such as by simultaneously buying and shorting shares in a [[long-short equity]](https://www.investopedia.com/terms/l/long-shortequity.asp) strategy. Today, hedge funds offer a very wide range of strategies across practically all available asset classes, including real estate, derivatives, and non-traditional investments such as fine art and wine.
 
 ### How do hedge funds compare to other investment vehicles?
 
-As a type of actively-managed investment fund, hedge funds are similar to other investment vehicles such as mutual funds, venture capital funds, and joint ventures. However, hedge funds are known for a few defining characteristics. First, they are more lightly regulated than competing products such as mutual funds or [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp), providing them with virtually unlimited flexibility in terms of the strategies and objectives they can pursue. Second, hedge funds have the reputation for being more expensive than other vehicles, with many hedge funds utilizing the [“2 and 20”](https://www.investopedia.com/terms/t/two_and_twenty.asp) fee structure.
+As a type of actively-managed investment fund, hedge funds are similar to other investment vehicles such as mutual funds, venture capital funds, and joint ventures. However, hedge funds are known for a few defining characteristics. First, they are more lightly regulated than competing products such as mutual funds or [[exchange-traded funds (ETFs)]](https://www.investopedia.com/terms/e/etf.asp), providing them with virtually unlimited flexibility in terms of the strategies and objectives they can pursue. Second, hedge funds have the reputation for being more expensive than other vehicles, with many hedge funds utilizing the [“2 and 20”](https://www.investopedia.com/terms/t/two_and_twenty.asp) fee structure.
 
 ### Why do people invest in hedge funds?
 

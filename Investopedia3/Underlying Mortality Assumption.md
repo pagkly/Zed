@@ -27,11 +27,11 @@ This is based on mortality tables, which are statistical tables of expected annu
 
 ## Understanding the Underlying Mortality Assumption
 
-The underlying mortality assumption is a key variable in estimating [life expectancies](https://www.investopedia.com/terms/l/lifeexpectancy.asp), which in turn determines the cost of insurance for an insurer and the long-term obligations of a pension fund. If the underlying mortality assumption is too low, a life insurer may underestimate the actual cost of insurance and may have to pay out more in [death benefit claims](https://www.investopedia.com/terms/d/deathbenefit.asp) than it had forecast. Conversely, if the underlying mortality assumption is too high, the actuary may underestimate life expectancies of the [pension plan](https://www.investopedia.com/terms/p/pensionplan.asp) members and hence, the long-term obligations of the pension fund.
+The underlying mortality assumption is a key variable in estimating [[life expectancies]](https://www.investopedia.com/terms/l/lifeexpectancy.asp), which in turn determines the cost of insurance for an insurer and the long-term obligations of a pension fund. If the underlying mortality assumption is too low, a life insurer may underestimate the actual cost of insurance and may have to pay out more in [death benefit claims](https://www.investopedia.com/terms/d/deathbenefit.asp) than it had forecast. Conversely, if the underlying mortality assumption is too high, the actuary may underestimate life expectancies of the [[pension plan]](https://www.investopedia.com/terms/p/pensionplan.asp) members and hence, the long-term obligations of the pension fund.
 
 ## Mortality in the United States
 
-For most people, death is the last thing they want to think about. For life insurers and pension administrators, it's the first thing they think about. Any good [actuary](https://www.investopedia.com/terms/a/actuary.asp) can tell you that people often misjudge the statistics about mortality. They don't understand that mortality at birth and mortality in advanced age are two different things. 
+For most people, death is the last thing they want to think about. For life insurers and pension administrators, it's the first thing they think about. Any good [[actuary]](https://www.investopedia.com/terms/a/actuary.asp) can tell you that people often misjudge the statistics about mortality. They don't understand that mortality at birth and mortality in advanced age are two different things. 
 
 According to the Centers for Disease Control 2019 data, there were 2,854,838 deaths in the U.S. and a death rate of 869.7 deaths per 100,000 population. Life expectancy at birth was 78.8 years, and the infant mortality rate was 5.58 deaths per 1,000 live births.1
 

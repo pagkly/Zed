@@ -30,7 +30,7 @@ Cash back also describes a debit card transaction in which cardholders literally
 
 An outgrowth of general rewards programs offered by credit card issuers, cash back programs date back to the1990s. But they have become ubiquitous in the 21st century; nearly every major card issuer now offers the feature on at least one of its products. It's an incentive for existing customers to use the card early and often, and for new clients to sign up for the card, or switch from a competitor's.
 
-Unlike traditional [rewards points](https://www.investopedia.com/articles/pf/12/rewards-credit-cards.asp), which can be only used to buy goods or services or gift cards offered by the card issuer, cash back rewards are (as their name implies) literally cash. Often presented to the cardholder on the monthly credit card statement, they can be applied to purchases on that statement—to help pay the credit card bill, in other words. Or, consumers may receive the cash-back reward directly, either deposited directly into a linked checking account or the old-fashioned way, through the mail by check.
+Unlike traditional [[rewards points]](https://www.investopedia.com/articles/pf/12/rewards-credit-cards.asp), which can be only used to buy goods or services or gift cards offered by the card issuer, cash back rewards are (as their name implies) literally cash. Often presented to the cardholder on the monthly credit card statement, they can be applied to purchases on that statement—to help pay the credit card bill, in other words. Or, consumers may receive the cash-back reward directly, either deposited directly into a linked checking account or the old-fashioned way, through the mail by check.
 
 ### 1986
 

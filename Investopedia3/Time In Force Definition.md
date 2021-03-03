@@ -16,7 +16,7 @@ author: James Chen
 Time In Force Definition
 ## What is Time In Force?
 
-Time in force is a special instruction used when placing a [trade](https://www.investopedia.com/terms/t/trade.asp) to indicate how long an order will remain active before it is [executed](https://www.investopedia.com/terms/e/execution.asp) or expires. These options are especially important for active traders and allow them to be more specific about the time parameters.
+Time in force is a special instruction used when placing a [[trade]](https://www.investopedia.com/terms/t/trade.asp) to indicate how long an order will remain active before it is [[executed]](https://www.investopedia.com/terms/e/execution.asp) or expires. These options are especially important for active traders and allow them to be more specific about the time parameters.
 
 Common examples include immediate-or-cancel (IOC) or day order.
 
@@ -28,9 +28,9 @@ Common examples include immediate-or-cancel (IOC) or day order.
 
 ## Basics of Time In Force
 
-Time in force orders are a useful way for active traders to keep from accidentally executing trades. By setting time parameters, they don’t have to remember to cancel old trades. Unintended trade executions can be very costly, if they occur during [volatile](https://www.investopedia.com/terms/v/volatility.asp) market conditions when prices are rapidly changing.
+Time in force orders are a useful way for active traders to keep from accidentally executing trades. By setting time parameters, they don’t have to remember to cancel old trades. Unintended trade executions can be very costly, if they occur during [[volatile]](https://www.investopedia.com/terms/v/volatility.asp) market conditions when prices are rapidly changing.
 
-Most [active traders](https://www.investopedia.com/terms/a/active-trading.asp) use [limit orders](https://www.investopedia.com/terms/l/limitorder.asp) to control the price that they pay for a stock, which means that they set a time in force option to control how long the order stays open. While day orders are the most common type of order, there are many circumstances when it makes sense to user other order types.
+Most [[active traders]](https://www.investopedia.com/terms/a/active-trading.asp) use [[limit orders]](https://www.investopedia.com/terms/l/limitorder.asp) to control the price that they pay for a stock, which means that they set a time in force option to control how long the order stays open. While day orders are the most common type of order, there are many circumstances when it makes sense to user other order types.
 
 There are several different types of time in force orders that traders can use. Some brokers only offer a limited set of order types, but active traders often are given more options. Many brokers use acronyms like DAY, GTC, OPC, IOC, GTD and DTC to refer to these orders. We look a little more closely at these order types below.
 
@@ -38,11 +38,11 @@ There are several different types of time in force orders that traders can use. 
 
 [Day orders](https://www.investopedia.com/terms/d/dayorder.asp) are a popular type of time in force order. They are canceled if the trade does not execute by the close of the trading day. These are often the default order type for brokerage accounts.
 
-Another type of time in force order are [Good-Til-Canceled (GTC) orders](https://www.investopedia.com/terms/g/gtc.asp), which are effective until the trade is executed or canceled. Some common exceptions include stock splits, distributions, account inactivity, modified orders, and during quarterly sweeps. These can be a useful option for a long-term investor who is willing to wait for a stock to reach their desired price point before pulling the trigger. Sometimes, traders might wait several days or even weeks for a trade to execute at their desired price.
+Another type of time in force order are [[Good-Til-Canceled (GTC) orders]](https://www.investopedia.com/terms/g/gtc.asp), which are effective until the trade is executed or canceled. Some common exceptions include stock splits, distributions, account inactivity, modified orders, and during quarterly sweeps. These can be a useful option for a long-term investor who is willing to wait for a stock to reach their desired price point before pulling the trigger. Sometimes, traders might wait several days or even weeks for a trade to execute at their desired price.
 
 [Fill-or-Kill (FOK) orders](https://www.investopedia.com/terms/f/fok.asp) are a third type of time in force order. They are canceled if the entire order does not execute as soon as it becomes available. Often, these are used to avoid purchasing shares in multiple blocks at different prices and to ensure an entire order executes at a single price. These can be popular during fast-moving markets where day traders wants to ensure that they get a good price on a trade.
 
-A few other order types include [Market-on-Open (MOO)](https://www.investopedia.com/terms/m/marketonopen-order-moo.asp) and [Limit-on-Open (LOO)orders](https://www.investopedia.com/terms/l/limitonopenorder.asp), which execute as soon as a market opens; [immediate-or-cancel (IOC) orders](https://www.investopedia.com/terms/i/immediateorcancel.asp), which must be filled immediately or are canceled; and [day-til-canceled (DTC) orders](https://www.investopedia.com/terms/g/gtc.asp) that are deactivated at the end of the day instead of canceled, making it easier to re-transmit the order later.
+A few other order types include [[Market-on-Open (MOO)]](https://www.investopedia.com/terms/m/marketonopen-order-moo.asp) and [[Limit-on-Open (LOO)orders]](https://www.investopedia.com/terms/l/limitonopenorder.asp), which execute as soon as a market opens; [[immediate-or-cancel (IOC) orders]](https://www.investopedia.com/terms/i/immediateorcancel.asp), which must be filled immediately or are canceled; and [[day-til-canceled (DTC) orders]](https://www.investopedia.com/terms/g/gtc.asp) that are deactivated at the end of the day instead of canceled, making it easier to re-transmit the order later.
 
 ## Example of Time in Force
 

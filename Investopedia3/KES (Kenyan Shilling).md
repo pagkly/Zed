@@ -16,7 +16,7 @@ author: James Chen
 KES (Kenyan Shilling)
 ## What Is the Kenyan Shilling (KES)?
 
-The Kenyan Shilling is the official currency used for the Republic of Kenya shilling used in Kenya, the Sudan, and Somalia. The shilling is further divided into 100 cents. Prices often include the abbreviation KSh, as in “100 KSh” to refer to 100 shillings. KES is the [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp) (FX) trading symbol
+The Kenyan Shilling is the official currency used for the Republic of Kenya shilling used in Kenya, the Sudan, and Somalia. The shilling is further divided into 100 cents. Prices often include the abbreviation KSh, as in “100 KSh” to refer to 100 shillings. KES is the [[foreign exchange]](https://www.investopedia.com/terms/f/foreign-exchange.asp) (FX) trading symbol
 
 In 2009 the KES/USD exchange rate had reached approximately 75 shillings per U.S. dollar, but over the next several years weakened to a rate of more than 105 shillings per dollar in 2015 and again in 2017. Since 2016, the Kenyan shilling has hovered around the 100 mark against the dollar as concerns grow around the amount of public debt Kenya has taken on over the years. As of January 2021, USD $1 is equal to roughly 110 KES.
 
@@ -28,13 +28,13 @@ In 2009 the KES/USD exchange rate had reached approximately 75 shillings per U.S
 
 ## Understanding the Kenyan Shilling
 
-The Kenyan shilling is among the most stable currencies in east Africa. In fact, it often circulates in bordering countries with less stable currencies, such as Sudan and Somalia. Although less volatile than other regional currencies, the [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) for the Kenyan shilling has generally weakened relative to the U.S. dollar over the past decade.
+The Kenyan shilling is among the most stable currencies in east Africa. In fact, it often circulates in bordering countries with less stable currencies, such as Sudan and Somalia. Although less volatile than other regional currencies, the [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) for the Kenyan shilling has generally weakened relative to the U.S. dollar over the past decade.
 
 ### A Short History of the Kenyan Shilling
 
 The Kenyan shilling was first introduced in 1966 to replace the East African shilling. That currency had circulated in British controlled areas of east Africa from the 1920s until the early 1960s when Kenya (and other African countries) gained independence from British rule. Because of recent changes to Kenya’s constitution forbidding the depicting of portraits of individual people, the country began to issue new banknotes and coins in 2018.
 
-[The Central Bank of Kenya](https://www.centralbank.go.ke/) manages the nation’s currency and allows its exchange rate to [float freely](https://www.investopedia.com/terms/f/floatingexchangerate.asp) against others in the global forex market. The central bank operates under a mandate to sustain price stability, maintain liquidity in the country's financial system, and support growth and employment.
+[The Central Bank of Kenya](https://www.centralbank.go.ke/) manages the nation’s currency and allows its exchange rate to [[float freely]](https://www.investopedia.com/terms/f/floatingexchangerate.asp) against others in the global forex market. The central bank operates under a mandate to sustain price stability, maintain liquidity in the country's financial system, and support growth and employment.
 
 ## Kenya's Economy and the KES
 

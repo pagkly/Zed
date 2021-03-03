@@ -16,7 +16,7 @@ author: James Chen
 Pattern Day Trader Definition
 ## What Is a Pattern Day Trader (PDT)?
 
-A pattern day trader (PDT) is a regulatory designation for those traders or investors that execute four or more [day trades](https://www.investopedia.com/terms/d/daytrader.asp) over the span of five business days using a margin account. The number of day trades must constitute more than 6% of the margin account's total trade activity during that five-day window.
+A pattern day trader (PDT) is a regulatory designation for those traders or investors that execute four or more [[day trades]](https://www.investopedia.com/terms/d/daytrader.asp) over the span of five business days using a margin account. The number of day trades must constitute more than 6% of the margin account's total trade activity during that five-day window.
 
 If this occurs, the trader's account will be flagged as a PDT by their broker. The PDT designation places certain restrictions on further trading; this designation is put in place to discourage investors from trading excessively.1
 
@@ -30,15 +30,15 @@ If this occurs, the trader's account will be flagged as a PDT by their broker. T
 
 Pattern day traders may trade different types of securities, including stock options and short sales. Any type of trade will be accounted for, in terms of this designation, as long as they occur on the same day.
 
-If there is a margin call, the pattern day trader will have five business days to answer it. Their trading will be restricted to that of two times the [maintenance margin](https://www.investopedia.com/terms/m/maintenancemargin.asp) until the call has been met. Failing to address this issue after five business days will result in a 90-day cash restricted account status, or until such time that the issues have been resolved.1
+If there is a margin call, the pattern day trader will have five business days to answer it. Their trading will be restricted to that of two times the [[maintenance margin]](https://www.investopedia.com/terms/m/maintenancemargin.asp) until the call has been met. Failing to address this issue after five business days will result in a 90-day cash restricted account status, or until such time that the issues have been resolved.1
 
-Note that [long](https://www.investopedia.com/terms/l/long.asp) and [short](https://www.investopedia.com/terms/s/short.asp) positions that have been held overnight—but sold prior to new purchases of the same security the next day—are exempt from the PDT designation.1
+Note that [[long]](https://www.investopedia.com/terms/l/long.asp) and [[short]](https://www.investopedia.com/terms/s/short.asp) positions that have been held overnight—but sold prior to new purchases of the same security the next day—are exempt from the PDT designation.1
 
 ## Special Considerations
 
 ### Regulations That Govern Pattern Day Traders
 
-The PDT designation is determined by the [Financial Industry Regulatory Authority (FINRA)](https://www.investopedia.com/terms/f/finra.asp); it differs from that of a standard day trader by the amount of day trades completed in a time frame. Although both groups have mandatory minimum assets that must be held in their margin accounts, a pattern day trader must hold at least $25,000 in their account.2 That amount need not necessarily be cash; it can be a combination of cash and eligible securities. If the equity in the account drops below $25,000, at this point they will be prohibited from making any further day trades until the balance is brought back up.1
+The PDT designation is determined by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp); it differs from that of a standard day trader by the amount of day trades completed in a time frame. Although both groups have mandatory minimum assets that must be held in their margin accounts, a pattern day trader must hold at least $25,000 in their account.2 That amount need not necessarily be cash; it can be a combination of cash and eligible securities. If the equity in the account drops below $25,000, at this point they will be prohibited from making any further day trades until the balance is brought back up.1
 
 FINRA has established a PDT rule that requires that all PDTs have a minimum of $25,000 in their brokerage accounts in a combination of cash and certain securities as a way of reducing risk. If the cash equity in the account drops below this $25,000 threshold, the PDT can no longer complete any day trades until the account is back up above that point. This is known as the Pattern Day Trader Rule, or the PDT Rule. These rules are set forth as an industry standard, but individual brokerage firms may have stricter interpretations of them. They may also allow their investors to self-identify as day traders.1
 

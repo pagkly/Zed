@@ -16,7 +16,7 @@ author: James Chen
 Hybrid Fund
 ## What Is a Hybrid Fund?
 
-A hybrid fund is an investment fund that is characterized by diversification among two or more asset classes. These funds typically invest in a mix of [stocks](https://www.investopedia.com/terms/s/stock.asp) and [bonds](https://www.investopedia.com/terms/b/bond.asp). They may also be known as asset allocation funds.
+A hybrid fund is an investment fund that is characterized by diversification among two or more asset classes. These funds typically invest in a mix of [[stocks]](https://www.investopedia.com/terms/s/stock.asp) and [[bonds]](https://www.investopedia.com/terms/b/bond.asp). They may also be known as asset allocation funds.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Hybrid funds are commonly known as asset allocation funds. In the investment mar
 
 Hybrid funds evolved from the implementation of modern portfolio theory in fund management. These funds can offer varying levels of risk tolerance ranging from conservative to moderate and aggressive.
 
--   **[Balanced funds](https://www.investopedia.com/terms/b/balancedfund.asp)** are also a type of hybrid fund. Balanced funds often follow a standard [asset allocation](https://www.investopedia.com/terms/a/assetallocation.asp) proportion, such as 60/40.
+-   **[Balanced funds](https://www.investopedia.com/terms/b/balancedfund.asp)** are also a type of hybrid fund. Balanced funds often follow a standard [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp) proportion, such as 60/40.
 -   **[Target date funds](https://www.investopedia.com/terms/t/target-date_fund.asp)** or lifecycle funds also fit into the hybrid category. These funds invest in multiple asset classes for diversification. Target date funds vary from standard hybrid funds in that their portfolio portions begin with a more aggressive allocation and progressively rebalance to a more conservative allocation for use by a specified utilization date.
 -   A [**blend fund**](https://www.investopedia.com/terms/b/blendfund.asp) (or blended fund) is a type of equity mutual fund that includes a mix of both [value](https://www.investopedia.com/terms/v/valuestock.asp) and [growth stocks](https://www.investopedia.com/terms/g/growthstock.asp). These funds offer investors diversification among these popular investment styles in a single portfolio.
 

@@ -16,7 +16,7 @@ author: Jason Fernando
 War Damage Corporation
 ## What Was the War Damage Corporation?
 
-The War Damage Corporation was an initiative launched by the United States government during World War II. First established in 1941, the purpose of the program was to provide American citizens with [insurance](https://www.investopedia.com/insurance-4427716) against the risk of property damage due to war. 
+The War Damage Corporation was an initiative launched by the United States government during World War II. First established in 1941, the purpose of the program was to provide American citizens with [[insurance]](https://www.investopedia.com/insurance-4427716) against the risk of property damage due to war. 
 
 Congress found it necessary to offer this program because most private insurers felt that the potential cost of such insurance would be unsustainably high. Following the end of World War II, the War Damage Corporation was discontinued by the Act of Congress in 1947.
 
@@ -28,9 +28,9 @@ Congress found it necessary to offer this program because most private insurers 
 
 ## Mission of the War Damage Corporation
 
-Officially, created through the War Damage Insurance Act of 1941, it was first known as the War Insurance Corporation then was renamed the War Damage Corporation in 1942.1 Understandably, many Americans of that time were concerned that the ongoing war could potentially lead to significant physical damage in the United States. In order to protect their personal possessions, citizens sought to insure against this [risk](https://www.investopedia.com/terms/r/risk.asp) by buying insurance from private providers.
+Officially, created through the War Damage Insurance Act of 1941, it was first known as the War Insurance Corporation then was renamed the War Damage Corporation in 1942.1 Understandably, many Americans of that time were concerned that the ongoing war could potentially lead to significant physical damage in the United States. In order to protect their personal possessions, citizens sought to insure against this [[risk]](https://www.investopedia.com/terms/r/risk.asp) by buying insurance from private providers.
 
-However, from the perspective of private insurers at this time, the potential scale of the damage from war could be so vast that they could not offer these sorts of contracts in a profitable manner. In order to make those policies profitable, the [premiums](https://www.investopedia.com/ask/answers/09/calculating-premium.asp) they would need to charge would be so high as to be unaffordable to most customers. As a solution to this impasse, the government stepped in to provide this type of insurance to the public at a [subsidized](https://www.investopedia.com/terms/s/subsidy.asp) rate.
+However, from the perspective of private insurers at this time, the potential scale of the damage from war could be so vast that they could not offer these sorts of contracts in a profitable manner. In order to make those policies profitable, the [[premiums]](https://www.investopedia.com/ask/answers/09/calculating-premium.asp) they would need to charge would be so high as to be unaffordable to most customers. As a solution to this impasse, the government stepped in to provide this type of insurance to the public at a [[subsidized]](https://www.investopedia.com/terms/s/subsidy.asp) rate.
 
 ## History of the War Damage Corporation
 

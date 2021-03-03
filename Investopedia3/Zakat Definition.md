@@ -16,7 +16,7 @@ author: Daniel Liberto
 Zakat Definition
 ## What Is Zakat?
 
-Zakat is an [Islamic finance](https://www.investopedia.com/terms/i/islamicbanking.asp) term referring to the obligation that an individual has to donate a certain proportion of [wealth](https://www.investopedia.com/terms/w/wealth.asp) each year to charitable causes.
+Zakat is an [[Islamic finance]](https://www.investopedia.com/terms/i/islamicbanking.asp) term referring to the obligation that an individual has to donate a certain proportion of [[wealth]](https://www.investopedia.com/terms/w/wealth.asp) each year to charitable causes.
 
 Zakat is a mandatory process for Muslims and is regarded as a form of worship. Giving away money to the poor is said to purify yearly earnings that are over and above what is required to provide the essential needs of a person or family.
 
@@ -33,7 +33,7 @@ Zakat is one of the Five Pillars of Islam, the others being declaration of faith
 
 Religious texts offer comprehensive descriptions of the minimum amount of zakat that should be distributed to those less fortunate. It generally varies, depending on whether wealth came from farm produce, cattle, [business activities](https://www.investopedia.com/terms/b/business-activities.asp), paper currency, or [precious metals](https://www.investopedia.com/terms/p/preciousmetal.asp), such as gold and silver.
 
-Zakat is based on [income](https://www.investopedia.com/terms/i/income.asp) and the value of possessions. The common minimum amount for those who qualify is 2.5%, or 1/40 of a Muslim's total [savings](https://www.investopedia.com/terms/s/savings.asp) and wealth. 
+Zakat is based on [[income]](https://www.investopedia.com/terms/i/income.asp) and the value of possessions. The common minimum amount for those who qualify is 2.5%, or 1/40 of a Muslim's total [[savings]](https://www.investopedia.com/terms/s/savings.asp) and wealth. 
 
 Each year, between $200 billion and $1 trillion are spent in mandatory alms and voluntary charity across the Muslim world, according to Islamic financial analysts.
 
@@ -47,10 +47,10 @@ Nisab is a term that often appears alongside zakat. It is a threshold, referring
 
 As one of the Five Pillars of Islam, zakat is a religious obligation for all Muslims who meet the necessary criteria of wealth. This rule has played a major role in the history of Islam and has led to disputes, notably during the Ridda wars.
 
-Zakat is considered to be a mandatory type of [tax](https://www.investopedia.com/terms/t/taxes.asp), although not all Muslims abide. In many countries with large Muslim populations, individuals can choose whether or not to pay zakat.
+Zakat is considered to be a mandatory type of [[tax]](https://www.investopedia.com/terms/t/taxes.asp), although not all Muslims abide. In many countries with large Muslim populations, individuals can choose whether or not to pay zakat.
 
-That is not the case for countries such as Libya, Malaysia, Pakistan, Saudi Arabia, Sudan, and Yemen. Those who fail to pay zakat in places where it is compulsory are treated like [tax evaders](https://www.investopedia.com/terms/t/taxevasion.asp) and warned that they will face God’s punishment on Judgment Day.
+That is not the case for countries such as Libya, Malaysia, Pakistan, Saudi Arabia, Sudan, and Yemen. Those who fail to pay zakat in places where it is compulsory are treated like [[tax evaders]](https://www.investopedia.com/terms/t/taxevasion.asp) and warned that they will face God’s punishment on Judgment Day.
 
 ## Criticism of Zakat
 
-There has been considerable controversy and criticism surrounding zakat. Islamic scholars and development workers argue that it has failed to lift people out of [poverty](https://www.investopedia.com/terms/p/poverty.asp), prompting them to suggest that the funds are being wasted and mismanaged.
+There has been considerable controversy and criticism surrounding zakat. Islamic scholars and development workers argue that it has failed to lift people out of [[poverty]](https://www.investopedia.com/terms/p/poverty.asp), prompting them to suggest that the funds are being wasted and mismanaged.

@@ -54,7 +54,7 @@ A portfolio can be overweight in a sector, such as energy, or in a specific coun
 
 Actively managed funds or portfolios will take an overweight position in particular securities if doing so helps them to achieve greater returns. For example, the fund manager may raise a security's weight from its normal 15% of the portfolio to 25%, in an attempt to increase the returns of the overall portfolio.
 
-Another reason for overweighting a portfolio holding is to [hedge](https://www.investopedia.com/terms/h/hedge.asp) or reduce the risk from another overweight position. Hedging involves taking an offsetting or opposite position to the related security. The most common method of hedging is through the [derivative market](https://www.investopedia.com/terms/d/derivative.asp).
+Another reason for overweighting a portfolio holding is to [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) or reduce the risk from another overweight position. Hedging involves taking an offsetting or opposite position to the related security. The most common method of hedging is through the [[derivative market]](https://www.investopedia.com/terms/d/derivative.asp).
 
 For example, if you hold shares of a company currently selling at $20 per share, you may purchase a one-year expiration put option for that stock at $10. A year later, if the stock is selling at more than $10 you let the put expire, losing only the price of the purchase. Should the stock be selling for under $10, you may exercise the put and receive $10 for your shares.
 
@@ -76,8 +76,8 @@ Cons
 
 ### Use of Overweight in Ratings and Recommendations
 
-When research or investment analysts designate a stock overweight, it reflects an opinion that the security will [outperform](https://www.investopedia.com/terms/o/outperform.asp) its industry, its sector, or the entire market.
+When research or investment analysts designate a stock overweight, it reflects an opinion that the security will [[outperform]](https://www.investopedia.com/terms/o/outperform.asp) its industry, its sector, or the entire market.
 
-An analyst's rating of overweight for a retail stock would suggest that the stock will perform above the [average return](https://www.investopedia.com/terms/a/averagereturn.asp) of the retail industry overall over the next eight to 12 months.
+An analyst's rating of overweight for a retail stock would suggest that the stock will perform above the [[average return]](https://www.investopedia.com/terms/a/averagereturn.asp) of the retail industry overall over the next eight to 12 months.
 
 The alternative weighting recommendations are equal weight or underweight. Equal weight implies that the security is expected to perform in line with the index, while underweight implies that the security is expected to lag the index in question.

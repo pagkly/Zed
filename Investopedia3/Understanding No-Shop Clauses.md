@@ -16,23 +16,23 @@ author: Will Kenton
 Understanding No-Shop Clauses
 ## What Is a No-Shop Clause?
 
-A no-shop clause is a clause found in an agreement between a [seller](https://www.investopedia.com/terms/s/seller.asp) and a potential buyer that bars the seller from soliciting a purchase proposal from any other party. In other words, the seller cannot shop the business or asset around once a [letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp) or agreement in principle is entered into between the seller and the potential buyer. The letter of intent outlines one party's commitment to do business and/or execute a deal with another.
+A no-shop clause is a clause found in an agreement between a [[seller]](https://www.investopedia.com/terms/s/seller.asp) and a potential buyer that bars the seller from soliciting a purchase proposal from any other party. In other words, the seller cannot shop the business or asset around once a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp) or agreement in principle is entered into between the seller and the potential buyer. The letter of intent outlines one party's commitment to do business and/or execute a deal with another.
 
 No-shop clauses, which are also called no solicitation clauses, are usually prescribed by large, high-profile companies. Sellers typically agree to these clauses as an act of good faith. Parties that engage in a no-shop clause often include an expiration date in the agreement. This means they are only in effect for a short period of time, and cannot be set indefinitely.
 
 ## Understanding the No-Shop Clause
 
-No-shop clauses give a potential buyer leverage, preventing the seller from looking for another, more competitive offer. Once signed, the buyer can take the time necessary to weigh out its options about the deal before agreeing to it or walking away. They also prevent potential sellers from being targeted by unsolicited offers which may present a better opportunity. No-shop clauses are commonly found in [mergers and acquisitions](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A).
+No-shop clauses give a potential buyer leverage, preventing the seller from looking for another, more competitive offer. Once signed, the buyer can take the time necessary to weigh out its options about the deal before agreeing to it or walking away. They also prevent potential sellers from being targeted by unsolicited offers which may present a better opportunity. No-shop clauses are commonly found in [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) (M&A).
 
 No-shop clauses typically come with short expiry dates so neither party is bound to the deal for an extended period of time.
 
-A no-shop clause is very useful from the potential buyer's point of view because it can prevent the seller of the business or asset from soliciting other offers, which may lead to a higher purchase price or bidding war if there are multiple interested parties. On the other hand, the seller may not want an unduly long no-shop period, especially if there is a risk that the potential purchaser will walk away from the deal during or upon completion of [due diligence](https://www.investopedia.com/terms/d/duediligence.asp).
+A no-shop clause is very useful from the potential buyer's point of view because it can prevent the seller of the business or asset from soliciting other offers, which may lead to a higher purchase price or bidding war if there are multiple interested parties. On the other hand, the seller may not want an unduly long no-shop period, especially if there is a risk that the potential purchaser will walk away from the deal during or upon completion of [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp).
 
 Buyers in a strong position can demand a no-shop clause, so as not to drive up valuation or signal a buyer's interest. In high-stakes transactions, anonymity is an influential element. In turn, a potential seller may agree to a no-shop clause as a good faith gesture towards a buyer, particularly a buyer with whom a seller wants to engage.
 
 ## Example of a No-Shop Clause
 
-While there are many applications for a no-shop clause, they are fairly common during [mergers](https://www.investopedia.com/terms/m/merger.asp) and [acquisitions](https://www.investopedia.com/terms/a/acquisition.asp). For example, Apple may request a no-shop clause while evaluating a potential acquisition. Being Apple, the seller may agree to a no-shop clause in hopes Apple's bid is strong or some other potential synergy offering enough value to justify agreeing to the clause.
+While there are many applications for a no-shop clause, they are fairly common during [[mergers]](https://www.investopedia.com/terms/m/merger.asp) and [[acquisitions]](https://www.investopedia.com/terms/a/acquisition.asp). For example, Apple may request a no-shop clause while evaluating a potential acquisition. Being Apple, the seller may agree to a no-shop clause in hopes Apple's bid is strong or some other potential synergy offering enough value to justify agreeing to the clause.
 
 In mid-2016, Microsoft announced its intent to purchase LinkedIn. Both companies agreed to a no-shop clause, which prevented the professional social networking site to find other offers. Microsoft included a break-up fee to the clause, wherein LinkedIn would be responsible to pay Microsoft $725 million if it closed a deal with another buyer. The deal was completed in December 2016.
 

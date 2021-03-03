@@ -18,7 +18,7 @@ On-Us Item Definition
 
 An on-us item is a check or draft that is presented to the bank where the check writer has the funds on deposit, as opposed to the depositor's bank (although in some cases both check writer and depositor may happen to use the same bank). The check can then be cashed or deposited into another account.
 
-Of course, the [drawing account](https://www.investopedia.com/terms/d/drawing-account.asp) must have a sufficient balance to pay the check.
+Of course, the [[drawing account]](https://www.investopedia.com/terms/d/drawing-account.asp) must have a sufficient balance to pay the check.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Of course, the [drawing account](https://www.investopedia.com/terms/d/drawing-ac
 
 On-us items can be very beneficial for banks conducting the transactions as they often obtain revenues from both the acquiring and issuing sides of the payment. In on-us transactions, there is often no need to go to an outside network to obtain authorization or funds for the exchanges, which may carry additional fees or surcharges. On-us checks may also be referred to as "house checks.”
 
-On-us items can also be in the form of electronic [debits](https://www.investopedia.com/terms/d/debit.asp) or transfers. As with [checks](https://www.investopedia.com/terms/c/check.asp), electronic on-us items refer to the drawing and paying accounts at the same bank.
+On-us items can also be in the form of electronic [[debits]](https://www.investopedia.com/terms/d/debit.asp) or transfers. As with [[checks]](https://www.investopedia.com/terms/c/check.asp), electronic on-us items refer to the drawing and paying accounts at the same bank.
 
 ## On-Us Versus Other Forms of Transactions
 

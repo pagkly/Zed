@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 What Chief Operating Officers Do
 ## What Is a Chief Operating Officer (COO)?
 
-The chief operating officer (COO) is a senior executive tasked with overseeing the day-to-day administrative and operational functions of a business. The COO typically reports directly to the [chief executive officer](https://www.investopedia.com/terms/c/ceo.asp) (CEO) and is considered to be second in the chain of command.
+The chief operating officer (COO) is a senior executive tasked with overseeing the day-to-day administrative and operational functions of a business. The COO typically reports directly to the [[chief executive officer]](https://www.investopedia.com/terms/c/ceo.asp) (CEO) and is considered to be second in the chain of command.
 
 In some corporations, the COO is known by other terms, such as "executive vice president of operations," "chief operations officer," or "operations director."
 
@@ -32,9 +32,9 @@ In some corporations, the COO is known by other terms, such as "executive vice p
 
 ## Understanding a Chief Operating Officer (COO)
 
-The [COO](https://www.investopedia.com/articles/basics/03/022803.asp) mainly focuses on executing the company’s [business plan](https://www.investopedia.com/terms/b/business-plan.asp), according to the established business model, while the CEO is more concerned with long-term goals and the broader company outlook. In other words, the CEO devises plans, while the COO implements them.
+The [[COO]](https://www.investopedia.com/articles/basics/03/022803.asp) mainly focuses on executing the company’s [[business plan]](https://www.investopedia.com/terms/b/business-plan.asp), according to the established business model, while the CEO is more concerned with long-term goals and the broader company outlook. In other words, the CEO devises plans, while the COO implements them.
 
-For instance, when a company experiences a drop in [market share](https://www.investopedia.com/terms/m/marketshare.asp), the CEO might call for increased quality control, in order to fortify its reputation among customers. In this case, the COO might carry out the CEO's mandate by instructing the human resources department to hire more [quality control](https://www.investopedia.com/terms/q/quality-control.asp) personnel. The COO may also initiate the rollout of new product lines, and may likewise be responsible for production, research and development, and marketing.
+For instance, when a company experiences a drop in [[market share]](https://www.investopedia.com/terms/m/marketshare.asp), the CEO might call for increased quality control, in order to fortify its reputation among customers. In this case, the COO might carry out the CEO's mandate by instructing the human resources department to hire more [[quality control]](https://www.investopedia.com/terms/q/quality-control.asp) personnel. The COO may also initiate the rollout of new product lines, and may likewise be responsible for production, research and development, and marketing.
 
 ## The Role of a Chief Operating Officer (COO)
 
@@ -46,7 +46,7 @@ Instead of having one or two skill sets, most successful COOs have multifaceted 
 
 In many cases, a COO is specifically chosen to complement the skill sets of the sitting CEO. In an entrepreneurial situation, the COO often has more practical experience than the founding CEO, who may have come up with an excellent concept, but lacks the start-up know-how to launch a company and manage its early stages of development.
 
-Consequently, COOs often design operations strategies, communicate policies to employees, and help [human resources](https://www.investopedia.com/terms/h/humanresources.asp) (HR) build out core teams.
+Consequently, COOs often design operations strategies, communicate policies to employees, and help [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp) (HR) build out core teams.
 
 ## Types of Chief Operating Officers (COOs)
 
@@ -74,9 +74,9 @@ Also, because they're traditionally responsible for directing multiple departmen
 
 Oracle is a technology firm that began in 1977. It sells database software, cloud technology, management systems, and a variety of other products.2 Oracle had been performing well as a company but then hit a growth cap and couldn't increase annual revenue past $1 billion for a period of time.
 
-In 1992, Larry Ellison, then CEO and now Executive Chairman and [CTO](https://www.investopedia.com/terms/c/chief-technology-officer.asp), brought in Ray Lane to turn the company's fortunes around. Lane joined as Senior Vice President and President of Oracle USA. He became COO in 1996.3
+In 1992, Larry Ellison, then CEO and now Executive Chairman and [[CTO]](https://www.investopedia.com/terms/c/chief-technology-officer.asp), brought in Ray Lane to turn the company's fortunes around. Lane joined as Senior Vice President and President of Oracle USA. He became COO in 1996.3
 
-When Lane came on board, he integrated packaged software and high-margin professional service. In this aspect, he was selling two products in one cycle, increasing revenues from one sale. And according to him, because the people providing the professional service were experts on the product, the company could charge a high price for it resulting in a high [margin](https://www.investopedia.com/terms/p/profitmargin.asp).
+When Lane came on board, he integrated packaged software and high-margin professional service. In this aspect, he was selling two products in one cycle, increasing revenues from one sale. And according to him, because the people providing the professional service were experts on the product, the company could charge a high price for it resulting in a high [[margin]](https://www.investopedia.com/terms/p/profitmargin.asp).
 
 In 1992, Oracle had sales of $1.8 billion and profits of $61.5 million. In 1997, it had $5.7 billion in sales and profits of $821.5 million.4
 
@@ -88,13 +88,13 @@ The history of Dell Computers is quite famous, with Michael Dell having started 
 
 The company's stock fell from $49 to $16 and the CFO had resigned. The problems of the company were due to rapid growth that it could just not keep up with. It had a planned launch of notebook computers that was eventually stopped because of poor production planning. At the time, the company didn't know what product lines its profits and losses were coming from. In essence, its operations were a mess.6
 
-With the company [falling apart](https://www.investopedia.com/ask/answers/052015/who-are-dells-main-competitors.asp), Dell decided to bring on people with experience, older than him who had the managerial chops to turn things around. The key hire was Mort Topfer. Though he did not have the title of COO, it was Vice Chairman, he did the job of COO and was Dell's mentor. He was the CEO's right-hand man.
+With the company [[falling apart]](https://www.investopedia.com/ask/answers/052015/who-are-dells-main-competitors.asp), Dell decided to bring on people with experience, older than him who had the managerial chops to turn things around. The key hire was Mort Topfer. Though he did not have the title of COO, it was Vice Chairman, he did the job of COO and was Dell's mentor. He was the CEO's right-hand man.
 
 As of 2019, Dell was the third-largest computer company in the world, with a market share of 16.8%.7
 
 When Topfer came onboard he implemented multi-year planning, opened more affordable factories overseas, encouraged Dell to focus on strategy while he, Topfer, would deal with day-to-day operations, and restructured management.6 The company, of course, turned around, becoming the powerhouse that it is today.
 
-Topfer joined Dell in 1994 and previously worked at Motorola, heading its land mobile products division. In 2000, his salary at Dell was $700,000 with a bonus of $1.2 million. He also received 290,910 [stock options](https://www.investopedia.com/terms/s/stockoption.asp).8
+Topfer joined Dell in 1994 and previously worked at Motorola, heading its land mobile products division. In 2000, his salary at Dell was $700,000 with a bonus of $1.2 million. He also received 290,910 [[stock options]](https://www.investopedia.com/terms/s/stockoption.asp).8
 
 ## Chief Operating Officer (COO) FAQs
 
@@ -116,7 +116,7 @@ COOs have a strong educational background combined with extensive work experienc
 
 ### How much money does a COO make?
 
-The salary of a COO will vary greatly depending on a variety of factors. These factors include the company they work for, their experience, and their contract. According to PayScale, the average COO salary is $144,313. The base salary ranges from $73,000 to $246,000. On top of that, COOs are paid bonuses and [profit-sharing](https://www.investopedia.com/terms/p/profitsharingplan.asp) plans.9
+The salary of a COO will vary greatly depending on a variety of factors. These factors include the company they work for, their experience, and their contract. According to PayScale, the average COO salary is $144,313. The base salary ranges from $73,000 to $246,000. On top of that, COOs are paid bonuses and [[profit-sharing]](https://www.investopedia.com/terms/p/profitsharingplan.asp) plans.9
 
 ## The Bottom Line 
 

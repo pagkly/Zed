@@ -16,7 +16,7 @@ author: Julia Kagan
 What Are Unallocated Loss Adjustment Expenses (ULAE)?
 ## What Are Unallocated Loss Adjustment Expenses (ULAE)?
 
-Unallocated loss adjustment expenses (ULAE) are costs incurred by an insurance company that cannot be attributed to the processing of a specific claim. They are among the expenses for which an insurer has to set aside reserve funds, in addition to [allocated loss adjustment expenses](https://www.investopedia.com/terms/a/allocated-loss-adjustment-expenses-alae.asp) and [contingent commissions](https://www.investopedia.com/terms/c/contingent-commission.asp).
+Unallocated loss adjustment expenses (ULAE) are costs incurred by an insurance company that cannot be attributed to the processing of a specific claim. They are among the expenses for which an insurer has to set aside reserve funds, in addition to [[allocated loss adjustment expenses]](https://www.investopedia.com/terms/a/allocated-loss-adjustment-expenses-alae.asp) and [[contingent commissions]](https://www.investopedia.com/terms/c/contingent-commission.asp).
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ Because unallocated loss adjustment expenses do not apply to a specific claim, t
 
 Liability policies may contain a clause that allows the insurer to charge the client for some unallocated loss adjustment expenses.
 
-The process of loss reserve development requires the insurer to adjust estimates to its loss and loss-adjustment expense reserves over a period of time. Analysts can determine how accurate an insurance company has been at estimating its reserves by examining its [loss reserve](https://www.investopedia.com/terms/l/loss-reserve.asp) development.
+The process of loss reserve development requires the insurer to adjust estimates to its loss and loss-adjustment expense reserves over a period of time. Analysts can determine how accurate an insurance company has been at estimating its reserves by examining its [[loss reserve]](https://www.investopedia.com/terms/l/loss-reserve.asp) development.
 
 ## Reimbursement for ULAE
 

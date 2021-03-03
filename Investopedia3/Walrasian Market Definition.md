@@ -16,7 +16,7 @@ author: Clay Halton
 Walrasian Market Definition
 ## What is a Walrasian Market?
 
-A Walrasian Market is an economic model of a market process in which orders are collected into batches of buys and sells and then analyzed to determine a clearing price that will decide the market price. This is also referred to as a [call market](https://www.investopedia.com/terms/c/callmarket.asp).
+A Walrasian Market is an economic model of a market process in which orders are collected into batches of buys and sells and then analyzed to determine a clearing price that will decide the market price. This is also referred to as a [[call market]](https://www.investopedia.com/terms/c/callmarket.asp).
 
 ### Key Takeaways
 
@@ -25,9 +25,9 @@ A Walrasian Market is an economic model of a market process in which orders are 
 
 ## Understanding Walrasian Market
 
-The Walrasian market was developed by Leon Walras. He developed the concept for a Walrasian market in response to a problem by French philosopher and mathematician Antoine Cournot. Cournot posited that it was not possible to demonstrate a state of [general equilibrium](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) in which there was equal supply and demand at the same time in all markets.
+The Walrasian market was developed by Leon Walras. He developed the concept for a Walrasian market in response to a problem by French philosopher and mathematician Antoine Cournot. Cournot posited that it was not possible to demonstrate a state of [[general equilibrium]](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) in which there was equal supply and demand at the same time in all markets.
 
-The Walrasian market model is used regularly in the financial markets. The [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp) uses a similar process before the opening bell to determine opening prices. A specialist looks at all the collected orders for a particular security and selects the price that will clear the greatest number of trades. In fact, up until 1871 all trading on the New York Stock Exchange was executed in this fashion.
+The Walrasian market model is used regularly in the financial markets. The [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp) uses a similar process before the opening bell to determine opening prices. A specialist looks at all the collected orders for a particular security and selects the price that will clear the greatest number of trades. In fact, up until 1871 all trading on the New York Stock Exchange was executed in this fashion.
 
 Within a Walrasian market, buy and sell orders are grouped together and then carried out at specific times instead of executed one by one continuously. A Walrasian auctioneer gathers prices about orders and determines the final price. He is expected to function in a market with complete and perfect information about orders.
 

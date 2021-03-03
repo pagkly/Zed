@@ -22,11 +22,11 @@ Organizations can make modifications to their labor pool based on certain factor
 
 ## How Labor Market Flexibility Works
 
-Labor market flexibility refers to how quickly a firm responds to changing conditions in the market by making modifications to its workforce. A flexible labor market allows employers to make changes because of supply and demand issues, [the economic cycle](https://www.investopedia.com/terms/e/economic-cycle.asp), and other market conditions.
+Labor market flexibility refers to how quickly a firm responds to changing conditions in the market by making modifications to its workforce. A flexible labor market allows employers to make changes because of supply and demand issues, [[the economic cycle]](https://www.investopedia.com/terms/e/economic-cycle.asp), and other market conditions.
 
 But a truly flexible labor market only exists when there are few labor force regulations in place. When this is the case, employers are able to set wages, fire employees, and change their work hours at will. And the changes can go either way. For example, during tough economic times, an employer that has high flexibility can cut wages and increase the number of work hours that employees are expected to work to boost productivity. Conversely, when the economy is strong, the same employer may decide to give employees a slight raise and cut back on their hours.
 
-Less flexible labor markets are subject to more rules and regulations including [minimum wages](https://www.investopedia.com/terms/m/minimum_wage.asp), restrictions on firing, and other laws involving employment contracts. [Labor unions](https://www.investopedia.com/terms/l/labor-union.asp) often have considerable power in these markets.
+Less flexible labor markets are subject to more rules and regulations including [[minimum wages]](https://www.investopedia.com/terms/m/minimum_wage.asp), restrictions on firing, and other laws involving employment contracts. [[Labor unions]](https://www.investopedia.com/terms/l/labor-union.asp) often have considerable power in these markets.
 
 Labor unions can limit labor market flexibility by negotiating higher wages, benefits, and better working conditions with employers.
 
@@ -34,7 +34,7 @@ Some of the other factors that affect labor market flexibility include employee 
 
 ### The Case for and Against Labor Market Flexibility
 
-Supporters of increased labor market flexibility argue that it leads to lower [unemployment rates](https://www.investopedia.com/terms/u/unemploymentrate.asp) and [higher gross domestic product (GDP)](https://www.investopedia.com/video/play/what-is-gdp/) due to the unintended consequences of tight labor market restrictions. For example, a firm may consider hiring a full-time employee, but fear the employee will be extremely difficult to fire and may claim costly worker's compensation or sue based on alleged unfair treatment. The firm may choose to take on short-term contract workers instead.
+Supporters of increased labor market flexibility argue that it leads to lower [[unemployment rates]](https://www.investopedia.com/terms/u/unemploymentrate.asp) and [[higher gross domestic product (GDP)]](https://www.investopedia.com/video/play/what-is-gdp/) due to the unintended consequences of tight labor market restrictions. For example, a firm may consider hiring a full-time employee, but fear the employee will be extremely difficult to fire and may claim costly worker's compensation or sue based on alleged unfair treatment. The firm may choose to take on short-term contract workers instead.
 
 Such a system benefits the relatively small number of full-time employees with especially secure positions, but hurts those on the outside—those who must move between precarious, short-term gigs.
 
@@ -59,7 +59,7 @@ Also called trade unions, these organizations represent the collective interests
 
 ### Employee Skills and Training
 
-When employees are skilled and have ready access to training to improve on or increase their skills, they are better able to respond to changes in the market. For example, a customer service representative who goes back to school to get training in the information technology (IT) sector is able to respond to the growing demand for [IT technicians](https://www.investopedia.com/articles/personal-finance/042215/best-websites-find-job-tech-it.asp) when vacancies arise.
+When employees are skilled and have ready access to training to improve on or increase their skills, they are better able to respond to changes in the market. For example, a customer service representative who goes back to school to get training in the information technology (IT) sector is able to respond to the growing demand for [[IT technicians]](https://www.investopedia.com/articles/personal-finance/042215/best-websites-find-job-tech-it.asp) when vacancies arise.
 
 ### Minimum Wages
 

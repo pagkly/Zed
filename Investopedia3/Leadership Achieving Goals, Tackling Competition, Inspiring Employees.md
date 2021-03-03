@@ -16,11 +16,11 @@ author: Alexandra Twin
 Leadership: Achieving Goals, Tackling Competition, Inspiring Employees
 ## What Is Leadership?
 
-Leadership in business is the capacity of a company's management to set and achieve challenging goals, take fast and decisive action when needed, [outperform](https://www.investopedia.com/terms/o/outperform.asp) the competition, and inspire others to perform at the highest level they can.
+Leadership in business is the capacity of a company's management to set and achieve challenging goals, take fast and decisive action when needed, [[outperform]](https://www.investopedia.com/terms/o/outperform.asp) the competition, and inspire others to perform at the highest level they can.
 
-It can be difficult to place a value on leadership or other qualitative aspects of a company, versus quantitative [metrics](https://www.investopedia.com/terms/m/metrics.asp) that are commonly tracked and much easier to compare between companies. Leadership can also speak to a more holistic approach, as in the tone a company's management sets or the culture of the company that management establishes.
+It can be difficult to place a value on leadership or other qualitative aspects of a company, versus quantitative [[metrics]](https://www.investopedia.com/terms/m/metrics.asp) that are commonly tracked and much easier to compare between companies. Leadership can also speak to a more holistic approach, as in the tone a company's management sets or the culture of the company that management establishes.
 
-Individuals with strong leadership skills in the business world often rise to executive positions such as [CEO](https://www.investopedia.com/terms/c/ceo.asp) (chief executive officer), [COO](https://www.investopedia.com/terms/c/coo.asp) (chief operating officer), [CFO](https://www.investopedia.com/ask/answers/what-does-chief-financial-officer-cfo-do/) (chief financial officer), president, and chairman.
+Individuals with strong leadership skills in the business world often rise to executive positions such as [[CEO]](https://www.investopedia.com/terms/c/ceo.asp) (chief executive officer), [[COO]](https://www.investopedia.com/terms/c/coo.asp) (chief operating officer), [[CFO]](https://www.investopedia.com/ask/answers/what-does-chief-financial-officer-cfo-do/) (chief financial officer), president, and chairman.
 
 ### Key Takeaways
 
@@ -46,7 +46,7 @@ True leadership sees where the company is headed and plans the steps needed to g
 
 Productive leadership shows optimism and provides positive energy for staff. Good leaders are supportive and are truly concerned about the well-being of others. Leaders find answers to challenges and reassure and inspire workers when things go awry. Leaders find ways for staff to work together and achieve maximum results in an efficient and effective manner.
 
-Influential business leaders including Jack Welch, Warren Buffett, Bill Gates, and Steve Jobs have shaped their industries and the broader economy—Investopedia [looks at how they developed winning strategies](https://www.investopedia.com/business-leaders-4689830), inspired their employees and achieved success.
+Influential business leaders including Jack Welch, Warren Buffett, Bill Gates, and Steve Jobs have shaped their industries and the broader economy—Investopedia [[looks at how they developed winning strategies]](https://www.investopedia.com/business-leaders-4689830), inspired their employees and achieved success.
 
 ## An Example of Leadership
 

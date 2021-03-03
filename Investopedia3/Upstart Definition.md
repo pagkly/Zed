@@ -18,7 +18,7 @@ Upstart Definition
 
 An upstart is a person who has risen in social rank and/or economic status, but who has yet to be widely accepted by other individuals in his or her newly found social and economic class.
 
-"Upstart" is also the name of an online money lending platform founded in 2012 that provides personal loans using non-traditional credit variables, including education and employment status instead of standard [credit ratings](https://www.investopedia.com/terms/c/creditrating.asp). An upstart should also not be confused with a [startup](https://www.investopedia.com/terms/s/startup.asp), which is a newly formed business venture.
+"Upstart" is also the name of an online money lending platform founded in 2012 that provides personal loans using non-traditional credit variables, including education and employment status instead of standard [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp). An upstart should also not be confused with a [[startup]](https://www.investopedia.com/terms/s/startup.asp), which is a newly formed business venture.
 
 ### Key Takeaways
 

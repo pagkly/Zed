@@ -28,7 +28,7 @@ The use of the PLC abbreviation after the name of a company is mandatory and com
 
 ## How a Public Limited Company (PLC) Works
 
-In legal terms, a PLC designates a [limited liability company (LLC)](https://www.investopedia.com/terms/l/llc.asp) that has offered shares of stock to the general public. The buyers of those shares have limited liability. They cannot be held responsible for any business losses in excess of the amount they paid for the shares.
+In legal terms, a PLC designates a [[limited liability company (LLC)]](https://www.investopedia.com/terms/l/llc.asp) that has offered shares of stock to the general public. The buyers of those shares have limited liability. They cannot be held responsible for any business losses in excess of the amount they paid for the shares.
 
 In the United Kingdom, a PLC operates along similar lines as a public corporation in the U.S. Their operations are strictly regulated and are required to publish periodic reports to shareholders and prospective shareholders on their true financial health.
 
@@ -46,7 +46,7 @@ Because they’re public, they’re also vulnerable to pressure from shareholder
 
 ## Examples of PLCs
 
-All of the companies listed on the [London Stock Exchange (LSE)](https://www.investopedia.com/terms/l/lse.asp) are, by definition, PLCs. The fashion retailer Burberry is Burberry Group PLC. Automaker Rolls-Royce is Rolls-Royce Holdings PLC.
+All of the companies listed on the [[London Stock Exchange (LSE)]](https://www.investopedia.com/terms/l/lse.asp) are, by definition, PLCs. The fashion retailer Burberry is Burberry Group PLC. Automaker Rolls-Royce is Rolls-Royce Holdings PLC.
 
 The 100 largest PLCs on the London Stock Exchange are grouped together in an index called the Financial Times Stock Exchange 100 (FTSE 100) or, colloquially, the Footsie.
 

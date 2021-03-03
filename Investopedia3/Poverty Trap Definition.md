@@ -16,7 +16,7 @@ author: James Chen
 Poverty Trap Definition
 ## What Is a Poverty Trap?
 
-A poverty trap is a mechanism that makes it very difficult for people to escape poverty. A poverty trap is created when an [economic system](https://www.investopedia.com/terms/e/economics.asp) requires a significant amount of capital in order to earn enough to escape poverty. When individuals lack this capital, they may also find it difficult to acquire it, creating a self-reinforcing cycle of poverty.
+A poverty trap is a mechanism that makes it very difficult for people to escape poverty. A poverty trap is created when an [[economic system]](https://www.investopedia.com/terms/e/economics.asp) requires a significant amount of capital in order to earn enough to escape poverty. When individuals lack this capital, they may also find it difficult to acquire it, creating a self-reinforcing cycle of poverty.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A poverty trap is a mechanism that makes it very difficult for people to escape 
 
 Many factors contribute to creating a poverty trap, including limited access to credit and [capital markets](https://www.investopedia.com/terms/c/capitalmarkets.asp), extreme environmental degradation (which depletes agricultural production potential), corrupt governance, [capital flight](https://www.investopedia.com/terms/c/capitalflight.asp), poor education systems, disease ecology, lack of public health care, war, and poor infrastructure.
 
-In order to escape the poverty trap, it is argued that individuals in poverty must be given sufficient aid so that they can acquire the [critical mass](https://www.investopedia.com/terms/c/critical-mass.asp) of capital necessary to raise themselves out of poverty. This theory of poverty helps to explain why certain aid programs that do not provide a high enough level of support may be ineffective at raising individuals from poverty. If those in poverty do not acquire the critical mass of capital, then they will simply remain dependent on aid indefinitely and regress if aid is ended.
+In order to escape the poverty trap, it is argued that individuals in poverty must be given sufficient aid so that they can acquire the [[critical mass]](https://www.investopedia.com/terms/c/critical-mass.asp) of capital necessary to raise themselves out of poverty. This theory of poverty helps to explain why certain aid programs that do not provide a high enough level of support may be ineffective at raising individuals from poverty. If those in poverty do not acquire the critical mass of capital, then they will simply remain dependent on aid indefinitely and regress if aid is ended.
 
 Recent research has increasingly focused on the role of other factors, such as healthcare, in sustaining the poverty trap for a society. A 2013 paper by researchers at the National Bureau of Economic Research (NBER) found that countries with poorer health conditions tend to be mired in a cycle of poverty as compared to others with similar educational attainments.1
 
@@ -66,4 +66,4 @@ The aid amount also does not take into account living conditions for the family.
 
 ## Real World Example
 
-In the real world, the case of Rwanda, a country wracked by genocide and civil war until recently, is often [held up as an example](https://news.stanford.edu/2017/07/14/understanding-poverty-traps/) of a nation that tackled the poverty trap by identifying factors beyond income. The African country focused on healthcare and insurance to increase the average daily calorie intake. However, certain researchers charge [the country's government](https://qz.com/africa/541307/rwanda-is-in-a-dispute-over-how-it-measures-poverty/) with reducing the measurement threshold for a successful demonstration.
+In the real world, the case of Rwanda, a country wracked by genocide and civil war until recently, is often [[held up as an example]](https://news.stanford.edu/2017/07/14/understanding-poverty-traps/) of a nation that tackled the poverty trap by identifying factors beyond income. The African country focused on healthcare and insurance to increase the average daily calorie intake. However, certain researchers charge [[the country's government]](https://qz.com/africa/541307/rwanda-is-in-a-dispute-over-how-it-measures-poverty/) with reducing the measurement threshold for a successful demonstration.

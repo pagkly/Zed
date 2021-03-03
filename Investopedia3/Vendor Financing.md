@@ -16,7 +16,7 @@ author: Staff Author
 Vendor Financing
 ## What Is Vendor Financing?
 
-Vendor financing is a financial term that describes the lending of money by a [vendor](https://www.investopedia.com/terms/v/vendor.asp) to a customer who uses that capital to purchase that specific vendor's product or service offerings.
+Vendor financing is a financial term that describes the lending of money by a [[vendor]](https://www.investopedia.com/terms/v/vendor.asp) to a customer who uses that capital to purchase that specific vendor's product or service offerings.
 
 Sometimes called "[trade credit](https://www.investopedia.com/terms/t/trade-credit.asp)," vendor financing usually takes the form of deferred loans from the vendor. It may also include a transfer of stock shares from the borrowing company to the vendor. Such loans typically carry higher interest rates than those associated with traditional bank loans.
 
@@ -37,7 +37,7 @@ From the perspective of the vendor, while it's certainly not an ideal situation 
 
 ## Vendor Financing Types
 
-Vendor financing can be structured with either debt or equity instruments. In debt vendor financing, the borrower agrees to pay a particular price for inventory with an agreed-upon interest charge. The sum is either repaid over time or written off as a [bad debt](https://www.investopedia.com/terms/b/baddebt.asp). With equity vendor financing, the vendor can provide goods in exchange for an agreed-upon amount of company stock.
+Vendor financing can be structured with either debt or equity instruments. In debt vendor financing, the borrower agrees to pay a particular price for inventory with an agreed-upon interest charge. The sum is either repaid over time or written off as a [[bad debt]](https://www.investopedia.com/terms/b/baddebt.asp). With equity vendor financing, the vendor can provide goods in exchange for an agreed-upon amount of company stock.
 
 Equity vendor financing is more common with startup businesses, which often use a form of vendor-supplied financing known as "[inventory financing](https://www.investopedia.com/terms/i/inventory-financing.asp)," which essentially uses inventory as collateral to back lines of credit or short-term loans.
 
@@ -47,4 +47,4 @@ Vendor financing can also be used when individuals lack the capital needed to bu
 
 ## Various Vendor Types
 
-Vendors can take many forms, including payroll management outfits, security firms, maintenance organizations, and other service providers. [Business-to-business](https://www.investopedia.com/terms/b/btob.asp) suppliers, such as office equipment manufacturers are common providers of vendor financing. Materials and parts suppliers likewise frequently engage in vendor financing activities.
+Vendors can take many forms, including payroll management outfits, security firms, maintenance organizations, and other service providers. [[Business-to-business]](https://www.investopedia.com/terms/b/btob.asp) suppliers, such as office equipment manufacturers are common providers of vendor financing. Materials and parts suppliers likewise frequently engage in vendor financing activities.

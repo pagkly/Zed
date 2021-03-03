@@ -16,7 +16,7 @@ author: Will Kenton
 General Depreciation System (GDS)
 ## What Is the General Depreciation System?
 
-The general depreciation system is the most commonly used [modified accelerated cost recovery system (MACRS)](https://www.investopedia.com/terms/m/macrs.asp) for calculating depreciation. A general [depreciation](https://www.investopedia.com/terms/d/depreciation.asp) system uses the [declining balance](https://www.investopedia.com/terms/d/decliningbalancemethod.asp) method to depreciate personal property.
+The general depreciation system is the most commonly used [[modified accelerated cost recovery system (MACRS)]](https://www.investopedia.com/terms/m/macrs.asp) for calculating depreciation. A general [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) system uses the [[declining balance]](https://www.investopedia.com/terms/d/decliningbalancemethod.asp) method to depreciate personal property.
 
 ### Key Takeaways:
 
@@ -28,13 +28,13 @@ For tax purposes, the MACRS is the primary method of depreciation and uses eithe
 
 ## Understanding the General Depreciation System (GDS)
 
-The declining balance method requires applying the depreciation rate against the non-depreciated balance. For example, if an asset that costs $1,000 is depreciated at 25% each year, the [deduction](https://www.investopedia.com/terms/d/deduction.asp) is $250 in the first year and $187.50 in the second year, and so on.
+The declining balance method requires applying the depreciation rate against the non-depreciated balance. For example, if an asset that costs $1,000 is depreciated at 25% each year, the [[deduction]](https://www.investopedia.com/terms/d/deduction.asp) is $250 in the first year and $187.50 in the second year, and so on.
 
-The [Modified Accelerated Cost Recovery System](https://www.investopedia.com/terms/m/macrs.asp) or MACRS is the primary method of depreciation for federal income tax purposes allowed in the United States to determine depreciation deductions. The MACRS system of depreciation allows for larger depreciation deductions in the early years and lower deductions in the later years of ownership. Under MACRS, the deduction for depreciation is calculated by one of the following methods: the declining balance method and the [straight line method](https://www.investopedia.com/terms/s/straightlinebasis.asp).
+The [[Modified Accelerated Cost Recovery System]](https://www.investopedia.com/terms/m/macrs.asp) or MACRS is the primary method of depreciation for federal income tax purposes allowed in the United States to determine depreciation deductions. The MACRS system of depreciation allows for larger depreciation deductions in the early years and lower deductions in the later years of ownership. Under MACRS, the deduction for depreciation is calculated by one of the following methods: the declining balance method and the [[straight line method]](https://www.investopedia.com/terms/s/straightlinebasis.asp).
 
 ### Depreciation and Taxes
 
-Under MACRS, a taxpayer must compute tax deductions for depreciation of tangible property using specified asset lives and methods. Assets are divided into classes by type of asset or by the business in which the asset is used. There are two sub-systems of MACRS: the general depreciation system (GDS) and [alternate depreciation system](https://www.investopedia.com/terms/a/alternative-depreciation-system.asp) (ADS). GDS is the most relevant and is used for most assets.
+Under MACRS, a taxpayer must compute tax deductions for depreciation of tangible property using specified asset lives and methods. Assets are divided into classes by type of asset or by the business in which the asset is used. There are two sub-systems of MACRS: the general depreciation system (GDS) and [[alternate depreciation system]](https://www.investopedia.com/terms/a/alternative-depreciation-system.asp) (ADS). GDS is the most relevant and is used for most assets.
 
 ### The Alternate Depreciation System (ADS)
 

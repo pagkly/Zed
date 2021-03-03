@@ -18,7 +18,7 @@ Reading Into Non-Recourse Finance
 
 Non-recourse finance is a type of commercial lending that entitles the lender to repayment only from the profits of the project the loan is funding and not from any other assets of the borrower. Such loans are generally secured by collateral.
 
-A [non-recourse loan](https://www.investopedia.com/terms/n/nonrecoursedebt.asp), more broadly, is any consumer or commercial debt that is secured only by collateral. In case of default, the lender may not seize any assets of the borrower beyond the collateral. A mortgage loan is typically a non-recourse loan.
+A [[non-recourse loan]](https://www.investopedia.com/terms/n/nonrecoursedebt.asp), more broadly, is any consumer or commercial debt that is secured only by collateral. In case of default, the lender may not seize any assets of the borrower beyond the collateral. A mortgage loan is typically a non-recourse loan.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ A [non-recourse loan](https://www.investopedia.com/terms/n/nonrecoursedebt.asp),
 
 ## Understanding Non-Recourse Finance
 
-Non-recourse financing is a branch of commercial lending that is characterized by high [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp), distant repayment prospects, and uncertain returns.
+Non-recourse financing is a branch of commercial lending that is characterized by high [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp), distant repayment prospects, and uncertain returns.
 
 In fact, it is similar in its character and risks to venture capital financing. For example, say a company wants to build a new factory. The borrower presents a bank with a detailed plan for the construction, and with a business plan for the greatly-expanded production that it will enable the company to undertake. Repayment can be made only when the factory is up and running, and only with the profits of that production.
 
-The lender is agreeing to terms that do not include access to any of the borrowers' assets beyond the agreed upon [collateral](https://www.investopedia.com/terms/c/collateral.asp), even if they default on the loans. Payments will only be made when and if the funded projects generate revenue. If a project produces no revenue, the lender receives no payment on the debt. Once the collateral is seized, the bank cannot go after the borrowers in hopes of recouping any remaining losses.
+The lender is agreeing to terms that do not include access to any of the borrowers' assets beyond the agreed upon [[collateral]](https://www.investopedia.com/terms/c/collateral.asp), even if they default on the loans. Payments will only be made when and if the funded projects generate revenue. If a project produces no revenue, the lender receives no payment on the debt. Once the collateral is seized, the bank cannot go after the borrowers in hopes of recouping any remaining losses.
 
 Non-recourse loans and recourse loans are subject to different tax treatments in the U.S.
 

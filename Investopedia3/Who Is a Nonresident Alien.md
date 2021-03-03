@@ -16,7 +16,7 @@ author: Julia Kagan
 Who Is a Nonresident Alien?
 ## What Is a Nonresident Alien?
 
-A nonresident alien is a noncitizen who "has not passed the [Green Card](https://www.investopedia.com/terms/g/green-card.asp) test or the substantial presence test," according to the Internal Revenue Service (I.R.S.).1 Nonresident aliens must pay taxes on income earned in the U.S. Typical examples of nonresident aliens are teachers, people seeking medical treatment, and students.2
+A nonresident alien is a noncitizen who "has not passed the [[Green Card]](https://www.investopedia.com/terms/g/green-card.asp) test or the substantial presence test," according to the Internal Revenue Service (I.R.S.).1 Nonresident aliens must pay taxes on income earned in the U.S. Typical examples of nonresident aliens are teachers, people seeking medical treatment, and students.2
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ Like permanent citizens, resident aliens pay taxes on all [earned income](https
 
 Effectively connected income includes personal service income (wages, salaries, commissions, etc.), certain investment income, and certain business income. Effectively connected income is taxed at the same rates that apply to U.S. citizens and U.S. residents. Income that is not effectively connected to trade or business in the U.S. is taxed at a flat 30%. Nonresident aliens may also enjoy other tax benefits such as international treaty exemptions.3
 
-Nonresident alien income sources may be taxable should the source come from the U.S. For example, rent payments on properties they own within the U.S. would be taxable, as well as any [royalties](https://www.investopedia.com/terms/r/royalty.asp) associated with the extraction of natural resources from the properties.4 Nonresident aliens are required to submit tax filings regarding their U.S. income-generating activities.5 
+Nonresident alien income sources may be taxable should the source come from the U.S. For example, rent payments on properties they own within the U.S. would be taxable, as well as any [[royalties]](https://www.investopedia.com/terms/r/royalty.asp) associated with the extraction of natural resources from the properties.4 Nonresident aliens are required to submit tax filings regarding their U.S. income-generating activities.5 
 
 Nonresident aliens must file a Form 1040NR, or Form 1040NR-EZ if they are filing with no dependents. The deadline for filing Form 1040NR or Form 1040NR-EZ is April 15th if you were an employee and received wages subject to U.S. income tax withholding. Otherwise, the due date of your return is June 15th.
 

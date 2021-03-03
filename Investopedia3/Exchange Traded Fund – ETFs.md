@@ -16,9 +16,9 @@ author: James Chen
 Exchange Traded Fund – ETFs
 ## What Is an ETF?
 
-An exchange traded fund (ETF) is a type of security that involves a collection of securities—such as stocks—that often tracks an underlying [index](https://www.investopedia.com/terms/m/marketindex.asp), although they can invest in any number of industry sectors or use various strategies. ETFs are in many ways similar to mutual funds; however, they are listed on exchanges and ETF shares trade throughout the day just like ordinary stock.
+An exchange traded fund (ETF) is a type of security that involves a collection of securities—such as stocks—that often tracks an underlying [[index]](https://www.investopedia.com/terms/m/marketindex.asp), although they can invest in any number of industry sectors or use various strategies. ETFs are in many ways similar to mutual funds; however, they are listed on exchanges and ETF shares trade throughout the day just like ordinary stock.
 
-A well-known example is the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy)), which tracks the [S&P 500 Index](https://www.investopedia.com/terms/s/sp500.asp).1 ETFs can contain many types of investments, including stocks, commodities, bonds, or a mixture of investment types. An exchange traded fund is a [marketable security](https://www.investopedia.com/terms/m/marketablesecurities.asp), meaning it has an associated price that allows it to be easily bought and sold.
+A well-known example is the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spy)), which tracks the [[S&P 500 Index]](https://www.investopedia.com/terms/s/sp500.asp).1 ETFs can contain many types of investments, including stocks, commodities, bonds, or a mixture of investment types. An exchange traded fund is a [[marketable security]](https://www.investopedia.com/terms/m/marketablesecurities.asp), meaning it has an associated price that allows it to be easily bought and sold.
 
 ### Key Takeaways
 
@@ -27,29 +27,29 @@ A well-known example is the SPDR S&P 500 ETF ([SPY](https://www.investopedia.com
 -   ETFs can contain all types of investments including stocks, commodities, or bonds; some offer U.S. only holdings, while others are international.
 -   ETFs offer low expense ratios and fewer broker commissions than buying the stocks individually.
 
-An ETF is called an _exchange traded_ fund since it's traded on an exchange just like stocks. The price of an ETF’s shares will change throughout the trading day as the shares are bought and sold on the market. This is [unlike mutual funds](https://www.investopedia.com/ask/answers/09/mutual-fund-etf.asp), which are not traded on an exchange, and trade only once per day after the markets close. Additionally, ETFs tend to be more cost-effective and more liquid when [compared to mutual funds.](https://www.investopedia.com/articles/investing/110314/key-differences-between-etfs-and-mutual-funds.asp)
+An ETF is called an _exchange traded_ fund since it's traded on an exchange just like stocks. The price of an ETF’s shares will change throughout the trading day as the shares are bought and sold on the market. This is [[unlike mutual funds]](https://www.investopedia.com/ask/answers/09/mutual-fund-etf.asp), which are not traded on an exchange, and trade only once per day after the markets close. Additionally, ETFs tend to be more cost-effective and more liquid when [[compared to mutual funds.]](https://www.investopedia.com/articles/investing/110314/key-differences-between-etfs-and-mutual-funds.asp)
 
-An ETF is a type of fund that holds multiple [underlying assets](https://www.investopedia.com/terms/u/underlying-asset.asp), rather than only one like a stock. Because there are multiple assets within an ETF, they can be a popular choice for diversification.
+An ETF is a type of fund that holds multiple [[underlying assets]](https://www.investopedia.com/terms/u/underlying-asset.asp), rather than only one like a stock. Because there are multiple assets within an ETF, they can be a popular choice for diversification.
 
-An ETF can own hundreds or thousands of stocks across various industries, or it could be isolated to one particular industry or sector. [Some funds focus on only U.S. offerings](https://www.investopedia.com/articles/etfs-mutual-funds/042816/3-largest-global-exus-etfs-veu-vxus.asp), while others have a global outlook. For example, banking-focused ETFs would contain stocks of various banks across the industry.
+An ETF can own hundreds or thousands of stocks across various industries, or it could be isolated to one particular industry or sector. [[Some funds focus on only U.S. offerings]](https://www.investopedia.com/articles/etfs-mutual-funds/042816/3-largest-global-exus-etfs-veu-vxus.asp), while others have a global outlook. For example, banking-focused ETFs would contain stocks of various banks across the industry.
 
 ## Types of ETFs
 
 There are various types of ETFs available to investors that can be used for income generation, speculation, price increases, and to hedge or partly offset risk in an investor's portfolio. Below are several examples of the types of ETFs.
 
--   [Bond ETFs](https://www.investopedia.com/investing/bond-etfs-viable-alternative/) might include government bonds, corporate bonds, and state and local bonds—called municipal bonds.
--   [Industry ETFs](https://www.investopedia.com/terms/s/sector-etf.asp) track a particular industry such as technology, banking, or the oil and gas sector.
--   [Commodity ETFs](https://www.investopedia.com/terms/c/commodity-etf.asp) invest in commodities including crude oil or gold.
--   [Currency ETFs](https://www.investopedia.com/terms/c/currency-etf.asp) invest in foreign currencies such as the Euro or Canadian dollar.
--   [Inverse ETFs](https://www.investopedia.com/terms/i/inverse-etf.asp) attempt to earn gains from stock declines by shorting stocks. Shorting is selling a stock, expecting a decline in value, and repurchasing it at a lower price.
+-   [[Bond ETFs]](https://www.investopedia.com/investing/bond-etfs-viable-alternative/) might include government bonds, corporate bonds, and state and local bonds—called municipal bonds.
+-   [[Industry ETFs]](https://www.investopedia.com/terms/s/sector-etf.asp) track a particular industry such as technology, banking, or the oil and gas sector.
+-   [[Commodity ETFs]](https://www.investopedia.com/terms/c/commodity-etf.asp) invest in commodities including crude oil or gold.
+-   [[Currency ETFs]](https://www.investopedia.com/terms/c/currency-etf.asp) invest in foreign currencies such as the Euro or Canadian dollar.
+-   [[Inverse ETFs]](https://www.investopedia.com/terms/i/inverse-etf.asp) attempt to earn gains from stock declines by shorting stocks. Shorting is selling a stock, expecting a decline in value, and repurchasing it at a lower price.
 
-Investors should be aware that many inverse ETFs are [exchange traded notes](https://www.investopedia.com/terms/e/etn.asp) (ETNs) and not true ETFs. An ETN is a bond but trades like a stock and is backed by an issuer like a bank.3 Be sure to check with your [broker](https://www.investopedia.com/best-brokers-for-etfs-4587875) to determine if an ETN is a right fit for your portfolio.
+Investors should be aware that many inverse ETFs are [[exchange traded notes]](https://www.investopedia.com/terms/e/etn.asp) (ETNs) and not true ETFs. An ETN is a bond but trades like a stock and is backed by an issuer like a bank.3 Be sure to check with your [[broker]](https://www.investopedia.com/best-brokers-for-etfs-4587875) to determine if an ETN is a right fit for your portfolio.
 
 In the U.S., most ETFs are set up as open-ended funds and are subject to the Investment Company Act of 1940 except where subsequent rules have modified their regulatory requirements.4 Open-end funds do not limit the number of investors involved in the product.
 
 ## How to Buy and Sell ETFs
 
-ETFs trade through online brokers and traditional broker-dealers. You can view some of the top brokers in the industry for ETFs with Investopedia's list of the [best brokers for ETFs](https://www.investopedia.com/best-brokers-for-etfs-4587875). An alternative to standard brokers are robo-advisors like [Betterment](https://www.investopedia.com/betterment-review-4587887) and [Wealthfront](https://www.investopedia.com/wealthfront-review-4587933) who make use of ETFs in their investment products.
+ETFs trade through online brokers and traditional broker-dealers. You can view some of the top brokers in the industry for ETFs with Investopedia's list of the [[best brokers for ETFs]](https://www.investopedia.com/best-brokers-for-etfs-4587875). An alternative to standard brokers are robo-advisors like [[Betterment]](https://www.investopedia.com/betterment-review-4587887) and [[Wealthfront]](https://www.investopedia.com/wealthfront-review-4587933) who make use of ETFs in their investment products.
 
 ## Real-World Examples of ETFs
 
@@ -61,7 +61,7 @@ Below are examples of popular ETFs on the market today. Some ETFs track an index
 -   SPDR Dow Jones Industrial Average (DIA): Represents the 30 stocks of the Dow Jones Industrial Average8
 -   Sector ETFs: Track individual industries such as oil (OIH), energy (XLE), financial services (XLF), REITs (IYR), Biotech (BBH)
 -   Commodity ETFs: Represent commodity markets including crude oil (USO) and natural gas (UNG)
--   Physically-Backed ETFs: The SPDR Gold Shares (GLD) and [iShares Silver Trust](https://www.investopedia.com/articles/investing/122215/slv-ishares-silver-trust-etf.asp) (SLV) hold physical gold and silver bullion in the fund
+-   Physically-Backed ETFs: The SPDR Gold Shares (GLD) and [[iShares Silver Trust]](https://www.investopedia.com/articles/investing/122215/slv-ishares-silver-trust-etf.asp) (SLV) hold physical gold and silver bullion in the fund
 
 ## Advantages and Disadvantages of ETFs
 
@@ -99,7 +99,7 @@ An indexed-stock ETF provides investors with the diversification of an index fun
 
 ### Dividends and ETFs
 
-While ETFs provide investors with the ability to gain as stock prices rise and fall, they also benefit from companies that pay dividends. Dividends are a portion of earnings allocated or paid by companies to investors for holding their stock. ETF shareholders are entitled to a proportion of the profits, such as earned interest or [dividends](https://www.investopedia.com/terms/d/dividend.asp) paid, and may get a residual value in case the fund is liquidated.
+While ETFs provide investors with the ability to gain as stock prices rise and fall, they also benefit from companies that pay dividends. Dividends are a portion of earnings allocated or paid by companies to investors for holding their stock. ETF shareholders are entitled to a proportion of the profits, such as earned interest or [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) paid, and may get a residual value in case the fund is liquidated.
 
 ### ETFs and Taxes
 
@@ -109,7 +109,7 @@ An ETF is more tax-efficient than a mutual fund since most buying and selling oc
 
 Since ETFs have become increasingly popular with investors, many new funds have been created resulting in low trading volumes for some of them. The result can lead to investors not being able to buy and sell shares of a low-volume ETF easily.
 
-Concerns have surfaced about the influence of ETFs on the market and whether demand for these funds can inflate stock values and create fragile bubbles. Some ETFs rely on portfolio models that are untested in different market conditions and can lead to extreme inflows and outflows from the funds, which have a negative impact on market stability. Since the financial crisis, ETFs have played major roles in market flash-crashes and instability. Problems with ETFs were significant factors in the flash crashes and market declines in May 2010, August 2015, and [February 2018](https://www.investopedia.com/investing/best-etfs-2018-comprehensive-guide/).11 12 13
+Concerns have surfaced about the influence of ETFs on the market and whether demand for these funds can inflate stock values and create fragile bubbles. Some ETFs rely on portfolio models that are untested in different market conditions and can lead to extreme inflows and outflows from the funds, which have a negative impact on market stability. Since the financial crisis, ETFs have played major roles in market flash-crashes and instability. Problems with ETFs were significant factors in the flash crashes and market declines in May 2010, August 2015, and [[February 2018]](https://www.investopedia.com/investing/best-etfs-2018-comprehensive-guide/).11 12 13
 
 <iframe id="mntl-sc-block-iframe__uri_1-0-3" data-src="https://www.youtube.com/embed/g9vY3CtV86w" frameborder="0" allowfullscreen="false"></iframe>
 
@@ -119,17 +119,17 @@ The supply of ETF shares is regulated through a mechanism known as creation and 
 
 ### Creation
 
-When an ETF wants to issue additional shares, the AP buys shares of the stocks from the index—such as the S&P 500 tracked by the fund—and sells or exchanges them to the ETF for new ETF shares at an equal value. In turn, the AP sells the ETF shares in the market for a profit. The process of an AP selling stocks to the ETF sponsor, in return for shares in the ETF, is called [creation](https://www.investopedia.com/terms/c/creationunit.asp).
+When an ETF wants to issue additional shares, the AP buys shares of the stocks from the index—such as the S&P 500 tracked by the fund—and sells or exchanges them to the ETF for new ETF shares at an equal value. In turn, the AP sells the ETF shares in the market for a profit. The process of an AP selling stocks to the ETF sponsor, in return for shares in the ETF, is called [[creation]](https://www.investopedia.com/terms/c/creationunit.asp).
 
 ### Creation When Shares Trade at a Premium 
 
-Imagine an ETF that invests in the stocks of the S&P 500 and has a share price of $101 at the close of the market. If the value of the stocks that the ETF owns was only worth $100 on a per share basis, then the fund's price of $101 is trading at a premium to the fund's [net asset value](https://www.investopedia.com/terms/n/nav.asp) (NAV). The NAV is an accounting mechanism that determines the overall value of the assets or stocks in an ETF.
+Imagine an ETF that invests in the stocks of the S&P 500 and has a share price of $101 at the close of the market. If the value of the stocks that the ETF owns was only worth $100 on a per share basis, then the fund's price of $101 is trading at a premium to the fund's [[net asset value]](https://www.investopedia.com/terms/n/nav.asp) (NAV). The NAV is an accounting mechanism that determines the overall value of the assets or stocks in an ETF.
 
 An authorized participant has an incentive to bring the ETF share price back into equilibrium with the fund’s NAV. To do this, the AP will buy shares of the stocks that the ETF wants to hold in its portfolio from the market and sells them to the fund in return for shares of the ETF. In this example, the AP is buying stock on the open market worth $100 per share but getting shares of the ETF that are trading on the open market for $101 per share. This process is called creation and increases the number of ETF shares on the market. If everything else remains the same, increasing the number of shares available on the market will reduce the price of the ETF and bring shares in line with the NAV of the fund.
 
 ### Redemption
 
-Conversely, an AP also buys shares of the ETF on the open market. The AP then sells these shares back to the ETF sponsor in exchange for individual stock shares that the AP can sell on the open market. As a result, the number of ETF shares are reduced through the process called [redemption](https://www.investopedia.com/terms/r/redemption-mechanism.asp).
+Conversely, an AP also buys shares of the ETF on the open market. The AP then sells these shares back to the ETF sponsor in exchange for individual stock shares that the AP can sell on the open market. As a result, the number of ETF shares are reduced through the process called [[redemption]](https://www.investopedia.com/terms/r/redemption-mechanism.asp).
 
 The amount of redemption and creation activity is a function of demand in the market and whether the ETF is trading at a discount or premium to the value of the fund's assets.
 

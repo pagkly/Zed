@@ -16,7 +16,7 @@ author: James Chen
 Hundredweight (Cwt) Definition
 ## What Is a Hundredweight (CWT)?
 
-A hundredweight (cwt) is a unit of measurement used in certain [commodities trading](https://www.investopedia.com/investing/commodities-trading-overview/) contracts. Its usage has gradually declined in favor of contract specifications in pounds or kilograms.
+A hundredweight (cwt) is a unit of measurement used in certain [[commodities trading]](https://www.investopedia.com/investing/commodities-trading-overview/) contracts. Its usage has gradually declined in favor of contract specifications in pounds or kilograms.
 
 Its value differs between the American and British usages of the term. In the United Kingdom, a hundredweight is a unit of mass equal to 112 pounds. In the United States, a hundredweight is a unit of mass equal to 100 pounds. The two values are sometimes distinguished by referring to the American hundredweight as a "short hundredweight" and the British hundredweight as the "long hundredweight." The short hundredweight is also sometimes called a "cental."
 
@@ -33,7 +33,7 @@ Throughout history, the hundredweight has had different values. In England, the 
 
 The hundredweight was used as a unit of measure in trading livestock, grains, and other commodities contracts. The purpose of the hundredweight was to provide a standard of measurement, simplifying the trading of certain goods among countries. Having a standard of measurement was especially helpful when dealing with items that were traded in large quantities. It was accepted that 20 hundredweights created a ton, where a short ton weighed 2,000 pounds and a long ton weighed 2,240 pounds.
 
-In the United States and the United Kingdom, the hundredweight was most commonly used to measure [tangible commodities](https://www.investopedia.com/ask/answers/012815/what-difference-between-tangible-and-intangible-assets.asp). Many food items, such as cattle, oil, seeds, and grains were measured using the hundredweight, along with items like paper and certain chemicals or additives. Rice and other similar [futures](https://www.investopedia.com/terms/f/futures.asp) may also be measured in hundredweight.
+In the United States and the United Kingdom, the hundredweight was most commonly used to measure [[tangible commodities]](https://www.investopedia.com/ask/answers/012815/what-difference-between-tangible-and-intangible-assets.asp). Many food items, such as cattle, oil, seeds, and grains were measured using the hundredweight, along with items like paper and certain chemicals or additives. Rice and other similar [[futures]](https://www.investopedia.com/terms/f/futures.asp) may also be measured in hundredweight.
 
 Anvils were commonly measured in hundredweight, using a decimal designation to state the number of hundredweights, quarter-hundredweights and pounds the anvil weighed. Though it is not necessarily the case today, the formula can still be used to determine anvil weight in instances where it is present.
 

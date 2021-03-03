@@ -16,9 +16,9 @@ author: Alicia Tuovila
 What Are a Company's Earnings?
 ## What Are Earnings?
 
-A company's earnings are its after-tax [net income](https://www.investopedia.com/terms/n/netincome.asp). This is the company's [bottom line](https://www.investopedia.com/terms/b/bottomline.asp) or its [profits](https://www.investopedia.com/terms/p/profit.asp).
+A company's earnings are its after-tax [[net income]](https://www.investopedia.com/terms/n/netincome.asp). This is the company's [[bottom line]](https://www.investopedia.com/terms/b/bottomline.asp) or its [[profits]](https://www.investopedia.com/terms/p/profit.asp).
 
-Earnings are perhaps the single most important and most closely studied number in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp). It shows a company's real profitability compared to the [analyst](https://www.investopedia.com/terms/a/analyst.asp) estimates, its own historical performance, and the earnings of its competitors and industry peers.
+Earnings are perhaps the single most important and most closely studied number in a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp). It shows a company's real profitability compared to the [analyst](https://www.investopedia.com/terms/a/analyst.asp) estimates, its own historical performance, and the earnings of its competitors and industry peers.
 
 Earnings are the main determinant of a public company's share price because they can be used in only two ways: They can be invested in the business to increase its earnings in the future, or they can be used to reward stockholders with dividends.
 
@@ -33,7 +33,7 @@ Earnings are the main determinant of a public company's share price because they
 
 Earnings are the profit that a company produces in a specific period, usually defined as a quarter or a year. After the end of each quarter, analysts wait for the earnings of the companies they follow to be released. Earnings are studied because they represent a direct link to company performance.
 
-Earnings that deviate from the expectations of the analysts that follow that stock can have a great impact on the [stock](https://www.investopedia.com/terms/s/stock.asp)'s price, at least in the short term. For instance, if analysts on average estimate that earnings will be $1 per share and they come in at $0.80 per share, the price of the stock is likely to fall on that "earnings miss."
+Earnings that deviate from the expectations of the analysts that follow that stock can have a great impact on the [[stock]](https://www.investopedia.com/terms/s/stock.asp)'s price, at least in the short term. For instance, if analysts on average estimate that earnings will be $1 per share and they come in at $0.80 per share, the price of the stock is likely to fall on that "earnings miss."
 
 A company that beats analysts' earnings estimates is looked on favorably by investors. A company that consistently misses earnings estimates may be considered an unattractive and risky investment.
 
@@ -43,7 +43,7 @@ Generally, a new, entrepreneurial company that is seen as having strong potentia
 
 ## Measures of Earnings
 
-There are many measures and uses of earnings. Some analysts like to calculate earnings before taxes ([EBT](https://www.investopedia.com/terms/e/ebt.asp)), also known as pre-tax income. Some analysts prefer to see earnings before interest and taxes ([EBIT](https://www.investopedia.com/terms/e/ebit.asp)). Still other analysts, mainly in industries with a high level of fixed assets, prefer to see earnings before interest, taxes, depreciation, and amortization, also known as [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp).
+There are many measures and uses of earnings. Some analysts like to calculate earnings before taxes ([EBT](https://www.investopedia.com/terms/e/ebt.asp)), also known as pre-tax income. Some analysts prefer to see earnings before interest and taxes ([EBIT](https://www.investopedia.com/terms/e/ebit.asp)). Still other analysts, mainly in industries with a high level of fixed assets, prefer to see earnings before interest, taxes, depreciation, and amortization, also known as [[EBITDA]](https://www.investopedia.com/terms/e/ebitda.asp).
 
 All three figures provide varying degrees of measuring profitability.
 
@@ -61,16 +61,16 @@ The stock of a company with a high P/E ratio relative to its industry peers may
 
 ### Earnings Yield
 
-The [earnings yield](https://www.investopedia.com/terms/e/earningsyield.asp), or the earnings per share for the most recent 12-month period divided by the current market price per share, is another way of measuring earnings. It is in fact simply the inverse of the P/E ratio.
+The [[earnings yield]](https://www.investopedia.com/terms/e/earningsyield.asp), or the earnings per share for the most recent 12-month period divided by the current market price per share, is another way of measuring earnings. It is in fact simply the inverse of the P/E ratio.
 
 ### Criticism of Earnings
 
 Since corporate earnings are such an important metric and have a direct impact on share price, managers may be tempted to manipulate earnings figures. This is both illegal and unethical.
 
-Some companies attempt to sway investors by prominently displaying their earnings on their [financial](https://www.investopedia.com/articles/professionals/092415/career-advice-financial-analyst-vsresearch-analyst.asp) statements in order to hide deficiencies reported lower down that reveal weaknesses like dubious accounting practices or an unanticipated drop in sales. These companies are said to have a poor or weak [quality of earnings](https://www.investopedia.com/terms/q/qualityofearnings.asp).
+Some companies attempt to sway investors by prominently displaying their earnings on their [[financial]](https://www.investopedia.com/articles/professionals/092415/career-advice-financial-analyst-vsresearch-analyst.asp) statements in order to hide deficiencies reported lower down that reveal weaknesses like dubious accounting practices or an unanticipated drop in sales. These companies are said to have a poor or weak [[quality of earnings]](https://www.investopedia.com/terms/q/qualityofearnings.asp).
 
-The earnings per share number may also be inflated with share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of shares outstanding. Companies can do this by repurchasing shares with retained earnings or debt to make it appear as if they are generating greater profits per outstanding share.
+The earnings per share number may also be inflated with share [[buybacks]](https://www.investopedia.com/terms/b/buyback.asp) or other methods of changing the number of shares outstanding. Companies can do this by repurchasing shares with retained earnings or debt to make it appear as if they are generating greater profits per outstanding share.
 
-Other companies may purchase a smaller company with a higher P/E ratio to [bootstrap](https://www.investopedia.com/terms/b/bootstrap.asp) their own numbers into favorable territory.
+Other companies may purchase a smaller company with a higher P/E ratio to [[bootstrap]](https://www.investopedia.com/terms/b/bootstrap.asp) their own numbers into favorable territory.
 
 When earnings manipulations are revealed, as in the case with Enron or Worldcom, the accounting crisis that follows often leaves shareholders on the hook for rapidly declining stock prices.

@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Weak AI
 ## What Is Weak AI?
 
-Weak artificial intelligence (AI)—also called narrow AI—is a type of [artificial intelligence](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) that is limited to a specific or narrow area. Weak AI simulates human cognition. It has the potential to benefit society by automating time-consuming tasks and by analyzing data in ways that humans sometimes can’t. Weak AI can be contrasted to [strong AI](https://www.investopedia.com/terms/s/strong-ai.asp), a theoretical form of machine intelligence that is equal to human intelligence.
+Weak artificial intelligence (AI)—also called narrow AI—is a type of [[artificial intelligence]](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) that is limited to a specific or narrow area. Weak AI simulates human cognition. It has the potential to benefit society by automating time-consuming tasks and by analyzing data in ways that humans sometimes can’t. Weak AI can be contrasted to [[strong AI]](https://www.investopedia.com/terms/s/strong-ai.asp), a theoretical form of machine intelligence that is equal to human intelligence.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Weak AI lacks human consciousness, although it may be able to simulate it at tim
 
 Narrow or weak AI systems do not have general intelligence; they have specific intelligence. An AI that is an expert at telling you how to drive from point A to point B is usually incapable of challenging you to a game of chess. In the same way, a form of AI that can pretend to speak Chinese with you probably cannot sweep your floors.
 
-Weak AI helps turn [big data](https://www.investopedia.com/terms/b/big-data.asp) into usable information by detecting patterns and making predictions. Examples of weak AI include Facebook’s newsfeed, Amazon’s suggested purchases and Apple’s Siri, the iPhone technology that [answers users’ spoken questions](https://www.investopedia.com/terms/c/chatbot.asp). Email spam filters are another example of weak AI; a computer uses an algorithm to learn which messages are likely to be spam, then redirects them from the inbox to the spam folder.
+Weak AI helps turn [[big data]](https://www.investopedia.com/terms/b/big-data.asp) into usable information by detecting patterns and making predictions. Examples of weak AI include Facebook’s newsfeed, Amazon’s suggested purchases and Apple’s Siri, the iPhone technology that [[answers users’ spoken questions]](https://www.investopedia.com/terms/c/chatbot.asp). Email spam filters are another example of weak AI; a computer uses an algorithm to learn which messages are likely to be spam, then redirects them from the inbox to the spam folder.
 
 ## Limitations of Weak AI
 

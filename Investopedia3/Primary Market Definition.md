@@ -16,9 +16,9 @@ author: James Chen
 Primary Market Definition
 ## What Is a Primary Market?
 
-A primary market issues new securities on an exchange for companies, governments, and other groups to obtain financing through debt-based or equity-based securities. Primary markets are facilitated by [underwriting groups](https://www.investopedia.com/terms/u/underwriting-group.asp) consisting of investment banks that set a beginning price range for a given security and oversee its sale to investors.
+A primary market issues new securities on an exchange for companies, governments, and other groups to obtain financing through debt-based or equity-based securities. Primary markets are facilitated by [[underwriting groups]](https://www.investopedia.com/terms/u/underwriting-group.asp) consisting of investment banks that set a beginning price range for a given security and oversee its sale to investors.
 
-Once the initial sale is complete, further trading is conducted on the [secondary market](https://www.investopedia.com/terms/s/secondarymarket.asp), where the bulk of exchange trading occurs each day.
+Once the initial sale is complete, further trading is conducted on the [[secondary market]](https://www.investopedia.com/terms/s/secondarymarket.asp), where the bulk of exchange trading occurs each day.
 
 ## Understanding Primary Markets
 
@@ -54,6 +54,6 @@ Costera, a Colombian road concessionaire, announced a dual-currency bond sale. F
 
 ### Facebook’s Initial Public Offering
 
-Facebook Inc.'s [initial public offering (IPO](https://www.investopedia.com/terms/i/ipo.asp)) in 2012 was the largest IPO of an online company and one of the largest IPOs in the technology sector. Many investors believed the stock's value would very quickly increase on the secondary market due to the company's popularity. Because of high demand in the primary market, underwriters priced the stock at $38 per share, at the top of the targeted range, and raised the stock offering level by 25% to 421 million shares. The stock valuation became $104 billion, the largest of any newly public company.
+Facebook Inc.'s [[initial public offering (IPO]](https://www.investopedia.com/terms/i/ipo.asp)) in 2012 was the largest IPO of an online company and one of the largest IPOs in the technology sector. Many investors believed the stock's value would very quickly increase on the secondary market due to the company's popularity. Because of high demand in the primary market, underwriters priced the stock at $38 per share, at the top of the targeted range, and raised the stock offering level by 25% to 421 million shares. The stock valuation became $104 billion, the largest of any newly public company.
 
 Although Facebook raised $16 billion through the primary market, the stock did not greatly increase in value the day of the IPO. After 460 million shares were sold and turnover exceeded 100%, the stock closed at $38.23. However, Facebook still raised funding and investors purchased stock at a discount through the primary market.

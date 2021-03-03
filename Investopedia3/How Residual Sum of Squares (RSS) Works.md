@@ -16,7 +16,7 @@ author: Adam Barone
 How Residual Sum of Squares (RSS) Works
 ## What Is the Residual Sum of Squares (RSS)?
 
-A residual sum of squares (RSS) is a statistical technique used to measure the amount of [variance](https://www.investopedia.com/terms/v/variance.asp) in a data set that is not explained by a regression model itself. Instead, it estimates the variance in the residuals, or error term.
+A residual sum of squares (RSS) is a statistical technique used to measure the amount of [[variance]](https://www.investopedia.com/terms/v/variance.asp) in a data set that is not explained by a regression model itself. Instead, it estimates the variance in the residuals, or error term.
 
 [Linear regression](https://www.investopedia.com/terms/r/regression.asp) is a measurement that helps determine the strength of the relationship between a dependent variable and one or more other factors, known as independent or explanatory variables.
 
@@ -36,7 +36,7 @@ where
 
 ## Understanding the Residual Sum of Squares (RSS)
 
-In general terms, the [sum of squares](https://www.investopedia.com/terms/s/sum-of-squares.asp) is a statistical technique used in regression analysis to determine the dispersion of data points. In a [regression analysis](https://www.investopedia.com/terms/r/regression.asp), the goal is to determine how well a data series can be fitted to a function that might help to explain how the data series was generated. Sum of squares is used as a mathematical way to find the function that [best fits](https://www.investopedia.com/terms/l/line-of-best-fit.asp) (varies least) from the data.
+In general terms, the [[sum of squares]](https://www.investopedia.com/terms/s/sum-of-squares.asp) is a statistical technique used in regression analysis to determine the dispersion of data points. In a [regression analysis](https://www.investopedia.com/terms/r/regression.asp), the goal is to determine how well a data series can be fitted to a function that might help to explain how the data series was generated. Sum of squares is used as a mathematical way to find the function that [best fits](https://www.investopedia.com/terms/l/line-of-best-fit.asp) (varies least) from the data.
 
 The _residual_ sum of squares (RSS) measures the amount of error remaining between the regression function and the data set after the model has been run. A smaller residual sum of squares figure represents a regression function. Residual sum of squares–also known as the sum of squared residuals–essentially determines how well a regression model explains or represents the data in the model.
 

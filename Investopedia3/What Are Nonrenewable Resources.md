@@ -16,11 +16,11 @@ author: James Chen
 What Are Nonrenewable Resources?
 ## What Are Nonrenewable Resources?
 
-A nonrenewable resource is a natural substance that is not replenished with the speed at which it is consumed. It is a [finite](https://www.investopedia.com/articles/investing/120515/infinite-economic-growth-finite-planet-possible.asp) resource.
+A nonrenewable resource is a natural substance that is not replenished with the speed at which it is consumed. It is a [[finite]](https://www.investopedia.com/articles/investing/120515/infinite-economic-growth-finite-planet-possible.asp) resource.
 
 Fossil fuels such as oil, natural gas, and coal are examples of nonrenewable resources. Humans constantly draw on the reserves of these substances while the formation of new supplies takes eons.
 
-Renewable resources are the opposite: Their supply replenishes naturally or can be sustained. The sunlight used in [solar](https://www.investopedia.com/articles/personal-finance/042315/how-profit-solar-energy.asp) power and the wind used to power wind turbines replenish themselves. Timber reserves can be sustained through replanting.
+Renewable resources are the opposite: Their supply replenishes naturally or can be sustained. The sunlight used in [[solar]](https://www.investopedia.com/articles/personal-finance/042315/how-profit-solar-energy.asp) power and the wind used to power wind turbines replenish themselves. Timber reserves can be sustained through replanting.
 
 ## Understanding Nonrenewable Resources
 
@@ -40,7 +40,7 @@ For example, the fossil fuel industry extracts crude oil from the ground and con
 
 ### Fossil Fuels Vs. Nonrenewables
 
-Fossil fuels are all nonrenewable. But not all nonrenewables are fossil fuels. Crude oil, natural gas, and coal are all considered fossil fuels, but uranium is not. Rather, it is a heavy metal that is extracted as a solid and then converted by [nuclear power](https://www.investopedia.com/investing/nuclear-stocks/) plants into a fuel source.
+Fossil fuels are all nonrenewable. But not all nonrenewables are fossil fuels. Crude oil, natural gas, and coal are all considered fossil fuels, but uranium is not. Rather, it is a heavy metal that is extracted as a solid and then converted by [[nuclear power]](https://www.investopedia.com/investing/nuclear-stocks/) plants into a fuel source.
 
 In the language of economics, nonrenewables are resources that cannot be replaced at the speed with which they are being consumed.
 
@@ -60,6 +60,6 @@ Some types of groundwater are considered nonrenewable resources if the aquifer i
 
 Following the basic rule of supply and demand, the cost to obtain nonrenewable resources will continue to rise as they become scarcer. Supply for many of these fuels is in danger of running out completely. Eventually, their prices will hit a point that end users cannot afford, forcing a move toward alternative energy sources.
 
-Meanwhile, concern over the impact of fossil fuel use on the environment and its contribution to global warming is growing. The first international agreement on fighting climate change was the [Kyoto Protocol](https://www.investopedia.com/terms/k/kyoto.asp), adopted in 1997.
+Meanwhile, concern over the impact of fossil fuel use on the environment and its contribution to global warming is growing. The first international agreement on fighting climate change was the [[Kyoto Protocol]](https://www.investopedia.com/terms/k/kyoto.asp), adopted in 1997.
 
 One caveat is that the alternatives require ample lead time to be put into place. That process has begun slowly. Wind power generated about 6.3% of American electrical power in 2017. About 1.6% of American electricity was supplied by solar power as of the end of 2017. Plug-in electric vehicles had a market share of a bit over 2% in 2018.

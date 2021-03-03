@@ -16,7 +16,7 @@ author: James Chen
 Price to Free Cash Flow Definition
 ## What is Price to Free Cash Flow?
 
-Price to free cash flow is an equity [valuation](https://www.investopedia.com/terms/v/valuation.asp) metric used to compare a company's per-share [market price](https://www.investopedia.com/terms/m/market-price.asp) to its per-share amount of [free cash flow (FCF).](https://www.investopedia.com/terms/f/freecashflow.asp) This metric is very similar to the valuation metric of price to cash flow but is considered a more exact measure, owing to the fact that it uses free cash flow, which subtracts capital expenditures (CAPEX) from a company's total [operating cash flow](https://www.investopedia.com/terms/o/operatingcashflow.asp), thereby reflecting the actual cash flow available to fund non-asset-related growth. Companies use this metric when they need to expand their [asset bases](https://www.investopedia.com/terms/a/asset-base.asp) either in order to grow their businesses or simply to maintain acceptable levels of free cash flow.
+Price to free cash flow is an equity [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) metric used to compare a company's per-share [[market price]](https://www.investopedia.com/terms/m/market-price.asp) to its per-share amount of [[free cash flow (FCF).]](https://www.investopedia.com/terms/f/freecashflow.asp) This metric is very similar to the valuation metric of price to cash flow but is considered a more exact measure, owing to the fact that it uses free cash flow, which subtracts capital expenditures (CAPEX) from a company's total [[operating cash flow]](https://www.investopedia.com/terms/o/operatingcashflow.asp), thereby reflecting the actual cash flow available to fund non-asset-related growth. Companies use this metric when they need to expand their [[asset bases]](https://www.investopedia.com/terms/a/asset-base.asp) either in order to grow their businesses or simply to maintain acceptable levels of free cash flow.
 
 Price to FCF\=Market CapitalizationFree Cash Flow\\begin{aligned} &\\text{Price to FCF} = \\frac { \\text{Market Capitalization} }{ \\text{Free Cash Flow} } \\\\ \\end{aligned}
 
@@ -33,7 +33,7 @@ The price to free cash flow metric is calculated as follows:
 
 Price to free cash flow = market capitalization value / total free cash flow amount
 
-For example, a company with $100 million in total operating cash flow and $50 million in [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) has a free cash flow total of $50 million. If the company's [market cap](https://www.investopedia.com/video/play/market-cap/) value is $1 billion, then the company's stock [trades](https://www.investopedia.com/terms/t/trade.asp) at 20 times free cash flow - $1 billion / $50 million.
+For example, a company with $100 million in total operating cash flow and $50 million in [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) has a free cash flow total of $50 million. If the company's [[market cap]](https://www.investopedia.com/video/play/market-cap/) value is $1 billion, then the company's stock [[trades]](https://www.investopedia.com/terms/t/trade.asp) at 20 times free cash flow - $1 billion / $50 million.
 
 #### Understanding Free Cash Flow
 
@@ -43,4 +43,4 @@ Because price to free cash flow is a value metric, lower numbers generally indic
 
 As with any equity evaluation metric, it is most useful to compare a company's price to free cash ratio to that of other similar companies in the same industry. However, the price to free cash flow metric can also be viewed over a long-term time frame to see if the company's cash flow to share price value is generally improving or worsening.
 
-Price to free cash flow ratio can be affected by companies manipulating the statement of their free cash flow on [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), by doing things such as preserving cash by putting off inventory purchases until after the period covered by the financial statement.
+Price to free cash flow ratio can be affected by companies manipulating the statement of their free cash flow on [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), by doing things such as preserving cash by putting off inventory purchases until after the period covered by the financial statement.

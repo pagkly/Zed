@@ -16,9 +16,9 @@ author: Julia Kagan
 Passive Activity Loss Rules
 ## What Are Passive Activity Loss Rules?
 
-Passive activity loss rules are a set of IRS rules that prohibit using [passive losses](https://www.investopedia.com/terms/p/passiveloss.asp) to offset earned or ordinary income. Passive activity loss rules prevent investors from using [losses incurred](https://www.investopedia.com/terms/l/losses-incurred.asp) from income-producing activities in which they are not materially involved.1
+Passive activity loss rules are a set of IRS rules that prohibit using [[passive losses]](https://www.investopedia.com/terms/p/passiveloss.asp) to offset earned or ordinary income. Passive activity loss rules prevent investors from using [[losses incurred]](https://www.investopedia.com/terms/l/losses-incurred.asp) from income-producing activities in which they are not materially involved.1
 
-Being materially involved with earned or ordinary income-producing activities means the income is [active income](https://www.investopedia.com/terms/a/activeincome.asp) and may not be reduced by passive losses. Passive losses can be used only to offset passive income.1
+Being materially involved with earned or ordinary income-producing activities means the income is [[active income]](https://www.investopedia.com/terms/a/activeincome.asp) and may not be reduced by passive losses. Passive losses can be used only to offset passive income.1
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ Being materially involved with earned or ordinary income-producing activities me
 
 ## Understanding Passive Activity Loss Rules
 
-The key issue with passive activity loss rules is [material participation](https://www.investopedia.com/terms/m/material-participation-test.asp). According to IRS Topic No. 425, "material participation" is involvement in the operation of a trade or business activity on a "regular, continuous, and substantial basis."2 There are seven tests that can define material participation, but the most common one is working at least 500 hours in the business in the course of a year.3
+The key issue with passive activity loss rules is [[material participation]](https://www.investopedia.com/terms/m/material-participation-test.asp). According to IRS Topic No. 425, "material participation" is involvement in the operation of a trade or business activity on a "regular, continuous, and substantial basis."2 There are seven tests that can define material participation, but the most common one is working at least 500 hours in the business in the course of a year.3
 
 If the taxpayer does not materially participate in the activity that is producing the passive losses, those losses can be matched only against passive income. If there is no passive income, no loss can be deducted. Note that rental activities—including real estate rental activities—are considered passive activities even if there is material participation ("real estate professionals" have their own rules for determining material participation).4
 
 Passive activity losses can only be applied in the current year. However, if they exceed passive income they can be carried forward without limitation; they cannot be carried back.1
 
-Passive activity loss rules are generally applied at the individual level, but they also extend to virtually all businesses and rental activity in various reporting entities, except C corporations, in order to deter abusive tax shelters.5 There are detailed rules about how much in passive losses is deductible; the [Tax Cut and Jobs Act of 2017](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) changed some of these numbers. If you think these rules could apply to your tax situation, consult a tax specialist.6
+Passive activity loss rules are generally applied at the individual level, but they also extend to virtually all businesses and rental activity in various reporting entities, except C corporations, in order to deter abusive tax shelters.5 There are detailed rules about how much in passive losses is deductible; the [[Tax Cut and Jobs Act of 2017]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) changed some of these numbers. If you think these rules could apply to your tax situation, consult a tax specialist.6
 
 ## Passive Losses and Passive Activity
 

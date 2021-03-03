@@ -16,7 +16,7 @@ author: Christina Majaski
 Producer Price Index (PPI) Definition
 ## What Is the Producer Price Index (PPI)?
 
-The producer price index (PPI), published by the [Bureau of Labor Statistics](https://www.investopedia.com/terms/b/bls.asp) (BLS), is a group of indices that calculates and represents the average movement in selling prices from domestic production over time.
+The producer price index (PPI), published by the [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp) (BLS), is a group of indices that calculates and represents the average movement in selling prices from domestic production over time.
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ The producer price index (PPI), published by the [Bureau of Labor Statistics](ht
 
 ## Understanding Producer Price Index (PPI)
 
-The PPI measures price movements from the seller's point of view. Conversely, the [consumer price index](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) measures cost changes from the viewpoint of the consumer. In other words, this index tracks change to the cost of production. There are three areas of PPI classification that use the same pool of data from the Bureau of Labor Statistics: industry, commodity, and commodity-based final and intermediate demand (FD-ID).1
+The PPI measures price movements from the seller's point of view. Conversely, the [[consumer price index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) measures cost changes from the viewpoint of the consumer. In other words, this index tracks change to the cost of production. There are three areas of PPI classification that use the same pool of data from the Bureau of Labor Statistics: industry, commodity, and commodity-based final and intermediate demand (FD-ID).1
 
 The Bureau of Labor Statistics (BLS) releases monthly information that includes the measurement of nearly 10,000 individual products and product groups.2 This data contains almost all industries that produce goods in the United States. Some of the sectors covered include construction, agriculture, manufacturing, and mining.
 
 Until 1978, the PPI was known as the wholesale price index (WPI). In 1982, the BLS reset all producer price index bases to 100, and this event became the base year.
 
-Each specific measurement period, product group, or individual product type, begins with a [base period](https://www.investopedia.com/terms/b/baseperiod.asp) number of 100. As production increases or decreases, the movements can then be compared against the base number.3 As an example, say the production of balloons has a PPI of 115 for the month of July. The 115 figure indicates that it cost the balloon manufacturing industry 15% more to produce balloons in July than it did in June.
+Each specific measurement period, product group, or individual product type, begins with a [[base period]](https://www.investopedia.com/terms/b/baseperiod.asp) number of 100. As production increases or decreases, the movements can then be compared against the base number.3 As an example, say the production of balloons has a PPI of 115 for the month of July. The 115 figure indicates that it cost the balloon manufacturing industry 15% more to produce balloons in July than it did in June.
 
 ## Example of Producer Price Index (PPI)
 

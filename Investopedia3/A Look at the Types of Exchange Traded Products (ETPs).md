@@ -16,7 +16,7 @@ author: James Chen
 A Look at the Types of Exchange Traded Products (ETPs)
 ## What Is an Exchange Traded Product (ETP)?
 
-Exchange-traded products (ETPs) are types of securities that track [underlying securities](https://www.investopedia.com/terms/u/underlying-security.asp), an index, or other [financial instruments](https://www.investopedia.com/terms/f/financialinstrument.asp). ETPs trade on exchanges similar to stocks meaning their prices can fluctuate from day-to-day and intraday. However, the prices of ETPs are derived from the underlying investments that they track.
+Exchange-traded products (ETPs) are types of securities that track [[underlying securities]](https://www.investopedia.com/terms/u/underlying-security.asp), an index, or other [[financial instruments]](https://www.investopedia.com/terms/f/financialinstrument.asp). ETPs trade on exchanges similar to stocks meaning their prices can fluctuate from day-to-day and intraday. However, the prices of ETPs are derived from the underlying investments that they track.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ Exchange-traded products (ETPs) are types of securities that track [underlying s
 
 ## Types of Exchange Traded Products
 
-Exchange-traded products can be benchmarked to myriad investments including commodities, currencies, stocks, and [bonds](https://www.investopedia.com/terms/b/bond.asp). Since prices of ETPs can fluctuate, investors have the potential to earn gains but also have the risk of market losses. ETPs can contain a few or hundreds of underlying investments.
+Exchange-traded products can be benchmarked to myriad investments including commodities, currencies, stocks, and [[bonds]](https://www.investopedia.com/terms/b/bond.asp). Since prices of ETPs can fluctuate, investors have the potential to earn gains but also have the risk of market losses. ETPs can contain a few or hundreds of underlying investments.
 
 ### Exchange-Traded Funds (ETFs)
 
-Similar to a mutual fund, an [exchange-traded fund](https://www.investopedia.com/terms/e/etf.asp) contains a basket of investments that can include stocks and bonds. An ETF usually tracks an underlying index such as the S&P 500 but can follow an industry, sector, commodities, or even currency. An exchange-traded fund's price can rise and fall just like other investments. These products trade throughout the day just as a stock would trade.
+Similar to a mutual fund, an [[exchange-traded fund]](https://www.investopedia.com/terms/e/etf.asp) contains a basket of investments that can include stocks and bonds. An ETF usually tracks an underlying index such as the S&P 500 but can follow an industry, sector, commodities, or even currency. An exchange-traded fund's price can rise and fall just like other investments. These products trade throughout the day just as a stock would trade.
 
 The popularity surrounding ETFs stems from their low fees since they are passively managed. For example, a passively-managed ETF might track the S&P 500. Here, the ETF owns all 500 stocks contained in the index. Conversely, an actively-managed fund involves an investment manager buying and selling securities, which can lead to higher fees. Some ETFs share a combination of both passive and active attributes.
 
@@ -46,7 +46,7 @@ Different tax treatments apply to the various types of ETPs. Investors should sp
 
 ## Exchange-Traded Products vs. Mutual Funds
 
-Exchange-traded products were developed to create investments that had more flexibility than mutual funds. [Mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) are funds that are comprised of a basket of securities that are funded by a collection of investors and managed by professional [money managers](https://www.investopedia.com/terms/m/moneymanager.asp).
+Exchange-traded products were developed to create investments that had more flexibility than mutual funds. [[Mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) are funds that are comprised of a basket of securities that are funded by a collection of investors and managed by professional [money managers](https://www.investopedia.com/terms/m/moneymanager.asp).
 
 Mutual funds are typically priced just once at the end of the trading day. ETPs trade like stocks and can be bought and sold throughout the day and have prices that move throughout the day. For example, an investor can place an order with ETFs to buy or sell at a specific price with a broker. Investors can buy the ETF in the morning and sell it by the end of the day whereas mutual funds do not have that flexibility. ETPs often carry lower expense ratios than their mutual fund counterparts.
 

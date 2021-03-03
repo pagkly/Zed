@@ -24,7 +24,7 @@ The PPF is also referred to as the production possibility curve or the transform
 
 ## Understanding the PPF
 
-In [macroeconomics](https://www.investopedia.com/macroeconomics-4689798), the PPF is the point at which a country’s economy is most efficiently producing its various goods and services and, therefore, allocating its resources in the best way possible.
+In [[macroeconomics]](https://www.investopedia.com/macroeconomics-4689798), the PPF is the point at which a country’s economy is most efficiently producing its various goods and services and, therefore, allocating its resources in the best way possible.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ In [macroeconomics](https://www.investopedia.com/macroeconomics-4689798), the PP
 
 That is, there are just enough apple orchards producing apples, just enough car factories making cars, and just enough accountants offering tax services.
 
-If the [economy](https://www.investopedia.com/terms/e/economy.asp) is producing more or less of the quantities indicated by the PPF, resources are being managed inefficiently and the nation's economic stability will deteriorate.
+If the [[economy]](https://www.investopedia.com/terms/e/economy.asp) is producing more or less of the quantities indicated by the PPF, resources are being managed inefficiently and the nation's economic stability will deteriorate.
 
 The production possibility frontier demonstrates that there are, or should be, limits on production. An economy, to achieve efficiency, must decide what combination of goods and services can and should be produced.
 
@@ -42,7 +42,7 @@ The production possibility frontier demonstrates that there are, or should be, l
 
 ### The Business View
 
-In business analysis, the PPF operates under the assumption that the production of one [commodity](https://www.investopedia.com/articles/trading/05/021605.asp) can only increase if the production of the other commodity decreases, due to limited available resources. Thus, PPF measures the efficiency with which two commodities can be produced simultaneously.
+In business analysis, the PPF operates under the assumption that the production of one [[commodity]](https://www.investopedia.com/articles/trading/05/021605.asp) can only increase if the production of the other commodity decreases, due to limited available resources. Thus, PPF measures the efficiency with which two commodities can be produced simultaneously.
 
 This data is of importance to managers seeking to determine the precise mix of goods that most benefits a company's bottom line.
 
@@ -56,7 +56,7 @@ The PPF is graphically depicted as an arc, with one commodity represented on the
 
 Economists use PPFs to demonstrate that an efficient nation produces what it is most capable of producing and trades with other nations for the rest.
 
-For example, if a non-profit agency provides a mix of textbooks and computers, the PPF may show that it can produce either 40 textbooks and seven computers, or 70 textbooks and three computers. The agency's leadership must determine which item is more urgently needed. In this example, the [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp) of producing an additional 30 textbooks equals four computers.
+For example, if a non-profit agency provides a mix of textbooks and computers, the PPF may show that it can produce either 40 textbooks and seven computers, or 70 textbooks and three computers. The agency's leadership must determine which item is more urgently needed. In this example, the [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp) of producing an additional 30 textbooks equals four computers.
 
 ### PPF on a National Scale
 
@@ -88,7 +88,7 @@ An economy can only be produced on the PPF curve in theory. In reality, economie
 
 ### PPF and the Pareto Efficiency
 
-The [Pareto Efficiency](https://www.investopedia.com/terms/p/pareto-efficiency.asp), a concept named after Italian economist Vilfredo Pareto, measures the efficiency of the commodity allocation on the PPF. The Pareto Efficiency states that any point within the PPF curve is inefficient because the total output of commodities is below the output capacity.
+The [[Pareto Efficiency]](https://www.investopedia.com/terms/p/pareto-efficiency.asp), a concept named after Italian economist Vilfredo Pareto, measures the efficiency of the commodity allocation on the PPF. The Pareto Efficiency states that any point within the PPF curve is inefficient because the total output of commodities is below the output capacity.
 
 Conversely, any point outside the PPF curve is impossible because it represents a mix of commodities that will require more resources to produce than are currently obtainable.
 
@@ -98,7 +98,7 @@ Therefore, in situations with limited resources, only the efficient commodity mi
 
 An economy may be able to produce for itself all of the goods and services it needs to function using the PPF as a guide. However, this may actually lead to an overall inefficient allocation of resources and hinder future growth when the benefits of trade are considered.
 
-Through [specialization](https://www.investopedia.com/terms/s/specialization.asp), a country can concentrate on the production of just a few things that it can do best, rather than trying to do everything on its own.
+Through [[specialization]](https://www.investopedia.com/terms/s/specialization.asp), a country can concentrate on the production of just a few things that it can do best, rather than trying to do everything on its own.
 
 ### Example of PPF
 
@@ -108,7 +108,7 @@ If Country A were to try to produce both cars and cotton, it would need to split
 
 ### The Comparative Advantage
 
-Each country in our example can produce one of these products more efficiently (at a lower cost) than the other. We can say that Country A has a [comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp) over Country B in the production of cars, and Country B has a comparative advantage over Country A in the production of cotton.
+Each country in our example can produce one of these products more efficiently (at a lower cost) than the other. We can say that Country A has a [[comparative advantage]](https://www.investopedia.com/terms/c/comparativeadvantage.asp) over Country B in the production of cars, and Country B has a comparative advantage over Country A in the production of cotton.
 
 Or, both countries could decide to specialize in producing the goods for which they have a comparative advantage. Each can trade its specialized product to the other and both countries will be able to enjoy both products at a lower cost. Quality will improve, too, since each country is making what it makes best.
 
@@ -120,6 +120,6 @@ Like opportunity cost, specialization and comparative advantage also apply to th
 
 Sometimes a country or an individual can produce more than another country, even though countries both have the same amount of inputs. For example, Country A may have a technological advantage that, with the same amount of inputs (good land, steel, labor), enables the country to easily manufacture more of both cars and cotton than Country B.
 
-A country that can produce more of both goods is said to have an [absolute advantage](https://www.investopedia.com/terms/a/absoluteadvantage.asp). Better access to natural resources can give a country an absolute advantage, as can higher levels of education, skilled labor, and overall technological advancement.
+A country that can produce more of both goods is said to have an [[absolute advantage]](https://www.investopedia.com/terms/a/absoluteadvantage.asp). Better access to natural resources can give a country an absolute advantage, as can higher levels of education, skilled labor, and overall technological advancement.
 
 It is not possible, however, for a country to have an absolute advantage in everything that must be produced. it will always need trade.

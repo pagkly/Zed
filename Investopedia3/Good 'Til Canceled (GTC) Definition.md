@@ -16,7 +16,7 @@ author: James Chen
 Good 'Til Canceled (GTC) Definition
 ## What is Good 'Til Canceled (GTC)
 
-Good ’til canceled (GTC) describes a type of [order](https://www.investopedia.com/terms/o/order.asp) that an investor may place to buy or sell a [security](https://www.investopedia.com/terms/s/security.asp) that remains active until either the order is filled or the investor cancels it. [Brokerages](https://www.investopedia.com/articles/professionals/110415/biggest-stock-brokerage-firms-us.asp) will typically limit the maximum time you can keep a GTC order open (active) to 90 days.
+Good ’til canceled (GTC) describes a type of [[order]](https://www.investopedia.com/terms/o/order.asp) that an investor may place to buy or sell a [[security]](https://www.investopedia.com/terms/s/security.asp) that remains active until either the order is filled or the investor cancels it. [[Brokerages]](https://www.investopedia.com/articles/professionals/110415/biggest-stock-brokerage-firms-us.asp) will typically limit the maximum time you can keep a GTC order open (active) to 90 days.
 
 A GTC order may be contrasted with an immediate or cancel ([IOC](https://www.investopedia.com/terms/i/immediateorcancel.asp)) order.
 
@@ -26,15 +26,15 @@ A GTC order may be contrasted with an immediate or cancel ([IOC](https://www.inv
 
 ## Basics of Good 'Til Canceled (GTC)
 
-GTC orders are an alternative to [day orders](https://www.investopedia.com/terms/d/dayorder.asp), which expire if unfilled at the end of the trading day. Despite the name, GTC orders do not typically remain active indefinitely. Most brokers set GTC orders to expire 30 to 90 days after investors place them to avoid a long-forgotten order suddenly being filled.
+GTC orders are an alternative to [[day orders]](https://www.investopedia.com/terms/d/dayorder.asp), which expire if unfilled at the end of the trading day. Despite the name, GTC orders do not typically remain active indefinitely. Most brokers set GTC orders to expire 30 to 90 days after investors place them to avoid a long-forgotten order suddenly being filled.
 
-Through GTC orders, investors who may not constantly watch stock prices can place buy or sell orders at specific price points and keep them for several weeks. If the market price hits the price of the GTC order before it expires, the trade will execute. Investors may also place GTC orders as stop orders, which set sell orders at prices below the [market price](https://www.investopedia.com/terms/m/market-price.asp) and buy orders above the market price to limit losses.
+Through GTC orders, investors who may not constantly watch stock prices can place buy or sell orders at specific price points and keep them for several weeks. If the market price hits the price of the GTC order before it expires, the trade will execute. Investors may also place GTC orders as stop orders, which set sell orders at prices below the [[market price]](https://www.investopedia.com/terms/m/market-price.asp) and buy orders above the market price to limit losses.
 
 Most GTC orders execute at their specified price, or limit price. But there are exceptions. If the price per share gaps up or down between trading days, skipping over the limit price on the GTC order, the order will complete at a price more favorable to the investor who placed the order, i.e., at a higher rate for GTC sell orders and a lower rate for GTC buy orders.
 
 ## The Risks of GTC Orders
 
-Several exchanges, including the NYSE and NASDAQ no longer accept GTC orders, including stop orders.1 They have decided that such orders are a risk to investors who may see their orders executed at an inopportune time due to temporary [volatility](https://www.investopedia.com/terms/v/volatility.asp) in the market. That said, most brokerage firms still offer GTC and stop orders among their services, but they execute them internally.
+Several exchanges, including the NYSE and NASDAQ no longer accept GTC orders, including stop orders.1 They have decided that such orders are a risk to investors who may see their orders executed at an inopportune time due to temporary [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) in the market. That said, most brokerage firms still offer GTC and stop orders among their services, but they execute them internally.
 
 The risk of a GTC order comes when a day of extreme volatility pushes the price past the limit price of the GTC order before quickly snapping back. Volatility may trigger a sell-stop order as the price of a stock slips. If the price rebounds immediately, then the investor just sold low and now faces the prospect of buying high if the investor wants to regain the position.
 

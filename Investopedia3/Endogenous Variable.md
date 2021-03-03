@@ -16,7 +16,7 @@ author: Will Kenton
 Endogenous Variable
 ## What Is an Endogenous Variable?
 
-An endogenous variable is a variable in a statistical model that's changed or determined by its relationship with other variables within the model. In other words, an endogenous variable is synonymous with a dependent variable, meaning it [correlates](https://www.investopedia.com/terms/c/correlation.asp) with other factors within the system being studied. Therefore, its values may be determined by other variables.
+An endogenous variable is a variable in a statistical model that's changed or determined by its relationship with other variables within the model. In other words, an endogenous variable is synonymous with a dependent variable, meaning it [[correlates]](https://www.investopedia.com/terms/c/correlation.asp) with other factors within the system being studied. Therefore, its values may be determined by other variables.
 
 Endogenous variables are the opposite of exogenous variables, which are independent variables or outside forces. Exogenous variables can have an impact on endogenous factors, however.
 
@@ -28,19 +28,19 @@ Endogenous variables are the opposite of exogenous variables, which are independ
 
 ## Understanding Endogenous Variables
 
-Endogenous variables are important in [econometrics](https://www.investopedia.com/terms/e/econometrics.asp) and economic modeling because they show whether a variable causes a particular effect. Economists employ causal modeling to explain outcomes by analyzing dependent variables based on a variety of factors. For example, in a model studying [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp), the price of a good is an endogenous factor because the price can be changed by the producer (supplier) in response to [consumer demand](https://www.investopedia.com/ask/answers/042815/which-economic-factors-most-affect-demand-consumer-goods.asp).
+Endogenous variables are important in [[econometrics]](https://www.investopedia.com/terms/e/econometrics.asp) and economic modeling because they show whether a variable causes a particular effect. Economists employ causal modeling to explain outcomes by analyzing dependent variables based on a variety of factors. For example, in a model studying [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp), the price of a good is an endogenous factor because the price can be changed by the producer (supplier) in response to [[consumer demand]](https://www.investopedia.com/ask/answers/042815/which-economic-factors-most-affect-demand-consumer-goods.asp).
 
 Economists also include independent variables to help determine to which extent a result can be attributed to an exogenous or endogenous cause. Endogenous variables have values that shift as part of a functional relationship between other variables within the model. The relationship is also referred to as dependent and is seen as predictable in nature.
 
-The variables typically correlate in such a way that a movement in one variable should result in a move in the other variable. In other words, the variables should correlate with each other. However, they don't necessarily need to move in the same direction, meaning a rise in one factor could cause a fall in another. As long as the change in the variables is [correlating](https://www.investopedia.com/terms/c/correlation.asp), it's considered endogenous—regardless of whether it's a positive or negative correlation.
+The variables typically correlate in such a way that a movement in one variable should result in a move in the other variable. In other words, the variables should correlate with each other. However, they don't necessarily need to move in the same direction, meaning a rise in one factor could cause a fall in another. As long as the change in the variables is [[correlating]](https://www.investopedia.com/terms/c/correlation.asp), it's considered endogenous—regardless of whether it's a positive or negative correlation.
 
 Although endogenous variables are the dependent variables that correlate with each other, knowing to what extent exogenous variables impact a model is important to consider.
 
-Outside of [economics](https://www.investopedia.com/terms/e/economics.asp), other fields use models with endogenous variables including meteorology and agriculture. Sometimes, the relationship in these models is only endogenous in one direction. For example, while pleasant weather may lead to a higher rate of tourism, higher tourism rates do not affect the weather.
+Outside of [[economics]](https://www.investopedia.com/terms/e/economics.asp), other fields use models with endogenous variables including meteorology and agriculture. Sometimes, the relationship in these models is only endogenous in one direction. For example, while pleasant weather may lead to a higher rate of tourism, higher tourism rates do not affect the weather.
 
 ## Endogenous vs. Exogenous Variables
 
-In contrast to endogenous variables, exogenous variables are considered independent. In other words, one variable within the formula doesn't dictate or directly correlate to a change in another. Exogenous variables have no direct or formulaic relationship. For example, personal income and color preference, rainfall and [gas prices](https://www.investopedia.com/articles/economics/08/gas-prices.asp), education obtained and favorite flower would all be considered exogenous factors.
+In contrast to endogenous variables, exogenous variables are considered independent. In other words, one variable within the formula doesn't dictate or directly correlate to a change in another. Exogenous variables have no direct or formulaic relationship. For example, personal income and color preference, rainfall and [[gas prices]](https://www.investopedia.com/articles/economics/08/gas-prices.asp), education obtained and favorite flower would all be considered exogenous factors.
 
 ## Examples of Endogenous Variables
 

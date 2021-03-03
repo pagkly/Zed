@@ -16,7 +16,7 @@ author: James Chen
 Expected Utility Definition
 ## What is Expected Utility?
 
-Expected utility is an economic term summarizing the [utility](https://www.investopedia.com/terms/u/utility.asp) that an entity or aggregate economy is expected to reach under any number of circumstances. The expected utility is calculated by taking the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) of all possible outcomes under certain circumstances, with the weights being assigned by the likelihood, or probability, that any particular event will occur.
+Expected utility is an economic term summarizing the [[utility]](https://www.investopedia.com/terms/u/utility.asp) that an entity or aggregate economy is expected to reach under any number of circumstances. The expected utility is calculated by taking the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) of all possible outcomes under certain circumstances, with the weights being assigned by the likelihood, or probability, that any particular event will occur.
 
 ## Understanding Expected Utility
 
@@ -38,11 +38,11 @@ The concept of expected utility was first posited by Daniel Bernoulli, who 
 
 The St. Petersburg Paradox can be illustrated as a game of chance in which a coin is tossed at in each play of the game. For instance, if the stakes starts at $2 and double every time heads appears, and the first time tails appears, the game ends and the player wins whatever is in the pot. Under such game rules, the player wins $2 if tails appears on the first toss, $4 if heads appears on the first toss and tails on the second, $8 if heads appears on the first two tosses and tails on the third, and so on. Mathematically, the player wins 2_k_ dollars, where _k_ equals number of tosses (k must be a whole number and greater than zero). Assuming the game can continue as long as the coin toss results in heads and in particular that the casino has unlimited resources, this sum grows without bound and so the expected win for repeated play is an infinite amount of money.
 
-Bernoulli solved the St. Petersburg Paradox by making the distinction between [expected value](https://www.investopedia.com/terms/e/expected-value.asp) and expected utility, as the latter uses weighted utility multiplied by probabilities, instead of using weighted outcomes.
+Bernoulli solved the St. Petersburg Paradox by making the distinction between [[expected value]](https://www.investopedia.com/terms/e/expected-value.asp) and expected utility, as the latter uses weighted utility multiplied by probabilities, instead of using weighted outcomes.
 
 ## Expected Utility and Marginal Utility
 
-Expected utility is also related to the concept of [marginal utility](https://www.investopedia.com/terms/m/marginalutility.asp). The expected utility of a reward or wealth decreases, when a person is rich or has sufficient wealth. In such cases, a person may choose the safer option as opposed to a riskier one.
+Expected utility is also related to the concept of [[marginal utility]](https://www.investopedia.com/terms/m/marginalutility.asp). The expected utility of a reward or wealth decreases, when a person is rich or has sufficient wealth. In such cases, a person may choose the safer option as opposed to a riskier one.
 
 For example, consider the case of a lottery ticket with expected winnings of $1 million. Suppose a poor person buys the ticket for $1. A wealthy man offers to buy the ticket off him for $500,000. Logically, the lottery holder has a 50-50 chance of profiting from the transaction. It is likely that he will opt for the safer option of selling the ticket and pocketing the $500,000. This is due to the diminishing marginal utility of amounts over $500,000 for the ticket holder. In other words, it is much more profitable for him to get from $0 - $500,000 than from $500,000 - $1 million.
 

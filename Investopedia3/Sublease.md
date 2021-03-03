@@ -16,7 +16,7 @@ author: James Chen
 Sublease
 ## What Is a Sublease?
 
-A sublease is the re-renting of property by an existing tenant to a new third party for a portion of the tenant’s existing [lease](https://www.investopedia.com/terms/l/lease.asp) contract. The sublease agreement may be called a sublet.
+A sublease is the re-renting of property by an existing tenant to a new third party for a portion of the tenant’s existing [[lease]](https://www.investopedia.com/terms/l/lease.asp) contract. The sublease agreement may be called a sublet.
 
 Subleasing may or may not be permitted in the terms of the original lease, and may be subject to additional restrictions by jurisdiction. Even if a sublease is permitted, the original tenant is still liable for the obligations stated in the lease agreement, such as the payment of rent each month.
 
@@ -28,11 +28,11 @@ Subleasing may or may not be permitted in the terms of the original lease, and m
 
 ## How a Sublease Works
 
-A lease is a contract between a property owner and a tenant that transfers the owner’s rights to the exclusive possession and use of the [real estate](https://www.investopedia.com/terms/r/realestate.asp) property to the tenant for an agreed-upon period. The lease states the length of time the contract is to run and the amount of the tenant’s rent. In legal terms, the tenant’s legal right to possess the property is deemed tenancy. Subleasing occurs when the tenant transfers a part of their legal tenancy to a third-party as a new tenant.
+A lease is a contract between a property owner and a tenant that transfers the owner’s rights to the exclusive possession and use of the [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) property to the tenant for an agreed-upon period. The lease states the length of time the contract is to run and the amount of the tenant’s rent. In legal terms, the tenant’s legal right to possess the property is deemed tenancy. Subleasing occurs when the tenant transfers a part of their legal tenancy to a third-party as a new tenant.
 
 Subleasing can be established unless the original lease forbids it. However, in most cases, the owner must be notified and must approve any subletting arrangement created by the tenant. Control over the subletting process could be written into the original lease so that the owner has some control over who uses and/or occupies their property.
 
-A tenant who sublets property must understand that subleasing does not release them from their obligations on the original contracted lease. The tenant is responsible for paying rent and for repairs or damage to the property. That means that if a new subtenant does not pay rent for three months, the original tenant that subleased the property is liable to the landlord for the overdue rent amount and any [late fees](https://www.investopedia.com/terms/l/late-fee.asp). In turn, the subtenant is liable to the original tenant for the unpaid rent.
+A tenant who sublets property must understand that subleasing does not release them from their obligations on the original contracted lease. The tenant is responsible for paying rent and for repairs or damage to the property. That means that if a new subtenant does not pay rent for three months, the original tenant that subleased the property is liable to the landlord for the overdue rent amount and any [[late fees]](https://www.investopedia.com/terms/l/late-fee.asp). In turn, the subtenant is liable to the original tenant for the unpaid rent.
 
 ## Subleasing and State Laws
 

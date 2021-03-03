@@ -16,7 +16,7 @@ author: James Chen
 Operational Efficiency Definition
 ## What Is Operational Efficiency?
 
-Operational efficiency is primarily a metric that measures the efficiency of profit earned as a function of [operating costs](https://www.investopedia.com/terms/o/operating-cost.asp). The greater the operational efficiency, the more profitable a firm or investment is. This is because the entity is able to generate greater income or returns for the same or lower cost than an alternative. In financial markets, operational efficiency occurs when transaction costs and fees are reduced.
+Operational efficiency is primarily a metric that measures the efficiency of profit earned as a function of [[operating costs]](https://www.investopedia.com/terms/o/operating-cost.asp). The greater the operational efficiency, the more profitable a firm or investment is. This is because the entity is able to generate greater income or returns for the same or lower cost than an alternative. In financial markets, operational efficiency occurs when transaction costs and fees are reduced.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Operational efficiency is primarily a metric that measures the efficiency of pro
 
 ## Understanding Operational Efficiency
 
-Operational efficiency in the investment markets is typically centered around [transaction costs](https://www.investopedia.com/terms/t/transactioncosts.asp) associated with investments. Operational efficiency in the investment markets can be compared to general business practices for operational efficiency in production. Operationally efficient transactions are those that are exchanged with the highest margin, meaning an investor pays the lowest fee to earn the highest profit. Similarly, companies seek to earn the highest gross margin profit from their products by manufacturing goods at the lowest cost. In nearly all cases, operational efficiency can be improved by economies of scale. In the investment markets this can mean buying more shares of an investment at a fixed trading cost to reduce the fee per share.
+Operational efficiency in the investment markets is typically centered around [[transaction costs]](https://www.investopedia.com/terms/t/transactioncosts.asp) associated with investments. Operational efficiency in the investment markets can be compared to general business practices for operational efficiency in production. Operationally efficient transactions are those that are exchanged with the highest margin, meaning an investor pays the lowest fee to earn the highest profit. Similarly, companies seek to earn the highest gross margin profit from their products by manufacturing goods at the lowest cost. In nearly all cases, operational efficiency can be improved by economies of scale. In the investment markets this can mean buying more shares of an investment at a fixed trading cost to reduce the fee per share.
 
 A market is reported to be operationally efficient when conditions exist allowing participants to execute transactions and receive services at a price that equates fairly to the actual costs required to provide them. Operationally efficient markets are typically a byproduct of competition which is a significant factor improving the operational efficiency for participants. Operationally efficient markets may also be influenced by regulation that works to cap fees in order to protect investors against exorbitant costs. An operationally efficient market may also be known as an "internally efficient market."
 
@@ -44,4 +44,4 @@ Funds with greater assets under management can obtain greater operational effici
 
 In other areas of the market, certain structural or regulatory changes can make participation more operationally efficient. In 2000, the [Commodity Futures Trading Commission (CFTC)](https://www.investopedia.com/terms/c/cftc.asp) passed a resolution allowing [money market funds](https://www.investopedia.com/terms/m/money-marketfund.asp) to be considered eligible margin requirements. (Prior to this only cash was eligible.) This minor change reduced unnecessary costs of trading in and out of money market funds, making the [futures markets](https://www.investopedia.com/terms/f/futuresmarket.asp) more operationally efficient.
 
-Financial regulators have also imposed an 8.5% [sales charge](https://www.investopedia.com/terms/s/salescharge.asp) cap on mutual fund commissions. This cap helps to improve operational trading efficiency and investment profits for individual investors.
+Financial regulators have also imposed an 8.5% [[sales charge]](https://www.investopedia.com/terms/s/salescharge.asp) cap on mutual fund commissions. This cap helps to improve operational trading efficiency and investment profits for individual investors.

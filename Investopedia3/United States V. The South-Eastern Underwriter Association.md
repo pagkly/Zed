@@ -16,7 +16,7 @@ author: Adam Hayes
 United States V. The South-Eastern Underwriter Association
 ## What Was United States v. The South-Eastern Underwriters Association?
 
-_United States v. The South-Eastern Underwriters Association_ is a seminal United States Supreme Court case involving the federal [antitrust](https://www.investopedia.com/terms/a/antitrust.asp) statute and the insurance industry. United States v. The South-Eastern Underwriters Association (322 U.S. 533), which was decided on June 5, 1944, determined that the insurance industry is subject to regulation by the United States Congress, under the Commerce Clause.1
+_United States v. The South-Eastern Underwriters Association_ is a seminal United States Supreme Court case involving the federal [[antitrust]](https://www.investopedia.com/terms/a/antitrust.asp) statute and the insurance industry. United States v. The South-Eastern Underwriters Association (322 U.S. 533), which was decided on June 5, 1944, determined that the insurance industry is subject to regulation by the United States Congress, under the Commerce Clause.1
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ _United States v. The South-Eastern Underwriters Association_ is a seminal Unite
 
 Because insurers often do business in multiple states, the question of whether they should be regulated on a state or federal level had been a matter of debate in the early 20th century.
 
-This case came before the Supreme Court on appeal from a Northern District of Georgia court. The South-Eastern Underwriters Association had control of 90% of fire and other insurance markets in six southern states and was believed to have an unfair monopoly, brought on through price fixing. The case focused on whether or not insurance was a type of interstate commerce that should fall under the United States Commerce Clause and the [Sherman Antitrust Act](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp).3
+This case came before the Supreme Court on appeal from a Northern District of Georgia court. The South-Eastern Underwriters Association had control of 90% of fire and other insurance markets in six southern states and was believed to have an unfair monopoly, brought on through price fixing. The case focused on whether or not insurance was a type of interstate commerce that should fall under the United States Commerce Clause and the [[Sherman Antitrust Act]](https://www.investopedia.com/terms/s/sherman-antiturst-act.asp).3
 
 The Supreme Court held that insurance companies that conduct significant portions of their business across state lines were, in fact, engaging in interstate commerce. The ruling held that the insurance industry could be regulated by Federal law, rather than only state laws.
 
@@ -38,4 +38,4 @@ The following year, in 1945, Congress passed the McCarran-Ferguson Act (Public L
 
 The McCarran-Ferguson Act, although commonly thought of as regulation, does not itself regulate insurance, nor does it require states to regulate insurance products. Rather, it offers "Act of Congress" which do not clearly aim to regulate the "business of insurance" by not preempting state laws or regulations that do regulate insurance transactions.2
 
-Today, interstate competition for interstate insurance remains a key element of health care reform. In February 2010, the House of Representatives voted to repeal the McCarran–Ferguson Act by passing the Health Insurance Industry Fair Competition Act (HR 4626).4 Similar attempts to update insurance antitrust provisions are ongoing with efforts to replace or amend the [Affordable Care Act](https://www.investopedia.com/terms/a/affordable-care-act.asp) (ACA).
+Today, interstate competition for interstate insurance remains a key element of health care reform. In February 2010, the House of Representatives voted to repeal the McCarran–Ferguson Act by passing the Health Insurance Industry Fair Competition Act (HR 4626).4 Similar attempts to update insurance antitrust provisions are ongoing with efforts to replace or amend the [[Affordable Care Act]](https://www.investopedia.com/terms/a/affordable-care-act.asp) (ACA).

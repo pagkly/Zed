@@ -32,15 +32,15 @@ Economic capital is different than regulatory capital, also known as capital req
 
 Economic capital is used for measuring and reporting market and operational risks across a financial organization. Economic capital measures risk using economic realities rather than accounting and regulatory rules, which can sometimes be misleading. As a result, economic capital is thought to give a more realistic representation of a firm's solvency.
 
-The measurement process for economic capital involves converting a given risk to the amount of capital that it's required to support it. The calculations are based on the institution's financial strength (or [credit rating](https://www.investopedia.com/terms/c/creditrating.asp)) and expected losses.
+The measurement process for economic capital involves converting a given risk to the amount of capital that it's required to support it. The calculations are based on the institution's financial strength (or [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp)) and expected losses.
 
-Financial strength is the probability of the firm not becoming insolvent over the measurement period and is otherwise known as the confidence level in the statistical calculation. The firm's expected loss is the anticipated average loss over the measurement period. Expected losses represent the cost of doing business and are usually absorbed by [operating profits](https://www.investopedia.com/terms/o/operating_profit.asp).
+Financial strength is the probability of the firm not becoming insolvent over the measurement period and is otherwise known as the confidence level in the statistical calculation. The firm's expected loss is the anticipated average loss over the measurement period. Expected losses represent the cost of doing business and are usually absorbed by [[operating profits]](https://www.investopedia.com/terms/o/operating_profit.asp).
 
 The relationship between the frequency of loss, amount of loss, expected loss, financial strength or confidence level, and economic capital can be seen in the following graph:
 
 Image by Julie Bang © Investopedia 2019
 
-Calculations of economic capital and their use in [risk/reward](https://www.investopedia.com/terms/r/riskrewardratio.asp) ratios reveal which business lines a bank should pursue that make the best use of the risk/reward trade-off. Performance measures that use economic capital include: return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)); risk-adjusted return on capital (RAROC); and, economic value added (EVA). Business units that perform better on measures like these can receive more of the firm's capital in order to optimize risk. [Value-at-risk](https://www.investopedia.com/terms/v/var.asp) (VaR) and similar measures are also based on economic capital and are used by financial institutions for risk management.
+Calculations of economic capital and their use in [[risk/reward]](https://www.investopedia.com/terms/r/riskrewardratio.asp) ratios reveal which business lines a bank should pursue that make the best use of the risk/reward trade-off. Performance measures that use economic capital include: return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)); risk-adjusted return on capital (RAROC); and, economic value added (EVA). Business units that perform better on measures like these can receive more of the firm's capital in order to optimize risk. [[Value-at-risk]](https://www.investopedia.com/terms/v/var.asp) (VaR) and similar measures are also based on economic capital and are used by financial institutions for risk management.
 
 ## Example of Economic Capital
 

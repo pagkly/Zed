@@ -16,13 +16,13 @@ author: Will Kenton
 Understanding Flotation Cost
 ## What Is a Flotation Cost?
 
-Flotation costs are incurred by a publicly-traded company when it issues new [securities](https://www.investopedia.com/terms/s/security.asp) and incurs expenses, such as [underwriting fees](https://www.investopedia.com/terms/u/underwriting-fees.asp), legal fees, and registration fees. Companies must consider the impact these fees will have on how much capital they can raise from a new issue. Flotation costs, expected [return on equity](https://www.investopedia.com/terms/r/returnonequity.asp), dividend payments, and the percentage of earnings the business expects to retain are all part of the equation to calculate a company's cost of new equity.
+Flotation costs are incurred by a publicly-traded company when it issues new [[securities]](https://www.investopedia.com/terms/s/security.asp) and incurs expenses, such as [[underwriting fees]](https://www.investopedia.com/terms/u/underwriting-fees.asp), legal fees, and registration fees. Companies must consider the impact these fees will have on how much capital they can raise from a new issue. Flotation costs, expected [[return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp), dividend payments, and the percentage of earnings the business expects to retain are all part of the equation to calculate a company's cost of new equity.
 
 #### Understanding and Calculating Flotation Costs
 
 ## The Formula for Float in New Equity Is
 
-The equation for calculating the flotation cost of new equity using the [dividend growth rate](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) is:
+The equation for calculating the flotation cost of new equity using the [[dividend growth rate]](https://www.investopedia.com/terms/d/dividendgrowthrate.asp) is:
 
 Dividend growth rate\=D1P∗(1−F)+g\\text{Dividend growth rate} = \\frac{D\_1}{P \* \\left(1-F\\right)} + g
 
@@ -41,11 +41,11 @@ Where:
 
 ## What Do Flotation Costs Tell You?
 
-Companies raise capital in two ways: debt via bonds and loans or [equity](https://www.investopedia.com/terms/e/equity.asp). Some companies prefer issuing bonds or obtaining a loan, especially when interest rates are low and because the interest paid on many debts is tax-deductible, while equity returns are not. Other companies prefer equity because it does not need to be paid back; however, selling equity also entails giving up an ownership stake in the company.
+Companies raise capital in two ways: debt via bonds and loans or [[equity]](https://www.investopedia.com/terms/e/equity.asp). Some companies prefer issuing bonds or obtaining a loan, especially when interest rates are low and because the interest paid on many debts is tax-deductible, while equity returns are not. Other companies prefer equity because it does not need to be paid back; however, selling equity also entails giving up an ownership stake in the company.
 
-There are flotation costs associated with issuing new equity, or newly issued [common stock](https://www.investopedia.com/terms/c/commonstock.asp). These include costs such as investment banking and legal fees, accounting and audit fees, and fees paid to a stock exchange to list the company's shares. The difference between the cost of existing equity and the cost of new equity is the flotation cost.
+There are flotation costs associated with issuing new equity, or newly issued [[common stock]](https://www.investopedia.com/terms/c/commonstock.asp). These include costs such as investment banking and legal fees, accounting and audit fees, and fees paid to a stock exchange to list the company's shares. The difference between the cost of existing equity and the cost of new equity is the flotation cost.
 
-The flotation cost is expressed as a percentage of the issue price and is incorporated into the price of new shares as a reduction. A company will often use a [weighted cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) calculation to determine what share of its funding should be raised from new equity and what portion from debt.
+The flotation cost is expressed as a percentage of the issue price and is incorporated into the price of new shares as a reduction. A company will often use a [[weighted cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) calculation to determine what share of its funding should be raised from new equity and what portion from debt.
 
 ## Example of a Flotation Cost Calculation
 

@@ -16,7 +16,7 @@ author: Jim Chappelow
 Jerry A. Hausman Definition
 ## Who is Jerry A. Hausman?
 
-Jerry A. Hausman is an economics professor and director of the MIT Telecommunications Economics Research Program. Dr. Hausman's research has focused on applied [microeconomics](https://www.investopedia.com/terms/m/microeconomics.asp), econometrics, differentiated products, telecommunications, taxation, energy, aging, and the environment. 
+Jerry A. Hausman is an economics professor and director of the MIT Telecommunications Economics Research Program. Dr. Hausman's research has focused on applied [[microeconomics]](https://www.investopedia.com/terms/m/microeconomics.asp), econometrics, differentiated products, telecommunications, taxation, energy, aging, and the environment. 
 
 ## Key Takeaways
 
@@ -36,7 +36,7 @@ Hausman has written numerous research articles in theoretical and applied econom
 
 #### Durbin-Wu-Hausman Test
 
-This well-known statistical test shows the extent to which statistical models correspond to the data under study. Known as the Durbin-Wu-Hausman test, it is a test for endogeneity in an econometric model and is helpful for statisticians in determining whether a model will ultimately be effective in calculating [p-values](https://www.investopedia.com/terms/p/p-value.asp), basically the bottom line for statistical significance or non-significance.
+This well-known statistical test shows the extent to which statistical models correspond to the data under study. Known as the Durbin-Wu-Hausman test, it is a test for endogeneity in an econometric model and is helpful for statisticians in determining whether a model will ultimately be effective in calculating [[p-values]](https://www.investopedia.com/terms/p/p-value.asp), basically the bottom line for statistical significance or non-significance.
 
 #### Telecommunications Industry
 
@@ -44,4 +44,4 @@ Hausman is a recognized expert in the economics of the telecommunications indust
 
 #### Price Indexes
 
-Hausman’s recent work has also included a focus on price indexes, such as the [Consumer Price Index (CPI)](https://www.investopedia.com/terms/c/consumerpriceindex.asp), and the benefits to consumers that result from lower prices through large discount retailers. His research indicates that failing to properly account for the lower prices offered by retailers such as Wal-mart supercenters, the resulting changes in shopping patterns as consumers take advantage of the lower prices, and the improvement in the quality of differentiated products and services offered by these outlets all introduce substantial upward bias into the CPI.
+Hausman’s recent work has also included a focus on price indexes, such as the [[Consumer Price Index (CPI)]](https://www.investopedia.com/terms/c/consumerpriceindex.asp), and the benefits to consumers that result from lower prices through large discount retailers. His research indicates that failing to properly account for the lower prices offered by retailers such as Wal-mart supercenters, the resulting changes in shopping patterns as consumers take advantage of the lower prices, and the improvement in the quality of differentiated products and services offered by these outlets all introduce substantial upward bias into the CPI.

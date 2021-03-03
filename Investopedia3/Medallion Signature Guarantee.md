@@ -16,7 +16,7 @@ author: James Chen
 Medallion Signature Guarantee
 ## What Is a Medallion Signature Guarantee?
 
-A medallion signature guarantee is one of several special certification stamps that guarantees a signature that authorizes a [transfer](https://www.investopedia.com/terms/t/transfer.asp) of securities is authentic. Parties will generally require a medallion signature guarantee when an owner wants to sell or transfer securities, such as stocks or bonds, held in physical certificate form. If an owner holds securities through a [broker](https://www.investopedia.com/terms/b/broker.asp), they will not need to obtain a signature guarantee to sell or transfer the securities.
+A medallion signature guarantee is one of several special certification stamps that guarantees a signature that authorizes a [[transfer]](https://www.investopedia.com/terms/t/transfer.asp) of securities is authentic. Parties will generally require a medallion signature guarantee when an owner wants to sell or transfer securities, such as stocks or bonds, held in physical certificate form. If an owner holds securities through a [[broker]](https://www.investopedia.com/terms/b/broker.asp), they will not need to obtain a signature guarantee to sell or transfer the securities.
 
 ### Key Takeaways
 
@@ -34,15 +34,15 @@ Normally, you can obtain a Medallion signature guarantee at a financial institut
 
 ## Special Considerations 
 
-A medallion signature guarantee often corresponds with a [share certificate](https://www.investopedia.com/terms/s/share-certificate.asp). A share certificate (or stock certificate) is a written document that serves as legal proof of ownership of a set number of a company’s shares. 
+A medallion signature guarantee often corresponds with a [[share certificate]](https://www.investopedia.com/terms/s/share-certificate.asp). A share certificate (or stock certificate) is a written document that serves as legal proof of ownership of a set number of a company’s shares. 
 
-This is in contrast with owning a [bond](https://www.investopedia.com/terms/b/bond.asp), a form of debt instrument, in which a separate party loans money to a company or the government. Key information on a share certificate generally includes the following:
+This is in contrast with owning a [[bond]](https://www.investopedia.com/terms/b/bond.asp), a form of debt instrument, in which a separate party loans money to a company or the government. Key information on a share certificate generally includes the following:
 
 -   Certificate number
 -   Company name and registration number
 -   Shareholder name and address
 -   Number of shares owned
--   [Class of shares](https://www.investopedia.com/terms/c/class.asp)
+-   [[Class of shares]](https://www.investopedia.com/terms/c/class.asp)
 -   Issue date of shares
 -   Amount paid (or treated as paid) on the shares
 

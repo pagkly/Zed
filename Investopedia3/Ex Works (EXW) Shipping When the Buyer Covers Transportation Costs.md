@@ -26,7 +26,7 @@ Ex works (EXW) is an international trade term that describes when a seller makes
 
 ## Understanding Ex Works (EXW)
 
-Ex works, as a contract option, is particularly good for the seller and not so good for the buyer. The seller is only required to safely package the goods, label them appropriately, and deliver them to a previously agreed-upon location, such as the seller's nearest port. The seller must also help the buyer get [export](https://www.investopedia.com/terms/e/export.asp) licenses or other required paperwork, although the buyer must pay the actual fees for the documents.
+Ex works, as a contract option, is particularly good for the seller and not so good for the buyer. The seller is only required to safely package the goods, label them appropriately, and deliver them to a previously agreed-upon location, such as the seller's nearest port. The seller must also help the buyer get [[export]](https://www.investopedia.com/terms/e/export.asp) licenses or other required paperwork, although the buyer must pay the actual fees for the documents.
 
 Once the buyer has the goods, it is up to the buyer to cover any expenses and account for any risks that pertain to the goods. [Risks](https://www.investopedia.com/articles/financial-theory/09/risk-management-business.asp) could include loading the products onto a truck, transferring them to a ship or plane, dealing with customs officials, unloading them at their destination, and storing or reselling them. Even if the seller helps the buyer by, for example, loading the product onto a ship, it's still up to the buyer to pay up if anything goes wrong during the loading.
 
@@ -34,11 +34,11 @@ With ex works, the seller can load the goods on the buyer's designated method of
 
 ## Example of Ex Works
 
-Ex works costs are calculated by businesses that want to cut costs by removing the so-called seller's [value-added](https://www.investopedia.com/terms/v/valueadded.asp) for shipping. For example, suppose company A has priced a pair of printers from company B at $4,000, with an ex works shipping cost of $200. To save money, company A finds a third-party shipper that will deliver them the printers for $170. So to save the $30 on shipping, they make a deal with company B that is ex works.
+Ex works costs are calculated by businesses that want to cut costs by removing the so-called seller's [[value-added]](https://www.investopedia.com/terms/v/valueadded.asp) for shipping. For example, suppose company A has priced a pair of printers from company B at $4,000, with an ex works shipping cost of $200. To save money, company A finds a third-party shipper that will deliver them the printers for $170. So to save the $30 on shipping, they make a deal with company B that is ex works.
 
-An ex works agreement is different from a [free-on-board (FOB)](https://www.investopedia.com/terms/f/fob.asp) agreement, in which the seller covers the cost of getting its goods to a shipping terminal and pays all the customs costs to get the goods on board. Meanwhile, the buyer still has to pay to find, contract, and pay the shipping company, as well as the customs costs incurred when the goods reach their country of destination. The buyer also pays the insurance costs.
+An ex works agreement is different from a [[free-on-board (FOB)]](https://www.investopedia.com/terms/f/fob.asp) agreement, in which the seller covers the cost of getting its goods to a shipping terminal and pays all the customs costs to get the goods on board. Meanwhile, the buyer still has to pay to find, contract, and pay the shipping company, as well as the customs costs incurred when the goods reach their country of destination. The buyer also pays the insurance costs.
 
-In practice, ex works is sometimes a bad choice due to the customs rules of certain jurisdictions. In the European Union, for example, a non-resident individual or corporation cannot finish the export declaration documents, so the buyer could be left stranded. In such cases, the [free carrier (FCA)](https://www.investopedia.com/terms/f/fca.asp) term is preferable. Free Carrier means the seller is responsible for delivering goods to a specific destination.
+In practice, ex works is sometimes a bad choice due to the customs rules of certain jurisdictions. In the European Union, for example, a non-resident individual or corporation cannot finish the export declaration documents, so the buyer could be left stranded. In such cases, the [[free carrier (FCA)]](https://www.investopedia.com/terms/f/fca.asp) term is preferable. Free Carrier means the seller is responsible for delivering goods to a specific destination.
 
 ## Special Considerations
 

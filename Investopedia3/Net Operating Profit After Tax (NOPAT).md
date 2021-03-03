@@ -16,7 +16,7 @@ author: Julia Kagan
 Net Operating Profit After Tax (NOPAT)
 ## What Is Net Operating Profit After Tax?
 
-Net operating profit after tax (NOPAT) is a financial measure that shows how well a company performed through its core operations, net of taxes. NOPAT is frequently used in [economic value added (EVA)](https://www.investopedia.com/terms/e/eva.asp) calculations and is a more accurate look at operating efficiency for leveraged companies. NOPAT does not include the tax savings many companies get because of existing debt.
+Net operating profit after tax (NOPAT) is a financial measure that shows how well a company performed through its core operations, net of taxes. NOPAT is frequently used in [[economic value added (EVA)]](https://www.investopedia.com/terms/e/eva.asp) calculations and is a more accurate look at operating efficiency for leveraged companies. NOPAT does not include the tax savings many companies get because of existing debt.
 
 #### Net Operating Profit After Tax (NOPAT)
 
@@ -42,4 +42,4 @@ For example, if EBIT is $10,000 and the tax rate is 30%, the net operating profi
 
 ## Special Considerations
 
-In addition to providing analysts with a measure of core operating efficiency without the influence of debt, mergers, and acquisitions analysts use net operating profit after tax. They use this to [calculate free cash flow to firm (FCFF)](https://www.investopedia.com/terms/f/freecashflowfirm.asp), which equals net operating profit after tax, minus changes in working capital. They also use it in the calculation of economic free cash flow to firm (FCFF), which equals net operating profit after tax minus capital. Both are primarily used by analysts looking for acquisition targets since the acquirer's financing will replace the current financing arrangement. Another way to calculate net operating profit after tax is net income plus net after-tax interest expense (or net income plus net interest expense) multiplied by 1, minus the tax rate.
+In addition to providing analysts with a measure of core operating efficiency without the influence of debt, mergers, and acquisitions analysts use net operating profit after tax. They use this to [[calculate free cash flow to firm (FCFF)]](https://www.investopedia.com/terms/f/freecashflowfirm.asp), which equals net operating profit after tax, minus changes in working capital. They also use it in the calculation of economic free cash flow to firm (FCFF), which equals net operating profit after tax minus capital. Both are primarily used by analysts looking for acquisition targets since the acquirer's financing will replace the current financing arrangement. Another way to calculate net operating profit after tax is net income plus net after-tax interest expense (or net income plus net interest expense) multiplied by 1, minus the tax rate.

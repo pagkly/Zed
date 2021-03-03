@@ -30,13 +30,13 @@ There are several forms of open market operations (OMO), the most common of whic
 
 Buying and selling government bonds allows the Fed to control the supply of reserve balances held by banks, which helps the Fed increase or decrease short-term interest rates as needed. Purchases of Treasury securities inject money into the economy and stimulate growth while selling those same securities can cause the economy to contract.
 
-Regarded as a flexible tool, the Federal Reserve controls monetary policy in the U.S. as it facilitates the OMO process to adjust and manipulate the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp). The federal funds rate is the standard paid when banks borrow funds from one another. Fed funds rate is one of the most important interest rates in the U.S. economy. It affects monetary and financial conditions, critical aspects of the broad economy including employment, and short-term interest rates for everything from homes to credit cards. 
+Regarded as a flexible tool, the Federal Reserve controls monetary policy in the U.S. as it facilitates the OMO process to adjust and manipulate the [[federal funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp). The federal funds rate is the standard paid when banks borrow funds from one another. Fed funds rate is one of the most important interest rates in the U.S. economy. It affects monetary and financial conditions, critical aspects of the broad economy including employment, and short-term interest rates for everything from homes to credit cards. 
 
 ## Structure of the Federal Reserve System
 
 The Federal Reserve System, or the central bank of the United States, regulates U.S. monetary and financial policy. It is composed of a central governmental agency in Washington, D.C., the Board of Governors and 12 regional Federal Reserve Banks. Reserve Banks are located in major cities throughout the United States.2 
 
-The Federal Reserve's [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp) regulates banking institutions, monitors and protects the credit rights of consumers, [maintains the stability of the financial system](https://www.investopedia.com/financial-edge/0912/how-the-federal-reserve-fights-recession.aspx), and provides financial services to the U.S. government.
+The Federal Reserve's [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp) regulates banking institutions, monitors and protects the credit rights of consumers, [[maintains the stability of the financial system]](https://www.investopedia.com/financial-edge/0912/how-the-federal-reserve-fights-recession.aspx), and provides financial services to the U.S. government.
 
 Monetary policy decisions fall to the [Federal Open Market Committee](https://www.investopedia.com/terms/f/fomc.asp) (FOMC). 
 

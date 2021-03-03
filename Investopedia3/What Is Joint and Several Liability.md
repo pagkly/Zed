@@ -26,7 +26,7 @@ In such cases, responsibility for the total amount awarded would be shared by al
 
 ## Understanding Joint and Several Liability
 
-Joint and several [liability](https://www.investopedia.com/terms/l/liability.asp) favors the plaintiff suing for damages because it empowers him or her to pursue full payment, if necessary, from the party with the deepest pockets if the others named cannot pay.
+Joint and several [[liability]](https://www.investopedia.com/terms/l/liability.asp) favors the plaintiff suing for damages because it empowers him or her to pursue full payment, if necessary, from the party with the deepest pockets if the others named cannot pay.
 
 If all of the parties involved are insolvent and uninsured, the plaintiff collects nothing.
 

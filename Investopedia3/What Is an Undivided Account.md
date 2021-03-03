@@ -16,7 +16,7 @@ author: Carol Kopp
 What Is an Undivided Account?
 ## What Is an Undivided Account?
 
-An undivided account is an [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) (IPO) for which there are multiple [underwriters](https://www.investopedia.com/terms/u/underwriter.asp), each taking responsibility for placing any shares that remain unsold. That is, each firm agrees to pick up the slack if other underwriters fail to sell the portion of the total number of shares that they have been allocated.
+An undivided account is an [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) (IPO) for which there are multiple [[underwriters]](https://www.investopedia.com/terms/u/underwriter.asp), each taking responsibility for placing any shares that remain unsold. That is, each firm agrees to pick up the slack if other underwriters fail to sell the portion of the total number of shares that they have been allocated.
 
 This type of account is sometimes called an eastern account. Naturally, there is a variation called a western account.
 
@@ -32,7 +32,7 @@ When a company prepares to launch an IPO of stock or bonds, it hands off respons
 
 In an undivided or eastern account, one underwriter might be responsible for placing 15% of an issue while others take up the rest. If the entire issue is not placed, the firm with 15% must assist in placing the remainder.
 
-In a [western account](https://www.investopedia.com/terms/w/westernaccount.asp), each underwriter takes responsibility only for placing the percentage of shares it was assigned. The share of liability is divided among the underwriters according to the size of their allotment of the total shares available.
+In a [[western account]](https://www.investopedia.com/terms/w/westernaccount.asp), each underwriter takes responsibility only for placing the percentage of shares it was assigned. The share of liability is divided among the underwriters according to the size of their allotment of the total shares available.
 
 ### Underwriting Accounts and Agreements
 
@@ -46,8 +46,8 @@ An underwriter who participates in an eastern account with a consortium can shar
 
 Underwriters may include a market out clause in the agreement. This clause frees the underwriter from the purchase obligation in case of a development that impairs the quality of the securities or that adversely affects the issuer. The clause is limited in its application, however. Poor market conditions or over-pricing do not qualify.
 
-The terms are specified in the syndicate agreement, which also is called the [underwriting agreement](https://www.investopedia.com/terms/u/underwriting-agreement.asp). The syndicate agreement details the fee structure.
+The terms are specified in the syndicate agreement, which also is called the [[underwriting agreement]](https://www.investopedia.com/terms/u/underwriting-agreement.asp). The syndicate agreement details the fee structure.
 
 In addition to the money the syndicate member receives when selling shares or bonds, the agreement specifies the percentage of shares or bonds that each syndicate member commits to selling.
 
-The syndicate manager can set up an underwriting on a western or eastern account basis. Types of underwriting agreements vary and include firm commitment agreement, best efforts agreement, mini-max agreement, all or none agreement, and [standby agreement](https://www.investopedia.com/terms/s/standbyunderwriting.asp).
+The syndicate manager can set up an underwriting on a western or eastern account basis. Types of underwriting agreements vary and include firm commitment agreement, best efforts agreement, mini-max agreement, all or none agreement, and [[standby agreement]](https://www.investopedia.com/terms/s/standbyunderwriting.asp).

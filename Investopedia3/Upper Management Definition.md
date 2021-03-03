@@ -16,7 +16,7 @@ author: Adam Hayes
 Upper Management Definition
 ## What is Upper Management?
 
-Upper management includes individuals and teams that are responsible for making the primary decisions within a company. Personnel considered to be part of a company's upper management are at the top of the [corporate ladder](https://www.investopedia.com/terms/c/corporate-ladder.asp) and carry a degree of responsibility greater than lower level personnel. Upper management members are imbued with powers given by the company's [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) or [board of directors](https://www.investopedia.com/terms/b/boardoftrustees.asp). Examples of upper management personnel include CEOs, CFOs and COOs.
+Upper management includes individuals and teams that are responsible for making the primary decisions within a company. Personnel considered to be part of a company's upper management are at the top of the [[corporate ladder]](https://www.investopedia.com/terms/c/corporate-ladder.asp) and carry a degree of responsibility greater than lower level personnel. Upper management members are imbued with powers given by the company's [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) or [[board of directors]](https://www.investopedia.com/terms/b/boardoftrustees.asp). Examples of upper management personnel include CEOs, CFOs and COOs.
 
 ## Understanding Upper Management
 
@@ -46,7 +46,7 @@ If a company performs below its targeted goals, loses traction compared to its r
 
 Chief Financial Officer (CFO) – In the financial industry, the CFO position represents the top of the corporate ladder for financial analysts and accountants striving for upward mobility. Portfolio management, accounting, investment research, and financial analysis are prime skills that CFOs must have learned over the years. CFOs have global mindsets and work closely with CEOs to source new business opportunities while weighing the financial risks and benefits of each potential venture.
 
-Chief Information Officer (CIO) – A leader in information technology, the CIO usually gets his or her start as a business analyst, then works towards C-level glory, while developing technical skills in disciplines such as programming, coding, project management, MS Office and mapping. CIOs are usually skilled at applying these functional skills to risk management, business strategy, and finance activities. In many companies, CIOs are referred to as the [Chief Technology Officers](https://www.investopedia.com/terms/c/chief-technology-officer.asp).
+Chief Information Officer (CIO) – A leader in information technology, the CIO usually gets his or her start as a business analyst, then works towards C-level glory, while developing technical skills in disciplines such as programming, coding, project management, MS Office and mapping. CIOs are usually skilled at applying these functional skills to risk management, business strategy, and finance activities. In many companies, CIOs are referred to as the [[Chief Technology Officers]](https://www.investopedia.com/terms/c/chief-technology-officer.asp).
 
 Chief Operating Officer (COO) – The [Human Resources](https://www.investopedia.com/terms/h/humanresources.asp) (HR) C-level of executive, the COO ensures a company's operations run smoothly in areas such as recruitment, training, payroll, legal, and administrative services. The COO is usually second in command to the CEO.
 

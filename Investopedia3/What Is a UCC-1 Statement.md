@@ -14,7 +14,7 @@ author: Andrew Bloomenthal
 ---
 
 What Is a UCC-1 Statement?
-A UCC-Uniform Commercial Code-1 statement is a legal notice filed by creditors as a way to publicly declare their rights to potentially obtain the personal properties of debtors who default on business [loans](https://www.investopedia.com/terms/l/loan.asp) they extend. Often abbreviated as "UCC-1", these notices are typically printed in local newspapers, in an attempt to alert the masses of the creditors' intentions. Required for all business loans under the [Uniform Commercial Code](https://www.investopedia.com/terms/u/uniform-commercial-code.asp) (UCC), these notices establish a relative priority over which specific assets may be seized, and in what order, while solidifying the collection pecking order in cases where there are multiple lenders to the same debtor.
+A UCC-Uniform Commercial Code-1 statement is a legal notice filed by creditors as a way to publicly declare their rights to potentially obtain the personal properties of debtors who default on business [[loans]](https://www.investopedia.com/terms/l/loan.asp) they extend. Often abbreviated as "UCC-1", these notices are typically printed in local newspapers, in an attempt to alert the masses of the creditors' intentions. Required for all business loans under the [[Uniform Commercial Code]](https://www.investopedia.com/terms/u/uniform-commercial-code.asp) (UCC), these notices establish a relative priority over which specific assets may be seized, and in what order, while solidifying the collection pecking order in cases where there are multiple lenders to the same debtor.
 
 ### Key Takeaways
 
@@ -35,5 +35,5 @@ In industry jargon, the process of issuing UCC-1 notices is referred to as "perf
 
 Lenders have the option of filing the following two types of UCC-1 statements:
 
-1.  _Specific collateral liens_. Specific collateral UCC-1 statements, which are most commonly used in [real estate](https://www.investopedia.com/terms/r/realestate.asp) transactions, give lenders first order secured rights to real estate properties purchased with the loaned funds.
+1.  _Specific collateral liens_. Specific collateral UCC-1 statements, which are most commonly used in [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) transactions, give lenders first order secured rights to real estate properties purchased with the loaned funds.
 2.  _Blanket liens_. A blanket lien gives the lender secured rights to a range of assets, as long as the terms of these liens are detailed in the collateral section of the UCC-1 statement.

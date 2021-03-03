@@ -16,9 +16,9 @@ author: Adam Hayes
 Unemployment Income Definition
 ## What Is Unemployment Income?
 
-Unemployment income is an insurance benefit that is paid as a result of a taxpayer's inability to find gainful employment. Unemployment income is paid from either a federal or state-sponsored fund. The recipient must meet certain criteria in trying to find a job. Employers and employees are assessed a [payroll tax](https://www.investopedia.com/terms/p/payrolltax.asp) to cover the cost of this benefit.
+Unemployment income is an insurance benefit that is paid as a result of a taxpayer's inability to find gainful employment. Unemployment income is paid from either a federal or state-sponsored fund. The recipient must meet certain criteria in trying to find a job. Employers and employees are assessed a [[payroll tax]](https://www.investopedia.com/terms/p/payrolltax.asp) to cover the cost of this benefit.
 
-Unemployment income is also known as unemployment benefits, [unemployment compensation](https://www.investopedia.com/terms/u/unemployment-compensation.asp), or [unemployment insurance](https://www.investopedia.com/terms/u/unemployment-insurance.asp). The term is most commonly associated with filing a tax return, where such income must be reported. 
+Unemployment income is also known as unemployment benefits, [[unemployment compensation]](https://www.investopedia.com/terms/u/unemployment-compensation.asp), or [[unemployment insurance]](https://www.investopedia.com/terms/u/unemployment-insurance.asp). The term is most commonly associated with filing a tax return, where such income must be reported. 
 
 ### Key Takeaways
 
@@ -39,13 +39,13 @@ In the United States, unemployment income is paid to jobless individuals who qua
 
 ## Unemployment Income Taxation
 
-Unemployment income is fully taxable as [ordinary income](https://www.investopedia.com/terms/o/ordinaryincome.asp). Recipients of this benefit are sent a Form 1099-G at year-end detailing the total amount of benefits received, which they must report on their 1040 form. Unemployment benefits were first introduced, along with Social Security, in 1935. Unemployment income is designed to provide subsistence income for a given length of time, giving the unemployed recipient time to find another job.
+Unemployment income is fully taxable as [[ordinary income]](https://www.investopedia.com/terms/o/ordinaryincome.asp). Recipients of this benefit are sent a Form 1099-G at year-end detailing the total amount of benefits received, which they must report on their 1040 form. Unemployment benefits were first introduced, along with Social Security, in 1935. Unemployment income is designed to provide subsistence income for a given length of time, giving the unemployed recipient time to find another job.
 
 ## Unemployment Income Amounts
 
 Individual states determine how much unemployment income an individual receives on a weekly basis, a figure that may vary significantly from state to state. For example, as of 2018, Minnesota had one of the highest maximum weekly benefit amounts at $683, topped only by Massachusetts at $742 (+$25 per child). Massachusetts allows up to 30 weeks of payments; Minnesota offers 26. Though not the lowest, Florida's $275 maximum weekly benefit and 12 weeks of benefits is among the least generous. 
 
-During times of high unemployment, such as during the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp), unemployment income payments may last for over 100 weeks. During times of low unemployment, such benefits tend to last for up to roughly six months or 26 weeks in most states, though some states may offer a fraction of that.
+During times of high unemployment, such as during the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp), unemployment income payments may last for over 100 weeks. During times of low unemployment, such benefits tend to last for up to roughly six months or 26 weeks in most states, though some states may offer a fraction of that.
 
 ## The CARES Act and Unemployment Income
 

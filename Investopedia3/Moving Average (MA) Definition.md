@@ -16,7 +16,7 @@ author: Jason Fernando
 Moving Average (MA) Definition
 ## What Is a Moving Average (MA)?
 
-In statistics, a moving average is a calculation used to analyze data points by creating a series of averages of different subsets of the full data set. In finance, a moving average (MA) is a stock indicator that is commonly used in [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp). The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated [average price](https://www.investopedia.com/terms/a/averageprice.asp).
+In statistics, a moving average is a calculation used to analyze data points by creating a series of averages of different subsets of the full data set. In finance, a moving average (MA) is a stock indicator that is commonly used in [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp). The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated [[average price]](https://www.investopedia.com/terms/a/averageprice.asp).
 
 By calculating the moving average, the impacts of random, short-term fluctuations on the price of a stock over a specified time-frame are mitigated.
 
@@ -29,9 +29,9 @@ By calculating the moving average, the impacts of random, short-term fluctuation
 
 ## Understanding Moving Average (MA)
 
-Moving average is a simple, technical analysis tool. Moving averages are usually calculated to identify the trend direction of a stock or to determine its support and resistance levels. It is a trend-following_—_or [lagging](https://www.investopedia.com/terms/l/laggingindicator.asp)_—_indicator because it is based on past prices.
+Moving average is a simple, technical analysis tool. Moving averages are usually calculated to identify the trend direction of a stock or to determine its support and resistance levels. It is a trend-following_—_or [[lagging]](https://www.investopedia.com/terms/l/laggingindicator.asp)_—_indicator because it is based on past prices.
 
-The longer the time period for the moving average, the greater the lag. So, a 200-day moving average will have a much greater degree of lag than a 20-day MA because it contains prices for the past 200 days. The 50-day and 200-day moving average figures for stocks are widely followed by investors and traders and are considered to be important [trading signals](https://www.investopedia.com/terms/t/trade-signal.asp).
+The longer the time period for the moving average, the greater the lag. So, a 200-day moving average will have a much greater degree of lag than a 20-day MA because it contains prices for the past 200 days. The 50-day and 200-day moving average figures for stocks are widely followed by investors and traders and are considered to be important [[trading signals]](https://www.investopedia.com/terms/t/trade-signal.asp).
 
 Moving averages are a totally customizable indicator, which means that an investor can freely choose whatever time frame they want when calculating an average. The most common time periods used in moving averages are 15, 20, 30, 50, 100, and 200 days. The shorter the time span used to create the average, the more sensitive it will be to price changes. The longer the time span, the less sensitive the average will be.
 
@@ -41,13 +41,13 @@ There is no correct time frame to use when setting up your moving averages. The 
 
 Predicting trends in the stock market is no simple process. While it is impossible to predict the future movement of a specific stock, using technical analysis and research can help you make better predictions.
 
-A rising moving average indicates that the security is in an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), while a declining moving average indicates that it is in a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp). Similarly, upward momentum is confirmed with a bullish [crossover](https://www.investopedia.com/terms/c/crossover.asp), which occurs when a short-term moving average crosses above a longer-term moving average. Conversely, downward momentum is confirmed with a bearish crossover, which occurs when a short-term moving average crosses below a longer-term moving average.
+A rising moving average indicates that the security is in an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp), while a declining moving average indicates that it is in a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp). Similarly, upward momentum is confirmed with a bullish [[crossover]](https://www.investopedia.com/terms/c/crossover.asp), which occurs when a short-term moving average crosses above a longer-term moving average. Conversely, downward momentum is confirmed with a bearish crossover, which occurs when a short-term moving average crosses below a longer-term moving average.
 
-While calculating moving averages are useful in their own right, the calculation can also form the basis for other technical analysis indicators, such as the [moving average convergence divergence (MACD)](https://www.investopedia.com/terms/m/macd.asp).
+While calculating moving averages are useful in their own right, the calculation can also form the basis for other technical analysis indicators, such as the [[moving average convergence divergence (MACD)]](https://www.investopedia.com/terms/m/macd.asp).
 
 The moving average convergence divergence (MACD) is used by traders to monitor the relationship between two moving averages. It is generally calculated by subtracting a 26-day exponential moving average from a 12-day exponential moving average.
 
-When the MACD is positive, the short-term average is located above the long-term average. This an indication of upward momentum. When the short-term average is below the long-term average, this is a sign that the momentum is downward. Many traders will also watch for a move above or below the zero line. A move above zero is a [signal to buy](https://www.investopedia.com/trading/macd/), while a cross below zero is a [signal to sell](https://www.investopedia.com/trading/macd/).
+When the MACD is positive, the short-term average is located above the long-term average. This an indication of upward momentum. When the short-term average is below the long-term average, this is a sign that the momentum is downward. Many traders will also watch for a move above or below the zero line. A move above zero is a [[signal to buy]](https://www.investopedia.com/trading/macd/), while a cross below zero is a [[signal to sell]](https://www.investopedia.com/trading/macd/).
 
 ## Types of Moving Averages
 
@@ -65,7 +65,7 @@ EMAt\=\[Vt×(s1+d)\]+EMAy×\[1−(s1+d)\]where:EMAt\=EMA todayVt\=Value todayE
 
 ## Simple Moving Average (SMA) vs. Exponential Moving Average (EMA)
 
-The calculation for EMA puts more emphasis on the recent data points. Because of this, EMA is considered a [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) calculation.
+The calculation for EMA puts more emphasis on the recent data points. Because of this, EMA is considered a [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) calculation.
 
 In the figure below, the number of time periods used in each average is identical–15–but the EMA responds more quickly to the changing prices than the SMA. You can also observe in the figure that the EMA has a higher value when the price is rising than the SMA (and it falls faster than the SMA when the price is declining). This responsiveness to price changes is the main reason why some traders prefer to use the EMA over the SMA.
 
@@ -77,11 +77,11 @@ Moving average is calculated differently depending on the type: SMA or EMA. Belo
 -   Week 2 (5 days): 26, 28, 26, 29, 27
 -   Week 3 (5 days): 28, 30, 27, 29, 28
 
-A 10-day moving average would average out the [closing prices](https://www.investopedia.com/terms/c/closingprice.asp) for the first 10 days as the first data point. The next data point would drop the earliest price, add the price on day 11 and take the average.
+A 10-day moving average would average out the [[closing prices]](https://www.investopedia.com/terms/c/closingprice.asp) for the first 10 days as the first data point. The next data point would drop the earliest price, add the price on day 11 and take the average.
 
 ## Example of a Moving Average Indicator
 
-A [Bollinger Band®](https://www.investopedia.com/terms/b/bollingerbands.asp) technical indicator has bands generally placed two [standard deviations](https://www.investopedia.com/terms/s/standarddeviation.asp) away from a simple moving average. In general, a move toward the upper band suggests the asset is becoming [overbought](https://www.investopedia.com/terms/o/overbought.asp), while a move close to the lower band suggests the asset is becoming [oversold](https://www.investopedia.com/terms/o/oversold.asp). Since standard deviation is used as a statistical measure of volatility, [this indicator adjusts](https://www.investopedia.com/articles/technical/102201.asp) itself to market conditions.
+A [Bollinger Band®](https://www.investopedia.com/terms/b/bollingerbands.asp) technical indicator has bands generally placed two [[standard deviations]](https://www.investopedia.com/terms/s/standarddeviation.asp) away from a simple moving average. In general, a move toward the upper band suggests the asset is becoming [[overbought]](https://www.investopedia.com/terms/o/overbought.asp), while a move close to the lower band suggests the asset is becoming [[oversold]](https://www.investopedia.com/terms/o/oversold.asp). Since standard deviation is used as a statistical measure of volatility, [[this indicator adjusts]](https://www.investopedia.com/articles/technical/102201.asp) itself to market conditions.
 
 ## Frequently Asked Questions
 

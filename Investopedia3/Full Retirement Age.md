@@ -16,7 +16,7 @@ author:  Julia Kagan
 Full Retirement Age
 ## What Is the Full Retirement Age?
 
-The full retirement age, also known as the “normal retirement age,” is the age at which people can receive full retirement benefits upon leaving the workforce. In the U.S., for example, the full retirement age for receiving [Social Security benefits](https://www.investopedia.com/terms/s/social-security-benefits.asp) is 67 years of age for persons born in 1960 or after, 66 for people born from 1943 to 1954, and 66 and two, four, six, eight, or 10 months for people born from 1955 to 1959 (the age increases by two months each successive year). Claiming benefits prior to your full retirement age will reduce your benefit, while claiming after your FRA will increase them by 8% annually with the maximum benefit occurring at age 70.1
+The full retirement age, also known as the “normal retirement age,” is the age at which people can receive full retirement benefits upon leaving the workforce. In the U.S., for example, the full retirement age for receiving [[Social Security benefits]](https://www.investopedia.com/terms/s/social-security-benefits.asp) is 67 years of age for persons born in 1960 or after, 66 for people born from 1943 to 1954, and 66 and two, four, six, eight, or 10 months for people born from 1955 to 1959 (the age increases by two months each successive year). Claiming benefits prior to your full retirement age will reduce your benefit, while claiming after your FRA will increase them by 8% annually with the maximum benefit occurring at age 70.1
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ The full retirement age, also known as the “normal retirement age,” is the a
 
 ## Understanding the Full Retirement Age
 
-Full retirement age also applies to pension plans, such as [employer-sponsored plans](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp). The Internal Revenue Service (IRS) identifies full retirement age for minimum [vesting](https://www.investopedia.com/terms/v/vesting.asp) purposes as “the earlier of (A) the time a plan participant attains normal retirement age under the plan or (B) the later of age 65 or the fifth anniversary of the time a plan participant commenced participation in the plan.”2
+Full retirement age also applies to pension plans, such as [[employer-sponsored plans]](https://www.investopedia.com/terms/e/employer_sponsored_plan.asp). The Internal Revenue Service (IRS) identifies full retirement age for minimum [[vesting]](https://www.investopedia.com/terms/v/vesting.asp) purposes as “the earlier of (A) the time a plan participant attains normal retirement age under the plan or (B) the later of age 65 or the fifth anniversary of the time a plan participant commenced participation in the plan.”2
 
 Public servants, police officers, and military members, for example, typically receive full benefits after a certain number of service years, rather than at a specific age.
 
 Currently, full retirement age for Social Security retirement benefits is 66 years and two months for people born in 1955, and it will gradually rise to 67 for those born in 1960 or later.1 
 
-Given concerns about the solvency of the [Social Security Trust Fund](https://www.investopedia.com/terms/s/social-security-trust-fund.asp), coupled with demographic changes and increases in longevity, there has been talk in conservative circles of [making the full retirement age higher](https://www.investopedia.com/articles/personal-finance/051915/will-retirement-age-change-future.asp), with Senator Mitt Romney (R–Utah) proposing such a policy in 2019. That, however, is unlikely to fly in the new Biden administration, especially with the House of Representatives in Democratic hands.3
+Given concerns about the solvency of the [[Social Security Trust Fund]](https://www.investopedia.com/terms/s/social-security-trust-fund.asp), coupled with demographic changes and increases in longevity, there has been talk in conservative circles of [[making the full retirement age higher]](https://www.investopedia.com/articles/personal-finance/051915/will-retirement-age-change-future.asp), with Senator Mitt Romney (R–Utah) proposing such a policy in 2019. That, however, is unlikely to fly in the new Biden administration, especially with the House of Representatives in Democratic hands.3
 
 ### 70%
 
@@ -59,7 +59,7 @@ Full retirement age throughout the world typically falls between 65 and 67 years
 -   India: 5814
 -   Indonesia: 56 (gradually increasing to 65 by 2043)15
 -   Japan: 6516
--   [South Korea](https://www.investopedia.com/articles/personal-finance/121615/returning-south-korea-retire-howto-guide.asp): 62 (gradually increasing to 65 by 2033)17
+-   [[South Korea]](https://www.investopedia.com/articles/personal-finance/121615/returning-south-korea-retire-howto-guide.asp): 62 (gradually increasing to 65 by 2033)17
 -   Mexico: 6518
 -   Philippines: 6019
 -   Russia: 60 for men (gradually increasing to 65 by 2028); 55 for women (gradually increasing to 60 by 2028)20

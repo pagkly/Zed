@@ -18,7 +18,7 @@ Water Quality Improvement Act Of 1970 Definition
 
 The Water Quality Improvement Act of 1970 was a piece of U.S. legislation that expanded the federal government's authority over water quality standards and water polluters.
 
-The act grew out of the 1948 Federal Water Pollution Control Act and placed additional limits on the discharge of [oil](https://www.investopedia.com/terms/c/crude-oil.asp) into bodies of water where it could damage human health, marine life, wildlife, or [property](https://www.investopedia.com/terms/p/property.asp). It also included other provisions intended to reduce water pollution.
+The act grew out of the 1948 Federal Water Pollution Control Act and placed additional limits on the discharge of [[oil]](https://www.investopedia.com/terms/c/crude-oil.asp) into bodies of water where it could damage human health, marine life, wildlife, or [[property]](https://www.investopedia.com/terms/p/property.asp). It also included other provisions intended to reduce water pollution.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ The act grew out of the 1948 Federal Water Pollution Control Act and placed addi
 
 ## Understanding the Water Quality Improvement Act of 1970
 
-Federal regulation of water pollution dates back to 1886, when the River and Harbor Act was signed into law. One of the first and most important laws that addressed water quality and pollution in the United States was the Federal Water Pollution Control Act of 1948, which was established by [Congress](https://www.investopedia.com/terms/c/congress.asp) to enhance water quality and to create a national policy to control and prevent water pollution.1
+Federal regulation of water pollution dates back to 1886, when the River and Harbor Act was signed into law. One of the first and most important laws that addressed water quality and pollution in the United States was the Federal Water Pollution Control Act of 1948, which was established by [[Congress]](https://www.investopedia.com/terms/c/congress.asp) to enhance water quality and to create a national policy to control and prevent water pollution.1
 
 The act was later amended to expand the standards associated with water quality and pollution. This expansion also paved the way for the Water Quality Improvement Act of 1970.
 
-The new act expanded federal authority and established a state certification procedure to prevent the degradation of water below applicable standards. According to the [Environmental Protection Agency](https://www.investopedia.com/terms/e/environmental-protection-agency.asp) (EPA), improvements to the 1948 act resulted in "sporadic legislation," which was largely due to changes in the responsibilities of federal agencies that made it difficult to enforce the law.1
+The new act expanded federal authority and established a state certification procedure to prevent the degradation of water below applicable standards. According to the [[Environmental Protection Agency]](https://www.investopedia.com/terms/e/environmental-protection-agency.asp) (EPA), improvements to the 1948 act resulted in "sporadic legislation," which was largely due to changes in the responsibilities of federal agencies that made it difficult to enforce the law.1
 
 Amendments were introduced in 1972 to help alleviate these problems by restructuring water pollution control authorities and amalgamating them. New standards were put into place, regulations were increased to prevent oil from entering navigable waters, and guidelines were installed for discharge limitations for things like sanitary waste, drilling fluids, and produced water. After these changes were initiated in 1972, the law became known as the Clean Water Act.
 
@@ -42,8 +42,8 @@ The act's very first goal was to stop all pollutants from entering any of the na
 
 Although water pollution has been reduced substantially since the 1970s, there is still much that needs to be done. Nitrogen and phosphorous are commonly found in water and provide marine wildlife with much-needed nutrition. But when waterways are found with excessive levels of these elements, it can become dangerous.
 
-A major cause of pollution is now pesticides, whereas in the early 1970s it was the direct dumping of chemicals and other pollutants into the water by [industries](https://www.investopedia.com/terms/i/industry.asp). According to the EPA, nitrogen "pollution has impacted many streams, rivers, lakes, bays, and coastal waters for the past several decades, resulting in serious environmental and human health issues, and impacting the economy."2
+A major cause of pollution is now pesticides, whereas in the early 1970s it was the direct dumping of chemicals and other pollutants into the water by [[industries]](https://www.investopedia.com/terms/i/industry.asp). According to the EPA, nitrogen "pollution has impacted many streams, rivers, lakes, bays, and coastal waters for the past several decades, resulting in serious environmental and human health issues, and impacting the economy."2
 
 Potential polluters can purchase marine pollution insurance to protect themselves from liabilities they may face under federal water regulations.
 
-Potential accidental water polluters can protect themselves from the [liabilities](https://www.investopedia.com/terms/l/liability.asp) they face under federal water regulations by purchasing marine pollution [insurance](https://www.investopedia.com/terms/i/insurance.asp). This insurance covers losses such as cleanup, damage to natural resources, legal defense, and civil penalties. Mobile drilling units, cargo owners and operators, shipyards, and marina owners and operators are examples of businesses that can benefit from having this type of insurance coverage.
+Potential accidental water polluters can protect themselves from the [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) they face under federal water regulations by purchasing marine pollution [[insurance]](https://www.investopedia.com/terms/i/insurance.asp). This insurance covers losses such as cleanup, damage to natural resources, legal defense, and civil penalties. Mobile drilling units, cargo owners and operators, shipyards, and marina owners and operators are examples of businesses that can benefit from having this type of insurance coverage.

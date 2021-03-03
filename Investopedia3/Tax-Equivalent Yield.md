@@ -78,7 +78,7 @@ If the marginal tax rate is higher, the required fully taxable equivalent yield 
 
 ### Why Are Municipal Bonds Tax-Exempt?
 
-Interest earned on state and local bonds has been tax-exempt since the introduction of the [federal income tax](https://www.investopedia.com/terms/f/federal_income_tax.asp) in 1913. Initially, this was because many people felt the Constitution prevented the federal government from taxing this income. Since then, the justification for tax exclusion has been supported by the idea that local infrastructure projects serve the common good, and therefore, federal tax policy should support those projects.2
+Interest earned on state and local bonds has been tax-exempt since the introduction of the [[federal income tax]](https://www.investopedia.com/terms/f/federal_income_tax.asp) in 1913. Initially, this was because many people felt the Constitution prevented the federal government from taxing this income. Since then, the justification for tax exclusion has been supported by the idea that local infrastructure projects serve the common good, and therefore, federal tax policy should support those projects.2
 
 Municipal bonds are not always tax-free. Federal taxes may apply to a municipal bond if the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) does not interpret a project as good for the entire public. [Taxable municipal bonds](https://www.investopedia.com/terms/t/taxable-municipal-bond.asp) are rare, but they can be issued for projects such as a sports stadium or a pension shortfall. The IRS can also treat municipal interest income as taxable if a bond is purchased at a significant discount to [par value](https://www.investopedia.com/terms/p/parvalue.asp).3
 

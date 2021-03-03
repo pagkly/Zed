@@ -16,15 +16,15 @@ author: James Chen
 Zero Cost Collar Definition
 ## What is a Zero Cost Collar?
 
-A zero cost collar is a form of options [collar](https://www.investopedia.com/terms/c/collar.asp) strategy to protect a trader's losses by purchasing call and put options that cancel each other out. The downside of this strategy is that profits are capped, if the underlying asset's price increases. A zero cost collar strategy involves the outlay of money on one half of the strategy offsetting the cost incurred by the other half. It is a protective options strategy that is implemented after a [long position](https://www.investopedia.com/terms/l/long.asp) in a stock that has experienced substantial gains. The investor buys a [protective put](https://www.investopedia.com/terms/p/protective-put.asp) and sells a [covered call](https://www.investopedia.com/terms/c/coveredcall.asp). Other names for this strategy include zero cost options, equity risk reversals, and hedge wrappers.
+A zero cost collar is a form of options [[collar]](https://www.investopedia.com/terms/c/collar.asp) strategy to protect a trader's losses by purchasing call and put options that cancel each other out. The downside of this strategy is that profits are capped, if the underlying asset's price increases. A zero cost collar strategy involves the outlay of money on one half of the strategy offsetting the cost incurred by the other half. It is a protective options strategy that is implemented after a [[long position]](https://www.investopedia.com/terms/l/long.asp) in a stock that has experienced substantial gains. The investor buys a [[protective put]](https://www.investopedia.com/terms/p/protective-put.asp) and sells a [[covered call]](https://www.investopedia.com/terms/c/coveredcall.asp). Other names for this strategy include zero cost options, equity risk reversals, and hedge wrappers.
 
 Image by Sabrina Jiang © Investopedia 2020
 
 ## Basics of Zero Cost Collar
 
-To implement a zero cost collar, the investor buys an [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp) put option and simultaneously sells, or writes, an out of the money call option with the same [expiration date](https://www.investopedia.com/terms/e/expirationdate.asp).
+To implement a zero cost collar, the investor buys an [[out of the money]](https://www.investopedia.com/terms/o/outofthemoney.asp) put option and simultaneously sells, or writes, an out of the money call option with the same [[expiration date]](https://www.investopedia.com/terms/e/expirationdate.asp).
 
-For example, if the underlying stock trades at $120 per share, the investor can buy a put option with a $115 [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) at $0.95 and sell a call with a $124 strike price for $0.95. In terms of dollars, the put will cost $0.95 x 100 shares per contract = $95.00. The call will create a credit of $0.95 x 100 shares per contract - the same $95.00. Therefore, the net cost of this trade is zero.
+For example, if the underlying stock trades at $120 per share, the investor can buy a put option with a $115 [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) at $0.95 and sell a call with a $124 strike price for $0.95. In terms of dollars, the put will cost $0.95 x 100 shares per contract = $95.00. The call will create a credit of $0.95 x 100 shares per contract - the same $95.00. Therefore, the net cost of this trade is zero.
 
 ### Key Takeaways
 
@@ -33,7 +33,7 @@ For example, if the underlying stock trades at $120 per share, the investor can 
 
 ## Using the Zero Cost Collar
 
-It is not always possible to execute this strategy as the [premiums](https://www.investopedia.com/terms/p/premium.asp), or prices, of the puts and calls do not always match exactly. Therefore, investors can decide how close to a net cost of zero they want to get. Choosing puts and calls that are out of the money by different amounts can result in a net credit or net debit to the account. The further out of the money the option, the lower its premium. Therefore, to create a collar with only a minimal cost, the investor can choose a call option that is farther out of the money than the respective put option is. In the above example, that could be a strike price of $125.
+It is not always possible to execute this strategy as the [[premiums]](https://www.investopedia.com/terms/p/premium.asp), or prices, of the puts and calls do not always match exactly. Therefore, investors can decide how close to a net cost of zero they want to get. Choosing puts and calls that are out of the money by different amounts can result in a net credit or net debit to the account. The further out of the money the option, the lower its premium. Therefore, to create a collar with only a minimal cost, the investor can choose a call option that is farther out of the money than the respective put option is. In the above example, that could be a strike price of $125.
 
 To create a collar with a small credit to the account, investors do the opposite—choose a put option that is farther out of the money than the respective call. In the example, that could be a strike price of $114.
 

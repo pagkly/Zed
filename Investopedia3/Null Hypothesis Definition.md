@@ -16,11 +16,11 @@ author: Adam Hayes
 Null Hypothesis Definition
 ## What Is a Null Hypothesis?
 
-A null hypothesis is a type of hypothesis used in [statistics](https://www.investopedia.com/terms/s/statistics.asp) that proposes that there is no difference between certain characteristics of a population (or data-generating process).
+A null hypothesis is a type of hypothesis used in [[statistics]](https://www.investopedia.com/terms/s/statistics.asp) that proposes that there is no difference between certain characteristics of a population (or data-generating process).
 
-For example, a gambler may be interested in whether a game of chance is fair. If it is fair, then the expected [earnings](https://www.investopedia.com/terms/e/earnings.asp) per play come to 0 for both players. If the game is not fair, then the expected earnings are positive for one player and negative for the other. To test whether the game is fair, the gambler collects earnings data from many repetitions of the game, calculates the average earnings from these data, then tests the null hypothesis that the expected earnings are not different from zero.
+For example, a gambler may be interested in whether a game of chance is fair. If it is fair, then the expected [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) per play come to 0 for both players. If the game is not fair, then the expected earnings are positive for one player and negative for the other. To test whether the game is fair, the gambler collects earnings data from many repetitions of the game, calculates the average earnings from these data, then tests the null hypothesis that the expected earnings are not different from zero.
 
-If the average earnings from the sample data are sufficiently far from zero, then the gambler will reject the null hypothesis and conclude the alternative hypothesis—namely, that the expected earnings per play are different from zero. If the average earnings from the [sample data](https://www.investopedia.com/terms/s/sample.asp) are near zero, then the gambler will not reject the null hypothesis, concluding instead that the difference between the average from the data and 0 is explainable by chance alone.
+If the average earnings from the sample data are sufficiently far from zero, then the gambler will reject the null hypothesis and conclude the alternative hypothesis—namely, that the expected earnings per play are different from zero. If the average earnings from the [[sample data]](https://www.investopedia.com/terms/s/sample.asp) are near zero, then the gambler will not reject the null hypothesis, concluding instead that the difference between the average from the data and 0 is explainable by chance alone.
 
 ### Key Takeaways
 
@@ -42,9 +42,9 @@ Analysts look to _reject_ the null hypothesis to rule out chance alone as an ex
 
 ## Examples of a Null Hypothesis
 
-Here is a simple example. A school principal claims that students in her school score an average of 7 out of 10 in exams. The null hypothesis is that the population [mean](https://www.investopedia.com/terms/m/mean.asp) is 7.0. To test this null hypothesis, we record marks of say 30 students (sample) from the entire student population of the school (say 300) and calculate the mean of that sample. We can then compare the (calculated) sample mean to the (hypothesized) population mean of 7.0 and attempt to reject the null hypothesis. (The null hypothesis here—that the population mean is 7.0—can not be proven using the sample data; it can only be rejected.)
+Here is a simple example. A school principal claims that students in her school score an average of 7 out of 10 in exams. The null hypothesis is that the population [[mean]](https://www.investopedia.com/terms/m/mean.asp) is 7.0. To test this null hypothesis, we record marks of say 30 students (sample) from the entire student population of the school (say 300) and calculate the mean of that sample. We can then compare the (calculated) sample mean to the (hypothesized) population mean of 7.0 and attempt to reject the null hypothesis. (The null hypothesis here—that the population mean is 7.0—can not be proven using the sample data; it can only be rejected.)
 
-Take another example: The annual return of a particular [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) is claimed to be 8%. Assume that a mutual fund has been in existence for 20 years. The null hypothesis is that the mean return is 8% for the mutual fund. We take a random sample of [annual returns](https://www.investopedia.com/terms/a/annual-return.asp) of the mutual fund for, say, five years (sample) and calculate the sample mean. We then compare the (calculated) sample mean to the (claimed) population mean (8%) to test the null hypothesis.
+Take another example: The annual return of a particular [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) is claimed to be 8%. Assume that a mutual fund has been in existence for 20 years. The null hypothesis is that the mean return is 8% for the mutual fund. We take a random sample of [[annual returns]](https://www.investopedia.com/terms/a/annual-return.asp) of the mutual fund for, say, five years (sample) and calculate the sample mean. We then compare the (calculated) sample mean to the (claimed) population mean (8%) to test the null hypothesis.
 
 For the above examples, null hypotheses are:
 
@@ -62,7 +62,7 @@ In other words, the alternative hypothesis is a direct contradiction of the null
 
 ## Hypothesis Testing for Investments
 
-As an example related to financial markets, assume Alice sees that her investment strategy produces higher average returns than simply buying and holding a [stock](https://www.investopedia.com/terms/e/equity.asp). The null hypothesis states that there is no difference between the two average returns, and Alice is inclined to believe this until she proves otherwise. Refuting the null hypothesis would require showing statistical significance, which can be found using a variety of tests. The alternative hypothesis would state that the investment strategy has a higher average return than a traditional buy-and-hold strategy.
+As an example related to financial markets, assume Alice sees that her investment strategy produces higher average returns than simply buying and holding a [[stock]](https://www.investopedia.com/terms/e/equity.asp). The null hypothesis states that there is no difference between the two average returns, and Alice is inclined to believe this until she proves otherwise. Refuting the null hypothesis would require showing statistical significance, which can be found using a variety of tests. The alternative hypothesis would state that the investment strategy has a higher average return than a traditional buy-and-hold strategy.
 
 One tool that can be used to determine the statistical significance of the results is the p-value. A p-value represents the probability that a difference as large or larger than the observed difference between the two average returns could occur solely by chance.
 

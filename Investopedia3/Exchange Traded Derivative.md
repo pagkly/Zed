@@ -16,7 +16,7 @@ author: James Chen
 Exchange Traded Derivative
 ## What Is an Exchange Traded Derivative?
 
-An exchange traded derivative is a financial contract that is listed and trades on a regulated exchange. Simply put, these are [derivatives](https://www.investopedia.com/terms/d/derivative.asp) that are traded in a regulated fashion. Exchange traded derivatives have become increasingly popular because of the advantages they have over [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) (OTC) derivatives, such as standardization, liquidity, and elimination of default risk. Futures and options are two of the most popular exchange traded derivatives. Exchange traded derivatives can be used to hedge exposure or speculate on a wide range of financial assets like commodities, equities, currencies, and even interest rates.
+An exchange traded derivative is a financial contract that is listed and trades on a regulated exchange. Simply put, these are [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) that are traded in a regulated fashion. Exchange traded derivatives have become increasingly popular because of the advantages they have over [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) (OTC) derivatives, such as standardization, liquidity, and elimination of default risk. Futures and options are two of the most popular exchange traded derivatives. Exchange traded derivatives can be used to hedge exposure or speculate on a wide range of financial assets like commodities, equities, currencies, and even interest rates.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ An exchange traded derivative is a financial contract that is listed and trades 
 
 ## Exchange Traded Derivative Explained
 
-Exchange traded derivatives can be options, futures, or other financial contracts that are listed and traded on regulated exchanges such as the Chicago Mercantile Exchange ([CME](https://www.investopedia.com/terms/c/cme.asp)), International Securities Exchange ([ISE](https://www.investopedia.com/terms/i/internationalsecurityexchange.asp)), the Intercontinental Exchange ([ICE](https://www.investopedia.com/terms/i/intercontinentalexchange.asp)), or the [LIFFE](https://www.investopedia.com/terms/l/liffe.asp) exchange in London, to name just a small few.
+Exchange traded derivatives can be options, futures, or other financial contracts that are listed and traded on regulated exchanges such as the Chicago Mercantile Exchange ([CME](https://www.investopedia.com/terms/c/cme.asp)), International Securities Exchange ([ISE](https://www.investopedia.com/terms/i/internationalsecurityexchange.asp)), the Intercontinental Exchange ([ICE](https://www.investopedia.com/terms/i/intercontinentalexchange.asp)), or the [[LIFFE]](https://www.investopedia.com/terms/l/liffe.asp) exchange in London, to name just a small few.
 
 Exchange traded derivatives are well suited for the [retail investor](https://www.investopedia.com/terms/r/retailinvestor.asp), unlike their over-the-counter cousins. In the OTC market, it is easy to get lost in the complexity of the instrument and the exact nature of what is being traded.
 
@@ -38,9 +38,9 @@ The exchange has standardized terms and specifications for each derivative contr
 
 ### Elimination of Default Risk
 
-The derivatives exchange itself acts as the [counterparty](https://www.investopedia.com/terms/c/counterpartyrisk.asp) for each transaction involving an exchange traded derivative, effectively becoming the seller for every buyer, and the buyer for every seller. This eliminates the risk that the counterparty to the derivative transaction may default on its obligations
+The derivatives exchange itself acts as the [[counterparty]](https://www.investopedia.com/terms/c/counterpartyrisk.asp) for each transaction involving an exchange traded derivative, effectively becoming the seller for every buyer, and the buyer for every seller. This eliminates the risk that the counterparty to the derivative transaction may default on its obligations
 
-Another defining characteristic of exchange traded derivatives is their [mark-to-market](https://www.investopedia.com/terms/m/marktomarket.asp) feature, wherein gains and losses on every derivative contract are calculated on a daily basis. If the client has incurred losses that have eroded the [margin](https://www.investopedia.com/terms/m/margin.asp) put up, they will have to replenish the required capital in a timely manner or risk the derivative position being sold off by the firm.
+Another defining characteristic of exchange traded derivatives is their [[mark-to-market]](https://www.investopedia.com/terms/m/marktomarket.asp) feature, wherein gains and losses on every derivative contract are calculated on a daily basis. If the client has incurred losses that have eroded the [[margin]](https://www.investopedia.com/terms/m/margin.asp) put up, they will have to replenish the required capital in a timely manner or risk the derivative position being sold off by the firm.
 
 ## Exchange Traded Derivatives and Institutional Investors
 

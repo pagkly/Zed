@@ -30,17 +30,17 @@ Standardization ensures that the end product has consistent quality and that any
 
 Standardization is achieved by setting generally accepted guidelines with regard to how a product or service is created or supported, as well as to how a business is operated or how certain required processes are governed. The goal of standardization is to enforce a level of consistency or uniformity to certain practices or operations within the selected environment.
 
-An example of standardization would be the [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) to which all companies listed on U.S. stock exchanges must adhere. GAAP is a standardized set of guidelines created by the [Financial Accounting Standards Board (FASB)](https://www.investopedia.com/terms/f/fasb.asp) to ensure that all [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) undergo the same processes so that the disclosed information is relevant, reliable, comparable, and consistent.
+An example of standardization would be the [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) to which all companies listed on U.S. stock exchanges must adhere. GAAP is a standardized set of guidelines created by the [[Financial Accounting Standards Board (FASB)]](https://www.investopedia.com/terms/f/fasb.asp) to ensure that all [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) undergo the same processes so that the disclosed information is relevant, reliable, comparable, and consistent.
 
 Standardization ensures that certain goods or performances are produced in the same way via set guidelines.
 
 ## Examples of Standardization in Business
 
-Standardization can be found throughout the business world when companies want to achieve a consistent level of quality, production standards, manufacturing output, and [brand recognition](https://www.investopedia.com/terms/b/brand-recognition.asp).
+Standardization can be found throughout the business world when companies want to achieve a consistent level of quality, production standards, manufacturing output, and [[brand recognition]](https://www.investopedia.com/terms/b/brand-recognition.asp).
 
 ### Franchises
 
-For example, many fast-food franchises have detailed processes documented to make sure that a burger is prepared in the same manner, regardless of which establishment in its [franchise](https://www.investopedia.com/terms/f/franchise.asp) a consumer visits.
+For example, many fast-food franchises have detailed processes documented to make sure that a burger is prepared in the same manner, regardless of which establishment in its [[franchise]](https://www.investopedia.com/terms/f/franchise.asp) a consumer visits.
 
 ### Product Standards
 
@@ -58,10 +58,10 @@ Standardization is commonplace in the financial markets, which helps facilitate 
 
 ### Stock Orders
 
-In the stock market, the standard minimum stock order that can be placed through an exchange without incurring higher commission fees is 100 shares. These [standardized lots](https://www.investopedia.com/terms/s/standard-lot.asp) are set by exchanges, such as the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp), to allow for consistency and greater [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) in the markets. The increased liquidity means that investors can buy and sell shares without delays or difficulties, which helps to reduce trading costs and creates an efficient process for all of the market participants involved.
+In the stock market, the standard minimum stock order that can be placed through an exchange without incurring higher commission fees is 100 shares. These [[standardized lots]](https://www.investopedia.com/terms/s/standard-lot.asp) are set by exchanges, such as the [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp), to allow for consistency and greater [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) in the markets. The increased liquidity means that investors can buy and sell shares without delays or difficulties, which helps to reduce trading costs and creates an efficient process for all of the market participants involved.
 
 ### Futures and Options
 
-Standardization is also used in [options](https://www.investopedia.com/terms/o/option.asp) and [futures](https://www.investopedia.com/terms/f/futurescontract.asp) markets, which derive their values from underlying instruments such as stocks or [commodities](https://www.investopedia.com/terms/c/commodity.asp). For example, one equity option contract represents 100 shares of that stock. When an options investor trades an option contract, they know they're buying or selling 100 shares of the stock and determining the value based on the stock's current price in the market.
+Standardization is also used in [[options]](https://www.investopedia.com/terms/o/option.asp) and [[futures]](https://www.investopedia.com/terms/f/futurescontract.asp) markets, which derive their values from underlying instruments such as stocks or [[commodities]](https://www.investopedia.com/terms/c/commodity.asp). For example, one equity option contract represents 100 shares of that stock. When an options investor trades an option contract, they know they're buying or selling 100 shares of the stock and determining the value based on the stock's current price in the market.
 
-In the futures market, the standardized [contract sizes](https://www.investopedia.com/terms/c/contractsize.asp) vary depending on the type of contract that is traded. However, there are set parameters within the futures market that determine the size and delivery dates for those contracts.
+In the futures market, the standardized [[contract sizes]](https://www.investopedia.com/terms/c/contractsize.asp) vary depending on the type of contract that is traded. However, there are set parameters within the futures market that determine the size and delivery dates for those contracts.

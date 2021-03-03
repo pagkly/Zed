@@ -16,7 +16,7 @@ author: Marshall Hargrave
 How a Holacracy Works
 ## What Is a Holacracy?
 
-A holacracy is a system of [corporate governance](https://www.investopedia.com/terms/c/corporategovernance.asp) whereby members of a team or business form distinct, autonomous, yet symbiotic, teams to accomplish tasks and company goals. The concept of a [corporate hierarchy](https://www.investopedia.com/terms/c/corporate-hierarchy.asp) is discarded in favor of a flat [organizational structure](https://www.investopedia.com/terms/o/organizational-structure.asp) where all workers have an equal voice while simultaneously answering to the direction of shared authority.
+A holacracy is a system of [[corporate governance]](https://www.investopedia.com/terms/c/corporategovernance.asp) whereby members of a team or business form distinct, autonomous, yet symbiotic, teams to accomplish tasks and company goals. The concept of a [[corporate hierarchy]](https://www.investopedia.com/terms/c/corporate-hierarchy.asp) is discarded in favor of a flat [[organizational structure]](https://www.investopedia.com/terms/o/organizational-structure.asp) where all workers have an equal voice while simultaneously answering to the direction of shared authority.
 
 ## How a Holacracy Works
 
@@ -32,7 +32,7 @@ Zappos.com, with 1,500 employees, is the largest company to adopt Holacracy.
 
 ## Example of a Holacracy
 
-One example of a holacracy is the [video game software](https://www.investopedia.com/articles/investing/031016/firstever-video-game-etf-launches.asp) company Valve Corporation, maker of the Steam video games platform. At Valve, employees are allowed to work on whatever interests them, but also requires that they take ownership of their product and any mistakes they may make along the way.
+One example of a holacracy is the [[video game software]](https://www.investopedia.com/articles/investing/031016/firstever-video-game-etf-launches.asp) company Valve Corporation, maker of the Steam video games platform. At Valve, employees are allowed to work on whatever interests them, but also requires that they take ownership of their product and any mistakes they may make along the way.
 
 Experts have argued that this structure works well for some, but that there are plenty of great employees for whom this type of organization is a terrible place to work.
 
@@ -44,4 +44,4 @@ Experts have argued that this structure works well for some, but that there are 
 
 ## Special Considerations
 
-Critics have [pointed out](https://www.forbes.com/sites/stevedenning/2014/01/15/making-sense-of-zappos-and-holacracy/) that holacracy as a corporate management doctrine does not mean the end of the corporate hierarchy. Hierarchy is still an integral part of holacracy; in fact, hierarchies and the rigidity it creates in different actors' roles may be more pronounced in holacracy.
+Critics have [[pointed out]](https://www.forbes.com/sites/stevedenning/2014/01/15/making-sense-of-zappos-and-holacracy/) that holacracy as a corporate management doctrine does not mean the end of the corporate hierarchy. Hierarchy is still an integral part of holacracy; in fact, hierarchies and the rigidity it creates in different actors' roles may be more pronounced in holacracy.

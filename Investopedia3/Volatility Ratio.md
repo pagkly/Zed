@@ -16,13 +16,13 @@ author: James Chen
 Volatility Ratio
 ## What is Volatility Ratio
 
-The volatility ratio is a technical measure used to identify price patterns and breakouts. In [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) it uses true range to gain an understanding of how a security’s price is moving on the current day in comparison to its past volatility.
+The volatility ratio is a technical measure used to identify price patterns and breakouts. In [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) it uses true range to gain an understanding of how a security’s price is moving on the current day in comparison to its past volatility.
 
 ## BREAKING DOWN Volatility Ratio
 
-The volatility ratio is a measure that helps investors follow the volatility of a [stock’s](https://www.investopedia.com/terms/s/stock.asp) price. It is one of a few technical indicators focused on volatility. In general, standard deviation is typically one of the most common measures used for following volatility. Standard deviation forms the basis for several technical channels including Bollinger Bands. Comprehensively envelope channels of many different varieties are used by technical analysts to identify price ranges and volatility patterns that help lead to trading signals. Historical volatility is also another common trendline that can be used to follow volatility.
+The volatility ratio is a measure that helps investors follow the volatility of a [[stock’s]](https://www.investopedia.com/terms/s/stock.asp) price. It is one of a few technical indicators focused on volatility. In general, standard deviation is typically one of the most common measures used for following volatility. Standard deviation forms the basis for several technical channels including Bollinger Bands. Comprehensively envelope channels of many different varieties are used by technical analysts to identify price ranges and volatility patterns that help lead to trading signals. Historical volatility is also another common trendline that can be used to follow volatility.
 
-The volatility ratio was developed to contribute to the analysis of price [volatility](https://www.investopedia.com/terms/v/volatility.asp). Across the industry volatility and volatility ratio calculations may vary. For technical analysis, Jack Schwager is known for introducing the concept of a volatility ratio in his book “Technical Analysis.”
+The volatility ratio was developed to contribute to the analysis of price [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). Across the industry volatility and volatility ratio calculations may vary. For technical analysis, Jack Schwager is known for introducing the concept of a volatility ratio in his book “Technical Analysis.”
 
 ## Calculating the Volatility Ratio
 
@@ -40,4 +40,4 @@ VR\=∣TTR∣EMAwhere:EMA\=Exponential Moving Average of the True Rangeof�
 
 Investors and traders will have their own mechanisms for following and detecting patterns from the volatility ratio. This ratio is typically plotted as a single line on a technical chart either as an overlay or in its own display window.
 
-A higher volatility ratio will signal substantial price volatility in the current trading day. In general volatility can be a signal of disturbances or developments affecting the security’s price. Therefore, high volatility may lead to a new trend for the security’s price in either a positive or negative direction. Traders follow volatility and the volatility ratio in conjunction with other trading [patterns](https://www.investopedia.com/terms/p/pattern.asp) to help confirm a trading signal for investment.
+A higher volatility ratio will signal substantial price volatility in the current trading day. In general volatility can be a signal of disturbances or developments affecting the security’s price. Therefore, high volatility may lead to a new trend for the security’s price in either a positive or negative direction. Traders follow volatility and the volatility ratio in conjunction with other trading [[patterns]](https://www.investopedia.com/terms/p/pattern.asp) to help confirm a trading signal for investment.

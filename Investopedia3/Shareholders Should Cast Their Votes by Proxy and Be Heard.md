@@ -16,7 +16,7 @@ author: Evan Tarver
 Shareholders Should Cast Their Votes by Proxy and Be Heard
 ## What Is a Proxy?
 
-A proxy is an agent legally authorized to act on behalf of another party or a format that allows an investor to vote without being physically present at the meeting. [Shareholders](https://www.investopedia.com/terms/s/shareholder.asp) not attending a company's [annual general meeting](https://www.investopedia.com/terms/a/agm.asp) (AGM) may vote their shares by proxy by allowing someone else to cast votes on their behalf, or they may vote by mail.
+A proxy is an agent legally authorized to act on behalf of another party or a format that allows an investor to vote without being physically present at the meeting. [[Shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) not attending a company's [[annual general meeting]](https://www.investopedia.com/terms/a/agm.asp) (AGM) may vote their shares by proxy by allowing someone else to cast votes on their behalf, or they may vote by mail.
 
 ### Key Takeaways
 
@@ -33,9 +33,9 @@ A proxy cannot vote if the shareholder arrives late and decides to vote for him 
 
 ## Proxy Statements
 
-Before the annual shareholder meeting, all shareholders receive a packet of information containing the [Proxy Statement](https://www.investopedia.com/terms/p/proxystatement.asp). The proxy documents provide shareholders with the information necessary to make informed votes on issues important to the company's performance. A Proxy statement offers shareholders and prospective investors insight into a company's [governance](https://www.investopedia.com/terms/c/corporategovernance.asp) and management operations. The proxy discloses important information on agenda items for the annual meeting, lists the qualifications of management and board members, serves as a ballot for elections to the board of directors, lists the largest shareholders of a company's stock, and provides detailed information about executive compensation. There are also proposals from management and shareholders.
+Before the annual shareholder meeting, all shareholders receive a packet of information containing the [[Proxy Statement]](https://www.investopedia.com/terms/p/proxystatement.asp). The proxy documents provide shareholders with the information necessary to make informed votes on issues important to the company's performance. A Proxy statement offers shareholders and prospective investors insight into a company's [[governance]](https://www.investopedia.com/terms/c/corporategovernance.asp) and management operations. The proxy discloses important information on agenda items for the annual meeting, lists the qualifications of management and board members, serves as a ballot for elections to the board of directors, lists the largest shareholders of a company's stock, and provides detailed information about executive compensation. There are also proposals from management and shareholders.
 
-Proxy statements must be filed with regulatory authorities, such as the [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) in the United States, on an annual basis before the company's annual meeting.
+Proxy statements must be filed with regulatory authorities, such as the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) in the United States, on an annual basis before the company's annual meeting.
 
 When voting by proxy remotely, shareholders may be eligible to vote by mail, phone, or internet. Shareholders use the information in the proxy statements to aid in the decision-making process.
 

@@ -27,9 +27,9 @@ The McKinsey 7S Model is a framework for organizational effectiveness that postu
 
 The 7S Model specifies seven factors that are classified as "hard" and "soft" elements. Hard elements are easily identified and influenced by management, while soft elements are fuzzier, more intangible and influenced by [corporate culture](https://www.investopedia.com/terms/c/corporate-culture.asp). The hard elements are as follows:
 
--   [Strategy](https://www.investopedia.com/terms/s/strategic-management.asp)
--   [Structure](https://www.investopedia.com/articles/basics/03/022803.asp)
--   [Systems](https://www.investopedia.com/terms/c/corporategovernance.asp)
+-   [[Strategy]](https://www.investopedia.com/terms/s/strategic-management.asp)
+-   [[Structure]](https://www.investopedia.com/articles/basics/03/022803.asp)
+-   [[Systems]](https://www.investopedia.com/terms/c/corporategovernance.asp)
 
 The soft elements are as follows:
 
@@ -46,13 +46,13 @@ Consultants Tom Peters and Robert Waterman, authors of the management bestseller
 
 The strategy is the plan deployed by an organization in order to remain competitive in its industry and market. An ideal approach is to establish a long-term strategy that aligns with the other elements of the model and clearly communicates what the organization’s objective and goals are.
 
-The structure of the organization is made up of its [corporate hierarchy](https://www.investopedia.com/articles/basics/03/022803.asp), the chain of command, and divisional makeup that outlines how the operations function and interconnect. In effect, it details the management configuration and responsibilities of workers.
+The structure of the organization is made up of its [[corporate hierarchy]](https://www.investopedia.com/articles/basics/03/022803.asp), the chain of command, and divisional makeup that outlines how the operations function and interconnect. In effect, it details the management configuration and responsibilities of workers.
 
 Systems of the company refer to the daily procedures, workflow, and decisions that make up the standard operations within the organization.
 
 Shared values are the commonly accepted standards and norms within the company that both influence and temper the behavior of the entire staff and management. This may be detailed in company guidelines presented to the staff. In practice, shared values relate to the actual accepted behavior within the workplace.
 
-Skills comprise the talents and capabilities of the organization’s [staff](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp) and management, which can determine the types of achievements and work the company can accomplish. There may come a time when a company assesses its available skills and decides it must make changes in order to achieve the goals set forth in its strategy.
+Skills comprise the talents and capabilities of the organization’s [[staff]](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp) and management, which can determine the types of achievements and work the company can accomplish. There may come a time when a company assesses its available skills and decides it must make changes in order to achieve the goals set forth in its strategy.
 
 Style speaks to the example and approach that management takes in leading the company, as well as how this influences performance, productivity, and corporate culture.
 

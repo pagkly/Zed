@@ -16,7 +16,7 @@ author: Jason Fernando
 Zero-Floor Limit Definition
 ## What Is a Zero-Floor Limit?
 
-The term "zero-floor limit" refers to a policy whereby merchants are required to obtain authorization for every transaction processed at their store, regardless of its size. By contrast, some stores only require authorization for transactions that are above a certain size, with that size threshold being known as the store's [floor limit](https://www.investopedia.com/terms/f/floor-limit.asp).
+The term "zero-floor limit" refers to a policy whereby merchants are required to obtain authorization for every transaction processed at their store, regardless of its size. By contrast, some stores only require authorization for transactions that are above a certain size, with that size threshold being known as the store's [[floor limit]](https://www.investopedia.com/terms/f/floor-limit.asp).
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The term "zero-floor limit" refers to a policy whereby merchants are required to
 
 Zero-floor limits are an increasingly popular provision. By taking advantage of the advanced computerized systems that are now responsible for processing payments, transactions can be authorized within a matter of seconds. In fact, there is essentially no difference in the speed required to authorize a large transaction as compared to a small one. For this reason, zero-floor limits have become common in recent years.
 
-In the past, merchants who wished to authorize a transaction would need to take a physical imprint of the customer’s [credit card](https://www.investopedia.com/terms/c/creditcard.asp). This process would inevitably slow down the pace of transactions, causing many merchants to impose floor limits: minimum size thresholds below which transactions would not need to be authorized. By switching to a zero-floor limit policy, merchants and customers alike can benefit from improved [fraud protection](https://www.investopedia.com/terms/f/fraud.asp).
+In the past, merchants who wished to authorize a transaction would need to take a physical imprint of the customer’s [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp). This process would inevitably slow down the pace of transactions, causing many merchants to impose floor limits: minimum size thresholds below which transactions would not need to be authorized. By switching to a zero-floor limit policy, merchants and customers alike can benefit from improved [[fraud protection]](https://www.investopedia.com/terms/f/fraud.asp).
 
 ### Important
 

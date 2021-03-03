@@ -26,7 +26,7 @@ Maritime law, also known as admiralty law, is a body of laws, conventions, and t
 
 ## Understanding Maritime Law
 
-In most developed nations, maritime law follows a separate code and is an independent jurisdiction from national laws. The [United Nations](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN), through the [International Maritime Organization (IMO)](https://www.investopedia.com/terms/i/international-maritime-organization.asp), has issued numerous conventions that can be enforced by the navies and coast guards of countries that have signed the treaty outlining these rules. Maritime law governs many of the [insurance claims](https://www.investopedia.com/terms/i/insurance_claim.asp) relating to ships and cargo; civil matters between shipowners, seamen, and passengers; and piracy.
+In most developed nations, maritime law follows a separate code and is an independent jurisdiction from national laws. The [[United Nations]](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN), through the [[International Maritime Organization (IMO)]](https://www.investopedia.com/terms/i/international-maritime-organization.asp), has issued numerous conventions that can be enforced by the navies and coast guards of countries that have signed the treaty outlining these rules. Maritime law governs many of the [[insurance claims]](https://www.investopedia.com/terms/i/insurance_claim.asp) relating to ships and cargo; civil matters between shipowners, seamen, and passengers; and piracy.
 
 Conventions are regularly amended to keep up with new business practices and technologies.
 

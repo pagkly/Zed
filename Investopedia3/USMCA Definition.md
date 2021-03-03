@@ -17,7 +17,7 @@ Nathan Reiff
 USMCA Definition
 ## What Is the USMCA?
 
-The United States-Mexico-Canada Agreement, also known as the [USMCA](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between), is a trade deal between the three nations which was signed on November 30, 2018.1 The USMCA replaced the North American Free Trade Agreement ([NAFTA](https://www.investopedia.com/terms/n/nafta.asp)), which had been in effect since January of 1994. Under the terms of NAFTA, tariffs on many goods passing between North America's three major economic powers were gradually phased out. By 2008, tariffs on various agricultural and textiles products, automobiles, and other goods were reduced or eliminated.2
+The United States-Mexico-Canada Agreement, also known as the [[USMCA]](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between), is a trade deal between the three nations which was signed on November 30, 2018.1 The USMCA replaced the North American Free Trade Agreement ([NAFTA](https://www.investopedia.com/terms/n/nafta.asp)), which had been in effect since January of 1994. Under the terms of NAFTA, tariffs on many goods passing between North America's three major economic powers were gradually phased out. By 2008, tariffs on various agricultural and textiles products, automobiles, and other goods were reduced or eliminated.2
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The United States-Mexico-Canada Agreement, also known as the [USMCA](https://ust
 -   The USMCA took effect on July 1, 2020.
 -   If not renewed, the USMCA will expire in 16 years.
 
-The USMCA was negotiated under the Trump Administration, but the idea of a replacement for NAFTA dates back before President Trump's presidential term. Over the years, NAFTA had frequently been [blamed for the export of U.S. manufacturing to Mexico](https://www.thebalance.com/disadvantages-of-nafta-3306273) and the accompanying loss of jobs and suppression of wages among U.S. workers. In 2008, then-presidential candidate Obama had pledged to renegotiate NAFTA in the interests of American workers but later declined to do so during his administration.3
+The USMCA was negotiated under the Trump Administration, but the idea of a replacement for NAFTA dates back before President Trump's presidential term. Over the years, NAFTA had frequently been [[blamed for the export of U.S. manufacturing to Mexico]](https://www.thebalance.com/disadvantages-of-nafta-3306273) and the accompanying loss of jobs and suppression of wages among U.S. workers. In 2008, then-presidential candidate Obama had pledged to renegotiate NAFTA in the interests of American workers but later declined to do so during his administration.3
 
 As a candidate in the 2016 election, President Trump campaigned on renegotiating NAFTA in order to try and get more favorable terms for the U.S. The USMCA began to officially take shape when the Trump administration sent the required 90-day notice to Congress that he was going to begin talks to renegotiate NAFTA. The talks officially began on August 16, 2017 and ended on September 30, 2018.4
 

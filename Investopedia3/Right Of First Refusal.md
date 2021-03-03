@@ -20,7 +20,7 @@ Right of first refusal (ROFR), also known as first right of refusal, is a contra
 
 ## How a Right Of First Refusal Works
 
-Rights of first refusal clauses are similar to [options contracts](https://www.investopedia.com/terms/o/optionscontract.asp) as the holder has the right, but not the obligation, to enter into a transaction that generally involves an asset. The person with this right has the opportunity to establish a contract or an agreement on an asset before others can. 
+Rights of first refusal clauses are similar to [[options contracts]](https://www.investopedia.com/terms/o/optionscontract.asp) as the holder has the right, but not the obligation, to enter into a transaction that generally involves an asset. The person with this right has the opportunity to establish a contract or an agreement on an asset before others can. 
 
 Rights of first refusal are usually requested by individuals or companies who want to see how a business or opportunity will turn out. The rights holder may prefer to get involved at a later point, rather than make the outlay and commitment right away, and a right of first refusal allows them to do so.
 
@@ -34,12 +34,12 @@ Right of first refusal clauses can be customized to create variations of the sta
 
 ## Advantages and Disadvantages of Rights of First Refusal
 
-For the entitled party, a right of first refusal is sort of an insurance policy, assuring that they will not lose rights to an asset that they want or need. For example, a commercial tenant may prefer to [lease](https://www.investopedia.com/terms/l/lease-payments.asp) a location; however, he may buy the premises if it meant that he would be evicted if the property sold to a new owner. In such a case, the tenant would negotiate to have a right of first refusal clause incorporated into his lease. This way, if leasing becomes impossible, he would have the option to buy the property before others have the chance. 
+For the entitled party, a right of first refusal is sort of an insurance policy, assuring that they will not lose rights to an asset that they want or need. For example, a commercial tenant may prefer to [[lease]](https://www.investopedia.com/terms/l/lease-payments.asp) a location; however, he may buy the premises if it meant that he would be evicted if the property sold to a new owner. In such a case, the tenant would negotiate to have a right of first refusal clause incorporated into his lease. This way, if leasing becomes impossible, he would have the option to buy the property before others have the chance. 
 
 Conversely, the right of first refusal is a hindrance for the property owner since it limits the ability to negotiate with multiple buyers, who in a bidding war could drive up the price. In the example above, the landlord may have a difficult time attracting buyers if they know that the current tenant is always first in line to buy. However, if attracting the right tenant necessitates a right of first refusal, the property owner might still do it.
 
 ## Special Considerations
 
-In the business world, rights of first refusal are commonly seen in [joint venture](https://www.investopedia.com/terms/j/jointventure.asp) situations. The partners in a joint venture generally possess the right of first refusal on buying out the stakes held by other partners who leave the venture. Similarly, a ROFO gives non-selling shareholders in a shareholder agreement the right to purchase shares of selling shareholders before they are offered to the public.
+In the business world, rights of first refusal are commonly seen in [[joint venture]](https://www.investopedia.com/terms/j/jointventure.asp) situations. The partners in a joint venture generally possess the right of first refusal on buying out the stakes held by other partners who leave the venture. Similarly, a ROFO gives non-selling shareholders in a shareholder agreement the right to purchase shares of selling shareholders before they are offered to the public.
 
-Rights of first refusal are a common feature in many other areas from [real estate](https://www.investopedia.com/terms/r/realestate.asp) to sports and entertainment. For example, a publishing house may ask for the right of first refusal on future books by a new author.
+Rights of first refusal are a common feature in many other areas from [[real estate]](https://www.investopedia.com/terms/r/realestate.asp) to sports and entertainment. For example, a publishing house may ask for the right of first refusal on future books by a new author.

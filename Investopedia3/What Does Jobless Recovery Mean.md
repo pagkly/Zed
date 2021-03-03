@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does Jobless Recovery Mean?
 ## What Is a Jobless Recovery?
 
-A jobless recovery is a period in which the economy recovers from [recession](https://www.investopedia.com/terms/r/recession.asp) without reducing the [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp).
+A jobless recovery is a period in which the economy recovers from [[recession]](https://www.investopedia.com/terms/r/recession.asp) without reducing the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp).
 
-Jobless recoveries can be caused by companies responding to the recession by reducing workforces, such as by [outsourcing](https://www.investopedia.com/terms/o/outsourcing.asp) labor and investing in automation.
+Jobless recoveries can be caused by companies responding to the recession by reducing workforces, such as by [[outsourcing]](https://www.investopedia.com/terms/o/outsourcing.asp) labor and investing in automation.
 
 ### Key Takeaways
 
@@ -28,13 +28,13 @@ Jobless recoveries can be caused by companies responding to the recession by red
 
 ## How Jobless Recoveries Work
 
-When the economy shrinks, companies suffer from declining revenues. In response to this, they must adapt either by raising prices, gaining [market share](https://www.investopedia.com/terms/m/marketshare.asp), or cutting costs.
+When the economy shrinks, companies suffer from declining revenues. In response to this, they must adapt either by raising prices, gaining [[market share]](https://www.investopedia.com/terms/m/marketshare.asp), or cutting costs.
 
 For most companies, raising prices and gaining market share is difficult in the best of times, let alone when the economy is shrinking. For that reason, most companies will choose to cut costs in order to survive tough economic times.
 
 One of the largest costs for businesses is workers’ wages, so it is inevitable that many companies will respond to a recession by laying off workers or shifting jobs to less expensive workforces (i.e. outsourcing). 
 
-As the economy eventually recovers, there is no guarantee that those companies will reverse their decisions and re-hire the workers that they laid off during the recession. Workers may therefore feel “left behind” by the growing economy: although corporate profits and [Gross Domestic Product (GDP)](https://www.investopedia.com/terms/g/gdp.asp) may have rebounded, individual workers’ incomes may not have improved.
+As the economy eventually recovers, there is no guarantee that those companies will reverse their decisions and re-hire the workers that they laid off during the recession. Workers may therefore feel “left behind” by the growing economy: although corporate profits and [[Gross Domestic Product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp) may have rebounded, individual workers’ incomes may not have improved.
 
 At the aggregate level, we know that a Jobless Recovery has occurred when the unemployment rate does not rise in line with GDP.
 

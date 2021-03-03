@@ -28,15 +28,15 @@ The annual sessions of UNCITRAL are held alternately in New York City and Vie
 
 ## Understanding the United Nations Commission on International Trade Law (UNCITRAL)
 
-With the proliferation of global trade in the 1960s, national governments realized there was a need for a harmonized global set of standards to replace the various national and regional [regulations](https://www.investopedia.com/laws-and-regulations-4427769) which, until then, had largely governed international trade.
+With the proliferation of global trade in the 1960s, national governments realized there was a need for a harmonized global set of standards to replace the various national and regional [[regulations]](https://www.investopedia.com/laws-and-regulations-4427769) which, until then, had largely governed international trade.
 
 In response to this, the United Nations established the United Nations Commission on International Trade Law (UNCITRAL) in 1966. According to the UNICTRAL, much of the complex network of international legal rules and agreements that affect today's commercial arrangements have been reached through long and detailed consultations and negotiations organized by the organization.
 
-UNCITRAL operates from the premise that international trade has global benefits to its participants. With increasing [economic interdependence](https://www.investopedia.com/terms/g/globalization.asp) globally, UNCITRAL seeks to help expand and facilitate global trade through the progressive harmonization and modernization of the law of international trade.
+UNCITRAL operates from the premise that international trade has global benefits to its participants. With increasing [[economic interdependence]](https://www.investopedia.com/terms/g/globalization.asp) globally, UNCITRAL seeks to help expand and facilitate global trade through the progressive harmonization and modernization of the law of international trade.
 
 Through the salient areas of commercial law. its mandate covers include dispute resolution, international contract practices, transport, insolvency, electronic commerce, international payments, secured transactions, procurement and sale of goods. UNCITRAL aims to formulate modern, fair, and harmonized rules on such commercial transactions. Its work includes conventions, model laws, and rules which are acceptable worldwide; legal and legislative guides, and practical recommendations; updated information on case law and enactments of uniform commercial law; technical assistance in law reform projects; and regional and national seminars on uniform commercial law.
 
-Membership of UNCITRAL is determined by the U.N. General Assembly. The original membership comprised 29 member states of the U.N.; this was expanded to 36 in 1973, and then expanded again in 2002, to 60 states. States represent a variety of legal traditions and levels of [economic development](https://www.investopedia.com/terms/e/economicgrowth.asp).
+Membership of UNCITRAL is determined by the U.N. General Assembly. The original membership comprised 29 member states of the U.N.; this was expanded to 36 in 1973, and then expanded again in 2002, to 60 states. States represent a variety of legal traditions and levels of [[economic development]](https://www.investopedia.com/terms/e/economicgrowth.asp).
 
 Member states are deliberately chosen to be globally representative, and the 60 states, therefore, comprise 14 African states, 14 Asian states, eight Eastern European states, 10 Latin American and Caribbean states and 14 Western European and other states. The UN General Assembly elects members for terms of six years; every three years the terms of half of the members expire. In this way, no country or bloc should be able to dominate.
 

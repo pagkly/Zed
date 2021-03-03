@@ -16,10 +16,10 @@ author: James Chen
 How Marketing Plans Work
 ## What Is a Marketing Plan?
 
-A marketing plan is an operational document that outlines an advertising strategy that an organization will implement to generate leads and reach its [target market](https://www.investopedia.com/terms/t/target-market.asp). A marketing plan details the outreach and PR [campaigns](https://www.investopedia.com/articles/markets/100715/what-makes-share-coke-campaign-so-successful.asp) to be undertaken over a period, including how the company will measure the effect of these initiatives. The functions and components of a marketing plan include the following:
+A marketing plan is an operational document that outlines an advertising strategy that an organization will implement to generate leads and reach its [[target market]](https://www.investopedia.com/terms/t/target-market.asp). A marketing plan details the outreach and PR [[campaigns]](https://www.investopedia.com/articles/markets/100715/what-makes-share-coke-campaign-so-successful.asp) to be undertaken over a period, including how the company will measure the effect of these initiatives. The functions and components of a marketing plan include the following:
 
 -   Market research to support pricing decisions and new market entries
--   [Tailored messaging](https://www.investopedia.com/terms/a/affiliate-marketing.asp) that targets certain demographics and geographic areas
+-   [[Tailored messaging]](https://www.investopedia.com/terms/a/affiliate-marketing.asp) that targets certain demographics and geographic areas
 -   Platform selection for product and service promotion—digital, radio, Internet, trade magazines, and the mix of those platforms for each campaign
 -   Metrics that measure the results of marketing efforts and their reporting timelines
 
@@ -37,7 +37,7 @@ The terms marketing plan and marketing strategy are often used interchangeably b
 
 ### Fast Fact
 
-A study for 2019 conducted by [CoSchedule](https://coschedule.com/marketing-statistics/), a provider of marketing software solutions, found that marketers with a documented plan or strategy are 313% more likely to report success in their marketing campaigns. The company surveyed 3,599 marketers from more than 100 countries.
+A study for 2019 conducted by [[CoSchedule]](https://coschedule.com/marketing-statistics/), a provider of marketing software solutions, found that marketers with a documented plan or strategy are 313% more likely to report success in their marketing campaigns. The company surveyed 3,599 marketers from more than 100 countries.
 
 ## Creating a Marketing Plan
 
@@ -55,4 +55,4 @@ Without the correct metrics to assess the impact of outreach and marketing effor
 
 A marketing plan can be adjusted at any point based on the results from the metrics. If digital ads are performing better than expected, for example, the budget for a campaign can be adjusted to fund a higher performing platform or the company can initiate a new budget. The challenge for marketing leaders is to ensure that every platform has sufficient time to show results.
 
-[Digital marketing](https://www.investopedia.com/terms/d/digital-marketing.asp) shows results in near real-time, whereas TV ads require rotation to realize any level of market penetration. In the traditional marketing mix model, a marketing plan would fall under the category of "promotion," which is one of the [four Ps](https://www.investopedia.com/terms/f/four-ps.asp), a term coined by Neil Borden to describe the marketing mix of product, price, promotion, and place.
+[Digital marketing](https://www.investopedia.com/terms/d/digital-marketing.asp) shows results in near real-time, whereas TV ads require rotation to realize any level of market penetration. In the traditional marketing mix model, a marketing plan would fall under the category of "promotion," which is one of the [[four Ps]](https://www.investopedia.com/terms/f/four-ps.asp), a term coined by Neil Borden to describe the marketing mix of product, price, promotion, and place.

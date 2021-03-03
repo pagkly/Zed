@@ -16,11 +16,11 @@ author: Adam Hayes
 Understanding Liquidators
 ## What Is a Liquidator?
 
-A liquidator is a person or entity that liquidates something—generally assets. When [assets](https://atlas.dotdash.com/ask/answers/12/what-is-an-asset.asp) are liquidated, they are sold on the open market for cash or other equivalents. The liquidator is legally empowered to act on behalf of the company in various capacities.
+A liquidator is a person or entity that liquidates something—generally assets. When [[assets]](https://atlas.dotdash.com/ask/answers/12/what-is-an-asset.asp) are liquidated, they are sold on the open market for cash or other equivalents. The liquidator is legally empowered to act on behalf of the company in various capacities.
 
-A liquidator refers to an officer who is specially appointed to wind up the affairs of a company when the company is closing—typically when the company is going [bankrupt](https://atlas.dotdash.com/terms/b/bankruptcy.asp). Assets of a company are sold by the liquidator and the resulting funds are used to pay off the company's debts.
+A liquidator refers to an officer who is specially appointed to wind up the affairs of a company when the company is closing—typically when the company is going [[bankrupt]](https://atlas.dotdash.com/terms/b/bankruptcy.asp). Assets of a company are sold by the liquidator and the resulting funds are used to pay off the company's debts.
 
-In some jurisdictions, a liquidator may also be named as a [trustee](https://atlas.dotdash.com/terms/t/trustee.asp), as in a bankruptcy trustee.
+In some jurisdictions, a liquidator may also be named as a [[trustee]](https://atlas.dotdash.com/terms/t/trustee.asp), as in a bankruptcy trustee.
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ In some jurisdictions, a liquidator may also be named as a [trustee](https://atl
 
 A liquidator is a person with the legal authority to act on behalf of a company to sell the company's assets before the company closes in order to generate cash for a variety of reasons including debt repayment.
 
-Liquidators are generally assigned by the court, by [unsecured creditors](https://www.investopedia.com/terms/u/unsecuredcreditor.asp), or by the company's shareholders. They are often employed when a company goes bankrupt. Once the liquidator is assigned, they will then take over control of the person or organization's assets. These are then pooled together and sold off one-by-one. Cash received from the proceeds of the sale are then used to pay off outstanding debt held by unsecured creditors.
+Liquidators are generally assigned by the court, by [[unsecured creditors]](https://www.investopedia.com/terms/u/unsecuredcreditor.asp), or by the company's shareholders. They are often employed when a company goes bankrupt. Once the liquidator is assigned, they will then take over control of the person or organization's assets. These are then pooled together and sold off one-by-one. Cash received from the proceeds of the sale are then used to pay off outstanding debt held by unsecured creditors.
 
-One of the chief functions of many liquidators is to bring and defend lawsuits. Other actions include collecting outstanding [receivables](https://www.investopedia.com/terms/r/receivables.asp), paying off debts and finishing other corporate termination procedures.
+One of the chief functions of many liquidators is to bring and defend lawsuits. Other actions include collecting outstanding [[receivables]](https://www.investopedia.com/terms/r/receivables.asp), paying off debts and finishing other corporate termination procedures.
 
 A liquidator has the legal authority to act on behalf of a company to sell its assets or to bring on and defend lawsuits.
 
@@ -46,11 +46,11 @@ The liquidator has a fiduciary and legal responsibility to all parties involved�
 
 ## Examples of Liquidators
 
-Many retailers undergo liquidation under a liquidator in order to dispose of their assets because of a looming bankruptcy. The liquidator assesses the business and its assets and may make decisions on when and how to sell them. New [inventory](https://www.investopedia.com/terms/i/inventory.asp) shipments will be stopped and the liquidator may plan for sales of the current stock. Everything under the retailer's banner including fixtures, real estate, and other assets will be sold. The liquidator will then organize the proceeds and pay off the creditors.
+Many retailers undergo liquidation under a liquidator in order to dispose of their assets because of a looming bankruptcy. The liquidator assesses the business and its assets and may make decisions on when and how to sell them. New [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) shipments will be stopped and the liquidator may plan for sales of the current stock. Everything under the retailer's banner including fixtures, real estate, and other assets will be sold. The liquidator will then organize the proceeds and pay off the creditors.
 
 One example is shoe retailer Payless. Saddled with debt, retailer Payless filed for Chapter 11 in 2017 with plans to liquidate almost every store it owned in the United States and Canada. Although it managed to restructure and survive that period, it wasn't fully out of the lurch. The company filed for bankruptcy again in February 2019, saying it would close all of its retail locations across North America—about 2,100 stores—selling its merchandise at a discount to consumers.
 
-But liquidators are not only assigned to retailers. Other businesses that face trouble may require a liquidator. They may be required to deal with issues after a [merger](https://www.investopedia.com/terms/m/merger.asp) takes place when one company buys out another. For instance, when a merger takes place, one company's information technology (IT) department may become redundant. The liquidator may be assigned to sell off or divide the assets of one.
+But liquidators are not only assigned to retailers. Other businesses that face trouble may require a liquidator. They may be required to deal with issues after a [[merger]](https://www.investopedia.com/terms/m/merger.asp) takes place when one company buys out another. For instance, when a merger takes place, one company's information technology (IT) department may become redundant. The liquidator may be assigned to sell off or divide the assets of one.
 
 ## Liquidation Sales
 

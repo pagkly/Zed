@@ -36,7 +36,7 @@ Voluntary simplicity has come in and out of vogue for decades, under numerous na
 
 A century after Thoreau, the hippie counterculture brought a voluntary simplicity vibe to the 1960s and early '70s, with its rejection of material goods and its embrace of communal living and a back-to-the-land movement. By 1971, former Beatle John Lennon was urging fans and followers to "imagine no possessions," in his song "Imagine."
 
-Toward the end of the 20th century, voluntary simplicity became a key principle of the [Financial Independence, Retire Early (FIRE)](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) movement, advanced by authors Vicki Robin and Joe Dominguez, among others. It suggested that people who drastically slashed their expenses and saved the money instead could leave the workforce long before traditional retirement age and spend those years doing the things they really wanted to do.
+Toward the end of the 20th century, voluntary simplicity became a key principle of the [[Financial Independence, Retire Early (FIRE)]](https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp) movement, advanced by authors Vicki Robin and Joe Dominguez, among others. It suggested that people who drastically slashed their expenses and saved the money instead could leave the workforce long before traditional retirement age and spend those years doing the things they really wanted to do.
 
 More recently, Marie Kondo's 2014 bestseller, "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing," became a new addition to the voluntary simplicity canon. It urged readers to purge possessions that were merely weighing them down, both physically and mentally. Kondo's advice: "Keep only those things that speak to the heart, and discard items that no longer spark joy. Thank them for their service—then let them go."
 
@@ -46,7 +46,7 @@ You don't have to embrace every aspect of voluntary simplicity but can chose the
 
 People can practice voluntary simplicity—and enjoy some of its benefits—even if they don't want to make it the focal point of their lives.
 
-That might mean [downsizing](https://www.investopedia.com/articles/personal-finance/061914/downsides-downsizing-retirement.asp) from a large house to a smaller one, as many people do when they reach retirement age, both to simplify their lives and to reduce their living costs. It might mean cooking at home more and eating out less, especially if cooking is an activity you enjoy. It might also mean growing some vegetables in your garden instead of buying everything at the store.
+That might mean [[downsizing]](https://www.investopedia.com/articles/personal-finance/061914/downsides-downsizing-retirement.asp) from a large house to a smaller one, as many people do when they reach retirement age, both to simplify their lives and to reduce their living costs. It might mean cooking at home more and eating out less, especially if cooking is an activity you enjoy. It might also mean growing some vegetables in your garden instead of buying everything at the store.
 
 If you are in a position to do so, voluntary simplicity might involve paring back on the hours you spend at work so you can devote more time to family activities or hobbies. Or it might mean ratcheting up your savings now so that you can leave your job for good, sooner rather than later.
 

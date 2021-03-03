@@ -16,7 +16,7 @@ author: Maya E. Dollarhide
 The Client-Facing Functions of the Front Office
 ## What Is the Front Office?
 
-The front office represents the customer-facing division of a firm. For example, customer service, sales, and industry experts who provide [advisory services](https://www.investopedia.com/terms/a/advisory-management.asp) are considered part of a firm's front office operations.
+The front office represents the customer-facing division of a firm. For example, customer service, sales, and industry experts who provide [[advisory services]](https://www.investopedia.com/terms/a/advisory-management.asp) are considered part of a firm's front office operations.
 
 The functions of the front office generally generate the majority of revenue for a firm.
 
@@ -39,7 +39,7 @@ On a conceptual level, many firms are divided into three parts: the front office
 
 Using this conceptual model, the middle office and back office employees support the activities of the front office. The middle office personnel are tasked with ensuring that a company remains solvent and complies with regulations and ethical business practices. For a financial services firm, these departments might include corporate strategy, compliance, and financial control.
 
-The back office includes administrative assistants, [human resources](https://www.investopedia.com/terms/h/humanresources.asp) staff, and accounting staff. Also critical to the success of the back office operations are the IT and technology departments. In a financial services firm, technology in the form of predictive analytics and algorithms play a central role.
+The back office includes administrative assistants, [[human resources]](https://www.investopedia.com/terms/h/humanresources.asp) staff, and accounting staff. Also critical to the success of the back office operations are the IT and technology departments. In a financial services firm, technology in the form of predictive analytics and algorithms play a central role.
 
 ## Special Considerations
 
@@ -47,6 +47,6 @@ The term "front office" has a more specific meaning in certain industries, prima
 
 In the hotel industry, the front office specifically refers to the area where customers first arrive at the hotel. This area is also called the reception area. A receptionist is typically employed to work in the front office; the role of a receptionist is to get in touch with the customers, confirm their reservation, and answer customer's questions.
 
-In investment banking, front office usually describes a revenue-generating role. There are two main areas of specialization within the front office: investment banking and markets. Investment bankers advise organizations on [mergers and acquisitions (M&A)](https://www.investopedia.com/terms/m/mergersandacquisitions.asp), as well as a wide array of capital-raising strategies. Those individuals employed in a markets-type role within the front office of an investment bank either perform sales and trading activities or research activities.
+In investment banking, front office usually describes a revenue-generating role. There are two main areas of specialization within the front office: investment banking and markets. Investment bankers advise organizations on [[mergers and acquisitions (M&A)]](https://www.investopedia.com/terms/m/mergersandacquisitions.asp), as well as a wide array of capital-raising strategies. Those individuals employed in a markets-type role within the front office of an investment bank either perform sales and trading activities or research activities.
 
 In sports businesses, the front office employs many different sports industry professionals, from the owners of the sports team to general managers and the ticket sales offices.

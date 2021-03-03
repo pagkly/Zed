@@ -16,7 +16,7 @@ author: Julia Kagan
 Waiting Period
 ## What Is a Waiting Period?
 
-A waiting period is the amount of time an insured must wait before some or all of their [coverage](https://www.investopedia.com/terms/i/insurance-coverage.asp) comes into effect. The insured may not receive benefits for claims filed during the waiting period. Waiting periods may also be known as elimination periods and qualifying periods. 
+A waiting period is the amount of time an insured must wait before some or all of their [[coverage]](https://www.investopedia.com/terms/i/insurance-coverage.asp) comes into effect. The insured may not receive benefits for claims filed during the waiting period. Waiting periods may also be known as elimination periods and qualifying periods. 
 
 ### Key Takeaways
 
@@ -27,11 +27,11 @@ A waiting period is the amount of time an insured must wait before some or all 
 
 ## How a Waiting Period Works
 
-The waiting period or [elimination period](https://www.investopedia.com/terms/e/eliminationperiod.asp) before the insured may make claims varies by insurer, policy, and type of insurance. For more extended waiting periods before coverage is active, the cost of a premium may reduce slightly. In health insurance, there are several types of waiting periods. 
+The waiting period or [[elimination period]](https://www.investopedia.com/terms/e/eliminationperiod.asp) before the insured may make claims varies by insurer, policy, and type of insurance. For more extended waiting periods before coverage is active, the cost of a premium may reduce slightly. In health insurance, there are several types of waiting periods. 
 
 An employer waiting period requires an employee to wait a specified period, such as three months, before they may receive company-subsidized health services. Often a provision like this will be in place for a company that expects a high turn-over rate in employees. Once an employee enrolls, they may have an additional waiting period before they may claim on the coverage.
 
-[Health Maintenance Organizations](https://www.investopedia.com/terms/h/hmo.asp) (HMO) have affiliation waiting periods. The [Health Insurance Portability and Accountability Act](https://www.investopedia.com/terms/h/hipaa.asp) (HIPAA) regulates affiliation wait periods and does not allow them to exceed three months. 
+[Health Maintenance Organizations](https://www.investopedia.com/terms/h/hmo.asp) (HMO) have affiliation waiting periods. The [[Health Insurance Portability and Accountability Act]](https://www.investopedia.com/terms/h/hipaa.asp) (HIPAA) regulates affiliation wait periods and does not allow them to exceed three months. 
 
 A pre-existing condition exclusion period varies from one to 18 months. These wait-times refer to specific health conditions an individual may have in the six months before enrolling in a health insurance plan. Coverage may be limited or excluded for the pre-existing condition. However, if the insured can prove uninterrupted insurance previous to changing policies, that coverage can count towards the pre-existing condition exclusion. Exemptions allow those who have at least one year of group health coverage at one job and a span of no more than 63 days to avoid this provision.
 

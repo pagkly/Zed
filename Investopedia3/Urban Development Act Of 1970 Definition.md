@@ -16,7 +16,7 @@ author: Will Kenton
 Urban Development Act Of 1970 Definition
 ## What Is the Urban Development Act of 1970?
 
-The Urban Development Act of 1970 is legislation enforced through the U.S. [Department of Housing and Urban Development](https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp) (HUD) that introduced the Federal Experimental Housing Allowance Program and Community Development Corporation.
+The Urban Development Act of 1970 is legislation enforced through the U.S. [[Department of Housing and Urban Development]](https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp) (HUD) that introduced the Federal Experimental Housing Allowance Program and Community Development Corporation.
 
 This act was passed to do the following:
 
@@ -44,4 +44,4 @@ The Act also ran the Federal Experimental Housing Allowance Program, which began
 
 The Urban Institute concluded in the late 1970s that housing allowances “do not provide significant momentum towards most of the stated goals of HUD policy." Later policies had HUD providing subsidies directly to landlords through the Section 8 program, and building additional large public housing projects, an activity that has largely ended.
 
-Federal spending on housing is mostly geared toward wealthier people. A [2017 study by Apartment List](https://www.apartmentlist.com/rentonomics/imbalance-housing-aid-mortgage-interest-deduction-vs-section-8/) found the popular tax break called the [mortgage interest deduction](https://www.investopedia.com/terms/home-mortgage-interest.asp) (MID), cost the federal government $71 billion in 2015, more than double the $29 billion spent on Section 8 funding for low-income renters. In addition, over half of high-income households claim MID, while just 11% of low-income households receive subsidies of any kind for housing.
+Federal spending on housing is mostly geared toward wealthier people. A [2017 study by Apartment List](https://www.apartmentlist.com/rentonomics/imbalance-housing-aid-mortgage-interest-deduction-vs-section-8/) found the popular tax break called the [[mortgage interest deduction]](https://www.investopedia.com/terms/home-mortgage-interest.asp) (MID), cost the federal government $71 billion in 2015, more than double the $29 billion spent on Section 8 funding for low-income renters. In addition, over half of high-income households claim MID, while just 11% of low-income households receive subsidies of any kind for housing.

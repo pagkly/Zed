@@ -32,25 +32,25 @@ A low debt-to-income (DTI) ratio demonstrates a good balance between debt and in
 
 Typically, borrowers with low debt-to-income ratios are likely to manage their monthly debt payments effectively. As a result, banks and financial credit providers want to see low DTI ratios before issuing loans to a potential borrower. The preference for low DTI ratios makes sense since lenders want to be sure a borrower isn't overextended meaning they have too many debt payments relative to their income.
 
-As a general guideline, 43% is the highest DTI ratio a borrower can have and still get qualified for a mortgage. Ideally, lenders prefer a debt-to-income ratio lower [than 36%](https://www.investopedia.com/ask/answers/081214/whats-considered-be-good-debttoincome-dti-ratio.asp), with no more than 28% of that debt going towards servicing a mortgage or rent payment.2
+As a general guideline, 43% is the highest DTI ratio a borrower can have and still get qualified for a mortgage. Ideally, lenders prefer a debt-to-income ratio lower [[than 36%]](https://www.investopedia.com/ask/answers/081214/whats-considered-be-good-debttoincome-dti-ratio.asp), with no more than 28% of that debt going towards servicing a mortgage or rent payment.2
 
 The maximum DTI ratio varies from lender to lender. However, the lower the debt-to-income ratio, the better the chances that the borrower will be approved, or at least considered, for the credit application.
 
 ## DTI Formula and Calculation
 
-The debt-to-income (DTI) ratio is a personal finance measure that compares an individual’s monthly debt payment to their monthly [gross income](https://www.investopedia.com/terms/g/grossincome.asp). Your gross income is your pay before taxes and other deductions are taken out. The debt-to-income ratio is the percentage of your gross monthly income that goes to paying your monthly debt payments.
+The debt-to-income (DTI) ratio is a personal finance measure that compares an individual’s monthly debt payment to their monthly [[gross income]](https://www.investopedia.com/terms/g/grossincome.asp). Your gross income is your pay before taxes and other deductions are taken out. The debt-to-income ratio is the percentage of your gross monthly income that goes to paying your monthly debt payments.
 
-The [DTI ratio](https://www.investopedia.com/ask/answers/081414/what-counts-debts-and-income-when-calculating-my-debttoincome-dti-ratio.asp) is one of the metrics that lenders, including [mortgage lenders](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/), use to measure an individual’s ability to manage monthly payments and repay debts.
+The [[DTI ratio]](https://www.investopedia.com/ask/answers/081414/what-counts-debts-and-income-when-calculating-my-debttoincome-dti-ratio.asp) is one of the metrics that lenders, including [[mortgage lenders]](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/), use to measure an individual’s ability to manage monthly payments and repay debts.
 
 DTI\=Total of Monthly Debt PaymentsGross Monthly Income\\begin{aligned} &\\text{DTI} = \\frac{ \\text{Total of Monthly Debt Payments} }{ \\text{Gross Monthly Income} } \\\\ \\end{aligned}
 
-1.  Sum up your monthly debt payments including [credit cards](https://www.investopedia.com/articles/pf/10/credit-card-debit-card.asp), [loans](https://www.investopedia.com/terms/l/loan.asp), and mortgage.
+1.  Sum up your monthly debt payments including [[credit cards]](https://www.investopedia.com/articles/pf/10/credit-card-debit-card.asp), [[loans]](https://www.investopedia.com/terms/l/loan.asp), and mortgage.
 2.  Divide your total monthly debt payment amount by your monthly gross income.
 3.  The result will yield a decimal, so multiply the result by 100 to achieve your DTI percentage.
 
-Sometimes the debt-to-income ratio is lumped in together with the [debt-to-limit ratio](https://www.investopedia.com/terms/d/debttolimit-ratio.asp#:~:text=The%20debt%2Dto%2Dlimit%20ratio%20is%20a%20metric%20used%20to,%2Dlimit%20ratio%20of%2050%25.). However, the two metrics have distinct differences.
+Sometimes the debt-to-income ratio is lumped in together with the [[debt-to-limit ratio]](https://www.investopedia.com/terms/d/debttolimit-ratio.asp#:~:text=The%20debt%2Dto%2Dlimit%20ratio%20is%20a%20metric%20used%20to,%2Dlimit%20ratio%20of%2050%25.). However, the two metrics have distinct differences.
 
-The debt-to-limit ratio, which is also called the [credit utilization ratio](https://www.investopedia.com/terms/c/credit-utilization-rate.asp), is the percentage of a borrower’s total available credit that is currently being utilized. In other words, lenders want to determine if you're maxing out your credit cards. The DTI ratio calculates your monthly debt payments as compared to your income, whereby credit utilization measures your debt _balances_ as compared to the amount of existing credit you've been approved for by credit card companies.
+The debt-to-limit ratio, which is also called the [[credit utilization ratio]](https://www.investopedia.com/terms/c/credit-utilization-rate.asp), is the percentage of a borrower’s total available credit that is currently being utilized. In other words, lenders want to determine if you're maxing out your credit cards. The DTI ratio calculates your monthly debt payments as compared to your income, whereby credit utilization measures your debt _balances_ as compared to the amount of existing credit you've been approved for by credit card companies.
 
 ## Debt-to-Income Ratio (DTI) Limitations
 
@@ -81,7 +81,7 @@ In other words, John has a 33% debt-to-income ratio.
 
 ## How to Lower a Debt-to-Income Ratio
 
-You can lower your debt-to-income ratio by reducing your monthly [recurring debt](https://www.investopedia.com/terms/r/recurring_debt.asp) or increasing your gross monthly income.
+You can lower your debt-to-income ratio by reducing your monthly [[recurring debt]](https://www.investopedia.com/terms/r/recurring_debt.asp) or increasing your gross monthly income.
 
 Using the above example, if John has the same recurring monthly debt of $2,000 but his gross monthly income increases to $8,000, his DTI ratio calculation will change to $2,000 ÷ $8,000 for a debt-to-income ratio of 0.25 or 25%.
 
@@ -93,7 +93,7 @@ The DTI ratio can also be used to measure the percentage of income that goes tow
 
 ## Real World Example of the DTI Ratio
 
-Wells Fargo Corporation [(WFC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc) is one of the largest lenders in the U.S. The bank provides banking and lending products that include mortgages and credit cards to consumers. Below is an outline of [their guidelines](https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/debt-to-income-ratio/understanding-dti/) of the debt-to-income ratios that they consider creditworthy or needs improving.
+Wells Fargo Corporation [(WFC)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wfc) is one of the largest lenders in the U.S. The bank provides banking and lending products that include mortgages and credit cards to consumers. Below is an outline of [[their guidelines]](https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/debt-to-income-ratio/understanding-dti/) of the debt-to-income ratios that they consider creditworthy or needs improving.
 
 -   35% or less is generally viewed as favorable, and your debt is manageable. You likely have money remaining after paying monthly bills.
 -   36% to 49% means your DTI ratio is adequate, but you have room for improvement. Lenders might ask for other eligibility requirements.

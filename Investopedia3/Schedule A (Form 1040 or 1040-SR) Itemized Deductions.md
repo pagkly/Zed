@@ -18,7 +18,7 @@ Schedule A (Form 1040 or 1040-SR): Itemized Deductions
 
 Schedule A (Form 1040 or 1040-SR): Itemized Deductions is an Internal Revenue Service (IRS) form for U.S. taxpayers who choose to itemize their tax-deductible expenses rather than take the standard deduction.
 
-The Schedule A form is an optional attachment to the [standard 1040 form](https://www.investopedia.com/terms/1/1040.asp) that U.S. taxpayers use to report their annual income taxes.1
+The Schedule A form is an optional attachment to the [[standard 1040 form]](https://www.investopedia.com/terms/1/1040.asp) that U.S. taxpayers use to report their annual income taxes.1
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ The Schedule A form is an optional attachment to the [standard 1040 form](https:
 
 ## Who Can File Schedule A (Form 1040 or 1040-SR): Itemized Deductions?
 
-Any U.S. taxpayer can file a Schedule A Form. Claiming [itemized deductions](https://www.investopedia.com/terms/i/itemizeddeduction.asp) is an alternative to taking the [standard deduction](https://www.investopedia.com/terms/s/standarddeduction.asp), and taxpayers can use whichever option will give them greater savings.
+Any U.S. taxpayer can file a Schedule A Form. Claiming [[itemized deductions]](https://www.investopedia.com/terms/i/itemizeddeduction.asp) is an alternative to taking the [[standard deduction]](https://www.investopedia.com/terms/s/standarddeduction.asp), and taxpayers can use whichever option will give them greater savings.
 
-A number of deductions that were once available to taxpayers disappeared with the [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) passed in 2017. They include deductions for casualty and theft losses not in a disaster area; interest on home equity loans that were used for purposes other than buying, building, or improving a home; and "miscellaneous deductions," which included tax preparation fees and job-related expenses that an employer didn't reimburse.
+A number of deductions that were once available to taxpayers disappeared with the [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) passed in 2017. They include deductions for casualty and theft losses not in a disaster area; interest on home equity loans that were used for purposes other than buying, building, or improving a home; and "miscellaneous deductions," which included tax preparation fees and job-related expenses that an employer didn't reimburse.
 
 The new law also limited the amount that taxpayers can deduct for state and local taxes to a maximum of $10,000, or $5,000 for married taxpayers filing separately.2 At the same time, the law nearly doubled the standard deduction. The figures are adjusted annually:
 
@@ -55,7 +55,7 @@ All versions of Schedule A are available on the IRS website.5
 
 ## How to File Schedule A (Form 1040 or 1040-SR): Itemized Deductions
 
-The [instructions for Schedule A](https://www.irs.gov/instructions/i1040sca) explain which of your expenses are deductible and where they should be listed on the form.
+The [[instructions for Schedule A]](https://www.irs.gov/instructions/i1040sca) explain which of your expenses are deductible and where they should be listed on the form.
 
 Schedule A requires taxpayers to list their deductible expenses in any or all of six designated categories:
 
@@ -66,6 +66,6 @@ Schedule A requires taxpayers to list their deductible expenses in any or all of
 -   Casualty and theft losses (but only if the property is located in a federally-declared disaster area)
 -   Other itemized deductions
 
-Like the standard deduction, the itemized deductions on Schedule A are subtracted from the taxpayer's [adjusted gross income](https://www.investopedia.com/terms/a/agi.asp) (AGI) to determine taxable income.6
+Like the standard deduction, the itemized deductions on Schedule A are subtracted from the taxpayer's [[adjusted gross income]](https://www.investopedia.com/terms/a/agi.asp) (AGI) to determine taxable income.6
 
 As has always been the case, if you elect to itemize your deductions, you need to save documentation of eligible expenses throughout the year. These may include receipts, invoices, and images of canceled checks.

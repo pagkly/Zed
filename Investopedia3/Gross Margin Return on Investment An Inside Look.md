@@ -16,7 +16,7 @@ author: Will Kenton
 Gross Margin Return on Investment: An Inside Look
 ## What Is the Gross Margin Return on Investment (GMROI)?
 
-The [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) return on investment (GMROI) is an [inventory](https://www.investopedia.com/terms/i/inventory.asp) profitability evaluation ratio that analyzes a firm's ability to turn inventory into cash above the cost of the inventory. It is calculated by dividing the gross margin by the [average inventory cost](https://www.investopedia.com/terms/a/averagecostmethod.asp) and is used often in the retail industry. GMROI is also known as the gross margin return on inventory investment (GMROII).
+The [[gross margin]](https://www.investopedia.com/terms/g/grossmargin.asp) return on investment (GMROI) is an [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) profitability evaluation ratio that analyzes a firm's ability to turn inventory into cash above the cost of the inventory. It is calculated by dividing the gross margin by the [[average inventory cost]](https://www.investopedia.com/terms/a/averagecostmethod.asp) and is used often in the retail industry. GMROI is also known as the gross margin return on inventory investment (GMROII).
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ The [gross margin](https://www.investopedia.com/terms/g/grossmargin.asp) return 
 
 The GMROI is a useful measure as it helps the investor or manager see the average amount that the inventory returns above its cost. A ratio higher than one means the firm is selling the merchandise for more than what it costs the firm to acquire it and shows that the business has a good balance between its sales, margin, and cost of inventory.
 
-The opposite is true for a [ratio](https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx) below 1. Some sources recommend the rule of thumb for GMROI in a retail store to be 3.2 or higher so that all occupancy and employee costs and profits are covered.
+The opposite is true for a [[ratio]](https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx) below 1. Some sources recommend the rule of thumb for GMROI in a retail store to be 3.2 or higher so that all occupancy and employee costs and profits are covered.
 
 ### How to Calculate the Gross Margin Return on Investment (GMROI)
 
@@ -38,7 +38,7 @@ The formula for the GMROI is as follows:
 
 GMROI\=Gross profitAverage inventory cost\\mathit{GMROI} = \\frac{\\text{Gross profit}}{\\text{Average inventory cost}}
 
-To calculate the gross margin return on inventory, two metrics must be known: the gross margin and the [average inventory](https://www.investopedia.com/terms/a/average-inventory.asp). The gross profit is calculated by subtracting a company's [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS) from its revenue. The difference is then divided by its revenue. The average inventory is calculated by summing the ending inventory over a specified period and then dividing the sum by the number of periods while considering the obsolete inventory portion scenarios as well.
+To calculate the gross margin return on inventory, two metrics must be known: the gross margin and the [[average inventory]](https://www.investopedia.com/terms/a/average-inventory.asp). The gross profit is calculated by subtracting a company's [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS) from its revenue. The difference is then divided by its revenue. The average inventory is calculated by summing the ending inventory over a specified period and then dividing the sum by the number of periods while considering the obsolete inventory portion scenarios as well.
 
 ### How to Use the Gross Margin Return on Investment (GMROI)
 

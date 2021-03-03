@@ -30,9 +30,9 @@ The issuer repurchases the shares gradually over a period of time, such as one y
 
 Public companies operating in Canada must file a Notice of Intention to Make an NCIB with the stock exchanges they are listed on and receive their approval before proceeding with a repurchase. There are limits on the number of shares the company can repurchase in a single day.
 
-In another type of approved issuer bid, a company will repurchase a set number of shares from its [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) at a predetermined date and price.
+In another type of approved issuer bid, a company will repurchase a set number of shares from its [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) at a predetermined date and price.
 
-If a company repurchases all of its outstanding shares in this manner, it is called a [going private](https://www.investopedia.com/terms/g/going-private.asp) transaction.
+If a company repurchases all of its outstanding shares in this manner, it is called a [[going private]](https://www.investopedia.com/terms/g/going-private.asp) transaction.
 
 ### Ways an NCIB Can Be Used
 

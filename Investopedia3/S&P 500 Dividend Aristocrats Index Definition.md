@@ -26,13 +26,13 @@ The S&P 500 Dividend Aristocrats Index is a list of companies in the S&P 500 wit
 
 ## Understanding S&P 500 Dividend Aristocrats
 
-The S&P 500 Dividend Aristocrats Index tracks the performance of well-known, mainly large-cap, blue-chip companies. [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp) will remove companies from the index when they fail to increase dividend payments from the previous year. The index is rebalanced quarterly in January, April, July, and October.1
+The S&P 500 Dividend Aristocrats Index tracks the performance of well-known, mainly large-cap, blue-chip companies. [[Standard & Poor's]](https://www.investopedia.com/terms/s/sp.asp) will remove companies from the index when they fail to increase dividend payments from the previous year. The index is rebalanced quarterly in January, April, July, and October.1
 
-The S&P 500 Dividend Aristocrats includes stocks with a float-adjusted [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) of at least $3 billion and an average daily trading volume of at least $5 million, in addition to consistently increasing [dividend payments](https://www.investopedia.com/terms/d/dividend.asp).1 The index requires a minimum of 40 companies, and currently has 65 constituents as of December 2020.12
+The S&P 500 Dividend Aristocrats includes stocks with a float-adjusted [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of at least $3 billion and an average daily trading volume of at least $5 million, in addition to consistently increasing [[dividend payments]](https://www.investopedia.com/terms/d/dividend.asp).1 The index requires a minimum of 40 companies, and currently has 65 constituents as of December 2020.12
 
 The strength of the dividend aristocrats lies not just in the ability to continually increase dividend payments to shareholders, but also performance. These companies have historically outperformed the S&P 500 by approximately 1.8% per year and exhibit slightly less volatility.3
 
-One criticism of companies on the dividend aristocrats list is they sometimes use share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) to facilitate dividend increases. The problem is a true dividend aristocrat should increase payouts to shareholders from year to year, and if the company is overpaying for its shares, it may not be acting in shareholders’ best interests, even if dividends are increasing.
+One criticism of companies on the dividend aristocrats list is they sometimes use share [[buybacks]](https://www.investopedia.com/terms/b/buyback.asp) to facilitate dividend increases. The problem is a true dividend aristocrat should increase payouts to shareholders from year to year, and if the company is overpaying for its shares, it may not be acting in shareholders’ best interests, even if dividends are increasing.
 
 ## S&P 500 Dividend Aristocrats Examples
 

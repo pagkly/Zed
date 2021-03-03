@@ -16,9 +16,9 @@ author: James Chen
 Swap
 ## What Is a Swap?
 
-A swap is a [derivative](https://www.investopedia.com/terms/d/derivative.asp) contract through which two parties exchange the cash flows or liabilities from two different financial instruments. Most swaps involve cash flows based on a [notional principal amount](https://www.investopedia.com/terms/n/notionalprincipalamount.asp) such as a loan or bond, although the instrument can be almost anything. Usually, the principal does not change hands. Each [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) comprises one [leg](https://www.investopedia.com/terms/l/leg.asp) of the swap. One cash flow is generally fixed, while the other is variable and based on a benchmark interest rate, [floating currency exchange rate](https://www.investopedia.com/terms/f/floatingexchangerate.asp), or index price.
+A swap is a [derivative](https://www.investopedia.com/terms/d/derivative.asp) contract through which two parties exchange the cash flows or liabilities from two different financial instruments. Most swaps involve cash flows based on a [notional principal amount](https://www.investopedia.com/terms/n/notionalprincipalamount.asp) such as a loan or bond, although the instrument can be almost anything. Usually, the principal does not change hands. Each [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) comprises one [leg](https://www.investopedia.com/terms/l/leg.asp) of the swap. One cash flow is generally fixed, while the other is variable and based on a benchmark interest rate, [floating currency exchange rate](https://www.investopedia.com/terms/f/floatingexchangerate.asp), or index price.
 
-The most common kind of swap is an [interest rate swap](https://www.investopedia.com/terms/i/interestrateswap.asp). Swaps do not trade on exchanges, and retail investors do not generally engage in swaps. Rather, swaps are [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) (OTC) contracts primarily between businesses or financial institutions that are customized to the needs of both parties.
+The most common kind of swap is an [interest rate swap](https://www.investopedia.com/terms/i/interestrateswap.asp). Swaps do not trade on exchanges, and retail investors do not generally engage in swaps. Rather, swaps are [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) (OTC) contracts primarily between businesses or financial institutions that are customized to the needs of both parties.
 
 ## Swaps Explained
 
@@ -218,7 +218,7 @@ In most cases, the two parties would act through a bank or other intermediary, w
 
 ## Other Swaps
 
-The [instruments exchanged in a swap](https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp) do not have to be interest payments. Countless varieties of exotic swap agreements exist, but relatively common arrangements include commodity swaps, currency swaps, debt swaps, and total return swaps.
+The [[instruments exchanged in a swap]](https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp) do not have to be interest payments. Countless varieties of exotic swap agreements exist, but relatively common arrangements include commodity swaps, currency swaps, debt swaps, and total return swaps.
 
 ### Commodity Swaps
 
@@ -226,19 +226,19 @@ The [instruments exchanged in a swap](https://www.investopedia.com/articles/inve
 
 ### Currency Swaps
 
-In a [currency swap](https://www.investopedia.com/terms/c/currencyswap.asp), the parties exchange interest and principal payments on debt denominated in different currencies. Unlike an interest rate swap, the principal is not a notional amount, but it is exchanged along with interest obligations. Currency swaps can take place between countries. For example, China has used swaps with Argentina, helping the latter stabilize its [foreign reserves](https://www.investopedia.com/terms/i/international-reserves.asp).2 The [U.S. Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) engaged in an aggressive swap strategy with European [central banks](https://www.investopedia.com/terms/c/centralbank.asp) during the 2010 European financial crisis to stabilize the euro, which was falling in value due to the Greek debt crisis.3
+In a [currency swap](https://www.investopedia.com/terms/c/currencyswap.asp), the parties exchange interest and principal payments on debt denominated in different currencies. Unlike an interest rate swap, the principal is not a notional amount, but it is exchanged along with interest obligations. Currency swaps can take place between countries. For example, China has used swaps with Argentina, helping the latter stabilize its [foreign reserves](https://www.investopedia.com/terms/i/international-reserves.asp).2 The [[U.S. Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) engaged in an aggressive swap strategy with European [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp) during the 2010 European financial crisis to stabilize the euro, which was falling in value due to the Greek debt crisis.3
 
 ### Debt-Equity Swaps
 
-A [debt-equity swap](https://www.investopedia.com/terms/d/debtequityswap.asp) involves the exchange of debt for equity_—_in the case of a publicly-traded company, this would mean bonds for stocks. It is a way for companies to refinance their debt or reallocate their [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp).
+A [debt-equity swap](https://www.investopedia.com/terms/d/debtequityswap.asp) involves the exchange of debt for equity_—_in the case of a publicly-traded company, this would mean bonds for stocks. It is a way for companies to refinance their debt or reallocate their [[capital structure]](https://www.investopedia.com/terms/c/capitalstructure.asp).
 
 ### Total Return Swaps
 
-In a [total return swap](https://www.investopedia.com/terms/t/totalreturnswap.asp), the total return from an asset is exchanged for a fixed interest rate. This gives the party paying the fixed-rate exposure to the underlying asset_—_a stock or an [index](https://www.investopedia.com/terms/m/marketindex.asp). For example, an investor could pay a fixed rate to one party in return for the capital appreciation plus [dividend](https://www.investopedia.com/terms/d/dividend.asp) payments of a pool of stocks.
+In a [total return swap](https://www.investopedia.com/terms/t/totalreturnswap.asp), the total return from an asset is exchanged for a fixed interest rate. This gives the party paying the fixed-rate exposure to the underlying asset_—_a stock or an [[index]](https://www.investopedia.com/terms/m/marketindex.asp). For example, an investor could pay a fixed rate to one party in return for the capital appreciation plus [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) payments of a pool of stocks.
 
 ### Credit Default Swap (CDS)
 
-A [credit default swap](https://www.investopedia.com/terms/c/creditdefaultswap.asp) (CDS) consists of an agreement by one party to pay the lost principal and interest of a loan to the CDS buyer if a borrower [defaults](https://www.investopedia.com/terms/d/default2.asp) on a loan. Excessive [leverage](https://www.investopedia.com/terms/l/leverage.asp) and poor risk management in the CDS market were contributing causes of the 2008 financial crisis.4
+A [[credit default swap]](https://www.investopedia.com/terms/c/creditdefaultswap.asp) (CDS) consists of an agreement by one party to pay the lost principal and interest of a loan to the CDS buyer if a borrower [[defaults]](https://www.investopedia.com/terms/d/default2.asp) on a loan. Excessive [[leverage]](https://www.investopedia.com/terms/l/leverage.asp) and poor risk management in the CDS market were contributing causes of the 2008 financial crisis.4
 
 ## Swaps Summary
 

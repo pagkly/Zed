@@ -22,7 +22,7 @@ Ultimate net loss is a party's total financial obligation when an insured event 
 
 An insurance company's ultimate net loss from a claim may be offset by the salvage value of any recoverable items, awards from successful claims against third parties, money from reinsurance and the policyholder's deductible and policy maximum. Ultimate net loss can be a generic term that refers to the total amount of any loss, but in finance, it is most commonly used to refer to an insurance company's total loss from a policyholder's claim.
 
-Insurance companies can protect themselves against large ultimate net losses by sharing policy risk with reinsurers. When an insurer shares a portion of the [premiums](https://www.investopedia.com/terms/i/insurance-premium.asp) it collects with a reinsurance company, it gains protection against a portion of its claims losses. For example, an insurance company might receive $30,000 in annual premiums for a $10 million policy. To protect itself against the threat of a $10 million loss, the insurance company might cede $15,000 of the annual premium to a reinsurer, who would agree to cover $5 million of the potential loss.
+Insurance companies can protect themselves against large ultimate net losses by sharing policy risk with reinsurers. When an insurer shares a portion of the [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp) it collects with a reinsurance company, it gains protection against a portion of its claims losses. For example, an insurance company might receive $30,000 in annual premiums for a $10 million policy. To protect itself against the threat of a $10 million loss, the insurance company might cede $15,000 of the annual premium to a reinsurer, who would agree to cover $5 million of the potential loss.
 
 ## Ultimate Net Loss and Liability Insurance
 
@@ -32,4 +32,4 @@ In liability insurance contract language, ultimate net loss is often described 
 
 ## Ultimate Net Loss and Reinsurance
 
-In reinsurance, ultimate net loss refers to the unit of loss to which the [reinsurance](https://www.investopedia.com/ask/answers/08/reinsurance.asp) applies, as determined by the reinsurance agreement. In other words, the gross loss less any recoveries from other reinsurance which reduce the loss to the treaty in question.
+In reinsurance, ultimate net loss refers to the unit of loss to which the [[reinsurance]](https://www.investopedia.com/ask/answers/08/reinsurance.asp) applies, as determined by the reinsurance agreement. In other words, the gross loss less any recoveries from other reinsurance which reduce the loss to the treaty in question.

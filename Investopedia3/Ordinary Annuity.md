@@ -29,9 +29,9 @@ An ordinary annuity is a series of equal payments made at the end of consecutive
 
 ## How an Ordinary Annuity Works
 
-Examples of ordinary annuities are interest payments from bonds, which are generally made semiannually, and quarterly dividends from a stock that has maintained stable payout levels for years. The [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of an ordinary annuity is largely dependent on the prevailing interest rate.
+Examples of ordinary annuities are interest payments from bonds, which are generally made semiannually, and quarterly dividends from a stock that has maintained stable payout levels for years. The [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of an ordinary annuity is largely dependent on the prevailing interest rate.
 
-Because of the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp), rising interest rates reduce the present value of an ordinary annuity, while declining interest rates increase its present value. This is because the value of the annuity is [based on the return your money could earn elsewhere](https://www.investopedia.com/articles/03/082703.asp). If you can get a higher interest rate somewhere else, the value of the annuity in question goes down.
+Because of the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp), rising interest rates reduce the present value of an ordinary annuity, while declining interest rates increase its present value. This is because the value of the annuity is [[based on the return your money could earn elsewhere]](https://www.investopedia.com/articles/03/082703.asp). If you can get a higher interest rate somewhere else, the value of the annuity in question goes down.
 
 ## Present Value of an Ordinary Annuity Example
 
@@ -53,7 +53,7 @@ An ordinary annuity will have a lower present value than an annuity due, all els
 
 ## Present Value of an Annuity Due Example
 
-Recall that with an ordinary annuity, the investor receives the payment at the end of the time period. That stands in contrast to an [annuity due](https://www.investopedia.com/terms/a/annuitydue.asp), in which the investor receives the payment at the beginning of the period. A common example is rent, where the renter typically pays the landlord in advance for the month ahead. This difference in payment timing affects the value of the annuity. The formula for an annuity due is as follows:
+Recall that with an ordinary annuity, the investor receives the payment at the end of the time period. That stands in contrast to an [[annuity due]](https://www.investopedia.com/terms/a/annuitydue.asp), in which the investor receives the payment at the beginning of the period. A common example is rent, where the renter typically pays the landlord in advance for the month ahead. This difference in payment timing affects the value of the annuity. The formula for an annuity due is as follows:
 
 -   **Present Value of Annuity Due** = PMT + PMT x ((1 - (1 + r) ^ -(n-1) / r)
 
@@ -61,4 +61,4 @@ If the annuity in the above example was instead an annuity due, its present valu
 
 -   **Present Value of Annuity Due** = $50,000 + $50,000 x ((1 - (1 + 0.07) ^ -(5-1) / 0.07) = $219,360.
 
-All else being equal, [an annuity due is always worth more than an ordinary annuity](https://www.investopedia.com/retirement/calculating-present-and-future-value-of-annuities/), because the money is received earlier.
+All else being equal, [[an annuity due is always worth more than an ordinary annuity]](https://www.investopedia.com/retirement/calculating-present-and-future-value-of-annuities/), because the money is received earlier.

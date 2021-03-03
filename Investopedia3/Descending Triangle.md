@@ -16,13 +16,13 @@ author: James Chen
 Descending Triangle
 ## What is a Descending Triangle?
 
-A descending triangle is a bearish chart pattern used in [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp) that is created by drawing one [trend line](https://www.investopedia.com/terms/t/trendline.asp) that connects a series of lower highs and a second horizontal trend line that connects a series of lows. Oftentimes, traders watch for a move below the lower support trend line because it suggests that the downward momentum is building and a [breakdown](https://www.investopedia.com/terms/b/breakdown.asp) is imminent. Once the breakdown occurs, [traders](https://www.investopedia.com/terms/s/stock-trader.asp) enter into short positions and aggressively help push the price of the asset even lower.
+A descending triangle is a bearish chart pattern used in [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp) that is created by drawing one [[trend line]](https://www.investopedia.com/terms/t/trendline.asp) that connects a series of lower highs and a second horizontal trend line that connects a series of lows. Oftentimes, traders watch for a move below the lower support trend line because it suggests that the downward momentum is building and a [[breakdown]](https://www.investopedia.com/terms/b/breakdown.asp) is imminent. Once the breakdown occurs, [[traders]](https://www.investopedia.com/terms/s/stock-trader.asp) enter into short positions and aggressively help push the price of the asset even lower.
 
 ### Key Takeaways
 
 -   A descending triangle is a signal for traders to take a short position to accelerate a breakdown.
 -   A descending triangle is detectable by drawing trend lines for the highs and lows on a chart.
--   A descending triangle is the counterpart of an [ascending triangle](https://www.investopedia.com/terms/a/ascendingtriangle.asp), which is another trend line based chart pattern used by technical analysts.
+-   A descending triangle is the counterpart of an [[ascending triangle]](https://www.investopedia.com/terms/a/ascendingtriangle.asp), which is another trend line based chart pattern used by technical analysts.
 
 ## What Does a Descending Triangle Tell You?
 
@@ -30,7 +30,7 @@ Descending triangles are a very popular chart pattern among traders because it 
 
 ## How to Trade a Descending Triangle
 
-Most traders look to initiate a [short position](https://www.investopedia.com/terms/s/short.asp) following a high volume [breakdown](https://www.investopedia.com/terms/b/breakdown.asp) from lower trend line support in a descending triangle chart pattern. In general, the price target for the chart pattern is equal to the entry price minus the vertical height between the two trend lines at the time of the breakdown. The upper trend line resistance also serves as a [stop-loss](https://www.investopedia.com/terms/s/stop-lossorder.asp) level for traders to limit their potential losses.
+Most traders look to initiate a [[short position]](https://www.investopedia.com/terms/s/short.asp) following a high volume [[breakdown]](https://www.investopedia.com/terms/b/breakdown.asp) from lower trend line support in a descending triangle chart pattern. In general, the price target for the chart pattern is equal to the entry price minus the vertical height between the two trend lines at the time of the breakdown. The upper trend line resistance also serves as a [[stop-loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp) level for traders to limit their potential losses.
 
 ## An Example of a Descending Triangle
 
@@ -42,8 +42,8 @@ In this example, PriceSmart Inc. shares have experienced a series of lower highs
 
 ## Difference Between Descending and Ascending Triangles
 
-Both the ascending and descending triangle are [continuation patterns](https://www.investopedia.com/trading/continuation-patterns-introduction/). The descending triangle has a horizontal lower trend line and a descending upper trend line, whereas the ascending triangle has a horizontal trend line on the highs and a rising trend line on the lows. Moreover, triangles show an opportunity to short and suggest a profit target, so they are simply different looks on a potential breakdown. Ascending triangles can also form on a reversal to a downtrend but they are more commonly applied as a bullish continuation pattern.
+Both the ascending and descending triangle are [[continuation patterns]](https://www.investopedia.com/trading/continuation-patterns-introduction/). The descending triangle has a horizontal lower trend line and a descending upper trend line, whereas the ascending triangle has a horizontal trend line on the highs and a rising trend line on the lows. Moreover, triangles show an opportunity to short and suggest a profit target, so they are simply different looks on a potential breakdown. Ascending triangles can also form on a reversal to a downtrend but they are more commonly applied as a bullish continuation pattern.
 
 ## The Limitations of Using a Descending Triangle
 
-The limitation of triangles is the potential for a false breakdown. There are even situations where the trend lines will need to be redrawn as the price action breaks out in the opposite direction - no chart pattern is perfect. If a breakdown doesn't occur, the stock could rebound to re-test the upper trend line resistance before making another move lower to re-test lower trend line [support levels](https://www.investopedia.com/terms/s/support.asp). The more times that the price touches the support and [resistance levels](https://www.investopedia.com/terms/r/resistance.asp), the more reliable the chart pattern.
+The limitation of triangles is the potential for a false breakdown. There are even situations where the trend lines will need to be redrawn as the price action breaks out in the opposite direction - no chart pattern is perfect. If a breakdown doesn't occur, the stock could rebound to re-test the upper trend line resistance before making another move lower to re-test lower trend line [[support levels]](https://www.investopedia.com/terms/s/support.asp). The more times that the price touches the support and [[resistance levels]](https://www.investopedia.com/terms/r/resistance.asp), the more reliable the chart pattern.

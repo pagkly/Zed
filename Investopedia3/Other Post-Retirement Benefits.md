@@ -16,9 +16,9 @@ author: Julia Kagan
 Other Post-Retirement Benefits
 ## What Are Other Post-Retirement Benefits?
 
-Other post-retirement benefits are benefits, other than pension [distributions](https://www.investopedia.com/terms/d/distribution.asp), paid to employees during their retirement years. Post-retirement benefits may include [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) and medical plans, or premiums for such benefits, as well as deferred-compensation arrangements.
+Other post-retirement benefits are benefits, other than pension [[distributions]](https://www.investopedia.com/terms/d/distribution.asp), paid to employees during their retirement years. Post-retirement benefits may include [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) and medical plans, or premiums for such benefits, as well as deferred-compensation arrangements.
 
-Although these benefits are mostly employer-paid, retired employees often share in the cost of these benefits through co-payments, payment of [deductibles](https://www.investopedia.com/terms/d/deductible.asp), and making employee contributions to the plan when required. Other post-retirement benefits may also be referred to as "[other post-employment benefits (OPEB)](https://www.investopedia.com/terms/o/opeb.asp)."
+Although these benefits are mostly employer-paid, retired employees often share in the cost of these benefits through co-payments, payment of [[deductibles]](https://www.investopedia.com/terms/d/deductible.asp), and making employee contributions to the plan when required. Other post-retirement benefits may also be referred to as "[other post-employment benefits (OPEB)](https://www.investopedia.com/terms/o/opeb.asp)."
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Although these benefits are mostly employer-paid, retired employees often share 
 
 ## Understanding Other Post-Retirement Benefits
 
-The benefits that fall within this category are all of the non-cash payment benefits available to employees, including dental, vision care, legal services, and tuition credits. These additional benefits, along with traditional pension benefits, can be a large expenditure for companies offering these plans, especially if the plans are [fully funded](https://www.investopedia.com/terms/f/fully-funded.asp) by the company.
+The benefits that fall within this category are all of the non-cash payment benefits available to employees, including dental, vision care, legal services, and tuition credits. These additional benefits, along with traditional pension benefits, can be a large expenditure for companies offering these plans, especially if the plans are [[fully funded]](https://www.investopedia.com/terms/f/fully-funded.asp) by the company.
 
-The costs of these plans can be found in a company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), usually in the notes, which will also disclose the size of the obligation along with how well funded the fund is.
+The costs of these plans can be found in a company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), usually in the notes, which will also disclose the size of the obligation along with how well funded the fund is.
 
 Post-retirement benefits may be provided by local and federal government agencies, private and public companies, and nonprofit institutions, such as charities, religious groups, colleges, and universities. Such benefits may be paid for (in full or in part) by the employer, the retiree, or a combination of the two.
 
@@ -44,4 +44,4 @@ As with other forms of retirement compensation, other post-retirement benefits c
 
 ## Other Post-Retirement Benefits and Compliance
 
-The rules governing how companies report pension costs and obligations, as well as the disclosure of pension assets and obligations, are covered under Accounting Standards Codification Section 715 ([ASC 715](https://asc.fasb.org/imageRoot/03/64938803.pdf)), formerly called the Statement of Financial Accounting Standards Nos. 87/88/158. The American Society of Pension Professionals & Actuaries (ASPPA) provides a guide on how to [manage the ASC 715 process](https://www.asppa.org/News/Article/ArticleID/5470), which describes the disclosure information for a client’s financial reports, as well as lists the methodology used to complete the required actuarial calculations.
+The rules governing how companies report pension costs and obligations, as well as the disclosure of pension assets and obligations, are covered under Accounting Standards Codification Section 715 ([ASC 715](https://asc.fasb.org/imageRoot/03/64938803.pdf)), formerly called the Statement of Financial Accounting Standards Nos. 87/88/158. The American Society of Pension Professionals & Actuaries (ASPPA) provides a guide on how to [[manage the ASC 715 process]](https://www.asppa.org/News/Article/ArticleID/5470), which describes the disclosure information for a client’s financial reports, as well as lists the methodology used to complete the required actuarial calculations.

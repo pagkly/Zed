@@ -16,7 +16,7 @@ author: Chris B Murphy
 How Trade Finance Eases Transactions for Importers and Exporters
 ## What Is Trade Finance?
 
-Trade finance represents the financial instruments and products that are used by companies to facilitate [international trade](https://www.investopedia.com/insights/what-is-international-trade/) and commerce. Trade finance makes it possible and easier for importers and exporters to transact business through trade. Trade finance is an umbrella term meaning it covers many financial products that banks and companies utilize to make trade transactions feasible.
+Trade finance represents the financial instruments and products that are used by companies to facilitate [[international trade]](https://www.investopedia.com/insights/what-is-international-trade/) and commerce. Trade finance makes it possible and easier for importers and exporters to transact business through trade. Trade finance is an umbrella term meaning it covers many financial products that banks and companies utilize to make trade transactions feasible.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The parties involved in trade finance are numerous and can include:
 -   Trade finance companies
 -   Importers and exporters
 -   Insurers
--   [Export credit agencies](https://www.investopedia.com/terms/e/export-credit-agency.asp) and service providers
+-   [[Export credit agencies]](https://www.investopedia.com/terms/e/export-credit-agency.asp) and service providers
 
 Trade financing is different than conventional financing or credit issuance. General financing is used to manage solvency or liquidity, but trade financing may not necessarily indicate a buyer's lack of funds or liquidity. Instead, trade finance may be used to protect against international trade's unique inherent risks, such as currency fluctuations, political instability, issues of non-payment, or the creditworthiness of one of the parties involved.
 
@@ -54,7 +54,7 @@ Although international trade has been in existence for centuries, trade finance 
 
 Trade finance can help reduce the risk associated with global trade by reconciling the divergent needs of an exporter and importer. Ideally, an exporter would prefer the importer to pay upfront for an export shipment to avoid the risk that the importer takes the shipment but refuses to pay for the goods. However, if the importer pays the exporter upfront, the exporter may accept the payment but refuse to ship the goods.
 
-A common solution to this problem is for the importer’s bank to provide a letter of credit to the exporter's bank that provides for payment once the exporter presents documents that prove the shipment occurred, like a bill of lading. The [letter of credit](https://www.investopedia.com/terms/l/letterofcredit.asp) guarantees that once the issuing bank receives proof that the exporter shipped the goods and the terms of the agreement have been met, it will issue the payment to the exporter.
+A common solution to this problem is for the importer’s bank to provide a letter of credit to the exporter's bank that provides for payment once the exporter presents documents that prove the shipment occurred, like a bill of lading. The [[letter of credit]](https://www.investopedia.com/terms/l/letterofcredit.asp) guarantees that once the issuing bank receives proof that the exporter shipped the goods and the terms of the agreement have been met, it will issue the payment to the exporter.
 
 With the letter of credit, the buyer's bank assumes the responsibility of paying the seller. The buyer's bank would have to ensure the buyer was financially viable enough to honor the transaction. Trade finance helps both importers and exporters build trust in dealing with each other and thus facilitating trade.
 
@@ -72,7 +72,7 @@ In other words, trade finance ensures fewer delays in payments and in shipments 
 
 ### Increased Revenue and Earnings 
 
-Trade finance allows companies to increase their business and [revenue](https://www.investopedia.com/articles/stocks/07/top-line-projection.asp) through trade. For example, a U.S. company that can land a sale with a company overseas might not have the ability to produce the goods needed for the order.
+Trade finance allows companies to increase their business and [[revenue]](https://www.investopedia.com/articles/stocks/07/top-line-projection.asp) through trade. For example, a U.S. company that can land a sale with a company overseas might not have the ability to produce the goods needed for the order.
 
 However, through export financing or help from private or governmental trade finance agencies, the exporter can complete the order. As a result, the U.S. company gets new business that it might not have had without the creative financial solutions that trade finance provides.
 

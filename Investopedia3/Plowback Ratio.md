@@ -16,11 +16,11 @@ author: Adam Hayes
 Plowback Ratio
 ## What is the Plowback Ratio?
 
-The plowback ratio is a [fundamental analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) ratio that measures how much earnings are retained after dividends are paid out. It is most often referred to as the [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp). The opposite metric, measuring how much in dividends are paid out as a percentage of earnings, is known as the payout ratio.
+The plowback ratio is a [fundamental analysis](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) ratio that measures how much earnings are retained after dividends are paid out. It is most often referred to as the [[retention ratio]](https://www.investopedia.com/terms/r/retentionratio.asp). The opposite metric, measuring how much in dividends are paid out as a percentage of earnings, is known as the payout ratio.
 
 ## The Formula for the Plowback Ratio Is
 
-The plowback ratio is calculated by subtracting the quotient of the annual dividends per share and earnings per share (EPS) from 1. On the other hand, it can be calculated by determining the leftover funds upon calculating the [dividend payout ratio](https://www.investopedia.com/terms/d/dividendpayoutratio.asp).
+The plowback ratio is calculated by subtracting the quotient of the annual dividends per share and earnings per share (EPS) from 1. On the other hand, it can be calculated by determining the leftover funds upon calculating the [[dividend payout ratio]](https://www.investopedia.com/terms/d/dividendpayoutratio.asp).
 
 Retention Ratio\=Net Income − DividendsNet Income\\text{Retention Ratio}=\\frac{\\text{Net Income } -\\text{ Dividends}}{\\text{Net Income}}
 
@@ -43,7 +43,7 @@ The plowback ratio is an indicator of how much profit is retained in a business 
 
 Use of the plowback ratio is most useful when comparing companies within the same industry. Different markets require different utilization of profits. For example, it is not uncommon for technology companies to have a plowback ratio of 1 (that is, 100%). This indicates that no dividends are issued, and all profits are retained for business growth.
 
-The plowback ratio represents the portion of [retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp) that could potentially be dividends. Higher retention ratios indicate management’s belief of high growth periods and favorable business economic conditions. Lower plowback ratio computations indicate a wariness in future business growth opportunities or satisfaction in current cash holdings.
+The plowback ratio represents the portion of [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) that could potentially be dividends. Higher retention ratios indicate management’s belief of high growth periods and favorable business economic conditions. Lower plowback ratio computations indicate a wariness in future business growth opportunities or satisfaction in current cash holdings.
 
 ### Investor Preference
 
@@ -53,7 +53,7 @@ The ratio is typically higher for [growth companies](https://www.investopedia.c
 
 ### Impact from Management
 
-Because management determines the dollar amount of dividends to issue, management directly impacts the plowback ratio. Alternatively, the calculation of the plowback ratio requires the use of EPS, which is influenced by a company’s choice of [accounting method](https://www.investopedia.com/terms/a/accountingmethod.asp). Therefore, the plowback ratio is highly influenced by only a few variables within the organization.
+Because management determines the dollar amount of dividends to issue, management directly impacts the plowback ratio. Alternatively, the calculation of the plowback ratio requires the use of EPS, which is influenced by a company’s choice of [[accounting method]](https://www.investopedia.com/terms/a/accountingmethod.asp). Therefore, the plowback ratio is highly influenced by only a few variables within the organization.
 
 ## Example of the Plowback Ratio
 

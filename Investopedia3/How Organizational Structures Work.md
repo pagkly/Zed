@@ -32,25 +32,25 @@ Having an organizational structure in place allows companies to remain efficient
 
 ## Understanding an Organizational Structure
 
-Businesses of all shapes and sizes use organizational structures heavily. They define a specific [hierarchy](https://www.investopedia.com/terms/c/corporate-hierarchy.asp) within an organization. A successful organizational structure defines each employee's job and how it fits within the overall system. Put simply, the organizational structure lays out who does what so the company can meet its objectives.
+Businesses of all shapes and sizes use organizational structures heavily. They define a specific [[hierarchy]](https://www.investopedia.com/terms/c/corporate-hierarchy.asp) within an organization. A successful organizational structure defines each employee's job and how it fits within the overall system. Put simply, the organizational structure lays out who does what so the company can meet its objectives.
 
 This structuring provides a company with a visual representation of how it is shaped and how it can best move forward in achieving its goals. Organizational structures are normally illustrated in some sort of chart or diagram like a pyramid, where the most powerful members of the organization sit at the top, while those with the least amount of power are at the bottom.
 
 Not having a formal structure in place may prove difficult for certain organizations. For instance, employees may have difficulty knowing to whom they should report. That can lead to uncertainty as to who is responsible for what in the organization.
 
-Having a structure in place can help with [efficiency](https://www.investopedia.com/terms/e/efficiency.asp) and provide clarity for everyone at every level. That also means each and every department can be more productive, as they are likely to be more focused on energy and time.
+Having a structure in place can help with [[efficiency]](https://www.investopedia.com/terms/e/efficiency.asp) and provide clarity for everyone at every level. That also means each and every department can be more productive, as they are likely to be more focused on energy and time.
 
 ## Centralized vs. Decentralized Organizational Structures
 
 An organizational structure is either centralized or decentralized. Traditionally, organizations have been structured with centralized leadership and a defined chain of command. The military is an organization famous for its highly centralized structure, with a long and specific hierarchy of superiors and subordinates. In a centralized organizational system, there are very clear responsibilities for each role, with subordinate roles defaulting to the guidance of their superiors.
 
-There has been a rise in decentralized organizations, as is the case with many technology [startups](https://www.investopedia.com/terms/s/startup.asp). This allows companies to remain fast, agile, and adaptable, with almost every employee receiving a high level of personal agency. For example, Johnson & Johnson is a company that's known for its decentralized structure. As a large company with over 200 business units and brands that function in sometimes very different industries, each operates autonomously. Even in decentralized companies, there are still usually built-in hierarchies (such as the chief operating officer operating at a higher level than an entry-level associate). However, teams are empowered to make their own decisions and come to the best conclusion without necessarily getting "approval" from up top.
+There has been a rise in decentralized organizations, as is the case with many technology [[startups]](https://www.investopedia.com/terms/s/startup.asp). This allows companies to remain fast, agile, and adaptable, with almost every employee receiving a high level of personal agency. For example, Johnson & Johnson is a company that's known for its decentralized structure. As a large company with over 200 business units and brands that function in sometimes very different industries, each operates autonomously. Even in decentralized companies, there are still usually built-in hierarchies (such as the chief operating officer operating at a higher level than an entry-level associate). However, teams are empowered to make their own decisions and come to the best conclusion without necessarily getting "approval" from up top.
 
 ## Types of Organizational Structures
 
 ### Functional Structure
 
-Four types of common organizational structures are implemented in the real world. The first and most common is a functional structure. This is also referred to as a [bureaucratic organizational structure](https://www.investopedia.com/terms/b/bureaucracy.asp) and breaks up a company based on the specialization of its workforce. Most small-to-medium-sized businesses implement a functional structure. Dividing the firm into departments consisting of marketing, sales, and operations is the act of using a bureaucratic organizational structure.
+Four types of common organizational structures are implemented in the real world. The first and most common is a functional structure. This is also referred to as a [[bureaucratic organizational structure]](https://www.investopedia.com/terms/b/bureaucracy.asp) and breaks up a company based on the specialization of its workforce. Most small-to-medium-sized businesses implement a functional structure. Dividing the firm into departments consisting of marketing, sales, and operations is the act of using a bureaucratic organizational structure.
 
 ### Divisional or Multidivisional Structure
 
@@ -62,7 +62,7 @@ Flatarchy, a newer structure, is the third type and is used among many startups.
 
 ### Matrix Structure
 
-The fourth and final organizational structure is a matrix structure. It is also the most confusing and the least used. This structure matrixes employees across different superiors, divisions, or departments. An employee working for a matrixed company, for example, may have duties in both sales and [customer service](https://www.investopedia.com/terms/c/customer-service.asp).
+The fourth and final organizational structure is a matrix structure. It is also the most confusing and the least used. This structure matrixes employees across different superiors, divisions, or departments. An employee working for a matrixed company, for example, may have duties in both sales and [[customer service]](https://www.investopedia.com/terms/c/customer-service.asp).
 
 ## Benefits of Organizational Structures
 
@@ -96,4 +96,4 @@ There is no one best organizational structure, as it depends on the nature of th
 
 ## The Bottom Line
 
-There are entire fields of study based on how to optimize and best structure organizations to be the most effective and productive. Senior leaders should consider a variety of factors before [deciding which type of organization is best for their business](https://www.investopedia.com/articles/personal-finance/120915/which-type-organization-best-your-business.asp), including the business goals, industry, and culture of the company.
+There are entire fields of study based on how to optimize and best structure organizations to be the most effective and productive. Senior leaders should consider a variety of factors before [[deciding which type of organization is best for their business]](https://www.investopedia.com/articles/personal-finance/120915/which-type-organization-best-your-business.asp), including the business goals, industry, and culture of the company.

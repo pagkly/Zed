@@ -16,9 +16,9 @@ author: Jason Fernando
 What is a Certificate of Deposit (CD)?
 ## What is a Certificate of Deposit (CD)?
 
-A certificate of deposit (CD) is a product offered by banks and credit unions that provides an interest rate premium in exchange for the customer agreeing to leave a [lump-sum deposit](https://www.investopedia.com/articles/pf/13/calculating-your-tangible-net-worth.asp) untouched for a predetermined period of time. Almost all consumer financial institutions offer them, although it’s up to each bank which CD terms it wants to offer, how much higher the rate will be compared to the bank’s savings and money market products, and what penalties it applies for early withdrawal.
+A certificate of deposit (CD) is a product offered by banks and credit unions that provides an interest rate premium in exchange for the customer agreeing to leave a [[lump-sum deposit]](https://www.investopedia.com/articles/pf/13/calculating-your-tangible-net-worth.asp) untouched for a predetermined period of time. Almost all consumer financial institutions offer them, although it’s up to each bank which CD terms it wants to offer, how much higher the rate will be compared to the bank’s savings and money market products, and what penalties it applies for early withdrawal.
 
-Shopping around is crucial to finding the [best CD rates](https://www.investopedia.com/best-cd-rates-4770214) because different financial institutions offer a surprisingly wide range. Your brick-and-mortar bank might pay a pittance on even long-term CDs, for example, while an online bank or local credit union might pay three to five times the national average. Meanwhile, some of the best rates come from special promotions, occasionally with unusual durations such as 13 or 21 months, rather than the more common terms based on three, six, or 18 months or full-year increments.
+Shopping around is crucial to finding the [[best CD rates]](https://www.investopedia.com/best-cd-rates-4770214) because different financial institutions offer a surprisingly wide range. Your brick-and-mortar bank might pay a pittance on even long-term CDs, for example, while an online bank or local credit union might pay three to five times the national average. Meanwhile, some of the best rates come from special promotions, occasionally with unusual durations such as 13 or 21 months, rather than the more common terms based on three, six, or 18 months or full-year increments.
 
 ### Key Takeaways
 
@@ -57,7 +57,7 @@ But whereas savings and money market accounts allow you to vary your balance by 
 
 Anyone who’s been following interest rates or business news in general knows that the Federal Reserve Board’s rate-setting actions loom large in terms of what savers can earn on their deposits.2 That’s because the Fed’s decisions can directly affect a bank’s costs. Here’s how it works.
 
-Every six to eight weeks, the Fed’s [Federal Open Market Committee (FOMC)](https://www.investopedia.com/terms/f/fomc.asp) decides whether to raise, lower, or leave alone the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp).3 This rate represents the interest that banks pay to borrow money through the Fed.4 When Fed money is cheap (i.e., the federal funds rate is low), banks have less incentive to court deposits from consumers. But when the federal funds rate is moderate or high, banks can do better by paying consumers a competitive rate for their deposits.
+Every six to eight weeks, the Fed’s [[Federal Open Market Committee (FOMC)]](https://www.investopedia.com/terms/f/fomc.asp) decides whether to raise, lower, or leave alone the [[federal funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp).3 This rate represents the interest that banks pay to borrow money through the Fed.4 When Fed money is cheap (i.e., the federal funds rate is low), banks have less incentive to court deposits from consumers. But when the federal funds rate is moderate or high, banks can do better by paying consumers a competitive rate for their deposits.
 
 In December 2008, the Fed reduced its rate to the lowest level possible of essentially zero as a stimulus to lift the U.S. economy out of the Great Recession. Even worse for savers was that it left rates anchored there for a full seven years.2 During that time, deposit rates of all kinds—savings, money market, and CDs—tanked.
 
@@ -71,7 +71,7 @@ Beyond the Fed’s action, however, the situation of each financial institution 
 
 Certificates of deposit are one of the safest savings or investment instruments available, for two reasons. First, their rate is fixed and guaranteed, so there is no risk that your CD’s return will be reduced or even fluctuate. What you signed up for is what you’ll get—it’s in your deposit agreement with the bank or credit union. 
 
-CD investments are also protected by the same federal insurance that covers all deposit products. The [FDIC](https://www.investopedia.com/terms/f/fdic.asp) provides insurance for banks and the [NCUA](https://www.investopedia.com/terms/n/ncua.asp) provides insurance for credit unions. When you open a CD with an FDIC- or NCUA-insured institution, up to $250,000 of your funds on deposit with that institution are protected by the U.S. government if that institution were to fail.61 Bank failures are exceptionally rare these days.7 But it’s good to know that a bank failure wouldn’t put your funds in jeopardy.
+CD investments are also protected by the same federal insurance that covers all deposit products. The [[FDIC]](https://www.investopedia.com/terms/f/fdic.asp) provides insurance for banks and the [[NCUA]](https://www.investopedia.com/terms/n/ncua.asp) provides insurance for credit unions. When you open a CD with an FDIC- or NCUA-insured institution, up to $250,000 of your funds on deposit with that institution are protected by the U.S. government if that institution were to fail.61 Bank failures are exceptionally rare these days.7 But it’s good to know that a bank failure wouldn’t put your funds in jeopardy.
 
 The key to ensuring your funds are as safe as possible is to make sure you choose an institution that carries FDIC or NCUA insurance (the vast majority do, but a small minority carry private insurance instead), and to avoid exceeding $250,000 in deposits in your name at any one institution. If you are holding more than that amount in deposits, you can maximize your coverage by spreading your funds across multiple institutions and/or more than one name (e.g., your spouse).
 
@@ -113,7 +113,7 @@ In addition, you can open CDs through your brokerage account. We’ll explain mo
 
 ## Why It’s Important to Shop Around
 
-Before the internet, your CD choices were essentially limited to what you could find in your community. But with the explosion of online rate shopping, plus the proliferation of internet banks—and traditional banks opening online portals—the number of CDs one can consider is astounding. It’s now possible to shop for CDs from about 150 [banks that accept customers nationwide](https://www.investopedia.com/best-bank-cd-rates-4801462) and allow for opening an account online or through the mail. In addition to that, you’ll have access to a number of regional and state banks, as well as credit unions, that will do business with you based on your residency in their state.
+Before the internet, your CD choices were essentially limited to what you could find in your community. But with the explosion of online rate shopping, plus the proliferation of internet banks—and traditional banks opening online portals—the number of CDs one can consider is astounding. It’s now possible to shop for CDs from about 150 [[banks that accept customers nationwide]](https://www.investopedia.com/best-bank-cd-rates-4801462) and allow for opening an account online or through the mail. In addition to that, you’ll have access to a number of regional and state banks, as well as credit unions, that will do business with you based on your residency in their state.
 
 As we’ve mentioned, though, the range of CD rates across these different institutions can vary widely. It’s a mistake to just open a CD at the bank where you already have a checking relationship without investigating how its rates compare with those you can earn elsewhere.
 
@@ -135,7 +135,7 @@ Secondly, you’ll want to consider what’s expected to happen with the Fed’s
 
 ## What Is a CD Ladder and Why Should I Build One?
 
-Smart CD investors have a specific tactic for hedging against rate changes over time and maximizing their return. It’s called a [CD ladder](https://www.investopedia.com/terms/c/cd-ladder.asp) and it enables you to access the higher rates offered by 5-year CD terms, but with the twist that a portion of your money becomes available every year, rather than every 5 years. Here’s how to do it.
+Smart CD investors have a specific tactic for hedging against rate changes over time and maximizing their return. It’s called a [[CD ladder]](https://www.investopedia.com/terms/c/cd-ladder.asp) and it enables you to access the higher rates offered by 5-year CD terms, but with the twist that a portion of your money becomes available every year, rather than every 5 years. Here’s how to do it.
 
 At the outset, you take the amount of money you want to invest in CDs and divide it by five. You then put one-fifth of the funds into a top-earning 1-year CD, another fifth into a top 2-year CD, another into a 3-year CD, and so forth through a 5-year CD. Let’s say you have $25,000 available. That would give you five CDs of varying length, each with a value of $5,000. 
 
@@ -179,7 +179,7 @@ Even if you find your existing bank is indeed a top contender, you’ll be able 
 
 Even though opening a CD involves agreeing to keep the funds on deposit without withdrawals for the duration of the term, that doesn’t mean you don’t have options if your plans need to change. Whether you encounter an emergency or a change in your financial situation—or simply feel you can use the money more usefully or lucratively elsewhere—all banks and credit unions have stipulated terms for how to cash your CD out early.
 
-The exit won’t be free, of course. The most common way that financial institutions accommodate a premature termination is by assessing an [early withdrawal penalty (EWP)](https://www.investopedia.com/terms/e/earlywithdrawal.asp) on the proceeds before your funds are distributed, according to specific terms and calculations that were set out in your deposit agreement when you first opened the certificate. This means you can know before you agree to the CD if the early withdrawal penalty is acceptable to you.
+The exit won’t be free, of course. The most common way that financial institutions accommodate a premature termination is by assessing an [[early withdrawal penalty (EWP)]](https://www.investopedia.com/terms/e/earlywithdrawal.asp) on the proceeds before your funds are distributed, according to specific terms and calculations that were set out in your deposit agreement when you first opened the certificate. This means you can know before you agree to the CD if the early withdrawal penalty is acceptable to you.
 
 Most typically, the EWP is charged as a number of months’ interest, with a greater number of months for longer CD terms and fewer months for shorter CDs. For instance, a bank’s policy might be to deduct three months’ interest for all CDs with terms up to 12 months, six months’ interest for those with terms up to 3 years, and a full year’s worth of interest for its long-term CDs. These are just examples—every bank and credit union sets its own early withdrawal penalty, so it’s important to compare EWP policies whenever you are deciding between two similar CDs.
 
@@ -193,7 +193,7 @@ The most common CD type follows the standard formula of depositing your funds, l
 
 ### Bump-up CDs
 
-These are sometimes called raise-your-rate certificates. [Bump-up CDs](https://www.investopedia.com/terms/b/bumpupcd.asp) offer savers a chance to access a higher rate usually one time during their term. So if you open a 5-year certificate and rates rise during that period, you’ll have one opportunity to lock in at a higher rate currently offered by the bank, which will then apply for the duration of your term. Occasionally, bump-up CDs will allow two rate increases, although only for long-term CDs.
+These are sometimes called raise-your-rate certificates. [[Bump-up CDs]](https://www.investopedia.com/terms/b/bumpupcd.asp) offer savers a chance to access a higher rate usually one time during their term. So if you open a 5-year certificate and rates rise during that period, you’ll have one opportunity to lock in at a higher rate currently offered by the bank, which will then apply for the duration of your term. Occasionally, bump-up CDs will allow two rate increases, although only for long-term CDs.
 
 ### Add-on CDs,
 
@@ -205,7 +205,7 @@ These sound enticing, as they seem to provide the interest rate benefit of a cer
 
 ### Jumbo CDs
 
-These are another product you may encounter when shopping for certificates. [Jumbos](https://www.investopedia.com/terms/j/jumbocd.asp) are simply CDs with a large minimum deposit. No governing body prescribes the floor for calling a CD a “jumbo,” so each bank decides for itself. The most typical threshold is a $50,000 minimum deposit. Some institutions call $25,000 CDs a jumbo (or perhaps “mini jumbo”) certificate, while others reserve the jumbo label for CDs of at least $100,000.
+These are another product you may encounter when shopping for certificates. [[Jumbos]](https://www.investopedia.com/terms/j/jumbocd.asp) are simply CDs with a large minimum deposit. No governing body prescribes the floor for calling a CD a “jumbo,” so each bank decides for itself. The most typical threshold is a $50,000 minimum deposit. Some institutions call $25,000 CDs a jumbo (or perhaps “mini jumbo”) certificate, while others reserve the jumbo label for CDs of at least $100,000.
 
 ### IRA CDs
 
@@ -215,7 +215,7 @@ Certificates of deposit can also be a useful savings vehicle for retirement fund
 
 If you have a brokerage account, you may have noticed CDs on offer there and wondered how they differ from certificates of deposit opened directly with a bank or credit union.
 
-The first point is that [brokered CDs](https://www.investopedia.com/terms/b/brokered-cd.asp) are bank CDs, with the brokerage firm serving as a process-simplifying middleman. That said, there are some important differences.
+The first point is that [[brokered CDs]](https://www.investopedia.com/terms/b/brokered-cd.asp) are bank CDs, with the brokerage firm serving as a process-simplifying middleman. That said, there are some important differences.
 
 ### Lower rates
 
@@ -239,11 +239,11 @@ Besides the standard brokered CD, there are two kinds of specialty CDs that are 
 
 ### Callable CDs
 
-A [callable certificate](https://www.investopedia.com/terms/c/callable-certificate-of-deposit.asp) is a specialized CD, on which the issuing bank retains the right to recall the CD at any time. So while you hope to be locked into a certain interest rate for a certain number of years, at any point the bank can decide to end that arrangement and return your funds to you. While this won’t result in any penalties or losses for you, it can cause you to lose the opportunity of a favorable rate that was locked in for the future. For this privilege, the bank generally pays a somewhat higher interest rate. If this is a risk you want to avoid, then search your brokerage firm’s listing for “non-callable CDs”.
+A [[callable certificate]](https://www.investopedia.com/terms/c/callable-certificate-of-deposit.asp) is a specialized CD, on which the issuing bank retains the right to recall the CD at any time. So while you hope to be locked into a certain interest rate for a certain number of years, at any point the bank can decide to end that arrangement and return your funds to you. While this won’t result in any penalties or losses for you, it can cause you to lose the opportunity of a favorable rate that was locked in for the future. For this privilege, the bank generally pays a somewhat higher interest rate. If this is a risk you want to avoid, then search your brokerage firm’s listing for “non-callable CDs”.
 
 ### Zero-coupon CDs
 
-Another specialty CD you might find at your brokerage firm is a [zero coupon certificate](https://www.investopedia.com/terms/z/zero-coupon-cd.asp). These CDs carry a face value, much like a savings bond does, and are sold for some lower initial price. The most important thing to know about zero coupon CDs is that you will be taxed on the earned interest every year, even though you will not realize the certificate’s gain until it matures.8 So careful tax planning is recommended.
+Another specialty CD you might find at your brokerage firm is a [[zero coupon certificate]](https://www.investopedia.com/terms/z/zero-coupon-cd.asp). These CDs carry a face value, much like a savings bond does, and are sold for some lower initial price. The most important thing to know about zero coupon CDs is that you will be taxed on the earned interest every year, even though you will not realize the certificate’s gain until it matures.8 So careful tax planning is recommended.
 
 ## Frequently Asked Questions
 
@@ -257,4 +257,4 @@ Practically speaking, it is almost impossible to lose money on a certificate of 
 
 ### What are the advantages and disadvantages of a certificate of deposit?
 
-Some savers like certificates of deposit because of the safety they provide, as well the fact that they are perfectly predictable. On the other hand, certificates of deposit generally promise a very modest rate of return, particularly in recent years when the federal funds rate is at historically low levels. If the interest rate offered is below the current [inflation rate](https://www.investopedia.com/terms/i/inflation.asp), then investors in certificates of deposit will actually lose money on their investment, when measured on an inflation-adjusted basis. For this reason, yield-conscious investors might prefer investments that are riskier but offer higher potential returns.
+Some savers like certificates of deposit because of the safety they provide, as well the fact that they are perfectly predictable. On the other hand, certificates of deposit generally promise a very modest rate of return, particularly in recent years when the federal funds rate is at historically low levels. If the interest rate offered is below the current [[inflation rate]](https://www.investopedia.com/terms/i/inflation.asp), then investors in certificates of deposit will actually lose money on their investment, when measured on an inflation-adjusted basis. For this reason, yield-conscious investors might prefer investments that are riskier but offer higher potential returns.

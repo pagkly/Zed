@@ -16,7 +16,7 @@ author: Jason Fernando
 How Does a Vertical Well Works?
 ## What Is a Vertical Well?
 
-A vertical well is a technique for accessing an underground reserve of oil or natural gas that involves drilling vertically into the ground. Drilling wells vertically is a traditional method of oil extraction, as compared to their more modern counterpart, [directional drilling](https://www.investopedia.com/terms/d/directional-drilling.asp).
+A vertical well is a technique for accessing an underground reserve of oil or natural gas that involves drilling vertically into the ground. Drilling wells vertically is a traditional method of oil extraction, as compared to their more modern counterpart, [[directional drilling]](https://www.investopedia.com/terms/d/directional-drilling.asp).
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Vertical wells function by aiming a borehole under the surface well and into a 
 
 The primary benefit of a vertical well is its simplicity, which can result in cost savings both in terms of equipment and labor, as well as reduce the time required to extract available reserves. In some cases, however, vertical wells can prove relatively inefficient. For instance, when the underground reserve extends horizontally across a wide area, a company would need to drill multiple vertical wells to access the oil efficiently.
 
-In those situations, directional drilling techniques could be far more cost-effective, which involves installing a vertical well that drills down into the reservoir, and then drilling [horizontally](https://www.investopedia.com/terms/h/horizontalwell.asp) or at an angle to extend the borehole into the adjacent sections of the reserve. With this, the oil from the entire underground reserve could be extracted from a single vertical well.
+In those situations, directional drilling techniques could be far more cost-effective, which involves installing a vertical well that drills down into the reservoir, and then drilling [[horizontally]](https://www.investopedia.com/terms/h/horizontalwell.asp) or at an angle to extend the borehole into the adjacent sections of the reserve. With this, the oil from the entire underground reserve could be extracted from a single vertical well.
 
 ## Vertical Well vs. Horizontal Well
 

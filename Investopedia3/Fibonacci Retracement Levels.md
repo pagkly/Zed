@@ -16,7 +16,7 @@ author: Cory Mitchell
 Fibonacci Retracement Levels
 ## What Are Fibonacci Retracement Levels?
 
-Fibonacci [retracement](https://www.investopedia.com/terms/r/retracement.asp) levels are horizontal lines that indicate where [support](https://www.investopedia.com/terms/s/support.asp) and [resistance](https://www.investopedia.com/terms/r/resistance.asp) are likely to occur. They are based on Fibonacci numbers. Each level is associated with a percentage. The percentage is how much of a prior move the price has retraced. The Fibonacci retracement levels are 23.6%, 38.2%, 61.8%, and 78.6%. While not officially a Fibonacci ratio, 50% is also used.
+Fibonacci [[retracement]](https://www.investopedia.com/terms/r/retracement.asp) levels are horizontal lines that indicate where [[support]](https://www.investopedia.com/terms/s/support.asp) and [[resistance]](https://www.investopedia.com/terms/r/resistance.asp) are likely to occur. They are based on Fibonacci numbers. Each level is associated with a percentage. The percentage is how much of a prior move the price has retraced. The Fibonacci retracement levels are 23.6%, 38.2%, 61.8%, and 78.6%. While not officially a Fibonacci ratio, 50% is also used.
 
 The indicator is useful because it can be drawn between any two significant price points, such as a high and a low. The indicator will then create the levels between those two points.
 
@@ -41,7 +41,7 @@ Suppose the price rises from $10 to $15, and these two price levels are the poin
 
 As discussed above, there is nothing to calculate when it comes to Fibonacci retracement levels. They are simply percentages of whatever price range is chosen.
 
-However, the origin of the Fibonacci numbers is fascinating. They are based on something called the [Golden Ratio](https://www.investopedia.com/articles/technical/04/033104.asp). Start a sequence of numbers with zero and one. Then, keep adding the prior two numbers to get a number string like this:
+However, the origin of the Fibonacci numbers is fascinating. They are based on something called the [[Golden Ratio]](https://www.investopedia.com/articles/technical/04/033104.asp). Start a sequence of numbers with zero and one. Then, keep adding the prior two numbers to get a number string like this:
 
 -   0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987... with the string continuing indefinitely.
 
@@ -51,15 +51,15 @@ Interestingly, the Golden Ratio of 0.618 or 1.618 is found in sunflowers, galaxy
 
 ## What Do Fibonacci Retracement Levels Tell You?
 
-Fibonacci retracements can be used to place entry orders, determine [stop-loss](https://www.investopedia.com/terms/s/stop-lossorder.asp) levels, or set price targets. For example, a trader may see a stock moving higher. After a move up, it retraces to the 61.8% level. Then, it starts to go up again. Since the bounce occurred at a Fibonacci level during an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), the trader decides to buy. The trader might set a stop loss at the 61.8% level, as a return below that level could indicate that the rally has failed.
+Fibonacci retracements can be used to place entry orders, determine [[stop-loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp) levels, or set price targets. For example, a trader may see a stock moving higher. After a move up, it retraces to the 61.8% level. Then, it starts to go up again. Since the bounce occurred at a Fibonacci level during an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp), the trader decides to buy. The trader might set a stop loss at the 61.8% level, as a return below that level could indicate that the rally has failed.
 
-Fibonacci levels also arise in other ways within technical analysis. For example, they are prevalent in [Gartley patterns](https://www.investopedia.com/terms/g/gartley.asp) and [Elliott Wave theory](https://www.investopedia.com/terms/e/elliottwavetheory.asp). After a significant price movement up or down, these forms of technical analysis find that reversals tend to occur close to certain Fibonacci levels.
+Fibonacci levels also arise in other ways within technical analysis. For example, they are prevalent in [[Gartley patterns]](https://www.investopedia.com/terms/g/gartley.asp) and [[Elliott Wave theory]](https://www.investopedia.com/terms/e/elliottwavetheory.asp). After a significant price movement up or down, these forms of technical analysis find that reversals tend to occur close to certain Fibonacci levels.
 
-Fibonacci retracement levels are static prices that do not change, unlike [moving averages](https://www.investopedia.com/terms/m/movingaverage.asp). The static nature of the price levels allows for quick and easy identification. That helps traders and investors to anticipate and react prudently when the price levels are [tested](https://www.investopedia.com/terms/t/test.asp). These levels are inflection points where some type of price action is expected, either a reversal or a break.
+Fibonacci retracement levels are static prices that do not change, unlike [[moving averages]](https://www.investopedia.com/terms/m/movingaverage.asp). The static nature of the price levels allows for quick and easy identification. That helps traders and investors to anticipate and react prudently when the price levels are [[tested]](https://www.investopedia.com/terms/t/test.asp). These levels are inflection points where some type of price action is expected, either a reversal or a break.
 
 ## The Difference Between Fibonacci Retracements and Fibonacci Extensions
 
-While Fibonacci retracements apply percentages to a pullback, [Fibonacci extensions](https://www.investopedia.com/terms/f/fibonacciextensions.asp) apply percentages to a move in the trending direction. For example, a stock goes from $5 to $10, and then back to $7.50. The move from $10 to $7.50 is a retracement. If the price starts rallying again and goes to $16, that is an extension.
+While Fibonacci retracements apply percentages to a pullback, [[Fibonacci extensions]](https://www.investopedia.com/terms/f/fibonacciextensions.asp) apply percentages to a move in the trending direction. For example, a stock goes from $5 to $10, and then back to $7.50. The move from $10 to $7.50 is a retracement. If the price starts rallying again and goes to $16, that is an extension.
 
 ## Limitations of Using Fibonacci Retracement Levels
 

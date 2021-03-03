@@ -16,7 +16,7 @@ author: Will Kenton
 Going-Concern Value Definition
 ## What Is Going-Concern Value?
 
-Going concern value is a value that assumes the company will remain in business indefinitely and continue to be profitable. Going concern value is also known as total value. This differs from the value that would be realized if its assets were [liquidated](https://www.investopedia.com/terms/l/liquidate.asp)—the liquidation value—because an ongoing operation has the ability to continue to earn a profit, which contributes to its value. A company should always be considered a going concern unless there is a good reason to believe that it will be going out of business.
+Going concern value is a value that assumes the company will remain in business indefinitely and continue to be profitable. Going concern value is also known as total value. This differs from the value that would be realized if its assets were [[liquidated]](https://www.investopedia.com/terms/l/liquidate.asp)—the liquidation value—because an ongoing operation has the ability to continue to earn a profit, which contributes to its value. A company should always be considered a going concern unless there is a good reason to believe that it will be going out of business.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Going concern value is a value that assumes the company will remain in business 
 
 ## How Going-Concern Value Works
 
-The difference between the going-concern value of a company and its [liquidation value](https://www.investopedia.com/terms/l/liquidation-value.asp) is known as goodwill. Goodwill consists of intangible assets, such as company brand names, trademarks, patents and customer loyalty. Typically the going-concern value will be greater than the liquidation value. When a company is acquired, the purchase price is typically based on its going-concern value. This means that a company being acquired can charge a pricing premium that is higher than the value of its assets and takes into account the value of its future profitability, intangible assets, and goodwill.
+The difference between the going-concern value of a company and its [[liquidation value]](https://www.investopedia.com/terms/l/liquidation-value.asp) is known as goodwill. Goodwill consists of intangible assets, such as company brand names, trademarks, patents and customer loyalty. Typically the going-concern value will be greater than the liquidation value. When a company is acquired, the purchase price is typically based on its going-concern value. This means that a company being acquired can charge a pricing premium that is higher than the value of its assets and takes into account the value of its future profitability, intangible assets, and goodwill.
 
 ## Going-Concern Value vs. Liquidation Value
 
@@ -40,4 +40,4 @@ However, liquidating a company means laying off all of its employees, and if the
 
 ## Example of Going-Concern Value
 
-For example, suppose that the liquidation value of Widget Corp. is $10 million. This sum represents the current value of inventory, buildings and other [tangible assets](https://www.investopedia.com/terms/t/tangibleasset.asp) that can be sold assuming that the company is completely liquidated. However, Widget Corp.'s going-concern value could very well be $60 million, as the company's reputation of being the world's leading widget producer and its ownership of patents and associated rights for widget production mean that the company should have a large and steady stream of future cash flows.
+For example, suppose that the liquidation value of Widget Corp. is $10 million. This sum represents the current value of inventory, buildings and other [[tangible assets]](https://www.investopedia.com/terms/t/tangibleasset.asp) that can be sold assuming that the company is completely liquidated. However, Widget Corp.'s going-concern value could very well be $60 million, as the company's reputation of being the world's leading widget producer and its ownership of patents and associated rights for widget production mean that the company should have a large and steady stream of future cash flows.

@@ -18,7 +18,7 @@ Private Good Definition
 
 A private good is a product that must be purchased to be consumed, and consumption by one individual prevents another individual from consuming it. In other words, a good is considered to be a private good if there is competition between individuals to obtain the good and if consuming the good prevents someone else from consuming it.
 
-Economists refer to private goods as [rivalrous](https://www.investopedia.com/terms/r/rival_good.asp) and excludable, and can be contrasted with [public goods](https://www.investopedia.com/terms/p/public-good.asp).
+Economists refer to private goods as [[rivalrous]](https://www.investopedia.com/terms/r/rival_good.asp) and excludable, and can be contrasted with [[public goods]](https://www.investopedia.com/terms/p/public-good.asp).
 
 ### Key Takeaways
 
@@ -40,6 +40,6 @@ A private good is the opposite of a public good. Public goods are generally open
 
 Water fountains in public places would qualify as public goods, since they can be used by anyone and there is no reasonable possibility of it becoming fully used up. Public television received over the air and standard AM or FM local radio also qualify, as any number of people can watch of listen to the broadcast without affecting other people's ability to do so.
 
-Private goods are less likely to experience the [free rider problem](https://www.investopedia.com/terms/f/free_rider_problem.asp) because a private good has to be purchased; it is not readily available for free. A company's goal in producing a private good is to make a profit. Without the incentive created by revenue, a company is unlikely to want to produce the good. Meanwhile, public goods may be subject to the [tragedy of the commons](https://www.investopedia.com/terms/t/tragedy-of-the-commons.asp) problem.
+Private goods are less likely to experience the [[free rider problem]](https://www.investopedia.com/terms/f/free_rider_problem.asp) because a private good has to be purchased; it is not readily available for free. A company's goal in producing a private good is to make a profit. Without the incentive created by revenue, a company is unlikely to want to produce the good. Meanwhile, public goods may be subject to the [[tragedy of the commons]](https://www.investopedia.com/terms/t/tragedy-of-the-commons.asp) problem.
 
 .

@@ -27,19 +27,19 @@ Economic rent is an amount of money earned that exceeds that which is economical
 
 ## Understanding Economic Rent
 
-Economic rents should not be confused with normal [profits](https://www.investopedia.com/terms/p/profit.asp) or [surpluses](https://www.investopedia.com/terms/s/surplus.asp) that arise in the course of competitive capitalist production. This term also differs from the traditional use of the word "[rent](https://www.investopedia.com/renting-4689699)," which applies to payments received in exchange for the temporary use of a particular good or property, such as land or housing.
+Economic rents should not be confused with normal [[profits]](https://www.investopedia.com/terms/p/profit.asp) or [[surpluses]](https://www.investopedia.com/terms/s/surplus.asp) that arise in the course of competitive capitalist production. This term also differs from the traditional use of the word "[rent](https://www.investopedia.com/renting-4689699)," which applies to payments received in exchange for the temporary use of a particular good or property, such as land or housing.
 
-Economic rents can also occur when certain producers in a competitive market have [asymmetric information](https://www.investopedia.com/terms/a/asymmetricinformation.asp); or else technologically advanced systems of production that give them a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp) as a low-cost producer that other firms lack or are not capable of acquiring.
+Economic rents can also occur when certain producers in a competitive market have [[asymmetric information]](https://www.investopedia.com/terms/a/asymmetricinformation.asp); or else technologically advanced systems of production that give them a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp) as a low-cost producer that other firms lack or are not capable of acquiring.
 
-If a wheat farmer somehow has access to a free and unlimited supply of water while his competitors do not, they would be able to extract economic rents by selling their product at the prevailing [market price](https://www.investopedia.com/terms/m/market-price.asp). As a result, economic rents are considered to be [unearned](https://www.investopedia.com/terms/u/unearnedincome.asp).
+If a wheat farmer somehow has access to a free and unlimited supply of water while his competitors do not, they would be able to extract economic rents by selling their product at the prevailing [[market price]](https://www.investopedia.com/terms/m/market-price.asp). As a result, economic rents are considered to be [[unearned]](https://www.investopedia.com/terms/u/unearnedincome.asp).
 
-Economic rent can arise from conditions of [scarcity](https://www.investopedia.com/terms/s/scarcity.asp) and can be used to demonstrate numerous pricing discrepancies. These include higher pay for unionized workers compared with nonunionized workers, or huge salaries made by a star athlete versus an average working individual.
+Economic rent can arise from conditions of [[scarcity]](https://www.investopedia.com/terms/s/scarcity.asp) and can be used to demonstrate numerous pricing discrepancies. These include higher pay for unionized workers compared with nonunionized workers, or huge salaries made by a star athlete versus an average working individual.
 
-Economic rent also explains the high value of exclusive [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp), such as [patents](https://www.investopedia.com/terms/p/patent.asp) and permits. Together, these are also known as scarcity rents.
+Economic rent also explains the high value of exclusive [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp), such as [[patents]](https://www.investopedia.com/terms/p/patent.asp) and permits. Together, these are also known as scarcity rents.
 
 ## Economic Rent and Labor
 
-A worker may be willing to work for $15 per hour, but because they belong to a [union](https://www.investopedia.com/terms/l/labor-union.asp), they receive $18 per hour for the same job. The difference of $3 is the worker's economic rent, which can also be referred to as unearned income.
+A worker may be willing to work for $15 per hour, but because they belong to a [[union]](https://www.investopedia.com/terms/l/labor-union.asp), they receive $18 per hour for the same job. The difference of $3 is the worker's economic rent, which can also be referred to as unearned income.
 
 In this regard, unearned income refers to the amount offered that is above what the employee felt that their skills and abilities were worth in the current marketplace. It can also apply when a person's skills would be valued less in an open market, but they receive more due to an affiliation with a group, such as a union, that sets minimum standards of pay.
 
@@ -59,8 +59,8 @@ Contract rent refers to a situation wherein there is a mutually agreed-upon deal
 
 ### Monopoly Rent
 
-Monopoly rent refers to the situation wherein a [monopoly](https://www.investopedia.com/terms/m/monopoly.asp) producer lacks competition and thus can sell its goods and services at a price far above what the otherwise competitive market price would be; at the expense of consumers.
+Monopoly rent refers to the situation wherein a [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp) producer lacks competition and thus can sell its goods and services at a price far above what the otherwise competitive market price would be; at the expense of consumers.
 
 ### Differential Rent
 
-Differential rent refers to the excess profit that may arise owing to differences in the fertility of the land. The surplus that arises due to the difference between the marginal and intramarginal land is the differential rent. It is generally accrued under conditions of extensive land cultivation. Differential ground rent was first proposed by the classical political economist [David Ricardo](https://www.investopedia.com/terms/d/david-ricardo.asp).
+Differential rent refers to the excess profit that may arise owing to differences in the fertility of the land. The surplus that arises due to the difference between the marginal and intramarginal land is the differential rent. It is generally accrued under conditions of extensive land cultivation. Differential ground rent was first proposed by the classical political economist [[David Ricardo]](https://www.investopedia.com/terms/d/david-ricardo.asp).

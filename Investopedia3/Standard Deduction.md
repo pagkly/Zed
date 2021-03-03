@@ -16,7 +16,7 @@ author: Julia Kagan
 Standard Deduction
 ## What Is the Standard Deduction?
 
-The standard deduction is the portion of income not subject to tax that can be used to reduce your tax bill. The IRS allows you to take the standard deduction if you do not [itemize your deductions](https://www.investopedia.com/terms/i/itemizeddeduction.asp) using [Schedule A of Form 1040](https://www.irs.gov/forms-pubs/about-schedule-a-form-1040) to calculate [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp). The amount of your standard deduction is based on your filing status, age, and whether you are disabled or claimed as a [dependent](https://www.investopedia.com/terms/d/dependent.asp) on someone else’s tax return.1
+The standard deduction is the portion of income not subject to tax that can be used to reduce your tax bill. The IRS allows you to take the standard deduction if you do not [[itemize your deductions]](https://www.investopedia.com/terms/i/itemizeddeduction.asp) using [[Schedule A of Form 1040]](https://www.irs.gov/forms-pubs/about-schedule-a-form-1040) to calculate [[taxable income]](https://www.investopedia.com/terms/t/taxableincome.asp). The amount of your standard deduction is based on your filing status, age, and whether you are disabled or claimed as a [[dependent]](https://www.investopedia.com/terms/d/dependent.asp) on someone else’s tax return.1
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ The standard deduction is the portion of income not subject to tax that can be u
 
 ## Understanding the Standard Deduction
 
-Income tax is the amount of money that the federal or state government takes from your taxable income**.** It is important to note that taxable income and [total income earned](https://www.investopedia.com/terms/g/gross_earnings.asp) for the year are not the same. This is because the government allows a portion of the total income earned to be subtracted or deducted to reduce the income that will be taxed. Taxable income is usually smaller than total income due to deductions, which help to reduce your tax bill.
+Income tax is the amount of money that the federal or state government takes from your taxable income**.** It is important to note that taxable income and [[total income earned]](https://www.investopedia.com/terms/g/gross_earnings.asp) for the year are not the same. This is because the government allows a portion of the total income earned to be subtracted or deducted to reduce the income that will be taxed. Taxable income is usually smaller than total income due to deductions, which help to reduce your tax bill.
 
-You can select one of two types of deductions: itemized deductions or the standard deduction. Whichever one you choose is up to you, but you cannot use both. The itemized deduction option allows you to list all your tax-deductible expenses for the year, such as [property tax](https://www.investopedia.com/terms/p/propertytax.asp), [medical expenses](https://www.investopedia.com/terms/m/medical-expenses.asp), [eligible charity donations](https://www.investopedia.com/terms/c/charitabledonation.asp), [gambling losses](https://www.investopedia.com/terms/g/gamblingloss.asp), and other costs incurred that influence your bottom line tax figure. 1
+You can select one of two types of deductions: itemized deductions or the standard deduction. Whichever one you choose is up to you, but you cannot use both. The itemized deduction option allows you to list all your tax-deductible expenses for the year, such as [[property tax]](https://www.investopedia.com/terms/p/propertytax.asp), [[medical expenses]](https://www.investopedia.com/terms/m/medical-expenses.asp), [[eligible charity donations]](https://www.investopedia.com/terms/c/charitabledonation.asp), [[gambling losses]](https://www.investopedia.com/terms/g/gamblingloss.asp), and other costs incurred that influence your bottom line tax figure. 1
 
 Normally, if the total value of itemized deductions is higher than the standard deduction, you would itemize. Otherwise, you should opt for the standard deduction.1
 
@@ -44,7 +44,7 @@ For 2020 taxes filed in 2021 the standard deductions are as follows:
 -   $24,800 for married taxpayers filing jointly
 -   $24,800 for qualifying widow(er)s3
 
-If you are a single tax filer with a gross income of $80,400 for 2020, you can reduce your income by $12,400 to taxable income of $68,000. Your tax bill for income of $68,000 would be $8,028 or an [effective tax rate (ETR)](https://www.investopedia.com/terms/e/effectivetaxrate.asp) of 11.81%. If you paid taxes on $80,400, your bill would be $10,756, or an ETR of 13.38%.
+If you are a single tax filer with a gross income of $80,400 for 2020, you can reduce your income by $12,400 to taxable income of $68,000. Your tax bill for income of $68,000 would be $8,028 or an [[effective tax rate (ETR)]](https://www.investopedia.com/terms/e/effectivetaxrate.asp) of 11.81%. If you paid taxes on $80,400, your bill would be $10,756, or an ETR of 13.38%.
 
 ## 2021 Standard Deduction Amounts
 
@@ -56,7 +56,7 @@ For 2021 taxes filed in 2022 the standard deductions increase to:
 -   $25,100 for married taxpayers filing jointly
 -   $25,100 for qualifying widow(er)s4
 
-New standard deduction amounts were introduced by the [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) at the end of 2017 and nearly doubled the previous amounts. They are set to expire Dec. 31, 2025.5
+New standard deduction amounts were introduced by the [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/) at the end of 2017 and nearly doubled the previous amounts. They are set to expire Dec. 31, 2025.5
 
 ## Special Considerations
 
@@ -70,4 +70,4 @@ You can also increase your standard deduction by the net amount of a disaster lo
 
 The biggest reason taxpayers use the standard deduction instead of itemized deductions is that they don’t have to keep track of every possible qualifying expense throughout the year. Also, many people may find the standard deduction amount greater than the total they could reach if they added up all their eligible tax-deductible expenses separately.9
 
-This may be especially true given that the Tax Cuts and Jobs Act limited total [state and local tax deductions](https://www.investopedia.com/state-and-local-tax-cap-workaround-gets-green-light-from-irs-5088399) to $10,000.10 It also limited the [mortgage interest deduction](https://www.investopedia.com/terms/home-mortgage-interest.asp) on properties bought after Dec. 15, 2017 to loans of $750,000 (it was $1 million under previous rules).11
+This may be especially true given that the Tax Cuts and Jobs Act limited total [[state and local tax deductions]](https://www.investopedia.com/state-and-local-tax-cap-workaround-gets-green-light-from-irs-5088399) to $10,000.10 It also limited the [[mortgage interest deduction]](https://www.investopedia.com/terms/home-mortgage-interest.asp) on properties bought after Dec. 15, 2017 to loans of $750,000 (it was $1 million under previous rules).11

@@ -16,9 +16,9 @@ author: Cory Mitchell
 Money Flow Index - MFI Definition and Uses
 ## What Is the Money Flow Index (MFI)?
 
-The Money Flow Index (MFI) is a technical [oscillator](https://www.investopedia.com/terms/o/oscillator.asp) that uses price and volume data for identifying [overbought](https://www.investopedia.com/terms/o/overbought.asp) or [oversold](https://www.investopedia.com/terms/o/oversold.asp) signals in an asset. It can also be used to spot [divergences](https://www.investopedia.com/terms/d/divergence.asp) which warn of a trend change in price. The oscillator moves between 0 and 100.
+The Money Flow Index (MFI) is a technical [[oscillator]](https://www.investopedia.com/terms/o/oscillator.asp) that uses price and volume data for identifying [[overbought]](https://www.investopedia.com/terms/o/overbought.asp) or [[oversold]](https://www.investopedia.com/terms/o/oversold.asp) signals in an asset. It can also be used to spot [[divergences]](https://www.investopedia.com/terms/d/divergence.asp) which warn of a trend change in price. The oscillator moves between 0 and 100.
 
-Unlike conventional oscillators such as the [Relative Strength Index](https://www.investopedia.com/terms/r/rsi.asp) (RSI), the Money Flow Index incorporates both price and [volume](https://www.investopedia.com/terms/v/volume.asp) data, as opposed to just price. For this reason, some analysts call MFI the volume-weighted RSI.
+Unlike conventional oscillators such as the [[Relative Strength Index]](https://www.investopedia.com/terms/r/rsi.asp) (RSI), the Money Flow Index incorporates both price and [[volume]](https://www.investopedia.com/terms/v/volume.asp) data, as opposed to just price. For this reason, some analysts call MFI the volume-weighted RSI.
 
 ### Key Takeaways
 
@@ -47,22 +47,22 @@ There are several steps for calculating the Money Flow Index. If doing it by han
 
 ## What Does the Money Flow Index Tell You?
 
-One of the primary ways to use the Money Flow Index is when there is a [divergence](https://www.investopedia.com/terms/a/atthemoney.asp). A divergence is when the oscillator is moving in the opposite direction of price. This is a signal of a potential reversal in the prevailing price trend.
+One of the primary ways to use the Money Flow Index is when there is a [[divergence]](https://www.investopedia.com/terms/a/atthemoney.asp). A divergence is when the oscillator is moving in the opposite direction of price. This is a signal of a potential reversal in the prevailing price trend.
 
 For example, a very high Money Flow Index that begins to fall below a reading of 80 while the underlying security continues to climb is a price reversal signal to the downside. Conversely, a very low MFI reading that climbs above a reading of 20 while the underlying security continues to sell off is a price reversal signal to the upside.
 
-Traders also watch for larger divergences using multiple [waves](https://www.investopedia.com/terms/e/elliottwavetheory.asp) in the price and MFI. For example, a stock peaks at $10, pulls back to $8, and then rallies to $12. The price has made two successive highs, at $10 and $12. If MFI makes a lower higher when the price reaches $12, the indicator is not confirming the new high. This could foreshadow a decline in price.
+Traders also watch for larger divergences using multiple [[waves]](https://www.investopedia.com/terms/e/elliottwavetheory.asp) in the price and MFI. For example, a stock peaks at $10, pulls back to $8, and then rallies to $12. The price has made two successive highs, at $10 and $12. If MFI makes a lower higher when the price reaches $12, the indicator is not confirming the new high. This could foreshadow a decline in price.
 
-The overbought and oversold levels are also used to signal possible trading opportunities. Moves below 10 and above 90 are rare. Traders watch for the MFI to move back above 10 to signal a [long](https://www.investopedia.com/terms/l/long.asp) trade, and to drop below 90 to signal a [short](https://www.investopedia.com/terms/s/shortselling.asp) trade.
+The overbought and oversold levels are also used to signal possible trading opportunities. Moves below 10 and above 90 are rare. Traders watch for the MFI to move back above 10 to signal a [[long]](https://www.investopedia.com/terms/l/long.asp) trade, and to drop below 90 to signal a [[short]](https://www.investopedia.com/terms/s/shortselling.asp) trade.
 
-Other moves out of overbought or oversold territory can also be useful. For example, when an asset is in an [uptrend](https://www.investopedia.com/terms/u/uptrend.asp), a drop below 20 (or even 30) and then a rally back above it could indicate a pullback is over and the price uptrend is resuming. The same goes for a downtrend. A short-term rally could push the MFI up to 70 or 80, but when it drops back below that could be the time to enter a short trade in preparation for another drop.
+Other moves out of overbought or oversold territory can also be useful. For example, when an asset is in an [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp), a drop below 20 (or even 30) and then a rally back above it could indicate a pullback is over and the price uptrend is resuming. The same goes for a downtrend. A short-term rally could push the MFI up to 70 or 80, but when it drops back below that could be the time to enter a short trade in preparation for another drop.
 
 ## The Difference Between the Money Flow Index and the Relative Strength Index (RSI)
 
-The MFI and RSI are very closely related. The main difference is that MFI incorporates volume, while the RSI does not. Proponents of volume analysis believe it is a [leading indicator](https://www.investopedia.com/terms/l/leadingindicator.asp). Therefore, they also believe that MFI will provide signals, and warn of possible reversals, in a more timely fashion than the RSI. One indicator is not better than the other, they are simply incorporating different elements and will, therefore, provide signals at different times.
+The MFI and RSI are very closely related. The main difference is that MFI incorporates volume, while the RSI does not. Proponents of volume analysis believe it is a [[leading indicator]](https://www.investopedia.com/terms/l/leadingindicator.asp). Therefore, they also believe that MFI will provide signals, and warn of possible reversals, in a more timely fashion than the RSI. One indicator is not better than the other, they are simply incorporating different elements and will, therefore, provide signals at different times.
 
 ## Limitations of the Money Flow Index
 
-The MFI is capable of producing [false signals](https://www.investopedia.com/terms/f/false-signal.asp). This is when the indicator does something that indicates a good trading opportunity is present, but then the price doesn't move as expected resulting in a losing trade. A divergence may not result in a price reversal, for instance.
+The MFI is capable of producing [[false signals]](https://www.investopedia.com/terms/f/false-signal.asp). This is when the indicator does something that indicates a good trading opportunity is present, but then the price doesn't move as expected resulting in a losing trade. A divergence may not result in a price reversal, for instance.
 
 The indicator may also fail to warn of something important. For example, while a divergence may result in a price reversing some of the time, divergence won't be present for all price reversals. Because of this, it is recommended that traders use other forms of analysis and risk control and not rely exclusively on one indicator.

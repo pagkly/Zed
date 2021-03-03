@@ -20,7 +20,7 @@ A taxpayer may be an individual or business entity that is obligated to pay taxe
 
 ## Breaking Down Taxpayer
 
-United States tax code is legislated and enforced by federal, state, and local governments. The Internal Revenue Service is the primary governing agency overseeing implemented [income tax](https://www.investopedia.com/terms/i/incometax.asp) code for both individuals and businesses.1 State and local revenue agencies are responsible for implementing and enforcing localized taxes such as sales taxes and property taxes. Both individuals and businesses must be aware of their tax obligations since not paying necessary taxes can result in penalties or further legal actions.
+United States tax code is legislated and enforced by federal, state, and local governments. The Internal Revenue Service is the primary governing agency overseeing implemented [[income tax]](https://www.investopedia.com/terms/i/incometax.asp) code for both individuals and businesses.1 State and local revenue agencies are responsible for implementing and enforcing localized taxes such as sales taxes and property taxes. Both individuals and businesses must be aware of their tax obligations since not paying necessary taxes can result in penalties or further legal actions.
 
 ### Key Takeaways
 
@@ -32,11 +32,11 @@ United States tax code is legislated and enforced by federal, state, and local g
 
 There are specific thresholds governing the obligation to pay annual individual income taxes to the Internal Revenue Service ([IRS](https://www.investopedia.com/terms/i/irs.asp)) and state revenue departments. The federal threshold is based on an individual’s filing status. Each state will also have its own thresholds. Individual taxpayers should check both the federal and state thresholds to determine their filing obligations for a given year. The Internal Revenue Service’s Publication 501: Dependents, Standard Deduction, and Filing Information provides federal tax guidance for individual taxpayers.2
 
-An individual’s filing status will influence how much tax is withheld from payroll. It is also a primary factor influencing annual tax obligations for a given year. Therefore, it is important that an individual taxpayer maintain the same filing status with their employer that they plan to use for their annual tax filing. Improperly notating the tax filing status on employee withholding forms like the [Form W-4](https://www.investopedia.com/terms/w/w4form.asp) can result in withholding too much or too little which will be reconciled at tax-filing time.
+An individual’s filing status will influence how much tax is withheld from payroll. It is also a primary factor influencing annual tax obligations for a given year. Therefore, it is important that an individual taxpayer maintain the same filing status with their employer that they plan to use for their annual tax filing. Improperly notating the tax filing status on employee withholding forms like the [[Form W-4]](https://www.investopedia.com/terms/w/w4form.asp) can result in withholding too much or too little which will be reconciled at tax-filing time.
 
 Generally, marriage and dependents (usually children) are the two things that will characterize a taxpayer’s status. If married, an individual can choose to file separately or jointly. Taxpayers also have the option to file as a widower if their spouse has died.3
 
-Individuals who are not obligated to file annual tax returns will still encounter taxes in their everyday life. Other than income taxes, taxes are imposed daily and annually through [sales taxes](https://www.investopedia.com/terms/s/salestax.asp) on goods and services and [property taxes](https://www.investopedia.com/terms/p/propertytax.asp) required to be paid separately to local governments. Sales taxes and property taxes vary based on location.
+Individuals who are not obligated to file annual tax returns will still encounter taxes in their everyday life. Other than income taxes, taxes are imposed daily and annually through [[sales taxes]](https://www.investopedia.com/terms/s/salestax.asp) on goods and services and [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp) required to be paid separately to local governments. Sales taxes and property taxes vary based on location.
 
 ### Individual Filing Thresholds
 
@@ -48,7 +48,7 @@ Source: IRS.
 
 _Single Taxpayer_
 
-A taxpayer is considered single if s/he is unmarried, divorced, a registered domestic partner, or legally separated according to state law as of the last day of the tax year. The head of a household or a person who is widowed does not fall under the “single” category for tax purposes. [Single filers](https://www.investopedia.com/terms/s/single.asp) have lower income thresholds for tax filing obligations.6
+A taxpayer is considered single if s/he is unmarried, divorced, a registered domestic partner, or legally separated according to state law as of the last day of the tax year. The head of a household or a person who is widowed does not fall under the “single” category for tax purposes. [[Single filers]](https://www.investopedia.com/terms/s/single.asp) have lower income thresholds for tax filing obligations.6
 
 _Taxpayer as the Head of Household_
 
@@ -58,11 +58,11 @@ _Married Taxpayer Filing Jointly_
 
 Two taxpayers that wed by the end of the tax year can file their tax returns jointly. When filing under [married filing jointly](https://www.investopedia.com/terms/m/mfj.asp) status, couples can record their respective incomes and deductions on the same tax return. A joint tax return will often provide a bigger [tax refund](https://www.investopedia.com/terms/t/tax-refund.asp) or a lower [tax liability](https://www.investopedia.com/terms/t/taxliability.asp).8
 
-Married filing jointly is best if only one spouse has a significant income. If both spouses work and the income and [itemized deductions](https://www.investopedia.com/terms/i/itemizeddeduction.asp) are large and very unequal, [it may be more advantageous to file separately](https://www.investopedia.com/articles/tax/08/file-seperately.asp).
+Married filing jointly is best if only one spouse has a significant income. If both spouses work and the income and [itemized deductions](https://www.investopedia.com/terms/i/itemizeddeduction.asp) are large and very unequal, [[it may be more advantageous to file separately]](https://www.investopedia.com/articles/tax/08/file-seperately.asp).
 
 _Married Taxpayer Filing Separately_
 
-[Married filing separately](https://www.investopedia.com/terms/m/mfs.asp) is a tax status used by married taxpayers who choose to record their respective incomes, [deductions](https://www.investopedia.com/terms/t/tax-deduction.asp), and credits on separate tax returns. Married filing separately may be appealing to couples who find that combining their income pushes them into a higher tax bracket than either of them would be in if they filed separately. There is a potential tax advantage to filing separately when one spouse has significant medical expenses, miscellaneous itemized deductions, or certain available credits.9
+[Married filing separately](https://www.investopedia.com/terms/m/mfs.asp) is a tax status used by married taxpayers who choose to record their respective incomes, [[deductions]](https://www.investopedia.com/terms/t/tax-deduction.asp), and credits on separate tax returns. Married filing separately may be appealing to couples who find that combining their income pushes them into a higher tax bracket than either of them would be in if they filed separately. There is a potential tax advantage to filing separately when one spouse has significant medical expenses, miscellaneous itemized deductions, or certain available credits.9
 
 _Widower_
 

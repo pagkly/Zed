@@ -16,7 +16,7 @@ author: Clay Halton
 Yuppie Definition
 ## What Is a Yuppie?
 
-Yuppie is a slang term denoting the [market segment](https://www.investopedia.com/terms/m/market-segment.asp) of young urban professionals. A yuppie is often characterized by youth, affluence, and business success. They are often preppy in appearance and like to show off their success by their style and possessions.
+Yuppie is a slang term denoting the [[market segment]](https://www.investopedia.com/terms/m/market-segment.asp) of young urban professionals. A yuppie is often characterized by youth, affluence, and business success. They are often preppy in appearance and like to show off their success by their style and possessions.
 
 ### Key Takeaways
 
@@ -48,7 +48,7 @@ The term yuppie isn't confined only to the United States—other countries, such
 
 ## Modern Yuppies
 
-In the 21st century, the term takes on new meaning while retaining the basic tenets of original yuppies. For example, due to the internet and growing reliance on electronic communication, the term yuppie could refer to a [Silicon Valley](https://www.investopedia.com/terms/s/siliconvalley.asp) tech worker that doesn't necessarily have the same social skills as the original yuppie, but still works for a prestigious company and makes a lot of money.
+In the 21st century, the term takes on new meaning while retaining the basic tenets of original yuppies. For example, due to the internet and growing reliance on electronic communication, the term yuppie could refer to a [[Silicon Valley]](https://www.investopedia.com/terms/s/siliconvalley.asp) tech worker that doesn't necessarily have the same social skills as the original yuppie, but still works for a prestigious company and makes a lot of money.
 
 This can make it harder to define yuppies since it might not be obvious at first glance that these people have glamorous careers. Perhaps, as a result, the term yuppie isn't used as widely as it was in the 1980s and early 1990s.4
 

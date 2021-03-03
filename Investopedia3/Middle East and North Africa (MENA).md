@@ -16,13 +16,13 @@ author: James Chen
 Middle East and North Africa (MENA)
 ## What Is MENA?
 
-MENA is an acronym for the Middle East and North Africa (MENA) region. The region includes approximately [19 countries](https://www.worldatlas.com/articles/what-are-the-mena-countries.html), according to World Atlas. The MENA region accounts for approximately 6% of the world's population, 60% of the world's [oil reserves](https://www.investopedia.com/terms/o/oil-reserves.asp), and 45% of the world's natural gas reserves. Due to the region's substantial petroleum and natural gas reserves, MENA is an important source of global economic stability.
+MENA is an acronym for the Middle East and North Africa (MENA) region. The region includes approximately [19 countries](https://www.worldatlas.com/articles/what-are-the-mena-countries.html), according to World Atlas. The MENA region accounts for approximately 6% of the world's population, 60% of the world's [[oil reserves]](https://www.investopedia.com/terms/o/oil-reserves.asp), and 45% of the world's natural gas reserves. Due to the region's substantial petroleum and natural gas reserves, MENA is an important source of global economic stability.
 
 With war and turmoil afflicting the MENA region, economic growth is forecast to improve to an average rate of 2.6% in 2019 to 2020, according to the World Bank.
 
 ## Understanding MENA
 
-Many of the [14 OPEC nations](https://www.opec.org/opec_web/en/about_us/25.htm) are within the MENA region. While there is no standardized list of countries included in the MENA region, the term typically includes the area from Morocco in northwest Africa to Iran in southwest Asia and down to Sudan in Africa. The following countries are typically included in MENA: Algeria, Bahrain, Djibouti, Egypt, [Iran](https://www.investopedia.com/articles/investing/082115/who-are-irans-biggest-allies-and-why.asp), Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Malta, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Palestine, and Yemen. Ethiopia and Sudan are sometimes included.
+Many of the [14 OPEC nations](https://www.opec.org/opec_web/en/about_us/25.htm) are within the MENA region. While there is no standardized list of countries included in the MENA region, the term typically includes the area from Morocco in northwest Africa to Iran in southwest Asia and down to Sudan in Africa. The following countries are typically included in MENA: Algeria, Bahrain, Djibouti, Egypt, [[Iran]](https://www.investopedia.com/articles/investing/082115/who-are-irans-biggest-allies-and-why.asp), Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Malta, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, Palestine, and Yemen. Ethiopia and Sudan are sometimes included.
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Many of the [14 OPEC nations](https://www.opec.org/opec_web/en/about_us/25.htm) 
 -   Due to these reserves, MENA is an important source of global economic stability.
 -   The region is afflicted by persistent civil war in Syria, Iraq, Libya, and Yemen, with the United States and Russia supporting opposing sides and providing military resources.
 
-The MENA region has grown in geopolitical importance since 2011 when a number of the region's long-time dictatorships were overthrown in an event known as The [Arab Spring](https://www.investopedia.com/articles/investing/051315/complex-story-global-impact-low-oil-prices.asp). Following this event, oil supplies from Libya, for example, have been extremely volatile, influencing the price of oil on international markets. Additionally, civil war in Syria has brought the U.S. and Russia into direct military competition in a way not seen since the Vietnam War in the 1960s, 1970s, and the war in Afghanistan in the 1980s. Each country backs different sides and provides military assistance.
+The MENA region has grown in geopolitical importance since 2011 when a number of the region's long-time dictatorships were overthrown in an event known as The [[Arab Spring]](https://www.investopedia.com/articles/investing/051315/complex-story-global-impact-low-oil-prices.asp). Following this event, oil supplies from Libya, for example, have been extremely volatile, influencing the price of oil on international markets. Additionally, civil war in Syria has brought the U.S. and Russia into direct military competition in a way not seen since the Vietnam War in the 1960s, 1970s, and the war in Afghanistan in the 1980s. Each country backs different sides and provides military assistance.
 
 ### Fast Fact
 

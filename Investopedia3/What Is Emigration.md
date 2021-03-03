@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Emigration?
 ## What Is Emigration?
 
-Emigration is the relocation or process of people leaving one country to reside in another. People emigrate for many reasons, include increasing one's chance of employment or improving [quality of life](https://www.investopedia.com/terms/q/quality-of-life.asp). Emigration affects the economies of the countries involved in both positive and negative ways, depending on the current state of the countries' economies.
+Emigration is the relocation or process of people leaving one country to reside in another. People emigrate for many reasons, include increasing one's chance of employment or improving [[quality of life]](https://www.investopedia.com/terms/q/quality-of-life.asp). Emigration affects the economies of the countries involved in both positive and negative ways, depending on the current state of the countries' economies.
 
 ### Key Takeaways
 
@@ -32,14 +32,14 @@ In the United States, the number of people who emigrate and eventually become pe
 
 ## Fiscal Impact of Emigration
 
-When people emigrate to a new country, they pay taxes in the new country based on earnings, property owned, and other factors. They may also pay [sales tax](https://www.investopedia.com/terms/s/salestax.asp) on purchases when applicable. These people may also qualify for social services provided by that country, such as education for dependent children or universal health care. Each country needs to ensure new tax revenues match the additional expenses for social services provided to the emigrants and their families.
+When people emigrate to a new country, they pay taxes in the new country based on earnings, property owned, and other factors. They may also pay [[sales tax]](https://www.investopedia.com/terms/s/salestax.asp) on purchases when applicable. These people may also qualify for social services provided by that country, such as education for dependent children or universal health care. Each country needs to ensure new tax revenues match the additional expenses for social services provided to the emigrants and their families.
 
 ## Effect of Emigration on Job Market and Wages
 
 When large groups of emigrants enter the job market in a new country, there is an effect on the available number of jobs and the amount of wages one can ask for a particular job. The new country must have enough job openings to support emigration without damaging the chances of the native-born labor force finding employment. Additionally, if an emigrant takes a job for a lower wage than typically offered to the native labor force, it can lower wages for both emigrants and the native population.
 
-However, at times a country might struggle to have enough workers within their labor force to satisfy the demand for jobs. In the late 1990s, the U.S. had an unemployment rate of 4%, and companies struggled to find workers. Emigration can help alleviate labor shortages during times of economic expansion while increasing [consumer spending](https://www.investopedia.com/terms/c/consumer-spending.asp) and tax revenue for state and local governments.
+However, at times a country might struggle to have enough workers within their labor force to satisfy the demand for jobs. In the late 1990s, the U.S. had an unemployment rate of 4%, and companies struggled to find workers. Emigration can help alleviate labor shortages during times of economic expansion while increasing [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) and tax revenue for state and local governments.
 
 ## Rules for Emigration to the United States
 
-The Immigration and Naturalization Act serves as the basis for emigration into the United States and allows for 675,000 permanent immigrants yearly. The country also provides emigration status to a certain number of refugees separate from this number. When choosing emigrants, the United States examines things such as family ties and unique job qualifications and creating [diversification](https://www.investopedia.com/terms/d/diversification.asp) within the country. The goal of this Act is to protect the American economy by making positive additions to the workforce and maintaining a healthy job market for American citizens.
+The Immigration and Naturalization Act serves as the basis for emigration into the United States and allows for 675,000 permanent immigrants yearly. The country also provides emigration status to a certain number of refugees separate from this number. When choosing emigrants, the United States examines things such as family ties and unique job qualifications and creating [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) within the country. The goal of this Act is to protect the American economy by making positive additions to the workforce and maintaining a healthy job market for American citizens.

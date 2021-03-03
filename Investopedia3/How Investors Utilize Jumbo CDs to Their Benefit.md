@@ -28,7 +28,7 @@ A jumbo certificate of deposit is a CD that requires a higher minimum balance ob
 
 [Traditional CDs typically offer a higher rate of return](https://www.investopedia.com/best-cd-rates-4770214) than do standard savings accounts or interest-bearing checking accounts. In this same vein, the jumbo CD will pay an even higher rate than is offered by traditional CDs. Jumbos receive a higher rate because they require a larger minimum investment than the standard CD. Most jumbo CDs start at $100,000, but some financial institutions offering them may have a few products with lower entry points.1
 
-Jumbo CDs are considered risk-free investments, because they’re insured up to $250,000 by the [Federal Deposit Insurance Corporation (FDIC)](https://www.investopedia.com/terms/f/fdic.asp). Credit unions also market jumbo CDs, and these funds find protection under the [National Credit Union Administration (NCUA)](https://www.investopedia.com/terms/n/ncua.asp).
+Jumbo CDs are considered risk-free investments, because they’re insured up to $250,000 by the [[Federal Deposit Insurance Corporation (FDIC)]](https://www.investopedia.com/terms/f/fdic.asp). Credit unions also market jumbo CDs, and these funds find protection under the [[National Credit Union Administration (NCUA)]](https://www.investopedia.com/terms/n/ncua.asp).
 
 Investors receive the premium—based on the fixed interest rate—as compensation for not having access to their money over the life of the account. A one-year jumbo CD that pays 1.5% interest, for example, may require that the funds remain locked up in the account for one year. Jumbo CDs can have term lengths as short as a few days or as long as a decade. However, the standard range is between three months and five years. And the longer the term, the higher the interest rate returned on the funds invested.
 
@@ -44,7 +44,7 @@ Large institutional investors are the typical customer for jumbo CDs. These larg
 
 s allow institutional investors and companies to earn interest on idle money for short periods before rolling the funds into other ventures. These Jumbo CDs are instruments for treasury management of large corporations and money market instruments for large investors.
 
-Other than being paid to park their funds in these products, large investors use them as instruments to reduce their portfolio’s [market risk](https://www.investopedia.com/terms/m/marketrisk.asp) exposure. Market risk arises when the prices in the stock market fluctuate over time. As a result, stock portfolios can earn high returns, but they can also incur large losses. The steady interest paid on jumbo CDs helps offset and reduce the risk of negative returns that can happen from holding stocks.
+Other than being paid to park their funds in these products, large investors use them as instruments to reduce their portfolio’s [[market risk]](https://www.investopedia.com/terms/m/marketrisk.asp) exposure. Market risk arises when the prices in the stock market fluctuate over time. As a result, stock portfolios can earn high returns, but they can also incur large losses. The steady interest paid on jumbo CDs helps offset and reduce the risk of negative returns that can happen from holding stocks.
 
 A business seeking a loan or other type of financing from a bank can pledge its jumbo CD as collateral, which is an asset held by a lender as security for a loan in the event the borrower falls behind or defaults on the loan payments. If the borrower defaults on the timely submission of payments, the lender can seize the collateral to recoup any losses. However, CDs held in retirement accounts cannot be pledged as collateral for loans.
 
@@ -56,7 +56,7 @@ Although jumbo CDs have positive aspects of higher rates and FDIC protection, th
 
 ### Inflation risk
 
-Jumbo CDs don’t typically [keep up with inflation](https://www.investopedia.com/articles/investing/122215/cds-vs-inflation-are-they-keeping.asp). If the inflation rate in the economy is 2%, for example, and the interest rate on the CD is 2.5%, the investor is only earning 0.5% in real terms. To make an investment in a jumbo CD worthwhile, investors would need to lock in their funds for longer terms, resulting in a higher rate.
+Jumbo CDs don’t typically [[keep up with inflation]](https://www.investopedia.com/articles/investing/122215/cds-vs-inflation-are-they-keeping.asp). If the inflation rate in the economy is 2%, for example, and the interest rate on the CD is 2.5%, the investor is only earning 0.5% in real terms. To make an investment in a jumbo CD worthwhile, investors would need to lock in their funds for longer terms, resulting in a higher rate.
 
 ### Early-withdrawal penalties
 
@@ -64,11 +64,11 @@ Should the holder need these funds before the jumbo CD matures, withdrawing them
 
 ### Interest rate risk
 
-Another worry for jumbo CD investors is [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp). This comes when current market interest rates rise above the one offered by the jumbo CD. If interest rates rise while investors are holding a Jumbo CD, they miss out on the higher rates they could have had if these funds had been available to invest elsewhere.
+Another worry for jumbo CD investors is [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp). This comes when current market interest rates rise above the one offered by the jumbo CD. If interest rates rise while investors are holding a Jumbo CD, they miss out on the higher rates they could have had if these funds had been available to invest elsewhere.
 
 ### Reinvestment rate risk
 
-Conversely, if interest rates fall during the holding period, at maturity the investor may not be able to reinvest the funds at a rate comparable to the CD. This hazard is known as [reinvestment risk](https://www.investopedia.com/terms/r/reinvestmentrisk.asp). Although jumbo CDs pay a higher rate at the onset as compared to other products, investors must weigh the pros and cons to ensure they don’t wind up with a lower return in the long term.
+Conversely, if interest rates fall during the holding period, at maturity the investor may not be able to reinvest the funds at a rate comparable to the CD. This hazard is known as [[reinvestment risk]](https://www.investopedia.com/terms/r/reinvestmentrisk.asp). Although jumbo CDs pay a higher rate at the onset as compared to other products, investors must weigh the pros and cons to ensure they don’t wind up with a lower return in the long term.
 
 Pros
 

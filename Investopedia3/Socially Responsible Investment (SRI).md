@@ -16,7 +16,7 @@ author: James Chen
 Socially Responsible Investment (SRI)
 ## What Is a Socially Responsible Investment (SRI)?
 
-Socially responsible investing (SRI), also known as social investment, is an [investment](https://www.investopedia.com/terms/i/investment.asp) that is considered socially responsible due to the nature of the business the company conducts. Common themes for socially responsible investments include socially conscious investing. Socially responsible investments can be made into individual companies with good social value, or through a socially conscious mutual fund or exchange-traded fund (ETF).
+Socially responsible investing (SRI), also known as social investment, is an [[investment]](https://www.investopedia.com/terms/i/investment.asp) that is considered socially responsible due to the nature of the business the company conducts. Common themes for socially responsible investments include socially conscious investing. Socially responsible investments can be made into individual companies with good social value, or through a socially conscious mutual fund or exchange-traded fund (ETF).
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Socially responsible investing (SRI), also known as social investment, is an [in
 
 Socially responsible investments include eschewing investments in companies that produce or sell addictive substances (like alcohol, gambling, and tobacco) in favor of seeking out companies that are engaged in social justice, environmental sustainability, and alternative energy/clean technology efforts.
 
-In recent history, “socially conscious" investing has been growing into a widely-followed practice, as there are dozens of new funds and pooled [investment vehicles](https://www.investopedia.com/terms/i/investmentvehicle.asp) available for retail investors. Mutual funds and ETFs provide an added advantage in that investors can gain exposure to multiple companies across many sectors with a single investment. However, investors should read carefully through-fund prospectuses in order to determine the exact philosophies being employed by fund managers, along with the potential profitability of these investments.
+In recent history, “socially conscious" investing has been growing into a widely-followed practice, as there are dozens of new funds and pooled [[investment vehicles]](https://www.investopedia.com/terms/i/investmentvehicle.asp) available for retail investors. Mutual funds and ETFs provide an added advantage in that investors can gain exposure to multiple companies across many sectors with a single investment. However, investors should read carefully through-fund prospectuses in order to determine the exact philosophies being employed by fund managers, along with the potential profitability of these investments.
 
 There are two inherent goals of socially responsible investing: social impact and financial gain. The two do not necessarily have to go hand in hand; just because an investment touts itself as socially responsible doesn't mean that it will provide investors with a good return, and the promise of a good return is far from an assurance that the nature of the company involved is socially conscious. An investor must still assess the financial outlook of the investment while trying to gauge its social value.
 
@@ -44,7 +44,7 @@ For this reason, socially responsible investing is often considered by investmen
 
 For example, in the 1960s, investors were mainly concerned with contributing to causes such as women's rights, civil rights, and the anti-war movement. Martin Luther King Jr. played a large role in raising awareness for the civil rights movement by targeting companies that opposed the cause as socially irresponsible. 
 
-As awareness has grown in recent years over global warming and climate change, socially responsible investing has trended toward companies that [positively impact the environment](https://www.investopedia.com/articles/07/clean_and_green.asp) by reducing emissions or investing in sustainable or clean energy sources. Consequently, these investments avoid industries such as coal mining due to the negative environmental impact of their business practices.
+As awareness has grown in recent years over global warming and climate change, socially responsible investing has trended toward companies that [[positively impact the environment]](https://www.investopedia.com/articles/07/clean_and_green.asp) by reducing emissions or investing in sustainable or clean energy sources. Consequently, these investments avoid industries such as coal mining due to the negative environmental impact of their business practices.
 
 ### Important
 
@@ -52,4 +52,4 @@ The U.S. Department of Labor released a new regulation in late October 2020 that
 
 ## Example of Socially Responsible Investing
 
-One example of socially responsible investing is community investing, which goes directly toward organizations that both have a track record of [social responsibility](https://www.investopedia.com/terms/s/socialresponsibility.asp) through helping the community, and have been unable to garner funds from other sources such as banks and financial institutions. The funds allow these organizations to provide services to their communities, such as affordable housing and loans. The goal is to improve the quality of the community by reducing its dependency on government assistance such as welfare, which in turn has a positive impact on the community's economy.
+One example of socially responsible investing is community investing, which goes directly toward organizations that both have a track record of [[social responsibility]](https://www.investopedia.com/terms/s/socialresponsibility.asp) through helping the community, and have been unable to garner funds from other sources such as banks and financial institutions. The funds allow these organizations to provide services to their communities, such as affordable housing and loans. The goal is to improve the quality of the community by reducing its dependency on government assistance such as welfare, which in turn has a positive impact on the community's economy.

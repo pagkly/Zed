@@ -26,7 +26,7 @@ Value engineering is a systematic, organized approach to providing necessary fun
 
 ## Understanding Value Engineering
 
-Value engineering is the review of new or existing products during the design phase to reduce costs and increase functionality to increase the value of the product. The value of an item is defined as the most cost-effective way of producing an item without taking away from its purpose. Therefore, [reducing costs](https://www.investopedia.com/ask/answers/122214/company-it-more-important-lower-costs-or-increase-revenue.asp) at the expense of quality is simply a [cost-cutting](https://www.investopedia.com/terms/c/cost-cutting.asp) strategy.
+Value engineering is the review of new or existing products during the design phase to reduce costs and increase functionality to increase the value of the product. The value of an item is defined as the most cost-effective way of producing an item without taking away from its purpose. Therefore, [[reducing costs]](https://www.investopedia.com/ask/answers/122214/company-it-more-important-lower-costs-or-increase-revenue.asp) at the expense of quality is simply a [[cost-cutting]](https://www.investopedia.com/terms/c/cost-cutting.asp) strategy.
 
 With value engineering, cost reduction should not affect the quality of the product being developed or analyzed.
 
@@ -34,9 +34,9 @@ The concept of value engineering evolved in the 1940s at General Electric, in th
 
 ### Special Considerations
 
-Miles defined product value as the ratio of two elements: function to cost. The function of an item is the specific work it was designed to perform, and the cost refers to the cost of the item during its [life cycle](https://www.investopedia.com/terms/p/product-life-cycle-management.asp). The ratio of function to cost implies that the value of a product can be increased by either improving its function or decreasing its cost. In value engineering, the cost related to production, design, maintenance, and replacement are included in the analysis.
+Miles defined product value as the ratio of two elements: function to cost. The function of an item is the specific work it was designed to perform, and the cost refers to the cost of the item during its [[life cycle]](https://www.investopedia.com/terms/p/product-life-cycle-management.asp). The ratio of function to cost implies that the value of a product can be increased by either improving its function or decreasing its cost. In value engineering, the cost related to production, design, maintenance, and replacement are included in the analysis.
 
-For example, consider a new tech product is being designed and is slated to have a life cycle of only two years. The product will thus be designed with the least expensive materials and resources that will serve up to the end of the product’s life cycle, saving the manufacturer and the [end-consumer](https://www.investopedia.com/terms/e/end-user.asp) money. This is an example of improving value by reducing costs.
+For example, consider a new tech product is being designed and is slated to have a life cycle of only two years. The product will thus be designed with the least expensive materials and resources that will serve up to the end of the product’s life cycle, saving the manufacturer and the [[end-consumer]](https://www.investopedia.com/terms/e/end-user.asp) money. This is an example of improving value by reducing costs.
 
 Another manufacturing company might decide to create added value by maximizing the function of a product with minimal cost. In this case, the function of every component of the item will be assessed to develop a detailed analysis of the purpose of the product. Part of the value analysis will require evaluating the multiple alternate ways that the project or product can accomplish its function.
 

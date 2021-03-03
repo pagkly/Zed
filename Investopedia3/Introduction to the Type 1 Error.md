@@ -14,7 +14,7 @@ author: Will Kenton
 ---
 
 Introduction to the Type 1 Error
-A type I error is a kind of fault that occurs during the [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) process when a [null hypothesis](https://www.investopedia.com/terms/n/null_hypothesis.asp) is rejected, even though it is accurate and should not be rejected.
+A type I error is a kind of fault that occurs during the [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp) process when a [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) is rejected, even though it is accurate and should not be rejected.
 
 In hypothesis testing, a null hypothesis is established before the onset of a test. In some cases, the null hypothesis assumes that there's no cause and effect relationship between the item being tested and the stimuli being applied to the test subject to trigger an outcome to the test.
 

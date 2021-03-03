@@ -1,0 +1,101 @@
+---
+alias: [Factors of Production]
+created: 2021-03-02T19:50:26 (UTC +11:00)
+tags: [Factors of Production Definition, How Factors of Production Work]
+source: https://www.investopedia.com/terms/f/factors-production.asp
+author: Jason Fernando
+---
+
+# Factors of Production Definition
+
+> ## Excerpt
+> Factors of production are the inputs needed for the creation of a good or service. The factors of production include land, labor, entrepreneurship, and capital.
+
+---
+
+How Factors of Production Work
+## What Are Factors of Production?
+
+Factors of production are the inputs needed for the creation of a good or service. The factors of production include land, labor, entrepreneurship, and capital.
+
+### Key Takeaways
+
+-   Factors of production is an economic term that describes the inputs used in the production of goods or services in order to make an economic profit.
+-   These include any resource needed for the creation of a good or service.
+-   The factors of production include land, labor, capital and entrepreneurship. The state of technological progress can influence the total factors of production and account for any efficiencies not related to the four typical factors.
+
+## The Basics of Factors of Production
+
+The modern definition of factors of production is primarily derived from a neoclassical view of economics. It amalgamates past approaches to economic theory, such as the concept of labor as a factor of production from socialism, into a single definition. 
+
+Land, labor, and capital as factors of production were originally identified by the early political [economists](https://www.investopedia.com/articles/07/economists.asp) such as Adam Smith, David Ricardo, and Karl Marx. Today, capital and labor remain the two primary inputs for the productive processes and the generation of profits by a business. Production, such as in manufacturing, can be tracked by certain indexes, including the [ISM Manufacturing Index](https://www.investopedia.com/terms/i/ism-mfg.asp).
+
+Image by Sabrina Jiang © Investopedia 2020
+
+### Land as a Factor
+
+Land has a broad definition as a factor of production and can take on various forms, from agricultural land to commercial real estate to the resources available from a particular piece of land. Natural resources, such as oil and gold, can be extracted and refined for human consumption from the land. Cultivation of crops on land by farmers increases its value and utility. For a group of early French economists called the physiocrats who pre-dated the [classical political economists](https://www.investopedia.com/terms/c/classicaleconomics.asp), the land was responsible for generating economic value.
+
+While the land is an essential component of most ventures, its importance can diminish or increase based on industry. For example, a technology company can easily begin operations with zero investment in land. On the other hand, the land is the most significant investment for a real estate venture.
+
+### Labor as a Factor
+
+Labor refers to the effort expended by an individual to bring a product or service to the market. Again, it can take on various forms. For example, the construction worker at a hotel site is part of labor as is the waiter who serves guests or the receptionist who enrolls them into the hotel.
+
+Within the [software industry](https://www.investopedia.com/articles/markets/050416/industry-handbook-software-industry.asp), labor refers to the work done by project managers and developers in building the final product. Even an artist involved in making art, whether it is a painting or a symphony, is considered labor.
+
+For the early political economists, [labor](https://www.investopedia.com/terms/l/labor-theory-of-value.asp) was the primary driver of economic value. Production workers are paid for their time and effort in wages that depend on their skill and training. Labor by an uneducated and untrained worker is typically paid at low prices. Skilled and trained workers are referred to as human capital and are paid higher wages because they bring more than their physical capacity to the task. For example, an accountant’s job requires synthesis and analysis of financial data for a company. Countries that are rich in human capital experience increased productivity and efficiency.
+
+The difference in skill levels and terminology also helps companies and entrepreneurs arbitrage corresponding disparities in pay scales. This can result in a transformation of factors of production for entire industries. An example of this is the change in production processes in the Information Technology (IT) industry after jobs were outsourced to countries with a trained workforce and significantly lower salaries.   
+
+### Capital as a Factor
+
+In economics, capital typically refers to money. But money is not a factor of production because it is not directly involved in producing a good or service. Instead, it facilitates the processes used in production by enabling entrepreneurs and company owners to purchase capital goods or land or pay wages. For modern mainstream ([neoclassical](https://www.investopedia.com/terms/n/neoclassical.asp)) economists, capital is the primary driver of value.
+
+As a factor of production, capital refers to the purchase of goods made with money in production. For example, a tractor purchased for farming is capital. Along the same lines, desks and chairs used in an office are also capital.
+
+It is important to distinguish personal and private capital in factors of production. A personal vehicle used to transport family is not considered a capital good. But a commercial vehicle that is expressly used for official purposes is considered a capital good. During an economic contraction or when they suffer losses, companies cut back on capital expenditure to ensure profits. During periods of economic expansion, however, they invest in new machinery and equipment to bring new products to market.
+
+An illustration of the above is the difference in markets for robots in China versus the United States after the financial crisis. China experienced a multiyear growth cycle after the crisis and its manufacturers invested in robots to improve productivity at their facilities and meet growing market demands. As a result, the country became the biggest market for robots. Manufacturers within the United States, which had been in the throes of an economic recession after the financial crisis, cut back on their investments related to production due to tepid demand.   
+
+### Entrepreneurship as a Factor
+
+Entrepreneurship is the secret sauce that combines all the other factors of production into a product or service for the consumer market. An example of entrepreneurship is the evolution of social media behemoth Facebook Inc. ([FB](https://www.investopedia.com/markets/quote?tvwidgetsymbol=fb)). [Mark Zuckerberg](https://www.investopedia.com/terms/m/mark-zuckerberg.asp) assumed the risk for the success or failure of his social media network when he began allocating time from his daily schedule towards that activity. At the time that he coded the minimum viable product himself, Zuckerberg’s labor was the only factor of production.
+
+After Facebook became popular and spread across campuses, Zuckerberg realized that he needed help to build the product and, along with co-founder Eduardo Saverin, recruited additional employees. He hired two people, an engineer (Dustin Moskovitz) and a spokesperson (Chris Hughes), who both allocated hours to the project, meaning that their invested time became a factor of production. The continued popularity of the product meant that Zuckerberg also had to scale technology and operations. He raised venture capital money to rent office space, hire more employees, and purchase additional server space for development.
+
+At first, there was no need for land. However, as business continued to grow, Facebook built its own office space and data centers. Each of these requires significant real estate and capital investments.
+
+Another example of entrepreneurship is Starbucks Corporation ([SBUX](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux)). The retail coffee chain needs all four factors of production: land (prime real estate in big cities for its coffee chain), capital (large machinery to produce and dispense coffee), and labor (employees at its retail outposts for service). The company’s founder Howard Schulz was the first person to realize that a market for such a chain existed and figured out the connections between the other three factors of production.
+
+While large companies make for excellent examples, a majority of companies within the United States are small businesses started by entrepreneurs. Because entrepreneurs are vital for economic growth, countries are creating the necessary framework and policies in order to make it easier for them to start companies.
+
+## Ownership of Factors of Production
+
+The definition of factors of production in economic systems presumes that ownership lies with households, who lend or lease them to entrepreneurs and organizations. But that is a theoretical construct and is rarely the case in practice. With the exception of labor, ownership for factors of production varies based on industry and economic system.
+
+For example, a firm operating in the real estate industry typically owns significant parcels of land. But retail corporations or shops lease land for extended periods of time. Capital also follows a similar model in that it can be owned or leased from another party. Under no circumstances, however, is labor owned by firms. Labor’s transaction with firms is based on wages.
+
+Ownership of the factors of production also differs based on the economic system. For example, private enterprise and individuals own most of the factors of production in capitalism. However, collective good is the predominating principle in socialism. As such, factors of production, such as land and capital, is owned and regulated by the community as a whole1 .
+
+## Special Considerations: Technology's Role in Production 
+
+While it is not directly listed as a factor, technology plays an important role in influencing production. In this context, technology has a fairly broad definition and can be used to refer to software, hardware, or a combination of both used to streamline organizational or manufacturing processes.
+
+Increasingly, technology is responsible for the difference in efficiency between firms. To that end, technology, like money, is a facilitator of the factors of production. The introduction of technology into a labor or capital process makes it more efficient. For example, the use of robots in manufacturing has the potential to improve productivity and output. Similarly, the use of kiosks in self-serve restaurants can help firms cut back on their labor costs.
+
+Typically, [Solow Residual](https://www.investopedia.com/terms/s/solow-residual.asp) or Total Factor Productivity (TFP), which measures the residual output that remains unaccounted for from the four factors of production, increases when technological processes or equipment are applied to production. Economists consider TFP to be the main factor driving economic growth for a country. The more a firm or country’s total factor productivity, the more its growth.
+
+## Frequently Asked Questions
+
+### What are the factors of production?
+
+The factors of production are an important economic concept outlining the elements needed to produce a good or a service for sale. They are commonly broken down into four elements: land, labor, capital, and entrepreneurship. However, commentators sometimes refer to labor and capital as the two primary factors of production. Depending on the specific circumstances, one or more factors of production might be more important than the others.
+
+### What are examples of the factors of production?
+
+Land refers to physical land, such as the acres used for a farm, or the city block on which a building is constructed. As such, land is a very important factor for enterprises that rely on real estate, such as farming or office buildings. Labor refers to all wage-earning activities, such as the work of professionals, retail workers, and so on. Entrepreneurship refers to the initiatives taken by entrepreneurs, who typically begin as the first workers in their firms and then gradually employ other factors of production to grow their businesses. Lastly, capital refers to the cash, equipment, and other assets needed to start or grow a business.
+
+### Are all factors of production equally important?
+
+Depending on the context, some factors of production might be more important than others. For example, a software company that relies primarily on the labor of skilled software engineers might see labor as its most valuable factor of production. By contrast, a company that makes its money from building and renting out office space might see land and capital as its most valuable factors. As the demands of a business change over time, the relative importance of the factors of production will also change accordingly.

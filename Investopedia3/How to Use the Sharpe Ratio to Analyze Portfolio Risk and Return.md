@@ -16,9 +16,9 @@ author: Jason Fernando
 How to Use the Sharpe Ratio to Analyze Portfolio Risk and Return
 ## What Is the Sharpe Ratio?
 
-The Sharpe ratio was developed by Nobel laureate [William F. Sharpe](https://www.investopedia.com/terms/w/william-f-sharpe.asp) and is used to help [investors](https://www.investopedia.com/terms/i/investor.asp) understand the [return of an investment](https://www.investopedia.com/terms/r/returnoninvestment.asp) compared to its risk.1 2 The ratio is the average return earned in excess of the risk-free rate per unit of [volatility](https://www.investopedia.com/terms/v/volatility.asp) or total risk. Volatility is a measure of the price fluctuations of an asset or portfolio.
+The Sharpe ratio was developed by Nobel laureate [[William F. Sharpe]](https://www.investopedia.com/terms/w/william-f-sharpe.asp) and is used to help [[investors]](https://www.investopedia.com/terms/i/investor.asp) understand the [[return of an investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) compared to its risk.1 2 The ratio is the average return earned in excess of the risk-free rate per unit of [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) or total risk. Volatility is a measure of the price fluctuations of an asset or portfolio.
 
-Subtracting the risk-free rate from the mean return allows an investor to better isolate the profits associated with risk-taking activities. [The risk-free rate of return](https://www.investopedia.com/articles/financial-theory/08/risk-free-rate-return.asp) is the return on an investment with zero risk, meaning it's the return investors could expect for taking no risk. The yield for a U.S. Treasury bond, for example, could be used as the risk-free rate.
+Subtracting the risk-free rate from the mean return allows an investor to better isolate the profits associated with risk-taking activities. [[The risk-free rate of return]](https://www.investopedia.com/articles/financial-theory/08/risk-free-rate-return.asp) is the return on an investment with zero risk, meaning it's the return investors could expect for taking no risk. The yield for a U.S. Treasury bond, for example, could be used as the risk-free rate.
 
 Generally, the greater the value of the Sharpe ratio, the more attractive the risk-adjusted return.
 
@@ -29,7 +29,7 @@ Sharpe Ratio\=Rp−Rfσpwhere:Rp\=return of portfolioRf\=risk-free rateσp\=
 The Sharpe ratio is calculated as follows:
 
 1.  Subtract the risk-free rate from the return of the portfolio. The risk-free rate could be a U.S. Treasury rate or yield, such as the one-year or two-year Treasury yield.
-2.  Divide the result by the standard deviation of the portfolio’s excess return. The [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) helps to show how much the portfolio's return deviates from the expected return. The standard deviation also sheds light on the portfolio's volatility.
+2.  Divide the result by the standard deviation of the portfolio’s excess return. The [[standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp) helps to show how much the portfolio's return deviates from the expected return. The standard deviation also sheds light on the portfolio's volatility.
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ The Sharpe ratio is calculated as follows:
 
 ## What the Sharpe Ratio Can Tell You
 
-The Sharpe ratio has become the most widely used method for calculating the risk-adjusted return. [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) states that adding assets to a diversified portfolio that has low correlations can decrease portfolio risk without sacrificing return.
+The Sharpe ratio has become the most widely used method for calculating the risk-adjusted return. [[Modern Portfolio Theory]](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) states that adding assets to a diversified portfolio that has low correlations can decrease portfolio risk without sacrificing return.
 
 Adding diversification should increase the Sharpe ratio compared to similar portfolios with a lower level of diversification. For this to be true, investors must also accept the assumption that risk is equal to volatility, which is not unreasonable but may be too narrow to be applied to all investments.
 
@@ -51,7 +51,7 @@ The greater a portfolio's Sharpe ratio, the better its risk-adjusted-performance
 
 ## Example of How to Use Sharpe Ratio
 
-The Sharpe ratio is often used to compare the change in overall risk-return characteristics when a new asset or asset class is added to a portfolio. For example, an investor is considering adding a [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) allocation to their existing portfolio that is currently split between stocks and bonds and has returned 15% over the last year. The current risk-free rate is 3.5%, and the volatility of the portfolio’s returns was 12%, which makes the Sharpe ratio of 95.8%, or (15% - 3.5%) divided by 12%.
+The Sharpe ratio is often used to compare the change in overall risk-return characteristics when a new asset or asset class is added to a portfolio. For example, an investor is considering adding a [[hedge fund]](https://www.investopedia.com/terms/h/hedgefund.asp) allocation to their existing portfolio that is currently split between stocks and bonds and has returned 15% over the last year. The current risk-free rate is 3.5%, and the volatility of the portfolio’s returns was 12%, which makes the Sharpe ratio of 95.8%, or (15% - 3.5%) divided by 12%.
 
 The investor believes that adding the hedge fund to the portfolio will lower the expected return to 11% for the coming year, but also expects the portfolio’s volatility to drop to 7%. They assume that the risk-free rate will remain the same over the coming year. Using the same formula, with the estimated future numbers, the investor finds the portfolio has the expected Sharpe ratio of 107%, or (11% - 3.5%) divided by 7%.
 
@@ -59,15 +59,15 @@ Here, the investor has shown that although the hedge fund investment is lowering
 
 ## The Difference Between Sharpe Ratio and Sortino Ratio
 
-A variation of the Sharpe ratio is the [Sortino ratio](https://www.investopedia.com/terms/s/sortinoratio.asp), which removes the effects of upward price movements on standard deviation to focus on the distribution of returns that are below the target or required return. The Sortino ratio also replaces the risk-free rate with the required return in the numerator of the formula, making the formula the return of the portfolio less the required return, divided by the distribution of returns below the target or required return.
+A variation of the Sharpe ratio is the [[Sortino ratio]](https://www.investopedia.com/terms/s/sortinoratio.asp), which removes the effects of upward price movements on standard deviation to focus on the distribution of returns that are below the target or required return. The Sortino ratio also replaces the risk-free rate with the required return in the numerator of the formula, making the formula the return of the portfolio less the required return, divided by the distribution of returns below the target or required return.
 
-Another variation of the Sharpe ratio is the [Treynor Ratio](https://www.investopedia.com/terms/t/treynorratio.asp) that uses a portfolio’s beta or correlation the portfolio has with the rest of the market. [Beta](https://www.investopedia.com/terms/b/beta.asp) is a measure of an investment's volatility and risk as compared to the overall market. The goal of the Treynor ratio is to determine whether an investor is being compensated for taking additional risk above the inherent risk of the market. The Treynor ratio formula is the return of the portfolio, minus the risk-free rate, divided by the portfolio’s beta.
+Another variation of the Sharpe ratio is the [[Treynor Ratio]](https://www.investopedia.com/terms/t/treynorratio.asp) that uses a portfolio’s beta or correlation the portfolio has with the rest of the market. [[Beta]](https://www.investopedia.com/terms/b/beta.asp) is a measure of an investment's volatility and risk as compared to the overall market. The goal of the Treynor ratio is to determine whether an investor is being compensated for taking additional risk above the inherent risk of the market. The Treynor ratio formula is the return of the portfolio, minus the risk-free rate, divided by the portfolio’s beta.
 
 ## Limitations of Using Sharpe Ratio
 
 The Sharpe ratio uses the standard deviation of returns in the denominator as its proxy of total portfolio risk, which assumes that returns are normally distributed. A normal distribution of data is like rolling a pair of dice. We know that over many rolls, the most common result from the dice will be seven, and the least common results will be two and twelve.
 
-However, returns in the [financial markets](https://www.investopedia.com/ask/answers/060515/what-are-some-examples-financial-markets-and-their-roles.asp) are skewed away from the average because of a large number of surprising drops or spikes in prices. Additionally, the standard deviation assumes that price movements in either direction are equally risky.
+However, returns in the [[financial markets]](https://www.investopedia.com/ask/answers/060515/what-are-some-examples-financial-markets-and-their-roles.asp) are skewed away from the average because of a large number of surprising drops or spikes in prices. Additionally, the standard deviation assumes that price movements in either direction are equally risky.
 
 The Sharpe ratio can be manipulated by portfolio managers seeking to boost their apparent risk-adjusted returns history. This can be done by lengthening the measurement interval. This will result in a lower estimate of volatility. For example, the annualized standard deviation of daily returns is generally higher than that of weekly returns which is, in turn, higher than that of monthly returns.
 

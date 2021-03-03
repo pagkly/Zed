@@ -28,7 +28,7 @@ Wall of worry is the financial markets' periodic tendency to surmount a host of 
 
 While a "wall of worry" may sometimes consist of a single economic, political or geopolitical issue significant enough to affect consumer and investor sentiment, it more commonly comprises concerns on numerous fronts. The markets' ability to climb a wall of worry reflects investor confidence that these issues will be resolved at some point. However, market direction once the wall of worry has been surmounted is impossible to ascertain and depends on the stage of the economic cycle at which it occurs.
 
-For example, the markets' ability to climb the wall of worry is most clearly discernible at the end of major [bear](https://www.investopedia.com/terms/b/bearmarket.asp) trends, which means that the markets may continue to advance once the wall has been surmounted. However, a continued advance is much less certain if the wall of worry forms near a major market peak, in which case a subsequent decline is more likely.
+For example, the markets' ability to climb the wall of worry is most clearly discernible at the end of major [[bear]](https://www.investopedia.com/terms/b/bearmarket.asp) trends, which means that the markets may continue to advance once the wall has been surmounted. However, a continued advance is much less certain if the wall of worry forms near a major market peak, in which case a subsequent decline is more likely.
 
 ## Climb the Wall of Worry or Take Profits?
 

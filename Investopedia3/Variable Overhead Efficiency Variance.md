@@ -18,7 +18,7 @@ Variable Overhead Efficiency Variance
 
 Variable overhead efficiency variance refers to the difference between the true time it takes to manufacture a product and the time budgeted for it, as well as the impact of that difference. It arises from variance in productive efficiency.
 
-For example, the number of labor hours taken to manufacture a certain amount of product may differ significantly from the standard or budgeted number of hours. Variable overhead [efficiency variance](https://www.investopedia.com/terms/e/efficiency-variance.asp) is one of the two components of total variable overhead variance, the other being variable overhead spending variance.
+For example, the number of labor hours taken to manufacture a certain amount of product may differ significantly from the standard or budgeted number of hours. Variable overhead [[efficiency variance]](https://www.investopedia.com/terms/e/efficiency-variance.asp) is one of the two components of total variable overhead variance, the other being variable overhead spending variance.
 
 ## Understanding Variable Overhead Efficiency Variance
 
@@ -30,4 +30,4 @@ The hourly rate in this formula includes such indirect labor costs as shop forem
 
 ## Example of Variable Overhead Efficiency Variance
 
-Consider an example of a widget-manufacturing plant, where the rate for standard variable overhead to account for indirect [labor costs](https://www.investopedia.com/articles/investing/020916/walmarts-biggest-liability-labor-costs-wmt.asp) is estimated at $20 per hour. Assume that the standard number of hours required to manufacture 1,000 widgets is 2,000 hours. However, the company actually took 2,200 hours to manufacture 1,000 widgets. In this case, the unfavorable variable overhead efficiency variance is (2,200 – 2,000) x $20 = $4,000; the variance is unfavorable because the company took more time than budgeted to produce the 1,000 widgets. If the company had instead taken 1,900 hours to manufacture 1,000 widgets, the variance would be favorable $2,000.
+Consider an example of a widget-manufacturing plant, where the rate for standard variable overhead to account for indirect [[labor costs]](https://www.investopedia.com/articles/investing/020916/walmarts-biggest-liability-labor-costs-wmt.asp) is estimated at $20 per hour. Assume that the standard number of hours required to manufacture 1,000 widgets is 2,000 hours. However, the company actually took 2,200 hours to manufacture 1,000 widgets. In this case, the unfavorable variable overhead efficiency variance is (2,200 – 2,000) x $20 = $4,000; the variance is unfavorable because the company took more time than budgeted to produce the 1,000 widgets. If the company had instead taken 1,900 hours to manufacture 1,000 widgets, the variance would be favorable $2,000.

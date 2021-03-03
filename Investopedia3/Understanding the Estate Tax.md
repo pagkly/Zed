@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding the Estate Tax
 ## What Is an Estate Tax?
 
-An estate tax is a levy on [estates](https://www.investopedia.com/terms/e/estate.asp) whose value exceeds an exclusion limit set by law. Only the amount that exceeds that minimum threshold is subject to tax. Assessed by the federal government and about a dozen state governments, these levies are calculated based on the estate's [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) (FMV) rather than what the deceased originally paid for its [assets](https://www.investopedia.com/terms/a/asset.asp). The tax is levied by the state in which the deceased person was living at the time of their death. 
+An estate tax is a levy on [[estates]](https://www.investopedia.com/terms/e/estate.asp) whose value exceeds an exclusion limit set by law. Only the amount that exceeds that minimum threshold is subject to tax. Assessed by the federal government and about a dozen state governments, these levies are calculated based on the estate's [fair market value](https://www.investopedia.com/terms/f/fairmarketvalue.asp) (FMV) rather than what the deceased originally paid for its [[assets]](https://www.investopedia.com/terms/a/asset.asp). The tax is levied by the state in which the deceased person was living at the time of their death. 
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ An estate tax is a levy on [estates](https://www.investopedia.com/terms/e/estate
 
 ## How Federal Estate Taxes Work
 
-Under what is known as the [unlimited marital deduction](https://www.investopedia.com/terms/u/unlimited-marital-deduction.asp), the estate tax does not apply to assets that will be transferred to a surviving spouse. However, when the surviving spouse who inherited an estate dies, the beneficiaries may then owe estate taxes if the estate exceeds the exclusion limit.
+Under what is known as the [[unlimited marital deduction]](https://www.investopedia.com/terms/u/unlimited-marital-deduction.asp), the estate tax does not apply to assets that will be transferred to a surviving spouse. However, when the surviving spouse who inherited an estate dies, the beneficiaries may then owe estate taxes if the estate exceeds the exclusion limit.
 
-For 2021, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) requires estates with combined gross assets and prior taxable gifts exceeding $11.7 million (up from $11.58 million for 2020) to file a federal estate tax return and [pay estate tax as required](https://www.investopedia.com/ask/answers/101315/are-estate-distributions-taxable.asp).1
+For 2021, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) requires estates with combined gross assets and prior taxable gifts exceeding $11.7 million (up from $11.58 million for 2020) to file a federal estate tax return and [[pay estate tax as required]](https://www.investopedia.com/ask/answers/101315/are-estate-distributions-taxable.asp).1
 
 In many instances, the effective U.S. estate tax rate is substantially lower than the top federal statutory rate of 37%.1 This happens in part because of the tax being assessed only on the portion of an estate that exceeds the exclusion limit.
 
@@ -39,31 +39,31 @@ In addition, estate holders and beneficiaries, or their attorneys, continually f
 
 ## How State Estate Taxes Work
 
-An estate that escapes federal tax may still be [subject to taxation](https://www.investopedia.com/articles/personal-finance/120715/estate-taxes-who-pays-what-and-how-much.asp) by the state in which the deceased person was living at the time of their death. That's because the exemptions for state and district estate taxes are all less than half those of the federal exclusion. That said, estates valued at less than $1,000,000 are not taxed in any jurisdiction.
+An estate that escapes federal tax may still be [[subject to taxation]](https://www.investopedia.com/articles/personal-finance/120715/estate-taxes-who-pays-what-and-how-much.asp) by the state in which the deceased person was living at the time of their death. That's because the exemptions for state and district estate taxes are all less than half those of the federal exclusion. That said, estates valued at less than $1,000,000 are not taxed in any jurisdiction.
 
 ### Jurisdictions With Estate Taxes
 
 Here are the jurisdictions that have estate taxes, with the threshold minimums at which they apply shown in parentheses. Click on the state's name for further information from the state government on its estate tax.
 
--   [Connecticut](https://portal.ct.gov/DRS/DRS-Forms/Current-Year-Forms/Estate-and-Gift-Tax-CT-706-Series) ($3,600,000)
--   [District of Columbia](https://otr.cfo.dc.gov/node/383922) ($5,600,000)
--   [Hawaii](https://tax.hawaii.gov/forms/a1_b3_4estate/) ($5,500,000)
+-   [[Connecticut]](https://portal.ct.gov/DRS/DRS-Forms/Current-Year-Forms/Estate-and-Gift-Tax-CT-706-Series) ($3,600,000)
+-   [[District of Columbia]](https://otr.cfo.dc.gov/node/383922) ($5,600,000)
+-   [[Hawaii]](https://tax.hawaii.gov/forms/a1_b3_4estate/) ($5,500,000)
 -   [Illinois](http://www.illinoisattorneygeneral.gov/publications/estatetax.html) ($4,000,000)
--   [Maine](https://www.maine.gov/revenue/incomeestate/estate/index.htm) ($5,600,000)
--   [Massachusetts](https://www.mass.gov/guides/a-guide-to-estate-taxes) ($1,000,000)
--   [Maryland](https://taxes.marylandtaxes.gov/Individual_Taxes/Individual_Tax_Types/Estate_and_Inheritance_Tax/) ($5,000,000)
--   [New York](https://www.tax.ny.gov/pit/estate/etidx.htm) ($5,000,000)
--   [Oregon](https://www.oregon.gov/DOR/programs/individuals/Pages/estate.aspx) ($1,000,000)
--   [Minnesota](https://www.revenue.state.mn.us/estate-tax) ($2,700,000)
+-   [[Maine]](https://www.maine.gov/revenue/incomeestate/estate/index.htm) ($5,600,000)
+-   [[Massachusetts]](https://www.mass.gov/guides/a-guide-to-estate-taxes) ($1,000,000)
+-   [[Maryland]](https://taxes.marylandtaxes.gov/Individual_Taxes/Individual_Tax_Types/Estate_and_Inheritance_Tax/) ($5,000,000)
+-   [[New York]](https://www.tax.ny.gov/pit/estate/etidx.htm) ($5,000,000)
+-   [[Oregon]](https://www.oregon.gov/DOR/programs/individuals/Pages/estate.aspx) ($1,000,000)
+-   [[Minnesota]](https://www.revenue.state.mn.us/estate-tax) ($2,700,000)
 -   [Rhode Island](http://www.tax.ri.gov/) ($1,561,719)
--   [Vermont](https://tax.vermont.gov/individuals/estate-and-fiduciary-taxes) ($2,750,000)
--   [Washington State](https://dor.wa.gov/find-taxes-rates/other-taxes/estate-tax) ($2,193,000).
+-   [[Vermont]](https://tax.vermont.gov/individuals/estate-and-fiduciary-taxes) ($2,750,000)
+-   [[Washington State]](https://dor.wa.gov/find-taxes-rates/other-taxes/estate-tax) ($2,193,000).
 
 Above those thresholds, the tax is usually assessed on a sliding basis, much like the brackets for income tax. In 2019, the tax rate is typically 10% or so for amounts just over the threshold, and rises in steps, usually to 16%. The tax is lowest in Connecticut, where it begins at 7.80% and rises to 12%, and highest in Washington State, where it tops out at 19%.
 
 ## The Relationship Between Estate Tax and Gift Tax
 
-Since estate taxes are levied on an individual's assets and estate after death, they can be avoided if you gift assets before you die. However, the federal [gift tax](https://www.investopedia.com/terms/g/gifttax.asp) applies to assets that are given away in excess of certain limits while the [taxpayer](https://www.investopedia.com/terms/t/taxpayer.asp) is living. According to the IRS, the gift tax applies whether the donor meant the transfer as a gift or not. 
+Since estate taxes are levied on an individual's assets and estate after death, they can be avoided if you gift assets before you die. However, the federal [[gift tax]](https://www.investopedia.com/terms/g/gifttax.asp) applies to assets that are given away in excess of certain limits while the [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp) is living. According to the IRS, the gift tax applies whether the donor meant the transfer as a gift or not. 
 
 However, the IRS offers generous gift exclusions. In 2019, the annual exclusion is $15,000, meaning tax filers can give away up to $15,000 to each and every person they wish without paying tax on any of those gifts. And they may offer gifts up to the value of the gift exclusion year after year without incurring tax. These provisions make gifting an effective way to avoid tax on assets transferred to people, such as non-family members, who might be subject to the estate tax if the assets were transferred as part of an estate.
 
@@ -73,7 +73,7 @@ The estate tax is sometimes referred to pejoratively as a "death tax" since it i
 
 ## The Difference Between Estate Tax and Inheritance Tax
 
-An estate tax is applied to an estate before the assets are given to [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp). In contrast, an [inheritance](https://www.investopedia.com/terms/i/inheritance.asp) tax applies to assets after they have been inherited, and are paid by the inheritor.
+An estate tax is applied to an estate before the assets are given to [[beneficiaries]](https://www.investopedia.com/terms/b/beneficiary.asp). In contrast, an [[inheritance]](https://www.investopedia.com/terms/i/inheritance.asp) tax applies to assets after they have been inherited, and are paid by the inheritor.
 
 There is no federal inheritance tax, however, and only select states (as of 2019, Iowa, Kentucky, Maryland, Nebraska, New Jersey, and Pennsylvania) still have their own inheritance taxes. Maryland alone has both an estate and an inheritance tax.
 
@@ -89,11 +89,11 @@ The inheritance tax is assessed by the state in which the inheritor is living.
 
 Here are the jurisdictions that have inheritance taxes, with their threshold minimums shown in parentheses. Click on the state's name for further information on its inheritance tax from the state government.
 
--   [Iowa](https://tax.iowa.gov/inheritance) ($25,000)
--   [Kentucky](https://revenue.ky.gov/Individual/Inheritance-Estate-Tax/Pages/default.aspx) ($500-$1,000)
--   [Maryland](https://taxes.marylandtaxes.gov/Individual_Taxes/Individual_Tax_Types/Estate_and_Inheritance_Tax/) ($30,000)
--   [Nebraska](https://nebraskalegislature.gov/laws/statutes.php?statute=77-2001) ($10,000 -$40,000)
--   [New Jersey](https://www.state.nj.us/treasury/taxation/inheritance-estate/inheritance.shtml) (None to $25,000)
--   [Pennsylvania](https://www.revenue.pa.gov/GeneralTaxInformation/Tax%20Types%20and%20Information/InheritanceTax/Pages/default.aspx) (None to $3,500)
+-   [[Iowa]](https://tax.iowa.gov/inheritance) ($25,000)
+-   [[Kentucky]](https://revenue.ky.gov/Individual/Inheritance-Estate-Tax/Pages/default.aspx) ($500-$1,000)
+-   [[Maryland]](https://taxes.marylandtaxes.gov/Individual_Taxes/Individual_Tax_Types/Estate_and_Inheritance_Tax/) ($30,000)
+-   [[Nebraska]](https://nebraskalegislature.gov/laws/statutes.php?statute=77-2001) ($10,000 -$40,000)
+-   [[New Jersey]](https://www.state.nj.us/treasury/taxation/inheritance-estate/inheritance.shtml) (None to $25,000)
+-   [[Pennsylvania]](https://www.revenue.pa.gov/GeneralTaxInformation/Tax%20Types%20and%20Information/InheritanceTax/Pages/default.aspx) (None to $3,500)
 
-Because the rates for estate tax can be quite high, careful [estate planning](https://www.investopedia.com/terms/e/estateplanning.asp) is advisable for individuals who have estates worth millions of dollars that they want to leave to [heirs](https://www.investopedia.com/terms/h/heir.asp) or other beneficiaries.
+Because the rates for estate tax can be quite high, careful [[estate planning]](https://www.investopedia.com/terms/e/estateplanning.asp) is advisable for individuals who have estates worth millions of dollars that they want to leave to [[heirs]](https://www.investopedia.com/terms/h/heir.asp) or other beneficiaries.

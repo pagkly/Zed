@@ -16,7 +16,7 @@ author: James Chen
 What Is a Go-Go Fund?
 ## What Is a Go-Go Fund?
 
-Go-go fund is a slang name for a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) that has an investment strategy focused on high-risk securities in an attempt to capture above average returns. A go-go fund's aggressive approach usually involves holding large positions in [growth stocks](https://www.investopedia.com/terms/g/growthstock.asp). Growth stocks offer higher risks, but also higher potential returns.
+Go-go fund is a slang name for a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp) that has an investment strategy focused on high-risk securities in an attempt to capture above average returns. A go-go fund's aggressive approach usually involves holding large positions in [[growth stocks]](https://www.investopedia.com/terms/g/growthstock.asp). Growth stocks offer higher risks, but also higher potential returns.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Go-go funds entice investors by promising large, abnormal returns created from s
 
 In that decade, investors flocked to the stock market in unprecedented numbers. Over the course of 10 years, investments in mutual funds more than tripled. By the end of the decade, 31 million Americans owned some form of stock.1 Mutual funds had only recently become available to investors, and many people wanted to capture a piece of the new and exciting financial markets.
 
-Enthusiastic investment in Wall Street contributed to a thriving [bull market](https://www.investopedia.com/terms/b/bullmarket.asp). Investors were extremely confident their investments would continue to grow. This sometimes misplaced confidence contributed to the appeal of so-called go-go funds. These funds may have provided some investors with superior profits, but they also came with a great deal of risk. In order to achieve high rates of return, these funds often made [speculative](https://www.investopedia.com/terms/s/speculativecompany.asp) investments, which did not always pan out.
+Enthusiastic investment in Wall Street contributed to a thriving [[bull market]](https://www.investopedia.com/terms/b/bullmarket.asp). Investors were extremely confident their investments would continue to grow. This sometimes misplaced confidence contributed to the appeal of so-called go-go funds. These funds may have provided some investors with superior profits, but they also came with a great deal of risk. In order to achieve high rates of return, these funds often made [[speculative]](https://www.investopedia.com/terms/s/speculativecompany.asp) investments, which did not always pan out.
 
 ## Special Considerations
 
@@ -40,4 +40,4 @@ In his book _The Go-Go Years: The Drama and Crashing Finale of Wall Street's Bul
 
 ## Consequences of Go-Go Funds
 
-Go-go funds grew less popular after the stock market crashes of the 1970s, as investors grew warier of speculative investments and promises of elevated returns. After some notable cases, the Securities and Exchange Commission clarified rules about fraud and stock valuation that made it more difficult for go-go funds to promise inflated returns. Furthermore, the stock market rockiness following the go-go years also contributed to a growing interest in investment [diversification](https://www.investopedia.com/terms/d/diversification.asp).
+Go-go funds grew less popular after the stock market crashes of the 1970s, as investors grew warier of speculative investments and promises of elevated returns. After some notable cases, the Securities and Exchange Commission clarified rules about fraud and stock valuation that made it more difficult for go-go funds to promise inflated returns. Furthermore, the stock market rockiness following the go-go years also contributed to a growing interest in investment [[diversification]](https://www.investopedia.com/terms/d/diversification.asp).

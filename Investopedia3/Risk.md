@@ -16,11 +16,11 @@ author: James Chen
 Risk
 ## What Is Risk?
 
-Risk is defined in financial terms as the chance that an outcome or investment's actual gains will differ from an expected outcome or [return](https://www.investopedia.com/terms/r/roys-safety-first-criterion.asp). Risk includes the possibility of losing some or all of an original investment.
+Risk is defined in financial terms as the chance that an outcome or investment's actual gains will differ from an expected outcome or [[return]](https://www.investopedia.com/terms/r/roys-safety-first-criterion.asp). Risk includes the possibility of losing some or all of an original investment.
 
-Quantifiably, risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. [Standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) provides a measure of the volatility of asset prices in comparison to their historical averages in a given time frame.
+Quantifiably, risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. [[Standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp) provides a measure of the volatility of asset prices in comparison to their historical averages in a given time frame.
 
-Overall, it is possible and prudent to manage [investing risks](https://www.investopedia.com/terms/f/financial-exposure.asp) by understanding the basics of risk and how it is measured. Learning the risks that can apply to different scenarios and some of the ways to manage them holistically will help all types of investors and business managers to avoid unnecessary and costly losses.
+Overall, it is possible and prudent to manage [[investing risks]](https://www.investopedia.com/terms/f/financial-exposure.asp) by understanding the basics of risk and how it is measured. Learning the risks that can apply to different scenarios and some of the ways to manage them holistically will help all types of investors and business managers to avoid unnecessary and costly losses.
 
 #### Understanding Risk And Time Horizon
 
@@ -30,9 +30,9 @@ Everyone is exposed to some type of risk every day – whether it’s from drivi
 
 A fundamental idea in finance is the relationship between risk and return. The greater the amount of risk an investor is willing to take, the greater the potential return. Risks can come in various ways and investors need to be compensated for taking on additional risk. For example, a U.S. [Treasury bond](https://www.investopedia.com/terms/t/treasurybond.asp) is considered one of the safest investments and when compared to a [corporate bond](https://www.investopedia.com/terms/c/corporatebond.asp), provides a lower rate of return. A corporation is much more likely to go bankrupt than the U.S. government. Because the default risk of investing in a corporate bond is higher, investors are offered a higher rate of return.2
 
-Quantifiably, risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. [Standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) provides a measure of the volatility of a value in comparison to its historical average. A high standard deviation indicates a lot of value volatility and therefore a high degree of risk.
+Quantifiably, risk is usually assessed by considering historical behaviors and outcomes. In finance, standard deviation is a common metric associated with risk. [[Standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp) provides a measure of the volatility of a value in comparison to its historical average. A high standard deviation indicates a lot of value volatility and therefore a high degree of risk.
 
-Individuals, financial advisors, and companies can all develop [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp) strategies to help manage risks associated with their investments and business activities. Academically, there are several theories, metrics, and strategies that have been identified to measure, analyze, and manage risks. Some of these include: standard deviation, beta, Value at Risk (VaR), and the Capital Asset Pricing Model (CAPM). Measuring and quantifying risk often allows investors, traders, and business managers to hedge some risks away by using various strategies including diversification and derivative positions.
+Individuals, financial advisors, and companies can all develop [[risk management]](https://www.investopedia.com/terms/r/riskmanagement.asp) strategies to help manage risks associated with their investments and business activities. Academically, there are several theories, metrics, and strategies that have been identified to measure, analyze, and manage risks. Some of these include: standard deviation, beta, Value at Risk (VaR), and the Capital Asset Pricing Model (CAPM). Measuring and quantifying risk often allows investors, traders, and business managers to hedge some risks away by using various strategies including diversification and derivative positions.
 
 ### Key Takeaways
 
@@ -45,9 +45,9 @@ Individuals, financial advisors, and companies can all develop [risk management]
 
 While it is true that no investment is fully free of all possible risks, certain securities have so little practical risk that they are considered risk-free or riskless.
 
-Riskless securities often form a baseline for analyzing and measuring risk. These types of investments offer an expected rate of return with very little or no risk. Oftentimes, all types of investors will look to these securities for preserving emergency savings or for [holding assets](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) that need to be immediately accessible.
+Riskless securities often form a baseline for analyzing and measuring risk. These types of investments offer an expected rate of return with very little or no risk. Oftentimes, all types of investors will look to these securities for preserving emergency savings or for [[holding assets]](https://www.investopedia.com/terms/a/asset-liabilitymanagement.asp) that need to be immediately accessible.
 
-Examples of riskless investments and securities include [certificates of deposits](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs), government money market accounts, and U.S. Treasury bills.3 The 30-day U.S. Treasury bill is generally viewed as the baseline, risk-free security for financial modeling. It is backed by the full faith and credit of the U.S. government, and, given its relatively short maturity date, has minimal interest rate exposure.4 5
+Examples of riskless investments and securities include [[certificates of deposits]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs), government money market accounts, and U.S. Treasury bills.3 The 30-day U.S. Treasury bill is generally viewed as the baseline, risk-free security for financial modeling. It is backed by the full faith and credit of the U.S. government, and, given its relatively short maturity date, has minimal interest rate exposure.4 5
 
 ## Risk and Time Horizons
 
@@ -61,7 +61,7 @@ Morningstar is one of the premier objective agencies that affixes risk ratings t
 
 ## Types of Financial Risk
 
-Every saving and investment action involves different risks and returns. In general, financial theory classifies investment risks affecting asset values into two categories: [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp) and [unsystematic risk](https://www.investopedia.com/terms/u/unsystematicrisk.asp). Broadly speaking, investors are exposed to both systematic and unsystematic risks. 
+Every saving and investment action involves different risks and returns. In general, financial theory classifies investment risks affecting asset values into two categories: [[systematic risk]](https://www.investopedia.com/terms/s/systematicrisk.asp) and [[unsystematic risk]](https://www.investopedia.com/terms/u/unsystematicrisk.asp). Broadly speaking, investors are exposed to both systematic and unsystematic risks. 
 
 Systematic risks, also known as market risks, are risks that can affect an entire economic market overall or a large percentage of the total market. Market risk is the risk of losing investments due to factors, such as political risk and macroeconomic risk, that affect the performance of the overall market. Market risk cannot be easily mitigated through portfolio diversification. Other common types of systematic risk can include interest rate risk, inflation risk, currency risk, liquidity risk, country risk, and sociopolitical risk.
 
@@ -75,7 +75,7 @@ In addition to the broad systematic and unsystematic risks, there are several sp
 
 ### Credit or Default Risk
 
-[Credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) is the risk that a borrower will be unable to pay the contractual interest or principal on its debt obligations. This type of risk is particularly concerning to investors who hold bonds in their portfolios. [Government bonds](https://www.investopedia.com/terms/g/governmentsecurity.asp), especially those issued by the federal government, have the least amount of default risk and, as such, the lowest returns. [Corporate bonds](https://www.investopedia.com/terms/c/corporatebond.asp), on the other hand, tend to have the highest amount of default risk, but also higher interest rates. Bonds with a lower chance of default are considered [investment grade](https://www.investopedia.com/terms/i/investmentgrade.asp), while bonds with higher chances are considered high yield or [junk bonds](https://www.investopedia.com/terms/j/junkbond.asp). Investors can use [bond rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp)—such as Standard and Poor’s, Fitch and Moody's—to determine which bonds are investment-grade and which are junk.2
+[Credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) is the risk that a borrower will be unable to pay the contractual interest or principal on its debt obligations. This type of risk is particularly concerning to investors who hold bonds in their portfolios. [Government bonds](https://www.investopedia.com/terms/g/governmentsecurity.asp), especially those issued by the federal government, have the least amount of default risk and, as such, the lowest returns. [Corporate bonds](https://www.investopedia.com/terms/c/corporatebond.asp), on the other hand, tend to have the highest amount of default risk, but also higher interest rates. Bonds with a lower chance of default are considered [investment grade](https://www.investopedia.com/terms/i/investmentgrade.asp), while bonds with higher chances are considered high yield or [[junk bonds]](https://www.investopedia.com/terms/j/junkbond.asp). Investors can use [bond rating agencies](https://www.investopedia.com/terms/b/bond-rating-agencies.asp)—such as Standard and Poor’s, Fitch and Moody's—to determine which bonds are investment-grade and which are junk.2
 
 ### Country Risk
 
@@ -95,7 +95,7 @@ When investing in foreign countries, it’s important to consider the fact that 
 
 ### Counterparty Risk
 
-Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its [contractual obligation](https://www.investopedia.com/terms/f/forwardcontract.asp). Counterparty risk can exist in credit, investment, and trading transactions, especially for those occurring in over-the-counter (OTC) markets. Financial investment products such as stocks, options, bonds, and derivatives carry counterparty risk.
+Counterparty risk is the likelihood or probability that one of those involved in a transaction might default on its [[contractual obligation]](https://www.investopedia.com/terms/f/forwardcontract.asp). Counterparty risk can exist in credit, investment, and trading transactions, especially for those occurring in over-the-counter (OTC) markets. Financial investment products such as stocks, options, bonds, and derivatives carry counterparty risk.
 
 ### Liquidity Risk
 
@@ -129,4 +129,4 @@ Keep in mind that portfolio diversification is not a one-time task. Investors an
 
 We all face risks every day—whether we’re driving to work, surfing a 60-foot wave, investing, or managing a business. In the financial world, risk refers to the chance that an investment’s actual return will differ from what is expected – the possibility that an investment won’t do as well as you’d like, or that you’ll end up losing money.
 
-The most effective way to [manage investing risk](https://www.investopedia.com/ask/answers/040315/what-difference-between-risk-avoidance-and-risk-reduction.asp) is through regular risk assessment and diversification. Although diversification won’t ensure gains or guarantee against losses, it does provide the potential to improve returns based on your goals and target level of risk. Finding the right balance between risk and return helps investors and business managers achieve their financial goals through investments that they can be most comfortable with.
+The most effective way to [[manage investing risk]](https://www.investopedia.com/ask/answers/040315/what-difference-between-risk-avoidance-and-risk-reduction.asp) is through regular risk assessment and diversification. Although diversification won’t ensure gains or guarantee against losses, it does provide the potential to improve returns based on your goals and target level of risk. Finding the right balance between risk and return helps investors and business managers achieve their financial goals through investments that they can be most comfortable with.

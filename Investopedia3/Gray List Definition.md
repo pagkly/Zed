@@ -16,7 +16,7 @@ author: Julia Kagan
 Gray List Definition
 ## What Is a Gray List?
 
-A gray list is a list of stocks that are ineligible for trade by an investment bank's [risk arbitrage](https://www.investopedia.com/terms/r/riskarbitrage.asp) division. Securities on the gray list aren’t necessarily exceptionally risky or otherwise inherently flawed, but are nonetheless restricted. In such cases, the gray list can include those firms working with the investment bank, often in matters of mergers and acquisitions. Once the firms in question have completed this business, the stocks may be taken off the gray list, allowing the bank to trade them once again.
+A gray list is a list of stocks that are ineligible for trade by an investment bank's [[risk arbitrage]](https://www.investopedia.com/terms/r/riskarbitrage.asp) division. Securities on the gray list aren’t necessarily exceptionally risky or otherwise inherently flawed, but are nonetheless restricted. In such cases, the gray list can include those firms working with the investment bank, often in matters of mergers and acquisitions. Once the firms in question have completed this business, the stocks may be taken off the gray list, allowing the bank to trade them once again.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ A gray list is a list of stocks that are ineligible for trade by an investment b
 
 Risk arbitrage an investment strategy that seeks to profit from proposed mergers and acquisitions. In particular, the strategy tries to take advantage of potential for a narrowing of the gap of the trading price of a target's stock and the acquirer's valuation of that stock in an intended takeover deal. In a [stock-for-stock](https://www.investopedia.com/terms/s/stockforstock.asp) merger, risk arbitrage involves buying the shares of the target and selling short the shares of the acquirer. This investment strategy will be profitable if the deal is consummated; if it is not, the investor will lose money.
 
-The gray list is intended to safeguard a bank’s interests by keeping it from investing in stocks that currently carry an inherent amount of risk. The outcome of a [merger](https://www.investopedia.com/terms/m/merger.asp) or acquisition will typically influence the value of shares issued by any of the firms involved in the deal. The influence of such a business deal on the price of a stock can be either positive or negative, so stocks are placed on the gray list until the deal is complete and its impact can be accurately assessed.
+The gray list is intended to safeguard a bank’s interests by keeping it from investing in stocks that currently carry an inherent amount of risk. The outcome of a [[merger]](https://www.investopedia.com/terms/m/merger.asp) or acquisition will typically influence the value of shares issued by any of the firms involved in the deal. The influence of such a business deal on the price of a stock can be either positive or negative, so stocks are placed on the gray list until the deal is complete and its impact can be accurately assessed.
 
 ## Confidentiality of the Gray List
 

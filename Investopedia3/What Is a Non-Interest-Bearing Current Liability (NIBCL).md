@@ -18,7 +18,7 @@ What Is a Non-Interest-Bearing Current Liability (NIBCL)?
 
 A non-interest-bearing current liability (NIBCL) is a category of expenses that an individual or a company must pay off within the calendar year but will not owe interest on. Taxes that do not include late penalties as well as accounts payable are examples of NIBCLs that can be found on a company's balance sheet.
 
-NIBCLs are listed on a balance sheet under the liabilities column, in the [current liabilities](https://www.investopedia.com/terms/c/currentliabilities.asp) section.
+NIBCLs are listed on a balance sheet under the liabilities column, in the [[current liabilities]](https://www.investopedia.com/terms/c/currentliabilities.asp) section.
 
 ## Understanding NIBCL
 

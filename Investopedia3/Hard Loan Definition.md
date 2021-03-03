@@ -16,7 +16,7 @@ author: Adam Hayes
 Hard Loan Definition
 ## What Is a Hard Loan?
 
-A hard loan is a foreign loan that must be paid in [hard currency](https://www.investopedia.com/terms/h/hardcurrency.asp), which is the currency of a nation that has political stability and a reputation for economic strength. For example, a country classified as a developing country may borrow via a hard loan [denominated](https://www.investopedia.com/terms/d/denomination.asp) in U.S. dollars.
+A hard loan is a foreign loan that must be paid in [[hard currency]](https://www.investopedia.com/terms/h/hardcurrency.asp), which is the currency of a nation that has political stability and a reputation for economic strength. For example, a country classified as a developing country may borrow via a hard loan [[denominated]](https://www.investopedia.com/terms/d/denomination.asp) in U.S. dollars.
 
 ### Key Takeaways
 
@@ -26,13 +26,13 @@ A hard loan is a foreign loan that must be paid in [hard currency](https://www.i
 
 ## How a Hard Loan Works
 
-A hard loan is a type of loan between a lender and borrower occurring in two different counties, and which is denominated in the hard currency. Hard currency refers to a monetary system or [reserve currency](https://www.investopedia.com/terms/r/reservecurrency.asp) that is widely accepted around the world as a form of payment for goods and services. It usually comes from a country that has strong economic and political standing, and it may not be the currency of either the borrower or the lender. A hard loan substantially reduces the risk that would exist if the loan were denominated in less-stable currencies.
+A hard loan is a type of loan between a lender and borrower occurring in two different counties, and which is denominated in the hard currency. Hard currency refers to a monetary system or [[reserve currency]](https://www.investopedia.com/terms/r/reservecurrency.asp) that is widely accepted around the world as a form of payment for goods and services. It usually comes from a country that has strong economic and political standing, and it may not be the currency of either the borrower or the lender. A hard loan substantially reduces the risk that would exist if the loan were denominated in less-stable currencies.
 
 There are some risks, however. If the borrower's home currency falls dramatically against the hard currency they may have great difficulty repaying the loan. For instance, if a Brazilian manufacturer takes out a hard loan denominated in euros, and the euro strengthens by 20% against the _real_ over the life of the loan, it will effectively increase the interest rate on the loan by 20%, as well as the principal amount.
 
 ## Forex Considerations on Hard Loans
 
-What allows a currency to qualify as hard? It is expected to remain relatively stable through a short period of time and to be highly liquid in the foreign exchange—or [forex](https://www.investopedia.com/terms/f/forex.asp) (FX)—market, in which currencies are traded. The forex market is the largest, most liquid market in the world, with average traded values of trillions of dollars per day.1 It includes all of the currencies in the world.
+What allows a currency to qualify as hard? It is expected to remain relatively stable through a short period of time and to be highly liquid in the foreign exchange—or [[forex]](https://www.investopedia.com/terms/f/forex.asp) (FX)—market, in which currencies are traded. The forex market is the largest, most liquid market in the world, with average traded values of trillions of dollars per day.1 It includes all of the currencies in the world.
 
 Forex transactions take place on either a spot or forward basis and are executed over the counter and around the clock. There is no centralized market for forex transactions. The largest foreign exchange markets are located in major financial centers, such as London, New York, Singapore, Tokyo, Frankfurt, Hong Kong, and Sydney.2
 

@@ -16,7 +16,7 @@ author: James Chen
 What Is a Stock Screener?
 ## What is A Stock Screener?
 
-A stock screener is a set of tools that allow investors to quickly sort through the myriad of available stocks (and increasingly ETFs—see [ETFDB.com](https://etfdb.com/)) according to the investor’s own criteria. Stock screeners are most typically available on brokerage trading platforms (usually free), but there are also some independent subscription-based stock screeners available. Stock screeners allow investors to employ their own methodology about what makes a stock/ETF valuable (longer-term traders) or spot a potential trading opportunity (shorter-term traders). 
+A stock screener is a set of tools that allow investors to quickly sort through the myriad of available stocks (and increasingly ETFs—see [[ETFDB.com]](https://etfdb.com/)) according to the investor’s own criteria. Stock screeners are most typically available on brokerage trading platforms (usually free), but there are also some independent subscription-based stock screeners available. Stock screeners allow investors to employ their own methodology about what makes a stock/ETF valuable (longer-term traders) or spot a potential trading opportunity (shorter-term traders). 
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A stock screener is a set of tools that allow investors to quickly sort through 
 
 ## How Stock Screeners Work
 
-Stock screeners allow investors to weed through the extensive field of potential financial investments using their own criteria. Users begin the process by selecting certain investing parameters, based on their personal requirements. For example, a fundamental investor may be most interested in market capitalization, analyst recommendations, [EPS](https://www.investopedia.com/terms/e/eps.asp), operating cash flow, multi-year [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp), dividend yield, and the like. A technical trader would be more interested in moving average levels/crossovers, [RSI](https://www.investopedia.com/terms/r/rsi.asp) levels to indicate momentum, [ADX](https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) readings to indicate strength, and chart patterns, among others.
+Stock screeners allow investors to weed through the extensive field of potential financial investments using their own criteria. Users begin the process by selecting certain investing parameters, based on their personal requirements. For example, a fundamental investor may be most interested in market capitalization, analyst recommendations, [[EPS]](https://www.investopedia.com/terms/e/eps.asp), operating cash flow, multi-year [[ROI]](https://www.investopedia.com/terms/r/returnoninvestment.asp), dividend yield, and the like. A technical trader would be more interested in moving average levels/crossovers, [[RSI]](https://www.investopedia.com/terms/r/rsi.asp) levels to indicate momentum, [[ADX]](https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) readings to indicate strength, and chart patterns, among others.
 
 The more criteria the user adds, the smaller the pool of potential securities to invest in becomes. The bottom line is that stock screeners typically have something for every investor and should be used to see what type of information is available before entering a trade or investment.
 

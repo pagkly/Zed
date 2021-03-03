@@ -18,7 +18,7 @@ Rate-and-Term Refinance
 
 A rate-and-term refinance changes the interest rate, the term—or both the rate and the term—of an existing mortgage without advancing any new money. It is also known as a “[no cash-out refinance](https://www.investopedia.com/terms/n/no_cash-out_refinance.asp).”
 
-This differs from a [cash-out refinance](https://www.investopedia.com/terms/c/cashout_refinance.asp), in which new money is advanced on the loan and the borrower receives cash at the closing in addition to their new loan. Rate-and-term refinances often carry lower interest rates than cash-out refinances.
+This differs from a [[cash-out refinance]](https://www.investopedia.com/terms/c/cashout_refinance.asp), in which new money is advanced on the loan and the borrower receives cash at the closing in addition to their new loan. Rate-and-term refinances often carry lower interest rates than cash-out refinances.
 
 ### Key Takeaways
 
@@ -36,19 +36,19 @@ Because there are advantages and disadvantages associated with both rate-and-ter
 
 ## Requirements for Rate-and-Term Refinancing
 
-For rate-and-term refinancing to work, lower interest rates must be available to the borrower. There are two main reasons why this might not be the case. The first is that interest rates in the overall economy can go up during the application process, making them no longer available. This is one of the many [factors influencing interest rates](https://www.investopedia.com/insights/forces-behind-interest-rates/) over which borrowers have no control.
+For rate-and-term refinancing to work, lower interest rates must be available to the borrower. There are two main reasons why this might not be the case. The first is that interest rates in the overall economy can go up during the application process, making them no longer available. This is one of the many [[factors influencing interest rates]](https://www.investopedia.com/insights/forces-behind-interest-rates/) over which borrowers have no control.
 
-However, you do have some control over your [consumer credit](https://www.investopedia.com/terms/c/consumercredit.asp). If you have defaulted on credit cards or mortgage payments, you will probably face higher interest rates. These personal factors are usually more important than market interest rates. On the other hand, if your credit has improved substantially, you may be able to refinance at a lower interest rate.
+However, you do have some control over your [[consumer credit]](https://www.investopedia.com/terms/c/consumercredit.asp). If you have defaulted on credit cards or mortgage payments, you will probably face higher interest rates. These personal factors are usually more important than market interest rates. On the other hand, if your credit has improved substantially, you may be able to refinance at a lower interest rate.
 
 Cash-out refinancing increases the principal owed on your mortgage.
 
 ## Rate-and-Term Refinancing vs. Other Options
 
-Cash-out refinancing takes [equity](https://www.investopedia.com/terms/h/home_equity.asp) from your home for you to use. It works best when the overall value of the property has increased because of rising real estate values. However, cash-out refinancing can also be done if you are well along in the mortgage and have paid in a significant part of its equity. A cash-out refinancing increases the principal owed on your mortgage.
+Cash-out refinancing takes [[equity]](https://www.investopedia.com/terms/h/home_equity.asp) from your home for you to use. It works best when the overall value of the property has increased because of rising real estate values. However, cash-out refinancing can also be done if you are well along in the mortgage and have paid in a significant part of its equity. A cash-out refinancing increases the principal owed on your mortgage.
 
 This form of refinancing might call for a re-appraisal of the home to gauge its new value. You might seek such refinancing to gain access to capital from the value of the house, money you otherwise might not see until the home was sold. A converse option called “cash-in refinancing” involves putting more money toward the settlement of the mortgage to reduce any remaining principal.
 
-When considering any of these options, it is important to calculate all the [implications](https://www.investopedia.com/mortgage/refinance/cash-out-vs-mortgage-refinancing-loans/) carefully and see how they compare to keeping your current mortgage.
+When considering any of these options, it is important to calculate all the [[implications]](https://www.investopedia.com/mortgage/refinance/cash-out-vs-mortgage-refinancing-loans/) carefully and see how they compare to keeping your current mortgage.
 
 ## Examples of Rate-and-Term Refinancing
 

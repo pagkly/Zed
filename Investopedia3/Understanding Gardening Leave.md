@@ -16,7 +16,7 @@ author: Julia Kagan
 Understanding Gardening Leave
 ## What Is Gardening Leave?
 
-A gardening leave refers to the period of time during which an employee stays away from the workplace, or works remotely during the notice period. The employee remains on the payroll and is in the process of [terminating their employment](https://www.investopedia.com/terms/t/termination-employment.asp), but is neither permitted to go to work nor to commence any other employment during the gardening leave.
+A gardening leave refers to the period of time during which an employee stays away from the workplace, or works remotely during the notice period. The employee remains on the payroll and is in the process of [[terminating their employment]](https://www.investopedia.com/terms/t/termination-employment.asp), but is neither permitted to go to work nor to commence any other employment during the gardening leave.
 
 Gardening leave, or garden leave, is a term most commonly used in the financial industry in the U.K., Australia, and New Zealand. Massachusetts passed a garden leave clause into law in 2018, making it the first state to do so in the U.S.1
 
@@ -26,15 +26,15 @@ The garden leave helps protect an employer's interests when an employee tenders 
 
 ## Understanding Gardening Leaves
 
-Gardening leave is a protectionist measure used by an employer when an employee is terminated or when they [tender their resignation](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp). Once in effect, it often prevents the employee from being involved in any work activity for their current employer, and typically restricts them from either taking on another job or working for themselves. An employee is generally likely to spend their time pursuing hobbies such as gardening—hence, the term gardening leave. Salaries and benefits continue until the end of the leave period.
+Gardening leave is a protectionist measure used by an employer when an employee is terminated or when they [[tender their resignation]](https://www.investopedia.com/articles/personal-finance/081015/8-reasons-why-valued-employees-quit.asp). Once in effect, it often prevents the employee from being involved in any work activity for their current employer, and typically restricts them from either taking on another job or working for themselves. An employee is generally likely to spend their time pursuing hobbies such as gardening—hence, the term gardening leave. Salaries and benefits continue until the end of the leave period.
 
 Gardening leave is sometimes considered to be a euphemism for being suspended and can be perceived to have negative connotations such as the employee being unfit for anything other than tending to their garden.
 
-The gardening leave is similar to a [non-compete clause](https://www.investopedia.com/articles/personal-finance/070114/caution-noncompete-contract.asp). Under this type of clause, an employee promises not to work for their current employer's competition for a specific period of time after their employment period is over.
+The gardening leave is similar to a [[non-compete clause]](https://www.investopedia.com/articles/personal-finance/070114/caution-noncompete-contract.asp). Under this type of clause, an employee promises not to work for their current employer's competition for a specific period of time after their employment period is over.
 
 ## Reasons for Instigating Gardening Leave
 
-Following the resignation or dismissal of an employee, an employer may decide to place the employee on gardening leave. The primary reason for doing so is to safeguard against possible detrimental actions or behavior that the employee might indulge in during their [notice period](https://www.investopedia.com/terms/n/notice-of-termination.asp).
+Following the resignation or dismissal of an employee, an employer may decide to place the employee on gardening leave. The primary reason for doing so is to safeguard against possible detrimental actions or behavior that the employee might indulge in during their [[notice period]](https://www.investopedia.com/terms/n/notice-of-termination.asp).
 
 The employer may fear that the employee could become uncooperative, or that they may negatively influence the working environment and other employees. The employer may also prefer that the employee limit contact with clients for fear the employe may persuade clients to follow them to their new employer.
 
@@ -51,7 +51,7 @@ Gardening leave can be an employer’s way of taking the employee off the market
 
 ## Rights and Obligations
 
-An employee is entitled to their salary and benefits during gardening leave, but depending on their employment contract, may not be eligible for bonuses or [accrual payments](https://www.investopedia.com/terms/a/accruedincome.asp).
+An employee is entitled to their salary and benefits during gardening leave, but depending on their employment contract, may not be eligible for bonuses or [[accrual payments]](https://www.investopedia.com/terms/a/accruedincome.asp).
 
 During a gardening leave, it is typical for an employee to be prevented from accessing the employer’s data and computer system, and to be prohibited from contacting clients, suppliers, or fellow employees. The employee will usually be required to return company property such as laptops, smartphones, or vehicles during this period.
 

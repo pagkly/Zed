@@ -18,7 +18,7 @@ Financial Times Stock Exchange Group (FTSE) Offers Specialized Indices
 
 The Financial Times Stock Exchange (FTSE), now known as FTSE Russell Group, is a British financial organization that specializes in providing index offerings for the global financial markets. The [London Stock Exchange Group](https://www.lseg.com/) (LSEG) owns the FTSE Russell Group. In addition to the FTSE Russell Group, the LSEG also owns the Borsa Italiana, Millennium IT, and other financial brands.1
 
-The indexing division of the FTSE is similar to that of [Standard & Poor’s](https://www.investopedia.com/terms/s/sp.asp); it specializes in creating index offerings that the global financial markets can use as [benchmarks](https://www.investopedia.com/terms/b/benchmark.asp). An index is comprised of a hypothetical portfolio of stock holdings, so it can act as a representation of the performance of a particular market segment—also called a benchmark. Although the FTSE offers many indexes, its two most well-known indexes are the FTSE 100, which is comprised of the most highly capitalized [blue-chip stocks](https://www.investopedia.com/terms/b/bluechipstock.asp) listed on the London Stock Exchange, and the Russell 2000 Index, a small-cap stock market index of the smallest 2,000 stocks in the Russell 3000 Index.
+The indexing division of the FTSE is similar to that of [[Standard & Poor’s]](https://www.investopedia.com/terms/s/sp.asp); it specializes in creating index offerings that the global financial markets can use as [[benchmarks]](https://www.investopedia.com/terms/b/benchmark.asp). An index is comprised of a hypothetical portfolio of stock holdings, so it can act as a representation of the performance of a particular market segment—also called a benchmark. Although the FTSE offers many indexes, its two most well-known indexes are the FTSE 100, which is comprised of the most highly capitalized [blue-chip stocks](https://www.investopedia.com/terms/b/bluechipstock.asp) listed on the London Stock Exchange, and the Russell 2000 Index, a small-cap stock market index of the smallest 2,000 stocks in the Russell 3000 Index.
 
 ### Key Takeaways
 
@@ -61,15 +61,15 @@ The year the FTSE 100 Index was launched in its current form.
 
 Some of the other popular FTSE Russell indices include:
 
--   [FTSE Nasdaq 500](https://www.investopedia.com/terms/f/ftsenasdaq500.asp)
+-   [[FTSE Nasdaq 500]](https://www.investopedia.com/terms/f/ftsenasdaq500.asp)
 -   FTSE AIM 100
--   [FTSE RAFI US 1000](https://www.investopedia.com/terms/f/ftse-rafi-us-1000-index.asp)
+-   [[FTSE RAFI US 1000]](https://www.investopedia.com/terms/f/ftse-rafi-us-1000-index.asp)
 -   FTSE4Good Indices
 -   FTSE Dividend Growth
--   [Russell Top 200](https://www.investopedia.com/terms/r/russell-top200-index.asp)
--   [Russell 3000](https://www.investopedia.com/terms/r/russell_3000.asp)
--   [Russell 2000](https://www.investopedia.com/terms/r/russell2000.asp)
--   [Russell 1000](https://www.investopedia.com/terms/r/russell_1000index.asp)
+-   [[Russell Top 200]](https://www.investopedia.com/terms/r/russell-top200-index.asp)
+-   [[Russell 3000]](https://www.investopedia.com/terms/r/russell_3000.asp)
+-   [[Russell 2000]](https://www.investopedia.com/terms/r/russell2000.asp)
+-   [[Russell 1000]](https://www.investopedia.com/terms/r/russell_1000index.asp)
 -   Russell Equal Weight Indices
 -   Russell Geographic Exposure Indices
 

@@ -18,7 +18,7 @@ Payout
 
 Payouts refer to the expected financial returns or monetary disbursements from investments or annuities. A payout may be expressed on an overall or periodic basis and as either a percentage of the investment's cost or in a real dollar amount.
 
-A payout can also refer to the period in which an investment or a project is expected to recoup its initial [capital investment](https://www.investopedia.com/terms/c/capital-investment.asp) and become minimally profitable. It is short for "time to payout," "term to payout," or "payout period."
+A payout can also refer to the period in which an investment or a project is expected to recoup its initial [[capital investment]](https://www.investopedia.com/terms/c/capital-investment.asp) and become minimally profitable. It is short for "time to payout," "term to payout," or "payout period."
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ A payout can also refer to the period in which an investment or a project is exp
 
 ## Understanding Payout
 
-In terms of financial securities, such as annuities and [dividends](https://www.investopedia.com/ask/answers/which-option-better-mutual-fund-growth-option-dividend-reinvestment-option/), payouts refer to the amounts received at given points in time. For example, in the case of an [annuity](https://www.investopedia.com/terms/a/annuity.asp), payouts are made to the annuitant at regular intervals, such as monthly or quarterly.
+In terms of financial securities, such as annuities and [[dividends]](https://www.investopedia.com/ask/answers/which-option-better-mutual-fund-growth-option-dividend-reinvestment-option/), payouts refer to the amounts received at given points in time. For example, in the case of an [[annuity]](https://www.investopedia.com/terms/a/annuity.asp), payouts are made to the annuitant at regular intervals, such as monthly or quarterly.
 
 ## Payout Ratio as a Measure of Distribution
 
-There are two main ways that companies can distribute earnings to investors: dividends and share buybacks. With dividends, payouts are made by corporations to their investors and can be in the form of [cash dividends](https://www.investopedia.com/terms/c/cashdividend.asp) or [stock dividends](https://www.investopedia.com/terms/s/stockdividend.asp). The [payout ratio](https://www.investopedia.com/terms/p/payoutratio.asp) is the percentage rate of income the company pays out to investors in the form of distributions. Some payout ratios include both dividends and share buybacks, while others only include dividends.
+There are two main ways that companies can distribute earnings to investors: dividends and share buybacks. With dividends, payouts are made by corporations to their investors and can be in the form of [[cash dividends]](https://www.investopedia.com/terms/c/cashdividend.asp) or [[stock dividends]](https://www.investopedia.com/terms/s/stockdividend.asp). The [[payout ratio]](https://www.investopedia.com/terms/p/payoutratio.asp) is the percentage rate of income the company pays out to investors in the form of distributions. Some payout ratios include both dividends and share buybacks, while others only include dividends.
 
 For example, a payout ratio of 20% means the company pays out 20% of company distributions. If company A has $10 million in net income, it pays out $2 million to shareholders. Growth companies and newly formed companies tend to have low payout ratios. Investors in these companies rely more on share price appreciation for returns than dividends and share buybacks.
 
@@ -46,7 +46,7 @@ The payout ratio can also include share repurchases, in which case the formula i
 
 -   **Payout ratio** = (total dividends + share buybacks) / net income
 
-The cash amount paid out to dividends can be found on the [cash flow statement](https://www.investopedia.com/terms/c/cashflowstatement.asp) in the section titled cash flows from financing. Dividends and stock repurchases both represent an outflow of cash and are classified as outflows on the cash flow statement.
+The cash amount paid out to dividends can be found on the [[cash flow statement]](https://www.investopedia.com/terms/c/cashflowstatement.asp) in the section titled cash flows from financing. Dividends and stock repurchases both represent an outflow of cash and are classified as outflows on the cash flow statement.
 
 ## Payout and Payout Period as a Capital Budgeting Tool
 

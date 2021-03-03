@@ -16,7 +16,7 @@ author: Adam Hayes
 Inside Forward Price-To-Earnings (Forward P/E Metric)
 ## What Is Forward Price-to-Earnings (Forward P/E)?
 
-Forward price-to-earnings (forward P/E) is a version of the ratio of [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) that uses forecasted earnings for the P/E calculation. While the earnings used in this formula are just an estimate and not as reliable as current or historical earnings data, there is still benefit in estimated P/E analysis.
+Forward price-to-earnings (forward P/E) is a version of the ratio of [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) that uses forecasted earnings for the P/E calculation. While the earnings used in this formula are just an estimate and not as reliable as current or historical earnings data, there is still benefit in estimated P/E analysis.
 
 ### Key Takeaways:
 
@@ -28,7 +28,7 @@ Forward price-to-earnings (forward P/E) is a version of the ratio of [price-to-e
 
 ## Understanding Forward Price-to-Earnings (Forward P/E)
 
-The forecasted earnings used in the formula below are typically either projected earnings for the following 12 months or the next full-year fiscal (FY) period. [The forward P/E can be contrasted with the trailing P/E ratio](https://www.investopedia.com/ask/answers/050115/what-difference-between-forward-pe-and-trailing-pe.asp).
+The forecasted earnings used in the formula below are typically either projected earnings for the following 12 months or the next full-year fiscal (FY) period. [[The forward P/E can be contrasted with the trailing P/E ratio]](https://www.investopedia.com/ask/answers/050115/what-difference-between-forward-pe-and-trailing-pe.asp).
 
 Forward P/E\=Current Share PriceEstimated Future Earnings per Share\\text{Forward } P/E = \\frac{\\text{Current Share Price}}{\\text{Estimated Future Earnings per Share}}
 
@@ -38,13 +38,13 @@ The forward P/E, on the other hand, would be $50 / (5 x 1.10) = 9.1x. Note that 
 
 ## What Does Forward Price-to-Earnings Reveal?
 
-Analysts like to think of the P/E ratio as a price tag on earnings. It is used to calculate a [relative value](https://www.investopedia.com/terms/r/relative-value.asp) based on a company's level of earnings. In theory, $1 of earnings at company A is worth the same as $1 of earnings at company B. If this is the case, both companies should also be trading at the same price, but this is rarely the case.
+Analysts like to think of the P/E ratio as a price tag on earnings. It is used to calculate a [[relative value]](https://www.investopedia.com/terms/r/relative-value.asp) based on a company's level of earnings. In theory, $1 of earnings at company A is worth the same as $1 of earnings at company B. If this is the case, both companies should also be trading at the same price, but this is rarely the case.
 
-If company A is trading for $5, and company B is trading for $10, this implies that the market values company B's earnings more. There can be various interpretations as to why company B is valued more. It could mean that company B's earnings are overvalued. It could also mean that company B deserves a premium on the value of its earnings due to superior management and a better [business model](https://www.investopedia.com/terms/b/businessmodel.asp).
+If company A is trading for $5, and company B is trading for $10, this implies that the market values company B's earnings more. There can be various interpretations as to why company B is valued more. It could mean that company B's earnings are overvalued. It could also mean that company B deserves a premium on the value of its earnings due to superior management and a better [[business model]](https://www.investopedia.com/terms/b/businessmodel.asp).
 
-When calculating the [trailing P/E ratio](https://www.investopedia.com/terms/t/trailingpe.asp), analysts compare today's price against earnings for the last 12 months, or the last [fiscal year](https://www.investopedia.com/terms/f/fiscalyear.asp). However, both are based on [historical prices](https://www.investopedia.com/ask/answers/03/103103.asp). Analysts use earnings estimates to determine what the relative value of the company will be at a future level of earnings. The forward P/E estimates the relative value of the earnings.
+When calculating the [[trailing P/E ratio]](https://www.investopedia.com/terms/t/trailingpe.asp), analysts compare today's price against earnings for the last 12 months, or the last [[fiscal year]](https://www.investopedia.com/terms/f/fiscalyear.asp). However, both are based on [[historical prices]](https://www.investopedia.com/ask/answers/03/103103.asp). Analysts use earnings estimates to determine what the relative value of the company will be at a future level of earnings. The forward P/E estimates the relative value of the earnings.
 
-For example, if the [current price](https://www.investopedia.com/terms/c/currentprice.asp) of company B is $10, and earnings are estimated to double next year to $2, the forward P/E ratio is 5x, or half the value of the company when it made $1 in earnings. If the forward P/E ratio is lower than the current P/E ratio, this implies that analysts are expecting earnings to increase. If the forward P/E is higher than the current P/E ratio, analysts expect a decrease in earnings.
+For example, if the [[current price]](https://www.investopedia.com/terms/c/currentprice.asp) of company B is $10, and earnings are estimated to double next year to $2, the forward P/E ratio is 5x, or half the value of the company when it made $1 in earnings. If the forward P/E ratio is lower than the current P/E ratio, this implies that analysts are expecting earnings to increase. If the forward P/E is higher than the current P/E ratio, analysts expect a decrease in earnings.
 
 ## Forward P/E vs. Trailing P/E
 

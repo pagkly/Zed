@@ -26,7 +26,7 @@ Without the prospect of substantial gains, there would be little motivation to e
 
 For example, real estate can blur the line between investment and speculation when buying property with the intention of renting it out. While this would qualify as investing, buying multiple condominiums with minimal down payments for the purpose of reselling them quickly at a profit would undoubtedly be regarded as speculation.
 
-Speculators can provide market liquidity and narrow the [bid-ask spread](https://www.investopedia.com/terms/b/bid-askspread.asp), enabling producers to hedge price risk efficiently. Speculative short-selling may also keep rampant bullishness in check and prevent the formation of asset price bubbles through betting against successful outcomes.
+Speculators can provide market liquidity and narrow the [[bid-ask spread]](https://www.investopedia.com/terms/b/bid-askspread.asp), enabling producers to hedge price risk efficiently. Speculative short-selling may also keep rampant bullishness in check and prevent the formation of asset price bubbles through betting against successful outcomes.
 
 Mutual funds and hedge funds often engage in speculation in the foreign exchange markets as well as bond and stock markets.
 

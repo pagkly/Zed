@@ -16,7 +16,7 @@ author: Will Kenton
 Loan Grading Definition
 ## What Is Loan Grading?
 
-Loan grading is a classification system that involves assigning a quality score to a loan based on a borrower's [credit history](https://www.investopedia.com/terms/c/credit-history.asp), quality of the [collateral](https://www.investopedia.com/terms/c/collateral.asp), and the likelihood of repayment of the principal and interest. A score can also be applied to a portfolio of loans. Loan grading is part of a lending institution's loan review or credit risk system and is usually an aspect of the credit underwriting and approval processes.
+Loan grading is a classification system that involves assigning a quality score to a loan based on a borrower's [[credit history]](https://www.investopedia.com/terms/c/credit-history.asp), quality of the [[collateral]](https://www.investopedia.com/terms/c/collateral.asp), and the likelihood of repayment of the principal and interest. A score can also be applied to a portfolio of loans. Loan grading is part of a lending institution's loan review or credit risk system and is usually an aspect of the credit underwriting and approval processes.
 
 There are many purposes for a loan review system, such as identifying loans with credit weaknesses so banks can take steps to minimize credit risk, identifying trends affecting the collectability of the loan portfolio, and for financial and regulatory reporting purposes.
 

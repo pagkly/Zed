@@ -16,7 +16,7 @@ author: Marshall Hargrave
 What Is an Options Contract?
 ## What Is an Options Contract?
 
-An options contract is an agreement between two parties to facilitate a potential transaction on the [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp) at a preset price, referred to as the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp), prior to the expiration date.
+An options contract is an agreement between two parties to facilitate a potential transaction on the [[underlying security]](https://www.investopedia.com/terms/u/underlying-security.asp) at a preset price, referred to as the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp), prior to the expiration date.
 
 The two types of contracts are put and call options, both of which can be purchased to speculate on the direction of stocks or stock indices, or sold to generate income. For stock options, a single contract covers 100 shares of the underlying stock.
 

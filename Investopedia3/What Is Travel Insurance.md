@@ -30,7 +30,7 @@ Coverage often includes 24/7 emergency services, such as replacing lost passport
 
 ## What Is Travel Insurance?
 
-Many companies selling tickets or travel packages, give consumers the option to purchase travel insurance, also known as travelers insurance. Some travel policies cover damage to personal property, rented equipment, such as rental cars, or even the cost of paying a ransom. Frequently sold as a package, travel insurance may include several types of coverage. The main categories of travel insurance include trip cancellation or interruption coverage, baggage and personal effects coverage, [medical expense](https://www.investopedia.com/terms/m/medical-expenses.asp) coverage, and accidental death or flight accident coverage.
+Many companies selling tickets or travel packages, give consumers the option to purchase travel insurance, also known as travelers insurance. Some travel policies cover damage to personal property, rented equipment, such as rental cars, or even the cost of paying a ransom. Frequently sold as a package, travel insurance may include several types of coverage. The main categories of travel insurance include trip cancellation or interruption coverage, baggage and personal effects coverage, [[medical expense]](https://www.investopedia.com/terms/m/medical-expenses.asp) coverage, and accidental death or flight accident coverage.
 
 Coverage often includes 24/7 emergency services, such as replacing lost passports, cash wire assistance, and re-booking canceled flights. Also, some travel insurance policies may duplicate existing coverage from other providers or offer protection for costs that are refundable by other means. 
 
@@ -44,7 +44,7 @@ Trip cancellation is beneficial when paying more upfront than what you're comfo
 
 Baggage and personal effects coverage protects lost, stolen, or damaged belongings during a trip. It may include coverage during travel to and from a destination. Most carriers, such as airlines, reimburse travelers if baggage is lost or destroyed because of their error. However, there may be limitations on the amount of reimbursement. Therefore, baggage and personal effects coverage provides an additional layer of protection.
 
-The possibility of baggage and personal belongings being lost, stolen, or damaged is a frequent travel problem. Many travel insurance policies pay for belongings only after you exhaust all other available claims. Your [homeowners](https://www.investopedia.com/terms/h/homeowners-insurance.asp) or renters insurance may extend coverage outside of your domicile, and airlines and cruise lines are responsible for loss and damage to your baggage during transport. Also, [credit cards](https://www.investopedia.com/best-travel-credit-cards-4801017) may provide automatic protection for things like delays and baggage or rental car accidents if used for deposits or other trip-related expenses.
+The possibility of baggage and personal belongings being lost, stolen, or damaged is a frequent travel problem. Many travel insurance policies pay for belongings only after you exhaust all other available claims. Your [homeowners](https://www.investopedia.com/terms/h/homeowners-insurance.asp) or renters insurance may extend coverage outside of your domicile, and airlines and cruise lines are responsible for loss and damage to your baggage during transport. Also, [[credit cards]](https://www.investopedia.com/best-travel-credit-cards-4801017) may provide automatic protection for things like delays and baggage or rental car accidents if used for deposits or other trip-related expenses.
 
 ## Short-Term Medical and Major Medical Coverage
 
@@ -60,7 +60,7 @@ Emergency medical coverage may be redundant. Most health insurance companies pa
 
 ## Accidental Death and Flight Accident Coverage
 
-If an accident results in death, disability, or serious injury to the traveler or a family member accompanying the traveler, an accidental death and flight accident policy pays benefits to surviving [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp). Flight accident insurance provides coverage for accidents and deaths occurring during flights on a licensed commercial airliner. General exclusions will apply, such as death caused by drug overdose, death resulting from sickness, et al. 
+If an accident results in death, disability, or serious injury to the traveler or a family member accompanying the traveler, an accidental death and flight accident policy pays benefits to surviving [[beneficiaries]](https://www.investopedia.com/terms/b/beneficiary.asp). Flight accident insurance provides coverage for accidents and deaths occurring during flights on a licensed commercial airliner. General exclusions will apply, such as death caused by drug overdose, death resulting from sickness, et al. 
 
 Accidental death coverage may not be necessary if you already have a [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) policy. However, benefits paid by your travel insurance coverage may be in addition to those paid by your life insurance policy, thus leaving more money to your beneficiaries. 
 
@@ -68,7 +68,7 @@ Accidental death coverage may not be necessary if you already have a [life insu
 
 Travel insurance will vary by the provider on cost, exclusions, and coverage. The buyer should be aware of reading all disclosure statements before they purchase the insurance. Coverage is available for single, multiple, and yearly travel. Per-trip coverage protects a single trip and is ideal for people who travel occasionally. Multi-trip coverage protects numerous trips occurring in one year, but none of the excursions can exceed 30 days. Annual coverage is for frequent travelers. It protects for a full year.
 
-In addition to the duration of travelers insurance coverage, premiums are based on the type of coverage provided, a traveler's age, the destination, and the cost of your trip. Standard per-trip policies cost between 5% to 7% of the trip’s cost. Specialized policy riders focus on the needs of business travelers, athletes, and [expatriates](https://www.investopedia.com/terms/e/expatriate.asp).
+In addition to the duration of travelers insurance coverage, premiums are based on the type of coverage provided, a traveler's age, the destination, and the cost of your trip. Standard per-trip policies cost between 5% to 7% of the trip’s cost. Specialized policy riders focus on the needs of business travelers, athletes, and [[expatriates]](https://www.investopedia.com/terms/e/expatriate.asp).
 
 Also, when traveling, it is suggested that a traveler register travel plans with the State Department through its free [travel registration website](https://travelregistration.state.gov/). The nearest embassy or consulate can contact them if there is a family, state or national emergency.
 

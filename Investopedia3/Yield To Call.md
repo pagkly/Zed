@@ -18,9 +18,9 @@ Yield To Call
 
 Yield to call (YTC) is a financial term that refers to the return a bondholder receives if the bond is held until the call date, which occurs sometime before it reaches maturity. This number can be mathematically calculated as the compound interest rate at which the present value of a bond's future coupon payments and call price is equal to the current market price of the bond.
 
-Yield to call applies to [callable bonds](https://www.investopedia.com/terms/c/callablebond.asp), which are debt instruments that let bond investors redeem the bonds—or the bond issuer to repurchase them—on what is known as the call date, at a price known as the call price. By definition, the call date of a bond chronologically occurs before the [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp).
+Yield to call applies to [[callable bonds]](https://www.investopedia.com/terms/c/callablebond.asp), which are debt instruments that let bond investors redeem the bonds—or the bond issuer to repurchase them—on what is known as the call date, at a price known as the call price. By definition, the call date of a bond chronologically occurs before the [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp).
 
-Generally speaking, bonds are callable over several years. They are normally called at a slight premium above their face value, though the exact [call price](https://www.investopedia.com/terms/c/callprice.asp) is based on prevailing market rates.
+Generally speaking, bonds are callable over several years. They are normally called at a slight premium above their face value, though the exact [[call price]](https://www.investopedia.com/terms/c/callprice.asp) is based on prevailing market rates.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ Calculating the yield to call on such bonds is important because it reveals rate
 2.  The bond is purchased at the current market price
 3.  The bond is held until the call date
 
-The yield to call is widely deemed to be a more accurate estimate of expected return on a bond than the [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp).
+The yield to call is widely deemed to be a more accurate estimate of expected return on a bond than the [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp).
 
 ## Calculating Yield-To-Call
 
@@ -52,7 +52,7 @@ Where:
 
 P = the current market price
 
-C = the annual [coupon](https://www.investopedia.com/terms/c/coupon.asp) payment
+C = the annual [[coupon]](https://www.investopedia.com/terms/c/coupon.asp) payment
 
 CP = the call price
 
@@ -64,7 +64,7 @@ Based on this formula, the yield to call cannot be solved for directly. An itera
 
 ## Yield-To-Call Example
 
-As an example, consider a callable bond that has a [face value](https://www.investopedia.com/terms/f/facevalue.asp) of $1,000 and pays a semiannual coupon of 10%. The bond is currently priced at $1,175 and has the option to be called at $1,100 five years from now. Note that the remaining years until maturity does not matter for this calculation.
+As an example, consider a callable bond that has a [[face value]](https://www.investopedia.com/terms/f/facevalue.asp) of $1,000 and pays a semiannual coupon of 10%. The bond is currently priced at $1,175 and has the option to be called at $1,100 five years from now. Note that the remaining years until maturity does not matter for this calculation.
 
 Using the above formula, the calculation would be set up as:
 

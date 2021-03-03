@@ -36,11 +36,11 @@ Companies perform follow-on offerings for a wide variety of reasons. In some cas
 
 ## Types of Follow-On Offerings
 
-A follow-on offering can be either [diluted](https://www.investopedia.com/terms/d/dilution.asp) or non-diluted.
+A follow-on offering can be either [[diluted]](https://www.investopedia.com/terms/d/dilution.asp) or non-diluted.
 
 ### Diluted Follow-On Offering
 
-Diluted follow-on offerings happen when a company issues additional shares to raise funding and offer those shares to the public market. As the number of shares increase, the [earnings per share (EPS)](https://www.investopedia.com/terms/e/eps.asp) decrease. The funds raised during an FPO are most frequently allocated to reduce debt or change a company's capital structure. The infusion of cash is good for the long-term outlook of the company, and thus, it is also good for its shares.
+Diluted follow-on offerings happen when a company issues additional shares to raise funding and offer those shares to the public market. As the number of shares increase, the [[earnings per share (EPS)]](https://www.investopedia.com/terms/e/eps.asp) decrease. The funds raised during an FPO are most frequently allocated to reduce debt or change a company's capital structure. The infusion of cash is good for the long-term outlook of the company, and thus, it is also good for its shares.
 
 ### Non-Diluted Follow-On Offering
 
@@ -52,4 +52,4 @@ In 2013, Rocket Fuel announced that it would sell an additional five million sha
 
 The deal came in at $34 a share. In the month following the offering, the company's public shares were valued at $44. Those who purchased equity in the follow-on offering realized gains close to 30% in a single month.
 
-Another example of a follow-on offering is that of Alphabet Inc. subsidiary Google ([GOOG](https://www.investopedia.com/markets/quote?tvwidgetsymbol=goog)), which conducted a follow-on offering in 2005. The Mountain View company's initial public offering (IPO) was conducted in 2004 using the [Dutch Auction](https://www.investopedia.com/terms/d/dutchauction.asp) method. It raised approximately $2 billion at a price of $85, the lower end of its estimates. In contrast, the follow-on offering conducted in 2005 raised $4 billion at $295, the company's share price a year later.
+Another example of a follow-on offering is that of Alphabet Inc. subsidiary Google ([GOOG](https://www.investopedia.com/markets/quote?tvwidgetsymbol=goog)), which conducted a follow-on offering in 2005. The Mountain View company's initial public offering (IPO) was conducted in 2004 using the [[Dutch Auction]](https://www.investopedia.com/terms/d/dutchauction.asp) method. It raised approximately $2 billion at a price of $85, the lower end of its estimates. In contrast, the follow-on offering conducted in 2005 raised $4 billion at $295, the company's share price a year later.

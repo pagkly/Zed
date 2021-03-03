@@ -16,7 +16,7 @@ author: Jason Fernando
 The Truth About Limited Liability Companies
 ## What Is a Limited Liability Company (LLC)?
 
-A limited liability company (LLC) is a business structure in the United States whereby the owners are not personally liable for the company's debts or liabilities. [Limited liability](https://www.investopedia.com/terms/l/limitedliability.asp) companies are hybrid entities that combine the characteristics of a corporation with those of a partnership or sole proprietorship.1
+A limited liability company (LLC) is a business structure in the United States whereby the owners are not personally liable for the company's debts or liabilities. [[Limited liability]](https://www.investopedia.com/terms/l/limitedliability.asp) companies are hybrid entities that combine the characteristics of a corporation with those of a partnership or sole proprietorship.1
 
 While the limited liability feature is similar to that of a corporation, the availability of flow-through taxation to the members of an LLC is a feature of partnerships (and not an LLC).2
 
@@ -26,7 +26,7 @@ Limited liability companies (LLCs) are a business structure that is allowed unde
 
 Many states don't restrict ownership, meaning anyone can be a member including individuals, corporations, foreigners and foreign entities, and even other LLCs. Some entities, though, cannot form LLCs, including banks and insurance companies.5
 
-An LLC is a more formal partnership arrangement that requires [articles of organization](https://www.investopedia.com/terms/a/articles-of-organization.asp) to be filed with the state.6 An LLC is much easier to set up than a corporation and provides more flexibility and protection.
+An LLC is a more formal partnership arrangement that requires [[articles of organization]](https://www.investopedia.com/terms/a/articles-of-organization.asp) to be filed with the state.6 An LLC is much easier to set up than a corporation and provides more flexibility and protection.
 
 LLCs may elect not to pay federal taxes. Instead, profits and losses are listed on the personal tax returns of the owner(s). Or, the LLC may choose a different classification, such as a corporation.5 7 If fraud is detected or if a company hasn't met legal and reporting requirements, creditors may be able to go after the members.
 
@@ -36,7 +36,7 @@ Members' wages are deemed operating expenses and are deducted from the company's
 
 Although the requirements for LLCs may vary by state, there are generally some commonalities across the board. The very first thing owners or members must do is to choose a name.8
 
-Once that's done, the articles of organization must be documented and filed with the state. These articles establish the rights, powers, duties, liabilities, and other [obligations](https://www.investopedia.com/terms/l/llc-operating-agreement.asp) of each member of the LLC. Other information included on the documents includes the name and addresses of the LLC's members, the name of the LLC's registered agent, and the business' statement of purpose.6
+Once that's done, the articles of organization must be documented and filed with the state. These articles establish the rights, powers, duties, liabilities, and other [[obligations]](https://www.investopedia.com/terms/l/llc-operating-agreement.asp) of each member of the LLC. Other information included on the documents includes the name and addresses of the LLC's members, the name of the LLC's registered agent, and the business' statement of purpose.6
 
 The articles of organization must be accompanied by a fee paid directly to the state. Paperwork and additional fees must also be submitted at the federal level to obtain an employer identification number (EIN).9
 
@@ -49,13 +49,13 @@ The articles of organization must be accompanied by a fee paid directly to the s
 
 The primary reason business owners opt to take the LLC route is to limit the principals' liability. Many view an LLC as a blend of a partnership, which is a simple business formation of two or more owners under an agreement, and a corporation, which has certain liability protections.
 
-Although LLCs have some attractive features, they also have several disadvantages, especially concerning the structure of a corporation. Depending on state law, an LLC may have to be dissolved upon the death or bankruptcy of a member.10 This is in [contrast to a corporation](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp), which can exist in perpetuity. An LLC may not be a suitable option when the founder's ultimate objective to become a publicly-traded company.
+Although LLCs have some attractive features, they also have several disadvantages, especially concerning the structure of a corporation. Depending on state law, an LLC may have to be dissolved upon the death or bankruptcy of a member.10 This is in [[contrast to a corporation]](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp), which can exist in perpetuity. An LLC may not be a suitable option when the founder's ultimate objective to become a publicly-traded company.
 
 ## Limited Liability Company vs. Partnership
 
 The primary difference between a partnership and an LLC is that an LLC separates the business assets of the company from the personal assets of the owners, insulating the owners from the LLC's debts and liabilities.11
 
-An LLC can function in the same way a partnership does, in that the company's profits pass through to the tax returns of the owners.2 Losses can be used to offset other income but only up to the amount invested. If the LLC has organized as a partnership, then it must file [Form 1065](https://www.investopedia.com/terms/f/form-1065.asp). (Otherwise, if members have elected to be treated as a corporation, then Form 1120 is filed).12
+An LLC can function in the same way a partnership does, in that the company's profits pass through to the tax returns of the owners.2 Losses can be used to offset other income but only up to the amount invested. If the LLC has organized as a partnership, then it must file [[Form 1065]](https://www.investopedia.com/terms/f/form-1065.asp). (Otherwise, if members have elected to be treated as a corporation, then Form 1120 is filed).12
 
 In the event of a sale or transfer of the business, a business continuation agreement is the only way to ensure the smooth transfer of interests when one of the owners leaves or dies. Without a business continuation agreement, the remaining partners must dissolve the LLC and create a new one if a partner files bankruptcy or dies.
 
@@ -67,7 +67,7 @@ A limited liability company, commonly referred to as an “LLC”, is a type of 
 
 ### What are limited liability companies used for?
 
-Limited liability companies are a popular type of business structure for [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) and other investment management businesses. Often, hedge funds will be structured so that two layers of LLCs are involved: the first LLC is owned by the fund’s investors, while a second LLC is designated as the manager of that fund. In that scenario, the individual managers responsible for making investment decisions benefit from two layers of liability protection. And since the profits earned can be passed on to the individual investors, this structure prevents the issue of [double taxation](https://www.investopedia.com/terms/d/double_taxation.asp).
+Limited liability companies are a popular type of business structure for [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) and other investment management businesses. Often, hedge funds will be structured so that two layers of LLCs are involved: the first LLC is owned by the fund’s investors, while a second LLC is designated as the manager of that fund. In that scenario, the individual managers responsible for making investment decisions benefit from two layers of liability protection. And since the profits earned can be passed on to the individual investors, this structure prevents the issue of [[double taxation]](https://www.investopedia.com/terms/d/double_taxation.asp).
 
 ### Are limited liability companies taxed differently than corporations?
 

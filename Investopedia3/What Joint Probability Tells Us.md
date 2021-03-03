@@ -26,7 +26,7 @@ P (X⋂Y)where:X,Y\=Two different events that intersectP(X and Y),P(XY)\=The
 
 ## What Does Joint Probability Tell You?
 
-Probability is a field closely related to [statistics](https://www.investopedia.com/terms/s/statistics.asp) that deals with the likelihood of an event or phenomena occurring. It is quantified as a number between 0 and 1 inclusive, where 0 indicates an impossible chance of occurrence and 1 denotes the certain outcome of an event.
+Probability is a field closely related to [[statistics]](https://www.investopedia.com/terms/s/statistics.asp) that deals with the likelihood of an event or phenomena occurring. It is quantified as a number between 0 and 1 inclusive, where 0 indicates an impossible chance of occurrence and 1 denotes the certain outcome of an event.
 
 For example, the probability of drawing a red card from a deck of cards is 1/2 = 0.5. This means that there is an equal chance of drawing a red and drawing a black; since there are 52 cards in a deck, of which 26 are red and 26 are black, there is a 50-50 probability of drawing a red card versus a black card.
 
@@ -34,7 +34,7 @@ Joint probability is a measure of two events happening at the same time, and can
 
 P(6∩red)\=P(6)×P(red)\=4/52×26/52\=1/26P(6 \\cap red) = P(6) \\times P(red) = 4/52 \\times 26/52 = 1/26
 
-The symbol “∩” in a joint probability is referred to as an intersection. The probability of event X and event Y happening is the same thing as the point where X and Y intersect. Therefore, joint probability is also called the intersection of two or more events. A [Venn diagram](https://www.investopedia.com/terms/v/venn-diagram.asp) is perhaps the best visual tool to explain an intersection:
+The symbol “∩” in a joint probability is referred to as an intersection. The probability of event X and event Y happening is the same thing as the point where X and Y intersect. Therefore, joint probability is also called the intersection of two or more events. A [[Venn diagram]](https://www.investopedia.com/terms/v/venn-diagram.asp) is perhaps the best visual tool to explain an intersection:
 
 Image by Julie Bang © Investopedia 2019
 
@@ -42,7 +42,7 @@ From the Venn above, the point where both circles overlap is the intersection, w
 
 ## The Difference Between Joint Probability and Conditional Probability
 
-Joint probability should not be confused with [conditional probability](https://www.investopedia.com/terms/c/conditional_probability.asp), which is the probability that one event will happen _given that_ another action or event happens. The conditional probability formula is as follows:
+Joint probability should not be confused with [[conditional probability]](https://www.investopedia.com/terms/c/conditional_probability.asp), which is the probability that one event will happen _given that_ another action or event happens. The conditional probability formula is as follows:
 
 P(X,given Y) or P(X∣Y)P(X, given~Y) \\text{ or } P(X | Y)
 
@@ -56,4 +56,4 @@ The probability that A and B occurs is the probability of X occurring, given tha
 
 P(6∩red)\=P(6∣red)×P(red)\=1/13×26/52\=1/13×1/2\=1/26\\begin{aligned} &P(6 \\cap red) = P(6|red) \\times P(red) = \\\\ &1/13 \\times 26/52 = 1/13 \\times 1/2 = 1/26\\\\ \\end{aligned}
 
-Statisticians and analysts use joint probability as a tool when two or more observable events can occur simultaneously. For instance, joint probability can be used to estimate the likelihood of a drop in the [Dow Jones Industrial Average](https://www.investopedia.com/terms/d/djia.asp) (DJIA) accompanied by a drop in Microsoft’s share price, or the chance that the value of oil rises at the same time the [U.S. dollar weakens](https://www.investopedia.com/terms/w/weak-dollar.asp).
+Statisticians and analysts use joint probability as a tool when two or more observable events can occur simultaneously. For instance, joint probability can be used to estimate the likelihood of a drop in the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) (DJIA) accompanied by a drop in Microsoft’s share price, or the chance that the value of oil rises at the same time the [[U.S. dollar weakens]](https://www.investopedia.com/terms/w/weak-dollar.asp).

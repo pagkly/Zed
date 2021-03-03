@@ -16,7 +16,7 @@ author: Adam Hayes
 Genuine Progress Indicator (GPI) Definition
 ## What Is Genuine Progress Indicator (GPI)?
 
-A genuine progress indicator (GPI) is a metric used to measure the [economic growth](https://www.investopedia.com/terms/e/economicgrowth.asp) of a country. It is often considered an alternative metric to the more well known [gross domestic product (GDP)](https://www.investopedia.com/terms/g/gdp.asp) economic indicator. The GPI indicator takes everything the GDP uses into account, but adds other figures that represent the cost of the negative effects related to economic activity (such as the cost of crime, cost of ozone depletion and cost of resource depletion, among others).
+A genuine progress indicator (GPI) is a metric used to measure the [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) of a country. It is often considered an alternative metric to the more well known [[gross domestic product (GDP)]](https://www.investopedia.com/terms/g/gdp.asp) economic indicator. The GPI indicator takes everything the GDP uses into account, but adds other figures that represent the cost of the negative effects related to economic activity (such as the cost of crime, cost of ozone depletion and cost of resource depletion, among others).
 
 The GPI nets the positive and negative results of economic growth to examine whether or not it has benefited people overall.
 
@@ -24,7 +24,7 @@ The GPI nets the positive and negative results of economic growth to examine whe
 
 Genuine Progress Indicator is an attempt to measure whether the environmental impact and social costs of economic production and consumption in a country are negative or positive factors in overall health and well-being.
 
-The GPI metric was developed out of the theories of [green economics](https://www.investopedia.com/terms/g/greeneconomics.asp) (which sees the economic market as a piece within a ecosystem). Proponents of the GPI see it as a better measure of the sustainability of an economy when compared to the GDP measure. Since 1995, the GPI indicator has grown in stature and is used in Canada and the United States. However, both these countries still report their economic information in GDP to remain in line with the more widespread practice.
+The GPI metric was developed out of the theories of [[green economics]](https://www.investopedia.com/terms/g/greeneconomics.asp) (which sees the economic market as a piece within a ecosystem). Proponents of the GPI see it as a better measure of the sustainability of an economy when compared to the GDP measure. Since 1995, the GPI indicator has grown in stature and is used in Canada and the United States. However, both these countries still report their economic information in GDP to remain in line with the more widespread practice.
 
 ### Key Takeaways
 

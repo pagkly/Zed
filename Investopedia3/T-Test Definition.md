@@ -16,9 +16,9 @@ author: Will Kenton
 T-Test Definition
 ## What Is a T-Test?
 
-A t-test is a type of inferential [statistic](https://www.investopedia.com/terms/s/statistics.asp) used to determine if there is a significant difference between the means of two groups, which may be related in certain features. It is mostly used when the data sets, like the data set recorded as the outcome from flipping a coin 100 times, would follow a normal distribution and may have unknown variances. A t-test is used as a hypothesis testing tool, which allows testing of an [assumption](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) applicable to a population. 
+A t-test is a type of inferential [[statistic]](https://www.investopedia.com/terms/s/statistics.asp) used to determine if there is a significant difference between the means of two groups, which may be related in certain features. It is mostly used when the data sets, like the data set recorded as the outcome from flipping a coin 100 times, would follow a normal distribution and may have unknown variances. A t-test is used as a hypothesis testing tool, which allows testing of an [[assumption]](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) applicable to a population. 
 
-A t-test looks at the t-statistic, the [t-distribution](https://www.investopedia.com/terms/t/tdistribution.asp) values, and the degrees of freedom to determine the statistical significance. To conduct a test with three or more means, one must use an [analysis of variance](https://www.investopedia.com/terms/a/anova.asp).
+A t-test looks at the t-statistic, the [[t-distribution]](https://www.investopedia.com/terms/t/tdistribution.asp) values, and the degrees of freedom to determine the statistical significance. To conduct a test with three or more means, one must use an [analysis of variance](https://www.investopedia.com/terms/a/anova.asp).
 
 ## Explaining the T-Test
 
@@ -33,7 +33,7 @@ There are three types of t-tests, and they are categorized as dependent and inde
 ### Key Takeaways
 
 -   A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
--   The t-test is one of many tests used for the purpose of [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) in statistics.
+-   The t-test is one of many tests used for the purpose of [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp) in statistics.
 -   Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the standard deviation of each group, and the number of data values of each group.
 -   There are several different types of t-test that can be performed depending on the data and type of analysis required.
 
@@ -60,13 +60,13 @@ The outcome of the t-test produces the t-value. This calculated t-value is then 
 
 ### T-Distribution Tables
 
-The T-Distribution Table is available in [one-tail](https://www.investopedia.com/terms/o/one-tailed-test.asp) and [two-tails](https://www.investopedia.com/terms/t/two-tailed-test.asp) formats. The former is used for assessing cases which have a fixed value or range with a clear direction (positive or negative). For instance, what is the probability of output value remaining below -3, or getting more than seven when rolling a pair of dice? The latter is used for range bound analysis, such as asking if the coordinates fall between -2 and +2.
+The T-Distribution Table is available in [[one-tail]](https://www.investopedia.com/terms/o/one-tailed-test.asp) and [[two-tails]](https://www.investopedia.com/terms/t/two-tailed-test.asp) formats. The former is used for assessing cases which have a fixed value or range with a clear direction (positive or negative). For instance, what is the probability of output value remaining below -3, or getting more than seven when rolling a pair of dice? The latter is used for range bound analysis, such as asking if the coordinates fall between -2 and +2.
 
 The calculations can be performed with standard software programs that support the necessary statistical functions, like those found in MS Excel.
 
 ### T-Values and Degrees of Freedom
 
-The t-test produces two values as its output: t-value and [degrees of freedom](https://www.investopedia.com/terms/d/degrees-of-freedom.asp). The t-value is a ratio of the difference between the mean of the two sample sets and the variation that exists within the sample sets. While the numerator value (the difference between the mean of the two sample sets) is straightforward to calculate, the denominator (the variation that exists within the sample sets) can become a bit complicated depending upon the type of data values involved. The denominator of the ratio is a measurement of the dispersion or variability. Higher values of the t-value, also called t-score, indicate that a large difference exists between the two sample sets. The smaller the t-value, the more similarity exists between the two sample sets.
+The t-test produces two values as its output: t-value and [[degrees of freedom]](https://www.investopedia.com/terms/d/degrees-of-freedom.asp). The t-value is a ratio of the difference between the mean of the two sample sets and the variation that exists within the sample sets. While the numerator value (the difference between the mean of the two sample sets) is straightforward to calculate, the denominator (the variation that exists within the sample sets) can become a bit complicated depending upon the type of data values involved. The denominator of the ratio is a measurement of the dispersion or variability. Higher values of the t-value, also called t-score, indicate that a large difference exists between the two sample sets. The smaller the t-value, the more similarity exists between the two sample sets.
 
 -   A large t-score indicates that the groups are different.
 -   A small t-score indicates that the groups are similar.
@@ -75,7 +75,7 @@ Degrees of freedom refers to the values in a study that has the freedom to vary 
 
 ## Correlated (or Paired) T-Test
 
-The correlated t-test is performed when the samples typically consist of [matched pairs](https://www.investopedia.com/terms/p/pairstrade.asp) of similar units, or when there are cases of repeated measures. For example, there may be instances of the same patients being tested repeatedly—before and after receiving a particular treatment. In such cases, each patient is being used as a control sample against themselves.
+The correlated t-test is performed when the samples typically consist of [[matched pairs]](https://www.investopedia.com/terms/p/pairstrade.asp) of similar units, or when there are cases of repeated measures. For example, there may be instances of the same patients being tested repeatedly—before and after receiving a particular treatment. In such cases, each patient is being used as a control sample against themselves.
 
 This method also applies to cases where the samples are related in some manner or have matching characteristics, like a comparative analysis involving children, parents or siblings. Correlated or paired t-tests are of a dependent type, as these involve cases where the two sets of samples are related.
 
@@ -97,7 +97,7 @@ Degrees of Freedom\=n1+n2−2where:n1 and n2\=Number of records in each s
 
 ## Unequal Variance T-Test
 
-The unequal [variance t-test](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) is used when the number of samples in each group is different, and the variance of the two data sets is also different. This test is also called the Welch's t-test. The following formula is used for calculating t-value and degrees of freedom for an unequal variance t-test:
+The unequal [[variance t-test]](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) is used when the number of samples in each group is different, and the variance of the two data sets is also different. This test is also called the Welch's t-test. The following formula is used for calculating t-value and degrees of freedom for an unequal variance t-test:
 
 T-value\=mean1−mean2var12n1+var22n2where:mean1 and mean2\=Average values of eachof the sample setsvar1 and var2\=Variance of each of the sample setsn1 and n2\=Number of records in each sample set\\begin{aligned}&\\text{T-value} = \\frac{ mean1 - mean2 }{\\frac { var1^2 }{ n1 } + \\frac{ var2^2 }{ n2 } } \\\\&\\textbf{where:}\\\\&mean1 \\text{ and } mean2 = \\text{Average values of each} \\\\&\\text{of the sample sets} \\\\&var1 \\text{ and } var2 = \\text{Variance of each of the sample sets} \\\\&n1 \\text{ and } n2 = \\text{Number of records in each sample set} \\\\ \\end{aligned}
 
@@ -113,7 +113,7 @@ Image by Julie Bang © Investopedia 2019
 
 ## Unequal Variance T-Test Example
 
-Assume that we are taking a diagonal measurement of paintings received in an art gallery. One group of samples includes 10 paintings, while the other includes 20 paintings. The data sets, with the corresponding [mean](https://www.investopedia.com/terms/m/mean.asp) and variance values, are as follows:
+Assume that we are taking a diagonal measurement of paintings received in an art gallery. One group of samples includes 10 paintings, while the other includes 20 paintings. The data sets, with the corresponding [[mean]](https://www.investopedia.com/terms/m/mean.asp) and variance values, are as follows:
 
  
 
@@ -255,7 +255,7 @@ Variance
 
 Though the mean of Set 2 is higher than that of Set 1, we cannot conclude that the population corresponding to Set 2 has a higher mean than the population corresponding to Set 1. Is the difference from 19.4 to 21.6 due to chance alone, or do differences really exist in the overall populations of all the paintings received in the art gallery? We establish the problem by assuming the null hypothesis that the mean is the same between the two sample sets and conduct a t-test to test if the hypothesis is plausible.
 
-Since the number of [data](https://www.investopedia.com/terms/d/data-analytics.asp) records is different (n1 = 10 and n2 = 20) and the variance is also different, the t-value and degrees of freedom are computed for the above data set using the formula mentioned in the Unequal Variance T-Test section.
+Since the number of [[data]](https://www.investopedia.com/terms/d/data-analytics.asp) records is different (n1 = 10 and n2 = 20) and the variance is also different, the t-value and degrees of freedom are computed for the above data set using the formula mentioned in the Unequal Variance T-Test section.
 
 The t-value is -2.24787. Since the minus sign can be ignored when comparing the two t-values, the computed value is 2.24787.
 

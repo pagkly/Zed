@@ -16,9 +16,9 @@ author: Adam Barone
 How Total Quality Management (TQM) Works
 ## What Is Total Quality Management (TQM)?
 
-Total quality management (TQM) is the continual process of detecting and reducing or eliminating errors in manufacturing, streamlining [supply chain management](https://www.investopedia.com/terms/s/scm.asp), improving the customer experience, and ensuring that employees are up to speed with training. Total [quality management](https://www.investopedia.com/terms/q/quality-management.asp) aims to hold all parties involved in the production process accountable for the overall quality of the final product or service.
+Total quality management (TQM) is the continual process of detecting and reducing or eliminating errors in manufacturing, streamlining [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp), improving the customer experience, and ensuring that employees are up to speed with training. Total [[quality management]](https://www.investopedia.com/terms/q/quality-management.asp) aims to hold all parties involved in the production process accountable for the overall quality of the final product or service.
 
-TQM was developed by William Deming, a management consultant whose work had a great impact on Japanese manufacturing.1 While TQM shares much in common with the Six Sigma improvement process, it is not the same as [Six Sigma](https://www.investopedia.com/terms/s/six-sigma.asp). TQM focuses on ensuring that internal guidelines and process standards reduce errors, while [Six Sigma looks to reduce defects](https://www.investopedia.com/articles/investing/102014/guide-six-sigma-black-belt.asp).
+TQM was developed by William Deming, a management consultant whose work had a great impact on Japanese manufacturing.1 While TQM shares much in common with the Six Sigma improvement process, it is not the same as [[Six Sigma]](https://www.investopedia.com/terms/s/six-sigma.asp). TQM focuses on ensuring that internal guidelines and process standards reduce errors, while [[Six Sigma looks to reduce defects]](https://www.investopedia.com/articles/investing/102014/guide-six-sigma-black-belt.asp).
 
 ### Key Takeaways
 

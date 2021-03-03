@@ -30,11 +30,11 @@ On account can refer to purchases on account, but here are also other ways to us
 
 ### Purchases On Account
 
-When a customer or business makes a purchase on credit, a [general ledger](https://www.investopedia.com/terms/g/generalledger.asp) account known as accounts payable is created or increased. Accounts payable refers to the short-term debt that a company owes another entity during the course of conducting business operations. As the company purchases more goods on credit, this account will increase. The account will decrease as the company pays off its outstanding bills.
+When a customer or business makes a purchase on credit, a [[general ledger]](https://www.investopedia.com/terms/g/generalledger.asp) account known as accounts payable is created or increased. Accounts payable refers to the short-term debt that a company owes another entity during the course of conducting business operations. As the company purchases more goods on credit, this account will increase. The account will decrease as the company pays off its outstanding bills.
 
-Any purchases made with credit can be referred to as “purchased on account.” A business that owes another entity for goods or services rendered will record the total amount as a [debit](https://www.investopedia.com/terms/d/debit.asp) entry to increase accounts payable. The outstanding balance remains until cash is paid, in full, to the entity owed.
+Any purchases made with credit can be referred to as “purchased on account.” A business that owes another entity for goods or services rendered will record the total amount as a [[debit]](https://www.investopedia.com/terms/d/debit.asp) entry to increase accounts payable. The outstanding balance remains until cash is paid, in full, to the entity owed.
 
-When payment is made against an account, such that the entry in the accounts payable of a company’s books is no longer outstanding, it is referred to as paid on account. Payments made on account decrease accounts payable as a [credit](https://www.investopedia.com/terms/c/credit.asp) entry to the account. Most lenders will accept payments on account. All installment payments of any kind, including mortgage payments, could be considered payments on account.
+When payment is made against an account, such that the entry in the accounts payable of a company’s books is no longer outstanding, it is referred to as paid on account. Payments made on account decrease accounts payable as a [[credit]](https://www.investopedia.com/terms/c/credit.asp) entry to the account. Most lenders will accept payments on account. All installment payments of any kind, including mortgage payments, could be considered payments on account.
 
 ### Example of Purchases On Account
 

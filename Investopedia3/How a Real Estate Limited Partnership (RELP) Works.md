@@ -34,7 +34,7 @@ Although their structure is unique, RELPs are comparable to real estate investme
 
 RELPS do not pay taxes directly. Net income or losses are passed along to investors, who are responsible for tax reporting.
 
-RELPs are marketed with detailed partnership agreements that define the terms of the entity and the investment opportunity overall. They generally target high-net-worth individuals and institutional investors. Some require [accredited investor](https://www.investopedia.com/terms/a/accreditedinvestor.asp) status for limited partnership status.
+RELPs are marketed with detailed partnership agreements that define the terms of the entity and the investment opportunity overall. They generally target high-net-worth individuals and institutional investors. Some require [[accredited investor]](https://www.investopedia.com/terms/a/accreditedinvestor.asp) status for limited partnership status.
 
 Many RELPs have a narrowly defined focus. They provide the business structure for the construction of a residential neighborhood, a shopping center, or a business plaza. They often specialize in a real estate niche like retirement developments or high-value commercial properties.
 
@@ -42,7 +42,7 @@ There can be flexibility for various business activities within the portfolio. A
 
 ### Partners' Roles in a RELP
 
-The general partner usually has a vested interest in the partnership overall and provides a portion of the capital. General partners have a direct role in the management of the business with designees often serving on the [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp) and involved in the day-to-day management of the business. Overall, general partners hold active decision-making authority.
+The general partner usually has a vested interest in the partnership overall and provides a portion of the capital. General partners have a direct role in the management of the business with designees often serving on the [[board of directors]](https://www.investopedia.com/terms/b/boardofdirectors.asp) and involved in the day-to-day management of the business. Overall, general partners hold active decision-making authority.
 
 Limited partners have limited liability, and it usually comes with limited influence and involvement in the entity’s governance. Some entities set up advisory boards or other means of communication to encourage the insights and participation of limited partners. Generally, limited partners are hands-off investors.
 
@@ -50,7 +50,7 @@ Limited partners receive dividend distributions along with pass-through income a
 
 ### Risks and Returns of RELPs
 
-RELPs can have high returns and high risks, making [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) important for prospective investors. The terms of the agreement may require the limited partner to commit to a lump sum contribution, a contribution schedule over time, or to contributions as called upon.
+RELPs can have high returns and high risks, making [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp) important for prospective investors. The terms of the agreement may require the limited partner to commit to a lump sum contribution, a contribution schedule over time, or to contributions as called upon.
 
 Notably, funds invested in a limited partnership are usually illiquid. The investor cannot cash out at any time.
 
@@ -58,6 +58,6 @@ Notably, funds invested in a limited partnership are usually illiquid. The inves
 
 As with any partnership, a RELP is not required to pay taxes. The net income or losses are passed through to the partners annually.
 
-This requires the partnership to file a [Form 1065](https://www.investopedia.com/terms/f/form-1065.asp) informational return with the Internal Revenue Service and to report all distributions of income through individual partner K-1s. All of the partners in the business receive distributions throughout the year and a distribution of income annually.
+This requires the partnership to file a [[Form 1065]](https://www.investopedia.com/terms/f/form-1065.asp) informational return with the Internal Revenue Service and to report all distributions of income through individual partner K-1s. All of the partners in the business receive distributions throughout the year and a distribution of income annually.
 
 The partnership is responsible for providing each partner with a K-1 which details the income they have received for the year. Partners are then required to report their income individually as appropriate.

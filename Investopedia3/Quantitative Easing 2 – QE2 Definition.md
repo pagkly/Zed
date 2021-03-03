@@ -16,7 +16,7 @@ author: James Chen
 Quantitative Easing 2 – QE2 Definition
 ## What Was Quantitative Easing 2 (QE2)
 
-QE2 refers to the second round of the Federal Reserve's [quantitative easing](https://www.investopedia.com/terms/q/quantitative-easing.asp) program that sought to stimulate the U.S. economy following the 2008 financial crisis and Great Recession. Announced in November 2010, QE2 consisted of an additional $600 billion in purchases of U.S. Treasuries and the reinvestment of proceeds from prior [mortgage-backed security](https://www.investopedia.com/terms/m/mbs.asp) purchases.1 
+QE2 refers to the second round of the Federal Reserve's [[quantitative easing]](https://www.investopedia.com/terms/q/quantitative-easing.asp) program that sought to stimulate the U.S. economy following the 2008 financial crisis and Great Recession. Announced in November 2010, QE2 consisted of an additional $600 billion in purchases of U.S. Treasuries and the reinvestment of proceeds from prior [mortgage-backed security](https://www.investopedia.com/terms/m/mbs.asp) purchases.1 
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ QE2 refers to the second round of the Federal Reserve's [quantitative easing](h
 
 ## Understanding QE2
 
-Quantitative easing stimulates an economy through a central bank's purchase of [government bonds](https://www.investopedia.com/terms/g/government-bond.asp) or other [financial assets](https://www.investopedia.com/terms/f/financialasset.asp). Often, [central banks](https://www.investopedia.com/terms/c/centralbank.asp) use quantitative easing when interest rates are already zero or at near 0% levels. This type of monetary policy increases the [money supply](https://www.investopedia.com/terms/m/moneysupply.asp) and typically raises the risk of inflation. Quantitative easing is not specific to the U.S. and is used in a variety of forms by central banks around the world.
+Quantitative easing stimulates an economy through a central bank's purchase of [[government bonds]](https://www.investopedia.com/terms/g/government-bond.asp) or other [[financial assets]](https://www.investopedia.com/terms/f/financialasset.asp). Often, [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp) use quantitative easing when interest rates are already zero or at near 0% levels. This type of monetary policy increases the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp) and typically raises the risk of inflation. Quantitative easing is not specific to the U.S. and is used in a variety of forms by central banks around the world.
 
-QE2 came at a time when the U.S. recovery remained patchy. While equity markets had recovered from 2008 lows, unemployment remained high at 9.8%_—_two percentage points above [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp) levels.3 The fundamental reason behind QE2 was to shore up bank liquidity and lift inflation. At the time of the announcement, U.S. consumer prices had remained stubbornly low.4
+QE2 came at a time when the U.S. recovery remained patchy. While equity markets had recovered from 2008 lows, unemployment remained high at 9.8%_—_two percentage points above [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp) levels.3 The fundamental reason behind QE2 was to shore up bank liquidity and lift inflation. At the time of the announcement, U.S. consumer prices had remained stubbornly low.4
 
 Interest rates initially rose after the announcement, with the 10-year yield trading above 3.5%. However, from February 2011, three months after the announcement, the 10-year yield began a two-year year decline, falling 200 basis points to trade under 1.5%.5
 

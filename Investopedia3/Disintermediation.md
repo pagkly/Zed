@@ -16,7 +16,7 @@ author: Will Kenton
 Disintermediation
 ## What Is Disintermediation
 
-Disintermediation is the process of removing the [middleman](https://www.investopedia.com/terms/m/middleman.asp) or intermediary from future transactions. In finance, disintermediation is the withdrawal of funds from intermediary [financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp), such as banks and savings and loan associations, to invest them directly.
+Disintermediation is the process of removing the [[middleman]](https://www.investopedia.com/terms/m/middleman.asp) or intermediary from future transactions. In finance, disintermediation is the withdrawal of funds from intermediary [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp), such as banks and savings and loan associations, to invest them directly.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Disintermediation is the process of removing the [middleman](https://www.investo
 
 Disintermediation can also lower the overall cost involved in completing transactions. Removing the intermediary may also allow a transaction to go through more quickly.
 
-Disintermediation can occur when a wholesale purchase allows an interested buyer to purchase goods, sometimes at quantity, directly from the producer. This can result in lower prices for the buyer because the intermediary, a [traditional retail store](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), has been removed from the purchasing process. This saves the buyer from the markup cost generally associated with the transition of a product from a wholesale to a retail environment.
+Disintermediation can occur when a wholesale purchase allows an interested buyer to purchase goods, sometimes at quantity, directly from the producer. This can result in lower prices for the buyer because the intermediary, a [[traditional retail store]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), has been removed from the purchasing process. This saves the buyer from the markup cost generally associated with the transition of a product from a wholesale to a retail environment.
 
 Not all companies choose to offer wholesale options directly to customers, as it often requires a bigger investment in resources to process and ship these orders. It does, however, have some benefits to the company if it wants to limit the number of long-term wholesale contracts in use with retailers; working directly with customers bypasses a segment of the traditional retail market.
 

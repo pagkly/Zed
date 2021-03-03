@@ -22,7 +22,7 @@ Estimating the economic life of an asset is important for businesses so that the
 
 ## Understanding Economic Life
 
-The economic life of an asset under the [Generally Accepted Accounting Principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) requires a reasonable estimate of the time involved. Businesses can shift their measurements based on the anticipated daily usage and other factors. The concept of economic life is also connected to depreciation schedules. Accounting standard setting bodies usually set generally accepted guidelines for estimating and adjusting this time period.
+The economic life of an asset under the [[Generally Accepted Accounting Principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) requires a reasonable estimate of the time involved. Businesses can shift their measurements based on the anticipated daily usage and other factors. The concept of economic life is also connected to depreciation schedules. Accounting standard setting bodies usually set generally accepted guidelines for estimating and adjusting this time period.
 
 ## Finance and Economic Life
 
@@ -38,8 +38,8 @@ New regulations may render current equipment obsolete or raise the required indu
 
 ## Economic Life and Depreciation
 
-[Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) refers to the rate at which an asset deteriorates over time. The depreciation rate is used to estimate the effects of aging, daily use, and wear and tear on the asset. When related to technology, depreciation can also include the [risk of obsolescence](https://www.investopedia.com/terms/o/obsolescencerisk.asp).
+[Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) refers to the rate at which an asset deteriorates over time. The depreciation rate is used to estimate the effects of aging, daily use, and wear and tear on the asset. When related to technology, depreciation can also include the [[risk of obsolescence]](https://www.investopedia.com/terms/o/obsolescencerisk.asp).
 
 In theory, businesses recognize depreciation expenses on a schedule that approximates the rate at which economic life is used up. This is not always true for tax purposes, however, as owners may have superior information about specific assets. The economic life used in internal calculations may differ significantly from the depreciable life required for tax purposes.
 
-Many businesses evaluate depreciation expenses differently based on management's goals. For example, a business might want to recognize costs as quickly as possible in order to minimize current [tax liabilities](https://www.investopedia.com/terms/t/taxliability.asp) and may do this by choosing [accelerated depreciation](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) schedules.
+Many businesses evaluate depreciation expenses differently based on management's goals. For example, a business might want to recognize costs as quickly as possible in order to minimize current [[tax liabilities]](https://www.investopedia.com/terms/t/taxliability.asp) and may do this by choosing [[accelerated depreciation]](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) schedules.

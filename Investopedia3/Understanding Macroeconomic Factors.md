@@ -16,11 +16,11 @@ author: Andrew Bloomenthal
 Understanding Macroeconomic Factors
 ## What Is a Macroeconomic Factor?
 
-A macroeconomic factor is an influential fiscal, natural, or geopolitical event that broadly affects a regional or national economy. Macroeconomic factors tend to impact wide swaths of populations, rather than just a few select individuals. Examples of macroeconomic factors include economic outputs, unemployment rates, and [inflation](https://www.investopedia.com/terms/i/inflation.asp). These indicators of economic performance are closely monitored by governments, businesses and consumers alike.
+A macroeconomic factor is an influential fiscal, natural, or geopolitical event that broadly affects a regional or national economy. Macroeconomic factors tend to impact wide swaths of populations, rather than just a few select individuals. Examples of macroeconomic factors include economic outputs, unemployment rates, and [[inflation]](https://www.investopedia.com/terms/i/inflation.asp). These indicators of economic performance are closely monitored by governments, businesses and consumers alike.
 
 ## An Academic Look at Macroeconomic Factors
 
-The relationships between various macroeconomic factors are extensively studied in the field of [macroeconomics](https://www.investopedia.com/terms/m/macroeconomics.asp). While macroeconomics concerns the broad economy as a whole, microeconomics narrows its realm of study to individual agents, such as consumers and businesses, and their respective economic behaviors and decision-making patterns. A macroeconomic factor may include anything that influences the direction of a particular large-scale market. For example, [fiscal policy](https://www.investopedia.com/ask/answers/012615/what-difference-between-keynesian-economics-and-monetarist-economics.asp) and various regulations can impact state and national economies, while potentially triggering broader international implications. 
+The relationships between various macroeconomic factors are extensively studied in the field of [[macroeconomics]](https://www.investopedia.com/terms/m/macroeconomics.asp). While macroeconomics concerns the broad economy as a whole, microeconomics narrows its realm of study to individual agents, such as consumers and businesses, and their respective economic behaviors and decision-making patterns. A macroeconomic factor may include anything that influences the direction of a particular large-scale market. For example, [[fiscal policy]](https://www.investopedia.com/ask/answers/012615/what-difference-between-keynesian-economics-and-monetarist-economics.asp) and various regulations can impact state and national economies, while potentially triggering broader international implications. 
 
 ## Negative Macroeconomic Factors
 
@@ -28,7 +28,7 @@ Negative macroeconomic factors include events that may jeopardize national or in
 
 ## Neutral Macroeconomic Factors
 
-Certain economic shifts are neither positive nor negative. Rather, the precise implications are determined by the intent of the action, such as trade regulation across state or national borders. The nature of the action in question, such as enacting or rescinding a trade [embargo](https://www.investopedia.com/terms/e/embargo.asp), will trigger myriad effects, depending on the economy being influenced.
+Certain economic shifts are neither positive nor negative. Rather, the precise implications are determined by the intent of the action, such as trade regulation across state or national borders. The nature of the action in question, such as enacting or rescinding a trade [[embargo]](https://www.investopedia.com/terms/e/embargo.asp), will trigger myriad effects, depending on the economy being influenced.
 
 ## Positive Macroeconomic Factors
 

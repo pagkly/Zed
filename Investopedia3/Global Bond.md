@@ -22,7 +22,7 @@ Global Bonds are sometimes referred to as a Eurobond.
 
 ## Global Bonds Explained
 
-When multinational corporations and sovereign entities decide to raise large capital, they may choose to issue global bonds. Global bonds are [international bonds](https://www.investopedia.com/terms/i/internationalbond.asp) that are offered simultaneously in various capital markets including Europe, Asia, and America. These bonds may have a fixed or [floating rate](https://www.investopedia.com/terms/f/floatinginterestrate.asp) with maturities ranging from one to 30 years.
+When multinational corporations and sovereign entities decide to raise large capital, they may choose to issue global bonds. Global bonds are [[international bonds]](https://www.investopedia.com/terms/i/internationalbond.asp) that are offered simultaneously in various capital markets including Europe, Asia, and America. These bonds may have a fixed or [[floating rate]](https://www.investopedia.com/terms/f/floatinginterestrate.asp) with maturities ranging from one to 30 years.
 
 Some global bonds are denominated in the currency of the company's country base, such as the yen for Japanese companies and the euro for a German corporation. Other global bonds are denominated in the currency of the country where the bond is issued. Returning to the earlier example the U.S. corporation could sell a bond on a Japanese marketplace and denominate it in yen.
 
@@ -38,6 +38,6 @@ A global bond is similar to the Eurobond but can also be traded and issued simul
 
 ## Categorizing Global Bonds
 
-Global bonds are grouped into developed country bonds and [emerging market bonds](https://www.investopedia.com/terms/e/emerging-markets-bond-index.asp). Bonds issued by corporations and governments from developed countries are issued with differing maturities and credit qualities. Some of these bonds are U.S. dollar-denominated. However, most are denominated in the currencies of their home countries.
+Global bonds are grouped into developed country bonds and [[emerging market bonds]](https://www.investopedia.com/terms/e/emerging-markets-bond-index.asp). Bonds issued by corporations and governments from developed countries are issued with differing maturities and credit qualities. Some of these bonds are U.S. dollar-denominated. However, most are denominated in the currencies of their home countries.
 
-Emerging market bonds are typically issued by a [sovereign government](https://www.investopedia.com/terms/s/sovereignbond.asp), not corporations. These bonds are dollar-denominated and offer high-interest rates due to the perceived higher level of risk of a bond investment issued by an economically unstable country.
+Emerging market bonds are typically issued by a [[sovereign government]](https://www.investopedia.com/terms/s/sovereignbond.asp), not corporations. These bonds are dollar-denominated and offer high-interest rates due to the perceived higher level of risk of a bond investment issued by an economically unstable country.

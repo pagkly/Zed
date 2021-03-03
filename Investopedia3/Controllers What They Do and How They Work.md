@@ -16,7 +16,7 @@ author: Mitchell Grant
 Controllers: What They Do and How They Work
 ## What Is a Controller?
 
-A [controller](https://www.investopedia.com/articles/professionals/011416/controller-job-description-average-salary.asp) is an individual who has responsibility for all accounting-related activities, including high-level accounting, managerial accounting, and finance activities, within a company. A financial controller typically reports to a firm's chief financial officer (CFO), although these two positions may be combined in smaller businesses. The duties of a controller include assisting with the preparation of the operating budgets, overseeing financial reporting and performing essential duties relating to payroll.
+A [[controller]](https://www.investopedia.com/articles/professionals/011416/controller-job-description-average-salary.asp) is an individual who has responsibility for all accounting-related activities, including high-level accounting, managerial accounting, and finance activities, within a company. A financial controller typically reports to a firm's chief financial officer (CFO), although these two positions may be combined in smaller businesses. The duties of a controller include assisting with the preparation of the operating budgets, overseeing financial reporting and performing essential duties relating to payroll.
 
 The controller has many tasks which might include preparing budgets and managing important budgeting schedules throughout an organization. This includes the collection, analysis, and consolidation of financial data. Although the controller doesn't always maintain the annual budget, the controller position monitors variances, summarizes trends and investigates budget deficiencies. The controller reports material budgeting variances or expenditure variances to management.
 
@@ -36,7 +36,7 @@ In terms of job opportunities, the Bureau of Labor Statistics (BLS) projects a 1
 
 ## Requirements for Controllers
 
-When recruiting for a controller position, companies often require candidates to possess at least 10 years of direct accounting or finance experience. A bachelor’s degree in accounting, finance or business administration is often required while holding a master’s degree is not required but preferred. Professional certificates, including the [certified public accountant license](https://www.investopedia.com/articles/investing/111014/how-become-cpa.asp), may not be required but are typically preferred.
+When recruiting for a controller position, companies often require candidates to possess at least 10 years of direct accounting or finance experience. A bachelor’s degree in accounting, finance or business administration is often required while holding a master’s degree is not required but preferred. Professional certificates, including the [[certified public accountant license]](https://www.investopedia.com/articles/investing/111014/how-become-cpa.asp), may not be required but are typically preferred.
 
 ## Special Considerations
 

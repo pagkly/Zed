@@ -18,7 +18,7 @@ What You Should Know About Scrips
 
 A scrip is better known as a substitute or alternative to legal tender. Holding a scrip entitles the bearer to receive something in return. Scrips come in many different forms, primarily as a form of credit, with the document acknowledging the debt. Scrips also represent a temporary document representing fractional shares resulting from a split or spin-off, or they may indicate currency issued by a private corporation such as frequent flier miles.
 
-Because they are used as [currency substitutes](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp), scrips can be useful in the study of money and monetary economy.
+Because they are used as [[currency substitutes]](https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp), scrips can be useful in the study of money and monetary economy.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ Because they are used as [currency substitutes](https://www.investopedia.com/art
 
 ## Understanding Scrips
 
-In a broad sense, the term scrip refers to any type of substitutional currency that replaces [legal tender](https://www.investopedia.com/terms/l/legal-tender.asp). In many instances, a scrip is a form of credit but is generally always some form of documentation of debt.
+In a broad sense, the term scrip refers to any type of substitutional currency that replaces [[legal tender]](https://www.investopedia.com/terms/l/legal-tender.asp). In many instances, a scrip is a form of credit but is generally always some form of documentation of debt.
 
-Scrips were created to pay or compensate employees under the truck system. This system, which began during the [Industrial Revolution](https://www.investopedia.com/terms/i/industrial-revolution.asp), meant that employees were paid in kind with commodities, vouchers, tokens, or some other form instead of cash. This was usually to the benefit of the employer, not the employee.
+Scrips were created to pay or compensate employees under the truck system. This system, which began during the [[Industrial Revolution]](https://www.investopedia.com/terms/i/industrial-revolution.asp), meant that employees were paid in kind with commodities, vouchers, tokens, or some other form instead of cash. This was usually to the benefit of the employer, not the employee.
 
 Scrips have also been widely used in localized commerce when traditional or legal currency is unavailable or in short supply. This includes small communities or towns—such as the first coal towns—in remote locations, military bases, ships at sea for long periods of time, and in occupied countries during wartime.
 
@@ -39,13 +39,13 @@ Scrips have also been widely used in localized commerce when traditional or lega
 
 Scrips may take on many forms, and they are still used in today's world. In certain companies, scrips may come in the form of rewards points or coupons. For example, Canadian retailer Canadian Tire issues its own form of currency—Canadian Tire—money that looks like real currency but isn't. Customers receive a percentage of Canadian Tire money back when they make purchases. This "cash" can then be used toward purchases made at retail and gas station purchases.
 
-Other forms for scrip include land scrip, token coins (such as those used on subways), vouchers, [IOUs](https://www.investopedia.com/terms/i/iou.asp), and tokens and tickets used at arcades and/or game centers. Even points earned on certain credit cards may be considered scrip.
+Other forms for scrip include land scrip, token coins (such as those used on subways), vouchers, [[IOUs]](https://www.investopedia.com/terms/i/iou.asp), and tokens and tickets used at arcades and/or game centers. Even points earned on certain credit cards may be considered scrip.
 
 Companies that are short on cash often pay scrip dividends. When a company offers its shareholders a scrip dividend, it offers them the choice to receive dividends in the form of more shares or in cash.
 
 By receiving a scrip dividend, investors can increase the size of their holdings without paying extra fees or charges.
 
-The most widely visible and most modern form of scrip is used in the retail industry in the form of [gift cards](https://www.investopedia.com/terms/g/gift-card.asp) or gift certificates. Since it can sometimes be considered improper to give cash as a gift, it can be acceptable to give someone a gift card as a present. Gift cards also allow the user to control how and where the card is spent since they can only be used in specific locations. Gift cards or certificates for certain stores or restaurants further restrict the recipient's spending.
+The most widely visible and most modern form of scrip is used in the retail industry in the form of [[gift cards]](https://www.investopedia.com/terms/g/gift-card.asp) or gift certificates. Since it can sometimes be considered improper to give cash as a gift, it can be acceptable to give someone a gift card as a present. Gift cards also allow the user to control how and where the card is spent since they can only be used in specific locations. Gift cards or certificates for certain stores or restaurants further restrict the recipient's spending.
 
 ## Special Considerations: Fundraising and Scrips
 

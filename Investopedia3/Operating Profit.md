@@ -20,7 +20,7 @@ The term “operating profit” refers to an accounting metric measuring the pro
 
 Operating profit can be calculated using the following formula:
 
-**Operating Profit = Operating Revenue - Cost of Goods Sold ([COGS](https://www.investopedia.com/terms/c/cogs.asp)) - [Operating Expenses](https://www.investopedia.com/terms/o/operating_expense.asp) - Depreciation - Amortization**
+**Operating Profit = Operating Revenue - Cost of Goods Sold ([COGS](https://www.investopedia.com/terms/c/cogs.asp)) - [[Operating Expenses]](https://www.investopedia.com/terms/o/operating_expense.asp) - Depreciation - Amortization**
 
 ## BREAKING DOWN Operating Profit
 
@@ -28,7 +28,7 @@ Operating profit serves as a highly accurate indicator of the business’s poten
 
 Operating profit is also referred to as operating income, as well as earnings before interest and tax (EBIT) — although the latter may sometimes include non-operating revenue, which is not a part of operating profit. If a firm does not have non-operating revenue, its operating profit will equal EBIT.
 
-Given the formulas for gross income (Revenue - COGS), the formula used to calculate operating profit is often simplified as: Gross Profit - Operating Expenses - [Depreciation](https://www.investopedia.com/terms/d/depreciation.asp) - [Amortization](https://www.investopedia.com/terms/a/amortization.asp).
+Given the formulas for gross income (Revenue - COGS), the formula used to calculate operating profit is often simplified as: Gross Profit - Operating Expenses - [[Depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) - [[Amortization]](https://www.investopedia.com/terms/a/amortization.asp).
 
 ## Exclusions From the Operating Profit Calculation
 
@@ -36,7 +36,7 @@ Revenue created through the sale of assets, outside any items created for the ex
 
 While the removal of production costs from overall operating revenue, along with any costs associated with depreciation and amortization, are permitted when determining the operating profit, the calculation does not account for any debt obligations that must be met. This holds true, even if those obligations are directly tied to the company’s ability to maintain normal business operations.
 
-Operating income does not include [investment income](https://www.investopedia.com/terms/i/investmentincome.asp) generated through a partial stake in another company, even if the investment income in question is tied directly to the core business operations of the second company. Additionally, the sale of assets such as real estate and production equipment is not included, as these sales are not a part of the core operations of the business.
+Operating income does not include [[investment income]](https://www.investopedia.com/terms/i/investmentincome.asp) generated through a partial stake in another company, even if the investment income in question is tied directly to the core business operations of the second company. Additionally, the sale of assets such as real estate and production equipment is not included, as these sales are not a part of the core operations of the business.
 
 ## An Example of Operating Profit
 

@@ -16,15 +16,15 @@ author: Caroline Banton
 Reinsurance: Insurance for the Insurer
 ## What Is Reinsurance?
 
-[Reinsurance](https://www.investopedia.com/ask/answers/08/reinsurance.asp) is also known as insurance for insurers or stop-loss insurance. Reinsurance is the practice whereby insurers transfer portions of their risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an [insurance claim](https://www.investopedia.com/terms/i/insurance_claim.asp).
+[Reinsurance](https://www.investopedia.com/ask/answers/08/reinsurance.asp) is also known as insurance for insurers or stop-loss insurance. Reinsurance is the practice whereby insurers transfer portions of their risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an [[insurance claim]](https://www.investopedia.com/terms/i/insurance_claim.asp).
 
 The party that diversifies its insurance portfolio is known as the ceding party. The party that accepts a portion of the potential obligation in exchange for a share of the insurance premium is known as the reinsurer.
 
 ## How Reinsurance Works
 
-Reinsurance allows insurers to remain solvent by recovering some or all amounts paid to claimants. Reinsurance reduces the net liability on individual risks and catastrophe protection from large or multiple losses. The practice also provides [ceding companies](https://www.investopedia.com/terms/c/ceding-company.asp), those that seek reinsurance, the capacity to increase their underwriting capabilities in terms of the number and size of risks.
+Reinsurance allows insurers to remain solvent by recovering some or all amounts paid to claimants. Reinsurance reduces the net liability on individual risks and catastrophe protection from large or multiple losses. The practice also provides [[ceding companies]](https://www.investopedia.com/terms/c/ceding-company.asp), those that seek reinsurance, the capacity to increase their underwriting capabilities in terms of the number and size of risks.
 
-According to the [Insurance Information Institute](https://www.iii.org/sites/default/files/paper_HurricaneAndrew_final.pdf), Hurricane Andrew caused $15.5 billion in damage in Florida in 1992, causing seven U.S. insurance companies to become insolvent.
+According to the [[Insurance Information Institute]](https://www.iii.org/sites/default/files/paper_HurricaneAndrew_final.pdf), Hurricane Andrew caused $15.5 billion in damage in Florida in 1992, causing seven U.S. insurance companies to become insolvent.
 
 ## Benefits of Reinsurance
 
@@ -39,7 +39,7 @@ Insurers are legally required to maintain sufficient reserves to pay all potenti
   
 [Facultative](https://www.investopedia.com/terms/f/facultative-reinsurance.asp) coverage protects an insurer for an individual or a specified risk or contract. If several risks or contracts need reinsurance, they a renegotiated separately. The reinsurer holds all rights for accepting or denying a facultative reinsurance proposal.
 
-A [reinsurance treaty](https://www.investopedia.com/terms/t/treaty-reinsurance.asp) is for a set period rather than on a per-risk or contract basis. The reinsurer covers all or a portion of the risks that the insurer may incur.
+A [[reinsurance treaty]](https://www.investopedia.com/terms/t/treaty-reinsurance.asp) is for a set period rather than on a per-risk or contract basis. The reinsurer covers all or a portion of the risks that the insurer may incur.
 
 ### Key Takeaways
 

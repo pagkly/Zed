@@ -18,7 +18,7 @@ Partnerships: What You Should Know
 
 A partnership is a formal arrangement by two or more parties to manage and operate a business and share its profits.
 
-There are several [types of partnership arrangements](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp). In particular, in a partnership business, all partners share liabilities and profits equally, while in others, partners may have [limited liability](https://www.investopedia.com/terms/l/limited_company.asp). There also is the so-called "silent partner," in which one party is not involved in the day-to-day operations of the business.
+There are several [[types of partnership arrangements]](https://www.investopedia.com/ask/answers/042015/what-caused-american-industrial-revolution.asp). In particular, in a partnership business, all partners share liabilities and profits equally, while in others, partners may have [[limited liability]](https://www.investopedia.com/terms/l/limited_company.asp). There also is the so-called "silent partner," in which one party is not involved in the day-to-day operations of the business.
 
 ### Key Takeaways
 
@@ -31,9 +31,9 @@ There are several [types of partnership arrangements](https://www.investopedia.c
 
 In a broad sense, a partnership can be any endeavor undertaken jointly by multiple parties. The parties may be governments, non-profits enterprises, businesses, or private individuals. The goals of a partnership also vary widely.
 
-Within the narrow sense of a for-profit venture undertaken by two or more individuals, there are three main categories of partnership: [general partnership](https://www.investopedia.com/terms/g/generalpartnership.asp), limited partnership, and limited liability partnership.
+Within the narrow sense of a for-profit venture undertaken by two or more individuals, there are three main categories of partnership: [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp), limited partnership, and limited liability partnership.
 
-In a general partnership, all parties share legal and financial liability equally. The individuals are personally responsible for the debts the partnership takes on. [Profits are also shared equally](https://www.investopedia.com/terms/g/guaranteed-payments-partners.asp). The specifics of profit sharing will almost certainly be laid out in writing in a partnership agreement.
+In a general partnership, all parties share legal and financial liability equally. The individuals are personally responsible for the debts the partnership takes on. [[Profits are also shared equally]](https://www.investopedia.com/terms/g/guaranteed-payments-partners.asp). The specifics of profit sharing will almost certainly be laid out in writing in a partnership agreement.
 
 When drafting a partnership agreement, an expulsion clause should be included, detailing what events are grounds for expelling a partner.
 
@@ -47,11 +47,11 @@ Finally, the awkwardly-named limited liability limited partnership is a new and 
 
 These basic varieties of partnerships can be found throughout common law jurisdictions, such as the United States, Britain, and the Commonwealth nations. There are, however, differences in the laws governing them in each jurisdiction.
 
-The U.S. has no federal statute that defines the various forms of partnership. However, every state except Louisiana has adopted one form or another of the [Uniform Partnership Act](https://www.investopedia.com/terms/u/uniform-partnership-act-upa.asp); so, the laws are similar from state to state. The standard version of the act defines the partnership as a separate legal entity from its partners, which is a departure from the previous legal treatment of partnerships. Other common law jurisdictions, including England, do not consider partnerships to be independent legal entities.
+The U.S. has no federal statute that defines the various forms of partnership. However, every state except Louisiana has adopted one form or another of the [[Uniform Partnership Act]](https://www.investopedia.com/terms/u/uniform-partnership-act-upa.asp); so, the laws are similar from state to state. The standard version of the act defines the partnership as a separate legal entity from its partners, which is a departure from the previous legal treatment of partnerships. Other common law jurisdictions, including England, do not consider partnerships to be independent legal entities.
 
 ### Taxes and Partnerships
 
-There is no federal statute defining partnerships, but nevertheless, the [Internal Revenue Code (Chapter 1, Subchapter K)](https://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleA/chapter1/subchapterK&edition=prelim) includes detailed rules on their federal tax treatment.
+There is no federal statute defining partnerships, but nevertheless, the [[Internal Revenue Code (Chapter 1, Subchapter K)]](https://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleA/chapter1/subchapterK&edition=prelim) includes detailed rules on their federal tax treatment.
 
 Partnerships do not pay income tax. The tax responsibility passes through to the partners, who are not considered employees for tax purposes.
 
@@ -73,7 +73,7 @@ In limited partnerships (LPs), there are general partners who maintain operation
 
 ### Do partnerships pay taxes?
 
-The partnership itself does not pay business taxes. Instead, taxes are passed through to the individual partners to file on their own tax returns, often via a [Schedule K](https://www.investopedia.com/terms/s/schedule-k-1.asp).
+The partnership itself does not pay business taxes. Instead, taxes are passed through to the individual partners to file on their own tax returns, often via a [[Schedule K]](https://www.investopedia.com/terms/s/schedule-k-1.asp).
 
 ### What types of businesses are best-suited for partnerships?
 

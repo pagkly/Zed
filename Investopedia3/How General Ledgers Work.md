@@ -16,21 +16,21 @@ author: Will Kenton
 How General Ledgers Work
 ## What Is a General Ledger?
 
-A general ledger represents the record-keeping system for a company's financial data with debit and credit account records validated by a [trial balance](https://www.investopedia.com/terms/t/trial_balance.asp). The general ledger provides a record of each financial transaction that takes place during the life of an operating company.
+A general ledger represents the record-keeping system for a company's financial data with debit and credit account records validated by a [[trial balance]](https://www.investopedia.com/terms/t/trial_balance.asp). The general ledger provides a record of each financial transaction that takes place during the life of an operating company.
 
-The general ledger holds account information that is needed to prepare the company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp), and transaction data is segregated by type into accounts for assets, liabilities, owners' equity, revenues, and expenses.
+The general ledger holds account information that is needed to prepare the company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp), and transaction data is segregated by type into accounts for assets, liabilities, owners' equity, revenues, and expenses.
 
 ## How a General Ledger Works
 
-A general ledger is the foundation of a system used by accountants to store and organize financial data used to create the firm’s financial statements. Transactions are posted to individual sub-ledger accounts, as defined by the company's [chart of accounts](https://www.investopedia.com/terms/c/chart-accounts.asp).
+A general ledger is the foundation of a system used by accountants to store and organize financial data used to create the firm’s financial statements. Transactions are posted to individual sub-ledger accounts, as defined by the company's [[chart of accounts]](https://www.investopedia.com/terms/c/chart-accounts.asp).
 
-The transactions are then closed out or summarized to the general ledger, and the accountant generates a trial balance, which serves as a report of each ledger account’s [balance](https://www.investopedia.com/ask/answers/030915/how-do-you-calculate-credits-and-debits-general-ledger.asp). The trial balance is checked for errors and adjusted by posting additional necessary entries, and then the adjusted trial balance is used to generate the financial statements.
+The transactions are then closed out or summarized to the general ledger, and the accountant generates a trial balance, which serves as a report of each ledger account’s [[balance]](https://www.investopedia.com/ask/answers/030915/how-do-you-calculate-credits-and-debits-general-ledger.asp). The trial balance is checked for errors and adjusted by posting additional necessary entries, and then the adjusted trial balance is used to generate the financial statements.
 
 ## How a General Ledger Functions with Double Entry Accounting
 
-A general ledger is used by businesses that employ the [double-entry](https://www.investopedia.com/terms/d/double-entry.asp) bookkeeping method, which means that each financial transaction affects at least two sub-ledger accounts and each entry has at least one [debit](https://www.investopedia.com/terms/d/debit.asp) and one credit transaction. Double-entry transactions, called journal entries, are posted in two columns, with debit entries on the left and credit entries on the right, and the total of all debit and credit entries must balance.
+A general ledger is used by businesses that employ the [[double-entry]](https://www.investopedia.com/terms/d/double-entry.asp) bookkeeping method, which means that each financial transaction affects at least two sub-ledger accounts and each entry has at least one [[debit]](https://www.investopedia.com/terms/d/debit.asp) and one credit transaction. Double-entry transactions, called journal entries, are posted in two columns, with debit entries on the left and credit entries on the right, and the total of all debit and credit entries must balance.
 
-The [accounting equation](https://www.investopedia.com/terms/a/accounting-equation.asp), which underlies double-entry accounting, is as follows:
+The [[accounting equation]](https://www.investopedia.com/terms/a/accounting-equation.asp), which underlies double-entry accounting, is as follows:
 
 Assets−Liabilities\=Stockholders’ Equity\\text{Assets} - \\text{Liabilities} = \\text{Stockholders' Equity}
 
@@ -55,7 +55,7 @@ In the case of certain types of accounting errors, it becomes necessary to go ba
 
 ## The Balance Sheet Transaction Example
 
-If a company receives payment from a client for a $200 invoice, for example, the company accountant increases the cash account with a $200 debit and completes the entry with a [credit, or reduction,](https://www.investopedia.com/terms/c/credit.asp) of $200 to accounts receivable. The posted debit and credit amounts are equal.
+If a company receives payment from a client for a $200 invoice, for example, the company accountant increases the cash account with a $200 debit and completes the entry with a [[credit, or reduction,]](https://www.investopedia.com/terms/c/credit.asp) of $200 to accounts receivable. The posted debit and credit amounts are equal.
 
 In this instance, one asset account (cash) is increased by $200, while another asset account (accounts receivable) is reduced by $200. The net result is that both the increase and the decrease only affect one side of the accounting equation. Thus, the equation remains in balance.
 
@@ -71,7 +71,7 @@ For example, assume that a company bills its client for $500. The accountant wou
 
 ## Learn More About the General Ledger
 
-For related insight into general ledgers, consider reading more about [double entry accounting](https://www.investopedia.com/terms/d/double-entry.asp).
+For related insight into general ledgers, consider reading more about [[double entry accounting]](https://www.investopedia.com/terms/d/double-entry.asp).
 
 ## Frequently Asked Questions
 

@@ -16,9 +16,9 @@ author: James Chen
 Hot Money Definition
 ## What Is Hot Money?
 
-Hot money signifies currency that quickly and regularly moves between [financial markets](https://www.investopedia.com/terms/f/financial-market.asp), that ensures investors lock in the highest available short-term interest rates. Hot money continuously shifts from countries with low-interest rates to those with higher rates.
+Hot money signifies currency that quickly and regularly moves between [[financial markets]](https://www.investopedia.com/terms/f/financial-market.asp), that ensures investors lock in the highest available short-term interest rates. Hot money continuously shifts from countries with low-interest rates to those with higher rates.
 
-These financial transfers affect the [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) and potentially impact a country's [balance of payments](https://www.investopedia.com/terms/b/bop.asp). In law enforcement and banking regulatory circles, the phrase "hot money" can also refer to stolen money that has been specially marked, so that it may be traced and identified.
+These financial transfers affect the [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) and potentially impact a country's [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp). In law enforcement and banking regulatory circles, the phrase "hot money" can also refer to stolen money that has been specially marked, so that it may be traced and identified.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ These financial transfers affect the [exchange rate](https://www.investopedia.co
 
 ## Understanding Hot Money
 
-Hot money not only relates to currencies of different countries, but it may also refer to capital invested in competing businesses. Banks seek to bring in hot money by offering short-term [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs) with higher-than-average interest rates. If the bank lowers its interest rates, or if a rival financial institution offers higher rates, investors are apt to move hot money funds to the bank offering the better deal.
+Hot money not only relates to currencies of different countries, but it may also refer to capital invested in competing businesses. Banks seek to bring in hot money by offering short-term [[certificates of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CDs) with higher-than-average interest rates. If the bank lowers its interest rates, or if a rival financial institution offers higher rates, investors are apt to move hot money funds to the bank offering the better deal.
 
 In a global context, hot money can flow between economies only after trade barriers are removed and sophisticated financial infrastructures are established. Against this backdrop, money flows into high-growth areas that offer the potential for outsized returns. Conversely, hot money flows out of underperforming countries and economic sectors.
 

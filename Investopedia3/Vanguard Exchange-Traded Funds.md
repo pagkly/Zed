@@ -16,7 +16,7 @@ author: Katelyn Peters
 Vanguard Exchange-Traded Funds
 ## What Are Vanguard Exchange-Traded Funds?
 
-Vanguard exchange-traded funds (ETFs) are a class of funds offered by [Vanguard](https://www.investopedia.com/vanguard-review-4587932). Exchange-traded funds combine the diversification of mutual funds with a lower investment minimum required. Vanguard also offers real-time pricing. ETFs are traded the same way that individual stocks are traded.
+Vanguard exchange-traded funds (ETFs) are a class of funds offered by [[Vanguard]](https://www.investopedia.com/vanguard-review-4587932). Exchange-traded funds combine the diversification of mutual funds with a lower investment minimum required. Vanguard also offers real-time pricing. ETFs are traded the same way that individual stocks are traded.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ Vanguard exchange-traded funds (ETFs) are a class of funds offered by [Vanguard]
 
 ## Understanding Vanguard Exchange-Traded Funds
 
-There are currently [more than 50 Vanguard exchange-traded funds](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns), which are traded, like any other shares, on the U.S. stock exchanges, such as the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp) or [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp). Their underlying indexes cover both individual sectors, such as materials and energy, and domestic and international indexes.
+There are currently [[more than 50 Vanguard exchange-traded funds]](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns), which are traded, like any other shares, on the U.S. stock exchanges, such as the [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp) or [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp). Their underlying indexes cover both individual sectors, such as materials and energy, and domestic and international indexes.
 
-The Vanguard ETFs were previously known as [Vanguard Index Participation Receipts (VIPERS)](https://pressroom.vanguard.com/news/ETF_total_stock_market_index.html). In their current form, Vanguard ETFs aim to track their underlying indexes as closely as possible and offer the flexibility of intraday trading.
+The Vanguard ETFs were previously known as [[Vanguard Index Participation Receipts (VIPERS)]](https://pressroom.vanguard.com/news/ETF_total_stock_market_index.html). In their current form, Vanguard ETFs aim to track their underlying indexes as closely as possible and offer the flexibility of intraday trading.
 
 By developing this class of low-cost funds, Vanguard sought to bring its longstanding leadership in the passive management market to the ETF space.
 
@@ -63,7 +63,7 @@ Government bonds tend to pay relatively low dividend yields when compared with c
 
 ## Exchange-Traded Funds (ETFs) vs. Stocks vs. Mutual Funds
 
-Owning an ETF is similar to owning a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp); individual stocks or bonds offer the same built-in diversification and low costs. The funds are also tradable, like individual stocks.
+Owning an ETF is similar to owning a [[mutual fund]](https://www.investopedia.com/terms/m/mutualfund.asp); individual stocks or bonds offer the same built-in diversification and low costs. The funds are also tradable, like individual stocks.
 
 Compared with stocks and bonds, however, ETFs offer less risk and less ongoing maintenance. Vanguard's mix of preselected stocks or bonds means that if one stock or bond in the fund performs poorly, others are likely performing well. Also, investors can leave security selection to professional fund managers. 
 

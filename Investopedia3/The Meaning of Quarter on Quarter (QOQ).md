@@ -16,7 +16,7 @@ author: Caroline Banton
 The Meaning of Quarter on Quarter (QOQ)
 ## What Is Quarter on Quarter (QOQ)?
 
-Quarter on quarter (QOQ) is a measuring technique that calculates the change between one fiscal quarter and the previous fiscal quarter. The term is similar to the [year-over-year](https://www.investopedia.com/terms/y/year-over-year.asp) (YOY) measure, which compares the quarter of one year (such as the first quarter of 2020) to the same quarter of the previous year (the first quarter of 2019). The measure gives investors and analysts an idea of how a company is growing over each quarter.
+Quarter on quarter (QOQ) is a measuring technique that calculates the change between one fiscal quarter and the previous fiscal quarter. The term is similar to the [[year-over-year]](https://www.investopedia.com/terms/y/year-over-year.asp) (YOY) measure, which compares the quarter of one year (such as the first quarter of 2020) to the same quarter of the previous year (the first quarter of 2019). The measure gives investors and analysts an idea of how a company is growing over each quarter.
 
 ### Key Takeaways
 
@@ -28,19 +28,19 @@ Quarter on quarter (QOQ) is a measuring technique that calculates the change bet
 
 QOQ allows a business to monitor shorter-term changes and to progress toward goals or benchmarks set for the year. It can provide valuable information as to how a company is performing and allow the company to respond and make process changes if required.
 
-Often, the QOQ measure is used to compare the [earnings](https://www.investopedia.com/terms/e/earnings.asp) between quarters. For example, ABC Company's first-quarter earnings were $1.50 per share, and its second-quarter earnings were $1.75 per share. By calculating the QOQ growth between quarters ($1.75 - $1.50/$1.50), it's clear that the company has grown its earnings by 16.6%, which is a positive indicator for investors.
+Often, the QOQ measure is used to compare the [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) between quarters. For example, ABC Company's first-quarter earnings were $1.50 per share, and its second-quarter earnings were $1.75 per share. By calculating the QOQ growth between quarters ($1.75 - $1.50/$1.50), it's clear that the company has grown its earnings by 16.6%, which is a positive indicator for investors.
 
 ## Quarter on Quarter in Practice
 
 When used in financial or accounting principles, a quarter is a consecutive three-month period within the year. Traditionally, the first quarter (Q1) refers to January, February, and March. Each subsequent three-month period represents Q2, Q3, and Q4.
 
-When used as part of a QOQ analysis, a business would compare [financials](https://www.investopedia.com/terms/f/financial-statements.asp) from Q2 (April, May, June) to Q1 (January, February, March). This comparison varies from YOY where the same quarter is compared from one year to the next. For example, Q1 of 2019 is compared to Q1 of 2018 in a YOY review.
+When used as part of a QOQ analysis, a business would compare [[financials]](https://www.investopedia.com/terms/f/financial-statements.asp) from Q2 (April, May, June) to Q1 (January, February, March). This comparison varies from YOY where the same quarter is compared from one year to the next. For example, Q1 of 2019 is compared to Q1 of 2018 in a YOY review.
 
 Comparing quarters on a year-over-year (YOY) basis can be more effective than on a quarter on quarter (QOQ) basis, as it gives a broader picture of company health and is not impacted by seasonal issues.
 
 ## Challenges with QOQ Analysis
 
-There are circumstances where QOQ analysis may not provide a holistic view of the health of an organization. For example, if an industry experiences [seasonal sales variance](https://www.investopedia.com/terms/s/seasonal-industry.asp), such as landscapers or seasonal sellers, what may appear to be a downward trend may be an industry norm. The same can apply if a business experiences higher earnings during a peak season that may reflect abnormally high growth from one quarter to the next. An organization may choose to adjust the figures seasonally and compensate for regular shifts in business giving a more accurate picture throughout the year. Since YOY analysis involves the examination of the same quarter from one year to the next, it does not typically require a seasonal adjustment to provide valuable data.
+There are circumstances where QOQ analysis may not provide a holistic view of the health of an organization. For example, if an industry experiences [[seasonal sales variance]](https://www.investopedia.com/terms/s/seasonal-industry.asp), such as landscapers or seasonal sellers, what may appear to be a downward trend may be an industry norm. The same can apply if a business experiences higher earnings during a peak season that may reflect abnormally high growth from one quarter to the next. An organization may choose to adjust the figures seasonally and compensate for regular shifts in business giving a more accurate picture throughout the year. Since YOY analysis involves the examination of the same quarter from one year to the next, it does not typically require a seasonal adjustment to provide valuable data.
 
 ## Real-World Example
 

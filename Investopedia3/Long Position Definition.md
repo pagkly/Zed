@@ -28,11 +28,11 @@ The term [long position](https://www.investopedia.com/ask/answers/100314/whats-
 
 ## Understanding Long Position
 
-Investors can establish long positions in securities such as stocks, mutual funds or currencies, or even in derivatives such as options and futures. Holding a long position is a [bullish view](https://www.investopedia.com/terms/b/bullverticalspread.asp). A long position is the opposite of a [short position](https://www.investopedia.com/terms/s/short.asp) (also known simply as "short").
+Investors can establish long positions in securities such as stocks, mutual funds or currencies, or even in derivatives such as options and futures. Holding a long position is a [[bullish view]](https://www.investopedia.com/terms/b/bullverticalspread.asp). A long position is the opposite of a [[short position]](https://www.investopedia.com/terms/s/short.asp) (also known simply as "short").
 
-The term long position is often used In the context of buying an [options contract](https://www.investopedia.com/terms/o/optionscontract.asp). The trader can hold either a long call or a long put option, depending on the outlook for the underlying asset of the option contract.
+The term long position is often used In the context of buying an [[options contract]](https://www.investopedia.com/terms/o/optionscontract.asp). The trader can hold either a long call or a long put option, depending on the outlook for the underlying asset of the option contract.
 
-For example, an investor who hopes to benefit from an upward price movement in an asset will "go long" on a [call option](https://www.investopedia.com/terms/c/calloption.asp). The call gives the holder the option to buy the underlying asset at a certain price. Conversely, an investor who expects an asset’s price to fall will be long on a [put option](https://www.investopedia.com/terms/p/putoption.asp)—and maintain the right to sell the asset at a certain price.
+For example, an investor who hopes to benefit from an upward price movement in an asset will "go long" on a [[call option]](https://www.investopedia.com/terms/c/calloption.asp). The call gives the holder the option to buy the underlying asset at a certain price. Conversely, an investor who expects an asset’s price to fall will be long on a [[put option]](https://www.investopedia.com/terms/p/putoption.asp)—and maintain the right to sell the asset at a certain price.
 
 In reality, long is an investing term that can have multiple meanings depending on in what context it is used. The most common meaning of long refers to the length of time an investment is held. However, the term long has a different meaning when used in options and futures contracts.
 
@@ -54,7 +54,7 @@ Finally, going long in the outright-ownership sense means a good amount of capit
 
 In the world of options contracts, the term long has nothing to do with the measurement of time. Instead, it speaks to the owning of an underlying asset. The long position holder is one who currently holds the underlying asset in their portfolio.
 
-When a trader buys or holds a call options contract from an [options writer](https://www.investopedia.com/terms/w/writer.asp), they are long, due to the power they hold in being able to buy the asset. An investor who is long a call option is one who buys a call with the expectation that the underlying security will increase in value. The long position call holder believes the asset's value is rising and may decide to exercise their option to buy it by the expiration date.
+When a trader buys or holds a call options contract from an [[options writer]](https://www.investopedia.com/terms/w/writer.asp), they are long, due to the power they hold in being able to buy the asset. An investor who is long a call option is one who buys a call with the expectation that the underlying security will increase in value. The long position call holder believes the asset's value is rising and may decide to exercise their option to buy it by the expiration date.
 
 But not every trader who holds a long position believes the asset's value will increase. The trader who owns the underlying asset in their portfolio and believes the value will fall can buy a put option contract. They still have a long position because they have the ability to sell the underlying asset they hold in their portfolio. The holder of a long put option believes the price of an asset will fall. They hold the option with the hope that they will be able to sell the underlying asset at an advantageous price by the expiry.
 
@@ -64,9 +64,9 @@ In contrast, the short position on an options contract does not own the stock or
 
 ### Long Futures Contracts
 
-Investors and businesses can also enter into a long forward or [futures contract](https://www.investopedia.com/terms/f/futurescontract.asp) to hedge against adverse price movements. A company can employ a long hedge to lock in a purchase price for a commodity that is needed in the future. Futures differ from options in that the holder is obligated to buy or sell the underlying asset. They do not get to choose but must complete these actions.
+Investors and businesses can also enter into a long forward or [[futures contract]](https://www.investopedia.com/terms/f/futurescontract.asp) to hedge against adverse price movements. A company can employ a long hedge to lock in a purchase price for a commodity that is needed in the future. Futures differ from options in that the holder is obligated to buy or sell the underlying asset. They do not get to choose but must complete these actions.
 
-Suppose a jewelry manufacturer believes the price of gold is poised to turn upwards in the short term. The firm can enter into a long futures contract with its gold supplier to purchase gold in three months from the supplier at $1,300. In three months, whether the price is above or below $1,300, the business that has a long position on gold futures is obligated to purchase the gold from the supplier at the agreed contract price of $1,300. The supplier, in turn, is obligated to [deliver the physical commodity](https://www.investopedia.com/terms/p/physicaldelivery.asp) when the contract expires.
+Suppose a jewelry manufacturer believes the price of gold is poised to turn upwards in the short term. The firm can enter into a long futures contract with its gold supplier to purchase gold in three months from the supplier at $1,300. In three months, whether the price is above or below $1,300, the business that has a long position on gold futures is obligated to purchase the gold from the supplier at the agreed contract price of $1,300. The supplier, in turn, is obligated to [[deliver the physical commodity]](https://www.investopedia.com/terms/p/physicaldelivery.asp) when the contract expires.
 
 [Speculators](https://www.investopedia.com/terms/s/speculator.asp) also go long on futures when they believe the prices will go up. They don’t necessarily want the physical commodity, as they are only interested in capitalizing on the price movement. Before expiry, a speculator holding a long futures contract can sell the contract in the market.
 
@@ -92,7 +92,7 @@ Cons
 
 For example, let's say Jim expects Microsoft Corporation ([MSFT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=msft)) to increase in price and purchases 100 shares of it for his portfolio. Jim is therefore said to "be long" 100 shares of MSFT.
 
-Now, let's consider a November 17 call option on Microsoft (MSFT) with a $75 [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) and $1.30 premium. If Jim is still bullish on the stock, he may decide to purchase or go long one MSFT call option—one option equates to 100 shares—instead of purchasing the shares outright as he did in the previous example.
+Now, let's consider a November 17 call option on Microsoft (MSFT) with a $75 [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) and $1.30 premium. If Jim is still bullish on the stock, he may decide to purchase or go long one MSFT call option—one option equates to 100 shares—instead of purchasing the shares outright as he did in the previous example.
 
 At expiry, if MSFT is trading above the strike price plus the premium paid ($75 + $1.30), Jim will exercise his right to buy on his long option to purchase 100 shares of MSFT at $75. The writer of the options contract—the short position—that Jim bought must sell him the 100 shares at the $75 price.
 

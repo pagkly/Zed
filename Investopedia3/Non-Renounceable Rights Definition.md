@@ -16,11 +16,11 @@ author: James Chen
 Non-Renounceable Rights Definition
 ## What are Non-Renounceable Rights?
 
-A non-renounceable rights issue refers to an offer issued by a corporation to shareholders to purchase more shares of the corporation (usually at a discount). Unlike a [renounceable right](https://www.investopedia.com/terms/r/renounceablerights.asp), a non-renounceable right is not transferable, and therefore cannot be bought or sold.
+A non-renounceable rights issue refers to an offer issued by a corporation to shareholders to purchase more shares of the corporation (usually at a discount). Unlike a [[renounceable right]](https://www.investopedia.com/terms/r/renounceablerights.asp), a non-renounceable right is not transferable, and therefore cannot be bought or sold.
 
 ## Understanding Non-Renounceable Rights
 
-Issuing more shares dilutes the value of outstanding stock. But because the rights issue allows the existing shareholders to buy the newly issued stock at a discount, they are compensated for the impending share [dilution](https://www.investopedia.com/terms/d/dilution.asp). The compensation the rights issue gives them is equivalent to the cost of share dilution. However, shareholders who do not take exercise the rights by buying the discounted stock will lose money as their existing holdings will suffer from the dilution.
+Issuing more shares dilutes the value of outstanding stock. But because the rights issue allows the existing shareholders to buy the newly issued stock at a discount, they are compensated for the impending share [[dilution]](https://www.investopedia.com/terms/d/dilution.asp). The compensation the rights issue gives them is equivalent to the cost of share dilution. However, shareholders who do not take exercise the rights by buying the discounted stock will lose money as their existing holdings will suffer from the dilution.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ Issuing more shares dilutes the value of outstanding stock. But because the righ
 
 ## Why Companies Offer Non-Renounceable Rights
 
-By offering non-renounceable rights, the company is setting a narrow [window of opportunity](https://www.investopedia.com/terms/w/window-of-opportunity.asp) for the shareholders to potentially purchase more stock at discount. Offering such rights can be seen as more favorable to the company than to existing shareholders, even though a discount may be offered. If the shareholders do not have sufficient funds at the time the non-renounceable rights come into play to exercise said rights, they stand to lose the opportunity to purchase the shares at the discount rate. Regardless of what action the existing shareholders take, the company will proceed with issuing more stock, which could service the capital needs of the business.
+By offering non-renounceable rights, the company is setting a narrow [[window of opportunity]](https://www.investopedia.com/terms/w/window-of-opportunity.asp) for the shareholders to potentially purchase more stock at discount. Offering such rights can be seen as more favorable to the company than to existing shareholders, even though a discount may be offered. If the shareholders do not have sufficient funds at the time the non-renounceable rights come into play to exercise said rights, they stand to lose the opportunity to purchase the shares at the discount rate. Regardless of what action the existing shareholders take, the company will proceed with issuing more stock, which could service the capital needs of the business.
 
 A company might offer non-renounceable rights on shares if there are a set timeframe and capital objective the business needs to meet. This could be to gather enough funds to make an acquisition of another company, to expand its operations through mass hiring and the establishing of new locations, pay back debts, make new purchases of other assets, or to reorient its financial roadmap for long-term needs. The company could be facing bankruptcy if it does not address its capital circumstances.
 

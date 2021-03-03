@@ -16,13 +16,13 @@ author: Alicia Tuovila
 Statement of Retained Earnings Definition
 ## What Is a Statement of Retained Earnings?
 
-The statement of retained earnings (retained earnings statement) is a financial statement that outlines the changes in [retained earnings](https://www.investopedia.com/terms/r/retainedearnings.asp) for a company over a specified period. This statement reconciles the beginning and ending retained earnings for the period, using information such as net income from the other financial statements, and is used by analysts to understand how corporate profits are utilized.
+The statement of retained earnings (retained earnings statement) is a financial statement that outlines the changes in [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp) for a company over a specified period. This statement reconciles the beginning and ending retained earnings for the period, using information such as net income from the other financial statements, and is used by analysts to understand how corporate profits are utilized.
 
 The statement of retained earnings is also known as a statement of owner's equity, an equity statement, or a statement of shareholders' equity. Boilerplate templates of the statement of retained earnings can be found online. It is prepared in accordance with generally accepted accounting principles (GAAP).
 
 ## Understanding Statement of Retained Earnings
 
-This statement of retained earnings can appear as a separate statement or as an inclusion on either a balance sheet or an income statement. The statement is a financial document that includes information regarding a firm’s retained earnings, along with the net income and amounts distributed to stockholders in the form of [dividends](https://www.investopedia.com/terms/d/dividend.asp). An organization’s net income is noted, showing the amount that will be set aside to handle certain obligations outside of shareholder dividend payments, as well as any amount directed to cover any losses. Each statement covers a specified time period, as noted in the statement.
+This statement of retained earnings can appear as a separate statement or as an inclusion on either a balance sheet or an income statement. The statement is a financial document that includes information regarding a firm’s retained earnings, along with the net income and amounts distributed to stockholders in the form of [[dividends]](https://www.investopedia.com/terms/d/dividend.asp). An organization’s net income is noted, showing the amount that will be set aside to handle certain obligations outside of shareholder dividend payments, as well as any amount directed to cover any losses. Each statement covers a specified time period, as noted in the statement.
 
 ### Key Takeaways
 
@@ -52,7 +52,7 @@ Retained earnings refer to any profits made by an organization that it keeps for
 
 The purpose of releasing a statement of retained earnings is to improve market and investor confidence in the organization. It is used as a marker to help analyze the health of a firm. Retained earnings do not represent surplus funds. Instead, the retained earnings are redirected, often as a reinvestment within the organization.
 
-The retained earnings for a [capital-intensive](https://www.investopedia.com/terms/c/capitalintensive.asp) industry or a company in a growth period will generally be higher than some less-intensive or stable companies. This is due to the larger amount being redirected toward asset development. For example, a technology-based business may have higher asset development needs than a simple t-shirt manufacturer, as a result of the differences in the emphasis on new product development.
+The retained earnings for a [[capital-intensive]](https://www.investopedia.com/terms/c/capitalintensive.asp) industry or a company in a growth period will generally be higher than some less-intensive or stable companies. This is due to the larger amount being redirected toward asset development. For example, a technology-based business may have higher asset development needs than a simple t-shirt manufacturer, as a result of the differences in the emphasis on new product development.
 
 While a t-shirt can remain essentially unchanged for a long period of time, a computer or smartphone requires more regular advancement to stay competitive within the market. Hence, the technology company will likely have higher retained earnings than the t-shirt manufacturer.
 

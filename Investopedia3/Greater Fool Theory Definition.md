@@ -16,7 +16,7 @@ author: James Chen
 Greater Fool Theory Definition
 ## What is the Greater Fool Theory?
 
-The greater fool theory states that it is possible to make money by buying securities, whether or not they are [overvalued](https://www.investopedia.com/terms/o/overvalued.asp), by selling them for a profit at a later date. This is because there will always be someone (i.e. a bigger or greater fool) who is willing to pay a higher price.
+The greater fool theory states that it is possible to make money by buying securities, whether or not they are [[overvalued]](https://www.investopedia.com/terms/o/overvalued.asp), by selling them for a profit at a later date. This is because there will always be someone (i.e. a bigger or greater fool) who is willing to pay a higher price.
 
 ### Key Takeaways
 
@@ -25,7 +25,7 @@ The greater fool theory states that it is possible to make money by buying secur
 
 ## Understanding the Greater Fool Theory
 
-If acting in accordance with the greater fool theory, an investor will purchase questionably priced securities without any regard to their quality. If the theory holds, the investor will still be able to quickly sell them off to another “greater fool,” who could also be hoping to flip them quickly. Unfortunately, [speculative bubbles](https://www.investopedia.com/terms/s/speculativebubble.asp) burst eventually, leading to a rapid depreciation in share prices.
+If acting in accordance with the greater fool theory, an investor will purchase questionably priced securities without any regard to their quality. If the theory holds, the investor will still be able to quickly sell them off to another “greater fool,” who could also be hoping to flip them quickly. Unfortunately, [[speculative bubbles]](https://www.investopedia.com/terms/s/speculativebubble.asp) burst eventually, leading to a rapid depreciation in share prices.
 
 The greater fool theory breaks down in other circumstances, as well, including economic recessions and depressions. In [2008](https://www.investopedia.com/terms/g/great-recession.asp), when investors purchased faulty mortgage-backed securities, it was difficult to find buyers when the market collapsed.
 
@@ -33,7 +33,7 @@ By 2004, U.S. homeownership had peaked at 70%. In late 2005, home prices started
 
 ## Greater Fool Theory and Intrinsic Valuation
 
-One of the reasons that it was difficult to find buyers for mortgage-backed securities during the 2008 financial crisis was that these securities were built on debt that was of very poor quality. It is important in any situation to conduct thorough [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) on an investment, including a [valuation](https://www.investopedia.com/terms/v/valuation.asp) model in some circumstances, to determine its fundamental worth.
+One of the reasons that it was difficult to find buyers for mortgage-backed securities during the 2008 financial crisis was that these securities were built on debt that was of very poor quality. It is important in any situation to conduct thorough [[due diligence]](https://www.investopedia.com/terms/d/duediligence.asp) on an investment, including a [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) model in some circumstances, to determine its fundamental worth.
 
 Due diligence is a broad term that encompasses a range of qualitative and quantitative analyses. Some aspects of due diligence can include calculating a company’s capitalization or total value; identifying revenue, profit, and margin trends; researching competitors and industry trends; as well as putting the investment in a broader market context—crunching certain multiples like price-to-earnings (PE), price-to-sales (P/S), and price/earnings-to-growth (PEG). Investors can also take steps to understand management (the effects and methods of their decision-making) and company ownership (i.e. via a capitalization table that breaks down who owns the majority of company shares and has the strongest voting power).
 

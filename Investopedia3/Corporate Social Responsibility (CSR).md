@@ -16,7 +16,7 @@ author: Jason Fernando
 Corporate Social Responsibility (CSR)
 ## What Is Corporate Social Responsibility (CSR)?
 
-Corporate social responsibility (CSR) is a self-regulating business model that helps a company be socially accountable—to itself, its stakeholders, and the public. By practicing corporate social responsibility, also called [corporate citizenship](https://www.investopedia.com/terms/c/corporatecitizenship.asp), companies can be conscious of the kind of impact they are having on all aspects of society, including economic, social, and environmental.
+Corporate social responsibility (CSR) is a self-regulating business model that helps a company be socially accountable—to itself, its stakeholders, and the public. By practicing corporate social responsibility, also called [[corporate citizenship]](https://www.investopedia.com/terms/c/corporatecitizenship.asp), companies can be conscious of the kind of impact they are having on all aspects of society, including economic, social, and environmental.
 
 To engage in CSR means that, in the ordinary course of business, a company is operating in ways that enhance society and the environment, instead of contributing negatively to them.
 
@@ -44,7 +44,7 @@ Starbucks' goals for 2020 and beyond include hiring 10,000 refugees, reducing th
 
 ## Special Considerations
 
-In 2010, the [International Organization for Standardization (ISO)](https://www.investopedia.com/terms/i/international-organization-for-standardization-iso.asp) released a set of voluntary standards meant to help companies implement corporate social responsibility. Unlike other ISO standards, ISO 26000 provides guidance rather than requirements because the nature of CSR is more qualitative than quantitative, and its standards cannot be certified.4
+In 2010, the [[International Organization for Standardization (ISO)]](https://www.investopedia.com/terms/i/international-organization-for-standardization-iso.asp) released a set of voluntary standards meant to help companies implement corporate social responsibility. Unlike other ISO standards, ISO 26000 provides guidance rather than requirements because the nature of CSR is more qualitative than quantitative, and its standards cannot be certified.4
 
 Instead, ISO 26000 clarifies what social responsibility is and helps organizations translate CSR principles into practical actions. The standard is aimed at all types of organizations, regardless of their activity, size, or location. And, because many key stakeholders from around the world contributed to developing ISO 26000, this standard represents an international consensus.5
 
@@ -52,7 +52,7 @@ Instead, ISO 26000 clarifies what social responsibility is and helps organizatio
 
 ### What is corporate social responsibility (CSR)?
 
-The term corporate social responsibility (CSR) refers to practices and policies undertaken by corporations that are intended to have a positive influence on the world. The key idea behind CSR is for corporations to pursue other pro-social objectives, in addition to maximizing profits. Examples of common CSR objectives include minimizing [environmental externalities](https://www.investopedia.com/terms/e/externality.asp), promoting volunteerism among company employees, and donating to charity.
+The term corporate social responsibility (CSR) refers to practices and policies undertaken by corporations that are intended to have a positive influence on the world. The key idea behind CSR is for corporations to pursue other pro-social objectives, in addition to maximizing profits. Examples of common CSR objectives include minimizing [[environmental externalities]](https://www.investopedia.com/terms/e/externality.asp), promoting volunteerism among company employees, and donating to charity.
 
 ### Why should a company implement CSR?
 

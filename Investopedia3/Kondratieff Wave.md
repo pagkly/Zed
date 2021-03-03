@@ -26,7 +26,7 @@ Kondratieff Wave, named after Russian economist Nikolai Kondratieff, refers to c
 
 ## Understanding Kondratieff Waves
 
-A Kondratieff Wave is a long-term [economic cycle](https://www.investopedia.com/terms/e/economic-cycle.asp) believed to be born out of technological innovation, which results in a long period of prosperity. This theory was founded by Nikolai D. Kondratieff (also spelled "Kondratiev"), a communist Russia-era economist who noticed agricultural commodity and copper prices experienced long-term cycles. Kondratieff believed that these cycles involved periods of evolution and self-correction.
+A Kondratieff Wave is a long-term [[economic cycle]](https://www.investopedia.com/terms/e/economic-cycle.asp) believed to be born out of technological innovation, which results in a long period of prosperity. This theory was founded by Nikolai D. Kondratieff (also spelled "Kondratiev"), a communist Russia-era economist who noticed agricultural commodity and copper prices experienced long-term cycles. Kondratieff believed that these cycles involved periods of evolution and self-correction.
 
 Economists have identified the following Kondratieff Waves since the 18th century.
 
@@ -38,7 +38,7 @@ Economists have identified the following Kondratieff Waves since the 18th centur
 
 Additionally, each cycle can have four sub-cycles, or phases, that have been dubbed after seasons.
 
-1.  Spring: Increase in productivity, along with [inflation](https://www.investopedia.com/terms/i/inflation.asp), signifying an economic boom.
+1.  Spring: Increase in productivity, along with [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), signifying an economic boom.
 2.  Summer: Increase in the general affluence level leads to changing attitudes toward work that results in a deceleration of economic growth.
 3.  Autumn: Stagnating economic conditions give rise to a deflationary growth spiral that gives rise to isolationist policies, further curtailing growth prospects.
 4.  Winter: Economy in the throes of a debilitating depression that tears the social fabric of society, as the gulf between the dwindling number of "haves" and the expanding number of "have-nots" increases dramatically.

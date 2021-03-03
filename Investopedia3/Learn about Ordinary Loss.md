@@ -20,9 +20,9 @@ An ordinary loss is loss realized by a taxpayer when expenses exceed revenues in
 
 ## Understanding Ordinary Loss
 
-Ordinary losses may stem from many causes, including casualty and theft. When ordinary losses are more than a taxpayer's gross income during a tax year, they become deductible. Capital and ordinary are two tax rates applicable to specific asset sales and transactions. The tax rates are tied to a taxpayer’s [marginal tax rate](https://www.investopedia.com/terms/m/marginaltaxrate.asp). Net long-term capital rates are significantly lower than ordinary rates. Hence the conventional wisdom that taxpayers prefer capital rates on gains and ordinary rates on losses. 
+Ordinary losses may stem from many causes, including casualty and theft. When ordinary losses are more than a taxpayer's gross income during a tax year, they become deductible. Capital and ordinary are two tax rates applicable to specific asset sales and transactions. The tax rates are tied to a taxpayer’s [[marginal tax rate]](https://www.investopedia.com/terms/m/marginaltaxrate.asp). Net long-term capital rates are significantly lower than ordinary rates. Hence the conventional wisdom that taxpayers prefer capital rates on gains and ordinary rates on losses. 
 
-In 2017, the rates graduated over seven tax brackets from 10% to 39.6% for ordinary rates, and from 0% to 20% of net long-term capital rates. Also, taxpayers in the highest tax bracket must pay a 3.8% [Net Investment Income Tax (NIIT)](https://www.investopedia.com/terms/n/netinvestmentincome.asp). Mostly, these same tax rates apply in 2018. The exceptions are that ordinary rates now range from 10% to 37%, and the income thresholds for long-term capital rates have changed slightly. As an example, for taxpayers in the highest tax bracket, the ordinary rate was 43.4% in 2017, but is 40.8% in 2018, with a capital rate of 23.8% in 2017 and 2018.
+In 2017, the rates graduated over seven tax brackets from 10% to 39.6% for ordinary rates, and from 0% to 20% of net long-term capital rates. Also, taxpayers in the highest tax bracket must pay a 3.8% [[Net Investment Income Tax (NIIT)]](https://www.investopedia.com/terms/n/netinvestmentincome.asp). Mostly, these same tax rates apply in 2018. The exceptions are that ordinary rates now range from 10% to 37%, and the income thresholds for long-term capital rates have changed slightly. As an example, for taxpayers in the highest tax bracket, the ordinary rate was 43.4% in 2017, but is 40.8% in 2018, with a capital rate of 23.8% in 2017 and 2018.
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ An ordinary loss is a metaphoric wastebasket for any loss which is not classifie
 
 As an example, You spend $110 writing a musical score that you sell for $100. You have a $10 ordinary loss. 
 
-Ordinary loss can stem from other causes as well. Casualty, theft and [related party sales](https://www.investopedia.com/terms/r/related-partytransaction.asp) realize ordinary loss. So do sales of [Section 1231 property](https://www.investopedia.com/terms/s/section-1231.asp) such as real or depreciable goods used in a trade or business which were held for over one-year.
+Ordinary loss can stem from other causes as well. Casualty, theft and [[related party sales]](https://www.investopedia.com/terms/r/related-partytransaction.asp) realize ordinary loss. So do sales of [[Section 1231 property]](https://www.investopedia.com/terms/s/section-1231.asp) such as real or depreciable goods used in a trade or business which were held for over one-year.
 
 ## Ordinary Losses for Taxpayers
 
@@ -49,4 +49,4 @@ Let's say that during the tax year you earned $100,000 and had $80,000 of expens
 -   Net your net short-term and long-term capital gains and losses. $1,000 - $11,000 = $10,000 net long-term capital loss. 
 -   Net your ordinary income and loss. $100,000 - $80,000 = $20,000 ordinary gain.
 -   Net your net ordinary and net capital gains and losses.  $20,000 - $3,000 = $17,000 ordinary gain.
--   [Carry forward](https://www.investopedia.com/terms/l/losscarryforward.asp) the remaining $7,000 net capital loss over the next three years.
+-   [[Carry forward]](https://www.investopedia.com/terms/l/losscarryforward.asp) the remaining $7,000 net capital loss over the next three years.

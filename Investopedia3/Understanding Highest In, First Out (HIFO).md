@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding Highest In, First Out (HIFO)
 ## What Is Highest In, First Out (HIFO)?
 
-Highest in, first out (HIFO) is an inventory distribution and accounting method in which the inventory with the highest cost of purchase is the first to be used or taken out of stock. This will impact the company's books such that for any given period of time, the inventory expense will be the highest possible for the [cost of goods sold](https://www.investopedia.com/terms/c/cogs.asp) (COGS), and the ending inventory will be the lowest possible.
+Highest in, first out (HIFO) is an inventory distribution and accounting method in which the inventory with the highest cost of purchase is the first to be used or taken out of stock. This will impact the company's books such that for any given period of time, the inventory expense will be the highest possible for the [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp) (COGS), and the ending inventory will be the lowest possible.
 
 HIFO usage is rare to non-existent and is not recognized by GAAP.
 
@@ -34,7 +34,7 @@ Companies would likely choose to use the highest in, first out (HIFO) inventory 
 
 Companies may occasionally change their inventory methods in order to smooth their financial performance.
 
-Contrast this with other inventory recognition methods such as [last in, first out (LIFO),](https://www.investopedia.com/terms/l/lifo.asp) in which the most recently purchased inventory is recorded as used first, or [first in, first out (FIFO),](https://www.investopedia.com/terms/f/fifo.asp) in which the oldest inventory is recorded as used first. LIFO and FIFO are common and standard inventory accounting methods, but it is LIFO that is part of generally accepted accounting principles (GAAP). Meanwhile, HIFO is not often used and is furthermore not recognized by GAAP as standard practice.
+Contrast this with other inventory recognition methods such as [[last in, first out (LIFO),]](https://www.investopedia.com/terms/l/lifo.asp) in which the most recently purchased inventory is recorded as used first, or [[first in, first out (FIFO),]](https://www.investopedia.com/terms/f/fifo.asp) in which the oldest inventory is recorded as used first. LIFO and FIFO are common and standard inventory accounting methods, but it is LIFO that is part of generally accepted accounting principles (GAAP). Meanwhile, HIFO is not often used and is furthermore not recognized by GAAP as standard practice.
 
 ## Some Highest In, First Out Implications
 
@@ -42,4 +42,4 @@ A company could decide to use the HIFO method to reduce taxable income, but ther
 
 1.  First, because it is not recognized by GAAP the company's books may come under greater scrutiny by auditors and result in an opinion other than an unqualified one.
 2.  Second, in an inflationary environment, inventory that was taken in first may be subject to obsolescence.
-3.  Third, net working capital would be reduced with lower value inventory. Last but not least, if the company relies on [asset-based loans](https://www.investopedia.com/terms/a/assetbasedlending.asp), lower inventory value will decrease the amount it is eligible to borrow.
+3.  Third, net working capital would be reduced with lower value inventory. Last but not least, if the company relies on [[asset-based loans]](https://www.investopedia.com/terms/a/assetbasedlending.asp), lower inventory value will decrease the amount it is eligible to borrow.

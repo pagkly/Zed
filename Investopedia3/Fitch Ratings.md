@@ -16,7 +16,7 @@ author: James Chen
 Fitch Ratings
 ## What Is Fitch Ratings?
 
-Fitch Ratings is an international [credit rating](https://www.investopedia.com/terms/c/creditrating.asp) agency based out of New York City and London. Investors use the company's ratings as a guide as to which investments will not default and subsequently yield a solid return. Fitch bases the ratings on factors, such as what kind of debt a company holds and how sensitive it is to systemic changes like interest rates.
+Fitch Ratings is an international [[credit rating]](https://www.investopedia.com/terms/c/creditrating.asp) agency based out of New York City and London. Investors use the company's ratings as a guide as to which investments will not default and subsequently yield a solid return. Fitch bases the ratings on factors, such as what kind of debt a company holds and how sensitive it is to systemic changes like interest rates.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Fitch Ratings is an international [credit rating](https://www.investopedia.com/t
 
 ## Understanding Fitch Ratings
 
-Along with [Moody's](https://www.investopedia.com/terms/m/moodys.asp) and [Standard & Poor's](https://www.investopedia.com/terms/s/sp.asp) (S&P’s), Fitch is one of the top three credit rating agencies in the world. The Fitch rating system is very similar to that of S&P in that they both use a letter system.
+Along with [[Moody's]](https://www.investopedia.com/terms/m/moodys.asp) and [[Standard & Poor's]](https://www.investopedia.com/terms/s/sp.asp) (S&P’s), Fitch is one of the top three credit rating agencies in the world. The Fitch rating system is very similar to that of S&P in that they both use a letter system.
 
 The Fitch rating system is as follows:
 
@@ -49,12 +49,12 @@ _Non-investment grade_
 
 ## Fitch Ratings and Sovereign Nations
 
-Fitch offers [sovereign credit ratings](https://www.investopedia.com/terms/s/sovereign-credit-rating.asp) that describe each nation’s ability to meet its debt obligations. Sovereign credit ratings are available to investors to help give them insight into the level of risk associated with investing in a particular country. Countries will invite Fitch and other credit rating agencies to evaluate their economic and political environments and financial situations to determine a representative rating. It’s very important to obtain the best sovereign credit rating possible, particularly in the case of developing nations, as it aids in accessing funding in international bond markets.
+Fitch offers [[sovereign credit ratings]](https://www.investopedia.com/terms/s/sovereign-credit-rating.asp) that describe each nation’s ability to meet its debt obligations. Sovereign credit ratings are available to investors to help give them insight into the level of risk associated with investing in a particular country. Countries will invite Fitch and other credit rating agencies to evaluate their economic and political environments and financial situations to determine a representative rating. It’s very important to obtain the best sovereign credit rating possible, particularly in the case of developing nations, as it aids in accessing funding in international bond markets.
 
 In 2018 Fitch awarded the United States with the highest AAA sovereign credit rating. On the lower end was Brazil with a BB-.12
 
 ## Fitch Ratings and Individual Credit Scores
 
-While Fitch, Moody’s, and S&P ratings often correlate with companies, institutions, and nations many credit rating agencies also offer individual [credit scores](https://www.investopedia.com/terms/c/credit_score.asp). These play central roles in lenders’ decisions to extend credit.
+While Fitch, Moody’s, and S&P ratings often correlate with companies, institutions, and nations many credit rating agencies also offer individual [[credit scores]](https://www.investopedia.com/terms/c/credit_score.asp). These play central roles in lenders’ decisions to extend credit.
 
-For example, those with credit scores below 640 are generally considered to be [subprime borrowers](https://www.investopedia.com/terms/s/subprime-borrower.asp), for which lending institutions often charge higher interest than they would for a conventional mortgage. This is in order to compensate themselves for carrying the additional risk. For subprime borrowers, lenders may also require shorter repayment terms or a co-signer for borrowers with a low credit score.
+For example, those with credit scores below 640 are generally considered to be [[subprime borrowers]](https://www.investopedia.com/terms/s/subprime-borrower.asp), for which lending institutions often charge higher interest than they would for a conventional mortgage. This is in order to compensate themselves for carrying the additional risk. For subprime borrowers, lenders may also require shorter repayment terms or a co-signer for borrowers with a low credit score.

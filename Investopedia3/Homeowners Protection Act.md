@@ -16,7 +16,7 @@ author: Julia Kagan
 Homeowners Protection Act
 ## What Is the Homeowners Protection Act?
 
-The Homeowners Protection Act of 1998 is a law designed to reduce the unnecessary payment of [private mortgage insurance (PMI)](https://www.investopedia.com/mortgage/insurance/) by homeowners who may no longer be required to pay it. The Homeowners Protection Act covers all private, residential mortgages purchased after July 29, 1999. The act, also known as the PMI Cancellation Act, mandates that [lenders](https://www.investopedia.com/terms/l/lender.asp) disclose certain information about PMI.
+The Homeowners Protection Act of 1998 is a law designed to reduce the unnecessary payment of [[private mortgage insurance (PMI)]](https://www.investopedia.com/mortgage/insurance/) by homeowners who may no longer be required to pay it. The Homeowners Protection Act covers all private, residential mortgages purchased after July 29, 1999. The act, also known as the PMI Cancellation Act, mandates that [[lenders]](https://www.investopedia.com/terms/l/lender.asp) disclose certain information about PMI.
 
 The law also stipulates that PMI must be automatically terminated for homeowners who accumulate the required amount of equity in their homes (and thus, are no longer required to have purchased PMI).
 
@@ -35,7 +35,7 @@ If a borrower can't—or chooses not to—come up with that amount, a lender ma
 
 The Homeowners Protection Act does not apply to Veterans Affairs (VA) or Federal Housing Administration (FHA) loans.
 
-An additional reason that a homeowner may be required to purchase PMI coverage is if the mortgage the homeowner seeks has a high [loan-to-value (LTV) ratio](https://www.investopedia.com/terms/l/loantovalue.asp).
+An additional reason that a homeowner may be required to purchase PMI coverage is if the mortgage the homeowner seeks has a high [[loan-to-value (LTV) ratio]](https://www.investopedia.com/terms/l/loantovalue.asp).
 
 LTV is one of the measures of risk that lenders use in [underwriting](https://www.investopedia.com/terms/u/underwriting.asp) a mortgage. LTV divides the amount of the loan by the value of the home. Most mortgages with an LTV ratio greater than 80% require that the borrower have PMI because they are considered more likely to [default](https://www.investopedia.com/terms/d/default2.asp) on the mortgage.
 

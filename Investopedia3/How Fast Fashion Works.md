@@ -16,7 +16,7 @@ author: Adam Hayes
 How Fast Fashion Works
 ## What Is Fast Fashion?
 
-Fast fashion is the term used to describe clothing designs that move quickly from the catwalk to stores to meet new trends. The collections are often based on designs presented at Fashion Week events. [Fast fashion](https://www.investopedia.com/articles/investing/041216/hm-secret-its-success.asp) allows mainstream consumers to purchase trendy clothing at an affordable price.
+Fast fashion is the term used to describe clothing designs that move quickly from the catwalk to stores to meet new trends. The collections are often based on designs presented at Fashion Week events. [[Fast fashion]](https://www.investopedia.com/articles/investing/041216/hm-secret-its-success.asp) allows mainstream consumers to purchase trendy clothing at an affordable price.
 
 Fast fashion became common because of cheaper clothing, an increase in the appetite for fashionable clothing, and the increase in purchasing power on the part of consumers. Because of all this, fast fashion is challenging new fashion lines that are introduced on a seasonal basis by traditional fashion houses. In fact, it's not uncommon for fast-fashion retailers to introduce new products multiple times in one week to stay on trend.
 
@@ -29,7 +29,7 @@ Fast fashion became common because of cheaper clothing, an increase in the appet
 
 [Shopping for clothing](https://www.investopedia.com/articles/markets/120215/hm-vs-zara-vs-uniqlo-comparing-business-models.asp) was once considered an event. Consumers would save up to buy clothing at certain times of the year. But that changed in the late 1990s, as shopping became a form of entertainment and demand for clothing increased. Enter fast fashion, the cheaper, trendier clothing that allowed consumers to feel as though they were wearing the same clothing that was on the runway at fashion shows.
 
-Fast fashion is made possible by innovations in [supply chain management](https://www.investopedia.com/terms/s/scm.asp) (SCM) among fashion retailers. Its goal is to produce articles of clothing quickly that are cost-efficient. These clothes respond to fast-shifting consumer demands. The assumption is that consumers want high fashion at a low price.
+Fast fashion is made possible by innovations in [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp) (SCM) among fashion retailers. Its goal is to produce articles of clothing quickly that are cost-efficient. These clothes respond to fast-shifting consumer demands. The assumption is that consumers want high fashion at a low price.
 
 Fast fashion follows the concept of category management, linking the manufacturer with the consumer in a mutually beneficial relationship. The speed at which fast fashion happens requires this kind of collaboration, as the need to refine and accelerate supply chain processes is paramount.
 
@@ -53,4 +53,4 @@ Despite the advantages for customers, fast fashion has also been criticized beca
 
 Critics contend that fast fashion contributes to pollution, poor workmanship, and poor working conditions in developing countries, where many of the clothing is manufactured. Because the clothing is made overseas, it's also seen as causing a decline in U.S. manufacturing.
 
-The trend has also been criticized on [intellectual property](https://www.investopedia.com/terms/i/intellectualproperty.asp) grounds, with some designers alleging that their designs have been illegally mass-produced by retailers.
+The trend has also been criticized on [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp) grounds, with some designers alleging that their designs have been illegally mass-produced by retailers.

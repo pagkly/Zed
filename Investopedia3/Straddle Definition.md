@@ -16,9 +16,9 @@ author: James Chen
 Straddle Definition
 ## What Is a Straddle?
 
-A straddle is a neutral options strategy that involves simultaneously buying both a [put](https://www.investopedia.com/terms/p/putoption.asp) option and a [call](https://www.investopedia.com/terms/c/call.asp) option for the underlying security with the same [strike price](https://www.investopedia.com/terms/s/strikeprice.asp) and the same [expiration date](https://www.investopedia.com/terms/e/expiration-date.asp).
+A straddle is a neutral options strategy that involves simultaneously buying both a [[put]](https://www.investopedia.com/terms/p/putoption.asp) option and a [[call]](https://www.investopedia.com/terms/c/call.asp) option for the underlying security with the same [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) and the same [[expiration date]](https://www.investopedia.com/terms/e/expiration-date.asp).
 
-A trader will profit from a long straddle when the price of the security rises or falls from the strike price by an amount more than the total cost of the [premium](https://www.investopedia.com/terms/p/premium.asp) paid. Profit potential is virtually unlimited, so long as the price of the underlying security moves very sharply.
+A trader will profit from a long straddle when the price of the security rises or falls from the strike price by an amount more than the total cost of the [[premium]](https://www.investopedia.com/terms/p/premium.asp) paid. Profit potential is virtually unlimited, so long as the price of the underlying security moves very sharply.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ More broadly, straddle strategies in finance refer to two separate transactions 
 
 Image by Julie Bang © Investopedia 2019 
 
-A straddle can give a trader two significant clues about what the options market thinks about a stock. First is the [volatility](https://www.investopedia.com/terms/v/volatility.asp) the market is expecting from the security. Second is the expected trading range of the stock by the expiration date.
+A straddle can give a trader two significant clues about what the options market thinks about a stock. First is the [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) the market is expecting from the security. Second is the expected trading range of the stock by the expiration date.
 
 ## Putting Together a Straddle
 

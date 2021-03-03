@@ -20,7 +20,7 @@ The term "gross estate" refers to the total dollar value of an individual’s pr
 
 ## Breaking Down Gross Estate
 
-Gross estate values are typically calculated by an executor, which defines an individual who is primarily responsible for fulfilling the directives of the deceased. Executors may only be appointed if they are specifically named on a legally-recognized [last will and testament](https://www.investopedia.com/terms/l/last-will-and-testament.asp). In the event that an executor is not designated, a court-appointed administrator will take over the responsibility of executing the deceased individual's estate. However, having an executor in place is a much favorable approach, because it lets people cherry-pick a person they wholeheartedly trust to oversee their estates, during their living years.
+Gross estate values are typically calculated by an executor, which defines an individual who is primarily responsible for fulfilling the directives of the deceased. Executors may only be appointed if they are specifically named on a legally-recognized [[last will and testament]](https://www.investopedia.com/terms/l/last-will-and-testament.asp). In the event that an executor is not designated, a court-appointed administrator will take over the responsibility of executing the deceased individual's estate. However, having an executor in place is a much favorable approach, because it lets people cherry-pick a person they wholeheartedly trust to oversee their estates, during their living years.
 
 ### Key Takeaways
 
@@ -40,6 +40,6 @@ An executor's third and final task involves distributing the net estate among a
 
 ## Where Can Estate Executors Find Assistance?
 
-For estate settlement advice, individuals may consult [Internal Revenue Service (IRS) Publication 559](https://www.investopedia.com/terms/i/irs-pub-908.asp), which provides useful guidance, and also helps individuals calculate taxes owed on an estate. This resource can also help clarify which portions of an estate beneficiaries may deduct, while also instructing individuals on how they may claim deductions and credits.
+For estate settlement advice, individuals may consult [[Internal Revenue Service (IRS) Publication 559]](https://www.investopedia.com/terms/i/irs-pub-908.asp), which provides useful guidance, and also helps individuals calculate taxes owed on an estate. This resource can also help clarify which portions of an estate beneficiaries may deduct, while also instructing individuals on how they may claim deductions and credits.
 
 **\[Important: Certain types of gifts, if made within three years before the donor's death, are includible in one's gross estate.\]**

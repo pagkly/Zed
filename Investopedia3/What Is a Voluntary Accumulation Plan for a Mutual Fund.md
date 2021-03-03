@@ -16,7 +16,7 @@ author: Carol Kopp
 What Is a Voluntary Accumulation Plan for a Mutual Fund?
 ## What Is a Voluntary Accumulation Plan?
 
-A voluntary accumulation plan offers a mutual fund investor a way to accumulate a large number of shares over time by investing a manageable fixed-dollar amount on a regular schedule, usually monthly. The small investor gets the opportunity to take advantage of the [dollar-cost averaging](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy.
+A voluntary accumulation plan offers a mutual fund investor a way to accumulate a large number of shares over time by investing a manageable fixed-dollar amount on a regular schedule, usually monthly. The small investor gets the opportunity to take advantage of the [[dollar-cost averaging]](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy.
 
 Many mutual funds offer their customers the ability to do this.
 

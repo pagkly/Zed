@@ -16,7 +16,7 @@ author: Julia Kagan
 Guaranteed Minimum Withdrawal Benefit (GMWB)
 ## What Is a Guaranteed Minimum Withdrawal Benefit (GMWB)?
 
-A guaranteed minimum withdrawal benefit (GMWB) is a type of rider or contract attached to some annuity insurance policies. It guarantees the policyholder a steady stream of annual withdrawals via the return of all premiums paid into the contract, regardless of an investment's performance, through a series of annual withdrawals. A GMWB is unlike a [guaranteed minimum income benefit](https://www.investopedia.com/terms/g/gmib.asp) (GMIB), where the latter offers a payout of specified minimum periodic income after a waiting period, regardless of the variable annuity's investment performance.
+A guaranteed minimum withdrawal benefit (GMWB) is a type of rider or contract attached to some annuity insurance policies. It guarantees the policyholder a steady stream of annual withdrawals via the return of all premiums paid into the contract, regardless of an investment's performance, through a series of annual withdrawals. A GMWB is unlike a [[guaranteed minimum income benefit]](https://www.investopedia.com/terms/g/gmib.asp) (GMIB), where the latter offers a payout of specified minimum periodic income after a waiting period, regardless of the variable annuity's investment performance.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A guaranteed minimum withdrawal benefit (GMWB) is a type of rider or contract 
 
 ## Understanding Guaranteed Minimum Withdrawal Benefit (GMWB)
 
-Guaranteed minimum withdrawal benefit (GMWB) riders are available for some [fixed annuity](https://www.investopedia.com/terms/f/fixedannuity.asp) and [variable annuity](https://www.investopedia.com/terms/v/variableannuity.asp) products. During market downturns, the policyholder, or annuitant, can withdraw a maximum percentage of their entire investments in the annuity. Annual maximum percentages available for withdrawal vary with contracts but are usually between 5% and 10%. of the initial investment amount. Until reaching the depletion of the total initial investment, the annuitant may continue to receive income during the withdrawal period.
+Guaranteed minimum withdrawal benefit (GMWB) riders are available for some [[fixed annuity]](https://www.investopedia.com/terms/f/fixedannuity.asp) and [[variable annuity]](https://www.investopedia.com/terms/v/variableannuity.asp) products. During market downturns, the policyholder, or annuitant, can withdraw a maximum percentage of their entire investments in the annuity. Annual maximum percentages available for withdrawal vary with contracts but are usually between 5% and 10%. of the initial investment amount. Until reaching the depletion of the total initial investment, the annuitant may continue to receive income during the withdrawal period.
 
 A GMWB protects annuitants against investment losses without losing the benefit of upside gain. For example, suppose that Jamie's initial investment was $100,000. But because of downturns in the economy, that investment is now only worth $85,000. Since Jamie had purchased a guaranteed minimum withdrawal benefit with a rate of 10%, she will be able to activate the rider contract to withdraw a certain percentage each year ($8,500 in this case) until she recovers the entire $100,000 initial investment.
 

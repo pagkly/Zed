@@ -16,9 +16,9 @@ author: James Chen
 What Is a Dirty Price?
 ## What Is Dirty Price?
 
-A dirty price is a bond pricing quote, which refers to the cost of a bond that includes [accrued interest](https://www.investopedia.com/terms/a/accruedinterest.asp) based on the [coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp). Bond price quotes between coupon payment dates reflect the accrued interest up to the day of the quote.
+A dirty price is a bond pricing quote, which refers to the cost of a bond that includes [[accrued interest]](https://www.investopedia.com/terms/a/accruedinterest.asp) based on the [[coupon rate]](https://www.investopedia.com/terms/c/coupon-rate.asp). Bond price quotes between coupon payment dates reflect the accrued interest up to the day of the quote.
 
-In short, a dirty bond price includes accrued interest while a [clean price](https://www.investopedia.com/terms/c/cleanprice.asp) does not.
+In short, a dirty bond price includes accrued interest while a [[clean price]](https://www.investopedia.com/terms/c/cleanprice.asp) does not.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ In short, a dirty bond price includes accrued interest while a [clean price](htt
 
 ## Understanding Dirty Price
 
-Accrued interest is earned when a coupon bond is currently in between coupon payment dates. As the next coupon [payment date](https://www.investopedia.com/terms/p/paymentdate.asp) approaches, the accrued interest increases each day until the payment of the coupon. On the day of the coupon payment, the clean price and dirty price are equal since there is no accrued interest until the next market day.
+Accrued interest is earned when a coupon bond is currently in between coupon payment dates. As the next coupon [[payment date]](https://www.investopedia.com/terms/p/paymentdate.asp) approaches, the accrued interest increases each day until the payment of the coupon. On the day of the coupon payment, the clean price and dirty price are equal since there is no accrued interest until the next market day.
 
 The dirty price is sometimes called the price plus accrued. In the United States, the clean price is quoted more often while in Europe, the dirty price is the standard.
 

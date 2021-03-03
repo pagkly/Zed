@@ -16,9 +16,9 @@ author: Katelyn Peters
 Unlimited Tax Bond
 ## What Is an Unlimited Tax Bond?
 
-Unlimited tax bonds are [municipal bonds](https://www.investopedia.com/terms/m/municipalbond.asp) guaranteed by the full faith and credit of a government that can levy taxes until the debt is repaid.
+Unlimited tax bonds are [[municipal bonds]](https://www.investopedia.com/terms/m/municipalbond.asp) guaranteed by the full faith and credit of a government that can levy taxes until the debt is repaid.
 
-The repayment of an unlimited tax bond is based on the issuer's ability to levy taxes on its residents; a municipality may increase [property taxes](https://www.investopedia.com/terms/p/propertytax.asp) accordingly to cover its payments and obligations.
+The repayment of an unlimited tax bond is based on the issuer's ability to levy taxes on its residents; a municipality may increase [[property taxes]](https://www.investopedia.com/terms/p/propertytax.asp) accordingly to cover its payments and obligations.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The repayment of an unlimited tax bond is based on the issuer's ability to levy 
 
 ## Understanding an Unlimited Tax Bond
 
-Unlimited tax bonds are a type of tax-supported bond, also called a [general obligation (GO) bond](https://www.investopedia.com/terms/g/generalobligationbond.asp).
+Unlimited tax bonds are a type of tax-supported bond, also called a [[general obligation (GO) bond]](https://www.investopedia.com/terms/g/generalobligationbond.asp).
 
 GO bonds are a way for local governments to create streams of income for things such as roads, parks, equipment, and bridges. They are usually used to fund government projects that will serve the public community.
 
@@ -38,9 +38,9 @@ The amount of taxation available by a particular GO bond may be specified as eit
 
 ## Unlimited Tax Bond vs. Limited Tax Bond
 
-Backed by the full taxing power of the issuer, unlimited tax bonds can use property taxes, sales taxes, special taxes, and other sources of income to repay the bonds, as well as the interest owed to investors. These municipal bonds are secured by some limited taxing power of the [issuer](https://www.investopedia.com/terms/i/issuer.asp). For instance, an issue may be secured by a town’s property tax subject to a maximum rate at which the tax may be imposed. 
+Backed by the full taxing power of the issuer, unlimited tax bonds can use property taxes, sales taxes, special taxes, and other sources of income to repay the bonds, as well as the interest owed to investors. These municipal bonds are secured by some limited taxing power of the [[issuer]](https://www.investopedia.com/terms/i/issuer.asp). For instance, an issue may be secured by a town’s property tax subject to a maximum rate at which the tax may be imposed. 
 
-In theory, unlimited tax bond issuers can raise taxes at an unrestricted rate. In practice, however, it may be difficult to raise taxes beyond a certain point. One of the factors that credit analysts use to rate such bonds is the ability of the issuer to enforce penalties against and recover taxes from delinquent taxpayers. Given the government guarantee, unlimited tax bonds may have higher [credit ratings](https://www.investopedia.com/terms/c/creditrating.asp) and offer lower [yields](https://www.investopedia.com/terms/y/yield.asp) than other comparable municipal bonds of the same maturity.
+In theory, unlimited tax bond issuers can raise taxes at an unrestricted rate. In practice, however, it may be difficult to raise taxes beyond a certain point. One of the factors that credit analysts use to rate such bonds is the ability of the issuer to enforce penalties against and recover taxes from delinquent taxpayers. Given the government guarantee, unlimited tax bonds may have higher [[credit ratings]](https://www.investopedia.com/terms/c/creditrating.asp) and offer lower [[yields]](https://www.investopedia.com/terms/y/yield.asp) than other comparable municipal bonds of the same maturity.
 
 Unlimited tax municipal bonds have historically had a lower risk than most other bond categories, primarily because unlimited tax bonds can only be created when taxpayers vote to approve the bond issues. This requirement clearly indicates the level of demand for the bonds. Voter approval also means the voters of a given population support the initiative, and there are usually more than adequate assets or taxing power built into the voting language to repay investors who provide the funds.
 

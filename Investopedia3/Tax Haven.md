@@ -30,7 +30,7 @@ In some cases, intranational locations may also be identified as tax havens if t
 
 [Offshore](https://www.investopedia.com/terms/o/offshore.asp) tax havens benefit from the capital their countries draw into the economy. Funds can flow in from individuals and businesses with accounts setup at banks, financial institutions, and other investment vehicles. Individuals and corporations can potentially benefit from low or no taxes charged on income in foreign countries where loopholes, credits, or other special tax considerations may be allowed.
 
-A list of some of the most popular tax haven countries includes Andorra, the Bahamas, Belize, Bermuda, the British Virgin Islands, the [Cayman Islands](https://www.investopedia.com/ask/answers/100215/why-cayman-islands-considered-tax-haven.asp), the Channel Islands, the Cook Islands, The [Island of Jersey](https://www.investopedia.com/ask/answers/061716/why-jersey-considered-tax-haven-c-cs.asp), Hong Kong, The Isle of Man, Mauritius, Lichtenstein, Monaco, Panama, St. Kitts, and Nevis.
+A list of some of the most popular tax haven countries includes Andorra, the Bahamas, Belize, Bermuda, the British Virgin Islands, the [[Cayman Islands]](https://www.investopedia.com/ask/answers/100215/why-cayman-islands-considered-tax-haven.asp), the Channel Islands, the Cook Islands, The [[Island of Jersey]](https://www.investopedia.com/ask/answers/061716/why-jersey-considered-tax-haven-c-cs.asp), Hong Kong, The Isle of Man, Mauritius, Lichtenstein, Monaco, Panama, St. Kitts, and Nevis.
 
 Worldwide there is not a comprehensively defined standard for the classification of a tax haven country. However, there are several regulatory bodies that monitor tax haven countries, including the Organization of Economic Cooperation and Development (OECD) and the U.S. Government Accountability Office.
 
@@ -42,7 +42,7 @@ The Tax Cuts and Jobs Act (TCJA), which passed in December 2017, set the effecti
 
 Systematically, the TCJA is known for being more territorial in nature than previous international tax law. The international tax system under the TCJA exempts foreign profits from domestic taxation but has certain provisions for high return foreign profits.3 4
 
-In general, this and other provisions, particularly for reinvestments, provide allowances for businesses to benefit from low or no tax rates offered in foreign countries but businesses should closely monitor and accurately report foreign income as it pertains to U.S. tax law, [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), and the guidelines under [International Financial Reporting Standards](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS).
+In general, this and other provisions, particularly for reinvestments, provide allowances for businesses to benefit from low or no tax rates offered in foreign countries but businesses should closely monitor and accurately report foreign income as it pertains to U.S. tax law, [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP), and the guidelines under [[International Financial Reporting Standards]](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS).
 
 Some companies that have historically been known for offshore, tax haven holdings include Apple, Microsoft, Alphabet, Cisco, and Oracle. Overall, tax havens may also offer advantages in the area of credit, since it may be less expensive for U.S.-based companies to borrow funds internationally.
 

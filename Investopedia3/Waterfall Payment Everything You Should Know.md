@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Waterfall Payment: Everything You Should Know
 ## What Is a Waterfall Payment?
 
-Waterfall payment structures require that higher-tiered creditors receive interest and principal payments, while the lower-tiered creditors receive principal payments after the higher-tiered creditors are paid back in full. Debtors typically structure these schemes into such [tranches](https://www.investopedia.com/terms/t/traunch.asp) to prioritize the highest-principal loans first because they are also likely the most expensive.
+Waterfall payment structures require that higher-tiered creditors receive interest and principal payments, while the lower-tiered creditors receive principal payments after the higher-tiered creditors are paid back in full. Debtors typically structure these schemes into such [[tranches]](https://www.investopedia.com/terms/t/traunch.asp) to prioritize the highest-principal loans first because they are also likely the most expensive.
 
 ### Key Takeaways
 
@@ -30,11 +30,11 @@ Imagine a waterfall cascading down into vertically aligned buckets. The water re
 
 Typically, bucket sizes (size of debt) decrease as the water descends. This is likely because paying off large debts reduces the risk of insolvency and frees up cash for operations, capital expenditures, and investments.
 
-For example, this type of plan works best for a company repaying more than one loan. Assume this company has three operating loans, each with different interest rates. The company makes principal and interest payments on the costliest loan and makes only interest payments on the remaining two. Once the most expensive loan is paid off, the company can make all interest and principal payments on the next, more expensive loan. The process continues until all [loans](https://www.investopedia.com/articles/personal-finance/111815/6-biggest-banks-offering-personal-loans.asp) are repaid.
+For example, this type of plan works best for a company repaying more than one loan. Assume this company has three operating loans, each with different interest rates. The company makes principal and interest payments on the costliest loan and makes only interest payments on the remaining two. Once the most expensive loan is paid off, the company can make all interest and principal payments on the next, more expensive loan. The process continues until all [[loans]](https://www.investopedia.com/articles/personal-finance/111815/6-biggest-banks-offering-personal-loans.asp) are repaid.
 
 ## Example of Waterfall Payments
 
-To demonstrate how a waterfall payment scheme works, assume a company has taken loans from three [creditors](https://www.investopedia.com/articles/mortgages-real-estate/09/equity-stripping-assets.asp), Creditor A, Creditor B, and Creditor C. The scheme is structured so that Creditor A is the highest-tiered creditor while Creditor C is the lowest-tiered creditor. The arrangement for what the company owes each of the creditors is as follows:
+To demonstrate how a waterfall payment scheme works, assume a company has taken loans from three [[creditors]](https://www.investopedia.com/articles/mortgages-real-estate/09/equity-stripping-assets.asp), Creditor A, Creditor B, and Creditor C. The scheme is structured so that Creditor A is the highest-tiered creditor while Creditor C is the lowest-tiered creditor. The arrangement for what the company owes each of the creditors is as follows:
 
 -   Creditor A is owed a total of $5 million in interest and $10 million in principal.
 -   Creditor B is owed a total of $3 million in interest and $8 million in principal.

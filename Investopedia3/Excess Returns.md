@@ -16,7 +16,7 @@ author: James Chen
 Excess Returns
 ## What Are Excess Returns?
 
-Excess returns are returns achieved above and beyond the return of a proxy. Excess returns will depend on a designated [investment return](https://www.investopedia.com/articles/08/annualized-returns.asp) comparison for analysis. Some of the most basic return comparisons include a riskless rate and benchmarks with similar levels of risk to the investment being analyzed. 
+Excess returns are returns achieved above and beyond the return of a proxy. Excess returns will depend on a designated [[investment return]](https://www.investopedia.com/articles/08/annualized-returns.asp) comparison for analysis. Some of the most basic return comparisons include a riskless rate and benchmarks with similar levels of risk to the investment being analyzed. 
 
 ## Understanding Excess Returns
 
@@ -64,7 +64,7 @@ Beta can be a helpful indicator for investors when understanding their excess re
 
 _Jensen’s Alpha_
 
-In active management, fund manager alpha can be used as a metric for evaluating the performance of a manager overall. Some funds provide their managers a performance fee which offers extra incentive for fund managers to exceed their benchmarks. In investments there is also a metric known as [Jensen’s Alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp). Jensen’s Alpha seeks to provide transparency around how much of a manager’s excess return was related to risks beyond a fund’s benchmark.
+In active management, fund manager alpha can be used as a metric for evaluating the performance of a manager overall. Some funds provide their managers a performance fee which offers extra incentive for fund managers to exceed their benchmarks. In investments there is also a metric known as [[Jensen’s Alpha]](https://www.investopedia.com/terms/j/jensensmeasure.asp). Jensen’s Alpha seeks to provide transparency around how much of a manager’s excess return was related to risks beyond a fund’s benchmark.
 
 Jensen’s Alpha is calculated by:
 
@@ -74,7 +74,7 @@ A Jensen’s Alpha of zero means that the alpha achieved exactly compensated the
 
 _Sharpe Ratio_
 
-In fund management, the [Sharpe Ratio](https://www.investopedia.com/ask/answers/010815/how-do-you-calculate-sharpe-ratio-excel.asp) is another metric that helps an investor understand their excess return in terms of risk.
+In fund management, the [[Sharpe Ratio]](https://www.investopedia.com/ask/answers/010815/how-do-you-calculate-sharpe-ratio-excel.asp) is another metric that helps an investor understand their excess return in terms of risk.
 
 The Sharpe Ratio is calculated by:
 

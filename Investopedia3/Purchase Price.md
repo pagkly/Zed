@@ -16,7 +16,7 @@ author: James Chen
 Purchase Price
 ## What Is the Purchase Price?
 
-The purchase price is the price an investor pays for an investment, and the price becomes the investor’s [cost basis](https://www.investopedia.com/terms/c/costbasis.asp) for calculating gain or loss when selling the investment. The purchase price includes any [commission](https://www.investopedia.com/terms/c/commission.asp) or sales charges paid for the investment, and the weighted average cost is used for multiple purchases of the same security.
+The purchase price is the price an investor pays for an investment, and the price becomes the investor’s [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) for calculating gain or loss when selling the investment. The purchase price includes any [[commission]](https://www.investopedia.com/terms/c/commission.asp) or sales charges paid for the investment, and the weighted average cost is used for multiple purchases of the same security.
 
 ## Understanding Purchase Price
 
@@ -28,6 +28,6 @@ The formula can also be adjusted for stock sales if the investor only sells a p
 
 ## The Differences Between Realized and Unrealized Gains
 
-Investors use the purchase price of an investment to calculate [realized gains](https://www.investopedia.com/terms/r/realizedprofit.asp) or losses for tax purposes, and they report that activity on [Schedule D](https://www.investopedia.com/terms/s/scheduled.asp) of IRS form 1040. An investor reports a realized gain if they sell some or all of their investment holdings. If they sell no securities, the investor has an unrealized gain or loss, which is not reported for tax purposes.
+Investors use the purchase price of an investment to calculate [[realized gains]](https://www.investopedia.com/terms/r/realizedprofit.asp) or losses for tax purposes, and they report that activity on [[Schedule D]](https://www.investopedia.com/terms/s/scheduled.asp) of IRS form 1040. An investor reports a realized gain if they sell some or all of their investment holdings. If they sell no securities, the investor has an unrealized gain or loss, which is not reported for tax purposes.
 
-Assume, for example, an investor sells 100 shares of Ford stock at a sale price of $80 per share and uses the weighted average cost of $62 to calculate a realized gain of $18 per share. The investor reports the number of shares, along with the weighted average cost and the sale price per share, on Schedule D. The total realized gain of $1,800 is long term because the investor held the shares for over one year. The $1,800 long-term capital gain is offset by any capital losses, and the net gain is taxable using [capital gains tax](https://www.investopedia.com/terms/c/capital_gains_tax.asp) rates.
+Assume, for example, an investor sells 100 shares of Ford stock at a sale price of $80 per share and uses the weighted average cost of $62 to calculate a realized gain of $18 per share. The investor reports the number of shares, along with the weighted average cost and the sale price per share, on Schedule D. The total realized gain of $1,800 is long term because the investor held the shares for over one year. The $1,800 long-term capital gain is offset by any capital losses, and the net gain is taxable using [[capital gains tax]](https://www.investopedia.com/terms/c/capital_gains_tax.asp) rates.

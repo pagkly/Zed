@@ -16,7 +16,7 @@ author: Staff
 Jumbo Pool
 ## What Is a Jumbo Pool?
 
-A jumbo pool is a pass-through Ginnie Mae II mortgage-backed security (MBS) that is [collateralized](https://www.investopedia.com/terms/c/collateralization.asp) by multiple-issuer pools. These pools combine mortgage loans with similar characteristics and are more massive than single-issuer pools. The mortgages contained in jumbo pools are more diverse on a geographical basis than are those in single-issuer pools.
+A jumbo pool is a pass-through Ginnie Mae II mortgage-backed security (MBS) that is [[collateralized]](https://www.investopedia.com/terms/c/collateralization.asp) by multiple-issuer pools. These pools combine mortgage loans with similar characteristics and are more massive than single-issuer pools. The mortgages contained in jumbo pools are more diverse on a geographical basis than are those in single-issuer pools.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A jumbo pool is a pass-through Ginnie Mae II mortgage-backed security (MBS) that
 
 Jumbo pools are groups of mortgage loans from multiple lenders that are securitized by selling shares of the pools on the open market to investors. The investors who purchase these securities receive an aggregate principal and interest payments from a central paying agent, usually yearly or every six months.
 
-Interest rates on mortgage loans contained within the jumbo pools may vary within one percentage point. This limited variation of interest makes the principal and interest payments received by investors predictable and less volatile. Because multiple issuers back these pools, they are typically considered a safer form of [mortgage-backed security](https://www.investopedia.com/terms/m/mbs.asp) (MBS) investment.
+Interest rates on mortgage loans contained within the jumbo pools may vary within one percentage point. This limited variation of interest makes the principal and interest payments received by investors predictable and less volatile. Because multiple issuers back these pools, they are typically considered a safer form of [[mortgage-backed security]](https://www.investopedia.com/terms/m/mbs.asp) (MBS) investment.
 
 ## Advantages of Jumbo Pools
 
@@ -38,7 +38,7 @@ Regionally, mortgage holders may default on notes due to a natural disaster in t
 
 ## Risk Associated With Jumbo Pools
 
-Potential risks to investors include early payment of one or more of the mortgage loans in the jumbo pool. Mortgage holders may make extra payments to pay off their mortgages early or sell their houses and pay off the entire amount at one time. When interest rates fall, mortgage holders may [refinance](https://www.investopedia.com/terms/r/refinance.asp) their loans at a lower rate and pay off the entire mortgage to do so.
+Potential risks to investors include early payment of one or more of the mortgage loans in the jumbo pool. Mortgage holders may make extra payments to pay off their mortgages early or sell their houses and pay off the entire amount at one time. When interest rates fall, mortgage holders may [[refinance]](https://www.investopedia.com/terms/r/refinance.asp) their loans at a lower rate and pay off the entire mortgage to do so.
 
 Another risk to investors in jumbo pools is the natural shrinking of the principal payment as the loans in the jumbo pool are paid down. This shrinking of the size of the principal owed decreases the size of the corresponding interest payments.
 

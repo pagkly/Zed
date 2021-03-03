@@ -16,7 +16,7 @@ author: Lucas Downey
 Optimization Definition
 ## What Is an Optimization?
 
-Optimization is the process of making a trading system more effective by adjusting the variables used for [technical analysis](https://www.investopedia.com/terms/t/technicalanalysis.asp).
+Optimization is the process of making a trading system more effective by adjusting the variables used for [[technical analysis]](https://www.investopedia.com/terms/t/technicalanalysis.asp).
 
 ## How an Optimization Works
 

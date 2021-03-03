@@ -16,7 +16,7 @@ author: Julia Kagan
 Wrap-Around Loan Defintion
 ## What Is a Wrap-Around Loan?
 
-A wrap-around loan is a type of [mortgage](https://www.investopedia.com/terms/m/mortgage.asp) loan that can be used in [owner-financing deals](https://www.investopedia.com/terms/o/owner-financing.asp). This type of loan involves the seller’s mortgage on the home and adds an additional incremental value to arrive at the total purchase price that must be paid to the seller over time.
+A wrap-around loan is a type of [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp) loan that can be used in [[owner-financing deals]](https://www.investopedia.com/terms/o/owner-financing.asp). This type of loan involves the seller’s mortgage on the home and adds an additional incremental value to arrive at the total purchase price that must be paid to the seller over time.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ A wrap-around loan is a type of [mortgage](https://www.investopedia.com/terms/m/
 
 The form of financing that a wrap-around loan relies on is commonly used in seller-financed deals. A wrap-around loan takes on the same characteristics as a seller-financed loan, but it factors a seller’s current mortgage into the financing terms.
 
-[Seller financing](https://www.investopedia.com/terms/s/seller-financing.asp) is a type of financing that allows the buyer to pay a principal amount directly to the seller. Seller financing deals have high risks for the seller and usually require higher-than-average down payments. In a seller-financed deal, the agreement is based upon a [promissory note](https://www.investopedia.com/terms/p/promissorynote.asp) that details the terms of the financing. In addition, a seller-financed deal doesn't require that principal be exchanged upfront, and the buyer makes installment payments directly to the seller, which include principal and interest.
+[Seller financing](https://www.investopedia.com/terms/s/seller-financing.asp) is a type of financing that allows the buyer to pay a principal amount directly to the seller. Seller financing deals have high risks for the seller and usually require higher-than-average down payments. In a seller-financed deal, the agreement is based upon a [[promissory note]](https://www.investopedia.com/terms/p/promissorynote.asp) that details the terms of the financing. In addition, a seller-financed deal doesn't require that principal be exchanged upfront, and the buyer makes installment payments directly to the seller, which include principal and interest.
 
-Wrap-around loans can be risky for sellers since they take on the full default risk on the loan. Sellers must also be sure that their existing mortgage does not include an [alienation clause](https://www.investopedia.com/terms/a/alienation_clause.asp), which requires them to repay the mortgage lending institution in full if collateral ownership is transferred or if the collateral is sold. Alienation clauses are common in most mortgage loans, which often prevent wrap-around loan deals from occurring.
+Wrap-around loans can be risky for sellers since they take on the full default risk on the loan. Sellers must also be sure that their existing mortgage does not include an [[alienation clause]](https://www.investopedia.com/terms/a/alienation_clause.asp), which requires them to repay the mortgage lending institution in full if collateral ownership is transferred or if the collateral is sold. Alienation clauses are common in most mortgage loans, which often prevent wrap-around loan deals from occurring.
 
 ## How a Wrap-Around Loan Works
 

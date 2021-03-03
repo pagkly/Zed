@@ -24,7 +24,7 @@ Retained earnings is part of shareholder equity and is the percentage of net 
 
 Shareholders’ equity\=total assets−total liabilities\\begin{aligned} &\\text{Shareholders' equity}=\\text{total assets} - \\text{total liabilities} \\end{aligned}
 
-The formula above is also known as the accounting equation or balance sheet equation. The balance sheet holds the [basis](https://www.investopedia.com/ask/answers/070615/how-do-you-calculate-shareholder-equity.asp) of the accounting equation.
+The formula above is also known as the accounting equation or balance sheet equation. The balance sheet holds the [[basis]](https://www.investopedia.com/ask/answers/070615/how-do-you-calculate-shareholder-equity.asp) of the accounting equation.
 
 The steps to calculate shareholder equity are as follows:
 
@@ -37,11 +37,11 @@ For some purposes, such as dividends and earnings per share, a more relevant mea
 
 ## What Shareholder Equity Can Tell You
 
-Shareholder equity can be either [negative](https://www.investopedia.com/ask/answers/08/negative-shareholder-equity.asp) or positive. If positive, the company has enough assets to cover its liabilities. If negative, the company's liabilities exceed its assets; if prolonged, this is considered balance sheet [insolvency](https://www.investopedia.com/terms/i/insolvency.asp). 
+Shareholder equity can be either [[negative]](https://www.investopedia.com/ask/answers/08/negative-shareholder-equity.asp) or positive. If positive, the company has enough assets to cover its liabilities. If negative, the company's liabilities exceed its assets; if prolonged, this is considered balance sheet [[insolvency]](https://www.investopedia.com/terms/i/insolvency.asp). 
 
 For this reason, many investors view companies with negative shareholder equity as risky or unsafe investments. Shareholder equity alone is not a definitive indicator of a company's financial health; used in conjunction with other tools and metrics, the investor can accurately analyze the health of an organization.
 
-All the information needed to compute a company's shareholder equity is available on its [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). Total assets include current and non-current assets. Current assets are assets that can be converted to cash within a year (e.g., cash, accounts receivable, inventory, et al.). Long-term assets are assets that cannot be converted to cash or consumed within a year (e.g. investments; property, plant, and equipment; and intangibles, such as patents).
+All the information needed to compute a company's shareholder equity is available on its [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). Total assets include current and non-current assets. Current assets are assets that can be converted to cash within a year (e.g., cash, accounts receivable, inventory, et al.). Long-term assets are assets that cannot be converted to cash or consumed within a year (e.g. investments; property, plant, and equipment; and intangibles, such as patents).
 
 Total liabilities consist of current and long-term liabilities. Current liabilities are debts typically due for repayment within one year (e.g. accounts payable and taxes payable). Long-term liabilities are obligations that are due for repayment in periods longer than one year (e.g., bonds payable, leases, and pension obligations). Upon calculating the total assets and liabilities, shareholder equity can be determined.
 

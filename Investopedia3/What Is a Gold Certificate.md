@@ -14,13 +14,13 @@ author: James Chen
 ---
 
 What Is a Gold Certificate?
-A gold certificate is a paper document that represents a claim on a specified amount or value of gold. When the [U.S. dollar](https://www.investopedia.com/articles/forex-currencies/092316/how-us-dollar-became-worlds-reserve-currency.asp) was tied to the gold standard, gold certificates were worth their face value in U.S. dollars and could be used as legal tender. Gold certificates are still issued to investors as proof of ownership of gold stored by a bank.
+A gold certificate is a paper document that represents a claim on a specified amount or value of gold. When the [[U.S. dollar]](https://www.investopedia.com/articles/forex-currencies/092316/how-us-dollar-became-worlds-reserve-currency.asp) was tied to the gold standard, gold certificates were worth their face value in U.S. dollars and could be used as legal tender. Gold certificates are still issued to investors as proof of ownership of gold stored by a bank.
 
 The U.S. abandoned the gold standard in 1933. Gold certificates issued by the U.S. Mint are now collectors' items. A gold certificate can be purchased on eBay for about $10-$200 or more depending on its age, rarity, and condition.
 
 ### Understanding the Gold Certificate
 
-Gold certificates represent ownership of a [quantity of gold](https://www.investopedia.com/articles/investing/072316/how-do-you-purchase-physical-gold-bars.asp), similar to the way that stock certificates represent an ownership share in a company. U.S. gold certificates served the same purpose. In addition, from about 1879 until they were phased out the certificates were identical in value to the same denomination in U.S. currency.
+Gold certificates represent ownership of a [[quantity of gold]](https://www.investopedia.com/articles/investing/072316/how-do-you-purchase-physical-gold-bars.asp), similar to the way that stock certificates represent an ownership share in a company. U.S. gold certificates served the same purpose. In addition, from about 1879 until they were phased out the certificates were identical in value to the same denomination in U.S. currency.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Gold bullion is difficult to carry around or exchange for goods or services. Gol
 
 ### Gold Certificate Designs
 
-U.S. gold certificates resemble paper [banknotes](https://www.investopedia.com/articles/07/roots_of_money.asp) made in the same period with some distinguishing features. The designs varied over the years but most had bright orange-colored backs and a gold-colored U.S. seal on the front.
+U.S. gold certificates resemble paper [[banknotes]](https://www.investopedia.com/articles/07/roots_of_money.asp) made in the same period with some distinguishing features. The designs varied over the years but most had bright orange-colored backs and a gold-colored U.S. seal on the front.
 
 A $1,000 gold certificate printed in 1907, for example, has the denomination in all four corners on the face but is inscribed "IN GOLD COIN" below a portrait of Alexander Hamilton. It also has a gold seal and a gold serial number on the front, and the distinctive orange back.
 

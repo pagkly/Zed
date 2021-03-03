@@ -16,7 +16,7 @@ author: Adam Hayes
 Transportation Sector Definition
 ## What Is the Transportation Sector?
 
-The transportation sector is a category of companies that provide services to move people or goods, as well as transportation infrastructure. Technically, transportation is a sub-group of the industrials sector according to the [Global Industry Classification Standard (GICS).](https://www.investopedia.com/terms/g/gics.asp) The transportation sector consists of several industries including air freight and logistics, airlines, marine, road and rail, and transportation infrastructure. These industries are further broken down into the sub-industries air freight and logistics, airlines, marine, railroads, trucking, airport services, highways and rail tracks, and marine ports and services.
+The transportation sector is a category of companies that provide services to move people or goods, as well as transportation infrastructure. Technically, transportation is a sub-group of the industrials sector according to the [[Global Industry Classification Standard (GICS).]](https://www.investopedia.com/terms/g/gics.asp) The transportation sector consists of several industries including air freight and logistics, airlines, marine, road and rail, and transportation infrastructure. These industries are further broken down into the sub-industries air freight and logistics, airlines, marine, railroads, trucking, airport services, highways and rail tracks, and marine ports and services.
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ You can invest in companies that move people and products by buying shares of in
 
 ### The Dow Jones Transportation Index
 
-The [Dow Jones Transportation Average](https://www.investopedia.com/terms/d/djta.asp) (DJTA) is a price-weighted average of 20 transportation stocks traded in the United States. The DJTA is, in fact, the oldest U.S. stock index, first compiled in 1884 by Charles Dow, co-founder of Dow Jones & Company. The index initially consisted of nine railroad companies, a testament to their dominance of the U.S. transportation sector in the late 19th and early 20th centuries, and two non-railroad companies. In addition to railroads, the index now includes airlines, trucking, marine transportation, delivery services and logistics companies.
+The [[Dow Jones Transportation Average]](https://www.investopedia.com/terms/d/djta.asp) (DJTA) is a price-weighted average of 20 transportation stocks traded in the United States. The DJTA is, in fact, the oldest U.S. stock index, first compiled in 1884 by Charles Dow, co-founder of Dow Jones & Company. The index initially consisted of nine railroad companies, a testament to their dominance of the U.S. transportation sector in the late 19th and early 20th centuries, and two non-railroad companies. In addition to railroads, the index now includes airlines, trucking, marine transportation, delivery services and logistics companies.
 
 **Ticker**
 

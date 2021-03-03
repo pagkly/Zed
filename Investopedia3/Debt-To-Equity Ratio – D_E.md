@@ -18,9 +18,9 @@ Debt-To-Equity Ratio – D/E
 
 The debt-to-equity (D/E) ratio is calculated by dividing a company’s total liabilities by its shareholder equity. These numbers are available on the balance sheet of a company’s financial statements.
 
-The ratio is used to evaluate [a company's financial leverage](https://www.investopedia.com/ask/answers/040915/what-considered-good-net-debttoequity-ratio.asp). The D/E ratio is an important metric used in corporate finance. It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. More specifically, it reflects the ability of shareholder equity to cover all outstanding debts in the event of a business downturn.
+The ratio is used to evaluate [[a company's financial leverage]](https://www.investopedia.com/ask/answers/040915/what-considered-good-net-debttoequity-ratio.asp). The D/E ratio is an important metric used in corporate finance. It is a measure of the degree to which a company is financing its operations through debt versus wholly-owned funds. More specifically, it reflects the ability of shareholder equity to cover all outstanding debts in the event of a business downturn.
 
-The debt-to-equity ratio is a particular type of [gearing ratio](https://www.investopedia.com/terms/g/gearingratio.asp).
+The debt-to-equity ratio is a particular type of [[gearing ratio]](https://www.investopedia.com/terms/g/gearingratio.asp).
 
 ### Key Takeaways
 
@@ -33,19 +33,19 @@ The debt-to-equity ratio is a particular type of [gearing ratio](https://www.inv
 
 Debt/Equity\=Total LiabilitiesTotal Shareholders’ Equity\\begin{aligned} &\\text{Debt/Equity} = \\frac{ \\text{Total Liabilities} }{ \\text{Total Shareholders' Equity} } \\\\ \\end{aligned}
 
-The information needed for the D/E ratio is on a company's [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp). The balance sheet requires total shareholder equity to equal assets minus liabilities, which is a rearranged version of the balance sheet equation:
+The information needed for the D/E ratio is on a company's [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp). The balance sheet requires total shareholder equity to equal assets minus liabilities, which is a rearranged version of the balance sheet equation:
 
 Assets\=Liabilities+Shareholder Equity\\begin{aligned} &\\text{Assets} = \\text{Liabilities} + \\text{Shareholder Equity} \\\\ \\end{aligned}
 
-These balance sheet categories may contain individual accounts that would not normally be considered “debt” or “equity” in the traditional sense of a loan or the book value of an asset. Because the ratio can be distorted by retained earnings/losses, intangible assets, and [pension plan](https://www.investopedia.com/terms/p/pensionplan.asp) adjustments, further research is usually needed to understand a company’s true leverage.
+These balance sheet categories may contain individual accounts that would not normally be considered “debt” or “equity” in the traditional sense of a loan or the book value of an asset. Because the ratio can be distorted by retained earnings/losses, intangible assets, and [[pension plan]](https://www.investopedia.com/terms/p/pensionplan.asp) adjustments, further research is usually needed to understand a company’s true leverage.
 
 Melissa Ling {Copyright} Investopedia, 2019. 
 
-Because of the ambiguity of some of the accounts in the primary balance sheet categories, analysts and investors will often modify the D/E ratio to be more useful and easier to compare between different stocks. Analysis of the D/E ratio can also be improved by including short-term [leverage ratios](https://www.investopedia.com/terms/l/leverageratio.asp), profit performance, and growth expectations.
+Because of the ambiguity of some of the accounts in the primary balance sheet categories, analysts and investors will often modify the D/E ratio to be more useful and easier to compare between different stocks. Analysis of the D/E ratio can also be improved by including short-term [[leverage ratios]](https://www.investopedia.com/terms/l/leverageratio.asp), profit performance, and growth expectations.
 
 ## Calculating the D/E Ratio in Excel
 
-Business owners use a variety of software to track D/E ratios and other financial metrics. Microsoft Excel provides a balance sheet template that automatically calculates financial ratios such as D/E ratio and [debt ratio](https://www.investopedia.com/terms/d/debtratio.asp).1 However, even the amateur trader may want to calculate a company's D/E ratio when evaluating a potential investment opportunity, and it can be calculated without the aid of templates.
+Business owners use a variety of software to track D/E ratios and other financial metrics. Microsoft Excel provides a balance sheet template that automatically calculates financial ratios such as D/E ratio and [[debt ratio]](https://www.investopedia.com/terms/d/debtratio.asp).1 However, even the amateur trader may want to calculate a company's D/E ratio when evaluating a potential investment opportunity, and it can be calculated without the aid of templates.
 
 ## Information From the Debt-To-Equity Ratio
 
@@ -53,13 +53,13 @@ Given that the debt-to-equity ratio measures a company’s debt relative to the 
 
 If a lot of debt is used to finance growth, a company could potentially generate more earnings than it would have without that financing. If leverage increases earnings by a greater amount than the debt’s cost (interest), then shareholders should expect to benefit. However, if the cost of debt financing outweighs the increased income generated, share values may decline. The cost of debt can vary with market conditions. Thus, unprofitable borrowing may not be apparent at first.
 
-Changes in [long-term debt](https://www.investopedia.com/terms/l/longtermdebt.asp) and assets tend to have the greatest impact on the D/E ratio because they tend to be larger accounts compared to [short-term debt](https://www.investopedia.com/terms/s/shorttermdebt.asp) and short-term assets. If investors want to evaluate a company’s short-term leverage and its ability to meet debt obligations that must be paid over a year or less, other ratios will be used.
+Changes in [[long-term debt]](https://www.investopedia.com/terms/l/longtermdebt.asp) and assets tend to have the greatest impact on the D/E ratio because they tend to be larger accounts compared to [[short-term debt]](https://www.investopedia.com/terms/s/shorttermdebt.asp) and short-term assets. If investors want to evaluate a company’s short-term leverage and its ability to meet debt obligations that must be paid over a year or less, other ratios will be used.
 
-For example, an investor who needs to compare a company’s short-term liquidity or solvency will use the [cash ratio](https://www.investopedia.com/terms/c/cash-ratio.asp):
+For example, an investor who needs to compare a company’s short-term liquidity or solvency will use the [[cash ratio]](https://www.investopedia.com/terms/c/cash-ratio.asp):
 
 Cash Ratio\=Cash+Marketable SecuritiesShort-Term Liabilities \\begin{aligned} &\\text{Cash Ratio} = \\frac{ \\text{Cash} + \\text{Marketable Securities} }{ \\text{Short-Term Liabilities } } \\\\ \\end{aligned}
 
-or the [current ratio](https://www.investopedia.com/terms/c/currentratio.asp):
+or the [[current ratio]](https://www.investopedia.com/terms/c/currentratio.asp):
 
 Current Ratio\=Short-Term AssetsShort-Term Liabilities \\begin{aligned} &\\text{Current Ratio} = \\frac{ \\text{Short-Term Assets} }{ \\text{Short-Term Liabilities } } \\\\ \\end{aligned}
 
@@ -75,7 +75,7 @@ As a rule, short-term debt tends to be cheaper than long-term debt and it is les
 
 ## The D/E Ratio for Personal Finances
 
-The debt-to-equity ratio can be applied to [personal financial statements](https://www.investopedia.com/terms/p/personal-financial-statement.asp) as well, in which case it is also known as the personal debt-to-equity ratio. Here, “equity” refers to the difference between the total value of an individual’s assets and the total value of his/her debt or liabilities. The formula for the personal D/E ratio is represented as:
+The debt-to-equity ratio can be applied to [[personal financial statements]](https://www.investopedia.com/terms/p/personal-financial-statement.asp) as well, in which case it is also known as the personal debt-to-equity ratio. Here, “equity” refers to the difference between the total value of an individual’s assets and the total value of his/her debt or liabilities. The formula for the personal D/E ratio is represented as:
 
 Debt/Equity\=Total Personal LiabilitiesPersonal Assets−Liabilities\\begin{aligned} &\\text{Debt/Equity} = \\frac{ \\text{Total Personal Liabilities} }{ \\text{Personal Assets} - \\text{Liabilities} } \\\\ \\end{aligned}
 
@@ -85,7 +85,7 @@ For example, a prospective mortgage borrower is likely to be able to continue ma
 
 ## D/E Ratio vs. the Gearing Ratio
 
-Gearing ratios constitute a broad category of financial ratios, of which the debt-to-equity ratio is the best example. "Gearing" simply refers to financial leverage. [Gearing ratios](https://www.investopedia.com/ask/answers/121614/what-difference-between-gearing-ratio-and-debttoequity-ratio.asp) focus more heavily on the concept of leverage than other ratios used in accounting or investment analysis. This conceptual focus prevents gearing ratios from being precisely calculated or interpreted with uniformity. The underlying principle generally assumes that some leverage is good, but too much places an organization at risk.
+Gearing ratios constitute a broad category of financial ratios, of which the debt-to-equity ratio is the best example. "Gearing" simply refers to financial leverage. [[Gearing ratios]](https://www.investopedia.com/ask/answers/121614/what-difference-between-gearing-ratio-and-debttoequity-ratio.asp) focus more heavily on the concept of leverage than other ratios used in accounting or investment analysis. This conceptual focus prevents gearing ratios from being precisely calculated or interpreted with uniformity. The underlying principle generally assumes that some leverage is good, but too much places an organization at risk.
 
 At a fundamental level, gearing is sometimes differentiated from leverage. Leverage refers to the amount of debt incurred for the purpose of investing and obtaining a higher return, while gearing refers to debt along with total equity—or an expression of the percentage of company funding through borrowing. This difference is embodied in the difference between the debt ratio and the debt-to-equity ratio.
 
@@ -95,9 +95,9 @@ The real use of debt/equity is comparing the ratio for firms in the same industr
 
 When using the debt/equity ratio, it is very important to consider the industry within which the company exists. Because different industries have different capital needs and growth rates, a relatively high D/E ratio may be common in one industry, meanwhile, a relatively low D/E may be common in another. For example, capital-intensive industries such as auto manufacturing tend to have a debt/equity ratio of over 1, while tech firms could have a typical debt/equity ratio around 0.5.2
 
-Utility stocks often have a very high D/E ratio compared to market averages. A utility grows slowly but is usually able to maintain a steady income stream, which allows these companies to borrow very cheaply. High leverage ratios in slow-growth industries with stable income represent an efficient use of capital. The [consumer staples](https://www.investopedia.com/terms/c/consumerstaples.asp) or consumer non-cyclical sector tends to also have a high debt to equity ratio because these companies can borrow cheaply and have a relatively stable income.2
+Utility stocks often have a very high D/E ratio compared to market averages. A utility grows slowly but is usually able to maintain a steady income stream, which allows these companies to borrow very cheaply. High leverage ratios in slow-growth industries with stable income represent an efficient use of capital. The [[consumer staples]](https://www.investopedia.com/terms/c/consumerstaples.asp) or consumer non-cyclical sector tends to also have a high debt to equity ratio because these companies can borrow cheaply and have a relatively stable income.2
 
-Analysts are not always consistent about what is defined as debt. For example, preferred stock is sometimes considered equity, but the preferred dividend, par value, and liquidation rights make this kind of equity look a lot more like debt. Including preferred stock in total debt will increase the D/E ratio and make a company look riskier. Including preferred stock in the equity portion of the D/E ratio will increase the denominator and lower the ratio. It can be a big issue for companies like [real estate investment trusts](https://www.investopedia.com/terms/r/reit.asp) when preferred stock is included in the D/E ratio.
+Analysts are not always consistent about what is defined as debt. For example, preferred stock is sometimes considered equity, but the preferred dividend, par value, and liquidation rights make this kind of equity look a lot more like debt. Including preferred stock in total debt will increase the D/E ratio and make a company look riskier. Including preferred stock in the equity portion of the D/E ratio will increase the denominator and lower the ratio. It can be a big issue for companies like [[real estate investment trusts]](https://www.investopedia.com/terms/r/reit.asp) when preferred stock is included in the D/E ratio.
 
 ## Examples of the Debt-To-Equity Ratio
 

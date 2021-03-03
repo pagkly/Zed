@@ -16,7 +16,7 @@ author: Will Kenton
 Lawful Money
 ## What Is Lawful Money?
 
-Lawful money is any form of [currency](https://www.investopedia.com/terms/c/currency.asp) issued by the United States Treasury and not the Federal Reserve System. It includes gold and silver coins, Treasury notes, and Treasury bonds. Lawful money stands in contrast to [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp), in which the government assigns value although it has no [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) of its own and is not backed by reserves. Fiat money includes legal tender such as paper money, checks, drafts, and banknotes.
+Lawful money is any form of [[currency]](https://www.investopedia.com/terms/c/currency.asp) issued by the United States Treasury and not the Federal Reserve System. It includes gold and silver coins, Treasury notes, and Treasury bonds. Lawful money stands in contrast to [[fiat money]](https://www.investopedia.com/terms/f/fiatmoney.asp), in which the government assigns value although it has no [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) of its own and is not backed by reserves. Fiat money includes legal tender such as paper money, checks, drafts, and banknotes.
 
 Lawful money is also known as "specie," which means "in actual form."
 
@@ -30,24 +30,24 @@ Lawful money is also known as "specie," which means "in actual form."
 
 ## Understanding Lawful Money
 
-Oddly enough, the dollar bills that we carry around in our wallets are not considered lawful money. The notation on the bottom of a U.S. dollar bill reads "Legal Tender for All Debts, Public and Private," and is issued by the [U.S. Federal Reserve](https://www.investopedia.com/terms/f/federalreservesystem.asp), not the [U.S. Treasury](https://www.investopedia.com/terms/u/ustreasury.asp).
+Oddly enough, the dollar bills that we carry around in our wallets are not considered lawful money. The notation on the bottom of a U.S. dollar bill reads "Legal Tender for All Debts, Public and Private," and is issued by the [[U.S. Federal Reserve]](https://www.investopedia.com/terms/f/federalreservesystem.asp), not the [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp).
 
 Legal tender can be exchanged for an equivalent amount of lawful money, but macro-effects such as inflation can change the value of fiat money. Lawful money is said to be the most direct form of ownership, but for purposes of practicality, it has little use in direct transactions between parties.
 
 ## History of Lawful Money
 
-The [Federal Reserve Act of 1913](https://www.investopedia.com/terms/f/1913-federal-reserve-act.asp), which established the Federal Reserve System and authorizes it to issue [Federal Reserve notes](https://www.investopedia.com/terms/f/federal-reserve-note.asp), states that “\[Federal Reserve notes\] shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank."1
+The [[Federal Reserve Act of 1913]](https://www.investopedia.com/terms/f/1913-federal-reserve-act.asp), which established the Federal Reserve System and authorizes it to issue [[Federal Reserve notes]](https://www.investopedia.com/terms/f/federal-reserve-note.asp), states that “\[Federal Reserve notes\] shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank."1
 
-However, the Act did not explicitly define what lawful money meant. Since some currencies that could be used by national banking associations as "lawful money reserves" were not considered legal tender, [Congress](https://www.investopedia.com/terms/c/congress.asp) amended the Federal Reserve Act in 1933 to include all U.S. coins and currency as legal tender for all purposes.2
+However, the Act did not explicitly define what lawful money meant. Since some currencies that could be used by national banking associations as "lawful money reserves" were not considered legal tender, [[Congress]](https://www.investopedia.com/terms/c/congress.asp) amended the Federal Reserve Act in 1933 to include all U.S. coins and currency as legal tender for all purposes.2
 
 The 1933 amendment extended the power of legal tender to all types of money, creating dissension on whether paper money and reserves of the Federal Reserve bank are lawful money.2 While some argue that Federal Reserve notes are lawful money, others tend to disagree.
 
 ## Confusion Over Lawful Money
 
-Since the US Constitution states “no state shall make any thing but gold and silver coin a tender in payment of debts,” some believe that this is the definition of lawful money and, thus, any payment medium other than [gold](https://www.investopedia.com/articles/economics/09/why-gold-matters.asp) or silver is not considered lawful money. In effect, the primary meaning of lawful money is legal tender, but a broader interpretation is frequently applied in certain contexts.
+Since the US Constitution states “no state shall make any thing but gold and silver coin a tender in payment of debts,” some believe that this is the definition of lawful money and, thus, any payment medium other than [[gold]](https://www.investopedia.com/articles/economics/09/why-gold-matters.asp) or silver is not considered lawful money. In effect, the primary meaning of lawful money is legal tender, but a broader interpretation is frequently applied in certain contexts.
 
 Because no legal definition of lawful money was ever provided, the term has led to a lot of confusion, primarily in legal aspects. For all intents and purposes, lawful money should mean legal tender but is not always the case. This has caused a lot of confusion for students of law and banking.
 
 Professionals believe that Congress should pass a simple statute stating what lawful money is, ensuring it includes all forms of U.S. currency, particularly since the use of gold and silver is not a regular occurrence anymore.
 
-Lawful money is separate from the classification of money, which is broken down as M0, [M1](https://www.investopedia.com/terms/m/m1.asp), [M2](https://www.investopedia.com/terms/m/m2.asp), and [M3](https://www.investopedia.com/terms/m/m3.asp). The classifications incorporate all of the money used in the U.S. economy.
+Lawful money is separate from the classification of money, which is broken down as M0, [[M1]](https://www.investopedia.com/terms/m/m1.asp), [[M2]](https://www.investopedia.com/terms/m/m2.asp), and [[M3]](https://www.investopedia.com/terms/m/m3.asp). The classifications incorporate all of the money used in the U.S. economy.

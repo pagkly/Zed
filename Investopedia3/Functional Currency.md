@@ -16,7 +16,7 @@ author: Will Kenton
 Functional Currency
 ## What Is a Functional Currency?
 
-Popular with multinationals, functional currency represents the primary economic environment in which an entity generates and expends cash. It is the main [currency](https://www.investopedia.com/terms/c/currency.asp) used by a business in its business dealings.
+Popular with multinationals, functional currency represents the primary economic environment in which an entity generates and expends cash. It is the main [[currency]](https://www.investopedia.com/terms/c/currency.asp) used by a business in its business dealings.
 
 ### Key Takeaways
 
@@ -26,20 +26,20 @@ Popular with multinationals, functional currency represents the primary economi
 
 ## Understanding a Functional Currency
 
-As the financial statements of a business are reported in only one currency, the dealings or transactions that are done in another currency must be converted back to the principal currency used on the financial statements. The [International Accounting Standards](https://www.investopedia.com/terms/i/ias.asp) (IAS) and [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) offer guidance on the translation of foreign currency transactions.
+As the financial statements of a business are reported in only one currency, the dealings or transactions that are done in another currency must be converted back to the principal currency used on the financial statements. The [[International Accounting Standards]](https://www.investopedia.com/terms/i/ias.asp) (IAS) and [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP) offer guidance on the translation of foreign currency transactions.
 
-The [Financial Accounting Standards Board](https://www.investopedia.com/terms/f/fasb.asp) (FASB) was the first regulatory body to present the idea of a functional currency under their [Statement of Financial Accounting Standards](https://www.investopedia.com/terms/s/sfas.asp) (SFAS) No. 52.1
+The [[Financial Accounting Standards Board]](https://www.investopedia.com/terms/f/fasb.asp) (FASB) was the first regulatory body to present the idea of a functional currency under their [[Statement of Financial Accounting Standards]](https://www.investopedia.com/terms/s/sfas.asp) (SFAS) No. 52.1
 
 ## Choosing a Functional Currency
 
-The world's economies have grown increasingly interdependent. [Multinational corporations](https://www.investopedia.com/terms/m/multinationalcorporation.asp) recognizing the integration of world markets, including the trade of commodities and services and the flow of international capital, are thinking global to remain competitive. 
+The world's economies have grown increasingly interdependent. [[Multinational corporations]](https://www.investopedia.com/terms/m/multinationalcorporation.asp) recognizing the integration of world markets, including the trade of commodities and services and the flow of international capital, are thinking global to remain competitive. 
 
-With international operations comes the tough choice of selecting a functional currency, which must address several financial reporting issues, including determining appropriate functional currencies, accounting for foreign currency transactions, and converting [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) of foreign subsidiaries into a parent company’s currency for consolidation.
+With international operations comes the tough choice of selecting a functional currency, which must address several financial reporting issues, including determining appropriate functional currencies, accounting for foreign currency transactions, and converting [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) of foreign subsidiaries into a parent company’s currency for consolidation.
 
-Factors may include finding the currency that most affects sales price. For retail and manufacturing entities, the currency in which [inventory](https://www.investopedia.com/terms/i/inventory.asp), labor, and expenses are incurred may be most relevant. Ultimately, it’s often management's judgment between a local currency, that of a parent, or the currency of a primary operational hub.
+Factors may include finding the currency that most affects sales price. For retail and manufacturing entities, the currency in which [[inventory]](https://www.investopedia.com/terms/i/inventory.asp), labor, and expenses are incurred may be most relevant. Ultimately, it’s often management's judgment between a local currency, that of a parent, or the currency of a primary operational hub.
 
 It can be difficult to ascertain overall business performance when a variety of currencies are involved. Therefore, both U.S. GAAP and IAS outline procedures for how entities can convert foreign currency transactions into the functional currency for reporting purposes.
 
 At times, a company’s functional currency may be the same currency as the country where it does most of its business. Other times, the functional currency may be a separate currency from the currency in which a firm is headquartered. 
 
-When [converting](https://www.investopedia.com/terms/c/conversion-rate.asp) a currency, the exchange rates can positively or adversely impact a company's performance. Most often conversions are done at the [spot rate](https://www.investopedia.com/terms/s/spot_rate.asp) on the date that the transaction occurred. There may be some instances in which a standard rate is used, such as a peak rate or average rate for a period.
+When [[converting]](https://www.investopedia.com/terms/c/conversion-rate.asp) a currency, the exchange rates can positively or adversely impact a company's performance. Most often conversions are done at the [[spot rate]](https://www.investopedia.com/terms/s/spot_rate.asp) on the date that the transaction occurred. There may be some instances in which a standard rate is used, such as a peak rate or average rate for a period.

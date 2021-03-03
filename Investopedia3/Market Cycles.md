@@ -16,7 +16,7 @@ author: Will Kenton
 Market Cycles
 ## What Are Market Cycles?
 
-Market cycles, also known as stock market cycles, is a wide term referring to trends or patterns that emerge during different markets or business environments. During a cycle, some securities or [asset classes](https://www.investopedia.com/terms/a/assetclasses.asp) outperform others because their business models aligned with conditions for growth. Market cycles are the period between the two latest highs or lows of a common benchmark, such as the S&P 500, highlighting a fund’s performance through both an up and a down market. 
+Market cycles, also known as stock market cycles, is a wide term referring to trends or patterns that emerge during different markets or business environments. During a cycle, some securities or [[asset classes]](https://www.investopedia.com/terms/a/assetclasses.asp) outperform others because their business models aligned with conditions for growth. Market cycles are the period between the two latest highs or lows of a common benchmark, such as the S&P 500, highlighting a fund’s performance through both an up and a down market. 
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Market cycles, also known as stock market cycles, is a wide term referring to tr
 
 Newmarket cycles form when trends within a particular sector or industry develop in response to meaningful innovation, new products or regulatory environment. These cycles or trends are often called secular. During these periods, revenue and net profits may exhibit similar growth patterns among many companies within a given industry, which is cyclical in nature.
 
-Market cycles are often hard to pinpoint until after the fact and rarely have a specific, clearly identifiable beginning or ending point which often leads to confusion or controversy surrounding assessment of policies and strategies. However, most market veterans believe they exist, and many investors pursue [investment strategies](https://www.investopedia.com/terms/i/investmentstrategy.asp) that aim to profit from them by trading securities ahead of directional shifts of the cycle.
+Market cycles are often hard to pinpoint until after the fact and rarely have a specific, clearly identifiable beginning or ending point which often leads to confusion or controversy surrounding assessment of policies and strategies. However, most market veterans believe they exist, and many investors pursue [[investment strategies]](https://www.investopedia.com/terms/i/investmentstrategy.asp) that aim to profit from them by trading securities ahead of directional shifts of the cycle.
 
 There are stock market anomalies that cannot be explained but occur year after year. 
 
@@ -51,4 +51,4 @@ The four stages of a market cycle include the accumulation, uptrend or markup, d
 
 Market cycles take both fundamental and technical indicators (charting) into account, using securities prices and other metrics as a gauge of cyclical behavior.
 
-Some examples include the [business cycle](https://www.investopedia.com/terms/b/businesscycle.asp), semiconductor/operating system cycles within technology and the movement of interest-rate sensitive financial stocks.
+Some examples include the [[business cycle]](https://www.investopedia.com/terms/b/businesscycle.asp), semiconductor/operating system cycles within technology and the movement of interest-rate sensitive financial stocks.

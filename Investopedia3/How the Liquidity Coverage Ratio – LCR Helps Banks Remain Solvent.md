@@ -34,7 +34,7 @@ LCR\=High quality liquid asset amount (HQLA)Total net cash flow amountL
 
 ## What the LCR Tells You?
 
-The LCR is a chief takeaway from the [Basel Accord](https://www.investopedia.com/terms/b/basel_accord.asp), which is a series of regulations developed by The Basel Committee on Banking Supervision (BCBS). The BCBS is a group of 45 representatives from major global financial centers.2 One of the goals of the BCBS was to mandate banks to hold a specific level of highly liquid assets and maintain certain levels of fiscal solvency to discourage them from lending high levels of short-term debt.
+The LCR is a chief takeaway from the [[Basel Accord]](https://www.investopedia.com/terms/b/basel_accord.asp), which is a series of regulations developed by The Basel Committee on Banking Supervision (BCBS). The BCBS is a group of 45 representatives from major global financial centers.2 One of the goals of the BCBS was to mandate banks to hold a specific level of highly liquid assets and maintain certain levels of fiscal solvency to discourage them from lending high levels of short-term debt.
 
 As a result, banks are required to hold an amount of high-quality liquid assets that's enough to fund cash outflows for 30 days.1 Thirty days was chosen because it was believed that in a financial crisis, a response to rescue the financial system from governments and central banks would typically occur within 30 days.
 
@@ -48,11 +48,11 @@ The LCR was proposed in 2010 with revisions and final approval in 2014. The full
 
 The high-quality liquid assets include only those with a high potential to be converted easily and quickly into cash. As stated earlier, the three categories of liquid assets with decreasing levels of quality are level 1, level 2A, and level 2B.
 
-Under [Basel III](https://www.investopedia.com/terms/b/basell-iii.asp), level 1 assets are not discounted when calculating the LCR, while level 2A and level 2B assets have a 15% and a 25-50% discount, respectively. Level 1 assets include Federal Reserve bank balances, foreign resources that can be withdrawn quickly, securities issued or guaranteed by specific sovereign entities, and U.S. government-issued or guaranteed securities.5
+Under [[Basel III]](https://www.investopedia.com/terms/b/basell-iii.asp), level 1 assets are not discounted when calculating the LCR, while level 2A and level 2B assets have a 15% and a 25-50% discount, respectively. Level 1 assets include Federal Reserve bank balances, foreign resources that can be withdrawn quickly, securities issued or guaranteed by specific sovereign entities, and U.S. government-issued or guaranteed securities.5
 
 Level 2A assets include securities issued or guaranteed by specific multilateral development banks or sovereign entities, and securities issued by U.S. government-sponsored enterprises. Level 2B assets include publicly-traded common stock and investment-grade corporate debt securities issued by non-financial sector corporations.
 
-The chief takeaway Basel III expects banks to glean from the formula is the expectation to achieve a leverage ratio in excess of 3%. To conform to the requirement, the [Federal Reserve Bank](https://www.investopedia.com/terms/f/federalreservebank.asp) of the United States fixed the leverage ratio at 5% for insured bank holding companies, and 6% for the aforementioned SIFIs. However, most banks will attempt to maintain a higher capital to cushion themselves from financial distress, even if it means issuing fewer loans to borrowers.6
+The chief takeaway Basel III expects banks to glean from the formula is the expectation to achieve a leverage ratio in excess of 3%. To conform to the requirement, the [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservebank.asp) of the United States fixed the leverage ratio at 5% for insured bank holding companies, and 6% for the aforementioned SIFIs. However, most banks will attempt to maintain a higher capital to cushion themselves from financial distress, even if it means issuing fewer loans to borrowers.6
 
 ## The LCR vs. Other Liquidity Ratios
 

@@ -16,9 +16,9 @@ author: Adam Barone
 What Is a Certificate of Origin (CO)?
 ## What Is a Certificate of Origin (CO)?
 
-A certificate of origin (CO) is a document declaring in which country a [commodity](https://www.investopedia.com/terms/c/commodity.asp) or good was manufactured. The certificate of origin contains information regarding the product, its destination, and the country of export. For example, a good may be marked "Made in the USA" or "Made in China".
+A certificate of origin (CO) is a document declaring in which country a [[commodity]](https://www.investopedia.com/terms/c/commodity.asp) or good was manufactured. The certificate of origin contains information regarding the product, its destination, and the country of export. For example, a good may be marked "Made in the USA" or "Made in China".
 
-Required by many treaty agreements for cross-border trade, the CO is an important form because it can help determine whether certain goods are eligible for import, or whether goods are subject to [duties](https://www.investopedia.com/terms/i/import-duty.asp).
+Required by many treaty agreements for cross-border trade, the CO is an important form because it can help determine whether certain goods are eligible for import, or whether goods are subject to [[duties]](https://www.investopedia.com/terms/i/import-duty.asp).
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Required by many treaty agreements for cross-border trade, the CO is an importan
 
 ## Understanding Certificates of Origin
 
-Customs officials expect the CO to be a separate document from the commercial invoice or packing list. Customs in these countries also expect it to be signed by the exporter, the signature notarized, and the document subsequently signed and stamped by a [chamber of commerce](https://www.investopedia.com/terms/c/chamber-of-commerce.asp). In some cases, the destination customs authority may request proof of review from a specific chamber of commerce. Chambers of commerce usually only certify that which is verifiable. However, if the chamber is presented with a declaration attesting to commercial details, the accuracy of which it cannot check, it must confine itself to stamping the document attesting to the position and the identity of the signatory.
+Customs officials expect the CO to be a separate document from the commercial invoice or packing list. Customs in these countries also expect it to be signed by the exporter, the signature notarized, and the document subsequently signed and stamped by a [[chamber of commerce]](https://www.investopedia.com/terms/c/chamber-of-commerce.asp). In some cases, the destination customs authority may request proof of review from a specific chamber of commerce. Chambers of commerce usually only certify that which is verifiable. However, if the chamber is presented with a declaration attesting to commercial details, the accuracy of which it cannot check, it must confine itself to stamping the document attesting to the position and the identity of the signatory.
 
 The proof of review usually amounts to the chamber’s official embossing stamp and a signature of an authorized chamber representative. Some countries are accepting electronically issued certificates of origin that have been electronically signed by a chamber of commerce.
 

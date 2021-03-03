@@ -27,9 +27,9 @@ Liquidation value is the net value of a company's physical assets if it were to 
 
 ## Understanding Liquidation Value
 
-There are generally four levels of valuation for business assets: market value, book value, liquidation value, and [salvage value](https://www.investopedia.com/terms/s/salvagevalue.asp). Each level of value provides a way for accountants and analysts to classify the aggregate value of assets. Liquidation value is especially important in the case of bankruptcies and [workouts](https://www.investopedia.com/terms/w/workout-agreement.asp).
+There are generally four levels of valuation for business assets: market value, book value, liquidation value, and [[salvage value]](https://www.investopedia.com/terms/s/salvagevalue.asp). Each level of value provides a way for accountants and analysts to classify the aggregate value of assets. Liquidation value is especially important in the case of bankruptcies and [[workouts]](https://www.investopedia.com/terms/w/workout-agreement.asp).
 
-Liquidation value does not include [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp) such as a company's intellectual property, goodwill, and brand recognition. However, if a company is sold rather than liquidated, both the liquidation value and intangible assets determine the company's going-concern value. Value investors look at the difference between a company's market capitalization and its going-concern value to determine whether the company's stock is currently a good buy.
+Liquidation value does not include [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp) such as a company's intellectual property, goodwill, and brand recognition. However, if a company is sold rather than liquidated, both the liquidation value and intangible assets determine the company's going-concern value. Value investors look at the difference between a company's market capitalization and its going-concern value to determine whether the company's stock is currently a good buy.
 
 Potential investors will assess the liquidation value of a company before investing. Investors want to know how much of their funds would be returned in the event of bankruptcy.
 
@@ -39,7 +39,7 @@ Market value typically provides the highest valuation of assets although the mea
 
 The book value is the value of the asset as listed on the balance sheet. The balance sheet lists assets at the historical cost, so the value of assets may be higher or lower than market prices. In an economic environment with rising prices, the book value of assets is lower than the market value. The liquidation value is the expected value of the asset once it has been liquidated or sold, presumably at a loss to historical cost.
 
-Finally, the salvage value is the value given to an asset at the end of its [useful life](https://www.investopedia.com/terms/u/usefullife.asp); in other words, this is the scrap value.
+Finally, the salvage value is the value given to an asset at the end of its [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp); in other words, this is the scrap value.
 
 Liquidation value is usually lower than book value but greater than salvage value. The assets continue to have value, but they are sold at a loss because they must be sold quickly.
 
@@ -47,4 +47,4 @@ Discount footwear company, Payless, filed for bankruptcy in February 2019. Despi
 
 ## Example of a Liquidation
 
-[Liquidation](https://www.investopedia.com/terms/l/liquidation.asp) is the difference between some value of [tangible assets](https://www.investopedia.com/terms/t/tangibleasset.asp) and liabilities. As an example, assume liabilities for company A are $550,000. Also, assume the book value of assets found on the balance sheet is $1 million, the salvage value is $50,000, and the estimated value of selling all assets at auction is $750,000, or 75 cents on the dollar. The liquidation value is calculated by subtracting the liabilities from the auction value, which is $750,000 minus $550,000, or $200,000.
+[Liquidation](https://www.investopedia.com/terms/l/liquidation.asp) is the difference between some value of [[tangible assets]](https://www.investopedia.com/terms/t/tangibleasset.asp) and liabilities. As an example, assume liabilities for company A are $550,000. Also, assume the book value of assets found on the balance sheet is $1 million, the salvage value is $50,000, and the estimated value of selling all assets at auction is $750,000, or 75 cents on the dollar. The liquidation value is calculated by subtracting the liabilities from the auction value, which is $750,000 minus $550,000, or $200,000.

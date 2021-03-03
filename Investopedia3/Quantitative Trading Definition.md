@@ -16,15 +16,15 @@ author: Rakesh Sharma
 Quantitative Trading Definition
 ## What is Quantitative Trading
 
-Quantitative trading consists of trading strategies based on [quantitative analysis](https://www.investopedia.com/terms/q/quantitativeanalysis.asp), which rely on mathematical computations and number crunching to identify trading opportunities. Price and volume are two of the more common data inputs used in quantitative analysis as the main inputs to mathematical models.
+Quantitative trading consists of trading strategies based on [[quantitative analysis]](https://www.investopedia.com/terms/q/quantitativeanalysis.asp), which rely on mathematical computations and number crunching to identify trading opportunities. Price and volume are two of the more common data inputs used in quantitative analysis as the main inputs to mathematical models.
 
-As quantitative trading is generally used by financial institutions and [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp), the transactions are usually large and may involve the purchase and sale of hundreds of thousands of shares and other securities. However, quantitative trading is becoming more commonly used by individual investors.
+As quantitative trading is generally used by financial institutions and [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp), the transactions are usually large and may involve the purchase and sale of hundreds of thousands of shares and other securities. However, quantitative trading is becoming more commonly used by individual investors.
 
 ## Basics of Quantitative Trading
 
 Price and volume are two of the more common data inputs used in quantitative analysis as the main inputs to mathematical models.
 
-Quantitative trading techniques include [high-frequency trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp), [algorithmic trading](https://www.investopedia.com/terms/a/algorithmictrading.asp) and statistical arbitrage. These techniques are rapid-fire and typically have short-term investment horizons. Many quantitative traders are more familiar with quantitative tools, such as moving averages and oscillators.
+Quantitative trading techniques include [[high-frequency trading]](https://www.investopedia.com/terms/h/high-frequency-trading.asp), [[algorithmic trading]](https://www.investopedia.com/terms/a/algorithmictrading.asp) and statistical arbitrage. These techniques are rapid-fire and typically have short-term investment horizons. Many quantitative traders are more familiar with quantitative tools, such as moving averages and oscillators.
 
 ## Understanding Quantitative Trading
 

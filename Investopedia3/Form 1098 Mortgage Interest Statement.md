@@ -17,7 +17,7 @@ Rebecca Lake
 Form 1098: Mortgage Interest Statement
 ## What Is Form 1098: Mortgage Interest Statement?
 
-Form 1098: Mortgage Interest Statement is an Internal Revenue Service (IRS) form that is used by taxpayers to report the amount of interest and related expenses paid on a mortgage during the tax year when the amount totals $600 or more. Related expenses include [points](https://www.investopedia.com/terms/p/points.asp) paid on the purchase of the property. Points refer to prepaid interest made on a home loan to improve the rate on the mortgage offered by the lending institution.
+Form 1098: Mortgage Interest Statement is an Internal Revenue Service (IRS) form that is used by taxpayers to report the amount of interest and related expenses paid on a mortgage during the tax year when the amount totals $600 or more. Related expenses include [[points]](https://www.investopedia.com/terms/p/points.asp) paid on the purchase of the property. Points refer to prepaid interest made on a home loan to improve the rate on the mortgage offered by the lending institution.
 
 Form 1098 serves two purposes. First, it requires lenders to report interest payments in excess of $600 they received for the year. The IRS uses this information to ensure proper financial reporting for lenders and other entities that receive interest payments. Second, it is used by homeowners to determine how much interest they paid for the year when figuring their mortgage interest deduction.
 
@@ -29,18 +29,18 @@ Form 1098 serves two purposes. First, it requires lenders to report interest pay
 
 ## Who Can File Form 1098: Mortgage Interest Statement?
 
-If you paid $600 or more for the previous year in interest and points on a mortgage, your lender is required to send Form 1098 to you. If you paid less than $600, you will not receive a Form 1098. [These expenses can be used as deductions](https://www.investopedia.com/articles/pf/06/mortinttaxdeduct.asp) on a U.S. income tax form, [Schedule A](https://www.investopedia.com/terms/s/schedulea.asp), which reduces taxable income and the overall amount owed to the IRS. Form 1098 is issued and mailed by the lender—or other entity receiving the interest—to you, the borrower.1 2
+If you paid $600 or more for the previous year in interest and points on a mortgage, your lender is required to send Form 1098 to you. If you paid less than $600, you will not receive a Form 1098. [[These expenses can be used as deductions]](https://www.investopedia.com/articles/pf/06/mortinttaxdeduct.asp) on a U.S. income tax form, [[Schedule A]](https://www.investopedia.com/terms/s/schedulea.asp), which reduces taxable income and the overall amount owed to the IRS. Form 1098 is issued and mailed by the lender—or other entity receiving the interest—to you, the borrower.1 2
 
-The mortgage lender is required by the IRS to provide Form 1098 to you if your property is considered [real property](https://www.investopedia.com/terms/r/real-property.asp). Real property is land and anything that is built on, grown on, or attached to the land.3 The property for which the mortgage interest payments must meet IRS standards, which define a home as a space that has basic living amenities: cooking and bathroom facilities and a sleeping area. Houses, condominiums, mobile homes, boats, cooperatives, and house trailers all qualify as a home according to the IRS.4
+The mortgage lender is required by the IRS to provide Form 1098 to you if your property is considered [[real property]](https://www.investopedia.com/terms/r/real-property.asp). Real property is land and anything that is built on, grown on, or attached to the land.3 The property for which the mortgage interest payments must meet IRS standards, which define a home as a space that has basic living amenities: cooking and bathroom facilities and a sleeping area. Houses, condominiums, mobile homes, boats, cooperatives, and house trailers all qualify as a home according to the IRS.4
 
-Also, the mortgage itself must be qualified. According to the IRS, [qualified mortgages](https://www.investopedia.com/terms/q/qualified-mortgage.asp) include first and second mortgages, home equity loans, and refinanced mortgages.
+Also, the mortgage itself must be qualified. According to the IRS, [[qualified mortgages]](https://www.investopedia.com/terms/q/qualified-mortgage.asp) include first and second mortgages, home equity loans, and refinanced mortgages.
 
 Whether or not you need Form 1098 depends on whether or not you plan to itemize your deductions on a Schedule A Form. Claiming a deduction for mortgage interest paid when can reduce your total taxable income. However, there are a few rules to know about deducting mortgage interest.
 
 -   You must be the primary borrower and be making payments on the loan.
 -   You’re limited to deducting interest on total mortgage debt of $750,000 or less, if the debt originated on or after Dec. 16, 2017. (The limit for older mortgage debt is $1 million.)5
 
-If all of these apply to you, then you would need Form 1098 to deduct the mortgage interest you paid for your home loan for the current tax year. If you have [more than one qualified mortgage](https://www.investopedia.com/articles/personal-finance/061215/deducting-interest-your-second-mortgage.asp), then you will receive a separate Form 1098 for each one.4
+If all of these apply to you, then you would need Form 1098 to deduct the mortgage interest you paid for your home loan for the current tax year. If you have [[more than one qualified mortgage]](https://www.investopedia.com/articles/personal-finance/061215/deducting-interest-your-second-mortgage.asp), then you will receive a separate Form 1098 for each one.4
 
 All copies of Form 1098 are available on the IRS website.6
 
@@ -74,4 +74,4 @@ Form 1098-E reports the interest paid on qualified student loans during the tax 
 
 ### Form 1098-T
 
-Form 1098-T provides information about post-secondary tuition and related fees during the year. It is filed by the educational institution and can be used to calculate education-related tax deductions and credits, such as the [American Opportunity Tax Credit](https://www.investopedia.com/terms/a/american-opportunity-tax-credit.asp) (AOTC) and the [Lifetime Learning Credit](https://www.investopedia.com/terms/l/lifelearningcredit.asp) (LLC). The form also reports any scholarships and grants received through the school that may reduce the taxpayer’s allowable deduction or credit.10
+Form 1098-T provides information about post-secondary tuition and related fees during the year. It is filed by the educational institution and can be used to calculate education-related tax deductions and credits, such as the [[American Opportunity Tax Credit]](https://www.investopedia.com/terms/a/american-opportunity-tax-credit.asp) (AOTC) and the [[Lifetime Learning Credit]](https://www.investopedia.com/terms/l/lifelearningcredit.asp) (LLC). The form also reports any scholarships and grants received through the school that may reduce the taxpayer’s allowable deduction or credit.10

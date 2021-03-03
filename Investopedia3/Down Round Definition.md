@@ -18,7 +18,7 @@ Down Round Definition
 
 A down round refers to a private company offering additional shares for sale at a lower price than had been sold for in the previous financing round.
 
-Simply put, more capital is needed and the company discovers that its [valuation](https://www.investopedia.com/terms/v/valuation.asp) is lower than it was prior to the previous round of financing. This "discovery" forces them to sell their capital stock at a lower price per share.
+Simply put, more capital is needed and the company discovers that its [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) is lower than it was prior to the previous round of financing. This "discovery" forces them to sell their capital stock at a lower price per share.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Simply put, more capital is needed and the company discovers that its [valuation
 
 ## Understanding Down Round
 
-[Private companies](https://www.investopedia.com/terms/p/privatecompany.asp) raise capital through a series of funding phases, referred to as rounds. Ideally, the initial round should raise the capital needed where subsequent rounds are not required. At times, the [burn rate](https://www.investopedia.com/terms/b/burnrate.asp) for startups is much higher than anticipated, leaving the company no other option than to go through another round of financing.
+[Private companies](https://www.investopedia.com/terms/p/privatecompany.asp) raise capital through a series of funding phases, referred to as rounds. Ideally, the initial round should raise the capital needed where subsequent rounds are not required. At times, the [[burn rate]](https://www.investopedia.com/terms/b/burnrate.asp) for startups is much higher than anticipated, leaving the company no other option than to go through another round of financing.
 
-As a business develops, the expectation is that sequential funding rounds are executed at progressively higher prices to reflect the increasing valuation of the company. The reality is that the actual valuation of a company is subject to variables (failure to meet benchmarks, the emergence of competition, [venture capital](https://www.investopedia.com/terms/v/venturecapital.asp) funding) which could cause it to be lower than it was in the past. In these situations, an investor would only consider participating if the shares, or [convertible bonds](https://www.investopedia.com/terms/c/convertiblebond.asp), were being offered at a lower price than they were in the preceding funding phase. This is referred to as a down round.
+As a business develops, the expectation is that sequential funding rounds are executed at progressively higher prices to reflect the increasing valuation of the company. The reality is that the actual valuation of a company is subject to variables (failure to meet benchmarks, the emergence of competition, [[venture capital]](https://www.investopedia.com/terms/v/venturecapital.asp) funding) which could cause it to be lower than it was in the past. In these situations, an investor would only consider participating if the shares, or [[convertible bonds]](https://www.investopedia.com/terms/c/convertiblebond.asp), were being offered at a lower price than they were in the preceding funding phase. This is referred to as a down round.
 
 While the earliest investors in startup companies tend to buy at the lowest prices, investors in subsequent rounds have the advantage of seeing whether companies have been able to meet stated benchmarks including product development, key hires, and revenues. When benchmarks are missed, subsequent investors may insist on lower company valuations for a variety of reasons including concerns over inexperienced management, early hype versus reality, and questions about a company’s ability to execute its business plan.
 
@@ -42,14 +42,14 @@ Down rounds can occur even when a company has done everything right. To manage r
 
 ## Implications and Alternatives
 
-While each funding round typically results in the [dilution](https://www.investopedia.com/terms/d/dilution.asp) of ownership percentages for existing investors, the need to sell a higher number of shares to meet financing requirements in a down round increases the dilutive effect.
+While each funding round typically results in the [[dilution]](https://www.investopedia.com/terms/d/dilution.asp) of ownership percentages for existing investors, the need to sell a higher number of shares to meet financing requirements in a down round increases the dilutive effect.
 
 A down round highlights the possibility that the company might have been over-hyped from a valuation standpoint initially and are now reduced to selling their stock at what amounts to a discount. This perception could negatively affect the market's confidence in the company's ability to be profitable and also deal a significant blow to employee morale.
 
 The alternatives to a down round are:
 
 1.  The company cuts its burn rate. This step would only be viable if there were operational inefficiencies else it would be self-defeating in that it could hamper company growth.
-2.  Management could consider short-term, or [bridge](https://www.investopedia.com/terms/b/bridgefinancing.asp), financing.
+2.  Management could consider short-term, or [[bridge]](https://www.investopedia.com/terms/b/bridgefinancing.asp), financing.
 3.  Renegotiate terms with current investors.
 4.  Shut the company down.
 

@@ -16,9 +16,9 @@ author: Will Kenton
 Reading Into Pyramid Schemes
 ## What Is a Pyramid Scheme?
 
-A pyramid scheme is an illegal investment scam based on a hierarchical setup of [network marketing](https://www.investopedia.com/terms/n/network-marketing.asp). The most famous kind of pyramid scheme is, perhaps, the Ponzi scheme.
+A pyramid scheme is an illegal investment scam based on a hierarchical setup of [[network marketing]](https://www.investopedia.com/terms/n/network-marketing.asp). The most famous kind of pyramid scheme is, perhaps, the Ponzi scheme.
 
-New recruits make up the base of the pyramid and provide the funding, or so-called returns, in the form of new money outlays to the earlier investors/recruits structured above them in the scheme. A pyramid scheme does not usually involve the selling of products. Rather, it relies on the constant inflow of money from additional investors that works its way to the top of the pyramid. This means that [multilevel marketing](https://www.investopedia.com/terms/m/multi-level-marketing.asp) schemes are not classified as pyramid schemes and are not necessarily fraudulent.
+New recruits make up the base of the pyramid and provide the funding, or so-called returns, in the form of new money outlays to the earlier investors/recruits structured above them in the scheme. A pyramid scheme does not usually involve the selling of products. Rather, it relies on the constant inflow of money from additional investors that works its way to the top of the pyramid. This means that [[multilevel marketing]](https://www.investopedia.com/terms/m/multi-level-marketing.asp) schemes are not classified as pyramid schemes and are not necessarily fraudulent.
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ New recruits make up the base of the pyramid and provide the funding, or so-call
 
 ## How a Pyramid Scheme Works
 
-An individual or a company initiates a pyramid scheme by recruiting [investors](https://www.investopedia.com/terms/i/investor.asp) with an offer of guaranteed high returns. As the scheme begins, the earliest investors do receive a high [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp), but these gains are paid for by new recruits and are not a return on any real investment.
+An individual or a company initiates a pyramid scheme by recruiting [[investors]](https://www.investopedia.com/terms/i/investor.asp) with an offer of guaranteed high returns. As the scheme begins, the earliest investors do receive a high [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp), but these gains are paid for by new recruits and are not a return on any real investment.
 
-From the moment the scam is initiated, a pyramid scheme's [liabilities](https://www.investopedia.com/terms/l/liability.asp) begin to exceed its assets. The only way it can generate wealth is by promising extraordinary returns to new recruits; the only way these returns receive payment is by getting additional investors. Invariably, these schemes lose steam and the pyramid collapses.
+From the moment the scam is initiated, a pyramid scheme's [[liabilities]](https://www.investopedia.com/terms/l/liability.asp) begin to exceed its assets. The only way it can generate wealth is by promising extraordinary returns to new recruits; the only way these returns receive payment is by getting additional investors. Invariably, these schemes lose steam and the pyramid collapses.
 
 #### What Is A Pyramid Scheme?
 
 ### Basic Pyramid Schemes
 
-A pyramid scheme is a variation of the [Ponzi scheme](https://www.investopedia.com/terms/p/ponzischeme.asp), which offers a promise of high investment returns that are not available from traditional types of investment. In practice, the structure of pyramid schemes induces others to recruit victims and collect money that eventually makes its way to the top of the pyramid.
+A pyramid scheme is a variation of the [[Ponzi scheme]](https://www.investopedia.com/terms/p/ponzischeme.asp), which offers a promise of high investment returns that are not available from traditional types of investment. In practice, the structure of pyramid schemes induces others to recruit victims and collect money that eventually makes its way to the top of the pyramid.
 
 In a typical setup, one person recruits a second person to invest a certain amount of money. The second person recovers his investment by recruiting people under him to invest in the scheme.
 
@@ -56,4 +56,4 @@ Regulators have determined that a multilevel marketing structure is not fraudule
 
 ## Example of a Pyramid Scheme
 
-A recent and well-known pyramid scheme involved the fall of [Bernie Madoff](https://www.investopedia.com/terms/b/bernard-madoff.asp), who promised and often fulfilled apparently extraordinary investment returns by enlisting new members to part with their money. Madoff has admitted to his crimes and is serving a jail sentence, but only after hundreds of investors collectively lost millions of dollars in the fraud.
+A recent and well-known pyramid scheme involved the fall of [[Bernie Madoff]](https://www.investopedia.com/terms/b/bernard-madoff.asp), who promised and often fulfilled apparently extraordinary investment returns by enlisting new members to part with their money. Madoff has admitted to his crimes and is serving a jail sentence, but only after hundreds of investors collectively lost millions of dollars in the fraud.

@@ -32,7 +32,7 @@ The act took its name from its two sponsors—Sen. Paul S. Sarbanes (D-Md.) and 
 
 ## Understanding the Sarbanes-Oxley (SOX) Act
 
-The rules and enforcement policies outlined in the Sarbanes-Oxley Act of 2002 amended or supplemented existing laws dealing with security regulation, including the Securities Exchange Act of 1934 and other laws enforced by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC).5 The new law set out reforms and additions in four principal areas:
+The rules and enforcement policies outlined in the Sarbanes-Oxley Act of 2002 amended or supplemented existing laws dealing with security regulation, including the Securities Exchange Act of 1934 and other laws enforced by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC).5 The new law set out reforms and additions in four principal areas:
 
 1.  Corporate responsibility
 2.  Increased criminal punishment
@@ -45,9 +45,9 @@ The Sarbanes-Oxley Act of 2002 is a complex and lengthy piece of legislation. Th
 
 Because of the Sarbanes-Oxley Act of 2002, corporate officers who knowingly certify false financial statements can go to prison.
 
-**Section 302 of the SOX Act of 2002** mandates that senior corporate officers personally certify in writing that the company's [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp) "comply with SEC disclosure requirements and fairly present in all material aspects the operations and financial condition of the issuer." Officers who sign off on financial statements that they know to be inaccurate are subject to criminal penalties, including prison terms.
+**Section 302 of the SOX Act of 2002** mandates that senior corporate officers personally certify in writing that the company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) "comply with SEC disclosure requirements and fairly present in all material aspects the operations and financial condition of the issuer." Officers who sign off on financial statements that they know to be inaccurate are subject to criminal penalties, including prison terms.
 
-**Section 404 of the SOX Act of 2002** requires that management and auditors establish [internal controls](https://www.investopedia.com/terms/i/internalcontrols.asp) and reporting methods to ensure the adequacy of those controls. Some critics of the law have complained that the requirements in Section 404 can have a negative impact on publicly traded companies because it's often expensive to establish and maintain the necessary internal controls.
+**Section 404 of the SOX Act of 2002** requires that management and auditors establish [[internal controls]](https://www.investopedia.com/terms/i/internalcontrols.asp) and reporting methods to ensure the adequacy of those controls. Some critics of the law have complained that the requirements in Section 404 can have a negative impact on publicly traded companies because it's often expensive to establish and maintain the necessary internal controls.
 
 **Section 802 of the SOX Act of 2002** contains the three rules that affect recordkeeping. The first deals with destruction and falsification of records. The second strictly defines the retention period for storing records. The third rule outlines the specific business records that companies need to store, which includes electronic communications.
 

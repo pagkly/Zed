@@ -16,7 +16,7 @@ author: James Chen
 What Is a Negative Bond Yield?
 ## What Is a Negative Bond Yield?
 
-A negative bond yield is when an investor receives less money at the [bond's](https://www.investopedia.com/terms/b/bond.asp) maturity than the original purchase price for the bond. A negative bond yield is an unusual situation in which issuers of debt are _paid_ to borrow.
+A negative bond yield is when an investor receives less money at the [[bond's]](https://www.investopedia.com/terms/b/bond.asp) maturity than the original purchase price for the bond. A negative bond yield is an unusual situation in which issuers of debt are _paid_ to borrow.
 
 In other words, the depositors, or buyers of bonds, are effectively paying the bond issuer a net amount at maturity instead of earning a return through interest income.
 
@@ -28,9 +28,9 @@ In other words, the depositors, or buyers of bonds, are effectively paying the b
 
 ## Understanding Negative Bond Yields
 
-Bonds are [debt instruments](https://www.investopedia.com/terms/d/debtinstrument.asp) typically issued by corporations and governments to raise money. Investors purchase the bonds at their [face value](https://www.investopedia.com/terms/f/facevalue.asp), which is the principal amount invested.
+Bonds are [[debt instruments]](https://www.investopedia.com/terms/d/debtinstrument.asp) typically issued by corporations and governments to raise money. Investors purchase the bonds at their [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), which is the principal amount invested.
 
-In return, investors typically get paid an interest rate—called the [coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp)—for holding the bond. Each bond has a maturity date, which is when the investor gets paid back the principal amount that was initially invested or the face value of the bond. 
+In return, investors typically get paid an interest rate—called the [[coupon rate]](https://www.investopedia.com/terms/c/coupon-rate.asp)—for holding the bond. Each bond has a maturity date, which is when the investor gets paid back the principal amount that was initially invested or the face value of the bond. 
 
 ### Bond Value
 
@@ -54,25 +54,25 @@ Investors that are interested in buying negative-yielding bonds include central 
 
 ### Asset Allocation and Pledged Assets
 
-Many [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) and investment firms that manage [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) must meet certain requirements, including [asset allocation](https://www.investopedia.com/terms/a/assetallocation.asp). Asset allocation means that the investments within the fund must have a portion allocated to bonds to help create a diverse portfolio.
+Many [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) and investment firms that manage [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) must meet certain requirements, including [[asset allocation]](https://www.investopedia.com/terms/a/assetallocation.asp). Asset allocation means that the investments within the fund must have a portion allocated to bonds to help create a diverse portfolio.
 
-Allocating a portion of a portfolio to bonds is designed to reduce or [hedge](https://www.investopedia.com/terms/h/hedge.asp) the risk of loss from other investments, such as equities. As a result, these funds must own bonds, even if the financial return is negative.
+Allocating a portion of a portfolio to bonds is designed to reduce or [[hedge]](https://www.investopedia.com/terms/h/hedge.asp) the risk of loss from other investments, such as equities. As a result, these funds must own bonds, even if the financial return is negative.
 
 Bonds are often used to pledge as collateral for financing and as a result, need to be held regardless of their price or yield.
 
 ### Currency Gain and Deflation Risk
 
-Some investors believe they can still make money even with negative yields. For example, foreign investors might believe the currency's [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) will rise, which would offset the negative bond yield.
+Some investors believe they can still make money even with negative yields. For example, foreign investors might believe the currency's [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) will rise, which would offset the negative bond yield.
 
 In other words, a foreign investor would convert their investment to a country's currency when buying the government bond and convert the currency back to the investor's local currency when selling the bond. The investor would have a gain or loss merely from the currency exchange fluctuation, irrespective of the yield and price of the bond investment.
 
-Domestically, investors might expect a period of [deflation](https://www.investopedia.com/terms/d/deflation.asp), or lower prices in the economy, which would allow them to make money by using their savings to buy more goods and services.
+Domestically, investors might expect a period of [[deflation]](https://www.investopedia.com/terms/d/deflation.asp), or lower prices in the economy, which would allow them to make money by using their savings to buy more goods and services.
 
 ### Safe Haven Assets
 
-Investors might also be interested in negative bond yields if the loss is less than it would be with another investment. In times of economic uncertainty, many investors rush to buy bonds because they're considered [safe-haven investments](https://www.investopedia.com/terms/s/safe-haven.asp). These purchases are called the flight-to-safety-trade in the bond market.
+Investors might also be interested in negative bond yields if the loss is less than it would be with another investment. In times of economic uncertainty, many investors rush to buy bonds because they're considered [[safe-haven investments]](https://www.investopedia.com/terms/s/safe-haven.asp). These purchases are called the flight-to-safety-trade in the bond market.
 
-During such a time, investors might accept a negative-yielding bond because the negative yield might be far less of a loss than a potential double-digit percentage loss in the equity markets. For example, [Japanese Government Bonds (JGB)](https://www.investopedia.com/terms/j/jgb.asp) are popular safe-haven assets for international investors and have, at times, paid a negative yield.
+During such a time, investors might accept a negative-yielding bond because the negative yield might be far less of a loss than a potential double-digit percentage loss in the equity markets. For example, [[Japanese Government Bonds (JGB)]](https://www.investopedia.com/terms/j/jgb.asp) are popular safe-haven assets for international investors and have, at times, paid a negative yield.
 
 ## Example of a Negative Bond Yield
 

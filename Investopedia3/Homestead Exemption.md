@@ -16,9 +16,9 @@ author: Julia Kagan
 Homestead Exemption
 ## What is a Homestead Exemption?
 
-A homestead exemption is a legal provision that helps shield a home from some creditors following the death of a homeowner spouse or the declaration of [bankruptcy](https://www.investopedia.com/terms/b/bankruptcy.asp).1 The homestead tax exemption can also provide surviving spouses with ongoing property-tax relief, which is done on a graduated scale so that homes with lower [assessed values](https://www.investopedia.com/terms/a/assessedvalue.asp) benefit the most.2 3
+A homestead exemption is a legal provision that helps shield a home from some creditors following the death of a homeowner spouse or the declaration of [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp).1 The homestead tax exemption can also provide surviving spouses with ongoing property-tax relief, which is done on a graduated scale so that homes with lower [[assessed values]](https://www.investopedia.com/terms/a/assessedvalue.asp) benefit the most.2 3
 
-The homestead exemption is helpful since it's designed to provide both physical shelter and financial protection, which can block the forced sale of a primary residence. However, the homestead exemption does not prevent or stop a bank [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp) if the homeowner defaults on their mortgage. Foreclosure is the process of a bank taking possession of a home due to failure to make timely mortgage payments.
+The homestead exemption is helpful since it's designed to provide both physical shelter and financial protection, which can block the forced sale of a primary residence. However, the homestead exemption does not prevent or stop a bank [[foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp) if the homeowner defaults on their mortgage. Foreclosure is the process of a bank taking possession of a home due to failure to make timely mortgage payments.
 
 The homestead tax exemption helps to shield a portion of a home's value from property taxes. Homeowners may need to apply for the benefit and should check with their local government.
 
@@ -36,11 +36,11 @@ Since a "homestead" property is considered a person's primary residence, no exem
 
 ## Protection from Creditors Under the Exemption
 
-The exemptions for homestead properties can vary from state-to-state. A few states, including Florida and Texas, afford unlimited financial protection against unsecured creditors for the home, although acreage limits may apply for the protected property.5 More common, though, is a limit for protection from [creditors](https://www.investopedia.com/articles/retirement/07/buildawall.asp) that ranges between $5,000 and $500,000, depending on the state, with many states in the $30,000 to $50,000 range.4
+The exemptions for homestead properties can vary from state-to-state. A few states, including Florida and Texas, afford unlimited financial protection against unsecured creditors for the home, although acreage limits may apply for the protected property.5 More common, though, is a limit for protection from [[creditors]](https://www.investopedia.com/articles/retirement/07/buildawall.asp) that ranges between $5,000 and $500,000, depending on the state, with many states in the $30,000 to $50,000 range.4
 
 However, the protection limits are not for the value of the home, but for the homeowner's equity in it—as in the value of the property minus the balance of the mortgage and other financial claims on it. If the equity held is less than the limit, the homeowner can't be forced to sell the property to benefit creditors. If a homestead's equity exceeds the limits, however, creditors may force the sale, although the homesteader may be allowed to keep a portion of the proceeds.
 
-Importantly, too, the protection for the homestead property does not apply for secured creditors, such as the bank that holds the [mortgage](https://www.investopedia.com/articles/pf/05/020705.asp) on the home. Instead, the homeowner is protected only from unsecured creditors who may come after the value of your home in order to satisfy claims against the homeowner's assets.
+Importantly, too, the protection for the homestead property does not apply for secured creditors, such as the bank that holds the [[mortgage]](https://www.investopedia.com/articles/pf/05/020705.asp) on the home. Instead, the homeowner is protected only from unsecured creditors who may come after the value of your home in order to satisfy claims against the homeowner's assets.
 
 There's a twist when it comes to bankruptcy protection. For bankruptcy cases filed after April 1, 2019, federal bankruptcy law shields a home from sale if the owner's equity in it does not exceed $25,150. For cases brought before then, the exemption is $23,675.6 7 In most states, homeowners are forced to use the state limits, which are often more favorable anyway. However, about one in three states allow either the federal or applicable state limit to be used.
 

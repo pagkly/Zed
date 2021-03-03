@@ -16,7 +16,7 @@ author: Adam Hayes
 The Truth About Mezzanine Financing
 ## What Is Mezzanine Financing?
 
-Mezzanine financing is a hybrid of debt and equity financing that gives the lender the right to convert to an equity interest in the company in case of [default](https://www.investopedia.com/terms/d/default2.asp), generally, after venture capital companies and other senior lenders are paid.
+Mezzanine financing is a hybrid of debt and equity financing that gives the lender the right to convert to an equity interest in the company in case of [[default]](https://www.investopedia.com/terms/d/default2.asp), generally, after venture capital companies and other senior lenders are paid.
 
 [Mezzanine debt](https://www.investopedia.com/terms/m/mezzaninedebt.asp) has embedded equity instruments attached, often known as warrants, which increase the value of the subordinated debt and allow greater flexibility when dealing with bondholders. Mezzanine financing is frequently associated with acquisitions and buyouts, for which it may be used to prioritize new owners ahead of existing owners in case of bankruptcy.
 
@@ -28,19 +28,19 @@ Mezzanine financing is a hybrid of debt and equity financing that gives the lend
 
 ## How Mezzanine Financing Works
 
-Mezzanine [financing](https://www.investopedia.com/articles/pf/13/business-financing-primer.asp) bridges the gap between debt and equity financing and is one of the highest-risk forms of debt. It is senior to pure equity but subordinate to pure debt. However, this means that it also offers some of the highest returns when compared to other debt types, as it often receives rates between 12% and 20% per year, and sometimes as high as 30%.
+Mezzanine [[financing]](https://www.investopedia.com/articles/pf/13/business-financing-primer.asp) bridges the gap between debt and equity financing and is one of the highest-risk forms of debt. It is senior to pure equity but subordinate to pure debt. However, this means that it also offers some of the highest returns when compared to other debt types, as it often receives rates between 12% and 20% per year, and sometimes as high as 30%.
 
 Companies will turn to mezzanine financing in order to fund growth projects or to help with acquisitions with short- to medium-term time horizons. Often, these loans will be provided by the long-term investors and existing funders of the company's capital. A number of other characteristics are common in the structuring of mezzanine loans, such as:
 
 -   Mezzanine loans are subordinate to senior debt but have priority over both preferred and common stock.
 -   They carry higher yields than ordinary debt.
 -   They are often unsecured debts.
--   There is no [amortization](https://www.investopedia.com/terms/a/amortization.asp) of loan principal.
+-   There is no [[amortization]](https://www.investopedia.com/terms/a/amortization.asp) of loan principal.
 -   It may be structured as part fixed and part variable interest.
 
 ## Advantages of Mezzanine Financing
 
-Mezzanine financing may result in lenders—or investors—gaining equity in a business or warrants for purchasing equity at a later date. This may significantly increase an investor's [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (ROR). In addition, mezzanine financing providers receive contractually obligated interest payments monthly, quarterly, or annually.
+Mezzanine financing may result in lenders—or investors—gaining equity in a business or warrants for purchasing equity at a later date. This may significantly increase an investor's [[rate of return]](https://www.investopedia.com/terms/r/rateofreturn.asp) (ROR). In addition, mezzanine financing providers receive contractually obligated interest payments monthly, quarterly, or annually.
 
 Borrowers prefer mezzanine debt because the interest is tax-deductible. Also, mezzanine financing is more manageable than other debt structures because borrowers may figure their interest in the balance of the loan. If a borrower cannot make a scheduled interest payment, some or all of the interest may be deferred. This option is typically unavailable for other types of debt.
 

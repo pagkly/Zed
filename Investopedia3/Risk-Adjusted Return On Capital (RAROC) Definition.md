@@ -16,7 +16,7 @@ author: James Chen
 Risk-Adjusted Return On Capital (RAROC) Definition
 ## What Is Risk-Adjusted Return On Capital (RAROC)?
 
-Risk-adjusted return on capital ([RAROC](https://www.investopedia.com/terms/r/riskadjustedreturn.asp)) is a modified return on investment (ROI) figure that takes elements of risk into account. In [financial analysis](https://www.investopedia.com/terms/f/financial-analysis.asp), projects and investments with greater risk levels must be evaluated differently; RAROC thus accounts for changes in an investment’s profile by [discounting](https://www.investopedia.com/terms/d/discounting.asp) risky cash flows against less-risky cash flows.
+Risk-adjusted return on capital ([RAROC](https://www.investopedia.com/terms/r/riskadjustedreturn.asp)) is a modified return on investment (ROI) figure that takes elements of risk into account. In [[financial analysis]](https://www.investopedia.com/terms/f/financial-analysis.asp), projects and investments with greater risk levels must be evaluated differently; RAROC thus accounts for changes in an investment’s profile by [[discounting]](https://www.investopedia.com/terms/d/discounting.asp) risky cash flows against less-risky cash flows.
 
 ### Key Takeaways
 
@@ -42,4 +42,4 @@ These wholesale activities facilitated the development of the RAROC model. Natio
 
 ## Return on Risk-Adjusted Capital
 
-Not to be confused with RAROC, the return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)) is used in financial analysis to calculate a rate of return, where projects and investments with higher levels of risk are evaluated based on the amount of capital at risk. More and more, companies are using RORAC as a greater amount of emphasis is placed on [risk management](https://www.investopedia.com/terms/r/riskmanagement.asp) throughout a company. The calculation for this metric is similar to RAROC, with the major difference being capital is adjusted for risk with RAROC instead of the rate of return.
+Not to be confused with RAROC, the return on risk-adjusted capital ([RORAC](https://www.investopedia.com/terms/r/rorac.asp)) is used in financial analysis to calculate a rate of return, where projects and investments with higher levels of risk are evaluated based on the amount of capital at risk. More and more, companies are using RORAC as a greater amount of emphasis is placed on [[risk management]](https://www.investopedia.com/terms/r/riskmanagement.asp) throughout a company. The calculation for this metric is similar to RAROC, with the major difference being capital is adjusted for risk with RAROC instead of the rate of return.

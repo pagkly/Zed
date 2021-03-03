@@ -16,7 +16,7 @@ author: Will Kenton
 What Is Heavy Industry?
 ## What Is Heavy Industry?
 
-Heavy industry relates to a type of business that typically carries a high capital cost (capital-intensive), high [barriers to entry](https://www.investopedia.com/terms/b/barrierstoentry.asp), and low transportability. The term "heavy" refers to the fact that the items produced by "heavy industry" used to be products such as iron, coal, oil, ships, etc. Today, the reference also refers to industries that disrupt the environment in the form of pollution, deforestation, etc.
+Heavy industry relates to a type of business that typically carries a high capital cost (capital-intensive), high [[barriers to entry]](https://www.investopedia.com/terms/b/barrierstoentry.asp), and low transportability. The term "heavy" refers to the fact that the items produced by "heavy industry" used to be products such as iron, coal, oil, ships, etc. Today, the reference also refers to industries that disrupt the environment in the form of pollution, deforestation, etc.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ Products that result from heavy industry tend to be large in size and low in ter
 
 Transportation and construction, along with their upstream manufacturing supply businesses, comprised most heavy industry throughout the industrial age, along with some capital-intensive manufacturing. Traditional examples from the Industrial Revolution through the early 20th century included steelmaking, artillery production, locomotive erection, machine tool building, and the heavier types of mining. When the chemical industry and electrical industry developed, they involved elements of both heavy industry and light industry, which was soon also true for the automotive industry and the aircraft industry. Heavy industry shipbuilding became the norm as steel replaced wood in modern shipbuilding. Large systems are often characteristic of heavy industry, such as the construction of skyscrapers and large dams during the post–World War II era, and the manufacture/deployment of large rockets and giant wind turbines through the 21st century.
 
-Another trait of heavy industry is that it most often sells its goods to other industrial customers, rather than to the end consumer. Heavy industries tend to be a part of the [supply chain](https://www.investopedia.com/terms/s/supplychain.asp) of other products. As a result, their stocks will often [rally](https://www.investopedia.com/terms/r/rally.asp) at the beginning of an economic upturn and are often the first to benefit from an increase in demand.
+Another trait of heavy industry is that it most often sells its goods to other industrial customers, rather than to the end consumer. Heavy industries tend to be a part of the [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp) of other products. As a result, their stocks will often [[rally]](https://www.investopedia.com/terms/r/rally.asp) at the beginning of an economic upturn and are often the first to benefit from an increase in demand.
 
 ## Heavy Industry in Asia
 

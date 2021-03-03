@@ -16,7 +16,7 @@ author: Will Kenton
 Free Cash Flow Yield: What You Need to Know
 ## What Is Free Cash Flow Yield?
 
-Free cash flow yield is a financial solvency ratio that compares the free cash flow per share a company is expected to earn against its market value per share. The ratio is calculated by taking the free cash flow per share divided by the current share price. Free cash flow yield is similar in nature to the earnings yield metric, which is usually meant to measure GAAP (generally accepted accounting principles) [earnings per share](https://www.investopedia.com/terms/e/eps.asp) divided by share price.
+Free cash flow yield is a financial solvency ratio that compares the free cash flow per share a company is expected to earn against its market value per share. The ratio is calculated by taking the free cash flow per share divided by the current share price. Free cash flow yield is similar in nature to the earnings yield metric, which is usually meant to measure GAAP (generally accepted accounting principles) [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) divided by share price.
 
 ## The Formula for Free Cash Flow Yield is:
 
@@ -28,7 +28,7 @@ Free Cash Flow Yield\=Free Cash Flow per ShareMarket Price per ShareFree\\ Cash\
 
 Generally, the lower the ratio, the less attractive a company is as an investment, because it means investors are putting money into the company but not receiving a very good return in exchange. A high free cash flow yield result means a company is generating enough cash to easily satisfy its debt and other obligations, including dividend payouts.
 
-Some investors regard free cash flow, which excludes [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) but considers other ongoing costs a business incurs to keep itself running, as a more accurate representation of the returns shareholders receive from owning a business. They prefer to free cash flow yield as a valuation metric over an earnings yield.
+Some investors regard free cash flow, which excludes [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) but considers other ongoing costs a business incurs to keep itself running, as a more accurate representation of the returns shareholders receive from owning a business. They prefer to free cash flow yield as a valuation metric over an earnings yield.
 
 In addition to sustaining ongoing operations, cash flow from operations is also a funding source for a company's long-term capital investments. Before tapping into any outside financing, a company first uses its operating cash flow to meet capital expenditure requirements. Anything left is referred to as free cash flow and becomes available to equity holders.
 
@@ -42,12 +42,12 @@ For investors preferring cash flow yield as a valuation metric over valuation mu
 
 ## The Difference Between Cash Flow and Earnings
 
-Free cash flow derives from operating cash flow, which is the net result of actual cash received and paid during a company's operations. Using [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) to measure operating results is different from accounting-based earnings reporting. Earnings track every element of revenue and expense, regardless of cash involvements.
+Free cash flow derives from operating cash flow, which is the net result of actual cash received and paid during a company's operations. Using [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) to measure operating results is different from accounting-based earnings reporting. Earnings track every element of revenue and expense, regardless of cash involvements.
 
 While earnings in principle summarize a company's total net income on account, cash flow concerns a company's ability to sustain its ongoing operations. The more cash a company amasses from operations, the easier it is to continue carrying out its business and to ultimately generate more earnings. The ability to yield cash flow can be a better indication of a company's longer-term valuation.
 
 ## Cash Flow Yield Versus a Valuation Multiple
 
-Investors may evaluate a company's worth by comparing its cash flows (business return) with its equity value. [Cash flow](https://www.investopedia.com/terms/c/cashflowstatement.asp) can be a proper return representation, and market price a close proxy of equity value. Investors may judge a company's worth based on the percentage of its cash flow over the equity's market price, which is referred to as cash flow yield.
+Investors may evaluate a company's worth by comparing its cash flows (business return) with its equity value. [[Cash flow]](https://www.investopedia.com/terms/c/cashflowstatement.asp) can be a proper return representation, and market price a close proxy of equity value. Investors may judge a company's worth based on the percentage of its cash flow over the equity's market price, which is referred to as cash flow yield.
 
 Alternatively, investors may look at a company's worth using a valuation multiple calculated as its equity's market price over the amount of cash flow. Evaluating an investment using cash flow yield can be more intuitive than a valuation multiple, as cash flow yield directly shows the cash returned as a percentage of the investment.

@@ -24,7 +24,7 @@ The term [_freemium_](https://www.investopedia.com/articles/personal-finance/121
 
 Under a freemium model, a business gives away a service at no cost to the consumer as a way to establish the foundation for future transactions. By offering basic-level services for free, companies build relationships with customers, eventually offering them advanced services, add-ons, enhanced storage or usage limits, or an ad-free user experience for an extra cost.
 
-The freemium model tends to work well for Internet-based businesses with small customer [acquisition costs](https://www.investopedia.com/terms/a/acquisition-cost.asp), but high lifetime value. The freemium business model allows users to utilize basic features of a software, game or service free, then charges for "upgrades" to the basic package. It is a popular tactic for companies just starting out as they try to lure users to their software or service.
+The freemium model tends to work well for Internet-based businesses with small customer [[acquisition costs]](https://www.investopedia.com/terms/a/acquisition-cost.asp), but high lifetime value. The freemium business model allows users to utilize basic features of a software, game or service free, then charges for "upgrades" to the basic package. It is a popular tactic for companies just starting out as they try to lure users to their software or service.
 
 **\[Important: Freemiums as a practice date from the 1980s, though the term was coined in 2006.\]**
 
@@ -40,7 +40,7 @@ Freemium games and services can catch users off guard, as they may not be aware 
 
 ## Examples of Freemiums
 
-An example of a company that uses the freemium business model is [Skype](https://www.investopedia.com/articles/investing/070915/how-skype-makes-money.asp), the firm that allows you to make video or voice calls over the Internet. There's no cost to set up a Skype account, the software can be downloaded for free, and there's no charge for their basic service—calling from a computer (or a cell phone or tablet) to another computer.
+An example of a company that uses the freemium business model is [[Skype]](https://www.investopedia.com/articles/investing/070915/how-skype-makes-money.asp), the firm that allows you to make video or voice calls over the Internet. There's no cost to set up a Skype account, the software can be downloaded for free, and there's no charge for their basic service—calling from a computer (or a cell phone or tablet) to another computer.
 
 But for more advanced services, such as placing a call to a landline or mobile phone, you do have to pay, albeit a small amount compared to conventional phone company charges. Text messages and video conferencing among as many as 10 users are other premium services.
 

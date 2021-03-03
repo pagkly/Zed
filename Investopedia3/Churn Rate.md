@@ -16,7 +16,7 @@ author: Jake Frankenfield
 Churn Rate
 ## What Is Churn Rate?
 
-The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their [subscriptions](https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp) within a given time period. It is also the rate at which employees leave their jobs within a certain period. For a company to expand its clientele, its growth rate (measured by the number of new customers) must exceed its churn rate.
+The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their [[subscriptions]](https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp) within a given time period. It is also the rate at which employees leave their jobs within a certain period. For a company to expand its clientele, its growth rate (measured by the number of new customers) must exceed its churn rate.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ The churn rate, also known as the rate of attrition or customer churn, is the ra
 
 ## Understanding Churn Rate
 
-A high churn rate could adversely affect [profits](https://www.investopedia.com/terms/p/profit.asp) and impede growth. Churn rate is an important factor in the telecommunications industry. In most areas, many of these companies compete, making it easy for people to transfer from one provider to another.
+A high churn rate could adversely affect [[profits]](https://www.investopedia.com/terms/p/profit.asp) and impede growth. Churn rate is an important factor in the telecommunications industry. In most areas, many of these companies compete, making it easy for people to transfer from one provider to another.
 
-The churn rate not only includes when customers switch carriers but also includes when customers terminate service without switching. This measurement is most valuable in subscriber-based businesses in which subscription fees comprise most of the [revenues](https://www.investopedia.com/terms/r/revenue.asp).
+The churn rate not only includes when customers switch carriers but also includes when customers terminate service without switching. This measurement is most valuable in subscriber-based businesses in which subscription fees comprise most of the [[revenues]](https://www.investopedia.com/terms/r/revenue.asp).
 
 What is considered a good or bad churn rate can vary from industry to industry.
 
@@ -40,7 +40,7 @@ A company can compare its new subscribers versus its loss of subscribers to dete
 
 If the growth rate is higher than the churn rate, the company experienced growth. When the churn rate is higher than the growth rate, the company experienced a loss in its customer base.
 
-For example, if in one quarter a company added 100 new subscribers but lost 110 subscribers, the net loss would be 10. There was no growth for the company this [quarter](https://www.investopedia.com/terms/q/quarter.asp) but rather a loss. This would be a negative growth rate and a positive churn rate.
+For example, if in one quarter a company added 100 new subscribers but lost 110 subscribers, the net loss would be 10. There was no growth for the company this [[quarter]](https://www.investopedia.com/terms/q/quarter.asp) but rather a loss. This would be a negative growth rate and a positive churn rate.
 
 It's important to pay attention to customer acquisition costs and to note whether a customer churns before you have made back the money spent on acquiring that customer.
 
@@ -52,7 +52,7 @@ It is critical for a company to ensure that its growth rate is higher than its c
 
 The advantage to calculating a company's churn rate is that it provides clarity on how well the business is retaining customers, which is a reflection on the quality of the service the business is providing, as well as its usefulness.
 
-If a company sees that its churn rate is increasing from period to period then it understands that a fundamental component of how it is running its business is flawed. The company may be providing a faulty product, it may have poor customer service, or its product may not be attractive to individuals who decided the cost is not worth the [utility](https://www.investopedia.com/terms/u/utility.asp).
+If a company sees that its churn rate is increasing from period to period then it understands that a fundamental component of how it is running its business is flawed. The company may be providing a faulty product, it may have poor customer service, or its product may not be attractive to individuals who decided the cost is not worth the [[utility]](https://www.investopedia.com/terms/u/utility.asp).
 
 The churn rate will indicate to a company that it needs to understand why its clients are leaving and where to fix its business. The cost of acquiring new customers is much higher than it is to retain current customers, so ensuring that the customers you worked hard to attract remain as paying customers, it makes sense to understand the quality of your business.
 
@@ -66,7 +66,7 @@ The impact of losing new customers versus long-term customers is critical. New c
 
 The churn rate also does not provide a true industry comparison of the types of companies within an industry. Most new companies will have a high acquisition rate as new people try the business but they will also have a higher churn rate as these new clients leave.
 
-A company that is [mature](https://www.investopedia.com/terms/m/mature-firm.asp) and has been around for decades will have a low churn rate as its clients are established but its acquisition rate will also be lower. Comparing the churn rates of both these companies will be like comparing apples and oranges.
+A company that is [[mature]](https://www.investopedia.com/terms/m/mature-firm.asp) and has been around for decades will have a low churn rate as its clients are established but its acquisition rate will also be lower. Comparing the churn rates of both these companies will be like comparing apples and oranges.
 
 Pros
 
@@ -90,7 +90,7 @@ Cons
 
 ### Telecommunications Industry Churn Rates
 
-The churn rate is a particularly useful measurement in the [telecommunications](https://www.investopedia.com/ask/answers/070815/what-telecommunications-sector.asp) industry. This includes cable or satellite television providers, Internet providers, and telephone service providers (landline and wireless service [providers](https://www.investopedia.com/articles/markets/030216/worlds-top-10-telecommunications-companies.asp)).
+The churn rate is a particularly useful measurement in the [[telecommunications]](https://www.investopedia.com/ask/answers/070815/what-telecommunications-sector.asp) industry. This includes cable or satellite television providers, Internet providers, and telephone service providers (landline and wireless service [[providers]](https://www.investopedia.com/articles/markets/030216/worlds-top-10-telecommunications-companies.asp)).
 
 As most customers have multiple options from which to choose, the churn rate helps a company determine how it is measuring up to its competitors. If one out of every 20 subscribers to a high-speed Internet service terminated their subscriptions within a year, the annual churn rate for that internet provider would be 5%.
 
@@ -126,11 +126,11 @@ A high churn rate indicates that a business is losing significant customers, cer
 
 ### What Is Netflix's Churn Rate?
 
-For the two-year period between July 2018 and July 2020, [Netflix](https://www.investopedia.com/insights/how-netflix-makes-money/) had a churn rate between 2% and 3%.1
+For the two-year period between July 2018 and July 2020, [[Netflix]](https://www.investopedia.com/insights/how-netflix-makes-money/) had a churn rate between 2% and 3%.1
 
 ## The Bottom Line
 
-Churn rate is a calculation that shows the percentage of subscribers of a business that are leaving. It can also be used to show the percentage of employees that are leaving a firm. Understanding a company's churn rate is one metric in understanding its [financial health](https://www.investopedia.com/terms/f/financial-health.asp) and its long-term prospects.
+Churn rate is a calculation that shows the percentage of subscribers of a business that are leaving. It can also be used to show the percentage of employees that are leaving a firm. Understanding a company's churn rate is one metric in understanding its [[financial health]](https://www.investopedia.com/terms/f/financial-health.asp) and its long-term prospects.
 
 Companies with high churn rates are losing a large number of subscribers, resulting in little growth, which significantly impacts revenues and profits. Companies with low churn rates are managing to retain customers.
 

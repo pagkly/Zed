@@ -16,7 +16,7 @@ author: Will Kenton
 Unintentional Tort
 ## What Is Unintentional Tort?
 
-An unintentional tort is a type of unintended accident that leads to injury, property damage, or financial loss. In the event of an unintentional [tort](https://www.investopedia.com/terms/t/tort-law.asp), the person who caused the accident did so inadvertently and typically because they were not being careful. The person who caused the accident is considered negligent because they failed to exercise the same degree of care that a reasonable person would have in the same situation.
+An unintentional tort is a type of unintended accident that leads to injury, property damage, or financial loss. In the event of an unintentional [[tort]](https://www.investopedia.com/terms/t/tort-law.asp), the person who caused the accident did so inadvertently and typically because they were not being careful. The person who caused the accident is considered negligent because they failed to exercise the same degree of care that a reasonable person would have in the same situation.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ To prove unintentional negligence in a court of law, a plaintiff must first pro
 
 Last, the plaintiff must prove that the defendant's actions caused their injuries. Determining the cause, known as cause-in-fact, is often done by applying the “but for” test, as in an injury would not have happened “but for” the defendant’s actions.
 
-Children can be held responsible for the damage they cause, but the courts place a different standard of care on a child. Courts will consider the child’s age, life experience, and what a child of a similar age would have done under similar circumstances. Children under age 6 are rarely found [liable](https://www.investopedia.com/terms/l/liability.asp) for their actions. Parents can be held liable if they fail to train their children or properly supervise their activities, but they are not automatically held liable for a child's actions. However, a child can sue a parent if they were injured because of a parent’s negligence.
+Children can be held responsible for the damage they cause, but the courts place a different standard of care on a child. Courts will consider the child’s age, life experience, and what a child of a similar age would have done under similar circumstances. Children under age 6 are rarely found [[liable]](https://www.investopedia.com/terms/l/liability.asp) for their actions. Parents can be held liable if they fail to train their children or properly supervise their activities, but they are not automatically held liable for a child's actions. However, a child can sue a parent if they were injured because of a parent’s negligence.
 
 ## An Example of Unintentional Tort
 

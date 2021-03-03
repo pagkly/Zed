@@ -16,7 +16,7 @@ author: Will Kenton
 Okun's Law
 ## What Is Okun's Law?
 
-Okun's law pertains to the relationship between the U.S. economy's [unemployment rate](https://www.investopedia.com/terms/u/unemploymentrate.asp) and its [gross national product](https://www.investopedia.com/terms/g/gnp.asp) (GNP). It states that when unemployment falls by 1%, GNP rises by 3%. However, the law only holds true for the U.S. economy and only applies when the unemployment rate is between 3% and 7.5%.
+Okun's law pertains to the relationship between the U.S. economy's [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp) and its [[gross national product]](https://www.investopedia.com/terms/g/gnp.asp) (GNP). It states that when unemployment falls by 1%, GNP rises by 3%. However, the law only holds true for the U.S. economy and only applies when the unemployment rate is between 3% and 7.5%.
 
 ## Okun's Law Explained
 

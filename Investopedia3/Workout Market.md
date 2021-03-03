@@ -16,7 +16,7 @@ author: Will Kenton
 Workout Market
 ## What Is a Workout Market?
 
-The workout market is an estimation of what trading prices will adjust to within the foreseeable future, known as a [market maker](https://www.investopedia.com/terms/m/marketmaker.asp) prediction.
+The workout market is an estimation of what trading prices will adjust to within the foreseeable future, known as a [[market maker]](https://www.investopedia.com/terms/m/marketmaker.asp) prediction.
 
 ### Key Takeaways
 
@@ -27,17 +27,17 @@ The workout market is an estimation of what trading prices will adjust to within
 
 ## Understanding Workout Markets
 
-The workout market characteristics are most commonly found within [thin markets](https://www.investopedia.com/terms/t/thinmarket.asp). Prices determined by the workout market can be subject to mark-ups on the securities that are being traded due to the sometimes-volatile nature of thin markets.
+The workout market characteristics are most commonly found within [[thin markets]](https://www.investopedia.com/terms/t/thinmarket.asp). Prices determined by the workout market can be subject to mark-ups on the securities that are being traded due to the sometimes-volatile nature of thin markets.
 
 These prices are also limited by the availability of the security being traded. The estimation does not guarantee that the prices predicted will come to fruition. External factors can still influence the fiscal health of the market, but these predictions are considered a fair estimation.
 
-A market maker can be either an individual or [firm](https://www.investopedia.com/terms/f/firm.asp) that frequently trades in securities from their own accounts. This allows for easier trading for other investors, but it also allows the maker to profit from the rapid rise and fall of prices. Some markets appoint a market maker for each security to facilitate easier trades in that individual sector.
+A market maker can be either an individual or [[firm]](https://www.investopedia.com/terms/f/firm.asp) that frequently trades in securities from their own accounts. This allows for easier trading for other investors, but it also allows the maker to profit from the rapid rise and fall of prices. Some markets appoint a market maker for each security to facilitate easier trades in that individual sector.
 
-Market makers are particularly influential during thin markets, as there is a reduced volume of buyers and sellers across the board. This results in less liquidity among assets, and larger pricing gaps between market [quotes](https://www.investopedia.com/terms/q/quote.asp). A market maker who is still trading in their own inventory will have more influence on the price of these assets as there will be fewer external investors bidding on them, potentially driving prices up or down.
+Market makers are particularly influential during thin markets, as there is a reduced volume of buyers and sellers across the board. This results in less liquidity among assets, and larger pricing gaps between market [[quotes]](https://www.investopedia.com/terms/q/quote.asp). A market maker who is still trading in their own inventory will have more influence on the price of these assets as there will be fewer external investors bidding on them, potentially driving prices up or down.
 
 ## Limit Orders in a Workout Market
 
-A [limit order](https://www.investopedia.com/terms/l/limitorder.asp) is a pre-established price point at which an investor wishes to execute transactions. This limit could reference either a minimum or maximum trading point and apply to both purchasing and selling.
+A [[limit order]](https://www.investopedia.com/terms/l/limitorder.asp) is a pre-established price point at which an investor wishes to execute transactions. This limit could reference either a minimum or maximum trading point and apply to both purchasing and selling.
 
 As an example, an investor may tell their broker that their limit for purchasing a new share is $50. At the same time, they may also inform their broker that they will only entertain sales of assets that will net them at least $100 per transaction. This allows the broker the freedom to make trades quickly while still acting on the investor's interests.
 

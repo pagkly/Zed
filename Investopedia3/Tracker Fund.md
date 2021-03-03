@@ -16,7 +16,7 @@ author: James Chen
 Tracker Fund
 ## What Is a Tracker Fund?
 
-A tracker fund is an index fund that tracks a broad [market index](https://www.investopedia.com/terms/m/marketindex.asp) or a segment thereof. Tracker funds are also known as index funds, designed to offer investors exposure to an entire index at a low cost. These funds seek to replicate the holdings and performance of a designated index, constructed as ETFs or alternative investments to meet the fund’s tracking objective.
+A tracker fund is an index fund that tracks a broad [[market index]](https://www.investopedia.com/terms/m/marketindex.asp) or a segment thereof. Tracker funds are also known as index funds, designed to offer investors exposure to an entire index at a low cost. These funds seek to replicate the holdings and performance of a designated index, constructed as ETFs or alternative investments to meet the fund’s tracking objective.
 
 ### Key Takeaways
 
@@ -30,9 +30,9 @@ A tracker fund is an index fund that tracks a broad [market index](https://www.i
 
 The term "tracker fund" has evolved from the tracking function that drives index fund management. Tracker funds seek to replicate the performance of a market index. Market innovation has significantly broadened the number of tracker funds available in the investable market.
 
-Investing in an index fund is a form of [passive investing](https://www.investopedia.com/terms/p/passiveinvesting.asp). Initially, index funds were introduced to provide investors a low-cost investment vehicle that allows for exposure to the many securities included in a market index. The primary advantage of such a strategy is the lower [expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp) on an index fund. 
+Investing in an index fund is a form of [[passive investing]](https://www.investopedia.com/terms/p/passiveinvesting.asp). Initially, index funds were introduced to provide investors a low-cost investment vehicle that allows for exposure to the many securities included in a market index. The primary advantage of such a strategy is the lower [[expense ratio]](https://www.investopedia.com/terms/e/expenseratio.asp) on an index fund. 
 
-Popular indexes for U.S. market exposure include the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp), Dow Jones Industrial Average and the Nasdaq Composite. Investors often choose traditional tracker funds because a majority of investment fund managers fail to beat broad market indexes on a consistent basis.
+Popular indexes for U.S. market exposure include the [[S&P 500]](https://www.investopedia.com/terms/s/sp500.asp), Dow Jones Industrial Average and the Nasdaq Composite. Investors often choose traditional tracker funds because a majority of investment fund managers fail to beat broad market indexes on a consistent basis.
 
 The majority of tracker funds are either income or accumulation units. Income is paid out to fund holders as cash, in the former, and in the latter, the income is retained within the fund for reinvestment. 
 
@@ -54,4 +54,4 @@ As of Jan. 18, 2020, it had an average daily volume of 8.5 million shares. The y
 
 Alternatively, many companies develop their own indexes with specified criteria for tracker funds. The Fidelity Quality Factor ETF (FQAL) is an example. The fund tracks a customized index created by Fidelity called the Fidelity U.S. Quality Factor Index. The Fidelity Quality Factor ETF seeks to replicate the holdings and performance of the Fidelity U.S. Quality Factor Index. The Index utilizes a screening methodology to identify high-quality large-cap and mid-cap stocks. 
 
-Investors get exposure to high-quality U.S. [large-cap](https://www.investopedia.com/terms/l/large-cap.asp) and mid-cap stocks while the fund requires lower costs due to its index replication construction. As of Dec. 31, 2020, the Fidelity Quality Factor ETF, returned 16.21% year-to-date.2 Meanwhile, the fund underperformed the broad U.S. large and mid-cap universe represented by the Russell 1000, which has a one-year return of 20.96%.3
+Investors get exposure to high-quality U.S. [[large-cap]](https://www.investopedia.com/terms/l/large-cap.asp) and mid-cap stocks while the fund requires lower costs due to its index replication construction. As of Dec. 31, 2020, the Fidelity Quality Factor ETF, returned 16.21% year-to-date.2 Meanwhile, the fund underperformed the broad U.S. large and mid-cap universe represented by the Russell 1000, which has a one-year return of 20.96%.3

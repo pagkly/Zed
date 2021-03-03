@@ -16,7 +16,7 @@ author: Lucas Downey
 Options Industry Council (OIC) Definition
 ## What Is the Options Industry Council?
 
-The Options Industry Council is a cooperative formed in 1992 by U.S. options exchanges and the [Options Clearing Corporation](https://www.investopedia.com/terms/o/occ.asp) (OCC) to educate investors and financial advisers regarding the benefits and risks of exchange-traded equity options. The OIC serves as the industry resource for equity options education and it is sponsored by a variety of corporations including BATS Options, the Boston Options Exchange, C2 Options Exchange Inc, the Chicago Board Options Exchange, the International Securities Exchange, NASDAQ OMX PHLX, NASDAQ Options Market, NYSE Amex, NYSE Arca, and Options Clearing Corporation.
+The Options Industry Council is a cooperative formed in 1992 by U.S. options exchanges and the [[Options Clearing Corporation]](https://www.investopedia.com/terms/o/occ.asp) (OCC) to educate investors and financial advisers regarding the benefits and risks of exchange-traded equity options. The OIC serves as the industry resource for equity options education and it is sponsored by a variety of corporations including BATS Options, the Boston Options Exchange, C2 Options Exchange Inc, the Chicago Board Options Exchange, the International Securities Exchange, NASDAQ OMX PHLX, NASDAQ Options Market, NYSE Amex, NYSE Arca, and Options Clearing Corporation.
 
 ## Understanding the Options Industry Council (OIC)
 

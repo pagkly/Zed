@@ -16,7 +16,7 @@ author: Julia Kagan
 N.V. (Naamloze Vennootschap)
 ## What is N.V.—Naamloze Vennootschap?
 
-N.V. is an acronym for the Dutch phrase "Naamloze Vennootschap." Appearing after a firm's name, it connotes incorporation means that the entity is the equivalent of a limited liability [public company,](https://www.investopedia.com/terms/p/publiccompany.asp) with shares that trade on open markets—somewhat like the the American "Inc.", the French/Latin American/Spanish "S.A.", the U.K's "PLC", and the German or Swiss “A.G.”
+N.V. is an acronym for the Dutch phrase "Naamloze Vennootschap." Appearing after a firm's name, it connotes incorporation means that the entity is the equivalent of a limited liability [[public company,]](https://www.investopedia.com/terms/p/publiccompany.asp) with shares that trade on open markets—somewhat like the the American "Inc.", the French/Latin American/Spanish "S.A.", the U.K's "PLC", and the German or Swiss “A.G.”
 
 N.V. is used in Dutch or Dutch-influenced nations: the Netherlands, Belgium, Suriname, the Dutch West Indies, Indonesia, Curacao, St. Maarten, and Aruba. "Naamloze vennootschap" literally translates as "nameless venture," which is fitting since the shareholders in a public company can maintain anonymity.
 
@@ -30,7 +30,7 @@ N.V. is used in Dutch or Dutch-influenced nations: the Netherlands, Belgium, Sur
 
 An N.V. consists of two or more shareholders who invest capital in the business. Two spouses may incorporate an N.V., provided the memorandum of association does not conflict with the matrimonial regime. However, naming of the company after any of its partners is not allowable.
 
-Establishing an N.V. requires the appointment of three or more directors. If the incorporation is by two founders or there are only two shareholders, the board may have two members. Because the N.V. is a legal entity, the creation of a [financial plan](https://www.investopedia.com/terms/f/financial_plan.asp) is necessary. The opening of a particular account in the company’s name will receive all cash contributions. In the case of contributions in kind, an auditor’s report is necessary.
+Establishing an N.V. requires the appointment of three or more directors. If the incorporation is by two founders or there are only two shareholders, the board may have two members. Because the N.V. is a legal entity, the creation of a [[financial plan]](https://www.investopedia.com/terms/f/financial_plan.asp) is necessary. The opening of a particular account in the company’s name will receive all cash contributions. In the case of contributions in kind, an auditor’s report is necessary.
 
 The drafting of an official deed is done before a notary. The filing of [articles of incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp) with the registrar must happen within 15 days of corporation creation. The registrar will then arrange for publication in the Belgian Official Gazette. 
 
@@ -42,9 +42,9 @@ An N.V. is useful in protecting the identity of its investors. Because partner a
 
 Shares are registered until fully paid up so no outlay of cash is required. However, this will necessitate a high amount of fully invested starting capital from the point the company is incorporated. Furthermore, each share corresponding to a cash contribution must be at least one-fourth paid up.
 
-The [articles of association](https://www.investopedia.com/terms/a/articles-of-association.asp) authorize conversion of registered securities to bearer securities. Although [bearer shares](https://www.investopedia.com/terms/b/bearer_share.asp) are transferable, registered shares are exchangeable but may be limited. 
+The [[articles of association]](https://www.investopedia.com/terms/a/articles-of-association.asp) authorize conversion of registered securities to bearer securities. Although [[bearer shares]](https://www.investopedia.com/terms/b/bearer_share.asp) are transferable, registered shares are exchangeable but may be limited. 
 
-For example, an approval clause in the articles of incorporation requires the approval of share transfers by a company body, typically management. A preemption clause requires shareholders giving other shareholders first rights to purchase shares. An [alienability clause](https://www.investopedia.com/terms/a/alienation_clause.asp) means share transfers are limited in time and must be justified by the company’s interests.
+For example, an approval clause in the articles of incorporation requires the approval of share transfers by a company body, typically management. A preemption clause requires shareholders giving other shareholders first rights to purchase shares. An [[alienability clause]](https://www.investopedia.com/terms/a/alienation_clause.asp) means share transfers are limited in time and must be justified by the company’s interests.
 
 ## Real-Life Example of an N.V.—Naamloze Vennootschap
 

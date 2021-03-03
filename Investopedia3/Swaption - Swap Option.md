@@ -16,20 +16,20 @@ author: James Chen
 Swaption - Swap Option
 ## What is a Swaption - Swap Option?
 
-A swaption, also known as a swap option, refers to an option to enter into an interest rate [swap](https://www.investopedia.com/terms/s/swap.asp) or some other type of swap. In exchange for an [options premium](https://www.investopedia.com/terms/o/option-premium.asp), the buyer gains the right but not the obligation to enter into a specified swap agreement with the issuer on a specified future date.
+A swaption, also known as a swap option, refers to an option to enter into an interest rate [[swap]](https://www.investopedia.com/terms/s/swap.asp) or some other type of swap. In exchange for an [[options premium]](https://www.investopedia.com/terms/o/option-premium.asp), the buyer gains the right but not the obligation to enter into a specified swap agreement with the issuer on a specified future date.
 
 ## What Does a Swaption - Swap Option Tell You?
 
-Swaptions come in two main types: a payer swaption and a receiver swaption. In a payer swaption, the purchaser has the right but not the obligation to enter into a swap contract where they become the [fixed-rate](https://www.investopedia.com/terms/f/fixedinterestrate.asp) payer and the [floating-rate](https://www.investopedia.com/terms/f/floatinginterestrate.asp) receiver. A receiver swaption is the opposite i.e. the purchaser has the option to enter into a swap contract where they will receive the fixed rate and pay the floating rate.
+Swaptions come in two main types: a payer swaption and a receiver swaption. In a payer swaption, the purchaser has the right but not the obligation to enter into a swap contract where they become the [[fixed-rate]](https://www.investopedia.com/terms/f/fixedinterestrate.asp) payer and the [[floating-rate]](https://www.investopedia.com/terms/f/floatinginterestrate.asp) receiver. A receiver swaption is the opposite i.e. the purchaser has the option to enter into a swap contract where they will receive the fixed rate and pay the floating rate.
 
-Swaptions are [over-the-counter](https://www.investopedia.com/terms/o/otc.asp) contracts and are not standardized, like equity options or futures contracts. Thus, the buyer and seller need to both agree to the price of the swaption, the time until expiration of the swaption, the [notional amount](https://www.investopedia.com/terms/n/notionalvalue.asp) and the fixed/floating rates.
+Swaptions are [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) contracts and are not standardized, like equity options or futures contracts. Thus, the buyer and seller need to both agree to the price of the swaption, the time until expiration of the swaption, the [[notional amount]](https://www.investopedia.com/terms/n/notionalvalue.asp) and the fixed/floating rates.
 
 Beyond these terms, the buyer and seller must also agree whether the swaption style will be Bermudan, European or American. These style names have nothing to do with geography; instead referring to the methodology in which the swaption will be executed.
 
 ### Key Takeaways
 
 -   **Bermudan swaption:** the purchaser is allowed to exercise the option and enter into the specified swap on a predetermined set of specific dates.
--   **European swaption:** the purchaser is only allowed to exercise the option and enter into the swap on the [expiration date](https://www.investopedia.com/terms/e/expiration-date.asp) of the swaption.
+-   **European swaption:** the purchaser is only allowed to exercise the option and enter into the swap on the [[expiration date]](https://www.investopedia.com/terms/e/expiration-date.asp) of the swaption.
 -   **American swaption:** the purchaser can exercise the option and enter into the swap on any day between the origination of the swap and the expiration date. (There may be a short lockout period after origination.)
 
 Since swaptions are custom contracts, more creative, personalized and/or unique terms can be included in the terms.

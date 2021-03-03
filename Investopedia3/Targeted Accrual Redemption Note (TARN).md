@@ -16,7 +16,7 @@ author: James Chen
 Targeted Accrual Redemption Note (TARN)
 ## What Is a Targeted Accrual Redemption Note?
 
-A targeted accrual redemption note (TARN) is an exotic [derivative](https://www.investopedia.com/terms/d/derivative.asp) that terminates when a limit on coupon payments to the holder is reached.
+A targeted accrual redemption note (TARN) is an exotic [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) that terminates when a limit on coupon payments to the holder is reached.
 
 Target accrual redemption notes (TARN) have the distinguishing feature of being subject to early termination. If the accumulation of coupons reaches a predetermined amount before the settlement date, the holder of the note receives a final payment of the [par value](https://www.investopedia.com/terms/p/parvalue.asp) and the contract ends.
 
@@ -31,7 +31,7 @@ Target accrual redemption notes (TARN) have the distinguishing feature of being 
 
 A targeted accrual redemption note is essentially an index-linked note that has a set amount of coupons that represent the target cap. After the target cap is reached, the note will be terminated with the par of the note being paid. So there is usually an attractive initial coupon combined with the possibility of getting back the par value relatively fast. An index-linked note an investment product that combines a fixed-income investment with additional potential returns that are tied to the performance of an equity index such as the S&P 500 index. 
 
-Aside from these index-linked features, TARNs are similar to [inverse floating-rate notes](https://www.investopedia.com/terms/i/inversefloater.asp) where the benchmark may be [LIBOR](https://www.investopedia.com/terms/l/libor.asp), [Euribor](https://www.investopedia.com/terms/e/euribor.asp), or a similar rate. TARNs can also be conceptualized as [path-dependent options](https://www.investopedia.com/terms/p/pathdependentoption.asp): the end-user in effect buys a strip of call options while selling a strip of put options with a notional value that is double the calls'. The contract may include a knock-out provision that terminates it if the benchmark reaches a certain level. 
+Aside from these index-linked features, TARNs are similar to [[inverse floating-rate notes]](https://www.investopedia.com/terms/i/inversefloater.asp) where the benchmark may be [LIBOR](https://www.investopedia.com/terms/l/libor.asp), [Euribor](https://www.investopedia.com/terms/e/euribor.asp), or a similar rate. TARNs can also be conceptualized as [[path-dependent options]](https://www.investopedia.com/terms/p/pathdependentoption.asp): the end-user in effect buys a strip of call options while selling a strip of put options with a notional value that is double the calls'. The contract may include a knock-out provision that terminates it if the benchmark reaches a certain level. 
 
 [Foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp) TARNs or FX-TARNs are a common form of TARN in which counterparties exchange currencies at a pre-determined rate on pre-determined dates. The amount of currency exchanged varies depending on whether the rate is above or below a set forward price. 
 

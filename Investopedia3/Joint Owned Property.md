@@ -18,7 +18,7 @@ Joint Owned Property
 
 Joint owned property is any property held in the name of two or more parties. These two parties could business partners or another combination of people who have a reason to own property together. The matrimonial status of joint ownership of assets is when the two parties are husband and wife.
 
-Joint owned property may be held in one of several legal forms, including joint tenancy, tenancy by the entirety, [community property](https://www.investopedia.com/personal-finance/which-states-are-community-property-states/), or in a trust.
+Joint owned property may be held in one of several legal forms, including joint tenancy, tenancy by the entirety, [[community property]](https://www.investopedia.com/personal-finance/which-states-are-community-property-states/), or in a trust.
 
 ## How Joint Owned Property Works
 

@@ -16,11 +16,11 @@ author: Adam Hayes
 Cash Flow Statement
 ## What Is a Cash Flow Statement?
 
-A cash flow statement is a [financial statement](https://www.investopedia.com/terms/f/financial-statements.asp) that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources. It also includes all cash outflows that pay for business activities and investments during a given period. 
+A cash flow statement is a [[financial statement]](https://www.investopedia.com/terms/f/financial-statements.asp) that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources. It also includes all cash outflows that pay for business activities and investments during a given period. 
 
 A company's financial statements offer investors and analysts a portrait of all the transactions that go through the business, where every transaction contributes to its success. The cash flow statement is believed to be the most intuitive of all the financial statements because it follows the cash made by the business in three main ways—through operations, investment, and financing. The sum of these three segments is called net cash flow.
 
-These three different sections of the cash flow statement can help investors determine the value of a company's stock or [the company as a whole](https://www.investopedia.com/terms/f/financialperformance.asp).
+These three different sections of the cash flow statement can help investors determine the value of a company's stock or [[the company as a whole]](https://www.investopedia.com/terms/f/financialperformance.asp).
 
 ### Key Takeaways
 
@@ -34,9 +34,9 @@ These three different sections of the cash flow statement can help investors det
 
 Every company that sells and offers its stock to the public must file financial reports and statements with the Securities and Exchange Commission (SEC).1 The three main financial statements are the balance sheet and income statement. The cash flow statement is an important document that helps open a wind interested parties insight into all the transactions that go through a company.
 
-There are two different branches of accounting—accrual and cash. Most public companies use [accrual accounting](https://www.investopedia.com/terms/a/accrualaccounting.asp), which means the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) is not the same as the company's cash position. The cash flow statement, though, is focused on cash accounting.
+There are two different branches of accounting—accrual and cash. Most public companies use [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp), which means the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) is not the same as the company's cash position. The cash flow statement, though, is focused on cash accounting.
 
-Profitable companies can fail to [adequately manage](https://www.investopedia.com/articles/personal-finance/061215/10-ways-improve-cash-flow.asp) cash flow, which is why the cash flow statement is a critical tool for companies, analysts, and investors. The cash flow statement is broken down into three different business activities: operations, investing, and financing.
+Profitable companies can fail to [[adequately manage]](https://www.investopedia.com/articles/personal-finance/061215/10-ways-improve-cash-flow.asp) cash flow, which is why the cash flow statement is a critical tool for companies, analysts, and investors. The cash flow statement is broken down into three different business activities: operations, investing, and financing.
 
 Let's consider a company that sells a product and extends credit for the sale to its customer. Even though It recognizes that sale as revenue, the company may not receive cash until a later date. The company earns a profit on the income statement and pays income taxes on it, but the business may bring in more or less cash than the sales or income figures.
 
@@ -44,7 +44,7 @@ Investors and analysts should use good judgment when evaluating changes to worki
 
 ## Cash Flows From Operations
 
-This is the first section of the cash flow statement covers [cash flows from operating activities](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) and includes transactions from all operational business activities. The cash flows from operations section begins with net income, then reconciles all noncash items to cash items involving operational activities. So, in other words, it is the company's net income, but in a cash version.
+This is the first section of the cash flow statement covers [[cash flows from operating activities]](https://www.investopedia.com/terms/c/cash-flow-from-operating-activities.asp) (CFO) and includes transactions from all operational business activities. The cash flows from operations section begins with net income, then reconciles all noncash items to cash items involving operational activities. So, in other words, it is the company's net income, but in a cash version.
 
 This section reports cash flows and outflows that stem directly from a company's main business activities. These activities may include buying and selling inventory and supplies, along with paying its employees their salaries. Any other forms of in and outflows such as investments, debts, and dividends are not included.
 
@@ -54,7 +54,7 @@ For example, accounts receivable is a noncash account. If accounts receivable go
 
 ## Cash Flows From Investing
 
-This is the second section of the cash flow statement looks at [cash flows from investing](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp) (CFI) and is the result of investment gains and losses. This section also includes cash spent on property, plant, and equipment. This section is where analysts look to find changes in [capital expenditures](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (capex).
+This is the second section of the cash flow statement looks at [[cash flows from investing]](https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp) (CFI) and is the result of investment gains and losses. This section also includes cash spent on property, plant, and equipment. This section is where analysts look to find changes in [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (capex).
 
 When capex increases, it generally means there is a reduction in cash flow. But that's not always a bad thing, as it may indicate that a company is making investment into its future operations. Companies with high capex tend to be those that are growing.
 

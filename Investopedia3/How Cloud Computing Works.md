@@ -18,7 +18,7 @@ How Cloud Computing Works
 
 Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.
 
-Rather than keeping files on a proprietary hard drive or local storage device, [cloud-based storage](https://www.investopedia.com/terms/c/cloud-storage.asp) makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it.
+Rather than keeping files on a proprietary hard drive or local storage device, [[cloud-based storage]](https://www.investopedia.com/terms/c/cloud-storage.asp) makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it.
 
 Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security.
 
@@ -61,21 +61,21 @@ Newer forms of cloud computing services include the community cloud, the big dat
 
 ## Types of Cloud Computing
 
-Cloud computing is not a single piece of technology like a microchip or a cellphone. Rather, it's a system primarily comprised of three services: [software-as-a-service (SaaS)](https://www.investopedia.com/terms/s/software-as-a-service-saas.asp), infrastructure-as-a-service (IaaS), and platform-as-a-service (PaaS).
+Cloud computing is not a single piece of technology like a microchip or a cellphone. Rather, it's a system primarily comprised of three services: [[software-as-a-service (SaaS)]](https://www.investopedia.com/terms/s/software-as-a-service-saas.asp), infrastructure-as-a-service (IaaS), and platform-as-a-service (PaaS).
 
 1.  **Software-as-a-service (SaaS)** involves the licensure of a software application to customers. Licenses are typically provided through a pay-as-you-go model or on-demand. This type of system can be found in Microsoft Office's 365.1
-2.  **Infrastructure-as-a-service (IaaS)** involves a method for delivering everything from operating systems to servers and storage through IP-based connectivity as part of an on-demand service. Clients can avoid the need to purchase software or servers, and instead procure these resources in an [outsourced](https://www.investopedia.com/terms/o/outsourcing.asp), on-demand service. Popular examples of the IaaS system include IBM Cloud and Microsoft Azure.2 3
+2.  **Infrastructure-as-a-service (IaaS)** involves a method for delivering everything from operating systems to servers and storage through IP-based connectivity as part of an on-demand service. Clients can avoid the need to purchase software or servers, and instead procure these resources in an [[outsourced]](https://www.investopedia.com/terms/o/outsourcing.asp), on-demand service. Popular examples of the IaaS system include IBM Cloud and Microsoft Azure.2 3
 3.  **Platform-as-a-service (PaaS)** is considered the most complex of the three layers of cloud-based computing. PaaS shares some similarities with SaaS, the primary difference being that instead of delivering software online, it is actually a platform for creating software that is delivered via the Internet. This model includes platforms like Salesforce.com and Heroku.4 5
 
 ## Advantages of Cloud Computing 
 
 Cloud-based software offers companies from all sectors a number of benefits, including the ability to use software from any device either via a native app or a browser. As a result, users can carry their files and settings over to other devices in a completely seamless manner.
 
-Cloud computing is far more than just accessing files on multiple devices. Thanks to cloud computing services, users can check their email on any computer and even store files using services such as Dropbox and Google Drive.6 7 Cloud computing services also make it possible for users to [back up](https://www.investopedia.com/terms/b/back-up.asp) their music, files, and photos, ensuring those files are immediately available in the event of a hard drive crash.
+Cloud computing is far more than just accessing files on multiple devices. Thanks to cloud computing services, users can check their email on any computer and even store files using services such as Dropbox and Google Drive.6 7 Cloud computing services also make it possible for users to [[back up]](https://www.investopedia.com/terms/b/back-up.asp) their music, files, and photos, ensuring those files are immediately available in the event of a hard drive crash.
 
-It also offers big businesses huge cost-saving potential. Before the cloud became a viable alternative, companies were required to purchase, construct, and maintain costly [information management technology](https://www.investopedia.com/terms/i/information-management-technology-imt.asp) and infrastructure. Companies can swap costly server centers and IT departments for fast Internet connections, where employees interact with the cloud online to complete their tasks.
+It also offers big businesses huge cost-saving potential. Before the cloud became a viable alternative, companies were required to purchase, construct, and maintain costly [[information management technology]](https://www.investopedia.com/terms/i/information-management-technology-imt.asp) and infrastructure. Companies can swap costly server centers and IT departments for fast Internet connections, where employees interact with the cloud online to complete their tasks.
 
-The cloud structure allows individuals to save storage space on their desktops or laptops. It also lets users [upgrade](https://www.investopedia.com/terms/u/upgrade.asp) software more quickly because software companies can offer their products via the web rather than through more traditional, tangible methods involving discs or flash drives. For example, Adobe customers can access applications in its Creative Cloud through an Internet-based subscription.8 This allows users to download new versions and fixes to their programs easily.
+The cloud structure allows individuals to save storage space on their desktops or laptops. It also lets users [[upgrade]](https://www.investopedia.com/terms/u/upgrade.asp) software more quickly because software companies can offer their products via the web rather than through more traditional, tangible methods involving discs or flash drives. For example, Adobe customers can access applications in its Creative Cloud through an Internet-based subscription.8 This allows users to download new versions and fixes to their programs easily.
 
 ## Disadvantages of the Cloud
 
@@ -94,7 +94,7 @@ Businesses can employ cloud computing in different ways. Some users maintain all
 When it comes to providing services, the big players in the corporate computing sphere include:
 
 -   Google Cloud
--   [Amazon Web Services](https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp) (AWS)
+-   [[Amazon Web Services]](https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp) (AWS)
 -   Microsoft Azure
 -   IBM Cloud
 -   Alibaba Cloud

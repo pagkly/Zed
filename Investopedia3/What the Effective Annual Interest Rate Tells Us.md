@@ -40,9 +40,9 @@ That's why the effective annual interest rate is an important financial concept 
 
 ## Example of Effective Annual Interest Rate
 
-For example, consider these two offers: Investment A pays 10% interest, compounded monthly. Investment B pays 10.1% compounded [semi-annually](https://www.investopedia.com/terms/s/semiannual.asp). Which is the better offer?
+For example, consider these two offers: Investment A pays 10% interest, compounded monthly. Investment B pays 10.1% compounded [[semi-annually]](https://www.investopedia.com/terms/s/semiannual.asp). Which is the better offer?
 
-In both cases, the advertised interest rate is the [nominal interest rate](https://www.investopedia.com/terms/n/nominalinterestrate.asp). The effective annual interest rate is calculated by adjusting the nominal interest rate for the number of compounding periods the financial product will experience in a period of time. In this case, that period is one year. The formula and calculations are as follows:
+In both cases, the advertised interest rate is the [[nominal interest rate]](https://www.investopedia.com/terms/n/nominalinterestrate.asp). The effective annual interest rate is calculated by adjusting the nominal interest rate for the number of compounding periods the financial product will experience in a period of time. In this case, that period is one year. The formula and calculations are as follows:
 
 -   **Effective annual interest rate** = (1 + (nominal rate / number of compounding periods)) ^ (number of compounding periods) - 1
 -   For investment A, this would be: 10.47% = (1 + (10% / 12)) ^ 12 - 1
@@ -50,11 +50,11 @@ In both cases, the advertised interest rate is the [nominal interest rate](https
 
 Investment B has a higher stated nominal interest rate, but the effective annual interest rate is lower than the effective rate for investment A. This is because Investment B compounds fewer times over the course of the year.
 
-If an [investor](https://www.investopedia.com/terms/i/investor.asp) were to put, say, $5,000,000 into one of these investments, the wrong decision would cost more than $5,800 per year.
+If an [[investor]](https://www.investopedia.com/terms/i/investor.asp) were to put, say, $5,000,000 into one of these investments, the wrong decision would cost more than $5,800 per year.
 
 ### More Frequent Compounding Equals Higher Returns
 
-As the number of compounding periods increases, so does the effective annual interest rate. Quarterly compounding produces higher [returns](https://www.investopedia.com/terms/r/return.asp) than semi-annual compounding, monthly compounding more than quarterly, and daily compounding more than monthly. Below is a breakdown of the results of these different compound periods with a 10% nominal interest rate:
+As the number of compounding periods increases, so does the effective annual interest rate. Quarterly compounding produces higher [[returns]](https://www.investopedia.com/terms/r/return.asp) than semi-annual compounding, monthly compounding more than quarterly, and daily compounding more than monthly. Below is a breakdown of the results of these different compound periods with a 10% nominal interest rate:
 
 -   Semi-annual = 10.250%
 -   Quarterly = 10.381%

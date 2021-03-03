@@ -16,7 +16,7 @@ author: Gordon Scott, CMT
 Nasdaq Capital Market Definition
 ## What Is the Nasdaq Capital Market?
 
-The Nasdaq Capital Market is one of [Nasdaq's](https://www.investopedia.com/terms/n/nasdaq.asp) U.S. market tiers meant for early stage companies that have relatively low levels of market capitalization. Listing requirements for companies on the Nasdaq Capital Market are less stringent than for the two other Nasdaq market tiers, which focus on larger companies with higher [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp).
+The Nasdaq Capital Market is one of [[Nasdaq's]](https://www.investopedia.com/terms/n/nasdaq.asp) U.S. market tiers meant for early stage companies that have relatively low levels of market capitalization. Listing requirements for companies on the Nasdaq Capital Market are less stringent than for the two other Nasdaq market tiers, which focus on larger companies with higher [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp).
 
 ### Key Takeaways
 
@@ -26,9 +26,9 @@ The Nasdaq Capital Market is one of [Nasdaq's](https://www.investopedia.com/term
 
 ## Understanding the Nasdaq Capital Market
 
-The Nasdaq Capital Market was renamed in 2005. It was originally known as the Nasdaq SmallCap Market, reflecting its role of primarily listing small cap companies. The name change reflects a shift in focus towards listing companies that need to raise capital. It is meant to be a less encumbered entrance for smaller company or a [Special Purpose Acquisition Company (SPAC)](https://www.investopedia.com/terms/s/spac.asp) to capitalize and grow through a Nasdaq listing.
+The Nasdaq Capital Market was renamed in 2005. It was originally known as the Nasdaq SmallCap Market, reflecting its role of primarily listing small cap companies. The name change reflects a shift in focus towards listing companies that need to raise capital. It is meant to be a less encumbered entrance for smaller company or a [[Special Purpose Acquisition Company (SPAC)]](https://www.investopedia.com/terms/s/spac.asp) to capitalize and grow through a Nasdaq listing.
 
-Although the initial [listing requirements](https://www.investopedia.com/terms/l/listingrequirements.asp) are relaxed for companies, the [corporate governance](https://www.investopedia.com/terms/c/corporategovernance.asp) required to maintain a Nasdaq listing is the same across all tiers. This means Nasdaq Capital Market companies must have a code of conduct, an audit committee, independent directors and so on.
+Although the initial [[listing requirements]](https://www.investopedia.com/terms/l/listingrequirements.asp) are relaxed for companies, the [[corporate governance]](https://www.investopedia.com/terms/c/corporategovernance.asp) required to maintain a Nasdaq listing is the same across all tiers. This means Nasdaq Capital Market companies must have a code of conduct, an audit committee, independent directors and so on.
 
 ## Listing Requirements for the Nasdaq Capital Market
 
@@ -36,7 +36,7 @@ The Nasdaq Capital Market makes it easier for early stage companies to get liste
 
 All the standards share some requirements such as one million publicly held shares, 300 shareholders and 3 market makers. However, they differ in important ways. The equity standard requires stockholder equity of $5 million, where the other two require only $4 million, and it also requires an operating history of two years, while the other two do not require an operating history. The market value of listed securities standard requires, not surprisingly, a market value of listed securities of $50 million and a market value of publicly held shares of $15 million. The net income standard is the only one requiring a net income, $750,000 in the latest fiscal year or in two of the last three years, but has the lowest requirement for market value of publicly held shares at $5 million.
 
-Although companies can pick the standard that best matches, the overall standard and the required governance is more stringent than some early phase capital markets. Because of the costs involved with meeting these standards, companies listing on the Nasdaq Capital Market often handily exceed the minimum requirements before they decide to list. Other early phase capital markets like [AIM](https://www.investopedia.com/terms/a/alternative-investment-market.asp) have positioned themselves as lighter regulation destinations to provide bridge listings for companies as they grow large enough for the Nasdaq.
+Although companies can pick the standard that best matches, the overall standard and the required governance is more stringent than some early phase capital markets. Because of the costs involved with meeting these standards, companies listing on the Nasdaq Capital Market often handily exceed the minimum requirements before they decide to list. Other early phase capital markets like [[AIM]](https://www.investopedia.com/terms/a/alternative-investment-market.asp) have positioned themselves as lighter regulation destinations to provide bridge listings for companies as they grow large enough for the Nasdaq.
 
 ## Nasdaq Listing Tiers
 

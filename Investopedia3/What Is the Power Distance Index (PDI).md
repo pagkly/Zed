@@ -50,6 +50,6 @@ The PDI of the United States
 
 Hofstede's theory gained considerable notoriety because of its analysis of cultural and national differences. It has been particularly influential in the business world. With the growth of the global economy, the PDI and the factors that contribute to it have been used to foster an understanding of cultural differences and how they affect international business dealings.
 
-The differences in perception of power seem particularly relevant during business negotiations. For example, Austria has a power distance index of approximately 11, while most Arab nations have indices of around 80. Employing Austrian business practices or management styles in an Arab country may be counterproductive, or at the very least can produce a degree of [culture shock](https://www.investopedia.com/terms/c/culture-shock.asp). 
+The differences in perception of power seem particularly relevant during business negotiations. For example, Austria has a power distance index of approximately 11, while most Arab nations have indices of around 80. Employing Austrian business practices or management styles in an Arab country may be counterproductive, or at the very least can produce a degree of [[culture shock]](https://www.investopedia.com/terms/c/culture-shock.asp). 
 
 The United States, by the way, has a PDI of 40.

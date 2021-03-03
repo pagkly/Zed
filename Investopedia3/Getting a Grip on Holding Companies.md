@@ -37,7 +37,7 @@ Businesses that are completely owned by a holding company are referred to as "wh
 
 ## Benefits of Holding Companies
 
-Holding companies enjoy the benefit of protection from losses. If a subsidiary company goes bankrupt, the holding company may experience a [capital loss](https://www.investopedia.com/terms/c/capitalloss.asp) and a decline in net worth. However, the bankrupt company’s creditors cannot legally pursue the holding company for remuneration.
+Holding companies enjoy the benefit of protection from losses. If a subsidiary company goes bankrupt, the holding company may experience a [[capital loss]](https://www.investopedia.com/terms/c/capitalloss.asp) and a decline in net worth. However, the bankrupt company’s creditors cannot legally pursue the holding company for remuneration.
 
 Consequently, as an asset protection strategy, a parent corporation might structure itself as a holding company, while creating subsidiaries for each of its business lines. For example, one subsidiary may own the parent corporation's brand name and trademarks, while another subsidiary may own its real estate.
 
@@ -51,4 +51,4 @@ Holding companies support their subsidiaries by using their resources to lower t
 
 ## Example of a Holding Company
 
-An example of a well-known holding company is [Berkshire Hathaway](https://www.investopedia.com/terms/b/berkshire-hathaway.asp), which owns assets in more than one hundred public and private companies, including Dairy Queen, Clayton Homes, Duracell, GEICO, Fruit of the Loom, RC Wiley Home Furnishings and Marmon Group. Berkshire likewise boasts minor holdings in The Coca-Cola Company, Goldman Sachs, IBM, American Express, Apple, Delta Airlines, and Kinder Morgan.
+An example of a well-known holding company is [[Berkshire Hathaway]](https://www.investopedia.com/terms/b/berkshire-hathaway.asp), which owns assets in more than one hundred public and private companies, including Dairy Queen, Clayton Homes, Duracell, GEICO, Fruit of the Loom, RC Wiley Home Furnishings and Marmon Group. Berkshire likewise boasts minor holdings in The Coca-Cola Company, Goldman Sachs, IBM, American Express, Apple, Delta Airlines, and Kinder Morgan.

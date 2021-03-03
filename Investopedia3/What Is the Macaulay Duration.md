@@ -16,7 +16,7 @@ author: James Chen
 What Is the Macaulay Duration?
 ## What Is the Macaulay Duration
 
-The Macaulay duration is the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) [term to maturity](https://www.investopedia.com/terms/t/termtomaturity.asp) of the cash flows from a [bond](https://www.investopedia.com/terms/b/bond.asp). The weight of each cash flow is determined by dividing the present value of the cash flow by the price. Macaulay duration is frequently used by [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp) who use an immunization strategy.
+The Macaulay duration is the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) [[term to maturity]](https://www.investopedia.com/terms/t/termtomaturity.asp) of the cash flows from a [[bond]](https://www.investopedia.com/terms/b/bond.asp). The weight of each cash flow is determined by dividing the present value of the cash flow by the price. Macaulay duration is frequently used by [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) who use an immunization strategy.
 
 Macaulay duration can be calculated:
 
@@ -24,11 +24,11 @@ Macaulay Duration\=∑t\=1n(t×C(1+y)t+n×M(1+y)n)Current Bond Pricewhere:t\=
 
 ## Understanding the Macaulay Duration
 
-The metric is named after its creator, Frederick Macaulay. The Macaulay duration can be viewed as the economic balance point of a group of cash flows. Another way to interpret the statistic is that it is the [weighted](https://www.investopedia.com/terms/w/weighted.asp) average number of years an [investor](https://www.investopedia.com/terms/i/investor.asp) must maintain a position in the bond until the present value of the bond's cash flows equals the amount paid for the bond.
+The metric is named after its creator, Frederick Macaulay. The Macaulay duration can be viewed as the economic balance point of a group of cash flows. Another way to interpret the statistic is that it is the [[weighted]](https://www.investopedia.com/terms/w/weighted.asp) average number of years an [[investor]](https://www.investopedia.com/terms/i/investor.asp) must maintain a position in the bond until the present value of the bond's cash flows equals the amount paid for the bond.
 
 ## Factors Affecting Duration
 
-A bond's price, maturity, coupon and [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp) all factor into the calculation of duration. All else equal, as maturity increases, duration increases. As a bond's coupon increases, its duration decreases. As interest rates increase, duration decreases and the bond's sensitivity to further interest rate increases go down. Also, a [sinking fund](https://www.investopedia.com/terms/s/sinkingfund.asp) in place, a scheduled prepayment before maturity and [call provisions](https://www.investopedia.com/terms/c/callprovision.asp) lower a bond's duration.
+A bond's price, maturity, coupon and [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp) all factor into the calculation of duration. All else equal, as maturity increases, duration increases. As a bond's coupon increases, its duration decreases. As interest rates increase, duration decreases and the bond's sensitivity to further interest rate increases go down. Also, a [[sinking fund]](https://www.investopedia.com/terms/s/sinkingfund.asp) in place, a scheduled prepayment before maturity and [[call provisions]](https://www.investopedia.com/terms/c/callprovision.asp) lower a bond's duration.
 
 ## Example Calculation
 

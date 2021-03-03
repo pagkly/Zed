@@ -16,15 +16,15 @@ author: James Chen
 Life-Cycle Fund Definition
 ## What Is a Life-Cycle Fund?
 
-Life-cycle funds are asset-allocation funds in which the share of each [asset class](https://www.investopedia.com/terms/a/assetclasses.asp) is automatically adjusted to lower risk as the desired retirement date approaches. As a practical matter, this usually means that the percentage of bonds and other fixed-income investments increases. Life-cycle funds are also known as "age-based funds" or "[target-date](https://www.investopedia.com/terms/t/target-date_fund.asp) retirement funds."
+Life-cycle funds are asset-allocation funds in which the share of each [[asset class]](https://www.investopedia.com/terms/a/assetclasses.asp) is automatically adjusted to lower risk as the desired retirement date approaches. As a practical matter, this usually means that the percentage of bonds and other fixed-income investments increases. Life-cycle funds are also known as "age-based funds" or "[target-date](https://www.investopedia.com/terms/t/target-date_fund.asp) retirement funds."
 
-A young investor saving for retirement would typically choose a life-cycle fund with a target date that is 30 to 40 years away. However, an investor nearing retirement age might be planning a working retirement with some income from a small business. Such an investor could select a life-cycle fund with a target date that is 15 years in the future. Accepting higher [volatility](https://www.investopedia.com/terms/v/volatility.asp) can help to stretch retirement funds over the 20 or more years of old age most individuals can expect.
+A young investor saving for retirement would typically choose a life-cycle fund with a target date that is 30 to 40 years away. However, an investor nearing retirement age might be planning a working retirement with some income from a small business. Such an investor could select a life-cycle fund with a target date that is 15 years in the future. Accepting higher [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) can help to stretch retirement funds over the 20 or more years of old age most individuals can expect.
 
 Life-cycle funds are based on the idea that young investors can handle more risk, but this is not always true.
 
 ## How a Life-Cycle Fund Works
 
-Life-cycle funds are designed to be used by investors with specific goals that require [capital](https://www.investopedia.com/terms/c/capital.asp) at set times. These funds are generally used for retirement investing. However, investors can use them whenever they need capital at a specific time in the future. Each life-cycle fund defines its time horizon by naming the fund with a target date.
+Life-cycle funds are designed to be used by investors with specific goals that require [[capital]](https://www.investopedia.com/terms/c/capital.asp) at set times. These funds are generally used for retirement investing. However, investors can use them whenever they need capital at a specific time in the future. Each life-cycle fund defines its time horizon by naming the fund with a target date.
 
 An example will help to explain how a life-cycle fund works. Suppose that you invest in a life-cycle fund with a target retirement date of 2050 in 2020. At first, the fund will be aggressive. In 2020, the fund might hold 80% stocks and 20% bonds. Each year, there will be more bonds and fewer stocks in the fund. By 2035, you should be halfway to the retirement date. The fund would be 60% stocks and 40% bonds in 2035. Finally, the fund would reach 40% stocks and 60% bonds by the target retirement date of 2050.
 
@@ -36,7 +36,7 @@ Most life-cycle funds also have the advantage of a preset glide path. A preset p
 
 ## Criticisms of Life-Cycle Funds
 
-Some critics of life-cycle funds say that their age-based approach is flawed. In particular, the age of the bull market may be more important than the age of the investor. Legendary investor [Benjamin Graham](https://www.investopedia.com/terms/b/bengraham.asp) suggested adjusting investments in stocks and bonds based on market valuations rather than your age. Building on Graham's work, Nobel Prize-winning economist Robert Shiller advocated using the P/E 10 ratio as a measure of stock market valuation.
+Some critics of life-cycle funds say that their age-based approach is flawed. In particular, the age of the bull market may be more important than the age of the investor. Legendary investor [[Benjamin Graham]](https://www.investopedia.com/terms/b/bengraham.asp) suggested adjusting investments in stocks and bonds based on market valuations rather than your age. Building on Graham's work, Nobel Prize-winning economist Robert Shiller advocated using the P/E 10 ratio as a measure of stock market valuation.
 
 Life-cycle funds are based on the idea that young investors can handle more risk, but this is not always true. Younger workers usually have less money saved, and they almost always have less experience. As a result, younger workers are exceptionally vulnerable to unemployment during recessions. A young investor who takes on high levels of risk might be forced to sell stocks at the worst possible time.
 

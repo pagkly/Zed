@@ -18,7 +18,7 @@ Maximum Drawdown (MDD) Definition
 
 A maximum drawdown (MDD) is the maximum observed loss from a peak to a trough of a portfolio, before a new peak is attained. Maximum drawdown is an indicator of downside risk over a specified time period.
 
-It can be used both as a stand-alone measure or as an input into other metrics such as "Return over Maximum Drawdown" and the [Calmar Ratio](https://www.investopedia.com/terms/c/calmarratio.asp). Maximum Drawdown is expressed in percentage terms.
+It can be used both as a stand-alone measure or as an input into other metrics such as "Return over Maximum Drawdown" and the [[Calmar Ratio]](https://www.investopedia.com/terms/c/calmarratio.asp). Maximum Drawdown is expressed in percentage terms.
 
 ## The Formula for Maximum Drawdown Is
 
@@ -26,9 +26,9 @@ MDD\=Trough Value−Peak ValuePeak Value\\begin{aligned} MDD=\\frac{\\textit{
 
 ## Understanding Maximum Drawdown
 
-Maximum drawdown is a specific measure of [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) that looks for the greatest movement from a high point to a low point, before a new peak is achieved. However, it's important to note that it only measures the size of the largest loss, without taking into consideration the frequency of large losses. Because it measures only the largest drawdown, MDD does not indicate how long it took an investor to recover from the loss, or if the investment even recovered at all.
+Maximum drawdown is a specific measure of [[drawdown]](https://www.investopedia.com/terms/d/drawdown.asp) that looks for the greatest movement from a high point to a low point, before a new peak is achieved. However, it's important to note that it only measures the size of the largest loss, without taking into consideration the frequency of large losses. Because it measures only the largest drawdown, MDD does not indicate how long it took an investor to recover from the loss, or if the investment even recovered at all.
 
-Maximum drawdown (MDD) is an indicator used to assess the relative riskiness of one [stock screening](https://www.investopedia.com/terms/s/stockscreener.asp) strategy versus another, as it focuses on [capital preservation](https://www.investopedia.com/terms/p/preservationofcapital.asp), which is a key concern for most investors. For example, two screening strategies can have the same average outperformance, tracking error, and volatility, but their maximum drawdowns compared to the benchmark can be very different.
+Maximum drawdown (MDD) is an indicator used to assess the relative riskiness of one [[stock screening]](https://www.investopedia.com/terms/s/stockscreener.asp) strategy versus another, as it focuses on [[capital preservation]](https://www.investopedia.com/terms/p/preservationofcapital.asp), which is a key concern for most investors. For example, two screening strategies can have the same average outperformance, tracking error, and volatility, but their maximum drawdowns compared to the benchmark can be very different.
 
 A low maximum drawdown is preferred as this indicates that losses from investment were small. If an investment never lost a penny, the maximum drawdown would be zero. The worst possible maximum drawdown would be -100%, meaning the investment is completely worthless.
 

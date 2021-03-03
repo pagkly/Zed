@@ -16,7 +16,7 @@ author: Julia Kagan
 Seller Financing
 ## What is Seller Financing?
 
-Seller Financing is a real estate agreement in which the [seller handles the mortgage process](https://www.investopedia.com/articles/mortgages-real-estate/10/should-you-use-seller-financing.asp) instead of a financial institution. Instead of applying for a conventional bank mortgage, the buyer signs a mortgage with the seller.
+Seller Financing is a real estate agreement in which the [[seller handles the mortgage process]](https://www.investopedia.com/articles/mortgages-real-estate/10/should-you-use-seller-financing.asp) instead of a financial institution. Instead of applying for a conventional bank mortgage, the buyer signs a mortgage with the seller.
 
 Owner financing is another name for seller financing. It is also called a purchase-money mortgage.
 
@@ -30,7 +30,7 @@ Buyers attracted to seller financing are often those finding it difficult to get
 -   Often seller financing includes a balloon payment several years after the sale.
 -   There are risks involved when financing a sale of your home. For example, If the buyer stops paying, you, the seller, could incur hefty legal fees, as well. 
 
-For sellers, financing the buyer’s mortgage can make it much easier to sell a house. During a down real estate market, and when credit is tight, buyers may prefer seller financing. Moreover, sellers can expect to get a premium for offering to finance, meaning they are more likely to get their asking price in a [buyer’s market](https://www.investopedia.com/terms/b/buyersmarket.asp).
+For sellers, financing the buyer’s mortgage can make it much easier to sell a house. During a down real estate market, and when credit is tight, buyers may prefer seller financing. Moreover, sellers can expect to get a premium for offering to finance, meaning they are more likely to get their asking price in a [[buyer’s market]](https://www.investopedia.com/terms/b/buyersmarket.asp).
 
 Seller financing rises and falls in popularity along with the overall tightness of the credit market. During times when banks are risk-averse and reluctant to lend money to any but the most creditworthy borrowers, seller financing can make it possible for many more people to buy homes. Seller financing may also make it easier to sell a home. Conversely, when the credit markets are loose, and banks are enthusiastically lending money, seller financing has less appeal. 
 
@@ -42,4 +42,4 @@ The chief drawback for buyers is that they will almost certainly pay higher inte
 
 As with any real estate purchase, they will also pay for a title search to make sure the deed is accurately described and free from encumbrances. Other charges they may have to pay to include survey fees, document stamps, and taxes. Unlike banks, sellers don’t have a staff of employees dedicated to chasing down delinquent payments and filing foreclosure notices.
 
-A court might order the buyer to reimburse those costs, but if the buyer is bankrupt, that will not matter. If the seller still has a mortgage note on the property, it probably has a [due-on-sale clause](https://www.investopedia.com/terms/d/due_on_sale_clause.asp) or an alienation clause. These clauses require full repayment of the current mortgage when the property sells. All this also means that both sides should employ experienced real estate attorneys to draft the paperwork to close the deal and make sure that all eventualities are covered.
+A court might order the buyer to reimburse those costs, but if the buyer is bankrupt, that will not matter. If the seller still has a mortgage note on the property, it probably has a [[due-on-sale clause]](https://www.investopedia.com/terms/d/due_on_sale_clause.asp) or an alienation clause. These clauses require full repayment of the current mortgage when the property sells. All this also means that both sides should employ experienced real estate attorneys to draft the paperwork to close the deal and make sure that all eventualities are covered.

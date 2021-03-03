@@ -16,9 +16,9 @@ author: Adam Barone
 SEC Form ADV Overview
 ## What Is SEC Form ADV?
 
-Form ADV is a required submission to the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC), by a professional [investment advisor](https://www.investopedia.com/terms/i/investmentadvisor.asp), which specifies the investment style, assets under management (AUM), and key officers of an advisory firm. Form ADV must be updated annually and made available as public record for companies managing in excess of $25 million.
+Form ADV is a required submission to the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC), by a professional [[investment advisor]](https://www.investopedia.com/terms/i/investmentadvisor.asp), which specifies the investment style, assets under management (AUM), and key officers of an advisory firm. Form ADV must be updated annually and made available as public record for companies managing in excess of $25 million.
 
-If past disciplinary action has been taken against the advisor, this must be noted in the first section of a Form ADV. The second section deals with the [AUM](https://www.investopedia.com/terms/a/aum.asp), investment strategy, fee arrangements, and service offerings of the firm.
+If past disciplinary action has been taken against the advisor, this must be noted in the first section of a Form ADV. The second section deals with the [[AUM]](https://www.investopedia.com/terms/a/aum.asp), investment strategy, fee arrangements, and service offerings of the firm.
 
 ### Key Takeaways
 
@@ -56,8 +56,8 @@ All investment advisors are required to submit annual updates to their brochure 
 
 ### Accessing Form ADV
 
-To request a copy of Form ADV, contact the SEC branch closest to you. Potential and current clients of an investment advisor should always review the Form ADV on file, as it provides transparent evidence of the [asset mix](https://www.investopedia.com/terms/a/asset-mix.asp) within the firm and the professional backgrounds of key personnel.
+To request a copy of Form ADV, contact the SEC branch closest to you. Potential and current clients of an investment advisor should always review the Form ADV on file, as it provides transparent evidence of the [[asset mix]](https://www.investopedia.com/terms/a/asset-mix.asp) within the firm and the professional backgrounds of key personnel.
 
 ### Download SEC Form ADV
 
-Here is a [link](https://www.sec.gov/files/formadv.pdf) to a downloadable Form ADV.
+Here is a [[link]](https://www.sec.gov/files/formadv.pdf) to a downloadable Form ADV.

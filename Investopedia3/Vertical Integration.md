@@ -59,7 +59,7 @@ Vertical integration can help companies reduce costs and improve efficiencies. H
 
 Below are the benefits of vertical integration:
 
--   Decreased [transportation](https://www.investopedia.com/terms/t/transportationexpenses.asp) costs and reduced delivery turnaround times
+-   Decreased [[transportation]](https://www.investopedia.com/terms/t/transportationexpenses.asp) costs and reduced delivery turnaround times
 -   Reduced supply disruptions from suppliers that might fall into financial hardship
 -   Increased competitiveness by getting products to consumers directly and quickly
 -   Lower costs through economies of scale. By buying large quantities of raw materials or streamlining the manufacturing process, per-unit costs are lowered
@@ -76,7 +76,7 @@ Below are disadvantages to vertical integration:
 
 ## Real-World Examples of Vertical Integration
 
-An example of vertical integration is technology giant Apple [(AAPL)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL), which has retail locations to sell product as well as manufacturing facilities around the globe. For example, in 2012 Apple acquired AuthenTec, which makes the touch ID fingerprint sensor that go into its iPhones.4 5 In 2015, [Apple opened a laboratory in Taiwan](https://www.bloomberg.com/news/articles/2015-12-15/apple-said-to-open-secret-lab-in-taiwan-to-develop-displays) for developing LCD and OLED screen technologies. It also [paid $18.2 million for a 70,000-square-foot manufacturing facility](https://www.bizjournals.com/sanjose/news/2015/12/14/exclusive-apple-buys-former-chip-fab-in-north-san.html) in North San Jose that same year. These investments, among others, allow Apple to move along the supply chain in backward integration, providing flexibility and freedom in its manufacturing.
+An example of vertical integration is technology giant Apple [(AAPL)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=AAPL), which has retail locations to sell product as well as manufacturing facilities around the globe. For example, in 2012 Apple acquired AuthenTec, which makes the touch ID fingerprint sensor that go into its iPhones.4 5 In 2015, [[Apple opened a laboratory in Taiwan]](https://www.bloomberg.com/news/articles/2015-12-15/apple-said-to-open-secret-lab-in-taiwan-to-develop-displays) for developing LCD and OLED screen technologies. It also [[paid $18.2 million for a 70,000-square-foot manufacturing facility]](https://www.bizjournals.com/sanjose/news/2015/12/14/exclusive-apple-buys-former-chip-fab-in-north-san.html) in North San Jose that same year. These investments, among others, allow Apple to move along the supply chain in backward integration, providing flexibility and freedom in its manufacturing.
 
 However, the company still has suppliers that include Analog Devices ([ADI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=ADI)), which provides touchscreen controllers for iPhones. Also, Jabil Circuit supplies phone casings for Apple from its manufacturing facilities in China.6
 

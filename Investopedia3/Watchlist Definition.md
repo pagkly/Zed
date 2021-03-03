@@ -16,7 +16,7 @@ author: Will Kenton
 Watchlist Definition
 ## What is a Watchlist?
 
-A watchlist is a list of [securities](https://www.investopedia.com/terms/s/security.asp) being monitored for potential trading or investing opportunities.
+A watchlist is a list of [[securities]](https://www.investopedia.com/terms/s/security.asp) being monitored for potential trading or investing opportunities.
 
 ### Key Takeaways
 
@@ -29,6 +29,6 @@ An investor or trader may create a watchlist of several, dozens, or even hundre
 
 ## When to Use a Watchlist
 
-An investor, for example, may be interested in purchasing stocks in a particular sector. But if that sector is generally overvalued, it may offer few stocks that are attractively priced. An investor could create a list of all the stocks in that sector that would track various [valuation](https://www.investopedia.com/terms/v/valuation.asp) measures, including ratios like trailing [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp), price-to-sales, and price-to-book, among others. When a company on the list met a specified valuation criterion, such as a PE ratio less than 15, he or she would then know that this stock was a possible candidate for investment. Many investment-oriented websites allow visitors to create watchlists online.
+An investor, for example, may be interested in purchasing stocks in a particular sector. But if that sector is generally overvalued, it may offer few stocks that are attractively priced. An investor could create a list of all the stocks in that sector that would track various [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) measures, including ratios like trailing [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp), price-to-sales, and price-to-book, among others. When a company on the list met a specified valuation criterion, such as a PE ratio less than 15, he or she would then know that this stock was a possible candidate for investment. Many investment-oriented websites allow visitors to create watchlists online.
 
 If you're interested in keeping track of any securities, you can build your own watchlist on most brokerage platforms.

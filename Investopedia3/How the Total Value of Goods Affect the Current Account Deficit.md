@@ -16,7 +16,7 @@ author: Caroline Banton
 How the Total Value of Goods Affect the Current Account Deficit
 ## What Is a Current Account Deficit?
 
-The current account deficit is a measurement of a country’s trade where the value of the goods and services it imports exceeds the value of the products it exports. The current account includes net income, such as interest and dividends, and transfers, such as foreign aid, although these components make up only a small percentage of the total current account. The current account represents a country’s foreign transactions and, like the capital account, is a component of a country’s [balance of payments](https://www.investopedia.com/terms/b/bop.asp) (BOP).
+The current account deficit is a measurement of a country’s trade where the value of the goods and services it imports exceeds the value of the products it exports. The current account includes net income, such as interest and dividends, and transfers, such as foreign aid, although these components make up only a small percentage of the total current account. The current account represents a country’s foreign transactions and, like the capital account, is a component of a country’s [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp) (BOP).
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The current account deficit is a measurement of a country’s trade where the va
 
 ## Understanding a Current Account Deficit
 
-A country can reduce its existing debt by increasing the value of its exports relative to the value of imports. It can place restrictions on imports, such as tariffs or quotas, or it can emphasize policies that promote export, such as import substitution, industrialization, or policies that improve domestic companies' global competitiveness. The country can also use monetary policy to improve the [domestic currency’s valuation](https://www.investopedia.com/ask/answers/forex/how-forex-exchange-rates-set.asp) relative to other currencies through devaluation, which reduces the country’s export costs. 
+A country can reduce its existing debt by increasing the value of its exports relative to the value of imports. It can place restrictions on imports, such as tariffs or quotas, or it can emphasize policies that promote export, such as import substitution, industrialization, or policies that improve domestic companies' global competitiveness. The country can also use monetary policy to improve the [[domestic currency’s valuation]](https://www.investopedia.com/ask/answers/forex/how-forex-exchange-rates-set.asp) relative to other currencies through devaluation, which reduces the country’s export costs. 
 
 While an existing deficit can imply that a country is spending beyond its means, having a current account deficit is not inherently disadvantageous. If a country uses external debt to finance investments that have higher returns than the interest rate on the debt, the country can remain solvent while running a current account deficit. If a country is unlikely to cover current debt levels with future revenue streams, however, it may become insolvent.
 
@@ -36,7 +36,7 @@ A current account deficit represents negative net sales abroad. Developed countr
 
 ## Real World Example of Current Account Deficits
 
-Fluctuations in a country's current account are largely dependent on market forces. Even countries that purposefully run deficits have volatility in the deficit. The United Kingdom, for example, saw a decrease in its existing deficit after the [Brexit](https://www.investopedia.com/terms/b/brexit.asp) vote results in 2016.
+Fluctuations in a country's current account are largely dependent on market forces. Even countries that purposefully run deficits have volatility in the deficit. The United Kingdom, for example, saw a decrease in its existing deficit after the [[Brexit]](https://www.investopedia.com/terms/b/brexit.asp) vote results in 2016.
 
 The United Kingdom has traditionally run a deficit because it is a country that uses high levels of debt to finance excessive imports. A large portion of the country's exports are commodities, and declining commodity prices have resulted in lower earnings for domestic companies. This reduction translates to less income flowing back into the United Kingdom, increasing its current account deficit.
 

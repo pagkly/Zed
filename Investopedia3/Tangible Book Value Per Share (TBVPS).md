@@ -16,11 +16,11 @@ author: Will Kenton
 Tangible Book Value Per Share (TBVPS)
 ## What Is Tangible Book Value Per Share (TBVPS)?
 
-Tangible book value per share (TBVPS) is a method by which a company’s value is determined on a per-share basis by measuring its equity without the inclusion of any [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp). Intangible assets are those that lack physical substance, thus making their valuation a more difficult undertaking than the valuation of tangible assets. TBVPS is calculated as follows:
+Tangible book value per share (TBVPS) is a method by which a company’s value is determined on a per-share basis by measuring its equity without the inclusion of any [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp). Intangible assets are those that lack physical substance, thus making their valuation a more difficult undertaking than the valuation of tangible assets. TBVPS is calculated as follows:
 
 TBVPS\=Total Tangible AssetsTotal Number of Shares Outstandingwhere:TBVPS\=tangible book value per share\\begin{aligned} &\\text{TBVPS} = \\frac { \\text{Total Tangible Assets} }{ \\text{Total Number of Shares Outstanding} } \\\\ &\\textbf{where:} \\\\ &\\text{TBVPS} = \\text{tangible book value per share} \\\\ \\end{aligned}
 
-Tangible book value (TBV) of a company is what common shareholders can expect to receive if a firm goes bankrupt—thereby forcing the liquidation of its assets at the book value price. Intangible assets, such as [goodwill](https://www.investopedia.com/terms/g/goodwill.asp), are not included in tangible book value because they cannot be sold during liquidation. However, companies with high tangible book values tend to offer shareholders more downside protection in the case of bankruptcy.
+Tangible book value (TBV) of a company is what common shareholders can expect to receive if a firm goes bankrupt—thereby forcing the liquidation of its assets at the book value price. Intangible assets, such as [[goodwill]](https://www.investopedia.com/terms/g/goodwill.asp), are not included in tangible book value because they cannot be sold during liquidation. However, companies with high tangible book values tend to offer shareholders more downside protection in the case of bankruptcy.
 
 ### Key Takeaways
 
@@ -39,7 +39,7 @@ Certain online databases and websites allow potential investors to examine the p
 
 ## Requirements for Tangible Book Value Per Share (TBVPS)
 
-An organization's tangible assets can include any physical products the company produces, as well as any materials used to produce them. Should an organization be in the business of producing bicycles, for instance, then any completed bicycles, unused bicycle parts, or [raw materials](https://www.investopedia.com/terms/r/rawmaterials.asp) used during the process of fabricating bicycles would qualify as tangible assets. The value of these assets is determined based on what price they would draw should the company be forced to liquidate, most commonly in the event of a bankruptcy.
+An organization's tangible assets can include any physical products the company produces, as well as any materials used to produce them. Should an organization be in the business of producing bicycles, for instance, then any completed bicycles, unused bicycle parts, or [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp) used during the process of fabricating bicycles would qualify as tangible assets. The value of these assets is determined based on what price they would draw should the company be forced to liquidate, most commonly in the event of a bankruptcy.
 
 Aside from assets related to the production of a product, any equipment used to create the product can be included as well. This can include any tools or machinery required to complete production, as well as any real estate owned and used for the purposes of production. Additional business equipment, such as computers and filing cabinets, may also be considered tangible assets for the purpose of valuation.
 

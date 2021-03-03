@@ -16,19 +16,19 @@ author: Jason Fernando
 Over-Limit Fee
 ## What Is an Over-Limit Fee?
 
-An over-limit fee is a penalty charged by [credit card](https://www.investopedia.com/articles/personal-finance/080916/how-credit-card-companies-make-money.asp) companies when cardholders’ purchases exceed their credit limit. Previously, credit card companies would decline the transaction if the consumer made a purchase over their limit; however, credit card companies moved to a practice of allowing the transaction to go through but charging a fee. This practice has stopped since the passing of the [Credit Card Accountability, Responsibility, and Disclosure (CARD) Act](https://www.investopedia.com/terms/c/credit-card-accountability-responsibility-and-disclosure-act-of-2009.asp) in 2009.1
+An over-limit fee is a penalty charged by [[credit card]](https://www.investopedia.com/articles/personal-finance/080916/how-credit-card-companies-make-money.asp) companies when cardholders’ purchases exceed their credit limit. Previously, credit card companies would decline the transaction if the consumer made a purchase over their limit; however, credit card companies moved to a practice of allowing the transaction to go through but charging a fee. This practice has stopped since the passing of the [[Credit Card Accountability, Responsibility, and Disclosure (CARD) Act]](https://www.investopedia.com/terms/c/credit-card-accountability-responsibility-and-disclosure-act-of-2009.asp) in 2009.1
 
 ## How an Over-Limit Fee Works
 
-Over-limit fees are one of the ways that credit card companies seek to [manage their risks](https://www.investopedia.com/terms/r/riskmanagement.asp). Since credit cards are an [unsecured form of debt](https://www.investopedia.com/terms/u/unsecureddebt.asp), credit card companies do not have recourse to any [collateral](https://www.investopedia.com/terms/c/collateral.asp) if the cardholder [defaults](https://www.investopedia.com/terms/d/default2.asp).
+Over-limit fees are one of the ways that credit card companies seek to [[manage their risks]](https://www.investopedia.com/terms/r/riskmanagement.asp). Since credit cards are an [[unsecured form of debt]](https://www.investopedia.com/terms/u/unsecureddebt.asp), credit card companies do not have recourse to any [[collateral]](https://www.investopedia.com/terms/c/collateral.asp) if the cardholder [[defaults]](https://www.investopedia.com/terms/d/default2.asp).
 
 For this reason, credit card companies seek to discourage customers from engaging in financially risky behaviors such as spending more than their prescribed credit limit. By charging an over-limit fee in response to such transactions, credit card companies can disincentivize this behavior while also generating additional revenues.
 
-In the past, many credit card companies would automatically enroll customers into programs whereby they could exceed their credit limits and trigger an over-limit fee. However, the passage of the CARD Act in 2009 added new [regulations](https://www.investopedia.com/articles/economics/11/government-regulations.asp) to this process. Today, customers are unable to exceed their credit limits unless they manually opt-in to do so.1 
+In the past, many credit card companies would automatically enroll customers into programs whereby they could exceed their credit limits and trigger an over-limit fee. However, the passage of the CARD Act in 2009 added new [[regulations]](https://www.investopedia.com/articles/economics/11/government-regulations.asp) to this process. Today, customers are unable to exceed their credit limits unless they manually opt-in to do so.1 
 
 Paying off your entire credit card balance every month is the most cost-effective strategy that avoids not only over-limit fees but also high interest rate charges.
 
-In other words, credit card customers can choose to subject themselves to potential over-limit fees in exchange for the right to exceed their [credit limits](https://www.investopedia.com/terms/c/credit_limit.asp). At the same time, however, the CARD Act also imposed limits on the size of the over-limit fees themselves. Today, credit card companies are restricted from charging fees greater than the amount by which the customer exceeded their credit limit. For example, if a customer exceeds their credit limit by $50, then $50 would be the maximum over-limit fee permitted by law.
+In other words, credit card customers can choose to subject themselves to potential over-limit fees in exchange for the right to exceed their [[credit limits]](https://www.investopedia.com/terms/c/credit_limit.asp). At the same time, however, the CARD Act also imposed limits on the size of the over-limit fees themselves. Today, credit card companies are restricted from charging fees greater than the amount by which the customer exceeded their credit limit. For example, if a customer exceeds their credit limit by $50, then $50 would be the maximum over-limit fee permitted by law.
 
 ### Key Takeaways
 
@@ -40,13 +40,13 @@ In other words, credit card customers can choose to subject themselves to potent
 
 ## Managing Over-Limit Fees
 
-When a credit card is issued, it comes with a maximum amount that can be utilized. This threshold is different for every individual and depends primarily on the customer's [credit history](https://www.investopedia.com/terms/c/credit-history.asp).
+When a credit card is issued, it comes with a maximum amount that can be utilized. This threshold is different for every individual and depends primarily on the customer's [[credit history]](https://www.investopedia.com/terms/c/credit-history.asp).
 
 For example, person A with a good credit history applies for a credit card and has a maximum spend limit of $10,000. Person B, on the other hand, with poor credit history, applies for the same credit card and has a maximum spend limit of $2,000. These limits are in place to minimize the risk of the credit card company.
 
-It's important to check your credit card statement often to know where your current [balance](https://www.investopedia.com/terms/c/credit-card-balance.asp) is and how close you are to your threshold. Over-limit fees are charged whenever the balance goes above the threshold, regardless if the increased amount was due to a purchase, interest charge, late fee, or any other fee.
+It's important to check your credit card statement often to know where your current [[balance]](https://www.investopedia.com/terms/c/credit-card-balance.asp) is and how close you are to your threshold. Over-limit fees are charged whenever the balance goes above the threshold, regardless if the increased amount was due to a purchase, interest charge, late fee, or any other fee.
 
-It is safer to not opt-in to be able to exceed your credit limit and be charged a fee. This avoids any unwanted costs. If you do not opt-in and exceed your credit limit, then your transaction will be denied. This is a good way to avoid fees and to be made aware that you are at your [credit limit](https://www.investopedia.com/terms/c/credit_limit.asp).
+It is safer to not opt-in to be able to exceed your credit limit and be charged a fee. This avoids any unwanted costs. If you do not opt-in and exceed your credit limit, then your transaction will be denied. This is a good way to avoid fees and to be made aware that you are at your [[credit limit]](https://www.investopedia.com/terms/c/credit_limit.asp).
 
 It's also worth noting that if you do not opt-in and your credit card company allows a transaction to go through, then they cannot charge you an over-limit fee. In this instance, if you notice a fee on your statement, notify your credit card company to remove it.
 
@@ -56,4 +56,4 @@ As noted by the CARD Act, a credit card company cannot charge you more than the 
 
 As of 2020, the first over-limit fee should be no more than $28, and the second fee should be no more than $38 if it occurs within six months of the first.2 That being said, since the passing of the CARD Act, over-limit fees have virtually disappeared. For example, American Express has not charged an over-limit fee since 2009.
 
-Though over-limit fees have virtually disappeared, there are other penalties that a consumer can incur by constantly exceeding their credit limit. These penalties can include increased interest rates, a reduction in the credit limit, earlier payments, higher [minimum payments](https://www.investopedia.com/terms/m/minimum-monthly-payment.asp), and even a cancellation of the card.
+Though over-limit fees have virtually disappeared, there are other penalties that a consumer can incur by constantly exceeding their credit limit. These penalties can include increased interest rates, a reduction in the credit limit, earlier payments, higher [[minimum payments]](https://www.investopedia.com/terms/m/minimum-monthly-payment.asp), and even a cancellation of the card.

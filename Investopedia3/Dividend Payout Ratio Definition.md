@@ -18,7 +18,7 @@ Dividend Payout Ratio Definition
 
 The dividend payout ratio is the ratio of the total amount of dividends paid out to shareholders relative to the net income of the company. It is the percentage of earnings paid to shareholders in dividends. The amount that is not paid to shareholders is retained by the company to pay off debt or to reinvest in core operations. It is sometimes simply referred to as the 'payout ratio.'
 
-The dividend payout ratio provides an indication of how much money a company is returning to [shareholders](https://www.investopedia.com/terms/s/shareholder.asp) versus how much it is keeping on hand to [reinvest](https://www.investopedia.com/terms/r/reinvestment.asp) in growth, pay off debt, or add to cash reserves (retained earnings). 
+The dividend payout ratio provides an indication of how much money a company is returning to [[shareholders]](https://www.investopedia.com/terms/s/shareholder.asp) versus how much it is keeping on hand to [[reinvest]](https://www.investopedia.com/terms/r/reinvestment.asp) in growth, pay off debt, or add to cash reserves (retained earnings). 
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ Alternatively, the dividend payout ratio can also be calculated as:
 
 Dividend Payout Ratio\=1−Retention Ratio\\begin{aligned} &\\text{Dividend Payout Ratio} = 1 - \\text{Retention Ratio} \\\\ \\end{aligned}
 
-On a per-share basis, the [retention ratio](https://www.investopedia.com/terms/r/retentionratio.asp) can be expressed as:
+On a per-share basis, the [[retention ratio]](https://www.investopedia.com/terms/r/retentionratio.asp) can be expressed as:
 
 Retention Ratio\=EPS−DPSEPSwhere:EPS\=Earnings per shareDPS\=Dividends per share\\begin{aligned}&\\text{Retention Ratio} = \\frac{ \\text{EPS}-\\text{DPS} }{ \\text{EPS} } \\\\&\\textbf{where:}\\\\&\\text{EPS}=\\text{Earnings per share} \\\\&\\text{DPS}=\\text{Dividends per share}\\end{aligned}
 
@@ -50,9 +50,9 @@ Finally, calculate the payout ration. Enter "Payout Ratio" into cell A3. Next, e
 
 ## What the Dividend Payout Ratio Tells You
 
-Several considerations go into interpreting the dividend payout ratio, most importantly the company's level of [maturity](https://www.investopedia.com/terms/m/maturity.asp). A new, growth-oriented company that aims to expand, develop new products, and move into new markets would be expected to reinvest most or all of its earnings and could be forgiven for having a [low or even zero payout ratio](https://www.investopedia.com/ask/answers/05/irrvsnpvcapitalbudgeting.asp). The payout ratio is 0% for companies that do not pay dividends and is 100% for companies that pay out their entire net income as dividends.
+Several considerations go into interpreting the dividend payout ratio, most importantly the company's level of [[maturity]](https://www.investopedia.com/terms/m/maturity.asp). A new, growth-oriented company that aims to expand, develop new products, and move into new markets would be expected to reinvest most or all of its earnings and could be forgiven for having a [[low or even zero payout ratio]](https://www.investopedia.com/ask/answers/05/irrvsnpvcapitalbudgeting.asp). The payout ratio is 0% for companies that do not pay dividends and is 100% for companies that pay out their entire net income as dividends.
 
-On the other hand, an older, established company that returns a pittance to shareholders would test investors' patience and could tempt [activists](https://www.investopedia.com/terms/s/shareholderactivist.asp) to intervene. In 2012 and after nearly twenty years since its last paid dividend, Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) began to pay a dividend when the new CEO felt the company's enormous cash flow made a 0% payout ratio difficult to justify.1 2 Since it implies that a company has moved past its initial growth stage, a high payout ratio means share prices are unlikely to appreciate rapidly.
+On the other hand, an older, established company that returns a pittance to shareholders would test investors' patience and could tempt [[activists]](https://www.investopedia.com/terms/s/shareholderactivist.asp) to intervene. In 2012 and after nearly twenty years since its last paid dividend, Apple ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)) began to pay a dividend when the new CEO felt the company's enormous cash flow made a 0% payout ratio difficult to justify.1 2 Since it implies that a company has moved past its initial growth stage, a high payout ratio means share prices are unlikely to appreciate rapidly.
 
 ## Dividend Sustainability
 
@@ -66,9 +66,9 @@ The retention ratio is a converse concept to the dividend payout ratio. The divi
 
 Dividend payouts vary widely by industry, and like most ratios, they are most useful to compare within a given industry. Real estate investment partnerships ([REITs](https://www.investopedia.com/terms/r/reit.asp)), for example, are legally obligated to distribute at least 90% of earnings to shareholders as they enjoy special tax exemptions.3 Master limited partnerships (MLPs) tend to have high payout ratios, as well. 
 
-Dividends are not the only way companies can return value to shareholders; therefore, the payout ratio does not always provide a complete picture. The augmented payout ratio incorporates share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) into the metric; it is calculated by dividing the sum of dividends and buybacks by net income for the same period. If the result is too high, it can indicate an emphasis on short-term boosts to share prices at the expense of [reinvestment](https://www.investopedia.com/ask/answers/which-option-better-mutual-fund-growth-option-dividend-reinvestment-option/) and long-term growth.
+Dividends are not the only way companies can return value to shareholders; therefore, the payout ratio does not always provide a complete picture. The augmented payout ratio incorporates share [buybacks](https://www.investopedia.com/terms/b/buyback.asp) into the metric; it is calculated by dividing the sum of dividends and buybacks by net income for the same period. If the result is too high, it can indicate an emphasis on short-term boosts to share prices at the expense of [[reinvestment]](https://www.investopedia.com/ask/answers/which-option-better-mutual-fund-growth-option-dividend-reinvestment-option/) and long-term growth.
 
-Another adjustment that can be made to provide a more accurate picture is to subtract [preferred stock](https://www.investopedia.com/terms/p/preferredstock.asp) dividends for companies that issue preferred shares.
+Another adjustment that can be made to provide a more accurate picture is to subtract [[preferred stock]](https://www.investopedia.com/terms/p/preferredstock.asp) dividends for companies that issue preferred shares.
 
 ## Dividend Payout Ratio Example
 
@@ -78,7 +78,7 @@ For example, on November 29, 2017, The Walt Disney Company declared a $0.84 semi
 
 ## Dividend Payout Ratio vs. Dividend Yield
 
-When [comparing the two measures of dividends](https://www.investopedia.com/ask/answers/111314/what-difference-between-dividend-yield-and-dividend-payout-ratio.asp), it's important to know that the [dividend yield](https://www.investopedia.com/video/play/understanding-dividend-yields/) tells you what the simple rate of return is in the form of [cash dividends](https://www.investopedia.com/terms/c/cashdividend.asp) to shareholders, but the dividend payout ratio represents how much of a company's net earnings are paid out as dividends. While the dividend yield is the more commonly known and scrutinized term, many believe the dividend payout ratio is a better indicator of a company's ability to distribute dividends consistently in the future. The dividend payout ratio is highly connected to a company's [cash flow](https://www.investopedia.com/terms/c/cashflow.asp).
+When [[comparing the two measures of dividends]](https://www.investopedia.com/ask/answers/111314/what-difference-between-dividend-yield-and-dividend-payout-ratio.asp), it's important to know that the [dividend yield](https://www.investopedia.com/video/play/understanding-dividend-yields/) tells you what the simple rate of return is in the form of [cash dividends](https://www.investopedia.com/terms/c/cashdividend.asp) to shareholders, but the dividend payout ratio represents how much of a company's net earnings are paid out as dividends. While the dividend yield is the more commonly known and scrutinized term, many believe the dividend payout ratio is a better indicator of a company's ability to distribute dividends consistently in the future. The dividend payout ratio is highly connected to a company's [cash flow](https://www.investopedia.com/terms/c/cashflow.asp).
 
 The dividend yield shows how much a company has paid out in dividends over the course of a year in relation to the stock price. The yield is presented as a percentage, not as an actual dollar amount. This makes it easier to see how much return per dollar invested the shareholder receives through dividends.
 

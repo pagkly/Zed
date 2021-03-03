@@ -16,7 +16,7 @@ author: Julia Kagan
 Joint-Life Payout
 ## What Is a Joint-Life Payout?
 
-The term joint-life payout refers to a payment structure for pensions and retirement plans in which a surviving spouse will continue to receive income after the account holder dies. That contrasts with a [single-life payout](https://www.investopedia.com/terms/s/single-life-payout.asp), where payments end with the death of the account holder. These two payout options are also known as [joint-and-survivor](https://www.investopedia.com/terms/j/jointandsurvivorannuity.asp) and single-life annuities.
+The term joint-life payout refers to a payment structure for pensions and retirement plans in which a surviving spouse will continue to receive income after the account holder dies. That contrasts with a [[single-life payout]](https://www.investopedia.com/terms/s/single-life-payout.asp), where payments end with the death of the account holder. These two payout options are also known as [[joint-and-survivor]](https://www.investopedia.com/terms/j/jointandsurvivorannuity.asp) and single-life annuities.
 
 ### Key Takeaways
 
@@ -42,6 +42,6 @@ Joint-life payouts on retirement plans shouldn't be confused with joint life ins
 
 These policies can be structured in several ways. A first-to-die policy pays off when either person dies. That might be useful in the case of a young family, where one person works outside the home and the other is a stay-at-home parent. If one or the other of them dies, the family could face a financial hardship, either because it no longer has money coming in from the working spouse or because the survivor must now pay someone to do the work previously done by the stay-at-home partner. However, two separate, individual policies could serve the same purpose as a joint policy.
 
-The other type of joint life insurance is [second-to-die](https://www.investopedia.com/terms/s/secondtodieinsurance.asp), which pays a death benefit to the policy's beneficiaries once both policyholders are dead.
+The other type of joint life insurance is [[second-to-die]](https://www.investopedia.com/terms/s/secondtodieinsurance.asp), which pays a death benefit to the policy's beneficiaries once both policyholders are dead.
 
 While joint life policies may be less expensive than two individual policies, they also have additional risks, including what happens if the couple decides to divorce.

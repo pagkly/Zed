@@ -16,7 +16,7 @@ author: James Chen
 Land Value
 ## What Is Land Value?
 
-Land value is the value of a piece of property including both the value of the land itself as well as any improvements that have been made to it. This is not to be confused with site value, which is the reasonable value of the land assuming that there are no leases, mortgages or anything else present that would otherwise change the site's value. Land values increase when demand for land exceeds the supply of available land or if a particular piece of land has [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) greater than neighboring areas (e.g., oil can be found on the land).
+Land value is the value of a piece of property including both the value of the land itself as well as any improvements that have been made to it. This is not to be confused with site value, which is the reasonable value of the land assuming that there are no leases, mortgages or anything else present that would otherwise change the site's value. Land values increase when demand for land exceeds the supply of available land or if a particular piece of land has [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) greater than neighboring areas (e.g., oil can be found on the land).
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ Property owners use land value to determine how much to charge other parties fo
 
 Land value may be determined by real estate appraisals conducted by third parties. An appraiser’s assessment can be crucial to a lender’s decisions on offering to finance a prospective buyer or refinancing for a property holder.
 
-Appraisal of the land can include a comparison of its condition to similar real estate. This is not the same as [comparative market analysis](https://www.investopedia.com/terms/c/comparative-market-analysis.asp), wherein the prices of recently sold similar properties are compared.
+Appraisal of the land can include a comparison of its condition to similar real estate. This is not the same as [[comparative market analysis]](https://www.investopedia.com/terms/c/comparative-market-analysis.asp), wherein the prices of recently sold similar properties are compared.
 
 It is always a good idea to use an appraiser, as they will also look into any flaws or defects with the property that may affect its value.
 
@@ -43,4 +43,4 @@ Land that is in a region that faces environmental risks could lose some of its v
 
 The potential for recurring destruction would make it a challenge to maintain a safe and consistent presence on the property. Any improvements made to the property could be lost in an ensuing environmental calamity. The risk to residents and employees who may be present at such a site could outweigh any gains from using the land.
 
-Even if the land is located in a prime place and has access to desirable resources, there could be mitigating circumstances that prevent the land from being developed or used to its fullest potential. [Restrictive covenants](https://www.investopedia.com/terms/r/restrictive-covenant.asp) might bar property owners from tapping into resources such as oil that is discovered there.
+Even if the land is located in a prime place and has access to desirable resources, there could be mitigating circumstances that prevent the land from being developed or used to its fullest potential. [[Restrictive covenants]](https://www.investopedia.com/terms/r/restrictive-covenant.asp) might bar property owners from tapping into resources such as oil that is discovered there.

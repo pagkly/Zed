@@ -16,7 +16,7 @@ author: Caroline Banton
 Market Dynamics
 ## What Are Market Dynamics?
 
-Market dynamics are forces that will impact prices and the behaviors of producers and consumers. In a market, these forces create pricing signals which result from the fluctuation of [supply and demand](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for a given product or service. Market dynamics can impact any industry or government policy.
+Market dynamics are forces that will impact prices and the behaviors of producers and consumers. In a market, these forces create pricing signals which result from the fluctuation of [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp) for a given product or service. Market dynamics can impact any industry or government policy.
 
 There are dynamic market forces other than price, demand, and supply. Human emotions also drive decisions, influence the market, and create price signals.
 
@@ -38,7 +38,7 @@ There are two primary economic approaches when it comes to changing the supply o
 
 Supply-side economics, also known as "[Reaganomics](https://www.investopedia.com/terms/r/reaganomics.asp)," or "trickle-down economics" is a policy made famous by the 40th U.S. President, Ronald Reagan, based on the theory that more significant tax cuts for investors, corporations, and entrepreneurs provide incentives for investors to supply more goods to an economy, which results in other added benefits that trickle down to the rest of the economy.
 
-The [supply-side theory](https://www.investopedia.com/terms/s/supply-sidetheory.asp) has three pillars which are tax policy, regulatory policy, and [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp). However, the overall concept is that production, or the supply of goods and services, is most important in determining economic growth. The supply-side theory contrasts with [Keynesian theory](https://www.investopedia.com/terms/k/keynesianeconomics.asp), which considers that demand for products and services can drop and, in that case, the government should intervene with fiscal and monetary stimuli.
+The [supply-side theory](https://www.investopedia.com/terms/s/supply-sidetheory.asp) has three pillars which are tax policy, regulatory policy, and [monetary policy](https://www.investopedia.com/terms/m/monetarypolicy.asp). However, the overall concept is that production, or the supply of goods and services, is most important in determining economic growth. The supply-side theory contrasts with [[Keynesian theory]](https://www.investopedia.com/terms/k/keynesianeconomics.asp), which considers that demand for products and services can drop and, in that case, the government should intervene with fiscal and monetary stimuli.
 
 ## Dynamics of Demand-Side Economics
 
@@ -54,9 +54,9 @@ Demand-side economists argue that increased government spending will help to gro
 
 Economic models and theories attempt to account for market dynamics in a way that captures as many relevant variables as possible. However, not all variables are easily quantifiable.
 
-Models of markets for physical goods or services with relatively straightforward dynamics are, for the most part, efficient, and participants in these markets are assumed to make [rational decisions](https://www.investopedia.com/terms/r/rational-behavior.asp). However, in financial markets, the human element of emotion creates a chaotic and difficult-to-quantify effect that always results in increased [volatility](https://www.investopedia.com/terms/v/volatility.asp).
+Models of markets for physical goods or services with relatively straightforward dynamics are, for the most part, efficient, and participants in these markets are assumed to make [[rational decisions]](https://www.investopedia.com/terms/r/rational-behavior.asp). However, in financial markets, the human element of emotion creates a chaotic and difficult-to-quantify effect that always results in increased [[volatility]](https://www.investopedia.com/terms/v/volatility.asp).
 
-In financial markets, some, but not all, financial services professionals are knowledgeable about how markets work. These professionals make rational decisions that are in the [best interests of their clients](https://www.investopedia.com/terms/f/fiduciary.asp) based on all of the available information.
+In financial markets, some, but not all, financial services professionals are knowledgeable about how markets work. These professionals make rational decisions that are in the [[best interests of their clients]](https://www.investopedia.com/terms/f/fiduciary.asp) based on all of the available information.
 
 Savvy professionals base their decisions on comprehensive analysis, extensive experience, and proven techniques. They also work to fully understand their client's needs, goals, time horizons, and ability to withstand investment risks.
 
@@ -66,19 +66,19 @@ This segment of nonprofessionals includes small-to-intermediate traders who seek
 
 ### Greed and Fear in the Markets
 
-Competent and professional traders determine entry and exit points of any investment or trade using proven [quantitative models or techniques](https://www.investopedia.com/terms/q/quantitativeanalysis.asp). They define the appropriate plan of action and follow it exactly. Through the practice of strict money management, the execution of trades happens without deviating from the well thought out, predetermined plan. Emotion seldom influences the decision-making process of these traders.
+Competent and professional traders determine entry and exit points of any investment or trade using proven [[quantitative models or techniques]](https://www.investopedia.com/terms/q/quantitativeanalysis.asp). They define the appropriate plan of action and follow it exactly. Through the practice of strict money management, the execution of trades happens without deviating from the well thought out, predetermined plan. Emotion seldom influences the decision-making process of these traders.
 
 The government has the most impact when it comes to creating demand on a national level due to its ability to affect various factors, such as taxes and interest rates.
 
 Conversely, for the novice investor or trader, emotion frequently plays a role in their decision-making process. After the execution of a trade, if it becomes profitable, greed may influence their next move.
 
-These traders will ignore indicators and, at times, not take profits turning a winning trade into a losing one. Fear is another emotion that can drive the decisions of these investors. They may fail to exit a trade at a predetermined [stop loss](https://www.investopedia.com/terms/s/stop-lossorder.asp). These are examples of irrational emotional behavior that is difficult to capture in economic models, thus difficult to know how market dynamics will impact supply and demand.
+These traders will ignore indicators and, at times, not take profits turning a winning trade into a losing one. Fear is another emotion that can drive the decisions of these investors. They may fail to exit a trade at a predetermined [[stop loss]](https://www.investopedia.com/terms/s/stop-lossorder.asp). These are examples of irrational emotional behavior that is difficult to capture in economic models, thus difficult to know how market dynamics will impact supply and demand.
 
 ## Real-World Example
 
-Consumer demand can at times be a powerful market dynamic. As explained in a [study](https://www.npd.com/wps/portal/npd/us/news/press-releases/2019/luxury-fashion-spending-is-on-the-rise-online-reports-npd/) by The NPD Group, consumer spending is on the increase, particularly for [luxury](https://www.investopedia.com/terms/l/luxury-item.asp) fashion items, such as footwear, accessories, and apparel.
+Consumer demand can at times be a powerful market dynamic. As explained in a [[study]](https://www.npd.com/wps/portal/npd/us/news/press-releases/2019/luxury-fashion-spending-is-on-the-rise-online-reports-npd/) by The NPD Group, consumer spending is on the increase, particularly for [[luxury]](https://www.investopedia.com/terms/l/luxury-item.asp) fashion items, such as footwear, accessories, and apparel.
 
-According to the January 2019 NPD study, sales of luxury fashion items have increased as new brands have emerged and online retail platforms have created a more competitive landscape while gaining [market share](https://www.investopedia.com/terms/m/marketshare.asp) due to buyer demographics and preferences.
+According to the January 2019 NPD study, sales of luxury fashion items have increased as new brands have emerged and online retail platforms have created a more competitive landscape while gaining [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) due to buyer demographics and preferences.
 
 As demand for luxury apparel increases, manufacturers and brands will be able to raise prices, which will stimulate the industry and boost the overall economy.
 

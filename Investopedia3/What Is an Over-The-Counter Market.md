@@ -16,7 +16,7 @@ author: Michael Kramer
 What Is an Over-The-Counter Market?
 ## What Is an Over-the-Counter Market?
 
-An over-the-counter (OTC) market is a decentralized market in which market participants trade stocks, commodities, currencies, or other instruments directly between two parties and without a central exchange or broker. Over-the-counter markets do not have physical locations; instead, trading is conducted electronically. This is very different from an [auction market system](https://www.investopedia.com/terms/a/auctionmarket.asp).
+An over-the-counter (OTC) market is a decentralized market in which market participants trade stocks, commodities, currencies, or other instruments directly between two parties and without a central exchange or broker. Over-the-counter markets do not have physical locations; instead, trading is conducted electronically. This is very different from an [[auction market system]](https://www.investopedia.com/terms/a/auctionmarket.asp).
 
 In an OTC market, dealers act as market-makers by quoting prices at which they will buy and sell a security, currency, or other financial products. A trade can be executed between two participants in an OTC market without others being aware of the price at which the transaction was completed.1 In general, OTC markets are typically less transparent than exchanges and are also subject to fewer regulations. Because of this, liquidity in the OTC market may come at a premium.
 
@@ -28,7 +28,7 @@ In an OTC market, dealers act as market-makers by quoting prices at which they w
 
 ## Understanding Over-the-Counter Markets
 
-[OTC](https://www.investopedia.com/ask/answers/08/otc-nyse-nasdaq.asp) markets are primarily used to trade bonds, currencies, derivatives, and structured products. They can also be used to trade equities, with examples such as the OTCQX, OTCQB, and OTC Pink marketplaces (previously the OTC Bulletin Board and [Pink Sheets](https://www.investopedia.com/terms/p/pinksheets.asp)) in the U.S. Broker-dealers that operate in the U.S. OTC markets are regulated by the Financial Industry Regulatory Authority ([FINRA](https://www.investopedia.com/terms/f/finra.asp)).2
+[OTC](https://www.investopedia.com/ask/answers/08/otc-nyse-nasdaq.asp) markets are primarily used to trade bonds, currencies, derivatives, and structured products. They can also be used to trade equities, with examples such as the OTCQX, OTCQB, and OTC Pink marketplaces (previously the OTC Bulletin Board and [[Pink Sheets]](https://www.investopedia.com/terms/p/pinksheets.asp)) in the U.S. Broker-dealers that operate in the U.S. OTC markets are regulated by the Financial Industry Regulatory Authority ([FINRA](https://www.investopedia.com/terms/f/finra.asp)).2
 
 ## Limited Liquidity
 
@@ -38,7 +38,7 @@ Sometimes the securities being traded over-the-counter lack buyers and sellers. 
 
 While OTC markets function well during normal times, there is an additional risk, called a [counter-party risk](https://www.investopedia.com/terms/c/counterpartyrisk.asp), that one party in the transaction will default prior to the completion of the trade or will not make the current and future payments required of them by the contract. Lack of transparency can also cause a vicious cycle to develop during times of financial stress, as was the case during the 2007–08 global credit crisis.4
 
-Mortgage-backed securities and other derivatives such as [CDOs](https://www.investopedia.com/terms/c/cdo.asp) and [CMOs](https://www.investopedia.com/terms/c/cmo.asp), which were traded solely in the OTC markets, could not be priced reliably as liquidity totally dried up in the absence of buyers. This resulted in an increasing number of dealers withdrawing from their market-making functions, exacerbating the liquidity problem and causing a worldwide credit crunch. Among the regulatory initiatives undertaken in the aftermath of the crisis to resolve this issue was the use of clearinghouses for post-trade processing of OTC trades.5
+Mortgage-backed securities and other derivatives such as [[CDOs]](https://www.investopedia.com/terms/c/cdo.asp) and [[CMOs]](https://www.investopedia.com/terms/c/cmo.asp), which were traded solely in the OTC markets, could not be priced reliably as liquidity totally dried up in the absence of buyers. This resulted in an increasing number of dealers withdrawing from their market-making functions, exacerbating the liquidity problem and causing a worldwide credit crunch. Among the regulatory initiatives undertaken in the aftermath of the crisis to resolve this issue was the use of clearinghouses for post-trade processing of OTC trades.5
 
 ## A Real-World Example
 

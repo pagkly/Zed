@@ -18,7 +18,7 @@ Cum Laude
 
 Cum laude is Latin for "with praise" or "with honor" and represents an academic level of achievement. Educational institutions use the phrase to signify an academic degree that was awarded with honor.
 
-Cum laude is one of three commonly used types of Latin honors recognized in the United States, the other two being [summa cum laude](https://www.investopedia.com/terms/s/summa-cum-laude.asp) and [magna cum laude](https://www.investopedia.com/terms/m/magna-cum-laude.asp). The terms come from Latin, so they often are called Latin honors. They are common in the United States, but very few countries around the world use them.
+Cum laude is one of three commonly used types of Latin honors recognized in the United States, the other two being [[summa cum laude]](https://www.investopedia.com/terms/s/summa-cum-laude.asp) and [[magna cum laude]](https://www.investopedia.com/terms/m/magna-cum-laude.asp). The terms come from Latin, so they often are called Latin honors. They are common in the United States, but very few countries around the world use them.
 
 ### Key Takeaways
 

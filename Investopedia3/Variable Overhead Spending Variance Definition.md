@@ -31,9 +31,9 @@ Variable overhead spending variance is the difference between actual variable ov
 
 Variable Overhead Spending Variance is essentially the difference between what the variable production overheads **actually** cost and what they **should** have cost given the level of activity during a period.
 
-The standard variable overhead rate is typically expressed in terms of the number [of machine hours](https://www.investopedia.com/terms/o/overhead-rate.asp) or labor hours depending on whether the production process is predominantly carried out manually or by automation. A company may even use both machine and labor hours as a basis for the standard (budgeted) rate if the use both manual and automated processes in their operations.
+The standard variable overhead rate is typically expressed in terms of the number [[of machine hours]](https://www.investopedia.com/terms/o/overhead-rate.asp) or labor hours depending on whether the production process is predominantly carried out manually or by automation. A company may even use both machine and labor hours as a basis for the standard (budgeted) rate if the use both manual and automated processes in their operations.
 
-Variable overhead spending variance is favorable if the actual costs of [indirect materials](https://www.investopedia.com/terms/r/rawmaterials.asp) — for example, paint and consumables such as oil and grease—are lower than the standard or budgeted variable overheads. It is unfavorable if the actual costs are higher than the budgeted costs.
+Variable overhead spending variance is favorable if the actual costs of [[indirect materials]](https://www.investopedia.com/terms/r/rawmaterials.asp) — for example, paint and consumables such as oil and grease—are lower than the standard or budgeted variable overheads. It is unfavorable if the actual costs are higher than the budgeted costs.
 
 Variable production overheads include costs that cannot be directly attributed to a specific unit of output. Costs such as direct material and direct labor, on the other hand, vary directly with each unit of output.
 
@@ -49,7 +49,7 @@ Variable Overhead Spending Variance = $154
 
 In this case, the variance is favorable because the actual costs are lower than the standard costs.
 
-A favorable variance may occur due to [economies of scale,](https://www.investopedia.com/insights/what-are-economies-of-scale/) bulk discounts for materials, cheaper supplies, efficient cost controls, or errors in budgetary planning.
+A favorable variance may occur due to [[economies of scale,]](https://www.investopedia.com/insights/what-are-economies-of-scale/) bulk discounts for materials, cheaper supplies, efficient cost controls, or errors in budgetary planning.
 
 An unfavorable variance may occur if the cost of indirect labor increases, cost controls are ineffective, or there are errors in budgetary planning.
 

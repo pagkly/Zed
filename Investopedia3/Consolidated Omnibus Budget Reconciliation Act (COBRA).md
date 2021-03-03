@@ -16,13 +16,13 @@ author: Will Kenton
 Consolidated Omnibus Budget Reconciliation Act (COBRA)
 ## What is the Consolidated Omnibus Budget Reconciliation Act (COBRA)?
 
-The Consolidated Omnibus Budget Reconciliation Act (COBRA) is a landmark federal law, passed in 1985, that provides for continuing group health insurance coverage for some employees and their families after a job loss or other [qualifying event.](https://www.investopedia.com/terms/q/qualifying-event.asp)
+The Consolidated Omnibus Budget Reconciliation Act (COBRA) is a landmark federal law, passed in 1985, that provides for continuing group health insurance coverage for some employees and their families after a job loss or other [[qualifying event.]](https://www.investopedia.com/terms/q/qualifying-event.asp)
 
 Private-sector employers with more than 20 employees must generally make COBRA coverage available.
 
 ## Understanding the Consolidated Omnibus Budget Reconciliation Act (COBRA)
 
-The [COBRA Act](https://www.investopedia.com/articles/insurance/11/intro-cobra-health-insurance.asp) (as it is sometimes referred to as, despite the redundancy) offers continuation health coverage that is meant to provide an element of financial security for workers who would otherwise lose their insurance. In addition to the employees themselves, it can also include their spouses, former spouses, and dependent children.1
+The [[COBRA Act]](https://www.investopedia.com/articles/insurance/11/intro-cobra-health-insurance.asp) (as it is sometimes referred to as, despite the redundancy) offers continuation health coverage that is meant to provide an element of financial security for workers who would otherwise lose their insurance. In addition to the employees themselves, it can also include their spouses, former spouses, and dependent children.1
 
 COBRA only applies to health plans offered by private-sector employers with more than 20 employees, as well as to state and local governments.1 It doesn't apply to the federal government, churches, or some church-related organizations.2
 
@@ -36,9 +36,9 @@ The events that may qualify an employee or their family for COBRA coverage inclu
 
 ## Advantages and Disadvantages of COBRA
 
-COBRA isn't free. Participants may be required to pay the full [premium](https://www.investopedia.com/terms/p/premium.asp) for their coverage—that is, both their share and the share that their employer might have previously paid—plus an administrative fee, for a total of up to 102% of the plan cost.4
+COBRA isn't free. Participants may be required to pay the full [[premium]](https://www.investopedia.com/terms/p/premium.asp) for their coverage—that is, both their share and the share that their employer might have previously paid—plus an administrative fee, for a total of up to 102% of the plan cost.4
 
-While COBRA participants will generally pay more for their insurance than active employees who are still covered under the employer's usual plan, COBRA may still be less expensive than buying an individual (non-group) health plan, especially if the participant doesn't qualify for an [Affordable Care Act](https://www.investopedia.com/terms/a/affordable-care-act.asp) subsidy.3 The coverage itself shouldn't change. The U.S. Employee Benefits Security Administration notes that "If you elect continuation coverage, the coverage you are given must be identical to the coverage currently available under the plan to similarly situated active employees and their families (generally, this is the same coverage that you had immediately before the qualifying event)."5
+While COBRA participants will generally pay more for their insurance than active employees who are still covered under the employer's usual plan, COBRA may still be less expensive than buying an individual (non-group) health plan, especially if the participant doesn't qualify for an [[Affordable Care Act]](https://www.investopedia.com/terms/a/affordable-care-act.asp) subsidy.3 The coverage itself shouldn't change. The U.S. Employee Benefits Security Administration notes that "If you elect continuation coverage, the coverage you are given must be identical to the coverage currently available under the plan to similarly situated active employees and their families (generally, this is the same coverage that you had immediately before the qualifying event)."5
 
 Group health plans are required to make employees aware of their eligibility for COBRA coverage after a layoff or other qualifying event. COBRA coverage is typically available to full-time, and some part-time, employees if their companies' group health plan was in effect in the prior year.1
 

@@ -16,7 +16,7 @@ author: Will Kenton
 Shrinkage
 ## What Is Shrinkage?
 
-Shrinkage is the loss of [inventory](https://www.investopedia.com/terms/i/inventory.asp) that can be attributed to factors such as employee theft, shoplifting, administrative error, vendor fraud, damage, and cashier error. Shrinkage is the difference between recorded inventory on a company's balance sheet and its actual inventory. This concept is a key problem for retailers, as it results in the loss of inventory, which ultimately means loss of profits. 
+Shrinkage is the loss of [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) that can be attributed to factors such as employee theft, shoplifting, administrative error, vendor fraud, damage, and cashier error. Shrinkage is the difference between recorded inventory on a company's balance sheet and its actual inventory. This concept is a key problem for retailers, as it results in the loss of inventory, which ultimately means loss of profits. 
 
 ### Key Takeaways
 
@@ -32,8 +32,8 @@ However, inventory is often lost due to any number of reasons, causing a discrep
 
 ## The Impact of Shrinkage
 
-The largest impact of shrinkage is a loss of [profits](https://www.investopedia.com/terms/p/profit.asp). This is especially negative in retail environments, where businesses operate on low [margins](https://www.investopedia.com/terms/p/profitmargin.asp) and high volumes, meaning that retailers have to sell a large amount of product to make a profit. If a retailer loses inventory through shrinkage, it cannot recoup the cost of the inventory itself as there is no inventory to sell nor inventory to return, which trickles down to decrease the bottom line.
+The largest impact of shrinkage is a loss of [[profits]](https://www.investopedia.com/terms/p/profit.asp). This is especially negative in retail environments, where businesses operate on low [[margins]](https://www.investopedia.com/terms/p/profitmargin.asp) and high volumes, meaning that retailers have to sell a large amount of product to make a profit. If a retailer loses inventory through shrinkage, it cannot recoup the cost of the inventory itself as there is no inventory to sell nor inventory to return, which trickles down to decrease the bottom line.
 
-Shrinkage is a part of every retail company's reality, and some businesses try to cover the potential decrease in profits by increasing the price of available products to account for the losses in inventory. These increased prices are passed on to the consumer, who is required to bear the burden for theft and inefficiencies that might cause a loss of product. If a consumer is [price-sensitive](https://www.investopedia.com/terms/p/price-sensitivity.asp), shrinkage works to decrease a company's consumer base, causing them to look elsewhere for similar goods.
+Shrinkage is a part of every retail company's reality, and some businesses try to cover the potential decrease in profits by increasing the price of available products to account for the losses in inventory. These increased prices are passed on to the consumer, who is required to bear the burden for theft and inefficiencies that might cause a loss of product. If a consumer is [[price-sensitive]](https://www.investopedia.com/terms/p/price-sensitivity.asp), shrinkage works to decrease a company's consumer base, causing them to look elsewhere for similar goods.
 
 In addition, shrinkage can increase a company's costs in other areas. For example, retailers would have to invest heavily in additional security, whether that investment is in security guards, technology, or other essentials, to prevent shrinkage that was caused by theft. These costs work to further reduce profits, or to increase prices if the expenses are to be passed on to the customer.

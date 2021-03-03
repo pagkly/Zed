@@ -16,7 +16,7 @@ author: James Chen
 Commercial Real Estate Definition
 ## What Is Commercial Real Estate (CRE)?
 
-Commercial real estate (CRE) is property that is used exclusively for business-related purposes or to provide a workspace rather than as a living space, which would instead constitute residential real estate. Most often, commercial real estate is [leased](https://www.investopedia.com/terms/l/lease.asp) to tenants to conduct income-generating activities. This broad category of real estate can include everything from from a single storefront to a huge shopping center.
+Commercial real estate (CRE) is property that is used exclusively for business-related purposes or to provide a workspace rather than as a living space, which would instead constitute residential real estate. Most often, commercial real estate is [[leased]](https://www.investopedia.com/terms/l/lease.asp) to tenants to conduct income-generating activities. This broad category of real estate can include everything from from a single storefront to a huge shopping center.
 
 Commercial real estate includes several categories, such as retailers of all kinds, office space, hotels & resorts, strip malls, restaurants, and healthcare facilities.
 
@@ -36,7 +36,7 @@ Commercial real estate is typically categorized into four classes, depending on 
 
 1.  office space;
 2.  industrial use;
-3.  [multi-family](https://www.investopedia.com/articles/personal-finance/041216/3-reasons-invest-multifamily-real-estate.asp) rental; and
+3.  [[multi-family]](https://www.investopedia.com/articles/personal-finance/041216/3-reasons-invest-multifamily-real-estate.asp) rental; and
 4.  retail.
 
 Individual categories may also be further classified. Office space, for example, is often characterized as class A, class B or class C.
@@ -45,7 +45,7 @@ Individual categories may also be further classified. Office space, for example,
 -   _Class B_ buildings are usually older and not as competitive—price-wise—as Class A buildings. Investors often target these buildings for restoration.
 -   _Class C_ buildings are the oldest, usually over 20 years of age, located in less attractive areas, and need for maintenance.
 
-Note that some [zoning](https://www.investopedia.com/terms/z/zoning.asp) and licensing authorities further break out industrial properties—sites used for the manufacture and production of goods, especially heavy goods—but most consider it a subset of commercial real estate.
+Note that some [[zoning]](https://www.investopedia.com/terms/z/zoning.asp) and licensing authorities further break out industrial properties—sites used for the manufacture and production of goods, especially heavy goods—but most consider it a subset of commercial real estate.
 
 ## Commercial Leases
 
@@ -55,12 +55,12 @@ Commercial leases will typically run from one year to 10 years or more, with of
 
 In a [2017 study](https://www.cbre-ea.com/public-home/deconstructing-cre/2017/02/27/how-does-the-economic-cycle-influence-the-length-of-office-leases) conducted by real estate market analyst firm CBRE Group, Inc., analyst Alex Krasikov found that the term—length—of a lease was proportional to the size of the space being leased. Further, the data showed that tenants would enter long leases to lock in prices in a rising market environment. But that is not their only driving factor. Some tenants with requirements for large spaces will enter long leases due to the limited availability of property that matches their needs.
 
-There are four primary types of [commercial property leases](https://www.investopedia.com/ask/answers/040115/what-are-differences-between-single-double-and-triplenet-leases.asp), each requiring different levels of responsibility from the landlord and the tenant.
+There are four primary types of [[commercial property leases]](https://www.investopedia.com/ask/answers/040115/what-are-differences-between-single-double-and-triplenet-leases.asp), each requiring different levels of responsibility from the landlord and the tenant.
 
--   A [single-net lease](https://www.investopedia.com/terms/s/single-net-lease.asp) makes the tenant responsible for paying property taxes.
--   A [double-net (NN) lease](https://www.investopedia.com/terms/d/double-net-lease.asp) makes the tenant responsible for paying property taxes and insurance.
--   A [triple-net (NNN) lease](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp) makes the tenant responsible for paying property taxes, insurance, and maintenance.
--   Under a [gross lease](https://www.investopedia.com/terms/g/gross-lease.asp), the tenant pays only rent, and the landlord pays for the building's property taxes, insurance, and maintenance.
+-   A [[single-net lease]](https://www.investopedia.com/terms/s/single-net-lease.asp) makes the tenant responsible for paying property taxes.
+-   A [[double-net (NN) lease]](https://www.investopedia.com/terms/d/double-net-lease.asp) makes the tenant responsible for paying property taxes and insurance.
+-   A [[triple-net (NNN) lease]](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp) makes the tenant responsible for paying property taxes, insurance, and maintenance.
+-   Under a [[gross lease]](https://www.investopedia.com/terms/g/gross-lease.asp), the tenant pays only rent, and the landlord pays for the building's property taxes, insurance, and maintenance.
 
 ## Managing Commercial Real Estate
 
@@ -74,7 +74,7 @@ Investing in commercial real estate can be lucrative and serve as a hedge agains
 
 ### Direct Investment
 
-Investors can use [direct investments](https://www.investopedia.com/articles/basics/09/real-estate-versus-stock-investments.asp) where they become landlords through the ownership of the physical property. People best suited for direct investment in commercial real estate are those who either have a considerable amount of knowledge about the industry or who can employ firms who do. Commercial properties are a high-risk, high-reward real estate investment. Such an investor is likely to be a high-net-worth individual since CRE investing requires a considerable amount of capital.
+Investors can use [[direct investments]](https://www.investopedia.com/articles/basics/09/real-estate-versus-stock-investments.asp) where they become landlords through the ownership of the physical property. People best suited for direct investment in commercial real estate are those who either have a considerable amount of knowledge about the industry or who can employ firms who do. Commercial properties are a high-risk, high-reward real estate investment. Such an investor is likely to be a high-net-worth individual since CRE investing requires a considerable amount of capital.
 
 The ideal property is in an area with low CRE supply and high demand which will give favorable rental rates. The strength of the area's local economy also affects the value of the CRE purchase.
 
@@ -84,11 +84,11 @@ Alternatively, investors may invest in the commercial market indirectly through 
 
 ## Advantages of Commercial Real Estate
 
-One of the biggest advantages of commercial real estate is attractive leasing rates. In areas where the amount of new construction is either limited by land or law, commercial real estate can have impressive returns and considerable monthly [cash flows](https://www.investopedia.com/terms/c/cashflow.asp). Industrial buildings generally rent at a lower rate, though they also have lower overhead costs compared to an office tower.
+One of the biggest advantages of commercial real estate is attractive leasing rates. In areas where the amount of new construction is either limited by land or law, commercial real estate can have impressive returns and considerable monthly [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp). Industrial buildings generally rent at a lower rate, though they also have lower overhead costs compared to an office tower.
 
 Commercial real estate also benefits from comparably longer lease contracts with tenants than residential real estate. This long lease length gives the commercial real estate holder a considerable amount of cash flow stability, as long as long-term tenants occupy the building.
 
-In addition to offering a stable, rich source of income, commercial real estate offers the potential for capital appreciation, as long as the property is well-maintained and kept up to date. And, like all forms of real estate, it is a distinct asset class that can provide an effective [diversification](https://www.investopedia.com/terms/d/diversification.asp) option to a balanced portfolio.
+In addition to offering a stable, rich source of income, commercial real estate offers the potential for capital appreciation, as long as the property is well-maintained and kept up to date. And, like all forms of real estate, it is a distinct asset class that can provide an effective [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) option to a balanced portfolio.
 
 ## Disadvantages of Commercial Real Estate
 
@@ -96,9 +96,9 @@ Rules and regulations are the primary deterrents for most people wanting to inve
 
 Another hurdle is the increased risk brought with tenant turnover, especially relevant in an economy where unexpected retail closures leave properties vacant with little advance notice. 
 
-With residences, the facilities requirements of one tenant usually mirror those of previous or future tenants. However, with a commercial property, each tenant may have very different needs that require costly refurbishing. The building owner then has to adapt the space to accommodate each tenant's specialized trade. A commercial property with a low [vacancy](https://www.investopedia.com/terms/v/vacancy-rate.asp) but high tenant turnover may still lose money due to the cost of renovations for incoming tenants.
+With residences, the facilities requirements of one tenant usually mirror those of previous or future tenants. However, with a commercial property, each tenant may have very different needs that require costly refurbishing. The building owner then has to adapt the space to accommodate each tenant's specialized trade. A commercial property with a low [[vacancy]](https://www.investopedia.com/terms/v/vacancy-rate.asp) but high tenant turnover may still lose money due to the cost of renovations for incoming tenants.
 
-For those looking to invest directly, buying a commercial property is a much more costly proposition than a residential property. Moreover, while real estate, in general, is among the more [illiquid](https://www.investopedia.com/terms/i/illiquid.asp) of asset classes, transactions for commercial buildings tend to move especially slowly.
+For those looking to invest directly, buying a commercial property is a much more costly proposition than a residential property. Moreover, while real estate, in general, is among the more [[illiquid]](https://www.investopedia.com/terms/i/illiquid.asp) of asset classes, transactions for commercial buildings tend to move especially slowly.
 
 Pros
 
@@ -132,9 +132,9 @@ The ["2019 U.S. Real Estate Market Outlook](https://www.cbre.us/research-and-rep
 
 However, other indicators suggest the commercial property market has peaked in the post-recession growth cycle. According to California real estate firm, Ten-X Growth, commercial property pricing ended 2018 up just 1% from 2017.
 
-A [Ten-X report](https://www.ten-x.com/company/blog/december-2018-ten-x-commercial-real-estate-nowcast/) noted that the 2018 final total for commercial properties confirms their view of the late economic cycle pricing. The firm's research found that vacancies are rising, rent growth is slowing, and market interest rates are on the rise
+A [[Ten-X report]](https://www.ten-x.com/company/blog/december-2018-ten-x-commercial-real-estate-nowcast/) noted that the 2018 final total for commercial properties confirms their view of the late economic cycle pricing. The firm's research found that vacancies are rising, rent growth is slowing, and market interest rates are on the rise
 
-As reported by _Forbes_, the retail sector, in particular, has proved a [pain point in the broader commercial property market,](https://www.forbes.com/sites/bradthomas/2019/02/28/around-the-globe-unibail-rodamco-westfield/#43731a9c7499) as widespread store closures intensified in 2017 and continued into 2018. For example, popular mall REIT Westfield Corporation saw their stock price shed about 30% between mid-2016 and late 2017 before reversing some losses through January 2018. Unibail-Rodamco SE acquired Westfield for US$15.8 billion, creating Unibail-Rodamco-Westfield (URW).
+As reported by _Forbes_, the retail sector, in particular, has proved a [[pain point in the broader commercial property market,]](https://www.forbes.com/sites/bradthomas/2019/02/28/around-the-globe-unibail-rodamco-westfield/#43731a9c7499) as widespread store closures intensified in 2017 and continued into 2018. For example, popular mall REIT Westfield Corporation saw their stock price shed about 30% between mid-2016 and late 2017 before reversing some losses through January 2018. Unibail-Rodamco SE acquired Westfield for US$15.8 billion, creating Unibail-Rodamco-Westfield (URW).
 
 Most firms, however, maintain that the property market remains healthy overall. J.P. Morgan, in its "2019 Commerical Real Estate Outlook," largely echoed CBRE's view stating that 2018 was the ninth year of increases in commercial property rents and valuations. Morgan predicts this pace will slow but continue and do not see a downturn until after 2019.
 

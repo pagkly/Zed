@@ -16,7 +16,7 @@ author: Will Kenton
 Quiet Title Action Definition
 ## What Is a Quiet Title Action?
 
-A quiet title action, also known as an action of quiet title, is a circuit court action—or lawsuit—that is filed with the intended purpose to establish or settle the [title](https://www.investopedia.com/terms/t/title.asp) to a property. Quiet title actions are particularly prevalent in cases where there is a disagreement on the title and the lawsuit is meant to remove, or “quiet,” a claim or objection to a title.
+A quiet title action, also known as an action of quiet title, is a circuit court action—or lawsuit—that is filed with the intended purpose to establish or settle the [[title]](https://www.investopedia.com/terms/t/title.asp) to a property. Quiet title actions are particularly prevalent in cases where there is a disagreement on the title and the lawsuit is meant to remove, or “quiet,” a claim or objection to a title.
 
 ### Key Takeaways
 
@@ -30,22 +30,22 @@ A quiet title action, also known as an action of quiet title, is a circuit court
 
 A quiet title action occurs when one property claimant challenges one or more other people in a court of law for the purpose of determining who is the rightful legal owner of the property in question. It is intended to quiet the conflicting claims on the property by eliminating any ambiguities in the title, thus clarifying the question of legal ownership.
 
-Following the quiet title action, the [plaintiff](https://www.investopedia.com/laws-and-regulations-4427769) will be in full possession of the property in perpetuity, as will be the plaintiff's [heirs](https://www.investopedia.com/terms/h/heir.asp), and they will also be protected from any further claims of ownership made against the property by other outside entities.
+Following the quiet title action, the [[plaintiff]](https://www.investopedia.com/laws-and-regulations-4427769) will be in full possession of the property in perpetuity, as will be the plaintiff's [[heirs]](https://www.investopedia.com/terms/h/heir.asp), and they will also be protected from any further claims of ownership made against the property by other outside entities.
 
 A quiet title action is oftentimes a lengthy process, sometimes taking as long as 8-10 weeks.
 
 ## Quiet Title Action Uses
 
--   To clear up claims on the ownership of [real property](https://www.investopedia.com/terms/r/real-property.asp)—or other property that is titled—following the death of the owner, particularly in situations where there is any question regarding whether all of the heirs have been notified of the sale of the [estate](https://www.investopedia.com/terms/e/estate.asp).
+-   To clear up claims on the ownership of [[real property]](https://www.investopedia.com/terms/r/real-property.asp)—or other property that is titled—following the death of the owner, particularly in situations where there is any question regarding whether all of the heirs have been notified of the sale of the [[estate]](https://www.investopedia.com/terms/e/estate.asp).
 -   To resolve issues with a mortgage lender whose interest in the property was not properly dealt with after the loan was paid off.
 -   To clear the title to a property that has been unoccupied for some time, allowing for outside parties to make bids for its purchase.
--   The conveyance of an interest in the property via a [quitclaim deed](https://www.investopedia.com/terms/q/quitclaimdeed.asp), in which the previous owner disclaims interest, but does not promise that the title is clear.
--   To convey title to a property in the case of [adverse possession](https://www.investopedia.com/terms/a/adverse-possession.asp), in which a party occupies property that is legally not theirs for purposes of laying claim to it.
+-   The conveyance of an interest in the property via a [[quitclaim deed]](https://www.investopedia.com/terms/q/quitclaimdeed.asp), in which the previous owner disclaims interest, but does not promise that the title is clear.
+-   To convey title to a property in the case of [[adverse possession]](https://www.investopedia.com/terms/a/adverse-possession.asp), in which a party occupies property that is legally not theirs for purposes of laying claim to it.
 
-Other grounds for a quiet title action include to settle tax issues with a property; boundary disputes between private parties, nations, states, or municipalities; errors in surveying; fraudulent conveyance of the property by coercion or forged [deed](https://www.investopedia.com/terms/d/deed.asp); treaty disputes between nations; or competing claims by [lien](https://www.investopedia.com/terms/l/lien.asp) holders, reverters, missing heirs or remainders.
+Other grounds for a quiet title action include to settle tax issues with a property; boundary disputes between private parties, nations, states, or municipalities; errors in surveying; fraudulent conveyance of the property by coercion or forged [[deed]](https://www.investopedia.com/terms/d/deed.asp); treaty disputes between nations; or competing claims by [[lien]](https://www.investopedia.com/terms/l/lien.asp) holders, reverters, missing heirs or remainders.
 
 ## Limitations of a Quiet Title Action
 
-A quiet title action does not give the new owner the same level of protection against the previous owner in most cases. If there are problems with the property, the new owner can’t sue the previous owner, unless they acquired the property via [warranty deed](https://www.investopedia.com/terms/w/warranty-deed.asp) and sued for defects when the warranty deed was delivered.
+A quiet title action does not give the new owner the same level of protection against the previous owner in most cases. If there are problems with the property, the new owner can’t sue the previous owner, unless they acquired the property via [[warranty deed]](https://www.investopedia.com/terms/w/warranty-deed.asp) and sued for defects when the warranty deed was delivered.
 
-Additionally, quiet title actions don’t always clear up all issues with a title. In some jurisdictions, they can only be used to clear up specific claims or [title defects](https://www.investopedia.com/terms/d/defective-title.asp).
+Additionally, quiet title actions don’t always clear up all issues with a title. In some jurisdictions, they can only be used to clear up specific claims or [[title defects]](https://www.investopedia.com/terms/d/defective-title.asp).

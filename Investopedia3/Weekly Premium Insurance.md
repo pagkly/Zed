@@ -24,7 +24,7 @@ Weekly premium insurance is a type of financial protection where the payments th
 -   Weekly premium insurance was popular back then because the premium payments aligned with the wage schedules of those who were insured.
 -   As incomes rose in the mid-1900s, monthly insurance policies became more popular, causing weekly premium insurance plans to decline.
 
-This type of insurance was introduced by Prudential in 1875 and was common in the late 1800s and early 1900s.1 At that time, insurers were unable to get [insurance](https://www.investopedia.com/terms/i/insurance-coverage.asp) with monthly premium payments to catch on with consumers. The small weekly premium payments were designed to match up with workers' pay schedules and modest incomes. Weekly premium insurance is also known as industrial life insurance.
+This type of insurance was introduced by Prudential in 1875 and was common in the late 1800s and early 1900s.1 At that time, insurers were unable to get [[insurance]](https://www.investopedia.com/terms/i/insurance-coverage.asp) with monthly premium payments to catch on with consumers. The small weekly premium payments were designed to match up with workers' pay schedules and modest incomes. Weekly premium insurance is also known as industrial life insurance.
 
 ## How Weekly Premium Insurance Works
 
@@ -32,9 +32,9 @@ Weekly premiums were a feature of industrial insurance, a type of life insurance
 
 ## Insuring America
 
-In the early days, insurance was often sold, not bought, and that suited insurance companies fine. Behind this thinking is the notion of [adverse selection](https://www.investopedia.com/terms/a/adverseselection.asp). It's the idea that people who seek out insurance are more likely to need or use it and therefore are prone to higher risks. So that's one reason why insurers sent out armies of salesmen to convince people that insurance was a good idea. 
+In the early days, insurance was often sold, not bought, and that suited insurance companies fine. Behind this thinking is the notion of [[adverse selection]](https://www.investopedia.com/terms/a/adverseselection.asp). It's the idea that people who seek out insurance are more likely to need or use it and therefore are prone to higher risks. So that's one reason why insurers sent out armies of salesmen to convince people that insurance was a good idea. 
 
-The weekly policies of yesteryear were mainly [whole life insurance](https://www.investopedia.com/terms/w/wholelife.asp). Weekly premiums meant the insurers collected money faster, thus lowering the cost of the policies. Workers were sold on the idea of paying a few dollars a week for, say, $2,000 worth of coverage if they died, or double that if they died in an accident, known as [double indemnity](https://www.investopedia.com/terms/a/accidental-death-dismemberment-insurance.asp). The insurance man would show up on payday, of course, either at the policy holder's home or business to collect the premium.
+The weekly policies of yesteryear were mainly [[whole life insurance]](https://www.investopedia.com/terms/w/wholelife.asp). Weekly premiums meant the insurers collected money faster, thus lowering the cost of the policies. Workers were sold on the idea of paying a few dollars a week for, say, $2,000 worth of coverage if they died, or double that if they died in an accident, known as [[double indemnity]](https://www.investopedia.com/terms/a/accidental-death-dismemberment-insurance.asp). The insurance man would show up on payday, of course, either at the policy holder's home or business to collect the premium.
 
 Building cash value was a top selling point of these policies, and still is today. At the end of 20 or 30 years worth of payments, the policy had built a cash value often equal to the premiums paid in or the policy's face value. People could borrow money against the policies as well.
 

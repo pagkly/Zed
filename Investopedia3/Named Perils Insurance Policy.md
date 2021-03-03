@@ -16,7 +16,7 @@ author: Julia Kagan
 Named Perils Insurance Policy
 ## What Is a Named Perils Insurance Policy?
 
-A named perils insurance policy is a home insurance (or business) insurance policy that only provides [coverage on losses incurred to your property](https://www.investopedia.com/terms/l/losses-incurred.asp) from [hazards or events named on the policy](https://www.investopedia.com/ask/answers/090815/what-difference-between-peril-and-hazard.asp). Named peril coverage may be purchased as a less expensive alternative to a comprehensive coverage or broad policies, which are policies that tend to offer coverage to most perils.
+A named perils insurance policy is a home insurance (or business) insurance policy that only provides [[coverage on losses incurred to your property]](https://www.investopedia.com/terms/l/losses-incurred.asp) from [[hazards or events named on the policy]](https://www.investopedia.com/ask/answers/090815/what-difference-between-peril-and-hazard.asp). Named peril coverage may be purchased as a less expensive alternative to a comprehensive coverage or broad policies, which are policies that tend to offer coverage to most perils.
 
 ## How a Named Perils Insurance Policy Works
 
@@ -30,7 +30,7 @@ If a homeowner doesn't live in an earthquake and flooding prone area, they may 
 -   Theft, fire, and natural disasters like hail, earthquakes, and flooding are events or hazards that may be declared on a named perils insurance policy.
 -   When a person purchases an all risks policy, it covers all perils except those expressly excluded from the list.
 
-Keep in mind that [all risks policy does not necessarily guarantee](https://www.investopedia.com/terms/a/all-risks.asp) your property will be covered against all forms of perils.
+Keep in mind that [[all risks policy does not necessarily guarantee]](https://www.investopedia.com/terms/a/all-risks.asp) your property will be covered against all forms of perils.
 
 It's thus a good idea for homeowners to check their broad coverage policies to make sure they do cover all the perils that they are concerned about. If the broad policy isn't sufficient, homeowners should buy a named peril policy to fill that hole in their coverage.
 

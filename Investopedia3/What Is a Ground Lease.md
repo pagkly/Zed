@@ -16,17 +16,17 @@ author: James Chen
 What Is a Ground Lease?
 ## What Is a Ground Lease?
 
-A ground lease is an agreement in which a tenant is permitted to develop a piece of property during the [lease](https://www.investopedia.com/terms/l/lease.asp) period, after which the land and all improvements are turned over to the property owner.
+A ground lease is an agreement in which a tenant is permitted to develop a piece of property during the [[lease]](https://www.investopedia.com/terms/l/lease.asp) period, after which the land and all improvements are turned over to the property owner.
 
 ## How a Ground Lease Works
 
-A ground lease indicates that improvements will be owned by the property owner unless an exception is created and stipulates that all relevant taxes incurred during the lease period will be paid by the tenant. Because a ground lease allows the landlord to assume all improvements once the lease term expires, the [landlord](https://www.investopedia.com/terms/l/landlord.asp) may sell the property at a higher rate. Ground leases are also often called land leases, as landlords lease out the land only.
+A ground lease indicates that improvements will be owned by the property owner unless an exception is created and stipulates that all relevant taxes incurred during the lease period will be paid by the tenant. Because a ground lease allows the landlord to assume all improvements once the lease term expires, the [[landlord]](https://www.investopedia.com/terms/l/landlord.asp) may sell the property at a higher rate. Ground leases are also often called land leases, as landlords lease out the land only.
 
 Although they are used primarily in the commercial space, ground leases differ greatly from other types of commercial leases like those found in shopping complexes and office buildings. These other leases typically don't assign the lessee to take on responsibility for the unit. Instead, these tenants are charged rent in order to operate their businesses. A ground lease involves leasing land for a long-term period—typically for 50 to 99 years—to a tenant who constructs a building on the property. 
 
 A 99-year lease is generally the longest possible lease term for a piece of real estate property. It used to be the longest possible under common law. However, 99-year leases continue to be common but are no longer the longest possible under the law. 
 
-The ground lease defines who owns the land, and who owns the building, and improvements on the property. Many landlords use ground leases as a way to retain ownership of their property for planning reasons, to avoid any [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp), and to generate income and [revenue](https://www.investopedia.com/terms/r/revenue.asp). Tenants generally assume responsibility for any and all expenses. This includes construction, repairs, renovations, improvements, taxes, insurance, and any financing costs associated with the property.
+The ground lease defines who owns the land, and who owns the building, and improvements on the property. Many landlords use ground leases as a way to retain ownership of their property for planning reasons, to avoid any [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp), and to generate income and [[revenue]](https://www.investopedia.com/terms/r/revenue.asp). Tenants generally assume responsibility for any and all expenses. This includes construction, repairs, renovations, improvements, taxes, insurance, and any financing costs associated with the property.
 
 Tenants generally assume responsibility for all financial aspects in a ground lease including rent, taxes, construction, insurance, and financing.
 
@@ -48,7 +48,7 @@ Some of the fundamentals of any ground lease should include:
 
 ## Subordinated vs. Unsubordinated Ground Leases
 
-Ground lease [tenants](https://www.investopedia.com/articles/mortgages-real-estate/08/buy-rental-property.asp) often finance improvements by taking on debt. In a subordinated ground lease, the landlord agrees to a lower priority of claims on the property in case the tenant defaults on the loan for improvements. In other words, a subordinated ground lease-landlord essentially allows for the property deed to act as collateral in the case of tenant default on any improvement-related loan. For this type of ground lease, the landlord may negotiate higher rent payments in return for the risk taken on in case of tenant default. This may also benefit the landlord because constructing a building on his land increases the value of his property.
+Ground lease [[tenants]](https://www.investopedia.com/articles/mortgages-real-estate/08/buy-rental-property.asp) often finance improvements by taking on debt. In a subordinated ground lease, the landlord agrees to a lower priority of claims on the property in case the tenant defaults on the loan for improvements. In other words, a subordinated ground lease-landlord essentially allows for the property deed to act as collateral in the case of tenant default on any improvement-related loan. For this type of ground lease, the landlord may negotiate higher rent payments in return for the risk taken on in case of tenant default. This may also benefit the landlord because constructing a building on his land increases the value of his property.
 
 In contrast, an unsubordinated ground lease lets the landlord retain the top priority of claims on the property in case the tenant defaults on the loan for improvements. Because the lender may not take ownership of the land if the loan goes unpaid, loan professionals may be hesitant to extend a mortgage for improvements. Although the landlord retains ownership of the property, they typically have to charge the tenant a lower amount of rent.
 
@@ -60,13 +60,13 @@ A ground lease can benefit both the tenant and the landlord.
 
 The ground lease lets a tenant build on property in a prime location they could not themselves purchase. For this reason, large chain stores such as Whole Foods and Starbucks often utilize ground leases in their corporate expansion plans.
 
-A ground lease also does not require the tenant to have a [down payment](https://www.investopedia.com/terms/d/down_payment.asp) for securing the land, as purchasing the property would require. Therefore, less equity is involved in acquiring a ground lease, which frees up cash for other purposes and improves the yield on utilizing the land.
+A ground lease also does not require the tenant to have a [[down payment]](https://www.investopedia.com/terms/d/down_payment.asp) for securing the land, as purchasing the property would require. Therefore, less equity is involved in acquiring a ground lease, which frees up cash for other purposes and improves the yield on utilizing the land.
 
 Any rents paid on a ground lease may be deductible for state and federal income taxes, meaning a reduction in the tenant's overall tax burden.
 
 ### Landlord Benefits
 
-The landowner gains a steady stream of income from the tenant while retaining ownership of the property. A ground lease typically contains an [escalation clause](https://www.investopedia.com/terms/e/escalatorclause.asp) that guarantees increases in rent and eviction rights that provide protection in case of default on rent or other expenses.
+The landowner gains a steady stream of income from the tenant while retaining ownership of the property. A ground lease typically contains an [[escalation clause]](https://www.investopedia.com/terms/e/escalatorclause.asp) that guarantees increases in rent and eviction rights that provide protection in case of default on rent or other expenses.
 
 There are also tax savings to a landlord who uses ground leases. If they sell a property to a tenant outright, they will realize a gain on the sale. By executing this type of lease, they avoid having to report any gains. But there may be some tax implications on the rent they receive.
 

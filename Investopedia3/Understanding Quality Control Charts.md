@@ -30,7 +30,7 @@ A quality control chart is a graphic that depicts whether sampled products or pr
 
 Quality control charts are a type of control often used by engineers to assess the performance of a firm's processes or finished products. If issues are detected, they can easily be compared to their location on the chart for debugging or error control. In other words, it provides a heuristic blueprint for maintaining quality control.
 
-A common form of the quality control chart is the x-bar (denoted as x̅_) c_hart, where the y-axis on the chart tracks the degree to which the variance of the tested attribute is acceptable. The x-axis tracks the samples tested. Analyzing the pattern of [variance](https://www.investopedia.com/terms/v/variance.asp) depicted by a [quality control](https://www.investopedia.com/terms/q/quality-control.asp) chart can help determine if defects are occurring randomly or systematically.
+A common form of the quality control chart is the x-bar (denoted as x̅_) c_hart, where the y-axis on the chart tracks the degree to which the variance of the tested attribute is acceptable. The x-axis tracks the samples tested. Analyzing the pattern of [[variance]](https://www.investopedia.com/terms/v/variance.asp) depicted by a [[quality control]](https://www.investopedia.com/terms/q/quality-control.asp) chart can help determine if defects are occurring randomly or systematically.
 
 The R (range) chart is a quality control chart used to monitor the variation of a process based on small samples take at specific times.
 

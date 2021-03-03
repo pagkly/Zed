@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Value Added Monthly Index (VAMI) Definition
 ## What is the Value Added Monthly Index?
 
-A value added monthly index (VAMI) tracks the monthly performance of a hypothetical $1000 investment, assuming [reinvestment](https://www.investopedia.com/terms/r/reinvestment.asp), over a period of time.
+A value added monthly index (VAMI) tracks the monthly performance of a hypothetical $1000 investment, assuming [[reinvestment]](https://www.investopedia.com/terms/r/reinvestment.asp), over a period of time.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A value added monthly index (VAMI) tracks the monthly performance of a hypotheti
 
 ## Understanding Value Added Monthly Index (VAMI)
 
-A value added monthly index charts the [total return](https://www.investopedia.com/terms/t/totalreturn.asp) gained by an investor over a specified period of time. It includes capital gains as well as reinvestment of any disbursements, such as dividends and additional interest earned through [compounding](https://www.investopedia.com/terms/c/compounding.asp). Another key aspect of VAMI is that it is calculated using NET monthly returns. This means that any applicable fees, such as management, incentive, brokerage fees, have already been deducted and what's left is the real return.
+A value added monthly index charts the [[total return]](https://www.investopedia.com/terms/t/totalreturn.asp) gained by an investor over a specified period of time. It includes capital gains as well as reinvestment of any disbursements, such as dividends and additional interest earned through [[compounding]](https://www.investopedia.com/terms/c/compounding.asp). Another key aspect of VAMI is that it is calculated using NET monthly returns. This means that any applicable fees, such as management, incentive, brokerage fees, have already been deducted and what's left is the real return.
 
 This is one of the most commonly used metrics to depict a fund's overall performance to investors. VAMI's popularity stems from the fact that it is quite descriptive, in that it shows an investor how $1,000 has performed over a given period, and that it is easy to understand.
 
@@ -37,7 +37,7 @@ A value added monthly index can be used for a variety of purposes. It may provid
 
 ## Using VAMI for Comparison
 
-VAMI charts can be a reliable way to compare the growth of various funds and [benchmarks](https://www.investopedia.com/terms/b/benchmark.asp) across the market. Investors can customize these charts to choose from the options in a fund company’s family of funds. VAMI charts provide investors with a perspective on how an investment has performed over time. They may also provide insight on potential expectations with future projections. VAMI charts can also provide a visual representation of how similar funds, or funds from different [asset class](https://www.investopedia.com/terms/a/assetclasses.asp) categories, have performed over a specified time-frame, with benchmark returns also included for broader analysis.
+VAMI charts can be a reliable way to compare the growth of various funds and [[benchmarks]](https://www.investopedia.com/terms/b/benchmark.asp) across the market. Investors can customize these charts to choose from the options in a fund company’s family of funds. VAMI charts provide investors with a perspective on how an investment has performed over time. They may also provide insight on potential expectations with future projections. VAMI charts can also provide a visual representation of how similar funds, or funds from different [[asset class]](https://www.investopedia.com/terms/a/assetclasses.asp) categories, have performed over a specified time-frame, with benchmark returns also included for broader analysis.
 
 ## VAMI Tools
 

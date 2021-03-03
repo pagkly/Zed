@@ -16,9 +16,9 @@ author: James Chen
 Group of Seven (G-7)
 ## What Is the Group of Seven (G-7)?
 
-The Group of Seven (G-7) is an intergovernmental organization made up of the world's largest [developed economies](https://www.investopedia.com/terms/d/developed-economy.asp): France, Germany, Italy, Japan, the United States, the United Kingdom, and Canada. Government leaders of these countries meet periodically to address international economic and monetary issues, with each member taking over the presidency on a rotating basis.
+The Group of Seven (G-7) is an intergovernmental organization made up of the world's largest [[developed economies]](https://www.investopedia.com/terms/d/developed-economy.asp): France, Germany, Italy, Japan, the United States, the United Kingdom, and Canada. Government leaders of these countries meet periodically to address international economic and monetary issues, with each member taking over the presidency on a rotating basis.
 
-The G-7 was, for a while, known as the [Group of Eight](https://www.investopedia.com/terms/g/g8.asp) (G-8), until 2014 when former member Russia was removed after annexing the region of Crimea illegally from Ukraine.1 The [European Union](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) is sometimes considered to be a de-facto eighth member of the G-7 since it holds all the rights and responsibilities of full members except to chair or host meetings.
+The G-7 was, for a while, known as the [[Group of Eight]](https://www.investopedia.com/terms/g/g8.asp) (G-8), until 2014 when former member Russia was removed after annexing the region of Crimea illegally from Ukraine.1 The [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) (EU) is sometimes considered to be a de-facto eighth member of the G-7 since it holds all the rights and responsibilities of full members except to chair or host meetings.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ The G-7 was, for a while, known as the [Group of Eight](https://www.investopedia
 
 ## How the Group of Seven (G-7) Works
 
-The major purpose of the G-7 is to discuss and sometimes act in concert to help resolve [global problems](https://www.investopedia.com/terms/u/un-global-compact.asp), with a special focus on economic issues. Since its inception in the early 1970s, the group has discussed [financial crises](https://www.investopedia.com/terms/f/financial-crisis.asp), monetary systems, and major world crises, such as oil shortages.
+The major purpose of the G-7 is to discuss and sometimes act in concert to help resolve [[global problems]](https://www.investopedia.com/terms/u/un-global-compact.asp), with a special focus on economic issues. Since its inception in the early 1970s, the group has discussed [[financial crises]](https://www.investopedia.com/terms/f/financial-crisis.asp), monetary systems, and major world crises, such as oil shortages.
 
-The G-7 has also launched initiatives to fund issues and relieve crises where it sees an opportunity for joint action. Those efforts include several aimed at [debt relief for developing nations.](https://www.investopedia.com/articles/markets-economy/090616/5-countries-own-most-us-debt.asp)2
+The G-7 has also launched initiatives to fund issues and relieve crises where it sees an opportunity for joint action. Those efforts include several aimed at [[debt relief for developing nations.]](https://www.investopedia.com/articles/markets-economy/090616/5-countries-own-most-us-debt.asp)2
 
-In 1996, working with the [World Bank,](https://www.investopedia.com/articles/world-bank-definition/) the G-7 launched an initiative for the 42 heavily indebted poor countries (HIPC), along with a Multilateral Debt Relief Initiative (MDRI), a 2005 pledge to cancel the International Development Association debt of countries that have gone through the MDRI program.3
+In 1996, working with the [[World Bank,]](https://www.investopedia.com/articles/world-bank-definition/) the G-7 launched an initiative for the 42 heavily indebted poor countries (HIPC), along with a Multilateral Debt Relief Initiative (MDRI), a 2005 pledge to cancel the International Development Association debt of countries that have gone through the MDRI program.3
 
 ### $300 million
 
@@ -47,12 +47,12 @@ The origins of the group date back to the early 1970s, when leaders of the U.S.,
 
 ### Expansion to G-8
 
-The G-7 has responded as the global economy has evolved, including when the Soviet Union pledged to create an economy with [freer markets](https://www.investopedia.com/terms/f/freemarket.asp) and held its first direct presidential election in 1991. Following a 1994 G-7 meeting in Naples, President Boris Yeltsin held meetings with G-7 member countries, in what became known as the P-8 (Political 8). In 1998, after urging from leaders including U.S. President Bill Clinton, Russia was added to the G-7 as a full member, creating a formal Group of Eight, or G-8.5
+The G-7 has responded as the global economy has evolved, including when the Soviet Union pledged to create an economy with [[freer markets]](https://www.investopedia.com/terms/f/freemarket.asp) and held its first direct presidential election in 1991. Following a 1994 G-7 meeting in Naples, President Boris Yeltsin held meetings with G-7 member countries, in what became known as the P-8 (Political 8). In 1998, after urging from leaders including U.S. President Bill Clinton, Russia was added to the G-7 as a full member, creating a formal Group of Eight, or G-8.5
 
 The G-8 ended up being short-lived. In 2014, Russia was suspended from the group after the annexation of Crimea and tensions in Ukraine. That remains the case today.
 
 ## The Group of Seven (G-7) vs. the Group of 20 (G-20)
 
-As developing nations began to represent a larger part of the global economy, the absence of a forum about international financial matters that included those [emerging economies](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp) became more glaring.
+As developing nations began to represent a larger part of the global economy, the absence of a forum about international financial matters that included those [[emerging economies]](https://www.investopedia.com/terms/e/emergingmarketeconomy.asp) became more glaring.
 
-In response, the [Group of 20](https://www.investopedia.com/terms/g/g-20.asp) (G-20) was created in 1999, comprising all the members of the G-7, plus 12 additional countries and the EU. As the economies and trade activity of markets such as China, Brazil, India, Mexico, and South Africa—all G-20 members —surge, many observers now see the G-20 as usurping much of the role and eminence once held by the G-7.
+In response, the [[Group of 20]](https://www.investopedia.com/terms/g/g-20.asp) (G-20) was created in 1999, comprising all the members of the G-7, plus 12 additional countries and the EU. As the economies and trade activity of markets such as China, Brazil, India, Mexico, and South Africa—all G-20 members —surge, many observers now see the G-20 as usurping much of the role and eminence once held by the G-7.

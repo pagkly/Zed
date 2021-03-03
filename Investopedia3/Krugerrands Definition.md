@@ -16,7 +16,7 @@ author: Carla Tardi
 Krugerrands Definition
 ## What Are Krugerrands?
 
-Krugerrands are gold coins that were minted by the Republic of South Africa in 1967 to help promote South African gold to the international markets and to make it possible for individuals to own gold. Krugerrands are among the most frequently [traded gold](https://www.investopedia.com/video/play/investing-in-gold/) coins in the world market.
+Krugerrands are gold coins that were minted by the Republic of South Africa in 1967 to help promote South African gold to the international markets and to make it possible for individuals to own gold. Krugerrands are among the most frequently [[traded gold]](https://www.investopedia.com/video/play/investing-in-gold/) coins in the world market.
 
 The coins have legal tender status in South Africa, although Krugerrands were never assigned a rand (ZAR) value. Krugerrands were designed to derive their value exclusively from the price of gold at the time they are traded. If the price of gold changes, so does the price of Krugerrands.
 
@@ -24,7 +24,7 @@ The coins have legal tender status in South Africa, although Krugerrands were ne
 
 The face of a Krugerrand coin bears the image of Paul Kruger, who was president of the South African Republic from 1883 to 1900. The coin’s name comes from combining Paul Kruger’s surname with “rand,” South Africa’s national currency. The reverse of the coin portrays a galloping springbok antelope, which is one of South Africa’s national symbols. Paul Kruger held office when one of the world’s most profitable mines, Durban Deep, was founded in 1896. He also was president during the Witwatersrand Gold Rush, which led to the founding of Johannesburg, one of South Africa’s largest cities.
 
-The Johannesburg Stock Exchange (JSE) trades in Krugerrands through a well-regulated secondary market in the same way as any listed equity market instrument, with quoted prices based on the weight of the coins. New Krugerrands are issued by the [South African Reserve Bank (SARB)](https://www.investopedia.com/terms/s/south-african-reserve-bank.asp). Because of its legal tender status in South Africa, the Krugerrand was minted to be more resilient to wear than the 24-karat gold coins used for decoration medals. The Krugerrand is made of 22 karats, or 91.67%, gold, with 8.33% copper alloy.
+The Johannesburg Stock Exchange (JSE) trades in Krugerrands through a well-regulated secondary market in the same way as any listed equity market instrument, with quoted prices based on the weight of the coins. New Krugerrands are issued by the [[South African Reserve Bank (SARB)]](https://www.investopedia.com/terms/s/south-african-reserve-bank.asp). Because of its legal tender status in South Africa, the Krugerrand was minted to be more resilient to wear than the 24-karat gold coins used for decoration medals. The Krugerrand is made of 22 karats, or 91.67%, gold, with 8.33% copper alloy.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ The Johannesburg Stock Exchange (JSE) trades in Krugerrands through a well-regu
 
 ## Krugerrands: History
 
-When Krugerrands were minted in 1967, the United States did not permit its citizens to own gold bullion, but it did permit ownership of foreign coins, so the Krugerrand could be bought and sold in the U.S. As the consciousness of South Africa’s apartheid—that country's system of racial segregation—policies grew, the Krugerrand suffered from diminished interest. During the 1970s and '80s, numerous Western countries banned the import of Krugerrands as part of enforced economic sanctions against South Africa because of apartheid. The United States banned the import of Krugerrands in 1985. These economic sanctions ended in the West in 1994 [when apartheid was abandoned by South Africa](https://www.investopedia.com/articles/economics/08/protest-divestment-south-africa.asp). However, many U.S. investors did not realize that the ban had been lifted, which caused low volumes of U.S. imports of Krugerrands.
+When Krugerrands were minted in 1967, the United States did not permit its citizens to own gold bullion, but it did permit ownership of foreign coins, so the Krugerrand could be bought and sold in the U.S. As the consciousness of South Africa’s apartheid—that country's system of racial segregation—policies grew, the Krugerrand suffered from diminished interest. During the 1970s and '80s, numerous Western countries banned the import of Krugerrands as part of enforced economic sanctions against South Africa because of apartheid. The United States banned the import of Krugerrands in 1985. These economic sanctions ended in the West in 1994 [[when apartheid was abandoned by South Africa]](https://www.investopedia.com/articles/economics/08/protest-divestment-south-africa.asp). However, many U.S. investors did not realize that the ban had been lifted, which caused low volumes of U.S. imports of Krugerrands.
 
 In 1970, South Africa was the largest gold producer in the world, holding more than 75% of the world’s gold reserves. Throughout the 1970s, Krugerrands quickly became the leading choice for gold investors. By 1980, at the peak of the gold market, the Krugerrand overwhelmingly dominated other gold investments, accounting for 90% of the world’s gold-coin market.
 
@@ -48,7 +48,7 @@ Statistics South Africa / Carla Tardi / Investopedia
 
 ## Investing in Krugerrands
 
-Krugerrands remain a popular investment for [gold investors](https://www.investopedia.com/articles/basics/08/gold-strategies.asp) in part because of their value and small size, which makes for easy storage. Krugerrands appeal to professional and private investors who wish to make a direct investment in gold bullion, hedge their portfolios against the U.S. dollar, or to further diversify their portfolio.
+Krugerrands remain a popular investment for [[gold investors]](https://www.investopedia.com/articles/basics/08/gold-strategies.asp) in part because of their value and small size, which makes for easy storage. Krugerrands appeal to professional and private investors who wish to make a direct investment in gold bullion, hedge their portfolios against the U.S. dollar, or to further diversify their portfolio.
 
 Investors continue to buy gold because of the proven longevity of its value. Many gold investors consider this precious metal a safe investment that will retain its value even in an economic collapse. Owning a tangible asset appeals to some investors, who may put greater trust in physical coins or bars than in securities investments that exist only on paper. 
 

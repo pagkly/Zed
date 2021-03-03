@@ -27,7 +27,7 @@ A joint endorsement can be required on a check presented for deposit or cashing
 
 ## Understanding Joint Endorsement
 
-Rules on joint endorsements vary by state, bank, and even the type of check presented. For example, when checks are made out to a married couple and deposited into their [joint account,](https://www.investopedia.com/terms/j/jointaccount.asp) many banks will not require both spouses to endorse the check; after all, the money is going into an account to which they share access. On the other hand, most banks will require checks issued by the U.S. government, such as tax refund checks, to be jointly endorsed, even for deposit into a joint account.
+Rules on joint endorsements vary by state, bank, and even the type of check presented. For example, when checks are made out to a married couple and deposited into their [[joint account,]](https://www.investopedia.com/terms/j/jointaccount.asp) many banks will not require both spouses to endorse the check; after all, the money is going into an account to which they share access. On the other hand, most banks will require checks issued by the U.S. government, such as tax refund checks, to be jointly endorsed, even for deposit into a joint account.
 
 ## The Details Make a Difference
 

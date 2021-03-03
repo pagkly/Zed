@@ -16,19 +16,19 @@ author: Julia Kagan
 Uniform Transfers to Minors Act (UTMA)
 ## What Is the Uniform Transfers to Minors Act (UTMA)?
 
-The Uniform Transfers to Minors Act (UTMA) allows a minor to receive gifts—such as money, patents, royalties, real estate, and fine art—without the aid of a guardian or [trustee](https://www.investopedia.com/terms/t/trustee.asp). A UTMA account allows the gift giver or an appointed custodian to manage the minor's account until the latter is of age. UTMA also shields the minor from tax consequences on the gifts, up to a specified value.1
+The Uniform Transfers to Minors Act (UTMA) allows a minor to receive gifts—such as money, patents, royalties, real estate, and fine art—without the aid of a guardian or [[trustee]](https://www.investopedia.com/terms/t/trustee.asp). A UTMA account allows the gift giver or an appointed custodian to manage the minor's account until the latter is of age. UTMA also shields the minor from tax consequences on the gifts, up to a specified value.1
 
 #### Understanding the Uniform Transfers To Minors Act
 
 ## How the Uniform Transfers to Minors Act (UTMA) Works
 
-The UTMA is an extension of the [Uniform Gift to Minors Act (UGMA)](https://www.investopedia.com/terms/u/ugma.asp), which was limited to the transfer of securities. Note that, while the UTMA offers a way to build a tax-free savings account for minor children, the assets will be counted as part of the custodian's taxable estate until the minor takes possession. The UTMA was finalized in 1986 by the National Conference of Commissioners on Uniform State Laws and adopted by most of the 50 states. It allows minors to receive gifts and avoid tax consequences until they become of legal age for the state, which is typically age 18 or 21.1
+The UTMA is an extension of the [[Uniform Gift to Minors Act (UGMA)]](https://www.investopedia.com/terms/u/ugma.asp), which was limited to the transfer of securities. Note that, while the UTMA offers a way to build a tax-free savings account for minor children, the assets will be counted as part of the custodian's taxable estate until the minor takes possession. The UTMA was finalized in 1986 by the National Conference of Commissioners on Uniform State Laws and adopted by most of the 50 states. It allows minors to receive gifts and avoid tax consequences until they become of legal age for the state, which is typically age 18 or 21.1
 
 While the UTMA offers a way to build a tax-free savings account for minor children, the assets will be counted as part of the custodian's taxable estate until the minor takes possession**.**
 
 ## UTMA vs. UGMA
 
-The difference between the UTMA and UGMA is the maturity time. The UTMA allows for [maturity](https://www.investopedia.com/articles/bonds/07/fixedincome.asp) before it is handed to the beneficiary, up to 25 years. The UGMA matures at 18 years.
+The difference between the UTMA and UGMA is the maturity time. The UTMA allows for [[maturity]](https://www.investopedia.com/articles/bonds/07/fixedincome.asp) before it is handed to the beneficiary, up to 25 years. The UGMA matures at 18 years.
 
 The termination date for each are different as well. While UGMA termination is at 18 years, the termination age for UTMA is 21. Further, UTMA accounts allow parents to donate gifts such as money, stocks, or life insurance. However, UGMA accounts only allow the donation of basic assets.1
 
@@ -50,7 +50,7 @@ Starting in 2018, the IRS allows for an exclusion from the gift tax of up to $15
 
 ## Control of Assets
 
-The Act allows the donor to name a [custodian](https://www.investopedia.com/terms/c/custodian.asp), who has the fiduciary duty to manage and invest the property on behalf of the minor until the minor becomes of legal age. The property belongs to the minor from the time the property is gifted. If the donor dies while serving as custodian, the value of the custodianship property is included in the donor’s estate.
+The Act allows the donor to name a [[custodian]](https://www.investopedia.com/terms/c/custodian.asp), who has the fiduciary duty to manage and invest the property on behalf of the minor until the minor becomes of legal age. The property belongs to the minor from the time the property is gifted. If the donor dies while serving as custodian, the value of the custodianship property is included in the donor’s estate.
 
 ## Frequently Asked Questions
 

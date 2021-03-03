@@ -16,7 +16,7 @@ author: James Chen
 Restrictive Covenant
 ## What Is a Restrictive Covenant?
 
-A restrictive [covenant](https://www.investopedia.com/terms/c/covenant.asp), also known as a [negative covenant](https://www.investopedia.com/terms/n/negativecovenant.asp), is any type of agreement in a contract or obligation that either restricts the buyer from taking some action or requires that they abstain from a specific action. In bond obligations ([debentures](https://www.investopedia.com/terms/d/debenture.asp)), restrictive covenants disallow issuers from activities such as taking on new debt or other corporate actions.
+A restrictive [[covenant]](https://www.investopedia.com/terms/c/covenant.asp), also known as a [[negative covenant]](https://www.investopedia.com/terms/n/negativecovenant.asp), is any type of agreement in a contract or obligation that either restricts the buyer from taking some action or requires that they abstain from a specific action. In bond obligations ([debentures](https://www.investopedia.com/terms/d/debenture.asp)), restrictive covenants disallow issuers from activities such as taking on new debt or other corporate actions.
 
 In real estate transactions, restrictive covenants are binding legal obligations written into the deed of a property contract, usually by the seller. These covenants can be either simple or complex and can levy penalties against buyers who fail to obey them.
 
@@ -37,7 +37,7 @@ Common restrictions placed on borrowers through negative covenants include preve
 
 Generally, the more negative covenants exist in a bond issue, the lower the interest rate on the debt will be since the restrictive covenants make the bonds safer in the eyes of investors.
 
-Restrictive covenants can also apply to real estate deals, where they include such reasonable provisions as not allowing pets or renovations without approval from the neighbors or community association. They can also place more-onerous restrictions on buyers, such as the number of tenants who can live in a property or even the timing of holiday decoration setup and removal. [These covenants are particularly prevalent in planned communities with homeowner’s associations](https://www.investopedia.com/articles/mortgages-real-estate/08/homeowners-associations-tips.asp). Payments received for the release of restrictive covenants of investment properties are treated as [capital gains](https://www.investopedia.com/terms/c/capitalgain.asp).
+Restrictive covenants can also apply to real estate deals, where they include such reasonable provisions as not allowing pets or renovations without approval from the neighbors or community association. They can also place more-onerous restrictions on buyers, such as the number of tenants who can live in a property or even the timing of holiday decoration setup and removal. [[These covenants are particularly prevalent in planned communities with homeowner’s associations]](https://www.investopedia.com/articles/mortgages-real-estate/08/homeowners-associations-tips.asp). Payments received for the release of restrictive covenants of investment properties are treated as [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp).
 
 ## Examples of Restrictive Covenants in Real Estate
 

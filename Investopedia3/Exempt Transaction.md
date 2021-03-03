@@ -18,7 +18,7 @@ Exempt Transaction
 
 An exempt transaction is a type of securities transaction where a business does not need to file registrations with any regulatory bodies, provided the number of securities involved is relatively minor compared to the scope of the issuer's operations and that no new securities are being issued. Exempt securities are the instruments used that the government backs, which have tax-exempt status.
 
-An exempt transaction is a securities exchange that would otherwise have to register with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) but does not because of the nature of the transaction in question.
+An exempt transaction is a securities exchange that would otherwise have to register with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) but does not because of the nature of the transaction in question.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Exempt transactions cut down the amount of paperwork needed for relatively minor
 
 ## Types of Exempt Transactions
 
-A private placement or [Reg D](https://www.investopedia.com/terms/r/regulationd.asp) offering is a type of exempt transaction in which the securities are not offered to the public, but are instead sold privately to an accredited investor. According to the SEC, an accredited investor can be:
+A private placement or [[Reg D]](https://www.investopedia.com/terms/r/regulationd.asp) offering is a type of exempt transaction in which the securities are not offered to the public, but are instead sold privately to an accredited investor. According to the SEC, an accredited investor can be:
 
 -   An insurance company, bank, business development company, small business investment company, or registered investment company
 -   An employee benefit plan administered by a bank registered investment company, or insurance company
@@ -43,7 +43,7 @@ A private placement or [Reg D](https://www.investopedia.com/terms/r/regulationd.
 -   A general partner, executive officer, or director of the company selling the securities
 -   A trust with assets of at least $5 million, as long as it has not been formed just to buy the securities in question
 
-Other types of exempt transactions include [Reg A](https://www.investopedia.com/terms/r/regulationa.asp) offerings, also known as small business company offerings, which permit the issuing company to raise no more than $5 million in 12 months. This allows smaller companies to access securities markets to raise capital. Rule 147 offerings, or intrastate offerings, are also exempt. Transactions with financial institutions, fiduciaries, and insurance underwriters may be considered exempt. Unsolicited orders, which are those executed through a broker at the request of his or her client, are also considered exempt.
+Other types of exempt transactions include [[Reg A]](https://www.investopedia.com/terms/r/regulationa.asp) offerings, also known as small business company offerings, which permit the issuing company to raise no more than $5 million in 12 months. This allows smaller companies to access securities markets to raise capital. Rule 147 offerings, or intrastate offerings, are also exempt. Transactions with financial institutions, fiduciaries, and insurance underwriters may be considered exempt. Unsolicited orders, which are those executed through a broker at the request of his or her client, are also considered exempt.
 
 Even with exempt transactions, investors and companies are responsible for any misleading or false statements.
 

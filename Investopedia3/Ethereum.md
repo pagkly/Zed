@@ -30,7 +30,7 @@ Launched in 2015, Ethereum is an open-source, blockchain-based, decentralized so
 
 ## Understanding Ethereum
 
-The applications run on Ethereum are run on a platform-specific cryptographic token, ether. During 2014, Ethereum had launched a pre-sale for ether which had received an overwhelming response. Ether is like a vehicle for moving around on the Ethereum platform and is mostly sought by developers looking to develop and run applications inside Ethereum. Ether is used broadly for two purposes: it is traded as a digital currency exchange like other [cryptocurrencies](https://www.investopedia.com/terms/c/cryptocurrency.asp), and it is used inside Ethereum to run applications and even to monetize work.
+The applications run on Ethereum are run on a platform-specific cryptographic token, ether. During 2014, Ethereum had launched a pre-sale for ether which had received an overwhelming response. Ether is like a vehicle for moving around on the Ethereum platform and is mostly sought by developers looking to develop and run applications inside Ethereum. Ether is used broadly for two purposes: it is traded as a digital currency exchange like other [[cryptocurrencies]](https://www.investopedia.com/terms/c/cryptocurrency.asp), and it is used inside Ethereum to run applications and even to monetize work.
 
 According to Ethereum, it can be used to “codify, decentralize, secure, and trade just about anything.” One of the big projects around Ethereum is Microsoft’s partnership with ConsenSys which offers “Ethereum Blockchain as a Service (EBaaS) on Microsoft Azure so Enterprise clients and developers can have a single click cloud-based blockchain developer environment.”
 

@@ -16,7 +16,7 @@ author: James Chen
 UPREIT Definition
 ## What Is an UPREIT?
 
-UPREIT means umbrella partnership real estate investment trust. An UPREIT is a unique REIT structure that allows property owners to exchange their property for share ownership in the UPREIT. However, UPREITs are generally subject to [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp) (IRC) Section 721 exchanges.
+UPREIT means umbrella partnership real estate investment trust. An UPREIT is a unique REIT structure that allows property owners to exchange their property for share ownership in the UPREIT. However, UPREITs are generally subject to [[Internal Revenue Code]](https://www.investopedia.com/terms/i/internal-revenue-code.asp) (IRC) Section 721 exchanges.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ UPREIT means umbrella partnership real estate investment trust. An UPREIT is a u
 
 [Real estate investment trusts](https://www.investopedia.com/terms/r/reit.asp) (REITs) were introduced by Dwight D. Eisenhower as a type of alternative real estate mutual fund. REITs are created as a type of real estate portfolio that includes real estate properties and real estate financing capital. REITs are an entity that allows investors to make investment contributions for equity units or shares of the business. 
 
-As REITs have evolved in the market, some alternative structures have been developed to provide for different types of investors. The UPREIT is one such structure, primarily known for its allowance of property contributions in exchange for share ownership. The [DownREIT](https://www.investopedia.com/terms/d/downreit.asp) and some other alternatives have also been created as offshoots.
+As REITs have evolved in the market, some alternative structures have been developed to provide for different types of investors. The UPREIT is one such structure, primarily known for its allowance of property contributions in exchange for share ownership. The [[DownREIT]](https://www.investopedia.com/terms/d/downreit.asp) and some other alternatives have also been created as offshoots.
 
 In their formation, REITs can choose to take on any type of business structure. Publicly traded REITs will be structured as corporations. Private REITs will generally choose to be structured as a trust or association though they may also choose other statuses. Like most non-corporations, private entities also have the option to be taxed as a corporation.
 
-What is primarily important for any REIT is that they meet the requirements of IRC Title 26, Sections 856-859. When meeting these requirements, a REIT can pass through all of its income to its shareholders. As such, the pass-through income is considered a deduction and the REIT pays very little in taxes. The main requirement is that greater than 90% of the business pertains to [real estate assets](https://www.investopedia.com/terms/r/realasset.asp).
+What is primarily important for any REIT is that they meet the requirements of IRC Title 26, Sections 856-859. When meeting these requirements, a REIT can pass through all of its income to its shareholders. As such, the pass-through income is considered a deduction and the REIT pays very little in taxes. The main requirement is that greater than 90% of the business pertains to [[real estate assets]](https://www.investopedia.com/terms/r/realasset.asp).
 
 ## Special Considerations 
 
@@ -56,7 +56,7 @@ An UPREIT is a REIT under all standard accounting and tax guidelines. UPREITs we
 
 Most REITs will focus on a specific segment of the real estate market, though the guiding standards only dictate that real estate property and associated financing must make up greater than 90% of the business. UPREITs will typically follow the same investing strategy, focusing on a targeted real estate niche.
 
-Section 721 provides guiding standards for the release of shareholder units in exchange for property. Section 721 can be an alternative to IRC Section 1031 exchanges. [Section 1031](https://www.investopedia.com/terms/s/section1031.asp) exchanges allow a property owner to sell their property and invest the proceeds in a like-kind exchange to avoid taxes. 
+Section 721 provides guiding standards for the release of shareholder units in exchange for property. Section 721 can be an alternative to IRC Section 1031 exchanges. [[Section 1031]](https://www.investopedia.com/terms/s/section1031.asp) exchanges allow a property owner to sell their property and invest the proceeds in a like-kind exchange to avoid taxes. 
 
 Section 1031 exchanges are not allowed in UPREITs however because they require like-kind exchanges and do not allow a property to share ownership exchanges. Therefore, the Section 721 exchange into an UPREIT can be attractive. Both 721 and 1031 exchanges allow the property owner to defer taxes.
 

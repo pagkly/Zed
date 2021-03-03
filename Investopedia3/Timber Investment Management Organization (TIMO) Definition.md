@@ -16,9 +16,9 @@ author: James Chen
 Timber Investment Management Organization (TIMO) Definition
 ## What Is a Timber Investment Management Organization?
 
-A Timber Investment Management Organization (TIMO) is a management group that aids institutional investors in managing their [timberland investment](https://www.investopedia.com/terms/t/timberlandinvestment.asp) portfolios. A TIMO acts as a broker for institutional clients to find, analyze and acquire investment properties that would best suit their clients.
+A Timber Investment Management Organization (TIMO) is a management group that aids institutional investors in managing their [[timberland investment]](https://www.investopedia.com/terms/t/timberlandinvestment.asp) portfolios. A TIMO acts as a broker for institutional clients to find, analyze and acquire investment properties that would best suit their clients.
 
-Similar to some [REITs](https://www.investopedia.com/terms/r/reit.asp), once an [investment property](https://www.investopedia.com/terms/i/investment-property.asp) is chosen, the TIMO is given the responsibility of actively managing the timberland to achieve adequate returns for the investors.
+Similar to some [[REITs]](https://www.investopedia.com/terms/r/reit.asp), once an [[investment property]](https://www.investopedia.com/terms/i/investment-property.asp) is chosen, the TIMO is given the responsibility of actively managing the timberland to achieve adequate returns for the investors.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Similar to some [REITs](https://www.investopedia.com/terms/r/reit.asp), once an 
 
 ## Understanding Timber Investment Management Organizations
 
-TIMOs developed in the 1970s after Congress passed legislation called the Employee Retirement Income Security Act, which encouraged [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) to diversify their portfolios. Before the legislation, investment in timberland properties was made chiefly by both large and small firms in the forestry industry. By 2007, a [study](https://www.rliland.com/the-basics-of-timberland-investing) by the Realtors Land Institute (RLI) showed that approximately $60 billion in land was managed by TIMOs.
+TIMOs developed in the 1970s after Congress passed legislation called the Employee Retirement Income Security Act, which encouraged [[institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp) to diversify their portfolios. Before the legislation, investment in timberland properties was made chiefly by both large and small firms in the forestry industry. By 2007, a [[study]](https://www.rliland.com/the-basics-of-timberland-investing) by the Realtors Land Institute (RLI) showed that approximately $60 billion in land was managed by TIMOs.
 
 Initiall,y TIMOs were viewed positively by forest conservationists, who felt separating the owners of forest lands from the wood mills who use the lumber was a good idea. Later, conservationists came to understand the TIMOs were not looking to maximize conservation of America's forest lands. Instead, TIMOs are focused on maximizing the financial return for investors. According to a [study](https://www.pinchot.org/files/Binkley.DistinguishedLecture.2007.pdf) published by the Pinchot Institute for Conservation, private forest lands are being converted for development at a rate of 6,000 acres per day.
 
@@ -36,7 +36,7 @@ Forisk Consulting [tracks](http://forisk.com/blog/2015/05/14/forisk-forecast-tra
 
 ## Why Invest in Timberland?
 
-According to RLI, timberland returns have compared favorably with stocks but with much less risk and volatility. Others say timberland returns have varied over time as the industry has matured. Returns were negative for a year after the financial crisis of 2008, but have since been increasing. U.S. timberland investment performance is measured by the [NCREIF Timberland Property Index](https://www.ncreif.org/data-products/timberland/). According to NCREIF, investment returns from U.S. timberland in 2017 was just 3.63% compared to [21.83%](https://ycharts.com/indicators/sandp_500_total_return_annual) for the S&P 500 equity index in the same period. One year's performance is not enough to accurately measure long-term investment performance, but this data serves to demonstrate how annual returns differ for various asset classes.
+According to RLI, timberland returns have compared favorably with stocks but with much less risk and volatility. Others say timberland returns have varied over time as the industry has matured. Returns were negative for a year after the financial crisis of 2008, but have since been increasing. U.S. timberland investment performance is measured by the [[NCREIF Timberland Property Index]](https://www.ncreif.org/data-products/timberland/). According to NCREIF, investment returns from U.S. timberland in 2017 was just 3.63% compared to [21.83%](https://ycharts.com/indicators/sandp_500_total_return_annual) for the S&P 500 equity index in the same period. One year's performance is not enough to accurately measure long-term investment performance, but this data serves to demonstrate how annual returns differ for various asset classes.
 
 It is true that TIMOs can help institutional investors diversify their portfolios into U.S. timberlands, but such real estate investments are probably best used as part of a well diversified portfolio with multiple asset classes, such as stocks, bonds and commodities.
 

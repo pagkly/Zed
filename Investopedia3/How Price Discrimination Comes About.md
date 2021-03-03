@@ -28,7 +28,7 @@ Price discrimination is a selling strategy that charges customers different pric
 
 Price discrimination is practiced based on the seller's belief that customers in certain groups can be asked to pay more or less based on certain demographics or on how they value the product or service in question.
 
-Price discrimination is most valuable when the profit that is earned as a result of separating the markets is greater than the profit that is earned as a result of keeping the markets combined. Whether price discrimination works and for how long the various groups are willing to pay different prices for the same product depends on the relative elasticities of demand in the sub-markets. Consumers in a relatively [inelastic](https://www.investopedia.com/terms/e/inelastic.asp) submarket pay a higher price, while those in a relatively [elastic](https://www.investopedia.com/terms/e/elastic.asp) sub-market pay a lower price.
+Price discrimination is most valuable when the profit that is earned as a result of separating the markets is greater than the profit that is earned as a result of keeping the markets combined. Whether price discrimination works and for how long the various groups are willing to pay different prices for the same product depends on the relative elasticities of demand in the sub-markets. Consumers in a relatively [[inelastic]](https://www.investopedia.com/terms/e/inelastic.asp) submarket pay a higher price, while those in a relatively [[elastic]](https://www.investopedia.com/terms/e/elastic.asp) sub-market pay a lower price.
 
 Price discrimination charges customers different prices for the same products based on a bias toward groups of people with certain characteristics—such as educators versus the general public, domestic users versus international users, or adults versus senior citizens.
 
@@ -36,7 +36,7 @@ Price discrimination charges customers different prices for the same products ba
 
 With price discrimination, the company looking to make the sales identifies different market segments, such as domestic and industrial users, with different price elasticities. Markets must be kept separate by time, physical distance, and nature of use.
 
-For example, Microsoft Office Schools edition is available for a lower price to educational institutions than to other users. The markets cannot overlap so that consumers who purchase at a lower price in the elastic sub-market could resell at a higher price in the inelastic sub-market. The company must also have monopoly power to make [price discrimination](https://www.investopedia.com/terms/d/discriminating-monopoly.asp) more effective.
+For example, Microsoft Office Schools edition is available for a lower price to educational institutions than to other users. The markets cannot overlap so that consumers who purchase at a lower price in the elastic sub-market could resell at a higher price in the inelastic sub-market. The company must also have monopoly power to make [[price discrimination]](https://www.investopedia.com/terms/d/discriminating-monopoly.asp) more effective.
 
 ## Types of Price Discrimination
 
@@ -56,6 +56,6 @@ Third-degree price discrimination occurs when a company charges a different pric
 
 ## Examples of Price Discrimination
 
-Many industries, such as the airline industry, the arts and entertainment industry, and the pharmaceutical industry, use price discrimination strategies. Examples of price discrimination include issuing coupons, applying specific discounts (e.g., age discounts), and creating loyalty programs. One example of price discrimination can be seen in the [airline industry](https://www.investopedia.com/articles/active-trading/051415/how-value-airline-stocks.asp). Consumers buying airline tickets several months in advance typically pay less than consumers purchasing at the last minute. When demand for a particular flight is high, airlines raise ticket prices in response.
+Many industries, such as the airline industry, the arts and entertainment industry, and the pharmaceutical industry, use price discrimination strategies. Examples of price discrimination include issuing coupons, applying specific discounts (e.g., age discounts), and creating loyalty programs. One example of price discrimination can be seen in the [[airline industry]](https://www.investopedia.com/articles/active-trading/051415/how-value-airline-stocks.asp). Consumers buying airline tickets several months in advance typically pay less than consumers purchasing at the last minute. When demand for a particular flight is high, airlines raise ticket prices in response.
 
 By contrast, when tickets for a flight are not selling well, the airline reduces the cost of available tickets to try to generate sales. Because many passengers prefer flying home late on Sunday, those flights tend to be more expensive than flights leaving early Sunday morning. Airline passengers typically pay more for additional legroom too.

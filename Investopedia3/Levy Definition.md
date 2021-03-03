@@ -32,7 +32,7 @@ A levy is different from a lien because a levy takes the property to satisfy the
 
 ### Tax Levy
 
-The [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp) (IRC) authorizes levies to collect delinquent tax payments to the federal government. However, certain procedures must be followed and requirements met before enforcing a levy. In the U.S., for example, the IRS must first assess the tax and send a Notice and Demand for Payment (a tax bill) to an individual owing federal taxes.1 5
+The [[Internal Revenue Code]](https://www.investopedia.com/terms/i/internal-revenue-code.asp) (IRC) authorizes levies to collect delinquent tax payments to the federal government. However, certain procedures must be followed and requirements met before enforcing a levy. In the U.S., for example, the IRS must first assess the tax and send a Notice and Demand for Payment (a tax bill) to an individual owing federal taxes.1 5
 
 If the individual still neglects or refuses to pay the tax, the IRS will send a Final Notice of Intent to Levy and Notice of Your Right to a Hearing (a levy notice). This is typically sent at least 30 days prior to the levy and can be given in person, dropped at the tax debtor's home or place of business, or mailed to the individual's last known address.1
 
@@ -40,9 +40,9 @@ In the U.S., the IRS has the authority to levy an individual's property to satis
 
 Intangible property and property belonging to the individual that is held by someone else can also be levied. This includes wages, retirement accounts, dividends, bank accounts, licenses, rental income, accounts receivables, commissions or the cash loan value of a life insurance policy.1
 
-As a measure of last resort, the taxing authority may impose a [federal tax lien](https://www.investopedia.com/terms/f/federal-tax-lien.asp) to inform other creditors of the taxing authority’s legal right to a taxpayer’s assets and property. A tax lien goes up on the debtor’s [credit report](https://www.investopedia.com/terms/c/creditreport.asp) and remains there for up to15 years if it remains unpaid.6 If the taxes remain unpaid, the tax authority can use a tax levy to legally seize the taxpayer's assets (such as bank accounts, investment accounts, automobiles, and real property) to collect the money it is owed. The IRS is also authorized to [garnish](https://www.investopedia.com/terms/g/garnishment.asp) the taxpayer’s wages until the debt is paid off.7 8
+As a measure of last resort, the taxing authority may impose a [[federal tax lien]](https://www.investopedia.com/terms/f/federal-tax-lien.asp) to inform other creditors of the taxing authority’s legal right to a taxpayer’s assets and property. A tax lien goes up on the debtor’s [[credit report]](https://www.investopedia.com/terms/c/creditreport.asp) and remains there for up to15 years if it remains unpaid.6 If the taxes remain unpaid, the tax authority can use a tax levy to legally seize the taxpayer's assets (such as bank accounts, investment accounts, automobiles, and real property) to collect the money it is owed. The IRS is also authorized to [[garnish]](https://www.investopedia.com/terms/g/garnishment.asp) the taxpayer’s wages until the debt is paid off.7 8
 
-A state tax levy applies to unpaid state taxes. Note that the IRS can also levy a debtor’s state [tax refund](https://www.investopedia.com/terms/t/tax-refund.asp), in which case, he may receive a Notice of Levy on Your State Tax Refund and a Notice of Your Right to Hearing after the levy.1
+A state tax levy applies to unpaid state taxes. Note that the IRS can also levy a debtor’s state [[tax refund]](https://www.investopedia.com/terms/t/tax-refund.asp), in which case, he may receive a Notice of Levy on Your State Tax Refund and a Notice of Your Right to Hearing after the levy.1
 
 For federal contractors, the IRS does not need to provide any notification of the levy until after the tax levy is applied.9
 
@@ -62,7 +62,7 @@ The IRS provides sample case scenarios for levies and what you can do.
 
 ### How to Avoid a Levy
 
-The best way to avoid a levy is prevention: file your returns on time and pay your taxes when they are due. If you need more time to file, you can [request an extension](https://www.irs.gov/forms-pubs/extension-of-time-to-file-your-tax-return), and if you can't make a full payment, contact the IRS and arrange to pay the balance in installments.12
+The best way to avoid a levy is prevention: file your returns on time and pay your taxes when they are due. If you need more time to file, you can [[request an extension]](https://www.irs.gov/forms-pubs/extension-of-time-to-file-your-tax-return), and if you can't make a full payment, contact the IRS and arrange to pay the balance in installments.12
 
 ### Don't Ignore Tax Levy Notices
 

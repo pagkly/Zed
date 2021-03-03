@@ -18,11 +18,11 @@ Good Customer Service Matters
 
 Customer service is the direct one-on-one interaction between a consumer making a purchase and a representative of the company that is selling it. Most retailers see this direct interaction as a critical factor in ensuring buyer satisfaction and encouraging repeat business.
 
-Even today, when much of customer care is handled by automated self-service systems, the option to speak to a human being is seen as necessary to most businesses. It is a key aspect of [servant-leadership](https://www.investopedia.com/terms/s/servant-leadership.asp).
+Even today, when much of customer care is handled by automated self-service systems, the option to speak to a human being is seen as necessary to most businesses. It is a key aspect of [[servant-leadership]](https://www.investopedia.com/terms/s/servant-leadership.asp).
 
 ## Understanding Customer Service
 
-Behind the scenes at most companies are people who never meet or greet the people who buy their products. The [customer service representatives](https://www.investopedia.com/articles/financial-advisors/110315/considering-career-client-service-associate.asp) are the ones who have direct contact with the buyers. The buyers' perceptions of the company and the product are shaped in part by their experience in dealing with that person.
+Behind the scenes at most companies are people who never meet or greet the people who buy their products. The [[customer service representatives]](https://www.investopedia.com/articles/financial-advisors/110315/considering-career-client-service-associate.asp) are the ones who have direct contact with the buyers. The buyers' perceptions of the company and the product are shaped in part by their experience in dealing with that person.
 
 ### Key Takeaways
 
@@ -36,9 +36,9 @@ For this reason, many companies work hard to increase their customer satisfactio
 
 For decades, businesses in many industries have sought to reduce personnel costs by automating their processes to the greatest extent possible.
 
-In [customer service](https://www.investopedia.com/articles/financialcareers/07/multi-service.asp), that has led many companies to implement systems online and by phone that answers as many questions or resolve as many problems as they can without a human presence.
+In [[customer service]](https://www.investopedia.com/articles/financialcareers/07/multi-service.asp), that has led many companies to implement systems online and by phone that answers as many questions or resolve as many problems as they can without a human presence.
 
-But in the end, there are customer service issues for which human interaction is indispensable, creating a [competitive advantage](https://www.investopedia.com/terms/c/competitive_advantage.asp).
+But in the end, there are customer service issues for which human interaction is indispensable, creating a [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp).
 
 Amazon is an example of a company that is doing all it can to automate a vast and complex operation. It has to, given that it delivered five billion packages to customers' doors in 2018, and that's just the purchases made by Prime members.
 
@@ -62,7 +62,7 @@ The average annual salary for a customer service representative in 2018, accordi
 
 ### Customer Services Job Requirements
 
-Much is expected of customer service representatives. Yet the pay for the job is low. The average salary in 2018 was about $33,750, according to the [Bureau of Labor Statistics](https://www.investopedia.com/articles/04/092204.asp).
+Much is expected of customer service representatives. Yet the pay for the job is low. The average salary in 2018 was about $33,750, according to the [[Bureau of Labor Statistics]](https://www.investopedia.com/articles/04/092204.asp).
 
 Some of the job expectations:
 
@@ -81,10 +81,10 @@ Poor management can doom any customer service operation. A couple of important t
 
 ### Using Mobile Services Effectively
 
-In recent years, studies of customer service have centered on creating the perfect [online experience](https://www.investopedia.com/articles/pf/11/benefits-and-drawbacks-of-internet-banks.asp).
+In recent years, studies of customer service have centered on creating the perfect [[online experience]](https://www.investopedia.com/articles/pf/11/benefits-and-drawbacks-of-internet-banks.asp).
 
 The first and most difficult factor is the multiplicity of channels. Today's customers expect to get service through whatever app or device they happen to be using at the moment. That may be a mobile device or a laptop, a social media site, text app, or live chat.
 
-Once again, the focus has been on packaging how-to content and related resources that are designed for self-service. Increasingly [sophisticated data analytics](https://www.investopedia.com/terms/p/pareto-analysis.asp) also are being used to identify dissatisfied or low-engagement customers.
+Once again, the focus has been on packaging how-to content and related resources that are designed for self-service. Increasingly [[sophisticated data analytics]](https://www.investopedia.com/terms/p/pareto-analysis.asp) also are being used to identify dissatisfied or low-engagement customers.
 
 But, as always, the most effective customer service apps need to incorporate human contact, if only as a last resort.

@@ -16,7 +16,7 @@ author: Adam Hayes
 What Everyone Should Know About Ltd. (Limited) Companies
 ## What Is Ltd. (Limited)?
 
-Ltd. is a standard abbreviation for "limited," a form of corporate structure available in countries including the U.K., Ireland, and Canada. The term appears as a suffix that follows the company name, indicating that it is a private [limited company](https://www.investopedia.com/terms/l/limited_company.asp). In a limited company, shareholders' liability is limited to the capital they originally invested. If such a company becomes [insolvent](https://www.investopedia.com/terms/i/insolvency.asp), the [shareholders'](https://www.investopedia.com/terms/s/shareholder.asp) personal assets remain protected.
+Ltd. is a standard abbreviation for "limited," a form of corporate structure available in countries including the U.K., Ireland, and Canada. The term appears as a suffix that follows the company name, indicating that it is a private [[limited company]](https://www.investopedia.com/terms/l/limited_company.asp). In a limited company, shareholders' liability is limited to the capital they originally invested. If such a company becomes [[insolvent]](https://www.investopedia.com/terms/i/insolvency.asp), the [[shareholders']](https://www.investopedia.com/terms/s/shareholder.asp) personal assets remain protected.
 
 Limited companies are an organizational form that features limited liability.
 
@@ -24,7 +24,7 @@ Limited companies are an organizational form that features limited liability.
 
 A limited company is its own legal entity. A private limited company has one or more members, also called shareholders or owners, who buy in through private sales. Directors are company employees who keep up with all administrative tasks and tax filings but do not need to be shareholders.
 
-The company’s finances are separate from the owners’ and are taxed separately. The [company](https://www.investopedia.com/terms/c/company.asp) owns all profits and pays taxes on them, distributes a portion to shareholders as dividends and retains the rest as [working capital](https://www.investopedia.com/terms/w/workingcapital.asp). A director may withdraw funds only for a salary or dividend payment or loan.
+The company’s finances are separate from the owners’ and are taxed separately. The [[company]](https://www.investopedia.com/terms/c/company.asp) owns all profits and pays taxes on them, distributes a portion to shareholders as dividends and retains the rest as [[working capital]](https://www.investopedia.com/terms/w/workingcapital.asp). A director may withdraw funds only for a salary or dividend payment or loan.
 
 By setting up a private limited company, it becomes separate from the people who run it. Any profits made by the company can be pocketed after taxes are paid. The corporation's finances must be kept separate from any personal ones in order to avoid confusion.
 
@@ -45,7 +45,7 @@ For anyone in the U.K., there are several things you'll need in order to set up 
 -   A business name and address
 -   At least one director and at least one shareholder
 -   A memorandum and articles of association (an agreement to create the company and the rules in writing)
--   Names of people who have significant control over the company (people with more than 25 percent of the shares or [voting rights](https://www.investopedia.com/terms/v/votingright.asp))
+-   Names of people who have significant control over the company (people with more than 25 percent of the shares or [[voting rights]](https://www.investopedia.com/terms/v/votingright.asp))
 
 Once you have these together, you can then register as a private limited company. 
 
@@ -63,7 +63,7 @@ Many countries differentiate between public and private limited companies. For e
 
 Because the number of shareholders is unlimited, liability is spread among multiple owners rather than just one. A shareholder loses only as much as he invested if the company becomes insolvent. For example, say a private limited company issues 100 shares valued at $150 each. Shareholder A and Shareholder B own 50 shares each and paid in full for 25 shares each. If the company becomes insolvent, the maximum amount Shareholder A and Shareholder B each pay is $3,750, the value of the remaining 25 unpaid shares each member holds.
 
-A private limited company has greater tax advantages than a [sole proprietorship](https://www.investopedia.com/terms/s/soleproprietorship.asp), partnership, or similar organization. The company exists into perpetuity even if an owner sells or transfers his shares, securing jobs, and resources for the community. Because a private limited company produces goods at a lower cost and increases profits, financial institutions loan the company more money for operations and expansions and the company’s annual revenue increases.
+A private limited company has greater tax advantages than a [[sole proprietorship]](https://www.investopedia.com/terms/s/soleproprietorship.asp), partnership, or similar organization. The company exists into perpetuity even if an owner sells or transfers his shares, securing jobs, and resources for the community. Because a private limited company produces goods at a lower cost and increases profits, financial institutions loan the company more money for operations and expansions and the company’s annual revenue increases.
 
 ## Disadvantages of a Private Limited Company
 

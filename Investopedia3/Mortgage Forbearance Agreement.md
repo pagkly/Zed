@@ -16,9 +16,9 @@ author:  Julia Kagan
 Mortgage Forbearance Agreement
 ## What Is a Mortgage Forbearance Agreement?
 
-A mortgage [forbearance](https://www.investopedia.com/terms/f/forbearance.asp) agreement is an agreement made between a [mortgage lender](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/) and a [delinquent](https://www.investopedia.com/terms/d/delinquent.asp) borrower. In this agreement, a lender agrees not to exercise its legal right to foreclose on a mortgage, and the borrower agrees to a mortgage plan that will—over a certain time period—bring the borrower current on their payments.
+A mortgage [[forbearance]](https://www.investopedia.com/terms/f/forbearance.asp) agreement is an agreement made between a [[mortgage lender]](https://www.investopedia.com/mortgage/mortgage-guide/mortgage-lenders/) and a [[delinquent]](https://www.investopedia.com/terms/d/delinquent.asp) borrower. In this agreement, a lender agrees not to exercise its legal right to foreclose on a mortgage, and the borrower agrees to a mortgage plan that will—over a certain time period—bring the borrower current on their payments.
 
-The coronavirus outbreak has triggered [forbearance help from Fannie Mae and Freddie Mac](https://www.investopedia.com/articles/economics/08/fannie-mae-freddie-mac-credit-crisis.asp). Between these two institutions, they guarantee more than two-thirds of all mortgages and 95% of mortgage-backed securities.
+The coronavirus outbreak has triggered [[forbearance help from Fannie Mae and Freddie Mac]](https://www.investopedia.com/articles/economics/08/fannie-mae-freddie-mac-credit-crisis.asp). Between these two institutions, they guarantee more than two-thirds of all mortgages and 95% of mortgage-backed securities.
 
 ### Key Takeaways
 
@@ -29,11 +29,11 @@ The coronavirus outbreak has triggered [forbearance help from Fannie Mae and Fre
 
 ## How a Mortgage Forbearance Agreement Works
 
-A mortgage forbearance agreement is made [when a borrower has a difficult time meeting their payments](https://www.investopedia.com/articles/personal-finance/110415/7-solutions-homeowners-struggling-their-mortgage.asp). With the agreement, the lender agrees to reduce—or even suspend entirely—mortgage payments for a certain period of time. They also agree not to initiate a [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp) during the forbearance period.
+A mortgage forbearance agreement is made [[when a borrower has a difficult time meeting their payments]](https://www.investopedia.com/articles/personal-finance/110415/7-solutions-homeowners-struggling-their-mortgage.asp). With the agreement, the lender agrees to reduce—or even suspend entirely—mortgage payments for a certain period of time. They also agree not to initiate a [[foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp) during the forbearance period.
 
 The borrower must resume the full payment at the end of the period, plus pay an additional amount to get current on the missed payments, including principal, interest, taxes, and insurance. The terms of the agreement will vary among lenders and situations. 
 
-A mortgage forbearance agreement is not a long-term solution for delinquent borrowers. Rather, it is designed for borrowers who have temporary financial problems caused by unforeseen problems, such as temporary unemployment or health issues. Borrowers with more-fundamental financial problems––such as having chosen an [adjustable-rate mortgage](https://www.investopedia.com/terms/a/arm.asp) on which the interest rate has reset to a level that makes the monthly payments unaffordable––must usually seek other remedies.
+A mortgage forbearance agreement is not a long-term solution for delinquent borrowers. Rather, it is designed for borrowers who have temporary financial problems caused by unforeseen problems, such as temporary unemployment or health issues. Borrowers with more-fundamental financial problems––such as having chosen an [[adjustable-rate mortgage]](https://www.investopedia.com/terms/a/arm.asp) on which the interest rate has reset to a level that makes the monthly payments unaffordable––must usually seek other remedies.
 
 A forbearance agreement may allow a borrower to avoid foreclosure until their financial situation gets better. In some cases, the lender may be able to extend the forbearance period if the borrower’s hardship is not resolved by the original agreed-upon end date.
 
@@ -41,7 +41,7 @@ A loan modification is meant to be a permanent solution to unaffordable monthly 
 
 ## Mortgage Forbearance Agreements vs. Loan Modifications
 
-While a mortgage forbearance agreement provides short-term relief for borrowers, a [loan modification agreement](https://www.investopedia.com/terms/l/loan_modification.asp) is a permanent solution to unaffordable monthly payments. With a loan modification, the lender can work with the borrower to do a few things—such as reduce the interest rate, convert from a variable interest rate to a [fixed interest rate](https://www.investopedia.com/terms/f/fixedinterestrate.asp), or extend the length of the loan term—in order to reduce the borrower’s monthly payments.
+While a mortgage forbearance agreement provides short-term relief for borrowers, a [[loan modification agreement]](https://www.investopedia.com/terms/l/loan_modification.asp) is a permanent solution to unaffordable monthly payments. With a loan modification, the lender can work with the borrower to do a few things—such as reduce the interest rate, convert from a variable interest rate to a [[fixed interest rate]](https://www.investopedia.com/terms/f/fixedinterestrate.asp), or extend the length of the loan term—in order to reduce the borrower’s monthly payments.
 
 In order to be eligible for a loan modification, borrowers must show that they cannot make the current mortgage payments because of financial hardship, demonstrate that they can afford the new payment amount by completing a trial period, and provide all required documentation to the lender. The documentation the lender requires varies by lender, but it may include a financial statement, proof of income, tax returns, bank statements, and a hardship statement.
 

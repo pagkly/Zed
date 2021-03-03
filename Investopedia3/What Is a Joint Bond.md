@@ -16,13 +16,13 @@ author: Carol Kopp
 What Is a Joint Bond?
 ## What Is a Joint Bond?
 
-A joint bond is sold with a guarantee of the payment of principal and interest by at least two parties. In the case of default by the issuer, the [bondholders](https://www.investopedia.com/terms/b/bondholder.asp) have the right to claim repayment by any and all of all the issuing institutions, corporations, or individuals. This shared responsibility reduces the risk to the investor but also generally means a lower rate of [return on the investment.](https://www.investopedia.com/terms/r/returnoninvestment.asp)
+A joint bond is sold with a guarantee of the payment of principal and interest by at least two parties. In the case of default by the issuer, the [[bondholders]](https://www.investopedia.com/terms/b/bondholder.asp) have the right to claim repayment by any and all of all the issuing institutions, corporations, or individuals. This shared responsibility reduces the risk to the investor but also generally means a lower rate of [[return on the investment.]](https://www.investopedia.com/terms/r/returnoninvestment.asp)
 
 The joint bond is also known as a joint-and-several bond.
 
 ## Understanding a Joint Bond
 
-A joint bond is most often issued when a corporate [parent company](https://www.investopedia.com/terms/p/parentcompany.asp) is required to guarantee the obligations of a subsidiary business. Such instances are similar to a parent's decision to co-sign a car loan for a child.
+A joint bond is most often issued when a corporate [[parent company]](https://www.investopedia.com/terms/p/parentcompany.asp) is required to guarantee the obligations of a subsidiary business. Such instances are similar to a parent's decision to co-sign a car loan for a child.
 
 ### Key Takeaways
 
@@ -38,9 +38,9 @@ The parent company can step in to act as an additional guarantor on the debt.
 
 ### Federal Home Loan Joint Bonds
 
-Another example of a joint bond issuer is the [Federal Home Loan Bank System](https://www.investopedia.com/terms/f/fhlb.asp) (FHLB). The bank was founded by Congress in 1932 in order to help finance the community banking system. The FHLB Office of Finance issues a joint bond security to fund the 11 Federal Home Loan Banks that make up its regional network. This financing is then passed on to local financial institutions to support lending to home buyers, farmers, and small business owners.
+Another example of a joint bond issuer is the [[Federal Home Loan Bank System]](https://www.investopedia.com/terms/f/fhlb.asp) (FHLB). The bank was founded by Congress in 1932 in order to help finance the community banking system. The FHLB Office of Finance issues a joint bond security to fund the 11 Federal Home Loan Banks that make up its regional network. This financing is then passed on to local financial institutions to support lending to home buyers, farmers, and small business owners.
 
-The Federal Home Loan Bank’s organizational structure of [joint-and-several liability](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) makes it unique among housing-related government-sponsored enterprises and helps it serve as a pillar of the nation’s small business and home mortgage financing systems.
+The Federal Home Loan Bank’s organizational structure of [[joint-and-several liability]](https://www.investopedia.com/terms/j/joint-and-several-liability.asp) makes it unique among housing-related government-sponsored enterprises and helps it serve as a pillar of the nation’s small business and home mortgage financing systems.
 
 ### Lessons From Greece
 

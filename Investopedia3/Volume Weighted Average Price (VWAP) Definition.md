@@ -16,13 +16,13 @@ author: Jason Fernando
 Volume Weighted Average Price (VWAP) Definition
 ## What is the Volume Weighted Average Price (VWAP)?
 
-The volume weighted average price (VWAP) is a [trading](https://www.investopedia.com/articles/trading/11/trading-with-vwap-mvwap.asp) [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) used by traders that gives the average price a security has traded at throughout the day, based on both [volume](https://www.investopedia.com/terms/v/volume.asp) and price. It is important because it provides traders with insight into both the trend and value of a security.
+The volume weighted average price (VWAP) is a [[trading]](https://www.investopedia.com/articles/trading/11/trading-with-vwap-mvwap.asp) [[benchmark]](https://www.investopedia.com/terms/b/benchmark.asp) used by traders that gives the average price a security has traded at throughout the day, based on both [[volume]](https://www.investopedia.com/terms/v/volume.asp) and price. It is important because it provides traders with insight into both the trend and value of a security.
 
 TradingView.
 
 ### Key Takeaways
 
--   The volume weighted average price (VWAP) appears as a single line on intraday charts (1 minute, 15 minute, and so on), similar to how a [moving average](https://www.investopedia.com/terms/m/movingaverage.asp) looks.
+-   The volume weighted average price (VWAP) appears as a single line on intraday charts (1 minute, 15 minute, and so on), similar to how a [[moving average]](https://www.investopedia.com/terms/m/movingaverage.asp) looks.
 -   Retail and professional traders may use the VWAP as part of their trading rules for determining intraday trends.
 
 ## The Formula for the Volume Weighted Average Price (VWAP) is
@@ -37,15 +37,15 @@ VWAP\=∑Price \* Volume∑Volume\\text{VWAP}=\\frac{\\sum\\text{Price \* Volu
 
 Adding the VWAP indicator to a chart will complete all calculations for you. To calculate the VWAP yourself, follow these steps. Assume a 5-minute chart; the calculation is same regardless of what intraday time frame is used.
 
-1.  Find the average price the stock traded at over the first five-minute period of the day. To do this, add the [high, low, and close, then divide by three](https://www.investopedia.com/articles/trading/11/trading-with-vwap-mvwap.asp). Multiply this by the volume for that period. Record the result in a spreadsheet, under column PV.
+1.  Find the average price the stock traded at over the first five-minute period of the day. To do this, add the [[high, low, and close, then divide by three]](https://www.investopedia.com/articles/trading/11/trading-with-vwap-mvwap.asp). Multiply this by the volume for that period. Record the result in a spreadsheet, under column PV.
 2.  Divide PV by the volume for that period. This will give the VWAP value.
 3.  To maintain the VWAP value throughout the day, continue to add the PV value from each period to the prior values. Divide this total by total volume up to that point. To make this easier in a spreadsheet, create columns for cumulative PV and cumulative volume. Both these cumulative values are divided by each other to produce VWAP.
 
 ## What Does Volume Weighted Average Price (VWAP) Tell You?
 
-Large institutional buyers and [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp) use the VWAP ratio to help move into or out of stocks with as small of a market impact as possible. Therefore, when possible, institutions will try to buy below the VWAP, or sell above it. This way their actions push the price back toward the average, instead of away from it.
+Large institutional buyers and [[mutual funds]](https://www.investopedia.com/terms/m/mutualfund.asp) use the VWAP ratio to help move into or out of stocks with as small of a market impact as possible. Therefore, when possible, institutions will try to buy below the VWAP, or sell above it. This way their actions push the price back toward the average, instead of away from it.
 
-Traders may use VWAP as a trend confirmation tool, and build trading rules around it. For example, when the price is above VWAP they may prefer to initiate long positions. When the price is below VWAP they may prefer to initiate [short positions](https://www.investopedia.com/terms/s/short.asp).
+Traders may use VWAP as a trend confirmation tool, and build trading rules around it. For example, when the price is above VWAP they may prefer to initiate long positions. When the price is below VWAP they may prefer to initiate [[short positions]](https://www.investopedia.com/terms/s/short.asp).
 
 ## The Difference Between Volume Weighted Average Price (VWAP) and a Simple Moving Average
 
@@ -53,7 +53,7 @@ On a chart, VWAP and a moving average may look similar. These two indicators are
 
 VWAP is calculating the sum of price multiplied by volume, divided by total volume.
 
-A simple moving average is calculated by summing up [closing prices](https://www.investopedia.com/terms/c/closingprice.asp) over a certain period (say 10), and then dividing it by how many periods there are (10). Volume is not factored in.
+A simple moving average is calculated by summing up [[closing prices]](https://www.investopedia.com/terms/c/closingprice.asp) over a certain period (say 10), and then dividing it by how many periods there are (10). Volume is not factored in.
 
 ## Limitations of Using Volume Weighted Average Price (VWAP)
 
@@ -77,4 +77,4 @@ The VWAP is used by traders who wish to see a smoothed-out indication of a secur
 
 ### What is the difference between the Volume Weighted Average Price (VWAP) and a Simple Moving Average?
 
-Like the VWAP, the [Simple Moving Average](https://www.investopedia.com/terms/s/sma.asp) provides traders with a less volatile view of the recent price trend of a security. Unlike the VWAP, however, the Simple Moving Average does not take into account the level of volume in that security’s trading. This is because the VWAP weights each day’s price change by the amount of volume occurring in that day, whereas the Simple Moving Average implicitly assumes that all trading days have the same level of volume.
+Like the VWAP, the [[Simple Moving Average]](https://www.investopedia.com/terms/s/sma.asp) provides traders with a less volatile view of the recent price trend of a security. Unlike the VWAP, however, the Simple Moving Average does not take into account the level of volume in that security’s trading. This is because the VWAP weights each day’s price change by the amount of volume occurring in that day, whereas the Simple Moving Average implicitly assumes that all trading days have the same level of volume.

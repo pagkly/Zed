@@ -40,11 +40,11 @@ An example of an industry with high legislative risk is the healthcare industry.
 
 Another example comes from Wal-Mart Stores Inc. (WMT). The company outlined certain political risks it faces in its annual 10-K filing with the Securities and Exchange Commission (SEC) under its operating risk section. In its regulatory, compliance, reputational and other risks section, the company outlines the risk associated with legislative, judicial, regulatory and political/economic risks. Risk factors mentioned include
 
--   [Political instability](https://www.investopedia.com/terms/c/countryrisk.asp)
--   Legal and [regulatory constraints](https://www.investopedia.com/terms/r/regulatory_risk.asp)
+-   [[Political instability]](https://www.investopedia.com/terms/c/countryrisk.asp)
+-   Legal and [[regulatory constraints]](https://www.investopedia.com/terms/r/regulatory_risk.asp)
 -   Local product safety and environmental laws
 -   Tax regulations
--   [Local labor laws](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp)
+-   [[Local labor laws]](https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp)
 -   Trade policies
 -   Currency regulations.
 

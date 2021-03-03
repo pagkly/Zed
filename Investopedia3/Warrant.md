@@ -16,11 +16,11 @@ author: James Chen
 Warrant
 ## What is a Warrant?
 
-Warrants are a derivative that give the right, but not the obligation, to buy or sell a security—most commonly an equity—at a certain price before expiration. The price at which the underlying security can be bought or sold is referred to as the exercise price or strike price. An American [warrant](https://www.investopedia.com/trading/warrants-risky-but-high-return-investment-tool/) can be exercised at any time on or before the expiration date, while European warrants can only be exercised on the expiration date. Warrants that give the right to buy a security are known as call warrants; those that give the right to sell a security are known as put warrants. 
+Warrants are a derivative that give the right, but not the obligation, to buy or sell a security—most commonly an equity—at a certain price before expiration. The price at which the underlying security can be bought or sold is referred to as the exercise price or strike price. An American [[warrant]](https://www.investopedia.com/trading/warrants-risky-but-high-return-investment-tool/) can be exercised at any time on or before the expiration date, while European warrants can only be exercised on the expiration date. Warrants that give the right to buy a security are known as call warrants; those that give the right to sell a security are known as put warrants. 
 
 ## How a Warrant Works
 
-Warrants are in many ways similar to options, but a [few key differences distinguish them](https://www.investopedia.com/ask/answers/08/stock-option-warrant.asp). Warrants are generally issued by the company itself, not a third party, and they are traded over-the-counter more often than on an exchange. Investors cannot write warrants like they can options.
+Warrants are in many ways similar to options, but a [[few key differences distinguish them]](https://www.investopedia.com/ask/answers/08/stock-option-warrant.asp). Warrants are generally issued by the company itself, not a third party, and they are traded over-the-counter more often than on an exchange. Investors cannot write warrants like they can options.
 
 ### Key Takeaways
 

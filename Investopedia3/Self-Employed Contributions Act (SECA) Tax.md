@@ -16,7 +16,7 @@ author: Julia Kagan
 Self-Employed Contributions Act (SECA) Tax
 ## What Is the Self-Employed Contributions Act (SECA) Tax?
 
-The Self-Employed Contributions Act (SECA) tax is a levy from the U.S. government on those who work for themselves, rather than for an outside company. It requires self-employed workers to contribute tax equivalent to both the employer and employee portions of the [Federal Insurance Contributions Act (FICA)](https://www.investopedia.com/terms/f/fica.asp) tax, which funds Social Security and Medicare. 1
+The Self-Employed Contributions Act (SECA) tax is a levy from the U.S. government on those who work for themselves, rather than for an outside company. It requires self-employed workers to contribute tax equivalent to both the employer and employee portions of the [[Federal Insurance Contributions Act (FICA)]](https://www.investopedia.com/terms/f/fica.asp) tax, which funds Social Security and Medicare. 1
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ The Medicare tax rate is 2.9% (1.45% for employers plus 1.45% for employees), an
 
 Unless there is a specific agreement in place between countries, expatriates (Americans who live and work abroad) are still expected to pay SECA taxes on earnings that are gained in the process of being self-employed. 5
 
-High-income earners face an additional SECA levy. As a result of the [Affordable Care Act (ACA)](https://www.investopedia.com/articles/personal-finance/020714/new-taxes-under-affordable-care-act.asp), individuals with net income above $200,000 ($250,000 for married couples filing jointly) will be subject to an additional 0.9% Medicare tax. 6
+High-income earners face an additional SECA levy. As a result of the [[Affordable Care Act (ACA)]](https://www.investopedia.com/articles/personal-finance/020714/new-taxes-under-affordable-care-act.asp), individuals with net income above $200,000 ($250,000 for married couples filing jointly) will be subject to an additional 0.9% Medicare tax. 6
 
 ## Deducting the Self-Employed Contributions Act (SECA) Tax
 
@@ -48,4 +48,4 @@ It is important to note that self-employment taxes refer to Social Security and 
 
 ## Paying the Self-Employed Contributions Act (SECA) Tax
 
-Since taxpayers who are self-employed aren't subject to [withholding tax](https://www.investopedia.com/terms/w/withholdingtax.asp), the IRS requires SECA tax to be included in quarterly [estimated payments](https://www.investopedia.com/terms/e/estimated-tax.asp) of income taxes. If self-employed net earnings are less than $400 (or $108.28 from a church or other qualified church-controlled organization exempt from employer Social Security and Medicare taxes), no SECA tax is due, and it is not required to be listed on a tax return. 7 However, if self-employed net earnings are above this minimum, SECA tax must be paid on the entire amount, including the amount under the minimum.
+Since taxpayers who are self-employed aren't subject to [[withholding tax]](https://www.investopedia.com/terms/w/withholdingtax.asp), the IRS requires SECA tax to be included in quarterly [[estimated payments]](https://www.investopedia.com/terms/e/estimated-tax.asp) of income taxes. If self-employed net earnings are less than $400 (or $108.28 from a church or other qualified church-controlled organization exempt from employer Social Security and Medicare taxes), no SECA tax is due, and it is not required to be listed on a tax return. 7 However, if self-employed net earnings are above this minimum, SECA tax must be paid on the entire amount, including the amount under the minimum.

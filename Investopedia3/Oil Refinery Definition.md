@@ -16,9 +16,9 @@ author: James Chen
 Oil Refinery Definition
 ## What Is an Oil Refinery?
 
-An oil refinery is an industrial plant that transforms, or refines [crude oil](https://www.investopedia.com/terms/c/crude-oil.asp) into various usable petroleum products such as diesel, gasoline and heating oils. Oil refineries essentially serve as the second stage in the crude oil production process following the actual extraction of crude oil [up-stream](https://www.investopedia.com/terms/u/upstream.asp), and refinery services are considered to be a [down-stream](https://www.investopedia.com/terms/d/downstream.asp) segment of the oil and gas industry.
+An oil refinery is an industrial plant that transforms, or refines [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) into various usable petroleum products such as diesel, gasoline and heating oils. Oil refineries essentially serve as the second stage in the crude oil production process following the actual extraction of crude oil [[up-stream]](https://www.investopedia.com/terms/u/upstream.asp), and refinery services are considered to be a [[down-stream]](https://www.investopedia.com/terms/d/downstream.asp) segment of the oil and gas industry.
 
-The first step in the refining process is distillation, where crude oil is heated at extreme temperatures to separate the different [hydrocarbons](https://www.investopedia.com/terms/h/hydrocarbon.asp).
+The first step in the refining process is distillation, where crude oil is heated at extreme temperatures to separate the different [[hydrocarbons]](https://www.investopedia.com/terms/h/hydrocarbon.asp).
 
 ### Key Takeaways
 
@@ -32,15 +32,15 @@ Oil refineries serve an important role in the production of transportation and o
 
 In the industry, the refining process is commonly called the "downstream" sector, while raw crude oil production is known as the "upstream" sector. The term downstream is associated with the concept that oil is sent down the product value chain to an oil refinery to be processed into fuel. The downstream stage also includes the actual sale of petroleum products to other businesses, governments or private individuals.
 
-According to the U.S. [Energy Information Administration (EIA)](https://www.investopedia.com/terms/e/energy-information-admin.asp), U.S. refineries produce_—_from a 42-gallon barrel of crude oil_—_19 to 20 gallons of motor gasoline, 11 to 12 gallons of distillate fuel (most of which is sold as diesel) and four gallons of jet fuel.1 More than a dozen other petroleum products are also produced in refineries. Petroleum refineries produce liquids the petrochemical industry uses to make a variety of chemicals and plastics.
+According to the U.S. [[Energy Information Administration (EIA)]](https://www.investopedia.com/terms/e/energy-information-admin.asp), U.S. refineries produce_—_from a 42-gallon barrel of crude oil_—_19 to 20 gallons of motor gasoline, 11 to 12 gallons of distillate fuel (most of which is sold as diesel) and four gallons of jet fuel.1 More than a dozen other petroleum products are also produced in refineries. Petroleum refineries produce liquids the petrochemical industry uses to make a variety of chemicals and plastics.
 
 ## Cracking Crude Oil
 
-An oil refinery runs 24 hours a day, 365 days a year and requires a large number of employees. Refineries come offline or stop working for a few weeks each year to undergo seasonal maintenance and other repair work. A refinery can occupy as much land as several hundred football fields. Famous oil refining companies include the [Koch Pipeline Company](https://www.investopedia.com/insights/companies-owned-koch-brothers/), and many others.
+An oil refinery runs 24 hours a day, 365 days a year and requires a large number of employees. Refineries come offline or stop working for a few weeks each year to undergo seasonal maintenance and other repair work. A refinery can occupy as much land as several hundred football fields. Famous oil refining companies include the [[Koch Pipeline Company]](https://www.investopedia.com/insights/companies-owned-koch-brothers/), and many others.
 
 Crack or crack spread is a trading strategy used in [energy futures](https://www.investopedia.com/articles/optioninvestor/07/energy_market.asp) to establish a refining [margin](https://www.investopedia.com/terms/m/margin.asp). Crack is one primary indicator of oil refining companies' earnings. Crack allows refining companies to [hedge](https://www.investopedia.com/terms/h/hedge.asp) against the risks associated with crude oil and those associated with petroleum products. By simultaneously purchasing crude oil futures and selling petroleum product futures, a trader is attempting to establish an artificial position in the refinement of oil created through a spread.
 
-The [Nelson Complexity Index (NCI)](https://www.investopedia.com/terms/n/nelson-index.asp) is a measure of the sophistication of an oil refinery, where more complex refineries are able to produce lighter, more heavily refined and valuable products from a barrel of oil.
+The [[Nelson Complexity Index (NCI)]](https://www.investopedia.com/terms/n/nelson-index.asp) is a measure of the sophistication of an oil refinery, where more complex refineries are able to produce lighter, more heavily refined and valuable products from a barrel of oil.
 
 The proportions of petroleum products a refinery produces from crude oil can also affect crack spreads. Some of these products include asphalt, aviation fuel, diesel, gasoline and kerosene. In some cases, the proportion produced varies based on [demand](https://www.investopedia.com/terms/d/demand.asp) from the local market. 
 

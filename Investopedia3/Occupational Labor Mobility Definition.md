@@ -18,7 +18,7 @@ Occupational Labor Mobility Definition
 
 Occupational labor mobility refers to the ability of workers to switch career fields in order to find gainful employment or meet labor needs.
 
-When conditions allow for high degrees of occupational labor mobility, it can help maintain strong employment and [productivity](https://www.investopedia.com/terms/p/productivity.asp) levels. Governments may provide occupational retraining to help workers acquire the necessary skills and expedite this process.
+When conditions allow for high degrees of occupational labor mobility, it can help maintain strong employment and [[productivity]](https://www.investopedia.com/terms/p/productivity.asp) levels. Governments may provide occupational retraining to help workers acquire the necessary skills and expedite this process.
 
 [Geographical labor mobility](https://www.investopedia.com/terms/g/geographical-mobility-of-labor.asp), on the other hand, refers to the level of flexibility and freedom laborers have to move in order to find gainful employment in their field.
 
@@ -48,4 +48,4 @@ The decrease in the number of [manufacturing](https://www.investopedia.com/term
 
 Public and private employment training programs have been established to give workers the opportunity to increase their occupational labor mobility by teaching them new skills. The focus of such programs is to expand the potential career paths these individuals could succeed in. Companies can benefit from the existence of such programs because they increase the pool of potential hires for current job openings.
 
-Occupational labor mobility can especially benefit emerging, innovation-oriented businesses. Such companies can see their productivity increase when there is a growing population of workers who possess skills that are in demand. For instance, a [startup](https://www.investopedia.com/terms/s/startup.asp) company could see its development plans stall until it hires enough software coders and programmers to work on its core product.
+Occupational labor mobility can especially benefit emerging, innovation-oriented businesses. Such companies can see their productivity increase when there is a growing population of workers who possess skills that are in demand. For instance, a [[startup]](https://www.investopedia.com/terms/s/startup.asp) company could see its development plans stall until it hires enough software coders and programmers to work on its core product.

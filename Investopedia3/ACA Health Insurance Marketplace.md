@@ -16,7 +16,7 @@ author: Julia Kagan
 ACA Health Insurance Marketplace
 ## What Is the ACA Health Insurance Marketplace?
 
-The Health Insurance Marketplace is a platform that offers insurance plans to individuals, families, and small businesses. The [Affordable Care Act (ACA)](https://www.investopedia.com/terms/a/affordable-care-act.asp) established the Marketplace as a means to extend health insurance coverage to millions of uninsured Americans. Many states offer their own marketplaces, while the federal government manages an exchange open to residents of other states.
+The Health Insurance Marketplace is a platform that offers insurance plans to individuals, families, and small businesses. The [[Affordable Care Act (ACA)]](https://www.investopedia.com/terms/a/affordable-care-act.asp) established the Marketplace as a means to extend health insurance coverage to millions of uninsured Americans. Many states offer their own marketplaces, while the federal government manages an exchange open to residents of other states.
 
 ### Key Takeaways
 
@@ -30,15 +30,15 @@ The Health Insurance Marketplace is a platform that offers insurance plans to in
 
 The Health Insurance Marketplace is a key element of the Affordable Care Act, a healthcare reform signed into law by President Barack Obama in 2010, also known as Obamacare.1 The law instructed states to set up their own exchanges where individuals or families without employer-sponsored coverage could compare plans. Many states, however, have chosen not to establish a marketplace and have joined the federal exchange.
 
-The Marketplace facilitates competition among private insurers in a central location where people who do not have access to employer-sponsored insurance can find a suitable plan. Individuals can compare and apply for plans via the Marketplace during the open enrollment period. Typically, this period takes place in November and December of the year prior to the year in which the coverage will take effect. Consumers can apply for a special enrollment period in the case of a [qualifying event](https://www.investopedia.com/terms/q/qualifying-event.asp) such as the birth of a child, marriage or the loss of another insurance plan.
+The Marketplace facilitates competition among private insurers in a central location where people who do not have access to employer-sponsored insurance can find a suitable plan. Individuals can compare and apply for plans via the Marketplace during the open enrollment period. Typically, this period takes place in November and December of the year prior to the year in which the coverage will take effect. Consumers can apply for a special enrollment period in the case of a [[qualifying event]](https://www.investopedia.com/terms/q/qualifying-event.asp) such as the birth of a child, marriage or the loss of another insurance plan.
 
-The Marketplace categorizes plans into four tiers: bronze, silver, gold, and platinum, in the order of least to greatest coverage. The highest tier, platinum, includes plans that cover approximately 90% of health expenses, but is also the most costly.2 Lower-income individuals and families can qualify for extra savings on all the health insurance plans offered on the exchange through [premium tax credits](https://www.investopedia.com/terms/a/advanced-premium-tax-credit.asp) and cost-sharing reductions.3
+The Marketplace categorizes plans into four tiers: bronze, silver, gold, and platinum, in the order of least to greatest coverage. The highest tier, platinum, includes plans that cover approximately 90% of health expenses, but is also the most costly.2 Lower-income individuals and families can qualify for extra savings on all the health insurance plans offered on the exchange through [[premium tax credits]](https://www.investopedia.com/terms/a/advanced-premium-tax-credit.asp) and cost-sharing reductions.3
 
 President Biden signed an executive order on Jan. 28, 2021, that established an ACA Special Enrollment Period from Feb. 15, 2021, to May 15, 2021, to "give Americans that need health care coverage during this global pandemic the opportunity to sign up."4 The enrollment period for 2021 ran only from Nov. 1 to Dec. 15, 2020.
 
 ## ACA Health Insurance Marketplace Requirements
 
-The Health Insurance Marketplace has requirements for individuals and families who use it, as well as for the insurance companies that offer coverage. To be eligible to buy coverage offered on the Marketplace, you must live in the United States and be a U.S. citizen or national. If you are covered by [Medicare](https://www.investopedia.com/terms/m/medicare.asp), you’re not eligible.5
+The Health Insurance Marketplace has requirements for individuals and families who use it, as well as for the insurance companies that offer coverage. To be eligible to buy coverage offered on the Marketplace, you must live in the United States and be a U.S. citizen or national. If you are covered by [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp), you’re not eligible.5
 
 While the plans that insurers offer on the Marketplace can vary widely, the ACA requires that they must each satisfy 10 basic requirements or essential health benefits (EHBs). Many of the EHBs might seem like they would go without saying, but plans can skimp on basic coverage and some political opponents of the ACA have proposed eliminating EHBs since the passage of the ACA.
 
@@ -59,7 +59,7 @@ The ACA does not require large, employer-sponsored insurance plans to cover any 
 
 ## Special Considerations
 
-Changes have been made to the ACA that have addressed some of the objections raised by its opponents, while still keeping the Marketplace open. For example, as part of the [Tax Cuts and Jobs Act](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/), in Dec. 2017 Congress removed a penalty individuals had to pay for not having health insurance, a requirement that many Republicans had opposed.
+Changes have been made to the ACA that have addressed some of the objections raised by its opponents, while still keeping the Marketplace open. For example, as part of the [[Tax Cuts and Jobs Act]](https://www.investopedia.com/taxes/trumps-tax-reform-plan-explained/), in Dec. 2017 Congress removed a penalty individuals had to pay for not having health insurance, a requirement that many Republicans had opposed.
 
 In March 2019, the Trump administration said that it would seek to repeal the entire Affordable Care Act. The Justice Department in a letter to a federal appeals court said it agreed with a federal judge in Texas who declared the healthcare law unconstitutional and added that it will support the judgment on appeal. The case went to the Supreme Court in 2020, and as of November 2020, the Supreme Court was still deliberating.7
 

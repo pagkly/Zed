@@ -16,7 +16,7 @@ author: Adam Hayes
 Empirical Rule
 ## What is the Empirical Rule?
 
-The empirical rule, also referred to as the [three-sigma rule](https://www.investopedia.com/terms/t/three-sigma-limits.asp) or 68-95-99.7 rule, is a statistical rule which states that for a [normal distribution](https://www.investopedia.com/terms/n/normaldistribution.asp), almost all observed data will fall within three standard deviations (denoted by σ) of the mean or average (denoted by µ).
+The empirical rule, also referred to as the [[three-sigma rule]](https://www.investopedia.com/terms/t/three-sigma-limits.asp) or 68-95-99.7 rule, is a statistical rule which states that for a [[normal distribution]](https://www.investopedia.com/terms/n/normaldistribution.asp), almost all observed data will fall within three standard deviations (denoted by σ) of the mean or average (denoted by µ).
 
 In particular, the empirical rule predicts that 68% of observations falls within the first standard deviation (µ ± σ), 95% within the first two standard deviations (µ ± 2σ), and 99.7% within the first three standard deviations (µ ± 3σ).
 
@@ -28,9 +28,9 @@ In particular, the empirical rule predicts that 68% of observations falls within
 
 ## Understanding the Empirical Rule
 
-The empirical rule is used often in statistics for forecasting final outcomes. After calculating the [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) and before collecting exact data, this rule can be used as a rough estimate of the outcome of the impending data to be collected and analyzed.
+The empirical rule is used often in statistics for forecasting final outcomes. After calculating the [[standard deviation]](https://www.investopedia.com/terms/s/standarddeviation.asp) and before collecting exact data, this rule can be used as a rough estimate of the outcome of the impending data to be collected and analyzed.
 
-This probability distribution can thus be used as an interim heuristic since gathering the appropriate data may be time-consuming or even impossible in some cases. Such considerations come into play when a firm is reviewing its [quality control](https://www.investopedia.com/terms/q/quality-control-chart.asp) measures or evaluating its risk exposure. For instance, the popularly used risk tool known as [value-at-risk](https://www.investopedia.com/terms/v/var.asp) (VaR) assumes that the probability of risk events follow a normal distribution.
+This probability distribution can thus be used as an interim heuristic since gathering the appropriate data may be time-consuming or even impossible in some cases. Such considerations come into play when a firm is reviewing its [[quality control]](https://www.investopedia.com/terms/q/quality-control-chart.asp) measures or evaluating its risk exposure. For instance, the popularly used risk tool known as [[value-at-risk]](https://www.investopedia.com/terms/v/var.asp) (VaR) assumes that the probability of risk events follow a normal distribution.
 
 The empirical rule is also used as a rough way to test a distribution's "normality". If too many data points fall outside the three standard deviation boundaries, this suggests that the distribution is not normal and may instead by skewed or follow some other distribution.
 
@@ -40,7 +40,7 @@ Image by Julie Bang © Investopedia 2019
 
 ## Examples of the Empirical Rule
 
-Let's assume a population of animals in a zoo is known to be [normally distributed](https://www.investopedia.com/terms/n/normaldistribution.asp). Each animal lives to be 13.1 years old on average (mean), and the standard deviation of the lifespan is 1.5 years. If someone wants to know the probability that an animal will live longer than 14.6 years, they could use the empirical rule. Knowing the distribution's mean is 13.1 years old, the following age ranges occur for each standard deviation:
+Let's assume a population of animals in a zoo is known to be [[normally distributed]](https://www.investopedia.com/terms/n/normaldistribution.asp). Each animal lives to be 13.1 years old on average (mean), and the standard deviation of the lifespan is 1.5 years. If someone wants to know the probability that an animal will live longer than 14.6 years, they could use the empirical rule. Knowing the distribution's mean is 13.1 years old, the following age ranges occur for each standard deviation:
 
 -   One standard deviation (µ ± σ): (13.1 - 1.5) to (13.1 + 1.5), or 11.6 to 14.6
 -   Two standard deviations (µ ± 2σ): 13.1 - (2 x 1.5) to 13.1 + (2 x 1.5), or 10.1 to 16.1

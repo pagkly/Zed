@@ -16,7 +16,7 @@ author: Will Kenton
 Exempt-Interest Dividend
 ## What Is an Exempt-Interest Dividend
 
-An exempt-interest dividend is a distribution from a mutual fund that is not subject to federal income tax. Exempt-interest dividends are often associated with mutual funds that invest in municipal bonds. While exempt-interest dividends are not subject to federal income tax, they may still be subject to state income tax or the [Alternative Minimum Tax (AMT).](https://www.investopedia.com/terms/a/alternativeminimumtax.asp) The dividend income must be reported on the income tax return, and it is reported by mutual funds on [Form 1099-INT](https://www.investopedia.com/terms/f/form-1099-int.asp).
+An exempt-interest dividend is a distribution from a mutual fund that is not subject to federal income tax. Exempt-interest dividends are often associated with mutual funds that invest in municipal bonds. While exempt-interest dividends are not subject to federal income tax, they may still be subject to state income tax or the [[Alternative Minimum Tax (AMT).]](https://www.investopedia.com/terms/a/alternativeminimumtax.asp) The dividend income must be reported on the income tax return, and it is reported by mutual funds on [[Form 1099-INT]](https://www.investopedia.com/terms/f/form-1099-int.asp).
 
 ## Understanding Exempt-Interest Dividends
 

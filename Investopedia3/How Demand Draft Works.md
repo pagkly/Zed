@@ -16,7 +16,7 @@ author: Julia Kagan
 How Demand Draft Works
 ## What Is a Demand Draft?
 
-A demand draft is a method used by an individual to make a [transfer payment](https://www.investopedia.com/terms/t/transferpayment.asp) from one bank account to another. Demand drafts differ from regular normal [checks](https://www.investopedia.com/terms/c/check.asp) in that they do not require signatures to be cashed. In 2005, due to the increasing fraudulent use of demand drafts, the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservesystem.asp) proposed new regulations increasing a victim's right to claim a refund and holding banks more accountable for cashing fraudulent checks.1
+A demand draft is a method used by an individual to make a [[transfer payment]](https://www.investopedia.com/terms/t/transferpayment.asp) from one bank account to another. Demand drafts differ from regular normal [[checks]](https://www.investopedia.com/terms/c/check.asp) in that they do not require signatures to be cashed. In 2005, due to the increasing fraudulent use of demand drafts, the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservesystem.asp) proposed new regulations increasing a victim's right to claim a refund and holding banks more accountable for cashing fraudulent checks.1
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A demand draft is a method used by an individual to make a [transfer payment](ht
 
 ## Understanding Demand Drafts
 
-When a bank prepares a demand draft, the amount of the draft is taken from the account of the customer requesting the draft and is transferred to an account at another bank. The drawer is the person requesting the [demand draft](https://www.investopedia.com/articles/investing/062013/bankers-acceptance-101.asp); the bank paying the money is the [drawee](https://www.investopedia.com/terms/d/drawee.asp); the party receiving the money is the [payee](https://www.investopedia.com/terms/p/payee.asp). Demand drafts were originally designed to benefit legitimate telemarketers who needed to withdraw funds from customer checking accounts using their bank account numbers and bank routing numbers.
+When a bank prepares a demand draft, the amount of the draft is taken from the account of the customer requesting the draft and is transferred to an account at another bank. The drawer is the person requesting the [[demand draft]](https://www.investopedia.com/articles/investing/062013/bankers-acceptance-101.asp); the bank paying the money is the [[drawee]](https://www.investopedia.com/terms/d/drawee.asp); the party receiving the money is the [[payee]](https://www.investopedia.com/terms/p/payee.asp). Demand drafts were originally designed to benefit legitimate telemarketers who needed to withdraw funds from customer checking accounts using their bank account numbers and bank routing numbers.
 
 For example, if a small business owner purchases products from another company on credit, the small business owner asks his bank to send a demand draft to the company for payment of the products, making him the drawer. The bank issues the draft, making it the drawee. After the draft matures, the owner of the other company brings the demand draft to his bank and collects his payment, making him the payee.
 
@@ -36,4 +36,4 @@ A demand draft is issued by a bank while a check is issued by an individual. Als
 
 Because a demand draft is a prepaid instrument, payment cannot be stopped, whereas payment of a check may be denied for insufficient funds.
 
-Although a check can be hand-delivered, this is not the case with a demand draft. The draft may be drawn regardless of whether an individual holds an [account](https://www.investopedia.com/articles/pf/07/child_bank_account.asp) at the bank while a check may be written only by an account holder.
+Although a check can be hand-delivered, this is not the case with a demand draft. The draft may be drawn regardless of whether an individual holds an [[account]](https://www.investopedia.com/articles/pf/07/child_bank_account.asp) at the bank while a check may be written only by an account holder.

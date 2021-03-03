@@ -16,9 +16,9 @@ author: James Chen
 Government Of Singapore Investment Corporation (GIC) Definition
 ## What Is the Government Of Singapore Investment Corporation (GIC)?
 
-The Government of Singapore Investment Corporation (GIC) is a government-owned company assigned to manage Singapore's [sovereign wealth fund](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp). The fund is now officially named: GIC Private Limited. The GIC was formed in 1981 with the aim to invest the sovereign wealth fund more aggressively in higher yielding asset classes and over a longer investment horizon. According to the Sovereign Wealth Fund Institute, the GICS controls the eighth largest sovereign wealth fund in the world, with $390 billion in assets under management as of mid-2018.[\[cite\]](https://report.gic.com.sg/index.html)
+The Government of Singapore Investment Corporation (GIC) is a government-owned company assigned to manage Singapore's [[sovereign wealth fund]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp). The fund is now officially named: GIC Private Limited. The GIC was formed in 1981 with the aim to invest the sovereign wealth fund more aggressively in higher yielding asset classes and over a longer investment horizon. According to the Sovereign Wealth Fund Institute, the GICS controls the eighth largest sovereign wealth fund in the world, with $390 billion in assets under management as of mid-2018.[\[cite\]](https://report.gic.com.sg/index.html)
 
-GIC is one of the three reserves management entities in Singapore, alongside the Monetary Authority of Singapore (MAS) and [Temasek Holdings](https://www.investopedia.com/terms/t/temasek-holdings.asp).
+GIC is one of the three reserves management entities in Singapore, alongside the Monetary Authority of Singapore (MAS) and [[Temasek Holdings]](https://www.investopedia.com/terms/t/temasek-holdings.asp).
 
 ### Key Takeaways
 
@@ -34,10 +34,10 @@ Similar to other sovereign wealth funds, the fund's holdings include a range of 
 
 ## GIC Investment Performance
 
-The GIC does not report exact fund details in its annual profit and loss disclosures. If it revealed precise values, the fund would unnecessarily expose the full size of Singapore's financial reserves, making it easier for speculators to speculate against the [Singapore dollar](https://www.investopedia.com/terms/s/sgd-singapore-dollar.asp) during periods of market and economic vulnerability. However, the fund does disclose certain five, 10 and 20-year details highlighting performance and risk management metrics.
+The GIC does not report exact fund details in its annual profit and loss disclosures. If it revealed precise values, the fund would unnecessarily expose the full size of Singapore's financial reserves, making it easier for speculators to speculate against the [[Singapore dollar]](https://www.investopedia.com/terms/s/sgd-singapore-dollar.asp) during periods of market and economic vulnerability. However, the fund does disclose certain five, 10 and 20-year details highlighting performance and risk management metrics.
 
 Over the 20-year period that ended 31 March 2019, GIC achieved an annualised rate of return of 3.4% above global inflation. In other words, the international purchasing power of the reserves nearly doubled during the 20-year period.
 
 ## Santiago Principles
 
-In 2008, GIC participated in the pioneering effort, alongside Abu Dhabi Investment Authority and the US Treasury, to develop the 9 Generally Accepted Principles & Practices for [sovereign wealth funds](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) (SWFs) and recipient countries. These were the foundation of the Santiago Principles, a voluntary set of 24 guidelines designed to promote good governance, accountability, transparency and prudent investment practices as well as maintain a stable and open investment climate. The Santiago Principles are now observed by more than 20 member SWFs, including GIC.
+In 2008, GIC participated in the pioneering effort, alongside Abu Dhabi Investment Authority and the US Treasury, to develop the 9 Generally Accepted Principles & Practices for [[sovereign wealth funds]](https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp) (SWFs) and recipient countries. These were the foundation of the Santiago Principles, a voluntary set of 24 guidelines designed to promote good governance, accountability, transparency and prudent investment practices as well as maintain a stable and open investment climate. The Santiago Principles are now observed by more than 20 member SWFs, including GIC.

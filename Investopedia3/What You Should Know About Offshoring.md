@@ -18,13 +18,13 @@ What You Should Know About Offshoring
 
 The term _offshore_ refers to a location outside of one's national boundaries, whether or not that location is land- or water-based. The term may be used to describe foreign banks, corporations, investments, and deposits.
 
-A company may legitimately move offshore for the purpose of [tax avoidance](https://www.investopedia.com/terms/t/tax_avoidance.asp) or to enjoy relaxed regulations. Offshore financial institutions can also be used for illicit purposes such as money laundering and tax evasion.
+A company may legitimately move offshore for the purpose of [[tax avoidance]](https://www.investopedia.com/terms/t/tax_avoidance.asp) or to enjoy relaxed regulations. Offshore financial institutions can also be used for illicit purposes such as money laundering and tax evasion.
 
 Offshoring isn't usually illegal—hiding it is.
 
 ## Understanding Offshore
 
-Offshore can refer to a variety of foreign-based entities or accounts. In order to qualify as offshore, the accounts or entity must be based in any country other than the customer’s or investor’s home nation. Many countries, territories, and jurisdictions have offshore financial centers (OFCs). These include well-known centers such as Switzerland, Bermuda, or the Cayman Islands, and lesser-known centers such as Mauritius, Dublin, and Belize. The level of regulatory standards and [transparency](https://www.investopedia.com/terms/t/transparency.asp) differs widely among OFCs.
+Offshore can refer to a variety of foreign-based entities or accounts. In order to qualify as offshore, the accounts or entity must be based in any country other than the customer’s or investor’s home nation. Many countries, territories, and jurisdictions have offshore financial centers (OFCs). These include well-known centers such as Switzerland, Bermuda, or the Cayman Islands, and lesser-known centers such as Mauritius, Dublin, and Belize. The level of regulatory standards and [[transparency]](https://www.investopedia.com/terms/t/transparency.asp) differs widely among OFCs.
 
 Supporters of OFCs argue that they improve the flow of capital and facilitate international business transactions. Critics argue that offshoring is a way to hide tax liabilities or ill-gotten gains from the authorities.
 

@@ -16,13 +16,13 @@ author: Alicia Tuovila
 Quality of Earnings Definition
 ## What Is Quality of Earnings?
 
-A company's quality of earnings is revealed by dismissing any [anomalies](https://www.investopedia.com/terms/a/anomaly.asp), accounting tricks, or one-time events that may skew the real bottom-line numbers on performance. Once these are removed, the earnings that are derived from higher sales or lower costs can be seen clearly.
+A company's quality of earnings is revealed by dismissing any [[anomalies]](https://www.investopedia.com/terms/a/anomaly.asp), accounting tricks, or one-time events that may skew the real bottom-line numbers on performance. Once these are removed, the earnings that are derived from higher sales or lower costs can be seen clearly.
 
 Even factors external to the company can affect an evaluation of the quality of earnings. For example, during periods of high inflation, quality of earnings is considered poor for many or most companies. Their sales figures are inflated, too.
 
-In general, earnings that are calculated conservatively are considered more reliable than those calculated by [aggressive accounting](https://www.investopedia.com/terms/a/aggressiveaccounting.asp) policies. Quality of earnings can be eroded by accounting practices that hide poor sales or increased [business risk](https://www.investopedia.com/terms/b/businessrisk.asp).
+In general, earnings that are calculated conservatively are considered more reliable than those calculated by [[aggressive accounting]](https://www.investopedia.com/terms/a/aggressiveaccounting.asp) policies. Quality of earnings can be eroded by accounting practices that hide poor sales or increased [[business risk]](https://www.investopedia.com/terms/b/businessrisk.asp).
 
-Fortunately, there are [generally accepted accounting principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The more closely a company sticks to those standards, the higher its quality of earnings is likely to be.
+Fortunately, there are [[generally accepted accounting principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). The more closely a company sticks to those standards, the higher its quality of earnings is likely to be.
 
 Several major financial scandals, including Enron and Worldcom, have been extreme examples of poor earnings quality that misled investors.
 
@@ -52,16 +52,16 @@ As noted above, companies with a high quality of earnings stick with the GAAP st
 
 There are many ways to gauge the quality of earnings by studying a company's annual report.
 
-Analysts usually start at the top of the [income statement](https://www.investopedia.com/terms/i/incomestatement.asp) and work their way down. For instance, companies that report high sales growth may also show high growth in credit sales. Analysts are wary of sales that are due only to loose credit terms. (Changes in credit sales, or accounts receivable, can be found on the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and [cash flow statement](https://www.investopedia.com/terms/c/cashflowstatement.asp).)
+Analysts usually start at the top of the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp) and work their way down. For instance, companies that report high sales growth may also show high growth in credit sales. Analysts are wary of sales that are due only to loose credit terms. (Changes in credit sales, or accounts receivable, can be found on the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) and [[cash flow statement]](https://www.investopedia.com/terms/c/cashflowstatement.asp).)
 
-Working down the income statement, analysts then might look for variations between operating [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) and net income. A company that has a high net income but negative cash flows from operations is achieving those apparent earnings somewhere other than sales.
+Working down the income statement, analysts then might look for variations between operating [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) and net income. A company that has a high net income but negative cash flows from operations is achieving those apparent earnings somewhere other than sales.
 
-One-time adjustments to net income, also known as nonrecurring income or expenses, are another red flag. For example, a company may decrease expenses in the current year by refinancing all of its [debt](https://www.investopedia.com/terms/d/debt.asp) into a future balloon payment. This would lower debt expense and increase net income for the current year while pushing the repayment problem down the road. Naturally, long-term investors don't care for that move.
+One-time adjustments to net income, also known as nonrecurring income or expenses, are another red flag. For example, a company may decrease expenses in the current year by refinancing all of its [[debt]](https://www.investopedia.com/terms/d/debt.asp) into a future balloon payment. This would lower debt expense and increase net income for the current year while pushing the repayment problem down the road. Naturally, long-term investors don't care for that move.
 
 ### Example of Earnings Manipulation
 
-A company can manipulate popular earnings measures such as [earnings per share](https://www.investopedia.com/terms/e/eps.asp) and [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) ratio by buying back shares of its own stock, which reduces the number of shares outstanding. In this way, a company with declining net income may be able to post earnings-per-share growth.
+A company can manipulate popular earnings measures such as [[earnings per share]](https://www.investopedia.com/terms/e/eps.asp) and [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) ratio by buying back shares of its own stock, which reduces the number of shares outstanding. In this way, a company with declining net income may be able to post earnings-per-share growth.
 
-When earnings-per-share goes up, the price-to-earnings ratio goes down. That should signal that the stock is [undervalued](https://www.investopedia.com/terms/u/undervalued.asp). It doesn't, though, if the company changed the number by simply repurchasing shares.
+When earnings-per-share goes up, the price-to-earnings ratio goes down. That should signal that the stock is [[undervalued]](https://www.investopedia.com/terms/u/undervalued.asp). It doesn't, though, if the company changed the number by simply repurchasing shares.
 
 It is particularly worrisome when a company takes on additional debt to finance stock repurchases. Companies might do this to artificially inflate the per-share price of their stock by reducing the number of shares available for purchase on the open market, thus giving the impression that the value of the stock has increased.

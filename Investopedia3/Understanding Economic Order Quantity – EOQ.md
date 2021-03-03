@@ -16,7 +16,7 @@ author: Jason Fernando
 Understanding Economic Order Quantity – EOQ
 ## What Is Economic Order Quantity (EOQ)?
 
-Economic order quantity (EOQ) is the ideal order quantity a company should purchase to minimize [inventory](https://www.investopedia.com/terms/i/inventory.asp) costs such as holding costs, shortage costs, and order costs. This production-scheduling model was developed in 1913 by Ford W. Harris and has been refined over time.1 The formula assumes that demand, ordering, and holding costs all remain constant.
+Economic order quantity (EOQ) is the ideal order quantity a company should purchase to minimize [[inventory]](https://www.investopedia.com/terms/i/inventory.asp) costs such as holding costs, shortage costs, and order costs. This production-scheduling model was developed in 1913 by Ford W. Harris and has been refined over time.1 The formula assumes that demand, ordering, and holding costs all remain constant.
 
 ### Key Takeaways
 
@@ -33,11 +33,11 @@ The formula for EOQ is:
 
 ## What the Economic Order Quantity Can Tell You?
 
-The goal of the EOQ formula is to identify the optimal number of product units to order. If achieved, a company can minimize its costs for buying, delivery, and storing units. The EOQ formula can be modified to determine different production levels or order intervals, and corporations with large [supply chains](https://www.investopedia.com/terms/s/supplychain.asp) and high variable costs use an algorithm in their computer software to determine EOQ.
+The goal of the EOQ formula is to identify the optimal number of product units to order. If achieved, a company can minimize its costs for buying, delivery, and storing units. The EOQ formula can be modified to determine different production levels or order intervals, and corporations with large [[supply chains]](https://www.investopedia.com/terms/s/supplychain.asp) and high variable costs use an algorithm in their computer software to determine EOQ.
 
-EOQ is an important [cash flow](https://www.investopedia.com/terms/c/cashflow.asp) tool. The formula can help a company control the amount of cash tied up in the inventory balance. For many companies, inventory is its largest asset other than its human resources, and these businesses must carry sufficient inventory to meet the needs of customers. If EOQ can help minimize the level of inventory, the cash savings can be used for some other business purpose or investment.
+EOQ is an important [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) tool. The formula can help a company control the amount of cash tied up in the inventory balance. For many companies, inventory is its largest asset other than its human resources, and these businesses must carry sufficient inventory to meet the needs of customers. If EOQ can help minimize the level of inventory, the cash savings can be used for some other business purpose or investment.
 
-The EOQ formula determines a company's inventory reorder point. When inventory falls to a certain level, the EOQ formula, if applied to business processes, triggers the need to place an order for more units. By determining a reorder point, the business avoids running out of inventory and can continue to fill customer orders. If the company runs out of inventory, there is a shortage cost, which is the [revenue](https://www.investopedia.com/ask/answers/09/how-companies-calculate-revenue.asp) lost because the company has insufficient inventory to fill an order. An inventory shortage may also mean the company loses the customer or the client will order less in the future.
+The EOQ formula determines a company's inventory reorder point. When inventory falls to a certain level, the EOQ formula, if applied to business processes, triggers the need to place an order for more units. By determining a reorder point, the business avoids running out of inventory and can continue to fill customer orders. If the company runs out of inventory, there is a shortage cost, which is the [[revenue]](https://www.investopedia.com/ask/answers/09/how-companies-calculate-revenue.asp) lost because the company has insufficient inventory to fill an order. An inventory shortage may also mean the company loses the customer or the client will order less in the future.
 
 ## Example of How to Use EOQ
 

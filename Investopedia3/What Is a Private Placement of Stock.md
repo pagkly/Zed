@@ -30,13 +30,13 @@ One advantage of a private placement is its relatively few regulatory requiremen
 
 ## Understanding Private Placement
 
-There are minimal regulatory requirements and standards for a private placement even though, like an [IPO](https://www.investopedia.com/ask/answers/021015/what-difference-between-ipo-and-private-placement.asp), it involves the sale of securities. The sale does not even have to be registered with the U.S. Securities and Exchange Commission (SEC). The company is not required to provide a prospectus to potential investors and detailed financial information may not be disclosed.1
+There are minimal regulatory requirements and standards for a private placement even though, like an [[IPO]](https://www.investopedia.com/ask/answers/021015/what-difference-between-ipo-and-private-placement.asp), it involves the sale of securities. The sale does not even have to be registered with the U.S. Securities and Exchange Commission (SEC). The company is not required to provide a prospectus to potential investors and detailed financial information may not be disclosed.1
 
 The sale of stock on the public exchanges is regulated by the [Securities Act of 1933](https://www.investopedia.com/terms/s/securitiesact1933.asp), which was enacted after the market crash of 1929 to ensure that investors receive sufficient disclosure when they purchase securities.2 Regulation D of that act provides a registration exemption for private placement offerings.3
 
 The same regulation allows an issuer to sell securities to a pre-selected group of investors that meet specified requirements. Instead of a prospectus, private placements are sold using a private placement memorandum (PPM) and cannot be broadly marketed to the general public.4
 
-It specifies that only [accredited investors](https://www.investopedia.com/terms/a/accreditedinvestor.asp) may participate.4 These may include individuals or entities such as venture capital firms that qualify under the SEC’s terms.
+It specifies that only [[accredited investors]](https://www.investopedia.com/terms/a/accreditedinvestor.asp) may participate.4 These may include individuals or entities such as venture capital firms that qualify under the SEC’s terms.
 
 ## Advantages and Disadvantages of Private Placement
 

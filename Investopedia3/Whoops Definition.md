@@ -29,13 +29,13 @@ Whoops is a negative slang word used at one time in history for the former Washi
 
 Whoops, or WPPSS, financed the construction of five nuclear power plants by issuing billions of dollars in municipal bonds in the 1970s and 1980s.
 
-In 1983, because of extremely poor [project management](https://www.investopedia.com/terms/p/project-management.asp), construction on some plants was canceled, and completion of the remaining plants seemed unlikely.
+In 1983, because of extremely poor [[project management]](https://www.investopedia.com/terms/p/project-management.asp), construction on some plants was canceled, and completion of the remaining plants seemed unlikely.
 
-Consequently, the [take-or-pay](https://www.investopedia.com/terms/t/takeorpay.asp) arrangements that had been backing the municipal bonds were ruled void by the Washington State Supreme Court. As a result, in 1983, the WPPSS had the largest municipal debt default in history.
+Consequently, the [[take-or-pay]](https://www.investopedia.com/terms/t/takeorpay.asp) arrangements that had been backing the municipal bonds were ruled void by the Washington State Supreme Court. As a result, in 1983, the WPPSS had the largest municipal debt default in history.
 
 ## Early History of Whoops
 
-Nuclear power became popular in the 1960s when it was perceived as clean and inexpensive. WPPSS or Whoops saw this as an opportunity to meet the growing demand for power in its region. It scheduled five nuclear power plants financed by a [public bond](https://www.investopedia.com/terms/p/public-purpose-bonds.asp) issuance to be repaid with proceeds from the plants. The bonds were [issued](https://www.investopedia.com/terms/d/debt-issue.asp), but sales did not meet expectations.1
+Nuclear power became popular in the 1960s when it was perceived as clean and inexpensive. WPPSS or Whoops saw this as an opportunity to meet the growing demand for power in its region. It scheduled five nuclear power plants financed by a [[public bond]](https://www.investopedia.com/terms/p/public-purpose-bonds.asp) issuance to be repaid with proceeds from the plants. The bonds were [[issued]](https://www.investopedia.com/terms/d/debt-issue.asp), but sales did not meet expectations.1
 
 The Packwood Lake Dam, its first project, ran seven months over the scheduled completion date. This was the beginning of WPPSS’s public works problems.
 

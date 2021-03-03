@@ -16,7 +16,7 @@ author: Akhilesh Ganti
 Trust Fund Definition
 ## What Is a Trust Fund?
 
-A trust fund is an estate planning tool that establishes a legal entity to hold property or assets for a person or organization. A neutral third party, called a [trustee](https://www.investopedia.com/terms/t/trustee.asp), is tasked with managing the assets. Trust funds can hold a variety of assets, such as money, real property, stocks and bonds, a business, or a combination of many different types of properties or assets. Trusts can be formed under a variety of forms and stipulations.
+A trust fund is an estate planning tool that establishes a legal entity to hold property or assets for a person or organization. A neutral third party, called a [[trustee]](https://www.investopedia.com/terms/t/trustee.asp), is tasked with managing the assets. Trust funds can hold a variety of assets, such as money, real property, stocks and bonds, a business, or a combination of many different types of properties or assets. Trusts can be formed under a variety of forms and stipulations.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ A trust fund is an estate planning tool that establishes a legal entity to hold 
 
 ## How Trust Funds Work
 
-There are three key parties that comprise a trust fund—a [grantor](https://www.investopedia.com/terms/g/grantor.asp) (sets up a trust and populates it with their assets), a beneficiary (a person chosen to receive the trust fund assets), and a [trustee](https://www.investopedia.com/terms/t/trustee.asp) (charged with managing the assets in the trust).
+There are three key parties that comprise a trust fund—a [[grantor]](https://www.investopedia.com/terms/g/grantor.asp) (sets up a trust and populates it with their assets), a beneficiary (a person chosen to receive the trust fund assets), and a [[trustee]](https://www.investopedia.com/terms/t/trustee.asp) (charged with managing the assets in the trust).
 
 The primary motivation for establishing a trust fund is for an individual—or entity—to create a vehicle that sets terms for the way assets are to be held, gathered, or distributed in the future. This is the key feature that differentiates trust funds from other estate planning tools. Generally, the grantor is creating an arrangement that, for a variety of reasons, is carried out after they are no longer mentally competent or alive.
 
@@ -40,11 +40,11 @@ There are numerous types of trust funds, but the most common are revocable and i
 
 ### Revocable Trust
 
-A [living trust,](https://www.investopedia.com/terms/l/living-trust.asp) also known as a [revocable trust](https://www.investopedia.com/terms/r/revocabletrust.asp), lets a grantor better control assets during the grantor’s lifetime. It is a type of trust in which a grantor places assets into a trust that can then transfer to any number of designated beneficiaries after the grantor's death. Most often it used to transfer assets to children or grandchildren, the primary benefit of a living trust is that the assets avoid probate, which leads to fast asset distribution to the beneficiaries. Living trusts are not made public, meaning an estate is distributed with a high level of privacy. While the grantor is still living—and not incapacitated—the trust details can be changed or revoked. 
+A [[living trust,]](https://www.investopedia.com/terms/l/living-trust.asp) also known as a [[revocable trust]](https://www.investopedia.com/terms/r/revocabletrust.asp), lets a grantor better control assets during the grantor’s lifetime. It is a type of trust in which a grantor places assets into a trust that can then transfer to any number of designated beneficiaries after the grantor's death. Most often it used to transfer assets to children or grandchildren, the primary benefit of a living trust is that the assets avoid probate, which leads to fast asset distribution to the beneficiaries. Living trusts are not made public, meaning an estate is distributed with a high level of privacy. While the grantor is still living—and not incapacitated—the trust details can be changed or revoked. 
 
 ### Irrevocable Trust
 
-An [irrevocable trust](https://www.investopedia.com/terms/i/irrevocabletrust.asp) is very difficult to change or revoke. Because of this arrangement, there can be considerable tax benefits for the grantor to effectively give away control of the assets to the trust fund. Irrevocable trusts most often avoid probate.
+An [[irrevocable trust]](https://www.investopedia.com/terms/i/irrevocabletrust.asp) is very difficult to change or revoke. Because of this arrangement, there can be considerable tax benefits for the grantor to effectively give away control of the assets to the trust fund. Irrevocable trusts most often avoid probate.
 
 ### Asset Protection Trust (APT)
 
@@ -56,7 +56,7 @@ A blind trust is created so the beneficiary is not aware of who holds power of a
 
 ### Charitable Trust
 
-A charitable trust is created to benefit a particular charity or the public in general. This includes a [Charitable Remainder Annuity Trust](https://www.investopedia.com/terms/c/charitable-remainder-annuity-trust.asp) (CRAT) that pays a fixed amount each year. A Charitable Remainder Unitrust (CRUT) is formed to pass assets to a specified charity at the expiration of the trust. A CRUT has two main benefits. First, the donor establishing the trust contributes assets and is eligible for a charitable deduction. Second, the assets in the trust pay a fixed percentage of income to the beneficiary during the life of the trust.1
+A charitable trust is created to benefit a particular charity or the public in general. This includes a [[Charitable Remainder Annuity Trust]](https://www.investopedia.com/terms/c/charitable-remainder-annuity-trust.asp) (CRAT) that pays a fixed amount each year. A Charitable Remainder Unitrust (CRUT) is formed to pass assets to a specified charity at the expiration of the trust. A CRUT has two main benefits. First, the donor establishing the trust contributes assets and is eligible for a charitable deduction. Second, the assets in the trust pay a fixed percentage of income to the beneficiary during the life of the trust.1
 
 ### Generation-Skipping Trust (GST)
 

@@ -16,9 +16,9 @@ author: Tim Smith
 Value Stock Definition
 ## What Is a Value Stock?
 
-A value stock refers to shares of a company that appears to trade at a lower price relative to its fundamentals, such as [dividends](https://www.investopedia.com/terms/d/dividend.asp), earnings, or sales, making it appealing to [value investors](https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp).
+A value stock refers to shares of a company that appears to trade at a lower price relative to its fundamentals, such as [[dividends]](https://www.investopedia.com/terms/d/dividend.asp), earnings, or sales, making it appealing to [[value investors]](https://www.investopedia.com/articles/fundamental-analysis/09/value-investing.asp).
 
-A value stock can generally be contrasted with a [growth stock](https://www.investopedia.com/terms/g/growthstock.asp).
+A value stock can generally be contrasted with a [[growth stock]](https://www.investopedia.com/terms/g/growthstock.asp).
 
 ### Key Takeaways
 
@@ -30,9 +30,9 @@ A value stock can generally be contrasted with a [growth stock](https://www.inve
 
 A value stock is a security trading at a lower price than what the company’s performance may otherwise indicate. Investors in value stocks attempt to capitalize on inefficiencies in the market, since the price of the underlying equity may not match the company’s performance.
 
-Common characteristics of value stocks include high dividend yield, low [price-to-book ratio (P/B ratio)](https://www.investopedia.com/terms/p/price-to-bookratio.asp), and a low price-to-earnings ratio (P/E ratio). Investors can find value stocks using the "Dogs of the Dow" investing strategy by purchasing the 10 highest dividend-yielding stocks on the Dow Jones at the beginning of each year and adjusting the portfolio every year thereafter.
+Common characteristics of value stocks include high dividend yield, low [[price-to-book ratio (P/B ratio)]](https://www.investopedia.com/terms/p/price-to-bookratio.asp), and a low price-to-earnings ratio (P/E ratio). Investors can find value stocks using the "Dogs of the Dow" investing strategy by purchasing the 10 highest dividend-yielding stocks on the Dow Jones at the beginning of each year and adjusting the portfolio every year thereafter.
 
-In contrast to value stocks, [growth stocks](https://www.investopedia.com/articles/investing/080113/income-value-and-growth-stocks.asp) are equities of companies with strong anticipated growth potential. A balanced, diversified portfolio will hold both value stock and growth stocks. Investment managers refer to these as a [blend fund](https://www.investopedia.com/terms/b/blendfund.asp).
+In contrast to value stocks, [[growth stocks]](https://www.investopedia.com/articles/investing/080113/income-value-and-growth-stocks.asp) are equities of companies with strong anticipated growth potential. A balanced, diversified portfolio will hold both value stock and growth stocks. Investment managers refer to these as a [[blend fund]](https://www.investopedia.com/terms/b/blendfund.asp).
 
 ## How to Spot Value Stocks
 

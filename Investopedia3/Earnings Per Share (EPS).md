@@ -16,7 +16,7 @@ author: Jason Fernando
 Earnings Per Share (EPS)
 ## What Is Earnings Per Share – EPS?
 
-Earnings per share (EPS) is calculated as a company's profit divided by the outstanding shares of its common stock. The resulting number serves as an indicator of a company's profitability. It is common for a company to report EPS that is adjusted for [extraordinary items](https://www.investopedia.com/terms/e/extraordinaryitem.asp) and potential share dilution. The higher a company's EPS, the more profitable it is considered to be.
+Earnings per share (EPS) is calculated as a company's profit divided by the outstanding shares of its common stock. The resulting number serves as an indicator of a company's profitability. It is common for a company to report EPS that is adjusted for [[extraordinary items]](https://www.investopedia.com/terms/e/extraordinaryitem.asp) and potential share dilution. The higher a company's EPS, the more profitable it is considered to be.
 
 ### Key Takeaways
 
@@ -35,7 +35,7 @@ Earnings per Share\=Net Income − Preferred DividendsEnd-of-Period Common�
 
 To calculate a company's EPS, the balance sheet and income statement are used to find the period-end number of common shares, dividends paid on preferred stock (if any), and the net income or earnings. It is more accurate to use a weighted average number of common shares over the reporting term because the number of shares can change over time.
 
-Any stock dividends or splits that occur must be reflected in the calculation of the weighted average number of [shares outstanding](https://www.investopedia.com/terms/o/outstandingshares.asp). Some data sources simplify the calculation by using the number of shares outstanding at the end of a period.
+Any stock dividends or splits that occur must be reflected in the calculation of the weighted average number of [[shares outstanding]](https://www.investopedia.com/terms/o/outstandingshares.asp). Some data sources simplify the calculation by using the number of shares outstanding at the end of a period.
 
 ## Example of EPS
 
@@ -83,17 +83,17 @@ $3.05/0.599 = $5.09
 
 ## Understanding Earnings per Share
 
-The earnings per share metric are one of the most important variables in determining a share's price. It is also a major component used to calculate the [price-to-earnings](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) valuation ratio, where the _E_ in P/E refers to EPS. By dividing a company's share price by its earnings per share, an investor can see the value of a stock in terms of how much the market is willing to pay for each dollar of earnings.
+The earnings per share metric are one of the most important variables in determining a share's price. It is also a major component used to calculate the [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) valuation ratio, where the _E_ in P/E refers to EPS. By dividing a company's share price by its earnings per share, an investor can see the value of a stock in terms of how much the market is willing to pay for each dollar of earnings.
 
-EPS is one of the many indicators you could use to pick stocks. If you have an interest in stock trading or investing, your next step is to choose a [broker](https://www.investopedia.com/best-online-brokers-4587872) that works for your investment style.
+EPS is one of the many indicators you could use to pick stocks. If you have an interest in stock trading or investing, your next step is to choose a [[broker]](https://www.investopedia.com/best-online-brokers-4587872) that works for your investment style.
 
 Comparing EPS in absolute terms may not have much meaning to investors because ordinary shareholders do not have direct access to the earnings. Instead, investors will compare EPS with the share price of the stock to determine the value of earnings and how investors feel about future growth.
 
 ## Basic EPS vs. Diluted EPS
 
-The [formula](https://www.investopedia.com/ask/answers/070114/what-formula-calculating-earnings-share-eps.asp) used in the table above calculates the [basic EPS](https://www.investopedia.com/terms/b/basic-earnings-per-share.asp) of each of these select companies. Basic EPS does not factor in the dilutive effect of shares that could be issued by the company. When the capital structure of a company includes items such as stock options, warrants, restricted stock units (RSU), these investments—if exercised—could increase the total number of shares outstanding in the market.
+The [[formula]](https://www.investopedia.com/ask/answers/070114/what-formula-calculating-earnings-share-eps.asp) used in the table above calculates the [[basic EPS]](https://www.investopedia.com/terms/b/basic-earnings-per-share.asp) of each of these select companies. Basic EPS does not factor in the dilutive effect of shares that could be issued by the company. When the capital structure of a company includes items such as stock options, warrants, restricted stock units (RSU), these investments—if exercised—could increase the total number of shares outstanding in the market.
 
-To better illustrate the effects of additional securities on per-share earnings, companies also report the [diluted EPS](https://www.investopedia.com/terms/d/dilutedeps.asp), which assumes that all shares that could be outstanding have been issued.
+To better illustrate the effects of additional securities on per-share earnings, companies also report the [[diluted EPS]](https://www.investopedia.com/terms/d/dilutedeps.asp), which assumes that all shares that could be outstanding have been issued.
 
 For example, the total number of shares that could be created and issued from NVIDIA's convertible instruments for the fiscal year ended in 2017 was 33 million. If this number is added to its total shares outstanding, its diluted weighted average shares outstanding will be 599 million + 33 million = 632 million shares. The company's diluted EPS is, therefore, $3.05B / 632 million = $4.82.
 
@@ -107,7 +107,7 @@ Imagine a company that owns two factories that make cell phone screens. The land
 
 While this land sale has created real profits for the company and its shareholders, it is considered an “extraordinary item” because there is no reason to believe the company can repeat that transaction in the future. Shareholders might be misled if the windfall is included in the numerator of the EPS equation, so it is excluded.
 
-A similar argument could be made if a company had an [unusual loss](https://www.investopedia.com/terms/u/unusual-item.asp)—maybe the factory burned down—which would have temporarily decreased EPS and should be excluded for the same reason. The calculation for EPS excluding extraordinary items is:
+A similar argument could be made if a company had an [[unusual loss]](https://www.investopedia.com/terms/u/unusual-item.asp)—maybe the factory burned down—which would have temporarily decreased EPS and should be excluded for the same reason. The calculation for EPS excluding extraordinary items is:
 
 EPS\=Net Income − Pref.Div. (+or−) Extraordinary ItemsWeighted Average Common Shares\\text{EPS}=\\frac{\\text{Net Income }-\\text{ Pref.Div. }\\left(+or-\\right)\\text{ Extraordinary Items}}{\\text{Weighted Average Common Shares}}
 
@@ -129,11 +129,11 @@ An important aspect of EPS that is often ignored is the capital that is required
 
 ## EPS and Dividends
 
-While EPS is widely used as a way to track a company’s performance, shareholders do not have direct access to those profits. A portion of the earnings may be distributed as a dividend, but all or a portion of the EPS can be retained by the company. Shareholders, through their representatives on the [board of directors](https://www.investopedia.com/terms/b/boardofdirectors.asp), would have to change the portion of EPS that is distributed through dividends in order to access more of those profits.
+While EPS is widely used as a way to track a company’s performance, shareholders do not have direct access to those profits. A portion of the earnings may be distributed as a dividend, but all or a portion of the EPS can be retained by the company. Shareholders, through their representatives on the [[board of directors]](https://www.investopedia.com/terms/b/boardofdirectors.asp), would have to change the portion of EPS that is distributed through dividends in order to access more of those profits.
 
-Because shareholders can’t access the EPS attributed to their shares, the connection between EPS and a share’s price can be difficult to define. This is particularly true for companies that pay no dividend. For example, it is common for technology companies to disclose in their [initial public offering](https://www.investopedia.com/terms/i/ipo.asp) documents that the company does not pay a dividend and has no plans to do so in the future. On the surface, it is difficult to explain why these shares would have any value to shareholders.
+Because shareholders can’t access the EPS attributed to their shares, the connection between EPS and a share’s price can be difficult to define. This is particularly true for companies that pay no dividend. For example, it is common for technology companies to disclose in their [[initial public offering]](https://www.investopedia.com/terms/i/ipo.asp) documents that the company does not pay a dividend and has no plans to do so in the future. On the surface, it is difficult to explain why these shares would have any value to shareholders.
 
-The actual notional value of EPS also seems to have a relatively indirect relationship with the share price. For example, the EPS for two stocks could be identical, but the share prices may be wildly different. For example, in October 2018, Southwestern Energy Company (SWN) earned $1.06 per share in diluted earnings from continuing operations, with a share price of $5.56. However, [Mellanox Technologies (MLNX)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mlnx) had an EPS of $1.02 from continuing operations with a share price of $70.58.
+The actual notional value of EPS also seems to have a relatively indirect relationship with the share price. For example, the EPS for two stocks could be identical, but the share prices may be wildly different. For example, in October 2018, Southwestern Energy Company (SWN) earned $1.06 per share in diluted earnings from continuing operations, with a share price of $5.56. However, [[Mellanox Technologies (MLNX)]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=mlnx) had an EPS of $1.02 from continuing operations with a share price of $70.58.
 
 On the surface, it seems like SWN is the better deal because an investor is only paying $5.25 per dollar of earnings ($5.56 share price / $1.06 EPS = $5.25). Investors in MLNX are paying $69.20 per dollar of earnings ($70.58 share price / $1.02 EPS = $69.20). This ratio is also known as the earnings multiple or Price/Earnings (P/E) ratio.
 
@@ -147,7 +147,7 @@ Making a comparison of the P/E ratio within an industry group can be helpful, th
 
 ### What is a good earnings per share (EPS)?
 
-What counts as a “good” earnings per share (EPS) will depend on factors such as the recent performance of the company, the performance of its competitors, and the expectations of the analysts who follow the stock. Sometimes, a company might report growing EPS but the stock might decline in price if analysts were expecting an even higher number. Likewise, a shrinking EPS figure might nonetheless lead to a price increase if analysts were expecting an even worse result. It is important to always judge EPS in relation to the company’s share price, such as by looking at the company’s [price to earnings ratio (P/E)](https://www.investopedia.com/terms/p/price-earningsratio.asp) or [earnings yield](https://www.investopedia.com/terms/e/earningsyield.asp).
+What counts as a “good” earnings per share (EPS) will depend on factors such as the recent performance of the company, the performance of its competitors, and the expectations of the analysts who follow the stock. Sometimes, a company might report growing EPS but the stock might decline in price if analysts were expecting an even higher number. Likewise, a shrinking EPS figure might nonetheless lead to a price increase if analysts were expecting an even worse result. It is important to always judge EPS in relation to the company’s share price, such as by looking at the company’s [[price to earnings ratio (P/E)]](https://www.investopedia.com/terms/p/price-earningsratio.asp) or [[earnings yield]](https://www.investopedia.com/terms/e/earningsyield.asp).
 
 ### What is the difference between basic EPS and diluted EPS?
 

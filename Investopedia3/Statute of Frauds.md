@@ -18,7 +18,7 @@ Statute of Frauds
 
 The statute of frauds (SOF) is a legal concept that requires certain types of contracts to be executed in writing. The statute covers contracts for the sale of land, agreements involving goods worth over $500, and contracts lasting one year or more.1
 
-The statute of frauds was adopted in the U.S. primarily as a [common law](https://www.investopedia.com/terms/c/common-law.asp) concept—that is, as unwritten law. However, it has since been formalized by statutes in certain jurisdictions, such as in most states. In a [breach of contract](https://www.investopedia.com/terms/b/breach-of-contract.asp) case where the statute of frauds applies, the defendant may raise it as a defense. Indeed, they often must do so affirmatively for the defense to be valid. In such a case, the [burden of proof](https://www.investopedia.com/terms/b/burden-proof.asp) is on the plaintiff. The plaintiff must establish that a valid contract was indeed in existence.
+The statute of frauds was adopted in the U.S. primarily as a [[common law]](https://www.investopedia.com/terms/c/common-law.asp) concept—that is, as unwritten law. However, it has since been formalized by statutes in certain jurisdictions, such as in most states. In a [[breach of contract]](https://www.investopedia.com/terms/b/breach-of-contract.asp) case where the statute of frauds applies, the defendant may raise it as a defense. Indeed, they often must do so affirmatively for the defense to be valid. In such a case, the [[burden of proof]](https://www.investopedia.com/terms/b/burden-proof.asp) is on the plaintiff. The plaintiff must establish that a valid contract was indeed in existence.
 
 ### Key Takeaways
 
@@ -36,15 +36,15 @@ As applied in the United States, the concept generally requires the following ty
 -   Contracts for the sale of land. (Leases need not be covered unless they're of a year or more in length.)
 -   Promises to pay an estate’s debt from the personal funds of the executor. (However, promises to pay such debt from the estate's funds are not subject to the statute of frauds.)
 -   Contracts for the sale of goods above a specific dollar amount, typically $500.
--   A contract in which one person promises to pay the debt of another person is considered a [surety](https://www.investopedia.com/terms/s/surety.asp), and it is subject to the statute of frauds.1
+-   A contract in which one person promises to pay the debt of another person is considered a [[surety]](https://www.investopedia.com/terms/s/surety.asp), and it is subject to the statute of frauds.1
 
 ## History of the Statute of Frauds
 
-The statute of frauds has its roots in the Act for Prevention of Frauds and Perjuryes, which was passed by the English Parliament in 1677. The legislation, which stipulated a written contract be used for transactions where a large amount of money was at stake, aimed to prevent some of the misunderstandings and fraudulent activity that can occur when relying on [oral contracts](https://www.investopedia.com/terms/o/oral-contract.asp).1
+The statute of frauds has its roots in the Act for Prevention of Frauds and Perjuryes, which was passed by the English Parliament in 1677. The legislation, which stipulated a written contract be used for transactions where a large amount of money was at stake, aimed to prevent some of the misunderstandings and fraudulent activity that can occur when relying on [[oral contracts]](https://www.investopedia.com/terms/o/oral-contract.asp).1
 
 Indeed, the English legal system of the time suffered from a lack of written evidence. The courts were clogged with lawsuits, and cases were often settled by using professional witnesses who were paid for their testimony. Perjury and corruption became the norm.1
 
-As the founders shaped the U.S. government, they drew on the 1677 Act to help shape how business transactions, and disputes over them, should be handled in the new world. Like their 17th-century British forebears, the founders decided that written and signed contracts minimized ambiguity by providing a clear record of the agreement. That [reduced](https://www.investopedia.com/terms/c/contra-proferentem-rule.asp) the opportunity for later litigation and simplified the settlement of such suits when they occurred.1
+As the founders shaped the U.S. government, they drew on the 1677 Act to help shape how business transactions, and disputes over them, should be handled in the new world. Like their 17th-century British forebears, the founders decided that written and signed contracts minimized ambiguity by providing a clear record of the agreement. That [[reduced]](https://www.investopedia.com/terms/c/contra-proferentem-rule.asp) the opportunity for later litigation and simplified the settlement of such suits when they occurred.1
 
 ## Special Considerations
 
@@ -54,7 +54,7 @@ Several exceptions relate to situations in which oral agreements result in work 
 
 The same will usually apply if improvements or modifications to a customer's possessions, based on oral agreements, are begun and then canceled.
 
-Take a situation in which a house painter, after a homeowner so requests, purchases materials and begins to redecorate a house. If the homeowner then reverses course and claims no firm painting agreement was in place, the contractor would likely prevail. That's because of what's known as [promissory estoppel](https://www.investopedia.com/terms/p/promissory_estoppel.asp). It is defined as a principle of "fundamental fairness" intended to remedy a substantial injustice. There are also cases of partial performance. The fact that one party has already performed its responsibilities under the agreement may serve to confirm that a contract existed.1
+Take a situation in which a house painter, after a homeowner so requests, purchases materials and begins to redecorate a house. If the homeowner then reverses course and claims no firm painting agreement was in place, the contractor would likely prevail. That's because of what's known as [[promissory estoppel]](https://www.investopedia.com/terms/p/promissory_estoppel.asp). It is defined as a principle of "fundamental fairness" intended to remedy a substantial injustice. There are also cases of partial performance. The fact that one party has already performed its responsibilities under the agreement may serve to confirm that a contract existed.1
 
 ## Requirements of the Statute of Frauds
 

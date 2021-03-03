@@ -16,9 +16,9 @@ author: James Chen
 How a Protective Put Works
 ## What Is a Protective Put?
 
-A protective put is a risk-management strategy using options contracts that investors employ to guard against the loss of owning a stock or asset. The hedging strategy involves an investor buying a [put option](https://www.investopedia.com/terms/p/putoption.asp) for a fee, called a premium.
+A protective put is a risk-management strategy using options contracts that investors employ to guard against the loss of owning a stock or asset. The hedging strategy involves an investor buying a [[put option]](https://www.investopedia.com/terms/p/putoption.asp) for a fee, called a premium.
 
-Puts by themselves are a bearish strategy where the trader believes the price of the asset will decline in the future. However, a protective put is typically used when an investor is still [bullish](https://www.investopedia.com/terms/b/bull.asp) on a stock but wishes to hedge against potential losses and uncertainty.
+Puts by themselves are a bearish strategy where the trader believes the price of the asset will decline in the future. However, a protective put is typically used when an investor is still [[bullish]](https://www.investopedia.com/terms/b/bull.asp) on a stock but wishes to hedge against potential losses and uncertainty.
 
 Protective puts may be placed on stocks, currencies, commodities, and indexes and give some protection to the downside. A protective put acts as an insurance policy by providing downside protection in the event the price of the asset declines.
 
@@ -31,17 +31,17 @@ Protective puts may be placed on stocks, currencies, commodities, and indexes an
 
 ## How a Protective Put Works
 
-Protective puts are commonly utilized when an investor is [long](https://www.investopedia.com/terms/l/long.asp) or purchases shares of stock or other assets that they intend to hold in their portfolio. Typically, an investor who owns stock has the risk of taking a loss on the investment if the stock price declines below the purchase price. By purchasing a put option, any losses on the stock are limited or capped.
+Protective puts are commonly utilized when an investor is [[long]](https://www.investopedia.com/terms/l/long.asp) or purchases shares of stock or other assets that they intend to hold in their portfolio. Typically, an investor who owns stock has the risk of taking a loss on the investment if the stock price declines below the purchase price. By purchasing a put option, any losses on the stock are limited or capped.
 
 The protective put sets a known floor price below which the investor will not continue to lose any added money even as the underlying asset's price continues to fall.
 
-A put option is a contract that gives the owner the ability to sell a specific amount of the [underlying security](https://www.investopedia.com/terms/u/underlying-security.asp) at a set price before or by a specified date. Unlike futures contracts, the options contract does not obligate the holder to sell the asset and only allows them to sell if they should choose to do so. The set price of the contract is known as the strike price, and the specified date is the expiration date or expiry. One option contract equates to 100 shares of the underlying asset.
+A put option is a contract that gives the owner the ability to sell a specific amount of the [[underlying security]](https://www.investopedia.com/terms/u/underlying-security.asp) at a set price before or by a specified date. Unlike futures contracts, the options contract does not obligate the holder to sell the asset and only allows them to sell if they should choose to do so. The set price of the contract is known as the strike price, and the specified date is the expiration date or expiry. One option contract equates to 100 shares of the underlying asset.
 
-Also, just like all things in life, put options are not free. The fee on an option contract is known as the premium. This price has a [basis on several factors](https://www.investopedia.com/articles/active-trading/112213/getting-handle-options-premium.asp) including the current price of the underlying asset, the time until expiration and the [implied volatility](https://www.investopedia.com/terms/i/iv.asp) (IV)—how likely the price is going to change—of the asset.
+Also, just like all things in life, put options are not free. The fee on an option contract is known as the premium. This price has a [[basis on several factors]](https://www.investopedia.com/articles/active-trading/112213/getting-handle-options-premium.asp) including the current price of the underlying asset, the time until expiration and the [[implied volatility]](https://www.investopedia.com/terms/i/iv.asp) (IV)—how likely the price is going to change—of the asset.
 
 ## Strike Prices and Premiums
 
-A protective put option contract can be bought at any time. Some investors will buy these at the same time and when they purchase the stock. Others may wait and buy the contract at a later date. Whenever they buy the option, the relationship between the price of the underlying asset and the strike price can place the contract into one of three categories—known as the [moneyness](https://www.investopedia.com/terms/m/moneyness.asp). These categories include:
+A protective put option contract can be bought at any time. Some investors will buy these at the same time and when they purchase the stock. Others may wait and buy the contract at a later date. Whenever they buy the option, the relationship between the price of the underlying asset and the strike price can place the contract into one of three categories—known as the [[moneyness]](https://www.investopedia.com/terms/m/moneyness.asp). These categories include:
 
 1.  At-the-money (ATM) where strike and market are equal
 2.  Out-of-the-money (OTM) where the strike is below the market
@@ -49,9 +49,9 @@ A protective put option contract can be bought at any time. Some investors will 
 
 Investors looking to hedge losses on a holding primarily focus on the ATM and OTM option offerings.
 
-Should the price of the asset and the strike price be the same, the contract is considered [at-the-money](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM). An at-the-money put option provides an investor with 100% protection until the option expires. Many times, a protective put will be at-the-money if it was bought at the same time the underlying asset is purchased.
+Should the price of the asset and the strike price be the same, the contract is considered [[at-the-money]](https://www.investopedia.com/terms/a/atthemoney.asp) (ATM). An at-the-money put option provides an investor with 100% protection until the option expires. Many times, a protective put will be at-the-money if it was bought at the same time the underlying asset is purchased.
 
-An investor can also buy an [out-of-the-money](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM) put option. Out-of-the-money happens when the strike price is below the price of the stock or asset. An OTM put option does not provide 100% protection on the downside but instead caps the losses to the difference between the purchased stock price and the strike price. Investors use out-of-the-money options to lower the cost of the premium since they are willing to take a certain amount of a loss. Also, the further below the market value the strike is, the less the premium will become.
+An investor can also buy an [[out-of-the-money]](https://www.investopedia.com/terms/o/outofthemoney.asp) (OTM) put option. Out-of-the-money happens when the strike price is below the price of the stock or asset. An OTM put option does not provide 100% protection on the downside but instead caps the losses to the difference between the purchased stock price and the strike price. Investors use out-of-the-money options to lower the cost of the premium since they are willing to take a certain amount of a loss. Also, the further below the market value the strike is, the less the premium will become.
 
 For example, an investor could determine they're unwilling to take losses beyond a 5% decline in the stock. An investor could buy a put option with a strike price that is 5% lower than the stock price thus creating a worst-case scenario of a 5% loss if the stock declines. Different strike prices and expiration dates are available for options giving investors the ability to tailor the protection—and the premium fee.
 
@@ -63,7 +63,7 @@ A protective put is also known as a married put when the options contracts are m
 
 A protective put keeps downside losses limited while preserving unlimited potential gains to the upside. However, the strategy involves being long the underlying stock. If the stock keeps rising, the long stock position benefits and the bought put option is not needed and will expire worthlessly. All that will be lost is the premium paid to buy the put option. In this scenario where the original put expired, the investor will buy another protective put, again protecting his holdings.
 
-Protective puts can cover a portion of an investor's long position or their entire holdings. When the ratio of protective put coverage is equal to the amount of long stock, the strategy is known as a [married put](https://www.investopedia.com/terms/m/marriedput.asp).
+Protective puts can cover a portion of an investor's long position or their entire holdings. When the ratio of protective put coverage is equal to the amount of long stock, the strategy is known as a [[married put]](https://www.investopedia.com/terms/m/marriedput.asp).
 
 Married puts are commonly used when investors want to buy a stock and immediately purchase the put to protect the position. However, an investor can buy the protective put option at any time as long as they own the stock.
 

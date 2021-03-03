@@ -16,7 +16,7 @@ author: James Chen
 Making Money Abroad: How Foreign Portfolio Investment (FPI) Works
 ## What Is Foreign Portfolio Investment (FPI)?
 
-Foreign portfolio investment (FPI) consists of securities and other financial assets held by investors in another country. It does not provide the investor with direct ownership of a company's assets and is relatively liquid depending on the [volatility](https://www.investopedia.com/terms/v/volatility.asp) of the market. Along with [foreign direct investment](https://www.investopedia.com/terms/f/fdi.asp) (FDI), FPI is one of the common ways to invest in an overseas economy. FDI and FPI are both important sources of funding for most economies.
+Foreign portfolio investment (FPI) consists of securities and other financial assets held by investors in another country. It does not provide the investor with direct ownership of a company's assets and is relatively liquid depending on the [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) of the market. Along with [[foreign direct investment]](https://www.investopedia.com/terms/f/fdi.asp) (FDI), FPI is one of the common ways to invest in an overseas economy. FDI and FPI are both important sources of funding for most economies.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ Foreign portfolio investment (FPI) consists of securities and other financial as
 
 ## Understanding Foreign Portfolio Investment (FPI)
 
-[Portfolio investment](https://www.investopedia.com/terms/p/portfolio-investment.asp) involves the making and holding of a hands-off—or passive—investment of securities, done with the expectation of earning a return. In foreign portfolio investment, these securities can include stocks, american depositary receipts (ADRs), or global depositary receipts of companies headquartered outside the investor's nation. Holding also includes bonds or other debt issued by these companies or foreign governments, mutual funds, or [exchange traded funds](https://www.investopedia.com/terms/e/etf.asp) (ETFs) that invest in assets abroad or overseas.
+[Portfolio investment](https://www.investopedia.com/terms/p/portfolio-investment.asp) involves the making and holding of a hands-off—or passive—investment of securities, done with the expectation of earning a return. In foreign portfolio investment, these securities can include stocks, american depositary receipts (ADRs), or global depositary receipts of companies headquartered outside the investor's nation. Holding also includes bonds or other debt issued by these companies or foreign governments, mutual funds, or [[exchange traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs) that invest in assets abroad or overseas.
 
 An individual investor interested in opportunities outside their own country is most likely to invest through an FPI. On a more macro level, foreign portfolio investment is part of a country’s capital account and shown on its balance of payments (BOP). The BOP measures the amount of money flowing from one country to other countries over one monetary year.
 
@@ -65,4 +65,4 @@ Foreign portfolio investments are more suited to the average retail investor, wh
 
 ## Example of Foreign Portfolio Investment (FPI)
 
-The year 2018 was a [good one for India](https://economictimes.indiatimes.com/markets/stocks/news/2018-witnesses-highest-fpi-registrations-in-four-years/articleshow/67278380.cms) in terms of FPI. More than 600 new investment funds registered with the Securities and Exchange Board of India (SEBI), bringing the total to 9,246. An easier regulatory climate and a strong performance by Indian equities over the last few years were among the factors sparking foreign investors' interest.
+The year 2018 was a [[good one for India]](https://economictimes.indiatimes.com/markets/stocks/news/2018-witnesses-highest-fpi-registrations-in-four-years/articleshow/67278380.cms) in terms of FPI. More than 600 new investment funds registered with the Securities and Exchange Board of India (SEBI), bringing the total to 9,246. An easier regulatory climate and a strong performance by Indian equities over the last few years were among the factors sparking foreign investors' interest.

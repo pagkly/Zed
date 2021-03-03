@@ -16,7 +16,7 @@ author: Jason Fernando
 Discounted Cash Flow (DCF)
 ## What Is Discounted Cash Flow (DCF)?
 
-Discounted cash flow (DCF) is a [valuation](https://www.investopedia.com/terms/v/valuation.asp) method used to estimate the value of an investment based on its expected future [cash flows](https://www.investopedia.com/terms/c/cashflow.asp). DCF analysis attempts to figure out the value of an investment today, based on projections of how much money it will generate in the future.
+Discounted cash flow (DCF) is a [[valuation]](https://www.investopedia.com/terms/v/valuation.asp) method used to estimate the value of an investment based on its expected future [[cash flows]](https://www.investopedia.com/terms/c/cashflow.asp). DCF analysis attempts to figure out the value of an investment today, based on projections of how much money it will generate in the future.
 
 This applies to investment decisions of investors in companies or securities, such as acquiring a company, investing in a technology startup or buying a stock, and for business owners and managers looking to make capital budgeting or operating expenditures decisions such as opening a new factory, purchasing or leasing new equipment.
 
@@ -32,11 +32,11 @@ This applies to investment decisions of investors in companies or securities, su
 
 ## How Discounted Cash Flow Works
 
-The purpose of DCF analysis is to estimate the money an investor would receive from an investment, adjusted for the [time value of money](https://www.investopedia.com/terms/t/timevalueofmoney.asp). The time value of money assumes that a dollar today is worth more than a dollar tomorrow because it can be invested. As such, a DCF analysis is appropriate in any situation where a person is paying money in the present with expectations of receiving more money in the future.
+The purpose of DCF analysis is to estimate the money an investor would receive from an investment, adjusted for the [[time value of money]](https://www.investopedia.com/terms/t/timevalueofmoney.asp). The time value of money assumes that a dollar today is worth more than a dollar tomorrow because it can be invested. As such, a DCF analysis is appropriate in any situation where a person is paying money in the present with expectations of receiving more money in the future.
 
 For example, assuming a 5% annual interest rate, $1.00 in a savings account will be worth $1.05 in a year. Similarly, if a $1 payment is delayed for a year, its present value is $.95 because it cannot be put in your savings account to earn interest.
 
-DCF analysis finds the [present value](https://www.investopedia.com/terms/p/presentvalue.asp) of expected future cash flows using a [discount rate](https://www.investopedia.com/terms/d/discountrate.asp). Investors can use the concept of the present value of money to determine whether future cash flows of an investment or project are equal to or greater than the value of the initial investment. If the value calculated through DCF is higher than the current cost of the investment, the opportunity should be considered.
+DCF analysis finds the [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) of expected future cash flows using a [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp). Investors can use the concept of the present value of money to determine whether future cash flows of an investment or project are equal to or greater than the value of the initial investment. If the value calculated through DCF is higher than the current cost of the investment, the opportunity should be considered.
 
 In order to conduct a DCF analysis, an investor must make estimates about future cash flows and the ending value of the investment, equipment, or other asset. The investor must also determine an appropriate discount rate for the DCF model, which will vary depending on the project or investment under consideration, such as the company or investor's risk profile and the conditions of the [[Capital Markets What You Should Know|capital markets]]. If the investor cannot access the future cash flows, or the project is very complex, DCF will not have much value and alternative models should be employed.
 
@@ -48,7 +48,7 @@ DCF\=CF11+r1+CF21+r2+CFn1+rnwhere:CF\=The cash flow for the given year.CF1
 
 ## Example of Discounted Cash Flow
 
-When a company looks to analyze whether it should invest in a certain project or purchase new equipment, it usually uses its [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp) (WACC) as the discount rate when evaluating the DCF. The WACC incorporates the average rate of return that shareholders in the firm are expecting for the given year.
+When a company looks to analyze whether it should invest in a certain project or purchase new equipment, it usually uses its [[weighted average cost of capital]](https://www.investopedia.com/terms/w/wacc.asp) (WACC) as the discount rate when evaluating the DCF. The WACC incorporates the average rate of return that shareholders in the firm are expecting for the given year.
 
 You are looking to invest in a project, and your company's WACC is 5%, so you will use 5% as your discount rate. The initial investment is $11 million and the project will last for five years, with the following estimated cash flows per year:
 
@@ -118,9 +118,9 @@ $6 million
 
 $4,701,157
 
-If we sum up all of the discounted cash flows, we get a value of $13,306,728. Subtracting the initial investment of $11 million, we get a [net present value](https://www.investopedia.com/terms/n/npv.asp) (NPV) of $2,306,728. Because this is a positive number, the cost of the investment today is worth it as the project will generate positive discounted cash flows above the initial cost. If the project had cost $14 million, the NPV would have been -$693,272, indicating that the cost of the investment would not be worth it.
+If we sum up all of the discounted cash flows, we get a value of $13,306,728. Subtracting the initial investment of $11 million, we get a [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) of $2,306,728. Because this is a positive number, the cost of the investment today is worth it as the project will generate positive discounted cash flows above the initial cost. If the project had cost $14 million, the NPV would have been -$693,272, indicating that the cost of the investment would not be worth it.
 
-Dividend discount models, such as the [Gordon Growth Model](https://www.investopedia.com/terms/g/gordongrowthmodel.asp) (GGM), for valuing stocks are examples of using discounted cash flows.
+Dividend discount models, such as the [[Gordon Growth Model]](https://www.investopedia.com/terms/g/gordongrowthmodel.asp) (GGM), for valuing stocks are examples of using discounted cash flows.
 
 ## Disadvantages of Discounted Cash Flow
 

@@ -29,7 +29,7 @@ Each individual piece markup code (which would fall between "<" and ">" characte
 
 ## HTML Explained
 
-HyperText Markup Language is the computer language that facilitates website creation. The language, which has code words and syntax just like any other language, is relatively easy to comprehend and, as time goes on, increasingly powerful in what it allows someone to create. HTML continues to evolve to meet the demands and requirements of the Internet under the guise of the World Wide Web Consortium, the organization that designs and maintains the language; for instance, with the transition to [Web 2.0](https://www.investopedia.com/terms/w/web-20.asp).
+HyperText Markup Language is the computer language that facilitates website creation. The language, which has code words and syntax just like any other language, is relatively easy to comprehend and, as time goes on, increasingly powerful in what it allows someone to create. HTML continues to evolve to meet the demands and requirements of the Internet under the guise of the World Wide Web Consortium, the organization that designs and maintains the language; for instance, with the transition to [[Web 2.0]](https://www.investopedia.com/terms/w/web-20.asp).
 
 HyperText is the method by which Internet users navigate the web. By clicking on special text called hyperlinks, users are brought to new pages. The use of hyper means it is not linear, so users can go anywhere on the Internet simply by clicking on the available links. Markup is what HTML tags do to the text inside of them; they mark it as a specific type of text. For example, markup text could come in the form of boldface or italicized type to draw specific attention to a word or phrase.
 
@@ -41,6 +41,6 @@ The tags are what separate normal text from HTML code. Tags are the words betwe
 
 ## HTML vs. XML
 
-Unlike HTML, Extensible Markup Language, or [XML](https://www.investopedia.com/terms/x/extensible-markup-language-xml.asp), allows users to define their own markup. For instance, using XML, one user could choose to denote a footnote with the tag <footnote>, while another user could opt for <fn>.
+Unlike HTML, Extensible Markup Language, or [[XML]](https://www.investopedia.com/terms/x/extensible-markup-language-xml.asp), allows users to define their own markup. For instance, using XML, one user could choose to denote a footnote with the tag <footnote>, while another user could opt for <fn>.
 
 Using HTML, only one pre-determined tag can be used to denote a specific type of information. XML documents are meant to be easy to read since they contain user-defined tags and since the documents only consist of markup and content.

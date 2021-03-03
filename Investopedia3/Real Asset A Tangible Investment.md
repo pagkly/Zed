@@ -37,7 +37,7 @@ In contrast, a real asset has a tangible form, and its value derives from its ph
 
 ## Special Considerations
 
-Financial and real assets are sometimes collectively referred to as [tangible assets](https://www.investopedia.com/terms/t/tangibleasset.asp). For tax purposes, the Internal Revenue Service (IRS) requires businesses to report intangible assets differently than tangible assets, but it groups real and financial assets under the tangible asset umbrella.
+Financial and real assets are sometimes collectively referred to as [[tangible assets]](https://www.investopedia.com/terms/t/tangibleasset.asp). For tax purposes, the Internal Revenue Service (IRS) requires businesses to report intangible assets differently than tangible assets, but it groups real and financial assets under the tangible asset umbrella.
 
 Most businesses own a range of assets, which typically fall into real, financial, or intangible categories. Real assets, like financial assets, are considered tangible assets. For example, imagine XYZ Company owns a fleet of cars, a factory, and a great deal of equipment. These are real assets. However, the company also owns several trademarks and copyrights, which are its intangible assets. Finally, the company owns shares of stock in a sister company, and these are its financial assets.
 
@@ -55,9 +55,9 @@ Physically backed ETFs include some of the most popular ETFs in the world based 
 
 Real assets tend to be more stable than financial assets. Inflation, shifts in currency values, and other macroeconomic factors affect real assets less than financial assets. Real assets are particularly well-suited investments during inflationary times because of their tendency to outperform financial assets during such periods. 
 
-In a 2017 report, [asset management firm Brookfield](https://publicsecurities.brookfield.com/) cited a global value of real asset equities totaling $5.6 trillion. Of this total, 57% consisted of natural resources, 23% was real estate, and 20% was in infrastructure. In the firm's 2017 report on real assets as a [diversification](https://www.investopedia.com/terms/d/diversification.asp) mechanism, Brookfield noted that long-lived real assets tend to increase in value as replacement costs and operational efficiency rise over time. Further, the found that cash-flow from real assets like real estate, energy servicing, and infrastructure projects can provide predictable and steady income streams for investors.
+In a 2017 report, [[asset management firm Brookfield]](https://publicsecurities.brookfield.com/) cited a global value of real asset equities totaling $5.6 trillion. Of this total, 57% consisted of natural resources, 23% was real estate, and 20% was in infrastructure. In the firm's 2017 report on real assets as a [[diversification]](https://www.investopedia.com/terms/d/diversification.asp) mechanism, Brookfield noted that long-lived real assets tend to increase in value as replacement costs and operational efficiency rise over time. Further, the found that cash-flow from real assets like real estate, energy servicing, and infrastructure projects can provide predictable and steady income streams for investors.
 
-Real assets, however, have [lower liquidity](https://www.investopedia.com/terms/i/illiquid.asp) than financial assets, as they take longer to sell and have higher transaction fees in general. Also, real assets have higher carrying and storage costs than financial assets. For example, physical gold bullion often has to be stored in third-party facilities, which charge monthly rental fees and insurance.
+Real assets, however, have [[lower liquidity]](https://www.investopedia.com/terms/i/illiquid.asp) than financial assets, as they take longer to sell and have higher transaction fees in general. Also, real assets have higher carrying and storage costs than financial assets. For example, physical gold bullion often has to be stored in third-party facilities, which charge monthly rental fees and insurance.
 
 Pros
 

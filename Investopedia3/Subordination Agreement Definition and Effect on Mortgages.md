@@ -16,7 +16,7 @@ author: Carol M. Kopp
 Subordination Agreement: Definition and Effect on Mortgages
 ## What Is a Subordination Agreement?
 
-A subordination agreement is a legal document that establishes [one debt as ranking behind another in priority](https://www.investopedia.com/terms/s/subordinateddebt.asp) for collecting repayment from a debtor. The priority of debts can become extremely important when a debtor defaults on payments or declares bankruptcy.
+A subordination agreement is a legal document that establishes [[one debt as ranking behind another in priority]](https://www.investopedia.com/terms/s/subordinateddebt.asp) for collecting repayment from a debtor. The priority of debts can become extremely important when a debtor defaults on payments or declares bankruptcy.
 
 A subordination agreement acknowledges that one party’s claim or interest is superior to that of another party in the event that the borrower's assets must be liquidated to repay the debts.
 
@@ -26,9 +26,9 @@ The subordinated party will only collect on a debt owed when and if the obligati
 
 Individuals and businesses turn to lending institutions when they need to borrow funds. The lender is compensated when it receives interest payments on the loaned amount, unless and until the borrower defaults on her payments. The lender might require a subordination agreement to protect its interests should the borrower place additional liens against the property, such as if she were to take out a second mortgage.
 
-The "junior" or second debt is referred to as a [subordinated debt](https://www.investopedia.com/terms/s/subordinateddebt.asp). The debt which has a higher claim to the asset is the senior debt. 
+The "junior" or second debt is referred to as a [[subordinated debt]](https://www.investopedia.com/terms/s/subordinateddebt.asp). The debt which has a higher claim to the asset is the senior debt. 
 
-Lenders of senior debts have a legal right to be repaid in full before lenders of subordinated debts receive any repayments. It often happens that a debtor doesn't have enough funds to pay all debts, or [foreclosure and sale](https://www.investopedia.com/terms/f/foreclosure.asp) doesn't produce enough in the way of liquid proceeds, so lower priority debts might receive little or no repayment at all.
+Lenders of senior debts have a legal right to be repaid in full before lenders of subordinated debts receive any repayments. It often happens that a debtor doesn't have enough funds to pay all debts, or [[foreclosure and sale]](https://www.investopedia.com/terms/f/foreclosure.asp) doesn't produce enough in the way of liquid proceeds, so lower priority debts might receive little or no repayment at all.
 
 A subordination agreement acknowledges that one party’s claim or interest is superior to that of another party in the event that the borrower's assets must be liquidated.
 
@@ -51,7 +51,7 @@ Subordinated debts are riskier than higher priority loans, so lenders typically 
 
 Subordination agreements can be used in a variety of circumstances, including complex corporate debt structures.
 
-[Unsecured bonds](https://www.investopedia.com/terms/u/unsecureddebt.asp) without collateral are deemed to be subordinate to [secured bonds](https://www.investopedia.com/terms/s/securedbond.asp). Should the company default on its interest payments due to bankruptcy, secured bondholders would be repaid their loan amounts before unsecured bondholders. The interest rate on unsecured bonds is typically higher than that of secured bonds, earning higher returns for the investor should the issuer make good on its payments.
+[Unsecured bonds](https://www.investopedia.com/terms/u/unsecureddebt.asp) without collateral are deemed to be subordinate to [[secured bonds]](https://www.investopedia.com/terms/s/securedbond.asp). Should the company default on its interest payments due to bankruptcy, secured bondholders would be repaid their loan amounts before unsecured bondholders. The interest rate on unsecured bonds is typically higher than that of secured bonds, earning higher returns for the investor should the issuer make good on its payments.
 
 ## Special Considerations
 

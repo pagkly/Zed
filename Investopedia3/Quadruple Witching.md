@@ -18,7 +18,7 @@ Quadruple Witching
 
 Quadruple witching refers to a date on which stock index futures, stock index options, stock options, and single stock futures expire simultaneously. While stock options contracts and index options expire on the third Friday of every month, all four asset classes expire simultaneously on the third Friday of March, June, September, and December.
 
-Quadruple witching is similar to the [triple witching](https://www.investopedia.com/terms/t/triplewitchinghour.asp) dates, when three out of the four markets expire at the same time, or [double witching](https://www.investopedia.com/terms/d/doublewitching.asp), when two markets out of the four markets expire at the same time.
+Quadruple witching is similar to the [[triple witching]](https://www.investopedia.com/terms/t/triplewitchinghour.asp) dates, when three out of the four markets expire at the same time, or [[double witching]](https://www.investopedia.com/terms/d/doublewitching.asp), when two markets out of the four markets expire at the same time.
 
 ### Key Takeaways
 
@@ -46,7 +46,7 @@ A put option allows an investor to profit from a decrease in a stock's price as 
 
 ### Index Options
 
-An [index option](https://www.investopedia.com/terms/i/indexoption.asp) is just like a stock options contract, but instead of buying individual securities, index options give investors the right—not the obligation—to transact the index such as the S&P 500. Whether the index price or value is above or below the option's strike price on the expiration date determines the profit on the trade.
+An [[index option]](https://www.investopedia.com/terms/i/indexoption.asp) is just like a stock options contract, but instead of buying individual securities, index options give investors the right—not the obligation—to transact the index such as the S&P 500. Whether the index price or value is above or below the option's strike price on the expiration date determines the profit on the trade.
 
 Index options don't offer any ownership of the individual stocks. Instead, the transaction is [cash-settled](https://www.investopedia.com/terms/c/cash-settled-options.asp), giving the difference between the option's strike and the index value at expiry.
 
@@ -68,7 +68,7 @@ Instead, the futures contract earns a profit while the portfolio declines and ta
 
 Quadruple witching days witness heavy trading volume. One of the primary reasons for the increased activity is the options and futures contracts that are profitable settle automatically with offsetting trades.
 
-Call options expire [in-the-money](https://www.investopedia.com/ask/answers/042715/what-difference-between-money-and-out-money.asp) and are profitable when the price of the underlying security is higher than the strike price in the contract. Put options are in-the-money when the stock or index is priced below the strike price. In both situations, the expiration of in-the-money options results in automatic transactions between the buyers and sellers of the contracts. As a result, quadruple witching dates leads to an increased amount of these transactions being completed.
+Call options expire [[in-the-money]](https://www.investopedia.com/ask/answers/042715/what-difference-between-money-and-out-money.asp) and are profitable when the price of the underlying security is higher than the strike price in the contract. Put options are in-the-money when the stock or index is priced below the strike price. In both situations, the expiration of in-the-money options results in automatic transactions between the buyers and sellers of the contracts. As a result, quadruple witching dates leads to an increased amount of these transactions being completed.
 
 Following the week of quadruple witching, the market indices such as the S&P 500 tend to decline, perhaps due to exhausting the near-term demand for stocks. Despite the overall increase in trading volume, quadruple witching days do not necessarily translate into heavy [volatility](https://www.investopedia.com/terms/v/volatility.asp).
 
@@ -80,11 +80,11 @@ Much of the action surrounding futures and options on quadruple witching days ar
 
 For example, Standard & Poor’s 500 E-mini contracts, which are 20% of the size of the regular contract, are valued by multiplying the price of the index by 50.1 2 On a contract priced at 2,100, the value is $105,000, which is delivered to the contract owner if the contract is left open at expiration.
 
-On the expiration date, contract owners do not take delivery and instead, can close their contracts by booking an offsetting trade at the prevailing price cash settling the gain or loss from the purchase and sale prices. Traders can also extend the contract by offsetting the existing trade and simultaneously booking a new option or futures contract to be settled in the future—a process called [rolling](https://www.investopedia.com/terms/r/rollforward.asp) the contracts forward.
+On the expiration date, contract owners do not take delivery and instead, can close their contracts by booking an offsetting trade at the prevailing price cash settling the gain or loss from the purchase and sale prices. Traders can also extend the contract by offsetting the existing trade and simultaneously booking a new option or futures contract to be settled in the future—a process called [[rolling]](https://www.investopedia.com/terms/r/rollforward.asp) the contracts forward.
 
 ## Arbitrage Opportunities
 
-Over the course of a quadruple witching day, transactions involving large blocks of contracts can create price movements that may provide arbitrageurs the opportunity to profit on temporary price distortions. [Arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp) can rapidly escalate volume, particularly when high-volume round trips are repeated multiple times over the course of trading on quadruple witching days. However, just as activity can provide the potential for gains, it can also lead to losses very quickly.
+Over the course of a quadruple witching day, transactions involving large blocks of contracts can create price movements that may provide arbitrageurs the opportunity to profit on temporary price distortions. [[Arbitrage]](https://www.investopedia.com/terms/a/arbitrage.asp) can rapidly escalate volume, particularly when high-volume round trips are repeated multiple times over the course of trading on quadruple witching days. However, just as activity can provide the potential for gains, it can also lead to losses very quickly.
 
 Pros
 
@@ -120,8 +120,8 @@ Quadruple witching usually occurs the third Friday of March, June, September, an
 
 ### Why do traders care about quadruple witching?
 
-Because several derivatives expire at the same moment, traders will often seek to close out all of their open positions in advance of expiration. This can lead to increased trading volume and intraday volatility. Traders with large short [gamma](https://www.investopedia.com/terms/g/gamma.asp) positions are particularly exposed to to price movements leading up to expiration. Arbitrageurs try to take advantage of such abnormal price action, but doing so can also be quite risky.
+Because several derivatives expire at the same moment, traders will often seek to close out all of their open positions in advance of expiration. This can lead to increased trading volume and intraday volatility. Traders with large short [[gamma]](https://www.investopedia.com/terms/g/gamma.asp) positions are particularly exposed to to price movements leading up to expiration. Arbitrageurs try to take advantage of such abnormal price action, but doing so can also be quite risky.
 
 ### What are some price abnormalities observed on quadruple witching?
 
-Because traders will try to close or roll over their positions, trading volume is usually above average on quadruple witching, which can lead to greater volatility. However, one interesting phenomenon observed is that the price of a security may artificially tend toward a strike price with large open interest as [gamma hedging](https://www.investopedia.com/terms/g/gamma-hedging.asp) takes place. This can lead he price to ["pin" the strike](https://www.investopedia.com/terms/p/pinningthestrike.asp) at expiration due to this sort of trading activity. Pinning a strike imposes [pin risk](https://www.investopedia.com/terms/p/pinrisk.asp) for options traders, where they become uncertain whether or not they should [exercise](https://www.investopedia.com/terms/e/exercise.asp) their long options that have expired at the money, or very close to being at the money. This is because at the same time, they are unsure of how many of their similar short positions they will be [assigned](https://www.investopedia.com/terms/a/assignment.asp) on.
+Because traders will try to close or roll over their positions, trading volume is usually above average on quadruple witching, which can lead to greater volatility. However, one interesting phenomenon observed is that the price of a security may artificially tend toward a strike price with large open interest as [[gamma hedging]](https://www.investopedia.com/terms/g/gamma-hedging.asp) takes place. This can lead he price to ["pin" the strike](https://www.investopedia.com/terms/p/pinningthestrike.asp) at expiration due to this sort of trading activity. Pinning a strike imposes [pin risk](https://www.investopedia.com/terms/p/pinrisk.asp) for options traders, where they become uncertain whether or not they should [exercise](https://www.investopedia.com/terms/e/exercise.asp) their long options that have expired at the money, or very close to being at the money. This is because at the same time, they are unsure of how many of their similar short positions they will be [assigned](https://www.investopedia.com/terms/a/assignment.asp) on.

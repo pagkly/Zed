@@ -16,7 +16,7 @@ author: Julia Kagan
 Credit Score
 ## What Is a Credit Score?
 
-A credit score is a number between 300–850 that depicts a consumer's creditworthiness. The higher the score, the better a borrower looks to potential lenders. A credit score is based on [credit history](https://www.investopedia.com/terms/c/credit-history.asp): number of open accounts, total levels of debt, and repayment history, and other factors. Lenders use credit scores to evaluate the probability that an individual will repay loans in a timely manner.1 2
+A credit score is a number between 300–850 that depicts a consumer's creditworthiness. The higher the score, the better a borrower looks to potential lenders. A credit score is based on [[credit history]](https://www.investopedia.com/terms/c/credit-history.asp): number of open accounts, total levels of debt, and repayment history, and other factors. Lenders use credit scores to evaluate the probability that an individual will repay loans in a timely manner.1 2
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ Conversely, a credit score of 700 or above is generally considered good and may 
 
 Your credit score, a statistical analysis of your creditworthiness, directly affects how much or how little you might pay for any lines of credit you take out.
 
-A person’s credit score may also determine the size of an initial deposit required to obtain a smartphone, cable service or utilities, or to rent an apartment. And lenders frequently review borrowers' scores, especially when deciding whether to change an [interest rate](https://www.investopedia.com/terms/i/interestrate.asp) or credit limit on a credit card. 
+A person’s credit score may also determine the size of an initial deposit required to obtain a smartphone, cable service or utilities, or to rent an apartment. And lenders frequently review borrowers' scores, especially when deciding whether to change an [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) or credit limit on a credit card. 
 
 ## Credit Score Factors: How Your Score Is Calculated
 
@@ -54,7 +54,7 @@ There are three major credit reporting agencies in the United States ([Experian,
 4.  Types of credit
 5.  New credit 3
 
-Payment history counts for 35% of a credit score and shows whether a person pays their obligations on time. Total amount owed counts for 30% and takes into account the percentage of credit available to a person that is currently being used, which is known as [credit utilization](https://www.investopedia.com/terms/c/credit-utilization-rate.asp). Length of credit history counts for 15%, with longer credit histories being considered less risky, as there is more data to determine payment history.3
+Payment history counts for 35% of a credit score and shows whether a person pays their obligations on time. Total amount owed counts for 30% and takes into account the percentage of credit available to a person that is currently being used, which is known as [[credit utilization]](https://www.investopedia.com/terms/c/credit-utilization-rate.asp). Length of credit history counts for 15%, with longer credit histories being considered less risky, as there is more data to determine payment history.3
 
 [The type of credit](https://www.investopedia.com/articles/pf/07/loan_types.asp) used counts for 10% of a credit score and shows if a person has a mix of installment credit, such as car loans or mortgage loans, and revolving credit, such as credit cards. New credit also counts for 10%, and it factors in how many new accounts a person has, how many new accounts they have applied for recently, which result in [credit inquiries](https://www.investopedia.com/terms/c/credit-inquiry.asp), and when the most recent account was opened.3
 
@@ -74,7 +74,7 @@ When information is updated on a borrower’s credit report, their credit score 
 -   Pay your bills on time: Six months of on-time payments is required to see a noticeable difference in your score. 
 -   Up your credit line: If you have credit card accounts, call and inquire about a credit increase. If your account is in good standing, you should be granted an increase in your credit limit. It is important not to spend this amount so that you maintain a lower credit utilization rate.
 -   Don’t close a credit card account: If you are not using a certain credit card, it is best to stop using it instead of closing the account. Depending on the age and credit limit of a card, it can hurt your credit score if you close the account. Say, for instance, that you have $1,000 in debt and a $5,000 credit limit split evenly between two cards. As the account is, your [credit utilization rate](https://www.investopedia.com/terms/c/credit-utilization-rate.asp) is 20%, which is good. However, closing one of the cards would put your credit utilization rate at 40%, which will negatively affect your score.
--   Work with one of the [best credit repair companies](https://www.investopedia.com/best-credit-repair-companies-4843898): If you don't have the time to improve your credit score, credit repair companies will negotiate with your creditors and the three credit agencies on your behalf, in exchange for a monthly fee. Additionally, given the number of opportunities a great credit score provides, it could be worthwhile to utilize one of the [best credit monitoring services](https://www.investopedia.com/best-credit-monitoring-services-4846982) to keep your information secure.
+-   Work with one of the [[best credit repair companies]](https://www.investopedia.com/best-credit-repair-companies-4843898): If you don't have the time to improve your credit score, credit repair companies will negotiate with your creditors and the three credit agencies on your behalf, in exchange for a monthly fee. Additionally, given the number of opportunities a great credit score provides, it could be worthwhile to utilize one of the [best credit monitoring services](https://www.investopedia.com/best-credit-monitoring-services-4846982) to keep your information secure.
 
 ## The Bottom Line
 

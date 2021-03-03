@@ -16,16 +16,16 @@ author: Julia Kagan
 Nostro Account
 ## What Is a Nostro Account?
 
-A nostro account refers to an account that a bank holds in a foreign currency in another bank. Nostros, a term derived from the Latin word for "ours," are frequently used to facilitate [foreign exchange](https://www.investopedia.com/terms/f/foreign-exchange.asp) and trade transactions. The opposite term "[vostro accounts](https://www.investopedia.com/terms/v/vostroaccount.asp)," derived from the Latin word for "yours," is how a bank refers to the accounts that other banks have on its books in its home currency.
+A nostro account refers to an account that a bank holds in a foreign currency in another bank. Nostros, a term derived from the Latin word for "ours," are frequently used to facilitate [[foreign exchange]](https://www.investopedia.com/terms/f/foreign-exchange.asp) and trade transactions. The opposite term "[vostro accounts](https://www.investopedia.com/terms/v/vostroaccount.asp)," derived from the Latin word for "yours," is how a bank refers to the accounts that other banks have on its books in its home currency.
 
 ## How a Nostro Account Works
 
-A nostro account and a vostro account actually refer to the same entity but from a different perspective. For example, Bank X has an account with Bank Y in Bank Y's home currency. To Bank X, that is a nostro, meaning "our account on your books," while to Bank Y, it is a vostro, meaning "your account on our books." These accounts are used to facilitate international [transactions](https://www.investopedia.com/terms/t/transaction.asp) and to settle transactions that hedge [exchange rate](https://www.investopedia.com/terms/e/exchangerate.asp) risk.
+A nostro account and a vostro account actually refer to the same entity but from a different perspective. For example, Bank X has an account with Bank Y in Bank Y's home currency. To Bank X, that is a nostro, meaning "our account on your books," while to Bank Y, it is a vostro, meaning "your account on our books." These accounts are used to facilitate international [[transactions]](https://www.investopedia.com/terms/t/transaction.asp) and to settle transactions that hedge [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) risk.
 
 ### Key Takeaways
 
 -   Nostro accounts simplify the process of exchanging and trading in foreign currencies.
--   Major examples of convertible currencies are the U.S. dollar, Canadian dollar, British pound, the [euro](https://www.investopedia.com/terms/e/euro.asp), and the Japanese yen.
+-   Major examples of convertible currencies are the U.S. dollar, Canadian dollar, British pound, the [[euro]](https://www.investopedia.com/terms/e/euro.asp), and the Japanese yen.
 -   The bank that is holding a nostro or vostro account may be called the "facilitator" bank.
 -   Nostro accounts are not the same as standard demand deposit accounts because these types of accounts are denominated in foreign currencies.
 
@@ -33,8 +33,8 @@ Prior to the advent of the euro as a currency for financial settlements on Jan. 
 
 ## Example of a Payment Using a Nostro Account
 
-The following example illustrates the process of making a payment using a nostro account. Bank A in the United States enters into a spot foreign exchange contract to buy British pounds from Bank B, which is in Sweden. On the [settlement date](https://www.investopedia.com/terms/s/settlementdate.asp), Bank B must deliver pounds from its nostro account in the United Kingdom to the nostro account of Bank A, also in the United Kingdom. On the same day, Bank A must pay dollars in the United States to the nostro account of Bank B.
+The following example illustrates the process of making a payment using a nostro account. Bank A in the United States enters into a spot foreign exchange contract to buy British pounds from Bank B, which is in Sweden. On the [[settlement date]](https://www.investopedia.com/terms/s/settlementdate.asp), Bank B must deliver pounds from its nostro account in the United Kingdom to the nostro account of Bank A, also in the United Kingdom. On the same day, Bank A must pay dollars in the United States to the nostro account of Bank B.
 
 ## Special Considerations
 
-The [central banks](https://www.investopedia.com/terms/c/centralbank.asp) of many developing countries limit the buying and selling of their currencies, which is usually to control imports and exports and to control the exchange rate. Banks generally do not hold nostro accounts in those countries, as there is little or no foreign exchange business. When a bank needs to make a payment in a country where it does not hold a nostro account, it can use a bank with which it has a correspondent relationship to make the payment on its behalf.
+The [[central banks]](https://www.investopedia.com/terms/c/centralbank.asp) of many developing countries limit the buying and selling of their currencies, which is usually to control imports and exports and to control the exchange rate. Banks generally do not hold nostro accounts in those countries, as there is little or no foreign exchange business. When a bank needs to make a payment in a country where it does not hold a nostro account, it can use a bank with which it has a correspondent relationship to make the payment on its behalf.

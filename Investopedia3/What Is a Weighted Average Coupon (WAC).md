@@ -26,11 +26,11 @@ The weighted average coupon (WAC) is a measurement of the rate of return on a po
 
 ## Understanding a Weighted Average Coupon (WAC)
 
-Banks routinely sell the mortgages they issue on a secondary mortgage market. The buyers are institutional investors such as hedge funds, and investment banks. These buyers package the mortgages into marketable securities that can be traded to investors on the open market as [mortgage-backed securities](https://www.investopedia.com/terms/m/mbs.asp) (MBS).
+Banks routinely sell the mortgages they issue on a secondary mortgage market. The buyers are institutional investors such as hedge funds, and investment banks. These buyers package the mortgages into marketable securities that can be traded to investors on the open market as [[mortgage-backed securities]](https://www.investopedia.com/terms/m/mbs.asp) (MBS).
 
 In the weighted average calculation, the principal balance of each mortgage is used as its weighting factor.
 
-MBS holders receive interest or [coupon payments](https://www.investopedia.com/terms/c/coupon.asp) which are calculated as the weighted average of the underlying coupon of the mortgage loans backing the MBS.
+MBS holders receive interest or [[coupon payments]](https://www.investopedia.com/terms/c/coupon.asp) which are calculated as the weighted average of the underlying coupon of the mortgage loans backing the MBS.
 
 ### Calculating the WAC
 
@@ -74,4 +74,4 @@ No mention of mortgage-backed securities is complete without a reference to the 
 
 Many of the MBS investments of that period were backed by mortgages issued during the nationwide housing bubble and, in many cases, issued to borrowers who could not afford to repay them. When the bubble burst, many of these borrowers were forced into default and the value of the securitization of these assets melted away.
 
-They were, in fact, collateralized with [subprime loans](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp).
+They were, in fact, collateralized with [[subprime loans]](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp).

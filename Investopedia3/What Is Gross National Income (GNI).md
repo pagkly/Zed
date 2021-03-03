@@ -24,7 +24,7 @@ GNI is an alternative to gross domestic product (GDP) as a means of measuring an
 
 GNI calculates the total income earned by a nation's people and businesses, including investment income, regardless of where it was earned. It also covers money received from abroad such as foreign investment and economic development aid.
 
-The more widely known [GDP is an estimate of the total value of all goods and services produced within a nation](https://www.investopedia.com/articles/investing/121213/gdp-and-its-importance.asp) for a set period, usually a year. Finally, there's gross national product (GNP), which is a broad measure of all economic activity.
+The more widely known [[GDP is an estimate of the total value of all goods and services produced within a nation]](https://www.investopedia.com/articles/investing/121213/gdp-and-its-importance.asp) for a set period, usually a year. Finally, there's gross national product (GNP), which is a broad measure of all economic activity.
 
 ### Key Takeaways
 
@@ -52,7 +52,7 @@ For many nations, there is little difference between GDP and GNI, since the diff
 
 For instance, the U.S. GNI for 2018 was about 20.7 trillion, according to the World Bank. The GDP in that same year was $20.5 trillion, according to the U.S. Bureau of Economic Affairs.
 
-For some countries, however, the difference is significant: GNI can be much higher than GDP if a country receives a large amount of [foreign aid](https://www.investopedia.com/terms/f/foreign-aid.asp), as is the case with East Timor. But it can be much lower if foreigners control a large proportion of a country's production, as is the case with Ireland, a low-tax jurisdiction where the European and U.S. subsidiaries of a number of multinational companies nominally reside.
+For some countries, however, the difference is significant: GNI can be much higher than GDP if a country receives a large amount of [[foreign aid]](https://www.investopedia.com/terms/f/foreign-aid.asp), as is the case with East Timor. But it can be much lower if foreigners control a large proportion of a country's production, as is the case with Ireland, a low-tax jurisdiction where the European and U.S. subsidiaries of a number of multinational companies nominally reside.
 
 ## GDP Vs. GNI Vs. GNP
 
@@ -60,9 +60,9 @@ Of the three measures, GNP is the least used, possibly because it might be decep
 
 In fact, GNI may now be the most accurate reflection of national wealth given today's mobile population and global commerce.
 
--   [GDP](https://www.investopedia.com/terms/g/gdp.asp) is the total market value of all finished goods and services produced within a country in a set time period.
+-   [[GDP]](https://www.investopedia.com/terms/g/gdp.asp) is the total market value of all finished goods and services produced within a country in a set time period.
 -   GNI is the total income received by the country from its residents and businesses regardless of whether they are located in the country or abroad.
--   [GNP](https://www.investopedia.com/terms/g/gnp.asp) includes the income of all of a country's residents and businesses whether it flows back to the country or is spent abroad. It also adds subsidies and taxes from foreign sources.
+-   [[GNP]](https://www.investopedia.com/terms/g/gnp.asp) includes the income of all of a country's residents and businesses whether it flows back to the country or is spent abroad. It also adds subsidies and taxes from foreign sources.
 
 Image by Sabrina Jiang © Investopedia 2020
 

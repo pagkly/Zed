@@ -16,7 +16,7 @@ author: Will Kenton
 Hit The Bid
 ## What Is Hit The Bid?
 
-‘Hit the bid’ is a buzzword used to describe an event where a trader agrees to sell at a [bid price](https://www.investopedia.com/terms/b/bidprice.asp) quoted by another trader. The "bid-offer" (or "bid-ask") quote is controlled by a broker, or [market maker](https://www.investopedia.com/terms/m/marketmaker.asp), who collects commission based on the bid-offer spread. 
+‘Hit the bid’ is a buzzword used to describe an event where a trader agrees to sell at a [[bid price]](https://www.investopedia.com/terms/b/bidprice.asp) quoted by another trader. The "bid-offer" (or "bid-ask") quote is controlled by a broker, or [[market maker]](https://www.investopedia.com/terms/m/marketmaker.asp), who collects commission based on the bid-offer spread. 
 
 ### Key Takeaways
 
@@ -44,6 +44,6 @@ The maximum price the trader is prepared to pay in order to wait for a higher pr
 
 ## Example of Hitting the Bid
 
-For example, a portfolio manager has a junk bond that they want to sell. The [portfolio manager](https://www.investopedia.com/terms/p/portfoliomanager.asp) calls a [junk bond](https://www.investopedia.com/terms/j/junkbond.asp) broker to solicit bids for the junk bond. The broker calls prospective buyers and immediately works up a bid of $75 for the bond. The broker communicates this bid to the seller. The seller declines. 
+For example, a portfolio manager has a junk bond that they want to sell. The [[portfolio manager]](https://www.investopedia.com/terms/p/portfoliomanager.asp) calls a [[junk bond]](https://www.investopedia.com/terms/j/junkbond.asp) broker to solicit bids for the junk bond. The broker calls prospective buyers and immediately works up a bid of $75 for the bond. The broker communicates this bid to the seller. The seller declines. 
 
 Another bid comes in from the market maker for $74, and the seller again declines. Later, the broker goes back to the seller with a $74.50 bid. The seller hits the bid and sells it at the requested price. The other side of "hit the bid" is "lift the offer. To lift an offer is to purchase a security. In this scenario, the trader buying the junk bond from the portfolio manager is "lifting the offer" from the broker.

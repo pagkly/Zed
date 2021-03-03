@@ -16,7 +16,7 @@ author: Jake Frankenfield
 How General Equilibrium Theory Works
 ## What Is General Equilibrium Theory?
 
-General equilibrium theory, or [Walrasian](https://www.investopedia.com/terms/w/walras-law.asp) general equilibrium, attempts to [explain the functioning of the macroeconomy](https://www.investopedia.com/ask/answers/012615/what-general-equilibrium-theory-macroeconomics.asp) as a whole, rather than as collections of individual market phenomena.
+General equilibrium theory, or [[Walrasian]](https://www.investopedia.com/terms/w/walras-law.asp) general equilibrium, attempts to [[explain the functioning of the macroeconomy]](https://www.investopedia.com/ask/answers/012615/what-general-equilibrium-theory-macroeconomics.asp) as a whole, rather than as collections of individual market phenomena.
 
 The theory was first developed by the French economist Leon Walras in the late 19th century. It stands in contrast with partial equilibrium theory, or Marshallian partial equilibrium, which only analyzes specific markets or sectors.
 
@@ -31,7 +31,7 @@ The theory was first developed by the French economist Leon Walras in the late 1
 
 Walras developed the general equilibrium theory to solve a much-debated problem in economics. Up to that point, most economic analyses only demonstrated partial equilibrium—that is, the price at which supply equals demand and markets clear—in individual markets. It was not yet shown that equilibrium could exist for all markets at the same time in aggregate.
 
-General equilibrium theory tried to show how and why all free markets tend toward equilibrium in the long run. The important fact was that markets didn't necessarily reach [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp), only that they tended toward it. As Walras wrote in 1889, “The market is like a lake agitated by the wind, where the water is incessantly seeking its level without ever reaching it.”
+General equilibrium theory tried to show how and why all free markets tend toward equilibrium in the long run. The important fact was that markets didn't necessarily reach [[equilibrium]](https://www.investopedia.com/terms/e/equilibrium.asp), only that they tended toward it. As Walras wrote in 1889, “The market is like a lake agitated by the wind, where the water is incessantly seeking its level without ever reaching it.”
 
 General equilibrium theory builds on the coordinating processes of a free market price system, first widely popularized by Adam Smith's "The Wealth of Nations" (1776). This system says traders, in a bidding process with other traders, create transactions by buying and selling goods. Those transaction prices act as signals to other producers and consumers to realign their resources and activities along more profitable lines.
 

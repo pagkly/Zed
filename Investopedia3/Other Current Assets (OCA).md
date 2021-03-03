@@ -16,9 +16,9 @@ author: Daniel Liberto
 Other Current Assets (OCA)
 ## What Are Other Current Assets (OCA)?
 
-Other current assets (OCA) is a category of things of value that a company owns, benefits from, or uses to generate income that can be converted into cash within one business cycle. They are referred to as “other” because they are uncommon or insignificant, unlike typical [current asset](https://www.investopedia.com/terms/c/currentassets.asp) items such as cash, securities, [accounts receivable](https://www.investopedia.com/terms/a/accountsreceivable.asp), [inventory](https://www.investopedia.com/terms/i/inventory.asp), and [prepaid expenses](https://www.investopedia.com/terms/p/prepaidexpense.asp).
+Other current assets (OCA) is a category of things of value that a company owns, benefits from, or uses to generate income that can be converted into cash within one business cycle. They are referred to as “other” because they are uncommon or insignificant, unlike typical [[current asset]](https://www.investopedia.com/terms/c/currentassets.asp) items such as cash, securities, [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp), [[inventory]](https://www.investopedia.com/terms/i/inventory.asp), and [[prepaid expenses]](https://www.investopedia.com/terms/p/prepaidexpense.asp).
 
-The OCA account is listed on the [balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp) and is a component of a firm's total assets.
+The OCA account is listed on the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) and is a component of a firm's total assets.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The OCA account is listed on the [balance sheet](https://www.investopedia.com/te
 
 ## Understanding Other Current Assets (OCA)
 
-[Assets](https://www.investopedia.com/terms/a/asset.asp) are broken down on the balance sheet as either [fixed assets](https://www.investopedia.com/terms/f/fixedasset.asp) or current assets. Fixed assets are typically long-term tangible pieces of property, such as buildings, computer equipment, land, and machinery, that a firm owns and uses in its operations to generate income. They have useful lives that span over a year and are not [liquid](https://www.investopedia.com/terms/l/liquidity.asp). 
+[Assets](https://www.investopedia.com/terms/a/asset.asp) are broken down on the balance sheet as either [[fixed assets]](https://www.investopedia.com/terms/f/fixedasset.asp) or current assets. Fixed assets are typically long-term tangible pieces of property, such as buildings, computer equipment, land, and machinery, that a firm owns and uses in its operations to generate income. They have useful lives that span over a year and are not [[liquid]](https://www.investopedia.com/terms/l/liquidity.asp). 
 
 Current assets, on the other hand, are all the assets of a company that are expected to be conveniently sold, consumed, utilized, or exhausted through standard business operations. They can easily be liquidated for cash, usually within one year, and are considered when calculating a firm's ability to pay [short-term liabilities](https://www.investopedia.com/terms/s/shorttermdebt.asp). Examples of current assets include cash and cash equivalents (CCE), marketable securities, accounts receivable, inventory, and prepaid expenses.
 
@@ -38,8 +38,8 @@ Sometimes, one-off situations, explained in a company’s [10-K filings](https
 
 -   Advances paid to employees or suppliers
 -   A piece of property that is being readied for sale
--   [Restricted cash](https://www.investopedia.com/terms/r/restricted-cash.asp) or investments
--   [Cash surrender value](https://www.investopedia.com/terms/c/cashsurrendervalue.asp) of life insurance policies
+-   [[Restricted cash]](https://www.investopedia.com/terms/r/restricted-cash.asp) or investments
+-   [[Cash surrender value]](https://www.investopedia.com/terms/c/cashsurrendervalue.asp) of life insurance policies
 
 ## Real-World Example of Other Current Assets (OCA)
 
@@ -51,7 +51,7 @@ For the quarter ending March 31, 2019, Microsoft Corp. ([MSFT](https://www.inves
 
 Microsoft did not provide a clearer breakdown of its other current assets (OCA) in its latest [10-Q](https://www.investopedia.com/terms/1/10q.asp) and 10-K statements. Because they represent a limited source of liquidity for a company and may not have a significant impact on a business’s overall financial situation, not adding more detailed information on them is common.
 
-When other current assets (OCA) are discussed, information will be provided in the [footnotes to the financial statements](https://www.investopedia.com/terms/f/footnote.asp). Explanations may be necessary, for example, when there is a notable change in other current assets (OCA) from one period to the next.
+When other current assets (OCA) are discussed, information will be provided in the [[footnotes to the financial statements]](https://www.investopedia.com/terms/f/footnote.asp). Explanations may be necessary, for example, when there is a notable change in other current assets (OCA) from one period to the next.
 
 Other current assets (OCA) are expected to be disposed within a year or to mature into another form. Thus, the value of a company's other current assets (OCA) may vary greatly from year to year, depending on the health of the company and how it spends its money. 
 

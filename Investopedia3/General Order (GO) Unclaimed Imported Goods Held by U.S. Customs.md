@@ -16,7 +16,7 @@ author: Alexandra Twin
 General Order (GO): Unclaimed Imported Goods Held by U.S. Customs
 ## What Is a General Order (GO)?
 
-A general order (GO) is a status given to [imported](https://www.investopedia.com/terms/i/import.asp) goods that are missing the proper documentation or cannot be quickly cleared through customs for other reasons. Merchandise may be held under general order if the proper duties, fees, or interest are not paid, if the owner fails to complete the required customs paperwork, or if it is not correctly or legally invoiced. Goods will be held under general order if they remain uncleared for more than 15 days.
+A general order (GO) is a status given to [[imported]](https://www.investopedia.com/terms/i/import.asp) goods that are missing the proper documentation or cannot be quickly cleared through customs for other reasons. Merchandise may be held under general order if the proper duties, fees, or interest are not paid, if the owner fails to complete the required customs paperwork, or if it is not correctly or legally invoiced. Goods will be held under general order if they remain uncleared for more than 15 days.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ A general order (GO) is a status given to [imported](https://www.investopedia.co
 
 ## Understanding General Orders (GOs)
 
-After 15 days, any general order merchandise will be moved to a Class 11 bonded warehouse under the authority set forth in Title 19, United States Code (U.S.C.), section 1555. The risk of [transportation and storage](https://www.investopedia.com/articles/investing/072115/why-these-industries-are-prone-corruption.asp) of the goods remains with the owner of the merchandise.
+After 15 days, any general order merchandise will be moved to a Class 11 bonded warehouse under the authority set forth in Title 19, United States Code (U.S.C.), section 1555. The risk of [[transportation and storage]](https://www.investopedia.com/articles/investing/072115/why-these-industries-are-prone-corruption.asp) of the goods remains with the owner of the merchandise.
 
 If the goods remain under general order for more than six months, the merchandise will be confiscated by the government or put up for an auction run by the U.S. Customs and Border Protection (CBP) agency. Live auctions take place each month online (nationwide) or at public venues like a hotel located close to ports. Auctions are open to anyone except CBP employees and their immediate family members. Bidders must place down a $5,000 deposit to participate. Purchases are nonrefundable and the buyers are responsible for picking up the merchandise.
 
@@ -35,7 +35,7 @@ The port of entry or company that first receives the goods into the United State
 
 ## Real-World Example of a General Order
 
-On February 16-17, 2017, the CBP held a nationwide online auction for general order merchandise abandoned at ports and moved to [bonded warehouses](https://www.investopedia.com/terms/w/warehouse-bond.asp). After six months, the merchandise became eligible for auction. The list of items included the following:
+On February 16-17, 2017, the CBP held a nationwide online auction for general order merchandise abandoned at ports and moved to [[bonded warehouses]](https://www.investopedia.com/terms/w/warehouse-bond.asp). After six months, the merchandise became eligible for auction. The list of items included the following:
 
 -   2011 Mercedes Benz ML350
 -   2011 Ford Fusion

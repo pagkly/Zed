@@ -16,7 +16,7 @@ author: Caroline Banton
 Understanding the Network Effect
 ## What Is the Network Effect?
 
-The network effect is a phenomenon whereby increased numbers of people or participants improve the [value of a good or service](https://www.investopedia.com/terms/v/value-network.asp). The Internet is an example of the network effect. Initially, there were few users on the Internet since it was of little value to anyone outside of the military and some research scientists.
+The network effect is a phenomenon whereby increased numbers of people or participants improve the [[value of a good or service]](https://www.investopedia.com/terms/v/value-network.asp). The Internet is an example of the network effect. Initially, there were few users on the Internet since it was of little value to anyone outside of the military and some research scientists.
 
 However, as more users gained access to the Internet, they produced more content, information, and services. The development and improvement of websites attracted more users to connect and do business with each other. As the Internet experienced increases in traffic, it offered more value, leading to a network effect.
 
@@ -31,7 +31,7 @@ However, as more users gained access to the Internet, they produced more content
 
 The network effect can lead to an improved experience as more people participate, but can also encourage new participants as they look to benefit from the network.
 
-Network effects can be found throughout [social media](https://www.investopedia.com/terms/s/social-media.asp). For example, as more users post content on Twitter such as links and media, the more useful the platform becomes to the public. The network effect has created exponential growth rates for networking platforms such as Facebook, YouTube, and Instagram.
+Network effects can be found throughout [[social media]](https://www.investopedia.com/terms/s/social-media.asp). For example, as more users post content on Twitter such as links and media, the more useful the platform becomes to the public. The network effect has created exponential growth rates for networking platforms such as Facebook, YouTube, and Instagram.
 
 Multiple network effects have occurred from individuals joining social media platforms. As more users join and participate, companies looking to advertise their products and services rush to join these sites to capitalize on the trend. The increase in advertisers leads to more revenue for social media websites. As a result, the sites evolve and are able to offer more services to the consumer.
 
@@ -47,7 +47,7 @@ The Internet is a notable example of the network effect–the escalation of user
 
 ## Special Considerations for Businesses and the Network Effect
 
-The network effects that exist on the Internet often benefit a variety of services-for-hire apps and websites. As more professionals list their services online, such as dog walkers, tutors, or electricians, more customers rely on those online directories. [E-commerce](https://www.investopedia.com/terms/e/ecommerce.asp) sites, such as Etsy and eBay, grew in popularity as more sellers joined those marketplaces and sold their products to consumers who embraced online shopping.
+The network effects that exist on the Internet often benefit a variety of services-for-hire apps and websites. As more professionals list their services online, such as dog walkers, tutors, or electricians, more customers rely on those online directories. [[E-commerce]](https://www.investopedia.com/terms/e/ecommerce.asp) sites, such as Etsy and eBay, grew in popularity as more sellers joined those marketplaces and sold their products to consumers who embraced online shopping.
 
 The network effect also played a role in the advance of ridesharing services. Companies such as Uber and Lyft evolved and grew through the support of participants who signed up and expanding their reach across cities and states. As more drivers became part of Uber and Lyft, the two brands gained in market value.
 
@@ -57,6 +57,6 @@ Some of the leading, fastest-growing companies have achieved success because of 
 
 ## Criticism of the Network Effect
 
-The chief hurdle for any good or service that uses the network effect is gaining traction or attracting enough users initially so that the network effect takes hold. The amount of users required for significant network effects is called the critical mass. After [critical mass](https://www.investopedia.com/terms/c/critical-mass.asp) is attained, the good or service attracts many new users because the network offers utility or benefits to the consumer.
+The chief hurdle for any good or service that uses the network effect is gaining traction or attracting enough users initially so that the network effect takes hold. The amount of users required for significant network effects is called the critical mass. After [[critical mass]](https://www.investopedia.com/terms/c/critical-mass.asp) is attained, the good or service attracts many new users because the network offers utility or benefits to the consumer.
 
 If too many people use a good or service, congestion can occur. Congestion is a negative network effect. For the Internet example, too many users on the same network service can slow the speed of the network, decreasing the benefit for users. Providers of goods and services that use a network effect must ensure that capacity can be increased sufficiently to accommodate all users.

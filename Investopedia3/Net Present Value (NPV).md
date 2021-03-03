@@ -16,7 +16,7 @@ author: Jason Fernando
 Net Present Value (NPV)
 ## What is Net Present Value (NPV)?
 
-Net present value (NPV) is the difference between the present value of cash inflows and the present [value](https://www.investopedia.com/terms/v/valuation.asp) of cash outflows over a period of time. NPV is used in [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) and investment planning to analyze the profitability of a projected investment or project.
+Net present value (NPV) is the difference between the present value of cash inflows and the present [[value]](https://www.investopedia.com/terms/v/valuation.asp) of cash outflows over a period of time. NPV is used in [[capital budgeting]](https://www.investopedia.com/terms/c/capitalbudgeting.asp) and investment planning to analyze the profitability of a projected investment or project.
 
 The following formula is used to calculate NPV:
 
@@ -104,4 +104,4 @@ NPV and IRR are closely related concepts, in that the IRR of an investment is th
 
 ### What is a good NPV?
 
-In theory, an NPV is “good” if it is greater than zero. After all, the NPV calculation already takes into account factors such as the investor’s cost of capital, opportunity cost, and risk tolerance through the discount rate. And the future cashflows of the project, together with the time value of money, are also captured. Therefore, even an NPV of $1 should theoretically qualify as “good”. In practice, however, many investors will insist on certain NPV thresholds, such as $10,000 or greater, in order to provide themselves with an additional [margin of safety](https://www.investopedia.com/terms/m/marginofsafety.asp).
+In theory, an NPV is “good” if it is greater than zero. After all, the NPV calculation already takes into account factors such as the investor’s cost of capital, opportunity cost, and risk tolerance through the discount rate. And the future cashflows of the project, together with the time value of money, are also captured. Therefore, even an NPV of $1 should theoretically qualify as “good”. In practice, however, many investors will insist on certain NPV thresholds, such as $10,000 or greater, in order to provide themselves with an additional [[margin of safety]](https://www.investopedia.com/terms/m/marginofsafety.asp).

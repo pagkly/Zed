@@ -16,13 +16,13 @@ author: Julia Kagan
 Registered Education Savings Plan (RESP)
 ## What Is a Registered Education Savings Plan?
 
-A Registered Education Savings Plan (RESP), sponsored by the Canadian government, encourages [investing](https://www.investopedia.com/terms/i/investing.asp) in a child's future post-secondary education. Subscribers to an RESP make contributions that build up tax-free earnings.1 The government contributes a certain amount to these plans for children under age 18.2
+A Registered Education Savings Plan (RESP), sponsored by the Canadian government, encourages [[investing]](https://www.investopedia.com/terms/i/investing.asp) in a child's future post-secondary education. Subscribers to an RESP make contributions that build up tax-free earnings.1 The government contributes a certain amount to these plans for children under age 18.2
 
-Contributors do not receive a [tax deduction](https://www.investopedia.com/terms/t/tax-deduction.asp) for investments in an RESP. There are no taxes due until funds are taken out to pay for a child’s education. At that time, contributions made into the RESP are returned tax-free, although contributors’ earnings from the plan are taxed. The money the government pays out is taxed to the students. However, since a large number of students have little to no income, many can withdraw the money tax-free.1
+Contributors do not receive a [[tax deduction]](https://www.investopedia.com/terms/t/tax-deduction.asp) for investments in an RESP. There are no taxes due until funds are taken out to pay for a child’s education. At that time, contributions made into the RESP are returned tax-free, although contributors’ earnings from the plan are taxed. The money the government pays out is taxed to the students. However, since a large number of students have little to no income, many can withdraw the money tax-free.1
 
 ## Understanding Registered Education Savings Plans (RESP)
 
-A Registered Education Savings Plan (RESP) lets parents in Canada begin saving for their children’s education at birth, with the government pitching in part of the tab. Parents or guardians simply walk into a bank, [credit union](https://www.investopedia.com/terms/c/creditunion.asp) or other financial institution to open up an account. Anyone can contribute, whether it's mom, dad, neighbor, or a favorite aunt or uncle.3
+A Registered Education Savings Plan (RESP) lets parents in Canada begin saving for their children’s education at birth, with the government pitching in part of the tab. Parents or guardians simply walk into a bank, [[credit union]](https://www.investopedia.com/terms/c/creditunion.asp) or other financial institution to open up an account. Anyone can contribute, whether it's mom, dad, neighbor, or a favorite aunt or uncle.3
 
 The money given out by the Canadian government is taxed, but since so many students have little to no income, many can withdraw the money tax-free.
 

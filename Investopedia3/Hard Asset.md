@@ -26,7 +26,7 @@ A hard asset refers to a tangible asset or resource with fundamental value. Exam
 
 ## Understanding Hard Assets
 
-Hard assets are usually fixed assets, meaning they're long-term assets that aid in the production of a company's goods and services. Fixed assets have a life of more than one year. Hard assets are typically classified as [property, plant, and equipment](https://www.investopedia.com/terms/p/ppe.asp) on a company's balance sheet.
+Hard assets are usually fixed assets, meaning they're long-term assets that aid in the production of a company's goods and services. Fixed assets have a life of more than one year. Hard assets are typically classified as [[property, plant, and equipment]](https://www.investopedia.com/terms/p/ppe.asp) on a company's balance sheet.
 
 Some examples of hard assets include:
 
@@ -36,7 +36,7 @@ Some examples of hard assets include:
 -   Office furniture
 -   Machinery
 
-However, hard assets can also be short-term assets, called [current assets](https://www.investopedia.com/terms/c/currentassets.asp), which are typically used up within one year. Inventory, for example, could be a hard asset for a company. If a company manufactures machinery, the raw materials or inventory, such as the machine parts, would be hard assets.
+However, hard assets can also be short-term assets, called [[current assets]](https://www.investopedia.com/terms/c/currentassets.asp), which are typically used up within one year. Inventory, for example, could be a hard asset for a company. If a company manufactures machinery, the raw materials or inventory, such as the machine parts, would be hard assets.
 
 ### Paying for Hard Assets
 
@@ -50,7 +50,7 @@ The intrinsic value of a company is a calculation of a company's value using var
 
 ## Hard Assets vs. Intangible Assets
 
-Hard assets are the opposite of [intangible assets](https://www.investopedia.com/terms/i/intangibleasset.asp), which are non-physical assets that are used over the long-term. Examples of intangible assets include:
+Hard assets are the opposite of [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp), which are non-physical assets that are used over the long-term. Examples of intangible assets include:
 
 -   A brand of a company
 -   Investments in securities

@@ -16,7 +16,7 @@ author: James Chen
 Exchange of Futures for Physical (EFP) Definition
 ## What Is Exchange of Futures for Physical?
 
-An exchange of futures for physical (EFP) is a private agreement between two parties to trade a futures position for the basket of underlying [actuals](https://www.investopedia.com/terms/a/actual.asp). An exchange of futures for physicals can be used to open a futures position, close a futures position, or switch a futures position for the underlying asset.
+An exchange of futures for physical (EFP) is a private agreement between two parties to trade a futures position for the basket of underlying [[actuals]](https://www.investopedia.com/terms/a/actual.asp). An exchange of futures for physicals can be used to open a futures position, close a futures position, or switch a futures position for the underlying asset.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ An exchange of futures for physical (EFP) is a private agreement between two par
 
 Exchange of futures for physical (EFP) is one of a few types of privately negotiated agreements that can then be registered with the exchange. The volume involved in the transaction is shown in the days’ trading when the transaction is registered, but the price at which the transaction was completed (the privately agreed upon price between the parties) is not revealed.
 
-When two parties have agreed to an exchange of futures for physicals, they then register the transaction with the relevant exchange. Exchange of futures for physical is also referred to as exchange of futures for product and exchange of futures for cash (as in [cash commodity](https://www.investopedia.com/terms/c/cashcommodity.asp)). The term exchange of futures for physical is generally used to describe transactions of this nature even when the underlying are financial products rather than cash commodities. Exchange of futures for swap (EFS) can be used if the futures position is being traded for a [swap contract](https://www.investopedia.com/terms/s/swap.asp).
+When two parties have agreed to an exchange of futures for physicals, they then register the transaction with the relevant exchange. Exchange of futures for physical is also referred to as exchange of futures for product and exchange of futures for cash (as in [[cash commodity]](https://www.investopedia.com/terms/c/cashcommodity.asp)). The term exchange of futures for physical is generally used to describe transactions of this nature even when the underlying are financial products rather than cash commodities. Exchange of futures for swap (EFS) can be used if the futures position is being traded for a [[swap contract]](https://www.investopedia.com/terms/s/swap.asp).
 
 ## Example of Exchange of Futures for Physical
 
@@ -38,4 +38,4 @@ The refiner and the producer get to talking and they realize that a) they are bo
 
 ## Advantages of Exchange of Futures for Physical
 
-The obvious question is why not just do the transaction through the market? The answer is simply for the sake of efficiency. Large transactions impact the market as they are executed. This is why large traders sometimes break up transactions over time to reduce the impact of [slippage](https://www.investopedia.com/terms/s/slippage.asp). Doing the exchange for futures outside the market pricing mechanism allows large, offsetting transactions to take place at a decided price. EFP is also used when the [market depth](https://www.investopedia.com/terms/m/marketdepth.asp) is not able to absorb the transaction—for example, a transaction involving thousands of contracts.
+The obvious question is why not just do the transaction through the market? The answer is simply for the sake of efficiency. Large transactions impact the market as they are executed. This is why large traders sometimes break up transactions over time to reduce the impact of [[slippage]](https://www.investopedia.com/terms/s/slippage.asp). Doing the exchange for futures outside the market pricing mechanism allows large, offsetting transactions to take place at a decided price. EFP is also used when the [[market depth]](https://www.investopedia.com/terms/m/marketdepth.asp) is not able to absorb the transaction—for example, a transaction involving thousands of contracts.

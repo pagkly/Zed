@@ -16,7 +16,7 @@ author: Investopedia Staff
 Marxism
 ## What Is Marxism?
 
-Marxism is a social, political, and economic philosophy named after [Karl Marx](https://www.investopedia.com/terms/k/karl-marx.asp). It examines the effect of [capitalism](https://www.investopedia.com/terms/c/capitalism.asp) on labor, productivity, and economic development and argues for a worker revolution to overturn capitalism in favor of communism. Marxism posits that the struggle between social classes—specifically between the bourgeoisie, or capitalists, and the proletariat, or workers—defines economic relations in a capitalist economy and will inevitably lead to revolutionary communism.
+Marxism is a social, political, and economic philosophy named after [[Karl Marx]](https://www.investopedia.com/terms/k/karl-marx.asp). It examines the effect of [[capitalism]](https://www.investopedia.com/terms/c/capitalism.asp) on labor, productivity, and economic development and argues for a worker revolution to overturn capitalism in favor of communism. Marxism posits that the struggle between social classes—specifically between the bourgeoisie, or capitalists, and the proletariat, or workers—defines economic relations in a capitalist economy and will inevitably lead to revolutionary communism.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ Marxism is a social, political, and economic philosophy named after [Karl Marx](
 
 ## Understanding Marxism
 
-Marxism is both a social and political theory, which encompasses Marxist class conflict theory and [Marxian economics](https://www.investopedia.com/terms/m/marxian-economics.asp). Marxism was first publicly formulated in the 1848 pamphlet, the "Communist Manifesto," by Karl Marx and Friedrich Engels, which lays out the theory of class struggle and revolution. Marxian economics focuses on the criticisms of capitalism, which Karl Marx wrote about in his 1859 book, "Das Kapital."1
+Marxism is both a social and political theory, which encompasses Marxist class conflict theory and [[Marxian economics]](https://www.investopedia.com/terms/m/marxian-economics.asp). Marxism was first publicly formulated in the 1848 pamphlet, the "Communist Manifesto," by Karl Marx and Friedrich Engels, which lays out the theory of class struggle and revolution. Marxian economics focuses on the criticisms of capitalism, which Karl Marx wrote about in his 1859 book, "Das Kapital."1
 
 ### Class conflict and the demise of capitalism
 
@@ -34,7 +34,7 @@ Marx’s class theory portrays capitalism as one step in the historical progress
 
 Following are elements of Marx's theories on how class conflict would play out in a capitalist system.
 
--   Capitalist society is made up of two classes—the bourgeoisie, or business owners, who control the [means of production](https://www.investopedia.com/terms/f/factors-production.asp), and the proletariat, or workers, whose labor transforms raw [commodities](https://www.investopedia.com/terms/c/commodity.asp) into valuable economic goods.
+-   Capitalist society is made up of two classes—the bourgeoisie, or business owners, who control the [[means of production]](https://www.investopedia.com/terms/f/factors-production.asp), and the proletariat, or workers, whose labor transforms raw [[commodities]](https://www.investopedia.com/terms/c/commodity.asp) into valuable economic goods.
 -   Ordinary laborers, who do not own the means of production, such as factories, buildings, and materials, have little power in the capitalist economic system. Workers are also readily replaceable in periods of high unemployment, further devaluing their perceived worth.
 -   To maximize profits, business owners have an incentive to get the most work out of their laborers while paying them the lowest possible wages. This creates an unfair imbalance between owners and the laborers whose work they exploit for their own gain.
 -   Since workers have little personal stake in the process of production, Marx believed they would become alienated from it and resentful toward the business owner and their own humanity.
@@ -43,7 +43,7 @@ Following are elements of Marx's theories on how class conflict would play out i
 
 Thus Marx thought that the capitalist system inherently contained the seeds of its own destruction. The alienation and exploitation of the proletariat that are fundamental to capitalist relations would inevitably drive the working class to rebel against the bourgeoisie and seize control of the means of production. This revolution would be led by enlightened leaders, known as the vanguard of the proletariat, who understood the class structure of society and who would unite the working class by raising awareness and class consciousness.
 
-As a result of the revolution, Marx predicted that private ownership of the means of production would be replaced by collective ownership, under [socialism](https://www.investopedia.com/terms/s/socialism.asp) first and then [communism](https://www.investopedia.com/terms/c/communism.asp)**.** In the final stage of human development, social classes and class struggle would no longer exist.
+As a result of the revolution, Marx predicted that private ownership of the means of production would be replaced by collective ownership, under [[socialism]](https://www.investopedia.com/terms/s/socialism.asp) first and then [[communism]](https://www.investopedia.com/terms/c/communism.asp)**.** In the final stage of human development, social classes and class struggle would no longer exist.
 
 ## Communism vs. Socialism vs. Capitalism
 
@@ -57,4 +57,4 @@ Both communism and socialism oppose capitalism, an economic system characterized
 
 While Marx inspired multitudes of followers, many of his predictions have not been borne out. Marx believed that increasing competition, rather than producing better goods for consumers, would lead to bankruptcy among capitalists and the rise of monopolies, as fewer and fewer were left to control production. Bankrupt former capitalists would join the proletariate, eventually creating an army of the unemployed. In addition, the market economy, which by its nature is unplanned, would experience huge supply-and-demand problems and cause severe depressions.3
 
-Yet over the years, capitalism has not collapsed as a result of fierce competition. Although markets have changed over time, they haven't led to a preponderance of monopolies. Wages have risen and profits have not declined, although [economic inequality](https://www.investopedia.com/economic-inequality-4845459) has increased in many capitalist societies. And while there have been recessions and depressions, they are not thought to be an inherent feature of free markets. Indeed, a society without competition, money, and private property has never materialized, and the history of the 20th century suggests it is likely an unworkable concept.3
+Yet over the years, capitalism has not collapsed as a result of fierce competition. Although markets have changed over time, they haven't led to a preponderance of monopolies. Wages have risen and profits have not declined, although [[economic inequality]](https://www.investopedia.com/economic-inequality-4845459) has increased in many capitalist societies. And while there have been recessions and depressions, they are not thought to be an inherent feature of free markets. Indeed, a society without competition, money, and private property has never materialized, and the history of the 20th century suggests it is likely an unworkable concept.3

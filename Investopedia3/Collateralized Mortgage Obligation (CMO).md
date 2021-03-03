@@ -22,7 +22,7 @@ A collateralized mortgage obligation (CMO) refers to a type of mortgage-backed s
 
 ## Understanding Collateralized Mortgage Obligations (CMO)
 
-Collateralized mortgage obligations consist of several tranches, or groups of mortgages, organized by their [risk profiles](https://www.investopedia.com/terms/r/risk-profile.asp). As complex financial instruments, tranches typically have different principal balances, interest rates, maturity dates, and potential of repayment defaults. Collateralized mortgage obligations are sensitive to interest rate changes as well as to changes in economic conditions, such as foreclosure rates, refinance rates, and the rates at which properties are sold. Each tranche has a different maturity date and size and bonds with monthly coupons are issued against it. The coupon makes monthly principal and interest rate payments.
+Collateralized mortgage obligations consist of several tranches, or groups of mortgages, organized by their [[risk profiles]](https://www.investopedia.com/terms/r/risk-profile.asp). As complex financial instruments, tranches typically have different principal balances, interest rates, maturity dates, and potential of repayment defaults. Collateralized mortgage obligations are sensitive to interest rate changes as well as to changes in economic conditions, such as foreclosure rates, refinance rates, and the rates at which properties are sold. Each tranche has a different maturity date and size and bonds with monthly coupons are issued against it. The coupon makes monthly principal and interest rate payments.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Collateralized mortgage obligations consist of several tranches, or groups of mo
 
 To illustrate, imagine an investor has a CMO made up of thousands of mortgages. His potential for profit is based on whether the mortgage holders repay their mortgages. If only a few homeowners default on their mortgages and the rest make payments as expected, the investor recoups his principal as well as interest. In contrast, if thousands of people cannot make their mortgage payments and go into foreclosure, the CMO loses money and cannot pay the investor.
 
-Investors in CMOs, sometimes referred to as [Real Estate Mortgage Investment Conduits](https://www.investopedia.com/terms/r/real-estate-mortgage-investment-conduit-remic.asp) (REMICs), want to obtain access to mortgage cash flows without having to originate or purchase a set of mortgages.
+Investors in CMOs, sometimes referred to as [[Real Estate Mortgage Investment Conduits]](https://www.investopedia.com/terms/r/real-estate-mortgage-investment-conduit-remic.asp) (REMICs), want to obtain access to mortgage cash flows without having to originate or purchase a set of mortgages.
 
 ## Collateralized Mortgage Obligations vs. Collateralized Debt Obligations
 

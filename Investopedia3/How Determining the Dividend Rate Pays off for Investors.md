@@ -18,7 +18,7 @@ How Determining the Dividend Rate Pays off for Investors
 
 The dividend rate is the total expected dividend payments from an investment, fund or portfolio expressed on an annualized basis plus any additional non-recurring dividends that an investor may receive during that period. Depending on the company's preferences and strategy, the dividend rate can be fixed or adjustable.
 
-Dividend rate is closely related to [dividend yield](https://www.investopedia.com/terms/d/dividendyield.asp), and sometimes used interchangeably.
+Dividend rate is closely related to [[dividend yield]](https://www.investopedia.com/terms/d/dividendyield.asp), and sometimes used interchangeably.
 
 ### Key Takeaways
 
@@ -37,19 +37,19 @@ New companies that are relatively small, but still growing quickly, may pay a lo
 
 The calculation of the dividend rate of an investment, fund or portfolio involves multiplying the most recent periodic dividend payments by the number of payment periods in one year.
 
-For example, if a fund of investments pays a dividend of 50 cents quarterly and also pays an [extra dividend](https://www.investopedia.com/terms/e/extradividend.asp) of 12 cents per share because of a nonrecurring event from which the company benefited, the dividend rate is $2.12 per year (50 cents x 4 quarters + 12 cents = $2.12).
+For example, if a fund of investments pays a dividend of 50 cents quarterly and also pays an [[extra dividend]](https://www.investopedia.com/terms/e/extradividend.asp) of 12 cents per share because of a nonrecurring event from which the company benefited, the dividend rate is $2.12 per year (50 cents x 4 quarters + 12 cents = $2.12).
 
-Companies that generate substantial cash flows generally pay out dividends. Conversely, businesses with rapid growth typically reinvest any cash generated back into the company and not to paying shareholder dividends. Cash-intensive companies that produce essential [consumer products](https://www.investopedia.com/terms/c/consumerstaples.asp) such as food, beverages, and household items, and those who provide health care, for example, usually spend less to grow their companies. Therefore, these businesses are more likely to distribute a percentage of income to shareholders as dividends.
+Companies that generate substantial cash flows generally pay out dividends. Conversely, businesses with rapid growth typically reinvest any cash generated back into the company and not to paying shareholder dividends. Cash-intensive companies that produce essential [[consumer products]](https://www.investopedia.com/terms/c/consumerstaples.asp) such as food, beverages, and household items, and those who provide health care, for example, usually spend less to grow their companies. Therefore, these businesses are more likely to distribute a percentage of income to shareholders as dividends.
 
 ## Dividend Payout Ratio
 
 Companies that pay dividends often prefer to maintain or slowly grow their dividend rates as a demonstration of stability and to reward shareholders. Businesses that cut dividends may be entering a financially weaker state that, most times, is accompanied by a corresponding drop in the stock price.
 
-The dividend [payout ratio](https://www.investopedia.com/terms/p/payoutratio.asp) is one way to assess the strength of a company's dividends. The calculation for a payout ratio is to divide dividend by net income and then multiply the sum by 100. When the payout ratio is lower, it is preferable as the company will be disbursing less of its net income to shareholder dividend payments. Further, as the business is paying out less, the firm and the payments are more sustainable. Conversely, companies with high payout ratios may have difficulty maintaining dividend payments, especially if an unforeseen event happens.
+The dividend [[payout ratio]](https://www.investopedia.com/terms/p/payoutratio.asp) is one way to assess the strength of a company's dividends. The calculation for a payout ratio is to divide dividend by net income and then multiply the sum by 100. When the payout ratio is lower, it is preferable as the company will be disbursing less of its net income to shareholder dividend payments. Further, as the business is paying out less, the firm and the payments are more sustainable. Conversely, companies with high payout ratios may have difficulty maintaining dividend payments, especially if an unforeseen event happens.
 
 ## Dividend Aristocrats
 
-Income-seeking investors often search for companies that demonstrate long histories of steadily growing dividend payments. These companies, dubbed [dividend aristocrats](https://www.investopedia.com/terms/d/dividend-aristocrat.asp), by definition must exhibit at least 25 years of consistent and significant annual [dividend](https://www.investopedia.com/terms/d/dividend.asp) increases. Dividend aristocrats typically orbit among sectors like consumer products and health care, which tend to thrive in different economic climates. Kiplinger identified 65 high-dividend stocks to watch out for, in 2020. Some of the names that made the list include medical image machine maker Roper Technologies, paint maker Sherwin Williams, and alcohol distributor Brown-Forman.1
+Income-seeking investors often search for companies that demonstrate long histories of steadily growing dividend payments. These companies, dubbed [[dividend aristocrats]](https://www.investopedia.com/terms/d/dividend-aristocrat.asp), by definition must exhibit at least 25 years of consistent and significant annual [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) increases. Dividend aristocrats typically orbit among sectors like consumer products and health care, which tend to thrive in different economic climates. Kiplinger identified 65 high-dividend stocks to watch out for, in 2020. Some of the names that made the list include medical image machine maker Roper Technologies, paint maker Sherwin Williams, and alcohol distributor Brown-Forman.1
 
 ## Real World Example
 

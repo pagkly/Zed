@@ -32,13 +32,13 @@ A mortality table, also known as a life table or actuarial table, shows the rate
 
 Other characteristics can also be included to distinguish different risks, such as smoking status, occupation, and socio-economic class. There are even actuarial tables that determine longevity in relation to weight. 
 
-The [life insurance](https://www.investopedia.com/terms/l/lifeinsurance.asp) industry relies heavily on mortality tables, as does the U.S. Social Security Administration. Both use mortality tables in order to best establish details surrounding their coverage policies based on the individuals they will cover. 
+The [[life insurance]](https://www.investopedia.com/terms/l/lifeinsurance.asp) industry relies heavily on mortality tables, as does the U.S. Social Security Administration. Both use mortality tables in order to best establish details surrounding their coverage policies based on the individuals they will cover. 
 
 Mortality tables were first introduced by Raymond Pearl in 1921 for the purposes of furthering ecological studies
 
 ## Types of Mortality Tables
 
-In general practice, there are two types of mortality tables. First, the period life table is used to determine mortality rates for a specific time period of a certain population. The other type of actuarial life table is called the cohort life table, also referred to as a generation life table. It is used to represent the overall mortality rates of a certain population's entire [lifetime](https://www.investopedia.com/articles/markets/072216/what-best-age-get-annuity.asp). Between the two, the cohort life table is most often used due to its higher applicability to actuarialism. 
+In general practice, there are two types of mortality tables. First, the period life table is used to determine mortality rates for a specific time period of a certain population. The other type of actuarial life table is called the cohort life table, also referred to as a generation life table. It is used to represent the overall mortality rates of a certain population's entire [[lifetime]](https://www.investopedia.com/articles/markets/072216/what-best-age-get-annuity.asp). Between the two, the cohort life table is most often used due to its higher applicability to actuarialism. 
 
 ## Requirements for Mortality Tables 
 

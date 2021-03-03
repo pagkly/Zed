@@ -16,7 +16,7 @@ author: Julia Kagan
 Executor Definition
 ## What Is an Executor?
 
-An executor (or [executrix](https://www.investopedia.com/terms/e/executrix.asp)) of an estate is an individual appointed to administer the estate of a deceased person. The executor's main duty is to carry out the instructions to manage the affairs and wishes of the deceased person's estate. The executor is appointed either by the testator of the will (the individual who makes the will) or by a court, in cases wherein there was no prior appointment.
+An executor (or [[executrix]](https://www.investopedia.com/terms/e/executrix.asp)) of an estate is an individual appointed to administer the estate of a deceased person. The executor's main duty is to carry out the instructions to manage the affairs and wishes of the deceased person's estate. The executor is appointed either by the testator of the will (the individual who makes the will) or by a court, in cases wherein there was no prior appointment.
 
 ## How Executors Work
 
@@ -45,7 +45,7 @@ Again, it is important that you have the time to do gather this information as s
 
 ## Executor and Estate Planning
 
-Executors are key in [estate planning](https://www.investopedia.com/terms/e/estateplanning.asp) for individuals and their families and beneficiaries. Estate planning is an all-encompassing term that covers how an individual’s assets will be preserved, managed, and distributed after death. It also takes into account the management of this individual’s properties and financial obligations (i.e. debts) in the event that s/he becomes incapacitated.
+Executors are key in [[estate planning]](https://www.investopedia.com/terms/e/estateplanning.asp) for individuals and their families and beneficiaries. Estate planning is an all-encompassing term that covers how an individual’s assets will be preserved, managed, and distributed after death. It also takes into account the management of this individual’s properties and financial obligations (i.e. debts) in the event that s/he becomes incapacitated.
 
 Individuals have various reasons for planning an estate, including preserving family wealth, providing for surviving spouses and children, funding children and/or grandchildren’s education, or leaving their legacy behind to a charitable cause. The most basic step in estate planning involves writing a will. Other major estate planning tasks include:
 

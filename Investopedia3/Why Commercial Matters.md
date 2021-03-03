@@ -16,19 +16,19 @@ author: James Chen
 Why Commercial Matters
 ## What Is Commercial?
 
-The term _commercial_ relates to [commerce](https://www.investopedia.com/terms/c/commerce.asp) or general [business](https://www.investopedia.com/terms/b/business.asp) activity. In the investment field, the term commercial is used to refer to a trading entity engaged in business activities that are hedged by positions in the futures or options markets.
+The term _commercial_ relates to [[commerce]](https://www.investopedia.com/terms/c/commerce.asp) or general [[business]](https://www.investopedia.com/terms/b/business.asp) activity. In the investment field, the term commercial is used to refer to a trading entity engaged in business activities that are hedged by positions in the futures or options markets.
 
-A commercial entity plays an active role in the futures and [forward markets](https://www.investopedia.com/terms/f/forwardmarket.asp), ranging from the initial production to the final sales. While the term is also widely used in other areas of finance and everyday life, it generally denotes an activity that pertains to business or one that has a profit motive.
+A commercial entity plays an active role in the futures and [[forward markets]](https://www.investopedia.com/terms/f/forwardmarket.asp), ranging from the initial production to the final sales. While the term is also widely used in other areas of finance and everyday life, it generally denotes an activity that pertains to business or one that has a profit motive.
 
 A commercial may also refer to an advertisement broadcast over a media channel.
 
 ## Understanding Commercial
 
-Commercial activity is an activity intended for exchange in the market with the goal of earning an economic profit. For example, [commercial banking](https://www.investopedia.com/video/play/commercial-bank/) refers to banking activities focused on businesses, as opposed to consumer or retail banking which deals with the finance needs of individuals. The colloquial meaning of the term commercial is a paid advertisement that runs on television or radio promoting goods or services available for sale.
+Commercial activity is an activity intended for exchange in the market with the goal of earning an economic profit. For example, [[commercial banking]](https://www.investopedia.com/video/play/commercial-bank/) refers to banking activities focused on businesses, as opposed to consumer or retail banking which deals with the finance needs of individuals. The colloquial meaning of the term commercial is a paid advertisement that runs on television or radio promoting goods or services available for sale.
 
-Commercial positions are important in the options and futures markets, since they generally provide an indication of hedging activity, while non-commercial positions denote speculative activity. [Economists](https://www.investopedia.com/terms/e/economist.asp) like to assess commercial positions in the futures and options market because this trading activity provides an indication of real economic activity that helps them forecast macroeconomic data like gross domestic product (GDP) growth.
+Commercial positions are important in the options and futures markets, since they generally provide an indication of hedging activity, while non-commercial positions denote speculative activity. [[Economists]](https://www.investopedia.com/terms/e/economist.asp) like to assess commercial positions in the futures and options market because this trading activity provides an indication of real economic activity that helps them forecast macroeconomic data like gross domestic product (GDP) growth.
 
-Manufacturers have commercial positions to hedge the price of commodities and reduce their exposure to [commodity price risk](https://www.investopedia.com/terms/c/commodity-price-risk.asp). The U.S. Commitments of Traders (COTS) reports supplied by the U.S. Commodity Futures Trading Commission display weekly open interest for commodities traded on futures exchanges, classified by commercial and non-commercial holdings.
+Manufacturers have commercial positions to hedge the price of commodities and reduce their exposure to [[commodity price risk]](https://www.investopedia.com/terms/c/commodity-price-risk.asp). The U.S. Commitments of Traders (COTS) reports supplied by the U.S. Commodity Futures Trading Commission display weekly open interest for commodities traded on futures exchanges, classified by commercial and non-commercial holdings.
 
 The term commercial is also used to identify large institutional entities that are incumbent participants in a given market and have considerable scale. The opposite of commercial participants tends to be retail participants, which is often used to identify smaller companies or even individuals in a given market.
 

@@ -18,7 +18,7 @@ MasterCard
 
 MasterCard is the second-largest payment network, ranked behind Visa, in the global payments industry. Other major payment networks include American Express and Discover. MasterCard partners with member financial institutions all over the world to offer MasterCard branded network payment cards.
 
-Mastercard uses its proprietary global payments network, which they refer to as their core network, to facilitate payment transactions, which usually involves the Mastercard account holder and a merchant along with their respective financial institutions. Payments can be made via credit, debit, or [prepaid cards](https://www.investopedia.com/terms/p/prepaid-credit-card.asp).1
+Mastercard uses its proprietary global payments network, which they refer to as their core network, to facilitate payment transactions, which usually involves the Mastercard account holder and a merchant along with their respective financial institutions. Payments can be made via credit, debit, or [[prepaid cards]](https://www.investopedia.com/terms/p/prepaid-credit-card.asp).1
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ Mastercard uses its proprietary global payments network, which they refer to as 
 
 ## MasterCard Explained
 
-MasterCard itself is a financial services business that primarily generates [revenue](https://www.investopedia.com/terms/r/revenue.asp) from gross dollar volume (GDV) fees. MasterCard cards are issued by member banks with the MasterCard logo. Open-loop cards that are accepted anywhere often carry the MasterCard logo to help identify their eligibility for use.
+MasterCard itself is a financial services business that primarily generates [[revenue]](https://www.investopedia.com/terms/r/revenue.asp) from gross dollar volume (GDV) fees. MasterCard cards are issued by member banks with the MasterCard logo. Open-loop cards that are accepted anywhere often carry the MasterCard logo to help identify their eligibility for use.
 
-Across the payments industry, there are four major payment card processors. These four card processors are MasterCard, Visa, [American Express](https://www.investopedia.com/terms/a/american-express-card.asp), and Discover. Each company operates a payments network and partners with a variety of institutions for card offerings.
+Across the payments industry, there are four major payment card processors. These four card processors are MasterCard, Visa, [[American Express]](https://www.investopedia.com/terms/a/american-express-card.asp), and Discover. Each company operates a payments network and partners with a variety of institutions for card offerings.
 
 All electronic payment cards have cardholder numbers that begin with an [issuer identification number](https://www.investopedia.com/terms/i/issuer-identification-number-iin.asp) (IIN) distinguishing the network processor for electronic payments. The IIN can help to identify the card brand if a logo is not visible.
 
 ## The MasterCard Business
 
-In 2019, MasterCard reported $6.5 trillion worth of gross dollar volume, which shows the amount of money comprehensively transacted on all of its card offerings. The company partners with a variety of institutions to offer several types of cards. Comprehensively, its card offerings span across credit, debit, and prepaid cards. The majority of Mastercard’s business is through partnerships with financial institutions and their organizational co-brand partners to offer [open-loop](https://www.investopedia.com/terms/o/open-loop-card.asp) credit card options.
+In 2019, MasterCard reported $6.5 trillion worth of gross dollar volume, which shows the amount of money comprehensively transacted on all of its card offerings. The company partners with a variety of institutions to offer several types of cards. Comprehensively, its card offerings span across credit, debit, and prepaid cards. The majority of Mastercard’s business is through partnerships with financial institutions and their organizational co-brand partners to offer [[open-loop]](https://www.investopedia.com/terms/o/open-loop-card.asp) credit card options.
 
 MasterCard does not have a banking division, as discussed in its 2019 10-K filing:
 
@@ -44,11 +44,11 @@ MasterCard does not have a banking division, as discussed in its 2019 10-K filin
 
 ### Branded and Co-Branded Cards Through Financial Institutions
 
-Mastercard partners with member financial institutions that in turn issue Mastercard-branded cards to consumers, students, and small businesses. Member financial institutions often partner with organizations in [co-branded](https://www.investopedia.com/terms/co-branded-card.asp) relationships to issue Mastercard-branded rewards cards to their customer bases. These organizations can include airlines, hotels, and retailers
+Mastercard partners with member financial institutions that in turn issue Mastercard-branded cards to consumers, students, and small businesses. Member financial institutions often partner with organizations in [[co-branded]](https://www.investopedia.com/terms/co-branded-card.asp) relationships to issue Mastercard-branded rewards cards to their customer bases. These organizations can include airlines, hotels, and retailers
 
-When MasterCard partners with a financial institution, the institution serves as the issuer. That institution determines the terms and benefits a cardholder can receive on their card. A financial institution may choose to partner for the issuance of a [credit card, debit card](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp), or prepaid card.
+When MasterCard partners with a financial institution, the institution serves as the issuer. That institution determines the terms and benefits a cardholder can receive on their card. A financial institution may choose to partner for the issuance of a [[credit card, debit card]](https://www.investopedia.com/articles/personal-finance/050214/credit-vs-debit-cards-which-better.asp), or prepaid card.
 
-To attract different types of consumers, financial institutions offer numerous features on Mastercard-branded cards. Some popular credit card features may include no annual fee, issuer-branded or custom organization-branded rewards points, [cash back](https://www.investopedia.com/terms/c/cash-back.asp), as well as 0% introductory rates.
+To attract different types of consumers, financial institutions offer numerous features on Mastercard-branded cards. Some popular credit card features may include no annual fee, issuer-branded or custom organization-branded rewards points, [[cash back]](https://www.investopedia.com/terms/c/cash-back.asp), as well as 0% introductory rates.
 
 Credit, debit, and prepaid Mastercards cards issued through partner issuers are characterized as open loop. This means the card can be used anywhere the MasterCard brand is accepted. The financial institution is primarily responsible for all of the underwriting and issuance of the card.
 

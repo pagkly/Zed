@@ -20,7 +20,7 @@ The lifetime learning credit (LLC) is a provision of the U.S. federal income tax
 
 The amount of the credit is 20% of the first $10,000 of qualified education expenses, or a maximum of $2,000 per tax return. The LLC is not refundable. So, you can use the credit to pay any taxes you owe, but you won’t receive any of the credit back as a refund.1
 
-This credit may be claimed year after year, without a limit. However, it cannot be combined with the [American Opportunity Tax Credit](https://www.irs.gov/credits-deductions/individuals/aotc) in the same tax year.2
+This credit may be claimed year after year, without a limit. However, it cannot be combined with the [[American Opportunity Tax Credit]](https://www.irs.gov/credits-deductions/individuals/aotc) in the same tax year.2
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ The IRS also publishes an interactive mobile application–[Am I Eligible to Cla
 
 ## Income Limitations for the LLC
 
-In order to claim the full credit, a taxpayer’s [modified adjusted gross income (MAGI)](https://www.investopedia.com/terms/m/magi.asp) for the tax year 2019 must be between $58,000 and $68,000 if they file as an individual. For taxpayers filing jointly, income must be between $116,000 and $136,000.1
+In order to claim the full credit, a taxpayer’s [[modified adjusted gross income (MAGI)]](https://www.investopedia.com/terms/m/magi.asp) for the tax year 2019 must be between $58,000 and $68,000 if they file as an individual. For taxpayers filing jointly, income must be between $116,000 and $136,000.1
 
 Taxpayers filing individually whose MAGI is below $66,000, but above $56,000, can receive a reduced amount of the credit. If filing jointly, taxpayers with MAGI of between $112,000 and $136,000 receive the reduced credit. Taxpayers with MAGI of over $68,000, or $136,000 for joint filers, cannot claim the credit at all.
 
@@ -52,7 +52,7 @@ Taxpayers filing individually whose MAGI is below $66,000, but above $56,000, ca
 
 To be eligible to claim the AOTC or LLC, the law requires a taxpayer or their dependent to get [Form 1098-T, Tuition Statement](https://www.irs.gov/pub/irs-pdf/f1098t.pdf), from an eligible educational institution.2
 
-This statement helps you determine what your credit will be. The form will have an amount in Box 1 to show the amounts received during the year. But this amount may not be the amount you can claim. To research qualified education expenses, see the IRS factsheet [Qualified Education Expenses](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses) for more information on what amount to claim.5
+This statement helps you determine what your credit will be. The form will have an amount in Box 1 to show the amounts received during the year. But this amount may not be the amount you can claim. To research qualified education expenses, see the IRS factsheet [[Qualified Education Expenses]](https://www.irs.gov/credits-deductions/individuals/qualified-ed-expenses) for more information on what amount to claim.5
 
 Check the Form 1098-T to make sure it is correct. If it isn't correct or you do not receive the form, contact your school.
 

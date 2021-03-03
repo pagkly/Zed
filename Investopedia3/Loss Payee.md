@@ -16,11 +16,11 @@ author: Julia Kagan
 Loss Payee
 ## What Is a Loss Payee?
 
-The loss payee is the party to whom the claim from a loss is to be paid. A loss payee can mean several different things; in the [insurance industry](https://www.investopedia.com/articles/personal-finance/080616/what-adverse-selection-insurance-industry.asp), the insured, or the party entitled to payment is the loss payee. The insured can expect reimbursement from the insurance carrier in the event of a loss. One example would be if a borrower defaulted on their loan and didn't pay it.
+The loss payee is the party to whom the claim from a loss is to be paid. A loss payee can mean several different things; in the [[insurance industry]](https://www.investopedia.com/articles/personal-finance/080616/what-adverse-selection-insurance-industry.asp), the insured, or the party entitled to payment is the loss payee. The insured can expect reimbursement from the insurance carrier in the event of a loss. One example would be if a borrower defaulted on their loan and didn't pay it.
 
 ## How Loss Payee Works
 
-Loss payee can be different from "first loss payee," which is the party that must be paid first when a [debtor](https://www.investopedia.com/terms/d/debtor.asp) defaults on a loan. 'Loss payee' is simply a generic phrase signifying the rightful recipient of any kind of [reimbursement](https://www.investopedia.com/terms/r/reimbursement.asp) and is most often used in the auto insurance industry.
+Loss payee can be different from "first loss payee," which is the party that must be paid first when a [[debtor]](https://www.investopedia.com/terms/d/debtor.asp) defaults on a loan. 'Loss payee' is simply a generic phrase signifying the rightful recipient of any kind of [[reimbursement]](https://www.investopedia.com/terms/r/reimbursement.asp) and is most often used in the auto insurance industry.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Loss payee can be different from "first loss payee," which is the party that mus
 -   The loss payee acts as a guard for the lender to protect it against unpaid loans. 
 -   When there is a total loss, the lender is paid before anyone else. 
 
-When financing a vehicle purchase, a buyer must agree to carry [insurance](https://www.investopedia.com/terms/s/standard-auto-insurance.asp) on the secured property, otherwise forced placed insurance becomes a possibility. The financial institution making the loan typically insists that they are indicated as the loss payee on the insurance policy to protect themselves against loss.
+When financing a vehicle purchase, a buyer must agree to carry [[insurance]](https://www.investopedia.com/terms/s/standard-auto-insurance.asp) on the secured property, otherwise forced placed insurance becomes a possibility. The financial institution making the loan typically insists that they are indicated as the loss payee on the insurance policy to protect themselves against loss.
 
-For example, the loss payee section is a section on an [auto insurance](https://www.investopedia.com/terms/a/auto-insurance.asp) policy that lists your lender’s name and address on the given collateral. It is important to give the correct address for your lender, as some insurance companies have multiple addresses.
+For example, the loss payee section is a section on an [[auto insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp) policy that lists your lender’s name and address on the given collateral. It is important to give the correct address for your lender, as some insurance companies have multiple addresses.
 
 The term loss payee is most often used in the auto insurance industry but is also used by other insurance sectors.
 

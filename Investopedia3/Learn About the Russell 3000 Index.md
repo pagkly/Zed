@@ -16,7 +16,7 @@ author: James Chen
 Learn About the Russell 3000 Index
 ## What Is the Russell 3000 Index?
 
-The Russell 3000 Index is a [market-capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp)\-weighted equity index maintained by [FTSE](https://www.investopedia.com/terms/f/ftse.asp) Russell that provides exposure to the entire U.S. [stock market](https://www.investopedia.com/terms/s/stockmarket.asp). The index tracks the performance of the 3,000 largest U.S.-traded stocks which represent about 98% of all U.S incorporated equity securities.1  
+The Russell 3000 Index is a [market-capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp)\-weighted equity index maintained by [[FTSE]](https://www.investopedia.com/terms/f/ftse.asp) Russell that provides exposure to the entire U.S. [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp). The index tracks the performance of the 3,000 largest U.S.-traded stocks which represent about 98% of all U.S incorporated equity securities.1  
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ The Russell 3000 Index is a [market-capitalization](https://www.investopedia.co
 
 ## Understanding the Russell 3000 Index
 
-The Russell 3000 Index serves as a building block for a broad range of financial products which include the large-cap Russell 1000 and the small-cap Russell 2000 index. The largest 1,000 stocks indexed in the Russell 3000 constitute the Russell 1000, while the Russell 2000 is a subset of the smallest 2000 components.2 3 Unlike other funds, the Russell 3000 does not attempt to outperform a benchmark or take a defensive position when the markets appear [overvalued](https://www.investopedia.com/terms/o/overvalued.asp). Instead, it employs a fully passive strategy.
+The Russell 3000 Index serves as a building block for a broad range of financial products which include the large-cap Russell 1000 and the small-cap Russell 2000 index. The largest 1,000 stocks indexed in the Russell 3000 constitute the Russell 1000, while the Russell 2000 is a subset of the smallest 2000 components.2 3 Unlike other funds, the Russell 3000 does not attempt to outperform a benchmark or take a defensive position when the markets appear [[overvalued]](https://www.investopedia.com/terms/o/overvalued.asp). Instead, it employs a fully passive strategy.
 
 ### Important
 
@@ -41,4 +41,4 @@ A significant portion of the Russell 3000 comprises securities in the financial,
 
 ## Limitations of the Russell 3000 Index
 
-Many investors often make the mistake of buying the Russell 3000 as a way of securing a diversified mix of [large-cap](https://www.investopedia.com/terms/l/large-cap.asp), [mid-cap](https://www.investopedia.com/terms/m/midcapstock.asp) and [small-cap](https://www.investopedia.com/terms/s/small-cap.asp) stocks. However, the truth is that large-cap stocks direct a majority of the index's performance while the returns of other segments are overlooked. As a result, the performance of the Russell 3000 often exhibits a high correlation with the S&P 500 and does not effectively capture the total stock market.7 A more effective way of building a diversified portfolio is to invest in multiple funds across various categories such as domestic stocks, foreign securities, and income instruments.
+Many investors often make the mistake of buying the Russell 3000 as a way of securing a diversified mix of [[large-cap]](https://www.investopedia.com/terms/l/large-cap.asp), [[mid-cap]](https://www.investopedia.com/terms/m/midcapstock.asp) and [[small-cap]](https://www.investopedia.com/terms/s/small-cap.asp) stocks. However, the truth is that large-cap stocks direct a majority of the index's performance while the returns of other segments are overlooked. As a result, the performance of the Russell 3000 often exhibits a high correlation with the S&P 500 and does not effectively capture the total stock market.7 A more effective way of building a diversified portfolio is to invest in multiple funds across various categories such as domestic stocks, foreign securities, and income instruments.

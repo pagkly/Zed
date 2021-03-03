@@ -16,15 +16,15 @@ author: Julia Kagan
 Variable Death Benefit Definition
 ## What Is a Variable Death Benefit?
 
-Variable [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp) refers to the amount paid to a decedent's beneficiary that is based on the performance of an investment account within a variable universal life insurance policy, a financial product that functions as both insurance and an investment. This variable amount is in addition to a [guaranteed death benefit](https://www.investopedia.com/terms/g/guaranteeddeathbenefit.asp), which is constant.
+Variable [[death benefit]](https://www.investopedia.com/terms/d/deathbenefit.asp) refers to the amount paid to a decedent's beneficiary that is based on the performance of an investment account within a variable universal life insurance policy, a financial product that functions as both insurance and an investment. This variable amount is in addition to a [[guaranteed death benefit]](https://www.investopedia.com/terms/g/guaranteeddeathbenefit.asp), which is constant.
 
-A variable universal life policyholder can choose among several investment options their insurer offers, including investments in equity and fixed-income mutual funds. The variable amount, or the policy's [cash value](https://www.investopedia.com/terms/c/cash-value-life-insurance.asp), along with guaranteed death benefit, known as its face value, together form the total death benefit.
+A variable universal life policyholder can choose among several investment options their insurer offers, including investments in equity and fixed-income mutual funds. The variable amount, or the policy's [[cash value]](https://www.investopedia.com/terms/c/cash-value-life-insurance.asp), along with guaranteed death benefit, known as its face value, together form the total death benefit.
 
 ## Understanding Variable Death Benefit
 
-A variable death benefit is one of three main options available with variable universal life insurance policies, the others being a [level death benefit](https://www.investopedia.com/terms/l/level-death-benefit.asp) and a [return of premium benefit](https://www.investopedia.com/articles/pf/08/return-of-premium.asp). Each of these three benefit types is not taxable to the beneficiary, and if the policyholder borrows against the policy, the death benefit lowers.1
+A variable death benefit is one of three main options available with variable universal life insurance policies, the others being a [[level death benefit]](https://www.investopedia.com/terms/l/level-death-benefit.asp) and a [[return of premium benefit]](https://www.investopedia.com/articles/pf/08/return-of-premium.asp). Each of these three benefit types is not taxable to the beneficiary, and if the policyholder borrows against the policy, the death benefit lowers.1
 
-The variable death benefit is also sometimes called an [increasing benefit](https://www.investopedia.com/articles/wealth-management/032516/life-insurance-increasing-death-benefit.asp). This is somewhat of a misnomer because the cash value can either increase or decrease depending on investment performance.
+The variable death benefit is also sometimes called an [[increasing benefit]](https://www.investopedia.com/articles/wealth-management/032516/life-insurance-increasing-death-benefit.asp). This is somewhat of a misnomer because the cash value can either increase or decrease depending on investment performance.
 
 ### Key Takeaways
 
@@ -47,7 +47,7 @@ However, a variable death benefit typically is more expensive than a level death
 
 These cost differences can be important considerations, as the total premiums associated with the three main types of variable universal life benefits can differ by thousands of dollars over the life of a policy.
 
-Consumers may also want to carefully evaluate the pros and cons of variable universal life in the first place. This type of insurance has attractive features to some investors, in that coverage does not expire as long as policyholders keep making the payments. Also, as the name suggests, variable universal life offers flexible premiums. That said, the total cost of variable universal life is usually notably higher than term insurance, which does not offer an investment component and, of course, covers only a specific span of time. While this is seemingly a drawback, it also is possible to simply [buy term at the lower price and invest the rest](https://www.investopedia.com/articles/personal-finance/093015/life-insurance-vs-annuity.asp).
+Consumers may also want to carefully evaluate the pros and cons of variable universal life in the first place. This type of insurance has attractive features to some investors, in that coverage does not expire as long as policyholders keep making the payments. Also, as the name suggests, variable universal life offers flexible premiums. That said, the total cost of variable universal life is usually notably higher than term insurance, which does not offer an investment component and, of course, covers only a specific span of time. While this is seemingly a drawback, it also is possible to simply [[buy term at the lower price and invest the rest]](https://www.investopedia.com/articles/personal-finance/093015/life-insurance-vs-annuity.asp).
 
 ## Example of Variable Benefit
 

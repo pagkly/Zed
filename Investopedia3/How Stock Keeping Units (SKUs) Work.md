@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 How Stock Keeping Units (SKUs) Work
 ## What Is a Stock Keeping Unit?
 
-A stock-keeping unit (SKU) is a scannable bar code, most often seen printed on product labels in a retail store. The label allows vendors to automatically track the movement of inventory. The SKU is composed of an alphanumeric combination of eight-or-so characters. The characters are a code that track the price, product details, and the manufacturer. SKUs may also be applied to intangible but billable products, such as units of repair time in an auto body shop or [warranties](https://www.investopedia.com/terms/w/warranty.asp).
+A stock-keeping unit (SKU) is a scannable bar code, most often seen printed on product labels in a retail store. The label allows vendors to automatically track the movement of inventory. The SKU is composed of an alphanumeric combination of eight-or-so characters. The characters are a code that track the price, product details, and the manufacturer. SKUs may also be applied to intangible but billable products, such as units of repair time in an auto body shop or [[warranties]](https://www.investopedia.com/terms/w/warranty.asp).
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A stock-keeping unit (SKU) is a scannable bar code, most often seen printed on p
 
 ## Understanding Stock Keeping Units (SKUs)
 
-SKUs are used by stores, catalogs, e-commerce vendors, service providers, warehouses, and product fulfillment centers to [track inventory](https://www.investopedia.com/articles/investing/020116/how-analyze-companys-inventory.asp) levels. Scannable SKUs and a POS system mean that it is easy for managers to determine which products need to be restocked. When a customer buys an item at the point-of-sale (POS), the SKU is scanned and the POS system automatically removes the item from the inventory as well as recording other data such as the sale price. SKUs should not be confused with model numbers, although businesses may embed model numbers within SKUs.
+SKUs are used by stores, catalogs, e-commerce vendors, service providers, warehouses, and product fulfillment centers to [[track inventory]](https://www.investopedia.com/articles/investing/020116/how-analyze-companys-inventory.asp) levels. Scannable SKUs and a POS system mean that it is easy for managers to determine which products need to be restocked. When a customer buys an item at the point-of-sale (POS), the SKU is scanned and the POS system automatically removes the item from the inventory as well as recording other data such as the sale price. SKUs should not be confused with model numbers, although businesses may embed model numbers within SKUs.
 
 Image by Sabrina Jiang © Investopedia 2020 
 
@@ -40,7 +40,7 @@ SKUs let shoppers compare characteristics of similar items. For example, when a 
 
 ## Stock Keeping Units vs. Universal Product Codes
 
-Because companies internally create SKUs to track inventory, the SKUs for identical products vary among businesses. Different SKUs help [retailers](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) design advertising campaigns without interference from other vendors.
+Because companies internally create SKUs to track inventory, the SKUs for identical products vary among businesses. Different SKUs help [[retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp) design advertising campaigns without interference from other vendors.
 
 For example, if a company provides the SKU to advertise a certain discounted refrigerator, shoppers cannot easily view the same refrigerator at other sellers based on the SKU alone. This stops competitors from matching advertised prices and poaching customers. In contrast, universal product codes (UPCs) are identical regardless of which business is selling the items.
 

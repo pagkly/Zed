@@ -16,9 +16,9 @@ author: Jason Fernando
 What Does Hot Issue Mean?
 ## What Is a Hot Issue?
 
-In finance, the term “hot issue” is used to describe an upcoming [initial public offering (IPO)](https://www.investopedia.com/terms/i/ipo.asp) that is particularly popular among the investing public.
+In finance, the term “hot issue” is used to describe an upcoming [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp) that is particularly popular among the investing public.
 
-Hot issues are typically [oversubscribed](https://www.investopedia.com/terms/o/oversubscribed.asp) by investors, meaning that their demand outstrips their supply. In those instances, many [speculators](https://www.investopedia.com/terms/s/speculator.asp) may be attracted by the prospect of short-term speculative gains as opposed to being convinced of the company’s long-term prospects.
+Hot issues are typically [[oversubscribed]](https://www.investopedia.com/terms/o/oversubscribed.asp) by investors, meaning that their demand outstrips their supply. In those instances, many [[speculators]](https://www.investopedia.com/terms/s/speculator.asp) may be attracted by the prospect of short-term speculative gains as opposed to being convinced of the company’s long-term prospects.
 
 ### Key Takeaways
 
@@ -28,15 +28,15 @@ Hot issues are typically [oversubscribed](https://www.investopedia.com/terms/o/o
 
 ## How Hot Issues Work
 
-When a company is preparing itself for an IPO, its executives and [investment banking](https://www.investopedia.com/terms/i/investment-banking.asp) partners will take the company on a so-called “roadshow”, touring several institutional investors in an attempt to promote excitement for the new issue. In some cases, such as when the company is viewed as a leader or disruptor in an exciting new industry, these roadshows occasionally succeed in producing widespread interest in the new IPO.
+When a company is preparing itself for an IPO, its executives and [[investment banking]](https://www.investopedia.com/terms/i/investment-banking.asp) partners will take the company on a so-called “roadshow”, touring several institutional investors in an attempt to promote excitement for the new issue. In some cases, such as when the company is viewed as a leader or disruptor in an exciting new industry, these roadshows occasionally succeed in producing widespread interest in the new IPO.
 
-Typically, investors interested in a hot issue will be split into two basic camps. In the first group are those who genuinely believe in the company’s [long-term](https://www.investopedia.com/terms/l/longterm.asp) potential, and wish to buy in on the ground floor. On the other hand, many investors are attracted to hot issues simply because they believe they can buy and then [flip](https://www.investopedia.com/terms/f/flipping.asp) the shares for a short-term gain. This kind of speculative enthusiasm can sometimes produce [bubble-like conditions](https://www.investopedia.com/terms/b/bubble.asp), sometimes to the detriment of longer-term investors.
+Typically, investors interested in a hot issue will be split into two basic camps. In the first group are those who genuinely believe in the company’s [[long-term]](https://www.investopedia.com/terms/l/longterm.asp) potential, and wish to buy in on the ground floor. On the other hand, many investors are attracted to hot issues simply because they believe they can buy and then [[flip]](https://www.investopedia.com/terms/f/flipping.asp) the shares for a short-term gain. This kind of speculative enthusiasm can sometimes produce [[bubble-like conditions]](https://www.investopedia.com/terms/b/bubble.asp), sometimes to the detriment of longer-term investors.
 
-In theory, any kind of company could become a hot issue when undergoing an IPO. In practice, however, this phenomenon is typically associated with high-tech companies or those engaged in otherwise glamorous industry sectors. Established companies in [mature industries](https://www.investopedia.com/terms/m/mature-firm.asp) tend not to attract the same level of investor enthusiasm, perhaps because their business models are more stable and predictable than their hot issue peers.
+In theory, any kind of company could become a hot issue when undergoing an IPO. In practice, however, this phenomenon is typically associated with high-tech companies or those engaged in otherwise glamorous industry sectors. Established companies in [[mature industries]](https://www.investopedia.com/terms/m/mature-firm.asp) tend not to attract the same level of investor enthusiasm, perhaps because their business models are more stable and predictable than their hot issue peers.
 
 ## Real World Example of a Hot Issue
 
-XYZ Corporation is a successful biotechnology startup that is preparing for its IPO. With the help of its investment banking partners, XYZ successfully files [Form S-1](https://www.investopedia.com/terms/s/sec-form-s-1.asp) with the [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp), a necessary first step in the IPO process. Then, it proceeds to meet with a wide variety of [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) in order to make the case for their company and justify a desired IPO valuation.
+XYZ Corporation is a successful biotechnology startup that is preparing for its IPO. With the help of its investment banking partners, XYZ successfully files [[Form S-1]](https://www.investopedia.com/terms/s/sec-form-s-1.asp) with the [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp), a necessary first step in the IPO process. Then, it proceeds to meet with a wide variety of [[institutional investors]](https://www.investopedia.com/terms/i/institutionalinvestor.asp) in order to make the case for their company and justify a desired IPO valuation.
 
 If XYZ is successful in its investor presentations, it could face a situation where its IPO is significantly oversubscribed. In this situation, its IPO would be seen as a “hot issue”, with long-term and speculative investors competing for the limited number of shares on offer.
 

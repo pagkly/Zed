@@ -16,15 +16,15 @@ author: James Chen
 SEC Yield Definition
 ## What is the SEC Yield?
 
-The SEC yield is a standard yield calculation developed by the U.S. [Securities and Exchange Commission (SEC)](https://www.investopedia.com/terms/s/sec.asp) that allows for fairer comparisons of bond funds. It is based on the most recent 30-day period covered by the fund's filings with the SEC. The yield figure reflects the [dividends](https://www.investopedia.com/terms/d/dividend.asp) and interest earned during the period after the deduction of the fund's expenses. It is also referred to as the "standardized yield."
+The SEC yield is a standard yield calculation developed by the U.S. [[Securities and Exchange Commission (SEC)]](https://www.investopedia.com/terms/s/sec.asp) that allows for fairer comparisons of bond funds. It is based on the most recent 30-day period covered by the fund's filings with the SEC. The yield figure reflects the [[dividends]](https://www.investopedia.com/terms/d/dividend.asp) and interest earned during the period after the deduction of the fund's expenses. It is also referred to as the "standardized yield."
 
 ## Understanding the SEC Yield
 
-The SEC yield is used to compare [bond funds](https://www.investopedia.com/terms/b/bondfund.asp) because it captures the effective rate of interest an investor may receive in the future. It is widely considered a good way to compare mutual funds or [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp) because this yield measure is generally very consistent from month to month. The resulting yield calculation shows investors what they would earn in yield over the course of a 12-month period if the fund continued earning the same rate for the rest of the year. It is mandatory for funds to calculate this yield. This yield differs from the [Distribution Yield](https://www.investopedia.com/terms/d/distribution-yield.asp), which is typically displayed on a bond's website.
+The SEC yield is used to compare [[bond funds]](https://www.investopedia.com/terms/b/bondfund.asp) because it captures the effective rate of interest an investor may receive in the future. It is widely considered a good way to compare mutual funds or [[exchange-traded funds (ETFs)]](https://www.investopedia.com/terms/e/etf.asp) because this yield measure is generally very consistent from month to month. The resulting yield calculation shows investors what they would earn in yield over the course of a 12-month period if the fund continued earning the same rate for the rest of the year. It is mandatory for funds to calculate this yield. This yield differs from the [[Distribution Yield]](https://www.investopedia.com/terms/d/distribution-yield.asp), which is typically displayed on a bond's website.
 
 ## Calculation of the SEC Yield
 
-Most funds calculate a 30-day SEC yield on the last day of each month, though U.S. [money market funds](https://www.investopedia.com/terms/m/money-marketfund.asp) calculate and report a seven-day SEC yield. The standardized formula for the 30-day SEC yield consists of four variables:
+Most funds calculate a 30-day SEC yield on the last day of each month, though U.S. [[money market funds]](https://www.investopedia.com/terms/m/money-marketfund.asp) calculate and report a seven-day SEC yield. The standardized formula for the 30-day SEC yield consists of four variables:
 
 a = interest and dividends received over the last 30-day period
 
@@ -45,7 +45,7 @@ The formula of the annualized 30-day SEC yield is:
 
 ## Example of SEC Yield
 
-Assume Investment Fund X earned $12,500 in dividends and $3,000 in interest. The fund also recorded $6,000 worth of expense, of which $2,000 was reimbursed. The fund has 150,000 shares entitled to receive distributions, and on the last day of the period, the day the [yield](https://www.investopedia.com/terms/y/yield.asp) is being calculated, the highest price the shares reached was $75. In this scenario, the variables equal:
+Assume Investment Fund X earned $12,500 in dividends and $3,000 in interest. The fund also recorded $6,000 worth of expense, of which $2,000 was reimbursed. The fund has 150,000 shares entitled to receive distributions, and on the last day of the period, the day the [[yield]](https://www.investopedia.com/terms/y/yield.asp) is being calculated, the highest price the shares reached was $75. In this scenario, the variables equal:
 
 a = $12,500 + $,3000 = $15,500
 

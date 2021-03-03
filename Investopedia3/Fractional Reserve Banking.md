@@ -16,7 +16,7 @@ author: Julia Kagan
 Fractional Reserve Banking
 ## What Is Fractional Reserve Banking?
 
-Fractional reserve banking is a system in which only a fraction of [bank deposits](https://www.investopedia.com/terms/b/bank-deposits.asp) are backed by actual cash on hand and available for withdrawal. This is done to theoretically expand the economy by freeing capital for lending.
+Fractional reserve banking is a system in which only a fraction of [[bank deposits]](https://www.investopedia.com/terms/b/bank-deposits.asp) are backed by actual cash on hand and available for withdrawal. This is done to theoretically expand the economy by freeing capital for lending.
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ Fractional reserve banking is a system in which only a fraction of [bank deposit
 
 Banks are required to keep on hand and available for withdrawal a certain amount of the cash that depositors give them. If someone deposits $100, the bank can't lend out the entire amount.
 
-Nor are banks required to keep the entire amount on hand: Most are required to keep 10% of the deposit, referred to as reserves. This requirement is set by the [Federal Reserve](https://www.investopedia.com/terms/f/federalreservebank.asp) and is one of the central bank's tools to implement monetary policy. Increasing the reserve requirement takes money out of the economy, while decreasing the reserve requirement puts money into the economy.
+Nor are banks required to keep the entire amount on hand: Most are required to keep 10% of the deposit, referred to as reserves. This requirement is set by the [[Federal Reserve]](https://www.investopedia.com/terms/f/federalreservebank.asp) and is one of the central bank's tools to implement monetary policy. Increasing the reserve requirement takes money out of the economy, while decreasing the reserve requirement puts money into the economy.
 
 #### Fractional Reserve Banking
 
@@ -42,7 +42,7 @@ Fractional banking aims to expand the economy by freeing capital for lending.
 
 ## Fractional Reserve Multiplier Effect
 
-"Fractional reserve" refers to the [fraction of deposits](https://www.investopedia.com/ask/answers/062615/what-difference-between-deposit-multiplier-and-money-multiplier.asp) held in reserves. For example, if a bank has $500 million in assets, it must hold $50 million, or 10%, in reserve.
+"Fractional reserve" refers to the [[fraction of deposits]](https://www.investopedia.com/ask/answers/062615/what-difference-between-deposit-multiplier-and-money-multiplier.asp) held in reserves. For example, if a bank has $500 million in assets, it must hold $50 million, or 10%, in reserve.
 
 Analysts reference an equation referred to as the multiplier equation when estimating the impact of the reserve requirement on the economy as a whole. The equation provides an estimate for the amount of money created with the fractional reserve system and is calculated by multiplying the initial deposit by one divided by the reserve requirement. Using the example above, the calculation is $500 million multiplied by one divided by 10%, or $5 billion.
 
@@ -50,6 +50,6 @@ This is not how money is actually created but only a way to represent the possib
 
 ## The Bottom Line
 
-Fractional reserve banking has pros and cons. It permits banks to use funds (the bulk of deposits) that would be otherwise unused to generate returns in the form of interest rates on loans—and to make more money available to grow the economy. It also, however, could catch a bank short in the self-perpetuating panic of a [bank run](https://www.investopedia.com/terms/b/bankrun.asp).
+Fractional reserve banking has pros and cons. It permits banks to use funds (the bulk of deposits) that would be otherwise unused to generate returns in the form of interest rates on loans—and to make more money available to grow the economy. It also, however, could catch a bank short in the self-perpetuating panic of a [[bank run]](https://www.investopedia.com/terms/b/bankrun.asp).
 
-Many U.S. banks were forced to shut down during the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) because too many customers attempted to withdraw assets at the same time. Nevertheless, fractional reserve banking is an accepted business practice that is in use at banks worldwide.
+Many U.S. banks were forced to shut down during the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp) because too many customers attempted to withdraw assets at the same time. Nevertheless, fractional reserve banking is an accepted business practice that is in use at banks worldwide.

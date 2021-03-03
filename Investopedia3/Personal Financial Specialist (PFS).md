@@ -16,13 +16,13 @@ author: Julia Kagan
 Personal Financial Specialist (PFS)
 ## What Is a Personal Financial Specialist?
 
-A Personal Financial Specialist is specialty credential for CPAs who are expert at helping individuals with all aspects of wealth management. The [American Institute of Certified Public Accountants (AICPA)](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) grants the Personal Financial Specialist (PFS) credential only to [certified public accountants (CPA)](https://www.investopedia.com/terms/c/cpa.asp) with significant personal financial planning education and experience. Individuals pursue the PFS credential because they want to display their expertise and knowledge as it relates to all aspects of financial planning.
+A Personal Financial Specialist is specialty credential for CPAs who are expert at helping individuals with all aspects of wealth management. The [[American Institute of Certified Public Accountants (AICPA)]](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) grants the Personal Financial Specialist (PFS) credential only to [[certified public accountants (CPA)]](https://www.investopedia.com/terms/c/cpa.asp) with significant personal financial planning education and experience. Individuals pursue the PFS credential because they want to display their expertise and knowledge as it relates to all aspects of financial planning.
 
 ## Understanding the Personal Financial Specialist
 
 Successful Personal Financial Specialist (PFS) applicants earn the right to use the PFS designation with their names, which can improve job opportunities, professional reputation, and pay. In the AICPA's own words, "A PFS is more than a financial planner — they are a CPA with the powerful combination of extensive tax expertise and comprehensive knowledge of financial planning."
 
-PFS applicants study [estate planning](https://www.investopedia.com/terms/e/estateplanning.asp), retirement planning, investing, insurance and other areas of personal financial planning. Individuals with the PFS designation may work for accounting firms, consulting firms or run their firms. To become a PFS, candidates must be active members of the AICPA, have at least three years of financial planning experience, meet all the requirements for being a CPA, receive recommendations and pass a written exam.
+PFS applicants study [[estate planning]](https://www.investopedia.com/terms/e/estateplanning.asp), retirement planning, investing, insurance and other areas of personal financial planning. Individuals with the PFS designation may work for accounting firms, consulting firms or run their firms. To become a PFS, candidates must be active members of the AICPA, have at least three years of financial planning experience, meet all the requirements for being a CPA, receive recommendations and pass a written exam.
 
 ## PFS Requirements
 
@@ -37,6 +37,6 @@ Also, every three years, PFS professionals must complete 60 hours of continuing 
 
 ## PFS Exam
 
-The [PFS exam](https://www.aicpa.org/membership/join/pfs-exam.html) consists of 160 questions, half of which are standalone multiple-choice. The remainder are case studies with accompanying multiple-choice questions. These include short scenarios followed by 2-5 multiple-choice questions and longer cases with 12-18 related multiple-choice questions. The AICPA provides a brief video tutorial that features a mock exam session. The exam is conducted by computer. Candidates are allocated five hours to complete it, as well as a 30-minute break.
+The [[PFS exam]](https://www.aicpa.org/membership/join/pfs-exam.html) consists of 160 questions, half of which are standalone multiple-choice. The remainder are case studies with accompanying multiple-choice questions. These include short scenarios followed by 2-5 multiple-choice questions and longer cases with 12-18 related multiple-choice questions. The AICPA provides a brief video tutorial that features a mock exam session. The exam is conducted by computer. Candidates are allocated five hours to complete it, as well as a 30-minute break.
 
-Exempt from the PFS exam are CPAs who have passed the [Certified Financial Planner (CFP)](https://www.investopedia.com/terms/c/cfp.asp) or [Chartered Financial Consultant (ChFC)](https://www.investopedia.com/terms/c/chartered-financial-consultant-chfc.asp) exams. They are deemed to have met the exam requirement.
+Exempt from the PFS exam are CPAs who have passed the [[Certified Financial Planner (CFP)]](https://www.investopedia.com/terms/c/cfp.asp) or [[Chartered Financial Consultant (ChFC)]](https://www.investopedia.com/terms/c/chartered-financial-consultant-chfc.asp) exams. They are deemed to have met the exam requirement.

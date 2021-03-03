@@ -16,7 +16,7 @@ author: Julia Kagan
 What Is Unfair Claims Practice?
 ## What Is Unfair Claims Practice?
 
-Unfair claims practice is the improper avoidance of a [claim by an insurer](https://www.investopedia.com/terms/i/insurance_claim.asp) or an attempt to reduce the size of the claim. By engaging in unfair claims practices, an insurer tries to reduce its costs. However, this is illegal in many jurisdictions.
+Unfair claims practice is the improper avoidance of a [[claim by an insurer]](https://www.investopedia.com/terms/i/insurance_claim.asp) or an attempt to reduce the size of the claim. By engaging in unfair claims practices, an insurer tries to reduce its costs. However, this is illegal in many jurisdictions.
 
 ### Key Takeaways
 
@@ -27,13 +27,13 @@ Unfair claims practice is the improper avoidance of a [claim by an insurer](htt
 
 ## Understanding Unfair Claims Practice
 
-The [National Association of Insurance Commissioners](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC) has created model unfair claims practice legislation that mandates claims be handled fairly and that there be clear communication between the insurer and the insured. Because of this legislation, many states have implemented unfair claims practice laws.
+The [[National Association of Insurance Commissioners]](https://www.investopedia.com/terms/n/nainsurancec.asp) (NAIC) has created model unfair claims practice legislation that mandates claims be handled fairly and that there be clear communication between the insurer and the insured. Because of this legislation, many states have implemented unfair claims practice laws.
 
 Also, most states have enacted a version of this model law. Called the Unfair Claims Settlement Practices Act, it protects insurance buyers from unjust behavior by insurers in the claims settlement process. Specifics of the law vary from state to state. Unfair Claims Settlement Practices Acts (UCSPA) are not federal law; instead, they are enforced by individual state insurance departments.
 
 ## Typical Example of Unfair Claims Practice
 
-Consider a small business owner that insures his company's building and business personal property under a commercial property policy. Unfortunately, a fire broke out in the building, causing $100,000 in property damage. The insurance company delays payment, rendering the business owner unable to repair any of the damage. The insurance company continues using delay tactics to avoiding making a payment. For example, the claims representative keeps "forgetting" to send the claim forms. Also, the [adjuster](https://www.investopedia.com/terms/a/adjuster.asp) says he needs another proof of loss, but the small business owner has already submitted proof of loss twice. These are the types of situations that unfair claims practice laws are designed to prevent.
+Consider a small business owner that insures his company's building and business personal property under a commercial property policy. Unfortunately, a fire broke out in the building, causing $100,000 in property damage. The insurance company delays payment, rendering the business owner unable to repair any of the damage. The insurance company continues using delay tactics to avoiding making a payment. For example, the claims representative keeps "forgetting" to send the claim forms. Also, the [[adjuster]](https://www.investopedia.com/terms/a/adjuster.asp) says he needs another proof of loss, but the small business owner has already submitted proof of loss twice. These are the types of situations that unfair claims practice laws are designed to prevent.
 
 ## Other Examples of Unfair Claims Practice
 

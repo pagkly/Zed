@@ -34,7 +34,7 @@ Petty cash transactions provide convenience for small transactions for which iss
 -   Paying for a catered lunch for a small group of employees
 -   Reimbursing an employee for small work-related expenses
 
-Petty cash fund [custodians](https://www.investopedia.com/terms/c/custodian.asp) are appointed to oversee the fund. The custodial duties generally include enforcing petty cash rules and regulations, requesting replenishments, and dispensing funds.
+Petty cash fund [[custodians]](https://www.investopedia.com/terms/c/custodian.asp) are appointed to oversee the fund. The custodial duties generally include enforcing petty cash rules and regulations, requesting replenishments, and dispensing funds.
 
 ## Special Considerations 
 
@@ -46,7 +46,7 @@ The Internal Revenue Service (IRS) recommends filing out petty cash slips and at
 
 ## Requirements for Petty Cash 
 
-The use of a petty cash fund circumvents certain internal controls. The availability of petty cash does not mean that it can be accessed for any purpose and by anyone. Many companies employ strict internal controls to manage the [fund](https://www.investopedia.com/terms/f/fund.asp). Often, limited individuals are authorized to approve disbursements and can only do so for expense related to legitimate company activities or operations.
+The use of a petty cash fund circumvents certain internal controls. The availability of petty cash does not mean that it can be accessed for any purpose and by anyone. Many companies employ strict internal controls to manage the [[fund]](https://www.investopedia.com/terms/f/fund.asp). Often, limited individuals are authorized to approve disbursements and can only do so for expense related to legitimate company activities or operations.
 
 A petty cashier might be assigned to issue the check to fund the petty cash drawer and make the appropriate accounting entries. The petty cash custodian is charged with distributing the cash and collecting receipts for all purchases or any uses of the funds. As the petty cash total declines, the receipts should increase and tie out to the total amount withdrawn.
 
@@ -54,6 +54,6 @@ By having a petty cash cashier and a petty cash custodian, the dual-process help
 
 ## Recording Petty Cash
 
-When a petty cash fund is in use, petty cash transactions are still recorded on [financial statements](https://www.investopedia.com/terms/f/financial-statements.asp). No accounting journal entries are made when purchases are made using petty cash, it’s only when the custodian needs more cash—and in exchange for the receipts, receives new funds—that the journal entries are recorded. The [journal](https://www.investopedia.com/terms/j/journal.asp) entry for giving the custodian more cash is a debit to the petty cash fund and a credit to cash.
+When a petty cash fund is in use, petty cash transactions are still recorded on [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp). No accounting journal entries are made when purchases are made using petty cash, it’s only when the custodian needs more cash—and in exchange for the receipts, receives new funds—that the journal entries are recorded. The [[journal]](https://www.investopedia.com/terms/j/journal.asp) entry for giving the custodian more cash is a debit to the petty cash fund and a credit to cash.
 
 If there's a shortage or overage, a journal line entry is recorded to an over/short account. If the petty cash fund is over, a credit is entered to represent a gain. If the petty cash fund is short, a debit is entered to represent a loss. The over or short account is used to force-balance the fund upon reconciliation.

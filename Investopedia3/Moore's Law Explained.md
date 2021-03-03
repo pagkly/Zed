@@ -20,7 +20,7 @@ Moore's Law refers to Moore's perception that the number of transistors on a mi
 
 ## Understanding Moore's Law
 
-In 1965, Gordon E. Moore—co-founder of [Intel (NASDAQ: INTC](https://www.investopedia.com/markets/quote?tvwidgetsymbol=intc))—postulated that the number of transistors that can be packed into a given unit of space will double about every two years.1 2 Today, however, the doubling of installed transistors on silicon chips occurs at a pace faster than every two years.3
+In 1965, Gordon E. Moore—co-founder of [[Intel (NASDAQ: INTC]](https://www.investopedia.com/markets/quote?tvwidgetsymbol=intc))—postulated that the number of transistors that can be packed into a given unit of space will double about every two years.1 2 Today, however, the doubling of installed transistors on silicon chips occurs at a pace faster than every two years.3
 
 ## Background
 
@@ -28,7 +28,7 @@ Gordon Moore did not call his observation "Moore's Law," nor did he set out to c
 
 ## From Prediction to Truism
 
-In the decades that followed Gordon Moore's original observation, [Moore's Law guided the semiconductor industry](https://www.investopedia.com/ask/answers/042115/what-impact-does-moores-law-have-electronic-sector.asp) in long-term planning and setting targets for research and development (R&D). Moore's Law has been a driving force of technological and social change, productivity, and economic growth that are hallmarks of the late-twentieth and early twenty-first centuries.
+In the decades that followed Gordon Moore's original observation, [[Moore's Law guided the semiconductor industry]](https://www.investopedia.com/ask/answers/042115/what-impact-does-moores-law-have-electronic-sector.asp) in long-term planning and setting targets for research and development (R&D). Moore's Law has been a driving force of technological and social change, productivity, and economic growth that are hallmarks of the late-twentieth and early twenty-first centuries.
 
 Moore's Law implies that computers, machines that run on computers, and computing power all become smaller, faster, and cheaper with time, as transistors on integrated circuits become more efficient.1
 
@@ -42,11 +42,11 @@ More than 50 years later, we feel the lasting impact and benefits of Moore's Law
 
 ### Computing
 
-As transistors in [integrated circuits](https://www.investopedia.com/terms/i/integrated-circuit-card.asp) become more efficient, computers become smaller and faster. Chips and transistors are microscopic structures that contain carbon and silicon molecules, which are aligned perfectly to move electricity along the circuit faster. The faster a microchip processes electrical signals, the more efficient a computer becomes. The cost of higher-powered computers has been dropping annually, partly because of lower labor costs and reduced semiconductor prices.4
+As transistors in [[integrated circuits]](https://www.investopedia.com/terms/i/integrated-circuit-card.asp) become more efficient, computers become smaller and faster. Chips and transistors are microscopic structures that contain carbon and silicon molecules, which are aligned perfectly to move electricity along the circuit faster. The faster a microchip processes electrical signals, the more efficient a computer becomes. The cost of higher-powered computers has been dropping annually, partly because of lower labor costs and reduced semiconductor prices.4
 
 ### Electronics
 
-Practically every facet of a high-tech society benefits from Moore's Law in action. Mobile devices, such as smartphones and computer tablets would not work without tiny processors; neither would video games, spreadsheets, accurate weather forecasts, and [global positioning systems (GPS).](https://www.investopedia.com/terms/g/geolocation.asp)
+Practically every facet of a high-tech society benefits from Moore's Law in action. Mobile devices, such as smartphones and computer tablets would not work without tiny processors; neither would video games, spreadsheets, accurate weather forecasts, and [[global positioning systems (GPS).]](https://www.investopedia.com/terms/g/geolocation.asp)
 
 ### All Sectors Benefit
 
@@ -68,7 +68,7 @@ Despite the growing concerns around privacy and security, the advantages of ever
 
 ## Creating the Impossible?
 
-Perhaps the idea of Moore's Law approaching its natural death is most painfully present at the chip manufacturers themselves; as these companies are saddled with the task of building ever-more-powerful chips against the reality of physical odds. Even [Intel is competing with itself and its industry](https://www.investopedia.com/ask/answers/120114/who-are-intels-intc-main-competitors.asp) to create what ultimately may not be possible.
+Perhaps the idea of Moore's Law approaching its natural death is most painfully present at the chip manufacturers themselves; as these companies are saddled with the task of building ever-more-powerful chips against the reality of physical odds. Even [[Intel is competing with itself and its industry]](https://www.investopedia.com/ask/answers/120114/who-are-intels-intc-main-competitors.asp) to create what ultimately may not be possible.
 
 In 2012, with its 22-nanometer (nm) processor, Intel was able to boast having the world's smallest and most advanced transistors in a mass-produced product.8 In 2014, Intel launched an even smaller, more powerful 14nm chip;9 and today, the company is struggling to bring its 10nm chip to market.
 

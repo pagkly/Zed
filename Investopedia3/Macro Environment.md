@@ -16,7 +16,7 @@ author: Investopedia Staff
 Macro Environment
 ## What Is a Macro Environment?
 
-A macro environment is the condition that exists in the economy as a whole, rather than in a particular sector or region. In general, the macro environment includes trends in the gross domestic product (GDP), inflation, employment, spending, and monetary and fiscal policy. The macro-environment is closely linked to the general [business cycle](https://www.investopedia.com/terms/b/businesscycle.asp) as opposed to the performance of an individual business sector.
+A macro environment is the condition that exists in the economy as a whole, rather than in a particular sector or region. In general, the macro environment includes trends in the gross domestic product (GDP), inflation, employment, spending, and monetary and fiscal policy. The macro-environment is closely linked to the general [[business cycle]](https://www.investopedia.com/terms/b/businesscycle.asp) as opposed to the performance of an individual business sector.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ A macro environment is the condition that exists in the economy as a whole, rath
 
 ## Understanding the Macro Environment
 
-The macro-environment refers to how the macroeconomic conditions in which a company or sector operates influences its performance. [Macroeconomics](https://www.investopedia.com/terms/m/macroeconomics.asp) deals with aggregate production, spending, and the price level in an economy as opposed to individual industries and markets.
+The macro-environment refers to how the macroeconomic conditions in which a company or sector operates influences its performance. [[Macroeconomics]](https://www.investopedia.com/terms/m/macroeconomics.asp) deals with aggregate production, spending, and the price level in an economy as opposed to individual industries and markets.
 
 The amount of the macro environment's influence depends on how much of a company's business is dependent on the health of the overall economy. Cyclical industries are heavily influenced by the macro environment, while basic staple industries are less influenced. Industries that are highly dependent on credit to finance purchases and business investments are strongly influenced by changes in interest rates and global financial markets.
 
@@ -46,7 +46,7 @@ Inflation is a key factor watched by economists, investors, and consumers. It af
 
 ### Employment
 
-Employment levels in the United States are measured by the Bureau of Labor Statistics, which releases a monthly report on business payrolls and the status of the [unemployment](https://www.investopedia.com/terms/u/unemployment.asp) rate.4 5 The Federal Reserve also seeks to regulate employment levels through monetary policy stimulus and credit measures. These policies can ease borrowing rates for businesses to help improve capital spending and business growth, resulting in employment growth.
+Employment levels in the United States are measured by the Bureau of Labor Statistics, which releases a monthly report on business payrolls and the status of the [[unemployment]](https://www.investopedia.com/terms/u/unemployment.asp) rate.4 5 The Federal Reserve also seeks to regulate employment levels through monetary policy stimulus and credit measures. These policies can ease borrowing rates for businesses to help improve capital spending and business growth, resulting in employment growth.
 
 ### Consumer Spending
 

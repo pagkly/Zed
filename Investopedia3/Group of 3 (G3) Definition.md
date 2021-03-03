@@ -16,9 +16,9 @@ author: Clay Halton
 Group of 3 (G3) Definition
 ## What is the Group of 3?
 
-Group of 3 refers to a ten-year free trade agreement between Mexico, Colombia and Venezuela that began in 1995 and lasted until 2005. The pact covered numerous issues including [intellectual property rights](https://www.investopedia.com/terms/i/intellectualproperty.asp), public-sector investments and the easing of trade restrictions.
+Group of 3 refers to a ten-year free trade agreement between Mexico, Colombia and Venezuela that began in 1995 and lasted until 2005. The pact covered numerous issues including [[intellectual property rights]](https://www.investopedia.com/terms/i/intellectualproperty.asp), public-sector investments and the easing of trade restrictions.
 
-Venezuela, under the leadership of Hugo Chavez, opted to not continue in the Group of 3 when the original agreement came up for renewal in 2006. Venezuela instead joined Mercosur, another [free trade area](https://www.investopedia.com/terms/f/free_trade_area.asp) that predated the Group of 3. When Venezuela left, Colombia and Mexico agreed to continue as free trade partners for roughly nine more years.
+Venezuela, under the leadership of Hugo Chavez, opted to not continue in the Group of 3 when the original agreement came up for renewal in 2006. Venezuela instead joined Mercosur, another [[free trade area]](https://www.investopedia.com/terms/f/free_trade_area.asp) that predated the Group of 3. When Venezuela left, Colombia and Mexico agreed to continue as free trade partners for roughly nine more years.
 
 ## Understanding Group of 3 (G3)
 
@@ -26,7 +26,7 @@ The Group of 3 was among several free trade agreements that the government of Me
 
 Notable modifications to the agreement included a decree to boost free trade in additional industries in December 2004 and a change that Mexico and Colombia implemented in August 2011 to reduce tariffs on a range of additional products.
 
-Mexico and Colombia ended their two-way alliance when each entered the [Pacific Alliance](https://alianzapacifico.net/en/what-is-the-pacific-alliance/) with Chile and Peru in 2014. The goal of this agreement was to boost trade between all four countries and strengthen economic ties to Asia as each country borders the Pacific Ocean.
+Mexico and Colombia ended their two-way alliance when each entered the [[Pacific Alliance]](https://alianzapacifico.net/en/what-is-the-pacific-alliance/) with Chile and Peru in 2014. The goal of this agreement was to boost trade between all four countries and strengthen economic ties to Asia as each country borders the Pacific Ocean.
 
 ## Legacy of the Group of 3
 

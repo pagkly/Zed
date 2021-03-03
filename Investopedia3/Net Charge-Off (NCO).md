@@ -16,9 +16,9 @@ author: Will Kenton
 Net Charge-Off (NCO)
 ## What is a Net Charge-Off?
 
-A net charge-off (NCO) is the dollar amount representing the difference between gross [charge-offs](https://www.investopedia.com/terms/c/chargeoff.asp) and any subsequent recoveries of delinquent debt. Net charge-offs refer to the debt owed to a company that is unlikely to be recovered by that company.
+A net charge-off (NCO) is the dollar amount representing the difference between gross [[charge-offs]](https://www.investopedia.com/terms/c/chargeoff.asp) and any subsequent recoveries of delinquent debt. Net charge-offs refer to the debt owed to a company that is unlikely to be recovered by that company.
 
-This "bad debt" often written off and classified as gross charge-offs. If, at a later date, [some money is recovered on the debt](https://www.investopedia.com/terms/b/bad-debt-recovery.asp), the amount is subtracted from the gross charge-offs to compute the net charge-off value.
+This "bad debt" often written off and classified as gross charge-offs. If, at a later date, [[some money is recovered on the debt]](https://www.investopedia.com/terms/b/bad-debt-recovery.asp), the amount is subtracted from the gross charge-offs to compute the net charge-off value.
 
 ### Key Takeaways
 
@@ -28,11 +28,11 @@ This "bad debt" often written off and classified as gross charge-offs. If, at a 
 
 ## Understanding Net Charge-Offs (NCO)
 
-It is highly unlikely that a lender will experience 100% collection on all of its loans outstanding. As a routine matter, a creditor will establish a [loan loss provision](https://www.investopedia.com/terms/l/loanlossprovision.asp), an estimate of the amount that it thinks (based on historical data) will not be repaid, and then charge off the amounts that it determines will not come back.
+It is highly unlikely that a lender will experience 100% collection on all of its loans outstanding. As a routine matter, a creditor will establish a [[loan loss provision]](https://www.investopedia.com/terms/l/loanlossprovision.asp), an estimate of the amount that it thinks (based on historical data) will not be repaid, and then charge off the amounts that it determines will not come back.
 
-Most often it is the case that loss provisions are in the ballpark of actual gross charge-offs, but eventual recoveries can occur, which when netted against gross charge-offs produce a net charge-off figure. A lender will reduce the loan loss provision by the amount of net charge-off during an accounting period and then refill the provision. The loan loss provision appears on the income statement as an expense and therefore will lower [operating profits](https://www.investopedia.com/terms/o/operating_profit.asp).
+Most often it is the case that loss provisions are in the ballpark of actual gross charge-offs, but eventual recoveries can occur, which when netted against gross charge-offs produce a net charge-off figure. A lender will reduce the loan loss provision by the amount of net charge-off during an accounting period and then refill the provision. The loan loss provision appears on the income statement as an expense and therefore will lower [[operating profits]](https://www.investopedia.com/terms/o/operating_profit.asp).
 
-The [Federal Reserve Bank](https://www.investopedia.com/terms/f/federalreservebank.asp) tracks aggregate net charge-off ratios for banks in the U.S. The ratio is defined as net charge-offs divided by average total loans during a period. There is also a breakdown among the categories of real estate (residential, commercial, farmland), consumer, leases, [commercial and industrial](https://www.investopedia.com/terms/commercial-and-industrial-ci-loan.asp) (C&I) and agricultural loans. The net charge-offs to Total Loans for Banks ratio during the third quarter of 2020 was 0.51%.
+The [[Federal Reserve Bank]](https://www.investopedia.com/terms/f/federalreservebank.asp) tracks aggregate net charge-off ratios for banks in the U.S. The ratio is defined as net charge-offs divided by average total loans during a period. There is also a breakdown among the categories of real estate (residential, commercial, farmland), consumer, leases, [commercial and industrial](https://www.investopedia.com/terms/commercial-and-industrial-ci-loan.asp) (C&I) and agricultural loans. The net charge-offs to Total Loans for Banks ratio during the third quarter of 2020 was 0.51%.
 
 ## Company Example of a Net Charge-Off
 

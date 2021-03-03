@@ -18,9 +18,9 @@ Upfront Pricing
 
 Upfront pricing refers to the interest rates and limits established for a borrower in a credit card’s underwriting and issuance.
 
-In credit card [underwriting](https://www.investopedia.com/terms/u/underwriting.asp), a creditor will use automated technology to establish all of the pricing terms at the onset of the relationship.
+In credit card [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp), a creditor will use automated technology to establish all of the pricing terms at the onset of the relationship.
 
-Upfront pricing terms are generated from customized [risk-based pricing](https://www.investopedia.com/terms/r/riskbased-pricing.asp) methodologies that take into account a borrower’s credit profile and debt-to-income. Using these inputs the creditor will establish credit card pricing terms upfront for the credit agreement. Pricing terms generally focus on the borrower’s interest rate and credit limit.
+Upfront pricing terms are generated from customized [[risk-based pricing]](https://www.investopedia.com/terms/r/riskbased-pricing.asp) methodologies that take into account a borrower’s credit profile and debt-to-income. Using these inputs the creditor will establish credit card pricing terms upfront for the credit agreement. Pricing terms generally focus on the borrower’s interest rate and credit limit.
 
 ### Key Takeaways
 
@@ -45,7 +45,7 @@ Most credit cards will have variable rates that assign a borrower a margin based
 
 ### Variable Rates and Credit Limits
 
-A lender’s marketed rates will serve as a base for the establishment of upfront pricing terms in the underwriting process. Since most credit cards have variable rates, they will typically be based on the lender’s [indexed rate](https://www.investopedia.com/terms/i/indexed_rate.asp) plus a margin.
+A lender’s marketed rates will serve as a base for the establishment of upfront pricing terms in the underwriting process. Since most credit cards have variable rates, they will typically be based on the lender’s [[indexed rate]](https://www.investopedia.com/terms/i/indexed_rate.asp) plus a margin.
 
 This requires the credit card underwriting technology to generate a specific margin for each borrower. In the underwriting process, a lender will also establish a credit limit. Lenders base the account’s credit limit on a borrower’s application information.
 
@@ -55,6 +55,6 @@ Credit limits will typically vary for each borrower. For most credit cards the i
 
 Credit cards usually provide an immediate decision on a new credit card account. This action requires the creditor to rely heavily on the automated underwriting technology that processes an automated application and immediately provides a borrower with their upfront pricing terms in a credit card agreement.
 
-The credit card agreement also details other important factors for the borrower such as [fees](https://www.investopedia.com/terms/f/fee.asp). Generally, fees will be constant across all accounts for a specific credit card product. Credit card fees may include late fees, monthly account maintenance fees, and annual fees.
+The credit card agreement also details other important factors for the borrower such as [[fees]](https://www.investopedia.com/terms/f/fee.asp). Generally, fees will be constant across all accounts for a specific credit card product. Credit card fees may include late fees, monthly account maintenance fees, and annual fees.
 
-A borrower can rely on the credit card agreement to provide all of the information about the account. The credit card agreement serves as a loan contract. It will include the product’s policies for late payments, delinquencies, and defaults. It will also include all of the product’s procedures, specifically detailing how the product will charge [interest](https://www.investopedia.com/terms/i/interest.asp).
+A borrower can rely on the credit card agreement to provide all of the information about the account. The credit card agreement serves as a loan contract. It will include the product’s policies for late payments, delinquencies, and defaults. It will also include all of the product’s procedures, specifically detailing how the product will charge [[interest]](https://www.investopedia.com/terms/i/interest.asp).

@@ -16,7 +16,7 @@ author: Andrew Bloomenthal
 On the Move: Mobile Commerce
 ## What Is Mobile Commerce?
 
-Mobile commerce, also known as m-commerce or mcommerce, is the use of wireless handheld devices like cellphones and tablets to conduct commercial transactions online, including the purchase and sale of products, [online banking](https://www.investopedia.com/terms/o/onlinebanking.asp), and paying bills. The use of m-commerce activity is on the rise. According to market research company Statista, mobile commerce sales in the United States were an estimated $207.2 billion in 2017.
+Mobile commerce, also known as m-commerce or mcommerce, is the use of wireless handheld devices like cellphones and tablets to conduct commercial transactions online, including the purchase and sale of products, [[online banking]](https://www.investopedia.com/terms/o/onlinebanking.asp), and paying bills. The use of m-commerce activity is on the rise. According to market research company Statista, mobile commerce sales in the United States were an estimated $207.2 billion in 2017.
 
 ### Key Takeaways
 
@@ -26,11 +26,11 @@ Mobile commerce, also known as m-commerce or mcommerce, is the use of wireless h
 
 ## Understanding Mobile Commerce
 
-Mobile commerce is an increasingly large subset of [electronic commerce](https://www.investopedia.com/terms/e/ecommerce.asp), a model where firms or individuals conduct business over the internet. The rapid growth of mobile commerce has been driven by a number of factors, including increased wireless handheld device computing power, a proliferation of m-commerce applications, and the broad resolution of security issues.
+Mobile commerce is an increasingly large subset of [[electronic commerce]](https://www.investopedia.com/terms/e/ecommerce.asp), a model where firms or individuals conduct business over the internet. The rapid growth of mobile commerce has been driven by a number of factors, including increased wireless handheld device computing power, a proliferation of m-commerce applications, and the broad resolution of security issues.
 
 ### The Convenience of Mobile Commerce
 
-The range of devices capable of mobile commerce is growing. For example, digital wallets like Apple Pay and Android Pay let customers make in-store purchases without the inconvenience of swiping cards. And during the mid-2010s, [social media](https://www.investopedia.com/terms/s/social-media.asp) platforms, such as Facebook, Twitter, Pinterest, and Instagram launched "buy buttons" on their mobile platforms, enabling users to conveniently make purchases from other retailers, directly from these social media sites.
+The range of devices capable of mobile commerce is growing. For example, digital wallets like Apple Pay and Android Pay let customers make in-store purchases without the inconvenience of swiping cards. And during the mid-2010s, [[social media]](https://www.investopedia.com/terms/s/social-media.asp) platforms, such as Facebook, Twitter, Pinterest, and Instagram launched "buy buttons" on their mobile platforms, enabling users to conveniently make purchases from other retailers, directly from these social media sites.
 
 **As content delivery over wireless devices becomes more streamlined, secure, and scalable, digital commerce transactions are likely to continue climbing.**
 

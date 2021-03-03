@@ -16,7 +16,7 @@ author: Adam Hayes
 K-Ratio
 ## What Is the K-Ratio?
 
-The K-ratio is a valuation metric that examines the consistency of an equity's return over time. The data for the ratio is derived from a [value-added monthly index](https://www.investopedia.com/terms/v/vami.asp) (VAMI), which uses [linear regression](https://www.investopedia.com/terms/r/regression.asp) to track the progress of a $1,000 initial investment in the security being analyzed.
+The K-ratio is a valuation metric that examines the consistency of an equity's return over time. The data for the ratio is derived from a [[value-added monthly index]](https://www.investopedia.com/terms/v/vami.asp) (VAMI), which uses [[linear regression]](https://www.investopedia.com/terms/r/regression.asp) to track the progress of a $1,000 initial investment in the security being analyzed.
 
 ### Key Takeaways
 
@@ -45,6 +45,6 @@ In 2003, Kestner introduced a modified version of his original K-ratio, which ch
 
 The ratio measures the return of the security over time and it is considered to be a good tool to measure the performance of equities because it takes the return trend into account, versus point-in-time snapshots.
 
-The K-ratio allows for a comparison of cumulative returns for different equities (and equity managers) returns over time. It differs from the widely used [Sharpe](https://www.investopedia.com/terms/s/sharperatio.asp) measure by taking into account the order in which returns occur. In practice, the K-ratio is designed to be viewed in tandem with and in addition to other measures of performance.
+The K-ratio allows for a comparison of cumulative returns for different equities (and equity managers) returns over time. It differs from the widely used [[Sharpe]](https://www.investopedia.com/terms/s/sharperatio.asp) measure by taking into account the order in which returns occur. In practice, the K-ratio is designed to be viewed in tandem with and in addition to other measures of performance.
 
 In addition to their use in analyzing individual stock returns, style categories, and fund managers, K-ratios can also be calculated for bonds. K-ratios will differ across asset classes (domestic stocks versus bonds versus emerging market stocks), within asset classes (e.g., large-cap versus small-cap) and by time period.

@@ -16,9 +16,9 @@ author: James Chen
 Dollar Duration Definition
 ## What is the Dollar Duration
 
-The dollar duration measures the dollar change in a bond's value to a change in the market interest rate. The dollar duration is used by professional [bond fund](https://www.investopedia.com/terms/b/bondfund.asp) managers as a way of approximating the portfolio's [interest rate risk](https://www.investopedia.com/terms/i/interestraterisk.asp).
+The dollar duration measures the dollar change in a bond's value to a change in the market interest rate. The dollar duration is used by professional [[bond fund]](https://www.investopedia.com/terms/b/bondfund.asp) managers as a way of approximating the portfolio's [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp).
 
-Dollar duration is one of several different measurements of bond's [duration](https://www.investopedia.com/terms/d/duration.asp), As duration measures quantify the sensitivity of a bond's price to interest rate changes, dollar duration seeks to report these changes as an actual dollar amount. 
+Dollar duration is one of several different measurements of bond's [[duration]](https://www.investopedia.com/terms/d/duration.asp), As duration measures quantify the sensitivity of a bond's price to interest rate changes, dollar duration seeks to report these changes as an actual dollar amount. 
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ Dollar duration is one of several different measurements of bond's [duration](ht
 
 ## Basics of Dollar Duration
 
-Dollar duration, sometimes called money duration or DV01, is based on a linear approximation of how a bond's value will change in response to changes in interest rates. The actual relationship between a bond's value and interest rates is not linear. Therefore, dollar duration is an imperfect measure of [interest rate sensitivity](https://www.investopedia.com/terms/i/interest-rate-sensitivity.asp), and it will only provide an accurate calculation for small changes in interest rates.
+Dollar duration, sometimes called money duration or DV01, is based on a linear approximation of how a bond's value will change in response to changes in interest rates. The actual relationship between a bond's value and interest rates is not linear. Therefore, dollar duration is an imperfect measure of [[interest rate sensitivity]](https://www.investopedia.com/terms/i/interest-rate-sensitivity.asp), and it will only provide an accurate calculation for small changes in interest rates.
 
-Mathematically, the dollar duration measures the change in the value of a bond portfolio for every 100 basis point change in interest rates. Dollar duration is often referred to formally as DV01 (i.e. dollar value per 01). Remember, 0.01 is equivalent to 1 percent, which is often denoted as 100 [basis points](https://www.investopedia.com/ask/answers/what-basis-point-bps/) (bps). To calculate the dollar duration of a bond you need to know its duration, the current interest rate, and the change in interest rates.
+Mathematically, the dollar duration measures the change in the value of a bond portfolio for every 100 basis point change in interest rates. Dollar duration is often referred to formally as DV01 (i.e. dollar value per 01). Remember, 0.01 is equivalent to 1 percent, which is often denoted as 100 [[basis points]](https://www.investopedia.com/ask/answers/what-basis-point-bps/) (bps). To calculate the dollar duration of a bond you need to know its duration, the current interest rate, and the change in interest rates.
 
 >              Dollar Duration = DUR x (∆i/1+ i) x P
 
@@ -45,7 +45,7 @@ While dollar duration refers to an individual bond price, the sum of the weighte
 
 ## Dollar Duration vs. Other Duration Methods
 
-Dollar duration differs from [Macaulay duration](https://www.investopedia.com/terms/m/macaulayduration.asp) and [modified duration](https://www.investopedia.com/terms/m/modifiedduration.asp) in that modified duration is a price sensitivity measure of the yield change, meaning it is a good measure of volatility, and Macaulay duration uses the coupon rate and size plus the yield to maturity to assess the sensitivity of a bond. Dollar duration, on the other hand, provides a straightforward dollar-amount computation given a 1% change in rates.
+Dollar duration differs from [[Macaulay duration]](https://www.investopedia.com/terms/m/macaulayduration.asp) and [[modified duration]](https://www.investopedia.com/terms/m/modifiedduration.asp) in that modified duration is a price sensitivity measure of the yield change, meaning it is a good measure of volatility, and Macaulay duration uses the coupon rate and size plus the yield to maturity to assess the sensitivity of a bond. Dollar duration, on the other hand, provides a straightforward dollar-amount computation given a 1% change in rates.
 
 ## Limitations of Dollar Duration
 

@@ -27,7 +27,7 @@ The WEO is usually prepared twice a year and is used in meetings of the Internat
 
 ## Understanding World Economic Outlook (WEO)
 
-The World Economic Outlook (WEO) presents the IMF's analysis and projections of global economic developments and classifies their analysis by region and stage of economic development. This report is the main instrument of disseminating the findings and [analysis](https://www.investopedia.com/terms/f/financial-analysis.asp) of their global surveillance activities to the world.
+The World Economic Outlook (WEO) presents the IMF's analysis and projections of global economic developments and classifies their analysis by region and stage of economic development. This report is the main instrument of disseminating the findings and [[analysis]](https://www.investopedia.com/terms/f/financial-analysis.asp) of their global surveillance activities to the world.
 
 ## Recent News and Trends in WEO
 
@@ -37,7 +37,7 @@ The WEO suggested U.S. tax policy changes would stimulate global activity, inclu
 
 ### Economic Changes
 
-The WEO also reported that global recovery has strengthened, with some 120 economies, accounting for three quarters of world [GDP](https://www.investopedia.com/terms/g/gdp.asp), seeing a pickup in growth in 2017, the broadest synchronized global growth upsurge since 2010. Growth in the third quarter of 2017 was higher than projected for [advanced economies](https://www.investopedia.com/terms/a/advanced-economies.asp), including Germany, Japan, Korea, and the United States. Furthermore, key emerging market and developing economies, including Brazil, China, and South Africa, also posted third-quarter growth stronger than their prior forecasts.
+The WEO also reported that global recovery has strengthened, with some 120 economies, accounting for three quarters of world [[GDP]](https://www.investopedia.com/terms/g/gdp.asp), seeing a pickup in growth in 2017, the broadest synchronized global growth upsurge since 2010. Growth in the third quarter of 2017 was higher than projected for [[advanced economies]](https://www.investopedia.com/terms/a/advanced-economies.asp), including Germany, Japan, Korea, and the United States. Furthermore, key emerging market and developing economies, including Brazil, China, and South Africa, also posted third-quarter growth stronger than their prior forecasts.
 
 By April 2019, the situation had reversed. Global economic growth slowed during the second half of 2018. For 2019, growth was expected to be down by three basis points, from 3.6 percent in 2018 to 3.3 percent in 2019. But it will pick up pace again in 2020.
 

@@ -20,13 +20,13 @@ An index swap refers to a hedging contract in which a party exchanges a predeter
 
 ### Key Takeaways
 
--   The interest of the overnight rate portion of the swap is compounded and paid at [reset dates](https://www.investopedia.com/terms/r/reset-date.asp), with the fixed leg being accounted for in the swap's value to each party.
--   The floating leg's [present value](https://www.investopedia.com/terms/p/presentvalue.asp) (PV) is determined by either compounding of the overnight rate or by taking the [geometric average](https://www.investopedia.com/terms/g/geometricmean.asp) of the rate over a given period.
--   Like other interest rate swaps, an [interest rate curve](https://www.investopedia.com/terms/y/yieldcurve.asp) must be produced to determine the present value of cash flows.
+-   The interest of the overnight rate portion of the swap is compounded and paid at [[reset dates]](https://www.investopedia.com/terms/r/reset-date.asp), with the fixed leg being accounted for in the swap's value to each party.
+-   The floating leg's [[present value]](https://www.investopedia.com/terms/p/presentvalue.asp) (PV) is determined by either compounding of the overnight rate or by taking the [[geometric average]](https://www.investopedia.com/terms/g/geometricmean.asp) of the rate over a given period.
+-   Like other interest rate swaps, an [[interest rate curve]](https://www.investopedia.com/terms/y/yieldcurve.asp) must be produced to determine the present value of cash flows.
 
 ## How Does an Overnight Index Swap Work?
 
-The overnight index swap denotes an interest rate swap involving the overnight rate being exchanged for a [fixed interest rate](https://www.investopedia.com/terms/f/fixedinterestrate.asp). An overnight index swap uses an overnight rate index such as the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) as the underlying rate for the floating leg, while the fixed leg would be set at a rate agreed on by both parties.
+The overnight index swap denotes an interest rate swap involving the overnight rate being exchanged for a [[fixed interest rate]](https://www.investopedia.com/terms/f/fixedinterestrate.asp). An overnight index swap uses an overnight rate index such as the [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) as the underlying rate for the floating leg, while the fixed leg would be set at a rate agreed on by both parties.
 
 Overnight index swaps are popular among financial institutions because the overnight index is considered to be a good indicator of the interbank credit markets and less risky than traditional interest rate spreads.
 
@@ -40,7 +40,7 @@ Step two of the calculation divides the effective overnight rate by 360. Industr
 
 For step three, simply add one to this result: 1.3889 x 10^-5 + 1 = 1.00003889.
 
-In step four, multiply the new rate by the total principal of the loan. For example, if the overnight loan has a [principal](https://www.investopedia.com/terms/p/principal.asp) of $1 million, the resulting calculation is: 1.00003889 x $1,000,000 = $1,000,013.89.
+In step four, multiply the new rate by the total principal of the loan. For example, if the overnight loan has a [[principal]](https://www.investopedia.com/terms/p/principal.asp) of $1 million, the resulting calculation is: 1.00003889 x $1,000,000 = $1,000,013.89.
 
 Step five applies the above calculations to each day of the loan, with the principal updated continuously. This is done for multi-day loans in case the rate varies.
 

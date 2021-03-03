@@ -16,9 +16,9 @@ author: James Chen
 Factors that Create Discount Bonds
 ## What Is a Discount Bond?
 
-A discount bond is a bond that is issued for less than its par—or face—value. Discount bonds may also be a bond currently trading for less than its face value in the secondary market. A bond is considered a [deep-discount bond](https://www.investopedia.com/terms/d/deepdiscountbond.asp) if it is sold at a significantly lower price than par value, usually at 20% or more.
+A discount bond is a bond that is issued for less than its par—or face—value. Discount bonds may also be a bond currently trading for less than its face value in the secondary market. A bond is considered a [[deep-discount bond]](https://www.investopedia.com/terms/d/deepdiscountbond.asp) if it is sold at a significantly lower price than par value, usually at 20% or more.
 
-A discount bond may be contrasted with a [bond sold at a premium](https://www.investopedia.com/terms/p/premiumbond.asp).
+A discount bond may be contrasted with a [[bond sold at a premium]](https://www.investopedia.com/terms/p/premiumbond.asp).
 
 ### Key Takeaways
 
@@ -32,11 +32,11 @@ A discount bond may be contrasted with a [bond sold at a premium](https://www.in
 
 Many bonds are issued with a $1,000 face value meaning the investor will be paid $1,000 at maturity. However, bonds are often sold before maturity and bought by other investors in the secondary market. Bonds that trade at a value of less than face value would be considered a discount bond. For example, a bond with a $1,000 face value that's currently selling for $95 would be a discounted bond.
 
-Since bonds are a type of debt security, bondholders or investors receive interest from the bond's issuer. This interest is called a [coupon](https://www.investopedia.com/terms/c/coupon.asp) that is usually paid semiannually but, depending on the bond may be paid monthly, quarterly, or even annually. Discount bonds can be bought and sold by both institutional and individual investors. However, institutional investors must adhere to specific regulations for the selling and purchasing of discount bonds. A common example of a discount bond is a [U.S. savings bond](https://www.investopedia.com/terms/u/ussavingsbonds.asp).
+Since bonds are a type of debt security, bondholders or investors receive interest from the bond's issuer. This interest is called a [[coupon]](https://www.investopedia.com/terms/c/coupon.asp) that is usually paid semiannually but, depending on the bond may be paid monthly, quarterly, or even annually. Discount bonds can be bought and sold by both institutional and individual investors. However, institutional investors must adhere to specific regulations for the selling and purchasing of discount bonds. A common example of a discount bond is a [[U.S. savings bond]](https://www.investopedia.com/terms/u/ussavingsbonds.asp).
 
 ## Interest Rates and Discount Bonds
 
-Bond [yields](https://www.investopedia.com/terms/y/yield.asp) and bond prices have an inverse, or opposite, relationship. As interest rates increase, the price of a bond will decrease, and vice versa. A bond that offers bondholders a lower interest or coupon rate than the current market interest rate would likely be sold at a lower price than its face value. This lower price is due to the opportunity investors have to buy a similar bond or other securities that give a better return.
+Bond [[yields]](https://www.investopedia.com/terms/y/yield.asp) and bond prices have an inverse, or opposite, relationship. As interest rates increase, the price of a bond will decrease, and vice versa. A bond that offers bondholders a lower interest or coupon rate than the current market interest rate would likely be sold at a lower price than its face value. This lower price is due to the opportunity investors have to buy a similar bond or other securities that give a better return.
 
 For example, let's say, interest rates rise after an investor purchases a bond. The higher interest rate in the economy decreases the value of the newly-purchased bond due to paying a lower rate versus the market. That means if our investor wants to sell the bond on the secondary market, they will have to offer it for a lower price. Should the prevailing market interest rates rise enough to push the price or value of a bond below its face value it's referred to as a discount bond.
 
@@ -46,7 +46,7 @@ Conversely, if current interest rates fall below the coupon rate offered on an e
 
 ## Using Yield to Maturity
 
-Investors can convert older bond prices to their value in the current market by using a calculation called [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM). Yield to maturity considers the bond's current market price, par value, coupon interest rate, and time to maturity to calculate a bond's return. The YTM calculation is relatively complex, but many online [financial calculators](https://www.investopedia.com/calculator/aoytm.aspx) can determine the YTM of a bond.
+Investors can convert older bond prices to their value in the current market by using a calculation called [[yield to maturity]](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM). Yield to maturity considers the bond's current market price, par value, coupon interest rate, and time to maturity to calculate a bond's return. The YTM calculation is relatively complex, but many online [[financial calculators]](https://www.investopedia.com/calculator/aoytm.aspx) can determine the YTM of a bond.
 
 ## Default Risk with Discount Bonds
 
@@ -56,9 +56,9 @@ However, the chances of default for longer-term bonds might be higher, as a disc
 
 ## Distressed and Zero-Coupon Bonds
 
-A [distressed bond](https://www.investopedia.com/terms/d/distressedsecurities.asp) is a bond that has a high likelihood of default and can trade at a significant discount to par, which would effectively raise its yield to desirable levels. However, distressed bonds are not usually expected to pay full or timely interest payments. As a result, investors who buy these securities are making a [speculative](https://www.investopedia.com/terms/s/speculation.asp) play.
+A [[distressed bond]](https://www.investopedia.com/terms/d/distressedsecurities.asp) is a bond that has a high likelihood of default and can trade at a significant discount to par, which would effectively raise its yield to desirable levels. However, distressed bonds are not usually expected to pay full or timely interest payments. As a result, investors who buy these securities are making a [[speculative]](https://www.investopedia.com/terms/s/speculation.asp) play.
 
-A [zero-coupon bond](https://www.investopedia.com/terms/z/zero-couponbond.asp) is a great example of deep discount bonds. Depending on the length of time until maturity, zero-coupon bonds can be issued at substantial discounts to par, sometimes 20% or more. Because a bond will always pay its full, face value, at maturity—assuming no credit events occur—zero-coupon bonds will steadily rise in price as the maturity date approaches. These bonds don't make periodic interest payments and will only make one payment of the face value to the holder at maturity.
+A [[zero-coupon bond]](https://www.investopedia.com/terms/z/zero-couponbond.asp) is a great example of deep discount bonds. Depending on the length of time until maturity, zero-coupon bonds can be issued at substantial discounts to par, sometimes 20% or more. Because a bond will always pay its full, face value, at maturity—assuming no credit events occur—zero-coupon bonds will steadily rise in price as the maturity date approaches. These bonds don't make periodic interest payments and will only make one payment of the face value to the holder at maturity.
 
 ## The Pros and Cons of Discount Bonds
 

@@ -16,9 +16,9 @@ author: Jean Folger
 Self-Directed IRA (SDIRA)
 ## What Is a Self-Directed IRA (SDIRA)?
 
-A self-directed individual retirement account (SDIRA) is a type of [individual retirement account](https://www.investopedia.com/terms/i/ira.asp) (IRA) that can hold a variety of alternative investments normally prohibited from regular IRAs. Although the account is administered by a custodian or trustee, it's directly managed by the account holder—the reason it's called "self-directed."
+A self-directed individual retirement account (SDIRA) is a type of [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA) that can hold a variety of alternative investments normally prohibited from regular IRAs. Although the account is administered by a custodian or trustee, it's directly managed by the account holder—the reason it's called "self-directed."
 
-Available as either a traditional IRA (to which you make tax-deductible contributions) or a [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp) (from which you take tax-free distributions), self-directed IRAs are best suited for savvy investors who already understand the alternative investments and who want to diversify in a tax-advantaged account.
+Available as either a traditional IRA (to which you make tax-deductible contributions) or a [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) (from which you take tax-free distributions), self-directed IRAs are best suited for savvy investors who already understand the alternative investments and who want to diversify in a tax-advantaged account.
 
 ### Key Takeaways
 
@@ -34,7 +34,7 @@ As such, an SDIRA requires greater initiative and due diligence by the account o
 
 ## How to Open a Self-Directed IRA (SDIRA)
 
-With most IRA providers, you can only open a regular IRA (traditional or Roth), and can only invest in the usual suspects: stocks, bonds, and mutual funds/ETFs. If you want to open a self-directed IRA, you’ll need a [qualified IRA custodian that specializes in that type of account.](https://www.irs.gov/retirement-plans/approved-nonbank-trustees-and-custodians)1
+With most IRA providers, you can only open a regular IRA (traditional or Roth), and can only invest in the usual suspects: stocks, bonds, and mutual funds/ETFs. If you want to open a self-directed IRA, you’ll need a [[qualified IRA custodian that specializes in that type of account.]](https://www.irs.gov/retirement-plans/approved-nonbank-trustees-and-custodians)1
 
 Not every SDIRA custodian offers the same range of investments. So, if you’re interested in a specific asset—say, gold bullion—make sure it’s part of a potential custodian’s offerings.
 
@@ -44,9 +44,9 @@ SDIRA custodians aren’t allowed to give financial advice (remember, the accoun
 
 ## Traditional vs. Roth Self-Directed IRA (SDIRA)
 
-Self-directed IRAs can be set up as [traditional IRAs](https://www.investopedia.com/terms/t/traditionalira.asp) or as [Roth IRAs](https://www.investopedia.com/terms/r/rothira.asp). But keep in mind, the two account types have different tax treatment, eligibility requirements, contribution guidelines, and distribution rules.
+Self-directed IRAs can be set up as [[traditional IRAs]](https://www.investopedia.com/terms/t/traditionalira.asp) or as [[Roth IRAs]](https://www.investopedia.com/terms/r/rothira.asp). But keep in mind, the two account types have different tax treatment, eligibility requirements, contribution guidelines, and distribution rules.
 
-A key difference between a traditional and Roth IRA is when you pay the taxes. With traditional IRAs, you get an upfront tax break, but pay taxes on your contributions and earnings as you withdraw them during retirement. On the other hand, you don’t get a tax break when you contribute to a Roth IRA. But your contributions and earnings grow tax-free, and qualified [distributions](https://www.investopedia.com/terms/d/distribution.asp) are tax-free, as well.
+A key difference between a traditional and Roth IRA is when you pay the taxes. With traditional IRAs, you get an upfront tax break, but pay taxes on your contributions and earnings as you withdraw them during retirement. On the other hand, you don’t get a tax break when you contribute to a Roth IRA. But your contributions and earnings grow tax-free, and qualified [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) are tax-free, as well.
 
 Of course, there are other differences to consider. Here’s a quick rundown:
 
@@ -62,7 +62,7 @@ SDIRAs also have to abide by the general IRA annual contribution limits: For 202
 
 Self-directed Roth IRAs open up a large universe of potential investments. In addition to the standard investments—stocks, bonds, cash, money market funds, and mutual funds—you can hold assets that aren’t typically part of a retirement portfolio.
 
-For example, you can buy investment real estate to hold in your SDIRA account. You can also hold partnerships and [tax liens](https://www.investopedia.com/terms/t/taxlien.asp)—even a franchise business.
+For example, you can buy investment real estate to hold in your SDIRA account. You can also hold partnerships and [[tax liens]](https://www.investopedia.com/terms/t/taxlien.asp)—even a franchise business.
 
 However, the Internal Revenue Service (IRS) forbids a few specified investments in self-directed IRAs, whether it’s the Roth or traditional version. For example, you can’t hold life insurance, S Corporation stocks, any investment that constitutes a prohibited transaction (such as one that involves “self-dealing”), and collectibles.3
 
@@ -76,4 +76,4 @@ SDIRAs have lots of benefits. But there are a few things to watch out for:
 -   **Due diligence**. Again, SDIRA custodians can’t offer financial advice. You’re on your own. Make sure you do your homework and find a good financial advisor if you need help.
 -   **Fees**. SDIRAs have a complicated fee structure. Typical charges include a one-time establishment fee, a first-year annual fee, annual renewal fee, and fees for investment bill paying. These costs add up (and cut into your earnings).
 -   **Your exit plan**. It’s easy to get out of stocks, bonds, and mutual funds: just place a sell order with your broker, and the market takes care of the rest. Not so with some SDIRA investments. If you own an apartment building, for example, it will take some time to find the right buyer. That can be especially problematic if you have a traditional SDIRA and need to start taking distributions.
--   **Fraud.** Even though SDIRA custodians can’t offer financial advice, they will make certain investments available. The [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) notes that SDIRA custodians don’t typically evaluate “the quality or legitimacy of any investment in the self-directed IRA or its promoters."4
+-   **Fraud.** Even though SDIRA custodians can’t offer financial advice, they will make certain investments available. The [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC) notes that SDIRA custodians don’t typically evaluate “the quality or legitimacy of any investment in the self-directed IRA or its promoters."4

@@ -16,11 +16,11 @@ author: James Chen
 Weighted Average Life (WAL)
 ## What Is Weighted Average Life (WAL)?
 
-The weighted average life (WAL) is the average length of time that each dollar of unpaid principal on a loan, a [mortgage](https://www.investopedia.com/terms/m/mortgage.asp), or an [amortizing bond](https://www.investopedia.com/terms/a/amortized-bond.asp) remains outstanding. Calculating WAL shows an investor, an analyst, or a portfolio manager how many years it will take to receive roughly half of the amount of the outstanding principal. The formula is useful in measuring the credit risk associated with fixed-income securities.
+The weighted average life (WAL) is the average length of time that each dollar of unpaid principal on a loan, a [[mortgage]](https://www.investopedia.com/terms/m/mortgage.asp), or an [[amortizing bond]](https://www.investopedia.com/terms/a/amortized-bond.asp) remains outstanding. Calculating WAL shows an investor, an analyst, or a portfolio manager how many years it will take to receive roughly half of the amount of the outstanding principal. The formula is useful in measuring the credit risk associated with fixed-income securities.
 
 ## Understanding Weighted Average Life (WAL)
 
-The time weightings used in weighted average life calculations are based on payments to the [principal](https://www.investopedia.com/terms/p/principal.asp). In many loans, such as mortgages, each payment consists of payments to principal and payments to [interest](https://www.investopedia.com/terms/m/mortgageinterest.asp). In WAL, only the principal payments are considered and these payments tend to get larger over time, with early payments of a mortgage going mostly to interest, while payments made towards the end of the loan are applied mostly to the principal balance of the loan.
+The time weightings used in weighted average life calculations are based on payments to the [[principal]](https://www.investopedia.com/terms/p/principal.asp). In many loans, such as mortgages, each payment consists of payments to principal and payments to [[interest]](https://www.investopedia.com/terms/m/mortgageinterest.asp). In WAL, only the principal payments are considered and these payments tend to get larger over time, with early payments of a mortgage going mostly to interest, while payments made towards the end of the loan are applied mostly to the principal balance of the loan.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The time weightings used in weighted average life calculations are based on paym
 -   Weighted average life does not consider payments to interest on the loan.
 -   Most investors will select the bond with the smaller WAL, as the lower number suggests that the bond carries less credit risk.
 
-Time periods with higher dollar amounts have more weight in WAL. For example, if the majority of the [repayment](https://www.investopedia.com/terms/r/repayment.asp) to principal is in 10 years, the weighted [average life](https://www.investopedia.com/terms/a/averagelife.asp) will be closer to 10 years.
+Time periods with higher dollar amounts have more weight in WAL. For example, if the majority of the [[repayment]](https://www.investopedia.com/terms/r/repayment.asp) to principal is in 10 years, the weighted [[average life]](https://www.investopedia.com/terms/a/averagelife.asp) will be closer to 10 years.
 
 ## Weighted Average Life Example
 
@@ -57,4 +57,4 @@ In this example, WAL is roughly equal to 4.00 and, at the end of four years, $13
 
 Weighted average life = $67,000 / $23,000 = 2.91 years
 
-WAL gives investors or analysts a rough idea of how quickly the bond in question pays out returns. Since rational investors want to receive returns earlier, if two bonds were compared, the investor would select the one with the shorter WAL. Stated differently, the most significant [credit risk](https://www.investopedia.com/terms/c/creditrisk.asp) of a loan is the risk of loss of principal and a smaller WAL indicates a higher likelihood that the principal will be repaid in full.
+WAL gives investors or analysts a rough idea of how quickly the bond in question pays out returns. Since rational investors want to receive returns earlier, if two bonds were compared, the investor would select the one with the shorter WAL. Stated differently, the most significant [[credit risk]](https://www.investopedia.com/terms/c/creditrisk.asp) of a loan is the risk of loss of principal and a smaller WAL indicates a higher likelihood that the principal will be repaid in full.

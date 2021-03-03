@@ -30,7 +30,7 @@ Safe harbors are also accounting methods that avoid legal or tax regulations, or
 
 ## Understanding Safe Harbors
 
-A safe harbor may refer to a strategy used by companies that are trying to thwart a [hostile takeover](https://www.investopedia.com/terms/h/hostiletakeover.asp). In many cases, a company will make special amendments to its charter or bylaws that become active only when a takeover attempt is announced or presented to shareholders with the goal of making the takeover less attractive or profitable to the acquiring firm.
+A safe harbor may refer to a strategy used by companies that are trying to thwart a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp). In many cases, a company will make special amendments to its charter or bylaws that become active only when a takeover attempt is announced or presented to shareholders with the goal of making the takeover less attractive or profitable to the acquiring firm.
 
 Safe harbor provisions, as they relate to regulatory liability, appear in a number of laws or contracts. For example, under the regulatory guidelines of the Securities and Exchange Commission (SEC), safe harbor provisions protect management from liability for making financial projections and forecasts in good faith.
 
@@ -44,7 +44,7 @@ Safe harbor [401(k) plans](https://www.investopedia.com/terms/1/401kplan.asp) fe
 
 ### Safe Harbor Accounting Method to Simplify Tax Returns
 
-Typically, the [Internal Revenue Service](https://www.investopedia.com/terms/i/irs.asp) (IRS) requires taxpayers to treat remodels as capitalized improvements, the value of which generally must be claimed slowly over a long period of time.
+Typically, the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) requires taxpayers to treat remodels as capitalized improvements, the value of which generally must be claimed slowly over a long period of time.
 
 However, restaurants and retailers often remodel their facilities on a regular basis to help their businesses look fresh and engaging. As a result, the IRS allowed some restaurateurs and retailers the ability to claim these expenses as repair costs, which can then all be deducted as business expenses in the year they were incurred.
 
@@ -52,7 +52,7 @@ Safe harbor accounting methods to reduce taxes is not intended to avoid taxes, o
 
 Because of this, tax filers had to review a long list of requirements to determine into which category their expenses fall, and the process was confusing. To eliminate confusion, the IRS created a safe harbor accounting method for eligible retail and restaurant businesses.
 
-Essentially, these businesses can now choose if their remodeling costs fall into the repair or [capitalized](https://www.investopedia.com/terms/c/capitalize.asp) improvement categories. Due to this safe harbor, businesses don't have to worry about accidentally making the wrong selection and later being penalized for it.
+Essentially, these businesses can now choose if their remodeling costs fall into the repair or [[capitalized]](https://www.investopedia.com/terms/c/capitalize.asp) improvement categories. Due to this safe harbor, businesses don't have to worry about accidentally making the wrong selection and later being penalized for it.
 
 ## Example of a Safe Harbor
 

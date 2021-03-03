@@ -16,7 +16,7 @@ author: Chris B Murphy
 World Federation Of Stock Exchanges
 ## What Is the World Federation of Stock Exchanges (WFE)?
 
-The World Federation of Stock Exchanges, more commonly known as the World Federation of Exchanges, is an international trade group that supports the interests of regulated [securities](https://www.investopedia.com/terms/s/seact1934.asp) [exchanges](https://www.investopedia.com/terms/e/exchange.asp) around the world and promotes widespread access to financial markets and the safety and soundness of the global financial system.
+The World Federation of Stock Exchanges, more commonly known as the World Federation of Exchanges, is an international trade group that supports the interests of regulated [[securities]](https://www.investopedia.com/terms/s/seact1934.asp) [[exchanges]](https://www.investopedia.com/terms/e/exchange.asp) around the world and promotes widespread access to financial markets and the safety and soundness of the global financial system.
 
 ### Key Takeaways
 
@@ -26,7 +26,7 @@ The World Federation of Stock Exchanges, more commonly known as the World Federa
 
 ## Understanding the World Federation of Stock Exchanges (WFE)
 
-The World Federation of Exchanges (WFE) is located in London, the United Kingdom. The WFE is an industry group and private company that was established in 1961, and today represents more than 250 different exchanges and [clearinghouses](https://www.investopedia.com/terms/c/clearinghouse.asp).
+The World Federation of Exchanges (WFE) is located in London, the United Kingdom. The WFE is an industry group and private company that was established in 1961, and today represents more than 250 different exchanges and [[clearinghouses]](https://www.investopedia.com/terms/c/clearinghouse.asp).
 
 The WFE's members are represented in the following regions of the world:
 
@@ -67,10 +67,10 @@ The WFE also seeks to provide value to its members through the dissemination of 
 
 ## Benefits of the World Federation of Exchanges
 
-The World Federation of Exchanges provides a number of different services for financial market participants. It publishes a wide array of statistics on securities markets, as well as more than 350 market [indicators](https://www.investopedia.com/terms/i/indicator.asp).
+The World Federation of Exchanges provides a number of different services for financial market participants. It publishes a wide array of statistics on securities markets, as well as more than 350 market [[indicators]](https://www.investopedia.com/terms/i/indicator.asp).
 
-The WEF also plays a role in facilitating the spread of ideas and best practices throughout the financial services industry. It often convenes forums, debates, and conferences where industry participants can discuss important issues in financial market structure, like cross-border regulation or [high-frequency trading](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp), which is a high-powered, computerized system of trading.
+The WEF also plays a role in facilitating the spread of ideas and best practices throughout the financial services industry. It often convenes forums, debates, and conferences where industry participants can discuss important issues in financial market structure, like cross-border regulation or [[high-frequency trading]](https://www.investopedia.com/ask/answers/09/high-frequency-trading.asp), which is a high-powered, computerized system of trading.
 
-The WFE also publishes numerous statistics, many of which are contained in its Annual Statistics Guide. Market participants can find in the guide such valuable information as the total [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp) of companies listed on various stock exchanges, the total value of bonds issued across the globe, or the total notional value of [derivatives](https://www.investopedia.com/terms/d/derivative.asp) being traded in specific markets.
+The WFE also publishes numerous statistics, many of which are contained in its Annual Statistics Guide. Market participants can find in the guide such valuable information as the total [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) of companies listed on various stock exchanges, the total value of bonds issued across the globe, or the total notional value of [[derivatives]](https://www.investopedia.com/terms/d/derivative.asp) being traded in specific markets.
 
-Derivatives typically derive their value from the underlying asset or security such as a stock. It also maintains a database on [initial public offerings (IPOs)](https://www.investopedia.com/terms/i/ipo.asp)—which a new [equity](https://www.investopedia.com/terms/e/equity.asp) issuance—made on member exchanges. The WEF is governed by a board of directors, which meets three times per year to oversee the management of the organization.
+Derivatives typically derive their value from the underlying asset or security such as a stock. It also maintains a database on [[initial public offerings (IPOs)]](https://www.investopedia.com/terms/i/ipo.asp)—which a new [[equity]](https://www.investopedia.com/terms/e/equity.asp) issuance—made on member exchanges. The WEF is governed by a board of directors, which meets three times per year to oversee the management of the organization.

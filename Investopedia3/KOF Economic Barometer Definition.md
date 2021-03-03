@@ -16,7 +16,7 @@ author: Investopedia Staff
 KOF Economic Barometer Definition
 ## What Is the KOF Economic Barometer?
 
-The KOF Economic Barometer is a composite indicator that provides a reliable reading on the direction of [GDP](https://www.investopedia.com/terms/g/gdp.asp) growth for the Swiss economy compared with the same quarter a year earlier. The KOF Economic Barometer is based on a multi-sectoral design with three modules: core GDP, construction, and banking.
+The KOF Economic Barometer is a composite indicator that provides a reliable reading on the direction of [[GDP]](https://www.investopedia.com/terms/g/gdp.asp) growth for the Swiss economy compared with the same quarter a year earlier. The KOF Economic Barometer is based on a multi-sectoral design with three modules: core GDP, construction, and banking.
 
 The barometer has a complex structure because it bundles over 500 individual indicators in several steps. It is published monthly by the KOF Swiss Economic Institute.
 
@@ -28,7 +28,7 @@ The barometer has a complex structure because it bundles over 500 individual ind
 
 ## Understanding the KOF Economic Barometer
 
-The concept of the barometer is to indicate the status of the Swiss [business cycle](https://www.investopedia.com/terms/b/businesscycle.asp), as captured by a reference series that reflects the Swiss GDP monthly growth rate, as early as possible. Movements in the KOF Economic Barometer on average lead movements in the reference series by one month. The KOF Economic Barometer demonstrates leading indicator properties with respect to both the synthetic reference time series and with actual quarterly growth rates of Swiss GDP.
+The concept of the barometer is to indicate the status of the Swiss [[business cycle]](https://www.investopedia.com/terms/b/businesscycle.asp), as captured by a reference series that reflects the Swiss GDP monthly growth rate, as early as possible. Movements in the KOF Economic Barometer on average lead movements in the reference series by one month. The KOF Economic Barometer demonstrates leading indicator properties with respect to both the synthetic reference time series and with actual quarterly growth rates of Swiss GDP.
 
 Although the KOF Institute cautions that no conclusions can be drawn about the level of the GDP growth rate on the basis of the KOF Economic Barometer, the barometer is closely followed by participants in the financial markets. Barometer readings that are higher than expected may have the effect of strengthening the Swiss franc, while lower than anticipated readings may weaken the Swiss franc.
 

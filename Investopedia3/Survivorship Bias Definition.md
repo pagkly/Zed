@@ -28,7 +28,7 @@ Survivorship bias or survivor bias is the tendency to view the performance of ex
 
 ## Understanding Survivorship Bias
 
-Survivorship bias is a natural singularity that makes the existing funds in the investment market more visible and therefore more highly viewed as a representative sample. Survivorship bias occurs because many funds in the investment market are closed by the [investment manager](https://www.investopedia.com/terms/i/investment-manager.asp) for various reasons leaving existing funds at the forefront of the investing universe.
+Survivorship bias is a natural singularity that makes the existing funds in the investment market more visible and therefore more highly viewed as a representative sample. Survivorship bias occurs because many funds in the investment market are closed by the [[investment manager]](https://www.investopedia.com/terms/i/investment-manager.asp) for various reasons leaving existing funds at the forefront of the investing universe.
 
 Funds may close for various reasons. Numerous market researchers follow and have reported on the effects of fund closings, highlighting the occurrence of survivorship bias. Market researchers regularly follow fund survivorship bias and fund closings to gauge historical trends and add new dynamics to fund performance monitoring.
 
@@ -40,11 +40,11 @@ There are two main reasons that funds close. One, the fund may not receive high 
 
 Investors in the fund are immediately impacted by a fund closing. Companies usually offer two solutions for a fund closing. One, the fund undergoes full liquidation and the investors’ shares are sold. This causes potential tax reporting consequences for the investor.1 Two, the fund may choose to merge. Merged funds are often the best solution for shareholders since they allow for special transition of shares typically with no tax reporting requirements. However, the performance of the merged funds is therefore also transitioned and can be a factor in the discussion of survivorship bias.
 
-Morningstar is one investment service provider that regularly discusses and reports on survivorship bias. It can be important for investors to be aware of survivorship bias because it may be a factor influencing performance that they are not aware of. While merged funds may take into account closed fund performance, in most cases funds are closed and their performance is not integrated into future reporting. This leads to survivorship bias, since investors may believe that currently, active funds are a true representative of all efforts to manage toward a specific [objective](https://www.investopedia.com/terms/i/investmentobjective.asp) historically. Thus, investors may want to include qualitative fund research on a strategy they are interested in investing in to determine if previous managers have tried and failed in the past.
+Morningstar is one investment service provider that regularly discusses and reports on survivorship bias. It can be important for investors to be aware of survivorship bias because it may be a factor influencing performance that they are not aware of. While merged funds may take into account closed fund performance, in most cases funds are closed and their performance is not integrated into future reporting. This leads to survivorship bias, since investors may believe that currently, active funds are a true representative of all efforts to manage toward a specific [[objective]](https://www.investopedia.com/terms/i/investmentobjective.asp) historically. Thus, investors may want to include qualitative fund research on a strategy they are interested in investing in to determine if previous managers have tried and failed in the past.
 
 ### Closing to New Investors
 
-Funds may close to new investors which is very different than a full fund closing. Closing to new investors may actually be a sign of the popularity of the fund and attention from investors for above-average [returns](https://www.investopedia.com/terms/r/return.asp).
+Funds may close to new investors which is very different than a full fund closing. Closing to new investors may actually be a sign of the popularity of the fund and attention from investors for above-average [[returns]](https://www.investopedia.com/terms/r/return.asp).
 
 ## Reverse Survivorship Bias
 

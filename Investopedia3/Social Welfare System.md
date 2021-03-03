@@ -16,13 +16,13 @@ author: Julia Kagan
 Social Welfare System
 ## What Is a Social Welfare System?
 
-A social welfare system provides assistance to individuals and families in need. The types and amount of [welfare](https://www.investopedia.com/terms/w/welfare.asp) available to individuals and families vary depending on the country, state, or region. In the U.S., the federal government provides [grants](https://www.investopedia.com/terms/g/grant.asp) to each state through the Temporary Assistance for Needy Families (TANF) program.1
+A social welfare system provides assistance to individuals and families in need. The types and amount of [[welfare]](https://www.investopedia.com/terms/w/welfare.asp) available to individuals and families vary depending on the country, state, or region. In the U.S., the federal government provides [[grants]](https://www.investopedia.com/terms/g/grant.asp) to each state through the Temporary Assistance for Needy Families (TANF) program.1
 
 The benefits that an individual or family receives as part of a social welfare system will vary by state, as will the eligibility requirements. 
 
 ## How a Social Welfare System Works
 
-Social welfare systems provide assistance to individuals and families through programs such as health care, food stamps, [unemployment compensation](https://www.investopedia.com/terms/u/unemployment-compensation.asp), housing assistance, and child care assistance. In the U.S., a caseworker is assigned to each individual or family applying for benefits to determine and confirm the applicant's needs.
+Social welfare systems provide assistance to individuals and families through programs such as health care, food stamps, [[unemployment compensation]](https://www.investopedia.com/terms/u/unemployment-compensation.asp), housing assistance, and child care assistance. In the U.S., a caseworker is assigned to each individual or family applying for benefits to determine and confirm the applicant's needs.
 
 The benefits available to an individual vary by state. Eligibility is determined based on factors surrounding the person’s financial status and how it relates to the minimum acceptable levels within a particular state. The factors involved can include the size of the family unit, current income levels, or an assessed disability.
 

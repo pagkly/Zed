@@ -16,9 +16,9 @@ author: James Chen
 Market-On-Close (MOC) Order Definition
 ## What Is a Market-on-Close (MOC) Order?
 
-A market-on-close (MOC) order is a [non-limit market order](https://www.investopedia.com/investing/basics-trading-stock-know-your-orders/), which [traders](https://www.investopedia.com/terms/t/trader.asp) execute as near to the closing price as they can—either exactly at, or slightly after the market close. The purpose of a MOC order is to get the last available price of that trading day. MOC orders are not available in all markets or from all brokers.
+A market-on-close (MOC) order is a [[non-limit market order]](https://www.investopedia.com/investing/basics-trading-stock-know-your-orders/), which [[traders]](https://www.investopedia.com/terms/t/trader.asp) execute as near to the closing price as they can—either exactly at, or slightly after the market close. The purpose of a MOC order is to get the last available price of that trading day. MOC orders are not available in all markets or from all brokers.
 
-On the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nyse.asp), for example, traders must submit a MOC order by 3:45 p.m. EST, and on the [Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp), they must submit a MOC order by 3:50 p.m. EST, as both exchanges close at 4:00 p.m. EST. After those times, neither exchange allows traders to modify or cancel MOC orders.
+On the [[New York Stock Exchange (NYSE)]](https://www.investopedia.com/terms/n/nyse.asp), for example, traders must submit a MOC order by 3:45 p.m. EST, and on the [[Nasdaq]](https://www.investopedia.com/terms/n/nasdaq.asp), they must submit a MOC order by 3:50 p.m. EST, as both exchanges close at 4:00 p.m. EST. After those times, neither exchange allows traders to modify or cancel MOC orders.
 
 ### Key Takeaways
 
@@ -28,21 +28,21 @@ On the [New York Stock Exchange (NYSE)](https://www.investopedia.com/terms/n/nys
 
 ## Basics of Market-on-Close Orders
 
-A market-on-close order is simply a [market order](https://www.investopedia.com/terms/m/marketorder.asp) that is scheduled to trade at the close, at the most recent trading price. The MOC order remains dormant until near the close, at which time it becomes active. Once the MOC order becomes active, it behaves like a normal market order. MOC orders can help investors to get into or out of the market at the closing price without having to place a market order immediately when the market closes.
+A market-on-close order is simply a [[market order]](https://www.investopedia.com/terms/m/marketorder.asp) that is scheduled to trade at the close, at the most recent trading price. The MOC order remains dormant until near the close, at which time it becomes active. Once the MOC order becomes active, it behaves like a normal market order. MOC orders can help investors to get into or out of the market at the closing price without having to place a market order immediately when the market closes.
 
-Traders often place MOC orders as part of a [trading strategy](https://www.investopedia.com/terms/t/trading-strategy.asp). For example, some traders will want to exit at the close by either buying or selling a given [financial instrument](https://www.investopedia.com/terms/f/financialinstrument.asp) if a certain price level was breached during the trading day. MOC orders do not specify a target price, but traders sometimes use MOC orders as a [limit-order](https://www.investopedia.com/terms/l/limitorder.asp) qualifier—which means that a limit order will be automatically canceled if it isn't executed during the trading day.
+Traders often place MOC orders as part of a [[trading strategy]](https://www.investopedia.com/terms/t/trading-strategy.asp). For example, some traders will want to exit at the close by either buying or selling a given [[financial instrument]](https://www.investopedia.com/terms/f/financialinstrument.asp) if a certain price level was breached during the trading day. MOC orders do not specify a target price, but traders sometimes use MOC orders as a [[limit-order]](https://www.investopedia.com/terms/l/limitorder.asp) qualifier—which means that a limit order will be automatically canceled if it isn't executed during the trading day.
 
-Using a MOC order in this way ensures that the desired transaction is [executed](https://www.investopedia.com/terms/e/execution.asp), but it still would leave the investor exposed to end-of-day price movements.
+Using a MOC order in this way ensures that the desired transaction is [[executed]](https://www.investopedia.com/terms/e/execution.asp), but it still would leave the investor exposed to end-of-day price movements.
 
 Although placing a market-on-close (MOC) order can guarantee that your buy or sell order will occur at the close of trading, it does not guarantee the price.
 
 ## Benefits and Risks of Market-on-Close Orders
 
-There are a number of situations in which an investor might want to get the closing price of a security. If you suspect that a company's stock might move drastically overnight—as the result of a scheduled after-hours [earnings call](https://www.investopedia.com/terms/e/earnings-call.asp) or an anticipated news story, for example—then placing a MOC order would ensure that your purchase or sale would take place before the news breaks the next day.
+There are a number of situations in which an investor might want to get the closing price of a security. If you suspect that a company's stock might move drastically overnight—as the result of a scheduled after-hours [[earnings call]](https://www.investopedia.com/terms/e/earnings-call.asp) or an anticipated news story, for example—then placing a MOC order would ensure that your purchase or sale would take place before the news breaks the next day.
 
-MOC orders can also be convenient when an investor knows that they're not going to be available to execute an essential transaction, like exiting a [position](https://www.investopedia.com/terms/p/position.asp), at the end of the day. Being able to place market-on-close orders is also useful if you want to trade on some foreign exchanges that are not in your time zone.
+MOC orders can also be convenient when an investor knows that they're not going to be available to execute an essential transaction, like exiting a [[position]](https://www.investopedia.com/terms/p/position.asp), at the end of the day. Being able to place market-on-close orders is also useful if you want to trade on some foreign exchanges that are not in your time zone.
 
-An obvious drawback of MOC orders is that, if you will not be present at the close of the market, then you really do not know at what price your order will be filled. In addition to risking end-of-day price fluctuations, MOC orders can also risk being poorly executed because of end-of-day trading [clusters](https://www.investopedia.com/terms/c/cluster_analysis.asp), though this is rare.
+An obvious drawback of MOC orders is that, if you will not be present at the close of the market, then you really do not know at what price your order will be filled. In addition to risking end-of-day price fluctuations, MOC orders can also risk being poorly executed because of end-of-day trading [[clusters]](https://www.investopedia.com/terms/c/cluster_analysis.asp), though this is rare.
 
 ## Example of an MOC Order
 

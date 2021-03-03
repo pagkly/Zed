@@ -16,7 +16,7 @@ author: James Chen
 Share Certificate
 ## What is a Share Certificate?
 
-A share certificate is a written document signed on behalf of a corporation that serves as legal proof of ownership of the number of [shares](https://www.investopedia.com/terms/s/shares.asp) indicated. A share certificate is also referred to as a stock certificate.
+A share certificate is a written document signed on behalf of a corporation that serves as legal proof of ownership of the number of [[shares]](https://www.investopedia.com/terms/s/shares.asp) indicated. A share certificate is also referred to as a stock certificate.
 
 ### Key Takeaways
 
@@ -34,17 +34,17 @@ Key information on a share certificate includes:
 -   Company name and registration number
 -   Shareholder name and address
 -   Number of shares owned
--   [Class of shares](https://www.investopedia.com/terms/c/class.asp)
+-   [[Class of shares]](https://www.investopedia.com/terms/c/class.asp)
 -   Issue date of shares
 -   Amount paid (or treated as paid) on the shares
 
 In the UK, The Companies Act 2006 directs that a company must issue a share certificate when any shares are allotted (issued). The company must issue a share certificate within two months of the issue or transfer of any shares. Companies may issue just one certificate for all the shares issued or transferred at a particular time, except if a shareholder requests separate certificates.
 
-Sometimes a shareholder with a stock certificate can give a [proxy](https://www.investopedia.com/terms/p/proxy.asp) to another person to vote the shares in question. Similarly, a shareholder without a share certificate may give a proxy to another person to allow them to vote the shares in question. Voting rights are defined by the [corporation's charter](https://www.investopedia.com/terms/c/corporatecharter.asp) and corporate law.
+Sometimes a shareholder with a stock certificate can give a [[proxy]](https://www.investopedia.com/terms/p/proxy.asp) to another person to vote the shares in question. Similarly, a shareholder without a share certificate may give a proxy to another person to allow them to vote the shares in question. Voting rights are defined by the [[corporation's charter]](https://www.investopedia.com/terms/c/corporatecharter.asp) and corporate law.
 
 A share certificate that is damaged, lost or stolen can be reissued with a replacement certificate in respect of the same number of shares. The shareholder in such a case must return the damaged document to the company before a replacement can be issued. At this time, the shareholder may also exercise the right to be issued a single certificate or separate certificates.
 
-Historically, share certificates were required for proof of entitlement to [dividends](https://www.investopedia.com/terms/d/dividend.asp). Each time a certificate was presented, the receipt for the payment of dividends was endorsed on the back. This way, all records of dividend payments were attached to the document.
+Historically, share certificates were required for proof of entitlement to [[dividends]](https://www.investopedia.com/terms/d/dividend.asp). Each time a certificate was presented, the receipt for the payment of dividends was endorsed on the back. This way, all records of dividend payments were attached to the document.
 
 In the digital age, investors rarely use physical share certificates and instead rely on electronic proof of ownership.
 
@@ -54,6 +54,6 @@ Today, in modern financial markets, individual investors rarely take physical po
 
 In the United States, the Central Securities Depository (CSD) is responsible for electronically holding shares, either in certificated or uncertificated ([dematerialized](https://www.investopedia.com/terms/d/dematerialization.asp)) form, so that ownership can be easily transferred through a book entry rather than the transfer of physical certificates.
 
-A share certificate can be in either a registered form or [bearer form](https://www.investopedia.com/terms/b/bearerform.asp). A registered share certificate is only evidence of title ownership, while a bearer share certificate, now uncommon, entitles the holder to exercise all legal rights associated with the stock.
+A share certificate can be in either a registered form or [[bearer form]](https://www.investopedia.com/terms/b/bearerform.asp). A registered share certificate is only evidence of title ownership, while a bearer share certificate, now uncommon, entitles the holder to exercise all legal rights associated with the stock.
 
 Many share certificates, especially older and more rare specimens, have become extremely collectible for their historical context and the beauty and intricacy of their design. "Scripophily" is the collection and study of share certificates and other similar financial documents. Similar to stamp collecting or banknote collecting, a share certificate's value is dependent on its condition and age.

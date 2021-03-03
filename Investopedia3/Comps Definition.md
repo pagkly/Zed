@@ -16,9 +16,9 @@ author: Jake Frankenfield
 Comps Definition
 ## What Are Comps?
 
-The term comps, short for [comparables](https://www.investopedia.com/terms/c/comparables.asp), carries different meanings depending on the industry and context, but generally entails a comparison of financial metrics and other factors to quantify performance or determine valuation.
+The term comps, short for [[comparables]](https://www.investopedia.com/terms/c/comparables.asp), carries different meanings depending on the industry and context, but generally entails a comparison of financial metrics and other factors to quantify performance or determine valuation.
 
-In retail, it refers to a company's [same-store sales](https://www.investopedia.com/terms/s/samestoresales.asp) compared to the previous year or a similar store. Similarly, in financial analysis, comps is short for "comparable company analysis," which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate, comps are used to assess a property's value by comparing it to similar properties.
+In retail, it refers to a company's [[same-store sales]](https://www.investopedia.com/terms/s/samestoresales.asp) compared to the previous year or a similar store. Similarly, in financial analysis, comps is short for "comparable company analysis," which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate, comps are used to assess a property's value by comparing it to similar properties.
 
 ### Key Takeaways
 
@@ -27,7 +27,7 @@ In retail, it refers to a company's [same-store sales](https://www.investopedia.
 
 ## Understanding Comps: The Retail Sector
 
-When used to gauge the performance of retail operations, comps is used in the context of [comparable same-store sales](https://www.investopedia.com/terms/c/comparable-store-sales.asp). This comps metric is used by analysts and investors to determine what portion of any sales growth is attributed to old stores versus new stores. Some large retail chains release comps monthly.
+When used to gauge the performance of retail operations, comps is used in the context of [[comparable same-store sales]](https://www.investopedia.com/terms/c/comparable-store-sales.asp). This comps metric is used by analysts and investors to determine what portion of any sales growth is attributed to old stores versus new stores. Some large retail chains release comps monthly.
 
 Stores that have been open for less than one year are new stores. New stores typically experience high growth rates for several reasons, including promotions, increased interest from launches, and grand openings. As a result, including new stores in the growth rate calculation for an entire retail chain can create misleading results. Because the comps metric only compares results for stores that are older than one year, it gives a better indication of true growth for the overall firm.
 
@@ -43,9 +43,9 @@ Comps not only provide investors and analysts with important information about t
 
 ## Comps: Business Valuation Method
 
-When determining the value of a business based on comparable company analysis, an analyst will utilize a ratio based on a value metric such as market capitalization or [enterprise value (EV)](https://www.investopedia.com/terms/e/enterprisevalue.asp) compared to a performance metric, such as sales, [EBITDA](https://www.investopedia.com/terms/a/adjusted-ebitda.asp), or earnings/earnings per share. A determination on performance can be made under the assumption that companies that are similar should trade at similar multiples.
+When determining the value of a business based on comparable company analysis, an analyst will utilize a ratio based on a value metric such as market capitalization or [[enterprise value (EV)]](https://www.investopedia.com/terms/e/enterprisevalue.asp) compared to a performance metric, such as sales, [[EBITDA]](https://www.investopedia.com/terms/a/adjusted-ebitda.asp), or earnings/earnings per share. A determination on performance can be made under the assumption that companies that are similar should trade at similar multiples.
 
-Such comps are especially valuable when determining the [fair market value (FMV)](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of a business. They can be used to formulate an asking or offer price in an acquisition or sale, or in the case of a dispute between partners or during a buyout.
+Such comps are especially valuable when determining the [[fair market value (FMV)]](https://www.investopedia.com/terms/f/fairmarketvalue.asp) of a business. They can be used to formulate an asking or offer price in an acquisition or sale, or in the case of a dispute between partners or during a buyout.
 
 One common way of using comps to determine the fair market value of a business is to take the price-to-gross revenue multiple and multiplying that figure by the business revenue figure.
 

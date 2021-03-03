@@ -16,7 +16,7 @@ author: Julia Kagan
 Variable Survivorship Life Insurance
 ## What Is Variable Survivorship Life Insurance?
 
-Variable survivorship life insurance is a type of [variable life insurance](https://www.investopedia.com/ask/answers/08/variable-life-insurance.asp) policy that covers two individuals and pays a death benefit to a beneficiary only after both people have died. It may pay out a benefit prior to the first policyholder's death if the policy has a living benefit rider. The living benefit rider is often automatically included in life insurance policies at no cost. This rider allows access to a certain amount of policy death benefit in the case of terminal illness as defined in the policy.
+Variable survivorship life insurance is a type of [[variable life insurance]](https://www.investopedia.com/ask/answers/08/variable-life-insurance.asp) policy that covers two individuals and pays a death benefit to a beneficiary only after both people have died. It may pay out a benefit prior to the first policyholder's death if the policy has a living benefit rider. The living benefit rider is often automatically included in life insurance policies at no cost. This rider allows access to a certain amount of policy death benefit in the case of terminal illness as defined in the policy.
 
 Variable survivorship life insurance is also called "survivorship variable life insurance" or "last-survivor life insurance."
 
@@ -24,7 +24,7 @@ Variable survivorship life insurance is also called "survivorship variable life 
 
 Like any variable life policy, variable survivorship life insurance has a cash value component in which a portion of each premium payment is set aside to be invested by the policyholder, who bears all investment risk. The insurer selects several dozen investment options from which the policyholder may choose.
 
-The other portion of the premium goes toward administrative expenses and the policy's death benefit (also called face value). This type of policy is legally considered a security because of its investment component and is subject to regulation by the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp).
+The other portion of the premium goes toward administrative expenses and the policy's death benefit (also called face value). This type of policy is legally considered a security because of its investment component and is subject to regulation by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp).
 
 A more flexible version of variable survivorship life insurance called "variable universal survivorship life insurance" allows the policyholder to adjust the policy's premiums and death benefit during the policy's life.
 
@@ -44,7 +44,7 @@ It is significantly easier to qualify for a survivorship life policy than is it
 
 ### They build estates
 
-Survivorship life insurance is sometimes touted as a means to grow an [estate](https://www.investopedia.com/terms/e/estate.asp) and not just shield the estate from tax liabilities. The death benefit of a survivorship life policy is similar to traditional life insurance in that it can ensure beneficiaries receive at least a moderate payout, even if a policyholder burns through his entire estate during the beneficiary’s lifetime.
+Survivorship life insurance is sometimes touted as a means to grow an [[estate]](https://www.investopedia.com/terms/e/estate.asp) and not just shield the estate from tax liabilities. The death benefit of a survivorship life policy is similar to traditional life insurance in that it can ensure beneficiaries receive at least a moderate payout, even if a policyholder burns through his entire estate during the beneficiary’s lifetime.
 
 ### They preserve estates
 

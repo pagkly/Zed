@@ -16,7 +16,7 @@ author: Adam Hayes
 Understanding Two-Tailed Tests
 ## What Is a Two-Tailed Test?
 
-In statistics, a two-tailed test is a method in which the critical area of a distribution is two-sided and tests whether a sample is greater than or less than a certain range of values. It is used in null-hypothesis testing and testing for [statistical significance](https://www.investopedia.com/terms/s/statistical-significance.asp). If the sample being tested falls into either of the critical areas, the alternative hypothesis is accepted instead of the null hypothesis. The two-tailed test gets its name from testing the area under both tails of a normal distribution, although the test can be used in other non-normal distributions.
+In statistics, a two-tailed test is a method in which the critical area of a distribution is two-sided and tests whether a sample is greater than or less than a certain range of values. It is used in null-hypothesis testing and testing for [[statistical significance]](https://www.investopedia.com/terms/s/statistical-significance.asp). If the sample being tested falls into either of the critical areas, the alternative hypothesis is accepted instead of the null hypothesis. The two-tailed test gets its name from testing the area under both tails of a normal distribution, although the test can be used in other non-normal distributions.
 
 ### Key Takeaways
 
@@ -27,9 +27,9 @@ In statistics, a two-tailed test is a method in which the critical area of a dis
 
 ## How a Two-Tailed Test Works
 
-A basic concept of inferential statistics is the [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp), which is run to determine whether a claim is true or not, given a population parameter. A testing that is programmed to show whether the mean of a sample is significantly greater than _and_ significantly less than the mean of a population is referred to as a two-tailed test.
+A basic concept of inferential statistics is the [[hypothesis testing]](https://www.investopedia.com/terms/h/hypothesistesting.asp), which is run to determine whether a claim is true or not, given a population parameter. A testing that is programmed to show whether the mean of a sample is significantly greater than _and_ significantly less than the mean of a population is referred to as a two-tailed test.
 
-A two-tailed test is designed to examine both sides of a specified data range as designated by the [probability distribution](https://www.investopedia.com/terms/p/probabilitydistribution.asp) involved. The probability distribution should represent the likelihood of a specified outcome based on predetermined standards. This requires the setting of a limit designating the highest (or upper) and lowest (or lower) accepted variable values included within the range. Any data point that exists above the upper limit or below the lower limit is considered out of the acceptance range and in an area referred to as the rejection range.
+A two-tailed test is designed to examine both sides of a specified data range as designated by the [[probability distribution]](https://www.investopedia.com/terms/p/probabilitydistribution.asp) involved. The probability distribution should represent the likelihood of a specified outcome based on predetermined standards. This requires the setting of a limit designating the highest (or upper) and lowest (or lower) accepted variable values included within the range. Any data point that exists above the upper limit or below the lower limit is considered out of the acceptance range and in an area referred to as the rejection range.
 
 There is no inherent standard with regard to the number of data points that must exist within the acceptance range. In instances where precision is required, such as in the creation of pharmaceutical drugs, a rejection rate of 0.001% or less may be instituted. In instances where precision is less critical, such as the number of food items in a product bag, a rejection rate of 5% may be appropriate.
 
@@ -37,7 +37,7 @@ There is no inherent standard with regard to the number of data points that must
 
 A two-tailed test can also be used practically during certain production activities in a firm, such as with the production and packaging of candy at a particular facility. If the production facility designates 50 candies per bag as its goal, with an acceptable distribution of 45 to 55 candies, any bag found with an amount below 45 or above 55 is considered within the rejection range
 
-To confirm the packaging mechanisms are properly calibrated to meet the expected output, a [random sampling](https://www.investopedia.com/terms/s/simple-random-sample.asp) may be taken to confirm accuracy. For the packaging mechanisms to be considered accurate, an average of 50 candies per bag with an appropriate distribution is desired. Additionally, the number of bags that fall within the rejection range need to fall within the probability distribution limit considered acceptable as an error rate.
+To confirm the packaging mechanisms are properly calibrated to meet the expected output, a [[random sampling]](https://www.investopedia.com/terms/s/simple-random-sample.asp) may be taken to confirm accuracy. For the packaging mechanisms to be considered accurate, an average of 50 candies per bag with an appropriate distribution is desired. Additionally, the number of bags that fall within the rejection range need to fall within the probability distribution limit considered acceptable as an error rate.
 
 If an unacceptable rejection rate is discovered, or an average deviating too far from the desired mean, adjustments to the facility or associated equipment may be required to correct the error. Regular use of two-tailed testing methods can help ensure production stays within limits over the long term.
 
@@ -45,7 +45,7 @@ Be careful to note if a statistical test is one- or two-tailed as this will grea
 
 ## Two-Tailed vs. One-Tailed Test
 
-When a hypothesis test is set up to show that the sample mean would be higher _or_ lower than the population mean, this is referred to as a [one-tailed test](https://www.investopedia.com/terms/o/one-tailed-test.asp). The one-tailed test gets its name from testing the area under one of the tails (sides) of a normal distribution. When using a one-tailed test, an analyst is testing for the possibility of the relationship in one direction of interest, and completely disregarding the possibility of a relationship in another direction.
+When a hypothesis test is set up to show that the sample mean would be higher _or_ lower than the population mean, this is referred to as a [[one-tailed test]](https://www.investopedia.com/terms/o/one-tailed-test.asp). The one-tailed test gets its name from testing the area under one of the tails (sides) of a normal distribution. When using a one-tailed test, an analyst is testing for the possibility of the relationship in one direction of interest, and completely disregarding the possibility of a relationship in another direction.
 
 If the sample being tested falls into the one-sided critical area, the alternative hypothesis will be accepted instead of the null hypothesis. A one-tailed test is also known as a directional hypothesis or directional test.
 

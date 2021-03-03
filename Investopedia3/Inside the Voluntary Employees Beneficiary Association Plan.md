@@ -16,7 +16,7 @@ author: Adam Barone
 Inside the Voluntary Employees Beneficiary Association Plan
 ## What Is a Voluntary Employees Beneficiary Association Plan (VEBA)?
 
-A Voluntary Employees' Beneficiary Association (VEBA) plan is a type of tax-exempt trust used by its members and eligible dependents to pay for eligible [medical expenses](https://www.investopedia.com/terms/m/medical-expenses.asp). The plan is typically funded by an employer. Depending on the company plan employee contributions may or may not be mandatory, although individual elections are not permitted.1
+A Voluntary Employees' Beneficiary Association (VEBA) plan is a type of tax-exempt trust used by its members and eligible dependents to pay for eligible [[medical expenses]](https://www.investopedia.com/terms/m/medical-expenses.asp). The plan is typically funded by an employer. Depending on the company plan employee contributions may or may not be mandatory, although individual elections are not permitted.1
 
 However, employees must be covered by an employer-sponsored health plan to be eligible for VEBA membership.
 
@@ -28,7 +28,7 @@ However, employees must be covered by an employer-sponsored health plan to be el
 
 ## How VEBA Plans Work
 
-Voluntary Employees' Beneficiary Association rules state that employers must first obtain a letter of determination from the Internal Revenue Service (IRS) for their plan to be considered a VEBA for federal income tax purposes.2 VEBAs are subject to some aspects of the [Employee Retirement Income Security Act (ERISA);](https://www.investopedia.com/terms/e/erisa.asp) however, they are not considered to be qualified retirement plans.3
+Voluntary Employees' Beneficiary Association rules state that employers must first obtain a letter of determination from the Internal Revenue Service (IRS) for their plan to be considered a VEBA for federal income tax purposes.2 VEBAs are subject to some aspects of the [[Employee Retirement Income Security Act (ERISA);]](https://www.investopedia.com/terms/e/erisa.asp) however, they are not considered to be qualified retirement plans.3
 
 Unlike in 401(k) or 403(b) plans, for example, participant withdrawals from a VEBA are not taxable if made before age 59 and a half. Withdrawals from a VEBA are not required to begin at 70.5 years of age.
 
@@ -40,7 +40,7 @@ Even though these accounts are usually used as savings vehicles to fund health 
 
 ## Special Considerations
 
-A VEBA can also act as a type of [Health Reimbursement Arrangement](https://www.investopedia.com/terms/h/hra.asp).
+A VEBA can also act as a type of [[Health Reimbursement Arrangement]](https://www.investopedia.com/terms/h/hra.asp).
 
 A post-deductible VEBA, for example, is designed to reimburse vision and dental expenses until a member meets his or her health plan deductible. After the deductible is met, members can be reimbursed for non-health plan related medical expenses.
 

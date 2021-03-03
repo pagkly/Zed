@@ -28,7 +28,7 @@ A round lot is sometimes referred to as a normal trading unit.
 
 ## Understanding the Round Lot
 
-Historically, a round lot of 100 shares of stock has been the smallest order that can be placed through an exchange. However, that is changing. Today, so-called odd lots and fractional shares allow for the execution of orders as small as one share on some [exchanges](https://www.investopedia.com/terms/e/exchange.asp) or even a fraction of a share.
+Historically, a round lot of 100 shares of stock has been the smallest order that can be placed through an exchange. However, that is changing. Today, so-called odd lots and fractional shares allow for the execution of orders as small as one share on some [[exchanges]](https://www.investopedia.com/terms/e/exchange.asp) or even a fraction of a share.
 
 Nonetheless, investment managers and institutions typically purchase stocks in large batches. Round lots often have lower trading costs, and discounts are applied for various round lot amounts.
 
@@ -36,7 +36,7 @@ Nonetheless, investment managers and institutions typically purchase stocks in l
 
 ### Round Lots in Options
 
-In the [options](https://www.investopedia.com/terms/o/option.asp) markets, a round lot consists of 100 contracts in listed calls and puts. Investors can buy one options contract. Each of those contracts typically represents an odd lot of stock.
+In the [[options]](https://www.investopedia.com/terms/o/option.asp) markets, a round lot consists of 100 contracts in listed calls and puts. Investors can buy one options contract. Each of those contracts typically represents an odd lot of stock.
 
 Other markets, such as commodities markets, have their own convention for what is defined as a round lot.
 
@@ -48,9 +48,9 @@ That said, innovation is ongoing in the bond market too, and mechanisms are evol
 
 ### Odd Lots
 
-A lot consisting of fewer than 100 shares or a lot that cannot be evenly divided by 100 is called an [odd lot](https://www.investopedia.com/terms/o/oddlot.asp).
+A lot consisting of fewer than 100 shares or a lot that cannot be evenly divided by 100 is called an [[odd lot]](https://www.investopedia.com/terms/o/oddlot.asp).
 
-Odd lots are sometimes combined, or bunched, into round lots to facilitate trading. A [mixed lot](https://www.investopedia.com/terms/m/mixedlot.asp) consists of both a round lot and an odd lot. An order of 198 shares would be considered a mixed lot.
+Odd lots are sometimes combined, or bunched, into round lots to facilitate trading. A [[mixed lot]](https://www.investopedia.com/terms/m/mixedlot.asp) consists of both a round lot and an odd lot. An order of 198 shares would be considered a mixed lot.
 
 Even fractional share trading is now possible. Many brokerages use it to enable dollar-cost investing, in which the client chooses to invest, say, $200 a month over time.
 
@@ -62,4 +62,4 @@ Nevertheless, odd lot trades may not be allowed or may not be given priority. So
 
 Trading in odd lots has become increasingly common as the technology improves. Even fractional shares can now be traded.
 
-Fractional share trading was originally implemented to allow for dividend reinvestment. However, many brokerages now use it to allow their customers to use a [dollar-cost investing](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy. That is, the customer sets a personal goal of investing a set amount of money, say $200, every month in a particular stock or fund regardless of its price swings.
+Fractional share trading was originally implemented to allow for dividend reinvestment. However, many brokerages now use it to allow their customers to use a [[dollar-cost investing]](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) strategy. That is, the customer sets a personal goal of investing a set amount of money, say $200, every month in a particular stock or fund regardless of its price swings.

@@ -30,7 +30,7 @@ Global registered shares are similar to [ordinary shares](https://www.investope
 
 ## Similar to, But Different From, IDRs and ADRs
 
-Global shares are different from the more popular [international depository receipts](https://www.investopedia.com/terms/i/idr.asp) (IDRs). IDRS are negotiable certificates issued by a bank that represent ownership of stock in a foreign company held by the bank in [trust](https://www.investopedia.com/terms/t/trust.asp).
+Global shares are different from the more popular [international depository receipts](https://www.investopedia.com/terms/i/idr.asp) (IDRs). IDRS are negotiable certificates issued by a bank that represent ownership of stock in a foreign company held by the bank in [[trust]](https://www.investopedia.com/terms/t/trust.asp).
 
 In the United States, IDRs are known as [American depository receipts](https://www.investopedia.com/terms/a/adr.asp) (ADRs). The main difference between ADRs and global shares is that ADRs are issued only by U.S. banks for foreign stocks that are traded on a U.S. exchange. The underlying security of an ADR is held by an overseas branch of an American financial institution rather than by a global institution.
 
@@ -42,11 +42,11 @@ In Europe, IDRs are known as [global depositary receipts](https://www.investope
 
 A Global Share allows for cross-market portability, while generally costing less than other instruments of its type. Because of increasing globalization, securities might trade in multiple markets going forward, which could make the concept of ADRs less valid, but would make GRSs more attractive.
 
-As trading moves toward a round-the-clock timetable, various stock markets and [clearing houses](https://www.investopedia.com/terms/c/clearinghouse.asp) could consolidate, which would make global shares more convenient. Moreover, the regulatory structures of different markets could become more aligned, which would make it less necessary for securities to comply with different local regulations. Finally, a global [fungible](https://www.investopedia.com/terms/f/fungibles.asp) security is likely best suited to track liquidity around the world.
+As trading moves toward a round-the-clock timetable, various stock markets and [[clearing houses]](https://www.investopedia.com/terms/c/clearinghouse.asp) could consolidate, which would make global shares more convenient. Moreover, the regulatory structures of different markets could become more aligned, which would make it less necessary for securities to comply with different local regulations. Finally, a global [fungible](https://www.investopedia.com/terms/f/fungibles.asp) security is likely best suited to track liquidity around the world.
 
 ## Potential Drawbacks of the Global Registered Share (GRS)
 
-Even with their potential benefits, very few GRSs have been launched since they appeared on the finance scene. Most companies that list securities in the U.S. want access to the broadest range of U.S. investors possible. Some securities experts believe that moving from an ADR to a GRS would do just the opposite—reduce [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) instead of enhance it.
+Even with their potential benefits, very few GRSs have been launched since they appeared on the finance scene. Most companies that list securities in the U.S. want access to the broadest range of U.S. investors possible. Some securities experts believe that moving from an ADR to a GRS would do just the opposite—reduce [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) instead of enhance it.
 
 Another potential problem is whether the global trading system would be able to handle widespread trading of GRSs because trading is still influenced by regulatory bodies that are national, not international. Before a global share can be launched, operators of the home country's clearing houses must work closely with a U.S. counterpart in order to harmonize their listing requirements with the SEC.
 
@@ -58,7 +58,7 @@ There is always comfort in the familiar. ADRs have enjoyed a long, lucrative his
 
 ## Global Shares, A Brief History
 
-**_Reign of the ADR._** Foreign issuers have been keen to list securities on the NYSE from its earliest days, and to register them with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC). Listing stock in the U.S. makes sense for foreign companies because it offers enhanced scope and [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) by increasing the number of potential purchasers of the shares being offered. For foreign companies that already have a large number of shareholders, substantial assets, or operations in the United States, the need for a U.S. listing is even more pressing.
+**_Reign of the ADR._** Foreign issuers have been keen to list securities on the NYSE from its earliest days, and to register them with the [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC). Listing stock in the U.S. makes sense for foreign companies because it offers enhanced scope and [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp) by increasing the number of potential purchasers of the shares being offered. For foreign companies that already have a large number of shareholders, substantial assets, or operations in the United States, the need for a U.S. listing is even more pressing.
 
 **_But they don’t make it easy!_** Listing securities in the United States has never been stress-free for non-U.S. companies. To start, foreign companies incur huge initial—and extensive ongoing—costs when listing in America. Then, they need to restate their financials in accordance with U.S. [Generally Accepted Accounting Principles](https://www.investopedia.com/terms/g/gaap.asp) (GAAP); or be prepared to discuss and quantify the material differences between the accounting principles of their home country and U.S. GAAP. Moreover, these issuers become subject to continual reporting requirements. They also are faced with certain rules about how they may conduct their business, including limitations in dealing with the press—even in their home countries!
 

@@ -33,9 +33,9 @@ An MOU is an expression of agreement to proceed. It indicates that the parties h
 -   While not legally binding, the MOU signals that a binding contract is imminent.
 -   The MOU is most often found in international relations.
 
-Under U.S. law, an MOU is the same as a [letter of intent](https://www.investopedia.com/terms/l/letterofintent.asp). In fact, arguably a memorandum of understanding, a memorandum of agreement, and a letter of intent are virtually indistinguishable. All communicate an agreement on a mutually beneficial goal and a desire to see it through to completion.
+Under U.S. law, an MOU is the same as a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp). In fact, arguably a memorandum of understanding, a memorandum of agreement, and a letter of intent are virtually indistinguishable. All communicate an agreement on a mutually beneficial goal and a desire to see it through to completion.
 
-MOUs communicate the mutually accepted expectations of the people, organizations, or [governments](https://www.investopedia.com/articles/investing/102413/why-and-when-do-countries-default.asp) involved. They are most often used in international relations because, unlike treaties, they can be produced relatively quickly and in secret. They also are in use in many U.S. and state government agencies, particularly when major contracts are in the planning stages.
+MOUs communicate the mutually accepted expectations of the people, organizations, or [[governments]](https://www.investopedia.com/articles/investing/102413/why-and-when-do-countries-default.asp) involved. They are most often used in international relations because, unlike treaties, they can be produced relatively quickly and in secret. They also are in use in many U.S. and state government agencies, particularly when major contracts are in the planning stages.
 
 ## Contents of a Memorandum of Understanding (MOU)
 
@@ -55,7 +55,7 @@ The biggest drawback, of an MOU, however, depending on your point of view, is th
 
 ## Real-Life Example of a Memorandum of Understanding (MOU)
 
-During [trade talks](https://www.investopedia.com/articles/investing/011916/brief-history-international-trade-agreements.asp) with a representative of China in Washington in April 2019, U.S. President Donald Trump was asked by a reporter how long he expected U.S.-China memorandums of understanding to last. "I don't like MOUs because they don't mean anything," the former president replied.1 After some discussion, it was decided that any document that emerged from the talks would be called a trade agreement, never an MOU.
+During [[trade talks]](https://www.investopedia.com/articles/investing/011916/brief-history-international-trade-agreements.asp) with a representative of China in Washington in April 2019, U.S. President Donald Trump was asked by a reporter how long he expected U.S.-China memorandums of understanding to last. "I don't like MOUs because they don't mean anything," the former president replied.1 After some discussion, it was decided that any document that emerged from the talks would be called a trade agreement, never an MOU.
 
 ## Memorandum of Understanding FAQs
 

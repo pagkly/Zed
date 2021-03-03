@@ -16,7 +16,7 @@ author: Cory Mitchell
 Negative Directional Indicator (-DI) Definition and Uses
 ## What is the Negative Directional Indicator (-DI)?
 
-The Negative Directional Indicator (-DI) measures the presence of a [downtrend](https://www.investopedia.com/terms/d/downtrend.asp) and is part of the [Average Directional Index](https://www.investopedia.com/terms/a/adx.asp) (ADX). If -DI is sloping upward, it's a sign that the price downtrend is getting stronger. This indicator is nearly always plotted along with the [Positive Directional Indicator](https://www.investopedia.com/terms/p/positivedirectionalindicator.asp) (+DI).
+The Negative Directional Indicator (-DI) measures the presence of a [[downtrend]](https://www.investopedia.com/terms/d/downtrend.asp) and is part of the [[Average Directional Index]](https://www.investopedia.com/terms/a/adx.asp) (ADX). If -DI is sloping upward, it's a sign that the price downtrend is getting stronger. This indicator is nearly always plotted along with the [[Positive Directional Indicator]](https://www.investopedia.com/terms/p/positivedirectionalindicator.asp) (+DI).
 
 TradingView.
 
@@ -25,8 +25,8 @@ TradingView.
 -   \-DI is part of a more comprehensive indicator called the Average Directional Index (ADX). The ADX reveals trend direction and trend strength.
 -   The indicator was designed by Welles Wilder for commodities, it is used for other markets and on all timeframes.
 -   When the Negative Directional Indicator (-DI) moves up, and is above the Postive Directional Indicator (+DI), then the price downtrend is getting stronger.
--   When -DI is moving down, and below the +DI, then the price [uptrend](https://www.investopedia.com/terms/u/uptrend.asp) is strengthening.
--   When +DI and -DI [crossover](https://www.investopedia.com/terms/c/crossover.asp), it indicates the possibility of a new trend. If -DI crosses above the +DI then a new downtrend could be starting.
+-   When -DI is moving down, and below the +DI, then the price [[uptrend]](https://www.investopedia.com/terms/u/uptrend.asp) is strengthening.
+-   When +DI and -DI [[crossover]](https://www.investopedia.com/terms/c/crossover.asp), it indicates the possibility of a new trend. If -DI crosses above the +DI then a new downtrend could be starting.
 
 ## The Formula for the Negative Directional Indicator (-DI) is
 
@@ -49,20 +49,20 @@ The -DI line is used in conjunction with the +DI line to help show the direction
 
 When -DI is above +DI then the trend is down, or at least downward movement is outpacing upward movement recently. If +DI is above -DI, then the trend is up, or upward price movement is outpacing downward price movement recently.
 
-Because these two lines can indicate trend direction, crossovers are sometimes used as trade signals. The -DI crossing above the +DI signals a down move price, and is, therefore, a sell or [short trade](https://www.investopedia.com/terms/s/shortselling.asp) signal. A buy signal occurs if the +DI crosses above the -DI.
+Because these two lines can indicate trend direction, crossovers are sometimes used as trade signals. The -DI crossing above the +DI signals a down move price, and is, therefore, a sell or [[short trade]](https://www.investopedia.com/terms/s/shortselling.asp) signal. A buy signal occurs if the +DI crosses above the -DI.
 
-These indicators are part of the Average Directional Index (ADX) system. The addition of the ADX line, which is a smoothed average of the difference between the +DI and -DI, helps traders see how strong the current trend is. Typically, [readings above 20](https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) on the ADX, and especially above 25, show a strong trend is present.
+These indicators are part of the Average Directional Index (ADX) system. The addition of the ADX line, which is a smoothed average of the difference between the +DI and -DI, helps traders see how strong the current trend is. Typically, [[readings above 20]](https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) on the ADX, and especially above 25, show a strong trend is present.
 
 Traders can utilize all the elements in the ADX system to help make better trading decisions. For example, the +DI and -DI lines show the trend direction and crossovers. ADX shows trend strength, so a trader may decide to only take long trades when ADX is above 20 and the +DI is above, or crossing, the -DI.
 
 ## The Differences Between the Negative Directional Indicator (-DI) and a Moving Average
 
-A [moving average](https://www.investopedia.com/terms/s/sma.asp) takes the average price of an asset over a set time period. The Negative Directional Indicator (-DI) is only concerned with the prior low relative to the current low, when applicable. Because of this, the -DI is not an average, even though it may sometimes appear to track the price when the price is falling. Due to the different calculations of the two indicators, the -DI and the moving average will provide the trader with different information.
+A [[moving average]](https://www.investopedia.com/terms/s/sma.asp) takes the average price of an asset over a set time period. The Negative Directional Indicator (-DI) is only concerned with the prior low relative to the current low, when applicable. Because of this, the -DI is not an average, even though it may sometimes appear to track the price when the price is falling. Due to the different calculations of the two indicators, the -DI and the moving average will provide the trader with different information.
 
 ## Limitations of Using the Negative Directional Indicator (-DI)
 
 The -DI provides limited information on its own. It is much more useful when combined with the +DI line. By looking at the relationship between the two lines traders can better assess whether upward or downward price movement is stronger.
 
-Because traders often look at the relationship between these two lines, and crossovers, it should be noted that +DI and -DI lines may intersect frequently. This can result in [whipsaws](https://www.investopedia.com/terms/w/whipsaw.asp). Whipsaws are when the lines cross back and forth, triggering trades, but the price of the asset doesn't follow through and the trader loses money.
+Because traders often look at the relationship between these two lines, and crossovers, it should be noted that +DI and -DI lines may intersect frequently. This can result in [[whipsaws]](https://www.investopedia.com/terms/w/whipsaw.asp). Whipsaws are when the lines cross back and forth, triggering trades, but the price of the asset doesn't follow through and the trader loses money.
 
 Savvy investors use other forms of technical and [fundamental analysis](http://www.investinganswers.com/node/1345) to confirm what the DI lines are suggesting.

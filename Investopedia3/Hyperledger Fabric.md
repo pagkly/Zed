@@ -16,7 +16,7 @@ author: Will Kenton
 Hyperledger Fabric
 ## What Is Hyperledger Fabric?
 
-Hyperledger Fabric is a modular [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) framework that acts as a foundation for developing blockchain-based products, solutions, and applications using plug-and-play components that are aimed for use within private enterprises.
+Hyperledger Fabric is a modular [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) framework that acts as a foundation for developing blockchain-based products, solutions, and applications using plug-and-play components that are aimed for use within private enterprises.
 
 ### Key Takeaways
 
@@ -37,7 +37,7 @@ Within private industrial networks, the verifiable identity of a participant is 
 
 ### Modular Architecture
 
-The modular architecture of Hyperledger Fabric separates the transaction processing workflow into three different stages: [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp) called chaincode that comprise the distributed logic processing and agreement of the system, transaction ordering, and transaction validation and commitment. This segregation offers multiple benefits:
+The modular architecture of Hyperledger Fabric separates the transaction processing workflow into three different stages: [[smart contracts]](https://www.investopedia.com/terms/s/smart-contracts.asp) called chaincode that comprise the distributed logic processing and agreement of the system, transaction ordering, and transaction validation and commitment. This segregation offers multiple benefits:
 
 -   A reduced number of trust levels and verification that keeps the network and processing clutter-free
 -   Improved network scalability
@@ -53,7 +53,7 @@ The participants on the network have three distinct roles:
 
 In a nutshell, the transaction proposal is submitted to the endorser peer according to the predefined endorsement policy about the number of endorsers required. After sufficient endorsements by the endorser(s), a batch or block of transactions is delivered to the committer(s). Committers validate that the endorsement policy was followed and that there are no conflicting transactions. Once both the checks are made, the transactions are committed to the ledger.
 
-Image source: [IBM](https://developer.ibm.com/tutorials/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/)
+Image source: [[IBM]](https://developer.ibm.com/tutorials/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/)
 
 Since only confirming instructions—such as signatures and read/write set—are sent across the network, the scalability and performance of the network is enhanced. Only endorsers and committers have access to the transaction, and security is improved with a fewer number of participants having access to key data points.
 
@@ -71,7 +71,7 @@ The high-water mark of crypto-enthusiasm broke in 2018 after the collapse of the
 
 ### Hyperledger Fabric's Competitors
 
-Hyperledger Fabric competes with other Hyperledger projects like Iroha, Indy, and Sawtooth. It also competes with [R3's Corda](https://www.r3.com/corda-platform/), which is also a private, permission-based DLT.
+Hyperledger Fabric competes with other Hyperledger projects like Iroha, Indy, and Sawtooth. It also competes with [[R3's Corda]](https://www.r3.com/corda-platform/), which is also a private, permission-based DLT.
 
 Blockchain service firm Chainstack published a paper in January 20201 that shows development in Corda has been historically higher than development in Fabric, though Fabric development passed Corda's in Q3 2019 when Fabric switched to GitHub.
 
@@ -87,6 +87,6 @@ Hyperledger Fabric has also been critiqued for lacking resiliency. A team of res
 
 ## Hyperledger Fabric 2.0 Released in January 2020
 
-In January of 2020, Hyperledger Fabric 2.0 was released to address some of the existing criticisms. According to Ron Miller at [Techcrunch](https://techcrunch.com/2020/01/30/hyperledger-fabric-the-open-source-distributed-ledger-reaches-release-2-0/), "The biggest updates involve forcing agreement among the parties before any new data can be added to the ledger, known as decentralized governance of the smart contracts."
+In January of 2020, Hyperledger Fabric 2.0 was released to address some of the existing criticisms. According to Ron Miller at [[Techcrunch]](https://techcrunch.com/2020/01/30/hyperledger-fabric-the-open-source-distributed-ledger-reaches-release-2-0/), "The biggest updates involve forcing agreement among the parties before any new data can be added to the ledger, known as decentralized governance of the smart contracts."
 
 Although the update isn't a sea-change in the simplicity or applicability of Fabric, it does demonstrate that progress continues to be made in the cryptocurrency industry beyond the crypto-mania that occurred in 2018. Over the next five to ten years, it's expected that enterprise blockchain will undoubtedly find its proper use.

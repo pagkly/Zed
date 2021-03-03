@@ -16,11 +16,11 @@ author: James Chen
 Voluntary Foreclosure
 ## What Is Voluntary Foreclosure?
 
-A voluntary foreclosure is a foreclosure proceeding that is initiated by a borrower who is unable to continue making loan payments on a property, in an attempt to avoid further payments and prevent involuntary foreclosure and [eviction](https://www.investopedia.com/terms/e/eviction.asp). Borrowers may choose this option if their mortgage is significantly [underwater](https://www.investopedia.com/terms/u/underwater.asp).
+A voluntary foreclosure is a foreclosure proceeding that is initiated by a borrower who is unable to continue making loan payments on a property, in an attempt to avoid further payments and prevent involuntary foreclosure and [[eviction]](https://www.investopedia.com/terms/e/eviction.asp). Borrowers may choose this option if their mortgage is significantly [[underwater]](https://www.investopedia.com/terms/u/underwater.asp).
 
-This is different from an [involuntary foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp), which is initiated by the lending institution in order to take possession of a property to recover the lender's losses and is typically the last option for borrowers unable to make payments on their loans. Borrowers can seek a voluntary foreclosure from a bank or other lending institution for both residential and commercial properties.
+This is different from an [[involuntary foreclosure]](https://www.investopedia.com/terms/f/foreclosure.asp), which is initiated by the lending institution in order to take possession of a property to recover the lender's losses and is typically the last option for borrowers unable to make payments on their loans. Borrowers can seek a voluntary foreclosure from a bank or other lending institution for both residential and commercial properties.
 
-There are several similar terms that can be used for voluntary foreclosures, including [strategic default](https://www.investopedia.com/terms/s/strategic-default.asp), walking away, jingle mail, and friendly foreclosure.
+There are several similar terms that can be used for voluntary foreclosures, including [[strategic default]](https://www.investopedia.com/terms/s/strategic-default.asp), walking away, jingle mail, and friendly foreclosure.
 
 ### Key Takeaways
 
@@ -34,13 +34,13 @@ Voluntary foreclosure is extremely harmful to a borrower’s credit ratings and 
 
 Many debtors plan for a voluntary foreclosure by opening new credit cards and taking out new car loans and mortgages before their credit rating drops. Lenders will often agree to a borrower’s request for voluntary foreclosure because it can make the process of retaking property and collecting debts much faster and more cost-effective than an involuntary foreclosure.
 
-Reasons for voluntary foreclosure include a sudden and unexpected job loss (such as during the coronavirus pandemic), the realization that one is living beyond one's means, and changes in the housing market along with variable interest rates (if a borrower has an [adjustable-rate mortgage](https://www.investopedia.com/mortgage/mortgage-rates/adjustable-rate-go-up/), or ARM, for instance).
+Reasons for voluntary foreclosure include a sudden and unexpected job loss (such as during the coronavirus pandemic), the realization that one is living beyond one's means, and changes in the housing market along with variable interest rates (if a borrower has an [[adjustable-rate mortgage]](https://www.investopedia.com/mortgage/mortgage-rates/adjustable-rate-go-up/), or ARM, for instance).
 
-A [deed in lieu of foreclosure](https://www.investopedia.com/terms/d/deed_in_lieu_of_foreclosure.asp) is one of the most commonly used types of voluntary foreclosure. The rules, laws, and penalties for voluntary foreclosures vary widely by lending institution and state.
+A [[deed in lieu of foreclosure]](https://www.investopedia.com/terms/d/deed_in_lieu_of_foreclosure.asp) is one of the most commonly used types of voluntary foreclosure. The rules, laws, and penalties for voluntary foreclosures vary widely by lending institution and state.
 
 ## Pros and Cons of Voluntary Foreclosure
 
-If you are considering initiating a voluntary foreclosure, it's important to carefully consider the advantages and disadvantages of taking such a step. You need to balance it against the effect on your credit, the loss of your home, how much financial relief it offers you, and any alternatives you may still have. If you are unable to get a [loan modification](https://www.investopedia.com/terms/l/loan_modification.asp) or do a [short sale](https://www.investopedia.com/terms/r/real-estate-short-sale.asp), for example, a deed in lieu of foreclosure may have less impact on your credit reports than an involuntary foreclosure.
+If you are considering initiating a voluntary foreclosure, it's important to carefully consider the advantages and disadvantages of taking such a step. You need to balance it against the effect on your credit, the loss of your home, how much financial relief it offers you, and any alternatives you may still have. If you are unable to get a [[loan modification]](https://www.investopedia.com/terms/l/loan_modification.asp) or do a [[short sale]](https://www.investopedia.com/terms/r/real-estate-short-sale.asp), for example, a deed in lieu of foreclosure may have less impact on your credit reports than an involuntary foreclosure.
 
 ### Cutting Your Losses
 
@@ -74,6 +74,6 @@ Cons
 
 ## Example: Voluntary Foreclosures and the Housing Crisis of 2007–2009
 
-Prior to the American housing bubble and [subprime mortgage crisis](https://www.investopedia.com/articles/07/subprime-blame.asp) of the late 2000s, voluntary foreclosure was a rarely used option for borrowers struggling to afford their property loan payments; however, it has become much more widely used in the years since. In 2007 and 2008, housing prices plunged, often posting double-digit declines in value.
+Prior to the American housing bubble and [[subprime mortgage crisis]](https://www.investopedia.com/articles/07/subprime-blame.asp) of the late 2000s, voluntary foreclosure was a rarely used option for borrowers struggling to afford their property loan payments; however, it has become much more widely used in the years since. In 2007 and 2008, housing prices plunged, often posting double-digit declines in value.
 
-At the start of 2010, [approximately 25% of all mortgages were underwater](https://money.cnn.com/2010/02/23/real_estate/underwater_rates_rise/), meaning the amount owed on the mortgage was more than the value of the home. According to some [reports](https://money.usnews.com/money/personal-finance/real-estate/articles/2010/01/19/strategic-defaults-and-the-foreclosure-crisis), voluntary foreclosures more than doubled from 2007 to 2008 and represented more than 25% of all defaults in 2009. Voluntary foreclosures have remained common over the past decade, as home values have still not increased enough to free many borrowers from the burden of negative equity.
+At the start of 2010, [[approximately 25% of all mortgages were underwater]](https://money.cnn.com/2010/02/23/real_estate/underwater_rates_rise/), meaning the amount owed on the mortgage was more than the value of the home. According to some [[reports]](https://money.usnews.com/money/personal-finance/real-estate/articles/2010/01/19/strategic-defaults-and-the-foreclosure-crisis), voluntary foreclosures more than doubled from 2007 to 2008 and represented more than 25% of all defaults in 2009. Voluntary foreclosures have remained common over the past decade, as home values have still not increased enough to free many borrowers from the burden of negative equity.

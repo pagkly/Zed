@@ -16,7 +16,7 @@ author: James Chen
 Discount Yield Definition
 ## What Is the Discount Yield?
 
-The discount yield is a way of calculating a bond's return when it is sold at a discount to its [face value](https://www.investopedia.com/terms/f/facevalue.asp), expressed as a percentage. Discount yield is commonly used to calculate the yield on municipal notes, commercial paper and treasury bills sold [at a discount](https://www.investopedia.com/terms/a/at-a-discount.asp).
+The discount yield is a way of calculating a bond's return when it is sold at a discount to its [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), expressed as a percentage. Discount yield is commonly used to calculate the yield on municipal notes, commercial paper and treasury bills sold [[at a discount]](https://www.investopedia.com/terms/a/at-a-discount.asp).
 
 ### Key Takeaways
 
@@ -32,9 +32,9 @@ Image by Sabrina Jiang © Investopedia 2021
 
 ## Understanding the Discount Yield
 
-Discount yield computes a [discount bond](https://www.investopedia.com/terms/d/discountbond.asp) investor's [return on investment](https://www.investopedia.com/terms/t/treasurybill.asp) (ROI) if the bond is held until maturity. A [Treasury bill](https://www.investopedia.com/terms/u/ustreasury.asp) is issued at a discount from [par value](https://www.investopedia.com/terms/p/parvalue.asp) (face amount), along with many forms of commercial paper and municipal notes, which are short-term debt instruments issued by municipalities. U.S. Treasury bills have a maximum maturity of six months (26 weeks), while Treasury notes and bonds have longer maturity dates.
+Discount yield computes a [[discount bond]](https://www.investopedia.com/terms/d/discountbond.asp) investor's [[return on investment]](https://www.investopedia.com/terms/t/treasurybill.asp) (ROI) if the bond is held until maturity. A [[Treasury bill]](https://www.investopedia.com/terms/u/ustreasury.asp) is issued at a discount from [[par value]](https://www.investopedia.com/terms/p/parvalue.asp) (face amount), along with many forms of commercial paper and municipal notes, which are short-term debt instruments issued by municipalities. U.S. Treasury bills have a maximum maturity of six months (26 weeks), while Treasury notes and bonds have longer maturity dates.
 
-If a security is sold before the [maturity date](https://www.investopedia.com/terms/m/maturitydate.asp), the rate of return earned by the investor is different, and the new rate of return is based on the sale price of the security. If, for example, the $1,000 corporate bond purchased for $920 is sold for $1,100 five years after the purchase date, the investor has a gain on the sale. The investor must determine the amount of the bond discount that is posted to income before the sale and must compare that with the $1,100 sale price to calculate the gain.
+If a security is sold before the [[maturity date]](https://www.investopedia.com/terms/m/maturitydate.asp), the rate of return earned by the investor is different, and the new rate of return is based on the sale price of the security. If, for example, the $1,000 corporate bond purchased for $920 is sold for $1,100 five years after the purchase date, the investor has a gain on the sale. The investor must determine the amount of the bond discount that is posted to income before the sale and must compare that with the $1,100 sale price to calculate the gain.
 
 A [zero-coupon bond](https://www.investopedia.com/terms/z/zero-couponbond.asp) is a another example of a discount bond. Depending on the length of time until maturity, zero-coupon bonds can be issued at substantial discounts to par, sometimes 20% or more. Because a bond will always pay its full, face value, at maturity—assuming no credit events occur—zero-coupon bonds will steadily rise in price as the maturity date approaches. These bonds don't make periodic interest payments and will only make one payment of the face value to the holder at maturity.
 
@@ -44,6 +44,6 @@ Assume, for example, that an investor purchases a $10,000 Treasury bill at a $30
 
 ## The Differences Between Discount Yield and Accretion
 
-Securities that are sold at a discount use the discount yield to calculate the investor's rate of return, and this method is different than [bond accretion](https://www.investopedia.com/terms/a/accretion.asp). Bonds that use bond accretion can be issued a par value, at a discount or a premium, and accretion is used to move the discount amount into bond income over the remaining life of the bond.
+Securities that are sold at a discount use the discount yield to calculate the investor's rate of return, and this method is different than [[bond accretion]](https://www.investopedia.com/terms/a/accretion.asp). Bonds that use bond accretion can be issued a par value, at a discount or a premium, and accretion is used to move the discount amount into bond income over the remaining life of the bond.
 
 Assume, for example, that an investor purchases a $1,000 corporate bond for $920, and the bond matures in 10 years. Since the investor receives $1,000 at maturity, the $80 discount is bond income to the owner, along with interest earned on the bond. Bond accretion means that the $80 discount is posted to bond income over the 10-year life, and an investor can use a straight-line method or the effective interest rate method. Straight-line posts the same dollar amount into bond income each year, and the effective interest rate method uses a more complex formula to calculate the bond income amount.
