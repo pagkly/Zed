@@ -72,28 +72,7 @@ def link_content(content):
     return content
 
 
-# main entry point
-# validate obsidian vault location
-if len(sys.argv) > 1:
-    obsidian_home = sys.argv[1]
-    if not os.path.isdir(obsidian_home):
-        print('folder specified is not valid')
-        exit()
-    
-    # check for additional flags
-    if len(sys.argv) > 2:
-        for arg_index in range(2, len(sys.argv)):
-            flag = sys.argv[arg_index]
 
-            if flag == "-w":
-                wikipedia_mode = True
-            elif flag == "-p":
-                wikipedia_mode = True
-                paragraph_mode = True
-            elif flag == "-r":
-                regenerate_aliases = True
-            elif flag == "-y":
-                yaml_mode = True
 
 else:
     print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
@@ -118,9 +97,20 @@ if platform == "win32":
     profdirc=r'AppData\Local\Google\Chrome\UD2'
     pdirc=os.path.join(updir, profdirc)
     print(pdirc)
-    
+
 obsidian_home=downdir
 aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+
+# main entry point
+# validate obsidian vault location
+if not os.path.isdir(obsidian_home):
+    print('folder specified is not valid')
+    exit()
+
+wikipedia_mode = True
+paragraph_mode = True
+regenerate_aliases = True
+yaml_mode = True
 
 # get a directory listing of obsidian *.md files
 # use it to build our list of titles and aliases
