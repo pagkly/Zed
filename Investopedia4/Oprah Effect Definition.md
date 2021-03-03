@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/o/oprah-effect.asp
 author: Clay Halton
 ---
 
-# Oprah Effect Definition
+# [[Oprah Effect Definition]]
 
 > ## Excerpt
 > The Oprah Effect refers to the overnight success that many businesses and people enjoyed after appearing on The Oprah Winfrey Show.
 
 ---
 
-Oprah Effect Definition
+[[Oprah Effect Definition]]
 ## What is the Oprah Effect?
 
 The Oprah Effect refers to the boost in sales that followed an [[endorsement]](https://www.investopedia.com/terms/e/endorsement.asp) on The Oprah Winfrey Show, which aired on TV for 25 years. A recommendation from Oprah, the queen of talk shows, turned many fashion and lifestyle products into multimillion-dollar companies.

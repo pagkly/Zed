@@ -1,24 +1,24 @@
 ---
 alias: [Off-Chain Transactions, Cryptocurrency]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Off-Chain Transactions (Cryptocurrency), Off-Chain Transactions (Cryptocurrency) Definition]
-source: https://www.investopedia.com/terms/o/offchain-transactions-cryptocurrency.asp
-author: Will Kenton
+tags: [Off-Chain Transactions ([[Cryptocurrency]]), Off-Chain Transactions (Cryptocurrency) Definition]
+source: https://www.investopedia.com/terms/o/offchain-transactions-[[Cryptocurrency|cryptocurrency]].asp
+author: [[Will]] Kenton
 ---
 
-# Off-Chain Transactions (Cryptocurrency)
+# Off-Chain Transactions ([[Cryptocurrency]])
 
 > ## Excerpt
-> Off-chain transactions of a cryptotoken occur outside of the blockchain network, and provide a low-cost, instant transaction medium for the cryptocurrency
+> Off-chain transactions of a cryptotoken occur outside of the blockchain network, and provide a low-cost, instant transaction medium for the [[Cryptocurrency|cryptocurrency]]
 
 ---
 
-Off-Chain Transactions (Cryptocurrency) Definition
-## What Are Off-Chain Transactions (Cryptocurrency)?
+[[Off-Chain Transactions (Cryptocurrency) Definition]]
+## What Are Off-Chain Transactions ([[Cryptocurrency]])?
 
-Off-chain transactions refer to those transactions occurring on a [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp) network which move the value outside of the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp). Due to their zero/low cost, off-chain transactions are gaining popularity, especially among large participants.
+Off-chain transactions refer to those transactions occurring on a [[cryptocurrency]](https://www.investopedia.com/terms/c/[[Cryptocurrency|cryptocurrency]].asp) network which move the value outside of the [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp). Due to their zero/low cost, off-chain transactions are gaining popularity, especially among large participants.
 
-Off-chain transactions can be contrasted with [[on-chain transactions]](https://www.investopedia.com/terms/c/chain-transactions-cryptocurrency.asp).
+Off-chain transactions can be contrasted with [[on-chain transactions]](https://www.investopedia.com/terms/c/chain-transactions-[[Cryptocurrency|cryptocurrency]].asp).
 
 ### Key Takeaways
 
@@ -38,8 +38,8 @@ Essentially, every step linked to an on-chain transaction occurs on the blockcha
 In contrast, an off-chain transaction takes the value outside of the blockchain. It can be executed using multiple methods.
 
 1.  First, there can be a transfer agreement between transacting parties.
-2.  Second, off-chain transactions can involve a third-party such as a guarantor who guarantees to honor the transaction. Present-day payment processors like PayPal work on these lines.
-3.  Another method for off-chain transactions is to use a coupon-based payment mechanism. A participant purchases coupons in exchange for the crypto-tokens and gives the code to another party which can then redeem them. Redemption is possible in the same cryptocurrency or in different ones, depending on the coupon service provider.
+2.  Second, off-chain transactions can involve a third-party such as a guarantor who guarantees to honor the transaction. Present-day payment processors like [[PayPal]] work on these lines.
+3.  Another method for off-chain transactions is to use a coupon-based payment mechanism. A participant purchases coupons in exchange for the crypto-tokens and gives the code to another party which can then redeem them. Redemption is possible in the same [[Cryptocurrency|cryptocurrency]] or in different ones, depending on the coupon service provider.
 
 In the simplest way, two parties can even exchange their private keys involving a fixed amount of crypto-coins. This way, the coins never leave the address/wallet, but the currency receives a new owner off-chain.
 
@@ -49,4 +49,4 @@ First, they can be executed instantly. On-chain transactions can have a long lag
 
 Second, off-chain transactions usually don't have a transaction fee, as nothing occurs on the blockchain. Since no miner or participant is required to validate the transaction, there is no fee, making it an attractive option for especially if large amounts are involved. On the other hand, on-chain transactions may at times come at a high cost, which leads to problems of [[Bitcoin Dust]](https://www.investopedia.com/terms/b/bitcoin-dust.asp), a situation where small amounts of bitcoins cannot be transacted due to high transaction fees.
 
-Third, off-chain transactions offer more security and anonymity to the participants, because details are not publicly broadcast. In the case of on-chain transactions, it is possible to partially determine a participant’s identity by studying transaction patterns.
+Third, off-chain transactions [[Offer|offer]] more [[Security|security]] and anonymity to the participants, because details are not publicly broadcast. In the case of on-chain transactions, it is possible to partially determine a participant’s identity by studying transaction patterns.

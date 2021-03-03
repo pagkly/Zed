@@ -22,26 +22,26 @@ Offtake agreements are typically used to help the selling company acquire financ
 
 ## Understanding Offtake Agreements
 
-Offtake agreements are legally binding contracts related to transactions between buyers and sellers. Their provisions usually specify the purchase price for the goods and their delivery date, even though the agreements are reached before any goods are produced and any ground is broken on a facility. However, companies can usually back out of an offtake agreement through negotiations with the other party and with the payment of a fee.
+Offtake agreements are legally binding contracts related to transactions between buyers and sellers. Their provisions usually specify the [[Purchase Price|purchase price]] for the goods and their delivery date, even though the agreements are reached before any goods are produced and any ground is broken on a facility. However, companies can usually back out of an offtake agreement through negotiations with the other party and with the payment of a fee.
 
-Offtake agreements are frequently used in [[natural resource development]](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp), where the capital costs to extract resources are significant and the company wants a guarantee some of its product will be sold.
+Offtake agreements are frequently used in [[natural resource development]](https://www.investopedia.com/articles/basics/12/natural-resource-investing.asp), where the capital costs to extract resources are significant and the company wants a guarantee some of its product [[Will|will]] be sold.
 
-The offtake agreement serves an important role for the producer. If [[lenders]](https://www.investopedia.com/terms/l/lender.asp) can see the company has clients and customers lined up before production begins, they are more likely to approve the extension of a [[loan]](https://www.investopedia.com/terms/l/loan.asp) or credit. So offtake agreements make it easier to obtain [[financing]](https://www.investopedia.com/terms/f/financing.asp) to construct a facility.
+The offtake agreement serves an important role for the producer. If [[lenders]](https://www.investopedia.com/terms/l/[[Lender|lender]].asp) can see the company has clients and customers lined up before production begins, they are more likely to approve the extension of a [[loan]](https://www.investopedia.com/terms/l/[[Loan|loan]].asp) or credit. So offtake agreements make it easier to obtain [[financing]](https://www.investopedia.com/terms/f/financing.asp) to construct a facility.
 
 ### Key Takeaways
 
 -   An offtake agreement is an arrangement between a producer and a buyer to purchase or sell portions of the producer's yet-to-be-manufactured goods.
--   An offtake agreement is negotiated far in advance, often before construction of the manufacturing facility and actual production has begun.
+-   An offtake agreement is negotiated far in advance, often before construction of the [[Manufacturing|manufacturing]] facility and actual production has begun.
 -   Offtake agreements make it easier for producers to obtain financing.
--   Offtake agreements can help buyers lock in a price and guarantee supply of a product.
+-   Offtake agreements can help buyers lock in a price and guarantee [[Supply|supply]] of a product.
 
 ## Benefits of Offtake Agreements
 
-In addition to providing a guaranteed market and source of revenue for its product, an offtake agreement allows the producer/seller to guarantee a minimum level of profit for its investment. Since offtake agreements often help secure funds for the creation or expansion of a facility, the seller can negotiate a price that secures a minimum level of return on the associated goods, and so lowering the risk associated with the investment.
+In addition to providing a guaranteed market and source of revenue for its product, an offtake agreement allows the producer/seller to guarantee a minimum level of profit for its investment. Since offtake agreements often help secure funds for the creation or expansion of a facility, the seller can negotiate a price that secures a minimum level of [[Return|return]] on the associated goods, and so lowering the [[Risk|risk]] associated with the investment.
 
-Offtake agreements may provide a benefit to buyers as well, functioning as a way to secure goods at a particular price. That means prices are fixed for the buyer before the manufacture of them begins. Doing this may act as a hedge against future price changes, especially if a product becomes popular or a resource becomes scarce, causing demand to outweigh supply. It also provides a guarantee that the requested assets will be delivered: fulfillment of the order is considered the seller's obligation under the terms of the offtake agreement.
+Offtake agreements may provide a benefit to buyers as well, functioning as a way to secure goods at a particular price. That means prices are fixed for the buyer before the manufacture of them begins. Doing this may act as a [[Hedge|hedge]] against future price changes, especially if a product becomes popular or a resource becomes scarce, causing demand to outweigh [[Supply|supply]]. It also provides a guarantee that the requested assets [[Will|will]] be delivered: fulfillment of the order is considered the seller's obligation under the terms of the offtake agreement.
 
-Offtake agreements also include default clauses that outline the recourse—including penalties—either party has in case there is a violation of one or multiple clauses.
+Offtake agreements also include [[Default|default]] clauses that outline the recourse—including penalties—either party has in case there is a violation of one or multiple clauses.
 
 ## Special Considerations for Offtake Agreements
 

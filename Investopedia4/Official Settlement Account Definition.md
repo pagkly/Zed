@@ -13,12 +13,12 @@ author: Adam Hayes
 
 ---
 
-Official Settlement Account Definition
+[[Official Settlement Account Definition]]
 ## What Is an Official Settlement Account?
 
 An official settlement account is a special type of account used in international [[balance of payments]](https://www.investopedia.com/terms/b/bop.asp) (BoP) accounting to keep track of central banks' reserve asset transactions with one other. The official settlement account keeps track of transactions involving gold, foreign exchange reserves, bank deposits and [[special drawing rights (SDRs).]](https://www.investopedia.com/terms/s/sdr.asp)
 
-Essentially, this type of account keeps track of transactions related to international reserves and central bank assets that are transferred among nations to settle either a balance of payment deficit or surplus.
+Essentially, this type of account keeps track of transactions related to international reserves and central bank assets that are transferred among nations to settle either a balance of payment deficit or [[Surplus|surplus]].
 
 ### Key Takeaways
 
@@ -28,12 +28,12 @@ Essentially, this type of account keeps track of transactions related to interna
 
 ## Understanding Official Settlement Accounts
 
-Official settlement accounts are used in international balance of payments accounting, and represent the [[current account]](https://www.investopedia.com/terms/c/currentaccount.asp) and the [[capital account]](https://www.investopedia.com/terms/c/capitalaccount.asp) of central banks. The current account keeps a record of a country's imports and exports of goods, services, income and transfers, and whether the country is a net creditor or net debtor. The capital account records the change in foreign and domestic investments, government borrowing and private sector borrowing. When there is either a balance of payments deficit or surplus, inflows of [[reserve assets]](https://www.investopedia.com/terms/r/reserve-assets.asp) or outflows of reserve assets bring the ledger back into balance. This is recorded in the official settlement account.
+Official settlement accounts are used in international balance of payments accounting, and represent the [[current account]](https://www.investopedia.com/terms/c/currentaccount.asp) and the [[capital account]](https://www.investopedia.com/terms/c/capitalaccount.asp) of central banks. The current account keeps a record of a country's imports and exports of goods, services, income and transfers, and whether the country is a net [[Creditor|creditor]] or net [[Debtor|debtor]]. The capital account records the change in foreign and domestic investments, government borrowing and private sector borrowing. When there is either a balance of payments deficit or [[Surplus|surplus]], inflows of [[reserve assets]](https://www.investopedia.com/terms/r/reserve-assets.asp) or outflows of reserve assets bring the ledger back into balance. This is recorded in the official settlement account.
 
 The Bank for International Settlements ([BIS](https://www.investopedia.com/terms/b/bis.asp)) is an international financial institution that aims to promote global monetary and financial stability and maintains oversight of official settlement accounts. The BIS is sometimes called the "central bank for central banks" because it provides banking services to institutions such as the European Central Bank and Federal Reserve.
 
 ## Monitoring an Official Settlement Account
 
-Nations keep an eye on the official settlement account to gauge their economic health in the global economy. If there are continual outflows of reserve assets for a country, it means that its competitiveness in producing exported goods is relatively weak, or it's business environment is not as attractive as that offered by other countries for direct foreign investment.
+Nations keep an eye on the official settlement account to gauge their economic health in the global economy. If there are continual outflows of reserve assets for a country, it means that its competitiveness in producing exported goods is relatively weak, or it's business environment is not as attractive as that offered by other countries for direct [[Foreign Investment|foreign investment]].
 
 A nation running chronic current account [[deficits]](https://www.investopedia.com/terms/d/deficit.asp) may then formulate policy prescriptions to improve the quality of its goods for export or seek exchange rate adjustments to make their exports more price competitive. It also may try to create better conditions for international companies looking to build new factories abroad. Tax incentives, infrastructure projects, and workforce training programs could be promoted by a country to address unwanted outflows recorded in its official settlement account.

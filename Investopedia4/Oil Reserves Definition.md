@@ -6,28 +6,28 @@ source: https://www.investopedia.com/terms/o/oil-reserves.asp
 author: James Chen
 ---
 
-# Oil Reserves Definition
+# [[Oil Reserves Definition]]
 
 > ## Excerpt
-> Oil reserves are an estimate of the amount of crude oil located in a particular economic region.
+> Oil reserves are an estimate of the amount of [[Crude Oil|crude oil]] located in a particular economic region.
 
 ---
 
-Oil Reserves Definition
+[[Oil Reserves Definition]]
 ## What Are Oil Reserves?
 
 Oil reserves are an estimate of the amount of [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) located in a particular economic region. To qualify, oil reserves must have the potential of being extracted under current technological constraints. Reserves are calculated based on a proven/[probable](https://www.investopedia.com/terms/p/probable-reserves.asp) basis, meaning oil pools situated in unattainable depths, for example, would not be considered part of a nation's reserves.
 
 ### Key Takeaways
 
--   Oil reserves are the amount of crude oil a country or region has that can be reasonably extracted. 
+-   Oil reserves are the amount of [[Crude Oil|crude oil]] a country or region has that can be reasonably extracted. 
 -   The top three countries in the world by oil reserves are Venezuela, Saudi Arabia, and Canada. 
 -   BP estimates show there are likely more than 1.73 trillion barrels of oil reserves in the world.
--   Nearly 80% of the world’s oil reserves are in the Organization of the Petroleum Exporting Countries (OPEC).
+-   Nearly 80% of the world’s oil reserves are in the [[Organization of the Petroleum Exporting Countries (OPEC)]].
 
 ## Understanding Oil Reserves
 
-BP Plc estimated that the world had 1.73 trillion barrels of oil reserves as of 2018, which would be sufficient to meet 50 years of global production at 2018 levels. According to the British oil company's 2019 Statistical Review of World Energy [[report]](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-oil.pdf), Venezuela is the leading country in terms of oil reserves, coming in at 300.3 billion barrels. Saudi Arabia is a close second with 297.7 billion, Canada is third with 167.8 billion, and the U.S. ninth with 61.2 billion barrels.
+BP Plc estimated that the world had 1.73 trillion barrels of oil reserves as of 2018, which would be sufficient to meet 50 years of global production at 2018 levels. According to the British oil company's 2019 Statistical Review of World Energy [[report]](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-[[Economics|economics]]/statistical-review/bp-stats-review-2019-oil.pdf), Venezuela is the leading country in terms of oil reserves, coming in at 300.3 billion barrels. Saudi Arabia is a close second with 297.7 billion, Canada is third with 167.8 billion, and the U.S. ninth with 61.2 billion barrels.
 
 Here are the world’s top 10 largest oil reserves by country as of 2018:
 
@@ -113,7 +113,7 @@ Similar to BP's statistical review, ENI's publication provides details about glo
 
 ## Special Considerations
 
-One of the critical ratios analysts use to measure the longevity of reserves is the [[reserve-to production ratio]](https://www.investopedia.com/terms/r/reserves-to-production-ratio.asp) (R/P). The R/P estimates the number of years a reserve base will last at current annual production rates and is used by companies operating in the oil industry, as well as oil-producing countries.
+One of the critical ratios analysts use to measure the longevity of reserves is the [[reserve-to production ratio]](https://www.investopedia.com/terms/r/reserves-to-production-ratio.asp) (R/P). The R/P estimates the number of years a reserve base [[Will|will]] last at current annual production rates and is used by companies operating in the oil industry, as well as oil-producing countries.
 
 This chart from BP reveals two significant trends in global oil reserves. 
 

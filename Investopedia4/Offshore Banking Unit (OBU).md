@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/o/offshore-banking-unit.asp
 author: Julia Kagan
 ---
 
-# Offshore Banking Unit (OBU)
+# [[Offshore Banking Unit (OBU)]]
 
 > ## Excerpt
-> Offshore banking units (OBUs) make loans in the Eurocurrency market when they accept deposits from foreign banks and other OBUs.
+> Offshore banking units (OBUs) make loans in the [[Eurocurrency Market|Eurocurrency market]] when they accept deposits from foreign banks and other OBUs.
 
 ---
 
-Offshore Banking Unit (OBU)
-## What Is an Offshore Banking Unit (OBU)?
+[[Offshore Banking Unit (OBU)]]
+## What Is an [[Offshore Banking Unit (OBU)]]?
 
-An offshore banking unit (OBU) is a bank shell branch, located in another international financial center. For instance, a London-based bank with a branch located in Delhi. Offshore banking units make loans in the [[Eurocurrency]](https://www.investopedia.com/terms/e/eurocurrency.asp) market when they accept [[deposits]](https://www.investopedia.com/terms/d/deposit.asp) from foreign banks and other OBUs. Eurocurrency simply refers to money held in banks located outside of the country which issues the currency. 
+An [[Offshore Banking Unit (OBU)|offshore banking unit (OBU)]] is a bank shell branch, located in another international financial center. For instance, a London-based bank with a branch located in Delhi. Offshore banking units make loans in the [[Eurocurrency]](https://www.investopedia.com/terms/e/eurocurrency.asp) market when they accept [[deposits]](https://www.investopedia.com/terms/d/deposit.asp) from foreign banks and other OBUs. Eurocurrency simply refers to money held in banks located outside of the country which issues the currency. 
 
 Local monetary authorities and governments do not restrict OBUs' activities; however, they are not allowed to accept domestic deposits or make loans to residents of the country, in which they are physically situated. Overall OBUs can enjoy significantly more flexibility regarding national regulations.
 

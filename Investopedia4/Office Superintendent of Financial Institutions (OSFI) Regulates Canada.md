@@ -13,10 +13,10 @@ author: Alexandra Twin
 
 ---
 
-Office Superintendent of Financial Institutions (OSFI) Regulates Canada
+[[Office Superintendent of Financial Institutions (OSFI) Regulates Canada]]
 ## What Is the Office of the Superintendent of Financial Institutions (OSFI)?
 
-The Office of the Superintendent of Financial Institutions (OSFI) is an independent agency of the Government of Canada. The agency is responsible for the supervision and regulation of banks, insurance companies, and trust and loan companies. They also regulate private [[pension plans]](https://www.investopedia.com/terms/p/pensionplan.asp) which are subject to federal oversight. The agency's stated goals are to protect depositors, policyholders, [[the financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) (FI), creditors and pension plan members while allowing financial institutions to compete and take reasonable risks.
+The Office of the Superintendent of Financial Institutions (OSFI) is an independent agency of the Government of Canada. The agency is responsible for the supervision and regulation of banks, insurance companies, and trust and [[Loan|loan]] companies. They also regulate private [[pension plans]](https://www.investopedia.com/terms/p/pensionplan.asp) which are subject to federal oversight. The agency's stated goals are to protect depositors, policyholders, [[the financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) (FI), creditors and [[Pension Plan|pension plan]] members while allowing financial institutions to compete and take reasonable risks.
 
 ## Duties and Responsibilities of the OSFI
 
@@ -36,10 +36,10 @@ Operating as an independent unit within the OSFI is the Office of the Chief Actu
 
 ## History of the OSFI
 
-The OSFI reports to the Canadian Minister of Finance. The Office was founded on July 2, 1987, with the combining of the Department of Insurance and the Office of the Inspector General of Banks. A bill passed in May 1996 further clarified the role of the Office, namely that its primary responsibilities are to help minimize losses to individuals and to maintain public confidence in the Canadian financial system. Preventing banks from failing is not part of the agency's directive. However, supporting sound business practices helps reduce the likelihood that a bank or other financial institution will fail.
+The OSFI reports to the Canadian Minister of [[Finance]]. The Office was founded on July 2, 1987, with the combining of the Department of Insurance and the Office of the Inspector General of Banks. A bill passed in May 1996 further clarified the role of the Office, namely that its primary responsibilities are to help minimize losses to individuals and to maintain public confidence in the Canadian financial system. Preventing banks from failing is not part of the agency's directive. However, supporting sound business practices helps reduce the likelihood that a bank or other financial institution [[Will|will]] fail.
 
 ## Real World Example
 
-The OSFI also acts as an [[information hub](http://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/adv-prv/Pages/TCSIR_Let.aspx) for Canadian financial institutions. They periodically post important news and guidelines for the member banks. As an example, in January 2019, they issued an advisory of [cybersecurity]](https://www.investopedia.com/articles/personal-finance/012117/cyber-attacks-and-bank-failures-risks-you-should-know.asp) threats which are becoming increasingly sophisticated and increasing in frequency. OSFI warns these attacks may disrupt interconnected and global financial systems and businesses.
+The OSFI also acts as an [[information hub](http://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/adv-prv/Pages/TCSIR_Let.aspx) for Canadian financial institutions. They periodically post important news and guidelines for the member banks. As an example, in January 2019, they issued an advisory of [cybersecurity]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/012117/cyber-attacks-and-bank-failures-risks-you-should-know.asp) threats which are becoming increasingly sophisticated and increasing in frequency. OSFI warns these attacks may disrupt interconnected and global financial systems and businesses.
 
 The current Superintendent is Jeremy Rudin, appointed June 2014, for a seven-year term. As Superintendent, Mr. Rudin's role is to represent Canada on the Financial Stability Board Steering Committee and the Standing Committee on Supervisory and Regulatory Cooperation. He also serves on the Council of Governors of the Canadian Public Accountability Board and the board of directors of the Canada Deposit Insurance Corporation.

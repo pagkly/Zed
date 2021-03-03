@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-Open Source Definition
+[[Open Source Definition]]
 ## What Is Open Source?
 
 Open source refers to a software program or platform with source code that is readily accessible and which can be modified or enhanced by anyone. Open source access grants users of an application permission to fix broken links, enhance the design, or improve the original code.
@@ -28,7 +28,7 @@ Open source software (OSS) hubs, such as GitHub, are an example of a kind of ope
 
 ## Understanding Open Source
 
-Open source is a perfect illustration of the adage that says “It takes a village to raise a child.” To perfect the usability of a product, multiple minds and talents are needed for various areas of the product’s functionality. Platforms developed and built on user collaboration work better and have less bugs. Software developers who encourage the open source concept believe that by giving any interested party access to modify a product’s source code, the application will be more usable and error-free over the long term.
+Open source is a perfect illustration of the adage that says “It takes a village to raise a child.” To perfect the usability of a product, multiple minds and talents are needed for various areas of the product’s functionality. Platforms developed and built on user collaboration work better and have less bugs. Software developers who encourage the open source concept believe that by giving any interested party access to modify a product’s source code, the application [[Will|will]] be more usable and error-free over the [[Long Term|long term]].
 
 Mozilla Firefox, Linux, WordPress, [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp), and [[Android]](https://www.investopedia.com/terms/a/android-operating-system.asp) are all popular examples of open source projects. By making their source codes available to all, open source products serve as educational tools for technology students who study the codes, learn from them, and opt to create even better codes. Hence, better and more innovative applications are created from the foundation of previous open source applications. 
 

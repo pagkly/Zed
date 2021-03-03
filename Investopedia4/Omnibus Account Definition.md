@@ -13,18 +13,18 @@ author: James Chen
 
 ---
 
-Omnibus Account Definition
+[[Omnibus Account Definition]]
 ## What Is an Omnibus Account?
 
 An omnibus account allows for managed trades of more than one person, and allows for anonymity of the persons in the account. Omnibus accounts are used by [[futures commission merchants]](https://www.investopedia.com/terms/f/fcm.asp). Transactions within the account are carried out in the name of the broker, protecting the individual identities of the two or more people invested in the omnibus account. The broker managing the omnibus account typically has the ability to execute trades on behalf of investors with funds inside the omnibus account. Trades are made in the name of the broker, although trade confirmations and statements are provided to customers within the account. 
 
 ## The Basics of an Omnibus Account
 
-Omnibus accounts refer to accounts that hold more than one item (_omni-_ meaning 'many' and _\-bus_ meaning 'business'). A minimum of two individuals are required to create an omnibus account. All transactions occurring within an omnibus account will appear under the name of the associated broker, leaving the details of individual investors private.
+Omnibus accounts refer to accounts that [[Hold|hold]] more than one item (_omni-_ meaning 'many' and _\-bus_ meaning 'business'). A minimum of two individuals are required to create an omnibus account. All transactions occurring within an omnibus account [[Will|will]] appear under the name of the associated broker, leaving the details of individual investors private.
 
-An omnibus account is normally overseen by a [[futures manager]](https://www.investopedia.com/terms/m/managedfuturesaccount.asp). The futures manager uses the funds in the account to complete trades on behalf of the participating individual investors. This method is similar to when an investor leaves stock in a broker's name, allowing the broker to hold the majority of the responsibility while also allowing them to take fast actions when required.
+An omnibus account is normally overseen by a [[futures manager]](https://www.investopedia.com/terms/m/managedfuturesaccount.asp). The [[Futures|futures]] manager uses the funds in the account to complete trades on behalf of the participating individual investors. This method is similar to when an investor leaves [[Stock|stock]] in a broker's name, allowing the broker to [[Hold|hold]] the majority of the responsibility while also allowing them to take fast actions when required.
 
-Aside from performing trades, the fund manager may also perform other actions designed to maintain the value of the account. In exchange, the futures manager charges fees or [[commissions]](https://www.investopedia.com/terms/c/commission.asp) to compensate for taking on the responsibility of these tasks.
+Aside from performing trades, the fund manager may also perform other actions designed to maintain the value of the account. In exchange, the [[Futures|futures]] manager charges fees or [[commissions]](https://www.investopedia.com/terms/c/[[Commission|commission]].asp) to compensate for taking on the responsibility of these tasks.
 
 ### Key Takeaways
 

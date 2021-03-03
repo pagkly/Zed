@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/n/nasaa.asp
 author: Katelyn Peters
 ---
 
-# North American Securities Administrators Association (NASAA) Definition
+# [[North American Securities Administrators Association (NASAA)]] Definition
 
 > ## Excerpt
-> The North American Securities Administrators Association (NASAA) is an organization of securities regulators whose aim is to protect investors from fraud.
+> The [[North American Securities Administrators Association (NASAA)]] is an organization of securities regulators whose aim is to protect investors from fraud.
 
 ---
 
-North American Securities Administrators Association (NASAA)
-## What Is the North American Securities Administrators Association (NASAA)?
+[[North American Securities Administrators Association (NASAA)]]
+## What Is the [[North American Securities Administrators Association (NASAA)]]?
 
-The North American Securities Administrators Association (NASAA) is an organization of securities regulators whose aim is to protect investors from fraud. Founded in 1919 in the U.S. state of Kansas, its membership of over 60 securities administrators from across North America works to protect customers of [[investment advice]](https://www.investopedia.com/terms/i/investment-advice.asp) or securities as part of a complementary regulatory system that works at the federal, state/provincial, and industry levels.1
+The [[North American Securities Administrators Association (NASAA)]] is an organization of securities regulators whose aim is to protect investors from fraud. Founded in 1919 in the U.S. state of Kansas, its membership of over 60 securities administrators from across North America works to protect customers of [[investment advice]](https://www.investopedia.com/terms/i/investment-advice.asp) or securities as part of a complementary regulatory system that works at the federal, state/provincial, and industry levels.1
 
 ### Key Takeaways
 
--   Organized in 1919, the North American Securities Administrators Association (NASAA) is the oldest international regulatory organization devoted to investor protection.
+-   Organized in 1919, the [[North American Securities Administrators Association (NASAA)]] is the oldest international regulatory organization devoted to investor protection.
 -   NASAA is a voluntary association whose membership consists of 67 state, provincial, and territorial securities administrators in the 50 states, the District of Columbia, Puerto Rico, the U.S. Virgin Islands, Canada, and Mexico.
 -   It works to protect customers of investment advice and securities as part of a complementary regulatory system that works at the federal, state/provincial, and industry levels.
 -   NASAA seeks to help investors identify and avoid fraud by educating the public, investigating violations of state and provincial law, and filing enforcement actions.21
@@ -46,4 +46,4 @@ NASAA members work within the government to protect investors and ensure the int
 -   Educating investors about their rights and providing the tools and knowledge they need to make informed financial decisions.
 -   Advocating passage of strong, sensible, and consistent state securities laws and regulations.2
 
-NASAA also [[administers]](https://www.nasaa.org/exams/) the [[Series 63]](https://www.investopedia.com/terms/s/series63.asp), [[Series 65]](https://www.investopedia.com/terms/s/series65.asp), and [[Series 66]](https://www.investopedia.com/terms/s/series66.asp) regulatory examinations, which licenses financial professionals to function as an agent. In most states, the Series 63 is a requirement for all registered securities agents.3
+NASAA also [[administers]](https://www.nasaa.org/exams/) the [[Series 63]](https://www.investopedia.com/terms/s/series63.asp), [[Series 65]](https://www.investopedia.com/terms/s/series65.asp), and [[Series 66]](https://www.investopedia.com/terms/s/series66.asp) regulatory examinations, which licenses financial professionals to function as an agent. In most states, the [[Series 63]] is a requirement for all registered securities agents.3

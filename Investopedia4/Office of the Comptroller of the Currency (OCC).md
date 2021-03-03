@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp
 author: Julia Kagan
 ---
 
-# Office of the Comptroller of the Currency (OCC) Definition
+# [[Office of the Comptroller of the Currency (OCC)]] Definition
 
 > ## Excerpt
 > The Office of the Comptroller of the Currency is a bureau that governs the execution of laws relating to national banks. Specifically, it charters, regulates, and supervises national banks and federal branches and agencies of foreign banks in the U.S.
 
 ---
 
-Office of the Comptroller of the Currency (OCC)
+[[Office of the Comptroller of the Currency (OCC)]]
 ## What Is the Office of the Comptroller of the Currency?
 
-The Office of the Comptroller of the Currency (OCC) is a federal agency that oversees the execution of laws relating to [[national banks]](https://www.investopedia.com/terms/n/national-bank.asp). Specifically, it charters, regulates, and supervises national banks and federal branches and agencies of foreign banks in the U.S. The Comptroller of the Currency, appointed by the President and approved by the Senate, heads the OCC.
+The [[Office of the Comptroller of the Currency (OCC)]] is a federal agency that oversees the execution of laws relating to [[national banks]](https://www.investopedia.com/terms/n/national-bank.asp). Specifically, it charters, regulates, and supervises national banks and federal branches and agencies of foreign banks in the U.S. The Comptroller of the Currency, appointed by the President and approved by the Senate, heads the OCC.
 
 ### Key Takeaways
 
--   The Office of the Comptroller of the Currency (OCC) charters, regulates, and supervises all banks in the U.S., both national and foreign banks.
+-   The [[Office of the Comptroller of the Currency (OCC)]] charters, regulates, and supervises all banks in the U.S., both national and foreign banks.
 -   Appointed by the president, the OCC is funded by the banks themselves that must pay examination and processing fees.
 -   The OCC has quite a bit of power, including the ability to deny applications for new bank branches, remove bank directors, and even take supervisory actions against the banks.
 
 ## How the Office of the Comptroller of the Currency Works
 
-Founded through the National Currency Act of 1863, the OCC monitors banks to guarantee they operate safely and meet all requirements. The OCC oversees several areas including capital, asset quality, management, earnings, liquidity, sensitivity to market risk, information technology, compliance, and community reinvestment.
+Founded through the [[National Currency]] Act of 1863, the OCC monitors banks to guarantee they operate safely and meet all requirements. The OCC oversees several areas including capital, asset quality, management, earnings, [[Liquidity|liquidity]], sensitivity to market [[Risk|risk]], information technology, compliance, and community [[Reinvestment|reinvestment]].
 
 The OCC is an independent bureau within the [[Department of Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp). Its mission statement verifies it is to "ensure that national banks and federal savings associations operate in a safe and sound manner, provide fair access to financial services, treat customers fairly, and comply with applicable laws and regulations." 
 
@@ -36,7 +36,7 @@ The agency is headed by the Senate-confirmed, comptroller for a five-year term
 
 ## OCC Structure
 
-There are four district OCC offices, as well as an office in London, that supervise international activities of national banks. The staff of bank examiners conducts on-site reviews of national banks and federal savings associations or thrifts. They provide supervision by analyzing the institution's loan and investment portfolios, funds management, capital, earnings, liquidity, and sensitivity to market risk. Examiners also review internal controls and compliance with applicable regulations and laws and evaluate management's ability to identify and control risk.
+There are four district OCC offices, as well as an office in London, that supervise international activities of national banks. The staff of bank examiners conducts on-site reviews of national banks and federal savings associations or thrifts. They provide supervision by analyzing the institution's [[Loan|loan]] and investment portfolios, funds management, capital, earnings, [[Liquidity|liquidity]], and sensitivity to market [[Risk|risk]]. Examiners also review internal controls and compliance with applicable regulations and laws and evaluate management's ability to identify and control risk.
 
 ## Power of the OCC
 

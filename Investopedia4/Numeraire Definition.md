@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/n/numeraire.asp
 author: James Chen
 ---
 
-# Numeraire Definition
+# [[Numeraire Definition]]
 
 > ## Excerpt
 > Numeraire is an economic term of french origin, which acts as a benchmark in comparing the value of similar products or financial instruments.
 
 ---
 
-Numeraire Definition
+[[Numeraire Definition]]
 ## What is Numeraire?
 
 Numeraire is an economic term of french origin, which acts as a benchmark in comparing the value of similar products or financial instruments. The word numeraire translates as "money," "coinage," or "face value."
@@ -32,4 +32,4 @@ An example of a numeraire arises when we look at how [[currencies]](https://www.
 
 Today, the U.S. dollar remains the numeraire for most commodity prices. Denominating commodity prices in U.S. dollar standardizes the price as the USD is the most-traded and liquid currency in the world. For example, companies that engage in oil transactions can easily convert payments or receipts in a timely manner since the price of oil is denominated in USD. 
 
-Also, by setting oil prices in USD, it allows a country to compare the value of oil prices in its own currency. For example, a country that is a net importer of oil and its currency is weakening against the U.S. dollar will be paying more for its oil (in local currency terms) than it did in the past.
+Also, by setting oil prices in USD, it allows a country to compare the value of oil prices in its own currency. For example, a country that is a [[Net Importer|net importer]] of oil and its currency is weakening against the U.S. dollar [[Will|will]] be paying more for its oil (in local currency terms) than it did in the past.

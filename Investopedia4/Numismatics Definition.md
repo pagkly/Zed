@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/n/numismatics.asp
 author: Jim Chappelow
 ---
 
-# Numismatics Definition
+# [[Numismatics Definition]]
 
 > ## Excerpt
 > The study and celebration of payment media (currencies), that mainly focuses on researching the production and use of coins, to determine their rarity.
 
 ---
 
-Numismatics Definition
+[[Numismatics Definition]]
 ## What Is Numismatics?
 
 The study of the physical embodiment of various payment media (i.e. currencies). The study of numismatics as it applies to coins is often in the research of the production and use of the coins to determine their rarity. Numismatics has many subfields, including but not limited to:
 
 -   Notaphily - the study of paper money (i.e. bank notes)
 -   Exonumia - the study of coin-like items such as medals used in place of currency
--   Scripophily - the study of securities (i.e. stocks and bonds)
+-   Scripophily - the study of securities (i.e. [[Stocks|stocks]] and bonds)
 
 #### Where to Buy a $10 Million Coin
 
@@ -51,7 +51,7 @@ There are numerous societies dedicated to the study, research, and advancement o
 -   Archaeological Institute of America
 -   [[The Canadian Numismatic Association]](https://www.rcna.ca/)
 -   The Czech Numismatic Society
--   International Numismatic Commission/Commission Internationale de Numismatique
+-   International Numismatic [[Commission]]/Commission Internationale de Numismatique
 -   The Israel Numismatic Society
 -   Oriental Numismatic Society
 -   The Professional Numismatists Guild
@@ -61,6 +61,6 @@ There are numerous societies dedicated to the study, research, and advancement o
 
 ## Numismatic Fun Facts
 
--   Florence, Italy, was the first world city to mint its own gold coins, in the year 1252.
+-   Florence, Italy, was the [[First World|first world]] city to mint its own gold coins, in the year 1252.
 -   Although collecting old coins is a global hobby practiced by the masses, in ancient times, it was deemed a royal hobby, solely enjoyed by kings and queens.
 -   The United States Secret Service, established in 1865, was originally created to fight counterfeit money, during a time when one-third of federally issued paper money was thought to be fake. It wasn't until 1902 that the Secret Service shifted its responsibility to protecting president, following the assassination of President William McKinley.

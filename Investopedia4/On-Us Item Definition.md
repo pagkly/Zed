@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-On-Us Item Definition
+[[On-Us Item Definition]]
 ## What Is an On-Us Item?
 
 An on-us item is a check or draft that is presented to the bank where the check writer has the funds on deposit, as opposed to the depositor's bank (although in some cases both check writer and depositor may happen to use the same bank). The check can then be cashed or deposited into another account.

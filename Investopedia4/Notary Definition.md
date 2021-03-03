@@ -6,22 +6,22 @@ source: https://www.investopedia.com/terms/n/notary.asp
 author: Julia Kagan
 ---
 
-# Notary Definition
+# [[Notary Definition]]
 
 > ## Excerpt
 > A notary is a state-appointed official who witnesses important document signings and verifies the identities of signers to help deter fraud.
 
 ---
 
-Notary Definition
+[[Notary Definition]]
 ## What Is a Notary?
 
-A notary is a publicly commissioned official who serves as an impartial witness to the signing of a legal document. Document signings where the services of a notary are likely include real estate deeds, affidavits, [[wills]](https://www.investopedia.com/terms/w/will.asp), trusts, and [powers of attorney](https://www.investopedia.com/terms/p/powerofattorney.asp). The main reason a notary is used is to deter fraud.
+A notary is a publicly commissioned official who serves as an impartial witness to the signing of a legal document. Document signings where the services of a notary are likely include real [[Estate|estate]] deeds, affidavits, [[wills]](https://www.investopedia.com/terms/w/[[Will|will]].asp), trusts, and [powers of attorney](https://www.investopedia.com/terms/p/powerofattorney.asp). The main reason a notary is used is to deter fraud.
 
 ### Key Takeaways
 
 -   A notary is an impartial witness to the signing or authentication of a legal document.
--   Examples in which notaries are required include real estate deeds, affidavits, wills, trusts, and powers of attorney.
+-   Examples in which notaries are required include real [[Estate|estate]] deeds, affidavits, wills, trusts, and powers of attorney.
 -   Notaries must be at least 18 years old and reside in the state in which they are licensed.1 Thereafter the steps to becoming a notary differ from state to state.
 -   The National Notary Association (NNA) is a good resource for education and information about notaries.
 
@@ -53,4 +53,4 @@ Women were not allowed to be notaries until the 1900s but now outnumber male not
 
 Rose has just purchased an apartment and contacts a notary to finalize the sale. The notary prepares the [[deed]](https://www.investopedia.com/terms/d/deed.asp) of sale and declaration of ownership and finalizes the documents required for the transaction.
 
-As another example, consider the case of Jack who has recently had his will prepared. He and his lawyers sign the will in the presence of a notary.
+As another example, consider the case of Jack who has recently had his [[Will|will]] prepared. He and his lawyers sign the will in the presence of a notary.

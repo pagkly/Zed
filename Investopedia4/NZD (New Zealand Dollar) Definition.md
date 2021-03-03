@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-NZD (New Zealand Dollar) Definition
+[[NZD (New Zealand Dollar) Definition]]
 ## What Is the NZD (New Zealand Dollar)?
 
 The New Zealand dollar ([NZD](https://www.investopedia.com/ask/answers/08/currency-in-new-zealand.asp)) is the currency of New Zealand. NZD is made up of 100 cents and is often represented by the symbol $ or NZ$ to set it apart from other currencies based in dollars. The money also sees use in the Cook Islands, Niue, Tokelau, and the Pitcairn Islands. The New Zealand Dollar is often commonly referred to as a kiwi because of the national bird found stamped on the one-dollar coin.
@@ -38,16 +38,16 @@ In 1934, with the establishment of the Reserve Bank of New Zealand, it became th
 
 The NZD currency has a long history of colorful and vibrant money and since first issuing, has changed its printed design several times. In 1992, the images of Queen Elizabeth on all of the banknotes altered to reflect prominent citizens of New Zealand such as Zealanders Edmund Hillary, Kate Sheppard, Apirana Ngata and Ernest Rutherford, along with local birds and plants on the backs of the notes.
 
-Since 1999, the New Zealand government has produced polymer or plastic versions of the New Zealand dollar, which has made the note more secure against counterfeiting. In addition, the new polymer composition has increased the longevity of the note. It is estimated that the polymer note lasts four times longer than regular linen or paper notes. Interestingly, the polymer note can go through a washing machine without suffering any material damage. In 2016, the currency had its most recent update, with even more bright colors and updated security features.
+Since 1999, the New Zealand government has produced polymer or plastic versions of the New Zealand dollar, which has made the note more secure against counterfeiting. In addition, the new polymer composition has increased the longevity of the note. It is estimated that the polymer note lasts four times longer than regular linen or paper notes. Interestingly, the polymer note can go through a washing machine without suffering any material damage. In 2016, the currency had its most recent update, with even more bright colors and updated [[Security|security]] features.
 
 ## The NZD/USD Forex Market
 
 The value of the NZD/USD pair is quoted as 1 New Zealand dollar per X U.S. dollars. For example, if the pair is trading at 1.50, it means that it takes 1.5 U.S. dollars to buy 1 New Zealand dollar.
 
-The NZD/USD is affected by factors that influence the value of the New Zealand dollar and/or the U.S. dollar in relation to each other and other currencies. For this reason, the interest rate differential between the Reserve Bank of New Zealand (RBNZ) and the Federal Reserve (Fed) will affect the value of these currencies when compared to each other. When the Fed intervenes in open market activities to make the U.S. dollar stronger, for example, the value of the NZD/USD cross could decline, due to a strengthening of the U.S. dollar when compared to the New Zealand dollar.
+The NZD/USD is affected by factors that influence the value of the New Zealand dollar and/or the U.S. dollar in relation to each other and other currencies. For this reason, the interest rate differential between the Reserve Bank of New Zealand (RBNZ) and the Federal Reserve (Fed) [[Will|will]] affect the value of these currencies when compared to each other. When the Fed intervenes in open market activities to make the U.S. dollar stronger, for example, the value of the NZD/USD cross could decline, due to a strengthening of the U.S. dollar when compared to the New Zealand dollar.
 
-The New Zealand dollar is considered a carry trade currency in that it is a relatively high yielding currency so investors will often buy the NZD and fund it with a lower yielding currency such as the Japanese yen or the Swiss franc. Evidence of this was prevalent during the financial crisis when the NZD fell close to 50% against the Japanese yen during the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp). As volatility rose, investors unwound these carry trades, and the NZD was one of many high yielding currencies that fell during 2008 and 2009. 
+The New Zealand dollar is considered a carry trade currency in that it is a relatively high yielding currency so investors [[Will|will]] often buy the NZD and fund it with a lower yielding currency such as the Japanese yen or the Swiss franc. Evidence of this was prevalent during the [[Financial Crisis|financial crisis]] when the NZD fell close to 50% against the Japanese yen during the [Great Recession](https://www.investopedia.com/terms/g/great-recession.asp). As [[Volatility|volatility]] rose, investors unwound these carry trades, and the NZD was one of many high yielding currencies that fell during 2008 and 2009. 
 
-The NZD/USD tends to have a positive correlation to its neighbor, the Australian dollar (AUD/USD).
+The NZD/USD tends to have a positive [[Correlation|correlation]] to its neighbor, the Australian dollar (AUD/USD).
 
-Other factors affecting the NZD are dairy prices and tourism numbers. New Zealand is the worlds biggest exporter of whole milk powder, meaning if milk prices are on the rise the New Zealand economy is likely to be doing well, which will push up the currency. Tourism is another staple of the New Zealand economy, so as numbers to New Zealand rise, the economy does well and the currency appreciates.
+Other factors affecting the NZD are dairy prices and tourism numbers. New Zealand is the worlds biggest exporter of whole milk powder, meaning if milk prices are on the rise the New Zealand economy is likely to be doing well, which [[Will|will]] push up the currency. Tourism is another staple of the New Zealand economy, so as numbers to New Zealand rise, the economy does well and the currency appreciates.
