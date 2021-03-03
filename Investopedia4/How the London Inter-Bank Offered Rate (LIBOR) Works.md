@@ -13,12 +13,12 @@ author: Julia Kagan
 
 ---
 
-How the London Inter-Bank Offered Rate (LIBOR) Works
+[[How the London Inter-Bank Offered Rate (LIBOR) Works]]
 ## What Is London InterBank Offered Rate (LIBOR)?
 
 The London Interbank Offered Rate (LIBOR) is a [benchmark](https://www.investopedia.com/terms/b/benchmark.asp) interest rate at which major global banks lend to one another in the international interbank market for short-term loans.
 
-LIBOR, which stands for London Interbank Offered Rate, serves as a globally accepted key benchmark interest rate that indicates borrowing costs between banks. The rate is calculated and will continue to be published each day by the [[Intercontinental Exchange]](https://www.investopedia.com/terms/i/intercontinentalexchange.asp) (ICE), but due to recent scandals and questions around its validity as a benchmark rate, it is being phased out. According to the Federal Reserve and regulators in the UK, LIBOR will be phased out by June 30, 2023, and will be replaced by the [[Secured Overnight Financing Rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR). As part of this phase-out, LIBOR one-week and two-month USD LIBOR rates will no longer be published after December 31, 2021.1
+LIBOR, which stands for London Interbank Offered Rate, serves as a globally accepted key benchmark interest rate that indicates borrowing costs between banks. The rate is calculated and [[Will|will]] continue to be published each day by the [[Intercontinental Exchange]](https://www.investopedia.com/terms/i/intercontinentalexchange.asp) (ICE), but due to recent scandals and questions around its validity as a benchmark rate, it is being phased out. According to the Federal Reserve and regulators in the UK, LIBOR will be phased out by June 30, 2023, and will be replaced by the [[Secured Overnight Financing Rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR). As part of this phase-out, LIBOR one-week and two-month USD LIBOR rates will no longer be published after December 31, 2021.1
 
 ### Key Takeaways
 
@@ -44,13 +44,13 @@ But there is a downside to using the LIBOR rate. Even though lower borrowing cos
 
 ## How Is LIBOR Calculated?
 
-The IBA has constituted a designated panel of global banks for each currency and tenor pair. For example, 16 major banks, including Bank of America, Barclays, Citibank, Deutsche Bank, JPMorgan Chase, and UBS constitute the panel for U.S. dollar LIBOR.1 Only those banks that have a significant role in the London market are considered eligible for membership on the ICE LIBOR panel, and the selection process is held annually.
+The IBA has constituted a designated panel of global banks for each currency and [[Tenor|tenor]] pair. For example, 16 major banks, including Bank of America, Barclays, Citibank, Deutsche Bank, JPMorgan Chase, and [[UBS]] constitute the panel for U.S. dollar LIBOR.1 Only those banks that have a significant role in the London market are considered eligible for membership on the ICE LIBOR panel, and the selection process is held annually.
 
 As of April 2018, the IBA submitted a new proposal to strengthen the LIBOR calculation methodology. It suggested using a standardized, transaction-based, data-driven, layered method called the Waterfall Methodology for determining LIBOR.2
 
 -   The first transaction-based level involves taking a [[volume-weighted average price]](https://www.investopedia.com/terms/v/vwap.asp) (VWAP) of all eligible transactions a panel bank may have assigned a higher weighting for transactions booked closer to 11:00 a.m. London time.
 -   The second transaction-derived level involved taking submissions based on transaction-derived data from a panel bank if it does not have a sufficient number of eligible transactions to make a Level 1 submission.
--   The third level—expert judgment—comes into play when a panel bank fails to make a Level 1 or a Level 2 submission. It submits the rate at which it could finance itself at 11:00 a.m. London time with reference to the unsecured, wholesale funding market.
+-   The third level—expert judgment—comes into play when a panel bank fails to make a Level 1 or a Level 2 submission. It submits the rate at which it could [[Finance|finance]] itself at 11:00 a.m. London time with reference to the [[Unsecured|unsecured]], wholesale funding market.
 
 The Waterfall Methodology retains the trimmed average calculation.
 
@@ -60,20 +60,20 @@ The IBA calculates the LIBOR rate using a [trimmed mean](https://www.investope
 
 LIBOR is used worldwide in a wide variety of financial products. They include the following:
 
--   Standard interbank products like the forward rate agreements (FRA), interest rate swaps, interest rate [[futures]](https://www.investopedia.com/terms/f/futures.asp), [[options]](https://www.investopedia.com/terms/o/option.asp), and [[swaptions]](https://www.investopedia.com/terms/s/swaption.asp), whereby options provide buyers with the right, but not the obligation, to purchase a security or interest rate product
+-   Standard interbank products like the forward rate agreements (FRA), interest rate swaps, interest rate [[futures]](https://www.investopedia.com/terms/f/[[Futures|futures]].asp), [[options]](https://www.investopedia.com/terms/o/option.asp), and [[swaptions]](https://www.investopedia.com/terms/s/swaption.asp), whereby options provide buyers with the right, but not the obligation, to purchase a [[Security|security]] or interest rate product
 -   Commercial products like floating rate certificate of deposits and notes, variable rate mortgages, and [[syndicated loans]](https://www.investopedia.com/terms/s/syndicatedloan.asp), which are loans offered by a group of lenders
 -   Hybrid products like [[collateralized debt obligations]](https://www.investopedia.com/terms/c/cdo.asp) (CDO), collateralized mortgage obligations (CMO), and a wide variety of accrual notes, callable notes, and perpetual notes
--   Consumer loan-related products like individual mortgages and student loans
+-   Consumer [[Loan|loan]]-related products like individual mortgages and student loans
 
-LIBOR is also used as a standard gauge of market expectation for interest rates finalized by central banks. It accounts for the liquidity premiums for various instruments traded in the money markets, as well as an indicator of the health of the overall banking system. A lot of [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) products are created, launched, and traded in reference to LIBOR. LIBOR is also used as a reference rate for other standard processes like [[clearing]](https://www.investopedia.com/terms/c/clearing.asp), price discovery, and product valuation.
+LIBOR is also used as a standard gauge of market expectation for interest rates finalized by central banks. It accounts for the [[Liquidity|liquidity]] premiums for various instruments traded in the money markets, as well as an indicator of the health of the overall banking system. A lot of [[derivative]](https://www.investopedia.com/terms/d/[[Derivative|derivative]].asp) products are created, launched, and traded in reference to LIBOR. LIBOR is also used as a reference rate for other standard processes like [[clearing]](https://www.investopedia.com/terms/c/clearing.asp), price discovery, and product valuation.
 
 ## A Brief History of LIBOR
 
-The need for a uniform measure of interest rates across financial institutions became necessary as the market for interest rate-based products began evolving during the 1980s. The British Bankers’ Association (BBA)—which represented the banking and financial services industry—set up BBA interest-settlement rates in 1984. Further streamlining led to the evolution of BBA LIBOR in 1986, which became the default standard interest rate for transacting in the interest rate- and currency-based financial dealings between financial institutions at the local and international levels.4
+The need for a uniform measure of interest rates across financial institutions became necessary as the market for interest rate-based products began evolving during the 1980s. The British Bankers’ Association (BBA)—which represented the banking and financial services industry—set up BBA interest-settlement rates in 1984. Further streamlining led to the evolution of BBA LIBOR in 1986, which became the [[Default|default]] standard interest rate for transacting in the interest rate- and currency-based financial dealings between financial institutions at the local and international levels.4
 
 Since then, LIBOR has undergone many changes. The major one is when [[BBA]](https://www.investopedia.com/terms/b/britishba.asp) LIBOR changed to ICE LIBOR in February 2014 after the Intercontinental Exchange took over the administration.5
 
-Currencies involved in calculating LIBOR have also changed. While new currency rates have been added, many have been removed or integrated following the introduction of the euro rates. The 2008 financial crisis saw a significant decline in the number of tenors for which LIBOR was calculated.6
+Currencies involved in calculating LIBOR have also changed. While new currency rates have been added, many have been removed or integrated following the introduction of the euro rates. The 2008 [[Financial Crisis|financial crisis]] saw a significant decline in the number of tenors for which LIBOR was calculated.6
 
 ## LIBOR Equivalents
 
@@ -85,24 +85,24 @@ For instance, Europe has the European Interbank Offered Rate (EURIBOR), Japan 
 
 While LIBOR has been a long-established global benchmark standard for interest rates, it has had its fair share of controversies including a major [[scandal of rate rigging]](https://www.investopedia.com/terms/l/libor-scandal.asp). Major banks allegedly colluded to manipulate the LIBOR rates. They took traders' requests into account and submitted artificially low LIBOR rates to keep them at their preferred levels. The intention behind the alleged malpractice was to bump up traders’ profits who were holding positions in LIBOR-based financial securities.7
 
-Following reporting by the Wall Street Journal in 2008, major global banks, which were on the panels and contributed to the LIBOR determination process, faced regulatory scrutiny.8 It involved investigations by the U.S. Department of Justice. Similar investigations were launched in other parts of the globe including in the U.K. and Europe. Major [[banks and financial institutions]](https://www.investopedia.com/ask/answers/09/difference-between-libid-libor.asp) including Barclays, ICAP, Rabobank, Royal Bank of Scotland, UBS, and Deutsche Bank faced heavy fines. Punitive actions were also taken on their employees who were found to be involved in the malpractice.7 The scandal was also one of the primary reasons why LIBOR shifted from BBA administration to ICE.
+Following reporting by the Wall Street [[Journal]] in 2008, major global banks, which were on the panels and contributed to the LIBOR determination process, faced regulatory scrutiny.8 It involved investigations by the U.S. Department of Justice. Similar investigations were launched in other parts of the globe including in the U.K. and Europe. Major [[banks and financial institutions]](https://www.investopedia.com/ask/answers/09/difference-between-libid-libor.asp) including Barclays, ICAP, Rabobank, Royal Bank of Scotland, [[UBS]], and Deutsche Bank faced heavy fines. Punitive actions were also taken on their employees who were found to be involved in the malpractice.7 The scandal was also one of the primary reasons why LIBOR shifted from BBA administration to ICE.
 
 ## Special Considerations: Phasing Out LIBOR
 
-Although LIBOR has been used since the 1980s, regulatory reforms have begun in recent years to reform benchmark rates and ultimately replace LIBOR as the interbank borrowing rate. It's expected that U.K. regulators will no longer require banks to publish LIBOR rates after 2021.1
+Although LIBOR has been used since the 1980s, regulatory reforms have begun in recent years to reform benchmark rates and ultimately replace LIBOR as the interbank borrowing rate. It's expected that U.K. regulators [[Will|will]] no longer require banks to publish LIBOR rates after 2021.1
 
-The new system is designed to replace the conjecture surrounding interest rates that was predominant under LIBOR and instead use actual transaction rates. The [[secured overnight financing rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR) will replace LIBOR in 2023. The SOFR is also a benchmark interest rate used for dollar-denominated loans and derivative contracts. SOFR is different than LIBOR in that it's based on actual observed transactions in the U.S. Treasury market while LIBOR used estimations of borrowing rates.
+The new system is designed to replace the conjecture surrounding interest rates that was predominant under LIBOR and instead use actual transaction rates. The [[secured overnight financing rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR) [[Will|will]] replace LIBOR in 2023. The SOFR is also a benchmark interest rate used for dollar-denominated loans and [[Derivative|derivative]] contracts. SOFR is different than LIBOR in that it's based on actual observed transactions in the U.S. Treasury market while LIBOR used estimations of borrowing rates.
 
 However, SOFR is likely to be used in the U.S. and the U.K. but other countries are exploring using their own version of a benchmark rate for when LIBOR is phased out.
 
 ## Examples of LIBOR-Based Products and Transactions
 
-The most straightforward example of a LIBOR-based transaction is a floating rate bond, which pays an annual interest based on LIBOR, say at LIBOR + 0.5%. As the value of LIBOR changes, the interest payment will change.
+The most straightforward example of a LIBOR-based transaction is a floating rate bond, which pays an annual interest based on LIBOR, say at LIBOR + 0.5%. As the value of LIBOR changes, the interest payment [[Will|will]] change.
 
 LIBOR also applies to interest rate swaps—contractual agreements between two parties to exchange interest payments at a specified time. Assume Paul owns a $1 million investment that pays him a variable LIBOR-based interest rate equal to LIBOR + 1% each quarter. Since his earnings are subject to LIBOR values and are variable in nature, he wants to switch to fixed-rate interest payments. Then there is Peter, who has a similar $1 million investment, which pays him a fixed interest of 1.5% per quarter. He wishes to get a variable earning, as it may occasionally give him higher payments.
 
-Both Paul and Peter can enter into a swap agreement, exchanging their respective interest receipts. Paul will receive the fixed 1.5% interest over his $1 million investment from Peter, which equals $15,000 while Peter receives LIBOR + 1% variable interest from Paul.
+Both Paul and Peter can enter into a [[Swap|swap]] agreement, exchanging their respective interest receipts. Paul [[Will|will]] receive the fixed 1.5% interest over his $1 million investment from Peter, which equals $15,000 while Peter receives LIBOR + 1% variable interest from Paul.
 
-If LIBOR is 1%, then Peter will receive 2% or $20,000 from Paul. Since this figure is higher than what he owes to Paul, in net terms, Peter will get $5,000 ($20,000 - $15,000) from Paul. By next quarter, if LIBOR comes down to 0.25%, Peter will be eligible to receive 1.25% or $12,500 from Paul. In net terms, Paul will get $2,500 ($15,000 - $12,500) from Peter.
+If LIBOR is 1%, then Peter [[Will|will]] receive 2% or $20,000 from Paul. Since this figure is higher than what he owes to Paul, in net terms, Peter will get $5,000 ($20,000 - $15,000) from Paul. By next quarter, if LIBOR comes down to 0.25%, Peter will be eligible to receive 1.25% or $12,500 from Paul. In net terms, Paul will get $2,500 ($15,000 - $12,500) from Peter.
 
 Such swaps essentially fulfill the requirement of both the transacting parties who wanted to change the type of interest receipts (fixed and floating).

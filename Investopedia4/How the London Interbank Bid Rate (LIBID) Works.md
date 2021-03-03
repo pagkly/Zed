@@ -13,19 +13,19 @@ author: Adam Hayes
 
 ---
 
-How the London Interbank Bid Rate (LIBID) Works
+[[How the London Interbank Bid Rate (LIBID) Works]]
 ## What Is the London Interbank Bid Rate (LIBID)?
 
-The London Interbank Bid Rate (LIBID) is the average interest rate at which major London banks bid for eurocurrency deposits from other banks in the [[interbank]](https://www.investopedia.com/terms/i/interbankmarket.asp) market. It is the bid rate that banks are willing to pay for [eurocurrency](https://www.investopedia.com/terms/e/eurocurrency.asp) deposits and other banks' unsecured funds in the London interbank market, while the more popular [[LIBOR]](https://www.investopedia.com/terms/l/libor.asp) is the offered rate.
+The London Interbank Bid Rate (LIBID) is the average interest rate at which major London banks bid for eurocurrency deposits from other banks in the [[interbank]](https://www.investopedia.com/terms/i/interbankmarket.asp) market. It is the bid rate that banks are willing to pay for [eurocurrency](https://www.investopedia.com/terms/e/eurocurrency.asp) deposits and other banks' [[Unsecured|unsecured]] funds in the London interbank market, while the more popular [[LIBOR]](https://www.investopedia.com/terms/l/libor.asp) is the offered rate.
 
 Eurocurrency deposits refer to money in the form of bank deposits of a currency outside that currency's issuing country. They may be of any currency in any country.
 
-As a result of the LIBOR phase-out following recent [[rate fixing scandals]](https://www.investopedia.com/terms/l/libor-scandal.asp), LIBID will also be phased out beginning in 2021.1
+As a result of the LIBOR phase-out following recent [[rate fixing scandals]](https://www.investopedia.com/terms/l/libor-scandal.asp), LIBID [[Will|will]] also be phased out beginning in 2021.1
 
 ### Key Takeaways
 
 -   LIBID is the London Interbank Bid Rate, the "bid" rate at which banks are willing to borrow eurocurrency deposits.
--   The "offer" rate at which banks are willing to lend to each other is the more popular LIBOR.
+-   The "[[Offer|offer]]" rate at which banks are willing to lend to each other is the more popular LIBOR.
 -   The most common currency deposited as eurocurrency is the U.S. dollar.
 -   Both LIBOR and LIBID are being phased out beginning in 2021 due to recent fixing scandals.
 
@@ -39,15 +39,15 @@ While LIBOR is a popular benchmark interest rate that is calculated and publishe
 
 ## The Difference Between LIBID and LIBOR
 
-Both LIBID and LIBOR are reference rates set by banks in the London interbank market. The London interbank market is a wholesale money market in London where banks exchange currencies either directly or through electronic trading platforms.
+Both LIBID and LIBOR are reference rates set by banks in the London interbank market. The London interbank market is a [[Wholesale Money|wholesale money]] market in London where banks exchange currencies either directly or through electronic trading platforms.
 
 LIBOR is the benchmark rate for interbank lending and is calculated for seven maturities for five currencies: the [Swiss franc](https://www.investopedia.com/terms/c/chf.asp), the euro, the [pound sterling](https://www.investopedia.com/articles/forex/11/british-pound-what-every-fx-trader-should-know.asp), the U.S. dollar, and the [Japanese yen](https://www.investopedia.com/terms/j/jpy.asp). There are actually 35 rates that are released to the market every day.
 
-Due to recent scandals and questions around its validity as a benchmark rate, LIBOR is being phased out. According to the Federal Reserve and regulators in the U.K., LIBOR will be phased out by June 30, 2023, and will be replaced by the [[Secured Overnight Financing Rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR). As part of this phase-out, LIBOR one-week and two-month USD LIBOR rates will no longer be published after December 31, 2021.1 
+Due to recent scandals and questions around its validity as a benchmark rate, LIBOR is being phased out. According to the Federal Reserve and regulators in the U.K., LIBOR [[Will|will]] be phased out by June 30, 2023, and will be replaced by the [[Secured Overnight Financing Rate]](https://www.investopedia.com/secured-overnight-financing-rate-sofr-4683954) (SOFR). As part of this phase-out, LIBOR one-week and two-month USD LIBOR rates will no longer be published after December 31, 2021.1 
 
 ## How the LIBID Rate Is Used
 
-Both of these rates (especially LIBOR) are considered the foremost global reference rates for short-term interest rates of a variety of global financial instruments such as short-term interest futures contracts, forward rate agreements, interest rate swaps, and currency options.
+Both of these rates (especially LIBOR) are considered the foremost global reference rates for short-term interest rates of a variety of global financial instruments such as short-term interest [[Futures|futures]] contracts, forward rate agreements, interest rate swaps, and currency options.
 
 LIBOR is also a key driver in the eurodollar market and is the basis for retail products like mortgages and student loans. They are derived from a filtered average of the world's most creditworthy banks' interbank bid/ask rates for institutional loans with maturities that range between overnight and one year.
 

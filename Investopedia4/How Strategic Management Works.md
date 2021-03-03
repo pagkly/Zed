@@ -3,7 +3,7 @@ alias: [Strategic Management]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Strategic Management Definition, How Strategic Management Works]
 source: https://www.investopedia.com/terms/s/strategic-management.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Strategic Management Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-How Strategic Management Works
+[[How Strategic Management Works]]
 ## What Is Strategic Management?
 
 Strategic management is the management of an organization’s resources to achieve its goals and objectives. Strategic management involves setting objectives, analyzing the competitive environment, analyzing the internal organization, evaluating strategies, and ensuring that management rolls out the strategies [[across the organization]](https://www.investopedia.com/terms/m/mckinsey-7s-model.asp).
@@ -58,4 +58,4 @@ In business, strategic management is important because it allows a company to an
 
 ### What is an example of strategic management?
 
-Consider a large company that wants to achieve more ambitious online sales rates. To meet these goals, the company will develop a strategy, communicate this strategy, apply it across various units and departments in the organization, integrate this with employee goals, and execute accordingly. If an effective strategy is applied, ideally, it will help the company achieve its' targets through a single, coordinated process.
+Consider a large company that wants to achieve more ambitious online sales rates. To meet these goals, the company [[Will|will]] develop a strategy, communicate this strategy, apply it across various units and departments in the organization, integrate this with employee goals, and execute accordingly. If an effective strategy is applied, ideally, it will help the company achieve its' targets through a single, coordinated process.

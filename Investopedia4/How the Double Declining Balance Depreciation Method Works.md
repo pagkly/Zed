@@ -13,17 +13,17 @@ author: Adam Hayes
 
 ---
 
-How the Double Declining Balance Depreciation Method Works
+[[How the Double Declining Balance Depreciation Method Works]]
 ## What Is the Double Declining Balance (DDB) Depreciation Method?
 
-The double declining balance [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) (DDB) method, also known as the reducing balance method, is one of two common methods a business uses to account for the expense of a long-lived asset. The double declining balance depreciation method is an [[accelerated depreciation]](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) method that counts as an expense more rapidly (when compared to [[straight-line depreciation]](https://www.investopedia.com/terms/s/straightlinebasis.asp) that uses the same amount of depreciation each year over an asset's useful life). Similarly, compared to the standard [[declining balance method]](https://www.investopedia.com/terms/d/decliningbalancemethod.asp), the double declining method depreciates assets twice as quickly.
+The double declining balance [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) (DDB) method, also known as the reducing balance method, is one of two common methods a business uses to account for the expense of a long-lived asset. The double declining balance depreciation method is an [[accelerated depreciation]](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) method that counts as an expense more rapidly (when compared to [[straight-line depreciation]](https://www.investopedia.com/terms/s/straightlinebasis.asp) that uses the same amount of depreciation each year over an asset's [[Useful Life|useful life]]). Similarly, compared to the standard [[declining balance method]](https://www.investopedia.com/terms/d/decliningbalancemethod.asp), the double declining method depreciates assets twice as quickly.
 
 ### Key Takeaways
 
 -   The double declining balance (DDB) method is an accelerated depreciation calculation used in business accounting.
 -   Specifically, the DDB method depreciates assets twice as fast as the traditional declining balance method.
--   The DDB method records larger depreciation expenses during the earlier years of an asset’s useful life, and smaller ones in later years.
--   As a result, companies opt for the DDB method for assets that are likely to lose most of their value early on, or which will become obsolete more quickly.
+-   The DDB method records larger depreciation expenses during the earlier years of an asset’s [[Useful Life|useful life]], and smaller ones in later years.
+-   As a result, companies opt for the DDB method for assets that are likely to lose most of their value early on, or which [[Will|will]] become obsolete more quickly.
 
 #### Double Declining Balance Depreciation Method
 
@@ -31,7 +31,7 @@ The double declining balance [[depreciation]](https://www.investopedia.com/terms
 
 Depreciation\=2×SLDP×BVwhere:SLDP = Straight-line depreciation percentBV = Book value at the beginning of the period\\begin{aligned} &\\text{Depreciation}=2\\times \\text{SLDP}\\times\\text{BV}\\\\ &\\textbf{where:}\\\\ &\\text{SLDP = Straight-line depreciation percent}\\\\ &\\text{BV = Book value at the beginning of the period}\\\\ \\end{aligned}
 
-Under the [[generally accepted accounting principles (GAAP)]](https://www.investopedia.com/terms/g/gaap.asp) for public companies, expenses are recorded in the same period as the revenue that is earned as a result of those expenses.1 Thus, when a company purchases an expensive asset that will be used for many years, it does not deduct the entire purchase price as a business expense in the year of purchase but instead deducts the price over several years.2
+Under the [[generally accepted accounting principles (GAAP)]](https://www.investopedia.com/terms/g/gaap.asp) for public companies, expenses are recorded in the same period as the revenue that is earned as a result of those expenses.1 Thus, when a company purchases an expensive asset that [[Will|will]] be used for many years, it does not deduct the entire [[Purchase Price|purchase price]] as a business expense in the year of purchase but instead deducts the price over several years.2
 
 Because the double [[declining balance method]](https://www.investopedia.com/terms/d/decliningbalancemethod.asp) results in larger depreciation expenses near the beginning of an asset’s life—and smaller depreciation expenses later on—it makes sense to use this method with assets that lose value quickly.
 

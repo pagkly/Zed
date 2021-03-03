@@ -13,20 +13,20 @@ author: Julia Kagan
 
 ---
 
-How Subrogation Works
+[[How Subrogation Works]]
 ## What Is Subrogation?
 
-Subrogation is a term describing a right held by most insurance carriers to legally pursue a third party that caused an insurance loss to the insured. This is done in order to recover the amount of the [[claim]](https://www.investopedia.com/terms/i/insurance_claim.asp) paid by the insurance carrier to the insured for the loss.
+Subrogation is a term describing a right held by most insurance carriers to legally pursue a [[Third Party|third party]] that caused an insurance loss to the insured. This is done in order to recover the amount of the [[claim]](https://www.investopedia.com/terms/i/insurance_claim.asp) paid by the insurance carrier to the insured for the loss.
 
-When an [[insurance]](https://www.investopedia.com/articles/pf/06/insureneeds.asp) company pursues a third party for damages, it is said to "step into the shoes of the policyholder," and thus will have the same rights and legal standing as the policyholder when seeking compensation for losses. If the insured party does not have the legal standing to sue the third party, the insurer will also be unable to pursue a lawsuit as a result.
+When an [[insurance]](https://www.investopedia.com/articles/pf/06/insureneeds.asp) company pursues a [[Third Party|third party]] for damages, it is said to "step into the shoes of the policyholder," and thus [[Will|will]] have the same rights and legal standing as the policyholder when seeking compensation for losses. If the insured party does not have the legal standing to sue the third party, the insurer will also be unable to pursue a lawsuit as a result.
 
-## How Subrogation Works
+## [[How Subrogation Works]]
 
 Subrogation literally refers to the act of one person or party standing in the place of another person or party. Subrogation effectively defines the rights of the insurance company both before and after it has paid claims made against a policy. Subrogation makes obtaining a settlement under an insurance policy go more smoothly.
 
-In most cases, an individual’s insurance company pays its client’s claim for losses directly, then seeks reimbursement from the other party, or his insurance company. The insured client receives payment promptly, which is what he pays his insurance company to do; then, the insurance company may pursue a subrogation claim against the party at fault for the loss.
+In most cases, an individual’s insurance company pays its client’s claim for losses directly, then seeks [[Reimbursement|reimbursement]] from the other party, or his insurance company. The insured client receives payment promptly, which is what he pays his insurance company to do; then, the insurance company may pursue a subrogation claim against the party at fault for the loss.
 
-Insurance policies may contain language that entitles an insurer, once losses are paid on claims, to seek recovery of funds from a [third party](https://www.investopedia.com/terms/t/third-party.asp) if that third party caused the loss. The insured does not have the right both to file a claim with the insurer to receive the coverage outlined in the insurance policy and to seek damages from the third party that caused the losses.
+Insurance policies may contain language that entitles an insurer, once losses are paid on claims, to seek recovery of funds from a [third party](https://www.investopedia.com/terms/t/third-party.asp) if that [[Third Party|third party]] caused the loss. The insured does not have the right both to file a claim with the insurer to receive the coverage outlined in the insurance policy and to seek damages from the third party that caused the losses.
 
 Subrogation in the insurance sector, especially among [[auto insurance]](https://www.investopedia.com/terms/a/auto-insurance.asp) policies, occurs when the insurance carrier takes on the financial burden of the insured as the result of an injury or accident payment and seeks repayment from the at-fault party.
 
@@ -36,8 +36,8 @@ Subrogation is not only relegated to auto insurers and auto policyholders. Anoth
 
 ### Key Takeaways
 
--   Subrogation is a term describing a legal right held by most insurance carriers to legally pursue a third party that caused an insurance loss to the insured. 
--   Subrogation makes obtaining a settlement under an insurance policy go smoothly. In most cases, an individual’s insurance company pays its client’s claim for losses directly, then seeks reimbursement from the other party, or his insurance company.
+-   Subrogation is a term describing a legal right held by most insurance carriers to legally pursue a [[Third Party|third party]] that caused an insurance loss to the insured. 
+-   Subrogation makes obtaining a settlement under an insurance policy go smoothly. In most cases, an individual’s insurance company pays its client’s claim for losses directly, then seeks [[Reimbursement|reimbursement]] from the other party, or his insurance company.
 -   Subrogation is most common in an auto insurance policy but also occurs in property/casualty and healthcare policy claims.
 
 ## Special Considerations
@@ -50,6 +50,6 @@ In the case of an accident, it is still important to stay in communication with 
 
 ### Waivers of Subrogation
 
-A [[waiver of subrogation]](https://www.investopedia.com/terms/w/waiver-of-subrogation.asp) is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent third party. Typically, insurers charge an additional fee for this special policy endorsement. Many construction contracts and leases include a waiver of subrogation clause.
+A [[waiver of subrogation]](https://www.investopedia.com/terms/w/waiver-of-subrogation.asp) is a contractual provision whereby an insured waives the right of their insurance carrier to seek redress or seek compensation for losses from a negligent [[Third Party|third party]]. Typically, insurers charge an additional fee for this special policy endorsement. Many construction contracts and leases include a waiver of subrogation clause.
 
-Such provisions prevent one party’s insurance carrier from pursuing a claim against the other contractual party in an attempt to recover money paid by the insurance company to the insured or to a third party to resolve a covered claim. In other words, if subrogation is waived, the insurance company cannot "step into the client's shoes" once a claim has been settled and sue the other party to recoup their losses. Thus, if subrogation is waived, the insurer is exposed to greater risk.
+Such provisions prevent one party’s insurance carrier from pursuing a claim against the other contractual party in an attempt to recover money paid by the insurance company to the insured or to a [[Third Party|third party]] to resolve a covered claim. In other words, if subrogation is waived, the insurance company cannot "step into the client's shoes" once a claim has been settled and sue the other party to recoup their losses. Thus, if subrogation is waived, the insurer is exposed to greater [[Risk|risk]].

@@ -9,30 +9,30 @@ author: Adam Hayes
 # Safe Harbor Definition
 
 > ## Excerpt
-> A safe harbor is a legal provision to reduce or eliminate liability in certain situations as long as certain conditions are met.
+> A safe harbor is a legal provision to reduce or eliminate [[Liability|liability]] in certain situations as long as certain conditions are met.
 
 ---
 
-How Safe Harbors Work
+[[How Safe Harbors Work]]
 ## What Is a Safe Harbor?
 
-A safe harbor is a legal provision to sidestep or eliminate legal or regulatory liability in certain situations, provided that certain conditions are met.
+A safe harbor is a legal provision to sidestep or eliminate legal or regulatory [[Liability|liability]] in certain situations, provided that certain conditions are met.
 
-The phrase safe harbor also has uses in the finance, real estate, and legal industries. The term safe harbor may also be used to refer to a "[shark repellent](https://www.investopedia.com/terms/s/sharkrepellent.asp)" tactic used by companies who want to avert a hostile takeover; the company may purposefully acquire a heavily-regulated company to make themselves look less attractive to the entity that is considering taking them over.
+The phrase safe harbor also has uses in the [[Finance|finance]], real [[Estate|estate]], and legal industries. The term safe harbor may also be used to refer to a "[shark repellent](https://www.investopedia.com/terms/s/sharkrepellent.asp)" tactic used by companies who want to avert a [[Hostile Takeover|hostile takeover]]; the company may purposefully acquire a heavily-regulated company to make themselves look less attractive to the entity that is considering taking them over.
 
 Safe harbors are also accounting methods that avoid legal or tax regulations, or one that allows for a simpler method of determining a tax consequence than the methods described by the precise language of the tax code.
 
 ### Key Takeaways
 
--   A safe harbor is a legal provision to reduce or eliminate legal or regulatory liability in certain situations as long as certain conditions are met.
--   The term also refers to tactics used by companies who want to avert a hostile takeover.
+-   A safe harbor is a legal provision to reduce or eliminate legal or regulatory [[Liability|liability]] in certain situations as long as certain conditions are met.
+-   The term also refers to tactics used by companies who want to avert a [[Hostile Takeover|hostile takeover]].
 -   Safe harbor can also refer to an accounting method that avoids legal or tax regulations.
 
 ## Understanding Safe Harbors
 
-A safe harbor may refer to a strategy used by companies that are trying to thwart a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp). In many cases, a company will make special amendments to its charter or bylaws that become active only when a takeover attempt is announced or presented to shareholders with the goal of making the takeover less attractive or profitable to the acquiring firm.
+A safe harbor may refer to a strategy used by companies that are trying to thwart a [[hostile takeover]](https://www.investopedia.com/terms/h/hostiletakeover.asp). In many cases, a company [[Will|will]] make special amendments to its charter or bylaws that become active only when a takeover attempt is announced or presented to shareholders with the goal of making the takeover less attractive or profitable to the acquiring firm.
 
-Safe harbor provisions, as they relate to regulatory liability, appear in a number of laws or contracts. For example, under the regulatory guidelines of the Securities and Exchange Commission (SEC), safe harbor provisions protect management from liability for making financial projections and forecasts in good faith.
+Safe harbor provisions, as they relate to regulatory [[Liability|liability]], appear in a number of laws or contracts. For example, under the regulatory guidelines of the [[Securities and Exchange Commission (SEC)]], safe harbor provisions protect management from liability for making financial projections and forecasts in good faith.
 
 Similarly, individuals with websites can use a safe harbor provision to protect themselves from copyright infringement cases based on comments left on their websites.
 

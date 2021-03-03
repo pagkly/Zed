@@ -13,7 +13,7 @@ author: Caroline Banton
 
 ---
 
-How Royalties Work
+[[How Royalties Work]]
 ## What Is a Royalty?
 
 A royalty is a legally-binding payment made to an individual, for the ongoing use of his or her originally-created assets, including copyrighted works, [[franchises,]](https://www.investopedia.com/terms/f/franchise.asp) and natural resources. But royalties are predominantly associated with musicians, who receive such payments whenever their originally-recorded songs are played on the radio or television, used in movies, performed at concerts, bars, and restaurants, or consumed via streaming services. In most cases, royalties are revenue generators specifically designed to compensate the owners of songs or properties, when they license out their assets for another party's use.
@@ -40,11 +40,11 @@ The terms of royalty payments are laid out in a [[license agreement]](https://ww
 
 In most license agreements, royalty rates are defined as a percentage of sales or a payment per unit. The many factors that can affect royalty rates include exclusivity of rights, available alternatives, risks involved, market demand, and innovation levels of the products in question.
 
-To accurately estimate [[royalty rates]](https://www.investopedia.com/articles/personal-finance/121614/how-pandora-and-spotify-pay-artists.asp), the transactions between the buying and selling parties must be willingly executed. In other words: the agreements must not be forced. Furthermore, all royalty transactions must be conducted at arm's length, meaning that both parties act independently, and have no prior relationship with one other.
+To accurately estimate [[royalty rates]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/121614/how-pandora-and-spotify-pay-artists.asp), the transactions between the buying and selling parties must be willingly executed. In other words: the agreements must not be forced. Furthermore, all royalty transactions must be conducted at arm's length, meaning that both parties act independently, and have no prior relationship with one other.
 
 ## _Key Takeaways_
 
--   _A royalty is an amount paid by a third party to an owner of a product or patent for the use of that product or patent._
+-   _A royalty is an amount paid by a [[Third Party|third party]] to an owner of a product or patent for the use of that product or patent._
 -   _The terms of royalty payments are laid out in a license agreement._
 -   _The royalty rate or the amount of the royalty is typically a percentage based on factors such as exclusivity of rights, technology, and the available alternatives._
 

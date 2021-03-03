@@ -3,22 +3,22 @@ alias: [Patent]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Patent Definition, How Patents Work and Notable Patents That Changed How We Live]
 source: https://www.investopedia.com/terms/p/patent.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Patent Definition
 
 > ## Excerpt
-> A patent is the granting of a property right by a sovereign authority to an inventor. This grant provides the inventor exclusive rights to the patented process, design, or invention for a designated period in exchange for a comprehensive disclosure of the invention.
+> A patent is the granting of a property right by a sovereign authority to an inventor. This [[Grant|grant]] provides the inventor exclusive rights to the patented process, design, or invention for a designated period in exchange for a comprehensive disclosure of the invention.
 
 ---
 
-How Patents Work and Notable Patents That Changed How We Live
+[[How Patents Work and Notable Patents That Changed How We Live]]
 ## What Is a Patent?
 
-A patent is the granting of a property right by a sovereign authority to an inventor. This grant provides the inventor exclusive rights to the patented process, design, or invention for a designated period in exchange for a comprehensive disclosure of the invention. They are a form of [[incorporeal right]](https://www.investopedia.com/terms/i/incorporeal-rights.asp).
+A patent is the granting of a property right by a sovereign authority to an inventor. This [[Grant|grant]] provides the inventor exclusive rights to the patented process, design, or invention for a designated period in exchange for a comprehensive disclosure of the invention. They are a form of [[incorporeal right]](https://www.investopedia.com/terms/i/incorporeal-rights.asp).
 
-Government agencies typically handle and approve applications for patents. In the United States, the U.S. Patent and Trademark Office (USPTO), which is part of the Department of Commerce, handles applications and grants approvals.
+Government agencies typically handle and approve applications for patents. In the United States, the U.S. Patent and Trademark Office (USPTO), which is part of the Department of [[Commerce]], handles applications and grants approvals.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ Most patents are valid for 20 years in the U.S. from the date the application wa
 
 According to the [[U.S. Patent and Trademark Office]](https://www.uspto.gov/patents-getting-started/general-information-concerning-patents#heading-4), a patent can be granted to any person who:
 
-> Invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent, subject to the conditions and requirements of the [[law]](https://www.investopedia.com/articles/personal-finance/010715/worlds-top-10-law-firms.asp).
+> Invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent, subject to the conditions and requirements of the [[law]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/010715/worlds-top-10-law-firms.asp).
 
 There are three types of patents:
 

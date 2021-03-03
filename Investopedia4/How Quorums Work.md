@@ -9,14 +9,14 @@ author: Adam Hayes
 # Quorum Definition
 
 > ## Excerpt
-> A quorum is a minimum acceptable level of individuals with a vested interest in a company needed to make the proceedings of a meeting valid.
+> A quorum is a minimum acceptable level of individuals with a [[Vested Interest|vested interest]] in a company needed to make the proceedings of a meeting valid.
 
 ---
 
-How Quorums Work
+[[How Quorums Work]]
 ## What Is a Quorum?
 
-A quorum refers to the minimum acceptable level of individuals with a vested interest in a company needed to make the proceedings of a meeting valid under the [[corporate charter]](https://www.investopedia.com/terms/c/corporatecharter.asp). This clause or general agreement ensures there is sufficient representation present at meetings before any changes can be made by the board.
+A quorum refers to the minimum acceptable level of individuals with a [[Vested Interest|vested interest]] in a company needed to make the proceedings of a meeting valid under the [[corporate charter]](https://www.investopedia.com/terms/c/corporatecharter.asp). This clause or general agreement ensures there is sufficient representation present at meetings before any changes can be made by the board.
 
 A quorum normally consists of a group that is considered as large as possible to be depended on to attend all corporate meetings, which is a qualitative assessment. The plural of a quorum is "quora."
 
@@ -29,11 +29,11 @@ A quorum normally consists of a group that is considered as large as possible to
 
 ## How a Quorum Works
 
-Since there is no strict number that constitutes a quorum, [[best practices]](https://www.investopedia.com/terms/b/best_practices.asp) suggest a quorum is established as a simple majority of members within an organization. It is also possible to outline a hard number in the by-laws of a company, in which case it overrides the simple majority if that number is larger. It is important that the number decided on is not so small that it doesn't accurately represent the entirety of the members, but not so large that it becomes hard to legally hold a meeting.
+Since there is no strict number that constitutes a quorum, [[best practices]](https://www.investopedia.com/terms/b/best_practices.asp) suggest a quorum is established as a simple majority of members within an organization. It is also possible to outline a hard number in the by-laws of a company, in which case it overrides the simple majority if that number is larger. It is important that the number decided on is not so small that it doesn't accurately represent the entirety of the members, but not so large that it becomes hard to legally [[Hold|hold]] a meeting.
 
 Regardless, the quorum number should be representative of members in a decision-making role. If, for example, a company has ten board members, a quorum could be a simple majority of six board members rather than 51% of every [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) in the company.
 
-The number decided on should not be so small that it doesn't accurately represent the entirety of the members, but not so large that it becomes hard to legally hold a meeting.
+The number decided on should not be so small that it doesn't accurately represent the entirety of the members, but not so large that it becomes hard to legally [[Hold|hold]] a meeting.
 
 ## Special Considerations
 

@@ -3,7 +3,7 @@ alias: [Organizational Structure]
 created: 2021-03-02T22:29:30 (UTC +11:00)
 tags: [Organizational Structure, How Organizational Structures Work]
 source: https://www.investopedia.com/terms/o/organizational-structure.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Organizational Structure
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-How Organizational Structures Work
+[[How Organizational Structures Work]]
 ## What Is an Organizational Structure?
 
 An organizational structure is a system that outlines how certain activities are directed in order to achieve the goals of an organization. These activities can include rules, roles, and responsibilities.
@@ -70,7 +70,7 @@ Putting an organizational structure in place can be very beneficial to a company
 
 The structure also makes operations more efficient and much more effective. By separating employees and functions into different departments, the company can perform different operations at once seamlessly.
 
-In addition, a very clear organizational structure informs employees how best to get their jobs done. For example, in a hierarchical organization, employees will have to work harder at buying favor or courting those with decision-making power. In a decentralized organization, employees must take on more initiative and bring creative problem solving to the table. This can also help set expectations for how employees can track their own growth within a company and emphasize a certain set of skills--as well as for potential employees to gauge if such a company would be a good fit with their own interests and work styles.
+In addition, a very clear organizational structure informs employees how best to get their jobs done. For example, in a hierarchical organization, employees [[Will|will]] have to work harder at buying favor or courting those with decision-making power. In a decentralized organization, employees must take on more initiative and bring creative problem solving to the table. This can also help set expectations for how employees can track their own growth within a company and emphasize a certain set of skills--as well as for potential employees to gauge if such a company would be a good fit with their own interests and work styles.
 
 ## Organizational Structure FAQs
 
@@ -96,4 +96,4 @@ There is no one best organizational structure, as it depends on the nature of th
 
 ## The Bottom Line
 
-There are entire fields of study based on how to optimize and best structure organizations to be the most effective and productive. Senior leaders should consider a variety of factors before [[deciding which type of organization is best for their business]](https://www.investopedia.com/articles/personal-finance/120915/which-type-organization-best-your-business.asp), including the business goals, industry, and culture of the company.
+There are entire fields of study based on how to optimize and best structure organizations to be the most effective and productive. Senior leaders should consider a variety of factors before [[deciding which type of organization is best for their business]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/120915/which-type-organization-best-your-business.asp), including the business goals, industry, and culture of the company.

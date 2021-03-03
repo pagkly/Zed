@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How Simple Random Samples Work
+[[How Simple Random Samples Work]]
 ## What Is a Simple Random Sample?
 
 A simple random sample is a subset of a statistical population in which each member of the subset has an equal probability of being chosen. A simple random sample is meant to be an unbiased representation of a group.
@@ -50,7 +50,7 @@ Simple random samples and stratified random samples are [[both statistical measu
 
 Unlike simple random samples, stratified random samples are used with populations that can be easily broken into different subgroups or subsets. These groups are based on certain criteria, then elements from each are randomly chosen in proportion to the group's size versus the population.
 
-This method of sampling means there will be selections from each different group—the size of which is based on its proportion to the entire population. But the researchers must ensure the strata do not overlap. Each point in the population must only belong to one stratum so each point is [mutually exclusive](https://www.investopedia.com/terms/m/mutuallyexclusive.asp). Overlapping strata would increase the likelihood that some data are included, thus skewing the sample.
+This method of sampling means there [[Will|will]] be selections from each different group—the size of which is based on its proportion to the entire population. But the researchers must ensure the strata do not overlap. Each point in the population must only belong to one stratum so each point is [mutually exclusive](https://www.investopedia.com/terms/m/mutuallyexclusive.asp). Overlapping strata would increase the likelihood that some data are included, thus skewing the sample.
 
 ## Advantages of Simple Random Samples
 

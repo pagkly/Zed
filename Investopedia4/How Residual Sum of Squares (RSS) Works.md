@@ -13,16 +13,16 @@ author: Adam Barone
 
 ---
 
-How Residual Sum of Squares (RSS) Works
+[[How Residual Sum of Squares (RSS) Works]]
 ## What Is the Residual Sum of Squares (RSS)?
 
-A residual sum of squares (RSS) is a statistical technique used to measure the amount of [[variance]](https://www.investopedia.com/terms/v/variance.asp) in a data set that is not explained by a regression model itself. Instead, it estimates the variance in the residuals, or error term.
+A residual sum of squares (RSS) is a statistical technique used to measure the amount of [[variance]](https://www.investopedia.com/terms/v/variance.asp) in a data set that is not explained by a regression model itself. Instead, it estimates the variance in the residuals, or [[Error Term|error term]].
 
 [Linear regression](https://www.investopedia.com/terms/r/regression.asp) is a measurement that helps determine the strength of the relationship between a dependent variable and one or more other factors, known as independent or explanatory variables.
 
 ### Key Takeaways
 
--   A residual sum of squares (RSS) measures the level of variance in the error term, or residuals, of a regression model.
+-   A residual sum of squares (RSS) measures the level of variance in the [[Error Term|error term]], or residuals, of a regression model.
 -   Ideally, the sum of squared residuals should be a smaller or lower value than the sum of squares from the regression model's inputs.
 -   The RSS is used by financial analysts in estimating the validity of their econometric models.
 
@@ -46,11 +46,11 @@ The _residual_ sum of squares (RSS) measures the amount of error remaining betwe
 
 RSE is computed by dividing the RSS by the number of observations in the sample less 2 and then taking the square root: RSE = \[RSS/(n-2)\]1/2
 
-## RSS, Finance, and Econometrics
+## RSS, [[Finance]], and Econometrics
 
 [Financial markets](https://www.investopedia.com/articles/investing/052313/financial-markets-capital-vs-money-markets.asp) have increasingly become more quantitatively driven; as such, in search of an edge, many investors are using advanced statistical techniques to aid in their decisions. Big data, machine learning, and artificial intelligence applications further necessitate the use of statistical properties to guide contemporary investment strategies. The residual sum of squares–or RSS statistics–is one of many statistical properties enjoying a renaissance.
 
-Statistical models are used by investors and portfolio managers to track an investment's price and use that data to predict future movements. The study–called regression analysis–might involve analyzing the relationship in price movements between a commodity and the stocks of companies engaged in producing the commodity.
+Statistical models are used by investors and [[Portfolio|portfolio]] managers to track an investment's price and use that data to predict future movements. The study–called regression analysis–might involve analyzing the relationship in price movements between a commodity and the [[Stocks|stocks]] of companies engaged in producing the commodity.
 
 Any model might have variances between the predicted values and actual results. Although the variances might be explained by the regression analysis, the residual sum of squares represents the variances or errors that are not explained.
 

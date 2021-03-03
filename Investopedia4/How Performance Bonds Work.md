@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-How Performance Bonds Work
+[[How Performance Bonds Work]]
 ## What Is a Performance Bond?
 
 A performance bond is issued to one party of a contract as a guarantee against the failure of the other party to meet obligations specified in the contract. It is also referred to as a contract bond. A performance bond is usually provided by a bank or an insurance company to make sure a contractor completes designated projects.
@@ -30,7 +30,7 @@ The Miller Act instituted the requirement of placing performance bonds. The Act 
 
 Jobs that require payment and performance bonds go through job or project bidding first. As soon as the job or project is awarded to the winning bidder, payment and performance bonds are provided as a guarantee for the completion of the project.
 
-[Performance bonds](https://www.investopedia.com/articles/investing/010516/how-evaluate-bond-performance.asp) are common in construction and real estate development. In such situations, an owner or investor may require the developer to assure that contractors or project managers procure performance bonds, in order to guarantee that the value of the work will not be lost in the case of an unforeseen negative event.
+[Performance bonds](https://www.investopedia.com/articles/investing/010516/how-evaluate-bond-performance.asp) are common in construction and real [[Estate|estate]] development. In such situations, an owner or investor may require the developer to assure that contractors or project managers procure performance bonds, in order to guarantee that the value of the work [[Will|will]] not be lost in the case of an unforeseen negative event.
 
 Performance bonds are also used in commodity contracts.
 
@@ -42,12 +42,12 @@ A payment [[bond]](https://www.investopedia.com/articles/bonds/08/bond-market-ba
 
 ### Commodity Contracts
 
-Performance bonds are also used in commodity contracts, where a seller is asked to provide a bond to reassure the buyer that if the commodity being sold is not in fact delivered, the buyer will at least receive compensation for lost costs.
+Performance bonds are also used in commodity contracts, where a seller is asked to provide a bond to reassure the buyer that if the commodity being sold is not in fact delivered, the buyer [[Will|will]] at least receive compensation for lost costs.
 
 The issuance of a performance bond protects a party from monetary losses due to failed or incomplete projects. For example, a client issues a contractor a performance bond. If the contractor is not able to follow the agreed specifications in constructing the building, the client is given monetary compensation for the losses and damages the contractor may have caused.
 
 ## Special Considerations
 
-Usually, performance bonds are provided in the real estate industry. These bonds are heavily used in real property construction and development. They protect real property owners and investors from low-quality work that may be caused by unfortunate events, such as bankruptcy or insolvency of the contractor.
+Usually, performance bonds are provided in the real [[Estate|estate]] industry. These bonds are heavily used in [[Real Property|real property]] construction and development. They protect real property owners and investors from low-quality work that may be caused by unfortunate events, such as bankruptcy or insolvency of the contractor.
 
 Performance bonds are also useful in other industries. The buyer of a commodity may ask a seller to provide a performance bond. This protects the buyer from risks of the commodity, for any kind of reason, not being delivered. If the commodity is not delivered, the buyer receives compensation for losses and damages caused by the non-completion of the transaction.

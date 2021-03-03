@@ -13,7 +13,7 @@ author: Chris B. Murphy
 
 ---
 
-How Remittances Help People in Developing Nations Battle Poverty
+[[How Remittances Help People in Developing Nations Battle Poverty]]
 ## Remittance: An Overview
 
 A remittance is a payment of money that is transferred to another party. Broadly speaking, any payment of an invoice or a bill can be called a remittance. However, the term is most often used nowadays to describe a sum of money sent by someone working abroad to his or her family back home.
@@ -28,13 +28,13 @@ Most remittances are made by foreign workers to family members in their home cou
 
 -   A remittance is money sent to another party, usually one in another country.
 -   The sender is typically a foreign worker and the recipient a relative back home.
--   Remittances represent one of the largest sources of income for people in low-income and developing nations, often exceeding direct investment and international development assistance.
+-   Remittances represent one of the largest sources of income for people in low-income and developing nations, often exceeding [[Direct Investment|direct investment]] and international development assistance.
 
-Remittances play an increasingly large role in the economies of small and developing countries. They also play an important role in disaster relief, often exceeding [[official development assistance]](https://www.investopedia.com/articles/investing/082616/what-are-different-types-foreign-aid.asp) (ODA). They help raise the standard of living for people in low-income nations and help combat global poverty.
+Remittances play an increasingly large role in the economies of small and developing countries. They also play an important role in disaster relief, often exceeding [[official development assistance]](https://www.investopedia.com/articles/investing/082616/what-are-different-types-foreign-aid.asp) (ODA). They help raise the standard of living for people in low-income nations and help combat global [[Poverty|poverty]].
 
-In fact, since the late 1990s, remittances have exceeded development aid, and in some cases make up a significant portion of a country's gross domestic product (GDP).
+In fact, since the late 1990s, remittances have exceeded development aid, and in some cases make up a significant portion of a country's [[Gross Domestic Product (GDP)|gross domestic product (GDP)]].
 
-According to the World Bank's 2019 Migration and Development Brief, $529 billion in remittances were sent to low- and middle-income countries in 2018—an increase of 9.6% over the previous record high of $483 billion in 2017. This figure is significantly larger than the $344 billion of foreign direct investment in these countries, excluding China, in 2018. If high-income countries are included as well, the total amount of remittances jumps to $689 billion, up from $633 billion in 2017.1
+According to the World Bank's 2019 Migration and Development Brief, $529 billion in remittances were sent to low- and middle-income countries in 2018—an increase of 9.6% over the previous record high of $483 billion in 2017. This figure is significantly larger than the $344 billion of foreign [[Direct Investment|direct investment]] in these countries, excluding China, in 2018. If high-income countries are included as well, the total amount of remittances jumps to $689 billion, up from $633 billion in 2017.1
 
 Remittances are also used to help those living in less developed nations open bank accounts, a trend which helps promote economic development.
 

@@ -3,7 +3,7 @@ alias: [Overfitting]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overfitting Definition, How Overfitting Works]
 source: https://www.investopedia.com/terms/o/overfitting.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Overfitting Definition
@@ -13,12 +13,12 @@ author: Will Kenton
 
 ---
 
-How Overfitting Works
+[[How Overfitting Works]]
 ## What Is Overfitting?
 
 Overfitting is a modeling error that occurs when a function is too closely fit to a limited set of data points. Overfitting the model generally takes the form of making an overly complex model to explain idiosyncrasies in the data under study.
 
-In reality, the data often studied has some degree of error or random noise within it. Thus, attempting to make the model conform too closely to slightly inaccurate data can infect the model with substantial errors and reduce its predictive power.
+In reality, the data often studied has some degree of error or random [[Noise|noise]] within it. Thus, attempting to make the model conform too closely to slightly inaccurate data can infect the model with substantial errors and reduce its predictive power.
 
 ### Key Takeaways
 

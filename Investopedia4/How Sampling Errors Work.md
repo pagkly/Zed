@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How Sampling Errors Work
+[[How Sampling Errors Work]]
 ## What Is a Sampling Error?
 
 A sampling error is a statistical error that occurs when an analyst does not select a sample that represents the entire population of data and the results found in the sample do not represent the results that would be obtained from the entire population. Sampling is an analysis performed by selecting a number of observations from a larger population, and the selection can produce both sampling errors and non-sampling errors.
@@ -26,7 +26,7 @@ A sampling error is a statistical error that occurs when an analyst does not sel
 
 ## Understanding Sampling Errors
 
-A sampling error is a deviation in sampled value versus the true population value due to the fact the sample is not [[representative]](https://www.investopedia.com/terms/r/representative-sample.asp) of the population or biased in some way. Even randomized samples will have some sampling error since it is only an approximation of the population from which it is drawn.
+A sampling error is a deviation in sampled value versus the true population value due to the fact the sample is not [[representative]](https://www.investopedia.com/terms/r/representative-sample.asp) of the population or biased in some way. Even randomized samples [[Will|will]] have some sampling error since it is only an approximation of the population from which it is drawn.
 
 Sampling errors can be eliminated when the [[sample]](https://www.investopedia.com/terms/s/sample.asp) size is increased and also by ensuring that the sample adequately represents the entire population. Assume, for example, that XYZ Company provides a subscription-based service that allows consumers to pay a monthly fee to stream videos and other programming over the web.
 
@@ -40,4 +40,4 @@ Selection error also causes distortions in the results of a sample, and a common
 
 ### Factoring in Non-Sampling Errors
 
-XYZ also wants to avoid [[non-sampling errors]](https://www.investopedia.com/terms/n/non-samplingerror.asp) that are caused by human error, such as a mistake made in the survey process. If one group of consumers only watches five hours of video programming a week and is included in the survey, that decision is a non-sampling error. Asking questions that are biased is another type of error.
+XYZ also wants to avoid [[non-sampling errors]](https://www.investopedia.com/terms/n/non-samplingerror.asp) that are caused by human error, such as a mistake made in the survey process. If one group of consumers only watches five hours of video programming a week and is included in the survey, that decision is a [[Non-Sampling Error|non-sampling error]]. Asking questions that are biased is another type of error.

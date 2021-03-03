@@ -13,17 +13,17 @@ author: Adam Hayes
 
 ---
 
-How Substitutes Work
+[[How Substitutes Work]]
 ## What Is a Substitute?
 
-A substitute, or substitutable good, in economics and consumer theory refers to a product or service that consumers see as essentially the same or similar-enough to another product. Put simply, a substitute is a good that can be used in place of another.
+A substitute, or substitutable good, in [[Economics|economics]] and consumer theory refers to a product or service that consumers see as essentially the same or similar-enough to another product. Put simply, a substitute is a good that can be used in place of another.
 
 Substitutes play an important part in the marketplace and are considered a benefit for consumers. They provide more choices for consumers, who are then better able to satisfy their needs. [[Bills of materials]](https://www.investopedia.com/terms/b/bill-of-materials.asp) often include alternate parts that can replace the standard part if it's destroyed.
 
 ### Key Takeaways
 
 -   A substitute is a product or service that can be easily replaced with another by consumers.
--   In economics, products are often substitutes if the demand for one product increases when the price of the other goes up.
+-   In [[Economics|economics]], products are often substitutes if the demand for one product increases when the price of the other goes up.
 -   Substitutes provide choices and alternatives for consumers while creating competition and lower prices in the marketplace.
 
 #### What are Substitute Goods?
@@ -34,9 +34,9 @@ When consumers make buying decisions, substitutes provide them with alternatives
 
 Giving consumers more choice helps generate competition in the market and lower prices as a result. While that may be good for consumers, it may have the opposite effect on companies' bottom line. Alternative products can cut into companies' profitability, as consumers may end up choosing one more over another or see market share diluted.
 
-When you examine the relationship between the [demand schedules](https://www.investopedia.com/terms/d/demand-schedule.asp) of substitute products, if the price of a product goes up the demand for a substitute will tend to increase. This is because people will prefer to lower-cost substitute to the higher cost one. If, for example, the price of coffee increases, the demand for tea may also increase as consumers switch from coffee to tea to maintain their budgets.
+When you examine the relationship between the [demand schedules](https://www.investopedia.com/terms/d/demand-schedule.asp) of substitute products, if the price of a product goes up the demand for a substitute [[Will|will]] tend to increase. This is because people will prefer to lower-cost substitute to the higher cost one. If, for example, the price of coffee increases, the demand for tea may also increase as consumers switch from coffee to tea to maintain their budgets.
 
-Conversely, when a good's price decreases, the demand for its substitute may also decrease. In formal economic language, X and Y are substitutes if demand for X increases when the price of Y increases, or if there is positive [[cross elasticity of demand]](https://www.investopedia.com/terms/c/cross-elasticity-demand.asp).
+Conversely, when a good's price decreases, the demand for its substitute may also decrease. In formal economic language, X and [[Y]] are substitutes if demand for X increases when the price of Y increases, or if there is positive [[cross elasticity of demand]](https://www.investopedia.com/terms/c/cross-elasticity-demand.asp).
 
 The availability of substitutes are one of [[Porter's 5 Forces]](https://www.investopedia.com/terms/p/porter.asp), the others being competition, new entrants into the industry, the power of suppliers, and the power of customers.
 
@@ -48,14 +48,14 @@ Here are just a few examples of substitute goods:
 
 -   Currency: a dollar bill for 4 quarters (also known as [[fungibility]](https://www.investopedia.com/terms/f/fungibles.asp))
 -   Coke vs. Pepsi
--   Premium vs. regular gasoline
+-   [[Premium]] vs. regular gasoline
 -   Butter and margarine
 -   Tea and coffee
 -   Apples and oranges
 -   Riding a bike versus driving a car
 -   E-books and regular books
 
-There is one thing to keep in mind when it comes to substitutes: the degree to which a good is a substitute for another can, and often will, differ.
+There is one thing to keep in mind when it comes to substitutes: the degree to which a good is a substitute for another can, and often [[Will|will]], differ.
 
 ## Perfect vs. Less Perfect Substitutes
 
@@ -67,10 +67,10 @@ A bike and a car are far from perfect substitutes, but they are similar enough f
 
 Although an imperfect substitute may be replaceable, it may have a degree of difference that can be easily perceived by consumers. So some consumers may choose to stick with one product over the other. Consider Coke versus Pepsi. A consumer may choose Coke over Pepsi—perhaps because of taste—even if the price of Coke goes up. If a consumer perceives a difference between soda brands, she may see Pepsi as an imperfect substitute for Coke, even if economists consider them perfect substitutes.
 
-Less perfect substitutes are sometimes classified as gross substitutes or net substitutes by factoring in utility. A gross substitute is one in which demand for X increases when the price of Y increases. Net substitutes are those in which demand for X increases when the price of Y increases and the utility derived from the substitute remains constant.
+Less perfect substitutes are sometimes classified as gross substitutes or net substitutes by factoring in utility. A gross substitute is one in which demand for X increases when the price of [[Y]] increases. Net substitutes are those in which demand for X increases when the price of Y increases and the utility derived from the substitute remains constant.
 
 ## Substitute Goods in Perfect Competition and Monopolistic Competition
 
-In cases of [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp), perfect substitutes are sometimes conceived as nearly indistinguishable goods being sold by different firms. For example, gasoline from a gas station on one corner may be virtually indistinguishable from gasoline sold by another gas station on the opposite corner. An increase in the price at one station will result in more people choosing the cheaper option.
+In cases of [[perfect competition]](https://www.investopedia.com/terms/p/perfectcompetition.asp), perfect substitutes are sometimes conceived as nearly indistinguishable goods being sold by different firms. For example, gasoline from a gas station on one corner may be virtually indistinguishable from gasoline sold by another gas station on the opposite corner. An increase in the price at one station [[Will|will]] result in more people choosing the cheaper option.
 
 Monopolistic competition presents an interesting case that present complications with the concept of substitutes. In monopolistic competition, companies are not [[price-takers]](https://www.investopedia.com/terms/p/pricetaker.asp), meaning demand is not highly sensitive to price. A common example is a difference between the store brand and name-branded medicine at your local pharmacy. The products themselves are nearly indistinguishable chemically, but they are not perfect substitutes due to the utility consumers may get—or believe they get—from purchasing a brand name over a generic drug believing it to be more reputable or of higher quality.

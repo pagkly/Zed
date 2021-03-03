@@ -13,20 +13,20 @@ author: Alexandra Twin
 
 ---
 
-How Surcharges Add to the Cost of Goods and Services
+[[How Surcharges Add to the Cost of Goods and Services]]
 ## What Is a Surcharge?
 
-A surcharge is an extra fee, charge, or [[tax]](https://www.investopedia.com/articles/tax/08/tax-credit.asp) that is added on to the cost of a good or service, beyond the initially quoted price. Often, a surcharge is added to an existing tax and is not included in the stated price of the good or service. The charge could reflect a locality's need to collect money for extra services, a hike to defray the cost of increased commodity pricing, such as with a fuel surcharge, or an extra fee on your wireless bill for access to emergency services.
+A surcharge is an extra fee, charge, or [[tax]](https://www.investopedia.com/articles/tax/08/tax-credit.asp) that is added on to the cost of a good or service, beyond the initially [[Quoted Price|quoted price]]. Often, a surcharge is added to an existing tax and is not included in the stated price of the good or service. The charge could reflect a locality's need to collect money for extra services, a hike to defray the cost of increased commodity pricing, such as with a fuel surcharge, or an extra fee on your wireless bill for access to emergency services.
 
 ### Key Takeaways
 
 -   A surcharge is an additional charge, tax, or payment that a company adds to the already existent cost of a good or service.
--   Many industries, including travel, telecom, and cable, will add surcharges to offset the cost of higher prices, such as fuel, or regulatory fees imposed by the government.
+-   Many industries, including travel, telecom, and cable, [[Will|will]] add surcharges to offset the cost of higher prices, such as fuel, or regulatory fees imposed by the government.
 -   Surcharges are a way to indirectly pass costs on to the consumer, by listing a charge separately from the cost of the good or service, which appears to stay at the same price.
 
 ## How Surcharges Work
 
-Many entities, including governments, businesses, and service professionals assess surcharges for [[goods or services]](https://www.investopedia.com/articles/economics/08/free-market-regulation.asp). For example, taxi drivers may add a fuel surcharge of $1 when gas prices increase. The cost of some products and services do not include the added surcharge. Instead, the calculated fee will be assessed upon acceptance or purchase of the item and appears in the contract or purchase agreement.
+Many entities, including governments, businesses, and service professionals assess surcharges for [[goods or services]](https://www.investopedia.com/articles/[[Economics|economics]]/08/free-market-regulation.asp). For example, taxi drivers may add a fuel surcharge of $1 when gas prices increase. The cost of some products and services do not include the added surcharge. Instead, the calculated fee [[Will|will]] be assessed upon acceptance or purchase of the item and appears in the contract or purchase agreement.
 
 Surcharges may be set at specific dollar amounts, such as $5 per transaction, or based on a percentage of the total price.
 
@@ -36,7 +36,7 @@ A surcharge is an extra fee, tax, or cost added to the already existent cost of 
 
 A variety of industries, such as the [[telecommunications]](https://www.investopedia.com/articles/markets/030216/worlds-top-10-telecommunications-companies.asp) and cable industries, regularly use surcharges to offset costs imposed on the business through federal, state, or local regulations. When regulations impose additional costs on the market, the business may adjust the surcharge instead of the price of the good or service. The fee is still being passed on to the consumer, but it is being done so in a more indirect way, through the surcharge.
 
-For example, a customer may see a regulatory recovery fee on a cable bill. The purpose of the regulatory recovery fee is to offset the burden on the cable provider for certain voice service fees imposed by various government entities. Another example of a cable surcharge is the fee to provide sports programming to the viewing market. In this case, the charge is to offset the premium the cable provider pays for the ability to broadcast the events.
+For example, a customer may see a regulatory recovery fee on a cable bill. The purpose of the regulatory recovery fee is to offset the burden on the cable provider for certain voice service fees imposed by various government entities. Another example of a cable surcharge is the fee to provide sports programming to the viewing market. In this case, the charge is to offset the [[Premium|premium]] the cable provider pays for the ability to broadcast the events.
 
 If regulations raise the burden on a company by $1 per customer, the company may increase its regulatory recovery fee by $1. In this way, the company avoids having to absorb the loss or the full amount of the government fee, efficiently passing it on to the consumer.
 
