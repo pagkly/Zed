@@ -30,7 +30,7 @@ A defined-contribution (DC) plan is a retirement plan that's typically [tax-def
 
 There is no way to know how much a defined-contribution plan will ultimately give the employee upon retiring, as contribution levels can change, and the returns on the investments may go up and down over the years.
 
-Defined-contribution plans accounted for $8.2 trillion of the $29.1 trillion in total retirement plan assets held in the United States as of June 19, 2019, according to the [Investment Company Institute](https://www.investopedia.com/terms/i/investmentcompanyinstitute.asp). The defined-contribution plan differs from a [defined-benefit plan,](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) also called a pension plan, which guarantees participants receive a certain benefit at a specific future date.
+Defined-contribution plans accounted for $8.2 trillion of the $29.1 trillion in total retirement plan assets held in the United States as of June 19, 2019, according to the [Investment Company Institute](https://www.investopedia.com/terms/i/investmentcompanyinstitute.asp). The defined-contribution plan differs from a [[[Defined-Benefit Plan]],](https://www.investopedia.com/terms/d/definedbenefitpensionplan.asp) also called a pension plan, which guarantees participants receive a certain benefit at a specific future date.
 
 Defined contribution plans take pre-tax dollars and allow them to grow in capital market investments on a tax-deferred basis. This means that income tax will ultimately be paid on withdrawals, but not until retirement age (a minimum of 59½ years old, with [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) starting at age 72).
 

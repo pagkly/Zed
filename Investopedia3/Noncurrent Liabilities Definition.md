@@ -22,7 +22,7 @@ Noncurrent liabilities, also called [long-term liabilities](https://www.investop
 
 -   Noncurrent liabilities, also known as long-term liabilities, are obligations listed on the balance sheet not due for more than a year.
 -   Various ratios using noncurrent liabilities are used to assess a company’s leverage, such as debt-to-assets and debt-to-capital.
--   Examples of noncurrent liabilities include long-term loans and lease obligations, bonds payable and deferred revenue.
+-   Examples of noncurrent liabilities include long-term loans and lease obligations, bonds payable and [[Deferred Revenue Definition|deferred revenue]].
 
 ## Understanding Noncurrent Liabilities
 
@@ -38,6 +38,6 @@ Analysts also use coverage ratios to assess a company’s financial health, incl
 
 ## Examples of Noncurrent Liabilities
 
-Noncurrent liabilities include debentures, long-term loans, bonds payable, [deferred tax liabilities](https://www.investopedia.com/terms/d/deferredtaxliability.asp), long-term lease obligations, and pension benefit obligations. The portion of a bond liability that will not be paid within the upcoming year is classified as a noncurrent liability. Warranties covering more than a one-year period are also recorded as noncurrent liabilities. Other examples include [deferred compensation](https://www.investopedia.com/terms/d/deferred-compensation.asp), deferred revenue, and certain health care liabilities.
+Noncurrent liabilities include debentures, long-term loans, bonds payable, [deferred tax liabilities](https://www.investopedia.com/terms/d/deferredtaxliability.asp), long-term lease obligations, and pension benefit obligations. The portion of a bond liability that will not be paid within the upcoming year is classified as a noncurrent liability. Warranties covering more than a one-year period are also recorded as noncurrent liabilities. Other examples include [deferred compensation](https://www.investopedia.com/terms/d/deferred-compensation.asp), [[Deferred Revenue Definition|deferred revenue]], and certain health care liabilities.
 
 Mortgages, car payments, or other loans for machinery, equipment, or land are all long-term debts, except for the payments to be made in the subsequent twelve months which are classified as the [current portion of long-term debt](https://www.investopedia.com/terms/c/currentportionlongtermdebt.asp). Debt that is due within twelve months may also be reported as a noncurrent liability if there is an intent to [refinance](https://www.investopedia.com/terms/r/refinance.asp) this debt with a financial arrangement in the process to restructure the obligation to a noncurrent nature.

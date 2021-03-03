@@ -55,7 +55,7 @@ However, this usually occurs in games with more complex elements than two choice
 
 ### Impact on Economics and Business
 
-Game theory brought about a revolution in economics by addressing crucial problems in prior mathematical economic models. For instance, neoclassical economics struggled to understand entrepreneurial anticipation and could not handle the imperfect competition. Game theory turned attention away from steady-state equilibrium toward the market process.
+Game theory brought about a revolution in economics by addressing crucial problems in prior mathematical economic models. For instance, [[Define Neoclassical Economics|neoclassical economics]] struggled to understand entrepreneurial anticipation and could not handle the imperfect competition. Game theory turned attention away from steady-state equilibrium toward the market process.
 
 In business, game theory is beneficial for modeling competing behaviors between economic agents. Businesses often have several strategic choices that affect their ability to realize economic gain. For example, businesses may face dilemmas such as whether to retire existing products or develop new ones, lower prices relative to the competition, or employ new marketing strategies. Economists often use game theory to understand [oligopoly](https://www.investopedia.com/terms/o/oligopoly.asp) firm behavior. It helps to predict likely outcomes when firms engage in certain behaviors, such as price-fixing and [collusion](https://www.investopedia.com/terms/c/collusion.asp).
 

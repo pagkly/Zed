@@ -57,7 +57,7 @@ At the end of 2017, President Trump signed the [Tax Cuts and Jobs Act](https://w
 
 ### Qualified vs. unqualified dividends
 
-Investors should be aware that not all dividends qualify for favorable tax treatment. Examples of unqualified dividends include those paid out by [real estate investment trusts (REITs)](https://www.investopedia.com/terms/r/reit.asp) and [master limited partnerships (MLPs)](https://www.investopedia.com/terms/m/mlp.asp), income paid on [employee stock options (ESO)](https://www.investopedia.com/terms/e/eso.asp), as well as dividends paid by tax-exempt companies and on savings or [money market accounts](https://www.investopedia.com/terms/m/moneymarketaccount.asp).8
+Investors should be aware that not all dividends qualify for favorable tax treatment. Examples of unqualified dividends include those paid out by [real estate investment trusts (REITs)](https://www.investopedia.com/terms/r/reit.asp) and [master limited partnerships (MLPs)](https://www.investopedia.com/terms/m/mlp.asp), income paid on [employee stock options ([[Define Employee Stock Option (ESO)|ESO]])](https://www.investopedia.com/terms/e/eso.asp), as well as dividends paid by tax-exempt companies and on savings or [money market accounts](https://www.investopedia.com/terms/m/moneymarketaccount.asp).8
 
 Another thing to watch out for is eligibility requirements. Regular dividends paid out to shareholders of for-profit companies usually qualify for taxation at the reduced capital gains rate, but investors must adhere to minimum [holding periods](https://www.investopedia.com/terms/h/holdingperiod.asp) to take advantage.8
 

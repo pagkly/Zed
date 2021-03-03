@@ -22,14 +22,14 @@ Regulation U
 
 -   Regulation U is a Federal Reserve requirement for lenders who extend credit secured by margin stock—excluding securities brokers and dealers.
 -   Margin stock includes equity security registered on a national exchange, such as the NYSE, over-the-counter (OTC) security trading on the Nasdaq, debt security that can be converted into a margin stock, and most mutual funds.
--   The regulation applies to commercial banks, savings and loan associations, federal savings banks, credit unions, production credit associations, insurance companies, and companies with employee stock option plans.
+-   The regulation applies to commercial banks, savings and loan associations, federal savings banks, credit unions, production credit associations, insurance companies, and companies with [[Define Employee Stock Option (ESO)|employee stock option]] plans.
 -   Regulation U puts limits on entities that give out credit for the purpose of buying or carrying margin stock, using securities as collateral for the loans.
 
 ## Understanding Regulation U
 
 Regulation U is designed to mitigate the adherent risks that exist when using margin leverage in securities trading, especially when too much leverage is granted to an individual or business. By limiting the margin amount, Regulation U aims to limit the potential losses that both borrowers and banks or [lenders](https://www.investopedia.com/terms/l/lender.asp) can sustain in instances where leverage can lead to very large losses relative to the physical capital extended.
 
-Regulation U specifically focuses on leverage extended with securities as collateral, for the purchase of additional securities. It applies to entities other than broker-dealers such as commercial banks, savings and loan associations, federal savings banks, credit unions, production credit associations, insurance companies and companies that have employee stock option plans.
+Regulation U specifically focuses on leverage extended with securities as collateral, for the purchase of additional securities. It applies to entities other than broker-dealers such as commercial banks, savings and loan associations, federal savings banks, credit unions, production credit associations, insurance companies and companies that have [[Define Employee Stock Option (ESO)|employee stock option]] plans.
 
 Regulation U sets a limit on the maximum loan amount an entity can issue to a borrower securing the loan against stock or other securities for the purpose of buying more securities. The maximum loan value that can be offered is 50% of the collateral securities’ market value.
 
@@ -51,4 +51,4 @@ For example, assume a borrower would like to borrow money from a bank for the pu
 
 ## Regulation U Exemptions
 
-Some exceptions to Regulation U may apply. Nonbank lenders are subject to slightly different oversight when lending with securities as collateral. Additionally, loans offered against employee stock option plans may be exempt from Regulation U requirements.
+Some exceptions to Regulation U may apply. Nonbank lenders are subject to slightly different oversight when lending with securities as collateral. Additionally, loans offered against [[Define Employee Stock Option (ESO)|employee stock option]] plans may be exempt from Regulation U requirements.

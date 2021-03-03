@@ -28,7 +28,7 @@ Walras's law is an economic theory, which states that the existence of excess [s
 
 ## Understanding Walras's Law
 
-Walras's law is named after French [economist](https://www.investopedia.com/terms/e/economist.asp) Léon Walras (1834 - 1910), who created [general equilibrium theory](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) and founded the Lausanne School of economics. Walras's famous insights can be found in the book _Elements of Pure Economics_, published in 1874. Walras, along with William Jevons and Carl Menger, were considered founding fathers of [neoclassical economics](https://www.investopedia.com/terms/n/neoclassical.asp).1
+Walras's law is named after French [economist](https://www.investopedia.com/terms/e/economist.asp) Léon Walras (1834 - 1910), who created [general equilibrium theory](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp) and founded the Lausanne School of economics. Walras's famous insights can be found in the book _Elements of Pure Economics_, published in 1874. Walras, along with William Jevons and Carl Menger, were considered founding fathers of [[[Define Neoclassical Economics|neoclassical economics]]](https://www.investopedia.com/terms/n/neoclassical.asp).1
 
 Walras's law assumes that the [invisible hand](https://www.investopedia.com/terms/i/invisiblehand.asp) is at work to settle markets into equilibrium. Where there is excess demand, the invisible hand will raise prices; where there is excess supply, the hand will lower prices for consumers to drive markets into a state of balance.
 

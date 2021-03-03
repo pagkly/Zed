@@ -26,7 +26,7 @@ The precise structure of a vested benefits program might be negotiated as part o
 
 ## Understanding Vested Benefits
 
-Vested benefits may consist of various types of financial awards, including cash, employee stock options (ESO), health insurance, [401(k) plans](https://www.investopedia.com/terms/1/401kplan.asp), retirement plans, and pensions. Shares of the company's stock is an example of a type of benefit that might vest gradually.
+Vested benefits may consist of various types of financial awards, including cash, employee stock options ([[Define Employee Stock Option (ESO)|ESO]]), health insurance, [401(k) plans](https://www.investopedia.com/terms/1/401kplan.asp), retirement plans, and pensions. Shares of the company's stock is an example of a type of benefit that might vest gradually.
 
 For example, an employee might be awarded 100 shares of stock as a performance bonus after year one of employment. Under a graduated vesting plan, the employee might acquire full ownership of 20% of the shares after year two, 40% after year three, 60% after year four, 80% after year five, and 100% after year six. The stock bonus would be a partially vested benefit in years two to five, and a fully vested benefit after year six.
 
@@ -39,5 +39,5 @@ The precise structure of a vested benefits program might be negotiated as part o
 ### Key Takeaways
 
 -   A vested benefit is a financial package granted to employees who have met the requirements to receive a full, instead of partial, benefit.
--   Vested benefits include cash, employee stock options (ESO), health insurance, 401(k) plans, retirement plans, and pensions. 
+-   Vested benefits include cash, employee stock options ([[Define Employee Stock Option (ESO)|ESO]]), health insurance, 401(k) plans, retirement plans, and pensions. 
 -   The Employee Retirement Income Security Act (ERISA) sets rules that protect Americans’ retirement assets.

@@ -16,7 +16,7 @@ author: Adam Hayes
 Options Backdating Definition
 ## What Is Options Backdating?
 
-Options backdating is the process of granting an [employee stock option](https://www.investopedia.com/terms/e/eso.asp) (ESO) that is dated before its actual issuance. In this way, the [exercise (strike) price](https://www.investopedia.com/terms/e/exerciseprice.asp) of the granted option can be set at a lower price than that of the company's stock price at the granting date. This process makes the granted option "[in the money](https://www.investopedia.com/terms/i/inthemoney.asp)" (ITM) and therefore of greater value to the holder.
+Options backdating is the process of granting an [[[Define Employee Stock Option (ESO)|employee stock option]]](https://www.investopedia.com/terms/e/eso.asp) ([[Define Employee Stock Option (ESO)|ESO]]) that is dated before its actual issuance. In this way, the [exercise (strike) price](https://www.investopedia.com/terms/e/exerciseprice.asp) of the granted option can be set at a lower price than that of the company's stock price at the granting date. This process makes the granted option "[in the money](https://www.investopedia.com/terms/i/inthemoney.asp)" (ITM) and therefore of greater value to the holder.
 
 The practice of backdating options has been considered unethical and is now the subject of regulatory scrutiny, making it far less widespread in recent years.
 

@@ -50,7 +50,7 @@ The two types of phantom stock plans are "appreciation only," which doesn't incl
 
 ## Stock Appreciation Rights
 
-[Stock appreciation rights](https://www.investopedia.com/terms/s/sar.asp) (SARs) are similar to a phantom stock-based program. SARs are a form of bonus compensation given to employees that is equal to the appreciation of company stock over an established time period. Similar to [employee stock options](https://www.investopedia.com/terms/e/eso.asp) (ESO), SARs are beneficial to the employee when company stock prices rise; the difference with SARs is that employees do not have to pay the [exercise price](https://www.investopedia.com/terms/e/exerciseprice.asp), but receive the sum of the increase in stock or cash.
+[Stock appreciation rights](https://www.investopedia.com/terms/s/sar.asp) (SARs) are similar to a phantom stock-based program. SARs are a form of bonus compensation given to employees that is equal to the appreciation of company stock over an established time period. Similar to [employee stock options](https://www.investopedia.com/terms/e/eso.asp) ([[Define Employee Stock Option (ESO)|ESO]]), SARs are beneficial to the employee when company stock prices rise; the difference with SARs is that employees do not have to pay the [exercise price](https://www.investopedia.com/terms/e/exerciseprice.asp), but receive the sum of the increase in stock or cash.
 
 Most commonly made available to upper management, SARs can function as part of a retirement plan. It provides increased incentives as the value of the company increases. This can also help ensure employee retention, especially in times of internal volatility, such as an ownership change or a personal emergency.
 

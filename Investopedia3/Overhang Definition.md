@@ -28,7 +28,7 @@ According to a [2017 study by](https://www.fwcook.com/content/documents/publicat
 
 ### Key Takeaways
 
--   Overhang is the total dilution for common shareholders due to employee stock option awards. It is generally expressed as a percentage.
+-   Overhang is the total dilution for common shareholders due to [[Define Employee Stock Option (ESO)|employee stock option]] awards. It is generally expressed as a percentage.
 -   The higher the overhang number, the greater the risk.
 
 ## Reducing the Overhang Impact

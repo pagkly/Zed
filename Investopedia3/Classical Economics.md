@@ -42,7 +42,7 @@ The classical economics of Adam Smith had drastically evolved and changed by the
 
 A more thorough challenge to classical theory emerged in the 1930s and 1940s through the writings of British mathematician [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp). Keynes was a student of Alfred Marshall and admirer of Thomas Malthus. Keynes thought that free-market economies tended toward underconsumption and underspending. He called this the crucial economic problem and used it to criticize high-interest rates and individual preferences for saving. Keynes also refuted [Say's Law of Markets](https://www.investopedia.com/terms/s/says-law.asp).
 
-[Keynesian economics](https://www.investopedia.com/terms/k/keynesianeconomics.asp) advocated for a more controlling role for central governments in economic affairs, which made Keynes popular with British and American politicians. After the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) and World War II, Keynesianism had replaced classical and neoclassical economics as the dominant intellectual paradigm among world governments.
+[Keynesian economics](https://www.investopedia.com/terms/k/keynesianeconomics.asp) advocated for a more controlling role for central governments in economic affairs, which made Keynes popular with British and American politicians. After the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp) and World War II, Keynesianism had replaced classical and [[Define Neoclassical Economics|neoclassical economics]] as the dominant intellectual paradigm among world governments.
 
 ## Real World Example
 

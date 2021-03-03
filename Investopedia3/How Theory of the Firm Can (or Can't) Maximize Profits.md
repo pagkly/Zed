@@ -16,19 +16,19 @@ author: Chris B. Murphy
 How Theory of the Firm Can (or Can't) Maximize Profits
 ## What Is the Theory of the Firm?
 
-In neoclassical economics—an approach to economics focusing on the determination of goods, outputs, and income distributions in markets through supply and demand—the theory of the firm is a microeconomic concept that states that a [firm](https://www.investopedia.com/terms/f/firm.asp) exists and make decisions to maximize profits.
+In [[Define Neoclassical Economics|neoclassical economics]]—an approach to economics focusing on the determination of goods, outputs, and income distributions in markets through supply and demand—the theory of the firm is a microeconomic concept that states that a [firm](https://www.investopedia.com/terms/f/firm.asp) exists and make decisions to maximize profits.
 
 A firm maximizes profits by creating a gap between revenue and costs.
 
 ### Key Takeaways
 
--   In neoclassical economics, the theory of the firm is a microeconomic concept that states that a firm exists and make decisions to maximize profits.
+-   In [[Define Neoclassical Economics|neoclassical economics]], the theory of the firm is a microeconomic concept that states that a firm exists and make decisions to maximize profits.
 -   The theory of the firm influences decision-making in a variety of areas, including resource allocation, production techniques, pricing adjustments, and the volume of production.
 -   Modern takes on the theory of the firm sometimes distinguish between long-run motivations, such as sustainability, and short-run motivations, such as profit maximization.
 
 ## Understanding the Theory of the Firm
 
-Neoclassical economics dominates mainstream economics today, so the theory of the firm (and other theories associated with neoclassicism) influences decision-making in a variety of areas, including resource allocation, production techniques, pricing adjustments, and the volume of production.
+[[Define Neoclassical Economics|Neoclassical economics]] dominates mainstream economics today, so the theory of the firm (and other theories associated with neoclassicism) influences decision-making in a variety of areas, including resource allocation, production techniques, pricing adjustments, and the volume of production.
 
 While early [economic analysis](https://www.investopedia.com/articles/investing/022916/economic-analysis-lowcost-airline-industry-luvdal.asp) focused on broad industries, as the 19th century progressed, more economists began to ask basic questions about why companies produce what they produce and what motivates their choices when allocating capital and labor.
 
