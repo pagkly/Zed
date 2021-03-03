@@ -1,0 +1,53 @@
+---
+alias: [Growth at a Reasonable Price, GARP]
+created: 2021-03-02T20:30:11 (UTC +11:00)
+tags: [Growth at a Reasonable Price (GARP) Definition, Growth at a Reasonable Price (GARP)]
+source: https://www.investopedia.com/terms/g/garp.asp
+author: James Chen
+---
+
+# Growth at a Reasonable Price (GARP) Definition
+
+> ## Excerpt
+> Growth at a reasonable price (GARP) is an equity investment strategy that seeks to combine tenets of both growth investing and value investing.
+
+---
+
+Growth at a Reasonable Price (GARP)
+## What Is Growth at a Reasonable Price (GARP)?
+
+Growth at a reasonable price (GARP) is an equity investment strategy that seeks to combine tenets of both [growth investing](https://www.investopedia.com/terms/g/growthinvesting.asp) and [value investing](https://www.investopedia.com/terms/v/valueinvesting.asp) to select individual stocks. GARP investors look for companies that are showing consistent earnings growth above broad market levels while excluding companies that have very high [valuations](https://www.investopedia.com/terms/v/valuation.asp). The overarching goal is to avoid the extremes of either growth or value investing; this typically leads GARP investors to growth-oriented stocks with relatively low price/earnings (P/E) multiples in normal market conditions.
+
+### Key Takeaways
+
+-   Growth at a reasonable price (GARP) is an equity investment strategy that combines attributes of both growth investing and value investing.
+-   Companies that GARP investors focus on are those that show earnings growth above broad market levels yet not those that have extremely high valuations.
+-   The main attributes of GARP stocks are those that are growth-orientated with relatively low price/earnings (P/E) multiples.
+-   GARP investors use the price/earnings growth (PEG) ratio to make investment choices, seeking companies that have a PEG of 1 or less.
+-   Rather than selecting their own securities, investors can utilize the GARP strategy by investing in index funds that track the S&P 500 GARP Index.
+
+## Understanding Growth at a Reasonable Price (GARP)
+
+GARP investing was popularized by legendary Fidelity manager [Peter Lynch](https://www.investopedia.com/terms/p/peterlynch.asp). While the style may not have rigid boundaries for including or excluding stocks, a fundamental metric that serves as a solid benchmark is the [price/earnings growth (PEG) ratio](https://www.investopedia.com/terms/p/pegratio.asp).
+
+The PEG shows the ratio between a company's P/E ratio (valuation) and its expected earnings growth rate over the next several years. A GARP investor would seek out stocks that have a PEG of 1 or less, which shows that P/E ratios are in line with expected earnings growth. This helps to uncover stocks that are trading at reasonable prices.
+
+In a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp) or other downturn in stocks, one could expect the returns of GARP investors to be higher than those of pure growth investors, but subpar to strict value investors who generally purchase shares at P/Es under broad market multiples.
+
+## Growth at a Reasonable Pace (GARP) Investors vs. Value Investors
+
+Value investors try to buy stocks that are on sale. Value investors look for stocks at bargain prices for a) a larger chance to earn a future profit, and b) less risk of losing your money if the stock doesn’t perform well as you had anticipated. This key principle is called the [margin of safety](https://www.investopedia.com/terms/m/marginofsafety.asp).
+
+Value investors also do not buy into the efficient-market hypothesis, which postulates that stock prices already take the full spread of company, industry, and market information into account. Value investors believe that it’s possible to pick stocks that are overvalued or undervalued, relative to their current market price. Value investors may perform a discounted cash flows analysis (DCF) to determine a stock’s [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp).
+
+Famous value investors include [Warren Buffet](https://www.investopedia.com/articles/01/071801.asp), CEO and Chairman of Berkshire Hathaway, which grew to become one of the largest publicly-traded companies in the world.
+
+## Investing in the Growth at a Reasonable Price Strategy (GARP)
+
+One of the simplest ways to utilize the GARP strategy is by investing in an index fund that utilizes the strategy. This removes having to analyze your own stocks and come up with investments that fit the criteria of a GARP investment.
+
+[Standard and Poor's](https://www.investopedia.com/terms/s/sp.asp) has created the S&P 500 GARP Index, which is an index that tracks "companies with consistent fundamental growth, reasonable valuation, solid financial strength, and strong earning power."1
+
+One fund that tracks the S&P 500 GARP Index is the Invesco S&P 500 GARP ETF ([SPGP](https://www.investopedia.com/markets/quote?tvwidgetsymbol=spgp)). It is an [exchange traded fund](https://www.investopedia.com/terms/e/etf.asp) that aims to invest 90% of its assets into the securities that make up the S&P 500 GARP Index.
+
+The fund's largest holdings are in financials (27%) followed by information technology stocks (20%). Healthcare is the next heavily invested sector at 15%. The smallest invested sector is investment companies at 0.08%. Above that is real estate at 1.1%. Well-known stocks include Facebook, Viacom, Adobe, and Cigna. The fund also comes with a low [expense ratio](https://www.investopedia.com/terms/e/expenseratio.asp) of 0.34%, making it an affordable investment choice.2

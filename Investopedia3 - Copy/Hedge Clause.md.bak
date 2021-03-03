@@ -1,0 +1,41 @@
+---
+alias: [Hedge Clause]
+created: 2021-03-02T20:41:16 (UTC +11:00)
+tags: [Hedge Clause, Hedge Clause]
+source: https://www.investopedia.com/terms/h/hedgeclause.asp
+author: James Chen
+---
+
+# Hedge Clause
+
+> ## Excerpt
+> A hedge clause is a clause in a research report that attempts to absolve the writer of any responsibility for the accuracy of information included in the report or publication.
+
+---
+
+Hedge Clause
+## DEFINITION of Hedge Clause
+
+A hedge clause is a clause in a research report that attempts to absolve the writer of any responsibility for the accuracy of information included in the report or publication. The hedge clause attempts to indemnify the author, or authors, against any responsibility for any errors, omissions or oversights contained within the document. Hedge clauses can be found in analyst reports, company press releases and on most investing websites.
+
+A hedge clause is also known as a "disclaimer."
+
+## BREAKING DOWN Hedge Clause
+
+Hedge clauses are meant to protect those who communicate but do not have a role in the recording or preparation of an organization's financial information. Though hedge clauses are frequently overlooked, investors are advised to review them in order to better judge and interpret the material in a publication. Investors will find hedge clauses in nearly every financial report published today, and even though they are often glossed over, they are very important for investors to read and understand.
+
+## Hedge Clause Example
+
+An example is the "[safe harbor](https://www.investopedia.com/terms/s/safeharbor.asp)" provision found in most company press releases. Potential conflicts of interest from, for example, a stock analyst writing a recommendation for one of his own holdings, must also be included in the hedge clause for that report.
+
+## Typical Hedge Clause Structure
+
+A typical “hedge clause” in an investment advisory contract or hedge fund limited partnership/limited liability company agreement is structured as an exculpation of the adviser from liability and/or as indemnification of the adviser by the advisory client unless the adviser has been grossly negligent or has engaged in reckless or willful misconduct, illegal acts or acts outside the scope of its authority. Often, hedge clauses are followed by “non-waiver disclosure” that explains that the client may have certain legal rights, generally arising under federal and state [securities laws](https://www.investopedia.com/terms/s/stateadmin.asp), notwithstanding the hedge clauses that have not been waived.
+
+## Securities and Exchange Commission Position on Hedge Clauses
+
+The U.S. [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) has stated that Sections 206(1) and 206(2) of the [Advisers Act](https://www.investopedia.com/terms/i/investadvact.asp) make it unlawful for any investment adviser to employ any device, scheme or artifice to defraud, or to engage in any transaction, practice or course of business that operates as fraud or deceit on clients or prospective clients.1
+
+Those antifraud provisions may be violated by the use of a hedge clause or other [exculpatory provision](https://www.investopedia.com/terms/e/exculpatory-clause.asp) in an investment advisory agreement, which is likely to lead an investment advisory client to believe that he or she has waived non-waivable rights of action against the adviser.
+
+The SEC has previously taken the position that hedge clauses that purport to limit an investment adviser’s liability to acts involving gross negligence or willful malfeasance are likely to mislead a client who is unsophisticated in the law into believing that he or she has waived non-waivable rights, even if the hedge clause explicitly provides that rights under federal or state law cannot be relinquished.23

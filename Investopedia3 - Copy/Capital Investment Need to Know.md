@@ -1,0 +1,52 @@
+---
+alias: [Capital Investment]
+created: 2021-03-02T18:46:49 (UTC +11:00)
+tags: [Capital Investment Definition, Capital Investment: Need to Know]
+source: https://www.investopedia.com/terms/c/capital-investment.asp
+author: Will Kenton
+---
+
+# Capital Investment Definition
+
+> ## Excerpt
+> Capital investment is a sum acquired by a company to further its business objectives. The term also may refer to a company's acquisition of long-term assets.
+
+---
+
+Capital Investment: Need to Know
+## What Is a Capital Investment?
+
+Capital investment is the procurement of money by a company in order to further its business goals and objectives. The term can also refer to a company's acquisition of long-term assets such as real estate, manufacturing plants and machinery.
+
+### Key Takeaways
+
+-   A capital investment is defined as a sum of cash acquired by a company to pursue its objectives, such as continuing or growing operations.
+-   It also can refer to a company's acquisition of permanent fixed assets such as [[property, plant and equipment (PP&E)]](https://www.investopedia.com/terms/p/ppe.asp).
+-   A capital investment can be made via several sources including using cash on hand, selling other assets, or raising capital through the issuance of debt or equity.
+
+## How Capital Investment Works
+
+Capital investment is a broad term that can be defined in two distinct ways:
+
+1.  An individual, a [[venture capital group]](https://www.investopedia.com/terms/v/venturecapital.asp) or a financial institution may make a capital investment in a business. A sum of money is handed over as a loan, or in return for a promise of repayment or a share of the profits down the road. In this sense of the word, capital means cash.
+2.  The executives of a company may make a capital investment in the business. They buy long-term assets that will help the company run more efficiently or grow faster. In this sense, capital means physical assets.
+
+In either case, the money for capital investment must come from somewhere. A new company might seek capital investment from any number of sources, including venture capital firms, [[angel investors]](https://www.investopedia.com/articles/investing/010416/angel-investing-vs-crowdfunding-how-raise-money-your-startup.asp) and traditional financial institutions. The company uses the capital to further develop and market its products. When a new company goes public, it is acquiring capital investment on a large scale from many investors.
+
+An established company might make a capital investment using its own cash reserves, or seek a loan from a bank. If it is a public company, it might issue a bond in order to finance capital investment.
+
+There is no minimum or maximum capital investment. It can range from less than $100,000 in seed financing for a start-up, to hundreds of millions of dollars for massive projects undertaken by companies in capital-intensive sectors such as mining, utilities and infrastructure.
+
+Capital investment is meant to benefit a company in the long run, but it nonetheless can have short-term downsides.
+
+## Special Considerations
+
+A decision by a business to make a [[capital investment]](https://www.investopedia.com/articles/younginvestors/10/what-is-an-investment.asp) is a long-term growth strategy. A company plans and implements [[capital investments in order to ensure future growth]](https://www.investopedia.com/ask/answers/032615/how-does-total-capital-investment-influence-economic-growth.asp).
+
+Capital investments generally are made to increase operational capacity, capture a larger share of the market, and generate more revenue. The company may make a capital investment in the form of an equity stake in another company's complementary operations for the same purposes.
+
+## Disadvantages of Capital Investment
+
+The first funding option for capital investment is always a company's own operating cash flow, but that may not be enough to cover anticipated costs. It is more likely the company will resort to outside financing to make up for any internal shortfall.
+
+Capital investment is meant to benefit a company in the long run, but it nonetheless can have short-term downsides. Intensive, ongoing capital investment tends to reduce earnings growth in the short term, and that is never a popular move among stockholders of a public company. Moreover, the total amount of debt a company has on the books is a figure closely watched by stock owners and analysts_._

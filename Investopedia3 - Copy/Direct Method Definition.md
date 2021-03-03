@@ -1,0 +1,132 @@
+---
+alias: [Direct Method]
+created: 2021-03-02T19:20:35 (UTC +11:00)
+tags: [Direct Method Definition, Direct Method Definition]
+source: https://www.investopedia.com/terms/d/direct_method.asp
+author: Alicia Tuovila
+---
+
+# Direct Method Definition
+
+> ## Excerpt
+> The direct method of creating the cash flow statement uses actual cash inflows and outflows from the company's operations, instead of accrual accounting inputs.
+
+---
+
+Direct Method Definition
+## What Is the Direct Method?
+
+The direct method is one of two accounting treatments used to generate a [[cash flow statement]](https://www.investopedia.com/terms/c/cashflowstatement.asp). The statement of cash flows direct method uses actual cash inflows and outflows from the company's operations, instead of modifying the operating section from [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp) to a cash basis. Accrual accounting recognizes revenue when it is earned versus when the payment is received from a customer.
+
+Conversely, the cash flow direct method measures only the cash that's been received, which is typically from customers and the cash payments or outflows, such as to suppliers. The inflows and outflows are netted to arrive at the cash flow. The direct method is also known as the income statement method.
+
+### Key Takeaways
+
+-   Cash flow from operations for a time period can be determined using either the direct or indirect method.
+-   The cash flow direct method determines changes in cash receipts and payments, which are reported in the cash flow from the operations section.
+-   The indirect method takes the net income generated in a period and adds or subtracts changes in the asset and liability accounts to determine the implied cash flow.
+-   The direct method for the statement of cash flows provides more detail about the operating cash flow accounts, although it's time-consuming.
+
+The cash flow statement's direct method takes the actual cash inflows and outflows to determine the changes in cash over the period.
+
+## Understanding the Direct Method
+
+The three main financial statements are the balance sheet, income statement, and [[cash flow statement]](https://www.investopedia.com/terms/c/cashflowstatement.asp). The cash flow statement is divided into three categories—cash flow from operating, cash flow from financing, and cash flow from investing activities. The cash flow statement can be prepared using either the direct or indirect method. The cash flow from financing and investing activities’ sections will be identical under both the indirect and direct method.
+
+The indirect method for calculating cash flow from operations uses accrual accounting information, and it always begins with the [[net income]](https://www.investopedia.com/terms/n/netincome.asp) from the income statement. The net income is then adjusted for changes in the asset and liability accounts on the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) by adding to or subtracting from net income to derive the cash flow from operations.
+
+Under the direct method, the only section of the statement of cash flows that will differ in the presentation is the cash flow from the operations section. The direct method lists the cash receipts and cash payments made during the accounting period. The cash outflows are subtracted from the cash inflows to calculate the net [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]], before the net cash from investing and financing activities are included to get the net cash increase or decrease in the company for that period of time.
+
+## Complexities of the Direct Method
+
+The difficulty and time required to list all the cash disbursements and receipts—required for the direct method—makes the indirect method a preferred and more commonly used practice. Since most companies use the accrual method of accounting, business activities are recorded on the balance sheet and income statement consistent with this method. 
+
+For example, a company using accrual accounting will report [[sales]](https://www.investopedia.com/terms/s/sale.asp) revenue on the income statement in the current period even if the sale was made on credit and cash has not yet been received from the customer. This same amount would also appear on the balance sheet in accounts receivable. Companies that use accrual accounting do not also collect and store transactional information per customer or supplier on a cash basis.
+
+Another complexity of the direct method is that the FASB requires a business using the direct method to disclose the reconciliation of net income to the cash flow from operating activities that would have been reported if the indirect method had been used to prepare the statement. The [[reconciliation]](https://www.investopedia.com/terms/r/reconciliation.asp) report is used to check the accuracy of the operating activities, and it is similar to the indirect report. The reconciliation report begins by listing the net income and adjusting it for non-cash transactions and changes in the balance sheet accounts. This added task makes the direct method unpopular among companies.
+
+## Direct Method Example
+
+Examples of the direct method for the statement of cash flows included in the operations section include the following:
+
+-   Salaries paid to employees
+-   Cash paid to [[vendors]](https://www.investopedia.com/terms/v/vendor.asp) and suppliers
+-   Cash collected from customers
+-   Interest income and dividends received
+-   Income tax paid and interest paid
+
+A straightforward presentation of the cash flow from operations section using the direct method looks somewhat like this:
+
+ 
+
+**Cash flow from operating activities:**
+
+ 
+
+ 
+
+Cash receipt from customers
+
+ 
+
+$1,500,000
+
+ 
+
+Wages and salaries
+
+ 
+
+(450,000)
+
+ 
+
+Cash paid to vendors
+
+ 
+
+(525,000)
+
+ 
+
+Interest Income
+
+ 
+
+175,000
+
+ 
+
+_Income before income taxes_
+
+ 
+
+_$700,000_
+
+ 
+
+Interest paid
+
+ 
+
+(125,000)
+
+ 
+
+Income taxes paid
+
+ 
+
+(237,500)
+
+ 
+
+**_Net cash from operating activities_**
+
+ 
+
+**_$337,500_**
+
+Listing out information this way provides the financial statement user with a more detailed view of where a company’s cash came from and how it was disbursed. For this reason, the Financial Accounting Standards Board (FASB) recommends companies use the direct method.
+
+Although it has its disadvantages, the statement of cash flows direct method reports the direct sources of cash receipts and payments, which can be helpful to investors and creditors.
