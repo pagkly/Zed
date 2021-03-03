@@ -1,9 +1,9 @@
 ---
 alias: [Virtual Assistant]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Virtual Assistant Definition, What Is a Virtual Assistant?]
+tags: [Virtual Assistant Definition, [[What Is a Virtual Assistant]]?]
 source: https://www.investopedia.com/terms/v/virtual-assistant.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Virtual Assistant Definition
@@ -13,18 +13,18 @@ author: Will Kenton
 
 ---
 
-What Is a Virtual Assistant?
-## What Is a Virtual Assistant?
+[[What Is a Virtual Assistant]]?
+## [[What Is a Virtual Assistant]]?
 
-A virtual assistant is an [[independent contractor]](https://www.investopedia.com/terms/i/independent-contractor.asp) who provides administrative services to clients while operating outside of the client's office. A virtual assistant typically operates from a home office but can access the necessary planning documents, such as shared calendars, remotely.
+A virtual assistant is an [[independent contractor]](https://www.investopedia.com/terms/i/independent-contractor.asp) who provides administrative services to clients while operating outside of the client's office. A virtual assistant typically operates from a [[Home Office|home office]] but can access the necessary planning documents, such as shared calendars, remotely.
 
-People employed as virtual assistants often have several years of experience as an administrative assistant or office manager. New opportunities are opening up for virtual assistants who are skilled in social media, content management, blog post writing, graphic design, and Internet marketing. As [[working from home]](https://www.investopedia.com/personal-finance/work-from-home-guide/) has become more accepted for both workers and employers, the demand for skilled virtual assistants is expected to grow.
+People employed as virtual assistants often have several years of experience as an administrative assistant or office manager. New opportunities are opening up for virtual assistants who are skilled in [[Social Media|social media]], content management, blog post writing, graphic design, and Internet marketing. As [[working from home]](https://www.investopedia.com/personal-[[Finance|finance]]/work-from-home-guide/) has become more accepted for both workers and employers, the demand for skilled virtual assistants is expected to grow.
 
 ### Key Takeaways
 
--   A virtual assistant is a self-employed worker who specializes in offering administrative services to clients from a remote location, usually a home office.
+-   A virtual assistant is a self-employed worker who specializes in [[Offering|offering]] administrative services to clients from a remote location, usually a [[Home Office|home office]].
 -   Typical tasks a virtual assistant might perform include scheduling appointments, making phone calls, making travel arrangements, and managing email accounts.
--   Some virtual assistants specialize in offering graphic design, blog writing, bookkeeping, social media, and marketing services.
+-   Some virtual assistants specialize in [[Offering|offering]] graphic design, blog writing, bookkeeping, [[Social Media|social media]], and marketing services.
 -   For an employer, one advantage of hiring a virtual assistant is the flexibility to contract for just the services they need.
 
 ## How a Virtual Assistant Works
@@ -41,7 +41,7 @@ The specific duties of a virtual assistant vary according to the needs of the cl
 
 ## Virtual Assistant Qualifications
 
-While there are no hard-and-fast educational requirements to become a virtual assistant, many clients will look for virtual assistants who have some higher-level education or specialized training. A few online companies and community colleges offer courses and certification for virtual assistant skills.
+While there are no hard-and-fast educational requirements to become a virtual assistant, many clients [[Will|will]] look for virtual assistants who have some higher-level education or specialized training. A few online companies and community colleges [[Offer|offer]] courses and certification for virtual assistant skills.
 
 A virtual assistant should be tech-savvy, having a wide range of computer skills and a high level of proficiency with commonly used software and business programs. A virtual assistant who specializes in bookkeeping should be adept at basic accounting tasks, such as account reconciliations and [[double-entry bookkeeping]](https://www.investopedia.com/terms/d/double-entry.asp).
 
@@ -59,4 +59,4 @@ On these sites, clients can post details about the type of tasks they need the v
 
 ## Special Considerations
 
-Before hiring a virtual assistant, the client can ensure a smoother working relationship by creating detailed instructions about tasks they need to have performed. A written manual reduces the risk of misunderstandings that can occur in a remote working relationship.
+Before hiring a virtual assistant, the client can ensure a smoother working relationship by creating detailed instructions about tasks they need to have performed. A written manual reduces the [[Risk|risk]] of misunderstandings that can occur in a remote working relationship.

@@ -1,7 +1,7 @@
 ---
 alias: [Wellbore]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Wellbore Definition, What Is a Wellbore?]
+tags: [Wellbore Definition, [[What Is a Wellbore]]?]
 source: https://www.investopedia.com/terms/w/wellbore.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is a Wellbore?
-## What Is a Wellbore?
+[[What Is a Wellbore]]?
+## [[What Is a Wellbore]]?
 
 A wellbore is a hole that is drilled to aid in the exploration and recovery of natural resources, including oil, gas, or water. A wellbore is the actual hole that forms the well. A wellbore can be encased by materials such as steel and cement, or it may be uncased. The motivation for drilling a wellbore is usually to extract oil or gas for a protracted period of time.
 
@@ -27,9 +27,9 @@ A wellbore is a hole that is drilled to aid in the exploration and recovery of n
 
 ## Understanding a Wellbore
 
-A wellbore is a type of borehole, which is a narrow shaft that is drilled into the ground_—_either horizontally or vertically_—_to extract water, petroleum, or gases. Other reasons for drilling boreholes include mineral exploration, environmental site assessment, and temperature measurement.
+A wellbore is a type of borehole, which is a narrow shaft that is drilled into the ground_—_either horizontally or vertically_—_to extract water, [[Petroleum|petroleum]], or gases. Other reasons for drilling boreholes include mineral exploration, environmental site assessment, and temperature measurement.
 
-Resource extraction companies dig wellbores to gain access to the natural resources they are seeking, such as oil and gas. A wellbore is usually a straight vertical shaft that "bores" into the ground to allow the recovery of natural resources. It also includes the open hole and uncased portions of the well.
+Resource extraction companies dig wellbores to [[Gain|gain]] access to the natural resources they are seeking, such as oil and gas. A wellbore is usually a straight vertical shaft that "bores" into the ground to allow the recovery of natural resources. It also includes the open hole and uncased portions of the well.
 
 ## Examples of a Wellbore
 

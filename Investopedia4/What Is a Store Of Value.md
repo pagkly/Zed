@@ -1,7 +1,7 @@
 ---
 alias: [Store Of Value]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Store Of Value Definition, What Is a Store Of Value?]
+tags: [Store Of Value Definition, [[What Is a Store Of Value]]?]
 source: https://www.investopedia.com/terms/s/storeofvalue.asp
 author: Lucas Downey
 ---
@@ -13,8 +13,8 @@ author: Lucas Downey
 
 ---
 
-What Is a Store Of Value?
-## What Is a Store Of Value?
+[[What Is a Store Of Value]]?
+## [[What Is a Store Of Value]]?
 
 A store of value is an [[asset]](https://www.investopedia.com/terms/a/asset.asp), commodity, or currency that maintains its value without [[depreciating]](https://www.investopedia.com/terms/d/depreciation.asp). 
 
@@ -30,7 +30,7 @@ A store of value is essentially an asset, [[commodity]](https://www.investopedia
 
 Gold and other metals are stores of value, as their shelf lives are essentially perpetual. For investors, interest-bearing assets such as [[U.S. Treasury bonds]](https://www.investopedia.com/terms/t/treasurybond.asp) (T-bonds) qualify, too, because they retain their value while generating income.
 
-Milk, on the other hand, is a poor store of value because it will decay and become worthless.
+Milk, on the other hand, is a poor store of value because it [[Will|will]] decay and become worthless.
 
 ## Store Of Value Examples
 
@@ -52,6 +52,6 @@ What comprises a store of value can be markedly different among countries and cu
 
 Stable currencies, such as the U.S. dollar, the Japanese yen, the Swiss franc, and the Singaporean dollar enhance their home economies greatly. They are resistant, although not immune, to [[hyperinflation]](https://www.investopedia.com/terms/h/hyperinflation.asp).
 
-In those instances, other stores of value, such as gold, silver, [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), and fine art, have proved their worth over time. The price of gold, in particular, will often skyrocket during times of national peril or when a financial shock hits the broad markets, earning it a reputation as the ultimate [[safe haven]](https://www.investopedia.com/terms/s/safe-haven.asp).
+In those instances, other stores of value, such as gold, silver, [[real estate]](https://www.investopedia.com/terms/r/realestate.asp), and fine art, have proved their worth over time. The price of gold, in particular, [[Will|will]] often skyrocket during times of national peril or when a financial shock hits the broad markets, earning it a reputation as the ultimate [[safe haven]](https://www.investopedia.com/terms/s/safe-haven.asp).
 
-While the [[relative value]](https://www.investopedia.com/terms/r/relative-value.asp) of such stores of value will fluctuate over time, they can be counted on to retain some value in almost any scenario. This is especially true if there is a finite [[supply]](https://www.investopedia.com/terms/s/supply.asp) of the store of value.
+While the [[relative value]](https://www.investopedia.com/terms/r/relative-value.asp) of such stores of value [[Will|will]] fluctuate over time, they can be counted on to retain some value in almost any scenario. This is especially true if there is a finite [[supply]](https://www.investopedia.com/terms/s/[[Supply|supply]].asp) of the store of value.

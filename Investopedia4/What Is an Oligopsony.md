@@ -1,9 +1,9 @@
 ---
 alias: [Oligopsony]
 created: 2021-03-02T22:17:59 (UTC +11:00)
-tags: [Oligopsony Definition, What Is an Oligopsony?]
+tags: [Oligopsony Definition, [[What Is an Oligopsony]]?]
 source: https://www.investopedia.com/terms/o/oligopsony.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Oligopsony Definition
@@ -13,12 +13,12 @@ author: Will Kenton
 
 ---
 
-What Is an Oligopsony?
+[[What Is an Oligopsony]]?
 ## Oligopsony: An Overview
 
 An oligopsony is a market for a product or service which is dominated by a few large buyers. The concentration of demand in just a few parties gives each substantial power over the [[sellers]](https://www.investopedia.com/terms/s/seller.asp) and can effectively keep prices down.
 
-The opposite effect can be seen in an [[oligopoly]](https://www.investopedia.com/terms/o/oligopoly.asp). It is a market that is dominated by a few sellers, who can keep prices high in the absence of competition from alternative sources of supply.
+The opposite effect can be seen in an [[oligopoly]](https://www.investopedia.com/terms/o/[[Oligopoly|oligopoly]].asp). It is a market that is dominated by a few sellers, who can keep prices high in the absence of competition from alternative sources of [[Supply|supply]].
 
 ## Understanding the Oligopsony
 
@@ -32,7 +32,7 @@ The fast-food industry is a good example of an oligopsony. A small number of la
 
 Cocoa is a less obvious example of an oligopsony. Just three firms, including Cargill, Archer Daniels Midland, and Barry Callebaut, buy most of the world's cocoa bean production, which mostly originates with small farmers in third-world countries.
 
-American tobacco growers supply an oligopsony of cigarette makers. Three companies, including Altria, Brown & Williamson, and Lorillard Tobacco Company, buy nearly 90% of all US-grown tobacco and supplement it with tobacco produced in other countries.
+American tobacco growers [[Supply|supply]] an oligopsony of cigarette makers. Three companies, including Altria, Brown & Williamson, and Lorillard Tobacco Company, buy nearly 90% of all US-grown tobacco and supplement it with tobacco produced in other countries.
 
 ### The Publishing Oligopsony
 
@@ -52,10 +52,10 @@ This emerging oligopsony is reaching developed economies around the world. As a 
 
 The impact of this oligopsony reaches deep into the lives and livelihoods of agricultural workers around the world. Their influence has also forced many suppliers who couldn't compete out of business. In some countries, this has led to allegations of unethical and illegal conduct.
 
-## Oligopoly vs. Oligopsony
+## [[Oligopoly]] vs. Oligopsony
 
-In an oligopoly, the control is in the hands of a few sellers. As long as they stay firm on prices, the buyers have little negotiating room.
+In an [[Oligopoly|oligopoly]], the control is in the hands of a few sellers. As long as they stay firm on prices, the buyers have little negotiating room.
 
 An oligopsony market sees frequent price wars as each player works to entice a buyer's business. That effectively drives the price a down and the quantity up.
 
-Getting caught in an oligopsony is known as "racing to the bottom." Sellers lose the power to control supply and demand.
+Getting caught in an oligopsony is known as "racing to the bottom." Sellers lose the power to control [[Supply|supply]] and demand.

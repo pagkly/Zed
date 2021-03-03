@@ -1,7 +1,7 @@
 ---
 alias: [Retainer Fee]
 created: 2021-03-02T23:18:56 (UTC +11:00)
-tags: [Retainer Fee Definition, What Is a Retainer Fee?]
+tags: [Retainer Fee Definition, [[What Is a Retainer Fee]]?]
 source: https://www.investopedia.com/terms/r/retainer-fee.asp
 author:  Olivia LaBarre
 ---
@@ -13,8 +13,8 @@ author:  Olivia LaBarre
 
 ---
 
-What Is a Retainer Fee?
-## What Is a Retainer Fee?
+[[What Is a Retainer Fee]]?
+## [[What Is a Retainer Fee]]?
 
 A retainer fee is an amount of money paid upfront to secure the services of a [[consultant]](https://www.investopedia.com/articles/financialcareers/08/management-consulting.asp), [[freelancer]](https://www.investopedia.com/terms/f/freelancer.asp), lawyer, or other professional. A retainer fee is most commonly paid to individual third parties that have been engaged by the payer to perform a specific action on their behalf. These fees, almost always paid upfront, only ensure the commitment of the [[receiver]](https://www.investopedia.com/terms/r/receiver.asp). In addition, retainer fees usually do not represent the total final cost of the services provided.
 
@@ -26,7 +26,7 @@ A retainer fee is an amount of money paid upfront to secure the services of a [[
 
 ## Understanding Retainer Fees
 
-A retainer fee is an advance payment that's made by a client to a professional, and it is considered a down payment on the future services rendered by that professional. Regardless of [[occupation]](https://www.investopedia.com/articles/personal-finance/041515/careers-avoid-lowest-paying-professional-jobs.asp), the retainer fee funds the initial expenses of the working relationship. For this reason, these types of fees usually remain in a separate account from the hourly wages of the consultant, freelancer, or lawyer. This ensures that money is not used for personal purposes before the services are fully performed.
+A retainer fee is an advance payment that's made by a client to a professional, and it is considered a down payment on the future services rendered by that professional. Regardless of [[occupation]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/041515/careers-avoid-lowest-paying-professional-jobs.asp), the retainer fee funds the initial expenses of the working relationship. For this reason, these types of fees usually remain in a separate account from the hourly wages of the consultant, freelancer, or lawyer. This ensures that money is not used for personal purposes before the services are fully performed.
 
 The most common form of retainer fee applies to lawyers who, in most cases, require potential clients to provide an upfront retainer fee.
 

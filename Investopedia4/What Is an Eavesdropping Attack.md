@@ -1,7 +1,7 @@
 ---
 alias: [Eavesdropping Attack]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Eavesdropping Attack Definition, What Is an Eavesdropping Attack?]
+tags: [Eavesdropping Attack Definition, [[What Is an Eavesdropping Attack]]?]
 source: https://www.investopedia.com/terms/e/eavesdropping-attack.asp
 author: Jake Frankenfield
 ---
@@ -13,12 +13,12 @@ author: Jake Frankenfield
 
 ---
 
-What Is an Eavesdropping Attack?
-## What Is an Eavesdropping Attack?
+[[What Is an Eavesdropping Attack]]?
+## [[What Is an Eavesdropping Attack]]?
 
 An eavesdropping attack, also known as a sniffing or snooping attack, is a theft of information as it is transmitted over a network by a computer, [[smartphone]](https://www.investopedia.com/terms/s/smartphone.asp), or another connected device.
 
-The attack takes advantage of unsecured network communications to access data as it is being sent or received by its user.
+The attack takes advantage of [[Unsecured|unsecured]] network communications to access data as it is being sent or received by its user.
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ Eavesdropping is a deceptively mild term. The attackers are usually after sensit
 
 ## Understanding the Eavesdropping Attack
 
-An eavesdropping attack can be difficult to detect because the network transmissions will appear to be operating normally.
+An eavesdropping attack can be difficult to detect because the network transmissions [[Will|will]] appear to be operating normally.
 
 To be successful, an eavesdropping attack requires a weakened connection between a client and a server that the attacker can exploit to reroute network traffic. The attacker installs network monitoring software, the "sniffer," on a computer or a server to intercept data as it is transmitted.
 
@@ -50,12 +50,12 @@ If your Facebook or email account has been hacked lately, this is probably how i
 
 ### Virtual Assistants Can Be Spied Upon
 
-Virtual assistants such as Amazon Alexa and Google Home also are vulnerable to eavesdropping and their "always-on" mode makes them difficult to monitor for security.
+Virtual assistants such as Amazon Alexa and Google Home also are vulnerable to eavesdropping and their "always-on" mode makes them difficult to monitor for [[Security|security]].
 
 (Some reported incidents that make it appear that the companies carried out the snooping themselves appear to have been accidents caused by mistakes in speech recognition.)
 
 ### Avoid Dodgy Links
 
-Another way to limit your vulnerability to an attack is to make sure your phone is running the most recent version available of its operating system. However, its availability is up to the phone vendor, who may or may not be efficient about offering the update.
+Another way to limit your vulnerability to an attack is to make sure your phone is running the most recent version available of its operating system. However, its availability is up to the phone vendor, who may or may not be efficient about [[Offering|offering]] the update.
 
 Even if you do all of the above, you have to be careful from day to day. Avoid clicking on dodgy links. The sites they link to may install malware on your device. Download apps only from the official Android or Apple stores.

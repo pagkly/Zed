@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Charitable Organization Defined]
 created: 2021-03-02T22:58:54 (UTC +11:00)
-tags: [Qualified Charitable Organization Defined, What Is a Qualified Charitable Organization?]
+tags: [Qualified Charitable Organization Defined, [[What Is a Qualified Charitable Organization]]?]
 source: https://www.investopedia.com/terms/q/qualified-charitable-organization.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is a Qualified Charitable Organization?
-## What Is a Qualified Charitable Organization?
+[[What Is a Qualified Charitable Organization]]?
+## [[What Is a Qualified Charitable Organization]]?
 
 A qualified charitable organization is a nonprofit organization that qualifies for tax-exempt status according to the U.S. Treasury. Qualified charitable organizations include those operated exclusively for religious, charitable, scientific, literary or educational purposes, or the prevention of cruelty to animals or children, or the development of amateur sports.1
 

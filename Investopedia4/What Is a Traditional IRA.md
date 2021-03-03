@@ -1,7 +1,7 @@
 ---
 alias: [Traditional IRA]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [Traditional IRA Definition, What Is a Traditional IRA?]
+tags: [Traditional IRA Definition, [[What Is a Traditional IRA]]?]
 source: https://www.investopedia.com/terms/t/traditionalira.asp
 author: Adam Hayes
 ---
@@ -13,12 +13,12 @@ author: Adam Hayes
 
 ---
 
-What Is a Traditional IRA?
-## What Is a Traditional IRA?
+[[What Is a Traditional IRA]]?
+## [[What Is a Traditional IRA]]?
 
 A traditional [[individual retirement account]](https://www.investopedia.com/terms/i/ira.asp) (IRA) allows individuals to direct pre-tax income toward investments that can grow tax-deferred. The IRS assesses no [[capital gains]](https://www.investopedia.com/terms/c/capital_gains_tax.asp) or [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income taxes until the beneficiary makes a withdrawal. Individual taxpayers can contribute 100% of any earned compensation up to a specified maximum dollar amount.1
 
-Income thresholds may also apply. Contributions to a traditional IRA may be tax-deductible depending on the taxpayer's income, tax-filing status, and other factors. Retirement savers may open a traditional IRA through their broker (including online brokers or roboadvisors) or financial advisor.
+Income thresholds may also apply. Contributions to a traditional IRA may be tax-deductible depending on the [[Taxpayer|taxpayer]]'s income, tax-filing status, and other factors. Retirement savers may open a traditional IRA through their broker (including online brokers or roboadvisors) or financial advisor.
 
 ### Key Takeaways
 
@@ -30,31 +30,31 @@ Income thresholds may also apply. Contributions to a traditional IRA may be tax
 
 ## How Traditional IRAs Work
 
-Traditional IRAs let individuals contribute pre-tax dollars to a retirement investment account, which can grow tax-deferred until retirement withdrawals occur (at age 59½ or later).2 Custodians, including commercial banks and retail brokers, hold traditional IRAs and place the invested funds into different investment vehicles according to the account holder’s instruction and based on the offerings available.
+Traditional IRAs let individuals contribute pre-tax dollars to a retirement investment account, which can grow tax-deferred until retirement withdrawals occur (at age 59½ or later).2 Custodians, including commercial banks and retail brokers, [[Hold|hold]] traditional IRAs and place the invested funds into different investment vehicles according to the account holder’s instruction and based on the offerings available.
 
-In most cases, contributions to traditional IRAs are tax-deductible. If someone contributes $6,000 to their IRA, for example, they can claim that amount as a deduction on their income tax return and the Internal Revenue Service (IRS) will not apply income tax to those earnings.1 However, when that individual withdraws money from the account during retirement, those withdrawals are taxed at their ordinary income tax rate.3
+In most cases, contributions to traditional IRAs are tax-deductible. If someone contributes $6,000 to their IRA, for example, they can claim that amount as a deduction on their income [[Tax Return|tax return]] and the Internal Revenue Service (IRS) [[Will|will]] not apply income tax to those earnings.1 However, when that individual withdraws money from the account during retirement, those withdrawals are taxed at their [[Ordinary Income|ordinary income]] tax rate.3
 
 The IRS restricts the amount that one may add to a traditional IRA each year, depending on age. The contribution limit for the 2021 tax year is $6,000 for savers under 50 years of age. For people aged 50 and above, higher annual contribution limits apply via a catch-up contribution provision, allowing for an additional $1,000 (or a total of $7,000).1
 
-Under the SECURE Act, passed at the end of 2019, age restrictions on contributions to a traditional IRA were lifted, so long as the account holder has earned income to qualify.4
+Under the SECURE Act, passed at the end of 2019, age restrictions on contributions to a traditional IRA were lifted, so long as the account holder has [[Earned Income|earned income]] to qualify.4
 
 ### $6,000
 
-The maximum amount an individual under age 50 can contribute to a traditional IRA for the tax year 2021 (unchanged from 2020).1
+The maximum amount an individual under age 50 can contribute to a traditional IRA for the tax year 2021 ([[Unchanged|unchanged]] from 2020).1
 
 ## Traditional IRAs and 401(k)s or Other Employer Plans
 
 When you have both a traditional IRA and an employer-sponsored retirement plan, the IRS may limit the amount of your traditional IRA contributions that you can deduct from your taxes.
 
-In 2021, for example, if a taxpayer participates in an employer-sponsored program, such as a 401(k) or pension program, that individual, filing as a single person, would only be eligible to take the full deduction on a traditional IRA if their [[modified adjusted gross income]](https://www.investopedia.com/terms/m/magi.asp) (MAGI) was $66,000 or less, or $105,000 or less if married filing jointly. With MAGIs of $76,000 for singles and $125,000 for married couples, the IRS allows no deductions. In between, there's a partial deduction.5
+In 2021, for example, if a [[Taxpayer|taxpayer]] participates in an employer-sponsored program, such as a 401(k) or pension program, that individual, filing as a single person, would only be eligible to take the full deduction on a traditional IRA if their [[modified adjusted gross income]](https://www.investopedia.com/terms/m/magi.asp) (MAGI) was $66,000 or less, or $105,000 or less if married filing jointly. With MAGIs of $76,000 for singles and $125,000 for married couples, the IRS allows no deductions. In between, there's a partial deduction.5
 
 IRA contributions must be made by the tax filing deadline. For example, you could have made a contribution to your 2018 IRA through April 15, 2019.6 If you are above the limits, you can still contribute post-tax income to a traditional IRA and take advantage of its tax-free growth, but investigate other options, too.
 
-Income tax will ultimately have to be paid on IRA money at the time of withdrawal, subject to one's tax bracket during retirement.
+Income tax [[Will|will]] ultimately have to be paid on IRA money at the time of withdrawal, subject to one's tax bracket during retirement.
 
 ## Traditional IRA Distributions
 
-When you receive distributions from a traditional IRA, the IRS treats the money as ordinary income and subjects it to income tax. Account-holders can take distributions as early as age 59½. Starting after age 72, account holders must take [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) from their traditional IRAs.7
+When you receive distributions from a traditional IRA, the IRS treats the money as [[Ordinary Income|ordinary income]] and subjects it to income tax. Account-holders can take distributions as early as age 59½. Starting after age 72, account holders must take [required minimum distributions](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) (RMDs) from their traditional IRAs.7
 
 Funds removed before full retirement eligibility [[incur a 10% penalty]](https://www.investopedia.com/ask/answers/082515/how-do-you-calculate-penalties-ira-or-roth-ira-early-withdrawal.asp) (of the amount withdrawn) and taxes, at standard income tax rates. There are [[exceptions to these penalties for certain situations]](https://www.investopedia.com/articles/retirement/02/111202.asp). These include the following:
 
@@ -66,7 +66,7 @@ Funds removed before full retirement eligibility [[incur a 10% penalty]](https:/
 -   You use the assets for higher-education expenses, or expenses incurred for having or adopting a child.
 -   You use the assets to pay for medical insurance after you lose your job.
 -   The assets are distributed as a result of an IRS [[levy]](https://www.investopedia.com/terms/l/levy.asp).
--   The amount distributed is a return on non-deductible contributions.
+-   The amount distributed is a [[Return|return]] on non-deductible contributions.
 -   You are in the military and called to active duty for more than 179 days.2
 
 It's important for an individual to check with a tax attorney or the IRS to be sure that the particulars of their situation qualify for a waiver of the 10% penalty.
@@ -79,7 +79,7 @@ Other variations of the IRA include the Roth IRA, SIMPLE IRA, and SEP-IRA. Th
 
 ### Roth IRAs
 
-Unlike a traditional IRA, [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) contributions are not tax-deductible, and qualified [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) are tax-free. This means you contribute to a Roth IRA using after-tax dollars, but as the account grows, you do not face any taxes on investment gains. Because you paid taxes on your contributions, you can actually withdraw them, penalty-free, at any time. However, you cannot withdraw earnings until age 59½ without being subject to the 10% early-withdrawal penalty.8
+Unlike a traditional IRA, [[Roth IRA]](https://www.investopedia.com/terms/r/rothira.asp) contributions are not tax-deductible, and qualified [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) are tax-free. This means you contribute to a Roth IRA using after-tax dollars, but as the account grows, you do not face any taxes on investment gains. Because you paid taxes on your contributions, you can actually withdraw them, penalty-free, at any time. However, you cannot withdraw earnings until age 59½ without being subject to the 10% early-[[Withdrawal Penalty|withdrawal penalty]].8
 
 When you retire, you can withdraw from the account without incurring any income taxes on your withdrawals. Roth IRAs do not have RMDs. If you don't need the money, you don't have to take it out of your account and worry about penalties for failing to do so. You can also pass the money to your heirs if you don't end up needing to use it.
 

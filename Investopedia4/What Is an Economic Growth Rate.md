@@ -1,7 +1,7 @@
 ---
 alias: [Economic Growth Rate]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic Growth Rate Definition, What Is an Economic Growth Rate?]
+tags: [Economic Growth Rate Definition, [[What Is an Economic Growth Rate]]?]
 source: https://www.investopedia.com/terms/e/economicgrowthrate.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is an Economic Growth Rate?
-## What Is an Economic Growth Rate?
+[[What Is an Economic Growth Rate]]?
+## [[What Is an Economic Growth Rate]]?
 
 An economic growth rate is the percentage change in the value of all of the goods and services produced in a nation during a specific period of time, as compared to an earlier period. The economic growth rate is used to measure the comparative health of an economy over time. The numbers are usually compiled and reported quarterly and annually.
 
@@ -34,7 +34,7 @@ When it is tracked over time, the economic growth rate suggests the general dire
 -   The economic growth rate is tracked over time as an indicator of the general direction of a nation's economy.
 -   Broadly speaking, increased demand leads to increased production and a higher economic growth rate.
 
-An increase in the economic growth rate is usually seen as a positive. If an economy shows two consecutive quarters of negative growth rates, the nation is officially in a [[recession]](https://www.investopedia.com/terms/r/recession.asp). To put it baldly, if an economy shrinks by 2% from the previous year, its overall population has experienced a reduction in income of 2% in that year.
+An increase in the economic growth rate is usually seen as a positive. If an economy shows two consecutive quarters of [[Negative Growth|negative growth]] rates, the nation is officially in a [[recession]](https://www.investopedia.com/terms/r/recession.asp). To put it baldly, if an economy shrinks by 2% from the previous year, its overall population has experienced a reduction in income of 2% in that year.
 
 In the U.S., GDP began growing in March 2009 as it emerged from the Great Recession. From an abysmal rate of more than -4%, it climbed steadily until it peaked in 2014 at a rate of nearly 6% growth. In 2018, it was 2.9%, up from 2.2% for the previous year.
 
@@ -54,7 +54,7 @@ In any and all of these cases, the influx of income, if big enough, causes an in
 
 An economic contraction is a mirror image. Consumers pull back on spending, so demand falls and production falls with it. In the worst case scenario, the effects snowball. As production falls, jobs are lost. Demand falls further. GDP for the quarter comes in at a negative number.
 
-## Examples of Economic Growth Rates
+## Examples of Economic [[Growth Rates]]
 
 In July 2019, the U.S. marked an economic milestone. Its economy had been experiencing growth continuously since June 2009, making it the longest economic expansion in the nation's history.
 

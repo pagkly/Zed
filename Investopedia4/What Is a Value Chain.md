@@ -1,7 +1,7 @@
 ---
 alias: [Value Chain]
 created: 2021-03-03T00:34:22 (UTC +11:00)
-tags: [Value Chain Definition, What Is a Value Chain?]
+tags: [Value Chain Definition, [[What Is a Value Chain]]?]
 source: https://www.investopedia.com/terms/v/valuechain.asp
 author: Carla Tardi
 ---
@@ -13,23 +13,23 @@ author: Carla Tardi
 
 ---
 
-What Is a Value Chain?
-## What Is a Value Chain?
+[[What Is a Value Chain]]?
+## [[What Is a Value Chain]]?
 
-A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce goods, a value chain comprises the steps that involve bringing a product from conception to distribution, and everything in between—such as procuring raw materials, manufacturing functions, and marketing activities.
+A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce goods, a value chain comprises the steps that involve bringing a product from conception to distribution, and everything in between—such as procuring raw materials, [[Manufacturing|manufacturing]] functions, and marketing activities.
 
-A company conducts a [[value-chain analysis]](https://www.investopedia.com/articles/investing/111014/basics-value-chain-analysis.asp) by evaluating the detailed procedures involved in each step of its business. The purpose of a value-chain analysis is to increase production efficiency so that a company can deliver maximum value for the least possible cost.
+A company conducts a [[value-chain analysis]](https://www.investopedia.com/articles/investing/111014/basics-value-chain-analysis.asp) by evaluating the detailed procedures involved in each step of its business. The purpose of a value-chain analysis is to increase [[Production Efficiency|production efficiency]] so that a company can deliver maximum value for the least possible cost.
 
 ### Key Takeaways
 
 -   A value chain is a step-by-step business model for transforming a product or service from idea to reality.
 -   Value chains help increase a business's efficiency so the business can deliver the most value for the least possible cost.
--   The end goal of a value chain is to create a competitive advantage for a company by increasing productivity while keeping costs reasonable.
+-   The end goal of a value chain is to create a competitive advantage for a company by increasing [[Productivity|productivity]] while keeping costs reasonable.
 -   The value-chain theory analyzes a firm's five primary activities and four support activities.
 
 ## Understanding Value Chains
 
-Because of ever-increasing competition for unbeatable prices, exceptional products, and customer loyalty, companies must continually examine the value they create in order to retain their [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp). A value chain can help a company to discern areas of its business that are inefficient, then implement strategies that will optimize its procedures for maximum efficiency and profitability.
+Because of ever-increasing competition for unbeatable prices, exceptional products, and customer loyalty, companies must continually examine the value they create in order to retain their [[competitive advantage]](https://www.investopedia.com/terms/c/competitive_advantage.asp). A value chain can help a company to discern areas of its business that are inefficient, then implement strategies that [[Will|will]] optimize its procedures for maximum efficiency and profitability.
 
 In addition to ensuring that production mechanics are seamless and efficient, it's critical that businesses keep customers feeling confident and secure enough to remain loyal. [[Value-chain analyses can help]](https://www.investopedia.com/ask/answers/061115/what-are-some-advantages-and-disadvantages-value-chain-analysis.asp) with this, too.
 
@@ -43,7 +43,7 @@ In other words, it's important to maximize value at each specific point in a fir
 
 ## Components of a Value Chain
 
-In his concept of a value chain, Porter splits a business's activities into two categories, "primary" and "support," whose sample activities we list below.2 Specific activities in each category will vary according to the industry.
+In his concept of a value chain, Porter splits a business's activities into two categories, "primary" and "support," whose sample activities we list below.2 Specific activities in each category [[Will|will]] vary according to the industry.
 
 ### Primary Activities
 
@@ -52,7 +52,7 @@ Primary activities consist of five components, and all are essential for adding 
 1.  **Inbound logistics** include functions like receiving, warehousing, and managing inventory.
 2.  **Operations** include procedures for converting raw materials into a finished product.
 3.  **Outbound logistics** include activities to distribute a final product to a consumer.
-4.  **Marketing and sales** include strategies to enhance visibility and target appropriate customers—such as advertising, promotion, and pricing.
+4.  **Marketing and sales** include strategies to enhance [[Visibility|visibility]] and target appropriate customers—such as advertising, promotion, and pricing.
 5.  **Service** includes programs to maintain products and enhance the consumer experience—like customer service, maintenance, repair, refund, and exchange.
 
 ### Support Activities
@@ -60,15 +60,15 @@ Primary activities consist of five components, and all are essential for adding 
 The role of support activities is to help make the primary activities more efficient. When you increase the efficiency of any of the four support activities, it benefits at least one of the five primary activities. These support activities are generally denoted as overhead costs on a company's [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp):
 
 1.  **Procurement** concerns how a company obtains raw materials.
-2.  **Technological development** is used at a firm's research and development (R&D) stage—like designing and developing manufacturing techniques and automating processes.
-3.  **Human resources (HR) management** involves hiring and retaining employees who will fulfill the firm's business strategy and help design, market, and sell the product.
-4.  **Infrastructure** includes company systems and the composition of its management team—such as planning, accounting, finance, and quality control.
+2.  **Technological development** is used at a firm's research and development (R&D) stage—like designing and developing [[Manufacturing|manufacturing]] techniques and automating processes.
+3.  **[[Human Resources (HR)|Human resources (HR)]] management** involves hiring and retaining employees who [[Will|will]] fulfill the firm's business strategy and help design, market, and sell the product.
+4.  **Infrastructure** includes company systems and the composition of its management team—such as planning, accounting, [[Finance|finance]], and quality control.
 
 ## Examples of Value Chains
 
 ### Starbucks Corporation
 
-Starbucks [(SBUX)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=sbux) offers one of the most popular examples of a company that understands and successfully implements the value-chain concept. There are numerous articles about how [[Starbucks incorporates the value chain]](https://www.investopedia.com/articles/investing/103114/starbucks-example-value-chain-model.asp) into its business model.
+Starbucks [(SBUX)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=sbux) offers one of the most popular examples of a company that understands and successfully implements the value-chain concept. There are numerous articles about how [[Starbucks incorporates the value chain]](https://www.investopedia.com/articles/investing/103114/starbucks-example-value-chain-model.asp) into its business model.
 
 ### Trader Joe's
 
@@ -80,7 +80,7 @@ Another example is [[privately held]](https://www.investopedia.com/video/play/ex
 
 The company selects its products carefully, featuring items that you generally can't find elsewhere. Its [[private-label]](https://www.investopedia.com/terms/p/private-brand.asp) products account for more than 80 percent of its offerings, which often have the highest [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp), too, as Trader Joe's can source them efficiently in volume.3 Another vital piece of product development for Trader Joe's is its taste-testing and chef-partnership programs, which ensure high quality and continuous product refinement.
 
-**3\. Outbound logistics.** Many supermarkets offer home delivery, but Trader Joe's does not. Yet here, we can apply the activity of outbound logistics to mean the range of amenities that shoppers encounter once they are inside a Trader Joe's store. The company has thought carefully about the kind of experience it wants us to have when we visit its stores.
+**3\. Outbound logistics.** Many supermarkets [[Offer|offer]] home delivery, but Trader Joe's does not. Yet here, we can apply the activity of outbound logistics to mean the range of amenities that shoppers encounter once they are inside a Trader Joe's store. The company has thought carefully about the kind of experience it wants us to have when we visit its stores.
 
 Among Trader Joe's many tactical logistics are its in-store tastings. Usually, there are a few product tastings happening simultaneously, which create a lively atmosphere, and often coincide with the seasons and holidays. The tasting stations feature both new and familiar items that are prepared and served by staff.
 
@@ -88,6 +88,6 @@ Among Trader Joe's many tactical logistics are its in-store tastings. Usually, t
 
 Via this indirect marketing of style and image, Trader Joe's has succeeded in differentiating itself in the marketplace, thus sharpening its competitive edge.
 
-**5\. Service.** Customer service is paramount for Trader Joe's. Generally, you see twice as many employees as shoppers in their stores. Whatever work they are doing at the moment, the friendly, knowledgeable, and articulate staff are there primarily for _you_. Employees welcome shoppers' interruptions and will instantly rush to find your item or answer your question. In addition, the company has always employed a no-questions-asked refund program. You don't like it, you get your money back—period.
+**5\. Service.** Customer service is paramount for Trader Joe's. Generally, you see twice as many employees as shoppers in their stores. Whatever work they are doing at the moment, the friendly, knowledgeable, and articulate staff are there primarily for _you_. Employees welcome shoppers' interruptions and [[Will|will]] instantly rush to find your item or answer your question. In addition, the company has always employed a no-questions-asked refund program. You don't like it, you get your money back—period.
 
 This list could go on and on before ever reaching the four support activities cited above, as Trader Joe's is a wildly successful example of applying value-chain theory to its business.

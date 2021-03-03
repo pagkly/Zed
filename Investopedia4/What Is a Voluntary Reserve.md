@@ -1,7 +1,7 @@
 ---
 alias: [Voluntary Reserve]
 created: 2021-03-03T00:44:31 (UTC +11:00)
-tags: [Voluntary Reserve Definition, What Is a Voluntary Reserve?]
+tags: [Voluntary Reserve Definition, [[What Is a Voluntary Reserve]]?]
 source: https://www.investopedia.com/terms/v/voluntary-reserve.asp
 author: Lucas Downey
 ---
@@ -13,14 +13,14 @@ author: Lucas Downey
 
 ---
 
-What Is a Voluntary Reserve?
+[[What Is a Voluntary Reserve]]?
 ## Voluntary Reserve: An Overview
 
 A voluntary reserve is a sum of cash that is held by an insurance company over and above any minimum required by government regulators.
 
-State regulations set minimum reserve requirements for insurance companies that are intended to ensure they remain solvent. Voluntary reserves, also known as additionally held liquid assets, are recorded as such in company financial statements.
+State regulations set minimum [[Reserve Requirements|reserve requirements]] for insurance companies that are intended to ensure they remain solvent. Voluntary reserves, also known as additionally held liquid assets, are recorded as such in company financial statements.
 
-State regulators have similar reserve requirements for financial institutions within their jurisdictions. Like insurance companies, those institutions may have voluntary reserves.
+State regulators have similar [[Reserve Requirements|reserve requirements]] for financial institutions within their jurisdictions. Like insurance companies, those institutions may have voluntary reserves.
 
 ### Key Takeaways
 
@@ -54,6 +54,6 @@ Standard levels of reserves in the industry range from 8% to 12% of the company
 
 ### Life Insurance Reserves
 
-The report recommended “principle-based reserving” for life insurance companies.4 This departure from past practice bases reserve requirements on a highly individualized mix of factors that include the demographics of the company's clients, the company's financial performance, and its financial strength.
+The report recommended “principle-based reserving” for life insurance companies.4 This departure from past practice bases [[Reserve Requirements|reserve requirements]] on a highly individualized mix of factors that include the demographics of the company's clients, the company's financial performance, and its financial strength.
 
-As a result, at least 46 states have moved to change their formulas determining reserve requirements.5
+As a result, at least 46 states have moved to change their formulas determining [[Reserve Requirements|reserve requirements]].5

@@ -1,7 +1,7 @@
 ---
 alias: [Transaction]
 created: 2021-03-03T00:06:43 (UTC +11:00)
-tags: [Transaction Definition, What Is a Transaction?]
+tags: [Transaction Definition, [[What Is a Transaction]]?]
 source: https://www.investopedia.com/terms/t/transaction.asp
 author: Carol Kopp
 ---
@@ -13,15 +13,15 @@ author: Carol Kopp
 
 ---
 
-What Is a Transaction?
-## What Is a Transaction?
+[[What Is a Transaction]]?
+## [[What Is a Transaction]]?
 
-A transaction is a completed agreement between a buyer and a seller to exchange goods, services, or financial assets. But in business bookkeeping, this plain definition can get complicated. A transaction will be recorded earlier or later depending on whether the company uses [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp) rather than [[cash accounting]](https://www.investopedia.com/terms/c/cashaccounting.asp).
+A transaction is a completed agreement between a buyer and a seller to exchange goods, services, or financial assets. But in business bookkeeping, this plain definition can get complicated. A transaction [[Will|will]] be recorded earlier or later depending on whether the company uses [[accrual accounting]](https://www.investopedia.com/terms/a/accrualaccounting.asp) rather than [[cash accounting]](https://www.investopedia.com/terms/c/cashaccounting.asp).
 
 -   The accrual accounting method requires a transaction to be recorded when it occurs, regardless of when the money is received or the expenses are paid.
--   The cash accounting method records a transaction only when the money is received or the expenses are paid. This may require a [[letter of intent]](https://www.investopedia.com/ask/answers/042715/what-difference-between-letter-intent-and-memorandum-understanding.asp) or a memorandum of understanding.
+-   The [[Cash Accounting|cash accounting]] method records a transaction only when the money is received or the expenses are paid. This may require a [[letter of intent]](https://www.investopedia.com/ask/answers/042715/what-difference-between-letter-intent-and-memorandum-understanding.asp) or a memorandum of understanding.
 
-Accrual accounting is used by businesses with gross receipts above $1 million a year, while the cash accounting method is used by most small businesses.
+Accrual accounting is used by businesses with gross receipts above $1 million a year, while the [[Cash Accounting|cash accounting]] method is used by most small businesses.
 
 ## Understanding the Transaction
 
@@ -34,8 +34,8 @@ Whether a business records income and expense transactions using the accrual me
 ### Key Takeaways
 
 -   Accrual accounting recognizes a transaction immediately after it is finalized regardless of when payment is received or paid.
--   Cash accounting records a transaction only when money is received or paid out.
--   Cash accounting is used by most small businesses while accrual accounting is used by businesses with gross receipts above $1 million a year.
+-   [[Cash Accounting|Cash accounting]] records a transaction only when money is received or paid out.
+-   [[Cash Accounting|Cash accounting]] is used by most small businesses while accrual accounting is used by businesses with gross receipts above $1 million a year.
 
 ### Using Accrual Accounting
 
@@ -45,15 +45,15 @@ When accrual accounting is used, a company records income when completing a serv
 
 For example, a company selling merchandise to a customer on store credit in October records the transaction immediately as an item in [[accounts receivable]](https://www.investopedia.com/terms/a/accountsreceivable.asp). Even if the customer does not make a cash payment on the merchandise until December or pays in installments, the transaction is recorded as income for October.
 
-If a customer buys something on credit, it will immediately be recorded as a transaction if the accrual accounting method is used.
+If a customer buys something on credit, it [[Will|will]] immediately be recorded as a transaction if the accrual accounting method is used.
 
 The same goes for goods or services the company purchases. Business expenses are recorded when the products or services are received. Supplies purchased on credit in April are recorded as expenses for April, even if the business does not make a cash payment on the supplies until May.
 
-### Using Cash Accounting
+### Using [[Cash Accounting]]
 
-Most small businesses, especially sole proprietorships and partnerships, use the cash accounting method. Income is recorded when cash, checks, or credit card payments are received from customers.
+Most small businesses, especially sole proprietorships and partnerships, use the [[Cash Accounting|cash accounting]] method. Income is recorded when cash, checks, or credit card payments are received from customers.
 
-### Examples of Cash Accounting
+### Examples of [[Cash Accounting]]
 
 For example, a business sells $10,000 of widgets to a customer in March. The customer pays the invoice in April. The company recognizes the sale only after the cash is received in April.
 

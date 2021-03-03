@@ -1,22 +1,22 @@
 ---
 alias: [What Is an Economist?]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [What Is an Economist?, What Is an Economist?]
+tags: [What Is an Economist?, [[What Is an Economist]]?]
 source: https://www.investopedia.com/terms/e/economist.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# What Is an Economist?
+# [[What Is an Economist]]?
 
 > ## Excerpt
 > An economist is an expert who studies the relationship between a society's resources and its production or output, using a number of indicators to predict future trends.
 
 ---
 
-What Is an Economist?
-## What Is an Economist?
+[[What Is an Economist]]?
+## [[What Is an Economist]]?
 
-An economist is an expert who studies the relationship between a society's resources and its production or output. Economists study societies ranging from small, local communities to entire nations and even [[the global economy]](https://www.investopedia.com/video/play/globalization/).
+An economist is an expert who studies the relationship between a society's resources and its production or output. Economists study societies ranging from small, local communities to entire nations and even [[the global economy]](https://www.investopedia.com/video/play/[[Globalization|globalization]]/).
 
 The expert opinions and research findings of an economist are used to help shape a wide variety of policies, including interest rates, tax laws, employment programs, international trade agreements, and corporate strategies.
 
@@ -33,16 +33,16 @@ According to the Bureau of Labor Statistics, the median pay for an economist in 
 
 ## Understanding Economists
 
-There is a good chance that someone interested in a career as an economist will work for the government. According to the [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp), roughly 30% of all economists work for either a federal or state agency. Economists are also employed as professors, by corporations or as part of economic think tanks.
+There is a good chance that someone interested in a career as an economist [[Will|will]] work for the government. According to the [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp), roughly 30% of all economists work for either a federal or state agency. Economists are also employed as professors, by corporations or as part of economic think tanks.
 
-A career as an economist has two main requirements. First, economists generally hold advanced degrees, such as a Ph.D. or a master's degree. The typical entry-level education for an economist is a master's degree. Second, economists typically develop an area of specialization where they focus their research efforts.
+A career as an economist has two main requirements. First, economists generally [[Hold|hold]] advanced degrees, such as a Ph.D. or a master's degree. The typical entry-level education for an economist is a master's degree. Second, economists typically develop an area of specialization where they focus their research efforts.
 
 ## Economists Influence Strategic Economic Plans
 
 The role of an economist includes analyzing data that includes economic indicators, such as [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) and consumer confidence surveys. Economists might research the distribution, accessibility, and reach of goods and services, in order to identify potential trends or make economic forecasts.
 
-The work of economists might be commissioned to target specific segments or topics where expert assessments are needed. This could be done for budgeting and planning purposes when the insights of the economists will serve as the basis for a plan of action. For example, if there is a change in spending trends in a particular industry, investors and companies working in that industry might look to economists to provide perspective on what the next evolution of the market may be.
+The work of economists might be commissioned to target specific segments or topics where expert assessments are needed. This could be done for budgeting and planning purposes when the insights of the economists [[Will|will]] serve as the basis for a plan of action. For example, if there is a change in spending trends in a particular industry, investors and companies working in that industry might look to economists to provide perspective on what the next evolution of the market may be.
 
-Furthermore, the input of economists can reveal the underlying causes that shape market cycles. Insights of economists can also be to form forecasts for job market growth as particular segments of the economy grow.
+Furthermore, the input of economists can reveal the [[Underlying|underlying]] causes that shape [[Market Cycles|market cycles]]. Insights of economists can also be to form forecasts for job market growth as particular segments of the economy grow.
 
 Economists may reference factors and elements that provide a new understanding of what drives trends. The assessments that economists provide may draw upon large segments of time and take advantage of large collections of data. Their theories can also provide a way for others to react to the future direction of the economy. Companies could use such perspectives to adjust their strategies, including whether or not to pursue development on particular products or if a product should be discontinued in favor of a different approach.
