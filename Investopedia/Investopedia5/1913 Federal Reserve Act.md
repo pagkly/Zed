@@ -6,29 +6,29 @@ source: https://www.investopedia.com/terms/f/1913-federal-reserve-act.asp
 author: James Chen
 ---
 
-# 1913 Federal Reserve Act Definition
+# [[Investopedia3/1913 Federal Reserve Act]] Definition
 
 > ## Excerpt
-> The 1913 Federal Reserve Act created the current Federal Reserve System and introduced a central bank to oversee U.S. monetary policy.
+> The [[Investopedia3/1913 Federal Reserve Act]] created the current Federal Reserve System and introduced a central bank to oversee U.S. monetary policy.
 
 ---
 
-1913 Federal Reserve Act
-## What Is the 1913 Federal Reserve Act?
+[[Investopedia3/1913 Federal Reserve Act]]
+## What Is the [[Investopedia3/1913 Federal Reserve Act]]?
 
-The 1913 Federal Reserve Act is legislation in the United States that created the [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp).1 Congress passed the Federal Reserve Act to establish economic stability in the U.S. by introducing a [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) to oversee monetary policy.
+The [[Investopedia3/1913 Federal Reserve Act]] is legislation in the United States that created the [[Federal Reserve System]](https://www.investopedia.com/terms/f/federalreservesystem.asp).1 Congress passed the Federal Reserve Act to establish economic stability in the U.S. by introducing a [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) to oversee monetary policy.
 
 ### Key Takeaways
 
--   The 1913 Federal Reserve Act created the Federal Reserve System, known simply as "The Fed."
+-   The [[Investopedia3/1913 Federal Reserve Act]] created the Federal Reserve System, known simply as "The Fed."
 -   It was implemented to establish economic stability in the U.S. by introducing a central bank to oversee monetary policy.1
 -   The Federal Reserve Act is one of the most influential laws shaping the U.S. financial system.
 
-## Understanding the 1913 Federal Reserve Act
+## Understanding the [[Investopedia3/1913 Federal Reserve Act]]
 
 The law sets out the purpose, structure, and function of the Federal Reserve System. Congress can amend the Federal Reserve Act and has done so several times.1
 
-Before 1913, financial panics were common occurrences because investors were unsure of the safety of their bank deposits. Private financiers such as J.P. Morgan, who bailed out the government in 1895, often provided lines of credit to provide stability in the financial sector. The 1913 Federal Reserve Act, signed into law by President Woodrow Wilson, gave the Fed the ability to print money and policy tools to ensure economic stability.23
+Before 1913, financial panics were common occurrences because investors were unsure of the safety of their bank deposits. Private financiers such as J.P. Morgan, who bailed out the government in 1895, often provided lines of credit to provide stability in the financial sector. The [[Investopedia3/1913 Federal Reserve Act]], signed into law by President Woodrow Wilson, gave the Fed the ability to print money and policy tools to ensure economic stability.23
 
 The Federal Reserve System created the [[dual mandate]](https://www.investopedia.com/articles/investing/100715/breaking-down-federal-reserves-dual-mandate.asp) to maximize employment and keep prices stable.4
 
