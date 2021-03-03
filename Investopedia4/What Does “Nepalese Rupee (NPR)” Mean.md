@@ -1,7 +1,7 @@
 ---
 alias: [Nepalese Rupee (NPR) Defined]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Nepalese Rupee (NPR) Defined, [[What Does “Nepalese Rupee (NPR)” Mean]]?]
+tags: [Nepalese Rupee (NPR) Defined, What Does “Nepalese Rupee (NPR)” Mean?]
 source: https://www.investopedia.com/terms/n/npr.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Reinvestment Rate]
 created: 2021-03-02T23:14:42 (UTC +11:00)
-tags: [Reinvestment Rate Definition, [[What Is a Reinvestment Rate]]?]
+tags: [Reinvestment Rate Definition, What Is a Reinvestment Rate?]
 source: https://www.investopedia.com/terms/r/reinvestmentrate.asp
 author: James Chen
 ---

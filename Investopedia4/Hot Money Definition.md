@@ -1,7 +1,7 @@
 ---
 alias: [Hot Money]
 created: 2021-03-02T20:51:41 (UTC +11:00)
-tags: [Hot [[Money Definition]], Hot Money Definition]
+tags: [Hot Money Definition, Hot Money Definition]
 source: https://www.investopedia.com/terms/h/hotmoney.asp
 author: James Chen
 ---

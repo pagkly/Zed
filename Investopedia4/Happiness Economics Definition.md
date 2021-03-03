@@ -1,7 +1,7 @@
 ---
 alias: [Happiness Economics]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Happiness [[Economics]] Definition, Happiness Economics Definition]
+tags: [Happiness Economics Definition, Happiness Economics Definition]
 source: https://www.investopedia.com/terms/h/happiness-[[Economics|economics]].asp
 author: Daniel Liberto
 ---

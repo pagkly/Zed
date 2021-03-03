@@ -1,7 +1,7 @@
 ---
 alias: [Undivided Account]
 created: 2021-03-03T00:19:21 (UTC +11:00)
-tags: [Undivided Account Definition, [[What Is an Undivided Account]]?]
+tags: [Undivided Account Definition, What Is an Undivided Account?]
 source: https://www.investopedia.com/terms/u/undividedaccount.asp
 author: Carol Kopp
 ---

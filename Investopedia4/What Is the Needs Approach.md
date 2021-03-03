@@ -1,7 +1,7 @@
 ---
 alias: [Needs Approach]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Needs Approach Definition, [[What Is the Needs Approach]]?]
+tags: [Needs Approach Definition, What Is the Needs Approach?]
 source: https://www.investopedia.com/terms/n/needsapproach.asp
 author: Julia Kagan
 ---

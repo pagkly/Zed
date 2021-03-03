@@ -1,7 +1,7 @@
 ---
 alias: [Payroll Tax]
 created: 2021-03-02T22:40:12 (UTC +11:00)
-tags: [Payroll Tax Definition, [[Payroll]] Tax]
+tags: [Payroll Tax Definition, Payroll Tax]
 source: https://www.investopedia.com/terms/p/payrolltax.asp
 author: Carol Kopp
 ---

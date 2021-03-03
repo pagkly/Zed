@@ -1,7 +1,7 @@
 ---
 alias: [Travel Insurance Defined]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Travel Insurance Defined, [[What Is Travel Insurance]]?]
+tags: [Travel Insurance Defined, What Is Travel Insurance?]
 source: https://www.investopedia.com/terms/t/travel-insurance.asp
 author: Julia Kagan
 ---

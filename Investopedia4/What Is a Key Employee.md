@@ -1,7 +1,7 @@
 ---
 alias: [Key Employee]
 created: 2021-03-02T21:05:09 (UTC +11:00)
-tags: [Key Employee Definition, [[What Is a Key Employee]]?]
+tags: [Key Employee Definition, What Is a Key Employee?]
 source: https://www.investopedia.com/terms/k/key-employee.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Universal Default]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [Universal [[Default]] Definition, Universal Default Definition]
+tags: [Universal Default Definition, Universal Default Definition]
 source: https://www.investopedia.com/terms/u/universal-[[Default|default]].asp
 author: Jason Fernando
 ---

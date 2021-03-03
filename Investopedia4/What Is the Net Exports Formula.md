@@ -1,7 +1,7 @@
 ---
 alias: [Net Exports]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Net Exports Definition, [[What Is the Net Exports Formula]]?]
+tags: [Net Exports Definition, What Is the Net Exports Formula?]
 source: https://www.investopedia.com/terms/n/netexports.asp
 author: Christina Majaski
 ---

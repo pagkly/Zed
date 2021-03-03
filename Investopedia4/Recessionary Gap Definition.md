@@ -1,7 +1,7 @@
 ---
 alias: [Recessionary Gap]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Recessionary [[Gap Definition]], Recessionary Gap Definition]
+tags: [Recessionary Gap Definition, Recessionary Gap Definition]
 source: https://www.investopedia.com/terms/r/recessionarygap.asp
 author: Caroline Banton
 ---

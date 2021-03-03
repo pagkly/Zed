@@ -1,7 +1,7 @@
 ---
 alias: [Preemptive Rights]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Preemptive Rights Definition, What It Means to Own [[Stock]] with Preemptive Rights]
+tags: [Preemptive Rights Definition, What It Means to Own Stock with Preemptive Rights]
 source: https://www.investopedia.com/terms/p/preemptiveright.asp
 author: Carla Tardi
 ---

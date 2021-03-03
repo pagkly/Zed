@@ -1,7 +1,7 @@
 ---
 alias: [Wide Economic Moat]
 created: 2021-03-03T00:57:14 (UTC +11:00)
-tags: [Wide [[Economic Moat Definition]], What You Should Know About Wide Economic Moats]
+tags: [Wide Economic Moat Definition, What You Should Know About Wide Economic Moats]
 source: https://www.investopedia.com/terms/w/wide-economic-moat.asp
 author: Adam Hayes
 ---

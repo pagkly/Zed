@@ -1,7 +1,7 @@
 ---
 alias: [Zero Coupon Swap]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero Coupon [[Swap]] Definition, Zero Coupon Swap Definition]
+tags: [Zero Coupon Swap Definition, Zero Coupon Swap Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-coupon-[[Swap|swap]].asp
 author: James Chen
 ---

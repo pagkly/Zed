@@ -1,7 +1,7 @@
 ---
 alias: [Heterodox Economics]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Heterodox [[Economics]] Definition, Heterodox Economics Definition]
+tags: [Heterodox Economics Definition, Heterodox Economics Definition]
 source: https://www.investopedia.com/terms/h/heterodox-[[Economics|economics]].asp
 author: Clay Halton
 ---

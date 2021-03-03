@@ -1,7 +1,7 @@
 ---
 alias: [Deadweight Loss Of Taxation]
 created: 2021-03-02T19:09:22 (UTC +11:00)
-tags: [Deadweight Loss Of [[Taxation]] Definition, [[What Is Deadweight Loss Of Taxation]]?]
+tags: [Deadweight Loss Of Taxation Definition, [[What Is Deadweight Loss Of Taxation]]?]
 source: https://www.investopedia.com/terms/d/deadweight-loss-of-[[Taxation|taxation]].asp
 author: Julia Kagan
 ---

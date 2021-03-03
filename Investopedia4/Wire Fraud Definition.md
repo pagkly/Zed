@@ -1,7 +1,7 @@
 ---
 alias: [Wire Fraud]
 created: 2021-03-03T00:59:18 (UTC +11:00)
-tags: [Wire [[Fraud Definition]], Wire Fraud Definition]
+tags: [Wire Fraud Definition, Wire Fraud Definition]
 source: https://www.investopedia.com/terms/w/wirefraud.asp
 author: Adam Hayes
 ---

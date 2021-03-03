@@ -1,7 +1,7 @@
 ---
 alias: [Proportional Tax Defined]
 created: 2021-03-02T22:56:50 (UTC +11:00)
-tags: [Proportional Tax Defined, [[What Is a Proportional Tax]]?]
+tags: [Proportional Tax Defined, What Is a Proportional Tax?]
 source: https://www.investopedia.com/terms/p/proportionaltax.asp
 author: Julia Kagan
 ---

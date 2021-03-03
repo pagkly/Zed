@@ -1,7 +1,7 @@
 ---
 alias: [Risk/Reward Ratio]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Risk/Reward Ratio Definition, Inside the [[Risk]]/Reward Ratio]
+tags: [Risk/Reward Ratio Definition, Inside the Risk/Reward Ratio]
 source: https://www.investopedia.com/terms/r/riskrewardratio.asp
 author: Adam Hayes
 ---

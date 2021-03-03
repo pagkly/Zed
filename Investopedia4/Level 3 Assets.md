@@ -1,7 +1,7 @@
 ---
 alias: [Level 3 Assets]
 created: 2021-03-02T21:15:35 (UTC +11:00)
-tags: [Level 3 Assets Definition, [[Level 3]] Assets]
+tags: [Level 3 Assets Definition, Level 3 Assets]
 source: https://www.investopedia.com/terms/l/level3_assets.asp
 author: Daniel Liberto
 ---

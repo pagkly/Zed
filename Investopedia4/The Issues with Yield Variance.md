@@ -1,7 +1,7 @@
 ---
 alias: [Yield Variance]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Variance Definition, The Issues with [[Yield]] Variance]
+tags: [Yield Variance Definition, The Issues with Yield Variance]
 source: https://www.investopedia.com/terms/[[Y|y]]/[[Yield|yield]]-variance.asp
 author: Marshall Hargrave
 ---

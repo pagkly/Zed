@@ -1,7 +1,7 @@
 ---
 alias: [Workers' Compensation Coverage B]
 created: 2021-03-03T01:01:21 (UTC +11:00)
-tags: [Workers' Compensation Coverage B Definition, [[Workers' Compensation]] Coverage B]
+tags: [Workers' Compensation Coverage B Definition, Workers' Compensation Coverage B]
 source: https://www.investopedia.com/terms/w/workers-compensation-coverage-b.asp
 author: Julia Kagan
 ---

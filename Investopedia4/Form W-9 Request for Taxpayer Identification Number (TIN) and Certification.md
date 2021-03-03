@@ -1,7 +1,7 @@
 ---
 alias: [Form W-9 Request for [[Taxpayer]] Identification Number (TIN) and Certification]
 created: 2021-03-03T00:44:31 (UTC +11:00)
-tags: [Form W-9: Request for [[Taxpayer]] Identification Number (TIN) and Certification Definition, Form W-9: Request for Taxpayer Identification Number (TIN) and Certification]
+tags: [Form W-9: Request for Taxpayer Identification Number (TIN) and Certification Definition, Form W-9: Request for Taxpayer Identification Number (TIN) and Certification]
 source: https://www.investopedia.com/terms/w/w9form.asp
 author: Julia Kagan
 ---

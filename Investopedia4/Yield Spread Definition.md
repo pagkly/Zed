@@ -1,7 +1,7 @@
 ---
 alias: [Yield Spread]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Spread Definition, [[Yield]] Spread Definition]
+tags: [Yield Spread Definition, Yield Spread Definition]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldspread.asp
 author: James Chen
 ---

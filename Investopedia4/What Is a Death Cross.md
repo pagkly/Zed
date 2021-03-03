@@ -1,7 +1,7 @@
 ---
 alias: [Death Cross]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Death Cross Definition, [[What Is a Death Cross]]?]
+tags: [Death Cross Definition, What Is a Death Cross?]
 source: https://www.investopedia.com/terms/d/deathcross.asp
 author: James Chen
 ---

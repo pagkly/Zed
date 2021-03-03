@@ -1,7 +1,7 @@
 ---
 alias: [Limited Liability]
 created: 2021-03-02T21:19:46 (UTC +11:00)
-tags: [Limited [[Liability]] Definition, Limited Liability: What You Need to Know]
+tags: [Limited Liability Definition, Limited Liability: What You Need to Know]
 source: https://www.investopedia.com/terms/l/limitedliability.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Zombie ETF]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zombie ETF Definition, [[What Is a Zombie ETF]]?]
+tags: [Zombie ETF Definition, What Is a Zombie ETF?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zombie-etf.asp
 author: Daniel Liberto
 ---

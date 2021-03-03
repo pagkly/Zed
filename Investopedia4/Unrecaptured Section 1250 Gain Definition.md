@@ -1,7 +1,7 @@
 ---
 alias: [Unrecaptured Section 1250 Gain]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unrecaptured Section 1250 [[Gain]] Definition, Unrecaptured Section 1250 Gain Definition]
+tags: [Unrecaptured Section 1250 Gain Definition, Unrecaptured Section 1250 Gain Definition]
 source: https://www.investopedia.com/terms/u/unrecaptured-1250-[[Gain|gain]].asp
 author: Alicia Tuovila
 ---

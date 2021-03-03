@@ -1,7 +1,7 @@
 ---
 alias: [University of Miami Patti and Allan Herbert Business School]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [University of Miami Patti and Allan Herbert Business School Definition, [[What Does University of Miami Patti and Allan Herbert Business School Mean]]?]
+tags: [University of Miami Patti and Allan Herbert Business School Definition, What Does University of Miami Patti and Allan Herbert Business School Mean?]
 source: https://www.investopedia.com/terms/u/university-of-miami-school-of-business-administration.asp
 author: Jason Fernando
 ---

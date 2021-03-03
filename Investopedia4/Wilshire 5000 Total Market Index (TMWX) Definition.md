@@ -1,7 +1,7 @@
 ---
 alias: [Wilshire 5000 Total Market Index]
 created: 2021-03-03T00:59:17 (UTC +11:00)
-tags: [Wilshire 5000 Total [[Market Index]] Definition, Wilshire 5000 Total Market Index (TMWX) Definition]
+tags: [Wilshire 5000 Total Market Index Definition, Wilshire 5000 Total Market Index (TMWX) Definition]
 source: https://www.investopedia.com/terms/w/wilshire5000equityindex.asp
 author: Adam Hayes
 ---

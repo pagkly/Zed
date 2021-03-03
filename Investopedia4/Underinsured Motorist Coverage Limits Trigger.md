@@ -1,7 +1,7 @@
 ---
 alias: [Underinsured Motorist Coverage Limits Trigger]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [Underinsured Motorist Coverage Limits Trigger Definition, [[Underinsured Motorist Coverage]] Limits Trigger]
+tags: [Underinsured Motorist Coverage Limits Trigger Definition, Underinsured Motorist Coverage Limits Trigger]
 source: https://www.investopedia.com/terms/u/underinsured-motorist-coverage-limits-trigger.asp
 author: Adam Hayes
 ---

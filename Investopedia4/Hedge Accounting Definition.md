@@ -1,7 +1,7 @@
 ---
 alias: [Hedge Accounting]
 created: 2021-03-02T20:39:12 (UTC +11:00)
-tags: [Hedge Accounting Definition, [[Hedge]] Accounting Definition]
+tags: [Hedge Accounting Definition, Hedge Accounting Definition]
 source: https://www.investopedia.com/terms/h/[[Hedge|hedge]]-accounting.asp
 author: Alicia Tuovila
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Tax Base?]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [What Is a Tax Base?, [[What Is a Tax Base]]?]
+tags: [What Is a Tax Base?, What Is a Tax Base?]
 source: https://www.investopedia.com/terms/t/taxbase.asp
 author: Julia Kagan
 ---

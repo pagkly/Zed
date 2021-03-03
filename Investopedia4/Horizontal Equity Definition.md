@@ -1,7 +1,7 @@
 ---
 alias: [Horizontal Equity]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [Horizontal [[Equity]], Horizontal Equity Definition]
+tags: [Horizontal Equity, Horizontal Equity Definition]
 source: https://www.investopedia.com/terms/h/horizontalequity.asp
 author: Julia Kagan
 ---

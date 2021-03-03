@@ -1,7 +1,7 @@
 ---
 alias: [Good This Week (GTW) Defined]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Good This Week (GTW) Defined, [[What Does Good This Week (GTW) Mean]]?]
+tags: [Good This Week (GTW) Defined, What Does Good This Week (GTW) Mean?]
 source: https://www.investopedia.com/terms/g/good_this_week.asp
 author: Jason Fernando
 ---

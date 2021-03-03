@@ -1,7 +1,7 @@
 ---
 alias: [Fixed-Charge Coverage Ratio]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Fixed-Charge [[Coverage Ratio]] Definition, Fixed-Charge Coverage Ratio]
+tags: [Fixed-Charge Coverage Ratio Definition, Fixed-Charge Coverage Ratio]
 source: https://www.investopedia.com/terms/f/fixed-chargecoverageratio.asp
 author: Adam Hayes
 ---

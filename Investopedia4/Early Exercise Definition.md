@@ -1,7 +1,7 @@
 ---
 alias: [Early Exercise]
 created: 2021-03-02T19:29:08 (UTC +11:00)
-tags: [Early [[Exercise Definition]], Early Exercise Definition]
+tags: [Early Exercise Definition, Early Exercise Definition]
 source: https://www.investopedia.com/terms/e/earlyexercise.asp
 author: James Chen
 ---

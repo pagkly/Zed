@@ -1,7 +1,7 @@
 ---
 alias: [Offering Price]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offering Price, [[Offering]] Price]
+tags: [Offering Price, Offering Price]
 source: https://www.investopedia.com/terms/o/offeringprice.asp
 author: James Chen
 ---

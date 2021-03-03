@@ -1,7 +1,7 @@
 ---
 alias: [Redemption]
 created: 2021-03-02T23:12:20 (UTC +11:00)
-tags: [Redemption Definition, [[What is Redemption in Finance]]?]
+tags: [Redemption Definition, What is Redemption in Finance?]
 source: https://www.investopedia.com/terms/r/redemption.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Delinquent]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Delinquent Definition, [[What Does It Mean to Be Financially Delinquent]]?]
+tags: [Delinquent Definition, What Does It Mean to Be Financially Delinquent?]
 source: https://www.investopedia.com/terms/d/delinquent.asp
 author: Christina Majaski
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Magna Cum Laude]
 created: 2021-03-02T21:52:30 (UTC +11:00)
-tags: [Magna [[Cum Laude]] Definition, Reading Into Magna Cum Laude]
+tags: [Magna Cum Laude Definition, Reading Into Magna Cum Laude]
 source: https://www.investopedia.com/terms/m/magna-cum-laude.asp
 author: Julia Kagan
 ---

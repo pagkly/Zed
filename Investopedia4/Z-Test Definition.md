@@ -1,7 +1,7 @@
 ---
 alias: [Z-Test]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Z-Test Definition, [[Z]]-Test Definition]
+tags: [Z-Test Definition, Z-Test Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/z-test.asp
 author: James Chen
 ---

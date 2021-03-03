@@ -1,7 +1,7 @@
 ---
 alias: [Securitization]
 created: 2021-03-02T23:32:04 (UTC +11:00)
-tags: [Securitization Definition, Securitization: How [[Debt]] Makes You Money]
+tags: [Securitization Definition, Securitization: How Debt Makes You Money]
 source: https://www.investopedia.com/terms/s/securitization.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [On-Chain Governance]
 created: 2021-03-02T22:18:00 (UTC +11:00)
-tags: [On-Chain Governance Definition, [[What is on-chain governance]]?]
+tags: [On-Chain Governance Definition, What is on-chain governance?]
 source: https://www.investopedia.com/terms/o/onchain-governance.asp
 author: [[Will]] Kenton
 ---

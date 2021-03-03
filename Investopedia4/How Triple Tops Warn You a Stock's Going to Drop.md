@@ -1,7 +1,7 @@
 ---
 alias: [Triple Top]
 created: 2021-03-03T00:09:09 (UTC +11:00)
-tags: [Triple Top Definition, How Triple Tops Warn You a [[Stock]]'s Going to Drop]
+tags: [Triple Top Definition, How Triple Tops Warn You a Stock's Going to Drop]
 source: https://www.investopedia.com/terms/t/tripletop.asp
 author: Cory Mitchell
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Master Limited Partnership – MLP]
 created: 2021-03-02T22:01:10 (UTC +11:00)
-tags: [Master Limited Partnership – MLP Definition, Low-[[Risk|risk]], Tax-Free: Is a Master Limited Partnership – MLP For Real?]
+tags: [Master Limited Partnership – MLP Definition, Low-Risk|risk, Tax-Free: Is a Master Limited Partnership – MLP For Real?]
 source: https://www.investopedia.com/terms/m/mlp.asp
 author: James Chen
 ---

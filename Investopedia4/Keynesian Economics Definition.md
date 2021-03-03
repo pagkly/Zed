@@ -1,7 +1,7 @@
 ---
 alias: [Keynesian Economics]
 created: 2021-03-02T21:05:09 (UTC +11:00)
-tags: [Keynesian [[Economics]] Definition, Keynesian Economics Definition]
+tags: [Keynesian Economics Definition, Keynesian Economics Definition]
 source: https://www.investopedia.com/terms/k/keynesianeconomics.asp
 author: Investopedia Staff
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Discounted Payback Period]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Discounted [[Payback Period Definition]], Discounted Payback Period]
+tags: [Discounted Payback Period Definition, Discounted Payback Period]
 source: https://www.investopedia.com/terms/d/discounted-payback-period.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Marginal Rate of Transformation, MRT]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Marginal Rate of Transformation (MRT) Definition, [[How Much of One Good Must You Forgo to Create Another Good]]?]
+tags: [Marginal Rate of Transformation (MRT) Definition, How Much of One Good Must You Forgo to Create Another Good?]
 source: https://www.investopedia.com/terms/m/marginal_rate_transformation.asp
 author: Marshall Hargrave
 ---

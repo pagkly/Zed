@@ -1,7 +1,7 @@
 ---
 alias: [Open-End Mortgage]
 created: 2021-03-02T22:20:05 (UTC +11:00)
-tags: [Open-End [[Mortgage Definition]], Open-End Mortgage Definition]
+tags: [Open-End Mortgage Definition, Open-End Mortgage Definition]
 source: https://www.investopedia.com/terms/open-end-mortgage.asp
 author: Julia Kagan
 ---

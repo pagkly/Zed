@@ -1,7 +1,7 @@
 ---
 alias: [Stratified Random Sampling]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stratified Random [[Sampling Definition]], Reading Into Stratified Random Sampling]
+tags: [Stratified Random Sampling Definition, Reading Into Stratified Random Sampling]
 source: https://www.investopedia.com/terms/stratified_random_sampling.asp
 author: Adam Hayes
 ---

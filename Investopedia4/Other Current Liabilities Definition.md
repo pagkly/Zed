@@ -1,7 +1,7 @@
 ---
 alias: [Other Current Liabilities]
 created: 2021-03-02T22:29:31 (UTC +11:00)
-tags: [Other [[Current Liabilities Definition]], Other Current Liabilities Definition]
+tags: [Other Current Liabilities Definition, Other Current Liabilities Definition]
 source: https://www.investopedia.com/terms/o/othercurrentliabilities.asp
 author: Carla Tardi
 ---

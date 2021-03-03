@@ -1,7 +1,7 @@
 ---
 alias: [Junior Debt]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Junior [[Debt]], Junior Debt Definition]
+tags: [Junior Debt, Junior Debt Definition]
 source: https://www.investopedia.com/terms/j/junior-[[Debt|debt]].asp
 author: Julia Kagan
 ---

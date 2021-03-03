@@ -1,7 +1,7 @@
 ---
 alias: [Momentum Investing]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Momentum Investing Definition, How [[Momentum]] Investing Works]
+tags: [Momentum Investing Definition, How Momentum Investing Works]
 source: https://www.investopedia.com/terms/m/momentum_investing.asp
 author: Troy Segal
 ---

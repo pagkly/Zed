@@ -1,7 +1,7 @@
 ---
 alias: [Leg]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Leg Definition, [[How Does a Leg Strategy Work]]?]
+tags: [Leg Definition, How Does a Leg Strategy Work?]
 source: https://www.investopedia.com/terms/l/leg.asp
 author: Rajeev Dhir
 ---

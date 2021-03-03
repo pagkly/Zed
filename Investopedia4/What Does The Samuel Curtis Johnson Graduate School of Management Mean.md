@@ -1,7 +1,7 @@
 ---
 alias: [The Samuel Curtis Johnson Graduate School of Management]
 created: 2021-03-02T20:58:33 (UTC +11:00)
-tags: [The Samuel Curtis Johnson Graduate School of Management Definition, [[What Does The Samuel Curtis Johnson Graduate School of Management Mean]]?]
+tags: [The Samuel Curtis Johnson Graduate School of Management Definition, What Does The Samuel Curtis Johnson Graduate School of Management Mean?]
 source: https://www.investopedia.com/terms/j/johnson-school-at-cornell-university.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [The Great Recession]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [The Great [[Recession Definition]], The Great Recession Definition]
+tags: [The Great Recession Definition, The Great Recession Definition]
 source: https://www.investopedia.com/terms/g/great-recession.asp
 author: Investopedia Staff
 ---

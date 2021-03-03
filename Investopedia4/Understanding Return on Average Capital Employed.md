@@ -1,7 +1,7 @@
 ---
 alias: [Return on Average Capital Employed – ROACE]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Average Capital Employed – ROACE Definition, Understanding [[Return]] on Average Capital Employed]
+tags: [Return on Average Capital Employed – ROACE Definition, Understanding Return on Average Capital Employed]
 source: https://www.investopedia.com/terms/r/[[Return|return]]-on-average-capital-employed-roace.asp
 author: Adam Hayes
 ---

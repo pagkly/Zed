@@ -1,7 +1,7 @@
 ---
 alias: [Gold Certificate]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Gold Certificate Definition, [[What Is a Gold Certificate]]?]
+tags: [Gold Certificate Definition, What Is a Gold Certificate?]
 source: https://www.investopedia.com/terms/g/goldcertificate.asp
 author: James Chen
 ---

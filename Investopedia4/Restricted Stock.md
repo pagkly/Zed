@@ -1,7 +1,7 @@
 ---
 alias: [Restricted Stock]
 created: 2021-03-02T23:18:55 (UTC +11:00)
-tags: [Restricted [[Stock]] Definition, Restricted Stock]
+tags: [Restricted Stock Definition, Restricted Stock]
 source: https://www.investopedia.com/terms/r/restrictedstock.asp
 author: James Chen
 ---

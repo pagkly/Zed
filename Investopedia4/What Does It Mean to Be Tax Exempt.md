@@ -1,7 +1,7 @@
 ---
 alias: [What Does It Mean to Be Tax Exempt?]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [What Does It Mean to Be Tax Exempt?, [[What Does It Mean to Be Tax Exempt]]?]
+tags: [What Does It Mean to Be Tax Exempt?, What Does It Mean to Be Tax Exempt?]
 source: https://www.investopedia.com/terms/t/tax_exempt.asp
 author: Julia Kagan
 ---

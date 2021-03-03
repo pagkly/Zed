@@ -1,7 +1,7 @@
 ---
 alias: [Non-Operating Income]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-[[Operating Income Definition]], Non-Operating Income Definition]
+tags: [Non-Operating Income Definition, Non-Operating Income Definition]
 source: https://www.investopedia.com/terms/n/non-operating-income.asp
 author: Daniel Liberto
 ---

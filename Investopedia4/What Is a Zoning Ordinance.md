@@ -1,7 +1,7 @@
 ---
 alias: [Zoning Ordinance]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zoning Ordinance Definition, [[What Is a Zoning Ordinance]]?]
+tags: [Zoning Ordinance Definition, What Is a Zoning Ordinance?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zoning-ordinance.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Fixed Interest Rate]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Fixed Interest Rate Definition, How a Fixed Interest Rate on a [[Loan]] Can Affect Your Budget]
+tags: [Fixed Interest Rate Definition, How a Fixed Interest Rate on a Loan Can Affect Your Budget]
 source: https://www.investopedia.com/terms/f/fixedinterestrate.asp
 author: Carol M. Kopp
 ---

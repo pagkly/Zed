@@ -1,7 +1,7 @@
 ---
 alias: [Money Market Account]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Money Market Account Definition, [[What is a Money Market Account]]?]
+tags: [Money Market Account Definition, What is a Money Market Account?]
 source: https://www.investopedia.com/terms/m/moneymarketaccount.asp
 author: Jim Probasco
 ---

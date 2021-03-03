@@ -1,7 +1,7 @@
 ---
 alias: [Goldilocks Economy]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Goldilocks Economy Definition, [[How to Identify a Goldilocks Economy]]?]
+tags: [Goldilocks Economy Definition, How to Identify a Goldilocks Economy?]
 source: https://www.investopedia.com/terms/g/goldilockseconomy.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Debt Collector]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Collector Definition, [[Debt]] Collector Definition]
+tags: [Debt Collector Definition, Debt Collector Definition]
 source: https://www.investopedia.com/terms/d/[[Debt|debt]]-collector.asp
 author: Julia Kagan
 ---

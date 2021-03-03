@@ -1,7 +1,7 @@
 ---
 alias: [Lease Option]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Lease Option Definition, How a [[Lease]] Option Works and Helps with a Downpayment on a Home]
+tags: [Lease Option Definition, How a Lease Option Works and Helps with a Downpayment on a Home]
 source: https://www.investopedia.com/terms/l/[[Lease|lease]]-option.asp
 author: James Chen
 ---

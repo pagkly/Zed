@@ -1,7 +1,7 @@
 ---
 alias: [Underpricing]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underpricing Definition, [[What Is Underpricing an IPO]]?]
+tags: [Underpricing Definition, What Is Underpricing an IPO?]
 source: https://www.investopedia.com/terms/u/underpricing.asp
 author: Julia Kagan
 ---

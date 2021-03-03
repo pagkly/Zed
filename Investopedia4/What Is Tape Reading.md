@@ -1,7 +1,7 @@
 ---
 alias: [Tape Reading]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tape Reading Definition, [[What Is Tape Reading]]?]
+tags: [Tape Reading Definition, What Is Tape Reading?]
 source: https://www.investopedia.com/terms/t/tape-reading.asp
 author: James Chen
 ---

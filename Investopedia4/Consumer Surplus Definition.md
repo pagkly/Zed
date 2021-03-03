@@ -1,7 +1,7 @@
 ---
 alias: [Consumer Surplus]
 created: 2021-03-02T18:58:07 (UTC +11:00)
-tags: [Consumer [[Surplus]] Definition, Consumer Surplus Definition]
+tags: [Consumer Surplus Definition, Consumer Surplus Definition]
 source: https://www.investopedia.com/terms/c/consumer_surplus.asp
 author: Chris B. Murphy
 ---

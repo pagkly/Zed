@@ -1,7 +1,7 @@
 ---
 alias: [Last [[Will]] And Testament]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Last [[Will]] And Testament Definition, Last Will And Testament]
+tags: [Last Will And Testament Definition, Last Will And Testament]
 source: https://www.investopedia.com/terms/l/last-[[Will|will]]-and-testament.asp
 author: Julia Kagan
 ---

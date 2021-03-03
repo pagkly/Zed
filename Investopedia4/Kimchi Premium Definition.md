@@ -1,7 +1,7 @@
 ---
 alias: [Kimchi Premium]
 created: 2021-03-02T21:07:18 (UTC +11:00)
-tags: [Kimchi [[Premium]] Definition, Kimchi Premium Definition]
+tags: [Kimchi Premium Definition, Kimchi Premium Definition]
 source: https://www.investopedia.com/terms/k/kimchi-[[Premium|premium]].asp
 author: Jake Frankenfield
 ---

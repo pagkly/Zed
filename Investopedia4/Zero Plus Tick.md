@@ -1,7 +1,7 @@
 ---
 alias: [Zero Plus Tick]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zero Plus [[Tick Definition]], Zero Plus Tick]
+tags: [Zero Plus Tick Definition, Zero Plus Tick]
 source: https://www.investopedia.com/terms/[[Z|z]]/zeroplustick.asp
 author: Cory Mitchell
 ---

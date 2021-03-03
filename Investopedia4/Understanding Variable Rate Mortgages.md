@@ -1,7 +1,7 @@
 ---
 alias: [Variable Rate Mortgage]
 created: 2021-03-03T00:36:24 (UTC +11:00)
-tags: [Variable Rate [[Mortgage Definition]], Understanding Variable Rate Mortgages]
+tags: [Variable Rate Mortgage Definition, Understanding Variable Rate Mortgages]
 source: https://www.investopedia.com/terms/v/variable-rate-mortgage.asp
 author: Adam Hayes
 ---

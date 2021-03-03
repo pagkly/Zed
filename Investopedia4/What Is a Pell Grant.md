@@ -1,7 +1,7 @@
 ---
 alias: [Pell Grant]
 created: 2021-03-02T22:40:13 (UTC +11:00)
-tags: [Pell [[Grant]] Definition, [[What Is a Pell Grant]]?]
+tags: [Pell Grant Definition, [[What Is a Pell Grant]]?]
 source: https://www.investopedia.com/terms/p/pell-[[Grant|grant]].asp
 author: Maya E. Dollarhide
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Godfather Offer]
 created: 2021-03-02T20:20:50 (UTC +11:00)
-tags: [Godfather [[Offer]] Definition, Godfather Offer Definition]
+tags: [Godfather Offer Definition, Godfather Offer Definition]
 source: https://www.investopedia.com/terms/g/godfatheroffer.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Holographic Will]
 created: 2021-03-02T20:47:35 (UTC +11:00)
-tags: [Holographic [[Will]] Definition, Holographic Will Definition]
+tags: [Holographic Will Definition, Holographic Will Definition]
 source: https://www.investopedia.com/terms/h/holographic-[[Will|will]].asp
 author: Julia Kagan
 ---

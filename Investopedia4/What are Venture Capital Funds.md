@@ -1,7 +1,7 @@
 ---
 alias: [Venture Capital Funds]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Venture Capital Funds Definition, [[What are Venture Capital Funds]]?]
+tags: [Venture Capital Funds Definition, What are Venture Capital Funds?]
 source: https://www.investopedia.com/terms/v/vcfund.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Keogh Plan]
 created: 2021-03-02T21:05:08 (UTC +11:00)
-tags: [Keogh Plan Definition, [[What Is a Keogh Plan]]?]
+tags: [Keogh Plan Definition, What Is a Keogh Plan?]
 source: https://www.investopedia.com/terms/k/keoghplan.asp
 author: Julia Kagan
 ---

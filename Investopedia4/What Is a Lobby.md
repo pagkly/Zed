@@ -1,7 +1,7 @@
 ---
 alias: [Lobby]
 created: 2021-03-02T21:25:54 (UTC +11:00)
-tags: [Lobby Definition, [[What Is a Lobby]]?]
+tags: [Lobby Definition, What Is a Lobby?]
 source: https://www.investopedia.com/terms/l/lobby.asp
 author: James Chen
 ---

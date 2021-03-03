@@ -1,7 +1,7 @@
 ---
 alias: [Vega Neutral]
 created: 2021-03-03T00:38:23 (UTC +11:00)
-tags: [Vega [[Neutral]] Definition, Vega Neutral Definition]
+tags: [Vega Neutral Definition, Vega Neutral Definition]
 source: https://www.investopedia.com/terms/v/vega-[[Neutral|neutral]].asp
 author: Lucas Downey
 ---

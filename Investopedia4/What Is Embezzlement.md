@@ -1,7 +1,7 @@
 ---
 alias: [Embezzlement]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Embezzlement Definition, [[What Is Embezzlement]]?]
+tags: [Embezzlement Definition, What Is Embezzlement?]
 source: https://www.investopedia.com/terms/e/embezzlement.asp
 author: James Chen
 ---

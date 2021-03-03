@@ -1,7 +1,7 @@
 ---
 alias: [Subprime Loan]
 created: 2021-03-02T23:47:46 (UTC +11:00)
-tags: [Subprime [[Loan]] Definition, Subprime Loan]
+tags: [Subprime Loan Definition, Subprime Loan]
 source: https://www.investopedia.com/terms/s/subprimeloan.asp
 author: James Chen
 ---

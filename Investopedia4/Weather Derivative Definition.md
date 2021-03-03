@@ -1,7 +1,7 @@
 ---
 alias: [Weather Derivative]
 created: 2021-03-03T00:50:37 (UTC +11:00)
-tags: [Weather [[Derivative]] Definition, Weather Derivative Definition]
+tags: [Weather Derivative Definition, Weather Derivative Definition]
 source: https://www.investopedia.com/terms/w/weatherderivative.asp
 author: James Chen
 ---

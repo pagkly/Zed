@@ -1,7 +1,7 @@
 ---
 alias: [Non-Assessable Stock]
 created: 2021-03-02T21:45:56 (UTC +11:00)
-tags: [Non-Assessable [[Stock]] Definition, Non-Assessable Stock Definition]
+tags: [Non-Assessable Stock Definition, Non-Assessable Stock Definition]
 source: https://www.investopedia.com/terms/n/nonassessablestock.asp
 author: Troy Segal
 ---

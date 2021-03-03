@@ -1,7 +1,7 @@
 ---
 alias: [Fourth World]
 created: 2021-03-02T20:07:41 (UTC +11:00)
-tags: [Fourth World Definition, [[What Is the Fourth World]]?]
+tags: [Fourth World Definition, What Is the Fourth World?]
 source: https://www.investopedia.com/terms/f/fourth-world.asp
 author: Daniel Liberto
 ---

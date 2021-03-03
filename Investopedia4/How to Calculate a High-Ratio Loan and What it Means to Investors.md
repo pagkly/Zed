@@ -1,7 +1,7 @@
 ---
 alias: [High Ratio Loan]
 created: 2021-03-02T20:43:24 (UTC +11:00)
-tags: [High Ratio [[Loan]] Definition, How to Calculate a High-Ratio Loan and What it Means to Investors]
+tags: [High Ratio Loan Definition, How to Calculate a High-Ratio Loan and What it Means to Investors]
 source: https://www.investopedia.com/terms/h/high-ratio-[[Loan|loan]].asp
 author: Chris B Murphy
 ---

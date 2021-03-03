@@ -1,7 +1,7 @@
 ---
 alias: [House Maintenance Requirement]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [House Maintenance Requirement Definition, [[What Does House Maintenance Requirement Mean]]?]
+tags: [House Maintenance Requirement Definition, What Does House Maintenance Requirement Mean?]
 source: https://www.investopedia.com/terms/h/housemaintenancerequirement.asp
 author: Jason Fernando
 ---

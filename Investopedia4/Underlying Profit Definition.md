@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Profit]
 created: 2021-03-03T00:17:16 (UTC +11:00)
-tags: [Underlying Profit Definition, [[Underlying]] Profit Definition]
+tags: [Underlying Profit Definition, Underlying Profit Definition]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-profit.asp
 author: Daniel Liberto
 ---

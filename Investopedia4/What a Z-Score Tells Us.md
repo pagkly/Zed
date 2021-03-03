@@ -1,7 +1,7 @@
 ---
 alias: [Z-Score]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Z-Score Definition, What a [[Z]]-Score Tells Us]
+tags: [Z-Score Definition, What a Z-Score Tells Us]
 source: https://www.investopedia.com/terms/[[Z|z]]/zscore.asp
 author: Adam Hayes
 ---

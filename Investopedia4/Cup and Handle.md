@@ -1,7 +1,7 @@
 ---
 alias: [Cup and Handle]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Cup and [[Handle Definition]], Cup and Handle]
+tags: [Cup and Handle Definition, Cup and Handle]
 source: https://www.investopedia.com/terms/c/cupandhandle.asp
 author: James Chen
 ---

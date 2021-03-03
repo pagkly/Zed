@@ -1,7 +1,7 @@
 ---
 alias: [Scalping]
 created: 2021-03-02T23:29:57 (UTC +11:00)
-tags: [Scalping Definition, [[What Is Scalping]]?]
+tags: [Scalping Definition, What Is Scalping?]
 source: https://www.investopedia.com/terms/s/scalping.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Yankee Bond Defined]
 created: 2021-03-03T01:06:05 (UTC +11:00)
-tags: [Yankee Bond Defined, [[What Is a Yankee Bond]]?]
+tags: [Yankee Bond Defined, What Is a Yankee Bond?]
 source: https://www.investopedia.com/terms/[[Y|y]]/yankeebond.asp
 author: James Chen and Troy Segal
 ---

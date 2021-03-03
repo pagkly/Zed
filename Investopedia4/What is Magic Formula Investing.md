@@ -1,7 +1,7 @@
 ---
 alias: [Magic Formula Investing]
 created: 2021-03-02T21:52:30 (UTC +11:00)
-tags: [Magic Formula Investing Definition, [[What is Magic Formula Investing]]?]
+tags: [Magic Formula Investing Definition, What is Magic Formula Investing?]
 source: https://www.investopedia.com/terms/m/magic-formula-investing.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Delayed Draw Term Loan]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Delayed Draw Term [[Loan]] Definition, [[What is a Delayed Draw Term Loan]]>]
+tags: [Delayed Draw Term Loan Definition, [[What is a Delayed Draw Term Loan]]>]
 source: https://www.investopedia.com/terms/d/delayeddrawtermloan.asp
 author: Julia Kagan
 ---

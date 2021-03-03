@@ -1,7 +1,7 @@
 ---
 alias: [Value-Added Tax, VAT]
 created: 2021-03-03T00:34:21 (UTC +11:00)
-tags: [Value-Added Tax (VAT) Definition, [[What Is a Value-Added Tax (VAT)]]?]
+tags: [Value-Added Tax (VAT) Definition, What Is a Value-Added Tax (VAT)?]
 source: https://www.investopedia.com/terms/v/valueaddedtax.asp
 author: Julia Kagan
 ---

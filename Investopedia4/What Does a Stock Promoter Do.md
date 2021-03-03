@@ -1,7 +1,7 @@
 ---
 alias: [Promoter]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Promoter Definition, [[What Does a Stock Promoter Do]]?]
+tags: [Promoter Definition, What Does a Stock Promoter Do?]
 source: https://www.investopedia.com/terms/p/promoter.asp
 author: Marshall Hargrave
 ---

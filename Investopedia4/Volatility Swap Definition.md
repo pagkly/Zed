@@ -1,7 +1,7 @@
 ---
 alias: [Volatility Swap]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Volatility [[Swap]] Definition, [[Volatility]] Swap Definition]
+tags: [Volatility Swap Definition, [[Volatility]] Swap Definition]
 source: https://www.investopedia.com/terms/v/volatilityswap.asp
 author: Cory Mitchell
 ---

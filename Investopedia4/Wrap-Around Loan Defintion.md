@@ -1,7 +1,7 @@
 ---
 alias: [Wrap-Around Loan]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [Wrap-Around [[Loan]] Definition, Wrap-Around Loan Defintion]
+tags: [Wrap-Around Loan Definition, Wrap-Around Loan Defintion]
 source: https://www.investopedia.com/terms/w/wrap-around-[[Loan|loan]].asp
 author: Julia Kagan
 ---

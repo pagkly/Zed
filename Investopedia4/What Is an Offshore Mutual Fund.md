@@ -1,7 +1,7 @@
 ---
 alias: [Offshore Mutual Fund Defined]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offshore Mutual Fund Defined, [[What Is an Offshore Mutual Fund]]?]
+tags: [Offshore Mutual Fund Defined, What Is an Offshore Mutual Fund?]
 source: https://www.investopedia.com/terms/o/offshoremutualfund.asp
 author: James Chen
 ---

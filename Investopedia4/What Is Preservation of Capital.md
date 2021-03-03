@@ -1,7 +1,7 @@
 ---
 alias: [What Is Preservation of Capital?]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [What Is Preservation of Capital?, [[What Is Preservation of Capital]]?]
+tags: [What Is Preservation of Capital?, What Is Preservation of Capital?]
 source: https://www.investopedia.com/terms/p/preservationofcapital.asp
 author: James Chen
 ---

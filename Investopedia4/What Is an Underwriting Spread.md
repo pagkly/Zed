@@ -1,7 +1,7 @@
 ---
 alias: [Underwriting Spread Defined]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwriting Spread Defined, [[What Is an Underwriting Spread]]?]
+tags: [Underwriting Spread Defined, What Is an Underwriting Spread?]
 source: https://www.investopedia.com/terms/u/underwritingspread.asp
 author: James Chen
 ---

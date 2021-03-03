@@ -1,7 +1,7 @@
 ---
 alias: [Free Rider Problem]
 created: 2021-03-02T20:07:42 (UTC +11:00)
-tags: [Free Rider Problem Definition, [[What Is the Free Rider Problem]]?]
+tags: [Free Rider Problem Definition, What Is the Free Rider Problem?]
 source: https://www.investopedia.com/terms/f/free_rider_problem.asp
 author: Investopedia Staff
 ---

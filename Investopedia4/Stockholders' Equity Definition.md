@@ -1,7 +1,7 @@
 ---
 alias: [Stockholders' Equity]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stockholders' [[Equity]] Definition, Stockholders' Equity Definition]
+tags: [Stockholders' Equity Definition, Stockholders' Equity Definition]
 source: https://www.investopedia.com/terms/s/stockholdersequity.asp
 author: James Chen
 ---

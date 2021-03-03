@@ -1,7 +1,7 @@
 ---
 alias: [Ground Lease]
 created: 2021-03-02T20:30:10 (UTC +11:00)
-tags: [Ground [[Lease]] Definition, [[What Is a Ground Lease]]?]
+tags: [Ground Lease Definition, [[What Is a Ground Lease]]?]
 source: https://www.investopedia.com/terms/g/ground-[[Lease|lease]].asp
 author: James Chen
 ---

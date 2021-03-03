@@ -1,7 +1,7 @@
 ---
 alias: [Floating [[Exchange Rate Definition]] and History]
 created: 2021-03-02T20:01:16 (UTC +11:00)
-tags: [Floating [[Exchange Rate Definition]] and History, Floating Exchange Rate Definition and History]
+tags: [Floating Exchange Rate Definition and History, Floating Exchange Rate Definition and History]
 source: https://www.investopedia.com/terms/f/floatingexchangerate.asp
 author: Cory Mitchell
 ---

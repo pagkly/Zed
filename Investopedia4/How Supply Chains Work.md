@@ -1,7 +1,7 @@
 ---
 alias: [Supply Chain]
 created: 2021-03-02T23:47:47 (UTC +11:00)
-tags: [Supply Chain Definition, How [[Supply]] Chains Work]
+tags: [Supply Chain Definition, How Supply Chains Work]
 source: https://www.investopedia.com/terms/s/supplychain.asp
 author: [[Will]] Kenton
 ---

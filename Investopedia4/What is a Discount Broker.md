@@ -1,7 +1,7 @@
 ---
 alias: [What is a Discount Broker?]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [What is a Discount Broker?, [[What is a Discount Broker]]?]
+tags: [What is a Discount Broker?, What is a Discount Broker?]
 source: https://www.investopedia.com/terms/d/discountbroker.asp
 author: Caroline Banton
 ---

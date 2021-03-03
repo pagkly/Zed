@@ -1,7 +1,7 @@
 ---
 alias: [Pattern Day Trader]
 created: 2021-03-02T22:38:08 (UTC +11:00)
-tags: [Pattern [[Day Trader Definition]], Pattern Day Trader Definition]
+tags: [Pattern Day Trader Definition, Pattern Day Trader Definition]
 source: https://www.investopedia.com/terms/p/patterndaytrader.asp
 author: James Chen
 ---

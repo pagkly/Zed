@@ -1,7 +1,7 @@
 ---
 alias: [Noninterest Expense]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Noninterest [[Expense Definition]], Noninterest Expenses: What You Should Know]
+tags: [Noninterest Expense Definition, Noninterest Expenses: What You Should Know]
 source: https://www.investopedia.com/terms/n/noninterest-expense.asp
 author: Caroline Banton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Fiat Money]
 created: 2021-03-02T19:54:41 (UTC +11:00)
-tags: [Fiat [[Money Definition]], Fiat Money]
+tags: [Fiat Money Definition, Fiat Money]
 source: https://www.investopedia.com/terms/f/fiatmoney.asp
 author: James Chen
 ---

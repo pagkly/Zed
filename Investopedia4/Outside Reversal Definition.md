@@ -1,7 +1,7 @@
 ---
 alias: [Outside Reversal]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Outside [[Reversal]] Definition, Outside Reversal Definition]
+tags: [Outside Reversal Definition, Outside Reversal Definition]
 source: https://www.investopedia.com/terms/o/outsidereversal.asp
 author: Gordon Scott, CMT
 ---

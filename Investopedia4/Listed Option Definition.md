@@ -1,7 +1,7 @@
 ---
 alias: [Listed Option]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Listed Option Definition, [[Listed]] Option Definition]
+tags: [Listed Option Definition, Listed Option Definition]
 source: https://www.investopedia.com/terms/l/listedoption.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Joint Owned Property]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint Owned Property Definition, [[Joint]] Owned Property]
+tags: [Joint Owned Property Definition, Joint Owned Property]
 source: https://www.investopedia.com/terms/j/jointownedproperty.asp
 author: Julia Kagan
 ---

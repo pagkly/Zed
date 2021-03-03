@@ -1,7 +1,7 @@
 ---
 alias: [Widow-And-Orphan Stock]
 created: 2021-03-03T00:57:14 (UTC +11:00)
-tags: [Widow-And-Orphan [[Stock]] Definition, Widow-And-Orphan Stock Definition]
+tags: [Widow-And-Orphan Stock Definition, Widow-And-Orphan Stock Definition]
 source: https://www.investopedia.com/terms/w/widowandorphanstock.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Joint Venture, JV]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint Venture (JV) Definition, How and When to Set up a [[Joint]] Venture (JV)]
+tags: [Joint Venture (JV) Definition, How and When to Set up a Joint Venture (JV)]
 source: https://www.investopedia.com/terms/j/jointventure.asp
 author: Marshall Hargrave
 ---

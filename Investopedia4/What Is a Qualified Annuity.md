@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Annuity]
 created: 2021-03-02T22:58:54 (UTC +11:00)
-tags: [Qualified Annuity Definition, [[What Is a Qualified Annuity]]?]
+tags: [Qualified Annuity Definition, What Is a Qualified Annuity?]
 source: https://www.investopedia.com/terms/q/qualified-annuity.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Dividend]
 created: 2021-03-02T23:00:58 (UTC +11:00)
-tags: [Qualified [[Dividend Definition]], Qualified Dividend]
+tags: [Qualified Dividend Definition, Qualified Dividend]
 source: https://www.investopedia.com/terms/q/qualifieddividend.asp
 author: Nathan Reiff
 ---

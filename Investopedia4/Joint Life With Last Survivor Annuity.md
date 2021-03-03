@@ -1,7 +1,7 @@
 ---
 alias: [Joint Life With Last Survivor Annuity]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint Life With Last Survivor Annuity, [[Joint]] Life With Last Survivor Annuity]
+tags: [Joint Life With Last Survivor Annuity, Joint Life With Last Survivor Annuity]
 source: https://www.investopedia.com/terms/j/jointlifelastsurvivorannuity.asp
 author: Julia Kagan
 ---

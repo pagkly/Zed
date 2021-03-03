@@ -1,7 +1,7 @@
 ---
 alias: [Welfare Economics]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Welfare [[Economics]] Definition, Welfare Economics]
+tags: [Welfare Economics Definition, Welfare Economics]
 source: https://www.investopedia.com/terms/w/welfare_economics.asp
 author: Investopedia Staff
 ---

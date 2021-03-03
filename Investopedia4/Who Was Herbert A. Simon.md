@@ -1,7 +1,7 @@
 ---
 alias: [Herbert A. Simon]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Herbert A. Simon Definition, [[Who Was Herbert A. Simon]]?]
+tags: [Herbert A. Simon Definition, Who Was Herbert A. Simon?]
 source: https://www.investopedia.com/terms/h/herbert-a-simon.asp
 author: Jake Frankenfield
 ---

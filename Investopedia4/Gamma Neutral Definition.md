@@ -1,7 +1,7 @@
 ---
 alias: [Gamma Neutral]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Gamma [[Neutral]] Definition, Gamma Neutral Definition]
+tags: [Gamma Neutral Definition, Gamma Neutral Definition]
 source: https://www.investopedia.com/terms/g/gammaneutral.asp
 author: Adam Hayes
 ---

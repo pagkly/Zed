@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Quotation?]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [What Is a Quotation?, [[What Is a Quotation]]?]
+tags: [What Is a Quotation?, What Is a Quotation?]
 source: https://www.investopedia.com/terms/q/quotation.asp
 author: James Chen
 ---

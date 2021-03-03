@@ -1,7 +1,7 @@
 ---
 alias: [Tangible Personal Property]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tangible [[Personal Property]], Tangible Personal Property]
+tags: [Tangible Personal Property, Tangible Personal Property]
 source: https://www.investopedia.com/terms/t/tangible-personal-property.asp
 author: Julia Kagan
 ---

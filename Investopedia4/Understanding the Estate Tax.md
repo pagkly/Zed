@@ -1,7 +1,7 @@
 ---
 alias: [Estate Tax]
 created: 2021-03-02T19:42:14 (UTC +11:00)
-tags: [Estate Tax Definition, Understanding the [[Estate]] Tax]
+tags: [Estate Tax Definition, Understanding the Estate Tax]
 source: https://www.investopedia.com/terms/e/estatetax.asp
 author: Julia Kagan
 ---

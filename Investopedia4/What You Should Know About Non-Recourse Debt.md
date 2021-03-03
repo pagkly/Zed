@@ -1,7 +1,7 @@
 ---
 alias: [Non-Recourse Debt]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Non-Recourse [[Debt]] Definition, What You Should Know About Non-Recourse Debt]
+tags: [Non-Recourse Debt Definition, What You Should Know About Non-Recourse Debt]
 source: https://www.investopedia.com/terms/n/nonrecoursedebt.asp
 author: Julia Kagan
 ---

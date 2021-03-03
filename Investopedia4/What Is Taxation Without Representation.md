@@ -1,7 +1,7 @@
 ---
 alias: [Taxation Without Representation]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [Taxation Without Representation Definition, [[What Is Taxation Without Representation]]?]
+tags: [Taxation Without Representation Definition, What Is Taxation Without Representation?]
 source: https://www.investopedia.com/terms/t/tax_without_representation.asp
 author: Julia Kagan
 ---

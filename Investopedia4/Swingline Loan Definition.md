@@ -1,7 +1,7 @@
 ---
 alias: [Swingline Loan]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Swingline [[Loan]] Definition, Swingline Loan Definition]
+tags: [Swingline Loan Definition, Swingline Loan Definition]
 source: https://www.investopedia.com/terms/s/swinglineloan.asp
 author: Julia Kagan
 ---

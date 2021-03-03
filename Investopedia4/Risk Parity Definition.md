@@ -1,7 +1,7 @@
 ---
 alias: [Risk Parity]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk Parity Definition, [[Risk]] Parity Definition]
+tags: [Risk Parity Definition, Risk Parity Definition]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-parity.asp
 author: Adam Barone
 ---

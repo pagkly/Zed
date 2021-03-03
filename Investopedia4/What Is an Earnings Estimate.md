@@ -1,7 +1,7 @@
 ---
 alias: [What Is an Earnings Estimate?]
 created: 2021-03-02T19:29:09 (UTC +11:00)
-tags: [What Is an Earnings Estimate?, [[What Is an Earnings Estimate]]?]
+tags: [What Is an Earnings Estimate?, What Is an Earnings Estimate?]
 source: https://www.investopedia.com/terms/e/earningsestimate.asp
 author: [[Will]] Kenton
 ---

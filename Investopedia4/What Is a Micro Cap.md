@@ -1,7 +1,7 @@
 ---
 alias: [Micro Cap]
 created: 2021-03-02T22:03:18 (UTC +11:00)
-tags: [Micro Cap Definition, [[What Is a Micro Cap]]?]
+tags: [Micro Cap Definition, What Is a Micro Cap?]
 source: https://www.investopedia.com/terms/m/microcapstock.asp
 author: James Chen
 ---

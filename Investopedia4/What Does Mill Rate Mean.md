@@ -1,7 +1,7 @@
 ---
 alias: [Mill Rate]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Mill Rate Definition, [[What Does Mill Rate Mean]]?]
+tags: [Mill Rate Definition, What Does Mill Rate Mean?]
 source: https://www.investopedia.com/terms/m/millrate.asp
 author: Julia Kagan
 ---

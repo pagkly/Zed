@@ -1,7 +1,7 @@
 ---
 alias: [Long-Term Capital [[Gain]] or Loss]
 created: 2021-03-02T21:27:59 (UTC +11:00)
-tags: [Long-Term Capital [[Gain]] or Loss, Long-Term Capital Gain or Loss Definition]
+tags: [Long-Term Capital Gain or Loss, Long-Term Capital Gain or Loss Definition]
 source: https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp
 author: James Chen
 ---

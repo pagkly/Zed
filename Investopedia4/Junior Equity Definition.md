@@ -1,7 +1,7 @@
 ---
 alias: [Junior Equity]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Junior [[Equity]] Definition, Junior Equity Definition]
+tags: [Junior Equity Definition, Junior Equity Definition]
 source: https://www.investopedia.com/terms/j/junior-[[Equity|equity]].asp
 author: Daniel Liberto
 ---

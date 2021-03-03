@@ -1,7 +1,7 @@
 ---
 alias: [Zero-Lot-Line House]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zero-Lot-Line House Definition, [[What Is a Zero-Lot-Line House]]?]
+tags: [Zero-Lot-Line House Definition, What Is a Zero-Lot-Line House?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-lot-line-house.asp
 author: James Chen
 ---

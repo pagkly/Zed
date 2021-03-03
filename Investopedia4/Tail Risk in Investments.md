@@ -1,7 +1,7 @@
 ---
 alias: [Tail Risk]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tail [[Risk]] Definition, Tail Risk in Investments]
+tags: [Tail Risk Definition, Tail Risk in Investments]
 source: https://www.investopedia.com/terms/t/tailrisk.asp
 author: Adam Hayes
 ---

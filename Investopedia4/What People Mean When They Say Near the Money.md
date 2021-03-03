@@ -1,7 +1,7 @@
 ---
 alias: [Near the Money]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Near the [[Money Definition]], What People Mean When They Say "Near the Money"]
+tags: [Near the Money Definition, What People Mean When They Say "Near the Money"]
 source: https://www.investopedia.com/terms/n/near-the-money.asp
 author: Troy Segal
 ---

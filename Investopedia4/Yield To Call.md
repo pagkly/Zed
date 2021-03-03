@@ -1,7 +1,7 @@
 ---
 alias: [Yield To Call]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield To Call Definition, [[Yield]] To Call]
+tags: [Yield To Call Definition, Yield To Call]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldtocall.asp
 author: James Chen
 ---

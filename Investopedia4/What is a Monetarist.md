@@ -1,7 +1,7 @@
 ---
 alias: [Monetarist]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Monetarist Definition, [[What is a Monetarist]]?]
+tags: [Monetarist Definition, What is a Monetarist?]
 source: https://www.investopedia.com/terms/m/monetarist.asp
 author: [[Will]] Kenton
 ---

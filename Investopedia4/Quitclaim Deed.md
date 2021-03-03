@@ -1,7 +1,7 @@
 ---
 alias: [Quitclaim Deed]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quitclaim [[Deed Definition]], Quitclaim Deed]
+tags: [Quitclaim Deed Definition, Quitclaim Deed]
 source: https://www.investopedia.com/terms/q/quitclaimdeed.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Virtual Good Defined]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Virtual Good Defined, [[What Does Virtual Good Mean]]?]
+tags: [Virtual Good Defined, What Does Virtual Good Mean?]
 source: https://www.investopedia.com/terms/v/virtual-good.asp
 author: Jason Fernando
 ---

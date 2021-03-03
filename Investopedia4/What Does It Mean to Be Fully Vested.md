@@ -1,7 +1,7 @@
 ---
 alias: [Fully Vested]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Fully Vested Definition, [[What Does It Mean to Be Fully Vested]]?]
+tags: [Fully Vested Definition, What Does It Mean to Be Fully Vested?]
 source: https://www.investopedia.com/terms/f/fully-vested.asp
 author: Julia Kagan
 ---

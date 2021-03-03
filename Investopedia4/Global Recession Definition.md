@@ -1,7 +1,7 @@
 ---
 alias: [Global Recession]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [Global [[Recession Definition]], Global Recession Definition]
+tags: [Global Recession Definition, Global Recession Definition]
 source: https://www.investopedia.com/terms/g/global-recession.asp
 author: Clay Halton
 ---

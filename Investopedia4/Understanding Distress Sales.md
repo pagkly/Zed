@@ -1,7 +1,7 @@
 ---
 alias: [Distress Sale]
 created: 2021-03-02T19:22:37 (UTC +11:00)
-tags: [Distress [[Sale Definition]], Understanding Distress Sales]
+tags: [Distress Sale Definition, Understanding Distress Sales]
 source: https://www.investopedia.com/terms/d/distressale.asp
 author: James Chen
 ---

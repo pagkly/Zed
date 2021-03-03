@@ -1,7 +1,7 @@
 ---
 alias: [Hong Kong Monetary Authority Investment Portfolio]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [Hong Kong Monetary Authority Investment [[Portfolio]], Hong Kong Monetary Authority Investment Portfolio (HKMA)]
+tags: [Hong Kong Monetary Authority Investment Portfolio, Hong Kong Monetary Authority Investment Portfolio (HKMA)]
 source: https://www.investopedia.com/terms/h/hong-kong-monetary-authority-investment-[[Portfolio|portfolio]].asp
 author: James Chen
 ---

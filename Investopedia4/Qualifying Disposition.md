@@ -1,7 +1,7 @@
 ---
 alias: [Qualifying Disposition]
 created: 2021-03-02T23:01:00 (UTC +11:00)
-tags: [Qualifying [[Disposition]] Definition, Qualifying Disposition]
+tags: [Qualifying Disposition Definition, Qualifying Disposition]
 source: https://www.investopedia.com/terms/q/qualifyingdisposition.asp
 author: Julia Kagan
 ---

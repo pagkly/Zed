@@ -1,7 +1,7 @@
 ---
 alias: [Credit Rating]
 created: 2021-03-02T19:02:28 (UTC +11:00)
-tags: [Credit [[Rating]] Definition, What You Should Know About Credit Ratings]
+tags: [Credit Rating Definition, What You Should Know About Credit Ratings]
 source: https://www.investopedia.com/terms/c/creditrating.asp
 author: Julia Kagan
 ---

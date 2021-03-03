@@ -1,7 +1,7 @@
 ---
 alias: [M2]
 created: 2021-03-02T21:52:28 (UTC +11:00)
-tags: [M2 Definition, [[What Is M2]]?]
+tags: [M2 Definition, What Is M2?]
 source: https://www.investopedia.com/terms/m/m2.asp
 author:  Staff Author
 ---

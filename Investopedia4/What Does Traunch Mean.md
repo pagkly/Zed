@@ -1,7 +1,7 @@
 ---
 alias: [Traunch Defined]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Traunch Defined, [[What Does Traunch Mean]]?]
+tags: [Traunch Defined, What Does Traunch Mean?]
 source: https://www.investopedia.com/terms/t/traunch.asp
 author: Jason Fernando
 ---

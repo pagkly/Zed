@@ -1,7 +1,7 @@
 ---
 alias: [Fully Amortizing Payment]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Fully Amortizing Payment Definition, [[What Is a Fully Amortizing Payment]]?]
+tags: [Fully Amortizing Payment Definition, What Is a Fully Amortizing Payment?]
 source: https://www.investopedia.com/terms/f/fully_amortizing_payment.asp
 author: Julia Kagan
 ---

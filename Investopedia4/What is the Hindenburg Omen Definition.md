@@ -1,7 +1,7 @@
 ---
 alias: [Hindenburg Omen]
 created: 2021-03-02T20:43:24 (UTC +11:00)
-tags: [Hindenburg Omen Definition, [[What is the Hindenburg Omen Definition]]?]
+tags: [Hindenburg Omen Definition, What is the Hindenburg Omen Definition?]
 source: https://www.investopedia.com/terms/h/hindenburgomen.asp
 author: Akhilesh Ganti
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Equity Fund]
 created: 2021-03-02T19:42:12 (UTC +11:00)
-tags: [Equity Fund, [[Equity]] Fund]
+tags: [Equity Fund, Equity Fund]
 source: https://www.investopedia.com/terms/e/equityfund.asp
 author: James Chen
 ---

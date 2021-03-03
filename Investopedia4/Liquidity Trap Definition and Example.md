@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Trap Definition and Example]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Liquidity Trap Definition and Example, [[Liquidity]] Trap Definition and Example]
+tags: [Liquidity Trap Definition and Example, Liquidity Trap Definition and Example]
 source: https://www.investopedia.com/terms/l/liquiditytrap.asp
 author: Cory Mitchell
 ---

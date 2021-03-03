@@ -1,7 +1,7 @@
 ---
 alias: [What Are Holding Costs?]
 created: 2021-03-02T20:45:32 (UTC +11:00)
-tags: [What Are Holding Costs?, [[What Are Holding Costs]]?]
+tags: [What Are Holding Costs?, What Are Holding Costs?]
 source: https://www.investopedia.com/terms/h/holding-costs.asp
 author: Alicia Tuovila
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Convexity]
 created: 2021-03-02T18:58:08 (UTC +11:00)
-tags: [Convexity Definition, Convexity Measures Bond Price and Bond [[Yield]] Relationships]
+tags: [Convexity Definition, Convexity Measures Bond Price and Bond Yield Relationships]
 source: https://www.investopedia.com/terms/c/convexity.asp
 author: James Chen
 ---

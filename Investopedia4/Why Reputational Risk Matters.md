@@ -1,7 +1,7 @@
 ---
 alias: [Reputational Risk]
 created: 2021-03-02T23:16:49 (UTC +11:00)
-tags: [Reputational [[Risk]] Definition, Why Reputational Risk Matters]
+tags: [Reputational Risk Definition, Why Reputational Risk Matters]
 source: https://www.investopedia.com/terms/r/reputational-[[Risk|risk]].asp
 author: [[Will]] Kenton
 ---

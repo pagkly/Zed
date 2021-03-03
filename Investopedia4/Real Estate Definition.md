@@ -1,7 +1,7 @@
 ---
 alias: [Real Estate]
 created: 2021-03-02T23:07:34 (UTC +11:00)
-tags: [Real [[Estate]] Definition, Real Estate Definition]
+tags: [Real Estate Definition, Real Estate Definition]
 source: https://www.investopedia.com/terms/r/realestate.asp
 author: James Chen
 ---

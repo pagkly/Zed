@@ -1,7 +1,7 @@
 ---
 alias: [Options Contract]
 created: 2021-03-02T22:26:40 (UTC +11:00)
-tags: [Options Contract Definition, [[What Is an Options Contract]]?]
+tags: [Options Contract Definition, What Is an Options Contract?]
 source: https://www.investopedia.com/terms/o/optionscontract.asp
 author: Marshall Hargrave
 ---

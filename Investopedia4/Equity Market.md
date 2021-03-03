@@ -1,7 +1,7 @@
 ---
 alias: [Equity Market]
 created: 2021-03-02T19:42:12 (UTC +11:00)
-tags: [Equity Market Definition, [[Equity]] Market]
+tags: [Equity Market Definition, Equity Market]
 source: https://www.investopedia.com/terms/e/equitymarket.asp
 author: James Chen
 ---

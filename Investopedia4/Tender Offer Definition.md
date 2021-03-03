@@ -1,7 +1,7 @@
 ---
 alias: [Tender Offer]
 created: 2021-03-02T23:58:34 (UTC +11:00)
-tags: [Tender [[Offer]] Definition, Tender Offer Definition]
+tags: [Tender Offer Definition, Tender Offer Definition]
 source: https://www.investopedia.com/terms/t/tenderoffer.asp
 author: Adam Hayes
 ---

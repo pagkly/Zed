@@ -1,7 +1,7 @@
 ---
 alias: [Unsubordinated Debt]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Unsubordinated [[Debt]] Definition, Unsubordinated Debt Definition]
+tags: [Unsubordinated Debt Definition, Unsubordinated Debt Definition]
 source: https://www.investopedia.com/terms/u/unsubordinateddebt.asp
 author: Julia Kagan
 ---

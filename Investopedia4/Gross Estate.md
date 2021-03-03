@@ -1,7 +1,7 @@
 ---
 alias: [Gross Estate]
 created: 2021-03-02T20:27:49 (UTC +11:00)
-tags: [Gross [[Estate]], Gross Estate]
+tags: [Gross Estate, Gross Estate]
 source: https://www.investopedia.com/terms/g/grossestate.asp
 author: Julia Kagan
 ---

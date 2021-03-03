@@ -1,7 +1,7 @@
 ---
 alias: [Guaranteed Loan]
 created: 2021-03-02T20:32:33 (UTC +11:00)
-tags: [Guaranteed [[Loan]] Definition, Guaranteed Loan]
+tags: [Guaranteed Loan Definition, Guaranteed Loan]
 source: https://www.investopedia.com/terms/g/guaranteed-[[Loan|loan]].asp
 author: Julia Kagan
 ---

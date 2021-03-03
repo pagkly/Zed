@@ -1,7 +1,7 @@
 ---
 alias: [Voodoo Economics]
 created: 2021-03-03T00:44:31 (UTC +11:00)
-tags: [Voodoo [[Economics]] Definition, Voodoo Economics Definition]
+tags: [Voodoo Economics Definition, Voodoo Economics Definition]
 source: https://www.investopedia.com/terms/v/voodooeconomics.asp
 author: Daniel Liberto
 ---

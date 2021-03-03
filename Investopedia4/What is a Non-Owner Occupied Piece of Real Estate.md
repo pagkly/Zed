@@ -1,7 +1,7 @@
 ---
 alias: [Non-Owner Occupied]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Owner Occupied Definition, [[What is a Non-Owner Occupied Piece of Real Estate]]?]
+tags: [Non-Owner Occupied Definition, What is a Non-Owner Occupied Piece of Real Estate?]
 source: https://www.investopedia.com/terms/n/non-owner_occupied.asp
 author: Julia Kagan
 ---

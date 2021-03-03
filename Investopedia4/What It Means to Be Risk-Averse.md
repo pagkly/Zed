@@ -1,7 +1,7 @@
 ---
 alias: [Risk Averse]
 created: 2021-03-02T23:25:40 (UTC +11:00)
-tags: [Risk Averse Definition, What It Means to Be [[Risk]]-Averse]
+tags: [Risk Averse Definition, What It Means to Be Risk-Averse]
 source: https://www.investopedia.com/terms/r/riskaverse.asp
 author: James Chen
 ---

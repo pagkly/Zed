@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Compensation]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Compensation Definition, [[Unemployment]] Compensation]
+tags: [Unemployment Compensation Definition, Unemployment Compensation]
 source: https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-compensation.asp
 author: Julia Kagan
 ---

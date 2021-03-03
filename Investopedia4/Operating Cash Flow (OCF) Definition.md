@@ -1,7 +1,7 @@
 ---
 alias: [Operating [[Cash Flow]], OCF]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Operating [[Cash Flow]] (OCF) Definition, Operating Cash Flow (OCF) Definition]
+tags: [Operating Cash Flow (OCF) Definition, Operating Cash Flow (OCF) Definition]
 source: https://www.investopedia.com/terms/o/operatingcashflow.asp
 author: Alicia Tuovila
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Syndicated Loan]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Syndicated [[Loan]] Definition, Syndicated Loan]
+tags: [Syndicated Loan Definition, Syndicated Loan]
 source: https://www.investopedia.com/terms/s/syndicatedloan.asp
 author: Troy Segal
 ---

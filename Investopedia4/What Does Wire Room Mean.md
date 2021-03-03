@@ -1,7 +1,7 @@
 ---
 alias: [Wire Room Defined]
 created: 2021-03-03T00:59:18 (UTC +11:00)
-tags: [Wire Room Defined, [[What Does Wire Room Mean]]?]
+tags: [Wire Room Defined, What Does Wire Room Mean?]
 source: https://www.investopedia.com/terms/w/wire-room.asp
 author: Jason Fernando
 ---

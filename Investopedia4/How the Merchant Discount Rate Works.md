@@ -1,7 +1,7 @@
 ---
 alias: [Merchant Discount Rate]
 created: 2021-03-02T22:03:18 (UTC +11:00)
-tags: [Merchant [[Discount Rate]] Definition, How the Merchant Discount Rate Works]
+tags: [Merchant Discount Rate Definition, How the Merchant Discount Rate Works]
 source: https://www.investopedia.com/terms/m/merchant-discount-rate.asp
 author: Adam Barone
 ---

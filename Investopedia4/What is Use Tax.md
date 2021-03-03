@@ -1,7 +1,7 @@
 ---
 alias: [Use Tax]
 created: 2021-03-03T00:30:12 (UTC +11:00)
-tags: [Use Tax Definition, [[What is Use Tax]]?]
+tags: [Use Tax Definition, What is Use Tax?]
 source: https://www.investopedia.com/terms/u/use-tax.asp
 author: Julia Kagan
 ---

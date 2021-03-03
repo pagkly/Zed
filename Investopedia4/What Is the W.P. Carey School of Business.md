@@ -1,7 +1,7 @@
 ---
 alias: [W.P. Carey School of Business]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [W.P. Carey School of Business Definition, [[What Is the W.P. Carey School of Business]]?]
+tags: [W.P. Carey School of Business Definition, What Is the W.P. Carey School of Business?]
 source: https://www.investopedia.com/terms/w/w-p-carey-school-of-business.asp
 author: Jason Fernando
 ---

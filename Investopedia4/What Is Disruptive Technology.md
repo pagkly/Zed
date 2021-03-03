@@ -1,7 +1,7 @@
 ---
 alias: [Disruptive Technology]
 created: 2021-03-02T19:22:37 (UTC +11:00)
-tags: [Disruptive Technology Definition, [[What Is Disruptive Technology]]?]
+tags: [Disruptive Technology Definition, What Is Disruptive Technology?]
 source: https://www.investopedia.com/terms/d/disruptive-technology.asp
 author: Tim Smith
 ---

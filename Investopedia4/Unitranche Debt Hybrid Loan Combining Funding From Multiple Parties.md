@@ -1,7 +1,7 @@
 ---
 alias: [Unitranche Debt]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [Unitranche [[Debt]] Definition, Unitranche Debt: Hybrid [[Loan]] Combining Funding From Multiple Parties]
+tags: [Unitranche Debt Definition, Unitranche Debt: Hybrid [[Loan]] Combining Funding From Multiple Parties]
 source: https://www.investopedia.com/terms/u/unitranchedebt.asp
 author: Julia Kagan
 ---

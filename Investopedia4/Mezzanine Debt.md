@@ -1,7 +1,7 @@
 ---
 alias: [Mezzanine Debt]
 created: 2021-03-02T22:03:18 (UTC +11:00)
-tags: [Mezzanine [[Debt]] Definition, Mezzanine Debt]
+tags: [Mezzanine Debt Definition, Mezzanine Debt]
 source: https://www.investopedia.com/terms/m/mezzaninedebt.asp
 author: Adam Hayes
 ---

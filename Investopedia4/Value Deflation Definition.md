@@ -1,7 +1,7 @@
 ---
 alias: [Value Deflation]
 created: 2021-03-03T00:34:23 (UTC +11:00)
-tags: [Value [[Deflation]] Definition, Value Deflation Definition]
+tags: [Value Deflation Definition, Value Deflation Definition]
 source: https://www.investopedia.com/terms/v/value-[[Deflation|deflation]].asp
 author: Investopedia Staff
 ---

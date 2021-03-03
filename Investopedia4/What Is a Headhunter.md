@@ -1,7 +1,7 @@
 ---
 alias: [Headhunter]
 created: 2021-03-02T20:39:11 (UTC +11:00)
-tags: [Headhunter Definition, [[What Is a Headhunter]]?]
+tags: [Headhunter Definition, What Is a Headhunter?]
 source: https://www.investopedia.com/terms/h/headhunter.asp
 author: [[Will]] Kenton
 ---

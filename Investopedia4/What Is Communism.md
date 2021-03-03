@@ -1,7 +1,7 @@
 ---
 alias: [Communism]
 created: 2021-03-02T18:55:43 (UTC +11:00)
-tags: [Communism Definition, [[What Is Communism]]?]
+tags: [Communism Definition, What Is Communism?]
 source: https://www.investopedia.com/terms/c/communism.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Turnkey Property?]
 created: 2021-03-03T00:11:09 (UTC +11:00)
-tags: [What Is a Turnkey Property?, [[What Is a Turnkey Property]]?]
+tags: [What Is a Turnkey Property?, What Is a Turnkey Property?]
 source: https://www.investopedia.com/terms/t/turnkey-property.asp
 author: James Chen
 ---

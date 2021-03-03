@@ -1,7 +1,7 @@
 ---
 alias: [Construction Loan]
 created: 2021-03-02T18:58:06 (UTC +11:00)
-tags: [Construction [[Loan]] Definition, Construction Loan]
+tags: [Construction Loan Definition, Construction Loan]
 source: https://www.investopedia.com/terms/c/construction-[[Loan|loan]].asp
 author: James Chen
 ---

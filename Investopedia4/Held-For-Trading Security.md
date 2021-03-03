@@ -1,7 +1,7 @@
 ---
 alias: [Held-For-Trading Security]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Held-For-Trading [[Security]] Definition, Held-For-Trading Security]
+tags: [Held-For-Trading Security Definition, Held-For-Trading Security]
 source: https://www.investopedia.com/terms/h/held-for-trading-[[Security|security]].asp
 author: James Chen
 ---

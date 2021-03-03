@@ -1,7 +1,7 @@
 ---
 alias: [Right of First Offer]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Right of First [[Offer]] Definition, Understanding Right of First Offer]
+tags: [Right of First Offer Definition, Understanding Right of First Offer]
 source: https://www.investopedia.com/terms/r/rofo.asp
 author:  Staff Author
 ---

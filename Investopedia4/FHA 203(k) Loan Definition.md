@@ -1,7 +1,7 @@
 ---
 alias: [FHA 203(k) Loan]
 created: 2021-03-02T19:54:41 (UTC +11:00)
-tags: [FHA 203(k) [[Loan]] Definition, FHA 203(k) Loan Definition]
+tags: [FHA 203(k) Loan Definition, FHA 203(k) Loan Definition]
 source: https://www.investopedia.com/terms/f/fha-203k-[[Loan|loan]].asp
 author: Julia Kagan
 ---

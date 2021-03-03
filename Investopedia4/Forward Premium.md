@@ -1,7 +1,7 @@
 ---
 alias: [Forward Premium]
 created: 2021-03-02T20:05:34 (UTC +11:00)
-tags: [Forward [[Premium]] Definition, Forward Premium]
+tags: [Forward Premium Definition, Forward Premium]
 source: https://www.investopedia.com/terms/f/forwardpremium.asp
 author: James Chen
 ---

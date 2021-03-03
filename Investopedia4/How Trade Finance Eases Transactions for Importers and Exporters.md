@@ -1,7 +1,7 @@
 ---
 alias: [Trade Finance]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [Trade [[Finance]] Definition, How Trade Finance Eases Transactions for Importers and Exporters]
+tags: [Trade Finance Definition, How Trade Finance Eases Transactions for Importers and Exporters]
 source: https://www.investopedia.com/terms/t/tradefinance.asp
 author: Chris B Murphy
 ---

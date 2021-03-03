@@ -1,7 +1,7 @@
 ---
 alias: [Quote Currency]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quote Currency Definition, [[Quote]] Currency Definition]
+tags: [Quote Currency Definition, Quote Currency Definition]
 source: https://www.investopedia.com/terms/q/quotecurrency.asp
 author: James Chen
 ---

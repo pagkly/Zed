@@ -1,7 +1,7 @@
 ---
 alias: [Hybrid Annuity]
 created: 2021-03-02T20:54:02 (UTC +11:00)
-tags: [Hybrid Annuity Definition, [[What Is a Hybrid Annuity]]?]
+tags: [Hybrid Annuity Definition, What Is a Hybrid Annuity?]
 source: https://www.investopedia.com/terms/h/hybrid_annuity.asp
 author: Julia Kagan
 ---

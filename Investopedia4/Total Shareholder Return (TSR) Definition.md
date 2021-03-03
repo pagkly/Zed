@@ -1,7 +1,7 @@
 ---
 alias: [Total Shareholder [[Return]], TSR]
 created: 2021-03-03T00:04:43 (UTC +11:00)
-tags: [Total Shareholder [[Return]] (TSR) Definition, Total Shareholder Return (TSR) Definition]
+tags: [Total Shareholder Return (TSR) Definition, Total Shareholder Return (TSR) Definition]
 source: https://www.investopedia.com/terms/t/tsr.asp
 author: Akhilesh Ganti
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Trust Indenture]
 created: 2021-03-03T00:11:08 (UTC +11:00)
-tags: [Trust Indenture Definition, [[What Is a Trust Indenture]]?]
+tags: [Trust Indenture Definition, What Is a Trust Indenture?]
 source: https://www.investopedia.com/terms/t/trust_indenture.asp
 author: James Chen
 ---

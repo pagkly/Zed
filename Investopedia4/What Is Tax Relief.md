@@ -1,7 +1,7 @@
 ---
 alias: [Tax Relief]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax Relief Definition, [[What Is Tax Relief]]?]
+tags: [Tax Relief Definition, What Is Tax Relief?]
 source: https://www.investopedia.com/terms/t/tax-relief.asp
 author: Julia Kagan
 ---

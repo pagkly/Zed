@@ -1,7 +1,7 @@
 ---
 alias: [Nasdaq Capital Market]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Nasdaq Capital Market Definition, [[Nasdaq]] Capital Market Definition]
+tags: [Nasdaq Capital Market Definition, Nasdaq Capital Market Definition]
 source: https://www.investopedia.com/terms/n/[[Nasdaq|nasdaq]]-smallcap-market.asp
 author: Gordon Scott, CMT
 ---

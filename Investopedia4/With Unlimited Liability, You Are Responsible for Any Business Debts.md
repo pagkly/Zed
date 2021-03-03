@@ -1,7 +1,7 @@
 ---
 alias: [Unlimited Liability]
 created: 2021-03-03T00:25:51 (UTC +11:00)
-tags: [Unlimited [[Liability]] Definition, With Unlimited Liability, You Are Responsible for Any Business Debts]
+tags: [Unlimited Liability Definition, With Unlimited Liability, You Are Responsible for Any Business Debts]
 source: https://www.investopedia.com/terms/u/unlimited-[[Liability|liability]].asp
 author: Evan Tarver
 ---

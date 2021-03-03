@@ -1,7 +1,7 @@
 ---
 alias: [Freddie Mac—Federal Home [[Loan]] Mortgage Corp., FHLMC]
 created: 2021-03-02T20:07:41 (UTC +11:00)
-tags: [Freddie Mac—Federal Home [[Loan]] Mortgage Corp. (FHLMC) Definition, Freddie Mac—Federal Home Loan Mortgage Corp. (FHLMC)]
+tags: [Freddie Mac—Federal Home Loan Mortgage Corp. (FHLMC) Definition, Freddie Mac—Federal Home Loan Mortgage Corp. (FHLMC)]
 source: https://www.investopedia.com/terms/f/freddiemac.asp
 author: Julia Kagan
 ---

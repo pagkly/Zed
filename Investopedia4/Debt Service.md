@@ -1,7 +1,7 @@
 ---
 alias: [Debt Service]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Service Definition, [[Debt]] Service]
+tags: [Debt Service Definition, Debt Service]
 source: https://www.investopedia.com/terms/d/debtservice.asp
 author: Alicia Tuovila
 ---

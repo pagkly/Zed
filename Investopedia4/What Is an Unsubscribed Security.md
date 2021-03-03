@@ -1,7 +1,7 @@
 ---
 alias: [Unsubscribed]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Unsubscribed Definition, [[What Is an Unsubscribed Security]]?]
+tags: [Unsubscribed Definition, What Is an Unsubscribed Security?]
 source: https://www.investopedia.com/terms/u/unsubscribed.asp
 author: Carol Kopp
 ---

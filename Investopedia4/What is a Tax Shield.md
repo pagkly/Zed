@@ -1,7 +1,7 @@
 ---
 alias: [Tax Shield]
 created: 2021-03-02T23:56:23 (UTC +11:00)
-tags: [Tax Shield Definition, [[What is a Tax Shield]]?]
+tags: [Tax Shield Definition, What is a Tax Shield?]
 source: https://www.investopedia.com/terms/t/taxshield.asp
 author: Julia Kagan
 ---

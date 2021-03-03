@@ -1,7 +1,7 @@
 ---
 alias: [Qualifying Ratios]
 created: 2021-03-02T23:03:01 (UTC +11:00)
-tags: [Qualifying Ratios Definition, [[What are Qualifying Ratios]]?]
+tags: [Qualifying Ratios Definition, What are Qualifying Ratios?]
 source: https://www.investopedia.com/terms/q/qualifying_ratios.asp
 author: Julia Kagan and Troy Segal
 ---

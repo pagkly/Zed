@@ -1,7 +1,7 @@
 ---
 alias: [Exchange Traded Derivative]
 created: 2021-03-02T19:46:20 (UTC +11:00)
-tags: [Exchange Traded [[Derivative]] Definition, Exchange Traded Derivative]
+tags: [Exchange Traded Derivative Definition, Exchange Traded Derivative]
 source: https://www.investopedia.com/terms/e/exchange-traded-[[Derivative|derivative]].asp
 author: James Chen
 ---

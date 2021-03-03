@@ -1,7 +1,7 @@
 ---
 alias: [Demonetization]
 created: 2021-03-02T19:15:55 (UTC +11:00)
-tags: [Demonetization Definition, [[What Is demonetization]]?]
+tags: [Demonetization Definition, What Is demonetization?]
 source: https://www.investopedia.com/terms/d/demonetization.asp
 author: Investopedia Staff
 ---

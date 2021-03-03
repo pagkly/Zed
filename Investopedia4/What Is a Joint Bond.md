@@ -1,7 +1,7 @@
 ---
 alias: [Joint Bond]
 created: 2021-03-02T21:00:34 (UTC +11:00)
-tags: [Joint Bond Definition, [[What Is a Joint Bond]]?]
+tags: [Joint Bond Definition, What Is a Joint Bond?]
 source: https://www.investopedia.com/terms/j/jointbond.asp
 author: Carol Kopp
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Recourse]
 created: 2021-03-02T23:12:19 (UTC +11:00)
-tags: [Recourse Definition, [[What Is Recourse]]?]
+tags: [Recourse Definition, What Is Recourse?]
 source: https://www.investopedia.com/terms/r/recourse.asp
 author: Julia Kagan
 ---

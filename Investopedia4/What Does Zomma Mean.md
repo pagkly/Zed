@@ -1,7 +1,7 @@
 ---
 alias: [Zomma Defined]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zomma Defined, [[What Does Zomma Mean]]?]
+tags: [Zomma Defined, What Does Zomma Mean?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zomma.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Stock Option]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stock Option Definition, [[Stock]] Option]
+tags: [Stock Option Definition, Stock Option]
 source: https://www.investopedia.com/terms/s/stockoption.asp
 author: James Chen
 ---

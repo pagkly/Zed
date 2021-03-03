@@ -1,7 +1,7 @@
 ---
 alias: [Health Insurance]
 created: 2021-03-02T20:39:11 (UTC +11:00)
-tags: [Health Insurance Definition, [[What Is Health Insurance]]?]
+tags: [Health Insurance Definition, What Is Health Insurance?]
 source: https://www.investopedia.com/terms/h/healthinsurance.asp
 author: Julia Kagan
 ---

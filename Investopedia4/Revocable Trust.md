@@ -1,7 +1,7 @@
 ---
 alias: [Revocable Trust]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Revocable [[Trust Definition]], Revocable Trust]
+tags: [Revocable Trust Definition, Revocable Trust]
 source: https://www.investopedia.com/terms/r/revocabletrust.asp
 author: Julia Kagan
 ---

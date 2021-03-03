@@ -1,7 +1,7 @@
 ---
 alias: [Option Margin]
 created: 2021-03-02T22:24:34 (UTC +11:00)
-tags: [Option [[Margin Definition]], Option Margin Definition]
+tags: [Option Margin Definition, Option Margin Definition]
 source: https://www.investopedia.com/terms/o/option-margin.asp
 author: James Chen
 ---

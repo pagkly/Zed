@@ -1,7 +1,7 @@
 ---
 alias: [Debtor in Possession, DIP]
 created: 2021-03-02T19:11:28 (UTC +11:00)
-tags: [Debtor in Possession (DIP) Definition, [[Debtor]] in Possession (DIP)]
+tags: [Debtor in Possession (DIP) Definition, Debtor in Possession (DIP)]
 source: https://www.investopedia.com/terms/d/debtorinpossession.asp
 author: [[Will]] Kenton
 ---

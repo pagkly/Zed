@@ -1,7 +1,7 @@
 ---
 alias: [Data Mining]
 created: 2021-03-02T19:07:18 (UTC +11:00)
-tags: [Data [[Mining]] Definition, Data Mining: How Companies Use Data to Find Useful Patterns and Trends]
+tags: [Data Mining Definition, Data Mining: How Companies Use Data to Find Useful Patterns and Trends]
 source: https://www.investopedia.com/terms/d/datamining.asp
 author: Alexandra Twin
 ---

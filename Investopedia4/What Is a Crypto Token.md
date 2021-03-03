@@ -1,7 +1,7 @@
 ---
 alias: [Crypto Tokens]
 created: 2021-03-02T19:04:55 (UTC +11:00)
-tags: [Crypto Tokens Definition, [[What Is a Crypto Token]]?]
+tags: [Crypto Tokens Definition, What Is a Crypto Token?]
 source: https://www.investopedia.com/terms/c/crypto-token.asp
 author: Jake Frankenfield
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Welfare Loss Of Taxation]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Welfare Loss Of [[Taxation]] Definition, Welfare Loss Of Taxation Definition]
+tags: [Welfare Loss Of Taxation Definition, Welfare Loss Of Taxation Definition]
 source: https://www.investopedia.com/terms/w/welfare-loss-of-[[Taxation|taxation]].asp
 author: Jim Chappelow
 ---

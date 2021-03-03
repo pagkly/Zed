@@ -1,7 +1,7 @@
 ---
 alias: [Lock-Up Agreement Defined]
 created: 2021-03-02T21:25:55 (UTC +11:00)
-tags: [Lock-Up Agreement Defined, [[What Does “Lock-Up Agreement” Mean]]?]
+tags: [Lock-Up Agreement Defined, What Does “Lock-Up Agreement” Mean?]
 source: https://www.investopedia.com/terms/l/lockup.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Trading Strategy]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [Trading Strategy Definition, [[What Is a Trading Strategy]]?]
+tags: [Trading Strategy Definition, What Is a Trading Strategy?]
 source: https://www.investopedia.com/terms/t/trading-strategy.asp
 author: James Chen
 ---

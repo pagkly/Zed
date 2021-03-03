@@ -1,7 +1,7 @@
 ---
 alias: [Waiver of [[Premium]] Rider]
 created: 2021-03-03T00:46:29 (UTC +11:00)
-tags: [Waiver of [[Premium]] Rider Definition, Waiver of Premium Rider]
+tags: [Waiver of Premium Rider Definition, Waiver of Premium Rider]
 source: https://www.investopedia.com/terms/w/waiver_of_premium.asp
 author: Julia Kagan
 ---

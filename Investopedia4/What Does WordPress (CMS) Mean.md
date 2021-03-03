@@ -1,7 +1,7 @@
 ---
 alias: [WordPress (CMS) Defined]
 created: 2021-03-03T01:01:21 (UTC +11:00)
-tags: [WordPress (CMS) Defined, [[What Does WordPress (CMS) Mean]]?]
+tags: [WordPress (CMS) Defined, What Does WordPress (CMS) Mean?]
 source: https://www.investopedia.com/terms/w/wordpress-cms.asp
 author: Jason Fernando
 ---

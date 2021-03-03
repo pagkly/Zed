@@ -1,7 +1,7 @@
 ---
 alias: [FAANG Stocks]
 created: 2021-03-02T19:50:26 (UTC +11:00)
-tags: [FAANG [[Stocks]] Definition, FAANG Stock]
+tags: [FAANG Stocks Definition, FAANG Stock]
 source: https://www.investopedia.com/terms/f/faang-[[Stocks|stocks]].asp
 author: Jason Fernando
 ---

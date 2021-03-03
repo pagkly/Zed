@@ -1,7 +1,7 @@
 ---
 alias: [How Are Savings Bonds Taxed?]
 created: 2021-03-03T00:30:12 (UTC +11:00)
-tags: [How Are Savings Bonds Taxed?, [[How Are Savings Bonds Taxed]]?]
+tags: [How Are Savings Bonds Taxed?, How Are Savings Bonds Taxed?]
 source: https://www.investopedia.com/ask/answers/111314/how-are-savings-bonds-taxed.asp
 author: Nick Lioudis
 ---

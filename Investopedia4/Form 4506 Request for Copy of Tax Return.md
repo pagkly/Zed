@@ -1,7 +1,7 @@
 ---
 alias: [Form 4506 Request for Copy of Tax Return]
 created: 2021-03-02T20:05:33 (UTC +11:00)
-tags: [Form 4506: Request for Copy of [[Tax Return]] Definition, Form 4506: Request for Copy of Tax Return]
+tags: [Form 4506: Request for Copy of Tax Return Definition, Form 4506: Request for Copy of Tax Return]
 source: https://www.investopedia.com/terms/f/form-4506.asp
 author: Christina Majaski
 ---

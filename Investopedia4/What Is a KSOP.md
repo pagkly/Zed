@@ -1,7 +1,7 @@
 ---
 alias: [KSOP]
 created: 2021-03-02T21:09:19 (UTC +11:00)
-tags: [KSOP Definition, [[What Is a KSOP]]?]
+tags: [KSOP Definition, What Is a KSOP?]
 source: https://www.investopedia.com/terms/k/ksop.asp
 author: Julia Kagan
 ---

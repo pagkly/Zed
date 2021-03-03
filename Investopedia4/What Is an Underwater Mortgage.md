@@ -1,7 +1,7 @@
 ---
 alias: [Underwater Mortgage Defined]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwater Mortgage Defined, [[What Is an Underwater Mortgage]]?]
+tags: [Underwater Mortgage Defined, What Is an Underwater Mortgage?]
 source: https://www.investopedia.com/terms/u/underwater-mortgage.asp
 author: Julia Kagan
 ---

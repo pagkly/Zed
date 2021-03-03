@@ -1,7 +1,7 @@
 ---
 alias: [United States Treasury Money Mutual Fund]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [United States Treasury Money [[Mutual Fund Definition]], United States Treasury Money Mutual Fund]
+tags: [United States Treasury Money Mutual Fund Definition, United States Treasury Money Mutual Fund]
 source: https://www.investopedia.com/terms/u/united-states-treasury-money-mutual-funds.asp
 author: James Chen
 ---

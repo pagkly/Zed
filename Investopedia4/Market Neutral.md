@@ -1,7 +1,7 @@
 ---
 alias: [Market Neutral]
 created: 2021-03-02T21:59:04 (UTC +11:00)
-tags: [Market [[Neutral]] Definition, Market Neutral]
+tags: [Market Neutral Definition, Market Neutral]
 source: https://www.investopedia.com/terms/m/marketneutral.asp
 author: James Chen
 ---

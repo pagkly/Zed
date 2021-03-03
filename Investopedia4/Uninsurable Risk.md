@@ -1,7 +1,7 @@
 ---
 alias: [Uninsurable Risk]
 created: 2021-03-03T00:21:24 (UTC +11:00)
-tags: [Uninsurable [[Risk]], Uninsurable Risk]
+tags: [Uninsurable Risk, Uninsurable Risk]
 source: https://www.investopedia.com/terms/u/uninsurable-[[Risk|risk]].asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Delta]
 created: 2021-03-02T19:15:54 (UTC +11:00)
-tags: [Delta Definition, [[What Is Delta]]?]
+tags: [Delta Definition, What Is Delta?]
 source: https://www.investopedia.com/terms/d/delta.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Gravestone Doji]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [Gravestone [[Doji]] Definition & Example, Gravestone Doji]
+tags: [Gravestone Doji Definition & Example, Gravestone Doji]
 source: https://www.investopedia.com/terms/g/gravestone-[[Doji|doji]].asp
 author: James Chen
 ---

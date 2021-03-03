@@ -1,7 +1,7 @@
 ---
 alias: [Definition of Small Cap]
 created: 2021-03-02T23:39:01 (UTC +11:00)
-tags: [Definition of [[Small Cap]], Small Cap]
+tags: [Definition of Small Cap, Small Cap]
 source: https://www.investopedia.com/terms/s/small-cap.asp
 author: Adam Barone
 ---

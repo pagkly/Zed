@@ -1,7 +1,7 @@
 ---
 alias: [Upside Gap Two Crows Definition and Example]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Upside Gap Two Crows Definition and Example, [[Upside]] Gap Two Crows Definition and Example]
+tags: [Upside Gap Two Crows Definition and Example, Upside Gap Two Crows Definition and Example]
 source: https://www.investopedia.com/terms/u/[[Upside|upside]]-gap-two-crows.asp
 author: Cory Mitchell
 ---

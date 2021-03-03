@@ -1,7 +1,7 @@
 ---
 alias: [Net Lease]
 created: 2021-03-02T21:39:27 (UTC +11:00)
-tags: [Net [[Lease]] Definition, Net Lease]
+tags: [Net Lease Definition, Net Lease]
 source: https://www.investopedia.com/terms/n/net-[[Lease|lease]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Relief Rally]
 created: 2021-03-02T23:14:43 (UTC +11:00)
-tags: [Relief [[Rally]] Definition, How a Relief Rally Works]
+tags: [Relief Rally Definition, How a Relief Rally Works]
 source: https://www.investopedia.com/terms/r/relief-[[Rally|rally]].asp
 author: Marshall Hargrave
 ---

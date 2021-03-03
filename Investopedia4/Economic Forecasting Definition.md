@@ -1,7 +1,7 @@
 ---
 alias: [Economic Forecasting]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic [[Forecasting Definition]], Economic Forecasting Definition]
+tags: [Economic Forecasting Definition, Economic Forecasting Definition]
 source: https://www.investopedia.com/terms/e/economic-forecasting.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Quantity Theory of Money]
 created: 2021-03-02T23:03:03 (UTC +11:00)
-tags: [Quantity Theory of [[Money Definition]], Quantity Theory of Money Definition]
+tags: [Quantity Theory of Money Definition, Quantity Theory of Money Definition]
 source: https://www.investopedia.com/terms/q/quantity_theory_of_money.asp
 author: James Chen
 ---

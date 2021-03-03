@@ -1,7 +1,7 @@
 ---
 alias: [Market Approach]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Market Approach Definition, [[What Does “Market Approach” Mean]]?]
+tags: [Market Approach Definition, What Does “Market Approach” Mean?]
 source: https://www.investopedia.com/terms/m/market-approach.asp
 author: Jason Fernando
 ---

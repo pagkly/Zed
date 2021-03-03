@@ -1,7 +1,7 @@
 ---
 alias: [GmbH]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [GmbH Definition, GmbH and Setting up a Limited [[Liability]] Company in Germany]
+tags: [GmbH Definition, GmbH and Setting up a Limited Liability Company in Germany]
 source: https://www.investopedia.com/terms/g/gmbh.asp
 author: Marshall Hargrave
 ---

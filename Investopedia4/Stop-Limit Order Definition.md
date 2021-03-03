@@ -1,7 +1,7 @@
 ---
 alias: [Stop-Limit Order]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stop-[[Limit Order Definition]], Stop-Limit Order Definition]
+tags: [Stop-Limit Order Definition, Stop-Limit Order Definition]
 source: https://www.investopedia.com/terms/s/stop-limitorder.asp
 author: Justin Kuepper
 ---

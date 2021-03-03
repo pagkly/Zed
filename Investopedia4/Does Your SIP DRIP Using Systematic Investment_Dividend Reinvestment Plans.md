@@ -1,7 +1,7 @@
 ---
 alias: [Systematic Investment Plan, SIP]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Systematic Investment Plan (SIP) Definition, Does Your SIP DRIP? Using Systematic Investment/Dividend [[Reinvestment]] Plans]
+tags: [Systematic Investment Plan (SIP) Definition, Does Your SIP DRIP? Using Systematic Investment/Dividend Reinvestment Plans]
 source: https://www.investopedia.com/terms/s/systematicinvestmentplan.asp
 author: James Chen
 ---

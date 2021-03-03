@@ -1,7 +1,7 @@
 ---
 alias: [Frictional Unemployment]
 created: 2021-03-02T20:10:13 (UTC +11:00)
-tags: [Frictional [[Unemployment]] Definition, How Frictional Unemployment Occurs in an Economy]
+tags: [Frictional Unemployment Definition, How Frictional Unemployment Occurs in an Economy]
 source: https://www.investopedia.com/terms/f/frictionalunemployment.asp
 author: Julia Kagan
 ---

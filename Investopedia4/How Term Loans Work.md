@@ -1,7 +1,7 @@
 ---
 alias: [Term Loan]
 created: 2021-03-02T23:58:34 (UTC +11:00)
-tags: [Term [[Loan]] Definition, How Term Loans Work]
+tags: [Term Loan Definition, How Term Loans Work]
 source: https://www.investopedia.com/terms/t/termloan.asp
 author: Troy Segal
 ---

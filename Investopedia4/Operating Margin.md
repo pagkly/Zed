@@ -1,7 +1,7 @@
 ---
 alias: [Operating Margin]
 created: 2021-03-02T22:24:33 (UTC +11:00)
-tags: [Operating [[Margin Definition]], Operating Margin]
+tags: [Operating Margin Definition, Operating Margin]
 source: https://www.investopedia.com/terms/o/operatingmargin.asp
 author: Adam Hayes
 ---

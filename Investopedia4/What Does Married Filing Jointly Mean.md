@@ -1,7 +1,7 @@
 ---
 alias: [Married Filing Jointly]
 created: 2021-03-02T22:01:09 (UTC +11:00)
-tags: [Married Filing Jointly Definition, [[What Does Married Filing Jointly Mean]]?]
+tags: [Married Filing Jointly Definition, What Does Married Filing Jointly Mean?]
 source: https://www.investopedia.com/terms/m/mfj.asp
 author: Julia Kagan
 ---

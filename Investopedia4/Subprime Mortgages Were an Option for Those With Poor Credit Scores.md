@@ -1,7 +1,7 @@
 ---
 alias: [Subprime Mortgage]
 created: 2021-03-02T23:47:46 (UTC +11:00)
-tags: [Subprime [[Mortgage Definition]], Subprime Mortgages Were an Option for Those With Poor Credit Scores]
+tags: [Subprime Mortgage Definition, Subprime Mortgages Were an Option for Those With Poor Credit Scores]
 source: https://www.investopedia.com/terms/s/subprime_mortgage.asp
 author: Carol M. Kopp
 ---

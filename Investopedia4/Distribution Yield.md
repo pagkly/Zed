@@ -1,7 +1,7 @@
 ---
 alias: [Distribution Yield]
 created: 2021-03-02T19:22:37 (UTC +11:00)
-tags: [Distribution [[Yield]] Definition, Distribution Yield]
+tags: [Distribution Yield Definition, Distribution Yield]
 source: https://www.investopedia.com/terms/d/distribution-[[Yield|yield]].asp
 author: James Chen
 ---

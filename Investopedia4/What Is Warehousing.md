@@ -1,7 +1,7 @@
 ---
 alias: [Warehousing]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Warehousing Definition, [[What Is Warehousing]]?]
+tags: [Warehousing Definition, What Is Warehousing?]
 source: https://www.investopedia.com/terms/w/warehousing.asp
 author: Adam Hayes
 ---

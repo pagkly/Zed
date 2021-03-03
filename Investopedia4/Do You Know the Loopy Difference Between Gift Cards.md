@@ -1,7 +1,7 @@
 ---
 alias: [Gift Card]
 created: 2021-03-02T20:16:41 (UTC +11:00)
-tags: [Gift Card Definition, [[Do You Know the Loopy Difference Between Gift Cards]]?]
+tags: [Gift Card Definition, Do You Know the Loopy Difference Between Gift Cards?]
 source: https://www.investopedia.com/terms/g/gift-card.asp
 author: Julia Kagan
 ---

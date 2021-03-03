@@ -1,7 +1,7 @@
 ---
 alias: [Voluntary Accumulation Plan]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Voluntary Accumulation Plan Definition, [[What Is a Voluntary Accumulation Plan for a Mutual Fund]]?]
+tags: [Voluntary Accumulation Plan Definition, What Is a Voluntary Accumulation Plan for a Mutual Fund?]
 source: https://www.investopedia.com/terms/v/voluntaryaccumulationplan.asp
 author: Carol Kopp
 ---

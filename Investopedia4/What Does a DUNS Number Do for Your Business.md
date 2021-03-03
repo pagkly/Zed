@@ -1,7 +1,7 @@
 ---
 alias: [Data Universal Numbering System (DUNS) Number]
 created: 2021-03-02T19:07:19 (UTC +11:00)
-tags: [Data Universal Numbering System (DUNS) Number Definition, [[What Does a DUNS Number Do for Your Business]]?]
+tags: [Data Universal Numbering System (DUNS) Number Definition, What Does a DUNS Number Do for Your Business?]
 source: https://www.investopedia.com/terms/d/dunsnumber.asp
 author: Troy Segal
 ---

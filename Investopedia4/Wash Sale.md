@@ -1,7 +1,7 @@
 ---
 alias: [Wash Sale]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Wash [[Sale Definition]], Wash Sale]
+tags: [Wash Sale Definition, Wash Sale]
 source: https://www.investopedia.com/terms/w/washsale.asp
 author: Gordon Scott
 ---

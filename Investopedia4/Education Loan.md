@@ -1,7 +1,7 @@
 ---
 alias: [Education Loan]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [Education [[Loan]] Definition, Education Loan]
+tags: [Education Loan Definition, Education Loan]
 source: https://www.investopedia.com/terms/e/education-[[Loan|loan]].asp
 author: Troy Segal
 ---

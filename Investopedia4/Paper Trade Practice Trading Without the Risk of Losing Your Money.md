@@ -1,7 +1,7 @@
 ---
 alias: [Paper Trade]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Paper Trade Definition, Paper Trade: Practice Trading Without the [[Risk]] of Losing Your Money]
+tags: [Paper Trade Definition, Paper Trade: Practice Trading Without the Risk of Losing Your Money]
 source: https://www.investopedia.com/terms/p/papertrade.asp
 author: Christina Majaski
 ---

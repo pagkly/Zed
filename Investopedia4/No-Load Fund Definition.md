@@ -1,7 +1,7 @@
 ---
 alias: [No-Load Fund]
 created: 2021-03-02T21:43:52 (UTC +11:00)
-tags: [No-[[Load Fund Definition]], No-Load Fund Definition]
+tags: [No-Load Fund Definition, No-Load Fund Definition]
 source: https://www.investopedia.com/terms/n/no-loadfund.asp
 author: Adam Barone
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Up Volume]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Up [[Volume Definition]], Up Volume Definition]
+tags: [Up Volume Definition, Up Volume Definition]
 source: https://www.investopedia.com/terms/u/upvolume.asp
 author: James Chen
 ---

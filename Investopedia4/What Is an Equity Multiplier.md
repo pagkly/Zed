@@ -1,7 +1,7 @@
 ---
 alias: [Equity Multiplier]
 created: 2021-03-02T19:42:13 (UTC +11:00)
-tags: [Equity Multiplier Definition, [[What Is an Equity Multiplier]]?]
+tags: [Equity Multiplier Definition, What Is an Equity Multiplier?]
 source: https://www.investopedia.com/terms/e/equitymultiplier.asp
 author: Akhilesh Ganti
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Debt Issue]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Issue Definition, [[Debt]] Issue]
+tags: [Debt Issue Definition, Debt Issue]
 source: https://www.investopedia.com/terms/d/[[Debt|debt]]-issue.asp
 author: James Chen
 ---

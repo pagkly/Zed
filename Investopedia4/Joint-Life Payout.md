@@ -1,7 +1,7 @@
 ---
 alias: [Joint-Life Payout]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint-Life [[Payout]] Definition, [[Joint]]-Life Payout]
+tags: [Joint-Life Payout Definition, [[Joint]]-Life Payout]
 source: https://www.investopedia.com/terms/j/[[Joint|joint]]-life-[[Payout|payout]].asp
 author: Julia Kagan
 ---

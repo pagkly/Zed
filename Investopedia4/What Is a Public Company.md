@@ -1,7 +1,7 @@
 ---
 alias: [Public Company]
 created: 2021-03-02T22:56:50 (UTC +11:00)
-tags: [Public Company Definition, [[What Is a Public Company]]?]
+tags: [Public Company Definition, What Is a Public Company?]
 source: https://www.investopedia.com/terms/p/publiccompany.asp
 author: Caroline Banton
 ---

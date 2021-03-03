@@ -1,7 +1,7 @@
 ---
 alias: [Law of Diminishing Marginal Productivity]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Law of Diminishing Marginal [[Productivity]] Definition, Law of Diminishing Marginal Productivity Explains the Decay of Cost Advantages]
+tags: [Law of Diminishing Marginal Productivity Definition, Law of Diminishing Marginal Productivity Explains the Decay of Cost Advantages]
 source: https://www.investopedia.com/terms/l/law-diminishing-marginal-[[Productivity|productivity]].asp
 author: Julie Young
 ---

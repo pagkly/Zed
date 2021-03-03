@@ -1,7 +1,7 @@
 ---
 alias: [Supranational]
 created: 2021-03-02T23:50:09 (UTC +11:00)
-tags: [Supranational Definition, [[What Makes the EU Supranational]]?]
+tags: [Supranational Definition, What Makes the EU Supranational?]
 source: https://www.investopedia.com/terms/s/supranational.asp
 author: Marshall Hargrave
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Loan Loss Provision]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Loss Provision Definition, [[Loan]] Loss Provision]
+tags: [Loan Loss Provision Definition, Loan Loss Provision]
 source: https://www.investopedia.com/terms/l/loanlossprovision.asp
 author: Gabe Alpert
 ---

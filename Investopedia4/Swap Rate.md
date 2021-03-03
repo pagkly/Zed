@@ -1,7 +1,7 @@
 ---
 alias: [Swap Rate Definition & Examples]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Swap Rate Definition & Examples, [[Swap]] Rate]
+tags: [Swap Rate Definition & Examples, Swap Rate]
 source: https://www.investopedia.com/terms/s/swaprate.asp
 author: James Chen
 ---

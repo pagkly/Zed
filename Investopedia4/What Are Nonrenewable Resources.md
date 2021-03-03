@@ -1,7 +1,7 @@
 ---
 alias: [Nonrenewable Resources]
 created: 2021-03-02T21:50:23 (UTC +11:00)
-tags: [Nonrenewable Resources Definition, [[What Are Nonrenewable Resources]]?]
+tags: [Nonrenewable Resources Definition, What Are Nonrenewable Resources?]
 source: https://www.investopedia.com/terms/n/nonrenewableresource.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Good Faith Money]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Good Faith [[Money Definition]], Good Faith Money]
+tags: [Good Faith Money Definition, Good Faith Money]
 source: https://www.investopedia.com/terms/g/goodfaithmoney.asp
 author: Gordon Scott
 ---

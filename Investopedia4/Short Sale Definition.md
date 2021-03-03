@@ -1,7 +1,7 @@
 ---
 alias: [Short Sale]
 created: 2021-03-02T23:36:36 (UTC +11:00)
-tags: [Short [[Sale Definition]], Short Sale Definition]
+tags: [Short Sale Definition, Short Sale Definition]
 source: https://www.investopedia.com/terms/s/shortsale.asp
 author: James Chen
 ---

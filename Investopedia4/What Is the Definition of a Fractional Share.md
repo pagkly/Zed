@@ -1,7 +1,7 @@
 ---
 alias: [Fractional Share]
 created: 2021-03-02T20:07:41 (UTC +11:00)
-tags: [Fractional Share Definition, [[What Is the Definition of a Fractional Share]]?]
+tags: [Fractional Share Definition, What Is the Definition of a Fractional Share?]
 source: https://www.investopedia.com/terms/f/fractionalshare.asp
 author: Christina Majaski
 ---

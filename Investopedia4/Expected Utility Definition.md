@@ -1,7 +1,7 @@
 ---
 alias: [Expected Utility]
 created: 2021-03-02T19:48:22 (UTC +11:00)
-tags: [Expected [[Utility Definition]], Expected Utility Definition]
+tags: [Expected Utility Definition, Expected Utility Definition]
 source: https://www.investopedia.com/terms/e/expectedutility.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Online-To-Offline (O2O) Commerce]
 created: 2021-03-02T22:20:05 (UTC +11:00)
-tags: [Online-To-Offline (O2O) [[Commerce]] Definition, Online-To-Offline Commerce]
+tags: [Online-To-Offline (O2O) Commerce Definition, Online-To-Offline Commerce]
 source: https://www.investopedia.com/terms/o/onlinetooffline-[[Commerce|commerce]].asp
 author: Adam Hayes
 ---

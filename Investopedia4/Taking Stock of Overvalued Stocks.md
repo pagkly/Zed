@@ -1,7 +1,7 @@
 ---
 alias: [Overvalued]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Overvalued Definition, Taking [[Stock]] of Overvalued Stocks]
+tags: [Overvalued Definition, Taking Stock of Overvalued Stocks]
 source: https://www.investopedia.com/terms/o/overvalued.asp
 author: Andrew Bloomenthal
 ---

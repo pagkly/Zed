@@ -1,7 +1,7 @@
 ---
 alias: [Law Of Supply]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Law Of [[Supply]] Definition, Law Of Supply Definition]
+tags: [Law Of Supply Definition, Law Of Supply Definition]
 source: https://www.investopedia.com/terms/l/lawofsupply.asp
 author: Investopedia Staff
 ---

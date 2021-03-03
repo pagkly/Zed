@@ -1,7 +1,7 @@
 ---
 alias: [McClellan [[Oscillator Definition]] and Uses]
 created: 2021-03-02T22:01:11 (UTC +11:00)
-tags: [McClellan [[Oscillator Definition]] and Uses, McClellan Oscillator Definition and Uses]
+tags: [McClellan Oscillator Definition and Uses, McClellan Oscillator Definition and Uses]
 source: https://www.investopedia.com/terms/m/mcclellanoscillator.asp
 author: Cory Mitchell
 ---

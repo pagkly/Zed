@@ -1,7 +1,7 @@
 ---
 alias: [Organization Of Arab [[Petroleum]] Exporting Countries, OAPEC]
 created: 2021-03-02T22:29:29 (UTC +11:00)
-tags: [Organization Of Arab [[Petroleum]] Exporting Countries (OAPEC), Organization Of Arab Petroleum Exporting Countries (OAPEC)]
+tags: [Organization Of Arab Petroleum Exporting Countries (OAPEC), Organization Of Arab Petroleum Exporting Countries (OAPEC)]
 source: https://www.investopedia.com/terms/o/oapec.asp
 author: [[Will]] Kenton
 ---

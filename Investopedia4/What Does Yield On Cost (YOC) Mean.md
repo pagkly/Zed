@@ -1,7 +1,7 @@
 ---
 alias: [Yield On Cost (YOC) Defined]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield On Cost (YOC) Defined, [[What Does Yield On Cost (YOC) Mean]]?]
+tags: [Yield On Cost (YOC) Defined, What Does Yield On Cost (YOC) Mean?]
 source: https://www.investopedia.com/terms/[[Y|y]]/[[Yield|yield]]-on-cost.asp
 author: Jason Fernando
 ---

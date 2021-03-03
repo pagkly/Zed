@@ -1,7 +1,7 @@
 ---
 alias: [Rabbi Trust]
 created: 2021-03-02T23:07:32 (UTC +11:00)
-tags: [Rabbi [[Trust Definition]], Rabbi Trust Definition]
+tags: [Rabbi Trust Definition, Rabbi Trust Definition]
 source: https://www.investopedia.com/terms/r/rabbitrust.asp
 author: Julia Kagan
 ---

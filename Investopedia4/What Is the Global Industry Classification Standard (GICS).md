@@ -1,7 +1,7 @@
 ---
 alias: [Global Industry Classification Standard, GICS]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [Global Industry Classification Standard (GICS) Definition, [[What Is the Global Industry Classification Standard (GICS)]]?]
+tags: [Global Industry Classification Standard (GICS) Definition, What Is the Global Industry Classification Standard (GICS)?]
 source: https://www.investopedia.com/terms/g/gics.asp
 author: [[Will]] Kenton
 ---

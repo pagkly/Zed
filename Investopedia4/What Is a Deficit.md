@@ -1,7 +1,7 @@
 ---
 alias: [Deficit]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Deficit Definition, [[What Is a Deficit]]?]
+tags: [Deficit Definition, What Is a Deficit?]
 source: https://www.investopedia.com/terms/d/deficit.asp
 author: Carla Tardi
 ---

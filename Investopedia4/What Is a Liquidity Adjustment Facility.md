@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Adjustment Facility]
 created: 2021-03-02T21:21:47 (UTC +11:00)
-tags: [Liquidity Adjustment Facility Definition, [[What Is a Liquidity Adjustment Facility]]?]
+tags: [Liquidity Adjustment Facility Definition, What Is a Liquidity Adjustment Facility?]
 source: https://www.investopedia.com/terms/l/liquidity_adjustment_facility.asp
 author: Tim Smith
 ---

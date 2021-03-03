@@ -1,7 +1,7 @@
 ---
 alias: [Supply Shock]
 created: 2021-03-02T23:47:47 (UTC +11:00)
-tags: [Supply Shock Definition, [[Supply]] Shock Definition]
+tags: [Supply Shock Definition, Supply Shock Definition]
 source: https://www.investopedia.com/terms/s/supplyshock.asp
 author: Evan Tarver
 ---

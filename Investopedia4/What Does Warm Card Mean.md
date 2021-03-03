@@ -1,7 +1,7 @@
 ---
 alias: [Warm Card Defined]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Warm Card Defined, [[What Does Warm Card Mean]]?]
+tags: [Warm Card Defined, What Does Warm Card Mean?]
 source: https://www.investopedia.com/terms/w/warm-card.asp
 author: Jason Fernando
 ---

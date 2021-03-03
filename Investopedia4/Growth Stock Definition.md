@@ -1,7 +1,7 @@
 ---
 alias: [Growth Stock]
 created: 2021-03-02T20:32:32 (UTC +11:00)
-tags: [Growth [[Stock]] Definition, Growth Stock Definition]
+tags: [Growth Stock Definition, Growth Stock Definition]
 source: https://www.investopedia.com/terms/g/growthstock.asp
 author: James Chen
 ---

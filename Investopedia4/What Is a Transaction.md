@@ -1,7 +1,7 @@
 ---
 alias: [Transaction]
 created: 2021-03-03T00:06:43 (UTC +11:00)
-tags: [Transaction Definition, [[What Is a Transaction]]?]
+tags: [Transaction Definition, What Is a Transaction?]
 source: https://www.investopedia.com/terms/t/transaction.asp
 author: Carol Kopp
 ---

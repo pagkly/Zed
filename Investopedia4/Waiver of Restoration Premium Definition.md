@@ -1,7 +1,7 @@
 ---
 alias: [Waiver of Restoration Premium]
 created: 2021-03-03T00:46:29 (UTC +11:00)
-tags: [Waiver of Restoration [[Premium]] Definition, Waiver of Restoration Premium Definition]
+tags: [Waiver of Restoration Premium Definition, Waiver of Restoration Premium Definition]
 source: https://www.investopedia.com/terms/w/waiver-of-restoration-[[Premium|premium]].asp
 author: Jason Fernando
 ---

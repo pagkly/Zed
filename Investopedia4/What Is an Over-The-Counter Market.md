@@ -1,7 +1,7 @@
 ---
 alias: [Over-The-Counter Market]
 created: 2021-03-02T22:33:41 (UTC +11:00)
-tags: [Over-The-Counter Market Definition, [[What Is an Over-The-Counter Market]]?]
+tags: [Over-The-Counter Market Definition, What Is an Over-The-Counter Market?]
 source: https://www.investopedia.com/terms/o/over-the-countermarket.asp
 author: Michael Kramer
 ---

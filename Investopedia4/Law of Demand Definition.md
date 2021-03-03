@@ -1,7 +1,7 @@
 ---
 alias: [Law of Demand]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Law of [[Demand Definition]], Law of Demand Definition]
+tags: [Law of Demand Definition, Law of Demand Definition]
 source: https://www.investopedia.com/terms/l/lawofdemand.asp
 author: Adam Hayes
 ---

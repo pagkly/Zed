@@ -1,7 +1,7 @@
 ---
 alias: [Political Risk]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Political [[Risk]], Political Risk]
+tags: [Political Risk, Political Risk]
 source: https://www.investopedia.com/terms/p/politicalrisk.asp
 author: James Chen
 ---

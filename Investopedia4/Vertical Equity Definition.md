@@ -1,7 +1,7 @@
 ---
 alias: [Vertical Equity]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Vertical [[Equity]], Vertical Equity Definition]
+tags: [Vertical Equity, Vertical Equity Definition]
 source: https://www.investopedia.com/terms/v/vertical_equity.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Foreclosure]
 created: 2021-03-02T20:01:18 (UTC +11:00)
-tags: [Foreclosure Definition, [[What Is Foreclosure]]?]
+tags: [Foreclosure Definition, What Is Foreclosure?]
 source: https://www.investopedia.com/terms/f/foreclosure.asp
 author: James Chen
 ---

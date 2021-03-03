@@ -1,7 +1,7 @@
 ---
 alias: [U.S. Treasury]
 created: 2021-03-03T00:30:12 (UTC +11:00)
-tags: [U.S. Treasury Definition, [[What Is the U.S. Treasury]]?]
+tags: [U.S. Treasury Definition, What Is the U.S. Treasury?]
 source: https://www.investopedia.com/terms/u/ustreasury.asp
 author: James Chen
 ---

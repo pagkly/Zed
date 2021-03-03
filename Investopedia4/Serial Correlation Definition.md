@@ -1,7 +1,7 @@
 ---
 alias: [Serial Correlation]
 created: 2021-03-02T23:34:13 (UTC +11:00)
-tags: [Serial [[Correlation]] Definition, Serial Correlation Definition]
+tags: [Serial Correlation Definition, Serial Correlation Definition]
 source: https://www.investopedia.com/terms/s/serial-[[Correlation|correlation]].asp
 author: Caroline Banton
 ---

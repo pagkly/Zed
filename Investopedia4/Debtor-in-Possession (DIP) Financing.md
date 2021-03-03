@@ -1,7 +1,7 @@
 ---
 alias: [Debtor-in-Possession (DIP) Financing]
 created: 2021-03-02T19:11:29 (UTC +11:00)
-tags: [Debtor-in-Possession (DIP) Financing Definition, [[Debtor]]-in-Possession (DIP) Financing]
+tags: [Debtor-in-Possession (DIP) Financing Definition, Debtor-in-Possession (DIP) Financing]
 source: https://www.investopedia.com/terms/d/debtorinpossessionfinancing.asp
 author: [[Will]] Kenton
 ---

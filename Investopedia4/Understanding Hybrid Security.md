@@ -1,7 +1,7 @@
 ---
 alias: [Hybrid Security]
 created: 2021-03-02T20:54:02 (UTC +11:00)
-tags: [Hybrid [[Security]] Definition, Understanding Hybrid Security]
+tags: [Hybrid Security Definition, Understanding Hybrid Security]
 source: https://www.investopedia.com/terms/h/hybridsecurity.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [What Is the Euromarket?]
 created: 2021-03-02T19:44:17 (UTC +11:00)
-tags: [What Is the Euromarket?, [[What Is the Euromarket]]?]
+tags: [What Is the Euromarket?, What Is the Euromarket?]
 source: https://www.investopedia.com/terms/e/euromarket.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Junk Bond]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Junk Bond Definition, [[What Are Junk Bonds and How are Junk Bonds Rated]]?]
+tags: [Junk Bond Definition, What Are Junk Bonds and How are Junk Bonds Rated?]
 source: https://www.investopedia.com/terms/j/junkbond.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Economies of Scope]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [Economies of [[Scope]] Definition, Economies of Scope Definition]
+tags: [Economies of Scope Definition, Economies of Scope Definition]
 source: https://www.investopedia.com/terms/e/economiesofscope.asp
 author: Investopedia Staff
 ---

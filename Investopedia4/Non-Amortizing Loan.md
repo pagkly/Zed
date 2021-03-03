@@ -1,7 +1,7 @@
 ---
 alias: [Non-Amortizing Loan]
 created: 2021-03-02T21:45:56 (UTC +11:00)
-tags: [Non-Amortizing [[Loan]] Definition, Non-Amortizing Loan]
+tags: [Non-Amortizing Loan Definition, Non-Amortizing Loan]
 source: https://www.investopedia.com/terms/n/nonamortizing.asp
 author: Julia Kagan
 ---

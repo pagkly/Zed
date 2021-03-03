@@ -1,7 +1,7 @@
 ---
 alias: [Tracking Stock]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [Tracking [[Stock]] Definition, The Benefits and Risks of Tracking Stocks]
+tags: [Tracking Stock Definition, The Benefits and Risks of Tracking Stocks]
 source: https://www.investopedia.com/terms/t/trackingstocks.asp
 author: James Chen
 ---

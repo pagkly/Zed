@@ -1,7 +1,7 @@
 ---
 alias: [Gross Margin]
 created: 2021-03-02T20:27:49 (UTC +11:00)
-tags: [Gross [[Margin Definition]], Gross Margin Defined]
+tags: [Gross Margin Definition, Gross Margin Defined]
 source: https://www.investopedia.com/terms/g/grossmargin.asp
 author: Andrew Bloomenthal
 ---

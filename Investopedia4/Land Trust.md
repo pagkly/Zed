@@ -1,7 +1,7 @@
 ---
 alias: [Land Trust]
 created: 2021-03-02T21:11:24 (UTC +11:00)
-tags: [Land [[Trust Definition]], Land Trust]
+tags: [Land Trust Definition, Land Trust]
 source: https://www.investopedia.com/terms/l/land-trust.asp
 author: Claire Boyte-White
 ---

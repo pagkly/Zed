@@ -1,7 +1,7 @@
 ---
 alias: [Treasury STRIPS]
 created: 2021-03-03T00:09:07 (UTC +11:00)
-tags: [Treasury STRIPS Definition, [[What Are Treasury STRIPS]]?]
+tags: [Treasury STRIPS Definition, What Are Treasury STRIPS?]
 source: https://www.investopedia.com/terms/t/treasurystrips.asp
 author: James Chen
 ---

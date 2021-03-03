@@ -1,7 +1,7 @@
 ---
 alias: [EBIT/EV Multiple]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [EBIT/EV [[Multiple Definition]], EBIT/EV Multiple Definition]
+tags: [EBIT/EV Multiple Definition, EBIT/EV Multiple Definition]
 source: https://www.investopedia.com/terms/e/ebit-ev-multiple.asp
 author: Adam Hayes
 ---

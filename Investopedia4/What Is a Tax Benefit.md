@@ -1,7 +1,7 @@
 ---
 alias: [Tax Benefit]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tax Benefit Definition, [[What Is a Tax Benefit]]?]
+tags: [Tax Benefit Definition, What Is a Tax Benefit?]
 source: https://www.investopedia.com/terms/t/tax-benefit.asp
 author: Julia Kagan
 ---

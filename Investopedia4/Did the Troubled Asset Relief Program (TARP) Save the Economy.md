@@ -1,7 +1,7 @@
 ---
 alias: [Troubled Asset Relief Program, TARP]
 created: 2021-03-03T00:09:09 (UTC +11:00)
-tags: [Troubled Asset Relief Program (TARP), [[Did the Troubled Asset Relief Program (TARP) Save the Economy]]?]
+tags: [Troubled Asset Relief Program (TARP), Did the Troubled Asset Relief Program (TARP) Save the Economy?]
 source: https://www.investopedia.com/terms/t/troubled-asset-relief-program-tarp.asp
 author: Troy Segal
 ---

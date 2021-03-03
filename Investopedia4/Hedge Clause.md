@@ -1,7 +1,7 @@
 ---
 alias: [Hedge Clause]
 created: 2021-03-02T20:41:16 (UTC +11:00)
-tags: [Hedge Clause, [[Hedge]] Clause]
+tags: [Hedge Clause, Hedge Clause]
 source: https://www.investopedia.com/terms/h/hedgeclause.asp
 author: James Chen
 ---

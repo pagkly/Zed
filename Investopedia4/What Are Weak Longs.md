@@ -1,7 +1,7 @@
 ---
 alias: [Weak Longs]
 created: 2021-03-03T00:50:37 (UTC +11:00)
-tags: [Weak Longs Definition, [[What Are Weak Longs]]?]
+tags: [Weak Longs Definition, What Are Weak Longs?]
 source: https://www.investopedia.com/terms/w/weaklongs.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Surplus Lines Insurance]
 created: 2021-03-02T23:50:09 (UTC +11:00)
-tags: [Surplus Lines Insurance Definition, [[Surplus]] Lines Insurance Explained]
+tags: [Surplus Lines Insurance Definition, Surplus Lines Insurance Explained]
 source: https://www.investopedia.com/terms/s/[[Surplus|surplus]]-lines-insurance.asp
 author: Caroline Banton
 ---

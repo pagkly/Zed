@@ -1,7 +1,7 @@
 ---
 alias: [Weighted Alpha]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weighted Alpha Definition, [[Weighted]] Alpha Definition]
+tags: [Weighted Alpha Definition, Weighted Alpha Definition]
 source: https://www.investopedia.com/terms/w/weightedalpha.asp
 author: Akhilesh Ganti
 ---

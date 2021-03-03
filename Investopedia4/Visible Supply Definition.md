@@ -1,7 +1,7 @@
 ---
 alias: [Visible Supply]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Visible [[Supply]] Definition, Visible Supply Definition]
+tags: [Visible Supply Definition, Visible Supply Definition]
 source: https://www.investopedia.com/terms/v/visiblesupply.asp
 author: Lucas Downey
 ---

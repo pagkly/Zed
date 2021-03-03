@@ -1,7 +1,7 @@
 ---
 alias: [Offset Mortgage]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offset [[Mortgage Definition]], Offset Mortgage Definition]
+tags: [Offset Mortgage Definition, Offset Mortgage Definition]
 source: https://www.investopedia.com/terms/o/offset_mortgage.asp
 author: Julia Kagan
 ---

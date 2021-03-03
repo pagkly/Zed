@@ -1,7 +1,7 @@
 ---
 alias: [Payable On Death, POD]
 created: 2021-03-02T22:38:08 (UTC +11:00)
-tags: [Payable On Death (POD) Definition, [[What Does Payable On Death (POD) Mean]]?]
+tags: [Payable On Death (POD) Definition, What Does Payable On Death (POD) Mean?]
 source: https://www.investopedia.com/terms/p/payableondeath.asp
 author: Julia Kagan
 ---

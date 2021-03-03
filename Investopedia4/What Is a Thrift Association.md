@@ -1,7 +1,7 @@
 ---
 alias: [Thrift Associations Defined]
 created: 2021-03-03T00:00:39 (UTC +11:00)
-tags: [Thrift Associations Defined, [[What Is a Thrift Association]]?]
+tags: [Thrift Associations Defined, What Is a Thrift Association?]
 source: https://www.investopedia.com/terms/t/thrift.asp
 author: Julia Kagan
 ---

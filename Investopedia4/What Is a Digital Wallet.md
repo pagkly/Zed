@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Digital Wallet?]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [What Is a Digital Wallet?, [[What Is a Digital Wallet]]?]
+tags: [What Is a Digital Wallet?, What Is a Digital Wallet?]
 source: https://www.investopedia.com/terms/d/digital-wallet.asp
 author: Julia Kagan
 ---

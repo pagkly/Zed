@@ -1,7 +1,7 @@
 ---
 alias: [Operating Lease]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Operating [[Lease]] Definition, Operating Lease Explained]
+tags: [Operating Lease Definition, Operating Lease Explained]
 source: https://www.investopedia.com/terms/o/operatinglease.asp
 author: Carla Tardi
 ---

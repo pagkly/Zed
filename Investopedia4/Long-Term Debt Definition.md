@@ -1,7 +1,7 @@
 ---
 alias: [Long-Term Debt]
 created: 2021-03-02T21:28:00 (UTC +11:00)
-tags: [Long-Term [[Debt]] Definition, Long-Term Debt Definition]
+tags: [Long-Term Debt Definition, Long-Term Debt Definition]
 source: https://www.investopedia.com/terms/l/longtermdebt.asp
 author: Alicia Tuovila
 ---

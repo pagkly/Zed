@@ -1,7 +1,7 @@
 ---
 alias: [Late Fee]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Late Fee Definition, [[What Is a Late Fee]]?]
+tags: [Late Fee Definition, What Is a Late Fee?]
 source: https://www.investopedia.com/terms/l/late-fee.asp
 author:  Amy Fontinelle
 ---

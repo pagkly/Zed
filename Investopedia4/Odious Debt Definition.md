@@ -1,7 +1,7 @@
 ---
 alias: [Odious Debt]
 created: 2021-03-02T22:15:53 (UTC +11:00)
-tags: [Odious [[Debt]] Definition, Odious Debt Definition]
+tags: [Odious Debt Definition, Odious Debt Definition]
 source: https://www.investopedia.com/terms/o/odious-[[Debt|debt]].asp
 author: Jim Chappelow
 ---

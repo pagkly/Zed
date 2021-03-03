@@ -1,7 +1,7 @@
 ---
 alias: [Unfunded Pension Plan]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unfunded [[Pension Plan]] Definition, Unfunded Pension Plan]
+tags: [Unfunded Pension Plan Definition, Unfunded Pension Plan]
 source: https://www.investopedia.com/terms/u/unfunded-pension-plan.asp
 author: Julia Kagan
 ---

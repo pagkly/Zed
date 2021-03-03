@@ -1,7 +1,7 @@
 ---
 alias: [Equity Method]
 created: 2021-03-02T19:42:13 (UTC +11:00)
-tags: [Equity Method Definition, [[Equity]] Method Definition]
+tags: [Equity Method Definition, Equity Method Definition]
 source: https://www.investopedia.com/terms/e/equitymethod.asp
 author: Alicia Tuovila
 ---

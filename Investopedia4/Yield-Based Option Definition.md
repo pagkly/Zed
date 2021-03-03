@@ -1,7 +1,7 @@
 ---
 alias: [Yield-Based Option]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield-Based Option Definition, [[Yield]]-Based Option Definition]
+tags: [Yield-Based Option Definition, Yield-Based Option Definition]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldbasedoption.asp
 author: Mark Jahn
 ---

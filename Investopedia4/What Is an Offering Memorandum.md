@@ -1,7 +1,7 @@
 ---
 alias: [Offering Memorandum]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offering Memorandum Definition, [[What Is an Offering Memorandum]]?]
+tags: [Offering Memorandum Definition, What Is an Offering Memorandum?]
 source: https://www.investopedia.com/terms/o/offeringmemorandum.asp
 author: Adam Hayes
 ---

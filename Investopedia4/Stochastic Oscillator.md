@@ -1,7 +1,7 @@
 ---
 alias: [Stochastic Oscillator]
 created: 2021-03-02T23:43:20 (UTC +11:00)
-tags: [Stochastic [[Oscillator Definition]], Stochastic Oscillator]
+tags: [Stochastic Oscillator Definition, Stochastic Oscillator]
 source: https://www.investopedia.com/terms/s/stochasticoscillator.asp
 author: Adam Hayes
 ---

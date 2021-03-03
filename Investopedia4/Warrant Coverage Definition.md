@@ -1,7 +1,7 @@
 ---
 alias: [Warrant Coverage]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Warrant Coverage Definition, [[Warrant]] Coverage Definition]
+tags: [Warrant Coverage Definition, Warrant Coverage Definition]
 source: https://www.investopedia.com/terms/w/warrantcoverage.asp
 author: Gordon Scott
 ---

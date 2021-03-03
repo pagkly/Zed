@@ -1,7 +1,7 @@
 ---
 alias: [Excess Cash Flow]
 created: 2021-03-02T19:46:19 (UTC +11:00)
-tags: [Excess [[Cash Flow]] Definition, Excess Cash Flow Definition]
+tags: [Excess Cash Flow Definition, Excess Cash Flow Definition]
 source: https://www.investopedia.com/terms/e/excess-cash-flow.asp
 author: Adam Hayes
 ---

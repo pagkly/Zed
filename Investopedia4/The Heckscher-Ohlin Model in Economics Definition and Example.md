@@ -1,7 +1,7 @@
 ---
 alias: [Heckscher-Ohlin Model]
 created: 2021-03-02T20:39:12 (UTC +11:00)
-tags: [Heckscher-Ohlin Model Definition, The Heckscher-Ohlin Model in [[Economics]]: Definition and Example]
+tags: [Heckscher-Ohlin Model Definition, The Heckscher-Ohlin Model in Economics: Definition and Example]
 source: https://www.investopedia.com/terms/h/heckscherohlin-model.asp
 author: Carol M. Kopp
 ---

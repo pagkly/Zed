@@ -1,7 +1,7 @@
 ---
 alias: [Lucrative]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Lucrative Definition, [[What Does Lucrative Mean]]?]
+tags: [Lucrative Definition, What Does Lucrative Mean?]
 source: https://www.investopedia.com/terms/l/lucrative.asp
 author: Adam Hayes
 ---

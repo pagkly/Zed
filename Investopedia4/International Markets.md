@@ -1,7 +1,7 @@
 ---
 alias: [Investing in International Markets]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Investing in [[International Markets]], International Markets]
+tags: [Investing in International Markets, International Markets]
 source: https://www.investopedia.com/international-markets-4689750
 author: 
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Cash Dividend]
 created: 2021-03-02T18:49:08 (UTC +11:00)
-tags: [Cash [[Dividend Definition]], Cash Dividend Explained: Characteristics, Accounting, and Comparisons]
+tags: [Cash Dividend Definition, Cash Dividend Explained: Characteristics, Accounting, and Comparisons]
 source: https://www.investopedia.com/terms/c/cashdividend.asp
 author: Caroline Banton
 ---

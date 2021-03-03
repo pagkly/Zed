@@ -1,7 +1,7 @@
 ---
 alias: [Labor Productivity]
 created: 2021-03-02T21:09:20 (UTC +11:00)
-tags: [Labor [[Productivity]] Definition, Labor Productivity Definition]
+tags: [Labor Productivity Definition, Labor Productivity Definition]
 source: https://www.investopedia.com/terms/l/labor-[[Productivity|productivity]].asp
 author: Investopedia Staff
 ---

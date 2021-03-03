@@ -1,7 +1,7 @@
 ---
 alias: [Debt Instrument]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Instrument Definition, [[Debt]] Instrument]
+tags: [Debt Instrument Definition, Debt Instrument]
 source: https://www.investopedia.com/terms/d/debtinstrument.asp
 author: James Chen
 ---

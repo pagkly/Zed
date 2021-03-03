@@ -1,7 +1,7 @@
 ---
 alias: [Treasury [[Stock]], Treasury Shares]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Treasury [[Stock]] (Treasury [[Shares]]) Definition, Treasury Stock (Treasury Shares) Definition]
+tags: [Treasury Stock (Treasury [[Shares]]) Definition, Treasury Stock (Treasury Shares) Definition]
 source: https://www.investopedia.com/terms/t/treasurystock.asp
 author: Alicia Tuovila
 ---

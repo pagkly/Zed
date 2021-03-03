@@ -1,7 +1,7 @@
 ---
 alias: [Producer Surplus]
 created: 2021-03-02T22:52:19 (UTC +11:00)
-tags: [Producer [[Surplus]] Definition, Producer Surplus Definition]
+tags: [Producer Surplus Definition, Producer Surplus Definition]
 source: https://www.investopedia.com/terms/p/producer_surplus.asp
 author: Investopedia Staff
 ---

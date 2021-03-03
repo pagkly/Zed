@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Management]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Management Definition, [[What Is Portfolio Management]]?]
+tags: [Portfolio Management Definition, What Is Portfolio Management?]
 source: https://www.investopedia.com/terms/p/portfoliomanagement.asp
 author: Adam Hayes
 ---

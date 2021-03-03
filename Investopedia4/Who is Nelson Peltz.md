@@ -1,7 +1,7 @@
 ---
 alias: [Who is Nelson Peltz?]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Who is Nelson Peltz?, [[Who is Nelson Peltz]]?]
+tags: [Who is Nelson Peltz?, Who is Nelson Peltz?]
 source: https://www.investopedia.com/terms/n/nelson-peltz.asp
 author: Osi Momoh
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Long Hedge]
 created: 2021-03-02T21:25:56 (UTC +11:00)
-tags: [Long [[Hedge]] Definition, Sizing up the Long Hedge]
+tags: [Long Hedge Definition, Sizing up the Long Hedge]
 source: https://www.investopedia.com/terms/l/longhedge.asp
 author: James Chen
 ---

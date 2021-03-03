@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Mortgage]
 created: 2021-03-02T23:00:59 (UTC +11:00)
-tags: [Qualified [[Mortgage Definition]], Qualified Mortgage]
+tags: [Qualified Mortgage Definition, Qualified Mortgage]
 source: https://www.investopedia.com/terms/q/qualified-mortgage.asp
 author: Julia Kagan
 ---

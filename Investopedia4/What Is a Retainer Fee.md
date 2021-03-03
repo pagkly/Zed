@@ -1,7 +1,7 @@
 ---
 alias: [Retainer Fee]
 created: 2021-03-02T23:18:56 (UTC +11:00)
-tags: [Retainer Fee Definition, [[What Is a Retainer Fee]]?]
+tags: [Retainer Fee Definition, What Is a Retainer Fee?]
 source: https://www.investopedia.com/terms/r/retainer-fee.asp
 author:  Olivia LaBarre
 ---

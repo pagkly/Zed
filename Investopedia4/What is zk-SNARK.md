@@ -1,7 +1,7 @@
 ---
 alias: [zk-SNARK]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [zk-SNARK Definition, [[What is zk-SNARK]]?]
+tags: [zk-SNARK Definition, What is zk-SNARK?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zksnark.asp
 author: Katelyn Peters
 ---

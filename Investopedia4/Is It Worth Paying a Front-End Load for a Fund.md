@@ -1,7 +1,7 @@
 ---
 alias: [Front-End Load]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Front-End [[Load Definition]], [[Is It Worth Paying a Front-End Load for a Fund]]?]
+tags: [Front-End Load Definition, [[Is It Worth Paying a Front-End Load for a Fund]]?]
 source: https://www.investopedia.com/terms/f/front-endload.asp
 author: Troy Segal
 ---

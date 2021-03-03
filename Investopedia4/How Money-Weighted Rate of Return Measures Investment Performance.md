@@ -1,7 +1,7 @@
 ---
 alias: [Money-[[Weighted]] Rate of Return]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Money-[[Weighted]] Rate of [[Return]] Definition, How Money-Weighted Rate of Return Measures Investment Performance]
+tags: [Money-Weighted Rate of [[Return]] Definition, How Money-Weighted Rate of Return Measures Investment Performance]
 source: https://www.investopedia.com/terms/m/money-[[Weighted|weighted]]-[[Return|return]].asp
 author: Caroline Banton
 ---

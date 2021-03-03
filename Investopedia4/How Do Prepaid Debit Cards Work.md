@@ -1,7 +1,7 @@
 ---
 alias: [How Do Prepaid Debit Cards Work?]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [How Do Prepaid Debit Cards Work?, [[How Do Prepaid Debit Cards Work]]?]
+tags: [How Do Prepaid Debit Cards Work?, How Do Prepaid Debit Cards Work?]
 source: https://www.investopedia.com/ask/answers/042315/how-do-prepaid-debit-cards-work.asp
 author: Investopedia
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [NAV Return]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [NAV [[Return]], NAV Return Definition]
+tags: [NAV Return, NAV Return Definition]
 source: https://www.investopedia.com/terms/n/nav_return.asp
 author: James Chen
 ---

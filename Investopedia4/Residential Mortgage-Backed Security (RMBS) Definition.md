@@ -1,7 +1,7 @@
 ---
 alias: [Residential Mortgage-Backed [[Security]], RMBS]
 created: 2021-03-02T23:16:49 (UTC +11:00)
-tags: [Residential Mortgage-Backed [[Security]] (RMBS) Definition, Residential Mortgage-Backed Security (RMBS) Definition]
+tags: [Residential Mortgage-Backed Security (RMBS) Definition, Residential Mortgage-Backed Security (RMBS) Definition]
 source: https://www.investopedia.com/terms/r/rmbs.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Valuation Premium]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [Valuation [[Premium]] Definition, Valuation Premium]
+tags: [Valuation Premium Definition, Valuation Premium]
 source: https://www.investopedia.com/terms/v/valuation-[[Premium|premium]].asp
 author: Chris B Murphy
 ---

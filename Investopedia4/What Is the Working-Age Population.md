@@ -1,7 +1,7 @@
 ---
 alias: [Working-Age Population]
 created: 2021-03-03T01:01:21 (UTC +11:00)
-tags: [Working-Age Population Definition, [[What Is the Working-Age Population]]?]
+tags: [Working-Age Population Definition, What Is the Working-Age Population?]
 source: https://www.investopedia.com/terms/w/working-age-population.asp
 author: Christina Majaski
 ---

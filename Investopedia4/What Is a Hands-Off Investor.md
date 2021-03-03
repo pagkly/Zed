@@ -1,7 +1,7 @@
 ---
 alias: [Hands-Off Investor]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Hands-Off Investor Definition, [[What Is a Hands-Off Investor]]?]
+tags: [Hands-Off Investor Definition, What Is a Hands-Off Investor?]
 source: https://www.investopedia.com/terms/h/handsoffinvestor.asp
 author: James Chen
 ---

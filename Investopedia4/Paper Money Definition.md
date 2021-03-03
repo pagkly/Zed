@@ -1,7 +1,7 @@
 ---
 alias: [Paper Money]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Paper [[Money Definition]], Paper Money Definition]
+tags: [Paper Money Definition, Paper Money Definition]
 source: https://www.investopedia.com/terms/p/paper_money.asp
 author: Adam Barone
 ---

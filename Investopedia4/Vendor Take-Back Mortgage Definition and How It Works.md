@@ -1,7 +1,7 @@
 ---
 alias: [Vendor Take-Back Mortgage]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Vendor Take-Back [[Mortgage Definition]], Vendor Take-Back Mortgage: Definition and How It Works]
+tags: [Vendor Take-Back Mortgage Definition, Vendor Take-Back Mortgage: Definition and How It Works]
 source: https://www.investopedia.com/terms/v/vendor_take_back.asp
 author: Carol M. Kopp
 ---

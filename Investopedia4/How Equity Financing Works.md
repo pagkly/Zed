@@ -1,7 +1,7 @@
 ---
 alias: [Equity Financing]
 created: 2021-03-02T19:39:55 (UTC +11:00)
-tags: [Equity Financing Definition, How [[Equity]] Financing Works]
+tags: [Equity Financing Definition, How Equity Financing Works]
 source: https://www.investopedia.com/terms/e/equityfinancing.asp
 author: Caroline Banton
 ---

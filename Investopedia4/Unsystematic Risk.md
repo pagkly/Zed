@@ -1,7 +1,7 @@
 ---
 alias: [Unsystematic Risk]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Unsystematic [[Risk]], Unsystematic Risk]
+tags: [Unsystematic Risk, Unsystematic Risk]
 source: https://www.investopedia.com/terms/u/unsystematicrisk.asp
 author: James Chen
 ---

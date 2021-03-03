@@ -1,7 +1,7 @@
 ---
 alias: [Love Money]
 created: 2021-03-02T21:30:09 (UTC +11:00)
-tags: [Love [[Money Definition]], Love Money]
+tags: [Love Money Definition, Love Money]
 source: https://www.investopedia.com/terms/l/lovemoney.asp
 author: Adam Hayes
 ---

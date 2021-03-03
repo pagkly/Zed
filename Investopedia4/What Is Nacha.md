@@ -1,7 +1,7 @@
 ---
 alias: [Nacha]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Nacha Definition, [[What Is Nacha]]?]
+tags: [Nacha Definition, What Is Nacha?]
 source: https://www.investopedia.com/terms/n/nacha.asp
 author: James Chen
 ---

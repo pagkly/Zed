@@ -1,7 +1,7 @@
 ---
 alias: [Tax Return]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax [[Return]] Definition, Tax Return]
+tags: [Tax Return Definition, Tax Return]
 source: https://www.investopedia.com/terms/t/taxreturn.asp
 author: Julia Kagan
 ---

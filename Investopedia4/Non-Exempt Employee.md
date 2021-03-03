@@ -1,7 +1,7 @@
 ---
 alias: [Non-Exempt Employee]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-[[Exempt Employee]] Definition, Non-Exempt Employee]
+tags: [Non-Exempt Employee Definition, Non-Exempt Employee]
 source: https://www.investopedia.com/terms/n/nonexempt-employee.asp
 author: James Chen
 ---

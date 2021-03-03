@@ -1,7 +1,7 @@
 ---
 alias: [Principal, Interest, Taxes, Insurance —PITI]
 created: 2021-03-02T22:52:18 (UTC +11:00)
-tags: [Principal, Interest, Taxes, Insurance —PITI Definition, [[What Is Principal, Interest, Taxes, Insurance—PITI]]?]
+tags: [Principal, Interest, Taxes, Insurance —PITI Definition, What Is Principal, Interest, Taxes, Insurance—PITI?]
 source: https://www.investopedia.com/terms/p/piti.asp
 author: Julia Kagan
 ---

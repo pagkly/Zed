@@ -1,7 +1,7 @@
 ---
 alias: [Funded Debt]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Funded [[Debt]] Definition, Funded Debt]
+tags: [Funded Debt Definition, Funded Debt]
 source: https://www.investopedia.com/terms/f/fundeddebt.asp
 author: James Chen
 ---

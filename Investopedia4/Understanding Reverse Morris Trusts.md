@@ -1,7 +1,7 @@
 ---
 alias: [Reverse Morris Trust]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Reverse Morris [[Trust Definition]], Understanding Reverse Morris Trusts]
+tags: [Reverse Morris Trust Definition, Understanding Reverse Morris Trusts]
 source: https://www.investopedia.com/terms/r/reverse-morris-trust.asp
 author: Adam Hayes
 ---

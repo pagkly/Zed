@@ -1,7 +1,7 @@
 ---
 alias: [Lease Extension]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Lease Extension Definition, [[Lease]] Extension]
+tags: [Lease Extension Definition, Lease Extension]
 source: https://www.investopedia.com/terms/l/[[Lease|lease]]-extension.asp
 author: James Chen
 ---

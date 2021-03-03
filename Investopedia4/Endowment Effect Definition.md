@@ -1,7 +1,7 @@
 ---
 alias: [Endowment Effect]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Endowment Effect Definition, [[Endowment]] Effect Definition]
+tags: [Endowment Effect Definition, Endowment Effect Definition]
 source: https://www.investopedia.com/terms/e/[[Endowment|endowment]]-effect.asp
 author: Akhilesh Ganti
 ---

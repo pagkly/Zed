@@ -1,7 +1,7 @@
 ---
 alias: [Dividend [[Reinvestment]] Plan—DRIP]
 created: 2021-03-02T19:24:42 (UTC +11:00)
-tags: [Dividend [[Reinvestment]] Plan—DRIP Definition, How Investments Grow by DRIPS (Dividend Reinvestment Plans)]
+tags: [Dividend Reinvestment Plan—DRIP Definition, How Investments Grow by DRIPS (Dividend Reinvestment Plans)]
 source: https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp
 author: James Chen
 ---

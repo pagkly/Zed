@@ -1,7 +1,7 @@
 ---
 alias: [What Is Trade?]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [What Is Trade?, [[What Is Trade]]?]
+tags: [What Is Trade?, What Is Trade?]
 source: https://www.investopedia.com/terms/t/trade.asp
 author: Adam Hayes
 ---

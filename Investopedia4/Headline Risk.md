@@ -1,7 +1,7 @@
 ---
 alias: [Headline Risk]
 created: 2021-03-02T20:39:11 (UTC +11:00)
-tags: [Headline [[Risk]], Headline Risk]
+tags: [Headline Risk, Headline Risk]
 source: https://www.investopedia.com/terms/h/headline-[[Risk|risk]].asp
 author: James Chen
 ---

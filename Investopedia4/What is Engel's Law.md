@@ -1,7 +1,7 @@
 ---
 alias: [Engel's Law]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Engel's Law Definition, [[What is Engel's Law]]?]
+tags: [Engel's Law Definition, What is Engel's Law?]
 source: https://www.investopedia.com/terms/e/engels-law.asp
 author: Adam Hayes
 ---

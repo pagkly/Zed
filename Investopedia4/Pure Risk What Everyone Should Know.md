@@ -1,7 +1,7 @@
 ---
 alias: [Pure Risk]
 created: 2021-03-02T22:58:53 (UTC +11:00)
-tags: [Pure [[Risk]] Definition, Pure Risk: What Everyone Should Know]
+tags: [Pure Risk Definition, Pure Risk: What Everyone Should Know]
 source: https://www.investopedia.com/terms/p/purerisk.asp
 author: Julia Kagan
 ---

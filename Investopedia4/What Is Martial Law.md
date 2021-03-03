@@ -1,7 +1,7 @@
 ---
 alias: [Martial Law Defintion]
 created: 2021-03-02T22:01:10 (UTC +11:00)
-tags: [Martial Law Defintion, [[What Is Martial Law]]?]
+tags: [Martial Law Defintion, What Is Martial Law?]
 source: https://www.investopedia.com/terms/m/martial-law.asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Market Order]
 created: 2021-03-02T21:59:05 (UTC +11:00)
-tags: [Market [[Order Definition]], How a Market Order Works]
+tags: [Market Order Definition, How a Market Order Works]
 source: https://www.investopedia.com/terms/m/marketorder.asp
 author: Rajeev Dhir
 ---

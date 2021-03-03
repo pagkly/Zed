@@ -1,7 +1,7 @@
 ---
 alias: [Default Rate]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Default Rate Definition, [[Default]] Rate Definition]
+tags: [Default Rate Definition, Default Rate Definition]
 source: https://www.investopedia.com/terms/d/defaultrate.asp
 author: Julia Kagan
 ---

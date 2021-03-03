@@ -1,7 +1,7 @@
 ---
 alias: [Minimum Wage]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Minimum Wage Definition, [[What Is a Minimum Wage]]?]
+tags: [Minimum Wage Definition, What Is a Minimum Wage?]
 source: https://www.investopedia.com/terms/m/minimum_wage.asp
 author: Daniel Liberto
 ---

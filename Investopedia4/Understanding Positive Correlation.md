@@ -1,7 +1,7 @@
 ---
 alias: [Positive Correlation]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Positive [[Correlation]] Definition, Understanding Positive Correlation]
+tags: [Positive Correlation Definition, Understanding Positive Correlation]
 source: https://www.investopedia.com/terms/p/positive-[[Correlation|correlation]].asp
 author: Adam Hayes
 ---

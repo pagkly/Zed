@@ -1,7 +1,7 @@
 ---
 alias: [UTXO]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [UTXO Definition, [[What Is UTXO]]?]
+tags: [UTXO Definition, What Is UTXO?]
 source: https://www.investopedia.com/terms/u/utxo.asp
 author: Jake Frankenfield
 ---

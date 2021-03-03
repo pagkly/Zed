@@ -1,7 +1,7 @@
 ---
 alias: [Transparency]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Transparency Definition, [[What Does Transparency Mean]]?]
+tags: [Transparency Definition, What Does Transparency Mean?]
 source: https://www.investopedia.com/terms/t/transparency.asp
 author: James Chen
 ---

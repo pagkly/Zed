@@ -1,7 +1,7 @@
 ---
 alias: [Hot IPO]
 created: 2021-03-02T20:51:41 (UTC +11:00)
-tags: [Hot IPO Definition, [[What Is a Hot IPO]]?]
+tags: [Hot IPO Definition, What Is a Hot IPO?]
 source: https://www.investopedia.com/terms/h/hotipo.asp
 author: Staff
 ---

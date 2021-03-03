@@ -1,7 +1,7 @@
 ---
 alias: [Tax Avoidance]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tax Avoidance Definition, [[What Is Tax Avoidance]]?]
+tags: [Tax Avoidance Definition, What Is Tax Avoidance?]
 source: https://www.investopedia.com/terms/t/tax_avoidance.asp
 author: Julia Kagan
 ---

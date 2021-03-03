@@ -1,7 +1,7 @@
 ---
 alias: [What Is the Central Limit Theorem (CLT)?]
 created: 2021-03-02T18:49:09 (UTC +11:00)
-tags: [What Is the Central Limit Theorem (CLT)?, [[What Is the Central Limit Theorem (CLT)]]?]
+tags: [What Is the Central Limit Theorem (CLT)?, What Is the Central Limit Theorem (CLT)?]
 source: https://www.investopedia.com/terms/c/central_limit_theorem.asp
 author: Akhilesh Ganti
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Money Management]
 created: 2021-03-02T22:09:37 (UTC +11:00)
-tags: [Money Management Definition, [[What Is Money Management]]?]
+tags: [Money Management Definition, What Is Money Management?]
 source: https://www.investopedia.com/terms/m/moneymanagement.asp
 author: James Chen
 ---

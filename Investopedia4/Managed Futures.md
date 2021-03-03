@@ -1,7 +1,7 @@
 ---
 alias: [Managed Futures]
 created: 2021-03-02T21:54:34 (UTC +11:00)
-tags: [Managed [[Futures]] Definition, Managed Futures]
+tags: [Managed Futures Definition, Managed Futures]
 source: https://www.investopedia.com/terms/m/managed-[[Futures|futures]].asp
 author: James Chen
 ---

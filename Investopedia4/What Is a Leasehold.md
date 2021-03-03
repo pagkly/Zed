@@ -1,7 +1,7 @@
 ---
 alias: [Leasehold]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Leasehold Definition, [[What Is a Leasehold]]?]
+tags: [Leasehold Definition, What Is a Leasehold?]
 source: https://www.investopedia.com/terms/l/leasehold.asp
 author: [[Will]] Kenton
 ---

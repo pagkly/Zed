@@ -1,7 +1,7 @@
 ---
 alias: [Growth Investing]
 created: 2021-03-02T20:32:31 (UTC +11:00)
-tags: [Growth Investing Definition, [[Is Growth Investing the Right Money-Making Method for You]]?]
+tags: [Growth Investing Definition, Is Growth Investing the Right Money-Making Method for You?]
 source: https://www.investopedia.com/terms/g/growthinvesting.asp
 author: Troy Segal
 ---

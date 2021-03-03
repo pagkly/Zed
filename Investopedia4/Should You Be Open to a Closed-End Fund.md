@@ -1,7 +1,7 @@
 ---
 alias: [Closed-End Fund]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Closed-End Fund Definition, [[Should You Be Open to a Closed-End Fund]]?]
+tags: [Closed-End Fund Definition, Should You Be Open to a Closed-End Fund?]
 source: https://www.investopedia.com/terms/c/closed-endinvestment.asp
 author: James Chen
 ---

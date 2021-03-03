@@ -1,7 +1,7 @@
 ---
 alias: [Usury Rate Defined]
 created: 2021-03-03T00:32:19 (UTC +11:00)
-tags: [Usury Rate Defined, [[What Does Usury Rate Mean]]?]
+tags: [Usury Rate Defined, What Does Usury Rate Mean?]
 source: https://www.investopedia.com/terms/u/usury-rate.asp
 author: Jason Fernando
 ---

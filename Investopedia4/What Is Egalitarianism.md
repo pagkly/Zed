@@ -1,7 +1,7 @@
 ---
 alias: [Egalitarianism]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Egalitarianism Definition, [[What Is Egalitarianism]]?]
+tags: [Egalitarianism Definition, What Is Egalitarianism?]
 source: https://www.investopedia.com/terms/e/egalitarianism.asp
 author: [[Will]] Kenton
 ---

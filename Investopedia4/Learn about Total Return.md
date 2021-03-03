@@ -1,7 +1,7 @@
 ---
 alias: [Total Return]
 created: 2021-03-03T00:02:42 (UTC +11:00)
-tags: [Total [[Return]] Definition, Learn about Total Return]
+tags: [Total Return Definition, Learn about Total Return]
 source: https://www.investopedia.com/terms/t/totalreturn.asp
 author: Caroline Banton
 ---

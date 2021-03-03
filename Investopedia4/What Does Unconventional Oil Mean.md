@@ -1,7 +1,7 @@
 ---
 alias: [Unconventional Oil]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [Unconventional Oil Definition, [[What Does Unconventional Oil Mean]]?]
+tags: [Unconventional Oil Definition, What Does Unconventional Oil Mean?]
 source: https://www.investopedia.com/terms/u/uncoventional-oil.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Savings Account]
 created: 2021-03-02T23:29:56 (UTC +11:00)
-tags: [Savings Account Definition, [[What Is a Savings Account]]?]
+tags: [Savings Account Definition, What Is a Savings Account?]
 source: https://www.investopedia.com/terms/s/savingsaccount.asp
 author: Julia Kagan
 ---

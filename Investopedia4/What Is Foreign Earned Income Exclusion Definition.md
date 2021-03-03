@@ -1,7 +1,7 @@
 ---
 alias: [What Is Foreign [[Earned Income]] Exclusion?]
 created: 2021-03-02T20:01:18 (UTC +11:00)
-tags: [What Is Foreign [[Earned Income]] Exclusion?, What Is Foreign Earned Income Exclusion Definition]
+tags: [What Is Foreign Earned Income Exclusion?, What Is Foreign Earned Income Exclusion Definition]
 source: https://www.investopedia.com/terms/f/foreign-earned-income-exclusion.asp
 author: Julia Kagan
 ---

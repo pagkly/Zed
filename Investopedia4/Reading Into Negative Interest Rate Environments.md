@@ -1,7 +1,7 @@
 ---
 alias: [Negative Interest Rate Environment]
 created: 2021-03-02T21:36:54 (UTC +11:00)
-tags: [Negative Interest Rate Environment Definition, Reading Into [[Negative Interest Rate]] Environments]
+tags: [Negative Interest Rate Environment Definition, Reading Into Negative Interest Rate Environments]
 source: https://www.investopedia.com/terms/n/negative-interest-rate-environment.asp
 author: Adam Hayes
 ---

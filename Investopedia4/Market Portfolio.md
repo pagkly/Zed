@@ -1,7 +1,7 @@
 ---
 alias: [Market Portfolio]
 created: 2021-03-02T21:59:05 (UTC +11:00)
-tags: [Market [[Portfolio]], Market Portfolio]
+tags: [Market Portfolio, Market Portfolio]
 source: https://www.investopedia.com/terms/m/market-[[Portfolio|portfolio]].asp
 author: James Chen
 ---

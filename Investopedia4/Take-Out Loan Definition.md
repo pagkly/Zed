@@ -1,7 +1,7 @@
 ---
 alias: [Take-Out Loan]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Take-Out [[Loan]] Definition, Take-Out Loan Definition]
+tags: [Take-Out Loan Definition, Take-Out Loan Definition]
 source: https://www.investopedia.com/terms/t/take-out-[[Loan|loan]].asp
 author: Julia Kagan
 ---

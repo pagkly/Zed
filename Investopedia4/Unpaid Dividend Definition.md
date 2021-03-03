@@ -1,7 +1,7 @@
 ---
 alias: [Unpaid Dividend]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unpaid [[Dividend Definition]], Unpaid Dividend Definition]
+tags: [Unpaid Dividend Definition, Unpaid Dividend Definition]
 source: https://www.investopedia.com/terms/u/unpaid_dividend.asp
 author: Jason Fernando
 ---

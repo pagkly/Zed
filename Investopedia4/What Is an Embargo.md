@@ -1,7 +1,7 @@
 ---
 alias: [Embargo]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Embargo Definition, [[What Is an Embargo]]?]
+tags: [Embargo Definition, What Is an Embargo?]
 source: https://www.investopedia.com/terms/e/embargo.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Housing Expense Ratio]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [Housing Expense Ratio Definition, [[What Is Housing Expense Ratio]]?]
+tags: [Housing Expense Ratio Definition, What Is Housing Expense Ratio?]
 source: https://www.investopedia.com/terms/h/housing_expense_ratio.asp
 author: Maya Dollarhide
 ---

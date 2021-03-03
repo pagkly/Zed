@@ -1,7 +1,7 @@
 ---
 alias: [Unregistered Shares]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unregistered [[Shares]] Definition, Understanding Unregistered Shares]
+tags: [Unregistered Shares Definition, Understanding Unregistered Shares]
 source: https://www.investopedia.com/terms/u/unregistered-[[Shares|shares]].asp
 author: James Chen
 ---

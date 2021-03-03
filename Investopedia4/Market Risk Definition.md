@@ -1,7 +1,7 @@
 ---
 alias: [Market Risk]
 created: 2021-03-02T21:59:05 (UTC +11:00)
-tags: [Market [[Risk]], Market Risk Definition]
+tags: [Market Risk, Market Risk Definition]
 source: https://www.investopedia.com/terms/m/marketrisk.asp
 author: James Chen
 ---

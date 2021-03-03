@@ -1,7 +1,7 @@
 ---
 alias: [Geographical Diversification]
 created: 2021-03-02T20:16:40 (UTC +11:00)
-tags: [Geographical [[Diversification]] Definition, Geographical Diversification]
+tags: [Geographical Diversification Definition, Geographical Diversification]
 source: https://www.investopedia.com/terms/g/geographical-[[Diversification|diversification]].asp
 author: James Chen
 ---

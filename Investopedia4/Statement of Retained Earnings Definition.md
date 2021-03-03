@@ -1,7 +1,7 @@
 ---
 alias: [Statement of Retained Earnings]
 created: 2021-03-02T23:43:20 (UTC +11:00)
-tags: [Statement of [[Retained Earnings]] Definition, Statement of Retained Earnings Definition]
+tags: [Statement of Retained Earnings Definition, Statement of Retained Earnings Definition]
 source: https://www.investopedia.com/terms/s/statement-of-retained-earnings.asp
 author: Alicia Tuovila
 ---

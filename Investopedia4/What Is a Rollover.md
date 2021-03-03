@@ -1,7 +1,7 @@
 ---
 alias: [Rollover]
 created: 2021-03-02T23:27:50 (UTC +11:00)
-tags: [Rollover Definition, [[What Is a Rollover]]?]
+tags: [Rollover Definition, What Is a Rollover?]
 source: https://www.investopedia.com/terms/r/rollover.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Property Tax]
 created: 2021-03-02T22:56:50 (UTC +11:00)
-tags: [Property Tax Definition, [[What is a Property Tax]]?]
+tags: [Property Tax Definition, What is a Property Tax?]
 source: https://www.investopedia.com/terms/p/propertytax.asp
 author: Julia Kagan
 ---

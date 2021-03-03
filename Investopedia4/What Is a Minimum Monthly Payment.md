@@ -1,7 +1,7 @@
 ---
 alias: [Minimum Monthly Payment]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Minimum Monthly Payment Definition, [[What Is a Minimum Monthly Payment]]?]
+tags: [Minimum Monthly Payment Definition, What Is a Minimum Monthly Payment?]
 source: https://www.investopedia.com/terms/m/minimum-monthly-payment.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Spot Trade]
 created: 2021-03-02T23:41:12 (UTC +11:00)
-tags: [Spot Trade Definition, [[What Is a Spot Trade]]?]
+tags: [Spot Trade Definition, What Is a Spot Trade?]
 source: https://www.investopedia.com/terms/s/spottrade.asp
 author: James Chen
 ---

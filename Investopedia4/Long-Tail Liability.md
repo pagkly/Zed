@@ -1,7 +1,7 @@
 ---
 alias: [Long-Tail Liability]
 created: 2021-03-02T21:27:59 (UTC +11:00)
-tags: [Long-Tail [[Liability]] Definition, Long-Tail Liability]
+tags: [Long-Tail Liability Definition, Long-Tail Liability]
 source: https://www.investopedia.com/terms/l/longtail-[[Liability|liability]].asp
 author: Julia Kagan
 ---

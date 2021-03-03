@@ -1,7 +1,7 @@
 ---
 alias: [Taxpayer Identification Number, TIN]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [Taxpayer Identification Number (TIN) Definition, [[What Is a Taxpayer Identification Number (TIN)]]?]
+tags: [Taxpayer Identification Number (TIN) Definition, What Is a Taxpayer Identification Number (TIN)?]
 source: https://www.investopedia.com/terms/t/[[Taxpayer|taxpayer]]-identification-number.asp
 author: Julia Kagan
 ---

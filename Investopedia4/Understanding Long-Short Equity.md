@@ -1,7 +1,7 @@
 ---
 alias: [Long-Short Equity]
 created: 2021-03-02T21:25:56 (UTC +11:00)
-tags: [Long-Short [[Equity]] Definition, Understanding Long-Short Equity]
+tags: [Long-Short Equity Definition, Understanding Long-Short Equity]
 source: https://www.investopedia.com/terms/l/long-shortequity.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Pure Play Defined]
 created: 2021-03-02T22:58:53 (UTC +11:00)
-tags: [Pure Play Defined, [[What Does Pure Play Mean]]?]
+tags: [Pure Play Defined, What Does Pure Play Mean?]
 source: https://www.investopedia.com/terms/p/pureplay.asp
 author: Jason Fernando
 ---

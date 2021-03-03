@@ -1,7 +1,7 @@
 ---
 alias: [Klinger Oscillator]
 created: 2021-03-02T21:07:18 (UTC +11:00)
-tags: [Klinger [[Oscillator Definition]], Klinger Oscillator Definition]
+tags: [Klinger Oscillator Definition, Klinger Oscillator Definition]
 source: https://www.investopedia.com/terms/k/klingeroscillator.asp
 author: Cory Mitchell
 ---

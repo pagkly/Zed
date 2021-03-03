@@ -1,7 +1,7 @@
 ---
 alias: [Jurisdiction Risk]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Jurisdiction [[Risk]] Definition, Understanding Jurisdiction Risk]
+tags: [Jurisdiction Risk Definition, Understanding Jurisdiction Risk]
 source: https://www.investopedia.com/terms/j/jurisdiction-[[Risk|risk]].asp
 author: Brian Beers
 ---

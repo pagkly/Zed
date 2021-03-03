@@ -1,7 +1,7 @@
 ---
 alias: [Venture Capital-Backed IPO]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Venture Capital-Backed IPO Definition, [[What Defines a Venture Capital-Backed IPO]]?]
+tags: [Venture Capital-Backed IPO Definition, What Defines a Venture Capital-Backed IPO?]
 source: https://www.investopedia.com/terms/v/venture-capital-backed-ipo.asp
 author: James Chen
 ---

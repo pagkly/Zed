@@ -1,7 +1,7 @@
 ---
 alias: [Marginal Tax Rate]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Marginal Tax Rate Definition, [[What Is the Marginal Tax Rate]]?]
+tags: [Marginal Tax Rate Definition, What Is the Marginal Tax Rate?]
 source: https://www.investopedia.com/terms/m/marginaltaxrate.asp
 author: Alicia Tuovila
 ---

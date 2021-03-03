@@ -1,7 +1,7 @@
 ---
 alias: [Living Wage]
 created: 2021-03-02T21:23:49 (UTC +11:00)
-tags: [Living Wage Definition, [[What Is a Living Wage]]?]
+tags: [Living Wage Definition, What Is a Living Wage?]
 source: https://www.investopedia.com/terms/l/living_wage.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Voluntary Reserve]
 created: 2021-03-03T00:44:31 (UTC +11:00)
-tags: [Voluntary Reserve Definition, [[What Is a Voluntary Reserve]]?]
+tags: [Voluntary Reserve Definition, What Is a Voluntary Reserve?]
 source: https://www.investopedia.com/terms/v/voluntary-reserve.asp
 author: Lucas Downey
 ---

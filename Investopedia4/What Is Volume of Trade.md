@@ -1,7 +1,7 @@
 ---
 alias: [Volume of Trade]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Volume of Trade Definition, [[What Is Volume of Trade]]?]
+tags: [Volume of Trade Definition, What Is Volume of Trade?]
 source: https://www.investopedia.com/terms/v/volumeoftrade.asp
 author: Alexandra Twin
 ---

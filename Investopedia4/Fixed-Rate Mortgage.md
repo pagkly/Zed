@@ -1,7 +1,7 @@
 ---
 alias: [Fixed-Rate Mortgage]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Fixed-Rate [[Mortgage Definition]], Fixed-Rate Mortgage]
+tags: [Fixed-Rate Mortgage Definition, Fixed-Rate Mortgage]
 source: https://www.investopedia.com/terms/f/fixed-rate_mortgage.asp
 author: Julia Kagan
 ---

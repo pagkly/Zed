@@ -1,7 +1,7 @@
 ---
 alias: [Parsonage Allowance]
 created: 2021-03-02T22:38:07 (UTC +11:00)
-tags: [Parsonage Allowance Definition, [[What Is a Parsonage Allowance]]?]
+tags: [Parsonage Allowance Definition, What Is a Parsonage Allowance?]
 source: https://www.investopedia.com/terms/p/parsonageallowance.asp
 author: Julia Kagan
 ---

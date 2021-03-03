@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Reserve Currency?]
 created: 2021-03-02T23:16:49 (UTC +11:00)
-tags: [What Is a Reserve Currency?, [[What Is a Reserve Currency]]?]
+tags: [What Is a Reserve Currency?, What Is a Reserve Currency?]
 source: https://www.investopedia.com/terms/r/reservecurrency.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Luxury Tax]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Luxury Tax Definition, [[What Is a Luxury Tax]]?]
+tags: [Luxury Tax Definition, What Is a Luxury Tax?]
 source: https://www.investopedia.com/terms/l/luxury_tax.asp
 author: Julia Kagan
 ---

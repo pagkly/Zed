@@ -1,7 +1,7 @@
 ---
 alias: [Debt Restructuring]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Restructuring Definition, How [[Debt]] Restructuring Can Help Both Borrowers and Lenders]
+tags: [Debt Restructuring Definition, How Debt Restructuring Can Help Both Borrowers and Lenders]
 source: https://www.investopedia.com/terms/d/debtrestructuring.asp
 author: Carol M. Kopp
 ---

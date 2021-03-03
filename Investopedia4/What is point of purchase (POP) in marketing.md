@@ -1,7 +1,7 @@
 ---
 alias: [Point of Purchase, POP]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Point of Purchase (POP) Definition, [[What is point of purchase (POP) in marketing]]?]
+tags: [Point of Purchase (POP) Definition, What is point of purchase (POP) in marketing?]
 source: https://www.investopedia.com/terms/p/pointofpurchase1.asp
 author: Evan Tarver
 ---

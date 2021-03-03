@@ -1,7 +1,7 @@
 ---
 alias: [Negative Gap]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Negative [[Gap Definition]], Negative Gap]
+tags: [Negative Gap Definition, Negative Gap]
 source: https://www.investopedia.com/terms/n/negative-gap.asp
 author: Julia Kagan
 ---

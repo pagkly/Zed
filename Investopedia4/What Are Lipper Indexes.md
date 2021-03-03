@@ -1,7 +1,7 @@
 ---
 alias: [What Are Lipper Indexes?]
 created: 2021-03-02T21:21:46 (UTC +11:00)
-tags: [What Are Lipper Indexes?, [[What Are Lipper Indexes]]?]
+tags: [What Are Lipper Indexes?, What Are Lipper Indexes?]
 source: https://www.investopedia.com/terms/l/lipper_indexes.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Offer In Compromise]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offer In Compromise, [[Offer]] In Compromise]
+tags: [Offer In Compromise, Offer In Compromise]
 source: https://www.investopedia.com/terms/o/[[Offer|offer]]-in-compromise.asp
 author: Julia Kagan
 ---

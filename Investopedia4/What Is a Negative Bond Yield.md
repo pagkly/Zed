@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Negative Bond [[Yield]]?]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [What Is a Negative Bond [[Yield]]?, [[What Is a Negative Bond Yield]]?]
+tags: [What Is a Negative Bond Yield?, [[What Is a Negative Bond Yield]]?]
 source: https://www.investopedia.com/terms/n/negative-bond-[[Yield|yield]].asp
 author: James Chen
 ---

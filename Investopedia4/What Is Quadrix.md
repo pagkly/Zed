@@ -1,7 +1,7 @@
 ---
 alias: [Quadrix]
 created: 2021-03-02T22:58:53 (UTC +11:00)
-tags: [Quadrix Definition, [[What Is Quadrix]]?]
+tags: [Quadrix Definition, What Is Quadrix?]
 source: https://www.investopedia.com/terms/q/quadrix.asp
 author: [[Will]] Kenton
 ---

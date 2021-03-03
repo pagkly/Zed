@@ -1,7 +1,7 @@
 ---
 alias: [Upstream Guarantee]
 created: 2021-03-03T00:30:11 (UTC +11:00)
-tags: [Upstream Guarantee, [[Upstream]] Guarantee]
+tags: [Upstream Guarantee, Upstream Guarantee]
 source: https://www.investopedia.com/terms/u/[[Upstream|upstream]]-guarantee.asp
 author: Adam Hayes
 ---

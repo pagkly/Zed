@@ -1,7 +1,7 @@
 ---
 alias: [Harvard Business School]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Harvard Business School Definition, [[What Does Harvard Business School Mean]]?]
+tags: [Harvard Business School Definition, What Does Harvard Business School Mean?]
 source: https://www.investopedia.com/terms/h/harvard-business.asp
 author: Jason Fernando
 ---

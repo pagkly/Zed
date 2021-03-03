@@ -1,7 +1,7 @@
 ---
 alias: [Lifetime Cost]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Lifetime Cost Definition, [[What is a Lifetime Cost]]?]
+tags: [Lifetime Cost Definition, What is a Lifetime Cost?]
 source: https://www.investopedia.com/terms/l/lifetime_cost.asp
 author: Maya E. Dollarhide
 ---

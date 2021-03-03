@@ -1,7 +1,7 @@
 ---
 alias: [Underwriter Syndicate]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwriter [[Syndicate Definition]], Underwriter Syndicate]
+tags: [Underwriter Syndicate Definition, Underwriter Syndicate]
 source: https://www.investopedia.com/terms/u/underwriter-syndicate.asp
 author: James Chen
 ---

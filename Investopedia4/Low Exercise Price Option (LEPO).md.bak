@@ -1,0 +1,53 @@
+---
+alias: [Low [[Exercise Price]] Option, LEPO]
+created: 2021-03-02T21:30:09 (UTC +11:00)
+tags: [Low [[Exercise Price]] Option (LEPO), Low Exercise Price Option (LEPO)]
+source: https://www.investopedia.com/terms/l/lepo.asp
+author: Gordon Scott
+---
+
+# [[Low Exercise Price Option (LEPO)]]
+
+> ## Excerpt
+> A [[Low Exercise Price Option (LEPO)|low exercise price option (LEPO)]] is a European-style call option with an [[Exercise Price|exercise price]] of one cent that mimics a [[Futures|futures]] contract.
+
+---
+
+[[Low Exercise Price Option (LEPO)]]
+## What is Low [[Exercise Price]] Option?
+
+A [[Low Exercise Price Option (LEPO)|low exercise price option (LEPO)]] is a European-style call option with an [[Exercise Price|exercise price]] of one cent. Both buyer and seller operate on margin. Because it is almost a certainty that the holder [[Will|will]] exercise the option at maturity, it is somewhat similar to a [[Futures|futures]] contract.
+
+### Key Takeaways
+
+-   LEPOs function similar to [[Futures|futures]] contracts.
+-   These function as deep-in-the-money options similar to the [[Stock|stock]] itself.
+-   The use of LEPO options require ongoing margin payments.
+-   LEPO options are not available on any U.S. exchanges.
+
+## Understanding [[Low Exercise Price Option (LEPO)]]
+
+Low [[Exercise Price|exercise price]] options (LEPO) originated in Switzerland and quickly spread to Finland for the avoidance of paying the required [[stamp duties]](https://www.investopedia.com/terms/s/stampduty.asp) that were charged on [[Stock|stock]] trading. Since the [[strike price]](https://www.investopedia.com/terms/s/strikeprice.asp) is so close to zero, the investor purchasing the LEPO gains most of the features of owning the share directly with the major exceptions of dividends and voting rights.
+
+The [[Australian Stock Exchange (ASX)]](https://www.investopedia.com/terms/a/asx.asp) [[Listed|listed]] LEPO options in 1995 and as of 2018 offers them on 100 ASX-listed companies.
+
+## Differences with Regular Options
+
+Low [[Exercise Price|exercise price]] options differ from regular or standard options in several key ways.
+
+-   LEPOs are only available as call options.
+-   Only available with [[European style]](https://www.investopedia.com/terms/e/europeanoption.asp) expirations.
+-   They are so deep [[in-the-money]](https://www.investopedia.com/terms/i/inthemoney.asp) that they trade similarly to the [[Underlying|underlying]] [[Stock|stock]] itself.
+-   Buyers purchase them on margin so they do not pay the full amount of the [[Premium|premium]] upfront.
+-   Both buyers and sellers [[Will|will]] have ongoing margin payments.
+-   Holders do not receive dividends or have voting rights until after exercise.
+
+Conceptually, they also act as forward contracts or [[Futures|futures]]. Standard options give the holder the right but not the obligation to purchase the [[Underlying|underlying]] [[Security|security]] at or before expiration. However, since the strike price is so low, the odds that the option [[Will|will]] expire in the money, and therefore automatically exercise, at the expiration date are a near certainty. Essentially, a low [[Exercise Price|exercise price]] option is a futures contract with the obligation to take delivery.
+
+Of course, all options and [[Futures|futures]] may be sold to close out the position and avoid taking delivery of the [[Underlying|underlying]].
+
+## Using LEPOs
+
+Since LEPOs are essentially a [[deep in the money call option]](https://www.investopedia.com/terms/d/deepinthemoney.asp), they have a very high [[delta]](https://www.investopedia.com/terms/d/delta.asp) value and trade similarly to the [[Underlying|underlying]] [[Stock|stock]]. Because these options are of the European style, meaning they are only able to be exercised at expiration, their near-zero strike price almost guarantees that the holder [[Will|will]] take delivery of [[Shares|shares]] at that time. The advantage over owning the stock outright is the participation in the performance of the underlying without any financial or legal issues caused by the direct holding of the stock.
+
+Deep in the money options have very high premiums, or initial costs. However, the investor holds LEPOs on margin, resulting in a lower upfront cost. Again, the benefits must be weighed against the disadvantages of having no claim on dividends or the ability to vote the [[Shares|shares]].

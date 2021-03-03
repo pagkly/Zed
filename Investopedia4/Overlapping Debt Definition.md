@@ -1,7 +1,7 @@
 ---
 alias: [Overlapping Debt]
 created: 2021-03-02T22:33:43 (UTC +11:00)
-tags: [Overlapping [[Debt]] Definition, Overlapping Debt Definition]
+tags: [Overlapping Debt Definition, Overlapping Debt Definition]
 source: https://www.investopedia.com/terms/o/overlappingdebt.asp
 author: Investopedia Staff
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Subordinated Debt]
 created: 2021-03-02T23:47:46 (UTC +11:00)
-tags: [Subordinated [[Debt]], Subordinated Debt Definition]
+tags: [Subordinated Debt, Subordinated Debt Definition]
 source: https://www.investopedia.com/terms/s/subordinateddebt.asp
 author: James Chen
 ---

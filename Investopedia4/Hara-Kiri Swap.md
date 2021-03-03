@@ -1,7 +1,7 @@
 ---
 alias: [Hara-Kiri Swap]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Hara-Kiri [[Swap]] Definition, Hara-Kiri Swap]
+tags: [Hara-Kiri Swap Definition, Hara-Kiri Swap]
 source: https://www.investopedia.com/terms/h/hara-kiri-[[Swap|swap]].asp
 author: Alice Zhang
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Leasehold Improvement Defintion]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Leasehold Improvement Defintion, [[What Is a Leasehold Improvement]]?]
+tags: [Leasehold Improvement Defintion, What Is a Leasehold Improvement?]
 source: https://www.investopedia.com/terms/l/leaseholdimprovement.asp
 author: James Chen
 ---

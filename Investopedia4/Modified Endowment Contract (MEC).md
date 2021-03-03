@@ -1,7 +1,7 @@
 ---
 alias: [Modified [[Endowment]] Contract, MEC]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Modified [[Endowment]] Contract (MEC) Definition, Modified Endowment Contract (MEC)]
+tags: [Modified Endowment Contract (MEC) Definition, Modified Endowment Contract (MEC)]
 source: https://www.investopedia.com/terms/m/modified-[[Endowment|endowment]]-contract.asp
 author: Akhilesh Ganti
 ---

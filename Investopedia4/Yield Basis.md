@@ -1,7 +1,7 @@
 ---
 alias: [Yield Basis]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Basis Definition, [[Yield]] Basis]
+tags: [Yield Basis Definition, Yield Basis]
 source: https://www.investopedia.com/terms/[[Y|y]]/yield_basis.asp
 author: James Chen
 ---

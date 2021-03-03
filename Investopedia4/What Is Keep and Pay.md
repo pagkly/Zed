@@ -1,7 +1,7 @@
 ---
 alias: [Keep and Pay]
 created: 2021-03-02T21:05:08 (UTC +11:00)
-tags: [Keep and Pay Definition, [[What Is Keep and Pay]]?]
+tags: [Keep and Pay Definition, What Is Keep and Pay?]
 source: https://www.investopedia.com/terms/k/keep-and-pay.asp
 author: Julia Kagan
 ---

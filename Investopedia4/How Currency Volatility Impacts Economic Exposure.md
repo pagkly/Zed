@@ -1,7 +1,7 @@
 ---
 alias: [Economic Exposure]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic Exposure Definition, How Currency [[Volatility]] Impacts Economic Exposure]
+tags: [Economic Exposure Definition, How Currency Volatility Impacts Economic Exposure]
 source: https://www.investopedia.com/terms/e/economicexposure.asp
 author: Marshall Hargrave
 ---

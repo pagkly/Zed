@@ -1,7 +1,7 @@
 ---
 alias: [Loan Committee]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Committee Definition, [[Loan]] Committee]
+tags: [Loan Committee Definition, Loan Committee]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-committe.asp
 author: Julia Kagan
 ---

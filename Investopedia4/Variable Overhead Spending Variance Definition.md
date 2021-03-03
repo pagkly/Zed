@@ -1,7 +1,7 @@
 ---
 alias: [Variable Overhead Spending Variance]
 created: 2021-03-03T00:36:24 (UTC +11:00)
-tags: [Variable Overhead Spending Variance, [[Variable Overhead]] Spending Variance Definition]
+tags: [Variable Overhead Spending Variance, Variable Overhead Spending Variance Definition]
 source: https://www.investopedia.com/terms/v/variable-overhead-spending-variance.asp
 author: Adam Hayes
 ---

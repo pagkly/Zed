@@ -1,7 +1,7 @@
 ---
 alias: [Outstanding Check]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Outstanding Check Definition, [[What Is an Outstanding Check]]?]
+tags: [Outstanding Check Definition, What Is an Outstanding Check?]
 source: https://www.investopedia.com/terms/o/outstanding-check.asp
 author: Julia Kagan
 ---

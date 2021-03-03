@@ -1,7 +1,7 @@
 ---
 alias: [White Collar]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [White [[Collar Definition]], White Collar]
+tags: [White Collar Definition, White Collar]
 source: https://www.investopedia.com/terms/w/whitecollar.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Summa Cum Laude]
 created: 2021-03-02T23:47:47 (UTC +11:00)
-tags: [Summa [[Cum Laude]] Definition, Summa Cum Laude]
+tags: [Summa Cum Laude Definition, Summa Cum Laude]
 source: https://www.investopedia.com/terms/s/summa-cum-laude.asp
 author: Julia Kagan
 ---

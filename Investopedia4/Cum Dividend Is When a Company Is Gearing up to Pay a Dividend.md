@@ -1,7 +1,7 @@
 ---
 alias: [Cum Dividend]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Cum [[Dividend Definition]], Cum Dividend Is When a Company Is Gearing up to Pay a Dividend]
+tags: [Cum Dividend Definition, Cum Dividend Is When a Company Is Gearing up to Pay a Dividend]
 source: https://www.investopedia.com/terms/c/cumdividend.asp
 author: Alexandra Twin
 ---

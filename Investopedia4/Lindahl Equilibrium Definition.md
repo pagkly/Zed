@@ -1,7 +1,7 @@
 ---
 alias: [Lindahl Equilibrium]
 created: 2021-03-02T21:19:47 (UTC +11:00)
-tags: [Lindahl [[Equilibrium Definition]], Lindahl Equilibrium Definition]
+tags: [Lindahl Equilibrium Definition, Lindahl Equilibrium Definition]
 source: https://www.investopedia.com/terms/l/lindahl-equilibrium.asp
 author: Investopedia Staff
 ---

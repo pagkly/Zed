@@ -1,7 +1,7 @@
 ---
 alias: [Discretionary Expense]
 created: 2021-03-02T19:20:36 (UTC +11:00)
-tags: [Discretionary [[Expense Definition]], [[What Is a Discretionary Expense]]?]
+tags: [Discretionary Expense Definition, [[What Is a Discretionary Expense]]?]
 source: https://www.investopedia.com/terms/d/discretionary-expense.asp
 author: Daniel Liberto
 ---

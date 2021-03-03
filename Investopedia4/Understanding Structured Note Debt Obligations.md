@@ -1,7 +1,7 @@
 ---
 alias: [Structured Note]
 created: 2021-03-02T23:47:45 (UTC +11:00)
-tags: [Structured Note Definition, Understanding Structured Note [[Debt]] Obligations]
+tags: [Structured Note Definition, Understanding Structured Note Debt Obligations]
 source: https://www.investopedia.com/terms/s/structurednote.asp
 author: James Chen
 ---

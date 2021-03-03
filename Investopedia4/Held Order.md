@@ -1,7 +1,7 @@
 ---
 alias: [Held Order]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Held [[Order Definition]], Held Order]
+tags: [Held Order Definition, Held Order]
 source: https://www.investopedia.com/terms/h/held-order.asp
 author: James Chen
 ---

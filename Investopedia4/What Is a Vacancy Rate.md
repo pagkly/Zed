@@ -1,7 +1,7 @@
 ---
 alias: [Vacancy Rate Defintion]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [Vacancy Rate Defintion, [[What Is a Vacancy Rate]]?]
+tags: [Vacancy Rate Defintion, What Is a Vacancy Rate?]
 source: https://www.investopedia.com/terms/v/vacancy-rate.asp
 author: James Chen
 ---

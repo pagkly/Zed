@@ -1,7 +1,7 @@
 ---
 alias: [Organizational Behavior, OB]
 created: 2021-03-02T22:29:29 (UTC +11:00)
-tags: [Organizational Behavior (OB) Definition, [[What Is Organizational Behavior (OB)]]?]
+tags: [Organizational Behavior (OB) Definition, What Is Organizational Behavior (OB)?]
 source: https://www.investopedia.com/terms/o/organizational-behavior.asp
 author: Carol M. Kopp
 ---

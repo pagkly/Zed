@@ -1,7 +1,7 @@
 ---
 alias: [Cash Flow Statement]
 created: 2021-03-02T18:49:08 (UTC +11:00)
-tags: [Cash Flow Statement Definition, [[Cash Flow]] Statement]
+tags: [Cash Flow Statement Definition, Cash Flow Statement]
 source: https://www.investopedia.com/terms/c/cashflowstatement.asp
 author: Adam Hayes
 ---

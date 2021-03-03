@@ -1,7 +1,7 @@
 ---
 alias: [Upside/Downside Gap Three Methods Definition and Example]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Upside/Downside Gap Three Methods Definition and Example, [[Upside]]/Downside Gap Three Methods]
+tags: [Upside/Downside Gap Three Methods Definition and Example, Upside/Downside Gap Three Methods]
 source: https://www.investopedia.com/terms/u/upsidedownside-gap-three-methods.asp
 author: Tim Smith
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [ZZZZ Best]
 created: 2021-03-03T01:13:29 (UTC +11:00)
-tags: [ZZZZ Best Definition, [[What Ever Happened to ZZZZ Best]]?]
+tags: [ZZZZ Best Definition, What Ever Happened to ZZZZ Best?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zzzzbest.asp
 author: [[Will]] Kenton
 ---

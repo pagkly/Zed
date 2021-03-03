@@ -1,7 +1,7 @@
 ---
 alias: [Price to Free Cash Flow]
 created: 2021-03-02T22:49:52 (UTC +11:00)
-tags: [Price to Free [[Cash Flow]] Definition, Price to Free Cash Flow Definition]
+tags: [Price to Free Cash Flow Definition, Price to Free Cash Flow Definition]
 source: https://www.investopedia.com/terms/p/pricetofreecashflow.asp
 author: James Chen
 ---

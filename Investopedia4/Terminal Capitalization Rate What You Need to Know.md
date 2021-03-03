@@ -1,7 +1,7 @@
 ---
 alias: [Terminal Capitalization Rate]
 created: 2021-03-02T23:58:34 (UTC +11:00)
-tags: [Terminal [[Capitalization Rate Definition]], Terminal Capitalization Rate: What You Need to Know]
+tags: [Terminal Capitalization Rate Definition, Terminal Capitalization Rate: What You Need to Know]
 source: https://www.investopedia.com/terms/t/terminal-capitalization-rate.asp
 author: Adam Barone
 ---

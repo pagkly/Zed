@@ -1,7 +1,7 @@
 ---
 alias: [Preferred Stock]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Preferred [[Stock]] Definition, Preferred Stock]
+tags: [Preferred Stock Definition, Preferred Stock]
 source: https://www.investopedia.com/terms/p/preferredstock.asp
 author: Akhilesh Ganti
 ---

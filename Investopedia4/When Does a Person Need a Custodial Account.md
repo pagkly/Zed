@@ -1,7 +1,7 @@
 ---
 alias: [Custodial Account]
 created: 2021-03-02T19:07:18 (UTC +11:00)
-tags: [Custodial Account Definition, [[When Does a Person Need a Custodial Account]]?]
+tags: [Custodial Account Definition, When Does a Person Need a Custodial Account?]
 source: https://www.investopedia.com/terms/c/custodialaccount.asp
 author: Troy Segal
 ---

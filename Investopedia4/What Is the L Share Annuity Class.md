@@ -1,7 +1,7 @@
 ---
 alias: [L Share Annuity Class]
 created: 2021-03-02T21:09:19 (UTC +11:00)
-tags: [L Share Annuity Class Definition, [[What Is the L Share Annuity Class]]?]
+tags: [L Share Annuity Class Definition, What Is the L Share Annuity Class?]
 source: https://www.investopedia.com/terms/l/l-share-annuity-class.asp
 author: Julia Kagan
 ---

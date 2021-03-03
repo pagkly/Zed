@@ -1,7 +1,7 @@
 ---
 alias: [Delinquent Account Credit Card Defined]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Delinquent Account Credit Card Defined, [[What Does Delinquent Account Credit Card Mean]]?]
+tags: [Delinquent Account Credit Card Defined, What Does Delinquent Account Credit Card Mean?]
 source: https://www.investopedia.com/terms/d/delinquent-account-credit-card.asp
 author: Jason Fernando
 ---

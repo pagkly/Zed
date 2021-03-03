@@ -1,7 +1,7 @@
 ---
 alias: [Zero Cost Collar]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero Cost [[Collar Definition]], Zero Cost Collar Definition]
+tags: [Zero Cost Collar Definition, Zero Cost Collar Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/zerocostcollar.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Loan-to-Deposit Ratio, LDR]
 created: 2021-03-02T21:25:54 (UTC +11:00)
-tags: [Loan-to-Deposit Ratio (LDR) Definition, How the [[Loan]]-to-Deposit Ratio (LDR) Measures a Bank's Liquidity]
+tags: [Loan-to-Deposit Ratio (LDR) Definition, How the Loan-to-Deposit Ratio (LDR) Measures a Bank's Liquidity]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-to-deposit-ratio.asp
 author: Chris B. Murphy
 ---

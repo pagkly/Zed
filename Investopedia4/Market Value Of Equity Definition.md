@@ -1,7 +1,7 @@
 ---
 alias: [Market Value Of Equity]
 created: 2021-03-02T21:59:06 (UTC +11:00)
-tags: [Market Value Of [[Equity]] Definition, Market Value Of Equity Definition]
+tags: [Market Value Of Equity Definition, Market Value Of Equity Definition]
 source: https://www.investopedia.com/terms/m/market-value-of-[[Equity|equity]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Principal-Agent Problem]
 created: 2021-03-02T22:52:17 (UTC +11:00)
-tags: [Principal-Agent Problem Definition, [[Principal]]-Agent Problem]
+tags: [Principal-Agent Problem Definition, Principal-Agent Problem]
 source: https://www.investopedia.com/terms/p/[[Principal|principal]]-agent-problem.asp
 author: Investopedia Staff
 ---

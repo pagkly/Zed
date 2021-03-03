@@ -1,7 +1,7 @@
 ---
 alias: [Current Yield]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Current [[Yield]], Current Yield]
+tags: [Current Yield, Current Yield]
 source: https://www.investopedia.com/terms/c/currentyield.asp
 author: James Chen
 ---

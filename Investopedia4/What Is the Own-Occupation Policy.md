@@ -1,7 +1,7 @@
 ---
 alias: [Own-Occupation Policy Defined]
 created: 2021-03-02T22:36:05 (UTC +11:00)
-tags: [Own-Occupation Policy Defined, [[What Is the Own-Occupation Policy]]?]
+tags: [Own-Occupation Policy Defined, What Is the Own-Occupation Policy?]
 source: https://www.investopedia.com/terms/o/ownoccupation_policy.asp
 author: Julia Kagan
 ---

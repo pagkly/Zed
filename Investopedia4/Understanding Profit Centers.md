@@ -1,7 +1,7 @@
 ---
 alias: [Profit Center]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Profit Center Definition, [[Understanding Profit]] Centers]
+tags: [Profit Center Definition, Understanding Profit Centers]
 source: https://www.investopedia.com/terms/p/profitcentre.asp
 author: Troy Segal
 ---

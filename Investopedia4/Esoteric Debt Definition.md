@@ -1,7 +1,7 @@
 ---
 alias: [Esoteric Debt]
 created: 2021-03-02T19:42:14 (UTC +11:00)
-tags: [Esoteric [[Debt]], Esoteric Debt Definition]
+tags: [Esoteric Debt, Esoteric Debt Definition]
 source: https://www.investopedia.com/terms/e/esoteric-[[Debt|debt]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Zombie Debt]
 created: 2021-03-03T01:12:49 (UTC +11:00)
-tags: [Zombie [[Debt]] Definition, Zombie Debt]
+tags: [Zombie Debt Definition, Zombie Debt]
 source: https://www.investopedia.com/terms/[[Z|z]]/zombie-[[Debt|debt]].asp
 author: Adam Hayes
 ---

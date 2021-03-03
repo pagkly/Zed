@@ -1,7 +1,7 @@
 ---
 alias: [Private Placement]
 created: 2021-03-02T22:52:18 (UTC +11:00)
-tags: [Private Placement Definition, [[What Is a Private Placement of Stock]]?]
+tags: [Private Placement Definition, What Is a Private Placement of Stock?]
 source: https://www.investopedia.com/terms/p/privateplacement.asp
 author: Akhilesh Ganti
 ---

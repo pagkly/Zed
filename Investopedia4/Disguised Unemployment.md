@@ -1,7 +1,7 @@
 ---
 alias: [Disguised Unemployment]
 created: 2021-03-02T19:22:37 (UTC +11:00)
-tags: [Disguised [[Unemployment]] Definition, Disguised Unemployment]
+tags: [Disguised Unemployment Definition, Disguised Unemployment]
 source: https://www.investopedia.com/terms/d/disguised-[[Unemployment|unemployment]].asp
 author: Julia Kagan
 ---

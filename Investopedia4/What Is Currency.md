@@ -1,7 +1,7 @@
 ---
 alias: [Currency]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Currency Definition, [[What Is Currency]]?]
+tags: [Currency Definition, What Is Currency?]
 source: https://www.investopedia.com/terms/c/currency.asp
 author: Jake Frankenfield
 ---

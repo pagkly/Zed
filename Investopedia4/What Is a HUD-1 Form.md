@@ -1,7 +1,7 @@
 ---
 alias: [HUD-1 Form]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [HUD-1 Form Definition, [[What Is a HUD-1 Form]]?]
+tags: [HUD-1 Form Definition, What Is a HUD-1 Form?]
 source: https://www.investopedia.com/terms/h/hud-1.asp
 author: James Chen
 ---

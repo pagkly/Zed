@@ -1,7 +1,7 @@
 ---
 alias: [Lease Payments]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Lease Payments Definition, How [[Lease]] Payments Work]
+tags: [Lease Payments Definition, How Lease Payments Work]
 source: https://www.investopedia.com/terms/l/[[Lease|lease]]-payments.asp
 author: Adam Hayes
 ---

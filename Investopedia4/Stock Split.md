@@ -1,7 +1,7 @@
 ---
 alias: [Stock Split]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stock Split Definition, [[Stock]] Split]
+tags: [Stock Split Definition, Stock Split]
 source: https://www.investopedia.com/terms/s/stocksplit.asp
 author: James Chen
 ---

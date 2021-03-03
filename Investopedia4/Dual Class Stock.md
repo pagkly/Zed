@@ -1,7 +1,7 @@
 ---
 alias: [Dual Class Stock]
 created: 2021-03-02T19:26:48 (UTC +11:00)
-tags: [Dual Class [[Stock]] Definition, Dual Class Stock]
+tags: [Dual Class Stock Definition, Dual Class Stock]
 source: https://www.investopedia.com/terms/d/dualclassstock.asp
 author: James Chen
 ---

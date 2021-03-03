@@ -1,7 +1,7 @@
 ---
 alias: [Tier 1 Capital Ratio]
 created: 2021-03-03T00:00:39 (UTC +11:00)
-tags: [Tier 1 Capital Ratio Definition, [[Understanding Tier 1 Capital]] Ratio]
+tags: [Tier 1 Capital Ratio Definition, Understanding Tier 1 Capital Ratio]
 source: https://www.investopedia.com/terms/t/tier-1-capital-ratio.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Home [[Equity]] Loan]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Home [[Equity]] [[Loan]] Definition, [[Home Equity]] Loan]
+tags: [Home Equity [[Loan]] Definition, [[Home Equity]] Loan]
 source: https://www.investopedia.com/terms/h/homeequityloan.asp
 author:  Julia Kagan
 ---

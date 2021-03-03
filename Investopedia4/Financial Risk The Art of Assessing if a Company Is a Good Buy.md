@@ -1,7 +1,7 @@
 ---
 alias: [Financial Risk]
 created: 2021-03-02T19:56:47 (UTC +11:00)
-tags: [Financial [[Risk]] Definition, Financial Risk: The Art of Assessing if a Company Is a Good Buy]
+tags: [Financial Risk Definition, Financial Risk: The Art of Assessing if a Company Is a Good Buy]
 source: https://www.investopedia.com/terms/f/financialrisk.asp
 author: James Chen
 ---

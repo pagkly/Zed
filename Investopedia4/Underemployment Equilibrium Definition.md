@@ -1,7 +1,7 @@
 ---
 alias: [Underemployment Equilibrium]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [Underemployment [[Equilibrium Definition]], [[Underemployment]] Equilibrium Definition]
+tags: [Underemployment Equilibrium Definition, [[Underemployment]] Equilibrium Definition]
 source: https://www.investopedia.com/terms/u/[[Underemployment|underemployment]]-equilibrium.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Global Macro [[Hedge]] Fund]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [Global Macro [[Hedge Fund]] Definition, [[What Is a Global Macro Hedge Fund]]?]
+tags: [Global Macro Hedge Fund Definition, [[What Is a Global Macro Hedge Fund]]?]
 source: https://www.investopedia.com/terms/g/global-macro-[[Hedge|hedge]]-fund.asp
 author: [[Will]] Kenton
 ---

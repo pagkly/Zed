@@ -1,7 +1,7 @@
 ---
 alias: [Nonresident Alien]
 created: 2021-03-02T21:50:23 (UTC +11:00)
-tags: [Nonresident Alien Definition, [[Who Is a Nonresident Alien]]?]
+tags: [Nonresident Alien Definition, Who Is a Nonresident Alien?]
 source: https://www.investopedia.com/terms/n/nonresidentalien.asp
 author: Julia Kagan
 ---

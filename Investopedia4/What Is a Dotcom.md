@@ -1,7 +1,7 @@
 ---
 alias: [Dotcom]
 created: 2021-03-02T19:24:43 (UTC +11:00)
-tags: [Dotcom Definition, [[What Is a Dotcom]]?]
+tags: [Dotcom Definition, What Is a Dotcom?]
 source: https://www.investopedia.com/terms/d/dotcom.asp
 author:  Staff Author
 ---

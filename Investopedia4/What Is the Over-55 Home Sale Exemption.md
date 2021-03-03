@@ -1,7 +1,7 @@
 ---
 alias: [Over-55 Home Sale Exemption]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Over-55 Home Sale Exemption Definition, [[What Is the Over-55 Home Sale Exemption]]?]
+tags: [Over-55 Home Sale Exemption Definition, What Is the Over-55 Home Sale Exemption?]
 source: https://www.investopedia.com/terms/o/over-55-home-sale-exemption.asp
 author: James Chen
 ---

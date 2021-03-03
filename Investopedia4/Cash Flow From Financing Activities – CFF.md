@@ -1,7 +1,7 @@
 ---
 alias: [Cash Flow From Financing Activities – CFF]
 created: 2021-03-02T18:49:08 (UTC +11:00)
-tags: [Cash Flow From Financing Activities – CFF Definition, [[Cash Flow]] From Financing Activities – CFF]
+tags: [Cash Flow From Financing Activities – CFF Definition, Cash Flow From Financing Activities – CFF]
 source: https://www.investopedia.com/terms/c/cashflowfromfinancing.asp
 author: Chris B. Murphy
 ---

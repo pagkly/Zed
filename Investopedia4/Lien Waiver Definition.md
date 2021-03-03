@@ -1,7 +1,7 @@
 ---
 alias: [Lien Waiver]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Lien [[Waiver Definition]], [[Lien]] Waiver Definition]
+tags: [Lien Waiver Definition, [[Lien]] Waiver Definition]
 source: https://www.investopedia.com/terms/l/[[Lien|lien]]-waiver.asp
 author: James Chen
 ---

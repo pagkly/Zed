@@ -1,7 +1,7 @@
 ---
 alias: [Equity Capital Market, ECM]
 created: 2021-03-02T19:39:55 (UTC +11:00)
-tags: [Equity Capital Market (ECM) Definition, [[Equity]] Capital Market (ECM) Definition]
+tags: [Equity Capital Market (ECM) Definition, Equity Capital Market (ECM) Definition]
 source: https://www.investopedia.com/terms/e/equitycapitalmarket.asp
 author: James Chen
 ---

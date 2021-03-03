@@ -1,7 +1,7 @@
 ---
 alias: [Non-Covered Security]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Covered [[Security]], Non-Covered Security]
+tags: [Non-Covered Security, Non-Covered Security]
 source: https://www.investopedia.com/terms/n/non-covered-[[Security|security]].asp
 author: Julia Kagan
 ---

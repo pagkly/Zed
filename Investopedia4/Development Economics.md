@@ -1,7 +1,7 @@
 ---
 alias: [Development Economics]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Development [[Economics]] Definition, Development Economics]
+tags: [Development Economics Definition, Development Economics]
 source: https://www.investopedia.com/terms/d/development-[[Economics|economics]].asp
 author: Carol M. Kopp
 ---

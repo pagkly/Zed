@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Crisis]
 created: 2021-03-02T21:21:47 (UTC +11:00)
-tags: [Liquidity Crisis Definition, [[Liquidity]] Crisis Definition]
+tags: [Liquidity Crisis Definition, Liquidity Crisis Definition]
 source: https://www.investopedia.com/terms/l/[[Liquidity|liquidity]]-crisis.asp
 author: Jim Chappelow
 ---

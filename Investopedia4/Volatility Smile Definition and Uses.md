@@ -1,7 +1,7 @@
 ---
 alias: [Volatility Smile Definition and Uses]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Volatility Smile Definition and Uses, [[Volatility]] Smile Definition and Uses]
+tags: [Volatility Smile Definition and Uses, Volatility Smile Definition and Uses]
 source: https://www.investopedia.com/terms/v/volatilitysmile.asp
 author: Cory Mitchell
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Economic Value Added, EVA]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [Economic Value Added (EVA) Definition, [[Economic Value]] Added (EVA)]
+tags: [Economic Value Added (EVA) Definition, Economic Value Added (EVA)]
 source: https://www.investopedia.com/terms/e/eva.asp
 author: James Chen
 ---

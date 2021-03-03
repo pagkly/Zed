@@ -1,7 +1,7 @@
 ---
 alias: [New Drug Application, NDA]
 created: 2021-03-02T21:41:50 (UTC +11:00)
-tags: [New Drug Application (NDA) Definition, [[What Does New Drug Application (NDA) Mean]]?]
+tags: [New Drug Application (NDA) Definition, What Does New Drug Application (NDA) Mean?]
 source: https://www.investopedia.com/terms/n/new-drug-application-nda.asp
 author: Jason Fernando
 ---

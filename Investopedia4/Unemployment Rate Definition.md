@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Rate]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Rate Definition, [[Unemployment]] Rate Definition]
+tags: [Unemployment Rate Definition, Unemployment Rate Definition]
 source: https://www.investopedia.com/terms/u/unemploymentrate.asp
 author: Investopedia Staff
 ---

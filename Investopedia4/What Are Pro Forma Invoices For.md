@@ -1,7 +1,7 @@
 ---
 alias: [Pro Forma Invoice]
 created: 2021-03-02T22:52:19 (UTC +11:00)
-tags: [Pro Forma Invoice Definition, [[What Are Pro Forma Invoices For]]?]
+tags: [Pro Forma Invoice Definition, What Are Pro Forma Invoices For?]
 source: https://www.investopedia.com/terms/p/pro-forma-invoice.asp
 author: Troy Segal
 ---

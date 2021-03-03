@@ -1,7 +1,7 @@
 ---
 alias: [The Definition of a Falling Knife]
 created: 2021-03-02T19:50:26 (UTC +11:00)
-tags: [The Definition of a Falling Knife, [[What Is a Falling Knife]]?]
+tags: [The Definition of a Falling Knife, What Is a Falling Knife?]
 source: https://www.investopedia.com/terms/f/fallingknife.asp
 author: James Chen
 ---

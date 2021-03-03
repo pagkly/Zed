@@ -1,7 +1,7 @@
 ---
 alias: [Nasdaq Composite Index]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Nasdaq Composite Index, [[Nasdaq]] Composite Index]
+tags: [Nasdaq Composite Index, Nasdaq Composite Index]
 source: https://www.investopedia.com/terms/n/nasdaqcompositeindex.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Low/No Documentation Loan]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Low/No Documentation [[Loan]] Definition, Low/No Documentation Loan]
+tags: [Low/No Documentation Loan Definition, Low/No Documentation Loan]
 source: https://www.investopedia.com/terms/l/low_no_doc_loans.asp
 author: Julia Kagan
 ---

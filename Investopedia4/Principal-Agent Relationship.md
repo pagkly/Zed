@@ -1,7 +1,7 @@
 ---
 alias: [Principal-Agent Relationship]
 created: 2021-03-02T22:52:18 (UTC +11:00)
-tags: [Principal-Agent Relationship Definition, [[Principal]]-Agent Relationship]
+tags: [Principal-Agent Relationship Definition, Principal-Agent Relationship]
 source: https://www.investopedia.com/terms/p/[[Principal|principal]]-agent-relationship.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Stock Investing Essentials]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Stock [[Investing Essentials]], Stocks]
+tags: [Stock Investing Essentials, Stocks]
 source: https://www.investopedia.com/[[Stocks|stocks]]-4427785
 author: 
 ---

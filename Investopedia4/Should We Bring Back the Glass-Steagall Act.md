@@ -1,7 +1,7 @@
 ---
 alias: [Glass-Steagall Act]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [Glass-Steagall Act Definition, [[Should We Bring Back the Glass-Steagall Act]]?]
+tags: [Glass-Steagall Act Definition, Should We Bring Back the Glass-Steagall Act?]
 source: https://www.investopedia.com/terms/g/glass_steagall_act.asp
 author: [[Will]] Kenton
 ---

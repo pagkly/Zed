@@ -1,7 +1,7 @@
 ---
 alias: [Tier 2 Capital]
 created: 2021-03-03T00:00:39 (UTC +11:00)
-tags: [Tier 2 Capital Definition, [[What is Tier 2 Capital]]?]
+tags: [Tier 2 Capital Definition, What is Tier 2 Capital?]
 source: https://www.investopedia.com/terms/t/tier2capital.asp
 author: Julia Kagan
 ---

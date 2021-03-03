@@ -1,7 +1,7 @@
 ---
 alias: [Excess Capacity]
 created: 2021-03-02T19:46:19 (UTC +11:00)
-tags: [Excess Capacity Definition, [[Why Is Excess Capacity Rampant in Global Manufacturing Today]]?]
+tags: [Excess Capacity Definition, Why Is Excess Capacity Rampant in Global Manufacturing Today?]
 source: https://www.investopedia.com/terms/e/excesscapacity.asp
 author: Carla Tardi
 ---

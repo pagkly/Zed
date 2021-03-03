@@ -1,7 +1,7 @@
 ---
 alias: [Cyclical Stock]
 created: 2021-03-02T19:07:18 (UTC +11:00)
-tags: [Cyclical [[Stock]] Definition, Investing with Cyclical Stocks]
+tags: [Cyclical Stock Definition, Investing with Cyclical Stocks]
 source: https://www.investopedia.com/terms/c/cyclicalstock.asp
 author: Julie Young
 ---

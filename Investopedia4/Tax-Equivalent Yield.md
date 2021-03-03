@@ -1,7 +1,7 @@
 ---
 alias: [Tax-Equivalent Yield]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax-Equivalent [[Yield]] Definition, Tax-Equivalent Yield]
+tags: [Tax-Equivalent Yield Definition, Tax-Equivalent Yield]
 source: https://www.investopedia.com/terms/t/taxequivalentyield.asp
 author: James Chen
 ---

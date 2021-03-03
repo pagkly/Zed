@@ -1,7 +1,7 @@
 ---
 alias: [Zero-Investment Portfolio]
 created: 2021-03-03T01:12:48 (UTC +11:00)
-tags: [Zero-Investment [[Portfolio]] Definition, Zero-Investment Portfolio]
+tags: [Zero-Investment Portfolio Definition, Zero-Investment Portfolio]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-investment-[[Portfolio|portfolio]].asp
 author: James Chen
 ---

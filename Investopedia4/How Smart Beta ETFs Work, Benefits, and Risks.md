@@ -1,7 +1,7 @@
 ---
 alias: [Smart Beta ETF]
 created: 2021-03-02T23:39:01 (UTC +11:00)
-tags: [Smart Beta ETF Definition, How [[Smart Beta]] ETFs Work, Benefits, and Risks]
+tags: [Smart Beta ETF Definition, How Smart Beta ETFs Work, Benefits, and Risks]
 source: https://www.investopedia.com/terms/s/smart-beta-etf.asp
 author: James Chen
 ---

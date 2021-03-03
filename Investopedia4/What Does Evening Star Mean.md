@@ -1,7 +1,7 @@
 ---
 alias: [Evening Star]
 created: 2021-03-02T19:44:18 (UTC +11:00)
-tags: [Evening Star Definition, [[What Does Evening Star Mean]]?]
+tags: [Evening Star Definition, What Does Evening Star Mean?]
 source: https://www.investopedia.com/terms/e/eveningstar.asp
 author: Jason Fernando
 ---

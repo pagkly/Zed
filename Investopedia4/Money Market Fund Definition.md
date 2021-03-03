@@ -1,7 +1,7 @@
 ---
 alias: [Money Market Fund]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Money Market Fund Definition, [[Money Market]] Fund Definition]
+tags: [Money Market Fund Definition, Money Market Fund Definition]
 source: https://www.investopedia.com/terms/m/money-marketfund.asp
 author: Troy Segal
 ---

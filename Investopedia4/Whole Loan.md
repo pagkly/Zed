@@ -1,7 +1,7 @@
 ---
 alias: [Whole Loan]
 created: 2021-03-03T00:54:57 (UTC +11:00)
-tags: [Whole [[Loan]] Definition, Whole Loan]
+tags: [Whole Loan Definition, Whole Loan]
 source: https://www.investopedia.com/terms/w/wholeloan.asp
 author: Julia Kagan
 ---

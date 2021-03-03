@@ -1,7 +1,7 @@
 ---
 alias: [Zero Coupon Inflation Swap]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero Coupon Inflation [[Swap]] Definition, Zero Coupon Inflation Swap Definition]
+tags: [Zero Coupon Inflation Swap Definition, Zero Coupon Inflation Swap Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-coupon-inflation-[[Swap|swap]].asp
 author: Akhilesh Ganti
 ---

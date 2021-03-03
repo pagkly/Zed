@@ -1,7 +1,7 @@
 ---
 alias: [Out-of-Pocket Maximum]
 created: 2021-03-02T22:31:34 (UTC +11:00)
-tags: [Out-of-Pocket Maximum Definition, [[What Does Out-of-Pocket Maximum Mean]]?]
+tags: [Out-of-Pocket Maximum Definition, What Does Out-of-Pocket Maximum Mean?]
 source: https://www.investopedia.com/terms/o/outofpocket-limit.asp
 author: Julia Kagan
 ---

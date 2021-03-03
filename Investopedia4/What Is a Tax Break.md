@@ -1,7 +1,7 @@
 ---
 alias: [Tax Break]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tax Break Definition, [[What Is a Tax Break]]?]
+tags: [Tax Break Definition, What Is a Tax Break?]
 source: https://www.investopedia.com/terms/t/tax-break.asp
 author: Julia Kagan
 ---

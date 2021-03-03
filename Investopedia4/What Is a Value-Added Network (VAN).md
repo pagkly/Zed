@@ -1,7 +1,7 @@
 ---
 alias: [Value-Added Network, VAN]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [Value-Added Network (VAN) Definition, [[What Is a Value-Added Network (VAN)]]?]
+tags: [Value-Added Network (VAN) Definition, What Is a Value-Added Network (VAN)?]
 source: https://www.investopedia.com/terms/v/value-added-network.asp
 author: Jake Frankenfield
 ---

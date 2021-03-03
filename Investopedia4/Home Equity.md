@@ -1,7 +1,7 @@
 ---
 alias: [Home Equity]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Home [[Equity]] Definition, Home Equity]
+tags: [Home Equity Definition, Home Equity]
 source: https://www.investopedia.com/terms/h/home_equity.asp
 author: James Chen
 ---

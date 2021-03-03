@@ -1,7 +1,7 @@
 ---
 alias: [Debt-to-Income (DTI) Ratio]
 created: 2021-03-02T19:11:28 (UTC +11:00)
-tags: [Debt-to-Income (DTI) Ratio Definition, [[Debt]]-to-Income (DTI) Ratio Definition]
+tags: [Debt-to-Income (DTI) Ratio Definition, Debt-to-Income (DTI) Ratio Definition]
 source: https://www.investopedia.com/terms/d/dti.asp
 author: Chris B. Murphy
 ---

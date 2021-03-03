@@ -1,7 +1,7 @@
 ---
 alias: [Nomination Committee]
 created: 2021-03-02T21:43:52 (UTC +11:00)
-tags: [Nomination Committee Definition, [[What Is a Nomination Committee]]?]
+tags: [Nomination Committee Definition, What Is a Nomination Committee?]
 source: https://www.investopedia.com/terms/n/nominationcommittee.asp
 author:  Investopedia Staff
 ---

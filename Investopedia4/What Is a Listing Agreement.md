@@ -1,7 +1,7 @@
 ---
 alias: [Listing Agreement]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Listing Agreement Definition, [[What Is a Listing Agreement]]?]
+tags: [Listing Agreement Definition, What Is a Listing Agreement?]
 source: https://www.investopedia.com/terms/l/listing-agreement.asp
 author: Jean Folger
 ---

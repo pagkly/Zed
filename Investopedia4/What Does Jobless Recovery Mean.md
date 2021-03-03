@@ -1,7 +1,7 @@
 ---
 alias: [Jobless Recovery]
 created: 2021-03-02T20:58:32 (UTC +11:00)
-tags: [Jobless Recovery Definition, [[What Does Jobless Recovery Mean]]?]
+tags: [Jobless Recovery Definition, What Does Jobless Recovery Mean?]
 source: https://www.investopedia.com/terms/j/jobless-recovery.asp
 author: Jason Fernando
 ---

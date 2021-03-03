@@ -1,7 +1,7 @@
 ---
 alias: [Traditional IRA]
 created: 2021-03-03T00:04:44 (UTC +11:00)
-tags: [Traditional IRA Definition, [[What Is a Traditional IRA]]?]
+tags: [Traditional IRA Definition, What Is a Traditional IRA?]
 source: https://www.investopedia.com/terms/t/traditionalira.asp
 author: Adam Hayes
 ---

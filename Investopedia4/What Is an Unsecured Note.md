@@ -1,7 +1,7 @@
 ---
 alias: [Unsecured Note]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unsecured Note Definition, [[What Is an Unsecured Note]]?]
+tags: [Unsecured Note Definition, What Is an Unsecured Note?]
 source: https://www.investopedia.com/terms/u/[[Unsecured|unsecured]]-note.asp
 author: James Chen
 ---

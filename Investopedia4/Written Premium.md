@@ -1,7 +1,7 @@
 ---
 alias: [Written Premium]
 created: 2021-03-03T01:06:03 (UTC +11:00)
-tags: [Written [[Premium]] Definition, Written Premium]
+tags: [Written Premium Definition, Written Premium]
 source: https://www.investopedia.com/terms/w/written-[[Premium|premium]].asp
 author: Daniel Liberto
 ---

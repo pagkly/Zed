@@ -1,7 +1,7 @@
 ---
 alias: [Mobile Commerce]
 created: 2021-03-02T22:05:24 (UTC +11:00)
-tags: [Mobile [[Commerce]] Definition, On the Move: Mobile Commerce]
+tags: [Mobile Commerce Definition, On the Move: Mobile Commerce]
 source: https://www.investopedia.com/terms/m/mobile-[[Commerce|commerce]].asp
 author: Andrew Bloomenthal
 ---

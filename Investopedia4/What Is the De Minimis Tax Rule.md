@@ -1,7 +1,7 @@
 ---
 alias: [De Minimis Tax Rule]
 created: 2021-03-02T19:07:20 (UTC +11:00)
-tags: [De Minimis Tax Rule Definition, [[What Is the De Minimis Tax Rule]]?]
+tags: [De Minimis Tax Rule Definition, What Is the De Minimis Tax Rule?]
 source: https://www.investopedia.com/terms/d/deminimistaxrule.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Receivables Turnover Ratio]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Receivables [[Turnover Ratio]] Definition, Why the Receivables Turnover Ratio Matters]
+tags: [Receivables Turnover Ratio Definition, Why the Receivables Turnover Ratio Matters]
 source: https://www.investopedia.com/terms/r/receivableturnoverratio.asp
 author: Chris B Murphy
 ---

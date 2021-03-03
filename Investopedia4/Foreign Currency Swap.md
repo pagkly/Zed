@@ -1,7 +1,7 @@
 ---
 alias: [Foreign Currency Swap]
 created: 2021-03-02T20:01:18 (UTC +11:00)
-tags: [Foreign Currency [[Swap]] Definition, Foreign Currency Swap]
+tags: [Foreign Currency Swap Definition, Foreign Currency Swap]
 source: https://www.investopedia.com/terms/f/foreign-currency-swaps.asp
 author: James Chen
 ---

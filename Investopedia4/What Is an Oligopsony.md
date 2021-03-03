@@ -1,7 +1,7 @@
 ---
 alias: [Oligopsony]
 created: 2021-03-02T22:17:59 (UTC +11:00)
-tags: [Oligopsony Definition, [[What Is an Oligopsony]]?]
+tags: [Oligopsony Definition, What Is an Oligopsony?]
 source: https://www.investopedia.com/terms/o/oligopsony.asp
 author: [[Will]] Kenton
 ---

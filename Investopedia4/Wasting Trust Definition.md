@@ -1,7 +1,7 @@
 ---
 alias: [Wasting Trust]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Wasting [[Trust Definition]], Wasting Trust Definition]
+tags: [Wasting Trust Definition, Wasting Trust Definition]
 source: https://www.investopedia.com/terms/w/wasting-trust.asp
 author: Lucas Downey
 ---

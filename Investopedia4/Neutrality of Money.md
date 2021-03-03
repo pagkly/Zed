@@ -1,7 +1,7 @@
 ---
 alias: [Neutrality of Money]
 created: 2021-03-02T21:41:50 (UTC +11:00)
-tags: [Neutrality of [[Money Definition]], Neutrality of Money]
+tags: [Neutrality of Money Definition, Neutrality of Money]
 source: https://www.investopedia.com/terms/n/neutrality_of_money.asp
 author: Daniel Liberto
 ---

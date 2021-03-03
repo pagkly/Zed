@@ -1,7 +1,7 @@
 ---
 alias: [Transfer Tax]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Transfer Tax Definition, [[What Is a Transfer Tax]]?]
+tags: [Transfer Tax Definition, What Is a Transfer Tax?]
 source: https://www.investopedia.com/terms/t/transfertax.asp
 author: Julia Kagan
 ---

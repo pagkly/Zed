@@ -1,7 +1,7 @@
 ---
 alias: [Probate Court]
 created: 2021-03-02T22:52:19 (UTC +11:00)
-tags: [Probate Court Definition, [[What is Probate Court]]?]
+tags: [Probate Court Definition, What is Probate Court?]
 source: https://www.investopedia.com/terms/p/[[Probate|probate]]-court.asp
 author: Julia Kagan
 ---

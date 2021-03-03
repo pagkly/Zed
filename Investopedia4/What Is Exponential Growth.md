@@ -1,7 +1,7 @@
 ---
 alias: [What Is Exponential Growth?]
 created: 2021-03-02T19:48:23 (UTC +11:00)
-tags: [What Is Exponential Growth?, [[What Is Exponential Growth]]?]
+tags: [What Is Exponential Growth?, What Is Exponential Growth?]
 source: https://www.investopedia.com/terms/e/exponential-growth.asp
 author: James Chen
 ---

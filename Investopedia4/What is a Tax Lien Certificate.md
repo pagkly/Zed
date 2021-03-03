@@ -1,7 +1,7 @@
 ---
 alias: [Tax [[Lien]] Certificate]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax [[Lien]] Certificate Definition, [[What is a Tax Lien Certificate]]?]
+tags: [Tax Lien Certificate Definition, [[What is a Tax Lien Certificate]]?]
 source: https://www.investopedia.com/terms/t/taxliencertificate.asp
 author: Julia Kagan
 ---

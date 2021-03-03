@@ -1,7 +1,7 @@
 ---
 alias: [What Are Footnotes to the Financial Statements?]
 created: 2021-03-02T20:01:17 (UTC +11:00)
-tags: [What Are Footnotes to the Financial Statements?, [[What Are Footnotes to the Financial Statements]]?]
+tags: [What Are Footnotes to the Financial Statements?, What Are Footnotes to the Financial Statements?]
 source: https://www.investopedia.com/terms/f/footnote.asp
 author: Alicia Tuovila
 ---

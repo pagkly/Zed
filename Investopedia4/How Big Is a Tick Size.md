@@ -1,7 +1,7 @@
 ---
 alias: [Tick Size]
 created: 2021-03-03T00:00:39 (UTC +11:00)
-tags: [Tick Size Definition, [[How Big Is a Tick Size]]?]
+tags: [Tick Size Definition, How Big Is a Tick Size?]
 source: https://www.investopedia.com/terms/t/tick-size.asp
 author: Troy Segal
 ---

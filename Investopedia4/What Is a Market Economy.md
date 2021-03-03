@@ -1,7 +1,7 @@
 ---
 alias: [Market Economy]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Market Economy Definition, [[What Is a Market Economy]]?]
+tags: [Market Economy Definition, What Is a Market Economy?]
 source: https://www.investopedia.com/terms/m/marketeconomy.asp
 author: Investopedia Staff
 ---

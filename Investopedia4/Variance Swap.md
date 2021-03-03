@@ -1,7 +1,7 @@
 ---
 alias: [Variance Swap]
 created: 2021-03-03T00:36:24 (UTC +11:00)
-tags: [Variance [[Swap]] Definition, Variance Swap]
+tags: [Variance Swap Definition, Variance Swap]
 source: https://www.investopedia.com/terms/v/varianceswap.asp
 author: James Chen
 ---

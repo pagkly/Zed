@@ -1,7 +1,7 @@
 ---
 alias: [Tax-to-GDP Ratio]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [Tax-to-GDP Ratio Definition, [[What Is the Tax-to-GDP Ratio]]?]
+tags: [Tax-to-GDP Ratio Definition, What Is the Tax-to-GDP Ratio?]
 source: https://www.investopedia.com/terms/t/tax-to-gdp-ratio.asp
 author: Julia Kagan
 ---

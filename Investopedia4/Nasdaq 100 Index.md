@@ -1,7 +1,7 @@
 ---
 alias: [Nasdaq 100 Index]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Nasdaq 100 Index, [[Nasdaq]] 100 Index]
+tags: [Nasdaq 100 Index, Nasdaq 100 Index]
 source: https://www.investopedia.com/terms/n/nasdaq100.asp
 author: James Chen
 ---

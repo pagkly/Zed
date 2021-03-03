@@ -1,7 +1,7 @@
 ---
 alias: [Mortgagee]
 created: 2021-03-02T22:11:43 (UTC +11:00)
-tags: [Mortgagee Definition, [[What Is a Mortgagee]]?]
+tags: [Mortgagee Definition, What Is a Mortgagee?]
 source: https://www.investopedia.com/terms/m/mortgagee.asp
 author: Julia Kagan
 ---

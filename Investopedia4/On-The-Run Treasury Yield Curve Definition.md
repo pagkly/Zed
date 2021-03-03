@@ -1,7 +1,7 @@
 ---
 alias: [On-The-Run [[Treasury Yield]] Curve]
 created: 2021-03-02T22:18:00 (UTC +11:00)
-tags: [On-The-Run [[Treasury Yield]] Curve Definition, On-The-Run Treasury [[Yield Curve]] Definition]
+tags: [On-The-Run Treasury Yield Curve Definition, On-The-Run Treasury [[Yield Curve]] Definition]
 source: https://www.investopedia.com/terms/o/on_the_run_curve.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Descriptive Statistics]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Descriptive [[Statistics Definition]], Descriptive Statistics]
+tags: [Descriptive Statistics Definition, Descriptive Statistics]
 source: https://www.investopedia.com/terms/d/descriptive_statistics.asp
 author: Adam Hayes
 ---

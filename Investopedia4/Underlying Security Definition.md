@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Security]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underlying [[Security]] Definition, [[Underlying]] Security Definition]
+tags: [Underlying Security Definition, [[Underlying]] Security Definition]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-[[Security|security]].asp
 author: Lucas Downey
 ---

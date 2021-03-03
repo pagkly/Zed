@@ -1,7 +1,7 @@
 ---
 alias: [Workers' Compensation Coverage A]
 created: 2021-03-03T01:01:21 (UTC +11:00)
-tags: [Workers' Compensation Coverage A Definition, [[Workers' Compensation]] Coverage A]
+tags: [Workers' Compensation Coverage A Definition, Workers' Compensation Coverage A]
 source: https://www.investopedia.com/terms/w/workers-compensation-coverage-a.asp
 author: Julia Kagan
 ---

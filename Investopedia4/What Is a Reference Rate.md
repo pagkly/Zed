@@ -1,7 +1,7 @@
 ---
 alias: [Reference Rate]
 created: 2021-03-02T23:12:20 (UTC +11:00)
-tags: [Reference Rate Definition, [[What Is a Reference Rate]]?]
+tags: [Reference Rate Definition, What Is a Reference Rate?]
 source: https://www.investopedia.com/terms/r/referencerate.asp
 author: James Chen
 ---

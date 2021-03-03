@@ -1,7 +1,7 @@
 ---
 alias: [Earnings Yield]
 created: 2021-03-02T19:31:14 (UTC +11:00)
-tags: [Earnings [[Yield]] Definition, Earnings Yield Definition and Example]
+tags: [Earnings Yield Definition, Earnings Yield Definition and Example]
 source: https://www.investopedia.com/terms/e/earningsyield.asp
 author: Cory Mitchell
 ---

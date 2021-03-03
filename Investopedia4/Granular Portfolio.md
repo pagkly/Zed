@@ -1,7 +1,7 @@
 ---
 alias: [Granular Portfolio]
 created: 2021-03-02T20:25:17 (UTC +11:00)
-tags: [Granular [[Portfolio]] Definition, Granular Portfolio]
+tags: [Granular Portfolio Definition, Granular Portfolio]
 source: https://www.investopedia.com/terms/g/granular_portfolio.asp
 author: James Chen
 ---

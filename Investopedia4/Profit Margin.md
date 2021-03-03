@@ -1,7 +1,7 @@
 ---
 alias: [Profit Margin]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Profit [[Margin Definition]], Profit Margin]
+tags: [Profit Margin Definition, Profit Margin]
 source: https://www.investopedia.com/terms/p/profitmargin.asp
 author: Troy Segal
 ---

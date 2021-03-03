@@ -1,7 +1,7 @@
 ---
 alias: [Quid Pro Quo Contribution]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quid Pro Quo Contribution, [[Quid]] Pro Quo Contribution]
+tags: [Quid Pro Quo Contribution, Quid Pro Quo Contribution]
 source: https://www.investopedia.com/terms/q/[[Quid|quid]]-pro-quo-contribution.asp
 author: Julia Kagan
 ---

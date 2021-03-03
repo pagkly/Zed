@@ -1,7 +1,7 @@
 ---
 alias: [First Mortgage]
 created: 2021-03-02T19:56:47 (UTC +11:00)
-tags: [First [[Mortgage Definition]], First Mortgage Definition]
+tags: [First Mortgage Definition, First Mortgage Definition]
 source: https://www.investopedia.com/terms/f/first_mortgage.asp
 author: Julia Kagan
 ---

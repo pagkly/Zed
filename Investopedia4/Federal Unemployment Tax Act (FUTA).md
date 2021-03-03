@@ -1,7 +1,7 @@
 ---
 alias: [Federal [[Unemployment]] Tax Act, FUTA]
 created: 2021-03-02T19:52:37 (UTC +11:00)
-tags: [Federal [[Unemployment]] Tax Act (FUTA), Federal Unemployment Tax Act (FUTA)]
+tags: [Federal Unemployment Tax Act (FUTA), Federal Unemployment Tax Act (FUTA)]
 source: https://www.investopedia.com/terms/f/federal-[[Unemployment|unemployment]]-tax-act-futa.asp
 author: Julia Kagan
 ---

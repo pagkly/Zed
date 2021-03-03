@@ -1,7 +1,7 @@
 ---
 alias: [Cash Cow]
 created: 2021-03-02T18:49:08 (UTC +11:00)
-tags: [Cash Cow Definition, [[What Makes a Cash Cow]]?]
+tags: [Cash Cow Definition, What Makes a Cash Cow?]
 source: https://www.investopedia.com/terms/c/cashcow.asp
 author: Alexandra Twin
 ---

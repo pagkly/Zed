@@ -1,7 +1,7 @@
 ---
 alias: [Mortality Table]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Mortality Table Definition, [[What Is a Mortality Table]]?]
+tags: [Mortality Table Definition, What Is a Mortality Table?]
 source: https://www.investopedia.com/terms/m/mortality-table.asp
 author: Julia Kagan
 ---

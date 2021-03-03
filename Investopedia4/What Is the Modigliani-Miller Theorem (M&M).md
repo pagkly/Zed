@@ -1,7 +1,7 @@
 ---
 alias: [Modigliani-Miller Theorem, M&M]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Modigliani-Miller Theorem (M&M) Definition, [[What Is the Modigliani-Miller Theorem (M&M)]]?]
+tags: [Modigliani-Miller Theorem (M&M) Definition, What Is the Modigliani-Miller Theorem (M&M)?]
 source: https://www.investopedia.com/terms/m/modigliani-millertheorem.asp
 author: James Chen
 ---

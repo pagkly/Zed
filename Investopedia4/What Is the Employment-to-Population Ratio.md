@@ -1,7 +1,7 @@
 ---
 alias: [Employment-to-Population Ratio]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Employment-to-Population Ratio Definition, [[What Is the Employment-to-Population Ratio]]?]
+tags: [Employment-to-Population Ratio Definition, What Is the Employment-to-Population Ratio?]
 source: https://www.investopedia.com/terms/e/employment_to_population_ratio.asp
 author:  Staff Author
 ---

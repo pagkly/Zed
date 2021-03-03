@@ -1,7 +1,7 @@
 ---
 alias: [Non-Deliverable [[Swap]], NDS]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Deliverable [[Swap]] (NDS), Non-Deliverable Swap (NDS) Definition]
+tags: [Non-Deliverable Swap (NDS), Non-Deliverable Swap (NDS) Definition]
 source: https://www.investopedia.com/terms/n/nondeliverableswap.asp
 author: James Chen
 ---

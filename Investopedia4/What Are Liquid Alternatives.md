@@ -1,7 +1,7 @@
 ---
 alias: [Liquid Alternatives]
 created: 2021-03-02T21:21:46 (UTC +11:00)
-tags: [Liquid Alternatives Definition, [[What Are Liquid Alternatives]]?]
+tags: [Liquid Alternatives Definition, What Are Liquid Alternatives?]
 source: https://www.investopedia.com/terms/l/liquid-alternatives.asp
 author: James Chen
 ---

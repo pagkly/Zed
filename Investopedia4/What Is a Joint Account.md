@@ -1,7 +1,7 @@
 ---
 alias: [Joint Account]
 created: 2021-03-02T20:58:33 (UTC +11:00)
-tags: [Joint Account Definition, [[What Is a Joint Account]]?]
+tags: [Joint Account Definition, What Is a Joint Account?]
 source: https://www.investopedia.com/terms/j/jointaccount.asp
 author: Julia Kagan
 ---

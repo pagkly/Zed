@@ -1,7 +1,7 @@
 ---
 alias: [Z-Bond]
 created: 2021-03-03T01:10:28 (UTC +11:00)
-tags: [Z-Bond Definition, [[Z]]-Bond Definition]
+tags: [Z-Bond Definition, Z-Bond Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/z-bond.asp
 author: James Chen
 ---

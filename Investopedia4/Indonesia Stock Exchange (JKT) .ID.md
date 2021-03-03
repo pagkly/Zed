@@ -1,7 +1,7 @@
 ---
 alias: [Indonesia [[Stock]] Exchange (IDX) .ID]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [Indonesia [[Stock]] Exchange (IDX) .ID, Indonesia Stock Exchange (JKT) .ID]
+tags: [Indonesia Stock Exchange (IDX) .ID, Indonesia Stock Exchange (JKT) .ID]
 source: https://www.investopedia.com/terms/j/jakartastockexchange.asp
 author: Chris B Murphy
 ---

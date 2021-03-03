@@ -1,7 +1,7 @@
 ---
 alias: [Correlation Coefficient]
 created: 2021-03-02T19:00:23 (UTC +11:00)
-tags: [Correlation Coefficient Definition, [[Correlation]] Coefficient Definition]
+tags: [Correlation Coefficient Definition, Correlation Coefficient Definition]
 source: https://www.investopedia.com/terms/c/correlationcoefficient.asp
 author: Jason Fernando
 ---

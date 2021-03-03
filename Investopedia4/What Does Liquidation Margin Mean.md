@@ -1,7 +1,7 @@
 ---
 alias: [Liquidation Margin Defined]
 created: 2021-03-02T21:21:47 (UTC +11:00)
-tags: [Liquidation Margin Defined, [[What Does Liquidation Margin Mean]]?]
+tags: [Liquidation Margin Defined, What Does Liquidation Margin Mean?]
 source: https://www.investopedia.com/terms/l/liquidation-margin.asp
 author: Jason Fernando
 ---

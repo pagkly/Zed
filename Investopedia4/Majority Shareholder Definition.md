@@ -1,7 +1,7 @@
 ---
 alias: [Majority Shareholder]
 created: 2021-03-02T21:54:33 (UTC +11:00)
-tags: [Majority [[Shareholder Definition]], Majority Shareholder Definition]
+tags: [Majority Shareholder Definition, Majority Shareholder Definition]
 source: https://www.investopedia.com/terms/m/majorityshareholder.asp
 author: Cory Mitchell
 ---

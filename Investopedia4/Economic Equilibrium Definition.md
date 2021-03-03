@@ -1,7 +1,7 @@
 ---
 alias: [Economic Equilibrium]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic [[Equilibrium Definition]], Economic Equilibrium Definition]
+tags: [Economic Equilibrium Definition, Economic Equilibrium Definition]
 source: https://www.investopedia.com/terms/e/economic-equilibrium.asp
 author: Investopedia Staff
 ---

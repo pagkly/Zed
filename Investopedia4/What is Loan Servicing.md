@@ -1,7 +1,7 @@
 ---
 alias: [Loan Servicing]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Servicing Definition, [[What is Loan Servicing]]?]
+tags: [Loan Servicing Definition, What is Loan Servicing?]
 source: https://www.investopedia.com/terms/l/loan_servicing.asp
 author: Julia Kagan
 ---

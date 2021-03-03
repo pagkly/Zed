@@ -1,7 +1,7 @@
 ---
 alias: [Vertical Well]
 created: 2021-03-03T00:38:25 (UTC +11:00)
-tags: [Vertical Well Definition, [[How Does a Vertical Well Works]]?]
+tags: [Vertical Well Definition, How Does a Vertical Well Works?]
 source: https://www.investopedia.com/terms/v/verticalwell.asp
 author: Jason Fernando
 ---

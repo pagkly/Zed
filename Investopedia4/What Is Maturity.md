@@ -1,7 +1,7 @@
 ---
 alias: [Maturity]
 created: 2021-03-02T22:01:11 (UTC +11:00)
-tags: [Maturity Definition, [[What Is Maturity]]?]
+tags: [Maturity Definition, What Is Maturity?]
 source: https://www.investopedia.com/terms/m/maturity.asp
 author: James Chen
 ---

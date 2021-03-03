@@ -1,7 +1,7 @@
 ---
 alias: [Derived Demand]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Derived [[Demand Definition]], Derived Demand Definition]
+tags: [Derived Demand Definition, Derived Demand Definition]
 source: https://www.investopedia.com/terms/d/derived_demand.asp
 author: Adam Barone
 ---

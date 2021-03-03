@@ -1,7 +1,7 @@
 ---
 alias: [Middle Market Firm]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Middle Market Firm Definition, [[What's the Difference between a Middle Market Firm and Mid-Cap Stock]]?]
+tags: [Middle Market Firm Definition, What's the Difference between a Middle Market Firm and Mid-Cap Stock?]
 source: https://www.investopedia.com/terms/m/middle-market-firms.asp
 author: Marshall Hargrave
 ---

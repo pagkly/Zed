@@ -1,7 +1,7 @@
 ---
 alias: [Non-Purpose Loan]
 created: 2021-03-02T21:48:19 (UTC +11:00)
-tags: [Non-Purpose [[Loan]] Definition, Non-Purpose Loan]
+tags: [Non-Purpose Loan Definition, Non-Purpose Loan]
 source: https://www.investopedia.com/terms/n/non-purpose-[[Loan|loan]].asp
 author: Julia Kagan
 ---

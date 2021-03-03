@@ -1,7 +1,7 @@
 ---
 alias: [Sticky Wage Theory]
 created: 2021-03-02T23:43:20 (UTC +11:00)
-tags: [Sticky Wage Theory Definition, [[What Is the Sticky Wage Theory]]?]
+tags: [Sticky Wage Theory Definition, What Is the Sticky Wage Theory?]
 source: https://www.investopedia.com/terms/s/sticky-wage-theory.asp
 author: Adam Hayes
 ---

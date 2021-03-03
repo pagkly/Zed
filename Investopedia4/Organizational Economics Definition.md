@@ -1,7 +1,7 @@
 ---
 alias: [Organizational Economics]
 created: 2021-03-02T22:29:30 (UTC +11:00)
-tags: [Organizational [[Economics]] Definition, Organizational Economics Definition]
+tags: [Organizational Economics Definition, Organizational Economics Definition]
 source: https://www.investopedia.com/terms/o/organizational-[[Economics|economics]].asp
 author: Clay Halton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Quote Stuffing]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quote Stuffing Definition, [[Quote]] Stuffing Definition]
+tags: [Quote Stuffing Definition, Quote Stuffing Definition]
 source: https://www.investopedia.com/terms/q/[[Quote|quote]]-stuffing.asp
 author: Lucas Downey
 ---

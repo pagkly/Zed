@@ -1,7 +1,7 @@
 ---
 alias: [Classical Economics]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Classical [[Economics]] Definition, Classical Economics]
+tags: [Classical Economics Definition, Classical Economics]
 source: https://www.investopedia.com/terms/c/classicaleconomics.asp
 author: Julie Young
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Mortgage Insurance]
 created: 2021-03-02T22:11:43 (UTC +11:00)
-tags: [Mortgage Insurance Definition, [[What Is Mortgage Insurance]]?]
+tags: [Mortgage Insurance Definition, What Is Mortgage Insurance?]
 source: https://www.investopedia.com/terms/m/mortgage-insurance.asp
 author: Julia Kagan
 ---

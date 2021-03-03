@@ -1,7 +1,7 @@
 ---
 alias: [Knowledge Engineering Defined]
 created: 2021-03-02T21:07:19 (UTC +11:00)
-tags: [Knowledge Engineering Defined, [[What Is Knowledge Engineering]]?]
+tags: [Knowledge Engineering Defined, What Is Knowledge Engineering?]
 source: https://www.investopedia.com/terms/k/knowledge-engineering.asp
 author: Jake Frankenfield
 ---

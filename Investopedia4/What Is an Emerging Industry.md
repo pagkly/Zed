@@ -1,7 +1,7 @@
 ---
 alias: [Emerging Industry]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Emerging Industry Definition, [[What Is an Emerging Industry]]?]
+tags: [Emerging Industry Definition, What Is an Emerging Industry?]
 source: https://www.investopedia.com/terms/e/emergingindustry.asp
 author: [[Will]] Kenton
 ---

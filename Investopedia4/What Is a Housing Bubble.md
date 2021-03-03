@@ -1,7 +1,7 @@
 ---
 alias: [Housing Bubble]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [Housing Bubble Definition, [[What Is a Housing Bubble]]?]
+tags: [Housing Bubble Definition, What Is a Housing Bubble?]
 source: https://www.investopedia.com/terms/h/housing_bubble.asp
 author: Investopedia Staff
 ---

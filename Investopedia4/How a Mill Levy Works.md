@@ -1,7 +1,7 @@
 ---
 alias: [Mill Levy]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Mill [[Levy Definition]], How a Mill Levy Works]
+tags: [Mill Levy Definition, How a Mill Levy Works]
 source: https://www.investopedia.com/terms/m/mill-levy.asp
 author: Brian Beers
 ---

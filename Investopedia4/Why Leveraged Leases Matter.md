@@ -1,7 +1,7 @@
 ---
 alias: [Leveraged Lease]
 created: 2021-03-02T21:15:35 (UTC +11:00)
-tags: [Leveraged [[Lease]] Definition, Why Leveraged Leases Matter]
+tags: [Leveraged Lease Definition, Why Leveraged Leases Matter]
 source: https://www.investopedia.com/terms/l/leveragedlease.asp
 author: Julie Young
 ---

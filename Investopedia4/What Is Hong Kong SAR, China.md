@@ -1,7 +1,7 @@
 ---
 alias: [What Is Hong Kong SAR, China?]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [What Is Hong Kong SAR, China?, [[What Is Hong Kong SAR, China]]?]
+tags: [What Is Hong Kong SAR, China?, What Is Hong Kong SAR, China?]
 source: https://www.investopedia.com/terms/h/hong-kong-sar-china.asp
 author: Adam Hayes
 ---

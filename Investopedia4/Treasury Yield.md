@@ -1,7 +1,7 @@
 ---
 alias: [Treasury Yield]
 created: 2021-03-03T00:09:07 (UTC +11:00)
-tags: [Treasury [[Yield]] Definition, Treasury Yield]
+tags: [Treasury Yield Definition, Treasury Yield]
 source: https://www.investopedia.com/terms/t/treasury-[[Yield|yield]].asp
 author: James Chen
 ---

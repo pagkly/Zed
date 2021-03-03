@@ -1,7 +1,7 @@
 ---
 alias: [Go-Go Fund]
 created: 2021-03-02T20:18:45 (UTC +11:00)
-tags: [Go-Go Fund Definition, [[What Is a Go-Go Fund]]?]
+tags: [Go-Go Fund Definition, What Is a Go-Go Fund?]
 source: https://www.investopedia.com/terms/g/go-go-fund.asp
 author: James Chen
 ---

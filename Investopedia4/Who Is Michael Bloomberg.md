@@ -1,7 +1,7 @@
 ---
 alias: [Michael Bloomberg]
 created: 2021-03-02T22:03:18 (UTC +11:00)
-tags: [Michael Bloomberg Definition, [[Who Is Michael Bloomberg]]?]
+tags: [Michael Bloomberg Definition, Who Is Michael Bloomberg?]
 source: https://www.investopedia.com/terms/m/michael-bloomberg.asp
 author: Carol M. Kopp
 ---

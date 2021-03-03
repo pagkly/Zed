@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Research Associate?]
 created: 2021-03-02T23:16:49 (UTC +11:00)
-tags: [What Is a Research Associate?, [[What Is a Research Associate]]?]
+tags: [What Is a Research Associate?, What Is a Research Associate?]
 source: https://www.investopedia.com/terms/r/research-associate.asp
 author:  [[Will]] Kenton
 ---

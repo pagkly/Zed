@@ -1,7 +1,7 @@
 ---
 alias: [Underwriting Risk]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwriting [[Risk]] Definition, Underwriting Risk]
+tags: [Underwriting Risk Definition, Underwriting Risk]
 source: https://www.investopedia.com/terms/u/underwriting-[[Risk|risk]].asp
 author: Julia Kagan
 ---

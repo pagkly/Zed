@@ -1,7 +1,7 @@
 ---
 alias: [Quanto Swap]
 created: 2021-03-02T23:03:03 (UTC +11:00)
-tags: [Quanto [[Swap]] Definition, Quanto Swap Definition]
+tags: [Quanto Swap Definition, Quanto Swap Definition]
 source: https://www.investopedia.com/terms/q/quantoswap.asp
 author: Lucas Downey
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Day Trader]
 created: 2021-03-02T19:07:19 (UTC +11:00)
-tags: [Day [[Trader Definition]], Day Trader Definition]
+tags: [Day Trader Definition, Day Trader Definition]
 source: https://www.investopedia.com/terms/d/daytrader.asp
 author: James Chen
 ---

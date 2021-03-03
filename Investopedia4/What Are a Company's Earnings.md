@@ -1,7 +1,7 @@
 ---
 alias: [Earnings]
 created: 2021-03-02T19:29:08 (UTC +11:00)
-tags: [Earnings Definition, [[What Are a Company's Earnings]]?]
+tags: [Earnings Definition, What Are a Company's Earnings?]
 source: https://www.investopedia.com/terms/e/earnings.asp
 author: Alicia Tuovila
 ---

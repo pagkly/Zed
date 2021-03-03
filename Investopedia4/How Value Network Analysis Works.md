@@ -1,7 +1,7 @@
 ---
 alias: [Value Network Analysis]
 created: 2021-03-03T00:34:23 (UTC +11:00)
-tags: [Value Network Analysis Definition, How [[Value Network]] Analysis Works]
+tags: [Value Network Analysis Definition, How Value Network Analysis Works]
 source: https://www.investopedia.com/terms/v/value-network-analysis.asp
 author: [[Will]] Kenton
 ---

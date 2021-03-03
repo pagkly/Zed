@@ -1,7 +1,7 @@
 ---
 alias: [Smart Money]
 created: 2021-03-02T23:39:01 (UTC +11:00)
-tags: [Smart [[Money Definition]], Smart Money]
+tags: [Smart Money Definition, Smart Money]
 source: https://www.investopedia.com/terms/s/smart-money.asp
 author: Caroline Banton
 ---

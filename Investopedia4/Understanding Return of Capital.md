@@ -1,7 +1,7 @@
 ---
 alias: [Return of Capital]
 created: 2021-03-02T23:21:03 (UTC +11:00)
-tags: [Return of Capital Definition, Understanding [[Return]] of Capital]
+tags: [Return of Capital Definition, Understanding Return of Capital]
 source: https://www.investopedia.com/terms/r/returnofcapital.asp
 author: Adam Hayes
 ---

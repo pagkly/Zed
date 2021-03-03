@@ -1,7 +1,7 @@
 ---
 alias: [Wharton School]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [Wharton School Definition, [[What Is the Wharton School]]?]
+tags: [Wharton School Definition, What Is the Wharton School?]
 source: https://www.investopedia.com/terms/w/wharton.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Clearinghouse]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Clearinghouse Definition, [[What Is a Clearinghouse]]?]
+tags: [Clearinghouse Definition, What Is a Clearinghouse?]
 source: https://www.investopedia.com/terms/c/clearinghouse.asp
 author: Akhilesh Ganti
 ---

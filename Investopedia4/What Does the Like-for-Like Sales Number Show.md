@@ -1,7 +1,7 @@
 ---
 alias: [Like-for-Like Sales]
 created: 2021-03-02T21:19:45 (UTC +11:00)
-tags: [Like-for-Like Sales Definition, [[What Does the Like-for-Like Sales Number Show]]?]
+tags: [Like-for-Like Sales Definition, What Does the Like-for-Like Sales Number Show?]
 source: https://www.investopedia.com/terms/l/likeforlikesales.asp
 author: Julie Young
 ---

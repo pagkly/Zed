@@ -1,7 +1,7 @@
 ---
 alias: [Who Is George Soros?]
 created: 2021-03-02T20:16:41 (UTC +11:00)
-tags: [Who Is George Soros?, [[Who Is George Soros]]?]
+tags: [Who Is George Soros?, Who Is George Soros?]
 source: https://www.investopedia.com/terms/g/soros.asp
 author: James Chen
 ---

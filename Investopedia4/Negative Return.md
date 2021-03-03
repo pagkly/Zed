@@ -1,7 +1,7 @@
 ---
 alias: [Negative Return]
 created: 2021-03-02T21:36:54 (UTC +11:00)
-tags: [Negative [[Return]], Negative Return]
+tags: [Negative Return, Negative Return]
 source: https://www.investopedia.com/terms/n/negative-[[Return|return]].asp
 author: [[Will]] Kenton
 ---

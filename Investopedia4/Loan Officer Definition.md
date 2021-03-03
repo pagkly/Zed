@@ -1,7 +1,7 @@
 ---
 alias: [Loan Officer]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Officer Definition, [[Loan]] Officer Definition]
+tags: [Loan Officer Definition, Loan Officer Definition]
 source: https://www.investopedia.com/terms/l/loanofficer.asp
 author: Julia Kagan
 ---

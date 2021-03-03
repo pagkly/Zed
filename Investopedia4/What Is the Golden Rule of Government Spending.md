@@ -1,7 +1,7 @@
 ---
 alias: [The Golden Rule of Government Spending Defined]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [The Golden Rule of Government Spending Defined, [[What Is the Golden Rule of Government Spending]]?]
+tags: [The Golden Rule of Government Spending Defined, What Is the Golden Rule of Government Spending?]
 source: https://www.investopedia.com/terms/g/golden-rule.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [High Close]
 created: 2021-03-02T20:43:24 (UTC +11:00)
-tags: [High Close Definition, [[What Is a High Close]]?]
+tags: [High Close Definition, What Is a High Close?]
 source: https://www.investopedia.com/terms/h/highclose.asp
 author: Alexandra Twin
 ---

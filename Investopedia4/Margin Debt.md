@@ -1,7 +1,7 @@
 ---
 alias: [Margin Debt]
 created: 2021-03-02T21:54:34 (UTC +11:00)
-tags: [Margin [[Debt]] Definition, Margin Debt]
+tags: [Margin Debt Definition, Margin Debt]
 source: https://www.investopedia.com/terms/m/margin_debt.asp
 author: [[Will]] Kenton
 ---

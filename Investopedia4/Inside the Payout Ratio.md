@@ -1,7 +1,7 @@
 ---
 alias: [Payout Ratio]
 created: 2021-03-02T22:40:12 (UTC +11:00)
-tags: [Payout Ratio Definition, Inside the [[Payout]] Ratio]
+tags: [Payout Ratio Definition, Inside the Payout Ratio]
 source: https://www.investopedia.com/terms/p/payoutratio.asp
 author: Andrew Bloomenthal
 ---

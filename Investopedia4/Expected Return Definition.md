@@ -1,7 +1,7 @@
 ---
 alias: [Expected Return]
 created: 2021-03-02T19:48:22 (UTC +11:00)
-tags: [Expected [[Return]] Definition, Expected Return Definition]
+tags: [Expected Return Definition, Expected Return Definition]
 source: https://www.investopedia.com/terms/e/expectedreturn.asp
 author: James Chen
 ---

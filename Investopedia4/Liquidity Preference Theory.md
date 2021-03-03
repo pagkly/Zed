@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Preference Theory]
 created: 2021-03-02T21:21:47 (UTC +11:00)
-tags: [Liquidity Preference Theory Definition, [[Liquidity]] Preference Theory]
+tags: [Liquidity Preference Theory Definition, Liquidity Preference Theory]
 source: https://www.investopedia.com/terms/l/liquiditypreference.asp
 author: James Chen
 ---

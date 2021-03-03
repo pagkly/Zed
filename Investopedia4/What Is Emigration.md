@@ -1,7 +1,7 @@
 ---
 alias: [What Is Emigration?]
 created: 2021-03-02T19:37:30 (UTC +11:00)
-tags: [What Is Emigration?, [[What Is Emigration]]?]
+tags: [What Is Emigration?, What Is Emigration?]
 source: https://www.investopedia.com/terms/e/emigration.asp
 author: [[Will]] Kenton
 ---

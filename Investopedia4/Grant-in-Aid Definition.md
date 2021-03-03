@@ -1,7 +1,7 @@
 ---
 alias: [Grant-in-Aid]
 created: 2021-03-02T20:23:14 (UTC +11:00)
-tags: [Grant-in-Aid Definition, [[Grant]]-in-Aid Definition]
+tags: [Grant-in-Aid Definition, Grant-in-Aid Definition]
 source: https://www.investopedia.com/terms/g/[[Grant|grant]]-in-aid.asp
 author: Julia Kagan
 ---

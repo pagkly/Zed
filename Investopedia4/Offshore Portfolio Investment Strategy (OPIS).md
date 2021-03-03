@@ -1,7 +1,7 @@
 ---
 alias: [Offshore [[Portfolio]] Investment Strategy, OPIS]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offshore [[Portfolio]] Investment Strategy (OPIS) Definition, Offshore Portfolio Investment Strategy (OPIS)]
+tags: [Offshore Portfolio Investment Strategy (OPIS) Definition, Offshore Portfolio Investment Strategy (OPIS)]
 source: https://www.investopedia.com/terms/o/opis.asp
 author: [[Will]] Kenton
 ---

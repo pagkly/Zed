@@ -1,7 +1,7 @@
 ---
 alias: [Humped [[Yield]] Curve]
 created: 2021-03-02T20:54:02 (UTC +11:00)
-tags: [Humped [[Yield Curve]] Definition, Humped [[Yield]] Curve]
+tags: [Humped Yield Curve Definition, Humped [[Yield]] Curve]
 source: https://www.investopedia.com/terms/h/humped-[[Yield|yield]]-curve.asp
 author: James Chen
 ---

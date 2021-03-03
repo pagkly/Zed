@@ -1,7 +1,7 @@
 ---
 alias: [Personal Income]
 created: 2021-03-02T22:42:35 (UTC +11:00)
-tags: [Personal Income Definition, [[What Is Personal Income]]?]
+tags: [Personal Income Definition, What Is Personal Income?]
 source: https://www.investopedia.com/terms/p/personalincome.asp
 author: Julia Kagan
 ---

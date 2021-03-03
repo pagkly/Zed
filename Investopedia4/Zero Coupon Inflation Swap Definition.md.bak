@@ -1,0 +1,79 @@
+---
+alias: [Zero Coupon Inflation Swap]
+created: 2021-03-03T01:10:29 (UTC +11:00)
+tags: [Zero Coupon Inflation [[Swap]] Definition, Zero Coupon Inflation Swap Definition]
+source: https://www.investopedia.com/terms/[[Z|z]]/zero-coupon-inflation-[[Swap|swap]].asp
+author: Akhilesh Ganti
+---
+
+# [[Zero Coupon Inflation Swap Definition]]
+
+> ## Excerpt
+> A zero coupon inflation [[Swap|swap]] is a [[Derivative|derivative]] where a fixed rate payment on a notional amount is exchanged for a payment at the rate of inflation.
+
+---
+
+[[Zero Coupon Inflation Swap Definition]]
+## What is a Zero Coupon Inflation [[Swap]] (ZCIS)?
+
+A zero coupon inflation [[Swap|swap]] is a type of [[Derivative|derivative]] in which a fixed rate payment on a notional amount is exchanged for a payment at the rate of inflation. It is an exchange of cash flows that allows investors to either reduce or increase their exposure to the changes in the purchasing power of money. A zero-coupon inflation swap is also known as a breakeven inflation swap.
+
+### Key Takeaways
+
+-   In a zero-coupon inflation [[Swap|swap]], which is a basic type of inflation [[Derivative|derivative]], an income stream that is tied to the rate of inflation is exchanged for an income stream with a fixed interest rate.
+-   With a zero-coupon inflation [[Swap|swap]], both income streams are paid as a one lump-sum payment when the swap reaches maturity and the inflation level is known, instead of actually exchanging payments periodically.
+-   As inflation rises, the inflation buyer receives more from the inflation seller than what he paid, but if inflation falls, the inflation buyer receives less from the inflation seller than what he paid.
+
+## Understanding a Zero Coupon Inflation [[Swap]] (ZCIS)
+
+In a zero coupon inflation [[Swap|swap]], which is a basic type of inflation [[Derivative|derivative]], an income stream tied to the rate of inflation is exchanged for an income stream with a fixed interest rate. A [[zero-coupon]](https://www.investopedia.com/terms/[[Z|z]]/zero-couponbond.asp) [[Security|security]] does not make periodic interest payments during the life of the investment. Instead, a lump sum is paid on the maturity date to the holder of the security.
+
+Likewise, with a zero coupon inflation [[Swap|swap]], both income streams are paid as one lump-sum payment when the swap reaches maturity and the inflation level is known, instead of actually exchanging payments periodically. The payoff at maturity depends on the [[inflation rate]](https://www.investopedia.com/terms/i/inflation.asp) realized over a given period of time, as measured by an inflation index. In effect, the zero coupon inflation swap is a bilateral contract used to provide a [[hedge]](https://www.investopedia.com/terms/h/[[Hedge|hedge]].asp) against inflation.
+
+Under a zero coupon inflation [[Swap|swap]], the inflation receiver, or buyer, pays a predetermined fixed rate and, in [[Return|return]], receives an inflation-linked payment from the inflation payer, or seller. The side of the contract that pays a fixed rate is referred to as the fixed leg, while the other end of the derivatives contract is the inflation leg. The fixed rate is called the breakeven [[Swap Rate|swap rate]].
+
+The payments from both legs captures the difference between expected and actual inflation. If actual inflation exceeds expected inflation, the resulting positive [[Return|return]] to the buyer is considered a capital [[Gain|gain]]. As inflation rises, the buyer earns more; if inflation falls, the buyer earns less. While payment is typically exchanged at the end of the [[Swap|swap]] term, a buyer may choose to sell the swap on the [[over-the-counter]](https://www.investopedia.com/terms/o/otc.asp) (OTC) market prior to maturity.
+
+The inflation buyer pays a fixed amount, known as the fixed leg. This is:
+
+Fixed Leg = A \* \[(1 + r)t – 1\]
+
+The inflation seller pays an amount given by the change in the inflation index, known as the inflation leg. This is:
+
+Inflation Leg = A \* \[(IE ÷ IS) – 1\]
+
+**where:**
+
+A = Reference [[notional]](https://www.investopedia.com/terms/n/notionalvalue.asp) of the [[Swap|swap]]
+
+r = The fixed rate
+
+t = The number of years
+
+IE = Inflation index at the end (maturity) date
+
+IS = Inflation index at the start date
+
+## Example of Zero-Coupon Inflation [[Swap]] (ZCIS)
+
+For example, assuming two parties enter into a five-year zero coupon inflation [[Swap|swap]] with a notional amount of $100 million, 2.4% fixed rate, and the agreed upon inflation index, such as CPI, at 2.0% when the swap is agreed upon. At maturity, CPI is at 2.5%.
+
+Fixed Leg = $100,000,000 \* \[(1.024)5 – 1)\]
+
+\= $100,000,000 \* \[1.1258999 – 1\]
+
+\= $12,589,990.68
+
+Inflation Leg = $100,000,000 \* \[(0.025 ÷ 0.020) – 1\]
+
+\= $100,000,000 \* \[1.25 – 1\]
+
+\= $25,000,000.00
+
+Since the compounded inflation rose above 2.4%, the inflation buyer profited, else the inflation seller would have profited.
+
+The currency of the [[Swap|swap]] determines the price index that is used to calculate the rate of inflation. For example, a swap denominated in U.S. dollars would be based on the [[Consumer Price Index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI), a proxy for inflation that measures price changes in a basket of goods and services in the United States. A swap denominated in British pounds would typically be based on Great Britain's [[Retail Price Index]](https://www.investopedia.com/terms/r/rpi.asp) (RPI).
+
+Like every [[Debt|debt]] contract, a zero coupon inflation [[Swap|swap]] is subject to the [[risk of default]](https://www.investopedia.com/terms/d/defaultrisk.asp) from either party either because of temporary [[Liquidity|liquidity]] problems or more significant structural issues, such as insolvency. To mitigate this [[Risk|risk]], both parties may agree to put up [[collateral]](https://www.investopedia.com/terms/c/[[Collateral|collateral]].asp) for the amount due.
+
+Other financial instruments that can be used to [[Hedge|hedge]] against inflation [[Risk|risk]] are real [[Yield|yield]] inflation swaps, price index inflation swaps, [[Treasury Inflation Protected Securities]](https://www.investopedia.com/terms/t/tips.asp) (TIPS), municipal and corporate [[inflation-linked securities]](https://www.investopedia.com/terms/i/inflation-indexedsecurity.asp), inflation-linked certificates of deposit, and inflation-linked savings bonds.

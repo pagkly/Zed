@@ -1,7 +1,7 @@
 ---
 alias: [Dirty Price]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Dirty Price Definition, [[What Is a Dirty Price]]?]
+tags: [Dirty Price Definition, What Is a Dirty Price?]
 source: https://www.investopedia.com/terms/d/dirtyprice.asp
 author: James Chen
 ---

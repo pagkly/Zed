@@ -1,7 +1,7 @@
 ---
 alias: [Premium Bond]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Premium Bond Definition, How a [[Premium]] Bond Works and Why They Cost More]
+tags: [Premium Bond Definition, How a Premium Bond Works and Why They Cost More]
 source: https://www.investopedia.com/terms/p/premiumbond.asp
 author: Chris B. Murphy
 ---

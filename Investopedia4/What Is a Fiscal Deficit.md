@@ -1,7 +1,7 @@
 ---
 alias: [Fiscal Deficit]
 created: 2021-03-02T19:56:47 (UTC +11:00)
-tags: [Fiscal Deficit Definition, [[What Is a Fiscal Deficit]]?]
+tags: [Fiscal Deficit Definition, What Is a Fiscal Deficit?]
 source: https://www.investopedia.com/terms/f/fiscaldeficit.asp
 author: Adam Hayes
 ---

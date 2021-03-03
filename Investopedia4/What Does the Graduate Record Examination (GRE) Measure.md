@@ -1,7 +1,7 @@
 ---
 alias: [Graduate Record Examination, GRE]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [Graduate Record Examination (GRE) Definition, [[What Does the Graduate Record Examination (GRE) Measure]]?]
+tags: [Graduate Record Examination (GRE) Definition, What Does the Graduate Record Examination (GRE) Measure?]
 source: https://www.investopedia.com/terms/g/gre.asp
 author: Julia Kagan
 ---

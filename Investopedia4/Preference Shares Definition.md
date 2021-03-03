@@ -1,7 +1,7 @@
 ---
 alias: [Preference Shares]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Preference [[Shares]] Definition, Preference Shares Definition]
+tags: [Preference Shares Definition, Preference Shares Definition]
 source: https://www.investopedia.com/terms/p/preference-[[Shares|shares]].asp
 author: Jason Fernando
 ---

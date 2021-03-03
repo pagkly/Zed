@@ -1,7 +1,7 @@
 ---
 alias: [Learn How Legislative [[Risk]] Harms Business Profits]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Learn How Legislative [[Risk]] Harms Business Profits, Legislative Risk Happens After Government Changes a Business' Future]
+tags: [Learn How Legislative Risk Harms Business Profits, Legislative Risk Happens After Government Changes a Business' Future]
 source: https://www.investopedia.com/terms/l/legislativerisk.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Fibonacci [[Retracement]] Levels]
 created: 2021-03-02T19:54:42 (UTC +11:00)
-tags: [Fibonacci [[Retracement]] Levels, Fibonacci Retracement Levels]
+tags: [Fibonacci Retracement Levels, Fibonacci Retracement Levels]
 source: https://www.investopedia.com/terms/f/fibonacciretracement.asp
 author: Cory Mitchell
 ---

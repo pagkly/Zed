@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Event]
 created: 2021-03-02T21:21:47 (UTC +11:00)
-tags: [Liquidity Event Definition & Example, [[Liquidity]] Event]
+tags: [Liquidity Event Definition & Example, Liquidity Event]
 source: https://www.investopedia.com/terms/l/liquidity_event.asp
 author: James Chen
 ---

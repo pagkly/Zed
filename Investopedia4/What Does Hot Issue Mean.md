@@ -1,7 +1,7 @@
 ---
 alias: [Hot Issue]
 created: 2021-03-02T20:51:41 (UTC +11:00)
-tags: [Hot Issue Definition, [[What Does Hot Issue Mean]]?]
+tags: [Hot Issue Definition, What Does Hot Issue Mean?]
 source: https://www.investopedia.com/terms/h/hotissue.asp
 author: Jason Fernando
 ---

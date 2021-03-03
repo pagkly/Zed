@@ -1,7 +1,7 @@
 ---
 alias: [Withholding]
 created: 2021-03-03T01:01:20 (UTC +11:00)
-tags: [Withholding Definition, [[What Does Withholding Mean]]?]
+tags: [Withholding Definition, What Does Withholding Mean?]
 source: https://www.investopedia.com/terms/w/withholding.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Loan Note]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Note Definition, [[Loan]] Note Definition]
+tags: [Loan Note Definition, Loan Note Definition]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-note.asp
 author: Alan Farley
 ---

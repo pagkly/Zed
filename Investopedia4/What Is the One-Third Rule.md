@@ -1,7 +1,7 @@
 ---
 alias: [One-Third Rule]
 created: 2021-03-02T22:20:04 (UTC +11:00)
-tags: [One-Third Rule Definition, [[What Is the One-Third Rule]]?]
+tags: [One-Third Rule Definition, What Is the One-Third Rule?]
 source: https://www.investopedia.com/terms/o/one-third-rule.asp
 author: Christina Majaski
 ---

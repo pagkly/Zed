@@ -1,7 +1,7 @@
 ---
 alias: [Macaulay Duration]
 created: 2021-03-02T21:52:29 (UTC +11:00)
-tags: [Macaulay Duration, [[What Is the Macaulay Duration]]?]
+tags: [Macaulay Duration, What Is the Macaulay Duration?]
 source: https://www.investopedia.com/terms/m/macaulayduration.asp
 author: James Chen
 ---

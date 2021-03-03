@@ -1,7 +1,7 @@
 ---
 alias: [Zero-Dividend Preferred Stock]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero-Dividend [[Preferred Stock]] Definition, Zero-Dividend Preferred Stock]
+tags: [Zero-Dividend Preferred Stock Definition, Zero-Dividend Preferred Stock]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-dividend-preferred-[[Stock|stock]].asp
 author: James Chen
 ---

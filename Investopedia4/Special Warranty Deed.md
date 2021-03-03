@@ -1,7 +1,7 @@
 ---
 alias: [Special Warranty Deed]
 created: 2021-03-02T23:41:12 (UTC +11:00)
-tags: [Special Warranty [[Deed Definition]], Special Warranty Deed]
+tags: [Special Warranty Deed Definition, Special Warranty Deed]
 source: https://www.investopedia.com/terms/s/special-warranty-deed.asp
 author: Julia Kagan
 ---

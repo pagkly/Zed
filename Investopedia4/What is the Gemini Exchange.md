@@ -1,7 +1,7 @@
 ---
 alias: [Gemini Exchange]
 created: 2021-03-02T20:14:39 (UTC +11:00)
-tags: [Gemini Exchange Definition, [[What is the Gemini Exchange]]?]
+tags: [Gemini Exchange Definition, What is the Gemini Exchange?]
 source: https://www.investopedia.com/terms/g/gemini-exchange.asp
 author: Jake Frankenfield
 ---

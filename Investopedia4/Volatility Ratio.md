@@ -1,7 +1,7 @@
 ---
 alias: [Volatility Ratio]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Volatility Ratio, [[Volatility]] Ratio]
+tags: [Volatility Ratio, Volatility Ratio]
 source: https://www.investopedia.com/terms/v/[[Volatility|volatility]]-ratio.asp
 author: James Chen
 ---

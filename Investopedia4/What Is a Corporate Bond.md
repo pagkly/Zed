@@ -1,7 +1,7 @@
 ---
 alias: [Corporate Bond]
 created: 2021-03-02T19:00:22 (UTC +11:00)
-tags: [Corporate Bond Definition, [[What Is a Corporate Bond]]?]
+tags: [Corporate Bond Definition, What Is a Corporate Bond?]
 source: https://www.investopedia.com/terms/c/corporatebond.asp
 author: [[Will]] Kenton
 ---

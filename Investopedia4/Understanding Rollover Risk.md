@@ -1,7 +1,7 @@
 ---
 alias: [Rollover Risk]
 created: 2021-03-02T23:27:50 (UTC +11:00)
-tags: [Rollover [[Risk]] Definition, Understanding Rollover Risk]
+tags: [Rollover Risk Definition, Understanding Rollover Risk]
 source: https://www.investopedia.com/terms/r/rollover-[[Risk|risk]].asp
 author: Troy Segal
 ---

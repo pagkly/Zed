@@ -1,7 +1,7 @@
 ---
 alias: [Whole Life Insurance]
 created: 2021-03-03T00:54:57 (UTC +11:00)
-tags: [Whole Life Insurance Definition, [[What Is Whole Life Insurance]]?]
+tags: [Whole Life Insurance Definition, What Is Whole Life Insurance?]
 source: https://www.investopedia.com/terms/w/wholelife.asp
 author: Julia Kagan
 ---

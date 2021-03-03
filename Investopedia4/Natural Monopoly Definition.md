@@ -1,7 +1,7 @@
 ---
 alias: [Natural Monopoly]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Natural [[Monopoly]] Definition, Natural Monopoly Definition]
+tags: [Natural Monopoly Definition, Natural Monopoly Definition]
 source: https://www.investopedia.com/terms/n/natural_monopoly.asp
 author: Investopedia Staff
 ---

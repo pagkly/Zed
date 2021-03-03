@@ -1,7 +1,7 @@
 ---
 alias: [Defensive Stock]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Defensive [[Stock]] Definition, Defensive Stock]
+tags: [Defensive Stock Definition, Defensive Stock]
 source: https://www.investopedia.com/terms/d/defensivestock.asp
 author: James Chen
 ---

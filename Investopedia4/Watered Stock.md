@@ -1,7 +1,7 @@
 ---
 alias: [Watered Stock]
 created: 2021-03-03T00:50:37 (UTC +11:00)
-tags: [Watered [[Stock]] Definition, Watered Stock]
+tags: [Watered Stock Definition, Watered Stock]
 source: https://www.investopedia.com/terms/w/wateredstock.asp
 author: Adam Hayes
 ---

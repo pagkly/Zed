@@ -1,7 +1,7 @@
 ---
 alias: [Minsky Moment Defined]
 created: 2021-03-02T22:05:23 (UTC +11:00)
-tags: [Minsky Moment Defined, [[What Is a Minsky Moment]]?]
+tags: [Minsky Moment Defined, What Is a Minsky Moment?]
 source: https://www.investopedia.com/terms/m/minskymoment.asp
 author: Akhilesh Ganti
 ---

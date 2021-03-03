@@ -1,7 +1,7 @@
 ---
 alias: [Hardening]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Hardening Definition, [[What Does Hardening Mean]]?]
+tags: [Hardening Definition, What Does Hardening Mean?]
 source: https://www.investopedia.com/terms/h/hardening.asp
 author: Jason Fernando
 ---

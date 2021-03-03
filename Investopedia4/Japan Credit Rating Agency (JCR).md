@@ -1,7 +1,7 @@
 ---
 alias: [Japan Credit [[Rating]] Agency, JCR]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [Japan Credit [[Rating]] Agency (JCR), Japan Credit Rating Agency (JCR)]
+tags: [Japan Credit Rating Agency (JCR), Japan Credit Rating Agency (JCR)]
 source: https://www.investopedia.com/terms/j/japan-credit-[[Rating|rating]]-agency.asp
 author: [[Will]] Kenton
 ---

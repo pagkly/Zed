@@ -1,7 +1,7 @@
 ---
 alias: [Holdovers Defined]
 created: 2021-03-02T20:47:35 (UTC +11:00)
-tags: [Holdovers Defined, [[What Are Holdovers]]?]
+tags: [Holdovers Defined, What Are Holdovers?]
 source: https://www.investopedia.com/terms/h/holdovers.asp
 author: Jason Fernando
 ---

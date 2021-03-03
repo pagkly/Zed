@@ -1,7 +1,7 @@
 ---
 alias: [Stock Screener]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stock Screener Definition, [[What Is a Stock Screener]]?]
+tags: [Stock Screener Definition, What Is a Stock Screener?]
 source: https://www.investopedia.com/terms/s/stockscreener.asp
 author: James Chen
 ---

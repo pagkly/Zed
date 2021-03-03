@@ -1,7 +1,7 @@
 ---
 alias: [Tax Refund]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax Refund Definition, [[Who Gets a Tax Refund]]?]
+tags: [Tax Refund Definition, Who Gets a Tax Refund?]
 source: https://www.investopedia.com/terms/t/tax-refund.asp
 author: Julia Kagan
 ---

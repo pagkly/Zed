@@ -1,7 +1,7 @@
 ---
 alias: [Knowledge Economy]
 created: 2021-03-02T21:07:19 (UTC +11:00)
-tags: [Knowledge Economy Definition, [[What Is the Knowledge Economy]]?]
+tags: [Knowledge Economy Definition, What Is the Knowledge Economy?]
 source: https://www.investopedia.com/terms/k/knowledge-economy.asp
 author: Adam Hayes
 ---

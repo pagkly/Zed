@@ -1,7 +1,7 @@
 ---
 alias: [Dividend Yield]
 created: 2021-03-02T19:24:42 (UTC +11:00)
-tags: [Dividend [[Yield]] Definition, Dividend Yield Definition]
+tags: [Dividend Yield Definition, Dividend Yield Definition]
 source: https://www.investopedia.com/terms/d/dividendyield.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Net Interest Margin]
 created: 2021-03-02T21:39:27 (UTC +11:00)
-tags: [Net Interest [[Margin Definition]], Net Interest Margin]
+tags: [Net Interest Margin Definition, Net Interest Margin]
 source: https://www.investopedia.com/terms/n/netinterestmargin.asp
 author: Andrew Bloomenthal
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Legal Separation]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [Legal Separation Definition, [[What Is a Legal Separation]]?]
+tags: [Legal Separation Definition, What Is a Legal Separation?]
 source: https://www.investopedia.com/terms/l/legal-separation.asp
 author: Julia Kagan
 ---

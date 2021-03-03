@@ -1,7 +1,7 @@
 ---
 alias: [Red Herring]
 created: 2021-03-02T23:12:20 (UTC +11:00)
-tags: [Red Herring Definition, [[When Should a Company Make a Red Herring Filing]]?]
+tags: [Red Herring Definition, When Should a Company Make a Red Herring Filing?]
 source: https://www.investopedia.com/terms/r/redherring.asp
 author: Marshall Hargrave
 ---

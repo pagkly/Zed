@@ -1,7 +1,7 @@
 ---
 alias: [Chattel Mortgage]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Chattel [[Mortgage Definition]], Chattel Mortgages: An Ownership Interest Rather Than a Lien]
+tags: [Chattel Mortgage Definition, Chattel Mortgages: An Ownership Interest Rather Than a Lien]
 source: https://www.investopedia.com/terms/c/chattelmortgage.asp
 author: Carol M. Kopp
 ---

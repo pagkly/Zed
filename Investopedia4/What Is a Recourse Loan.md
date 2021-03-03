@@ -1,7 +1,7 @@
 ---
 alias: [Recourse Loan]
 created: 2021-03-02T23:12:19 (UTC +11:00)
-tags: [Recourse [[Loan]] Definition, [[What Is a Recourse Loan]]?]
+tags: [Recourse Loan Definition, [[What Is a Recourse Loan]]?]
 source: https://www.investopedia.com/terms/r/recourse-[[Loan|loan]].asp
 author: James Chen
 ---

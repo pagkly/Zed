@@ -1,7 +1,7 @@
 ---
 alias: [The Oracle of Omaha]
 created: 2021-03-02T22:26:40 (UTC +11:00)
-tags: [The Oracle of Omaha Definition, [[Who Is the Oracle Of Omaha]]?]
+tags: [The Oracle of Omaha Definition, Who Is the Oracle Of Omaha?]
 source: https://www.investopedia.com/terms/o/oracleofomaha.asp
 author: James Chen
 ---

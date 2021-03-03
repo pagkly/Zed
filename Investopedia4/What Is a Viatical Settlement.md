@@ -1,7 +1,7 @@
 ---
 alias: [Viatical Settlement]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Viatical Settlement Definition, [[What Is a Viatical Settlement]]?]
+tags: [Viatical Settlement Definition, What Is a Viatical Settlement?]
 source: https://www.investopedia.com/terms/v/viaticalsettlement.asp
 author: Julia Kagan
 ---

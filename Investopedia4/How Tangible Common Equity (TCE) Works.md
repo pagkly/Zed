@@ -1,7 +1,7 @@
 ---
 alias: [Tangible Common [[Equity]], TCE]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tangible Common [[Equity]] (TCE) Definition, How Tangible Common Equity (TCE) Works]
+tags: [Tangible Common Equity (TCE) Definition, How Tangible Common Equity (TCE) Works]
 source: https://www.investopedia.com/terms/t/tangible-common-[[Equity|equity]].asp
 author: Adam Hayes
 ---

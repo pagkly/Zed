@@ -1,7 +1,7 @@
 ---
 alias: [Financial Economics]
 created: 2021-03-02T19:54:42 (UTC +11:00)
-tags: [Financial [[Economics]] Definition, Financial Economics Definition]
+tags: [Financial Economics Definition, Financial Economics Definition]
 source: https://www.investopedia.com/terms/f/financial-[[Economics|economics]].asp
 author: [[Will]] Kenton
 ---

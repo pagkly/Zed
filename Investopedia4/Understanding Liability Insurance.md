@@ -1,7 +1,7 @@
 ---
 alias: [Liability Insurance]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Liability Insurance Definition, Understanding [[Liability]] Insurance]
+tags: [Liability Insurance Definition, Understanding Liability Insurance]
 source: https://www.investopedia.com/terms/l/liability_insurance.asp
 author: Julia Kagan
 ---

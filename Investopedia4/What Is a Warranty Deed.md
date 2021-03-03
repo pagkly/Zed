@@ -1,7 +1,7 @@
 ---
 alias: [Warranty Deed Defintion]
 created: 2021-03-03T00:48:37 (UTC +11:00)
-tags: [Warranty Deed Defintion, [[What Is a Warranty Deed]]?]
+tags: [Warranty Deed Defintion, What Is a Warranty Deed?]
 source: https://www.investopedia.com/terms/w/warranty-deed.asp
 author: James Chen
 ---

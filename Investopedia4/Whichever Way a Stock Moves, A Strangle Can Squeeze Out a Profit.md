@@ -1,7 +1,7 @@
 ---
 alias: [Strangle]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Strangle Definition, Whichever Way a [[Stock]] Moves, A Strangle Can Squeeze Out a Profit]
+tags: [Strangle Definition, Whichever Way a Stock Moves, A Strangle Can Squeeze Out a Profit]
 source: https://www.investopedia.com/terms/s/strangle.asp
 author: James Chen
 ---

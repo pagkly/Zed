@@ -1,7 +1,7 @@
 ---
 alias: [Grant Deed]
 created: 2021-03-02T20:23:14 (UTC +11:00)
-tags: [Grant Deed, [[Grant]] Deed]
+tags: [Grant Deed, Grant Deed]
 source: https://www.investopedia.com/terms/g/[[Grant|grant]]-deed.asp
 author: Julia Kagan
 ---

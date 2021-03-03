@@ -1,7 +1,7 @@
 ---
 alias: [Notice of Default]
 created: 2021-03-02T21:52:27 (UTC +11:00)
-tags: [Notice of [[Default]] Definition, Notice of Default]
+tags: [Notice of Default Definition, Notice of Default]
 source: https://www.investopedia.com/terms/n/notice-of-[[Default|default]].asp
 author: Julia Kagan
 ---

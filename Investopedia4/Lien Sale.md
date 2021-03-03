@@ -1,7 +1,7 @@
 ---
 alias: [Lien Sale]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Lien [[Sale Definition]], [[Lien]] Sale]
+tags: [Lien Sale Definition, [[Lien]] Sale]
 source: https://www.investopedia.com/terms/l/[[Lien|lien]]-sale.asp
 author: Lucas Downey
 ---

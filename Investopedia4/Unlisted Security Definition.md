@@ -1,7 +1,7 @@
 ---
 alias: [Unlisted Security]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unlisted [[Security]] Definition, Unlisted Security Definition]
+tags: [Unlisted Security Definition, Unlisted Security Definition]
 source: https://www.investopedia.com/terms/u/unlistedsecurity.asp
 author: Akhilesh Ganti
 ---

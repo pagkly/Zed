@@ -1,7 +1,7 @@
 ---
 alias: [Gun-Jumping]
 created: 2021-03-02T20:32:33 (UTC +11:00)
-tags: [Gun-Jumping Definition, [[What Is Gun-Jumping]]?]
+tags: [Gun-Jumping Definition, What Is Gun-Jumping?]
 source: https://www.investopedia.com/terms/g/gunjumping.asp
 author: Carol Kopp
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Discretionary Income]
 created: 2021-03-02T19:22:36 (UTC +11:00)
-tags: [Discretionary Income Definition, [[What Is Discretionary Income]]?]
+tags: [Discretionary Income Definition, What Is Discretionary Income?]
 source: https://www.investopedia.com/terms/d/discretionaryincome.asp
 author: Julia Kagan
 ---

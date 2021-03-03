@@ -1,7 +1,7 @@
 ---
 alias: [Listed Property]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Listed Property Definition, How [[Listed]] Properties Work]
+tags: [Listed Property Definition, How Listed Properties Work]
 source: https://www.investopedia.com/terms/l/[[Listed|listed]]-property.asp
 author: Marshall Hargrave
 ---

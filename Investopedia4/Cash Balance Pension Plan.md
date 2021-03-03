@@ -1,7 +1,7 @@
 ---
 alias: [Cash Balance Pension Plan]
 created: 2021-03-02T18:46:51 (UTC +11:00)
-tags: [Cash Balance [[Pension Plan]] Definition, Cash Balance Pension Plan]
+tags: [Cash Balance Pension Plan Definition, Cash Balance Pension Plan]
 source: https://www.investopedia.com/terms/c/cashbalancepensionplan.asp
 author: Julia Kagan
 ---

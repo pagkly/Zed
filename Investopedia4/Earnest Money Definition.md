@@ -1,7 +1,7 @@
 ---
 alias: [Earnest Money]
 created: 2021-03-02T19:29:08 (UTC +11:00)
-tags: [Earnest [[Money Definition]], Earnest Money Definition]
+tags: [Earnest Money Definition, Earnest Money Definition]
 source: https://www.investopedia.com/terms/e/earnest-money.asp
 author: James Chen
 ---

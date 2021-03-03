@@ -1,7 +1,7 @@
 ---
 alias: [Hubbert Curve]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [Hubbert Curve Definition, [[What Does Hubbert Curve Mean]]?]
+tags: [Hubbert Curve Definition, What Does Hubbert Curve Mean?]
 source: https://www.investopedia.com/terms/h/hubbert-curve.asp
 author: Jason Fernando
 ---

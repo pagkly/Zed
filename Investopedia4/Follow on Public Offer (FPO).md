@@ -1,7 +1,7 @@
 ---
 alias: [Follow on Public [[Offer]], FPO]
 created: 2021-03-02T20:01:17 (UTC +11:00)
-tags: [Follow on Public [[Offer]] (FPO) Definition, Follow on Public Offer (FPO)]
+tags: [Follow on Public Offer (FPO) Definition, Follow on Public Offer (FPO)]
 source: https://www.investopedia.com/terms/f/fpo.asp
 author: Julia Kagan
 ---

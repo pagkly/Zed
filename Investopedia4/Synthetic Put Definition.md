@@ -1,7 +1,7 @@
 ---
 alias: [Synthetic Put]
 created: 2021-03-02T21:25:56 (UTC +11:00)
-tags: [Synthetic Put Definition, [[Synthetic]] Put Definition]
+tags: [Synthetic Put Definition, Synthetic Put Definition]
 source: https://www.investopedia.com/terms/l/longsynthetic.asp
 author: Akhilesh Ganti
 ---

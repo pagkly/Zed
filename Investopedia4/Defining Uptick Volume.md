@@ -1,7 +1,7 @@
 ---
 alias: [Uptick Volume]
 created: 2021-03-03T00:30:12 (UTC +11:00)
-tags: [Uptick [[Volume Definition]], Defining Uptick Volume]
+tags: [Uptick Volume Definition, Defining Uptick Volume]
 source: https://www.investopedia.com/terms/u/uptickvolume.asp
 author: James Chen
 ---

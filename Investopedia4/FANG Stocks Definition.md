@@ -1,7 +1,7 @@
 ---
 alias: [FANG Stocks]
 created: 2021-03-02T19:52:35 (UTC +11:00)
-tags: [FANG [[Stocks]] Definition, FANG Stocks Definition]
+tags: [FANG Stocks Definition, FANG Stocks Definition]
 source: https://www.investopedia.com/terms/f/fang-[[Stocks|stocks]]-fb-amzn.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Kicker Pattern]
 created: 2021-03-02T21:07:18 (UTC +11:00)
-tags: [Kicker Pattern Definition, [[Kicker]] Pattern]
+tags: [Kicker Pattern Definition, Kicker Pattern]
 source: https://www.investopedia.com/terms/k/kickerpattern.asp
 author: Caroline Banton
 ---

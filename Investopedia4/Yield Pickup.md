@@ -1,7 +1,7 @@
 ---
 alias: [Yield Pickup]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Pickup, [[Yield]] Pickup]
+tags: [Yield Pickup, Yield Pickup]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldpickup.asp
 author: James Chen
 ---

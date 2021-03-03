@@ -1,7 +1,7 @@
 ---
 alias: [Wet Loan]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [Wet [[Loan]] Definition, Wet Loan]
+tags: [Wet Loan Definition, Wet Loan]
 source: https://www.investopedia.com/terms/w/wet_loan.asp
 author: Julia Kagan
 ---

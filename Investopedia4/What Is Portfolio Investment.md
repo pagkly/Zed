@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Investment]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Investment Definition, [[What Is Portfolio Investment]]?]
+tags: [Portfolio Investment Definition, What Is Portfolio Investment?]
 source: https://www.investopedia.com/terms/p/[[Portfolio|portfolio]]-investment.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [What Is Value?]
 created: 2021-03-03T00:32:20 (UTC +11:00)
-tags: [What Is Value?, [[What Is Value]]?]
+tags: [What Is Value?, What Is Value?]
 source: https://www.investopedia.com/terms/v/value.asp
 author: [[Will]] Kenton
 ---

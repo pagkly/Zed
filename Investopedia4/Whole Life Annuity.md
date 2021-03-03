@@ -1,7 +1,7 @@
 ---
 alias: [Whole Life Annuity]
 created: 2021-03-03T00:54:56 (UTC +11:00)
-tags: [Whole [[Life Annuity]] Definition, Whole Life Annuity]
+tags: [Whole Life Annuity Definition, Whole Life Annuity]
 source: https://www.investopedia.com/terms/w/whole-life-annuity.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Yield Tilt Index Fund]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Tilt Index Fund, [[Yield]] Tilt Index Fund]
+tags: [Yield Tilt Index Fund, Yield Tilt Index Fund]
 source: https://www.investopedia.com/terms/[[Y|y]]/yield_tilt_index_fund.asp
 author: Chris B Murphy
 ---

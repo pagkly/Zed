@@ -1,7 +1,7 @@
 ---
 alias: [Estate Planning]
 created: 2021-03-02T19:42:14 (UTC +11:00)
-tags: [Estate Planning Definition, [[Estate]] Planning]
+tags: [Estate Planning Definition, Estate Planning]
 source: https://www.investopedia.com/terms/e/estateplanning.asp
 author: Julia Kagan
 ---

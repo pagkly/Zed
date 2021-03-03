@@ -1,7 +1,7 @@
 ---
 alias: [Look-Alike Contracts]
 created: 2021-03-02T21:28:00 (UTC +11:00)
-tags: [Look-Alike Contracts Definition, [[What Are Look-Alike Contracts]]?]
+tags: [Look-Alike Contracts Definition, What Are Look-Alike Contracts?]
 source: https://www.investopedia.com/terms/l/look-alike-contracts.asp
 author: James Chen
 ---

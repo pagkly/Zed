@@ -1,7 +1,7 @@
 ---
 alias: [Local Tax]
 created: 2021-03-02T21:25:54 (UTC +11:00)
-tags: [Local Tax Definition, [[What Is a Local Tax]]?]
+tags: [Local Tax Definition, What Is a Local Tax?]
 source: https://www.investopedia.com/terms/l/localtax.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [January Barometer]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [January Barometer Definition, [[What Does January Barometer Mean]]?]
+tags: [January Barometer Definition, What Does January Barometer Mean?]
 source: https://www.investopedia.com/terms/j/januarybarometer.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Ex-Dividend]
 created: 2021-03-02T19:44:18 (UTC +11:00)
-tags: [Ex-[[Dividend Definition]], Ex-Dividend Definition]
+tags: [Ex-Dividend Definition, Ex-Dividend Definition]
 source: https://www.investopedia.com/terms/e/ex-dividend.asp
 author: James Chen
 ---

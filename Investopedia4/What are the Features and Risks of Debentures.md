@@ -1,7 +1,7 @@
 ---
 alias: [Debenture]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debenture Definition, [[What are the Features and Risks of Debentures]]?]
+tags: [Debenture Definition, What are the Features and Risks of Debentures?]
 source: https://www.investopedia.com/terms/d/debenture.asp
 author: James Chen
 ---

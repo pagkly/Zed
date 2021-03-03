@@ -1,7 +1,7 @@
 ---
 alias: [Realization Multiple]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Realization [[Multiple Definition]], Realization Multiple]
+tags: [Realization Multiple Definition, Realization Multiple]
 source: https://www.investopedia.com/terms/r/realization_multiple.asp
 author: James Chen
 ---

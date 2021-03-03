@@ -1,7 +1,7 @@
 ---
 alias: [Residual Dividend]
 created: 2021-03-02T23:18:54 (UTC +11:00)
-tags: [Residual [[Dividend Definition]], Residual Dividend]
+tags: [Residual Dividend Definition, Residual Dividend]
 source: https://www.investopedia.com/terms/r/residual-dividend.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Mortality Assumption]
 created: 2021-03-03T00:17:15 (UTC +11:00)
-tags: [Underlying Mortality Assumption, [[Underlying]] Mortality Assumption]
+tags: [Underlying Mortality Assumption, Underlying Mortality Assumption]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-mortality-assumption.asp
 author: Lucas Downey
 ---

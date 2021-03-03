@@ -1,7 +1,7 @@
 ---
 alias: [Gas, Ethereum]
 created: 2021-03-02T20:14:38 (UTC +11:00)
-tags: [Gas ([[Ethereum]]) Definition, Gas (Ethereum)]
+tags: [Gas (Ethereum) Definition, Gas (Ethereum)]
 source: https://www.investopedia.com/terms/g/gas-[[Ethereum|ethereum]].asp
 author: Jake Frankenfield
 ---

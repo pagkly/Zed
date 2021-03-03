@@ -1,7 +1,7 @@
 ---
 alias: [Risk Analysis]
 created: 2021-03-02T23:25:40 (UTC +11:00)
-tags: [Risk Analysis Definition, How [[Risk]] Analysis Works]
+tags: [Risk Analysis Definition, How Risk Analysis Works]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-analysis.asp
 author: Adam Hayes
 ---

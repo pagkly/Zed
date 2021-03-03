@@ -1,7 +1,7 @@
 ---
 alias: [Loan Application Fee]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Application Fee Definition, [[Loan]] Application Fee Definition]
+tags: [Loan Application Fee Definition, Loan Application Fee Definition]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-application-fee.asp
 author: Julia Kagan
 ---

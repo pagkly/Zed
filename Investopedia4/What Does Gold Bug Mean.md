@@ -1,7 +1,7 @@
 ---
 alias: [Gold Bug Defined]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Gold Bug Defined, [[What Does Gold Bug Mean]]?]
+tags: [Gold Bug Defined, What Does Gold Bug Mean?]
 source: https://www.investopedia.com/terms/g/goldbug.asp
 author: Jason Fernando
 ---

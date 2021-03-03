@@ -1,7 +1,7 @@
 ---
 alias: [Underlying Asset]
 created: 2021-03-03T00:17:15 (UTC +11:00)
-tags: [Underlying Asset Definition, [[Underlying]] Asset Definition]
+tags: [Underlying Asset Definition, Underlying Asset Definition]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]]-asset.asp
 author: James Chen
 ---

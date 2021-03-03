@@ -1,7 +1,7 @@
 ---
 alias: [Degree of Financial [[Leverage]] – DFL]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Degree of Financial [[Leverage]] – DFL Definition, Reading the Degree of Financial Leverage]
+tags: [Degree of Financial Leverage – DFL Definition, Reading the Degree of Financial Leverage]
 source: https://www.investopedia.com/terms/d/dfl.asp
 author: Adam Hayes
 ---

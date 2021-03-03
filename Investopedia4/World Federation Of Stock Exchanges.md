@@ -1,7 +1,7 @@
 ---
 alias: [World Federation Of [[Stock]] Exchanges]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [World Federation Of [[Stock]] Exchanges, World Federation Of Stock Exchanges]
+tags: [World Federation Of Stock Exchanges, World Federation Of Stock Exchanges]
 source: https://www.investopedia.com/terms/w/world_federation_of_exchanges.asp
 author: Chris B Murphy
 ---

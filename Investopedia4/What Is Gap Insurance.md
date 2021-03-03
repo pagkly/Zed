@@ -1,7 +1,7 @@
 ---
 alias: [What Is Gap Insurance?]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [What Is Gap Insurance?, [[What Is Gap Insurance]]?]
+tags: [What Is Gap Insurance?, What Is Gap Insurance?]
 source: https://www.investopedia.com/terms/g/gapinsurance.asp
 author: Julia Kagan
 ---

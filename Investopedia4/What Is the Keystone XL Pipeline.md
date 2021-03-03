@@ -1,7 +1,7 @@
 ---
 alias: [Keystone XL Pipeline]
 created: 2021-03-02T21:07:17 (UTC +11:00)
-tags: [Keystone XL Pipeline Definition, [[What Is the Keystone XL Pipeline]]?]
+tags: [Keystone XL Pipeline Definition, What Is the Keystone XL Pipeline?]
 source: https://www.investopedia.com/terms/k/keystone-xl-pipeline.asp
 author: James Chen
 ---

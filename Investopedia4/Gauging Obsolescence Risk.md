@@ -1,7 +1,7 @@
 ---
 alias: [Obsolescence Risk]
 created: 2021-03-02T22:13:51 (UTC +11:00)
-tags: [Obsolescence [[Risk]] Definition, Gauging Obsolescence Risk]
+tags: [Obsolescence Risk Definition, Gauging Obsolescence Risk]
 source: https://www.investopedia.com/terms/o/obsolescencerisk.asp
 author: Marshall Hargrave
 ---

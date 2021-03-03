@@ -1,7 +1,7 @@
 ---
 alias: [Long Straddle]
 created: 2021-03-02T21:25:56 (UTC +11:00)
-tags: [Long [[Straddle Definition]], Long Straddle Definition]
+tags: [Long Straddle Definition, Long Straddle Definition]
 source: https://www.investopedia.com/terms/l/longstraddle.asp
 author: Gordon Scott
 ---

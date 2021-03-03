@@ -1,7 +1,7 @@
 ---
 alias: [Marxian Economics]
 created: 2021-03-02T22:01:10 (UTC +11:00)
-tags: [Marxian [[Economics]] Definition, Marxian Economics Definition]
+tags: [Marxian Economics Definition, Marxian Economics Definition]
 source: https://www.investopedia.com/terms/m/marxian-[[Economics|economics]].asp
 author: Daniel Liberto
 ---

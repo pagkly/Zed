@@ -1,7 +1,7 @@
 ---
 alias: [Hazard Insurance]
 created: 2021-03-02T20:39:10 (UTC +11:00)
-tags: [Hazard Insurance Definition, [[What Is Hazard Insurance]]?]
+tags: [Hazard Insurance Definition, What Is Hazard Insurance?]
 source: https://www.investopedia.com/terms/h/hazardinsurance.asp
 author: Troy Segal
 ---

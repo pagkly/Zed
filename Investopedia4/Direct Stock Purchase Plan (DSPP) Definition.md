@@ -1,7 +1,7 @@
 ---
 alias: [Direct [[Stock]] Purchase Plan, DSPP]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Direct [[Stock]] Purchase Plan (DSPP) Definition, Direct Stock Purchase Plan (DSPP) Definition]
+tags: [Direct Stock Purchase Plan (DSPP) Definition, Direct Stock Purchase Plan (DSPP) Definition]
 source: https://www.investopedia.com/terms/d/directstockpurchaseplan.asp
 author: Gordon Scott
 ---

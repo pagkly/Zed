@@ -1,7 +1,7 @@
 ---
 alias: [Golden Share]
 created: 2021-03-02T20:20:51 (UTC +11:00)
-tags: [Golden Share Definition, [[What Makes a Golden Share]]?]
+tags: [Golden Share Definition, What Makes a Golden Share?]
 source: https://www.investopedia.com/terms/g/goldenshare.asp
 author: Rajeev Dhir
 ---

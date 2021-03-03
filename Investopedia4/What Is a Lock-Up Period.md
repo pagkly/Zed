@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Lock-Up Period?]
 created: 2021-03-02T21:25:55 (UTC +11:00)
-tags: [What Is a Lock-Up Period?, [[What Is a Lock-Up Period]]?]
+tags: [What Is a Lock-Up Period?, What Is a Lock-Up Period?]
 source: https://www.investopedia.com/terms/l/lockup-period.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Risk Tolerance]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Risk Tolerance Definition, [[What Is Risk Tolerance]]?]
+tags: [Risk Tolerance Definition, What Is Risk Tolerance?]
 source: https://www.investopedia.com/terms/r/risktolerance.asp
 author: Alexandra Twin
 ---

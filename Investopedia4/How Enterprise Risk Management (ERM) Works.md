@@ -1,7 +1,7 @@
 ---
 alias: [Enterprise [[Risk]] Management, ERM]
 created: 2021-03-02T19:39:54 (UTC +11:00)
-tags: [Enterprise [[Risk]] Management (ERM) Definition, How Enterprise Risk Management (ERM) Works]
+tags: [Enterprise Risk Management (ERM) Definition, How Enterprise Risk Management (ERM) Works]
 source: https://www.investopedia.com/terms/e/enterprise-[[Risk|risk]]-management.asp
 author: [[Will]] Kenton
 ---

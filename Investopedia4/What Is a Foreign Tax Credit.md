@@ -1,7 +1,7 @@
 ---
 alias: [Foreign Tax Credit]
 created: 2021-03-02T20:03:23 (UTC +11:00)
-tags: [Foreign Tax Credit Definition, [[What Is a Foreign Tax Credit]]?]
+tags: [Foreign Tax Credit Definition, What Is a Foreign Tax Credit?]
 source: https://www.investopedia.com/terms/f/foreign-tax-credit.asp
 author: Julia Kagan
 ---

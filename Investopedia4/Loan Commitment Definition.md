@@ -1,7 +1,7 @@
 ---
 alias: [Loan Commitment]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Commitment Definition, [[Loan]] Commitment Definition]
+tags: [Loan Commitment Definition, Loan Commitment Definition]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-commitment.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Compensatory Damages]
 created: 2021-03-02T18:55:43 (UTC +11:00)
-tags: [Compensatory Damages Definition, [[What Are Compensatory Damages]]?]
+tags: [Compensatory Damages Definition, What Are Compensatory Damages?]
 source: https://www.investopedia.com/terms/c/compensatory-damages.asp
 author: Julia Kagan
 ---

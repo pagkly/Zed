@@ -1,7 +1,7 @@
 ---
 alias: [Futures Contract]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Futures Contract, [[Futures]] Contract Definition]
+tags: [Futures Contract, Futures Contract Definition]
 source: https://www.investopedia.com/terms/f/futurescontract.asp
 author: James Chen
 ---

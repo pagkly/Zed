@@ -1,7 +1,7 @@
 ---
 alias: [Operating Leverage]
 created: 2021-03-02T22:24:33 (UTC +11:00)
-tags: [Operating [[Leverage]] Definition, How Operating Leverage Works]
+tags: [Operating Leverage Definition, How Operating Leverage Works]
 source: https://www.investopedia.com/terms/o/operatingleverage.asp
 author: Adam Hayes
 ---

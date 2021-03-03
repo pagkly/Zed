@@ -1,7 +1,7 @@
 ---
 alias: [Unlevered Cost of Capital]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [Unlevered [[Cost of Capital]] Definition, Unlevered Cost of Capital Definition]
+tags: [Unlevered Cost of Capital Definition, Unlevered Cost of Capital Definition]
 source: https://www.investopedia.com/terms/u/unleveredcostofcapital.asp
 author: Alicia Tuovila
 ---

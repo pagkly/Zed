@@ -1,7 +1,7 @@
 ---
 alias: [New Keynesian Economics]
 created: 2021-03-02T21:41:50 (UTC +11:00)
-tags: [New [[Keynesian Economics Definition]], New Keynesian [[Economics]] Definition]
+tags: [New Keynesian Economics Definition, New Keynesian [[Economics]] Definition]
 source: https://www.investopedia.com/terms/n/new-keynesian-[[Economics|economics]].asp
 author: Daniel Liberto
 ---

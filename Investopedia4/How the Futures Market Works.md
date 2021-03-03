@@ -1,7 +1,7 @@
 ---
 alias: [Futures Market]
 created: 2021-03-02T20:12:35 (UTC +11:00)
-tags: [Futures Market Definition, How the [[Futures]] Market Works]
+tags: [Futures Market Definition, How the Futures Market Works]
 source: https://www.investopedia.com/terms/f/futuresmarket.asp
 author: Marshall Hargrave
 ---

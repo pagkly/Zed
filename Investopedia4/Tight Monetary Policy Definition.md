@@ -1,7 +1,7 @@
 ---
 alias: [Tight Monetary Policy]
 created: 2021-03-03T00:00:39 (UTC +11:00)
-tags: [Tight [[Monetary Policy Definition]], Tight Monetary Policy Definition]
+tags: [Tight Monetary Policy Definition, Tight Monetary Policy Definition]
 source: https://www.investopedia.com/terms/t/tightmonetarypolicy.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Growing-[[Equity]] Mortgage]
 created: 2021-03-02T20:30:11 (UTC +11:00)
-tags: [Growing-[[Equity]] Mortgage, Growing-Equity Mortgage Definition]
+tags: [Growing-Equity Mortgage, Growing-Equity Mortgage Definition]
 source: https://www.investopedia.com/terms/g/growing_equity_mortgage.asp
 author: Julia Kagan
 ---

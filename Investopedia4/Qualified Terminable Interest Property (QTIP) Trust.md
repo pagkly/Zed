@@ -1,7 +1,7 @@
 ---
 alias: [Qualified Terminable Interest Property (QTIP) Trust]
 created: 2021-03-02T23:01:00 (UTC +11:00)
-tags: [Qualified Terminable Interest Property (QTIP) [[Trust Definition]], Qualified Terminable Interest Property (QTIP) Trust]
+tags: [Qualified Terminable Interest Property (QTIP) Trust Definition, Qualified Terminable Interest Property (QTIP) Trust]
 source: https://www.investopedia.com/terms/q/qtip.asp
 author: Julia Kagan
 ---

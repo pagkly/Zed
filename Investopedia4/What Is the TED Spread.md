@@ -1,7 +1,7 @@
 ---
 alias: [TED Spread]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [TED Spread Definition, [[What Is the TED Spread]]?]
+tags: [TED Spread Definition, What Is the TED Spread?]
 source: https://www.investopedia.com/terms/t/tedspread.asp
 author: James Chen
 ---

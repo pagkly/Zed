@@ -1,7 +1,7 @@
 ---
 alias: [Total Utility]
 created: 2021-03-03T00:04:43 (UTC +11:00)
-tags: [Total [[Utility Definition]], Total Utility Definition]
+tags: [Total Utility Definition, Total Utility Definition]
 source: https://www.investopedia.com/terms/t/totalutility.asp
 author: Akhilesh Ganti
 ---

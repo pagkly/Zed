@@ -1,7 +1,7 @@
 ---
 alias: [NOK – Norwegian Krone]
 created: 2021-03-02T21:50:23 (UTC +11:00)
-tags: [NOK – Norwegian Krone Definition, NOK – Norwegian Krone Is the [[National Currency]] of Norway]
+tags: [NOK – Norwegian Krone Definition, NOK – Norwegian Krone Is the National Currency of Norway]
 source: https://www.investopedia.com/terms/n/nok.asp
 author: James Chen
 ---

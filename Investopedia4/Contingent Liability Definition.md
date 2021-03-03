@@ -1,7 +1,7 @@
 ---
 alias: [Contingent Liability]
 created: 2021-03-02T18:58:08 (UTC +11:00)
-tags: [Contingent [[Liability]] Definition, Contingent Liability Definition]
+tags: [Contingent Liability Definition, Contingent Liability Definition]
 source: https://www.investopedia.com/terms/c/contingentliability.asp
 author: Caroline Banton
 ---

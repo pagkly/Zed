@@ -1,7 +1,7 @@
 ---
 alias: [Voluntary Compliance]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Voluntary Compliance Definition, [[What Is Voluntary Compliance]]?]
+tags: [Voluntary Compliance Definition, What Is Voluntary Compliance?]
 source: https://www.investopedia.com/terms/v/voluntarycompliance.asp
 author: Carol Kopp
 ---

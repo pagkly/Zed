@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Manager]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Manager, [[Portfolio]] Manager]
+tags: [Portfolio Manager, Portfolio Manager]
 source: https://www.investopedia.com/terms/p/portfoliomanager.asp
 author: James Chen
 ---

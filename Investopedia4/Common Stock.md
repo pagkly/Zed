@@ -1,7 +1,7 @@
 ---
 alias: [Common Stock]
 created: 2021-03-02T18:55:43 (UTC +11:00)
-tags: [Common [[Stock]] Definition, Common Stock]
+tags: [Common Stock Definition, Common Stock]
 source: https://www.investopedia.com/terms/c/commonstock.asp
 author: James Chen
 ---

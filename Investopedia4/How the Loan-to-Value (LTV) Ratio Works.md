@@ -1,7 +1,7 @@
 ---
 alias: [Loan-to-Value (LTV) Ratio]
 created: 2021-03-02T21:25:54 (UTC +11:00)
-tags: [Loan-to-Value (LTV) Ratio Definition, How the [[Loan]]-to-Value (LTV) Ratio Works]
+tags: [Loan-to-Value (LTV) Ratio Definition, How the Loan-to-Value (LTV) Ratio Works]
 source: https://www.investopedia.com/terms/l/loantovalue.asp
 author: Adam Hayes
 ---

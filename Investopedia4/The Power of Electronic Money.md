@@ -1,7 +1,7 @@
 ---
 alias: [Electronic Money]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Electronic [[Money Definition]], The Power of Electronic Money]
+tags: [Electronic Money Definition, The Power of Electronic Money]
 source: https://www.investopedia.com/terms/e/electronic-money.asp
 author: Andrew Bloomenthal
 ---

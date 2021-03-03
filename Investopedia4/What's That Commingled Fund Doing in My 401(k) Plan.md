@@ -1,7 +1,7 @@
 ---
 alias: [Commingled Fund]
 created: 2021-03-02T18:53:38 (UTC +11:00)
-tags: [Commingled Fund Definition, [[What's That Commingled Fund Doing in My 401(k) Plan]]?]
+tags: [Commingled Fund Definition, What's That Commingled Fund Doing in My 401(k) Plan?]
 source: https://www.investopedia.com/terms/c/commingledfund.asp
 author: James Chen
 ---

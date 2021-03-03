@@ -1,7 +1,7 @@
 ---
 alias: [High Street Bank]
 created: 2021-03-02T20:43:24 (UTC +11:00)
-tags: [High Street Bank Definition, [[What Is a High Street Bank]]?]
+tags: [High Street Bank Definition, What Is a High Street Bank?]
 source: https://www.investopedia.com/terms/h/high-street-bank.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Cost of Debt]
 created: 2021-03-02T19:00:24 (UTC +11:00)
-tags: [Cost of [[Debt]], Cost of Debt]
+tags: [Cost of Debt, Cost of Debt]
 source: https://www.investopedia.com/terms/c/costofdebt.asp
 author: James Chen
 ---

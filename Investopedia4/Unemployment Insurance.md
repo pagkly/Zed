@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Insurance, UI]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Insurance (UI) Definition, [[Unemployment]] Insurance]
+tags: [Unemployment Insurance (UI) Definition, Unemployment Insurance]
 source: https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-insurance.asp
 author: Julia Kagan
 ---

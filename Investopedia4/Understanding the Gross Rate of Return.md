@@ -1,7 +1,7 @@
 ---
 alias: [Gross Rate of Return]
 created: 2021-03-02T20:30:09 (UTC +11:00)
-tags: [Gross Rate of [[Return]] Definition, Understanding the Gross Rate of Return]
+tags: [Gross Rate of Return Definition, Understanding the Gross Rate of Return]
 source: https://www.investopedia.com/terms/g/gross-rate-of-[[Return|return]].asp
 author: Adam Hayes
 ---

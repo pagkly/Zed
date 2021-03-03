@@ -1,7 +1,7 @@
 ---
 alias: [Home Mortgage]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Home [[Mortgage Definition]], Home Mortgage]
+tags: [Home Mortgage Definition, Home Mortgage]
 source: https://www.investopedia.com/terms/h/home-mortgage.asp
 author: Julia Kagan
 ---

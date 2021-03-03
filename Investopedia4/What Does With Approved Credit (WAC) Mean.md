@@ -1,7 +1,7 @@
 ---
 alias: [With Approved Credit (WAC) Defined]
 created: 2021-03-03T00:59:18 (UTC +11:00)
-tags: [With Approved Credit (WAC) Defined, [[What Does With Approved Credit (WAC) Mean]]?]
+tags: [With Approved Credit (WAC) Defined, What Does With Approved Credit (WAC) Mean?]
 source: https://www.investopedia.com/terms/w/withapprovedcredit.asp
 author: Jason Fernando
 ---

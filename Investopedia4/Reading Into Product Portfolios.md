@@ -1,7 +1,7 @@
 ---
 alias: [Product Portfolio]
 created: 2021-03-02T22:54:41 (UTC +11:00)
-tags: [Product [[Portfolio]] Definition, Reading Into Product Portfolios]
+tags: [Product Portfolio Definition, Reading Into Product Portfolios]
 source: https://www.investopedia.com/terms/p/product-[[Portfolio|portfolio]].asp
 author: James Chen
 ---

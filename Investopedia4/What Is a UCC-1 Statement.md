@@ -1,7 +1,7 @@
 ---
 alias: [What Is a UCC-1 Statement?]
 created: 2021-03-03T00:11:09 (UTC +11:00)
-tags: [What Is a UCC-1 Statement?, [[What Is a UCC-1 Statement]]?]
+tags: [What Is a UCC-1 Statement?, What Is a UCC-1 Statement?]
 source: https://www.investopedia.com/terms/u/ucc-1-statement.asp
 author: Andrew Bloomenthal
 ---

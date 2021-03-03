@@ -1,7 +1,7 @@
 ---
 alias: [Nominal Rate of Return]
 created: 2021-03-02T21:43:52 (UTC +11:00)
-tags: [Nominal Rate of [[Return]] Definition, How the Nominal Rate of Return Helps Track Investment Performance]
+tags: [Nominal Rate of Return Definition, How the Nominal Rate of Return Helps Track Investment Performance]
 source: https://www.investopedia.com/terms/n/nominal-rate-of-[[Return|return]].asp
 author: Chris B. Murphy
 ---

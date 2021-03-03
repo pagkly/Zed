@@ -1,7 +1,7 @@
 ---
 alias: [Child Tax Credit]
 created: 2021-03-02T18:51:36 (UTC +11:00)
-tags: [Child Tax Credit Definition, [[What Is the Child Tax Credit]]?]
+tags: [Child Tax Credit Definition, What Is the Child Tax Credit?]
 source: https://www.investopedia.com/terms/c/childtaxcredit.asp
 author: Julia Kagan
 ---

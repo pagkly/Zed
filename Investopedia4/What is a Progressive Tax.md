@@ -1,7 +1,7 @@
 ---
 alias: [Progressive Tax]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Progressive Tax Definition, [[What is a Progressive Tax]]?]
+tags: [Progressive Tax Definition, What is a Progressive Tax?]
 source: https://www.investopedia.com/terms/p/progressivetax.asp
 author: Julia Kagan
 ---

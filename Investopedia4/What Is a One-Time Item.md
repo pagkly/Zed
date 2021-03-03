@@ -1,7 +1,7 @@
 ---
 alias: [What Is a One-Time Item?]
 created: 2021-03-02T22:20:05 (UTC +11:00)
-tags: [What Is a One-Time Item?, [[What Is a One-Time Item]]?]
+tags: [What Is a One-Time Item?, What Is a One-Time Item?]
 source: https://www.investopedia.com/terms/o/one-time-item.asp
 author: [[Will]] Kenton
 ---

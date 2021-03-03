@@ -1,7 +1,7 @@
 ---
 alias: [Equity Swap]
 created: 2021-03-02T19:42:13 (UTC +11:00)
-tags: [Equity [[Swap]] Definition, [[Equity]] Swap]
+tags: [Equity Swap Definition, [[Equity]] Swap]
 source: https://www.investopedia.com/terms/e/equityswap.asp
 author: James Chen
 ---

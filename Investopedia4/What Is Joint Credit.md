@@ -1,7 +1,7 @@
 ---
 alias: [Joint Credit]
 created: 2021-03-02T21:00:34 (UTC +11:00)
-tags: [Joint Credit Definition, [[What Is Joint Credit]]?]
+tags: [Joint Credit Definition, What Is Joint Credit?]
 source: https://www.investopedia.com/terms/j/joint_credit.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Cross Elasticity of Demand]
 created: 2021-03-02T19:04:55 (UTC +11:00)
-tags: [Cross Elasticity of [[Demand Definition]], Understanding the Cross Elasticity of Demand]
+tags: [Cross Elasticity of Demand Definition, Understanding the Cross Elasticity of Demand]
 source: https://www.investopedia.com/terms/c/cross-elasticity-demand.asp
 author: Adam Hayes
 ---

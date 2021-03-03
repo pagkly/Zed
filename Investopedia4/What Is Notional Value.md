@@ -1,7 +1,7 @@
 ---
 alias: [Notional Value]
 created: 2021-03-02T21:52:27 (UTC +11:00)
-tags: [Notional Value Definition, [[What Is Notional Value]]?]
+tags: [Notional Value Definition, What Is Notional Value?]
 source: https://www.investopedia.com/terms/n/notionalvalue.asp
 author: Akhilesh Ganti
 ---

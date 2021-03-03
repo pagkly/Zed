@@ -1,7 +1,7 @@
 ---
 alias: [Options On Futures]
 created: 2021-03-02T22:26:40 (UTC +11:00)
-tags: [Options On [[Futures]] Definition, Options On Futures Definition]
+tags: [Options On Futures Definition, Options On Futures Definition]
 source: https://www.investopedia.com/terms/o/options-on-[[Futures|futures]].asp
 author: Gordon Scott
 ---

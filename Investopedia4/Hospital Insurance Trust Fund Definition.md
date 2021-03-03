@@ -1,7 +1,7 @@
 ---
 alias: [Hospital Insurance Trust Fund]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [Hospital Insurance [[Trust Fund Definition]], Hospital Insurance Trust Fund Definition]
+tags: [Hospital Insurance Trust Fund Definition, Hospital Insurance Trust Fund Definition]
 source: https://www.investopedia.com/terms/h/hospital-insurance-trust-fund.asp
 author: Julia Kagan
 ---

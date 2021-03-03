@@ -1,7 +1,7 @@
 ---
 alias: [Deduction]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Deduction Definition, [[What Is a Tax Deduction]]?]
+tags: [Deduction Definition, What Is a Tax Deduction?]
 source: https://www.investopedia.com/terms/d/deduction.asp
 author:  Staff Author
 ---

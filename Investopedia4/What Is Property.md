@@ -1,7 +1,7 @@
 ---
 alias: [What Is Property?]
 created: 2021-03-02T22:56:49 (UTC +11:00)
-tags: [What Is Property?, [[What Is Property]]?]
+tags: [What Is Property?, What Is Property?]
 source: https://www.investopedia.com/terms/p/property.asp
 author: Andrew Bloomenthal
 ---

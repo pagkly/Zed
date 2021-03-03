@@ -1,7 +1,7 @@
 ---
 alias: [Floating Rate Fund]
 created: 2021-03-02T20:01:16 (UTC +11:00)
-tags: [Floating Rate Fund Definition, How Floating Rate Funds Can [[Offer]] Yields in a Rising Rate Market]
+tags: [Floating Rate Fund Definition, How Floating Rate Funds Can Offer Yields in a Rising Rate Market]
 source: https://www.investopedia.com/terms/f/floating-rate-fund.asp
 author: Chris B. Murphy
 ---

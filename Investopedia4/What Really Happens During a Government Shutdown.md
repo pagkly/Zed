@@ -1,7 +1,7 @@
 ---
 alias: [Government Shutdown]
 created: 2021-03-02T20:23:13 (UTC +11:00)
-tags: [Government Shutdown Definition, [[What Really Happens During a Government Shutdown]]?]
+tags: [Government Shutdown Definition, What Really Happens During a Government Shutdown?]
 source: https://www.investopedia.com/terms/g/government-shutdown.asp
 author: Maya E. Dollarhide
 ---

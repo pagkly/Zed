@@ -1,7 +1,7 @@
 ---
 alias: [Rule of 78]
 created: 2021-03-02T23:27:50 (UTC +11:00)
-tags: [Rule of 78 Definition, When the Rule of 78 Favors the [[Lender]] Over the Borrower]
+tags: [Rule of 78 Definition, When the Rule of 78 Favors the Lender Over the Borrower]
 source: https://www.investopedia.com/terms/r/ruleof78.asp
 author: Caroline Banton
 ---

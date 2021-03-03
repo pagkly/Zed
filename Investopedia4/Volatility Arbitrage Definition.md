@@ -1,7 +1,7 @@
 ---
 alias: [Volatility Arbitrage]
 created: 2021-03-03T00:42:28 (UTC +11:00)
-tags: [Volatility Arbitrage Definition, [[Volatility]] Arbitrage Definition]
+tags: [Volatility Arbitrage Definition, Volatility Arbitrage Definition]
 source: https://www.investopedia.com/terms/v/[[Volatility|volatility]]-arbitrage.asp
 author: Lucas Downey
 ---

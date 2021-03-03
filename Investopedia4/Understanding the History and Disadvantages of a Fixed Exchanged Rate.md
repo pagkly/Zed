@@ -1,7 +1,7 @@
 ---
 alias: [Fixed Exchange Rate]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Fixed [[Exchange Rate Definition]], Understanding the History and Disadvantages of a Fixed Exchanged Rate]
+tags: [Fixed Exchange Rate Definition, Understanding the History and Disadvantages of a Fixed Exchanged Rate]
 source: https://www.investopedia.com/terms/f/fixedexchangerate.asp
 author: Christina Majaski
 ---

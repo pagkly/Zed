@@ -1,7 +1,7 @@
 ---
 alias: [Foreign Exchange Risk]
 created: 2021-03-02T20:03:22 (UTC +11:00)
-tags: [Foreign Exchange [[Risk]] Definition, Foreign Exchange Risk Definition]
+tags: [Foreign Exchange Risk Definition, Foreign Exchange Risk Definition]
 source: https://www.investopedia.com/terms/f/foreignexchangerisk.asp
 author: Akhilesh Ganti
 ---

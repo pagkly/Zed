@@ -1,7 +1,7 @@
 ---
 alias: [Deductible]
 created: 2021-03-02T19:11:29 (UTC +11:00)
-tags: [Deductible Definition, [[What Is a Deductible]]?]
+tags: [Deductible Definition, What Is a Deductible?]
 source: https://www.investopedia.com/terms/d/deductible.asp
 author: Julia Kagan
 ---

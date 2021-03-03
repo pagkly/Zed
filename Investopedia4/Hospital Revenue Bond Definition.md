@@ -1,7 +1,7 @@
 ---
 alias: [Hospital Revenue Bond]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [Hospital [[Revenue Bond]] Definition, Hospital Revenue Bond Definition]
+tags: [Hospital Revenue Bond Definition, Hospital Revenue Bond Definition]
 source: https://www.investopedia.com/terms/h/hospital-revenue-bond.asp
 author: James Chen
 ---

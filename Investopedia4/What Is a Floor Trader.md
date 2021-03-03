@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Floor Trader?]
 created: 2021-03-02T20:01:17 (UTC +11:00)
-tags: [What Is a Floor Trader?, [[What Is a Floor Trader]]?]
+tags: [What Is a Floor Trader?, What Is a Floor Trader?]
 source: https://www.investopedia.com/terms/f/floortrader.asp
 author: James Chen
 ---

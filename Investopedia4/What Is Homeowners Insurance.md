@@ -1,7 +1,7 @@
 ---
 alias: [Homeowners Insurance]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Homeowners Insurance Definition, [[What Is Homeowners Insurance]]?]
+tags: [Homeowners Insurance Definition, What Is Homeowners Insurance?]
 source: https://www.investopedia.com/terms/h/homeowners-insurance.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [MSCI All Country World Index, ACWI]
 created: 2021-03-02T22:11:44 (UTC +11:00)
-tags: [MSCI All Country World Index (ACWI) Definition, [[MSCI]] All Country World Index (ACWI) Definition]
+tags: [MSCI All Country World Index (ACWI) Definition, MSCI All Country World Index (ACWI) Definition]
 source: https://www.investopedia.com/terms/m/[[MSCI|msci]]-acwi.asp
 author: Cory Mitchell
 ---

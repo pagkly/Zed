@@ -1,7 +1,7 @@
 ---
 alias: [Equity Co-Investment]
 created: 2021-03-02T19:39:55 (UTC +11:00)
-tags: [Equity Co-Investment, [[Equity]] Co-Investment Definition]
+tags: [Equity Co-Investment, Equity Co-Investment Definition]
 source: https://www.investopedia.com/terms/e/[[Equity|equity]]-coinvestment.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Short Sale, Real Estate]
 created: 2021-03-02T23:09:58 (UTC +11:00)
-tags: [Short Sale (Real [[Estate]]) Definition, How a Real Estate Short Sale Works]
+tags: [Short Sale (Real Estate) Definition, How a Real Estate Short Sale Works]
 source: https://www.investopedia.com/terms/r/real-[[Estate|estate]]-short-sale.asp
 author: James Chen
 ---

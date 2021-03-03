@@ -1,7 +1,7 @@
 ---
 alias: [Misrepresentation]
 created: 2021-03-02T22:05:24 (UTC +11:00)
-tags: [Misrepresentation Definition, [[What Is a Misrepresentation]]?]
+tags: [Misrepresentation Definition, What Is a Misrepresentation?]
 source: https://www.investopedia.com/terms/m/misrepresentation.asp
 author: Adam Hayes
 ---

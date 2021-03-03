@@ -1,7 +1,7 @@
 ---
 alias: [Short-Term Debt]
 created: 2021-03-02T23:36:36 (UTC +11:00)
-tags: [Short-Term [[Debt]] Definition, Short-Term Debt Definition]
+tags: [Short-Term Debt Definition, Short-Term Debt Definition]
 source: https://www.investopedia.com/terms/s/shorttermdebt.asp
 author: Akhilesh Ganti
 ---

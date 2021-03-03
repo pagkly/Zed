@@ -1,7 +1,7 @@
 ---
 alias: [Social Economics]
 created: 2021-03-02T23:39:01 (UTC +11:00)
-tags: [Social [[Economics]] Definition, How Social Economics Influences Your Future]
+tags: [Social Economics Definition, How Social Economics Influences Your Future]
 source: https://www.investopedia.com/terms/s/social-[[Economics|economics]].asp
 author: Evan Tarver
 ---

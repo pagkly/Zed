@@ -1,7 +1,7 @@
 ---
 alias: [Enterprise Multiple]
 created: 2021-03-02T19:39:53 (UTC +11:00)
-tags: [Enterprise [[Multiple Definition]], Enterprise Multiple]
+tags: [Enterprise Multiple Definition, Enterprise Multiple]
 source: https://www.investopedia.com/terms/e/ev-ebitda.asp
 author: Adam Hayes
 ---

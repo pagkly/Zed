@@ -1,7 +1,7 @@
 ---
 alias: [Systematic Sampling]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Systematic [[Sampling Definition]], The Ins and Outs of Systematic Sampling]
+tags: [Systematic Sampling Definition, The Ins and Outs of Systematic Sampling]
 source: https://www.investopedia.com/terms/s/systematic-sampling.asp
 author: Adam Hayes
 ---

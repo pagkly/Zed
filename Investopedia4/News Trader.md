@@ -1,7 +1,7 @@
 ---
 alias: [News Trader]
 created: 2021-03-02T21:43:51 (UTC +11:00)
-tags: [News [[Trader Definition]], News Trader]
+tags: [News Trader Definition, News Trader]
 source: https://www.investopedia.com/terms/n/news-trader.asp
 author: James Chen
 ---

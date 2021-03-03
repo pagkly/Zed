@@ -1,7 +1,7 @@
 ---
 alias: [What Was the Great Depression?]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [What Was the Great Depression?, [[What Was the Great Depression]]?]
+tags: [What Was the Great Depression?, What Was the Great Depression?]
 source: https://www.investopedia.com/terms/g/great_depression.asp
 author:  Troy Segal
 ---

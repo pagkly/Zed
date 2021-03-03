@@ -1,7 +1,7 @@
 ---
 alias: [Whartonite]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [Whartonite Definition, [[What Does Whartonite Mean]]?]
+tags: [Whartonite Definition, What Does Whartonite Mean?]
 source: https://www.investopedia.com/terms/w/whartonite.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Hulbert Rating]
 created: 2021-03-02T20:54:01 (UTC +11:00)
-tags: [Hulbert [[Rating]] Definition, Hulbert Rating]
+tags: [Hulbert Rating Definition, Hulbert Rating]
 source: https://www.investopedia.com/terms/h/hulbert-[[Rating|rating]].asp
 author: James Chen
 ---

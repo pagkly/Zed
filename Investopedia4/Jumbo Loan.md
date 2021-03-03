@@ -1,7 +1,7 @@
 ---
 alias: [Jumbo Loan]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Jumbo [[Loan]], Jumbo Loan]
+tags: [Jumbo Loan, Jumbo Loan]
 source: https://www.investopedia.com/terms/j/jumboloan.asp
 author: Investopedia
 ---

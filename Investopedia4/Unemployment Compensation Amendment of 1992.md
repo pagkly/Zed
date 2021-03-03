@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Compensation Amendment of 1992]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Compensation Amendment of 1992, [[Unemployment Compensation]] Amendment of 1992]
+tags: [Unemployment Compensation Amendment of 1992, Unemployment Compensation Amendment of 1992]
 source: https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-compensation-amendment-1992.asp
 author: Julia Kagan
 ---

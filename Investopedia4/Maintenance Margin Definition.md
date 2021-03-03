@@ -1,7 +1,7 @@
 ---
 alias: [Maintenance Margin]
 created: 2021-03-02T21:54:33 (UTC +11:00)
-tags: [Maintenance [[Margin Definition]], Maintenance Margin Definition]
+tags: [Maintenance Margin Definition, Maintenance Margin Definition]
 source: https://www.investopedia.com/terms/m/maintenancemargin.asp
 author: Julia Kagan
 ---

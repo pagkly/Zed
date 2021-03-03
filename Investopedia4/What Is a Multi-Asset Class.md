@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Multi-Asset Class?]
 created: 2021-03-02T22:11:44 (UTC +11:00)
-tags: [What Is a Multi-Asset Class?, [[What Is a Multi-Asset Class]]?]
+tags: [What Is a Multi-Asset Class?, What Is a Multi-Asset Class?]
 source: https://www.investopedia.com/terms/m/multiasset_class.asp
 author: James Chen
 ---

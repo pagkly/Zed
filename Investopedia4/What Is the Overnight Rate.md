@@ -1,7 +1,7 @@
 ---
 alias: [Overnight Rate]
 created: 2021-03-02T22:33:43 (UTC +11:00)
-tags: [Overnight Rate Definition, [[What Is the Overnight Rate]]?]
+tags: [Overnight Rate Definition, What Is the Overnight Rate?]
 source: https://www.investopedia.com/terms/o/overnightrate.asp
 author: James Chen
 ---

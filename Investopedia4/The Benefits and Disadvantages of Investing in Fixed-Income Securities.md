@@ -1,7 +1,7 @@
 ---
 alias: [Fixed-Income Security]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Fixed-Income [[Security]] Definition, The Benefits and Disadvantages of Investing in Fixed-Income Securities]
+tags: [Fixed-Income Security Definition, The Benefits and Disadvantages of Investing in Fixed-Income Securities]
 source: https://www.investopedia.com/terms/f/fixed-incomesecurity.asp
 author: Chris B. Murphy
 ---

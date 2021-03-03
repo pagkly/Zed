@@ -1,7 +1,7 @@
 ---
 alias: [Groupon Defined]
 created: 2021-03-02T20:30:10 (UTC +11:00)
-tags: [Groupon Defined, [[What Is Groupon]]?]
+tags: [Groupon Defined, What Is Groupon?]
 source: https://www.investopedia.com/terms/g/groupon.asp
 author: Julia Kagan
 ---

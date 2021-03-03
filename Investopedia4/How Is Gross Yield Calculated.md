@@ -1,7 +1,7 @@
 ---
 alias: [Gross Yield]
 created: 2021-03-02T20:30:10 (UTC +11:00)
-tags: [Gross [[Yield]] Definition, [[How Is Gross Yield Calculated]]?]
+tags: [Gross Yield Definition, [[How Is Gross Yield Calculated]]?]
 source: https://www.investopedia.com/terms/g/gross-[[Yield|yield]].asp
 author: James Chen
 ---

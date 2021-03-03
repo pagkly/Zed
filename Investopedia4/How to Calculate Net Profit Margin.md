@@ -1,7 +1,7 @@
 ---
 alias: [Net Profit Margin]
 created: 2021-03-02T21:41:49 (UTC +11:00)
-tags: [Net Profit [[Margin Definition]], How to Calculate Net Profit Margin]
+tags: [Net Profit Margin Definition, How to Calculate Net Profit Margin]
 source: https://www.investopedia.com/terms/n/net_margin.asp
 author: Chris B. Murphy
 ---

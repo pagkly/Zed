@@ -1,7 +1,7 @@
 ---
 alias: [Nonconforming Mortgage]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Nonconforming [[Mortgage Definition]], Nonconforming Mortgage]
+tags: [Nonconforming Mortgage Definition, Nonconforming Mortgage]
 source: https://www.investopedia.com/terms/n/non_conforming.asp
 author: Julia Kagan
 ---

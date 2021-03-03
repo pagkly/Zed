@@ -1,7 +1,7 @@
 ---
 alias: [Unrecorded Deed]
 created: 2021-03-03T00:25:52 (UTC +11:00)
-tags: [Unrecorded [[Deed Definition]], Unrecorded Deed Definition]
+tags: [Unrecorded Deed Definition, Unrecorded Deed Definition]
 source: https://www.investopedia.com/terms/u/unrecorded-deed.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Unearned Premium]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unearned [[Premium]] Definition, Unearned Premium]
+tags: [Unearned Premium Definition, Unearned Premium]
 source: https://www.investopedia.com/terms/u/unearned-[[Premium|premium]].asp
 author: Adam Hayes
 ---

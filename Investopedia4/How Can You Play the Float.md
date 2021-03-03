@@ -1,7 +1,7 @@
 ---
 alias: [Float]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [Float Definition, [[How Can You Play the Float]]?]
+tags: [Float Definition, How Can You Play the Float?]
 source: https://www.investopedia.com/terms/f/float.asp
 author: Troy Segal
 ---

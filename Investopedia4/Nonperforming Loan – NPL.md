@@ -1,7 +1,7 @@
 ---
 alias: [Nonperforming [[Loan]] – NPL –]
 created: 2021-03-02T21:50:23 (UTC +11:00)
-tags: [Nonperforming [[Loan]] – NPL – Definition, Nonperforming Loan – NPL]
+tags: [Nonperforming Loan – NPL – Definition, Nonperforming Loan – NPL]
 source: https://www.investopedia.com/terms/n/nonperformingloan.asp
 author: Troy Segal
 ---

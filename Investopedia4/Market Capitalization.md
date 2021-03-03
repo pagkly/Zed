@@ -1,7 +1,7 @@
 ---
 alias: [Market Capitalization]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Market [[Capitalization Definition]], Market Capitalization]
+tags: [Market Capitalization Definition, Market Capitalization]
 source: https://www.investopedia.com/terms/m/marketcapitalization.asp
 author: Jason Fernando
 ---

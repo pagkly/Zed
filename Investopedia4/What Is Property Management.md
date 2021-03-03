@@ -1,7 +1,7 @@
 ---
 alias: [Property Management]
 created: 2021-03-02T22:56:49 (UTC +11:00)
-tags: [Property Management Definition, [[What Is Property Management]]?]
+tags: [Property Management Definition, What Is Property Management?]
 source: https://www.investopedia.com/terms/p/property-management.asp
 author:  Staff Author
 ---

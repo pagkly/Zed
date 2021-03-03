@@ -1,7 +1,7 @@
 ---
 alias: [Z Tranche]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Z Tranche Definition, [[Z]] Tranche Definition]
+tags: [Z Tranche Definition, Z Tranche Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/ztranche.asp
 author: Daniel Liberto
 ---

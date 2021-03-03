@@ -1,7 +1,7 @@
 ---
 alias: [Unitized [[Endowment]] Pool, UEP]
 created: 2021-03-03T00:23:30 (UTC +11:00)
-tags: [Unitized [[Endowment]] Pool (UEP) Definition, Unitized Endowment Pool (UEP)]
+tags: [Unitized Endowment Pool (UEP) Definition, Unitized Endowment Pool (UEP)]
 source: https://www.investopedia.com/terms/u/unitized-[[Endowment|endowment]]-pool.asp
 author: James Chen
 ---

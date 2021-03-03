@@ -1,7 +1,7 @@
 ---
 alias: [Open Order]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Open [[Order Definition]], Open Order Definition]
+tags: [Open Order Definition, Open Order Definition]
 source: https://www.investopedia.com/terms/o/openorder.asp
 author: Akhilesh Ganti
 ---

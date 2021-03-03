@@ -1,7 +1,7 @@
 ---
 alias: [What is the Agg or Bloomberg Barclays Aggregate Bond Index?]
 created: 2021-03-02T21:13:31 (UTC +11:00)
-tags: [What is the Agg or Bloomberg Barclays Aggregate Bond Index?, [[What is the Agg]]?]
+tags: [What is the Agg or Bloomberg Barclays Aggregate Bond Index?, What is the Agg?]
 source: https://www.investopedia.com/terms/l/lehmanaggregatebondindex.asp
 author: James Chen
 ---

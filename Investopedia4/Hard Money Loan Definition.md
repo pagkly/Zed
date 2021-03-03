@@ -1,7 +1,7 @@
 ---
 alias: [Hard Money Loan]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Hard Money [[Loan]] Definition, Hard Money Loan Definition]
+tags: [Hard Money Loan Definition, Hard Money Loan Definition]
 source: https://www.investopedia.com/terms/h/hard_money_loan.asp
 author: Troy Segal
 ---

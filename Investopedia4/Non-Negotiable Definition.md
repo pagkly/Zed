@@ -1,7 +1,7 @@
 ---
 alias: [Non-Negotiable]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-[[Negotiable Definition]], Non-Negotiable Definition]
+tags: [Non-Negotiable Definition, Non-Negotiable Definition]
 source: https://www.investopedia.com/terms/n/nonnegotiable.asp
 author: Daniel Liberto
 ---

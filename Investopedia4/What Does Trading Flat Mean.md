@@ -1,7 +1,7 @@
 ---
 alias: [What Does Trading Flat Mean?]
 created: 2021-03-02T19:59:11 (UTC +11:00)
-tags: [What Does Trading Flat Mean?, [[What Does Trading Flat Mean]]?]
+tags: [What Does Trading Flat Mean?, What Does Trading Flat Mean?]
 source: https://www.investopedia.com/terms/f/flat.asp
 author: [[Will]] Kenton
 ---

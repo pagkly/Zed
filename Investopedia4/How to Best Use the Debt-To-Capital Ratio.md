@@ -1,7 +1,7 @@
 ---
 alias: [Debt-To-Capital Ratio]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt-To-Capital Ratio Definition, How to Best Use the [[Debt]]-To-Capital Ratio]
+tags: [Debt-To-Capital Ratio Definition, How to Best Use the Debt-To-Capital Ratio]
 source: https://www.investopedia.com/terms/d/[[Debt|debt]]-to-capitalratio.asp
 author: Marshall Hargrave
 ---

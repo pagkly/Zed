@@ -1,7 +1,7 @@
 ---
 alias: [Endogenous Growth Theory]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Endogenous Growth Theory Definition, [[What Is Endogenous Growth Theory]]?]
+tags: [Endogenous Growth Theory Definition, What Is Endogenous Growth Theory?]
 source: https://www.investopedia.com/terms/e/endogenousgrowththeory.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Robo-Advisor?]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [What Is a Robo-Advisor?, [[What Is a Robo-Advisor]]?]
+tags: [What Is a Robo-Advisor?, What Is a Robo-Advisor?]
 source: https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
 author: Jake Frankenfield
 ---

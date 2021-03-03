@@ -1,7 +1,7 @@
 ---
 alias: [Litecoin Mining]
 created: 2021-03-02T21:23:48 (UTC +11:00)
-tags: [Litecoin [[Mining]], Litecoin Mining]
+tags: [Litecoin Mining, Litecoin Mining]
 source: https://www.investopedia.com/terms/l/litecoin-[[Mining|mining]].asp
 author: Jake Frankenfield
 ---

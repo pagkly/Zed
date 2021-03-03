@@ -1,7 +1,7 @@
 ---
 alias: [Dividend Aristocrat]
 created: 2021-03-02T19:24:41 (UTC +11:00)
-tags: [Dividend Aristocrat Definition, [[What Is a Dividend Aristocrat]]?]
+tags: [Dividend Aristocrat Definition, What Is a Dividend Aristocrat?]
 source: https://www.investopedia.com/terms/d/dividend-aristocrat.asp
 author: James Chen
 ---

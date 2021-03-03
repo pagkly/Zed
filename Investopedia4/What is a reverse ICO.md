@@ -1,7 +1,7 @@
 ---
 alias: [Reverse ICO]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Reverse ICO Definition, [[What is a reverse ICO]]?]
+tags: [Reverse ICO Definition, What is a reverse ICO?]
 source: https://www.investopedia.com/terms/r/reverse-ico.asp
 author: Jake Frankenfield
 ---

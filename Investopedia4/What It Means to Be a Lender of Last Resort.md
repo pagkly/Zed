@@ -1,7 +1,7 @@
 ---
 alias: [Lender of Last Resort]
 created: 2021-03-02T21:15:34 (UTC +11:00)
-tags: [Lender of Last Resort Definition, What It Means to Be a [[Lender]] of Last Resort]
+tags: [Lender of Last Resort Definition, What It Means to Be a Lender of Last Resort]
 source: https://www.investopedia.com/terms/l/lenderoflastresort.asp
 author: Adam Hayes
 ---

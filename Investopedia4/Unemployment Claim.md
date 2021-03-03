@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Claim]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Claim Definition, [[Unemployment]] Claim]
+tags: [Unemployment Claim Definition, Unemployment Claim]
 source: https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-claim.asp
 author: Julia Kagan
 ---

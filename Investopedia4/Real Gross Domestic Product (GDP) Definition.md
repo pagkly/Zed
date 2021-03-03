@@ -1,7 +1,7 @@
 ---
 alias: [Real Gross Domestic Product, GDP]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Real [[Gross Domestic Product (GDP)]] Definition, Real Gross Domestic Product (GDP) Definition]
+tags: [Real Gross Domestic Product (GDP) Definition, Real Gross Domestic Product (GDP) Definition]
 source: https://www.investopedia.com/terms/r/realgdp.asp
 author: Akhilesh Ganti
 ---

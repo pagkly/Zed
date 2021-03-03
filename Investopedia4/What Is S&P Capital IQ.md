@@ -1,7 +1,7 @@
 ---
 alias: [S&P Capital IQ]
 created: 2021-03-02T18:46:49 (UTC +11:00)
-tags: [S&P Capital IQ Definition, [[What Is S&P Capital IQ]]?]
+tags: [S&P Capital IQ Definition, What Is S&P Capital IQ?]
 source: https://www.investopedia.com/terms/c/capital-iq.asp
 author: James Chen
 ---

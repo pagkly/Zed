@@ -1,7 +1,7 @@
 ---
 alias: [Operational Risk]
 created: 2021-03-02T22:24:34 (UTC +11:00)
-tags: [Operational [[Risk]] Definition, Reading Into Operational Risk]
+tags: [Operational Risk Definition, Reading Into Operational Risk]
 source: https://www.investopedia.com/terms/o/operational_risk.asp
 author: Troy Segal
 ---

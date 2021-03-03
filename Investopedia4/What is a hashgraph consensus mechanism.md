@@ -1,7 +1,7 @@
 ---
 alias: [Hashgraph Consensus Mechanism]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Hashgraph Consensus Mechanism Definition, [[What is a hashgraph consensus mechanism]]?]
+tags: [Hashgraph Consensus Mechanism Definition, What is a hashgraph consensus mechanism?]
 source: https://www.investopedia.com/terms/h/hashgraph-consensus-mechanism.asp
 author:  Jake Frankenfeld
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Evergreen Loan]
 created: 2021-03-02T19:44:18 (UTC +11:00)
-tags: [Evergreen [[Loan]] Definition, Evergreen Loan Definition]
+tags: [Evergreen Loan Definition, Evergreen Loan Definition]
 source: https://www.investopedia.com/terms/e/evergreen-loans.asp
 author: Julia Kagan
 ---

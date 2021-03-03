@@ -1,7 +1,7 @@
 ---
 alias: [Negative Correlation]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Negative [[Correlation]] Definition, Negative Correlation Definition]
+tags: [Negative Correlation Definition, Negative Correlation Definition]
 source: https://www.investopedia.com/terms/n/negative-[[Correlation|correlation]].asp
 author: Elvis Picardo
 ---

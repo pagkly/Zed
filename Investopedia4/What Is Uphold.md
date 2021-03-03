@@ -1,7 +1,7 @@
 ---
 alias: [Uphold]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Uphold Definition, [[What Is Uphold]]?]
+tags: [Uphold Definition, What Is Uphold?]
 source: https://www.investopedia.com/terms/u/uphold.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Store Of Value]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Store Of Value Definition, [[What Is a Store Of Value]]?]
+tags: [Store Of Value Definition, What Is a Store Of Value?]
 source: https://www.investopedia.com/terms/s/storeofvalue.asp
 author: Lucas Downey
 ---

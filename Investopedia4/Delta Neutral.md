@@ -1,7 +1,7 @@
 ---
 alias: [Delta Neutral]
 created: 2021-03-02T19:15:54 (UTC +11:00)
-tags: [Delta [[Neutral]] Definition, Delta Neutral]
+tags: [Delta Neutral Definition, Delta Neutral]
 source: https://www.investopedia.com/terms/d/deltaneutral.asp
 author: James Chen
 ---

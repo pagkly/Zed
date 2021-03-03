@@ -1,7 +1,7 @@
 ---
 alias: [Wraparound Mortgage]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [Wraparound [[Mortgage Definition]], Wraparound Mortgage]
+tags: [Wraparound Mortgage Definition, Wraparound Mortgage]
 source: https://www.investopedia.com/terms/w/wraparound-mortgage.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Defining Take-Home Pay]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Defining Take-Home Pay, [[What is Take-Home Pay]]?]
+tags: [Defining Take-Home Pay, What is Take-Home Pay?]
 source: https://www.investopedia.com/terms/t/take-home-pay.asp
 author: Julia Kagan
 ---

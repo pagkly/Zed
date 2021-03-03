@@ -1,7 +1,7 @@
 ---
 alias: [Deficit Spending Unit]
 created: 2021-03-02T19:13:34 (UTC +11:00)
-tags: [Deficit Spending Unit Definition, [[Deficit Spending]] Unit Shows When Economies Overspend]
+tags: [Deficit Spending Unit Definition, Deficit Spending Unit Shows When Economies Overspend]
 source: https://www.investopedia.com/terms/d/deficitspendingunit.asp
 author: Brian Beers
 ---

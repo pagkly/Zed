@@ -1,7 +1,7 @@
 ---
 alias: [Risk-Based Capital Requirement]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk-Based Capital Requirement Definition, [[Risk]]-Based Capital Requirement]
+tags: [Risk-Based Capital Requirement Definition, Risk-Based Capital Requirement]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-based-capital-requirement.asp
 author: James Chen
 ---

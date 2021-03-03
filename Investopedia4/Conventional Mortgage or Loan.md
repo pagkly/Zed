@@ -1,7 +1,7 @@
 ---
 alias: [Conventional Mortgage or Loan]
 created: 2021-03-02T18:58:08 (UTC +11:00)
-tags: [Conventional Mortgage or [[Loan]], Conventional Mortgage or Loan]
+tags: [Conventional Mortgage or Loan, Conventional Mortgage or Loan]
 source: https://www.investopedia.com/terms/c/conventionalmortgage.asp
 author: Investopedia Staff
 ---

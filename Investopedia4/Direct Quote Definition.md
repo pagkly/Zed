@@ -1,7 +1,7 @@
 ---
 alias: [Direct Quote]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Direct [[Quote]] Definition, Direct Quote Definition]
+tags: [Direct Quote Definition, Direct Quote Definition]
 source: https://www.investopedia.com/terms/d/directquote.asp
 author: James Chen
 ---

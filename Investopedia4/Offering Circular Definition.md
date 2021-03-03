@@ -1,7 +1,7 @@
 ---
 alias: [Offering Circular]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Offering Circular, [[Offering]] Circular Definition]
+tags: [Offering Circular, Offering Circular Definition]
 source: https://www.investopedia.com/terms/o/offeringcircular.asp
 author: Adam Hayes
 ---

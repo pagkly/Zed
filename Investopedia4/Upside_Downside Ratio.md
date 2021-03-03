@@ -1,7 +1,7 @@
 ---
 alias: [Upside/Downside Ratio]
 created: 2021-03-03T00:27:53 (UTC +11:00)
-tags: [Upside/Downside Ratio, [[Upside]]/Downside Ratio]
+tags: [Upside/Downside Ratio, Upside/Downside Ratio]
 source: https://www.investopedia.com/terms/u/upsidedownsideratio.asp
 author: James Chen
 ---

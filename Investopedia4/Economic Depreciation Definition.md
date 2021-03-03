@@ -1,7 +1,7 @@
 ---
 alias: [Economic Depreciation]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic [[Depreciation Definition]], Economic Depreciation Definition]
+tags: [Economic Depreciation Definition, Economic Depreciation Definition]
 source: https://www.investopedia.com/terms/e/economicdepreciation.asp
 author: Daniel Liberto
 ---

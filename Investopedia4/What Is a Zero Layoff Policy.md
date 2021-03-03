@@ -1,7 +1,7 @@
 ---
 alias: [Zero Layoff Policy]
 created: 2021-03-03T01:12:48 (UTC +11:00)
-tags: [Zero Layoff Policy Definition, [[What Is a Zero Layoff Policy]]?]
+tags: [Zero Layoff Policy Definition, What Is a Zero Layoff Policy?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-layoff-policy.asp
 author: Alexandra Twin
 ---

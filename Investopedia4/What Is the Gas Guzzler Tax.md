@@ -1,7 +1,7 @@
 ---
 alias: [Gas Guzzler Tax]
 created: 2021-03-02T20:14:38 (UTC +11:00)
-tags: [Gas Guzzler Tax Definition, [[What Is the Gas Guzzler Tax]]?]
+tags: [Gas Guzzler Tax Definition, What Is the Gas Guzzler Tax?]
 source: https://www.investopedia.com/terms/g/gasguzzlertax.asp
 author: Carol Kopp
 ---

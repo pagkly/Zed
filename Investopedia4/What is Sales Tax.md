@@ -1,7 +1,7 @@
 ---
 alias: [Sales Tax]
 created: 2021-03-02T23:29:56 (UTC +11:00)
-tags: [Sales Tax Definition, [[What is Sales Tax]]?]
+tags: [Sales Tax Definition, What is Sales Tax?]
 source: https://www.investopedia.com/terms/s/salestax.asp
 author: Julia Kagan
 ---

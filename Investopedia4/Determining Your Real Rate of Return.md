@@ -1,7 +1,7 @@
 ---
 alias: [Real Rate of Return]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Real Rate of [[Return]] Definition, Determining Your Real Rate of Return]
+tags: [Real Rate of Return Definition, Determining Your Real Rate of Return]
 source: https://www.investopedia.com/terms/r/realrateofreturn.asp
 author: Marshall Hargrave
 ---

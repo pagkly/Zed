@@ -1,7 +1,7 @@
 ---
 alias: [Day Order]
 created: 2021-03-02T19:07:19 (UTC +11:00)
-tags: [Day [[Order Definition]], Day Order]
+tags: [Day Order Definition, Day Order]
 source: https://www.investopedia.com/terms/d/dayorder.asp
 author: James Chen
 ---

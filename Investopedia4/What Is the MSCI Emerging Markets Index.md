@@ -1,7 +1,7 @@
 ---
 alias: [MSCI Emerging Markets Index]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [MSCI Emerging Markets Index Definition, [[What Is the MSCI Emerging Markets Index]]?]
+tags: [MSCI Emerging Markets Index Definition, What Is the MSCI Emerging Markets Index?]
 source: https://www.investopedia.com/terms/e/emergingmarketsindex.asp
 author: James Chen
 ---

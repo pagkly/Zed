@@ -1,7 +1,7 @@
 ---
 alias: [Orphan Block, Cryptocurrency]
 created: 2021-03-02T22:29:30 (UTC +11:00)
-tags: [Orphan Block ([[Cryptocurrency]]) Definition, Orphan Block]
+tags: [Orphan Block (Cryptocurrency) Definition, Orphan Block]
 source: https://www.investopedia.com/terms/o/orphan-block-[[Cryptocurrency|cryptocurrency]].asp
 author: \
 ---

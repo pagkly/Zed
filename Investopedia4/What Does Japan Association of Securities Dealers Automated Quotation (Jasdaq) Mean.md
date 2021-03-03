@@ -1,7 +1,7 @@
 ---
 alias: [Japan Association Of Securities Dealers Automated Quotation (Jasdaq) Defined]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [Japan Association Of Securities Dealers Automated Quotation (Jasdaq) Defined, [[What Does Japan Association of Securities Dealers Automated Quotation (Jasdaq) Mean]]?]
+tags: [Japan Association Of Securities Dealers Automated Quotation (Jasdaq) Defined, What Does Japan Association of Securities Dealers Automated Quotation (Jasdaq) Mean?]
 source: https://www.investopedia.com/terms/j/jasdaq.asp
 author: Jason Fernando
 ---

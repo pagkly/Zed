@@ -1,7 +1,7 @@
 ---
 alias: [Gift in Trust]
 created: 2021-03-02T20:16:41 (UTC +11:00)
-tags: [Gift in [[Trust Definition]], Gift in Trust]
+tags: [Gift in Trust Definition, Gift in Trust]
 source: https://www.investopedia.com/terms/g/gift-in-trust.asp
 author: Julia Kagan
 ---

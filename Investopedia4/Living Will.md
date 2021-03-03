@@ -1,7 +1,7 @@
 ---
 alias: [Living Will]
 created: 2021-03-02T21:23:49 (UTC +11:00)
-tags: [Living [[Will]] Definition, Living Will]
+tags: [Living Will Definition, Living Will]
 source: https://www.investopedia.com/terms/l/livingwill.asp
 author: Julia Kagan
 ---

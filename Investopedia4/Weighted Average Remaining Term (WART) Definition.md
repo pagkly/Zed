@@ -1,7 +1,7 @@
 ---
 alias: [Weighted Average Remaining Term, WART]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weighted Average Remaining Term (WART) Definition, [[Weighted]] Average Remaining Term (WART) Definition]
+tags: [Weighted Average Remaining Term (WART) Definition, Weighted Average Remaining Term (WART) Definition]
 source: https://www.investopedia.com/terms/w/[[Weighted|weighted]]-average-remaining-term.asp
 author: Jason Fernando
 ---

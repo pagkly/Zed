@@ -1,7 +1,7 @@
 ---
 alias: [Stock Compensation]
 created: 2021-03-02T23:43:21 (UTC +11:00)
-tags: [Stock Compensation Definition, [[Stock]] Compensation Definition]
+tags: [Stock Compensation Definition, Stock Compensation Definition]
 source: https://www.investopedia.com/terms/s/stockcompensation.asp
 author: Adam Hayes
 ---

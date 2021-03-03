@@ -1,7 +1,7 @@
 ---
 alias: [Limit Order]
 created: 2021-03-02T21:19:46 (UTC +11:00)
-tags: [Limit [[Order Definition]], Limit Order Definition]
+tags: [Limit Order Definition, Limit Order Definition]
 source: https://www.investopedia.com/terms/l/limitorder.asp
 author: Michael J. Kramer
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Generation-Skipping Trust—GST]
 created: 2021-03-02T20:16:40 (UTC +11:00)
-tags: [Generation-Skipping Trust—GST Definition, Generation-Skipping Trust Lets the Next Generation Avoid [[Estate]] Taxes]
+tags: [Generation-Skipping Trust—GST Definition, Generation-Skipping Trust Lets the Next Generation Avoid Estate Taxes]
 source: https://www.investopedia.com/terms/g/generation-skippingtrust.asp
 author: Troy Segal
 ---

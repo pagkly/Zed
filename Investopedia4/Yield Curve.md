@@ -1,7 +1,7 @@
 ---
 alias: [Yield Curve]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Curve Definition, [[Yield]] Curve]
+tags: [Yield Curve Definition, Yield Curve]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldcurve.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Homeowner Association, HOA]
 created: 2021-03-02T20:47:36 (UTC +11:00)
-tags: [Homeowner Association (HOA) Definition, [[So What Does Your Homeowner Association (HOA) Do For You]]?]
+tags: [Homeowner Association (HOA) Definition, So What Does Your Homeowner Association (HOA) Do For You?]
 source: https://www.investopedia.com/terms/h/hoa.asp
 author: James Chen
 ---

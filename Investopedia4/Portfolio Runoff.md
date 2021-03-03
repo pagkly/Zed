@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Runoff]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Runoff Definition, [[Portfolio]] Runoff]
+tags: [Portfolio Runoff Definition, Portfolio Runoff]
 source: https://www.investopedia.com/terms/p/portfoliorunoff.asp
 author: James Chen
 ---

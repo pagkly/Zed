@@ -1,7 +1,7 @@
 ---
 alias: [Event Study]
 created: 2021-03-02T19:44:18 (UTC +11:00)
-tags: [Event Study Definition, [[What Is an Event Study]]?]
+tags: [Event Study Definition, What Is an Event Study?]
 source: https://www.investopedia.com/terms/e/eventstudy.asp
 author: Adam Hayes
 ---

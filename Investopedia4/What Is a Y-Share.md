@@ -1,7 +1,7 @@
 ---
 alias: [Y-Share]
 created: 2021-03-03T01:06:05 (UTC +11:00)
-tags: [Y-Share Definition, [[What Is a Y-Share]]?]
+tags: [Y-Share Definition, What Is a Y-Share?]
 source: https://www.investopedia.com/terms/[[Y|y]]/y-share.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [SEC Yield]
 created: 2021-03-02T23:29:57 (UTC +11:00)
-tags: [SEC [[Yield]] Definition, SEC Yield Definition]
+tags: [SEC Yield Definition, SEC Yield Definition]
 source: https://www.investopedia.com/terms/s/secyield.asp
 author: James Chen
 ---

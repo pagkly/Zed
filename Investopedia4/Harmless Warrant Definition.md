@@ -1,7 +1,7 @@
 ---
 alias: [Harmless Warrant]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Harmless [[Warrant]] Definition, Harmless Warrant Definition]
+tags: [Harmless Warrant Definition, Harmless Warrant Definition]
 source: https://www.investopedia.com/terms/h/harmless-[[Warrant|warrant]].asp
 author: James Chen
 ---

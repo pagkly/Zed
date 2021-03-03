@@ -1,7 +1,7 @@
 ---
 alias: [Downstream]
 created: 2021-03-02T19:26:48 (UTC +11:00)
-tags: [Downstream Definition, [[What Are Downstream Operations]]?]
+tags: [Downstream Definition, What Are Downstream Operations?]
 source: https://www.investopedia.com/terms/d/downstream.asp
 author: James Chen
 ---

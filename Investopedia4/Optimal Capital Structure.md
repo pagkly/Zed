@@ -1,7 +1,7 @@
 ---
 alias: [Optimal Capital Structure]
 created: 2021-03-02T22:24:34 (UTC +11:00)
-tags: [Optimal [[Capital Structure Definition]], Optimal Capital Structure]
+tags: [Optimal Capital Structure Definition, Optimal Capital Structure]
 source: https://www.investopedia.com/terms/o/optimal-capital-structure.asp
 author: Adam Hayes
 ---

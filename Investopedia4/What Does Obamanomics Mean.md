@@ -1,7 +1,7 @@
 ---
 alias: [Obamanomics]
 created: 2021-03-02T22:13:51 (UTC +11:00)
-tags: [Obamanomics Definition, [[What Does Obamanomics Mean]]?]
+tags: [Obamanomics Definition, What Does Obamanomics Mean?]
 source: https://www.investopedia.com/terms/o/obamanomics.asp
 author: Jason Fernando
 ---

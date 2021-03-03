@@ -1,7 +1,7 @@
 ---
 alias: [Mortgage Rate]
 created: 2021-03-02T22:11:43 (UTC +11:00)
-tags: [Mortgage Rate Definition, [[What Is a Mortgage Rate]]?]
+tags: [Mortgage Rate Definition, What Is a Mortgage Rate?]
 source: https://www.investopedia.com/terms/m/mortgage-rate.asp
 author: Julia Kagan
 ---

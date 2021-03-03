@@ -1,7 +1,7 @@
 ---
 alias: [Return on Total Assets, ROTA]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Total Assets (ROTA) Definition, [[Return]] on Total Assets (ROTA) Definition]
+tags: [Return on Total Assets (ROTA) Definition, Return on Total Assets (ROTA) Definition]
 source: https://www.investopedia.com/terms/r/return_on_total_assets.asp
 author: [[Will]] Kenton
 ---

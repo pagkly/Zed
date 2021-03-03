@@ -1,7 +1,7 @@
 ---
 alias: [Hawthorne Effect]
 created: 2021-03-02T20:39:10 (UTC +11:00)
-tags: [Hawthorne Effect Definition, [[What Is the Hawthorne Effect]]?]
+tags: [Hawthorne Effect Definition, What Is the Hawthorne Effect?]
 source: https://www.investopedia.com/terms/h/hawthorne-effect.asp
 author: [[Will]] Kenton
 ---

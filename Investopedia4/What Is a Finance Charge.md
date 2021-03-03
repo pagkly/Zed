@@ -1,7 +1,7 @@
 ---
 alias: [Finance Charge]
 created: 2021-03-02T19:54:42 (UTC +11:00)
-tags: [Finance Charge Definition, [[What Is a Finance Charge]]?]
+tags: [Finance Charge Definition, What Is a Finance Charge?]
 source: https://www.investopedia.com/terms/f/finance_charge.asp
 author: Julia Kagan
 ---

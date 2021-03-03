@@ -1,7 +1,7 @@
 ---
 alias: [Opening Cross]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Opening Cross Definition, [[What Is Opening Cross]]?]
+tags: [Opening Cross Definition, What Is Opening Cross?]
 source: https://www.investopedia.com/terms/o/opening-cross.asp
 author: [[Will]] Kenton
 ---

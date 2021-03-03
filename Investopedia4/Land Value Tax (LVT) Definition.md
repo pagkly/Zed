@@ -1,7 +1,7 @@
 ---
 alias: [Land Value Tax, LVT]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Land Value Tax (LVT), [[Land Value]] Tax (LVT) Definition]
+tags: [Land Value Tax (LVT), Land Value Tax (LVT) Definition]
 source: https://www.investopedia.com/terms/l/land-value-tax.asp
 author: Julia Kagan
 ---

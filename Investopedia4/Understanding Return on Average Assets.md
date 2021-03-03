@@ -1,7 +1,7 @@
 ---
 alias: [Return on Average Assets – ROAA]
 created: 2021-03-02T23:21:04 (UTC +11:00)
-tags: [Return on Average Assets – ROAA Definition, Understanding [[Return]] on Average Assets]
+tags: [Return on Average Assets – ROAA Definition, Understanding Return on Average Assets]
 source: https://www.investopedia.com/terms/r/roaa.asp
 author: [[Will]] Kenton
 ---

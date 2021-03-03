@@ -1,7 +1,7 @@
 ---
 alias: [Financial Advisor]
 created: 2021-03-02T19:54:42 (UTC +11:00)
-tags: [Financial Advisor Definition, [[What Is a Financial Advisor]]?]
+tags: [Financial Advisor Definition, What Is a Financial Advisor?]
 source: https://www.investopedia.com/terms/f/financial-advisor.asp
 author: Julia Kagan
 ---

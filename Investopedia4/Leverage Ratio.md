@@ -1,7 +1,7 @@
 ---
 alias: [Leverage Ratio]
 created: 2021-03-02T21:15:35 (UTC +11:00)
-tags: [Leverage Ratio Definition, [[Leverage]] Ratio]
+tags: [Leverage Ratio Definition, Leverage Ratio]
 source: https://www.investopedia.com/terms/l/leverageratio.asp
 author: Adam Hayes
 ---

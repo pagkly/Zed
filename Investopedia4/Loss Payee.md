@@ -1,7 +1,7 @@
 ---
 alias: [Loss Payee]
 created: 2021-03-02T21:28:00 (UTC +11:00)
-tags: [Loss [[Payee]] Definition, Loss Payee]
+tags: [Loss Payee Definition, Loss Payee]
 source: https://www.investopedia.com/terms/l/loss-[[Payee|payee]].asp
 author: Julia Kagan
 ---

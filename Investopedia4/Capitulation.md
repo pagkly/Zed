@@ -1,7 +1,7 @@
 ---
 alias: [What is [[Capitulation]]?]
 created: 2021-03-02T18:46:50 (UTC +11:00)
-tags: [What is [[Capitulation]]?, Capitulation]
+tags: [What is Capitulation?, Capitulation]
 source: https://www.investopedia.com/terms/c/[[Capitulation|capitulation]].asp
 author: James Chen
 ---

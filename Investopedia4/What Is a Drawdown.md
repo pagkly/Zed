@@ -1,7 +1,7 @@
 ---
 alias: [Drawdown]
 created: 2021-03-02T19:26:48 (UTC +11:00)
-tags: [Drawdown Definition, [[What Is a Drawdown]]?]
+tags: [Drawdown Definition, What Is a Drawdown?]
 source: https://www.investopedia.com/terms/d/drawdown.asp
 author: Cory Mitchell
 ---

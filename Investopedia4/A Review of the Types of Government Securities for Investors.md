@@ -1,7 +1,7 @@
 ---
 alias: [Government Security]
 created: 2021-03-02T20:23:13 (UTC +11:00)
-tags: [Government [[Security]] Definition, A Review of the Types of Government Securities for Investors]
+tags: [Government Security Definition, A Review of the Types of Government Securities for Investors]
 source: https://www.investopedia.com/terms/g/governmentsecurity.asp
 author: James Chen
 ---

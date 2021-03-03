@@ -1,7 +1,7 @@
 ---
 alias: [Revenue Officer]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Revenue Officer Definition, [[What is a Revenue Officer]]?]
+tags: [Revenue Officer Definition, What is a Revenue Officer?]
 source: https://www.investopedia.com/terms/r/revenueofficer.asp
 author: Julia Kagan
 ---

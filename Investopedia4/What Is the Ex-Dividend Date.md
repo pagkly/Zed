@@ -1,7 +1,7 @@
 ---
 alias: [Ex-Dividend Date]
 created: 2021-03-02T19:44:18 (UTC +11:00)
-tags: [Ex-Dividend Date Definition, [[What Is the Ex-Dividend Date]]?]
+tags: [Ex-Dividend Date Definition, What Is the Ex-Dividend Date?]
 source: https://www.investopedia.com/terms/e/ex-date.asp
 author: Jason Fernando
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Digital Money]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Digital [[Money Definition]], Digital Money]
+tags: [Digital Money Definition, Digital Money]
 source: https://www.investopedia.com/terms/d/digital-money.asp
 author: Mitchell [[Grant]]
 ---

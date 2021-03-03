@@ -1,7 +1,7 @@
 ---
 alias: [Held-By-Production Clause]
 created: 2021-03-02T20:41:17 (UTC +11:00)
-tags: [Held-By-Production Clause Definition, [[What Is a Held-By-Production Clause]]?]
+tags: [Held-By-Production Clause Definition, What Is a Held-By-Production Clause?]
 source: https://www.investopedia.com/terms/h/held-by-production.asp
 author: James Chen
 ---

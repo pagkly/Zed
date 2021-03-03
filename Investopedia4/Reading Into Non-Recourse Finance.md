@@ -1,7 +1,7 @@
 ---
 alias: [Non-Recourse Finance]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Non-Recourse [[Finance]] Definition, Reading Into Non-Recourse Finance]
+tags: [Non-Recourse Finance Definition, Reading Into Non-Recourse Finance]
 source: https://www.investopedia.com/terms/n/non-recoursefinance.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Contribution Margin]
 created: 2021-03-02T18:58:08 (UTC +11:00)
-tags: [Contribution [[Margin Definition]], Understanding Contribution Margins]
+tags: [Contribution Margin Definition, Understanding Contribution Margins]
 source: https://www.investopedia.com/terms/c/contributionmargin.asp
 author: Investopedia Staff
 ---

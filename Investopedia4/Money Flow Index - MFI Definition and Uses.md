@@ -1,7 +1,7 @@
 ---
 alias: [Money Flow Index - MFI Definition and Uses]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Money Flow Index - MFI Definition and Uses, [[Money Flow]] Index - MFI Definition and Uses]
+tags: [Money Flow Index - MFI Definition and Uses, Money Flow Index - MFI Definition and Uses]
 source: https://www.investopedia.com/terms/m/mfi.asp
 author: Cory Mitchell
 ---

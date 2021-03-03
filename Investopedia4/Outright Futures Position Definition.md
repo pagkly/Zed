@@ -1,7 +1,7 @@
 ---
 alias: [Outright [[Futures]] Position]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Outright [[Futures]] Position Definition, Outright Futures Position Definition]
+tags: [Outright Futures Position Definition, Outright Futures Position Definition]
 source: https://www.investopedia.com/terms/o/outrightfuturesposition.asp
 author: Cory Mitchell
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Sharpe Ratio]
 created: 2021-03-02T23:36:35 (UTC +11:00)
-tags: [Sharpe Ratio Definition, How to Use the Sharpe Ratio to Analyze [[Portfolio]] [[Risk]] and Return]
+tags: [Sharpe Ratio Definition, How to Use the Sharpe Ratio to Analyze Portfolio [[Risk]] and Return]
 source: https://www.investopedia.com/terms/s/sharperatio.asp
 author: Jason Fernando
 ---

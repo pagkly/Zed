@@ -1,7 +1,7 @@
 ---
 alias: [Tax Deed]
 created: 2021-03-02T23:54:20 (UTC +11:00)
-tags: [Tax [[Deed Definition]], Tax Deed]
+tags: [Tax Deed Definition, Tax Deed]
 source: https://www.investopedia.com/terms/t/tax-deed.asp
 author:  Staff Author
 ---

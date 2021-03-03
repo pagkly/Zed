@@ -1,7 +1,7 @@
 ---
 alias: [Credit [[Default]] [[Swap]], CDS]
 created: 2021-03-02T19:02:28 (UTC +11:00)
-tags: [Credit [[Default]] [[Swap]] (CDS) Definition, Credit Default Swap (CDS) Definition]
+tags: [Credit Default [[Swap]] (CDS) Definition, Credit Default Swap (CDS) Definition]
 source: https://www.investopedia.com/terms/c/creditdefaultswap.asp
 author: Justin Kuepper
 ---

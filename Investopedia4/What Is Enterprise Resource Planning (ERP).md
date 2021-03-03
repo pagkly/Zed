@@ -1,7 +1,7 @@
 ---
 alias: [Enterprise Resource Planning, ERP]
 created: 2021-03-02T19:39:54 (UTC +11:00)
-tags: [Enterprise Resource Planning (ERP) Definition, [[What Is Enterprise Resource Planning (ERP)]]?]
+tags: [Enterprise Resource Planning (ERP) Definition, What Is Enterprise Resource Planning (ERP)?]
 source: https://www.investopedia.com/terms/e/erp.asp
 author:  Olivia LaBarre
 ---

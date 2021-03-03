@@ -1,7 +1,7 @@
 ---
 alias: [Unamortized Bond Premium]
 created: 2021-03-03T00:13:11 (UTC +11:00)
-tags: [Unamortized Bond [[Premium]] Definition, Unamortized Bond Premium Definition]
+tags: [Unamortized Bond Premium Definition, Unamortized Bond Premium Definition]
 source: https://www.investopedia.com/terms/u/unamortized-bond-[[Premium|premium]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Effective Duration]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [Effective [[Duration Definition]], Effective Duration]
+tags: [Effective Duration Definition, Effective Duration]
 source: https://www.investopedia.com/terms/e/effectiveduration.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Nonlinearity]
 created: 2021-03-02T21:50:22 (UTC +11:00)
-tags: [Nonlinearity Definition, [[What Is Nonlinearity]]?]
+tags: [Nonlinearity Definition, What Is Nonlinearity?]
 source: https://www.investopedia.com/terms/n/nonlinearity.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Yield Maintenance]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Maintenance Definition, [[What Is Yield Maintenance]]?]
+tags: [Yield Maintenance Definition, What Is Yield Maintenance?]
 source: https://www.investopedia.com/terms/[[Y|y]]/yieldmaintenance.asp
 author: Julia Kagan
 ---

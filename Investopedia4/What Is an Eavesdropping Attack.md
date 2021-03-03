@@ -1,7 +1,7 @@
 ---
 alias: [Eavesdropping Attack]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Eavesdropping Attack Definition, [[What Is an Eavesdropping Attack]]?]
+tags: [Eavesdropping Attack Definition, What Is an Eavesdropping Attack?]
 source: https://www.investopedia.com/terms/e/eavesdropping-attack.asp
 author: Jake Frankenfield
 ---

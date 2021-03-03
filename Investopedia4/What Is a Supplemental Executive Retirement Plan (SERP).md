@@ -1,7 +1,7 @@
 ---
 alias: [Supplemental Executive Retirement Plan, SERP]
 created: 2021-03-02T23:47:47 (UTC +11:00)
-tags: [Supplemental Executive Retirement Plan (SERP) Definition, [[What Is a Supplemental Executive Retirement Plan (SERP)]]?]
+tags: [Supplemental Executive Retirement Plan (SERP) Definition, What Is a Supplemental Executive Retirement Plan (SERP)?]
 source: https://www.investopedia.com/terms/s/serp.asp
 author: Julia Kagan
 ---

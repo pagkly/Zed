@@ -1,7 +1,7 @@
 ---
 alias: [National Insurance Contributions, NIC]
 created: 2021-03-02T21:32:17 (UTC +11:00)
-tags: [National Insurance Contributions (NIC) Definition, [[What Are National Insurance Contributions (NIC)]]?]
+tags: [National Insurance Contributions (NIC) Definition, What Are National Insurance Contributions (NIC)?]
 source: https://www.investopedia.com/terms/n/national-insurance-contributions-nic.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Introduction to Macroeconomics]
 created: 2021-03-03T00:54:55 (UTC +11:00)
-tags: [Introduction to [[Macroeconomics]], Macroeconomics]
+tags: [Introduction to Macroeconomics, Macroeconomics]
 source: https://www.investopedia.com/[[Macroeconomics|macroeconomics]]-4689798
 author: 
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Risk-Free Asset]
 created: 2021-03-02T23:25:41 (UTC +11:00)
-tags: [Risk-Free Asset Definition, [[What Is a Risk-Free Asset]]?]
+tags: [Risk-Free Asset Definition, What Is a Risk-Free Asset?]
 source: https://www.investopedia.com/terms/r/riskfreeasset.asp
 author: James Chen and Troy Segal
 ---

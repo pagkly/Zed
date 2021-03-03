@@ -1,7 +1,7 @@
 ---
 alias: [Franked Dividend]
 created: 2021-03-02T20:07:41 (UTC +11:00)
-tags: [Franked [[Dividend Definition]], Franked Dividend Definition]
+tags: [Franked Dividend Definition, Franked Dividend Definition]
 source: https://www.investopedia.com/terms/f/frankeddividend.asp
 author: Akhilesh Ganti
 ---

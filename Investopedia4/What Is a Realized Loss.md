@@ -1,7 +1,7 @@
 ---
 alias: [Realized Loss]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Realized Loss Definition, [[What Is a Realized Loss]]?]
+tags: [Realized Loss Definition, What Is a Realized Loss?]
 source: https://www.investopedia.com/terms/r/realizedloss.asp
 author: Julia Kagan
 ---

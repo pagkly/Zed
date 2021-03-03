@@ -1,7 +1,7 @@
 ---
 alias: [Philanthropy]
 created: 2021-03-02T22:42:35 (UTC +11:00)
-tags: [Philanthropy Definition, [[What Is Philanthropy]]?]
+tags: [Philanthropy Definition, What Is Philanthropy?]
 source: https://www.investopedia.com/terms/p/philanthropy.asp
 author: Adam Hayes
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Financial Health]
 created: 2021-03-02T19:54:43 (UTC +11:00)
-tags: [Financial Health Definition, [[How Is Your Financial Health Looking]]?]
+tags: [Financial Health Definition, How Is Your Financial Health Looking?]
 source: https://www.investopedia.com/terms/f/financial-health.asp
 author: Julia Kagan
 ---

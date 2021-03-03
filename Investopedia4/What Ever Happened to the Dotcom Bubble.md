@@ -1,7 +1,7 @@
 ---
 alias: [Dotcom Bubble]
 created: 2021-03-02T19:24:43 (UTC +11:00)
-tags: [Dotcom Bubble Definition, [[What Ever Happened to the Dotcom Bubble]]?]
+tags: [Dotcom Bubble Definition, What Ever Happened to the Dotcom Bubble?]
 source: https://www.investopedia.com/terms/d/dotcom-bubble.asp
 author: Adam Hayes
 ---

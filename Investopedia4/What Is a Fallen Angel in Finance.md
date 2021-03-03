@@ -1,7 +1,7 @@
 ---
 alias: [Fallen Angel]
 created: 2021-03-02T19:50:26 (UTC +11:00)
-tags: [Fallen Angel Definition, [[What Is a Fallen Angel in Finance]]?]
+tags: [Fallen Angel Definition, What Is a Fallen Angel in Finance?]
 source: https://www.investopedia.com/terms/f/fallenangel.asp
 author: James Chen
 ---

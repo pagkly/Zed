@@ -1,7 +1,7 @@
 ---
 alias: [Economic Growth Rate]
 created: 2021-03-02T19:31:15 (UTC +11:00)
-tags: [Economic Growth Rate Definition, [[What Is an Economic Growth Rate]]?]
+tags: [Economic Growth Rate Definition, What Is an Economic Growth Rate?]
 source: https://www.investopedia.com/terms/e/economicgrowthrate.asp
 author: James Chen
 ---

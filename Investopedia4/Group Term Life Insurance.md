@@ -1,7 +1,7 @@
 ---
 alias: [Group Term Life Insurance]
 created: 2021-03-02T20:30:10 (UTC +11:00)
-tags: [Group [[Term Life Insurance]] Definition, Group Term Life Insurance]
+tags: [Group Term Life Insurance Definition, Group Term Life Insurance]
 source: https://www.investopedia.com/terms/g/group-term-life-insurance.asp
 author: Julia Kagan
 ---

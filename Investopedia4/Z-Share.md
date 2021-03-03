@@ -1,7 +1,7 @@
 ---
 alias: [Z-Share]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Z-Share Definition, [[Z]]-Share]
+tags: [Z-Share Definition, Z-Share]
 source: https://www.investopedia.com/terms/[[Z|z]]/[[Z-Share|z-share]].asp
 author: James Chen
 ---

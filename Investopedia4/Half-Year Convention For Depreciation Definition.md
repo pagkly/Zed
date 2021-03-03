@@ -1,7 +1,7 @@
 ---
 alias: [Half-Year Convention For Depreciation]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Half-Year Convention For [[Depreciation Definition]], Half-Year Convention For Depreciation Definition]
+tags: [Half-Year Convention For Depreciation Definition, Half-Year Convention For Depreciation Definition]
 source: https://www.investopedia.com/terms/h/half-year-convention-for-depreciation.asp
 author: Alicia Tuovila
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Commercial Loan]
 created: 2021-03-02T18:53:38 (UTC +11:00)
-tags: [Commercial [[Loan]] Definition, Commercial Loan]
+tags: [Commercial Loan Definition, Commercial Loan]
 source: https://www.investopedia.com/terms/c/commercial-[[Loan|loan]].asp
 author: [[Will]] Kenton
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Linearly [[Weighted]] Moving Average (LWMA) Definition and Calculation]
 created: 2021-03-02T21:19:47 (UTC +11:00)
-tags: [Linearly [[Weighted]] Moving Average (LWMA) Definition and Calculation, Linearly Weighted Moving Average (LWMA) Definition and Calculation]
+tags: [Linearly Weighted Moving Average (LWMA) Definition and Calculation, Linearly Weighted Moving Average (LWMA) Definition and Calculation]
 source: https://www.investopedia.com/terms/l/linearlyweightedmovingaverage.asp
 author: Cory Mitchell
 ---

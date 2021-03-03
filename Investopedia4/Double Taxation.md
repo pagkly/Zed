@@ -1,7 +1,7 @@
 ---
 alias: [Double Taxation]
 created: 2021-03-02T19:26:47 (UTC +11:00)
-tags: [Double [[Taxation]], Double Taxation]
+tags: [Double Taxation, Double Taxation]
 source: https://www.investopedia.com/terms/d/double_taxation.asp
 author: Julia Kagan
 ---

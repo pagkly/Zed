@@ -1,7 +1,7 @@
 ---
 alias: [Dollar Duration]
 created: 2021-03-02T19:24:43 (UTC +11:00)
-tags: [Dollar [[Duration Definition]], Dollar Duration Definition]
+tags: [Dollar Duration Definition, Dollar Duration Definition]
 source: https://www.investopedia.com/terms/d/dollar-duration.asp
 author: James Chen
 ---

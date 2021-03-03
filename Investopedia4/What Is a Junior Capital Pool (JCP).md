@@ -1,7 +1,7 @@
 ---
 alias: [Junior Capital Pool, JCP]
 created: 2021-03-02T21:02:46 (UTC +11:00)
-tags: [Junior Capital Pool (JCP) Definition, [[What Is a Junior Capital Pool (JCP)]]?]
+tags: [Junior Capital Pool (JCP) Definition, What Is a Junior Capital Pool (JCP)?]
 source: https://www.investopedia.com/terms/j/jcp.asp
 author:  Staff Author
 ---

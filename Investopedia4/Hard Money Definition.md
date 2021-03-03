@@ -1,7 +1,7 @@
 ---
 alias: [Hard Money]
 created: 2021-03-02T20:36:47 (UTC +11:00)
-tags: [Hard [[Money Definition]], Hard Money Definition]
+tags: [Hard Money Definition, Hard Money Definition]
 source: https://www.investopedia.com/terms/h/hardmoney.asp
 author: James Chen
 ---

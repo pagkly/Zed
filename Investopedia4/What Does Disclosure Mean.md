@@ -1,7 +1,7 @@
 ---
 alias: [Disclosure]
 created: 2021-03-02T19:20:35 (UTC +11:00)
-tags: [Disclosure Definition, [[What Does Disclosure Mean]]?]
+tags: [Disclosure Definition, What Does Disclosure Mean?]
 source: https://www.investopedia.com/terms/d/disclosure.asp
 author: Troy Segal
 ---

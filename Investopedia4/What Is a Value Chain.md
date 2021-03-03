@@ -1,7 +1,7 @@
 ---
 alias: [Value Chain]
 created: 2021-03-03T00:34:22 (UTC +11:00)
-tags: [Value Chain Definition, [[What Is a Value Chain]]?]
+tags: [Value Chain Definition, What Is a Value Chain?]
 source: https://www.investopedia.com/terms/v/valuechain.asp
 author: Carla Tardi
 ---

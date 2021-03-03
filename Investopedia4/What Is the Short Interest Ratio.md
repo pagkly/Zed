@@ -1,7 +1,7 @@
 ---
 alias: [What Is the Short Interest Ratio?]
 created: 2021-03-02T23:36:36 (UTC +11:00)
-tags: [What Is the Short Interest Ratio?, [[What Is the Short Interest Ratio]]?]
+tags: [What Is the Short Interest Ratio?, What Is the Short Interest Ratio?]
 source: https://www.investopedia.com/terms/s/shortinterestratio.asp
 author: James Chen
 ---

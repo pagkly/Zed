@@ -1,7 +1,7 @@
 ---
 alias: [Money Manager]
 created: 2021-03-02T22:09:37 (UTC +11:00)
-tags: [Money Manager Definition, [[What Is a Money Manager]]?]
+tags: [Money Manager Definition, What Is a Money Manager?]
 source: https://www.investopedia.com/terms/m/moneymanager.asp
 author: James Chen
 ---

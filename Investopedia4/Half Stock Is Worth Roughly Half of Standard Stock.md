@@ -1,7 +1,7 @@
 ---
 alias: [Half Stock]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Half [[Stock]] Definition, Half Stock Is Worth Roughly Half of Standard Stock]
+tags: [Half Stock Definition, Half Stock Is Worth Roughly Half of Standard Stock]
 source: https://www.investopedia.com/terms/h/halfstock.asp
 author: Alexandra Twin
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Open-End Lease]
 created: 2021-03-02T22:20:05 (UTC +11:00)
-tags: [Open-End [[Lease]] Definition, Open-End Lease]
+tags: [Open-End Lease Definition, Open-End Lease]
 source: https://www.investopedia.com/terms/o/open-endlease.asp
 author: Julia Kagan
 ---

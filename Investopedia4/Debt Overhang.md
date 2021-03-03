@@ -1,7 +1,7 @@
 ---
 alias: [Debt Overhang]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt [[Overhang Definition]], [[Debt]] Overhang]
+tags: [Debt Overhang Definition, [[Debt]] Overhang]
 source: https://www.investopedia.com/terms/d/debtoverhang.asp
 author: Julia Kagan
 ---

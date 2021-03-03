@@ -1,7 +1,7 @@
 ---
 alias: [What Is Luxury Item?]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [What Is Luxury Item?, [[What Is Luxury Item]]?]
+tags: [What Is Luxury Item?, What Is Luxury Item?]
 source: https://www.investopedia.com/terms/l/luxury-item.asp
 author: [[Will]] Kenton
 ---

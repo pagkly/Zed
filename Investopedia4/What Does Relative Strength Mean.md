@@ -1,7 +1,7 @@
 ---
 alias: [Relative Strength Defined]
 created: 2021-03-02T23:14:43 (UTC +11:00)
-tags: [Relative Strength Defined, [[What Does Relative Strength Mean]]?]
+tags: [Relative Strength Defined, What Does Relative Strength Mean?]
 source: https://www.investopedia.com/terms/r/relativestrength.asp
 author: Jason Fernando
 ---

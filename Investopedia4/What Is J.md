@@ -1,7 +1,7 @@
 ---
 alias: [J]
 created: 2021-03-02T20:56:09 (UTC +11:00)
-tags: [J Definition, [[What Is J]]?]
+tags: [J Definition, What Is J?]
 source: https://www.investopedia.com/terms/j/j.asp
 author: Rajeev Dhir
 ---

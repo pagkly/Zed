@@ -1,7 +1,7 @@
 ---
 alias: [Special Purpose Vehicle, SPV]
 created: 2021-03-02T23:41:12 (UTC +11:00)
-tags: [Special Purpose Vehicle (SPV) Definition, [[What Is a Special Purpose Vehicle (SPV)]]?]
+tags: [Special Purpose Vehicle (SPV) Definition, What Is a Special Purpose Vehicle (SPV)?]
 source: https://www.investopedia.com/terms/s/spv.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Stock Market Crash]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stock Market Crash Definition, [[Stock]] Market Crash Definition]
+tags: [Stock Market Crash Definition, Stock Market Crash Definition]
 source: https://www.investopedia.com/terms/s/[[Stock|stock]]-market-crash.asp
 author: James Chen
 ---

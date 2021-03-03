@@ -1,7 +1,7 @@
 ---
 alias: [Regret Theory]
 created: 2021-03-02T23:12:21 (UTC +11:00)
-tags: [Regret Theory Definition, [[What Is Regret Theory]]?]
+tags: [Regret Theory Definition, What Is Regret Theory?]
 source: https://www.investopedia.com/terms/r/regrettheory.asp
 author: James Chen
 ---

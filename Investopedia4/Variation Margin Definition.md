@@ -1,7 +1,7 @@
 ---
 alias: [Variation Margin]
 created: 2021-03-03T00:36:24 (UTC +11:00)
-tags: [Variation [[Margin Definition]], Variation Margin Definition]
+tags: [Variation Margin Definition, Variation Margin Definition]
 source: https://www.investopedia.com/terms/v/variationmargin.asp
 author: James Chen
 ---

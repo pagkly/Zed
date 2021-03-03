@@ -1,7 +1,7 @@
 ---
 alias: [Cyclical Unemployment]
 created: 2021-03-02T19:07:18 (UTC +11:00)
-tags: [Cyclical [[Unemployment]] Definition, Cyclical Unemployment]
+tags: [Cyclical Unemployment Definition, Cyclical Unemployment]
 source: https://www.investopedia.com/terms/c/cyclicalunemployment.asp
 author:  Staff Author
 ---

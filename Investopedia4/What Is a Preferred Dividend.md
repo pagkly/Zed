@@ -1,7 +1,7 @@
 ---
 alias: [Preferred Dividends]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Preferred Dividends Definition, [[What Is a Preferred Dividend]]?]
+tags: [Preferred Dividends Definition, What Is a Preferred Dividend?]
 source: https://www.investopedia.com/terms/p/preferreddividend.asp
 author: Adam Hayes
 ---

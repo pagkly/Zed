@@ -1,7 +1,7 @@
 ---
 alias: [Quasi Contract Defintion]
 created: 2021-03-02T23:05:28 (UTC +11:00)
-tags: [Quasi Contract Defintion, [[What Is a Quasi Contract]]?]
+tags: [Quasi Contract Defintion, What Is a Quasi Contract?]
 source: https://www.investopedia.com/terms/q/quasi-contract.asp
 author: Adam Hayes
 ---

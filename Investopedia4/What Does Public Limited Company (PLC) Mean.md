@@ -1,7 +1,7 @@
 ---
 alias: [Public Limited Company, PLC]
 created: 2021-03-02T22:56:50 (UTC +11:00)
-tags: [Public Limited Company (PLC) Definition, [[What Does Public Limited Company (PLC) Mean]]?]
+tags: [Public Limited Company (PLC) Definition, What Does Public Limited Company (PLC) Mean?]
 source: https://www.investopedia.com/terms/p/plc.asp
 author: Marshall Hargrave
 ---

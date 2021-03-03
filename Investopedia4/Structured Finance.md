@@ -1,7 +1,7 @@
 ---
 alias: [Structured Finance]
 created: 2021-03-02T23:47:45 (UTC +11:00)
-tags: [Structured [[Finance]] Definition, Structured Finance]
+tags: [Structured Finance Definition, Structured Finance]
 source: https://www.investopedia.com/terms/s/structuredfinance.asp
 author: James Chen
 ---

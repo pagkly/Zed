@@ -1,7 +1,7 @@
 ---
 alias: [Unemployment Income]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unemployment Income Definition, [[Unemployment]] Income Definition]
+tags: [Unemployment Income Definition, Unemployment Income Definition]
 source: https://www.investopedia.com/terms/u/[[Unemployment|unemployment]]-income.asp
 author: Adam Hayes
 ---

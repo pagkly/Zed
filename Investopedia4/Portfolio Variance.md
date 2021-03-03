@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Variance]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Variance Definition, [[Portfolio]] Variance]
+tags: [Portfolio Variance Definition, Portfolio Variance]
 source: https://www.investopedia.com/terms/p/[[Portfolio|portfolio]]-variance.asp
 author: Adam Hayes
 ---

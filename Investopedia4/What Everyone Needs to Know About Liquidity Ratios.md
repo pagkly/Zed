@@ -1,7 +1,7 @@
 ---
 alias: [Liquidity Ratio]
 created: 2021-03-02T21:21:48 (UTC +11:00)
-tags: [Liquidity Ratio Definition, What Everyone Needs to Know About [[Liquidity]] Ratios]
+tags: [Liquidity Ratio Definition, What Everyone Needs to Know About Liquidity Ratios]
 source: https://www.investopedia.com/terms/l/liquidityratios.asp
 author: Adam Hayes
 ---

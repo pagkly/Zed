@@ -1,7 +1,7 @@
 ---
 alias: [Gift of Equity]
 created: 2021-03-02T20:16:41 (UTC +11:00)
-tags: [Gift of [[Equity]] Definition, Gift of Equity]
+tags: [Gift of Equity Definition, Gift of Equity]
 source: https://www.investopedia.com/terms/g/gift_of_equity.asp
 author: James Chen
 ---

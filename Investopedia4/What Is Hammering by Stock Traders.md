@@ -1,7 +1,7 @@
 ---
 alias: [Hammering]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [Hammering Definition, [[What Is Hammering by Stock Traders]]?]
+tags: [Hammering Definition, What Is Hammering by Stock Traders?]
 source: https://www.investopedia.com/terms/h/hammering.asp
 author: Lucas Downey
 ---

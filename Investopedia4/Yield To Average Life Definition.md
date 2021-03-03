@@ -1,7 +1,7 @@
 ---
 alias: [Yield To Average Life]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield To Average Life Definition, [[Yield]] To Average Life Definition]
+tags: [Yield To Average Life Definition, Yield To Average Life Definition]
 source: https://www.investopedia.com/terms/[[Y|y]]/[[Yield|yield]]-to-average-life.asp
 author: James Chen
 ---

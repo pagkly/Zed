@@ -1,7 +1,7 @@
 ---
 alias: [Return on Net Assets, RONA]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Net Assets (RONA) Definition, Understanding [[Return]] on Net Assets]
+tags: [Return on Net Assets (RONA) Definition, Understanding Return on Net Assets]
 source: https://www.investopedia.com/terms/r/rona.asp
 author: Adam Hayes
 ---

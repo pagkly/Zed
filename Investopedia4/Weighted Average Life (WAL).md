@@ -1,7 +1,7 @@
 ---
 alias: [Weighted Average Life, WAL]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weighted Average Life (WAL), [[Weighted]] Average Life (WAL)]
+tags: [Weighted Average Life (WAL), Weighted Average Life (WAL)]
 source: https://www.investopedia.com/terms/w/weightedaveragelife.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Employee [[Stock]] Ownership Plan, ESOP]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Employee [[Stock]] Ownership Plan (ESOP) Definition, Employee Stock Ownership Plan (ESOP)]
+tags: [Employee Stock Ownership Plan (ESOP) Definition, Employee Stock Ownership Plan (ESOP)]
 source: https://www.investopedia.com/terms/e/esop.asp
 author: Akhilesh Ganti
 ---

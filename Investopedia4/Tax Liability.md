@@ -1,7 +1,7 @@
 ---
 alias: [Tax Liability]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax [[Liability]] Definition, Tax Liability]
+tags: [Tax Liability Definition, Tax Liability]
 source: https://www.investopedia.com/terms/t/taxliability.asp
 author: Julia Kagan
 ---

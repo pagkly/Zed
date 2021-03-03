@@ -1,7 +1,7 @@
 ---
 alias: [Portfolio Turnover]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Portfolio Turnover Definition, [[Portfolio]] Turnover]
+tags: [Portfolio Turnover Definition, Portfolio Turnover]
 source: https://www.investopedia.com/terms/p/portfolioturnover.asp
 author: James Chen
 ---

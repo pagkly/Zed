@@ -1,7 +1,7 @@
 ---
 alias: [Limit Down]
 created: 2021-03-02T21:19:46 (UTC +11:00)
-tags: [Limit Down Definition, [[What Is a Limit Down]]?]
+tags: [Limit Down Definition, What Is a Limit Down?]
 source: https://www.investopedia.com/terms/l/limitdown.asp
 author: James Chen
 ---

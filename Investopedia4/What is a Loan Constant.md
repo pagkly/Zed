@@ -1,7 +1,7 @@
 ---
 alias: [Loan Constant]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Constant Definition, [[What is a Loan Constant]]?]
+tags: [Loan Constant Definition, What is a Loan Constant?]
 source: https://www.investopedia.com/terms/l/loanconstant.asp
 author: Julia Kagan
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Descending [[Triangle Definition]] and Example]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Descending [[Triangle Definition]] and Example, Descending Triangle]
+tags: [Descending Triangle Definition and Example, Descending Triangle]
 source: https://www.investopedia.com/terms/d/descendingtriangle.asp
 author: James Chen
 ---

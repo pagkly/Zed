@@ -1,7 +1,7 @@
 ---
 alias: [H-Shares]
 created: 2021-03-02T20:34:42 (UTC +11:00)
-tags: [H-[[Shares]], H-Shares]
+tags: [H-Shares, H-Shares]
 source: https://www.investopedia.com/terms/h/hshares.asp
 author: James Chen
 ---

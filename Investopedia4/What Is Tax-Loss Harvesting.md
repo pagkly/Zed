@@ -1,7 +1,7 @@
 ---
 alias: [Tax-Loss Harvesting]
 created: 2021-03-02T23:54:21 (UTC +11:00)
-tags: [Tax-Loss Harvesting Definition, [[What Is Tax-Loss Harvesting]]?]
+tags: [Tax-Loss Harvesting Definition, What Is Tax-Loss Harvesting?]
 source: https://www.investopedia.com/terms/t/taxgainlossharvesting.asp
 author: Julia Kagan
 ---

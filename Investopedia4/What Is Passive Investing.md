@@ -1,7 +1,7 @@
 ---
 alias: [What Is Passive Investing?]
 created: 2021-03-02T22:38:07 (UTC +11:00)
-tags: [What Is Passive Investing?, [[What Is Passive Investing]]?]
+tags: [What Is Passive Investing?, What Is Passive Investing?]
 source: https://www.investopedia.com/terms/p/passiveinvesting.asp
 author: James Chen
 ---

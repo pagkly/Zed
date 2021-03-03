@@ -1,7 +1,7 @@
 ---
 alias: [ZCash]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [ZCash Definition, [[What Is ZCash]]?]
+tags: [ZCash Definition, What Is ZCash?]
 source: https://www.investopedia.com/terms/[[Z|z]]/zcash.asp
 author: Jake Frankenfield
 ---

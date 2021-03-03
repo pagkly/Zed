@@ -1,7 +1,7 @@
 ---
 alias: [Certificate of Deposit (CD) Definition & How CDs Work]
 created: 2021-03-02T18:49:09 (UTC +11:00)
-tags: [Certificate of Deposit (CD) Definition & How CDs Work, [[What is a Certificate of Deposit (CD)]]?]
+tags: [Certificate of Deposit (CD) Definition & How CDs Work, What is a Certificate of Deposit (CD)?]
 source: https://www.investopedia.com/terms/c/certificateofdeposit.asp
 author: Jason Fernando
 ---

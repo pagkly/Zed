@@ -1,7 +1,7 @@
 ---
 alias: [Quiet Title]
 created: 2021-03-02T23:05:29 (UTC +11:00)
-tags: [Quiet Title, Determine Real [[Estate]] Ownership With a Quiet Title]
+tags: [Quiet Title, Determine Real Estate Ownership With a Quiet Title]
 source: https://www.investopedia.com/terms/q/quiet-title.asp
 author: James Chen
 ---

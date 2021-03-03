@@ -1,7 +1,7 @@
 ---
 alias: [Per Stirpes]
 created: 2021-03-02T22:40:13 (UTC +11:00)
-tags: [Per Stirpes Definition, [[What Are Per Stirpes]]?]
+tags: [Per Stirpes Definition, What Are Per Stirpes?]
 source: https://www.investopedia.com/terms/p/perstirpes.asp
 author: Maya E. Dollarhide
 ---

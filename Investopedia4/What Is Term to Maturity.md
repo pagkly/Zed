@@ -1,7 +1,7 @@
 ---
 alias: [Term to Maturity]
 created: 2021-03-02T23:58:34 (UTC +11:00)
-tags: [Term to Maturity Definition, [[What Is Term to Maturity]]?]
+tags: [Term to Maturity Definition, What Is Term to Maturity?]
 source: https://www.investopedia.com/terms/t/termtomaturity.asp
 author: James Chen
 ---

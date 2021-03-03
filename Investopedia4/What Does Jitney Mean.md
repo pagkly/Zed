@@ -1,7 +1,7 @@
 ---
 alias: [Jitney Defined]
 created: 2021-03-02T20:58:32 (UTC +11:00)
-tags: [Jitney Defined, [[What Does Jitney Mean]]?]
+tags: [Jitney Defined, What Does Jitney Mean?]
 source: https://www.investopedia.com/terms/j/jitney.asp
 author: Jason Fernando
 ---

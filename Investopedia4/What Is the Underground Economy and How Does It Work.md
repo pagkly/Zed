@@ -1,7 +1,7 @@
 ---
 alias: [The Definition of the Underground Economy]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [The Definition of the Underground Economy, [[What Is the Underground Economy and How Does It Work]]?]
+tags: [The Definition of the Underground Economy, What Is the Underground Economy and How Does It Work?]
 source: https://www.investopedia.com/terms/u/underground-economy.asp
 author: Andrew Bloomenthal
 ---

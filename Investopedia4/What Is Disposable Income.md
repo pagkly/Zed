@@ -1,7 +1,7 @@
 ---
 alias: [Disposable Income]
 created: 2021-03-02T19:22:37 (UTC +11:00)
-tags: [Disposable Income Definition, [[What Is Disposable Income]]?]
+tags: [Disposable Income Definition, What Is Disposable Income?]
 source: https://www.investopedia.com/terms/d/disposableincome.asp
 author: [[Will]] Kenton
 ---

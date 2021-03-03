@@ -1,7 +1,7 @@
 ---
 alias: [Realized Gain]
 created: 2021-03-02T23:09:59 (UTC +11:00)
-tags: [Realized [[Gain]] Definition, Realized Gain]
+tags: [Realized Gain Definition, Realized Gain]
 source: https://www.investopedia.com/terms/r/realizedprofit.asp
 author: Adam Hayes
 ---

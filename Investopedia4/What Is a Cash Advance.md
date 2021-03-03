@@ -1,7 +1,7 @@
 ---
 alias: [Cash Advance]
 created: 2021-03-02T18:46:50 (UTC +11:00)
-tags: [Cash Advance Definition, [[What Is a Cash Advance]]?]
+tags: [Cash Advance Definition, What Is a Cash Advance?]
 source: https://www.investopedia.com/terms/c/cashadvance.asp
 author: Julia Kagan
 ---

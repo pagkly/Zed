@@ -1,7 +1,7 @@
 ---
 alias: [Depth of Market, DOM]
 created: 2021-03-02T19:18:11 (UTC +11:00)
-tags: [Depth of Market (DOM) Definition, [[What Does Depth of Market (DOM) Indicate]]?]
+tags: [Depth of Market (DOM) Definition, What Does Depth of Market (DOM) Indicate?]
 source: https://www.investopedia.com/terms/d/depth-of-market.asp
 author: Alexandra Twin
 ---

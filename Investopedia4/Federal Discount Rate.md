@@ -1,7 +1,7 @@
 ---
 alias: [Federal Discount Rate]
 created: 2021-03-02T19:52:36 (UTC +11:00)
-tags: [Federal [[Discount Rate]] Definition, Federal Discount Rate]
+tags: [Federal Discount Rate Definition, Federal Discount Rate]
 source: https://www.investopedia.com/terms/f/federal_discount_rate.asp
 author: [[Will]] Kenton
 ---

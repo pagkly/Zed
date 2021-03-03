@@ -1,7 +1,7 @@
 ---
 alias: [Too Big to Fail]
 created: 2021-03-03T00:02:42 (UTC +11:00)
-tags: [Too Big to [[Fail Definition]], How Too Big to Fail Businesses Can Ruin Financial Systems and Economies]
+tags: [Too Big to Fail Definition, How Too Big to Fail Businesses Can Ruin Financial Systems and Economies]
 source: https://www.investopedia.com/terms/t/too-big-to-fail.asp
 author: Julie Young
 ---

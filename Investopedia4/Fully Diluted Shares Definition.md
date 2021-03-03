@@ -1,7 +1,7 @@
 ---
 alias: [Fully Diluted Shares]
 created: 2021-03-02T20:10:14 (UTC +11:00)
-tags: [Fully Diluted [[Shares]] Definition, Fully Diluted Shares Definition]
+tags: [Fully Diluted Shares Definition, Fully Diluted Shares Definition]
 source: https://www.investopedia.com/terms/f/fullydilutedshares.asp
 author: James Chen
 ---

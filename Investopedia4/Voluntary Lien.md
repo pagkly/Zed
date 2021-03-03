@@ -1,7 +1,7 @@
 ---
 alias: [Voluntary Lien]
 created: 2021-03-03T00:44:29 (UTC +11:00)
-tags: [Voluntary [[Lien]] Definition, Voluntary Lien]
+tags: [Voluntary Lien Definition, Voluntary Lien]
 source: https://www.investopedia.com/terms/v/voluntary-[[Lien|lien]].asp
 author: Julia Kagan
 ---

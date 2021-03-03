@@ -1,7 +1,7 @@
 ---
 alias: [Deep In The Money]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Deep In The [[Money Definition]], Deep In The Money Definition]
+tags: [Deep In The Money Definition, Deep In The Money Definition]
 source: https://www.investopedia.com/terms/d/deepinthemoney.asp
 author: James Chen
 ---

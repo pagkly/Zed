@@ -1,7 +1,7 @@
 ---
 alias: [Kiwi Bond]
 created: 2021-03-02T21:07:18 (UTC +11:00)
-tags: [Kiwi Bond Definition, [[What Is a Kiwi Bond]]?]
+tags: [Kiwi Bond Definition, What Is a Kiwi Bond?]
 source: https://www.investopedia.com/terms/k/kiwi-bond.asp
 author: Rajeev Dhir
 ---

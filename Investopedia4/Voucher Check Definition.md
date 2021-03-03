@@ -1,7 +1,7 @@
 ---
 alias: [Voucher Check]
 created: 2021-03-03T00:44:31 (UTC +11:00)
-tags: [Voucher Check Definition, [[Voucher]] Check Definition]
+tags: [Voucher Check Definition, Voucher Check Definition]
 source: https://www.investopedia.com/terms/v/[[Voucher|voucher]]-check.asp
 author: Adam Hayes
 ---

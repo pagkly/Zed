@@ -1,7 +1,7 @@
 ---
 alias: [Risk Profile]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Risk Profile Definition, What You Should Know About [[Risk]] Profiles]
+tags: [Risk Profile Definition, What You Should Know About Risk Profiles]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-profile.asp
 author: Adam Barone
 ---

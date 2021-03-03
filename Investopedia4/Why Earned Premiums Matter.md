@@ -1,7 +1,7 @@
 ---
 alias: [Earned Premium]
 created: 2021-03-02T19:29:08 (UTC +11:00)
-tags: [Earned [[Premium]] Definition, Why Earned Premiums Matter]
+tags: [Earned Premium Definition, Why Earned Premiums Matter]
 source: https://www.investopedia.com/terms/e/earnedpremium.asp
 author: Julia Kagan
 ---

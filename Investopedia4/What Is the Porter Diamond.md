@@ -1,7 +1,7 @@
 ---
 alias: [Porter Diamond]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Porter Diamond Definition, [[What Is the Porter Diamond]]?]
+tags: [Porter Diamond Definition, What Is the Porter Diamond?]
 source: https://www.investopedia.com/terms/p/porter-diamond.asp
 author: Investopedia Staff
 ---

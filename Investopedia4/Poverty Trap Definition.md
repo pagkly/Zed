@@ -1,7 +1,7 @@
 ---
 alias: [Poverty Trap]
 created: 2021-03-02T22:47:29 (UTC +11:00)
-tags: [Poverty Trap Definition, [[Poverty]] Trap Definition]
+tags: [Poverty Trap Definition, Poverty Trap Definition]
 source: https://www.investopedia.com/terms/p/[[Poverty|poverty]]-trap.asp
 author: James Chen
 ---

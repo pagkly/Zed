@@ -1,7 +1,7 @@
 ---
 alias: [Environmental Economics]
 created: 2021-03-02T19:39:54 (UTC +11:00)
-tags: [Environmental [[Economics]] Definition, Environmental Economics Definition]
+tags: [Environmental Economics Definition, Environmental Economics Definition]
 source: https://www.investopedia.com/terms/e/environmental-[[Economics|economics]].asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Graduated Lease]
 created: 2021-03-02T20:23:13 (UTC +11:00)
-tags: [Graduated [[Lease]], Graduated Lease]
+tags: [Graduated Lease, Graduated Lease]
 source: https://www.investopedia.com/terms/g/graduatedlease.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Optionable Stock]
 created: 2021-03-02T22:26:38 (UTC +11:00)
-tags: [Optionable [[Stock]] Definition, Optionable Stock Definition]
+tags: [Optionable Stock Definition, Optionable Stock Definition]
 source: https://www.investopedia.com/terms/o/optionablestock.asp
 author: Akhilesh Ganti
 ---

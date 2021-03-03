@@ -1,7 +1,7 @@
 ---
 alias: [Spot Exchange Rate]
 created: 2021-03-02T23:41:12 (UTC +11:00)
-tags: [Spot [[Exchange Rate Definition]], Spot Exchange Rate]
+tags: [Spot Exchange Rate Definition, Spot Exchange Rate]
 source: https://www.investopedia.com/terms/s/spotexchangerate.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Stop Order]
 created: 2021-03-02T23:45:25 (UTC +11:00)
-tags: [Stop [[Order Definition]], Stop Order]
+tags: [Stop Order Definition, Stop Order]
 source: https://www.investopedia.com/terms/s/stoporder.asp
 author: James Chen
 ---

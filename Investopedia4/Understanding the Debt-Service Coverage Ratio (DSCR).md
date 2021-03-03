@@ -1,7 +1,7 @@
 ---
 alias: [Debt-Service [[Coverage Ratio]], DSCR]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt-Service [[Coverage Ratio]] (DSCR) Definition, Understanding the [[Debt]]-Service Coverage Ratio (DSCR)]
+tags: [Debt-Service Coverage Ratio (DSCR) Definition, Understanding the [[Debt]]-Service Coverage Ratio (DSCR)]
 source: https://www.investopedia.com/terms/d/dscr.asp
 author: Jason Fernando
 ---

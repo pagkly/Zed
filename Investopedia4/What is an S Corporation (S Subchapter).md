@@ -1,7 +1,7 @@
 ---
 alias: [S Corporation, S Subchapter]
 created: 2021-03-02T23:27:50 (UTC +11:00)
-tags: [S Corporation (S Subchapter) Definition, [[What is an S Corporation (S Subchapter)]]?]
+tags: [S Corporation (S Subchapter) Definition, What is an S Corporation (S Subchapter)?]
 source: https://www.investopedia.com/terms/s/subchapters.asp
 author: Julia Kagan
 ---

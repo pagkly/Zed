@@ -1,7 +1,7 @@
 ---
 alias: [Endowment Fund]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Endowment Fund Definition, [[Endowment]] Fund]
+tags: [Endowment Fund Definition, Endowment Fund]
 source: https://www.investopedia.com/terms/e/[[Endowment|endowment]]-fund.asp
 author: James Chen
 ---

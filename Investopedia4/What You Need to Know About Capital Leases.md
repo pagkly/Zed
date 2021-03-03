@@ -1,7 +1,7 @@
 ---
 alias: [Capital Lease]
 created: 2021-03-02T18:46:50 (UTC +11:00)
-tags: [Capital [[Lease]] Definition, What You Need to Know About Capital Leases]
+tags: [Capital Lease Definition, What You Need to Know About Capital Leases]
 source: https://www.investopedia.com/terms/c/capitallease.asp
 author: Adam Hayes
 ---

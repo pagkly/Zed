@@ -1,7 +1,7 @@
 ---
 alias: [Dry Powder]
 created: 2021-03-02T19:26:48 (UTC +11:00)
-tags: [Dry Powder, [[What Does Dry Powder Mean]]?]
+tags: [Dry Powder, What Does Dry Powder Mean?]
 source: https://www.investopedia.com/terms/d/drypowder.asp
 author: Adam Hayes
 ---

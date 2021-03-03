@@ -1,7 +1,7 @@
 ---
 alias: [Deferment Period]
 created: 2021-03-02T19:11:30 (UTC +11:00)
-tags: [Deferment Period Definition, [[What Is a Deferment Period]]?]
+tags: [Deferment Period Definition, What Is a Deferment Period?]
 source: https://www.investopedia.com/terms/d/defermentperiod.asp
 author: Julia Kagan
 ---

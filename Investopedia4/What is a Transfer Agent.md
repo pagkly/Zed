@@ -1,7 +1,7 @@
 ---
 alias: [Transfer Agent]
 created: 2021-03-03T00:06:44 (UTC +11:00)
-tags: [Transfer Agent Definition, [[What is a Transfer Agent]]?]
+tags: [Transfer Agent Definition, What is a Transfer Agent?]
 source: https://www.investopedia.com/terms/t/transferagent.asp
 author: James Chen
 ---

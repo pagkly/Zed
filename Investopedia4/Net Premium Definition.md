@@ -1,7 +1,7 @@
 ---
 alias: [Net Premium]
 created: 2021-03-02T21:39:27 (UTC +11:00)
-tags: [Net [[Premium]] Definition, Net Premium Definition]
+tags: [Net Premium Definition, Net Premium Definition]
 source: https://www.investopedia.com/terms/n/net-[[Premium|premium]].asp
 author: Julia Kagan
 ---

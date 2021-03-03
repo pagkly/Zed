@@ -1,7 +1,7 @@
 ---
 alias: [Modified Gross Lease]
 created: 2021-03-02T22:07:28 (UTC +11:00)
-tags: [Modified Gross [[Lease]] Definition, Understanding Modified Gross Leases]
+tags: [Modified Gross Lease Definition, Understanding Modified Gross Leases]
 source: https://www.investopedia.com/terms/m/modified-gross-[[Lease|lease]].asp
 author: James Chen
 ---

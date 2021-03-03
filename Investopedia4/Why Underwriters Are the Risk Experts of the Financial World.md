@@ -1,7 +1,7 @@
 ---
 alias: [Underwriter]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwriter Definition, Why Underwriters Are the [[Risk]] Experts of the Financial World]
+tags: [Underwriter Definition, Why Underwriters Are the Risk Experts of the Financial World]
 source: https://www.investopedia.com/terms/u/underwriter.asp
 author: Caroline Banton
 ---

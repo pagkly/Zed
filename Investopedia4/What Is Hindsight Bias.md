@@ -1,7 +1,7 @@
 ---
 alias: [Hindsight Bias]
 created: 2021-03-02T20:45:31 (UTC +11:00)
-tags: [Hindsight Bias Definition, [[What Is Hindsight Bias]]?]
+tags: [Hindsight Bias Definition, What Is Hindsight Bias?]
 source: https://www.investopedia.com/terms/h/hindsight-bias.asp
 author: James Chen
 ---

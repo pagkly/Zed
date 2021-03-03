@@ -1,7 +1,7 @@
 ---
 alias: [Zero-Coupon Mortgage]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero-Coupon [[Mortgage Definition]], Zero-Coupon Mortgage Definition]
+tags: [Zero-Coupon Mortgage Definition, Zero-Coupon Mortgage Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-coupon-mortgage.asp
 author: Daniel Liberto
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Odd Lot]
 created: 2021-03-02T22:13:51 (UTC +11:00)
-tags: [Odd Lot Definition, [[What Is an Odd Lot]]?]
+tags: [Odd Lot Definition, What Is an Odd Lot?]
 source: https://www.investopedia.com/terms/o/oddlot.asp
 author: James Chen
 ---

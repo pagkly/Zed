@@ -1,7 +1,7 @@
 ---
 alias: [Liability Driven Investment, LDI]
 created: 2021-03-02T21:17:40 (UTC +11:00)
-tags: [Liability Driven Investment (LDI) Definition, [[Liability]] Driven Investment (LDI)]
+tags: [Liability Driven Investment (LDI) Definition, Liability Driven Investment (LDI)]
 source: https://www.investopedia.com/terms/l/ldi.asp
 author: Julia Kagan
 ---

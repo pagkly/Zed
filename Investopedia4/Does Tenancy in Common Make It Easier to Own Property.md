@@ -1,7 +1,7 @@
 ---
 alias: [Tenancy in Common – TIC]
 created: 2021-03-02T23:58:33 (UTC +11:00)
-tags: [Tenancy in Common – TIC Definition, [[Does Tenancy in Common Make It Easier to Own Property]]?]
+tags: [Tenancy in Common – TIC Definition, Does Tenancy in Common Make It Easier to Own Property?]
 source: https://www.investopedia.com/terms/t/tenancy_in_common.asp
 author: James Chen
 ---

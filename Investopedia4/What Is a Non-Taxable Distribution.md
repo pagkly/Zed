@@ -1,7 +1,7 @@
 ---
 alias: [Non-Taxable Distribution]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Non-Taxable Distribution Definition, [[What Is a Non-Taxable Distribution]]?]
+tags: [Non-Taxable Distribution Definition, What Is a Non-Taxable Distribution?]
 source: https://www.investopedia.com/terms/n/nontaxable-distribution.asp
 author: James Chen
 ---

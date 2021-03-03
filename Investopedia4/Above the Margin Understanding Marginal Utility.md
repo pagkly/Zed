@@ -1,7 +1,7 @@
 ---
 alias: [Marginal Utility]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Marginal [[Utility Definition]], Above the Margin: Understanding Marginal Utility]
+tags: [Marginal Utility Definition, Above the Margin: Understanding Marginal Utility]
 source: https://www.investopedia.com/terms/m/marginalutility.asp
 author: Andrew Bloomenthal
 ---

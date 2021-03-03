@@ -1,7 +1,7 @@
 ---
 alias: [Money Supply]
 created: 2021-03-02T22:09:38 (UTC +11:00)
-tags: [Money [[Supply]] Definition, Money Supply Definition]
+tags: [Money Supply Definition, Money Supply Definition]
 source: https://www.investopedia.com/terms/m/moneysupply.asp
 author: Investopedia Staff
 ---

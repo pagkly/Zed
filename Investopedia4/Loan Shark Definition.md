@@ -1,7 +1,7 @@
 ---
 alias: [Loan Shark]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Shark Definition, [[Loan]] Shark Definition]
+tags: [Loan Shark Definition, Loan Shark Definition]
 source: https://www.investopedia.com/terms/l/loansharking.asp
 author: Julia Kagan
 ---

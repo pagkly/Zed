@@ -1,7 +1,7 @@
 ---
 alias: [Stock Exchange Daily Official List, SEDOL]
 created: 2021-03-02T23:45:23 (UTC +11:00)
-tags: [Stock Exchange Daily Official List (SEDOL) Definition, [[Stock]] Exchange Daily Official List (SEDOL) Definition]
+tags: [Stock Exchange Daily Official List (SEDOL) Definition, Stock Exchange Daily Official List (SEDOL) Definition]
 source: https://www.investopedia.com/terms/s/sedol.asp
 author: James Chen
 ---

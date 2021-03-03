@@ -1,7 +1,7 @@
 ---
 alias: [Laddering]
 created: 2021-03-02T21:09:20 (UTC +11:00)
-tags: [Laddering Definition, [[What Does Laddering Mean]]?]
+tags: [Laddering Definition, What Does Laddering Mean?]
 source: https://www.investopedia.com/terms/l/laddering.asp
 author: Jason Fernando
 ---

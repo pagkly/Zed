@@ -1,7 +1,7 @@
 ---
 alias: [Debt Financing]
 created: 2021-03-02T19:09:23 (UTC +11:00)
-tags: [Debt Financing Definition, [[Debt]] Financing]
+tags: [Debt Financing Definition, Debt Financing]
 source: https://www.investopedia.com/terms/d/debtfinancing.asp
 author: James Chen
 ---

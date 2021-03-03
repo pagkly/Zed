@@ -1,7 +1,7 @@
 ---
 alias: [Robber Barons]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Robber Barons Definition, [[What Are Robber Barons]]?]
+tags: [Robber Barons Definition, What Are Robber Barons?]
 source: https://www.investopedia.com/terms/r/robberbarons.asp
 author: [[Will]] Kenton
 ---

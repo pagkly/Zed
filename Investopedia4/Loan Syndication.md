@@ -1,7 +1,7 @@
 ---
 alias: [Loan Syndication]
 created: 2021-03-02T21:23:50 (UTC +11:00)
-tags: [Loan Syndication Definition, [[Loan]] Syndication]
+tags: [Loan Syndication Definition, Loan Syndication]
 source: https://www.investopedia.com/terms/l/loansyndication.asp
 author: [[Will]] Kenton
 ---

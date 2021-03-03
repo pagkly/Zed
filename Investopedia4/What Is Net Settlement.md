@@ -1,7 +1,7 @@
 ---
 alias: [Net Settlement]
 created: 2021-03-02T21:41:50 (UTC +11:00)
-tags: [Net Settlement Definition, [[What Is Net Settlement]]?]
+tags: [Net Settlement Definition, What Is Net Settlement?]
 source: https://www.investopedia.com/terms/n/net-settlement.asp
 author: Julia Kagan
 ---

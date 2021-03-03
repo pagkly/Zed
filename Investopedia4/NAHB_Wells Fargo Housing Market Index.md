@@ -1,7 +1,7 @@
 ---
 alias: [NAHB/Wells Fargo Housing Market Index]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [NAHB/Wells Fargo Housing [[Market Index]] Definition, NAHB/Wells Fargo Housing Market Index]
+tags: [NAHB/Wells Fargo Housing Market Index Definition, NAHB/Wells Fargo Housing Market Index]
 source: https://www.investopedia.com/terms/h/housingmarketindex.asp
 author: James Chen
 ---

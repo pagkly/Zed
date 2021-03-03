@@ -1,7 +1,7 @@
 ---
 alias: [Hook Reversal]
 created: 2021-03-02T20:49:40 (UTC +11:00)
-tags: [Hook [[Reversal]] Definition, Hook Reversal Definition]
+tags: [Hook Reversal Definition, Hook Reversal Definition]
 source: https://www.investopedia.com/terms/h/hookreversal.asp
 author: James Chen
 ---

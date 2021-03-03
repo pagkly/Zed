@@ -1,7 +1,7 @@
 ---
 alias: [Mortgage Rate Lock Float Down]
 created: 2021-03-02T22:11:43 (UTC +11:00)
-tags: [Mortgage Rate Lock Float Down Definition, [[What Is a Mortgage Rate Lock Float Down]]?]
+tags: [Mortgage Rate Lock Float Down Definition, What Is a Mortgage Rate Lock Float Down?]
 source: https://www.investopedia.com/terms/m/mortgage_rate_lock_float_down.asp
 author: Chris B. Murphy
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [GDP Gap]
 created: 2021-03-02T20:14:39 (UTC +11:00)
-tags: [GDP [[Gap Definition]], GDP Gap Definition]
+tags: [GDP Gap Definition, GDP Gap Definition]
 source: https://www.investopedia.com/terms/g/gdpgap.asp
 author: Clay Halton
 ---

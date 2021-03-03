@@ -1,7 +1,7 @@
 ---
 alias: [Zero-Beta Portfolio]
 created: 2021-03-03T01:10:29 (UTC +11:00)
-tags: [Zero-Beta [[Portfolio]], Zero-Beta Portfolio]
+tags: [Zero-Beta Portfolio, Zero-Beta Portfolio]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-betaportfolio.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Western Account]
 created: 2021-03-03T00:54:54 (UTC +11:00)
-tags: [Western Account Definition, [[What Does Western Account Mean]]?]
+tags: [Western Account Definition, What Does Western Account Mean?]
 source: https://www.investopedia.com/terms/w/westernaccount.asp
 author: Jason Fernando
 ---

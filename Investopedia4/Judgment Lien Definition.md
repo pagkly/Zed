@@ -1,7 +1,7 @@
 ---
 alias: [Judgment Lien]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Judgment [[Lien]] Definition, Judgment Lien Definition]
+tags: [Judgment Lien Definition, Judgment Lien Definition]
 source: https://www.investopedia.com/terms/j/judgment-[[Lien|lien]].asp
 author: Julia Kagan
 ---

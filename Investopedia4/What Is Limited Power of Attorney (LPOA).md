@@ -1,7 +1,7 @@
 ---
 alias: [Limited Power of Attorney, LPOA]
 created: 2021-03-02T21:19:47 (UTC +11:00)
-tags: [Limited Power of Attorney (LPOA) Definition, [[What Is Limited Power of Attorney (LPOA)]]?]
+tags: [Limited Power of Attorney (LPOA) Definition, What Is Limited Power of Attorney (LPOA)?]
 source: https://www.investopedia.com/terms/l/limited_power_of_attorney.asp
 author: James Chen
 ---

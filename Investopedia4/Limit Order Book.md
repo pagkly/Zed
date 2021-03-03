@@ -1,7 +1,7 @@
 ---
 alias: [Limit Order Book]
 created: 2021-03-02T21:19:46 (UTC +11:00)
-tags: [Limit [[Order Book]] Definition, Limit Order Book]
+tags: [Limit Order Book Definition, Limit Order Book]
 source: https://www.investopedia.com/terms/l/limitorderbook.asp
 author: [[Will]] Kenton
 ---

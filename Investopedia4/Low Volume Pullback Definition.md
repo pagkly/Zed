@@ -1,7 +1,7 @@
 ---
 alias: [Low Volume Pullback]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Low Volume [[Pullback]] Definition, Low Volume Pullback Definition]
+tags: [Low Volume Pullback Definition, Low Volume Pullback Definition]
 source: https://www.investopedia.com/terms/l/low_volume_pullback.asp
 author: Justin Kuepper
 ---

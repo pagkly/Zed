@@ -1,7 +1,7 @@
 ---
 alias: [Personal Financial Statement]
 created: 2021-03-02T22:42:34 (UTC +11:00)
-tags: [Personal Financial Statement Definition, [[What Is a Personal Financial Statement]]?]
+tags: [Personal Financial Statement Definition, What Is a Personal Financial Statement?]
 source: https://www.investopedia.com/terms/p/personal-financial-statement.asp
 author: Cory Mitchell
 ---

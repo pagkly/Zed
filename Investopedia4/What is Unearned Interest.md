@@ -1,7 +1,7 @@
 ---
 alias: [Unearned Interest]
 created: 2021-03-03T00:19:23 (UTC +11:00)
-tags: [Unearned Interest Definition, [[What is Unearned Interest]]?]
+tags: [Unearned Interest Definition, What is Unearned Interest?]
 source: https://www.investopedia.com/terms/u/unearned-interest.asp
 author: Julia Kagan
 ---

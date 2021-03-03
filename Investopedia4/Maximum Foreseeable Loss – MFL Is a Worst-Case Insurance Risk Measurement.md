@@ -1,7 +1,7 @@
 ---
 alias: [Maximum Foreseeable Loss – MFL]
 created: 2021-03-02T22:01:11 (UTC +11:00)
-tags: [Maximum Foreseeable Loss – MFL Definition, Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance [[Risk]] Measurement]
+tags: [Maximum Foreseeable Loss – MFL Definition, Maximum Foreseeable Loss – MFL Is a Worst-Case Insurance Risk Measurement]
 source: https://www.investopedia.com/terms/m/maximum-foreseeable-loss.asp
 author:  Alexandra Twin
 ---

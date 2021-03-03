@@ -1,7 +1,7 @@
 ---
 alias: [Underwriting]
 created: 2021-03-03T00:17:17 (UTC +11:00)
-tags: [Underwriting Definition, How Underwriters Assess the [[Risk]] of Insurers]
+tags: [Underwriting Definition, How Underwriters Assess the Risk of Insurers]
 source: https://www.investopedia.com/terms/u/underwriting.asp
 author: Caroline Banton
 ---

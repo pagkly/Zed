@@ -1,7 +1,7 @@
 ---
 alias: [Contingent Beneficiary]
 created: 2021-03-02T18:58:07 (UTC +11:00)
-tags: [Contingent Beneficiary, [[What Is a Contingent Beneficiary]]?]
+tags: [Contingent Beneficiary, What Is a Contingent Beneficiary?]
 source: https://www.investopedia.com/terms/c/contingent_beneficiary.asp
 author: Julia Kagan
 ---

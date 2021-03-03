@@ -1,7 +1,7 @@
 ---
 alias: [Negative Equity]
 created: 2021-03-02T21:34:25 (UTC +11:00)
-tags: [Negative [[Equity]] Definition, [[What Is Negative Equity]]?]
+tags: [Negative Equity Definition, [[What Is Negative Equity]]?]
 source: https://www.investopedia.com/terms/n/negativeequity.asp
 author: James Chen
 ---

@@ -1,7 +1,7 @@
 ---
 alias: [Natural Hedge]
 created: 2021-03-02T21:34:24 (UTC +11:00)
-tags: [Natural [[Hedge]] Definition, Natural Hedge Definition]
+tags: [Natural Hedge Definition, Natural Hedge Definition]
 source: https://www.investopedia.com/terms/n/natural-[[Hedge|hedge]].asp
 author: Akhilesh Ganti
 ---

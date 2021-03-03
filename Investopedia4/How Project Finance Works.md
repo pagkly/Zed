@@ -1,7 +1,7 @@
 ---
 alias: [Project Finance]
 created: 2021-03-02T22:54:43 (UTC +11:00)
-tags: [Project [[Finance]] Definition, How Project Finance Works]
+tags: [Project Finance Definition, How Project Finance Works]
 source: https://www.investopedia.com/terms/p/projectfinance.asp
 author: Adam Hayes
 ---

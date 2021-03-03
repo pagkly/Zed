@@ -1,7 +1,7 @@
 ---
 alias: [Ethereum Classic]
 created: 2021-03-02T19:42:14 (UTC +11:00)
-tags: [Ethereum Classic, [[Ethereum]] Classic]
+tags: [Ethereum Classic, Ethereum Classic]
 source: https://www.investopedia.com/terms/e/[[Ethereum|ethereum]]-classic.asp
 author: Jake Frankenfield
 ---

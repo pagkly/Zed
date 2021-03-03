@@ -1,7 +1,7 @@
 ---
 alias: [Prepaid Expense]
 created: 2021-03-02T22:47:30 (UTC +11:00)
-tags: [Prepaid [[Expense Definition]], Prepaid Expense Definition]
+tags: [Prepaid Expense Definition, Prepaid Expense Definition]
 source: https://www.investopedia.com/terms/p/prepaidexpense.asp
 author: Alicia Tuovila
 ---
