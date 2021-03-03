@@ -1,0 +1,47 @@
+---
+alias: [Federal Funds]
+created: 2021-03-02T19:52:36 (UTC +11:00)
+tags: [Federal Funds, Federal Funds Definition]
+source: https://www.investopedia.com/terms/f/federalfunds.asp
+author: James Chen
+---
+
+# Federal Funds
+
+> ## Excerpt
+> Federal funds are excess reserves that commercial banks deposit at regional Federal Reserve banks which can then be lent to other commercial banks.
+
+---
+
+Federal Funds Definition
+## What Are Federal Funds?
+
+Federal funds, often referred to as fed funds, are excess reserves that [commercial banks](https://www.investopedia.com/terms/c/commercialbank.asp) and other financial institutions deposit at regional [Federal Reserve banks](https://www.investopedia.com/terms/f/federalreservebank.asp); these funds can be lent, then, to other market participants with insufficient cash on hand to meet their lending and reserve needs. The loans are unsecured and are made at a relatively low interest rate, called the federal funds rate or overnight rate, as that is the period for which most such loans are made.
+
+### Key Takeaways
+
+-   Federal funds refer to excess reserves held by financial institutions, over and above the mandated reserve requirements of the central bank.
+-   Banks will borrow or lend their excess funds to each other on an overnight basis, as some banks find themselves with too much reserves and others with too little.
+-   The federal funds rate is a target set by the central bank, but the actual market rate for federal fund reserves is determined by this overnight inter-bank lending market.
+
+## Understanding Federal Funds
+
+Fed funds help commercial banks meet their daily [reserve requirements](https://www.investopedia.com/terms/r/requiredreserves.asp), which is the amount of money that banks are required to maintain at their regional Federal Reserve. Reserve requirements are based on the volume of customer deposits that each bank holds. Excess, or secondary, reserves are cash amounts held by a bank or financial institution in excess of what is required by regulators, creditors or [internal controls](https://www.investopedia.com/terms/i/internalcontrols.asp). For commercial banks, excess reserves are measured against standard reserve requirement amounts set by central banking authorities. These required [reserve ratios](https://www.investopedia.com/terms/r/reserveratio.asp) set the minimum liquid [deposits](https://www.investopedia.com/terms/d/deposit.asp) (such as cash) that must be in reserve at a bank; more is considered excess.
+
+The Federal Reserve Bank sets a target rate or range for the fed funds rate; it is adjusted periodically based on economic and monetary conditions.
+
+## Overnight Markets
+
+The fed funds market operates in the United States and runs parallel to the offshore [eurodollar](https://www.investopedia.com/terms/e/eurodollar.asp) deposit market. Eurodollars are also traded overnight and the interest rate is virtually identical to the fed funds rate, but the transactions must be booked outside of the United States. Multinational banks often use branches domiciled in the Caribbean or Panama for these accounts, even though the transactions may be executed in U.S. trading rooms. Both are wholesale markets with transactions ranging from $2 million to well over $1 billion.
+
+## The Fed Funds Rates
+
+The Federal Reserve uses open market operations to manage the supply of money in the economy and adjust short-term interest rates. This means that the Fed buys or sells some of the [government bonds](https://www.investopedia.com/terms/c/credit_market.asp) and bills it has issued; this increases or decreases the money supply and, thus, lowers or raises short-term interest rates. [Open Market Operations](https://www.investopedia.com/terms/o/openmarketoperations.asp) are carried out by the Federal Reserve Bank of New York.
+
+The federal funds rate (fed funds rate) is one of the most important interest rates for the U.S. economy, as it affects broad economic conditions in the country, including inflation, growth, and employment. The federal funds rate is set in U.S. dollars and is typically charged on overnight loans. The fed funds rate is thus the effective interest rate at which commercial banks lend reserves to one another on an overnight basis.
+
+The federal funds rate is closely related to short-term interest rates in the broader market, so these transactions directly impact eurodollar and [LIBOR](https://www.investopedia.com/terms/l/libor.asp) rates as well. The Federal Reserve announces the effective fed funds rate at the end of each trading day, which is the weighted average rate for all transactions in the market that day.
+
+## Market Participants
+
+The participants in the fed funds market include U.S. commercial banks, U.S. branches of foreign banks, savings and loan organizations and government-sponsored enterprises, such as the Federal National Mortgage Association (Fannie Mae) and [Federal Home Loan Mortgage Association](https://www.investopedia.com/terms/f/freddiemac.asp) (Freddie Mac), as well as securities firms and agencies of the federal government.

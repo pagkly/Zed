@@ -1,0 +1,267 @@
+---
+alias: [T-Test Definition]
+created: 2021-03-02T23:50:10 (UTC +11:00)
+tags: [T-Test Definition, T-Test Definition]
+source: https://www.investopedia.com/terms/t/t-test.asp
+author: By
+Will Kenton
+---
+
+# T-Test Definition
+
+> ## Excerpt
+> A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+
+---
+
+T-Test Definition
+## What Is a T-Test?
+
+A t-test is a type of inferential [statistic](https://www.investopedia.com/terms/s/statistics.asp) used to determine if there is a significant difference between the means of two groups, which may be related in certain features. It is mostly used when the data sets, like the data set recorded as the outcome from flipping a coin 100 times, would follow a normal distribution and may have unknown variances. A t-test is used as a hypothesis testing tool, which allows testing of an [assumption](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) applicable to a population. 
+
+A t-test looks at the t-statistic, the [t-distribution](https://www.investopedia.com/terms/t/tdistribution.asp) values, and the degrees of freedom to determine the statistical significance. To conduct a test with three or more means, one must use an [analysis of variance](https://www.investopedia.com/terms/a/anova.asp).
+
+## Explaining the T-Test
+
+Essentially, a t-test allows us to compare the average values of the two data sets and determine if they came from the same population. In the above examples, if we were to take a sample of students from class A and another sample of students from class B, we would not expect them to have exactly the same mean and standard deviation. Similarly, samples taken from the placebo-fed control group and those taken from the drug prescribed group should have a slightly different mean and standard deviation.
+
+Mathematically, the t-test takes a sample from each of the two sets and establishes the problem statement by assuming a null hypothesis that the two means are equal. Based on the applicable formulas, certain values are calculated and compared against the standard values, and the assumed null hypothesis is accepted or rejected accordingly.
+
+If the null hypothesis qualifies to be rejected, it indicates that data readings are strong and are probably not due to chance. The t-test is just one of many tests used for this purpose. Statisticians must additionally use tests other than the t-test to examine more variables and tests with larger sample sizes. For a large sample size, statisticians use a [z-test](https://www.investopedia.com/terms/z/z-test.asp). Other testing options include the chi-square test and the f-test.
+
+There are three types of t-tests, and they are categorized as dependent and independent t-tests.
+
+### Key Takeaways
+
+-   A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+-   The t-test is one of many tests used for the purpose of [hypothesis testing](https://www.investopedia.com/terms/h/hypothesistesting.asp) in statistics.
+-   Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the standard deviation of each group, and the number of data values of each group.
+-   There are several different types of t-test that can be performed depending on the data and type of analysis required.
+
+## Ambiguous Test Results
+
+Consider that a drug manufacturer wants to test a newly invented medicine. It follows the standard procedure of trying the drug on one group of patients and giving a placebo to another group, called the control group. The placebo given to the control group is a substance of no intended therapeutic value and serves as a benchmark to measure how the other group, which is given the actual drug, responds.
+
+After the drug trial, the members of the placebo-fed control group reported an increase in average life expectancy of three years, while the members of the group who are prescribed the new drug report an increase in average life expectancy of four years. Instant observation may indicate that the drug is indeed working as the results are better for the group using the drug. However, it is also possible that the observation may be due to a chance occurrence, especially a surprising piece of luck. A t-test is useful to conclude if the results are actually correct and applicable to the entire population.
+
+In a school, 100 students in class A scored an average of 85% with a standard deviation of 3%. Another 100 students belonging to class B scored an average of 87% with a standard deviation of 4%. While the average of class B is better than that of class A, it may not be correct to jump to the conclusion that the overall performance of students in class B is better than that of students in class A. This is because there is natural variability in the test scores in both classes, so the difference could be due to chance alone. A t-test can help to determine whether one class fared better than the other.
+
+## T-Test Assumptions
+
+1.  The first assumption made regarding t-tests concerns the scale of measurement. The assumption for a t-test is that the scale of measurement applied to the data collected follows a continuous or ordinal scale, such as the scores for an IQ test.
+2.  The second assumption made is that of a simple random sample, that the data is collected from a representative, randomly selected portion of the total population.
+3.  The third assumption is the data, when plotted, results in a normal distribution, bell-shaped distribution curve.
+4.  The final assumption is the homogeneity of variance. Homogeneous, or equal, variance exists when the standard deviations of samples are approximately equal.
+
+## Calculating T-Tests
+
+Calculating a t-test requires three key data values. They include the difference between the mean values from each data set (called the mean difference), the standard deviation of each group, and the number of data values of each group.
+
+The outcome of the t-test produces the t-value. This calculated t-value is then compared against a value obtained from a critical value table (called the [T-Distribution Table](http://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)). This comparison helps to determine the effect of chance alone on the difference, and whether the difference is outside that chance range. The t-test questions whether the difference between the groups represents a true difference in the study or if it is possibly a meaningless random difference.
+
+### T-Distribution Tables
+
+The T-Distribution Table is available in [one-tail](https://www.investopedia.com/terms/o/one-tailed-test.asp) and [two-tails](https://www.investopedia.com/terms/t/two-tailed-test.asp) formats. The former is used for assessing cases which have a fixed value or range with a clear direction (positive or negative). For instance, what is the probability of output value remaining below -3, or getting more than seven when rolling a pair of dice? The latter is used for range bound analysis, such as asking if the coordinates fall between -2 and +2.
+
+The calculations can be performed with standard software programs that support the necessary statistical functions, like those found in MS Excel.
+
+### T-Values and Degrees of Freedom
+
+The t-test produces two values as its output: t-value and [degrees of freedom](https://www.investopedia.com/terms/d/degrees-of-freedom.asp). The t-value is a ratio of the difference between the mean of the two sample sets and the variation that exists within the sample sets. While the numerator value (the difference between the mean of the two sample sets) is straightforward to calculate, the denominator (the variation that exists within the sample sets) can become a bit complicated depending upon the type of data values involved. The denominator of the ratio is a measurement of the dispersion or variability. Higher values of the t-value, also called t-score, indicate that a large difference exists between the two sample sets. The smaller the t-value, the more similarity exists between the two sample sets.
+
+-   A large t-score indicates that the groups are different.
+-   A small t-score indicates that the groups are similar.
+
+Degrees of freedom refers to the values in a study that has the freedom to vary and are essential for assessing the importance and the validity of the null hypothesis. Computation of these values usually depends upon the number of data records available in the sample set.
+
+## Correlated (or Paired) T-Test
+
+The correlated t-test is performed when the samples typically consist of [matched pairs](https://www.investopedia.com/terms/p/pairstrade.asp) of similar units, or when there are cases of repeated measures. For example, there may be instances of the same patients being tested repeatedly—before and after receiving a particular treatment. In such cases, each patient is being used as a control sample against themselves.
+
+This method also applies to cases where the samples are related in some manner or have matching characteristics, like a comparative analysis involving children, parents or siblings. Correlated or paired t-tests are of a dependent type, as these involve cases where the two sets of samples are related.
+
+The formula for computing the t-value and degrees of freedom for a paired t-test is:
+
+T\=mean1−mean2s(diff)(n)where:mean1 and mean2\=The average values of each of the sample setss(diff)\=The standard deviation of the differences of the paired data valuesn\=The sample size (the number of paired differences)n−1\=The degrees of freedom\\begin{aligned}&T=\\frac{\\textit{mean}1 - \\textit{mean}2}{\\frac{s(\\text{diff})}{\\sqrt{(n)}}}\\\\&\\textbf{where:}\\\\&\\textit{mean}1\\text{ and }\\textit{mean}2=\\text{The average values of each of the sample sets}\\\\&s(\\text{diff})=\\text{The standard deviation of the differences of the paired data values}\\\\&n=\\text{The sample size (the number of paired differences)}\\\\&n-1=\\text{The degrees of freedom}\\end{aligned}
+
+The remaining two types belong to the independent t-tests. The samples of these types are selected independent of each other—that is, the data sets in the two groups don’t refer to the same values. They include cases like a group of 100 patients being split into two sets of 50 patients each. One of the groups becomes the control group and is given a placebo, while the other group receives the prescribed treatment. This constitutes two independent sample groups which are unpaired with each other.
+
+## Equal Variance (or Pooled) T-Test
+
+The equal variance t-test is used when the number of samples in each group is the same, or the variance of the two data sets is similar. The following formula is used for calculating t-value and degrees of freedom for equal variance t-test:
+
+T-value\=mean1−mean2(n1−1)×var12+(n2−1)×var22n1+n2−2×1n1+1n2where:mean1 and mean2\=Average values of eachof the sample setsvar1 and var2\=Variance of each of the sample setsn1 and n2\=Number of records in each sample set\\begin{aligned}&\\text{T-value} = \\frac{ mean1 - mean2 }{\\frac {(n1 - 1) \\times var1^2 + (n2 - 1) \\times var2^2 }{ n1 +n2 - 2}\\times \\sqrt{ \\frac{1}{n1} + \\frac{1}{n2}} } \\\\&\\textbf{where:}\\\\&mean1 \\text{ and } mean2 = \\text{Average values of each} \\\\&\\text{of the sample sets}\\\\&var1 \\text{ and } var2 = \\text{Variance of each of the sample sets}\\\\&n1 \\text{ and } n2 = \\text{Number of records in each sample set} \\end{aligned}
+
+and,
+
+Degrees of Freedom\=n1+n2−2where:n1 and n2\=Number of records in each sample set\\begin{aligned} &\\text{Degrees of Freedom} = n1 + n2 - 2 \\\\ &\\textbf{where:}\\\\ &n1 \\text{ and } n2 = \\text{Number of records in each sample set} \\\\ \\end{aligned}
+
+## Unequal Variance T-Test
+
+The unequal [variance t-test](https://www.investopedia.com/ask/answers/073115/what-assumptions-are-made-when-conducting-ttest.asp) is used when the number of samples in each group is different, and the variance of the two data sets is also different. This test is also called the Welch's t-test. The following formula is used for calculating t-value and degrees of freedom for an unequal variance t-test:
+
+T-value\=mean1−mean2var12n1+var22n2where:mean1 and mean2\=Average values of eachof the sample setsvar1 and var2\=Variance of each of the sample setsn1 and n2\=Number of records in each sample set\\begin{aligned}&\\text{T-value} = \\frac{ mean1 - mean2 }{\\frac { var1^2 }{ n1 } + \\frac{ var2^2 }{ n2 } } \\\\&\\textbf{where:}\\\\&mean1 \\text{ and } mean2 = \\text{Average values of each} \\\\&\\text{of the sample sets} \\\\&var1 \\text{ and } var2 = \\text{Variance of each of the sample sets} \\\\&n1 \\text{ and } n2 = \\text{Number of records in each sample set} \\\\ \\end{aligned}
+
+and,
+
+Degrees of Freedom\=(var12n1+var22n2)2(var12n1)2n1−1+(var22n2)2n2−1where:var1 and var2\=Variance of each of the sample setsn1 and n2\=Number of records in each sample set\\begin{aligned} &\\text{Degrees of Freedom} = \\frac{ \\left ( \\frac{ var1^2 }{ n1 } + \\frac{ var2^2 }{ n2 } \\right )^2 }{ \\frac{ \\left ( \\frac{ var1^2 }{ n1 } \\right )^2 }{ n1 - 1 } + \\frac{ \\left ( \\frac{ var2^2 }{ n2 } \\right )^2 }{ n2 - 1}} \\\\ &\\textbf{where:}\\\\ &var1 \\text{ and } var2 = \\text{Variance of each of the sample sets} \\\\ &n1 \\text{ and } n2 = \\text{Number of records in each sample set} \\\\ \\end{aligned}
+
+## Determining the Correct T-Test to Use
+
+The following flowchart can be used to determine which t-test should be used based on the characteristics of the sample sets. The key items to be considered include whether the sample records are similar, the number of data records in each sample set, and the variance of each sample set.
+
+Image by Julie Bang © Investopedia 2019
+
+## Unequal Variance T-Test Example
+
+Assume that we are taking a diagonal measurement of paintings received in an art gallery. One group of samples includes 10 paintings, while the other includes 20 paintings. The data sets, with the corresponding [mean](https://www.investopedia.com/terms/m/mean.asp) and variance values, are as follows:
+
+ 
+
+Set 1
+
+Set 2
+
+ 
+
+19.7
+
+28.3
+
+ 
+
+20.4
+
+26.7
+
+ 
+
+19.6
+
+20.1
+
+ 
+
+17.8
+
+23.3
+
+ 
+
+18.5
+
+25.2
+
+ 
+
+18.9
+
+22.1
+
+ 
+
+18.3
+
+17.7
+
+ 
+
+18.9
+
+27.6
+
+ 
+
+19.5
+
+20.6
+
+ 
+
+21.95
+
+13.7
+
+ 
+
+ 
+
+23.2
+
+ 
+
+ 
+
+17.5
+
+ 
+
+ 
+
+20.6
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+23.9
+
+ 
+
+ 
+
+21.6
+
+ 
+
+ 
+
+24.3
+
+ 
+
+ 
+
+20.4
+
+ 
+
+ 
+
+23.9
+
+ 
+
+ 
+
+13.3
+
+Mean
+
+19.4
+
+21.6
+
+Variance
+
+1.4
+
+17.1
+
+Though the mean of Set 2 is higher than that of Set 1, we cannot conclude that the population corresponding to Set 2 has a higher mean than the population corresponding to Set 1. Is the difference from 19.4 to 21.6 due to chance alone, or do differences really exist in the overall populations of all the paintings received in the art gallery? We establish the problem by assuming the null hypothesis that the mean is the same between the two sample sets and conduct a t-test to test if the hypothesis is plausible.
+
+Since the number of [data](https://www.investopedia.com/terms/d/data-analytics.asp) records is different (n1 = 10 and n2 = 20) and the variance is also different, the t-value and degrees of freedom are computed for the above data set using the formula mentioned in the Unequal Variance T-Test section.
+
+The t-value is -2.24787. Since the minus sign can be ignored when comparing the two t-values, the computed value is 2.24787.
+
+The degrees of freedom value is 24.38 and is reduced to 24, owing to the formula definition requiring rounding down of the value to the least possible integer value.
+
+One can specify a level of probability (alpha level, level of significance, _p_) as a criterion for acceptance. In most cases, a 5% value can be assumed.
+
+Using the degree of freedom value as 24 and a 5% level of significance, a look at the t-value distribution table gives a value of 2.064. Comparing this value against the computed value of 2.247 indicates that the calculated t-value is greater than the table value at a significance level of 5%. Therefore, it is safe to reject the null hypothesis that there is no difference between means. The population set has intrinsic differences, and they are not by chance.

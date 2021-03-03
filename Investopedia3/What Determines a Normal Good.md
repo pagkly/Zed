@@ -1,0 +1,57 @@
+---
+alias: [Normal Good]
+created: 2021-03-02T21:50:23 (UTC +11:00)
+tags: [Normal Good Definition, What Determines a Normal Good]
+source: https://www.investopedia.com/terms/n/normal-good.asp
+author: Will Kenton
+---
+
+# Normal Good Definition
+
+> ## Excerpt
+> A normal good is a good that experiences an increase in its demand due to a rise in consumers' income. Normal goods include food staples and clothing.
+
+---
+
+What Determines a Normal Good
+## What Is a Normal Good?
+
+A normal good is a good that experiences an increase in its demand due to a rise in consumers' income. In other words, if there's an increase in wages, demand for normal goods increases while conversely, wage declines or layoffs lead to a reduction in demand.
+
+## Understanding Normal Goods
+
+A normal good, also called a necessary good, doesn't refer to the quality of the good but rather, the level of demand for the good in relation to wage increases or declines.
+
+A normal good has an elastic relationship between income and demand for the good. In other words, changes in demand and income are positively correlated or move in the same direction. [Income elasticity of demand](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp) measures the magnitude with which the quantity demanded for a good changes in reaction to a change in income. It is used to understand changes in consumption patterns that result from changes in [purchasing power](https://www.investopedia.com/terms/p/purchasingpower.asp).
+
+Income elasticity of demand can be calculated by taking the percentage of change in the quantity demanded for the good and dividing it by the percentage change in income. A normal good has an income elasticity of demand that is positive, but less than one. 
+
+If the demand for blueberries increases by 11 percent when aggregate income increases by 33 percent, then blueberries are said to have an income elasticity of demand of 0.33, or (.11/.33). As a result, blueberries would qualify as a normal good. Other examples of normal goods include food staples, clothing, and household appliances.
+
+Economists use income elasticity of demand to determine whether a good is a necessity or luxury item. Companies also analyze income elasticity of demand for their products and services to help forecast sales in times of economic expansions resulting in rising incomes, or during economic downturns resulting in declining incomes.
+
+### Key Takeaways
+
+-   A normal good is a good that experiences an increase in its demand due to a rise in consumers' income.
+-   Normal goods has a positive correlation between income and demand.
+-   Examples of normal goods include food staples, clothing, and household appliances.
+
+## Inferior Goods and Normal Goods
+
+[Inferior goods](https://www.investopedia.com/terms/i/inferior-good.asp) are the opposite of normal goods. Inferior goods are goods that see their demand drop as consumers' incomes rise. In other words, as an economy improves and wages rise, consumers would rather have a more costly alternative than inferior goods. However, the term "inferior" doesn't refer to quality, but rather, affordability.
+
+Public transportation tends to have an income elasticity of demand coefficient that is less than zero, meaning that its demand falls as income rises, classifying public transport as an inferior good. This reveals a generalization in human behavior; most people would prefer to drive a car if given a choice. Inferior goods include all of the goods and services that people purchase only because they can't afford the higher-quality substitutes of these goods.
+
+## Luxury Goods and Normal Goods
+
+[Luxury goods](https://www.investopedia.com/terms/l/luxury-item.asp), on the other hand, have an income elasticity of demand that is greater than one. If the demand for sports cars increases by 25 percent when aggregate income increases by 20 percent, then sports cars are considered luxury goods because they have an income elasticity of demand of 1.25. Other luxury goods include vacations, consumer [durables](https://www.investopedia.com/terms/d/durables.asp), fine dining, and gym memberships.
+
+People spend a greater proportion of their income on luxury goods as their income rises, whereas people spend an equal or lesser proportion of their income on normal and inferior goods as their income increases. Typically, people with lower incomes spend a greater proportion of their income on normal and inferior goods than people with higher incomes. However, on an individual level, a particular good can be a normal good to one person but an inferior or luxury good to another.
+
+## Example of a Normal Good
+
+Let's say Jack earns $3,000 per month and currently spends 40% of his income on food and clothing or $1,200 per month. Jack gets a raise and now earns $3,500 per month for a 16% increase in income. Jack can afford more, so he increases his purchases or demand for food and clothing to $1,320 per month for a 10% increase or ($1,320 - $1,200) / $1,200) x 100.
+
+Food and clothing are considered normal goods for Jack because he increased his purchases by 10% when he realized a 16% raise. However, let's prove it by calculating the income elasticity of demand, which is done by the following: (percentage change in demand / percentage change in income).
+
+The result is .625 or (.10 change in purchases /.16 change in income). Since food and clothing have an income elasticity of demand of less than one, food and clothing would be normal goods.

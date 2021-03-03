@@ -1,0 +1,110 @@
+---
+alias: [Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)]
+created: 2021-03-02T23:54:21 (UTC +11:00)
+tags: [Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA), Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)]
+source: https://www.investopedia.com/terms/t/tefra.asp
+author: Will Kenton
+---
+
+# Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)
+
+> ## Excerpt
+> TEFRA is federal tax legislation passed in 1982 to increase revenue in the country through a combination of federal spending cuts, tax increases, and reform measures.
+
+---
+
+Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)
+## The Tax Equity and Fiscal Responsibility Act of 1982
+
+The Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA) is federal legislation passed in 1982 to cut the budget deficit through federal spending cuts, tax increases, and reform measures. The legislation reversed some elements of the Economic Recovery Tax Act of 1981 (ERTA). Both pieces of legislation were passed early in the presidency of Ronald Reagan.
+
+### Key Takeaways
+
+-   The Tax Equity and Fiscal Responsibility Act of 1982 was the biggest tax increase in U.S. history, when adjusted for inflation.
+-   The legislation quickly followed and was a response to the Economic Recovery Tax Act of 1981, which was the biggest tax cut in U.S. history.
+-   Following the passage of ERTA, the U.S. fell into the second half of a "double dip" recession, and the U.S. budget deficit was soaring.
+-   TEFRA was steered to passage by Republican Senator Bob Dole.
+
+## Understanding the Tax Equity and Fiscal Responsibility Act of 1982
+
+Adjusted for inflation, TEFRA remains the biggest tax increase in U.S. history. Ironically, it was a response to ERTA, which passed a year earlier and remains the largest tax cut in U.S. history. TEFRA modified parts of ERTA at a time of soaring [budget deficits](https://www.investopedia.com/terms/b/budget-deficit.asp) because of falling revenue and increasing government expenditures. The U.S. was also in the middle of a severe "double dip" recession when TEFRA was passed.
+
+Shaped by Republican Senator Robert Dole, who was then chairman of the Senate Finance Committee, the Tax Equity and Fiscal Responsibility Act was meant to reduce the growing federal deficit by closing [loopholes](https://www.investopedia.com/terms/l/loophole.asp) in the tax system, introducing stricter compliance and tax-collection measures, increasing [excise taxes](https://www.investopedia.com/terms/e/excisetax.asp) on cigarettes and telephone services, and increasing corporate taxes. TEFRA also rescinded some of ERTA's reductions in personal income-tax rates that had not yet gone into effect.
+
+## Other Elements of the Tax Equity and Fiscal Responsibility Act
+
+TEFRA removed some of the [tax breaks](https://www.investopedia.com/terms/t/tax-break.asp) businesses received under ERTA, such as [accelerated depreciation](https://www.investopedia.com/terms/a/accelerateddepreciation.asp). It also instituted a 10% withholding tax on dividends and interest paid to individuals who had no certified [tax identification numbers](https://www.investopedia.com/terms/t/tax-indentification-number-tin.asp). TEFRA affected a broad range of taxpayers as it modified the rules governing pension plans, life insurance companies, corporate mergers, acquisitions and redemption of stock, [safe harbor](https://www.investopedia.com/terms/s/safeharbor.asp) leases.
+
+## Historic Tax Increase Under TEFRA
+
+President Ronald Reagan had campaigned on tax cuts and limited government, so many were puzzled that he would agree to sign TEFRA and unwind some of ERTA, a significant legislative achievement. Reagan resisted any tax increases for a time, but eventually relented only when he extracted a pledge for even bigger spending cuts as part of the deal. Signing the bill into law, Reagan said he was supporting "a limited loophole-closing tax increase" to raise more than $98 billion over three years in return for spending cuts worth $280 billion during the same period.
+
+**Year/Quarter**
+
+  
+
+**Real GDP Growth**
+
+  
+
+1982/III
+
+  
+
+\-1.50%
+
+  
+
+1982/IV
+
+  
+
+0.40%
+
+  
+
+1983/I
+
+  
+
+5.00%
+
+  
+
+1983/II
+
+  
+
+9.30%
+
+  
+
+1983/III
+
+  
+
+8.10%
+
+  
+
+1983/IV
+
+  
+
+8.40%
+
+  
+
+1984/I
+
+  
+
+8.10%
+
+  
+
+1984/II
+
+  
+
+7.10%

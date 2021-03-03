@@ -1,0 +1,66 @@
+---
+alias: [Clearinghouse Definition]
+created: 2021-03-02T18:51:36 (UTC +11:00)
+tags: [Clearinghouse Definition, What Is a Clearinghouse?]
+source: https://www.investopedia.com/terms/c/clearinghouse.asp
+author: By
+Akhilesh Ganti
+---
+
+# Clearinghouse Definition
+
+> ## Excerpt
+> A clearinghouse or clearing division is an intermediary that validates and finalizes transactions between buyers and sellers in a financial market.
+
+---
+
+What Is a Clearinghouse?
+## The Clearinghouse: An Overview
+
+A clearinghouse is a designated intermediary between a buyer and seller in a financial market. The clearinghouse validates and finalizes the transaction, ensuring that both the buyer and the seller honor their contractual obligations.
+
+Every financial market has a designated clearinghouse or an internal clearing division to handle this function.
+
+## Understanding the Clearinghouse
+
+The responsibilities of a clearinghouse include "clearing" or finalizing trades, settling trading accounts, collecting [margin](https://www.investopedia.com/terms/m/margin.asp) payments, regulating delivery of the assets to their new owners, and reporting trading data.
+
+Clearinghouses act as third parties for futures and [options contracts](https://www.investopedia.com/terms/o/optionscontract.asp), as buyers to every [clearing member](https://www.investopedia.com/terms/m/memberfirm.asp) seller, and as sellers to every clearing member buyer.
+
+The clearinghouse enters the picture after a buyer and a seller execute a trade. Its role is to accomplish the steps that finalize, and therefore validate, the transaction. In acting as a middleman, the clearinghouse provides the security and efficiency that is integral to stability in a financial market.
+
+In order to act efficiently, a clearinghouse takes the opposite position of each trade, which greatly reduces the cost and risk of settling multiple transactions among multiple parties. While their mandate is to reduce risk, the fact that they have to act as both buyer and seller at the inception of a trade means that they are subject to default risk from both parties. To mitigate this, clearinghouses impose margin requirements.
+
+### The Clearinghouse in the Futures Market
+
+The futures market is highly dependent on the clearinghouse since its financial products are leveraged. That is, they typically involve borrowing in order to invest, a process that requires a stable intermediary.
+
+Each exchange has its own clearinghouse. All members of an exchange are required to clear their trades through the clearinghouse at the end of each trading session and to deposit with the clearinghouse a sum of money, based on the clearing house's margin requirements, that is sufficient to cover the member's debit balance.
+
+### Key Takeaways
+
+-   A clearinghouse or clearing division is an intermediary between a buyer and a seller in a financial market.
+-   In acting as the middleman, the clearinghouse provides the security and efficiency that is integral for financial market stability.
+-   To mitigate default risk in futures trading, clearinghouses impose margin requirements.
+
+### Futures Clearing House Example
+
+Assume that a trader buys a futures contract. At this point, the clearinghouse has already set the initial and maintenance margin requirements.
+
+The initial margin can be viewed as a good faith assurance that the trader can afford to hold the trade until it is closed. These funds are held by the clearing firm but within the trader's account, and can't be used for other trades. The intention is to offset any losses the trader may experience in the transaction.
+
+The maintenance margin, usually a fraction of the initial margin requirement, is the amount that must be available in a trader's account to keep the trade open. If the trader's account equity drops below this threshold the account holder will receive a [margin call](https://www.investopedia.com/terms/m/margincall.asp) demanding that the account be replenished to the level that satisfies the initial margin requirements.
+
+If the trader fails to meet the margin call, the trade will be closed since the account cannot reasonably withstand further losses.
+
+In this example, the clearinghouse has ensured that there is sufficient money in the account to cover any losses that the account holder may suffer in the trade. Once the trade is closed, the remaining margin funds are released to the trader. 
+
+The process has helped reduce default risk. In its absence, one party could back out of the agreement or fail to produce money owed at the end of the transaction.
+
+In general, this is termed transactional risk and is obviated by the involvement of a clearinghouse.
+
+### Stock Market Clearinghouses
+
+Stock exchanges such as the New York Stock Exchange (NYSE) have clearing divisions that ensure that a stock trader has enough money in an account to fund the trades being placed. The clearing division acts as the middle man, helping facilitate the smooth transfer of the stock shares and the money.
+
+An investor who sells stock shares needs to know that the money will be delivered. The clearing divisions make sure this happens.

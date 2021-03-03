@@ -1,0 +1,59 @@
+---
+alias: [Unit Sales]
+created: 2021-03-03T00:21:24 (UTC +11:00)
+tags: [Unit Sales Definition, Unit Sales As a Measure of Output for a Given Period]
+source: https://www.investopedia.com/terms/u/unitsales.asp
+author: Caroline Banton
+---
+
+# Unit Sales Definition
+
+> ## Excerpt
+> The unit sales number on a balance sheet indicates the actual numbers of a product sold in a given reporting period.
+
+---
+
+Unit Sales As a Measure of Output for a Given Period
+## What Are Unit Sales?
+
+The unit sales number on a balance sheet represents the total sales of a product in a given period. This sales information is used to determine the price point that allows for the greatest profit per unit considering the actual cost of production.
+
+To stock analysts, unit sales are a valuable measure of a product's contribution to a company's balance sheet.
+
+## Understanding Unit Sales
+
+Unit sales appear on a company's income statement. They are examined over different accounting periods, such as monthly, quarterly, or yearly.
+
+Internally, company marketing executives might use this figure to help determine the right price point for a product.
+
+### Key Takeaways
+
+-   Unit sales are useful for determining the best price point for a product, factoring in production costs.
+-   Using unit sales, analysts can determine the average selling price over time to monitor sales performance.
+-   Service companies are less concerned with unit sales because their output might be benchmarked qualitatively rather than quantitatively.
+
+Analysts use it to evaluate a product's real contribution to the company's bottom line.
+
+Among other things, an analyst can see whether a product is facing [margin pressure](https://www.investopedia.com/terms/m/marginpressure.asp). For example, assume XYZ Corp. has $250 million in revenue, and it sold 5 million units. By taking the ratio of the two ($250 million/5 million), the analyst can see that the average selling price (ASP) is $50 per unit. Suppose that in the next reporting period that same firm has an average selling price of $48. The analyst would consider this at least a red flag that calls for more research.
+
+Comparing unit sales every year may help analysts determine if a company is moving in a positive direction. For example, Apple was predicted to sell approximately 235 million units of its iPhone during the 2015 fiscal year when the iPhone market was growing. These predicted sales were a dramatic increase over the 2014 fiscal year sales of about 170 million units worldwide. By 2019, the figure had dropped to about 38 million.
+
+This did not hurt Apple's stock. In fact, its share price almost tripled in the same time period. But it suggests that the smartphone industry as a whole is reaching saturation point.
+
+### Break-Even Point (BEP)
+
+One component of unit sales analysis is the [break-even](https://www.investopedia.com/terms/b/breakevenpoint.asp) quantity. Break-even quantity is the number of units that must be sold before the company experiences no loss (and no profit) by producing it.
+
+Internally, the unit sales figure is used to determine the correct price point for a product.
+
+As production costs can vary based on quantity, the price of an individual unit may need to be adjusted to ensure the company breaks even on its investment. Any revenue beyond the break-even point (BEP) is profit, while a total that falls below that point is a loss.
+
+Break-even analysis includes various assumptions regarding fixed and variable costs. These assumptions may lead to inaccuracy in the estimates because the relationship between sales and fixed or variable costs is not always linear. For example, it may be possible to buy materials at lower costs when ordered at a higher volume, while storing a larger quantity may raise the fixed costs associated with material storage.
+
+## Real-World Example of Unit Sales
+
+To return to Apple, in November 2018, the company announced that it would no longer provide unit sales numbers in its earnings reports. This news occurred after Apple had announced fourth-quarter results that exceeded expectations.
+
+In the case of Apple, iPhone unit sales are dropping. However, counteracting this dynamic, Apple is increasing its prices for its iPhones and other products. Thus, the company is focusing on ways to increase revenues in an era of slower unit sales growth.
+
+Apple is concerned that divulging unit sales will cause investors to doubt Apple's ability to sell devices. Instead, the company intends to focus on services revenue, which represented 16% of its quarterly revenue and grew 17% year-over-year, according to Jason Sonenshine, a markets reporter for TheStreet.com.

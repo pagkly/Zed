@@ -1,0 +1,89 @@
+---
+alias: [Subsidy]
+created: 2021-03-02T23:47:47 (UTC +11:00)
+tags: [Subsidy Definition, Subsidy Definition]
+source: https://www.investopedia.com/terms/s/subsidy.asp
+author: Investopedia Staff
+---
+
+# Subsidy Definition
+
+> ## Excerpt
+> A subsidy is a benefit given by the government to groups or individuals, usually in the form of a cash payment or tax reduction.
+
+---
+
+Subsidy Definition
+## What is a Subsidy?
+
+A subsidy is a benefit given to an individual, business, or institution, usually by the government. It is usually in the form of a [cash](https://www.investopedia.com/terms/c/cash.asp) payment or a [tax](https://www.investopedia.com/terms/t/taxes.asp) reduction. The subsidy is typically given to remove some type of burden, and it is often considered to be in the overall interest of the public, given to promote a social good or an economic policy.
+
+### Key Takeaways
+
+-   A subsidy is a direct or indirect payment to individuals or firms, usually in the form of a cash payment from the government or a targeted tax cut.
+-   In economic theory, subsidies can be used to offset market failures and externalities in order to achieve greater economic efficiency.
+-   However, critics of subsidies point to problems with calculating optimal subsidies, overcoming unseen costs, and preventing political incentives from making subsidies more burdensome than they are beneficial.
+
+## Understanding Subsidies
+
+A subsidy takes the form of a payment, provided directly or indirectly, to the receiving individual or business entity. Subsidies are generally seen as a privileged type of financial aid, as they lessen an associated burden that was previously levied against the receiver, or promote a particular action by providing financial support.
+
+A subsidy typically supports particular sectors of a nation’s [economy](https://www.investopedia.com/terms/e/economy.asp). [It can assist struggling industries](https://www.investopedia.com/ask/answers/060215/how-do-government-subsidies-help-industry.asp) by lowering the burdens placed on them, or encourage new developments by providing financial support for the endeavors. Often, these areas are not being effectively supported through the actions of the general economy, or may be undercut by activities in rival economies.
+
+## Direct vs Indirect Subsidies
+
+Direct subsidies are those that involve an actual payment of funds toward a particular individual, group or industry.
+
+Indirect subsidies are those that do not hold a predetermined monetary value or involve actual cash outlays. They can include activities such as price reductions for required goods or services that can be government-supported. This allows the needed items to be purchased below the current [market rate](https://www.investopedia.com/terms/o/open-market-rate.asp), resulting in a savings for those the subsidy is designed to help.
+
+## Examples of Subsidies
+
+There are many forms of subsidies given out by the government. Two of the most common types of individual subsidies are welfare payments and [unemployment benefits](https://www.investopedia.com/terms/u/unemployment-income.asp). The objective of these types of subsidies is to help people who are temporarily suffering economically. Other subsidies, such as subsidized interest rates on [student loans](https://www.investopedia.com/terms/e/education-loan.asp), are given to encourage people to further their education. 
+
+With the enactment of the [Affordable Care Act](https://www.investopedia.com/terms/a/affordable-care-act.asp), a number of U.S. families became eligible for health-care subsidies, based on household income and size. These subsidies are designed to lower the [out-of-pocket costs](https://www.investopedia.com/terms/o/outofpocket.asp) for health insurance premiums. In these instances, the funds associated with the subsidies are sent directly to the insurance company to which premiums are due, lowering the payment amount required from the household.
+
+Subsidies to businesses are given to support an industry that is struggling against international competition that has lowered prices, such that the domestic business is not profitable without the subsidy. Historically, the vast majority of subsidies in the United States have gone towards four industries: agriculture, [financial institutions](https://www.investopedia.com/terms/f/financialinstitution.asp), oil companies, and utilities companies.
+
+## Debate over Subsidies
+
+Different rationales exist for the provision of public subsidies: some are economic, some are political and some come from socio-economic [development theory](https://www.investopedia.com/terms/d/development-economics.asp).
+
+Development theory suggests that some industries need protection from external competition to maximize domestic benefit. Technically speaking, a free market economy is free of subsidies; introducing one transforms it into a [mixed economy](https://www.investopedia.com/terms/m/mixed-economic-system.asp). Economists and policy makers often debate the merits of subsidies, and by extension, the degree to which an economy should be a mixed one.
+
+Pro-subsidy economists argue that subsidies to particular industries are vital to help support businesses and the jobs they create. Other economists feel [free market](https://www.investopedia.com/terms/f/freemarket.asp) forces should determine if a business survives or fails; if it fails, those resources are allocated to a more efficient and profitable use. They argue that subsidies to these businesses simply sustain an inefficient allocation of resources.
+
+### Subsidies: The Pros
+
+Economists who promote a mixed economy often argue that subsidies are justifiable to provide the socially optimal level of goods and services which will lead to [economic efficiency.](https://www.investopedia.com/terms/e/economic_efficiency.asp) In contemporary [neoclassical economic](https://www.investopedia.com/terms/n/neoclassical.asp) models, there are circumstances where the actual supply of a good or service falls below the theoretical [equilibrium](https://www.investopedia.com/terms/e/equilibrium.asp) level—an unwanted shortage, which creates what economists call a [market failure](https://www.investopedia.com/terms/m/marketfailure.asp).
+
+One form of correcting this imbalance is to subsidize the good or service being under supplied. The subsidy lowers the cost for the producers to bring the good or service to market. If the right level of subsidization is provided, all other things being equal, the market failure should be corrected. In other words, according to [general equilibrium theory](https://www.investopedia.com/terms/g/general-equilibrium-theory.asp), subsidies are necessary when a market failure causes too little production in a specific area. They would theoretically push production back up to optimal levels.
+
+There are many goods or services that allegedly provide what economists call positive externalities. A positive [externality](https://www.investopedia.com/terms/e/externality.asp) is achieved whenever an economic activity provides an indirect benefit to a third party.
+
+However, because the third party does not directly enter into the decision, the activity will only occur to the extent that it directly benefits those directly involved, leaving potential social gains on the table. Many subsidies are implemented to encourage activities that produce positive externalities that might not otherwise be provided at the socially optimal threshold. The counter part of this kind of subsidy is to tax activities that produce negative externalities.
+
+Some theories of development argue that the governments of [less-developed countries](https://www.investopedia.com/terms/l/ldc.asp) should subsidize domestic industries in their infancy to protect them from international competition. This is a popular technique seen in China and various South American nations currently.
+
+### Subsidies: The Cons
+
+Free market economists are wary of subsidies for a variety of reasons. Some argue that subsidies unnecessarily distort markets, preventing efficient outcomes and diverting resources from more productive uses to less productive ones. Similar concerns come from those who suggest economic calculation is too inexact and [microeconomic models](https://www.investopedia.com/terms/m/microeconomics.asp) are too unrealistic to ever correctly calculate the impact of market failure. Others suggest that government spending on subsidies is never as effective as government projections claim they will be. The costs and unintended consequences of applying subsidies are rarely worth it, they claim.
+
+Another problem, antagonists point out, is that the act of subsidizing helps corrupt the political process. According to political theories of [regulatory capture](https://www.investopedia.com/terms/r/regulatory-capture.asp) and [rent-seeking](https://www.investopedia.com/terms/r/rentseeking.asp), subsidies exist as part of an unholy alliance between big business and the state. Companies often turn to government to shield themselves from competition. In turn, businesses donate to politicians or promise them benefits after their political careers.
+
+Even if a subsidy is created with good intentions, without any conspiracy or self-seeking, it raises the profits of those receiving beneficial treatment, and so creates an incentive to lobby for its continuance, even after the need or its usefulness runs out. This potentially allows political and business interests to create a mutual benefit at the expense of taxpayers and/or competitive firms or industries.
+
+## Judging a Subsidy's Success
+
+There are a few different ways to evaluate the success of government subsidies. Most economists consider a subsidy a failure if it fails to improve the overall economy. Policymakers, however, might still consider it a success if it helps achieve a different objective. Most subsidies are long-term failures in the economic sense, but still achieve cultural or political goals.
+
+An example of these competing evaluations could be seen in the [Great Depression](https://www.investopedia.com/terms/g/great_depression.asp). Presidents Hoover and Roosevelt both set price [floors](https://www.investopedia.com/terms/f/floor.asp) on agricultural products and paid farmers to not produce. Their policy goal was to stop food prices from falling and to protect small farmers. To this extent, the subsidy was a success. But the economic effect was quite different. Artificially high food prices lowered the [standard of living](https://www.investopedia.com/terms/s/standard-of-living.asp) for consumers and forced people to spend more on food than they otherwise would have. Those outside of the farm industry were worse off in absolute economic terms.
+
+Sometimes both the economic and political results of a subsidy appears to indicate failure. In 2012 and 2013, the Department of Energy (DOE) gave out more than $60 billion in subsidies to renewable (non-oil-based) forms of energy. The DOE anticipated that oil prices would keep increasing, and jump-starting renewable sources could slow dependence on oil. However, the receiving companies failed to turn a profit and oil prices dropped in 2014.
+
+In terms of pragmatic political economy, a subsidy is successful from the point of view of its proponents if it succeeds in transferring wealth to its beneficiaries and contributing to the re-election of its political backers. The strongest advocates of subsidies tend to be those who directly or indirectly gain from them, and the political incentive to "bring home the bacon" to secure support from special interests is a powerful lure for politicians and policy makers.
+
+## The Economics of Government Subsidies
+
+Henry Hazlitt, a mid-20th century American business and financial journalist often remarked that bad economics was concerned with only the visible effects, while good economics looked at both the seen and unseen.
+
+Subsidies are a classic example of seen versus unseen. Subsidies have an [opportunity cost](https://www.investopedia.com/terms/o/opportunitycost.asp). Consider again the Depression Era agricultural subsidy: it had very visible effects and farmers saw [profits](https://www.investopedia.com/terms/p/profit.asp) rise and hired more workers. The invisible costs included what would have happened with all of those dollars without the subsidy. Money from the subsidies had to be taxed from individual income, and consumers were hit again when they faced higher food prices at the grocery store.

@@ -1,0 +1,33 @@
+---
+alias: [Voluntary Employees' Beneficiary Association (VEBA)]
+created: 2021-03-03T00:42:28 (UTC +11:00)
+tags: [Voluntary Employees' Beneficiary Association (VEBA), Voluntary Employees' Beneficiary Association (VEBA)]
+source: https://www.investopedia.com/terms/v/veba.asp
+author: Julia Kagan
+---
+
+# Voluntary Employees' Beneficiary Association (VEBA)
+
+> ## Excerpt
+> A Voluntary Employer Beneficiary Association, or VEBA, provides life, illness, medical, and similar benefits to members and their beneficiaries.
+
+---
+
+Voluntary Employees' Beneficiary Association (VEBA)
+## What Is a Voluntary Employees' Beneficiary Association?
+
+Voluntary Employees’ Beneficiary Association (VEBA) is a type of mutual organization that provides life, illness, accident, medical, and similar benefits to members, their dependents, or their [beneficiaries](https://www.investopedia.com/terms/b/beneficiary.asp).
+
+## Understanding VEBA
+
+A Voluntary Employees' Beneficiary Association (VEBA) can be established by employees or by an employer and must consist of employees of the same company or the same labor union. VEBA benefits normally end when the employee leaves the company or labor union with which the VEBA is associated.
+
+Either employees or their employer can contribute funds to a VEBA. Employer contributions are often tax-deductible to the employer. VEBAs themselves are authorized by [Internal Revenue Code](https://www.investopedia.com/terms/i/internal-revenue-code.asp) section 501(c)(9) as tax-exempt organizations as long as their earnings are only used for providing benefits. However, benefits paid out to employees are not necessarily tax-exempt to the employee. An employer making contributions to a VEBA would ordinarily receive a deduction under Internal Revenue Code 162 for amounts contributed. The employer could also receive a deduction if the benefits were paid directly to the employee by the employer as part of a fringe benefit package.
+
+For example, the United Auto Workers formed VEBAs for their workers at the [Big Three](https://www.investopedia.com/terms/b/bigthree.asp) automobile manufacturers in 2007 and therefore relieved the companies from carrying [liability](https://www.investopedia.com/terms/l/liability.asp) for their health plans on their accounting books.
+
+## Conditions of a VEBA
+
+A VEBA must meet several requirements, including that it be a voluntary association of employees for the purpose of providing benefits. A VEBA’s earnings cannot benefit any private individual, organization, or [shareholder](https://www.investopedia.com/terms/s/shareholder.asp) other than through the payment of benefits. The association must also be controlled by its members in whole or part by their trustees or an independent trustee, and a VEBA can not discriminate in the payment of its benefits unless it was established as part of a collective bargaining agreement. Health benefits may be paid out of the employer’s general assets, from a trust created by the employer, or by a combination of these funding mechanisms.
+
+Any group of employees sharing an employment-related common bond may establish a VEBA. This common bond could be the same employer, or the same [collective bargaining](https://www.investopedia.com/terms/c/collective-bargaining.asp) agreement or [union](https://www.investopedia.com/terms/l/labor-union.asp). If multiple employers share the same line of business and the same geographic area, they are considered to share the "common bond" specified by the law. There are, generally, no limitations on either the size of the VEBA or the number of benefits that may be provided, only upon the type of benefits and the persons to whom benefits may be provided.

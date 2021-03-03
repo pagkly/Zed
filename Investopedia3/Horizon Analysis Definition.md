@@ -1,0 +1,35 @@
+---
+alias: [Horizon Analysis]
+created: 2021-03-02T20:49:40 (UTC +11:00)
+tags: [Horizon Analysis Definition, Horizon Analysis Definition]
+source: https://www.investopedia.com/terms/h/horizon-analysis.asp
+author: Will Kenton
+---
+
+# Horizon Analysis Definition
+
+> ## Excerpt
+> Horizon analysis compares the projected discounted returns of a security or investment portfolio’s total returns over several time frames.
+
+---
+
+Horizon Analysis Definition
+## What is Horizon Analysis?
+
+Horizon analysis compares the projected discounted returns of a security or investment portfolio’s total returns over several time frames, often referred to as the [investment horizon](https://www.investopedia.com/terms/i/investment_horizon.asp).
+
+### Key Takeaways
+
+-   Horizon analysis compares the projected discounted returns of a security or investment portfolio’s total returns over several time frames, often referred to as the investment horizon.
+-   Typically, horizon analysis is used to gauge the expected performance of portfolios comprised of fixed income securities (bonds).
+-   Horizon analysis enables the portfolio manager to evaluate which bonds would perform the best over the planned investment horizon.
+
+#### Understanding Risk And Time Horizon
+
+## Understanding Horizon Analysis
+
+Horizon analysis uses [scenario analysis](https://www.investopedia.com/terms/s/scenario_analysis.asp) to estimate a more realistic expectation of an investment, or portfolio's, performance. Typically, this type of analysis is used to gauge the expected performance of portfolios comprised of [fixed income securities](https://www.investopedia.com/terms/f/fixed-incomesecurity.asp) (bonds).
+
+The horizon analysis framework allows [portfolio managers](https://www.investopedia.com/terms/p/portfoliomanager.asp) to project the performance of bonds on the basis of the planned investment horizon and expectations concerning levels of risk, interest rates, reinvestment rates and future market [yields](https://www.investopedia.com/terms/y/yield.asp).
+
+By breaking down [expected returns](https://www.investopedia.com/terms/e/expectedreturn.asp) into scenarios, it is possible to evaluate which bonds would perform the best over the planned investment horizon – something that would not be possible using the [yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp) (YTM). This scenario analysis enables the portfolio manager to see how sensitive a bond’s performance will be to each scenario, and whether it would be likely to meet their investor's goals over their expected investment horizon.

@@ -1,0 +1,35 @@
+---
+alias: [Yearly Renewable Term (YRT)]
+created: 2021-03-03T01:08:26 (UTC +11:00)
+tags: [Yearly Renewable Term (YRT), Yearly Renewable Term (YRT)]
+source: https://www.investopedia.com/terms/y/yearly-renewable-term-yrt.asp
+author: Julia Kagan
+---
+
+# Yearly Renewable Term (YRT)
+
+> ## Excerpt
+> A yearly renewable term is a one-year term life insurance policy. This type of policy gives policyholders a quote for the year the coverage is bought.
+
+---
+
+Yearly Renewable Term (YRT)
+## What Is a Yearly Renewable Term (YRT)?
+
+A yearly renewable term is a one-year [term life insurance](https://www.investopedia.com/terms/t/termlife.asp) policy. This type of policy gives policyholders a quote for the year the coverage is bought. When someone buys a yearly [renewable term](https://www.investopedia.com/terms/r/renewableterm.asp) insurance policy, the premium quoted is for a one-year term, starting in the current year.
+
+At the same time next year, the insured will pay another annual premium for a person in the same situation, but one year older. In the following year, the premium increases again as it will be for the same person, two years older. Premiums increase annually in order to cover increased risk with age. This type of insurance is also referred to as increasing premium term insurance or annual renewal term assurance.
+
+## Understanding Yearly Renewable Terms (YRTs)
+
+Actuaries are in charge of figuring out what premium will be charged for a yearly renewable term, based on different risk variables. Using a specific formula for these variables, [actuaries](https://www.investopedia.com/terms/a/actuary.asp) can predict at what age a policyholder will likely die. As the policyholder grows older, premiums to the policy can be added.
+
+These policies tend to be attractive to young insurance seekers who want to start out with a low cost, flexible premium. It also pays a [death benefit](https://www.investopedia.com/terms/d/deathbenefit.asp) to any named beneficiary if the policyholder passes away within the one-year term.
+
+The primary drawback of yearly renewable term life insurance is that if a policyholder renews for many years, they could end up paying more in premiums than if they'd bought a level term life or permanent life insurance policy. If someone buys a yearly renewable term life policy and later figures out their coverage needs are longer, the insurance company may let a policyholder convert the policy to whole life insurance without taking another medical exam.
+
+## Why Choose a Yearly Renewable Term
+
+Policyholders with a yearly renewable term life insurance policy can lock in a length of time during which they remain insurable. During this time, the policy can be renewed without the need for a medical exam. Renewability varies by state but is generally permissible up to a certain age.
+
+The policyholder's age has a lot to do with how [premiums](https://www.investopedia.com/terms/p/premium.asp) are priced. A young insured person's premiums are lower and generally increase with age. That's because the older a person gets, the more costly it becomes to insure him or her. Most policies come with a "schedule of premiums." This is a chart that outlines the maximum amount you'll have to pay each year. Premiums are billed for the exact amount when the policy is renewed. While the premiums may increase, the death benefit stays the same.

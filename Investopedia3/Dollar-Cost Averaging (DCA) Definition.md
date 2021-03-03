@@ -1,0 +1,63 @@
+---
+alias: [Dollar-Cost Averaging (DCA)]
+created: 2021-03-02T19:24:43 (UTC +11:00)
+tags: [Dollar-Cost Averaging (DCA) Definition, Dollar-Cost Averaging (DCA) Definition]
+source: https://www.investopedia.com/terms/d/dollarcostaveraging.asp
+author: James Chen
+---
+
+# Dollar-Cost Averaging (DCA) Definition
+
+> ## Excerpt
+> Dollar-cost averaging is the system of regularly procuring a fixed dollar amount of a specific investment, regardless of the share price, with the goal of limiting the impact of price volatility on the investment.
+
+---
+
+Dollar-Cost Averaging (DCA) Definition
+## What Is Dollar-Cost Averaging (DCA)?
+
+Dollar-cost averaging (DCA) is an investment strategy in which an investor divides up the total amount to be invested across periodic purchases of a target asset in an effort to reduce the impact of volatility on the overall purchase. The purchases occur regardless of the asset's price and at regular intervals. In effect, this strategy removes much of the detailed work of attempting to time the market in order to make purchases of equities at the best prices. Dollar-cost averaging is also known as the constant dollar plan.
+
+## Understanding Dollar-Cost Averaging
+
+Dollar-cost averaging is a tool an investor can use to build savings and wealth over a long period. It is also a way for an investor to neutralize short-term volatility in the broader equity market. A perfect example of dollar cost averaging is its use in [401(k) plans](https://www.investopedia.com/terms/1/401kplan.asp), in which regular purchases are made regardless of the price of any given equity within the account.
+
+In a 401(k) plan, an employee can select a pre-determined amount of their salary that they wish to invest in a menu of mutual or index funds. When an employee receives their pay, the amount the employee has chosen to contribute to the 401(k) is invested in their investment choices.
+
+Dollar-cost averaging can also be used outside of 401(k) plans, such as [mutual](https://www.investopedia.com/terms/m/mutualfund.asp) or [index](https://www.investopedia.com/terms/i/indexfund.asp) fund accounts. Although it's one of the more basic techniques, dollar-cost averaging is still one of the [best strategies for beginning investors looking to trade ETFs](https://www.investopedia.com/articles/investing/090115/7-best-etf-trading-strategies-beginners.asp).
+
+Additionally, many [dividend reinvestment plans](https://www.investopedia.com/terms/d/dividendreinvestmentplan.asp) allow investors to dollar-cost average by making contributions regularly.
+
+### Key Takeaways
+
+-   Dollar-cost averaging refers to the practice of dividing an investment of an equity up into multiple smaller investments of equal amounts, spaced out over regular intervals.
+-   The goal of dollar-cost averaging is to reduce the overall impact of volatility on the price of the target asset; as the price will likely vary each time one of the periodic investments is made, the investment is not as highly subject to volatility.
+-   Dollar-cost averaging aims to avoid making the mistake of making one lump-sum investment that is poorly timed with regard to asset pricing.
+
+## Real-World Example of Dollar-Cost Averaging
+
+Joe works at ABC Corp. and has a 401(k) plan. He receives a paycheck of $1,000 every two weeks. Joe decides to allocate 10% or $100 of his pay to his employer’s plan. He chooses to contribute 50% of his allocation to a Large Cap Mutual Fund and 50% to an S&P 500 Index Fund. Every two weeks 10%, or $100, of Joe’s pre-tax pay will buy $50 worth of each of these two funds regardless of the fund's price.
+
+The table below shows half of Joe's $100 contributions to the S&P 500 index fund over 10 pay periods. Throughout ten paychecks, Joe invested a total of $500, or $50 per week. However, because the price of the fund increased and decreased over several weeks Joe’s average price came to $10.48. The average was higher than his initial purchase, but it was lower than the fund’s highest prices. This allowed Joe to take advantage of the fluctuations of the market as the index fund increased and decreased in value.
+
+Image by Sabrina Jiang © Investopedia 2020
+
+It is important to note that this example of the dollar-cost averaging strategy works out favorably because the hypothetical results of the S&P 500 Index fund ultimately rose over the period of time in question. Dollar-cost averaging does improve the performance of an investment over time, but only if the investment increases in price. The strategy cannot protect the investor against the risk of declining market prices.
+
+The general idea of the strategy assumes that prices will, eventually, always rise. Using this strategy on an individual stock without knowing about the company's details could prove dangerous because the strategy may encourage an investor to continue buying more stock at a time when they should simply exit the position. For less-informed investors, the strategy is far less risky on index funds than on individual stocks.
+
+Investors who use a dollar-cost averaging strategy will generally lower their cost basis in an investment over time. The lower cost basis will lead to less of a loss on investments that decline in price and generate greater gains on investments that increase in price.
+
+## Frequently Asked Questions
+
+### What is dollar-cost averaging?
+
+Dollar-cost averaging is an approach to investing that involves periodically investing a set amount of money regardless of the market price of the securities being purchased. It is often associated with passive investing strategies in which the investor wants to minimize the time they must spend in administering their portfolio. Although dollar-cost averaging can be applied to all types of securities, it is most commonly used in relation to pooled investment vehicles such as [mutual funds](https://www.investopedia.com/terms/m/mutualfund.asp), [index funds](https://www.investopedia.com/terms/i/indexfund.asp), and [exchange-traded funds (ETFs)](https://www.investopedia.com/terms/e/etf.asp).
+
+### Why do some investors use dollar-cost averaging?
+
+The key advantage of dollar-cost averaging is that it reduces the effects of investor psychology and market timing on their portfolio. By committing to a dollar-cost averaging approach, investors avoid the risk that they will make counter-productive decisions out of greed or fear, such as buying more when prices are rising or panic-selling when prices decline. Instead, dollar-cost averaging forces investors to focus on contributing a set amount of money each period while ignoring the price of each individual purchase.
+
+### What is an example of dollar-cost averaging?
+
+An example of a dollar-cost averaging approach would be investing $500 per month in an index fund that tracks the performance of a broad market index, such as the S&P 500. In some months, the index will be priced high, meaning less shares would be purchased for the $500 investment. In other months, when the index is low, $500 would purchase a greater number of shares. In the long run, however, investors who use a dollar-cost averaging strategy are betting that the simplicity of the strategy, combined with the fact that it protects them from the temptation of buying high and selling low, will ultimately lead to better results than trying to time the market on each purchase.

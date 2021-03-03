@@ -1,0 +1,66 @@
+---
+alias: [Fractal Indicator Definition and Applications]
+created: 2021-03-02T20:07:41 (UTC +11:00)
+tags: [Fractal Indicator Definition and Applications, Fractal Indicator Definition and Applications]
+source: https://www.investopedia.com/terms/f/fractal.asp
+author: By
+Cory Mitchell
+---
+
+# Fractal Indicator Definition and Applications
+
+> ## Excerpt
+> The fractal indicator is based on a recurring price pattern that is repeated on all time frames. The indicator marks the frequent patterns on the chart, which provide traders with potential trade opportunities.
+
+---
+
+Fractal Indicator Definition and Applications
+## What is a Fractal?
+
+The fractal indicator is based on a simple price pattern that is frequently seen in financial markets. Outside of trading, a fractal is a recurring geometric pattern that is repeated on all time frames. From this concept, the fractal indicator was devised. The indicator isolates potential turning points on a price chart. It then draws arrows to indicate the existence of a pattern. The [bullish](https://www.investopedia.com/terms/b/bullmarket.asp) fractal pattern signals the price could move higher. A [bearish](https://www.investopedia.com/terms/b/bearmarket.asp) fractal signals the price could move lower. Bullish fractals are marked by a down arrow, and bearish fractals are marked by an up arrow.
+
+### Key Takeaways
+
+-   A bullish fractal occurs when there is a low point with two higher low [bars/candles](https://www.investopedia.com/terms/c/candlestick.asp) on each side of it.
+-   A bearish fractal occurs when there is a high point with two lower high bars/candles on each side of it.
+-   An up arrow marks the location of a bearish fractal, while a down arrow marks the location of a bullish fractal.
+-   Arrows are drawn above or below the middle bar (high or low point), even though the pattern is five bars. There is no way a trader could enter a trade at the arrow because the arrow only occurs if the next two bars create the pattern.
+-   If someone were to trade fractal signals, the entry would be the [open price](https://www.investopedia.com/terms/o/openingprice.asp) of the third bar after the arrow.
+
+TradingView.
+
+## The Formulas for Fractals Are:
+
+Bearish Fractal\= High(N)\>High(N−2) andHigh(N)\>High(N−1) andHigh(N)\>High(N+1) andHigh(N)\>High(N+2)\\begin{aligned} \\text{Bearish Fractal} =\\ &\\text{High} ( N ) > \\text{High} ( N - 2 ) \\text{ and} \\\\ &\\text{High} ( N ) > \\text{High} ( N - 1 ) \\text{ and} \\\\ &\\text{High} ( N ) > \\text{High} ( N + 1 ) \\text{ and} \\\\ &\\text{High} ( N ) > \\text{High} ( N + 2 ) \\\\ \\end{aligned}
+
+Bullish Fractal\= Low(N)<Low(N−2) andLow(N)<Low(N−1) andLow(N)<Low(N+1) andLow(N)<Low(N+2)\\begin{aligned} \\text{Bullish Fractal} =\\ &\\text{Low} ( N ) < \\text{Low} ( N - 2 ) \\text{ and} \\\\ &\\text{Low} ( N ) < \\text{Low} ( N - 1 ) \\text{ and} \\\\ &\\text{Low} ( N ) < \\text{Low} ( N + 1 ) \\text{ and} \\\\ &\\text{Low} ( N ) < \\text{Low} ( N + 2 ) \\\\ \\end{aligned}
+
+where:N\=High/low of the current price barN−2\=High/low of price bar two periodsto the left of NN−1\=High/low of price bar one periodto the left of NN+1\=High/low of price bar one periodto the right of NN+2\=High/low of price bar two periodsto the right of N\\begin{aligned} &\\textbf{where:}\\\\ &N = \\text{High/low of the current price bar} \\\\ &N - 2 = \\text{High/low of price bar two periods} \\\\ &\\text{to the left of }N \\\\ &N - 1 = \\text{High/low of price bar one period} \\\\ &\\text{to the left of }N \\\\ &N + 1 = \\text{High/low of price bar one period} \\\\ &\\text{to the right of }N \\\\ &N + 2 = \\text{High/low of price bar two periods} \\\\ &\\text{to the right of }N \\\\ \\end{aligned}
+
+## How to Calculate the Fractal Indicator
+
+Calculating fractals has more to do with visual acuity than math.
+
+1.  Isolate a high/low (N) point on the chart.
+2.  If there are two lower highs to the left of the high or two higher lows to the left of the low (N-2 and N-1), there is a possible pattern. The pattern still needs two more bars on the right to confirm.
+3.  If two lower highs occur after the high then a bearish fractal is complete (N+1 and N+2). If two higher lows occur after the low a bullish fractal is complete.
+
+## What the Fractal Indicator Tells You
+
+The fractal indicator will generate signals frequently. The existence of a fractal isn't necessarily important since the pattern is so common.
+
+The fractal is indicating the possibility of a trend change. This is because fractals are essentially showing a "U-shape" in price. A bearish fractal has the price moving upward and then downward, forming an upsidedown U. A bullish fractal occurs when the price is moving down but then starts to move up, forming a U.
+
+Because fractals occur so frequently, and many of the signals aren't reliable entry points, fractals are typically filtered using some other form of technical analysis. Bill Williams also invented the [alligator indicator](https://www.investopedia.com/articles/trading/072115/exploring-williams-alligator-indicator.asp) which isolates trends. By combining fractals with trend analysis, a trader may decide to only trade bullish fractals signals while the price trend is up. If the trend is down they may take only [short trades](https://www.investopedia.com/terms/s/short.asp) on bearish fractal signals, for example.
+
+Fractals could also be used with other indicators, such as [pivot points](https://www.investopedia.com/terms/p/pivotpoint.asp) or [Fibonacci retracement](https://www.investopedia.com/terms/f/fibonacciretracement.asp) levels. A fractal is only acted on if it aligns with one of these other indicators and potentially the longer-term price direction. For example, assume a stock is trending higher. The price is pulling back and reaches a 50% Fibonacci retracement level. Since the trend is up, and the price is near a Fibonacci retracement level, the trader will take a trade if a bullish fractal forms.
+
+## The Difference Between the Fractal Indicator and Chart Patterns
+
+The fractal indicator is unique in that it identifies a price pattern and marks it on the chart. Fractals are specific five-bar patterns. [Chart patterns](https://www.investopedia.com/articles/technical/112601.asp) can also be drawn on the chart, although they are not limited to five price bars. Chart patterns also include many different shapes, such as [triangles](https://www.investopedia.com/terms/t/triangle.asp), rectangles, and wedges to list a few. While some software will mark chart patterns on a chart, most chartists find and isolate chart patterns by hand.
+
+## Limitations of Using the Fractal Indicator
+
+The main problem with fractals is that there are so many of them. They occur frequently and trying to trade all of them will rapidly deplete a trading account due to losing trades. These are called false signals or [whipsaws](https://www.investopedia.com/terms/w/whipsaw.asp). Therefore, filter the signals with some other indicator or form of analysis.
+
+The arrows for the indicator are typically drawn over the high or low or point, which is the middle of the fractal, not where the fractal completes. Therefore, the arrows can be visually deceiving. Since the pattern is actually completing two bars to the right of the arrow, the first available entry point after seeing an arrow is the opening price of the third bar to the right of the arrow.

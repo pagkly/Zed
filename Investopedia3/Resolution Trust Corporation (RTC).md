@@ -1,0 +1,37 @@
+---
+alias: [Resolution Trust Corporation (RTC)]
+created: 2021-03-02T23:18:55 (UTC +11:00)
+tags: [Resolution Trust Corporation (RTC), Resolution Trust Corporation (RTC)]
+source: https://www.investopedia.com/terms/r/resolution-trust-corporation.asp
+author: Julia Kagan
+---
+
+# Resolution Trust Corporation (RTC)
+
+> ## Excerpt
+> The Resolution Trust Corporation was a temporary federal agency created to resolve the savings and loan crisis of the 1980s.
+
+---
+
+Resolution Trust Corporation (RTC)
+## What Is the Resolution Trust Corporation?
+
+The Resolution Trust Corporation (RTC) is a now-defunct temporary federal agency. From 1989 to 1995, it largely resolved the [savings and loan](https://www.investopedia.com/ask/answers/041015/what-difference-between-savings-loan-company-and-bank.asp) (S&L) crisis of the 1980s, which resulted in about a third of such U.S. institutions failing within a 10-year span. The RTC became a massive property-management company, cleaning up what was, at the time, the largest collapse of U.S. financial institutions since the Great Depression.
+
+The RTC closed failed financial institutions placed in [conservatorship](https://www.investopedia.com/terms/c/conservatorship.asp) by selling or merging troubled thrifts and folding their assets back into the [Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp) (FDIC). The RTC accomplished its work in roughly six years, slowly at first, but then by selling pools of assets at heavy discounts to private investors, which allowed the RTC to participate in any future market gains from those pools.
+
+The RTC shuttered a total of 747 failed financial institutions, with total assets of $394 billion. It also liquidated the assets of these institutions.
+
+## Understanding the Resolution Trust Corporation (RTC)
+
+The Resolution Trust Corporation (RTC) sought to maximize value from the sale of assets from failed S&Ls while minimizing the impact on real estate and financial markets.
+
+The financial troubles that led to the RTC’s creation began in the 1970s. The [S&L crisis](https://www.investopedia.com/terms/s/sl-crisis.asp) stemmed from risky investments made in both the 1970s and 1980s by many small and supposedly safe S&Ls. Thousands of them failed after using investors’ passbook savings to buy fixed-rate home mortgages, which were not very liquid. Many institutions made these investments to take advantage of a poor federal policy in which all S&Ls paid the same rate of federal deposit insurance, no matter the riskiness of their underlying assets. This eventually caused the [Federal Savings and Loan Insurance Corporation](https://www.investopedia.com/terms/f/federal-savings-and-loan-insurance-corporation-fslic.asp) to fail, at which time the FDIC took over its responsibilities.
+
+## Pros and Cons of the Resolution Trust Corporation
+
+The RTC faced many criticisms at the time, including the program’s cost, estimated at $130 million. Many critics balked at tax dollars being used to rescue private financial institutions.
+
+Perhaps a sharper criticism, however, is that the failing S&Ls seemingly posed little threat to the global economy, global markets, or, arguably, even the U.S. economy. Most economists today do not point to the S&L crisis as the primary cause of the 1990-91 recession, for example. In retrospect, the threats posed by the failure of many small savings institutions pale in comparison to such things as the failure of [Lehman Brothers](https://www.investopedia.com/articles/economics/09/lehman-brothers-collapse.asp) in 2008.
+
+Some may argue, however, that the experiences of the RTC, especially the pooling and packaging of assets and allowing the government to participate in any market upside from the bailout, helped in making decisions about future government [bailouts](https://www.investopedia.com/articles/economics/08/government-financial-bailout.asp).
