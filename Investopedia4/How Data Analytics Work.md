@@ -13,7 +13,7 @@ author: Jake Frankenfield
 
 ---
 
-How Data Analytics Work
+[[How Data Analytics Work]]
 ## What Is Data Analytics?
 
 Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and [[algorithms]](https://www.investopedia.com/terms/a/algorithm.asp) that work over raw data for human consumption.
@@ -24,7 +24,7 @@ Data analytics techniques can reveal trends and metrics that would otherwise be 
 
 Data analytics is a broad term that encompasses many diverse types of data analysis. Any type of information can be subjected to data analytics techniques to get insight that can be used to improve things.
 
-For example, [[manufacturing]](https://www.investopedia.com/terms/m/manufacturing.asp) companies often record the runtime, downtime, and work queue for various machines and then analyze the data to better plan the workloads so the machines operate closer to peak capacity.
+For example, [[manufacturing]](https://www.investopedia.com/terms/m/[[Manufacturing|manufacturing]].asp) companies often record the runtime, downtime, and work queue for various machines and then analyze the data to better plan the workloads so the machines operate closer to peak capacity.
 
 Data analytics can do much more than point out [[bottlenecks]](https://www.investopedia.com/terms/b/bottleneck.asp) in production. Gaming companies use data analytics to set reward schedules for players that keep the majority of players active in the game. Content companies use many of the same data analytics to keep you clicking, watching, or re-organizing content to get another view or another click.
 

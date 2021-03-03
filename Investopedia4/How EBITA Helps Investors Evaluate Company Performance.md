@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-How EBITA Helps Investors Evaluate Company Performance
+[[How EBITA Helps Investors Evaluate Company Performance]]
 ## What Is EBITA?
 
 Earnings before interest, taxes, and amortization (EBITA) is a measure of company profitability used by investors. It is helpful for comparison of one company to another in the same line of business. In some cases, it also can provide a more accurate view of the company's real performance over time.
@@ -22,13 +22,13 @@ Another similar measure adds depreciation to the list of factors to be eliminate
 
 ## Understanding EBITA
 
-A company's EBITA is considered by some analysts and investors to be a more accurate representation of its real earnings. It removes from the equation the taxes owed, the interest on company debt, and the effects of amortization, which is the accounting practice of writing off the cost of an intangible asset over a period of years.
+A company's EBITA is considered by some analysts and investors to be a more accurate representation of its real earnings. It removes from the equation the taxes owed, the interest on company [[Debt|debt]], and the effects of amortization, which is the accounting practice of writing off the cost of an intangible asset over a period of years.
 
-One benefit is that it more clearly indicates how much cash flow a company has on hand to reinvest in the business or pay dividends. It also is seen as an indicator of the efficiency of a company's operations.
+One benefit is that it more clearly indicates how much [[Cash Flow|cash flow]] a company has on hand to reinvest in the business or pay dividends. It also is seen as an indicator of the efficiency of a company's operations.
 
 ## EBITA vs. EBITDA
 
-EBITA is not used as commonly as EBITDA, which adds [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) into the calculation. Depreciation, in company accounting, is the recording of the reduced value of the company's tangible assets over time. It's a way of accounting for the wear and tear on assets such as equipment and facilities. Some companies, such as those in the utilities, manufacturing, and telecommunications industries, require significant expenditures in equipment and infrastructure, which are reflected in their books.
+EBITA is not used as commonly as EBITDA, which adds [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) into the calculation. Depreciation, in company accounting, is the recording of the reduced value of the company's tangible assets over time. It's a way of accounting for the wear and tear on assets such as equipment and facilities. Some companies, such as those in the utilities, [[Manufacturing|manufacturing]], and telecommunications industries, require significant expenditures in equipment and infrastructure, which are reflected in their books.
 
 ### Key Takeaways
 

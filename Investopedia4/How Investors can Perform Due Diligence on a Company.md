@@ -9,11 +9,11 @@ author: James Chen
 # Due Diligence Definition
 
 > ## Excerpt
-> Performing due diligence means thoroughly checking the financials of a potential financial decision. Here's how to do due diligence for individual stocks.
+> Performing due diligence means thoroughly checking the financials of a potential financial decision. Here's how to do due diligence for individual [[Stocks|stocks]].
 
 ---
 
-How Investors can Perform Due Diligence on a Company
+[[How Investors can Perform Due Diligence on a Company]]
 ## What Is Due Diligence?
 
 Due diligence is an investigation, [[audit]](https://www.investopedia.com/terms/a/audit.asp), or review performed to confirm facts or details of a matter under consideration. In the financial world, due diligence requires an examination of financial records before entering into a proposed transaction with another party.
@@ -26,35 +26,35 @@ The writers of the act recognized that requiring full [[disclosure]](https://www
 
 ### Key Takeaways
 
--   Due diligence is a systematic way to analyze and mitigate risk from a business or investment decision.
--   An individual investor can conduct due diligence on any stock using readily available public information.
--   The same due diligence strategy will work on many other types of investments.
+-   Due diligence is a systematic way to analyze and mitigate [[Risk|risk]] from a business or investment decision.
+-   An individual investor can conduct due diligence on any [[Stock|stock]] using readily available public information.
+-   The same due diligence strategy [[Will|will]] work on many other types of investments.
 -   Due diligence involves examining a company's numbers, comparing the numbers over time, and benchmarking them against competitors.
 -   Due diligence is applied in many other contexts, for example, conducting a background check on a potential employee or reading product reviews.
 
 ## Types of Due Diligence
 
-Due diligence is performed by [[equity]](https://www.investopedia.com/terms/e/equity.asp) research analysts, fund managers, broker-dealers, individual investors, and companies that are considering acquiring other companies. Due diligence by individual investors is voluntary. However, broker-dealers are legally obligated to conduct due diligence on a security before selling it.
+Due diligence is performed by [[equity]](https://www.investopedia.com/terms/e/[[Equity|equity]].asp) research analysts, fund managers, broker-dealers, individual investors, and companies that are considering acquiring other companies. Due diligence by individual investors is voluntary. However, broker-dealers are legally obligated to conduct due diligence on a [[Security|security]] before selling it.
 
-## How to Perform Due Diligence for Stocks
+## How to Perform Due Diligence for [[Stocks]]
 
-Below are 10 steps for individual investors undertaking due diligence. Most are related to stocks, but, in many cases, they can be applied to [[bonds]](https://www.investopedia.com/terms/b/bond.asp), real estate, and many other investments.
+Below are 10 steps for individual investors undertaking due diligence. Most are related to [[Stocks|stocks]], but, in many cases, they can be applied to [[bonds]](https://www.investopedia.com/terms/b/bond.asp), real [[Estate|estate]], and many other investments.
 
-After those 10 steps, we offer some tips when considering an investment in a startup company.
+After those 10 steps, we [[Offer|offer]] some tips when considering an investment in a startup company.
 
 All of the information you need is readily available in the company's quarterly and [[annual reports]](https://www.investopedia.com/terms/a/annualreport.asp) and in the company profiles on financial news and discount brokerage sites.
 
 ### Step 1: Analyze the Capitalization of the Company 
 
-A company’s [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp), or total value, indicates how volatile the stock price is, how broad its ownership is, and the potential size of the company's target markets.
+A company’s [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp), or total value, indicates how volatile the [[Stock|stock]] price is, how broad its ownership is, and the potential size of the company's target markets.
 
-Large-cap and mega-cap companies tend to have stable revenue streams and a large, diverse investor base, which tends to lead to less volatility. Mid-cap and small-cap companies typically have greater fluctuations in their stock prices and [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) than large corporations.
+Large-cap and mega-cap companies tend to have stable revenue streams and a large, diverse investor base, which tends to lead to less [[Volatility|volatility]]. Mid-cap and small-cap companies typically have greater fluctuations in their [[Stock|stock]] prices and [[earnings]](https://www.investopedia.com/terms/e/earnings.asp) than large corporations.
 
 ### Step 2: Revenue, Profit, and Margin Trends
 
-The company's income statement will list its revenue or its [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or profit. That's the bottom line. It's important to monitor trends over time in a company's revenue, operating expenses, [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp), and [[return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp).
+The company's income statement [[Will|will]] list its revenue or its [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or profit. That's the bottom line. It's important to monitor trends over time in a company's revenue, operating expenses, [[profit margins]](https://www.investopedia.com/terms/p/profitmargin.asp), and [[return on equity]](https://www.investopedia.com/terms/r/returnonequity.asp).
 
-The company's profit margin is calculated by dividing its net income by its revenue. It's best to analyze profit margin over several quarters or years and compare those results to companies within the same industry to gain some perspective.
+The company's [[Profit Margin|profit margin]] is calculated by dividing its net income by its revenue. It's best to analyze profit margin over several quarters or years and compare those results to companies within the same industry to [[Gain|gain]] some perspective.
 
 ### Step 3: Competitors and Industries
 
@@ -64,13 +64,13 @@ Performing due diligence on several companies in the same industry can give an i
 
 ### Step 4: Valuation Multiples
 
-Many [[ratios]](https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx) and financial metrics are used to evaluate companies, but three of the most useful are the [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the [[price/earnings to growth]](https://www.investopedia.com/terms/p/pegratio.asp) (PEGs) ratio, and price-to-sales (P/S) ratio. These ratios are already calculated for you on websites such as Yahoo! Finance.
+Many [[ratios]](https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx) and financial metrics are used to evaluate companies, but three of the most useful are the [[price-to-earnings]](https://www.investopedia.com/terms/p/price-earningsratio.asp) (P/E) ratio, the [[price/earnings to growth]](https://www.investopedia.com/terms/p/pegratio.asp) (PEGs) ratio, and price-to-sales (P/S) ratio. These ratios are already calculated for you on websites such as Yahoo! [[Finance]].
 
 As you research ratios for a company, compare several of its competitors. You might find yourself becoming more interested in a competitor.
 
--   The P/E ratio gives you a general sense of how much expectation is built into the company's stock price. It's a good idea to examine this ratio over a few years to make sure that the current quarter isn't an aberration.
--   The [[price-to-book (P/B) ratio]](https://www.investopedia.com/terms/p/price-to-bookratio.asp), the enterprise multiple, and the price-to-sales (or revenue) ratio measure the valuation of the company in relation to its debt, annual revenues, and balance sheet. Peer comparison is important here because the healthy ranges differ from industry to industry.
--   The PEG ratio suggests expectations among investors for the company's future earnings growth and how it compares to the current earnings multiple. Stocks with PEG ratios close to one are considered fairly valued under normal market conditions.
+-   The P/E ratio gives you a general sense of how much expectation is built into the company's [[Stock|stock]] price. It's a good idea to examine this ratio over a few years to make sure that the current quarter isn't an aberration.
+-   The [[price-to-book (P/B) ratio]](https://www.investopedia.com/terms/p/price-to-bookratio.asp), the [[Enterprise Multiple|enterprise multiple]], and the price-to-sales (or revenue) ratio measure the valuation of the company in relation to its [[Debt|debt]], annual revenues, and balance sheet. Peer comparison is important here because the healthy ranges differ from industry to industry.
+-   The PEG ratio suggests expectations among investors for the company's future earnings growth and how it compares to the current earnings multiple. [[Stocks]] with PEG ratios close to one are considered fairly valued under normal market conditions.
 
 ### Step 5: Management and Share Ownership
 
@@ -78,29 +78,29 @@ Is the company still run by its founders, or has the board shuffled in a lot of 
 
 ### P/E ratio
 
-The P/E ratio gives a sense of the expectations that investors have for the stock's near-term performance.
+The P/E ratio gives a sense of the expectations that investors have for the [[Stock|stock]]'s near-term performance.
 
-Whether founders and executives hold a high proportion of shares and whether they have been selling shares recently is a significant factor in due diligence. High ownership by top managers is a plus, and low ownership is a red flag. Shareholders tend to be best served when those running the company have a vested interest in stock performance.
+Whether founders and executives [[Hold|hold]] a high proportion of [[Shares|shares]] and whether they have been selling shares recently is a significant factor in due diligence. High ownership by top managers is a plus, and low ownership is a red flag. Shareholders tend to be best served when those running the company have a [[Vested Interest|vested interest]] in [[Stock|stock]] performance.
 
 ### Step 6: Balance Sheet
 
-The company's consolidated [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) will show its assets and liabilities as well as how much cash is available.
+The company's consolidated [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) [[Will|will]] show its assets and liabilities as well as how much cash is available.
 
-Check the company's level of [[debt]](https://www.investopedia.com/terms/d/debt.asp) and how it compares to others in the industry. Debt is not necessarily a bad thing, depending on the company's business model and industry. But make sure those debts are highly rated by the rating agencies.
+Check the company's level of [[debt]](https://www.investopedia.com/terms/d/[[Debt|debt]].asp) and how it compares to others in the industry. Debt is not necessarily a bad thing, depending on the company's business model and industry. But make sure those debts are highly rated by the [[Rating|rating]] agencies.
 
-Some companies and whole industries, like oil and gas, are very [[capital]](https://www.investopedia.com/terms/c/capital.asp) intensive while others require few fixed assets and capital investment. Determine the debt-to-equity ratio to see how much positive equity the company has. Typically, the more cash a company generates, the better an investment it's likely to be because the company can meet its debts and still grow.
+Some companies and whole industries, like oil and gas, are very [[capital]](https://www.investopedia.com/terms/c/capital.asp) intensive while others require few fixed assets and capital investment. Determine the [[Debt|debt]]-to-[[Equity|equity]] ratio to see how much positive equity the company has. Typically, the more cash a company generates, the better an investment it's likely to be because the company can meet its debts and still grow.
 
 If the figures for total assets, total liabilities, and [[stockholders' equity]](https://www.investopedia.com/terms/s/stockholdersequity.asp) change substantially from one year to the next, try to figure out why. Reading the footnotes that accompany the [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) and the management's discussion in the quarterly or annual reports can shed light on what's really happening in a company. The firm could be preparing for a new product launch, accumulating [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp), or in a state of financial decline.
 
-### Step 7: Stock Price History
+### Step 7: [[Stock]] Price History
 
-Investors should research both the short-term and long-term price movement of the stock and whether the stock has been volatile or steady. Compare the profits generated historically and determine how it correlates with the price movement.
+Investors should research both the short-term and long-term price movement of the [[Stock|stock]] and whether the stock has been volatile or steady. Compare the profits generated historically and determine how it correlates with the price movement.
 
-Keep in mind that past performance does not guarantee future price movements. If you're a retiree looking for dividends, for example, you might not want a volatile stock price. Stocks that are continuously volatile tend to have short-term shareholders, which can add extra risk for certain investors.
+Keep in mind that past performance does not guarantee future price movements. If you're a retiree looking for dividends, for example, you might not want a volatile [[Stock|stock]] price. [[Stocks]] that are continuously volatile tend to have short-term shareholders, which can add extra [[Risk|risk]] for certain investors.
 
-### Step 8: Stock Dilution Possibilities
+### Step 8: [[Stock]] Dilution Possibilities
 
-Investors should know how many shares outstanding the company has and how that number relates to the competition. Is the company planning on issuing more shares? If so, the stock price might take a hit.
+Investors should know how many [[Shares|shares]] outstanding the company has and how that number relates to the competition. Is the company planning on issuing more shares? If so, the [[Stock|stock]] price might take a hit.
 
 ### Step 9: Expectations
 
@@ -110,16 +110,16 @@ Investors should find out what the [[consensus]](https://www.investopedia.com/te
 
 Be sure to understand both the industry-wide risks and company-specific risks. Are there outstanding legal or regulatory matters? Is there unsteady management?
 
-Investors should play devil's advocate at all times, picturing worst-case scenarios and their potential outcomes on the stock. If a new product fails or a competitor brings a new and better product forward, how would this affect the company? How would a jump in interest rates affect the company?
+Investors should play devil's advocate at all times, picturing worst-case scenarios and their potential outcomes on the [[Stock|stock]]. If a new product fails or a competitor brings a new and better product forward, how would this affect the company? How would a jump in interest rates affect the company?
 
-Once you've completed the steps outlined above, you'll have a better sense of the company's performance and how it stacks up to the competition. You will be better informed to make a sound decision.
+Once you've completed the steps outlined above, you'll have a better sense of the company's performance and how it stacks up to the competition. You [[Will|will]] be better informed to make a sound decision.
 
 ## Due Diligence Basics for Startup Investments
 
 When considering investing in a [[startup]](https://www.investopedia.com/terms/s/startup.asp), some of the 10 steps above are appropriate while others just aren't possible because the company doesn't have the track record. Here are some startup-specific moves.
 
--   Include an exit strategy. More than 90% of [[startups fail]](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp#:~:text=Key%20Takeaways&text=In%202019%2C%20the%20failure%20rate,70%25%20in%20their%2010th%20year.&text=Ways%20to%20avoid%20failing%20include,the%20work%2C%20and%20not%20quitting.).2 Plan a strategy to recover your money should the business fail.
--   Consider entering into a partnership: Partners split the capital and risk, so they lose less if the business fails.
+-   Include an exit strategy. More than 90% of [[startups fail]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/040915/how-many-startups-fail-and-why.asp#:~:text=Key%20Takeaways&text=In%202019%2C%20the%20failure%20rate,70%25%20in%20their%2010th%20year.&text=Ways%20to%20avoid%20failing%20include,the%20work%2C%20and%20not%20quitting.).2 Plan a strategy to recover your money should the business fail.
+-   Consider entering into a partnership: Partners split the capital and [[Risk|risk]], so they lose less if the business fails.
 -   Figure out the [[harvest strategy]](https://www.investopedia.com/terms/h/harvest-strategy.asp) for your investment. Promising businesses may fail due to a change in technology, government policy, or market conditions. Be on the lookout for new trends, technologies, and brands, and get ready to harvest when you find that the business may not thrive with the changes.
 -   Choose a startup with promising products. Since most investments are harvested after five years, it is advisable to invest in products that have an increasing [[return on investment]](https://www.investopedia.com/terms/r/returnoninvestment.asp) (ROI) for that period.
 -   In lieu of hard numbers on past performance, look at the growth plan of the business and evaluate whether it appears to be realistic.
@@ -130,7 +130,7 @@ In the [[mergers and acquisitions]](https://www.investopedia.com/terms/m/mergers
 
 "Hard" due diligence is concerned with the numbers. "Soft" due diligence is concerned with the people within the company and in its customer base.
 
-In traditional M&A activity, the acquiring firm deploys risk analysts who perform due diligence by studying costs, benefits, structures, assets, and liabilities. That's known colloquially as hard due diligence.
+In traditional M&A activity, the acquiring firm deploys [[Risk|risk]] analysts who perform due diligence by studying costs, benefits, structures, assets, and liabilities. That's known colloquially as hard due diligence.
 
 Increasingly, however, M&A deals are also subject to the study of a company's culture, management, and other human elements. That's known as soft due diligence.
 
@@ -142,9 +142,9 @@ Contemporary business analysis calls this element [[human capital]](https://www.
 
 ### Performing Hard Due Diligence
 
-In an M&A deal, hard due diligence is the battlefield of lawyers, accountants, and negotiators. Typically, hard due diligence focuses on earnings before interest, taxes, depreciation and amortization (EBITDA), the aging of receivables, and payables, cash flow, and capital expenditures.
+In an M&A deal, hard due diligence is the battlefield of lawyers, accountants, and negotiators. Typically, hard due diligence focuses on earnings before interest, taxes, depreciation and amortization (EBITDA), the aging of receivables, and payables, [[Cash Flow|cash flow]], and capital expenditures.
 
-In sectors such as technology or manufacturing, additional focus is placed on intellectual property and [[physical capital]](https://www.investopedia.com/terms/p/physical-capital.asp).
+In sectors such as technology or [[Manufacturing|manufacturing]], additional focus is placed on intellectual property and [[physical capital]](https://www.investopedia.com/terms/p/physical-capital.asp).
 
 Other examples of hard due diligence activities include:
 
@@ -158,7 +158,7 @@ Other examples of hard due diligence activities include:
 
 ### Performing Soft Due Diligence
 
-Conducting soft due diligence is not an exact science. It should focus on how well a targeted workforce will mesh with the acquiring corporation's culture.
+Conducting soft due diligence is not an exact science. It should focus on how well a targeted workforce [[Will|will]] mesh with the acquiring corporation's culture.
 
 Hard and soft due diligence intertwine when it comes to compensation and incentive programs. These programs are not only based on real numbers, making them easy to incorporate into post-acquisition planning, but they can also be discussed with employees and used to gauge cultural impact.
 
@@ -170,24 +170,24 @@ Soft due diligence can also concern itself with the target company's customers. 
 
 ### What Exactly Is Due Diligence?
 
-Due diligence is a process or effort to collect and analyze information before making a decision. It is a process often used by investors to assess risk. It involves examining a company's numbers, comparing the numbers over time, and benchmarking them against competitors to assess an investment's potential in terms of growth.
+Due diligence is a process or effort to collect and analyze information before making a decision. It is a process often used by investors to assess [[Risk|risk]]. It involves examining a company's numbers, comparing the numbers over time, and benchmarking them against competitors to assess an investment's potential in terms of growth.
 
 ### What Is the Purpose of Due Diligence?
 
-Due diligence is primarily a way to reduce exposure to risk. The process ensures that a party is aware of all the details of a transaction before they agree to it. For example, a broker-dealer will give an investor the results of a due diligence report so that the investor is fully informed and cannot hold the broker-dealer responsible for any losses.
+Due diligence is primarily a way to reduce exposure to [[Risk|risk]]. The process ensures that a party is aware of all the details of a transaction before they agree to it. For example, a broker-dealer [[Will|will]] give an investor the results of a due diligence report so that the investor is fully informed and cannot [[Hold|hold]] the broker-dealer responsible for any losses.
 
 ### What Are the Types of Due Diligence?
 
-Depending on its purpose, due diligence takes different forms. A company that is considering an M&A will perform a financial analysis on a target company. The due diligence might also include an analysis of future growth. The acquirer may ask questions that address the structuring of the acquisition. The acquirer is also likely to look at the current practices and policies of the target company and perform a shareholder value analysis. Due diligence can be categorized as "hard" due diligence, which is concerned with the numbers on the financial statements, and "soft" due diligence, which is concerned with the people within the company and its customer base.
+Depending on its purpose, due diligence takes different forms. A company that is considering an M&A [[Will|will]] perform a financial analysis on a target company. The due diligence might also include an analysis of future growth. The acquirer may ask questions that address the structuring of the acquisition. The acquirer is also likely to look at the current practices and policies of the target company and perform a shareholder value analysis. Due diligence can be categorized as "hard" due diligence, which is concerned with the numbers on the financial statements, and "soft" due diligence, which is concerned with the people within the company and its customer base.
 
 ### What Is a Due Diligence Checklist?
 
-A due diligence checklist is an organized way to analyze a company. The checklist will include all the areas to be analyzed, such as ownership and organization, assets and operations, the financial ratios, shareholder value, processes and policies, future growth potential, management, and human resources.
+A due diligence checklist is an organized way to analyze a company. The checklist [[Will|will]] include all the areas to be analyzed, such as ownership and organization, assets and operations, the financial ratios, shareholder value, processes and policies, future growth potential, management, and human resources.
 
 ### What Is a Due Diligence Example?
 
-Examples of due diligence can be found in many areas of our daily lives. For example, conducting a property inspection before completing a purchase to assess the risk of the investment, an acquiring company that examines a target firm before completing a merger or acquisition, and an employer performing a background check on a potential recruit.
+Examples of due diligence can be found in many areas of our daily lives. For example, conducting a property inspection before completing a purchase to assess the [[Risk|risk]] of the investment, an acquiring company that examines a target firm before completing a merger or acquisition, and an employer performing a background check on a potential recruit.
 
 ## The Bottom Line
 
-Due diligence is a process or effort to collect and analyze information before making a decision or conducting a transaction so a party is not held legally liable for any loss or damage. The term applies to many situations but most notably to business transactions. Due diligence is performed by investors who want to minimize risk, broker-dealers who want to ensure that a party to any transaction is fully informed of the details so that the broker-dealer is not held responsible, and companies who are considering acquiring another firm. Fundamentally, doing your due diligence means that you have gathered the necessary facts to make a wise and informed decision.
+Due diligence is a process or effort to collect and analyze information before making a decision or conducting a transaction so a party is not held legally liable for any loss or damage. The term applies to many situations but most notably to business transactions. Due diligence is performed by investors who want to minimize [[Risk|risk]], broker-dealers who want to ensure that a party to any transaction is fully informed of the details so that the broker-dealer is not held responsible, and companies who are considering acquiring another firm. Fundamentally, doing your due diligence means that you have gathered the necessary facts to make a wise and informed decision.

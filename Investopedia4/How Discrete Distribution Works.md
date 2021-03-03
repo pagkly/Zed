@@ -13,7 +13,7 @@ author: Julie Young
 
 ---
 
-How Discrete Distribution Works
+[[How Discrete Distribution Works]]
 ## What Is Discrete Distribution?
 
 A discrete distribution is a statistical distribution that shows the probabilities of discrete (countable) outcomes, such as 1, 2, 3... Statistical distributions can be either discrete or continuous.
@@ -22,14 +22,14 @@ A continuous distribution is built from outcomes that fall in a continuum, such 
 
 ## Understanding Discrete Distribution
 
-Distribution is a statistical concept used in data research. Statisticians seeking to identify the outcomes and probabilities of a particular study will chart measurable data points from a data set, resulting in a probability distribution diagram. There are many types of probability distribution diagram shapes that can result from a distribution study. Some of the most common probability distributions include: normal, uniform, [[binomial]](https://www.investopedia.com/terms/b/binomialdistribution.asp), geometric, Poisson, exponential, chi-squared, gamma, and beta.
+Distribution is a statistical concept used in data research. Statisticians seeking to identify the outcomes and probabilities of a particular study [[Will|will]] chart measurable data points from a data set, resulting in a probability distribution diagram. There are many types of probability distribution diagram shapes that can result from a distribution study. Some of the most common probability distributions include: normal, uniform, [[binomial]](https://www.investopedia.com/terms/b/binomialdistribution.asp), geometric, Poisson, exponential, chi-squared, gamma, and beta.
 
 Distributions must be either discrete or continuous.
 
-Statisticians can identify the development of either a discrete or continuous distribution by the nature of the outcomes to be measured. Discrete distributions have a countable number of outcomes, which means that the potential outcomes can be put into a list. The list may be finite or infinite; the Poisson distribution is a discrete distribution whose list {0, 1, 2, ...} is infinite. For example, when studying the probability distribution of a die with six numbered sides the list is {1, 2, 3, 4, 5, 6}. Another example can include flipping a coin. Flipping a coin gives you the list {Heads, Tails}.
+Statisticians can identify the development of either a discrete or continuous distribution by the nature of the outcomes to be measured. Discrete distributions have a countable number of outcomes, which means that the potential outcomes can be put into a list. The list may be finite or infinite; the [[Poisson Distribution|Poisson distribution]] is a discrete distribution whose list {0, 1, 2, ...} is infinite. For example, when studying the probability distribution of a die with six numbered sides the list is {1, 2, 3, 4, 5, 6}. Another example can include flipping a coin. Flipping a coin gives you the list {Heads, Tails}.
 
 ## Examples of Discrete Distribution
 
 The most common discrete probability distributions include binomial, Poisson, Bernoulli, and [[multinomial]](https://www.investopedia.com/terms/m/multinomial-distribution.asp). One example where discrete distribution can be valuable for businesses is in [[inventory management.]](https://www.investopedia.com/terms/i/inventory-management.asp) Studying the frequency of inventory sold in conjunction with a finite amount of inventory available can provide a business with a probability distribution that leads to guidance on the proper allocation of inventory to best utilize square footage.
 
-Discrete distributions can also arise in the [[Monte Carlo simulation]](https://www.investopedia.com/terms/m/montecarlosimulation.asp). Monte Carlo simulation is a modeling technique that identifies the probabilities of different outcomes through programmed technology. It is primarily used to help forecast scenarios and identify risks. In Monte Carlo simulation, outcomes with discrete values will produce discrete distributions for analysis. These distributions are used in determining risk and trade-offs among different items being considered.
+Discrete distributions can also arise in the [[Monte Carlo simulation]](https://www.investopedia.com/terms/m/montecarlosimulation.asp). [[Monte Carlo Simulation|Monte Carlo simulation]] is a modeling technique that identifies the probabilities of different outcomes through programmed technology. It is primarily used to help forecast scenarios and identify risks. In Monte Carlo simulation, outcomes with discrete values [[Will|will]] produce discrete distributions for analysis. These distributions are used in determining [[Risk|risk]] and trade-offs among different items being considered.

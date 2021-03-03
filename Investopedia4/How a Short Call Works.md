@@ -9,43 +9,43 @@ author: Troy Segal
 # Short Call Definition
 
 > ## Excerpt
-> A short call is a strategy involving a call option, giving a trader the right, but not the obligation, to sell a security. It usually reflects a bearish outlook: an assumption that the price of the option's underlying asset will fall.
+> A short call is a strategy involving a call option, giving a trader the right, but not the obligation, to sell a [[Security|security]]. It usually reflects a bearish outlook: an assumption that the price of the option's [[Underlying|underlying]] asset [[Will|will]] fall.
 
 ---
 
-How a Short Call Works
+[[How a Short Call Works]]
 ## What Is a Short Call?
 
 A short call is an options trading strategy in which the trader is betting that the price of the asset on which they are placing the option is going to drop.
 
 ### Key Takeaways
 
--   A short call is a strategy involving a call option, which obligates the call seller to sell a security to the call buyer at the strike price if the call is exercised.
--   A short call is a bearish trading strategy, reflecting a bet that the security underlying the option will fall in price.
--   A short call involves more risk but requires less upfront money than a long put, another bearish trading strategy.
+-   A short call is a strategy involving a call option, which obligates the call seller to sell a [[Security|security]] to the call buyer at the strike price if the call is exercised.
+-   A short call is a bearish trading strategy, reflecting a bet that the [[Security|security]] [[Underlying|underlying]] the option [[Will|will]] fall in price.
+-   A short call involves more [[Risk|risk]] but requires less upfront money than a [[Long Put|long put]], another bearish trading strategy.
 
 ## How Does a Short Call Work?
 
-A short call strategy is one of two simple ways options traders can take bearish positions. It involves selling call options, or calls. Calls give the holder of the option the right to buy an underlying security at a specified price.
+A short call strategy is one of two simple ways options traders can take bearish positions. It involves selling call options, or calls. Calls give the holder of the option the right to buy an [[Underlying|underlying]] [[Security|security]] at a specified price.
 
-If the price of the underlying security falls, a short call strategy profits. If the price rises, there’s unlimited exposure during the length of time the option is viable, which is known as a [[naked short]](https://www.investopedia.com/terms/n/nakedshorting.asp) call. To limit losses, some traders will exercise a short call while owning the underlying security, which is known as a [[covered call]](https://www.investopedia.com/terms/c/coveredcall.asp).
+If the price of the [[Underlying|underlying]] [[Security|security]] falls, a short call strategy profits. If the price rises, there’s unlimited exposure during the length of time the option is viable, which is known as a [[naked short]](https://www.investopedia.com/terms/n/nakedshorting.asp) call. To limit losses, some traders [[Will|will]] exercise a short call while owning the underlying security, which is known as a [[covered call]](https://www.investopedia.com/terms/c/coveredcall.asp).
 
  Image by Sabrina Jiang © Investopedia 2020
 
 ## Real World Example of a Short Call
 
-Say Liquid Trading Co. decides to sell calls on shares of Humbucker Holdings to Paper Trading Co. The stock is trading near $100 a share and is in a strong uptrend. However, the Liquid group believes Humbucker is overvalued, and based on a combination of fundamental and technical reasons, they believe it eventually will fall to $50 a share. Liquid agrees to sell 100 calls at $110 a share. This gives Paper the right to purchase Humbucker shares at that specific price.
+Say Liquid Trading Co. decides to sell calls on [[Shares|shares]] of Humbucker [[Holdings]] to Paper Trading Co. The [[Stock|stock]] is trading near $100 a share and is in a strong uptrend. However, the Liquid group believes Humbucker is overvalued, and based on a combination of fundamental and technical reasons, they believe it eventually [[Will|will]] fall to $50 a share. Liquid agrees to sell 100 calls at $110 a share. This gives Paper the right to purchase Humbucker shares at that specific price.
 
-Selling the call option allows Liquid to collect a premium upfront; that is, Paper pays liquid $11,000 (100 x $110). If the stock heads lower over time, as the Liquid gang thinks it will, Liquid profits on the difference between what they received and the price of the stock. Say Humbucker stock does drop to $50. Then Liquid reaps a profit of $6,000 ($11,000 - $5,000).
+Selling the call option allows Liquid to collect a [[Premium|premium]] upfront; that is, Paper pays liquid $11,000 (100 x $110). If the [[Stock|stock]] heads lower over time, as the Liquid gang thinks it [[Will|will]], Liquid profits on the difference between what they received and the price of the stock. Say Humbucker stock does drop to $50. Then Liquid reaps a profit of $6,000 ($11,000 - $5,000).
 
-Things can go awry, however, if Humbucker shares continue to climb, creating limitless risk for Liquid. For example, say the shares continue their uptrend and go to $200 within a few months. If Liquid executes a naked call, Paper can execute the option and purchase stock worth $20,000 for $11,000, resulting in a $9,000 trading loss for Liquid.
+Things can go awry, however, if Humbucker [[Shares|shares]] continue to climb, creating limitless [[Risk|risk]] for Liquid. For example, say the shares continue their uptrend and go to $200 within a few months. If Liquid executes a naked call, Paper can execute the option and purchase [[Stock|stock]] worth $20,000 for $11,000, resulting in a $9,000 trading loss for Liquid.
 
-If the stock were to rise to $350 before the option expires, Paper could purchase stock worth $35,000 for the same $11,000, resulting in a $24,000 loss for Liquid.
+If the [[Stock|stock]] were to rise to $350 before the option expires, Paper could purchase stock worth $35,000 for the same $11,000, resulting in a $24,000 loss for Liquid.
 
 ## Short Calls Versus Long Puts
 
-As previously mentioned, a short call strategy is one of two common bearish trading strategies. The other is buying put options or [[puts]](https://www.investopedia.com/terms/p/putoption.asp). Put options give the holder the right to sell a security at a certain price within a specific time frame. Going long on puts, as traders say, is also a bet that prices will fall, but the strategy works differently.
+As previously mentioned, a short call strategy is one of two common bearish trading strategies. The other is buying put options or [[puts]](https://www.investopedia.com/terms/p/putoption.asp). Put options give the holder the right to sell a [[Security|security]] at a certain price within a specific time frame. Going long on puts, as traders say, is also a bet that prices [[Will|will]] fall, but the strategy works differently.
 
-Say Liquid Trading Co. still believes Humbucker stock is headed for a fall, but it opts to buy 100 $110 Humbucker puts instead. To do so, the Liquid group must put up the $11,000 ($110 x 100) in cash for the option. Liquid now has the right to force Paper, who is on the other side of the deal, to buy the stock at this price – even if Humbucker shares drop to Liquid's projected $50 a share. If they do, Liquid has made a tidy profit – $6,000.
+Say Liquid Trading Co. still believes Humbucker [[Stock|stock]] is headed for a fall, but it opts to buy 100 $110 Humbucker puts instead. To do so, the Liquid group must put up the $11,000 ($110 x 100) in cash for the option. Liquid now has the right to force Paper, who is on the other side of the deal, to buy the stock at this price – even if Humbucker [[Shares|shares]] drop to Liquid's projected $50 a share. If they do, Liquid has made a tidy profit – $6,000.
 
-In a way, it's achieving the same goal, just through the opposite route. Of course, the long put does require that Liquid shell out funds upfront. The advantage is that unlike the short call, the most Liquid can lose is $11,000, or the total price of the option.
+In a way, it's achieving the same goal, just through the opposite route. Of course, the [[Long Put|long put]] does require that Liquid shell out funds upfront. The advantage is that unlike the short call, the most Liquid can lose is $11,000, or the total price of the option.

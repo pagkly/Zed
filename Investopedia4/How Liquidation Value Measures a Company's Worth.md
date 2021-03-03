@@ -9,19 +9,19 @@ author: Caroline Banton
 # Liquidation Value Definition
 
 > ## Excerpt
-> Liquidation value is the total worth of a company's physical assets if it were to go out of business. The liquidation value is the value of company real estate, fixtures, equipment, and inventory.
+> Liquidation value is the total worth of a company's physical assets if it were to go out of business. The liquidation value is the value of company real [[Estate|estate]], fixtures, equipment, and inventory.
 
 ---
 
-How Liquidation Value Measures a Company's Worth
+[[How Liquidation Value Measures a Company's Worth]]
 ## What Is Liquidation Value?
 
-Liquidation value is the net value of a company's physical assets if it were to go out of business and the assets sold. The liquidation value is the value of company real estate, fixtures, equipment, and inventory. Intangible assets are excluded from a company's liquidation value.
+Liquidation value is the net value of a company's physical assets if it were to go out of business and the assets sold. The liquidation value is the value of company real [[Estate|estate]], fixtures, equipment, and inventory. Intangible assets are excluded from a company's liquidation value.
 
 ### Key Takeaways
 
 -   Liquidation value is the total worth of a company's physical assets if it were to go out of business and its assets sold.
--   Liquidation value is determined a company's assets such as real estate, fixtures, equipment, and inventory. Intangible assets are excluded from a company's liquidation value.
+-   Liquidation value is determined a company's assets such as real [[Estate|estate]], fixtures, equipment, and inventory. Intangible assets are excluded from a company's liquidation value.
 -   Liquidation value is usually lower than book value, but greater than salvage value.
 -   Assets are sold at a loss during liquidation because the seller must gather as much cash as possible within a short period.
 
@@ -29,15 +29,15 @@ Liquidation value is the net value of a company's physical assets if it were to 
 
 There are generally four levels of valuation for business assets: market value, book value, liquidation value, and [[salvage value]](https://www.investopedia.com/terms/s/salvagevalue.asp). Each level of value provides a way for accountants and analysts to classify the aggregate value of assets. Liquidation value is especially important in the case of bankruptcies and [[workouts]](https://www.investopedia.com/terms/w/workout-agreement.asp).
 
-Liquidation value does not include [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp) such as a company's intellectual property, goodwill, and brand recognition. However, if a company is sold rather than liquidated, both the liquidation value and intangible assets determine the company's going-concern value. Value investors look at the difference between a company's market capitalization and its going-concern value to determine whether the company's stock is currently a good buy.
+Liquidation value does not include [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp) such as a company's intellectual property, goodwill, and brand recognition. However, if a company is sold rather than liquidated, both the liquidation value and intangible assets determine the company's going-concern value. Value investors look at the difference between a company's [[Market Capitalization|market capitalization]] and its going-concern value to determine whether the company's [[Stock|stock]] is currently a good buy.
 
-Potential investors will assess the liquidation value of a company before investing. Investors want to know how much of their funds would be returned in the event of bankruptcy.
+Potential investors [[Will|will]] assess the liquidation value of a company before investing. Investors want to know how much of their funds would be returned in the event of bankruptcy.
 
 ## Market vs. Book vs. Liquidation vs. Salvage
 
 Market value typically provides the highest valuation of assets although the measure could be lower than book value if the value of the assets has decreased due to market demand rather than business use.
 
-The book value is the value of the asset as listed on the balance sheet. The balance sheet lists assets at the historical cost, so the value of assets may be higher or lower than market prices. In an economic environment with rising prices, the book value of assets is lower than the market value. The liquidation value is the expected value of the asset once it has been liquidated or sold, presumably at a loss to historical cost.
+The book value is the value of the asset as [[Listed|listed]] on the balance sheet. The balance sheet lists assets at the historical cost, so the value of assets may be higher or lower than market prices. In an economic environment with rising prices, the book value of assets is lower than the market value. The liquidation value is the expected value of the asset once it has been liquidated or sold, presumably at a loss to historical cost.
 
 Finally, the salvage value is the value given to an asset at the end of its [[useful life]](https://www.investopedia.com/terms/u/usefullife.asp); in other words, this is the scrap value.
 

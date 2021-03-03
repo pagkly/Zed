@@ -13,22 +13,22 @@ author: Jake Frankenfield
 
 ---
 
-How Cloud Computing Works
+[[How Cloud Computing Works]]
 ## What Is Cloud Computing?
 
 Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software.
 
 Rather than keeping files on a proprietary hard drive or local storage device, [[cloud-based storage]](https://www.investopedia.com/terms/c/cloud-storage.asp) makes it possible to save them to a remote database. As long as an electronic device has access to the web, it has access to the data and the software programs to run it.
 
-Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased productivity, speed and efficiency, performance, and security.
+Cloud computing is a popular option for people and businesses for a number of reasons including cost savings, increased [[Productivity|productivity]], speed and efficiency, performance, and [[Security|security]].
 
 ## Understanding Cloud Computing
 
-Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to gain access to it, allowing the user to work remotely.
+Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to [[Gain|gain]] access to it, allowing the user to work remotely.
 
-[Cloud computing](https://www.investopedia.com/articles/personal-finance/090715/8-best-cloud-storage-solutions-small-business.asp) takes all the heavy lifting involved in crunching and processing data away from the device you carry around or sit and work at. It also moves all of that work to huge computer clusters far away in cyberspace. The Internet becomes the cloud, and voilà—your data, work, and applications are available from any device with which you can connect to the Internet, anywhere in the world.
+[Cloud computing](https://www.investopedia.com/articles/personal-[[Finance|finance]]/090715/8-best-cloud-storage-solutions-small-business.asp) takes all the heavy lifting involved in crunching and processing data away from the device you carry around or sit and work at. It also moves all of that work to huge computer clusters far away in cyberspace. The Internet becomes the cloud, and voilà—your data, work, and applications are available from any device with which you can connect to the Internet, anywhere in the world.
 
-Cloud computing can be both public and private. Public cloud services provide their services over the Internet for a fee. Private cloud services, on the other hand, only provide services to a certain number of people. These services are a system of networks that supply hosted services. There is also a hybrid option, which combines elements of both the public and private services.
+Cloud computing can be both public and private. Public cloud services provide their services over the Internet for a fee. Private cloud services, on the other hand, only provide services to a certain number of people. These services are a system of networks that [[Supply|supply]] hosted services. There is also a hybrid option, which combines elements of both the public and private services.
 
 ### Key Takeaways
 
@@ -55,7 +55,7 @@ There are various types of clouds, each of which is different from the other. Pu
 
 Private clouds are reserved for specific clientele, usually one business or organization. The firm's data service center may host the cloud computing service. Many private cloud computing services are provided on a private network.
 
-Hybrid clouds are, as the name implies, a combination of both public and private services. This type of model allows the user more flexibility and helps optimize the user's infrastructure and security.
+Hybrid clouds are, as the name implies, a combination of both public and private services. This type of model allows the user more flexibility and helps optimize the user's infrastructure and [[Security|security]].
 
 Newer forms of cloud computing services include the community cloud, the big data cloud, and the multicloud.
 
@@ -65,7 +65,7 @@ Cloud computing is not a single piece of technology like a microchip or a cellph
 
 1.  **Software-as-a-service (SaaS)** involves the licensure of a software application to customers. Licenses are typically provided through a pay-as-you-go model or on-demand. This type of system can be found in Microsoft Office's 365.1
 2.  **Infrastructure-as-a-service (IaaS)** involves a method for delivering everything from operating systems to servers and storage through IP-based connectivity as part of an on-demand service. Clients can avoid the need to purchase software or servers, and instead procure these resources in an [[outsourced]](https://www.investopedia.com/terms/o/outsourcing.asp), on-demand service. Popular examples of the IaaS system include IBM Cloud and Microsoft Azure.2 3
-3.  **Platform-as-a-service (PaaS)** is considered the most complex of the three layers of cloud-based computing. PaaS shares some similarities with SaaS, the primary difference being that instead of delivering software online, it is actually a platform for creating software that is delivered via the Internet. This model includes platforms like Salesforce.com and Heroku.4 5
+3.  **Platform-as-a-service (PaaS)** is considered the most complex of the three layers of cloud-based computing. PaaS [[Shares|shares]] some similarities with SaaS, the primary difference being that instead of delivering software online, it is actually a platform for creating software that is delivered via the Internet. This model includes platforms like Salesforce.com and Heroku.4 5
 
 ## Advantages of Cloud Computing 
 
@@ -73,15 +73,15 @@ Cloud-based software offers companies from all sectors a number of benefits, inc
 
 Cloud computing is far more than just accessing files on multiple devices. Thanks to cloud computing services, users can check their email on any computer and even store files using services such as Dropbox and Google Drive.6 7 Cloud computing services also make it possible for users to [[back up]](https://www.investopedia.com/terms/b/back-up.asp) their music, files, and photos, ensuring those files are immediately available in the event of a hard drive crash.
 
-It also offers big businesses huge cost-saving potential. Before the cloud became a viable alternative, companies were required to purchase, construct, and maintain costly [[information management technology]](https://www.investopedia.com/terms/i/information-management-technology-imt.asp) and infrastructure. Companies can swap costly server centers and IT departments for fast Internet connections, where employees interact with the cloud online to complete their tasks.
+It also offers big businesses huge cost-saving potential. Before the cloud became a viable alternative, companies were required to purchase, construct, and maintain costly [[information management technology]](https://www.investopedia.com/terms/i/information-management-technology-imt.asp) and infrastructure. Companies can [[Swap|swap]] costly server centers and IT departments for fast Internet connections, where employees interact with the cloud online to complete their tasks.
 
-The cloud structure allows individuals to save storage space on their desktops or laptops. It also lets users [[upgrade]](https://www.investopedia.com/terms/u/upgrade.asp) software more quickly because software companies can offer their products via the web rather than through more traditional, tangible methods involving discs or flash drives. For example, Adobe customers can access applications in its Creative Cloud through an Internet-based subscription.8 This allows users to download new versions and fixes to their programs easily.
+The cloud structure allows individuals to save storage space on their desktops or laptops. It also lets users [[upgrade]](https://www.investopedia.com/terms/u/upgrade.asp) software more quickly because software companies can [[Offer|offer]] their products via the web rather than through more traditional, tangible methods involving discs or flash drives. For example, Adobe customers can access applications in its Creative Cloud through an Internet-based subscription.8 This allows users to download new versions and fixes to their programs easily.
 
 ## Disadvantages of the Cloud
 
 With all of the speed, efficiencies, and innovations that come with cloud computing, there are, naturally, risks.
 
-Security has always been a big concern with the cloud especially when it comes to sensitive medical records and financial information. While regulations force cloud computing services to shore up their security and compliance measures, it remains an ongoing issue. Encryption protects vital information, but if that encryption key is lost, the data disappears.
+[[Security]] has always been a big concern with the cloud especially when it comes to sensitive medical records and financial information. While regulations force cloud computing services to shore up their security and compliance measures, it remains an ongoing issue. Encryption protects vital information, but if that encryption key is lost, the data disappears.
 
 Servers maintained by cloud computing companies may fall victim to natural disasters, internal bugs, and power outages, too. The geographical reach of cloud computing cuts both ways: A blackout in California could paralyze users in New York, and a firm in Texas could lose its data if something causes its Maine-based provider to crash.
 
@@ -94,7 +94,7 @@ Businesses can employ cloud computing in different ways. Some users maintain all
 When it comes to providing services, the big players in the corporate computing sphere include:
 
 -   Google Cloud
--   [[Amazon Web Services]](https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp) (AWS)
+-   [[Amazon Web Services]](https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-[[Stocks|stocks]]-fdnpnqiqqqskyy.asp) (AWS)
 -   Microsoft Azure
 -   IBM Cloud
 -   Alibaba Cloud

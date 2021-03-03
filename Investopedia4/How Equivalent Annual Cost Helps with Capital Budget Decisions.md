@@ -3,7 +3,7 @@ alias: [Equivalent Annual Cost – EAC]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Equivalent Annual Cost – EAC Definition, How Equivalent Annual Cost Helps with Capital Budget Decisions]
 source: https://www.investopedia.com/terms/e/eac.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Equivalent Annual Cost – EAC Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-How Equivalent Annual Cost Helps with Capital Budget Decisions
+[[How Equivalent Annual Cost Helps with Capital Budget Decisions]]
 ## What Is the Equivalent Annual Cost (EAC)?
 
 Equivalent annual cost (EAC) is the annual cost of owning, operating, and maintaining an asset over its entire life. Firms often use EAC for [[capital budgeting decisions]](https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp), as it allows a company to compare the cost-effectiveness of various assets with unequal lifespans.
@@ -24,9 +24,9 @@ Equivalent annual cost (EAC) is the annual cost of owning, operating, and mainta
 
 Equivalent annual cost (EAC) is used for a variety of purposes, including capital budgeting. But it is used most often to analyze two or more possible projects with different lifespans, where costs are the most relevant variable.
 
-Other uses of EAC include calculating the optimal life of an asset, determining if leasing or purchasing an asset is the better option, determining the magnitude of which maintenance costs will impact an asset, determining the necessary cost savings to support purchasing a new asset, and determining the cost of keeping existing equipment.
+Other uses of EAC include calculating the optimal life of an asset, determining if leasing or purchasing an asset is the better option, determining the magnitude of which maintenance costs [[Will|will]] impact an asset, determining the necessary cost savings to support purchasing a new asset, and determining the cost of keeping existing equipment.
 
-The EAC calculation factors in a discount rate or the cost of capital. [[Cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) is the required return necessary to make a capital budgeting project—such as building a new factory—worthwhile. Cost of capital includes the cost of debt and the cost of equity and is used by companies internally to judge whether a capital project is worth the expenditure of resources.
+The EAC calculation factors in a [[Discount Rate|discount rate]] or the [[Cost of Capital|cost of capital]]. [[Cost of capital]](https://www.investopedia.com/terms/c/costofcapital.asp) is the required [[Return|return]] necessary to make a capital budgeting project—such as building a new factory—worthwhile. Cost of capital includes the [[Cost of Debt|cost of debt]] and the [[Cost of Equity|cost of equity]] and is used by companies internally to judge whether a capital project is worth the expenditure of resources.
 
 ### Key Takeaways
 
@@ -36,13 +36,13 @@ The EAC calculation factors in a discount rate or the cost of capital. [[Cost of
 
 ## The Formula for the Equivalent Annual Cost
 
-EAC\=Asset Price×Discount Rate1−(1+Discount Rate)−nwhere:Discount Rate\=Return required to make projectworthwhilen\=Number of periods\\begin{aligned} &\\text{EAC} = \\frac{ \\text{Asset Price} \\times \\text{Discount Rate} }{ 1 - ( 1 + \\text{Discount Rate})^{-n} } \\\\ &\\textbf{where:} \\\\ &\\text{Discount Rate} = \\text{Return required to make project} \\\\ &\\text{worthwhile} \\\\ &n = \\text{Number of periods} \\\\ \\end{aligned}
+EAC\=Asset Price×Discount Rate1−(1+Discount Rate)−nwhere:Discount Rate\=[[Return]] required to make projectworthwhilen\=Number of periods\\begin{aligned} &\\text{EAC} = \\frac{ \\text{Asset Price} \\times \\text{[[Discount Rate]]} }{ 1 - ( 1 + \\text{Discount Rate})^{-n} } \\\\ &\\textbf{where:} \\\\ &\\text{Discount Rate} = \\text{Return required to make project} \\\\ &\\text{worthwhile} \\\\ &n = \\text{Number of periods} \\\\ \\end{aligned}
 
 ## How to Calculate the Equivalent Annual Cost
 
-1.  Take the asset price or cost and multiply it by the discount rate.
-2.  The discount rate is also called the [[cost of capital,]](https://www.investopedia.com/terms/c/costofcapital.asp) which is the required return necessary to make a [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) project, such as building a new factory, worthwhile.
-3.  In the denominator add 1 + the discount rate and raise the result as an exponent to the number of years for the project. Subtract the result by 1 and divide the numerator figure by the denominator.
+1.  Take the asset price or cost and multiply it by the [[Discount Rate|discount rate]].
+2.  The [[Discount Rate|discount rate]] is also called the [[cost of capital,]](https://www.investopedia.com/terms/c/costofcapital.asp) which is the required [[Return|return]] necessary to make a [capital budgeting](https://www.investopedia.com/terms/c/capitalbudgeting.asp) project, such as building a new factory, worthwhile.
+3.  In the denominator add 1 + the [[Discount Rate|discount rate]] and raise the result as an exponent to the number of years for the project. Subtract the result by 1 and divide the numerator figure by the denominator.
 4.  Many financial online calculators are available to calculate EAC.
 
 ## Example of the Equivalent Annual Cost
@@ -61,13 +61,13 @@ As stated earlier, EAC allows managers to compare NPVs of different projects ove
 -   An expected lifespan of five years
 -   An annual maintenance expense of $8,500
 
-The cost of capital for the company making the decision is thus 5%.
+The [[Cost of Capital|cost of capital]] for the company making the decision is thus 5%.
 
-Next, we calculate the EAC, which is equal to the [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) divided by the present value annuity factor or A(t,r), while taking into account the cost of capital or r, and the number of years in question or t.
+Next, we calculate the EAC, which is equal to the [[net present value]](https://www.investopedia.com/terms/n/npv.asp) (NPV) divided by the present value annuity factor or A(t,r), while taking into account the [[Cost of Capital|cost of capital]] or r, and the number of years in question or t.
 
 The annuity factor is calculated as follows:
 
-Annuity Factor\=1−1(1+r)trwhere:r\=Cost of capitalt\=Number of periods\\begin{aligned} &\\text{Annuity Factor} = \\frac{ 1 - \\frac{ 1 }{ ( 1 + r ) ^ t} }{ r } \\\\ &\\textbf{where:} \\\\ &r = \\text{Cost of capital} \\\\ &t = \\text{Number of periods} \\\\ \\end{aligned}
+Annuity Factor\=1−1(1+r)trwhere:r\=Cost of capitalt\=Number of periods\\begin{aligned} &\\text{Annuity Factor} = \\frac{ 1 - \\frac{ 1 }{ ( 1 + r ) ^ t} }{ r } \\\\ &\\textbf{where:} \\\\ &r = \\text{[[Cost of Capital|Cost of capital]]} \\\\ &t = \\text{Number of periods} \\\\ \\end{aligned}
 
 Using the formula above, the annuity factor or A(t,r) of each project must be calculated. These calculations would be as follows:
 
@@ -83,14 +83,14 @@ EAC Machine B\=$175,0004.33+$8,500\=$48,921\\begin{aligned} &\\text{EAC Machin
 
 By standardizing the annual cost, a manager in charge of a capital budgeting decision where cost is the only issue would select Machine B because it has an EAC that is $636 lower than Machine A.
 
-## The Difference Between the Equivalent Annual Cost and the Whole-life Cost
+## The Difference Between the Equivalent Annual Cost and the [[Whole-Life Cost|Whole-life Cost]]
 
 [Whole-life cost](https://www.investopedia.com/terms/w/whole-life-cost.asp) is the total expense of owning an asset over its entire life, from purchase to disposal, as determined by financial analysis. It is also known as a "life-cycle" cost, which includes purchase and installation, design and building costs, operating costs, maintenance, associated financing costs, depreciation, and disposal costs.
 
-Whole-life cost also takes into account certain costs that are usually overlooked, such as those related to environmental and social impact factors.
+[[Whole-Life Cost|Whole-life cost]] also takes into account certain costs that are usually overlooked, such as those related to environmental and social impact factors.
 
 The equivalent annual cost (EAC) is the annual cost of owning, operating, and maintaining an asset over its entire life while the whole life cost is the total cost of the asset over its entire life.
 
 ## Limitations of Using the Equivalent Annual Cost
 
-A limitation with EAC, as with many capital budgeting decisions, is that the discount rate or cost of capital must be estimated for each project. Unfortunately, the forecast can turn out to be inaccurate, or variables can change over the life of the project or life of the asset that's be considered.
+A limitation with EAC, as with many capital budgeting decisions, is that the [[Discount Rate|discount rate]] or [[Cost of Capital|cost of capital]] must be estimated for each project. Unfortunately, the forecast can turn out to be inaccurate, or variables can change over the life of the project or life of the asset that's be considered.

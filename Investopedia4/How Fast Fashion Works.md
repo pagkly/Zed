@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How Fast Fashion Works
+[[How Fast Fashion Works]]
 ## What Is Fast Fashion?
 
 Fast fashion is the term used to describe clothing designs that move quickly from the catwalk to stores to meet new trends. The collections are often based on designs presented at Fashion Week events. [[Fast fashion]](https://www.investopedia.com/articles/investing/041216/hm-secret-its-success.asp) allows mainstream consumers to purchase trendy clothing at an affordable price.
@@ -22,7 +22,7 @@ Fast fashion became common because of cheaper clothing, an increase in the appet
 
 -   Fast fashion describes clothing designs that move quickly from the catwalk to retail stores to meet new trends.
 -   Fast fashion competes with traditional fashion houses that continue to introduce new fashion lines on a seasonal basis.
--   Innovations in supply chain management among fashion retailers make fast fashion possible.
+-   Innovations in [[Supply|supply]] chain management among fashion retailers make fast fashion possible.
 -   Leaders in the fast fashion industry include Zara, H&M, UNIQLO, Gap, and Forever 21.
 
 ## Understanding Fast Fashion
@@ -31,7 +31,7 @@ Fast fashion became common because of cheaper clothing, an increase in the appet
 
 Fast fashion is made possible by innovations in [[supply chain management]](https://www.investopedia.com/terms/s/scm.asp) (SCM) among fashion retailers. Its goal is to produce articles of clothing quickly that are cost-efficient. These clothes respond to fast-shifting consumer demands. The assumption is that consumers want high fashion at a low price.
 
-Fast fashion follows the concept of category management, linking the manufacturer with the consumer in a mutually beneficial relationship. The speed at which fast fashion happens requires this kind of collaboration, as the need to refine and accelerate supply chain processes is paramount.
+Fast fashion follows the concept of category management, linking the manufacturer with the consumer in a mutually beneficial relationship. The speed at which fast fashion happens requires this kind of collaboration, as the need to refine and accelerate [[Supply|supply]] chain processes is paramount.
 
 ## Fast Fashion Leaders
 
@@ -43,14 +43,14 @@ More traditional department stores such as Macy's, J. C. Penney, and Kohl's in t
 
 ## The Advantages of Fast Fashion
 
-Fast fashion is a boon for retailers because of the constant introduction of new products encourages customers to frequent stores more often, which means they end up making more purchases. The speed at which fast fashion moves tends to help retailers avoid markdowns, which cut into margins. The company does not replenish its stock—instead, it replaces items that sell out with new items. Accordingly, consumers know to purchase an item they like when they see it no matter what the price because it's not likely to be available for long.
+Fast fashion is a boon for retailers because of the constant introduction of new products encourages customers to frequent stores more often, which means they end up making more purchases. The speed at which fast fashion moves tends to help retailers avoid markdowns, which cut into margins. The company does not replenish its [[Stock|stock]]—instead, it replaces items that sell out with new items. Accordingly, consumers know to purchase an item they like when they see it no matter what the price because it's not likely to be available for long.
 
 Fast fashion is also responsible for big profits, especially if a retailer is able to jump on a trend before the competition. And if there are any losses, fashion retailers are able to recover quickly by launching a new clothing line or product. And because the clothing is cheap (and cheaply made), it's easy to get consumers back into stores to purchase the new clothing and the latest styles.
 
 ## Criticisms of Fast Fashion
 
-Despite the advantages for customers, fast fashion has also been criticized because it encourages a “throw-away” attitude. That's why it's also called disposable fashion—the clothing is cheaply made in a style that will change very quickly.
+Despite the advantages for customers, fast fashion has also been criticized because it encourages a “throw-away” attitude. That's why it's also called disposable fashion—the clothing is cheaply made in a style that [[Will|will]] change very quickly.
 
-Critics contend that fast fashion contributes to pollution, poor workmanship, and poor working conditions in developing countries, where many of the clothing is manufactured. Because the clothing is made overseas, it's also seen as causing a decline in U.S. manufacturing.
+Critics contend that fast fashion contributes to pollution, poor workmanship, and poor working conditions in developing countries, where many of the clothing is manufactured. Because the clothing is made overseas, it's also seen as causing a decline in U.S. [[Manufacturing|manufacturing]].
 
 The trend has also been criticized on [[intellectual property]](https://www.investopedia.com/terms/i/intellectualproperty.asp) grounds, with some designers alleging that their designs have been illegally mass-produced by retailers.

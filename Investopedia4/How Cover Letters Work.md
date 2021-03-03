@@ -13,10 +13,10 @@ author: Julia Kagan
 
 ---
 
-How Cover Letters Work
+[[How Cover Letters Work]]
 ## What Is a Cover Letter?
 
-A [[cover letter]](https://www.investopedia.com/articles/personal-finance/083115/financial-analyst-cover-letters-get-you-hired.asp) is a written document commonly submitted with a job application outlining the applicant's credentials and interest in the open position. Since a cover letter is often one of only two documents sent to a potential employer, a well- or poorly-written letter can impact whether the applicant is called for an [[interview]](https://www.investopedia.com/articles/personal-finance/010516/4-things-you-should-never-reveal-during-job-interview.asp).
+A [[cover letter]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/083115/financial-analyst-cover-letters-get-you-hired.asp) is a written document commonly submitted with a job application outlining the applicant's credentials and interest in the open position. Since a cover letter is often one of only two documents sent to a potential employer, a well- or poorly-written letter can impact whether the applicant is called for an [[interview]](https://www.investopedia.com/articles/personal-finance/010516/4-things-you-should-never-reveal-during-job-interview.asp).
 
 ### Key Takeaways
 
@@ -42,7 +42,7 @@ Writing a cover letter doesn't have to be tedious—even though it may seem like
 -   **Be specific when needed.** Don't rehash your resume, so be sure to quantify your accomplishments. For instance, expand on your marketing experience in your cover letter by saying you brought in 200 additional clients each month and increased revenue to $10,000. This can set you apart from candidates with vague personal details.
 -   **Proofread.** After you’ve written the letter, go over it a few times to ensure there are no errors. Then ask someone else to do a once-over and recommend any changes you may need to make.
 
-A simple, focused cover letter without any typos or grammatical errors will get you noticed by potential employers.
+A simple, focused cover letter without any typos or grammatical errors [[Will|will]] get you noticed by potential employers.
 
 A perfect resume can often be sabotaged by a poorly thought-out cover letter or one that is laden with mistakes. Whether you include the letter as per required submission guidelines, or you simply want to emphasize your interest in the job, make sure you avoid making these blunders.
 

@@ -1,7 +1,7 @@
 ---
 alias: [Financial Health]
 created: 2021-03-02T19:54:43 (UTC +11:00)
-tags: [Financial Health Definition, How Is Your Financial Health Looking?]
+tags: [Financial Health Definition, [[How Is Your Financial Health Looking]]?]
 source: https://www.investopedia.com/terms/f/financial-health.asp
 author: Julia Kagan
 ---
@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-How Is Your Financial Health Looking?
+[[How Is Your Financial Health Looking]]?
 ## What Is Financial Health?
 
 Financial health is a term used to describe the state of one's personal monetary affairs. There are many dimensions to financial health, including the amount of [[savings]](https://www.investopedia.com/terms/s/savings.asp) you have, how much you’re putting away for [[retirement]](https://www.investopedia.com/terms/r/retirement.asp), and how much of your income you are spending on fixed or non-discretionary expenses.
@@ -22,7 +22,7 @@ Financial health is a term used to describe the state of one's personal monetary
 
 -   The state and stability of an individual's personal finances and financial affairs are called their financial health.
 -   Typical signs of strong financial health include a steady flow of income, rare changes in expenses, strong returns on investments, and a cash balance that is growing.
--   To improve your financial health, you need to assess your current net worth, create a budget you can stick to, build an emergency fund, and pay down your debts.
+-   To improve your financial health, you need to assess your current [[Net Worth|net worth]], create a budget you can stick to, build an emergency fund, and pay down your debts.
 
 ## Understanding Financial Health
 
@@ -33,15 +33,15 @@ Financial experts have devised rough guidelines for each indicator of financial 
 To get a better grasp of your financial health, it might help to ask yourself a few key questions—consider this a self-assessment of your financial health:
 
 -   How prepared are you for unexpected events? Do you have an emergency fund?
--   What is your net worth? Is it positive or negative?
+-   What is your [[Net Worth|net worth]]? Is it positive or negative?
 -   Do you have the things you need in life? How about the things you want?
--   What percent of your debt would you consider high interest, such as credit cards? Is it more than 50%?
+-   What percent of your [[Debt|debt]] would you consider high interest, such as credit cards? Is it more than 50%?
 -   Are you actively saving for retirement? Do you feel you’re on track to meet your long-term goal? 
 -   Do you have enough insurance coverage—whether it be health or life?
 
 ## How Financial Health Is Determined
 
-An individual’s financial health can be measured in a number of ways. A person’s savings and overall [[net worth]](https://www.investopedia.com/video/play/what-net-worth/) represent the monetary resources at their disposal for current or future use. These can be affected by debt, such as credit cards, [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp), and auto and student loans. Financial health is not a static figure. It changes based on an individual’s liquidity and assets, as well as the fluctuation of the price of goods and services.
+An individual’s financial health can be measured in a number of ways. A person’s savings and overall [[net worth]](https://www.investopedia.com/video/play/what-net-worth/) represent the monetary resources at their disposal for current or future use. These can be affected by [[Debt|debt]], such as credit cards, [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp), and auto and student loans. Financial health is not a static figure. It changes based on an individual’s [[Liquidity|liquidity]] and assets, as well as the fluctuation of the price of goods and services.
 
 For example, an individual’s salary might remain constant while the costs for gasoline, food, mortgages, and college tuition increase. Despite the good state of their initial financial health, the person may lose ground and lapse into decline if they do not keep pace with rising costs of goods.
 
@@ -49,7 +49,7 @@ Typical signs of strong financial health include a steady flow of income, rare c
 
 ## Improving Your Financial Health
 
-To improve your financial health you must first take a hard, realistic look at where you’re currently at. Calculate your net worth and figure out where you stand. This includes taking everything you own, such as retirement accounts, vehicles, and other assets and subtracting any and all debts. 
+To improve your financial health you must first take a hard, realistic look at where you’re currently at. Calculate your [[Net Worth|net worth]] and figure out where you stand. This includes taking everything you own, such as retirement accounts, vehicles, and other assets and subtracting any and all debts. 
 
 ### Budgeting
 
@@ -63,18 +63,18 @@ One of the major keys to a budget, and maintaining your financial health, is to 
 
 Building an [[emergency fund]](https://www.investopedia.com/terms/o/ofheo.asp) can materially boost your financial health. The fund is meant to be money that is saved and readily available for emergencies, such as car repairs or job loss. The goal should be to have three to six months’ worth of living expenses in your energy fund. 
 
-### Debt
+### [[Debt]]
 
-Pay down your debt. Use either the avalanche or [[snowball]](https://www.investopedia.com/terms/s/snowball.asp) methods. The avalanche method suggests paying as much as possible toward the highest interest debt while paying the minimum on all others. The snowball, meanwhile, suggests taking the smallest debt balance first and then work your way up to the largest debt.
+Pay down your [[Debt|debt]]. Use either the avalanche or [[snowball]](https://www.investopedia.com/terms/s/snowball.asp) methods. The avalanche method suggests paying as much as possible toward the highest interest debt while paying the minimum on all others. The snowball, meanwhile, suggests taking the smallest debt balance first and then work your way up to the largest debt.
 
 ## Rules and Tips for Financial Health
 
-When it comes to effective personal finance—keeping your financial health in tip-top shape isn’t always easy. We get caught up with living life. However, here are a few quick rules and tips that you can follow to either improve or keep you in good financial health.
+When it comes to effective [[Personal Finance|personal finance]]—keeping your financial health in tip-top shape isn’t always easy. We get caught up with living life. However, here are a few quick rules and tips that you can follow to either improve or keep you in good financial health.
 
 -   Automate your bill pay and savings—that is, set up automatic transfers to a savings account and auto-pay all your bills.
 -   Always look for free checking and free accounts.
 -   Shop around for insurance, cable or and other recurring expenses. This includes if you already have these items.
--   Use a budgeting method, such as [50/30/20](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp), which says you should be spending 50% on needs, 30% on wants and saving 20% of your income. This 20% could include debt reduction if you have high-interest debts.
+-   Use a budgeting method, such as [50/30/20](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp), which says you should be spending 50% on needs, 30% on wants and saving 20% of your income. This 20% could include [[Debt|debt]] reduction if you have high-interest debts.
 -   Try to limit spending on housing (rent or mortgage) to not more than 40% of your income.
 -   Invest early and often. That is, try to put 10-15% of your income directly into a retirement account.
 

@@ -13,14 +13,14 @@ author: Jason Fernando
 
 ---
 
-How Distribution Channels Work
+[[How Distribution Channels Work]]
 ## What Is a Distribution Channel?
 
-A distribution channel is a chain of businesses or intermediaries through which a good or service passes until it reaches the final buyer or the end consumer. Distribution channels can include [[wholesalers]](https://www.investopedia.com/terms/w/wholesaling.asp), [[retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), distributors, and even the Internet.
+A distribution channel is a chain of businesses or intermediaries through which a good or service passes until it reaches the final buyer or the end consumer. Distribution channels can include [[wholesalers]](https://www.investopedia.com/terms/w/[[Wholesaling|wholesaling]].asp), [[retailers]](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), distributors, and even the Internet.
 
-Distribution channels are part of the downstream process, answering the question "How do we get our product to the consumer?" This is in contrast to the upstream process, also known as the supply chain, which answers the question "Who are our suppliers?"
+Distribution channels are part of the downstream process, answering the question "How do we get our product to the consumer?" This is in contrast to the [[Upstream|upstream]] process, also known as the [[Supply|supply]] chain, which answers the question "Who are our suppliers?"
 
-A distribution channel, also known as placement, is part of a company's marketing strategy, which also includes the product, promotion, and price.
+A distribution channel, also known as placement, is part of a company's [[Marketing Strategy|marketing strategy]], which also includes the product, promotion, and price.
 
 ## Understanding Distribution Channels
 
@@ -54,7 +54,7 @@ The third and final channel is a [[direct-to-consumer]](https://www.investopedia
 
 Not all [[distribution channels]](https://www.investopedia.com/ask/answers/052115/what-difference-between-direct-and-indirect-distribution-channel.asp) work for all products, so it's important for companies to choose the right one. The channel should align with the firm's overall mission and strategic vision including its sales goals.
 
-The method of distribution should add value to the consumer. Do consumers want to speak to a salesperson? Will they want to handle the product before they make a purchase? Or do they want to purchase it online with no hassles? Answering these questions can help companies determine which channel they choose.
+The method of distribution should add value to the consumer. Do consumers want to speak to a salesperson? [[Will]] they want to handle the product before they make a purchase? Or do they want to purchase it online with no hassles? Answering these questions can help companies determine which channel they choose.
 
 Secondly, the company should consider how quickly it wants its product(s) to reach the buyer. Certain products are best served by a direct distribution channel such as meat or produce, while others may benefit from an indirect channel.
 
@@ -68,8 +68,8 @@ The term “distribution channel” refers to the methods used by a company to d
 
 ### What is the difference between direct and indirect distribution channels?
 
-Direct distribution channels are those that allow the manufacturer or service provider to deal directly with its end customer. For example, a company that manufactures clothes and sells them directly to its customers using an e-commerce platform would be utilizing a direct distribution channel. By contrast, if that same company were to rely on a network of wholesalers and retailers to sell its products, then it would be using an indirect distribution channel.
+Direct distribution channels are those that allow the manufacturer or service provider to deal directly with its end customer. For example, a company that manufactures clothes and sells them directly to its customers using an e-[[Commerce|commerce]] platform would be utilizing a direct distribution channel. By contrast, if that same company were to rely on a network of wholesalers and retailers to sell its products, then it would be using an indirect distribution channel.
 
 ### What are the three types of distribution channels?
 
-The three types of distribution channels are wholesalers, retailers, and direct-to-consumer sales. Wholesalers are intermediary businesses that purchase bulk quantities of product from a manufacturer and then resell them to either retailers or—on some occasions—to the end consumers themselves. Retailers are generally the customers of the wholesalers and offer high-touch customer service to the end customers. Lastly, direct-to-consumer sales occur when the manufacturer sells directly to the end customer, such as when the sale is made directly through an e-commerce platform.
+The three types of distribution channels are wholesalers, retailers, and direct-to-consumer sales. Wholesalers are intermediary businesses that purchase bulk quantities of product from a manufacturer and then resell them to either retailers or—on some occasions—to the end consumers themselves. Retailers are generally the customers of the wholesalers and [[Offer|offer]] high-touch customer service to the end customers. Lastly, direct-to-consumer sales occur when the manufacturer sells directly to the end customer, such as when the sale is made directly through an e-[[Commerce|commerce]] platform.

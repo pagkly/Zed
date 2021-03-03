@@ -9,11 +9,11 @@ author: Adam Hayes
 # Distribution Management Definition
 
 > ## Excerpt
-> Distribution management oversees the supply chain and movement of goods from suppliers to end customer.
+> Distribution management oversees the [[Supply|supply]] chain and movement of goods from suppliers to end customer.
 
 ---
 
-How Distribution Management Works
+[[How Distribution Management Works]]
 ## What Is Distribution Management?
 
 Distribution management refers to the process of overseeing the movement of goods from supplier or manufacturer to point of sale. It is an overarching term that refers to numerous activities and processes such as packaging, inventory, [[warehousing]](https://www.investopedia.com/terms/w/warehousing.asp), [[supply chain]](https://www.investopedia.com/terms/s/supplychain.asp), and [[logistics]](https://www.investopedia.com/terms/l/logistics.asp).
@@ -22,13 +22,13 @@ Distribution management refers to the process of overseeing the movement of goo
 
 ### Key Takeaways
 
--   Distribution management manages the supply chain for a firm, from vendors and suppliers to manufacturer to point of sale, including packaging, inventory, warehousing, and logistics.
+-   Distribution management manages the [[Supply|supply]] chain for a firm, from vendors and suppliers to manufacturer to point of sale, including packaging, inventory, warehousing, and logistics.
 -   Adopting a distribution management strategy is important for a company's financial success and corporate longevity.
 -   Distribution management helps keep things organized and keeps customers satisfied.
 
 ## Understanding Distribution Management
 
-[Distribution management](https://www.investopedia.com/articles/investing/100714/using-normal-distribution-formula-optimize-your-portfolio.asp) is critical to a company's ability to successfully attract customers and operate profitably. Executing it successfully requires effective management of the entire distribution process. The larger a corporation, or the greater the number of supply points a company has, the more it will need to rely on automation to effectively manage the [[distribution process]](https://www.investopedia.com/terms/d/distribution-network.asp).
+[Distribution management](https://www.investopedia.com/articles/investing/100714/using-normal-distribution-formula-optimize-your-[[Portfolio|portfolio]].asp) is critical to a company's ability to successfully attract customers and operate profitably. Executing it successfully requires effective management of the entire distribution process. The larger a corporation, or the greater the number of [[Supply|supply]] points a company has, the more it [[Will|will]] need to rely on automation to effectively manage the [[distribution process]](https://www.investopedia.com/terms/d/distribution-network.asp).
 
 Modern distribution management encompasses more than just moving products from point A to point B. It also involves gathering and sharing relevant information that can be used to identify key opportunities for growth and competitiveness in the market. Most progressive companies now use their distribution forces to obtain market intelligence which is vital in assessing their competitive position.
 
@@ -38,7 +38,7 @@ The goal is to achieve ultimate efficiency in delivering raw materials and par
 
 ## Advantages of a Distribution Management Strategy
 
-Aside from keeping [[profits]](https://www.investopedia.com/articles/investing/062113/understanding-profit-metrics-gross-operating-and-net-profits.asp) up, there are many reasons a company may want to use a distribution management strategy. First, it keeps things organized. If there was no proper management system in place, retailers would be forced to hold stock in their own locations—a bad idea, especially if the seller lacks proper storage space.
+Aside from keeping [[profits]](https://www.investopedia.com/articles/investing/062113/understanding-profit-metrics-gross-operating-and-net-profits.asp) up, there are many reasons a company may want to use a distribution management strategy. First, it keeps things organized. If there was no proper management system in place, retailers would be forced to [[Hold|hold]] [[Stock|stock]] in their own locations—a bad idea, especially if the seller lacks proper storage space.
 
 A distribution management system also makes things easier for the consumer. It allows them to visit one location for a variety of different products. If the system didn't exist, consumers would have to visit multiple locations just to get what they need.
 
@@ -53,6 +53,6 @@ The fundamental idea of distribution management as a marketing function is that
 -   **Product**: Not always a tangible object, product can also refer to an idea, music, or information.
 -   **Price**: This refers to the value of a good or service for both the seller and the buyer, which can involve both tangible and intangible factors, such as list price, discounts, financing, and likely response of customers and competitors.
 -   **Promotion**: This is any communication used by a seller to inform, persuade, and/or remind buyers and potential buyers about the seller’s goods, services, image, ideas, and the impact it has on society.
--   **Placement**: This refers to the process that ensures the availability, accessibility, and visibility of products to ultimate consumers or business users in the target channels or customers where they prefer to buy.
+-   **Placement**: This refers to the process that ensures the availability, accessibility, and [[Visibility|visibility]] of products to ultimate consumers or business users in the target channels or customers where they prefer to buy.
 
-Effective distribution management involves selling your product while assuring sufficient stocks in channels while managing promotions in those channels and their varying requirements. It also involves making sure a [[supply chain]](https://www.investopedia.com/terms/s/scm.asp) is efficient enough that distribution costs are low enough to allow a product to be sold at the right price, thus supporting your marketing strategy and maximizing profit.
+Effective distribution management involves selling your product while assuring sufficient [[Stocks|stocks]] in channels while managing promotions in those channels and their varying requirements. It also involves making sure a [[supply chain]](https://www.investopedia.com/terms/s/scm.asp) is efficient enough that distribution costs are low enough to allow a product to be sold at the right price, thus supporting your [[Marketing Strategy|marketing strategy]] and maximizing profit.

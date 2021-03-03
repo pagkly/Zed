@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-How Diversified Companies Work
+[[How Diversified Companies Work]]
 ## What Is a Diversified Company?
 
 A diversified company is a type of company that has multiple unrelated businesses or products. Unrelated [[businesses]](https://www.investopedia.com/terms/b/business.asp) are those that:
@@ -24,7 +24,7 @@ A diversified company is a type of company that has multiple unrelated businesse
 
 One of the benefits of being a diversified company is that it buffers a business from dramatic fluctuations in any one industry sector. However, this model is also less likely to enable stockholders to realize significant gains or losses because it is not singularly focused on one business.
 
-The best management teams can balance the alluring desires of business diversification with the practical pitfalls of growth and the challenges it brings with it.
+The best management teams can balance the alluring desires of business [[Diversification|diversification]] with the practical pitfalls of growth and the challenges it brings with it.
 
 ## How a Diversified Company Works
 
@@ -49,6 +49,6 @@ Taking part in many different businesses help a conglomerate's parent company cu
 
 Some of the historically best-known diversified companies are General Electric, 3M, Sara Lee, and Motorola. European diversified companies include Siemens and Bayer, while diversified Asian companies include Hitachi, Toshiba, and Sanyo Electric.
 
-The general idea behind "diversifying" is the spread or smoothly of financial, operational, or geographic risk concentrations. Financial markets generally focus on two sources of risk: unique or firm-specific risk and the other, systemic or market risk. According to capital market theory, only market risk is rewarded, because a rational investor always has the opportunity to diversify, thus eliminating unique or [[idiosyncratic risk]](https://www.investopedia.com/terms/i/idiosyncraticrisk.asp).
+The general idea behind "diversifying" is the spread or smoothly of financial, operational, or geographic [[Risk|risk]] concentrations. Financial markets generally focus on two sources of risk: unique or firm-specific risk and the other, systemic or market risk. According to capital market theory, only market risk is rewarded, because a rational investor always has the opportunity to diversify, thus eliminating unique or [[idiosyncratic risk]](https://www.investopedia.com/terms/i/idiosyncraticrisk.asp).
 
-Knowing investors vary capital costs based on risk-return profiles, businesses often use a strategy to diversify themselves from within. Critics can point to entities growing for the sake of growth under the guise of diversification. Bigger businesses generally pay executives more, enjoy more press, and can fall prey to entrenchment and status quo. Whereas one observer might see diversification; another may see bloat.
+Knowing investors vary capital costs based on [[Risk|risk]]-[[Return|return]] profiles, businesses often use a strategy to diversify themselves from within. Critics can point to entities growing for the sake of growth under the guise of [[Diversification|diversification]]. Bigger businesses generally pay executives more, enjoy more press, and can fall prey to entrenchment and status quo. Whereas one observer might see diversification; another may see bloat.

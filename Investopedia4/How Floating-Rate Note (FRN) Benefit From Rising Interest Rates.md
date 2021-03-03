@@ -13,10 +13,10 @@ author: Chris B. Murphy
 
 ---
 
-How Floating-Rate Note (FRN) Benefit From Rising Interest Rates
+[[How Floating-Rate Note (FRN) Benefit From Rising Interest Rates]]
 ## What Is a Floating-Rate Note (FRN)?
 
-A floating-rate note (FRN) is a debt instrument with a variable interest rate. The interest rate for an FRN is tied to a benchmark rate. Benchmarks include the U.S. Treasury note rate, the Federal Reserve funds rate—known as the Fed funds rate—the London Interbank Offered Rate (LIBOR), or the [[prime rate]](https://www.investopedia.com/terms/p/primerate.asp).
+A floating-rate note (FRN) is a [[Debt Instrument|debt instrument]] with a variable interest rate. The interest rate for an FRN is tied to a benchmark rate. Benchmarks include the U.S. Treasury note rate, the Federal Reserve funds rate—known as the Fed funds rate—the London Interbank Offered Rate (LIBOR), or the [[prime rate]](https://www.investopedia.com/terms/p/primerate.asp).
 
 Floating rate notes or [[floaters]](https://www.investopedia.com/terms/f/floater.asp) can be issued by financial institutions, governments, and corporations in maturities of two-to-five years.
 
@@ -29,17 +29,17 @@ Floating rate notes or [[floaters]](https://www.investopedia.com/terms/f/floater
 
 ## Understanding Floating Rate Notes (FRNs)
 
-Floating-rate notes (FRNs) make up a significant component of the U.S. investment-grade [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp). Compared with fixed-rate debt instruments, floaters allow investors to benefit from a rise in interest rates since the rate on the floater adjusts periodically to current market rates. Floaters are usually benchmarked against short-term rates like the [[Fed funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp), which is the rate the Federal Reserve Bank sets for short-term borrowing between banks.
+Floating-rate notes (FRNs) make up a significant component of the U.S. investment-grade [[bond market]](https://www.investopedia.com/terms/b/bondmarket.asp). Compared with fixed-rate [[Debt|debt]] instruments, floaters allow investors to benefit from a rise in interest rates since the rate on the floater adjusts periodically to current market rates. Floaters are usually benchmarked against short-term rates like the [[Fed funds rate]](https://www.investopedia.com/terms/f/federalfundsrate.asp), which is the rate the Federal Reserve Bank sets for short-term borrowing between banks.
 
-Typically, the rate or yield paid to an investor on a bond or U.S. Treasury product rises with the length of time until maturity. The rising [[yield curve]](https://www.investopedia.com/terms/y/yieldcurve.asp) compensates investors for holding longer-term securities. In other words, the yield on a bond with a 10-year maturity should pay—under normal market conditions—a higher yield than a bond with a two-month maturity.
+Typically, the rate or [[Yield|yield]] paid to an investor on a bond or U.S. Treasury product rises with the length of time until maturity. The rising [[yield curve]](https://www.investopedia.com/terms/[[Y|y]]/yieldcurve.asp) compensates investors for holding longer-term securities. In other words, the yield on a bond with a 10-year maturity should pay—under normal market conditions—a higher yield than a bond with a two-month maturity.
 
-As a result, floating-rate notes usually pay a lower yield to investors than their fixed-rate counterparts because floaters are benchmarked to short-term rates. The investor gives up a portion of the yield for the security of having an investment that rises as its benchmark rate rises. However, if the rate of the short-term benchmark falls, so too does the rate on the FRN.
+As a result, floating-rate notes usually pay a lower [[Yield|yield]] to investors than their fixed-rate counterparts because floaters are benchmarked to short-term rates. The investor gives up a portion of the yield for the [[Security|security]] of having an investment that rises as its benchmark rate rises. However, if the rate of the short-term benchmark falls, so too does the rate on the FRN.
 
-There's no guarantee that the FRN's rate will rise as fast as interest rates in a rising-rate environment. It all depends on the performance of the benchmark rate. As a result, an FRN bondholder can still have [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp) meaning the bond's rate underperforms the overall market.
+There's no guarantee that the FRN's rate [[Will|will]] rise as fast as interest rates in a rising-rate environment. It all depends on the performance of the benchmark rate. As a result, an FRN bondholder can still have [[interest rate risk]](https://www.investopedia.com/terms/i/interestraterisk.asp) meaning the bond's rate underperforms the overall market.
 
-Since the bond's rate can adjust to market conditions, an FRN's price tends to have less volatility or price fluctuations. Traditional fixed-rate bonds typically slide when rates rise because existing bondholders are losing out by holding a product returning a lower-rate.
+Since the bond's rate can adjust to market conditions, an FRN's price tends to have less [[Volatility|volatility]] or price fluctuations. Traditional fixed-rate bonds typically slide when rates rise because existing bondholders are losing out by holding a product returning a lower-rate.
 
-FRNs avoid some of the market price volatility since there's less opportunity cost for the bondholders in a rising rate market. As with any bond, FRNs are susceptible to default risk, which occurs when the company or government can't pay back the principal or original amount that was paid by the investor.
+FRNs avoid some of the market price [[Volatility|volatility]] since there's less opportunity cost for the bondholders in a rising rate market. As with any bond, FRNs are susceptible to [[Default Risk|default risk]], which occurs when the company or government can't pay back the [[Principal|principal]] or original amount that was paid by the investor.
 
 Since floaters have variable rates, they tend to have unpredictable coupon payments. A [[coupon payment]](https://www.investopedia.com/terms/c/coupon.asp) is the interest payment for a bond. Sometimes a floater may have a cap and a floor, which allows an investor to know the maximum and minimum interest rates paid by the note.
 
@@ -47,22 +47,22 @@ An FRN's interest rate can change as often or as frequently as the issuer choose
 
 ## Callable Floating Rate Note vs. Non-Callable Floating Rate Note
 
-FRNs may be issued with or without a [[callable option]](https://www.investopedia.com/terms/c/callablebond.asp), which means the issuer has the right to return the investor's principal amount and stop making interest payments. The callable feature is known upfront and allows the issuer to pay off the bond before maturity.
+FRNs may be issued with or without a [[callable option]](https://www.investopedia.com/terms/c/callablebond.asp), which means the issuer has the right to [[Return|return]] the investor's [[Principal|principal]] amount and stop making interest payments. The callable feature is known upfront and allows the issuer to pay off the bond before maturity.
 
 Pros
 
 -   Floating rate notes allow investors to benefit from rising rates as the FRN's rate adjusts to the market
     
--   FRNs are impacted less by price volatility
+-   FRNs are impacted less by price [[Volatility|volatility]]
     
 -   FRNs are available in U.S. Treasuries and corporate bonds
     
 
 Cons
 
--   FRNs may still have interest rate risk if market rates rise to a greater extent than the rate resets
+-   FRNs may still have interest rate [[Risk|risk]] if market rates rise to a greater extent than the rate resets
     
--   FRNs can have default risk if the issuing company or corporation can't pay back the principal
+-   FRNs can have [[Default Risk|default risk]] if the issuing company or corporation can't pay back the [[Principal|principal]]
     
 -   If market interest rates fall, the FRN rates may fall as well
     

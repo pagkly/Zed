@@ -9,16 +9,16 @@ author: James Chen
 # Capital Improvement Definition
 
 > ## Excerpt
-> Capital improvements are permanent structural changes or restorations to a property that enhance its property value, increases its useful life, or allows for a new use.
+> Capital improvements are permanent structural changes or restorations to a property that enhance its property value, increases its [[Useful Life|useful life]], or allows for a new use.
 
 ---
 
-How Capital Improvements Can Soften a Tax Bite
+[[How Capital Improvements Can Soften a Tax Bite]]
 ## What Is a Capital Improvement?
 
-A capital improvement is the addition of a permanent structural change or the restoration of some aspect of a property that will either enhance the property's overall value, prolongs its [[useful life,]](https://www.investopedia.com/terms/u/usefullife.asp) or adapt it to new uses. Individuals, businesses, and cities can make capital improvements to the property they own. Often capital improvements are given favorable tax treatment and may be exempted from sales tax in certain jurisdictions.
+A capital improvement is the addition of a permanent structural change or the restoration of some aspect of a property that [[Will|will]] either enhance the property's overall value, prolongs its [[useful life,]](https://www.investopedia.com/terms/u/usefullife.asp) or adapt it to new uses. Individuals, businesses, and cities can make capital improvements to the property they own. Often capital improvements are given favorable tax treatment and may be exempted from sales tax in certain jurisdictions.
 
-In a business or corporate finance, this process is similar to investments in [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX).
+In a business or corporate [[Finance|finance]], this process is similar to investments in [[capital expenditures]](https://www.investopedia.com/terms/c/capitalexpenditure.asp) (CAPEX).
 
 ### Key Takeaways
 
@@ -40,7 +40,7 @@ Similarly, the creation of a new public park in a downtown area would also be co
 
 ### Cost Basis
 
-The [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) is the original cost of an asset. The IRS sets specific standards for an improvement to qualify as a cost-basis increase. A primary concern is it must be in place at the time a property is sold. A capital improvement must also become part of the property—or be affixed so permanently to the property—that the removal of it would cause significant damage or decrease in the value of the property itself.
+The [[cost basis]](https://www.investopedia.com/terms/c/costbasis.asp) is the [[Original Cost|original cost]] of an asset. The IRS sets specific standards for an improvement to qualify as a cost-basis increase. A primary concern is it must be in place at the time a property is sold. A capital improvement must also become part of the property—or be affixed so permanently to the property—that the removal of it would cause significant damage or decrease in the value of the property itself.
 
 Repairs or maintenance cannot be included in a property's cost basis. However, repairs that are part of a larger project, such as replacing all of a home's windows, do qualify as capital improvements. Renovations that are necessary to keep a home in good condition are not included if they do not add value to the asset. Examples of such non-qualifying repairs, according to the IRS, include painting walls, fixing leaks, or replacing broken hardware.
 
@@ -48,9 +48,9 @@ Repairs or maintenance cannot be included in a property's cost basis. However, 
 
 In addition to improving the home, a capital improvement—per the IRS—increases the cost basis of a structure. That is, expenses incurred upon making the improvements are added to the amount the owner paid to buy or build the property. Augmenting the cost basis, in turn, reduces the size of the taxable [[capital gain]](https://www.investopedia.com/terms/c/capitalgain.asp) when selling the property.
 
-Capital gains from real estate behave differently than do other types of capital gains. As of 2019, homeowners are entitled to a [capital gains exemption](https://www.irs.gov/taxtopics/tc701) on any profit from the sale of a primary residence up to $250,000 if single and $500,000 if married and filing jointly. This exemption has one important caveat. The homeowner must have had a residency at the property for at least two of the last five years before the sale.
+Capital gains from real [[Estate|estate]] behave differently than do other types of capital gains. As of 2019, homeowners are entitled to a [capital gains exemption](https://www.irs.gov/taxtopics/tc701) on any profit from the sale of a primary residence up to $250,000 if single and $500,000 if married and filing jointly. This exemption has one important caveat. The homeowner must have had a residency at the property for at least two of the last five years before the sale.
 
-Also, if the gain is significantly more than those sums listed above capital improvements' effect on the cost basis can be significant. Many factors may make a taxpayer breach the $250/500 capital gains levels. These include if the owners acquired the property many decades ago and if local real estate values had dramatically increased since the purchase.
+Also, if the [[Gain|gain]] is significantly more than those sums [[Listed|listed]] above capital improvements' effect on the cost basis can be significant. Many factors may make a [[Taxpayer|taxpayer]] breach the $250/500 capital gains levels. These include if the owners acquired the property many decades ago and if local real [[Estate|estate]] values had dramatically increased since the purchase.
 
 ### Local Exemptions
 
@@ -60,6 +60,6 @@ In February 2019, two State Legislature members [[introduced a bill to eliminate
 
 ## Examples of Capital Improvements
 
-Assume, for example, a person purchases a home for $650,000 and spends $50,000 to renovate the kitchen and add a bathroom. In many cases, sales tax will not have to be paid to the contractors for this job as it is a qualified capital improvement.
+Assume, for example, a person purchases a home for $650,000 and spends $50,000 to renovate the kitchen and add a bathroom. In many cases, sales tax [[Will|will]] not have to be paid to the contractors for this job as it is a qualified capital improvement.
 
-The cost basis of the home also increases from $650,000 to $700,000. After 10 years of owning and living in the home, the homeowner, who is single and files taxes as such, ends up selling the property for a price of $975,000. If no capital improvements had been made, the taxable amount for the capital gain would normally be $75,000 ($975,000 sale price - $650,000 purchase price - $250,000 capital gains exclusion). Because the capital improvement increased the cost basis by $50,000, the taxable amount for the capital gain would be just $25,000 ($975,000 - ($650,000 + $50,000) - $250,000 = $25,000).
+The cost basis of the home also increases from $650,000 to $700,000. After 10 years of owning and living in the home, the homeowner, who is single and files taxes as such, ends up selling the property for a price of $975,000. If no capital improvements had been made, the taxable amount for the capital [[Gain|gain]] would normally be $75,000 ($975,000 sale price - $650,000 [[Purchase Price|purchase price]] - $250,000 capital gains exclusion). Because the capital improvement increased the cost basis by $50,000, the taxable amount for the capital gain would be just $25,000 ($975,000 - ($650,000 + $50,000) - $250,000 = $25,000).

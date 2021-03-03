@@ -9,14 +9,14 @@ author: James Chen
 # Fund Manager Definition
 
 > ## Excerpt
-> Learn more about fund managers, who oversee a portfolio of mutual or hedge funds and make final decisions about how they are invested.
+> Learn more about fund managers, who oversee a [[Portfolio|portfolio]] of mutual or [[Hedge|hedge]] funds and make final decisions about how they are invested.
 
 ---
 
-How Fund Managers Work
+[[How Fund Managers Work]]
 ## What Is a Fund Manager?
 
-A fund manager is responsible for implementing a fund's [[investing strategy]](https://www.investopedia.com/terms/i/investmentstrategy.asp) and managing its [[portfolio]](https://www.investopedia.com/terms/p/portfolio.asp) trading activities. The fund can be managed by one person, by two people as co-managers, or by a team of three or more people.
+A fund manager is responsible for implementing a fund's [[investing strategy]](https://www.investopedia.com/terms/i/investmentstrategy.asp) and managing its [[portfolio]](https://www.investopedia.com/terms/p/[[Portfolio|portfolio]].asp) trading activities. The fund can be managed by one person, by two people as co-managers, or by a team of three or more people.
 
 Fund managers are paid a fee for their work, which is a percentage of the fund's average [[assets under management]](https://www.investopedia.com/terms/a/aum.asp) (AUM). They can be found working in fund management with mutual funds, pension funds, trust funds, and [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp).
 
@@ -38,13 +38,13 @@ Before investing in a fund, investors should review a fund manager's investment 
 
 To qualify for a position in fund management—mutual funds, pension funds, [[trust funds]](https://www.investopedia.com/terms/t/trust-fund.asp), or [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp)—individuals must have a high level of educational and professional credentials and appropriate investment managerial experience. Investors should look for long-term, consistent fund performance with a fund manager whose tenure with the fund matches its performance time period.
 
-Most fund managers often pursue a [[chartered financial analysts]](https://www.investopedia.com/terms/c/cfa.asp) (CFA) designation as a first step in becoming the head stock-picker for a portfolio. CFA candidates undergo rigorous coursework pertaining to investment analysis and portfolio management.
+Most fund managers often pursue a [[chartered financial analysts]](https://www.investopedia.com/terms/c/cfa.asp) (CFA) designation as a first step in becoming the head [[Stock|stock]]-picker for a [[Portfolio|portfolio]]. CFA candidates undergo rigorous coursework pertaining to investment analysis and portfolio management.
 
-Typically, these analysts assist [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) with individual research on investment ideas and subsequent buy, sell, or hold recommendations. After a number of years working for the fund, familiarity with fund operations and management style aid in the analyst in a career path. Successful CFAs build a quality case for an internal promotion to manager if the opportunity arises.
+Typically, these analysts assist [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp) with individual research on investment ideas and subsequent buy, sell, or [[Hold|hold]] recommendations. After a number of years working for the fund, familiarity with fund operations and management style aid in the analyst in a career path. Successful CFAs build a quality case for an internal promotion to manager if the opportunity arises.
 
 ## Responsibilities of Fund Managers
 
-Fund managers primarily research and determine the best [[stocks]](https://www.investopedia.com/terms/s/stock.asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), or other securities to fit the strategy of the fund as outlined in the prospectus, then buy and sell them.
+Fund managers primarily research and determine the best [[stocks]](https://www.investopedia.com/terms/s/[[Stock|stock]].asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), or other securities to fit the strategy of the fund as outlined in the prospectus, then buy and sell them.
 
 At larger funds, the fund manager typically has a support staff of [[analysts]](https://www.investopedia.com/terms/a/analyst.asp) and [[traders]](https://www.investopedia.com/terms/t/trader.asp) who perform some of these activities. Multiple managers at some investment companies oversee client money, and each may be responsible for a portion or make decisions via committee.
 
@@ -59,20 +59,20 @@ Some other responsibilities of the fund manager include preparing reports on how
 
 ## Active vs. Passive Managers
 
-[Active fund managers](https://www.investopedia.com/terms/a/activemanagement.asp) try to outperform their peers and the benchmark indexes. Managers who engage in active fund management study trends in the market, analyze economic data, and stay current on company news.
+[Active fund managers](https://www.investopedia.com/terms/a/activemanagement.asp) try to [[Outperform|outperform]] their peers and the benchmark indexes. Managers who engage in active fund management study trends in the market, analyze economic data, and stay current on company news.
 
-Based on this research, they buy and sell securities—stocks, bonds, and other assets—to rake in greater returns. These fund managers generally charge higher fees because they take on a more proactive role in their funds by constantly changing their holdings. Many mutual funds are actively managed, which explains why their fees are generally high.
+Based on this research, they buy and sell securities—[[Stocks|stocks]], bonds, and other assets—to rake in greater returns. These fund managers generally charge higher fees because they take on a more proactive role in their funds by constantly changing their [[Holdings|holdings]]. Many mutual funds are actively managed, which explains why their fees are generally high.
 
-[Passive fund managers](https://www.investopedia.com/terms/p/passivemanagement.asp), on the other hand, trade securities that are held in a benchmark index. This kind of fund manager applies the same weighting in their portfolio as the underlying index. Rather than trying to outperform the index, passive fund managers normally try to mirror its returns. Many [[exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs) and index mutual funds are considered passively managed. Fees for these investments are generally much lower because there isn't a lot of expertise involved on the part of the fund manager.
+[Passive fund managers](https://www.investopedia.com/terms/p/passivemanagement.asp), on the other hand, trade securities that are held in a benchmark index. This kind of fund manager applies the same weighting in their [[Portfolio|portfolio]] as the [[Underlying|underlying]] index. Rather than trying to [[Outperform|outperform]] the index, passive fund managers normally try to mirror its returns. Many [[exchange-traded funds]](https://www.investopedia.com/terms/e/etf.asp) (ETFs) and index mutual funds are considered passively managed. Fees for these investments are generally much lower because there isn't a lot of expertise involved on the part of the fund manager.
 
 ## Notable Mutual Fund Managers
 
-One of the most iconic fund managers in history piloted Fidelity Investments' Magellan Fund. [[Peter Lynch]](https://www.investopedia.com/terms/p/peterlynch.asp) managed the company's notable equity portfolio from 1977 to 1990. Lynch was a proponent of selecting stocks in industries with which he was most comfortable. Magellan's chief amassed remarkable average returns of 29% per year throughout his tenure, growing AUM from $20 million to $14 billion.
+One of the most iconic fund managers in history piloted Fidelity Investments' Magellan Fund. [[Peter Lynch]](https://www.investopedia.com/terms/p/peterlynch.asp) managed the company's notable [[Equity|equity]] [[Portfolio|portfolio]] from 1977 to 1990. Lynch was a proponent of selecting [[Stocks|stocks]] in industries with which he was most comfortable. Magellan's chief amassed remarkable average returns of 29% per year throughout his tenure, growing AUM from $20 million to $14 billion.
 
-One of the longest-tenured fund managers is 85-year old Albert "Ab" Nicholas. Founder of the Nicholas Company, the seasoned portfolio manager has run the five-star Morningstar Nicholas Fund since July 14, 1969, besting the S&P 500 Index each year from 2008 through 2014.
+One of the longest-tenured fund managers is 85-year old Albert "Ab" Nicholas. Founder of the Nicholas Company, the seasoned [[Portfolio Manager|portfolio manager]] has run the five-star Morningstar Nicholas Fund since July 14, 1969, besting the [[S&P 500 Index]] each year from 2008 through 2014.
 
-## A Hedge Fund Icon
+## A [[Hedge Fund]] Icon
 
-Hedge funds differ from mutual funds in that hedge fund portfolios require large investment minimums only from [[accredited investors]](https://www.investopedia.com/terms/a/accreditedinvestor.asp). Ken Griffin's Citadel Global Equities hedge fund returned almost 6% after fees in 2018.
+[[Hedge]] funds differ from mutual funds in that [[Hedge Fund|hedge fund]] portfolios require large investment minimums only from [[accredited investors]](https://www.investopedia.com/terms/a/accreditedinvestor.asp). Ken Griffin's Citadel Global Equities hedge fund returned almost 6% after fees in 2018.
 
-Griffin had a net worth of $9.1 billion as of 2018. Buying and selling stocks from his Harvard dormitory in the 1980s, Griffin leaped right into the world of private [[equity]](https://www.investopedia.com/terms/e/equity.asp) management, launching Citadel with $4 million in 1990.
+Griffin had a [[Net Worth|net worth]] of $9.1 billion as of 2018. Buying and selling [[Stocks|stocks]] from his Harvard dormitory in the 1980s, Griffin leaped right into the world of private [[equity]](https://www.investopedia.com/terms/e/[[Equity|equity]].asp) management, launching Citadel with $4 million in 1990.
