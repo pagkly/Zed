@@ -9,18 +9,18 @@ author: Julia Kagan
 # Video Conferencing Definition
 
 > ## Excerpt
-> Video conferencing technology lets people in remote places hold face-to-face meetings, instead of meeting in person.
+> Video conferencing technology lets people in remote places [[Hold|hold]] face-to-face meetings, instead of meeting in person.
 
 ---
 
-The Ins and Outs of Video Conferencing
+[[The Ins and Outs of Video Conferencing]]
 ## What Is Video Conferencing?
 
-Video conferencing is a technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. This technology is particularly convenient for business users in different cities or even different countries because it saves time, expenses, and hassles associated with business travel. Uses for video conferencing include holding routine meetings, [[negotiating]](https://www.investopedia.com/terms/n/negotiation.asp) business deals, and interviewing job candidates.
+Video conferencing is a technology that allows users in different locations to [[Hold|hold]] face-to-face meetings without having to move to a single location together. This technology is particularly convenient for business users in different cities or even different countries because it saves time, expenses, and hassles associated with business travel. Uses for video conferencing include holding routine meetings, [[negotiating]](https://www.investopedia.com/terms/n/negotiation.asp) business deals, and interviewing job candidates.
 
 ### Key Takeaways
 
--   Video conferencing is a highly convenient use of technology that allows users in different locations to hold face-to-face meetings.
+-   Video conferencing is a highly convenient use of technology that allows users in different locations to [[Hold|hold]] face-to-face meetings.
 -   There are many ways to utilize video conferencing technology, such as company meetings, job training sessions, or addressing board members.
 -   Video conferencing can be used to connect a traditional classroom with students who are taking the class remotely.
 -   The stability and quality of the video conference may fluctuate with the speed and reliability of the data connection.

@@ -13,7 +13,7 @@ author: Caroline Banton
 
 ---
 
-The Definition of Efficiency
+[[The Definition of Efficiency]]
 ## What Is Efficiency?
 
 Efficiency signifies a peak level of performance that uses the least amount of inputs to achieve the highest amount of output. Efficiency requires reducing the number of unnecessary resources used to produce a given output including personal time and energy. It is a measurable concept that can be determined using the ratio of useful output to total input. It minimizes the waste of resources such as physical materials, energy, and time while accomplishing the desired output.
@@ -27,13 +27,13 @@ Efficiency signifies a peak level of performance that uses the least amount of i
 
 ## Understanding Efficiency
 
-In general something is efficient if nothing is wasted and all processes are optimized. In finance and economics, efficiency can be used in a variety of ways to describe various optimization processes.
+In general something is efficient if nothing is wasted and all processes are optimized. In [[Finance|finance]] and [[Economics|economics]], efficiency can be used in a variety of ways to describe various optimization processes.
 
 [Economic efficiency](https://www.investopedia.com/terms/e/economic_efficiency.asp) refers to the optimization of resources to best serve each person in that economic state. No set threshold determines the effectiveness of an economy, but indicators of economic efficiency include goods brought to market at the lowest possible cost and labor that provides the greatest possible output.
 
-[Market efficiency](https://www.investopedia.com/terms/m/marketefficiency.asp) describes how well prices integrate available information. Markets are thus said to be efficient when all information is already incorporated into prices, and so there is no way to "beat" the market since there are no undervalued or overvalued securities available. Market efficiency was described in 1970 by economist Eugene Fama, whose [[efficient market hypothesis (EMH)]](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) states that an investor can't outperform the market, and that market anomalies should not exist because they will immediately be [arbitraged](https://www.investopedia.com/terms/a/arbitrage.asp) away.
+[Market efficiency](https://www.investopedia.com/terms/m/marketefficiency.asp) describes how well prices integrate available information. Markets are thus said to be efficient when all information is already incorporated into prices, and so there is no way to "beat" the market since there are no undervalued or overvalued securities available. Market efficiency was described in 1970 by economist Eugene Fama, whose [[efficient market hypothesis (EMH)]](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) states that an investor can't [[Outperform|outperform]] the market, and that market anomalies should not exist because they [[Will|will]] immediately be [arbitraged](https://www.investopedia.com/terms/a/arbitrage.asp) away.
 
-[Operational efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp) measures how well profits are earned as a function of [operating costs](https://www.investopedia.com/terms/o/operating-cost.asp). The greater the operational efficiency, the more profitable a firm or investment is. This is because the entity is able to generate greater income or returns for the same or lower cost than an alternative. In financial markets, operational efficiency occurs when transaction costs and fees are reduced.
+[Operational efficiency](https://www.investopedia.com/terms/o/operationalefficiency.asp) measures how well profits are earned as a function of [operating costs](https://www.investopedia.com/terms/o/operating-cost.asp). The greater the operational efficiency, the more profitable a firm or investment is. This is because the entity is able to generate greater income or returns for the same or lower cost than an alternative. In financial markets, operational efficiency occurs when [[Transaction Costs|transaction costs]] and fees are reduced.
 
 ## A Historical Look
 
@@ -43,12 +43,12 @@ Movements such as the Industrial Revolution also brought efficiencies in time. F
 
 ## The Impacts of Efficiency
 
-An efficient society is better able to serve its citizens and function competitively. Goods produced efficiently are sold at a lower price. Advances as a result of efficiency have facilitated higher [[standards of living]](https://www.investopedia.com/terms/s/standard-of-living.asp) such as supplying homes with electricity, running water, and giving people the ability to travel. Efficiency reduces hunger and malnutrition because goods are transported farther and quicker. Also, advances in efficiency allow greater productivity in a shorter amount of time. 
+An efficient society is better able to serve its citizens and function competitively. Goods produced efficiently are sold at a lower price. Advances as a result of efficiency have facilitated higher [[standards of living]](https://www.investopedia.com/terms/s/standard-of-living.asp) such as supplying homes with electricity, running water, and giving people the ability to travel. Efficiency reduces hunger and malnutrition because goods are transported farther and quicker. Also, advances in efficiency allow greater [[Productivity|productivity]] in a shorter amount of time. 
 
 Efficiency is an important attribute because all inputs are scarce. Time, money and [[raw materials]](https://www.investopedia.com/terms/r/rawmaterials.asp) are limited, and it is important to conserve them while maintaining an acceptable level of output.
 
 ## Real World Example
 
-Industry 4.0 is the Fourth Industrial Revolution characterized by digitalization. Factory processes, manufacturing, and service industries have all become more efficient with the advent of powerful computers, cloud computing, the Industrial Internet of Things (IIoT), data analytics, robotics, artificial intelligence, and machine learning.
+Industry 4.0 is the Fourth Industrial Revolution characterized by digitalization. Factory processes, [[Manufacturing|manufacturing]], and service industries have all become more efficient with the advent of powerful computers, cloud computing, the Industrial Internet of Things (IIoT), data analytics, robotics, artificial intelligence, and machine learning.
 
-For example, data analytics can be applied in an industrial setting to inform factory or plant managers when machinery will need maintenance or replacement. This type of predictive maintenance can substantially reduce operational costs. Research from Accenture cited by Jay Lee, Chao Jin, Zongchang Liu and Hossein Davari Ardakani in their paper "Introduction to Data-Driven Methodologies for Prognostics and Health Management," shows that using data analytics for predicted maintenance [leads to a 30% drop in costs](http://www.computerweekly.com/opinion/Big-data-to-unlock-value-from-the-Industrial-Internet-of-Things) and 70% less equipment downtime. Data logging shows system usage in real time and, using the historical data built up over time managers can identify and fix inefficient systems.
+For example, data analytics can be applied in an industrial setting to inform factory or plant managers when machinery [[Will|will]] need maintenance or replacement. This type of predictive maintenance can substantially reduce operational costs. Research from Accenture cited by Jay Lee, Chao Jin, Zongchang Liu and Hossein Davari Ardakani in their paper "Introduction to Data-Driven Methodologies for Prognostics and Health Management," shows that using data analytics for predicted maintenance [leads to a 30% drop in costs](http://www.computerweekly.com/opinion/Big-data-to-unlock-value-from-the-Industrial-Internet-of-Things) and 70% less equipment downtime. Data logging shows system usage in real time and, using the historical data built up over time managers can identify and fix inefficient systems.

@@ -1,7 +1,7 @@
 ---
 alias: [Heckscher-Ohlin Model]
 created: 2021-03-02T20:39:12 (UTC +11:00)
-tags: [Heckscher-Ohlin Model Definition, The Heckscher-Ohlin Model in Economics: Definition and Example]
+tags: [Heckscher-Ohlin Model Definition, The Heckscher-Ohlin Model in [[Economics]]: Definition and Example]
 source: https://www.investopedia.com/terms/h/heckscherohlin-model.asp
 author: Carol M. Kopp
 ---
@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-The Heckscher-Ohlin Model in Economics: Definition and Example
+The Heckscher-Ohlin Model in [[Economics]]: Definition and Example
 ## What Is the Heckscher-Ohlin Model?
 
 The Heckscher-Ohlin model is an economic theory that proposes that countries [[export]](https://www.investopedia.com/terms/e/export.asp) what they can most efficiently and plentifully produce. Also referred to as the H-O model or 2x2x2 model, it's used to evaluate trade and, more specifically, the equilibrium of trade between two countries that have varying specialties and natural resources.
@@ -30,7 +30,7 @@ Here is some important information regarding the Heckscher-Ohlin model.
 
 ## The Basics of the Heckscher-Ohlin Model
 
-The primary work behind the Heckscher-Ohlin model was a 1919 Swedish paper written by Eli Heckscher at the Stockholm School of Economics. His student, Bertil Ohlin, added to it in 1933. Economist [[Paul Samuelson]](https://www.investopedia.com/terms/p/paul-samuelson.asp) expanded the original model through articles written in 1949 and 1953. Some refer to it as the Heckscher-Ohlin-Samuelson model for this reason.
+The primary work behind the Heckscher-Ohlin model was a 1919 Swedish paper written by Eli Heckscher at the Stockholm School of [[Economics]]. His student, Bertil Ohlin, added to it in 1933. Economist [[Paul Samuelson]](https://www.investopedia.com/terms/p/paul-samuelson.asp) expanded the original model through articles written in 1949 and 1953. Some refer to it as the Heckscher-Ohlin-Samuelson model for this reason.
 
 The Heckscher-Ohlin model explains mathematically how a country should operate and [[trade]](https://www.investopedia.com/terms/t/trade.asp) when resources are imbalanced throughout the world. It pinpoints a preferred balance between two countries, each with its resources.
 
@@ -48,4 +48,4 @@ Certain countries have extensive [[oil reserves]](https://www.investopedia.com/t
 
 For example, the Netherlands exported almost [$506 million in U.S. dollars in 2017](https://wits.worldbank.org/countrysnapshot/en/NLD), compared to imports that year of approximately $450 million. Its top import-export partner was Germany. Importing on a close to equal basis allowed it to more efficiently and economically manufacture and provide its exports.
 
-The model emphasizes the benefits of international trade and the global benefits to everyone when each country puts the most effort into exporting resources that are domestically naturally abundant. All countries benefit when they import the resources they naturally lack. Because a nation does not have to rely solely on internal markets, it can take advantage of [[elastic]](https://www.investopedia.com/terms/e/elastic.asp) demand. The [[cost of labor]](https://www.investopedia.com/terms/c/cost-of-labor.asp) increases and marginal productivity declines as more countries and emerging markets develop. Trading internationally allows countries to adjust to capital-intensive goods production, which would not be possible if each country only sold goods internally.
+The model emphasizes the benefits of international trade and the global benefits to everyone when each country puts the most effort into exporting resources that are domestically naturally abundant. All countries benefit when they import the resources they naturally lack. Because a nation does not have to rely solely on internal markets, it can take advantage of [[elastic]](https://www.investopedia.com/terms/e/elastic.asp) demand. The [[cost of labor]](https://www.investopedia.com/terms/c/cost-of-labor.asp) increases and marginal [[Productivity|productivity]] declines as more countries and emerging markets develop. Trading internationally allows countries to adjust to capital-intensive goods production, which would not be possible if each country only sold goods internally.

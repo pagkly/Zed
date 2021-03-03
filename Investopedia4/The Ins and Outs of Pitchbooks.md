@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-The Ins and Outs of Pitchbooks
+[[The Ins and Outs of Pitchbooks]]
 ## What Is a Pitchbook?
 
 A pitchbook is a sales document created by an [[investment bank]](https://www.investopedia.com/terms/i/investmentbank.asp) or firm that details the main attributes of the firm, which is then used by the firm's sales force to help sell products and services and generate new clients. Pitchbooks are helpful guides for the sales force to remember important benefits and to provide visual aids when presenting to clients.
@@ -39,7 +39,7 @@ For start-up companies, a pitchbook is more commonly known as a pitch deck.
 
 For an investment bank, a pitchbook focuses on all the benefits of the issue, helping [[brokers]](https://www.investopedia.com/broker-awards-4587871) and investment bankers demonstrate how the firm can serve the specific needs of their potential clients. It would have more detailed information about how the potential IPO process could playout for the potential client. It would also show comparable IPOs within the same industry that the investment bank has had success with in the past.
 
-For an investment firm, the pitchbook would be more product-oriented. It could show the track record of an [[investment portfolio]](https://www.investopedia.com/terms/p/portfolio-investment.asp), using charts and comparisons to an appropriate benchmark. If the investment strategy is more advanced, it would display the method of selecting stocks and other informational data that would help the potential client understand the strategy.
+For an investment firm, the pitchbook would be more product-oriented. It could show the track record of an [[investment portfolio]](https://www.investopedia.com/terms/p/[[Portfolio|portfolio]]-investment.asp), using charts and comparisons to an appropriate benchmark. If the investment strategy is more advanced, it would display the method of selecting [[Stocks|stocks]] and other informational data that would help the potential client understand the strategy.
 
 ## Example of a Pitchbook
 

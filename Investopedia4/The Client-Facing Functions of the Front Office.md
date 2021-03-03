@@ -13,7 +13,7 @@ author: Maya E. Dollarhide
 
 ---
 
-The Client-Facing Functions of the Front Office
+[[The Client-Facing Functions of the Front Office]]
 ## What Is the Front Office?
 
 The front office represents the customer-facing division of a firm. For example, customer service, sales, and industry experts who provide [[advisory services]](https://www.investopedia.com/terms/a/advisory-management.asp) are considered part of a firm's front office operations.
@@ -35,7 +35,7 @@ Front office staffers typically have the most direct contact with clients. For m
 
 ## Front Office vs. Middle Office vs. Back Office
 
-On a conceptual level, many firms are divided into three parts: the front office, the middle office, and the back office. While the front office is responsible for performing sales and client service functions, the middle office is responsible for managing risk and corporate strategy, and the back office provides analysis, technical, and administrative support services.
+On a conceptual level, many firms are divided into three parts: the front office, the middle office, and the back office. While the front office is responsible for performing sales and client service functions, the middle office is responsible for managing [[Risk|risk]] and corporate strategy, and the back office provides analysis, technical, and administrative support services.
 
 Using this conceptual model, the middle office and back office employees support the activities of the front office. The middle office personnel are tasked with ensuring that a company remains solvent and complies with regulations and ethical business practices. For a financial services firm, these departments might include corporate strategy, compliance, and financial control.
 

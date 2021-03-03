@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/t/tertiaryindustry.asp
 author: Adam Hayes
 ---
 
-# Tertiary Industry Definition
+# [[Tertiary Industry Definition]]
 
 > ## Excerpt
 > The tertiary industry is the segment of the economy that provides services to its consumers.
 
 ---
 
-Tertiary Industry Definition
+[[Tertiary Industry Definition]]
 ## What Is the Tertiary Industry?
 
 The tertiary industry is a technical name for the [[service sector]](https://www.investopedia.com/terms/s/service-sector.asp) of the economy, which encompasses a wide range of businesses, including [[financial institutions]](https://www.investopedia.com/terms/f/financialinstitution.asp), schools, hotels, and restaurants.

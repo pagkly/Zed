@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/t/tenkansen.asp
 author: Cory Mitchell
 ---
 
-# Tenkan-Sen (Conversion Line) Definition and Uses
+# [[Tenkan-Sen (Conversion Line) Definition and Uses]]
 
 > ## Excerpt
 > The Tenkan-Sen, or Conversion Line, measures short-term price movements by looking at the price mid-point over nine periods. It is used in the calculation of other Ichimoku Cloud indicator lines.
 
 ---
 
-Tenkan-Sen (Conversion Line) Definition and Uses
+[[Tenkan-Sen (Conversion Line) Definition and Uses]]
 ## What is a Tenkan-Sen (Conversion Line)?
 
 Tenkan-Sen, or Conversion Line, is the mid-point of the highest and lowest prices of an asset over the last nine periods. The Tenkan-Sen is part of a larger indicator, called the [[Ichimoku Kinko Hyo]](https://www.investopedia.com/terms/i/ichimoku-cloud.asp), which shows potential [[support and resistance]](https://www.investopedia.com/trading/support-and-resistance-basics/) areas based on different timeframes. Ichimoku Kinko Hyo roughly means "one look equilibrium chart", and is commonly called the Ichimoku Cloud indicator.
 
-The Ichimoku Cloud indicator was developed by Japanese journalist Goichi Hosoda and promoted to the public in 1969. The Ichimoku combines a typical [[candlestick chart]](https://www.investopedia.com/terms/c/candlestick.asp) with five additional lines that measure price movement and volatility. One of those lines is the Tenkan-Sen.
+The Ichimoku Cloud indicator was developed by Japanese journalist Goichi Hosoda and promoted to the public in 1969. The Ichimoku combines a typical [[candlestick chart]](https://www.investopedia.com/terms/c/candlestick.asp) with five additional lines that measure price movement and [[Volatility|volatility]]. One of those lines is the Tenkan-Sen.
 
 TradingView.
 
@@ -42,7 +42,7 @@ Tenkan-Sen(Conversion Line):(9PH+9PL)2where:PH\=Period HighPL\=Period Low\\be
 
 ## What Does the Tenkan-Sen (Conversion Line) Tell You?
 
-The Tenkan-Sen shows an asset's short-term price momentum. On its own, it shows the mid-point price over the last nine periods. Due to the very short-term nature of the indicator, it is not typically used on its own but rather used in conjunction with the other elements of the Ichimoku Cloud indicator.
+The Tenkan-Sen shows an asset's short-term price [[Momentum|momentum]]. On its own, it shows the mid-point price over the last nine periods. Due to the very short-term nature of the indicator, it is not typically used on its own but rather used in conjunction with the other elements of the Ichimoku Cloud indicator.
 
 For example, if the Tenkan-Sen moves above the [[Kijun-Sen]](https://www.investopedia.com/terms/k/kijunsen.asp) (Base Line), which is the 26-period price midpoint, some traders view that as a buy signal. Conversely, if the Tenkan-Sen drops below the Kijun-Sen, it may be viewed as a sell signal.
 
@@ -52,7 +52,7 @@ Therefore, when the price is above the cloud, traders may prefer to buy when the
 
 In a downtrend, when the price is below the cloud, traders may [[short-sell]](https://www.investopedia.com/terms/s/shortselling.asp) when the Tenkan-Sen crosses below the Kijun-Sen. They may [[cover]](https://www.investopedia.com/terms/b/buytocover.asp) the short position when the Tenkan-Sen crosses back above the Kijun-Sen.
 
-The Tenkan-Sen also plays a role in generating Senkou Span A, one of two lines creating the "cloud" on the Ichimoku indicator. The edges of the cloud indicate support and resistance points, and the thickness of the cloud indicates price [[volatility]](https://www.investopedia.com/terms/v/volatility.asp). As indicated above, the cloud also helps identify the trend.
+The Tenkan-Sen also plays a role in generating Senkou Span A, one of two lines creating the "cloud" on the Ichimoku indicator. The edges of the cloud indicate support and resistance points, and the thickness of the cloud indicates price [[volatility]](https://www.investopedia.com/terms/v/[[Volatility|volatility]].asp). As indicated above, the cloud also helps identify the trend.
 
 ## The Difference Between the Tenkan-Sen (Conversion Line) and a Simple Moving Average (SMA)
 

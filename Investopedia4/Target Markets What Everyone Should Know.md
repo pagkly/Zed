@@ -3,7 +3,7 @@ alias: [Target Market]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Target Market Definition, Target Markets: What Everyone Should Know]
 source: https://www.investopedia.com/terms/t/target-market.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Target Market Definition
@@ -31,7 +31,7 @@ Identifying the target market is an essential step for any company in the develo
 
 ## Understanding Target Markets
 
-Part of the success of selling a good or service is knowing to whom it will appeal and who will ultimately buy it. That's why businesses spend a lot of time and money to define and monitor its target market. That's because not all products and services are meant for every consumer, who are generally cautious with their money.
+Part of the success of selling a good or service is knowing to whom it [[Will|will]] appeal and who will ultimately buy it. That's why businesses spend a lot of time and money to define and monitor its target market. That's because not all products and services are meant for every consumer, who are generally cautious with their money.
 
 Target markets are generally categorized by age, location, income, and lifestyle. Defining a specific target market allows a company to home in on specific market factors to reach and connect with customers through sales and marketing efforts.
 
@@ -39,11 +39,11 @@ Testing a target market often occurs well before a product is released. During t
 
 Defining a target market is important for any business because it means the difference between selling a product or service and sitting on the sidelines while the competition boosts its revenue.
 
-Not knowing its target can be a big mistake for a business. Trying to rustle new clients or customers without knowing who it will target can cost the business a lot of time and money.
+Not knowing its target can be a big mistake for a business. Trying to rustle new clients or customers without knowing who it [[Will|will]] target can cost the business a lot of time and money.
 
 ### Segmenting the Market
 
-Dividing a target market into various segments is as simple as dividing the population into groups that can be measured by key characteristics. These include gender, age, [[income levels]](https://www.investopedia.com/articles/personal-finance/050615/are-you-top-one-percent-world.asp), race, education, religion, marital status, and geographic location.
+Dividing a target market into various segments is as simple as dividing the population into groups that can be measured by key characteristics. These include gender, age, [[income levels]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/050615/are-you-top-one-percent-world.asp), race, education, religion, marital status, and geographic location.
 
 Consumers that fall into these groups tend to value the same products and services, which is why narrowing down these segments is one of the most important factors to determine target markets. For example, people who fall into a higher income bracket may be more likely to buy specialty coffee from [[Starbucks]](https://www.investopedia.com/articles/markets/021316/how-starbucks-makes-money-sbux.asp) instead of Dunkin' Donuts.
 
@@ -55,4 +55,4 @@ The target market is a central focus within a marketing plan that determines oth
 
 As a company’s product sales grow, it may also expand its target market internationally. International expansion allows a company to reach a broader subset of its target market in different regions of the world.
 
-In addition to international expansion, a company may also find its domestic target market expands as its products gain more traction in the marketplace. Expanding and growing target markets are all the more reason for companies to monitor their sales and customer preferences for evolving revenue opportunities.
+In addition to international expansion, a company may also find its domestic target market expands as its products [[Gain|gain]] more traction in the marketplace. Expanding and growing target markets are all the more reason for companies to monitor their sales and customer preferences for evolving revenue opportunities.
