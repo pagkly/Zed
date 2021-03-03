@@ -119,7 +119,7 @@ if platform == "win32":
     pdirc=os.path.join(updir, profdirc)
     print(pdirc)
     
-obsidian_home=
+obsidian_home=downdir
 aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
 
 # get a directory listing of obsidian *.md files
