@@ -13,7 +13,7 @@ author: Carla Tardi
 
 ---
 
-A Forensic Audit Could Easily Detect a Padded Expense Report.
+[[A Forensic Audit Could Easily Detect a Padded Expense Report.]]
 ## What Is a Forensic Audit?
 
 A forensic audit examines and evaluates a firm's or individual's financial records to derive evidence used in a court of law or legal proceeding. Forensic auditing is a specialization within [[accounting]](https://www.investopedia.com/terms/a/accounting.asp), and most large accounting firms have a forensic auditing department. Forensic audits require accounting and auditing procedures and expert knowledge about the legal framework of such an audit.
@@ -29,15 +29,15 @@ Forensic audit investigations can uncover or confirm various types of illegal ac
 -   A forensic audit is an examination and evaluation of a firm's or individual's financial records.
 -   During a forensic audit, an auditor seeks to derive evidence that could potentially be used in court.
 -   A forensic audit is used to uncover criminal behavior such as fraud or embezzlement.
--   When you are a forensic auditor, you specialize in a particular brand of accounting. Smaller firms may not have a forensic auditor on the payroll, but most large, commercial accounting firms have forensic auditing departments.
+-   When you are a forensic auditor, you specialize in a particular brand of accounting. Smaller firms may not have a forensic auditor on the [[Payroll|payroll]], but most large, commercial accounting firms have forensic auditing departments.
 
 ## How Forensic Audits Work
 
-The process of a forensic audit is similar to a regular financial audit—planning, collecting evidence, writing a report—with the additional step of a potential court appearance. The attorneys for both sides offer evidence that either uncovers or disproves the fraud and determines the damages suffered. They present their findings to the client, and the court should the case go to trial.
+The process of a forensic audit is similar to a regular financial audit—planning, collecting evidence, writing a report—with the additional step of a potential court appearance. The attorneys for both sides [[Offer|offer]] evidence that either uncovers or disproves the fraud and determines the damages suffered. They present their findings to the client, and the court should the case go to trial.
 
 ### Planning the Investigation
 
-During the planning stage, the forensic auditor and team will plan their investigation to achieve objectives, such as
+During the planning stage, the forensic auditor and team [[Will|will]] plan their investigation to achieve objectives, such as
 
 -   Identifying what fraud, if any, is being carried out
 -   Determining the period during which the fraud occurred
@@ -51,7 +51,7 @@ During the planning stage, the forensic auditor and team will plan their investi
 
 The evidence collected should be adequate to prove the fraudster's identity (s) in court, reveal the fraud scheme's details, and document the financial loss suffered and the parties affected by the fraud.
 
-A logical flow of evidence will help the court in understanding the fraud and the evidence presented. Forensic auditors are required to take precautions to ensure that documents and other evidence collected are not damaged or altered by anyone.
+A logical flow of evidence [[Will|will]] help the court in understanding the fraud and the evidence presented. Forensic auditors are required to take precautions to ensure that documents and other evidence collected are not damaged or altered by anyone.
 
 ### Reporting
 
@@ -73,8 +73,8 @@ The forensic auditor must be present during court proceedings to explain the evi
 In a forensic audit, an auditor would be on the lookout for
 
 -   [[Conflicts of Interest]](https://www.investopedia.com/terms/c/conflict-of-interest.asp)—when a fraudster uses their influence for personal gains to the company's detriment. For example, if a manager allows and approves inaccurate expenses of an employee with whom he has personal relations.
--   Bribery—offering money to get things done or influence a situation in one’s favor.
--   [[Extortion]](https://www.investopedia.com/terms/e/extortion.asp)—the wrongful use of actual or threatened force, violence, or intimidation to gain money or property from an individual or entity.
+-   Bribery—[[Offering|offering]] money to get things done or influence a situation in one’s favor.
+-   [[Extortion]](https://www.investopedia.com/terms/e/extortion.asp)—the wrongful use of actual or threatened force, violence, or intimidation to [[Gain|gain]] money or property from an individual or entity.
 
 ### Asset Misappropriation
 
@@ -86,6 +86,6 @@ A company can get into this type of fraud to try to show that its financial perf
 
 ## Example of a Forensic Audit Case
 
-Let's say that a fictional computer manufacturer, WysiKids, on the recommendation of its [[chief financial officer ([[Cash Flow From Operating Activities (CFO) Definition|CFO]])]](https://www.investopedia.com/terms/c/Cash Flow From Operating Activities (CFO) Definition]]|cfo]].asp), entered into a contract with Smart Chips, Inc. to supply WysiKids with processors. However, when the contract was signed, Smart Chips was not authorized to conduct business because its license had been indefinitely revoked based on certain irregularities in a recent Internal Revenue Service (IRS) filing. WysiKids's CFO knew that Smart Chips' license was suspended, yet still suggested that their company sign on with Smart Chips, as they were secretly receiving compensation from Smart Chips for doing so.
+Let's say that a fictional computer manufacturer, WysiKids, on the recommendation of its [[chief financial officer ([[Cash Flow From Operating Activities (CFO) Definition|CFO]])]](https://www.investopedia.com/terms/c/Cash Flow From Operating Activities (CFO) Definition]]|cfo]].asp), entered into a contract with Smart Chips, Inc. to [[Supply|supply]] WysiKids with processors. However, when the contract was signed, Smart Chips was not authorized to conduct business because its license had been indefinitely revoked based on certain irregularities in a recent Internal Revenue Service (IRS) filing. WysiKids's CFO knew that Smart Chips' license was suspended, yet still suggested that their company sign on with Smart Chips, as they were secretly receiving compensation from Smart Chips for doing so.
 
 The fictional example of fraud depicted above could be uncovered by investigating the interpersonal relationships involved and exposing a conflict of interest.

@@ -209,7 +209,7 @@ for file in glob.glob(os.path.join(obsidian_home,"*.md")):
 
     print(linked_txt)
     f_new = open(file, "w")
-    f_new.write(fc)
+    f_new.write(linked_txt)
     f_new.close()
-    time.sleep(3600)
+    #time.sleep(3600)
 
