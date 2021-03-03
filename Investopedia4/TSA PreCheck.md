@@ -6,36 +6,36 @@ source: https://www.investopedia.com/terms/t/tsa-pre.asp
 author: Julia Kagan
 ---
 
-# TSA PreCheck Definition
+# [[TSA PreCheck]] Definition
 
 > ## Excerpt
-> The TSA PreCheck program allows travelers deemed low risk by the Transportation Security Administration to quickly move through security screening.
+> The [[TSA PreCheck]] program allows travelers deemed low [[Risk|risk]] by the Transportation [[Security]] Administration to quickly move through security screening.
 
 ---
 
-TSA PreCheck
-## What Is TSA PreCheck?
+[[TSA PreCheck]]
+## What Is [[TSA PreCheck]]?
 
-TSA PreCheck is a U.S. government program that allows travelers deemed low-risk by the Transportation Security Administration (TSA), a U.S. Department of Homeland Security agency, to pass through an expedited security screening at certain [[U.S. airports]](https://www.investopedia.com/articles/investing/022916/economic-analysis-lowcost-airline-industry-luvdal.asp). In July 2019 alone, 93% of TSA PreCheck passengers took less than five minutes to pass through the TSA security checkpoint.
+[[TSA PreCheck]] is a U.S. government program that allows travelers deemed low-[[Risk|risk]] by the Transportation [[Security]] Administration (TSA), a U.S. Department of Homeland Security agency, to pass through an expedited security screening at certain [[U.S. airports]](https://www.investopedia.com/articles/investing/022916/economic-analysis-lowcost-airline-industry-luvdal.asp). In July 2019 alone, 93% of TSA PreCheck passengers took less than five minutes to pass through the TSA security checkpoint.
 
 Qualifying travelers don’t have to remove their belts, shoes, or lightweight jackets. They may also leave a laptop in its case and a 3-1-1 compliant bag (which can contain items with small quantities of liquids and gels, such as a travel-size bottle of mouthwash) in their carry on luggage.
 
-The application process for TSA PreCheck can be started online, but an in-person background check must also be conducted.
+The application process for [[TSA PreCheck]] can be started online, but an in-person background check must also be conducted.
 
-## How TSA PreCheck Works
+## How [[TSA PreCheck]] Works
 
-The program is intended to speed up the passage of verified travelers through security checkpoints, which may become crowded as passengers gather to board their flights. Typically, passengers must remove articles of clothing and personal items that could be used to contain hazardous materials.
+The program is intended to speed up the passage of verified travelers through [[Security|security]] checkpoints, which may become crowded as passengers gather to board their flights. Typically, passengers must remove articles of clothing and personal items that could be used to contain hazardous materials.
 
-Shoes, for example, were previously used in attempts to smuggle and detonate explosives on an airplane. Electronic equipment, such as [[laptops]](https://www.investopedia.com/articles/investing/012716/worlds-top-10-hardware-companies-aaplibm.asp), are also usually subject to scrutiny at checkpoints because of attempts to hide materials inside by removing components. TSA PreCheck verifies which passengers are present the lowest risk to flight security, so these passengers can pass through security checkpoints without the need to remove shoes, belts, or jackets from their person or laptops and liquids from their bags.
+Shoes, for example, were previously used in attempts to smuggle and detonate explosives on an airplane. Electronic equipment, such as [[laptops]](https://www.investopedia.com/articles/investing/012716/worlds-top-10-hardware-companies-aaplibm.asp), are also usually subject to scrutiny at checkpoints because of attempts to hide materials inside by removing components. [[TSA PreCheck]] verifies which passengers are present the lowest [[Risk|risk]] to flight [[Security|security]], so these passengers can pass through security checkpoints without the need to remove shoes, belts, or jackets from their person or laptops and liquids from their bags.
 
 ### Key Takeaways
 
--   TSA PreCheck is a way to clear passengers who have been vetted and confirmed in advance, allowing for swifter passage through security checkpoints and shortening the lines other passengers must wait in.
+-   [[TSA PreCheck]] is a way to clear passengers who have been vetted and confirmed in advance, allowing for swifter passage through [[Security|security]] checkpoints and shortening the lines other passengers must wait in.
 -   An application process can be started online but an in-person background check is also required.
 -   Once approved, travelers receive a Known Traveler Number (KTN), which is valid for five years.
 
-Some 200 airports and 73 airlines offer this service. You can [[apply directly]](https://universalenroll.dhs.gov/servicecode/11115V) to the TSA. You will have to visit one of the more than [380 application centers](https://universalenroll.dhs.gov/locator) where you will be fingerprinted and asked for valid identity and citizenship information. The in-person background check and fingerprinting appointment take about ten minutes. There is an $85 non-refundable application fee. Travelers who are foreign citizens must meet certain residency requirements in order to qualify for the program.
+Some 200 airports and 73 airlines [[Offer|offer]] this service. You can [[apply directly]](https://universalenroll.dhs.gov/servicecode/11115V) to the TSA. You [[Will|will]] have to visit one of the more than [380 application centers](https://universalenroll.dhs.gov/locator) where you will be fingerprinted and asked for valid identity and citizenship information. The in-person background check and fingerprinting appointment take about ten minutes. There is an $85 non-refundable application fee. Travelers who are foreign citizens must meet certain residency requirements in order to qualify for the program.
 
-The Department of Homeland Security operates other federal programs such as Global Entry, NEXUS, and SENTRI for verifying the identities of trusted travelers. The NEXUS program covers pre-screened travelers who are [[traveling between Canada and the U.S.]](https://www.investopedia.com/articles/investing/022415/5-countries-where-us-citizens-need-visas.asp) The SENTRI program governs travel on land into the U.S. from Mexico. Global Entry lets trusted travelers who are traveling internationally quickly move through customs and border protection.
+The Department of Homeland [[Security]] operates other federal programs such as Global Entry, [[NEXUS]], and SENTRI for verifying the identities of trusted travelers. The NEXUS program covers pre-screened travelers who are [[traveling between Canada and the U.S.]](https://www.investopedia.com/articles/investing/022415/5-countries-where-us-citizens-need-visas.asp) The SENTRI program governs travel on land into the U.S. from Mexico. Global Entry lets trusted travelers who are traveling internationally quickly move through customs and border protection.
 
-Once approved, you will receive a Known Traveler Number (KTN). Use that number any time you book a flight. The KTN is valid for five years. When you have your KTN, you can use a faster line at participating airports reserved for TSA pre-passengers.
+Once approved, you [[Will|will]] receive a Known Traveler Number (KTN). Use that number any time you book a flight. The KTN is valid for five years. When you have your KTN, you can use a faster line at participating airports reserved for TSA pre-passengers.

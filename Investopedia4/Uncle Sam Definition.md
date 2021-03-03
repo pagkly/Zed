@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Uncle Sam Definition
+[[Uncle Sam Definition]]
 ## Who Is Uncle Sam?
 
 "Uncle Sam" is a personified representation of either the United States federal government or the United States of America in general. In finances, Uncle Sam can also refer to the taxing authority (i.e., the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp), or IRS), for instance, one may say: "I have to pay Uncle Sam a portion of my income to pay for roads and hospitals."
@@ -30,7 +30,7 @@ A popular etymology first traces the origins of the usage of "Uncle Sam" to the 
 
 Prior to the 19th century, the U.S. had been personified by the figure "Brother Jonathan," originally a derogatory term for Puritans during the English Civil War. Female representations of the U.S. are also common: Columbia and, since the 20th century, Lady Liberty. 
 
-Uncle Sam is sometimes used in the financial media to refer to the federal government, particularly in the context of [income taxes](https://www.investopedia.com/terms/i/incometax.asp). Some tax-sheltered products, such as municipal bonds or qualified retirement accounts, are sometimes to referred to as "off-limits to Uncle Sam," denoting that they are not subject to taxation by the federal government.
+Uncle Sam is sometimes used in the financial media to refer to the federal government, particularly in the context of [income taxes](https://www.investopedia.com/terms/i/incometax.asp). Some tax-sheltered products, such as municipal bonds or qualified retirement accounts, are sometimes to referred to as "off-limits to Uncle Sam," denoting that they are not subject to [[Taxation|taxation]] by the federal government.
 
 ## Representations of Uncle Sam
 

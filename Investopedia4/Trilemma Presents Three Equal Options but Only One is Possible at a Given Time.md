@@ -13,7 +13,7 @@ author: Christina Majaski
 
 ---
 
-Trilemma Presents Three Equal Options but Only One is Possible at a Given Time
+[[Trilemma Presents Three Equal Options but Only One is Possible at a Given Time]]
 ## What Is a Trilemma?
 
 Trilemma is a term in economic decision-making theory. Unlike a dilemma, which has two solutions, a trilemma offers three equal solutions to a complex problem. A trilemma suggests that countries have three options from which to choose when making fundamental decisions about managing their international monetary policy agreements. However, the options of the trilemma are conflictual because of mutual exclusivity, which makes only one option of the trilemma achievable at a given time.
@@ -23,7 +23,7 @@ Trilemma often is synonymous with the "impossible trinity," also called the Mund
 ### Key Takeaways
 
 -   The trilemma is an economic theory, which posits that countries may choose from three options when making fundamental decisions about their international monetary policy agreements.
--   However, only one option of the trilemma is achievable at a given time, as the three options of the trilemma are mutually exclusive.
+-   However, only one option of the trilemma is achievable at a given time, as the three options of the trilemma are [[Mutually Exclusive|mutually exclusive]].
 -   Today, most countries favor free flow of capital and autonomous monetary policy.
 
 ## Trilemma Explained
@@ -39,8 +39,8 @@ Image by Julie Bang © Investopedia 2019
 The technicalities of each option conflict because of mutual exclusivity. As such, mutual exclusivity makes only one side of the trilemma triangle achievable at a given time.
 
 -   **Side A**: A country can choose to fix exchange rates with one or more countries and have a free flow of capital with others. If it chooses this scenario, independent monetary policy is not achievable because interest rate fluctuations would create currency arbitrage stressing the currency pegs and causing them to break.
--   **Side B**: The country can choose to have a free flow of capital among all foreign nations and also have an autonomous monetary policy. Fixed exchange rates among all nations and the free flow of capital are mutually exclusive. As a result, only one can be chosen at a time. So, if there is a free flow of capital among all nations, there cannot be fixed exchange rates.
--   **Side C**: If a country chooses fixed exchange rates and independent monetary policy it cannot have a free flow of capital. Again, in this instance, fixed exchange rates and the free flow of capital are mutually exclusive.
+-   **Side B**: The country can choose to have a free flow of capital among all foreign nations and also have an autonomous monetary policy. Fixed exchange rates among all nations and the free flow of capital are [[Mutually Exclusive|mutually exclusive]]. As a result, only one can be chosen at a time. So, if there is a free flow of capital among all nations, there cannot be fixed exchange rates.
+-   **Side C**: If a country chooses fixed exchange rates and independent monetary policy it cannot have a free flow of capital. Again, in this instance, fixed exchange rates and the free flow of capital are [[Mutually Exclusive|mutually exclusive]].
 
 ## Government Considerations
 
@@ -54,6 +54,6 @@ The French economist [Hélène Rey](https://www.nber.org/papers/w21162) argued
 
 ## Real World Example
 
-A real-world example of solving these trade-offs occurs in the [[eurozone]](https://www.investopedia.com/terms/e/eurozone.asp), where countries are closely interconnected. By forming the eurozone and using one currency, the countries have ultimately opted for side A of the triangle, maintaining a single currency (in effect a one-to-one peg coupled with the free capital flow).
+A real-world example of solving these trade-offs occurs in the [[eurozone]](https://www.investopedia.com/terms/e/[[Eurozone|eurozone]].asp), where countries are closely interconnected. By forming the eurozone and using one currency, the countries have ultimately opted for side A of the triangle, maintaining a single currency (in effect a one-to-one peg coupled with the free capital flow).
 
 Following World War II, the wealthy opted for side C under the [Bretton Woods Agreement](https://www.investopedia.com/terms/b/brettonwoodsagreement.asp), which pegged currencies to the U.S. dollar but allowed countries to set their own interest rates. Cross-border capital flows were so small that this system held for a couple of decades—the exception being Mundell's native Canada, where he gained special insight into the tensions inherent in the Bretton Woods system.

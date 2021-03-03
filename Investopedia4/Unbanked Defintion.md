@@ -13,7 +13,7 @@ author: Lucas Downey
 
 ---
 
-Unbanked Defintion
+[[Unbanked Defintion]]
 ## What Is Unbanked?
 
 "Unbanked" is an informal term for adults who do not use banks or banking institutions in any capacity. Unbanked persons generally pay for things in cash or else purchase [[money orders]](https://www.investopedia.com/terms/m/money-order.asp) or prepaid debit cards. Unbanked persons also typically do not have insurance, pensions, or any other type of professional money-related services. They may take advantage of alternative financial services, such as check-cashing and payday lending, if such services are available to them.
@@ -28,9 +28,9 @@ While often an issue in the developing world, there are pockets of unbanked adul
 
 ## Understanding the Unbanked
 
-Underbanked is a related term that refers to families that prefer to manage their finances through cash transactions instead of more traditional financial services, such as checking accounts, savings accounts, credit cards, and loans.
+[[Underbanked]] is a related term that refers to families that prefer to manage their finances through cash transactions instead of more traditional financial services, such as checking accounts, savings accounts, credit cards, and loans.
 
-Although some households are considered unbanked because they do not use banks or financial services at all_,_ the underbanked segment of the population may have checking or savings accounts, but often access less traditional financial products and services, such as short-term [payday loans](https://www.investopedia.com/terms/p/payday-loans.asp) and check cashing services.
+Although some households are considered unbanked because they do not use banks or financial services at all_,_ the [[Underbanked|underbanked]] segment of the population may have checking or savings accounts, but often access less traditional financial products and services, such as short-term [payday loans](https://www.investopedia.com/terms/p/payday-loans.asp) and check cashing services.
 
 An FDIC study revealed that more than 7 million or 5.4% of American households were unbanked in 2019 in the United States.1 That's compared to 8.4 million or 6.5% of households that were unbanked in 2017—a change of -1.1%.1 This was the lowest amount of unbanked Americans registered by the survey since it was first conducted in 2009. Households with a [[family income]](https://www.investopedia.com/terms/h/household_income.asp) of less than $15,000 remain the highest unbanked at 23.3%, along with those without a high school diploma at 21.4%.1
 
@@ -50,6 +50,6 @@ Extremely poor individuals may also have no need for the banking system as they 
 
 ## Initiatives to Help the Unbanked
 
-Politicians at the state and federal levels have attempted to help the unbanked gain financial literacy and benefit from banking services. Some such initiatives include former California Gov. Arnold Schwarzenegger's Bank on California Initiative and the FDIC's Money Smart program.
+Politicians at the state and federal levels have attempted to help the unbanked [[Gain|gain]] financial literacy and benefit from banking services. Some such initiatives include former California Gov. Arnold Schwarzenegger's Bank on California Initiative and the FDIC's Money Smart program.
 
-The U.S. Treasury Department's Section 326 regulations, which allow banks and credit unions to accept identification issued by foreign governments, seeks to help undocumented aliens become banked. The [[U.S. Treasury Department]](https://www.investopedia.com/terms/u/ustreasury.asp) makes federal payments to unbanked federal benefits recipients using a MasterCard prepaid debit card.
+The U.S. Treasury Department's Section 326 regulations, which allow banks and credit unions to accept identification issued by foreign governments, seeks to help undocumented aliens become banked. The [[U.S. Treasury Department]](https://www.investopedia.com/terms/u/ustreasury.asp) makes federal payments to unbanked federal benefits recipients using a [[MasterCard]] prepaid debit card.

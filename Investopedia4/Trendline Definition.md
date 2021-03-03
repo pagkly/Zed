@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/t/trendline.asp
 author: James Chen
 ---
 
-# Trendline Definition & Example
+# [[Trendline Definition]] & Example
 
 > ## Excerpt
 > A trendline is a charting tool used to illustrate the prevailing direction of price. Trendlines are created by connecting highs or lows to represent support and resistance.
 
 ---
 
-Trendline Definition
+[[Trendline Definition]]
 ## What Is a Trendline?
 
 Trendlines are easily recognizable lines that traders draw on charts to connect a series of prices together or show some data's best fit. The resulting line is then used to give the trader a good idea of the direction in which an investment's value might move.
@@ -41,14 +41,14 @@ Trendlines are relatively easy to use. A trader simply has to chart the price da
 
 Image by Sabrina Jiang © Investopedia 2020
 
-The trendline shows the uptrend in the Russell 2000 and can be thought of as support when entering a position. In this case, trader may choose enter a long position near the trendline and then extend it into the future. If the price action breaches the trendline on the downside, the trader can use that as a signal to close the position. This allows the trader to exit when the trend they are following starts to weaken.
+The trendline shows the uptrend in the Russell 2000 and can be thought of as support when entering a position. In this case, trader may choose enter a long position near the trendline and then extend it into the future. If the [[Price Action|price action]] breaches the trendline on the downside, the trader can use that as a signal to close the position. This allows the trader to exit when the trend they are following starts to weaken.
 
 Trendlines are, of course, a product of the time period. In the example above, a trader doesn't need to redraw the trendline very often. On a time scale of minutes, however, trendlines and trades may need to be readjusted frequently.
 
 ## The Difference Between Trendlines and Channels
 
-More than one trendline can be applied to a chart. Traders often use a trendline connecting highs for a period as well as another to connect lows in order to create [[channels]](https://www.investopedia.com/terms/c/channel.asp). A channel adds a visual representation of both support and resistance for the time period being analyzed. Similar to a single trendline, traders are looking for a spike or a [[breakout]](https://www.investopedia.com/terms/b/breakout.asp) to take the price action out of the channel. They may use that breach as an exit point or an entry point depending on how they are setting up their trade.
+More than one trendline can be applied to a chart. Traders often use a trendline connecting highs for a period as well as another to connect lows in order to create [[channels]](https://www.investopedia.com/terms/c/channel.asp). A channel adds a visual representation of both support and resistance for the time period being analyzed. Similar to a single trendline, traders are looking for a spike or a [[breakout]](https://www.investopedia.com/terms/b/breakout.asp) to take the [[Price Action|price action]] out of the channel. They may use that breach as an exit point or an entry point depending on how they are setting up their trade.
 
 ## Limitations of a Trendline
 
-Trendlines have limitations shared by all charting tools in that they have to be readjusted as more price data comes in. A trendline will sometimes last for a long time, but eventually the price action will deviate enough that it needs to be updated. Moreover, traders often choose different data points to connect. For example, some traders will use the lowest lows, while others may only use the lowest closing prices for a period. Last, trendlines applied on smaller timeframes can be volume sensitive. A trendline formed on low volume may easily be broken as volume picks up throughout a session.
+Trendlines have limitations shared by all charting tools in that they have to be readjusted as more price data comes in. A trendline [[Will|will]] sometimes last for a long time, but eventually the [[Price Action|price action]] will deviate enough that it needs to be updated. Moreover, traders often choose different data points to connect. For example, some traders will use the lowest lows, while others may only use the lowest closing prices for a period. Last, trendlines applied on smaller timeframes can be volume sensitive. A trendline formed on low volume may easily be broken as volume picks up throughout a session.

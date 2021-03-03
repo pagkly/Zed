@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/t/trough.asp
 author: Akhilesh Ganti
 ---
 
-# Trough Definition
+# [[Trough Definition]]
 
 > ## Excerpt
 > A trough, in economic terms, can refer to a stage in the business cycle where activity is bottoming, or where prices are bottoming, before a rise.
 
 ---
 
-Trough Definition
+[[Trough Definition]]
 ## What Is a Trough?
 
 A trough, in economic terms, can refer to a stage in the [[business cycle]](https://www.investopedia.com/terms/b/businesscycle.asp) where activity is bottoming, or where prices are bottoming, before a rise.
@@ -21,8 +21,8 @@ A trough, in economic terms, can refer to a stage in the [[business cycle]](http
 ### Key Takeaways
 
 -   A trough, in economic terms, can refer to a stage in the business cycle where activity is bottoming, or where prices are bottoming, before a rise.
--   The business cycle is the upward and downward movement of gross domestic product (GDP) and consists of recessions and expansions that end in peaks and troughs.
--   The actual trough can only be identified in hindsight, and is marked by conditions like higher unemployment, layoffs, declining business sales and earnings, and lower credit availability.
+-   The business cycle is the upward and downward movement of [[Gross Domestic Product (GDP)|gross domestic product (GDP)]] and consists of recessions and expansions that end in peaks and troughs.
+-   The actual trough can only be identified in hindsight, and is marked by conditions like higher [[Unemployment|unemployment]], layoffs, declining business sales and earnings, and lower credit availability.
 
 ## Understanding Troughs
 
@@ -30,13 +30,13 @@ The business cycle moves in five phases: expansion, peak, contraction, trough, a
 
 A trough is the stage of the economy's business cycle that marks the end of a period of declining business activity and the transition to expansion. The [[business cycle]](https://www.investopedia.com/terms/b/businesscycle.asp) is the upward and downward movement of gross domestic product and consists of [[recessions]](https://www.investopedia.com/terms/r/recession.asp) and [[expansions]](https://www.investopedia.com/terms/e/expansion.asp) that end in [[peaks]](https://www.investopedia.com/terms/p/peak.asp) and troughs.
 
-Employment levels also offer an [[indicator]](https://www.investopedia.com/terms/i/indicator.asp) of where the economy stands in the business cycle. Unemployment levels of less than 5% are consistent with full employment and are indicative of economic expansion. When the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp) rises from month to month, the economy has most likely entered a contractionary phase. When the unemployment rate bottoms out, a trough has likely occurred. Incomes and wages are also indicators for where the economy stands in the business cycle. These increase during expansion, recede during contraction, and bottom out during a trough.
+Employment levels also [[Offer|offer]] an [[indicator]](https://www.investopedia.com/terms/i/indicator.asp) of where the economy stands in the business cycle. [[Unemployment]] levels of less than 5% are consistent with [[Full Employment|full employment]] and are indicative of economic expansion. When the [[unemployment rate]](https://www.investopedia.com/terms/u/unemploymentrate.asp) rises from month to month, the economy has most likely entered a contractionary phase. When the unemployment rate bottoms out, a trough has likely occurred. Incomes and wages are also indicators for where the economy stands in the business cycle. These increase during expansion, recede during contraction, and bottom out during a trough.
 
-The major U.S. stock market indices, such as the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) (DJIA) and [[Standard & Poor's 500 Index]](https://www.investopedia.com/terms/s/sp500.asp) (S&P 500) also track closely with the business cycle. Declines in the stock market coincide or foreshadow contraction in the economy. When stocks rally after a significant decline, it could signal the economic trough is in, or coming soon, leading to a rise in economic activity.
+The major U.S. [[Stock|stock]] market indices, such as the [[Dow Jones Industrial Average]](https://www.investopedia.com/terms/d/djia.asp) (DJIA) and [[Standard & Poor's 500 Index]](https://www.investopedia.com/terms/s/sp500.asp) (S&P 500) also track closely with the business cycle. Declines in the stock market coincide or foreshadow contraction in the economy. When [[Stocks|stocks]] [[Rally|rally]] after a significant decline, it could signal the economic trough is in, or coming soon, leading to a rise in economic activity.
 
 Troughs are recognizable in hindsight, but harder to spot in real-time. As the economic indicators contract, the economy is in a contraction phase. This phase can last for a short or long period of time. It is only once the economic activity begins to increase again, as shown on economic indicators, that expansion is likely underway and the trough (or bottom) has been put in.
 
-While troughs vary in severity—with some troughs only being minor setbacks in economic growth, and others being sustained periods of hardship—they are typically marked with declining business sales and [[earnings]](https://www.investopedia.com/terms/e/earnings.asp), layoffs, low credit availability, higher unemployment, and business closures (all compared to the other business cycle phases). Troughs are important as they mark a positive turning point for the economy.
+While troughs vary in severity—with some troughs only being minor setbacks in economic growth, and others being sustained periods of hardship—they are typically marked with declining business sales and [[earnings]](https://www.investopedia.com/terms/e/earnings.asp), layoffs, low credit availability, higher [[Unemployment|unemployment]], and business closures (all compared to the other business cycle phases). Troughs are important as they mark a positive turning point for the economy.
 
 Image by Julie Bang © Investopedia 2019
 
@@ -46,4 +46,4 @@ Image by Julie Bang © Investopedia 2019
 
 An economic trough occurred in June 2009. This date marked the official end of the [[Great Recession]](https://www.investopedia.com/terms/g/great-recession.asp), which began following the economic peak reached in Dec. 2007. At the end of 2007, the U.S. GDP reached an all-time high of $14.99 trillion. It then fell steadily for the next year and a half, a period of severe economic contraction. In June 2009, it bottomed out at $14.36 trillion. A period of expansion ensued, with the GDP eventually surpassing its 2007 high, reaching $15.02 trillion by Sept. 2011.
 
-During the U.S. recession of the early 1990s, the trough occurred in March 1991. At that date, the GDP stood at $8.87, down from $8.98 trillion in July 1990, the month the recession began. The recovery to this recession, marked by the ensuing expansionary phase, was robust, with the GDP surpassing $9 trillion for the first time ever before the end of 1991.
+During the U.S. recession of the early 1990s, the trough occurred in March 1991. At that date, the GDP stood at $8.87, down from $8.98 trillion in July 1990, the month the recession began. The recovery to this recession, marked by the ensuing expansionary phase, was [[Robust|robust]], with the GDP surpassing $9 trillion for the first time ever before the end of 1991.

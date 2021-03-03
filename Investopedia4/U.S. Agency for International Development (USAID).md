@@ -3,24 +3,24 @@ alias: [U.S. Agency for International Development, USAID]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [U.S. Agency for International Development (USAID), U.S. Agency for International Development (USAID)]
 source: https://www.investopedia.com/terms/u/usaid.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# U.S. Agency for International Development (USAID)
+# [[U.S. Agency for International Development (USAID)]]
 
 > ## Excerpt
 > The U.S. Agency for International Development is an independent federal agency that provides civilian aid to foreign countries.
 
 ---
 
-U.S. Agency for International Development (USAID)
+[[U.S. Agency for International Development (USAID)]]
 ## What Is the U.S. Agency for International Development?
 
 The U.S. Agency for International Development is an independent federal agency that provides civilian aid to foreign countries.
 
-## Understanding the U.S. Agency for International Development (USAID)
+## Understanding the [[U.S. Agency for International Development (USAID)]]
 
-President John F. Kennedy created USAID in 1961 by executive order. The agency is tasked with administering the federal government's [[foreign civilian aid]](https://www.investopedia.com/terms/f/foreign-aid.asp) programs, which include disaster relief, technical assistance, poverty alleviation, and economic development. While USAID is independent, it falls under the guidance of the Secretary of State. According to the Committee for a Responsible Federal Budget, foreign aid [makes](http://www.crfb.org/blogs/we-can-solve-our-debt-situation-cutting-waste-fraud-abuse-earmarks-andor-foreign-aid/) up around 1% of the federal budget, or 0.7% if military aid is excluded.
+President John F. Kennedy created USAID in 1961 by executive order. The agency is tasked with administering the federal government's [[foreign civilian aid]](https://www.investopedia.com/terms/f/foreign-aid.asp) programs, which include disaster relief, technical assistance, [[Poverty|poverty]] alleviation, and economic development. While USAID is independent, it falls under the guidance of the Secretary of State. According to the Committee for a Responsible Federal Budget, foreign aid [makes](http://www.crfb.org/blogs/we-can-solve-our-[[Debt|debt]]-situation-cutting-waste-fraud-abuse-earmarks-andor-foreign-aid/) up around 1% of the federal budget, or 0.7% if military aid is excluded.
 
 ## History of USAID
 

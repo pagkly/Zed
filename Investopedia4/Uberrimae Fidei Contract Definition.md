@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/u/uberrimae-fidei-contract.asp
 author: Akhilesh Ganti
 ---
 
-# Uberrimae Fidei Contract Definition
+# [[Uberrimae Fidei Contract Definition]]
 
 > ## Excerpt
 > An uberrimae fidei contract is a legal agreement, common to the insurance industry, requiring the highest standard of good faith during disclosure.
 
 ---
 
-Uberrimae Fidei Contract Definition
+[[Uberrimae Fidei Contract Definition]]
 ## What is a _Uberrimae Fidei_ Contract?
 
 An _uberrimae fidei_ contract is a legal agreement, common to the insurance industry, requiring the highest standard of good faith during disclosure of all material facts that could influence the decision of the other party. A failure to adhere to _uberrimae fidei_ is grounds for voiding the agreement.
@@ -26,12 +26,12 @@ An _uberrimae fidei_ contract is a legal agreement, common to the insurance indu
 
 ## Understanding _Uberrimae Fidei_ Contracts
 
-_Uberrimae fidei_ or "uberrima fides" literally means "utmost good faith" in Latin. Insurance contracts are the most common type of a _uberrimae fidei_ contract. Since the insurance company agrees to share the risk of loss with the policyholder, it is imperative that the policyholder act in good faith by fully disclosing all information that affects the insurance company's level of risk. [[Full disclosure]](https://www.investopedia.com/terms/f/fulldisclosure.asp) allows the insurer to protect itself by charging the policyholder a premium that accurately reflects the level of risk it is undertaking or even refusing to issue a policy if the risk is too high.
+_Uberrimae fidei_ or "uberrima fides" literally means "utmost good faith" in Latin. Insurance contracts are the most common type of a _uberrimae fidei_ contract. Since the insurance company agrees to share the [[Risk|risk]] of loss with the policyholder, it is imperative that the policyholder act in good faith by fully disclosing all information that affects the insurance company's level of risk. [[Full disclosure]](https://www.investopedia.com/terms/f/fulldisclosure.asp) allows the insurer to protect itself by charging the policyholder a [[Premium|premium]] that accurately reflects the level of risk it is undertaking or even refusing to issue a policy if the risk is too high.
 
-It stands to reason that the insurance applicant often has more information about the risk that is being insured against than the insurer does so the principle of _uberrimae fidei_ is used in an attempt to eliminate [[moral hazard]](https://www.investopedia.com/terms/m/moralhazard.asp). For example, someone applying for [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) knows more about their eating habits, exercise patterns, family medical history, and personal medical history than the potential insurer does. In order to determine how risky the applicant is, the insurer requires them to honestly answer a medical questionnaire and submit to a review of medical records before being approved for a policy. If the policyholder is later found to not have acted in utmost good faith at the time of application, the policy and benefits can be rescinded.
+It stands to reason that the insurance applicant often has more information about the [[Risk|risk]] that is being insured against than the insurer does so the principle of _uberrimae fidei_ is used in an attempt to eliminate [[moral hazard]](https://www.investopedia.com/terms/m/moralhazard.asp). For example, someone applying for [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) knows more about their eating habits, exercise patterns, family medical history, and personal medical history than the potential insurer does. In order to determine how risky the applicant is, the insurer requires them to honestly answer a medical questionnaire and submit to a review of medical records before being approved for a policy. If the policyholder is later found to not have acted in utmost good faith at the time of application, the policy and benefits can be rescinded.
 
 ## History and Role of _Uberrimae Fidei_
 
-The principles of _uberrimae fidei_ were first expressed by Britain's Lord Mansfield in the case of _Carter v Boehm_ (1766). He said, "Insurance is a contract of speculation... The special facts, upon which the contingent chance is to be computed, lie most commonly in the knowledge of the insured only. The underwriter trusts to his representation, and proceeds upon confidence that he does not keep back any circumstances in his knowledge, to mislead the underwriter into a belief that the circumstance does not exist... Good faith forbids either party by concealing what he privately knows, to draw the other into a bargain from his ignorance of that fact, and his believing the contrary."
+The principles of _uberrimae fidei_ were first expressed by Britain's Lord Mansfield in the case of _Carter v Boehm_ (1766). He said, "Insurance is a contract of [[Speculation|speculation]]... The special facts, upon which the contingent chance is to be computed, lie most commonly in the knowledge of the insured only. The underwriter trusts to his representation, and proceeds upon confidence that he does not keep back any circumstances in his knowledge, to mislead the underwriter into a belief that the circumstance does not exist... Good faith forbids either party by concealing what he privately knows, to draw the other into a bargain from his ignorance of that fact, and his believing the contrary."
 
-_Uberrimae fidei_ is seen as the foundation of a [reinsurance contract](https://www.investopedia.com/terms/r/reinsurance.asp). In order to make reinsurance affordable, a re-insurer cannot duplicate costly processes, such as insurer underwriting and claim handling costs. They must rely on the primary insurer’s ability to complete these tasks adequately. In return, a re-insurer must appropriately investigate and reimburse an insurer’s good faith claim payments.
+_Uberrimae fidei_ is seen as the foundation of a [reinsurance contract](https://www.investopedia.com/terms/r/reinsurance.asp). In order to make reinsurance affordable, a re-insurer cannot duplicate costly processes, such as insurer underwriting and claim handling costs. They must rely on the primary insurer’s ability to complete these tasks adequately. In [[Return|return]], a re-insurer must appropriately investigate and reimburse an insurer’s good faith claim payments.

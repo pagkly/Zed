@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/u/us-department-veterans-affairs.asp
 author: Katelyn Peters
 ---
 
-# U.S. Department of Veterans Affairs Definition
+# [[U.S. Department of Veterans Affairs Definition]]
 
 > ## Excerpt
 > The U.S. Department of Veterans Affairs, established in 1988, elevated the previous Veterans Administration to a Cabinet-level executive department.
 
 ---
 
-U.S. Department of Veterans Affairs Definition
+[[U.S. Department of Veterans Affairs Definition]]
 ## What Is the U.S. Department of Veterans Affairs?
 
 The U.S. Department of Veterans Affairs, established in 1988 by then-President Ronald Reagan, elevated the previous [[Veterans Administration]](https://www.investopedia.com/terms/v/veterans-administration.asp) to a Cabinet-level executive department. This move gave the department a new name that allowed it to still be referred to by its longtime acronym, the “VA.”
@@ -44,4 +44,4 @@ In the fiscal year 2019 budget, President Donald Trump proposed a $198.6 billion
 
 The department is headed by the United States Secretary of Veterans Affairs.
 
-On March 28, 2018, Robert Wilkie was named by President Trump to serve as the Acting Secretary of Veterans Affairs.4 Wilkie is the principal advisor to the Secretary and Deputy Secretary of Defense for Total Force Management as it relates to readiness; National Guard and Reserve component affairs; health affairs; training; and personnel requirements and management, including equal opportunity, morale, welfare, recreation, and the quality of life for military families.
+On March 28, 2018, Robert Wilkie was named by President Trump to serve as the Acting Secretary of Veterans Affairs.4 Wilkie is the [[Principal|principal]] advisor to the Secretary and Deputy Secretary of Defense for Total Force Management as it relates to readiness; National Guard and Reserve component affairs; health affairs; training; and personnel requirements and management, including equal opportunity, morale, welfare, recreation, and the quality of life for military families.

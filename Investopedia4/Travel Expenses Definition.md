@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/t/travelexpenses.asp
 author: Michelle P. Scott
 ---
 
-# Travel Expenses Definition
+# [[Travel Expenses Definition]]
 
 > ## Excerpt
 > Travel expenses are costs incurred while traveling specifically for the purpose of conducting business-related activities.
 
 ---
 
-Travel Expenses Definition
+[[Travel Expenses Definition]]
 ## What are Travel Expenses?
 
 Travel expenses are costs associated with traveling for the purpose of conducting business-related activities. Reasonable travel expenses can generally be deducted by the business when employees incur costs while traveling away from home specifically for business purposes. Those business purposes can include conferences or meetings.1 

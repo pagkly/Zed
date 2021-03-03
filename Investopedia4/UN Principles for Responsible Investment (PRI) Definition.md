@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/u/un-principles-responsible-investmen
 author: Jason Fernando
 ---
 
-# UN Principles for Responsible Investment (PRI) Definition
+# [[UN Principles for Responsible Investment (PRI) Definition]]
 
 > ## Excerpt
 > The UN Principles for Responsible Investment (PRI) are a set of six principles that set a global standard for responsible investing.
 
 ---
 
-UN Principles for Responsible Investment (PRI) Definition
+[[UN Principles for Responsible Investment (PRI) Definition]]
 ## What Are the UN Principles for Responsible Investment (PRI)?
 
 The UN Principles for Responsible Investment (PRI) is an international organization that works to promote the incorporation of [[environmental, social, and corporate governance factors (ESG)]](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp) into investment decision-making.
@@ -22,7 +22,7 @@ Launched in April 2006 with support from the [[United Nations (UN)]](https://www
 
 ### Key Takeaways
 
--   The UN Principles for Responsible Investment is an organization dedicated to promoting environmental and social responsibility among the world’s investors.
+-   The UN Principles for Responsible Investment is an organization dedicated to promoting environmental and [[Social Responsibility|social responsibility]] among the world’s investors.
 -   The UN Principles for Responsible Investment relies on voluntary disclosures by participating members, called signatories.
 -   Today, UN Principles for Responsible Investment signatories are responsible for over $80 trillion in assets worldwide, and include some of the world’s largest and most influential investors.
 
@@ -32,14 +32,14 @@ They core philosophy behind the organization is that environmental and social co
 
 To combat this long-prevailing attitude, the PRI put forward six core principles, to which signatory companies must agree to commit themselves. As expressed on the organization’s website, these six principles are as follows:
 
--   Principle 1: We will incorporate ESG issues into investment analysis and decision-making processes.
--   Principle 2: We will be active owners and incorporate ESG issues into our ownership policies and practices.
--   Principle 3: We will seek appropriate disclosure on ESG issues by the entities in which we invest.
--   Principle 4: We will promote acceptance and implementation of the Principles within the investment industry.
--   Principle 5: We will work together to enhance our effectiveness in implementing the Principles.
--   Principle 6: We will each report on our activities and progress towards implementing the Principles.
+-   Principle 1: We [[Will|will]] incorporate ESG issues into investment analysis and decision-making processes.
+-   Principle 2: We [[Will|will]] be active owners and incorporate ESG issues into our ownership policies and practices.
+-   Principle 3: We [[Will|will]] seek appropriate disclosure on ESG issues by the entities in which we invest.
+-   Principle 4: We [[Will|will]] promote acceptance and implementation of the Principles within the investment industry.
+-   Principle 5: We [[Will|will]] work together to enhance our effectiveness in implementing the Principles.
+-   Principle 6: We [[Will|will]] each report on our activities and progress towards implementing the Principles.
 
-Collectively, the organizations that have become signatories to these six principles are responsible for a total [[assets under management (AUM)]](https://www.investopedia.com/terms/a/aum.asp) of over $80 trillion. This includes many prominent founding signatories who helped launch the program, such as the Norwegian Government Pension Fund; the Government Pension Fund of Thailand; the Canada Pension Plan Investment Board; and the [[California Public Employees’ Retirement System (CalPERS)]](https://www.investopedia.com/terms/c/calpers.asp).
+Collectively, the organizations that have become signatories to these six principles are responsible for a total [[assets under management (AUM)]](https://www.investopedia.com/terms/a/aum.asp) of over $80 trillion. This includes many prominent founding signatories who helped launch the program, such as the Norwegian Government Pension Fund; the Government Pension Fund of Thailand; the Canada [[Pension Plan]] Investment Board; and the [[California Public Employees’ Retirement System (CalPERS)]](https://www.investopedia.com/terms/c/calpers.asp).
 
 ## Example of the UN Principles for Responsible Investment (PRI)
 
