@@ -1,5 +1,5 @@
 ---
-alias: [Building the Depreciation Schedule Review | Plum Solutions]
+alias: [Building the Depreciation Schedule Review]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Building the Depreciation Schedule Review | Plum Solutions, Building the Depreciation Schedule Review]
 source: https://plumsolutions.com.au/quizzes/building-the-depreciation-schedule-review/

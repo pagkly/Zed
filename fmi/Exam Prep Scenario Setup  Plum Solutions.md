@@ -1,5 +1,5 @@
 ---
-alias: [Exam Prep Scenario Setup | Plum Solutions]
+alias: [Exam Prep Scenario Setup]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Exam Prep Scenario Setup | Plum Solutions, Exam Prep Scenario Setup | Plum Solutions]
 source: https://plumsolutions.com.au/topic/exam-prep-scenario-setup/

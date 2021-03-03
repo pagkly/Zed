@@ -1,5 +1,5 @@
 ---
-alias: [Calculating Project Costs | Plum Solutions]
+alias: [Calculating Project Costs]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [Calculating Project Costs | Plum Solutions, Calculating Project Costs | Plum Solutions]
 source: https://plumsolutions.com.au/topic/calculating-project-costs-2/

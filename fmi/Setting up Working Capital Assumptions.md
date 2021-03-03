@@ -1,5 +1,5 @@
 ---
-alias: [Setting up Working Capital Assumptions | Plum Solutions]
+alias: [Setting up Working Capital Assumptions]
 created: 2021-03-03T08:09:26 (UTC -05:00)
 tags: [Setting up Working Capital Assumptions | Plum Solutions, Setting up Working Capital Assumptions]
 source: https://plumsolutions.com.au/topic/setting-up-working-capital-assumptions/

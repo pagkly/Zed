@@ -1,5 +1,5 @@
 ---
-alias: [Completing the Debt Schedule | Plum Solutions]
+alias: [Completing the Debt Schedule]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Completing the Debt Schedule | Plum Solutions, Completing the Debt Schedule | Plum Solutions]
 source: https://plumsolutions.com.au/topic/completing-the-debt-schedule/

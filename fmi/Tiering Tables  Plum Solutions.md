@@ -1,5 +1,5 @@
 ---
-alias: [Tiering Tables | Plum Solutions]
+alias: [Tiering Tables]
 created: 2021-03-03T08:10:33 (UTC -05:00)
 tags: [Tiering Tables | Plum Solutions, Tiering Tables | Plum Solutions]
 source: https://plumsolutions.com.au/topic/tiering-tables-fmi/

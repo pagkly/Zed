@@ -1,5 +1,5 @@
 ---
-alias: [What's New in Excel 2016 | Plum Solutions]
+alias: [What's New in Excel 2016]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [What's New in Excel 2016 | Plum Solutions, What's New in Excel 2016]
 source: https://plumsolutions.com.au/topic/whats-new-in-excel-2016-4/

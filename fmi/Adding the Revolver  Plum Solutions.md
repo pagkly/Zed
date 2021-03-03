@@ -1,5 +1,5 @@
 ---
-alias: [Adding the Revolver | Plum Solutions]
+alias: [Adding the Revolver]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Adding the Revolver | Plum Solutions, Adding the Revolver | Plum Solutions]
 source: https://plumsolutions.com.au/topic/adding-the-revolver/

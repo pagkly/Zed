@@ -1,5 +1,5 @@
 ---
-alias: [Modelling for a Capital Purchase | Plum Solutions]
+alias: [Modelling for a Capital Purchase]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Modelling for a Capital Purchase | Plum Solutions, Modelling for a Capital Purchase]
 source: https://plumsolutions.com.au/topic/modelling-for-a-capital-purchase/

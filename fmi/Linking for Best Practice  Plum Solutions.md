@@ -1,5 +1,5 @@
 ---
-alias: [Linking for Best Practice | Plum Solutions]
+alias: [Linking for Best Practice]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [Linking for Best Practice | Plum Solutions, Linking for Best Practice | Plum Solutions]
 source: https://plumsolutions.com.au/topic/linking-for-best-practice-2/

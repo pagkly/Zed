@@ -1,5 +1,5 @@
 ---
-alias: [Advanced Conditional Formatting | Plum Solutions]
+alias: [Advanced Conditional Formatting]
 created: 2021-03-03T08:10:34 (UTC -05:00)
 tags: [Advanced Conditional Formatting | Plum Solutions, Advanced Conditional Formatting | Plum Solutions]
 source: https://plumsolutions.com.au/topic/advanced-conditional-formatting-fmi/

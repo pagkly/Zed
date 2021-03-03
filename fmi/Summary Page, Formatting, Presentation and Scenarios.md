@@ -1,5 +1,5 @@
 ---
-alias: [Summary Page, Formatting, Presentation and Scenarios | Plum Solutions]
+alias: [Summary Page, Formatting, Presentation and Scenarios]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Summary Page, Formatting, Presentation and Scenarios | Plum Solutions, Summary Page, Formatting, Presentation and Scenarios]
 source: https://plumsolutions.com.au/lessons/summary-page-formatting-presentation-and-scenarios/

@@ -1,5 +1,5 @@
 ---
-alias: [Financial Modelling Techniques | Plum Solutions]
+alias: [Financial Modelling Techniques]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Financial Modelling Techniques | Plum Solutions, Financial Modelling Techniques | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/financial-modelling-techniques-fmi/

@@ -1,5 +1,5 @@
 ---
-alias: [Aggregation Functions | Plum Solutions]
+alias: [Aggregation Functions]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Aggregation Functions | Plum Solutions, Aggregation Functions | Plum Solutions]
 source: https://plumsolutions.com.au/topic/aggregation-functions-2/

@@ -1,5 +1,5 @@
 ---
-alias: [Financial Modelling Best Practice Review | Plum Solutions]
+alias: [Financial Modelling Best Practice Review]
 created: 2021-03-03T08:06:28 (UTC -05:00)
 tags: [Financial Modelling Best Practice Review | Plum Solutions, Financial Modelling Best Practice Review]
 source: https://plumsolutions.com.au/quizzes/financial-modelling-best-practice-review/

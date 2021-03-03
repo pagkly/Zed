@@ -1,5 +1,5 @@
 ---
-alias: [Logical Nested Functions Part 2 | Plum Solutions]
+alias: [Logical Nested Functions Part 2]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Logical Nested Functions Part 2 | Plum Solutions, Logical Nested Functions Part 2]
 source: https://plumsolutions.com.au/topic/logical-nested-functions-part-2-2/

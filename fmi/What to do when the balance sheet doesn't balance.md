@@ -1,5 +1,5 @@
 ---
-alias: [What to do when the balance sheet doesn't balance | Plum Solutions]
+alias: [What to do when the balance sheet doesn't balance]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [What to do when the balance sheet doesn't balance | Plum Solutions, What to do when the balance sheet doesn't balance]
 source: https://plumsolutions.com.au/topic/what-to-do-when-the-balance-sheet-doesnt-balance/

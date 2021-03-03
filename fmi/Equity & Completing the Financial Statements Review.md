@@ -1,5 +1,5 @@
 ---
-alias: [Equity & Completing the Financial Statements Review | Plum Solutions]
+alias: [Equity & Completing the Financial Statements Review]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Equity & Completing the Financial Statements Review | Plum Solutions, Equity & Completing the Financial Statements Review]
 source: https://plumsolutions.com.au/quizzes/equity-completing-the-financial-statements-review/

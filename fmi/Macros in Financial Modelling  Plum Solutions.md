@@ -1,5 +1,5 @@
 ---
-alias: [Macros in Financial Modelling | Plum Solutions]
+alias: [Macros in Financial Modelling]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Macros in Financial Modelling | Plum Solutions, Macros in Financial Modelling | Plum Solutions]
 source: https://plumsolutions.com.au/topic/macros-in-financial-modelling-fmi/

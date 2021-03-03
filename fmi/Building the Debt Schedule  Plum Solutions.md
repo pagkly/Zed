@@ -1,5 +1,5 @@
 ---
-alias: [Building the Debt Schedule | Plum Solutions]
+alias: [Building the Debt Schedule]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Building the Debt Schedule | Plum Solutions, Building the Debt Schedule | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/building-the-debt-schedule/

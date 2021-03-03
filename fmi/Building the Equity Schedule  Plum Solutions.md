@@ -1,5 +1,5 @@
 ---
-alias: [Building the Equity Schedule | Plum Solutions]
+alias: [Building the Equity Schedule]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Building the Equity Schedule | Plum Solutions, Building the Equity Schedule | Plum Solutions]
 source: https://plumsolutions.com.au/topic/building-the-equity-schedule/

@@ -1,5 +1,5 @@
 ---
-alias: [Modelling Depreciation (End of Useful Life) | Plum Solutions]
+alias: [Modelling Depreciation (End of Useful Life)]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Modelling Depreciation (End of Useful Life) | Plum Solutions, Modelling Depreciation (End of Useful Life)]
 source: https://plumsolutions.com.au/topic/modelling-depreciation-end-of-useful-life/

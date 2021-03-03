@@ -1,5 +1,5 @@
 ---
-alias: [The Revenue Schedule and COGS | Plum Solutions]
+alias: [The Revenue Schedule and COGS]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [The Revenue Schedule and COGS | Plum Solutions, The Revenue Schedule and COGS]
 source: https://plumsolutions.com.au/lessons/the-revenue-schedule-and-cogs-fmi/

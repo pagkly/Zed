@@ -1,5 +1,5 @@
 ---
-alias: [Which Ratios to Include | Plum Solutions]
+alias: [Which Ratios to Include]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Which Ratios to Include | Plum Solutions, Which Ratios to Include | Plum Solutions]
 source: https://plumsolutions.com.au/topic/which-ratios-to-include/

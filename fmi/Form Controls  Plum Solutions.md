@@ -1,5 +1,5 @@
 ---
-alias: [Form Controls | Plum Solutions]
+alias: [Form Controls]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Form Controls | Plum Solutions, Form Controls | Plum Solutions]
 source: https://plumsolutions.com.au/topic/form-controls-fmi/

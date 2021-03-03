@@ -1,5 +1,5 @@
 ---
-alias: [Dummies Case Study: Financial Statements Part 3 | Plum Solutions]
+alias: [Dummies Case Study: Financial Statements Part 3]
 created: 2021-03-03T08:06:29 (UTC -05:00)
 tags: [Dummies Case Study: Financial Statements Part 3 | Plum Solutions, Dummies Case Study: Financial Statements Part 3]
 source: https://plumsolutions.com.au/topic/dummies-case-study-financial-statements-part-3/

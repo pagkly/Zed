@@ -1,5 +1,5 @@
 ---
-alias: [Preparatory Case Study: Building a simple vertical model | Plum Solutions]
+alias: [Preparatory Case Study: Building a simple vertical model]
 created: 2021-03-03T08:06:29 (UTC -05:00)
 tags: [Preparatory Case Study: Building a simple vertical model | Plum Solutions, Preparatory Case Study: Building a simple vertical model]
 source: https://plumsolutions.com.au/topic/preparatory-case-study-building-a-simple-vertical-model/

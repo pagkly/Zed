@@ -1,5 +1,5 @@
 ---
-alias: [Model Design | Plum Solutions]
+alias: [Model Design]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Model Design | Plum Solutions, Model Design | Plum Solutions]
 source: https://plumsolutions.com.au/topic/model-design-fmi/

@@ -1,5 +1,5 @@
 ---
-alias: [Learning Materials | Plum Solutions]
+alias: [Learning Materials]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [Learning Materials | Plum Solutions, Learning Materials | Plum Solutions]
 source: https://plumsolutions.com.au/topic/learning-materials/

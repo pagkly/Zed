@@ -1,5 +1,5 @@
 ---
-alias: [Cost of Goods Sold (COGS) | Plum Solutions]
+alias: [Cost of Goods Sold (COGS)]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Cost of Goods Sold (COGS) | Plum Solutions, Cost of Goods Sold (COGS)]
 source: https://plumsolutions.com.au/topic/cost-of-goods-sold-cogs/

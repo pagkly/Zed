@@ -1,5 +1,5 @@
 ---
-alias: [About the Level 1 (AFM) Exam | Plum Solutions]
+alias: [About the Level 1 (AFM) Exam]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [About the Level 1 (AFM) Exam | Plum Solutions, About the Level 1 (AFM) Exam]
 source: https://plumsolutions.com.au/lessons/module-1-about-the-level-1-afm-exam/

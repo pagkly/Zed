@@ -1,5 +1,5 @@
 ---
-alias: [Scenarios, Sensitivities and What-if Analysis | Plum Solutions]
+alias: [Scenarios, Sensitivities and What-if Analysis]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Scenarios, Sensitivities and What-if Analysis | Plum Solutions, Scenarios, Sensitivities and What-if Analysis]
 source: https://plumsolutions.com.au/topic/scenarios-sensitivities-and-what-if-analysis/

@@ -1,5 +1,5 @@
 ---
-alias: [Data Tables | Plum Solutions]
+alias: [Data Tables]
 created: 2021-03-03T08:10:34 (UTC -05:00)
 tags: [Data Tables | Plum Solutions, Data Tables | Plum Solutions]
 source: https://plumsolutions.com.au/topic/data-tables-fmi/

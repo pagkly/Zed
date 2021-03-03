@@ -1,5 +1,5 @@
 ---
-alias: [Anatomy of a Financial Model | Plum Solutions]
+alias: [Anatomy of a Financial Model]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Anatomy of a Financial Model | Plum Solutions, Anatomy of a Financial Model]
 source: https://plumsolutions.com.au/topic/anatomy-of-a-financial-model-fmi/

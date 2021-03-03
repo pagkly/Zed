@@ -1,5 +1,5 @@
 ---
-alias: [Components of the Debt Schedule | Plum Solutions]
+alias: [Components of the Debt Schedule]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Components of the Debt Schedule | Plum Solutions, Components of the Debt Schedule]
 source: https://plumsolutions.com.au/topic/components-of-the-debt-schedule/

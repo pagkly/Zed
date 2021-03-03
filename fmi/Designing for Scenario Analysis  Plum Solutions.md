@@ -1,5 +1,5 @@
 ---
-alias: [Designing for Scenario Analysis | Plum Solutions]
+alias: [Designing for Scenario Analysis]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Designing for Scenario Analysis | Plum Solutions, Designing for Scenario Analysis | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/designing-for-scenario-analysis/

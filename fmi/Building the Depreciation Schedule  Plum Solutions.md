@@ -1,5 +1,5 @@
 ---
-alias: [Building the Depreciation Schedule | Plum Solutions]
+alias: [Building the Depreciation Schedule]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Building the Depreciation Schedule | Plum Solutions, Building the Depreciation Schedule | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/building-the-depreciation-schedule/

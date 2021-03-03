@@ -1,5 +1,5 @@
 ---
-alias: [Assumptions Documentation Methods | Plum Solutions]
+alias: [Assumptions Documentation Methods]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Assumptions Documentation Methods | Plum Solutions, Assumptions Documentation Methods | Plum Solutions]
 source: https://plumsolutions.com.au/topic/assumptions-documentation-methods-3/

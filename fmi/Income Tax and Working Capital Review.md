@@ -1,5 +1,5 @@
 ---
-alias: [Income Tax and Working Capital Review | Plum Solutions]
+alias: [Income Tax and Working Capital Review]
 created: 2021-03-03T08:09:26 (UTC -05:00)
 tags: [Income Tax and Working Capital Review | Plum Solutions, Income Tax and Working Capital Review]
 source: https://plumsolutions.com.au/quizzes/income-tax-and-working-capital-review/

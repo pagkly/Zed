@@ -1,5 +1,5 @@
 ---
-alias: [Designing for Scenario Analysis Review | Plum Solutions]
+alias: [Designing for Scenario Analysis Review]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Designing for Scenario Analysis Review | Plum Solutions, Designing for Scenario Analysis Review]
 source: https://plumsolutions.com.au/quizzes/designing-for-scenario-analysis-review/

@@ -1,5 +1,5 @@
 ---
-alias: [LOOKUP Fundamentals | Plum Solutions]
+alias: [LOOKUP Fundamentals]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [LOOKUP Fundamentals | Plum Solutions, LOOKUP Fundamentals | Plum Solutions]
 source: https://plumsolutions.com.au/topic/lookup-fundamentals-fmi/

@@ -1,5 +1,5 @@
 ---
-alias: [Essential Tools & Formulas | Plum Solutions]
+alias: [Essential Tools & Formulas]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Essential Tools & Formulas | Plum Solutions, Essential Tools & Formulas | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/essential-formulas-fmi/

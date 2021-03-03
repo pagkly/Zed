@@ -1,5 +1,5 @@
 ---
-alias: [Practical Capital Budgeting with LOOKUP functions | Plum Solutions]
+alias: [Practical Capital Budgeting with LOOKUP functions]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Practical Capital Budgeting with LOOKUP functions | Plum Solutions, Practical Capital Budgeting with LOOKUP functions]
 source: https://plumsolutions.com.au/topic/practical-capital-budgeting-with-lookup-functions-2/

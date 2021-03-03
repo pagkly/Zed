@@ -1,5 +1,5 @@
 ---
-alias: [Three Way Modelling Review | Plum Solutions]
+alias: [Three Way Modelling Review]
 created: 2021-03-03T08:06:29 (UTC -05:00)
 tags: [Three Way Modelling Review | Plum Solutions, Three Way Modelling Review | Plum Solutions]
 source: https://plumsolutions.com.au/quizzes/three-way-modelling-review/

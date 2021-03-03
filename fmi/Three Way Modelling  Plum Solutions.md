@@ -1,5 +1,5 @@
 ---
-alias: [Three Way Modelling | Plum Solutions]
+alias: [Three Way Modelling]
 created: 2021-03-03T08:06:28 (UTC -05:00)
 tags: [Three Way Modelling | Plum Solutions, Three Way Modelling | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/three-way-modelling-fmi/

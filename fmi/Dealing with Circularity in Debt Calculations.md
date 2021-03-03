@@ -1,5 +1,5 @@
 ---
-alias: [Dealing with Circularity in Debt Calculations | Plum Solutions]
+alias: [Dealing with Circularity in Debt Calculations]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Dealing with Circularity in Debt Calculations | Plum Solutions, Dealing with Circularity in Debt Calculations]
 source: https://plumsolutions.com.au/topic/dealing-with-circularity-in-debt-calculations/

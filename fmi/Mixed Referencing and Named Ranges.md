@@ -1,5 +1,5 @@
 ---
-alias: [Mixed Referencing and Named Ranges | Plum Solutions]
+alias: [Mixed Referencing and Named Ranges]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Mixed Referencing and Named Ranges | Plum Solutions, Mixed Referencing and Named Ranges]
 source: https://plumsolutions.com.au/topic/mixed-referencing-and-named-ranges-2/

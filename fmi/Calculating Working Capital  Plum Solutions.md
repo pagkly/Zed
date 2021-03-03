@@ -1,5 +1,5 @@
 ---
-alias: [Calculating Working Capital | Plum Solutions]
+alias: [Calculating Working Capital]
 created: 2021-03-03T08:09:26 (UTC -05:00)
 tags: [Calculating Working Capital | Plum Solutions, Calculating Working Capital | Plum Solutions]
 source: https://plumsolutions.com.au/topic/calculating-working-capital/

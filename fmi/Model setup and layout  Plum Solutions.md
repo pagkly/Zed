@@ -1,5 +1,5 @@
 ---
-alias: [Model setup and layout | Plum Solutions]
+alias: [Model setup and layout]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Model setup and layout | Plum Solutions, Model setup and layout | Plum Solutions]
 source: https://plumsolutions.com.au/topic/model-setup-and-layout/

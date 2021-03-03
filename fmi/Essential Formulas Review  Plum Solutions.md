@@ -1,5 +1,5 @@
 ---
-alias: [Essential Formulas Review | Plum Solutions]
+alias: [Essential Formulas Review]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Essential Formulas Review | Plum Solutions, Essential Formulas Review | Plum Solutions]
 source: https://plumsolutions.com.au/quizzes/essential-formulas-review/

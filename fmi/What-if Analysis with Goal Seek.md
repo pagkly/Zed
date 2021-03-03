@@ -1,5 +1,5 @@
 ---
-alias: [What-if Analysis with Goal Seek | Plum Solutions]
+alias: [What-if Analysis with Goal Seek]
 created: 2021-03-03T08:10:34 (UTC -05:00)
 tags: [What-if Analysis with Goal Seek | Plum Solutions, What-if Analysis with Goal Seek]
 source: https://plumsolutions.com.au/topic/what-if-analysis-with-goal-seek-fmi/

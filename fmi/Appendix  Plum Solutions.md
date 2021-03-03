@@ -1,5 +1,5 @@
 ---
-alias: [Appendix | Plum Solutions]
+alias: [Appendix]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Appendix | Plum Solutions, Appendix | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/appendix/

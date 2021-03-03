@@ -1,5 +1,5 @@
 ---
-alias: [Summary page Setup | Plum Solutions]
+alias: [Summary page Setup]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Summary page Setup | Plum Solutions, Summary page Setup | Plum Solutions]
 source: https://plumsolutions.com.au/topic/summary-page-setup/

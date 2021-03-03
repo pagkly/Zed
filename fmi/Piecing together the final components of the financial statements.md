@@ -1,5 +1,5 @@
 ---
-alias: [Piecing together the final components of the financial statements | Plum Solutions]
+alias: [Piecing together the final components of the financial statements]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Piecing together the final components of the financial statements | Plum Solutions, Piecing together the final components of the financial statements]
 source: https://plumsolutions.com.au/topic/piecing-together-the-final-components-of-the-financial-statements/

@@ -1,5 +1,5 @@
 ---
-alias: [Mock Exam Case study | Plum Solutions]
+alias: [Mock Exam Case study]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Mock Exam Case study | Plum Solutions, Mock Exam Case study | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/mock-exam/

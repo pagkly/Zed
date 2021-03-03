@@ -1,5 +1,5 @@
 ---
-alias: [Financial Modelling Techniques Review | Plum Solutions]
+alias: [Financial Modelling Techniques Review]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Financial Modelling Techniques Review | Plum Solutions, Financial Modelling Techniques Review | Plum Solutions]
 source: https://plumsolutions.com.au/quizzes/financial-modelling-techniques-2/

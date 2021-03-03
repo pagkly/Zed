@@ -1,5 +1,5 @@
 ---
-alias: [Equity Schedule Case Study | Plum Solutions]
+alias: [Equity Schedule Case Study]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Equity Schedule Case Study | Plum Solutions, Equity Schedule Case Study | Plum Solutions]
 source: https://plumsolutions.com.au/topic/equity-schedule-case-study/

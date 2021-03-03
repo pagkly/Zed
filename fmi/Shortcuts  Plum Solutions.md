@@ -1,5 +1,5 @@
 ---
-alias: [Shortcuts | Plum Solutions]
+alias: [Shortcuts]
 created: 2021-03-03T08:06:28 (UTC -05:00)
 tags: [Shortcuts | Plum Solutions, Shortcuts | Plum Solutions]
 source: https://plumsolutions.com.au/topic/shortcuts/

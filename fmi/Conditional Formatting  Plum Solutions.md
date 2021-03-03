@@ -1,5 +1,5 @@
 ---
-alias: [Conditional Formatting | Plum Solutions]
+alias: [Conditional Formatting]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Conditional Formatting | Plum Solutions, Conditional Formatting | Plum Solutions]
 source: https://plumsolutions.com.au/topic/conditional-formatting-3/

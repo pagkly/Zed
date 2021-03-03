@@ -1,5 +1,5 @@
 ---
-alias: [Depreciation Schedule Waterfall | Plum Solutions]
+alias: [Depreciation Schedule Waterfall]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Depreciation Schedule Waterfall | Plum Solutions, Depreciation Schedule Waterfall | Plum Solutions]
 source: https://plumsolutions.com.au/topic/depreciation-schedule-waterfall/

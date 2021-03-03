@@ -1,5 +1,5 @@
 ---
-alias: [Modelling a Revolver Line of Credit | Plum Solutions]
+alias: [Modelling a Revolver Line of Credit]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Modelling a Revolver Line of Credit | Plum Solutions, Modelling a Revolver Line of Credit]
 source: https://plumsolutions.com.au/topic/modelling-a-revolver-line-of-credit/

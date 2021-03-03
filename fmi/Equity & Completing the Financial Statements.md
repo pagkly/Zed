@@ -1,5 +1,5 @@
 ---
-alias: [Equity & Completing the Financial Statements | Plum Solutions]
+alias: [Equity & Completing the Financial Statements]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Equity & Completing the Financial Statements | Plum Solutions, Equity & Completing the Financial Statements]
 source: https://plumsolutions.com.au/lessons/equity-completing-the-financial-statements/

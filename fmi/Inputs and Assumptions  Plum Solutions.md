@@ -1,5 +1,5 @@
 ---
-alias: [Inputs and Assumptions | Plum Solutions]
+alias: [Inputs and Assumptions]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Inputs and Assumptions | Plum Solutions, Inputs and Assumptions | Plum Solutions]
 source: https://plumsolutions.com.au/topic/inputs-and-assumptions/

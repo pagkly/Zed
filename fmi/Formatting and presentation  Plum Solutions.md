@@ -1,5 +1,5 @@
 ---
-alias: [Formatting and presentation | Plum Solutions]
+alias: [Formatting and presentation]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Formatting and presentation | Plum Solutions, Formatting and presentation | Plum Solutions]
 source: https://plumsolutions.com.au/topic/formatting-and-presentation/

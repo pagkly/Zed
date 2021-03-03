@@ -1,5 +1,5 @@
 ---
-alias: [The Grading Process | Plum Solutions]
+alias: [The Grading Process]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [The Grading Process | Plum Solutions, The Grading Process | Plum Solutions]
 source: https://plumsolutions.com.au/topic/the-grading-process/

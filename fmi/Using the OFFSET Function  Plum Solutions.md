@@ -1,5 +1,5 @@
 ---
-alias: [Using the OFFSET Function | Plum Solutions]
+alias: [Using the OFFSET Function]
 created: 2021-03-03T08:10:33 (UTC -05:00)
 tags: [Using the OFFSET Function | Plum Solutions, Using the OFFSET Function | Plum Solutions]
 source: https://plumsolutions.com.au/topic/using-the-offset-function-fmi/

@@ -1,5 +1,5 @@
 ---
-alias: [Debt Definitions | Plum Solutions]
+alias: [Debt Definitions]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Debt Definitions | Plum Solutions, Debt Definitions | Plum Solutions]
 source: https://plumsolutions.com.au/topic/debt-definitions/

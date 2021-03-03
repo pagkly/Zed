@@ -1,5 +1,5 @@
 ---
-alias: [Data Validations & Drop-downs | Plum Solutions]
+alias: [Data Validations & Drop-downs]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Data Validations & Drop-downs | Plum Solutions, Data Validations & Drop-downs | Plum Solutions]
 source: https://plumsolutions.com.au/topic/data-validations-drop-downs-2/

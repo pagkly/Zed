@@ -1,5 +1,5 @@
 ---
-alias: [Scenario Manager | Plum Solutions]
+alias: [Scenario Manager]
 created: 2021-03-03T08:10:34 (UTC -05:00)
 tags: [Scenario Manager | Plum Solutions, Scenario Manager | Plum Solutions]
 source: https://plumsolutions.com.au/topic/scenario-manager-fmi/

@@ -1,5 +1,5 @@
 ---
-alias: [Lookup Functions | Plum Solutions]
+alias: [Lookup Functions]
 created: 2021-03-03T08:09:28 (UTC -05:00)
 tags: [Lookup Functions | Plum Solutions, Lookup Functions | Plum Solutions]
 source: https://plumsolutions.com.au/topic/lookup-functions-fmi/

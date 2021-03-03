@@ -1,5 +1,5 @@
 ---
-alias: [Income Tax and Working Capital | Plum Solutions]
+alias: [Income Tax and Working Capital]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Income Tax and Working Capital | Plum Solutions, Income Tax and Working Capital]
 source: https://plumsolutions.com.au/lessons/income-tax-expense-and-working-capital-fmi/

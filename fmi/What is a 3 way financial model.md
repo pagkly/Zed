@@ -1,5 +1,5 @@
 ---
-alias: [What is a 3 way financial model? | Plum Solutions]
+alias: [What is a 3 way financial model?]
 created: 2021-03-03T08:06:28 (UTC -05:00)
 tags: [What is a 3 way financial model? | Plum Solutions, What is a 3 way financial model?]
 source: https://plumsolutions.com.au/topic/what-is-a-3-way-financial-model/

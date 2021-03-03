@@ -1,5 +1,5 @@
 ---
-alias: [Model Planning, Setup and Assumptions | Plum Solutions]
+alias: [Model Planning, Setup and Assumptions]
 created: 2021-03-03T08:06:29 (UTC -05:00)
 tags: [Model Planning, Setup and Assumptions | Plum Solutions, Model Planning, Setup and Assumptions]
 source: https://plumsolutions.com.au/lessons/model-planning-setup-and-assumptions-fmi/

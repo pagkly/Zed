@@ -1,5 +1,5 @@
 ---
-alias: [Formula Selection | Plum Solutions]
+alias: [Formula Selection]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Formula Selection | Plum Solutions, Formula Selection | Plum Solutions]
 source: https://plumsolutions.com.au/topic/formula-selection-fmi/

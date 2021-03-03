@@ -1,5 +1,5 @@
 ---
-alias: [Financial Modelling Best Practice | Plum Solutions]
+alias: [Financial Modelling Best Practice]
 created: 2021-03-03T08:03:32 (UTC -05:00)
 tags: [Financial Modelling Best Practice | Plum Solutions, Financial Modelling Best Practice | Plum Solutions]
 source: https://plumsolutions.com.au/lessons/module-3-financial-modelling-best-practice/

@@ -1,5 +1,5 @@
 ---
-alias: [Setting up the Revenue Schedule | Plum Solutions]
+alias: [Setting up the Revenue Schedule]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Setting up the Revenue Schedule | Plum Solutions, Setting up the Revenue Schedule]
 source: https://plumsolutions.com.au/topic/setting-up-the-revenue-schedule/

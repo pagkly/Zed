@@ -1,5 +1,5 @@
 ---
-alias: [Excel Skills Review | Plum Solutions]
+alias: [Excel Skills Review]
 created: 2021-03-03T08:03:31 (UTC -05:00)
 tags: [Excel Skills Review | Plum Solutions, Excel Skills Review | Plum Solutions]
 source: https://plumsolutions.com.au/quizzes/excel-skills-review/

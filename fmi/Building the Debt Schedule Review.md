@@ -1,5 +1,5 @@
 ---
-alias: [Building the Debt Schedule Review | Plum Solutions]
+alias: [Building the Debt Schedule Review]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Building the Debt Schedule Review | Plum Solutions, Building the Debt Schedule Review]
 source: https://plumsolutions.com.au/quizzes/building-the-debt-schedule-review/

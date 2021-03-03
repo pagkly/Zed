@@ -1,5 +1,5 @@
 ---
-alias: [Completing the Revenue Schedule | Plum Solutions]
+alias: [Completing the Revenue Schedule]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Completing the Revenue Schedule | Plum Solutions, Completing the Revenue Schedule | Plum Solutions]
 source: https://plumsolutions.com.au/topic/completing-the-revenue-schedule/

@@ -1,5 +1,5 @@
 ---
-alias: [What to expect on Exam day | Plum Solutions]
+alias: [What to expect on Exam day]
 created: 2021-03-03T08:03:30 (UTC -05:00)
 tags: [What to expect on Exam day | Plum Solutions, What to expect on Exam day]
 source: https://plumsolutions.com.au/topic/what-to-expect-on-exam-day/

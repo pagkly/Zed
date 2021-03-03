@@ -1,5 +1,5 @@
 ---
-alias: [Depreciation in Financial Modelling | Plum Solutions]
+alias: [Depreciation in Financial Modelling]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Depreciation in Financial Modelling | Plum Solutions, Depreciation in Financial Modelling | Plum Solutions]
 source: https://plumsolutions.com.au/topic/depreciation-in-financial-modelling/

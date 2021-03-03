@@ -1,5 +1,5 @@
 ---
-alias: [Error Checks | Plum Solutions]
+alias: [Error Checks]
 created: 2021-03-03T08:09:27 (UTC -05:00)
 tags: [Error Checks | Plum Solutions, Error Checks | Plum Solutions]
 source: https://plumsolutions.com.au/topic/error-checks/

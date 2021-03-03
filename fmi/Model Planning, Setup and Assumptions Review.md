@@ -1,5 +1,5 @@
 ---
-alias: [Model Planning, Setup and Assumptions Review | Plum Solutions]
+alias: [Model Planning, Setup and Assumptions Review]
 created: 2021-03-03T08:06:30 (UTC -05:00)
 tags: [Model Planning, Setup and Assumptions Review | Plum Solutions, Model Planning, Setup and Assumptions Review]
 source: https://plumsolutions.com.au/quizzes/model-planning-setup-and-assumptions-review/
