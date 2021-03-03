@@ -72,15 +72,11 @@ def link_content(content):
     return content
 
 
-
-
-else:
-    print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
-    print("-r = regenerate the aliases.md file using yaml frontmatter inside vault markdown files")
-    print("-y = use aliases.yml as aliases file instead of aliases.md")
-    print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")
-    print("-p = only the first occurrence of a page title (or alias) in each paragraph will be linked ('paragraph mode')")
-    exit()
+#print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
+#print("-r = regenerate the aliases.md file using yaml frontmatter inside vault markdown files")
+#print("-y = use aliases.yml as aliases file instead of aliases.md")
+#print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")
+#print("-p = only the first occurrence of a page title (or alias) in each paragraph will be linked ('paragraph mode')")
 
 
 from sys import platform
