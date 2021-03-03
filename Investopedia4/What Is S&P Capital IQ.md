@@ -1,7 +1,7 @@
 ---
 alias: [S&P Capital IQ]
 created: 2021-03-02T18:46:49 (UTC +11:00)
-tags: [S&P Capital IQ Definition, What Is S&P Capital IQ?]
+tags: [S&P Capital IQ Definition, [[What Is S&P Capital IQ]]?]
 source: https://www.investopedia.com/terms/c/capital-iq.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is S&P Capital IQ?
-## What Is S&P Capital IQ?
+[[What Is S&P Capital IQ]]?
+## [[What Is S&P Capital IQ]]?
 
 S&P Capital IQ is the research division of [[S&P Global]](https://www.investopedia.com/terms/s/sp.asp), one of the world's largest providers of ratings, data, research, and the S&P Dow Jones Indices. S&P Capital IQ provides detailed research and analysis of the [[stock market]](https://www.investopedia.com/terms/s/stockmarket.asp) to a variety of investing stakeholders.
 
@@ -32,22 +32,22 @@ Standard & Poor’s was established in 1941 and has grown to become the world’
 
 ## How S&P Capital IQ Works
 
-S&P Capital IQ’s web portal offers various software and data feeds to [[advisory firms]](https://www.investopedia.com/articles/professionals/080615/5-biggest-financial-advisory-firms-us.asp), banks, corporations, [[investment managers]](https://www.investopedia.com/terms/i/investment-manager.asp), private equity funds, universities, and more, providing overall market awareness and [[investment analysis]](https://www.investopedia.com/terms/i/investment-analysis.asp) audiences can use to inform their [[investment strategies]](https://www.investopedia.com/articles/trading/10/creating-a-better-investment-strategy.asp).
+S&P Capital IQ’s web portal offers various software and data feeds to [[advisory firms]](https://www.investopedia.com/articles/professionals/080615/5-biggest-financial-advisory-firms-us.asp), banks, corporations, [[investment managers]](https://www.investopedia.com/terms/i/investment-manager.asp), private [[Equity|equity]] funds, universities, and more, providing overall market awareness and [[investment analysis]](https://www.investopedia.com/terms/i/investment-analysis.asp) audiences can use to inform their [[investment strategies]](https://www.investopedia.com/articles/trading/10/creating-a-better-investment-strategy.asp).
 
 Every year, S&P Capital IQ collects and analyzes more than 135 billion data points in order to serve as the leading provider of financial services research. The data S&P Capital IQ collects and reports to its users includes company profiles, executive summaries, financial information, and independent analyst reports.
 
 ## Understanding S&P Capital IQ
 
-S&P Capital IQ investigates financial news, market insights, company performance data, and [[sector-specific data]](https://www.investopedia.com/terms/s/sector-analysis.asp). The firm provides subscribers with intelligence on more than 62,000 public companies and 4.4 million private firms. According to the company's website, it covers financials for 88,000 publicly-listed companies or 99% of global market capitalization.
+S&P Capital IQ investigates financial news, market insights, company performance data, and [[sector-specific data]](https://www.investopedia.com/terms/s/sector-analysis.asp). The firm provides subscribers with intelligence on more than 62,000 public companies and 4.4 million private firms. According to the company's website, it covers financials for 88,000 publicly-[[Listed|listed]] companies or 99% of global [[Market Capitalization|market capitalization]].
 
-Additionally, S&P Capital IQ researches and analyzes more complex investment structures, including mutual funds and hedge funds, providing investors with up-to-date performance comparisons, insights, and fund strategies.
+Additionally, S&P Capital IQ researches and analyzes more complex investment structures, including mutual funds and [[Hedge|hedge]] funds, providing investors with up-to-date performance comparisons, insights, and fund strategies.
 
 Capital IQ's widespread approach to market analysis provides information that can be valuable to investors of all types, ranging from large institutional traders to smaller, individual investors, and financial hobbyists.
 
 ## Capital IQ Products and Services
 
-The web portal for Capital IQ’s products offers many powerful tools for institutional and individual investors alike. These tools give users the ability to gain broad market understanding through the use of its various features, including market snapshots, industry and sub-industry reviews, surveys, and general economic insights.
+The web portal for Capital IQ’s products offers many powerful tools for institutional and individual investors alike. These tools give users the ability to [[Gain|gain]] broad market understanding through the use of its various features, including market snapshots, industry and sub-industry reviews, surveys, and general economic insights.
 
-Major products of the Capital IQ platform include Compustat, Xpressfeed, and Money Market Directories (MMD). Together, this suite of tools provides users access to desktop research, screening, real-time market data, backtesting, portfolio management, financial modeling, and quantitative analysis through web-based and Excel-based applications.
+Major products of the Capital IQ platform include Compustat, Xpressfeed, and [[Money Market]] Directories (MMD). Together, this suite of tools provides users access to desktop research, screening, real-time market data, backtesting, [[Portfolio|portfolio]] management, financial modeling, and quantitative analysis through web-based and Excel-based applications.
 
-[Compustat](https://www.investopedia.com/terms/c/compustat.asp), one of Standard & Poor's flagship services, has provided financial and statistical market data since 1962, and the Xpressfeed service is a formatting and delivery method of the Compustat database that permits users the ability to access and interpret real-time market data using their own tools. Money Market Directories are a powerful prospecting tool, offering comprehensive, global insights into foundations, endowments, and similar funding sources.
+[Compustat](https://www.investopedia.com/terms/c/compustat.asp), one of Standard & Poor's flagship services, has provided financial and statistical market data since 1962, and the Xpressfeed service is a formatting and delivery method of the Compustat database that permits users the ability to access and interpret real-time market data using their own tools. [[Money Market]] Directories are a powerful prospecting tool, [[Offering|offering]] comprehensive, global insights into foundations, endowments, and similar funding sources.

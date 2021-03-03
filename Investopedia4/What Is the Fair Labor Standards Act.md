@@ -1,9 +1,9 @@
 ---
 alias: [Fair Labor Standards Act]
 created: 2021-03-02T19:50:26 (UTC +11:00)
-tags: [Fair Labor Standards Act Definition, What Is the Fair Labor Standards Act?]
+tags: [Fair Labor Standards Act Definition, [[What Is the Fair Labor Standards Act]]?]
 source: https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Fair Labor Standards Act Definition
@@ -13,10 +13,10 @@ author: Will Kenton
 
 ---
 
-What Is the Fair Labor Standards Act?
-## What Is the Fair Labor Standards Act (FLSA)?
+[[What Is the Fair Labor Standards Act]]?
+## [[What Is the Fair Labor Standards Act]] (FLSA)?
 
-The Fair Labor Standards Act (FLSA) is a U.S. law that is intended to protect workers against certain unfair pay practices. As such, the FLSA sets out various labor regulations regarding interstate commerce employment, including [[minimum wages]](https://www.investopedia.com/terms/m/minimum_wage.asp), requirements for overtime pay, and limitations on child labor. The FLSA—which was passed in 1938 and has seen numerous changes—is one of the most important laws for employers to understand, as it sets out a wide array of regulations for dealing with employees, [[whether salaried or paid by the hour]](https://www.investopedia.com/articles/personal-finance/031115/salary-vs-hourly-how-benefits-laws-differ.asp).1
+The Fair Labor Standards Act (FLSA) is a U.S. law that is intended to protect workers against certain unfair pay practices. As such, the FLSA sets out various labor regulations regarding interstate [[Commerce|commerce]] employment, including [[minimum wages]](https://www.investopedia.com/terms/m/minimum_wage.asp), requirements for overtime pay, and limitations on child labor. The FLSA—which was passed in 1938 and has seen numerous changes—is one of the most important laws for employers to understand, as it sets out a wide array of regulations for dealing with employees, [[whether salaried or paid by the hour]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/031115/salary-vs-hourly-how-benefits-laws-differ.asp).1
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ The Fair Labor Standards Act (FLSA) is a U.S. law that is intended to protect wo
 
 The FLSA specifies when workers are “on the clock” and which times are not paid hours. There are also elaborate rules concerning whether employees are [[exempt]](https://www.investopedia.com/terms/e/exempt-employee.asp) or [[nonexempt]](https://www.investopedia.com/terms/n/nonexempt-employee.asp) from the FLSA overtime regulations. The law requires overtime to be paid at 1.5 times the regular hourly rate (“time-and-a-half”) for all hours worked in excess of 40 hours during a seven-day workweek.2
 
-The FLSA applies to workers who have an employer and are engaged in interstate commerce or in the production of goods for commerce; it also applies to workers who are employed by an enterprise engaged in commerce or the production of goods for commerce. Further included are domestic service workers (housekeepers, cooks, full-time babysitters) and employees of hospitals; schools for mentally or physically disabled or gifted children; educational institutions at any level, from preschools to universities; and public agencies.3 4
+The FLSA applies to workers who have an employer and are engaged in interstate [[Commerce|commerce]] or in the production of goods for commerce; it also applies to workers who are employed by an enterprise engaged in commerce or the production of goods for commerce. Further included are domestic service workers (housekeepers, cooks, full-time babysitters) and employees of hospitals; schools for mentally or physically disabled or gifted children; educational institutions at any level, from preschools to universities; and public agencies.3 4
 
 It does not apply to [[independent contractors]](https://www.investopedia.com/terms/i/independent-contractor.asp) or volunteers because they are not considered employees.5 Employers that have at least $500,000 per year in [[gross sales]](https://www.investopedia.com/terms/g/grosssales.asp) or other business are subject to the requirements of the FLSA, which means that their employees are eligible for FLSA protections.4
 

@@ -1,19 +1,19 @@
 ---
 alias: [Output Gap]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Output Gap Definition, What Is the Definition of Output Gap?]
+tags: [Output [[Gap Definition]], [[What Is the Definition of Output Gap]]?]
 source: https://www.investopedia.com/terms/o/outputgap.asp
 author: Christina Majaski
 ---
 
-# Output Gap Definition
+# Output [[Gap Definition]]
 
 > ## Excerpt
 > An output gap is an economic measure of the difference between the actual output of an economy and the output it could achieve when at full capacity.
 
 ---
 
-What Is the Definition of Output Gap?
+[[What Is the Definition of Output Gap]]?
 ## What Is an Output Gap?
 
 An output gap indicates the difference between the actual output of an economy and the maximum potential output of an economy expressed as a percentage of [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP). A country's output gap may be either positive or negative.
@@ -22,7 +22,7 @@ A negative output gap suggests that actual economic output is below the economy'
 
 ## Calculating the Output Gap
 
-The output gap is a comparison between actual GDP (output) and potential GDP (maximum-efficiency output). It is difficult to calculate because it is difficult to estimate an economy's optimal level of [[operating efficiency]](https://www.investopedia.com/terms/o/operationalefficiency.asp). There is little consensus among economists about the best way to measure potential gross domestic product, but most agree that full employment would be a key component of maximum output.
+The output gap is a comparison between actual GDP (output) and potential GDP (maximum-efficiency output). It is difficult to calculate because it is difficult to estimate an economy's optimal level of [[operating efficiency]](https://www.investopedia.com/terms/o/operationalefficiency.asp). There is little consensus among economists about the best way to measure potential gross domestic product, but most agree that [[Full Employment|full employment]] would be a key component of maximum output.
 
 A method that can be used to project potential GDP is to run a [[trend line]](https://www.investopedia.com/terms/t/trendline.asp) through actual GDP over several decades or enough time to limit the impact of short-term peaks and valleys. By following the trend line, one can estimate where the gross domestic product should be right now or at a point in the near future.
 

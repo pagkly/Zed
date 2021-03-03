@@ -1,7 +1,7 @@
 ---
 alias: [The Definition of the Underground Economy]
 created: 2021-03-03T00:15:20 (UTC +11:00)
-tags: [The Definition of the Underground Economy, What Is the Underground Economy and How Does It Work?]
+tags: [The Definition of the Underground Economy, [[What Is the Underground Economy and How Does It Work]]?]
 source: https://www.investopedia.com/terms/u/underground-economy.asp
 author: Andrew Bloomenthal
 ---
@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-What Is the Underground Economy and How Does It Work?
+[[What Is the Underground Economy and How Does It Work]]?
 ## What Is the Underground Economy?
 
 The underground economy refers to economic transactions that are deemed illegal, either because the goods or services traded are unlawful in nature, or because transactions fail to comply with governmental reporting requirements. Also called the shadow economy, the [[black market]](https://www.investopedia.com/terms/b/blackmarket.asp), or the informal economy, the underground economy in the United States is comprised mainly of the sale of street drugs and illegal prostitution. However, other examples of the shadow economy exist as well.
@@ -24,7 +24,7 @@ It is difficult to accurately gauge the size of underground economies because, 
 
 ### Key Takeaways
 
--   While estimates vary, some put the underground economy at 11% to 12% of U.S. gross domestic product (GDP), or roughly $2.25 to $2.5 trillion. 
+-   While estimates vary, some put the underground economy at 11% to 12% of U.S. [[Gross Domestic Product (GDP)|gross domestic product (GDP)]], or roughly $2.25 to $2.5 trillion. 
 -   Elements of the underground economy vary from nation to nation, state to state, and in some cases, municipality to municipality.
 -   Alternative names for the underground economy include the shadow economy, the black market, and the informal economy.
 -   Marketing in illegal drugs, human trafficking, endangered species, human organs, antiquities, and stolen goods are examples of activity in the underground economy.
@@ -41,7 +41,7 @@ Depending on the context, the impact of underground economies can range from har
 
 ## Real-World Example of the Underground Economy
 
-In the early 1900s, Mexican immigrants introduced recreational marijuana use to the United States. During the Great Depression, high unemployment rates triggered a spike in marijuana consumption, which (coupled with racist sentiments at the time) led to research that linked marijuana to violent crime.
+In the early 1900s, Mexican immigrants introduced recreational marijuana use to the United States. During the Great Depression, high [[Unemployment|unemployment]] rates triggered a spike in marijuana consumption, which (coupled with racist sentiments at the time) led to research that linked marijuana to violent crime.
 
 Consequently, by 1931, 29 U.S. states outlawed the drug. Nonetheless, many people deemed the plant to be harmless and continued buying and selling it illegally. Subsequent studies refuted the idea that marijuana was linked to crime while declaring that the drug was neither addictive nor a gateway to other drugs. Instead, proponents argue, marijuana has proven to be therapeutically helpful in treating illnesses such as cancer and AIDS.
 
@@ -55,6 +55,6 @@ Meanwhile, according to a _CNN Business_ article, an estimated 60% of cigarette 
 
 All such under-the-table transactions, in which participants fail to report their income to the IRS or the state, are technically considered to be underground economic activities. This status can even apply to babysitters who don't report the cash that they pocket after watching Junior down the street.
 
-The IRS considers money earned from babysitting as taxable self-employment income and, when the amount is greater than $400 for the year (as of 2019), must be reported when the individual files their tax return.
+The IRS considers money earned from babysitting as taxable [[Self-Employment|self-employment]] income and, when the amount is greater than $400 for the year (as of 2019), must be reported when the individual files their [[Tax Return|tax return]].
 
 Other primary examples of underground economic activity include the untaxed sale of physical goods and the smuggling of goods into a country to avoid paying [[duties at the border]](https://www.investopedia.com/terms/d/duty.asp). Human trafficking operations also comprise the underground economy, as do the markets for copyrighted materials, endangered animal species, antiquities, and illegally-harvested human organs.

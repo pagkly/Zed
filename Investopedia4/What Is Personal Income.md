@@ -1,7 +1,7 @@
 ---
 alias: [Personal Income]
 created: 2021-03-02T22:42:35 (UTC +11:00)
-tags: [Personal Income Definition, What Is Personal Income?]
+tags: [Personal Income Definition, [[What Is Personal Income]]?]
 source: https://www.investopedia.com/terms/p/personalincome.asp
 author: Julia Kagan
 ---
@@ -13,20 +13,20 @@ author: Julia Kagan
 
 ---
 
-What Is Personal Income?
-## What Is Personal Income?
+[[What Is Personal Income]]?
+## [[What Is Personal Income]]?
 
-Personal income refers to all income collectively received by all individuals or households in a country. Personal income includes compensation from a number of sources, including salaries, wages, and bonuses received from employment or self-employment, dividends and [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) received from investments, rental receipts from real estate investments, and profit sharing from businesses.
+Personal income refers to all income collectively received by all individuals or households in a country. Personal income includes compensation from a number of sources, including salaries, wages, and bonuses received from employment or [[Self-Employment|self-employment]], dividends and [[distributions]](https://www.investopedia.com/terms/d/distribution.asp) received from investments, rental receipts from real [[Estate|estate]] investments, and profit sharing from businesses.
 
 ### Key Takeaways
 
 -   Personal income is the amount of money collectively received by the inhabitants of a country.
 -   Sources of personal income include money earned from employment, dividends and distributions paid by investments, rents derived from property ownership, and profit sharing from businesses.
--   Personal income is generally subject to taxation.
+-   Personal income is generally subject to [[Taxation|taxation]].
 
 ## Understanding Personal Income
 
-The term “personal income” is sometimes used to refer to the total compensation received by an individual, but this is more aptly referred to as “individual income.” In most jurisdictions personal income, also called “gross income,” is [[subject to taxation above a certain base amount]](https://www.investopedia.com/ask/answers/070915/what-difference-between-taxable-income-and-gross-income.asp).
+The term “personal income” is sometimes used to refer to the total compensation received by an individual, but this is more aptly referred to as “individual income.” In most jurisdictions personal income, also called “[[Gross Income|gross income]],” is [[subject to taxation above a certain base amount]](https://www.investopedia.com/ask/answers/070915/what-difference-between-taxable-income-and-gross-income.asp).
 
 Personal income has a large effect on consumer consumption. As [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) drives much of the economy, national statistical organizations, economists, and analysts track personal income on a quarterly or annual basis. In the United States, the [[Bureau of Economic Analysis (BEA)]](https://www.investopedia.com/terms/b/bea.asp) tracks personal income statistics each month and compares them to numbers from the previous month. The agency also breaks out the numbers into categories, such as personal income earned through employment wages, rental income, farming, and [[sole proprietorship]](https://www.investopedia.com/terms/s/soleproprietorship.asp). This allows the agency to make analyses about how earning trends are changing.1
 

@@ -1,7 +1,7 @@
 ---
 alias: [Supranational]
 created: 2021-03-02T23:50:09 (UTC +11:00)
-tags: [Supranational Definition, What Makes the EU Supranational?]
+tags: [Supranational Definition, [[What Makes the EU Supranational]]?]
 source: https://www.investopedia.com/terms/s/supranational.asp
 author: Marshall Hargrave
 ---
@@ -13,12 +13,12 @@ author: Marshall Hargrave
 
 ---
 
-What Makes the EU Supranational?
+[[What Makes the EU Supranational]]?
 ## What Does Supranational Mean?
 
-A supranational organization is a multinational union or association in which member countries cede authority and sovereignty on at least some internal matters to the group, whose decisions are binding on its members. In short, member states share in decision making on matters that will affect each country's citizens.
+A supranational organization is a multinational union or association in which member countries cede authority and sovereignty on at least some internal matters to the group, whose decisions are binding on its members. In short, member states share in decision making on matters that [[Will|will]] affect each country's citizens.
 
-The EU, United Nations and the World Trade Organization (WTO) are all supranational groups, to one degree or another. In the EU, each member votes on policies that will affect each other member nation.
+The EU, United Nations and the World Trade Organization (WTO) are all supranational groups, to one degree or another. In the EU, each member votes on policies that [[Will|will]] affect each other member nation.
 
 Such supranational organizations are seen by many as a better way to govern the affairs of nations, with an eye to preventing conflict and promoting cooperation, particularly on economic and military matters. Some critics, particularly those with nationalist tendencies, resent following internationally agreed rules and charge that adhering to the decisions of supranational organizations amounts to surrendering the sovereignty of member states and their people.
 
@@ -43,4 +43,4 @@ The best example of a supranational entity—and the closest thing to a true sup
 
 Following World War II, Albert Einstein even advocated for a supranational organization that would control military forces. Einstein suggested the organization include the U.S., Soviet Union, and Great Britain but such an organization was never formed.
 
-The EU has evolved dramatically in the seven decades since the founding of the European Coal and Steel Community but its growth hasn't come without pain. A populist backlash over economic insecurity and globalization led people of Great Britain to take the unprecedented step of voting to leave the EU in 2016.
+The EU has evolved dramatically in the seven decades since the founding of the European Coal and Steel Community but its growth hasn't come without pain. A populist backlash over economic insecurity and [[Globalization|globalization]] led people of Great Britain to take the unprecedented step of voting to leave the EU in 2016.

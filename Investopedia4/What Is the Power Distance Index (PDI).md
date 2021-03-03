@@ -1,9 +1,9 @@
 ---
 alias: [Power-Distance Index, PDI]
 created: 2021-03-02T22:47:29 (UTC +11:00)
-tags: [Power-Distance Index (PDI), What Is the Power Distance Index (PDI)?]
+tags: [Power-Distance Index (PDI), [[What Is the Power Distance Index (PDI)]]?]
 source: https://www.investopedia.com/terms/p/power-distance-index-pdi.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Power-Distance Index (PDI)
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What Is the Power Distance Index (PDI)?
+[[What Is the Power Distance Index (PDI)]]?
 ## What Is the Power-Distance Index (PDI)?
 
 The power-distance index (PDI) is a measurement of the acceptance of a hierarchy of power and wealth by the individuals who make up the general population of a nation, culture, or business. Developed by Dutch social psychologist Geert Hofstede, the PDI ultimately provides insight into the extent to which regular citizens, or subordinates, accept or challenge the authority of the person or people in charge.
@@ -38,7 +38,7 @@ The power-distance index is one component of Hofstede’s cultural dimensions th
 
 Driven by factor analysis, the cultural dimensions theory in its original form was based on the results of Hofstede’s global survey of the values of IBM employees. Testing and collection of the results were conducted between 1967 and 1973.
 
-Based on these and other results, Hofstede determined that there are six distinct dimensions to every culture: power distance, uncertainty avoidance, individualism versus collectivism, short term versus long term, masculinity versus femininity, and self-restraint versus indulgence.
+Based on these and other results, Hofstede determined that there are six distinct dimensions to every culture: power distance, uncertainty avoidance, individualism versus collectivism, short term versus [[Long Term|long term]], masculinity versus femininity, and self-restraint versus indulgence.
 
 ### 40
 

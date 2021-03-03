@@ -1,7 +1,7 @@
 ---
 alias: [Net Exports]
 created: 2021-03-02T21:36:55 (UTC +11:00)
-tags: [Net Exports Definition, What Is the Net Exports Formula?]
+tags: [Net Exports Definition, [[What Is the Net Exports Formula]]?]
 source: https://www.investopedia.com/terms/n/netexports.asp
 author: Christina Majaski
 ---
@@ -13,12 +13,12 @@ author: Christina Majaski
 
 ---
 
-What Is the Net Exports Formula?
+[[What Is the Net Exports Formula]]?
 ## What Are Net Exports?
 
 Net exports are a measure of a nation's total trade. The formula for net exports is a simple one: The value of a nation's total export goods and services minus the value of all the goods and services it imports equal its net exports.
 
-A nation that has positive net exports enjoys a trade surplus, while negative net exports mean the nation has a trade deficit.
+A nation that has positive net exports enjoys a trade [[Surplus|surplus]], while negative net exports mean the nation has a [[Trade Deficit|trade deficit]].
 
 A nation's net exports may also be called its [[balance of trade]](https://www.investopedia.com/terms/b/bot.asp).
 
@@ -29,12 +29,12 @@ Some economists believe that running a consistent [[trade deficit]](https://www.
 ### Key Takeaways
 
 -   A nation's net exports are the value of its total exports minus the value of its total imports.
--   A positive net export number indicates a trade surplus, while a negative number means a trade deficit.
+-   A positive net export number indicates a trade [[Surplus|surplus]], while a negative number means a [[Trade Deficit|trade deficit]].
 -   A weak currency exchange rate makes a nation's exports more competitive in price.
 
-However, the United States has both the world's largest deficit and its largest [[gross domestic product]](https://www.investopedia.com/articles/investing/121213/gdp-and-its-importance.asp) (GDP). That suggests that running a trade deficit is not inevitably detrimental. The free market keeps trade imbalances in check with the aid of exchange rate adjustments.
+However, the United States has both the world's largest deficit and its largest [[gross domestic product]](https://www.investopedia.com/articles/investing/121213/gdp-and-its-importance.asp) (GDP). That suggests that running a [[Trade Deficit|trade deficit]] is not inevitably detrimental. The free market keeps trade imbalances in check with the aid of exchange rate adjustments.
 
-If a nation's currency is weak, its exports are more competitive in international markets, which encourages positive net exports. If a country has a strong currency, its exports are more expensive and consumers will pass them up for cheaper local products, which can lead to negative net exports.
+If a nation's currency is weak, its exports are more competitive in [[International Markets|international markets]], which encourages positive net exports. If a country has a strong currency, its exports are more expensive and consumers [[Will|will]] pass them up for cheaper local products, which can lead to negative net exports.
 
 Exports consist of all the goods and other services a country sends to the rest of the world, including merchandise, freight, transportation, tourism, communication, and financial services.
 
@@ -59,4 +59,4 @@ For example, Ireland's imports came in at 89.2% as a percentage of GDP in 2018, 
 
 Pakistan showed imports totaling 19.4% of GDP in 2018. Since its exports were only 8.5% of GDP, the nation's net exports were -10.9% as a percentage of GDP. Pakistan had a trade imbalance.
 
-For 2017, the latest year available, the U.S. had net exports totaling 12.1% of GDP while it had net imports of 15% of GDP. So, yes, the U.S. had a trade deficit of 2.9%.
+For 2017, the latest year available, the U.S. had net exports totaling 12.1% of GDP while it had net imports of 15% of GDP. So, yes, the U.S. had a [[Trade Deficit|trade deficit]] of 2.9%.

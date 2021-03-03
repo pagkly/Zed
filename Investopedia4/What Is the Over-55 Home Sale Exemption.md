@@ -1,7 +1,7 @@
 ---
 alias: [Over-55 Home Sale Exemption]
 created: 2021-03-02T22:31:35 (UTC +11:00)
-tags: [Over-55 Home Sale Exemption Definition, What Is the Over-55 Home Sale Exemption?]
+tags: [Over-55 Home Sale Exemption Definition, [[What Is the Over-55 Home Sale Exemption]]?]
 source: https://www.investopedia.com/terms/o/over-55-home-sale-exemption.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is the Over-55 Home Sale Exemption?
-## What Is the Over-55 Home Sale Exemption?
+[[What Is the Over-55 Home Sale Exemption]]?
+## [[What Is the Over-55 Home Sale Exemption]]?
 
 The over-55 home sale exemption was a tax law that provided [[homeowners]](https://www.investopedia.com/updates/first-time-home-buyer/) over the age of 55 with a one-time [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) exclusion. Individuals who met the requirements could exclude up to $125,000 of capital gains on the sale of their personal residences.
 
@@ -24,13 +24,13 @@ This exclusion was intended to stimulate the [[real estate]](https://www.investo
 
 -   The over-55 home sale exemption was a tax law that provided homeowners over the age of 55 with a one-time capital gains exclusion.
 -   The seller, or at least one title holder, had to be 55 or older on the day the home was sold to qualify.
--   Following the passage of the Taxpayer Relief Act of 1997, the exemption was replaced with new per-sale exclusion amounts for all homeowners regardless of age.
+-   Following the passage of the [[Taxpayer]] Relief Act of 1997, the exemption was replaced with new per-sale exclusion amounts for all homeowners regardless of age.
 
 ## Understanding the Over-55 Home Sale Exemption
 
-The over-55 home sale exemption was put into place to give homeowners some relief from the tax implications of selling their homes. The exemption no longer exists as it was replaced by new rules when the [[Taxpayer Relief Act of 1997]](https://www.investopedia.com/terms/t/taxpayer-relief-act-of-1997.asp) was ratified into law. This act was one of the largest tax reduction acts to be put into place by the United States government.
+The over-55 home sale exemption was put into place to give homeowners some relief from the tax implications of selling their homes. The exemption no longer exists as it was replaced by new rules when the [[Taxpayer Relief Act of 1997]](https://www.investopedia.com/terms/t/[[Taxpayer|taxpayer]]-relief-act-of-1997.asp) was ratified into law. This act was one of the largest tax reduction acts to be put into place by the United States government.
 
-Under the old rule, qualifying taxpayers could avoid making tax payments on the sale of their homes provided it was a primary residence. Taxpayers who took the over-55 home sale exemption would complete [[Form 2119]](https://www.irs.gov/pub/irs-prior/f2119--1991.pdf) with the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS). The form was used even if the taxpayer postponed all or part of the gain to another tax year.
+Under the old rule, qualifying taxpayers could avoid making tax payments on the sale of their homes provided it was a primary residence. Taxpayers who took the over-55 home sale exemption would complete [[Form 2119]](https://www.irs.gov/pub/irs-prior/f2119--1991.pdf) with the [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS). The form was used even if the [[Taxpayer|taxpayer]] postponed all or part of the [[Gain|gain]] to another tax year.
 
 Taxpayers were required to report losses that resulted from the sale of their home on Form 2119. However, according to the IRS, taxpayers could not deduct the loss from their tax burden.
 
@@ -42,13 +42,13 @@ When the exemption was in effect, there were several criteria for homeowners to
 
 The seller, or at least one title holder, had to be 55 or older on the sale date to qualify for the exemption.
 
-But there was a loophole. If a primary home was co-owned by two or more unmarried people, it was possible for more than one title holder of the appropriate age to qualify for the exemption. For the home to qualify, the titleholder had to own and use the property as a principal residence for at least three out of the five years immediately prior to selling the house. There were allowances for time spent away for vacations or medical care.
+But there was a [[Loophole|loophole]]. If a primary home was co-owned by two or more unmarried people, it was possible for more than one title holder of the appropriate age to qualify for the exemption. For the home to qualify, the titleholder had to own and use the property as a [[Principal|principal]] residence for at least three out of the five years immediately prior to selling the house. There were allowances for time spent away for vacations or medical care.
 
 ### Current Home Seller Exemptions
 
-Following the passing of the [[Taxpayer Relief Act of 1997]](https://www.investopedia.com/terms/t/taxpayer-relief-act-of-1997.asp), the new home sale tax burden eased for millions of residential taxpayers regardless of their age. The rollovers or once-in-a-lifetime options similar to the over-55 home sale exemption were replaced with new per-sale exclusion amounts.
+Following the passing of the [[Taxpayer Relief Act of 1997]](https://www.investopedia.com/terms/t/[[Taxpayer|taxpayer]]-relief-act-of-1997.asp), the new home sale tax burden eased for millions of residential taxpayers regardless of their age. The rollovers or once-in-a-lifetime options similar to the over-55 home sale exemption were replaced with new per-sale exclusion amounts.
 
-Homeowners could qualify to exclude all or part of the gains received from the sale of their main residence from their income. The act raised the amount of excludable gain to $250,000 per taxpayer or $500,000 on a joint return filed by a married couple. The law also permitted more than one exclusion per [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp) per lifetime. The taxpayer, however, could not exclude the gain from another home sale during the two-year period ending on the sale date.
+Homeowners could qualify to exclude all or part of the gains received from the sale of their main residence from their income. The act raised the amount of excludable [[Gain|gain]] to $250,000 per [[Taxpayer|taxpayer]] or $500,000 on a [[Joint|joint]] [[Return|return]] filed by a married couple. The law also permitted more than one exclusion per [[taxpayer]](https://www.investopedia.com/terms/t/taxpayer.asp) per lifetime. The taxpayer, however, could not exclude the gain from another home sale during the two-year period ending on the sale date.
 
 ## Special Considerations: Ownership and Use Tests
 

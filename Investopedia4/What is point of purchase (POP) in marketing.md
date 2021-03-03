@@ -1,7 +1,7 @@
 ---
 alias: [Point of Purchase, POP]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Point of Purchase (POP) Definition, What is point of purchase (POP) in marketing?]
+tags: [Point of Purchase (POP) Definition, [[What is point of purchase (POP) in marketing]]?]
 source: https://www.investopedia.com/terms/p/pointofpurchase1.asp
 author: Evan Tarver
 ---
@@ -13,7 +13,7 @@ author: Evan Tarver
 
 ---
 
-What is point of purchase (POP) in marketing?
+[[What is point of purchase (POP) in marketing]]?
 ## What Is a Point of Purchase (POP)?
 
 A point of purchase (POP) is a term used by marketers and retailers when planning the placement of consumer products, such as product displays strategically placed in a grocery store aisle or advertised in a weekly flyer. Similar to this term is the [[point of sale (POS)]](https://www.investopedia.com/terms/p/point-of-sale.asp), which is the point at which a customer purchases and pays for products, such as on a website or at a store checkout. The POP is the area that surrounds the POS, where customers often encounter promotional activities or other products.

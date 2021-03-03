@@ -1,9 +1,9 @@
 ---
 alias: [Hawthorne Effect]
 created: 2021-03-02T20:39:10 (UTC +11:00)
-tags: [Hawthorne Effect Definition, What Is the Hawthorne Effect?]
+tags: [Hawthorne Effect Definition, [[What Is the Hawthorne Effect]]?]
 source: https://www.investopedia.com/terms/h/hawthorne-effect.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Hawthorne Effect Definition
@@ -13,20 +13,20 @@ author: Will Kenton
 
 ---
 
-What Is the Hawthorne Effect?
-## What Is the Hawthorne Effect?
+[[What Is the Hawthorne Effect]]?
+## [[What Is the Hawthorne Effect]]?
 
 The Hawthorne Effect is the inclination of people who are the subjects of an experimental study to change or improve the behavior being evaluated only because it is being studied and not because of changes in the experiment parameters or stimulus.
 
 ## How the Hawthorne Effect Works
 
-The Hawthorne Effect refers to the fact that people will modify their behavior simply because they are being observed. The effect gets its name from one of the most famous industrial history experiments that took place at Western Electric’s factory in the Hawthorne suburb of Chicago in the late 1920s and early 1930s.
+The Hawthorne Effect refers to the fact that people [[Will|will]] modify their behavior simply because they are being observed. The effect gets its name from one of the most famous industrial history experiments that took place at Western Electric’s factory in the Hawthorne suburb of Chicago in the late 1920s and early 1930s.
 
 However, subsequent analysis of the effect by the University of Chicago economists in 2009 revealed that the original results were likely overstated.
 
-The Hawthorne experiments were originally designed by the National Research Council to study the effect of shop-floor lighting on worker [[productivity]](https://www.investopedia.com/terms/p/productivity.asp) at a telephone parts factory in Hawthorne. However, the researchers were perplexed to find that productivity improved, not just when the lighting was improved, but also when the lighting was diminished. Productivity improved whenever changes were made in other variables such as working hours and rest breaks.
+The Hawthorne experiments were originally designed by the National Research Council to study the effect of shop-floor lighting on worker [[productivity]](https://www.investopedia.com/terms/p/[[Productivity|productivity]].asp) at a telephone parts factory in Hawthorne. However, the researchers were perplexed to find that productivity improved, not just when the lighting was improved, but also when the lighting was diminished. Productivity improved whenever changes were made in other variables such as working hours and rest breaks.
 
-The researchers concluded that the workers’ productivity was not being affected by the changes in working conditions, but rather by the fact that someone was concerned enough about their working conditions to conduct an experiment on it.
+The researchers concluded that the workers’ [[Productivity|productivity]] was not being affected by the changes in working conditions, but rather by the fact that someone was concerned enough about their working conditions to conduct an experiment on it.
 
 ## The Hawthorne Effect and Modern Research
 

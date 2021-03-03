@@ -1,9 +1,9 @@
 ---
 alias: [Office of Foreign Asset Control, OFAC]
 created: 2021-03-02T22:15:54 (UTC +11:00)
-tags: [Office of Foreign Asset Control (OFAC) Definition, What Is the Office of Foreign Asset Control (OFAC)?]
+tags: [Office of Foreign Asset Control (OFAC) Definition, [[What Is the Office of Foreign Asset Control (OFAC)]]?]
 source: https://www.investopedia.com/terms/o/ofac.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Office of Foreign Asset Control (OFAC) Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is the Office of Foreign Asset Control (OFAC)?
-## What Is the Office of Foreign Asset Control (OFAC)?
+[[What Is the Office of Foreign Asset Control (OFAC)]]?
+## [[What Is the Office of Foreign Asset Control (OFAC)]]?
 
 The Office of Foreign Asset Control (OFAC) is a department of the U.S. Treasury that is charged with enforcing economic and trade sanctions imposed by the U.S. against countries and groups of individuals.
 
@@ -32,9 +32,9 @@ OFAC's predecessor was the Office of Foreign Funds Control (FFC), established in
 
 ## How OFAC Works
 
-OFAC enforces sanctions that were imposed by the U.S. government based on its foreign policy and national security objectives.
+OFAC enforces sanctions that were imposed by the U.S. government based on its foreign policy and national [[Security|security]] objectives.
 
-According to this federal agency, those policies are aimed at foreign nations, terrorists, and narcotics traffickers who pose a threat to the national security or economy of the U.S. This includes entities that stockpile weapons of mass destruction.
+According to this federal agency, those policies are aimed at foreign nations, terrorists, and narcotics traffickers who pose a threat to the national [[Security|security]] or economy of the U.S. This includes entities that stockpile weapons of mass destruction.
 
 ### Who Authorizes OFAC?
 

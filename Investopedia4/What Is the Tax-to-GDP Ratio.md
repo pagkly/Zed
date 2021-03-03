@@ -1,7 +1,7 @@
 ---
 alias: [Tax-to-GDP Ratio]
 created: 2021-03-02T23:56:25 (UTC +11:00)
-tags: [Tax-to-GDP Ratio Definition, What Is the Tax-to-GDP Ratio?]
+tags: [Tax-to-GDP Ratio Definition, [[What Is the Tax-to-GDP Ratio]]?]
 source: https://www.investopedia.com/terms/t/tax-to-gdp-ratio.asp
 author: Julia Kagan
 ---
@@ -13,15 +13,15 @@ author: Julia Kagan
 
 ---
 
-What Is the Tax-to-GDP Ratio?
-## What Is the Tax-To-GDP Ratio?
+[[What Is the Tax-to-GDP Ratio]]?
+## [[What Is the Tax-to-GDP Ratio|What Is the Tax-To-GDP Ratio]]?
 
-A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP). The ratio provides a useful look at a country's tax revenue because it reveals potential taxation relative to the economy. It also enables a view of the overall direction of a nation's [[tax policy]](https://www.investopedia.com/taxes-4427724) as well as international comparisons.
+A tax-to-GDP ratio is a gauge of a nation's tax revenue relative to the size of its economy as measured by [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP). The ratio provides a useful look at a country's tax revenue because it reveals potential [[Taxation|taxation]] relative to the economy. It also enables a view of the overall direction of a nation's [[tax policy]](https://www.investopedia.com/taxes-4427724) as well as international comparisons.
 
 ### Key Takeaways
 
 -   The tax-to-GDP ratio is a measure of a nation's tax revenue relative to the size of its economy.
--   This ratio is used with other metrics to determine how well a nation's government directs its economic resources via taxation.
+-   This ratio is used with other metrics to determine how well a nation's government directs its economic resources via [[Taxation|taxation]].
 -   Developed nations typically have higher tax-to-GDP ratios than developing nations.
 
 ## Understanding the Tax-To-GDP Ratio

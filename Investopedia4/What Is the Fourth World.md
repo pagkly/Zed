@@ -1,7 +1,7 @@
 ---
 alias: [Fourth World]
 created: 2021-03-02T20:07:41 (UTC +11:00)
-tags: [Fourth World Definition, What Is the Fourth World?]
+tags: [Fourth World Definition, [[What Is the Fourth World]]?]
 source: https://www.investopedia.com/terms/f/fourth-world.asp
 author: Daniel Liberto
 ---
@@ -9,26 +9,26 @@ author: Daniel Liberto
 # Fourth World Definition
 
 > ## Excerpt
-> Fourth World is an outdated term that refers to the most underdeveloped, poverty-stricken, and marginalized regions and populations of the world.
+> Fourth World is an outdated term that refers to the most underdeveloped, [[Poverty|poverty]]-stricken, and marginalized regions and populations of the world.
 
 ---
 
-What Is the Fourth World?
-## What is the Fourth World?
+[[What Is the Fourth World]]?
+## [[What Is the Fourth World|What is the Fourth World]]?
 
-The Fourth World is an outdated term used to describe the most underdeveloped, poverty-stricken, and marginalized regions of the world.
+The Fourth World is an outdated term used to describe the most underdeveloped, [[Poverty|poverty]]-stricken, and marginalized regions of the world.
 
 Many inhabitants of these nations do not have any political ties and are often hunter-gatherers that live in nomadic communities, or are part of tribes. They may be fully functional and self-surviving but during the Cold War were ascribed Fourth World status based on their economic performance.
 
 ### Key Takeaways
 
--   Fourth World refers to the most underdeveloped, poverty-stricken, and marginalized regions and populations of the world.
+-   Fourth World refers to the most underdeveloped, [[Poverty|poverty]]-stricken, and marginalized regions and populations of the world.
 -   Many inhabitants of these nations do not have any political ties and are often hunter-gatherers that live in nomadic communities, or are part of tribes.
 -   The outdated and offensive term Fourth World is often linked to indigenous people.
 
 ## Understanding Fourth World
 
-During the Cold War, each country was classed as belonging to a certain type of world, a position that has since evolved as these classifications have evolved. The First World was used to describe countries whose views aligned with NATO and [capitalism](https://www.investopedia.com/terms/c/capitalism.asp), the [[Second World]](https://www.investopedia.com/terms/s/second-world.asp) referred to countries that supported [communism](https://www.investopedia.com/terms/c/communism.asp) and the Soviet Union and the Third World referenced the nations that were not actively aligned with either side. These countries included impoverished former European colonies and all the nations of Africa, the Middle East, Latin America, and Asia.
+During the Cold War, each country was classed as belonging to a certain type of world, a position that has since evolved as these classifications have evolved. The [[First World]] was used to describe countries whose views aligned with NATO and [capitalism](https://www.investopedia.com/terms/c/[[Capitalism|capitalism]].asp), the [[Second World]](https://www.investopedia.com/terms/s/second-world.asp) referred to countries that supported [communism](https://www.investopedia.com/terms/c/communism.asp) and the Soviet Union and the Third World referenced the nations that were not actively aligned with either side. These countries included impoverished former European colonies and all the nations of Africa, the Middle East, Latin America, and Asia.
 
 The term Fourth World was born later as an extension of the developing Third World to describe places and populations characterized by extremely low [[income per capita]](https://www.investopedia.com/terms/i/income-per-capita.asp) and limited natural resources.
 
@@ -38,8 +38,8 @@ Political borders did not define Fourth World areas. In many cases, they were de
 
 ## History of the Fourth World Term
 
-The term Fourth World was believed to have been first used in Canada by Mbuto Milando, the first secretary of the Tanzanian High Commission, in a conversation with George Manuel, Chief of the National Indian Brotherhood (now the Assembly of First Nations). Milando stated that "When native peoples come into their own, on the basis of their own cultures and traditions, that will be the Fourth World."
+The term Fourth World was believed to have been first used in Canada by Mbuto Milando, the first secretary of the Tanzanian High [[Commission]], in a conversation with George Manuel, Chief of the National Indian Brotherhood (now the Assembly of First Nations). Milando stated that "When native peoples come into their own, on the basis of their own cultures and traditions, that [[Will|will]] be the Fourth World."
 
 The term became synonymous with stateless, poor, and marginal nations following the publication of Manuel's _The Fourth World: An Indian Reality_ in 1974.1 Since 1979, think tanks, such as the Center for World Indigenous Studies, have used the term to define the relationships between ancient, tribal, and non-industrial nations and modern political nation-states.
 
-In 2007, the [[United Nations]](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN) Declaration on the Rights of Indigenous Peoples (UNDRIP) was introduced to promote "minimum standards for the survival, dignity, and well-being of the indigenous peoples of the world.”2 Since then, communications and organizing among Fourth World peoples accelerated in the form of international treaties for [[trade]](https://www.investopedia.com/terms/t/trade.asp), travel, and security.
+In 2007, the [[United Nations]](https://www.investopedia.com/terms/u/united-nations-un.asp) (UN) Declaration on the Rights of Indigenous Peoples (UNDRIP) was introduced to promote "minimum standards for the survival, dignity, and well-being of the indigenous peoples of the world.”2 Since then, communications and organizing among Fourth World peoples accelerated in the form of international treaties for [[trade]](https://www.investopedia.com/terms/t/trade.asp), travel, and [[Security|security]].

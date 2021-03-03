@@ -3,7 +3,7 @@ alias: [Overhead Ratio]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overhead Ratio Definition, What Overhead Ratios Measure]
 source: https://www.investopedia.com/terms/o/overhead-ratio.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Overhead Ratio Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-What Overhead Ratios Measure
+[[What Overhead Ratios Measure]]
 ## What Is an Overhead Ratio?
 
 An overhead ratio is a measurement of the operating costs of doing business compared to the company's income. A low overhead ratio indicates that a company is minimizing business expenses that are not directly related to production.

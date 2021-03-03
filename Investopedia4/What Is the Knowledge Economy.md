@@ -1,7 +1,7 @@
 ---
 alias: [Knowledge Economy]
 created: 2021-03-02T21:07:19 (UTC +11:00)
-tags: [Knowledge Economy Definition, What Is the Knowledge Economy?]
+tags: [Knowledge Economy Definition, [[What Is the Knowledge Economy]]?]
 source: https://www.investopedia.com/terms/k/knowledge-economy.asp
 author: Adam Hayes
 ---
@@ -9,12 +9,12 @@ author: Adam Hayes
 # Knowledge Economy Definition
 
 > ## Excerpt
-> The knowledge economy describes the commodification and economic value derived from research & development and academic pursuit.
+> The knowledge economy describes the commodification and [[Economic Value|economic value]] derived from research & development and academic pursuit.
 
 ---
 
-What Is the Knowledge Economy?
-## What Is the Knowledge Economy?
+[[What Is the Knowledge Economy]]?
+## [[What Is the Knowledge Economy]]?
 
 The knowledge economy is a system of consumption and production that is based on [[intellectual capital]](https://www.investopedia.com/terms/i/intellectual_capital.asp). In particular, it refers to the ability to capitalize on scientific discoveries and basic and applied research. This has come to represent a large component of all economic activity in most developed countries. In a knowledge economy, a significant component of value may thus consist of [[intangible assets]](https://www.investopedia.com/terms/i/intangibleasset.asp) such as the value of its workers' knowledge or intellectual property.
 
@@ -26,7 +26,7 @@ The knowledge economy is a system of consumption and production that is based on
 
 ## The Knowledge Economy Explained
 
-Less developed countries tend to have agriculture and manufacturing-based economies. A developing country has a manufacturing and service-based economy, and developed countries tend to have service-based economies.
+Less developed countries tend to have agriculture and [[Manufacturing|manufacturing]]-based economies. A developing country has a manufacturing and service-based economy, and developed countries tend to have service-based economies.
 
 Most countries' [[economies]](https://www.investopedia.com/terms/e/economy.asp) are composed of each of these three major categories of economic activity, but in differing proportions relative to the wealth of that country. Examples of knowledge economy activities include research, technical support, and consulting.
 
@@ -38,7 +38,7 @@ The modern commercialization of academic research and basic science has its root
 
 ## Knowledge Economy and Human Capital
 
-The knowledge economy addresses how education and knowledge—that is, "human capital," can serve as a productive asset or business product to be sold and exported to yield profits for individuals, businesses, and the economy. This component of the economy relies greatly on intellectual capabilities instead of natural resources or physical contributions. In the knowledge economy, products, and services that are based on intellectual expertise advance technical and scientific fields, encouraging innovation in the economy as a whole.
+The knowledge economy addresses how education and knowledge—that is, "human capital," can serve as a productive asset or business product to be sold and exported to [[Yield|yield]] profits for individuals, businesses, and the economy. This component of the economy relies greatly on intellectual capabilities instead of natural resources or physical contributions. In the knowledge economy, products, and services that are based on intellectual expertise advance technical and scientific fields, encouraging innovation in the economy as a whole.
 
 The World Bank defines knowledge economies according to four pillars:
 

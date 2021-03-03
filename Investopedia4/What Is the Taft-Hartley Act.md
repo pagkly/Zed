@@ -1,9 +1,9 @@
 ---
 alias: [Taft-Hartley Act]
 created: 2021-03-02T23:52:14 (UTC +11:00)
-tags: [Taft-Hartley Act Definition, What Is the Taft-Hartley Act?]
+tags: [Taft-Hartley Act Definition, [[What Is the Taft-Hartley Act]]?]
 source: https://www.investopedia.com/terms/t/tafthartleyact.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Taft-Hartley Act Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is the Taft-Hartley Act?
-## What Is the Taft-Hartley Act?
+[[What Is the Taft-Hartley Act]]?
+## [[What Is the Taft-Hartley Act]]?
 
 The Taft-Hartley Act is a 1947 federal law that prohibits certain union practices and requires disclosure of certain financial and political activities by unions.
 
@@ -50,4 +50,4 @@ A sixth amendment added a free speech clause for employers. Employers have the r
 
 The Taft-Hartley Act made changes to union election rules. These changes excluded supervisors from bargaining groups and gave special treatment to certain professional employees.
 
-The Taft-Hartley Act also created four new types of elections. One gave employers the right to vote on union demands. The other three gave employees the right to hold elections on the status of [[incumbent]](https://www.investopedia.com/terms/i/incumbent.asp) unions, to determine whether a union has the power to enter into agreements for employees and to withdraw union representation after it's granted. In 1951 Congress repealed the provisions governing union shop elections.
+The Taft-Hartley Act also created four new types of elections. One gave employers the right to vote on union demands. The other three gave employees the right to [[Hold|hold]] elections on the status of [[incumbent]](https://www.investopedia.com/terms/i/incumbent.asp) unions, to determine whether a union has the power to enter into agreements for employees and to withdraw union representation after it's granted. In 1951 Congress repealed the provisions governing union shop elections.

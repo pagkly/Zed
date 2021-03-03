@@ -1,9 +1,9 @@
 ---
 alias: [Group of Ten, G10]
 created: 2021-03-02T20:30:10 (UTC +11:00)
-tags: [Group of Ten (G10) Definition, What Is the Group of Ten (G10)?]
+tags: [Group of Ten (G10) Definition, [[What Is the Group of Ten (G10)]]?]
 source: https://www.investopedia.com/terms/g/groupoften.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Group of Ten (G10) Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is the Group of Ten (G10)?
-## What Is the Group of Ten (G10)?
+[[What Is the Group of Ten (G10)]]?
+## [[What Is the Group of Ten (G10)]]?
 
 The Group of Ten (G10) is one of five "group of" groups, not to be confused with the Groups of 7, 8, 20, or 24. Each of these consists of a group with similar economic interests. The G10 consists of eleven industrialized nations that meet on an [[annual basis]](https://www.investopedia.com/terms/a/annual-basis.asp) or more frequently, as necessary, to consult each other, debate and cooperate on international financial matters. The member countries are Belgium, Canada, France, Germany, Italy, Japan, the Netherlands, Sweden, Switzerland, the United Kingdom, and the United States, with Switzerland playing a minor role.
 
@@ -39,14 +39,14 @@ It was at a G10 Forum in 1971 where members worked to create [[The Smithsonian 
 
 ## G10 Functions and Critiques
 
-The Finance ministers and central bank governors from each of those countries gather in connection with annual meetings of the International Monetary Fund and the World Bank to discuss financial and monetary policies that impact member countries, trade, and the global economy.
+The [[Finance]] ministers and central bank governors from each of those countries gather in connection with annual meetings of the International Monetary Fund and the World Bank to discuss financial and monetary policies that impact member countries, trade, and the global economy.
 
 [According to the IMF](http://www.imf.org/en/About/Factsheets/Sheets/2016/08/05/17/55/IMF-Standing-Borrowing-Arrangements), the GAB is only activated when NAB participants reject a proposal to activate the New Arrangements to Borrow (NAB) agreement (a credit arrangement between the IMF and its 38 member countries allowing for the borrowing of supplemental resources). 
 
 Also, according to the IMF, the potential amount of credit available under the GAB totals 17.5 billion SDR, with an additional 1.5 billion SDR available under an arrangement with Saudi Arabia.
 
-G10 governors usually meet every second month at the [[Bank for International Settlements]](https://www.investopedia.com/terms/b/bis.asp) (BIS). The BIS is an international finance organization owned and operated by 60 member central banks that together comprise over 95% of the world's GDP. Its mission, [[according to its website]](https://www.bis.org/about/index.htm), is to serve central banks in their pursuit of monetary and financial stability, foster cooperation among the banks, and serve as the central bank for them,
+G10 governors usually meet every second month at the [[Bank for International Settlements]](https://www.investopedia.com/terms/b/bis.asp) (BIS). The BIS is an international [[Finance|finance]] organization owned and operated by 60 member central banks that together comprise over 95% of the world's GDP. Its mission, [[according to its website]](https://www.bis.org/about/index.htm), is to serve central banks in their pursuit of monetary and financial stability, foster cooperation among the banks, and serve as the central bank for them,
 
-The BIS, European Commission, IMF and [[Organization for Economic Cooperation and Development]](https://www.investopedia.com/terms/o/oecd.asp) (OECD), are all official observers.
+The BIS, European [[Commission]], IMF and [[Organization for Economic Cooperation and Development]](https://www.investopedia.com/terms/o/oecd.asp) (OECD), are all official observers.
 
 The G10 has been criticized for its lack of responsiveness to the needs of developing countries. G10 meetings are politically charged events that often make headlines in the international press for the protests that follow them.
