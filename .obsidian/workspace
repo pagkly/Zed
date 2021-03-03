@@ -6,11 +6,51 @@
       {
         "id": "caabc338b8e40d73",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Investopedia4/Hedge Fund.md",
+            "mode": "preview"
+          }
+        },
+        "group": "80072392d02cf333"
+      },
+      {
+        "id": "9145d8f81e594f6d",
+        "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "localgraph",
+          "state": {
+            "file": "Investopedia4/Hedge Fund.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "80072392d02cf333"
       }
     ],
     "direction": "vertical"
@@ -74,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Investopedia4/Hedge Fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Investopedia4/Hedge Fund.md"
+              }
             }
           },
           {
@@ -129,9 +172,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Investopedia4/Hedge Fund.md",
     "Day Planners/20210303.md",
     "Investopedia4/A Downside Risk Estimate.md",
     "Investopedia4/1913 Federal Reserve Act.md",
@@ -140,7 +185,6 @@
     "Investopedia3/A Downside Risk Estimate.md",
     "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
     "Investopedia3/A Closer Look at Grace Periods.md",
-    "Investopedia5/Risk.md",
-    "Investopedia3/Risk-Return Tradeoff.md"
+    "Investopedia5/Risk.md"
   ]
 }
