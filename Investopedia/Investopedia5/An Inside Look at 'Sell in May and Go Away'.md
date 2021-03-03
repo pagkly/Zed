@@ -1,7 +1,7 @@
 ---
-alias: ['Sell in May and Go Away']
+alias: [Sell in May and Go Away]
 created: 2021-03-02T23:32:04 (UTC +11:00)
-tags: ['Sell in May and Go Away' Definition, An Inside Look at 'Sell in May and Go Away']
+tags: [Sell in May and Go Away Definition, An Inside Look at Sell in May and Go Away]
 source: https://www.investopedia.com/terms/s/sell-in-may-and-go-away.asp
 author: Troy Segal
 ---

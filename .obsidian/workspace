@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia3/A Closer Look at Grace Periods.md",
+            "file": "Investopedia3/An Inside Look at 'Sell in May and Go Away'.md",
             "mode": "source"
           }
         }
@@ -41,8 +41,8 @@
               "type": "search",
               "state": {
                 "query": "sell in may and go away",
-                "matchingCase": true,
-                "explainSearch": true,
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia3/A Closer Look at Grace Periods.md",
+                "file": "Investopedia3/An Inside Look at 'Sell in May and Go Away'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia3/A Closer Look at Grace Periods.md"
+                "file": "Investopedia3/An Inside Look at 'Sell in May and Go Away'.md"
               }
             }
           },
@@ -139,15 +138,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/An Inside Look at 'Sell in May and Go Away'.md",
+    "Investopedia3/An Inside Look at Ramp Ups.md",
+    "Investopedia/Investopedia5/An Inside Look at 'Sell in May and Go Away'.md",
     "Investopedia3/A Closer Look at Grace Periods.md",
     "Investopedia5/An Inside Look at 'Sell in May and Go Away'.md",
     "Investopedia3/A Look at the 10 Richest People in the World.md",
     "Investopedia3/A Look at the Cayman Islands Dollar.md",
     "Investopedia3/A Fresh Look at Face Value.md",
     "Day Planners/20210303.md",
-    "Investopedia3/Collateral.md",
-    "Investopedia3/Stock.md",
-    "Investopedia3/Stock Appreciation Rights (SARs) Definition.md",
-    "Investopedia3/Stock Option.md"
+    "Investopedia3/Collateral.md"
   ]
 }
