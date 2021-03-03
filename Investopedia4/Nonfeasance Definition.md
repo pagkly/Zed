@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-Nonfeasance Definition
+[[Nonfeasance Definition]]
 ## What Is Nonfeasance?
 
 Nonfeasance is a legal concept that refers to the willful failure to execute or perform an act or duty required by one’s position, office, or law whereby that neglect results in harm or damage to a person or property. The perpetrator can be found liable and subject to prosecution.
@@ -24,11 +24,11 @@ Nonfeasance differs from [[malfeasance]](https://www.investopedia.com/terms/m/ma
 
 -   Nonfeasance is the willful absence of action to help prevent harm or damage from occurring.
 -   Nonfeasance may or may not be illegal in and of itself; however, employers have the legal right to terminate an employee or contractor for nonfeasance.
--   Financial nonfeasance involves a failure to act by a fiduciary or financial representative on behalf of a client, for instance by failing to input a trade a broker has been given by a customer.
+-   Financial nonfeasance involves a failure to act by a [[Fiduciary|fiduciary]] or financial representative on behalf of a client, for instance by failing to input a trade a broker has been given by a customer.
 
 ## Understanding Nonfeasance
 
-While nonfeasance—the absence of action to help prevent harm or damage—was not originally subject to the penalty of law, legal reforms evolved to make it possible for courts to use the term to describe inaction which assigns liability. In some jurisdictions, nonfeasance carries stiff criminal penalties. At a minimum, it can lead to a [[notice of termination]](https://www.investopedia.com/terms/n/notice-of-termination.asp).
+While nonfeasance—the absence of action to help prevent harm or damage—was not originally subject to the penalty of law, legal reforms evolved to make it possible for courts to use the term to describe inaction which assigns [[Liability|liability]]. In some jurisdictions, nonfeasance carries stiff criminal penalties. At a minimum, it can lead to a [[notice of termination]](https://www.investopedia.com/terms/n/notice-of-termination.asp).
 
 In order for intentional inaction to be considered nonfeasance, it must meet three criteria. They are:
 
@@ -40,7 +40,7 @@ For example, if a day care provider is employed to supervise children and they f
 
 ## Financial Nonfeasance
 
-When a corporate director, real estate agent, financial advisor, or another individual with a [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) duty breaches that duty through willful and intentional inaction, nonfeasance can be said to have taken place. For example, when a real estate agent accepts an earnest money check from a client but fails to deposit that check, causing the deal to fall through, he or she might be held liable for nonfeasance as long as the funds weren’t misused and the agent had no inappropriate motive.
+When a corporate director, real [[Estate|estate]] agent, financial advisor, or another individual with a [[fiduciary]](https://www.investopedia.com/terms/f/[[Fiduciary|fiduciary]].asp) duty breaches that duty through willful and intentional inaction, nonfeasance can be said to have taken place. For example, when a real estate agent accepts an earnest money check from a client but fails to deposit that check, causing the deal to fall through, he or she might be held liable for nonfeasance as long as the funds weren’t misused and the agent had no inappropriate motive.
 
 Similarly, a corporate director might be held liable for nonfeasance if he or she fails to maintain an active role in the business and monitor corporate affairs, such that his or her inaction causes harm to the business.
 

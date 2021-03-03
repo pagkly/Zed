@@ -1,22 +1,22 @@
 ---
 alias: [Non-Negotiable]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Negotiable Definition, Non-Negotiable Definition]
+tags: [Non-[[Negotiable Definition]], Non-Negotiable Definition]
 source: https://www.investopedia.com/terms/n/nonnegotiable.asp
 author: Daniel Liberto
 ---
 
-# Non-Negotiable Definition
+# [[Non-Negotiable Definition]]
 
 > ## Excerpt
 > Non-negotiable refers to a price or part of a contract that cannot be adjusted, as well as a financial product that cannot be transferred to a new owner.
 
 ---
 
-Non-Negotiable Definition
+[[Non-Negotiable Definition]]
 ## What Is Non-Negotiable?
 
-Non-negotiable refers to the price of a good or [[security]](https://www.investopedia.com/terms/s/security.asp) that is firmly established and cannot be adjusted, or a part of a contract or deal that is considered a requirement by one or both involved parties. Additionally, the term can relate to a good or security whose ownership is not easily transferable from one party to another.
+Non-negotiable refers to the price of a good or [[security]](https://www.investopedia.com/terms/s/[[Security|security]].asp) that is firmly established and cannot be adjusted, or a part of a contract or deal that is considered a requirement by one or both involved parties. Additionally, the term can relate to a good or security whose ownership is not easily transferable from one party to another.
 
 ## Understanding Non-Negotiable
 
@@ -24,29 +24,29 @@ An item can be considered non-negotiable if one party involved in a [[transactio
 
 ### Key Takeaways
 
--   Non-negotiable describes the price of a good or security that cannot be adjusted, or a part of a contract that is considered a requirement by one or both involved parties. 
+-   Non-negotiable describes the price of a good or [[Security|security]] that cannot be adjusted, or a part of a contract that is considered a requirement by one or both involved parties. 
 -   An item can be deemed non-negotiable if one party involved in a transaction is not willing to make any changes to a condition that has been set in place.
--   Additionally, the term can relate to a good or security whose ownership is not easily transferable from one party to another, such as government savings bonds.
+-   Additionally, the term can relate to a good or [[Security|security]] whose ownership is not easily transferable from one party to another, such as government savings bonds.
 
 ## Examples of Non-Negotiable
 
 ### Non-Negotiable Prices
 
-When an asking price is described as non-negotiable, it means it is not possible to haggle over it. When one party sets a non-negotiable price, the option to attempt to negotiate has been effectively removed by the first party’s unwillingness to participate in such a conversation.
+When an asking price is described as non-negotiable, it means it is not possible to [[Haggle|haggle]] over it. When one party sets a non-negotiable price, the option to attempt to negotiate has been effectively removed by the first party’s unwillingness to participate in such a conversation.
 
-For example, a homeowner may be unwilling to sell his or her property unless a buyer offers at least $250,000. If the individual deems the asking price to be non-negotiable, a bid of $245,000 will be rejected.
+For example, a homeowner may be unwilling to sell his or her property unless a buyer offers at least $250,000. If the individual deems the asking price to be non-negotiable, a bid of $245,000 [[Will|will]] be rejected.
 
 ### Important
 
-A big company such as Walmart Inc. ([WMT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=wmt)) is less likely to make price concessions than a much smaller retailer because it often can easily find other customers willing to pay what it wants.
+A big company such as Walmart Inc. ([WMT](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=wmt)) is less likely to make price concessions than a much smaller retailer because it often can easily find other customers willing to pay what it wants.
 
 In regards to securities, if an [[asset]](https://www.investopedia.com/terms/a/asset.asp) is referred to as a [[registered security]](https://www.investopedia.com/terms/r/registeredsecurity.asp), its price cannot be changed. This can apply to [savings bonds](https://www.investopedia.com/terms/u/ussavingsbonds.asp) as they have a specified [[face value]](https://www.investopedia.com/terms/f/facevalue.asp), or [[par]](https://www.investopedia.com/terms/p/parvalue.asp), and cannot be negotiated to any other value.
 
 ### Non-Negotiable Contract Elements
 
-A contract may involve certain non-negotiable tenants. For example, a job offer might offer scope to negotiate on salary, but be rigid about other terms, such as the number of days that an employee can take for annual leave.
+A contract may involve certain non-negotiable tenants. For example, a job [[Offer|offer]] might offer [[Scope|scope]] to negotiate on salary, but be rigid about other terms, such as the number of days that an employee can take for annual leave.
 
-Moreover, in the cases of [[leases]](https://www.investopedia.com/terms/l/lease.asp) on rental properties, the amount due as payment may be considered non-negotiable as it is often a fixed price that must be provided by the tenant to the property owner.
+Moreover, in the cases of [[leases]](https://www.investopedia.com/terms/l/[[Lease|lease]].asp) on rental properties, the amount due as payment may be considered non-negotiable as it is often a fixed price that must be provided by the tenant to the property owner.
 
 ### Non-Negotiable Financial Products
 

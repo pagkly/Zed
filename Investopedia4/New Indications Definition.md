@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/n/new-indications.asp
 author: Jason Fernando
 ---
 
-# New Indications Definition
+# [[New Indications Definition]]
 
 > ## Excerpt
 > “New indications” is a term used to refer to new evidence signifying that there may be new applications for an existing drug or procedure.
 
 ---
 
-New Indications Definition
+[[New Indications Definition]]
 ## What Are New Indications?
 
 “New indications” is a term used by [[pharmaceutical companies]](https://www.investopedia.com/articles/06/drugmarket.asp) to refer to new evidence signifying that there may be new applications for an existing drug or procedure. This type of news is closely followed by investors, who can access such findings through the press releases issued on companies’ [[investor relations]](https://www.investopedia.com/terms/i/investorrelations.asp) pages.
@@ -22,7 +22,7 @@ New Indications Definition
 
 -   New indications refers to news significating that an existing drug may have a broader range of medical applications.
 -   Repurposing existing drugs in this manner can prove less costly than developing new drugs from scratch.
--   Investors often view new indications as a bullish indicator, anticipating that the company in question will have access to new revenue streams at a relatively low cost.
+-   Investors often view new indications as a bullish indicator, anticipating that the company in question [[Will|will]] have access to new revenue streams at a relatively low cost.
 
 ## How New Indications Work
 

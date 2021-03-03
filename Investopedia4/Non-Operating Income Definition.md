@@ -1,19 +1,19 @@
 ---
 alias: [Non-Operating Income]
 created: 2021-03-02T21:45:57 (UTC +11:00)
-tags: [Non-Operating Income Definition, Non-Operating Income Definition]
+tags: [Non-[[Operating Income Definition]], Non-Operating Income Definition]
 source: https://www.investopedia.com/terms/n/non-operating-income.asp
 author: Daniel Liberto
 ---
 
-# Non-Operating Income Definition
+# [[Non-Operating Income Definition]]
 
 > ## Excerpt
 > Non-operating income is the portion of an organization's income that is derived from activities not related to its core operations.
 
 ---
 
-Non-Operating Income Definition
+[[Non-Operating Income Definition]]
 ## What Is Non-Operating Income?
 
 Non-operating income is the portion of an organization's [income](https://www.investopedia.com/terms/i/income.asp) that is derived from activities not related to its core business operations. It can include items such as [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) income, [[profits]](https://www.investopedia.com/terms/p/profit.asp), or losses from investments, as well as gains or losses incurred by foreign exchange and asset write-downs. Non-operating income is also referred to as incidental or peripheral income.
@@ -44,9 +44,9 @@ Operating income is recorded on the [[income statement]](https://www.investopedi
 
 The main operations of retail stores are the purchasing and selling of merchandise, which requires a lot of cash on hand and [[liquid assets]](https://www.investopedia.com/terms/l/liquidasset.asp)**.** Sometimes, a retailer chooses to invest its idle cash on hand in order to put its money to work.
 
-If a retail store invests $10,000 in the stock market, and in a one-month period earns 5% in [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp), the $500 ($10,000 \* 0.05) would be considered non-operating income. When a person sets out to analyze this retail company, the $500 would be discounted as earnings, because it can't be relied on as continuous income over the long term.
+If a retail store invests $10,000 in the [[Stock|stock]] market, and in a one-month period earns 5% in [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp), the $500 ($10,000 \* 0.05) would be considered non-operating income. When a person sets out to analyze this retail company, the $500 would be discounted as earnings, because it can't be relied on as continuous income over the [[Long Term|long term]].
 
-Alternatively, if a technology company sells or [[spins off]](https://www.investopedia.com/terms/s/spinoff.asp) one of its divisions for $400 million in cash and stock, the proceeds from the sale are considered non-operating income. If the technology company earns $1 billion in income in a year, it's easy to see that the additional $400 million will increase company earnings by 40%.
+Alternatively, if a technology company sells or [[spins off]](https://www.investopedia.com/terms/s/spinoff.asp) one of its divisions for $400 million in cash and [[Stock|stock]], the proceeds from the sale are considered non-operating income. If the technology company earns $1 billion in income in a year, it's easy to see that the additional $400 million [[Will|will]] increase company earnings by 40%.
 
 To an investor, a sharp bump in earnings like this makes the company look like a very attractive investment. However, since the sale cannot be replicated or duplicated, it can't be considered operating income and should be removed from performance analysis.
 
@@ -54,6 +54,6 @@ To an investor, a sharp bump in earnings like this makes the company look like a
 
 Sometimes companies try to conceal poor [[operating profit]](https://www.investopedia.com/terms/o/operating_profit.asp) with high, non-operating income. Beware of management teams attempting to flag metrics that incorporate inflated, separate gains. [[Earnings before interest and taxes]](https://www.investopedia.com/video/play/ebit-earnings-interest-and-taxes/) (EBIT) for example, includes income derived from activities not related to the core business and can often be advertised heavily by companies to mask underwhelming operational results.
 
-Often a sharp spike in earnings from one period to the next will be caused by non-operating income. Seek to get to the bottom of where money was generated and to ascertain how much of it, if any, is linked to the everyday running of the business and is likely to be repeated.
+Often a sharp spike in earnings from one period to the next [[Will|will]] be caused by non-operating income. Seek to get to the bottom of where money was generated and to ascertain how much of it, if any, is linked to the everyday running of the business and is likely to be repeated.
 
 Operating income can help here, but not always. Unfortunately, crafty accountants occasionally find ways to record non-operating transactions as operating income in order to dress up profitability in income statements.

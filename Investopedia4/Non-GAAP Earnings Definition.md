@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/n/non-gaap-earnings.asp
 author: Alicia Tuovila
 ---
 
-# Non-GAAP Earnings Definition
+# [[Non-GAAP Earnings Definition]]
 
 > ## Excerpt
 > Non-GAAP earnings are pro forma earnings figures, adjusted to eliminate one-time transactions to provide a "truer" picture of a company's performance.
 
 ---
 
-Non-GAAP Earnings Definition
+[[Non-GAAP Earnings Definition]]
 ## What Are Non-GAAP Earnings?
 
 Non-GAAP earnings are an alternative accounting method used to measure the earnings of a company. Many companies report non-GAAP earnings in addition to their earnings based on [[Generally Accepted Accounting Principles]](https://www.investopedia.com/terms/g/gaap.asp) (GAAP). These [[pro forma]](https://www.investopedia.com/terms/p/proforma.asp) figures, which exclude "one-time" transactions, can sometimes provide a more accurate measure of a company’s financial performance from direct business operations.
@@ -45,4 +45,4 @@ So, investors should be careful not to lose sight of GAAP earnings. Standardized
 
 U.S. companies are under increasing pressure from the SEC to disclose GAAP earnings upfront in their earnings reports, before pointing at non-GAAP earnings.
 
-The SEC has begun taking enforcement actions against improper practices where companies provide greater prominence to non-GAAP figures than GAAP figures. Technology companies are among the most frequent abusers of non-GAAP EPS because they use a significant amount of stock compensation and have large asset impairments and R&D costs.
+The SEC has begun taking enforcement actions against improper practices where companies provide greater prominence to non-GAAP figures than GAAP figures. Technology companies are among the most frequent abusers of non-GAAP EPS because they use a significant amount of [[Stock|stock]] compensation and have large asset impairments and R&D costs.

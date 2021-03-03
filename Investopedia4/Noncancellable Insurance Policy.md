@@ -6,34 +6,34 @@ source: https://www.investopedia.com/terms/n/noncancellable-insurance-policy.asp
 author: Julia Kagan
 ---
 
-# Noncancellable Insurance Policy Definition
+# [[Noncancellable Insurance Policy]] Definition
 
 > ## Excerpt
-> A noncancellable insurance policy can't be canceled by an insurance company, nor can premiums be increased or benefits reduced while premiums are still being paid by the insured person.
+> A [[Noncancellable Insurance Policy|noncancellable insurance policy]] can't be canceled by an insurance company, nor can premiums be increased or benefits reduced while premiums are still being paid by the insured person.
 
 ---
 
-Noncancellable Insurance Policy
-## What Is a Noncancellable Insurance Policy?
+[[Noncancellable Insurance Policy]]
+## What Is a [[Noncancellable Insurance Policy]]?
 
-A noncancellable insurance policy is a life or disability insurance policy that an insurance company can’t cancel, increase the premiums on, or reduce the benefits of for as long as the customer pays the [[premiums]](https://www.investopedia.com/terms/p/premium.asp).
+A [[Noncancellable Insurance Policy|noncancellable insurance policy]] is a life or disability insurance policy that an insurance company can’t cancel, increase the premiums on, or reduce the benefits of for as long as the customer pays the [[premiums]](https://www.investopedia.com/terms/p/[[Premium|premium]].asp).
 
 Noncancellable insurance policies give the policyholder peace of mind that the cost, amount of coverage, and the term is known. They can also be assured that they won’t have to re-qualify for the policy at some point in the future when their health might not be as good and insurance might be harder to get.
 
 ### Key Takeaways
 
--   A noncancellable insurance policy is a life or disability insurance policy that an insurance company can’t cancel, increase the premiums on, or reduce the benefits of for as long as the customer pays their premiums.
+-   A [[Noncancellable Insurance Policy|noncancellable insurance policy]] is a life or disability insurance policy that an insurance company can’t cancel, increase the premiums on, or reduce the benefits of for as long as the customer pays their premiums.
 -   When applying for life or disability insurance, it is advisable to try to obtain a policy that is both noncancellable and guaranteed renewable.
--   Most people don't have a guarantee that their income will never go down; under a noncancellable insurance policy, even if someone's income goes down later in life, the company will pay the total disability benefit originally placed in-force.
+-   Most people don't have a guarantee that their income [[Will|will]] never go down; under a noncancellable insurance policy, even if someone's income goes down later in life, the company will pay the total disability benefit originally placed in-force.
 
-## How a Noncancellable Insurance Policy Works
+## How a [[Noncancellable Insurance Policy]] Works
 
 When applying for life or disability insurance, it is advisable to try to obtain a policy that is both noncancellable and guaranteed renewable. If you buy a policy that is only guaranteed renewable, the insurer must let you keep your policy as long as you pay your premiums, but your premiums could go up. The insurer is allowed to raise the premiums on a guaranteed renewable policy as long as the increase affects numerous policyholders and not just a particular customer.
 
-Avoid purchasing a conditionally-renewable policy, which allows the insurer to raise your premiums or cancel your coverage if it thinks the risk of insuring you has increased. These policies put you at risk of losing coverage when you need it most and at a time when you may be unable to qualify for a new policy.
+Avoid purchasing a conditionally-renewable policy, which allows the insurer to raise your premiums or cancel your coverage if it thinks the [[Risk|risk]] of insuring you has increased. These policies put you at risk of losing coverage when you need it most and at a time when you may be unable to qualify for a new policy.
 
-Another benefit of a noncancellable insurance policy that applies to [[disability insurance]](https://www.investopedia.com/disability-insurance-4427713) is that if your income decreases, your coverage will stay the same. If you got laid off from your office job and had to take up another work for lesser pay, you would still be able to keep your insurance with a noncancellable policy.
+Another benefit of a noncancellable insurance policy that applies to [[disability insurance]](https://www.investopedia.com/disability-insurance-4427713) is that if your income decreases, your coverage [[Will|will]] stay the same. If you got laid off from your office job and had to take up another work for lesser pay, you would still be able to keep your insurance with a noncancellable policy.
 
-Most people don't have a guarantee that their income will never go down. Under a noncancellable insurance policy, even if someone's income goes down later in life–if they are totally disabled–the company will pay the total disability benefit originally placed in-force. Under a noncancellable policy, even if someone changes jobs from being a white-collar, low-risk occupation to a professional race car driver, the company cannot change the insured's benefits for the worse. Quite simply, there is no reason to buy an individual disability insurance policy that isn't noncancellable and guaranteed renewable.
+Most people don't have a guarantee that their income [[Will|will]] never go down. Under a noncancellable insurance policy, even if someone's income goes down later in life–if they are totally disabled–the company will pay the total disability benefit originally placed in-force. Under a noncancellable policy, even if someone changes jobs from being a white-collar, low-[[Risk|risk]] occupation to a professional race car driver, the company cannot change the insured's benefits for the worse. Quite simply, there is no reason to buy an individual disability insurance policy that isn't noncancellable and guaranteed renewable.
 
-However, even a noncancellable and guaranteed renewable policy will eventually expire if it has a fixed term; many policies are designed to cover the policyholder only until age 65. By age 65, many people no longer need life or disability insurance. Because they are retired or near retirement and have saved for many years, they no longer need the financial protection that these products provide.
+However, even a noncancellable and guaranteed renewable policy [[Will|will]] eventually expire if it has a fixed term; many policies are designed to cover the policyholder only until age 65. By age 65, many people no longer need life or disability insurance. Because they are retired or near retirement and have saved for many years, they no longer need the financial protection that these products provide.

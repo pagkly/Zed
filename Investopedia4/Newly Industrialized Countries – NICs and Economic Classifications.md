@@ -13,7 +13,7 @@ author: Christina Majaski
 
 ---
 
-Newly Industrialized Countries – NICs and Economic Classifications
+[[Newly Industrialized Countries – NICs and Economic Classifications]]
 ## What Is a Newly Industrialized Country? (NIC)
 
 A newly industrialized country (NIC) is a term used by political scientists and [[economists]](https://www.investopedia.com/terms/e/economist.asp) to describe a country whose level of economic development ranks it somewhere between developing and highly developed classifications. These countries have moved away from an agriculture-based economy and into a more industrialized, urban economy. Experts also know them as "newly industrializing economies" or "advanced developing countries."
@@ -31,7 +31,7 @@ In the 1970s and 1980s, examples of newly industrialized countries included Hong
 
 Hong Kong, Singapore, South Korea, and Taiwan are NICs collectively known as the [[Four Asian Tigers]](https://www.investopedia.com/terms/f/four-asian-tigers.asp).
 
-A NIC is part of a [[socioeconomic]](https://www.investopedia.com/terms/s/social-economics.asp) class that has recently made advances in industrialization. Greater economic stability within the nation accompanies this economic shift although this process of stabilization may be incomplete or in a stage of infancy.
+A NIC is part of a [[socioeconomic]](https://www.investopedia.com/terms/s/social-[[Economics|economics]].asp) class that has recently made advances in industrialization. Greater economic stability within the nation accompanies this economic shift although this process of stabilization may be incomplete or in a stage of infancy.
 
 ## Transition Signs from Third World to Newly Industrialized Country
 
@@ -39,7 +39,7 @@ A primary indication of a country's transition to a NIC is substantial growth in
 
 ## Relations Between NICs and Highly Developed Nations
 
-Developed countries may see opportunities in the growing stability of a newly industrialized country. These opportunities could lead to additional [[outsourcing]](https://www.investopedia.com/terms/o/outsourcing.asp) by companies to facilities within NICs. These movements may lower labor costs for outsourcing companies with less risk compared to outsourcing to less stable nations. While this can increase the strength of the labor force within the NIC, complications can occur with the increased demand because the government may not have fully established laws and regulations in surrounding industries.
+Developed countries may see opportunities in the growing stability of a newly industrialized country. These opportunities could lead to additional [[outsourcing]](https://www.investopedia.com/terms/o/outsourcing.asp) by companies to facilities within NICs. These movements may lower labor costs for outsourcing companies with less [[Risk|risk]] compared to outsourcing to less stable nations. While this can increase the strength of the labor force within the NIC, complications can occur with the increased demand because the government may not have fully established laws and regulations in surrounding industries.
 
 ## Real-World Example
 

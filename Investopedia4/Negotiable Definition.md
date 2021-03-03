@@ -3,26 +3,26 @@ alias: [Negotiable]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negotiable Definition, Negotiable Definition]
 source: https://www.investopedia.com/terms/n/negotiable.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Negotiable Definition
+# [[Negotiable Definition]]
 
 > ## Excerpt
-> Negotiable refers to the price of a good or security that is not firmly established or whose ownership is easily transferable from one party to another.
+> Negotiable refers to the price of a good or [[Security|security]] that is not firmly established or whose ownership is easily transferable from one party to another.
 
 ---
 
-Negotiable Definition
+[[Negotiable Definition]]
 ## What is Negotiable?
 
-Negotiable is used to describe the price of a good or security that is not firmly established. It is also used to describe a good or security, such as cash, whose ownership is easily transferable from one party to another. Other words used to describe negotiable are marketable, transferable or unregistered.
+Negotiable is used to describe the price of a good or [[Security|security]] that is not firmly established. It is also used to describe a good or security, such as cash, whose ownership is easily transferable from one party to another. Other words used to describe negotiable are marketable, transferable or unregistered.
 
 ## Understanding Negotiable
 
-You often hear the term negotiable used in reference to the [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) of a particular good or security. The asking price is not set in stone and can be adjusted depending on the circumstance. Most [[securities]](https://www.investopedia.com/terms/s/security.asp) are negotiable; they can be easily transferred from one party to the next, provided all proper legal documentation is included.
+You often hear the term negotiable used in reference to the [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) of a particular good or [[Security|security]]. The asking price is not set in stone and can be adjusted depending on the circumstance. Most [[securities]](https://www.investopedia.com/terms/s/security.asp) are negotiable; they can be easily transferred from one party to the next, provided all proper legal documentation is included.
 
-In the world of finance, negotiable refers to a legal document or instrument that is used in lieu of cash. It is used to make a promise of payment, generally cash flow(s), at some point in the future. In context, the word negotiable implies a cash value and comes with specific instructions about the timing of cash flows to be paid. The term negotiable is used to suggest the document or instrument comes with the same faith legal backing as cash under the law.
+In the world of [[Finance|finance]], negotiable refers to a legal document or instrument that is used in lieu of cash. It is used to make a promise of payment, generally [[Cash Flow|cash flow]](s), at some point in the future. In context, the word negotiable implies a cash value and comes with specific instructions about the timing of cash flows to be paid. The term negotiable is used to suggest the document or instrument comes with the same faith legal backing as cash under the law.
 
 ## Characteristics of a Negotiable Instrument
 
