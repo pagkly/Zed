@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Investopedia3/Liquidity.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Investopedia3/Liquidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Investopedia3/Liquidity.md"
+              }
             }
           },
           {
@@ -129,10 +135,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Liquidity.md",
     "Investopedia3/A Financial Guarantee Defined.md",
     "Day Planners/20210303.md",
     "Investopedia3/A Closer Look at Grace Periods.md",
@@ -141,7 +147,6 @@
     "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
     "Investopedia3/1913 Federal Reserve Act.md",
     "Investopedia3/Deferred Revenue Definition.md",
-    "Investopedia3/Deficit Spending.md",
-    "Investopedia3/Define Neoclassical Economics.md"
+    "Investopedia3/Deficit Spending.md"
   ]
 }
