@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia/Investopedia5/A Closer Look at Grace Periods.md",
+            "file": "Investopedia3/Decoupling.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia/Investopedia5/A Closer Look at Grace Periods.md",
+                "file": "Investopedia3/Decoupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia/Investopedia5/A Closer Look at Grace Periods.md"
+                "file": "Investopedia3/Decoupling.md"
               }
             }
           },
@@ -138,6 +138,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/Decoupling.md",
     "Investopedia/Investopedia5/A Closer Look at Grace Periods.md",
     "Investopedia3/Default.md",
     "Investopedia3/1913 Federal Reserve Act.md",
@@ -146,7 +147,6 @@
     "Investopedia3/Liquidity.md",
     "Investopedia3/A Financial Guarantee Defined.md",
     "Day Planners/20210303.md",
-    "Investopedia3/A Closer Look at Grace Periods.md",
-    "Investopedia3/Economies of Scale.md"
+    "Investopedia3/A Closer Look at Grace Periods.md"
   ]
 }

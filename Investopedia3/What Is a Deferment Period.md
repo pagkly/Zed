@@ -28,7 +28,7 @@ The duration of a deferment period can vary and is established in advance usuall
 
 ## Understanding Deferment Periods
 
-The deferment period applies to [[student loans]](https://www.investopedia.com/terms/s/student-debt.asp), mortgages, callable securities, some types of options, and benefit claims in the insurance industry. Borrowers should be careful not to confuse a deferment period with a [[grace period]](https://www.investopedia.com/terms/g/grace_period.asp). A grace period is a length of time after a due date that a borrower can make a payment without incurring a penalty.
+The deferment period applies to [[student loans]](https://www.investopedia.com/terms/s/student-debt.asp), mortgages, callable securities, some types of options, and benefit claims in the insurance industry. Borrowers should be careful not to confuse a deferment period with a [[grace period]](https://www.investopedia.com/terms/g/grace_period.asp). A [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] is a length of time after a due date that a borrower can make a payment without incurring a penalty.
 
 Grace periods are usually short windows of time, such as 15 days, when a borrower can make a payment beyond the due date without the risk of [[late fees]](https://www.investopedia.com/terms/l/late-fee.asp) or cancellation of the loan or contract. Deferment periods are usually longer time frames, such as years. In most cases, deferments are not automatic and borrowers will need to apply to their lender and receive approval for a deferment.
 

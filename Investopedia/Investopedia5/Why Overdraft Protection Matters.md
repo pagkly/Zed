@@ -48,7 +48,7 @@ Bank customers can opt in or out of overdraft protection for their checking or s
 
 ## Special Considerations
 
-Overdraft protection lines of credit can range from $250 to $5,000 and above and, of course, come with an interest rate. If a credit card is used, it should be noted that the amount is treated as a [cash advance](https://www.investopedia.com/terms/c/cashadvance.asp). This has no grace period and usually incurs a high interest rate, as well as a cash advance fee (usually a $10 flat fee or 5% of the advance, whichever is greater), [making it a fairly expensive form of overdraft protection](https://www.investopedia.com/ask/answers/071114/whats-better-way-borrow-money-overdraft-or-credit-cards.asp). A linked savings account is probably the least expensive solution, but it must hold enough money to cover the needed funds.
+Overdraft protection lines of credit can range from $250 to $5,000 and above and, of course, come with an interest rate. If a credit card is used, it should be noted that the amount is treated as a [cash advance](https://www.investopedia.com/terms/c/cashadvance.asp). This has no [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] and usually incurs a high interest rate, as well as a cash advance fee (usually a $10 flat fee or 5% of the advance, whichever is greater), [making it a fairly expensive form of overdraft protection](https://www.investopedia.com/ask/answers/071114/whats-better-way-borrow-money-overdraft-or-credit-cards.asp). A linked savings account is probably the least expensive solution, but it must hold enough money to cover the needed funds.
 
 ## Overdraft Protection Trends
 

@@ -32,7 +32,7 @@ For traditional whole-life policies, the owner decides which of four ways (see b
 
 Life insurance policyholders can select one of four nonforfeiture benefit options: the cash surrender value, extended term insurance, loan value, and paid-up insurance.
 
-In permanent life insurance policies, if you fail to pay the premiums in the grace period, you won't lose your life insurance; your accumulated cash value will come to your rescue with the following options:
+In permanent life insurance policies, if you fail to pay the premiums in the [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]], you won't lose your life insurance; your accumulated cash value will come to your rescue with the following options:
 
 1.  You can terminate your policy and get the [cash surrender value](https://www.investopedia.com/terms/c/cashsurrendervalue.asp) in hard cash.
 2.  You can go for reduced coverage for the remaining term of the policy with no future premiums. (i.e., paid-up policy).

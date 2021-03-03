@@ -41,7 +41,7 @@ The three [[credit reporting agencies]](https://www.investopedia.com/terms/c/cre
 
 ## Collecting on a Loan
 
-A loan committee also determines which collection action should be taken on past-due loans. Depending on the policy of the lending institution, once a borrower has missed their due date, the committee can either immediately charge a late fee or allow the borrower to enter a grace period.
+A loan committee also determines which collection action should be taken on past-due loans. Depending on the policy of the lending institution, once a borrower has missed their due date, the committee can either immediately charge a late fee or allow the borrower to enter a [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]].
 
 To bring the account up to good standing, the borrower must make the required [[minimum monthly payments]](https://www.investopedia.com/terms/m/minimum-monthly-payment.asp), including any late fees. Individuals or businesses that are 30 days behind schedule on loan payments will usually find that the [[delinquent]](https://www.investopedia.com/terms/d/delinquent.asp) account has affected their credit report.
 

@@ -43,7 +43,7 @@ All notices of default contain relevant information pertaining to the borrower, 
 
 ## Special Considerations
 
-If a borrower has several delinquent payments, they are at risk of default on a mortgage loan. This also poses the risk of lost collateral. When this happens, the lender may file a notice of default. While this notice may lead to [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp), that isn't always the case, The lender may simply be taking this step as protocol, and be willing to work with the borrower to bring the account up to date. Filing the notice may also include a negotiation [grace period](https://www.investopedia.com/terms/g/grace_period.asp) before further action is taken.
+If a borrower has several delinquent payments, they are at risk of default on a mortgage loan. This also poses the risk of lost collateral. When this happens, the lender may file a notice of default. While this notice may lead to [foreclosure](https://www.investopedia.com/terms/f/foreclosure.asp), that isn't always the case, The lender may simply be taking this step as protocol, and be willing to work with the borrower to bring the account up to date. Filing the notice may also include a negotiation [[[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]]](https://www.investopedia.com/terms/g/grace_period.asp) before further action is taken.
 
 While some lenders use notices of default as the final step before foreclosure, others use it as a way to work with borrowers to bring the mortgage up to date.
 

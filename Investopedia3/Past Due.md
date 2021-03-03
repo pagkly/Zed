@@ -9,7 +9,7 @@ author: Julia Kagan
 # Past Due Definition
 
 > ## Excerpt
-> Past due is a loan payment that has not been made as of its due date. The borrower may be subject to late fees, unless there is a grace period.
+> Past due is a loan payment that has not been made as of its due date. The borrower may be subject to late fees, unless there is a [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]].
 
 ---
 
@@ -52,7 +52,7 @@ If a lender charges no late fees, a borrower will still be penalized by credit r
 
 ## Other Considerations
 
-Depending on the policy of a lender, the borrower will either immediately be charged a late fee and/or will be reported delinquent after missing a required payment. Some lenders may offer [[grace period]](https://www.investopedia.com/terms/g/grace_period.asp)s. Grace periods can be another feature to look out for when applying for credit or reviewing credit terms. If, for example, there is a grace period of 10 days, the borrower would not be charged a late fee until 10 days after the due date cutoff. If the payment is still not made by the end of the grace period, late fees or additional interest may be applied. Grace periods may also be modified if a borrower exploits the benefit. If there is a pattern of late payments, the grace period may be shortened or removed.
+Depending on the policy of a lender, the borrower will either immediately be charged a late fee and/or will be reported delinquent after missing a required payment. Some lenders may offer [[grace period]](https://www.investopedia.com/terms/g/grace_period.asp)s. Grace periods can be another feature to look out for when applying for credit or reviewing credit terms. If, for example, there is a [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] of 10 days, the borrower would not be charged a late fee until 10 days after the due date cutoff. If the payment is still not made by the end of the [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]], late fees or additional interest may be applied. Grace periods may also be modified if a borrower exploits the benefit. If there is a pattern of late payments, the [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] may be shortened or removed.
 
 When a borrower who is overdue on his payments receives his next account statement, the balance owed will be the current balance plus his overdue balance plus any late charges and interest fees. To bring the account up to good standing, the borrower must make the required minimum payments including any late fees or they may be further penalized. A lender may also increase the [[interest rate]](https://www.investopedia.com/terms/i/interestrate.asp) on the account as a penalty, which increases the amount owed. Lenders can often decrease or increase interest rates depending on payment history.
 

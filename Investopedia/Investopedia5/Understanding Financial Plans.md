@@ -39,7 +39,7 @@ The following steps in creating a financial plan may, of course, be completed by
 You're about to learn your current [net worth](https://www.investopedia.com/terms/n/networth.asp). List all of the following:
 
 -   **Your assets**: This may include a home and a car, some cash in the bank, money invested in a [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) plan, and anything else you own of value.
--   **Your liabilities**: These may include credit card debt, student debt, an outstanding mortgage, and a car loan. In some cases, you may have access to a [grace period or moratorium](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-moratorium-period.asp).
+-   **Your liabilities**: These may include credit card debt, student debt, an outstanding mortgage, and a car loan. In some cases, you may have access to a [[[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] or moratorium](https://www.investopedia.com/ask/answers/111314/whats-difference-between-grace-period-and-moratorium-period.asp).
 
 Your total assets, minus your total liabilities, equals your current net worth.
 

@@ -36,7 +36,7 @@ Once a covenant is broken, the lender typically has the right to call back the o
 
 An affirmative or positive covenant is a clause in a loan contract that requires a borrower to perform specific actions. Examples of [affirmative covenants](https://www.investopedia.com/terms/a/affirmative-covenant.asp) include requirements to maintain adequate levels of insurance, requirements to furnish audited financial statements to the lender, compliance with applicable laws, and maintenance of proper accounting books and credit rating, if applicable.
 
-A violation of an affirmative covenant ordinarily results in outright default. Certain loan contracts may contain clauses that provide a borrower with a grace period to remedy the violation. If not corrected, creditors are entitled to announce default and demand immediate repayment of principal and any accrued interest.
+A violation of an affirmative covenant ordinarily results in outright default. Certain loan contracts may contain clauses that provide a borrower with a [[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]] to remedy the violation. If not corrected, creditors are entitled to announce default and demand immediate repayment of principal and any accrued interest.
 
 ### Negative Covenants
 

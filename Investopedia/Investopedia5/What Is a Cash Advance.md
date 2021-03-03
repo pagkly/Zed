@@ -30,7 +30,7 @@ There are a variety of cash advances, but the common denominators among all of t
 
 ### Credit Card Cash Advances
 
-The most popular type of cash advance is borrowing on a line of credit through a credit card. The money can be withdrawn at an ATM or, depending on the credit card company, from a check that is deposited or cashed at a bank. Credit card cash advances typically carry a high-interest rate, even higher than the rate on regular purchases: You’ll pay an average of 24% – about 9% higher than the average [APR](https://www.investopedia.com/terms/a/apr.asp) for purchases. What’s more, the interest begins to accrue immediately; there is no [grace period](https://www.investopedia.com/terms/g/grace_period.asp).
+The most popular type of cash advance is borrowing on a line of credit through a credit card. The money can be withdrawn at an ATM or, depending on the credit card company, from a check that is deposited or cashed at a bank. Credit card cash advances typically carry a high-interest rate, even higher than the rate on regular purchases: You’ll pay an average of 24% – about 9% higher than the average [APR](https://www.investopedia.com/terms/a/apr.asp) for purchases. What’s more, the interest begins to accrue immediately; there is no [[[Investopedia/Investopedia5/A Closer Look at Grace Periods|grace period]]](https://www.investopedia.com/terms/g/grace_period.asp).
 
 These cash advances usually include a fee as well, either a flat rate or a percentage of the advanced amount. Additionally, if you use an ATM to access the cash, you often are charged a small usage fee.
 
