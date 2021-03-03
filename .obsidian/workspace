@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/20210303.md",
-            "mode": "source"
+            "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
+            "mode": "preview"
           }
         },
         "group": "80072392d02cf333"
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Day Planners/20210303.md",
+            "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/20210303.md",
+                "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/20210303.md"
+                "file": "fmi/Advanced Conditional Formatting  Plum Solutions.md"
               }
             }
           },
@@ -176,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "fmi/Advanced Conditional Formatting  Plum Solutions.md",
+    "fmi/Adding Scenarios  Plum Solutions.md",
+    "fmi/Absolute and Relative Cell Referencing.md",
+    "fmi/About the Level 1 (AFM) Exam.md",
     "Day Planners/20210303.md",
     "Investopedia4/A Financial Guarantee Defined.md",
     "Investopedia4/A Definition and Explanation of Free On Board (FOB).md",
     "Investopedia4/A Downside Risk Estimate.md",
     "Investopedia4/A Closer Look at Grace Periods.md",
-    "Investopedia4/1913 Federal Reserve Act.md",
-    "Investopedia4/An Explanation of Positive Economics.md",
-    "Investopedia4/An Inside Look at Ramp Ups.md",
-    "Investopedia4/A Review of Pink Sheet Stocks and How Investors Can Trade Them.md",
-    "Investopedia4/A Look at the Cayman Islands Dollar.md"
+    "Investopedia4/1913 Federal Reserve Act.md"
   ]
 }
