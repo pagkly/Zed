@@ -3,7 +3,7 @@ alias: [Wei]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Wei, Wei]
 source: https://www.investopedia.com/terms/w/[[Wei|wei]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wei]]

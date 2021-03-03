@@ -3,7 +3,7 @@ alias: [Workout Market]
 created: 2021-03-03T01:03:34 (UTC +11:00)
 tags: [Workout Market, Workout Market]
 source: https://www.investopedia.com/terms/w/workoutmarket.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Workout Market]]

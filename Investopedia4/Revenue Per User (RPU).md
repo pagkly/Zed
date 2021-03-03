@@ -3,7 +3,7 @@ alias: [Revenue Per User, RPU]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Per User (RPU), Revenue Per User (RPU)]
 source: https://www.investopedia.com/terms/r/rpu.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Revenue Per User (RPU)]]

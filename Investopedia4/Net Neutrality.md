@@ -3,7 +3,7 @@ alias: [Net Neutrality]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Neutrality Definition, Net Neutrality]
 source: https://www.investopedia.com/terms/n/net-neutrality.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Net Neutrality]] Definition

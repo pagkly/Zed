@@ -3,7 +3,7 @@ alias: [Group of 11, G11]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of 11 (G11), Group of 11 (G11)]
 source: https://www.investopedia.com/terms/g/group-of-11-g11.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Group of 11 (G11)]]

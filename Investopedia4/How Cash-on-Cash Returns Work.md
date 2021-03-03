@@ -3,7 +3,7 @@ alias: [Cash-On-Cash Return]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Cash-On-Cash Return Definition, How Cash-on-Cash Returns Work]
 source: https://www.investopedia.com/terms/c/cashoncashreturn.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Cash-On-Cash [[Return]] Definition

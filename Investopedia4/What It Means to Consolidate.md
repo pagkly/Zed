@@ -3,7 +3,7 @@ alias: [Consolidate]
 created: 2021-03-02T18:55:44 (UTC +11:00)
 tags: [Consolidate Definition, What It Means to Consolidate]
 source: https://www.investopedia.com/terms/c/consolidate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Consolidate Definition

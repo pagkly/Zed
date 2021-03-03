@@ -3,7 +3,7 @@ alias: [Severance Pay]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Severance Pay Definition, The Ins and Outs of Severance Pay]
 source: https://www.investopedia.com/terms/s/severancepay.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Severance Pay Definition

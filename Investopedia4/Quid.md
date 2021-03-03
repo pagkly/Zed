@@ -3,7 +3,7 @@ alias: [Quid]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quid, Quid]
 source: https://www.investopedia.com/terms/q/[[Quid|quid]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quid]]

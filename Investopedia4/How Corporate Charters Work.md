@@ -3,7 +3,7 @@ alias: [Understanding a Corporate Charter]
 created: 2021-03-02T19:00:22 (UTC +11:00)
 tags: [Understanding a Corporate Charter, How Corporate Charters Work]
 source: https://www.investopedia.com/terms/c/corporatecharter.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Understanding a Corporate Charter

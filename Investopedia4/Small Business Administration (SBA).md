@@ -3,7 +3,7 @@ alias: [Small Business Administration, SBA]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Small Business Administration (SBA) Definition, Small Business Administration (SBA)]
 source: https://www.investopedia.com/terms/s/small-business-administration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Small Business Administration (SBA)]] Definition

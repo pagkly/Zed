@@ -1,7 +1,7 @@
 ---
 alias: [Operating Expense]
 created: 2021-03-02T22:22:12 (UTC +11:00)
-tags: [Operating [[Expense Definition]], Learn about Operating Expense]
+tags: [Operating Expense Definition, Learn about Operating Expense]
 source: https://www.investopedia.com/terms/o/operating_expense.asp
 author: [[Will]] Kenton
 ---

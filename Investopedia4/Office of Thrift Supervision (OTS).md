@@ -3,7 +3,7 @@ alias: [Office of Thrift Supervision, OTS]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Office of Thrift Supervision (OTS), Office of Thrift Supervision (OTS)]
 source: https://www.investopedia.com/terms/o/ots.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Office of Thrift Supervision (OTS)]]

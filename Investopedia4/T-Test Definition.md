@@ -3,7 +3,7 @@ alias: [T-Test]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [T-Test Definition, T-Test Definition]
 source: https://www.investopedia.com/terms/t/t-test.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[T-Test Definition]]

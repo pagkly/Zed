@@ -3,7 +3,7 @@ alias: [Jim Walton]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jim Walton Definition, Jim Walton]
 source: https://www.investopedia.com/terms/j/jim-walton.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Jim Walton]] Definition

@@ -3,7 +3,7 @@ alias: [Earnings Power Value, EPV]
 created: 2021-03-02T19:31:14 (UTC +11:00)
 tags: [Earnings Power Value (EPV) Definition, How the Earnings Power Value Technique Works]
 source: https://www.investopedia.com/terms/e/earningspowervalue.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Earnings Power Value (EPV) Definition

@@ -3,7 +3,7 @@ alias: [Wholly Owned Subsidiary]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [Wholly Owned Subsidiary Definition, Understanding Wholly Owned Subsidiary]
 source: https://www.investopedia.com/terms/w/whollyownedsubsidiary.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Wholly Owned Subsidiary Definition

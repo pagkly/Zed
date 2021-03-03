@@ -1,5 +1,5 @@
 ---
-alias: [Savings and [[Loan]] Crisis – S&L Crisis]
+alias: [Savings and Loan Crisis – S&L Crisis]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Savings and Loan Crisis – S&L Crisis Definition, Savings and Loan Crisis – S&L Crisis Definition]
 source: https://www.investopedia.com/terms/s/sl-crisis.asp

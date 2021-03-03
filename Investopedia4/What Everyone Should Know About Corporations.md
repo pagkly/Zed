@@ -3,7 +3,7 @@ alias: [Corporation]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Corporation Definition, What Everyone Should Know About Corporations]
 source: https://www.investopedia.com/terms/c/corporation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Corporation Definition

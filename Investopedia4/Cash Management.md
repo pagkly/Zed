@@ -3,7 +3,7 @@ alias: [Cash Management]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Cash Management Definition, Cash Management]
 source: https://www.investopedia.com/terms/c/cash-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cash Management]] Definition

@@ -3,7 +3,7 @@ alias: [Demand For Labor]
 created: 2021-03-02T19:15:54 (UTC +11:00)
 tags: [Demand For Labor, Demand For Labor]
 source: https://www.investopedia.com/terms/d/demand_for_labor.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Demand For Labor]]

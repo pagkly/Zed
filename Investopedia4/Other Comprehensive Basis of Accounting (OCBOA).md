@@ -3,7 +3,7 @@ alias: [Other Comprehensive Basis of Accounting, OCBOA]
 created: 2021-03-02T22:29:31 (UTC +11:00)
 tags: [Other Comprehensive Basis of Accounting (OCBOA), Other Comprehensive Basis of Accounting (OCBOA)]
 source: https://www.investopedia.com/terms/o/other-comprehensive-basis-of-accounting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Other Comprehensive Basis of Accounting (OCBOA)]]

@@ -3,7 +3,7 @@ alias: [Gap Analysis]
 created: 2021-03-02T20:12:35 (UTC +11:00)
 tags: [Gap Analysis Definition, Gap Analysis]
 source: https://www.investopedia.com/terms/g/gap-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gap Analysis]] Definition

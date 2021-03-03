@@ -3,7 +3,7 @@ alias: [Painting the Tape]
 created: 2021-03-02T22:36:05 (UTC +11:00)
 tags: [Painting the Tape Definition, Painting the Tape]
 source: https://www.investopedia.com/terms/p/paintingthetape.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Painting the Tape]] Definition

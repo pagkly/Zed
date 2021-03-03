@@ -3,7 +3,7 @@ alias: [Defining a Mature Industry]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [Defining a Mature Industry, What is a Mature Industry?]
 source: https://www.investopedia.com/terms/m/matureindustry.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Defining a Mature Industry

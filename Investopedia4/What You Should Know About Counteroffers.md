@@ -3,7 +3,7 @@ alias: [Counteroffer]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Counteroffer Definition, What You Should Know About Counteroffers]
 source: https://www.investopedia.com/terms/c/counteroffer.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Counteroffer Definition

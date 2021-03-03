@@ -3,7 +3,7 @@ alias: [Gross Margin Return on Investment, GMROI]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross Margin Return on Investment (GMROI), Gross Margin Return on Investment: An Inside Look]
 source: https://www.investopedia.com/terms/g/gmroi.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Gross Margin [[Return]] on Investment (GMROI)

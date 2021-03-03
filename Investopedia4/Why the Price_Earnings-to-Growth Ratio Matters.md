@@ -3,7 +3,7 @@ alias: [Price/Earnings-to-Growth – PEG Ratio]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price/Earnings-to-Growth – PEG Ratio Definition, Why the Price/Earnings-to-Growth Ratio Matters]
 source: https://www.investopedia.com/terms/p/pegratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Price/Earnings-to-Growth – PEG Ratio Definition

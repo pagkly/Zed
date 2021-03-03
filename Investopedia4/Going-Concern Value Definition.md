@@ -3,7 +3,7 @@ alias: [Going-Concern Value]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Going-Concern Value Definition, Going-Concern Value Definition]
 source: https://www.investopedia.com/terms/g/going_concern_value.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Going-Concern Value Definition]]

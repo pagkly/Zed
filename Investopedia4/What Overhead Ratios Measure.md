@@ -3,7 +3,7 @@ alias: [Overhead Ratio]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overhead Ratio Definition, What Overhead Ratios Measure]
 source: https://www.investopedia.com/terms/o/overhead-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Overhead Ratio Definition

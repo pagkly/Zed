@@ -3,7 +3,7 @@ alias: [Stochastic Modeling]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Stochastic Modeling Definition, Why Stochastic Modeling Is Less Complicated Than It Sounds]
 source: https://www.investopedia.com/terms/s/stochastic-modeling.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Stochastic Modeling Definition

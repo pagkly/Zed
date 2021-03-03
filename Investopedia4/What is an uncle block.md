@@ -3,7 +3,7 @@ alias: [Uncle Block, Cryptocurrency]
 created: 2021-03-03T00:15:18 (UTC +11:00)
 tags: [Uncle Block (Cryptocurrency) Definition, What is an uncle block?]
 source: https://www.investopedia.com/terms/u/uncle-block-[[Cryptocurrency|cryptocurrency]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Uncle Block ([[Cryptocurrency]]) Definition

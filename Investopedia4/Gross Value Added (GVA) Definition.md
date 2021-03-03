@@ -3,7 +3,7 @@ alias: [Gross Value Added, GVA]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Gross Value Added (GVA) Definition, Gross Value Added (GVA) Definition]
 source: https://www.investopedia.com/terms/g/gross-value-added.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gross Value Added (GVA) Definition]]

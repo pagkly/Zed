@@ -1,7 +1,7 @@
 ---
 alias: [Large Trader]
 created: 2021-03-02T21:11:25 (UTC +11:00)
-tags: [Large [[Trader Definition]], Large Trader]
+tags: [Large Trader Definition, Large Trader]
 source: https://www.investopedia.com/terms/l/largetrader.asp
 author: [[Will]] Kenton
 ---

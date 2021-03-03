@@ -3,7 +3,7 @@ alias: [Strategic Management]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Strategic Management Definition, How Strategic Management Works]
 source: https://www.investopedia.com/terms/s/strategic-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Strategic Management Definition

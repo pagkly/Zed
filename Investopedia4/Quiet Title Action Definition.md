@@ -3,7 +3,7 @@ alias: [Quiet Title Action]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quiet Title Action Definition, Quiet Title Action Definition]
 source: https://www.investopedia.com/terms/q/quiet-title-action.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quiet Title Action Definition]]

@@ -3,7 +3,7 @@ alias: [Trickle-Down Theory]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Trickle-Down Theory Definition, Trickle-Down Theory]
 source: https://www.investopedia.com/terms/t/trickledowntheory.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Trickle-Down Theory]] Definition

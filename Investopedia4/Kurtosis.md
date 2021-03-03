@@ -3,7 +3,7 @@ alias: [Kurtosis]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Kurtosis, Kurtosis]
 source: https://www.investopedia.com/terms/k/[[Kurtosis|kurtosis]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Kurtosis]]

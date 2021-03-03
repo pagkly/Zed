@@ -3,7 +3,7 @@ alias: [Minority Interest]
 created: 2021-03-02T22:05:23 (UTC +11:00)
 tags: [Minority Interest Definition, How Minority Interest Works]
 source: https://www.investopedia.com/terms/m/minorityinterest.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Minority Interest Definition

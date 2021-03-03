@@ -3,7 +3,7 @@ alias: [Market Cannibalization]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Market Cannibalization Definition, Understanding Market Cannibalization]
 source: https://www.investopedia.com/terms/m/marketcannibilization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Market Cannibalization Definition

@@ -3,7 +3,7 @@ alias: [Unearned Discount]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Unearned Discount, Unearned Discount]
 source: https://www.investopedia.com/terms/u/unearned-discount.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unearned Discount]]

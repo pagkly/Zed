@@ -3,7 +3,7 @@ alias: [Salvage Value]
 created: 2021-03-02T23:29:56 (UTC +11:00)
 tags: [Salvage Value Definition, Salvage Value Definition]
 source: https://www.investopedia.com/terms/s/salvagevalue.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Salvage Value Definition]]

@@ -3,7 +3,7 @@ alias: [Scrip]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Scrip Definition, What You Should Know About Scrips]
 source: https://www.investopedia.com/terms/s/scrip.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Scrip Definition

@@ -3,7 +3,7 @@ alias: [Direct Cost]
 created: 2021-03-02T19:18:11 (UTC +11:00)
 tags: [Direct Cost, Direct Cost]
 source: https://www.investopedia.com/terms/d/directcost.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Direct Cost]]

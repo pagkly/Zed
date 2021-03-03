@@ -3,7 +3,7 @@ alias: [Underlying]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Underlying Definition, Underlying]
 source: https://www.investopedia.com/terms/u/[[Underlying|underlying]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Underlying]] Definition

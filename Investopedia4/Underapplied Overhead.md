@@ -3,7 +3,7 @@ alias: [Underapplied Overhead]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Underapplied Overhead Definition, Underapplied Overhead]
 source: https://www.investopedia.com/terms/u/underapplied-overhead.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Underapplied Overhead]] Definition

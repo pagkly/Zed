@@ -1,7 +1,7 @@
 ---
 alias: [Green Chip Stocks]
 created: 2021-03-02T20:25:18 (UTC +11:00)
-tags: [Green Chip [[Stocks]] Definition, Defining Green Chip Stocks]
+tags: [Green Chip Stocks Definition, Defining Green Chip Stocks]
 source: https://www.investopedia.com/terms/g/green-chip-[[Stocks|stocks]].asp
 author: [[Will]] Kenton
 ---

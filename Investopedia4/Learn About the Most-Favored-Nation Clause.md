@@ -3,7 +3,7 @@ alias: [Most-Favored-Nation Clause]
 created: 2021-03-02T22:11:43 (UTC +11:00)
 tags: [Most-Favored-Nation Clause Definition, Learn About the Most-Favored-Nation Clause]
 source: https://www.investopedia.com/terms/m/mostfavorednation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Most-Favored-Nation Clause Definition

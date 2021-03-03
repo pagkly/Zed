@@ -3,7 +3,7 @@ alias: [Objective Probability]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Objective Probability Definition, How Objective Probability Works]
 source: https://www.investopedia.com/terms/o/objective-probability.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Objective Probability Definition

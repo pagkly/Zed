@@ -3,7 +3,7 @@ alias: [Environmental Protection Agency – EPA]
 created: 2021-03-02T19:39:54 (UTC +11:00)
 tags: [Environmental Protection Agency – EPA Definition, Environmental Protection Agency – EPA]
 source: https://www.investopedia.com/terms/e/environmental-protection-agency.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Environmental Protection Agency – EPA]] Definition

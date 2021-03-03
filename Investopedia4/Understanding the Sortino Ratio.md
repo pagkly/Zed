@@ -3,7 +3,7 @@ alias: [Sortino Ratio]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Sortino Ratio Definition, Understanding the Sortino Ratio]
 source: https://www.investopedia.com/terms/s/sortinoratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Sortino Ratio Definition

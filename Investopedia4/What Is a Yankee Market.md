@@ -3,7 +3,7 @@ alias: [What Is a Yankee Market?]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [What Is a Yankee Market?, What Is a Yankee Market?]
 source: https://www.investopedia.com/terms/[[Y|y]]/yankee-market.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[What Is a Yankee Market]]?

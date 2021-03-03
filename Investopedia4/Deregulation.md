@@ -3,7 +3,7 @@ alias: [Deregulation]
 created: 2021-03-02T19:18:11 (UTC +11:00)
 tags: [Deregulation Definition, Deregulation]
 source: https://www.investopedia.com/terms/d/deregulate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Deregulation]] Definition

@@ -3,7 +3,7 @@ alias: [Model Risk]
 created: 2021-03-02T22:07:27 (UTC +11:00)
 tags: [Model Risk Definition, When Model Risk Occurs in Finance]
 source: https://www.investopedia.com/terms/m/modelrisk.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Model [[Risk]] Definition

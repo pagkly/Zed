@@ -3,7 +3,7 @@ alias: [Endogenous Variable]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Endogenous Variable Definition, Endogenous Variable]
 source: https://www.investopedia.com/terms/e/endogenous-variable.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Endogenous Variable]] Definition

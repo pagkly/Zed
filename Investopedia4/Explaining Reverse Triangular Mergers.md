@@ -3,7 +3,7 @@ alias: [Reverse Triangular Merger]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Reverse Triangular Merger Definition, Explaining Reverse Triangular Mergers]
 source: https://www.investopedia.com/terms/r/rtm.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Reverse Triangular Merger Definition

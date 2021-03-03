@@ -3,7 +3,7 @@ alias: [Durbin Watson Statistic]
 created: 2021-03-02T19:29:08 (UTC +11:00)
 tags: [Durbin Watson Statistic Definition, Understanding the Durbin Watson Statistic]
 source: https://www.investopedia.com/terms/d/durbin-watson-statistic.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Durbin Watson Statistic Definition

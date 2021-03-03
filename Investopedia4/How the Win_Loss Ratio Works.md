@@ -3,7 +3,7 @@ alias: [Win/Loss Ratio]
 created: 2021-03-03T00:59:17 (UTC +11:00)
 tags: [Win/Loss Ratio Definition, How the Win/Loss Ratio Works]
 source: https://www.investopedia.com/terms/w/win-loss-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Win/Loss Ratio Definition

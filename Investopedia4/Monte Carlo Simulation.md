@@ -3,7 +3,7 @@ alias: [Monte Carlo Simulation]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Monte Carlo Simulation Definition, Monte Carlo Simulation]
 source: https://www.investopedia.com/terms/m/montecarlosimulation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Monte Carlo Simulation]] Definition

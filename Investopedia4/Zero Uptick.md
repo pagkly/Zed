@@ -3,7 +3,7 @@ alias: [Zero Uptick]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zero Uptick, Zero Uptick]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero_uptick.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zero Uptick]]

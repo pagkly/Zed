@@ -1,7 +1,7 @@
 ---
 alias: [NASDAQ Global Select Market Composite]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [NASDAQ Global Select Market Composite Definition, [[Nasdaq|NASDAQ]] Global Select Market Composite]
+tags: [NASDAQ Global Select Market Composite Definition, Nasdaq|NASDAQ Global Select Market Composite]
 source: https://www.investopedia.com/terms/n/nqgs.asp
 author: [[Will]] Kenton
 ---

@@ -3,7 +3,7 @@ alias: [Production Costs]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Production Costs Definition, Production Costs: What You Need to Know]
 source: https://www.investopedia.com/terms/p/production-cost.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Production Costs Definition

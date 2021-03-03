@@ -3,7 +3,7 @@ alias: [Payroll]
 created: 2021-03-02T22:40:12 (UTC +11:00)
 tags: [Payroll, Payroll]
 source: https://www.investopedia.com/terms/p/[[Payroll|payroll]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Payroll]]

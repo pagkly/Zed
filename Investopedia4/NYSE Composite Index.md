@@ -3,7 +3,7 @@ alias: [NYSE Composite Index]
 created: 2021-03-02T21:52:28 (UTC +11:00)
 tags: [NYSE Composite Index Definition, NYSE Composite Index]
 source: https://www.investopedia.com/terms/n/nysecompositeindex.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[NYSE Composite Index]] Definition

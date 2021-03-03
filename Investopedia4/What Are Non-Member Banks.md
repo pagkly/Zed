@@ -3,7 +3,7 @@ alias: [Non-Member Banks]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Member Banks Definition, What Are Non-Member Banks?]
 source: https://www.investopedia.com/terms/n/non-member-banks.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Non-Member Banks Definition

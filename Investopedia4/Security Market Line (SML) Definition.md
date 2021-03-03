@@ -3,7 +3,7 @@ alias: [Security Market Line, SML]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Security Market Line (SML) Definition, Security Market Line (SML) Definition]
 source: https://www.investopedia.com/terms/s/sml.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Security Market Line (SML) Definition]]

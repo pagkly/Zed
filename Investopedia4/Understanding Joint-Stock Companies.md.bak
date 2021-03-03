@@ -1,5 +1,5 @@
 ---
-alias: [Joint-[[Stock]] Company]
+alias: [Joint-Stock Company]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Joint-Stock Company Definition, Understanding Joint-Stock Companies]
 source: https://www.investopedia.com/terms/j/jointstockcompany.asp

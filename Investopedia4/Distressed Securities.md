@@ -3,7 +3,7 @@ alias: [Distressed Securities]
 created: 2021-03-02T19:22:37 (UTC +11:00)
 tags: [Distressed Securities Definition, Distressed Securities]
 source: https://www.investopedia.com/terms/d/distressedsecurities.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Distressed Securities]] Definition

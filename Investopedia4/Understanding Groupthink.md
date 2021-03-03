@@ -3,7 +3,7 @@ alias: [Groupthink]
 created: 2021-03-02T20:30:11 (UTC +11:00)
 tags: [Groupthink Definition, Understanding Groupthink]
 source: https://www.investopedia.com/terms/g/groupthink.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Groupthink Definition

@@ -3,7 +3,7 @@ alias: [Knowledge Capital]
 created: 2021-03-02T21:07:19 (UTC +11:00)
 tags: [Knowledge Capital Definition, Sizing up Knowledge Capital]
 source: https://www.investopedia.com/terms/k/knowledge-capital.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Knowledge Capital Definition

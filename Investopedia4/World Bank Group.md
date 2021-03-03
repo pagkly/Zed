@@ -3,7 +3,7 @@ alias: [World Bank Group]
 created: 2021-03-03T01:03:35 (UTC +11:00)
 tags: [World Bank Group, World Bank Group]
 source: https://www.investopedia.com/terms/w/world-bank-group.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[World Bank Group]]

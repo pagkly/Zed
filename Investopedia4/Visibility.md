@@ -3,7 +3,7 @@ alias: [Visibility]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Visibility Definition, Visibility]
 source: https://www.investopedia.com/terms/v/[[Visibility|visibility]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Visibility]] Definition

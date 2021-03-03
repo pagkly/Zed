@@ -3,7 +3,7 @@ alias: [Green Card]
 created: 2021-03-02T20:25:18 (UTC +11:00)
 tags: [Green Card Definition, Green Card]
 source: https://www.investopedia.com/terms/g/green-card.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Green Card]] Definition

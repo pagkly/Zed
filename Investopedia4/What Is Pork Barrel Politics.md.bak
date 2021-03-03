@@ -1,7 +1,7 @@
 ---
 alias: [Pork Barrel Politics]
 created: 2021-03-02T22:44:56 (UTC +11:00)
-tags: [Pork Barrel Politics Definition, [[What Is Pork Barrel Politics]]?]
+tags: [Pork Barrel Politics Definition, What Is Pork Barrel Politics?]
 source: https://www.investopedia.com/terms/p/pork_barrel_politics.asp
 author: [[Will]] Kenton
 ---

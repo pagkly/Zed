@@ -3,7 +3,7 @@ alias: [Return On Average Equity, ROAE]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Return On Average Equity (ROAE), Return On Average Equity (ROAE)]
 source: https://www.investopedia.com/terms/r/roae.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Return On Average Equity (ROAE)]]

@@ -3,7 +3,7 @@ alias: [Sales Lead]
 created: 2021-03-02T23:29:56 (UTC +11:00)
 tags: [Sales Lead Definition, Finding a Good Sales Lead]
 source: https://www.investopedia.com/terms/s/sales-lead.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Sales Lead Definition

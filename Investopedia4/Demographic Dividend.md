@@ -3,7 +3,7 @@ alias: [Demographic Dividend]
 created: 2021-03-02T19:15:54 (UTC +11:00)
 tags: [Demographic Dividend Definition, Demographic Dividend]
 source: https://www.investopedia.com/terms/d/demographic-dividend.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Demographic Dividend]] Definition

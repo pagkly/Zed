@@ -3,7 +3,7 @@ alias: [Working Class]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Working Class, Working Class]
 source: https://www.investopedia.com/terms/w/working-class.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Working Class]]

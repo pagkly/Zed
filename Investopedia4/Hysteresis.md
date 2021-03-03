@@ -3,7 +3,7 @@ alias: [Hysteresis]
 created: 2021-03-02T20:56:08 (UTC +11:00)
 tags: [Hysteresis Definition, Hysteresis]
 source: https://www.investopedia.com/terms/h/[[Hysteresis|hysteresis]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hysteresis]] Definition

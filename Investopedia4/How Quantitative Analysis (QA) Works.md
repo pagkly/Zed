@@ -3,7 +3,7 @@ alias: [Quantitative Analysis, QA]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quantitative Analysis (QA) Definition, How Quantitative Analysis (QA) Works]
 source: https://www.investopedia.com/terms/q/quantitativeanalysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Quantitative Analysis (QA) Definition

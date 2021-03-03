@@ -3,7 +3,7 @@ alias: [Normative Economics]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Normative Economics Definition, Normative Economics]
 source: https://www.investopedia.com/terms/n/normativeeconomics.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Normative Economics]] Definition

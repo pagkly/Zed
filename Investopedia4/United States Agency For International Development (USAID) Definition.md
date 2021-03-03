@@ -3,7 +3,7 @@ alias: [United States Agency For International Development, USAID]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [United States Agency For International Development (USAID) Definition, United States Agency For International Development (USAID) Definition]
 source: https://www.investopedia.com/terms/u/united-states-aid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[United States Agency For International Development (USAID) Definition]]

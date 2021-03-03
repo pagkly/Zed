@@ -3,7 +3,7 @@ alias: [Human Capital]
 created: 2021-03-02T20:54:01 (UTC +11:00)
 tags: [Human Capital Definition, Reading Into Human Capital]
 source: https://www.investopedia.com/terms/h/humancapital.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Human Capital Definition

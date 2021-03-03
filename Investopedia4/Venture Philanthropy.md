@@ -3,7 +3,7 @@ alias: [Venture Philanthropy]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Venture Philanthropy Definition, Venture Philanthropy]
 source: https://www.investopedia.com/terms/v/venture-philanthropy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Venture Philanthropy]] Definition

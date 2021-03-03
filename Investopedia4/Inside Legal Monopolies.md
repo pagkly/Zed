@@ -3,7 +3,7 @@ alias: [Legal Monopoly]
 created: 2021-03-02T21:13:31 (UTC +11:00)
 tags: [Legal Monopoly Definition, Inside Legal Monopolies]
 source: https://www.investopedia.com/terms/l/legalmonopoly.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Legal [[Monopoly]] Definition

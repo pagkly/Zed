@@ -3,7 +3,7 @@ alias: [Near Money]
 created: 2021-03-02T21:34:25 (UTC +11:00)
 tags: [Near Money Definition, Near Money Definition]
 source: https://www.investopedia.com/terms/n/near-money.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Near Money Definition]]

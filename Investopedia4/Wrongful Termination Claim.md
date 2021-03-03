@@ -3,7 +3,7 @@ alias: [Wrongful Termination Claim]
 created: 2021-03-03T01:06:04 (UTC +11:00)
 tags: [Wrongful Termination Claim, Wrongful Termination Claim]
 source: https://www.investopedia.com/terms/w/wrongful-termination-claims.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wrongful Termination Claim]]

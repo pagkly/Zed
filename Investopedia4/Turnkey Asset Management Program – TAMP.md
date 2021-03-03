@@ -3,7 +3,7 @@ alias: [Turnkey Asset Management Program – TAMP]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [Turnkey Asset Management Program – TAMP Definition, Turnkey Asset Management Program – TAMP]
 source: https://www.investopedia.com/terms/t/turnkey-asset-management-program-tamp.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Turnkey Asset Management Program – TAMP]] Definition

@@ -3,7 +3,7 @@ alias: [Harry Markowitz]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Harry Markowitz, Harry Markowitz]
 source: https://www.investopedia.com/terms/h/harrymarkowitz.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Harry Markowitz]]

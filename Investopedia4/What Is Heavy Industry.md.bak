@@ -1,7 +1,7 @@
 ---
 alias: [Heavy Industry]
 created: 2021-03-02T20:39:12 (UTC +11:00)
-tags: [Heavy Industry Definition, [[What Is Heavy Industry]]?]
+tags: [Heavy Industry Definition, What Is Heavy Industry?]
 source: https://www.investopedia.com/terms/h/heavy_industry.asp
 author: [[Will]] Kenton
 ---

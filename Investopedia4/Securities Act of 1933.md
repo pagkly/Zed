@@ -3,7 +3,7 @@ alias: [Securities Act of 1933]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Securities Act of 1933 Definition, Securities Act of 1933]
 source: https://www.investopedia.com/terms/s/securitiesact1933.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Securities Act of 1933]] Definition

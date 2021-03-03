@@ -3,7 +3,7 @@ alias: [Rating]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Rating Definition, Rating]
 source: https://www.investopedia.com/terms/r/[[Rating|rating]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Rating]] Definition

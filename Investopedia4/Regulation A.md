@@ -3,7 +3,7 @@ alias: [Regulation A]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Regulation A Definition, Regulation A]
 source: https://www.investopedia.com/terms/r/regulationa.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulation A]] Definition

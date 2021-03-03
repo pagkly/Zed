@@ -3,7 +3,7 @@ alias: [Price to Tangible Book Value, PTBV]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price to Tangible Book Value (PTBV), Price to Tangible Book Value (PTBV)]
 source: https://www.investopedia.com/terms/p/ptbv.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Price to Tangible Book Value (PTBV)]]

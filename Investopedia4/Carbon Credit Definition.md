@@ -3,7 +3,7 @@ alias: [Carbon Credit]
 created: 2021-03-02T18:46:50 (UTC +11:00)
 tags: [Carbon Credit Definition, Carbon Credit Definition]
 source: https://www.investopedia.com/terms/c/carbon_credit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Carbon Credit Definition]]

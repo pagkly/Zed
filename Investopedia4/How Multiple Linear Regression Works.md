@@ -3,7 +3,7 @@ alias: [Multiple Linear Regression, MLR]
 created: 2021-03-02T22:13:50 (UTC +11:00)
 tags: [Multiple Linear Regression (MLR) Definition, How Multiple Linear Regression Works]
 source: https://www.investopedia.com/terms/m/mlr.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Multiple Linear Regression (MLR) Definition

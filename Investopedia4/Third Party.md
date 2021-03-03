@@ -3,7 +3,7 @@ alias: [Third Party]
 created: 2021-03-03T00:00:38 (UTC +11:00)
 tags: [Third Party Definition, Third Party]
 source: https://www.investopedia.com/terms/t/third-party.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Third Party]] Definition

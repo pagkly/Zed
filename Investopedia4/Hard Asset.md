@@ -3,7 +3,7 @@ alias: [Hard Asset]
 created: 2021-03-02T20:34:42 (UTC +11:00)
 tags: [Hard Asset Definition, Hard Asset]
 source: https://www.investopedia.com/terms/h/hard_asset.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hard Asset]] Definition

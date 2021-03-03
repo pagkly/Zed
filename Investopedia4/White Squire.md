@@ -3,7 +3,7 @@ alias: [White Squire]
 created: 2021-03-03T00:54:56 (UTC +11:00)
 tags: [White Squire Definition, White Squire]
 source: https://www.investopedia.com/terms/w/whitesquire.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[White Squire]] Definition

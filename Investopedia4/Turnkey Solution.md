@@ -3,7 +3,7 @@ alias: [Turnkey Solution]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [Turnkey Solution Definition, Turnkey Solution]
 source: https://www.investopedia.com/terms/t/turnkey_solution.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Turnkey Solution]] Definition

@@ -3,7 +3,7 @@ alias: [Step-Up in Basis]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Step-Up in Basis Definition, Step-Up in Basis Definition]
 source: https://www.investopedia.com/terms/s/stepupinbasis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Step-Up in Basis Definition]]

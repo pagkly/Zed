@@ -3,7 +3,7 @@ alias: [North American Industry Classification System, NAICS]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [North American Industry Classification System (NAICS), North American Industry Classification System (NAICS)]
 source: https://www.investopedia.com/terms/n/naics.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[North American Industry Classification System (NAICS)]]

@@ -3,7 +3,7 @@ alias: [World Bank]
 created: 2021-03-03T01:03:35 (UTC +11:00)
 tags: [World Bank Definition, World Bank Definition]
 source: https://www.investopedia.com/terms/w/worldbank.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[World Bank Definition]]

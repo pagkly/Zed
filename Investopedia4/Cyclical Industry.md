@@ -3,7 +3,7 @@ alias: [Cyclical Industry]
 created: 2021-03-02T19:07:18 (UTC +11:00)
 tags: [Cyclical Industry, Cyclical Industry]
 source: https://www.investopedia.com/terms/c/cyclical_industry.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cyclical Industry]]

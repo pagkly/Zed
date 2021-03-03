@@ -3,7 +3,7 @@ alias: [Markets in Financial Instruments Directive, MiFID]
 created: 2021-03-02T21:59:06 (UTC +11:00)
 tags: [Markets in Financial Instruments Directive (MiFID) Definition, Markets in Financial Instruments Directive (MiFID)]
 source: https://www.investopedia.com/terms/m/mifid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Markets in Financial Instruments Directive (MiFID)]] Definition

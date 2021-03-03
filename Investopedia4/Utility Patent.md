@@ -3,7 +3,7 @@ alias: [Utility Patent]
 created: 2021-03-03T00:32:20 (UTC +11:00)
 tags: [Utility Patent Definition, Utility Patent]
 source: https://www.investopedia.com/terms/u/utility-patent.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Utility Patent]] Definition

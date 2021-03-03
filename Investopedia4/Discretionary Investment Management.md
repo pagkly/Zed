@@ -3,7 +3,7 @@ alias: [Discretionary Investment Management]
 created: 2021-03-02T19:22:36 (UTC +11:00)
 tags: [Discretionary Investment Management Definition, Discretionary Investment Management]
 source: https://www.investopedia.com/terms/d/discretionary-investment-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Discretionary Investment Management]] Definition

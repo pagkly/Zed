@@ -1,7 +1,7 @@
 ---
 alias: [Market Penetration]
 created: 2021-03-02T21:59:05 (UTC +11:00)
-tags: [Market Penetration, How Market Penetration is Used by Companies to [[Gain]] Market Share]
+tags: [Market Penetration, How Market Penetration is Used by Companies to Gain Market Share]
 source: https://www.investopedia.com/terms/m/market-penetration.asp
 author: [[Will]] Kenton
 ---

@@ -3,7 +3,7 @@ alias: [John F. Nash Jr.]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [John F. Nash Jr., John F. Nash Jr.]
 source: https://www.investopedia.com/terms/j/john-f-nash-jr.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[John F. Nash Jr.]]

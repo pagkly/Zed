@@ -3,7 +3,7 @@ alias: [Okun's Law]
 created: 2021-03-02T22:17:59 (UTC +11:00)
 tags: [Okun's Law Definition, Okun's Law]
 source: https://www.investopedia.com/terms/o/okunslaw.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Okun's Law]] Definition

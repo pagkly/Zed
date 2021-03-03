@@ -3,7 +3,7 @@ alias: [Onerous Contract]
 created: 2021-03-02T22:20:05 (UTC +11:00)
 tags: [Onerous Contract Definition, Onerous Contract]
 source: https://www.investopedia.com/terms/o/onerouscontract.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Onerous Contract]] Definition

@@ -1,7 +1,7 @@
 ---
 alias: [What Is a Personal Service Corporation?]
 created: 2021-03-02T22:42:35 (UTC +11:00)
-tags: [What Is a Personal Service Corporation?, [[What Is a Personal Service Corporation]]?]
+tags: [What Is a Personal Service Corporation?, What Is a Personal Service Corporation?]
 source: https://www.investopedia.com/terms/p/personal-service-corporation.asp
 author: [[Will]] Kenton
 ---

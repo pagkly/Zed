@@ -3,7 +3,7 @@ alias: [Market Power]
 created: 2021-03-02T21:59:05 (UTC +11:00)
 tags: [Market Power Definition, What You Need to Know About Market Power]
 source: https://www.investopedia.com/terms/m/market-power.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Market Power Definition

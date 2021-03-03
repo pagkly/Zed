@@ -3,7 +3,7 @@ alias: [Silk Route]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Silk Route Definition, What You Should Know About the Silk Route]
 source: https://www.investopedia.com/terms/s/silk-route.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Silk Route Definition

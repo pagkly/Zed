@@ -3,7 +3,7 @@ alias: [Vicarious Liability]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Vicarious Liability, Vicarious Liability]
 source: https://www.investopedia.com/terms/v/vicarious-[[Liability|liability]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Vicarious Liability]]

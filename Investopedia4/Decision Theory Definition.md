@@ -3,7 +3,7 @@ alias: [Decision Theory]
 created: 2021-03-02T19:11:29 (UTC +11:00)
 tags: [Decision Theory Definition, Decision Theory Definition]
 source: https://www.investopedia.com/terms/d/decision-theory.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Decision Theory Definition]]

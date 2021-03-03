@@ -3,7 +3,7 @@ alias: [First In, First Out, FIFO]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [First In, First Out (FIFO) Definition, First In, First Out (FIFO)]
 source: https://www.investopedia.com/terms/f/fifo.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[First In, First Out (FIFO)]] Definition

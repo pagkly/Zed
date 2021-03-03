@@ -3,7 +3,7 @@ alias: [S&P 500 Index – Standard & Poor's 500 Index]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [S&P 500 Index – Standard & Poor's 500 Index Definition, S&P 500 Index]
 source: https://www.investopedia.com/terms/s/sp500.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[S&P 500 Index]] – Standard & Poor's 500 Index Definition

@@ -3,7 +3,7 @@ alias: [Up-Market Capture Ratio]
 created: 2021-03-03T00:27:53 (UTC +11:00)
 tags: [Up-Market Capture Ratio Definition, Up-Market Capture Ratio]
 source: https://www.investopedia.com/terms/u/up-market-capture-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Up-Market Capture Ratio]] Definition

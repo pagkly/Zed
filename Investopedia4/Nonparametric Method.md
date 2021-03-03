@@ -3,7 +3,7 @@ alias: [Nonparametric Method]
 created: 2021-03-02T21:50:22 (UTC +11:00)
 tags: [Nonparametric Method Definition, Nonparametric Method]
 source: https://www.investopedia.com/terms/n/nonparametric-method.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Nonparametric Method]] Definition

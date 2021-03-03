@@ -3,7 +3,7 @@ alias: [Exchange Control]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange Control, Exchange Control]
 source: https://www.investopedia.com/terms/e/exchangecontrol.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Exchange Control]]

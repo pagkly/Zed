@@ -3,7 +3,7 @@ alias: [Goodness-Of-Fit]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Goodness-Of-Fit Definition, Goodness-Of-Fit Definition]
 source: https://www.investopedia.com/terms/g/goodness-of-fit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Goodness-Of-Fit Definition]]

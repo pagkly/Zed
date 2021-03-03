@@ -3,7 +3,7 @@ alias: [Unchanged]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Unchanged, Unchanged]
 source: https://www.investopedia.com/terms/u/[[Unchanged|unchanged]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unchanged]]

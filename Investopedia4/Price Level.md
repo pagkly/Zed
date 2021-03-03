@@ -3,7 +3,7 @@ alias: [Price Level]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price Level Definition, Price Level]
 source: https://www.investopedia.com/terms/p/price_level.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Price Level]] Definition

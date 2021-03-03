@@ -3,7 +3,7 @@ alias: [Main Street Defiition]
 created: 2021-03-02T21:52:30 (UTC +11:00)
 tags: [Main Street Defiition, What Is Main Street?]
 source: https://www.investopedia.com/terms/m/mainstreet.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Main Street Defiition

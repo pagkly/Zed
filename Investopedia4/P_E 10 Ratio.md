@@ -3,7 +3,7 @@ alias: [P/E 10 Ratio]
 created: 2021-03-02T22:40:12 (UTC +11:00)
 tags: [P/E 10 Ratio Definition, P/E 10 Ratio]
 source: https://www.investopedia.com/terms/p/pe10ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # P/E 10 Ratio Definition

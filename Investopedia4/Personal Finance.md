@@ -3,7 +3,7 @@ alias: [Personal Finance]
 created: 2021-03-02T22:42:33 (UTC +11:00)
 tags: [Personal Finance Definition, Personal Finance]
 source: https://www.investopedia.com/terms/p/personalfinance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Personal Finance]] Definition

@@ -3,7 +3,7 @@ alias: [Lean Startup]
 created: 2021-03-02T21:13:30 (UTC +11:00)
 tags: [Lean Startup Definition, Lean Startup]
 source: https://www.investopedia.com/terms/l/lean-startup.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lean Startup]] Definition

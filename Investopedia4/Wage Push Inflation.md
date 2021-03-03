@@ -3,7 +3,7 @@ alias: [Wage Push Inflation]
 created: 2021-03-03T00:46:28 (UTC +11:00)
 tags: [Wage Push Inflation, Wage Push Inflation]
 source: https://www.investopedia.com/terms/w/wage-push-inflation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wage Push Inflation]]

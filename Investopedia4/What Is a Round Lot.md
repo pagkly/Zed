@@ -3,7 +3,7 @@ alias: [Round Lot]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Round Lot Definition, What Is a Round Lot?]
 source: https://www.investopedia.com/terms/r/roundlot.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Round Lot Definition

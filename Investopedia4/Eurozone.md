@@ -3,7 +3,7 @@ alias: [Eurozone]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [Eurozone Definition, Eurozone]
 source: https://www.investopedia.com/terms/e/[[Eurozone|eurozone]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Eurozone]] Definition

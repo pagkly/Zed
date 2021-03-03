@@ -3,7 +3,7 @@ alias: [Zero-Proof Bookkeeping]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zero-Proof Bookkeeping, Zero-Proof Bookkeeping]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-proof-bookkeeping.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zero-Proof Bookkeeping]]

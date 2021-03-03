@@ -3,7 +3,7 @@ alias: [Yard]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Yard Definition, Inside the Financial Yard]
 source: https://www.investopedia.com/terms/[[Y|y]]/yard.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Yard Definition

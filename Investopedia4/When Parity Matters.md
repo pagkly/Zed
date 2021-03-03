@@ -3,7 +3,7 @@ alias: [Parity]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Parity Definition, When Parity Matters]
 source: https://www.investopedia.com/terms/p/parity.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Parity Definition

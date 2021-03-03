@@ -3,7 +3,7 @@ alias: [Musharakah]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Musharakah Definition, Musharakah is an Islamic Finance|finance term for a Joint|joint enterprise or partnership structure.]
 source: https://www.investopedia.com/terms/m/musharakah.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Musharakah Definition

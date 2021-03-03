@@ -3,7 +3,7 @@ alias: [Trial Balance]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Trial Balance Definition, Trial Balance]
 source: https://www.investopedia.com/terms/t/trial_balance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Trial Balance]] Definition

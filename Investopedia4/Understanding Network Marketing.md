@@ -3,7 +3,7 @@ alias: [What Is Network Marketing?]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [What Is Network Marketing?, Understanding Network Marketing]
 source: https://www.investopedia.com/terms/n/network-marketing.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # What Is Network Marketing?

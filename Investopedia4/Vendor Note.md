@@ -3,7 +3,7 @@ alias: [Vendor Note]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Vendor Note Definition, Vendor Note]
 source: https://www.investopedia.com/terms/v/vendor-note.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Vendor Note]] Definition

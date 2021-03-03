@@ -3,7 +3,7 @@ alias: [Kelly Criterion]
 created: 2021-03-02T21:05:08 (UTC +11:00)
 tags: [Kelly Criterion Definition, Understanding the Kelly Criterion]
 source: https://www.investopedia.com/terms/k/kellycriterion.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Kelly Criterion Definition

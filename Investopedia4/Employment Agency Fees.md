@@ -3,7 +3,7 @@ alias: [Employment Agency Fees]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employment Agency Fees Definition, Employment Agency Fees]
 source: https://www.investopedia.com/terms/e/employment-agency-fees.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Employment Agency Fees]] Definition

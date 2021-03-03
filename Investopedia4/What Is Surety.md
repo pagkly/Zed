@@ -3,7 +3,7 @@ alias: [Surety]
 created: 2021-03-02T23:50:09 (UTC +11:00)
 tags: [Surety Definition, What Is Surety?]
 source: https://www.investopedia.com/terms/s/surety.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Surety Definition

@@ -1,7 +1,7 @@
 ---
 alias: [Welfare State]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Welfare State Definition, [[What Is the Welfare State]]?]
+tags: [Welfare State Definition, What Is the Welfare State?]
 source: https://www.investopedia.com/terms/w/welfare-state.asp
 author: [[Will]] Kenton
 ---

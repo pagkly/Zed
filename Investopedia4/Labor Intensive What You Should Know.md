@@ -3,7 +3,7 @@ alias: [Labor Intensive]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Labor Intensive Definition, Labor Intensive: What You Should Know]
 source: https://www.investopedia.com/terms/l/laborintensive.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Labor Intensive Definition

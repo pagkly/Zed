@@ -3,7 +3,7 @@ alias: [European Community, EC]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Community (EC) Definition, European Community (EC)]
 source: https://www.investopedia.com/terms/e/european-community.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[European Community (EC)]] Definition

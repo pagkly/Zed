@@ -3,7 +3,7 @@ alias: [Hubris]
 created: 2021-03-02T20:51:42 (UTC +11:00)
 tags: [Hubris Definition, Hubris]
 source: https://www.investopedia.com/terms/h/[[Hubris|hubris]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hubris]] Definition

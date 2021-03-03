@@ -3,7 +3,7 @@ alias: [Grandfather Clause]
 created: 2021-03-02T20:23:14 (UTC +11:00)
 tags: [Grandfather Clause Definition, Grandfather Clause]
 source: https://www.investopedia.com/terms/g/grandfatherclause.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Grandfather Clause]] Definition

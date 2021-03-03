@@ -3,7 +3,7 @@ alias: [Sector]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Sector, What is a Sector?]
 source: https://www.investopedia.com/terms/s/sector.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Sector

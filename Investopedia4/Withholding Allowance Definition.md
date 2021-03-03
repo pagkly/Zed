@@ -3,7 +3,7 @@ alias: [Withholding Allowance]
 created: 2021-03-03T01:01:20 (UTC +11:00)
 tags: [Withholding Allowance Definition, Withholding Allowance Definition]
 source: https://www.investopedia.com/terms/w/withholdingallowance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Withholding Allowance Definition]]

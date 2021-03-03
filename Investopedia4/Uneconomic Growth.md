@@ -3,7 +3,7 @@ alias: [Uneconomic Growth]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Uneconomic Growth, Uneconomic Growth]
 source: https://www.investopedia.com/terms/u/uneconomic-growth.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Uneconomic Growth]]

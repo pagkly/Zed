@@ -3,7 +3,7 @@ alias: [Factor Market]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Factor Market Definition, What You Should Know About Factor Markets]
 source: https://www.investopedia.com/terms/f/factor-market.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Factor Market Definition

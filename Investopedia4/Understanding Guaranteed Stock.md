@@ -3,7 +3,7 @@ alias: [Guaranteed Stock]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Stock Definition, Understanding Guaranteed Stock]
 source: https://www.investopedia.com/terms/g/guaranteedstock.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Guaranteed [[Stock]] Definition

@@ -3,7 +3,7 @@ alias: [McKinsey 7S Model]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [McKinsey 7S Model Definition, Understanding the McKinsey 7S Model]
 source: https://www.investopedia.com/terms/m/mckinsey-7s-model.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # McKinsey 7S Model Definition

@@ -3,7 +3,7 @@ alias: [Guanxi]
 created: 2021-03-02T20:32:32 (UTC +11:00)
 tags: [Guanxi Definition, Why Guanxi Matters]
 source: https://www.investopedia.com/terms/g/guanxi.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Guanxi Definition

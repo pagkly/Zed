@@ -3,7 +3,7 @@ alias: [Estoppel]
 created: 2021-03-02T19:42:14 (UTC +11:00)
 tags: [Estoppel Definition, Understanding Estoppel]
 source: https://www.investopedia.com/terms/e/estoppel.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Estoppel Definition

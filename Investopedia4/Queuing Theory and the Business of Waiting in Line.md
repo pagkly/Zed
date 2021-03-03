@@ -3,7 +3,7 @@ alias: [Queuing Theory]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Queuing Theory Definition, Queuing Theory and the Business of Waiting in Line]
 source: https://www.investopedia.com/terms/q/queuing-theory.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Queuing Theory Definition

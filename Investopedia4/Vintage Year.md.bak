@@ -1,7 +1,7 @@
 ---
 alias: [Vintage Year]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Vintage Year Definition, [[Vintage]] Year]
+tags: [Vintage Year Definition, Vintage Year]
 source: https://www.investopedia.com/terms/v/vintage_year.asp
 author: [[Will]] Kenton
 ---

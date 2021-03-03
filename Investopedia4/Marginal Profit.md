@@ -3,7 +3,7 @@ alias: [Marginal Profit]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Marginal Profit, Marginal Profit]
 source: https://www.investopedia.com/terms/m/marginal-profit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Marginal Profit]]

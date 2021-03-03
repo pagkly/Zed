@@ -3,7 +3,7 @@ alias: [Hiring Freeze]
 created: 2021-03-02T20:45:31 (UTC +11:00)
 tags: [Hiring Freeze Definition, Hiring Freeze]
 source: https://www.investopedia.com/terms/h/hiring-freeze.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hiring Freeze]] Definition

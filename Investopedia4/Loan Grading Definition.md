@@ -3,7 +3,7 @@ alias: [Loan Grading]
 created: 2021-03-02T21:23:50 (UTC +11:00)
 tags: [Loan Grading Definition, Loan Grading Definition]
 source: https://www.investopedia.com/terms/l/[[Loan|loan]]-grading.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Loan Grading Definition]]

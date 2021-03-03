@@ -3,7 +3,7 @@ alias: [Pro Rata]
 created: 2021-03-02T22:52:19 (UTC +11:00)
 tags: [Pro Rata Definition, Understanding Pro Rata]
 source: https://www.investopedia.com/terms/p/pro-rata.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Pro Rata Definition

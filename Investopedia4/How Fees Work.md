@@ -3,7 +3,7 @@ alias: [Fee]
 created: 2021-03-02T19:52:37 (UTC +11:00)
 tags: [Fee Definition, How Fees Work]
 source: https://www.investopedia.com/terms/f/fee.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Fee Definition

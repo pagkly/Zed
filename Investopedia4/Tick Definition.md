@@ -3,7 +3,7 @@ alias: [Tick]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Tick Definition, Tick Definition]
 source: https://www.investopedia.com/terms/t/tick.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Tick Definition]]

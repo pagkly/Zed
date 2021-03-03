@@ -3,7 +3,7 @@ alias: [Keynesian Put]
 created: 2021-03-02T21:07:17 (UTC +11:00)
 tags: [Keynesian Put, Keynesian Put]
 source: https://www.investopedia.com/terms/k/keynesian-put.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Keynesian Put]]

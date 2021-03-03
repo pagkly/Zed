@@ -3,7 +3,7 @@ alias: [Whitewash Resolution]
 created: 2021-03-03T00:54:56 (UTC +11:00)
 tags: [Whitewash Resolution Definition, What Is a Whitewash Resolution?]
 source: https://www.investopedia.com/terms/w/whitewashresolution.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Whitewash Resolution Definition

@@ -3,7 +3,7 @@ alias: [Low-Hanging Fruit]
 created: 2021-03-02T21:30:09 (UTC +11:00)
 tags: [Low-Hanging Fruit Definition, Understanding Low-Hanging Fruit]
 source: https://www.investopedia.com/terms/l/low-hanging-fruit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Low-Hanging Fruit Definition

@@ -3,7 +3,7 @@ alias: [Weighted]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weighted, Weighted]
 source: https://www.investopedia.com/terms/w/[[Weighted|weighted]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Weighted]]

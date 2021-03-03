@@ -3,7 +3,7 @@ alias: [Distributable Net Income, DNI]
 created: 2021-03-02T19:22:37 (UTC +11:00)
 tags: [Distributable Net Income (DNI) Definition, Distributable Net Income (DNI)]
 source: https://www.investopedia.com/terms/d/distributablenetincome.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Distributable Net Income (DNI)]] Definition

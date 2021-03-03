@@ -3,7 +3,7 @@ alias: [Net Liquid Assets]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Liquid Assets Definition, Net Liquid Assets]
 source: https://www.investopedia.com/terms/n/netliquidassets.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Net Liquid Assets]] Definition

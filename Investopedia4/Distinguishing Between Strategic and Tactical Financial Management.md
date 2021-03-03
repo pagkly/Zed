@@ -3,7 +3,7 @@ alias: [Strategic Financial Management]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Strategic Financial Management Definition, Distinguishing Between Strategic and Tactical Financial Management]
 source: https://www.investopedia.com/terms/s/strategic-financial-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Strategic Financial Management Definition

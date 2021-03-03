@@ -3,7 +3,7 @@ alias: [What Are Organic Sales?]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [What Are Organic Sales?, What Are Organic Sales?]
 source: https://www.investopedia.com/terms/o/organic-sales.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[What Are Organic Sales]]?

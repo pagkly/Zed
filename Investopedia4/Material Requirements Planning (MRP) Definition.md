@@ -3,7 +3,7 @@ alias: [Material Requirements Planning, MRP]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [Material Requirements Planning (MRP) Definition, Material Requirements Planning (MRP) Definition]
 source: https://www.investopedia.com/terms/m/mrp.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Material Requirements Planning (MRP) Definition]]

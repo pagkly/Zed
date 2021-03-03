@@ -3,7 +3,7 @@ alias: [Fixed Asset]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Fixed Asset Definition, Fixed Asset Definition]
 source: https://www.investopedia.com/terms/f/fixedasset.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Fixed Asset Definition]]

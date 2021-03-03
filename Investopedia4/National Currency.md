@@ -3,7 +3,7 @@ alias: [National Currency]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Currency, National Currency]
 source: https://www.investopedia.com/terms/n/national-currency.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[National Currency]]

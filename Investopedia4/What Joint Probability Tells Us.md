@@ -3,7 +3,7 @@ alias: [Joint Probability]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Joint Probability Definition, What Joint Probability Tells Us]
 source: https://www.investopedia.com/terms/j/jointprobability.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Joint]] Probability Definition

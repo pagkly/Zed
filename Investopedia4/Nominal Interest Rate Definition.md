@@ -3,7 +3,7 @@ alias: [Nominal Interest Rate]
 created: 2021-03-02T21:43:52 (UTC +11:00)
 tags: [Nominal Interest Rate Definition, Nominal Interest Rate Definition]
 source: https://www.investopedia.com/terms/n/nominalinterestrate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Nominal Interest Rate Definition]]

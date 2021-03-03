@@ -3,7 +3,7 @@ alias: [Overextension]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overextension, Overextension]
 source: https://www.investopedia.com/terms/o/[[Overextension|overextension]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Overextension]]

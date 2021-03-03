@@ -3,7 +3,7 @@ alias: [Three-Sigma Limits]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Three-Sigma Limits Definition, Three-Sigma Limits: What You Need to Know]
 source: https://www.investopedia.com/terms/t/three-sigma-limits.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Three-Sigma Limits Definition

@@ -3,7 +3,7 @@ alias: [Warranty]
 created: 2021-03-03T00:48:37 (UTC +11:00)
 tags: [Warranty Definition, What You Should Know About Warranties]
 source: https://www.investopedia.com/terms/w/warranty.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Warranty Definition

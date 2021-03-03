@@ -3,7 +3,7 @@ alias: [Financial Accounting]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Financial Accounting, Financial Accounting]
 source: https://www.investopedia.com/terms/f/financialaccounting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Financial Accounting]]

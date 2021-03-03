@@ -3,7 +3,7 @@ alias: [Gunnar Myrdal]
 created: 2021-03-02T20:34:41 (UTC +11:00)
 tags: [Gunnar Myrdal, Gunnar Myrdal]
 source: https://www.investopedia.com/terms/g/gunnar-myrdal.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gunnar Myrdal]]

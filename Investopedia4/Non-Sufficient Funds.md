@@ -3,7 +3,7 @@ alias: [Non-Sufficient Funds, NSF]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Non-Sufficient Funds (NSF) Definition, Non-Sufficient Funds]
 source: https://www.investopedia.com/terms/n/nsf.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Non-Sufficient Funds]] (NSF) Definition

@@ -1,7 +1,7 @@
 ---
 alias: [What Is the Hierarchy-Of-Effects Theory?]
 created: 2021-03-02T20:43:24 (UTC +11:00)
-tags: [What Is the Hierarchy-Of-Effects Theory?, [[What Is the Hierarchy-Of-Effects Theory]]?]
+tags: [What Is the Hierarchy-Of-Effects Theory?, What Is the Hierarchy-Of-Effects Theory?]
 source: https://www.investopedia.com/terms/h/hierarchy-of-effects-theory.asp
 author: [[Will]] Kenton
 ---

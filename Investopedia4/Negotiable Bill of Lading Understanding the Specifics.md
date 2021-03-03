@@ -3,7 +3,7 @@ alias: [Negotiable Bill of Lading]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negotiable Bill of Lading Definition, Negotiable Bill of Lading: Understanding the Specifics]
 source: https://www.investopedia.com/terms/n/negotiable-bill-of-lading.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Negotiable Bill of Lading Definition

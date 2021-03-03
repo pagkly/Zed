@@ -3,7 +3,7 @@ alias: [Due To Account Defined]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Due To Account Defined, What is A Due To Account]
 source: https://www.investopedia.com/terms/d/due-to-account.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Due To Account Defined

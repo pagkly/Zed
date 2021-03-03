@@ -3,7 +3,7 @@ alias: [Open-Market Transaction]
 created: 2021-03-02T22:22:11 (UTC +11:00)
 tags: [Open-Market Transaction Definition, Open-Market Transaction]
 source: https://www.investopedia.com/terms/o/openmarkettransaction.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Open-Market Transaction]] Definition

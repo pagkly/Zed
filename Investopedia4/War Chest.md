@@ -3,7 +3,7 @@ alias: [War Chest]
 created: 2021-03-03T00:46:30 (UTC +11:00)
 tags: [War Chest Definition, War Chest]
 source: https://www.investopedia.com/terms/w/warchest.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[War Chest]] Definition

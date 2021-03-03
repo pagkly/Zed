@@ -3,7 +3,7 @@ alias: [Real Time]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Real Time Definition, What Is Real Time?]
 source: https://www.investopedia.com/terms/r/real_time.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Real Time Definition

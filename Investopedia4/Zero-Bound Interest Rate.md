@@ -3,7 +3,7 @@ alias: [Zero-Bound Interest Rate]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero-Bound Interest Rate, Zero-Bound Interest Rate]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-bound-interest-rate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zero-Bound Interest Rate]]

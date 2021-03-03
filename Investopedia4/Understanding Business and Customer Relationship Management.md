@@ -3,7 +3,7 @@ alias: [Relationship Management]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Relationship Management Definition, Understanding Business and Customer Relationship Management]
 source: https://www.investopedia.com/terms/r/relationship-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Relationship Management Definition

@@ -3,7 +3,7 @@ alias: [Delaware Corporation]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Delaware Corporation Definition, What You Should Know About Delaware Corporations]
 source: https://www.investopedia.com/terms/d/delaware-corporation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Delaware Corporation Definition

@@ -3,7 +3,7 @@ alias: [Wholesale Trade]
 created: 2021-03-03T00:57:13 (UTC +11:00)
 tags: [Wholesale Trade Definition, Wholesale Trade]
 source: https://www.investopedia.com/terms/w/wholesale-trade.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wholesale Trade]] Definition

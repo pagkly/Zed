@@ -3,7 +3,7 @@ alias: [Goal Seeking]
 created: 2021-03-02T20:20:50 (UTC +11:00)
 tags: [Goal Seeking Definition, Goal Seeking]
 source: https://www.investopedia.com/terms/g/goal-seeking.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Goal Seeking]] Definition

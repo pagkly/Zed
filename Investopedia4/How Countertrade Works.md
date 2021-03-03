@@ -3,7 +3,7 @@ alias: [Countertrade]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Countertrade Definition, How Countertrade Works]
 source: https://www.investopedia.com/terms/c/countertrade.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Countertrade Definition

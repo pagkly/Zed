@@ -3,7 +3,7 @@ alias: [Expropriation]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Expropriation Definition, Expropriation]
 source: https://www.investopedia.com/terms/e/[[Expropriation|expropriation]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Expropriation]] Definition

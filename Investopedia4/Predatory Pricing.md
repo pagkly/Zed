@@ -3,7 +3,7 @@ alias: [Predatory Pricing]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [Predatory Pricing Definition, Predatory Pricing]
 source: https://www.investopedia.com/terms/p/predatory-pricing.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Predatory Pricing]] Definition

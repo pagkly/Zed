@@ -3,7 +3,7 @@ alias: [Value-Added Reseller, VAR]
 created: 2021-03-03T00:32:20 (UTC +11:00)
 tags: [Value-Added Reseller (VAR) Definition, How Value-Added Resellers (VAR) Work]
 source: https://www.investopedia.com/terms/v/value-added-reseller.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Value-Added Reseller (VAR) Definition

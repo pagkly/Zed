@@ -1,5 +1,5 @@
 ---
-alias: [Net [[Operating Profit]] Less Adjusted Taxes, NOPLAT]
+alias: [Net Operating Profit Less Adjusted Taxes, NOPLAT]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Operating Profit Less Adjusted Taxes (NOPLAT) Definition, Net Operating Profit Less Adjusted Taxes (NOPLAT)]
 source: https://www.investopedia.com/terms/n/noplat.asp

@@ -1,7 +1,7 @@
 ---
 alias: [Writ of Execution]
 created: 2021-03-03T01:03:36 (UTC +11:00)
-tags: [Writ of [[Execution Definition]], Writ of Execution Definition]
+tags: [Writ of Execution Definition, Writ of Execution Definition]
 source: https://www.investopedia.com/terms/w/writ-of-execution.asp
 author: [[Will]] Kenton
 ---

@@ -3,7 +3,7 @@ alias: [Market Cycles]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Market Cycles Definition, Market Cycles]
 source: https://www.investopedia.com/terms/m/market_cycles.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Market Cycles]] Definition

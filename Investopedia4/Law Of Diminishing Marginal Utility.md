@@ -3,7 +3,7 @@ alias: [Law Of Diminishing Marginal Utility]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Law Of Diminishing Marginal Utility, Law Of Diminishing Marginal Utility]
 source: https://www.investopedia.com/terms/l/lawofdiminishingutility.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Law Of Diminishing Marginal Utility]]

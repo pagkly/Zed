@@ -3,7 +3,7 @@ alias: [National Registration Database, NRD]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Registration Database (NRD), National Registration Database (NRD)]
 source: https://www.investopedia.com/terms/n/nrd.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[National Registration Database (NRD)]]

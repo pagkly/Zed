@@ -3,7 +3,7 @@ alias: [Notching]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Notching, Notching Definition]
 source: https://www.investopedia.com/terms/n/notching.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Notching

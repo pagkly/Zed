@@ -3,7 +3,7 @@ alias: [Leveraged Buyback]
 created: 2021-03-02T21:15:35 (UTC +11:00)
 tags: [Leveraged Buyback Definition, Leveraged Buyback]
 source: https://www.investopedia.com/terms/l/leveraged_buyback.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Leveraged Buyback]] Definition

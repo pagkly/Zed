@@ -3,7 +3,7 @@ alias: [Hull-White Model]
 created: 2021-03-02T20:54:01 (UTC +11:00)
 tags: [Hull-White Model Definition, Hull-White Model]
 source: https://www.investopedia.com/terms/h/hullwhite-model.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hull-White Model]] Definition

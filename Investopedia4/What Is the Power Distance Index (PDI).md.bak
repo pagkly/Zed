@@ -1,7 +1,7 @@
 ---
 alias: [Power-Distance Index, PDI]
 created: 2021-03-02T22:47:29 (UTC +11:00)
-tags: [Power-Distance Index (PDI), [[What Is the Power Distance Index (PDI)]]?]
+tags: [Power-Distance Index (PDI), What Is the Power Distance Index (PDI)?]
 source: https://www.investopedia.com/terms/p/power-distance-index-pdi.asp
 author: [[Will]] Kenton
 ---

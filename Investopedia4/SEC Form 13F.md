@@ -3,7 +3,7 @@ alias: [SEC Form 13F]
 created: 2021-03-02T20:03:24 (UTC +11:00)
 tags: [SEC Form 13F Definition, SEC Form 13F]
 source: https://www.investopedia.com/terms/f/form-13f.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[SEC Form 13F]] Definition

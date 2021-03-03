@@ -3,7 +3,7 @@ alias: [Risk Assessment]
 created: 2021-03-02T23:25:40 (UTC +11:00)
 tags: [Risk Assessment Definition, Risk Assessment]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-assessment.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Risk Assessment]] Definition

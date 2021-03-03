@@ -3,7 +3,7 @@ alias: [Zero-Sum Game]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zero-Sum Game, Zero-Sum Game]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-sumgame.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zero-Sum Game]]

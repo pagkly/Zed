@@ -3,7 +3,7 @@ alias: [Maquiladora]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Maquiladora Definition, Maquiladora Definition]
 source: https://www.investopedia.com/terms/m/maquiladora.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Maquiladora Definition]]

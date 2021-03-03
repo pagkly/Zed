@@ -3,7 +3,7 @@ alias: [Revealed Preference]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revealed Preference Definition, Revealed Preference Definition]
 source: https://www.investopedia.com/terms/r/revealed-preference.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Revealed Preference Definition]]

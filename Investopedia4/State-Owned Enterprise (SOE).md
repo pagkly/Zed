@@ -3,7 +3,7 @@ alias: [State-Owned Enterprise, SOE]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [State-Owned Enterprise (SOE) Definition, State-Owned Enterprise (SOE)]
 source: https://www.investopedia.com/terms/s/soe.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[State-Owned Enterprise (SOE)]] Definition

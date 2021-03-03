@@ -3,7 +3,7 @@ alias: [Judgment]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Judgment Definition, Judgment Definition]
 source: https://www.investopedia.com/terms/j/judgement.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Judgment Definition]]

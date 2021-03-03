@@ -3,7 +3,7 @@ alias: [Homemade Leverage]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Homemade Leverage Definition, Homemade Leverage]
 source: https://www.investopedia.com/terms/h/homemadeleverage.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Homemade Leverage]] Definition

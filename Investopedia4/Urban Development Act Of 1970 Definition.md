@@ -3,7 +3,7 @@ alias: [Urban Development Act Of 1970]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [Urban Development Act Of 1970, Urban Development Act Of 1970 Definition]
 source: https://www.investopedia.com/terms/u/urban-development-act-of-1970.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Urban Development Act Of 1970

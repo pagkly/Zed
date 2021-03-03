@@ -3,7 +3,7 @@ alias: [Unrestricted Cash]
 created: 2021-03-03T00:25:52 (UTC +11:00)
 tags: [Unrestricted Cash, Unrestricted Cash]
 source: https://www.investopedia.com/terms/u/unrestricted-cash.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unrestricted Cash]]

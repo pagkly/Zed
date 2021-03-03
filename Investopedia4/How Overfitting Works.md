@@ -3,7 +3,7 @@ alias: [Overfitting]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overfitting Definition, How Overfitting Works]
 source: https://www.investopedia.com/terms/o/overfitting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Overfitting Definition

@@ -3,7 +3,7 @@ alias: [Schedule 13D]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Schedule 13D Definition, Schedule 13D]
 source: https://www.investopedia.com/terms/s/schedule13d.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Schedule 13D]] Definition

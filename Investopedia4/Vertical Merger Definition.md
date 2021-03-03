@@ -3,7 +3,7 @@ alias: [Vertical Merger]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Vertical Merger Definition, Vertical Merger Definition]
 source: https://www.investopedia.com/terms/v/verticalmerger.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Vertical Merger Definition]]

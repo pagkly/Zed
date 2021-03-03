@@ -3,7 +3,7 @@ alias: [Exempt Transaction]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exempt Transaction Definition, Exempt Transaction]
 source: https://www.investopedia.com/terms/e/exempttransaction.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Exempt Transaction]] Definition

@@ -3,7 +3,7 @@ alias: [Normal Good]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Normal Good Definition, What Determines a Normal Good]
 source: https://www.investopedia.com/terms/n/normal-good.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Normal Good Definition

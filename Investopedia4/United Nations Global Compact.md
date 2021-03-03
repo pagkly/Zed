@@ -3,7 +3,7 @@ alias: [United Nations Global Compact]
 created: 2021-03-03T00:23:29 (UTC +11:00)
 tags: [United Nations Global Compact Definition, United Nations Global Compact]
 source: https://www.investopedia.com/terms/u/un-global-compact.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[United Nations Global Compact]] Definition

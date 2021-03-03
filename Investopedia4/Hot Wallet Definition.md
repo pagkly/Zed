@@ -3,7 +3,7 @@ alias: [Hot Wallet]
 created: 2021-03-02T20:51:42 (UTC +11:00)
 tags: [Hot Wallet Definition, Hot Wallet Definition]
 source: https://www.investopedia.com/terms/h/hot-wallet.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hot Wallet Definition]]

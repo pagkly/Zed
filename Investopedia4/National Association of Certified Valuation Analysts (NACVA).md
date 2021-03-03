@@ -3,7 +3,7 @@ alias: [National Association of Certified Valuation Analysts, NACVA]
 created: 2021-03-02T21:32:15 (UTC +11:00)
 tags: [National Association of Certified Valuation Analysts (NACVA), National Association of Certified Valuation Analysts (NACVA)]
 source: https://www.investopedia.com/terms/n/national-association-of-certified-valuation-analysts.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[National Association of Certified Valuation Analysts (NACVA)]]

@@ -3,7 +3,7 @@ alias: [Pyramid Scheme]
 created: 2021-03-02T22:58:53 (UTC +11:00)
 tags: [Pyramid Scheme Definition, Reading Into Pyramid Schemes]
 source: https://www.investopedia.com/terms/p/pyramidscheme.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Pyramid Scheme Definition

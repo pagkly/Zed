@@ -3,7 +3,7 @@ alias: [Karl Marx]
 created: 2021-03-02T21:05:08 (UTC +11:00)
 tags: [Karl Marx Definition, Karl Marx]
 source: https://www.investopedia.com/terms/k/karl-marx.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Karl Marx]] Definition

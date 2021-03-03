@@ -3,7 +3,7 @@ alias: [Quote-Driven Market]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quote-Driven Market Definition, Quote-Driven Market]
 source: https://www.investopedia.com/terms/q/quotedriven.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quote-Driven Market]] Definition

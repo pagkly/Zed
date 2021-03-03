@@ -3,7 +3,7 @@ alias: [Temporal Method]
 created: 2021-03-02T23:56:25 (UTC +11:00)
 tags: [Temporal Method, Temporal Method]
 source: https://www.investopedia.com/terms/t/temporalmethod.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Temporal Method]]

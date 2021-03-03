@@ -3,7 +3,7 @@ alias: [Unadjusted Basis]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Unadjusted Basis, Unadjusted Basis]
 source: https://www.investopedia.com/terms/u/unadjustedbasis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unadjusted Basis]]

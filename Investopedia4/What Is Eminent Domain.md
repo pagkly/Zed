@@ -3,7 +3,7 @@ alias: [Eminent Domain]
 created: 2021-03-02T19:37:30 (UTC +11:00)
 tags: [Eminent Domain Definition, What Is Eminent Domain?]
 source: https://www.investopedia.com/terms/e/eminent-domain.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Eminent Domain Definition

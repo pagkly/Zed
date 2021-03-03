@@ -3,7 +3,7 @@ alias: [High-Low Method]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Low Method Definition, How the High-Low Method Works]
 source: https://www.investopedia.com/terms/h/high-low-method.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # High-Low Method Definition

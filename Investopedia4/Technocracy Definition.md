@@ -3,7 +3,7 @@ alias: [Technocracy]
 created: 2021-03-02T23:56:25 (UTC +11:00)
 tags: [Technocracy, Technocracy Definition]
 source: https://www.investopedia.com/terms/t/technocracy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Technocracy

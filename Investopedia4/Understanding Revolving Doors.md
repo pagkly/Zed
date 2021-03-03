@@ -3,7 +3,7 @@ alias: [Revolving Door]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Revolving Door Definition, Understanding Revolving Doors]
 source: https://www.investopedia.com/terms/r/revolving-door.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Revolving Door Definition

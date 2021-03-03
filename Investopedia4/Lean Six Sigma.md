@@ -3,7 +3,7 @@ alias: [Lean Six Sigma]
 created: 2021-03-02T21:13:30 (UTC +11:00)
 tags: [Lean Six Sigma, Lean Six Sigma]
 source: https://www.investopedia.com/terms/l/lean-six-sigma.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lean Six Sigma]]

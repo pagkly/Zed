@@ -3,7 +3,7 @@ alias: [Gross National Product (GNP) Deflator]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross National Product (GNP) Deflator Definition, Gross National Product (GNP) Deflator]
 source: https://www.investopedia.com/terms/g/gnp_deflator.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gross National Product (GNP) Deflator]] Definition

@@ -3,7 +3,7 @@ alias: [Hotelling's Theory]
 created: 2021-03-02T20:51:42 (UTC +11:00)
 tags: [Hotelling's Theory Definition, Hotelling's Theory]
 source: https://www.investopedia.com/terms/h/hotellings-theory.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hotelling's Theory]] Definition

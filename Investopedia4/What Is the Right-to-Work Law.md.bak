@@ -1,7 +1,7 @@
 ---
 alias: [Right-to-Work Law]
 created: 2021-03-02T23:23:34 (UTC +11:00)
-tags: [Right-to-Work Law Definition, [[What Is the Right-to-Work Law]]?]
+tags: [Right-to-Work Law Definition, What Is the Right-to-Work Law?]
 source: https://www.investopedia.com/terms/r/righttowork-law.asp
 author: [[Will]] Kenton
 ---

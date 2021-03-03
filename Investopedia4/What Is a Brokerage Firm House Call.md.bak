@@ -1,7 +1,7 @@
 ---
 alias: [House Call]
 created: 2021-03-02T20:51:42 (UTC +11:00)
-tags: [House Call Definition, [[What Is a Brokerage Firm House Call]]?]
+tags: [House Call Definition, What Is a Brokerage Firm House Call?]
 source: https://www.investopedia.com/terms/h/housecall.asp
 author: [[Will]] Kenton
 ---

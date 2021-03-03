@@ -3,7 +3,7 @@ alias: [Gross Working Capital]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Gross Working Capital Definition, Gross Working Capital]
 source: https://www.investopedia.com/terms/g/grossworkingcapital.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gross Working Capital]] Definition

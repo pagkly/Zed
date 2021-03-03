@@ -3,7 +3,7 @@ alias: [Hurdle Rate]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Hurdle Rate Definition, Hurdle Rate]
 source: https://www.investopedia.com/terms/h/hurdlerate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hurdle Rate]] Definition

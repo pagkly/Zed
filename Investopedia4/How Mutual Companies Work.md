@@ -3,7 +3,7 @@ alias: [Mutual Company]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Mutual Company Definition, How Mutual Companies Work]
 source: https://www.investopedia.com/terms/m/mutualcompany.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Mutual Company Definition

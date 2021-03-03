@@ -3,7 +3,7 @@ alias: [Cost of Equity]
 created: 2021-03-02T19:00:24 (UTC +11:00)
 tags: [Cost of Equity Definition, Cost of Equity]
 source: https://www.investopedia.com/terms/c/costofequity.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cost of Equity]] Definition

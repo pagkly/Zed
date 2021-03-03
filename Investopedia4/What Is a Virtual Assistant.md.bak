@@ -1,7 +1,7 @@
 ---
 alias: [Virtual Assistant]
 created: 2021-03-03T00:40:26 (UTC +11:00)
-tags: [Virtual Assistant Definition, [[What Is a Virtual Assistant]]?]
+tags: [Virtual Assistant Definition, What Is a Virtual Assistant?]
 source: https://www.investopedia.com/terms/v/virtual-assistant.asp
 author: [[Will]] Kenton
 ---

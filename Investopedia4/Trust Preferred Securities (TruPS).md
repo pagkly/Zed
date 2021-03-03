@@ -3,7 +3,7 @@ alias: [Trust Preferred Securities, TruPS]
 created: 2021-03-03T00:11:08 (UTC +11:00)
 tags: [Trust Preferred Securities (TruPS), Trust Preferred Securities (TruPS)]
 source: https://www.investopedia.com/terms/t/trustpreferredsecurity.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Trust Preferred Securities (TruPS)]]

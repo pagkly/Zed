@@ -3,7 +3,7 @@ alias: [Least Squares Method]
 created: 2021-03-02T21:13:31 (UTC +11:00)
 tags: [Least Squares Method Definition, How the Least Squares Method Works]
 source: https://www.investopedia.com/terms/l/least-squares-method.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Least Squares Method Definition

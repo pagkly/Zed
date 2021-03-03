@@ -3,7 +3,7 @@ alias: [Easement In Gross]
 created: 2021-03-02T19:31:15 (UTC +11:00)
 tags: [Easement In Gross, Easement In Gross]
 source: https://www.investopedia.com/terms/e/easement-in-gross.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Easement In Gross]]

@@ -3,7 +3,7 @@ alias: [Equitable Relief]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equitable Relief Definition, Equitable Relief: When Legal Remedies Aren't Enough]
 source: https://www.investopedia.com/terms/e/equitable-relief.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Equitable Relief Definition

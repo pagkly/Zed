@@ -3,7 +3,7 @@ alias: [Horizontal Integration]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Horizontal Integration, Horizontal Integration]
 source: https://www.investopedia.com/terms/h/horizontalintegration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Horizontal Integration]]

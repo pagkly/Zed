@@ -3,7 +3,7 @@ alias: [Dissenters' Rights]
 created: 2021-03-02T19:22:37 (UTC +11:00)
 tags: [Dissenters' Rights Definition, Dissenters' Rights]
 source: https://www.investopedia.com/terms/d/dissenters-rights.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Dissenters' Rights]] Definition

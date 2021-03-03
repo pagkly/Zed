@@ -3,7 +3,7 @@ alias: [Economy]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Economy Definition, Exploring How an Economy Works and the Various Types of Economies]
 source: https://www.investopedia.com/terms/e/economy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Economy Definition

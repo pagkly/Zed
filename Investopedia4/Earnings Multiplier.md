@@ -3,7 +3,7 @@ alias: [Earnings Multiplier]
 created: 2021-03-02T19:29:09 (UTC +11:00)
 tags: [Earnings Multiplier, Earnings Multiplier]
 source: https://www.investopedia.com/terms/e/earningsmultiplier.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Earnings Multiplier]]

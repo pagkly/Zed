@@ -3,7 +3,7 @@ alias: [What Is a J-Curve?]
 created: 2021-03-02T20:56:09 (UTC +11:00)
 tags: [What Is a J-Curve?, What Is the J-Curve Effect?]
 source: https://www.investopedia.com/terms/j/j-curve-effect.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # What Is a J-Curve?

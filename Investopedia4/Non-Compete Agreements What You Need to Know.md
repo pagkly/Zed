@@ -3,7 +3,7 @@ alias: [Non-Compete Agreement]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Compete Agreement Definition, Non-Compete Agreements: What You Need to Know]
 source: https://www.investopedia.com/terms/n/noncompete-agreement.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Non-Compete Agreement Definition

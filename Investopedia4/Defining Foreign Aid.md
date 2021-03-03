@@ -3,7 +3,7 @@ alias: [Foreign Aid Defintion]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [Foreign Aid Defintion, Defining Foreign Aid]
 source: https://www.investopedia.com/terms/f/foreign-aid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Foreign Aid Defintion

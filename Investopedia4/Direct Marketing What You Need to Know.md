@@ -3,7 +3,7 @@ alias: [Direct Marketing]
 created: 2021-03-02T19:20:34 (UTC +11:00)
 tags: [Direct Marketing Definition, Direct Marketing: What You Need to Know]
 source: https://www.investopedia.com/terms/d/direct-marketing.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Direct Marketing Definition

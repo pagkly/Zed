@@ -3,7 +3,7 @@ alias: [Noise]
 created: 2021-03-02T21:43:52 (UTC +11:00)
 tags: [Noise, Noise]
 source: https://www.investopedia.com/terms/n/[[Noise|noise]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Noise]]

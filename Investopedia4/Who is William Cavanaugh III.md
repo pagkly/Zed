@@ -3,7 +3,7 @@ alias: [William Cavanaugh III]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [William Cavanaugh III Definition, Who is William Cavanaugh III?]
 source: https://www.investopedia.com/terms/w/william-cavanaugh-iii.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # William Cavanaugh III Definition

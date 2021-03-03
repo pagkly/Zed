@@ -3,7 +3,7 @@ alias: [Menu Costs]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Menu Costs Definition, Menu Costs]
 source: https://www.investopedia.com/terms/m/menu-costs.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Menu Costs]] Definition

@@ -3,7 +3,7 @@ alias: [Defining Nonlinear Regression]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Defining Nonlinear Regression, What Is Nonlinear Regression?]
 source: https://www.investopedia.com/terms/n/nonlinear-regression.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Defining Nonlinear Regression

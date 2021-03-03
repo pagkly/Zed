@@ -3,7 +3,7 @@ alias: [Cost of Capital]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Cost of Capital Definition, Cost of Capital]
 source: https://www.investopedia.com/terms/c/costofcapital.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cost of Capital]] Definition

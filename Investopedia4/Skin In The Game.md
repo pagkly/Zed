@@ -3,7 +3,7 @@ alias: [Skin In The Game]
 created: 2021-03-02T23:39:00 (UTC +11:00)
 tags: [Skin In The Game Definition, Skin In The Game]
 source: https://www.investopedia.com/terms/s/skininthegame.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Skin In The Game]] Definition

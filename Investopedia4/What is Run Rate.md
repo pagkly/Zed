@@ -3,7 +3,7 @@ alias: [Run Rate]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Run Rate Definition, What is Run Rate?]
 source: https://www.investopedia.com/terms/r/runrate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Run Rate Definition

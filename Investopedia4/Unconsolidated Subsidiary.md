@@ -3,7 +3,7 @@ alias: [Unconsolidated Subsidiary]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Unconsolidated Subsidiary Definition, Unconsolidated Subsidiary]
 source: https://www.investopedia.com/terms/u/unconsolidated-subsidiary.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unconsolidated Subsidiary]] Definition

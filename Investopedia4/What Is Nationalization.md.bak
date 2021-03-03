@@ -1,7 +1,7 @@
 ---
 alias: [Nationalization]
 created: 2021-03-02T21:32:17 (UTC +11:00)
-tags: [Nationalization Definition, [[What Is Nationalization]]?]
+tags: [Nationalization Definition, What Is Nationalization?]
 source: https://www.investopedia.com/terms/n/nationalization.asp
 author: [[Will]] Kenton
 ---

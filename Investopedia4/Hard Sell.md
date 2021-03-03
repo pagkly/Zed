@@ -3,7 +3,7 @@ alias: [Hard Sell]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Hard Sell Definition, Hard Sell]
 source: https://www.investopedia.com/terms/h/hard-sell.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hard Sell]] Definition

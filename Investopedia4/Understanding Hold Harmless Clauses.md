@@ -3,7 +3,7 @@ alias: [Hold Harmless Clause]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Hold Harmless Clause Definition, Understanding Hold Harmless Clauses]
 source: https://www.investopedia.com/terms/h/[[Hold|hold]]-harmless-clause.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hold]] Harmless Clause Definition

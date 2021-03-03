@@ -3,7 +3,7 @@ alias: [Elasticity Definition & Explanation]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Elasticity Definition & Explanation, What Does Elasticity Mean?]
 source: https://www.investopedia.com/terms/e/elastic.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Elasticity Definition & Explanation

@@ -3,7 +3,7 @@ alias: [Ring-Fence]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Ring-Fence Definition, What Everyone Should Know About Ring-Fences]
 source: https://www.investopedia.com/terms/r/ringfence.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Ring-Fence Definition

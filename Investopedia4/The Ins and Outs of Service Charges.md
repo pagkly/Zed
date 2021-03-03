@@ -3,7 +3,7 @@ alias: [Service Charge]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Service Charge Definition, The Ins and Outs of Service Charges]
 source: https://www.investopedia.com/terms/s/service-charge.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Service Charge Definition

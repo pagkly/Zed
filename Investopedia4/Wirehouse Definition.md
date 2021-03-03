@@ -3,7 +3,7 @@ alias: [Wirehouse]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Wirehouse Definition, Wirehouse Definition]
 source: https://www.investopedia.com/terms/w/wirehouse.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wirehouse Definition]]

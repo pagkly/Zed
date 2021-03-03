@@ -3,7 +3,7 @@ alias: [Treynor Ratio]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Treynor Ratio Definition, Inside the Treynor Ratio]
 source: https://www.investopedia.com/terms/t/treynorratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Treynor Ratio Definition

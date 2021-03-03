@@ -1,7 +1,7 @@
 ---
 alias: [Variable Prepaid Forward Contract]
 created: 2021-03-03T00:36:24 (UTC +11:00)
-tags: [Variable Prepaid Forward Contract Definition, [[What Is a Variable Prepaid Forward Contract]]?]
+tags: [Variable Prepaid Forward Contract Definition, What Is a Variable Prepaid Forward Contract?]
 source: https://www.investopedia.com/terms/v/variable-prepaid-forward-contracts.asp
 author: [[Will]] Kenton
 ---

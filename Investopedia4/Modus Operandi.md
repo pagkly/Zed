@@ -3,7 +3,7 @@ alias: [Modus Operandi]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Modus Operandi Definition, Modus Operandi]
 source: https://www.investopedia.com/terms/m/modus-operandi.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Modus Operandi]] Definition

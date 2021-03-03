@@ -3,7 +3,7 @@ alias: [Standard Error]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Standard Error Definition, How Standard Errors Work]
 source: https://www.investopedia.com/terms/s/standard-error.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Standard Error Definition

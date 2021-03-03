@@ -3,7 +3,7 @@ alias: [Supply Curve]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Supply Curve Definition, Supply Curve Definition]
 source: https://www.investopedia.com/terms/s/[[Supply|supply]]-curve.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Supply Curve Definition]]

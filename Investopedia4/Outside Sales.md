@@ -3,7 +3,7 @@ alias: [Outside Sales]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Outside Sales Definition, Outside Sales]
 source: https://www.investopedia.com/terms/o/outside-sales.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Outside Sales]] Definition

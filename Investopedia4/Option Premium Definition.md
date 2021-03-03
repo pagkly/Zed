@@ -3,7 +3,7 @@ alias: [Option Premium]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Option Premium Definition, Option Premium Definition]
 source: https://www.investopedia.com/terms/o/option-[[Premium|premium]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Option Premium Definition]]

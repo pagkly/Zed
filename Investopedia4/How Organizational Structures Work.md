@@ -3,7 +3,7 @@ alias: [Organizational Structure]
 created: 2021-03-02T22:29:30 (UTC +11:00)
 tags: [Organizational Structure, How Organizational Structures Work]
 source: https://www.investopedia.com/terms/o/organizational-structure.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Organizational Structure

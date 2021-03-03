@@ -3,7 +3,7 @@ alias: [Unqualified Audit]
 created: 2021-03-03T00:25:52 (UTC +11:00)
 tags: [Unqualified Audit Definition, Unqualified Audit]
 source: https://www.investopedia.com/terms/u/unqualified-audit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unqualified Audit]] Definition

@@ -3,7 +3,7 @@ alias: [Sarbanes-Oxley (SOX) Act of 2002]
 created: 2021-03-02T23:29:56 (UTC +11:00)
 tags: [Sarbanes-Oxley (SOX) Act of 2002 Definition, Sarbanes-Oxley (SOX) Act of 2002 Definition]
 source: https://www.investopedia.com/terms/s/sarbanesoxleyact.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Sarbanes-Oxley (SOX) Act of 2002 Definition]]

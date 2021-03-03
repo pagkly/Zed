@@ -3,7 +3,7 @@ alias: [Unbundling]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Unbundling Definition, Unbundling]
 source: https://www.investopedia.com/terms/u/[[Unbundling|unbundling]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unbundling]] Definition

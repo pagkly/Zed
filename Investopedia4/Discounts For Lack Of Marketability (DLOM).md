@@ -3,7 +3,7 @@ alias: [Discounts For Lack Of Marketability, DLOM]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [Discounts For Lack Of Marketability (DLOM), Discounts For Lack Of Marketability (DLOM)]
 source: https://www.investopedia.com/terms/d/dlom.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Discounts For Lack Of Marketability (DLOM)]]

@@ -3,7 +3,7 @@ alias: [Pareto Analysis]
 created: 2021-03-02T22:36:05 (UTC +11:00)
 tags: [Pareto Analysis Definition, How Pareto Analysis and the 80/20 Rule Work]
 source: https://www.investopedia.com/terms/p/pareto-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Pareto Analysis Definition

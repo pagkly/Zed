@@ -3,7 +3,7 @@ alias: [Cash Flow From Investing Activities]
 created: 2021-03-02T18:49:08 (UTC +11:00)
 tags: [Cash Flow From Investing Activities, Cash Flow From Investing Activities]
 source: https://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cash Flow From Investing Activities]]

@@ -3,7 +3,7 @@ alias: [Variable Cost-Plus Pricing]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Cost-Plus Pricing Definition, How Variable Cost-Plus Pricing Works]
 source: https://www.investopedia.com/terms/v/variable-cost-plus-pricing.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Variable Cost]]-Plus Pricing Definition

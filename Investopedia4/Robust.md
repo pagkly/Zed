@@ -3,7 +3,7 @@ alias: [Robust]
 created: 2021-03-02T23:25:42 (UTC +11:00)
 tags: [Robust, Robust]
 source: https://www.investopedia.com/terms/r/[[Robust|robust]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Robust]]

@@ -3,7 +3,7 @@ alias: [Virtual Office Definition and Overview]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Virtual Office: Definition and Overview, Understanding Virtual Offices]
 source: https://www.investopedia.com/terms/v/virtual-office.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Virtual Office: Definition and Overview

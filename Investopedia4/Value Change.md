@@ -3,7 +3,7 @@ alias: [Value Change]
 created: 2021-03-03T00:34:22 (UTC +11:00)
 tags: [Value Change, Value Change]
 source: https://www.investopedia.com/terms/v/value-change.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Value Change]]

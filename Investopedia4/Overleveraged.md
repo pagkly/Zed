@@ -3,7 +3,7 @@ alias: [Overleveraged]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overleveraged Definition, Overleveraged]
 source: https://www.investopedia.com/terms/o/[[Overleveraged|overleveraged]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Overleveraged]] Definition

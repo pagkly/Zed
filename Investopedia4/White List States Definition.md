@@ -3,7 +3,7 @@ alias: [White List States]
 created: 2021-03-03T00:54:55 (UTC +11:00)
 tags: [White List States Definition, White List States Definition]
 source: https://www.investopedia.com/terms/w/white-list-states.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[White List States Definition]]

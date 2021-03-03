@@ -3,7 +3,7 @@ alias: [Undercast]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Undercast Definition, Undercast]
 source: https://www.investopedia.com/terms/u/[[Undercast|undercast]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Undercast]] Definition

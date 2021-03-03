@@ -3,7 +3,7 @@ alias: [Community Reinvestment Act, CRA]
 created: 2021-03-02T18:55:43 (UTC +11:00)
 tags: [Community Reinvestment Act (CRA) Definition, Community Reinvestment Act (CRA)]
 source: https://www.investopedia.com/terms/c/community_reinvestment_act.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Community Reinvestment Act (CRA)]] Definition

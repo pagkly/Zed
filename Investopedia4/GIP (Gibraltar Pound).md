@@ -3,7 +3,7 @@ alias: [GIP, Gibraltar Pound]
 created: 2021-03-02T20:18:45 (UTC +11:00)
 tags: [GIP (Gibraltar Pound), GIP (Gibraltar Pound)]
 source: https://www.investopedia.com/terms/g/gip.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[GIP (Gibraltar Pound)]]

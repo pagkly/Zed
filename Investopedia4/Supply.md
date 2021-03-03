@@ -3,7 +3,7 @@ alias: [Supply]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Supply, Supply]
 source: https://www.investopedia.com/terms/s/[[Supply|supply]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Supply]]

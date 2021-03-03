@@ -3,7 +3,7 @@ alias: [Chinese Wall]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chinese Wall Definition, Chinese Wall Definition]
 source: https://www.investopedia.com/terms/c/chinesewall.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Chinese Wall Definition]]

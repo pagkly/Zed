@@ -3,7 +3,7 @@ alias: [Variable Overhead]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Overhead, Variable Overhead]
 source: https://www.investopedia.com/terms/v/variable-overhead.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Variable Overhead]]

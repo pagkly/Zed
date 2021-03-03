@@ -3,7 +3,7 @@ alias: [Consumption Function]
 created: 2021-03-02T18:58:07 (UTC +11:00)
 tags: [Consumption Function Definition, Consumption Function]
 source: https://www.investopedia.com/terms/c/consumptionfunction.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Consumption Function]] Definition

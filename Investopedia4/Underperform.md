@@ -3,7 +3,7 @@ alias: [Underperform]
 created: 2021-03-03T00:17:17 (UTC +11:00)
 tags: [Underperform, Underperform]
 source: https://www.investopedia.com/terms/u/[[Underperform|underperform]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Underperform]]

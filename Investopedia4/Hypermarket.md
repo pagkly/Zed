@@ -3,7 +3,7 @@ alias: [Hypermarket]
 created: 2021-03-02T20:54:03 (UTC +11:00)
 tags: [Hypermarket Definition, Hypermarket]
 source: https://www.investopedia.com/terms/h/[[Hypermarket|hypermarket]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hypermarket]] Definition

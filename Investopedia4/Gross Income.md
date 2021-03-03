@@ -3,7 +3,7 @@ alias: [Gross Income]
 created: 2021-03-02T20:27:49 (UTC +11:00)
 tags: [Gross Income Definition, Gross Income]
 source: https://www.investopedia.com/terms/g/grossincome.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gross Income]] Definition

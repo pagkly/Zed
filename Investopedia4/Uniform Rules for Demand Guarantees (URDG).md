@@ -3,7 +3,7 @@ alias: [Uniform Rules for Demand Guarantees, URDG]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uniform Rules for Demand Guarantees (URDG) Definition, Uniform Rules for Demand Guarantees (URDG)]
 source: https://www.investopedia.com/terms/u/urdg.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Uniform Rules for Demand Guarantees (URDG)]] Definition

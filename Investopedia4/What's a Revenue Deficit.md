@@ -3,7 +3,7 @@ alias: [Revenue Deficit Definition and Example]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Deficit Definition and Example, What's a Revenue Deficit?]
 source: https://www.investopedia.com/terms/r/revenuedeficit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Revenue Deficit Definition and Example

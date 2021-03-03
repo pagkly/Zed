@@ -1,7 +1,7 @@
 ---
 alias: [Residual Standard Deviation]
 created: 2021-03-02T23:18:54 (UTC +11:00)
-tags: [Residual [[Standard Deviation]] Definition, Residual Standard Deviation]
+tags: [Residual Standard Deviation Definition, Residual Standard Deviation]
 source: https://www.investopedia.com/terms/r/residual-standard-deviation.asp
 author: [[Will]] Kenton
 ---

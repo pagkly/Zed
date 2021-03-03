@@ -3,7 +3,7 @@ alias: [Wildcatting]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [Wildcatting Definition, Wildcatting Definition]
 source: https://www.investopedia.com/terms/w/wildcatting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wildcatting Definition]]

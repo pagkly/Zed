@@ -3,7 +3,7 @@ alias: [Neoclassical Economics]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Neoclassical Economics Definition, Define Neoclassical Economics]
 source: https://www.investopedia.com/terms/n/neoclassical.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Neoclassical [[Economics]] Definition

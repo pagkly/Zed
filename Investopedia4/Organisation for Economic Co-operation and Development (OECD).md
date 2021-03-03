@@ -3,7 +3,7 @@ alias: [Organisation for Economic Co-operation and Development, OECD]
 created: 2021-03-02T22:29:29 (UTC +11:00)
 tags: [Organisation for Economic Co-operation and Development (OECD) Definition, Organisation for Economic Co-operation and Development (OECD)]
 source: https://www.investopedia.com/terms/o/oecd.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Organisation for Economic Co-operation and Development (OECD)]] Definition

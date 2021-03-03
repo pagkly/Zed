@@ -3,7 +3,7 @@ alias: [Equivalent Annual Cost – EAC]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Equivalent Annual Cost – EAC Definition, How Equivalent Annual Cost Helps with Capital Budget Decisions]
 source: https://www.investopedia.com/terms/e/eac.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Equivalent Annual Cost – EAC Definition

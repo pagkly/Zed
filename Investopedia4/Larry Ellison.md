@@ -3,7 +3,7 @@ alias: [Larry Ellison]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Larry Ellison Definition, Larry Ellison]
 source: https://www.investopedia.com/terms/l/larry-ellison.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Larry Ellison]] Definition

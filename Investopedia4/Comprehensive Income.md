@@ -3,7 +3,7 @@ alias: [Comprehensive Income]
 created: 2021-03-02T18:55:44 (UTC +11:00)
 tags: [Comprehensive Income Definition, Comprehensive Income]
 source: https://www.investopedia.com/terms/c/comprehensiveincome.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Comprehensive Income]] Definition

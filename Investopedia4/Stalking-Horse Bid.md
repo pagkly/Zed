@@ -3,7 +3,7 @@ alias: [Stalking-Horse Bid]
 created: 2021-03-02T23:43:19 (UTC +11:00)
 tags: [Stalking-Horse Bid Definition, Stalking-Horse Bid]
 source: https://www.investopedia.com/terms/s/stalkinghorsebid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Stalking-Horse Bid]] Definition

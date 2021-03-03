@@ -3,7 +3,7 @@ alias: [Veterans Administration]
 created: 2021-03-03T00:40:25 (UTC +11:00)
 tags: [Veterans Administration Definition, Veterans Administration Definition]
 source: https://www.investopedia.com/terms/v/veterans-administration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Veterans Administration Definition]]

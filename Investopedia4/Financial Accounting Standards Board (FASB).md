@@ -3,7 +3,7 @@ alias: [Financial Accounting Standards Board, FASB]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Financial Accounting Standards Board (FASB), Financial Accounting Standards Board (FASB)]
 source: https://www.investopedia.com/terms/f/fasb.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Financial Accounting Standards Board (FASB)]]

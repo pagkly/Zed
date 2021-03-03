@@ -3,7 +3,7 @@ alias: [Exculpatory Clause]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exculpatory Clause Definition, Exculpatory Clause]
 source: https://www.investopedia.com/terms/e/exculpatory-clause.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Exculpatory Clause]] Definition

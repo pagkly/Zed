@@ -3,7 +3,7 @@ alias: [Universal Market Integrity Rules, UMIR]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Universal Market Integrity Rules (UMIR), Universal Market Integrity Rules (UMIR)]
 source: https://www.investopedia.com/terms/u/umir.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Universal Market Integrity Rules (UMIR)]]

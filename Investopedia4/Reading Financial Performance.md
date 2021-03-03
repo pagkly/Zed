@@ -3,7 +3,7 @@ alias: [Financial Performance]
 created: 2021-03-02T19:56:46 (UTC +11:00)
 tags: [Financial Performance Definition, Reading Financial Performance]
 source: https://www.investopedia.com/terms/f/financialperformance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Financial Performance Definition

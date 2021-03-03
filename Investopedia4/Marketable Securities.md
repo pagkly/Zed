@@ -3,7 +3,7 @@ alias: [Marketable Securities]
 created: 2021-03-02T21:59:06 (UTC +11:00)
 tags: [Marketable Securities Definition, Marketable Securities]
 source: https://www.investopedia.com/terms/m/marketablesecurities.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Marketable Securities]] Definition

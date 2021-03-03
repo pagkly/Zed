@@ -3,7 +3,7 @@ alias: [Petty Cash]
 created: 2021-03-02T22:42:35 (UTC +11:00)
 tags: [Petty Cash Definition, Petty Cash]
 source: https://www.investopedia.com/terms/p/pettycash.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Petty Cash]] Definition

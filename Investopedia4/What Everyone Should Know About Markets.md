@@ -3,7 +3,7 @@ alias: [Market]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Market Definition, What Everyone Should Know About Markets]
 source: https://www.investopedia.com/terms/m/market.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Market Definition

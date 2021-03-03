@@ -1,7 +1,7 @@
 ---
 alias: [What Is an Economist?]
 created: 2021-03-02T19:33:20 (UTC +11:00)
-tags: [What Is an Economist?, [[What Is an Economist]]?]
+tags: [What Is an Economist?, What Is an Economist?]
 source: https://www.investopedia.com/terms/e/economist.asp
 author: [[Will]] Kenton
 ---

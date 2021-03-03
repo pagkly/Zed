@@ -3,7 +3,7 @@ alias: [Certainty Equivalent]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certainty Equivalent Definition, Understanding the Certainty Equivalent]
 source: https://www.investopedia.com/terms/c/certaintyequivalent.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Certainty Equivalent Definition

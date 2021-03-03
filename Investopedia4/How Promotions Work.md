@@ -3,7 +3,7 @@ alias: [Promotion]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Promotion Definition, How Promotions Work]
 source: https://www.investopedia.com/terms/p/promotion.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Promotion Definition

@@ -3,7 +3,7 @@ alias: [Operating Income Before Depreciation and Amortization]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Operating Income Before Depreciation and Amortization Definition, Operating Income Before Depreciation and Amortization (OIBDA)]
 source: https://www.investopedia.com/terms/o/oibda.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Operating Income Before Depreciation and Amortization Definition

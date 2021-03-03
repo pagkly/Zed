@@ -3,7 +3,7 @@ alias: [Cottage Industry]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Cottage Industry Definition, Cottage Industry is Manufacturing|manufacturing on a small scale.]
 source: https://www.investopedia.com/terms/c/cottage-industry.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Cottage Industry Definition

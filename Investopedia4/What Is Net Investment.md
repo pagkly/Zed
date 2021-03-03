@@ -3,7 +3,7 @@ alias: [Net Investment]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Investment Definition, What Is Net Investment?]
 source: https://www.investopedia.com/terms/n/netinvestment.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Net Investment Definition

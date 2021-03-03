@@ -3,7 +3,7 @@ alias: [Defeasance]
 created: 2021-03-02T19:11:30 (UTC +11:00)
 tags: [Defeasance, Defeasance Contract Provision]
 source: https://www.investopedia.com/terms/d/defeasance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Defeasance

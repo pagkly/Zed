@@ -3,7 +3,7 @@ alias: [What Is Nonpassive Income and Losses?]
 created: 2021-03-02T21:50:22 (UTC +11:00)
 tags: [What Is Nonpassive Income and Losses?, What Is Nonpassive Income and Losses?]
 source: https://www.investopedia.com/terms/n/nonpassive-income-and-losses.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[What Is Nonpassive Income and Losses]]?

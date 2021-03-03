@@ -3,7 +3,7 @@ alias: [Grexit]
 created: 2021-03-02T20:27:48 (UTC +11:00)
 tags: [Grexit Definition, Grexit Definition]
 source: https://www.investopedia.com/terms/g/grexit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Grexit Definition]]

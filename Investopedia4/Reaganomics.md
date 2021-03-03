@@ -3,7 +3,7 @@ alias: [Reaganomics]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Reaganomics Definition, Reaganomics]
 source: https://www.investopedia.com/terms/r/[[Reaganomics|reaganomics]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Reaganomics]] Definition

@@ -3,7 +3,7 @@ alias: [William T. Dillard II]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [William T. Dillard II Definition, William T. Dillard II Definition]
 source: https://www.investopedia.com/terms/w/william-dillard-ii.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[William T. Dillard II Definition]]

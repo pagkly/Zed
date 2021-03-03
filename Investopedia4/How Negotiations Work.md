@@ -3,7 +3,7 @@ alias: [Negotiation]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negotiation Definition, How Negotiations Work]
 source: https://www.investopedia.com/terms/n/negotiation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Negotiation Definition

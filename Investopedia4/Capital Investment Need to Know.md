@@ -3,7 +3,7 @@ alias: [Capital Investment]
 created: 2021-03-02T18:46:49 (UTC +11:00)
 tags: [Capital Investment Definition, Capital Investment: Need to Know]
 source: https://www.investopedia.com/terms/c/capital-investment.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Capital Investment Definition

@@ -1,5 +1,5 @@
 ---
-alias: [Tax [[Equity]] and Fiscal Responsibility Act of 1982, TEFRA]
+alias: [Tax Equity and Fiscal Responsibility Act of 1982, TEFRA]
 created: 2021-03-02T23:54:21 (UTC +11:00)
 tags: [Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA), Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)]
 source: https://www.investopedia.com/terms/t/tefra.asp

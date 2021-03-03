@@ -3,7 +3,7 @@ alias: [Valoren Number]
 created: 2021-03-03T00:32:20 (UTC +11:00)
 tags: [Valoren Number Definition, Valoren Number]
 source: https://www.investopedia.com/terms/v/valorennumber.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Valoren Number]] Definition

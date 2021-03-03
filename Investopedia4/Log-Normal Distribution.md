@@ -3,7 +3,7 @@ alias: [Log-Normal Distribution]
 created: 2021-03-02T21:25:55 (UTC +11:00)
 tags: [Log-Normal Distribution, Log-Normal Distribution]
 source: https://www.investopedia.com/terms/l/log-normal-distribution.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Log-Normal Distribution]]

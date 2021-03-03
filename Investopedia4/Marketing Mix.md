@@ -3,7 +3,7 @@ alias: [Marketing Mix]
 created: 2021-03-02T21:59:06 (UTC +11:00)
 tags: [Marketing Mix Definition, Marketing Mix]
 source: https://www.investopedia.com/terms/m/marketing-mix.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Marketing Mix]] Definition

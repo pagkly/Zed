@@ -1,7 +1,7 @@
 ---
 alias: [Flotation Cost]
 created: 2021-03-02T20:01:17 (UTC +11:00)
-tags: [Flotation Cost Definition, Understanding [[Flotation]] Cost]
+tags: [Flotation Cost Definition, Understanding Flotation Cost]
 source: https://www.investopedia.com/terms/f/flotationcost.asp
 author: [[Will]] Kenton
 ---

@@ -3,7 +3,7 @@ alias: [Leveraged Buyout, LBO]
 created: 2021-03-02T21:15:35 (UTC +11:00)
 tags: [Leveraged Buyout (LBO) Definition, Leveraged Buyout (LBO) Definition]
 source: https://www.investopedia.com/terms/l/leveragedbuyout.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Leveraged Buyout (LBO) Definition]]

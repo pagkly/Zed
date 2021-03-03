@@ -3,7 +3,7 @@ alias: [Secondary Market]
 created: 2021-03-02T23:32:03 (UTC +11:00)
 tags: [Secondary Market Definition, Learn about Secondary Market]
 source: https://www.investopedia.com/terms/s/secondarymarket.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Secondary Market Definition

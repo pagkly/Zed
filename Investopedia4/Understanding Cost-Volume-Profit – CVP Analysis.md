@@ -3,7 +3,7 @@ alias: [Cost-Volume-Profit – CVP Analysis]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Cost-Volume-Profit – CVP Analysis Definition, Understanding Cost-Volume-Profit – CVP Analysis]
 source: https://www.investopedia.com/terms/c/cost-volume-profit-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Cost-Volume-Profit – CVP Analysis Definition

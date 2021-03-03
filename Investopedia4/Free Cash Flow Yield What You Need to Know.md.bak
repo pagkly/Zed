@@ -1,5 +1,5 @@
 ---
-alias: [Free [[Cash Flow]] Yield]
+alias: [Free Cash Flow Yield]
 created: 2021-03-02T20:07:42 (UTC +11:00)
 tags: [Free Cash Flow Yield, Free Cash Flow Yield: What You Need to Know]
 source: https://www.investopedia.com/terms/f/freecashflowyield.asp

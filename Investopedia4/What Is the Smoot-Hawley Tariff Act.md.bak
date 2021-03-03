@@ -1,5 +1,5 @@
 ---
-alias: [Smoot-Hawley [[Tariff]] Act]
+alias: [Smoot-Hawley Tariff Act]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Smoot-Hawley Tariff Act Definition, What Is the Smoot-Hawley Tariff Act?]
 source: https://www.investopedia.com/terms/s/smoot-hawley-[[Tariff|tariff]]-act.asp

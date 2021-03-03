@@ -3,7 +3,7 @@ alias: [Go-Shop Period]
 created: 2021-03-02T20:18:45 (UTC +11:00)
 tags: [Go-Shop Period Definition, Go-Shop Period]
 source: https://www.investopedia.com/terms/g/go-shop-period.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Go-Shop Period]] Definition

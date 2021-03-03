@@ -3,7 +3,7 @@ alias: [Quick-Rinse Bankruptcy]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quick-Rinse Bankruptcy Definition, Quick-Rinse Bankruptcy]
 source: https://www.investopedia.com/terms/q/quick-rinse-bankruptcy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quick-Rinse Bankruptcy]] Definition

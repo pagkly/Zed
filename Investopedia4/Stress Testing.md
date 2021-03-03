@@ -3,7 +3,7 @@ alias: [Stress Testing]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Stress Testing Definition, Stress Testing]
 source: https://www.investopedia.com/terms/s/stresstesting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Stress Testing]] Definition

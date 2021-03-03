@@ -3,7 +3,7 @@ alias: [Securities Exchange Act of 1934]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Securities Exchange Act of 1934 Definition, Securities Exchange Act of 1934]
 source: https://www.investopedia.com/terms/s/seact1934.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Securities Exchange Act of 1934]] Definition

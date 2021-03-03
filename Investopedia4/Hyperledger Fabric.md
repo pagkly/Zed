@@ -3,7 +3,7 @@ alias: [Hyperledger Fabric]
 created: 2021-03-02T20:54:03 (UTC +11:00)
 tags: [Hyperledger Fabric Definition, Hyperledger Fabric]
 source: https://www.investopedia.com/terms/h/hyperledger-fabric.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hyperledger Fabric]] Definition

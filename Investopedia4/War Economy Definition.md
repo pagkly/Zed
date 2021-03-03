@@ -3,7 +3,7 @@ alias: [War Economy]
 created: 2021-03-03T00:48:36 (UTC +11:00)
 tags: [War Economy Definition, War Economy Definition]
 source: https://www.investopedia.com/terms/w/war-economy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[War Economy Definition]]

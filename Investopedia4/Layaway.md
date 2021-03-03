@@ -3,7 +3,7 @@ alias: [Layaway]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Layaway Definition, Layaway]
 source: https://www.investopedia.com/terms/l/[[Layaway|layaway]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Layaway]] Definition

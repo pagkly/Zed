@@ -3,7 +3,7 @@ alias: [Equity-Efficiency Tradeoff]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equity-Efficiency Tradeoff Definition, Equity-Efficiency Tradeoff Definition]
 source: https://www.investopedia.com/terms/e/equityefficiencytradeoff.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Equity-Efficiency Tradeoff Definition]]

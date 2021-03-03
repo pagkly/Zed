@@ -3,7 +3,7 @@ alias: [Pac-Man Defense]
 created: 2021-03-02T22:36:05 (UTC +11:00)
 tags: [Pac-Man Defense Definition, Pac-Man Defense]
 source: https://www.investopedia.com/terms/p/pac-man-defense.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Pac-Man Defense]] Definition

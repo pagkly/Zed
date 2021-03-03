@@ -3,7 +3,7 @@ alias: [Netback]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [Netback Definition, Learn About the Netback Summary of Associated Costs]
 source: https://www.investopedia.com/terms/n/netback.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Netback Definition

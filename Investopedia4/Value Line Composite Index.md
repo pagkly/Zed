@@ -3,7 +3,7 @@ alias: [Value Line Composite Index]
 created: 2021-03-03T00:34:23 (UTC +11:00)
 tags: [Value Line Composite Index Definition, Value Line Composite Index]
 source: https://www.investopedia.com/terms/v/valuelineindex.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Value Line Composite Index]] Definition

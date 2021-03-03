@@ -3,7 +3,7 @@ alias: [Random Variable]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Random Variable Definition, Random Variable]
 source: https://www.investopedia.com/terms/r/random-variable.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Random Variable]] Definition

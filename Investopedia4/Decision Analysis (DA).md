@@ -3,7 +3,7 @@ alias: [What Is Decision Analysis (DA)?]
 created: 2021-03-02T19:11:29 (UTC +11:00)
 tags: [What Is Decision Analysis (DA)?, Decision Analysis (DA)]
 source: https://www.investopedia.com/terms/d/decision-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # What Is [[Decision Analysis (DA)]]?

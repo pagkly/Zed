@@ -3,7 +3,7 @@ alias: [Trimmed Mean]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Trimmed Mean Definition, How the Trimmed Mean Is Used]
 source: https://www.investopedia.com/terms/t/trimmed_mean.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Trimmed Mean Definition

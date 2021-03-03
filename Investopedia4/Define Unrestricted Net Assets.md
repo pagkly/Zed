@@ -3,7 +3,7 @@ alias: [Unrestricted Net Assets]
 created: 2021-03-03T00:25:52 (UTC +11:00)
 tags: [Unrestricted Net Assets Definition, Define Unrestricted Net Assets]
 source: https://www.investopedia.com/terms/u/unrestricted-net-assets.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Unrestricted Net Assets Definition

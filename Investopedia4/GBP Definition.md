@@ -3,7 +3,7 @@ alias: [GBP]
 created: 2021-03-02T20:14:39 (UTC +11:00)
 tags: [GBP Definition, GBP Definition]
 source: https://www.investopedia.com/terms/g/gbp.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[GBP Definition]]

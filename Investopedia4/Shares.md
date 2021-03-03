@@ -3,7 +3,7 @@ alias: [Shares]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Shares Definition, Shares]
 source: https://www.investopedia.com/terms/s/[[Shares|shares]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Shares]] Definition

@@ -3,7 +3,7 @@ alias: [Outlay Cost]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Outlay Cost Definition, Outlay Cost]
 source: https://www.investopedia.com/terms/o/outlaycost.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Outlay Cost]] Definition

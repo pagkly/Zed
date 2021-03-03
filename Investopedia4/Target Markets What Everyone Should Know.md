@@ -3,7 +3,7 @@ alias: [Target Market]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Target Market Definition, Target Markets: What Everyone Should Know]
 source: https://www.investopedia.com/terms/t/target-market.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Target Market Definition

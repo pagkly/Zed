@@ -3,7 +3,7 @@ alias: [Copyright]
 created: 2021-03-02T19:00:22 (UTC +11:00)
 tags: [Copyright Definition, Copyright Definition]
 source: https://www.investopedia.com/terms/c/copyright.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Copyright Definition]]

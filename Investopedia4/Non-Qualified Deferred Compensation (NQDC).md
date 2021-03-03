@@ -3,7 +3,7 @@ alias: [Non-Qualified Deferred Compensation, NQDC]
 created: 2021-03-02T21:48:19 (UTC +11:00)
 tags: [Non-Qualified Deferred Compensation (NQDC), Non-Qualified Deferred Compensation (NQDC)]
 source: https://www.investopedia.com/terms/n/nqdc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Non-Qualified Deferred Compensation (NQDC)]]

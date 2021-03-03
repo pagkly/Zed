@@ -3,7 +3,7 @@ alias: [Disintermediation]
 created: 2021-03-02T19:22:37 (UTC +11:00)
 tags: [Disintermediation, Disintermediation]
 source: https://www.investopedia.com/terms/d/[[Disintermediation|disintermediation]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Disintermediation]]

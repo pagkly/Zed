@@ -3,7 +3,7 @@ alias: [Quantity Supplied]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quantity Supplied Definition, Quantity Supplied]
 source: https://www.investopedia.com/terms/q/quantitysupplied.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quantity Supplied]] Definition

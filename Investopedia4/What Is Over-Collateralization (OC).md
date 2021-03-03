@@ -3,7 +3,7 @@ alias: [Over-Collateralization, OC]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Over-Collateralization (OC) Definition, What Is Over-Collateralization (OC)?]
 source: https://www.investopedia.com/terms/o/overcollateralization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Over-Collateralization (OC) Definition

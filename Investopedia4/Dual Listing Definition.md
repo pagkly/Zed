@@ -3,7 +3,7 @@ alias: [Dual Listing]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Dual Listing, Dual Listing Definition]
 source: https://www.investopedia.com/terms/d/duallisting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Dual Listing

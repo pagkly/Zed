@@ -3,7 +3,7 @@ alias: [Maastricht Treaty]
 created: 2021-03-02T21:52:29 (UTC +11:00)
 tags: [Maastricht Treaty Definition, Maastricht Treaty]
 source: https://www.investopedia.com/terms/m/maastricht-treaty.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Maastricht Treaty]] Definition

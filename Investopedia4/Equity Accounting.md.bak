@@ -1,7 +1,7 @@
 ---
 alias: [Equity Accounting]
 created: 2021-03-02T19:39:55 (UTC +11:00)
-tags: [Equity Accounting, [[Equity]] Accounting]
+tags: [Equity Accounting, Equity Accounting]
 source: https://www.investopedia.com/terms/e/equityaccounting.asp
 author: [[Will]] Kenton
 ---

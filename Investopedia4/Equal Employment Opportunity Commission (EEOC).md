@@ -3,7 +3,7 @@ alias: [Equal Employment Opportunity Commission, EEOC]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equal Employment Opportunity Commission (EEOC) Definition, Equal Employment Opportunity Commission (EEOC)]
 source: https://www.investopedia.com/terms/e/equal-employment-opportunity-[[Commission|commission]]-eeoc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Equal Employment Opportunity Commission (EEOC)]] Definition

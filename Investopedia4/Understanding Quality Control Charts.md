@@ -3,7 +3,7 @@ alias: [Quality Control Chart]
 created: 2021-03-02T23:03:02 (UTC +11:00)
 tags: [Quality Control Chart Definition, Understanding Quality Control Charts]
 source: https://www.investopedia.com/terms/q/quality-control-chart.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Quality Control Chart Definition

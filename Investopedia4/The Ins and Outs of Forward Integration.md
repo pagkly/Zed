@@ -3,7 +3,7 @@ alias: [Forward Integration]
 created: 2021-03-02T20:05:34 (UTC +11:00)
 tags: [Forward Integration Definition, The Ins and Outs of Forward Integration]
 source: https://www.investopedia.com/terms/f/forwardintegration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Forward Integration Definition

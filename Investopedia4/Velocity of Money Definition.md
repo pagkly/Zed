@@ -3,7 +3,7 @@ alias: [Velocity of Money]
 created: 2021-03-03T00:38:23 (UTC +11:00)
 tags: [Velocity of Money Definition, Velocity of Money Definition]
 source: https://www.investopedia.com/terms/v/velocity.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Velocity of Money Definition]]

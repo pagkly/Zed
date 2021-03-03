@@ -3,7 +3,7 @@ alias: [Full Disclosure]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Full Disclosure, Full Disclosure]
 source: https://www.investopedia.com/terms/f/fulldisclosure.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Full Disclosure]]

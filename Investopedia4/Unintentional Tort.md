@@ -3,7 +3,7 @@ alias: [Unintentional Tort]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Unintentional Tort Definition, Unintentional Tort]
 source: https://www.investopedia.com/terms/u/unintentional-tort.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unintentional Tort]] Definition

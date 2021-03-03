@@ -3,7 +3,7 @@ alias: [Prima Facie]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Prima Facie Definition, Prima Facie]
 source: https://www.investopedia.com/terms/p/prima-facie.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Prima Facie]] Definition

@@ -3,7 +3,7 @@ alias: [Vladimir Lenin]
 created: 2021-03-03T00:42:26 (UTC +11:00)
 tags: [Vladimir Lenin Definition, Vladimir Lenin]
 source: https://www.investopedia.com/terms/v/vladimir-lenin.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Vladimir Lenin]] Definition

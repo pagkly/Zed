@@ -3,7 +3,7 @@ alias: [Wide Variety]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [Wide Variety, The Wide Variety Strategy for Retailing]
 source: https://www.investopedia.com/terms/w/wide-variety.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Wide Variety

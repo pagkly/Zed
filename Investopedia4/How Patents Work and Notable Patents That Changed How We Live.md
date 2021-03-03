@@ -3,7 +3,7 @@ alias: [Patent]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Patent Definition, How Patents Work and Notable Patents That Changed How We Live]
 source: https://www.investopedia.com/terms/p/patent.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Patent Definition

@@ -3,7 +3,7 @@ alias: [NEX]
 created: 2021-03-02T21:43:51 (UTC +11:00)
 tags: [NEX, NEX]
 source: https://www.investopedia.com/terms/n/[[NEX|nex]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[NEX]]

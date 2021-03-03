@@ -3,7 +3,7 @@ alias: [Rule 144A]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Rule 144A Definition, Rule 144A]
 source: https://www.investopedia.com/terms/r/rule144a.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Rule 144A]] Definition

@@ -3,7 +3,7 @@ alias: [Writ of Seizure and Sale]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [Writ of Seizure and Sale Definition, How a Writ of Seizure and Sale Works]
 source: https://www.investopedia.com/terms/w/writofseizureandsale.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Writ of Seizure and [[Sale Definition]]

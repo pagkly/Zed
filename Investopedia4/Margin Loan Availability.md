@@ -3,7 +3,7 @@ alias: [Margin Loan Availability]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Margin Loan Availability Definition, Margin Loan Availability]
 source: https://www.investopedia.com/terms/m/margin_loan_availability.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Margin Loan Availability]] Definition

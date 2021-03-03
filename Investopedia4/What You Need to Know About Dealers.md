@@ -3,7 +3,7 @@ alias: [Dealer]
 created: 2021-03-02T19:09:22 (UTC +11:00)
 tags: [Dealer Definition, What You Need to Know About Dealers]
 source: https://www.investopedia.com/terms/d/dealer.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Dealer Definition

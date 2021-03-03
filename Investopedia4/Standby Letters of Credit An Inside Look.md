@@ -3,7 +3,7 @@ alias: [Standby Letter of Credit, SLOC]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Standby Letter of Credit (SLOC) Definition, Standby Letters of Credit: An Inside Look]
 source: https://www.investopedia.com/terms/s/standbyletterofcredit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Standby Letter of Credit (SLOC) Definition

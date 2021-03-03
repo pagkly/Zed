@@ -3,7 +3,7 @@ alias: [Lower of Cost or Market Method]
 created: 2021-03-02T21:30:10 (UTC +11:00)
 tags: [Lower of Cost or Market Method, Lower of Cost or Market Method]
 source: https://www.investopedia.com/terms/l/lowerofcostandmarketmethod.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lower of Cost or Market Method]]

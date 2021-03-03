@@ -3,7 +3,7 @@ alias: [Ocean Bill of Lading]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Ocean Bill of Lading Definition, Understanding Ocean Bills of Lading]
 source: https://www.investopedia.com/terms/o/ocean-bill-of-lading.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Ocean Bill of Lading Definition

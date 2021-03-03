@@ -3,7 +3,7 @@ alias: [Quasi-Reorganization]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quasi-Reorganization, Quasi-Reorganization]
 source: https://www.investopedia.com/terms/q/[[Quasi-Reorganization|quasi-reorganization]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quasi-Reorganization]]

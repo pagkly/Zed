@@ -3,7 +3,7 @@ alias: [Judgment Proof]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Judgment Proof Definition, Judgment Proof Definition]
 source: https://www.investopedia.com/terms/j/judgment-proof.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Judgment Proof Definition]]

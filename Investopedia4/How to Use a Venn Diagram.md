@@ -3,7 +3,7 @@ alias: [Venn Diagram]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Venn Diagram Definition, How to Use a Venn Diagram]
 source: https://www.investopedia.com/terms/v/venn-diagram.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Venn Diagram Definition

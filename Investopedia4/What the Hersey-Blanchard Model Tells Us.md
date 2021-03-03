@@ -3,7 +3,7 @@ alias: [Hersey-Blanchard Model]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Hersey-Blanchard Model Definition, What the Hersey-Blanchard Model Tells Us]
 source: https://www.investopedia.com/terms/h/hersey-and-blanchard-model.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Hersey-Blanchard Model Definition

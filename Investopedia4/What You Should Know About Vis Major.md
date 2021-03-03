@@ -3,7 +3,7 @@ alias: [Vis Major]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Vis Major Definition, What You Should Know About Vis Major]
 source: https://www.investopedia.com/terms/v/vis-major.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Vis Major Definition

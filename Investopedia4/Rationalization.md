@@ -3,7 +3,7 @@ alias: [Rationalization Defintiion]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Rationalization Defintiion, Rationalization]
 source: https://www.investopedia.com/terms/r/[[Rationalization|rationalization]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Rationalization]] Defintiion

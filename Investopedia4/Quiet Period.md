@@ -3,7 +3,7 @@ alias: [Quiet Period]
 created: 2021-03-02T23:05:29 (UTC +11:00)
 tags: [Quiet Period Definition, Quiet Period]
 source: https://www.investopedia.com/terms/q/quietperiod.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quiet Period]] Definition

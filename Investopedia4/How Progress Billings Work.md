@@ -3,7 +3,7 @@ alias: [Progress Billings]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Progress Billings Definition, How Progress Billings Work]
 source: https://www.investopedia.com/terms/p/progress-billings.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Progress Billings Definition

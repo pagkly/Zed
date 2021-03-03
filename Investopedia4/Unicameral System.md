@@ -3,7 +3,7 @@ alias: [Unicameral System]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Unicameral System, Unicameral System]
 source: https://www.investopedia.com/terms/u/unicameral-system.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unicameral System]]

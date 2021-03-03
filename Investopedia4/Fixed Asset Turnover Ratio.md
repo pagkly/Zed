@@ -3,7 +3,7 @@ alias: [Fixed Asset Turnover Ratio]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Fixed Asset Turnover Ratio Definition, Fixed Asset Turnover Ratio]
 source: https://www.investopedia.com/terms/f/fixed-asset-turnover.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Fixed Asset Turnover Ratio]] Definition

@@ -3,7 +3,7 @@ alias: [UDAAP]
 created: 2021-03-03T00:13:10 (UTC +11:00)
 tags: [UDAAP Definition, UDAAP]
 source: https://www.investopedia.com/terms/u/[[UDAAP|udaap]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[UDAAP]] Definition

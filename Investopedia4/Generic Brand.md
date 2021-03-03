@@ -3,7 +3,7 @@ alias: [Generic Brand]
 created: 2021-03-02T20:16:40 (UTC +11:00)
 tags: [Generic Brand Definition, Generic Brand]
 source: https://www.investopedia.com/terms/g/generic-brand.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Generic Brand]] Definition

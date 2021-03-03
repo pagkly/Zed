@@ -3,7 +3,7 @@ alias: [Trade Sanction Defined]
 created: 2021-03-03T00:04:44 (UTC +11:00)
 tags: [Trade Sanction Defined, What Is a Trade Sanction?]
 source: https://www.investopedia.com/terms/t/tradesanction.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Trade Sanction Defined

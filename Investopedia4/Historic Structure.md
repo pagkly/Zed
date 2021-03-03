@@ -3,7 +3,7 @@ alias: [Historic Structure]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Historic Structure, Historic Structure]
 source: https://www.investopedia.com/terms/h/historic-structure.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Historic Structure]]

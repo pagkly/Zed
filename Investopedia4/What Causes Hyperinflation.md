@@ -3,7 +3,7 @@ alias: [Hyperinflation]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Hyperinflation Definition, What Causes Hyperinflation]
 source: https://www.investopedia.com/terms/h/hyperinflation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Hyperinflation Definition

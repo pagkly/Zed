@@ -3,7 +3,7 @@ alias: [Order Imbalance]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Order Imbalance, Order Imbalance]
 source: https://www.investopedia.com/terms/o/order-imbalance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Order Imbalance]]

@@ -3,7 +3,7 @@ alias: [Monetarist Theory]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Monetarist Theory Definition, Monetarist Theory Definition]
 source: https://www.investopedia.com/terms/m/monetaristtheory.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Monetarist Theory Definition]]

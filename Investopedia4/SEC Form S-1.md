@@ -3,7 +3,7 @@ alias: [SEC Form S-1]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [SEC Form S-1 Definition, SEC Form S-1]
 source: https://www.investopedia.com/terms/s/sec-form-s-1.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[SEC Form S-1]] Definition

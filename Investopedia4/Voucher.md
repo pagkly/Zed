@@ -3,7 +3,7 @@ alias: [Voucher]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Voucher, Voucher]
 source: https://www.investopedia.com/terms/v/[[Voucher|voucher]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Voucher]]

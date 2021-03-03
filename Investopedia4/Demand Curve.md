@@ -3,7 +3,7 @@ alias: [Demand Curve]
 created: 2021-03-02T19:15:54 (UTC +11:00)
 tags: [Demand Curve, Demand Curve]
 source: https://www.investopedia.com/terms/d/demand-curve.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Demand Curve]]

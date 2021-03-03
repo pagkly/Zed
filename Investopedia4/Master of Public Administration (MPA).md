@@ -3,7 +3,7 @@ alias: [Master of Public Administration, MPA]
 created: 2021-03-02T22:01:10 (UTC +11:00)
 tags: [Master of Public Administration (MPA) Definition, Master of Public Administration (MPA)]
 source: https://www.investopedia.com/terms/m/master-of-public-administration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Master of Public Administration (MPA)]] Definition

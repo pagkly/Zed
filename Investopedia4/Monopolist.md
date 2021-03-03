@@ -3,7 +3,7 @@ alias: [Monopolist]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Monopolist Definition, Monopolist]
 source: https://www.investopedia.com/terms/m/[[Monopolist|monopolist]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Monopolist]] Definition

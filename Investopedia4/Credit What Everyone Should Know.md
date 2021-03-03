@@ -3,7 +3,7 @@ alias: [Credit]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Credit Definition, Credit: What Everyone Should Know]
 source: https://www.investopedia.com/terms/c/credit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Credit Definition

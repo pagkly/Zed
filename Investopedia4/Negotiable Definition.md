@@ -3,7 +3,7 @@ alias: [Negotiable]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negotiable Definition, Negotiable Definition]
 source: https://www.investopedia.com/terms/n/negotiable.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Negotiable Definition]]

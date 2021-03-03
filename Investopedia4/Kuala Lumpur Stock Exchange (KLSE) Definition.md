@@ -3,7 +3,7 @@ alias: [Kuala Lumpur Stock Exchange, KLSE]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Kuala Lumpur Stock Exchange (KLSE) Definition, Kuala Lumpur Stock Exchange (KLSE) Definition]
 source: https://www.investopedia.com/terms/k/klse.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Kuala Lumpur Stock Exchange (KLSE) Definition]]

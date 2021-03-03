@@ -3,7 +3,7 @@ alias: [Government Securities Clearing Corporation, GSCC]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government Securities Clearing Corporation (GSCC), Government Securities Clearing Corporation (GSCC)]
 source: https://www.investopedia.com/terms/g/gscc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Government Securities Clearing Corporation (GSCC)]]

@@ -3,7 +3,7 @@ alias: [Noncurrent Assets]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Noncurrent Assets Definition, Noncurrent Assets Definition]
 source: https://www.investopedia.com/terms/n/noncurrent-assets.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Noncurrent Assets Definition]]

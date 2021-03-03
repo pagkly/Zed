@@ -3,7 +3,7 @@ alias: [Payment]
 created: 2021-03-02T22:38:08 (UTC +11:00)
 tags: [Payment Definition, Understanding Payments]
 source: https://www.investopedia.com/terms/p/payment.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Payment Definition

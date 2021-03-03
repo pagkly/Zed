@@ -3,7 +3,7 @@ alias: [Taft-Hartley Act]
 created: 2021-03-02T23:52:14 (UTC +11:00)
 tags: [Taft-Hartley Act Definition, What Is the Taft-Hartley Act?]
 source: https://www.investopedia.com/terms/t/tafthartleyact.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Taft-Hartley Act Definition

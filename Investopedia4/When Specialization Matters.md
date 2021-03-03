@@ -3,7 +3,7 @@ alias: [Specialization]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Specialization Definition, When Specialization Matters]
 source: https://www.investopedia.com/terms/s/specialization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Specialization Definition

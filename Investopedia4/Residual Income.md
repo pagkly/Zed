@@ -3,7 +3,7 @@ alias: [Residual Income]
 created: 2021-03-02T23:18:54 (UTC +11:00)
 tags: [Residual Income Definition, Residual Income]
 source: https://www.investopedia.com/terms/r/residualincome.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Residual Income]] Definition

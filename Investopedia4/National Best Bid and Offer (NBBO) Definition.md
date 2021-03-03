@@ -3,7 +3,7 @@ alias: [National Best Bid and Offer, NBBO]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Best Bid and Offer (NBBO) Definition, National Best Bid and Offer (NBBO) Definition]
 source: https://www.investopedia.com/terms/n/nbbo.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[National Best Bid and Offer (NBBO) Definition]]

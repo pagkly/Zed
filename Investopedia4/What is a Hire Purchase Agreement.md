@@ -3,7 +3,7 @@ alias: [Hire Purchase Agreements]
 created: 2021-03-02T20:45:31 (UTC +11:00)
 tags: [Hire Purchase Agreements Definition, What is a Hire Purchase Agreement]
 source: https://www.investopedia.com/terms/h/hire-purchase.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Hire Purchase Agreements Definition

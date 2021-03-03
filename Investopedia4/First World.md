@@ -3,7 +3,7 @@ alias: [First World]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [First World Definition, First World]
 source: https://www.investopedia.com/terms/f/first-world.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[First World]] Definition

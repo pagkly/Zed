@@ -3,7 +3,7 @@ alias: [Variable Cost Ratio]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Cost Ratio Definition, How to Use the Variable Cost Ratio]
 source: https://www.investopedia.com/terms/v/variable-cost-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Variable Cost]] Ratio Definition

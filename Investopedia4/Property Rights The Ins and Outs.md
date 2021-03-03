@@ -3,7 +3,7 @@ alias: [Property Rights]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Property Rights Definition, Property Rights: The Ins and Outs]
 source: https://www.investopedia.com/terms/p/property_rights.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Property Rights Definition

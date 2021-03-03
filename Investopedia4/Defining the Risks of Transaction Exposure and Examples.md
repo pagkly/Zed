@@ -3,7 +3,7 @@ alias: [Transaction Exposure]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Transaction Exposure Definition, Defining the Risks of Transaction Exposure and Examples]
 source: https://www.investopedia.com/terms/t/transactionexposure.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Transaction Exposure Definition

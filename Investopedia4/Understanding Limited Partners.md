@@ -3,7 +3,7 @@ alias: [Limited Partner]
 created: 2021-03-02T21:19:47 (UTC +11:00)
 tags: [Limited Partner Definition, Understanding Limited Partners]
 source: https://www.investopedia.com/terms/l/limited-partner.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Limited Partner Definition

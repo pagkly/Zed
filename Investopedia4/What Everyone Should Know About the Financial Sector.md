@@ -3,7 +3,7 @@ alias: [Financial Sector]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Financial Sector Definition, What Everyone Should Know About the Financial Sector]
 source: https://www.investopedia.com/terms/f/financial_sector.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Financial Sector Definition

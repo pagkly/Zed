@@ -3,7 +3,7 @@ alias: [Triple Bottom Line, TBL]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Triple Bottom Line (TBL) Definition, Triple Bottom Line (TBL) Definition]
 source: https://www.investopedia.com/terms/t/triple-bottom-line.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Triple Bottom Line (TBL) Definition]]

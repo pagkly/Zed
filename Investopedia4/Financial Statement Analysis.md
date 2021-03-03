@@ -3,7 +3,7 @@ alias: [Financial Statement Analysis]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Financial Statement Analysis Definition, Financial Statement Analysis]
 source: https://www.investopedia.com/terms/f/financial-statement-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Financial Statement Analysis]] Definition

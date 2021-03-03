@@ -3,7 +3,7 @@ alias: [Financial Account]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Financial Account Definition, Understanding Financial Accounts]
 source: https://www.investopedia.com/terms/f/financial-account.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Financial Account Definition

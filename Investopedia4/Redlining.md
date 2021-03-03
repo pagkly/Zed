@@ -3,7 +3,7 @@ alias: [Redlining]
 created: 2021-03-02T23:12:20 (UTC +11:00)
 tags: [Redlining Definition, Redlining]
 source: https://www.investopedia.com/terms/r/[[Redlining|redlining]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Redlining]] Definition

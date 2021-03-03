@@ -1,7 +1,7 @@
 ---
 alias: [Joint Endorsement]
 created: 2021-03-02T21:00:35 (UTC +11:00)
-tags: [Joint Endorsement Definition, [[Joint]] Endorsement Definition]
+tags: [Joint Endorsement Definition, Joint Endorsement Definition]
 source: https://www.investopedia.com/terms/j/[[Joint|joint]]-endorsement.asp
 author: [[Will]] Kenton
 ---

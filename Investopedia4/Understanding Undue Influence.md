@@ -3,7 +3,7 @@ alias: [What Is Undue Influence?]
 created: 2021-03-03T00:19:22 (UTC +11:00)
 tags: [What Is Undue Influence?, Understanding Undue Influence]
 source: https://www.investopedia.com/terms/u/undue-influence.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # What Is Undue Influence?

@@ -3,7 +3,7 @@ alias: [Sum of Squares]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Sum of Squares Definition, How the Sum of Squares Statistical Technique Works]
 source: https://www.investopedia.com/terms/s/sum-of-squares.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Sum of Squares Definition

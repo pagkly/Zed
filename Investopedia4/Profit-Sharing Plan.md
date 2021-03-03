@@ -3,7 +3,7 @@ alias: [Profit-Sharing Plan]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Profit-Sharing Plan Definition, Profit-Sharing Plan]
 source: https://www.investopedia.com/terms/p/profitsharingplan.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Profit-Sharing Plan]] Definition

@@ -3,7 +3,7 @@ alias: [Group of 20, G-20]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of 20 (G-20) Definition, Group of 20 (G-20)]
 source: https://www.investopedia.com/terms/g/g-20.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Group of 20 (G-20)]] Definition

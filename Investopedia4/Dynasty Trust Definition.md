@@ -3,7 +3,7 @@ alias: [Dynasty Trust]
 created: 2021-03-02T19:29:08 (UTC +11:00)
 tags: [Dynasty Trust Definition, Dynasty Trust Definition]
 source: https://www.investopedia.com/terms/d/dynasty-trust.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Dynasty Trust Definition]]

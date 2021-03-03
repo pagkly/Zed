@@ -3,7 +3,7 @@ alias: [Net Receivables]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [Net Receivables Definition, Customers Not Paying on Time? Net Receivables Might Be Your Problem]
 source: https://www.investopedia.com/terms/n/netreceivables.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Net [[Receivables Definition]]

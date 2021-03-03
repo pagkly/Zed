@@ -3,7 +3,7 @@ alias: [Unconventional Cash Flow]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Unconventional Cash Flow Definition, Unconventional Cash Flow]
 source: https://www.investopedia.com/terms/u/unconventional-cash-flow.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unconventional Cash Flow]] Definition

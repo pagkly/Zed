@@ -3,7 +3,7 @@ alias: [Leveraged Loan]
 created: 2021-03-02T21:15:35 (UTC +11:00)
 tags: [Leveraged Loan Definition, Leveraged Loan]
 source: https://www.investopedia.com/terms/l/leveragedloan.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Leveraged Loan]] Definition

@@ -3,7 +3,7 @@ alias: [Going Concern]
 created: 2021-03-02T20:20:50 (UTC +11:00)
 tags: [Going Concern Definition, Going Concern]
 source: https://www.investopedia.com/terms/g/goingconcern.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Going Concern]] Definition

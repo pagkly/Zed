@@ -3,7 +3,7 @@ alias: [Equity Compensation]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equity Compensation Definition, Equity Compensation]
 source: https://www.investopedia.com/terms/e/[[Equity|equity]]-compensation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Equity Compensation]] Definition

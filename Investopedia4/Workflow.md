@@ -3,7 +3,7 @@ alias: [Workflow]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Workflow, Workflow]
 source: https://www.investopedia.com/terms/w/[[Workflow|workflow]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Workflow]]

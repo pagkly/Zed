@@ -3,7 +3,7 @@ alias: [Mobile Wallet]
 created: 2021-03-02T22:07:27 (UTC +11:00)
 tags: [Mobile Wallet Definition, Mobile Wallet]
 source: https://www.investopedia.com/terms/m/mobile-wallet.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Mobile Wallet]] Definition

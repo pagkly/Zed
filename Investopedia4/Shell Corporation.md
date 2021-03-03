@@ -3,7 +3,7 @@ alias: [Shell Corporation]
 created: 2021-03-02T23:36:35 (UTC +11:00)
 tags: [Shell Corporation, Shell Corporation]
 source: https://www.investopedia.com/terms/s/shellcorporation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Shell Corporation]]

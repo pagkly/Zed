@@ -3,7 +3,7 @@ alias: [Cost Control]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Cost Control Definition, The Lowdown on Cost Control]
 source: https://www.investopedia.com/terms/c/cost-control.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Cost Control Definition

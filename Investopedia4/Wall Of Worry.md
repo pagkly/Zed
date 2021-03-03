@@ -3,7 +3,7 @@ alias: [Wall Of Worry]
 created: 2021-03-03T00:46:29 (UTC +11:00)
 tags: [Wall Of Worry Definition, Wall Of Worry]
 source: https://www.investopedia.com/terms/w/wallofworry.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wall Of Worry]] Definition

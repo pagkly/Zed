@@ -3,7 +3,7 @@ alias: [Shrinkage]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Shrinkage Definition, Shrinkage]
 source: https://www.investopedia.com/terms/s/[[Shrinkage|shrinkage]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Shrinkage]] Definition

@@ -1,7 +1,7 @@
 ---
 alias: [Sweat Equity]
 created: 2021-03-02T23:50:10 (UTC +11:00)
-tags: [Sweat [[Equity]] Definition, What You Need to Know About Sweat Equity]
+tags: [Sweat Equity Definition, What You Need to Know About Sweat Equity]
 source: https://www.investopedia.com/terms/s/sweatequity.asp
 author: [[Will]] Kenton
 ---

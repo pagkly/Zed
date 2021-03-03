@@ -3,7 +3,7 @@ alias: [Tangible Book Value Per Share, TBVPS]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Tangible Book Value Per Share (TBVPS) Definition, Tangible Book Value Per Share (TBVPS)]
 source: https://www.investopedia.com/terms/t/tbvps.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Tangible Book Value Per Share (TBVPS)]] Definition

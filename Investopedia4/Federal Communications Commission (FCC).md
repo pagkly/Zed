@@ -3,7 +3,7 @@ alias: [Federal Communications Commission, FCC]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Communications Commission (FCC), Federal Communications Commission (FCC)]
 source: https://www.investopedia.com/terms/f/fcc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Federal Communications Commission (FCC)]]

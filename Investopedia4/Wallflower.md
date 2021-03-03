@@ -3,7 +3,7 @@ alias: [Wallflower]
 created: 2021-03-03T00:46:30 (UTC +11:00)
 tags: [Wallflower, Wallflower]
 source: https://www.investopedia.com/terms/w/[[Wallflower|wallflower]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wallflower]]

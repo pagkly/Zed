@@ -3,7 +3,7 @@ alias: [Repudiation]
 created: 2021-03-02T23:16:48 (UTC +11:00)
 tags: [Repudiation Definition, Repudiation]
 source: https://www.investopedia.com/terms/r/[[Repudiation|repudiation]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Repudiation]] Definition

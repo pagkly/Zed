@@ -3,7 +3,7 @@ alias: [Letter of Comfort]
 created: 2021-03-02T21:15:34 (UTC +11:00)
 tags: [Letter of Comfort Definition, Letter of Comfort: The Basics]
 source: https://www.investopedia.com/terms/l/letterofcomfort.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Letter of Comfort Definition

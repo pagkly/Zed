@@ -3,7 +3,7 @@ alias: [Depository]
 created: 2021-03-02T19:18:10 (UTC +11:00)
 tags: [Depository Definition, How Depositories Work]
 source: https://www.investopedia.com/terms/d/depository.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Depository Definition

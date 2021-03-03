@@ -3,7 +3,7 @@ alias: [Lawful Money]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Lawful Money Definition, Lawful Money]
 source: https://www.investopedia.com/terms/l/lawfulmoney.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Lawful [[Money Definition]]

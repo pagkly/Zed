@@ -3,7 +3,7 @@ alias: [Regulatory Capture]
 created: 2021-03-02T23:14:41 (UTC +11:00)
 tags: [Regulatory Capture Definition, Regulatory Capture Definition]
 source: https://www.investopedia.com/terms/r/regulatory-capture.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulatory Capture Definition]]

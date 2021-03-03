@@ -3,7 +3,7 @@ alias: [MSCI]
 created: 2021-03-02T22:11:44 (UTC +11:00)
 tags: [MSCI Definition, MSCI]
 source: https://www.investopedia.com/terms/m/[[MSCI|msci]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[MSCI]] Definition

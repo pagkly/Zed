@@ -3,7 +3,7 @@ alias: [Heatmap]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Heatmap Definition, What Is a Heatmap?]
 source: https://www.investopedia.com/terms/h/heatmap.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Heatmap Definition

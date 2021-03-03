@@ -1,7 +1,7 @@
 ---
 alias: [Gross Income Multiplier]
 created: 2021-03-02T20:27:49 (UTC +11:00)
-tags: [Gross Income Multiplier Definition, [[Gross Income]] Multiplier]
+tags: [Gross Income Multiplier Definition, Gross Income Multiplier]
 source: https://www.investopedia.com/terms/g/gross-income-multiplier.asp
 author: [[Will]] Kenton
 ---

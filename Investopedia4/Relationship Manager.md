@@ -3,7 +3,7 @@ alias: [Relationship Manager]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Relationship Manager Definition, Relationship Manager]
 source: https://www.investopedia.com/terms/r/relationship-manager.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Relationship Manager]] Definition

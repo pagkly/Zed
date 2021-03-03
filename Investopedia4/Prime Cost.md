@@ -3,7 +3,7 @@ alias: [Prime Cost]
 created: 2021-03-02T22:52:17 (UTC +11:00)
 tags: [Prime Cost Definition, Prime Cost]
 source: https://www.investopedia.com/terms/p/prime-cost.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Prime Cost]] Definition

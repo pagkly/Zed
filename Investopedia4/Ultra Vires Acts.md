@@ -3,7 +3,7 @@ alias: [Ultra Vires Acts]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Ultra Vires Acts, Ultra Vires Acts]
 source: https://www.investopedia.com/terms/u/ultra-vires-acts.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Ultra Vires Acts]]

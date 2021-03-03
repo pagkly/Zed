@@ -3,7 +3,7 @@ alias: [Externality]
 created: 2021-03-02T19:50:25 (UTC +11:00)
 tags: [Externality Definition, Understanding Externalities]
 source: https://www.investopedia.com/terms/e/externality.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Externality Definition

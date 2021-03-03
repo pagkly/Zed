@@ -3,7 +3,7 @@ alias: [EBITDA/EV Multiple]
 created: 2021-03-02T19:31:15 (UTC +11:00)
 tags: [EBITDA/EV Multiple Definition, EBITDA/EV Multiple]
 source: https://www.investopedia.com/terms/e/ebitda-ev-multiple.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # EBITDA/EV [[Multiple Definition]]

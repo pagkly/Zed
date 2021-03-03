@@ -3,7 +3,7 @@ alias: [Zoning]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zoning Definition, Zoning Definition]
 source: https://www.investopedia.com/terms/[[Z|z]]/zoning.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zoning Definition]]

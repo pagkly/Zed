@@ -3,7 +3,7 @@ alias: [Reorganization]
 created: 2021-03-02T23:16:47 (UTC +11:00)
 tags: [Reorganization Definition, What Is Reorganization?]
 source: https://www.investopedia.com/terms/r/reorganization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Reorganization Definition

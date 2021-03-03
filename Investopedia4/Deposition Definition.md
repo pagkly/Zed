@@ -3,7 +3,7 @@ alias: [Deposition]
 created: 2021-03-02T19:18:10 (UTC +11:00)
 tags: [Deposition Definition, Deposition Definition]
 source: https://www.investopedia.com/terms/d/deposition.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Deposition Definition]]

@@ -3,7 +3,7 @@ alias: [Living Trust]
 created: 2021-03-02T21:23:48 (UTC +11:00)
 tags: [Living Trust Definition, Living Trust]
 source: https://www.investopedia.com/terms/l/living-trust.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Living [[Trust Definition]]

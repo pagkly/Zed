@@ -3,7 +3,7 @@ alias: [Cash Ratio]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Cash Ratio Definition, Understanding the Cash Ratio]
 source: https://www.investopedia.com/terms/c/cash-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Cash Ratio Definition

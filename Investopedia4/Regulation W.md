@@ -3,7 +3,7 @@ alias: [Regulation W]
 created: 2021-03-02T23:14:41 (UTC +11:00)
 tags: [Regulation W Definition, Regulation W]
 source: https://www.investopedia.com/terms/r/regulation-w.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulation W]] Definition

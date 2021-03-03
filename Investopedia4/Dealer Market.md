@@ -3,7 +3,7 @@ alias: [Dealer Market]
 created: 2021-03-02T19:09:23 (UTC +11:00)
 tags: [Dealer Market Definition, Dealer Market]
 source: https://www.investopedia.com/terms/d/dealersmarket.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Dealer Market]] Definition

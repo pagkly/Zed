@@ -3,7 +3,7 @@ alias: [York Antwerp Rules]
 created: 2021-03-03T01:08:28 (UTC +11:00)
 tags: [York Antwerp Rules Definition, Reading Into the York Antwerp Rules]
 source: https://www.investopedia.com/terms/[[Y|y]]/york-antwerp-rules.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # York Antwerp Rules Definition

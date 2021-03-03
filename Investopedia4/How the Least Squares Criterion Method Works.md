@@ -3,7 +3,7 @@ alias: [Least Squares Criterion]
 created: 2021-03-02T21:13:31 (UTC +11:00)
 tags: [Least Squares Criterion Definition, How the Least Squares Criterion Method Works]
 source: https://www.investopedia.com/terms/l/least-squares.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Least Squares Criterion Definition

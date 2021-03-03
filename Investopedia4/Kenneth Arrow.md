@@ -3,7 +3,7 @@ alias: [Kenneth Arrow]
 created: 2021-03-02T21:05:08 (UTC +11:00)
 tags: [Kenneth Arrow Definition, Kenneth Arrow]
 source: https://www.investopedia.com/terms/k/kenneth-arrow.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Kenneth Arrow]] Definition

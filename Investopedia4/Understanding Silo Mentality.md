@@ -3,7 +3,7 @@ alias: [Silo Mentality]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Silo Mentality Definition, Understanding Silo Mentality]
 source: https://www.investopedia.com/terms/s/silo-mentality.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Silo Mentality Definition

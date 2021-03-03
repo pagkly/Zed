@@ -3,7 +3,7 @@ alias: [Statistical Significance]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Statistical Significance Definition, Why Statistical Significance Matters]
 source: https://www.investopedia.com/terms/s/statistically_significant.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Statistical Significance Definition

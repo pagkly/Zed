@@ -3,7 +3,7 @@ alias: [Heteroskedastic]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Heteroskedastic, Heteroskedastic]
 source: https://www.investopedia.com/terms/h/[[Heteroskedastic|heteroskedastic]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Heteroskedastic]]

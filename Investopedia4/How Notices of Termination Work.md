@@ -3,7 +3,7 @@ alias: [Notice of Termination]
 created: 2021-03-02T21:52:27 (UTC +11:00)
 tags: [Notice of Termination Definition, How Notices of Termination Work]
 source: https://www.investopedia.com/terms/n/notice-of-termination.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Notice of Termination Definition

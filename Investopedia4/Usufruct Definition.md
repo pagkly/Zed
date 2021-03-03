@@ -3,7 +3,7 @@ alias: [Usufruct]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [Usufruct Definition, Usufruct Definition]
 source: https://www.investopedia.com/terms/u/usufruct.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Usufruct Definition]]

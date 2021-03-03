@@ -3,7 +3,7 @@ alias: [Make-or-Buy Decision]
 created: 2021-03-02T21:54:33 (UTC +11:00)
 tags: [Make-or-Buy Decision Definition, Make-or-Buy Decision]
 source: https://www.investopedia.com/terms/m/make-or-buy-decision.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Make-or-Buy Decision]] Definition

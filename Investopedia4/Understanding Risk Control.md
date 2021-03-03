@@ -3,7 +3,7 @@ alias: [Risk Control]
 created: 2021-03-02T23:25:41 (UTC +11:00)
 tags: [Risk Control Definition, Understanding Risk Control]
 source: https://www.investopedia.com/terms/r/[[Risk|risk]]-control.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Risk]] Control Definition

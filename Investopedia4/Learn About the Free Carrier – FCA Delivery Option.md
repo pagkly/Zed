@@ -3,7 +3,7 @@ alias: [Free Carrier, FCA]
 created: 2021-03-02T20:07:41 (UTC +11:00)
 tags: [Free Carrier (FCA) Definition, Learn About the Free Carrier – FCA Delivery Option]
 source: https://www.investopedia.com/terms/f/fca.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Free Carrier (FCA) Definition

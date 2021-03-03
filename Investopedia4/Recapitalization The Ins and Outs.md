@@ -3,7 +3,7 @@ alias: [Recapitalization]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Recapitalization Definition, Recapitalization: The Ins and Outs]
 source: https://www.investopedia.com/terms/r/recapitalization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Recapitalization Definition

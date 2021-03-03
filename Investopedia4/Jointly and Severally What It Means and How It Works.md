@@ -3,7 +3,7 @@ alias: [Jointly and Severally]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Jointly and Severally Definition, Jointly and Severally: What It Means and How It Works]
 source: https://www.investopedia.com/terms/j/jointlyandseverally.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Jointly and Severally Definition

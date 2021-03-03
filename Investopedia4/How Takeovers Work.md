@@ -3,7 +3,7 @@ alias: [Takeover]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Takeover Definition, How Takeovers Work]
 source: https://www.investopedia.com/terms/t/takeover.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Takeover Definition

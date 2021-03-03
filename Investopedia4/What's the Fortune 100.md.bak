@@ -1,7 +1,7 @@
 ---
 alias: [Fortune 100 Overview]
 created: 2021-03-02T20:05:34 (UTC +11:00)
-tags: [Fortune 100: Overview, [[What's the Fortune 100]]?]
+tags: [Fortune 100: Overview, What's the Fortune 100?]
 source: https://www.investopedia.com/terms/f/fortune-100.asp
 author: [[Will]] Kenton
 ---

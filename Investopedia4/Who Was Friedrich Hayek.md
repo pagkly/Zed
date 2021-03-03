@@ -3,7 +3,7 @@ alias: [Who Was Friedrich Hayek?]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Who Was Friedrich Hayek?, Who Was Friedrich Hayek?]
 source: https://www.investopedia.com/terms/f/friedrich-hayek.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Who Was Friedrich Hayek]]?

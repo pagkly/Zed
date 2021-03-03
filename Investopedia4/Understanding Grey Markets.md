@@ -3,7 +3,7 @@ alias: [Grey Market]
 created: 2021-03-02T20:27:48 (UTC +11:00)
 tags: [Grey Market Definition, Understanding Grey Markets]
 source: https://www.investopedia.com/terms/g/greymarket.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Grey Market Definition

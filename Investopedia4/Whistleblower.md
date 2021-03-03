@@ -3,7 +3,7 @@ alias: [Whistleblower]
 created: 2021-03-03T00:54:55 (UTC +11:00)
 tags: [Whistleblower Definition, Whistleblower]
 source: https://www.investopedia.com/terms/w/[[Whistleblower|whistleblower]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Whistleblower]] Definition

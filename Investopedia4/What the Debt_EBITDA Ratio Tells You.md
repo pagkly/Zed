@@ -3,7 +3,7 @@ alias: [Debt/EBITDA]
 created: 2021-03-02T19:09:23 (UTC +11:00)
 tags: [Debt/EBITDA Definition, What the Debt/EBITDA Ratio Tells You]
 source: https://www.investopedia.com/terms/d/debt_edbitda.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Debt]]/EBITDA Definition

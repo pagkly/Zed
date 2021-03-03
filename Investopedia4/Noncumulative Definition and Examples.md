@@ -3,7 +3,7 @@ alias: [Noncumulative Definition and Examples]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Noncumulative Definition and Examples, Noncumulative Definition and Examples]
 source: https://www.investopedia.com/terms/n/noncumulative.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Noncumulative Definition and Examples]]

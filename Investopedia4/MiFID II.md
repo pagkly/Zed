@@ -3,7 +3,7 @@ alias: [MiFID II]
 created: 2021-03-02T22:05:23 (UTC +11:00)
 tags: [MiFID II Definition, MiFID II]
 source: https://www.investopedia.com/terms/m/mifid-ii.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[MiFID II]] Definition

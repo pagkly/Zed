@@ -3,7 +3,7 @@ alias: [Financial Crisis]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [Financial Crisis Definition, Financial Crisis]
 source: https://www.investopedia.com/terms/f/financial-crisis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Financial Crisis]] Definition

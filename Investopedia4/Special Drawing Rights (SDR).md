@@ -3,7 +3,7 @@ alias: [Special Drawing Rights, SDR]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Special Drawing Rights (SDR) Definition, Special Drawing Rights (SDR)]
 source: https://www.investopedia.com/terms/s/sdr.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Special Drawing Rights (SDR)]] Definition

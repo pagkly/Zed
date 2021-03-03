@@ -3,7 +3,7 @@ alias: [Gambler's Fallacy]
 created: 2021-03-02T20:12:35 (UTC +11:00)
 tags: [Gambler's Fallacy Definition, Gambler's Fallacy Definition]
 source: https://www.investopedia.com/terms/g/gamblersfallacy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Gambler's Fallacy Definition]]

@@ -3,7 +3,7 @@ alias: [Sherman Antitrust Act]
 created: 2021-03-02T23:36:36 (UTC +11:00)
 tags: [Sherman Antitrust Act Definition, Sherman Antitrust Act Definition]
 source: https://www.investopedia.com/terms/s/sherman-antiturst-act.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Sherman Antitrust Act Definition]]

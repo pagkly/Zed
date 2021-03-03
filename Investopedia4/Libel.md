@@ -3,7 +3,7 @@ alias: [Libel]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Libel, Libel]
 source: https://www.investopedia.com/terms/l/[[Libel|libel]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Libel]]

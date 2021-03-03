@@ -3,7 +3,7 @@ alias: [Walk-Through Test]
 created: 2021-03-03T00:46:29 (UTC +11:00)
 tags: [Walk-Through Test Definition, Walk-Through Test]
 source: https://www.investopedia.com/terms/w/walk-through-test.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Walk-Through Test]] Definition

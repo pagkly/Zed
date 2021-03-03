@@ -3,7 +3,7 @@ alias: [Lead Time]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Lead Time Definition, What Is Lead Time?]
 source: https://www.investopedia.com/terms/l/leadtime.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Lead Time Definition

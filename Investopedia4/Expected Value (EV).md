@@ -3,7 +3,7 @@ alias: [Expected Value, EV]
 created: 2021-03-02T19:48:22 (UTC +11:00)
 tags: [Expected Value (EV) Definition, Expected Value (EV)]
 source: https://www.investopedia.com/terms/e/expected-value.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Expected Value (EV)]] Definition

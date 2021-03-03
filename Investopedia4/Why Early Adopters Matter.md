@@ -3,7 +3,7 @@ alias: [Early Adopter]
 created: 2021-03-02T19:29:08 (UTC +11:00)
 tags: [Early Adopter Definition, Why Early Adopters Matter]
 source: https://www.investopedia.com/terms/e/early-adopter.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Early Adopter Definition

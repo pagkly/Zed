@@ -3,7 +3,7 @@ alias: [Silent Partner]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Silent Partner Definition, Silent Partner]
 source: https://www.investopedia.com/terms/s/silentpartner.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Silent Partner]] Definition

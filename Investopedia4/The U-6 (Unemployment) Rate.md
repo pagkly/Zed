@@ -3,7 +3,7 @@ alias: [The U-6 (Unemployment) Rate]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [The U-6 (Unemployment) Rate Definition, The U-6 (Unemployment) Rate]
 source: https://www.investopedia.com/terms/u/u6-rate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[The U-6 (Unemployment) Rate]] Definition

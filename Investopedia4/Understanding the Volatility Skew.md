@@ -3,7 +3,7 @@ alias: [Volatility Skew]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Volatility Skew Definition, Understanding the Volatility Skew]
 source: https://www.investopedia.com/terms/v/[[Volatility|volatility]]-skew.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Volatility]] Skew Definition

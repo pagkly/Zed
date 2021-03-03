@@ -3,7 +3,7 @@ alias: [Liquidity Risk]
 created: 2021-03-02T21:21:48 (UTC +11:00)
 tags: [Liquidity Risk Definition, Learn About Liquidity Risk With Investments]
 source: https://www.investopedia.com/terms/l/liquidityrisk.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Liquidity]] [[Risk]] Definition

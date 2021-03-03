@@ -3,7 +3,7 @@ alias: [National Income Accounting]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Income Accounting Definition, National Income Accounting]
 source: https://www.investopedia.com/terms/n/national_income_accounting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[National Income Accounting]] Definition

@@ -3,7 +3,7 @@ alias: [Social Networking]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Social Networking Definition, Understanding Social Networking]
 source: https://www.investopedia.com/terms/s/social-networking.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Social Networking Definition

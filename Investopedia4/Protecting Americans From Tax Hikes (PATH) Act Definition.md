@@ -3,7 +3,7 @@ alias: [Protecting Americans From Tax Hikes (PATH) Act]
 created: 2021-03-02T22:38:07 (UTC +11:00)
 tags: [Protecting Americans From Tax Hikes (PATH) Act Definition, Protecting Americans From Tax Hikes (PATH) Act Definition]
 source: https://www.investopedia.com/terms/p/path-act.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Protecting Americans From Tax Hikes (PATH) Act Definition]]

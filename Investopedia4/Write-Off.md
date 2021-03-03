@@ -3,7 +3,7 @@ alias: [Write-Off]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [Write-Off Definition, Write-Off]
 source: https://www.investopedia.com/terms/w/[[Write-Off|write-off]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Write-Off]] Definition

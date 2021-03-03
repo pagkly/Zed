@@ -3,7 +3,7 @@ alias: [Lease Rate]
 created: 2021-03-02T21:13:31 (UTC +11:00)
 tags: [Lease Rate Definition, Lease Rate]
 source: https://www.investopedia.com/terms/l/[[Lease|lease]]-rate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lease Rate]] Definition

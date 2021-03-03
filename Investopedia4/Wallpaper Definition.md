@@ -3,7 +3,7 @@ alias: [Wallpaper]
 created: 2021-03-03T00:46:30 (UTC +11:00)
 tags: [Wallpaper Definition, Wallpaper Definition]
 source: https://www.investopedia.com/terms/w/wallpaper.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wallpaper Definition]]

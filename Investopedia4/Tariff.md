@@ -3,7 +3,7 @@ alias: [Tariff]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Tariff Definition, Tariff]
 source: https://www.investopedia.com/terms/t/[[Tariff|tariff]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Tariff]] Definition

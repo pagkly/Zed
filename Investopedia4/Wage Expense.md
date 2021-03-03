@@ -3,7 +3,7 @@ alias: [Wage Expense]
 created: 2021-03-03T00:46:28 (UTC +11:00)
 tags: [Wage Expense, Wage Expense]
 source: https://www.investopedia.com/terms/w/wage-expense.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wage Expense]]

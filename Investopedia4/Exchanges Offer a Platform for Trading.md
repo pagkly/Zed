@@ -3,7 +3,7 @@ alias: [Exchange]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange Definition, Exchanges Offer a Platform for Trading]
 source: https://www.investopedia.com/terms/e/exchange.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Exchange Definition

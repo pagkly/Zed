@@ -3,7 +3,7 @@ alias: [Net Current Asset Value Per Share, NCAVPS]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Net Current Asset Value Per Share (NCAVPS), Net Current Asset Value Per Share (NCAVPS)]
 source: https://www.investopedia.com/terms/n/ncavps.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Net Current Asset Value Per Share (NCAVPS)]]

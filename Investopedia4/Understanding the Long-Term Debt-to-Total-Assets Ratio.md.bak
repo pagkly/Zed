@@ -1,5 +1,5 @@
 ---
-alias: [Long-Term [[Debt]]-to-Total-Assets Ratio]
+alias: [Long-Term Debt-to-Total-Assets Ratio]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Long-Term Debt-to-Total-Assets Ratio Definition, Understanding the Long-Term Debt-to-Total-Assets Ratio]
 source: https://www.investopedia.com/terms/l/long-term-[[Debt|debt]]-to-total-assets-ratio.asp

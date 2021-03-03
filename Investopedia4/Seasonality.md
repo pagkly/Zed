@@ -3,7 +3,7 @@ alias: [Seasonality]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Seasonality Definition, Seasonality]
 source: https://www.investopedia.com/terms/s/[[Seasonality|seasonality]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Seasonality]] Definition

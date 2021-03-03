@@ -3,7 +3,7 @@ alias: [Net Income, NI]
 created: 2021-03-02T21:39:26 (UTC +11:00)
 tags: [Net Income (NI), Net Income (NI)]
 source: https://www.investopedia.com/terms/n/netincome.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Net Income (NI)]]

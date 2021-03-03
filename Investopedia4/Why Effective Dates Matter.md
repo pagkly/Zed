@@ -3,7 +3,7 @@ alias: [Effective Date]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Effective Date Definition, Why Effective Dates Matter]
 source: https://www.investopedia.com/terms/e/effectivedate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Effective Date Definition

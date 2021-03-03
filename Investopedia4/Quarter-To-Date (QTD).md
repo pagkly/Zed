@@ -3,7 +3,7 @@ alias: [Quarter-To-Date, QTD]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quarter-To-Date (QTD) Definition, Quarter-To-Date (QTD)]
 source: https://www.investopedia.com/terms/q/qtd.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Quarter-To-Date (QTD)]] Definition

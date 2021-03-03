@@ -3,7 +3,7 @@ alias: [Introduction to the Type 1 Error]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [Introduction to the Type 1 Error, Introduction to the Type 1 Error]
 source: https://www.investopedia.com/terms/t/type_1_error.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Introduction to the Type 1 Error]]

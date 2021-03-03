@@ -3,7 +3,7 @@ alias: [Lehman Brothers]
 created: 2021-03-02T21:15:33 (UTC +11:00)
 tags: [Lehman Brothers, Lehman Brothers Definition]
 source: https://www.investopedia.com/terms/l/lehman-brothers.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Lehman Brothers

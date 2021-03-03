@@ -3,7 +3,7 @@ alias: [Labor Market Flexibility]
 created: 2021-03-02T21:09:20 (UTC +11:00)
 tags: [Labor Market Flexibility Definition, Labor Market Flexibility: What You Need to Know]
 source: https://www.investopedia.com/terms/l/labor-market-flexibility.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Labor Market]] Flexibility Definition

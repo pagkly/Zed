@@ -3,7 +3,7 @@ alias: [Efficiency Ratio]
 created: 2021-03-02T19:35:28 (UTC +11:00)
 tags: [Efficiency Ratio Definition, Efficiency Ratio]
 source: https://www.investopedia.com/terms/e/efficiencyratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Efficiency Ratio]] Definition

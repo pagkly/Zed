@@ -3,7 +3,7 @@ alias: [Unitary Thrift]
 created: 2021-03-03T00:23:29 (UTC +11:00)
 tags: [Unitary Thrift Definition, Unitary Thrift]
 source: https://www.investopedia.com/terms/u/unitary-thrift.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unitary Thrift]] Definition

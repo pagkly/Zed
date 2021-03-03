@@ -3,7 +3,7 @@ alias: [Definiton Dun & Bradstreet, D&B]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Definiton Dun & Bradstreet (D&B), Definiton Dun & Bradstreet (D&B)]
 source: https://www.investopedia.com/terms/d/dandb.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Definiton Dun & Bradstreet (D&B)]]

@@ -3,7 +3,7 @@ alias: [Wirehouse Broker]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Wirehouse Broker, Wirehouse Broker]
 source: https://www.investopedia.com/terms/w/wire-house-broker.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Wirehouse Broker]]

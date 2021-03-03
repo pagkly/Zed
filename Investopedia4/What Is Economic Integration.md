@@ -3,7 +3,7 @@ alias: [Economic Integration]
 created: 2021-03-02T19:33:19 (UTC +11:00)
 tags: [Economic Integration Definition, What Is Economic Integration?]
 source: https://www.investopedia.com/terms/e/economic-integration.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Economic Integration Definition

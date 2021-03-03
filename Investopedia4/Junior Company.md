@@ -3,7 +3,7 @@ alias: [Junior Company]
 created: 2021-03-02T21:02:46 (UTC +11:00)
 tags: [Junior Company Definition, Junior Company]
 source: https://www.investopedia.com/terms/j/junior-company.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Junior Company]] Definition

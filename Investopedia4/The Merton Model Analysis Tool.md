@@ -3,7 +3,7 @@ alias: [Merton Model]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Merton Model Definition, The Merton Model Analysis Tool]
 source: https://www.investopedia.com/terms/m/mertonmodel.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Merton Model Definition

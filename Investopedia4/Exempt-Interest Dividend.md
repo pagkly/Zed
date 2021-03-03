@@ -3,7 +3,7 @@ alias: [Exempt-Interest Dividend]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exempt-Interest Dividend Definition, Exempt-Interest Dividend]
 source: https://www.investopedia.com/terms/e/exempt-interest-dividend.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Exempt-Interest Dividend]] Definition

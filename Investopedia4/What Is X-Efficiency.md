@@ -3,7 +3,7 @@ alias: [X-Efficiency]
 created: 2021-03-03T01:06:04 (UTC +11:00)
 tags: [X-Efficiency Definition, What Is X-Efficiency?]
 source: https://www.investopedia.com/terms/x/x-efficiency.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # X-Efficiency Definition

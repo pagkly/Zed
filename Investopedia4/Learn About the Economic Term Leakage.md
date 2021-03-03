@@ -3,7 +3,7 @@ alias: [Leakage]
 created: 2021-03-02T21:13:30 (UTC +11:00)
 tags: [Leakage Definition, Learn About the Economic Term Leakage]
 source: https://www.investopedia.com/terms/l/leakage.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Leakage Definition

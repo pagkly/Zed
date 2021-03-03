@@ -3,7 +3,7 @@ alias: [Green Tech]
 created: 2021-03-02T20:25:19 (UTC +11:00)
 tags: [Green Tech Definition, Green Tech Definition]
 source: https://www.investopedia.com/terms/g/green_tech.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Green Tech Definition]]

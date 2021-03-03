@@ -1,7 +1,7 @@
 ---
 alias: [Yield Spread Premium]
 created: 2021-03-03T01:08:28 (UTC +11:00)
-tags: [Yield Spread Premium Definition, [[Yield]] Spread Premium]
+tags: [Yield Spread Premium Definition, Yield Spread Premium]
 source: https://www.investopedia.com/terms/[[Y|y]]/yield_spread_premium.asp
 author: [[Will]] Kenton
 ---

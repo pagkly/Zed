@@ -3,7 +3,7 @@ alias: [Request for Proposal, RFP]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Request for Proposal (RFP) Definition, How Requests for Proposal (RFP) Work]
 source: https://www.investopedia.com/terms/r/request-for-proposal.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Request for Proposal (RFP) Definition

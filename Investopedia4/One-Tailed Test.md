@@ -3,7 +3,7 @@ alias: [One-Tailed Test]
 created: 2021-03-02T22:20:04 (UTC +11:00)
 tags: [One-Tailed Test Definition, One-Tailed Test]
 source: https://www.investopedia.com/terms/o/one-tailed-test.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[One-Tailed Test]] Definition

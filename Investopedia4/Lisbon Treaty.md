@@ -3,7 +3,7 @@ alias: [Lisbon Treaty]
 created: 2021-03-02T21:21:48 (UTC +11:00)
 tags: [Lisbon Treaty, Lisbon Treaty]
 source: https://www.investopedia.com/terms/l/lisbon-treaty.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lisbon Treaty]]

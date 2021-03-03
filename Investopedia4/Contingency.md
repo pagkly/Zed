@@ -3,7 +3,7 @@ alias: [Contingency]
 created: 2021-03-02T18:58:07 (UTC +11:00)
 tags: [Contingency, Contingency]
 source: https://www.investopedia.com/terms/c/[[Contingency|contingency]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Contingency]]

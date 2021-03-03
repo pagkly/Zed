@@ -3,7 +3,7 @@ alias: [Maturity Mismatch]
 created: 2021-03-03T00:25:52 (UTC +11:00)
 tags: [Maturity Mismatch Definition, Maturity Mismatch]
 source: https://www.investopedia.com/terms/m/maturitymismatch.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Maturity Mismatch]] Definition

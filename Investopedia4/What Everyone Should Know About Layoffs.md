@@ -3,7 +3,7 @@ alias: [Layoff]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Layoff Definition, What Everyone Should Know About Layoffs]
 source: https://www.investopedia.com/terms/l/layoff.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Layoff Definition

@@ -3,7 +3,7 @@ alias: [Elevator Pitch]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Elevator Pitch, Elevator Pitch]
 source: https://www.investopedia.com/terms/e/elevatorpitch.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Elevator Pitch]]

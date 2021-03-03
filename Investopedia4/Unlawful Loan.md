@@ -3,7 +3,7 @@ alias: [Unlawful Loan]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Unlawful Loan Definition, Unlawful Loan]
 source: https://www.investopedia.com/terms/u/unlawful-[[Loan|loan]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unlawful Loan]] Definition

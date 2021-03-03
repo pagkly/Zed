@@ -3,7 +3,7 @@ alias: [Hedge Ratio]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Hedge Ratio Definition, Understanding Hedge Ratios]
 source: https://www.investopedia.com/terms/h/hedgeratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hedge]] Ratio Definition

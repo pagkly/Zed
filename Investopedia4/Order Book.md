@@ -3,7 +3,7 @@ alias: [Order Book]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Order Book Definition, Order Book]
 source: https://www.investopedia.com/terms/o/order-book.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Order Book]] Definition

@@ -3,7 +3,7 @@ alias: [Listed Security]
 created: 2021-03-02T21:21:48 (UTC +11:00)
 tags: [Listed Security Definition, Listed Security]
 source: https://www.investopedia.com/terms/l/listedsecurity.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Listed Security]] Definition

@@ -3,7 +3,7 @@ alias: [Long-Run Average Total Cost, LRATC]
 created: 2021-03-02T21:25:56 (UTC +11:00)
 tags: [Long-Run Average Total Cost (LRATC) Definition, Long-Run Average Total Cost (LRATC) Definition]
 source: https://www.investopedia.com/terms/l/lratc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Long-Run Average Total Cost (LRATC) Definition]]

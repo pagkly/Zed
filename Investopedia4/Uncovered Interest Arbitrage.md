@@ -3,7 +3,7 @@ alias: [Uncovered Interest Arbitrage]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Uncovered Interest Arbitrage, Uncovered Interest Arbitrage]
 source: https://www.investopedia.com/terms/u/uncovered-interest-arbitrage.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Uncovered Interest Arbitrage]]

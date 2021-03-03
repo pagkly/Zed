@@ -3,7 +3,7 @@ alias: [Heath-Jarrow-Morton Model – HJM Model]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Heath-Jarrow-Morton Model – HJM Model Definition, Understanding the Heath-Jarrow-Morton Model]
 source: https://www.investopedia.com/terms/h/hjmmodel.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Heath-Jarrow-Morton Model – HJM Model Definition

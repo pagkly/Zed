@@ -1,7 +1,7 @@
 ---
 alias: [Participating Preferred Stock]
 created: 2021-03-02T22:38:07 (UTC +11:00)
-tags: [Participating Preferred Stock Definition, [[What Is Participating Preferred Stock]]?]
+tags: [Participating Preferred Stock Definition, What Is Participating Preferred Stock?]
 source: https://www.investopedia.com/terms/p/participatingpreferredstock.asp
 author: [[Will]] Kenton
 ---

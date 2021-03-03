@@ -3,7 +3,7 @@ alias: [LIFO Liquidation]
 created: 2021-03-02T21:19:45 (UTC +11:00)
 tags: [LIFO Liquidation Definition, LIFO Liquidation]
 source: https://www.investopedia.com/terms/l/lifoliquidation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[LIFO Liquidation]] Definition

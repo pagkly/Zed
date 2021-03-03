@@ -3,7 +3,7 @@ alias: [Kiosk]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [Kiosk Definition, Kiosks: The Ins and Outs]
 source: https://www.investopedia.com/terms/k/kiosk.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Kiosk Definition

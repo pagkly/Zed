@@ -3,7 +3,7 @@ alias: [European Currency Unit, ECU]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Currency Unit (ECU) Definition, European Currency Unit (ECU)]
 source: https://www.investopedia.com/terms/e/european-currency-unit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[European Currency Unit (ECU)]] Definition

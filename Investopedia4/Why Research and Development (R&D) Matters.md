@@ -3,7 +3,7 @@ alias: [Research and Development, R&D]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Research and Development (R&D) Definition, Why Research and Development (R&D) Matters]
 source: https://www.investopedia.com/terms/r/randd.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Research and Development (R&D) Definition

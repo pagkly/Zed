@@ -3,7 +3,7 @@ alias: [Ontario Securities Commission, OSC]
 created: 2021-03-02T22:20:05 (UTC +11:00)
 tags: [Ontario Securities Commission (OSC), Ontario Securities Commission (OSC)]
 source: https://www.investopedia.com/terms/o/ontario-securities-[[Commission|commission]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Ontario Securities Commission (OSC)]]

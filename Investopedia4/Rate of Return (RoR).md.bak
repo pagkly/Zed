@@ -1,5 +1,5 @@
 ---
-alias: [Rate of [[Return]], RoR]
+alias: [Rate of Return, RoR]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Rate of Return (RoR) Definition, Rate of Return (RoR)]
 source: https://www.investopedia.com/terms/r/rateofreturn.asp

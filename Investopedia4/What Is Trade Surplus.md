@@ -3,7 +3,7 @@ alias: [What Is Trade Surplus?]
 created: 2021-03-03T00:04:44 (UTC +11:00)
 tags: [What Is Trade Surplus?, What Is Trade Surplus?]
 source: https://www.investopedia.com/terms/t/trade-[[Surplus|surplus]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[What Is Trade Surplus]]?

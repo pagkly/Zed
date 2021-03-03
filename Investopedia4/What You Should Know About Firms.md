@@ -3,7 +3,7 @@ alias: [Firm]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Firm Definition, What You Should Know About Firms]
 source: https://www.investopedia.com/terms/f/firm.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Firm Definition

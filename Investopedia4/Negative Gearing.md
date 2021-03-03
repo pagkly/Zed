@@ -3,7 +3,7 @@ alias: [Negative Gearing]
 created: 2021-03-02T21:34:25 (UTC +11:00)
 tags: [Negative Gearing, Negative Gearing]
 source: https://www.investopedia.com/terms/n/negative_gearing.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Negative Gearing]]

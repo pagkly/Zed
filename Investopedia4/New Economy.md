@@ -3,7 +3,7 @@ alias: [New Economy]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [New Economy Definition, New Economy]
 source: https://www.investopedia.com/terms/n/neweconomy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[New Economy]] Definition

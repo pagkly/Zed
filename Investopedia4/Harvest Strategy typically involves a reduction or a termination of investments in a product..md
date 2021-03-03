@@ -3,7 +3,7 @@ alias: [Harvest Strategy]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Harvest Strategy Definition, Harvest Strategy typically involves a reduction or a termination of investments in a product.]
 source: https://www.investopedia.com/terms/h/harvest-strategy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Harvest Strategy Definition

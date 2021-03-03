@@ -3,7 +3,7 @@ alias: [Worldwide Income]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [Worldwide Income Definition, Worldwide Income]
 source: https://www.investopedia.com/terms/w/worldwide-income.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Worldwide Income]] Definition

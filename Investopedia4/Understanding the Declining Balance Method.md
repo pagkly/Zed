@@ -3,7 +3,7 @@ alias: [Declining Balance Method]
 created: 2021-03-02T19:11:29 (UTC +11:00)
 tags: [Declining Balance Method Definition, Understanding the Declining Balance Method]
 source: https://www.investopedia.com/terms/d/decliningbalancemethod.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Declining Balance Method Definition

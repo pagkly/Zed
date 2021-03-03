@@ -3,7 +3,7 @@ alias: [Voyage Policy]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Voyage Policy Definition, Voyage Policies: What You Should Know]
 source: https://www.investopedia.com/terms/v/voyage-policy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Voyage Policy Definition

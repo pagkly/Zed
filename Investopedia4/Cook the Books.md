@@ -3,7 +3,7 @@ alias: [Cook the Books]
 created: 2021-03-02T19:00:22 (UTC +11:00)
 tags: [Cook the Books Definition, Cook the Books]
 source: https://www.investopedia.com/terms/c/cookthebooks.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cook the Books]] Definition

@@ -3,7 +3,7 @@ alias: [Gearing Ratio]
 created: 2021-03-02T20:14:39 (UTC +11:00)
 tags: [Gearing Ratio Definition, How the Gearing Ratio Works]
 source: https://www.investopedia.com/terms/g/gearingratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Gearing Ratio Definition

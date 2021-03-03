@@ -3,7 +3,7 @@ alias: [Rationing]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Rationing Definition, Rationing]
 source: https://www.investopedia.com/terms/r/[[Rationing|rationing]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Rationing]] Definition

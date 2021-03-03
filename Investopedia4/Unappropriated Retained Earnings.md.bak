@@ -1,7 +1,7 @@
 ---
 alias: [Unappropriated Retained Earnings]
 created: 2021-03-03T00:13:11 (UTC +11:00)
-tags: [Unappropriated [[Retained Earnings]] Definition, Unappropriated Retained Earnings]
+tags: [Unappropriated Retained Earnings Definition, Unappropriated Retained Earnings]
 source: https://www.investopedia.com/terms/u/unappropriated-retained-earnings.asp
 author: [[Will]] Kenton
 ---

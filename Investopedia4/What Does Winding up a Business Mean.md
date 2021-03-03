@@ -3,7 +3,7 @@ alias: [Winding up a Business]
 created: 2021-03-03T00:59:18 (UTC +11:00)
 tags: [Winding up a Business, What Does Winding up a Business Mean?]
 source: https://www.investopedia.com/terms/w/windingup.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Winding up a Business

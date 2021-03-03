@@ -3,7 +3,7 @@ alias: [Chartered Accountant, CA]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chartered Accountant (CA) Definition, Chartered Accountant (CA)]
 source: https://www.investopedia.com/terms/c/ca.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Chartered Accountant (CA)]] Definition

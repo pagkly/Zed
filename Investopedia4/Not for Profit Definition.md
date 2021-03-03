@@ -3,7 +3,7 @@ alias: [Not for Profit]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Not for Profit Definition, Not for Profit Definition]
 source: https://www.investopedia.com/terms/n/not-for-profit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Not for Profit Definition]]

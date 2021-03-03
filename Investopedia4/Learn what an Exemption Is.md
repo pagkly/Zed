@@ -3,7 +3,7 @@ alias: [Exemption]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exemption Definition, Learn what an Exemption Is]
 source: https://www.investopedia.com/terms/e/exemption.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Exemption Definition

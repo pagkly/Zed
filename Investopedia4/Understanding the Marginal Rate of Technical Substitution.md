@@ -3,7 +3,7 @@ alias: [Marginal Rate of Technical Substitution]
 created: 2021-03-02T21:56:58 (UTC +11:00)
 tags: [Marginal Rate of Technical Substitution, Understanding the Marginal Rate of Technical Substitution]
 source: https://www.investopedia.com/terms/m/marginal-rate-technical-substitution.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Marginal Rate of Technical Substitution

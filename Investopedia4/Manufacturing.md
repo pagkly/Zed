@@ -3,7 +3,7 @@ alias: [Manufacturing]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Manufacturing, Manufacturing]
 source: https://www.investopedia.com/terms/m/[[Manufacturing|manufacturing]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Manufacturing]]

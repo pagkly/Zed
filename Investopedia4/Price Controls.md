@@ -3,7 +3,7 @@ alias: [Price Controls]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price Controls Definition, Price Controls]
 source: https://www.investopedia.com/terms/p/price-controls.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Price Controls]] Definition

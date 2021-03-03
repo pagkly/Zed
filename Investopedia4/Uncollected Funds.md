@@ -3,7 +3,7 @@ alias: [Uncollected Funds]
 created: 2021-03-03T00:15:18 (UTC +11:00)
 tags: [Uncollected Funds Definition, Uncollected Funds]
 source: https://www.investopedia.com/terms/u/uncollected-funds.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Uncollected Funds]] Definition

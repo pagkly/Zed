@@ -3,7 +3,7 @@ alias: [Over-The-Counter Bulletin Board, OTCBB]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Over-The-Counter Bulletin Board (OTCBB) Definition, Over-The-Counter Bulletin Board (OTCBB)]
 source: https://www.investopedia.com/terms/o/otcbb.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Over-The-Counter Bulletin Board (OTCBB)]] Definition

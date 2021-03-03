@@ -3,7 +3,7 @@ alias: [Non-Sampling Error]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Non-Sampling Error Definition, Non-Sampling Error]
 source: https://www.investopedia.com/terms/n/non-samplingerror.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Non-Sampling Error]] Definition

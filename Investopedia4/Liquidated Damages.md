@@ -3,7 +3,7 @@ alias: [Liquidated Damages]
 created: 2021-03-02T21:21:47 (UTC +11:00)
 tags: [Liquidated Damages Definition, Liquidated Damages]
 source: https://www.investopedia.com/terms/l/liquidateddamages.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Liquidated Damages]] Definition

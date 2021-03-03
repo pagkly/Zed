@@ -1,7 +1,7 @@
 ---
 alias: [Regulation DD]
 created: 2021-03-02T23:12:21 (UTC +11:00)
-tags: [Regulation DD Definition, [[What Is Regulation DD]]?]
+tags: [Regulation DD Definition, What Is Regulation DD?]
 source: https://www.investopedia.com/terms/r/regulation-dd.asp
 author: [[Will]] Kenton
 ---

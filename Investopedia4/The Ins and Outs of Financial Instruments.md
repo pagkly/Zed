@@ -3,7 +3,7 @@ alias: [Financial Instrument]
 created: 2021-03-02T19:56:46 (UTC +11:00)
 tags: [Financial Instrument Definition, The Ins and Outs of Financial Instruments]
 source: https://www.investopedia.com/terms/f/financialinstrument.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Financial Instrument Definition

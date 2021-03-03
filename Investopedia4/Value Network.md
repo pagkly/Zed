@@ -3,7 +3,7 @@ alias: [Value Network]
 created: 2021-03-03T00:34:23 (UTC +11:00)
 tags: [Value Network Definition, Value Network]
 source: https://www.investopedia.com/terms/v/value-network.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Value Network]] Definition

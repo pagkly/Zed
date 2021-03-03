@@ -3,7 +3,7 @@ alias: [Corporate Finance]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Corporate Finance Definition, Understanding Corporate Finance]
 source: https://www.investopedia.com/terms/c/corporatefinance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Corporate [[Finance]] Definition

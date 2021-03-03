@@ -3,7 +3,7 @@ alias: [Jobber]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jobber Definition, Jobber]
 source: https://www.investopedia.com/terms/j/[[Jobber|jobber]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Jobber]] Definition

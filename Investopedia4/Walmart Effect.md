@@ -3,7 +3,7 @@ alias: [Walmart Effect]
 created: 2021-03-03T00:46:30 (UTC +11:00)
 tags: [Walmart Effect, Walmart Effect]
 source: https://www.investopedia.com/terms/w/walmart-effect.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Walmart Effect]]

@@ -3,7 +3,7 @@ alias: [Correspondent Bank]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Correspondent Bank Definition, What You Should Know About Correspondent Banks]
 source: https://www.investopedia.com/terms/c/correspondent-bank.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Correspondent Bank Definition

@@ -3,7 +3,7 @@ alias: [Privileged Communication]
 created: 2021-03-02T22:52:18 (UTC +11:00)
 tags: [Privileged Communication Definition, Privileged Communication]
 source: https://www.investopedia.com/terms/p/privileged-communication.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Privileged Communication]] Definition

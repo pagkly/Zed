@@ -3,7 +3,7 @@ alias: [Michigan Consumer Sentiment Index - MCSI]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Michigan Consumer Sentiment Index - MCSI Definition, Michigan Consumer Sentiment Index (MCSI)]
 source: https://www.investopedia.com/terms/m/mcsi.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Michigan Consumer Sentiment Index - MCSI Definition

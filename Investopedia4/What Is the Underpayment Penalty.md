@@ -3,7 +3,7 @@ alias: [Underpayment Penalty Defined]
 created: 2021-03-03T00:17:17 (UTC +11:00)
 tags: [Underpayment Penalty Defined, What Is the Underpayment Penalty?]
 source: https://www.investopedia.com/terms/u/underpaymentpenalty.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Underpayment Penalty Defined

@@ -3,7 +3,7 @@ alias: [Homoskedastic]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Homoskedastic Definition, Homoskedastic]
 source: https://www.investopedia.com/terms/h/[[Homoskedastic|homoskedastic]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Homoskedastic]] Definition

@@ -3,7 +3,7 @@ alias: [U.S. House Financial Services Committee]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [U.S. House Financial Services Committee, U.S. House Financial Services Committee]
 source: https://www.investopedia.com/terms/u/us-house-financial-services-committee.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[U.S. House Financial Services Committee]]

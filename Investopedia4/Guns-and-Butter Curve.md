@@ -3,7 +3,7 @@ alias: [Guns-and-Butter Curve]
 created: 2021-03-02T20:34:41 (UTC +11:00)
 tags: [Guns-and-Butter Curve, Guns-and-Butter Curve]
 source: https://www.investopedia.com/terms/g/gunsandbutter.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Guns-and-Butter Curve]]

@@ -3,7 +3,7 @@ alias: [Cost-Push Inflation]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Cost-Push Inflation Definition, Cost-Push Inflation]
 source: https://www.investopedia.com/terms/c/costpushinflation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Cost-Push Inflation]] Definition

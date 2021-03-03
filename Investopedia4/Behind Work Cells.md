@@ -3,7 +3,7 @@ alias: [Work Cell]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Work Cell Definition, Behind Work Cells]
 source: https://www.investopedia.com/terms/w/work-cell.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Work Cell Definition

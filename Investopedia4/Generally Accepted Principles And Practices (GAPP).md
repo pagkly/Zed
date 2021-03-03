@@ -3,7 +3,7 @@ alias: [Generally Accepted Principles And Practices, GAPP]
 created: 2021-03-02T20:16:39 (UTC +11:00)
 tags: [Generally Accepted Principles And Practices (GAPP), Generally Accepted Principles And Practices (GAPP)]
 source: https://www.investopedia.com/terms/g/gaap-santiagoprinciples.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Generally Accepted Principles And Practices (GAPP)]]

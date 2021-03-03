@@ -3,7 +3,7 @@ alias: [Life-Cycle Hypothesis, LCH]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Life-Cycle Hypothesis (LCH) Definition, Life-Cycle Hypothesis (LCH)]
 source: https://www.investopedia.com/terms/l/life-cycle-hypothesis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Life-Cycle Hypothesis (LCH)]] Definition

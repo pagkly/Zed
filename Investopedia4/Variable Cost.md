@@ -3,7 +3,7 @@ alias: [Variable Cost]
 created: 2021-03-03T00:36:23 (UTC +11:00)
 tags: [Variable Cost Definition, Variable Cost]
 source: https://www.investopedia.com/terms/v/variablecost.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Variable Cost]] Definition

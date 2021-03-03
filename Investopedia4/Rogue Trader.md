@@ -3,7 +3,7 @@ alias: [Rogue Trader]
 created: 2021-03-02T23:25:42 (UTC +11:00)
 tags: [Rogue Trader Definition, Rogue Trader]
 source: https://www.investopedia.com/terms/r/roguetrader.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Rogue [[Trader Definition]]

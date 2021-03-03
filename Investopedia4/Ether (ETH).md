@@ -3,7 +3,7 @@ alias: [Ether, ETH]
 created: 2021-03-02T19:42:14 (UTC +11:00)
 tags: [Ether (ETH) Definition, Ether (ETH)]
 source: https://www.investopedia.com/terms/e/ether-[[Cryptocurrency|cryptocurrency]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Ether (ETH)]] Definition

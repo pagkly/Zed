@@ -3,7 +3,7 @@ alias: [Productivity]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Productivity, Productivity]
 source: https://www.investopedia.com/terms/p/[[Productivity|productivity]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Productivity]]

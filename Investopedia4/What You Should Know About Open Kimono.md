@@ -3,7 +3,7 @@ alias: [Open Kimono]
 created: 2021-03-02T22:20:05 (UTC +11:00)
 tags: [Open Kimono Definition, What You Should Know About Open Kimono]
 source: https://www.investopedia.com/terms/o/open-kimono.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Open Kimono Definition

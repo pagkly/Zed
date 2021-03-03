@@ -3,7 +3,7 @@ alias: [Golden Handcuffs]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Golden Handcuffs Definition, Golden Handcuffs]
 source: https://www.investopedia.com/terms/g/goldenhandcuffs.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Golden Handcuffs]] Definition

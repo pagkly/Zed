@@ -3,7 +3,7 @@ alias: [Economies of Scale]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Economies of Scale Definition, Economies of Scale]
 source: https://www.investopedia.com/terms/e/economiesofscale.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Economies of Scale]] Definition

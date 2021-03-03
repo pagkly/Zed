@@ -3,7 +3,7 @@ alias: [Regulation Z]
 created: 2021-03-02T23:14:41 (UTC +11:00)
 tags: [Regulation Z Definition, Regulation Z]
 source: https://www.investopedia.com/terms/r/regulation_z.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulation Z]] Definition

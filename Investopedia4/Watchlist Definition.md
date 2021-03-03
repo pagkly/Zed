@@ -3,7 +3,7 @@ alias: [Watchlist]
 created: 2021-03-03T00:48:37 (UTC +11:00)
 tags: [Watchlist Definition, Watchlist Definition]
 source: https://www.investopedia.com/terms/w/watchlist.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Watchlist Definition]]

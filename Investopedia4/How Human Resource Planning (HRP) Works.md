@@ -3,7 +3,7 @@ alias: [Human Resource Planning, HRP]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Human Resource Planning (HRP) Definition, How Human Resource Planning (HRP) Works]
 source: https://www.investopedia.com/terms/h/human-resource-planning.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Human Resource Planning (HRP) Definition

@@ -3,7 +3,7 @@ alias: [Home Office]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Office Definition, Home Office]
 source: https://www.investopedia.com/terms/h/home-office.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Home Office]] Definition

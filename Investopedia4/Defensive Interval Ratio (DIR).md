@@ -3,7 +3,7 @@ alias: [Defensive Interval Ratio, DIR]
 created: 2021-03-02T19:11:30 (UTC +11:00)
 tags: [Defensive Interval Ratio (DIR) Definition, Defensive Interval Ratio (DIR)]
 source: https://www.investopedia.com/terms/d/defensive-interval-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Defensive Interval Ratio (DIR)]] Definition

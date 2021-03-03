@@ -3,7 +3,7 @@ alias: [Job Openings and Labor Turnover Survey, JOLTS]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Job Openings and Labor Turnover Survey (JOLTS) Definition, Job Openings and Labor Turnover Survey (JOLTS) Definition]
 source: https://www.investopedia.com/terms/j/jolts.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Job Openings and Labor Turnover Survey (JOLTS) Definition]]

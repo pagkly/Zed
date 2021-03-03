@@ -3,7 +3,7 @@ alias: [John B. Taylor]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [John B. Taylor, John B. Taylor]
 source: https://www.investopedia.com/terms/j/john-b-taylor.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[John B. Taylor]]

@@ -3,7 +3,7 @@ alias: [Mothballing]
 created: 2021-03-02T22:11:43 (UTC +11:00)
 tags: [Mothballing Definition, Mothballing]
 source: https://www.investopedia.com/terms/m/[[Mothballing|mothballing]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Mothballing]] Definition

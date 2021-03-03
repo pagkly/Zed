@@ -3,7 +3,7 @@ alias: [Pre-IPO Placement]
 created: 2021-03-02T22:47:29 (UTC +11:00)
 tags: [Pre-IPO Placement Definition, How a Pre-IPO Placement Works]
 source: https://www.investopedia.com/terms/p/pre-ipo-placement.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Pre-IPO Placement Definition

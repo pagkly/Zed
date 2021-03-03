@@ -3,7 +3,7 @@ alias: [Escrowed Shares]
 created: 2021-03-02T19:42:14 (UTC +11:00)
 tags: [Escrowed Shares Definition, Escrowed Shares Definition]
 source: https://www.investopedia.com/terms/e/escrowedshares.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Escrowed Shares Definition]]

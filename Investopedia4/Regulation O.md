@@ -3,7 +3,7 @@ alias: [Regulation O]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Regulation O Definition, Regulation O]
 source: https://www.investopedia.com/terms/r/regulation-o.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulation O]] Definition

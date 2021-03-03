@@ -1,7 +1,7 @@
 ---
 alias: [Return on Revenue – ROR]
 created: 2021-03-02T23:21:05 (UTC +11:00)
-tags: [Return on Revenue – ROR Definition, [[Return]] on Revenue Defined]
+tags: [Return on Revenue – ROR Definition, Return on Revenue Defined]
 source: https://www.investopedia.com/terms/r/returnonrevenue.asp
 author: [[Will]] Kenton
 ---

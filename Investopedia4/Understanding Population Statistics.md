@@ -3,7 +3,7 @@ alias: [Population]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Population Definition, Understanding Population Statistics]
 source: https://www.investopedia.com/terms/p/population.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Population Definition

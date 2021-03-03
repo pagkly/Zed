@@ -3,7 +3,7 @@ alias: [Employee Buyout, EBO]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employee Buyout (EBO) Definition, How Employee Buyouts (EBO) Work]
 source: https://www.investopedia.com/terms/e/ebo.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Employee Buyout (EBO) Definition

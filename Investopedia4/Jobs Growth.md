@@ -3,7 +3,7 @@ alias: [Jobs Growth]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jobs Growth Definition, Jobs Growth]
 source: https://www.investopedia.com/terms/j/jobsgrowth.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Jobs Growth]] Definition

@@ -3,7 +3,7 @@ alias: [Food and Drug Administration, FDA]
 created: 2021-03-02T20:01:17 (UTC +11:00)
 tags: [Food and Drug Administration (FDA) Definition, Food and Drug Administration (FDA)]
 source: https://www.investopedia.com/terms/f/fda.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Food and Drug Administration (FDA)]] Definition

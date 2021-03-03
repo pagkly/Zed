@@ -3,7 +3,7 @@ alias: [Licensing Fee]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Licensing Fee Definition, What Is a Licensing Fee?]
 source: https://www.investopedia.com/terms/l/licensing-fee.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Licensing Fee Definition

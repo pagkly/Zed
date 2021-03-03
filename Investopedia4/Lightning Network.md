@@ -3,7 +3,7 @@ alias: [Lightning Network]
 created: 2021-03-02T21:19:45 (UTC +11:00)
 tags: [Lightning Network Definition, Lightning Network]
 source: https://www.investopedia.com/terms/l/lightning-network.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Lightning Network]] Definition

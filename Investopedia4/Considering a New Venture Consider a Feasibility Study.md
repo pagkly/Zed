@@ -3,7 +3,7 @@ alias: [Feasibility Study]
 created: 2021-03-02T19:52:37 (UTC +11:00)
 tags: [Feasibility Study Definition, Considering a New Venture? Consider a Feasibility Study]
 source: https://www.investopedia.com/terms/f/feasibility-study.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Feasibility Study Definition

@@ -3,7 +3,7 @@ alias: [Regulation CC]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Regulation CC Definition, Regulation CC]
 source: https://www.investopedia.com/terms/r/regulation-cc.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Regulation CC]] Definition

@@ -1,7 +1,7 @@
 ---
 alias: [Generation Gap]
 created: 2021-03-02T20:16:39 (UTC +11:00)
-tags: [Generation [[Gap Definition]], Generation Gap: What You Should Know]
+tags: [Generation Gap Definition, Generation Gap: What You Should Know]
 source: https://www.investopedia.com/terms/g/generation-gap.asp
 author: [[Will]] Kenton
 ---

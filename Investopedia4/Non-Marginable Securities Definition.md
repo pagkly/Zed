@@ -3,7 +3,7 @@ alias: [Non-Marginable Securities]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Marginable Securities Definition, Non-Marginable Securities Definition]
 source: https://www.investopedia.com/terms/n/non_marginable_securities.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Non-Marginable Securities Definition]]

@@ -3,7 +3,7 @@ alias: [The Jones Act]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [The Jones Act Definition, The Jones Act]
 source: https://www.investopedia.com/terms/j/jonesact.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[The Jones Act]] Definition

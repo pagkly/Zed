@@ -3,7 +3,7 @@ alias: [Reserve Ratio]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Reserve Ratio Definition, The Reserve Ratio Explained]
 source: https://www.investopedia.com/terms/r/reserveratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Reserve Ratio Definition

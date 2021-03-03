@@ -3,7 +3,7 @@ alias: [Hockey Stick Chart]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Hockey Stick Chart Definition, Hockey Stick Chart Definition]
 source: https://www.investopedia.com/terms/h/hockey-stick-chart.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hockey Stick Chart Definition]]

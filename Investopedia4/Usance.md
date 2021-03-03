@@ -3,7 +3,7 @@ alias: [Usance]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [Usance, Usance]
 source: https://www.investopedia.com/terms/u/[[Usance|usance]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Usance]]

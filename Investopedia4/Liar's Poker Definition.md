@@ -3,7 +3,7 @@ alias: [Liar's Poker]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Liar's Poker Definition, Liar's Poker Definition]
 source: https://www.investopedia.com/terms/l/liars-poker.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Liar's Poker Definition]]

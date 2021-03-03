@@ -3,7 +3,7 @@ alias: [Federal Agencies]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Agencies Definition, What Are Federal Agencies?]
 source: https://www.investopedia.com/terms/f/federal-agencies.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Federal Agencies Definition

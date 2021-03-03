@@ -3,7 +3,7 @@ alias: [General Ledger]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Ledger Definition, How General Ledgers Work]
 source: https://www.investopedia.com/terms/g/generalledger.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # General Ledger Definition

@@ -3,7 +3,7 @@ alias: [Net Loss]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Loss Definition, What Smart Business Owners Need to Understand About Net Loss]
 source: https://www.investopedia.com/terms/n/netloss.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Net Loss Definition

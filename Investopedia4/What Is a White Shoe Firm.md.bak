@@ -1,7 +1,7 @@
 ---
 alias: [White Shoe Firm]
 created: 2021-03-03T00:54:56 (UTC +11:00)
-tags: [White Shoe Firm, [[What Is a White Shoe Firm]]?]
+tags: [White Shoe Firm, What Is a White Shoe Firm?]
 source: https://www.investopedia.com/terms/w/whiteshoe.asp
 author: [[Will]] Kenton
 ---

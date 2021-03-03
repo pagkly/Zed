@@ -1,5 +1,5 @@
 ---
-alias: [Stock [[Market Capitalization]]-to-GDP Ratio]
+alias: [Stock Market Capitalization-to-GDP Ratio]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Stock Market Capitalization-to-GDP Ratio Definition, How the Stock Market Capitalization-to-GDP Ratio Is Used]
 source: https://www.investopedia.com/terms/m/marketcapgdp.asp

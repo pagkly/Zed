@@ -3,7 +3,7 @@ alias: [Revenue Cap Regulation]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Cap Regulation Definition, Revenue Cap Regulation Definition]
 source: https://www.investopedia.com/terms/r/revenue-cap-regulation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Revenue Cap Regulation Definition]]

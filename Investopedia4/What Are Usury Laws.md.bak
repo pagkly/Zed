@@ -1,7 +1,7 @@
 ---
 alias: [Usury Laws]
 created: 2021-03-03T00:32:19 (UTC +11:00)
-tags: [Usury Laws Definition, [[What Are Usury Laws]]?]
+tags: [Usury Laws Definition, What Are Usury Laws?]
 source: https://www.investopedia.com/terms/u/usury-laws.asp
 author: [[Will]] Kenton
 ---

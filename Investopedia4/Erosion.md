@@ -3,7 +3,7 @@ alias: [Erosion]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Erosion Definition, Erosion]
 source: https://www.investopedia.com/terms/e/[[Erosion|erosion]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Erosion]] Definition

@@ -3,7 +3,7 @@ alias: [Unissued Stock]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Unissued Stock Definition, Unissued Stock]
 source: https://www.investopedia.com/terms/u/unissuedstock.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Unissued Stock]] Definition

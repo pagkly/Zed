@@ -1,7 +1,7 @@
 ---
 alias: [Weighted Average Coupon, WAC]
 created: 2021-03-03T00:52:36 (UTC +11:00)
-tags: [Weighted Average Coupon (WAC) Definition, [[What Is a Weighted Average Coupon (WAC)]]?]
+tags: [Weighted Average Coupon (WAC) Definition, What Is a Weighted Average Coupon (WAC)?]
 source: https://www.investopedia.com/terms/w/wac.asp
 author: [[Will]] Kenton
 ---

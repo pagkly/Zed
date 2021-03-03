@@ -3,7 +3,7 @@ alias: [PEST Analysis]
 created: 2021-03-02T22:42:35 (UTC +11:00)
 tags: [PEST Analysis Definition, PEST Analysis]
 source: https://www.investopedia.com/terms/p/pest-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[PEST Analysis]] Definition

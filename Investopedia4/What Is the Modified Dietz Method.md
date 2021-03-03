@@ -3,7 +3,7 @@ alias: [Modified Dietz Method]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Modified Dietz Method Definition, What Is the Modified Dietz Method?]
 source: https://www.investopedia.com/terms/m/modifieddietzmethod.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Modified Dietz Method Definition

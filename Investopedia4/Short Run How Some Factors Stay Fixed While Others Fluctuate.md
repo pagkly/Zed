@@ -3,7 +3,7 @@ alias: [Short Run]
 created: 2021-03-02T23:36:36 (UTC +11:00)
 tags: [Short Run Definition, Short Run: How Some Factors Stay Fixed While Others Fluctuate]
 source: https://www.investopedia.com/terms/s/shortrun.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Short Run Definition

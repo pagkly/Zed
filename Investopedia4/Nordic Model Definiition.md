@@ -3,7 +3,7 @@ alias: [Nordic Model]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Nordic Model Definition, Nordic Model Definiition]
 source: https://www.investopedia.com/terms/n/nordic-model.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Nordic Model Definition

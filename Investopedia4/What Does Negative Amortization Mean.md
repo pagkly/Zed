@@ -3,7 +3,7 @@ alias: [Negative Amortization Defined]
 created: 2021-03-02T21:34:25 (UTC +11:00)
 tags: [Negative Amortization Defined, What Does Negative Amortization Mean?]
 source: https://www.investopedia.com/terms/n/negativeamortization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Negative Amortization Defined

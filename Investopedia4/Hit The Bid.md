@@ -3,7 +3,7 @@ alias: [Hit The Bid]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Hit The Bid Definition, Hit The Bid]
 source: https://www.investopedia.com/terms/h/hitthebid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Hit The Bid]] Definition

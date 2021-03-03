@@ -3,7 +3,7 @@ alias: [Tender Defintiion]
 created: 2021-03-02T23:58:34 (UTC +11:00)
 tags: [Tender Defintiion, What Does It Mean to Tender?]
 source: https://www.investopedia.com/terms/t/tender.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Tender Defintiion

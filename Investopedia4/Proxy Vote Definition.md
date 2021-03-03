@@ -3,7 +3,7 @@ alias: [Proxy Vote]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Proxy Vote Definition, Proxy Vote Definition]
 source: https://www.investopedia.com/terms/p/proxy-vote.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Proxy Vote Definition]]

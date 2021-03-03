@@ -3,7 +3,7 @@ alias: [Walras's Law]
 created: 2021-03-03T00:46:30 (UTC +11:00)
 tags: [Walras's Law Definition, Walras's Law]
 source: https://www.investopedia.com/terms/w/walras-law.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Walras's Law]] Definition

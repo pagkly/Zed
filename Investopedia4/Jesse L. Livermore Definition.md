@@ -3,7 +3,7 @@ alias: [Jesse L. Livermore]
 created: 2021-03-02T20:58:31 (UTC +11:00)
 tags: [Jesse L. Livermore Definition, Jesse L. Livermore Definition]
 source: https://www.investopedia.com/terms/j/jesse-l-livermore.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Jesse L. Livermore Definition]]

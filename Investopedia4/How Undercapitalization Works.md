@@ -3,7 +3,7 @@ alias: [Undercapitalization]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Undercapitalization Definition, How Undercapitalization Works]
 source: https://www.investopedia.com/terms/u/undercapitalization.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Undercapitalization Definition

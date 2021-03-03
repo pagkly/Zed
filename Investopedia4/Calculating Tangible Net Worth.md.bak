@@ -1,7 +1,7 @@
 ---
 alias: [Tangible Net Worth]
 created: 2021-03-02T23:52:15 (UTC +11:00)
-tags: [Tangible [[Net Worth]] Definition, Calculating Tangible Net Worth]
+tags: [Tangible Net Worth Definition, Calculating Tangible Net Worth]
 source: https://www.investopedia.com/terms/t/tangiblenetworth.asp
 author: [[Will]] Kenton
 ---

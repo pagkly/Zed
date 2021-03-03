@@ -3,7 +3,7 @@ alias: [Foreign Account Tax Compliance Act, FATCA]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [Foreign Account Tax Compliance Act (FATCA), Foreign Account Tax Compliance Act (FATCA)]
 source: https://www.investopedia.com/terms/f/foreign-account-tax-compliance-act-fatca.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Foreign Account Tax Compliance Act (FATCA)]]

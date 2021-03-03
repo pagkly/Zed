@@ -3,7 +3,7 @@ alias: [Garn-St. Germain Depository Institutions Act]
 created: 2021-03-02T20:12:35 (UTC +11:00)
 tags: [Garn-St. Germain Depository Institutions Act Definition, Garn-St. Germain Depository Institutions Act]
 source: https://www.investopedia.com/terms/g/garn-st-germain-depository-institutions-act.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Garn-St. Germain Depository Institutions Act]] Definition

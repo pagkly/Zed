@@ -3,7 +3,7 @@ alias: [Upper Class]
 created: 2021-03-03T00:27:53 (UTC +11:00)
 tags: [Upper Class Definition, What Is the Upper Class?]
 source: https://www.investopedia.com/terms/u/upper-class.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Upper Class Definition

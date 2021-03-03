@@ -3,7 +3,7 @@ alias: [Profit]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Profit Definition, Understanding Profit]
 source: https://www.investopedia.com/terms/p/profit.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Profit Definition

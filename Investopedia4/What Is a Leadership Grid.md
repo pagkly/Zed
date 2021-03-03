@@ -3,7 +3,7 @@ alias: [Leadership Grid]
 created: 2021-03-02T21:13:29 (UTC +11:00)
 tags: [Leadership Grid Definition, What Is a Leadership Grid]
 source: https://www.investopedia.com/terms/l/leadership-grid.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Leadership Grid Definition

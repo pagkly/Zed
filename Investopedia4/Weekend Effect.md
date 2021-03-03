@@ -3,7 +3,7 @@ alias: [Weekend Effect]
 created: 2021-03-03T00:52:34 (UTC +11:00)
 tags: [Weekend Effect Definition, Weekend Effect]
 source: https://www.investopedia.com/terms/w/weekendeffect.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Weekend Effect]] Definition

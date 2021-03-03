@@ -3,7 +3,7 @@ alias: [Retail Sales]
 created: 2021-03-02T23:18:56 (UTC +11:00)
 tags: [Retail Sales Definition, Retail Sales Definition]
 source: https://www.investopedia.com/terms/r/retail-sales.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Retail Sales Definition]]

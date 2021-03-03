@@ -3,7 +3,7 @@ alias: [Planned Obsolescence]
 created: 2021-03-02T22:44:55 (UTC +11:00)
 tags: [Planned Obsolescence Definition, Inside Planned Obsolescence]
 source: https://www.investopedia.com/terms/p/planned_obsolescence.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Planned Obsolescence Definition

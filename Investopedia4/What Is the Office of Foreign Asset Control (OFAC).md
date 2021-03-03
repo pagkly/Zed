@@ -3,7 +3,7 @@ alias: [Office of Foreign Asset Control, OFAC]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Office of Foreign Asset Control (OFAC) Definition, What Is the Office of Foreign Asset Control (OFAC)?]
 source: https://www.investopedia.com/terms/o/ofac.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Office of Foreign Asset Control (OFAC) Definition

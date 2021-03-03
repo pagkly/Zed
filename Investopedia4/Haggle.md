@@ -3,7 +3,7 @@ alias: [Haggle]
 created: 2021-03-02T20:34:42 (UTC +11:00)
 tags: [Haggle, Haggle]
 source: https://www.investopedia.com/terms/h/[[Haggle|haggle]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Haggle]]

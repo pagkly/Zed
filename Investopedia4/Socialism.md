@@ -3,7 +3,7 @@ alias: [Socialism]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Socialism Definition, Socialism]
 source: https://www.investopedia.com/terms/s/[[Socialism|socialism]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Socialism]] Definition

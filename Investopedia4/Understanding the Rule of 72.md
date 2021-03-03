@@ -3,7 +3,7 @@ alias: [Rule of 72]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Rule of 72 Definition, Understanding the Rule of 72]
 source: https://www.investopedia.com/terms/r/ruleof72.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Rule of 72 Definition

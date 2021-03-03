@@ -3,7 +3,7 @@ alias: [Horizon Analysis]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Horizon Analysis Definition, Horizon Analysis Definition]
 source: https://www.investopedia.com/terms/h/horizon-analysis.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Horizon Analysis Definition]]

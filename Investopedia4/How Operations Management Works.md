@@ -3,7 +3,7 @@ alias: [Operations Management]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Operations Management Definition, How Operations Management Works]
 source: https://www.investopedia.com/terms/o/operations-management.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Operations Management Definition

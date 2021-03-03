@@ -3,7 +3,7 @@ alias: [Hashed Timelock Contract, HTLC]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Hashed Timelock Contract (HTLC) Definition, What is a Hashed Timelock Contract?]
 source: https://www.investopedia.com/terms/h/hashed-timelock-contract.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Hashed Timelock Contract (HTLC) Definition

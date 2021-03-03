@@ -3,7 +3,7 @@ alias: [Zacks Investment Research]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zacks Investment Research, Zacks Investment Research]
 source: https://www.investopedia.com/terms/[[Z|z]]/zacks-investment-research.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zacks Investment Research]]

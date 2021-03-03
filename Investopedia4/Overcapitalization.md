@@ -3,7 +3,7 @@ alias: [Overcapitalization]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overcapitalization Definition, Overcapitalization]
 source: https://www.investopedia.com/terms/o/[[Overcapitalization|overcapitalization]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Overcapitalization]] Definition

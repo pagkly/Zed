@@ -3,7 +3,7 @@ alias: [Corporate Hierarchy]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Corporate Hierarchy Definition, What You Should Know About Corporate Hierarchy]
 source: https://www.investopedia.com/terms/c/corporate-hierarchy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Corporate Hierarchy Definition

@@ -3,7 +3,7 @@ alias: [Order Driven Market]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Order Driven Market Definition, Order Driven Market]
 source: https://www.investopedia.com/terms/o/orderdriven.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Order Driven Market]] Definition

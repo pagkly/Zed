@@ -3,7 +3,7 @@ alias: [Net Debt-to-EBITDA Ratio]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Net Debt-to-EBITDA Ratio Definition, Net Debt-to-EBITDA Ratio]
 source: https://www.investopedia.com/terms/n/net-[[Debt|debt]]-to-ebitda-ratio.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Net Debt-to-EBITDA Ratio]] Definition

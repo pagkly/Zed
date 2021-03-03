@@ -3,7 +3,7 @@ alias: [Time Series]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Time Series Definition, Understanding Time Series]
 source: https://www.investopedia.com/terms/t/timeseries.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Time Series Definition

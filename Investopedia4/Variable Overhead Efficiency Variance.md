@@ -3,7 +3,7 @@ alias: [Variable Overhead Efficiency Variance]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Overhead Efficiency Variance, Variable Overhead Efficiency Variance]
 source: https://www.investopedia.com/terms/v/variable-overhead-efficiency-variance.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Variable Overhead Efficiency Variance]]

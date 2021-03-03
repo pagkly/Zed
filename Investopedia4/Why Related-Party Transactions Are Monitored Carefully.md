@@ -3,7 +3,7 @@ alias: [Related-Party Transaction]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Related-Party Transaction Definition, Why Related-Party Transactions Are Monitored Carefully]
 source: https://www.investopedia.com/terms/r/related-partytransaction.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Related-Party Transaction Definition

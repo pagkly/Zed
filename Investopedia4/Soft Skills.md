@@ -3,7 +3,7 @@ alias: [Soft Skills]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Soft Skills Definition, Soft Skills]
 source: https://www.investopedia.com/terms/s/soft-skills.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Soft Skills]] Definition

@@ -3,7 +3,7 @@ alias: [Introduction to Gross Receipts]
 created: 2021-03-02T20:30:09 (UTC +11:00)
 tags: [Introduction to Gross Receipts, Introduction to Gross Receipts]
 source: https://www.investopedia.com/terms/g/gross-receipts.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Introduction to Gross Receipts]]

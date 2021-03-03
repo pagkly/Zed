@@ -3,7 +3,7 @@ alias: [Uniform Bill of Lading]
 created: 2021-03-03T00:21:22 (UTC +11:00)
 tags: [Uniform Bill of Lading Definition, Uniform Bill of Lading]
 source: https://www.investopedia.com/terms/u/uniform-bill-of-lading.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Uniform Bill of Lading]] Definition

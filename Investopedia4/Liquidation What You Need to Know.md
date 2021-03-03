@@ -3,7 +3,7 @@ alias: [Liquidation]
 created: 2021-03-02T21:21:47 (UTC +11:00)
 tags: [Liquidation Definition, Liquidation: What You Need to Know]
 source: https://www.investopedia.com/terms/l/liquidation.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Liquidation Definition

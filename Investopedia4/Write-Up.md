@@ -3,7 +3,7 @@ alias: [Write-Up]
 created: 2021-03-03T01:06:03 (UTC +11:00)
 tags: [Write-Up Definition, Write-Up]
 source: https://www.investopedia.com/terms/w/writeup.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Write-Up]] Definition

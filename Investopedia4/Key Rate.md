@@ -3,7 +3,7 @@ alias: [Key Rate]
 created: 2021-03-02T21:05:09 (UTC +11:00)
 tags: [Key Rate Definition, Key Rate]
 source: https://www.investopedia.com/terms/k/key-rate.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Key Rate]] Definition

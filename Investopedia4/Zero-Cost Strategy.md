@@ -3,7 +3,7 @@ alias: [Zero-Cost Strategy]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero-Cost Strategy Definition, Zero-Cost Strategy]
 source: https://www.investopedia.com/terms/[[Z|z]]/zero-cost-strategy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zero-Cost Strategy]] Definition

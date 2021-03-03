@@ -3,7 +3,7 @@ alias: [Voodoo Accounting]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Voodoo Accounting Definition, Voodoo Accounting]
 source: https://www.investopedia.com/terms/v/voodooaccounting.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Voodoo Accounting]] Definition

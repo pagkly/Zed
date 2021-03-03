@@ -3,7 +3,7 @@ alias: [General Depreciation System (GDS) Defined]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Depreciation System (GDS) Defined, General Depreciation System (GDS)]
 source: https://www.investopedia.com/terms/g/generaldepreciationsystem.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[General Depreciation System (GDS)]] Defined

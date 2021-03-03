@@ -3,7 +3,7 @@ alias: [Political Economy]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Political Economy Definition, What Is Political Economy?]
 source: https://www.investopedia.com/terms/p/political-economy.asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # Political Economy Definition

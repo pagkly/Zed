@@ -3,7 +3,7 @@ alias: [Zombies]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zombies Definition, Zombies]
 source: https://www.investopedia.com/terms/[[Z|z]]/[[Zombies|zombies]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Zombies]] Definition

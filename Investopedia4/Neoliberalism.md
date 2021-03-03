@@ -3,7 +3,7 @@ alias: [Neoliberalism]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Neoliberalism Definition, Neoliberalism]
 source: https://www.investopedia.com/terms/n/[[Neoliberalism|neoliberalism]].asp
-author: [[Will]] Kenton
+author: Will Kenton
 ---
 
 # [[Neoliberalism]] Definition
