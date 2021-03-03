@@ -6,28 +6,28 @@ source: https://www.investopedia.com/terms/g/green_fund.asp
 author: James Chen
 ---
 
-# Green Fund Definition
+# [[Green Fund]] Definition
 
 > ## Excerpt
 > Green funds invest only in sustainable or socially conscious companies while avoiding those deemed detrimental to society or the environment.
 
 ---
 
-Green Fund
-## What Is a Green Fund?
+[[Green Fund]]
+## What Is a [[Green Fund]]?
 
-A green fund is a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or another investment vehicle that will only invest in companies that are deemed socially conscious in their business dealings or directly promote environmental responsibility. A green fund can come in the form of a focused [[investment vehicle]](https://www.investopedia.com/terms/i/investmentvehicle.asp) for companies engaged in environmentally supportive businesses, such as alternative energy, green transport, water and waste management, and sustainable living.
+A [[Green Fund|green fund]] is a [mutual fund](https://www.investopedia.com/terms/m/mutualfund.asp) or another investment vehicle that [[Will|will]] only invest in companies that are deemed socially conscious in their business dealings or directly promote environmental responsibility. A green fund can come in the form of a focused [[investment vehicle]](https://www.investopedia.com/terms/i/investmentvehicle.asp) for companies engaged in environmentally supportive businesses, such as alternative energy, green transport, water and waste management, and sustainable living.
 
 ### Key Takeaways
 
 -   Green funds are mutual funds or other types of investment vehicles that only invest in companies that promote socially and environmentally conscious policies and business practices.
 -   Examples of environmentally supportive businesses are companies engaged in promoting green transportation, alternative energy, and sustainable living.
--   Green investing began in earnest in the 1990s after environmental disasters like the Exxon Valdez oil spill gained worldwide attention.
--   A variety of mutual funds are available for investors interested in green investing, including the TIAA-CREF Social Choice Equity Fund (TICRX), the Trillium ESG Global Equity Fund (PORTX), and the Green Century Balanced Fund (GCBLX).
+-   [[Green Investing|Green investing]] began in earnest in the 1990s after environmental disasters like the Exxon Valdez oil spill gained worldwide attention.
+-   A variety of mutual funds are available for investors interested in [[Green Investing|green investing]], including the TIAA-CREF Social Choice [[Equity Fund]] (TICRX), the Trillium ESG Global [[Equity]] Fund (PORTX), and the Green Century Balanced Fund (GCBLX).
 
-## Understanding a Green Fund
+## Understanding a [[Green Fund]]
 
-A green fund's [[investment strategy]](https://www.investopedia.com/terms/i/investmentstrategy.asp) can be based on some of the following characteristics:
+A [[Green Fund|green fund]]'s [[investment strategy]](https://www.investopedia.com/terms/i/investmentstrategy.asp) can be based on some of the following characteristics:
 
 -   Avoiding negative company criteria (businesses such as guns, alcohol, gambling, pornography, animal testing, etc.)
 -   Choosing positive company criteria (environmental programs, energy conservation, fair trade, etc.)
@@ -49,9 +49,9 @@ Some of the sectors where this investment has been taking place include the rene
 
 The buildings sector includes builders who use energy-efficient materials, making each building's carbon footprint smaller—whether they're being used for commercial, residential, or office use.
 
-Socially conscious investing has continued to gain in popularity, which is due largely to increased worldwide exposure to the issue of [[climate change]](https://www.investopedia.com/articles/investing/051514/preparing-your-portfolio-climate-change.asp), as well as increased federal funding for alternative energy and other programs. Since 2009, the Green Transition Scoreboard, a project run by Ethical Markets Media, has tracked a cumulative $10.39 trillion invested in the green economy through the end of 2019.1
+Socially conscious investing has continued to [[Gain|gain]] in popularity, which is due largely to increased worldwide exposure to the issue of [[climate change]](https://www.investopedia.com/articles/investing/051514/preparing-your-[[Portfolio|portfolio]]-climate-change.asp), as well as increased federal funding for alternative energy and other programs. Since 2009, the Green Transition Scoreboard, a project run by Ethical Markets Media, has tracked a cumulative $10.39 trillion invested in the green economy through the end of 2019.1
 
-Some of the green mutual funds that are available include the [[TIAA-CREF Social Choice Equity Fund]](https://www.tiaa.org/public/responsible-investment-funds) (TICRX), the [[Trillium ESG Global Equity Fund]](https://www.trilliuminvest.com/mutual-funds/trillium-esg-global-equity-fund) (PORTX), and the [[Green Century Balanced Fund]](https://www.greencentury.com/balanced-fund/) (GCBLX).
+Some of the green mutual funds that are available include the [[TIAA-CREF Social Choice Equity Fund]](https://www.tiaa.org/public/responsible-investment-funds) (TICRX), the [[Trillium ESG Global Equity Fund]](https://www.trilliuminvest.com/mutual-funds/trillium-esg-global-[[Equity|equity]]-fund) (PORTX), and the [[Green Century Balanced Fund]](https://www.greencentury.com/balanced-fund/) (GCBLX).
 
 ## Performance of Green Funds
 

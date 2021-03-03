@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/g/gnf.asp
 author: James Chen
 ---
 
-# Guinea Franc (GNF)
+# [[Guinea Franc (GNF)]]
 
 > ## Excerpt
 > GNF, or the Guinea franc, is the currency of the Republic of Guinea. When created it was pegged to the French franc and is still pegged to the euro today.
 
 ---
 
-Guinea Franc (GNF)
+[[Guinea Franc (GNF)]]
 ## What Is the Guinea Franc?
 
-GNF is the currency abbreviation for the Guinea franc, the national currency of the Republic of Guinea, a country in West Africa.
+GNF is the currency abbreviation for the Guinea franc, the [[National Currency|national currency]] of the Republic of Guinea, a country in West Africa.
 
 The Republic of Guinea was formerly known as French Guinea; today it is often referred to as Guinea-Conakry, which refers to the name of its capital city, to distinguish it from its neighboring country Guinea-Bissau.
 
-## Understanding the Guinea Franc (GNF)
+## Understanding the [[Guinea Franc (GNF)]]
 
 The GNF is actually the second franc used as a currency in the country. Guinea was a French colony and gained its independence in 1958. Prior to this, the currency used in Guinea was the CFA Franc, which—between 1945 and 1958—was an abbreviation for the franc for “colonies françaises d'Afrique,” or former French colonies in Africa.
 

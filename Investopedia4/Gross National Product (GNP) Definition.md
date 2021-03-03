@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/gnp.asp
 author: Investopedia Staff
 ---
 
-# Gross National Product (GNP) Definition
+# [[Gross National Product (GNP) Definition]]
 
 > ## Excerpt
 > Gross national product (GNP) is an economic statistic that includes GDP, plus any income earned by a residents from overseas investments, minus income earned within the domestic economy by foreign residents.
 
 ---
 
-Gross National Product (GNP) Definition
+[[Gross National Product (GNP) Definition]]
 ## What is Gross National Product (GNP)?
 
 Gross national product (GNP) is an estimate of total value of all the final products and services turned out in a given period by the means of production owned by a country's residents. GNP is commonly calculated by taking the sum of [[personal consumption expenditures]](https://www.investopedia.com/terms/p/pce.asp), private domestic investment, government expenditure, [[net exports]](https://www.investopedia.com/terms/n/netexports.asp) and any income earned by residents from overseas investments, minus income earned within the domestic economy by foreign residents. Net exports represent the difference between what a country exports minus any imports of goods and services.1
@@ -22,8 +22,8 @@ GNP is related to another important economic measure called [[gross domestic pro
 
 ### Key Takeaways
 
--   GNP measures the output of a country's residents regardless of the location of the actual underlying economic activity.1
--   Income from overseas investments by a country's residents counts in GNP, and foreign investment within a country's borders does not. This is in contrast to GDP which measures economic output and income based on the location rather than nationality.1
+-   GNP measures the output of a country's residents regardless of the location of the actual [[Underlying|underlying]] economic activity.1
+-   Income from overseas investments by a country's residents counts in GNP, and [[Foreign Investment|foreign investment]] within a country's borders does not. This is in contrast to GDP which measures economic output and income based on the location rather than nationality.1
 -   GNP and GDP can have different values, and a large difference between a country's GNP and GDP can suggest a great deal of integration into the global economy.
 
 ## Understanding Gross National Product

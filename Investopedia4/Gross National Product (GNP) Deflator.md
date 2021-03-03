@@ -3,17 +3,17 @@ alias: [Gross National Product (GNP) Deflator]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross National Product (GNP) Deflator Definition, Gross National Product (GNP) Deflator]
 source: https://www.investopedia.com/terms/g/gnp_deflator.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Gross National Product (GNP) Deflator Definition
+# [[Gross National Product (GNP) Deflator]] Definition
 
 > ## Excerpt
 > The gross national product deflator is an economic metric that accounts for the effects of inflation in the current year's gross national product.
 
 ---
 
-Gross National Product (GNP) Deflator
+[[Gross National Product (GNP) Deflator]]
 ## What Is the Gross National Product Deflator?
 
 The gross national product deflator is an economic metric that accounts for the effects of inflation in the current year's [[gross national product]](https://www.investopedia.com/terms/g/gnp.asp) by converting its output to a level relative to a [[base period]](https://www.investopedia.com/terms/b/baseperiod.asp). The GNP deflator can be confused with the more commonly used [gross domestic product (GDP) deflator](https://www.investopedia.com/terms/g/gdppricedeflator.asp). The GDP deflator uses the same equation as the GNP deflator, but with nominal and real GDP rather than GNP.
@@ -24,11 +24,11 @@ The gross national product deflator is an economic metric that accounts for the 
 -   The GNP deflator provides an alternative to the Consumer Price Index (CPI) and can be used in conjunction with it to analyze some changes in trade flows and the effects on the welfare of people within a relatively open market country.
 -   The higher the GNP deflator, the higher the rate of inflation for the period.
 
-## Understanding the Gross National Product (GNP) Deflator
+## Understanding the [[Gross National Product (GNP) Deflator]]
 
 The gross national product deflator is simply the adjustment for inflation that is made to nominal GNP to produce real GNP. The GNP deflator provides an alternative to the [[Consumer Price Index]](https://www.investopedia.com/terms/c/consumerpriceindex.asp) (CPI) and can be used in conjunction with it to analyze some changes in trade flows and the effects on the welfare of people within a relatively open market country. The CPI is based upon a [[basket of goods]](https://www.investopedia.com/terms/b/basket_of_goods.asp) and services, while the GNP deflator incorporates all of the final goods produced by an economy. This allows the GNP deflator to more accurately capture the effects of inflation since it's not limited to a smaller subset of goods.
 
-## Calculating the Gross National Product (GNP) Deflator
+## Calculating the [[Gross National Product (GNP) Deflator]]
 
 The GNP deflator is calculated with the following formula:
 

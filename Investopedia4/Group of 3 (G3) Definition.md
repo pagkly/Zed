@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/group-of-3.asp
 author: Clay Halton
 ---
 
-# Group of 3 (G3) Definition
+# [[Group of 3 (G3) Definition]]
 
 > ## Excerpt
 > Group of 3 was a free trade agreement between Colombia, Mexico and Venezuela, which ran from 1995 to 2005.
 
 ---
 
-Group of 3 (G3) Definition
+[[Group of 3 (G3) Definition]]
 ## What is the Group of 3?
 
 Group of 3 refers to a ten-year free trade agreement between Mexico, Colombia and Venezuela that began in 1995 and lasted until 2005. The pact covered numerous issues including [[intellectual property rights]](https://www.investopedia.com/terms/i/intellectualproperty.asp), public-sector investments and the easing of trade restrictions.
@@ -34,6 +34,6 @@ The Group of 3 did not last for long, and Venezuela arguably never became a very
 
 The Group of 3 did aid the region’s energy and utility sectors. One of the Group of 3's first projects was to link both power grids and gas pipelines from Mexico to Colombia and Venezuela. This project was completed in 2007, and it allowed gas to flow to areas where it was not previously accessible.
 
-From Mexico’s perspective, the Group of 3 became part of a strategy to open its trade policies in an effort to significantly boost exports. The Group of 3 offered Mexico a way to leverage labor markets throughout the region to produce finished goods that could then be sold into the United States and Canada via NAFTA. The Group of 3 did help to strengthen Mexico’s position as Central America’s most important trading partner, although other trade agreements arguably helped Mexico far more. The Group of 3 weakened partly due to other regional trade agreements as well as bilateral agreements between countries in Central America and the U.S.
+From Mexico’s perspective, the Group of 3 became part of a strategy to open its trade policies in an effort to significantly boost exports. The Group of 3 offered Mexico a way to [[Leverage|leverage]] labor markets throughout the region to produce finished goods that could then be sold into the United States and Canada via NAFTA. The Group of 3 did help to strengthen Mexico’s position as Central America’s most important trading partner, although other trade agreements arguably helped Mexico far more. The Group of 3 weakened partly due to other regional trade agreements as well as bilateral agreements between countries in Central America and the U.S.
 
 Conversely, Colombia and Venezuela seemed to have hoped that the Group of 3 would provide an eventual entry for them to join NAFTA; this never occurred.
