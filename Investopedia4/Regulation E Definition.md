@@ -3,24 +3,24 @@ alias: [Regulation E]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Regulation E Definition, Regulation E Definition]
 source: https://www.investopedia.com/terms/r/regulation-e.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Regulation E Definition
+# [[Regulation E Definition]]
 
 > ## Excerpt
 > Regulation E outlines rules for electronic funds transfers, provides guidelines for issuers and sellers of debit cards, and protects consumers.
 
 ---
 
-Regulation E Definition
+[[Regulation E Definition]]
 ## What Is Regulation E?
 
 Regulation E is a regulation put forth by the [[Federal Reserve Board]](https://www.investopedia.com/terms/f/frb.asp) that outlines rules and procedures for electronic funds transfers (EFTs) and provides guidelines for issuers of electronic [[debit cards]](https://www.investopedia.com/terms/d/debitcard.asp).
 
 ## Understanding Regulation E
 
-Regulation E provides guidelines for consumers and banks or other financial institutions in the context of electronic funds transfers. These include transfers with [[automated teller machines]](https://www.investopedia.com/terms/a/atm.asp) (ATMs), point-of-sale transactions, and [[automated clearing house]](https://www.investopedia.com/terms/a/ach.asp) (ACH) systems. Rules pertaining to consumer liability for unauthorized card usage fall under this regulation as well.
+Regulation E provides guidelines for consumers and banks or other financial institutions in the context of electronic funds transfers. These include transfers with [[automated teller machines]](https://www.investopedia.com/terms/a/atm.asp) (ATMs), point-of-sale transactions, and [[automated clearing house]](https://www.investopedia.com/terms/a/ach.asp) (ACH) systems. Rules pertaining to consumer [[Liability|liability]] for unauthorized card usage fall under this regulation as well.
 
 Consumers and financial institutions both have an interest in understanding Regulation E's guidelines.
 
@@ -42,4 +42,4 @@ Regulation E governs the issuance of debit but not credit cards, which are gover
 
 ## Special Considerations
 
-Consumers should make sure they are complying with federal regulations when reporting errors to make sure their financial institutions are complying and to avoid liability. Financial institutions should circulate these regulations internally to make sure they have no difficulty in complying.
+Consumers should make sure they are complying with federal regulations when reporting errors to make sure their financial institutions are complying and to avoid [[Liability|liability]]. Financial institutions should circulate these regulations internally to make sure they have no difficulty in complying.

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/retirement-income-certified-profess
 author: Julia Kagan
 ---
 
-# Retirement Income Certified Professional (RICP) Definition
+# [[Retirement Income Certified Professional (RICP) Definition]]
 
 > ## Excerpt
 > Retirement Income Certified Professional (RICP) is a professional designation for financial professionals expert in retirement income planning.
 
 ---
 
-Retirement Income Certified Professional (RICP) Definition
+[[Retirement Income Certified Professional (RICP) Definition]]
 ## What Is a Retirement Income Certified Professional (RICP)?
 
 The term Retirement Income Certified Professional (RICP) refers to a financial professional who specializes in [[retirement income planning]](https://www.investopedia.com/terms/r/retirement-planning.asp). Financial professionals earn the RICP designation after following the program for [[retirement]](https://www.investopedia.com/terms/r/retirement.asp) income professionals. Once qualified, RICPs advise retirees and near-retirees as to the best way to use the [[assets]](https://www.investopedia.com/terms/a/asset.asp) they have accumulated for retirement to live comfortably within a realistic budget and not run out of money prematurely.
@@ -36,7 +36,7 @@ The growing number of retirees is creating demand for financial professionals wh
 
 The RICP is designed for financial professionals who already have a broad-based financial planning credential, such as [[chartered financial consultant]](https://www.investopedia.com/terms/c/chartered-financial-consultant-chfc.asp), [[certified financial planner]](https://www.investopedia.com/terms/c/cfp.asp), or CLU, or whose businesses already emphasize retirement income planning. Applicants must have three years of business experience in order to be considered for the program.2 According to the website, an undergraduate or graduate degree is the equivalent of one year's worth of experience.2
 
-To take the RICP program, applicants must already be financial professionals such as a chartered financial consultant, a certified financial planner, or a chartered life underwriter.
+To take the RICP program, applicants must already be financial professionals such as a chartered financial consultant, a certified [[Financial Planner|financial planner]], or a chartered life underwriter.
 
 Designed as a self-study program, the RICP curriculum consists of three online courses that students must complete. They are as follows:
 
@@ -44,7 +44,7 @@ Designed as a self-study program, the RICP curriculum consists of three online c
 -   Sources of Retirement Income
 -   Managing a Retirement Income Plan2
 
-The program provides students with a series of best practices ranging from topics such as [[Social Security]](https://www.investopedia.com/terms/s/socialsecurity.asp), risks in retirement financial planning, [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) and other [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) options, long-term care needs, as well as tax and estate planning.2 These arm RICPs with the tools they need to help their clients maintain their customary standard of living throughout retirement, address income gaps, create an [[estate plan]](https://www.investopedia.com/terms/e/estateplanning.asp), and limit risk.
+The program provides students with a series of best practices ranging from topics such as [[Social Security]](https://www.investopedia.com/terms/s/socialsecurity.asp), risks in retirement financial planning, [[Medicare]](https://www.investopedia.com/terms/m/medicare.asp) and other [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) options, long-term care needs, as well as tax and [[Estate Planning|estate planning]].2 These arm RICPs with the tools they need to help their clients maintain their customary standard of living throughout retirement, address income gaps, create an [[estate plan]](https://www.investopedia.com/terms/e/estateplanning.asp), and limit [[Risk|risk]].
 
 Students must pass a closed-book 100-question exam at the end of each course. RICPs must adhere to a [[code of ethics]](https://www.investopedia.com/terms/c/code-of-ethics.asp) and reporting requirements. Individuals with the RICP designation must also update their credentials with 15 hours of continuing education that they must complete every two years.3
 
@@ -55,9 +55,9 @@ While many financial professionals are experienced in advising and helping indiv
 -   When a client is financially prepared to retire
 -   The rate at which retirement savings should be withdrawn
 -   How an individual’s asset allocation should change during retirement
--   The best age for an individual to start claiming [[Social Security benefits]](https://www.investopedia.com/terms/s/social-security-benefits.asp)
+-   The best age for an individual to start claiming [[Social Security benefits]](https://www.investopedia.com/terms/s/social-[[Security|security]]-benefits.asp)
 -   How to pay for health care and [[nursing home care]](https://www.investopedia.com/terms/s/skilled-nursing-facility.asp)
--   Late-in-life tax planning
+-   Late-in-life [[Tax Planning|tax planning]]
 -   Retirement housing
 
 The RICP program aims to fill the gap in the financial [[industry]](https://www.investopedia.com/terms/i/industry.asp).

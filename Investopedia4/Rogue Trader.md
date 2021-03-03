@@ -1,28 +1,28 @@
 ---
 alias: [Rogue Trader]
 created: 2021-03-02T23:25:42 (UTC +11:00)
-tags: [Rogue Trader Definition, Rogue Trader]
+tags: [Rogue [[Trader Definition]], Rogue Trader]
 source: https://www.investopedia.com/terms/r/roguetrader.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Rogue Trader Definition
+# Rogue [[Trader Definition]]
 
 > ## Excerpt
-> A rogue trader acts recklessly and independently of others, usually to the detriment of both the clients and the institution employing the trader.
+> A [[Rogue Trader|rogue trader]] acts recklessly and independently of others, usually to the detriment of both the clients and the institution employing the trader.
 
 ---
 
-Rogue Trader
-## What Is a Rogue Trader?
+[[Rogue Trader]]
+## What Is a [[Rogue Trader]]?
 
-A rogue trader is a trader who acts recklessly and independently of others, usually to the detriment of the institution that employs the trader and perhaps clients. Rogue traders typically play with high-risk investments that can produce huge losses or gains.
+A [[Rogue Trader|rogue trader]] is a trader who acts recklessly and independently of others, usually to the detriment of the institution that employs the trader and perhaps clients. Rogue traders typically play with high-[[Risk|risk]] investments that can produce huge losses or gains.
 
 Rogue traders, though, are only labeled as such if they lose, which generates incentives that create [[moral hazard]](https://www.investopedia.com/terms/m/moralhazard.asp). If their trades are enormously profitable, no one calls them "rogue", and in fact they are more likely to receive a huge bonus - but if they're risky bets lose they are rogue and can cost the firm millions or even billions of dollars in losses.
 
 ### Key Takeaways
 
--   A rogue trader is an employee of a financial firm who engages in unauthorized, often high-risk activities that result in large losses for the firm.
+-   A [[Rogue Trader|rogue trader]] is an employee of a financial firm who engages in unauthorized, often high-[[Risk|risk]] activities that result in large losses for the firm.
 -   Rogue traders often try to hide losses after making risky bets since there is a moral hazard situation: if the bet pays off they can earn huge bonuses, if it fails they'll only get fired.
 -   Famous examples of rogue traders exist, some of which have lost billions of dollars and even brought down otherwise large and stable banks or brokerages.
 
@@ -34,8 +34,8 @@ Often they are caught in bad trades and then forced by regulators to be publicly
 
 ## Examples of Rogue Traders
 
-Among the most notorious rogue traders in recent years is [[Nick Leeson]](https://www.investopedia.com/terms/n/nick-leeson.asp), a former derivatives trader at the Singapore office of Britain's Barings Bank. In 1995, Leeson incurred heavy losses through the unauthorized trading of large amounts of [[Nikkei]](https://www.investopedia.com/terms/n/nikkei.asp) futures and options. Leeson took large [[derivative]](https://www.investopedia.com/terms/d/derivative.asp) positions on the Nikkei that leveraged the amount of money at stake in the trades.
+Among the most notorious rogue traders in recent years is [[Nick Leeson]](https://www.investopedia.com/terms/n/nick-leeson.asp), a former derivatives trader at the Singapore office of Britain's Barings Bank. In 1995, Leeson incurred heavy losses through the unauthorized trading of large amounts of [[Nikkei]](https://www.investopedia.com/terms/n/[[Nikkei|nikkei]].asp) [[Futures|futures]] and options. Leeson took large [[derivative]](https://www.investopedia.com/terms/d/[[Derivative|derivative]].asp) positions on the Nikkei that leveraged the amount of money at stake in the trades.
 
-At one point, Leeson had 20,000 futures contracts worth more than $3 billion on the Nikkei. A large chunk of the losses came from the downturn in the Nikkei after a major earthquake in Japan caused a broad-based sell-off in the Nikkei within a week. The total loss to the 233-year-old [[Barings Bank]](https://www.investopedia.com/terms/b/baringsbank.asp) was well over $1 billion and eventually led to its [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp). Leeson was charged with fraud and served several years in a Singapore prison.
+At one point, Leeson had 20,000 [[Futures|futures]] contracts worth more than $3 billion on the [[Nikkei]]. A large chunk of the losses came from the downturn in the Nikkei after a major earthquake in Japan caused a broad-based sell-off in the Nikkei within a week. The total loss to the 233-year-old [[Barings Bank]](https://www.investopedia.com/terms/b/baringsbank.asp) was well over $1 billion and eventually led to its [[bankruptcy]](https://www.investopedia.com/terms/b/bankruptcy.asp). Leeson was charged with fraud and served several years in a Singapore prison.
 
-More recent examples include Bruno Iksil, the "London Whale" who racked up $6.2 billion in losses in 2012 at JP Morgan, and Jerome Kerviel, who was partly or wholly responsible for more than $7 billion in losses at Société Générale in 2007. JP Morgan CEO Jaime Dimon was slow to realize the magnitude of the "London Whale" losses, first calling the incident "a tempest in a teapot." Later, to his chagrin, he had to admit the truth about his bank's rogue trader.
+More recent examples include Bruno Iksil, the "London Whale" who racked up $6.2 billion in losses in 2012 at JP Morgan, and Jerome Kerviel, who was partly or wholly responsible for more than $7 billion in losses at Société Générale in 2007. JP Morgan CEO Jaime Dimon was slow to realize the magnitude of the "London Whale" losses, first calling the incident "a tempest in a teapot." Later, to his chagrin, he had to admit the truth about his bank's [[Rogue Trader|rogue trader]].

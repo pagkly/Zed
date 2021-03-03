@@ -3,18 +3,18 @@ alias: [Relationship Manager]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Relationship Manager Definition, Relationship Manager]
 source: https://www.investopedia.com/terms/r/relationship-manager.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Relationship Manager Definition
+# [[Relationship Manager]] Definition
 
 > ## Excerpt
 > Relationship managers work to improve business relationships with partner firms and clients and to improve reputations in the markets where they operate.
 
 ---
 
-Relationship Manager
-## What Is a Relationship Manager?
+[[Relationship Manager]]
+## What Is a [[Relationship Manager]]?
 
 Relationship managers work to improve business relationships with partner firms and clients. Relationship management is generally divided into two fields: [[client relationship management]](https://www.investopedia.com/terms/c/customer_relation_management.asp) and business relationship management. Both fields share the common goal of facilitating good relationships so businesses can maximize the value of those relationships and maintain a good reputation.
 
@@ -40,9 +40,9 @@ A key role of relationship managers is to help businesses differentiate themselv
 
 ### Client Relationship Managers
 
-The goal of client relationship managers is to build a culture of relationships with clients based on trust and value and not only on price. This helps create strong barriers to competition. Clients who know they can trust a particular business are more likely to return even if a less familiar or less trusted competitor offers a lower price.
+The goal of client relationship managers is to build a culture of relationships with clients based on trust and value and not only on price. This helps create strong barriers to competition. Clients who know they can trust a particular business are more likely to [[Return|return]] even if a less familiar or less trusted competitor offers a lower price.
 
-Client relationship managers work with senior executives, sales managers, technical managers, finance directors, and others who make or influence sales decisions. They also may work directly with clients to address problems or overcome other obstacles.
+Client relationship managers work with senior executives, sales managers, technical managers, [[Finance|finance]] directors, and others who make or influence sales decisions. They also may work directly with clients to address problems or overcome other obstacles.
 
 [Client relationship managers](https://www.investopedia.com/terms/c/customer_relation_management.asp) also monitor industry trends in order to identify new sales opportunities and to brief the product development and sales teams to meet client needs. They use the data they collect to establish revenue targets and identify the resources needed to meet them. Research also is important to analyze competitor trends and assess potential threats to the firm's relationships with clients.
 

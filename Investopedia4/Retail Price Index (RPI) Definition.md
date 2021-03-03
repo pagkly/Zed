@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/rpi.asp
 author: Investopedia Staff
 ---
 
-# Retail Price Index (RPI) Definition
+# [[Retail Price Index (RPI) Definition]]
 
 > ## Excerpt
 > The Retail Price Index (RPI) is one of the two main measures of consumer inflation produced by the United Kingdom's Office for National Statistics.
 
 ---
 
-Retail Price Index (RPI) Definition
+[[Retail Price Index (RPI) Definition]]
 ## What Is the Retail Price Index (RPI)?
 
 The Retail Price Index (RPI) is one of the two main measures of consumer [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) produced by the United Kingdom's Office for National Statistics (ONS). It is not considered an official statistic by the U.K., but it is used for certain types of cost escalation. The RPI was introduced in the U.K. in 1947, and it was made official in 1956.
@@ -26,11 +26,11 @@ The Retail Price Index (RPI) is one of the two main measures of consumer [[infla
 
 ## Understanding the Retail Price Index (RPI)
 
-The Retail Price Index (RPI) is an older measurement of inflation that is still published because it is used to calculate cost of living and wage escalation; however, it is not considered an official inflation rate by the government. RPI was first calculated for June 1947, largely replacing the previous Cost of Living Index. It was once the principal official measure of inflation. However, the consumer prices index (CPI) now largely serves that purpose in practice.
+The Retail Price Index (RPI) is an older measurement of inflation that is still published because it is used to calculate [[Cost of Living|cost of living]] and wage escalation; however, it is not considered an official inflation rate by the government. RPI was first calculated for June 1947, largely replacing the previous Cost of Living Index. It was once the [[Principal|principal]] official measure of inflation. However, the consumer prices index (CPI) now largely serves that purpose in practice.
 
 The U.K. government still uses RPI for some purposes, such as figuring the amounts payable on index-linked securities, including index-linked gilts and social housing rent increases. British employers also use it as a starting point in wage negotiation. However, since 2003, it has no longer been used to set the inflation target for the Bank of England's Monetary Policy Committee, and since April 2011, it has no longer been used as the basis for the indexation of the pensions of former public sector employees. Since 2016, the U.K. state pension has been indexed by the highest of the increase in average earnings, CPI, or a rate of 2.5%.
 
-In 2013, following a consultation on possibilities for improving the RPI, the U.K. national statistician said the formula used to produce the RPI did not meet international standards and recommended that a new index known as RPIJ be published. Subsequently, ONS decided to no longer classify RPI as a "national statistic." However, ONS will continue to calculate RPI, among several versions of the inflation index, in order to provide a consistent historic inflation time series. The index factors continue to be used to adjust for inflation in capital gains for inclusion in the tax computation for entities, subject to corporation tax in the U.K.
+In 2013, following a consultation on possibilities for improving the RPI, the U.K. national statistician said the formula used to produce the RPI did not meet international standards and recommended that a new index known as RPIJ be published. Subsequently, ONS decided to no longer classify RPI as a "national statistic." However, ONS [[Will|will]] continue to calculate RPI, among several versions of the inflation index, in order to provide a consistent historic inflation time series. The index factors continue to be used to adjust for inflation in capital gains for inclusion in the tax computation for entities, subject to corporation tax in the U.K.
 
 In Jan. 2018, Mark Carney, governor of the Bank of England, said that RPI should be abandoned.
 

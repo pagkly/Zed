@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/rival_good.asp
 author: Daniel Liberto
 ---
 
-# Rival Good Definition
+# [[Rival Good Definition]]
 
 > ## Excerpt
 > A rival good is a type of product or service that can only be possessed or consumed by a single user, creating competition and demand for it.
 
 ---
 
-Rival Good Definition
+[[Rival Good Definition]]
 ## What Is a Rival Good?
 
 A rival good is a type of good that may only be possessed or consumed by a single user. These items can be [[durable]](https://www.investopedia.com/terms/d/durables.asp), meaning they may only be used one at a time, or nondurable, meaning they are destroyed after consumption, allowing only one user to enjoy it. When a good is rival in consumption, competition for the rival good can occur as in the case of people bidding to buy a particular house.
@@ -29,21 +29,21 @@ Because these types of goods can only be used or occupied by one person, competi
 -   A rival good is a type of good that may only be possessed or consumed by a single user.
 -   Rival goods can be durable, meaning they may only be used one at a time, or nondurable, meaning they perish after consumption.
 -   When a good is rival in consumption, the resulting competition can increase its value to the individuals who seek them.
--   Limited availability, coupled with demand, gives businesses that supply rival goods leeway to set prices higher.
+-   Limited availability, coupled with demand, gives businesses that [[Supply|supply]] rival goods leeway to set prices higher.
 
 ### Durable vs. Nondurable
 
 Sometimes, these goods can be reused by somebody else at a later stage, other times not. For example, durable goods such as a skateboard might be sold after the current owner is finished with it.
 
-A nondurable good, such as a cup of coffee or apple, does not fall into this category because it perishes after consumption. Only one consumer can drink the coffee or eat the apple. After it is gone, there will be nothing left for another consumer to use.
+A nondurable good, such as a cup of coffee or apple, does not fall into this category because it perishes after consumption. Only one consumer can drink the coffee or eat the apple. After it is gone, there [[Will|will]] be nothing left for another consumer to use.
 
 ## Rival Good vs. Non-Rival Good
 
 Goods are either classified as rival or non-rival. As already explained, a rival good is something that can only be possessed or consumed by a single user. Conversely, a good that can be consumed or possessed by multiple users is said to be nonrival.
 
-The internet and radio stations are examples of goods that are nonrival. Many people can access them at the same time, and they can be consumed over and over again without impacting their quality or running the risk that [[supply]](https://www.investopedia.com/terms/s/supply.asp) will be depleted.
+The internet and radio stations are examples of goods that are nonrival. Many people can access them at the same time, and they can be consumed over and over again without impacting their quality or running the [[Risk|risk]] that [[supply]](https://www.investopedia.com/terms/s/[[Supply|supply]].asp) [[Will|will]] be depleted.
 
-Procuring a rival good can impact the overall supply of them, potentially leading to price increases and a future lack of availability.
+Procuring a rival good can impact the overall [[Supply|supply]] of them, potentially leading to price increases and a future lack of availability.
 
 ## Special Considerations
 
@@ -55,4 +55,4 @@ Apparel is also a rival good since only one person can wear a specific article o
 
 Demand for rival goods can drive concentrated retail sales during holiday periods as consumers race to procure items as gifts before they sell out, or while certain discounts are available. This type of shopping behavior has been used to retailers’ advantage in particular during [Black Friday](https://www.investopedia.com/terms/b/blackfriday.asp) sales events that play into the nature of rival goods.
 
-For example, if a rival good is in high demand but has limited availability, retailers might advertise plans to offer it for sale specifically on Black Friday.
+For example, if a rival good is in high demand but has limited availability, retailers might advertise plans to [[Offer|offer]] it for sale specifically on Black Friday.

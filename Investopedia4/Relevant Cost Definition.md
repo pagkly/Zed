@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/r/relevantcost.asp
 author: Alicia Tuovila
 ---
 
-# Relevant Cost Definition
+# [[Relevant Cost Definition]]
 
 > ## Excerpt
 > Relevant cost is a managerial accounting term that describes avoidable costs that are incurred only when making specific business decisions.
 
 ---
 
-Relevant Cost Definition
+[[Relevant Cost Definition]]
 ## What Is Relevant Cost?
 
 Relevant cost is a [[managerial accounting]](https://www.investopedia.com/terms/m/managerialaccounting.asp) term that describes avoidable costs that are incurred only when making specific business decisions. The concept of relevant cost is used to eliminate unnecessary data that could complicate the decision-making process. As an example, relevant cost is used to determine whether to sell or keep a business unit. The opposite of a relevant cost is a [[sunk cost]](https://www.investopedia.com/terms/s/sunkcost.asp), which has already been incurred regardless of the outcome of the current decision.
 
 ### Key Takeaways
 
--   Relevant costs are only the costs that will be affected by the specific management decision being considered.
+-   Relevant costs are only the costs that [[Will|will]] be affected by the specific management decision being considered.
 -   The opposite of a relevant cost is a sunk cost.
 -   Management uses relevant costs in decision making, such as whether to close a business unit, whether to make or buy parts or labor, and whether to accept a customer's last-minute or special orders.
 
@@ -40,4 +40,4 @@ A big decision for a manager is whether to close a business unit or continue to 
 
 ### Factoring in a Special Order
 
-A special order occurs when a customer places an order near the end of the month, and prior sales have already covered the [[fixed cost]](https://www.investopedia.com/terms/f/fixedcost.asp) of production for the month. If a client wants a price quote for a special order, management only considers the variable costs to produce the goods, specifically material and [[labor costs]](https://www.investopedia.com/terms/c/cost-of-labor.asp). Fixed costs, such as a factory lease or manager salaries are irrelevant, because the firm has already paid for those costs with prior sales.
+A special order occurs when a customer places an order near the end of the month, and prior sales have already covered the [[fixed cost]](https://www.investopedia.com/terms/f/fixedcost.asp) of production for the month. If a client wants a price [[Quote|quote]] for a special order, management only considers the variable costs to produce the goods, specifically material and [[labor costs]](https://www.investopedia.com/terms/c/cost-of-labor.asp). Fixed costs, such as a factory [[Lease|lease]] or manager salaries are irrelevant, because the firm has already paid for those costs with prior sales.

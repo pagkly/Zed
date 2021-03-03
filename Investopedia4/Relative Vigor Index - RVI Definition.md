@@ -9,21 +9,21 @@ author: James Chen
 # Relative Vigor Index - Definition & Calculation
 
 > ## Excerpt
-> The Relative Vigor Index (RVI) is a technical analysis indicator that measures the strength of a trend by comparing a closing price to the daily range.
+> The Relative Vigor Index (RVI) is a [[Technical Analysis|technical analysis]] indicator that measures the strength of a trend by comparing a closing price to the daily range.
 
 ---
 
-Relative Vigor Index - RVI Definition
+[[Relative Vigor Index - RVI Definition]]
 ## What Is the Relative Vigor Index?
 
-The Relative Vigor Index (RVI) is a technical analysis indicator that measures the strength of a trend by comparing a security's closing price to its trading range and smoothing the results. It's based on the tendency for prices to close higher than they open in uptrends and to close lower than they open in downtrends.
+The Relative Vigor Index (RVI) is a [[Technical Analysis|technical analysis]] indicator that measures the strength of a trend by comparing a [[Security|security]]'s closing price to its trading range and smoothing the results. It's based on the tendency for prices to close higher than they open in uptrends and to close lower than they open in downtrends.
 
 TradingView.
 
 ### Key Takeaways
 
 -   RVI oscillates across a center line rather than trend, higher or lower.
--   Divergences between the RVI indicator and price suggests there will be a near-term change in the trend
+-   Divergences between the RVI indicator and price suggests there [[Will|will]] be a near-term change in the trend
 
 ## The Formula for Relative Vigor Index Is:
 
@@ -40,11 +40,11 @@ NUMERATOR\=a+(2×b)+(2×c)+d6DENOMINATOR\=e+(2×f)+(2×g)+h6RVI\=SMA of NUMERA
 
 ## What Does Relative Vigor Index Tell You?
 
-The RVI indicator is calculated in a similar fashion to the stochastics oscillator but it compares the close relative to the open rather than comparing the close relative to the low. Traders expect the RVI value to rise as the bullish trend gains momentum because, in this positive setting, a security's closing price tends to be at the top of the range while the open is near the low of the range.
+The RVI indicator is calculated in a similar fashion to the stochastics oscillator but it compares the close relative to the open rather than comparing the close relative to the low. Traders expect the RVI value to rise as the bullish trend gains [[Momentum|momentum]] because, in this positive setting, a [[Security|security]]'s closing price tends to be at the top of the range while the open is near the low of the range.
 
-The relative vigor index is interpreted in the same way as many other oscillators, such as moving average convergence-divergence (MACD) or the relative strength index (RSI). While oscillators tend to fluctuate between set levels, they may remain at extreme levels over a prolonged period of time so interpretation must be undertaken in a broad context to be actionable.
+The relative vigor index is interpreted in the same way as many other oscillators, such as moving average convergence-divergence (MACD) or the [[Relative Strength Index (RSI)|relative strength index (RSI)]]. While oscillators tend to fluctuate between set levels, they may remain at extreme levels over a prolonged period of time so interpretation must be undertaken in a broad context to be actionable.
 
-The RVI is a centered oscillator rather than a banded oscillator, which means that it's typically displayed above or below the price chart, moving around a center line rather than the actual price. It's a good idea to use the RVI indicator in conjunction with other forms of technical analysis in order to find the highest probability outcomes.
+The RVI is a centered oscillator rather than a banded oscillator, which means that it's typically displayed above or below the price chart, moving around a center line rather than the actual price. It's a good idea to use the RVI indicator in conjunction with other forms of [[Technical Analysis|technical analysis]] in order to find the highest probability outcomes.
 
 ## Example of How To Use Relative Vigor Index
 
@@ -52,7 +52,7 @@ For example, a trader might examine potential changes in a trend with the RVI in
 
 The two most popular trading signals include:
 
--   RVI Divergences - Divergence between the RVI indicator and price suggests there will be a near-term change in the trend in the direction of the RVI's trend. So, if a stock price is rising and the RVI indicator is falling, it predicts the stock will reverse over the near-term.
+-   RVI Divergences - Divergence between the RVI indicator and price suggests there [[Will|will]] be a near-term change in the trend in the direction of the RVI's trend. So, if a [[Stock|stock]] price is rising and the RVI indicator is falling, it predicts the stock will reverse over the near-term.
 -   RVI Crossovers - Like many oscillators, RVI has a signal line that's often calculated with price inputs. A crossover above the signal line is a bullish indicator while a crossover below the signal line is a bearish indicator. These crossovers are designed to be leading indicators of future price direction.
 
 ## Limitations of Using Relative Vigor Index

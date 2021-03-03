@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/r/revaluation.asp
 author: Adam Hayes
 ---
 
-# Revaluation Definition
+# [[Revaluation Definition]]
 
 > ## Excerpt
 > A revaluation of a currency is an upward adjustment to a country's official exchange rate and is calculated relative to a chosen baseline.
 
 ---
 
-Revaluation Definition
+[[Revaluation Definition]]
 ## What Is a Revaluation?
 
 A revaluation is a calculated upward adjustment to a country's official [[exchange rate]](https://www.investopedia.com/terms/e/exchangerate.asp) relative to a chosen baseline. The baseline can include wage rates, the price of gold, or a foreign currency.
@@ -28,7 +28,7 @@ Revaluation is the opposite of [[devaluation]](https://www.investopedia.com/term
 
 ## Understanding a Revaluation
 
-In a [[fixed exchange rate]](https://www.investopedia.com/terms/f/fixedexchangerate.asp) regime, only a decision by a country's government, such as its [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp), can alter the official value of the currency. Developing economies are more likely to use a fixed-rate system in order to limit speculation and provide a stable system. A floating rate is the opposite of a fixed rate. In a floating rate environment, revaluation can occur on a regular basis, as seen by the observable fluctuations in the foreign currency market and the associated exchange rates.
+In a [[fixed exchange rate]](https://www.investopedia.com/terms/f/fixedexchangerate.asp) regime, only a decision by a country's government, such as its [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp), can alter the official value of the currency. Developing economies are more likely to use a fixed-rate system in order to limit [[Speculation|speculation]] and provide a stable system. A floating rate is the opposite of a fixed rate. In a floating rate environment, revaluation can occur on a regular basis, as seen by the observable fluctuations in the foreign currency market and the associated exchange rates.
 
 The U.S. had a fixed exchange rate until 1973 when President Richard Nixon removed the United States from the [gold standard](https://www.investopedia.com/terms/g/goldstandard.asp) and introduced a floating rate system. Although China has an advanced economy, it's currency has been fixed since 1994. Before the Chinese government revalued its currency, the yuan, in 2004, it was [[pegged to the U.S. dollar]](https://www.investopedia.com/terms/c/currency-peg.asp). After revaluation, it was pegged to a basket of world currencies.
 
@@ -40,4 +40,4 @@ For example, suppose a foreign government has set 10 units of its currency equal
 
 Currency revaluation can be triggered by a variety of events. Some of the more common causes include changes in the interest rates between various countries and large-scale events that affect the overall profitability, or competitiveness, of an economy. Changes in leadership can also cause fluctuations because they may signal a change in a particular market’s stability.
 
-Speculative demand can also affect the value of a currency. For example, in 2016, prior to the vote determining if Britain would remain part of the [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) (EU), speculation caused fluctuations in the value of multiple currencies, including the U.S. dollar and the Chinese yuan. Since it was not yet known at that time whether or not Britain would remain part of the EU, any action taken because of this possibility was considered speculative in nature.
+Speculative demand can also affect the value of a currency. For example, in 2016, prior to the vote determining if Britain would remain part of the [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) (EU), [[Speculation|speculation]] caused fluctuations in the value of multiple currencies, including the U.S. dollar and the Chinese yuan. Since it was not yet known at that time whether or not Britain would remain part of the EU, any action taken because of this possibility was considered speculative in nature.
