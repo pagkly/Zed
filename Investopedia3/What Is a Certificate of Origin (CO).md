@@ -1,5 +1,5 @@
 ---
-alias: [Certificate of Origin (CO)]
+alias: [Certificate of Origin, CO]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certificate of Origin (CO) Definition, What Is a Certificate of Origin (CO)?]
 source: https://www.investopedia.com/terms/c/certificate-of-origin.asp

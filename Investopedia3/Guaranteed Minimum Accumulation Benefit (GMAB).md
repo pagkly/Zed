@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Minimum Accumulation Benefit (GMAB)]
+alias: [Guaranteed Minimum Accumulation Benefit, GMAB]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Minimum Accumulation Benefit (GMAB) Definition, Guaranteed Minimum Accumulation Benefit (GMAB)]
 source: https://www.investopedia.com/terms/g/gmab.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Longevity Annuity Contract (QLAC)]
+alias: [Qualified Longevity Annuity Contract, QLAC]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Longevity Annuity Contract (QLAC) Definition, Qualified Longevity Annuity Contract (QLAC)]
 source: https://www.investopedia.com/terms/q/qualified-longevity-annuity-contract-qlac.asp

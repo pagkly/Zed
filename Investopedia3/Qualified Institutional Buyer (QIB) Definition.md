@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Institutional Buyer (QIB)]
+alias: [Qualified Institutional Buyer, QIB]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Institutional Buyer (QIB) Definition, Qualified Institutional Buyer (QIB) Definition]
 source: https://www.investopedia.com/terms/q/qib.asp

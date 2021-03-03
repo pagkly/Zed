@@ -1,5 +1,5 @@
 ---
-alias: [Export Credit Agency (ECA)]
+alias: [Export Credit Agency, ECA]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Export Credit Agency (ECA) Definition, Export Credit Agency Provides Support for International Business]
 source: https://www.investopedia.com/terms/e/export-credit-agency.asp

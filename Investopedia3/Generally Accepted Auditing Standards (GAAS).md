@@ -1,5 +1,5 @@
 ---
-alias: [Generally Accepted Auditing Standards (GAAS)]
+alias: [Generally Accepted Auditing Standards, GAAS]
 created: 2021-03-02T20:16:39 (UTC +11:00)
 tags: [Generally Accepted Auditing Standards (GAAS) Definition, Generally Accepted Auditing Standards (GAAS)]
 source: https://www.investopedia.com/terms/g/gaas.asp

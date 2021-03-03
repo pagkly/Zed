@@ -1,5 +1,5 @@
 ---
-alias: [Delivered at Frontier (DAF)]
+alias: [Delivered at Frontier, DAF]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Delivered at Frontier (DAF) Definition, How Delivered at Frontier (DAF) Matters]
 source: https://www.investopedia.com/terms/d/delivered-at-frontier.asp

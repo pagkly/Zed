@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Institutional Placement (QIP)]
+alias: [Qualified Institutional Placement, QIP]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Institutional Placement (QIP) Definition, Learn About Qualified Institutional Placement (QIP)]
 source: https://www.investopedia.com/terms/q/qip.asp

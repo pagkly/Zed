@@ -1,5 +1,5 @@
 ---
-alias: [Management Buyout (MBO)]
+alias: [Management Buyout, MBO]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Management Buyout (MBO) Definition, Why a Company Would Do a Management Buyout (MBO)]
 source: https://www.investopedia.com/terms/m/mbo.asp

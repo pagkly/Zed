@@ -1,5 +1,5 @@
 ---
-alias: [Graphics Processing Unit (GPU)]
+alias: [Graphics Processing Unit, GPU]
 created: 2021-03-02T20:25:17 (UTC +11:00)
 tags: [Graphics Processing Unit (GPU), Graphics Processing Unit (GPU)]
 source: https://www.investopedia.com/terms/g/graphics-processing-unit-gpu.asp

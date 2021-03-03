@@ -1,5 +1,5 @@
 ---
-alias: [Dematerialization (DEMAT)]
+alias: [Dematerialization, DEMAT]
 created: 2021-03-02T19:15:54 (UTC +11:00)
 tags: [Dematerialization (DEMAT) Definition, Understanding Dematerialization (DEMAT)]
 source: https://www.investopedia.com/terms/d/dematerialization.asp

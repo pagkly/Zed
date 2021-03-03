@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Realtors (NAR)]
+alias: [National Association of Realtors, NAR]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Association of Realtors (NAR), National Association of Realtors (NAR) Definition]
 source: https://www.investopedia.com/terms/n/national-association-of-realtors.asp

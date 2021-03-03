@@ -1,5 +1,5 @@
 ---
-alias: [Weighted Average Maturity - (WAM)]
+alias: [Weighted Average Maturity -, WAM]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weighted Average Maturity - (WAM), Weighted Average Maturity (WAM) Definition]
 source: https://www.investopedia.com/terms/w/weightedaveragematurity.asp

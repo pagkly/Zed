@@ -1,5 +1,5 @@
 ---
-alias: [Next-In, First-Out (NIFO)]
+alias: [Next-In, First-Out, NIFO]
 created: 2021-03-02T21:43:51 (UTC +11:00)
 tags: [Next-In, First-Out (NIFO), Next-In, First-Out (NIFO)]
 source: https://www.investopedia.com/terms/n/next-in-first-out.asp

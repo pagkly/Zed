@@ -1,5 +1,5 @@
 ---
-alias: [Generation X (Gen X)]
+alias: [Generation X, Gen X]
 created: 2021-03-02T20:16:40 (UTC +11:00)
 tags: [Generation X (Gen X) Definition, Generation X (Gen X)]
 source: https://www.investopedia.com/terms/g/generation-x-genx.asp

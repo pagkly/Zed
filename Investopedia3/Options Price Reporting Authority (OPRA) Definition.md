@@ -1,5 +1,5 @@
 ---
-alias: [Options Price Reporting Authority (OPRA)]
+alias: [Options Price Reporting Authority, OPRA]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Options Price Reporting Authority (OPRA), Options Price Reporting Authority (OPRA) Definition]
 source: https://www.investopedia.com/terms/o/opra.asp

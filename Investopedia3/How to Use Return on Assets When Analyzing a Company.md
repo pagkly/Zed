@@ -1,5 +1,5 @@
 ---
-alias: [Return on Assets (ROA)]
+alias: [Return on Assets, ROA]
 created: 2021-03-02T23:21:03 (UTC +11:00)
 tags: [Return on Assets (ROA) Definition, How to Use Return on Assets When Analyzing a Company]
 source: https://www.investopedia.com/terms/r/returnonassets.asp

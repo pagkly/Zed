@@ -1,5 +1,5 @@
 ---
-alias: [General and Administrative Expense (G&A)]
+alias: [General and Administrative Expense, G&A]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General and Administrative Expense (G&A) Definition, General and Administrative Expense (G&A)]
 source: https://www.investopedia.com/terms/g/general-and-administrative-expenses.asp

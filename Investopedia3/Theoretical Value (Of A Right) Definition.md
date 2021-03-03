@@ -1,5 +1,5 @@
 ---
-alias: [Theoretical Value (Of A Right)]
+alias: [Theoretical Value, Of A Right]
 created: 2021-03-02T23:58:34 (UTC +11:00)
 tags: [Theoretical Value (Of A Right) Definition, Theoretical Value (Of A Right) Definition]
 source: https://www.investopedia.com/terms/t/theoretical-value-of-a-right.asp

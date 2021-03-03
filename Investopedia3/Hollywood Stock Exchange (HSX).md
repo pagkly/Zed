@@ -1,5 +1,5 @@
 ---
-alias: [Hollywood Stock Exchange (HSX)]
+alias: [Hollywood Stock Exchange, HSX]
 created: 2021-03-02T20:47:35 (UTC +11:00)
 tags: [Hollywood Stock Exchange (HSX), Hollywood Stock Exchange (HSX)]
 source: https://www.investopedia.com/terms/h/hollywood-stock-exchange.asp

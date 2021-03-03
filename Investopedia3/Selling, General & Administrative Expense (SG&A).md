@@ -1,5 +1,5 @@
 ---
-alias: [Selling, General & Administrative Expense (SG&A)]
+alias: [Selling, General & Administrative Expense, SG&A]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Selling, General & Administrative Expense (SG&A) Definition, Selling, General & Administrative Expense (SG&A)]
 source: https://www.investopedia.com/terms/s/sga.asp

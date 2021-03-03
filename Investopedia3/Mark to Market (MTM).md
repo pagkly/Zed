@@ -1,5 +1,5 @@
 ---
-alias: [Mark to Market (MTM)]
+alias: [Mark to Market, MTM]
 created: 2021-03-02T21:59:05 (UTC +11:00)
 tags: [Mark to Market (MTM) Definition, Mark to Market (MTM)]
 source: https://www.investopedia.com/terms/m/marktomarket.asp

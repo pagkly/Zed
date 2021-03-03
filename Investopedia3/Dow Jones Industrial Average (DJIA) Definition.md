@@ -1,5 +1,5 @@
 ---
-alias: [Dow Jones Industrial Average (DJIA)]
+alias: [Dow Jones Industrial Average, DJIA]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Dow Jones Industrial Average (DJIA) Definition, Dow Jones Industrial Average (DJIA) Definition]
 source: https://www.investopedia.com/terms/d/djia.asp

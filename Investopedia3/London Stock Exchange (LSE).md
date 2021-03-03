@@ -1,5 +1,5 @@
 ---
-alias: [London Stock Exchange (LSE)]
+alias: [London Stock Exchange, LSE]
 created: 2021-03-02T21:25:56 (UTC +11:00)
 tags: [London Stock Exchange (LSE) Definition, London Stock Exchange (LSE)]
 source: https://www.investopedia.com/terms/l/lse.asp

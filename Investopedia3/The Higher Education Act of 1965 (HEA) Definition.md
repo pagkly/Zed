@@ -1,5 +1,5 @@
 ---
-alias: [The Higher Education Act of 1965 (HEA)]
+alias: [The Higher Education Act of 1965, HEA]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [The Higher Education Act of 1965 (HEA), The Higher Education Act of 1965 (HEA) Definition]
 source: https://www.investopedia.com/terms/h/higher-education-act-of-1965-hea.asp

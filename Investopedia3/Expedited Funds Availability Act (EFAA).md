@@ -1,5 +1,5 @@
 ---
-alias: [Expedited Funds Availability Act (EFAA)]
+alias: [Expedited Funds Availability Act, EFAA]
 created: 2021-03-02T19:48:22 (UTC +11:00)
 tags: [Expedited Funds Availability Act (EFAA) Definition, Expedited Funds Availability Act (EFAA)]
 source: https://www.investopedia.com/terms/e/expedited-funds-availability-act.asp

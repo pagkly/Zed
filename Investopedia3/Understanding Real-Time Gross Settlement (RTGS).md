@@ -1,5 +1,5 @@
 ---
-alias: [Real-Time Gross Settlement (RTGS)]
+alias: [Real-Time Gross Settlement, RTGS]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Real-Time Gross Settlement (RTGS) Definition, Understanding Real-Time Gross Settlement (RTGS)]
 source: https://www.investopedia.com/terms/r/rtgs.asp

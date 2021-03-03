@@ -1,5 +1,5 @@
 ---
-alias: [Direct Market Access (DMA)]
+alias: [Direct Market Access, DMA]
 created: 2021-03-02T19:20:34 (UTC +11:00)
 tags: [Direct Market Access (DMA) Definition, Direct Market Access (DMA)]
 source: https://www.investopedia.com/terms/d/directmarketaccess.asp

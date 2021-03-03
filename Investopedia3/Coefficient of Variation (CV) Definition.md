@@ -1,5 +1,5 @@
 ---
-alias: [Coefficient of Variation (CV)]
+alias: [Coefficient of Variation, CV]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Coefficient of Variation (CV), Coefficient of Variation (CV) Definition]
 source: https://www.investopedia.com/terms/c/coefficientofvariation.asp

@@ -1,5 +1,5 @@
 ---
-alias: [United States Department of Agriculture (USDA)]
+alias: [United States Department of Agriculture, USDA]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [United States Department of Agriculture (USDA) Definition, What Does the United States Department of Agriculture (USDA) Do?]
 source: https://www.investopedia.com/terms/u/usda.asp

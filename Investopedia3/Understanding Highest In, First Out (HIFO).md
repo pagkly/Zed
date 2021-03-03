@@ -1,5 +1,5 @@
 ---
-alias: [Highest In, First Out (HIFO)]
+alias: [Highest In, First Out, HIFO]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [Highest In, First Out (HIFO) Definition, Understanding Highest In, First Out (HIFO)]
 source: https://www.investopedia.com/terms/h/hifo.asp

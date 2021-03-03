@@ -1,5 +1,5 @@
 ---
-alias: [Global Depositary Receipt (GDR)]
+alias: [Global Depositary Receipt, GDR]
 created: 2021-03-02T20:18:45 (UTC +11:00)
 tags: [Global Depositary Receipt (GDR), Global Depositary Receipt (GDR)]
 source: https://www.investopedia.com/terms/g/gdr.asp

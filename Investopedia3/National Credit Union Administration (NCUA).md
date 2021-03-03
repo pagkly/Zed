@@ -1,5 +1,5 @@
 ---
-alias: [National Credit Union Administration (NCUA)]
+alias: [National Credit Union Administration, NCUA]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Credit Union Administration (NCUA) Definition, National Credit Union Administration (NCUA)]
 source: https://www.investopedia.com/terms/n/ncua.asp

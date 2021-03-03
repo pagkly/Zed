@@ -1,5 +1,5 @@
 ---
-alias: [National Market System (NMS)]
+alias: [National Market System, NMS]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Market System (NMS) Definition, National Market System (NMS) Definition]
 source: https://www.investopedia.com/terms/n/nms.asp

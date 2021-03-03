@@ -1,5 +1,5 @@
 ---
-alias: [Depreciation, Depletion, and Amortization (DD&A)]
+alias: [Depreciation, Depletion, and Amortization, DD&A]
 created: 2021-03-02T19:18:10 (UTC +11:00)
 tags: [Depreciation, Depletion, and Amortization (DD&A) Definition, Depreciation, Depletion, and Amortization (DD&A)]
 source: https://www.investopedia.com/terms/d/depreciation-depletion-and-amortization.asp

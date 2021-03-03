@@ -1,5 +1,5 @@
 ---
-alias: [Home Equity Conversion Mortgage (HECM)]
+alias: [Home Equity Conversion Mortgage, HECM]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Equity Conversion Mortgage (HECM) Definition, Home Equity Conversion Mortgage (HECM)]
 source: https://www.investopedia.com/terms/h/hecm.asp

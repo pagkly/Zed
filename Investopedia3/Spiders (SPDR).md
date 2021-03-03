@@ -1,5 +1,5 @@
 ---
-alias: [Spiders (SPDR)]
+alias: [Spiders, SPDR]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Spiders (SPDR), Spiders (SPDR)]
 source: https://www.investopedia.com/terms/s/spiders.asp

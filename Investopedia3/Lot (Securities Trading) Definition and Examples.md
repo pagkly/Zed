@@ -1,5 +1,5 @@
 ---
-alias: [Lot (Securities Trading)]
+alias: [Lot, Securities Trading]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Lot (Securities Trading) Definition, Lot (Securities Trading) Definition and Examples]
 source: https://www.investopedia.com/terms/l/lot.asp

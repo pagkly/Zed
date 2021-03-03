@@ -1,5 +1,5 @@
 ---
-alias: [Verge XVG (Cryptocurrency)]
+alias: [Verge XVG, Cryptocurrency]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Verge XVG (Cryptocurrency), Verge XVG (Cryptocurrency)]
 source: https://www.investopedia.com/terms/v/verge-xvg-cryptocurrency.asp

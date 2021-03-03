@@ -1,5 +1,5 @@
 ---
-alias: [Gross Domestic Product (GDP)]
+alias: [Gross Domestic Product, GDP]
 created: 2021-03-02T20:27:49 (UTC +11:00)
 tags: [Gross Domestic Product (GDP) Definition, Gross Domestic Product (GDP)]
 source: https://www.investopedia.com/terms/g/gdp.asp

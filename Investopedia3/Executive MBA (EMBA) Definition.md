@@ -1,5 +1,5 @@
 ---
-alias: [Executive MBA (EMBA)]
+alias: [Executive MBA, EMBA]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Executive MBA (EMBA) Definition, Executive MBA (EMBA) Definition]
 source: https://www.investopedia.com/terms/e/executive-mba.asp

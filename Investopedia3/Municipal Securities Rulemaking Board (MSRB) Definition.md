@@ -1,5 +1,5 @@
 ---
-alias: [Municipal Securities Rulemaking Board (MSRB)]
+alias: [Municipal Securities Rulemaking Board, MSRB]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Municipal Securities Rulemaking Board (MSRB), Municipal Securities Rulemaking Board (MSRB) Definition]
 source: https://www.investopedia.com/terms/m/msrb.asp

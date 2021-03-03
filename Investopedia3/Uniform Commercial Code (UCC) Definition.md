@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Commercial Code (UCC)]
+alias: [Uniform Commercial Code, UCC]
 created: 2021-03-03T00:21:22 (UTC +11:00)
 tags: [Uniform Commercial Code (UCC) Definition, Uniform Commercial Code (UCC) Definition]
 source: https://www.investopedia.com/terms/u/uniform-commercial-code.asp

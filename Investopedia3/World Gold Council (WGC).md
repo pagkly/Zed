@@ -1,5 +1,5 @@
 ---
-alias: [World Gold Council (WGC)]
+alias: [World Gold Council, WGC]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [World Gold Council (WGC), World Gold Council (WGC)]
 source: https://www.investopedia.com/terms/w/worldgoldcouncil.asp

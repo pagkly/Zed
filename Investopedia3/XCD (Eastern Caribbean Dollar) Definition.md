@@ -1,5 +1,5 @@
 ---
-alias: [XCD (Eastern Caribbean Dollar)]
+alias: [XCD, Eastern Caribbean Dollar]
 created: 2021-03-03T01:06:04 (UTC +11:00)
 tags: [XCD (Eastern Caribbean Dollar) Definition, XCD (Eastern Caribbean Dollar) Definition]
 source: https://www.investopedia.com/terms/x/xcd-eastern-caribbean-dollar.asp

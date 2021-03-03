@@ -1,5 +1,5 @@
 ---
-alias: [Reserve Bank of India (RBI)]
+alias: [Reserve Bank of India, RBI]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Reserve Bank of India (RBI) Definition, Reserve Bank of India (RBI)]
 source: https://www.investopedia.com/terms/r/rbi.asp

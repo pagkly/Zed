@@ -1,5 +1,5 @@
 ---
-alias: [Off-Balance Sheet Financing (OBSF)]
+alias: [Off-Balance Sheet Financing, OBSF]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Off-Balance Sheet Financing (OBSF) Definition, Off-Balance Sheet Financing (OBSF) Definition]
 source: https://www.investopedia.com/terms/o/obsf.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Revenue Per Available Room (RevPAR)]
+alias: [Revenue Per Available Room, RevPAR]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Per Available Room (RevPAR), Revenue Per Available Room (RevPAR)]
 source: https://www.investopedia.com/terms/r/revpar.asp

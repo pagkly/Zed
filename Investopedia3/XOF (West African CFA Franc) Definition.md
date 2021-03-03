@@ -1,5 +1,5 @@
 ---
-alias: [XOF (West African CFA Franc)]
+alias: [XOF, West African CFA Franc]
 created: 2021-03-03T00:54:54 (UTC +11:00)
 tags: [XOF (West African CFA Franc) Definition, XOF (West African CFA Franc) Definition]
 source: https://www.investopedia.com/terms/w/west-african-cfa-franc-xof.asp

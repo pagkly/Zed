@@ -1,5 +1,5 @@
 ---
-alias: [Management Discussion and Analysis (MD&A)]
+alias: [Management Discussion and Analysis, MD&A]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Management Discussion and Analysis (MD&A) Definition, Why You Should Read a 10-K's Management Discussion and Analysis (MD&A)]
 source: https://www.investopedia.com/terms/m/mdanalysis.asp

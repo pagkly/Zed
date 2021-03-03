@@ -1,5 +1,5 @@
 ---
-alias: [Employee Stock Purchase Plan (ESPP)]
+alias: [Employee Stock Purchase Plan, ESPP]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employee Stock Purchase Plan (ESPP), Employee Stock Purchase Plan (ESPP)]
 source: https://www.investopedia.com/terms/e/espp.asp

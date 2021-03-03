@@ -1,5 +1,5 @@
 ---
-alias: [Lancaster University Management School (LUMS)]
+alias: [Lancaster University Management School, LUMS]
 created: 2021-03-02T21:09:20 (UTC +11:00)
 tags: [Lancaster University Management School (LUMS), Lancaster University Management School (LUMS)]
 source: https://www.investopedia.com/terms/l/lancaster-university-management-school.asp

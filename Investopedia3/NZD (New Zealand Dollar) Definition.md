@@ -1,5 +1,5 @@
 ---
-alias: [NZD (New Zealand Dollar)]
+alias: [NZD, New Zealand Dollar]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [NZD (New Zealand Dollar), NZD (New Zealand Dollar) Definition]
 source: https://www.investopedia.com/terms/forex/n/nzd-new-zealand-dollar.asp

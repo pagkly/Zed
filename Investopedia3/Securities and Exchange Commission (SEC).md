@@ -1,5 +1,5 @@
 ---
-alias: [Securities and Exchange Commission (SEC)]
+alias: [Securities and Exchange Commission, SEC]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Securities and Exchange Commission (SEC) Definition, Securities and Exchange Commission (SEC)]
 source: https://www.investopedia.com/terms/s/sec.asp

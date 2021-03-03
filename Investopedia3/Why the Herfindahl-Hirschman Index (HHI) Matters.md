@@ -1,5 +1,5 @@
 ---
-alias: [Herfindahl-Hirschman Index (HHI)]
+alias: [Herfindahl-Hirschman Index, HHI]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Herfindahl-Hirschman Index (HHI) Definition, Why the Herfindahl-Hirschman Index (HHI) Matters]
 source: https://www.investopedia.com/terms/h/hhi.asp

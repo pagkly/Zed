@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Social Cost (MSC)]
+alias: [Marginal Social Cost, MSC]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Marginal Social Cost (MSC), Marginal Social Cost (MSC)]
 source: https://www.investopedia.com/terms/m/marginalsocialcost.asp

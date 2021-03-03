@@ -1,5 +1,5 @@
 ---
-alias: [High Earners, Not Rich Yet (HENRYs)]
+alias: [High Earners, Not Rich Yet, HENRYs]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High Earners, Not Rich Yet (HENRYs), High Earners, Not Rich Yet (HENRYs)]
 source: https://www.investopedia.com/terms/h/high-earners-not-yet-rich-henrys.asp

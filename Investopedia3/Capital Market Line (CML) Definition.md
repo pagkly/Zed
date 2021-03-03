@@ -1,5 +1,5 @@
 ---
-alias: [Capital Market Line (CML)]
+alias: [Capital Market Line, CML]
 created: 2021-03-02T18:46:50 (UTC +11:00)
 tags: [Capital Market Line (CML) Definition, Capital Market Line (CML) Definition]
 source: https://www.investopedia.com/terms/c/cml.asp

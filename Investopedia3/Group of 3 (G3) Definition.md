@@ -1,5 +1,5 @@
 ---
-alias: [Group of 3 (G3)]
+alias: [Group of 3, G3]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of 3 (G3) Definition, Group of 3 (G3) Definition]
 source: https://www.investopedia.com/terms/g/group-of-3.asp

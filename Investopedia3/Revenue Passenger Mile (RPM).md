@@ -1,5 +1,5 @@
 ---
-alias: [Revenue Passenger Mile (RPM)]
+alias: [Revenue Passenger Mile, RPM]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Passenger Mile (RPM), Revenue Passenger Mile (RPM)]
 source: https://www.investopedia.com/terms/r/revenue-passenger-mile-rpm.asp

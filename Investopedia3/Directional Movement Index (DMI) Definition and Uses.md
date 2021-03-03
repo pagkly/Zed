@@ -1,5 +1,5 @@
 ---
-alias: [Directional Movement Index (DMI)]
+alias: [Directional Movement Index, DMI]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [Directional Movement Index (DMI) Definition, Directional Movement Index (DMI) Definition and Uses]
 source: https://www.investopedia.com/terms/d/dmi.asp

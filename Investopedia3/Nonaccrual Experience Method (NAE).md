@@ -1,5 +1,5 @@
 ---
-alias: [Nonaccrual Experience Method (NAE)]
+alias: [Nonaccrual Experience Method, NAE]
 created: 2021-03-02T21:48:20 (UTC +11:00)
 tags: [Nonaccrual Experience Method (NAE), Nonaccrual Experience Method (NAE)]
 source: https://www.investopedia.com/terms/n/nonaccrual-experience-method.asp

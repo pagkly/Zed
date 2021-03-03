@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Bank Performance Report (UBPR)]
+alias: [Uniform Bank Performance Report, UBPR]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Uniform Bank Performance Report (UBPR), Uniform Bank Performance Report (UBPR)]
 source: https://www.investopedia.com/terms/u/uniform-bank-perf.asp

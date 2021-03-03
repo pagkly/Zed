@@ -1,5 +1,5 @@
 ---
-alias: [Farmers Home Administration (FmHA)]
+alias: [Farmers Home Administration, FmHA]
 created: 2021-03-02T19:52:35 (UTC +11:00)
 tags: [Farmers Home Administration (FmHA), Farmers Home Administration (FmHA)]
 source: https://www.investopedia.com/terms/f/farmers-home-administration-fmha.asp

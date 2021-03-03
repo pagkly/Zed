@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Insurance Commissioners (NAIC)]
+alias: [National Association of Insurance Commissioners, NAIC]
 created: 2021-03-02T21:32:16 (UTC +11:00)
 tags: [National Association of Insurance Commissioners (NAIC) Definition, National Association of Insurance Commissioners (NAIC)]
 source: https://www.investopedia.com/terms/n/nainsurancec.asp

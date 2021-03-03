@@ -1,5 +1,5 @@
 ---
-alias: [Net Interest Rate Differential (NIRD)]
+alias: [Net Interest Rate Differential, NIRD]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Interest Rate Differential (NIRD) Definition, What the Net Interest Rate Differential (NIRD) Tells Us]
 source: https://www.investopedia.com/terms/n/net-interest-rate-differential.asp

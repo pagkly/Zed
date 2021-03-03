@@ -1,5 +1,5 @@
 ---
-alias: [Hong Kong Interbank Offered Rate (HIBOR)]
+alias: [Hong Kong Interbank Offered Rate, HIBOR]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Hong Kong Interbank Offered Rate (HIBOR), Hong Kong Interbank Offered Rate (HIBOR)]
 source: https://www.investopedia.com/terms/h/hibor.asp

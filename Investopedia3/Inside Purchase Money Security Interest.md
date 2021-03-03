@@ -1,5 +1,5 @@
 ---
-alias: [Purchase Money Security Interest (PMSI)]
+alias: [Purchase Money Security Interest, PMSI]
 created: 2021-03-02T22:58:52 (UTC +11:00)
 tags: [Purchase Money Security Interest (PMSI) Definition, Inside Purchase Money Security Interest]
 source: https://www.investopedia.com/terms/p/purchase-money-security-interest-pmsi.asp

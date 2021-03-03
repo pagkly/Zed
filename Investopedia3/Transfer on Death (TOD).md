@@ -1,5 +1,5 @@
 ---
-alias: [Transfer on Death (TOD)]
+alias: [Transfer on Death, TOD]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Transfer on Death (TOD), Transfer on Death (TOD)]
 source: https://www.investopedia.com/terms/t/transferondeath.asp

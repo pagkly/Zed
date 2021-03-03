@@ -1,5 +1,5 @@
 ---
-alias: [General Data Protection Regulation (GDPR)]
+alias: [General Data Protection Regulation, GDPR]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Data Protection Regulation (GDPR) Definition, General Data Protection Regulation (GDPR)]
 source: https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp

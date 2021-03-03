@@ -1,5 +1,5 @@
 ---
-alias: [Supply Chain Management (SCM)]
+alias: [Supply Chain Management, SCM]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Supply Chain Management (SCM) Definition, Supply Chain Management (SCM): What You Need to Know]
 source: https://www.investopedia.com/terms/s/scm.asp

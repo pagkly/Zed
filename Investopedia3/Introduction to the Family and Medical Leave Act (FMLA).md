@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to the Family and Medical Leave Act (FMLA)]
+alias: [Introduction to the Family and Medical Leave Act, FMLA]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Introduction to the Family and Medical Leave Act (FMLA), Introduction to the Family and Medical Leave Act (FMLA)]
 source: https://www.investopedia.com/terms/f/family-and-medical-leave-act.asp

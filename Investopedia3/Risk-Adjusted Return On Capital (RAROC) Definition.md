@@ -1,5 +1,5 @@
 ---
-alias: [Risk-Adjusted Return On Capital (RAROC)]
+alias: [Risk-Adjusted Return On Capital, RAROC]
 created: 2021-03-02T23:23:35 (UTC +11:00)
 tags: [Risk-Adjusted Return On Capital (RAROC), Risk-Adjusted Return On Capital (RAROC) Definition]
 source: https://www.investopedia.com/terms/r/raroc.asp

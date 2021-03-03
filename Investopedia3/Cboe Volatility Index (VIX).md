@@ -1,5 +1,5 @@
 ---
-alias: [Cboe Volatility Index (VIX)]
+alias: [Cboe Volatility Index, VIX]
 created: 2021-03-03T00:42:26 (UTC +11:00)
 tags: [Cboe Volatility Index (VIX) Definition, Cboe Volatility Index (VIX)]
 source: https://www.investopedia.com/terms/v/vix.asp

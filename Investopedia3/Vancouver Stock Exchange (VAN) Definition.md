@@ -1,5 +1,5 @@
 ---
-alias: [Vancouver Stock Exchange (VAN)]
+alias: [Vancouver Stock Exchange, VAN]
 created: 2021-03-03T00:34:23 (UTC +11:00)
 tags: [Vancouver Stock Exchange (VAN) Definition, Vancouver Stock Exchange (VAN) Definition]
 source: https://www.investopedia.com/terms/v/vancouver-stock-exchange-van-.v.asp

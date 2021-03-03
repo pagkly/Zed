@@ -1,5 +1,5 @@
 ---
-alias: [Nominated Advisor (NOMAD)]
+alias: [Nominated Advisor, NOMAD]
 created: 2021-03-02T21:43:52 (UTC +11:00)
 tags: [Nominated Advisor (NOMAD) Definition, Nominated Advisor (NOMAD)]
 source: https://www.investopedia.com/terms/n/nominatedadvisor.asp

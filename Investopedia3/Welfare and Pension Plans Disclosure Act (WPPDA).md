@@ -1,5 +1,5 @@
 ---
-alias: [Welfare and Pension Plans Disclosure Act (WPPDA)]
+alias: [Welfare and Pension Plans Disclosure Act, WPPDA]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Welfare and Pension Plans Disclosure Act (WPPDA) Definition, Welfare and Pension Plans Disclosure Act (WPPDA)]
 source: https://www.investopedia.com/terms/w/welfare-and-pension-plans-disclosure-act.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Net Present Value of Growth Opportunities (NPVGO)]
+alias: [Net Present Value of Growth Opportunities, NPVGO]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Present Value of Growth Opportunities (NPVGO) Definition, Net Present Value of Growth Opportunities (NPVGO) Definition]
 source: https://www.investopedia.com/terms/n/npvgo.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Share of Wallet (SOW)]
+alias: [Share of Wallet, SOW]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Share of Wallet (SOW) Definition, What Share of Wallet (SOW) Tells Us]
 source: https://www.investopedia.com/terms/s/share-of-wallet.asp

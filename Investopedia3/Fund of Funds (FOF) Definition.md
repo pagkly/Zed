@@ -1,5 +1,5 @@
 ---
-alias: [Fund of Funds (FOF)]
+alias: [Fund of Funds, FOF]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Fund of Funds (FOF) Definition, Fund of Funds (FOF) Definition]
 source: https://www.investopedia.com/terms/f/fundsoffunds.asp

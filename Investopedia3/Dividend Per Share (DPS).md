@@ -1,5 +1,5 @@
 ---
-alias: [Dividend Per Share (DPS)]
+alias: [Dividend Per Share, DPS]
 created: 2021-03-02T19:24:42 (UTC +11:00)
 tags: [Dividend Per Share (DPS), Dividend Per Share (DPS)]
 source: https://www.investopedia.com/terms/d/dividend-per-share.asp

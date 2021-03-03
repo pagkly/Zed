@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Automatic Contribution Arrangement (QACA)]
+alias: [Qualified Automatic Contribution Arrangement, QACA]
 created: 2021-03-02T22:58:54 (UTC +11:00)
 tags: [Qualified Automatic Contribution Arrangement (QACA) Definition, Qualified Automatic Contribution Arrangement (QACA)]
 source: https://www.investopedia.com/terms/q/qualified-automatic-contribution-arrangements-qacas.asp

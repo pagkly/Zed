@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Minimum Income Benefit (GMIB)]
+alias: [Guaranteed Minimum Income Benefit, GMIB]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Minimum Income Benefit (GMIB), Guaranteed Minimum Income Benefit (GMIB) Definition]
 source: https://www.investopedia.com/terms/g/gmib.asp

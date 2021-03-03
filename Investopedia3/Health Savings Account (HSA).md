@@ -1,5 +1,5 @@
 ---
-alias: [Health Savings Account (HSA)]
+alias: [Health Savings Account, HSA]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Health Savings Account (HSA) Definition, Health Savings Account (HSA)]
 source: https://www.investopedia.com/terms/h/hsa.asp

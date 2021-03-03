@@ -1,5 +1,5 @@
 ---
-alias: [World Trade Organization (WTO)]
+alias: [World Trade Organization, WTO]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [World Trade Organization (WTO) Definition, How Best to Define the World Trade Organization (WTO)]
 source: https://www.investopedia.com/terms/w/wto.asp

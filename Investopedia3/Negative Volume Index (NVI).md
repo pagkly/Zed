@@ -1,5 +1,5 @@
 ---
-alias: [Negative Volume Index (NVI)]
+alias: [Negative Volume Index, NVI]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negative Volume Index (NVI), Negative Volume Index (NVI)]
 source: https://www.investopedia.com/terms/n/nvi.asp

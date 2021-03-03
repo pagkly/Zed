@@ -1,5 +1,5 @@
 ---
-alias: [Government Accounting Standards Board (GASB)]
+alias: [Government Accounting Standards Board, GASB]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government Accounting Standards Board (GASB) Definition, Government Accounting Standards Board (GASB)]
 source: https://www.investopedia.com/terms/g/government-accounting-standards-board-gasb.asp

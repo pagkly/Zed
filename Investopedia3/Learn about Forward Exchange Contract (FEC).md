@@ -1,5 +1,5 @@
 ---
-alias: [Forward Exchange Contract (FEC)]
+alias: [Forward Exchange Contract, FEC]
 created: 2021-03-02T20:05:34 (UTC +11:00)
 tags: [Forward Exchange Contract (FEC) Definition, Learn about Forward Exchange Contract (FEC)]
 source: https://www.investopedia.com/terms/f/forward-exchange-contract.asp

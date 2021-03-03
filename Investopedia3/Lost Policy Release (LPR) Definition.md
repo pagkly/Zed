@@ -1,5 +1,5 @@
 ---
-alias: [Lost Policy Release (LPR)]
+alias: [Lost Policy Release, LPR]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Lost Policy Release (LPR) Definition, Lost Policy Release (LPR) Definition]
 source: https://www.investopedia.com/terms/l/lost-policy-release-lpr.asp

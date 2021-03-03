@@ -1,5 +1,5 @@
 ---
-alias: [Multilateral Investment Guarantee Agency (MIGA)]
+alias: [Multilateral Investment Guarantee Agency, MIGA]
 created: 2021-03-02T22:11:44 (UTC +11:00)
 tags: [Multilateral Investment Guarantee Agency (MIGA), Multilateral Investment Guarantee Agency (MIGA)]
 source: https://www.investopedia.com/terms/m/multilateral-investment-guarantee-agency-miga.asp

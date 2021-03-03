@@ -1,5 +1,5 @@
 ---
-alias: [Emerging Markets Bond Index (EMBI)]
+alias: [Emerging Markets Bond Index, EMBI]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Emerging Markets Bond Index (EMBI), Emerging Markets Bond Index (EMBI) Definition]
 source: https://www.investopedia.com/terms/e/emerging-markets-bond-index.asp

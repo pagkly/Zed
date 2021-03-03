@@ -1,5 +1,5 @@
 ---
-alias: [European Economic and Monetary Union (EMU)]
+alias: [European Economic and Monetary Union, EMU]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Economic and Monetary Union (EMU), European Economic and Monetary Union (EMU) Definition]
 source: https://www.investopedia.com/terms/e/emu.asp

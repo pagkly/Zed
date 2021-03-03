@@ -1,5 +1,5 @@
 ---
-alias: [European Monetary System (EMS)]
+alias: [European Monetary System, EMS]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Monetary System (EMS) Definition, European Monetary System (EMS) Definition]
 source: https://www.investopedia.com/terms/e/ems.asp

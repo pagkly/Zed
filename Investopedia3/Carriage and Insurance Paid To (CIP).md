@@ -1,5 +1,5 @@
 ---
-alias: [Carriage and Insurance Paid To (CIP)]
+alias: [Carriage and Insurance Paid To, CIP]
 created: 2021-03-02T18:46:50 (UTC +11:00)
 tags: [Carriage and Insurance Paid To (CIP) Definition, Carriage and Insurance Paid To (CIP)]
 source: https://www.investopedia.com/terms/c/carriage-and-insurance-paid-cip.asp

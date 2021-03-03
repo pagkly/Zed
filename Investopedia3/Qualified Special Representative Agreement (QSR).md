@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Special Representative Agreement (QSR)]
+alias: [Qualified Special Representative Agreement, QSR]
 created: 2021-03-02T23:01:00 (UTC +11:00)
 tags: [Qualified Special Representative Agreement (QSR), Qualified Special Representative Agreement (QSR)]
 source: https://www.investopedia.com/terms/q/qsr.asp

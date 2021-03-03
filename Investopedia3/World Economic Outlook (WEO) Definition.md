@@ -1,5 +1,5 @@
 ---
-alias: [World Economic Outlook (WEO)]
+alias: [World Economic Outlook, WEO]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [World Economic Outlook (WEO) Definition, World Economic Outlook (WEO) Definition]
 source: https://www.investopedia.com/terms/w/world-economic-outlook.asp

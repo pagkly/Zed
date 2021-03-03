@@ -1,5 +1,5 @@
 ---
-alias: [Jumpstart Our Business Startups Act (JOBS)]
+alias: [Jumpstart Our Business Startups Act, JOBS]
 created: 2021-03-02T21:02:46 (UTC +11:00)
 tags: [Jumpstart Our Business Startups Act (JOBS), Jumpstart Our Business Startups Act (JOBS)]
 source: https://www.investopedia.com/terms/j/jumpstart-our-business-startups-act-jobs.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Open Market Operations (OMO)]
+alias: [Open Market Operations, OMO]
 created: 2021-03-02T22:22:11 (UTC +11:00)
 tags: [Open Market Operations (OMO) Definition, How the Fed's Open Market Operations Work]
 source: https://www.investopedia.com/terms/o/openmarketoperations.asp

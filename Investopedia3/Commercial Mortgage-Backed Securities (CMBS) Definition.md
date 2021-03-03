@@ -1,5 +1,5 @@
 ---
-alias: [Commercial Mortgage-Backed Securities (CMBS)]
+alias: [Commercial Mortgage-Backed Securities, CMBS]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Commercial Mortgage-Backed Securities (CMBS) Definition, Commercial Mortgage-Backed Securities (CMBS) Definition]
 source: https://www.investopedia.com/terms/c/cmbs.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Maximum Drawdown (MDD)]
+alias: [Maximum Drawdown, MDD]
 created: 2021-03-02T22:01:11 (UTC +11:00)
 tags: [Maximum Drawdown (MDD) Definition, Maximum Drawdown (MDD) Definition]
 source: https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Veterans Group Life Insurance (VGLI)]
+alias: [Veterans Group Life Insurance, VGLI]
 created: 2021-03-03T00:40:25 (UTC +11:00)
 tags: [Veterans Group Life Insurance (VGLI), Veterans Group Life Insurance (VGLI)]
 source: https://www.investopedia.com/terms/v/veterans-group-life-insurance-vgli.asp

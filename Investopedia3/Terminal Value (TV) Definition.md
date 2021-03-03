@@ -1,5 +1,5 @@
 ---
-alias: [Terminal Value (TV)]
+alias: [Terminal Value, TV]
 created: 2021-03-02T23:58:34 (UTC +11:00)
 tags: [Terminal Value (TV) Definition, Terminal Value (TV) Definition]
 source: https://www.investopedia.com/terms/t/terminalvalue.asp

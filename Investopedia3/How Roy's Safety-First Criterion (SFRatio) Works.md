@@ -1,5 +1,5 @@
 ---
-alias: [Roy's Safety-First Criterion (SFRatio)]
+alias: [Roy's Safety-First Criterion, SFRatio]
 created: 2021-03-02T23:27:50 (UTC +11:00)
 tags: [Roy's Safety-First Criterion (SFRatio) Definition, How Roy's Safety-First Criterion (SFRatio) Works]
 source: https://www.investopedia.com/terms/r/roys-safety-first-criterion.asp

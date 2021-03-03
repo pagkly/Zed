@@ -1,5 +1,5 @@
 ---
-alias: [Renewable Energy Certificate (REC)]
+alias: [Renewable Energy Certificate, REC]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Renewable Energy Certificate (REC) Definition, Renewable Energy Certificate (REC)]
 source: https://www.investopedia.com/terms/r/rec.asp

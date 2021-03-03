@@ -1,5 +1,5 @@
 ---
-alias: [Net Foreign Assets (NFA)]
+alias: [Net Foreign Assets, NFA]
 created: 2021-03-02T21:39:25 (UTC +11:00)
 tags: [Net Foreign Assets (NFA) Definition, Net Foreign Assets (NFA) Definition]
 source: https://www.investopedia.com/terms/n/net-foreign-assets-nfa.asp

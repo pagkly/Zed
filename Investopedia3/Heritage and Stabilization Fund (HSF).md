@@ -1,5 +1,5 @@
 ---
-alias: [Heritage and Stabilization Fund (HSF)]
+alias: [Heritage and Stabilization Fund, HSF]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Heritage and Stabilization Fund (HSF), Heritage and Stabilization Fund (HSF)]
 source: https://www.investopedia.com/terms/h/heritage-and-stabilization-fund.asp

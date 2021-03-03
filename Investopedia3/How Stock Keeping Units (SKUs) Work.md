@@ -1,5 +1,5 @@
 ---
-alias: [Stock Keeping Unit (SKU)]
+alias: [Stock Keeping Unit, SKU]
 created: 2021-03-02T23:45:23 (UTC +11:00)
 tags: [Stock Keeping Unit (SKU) Definition, How Stock Keeping Units (SKUs) Work]
 source: https://www.investopedia.com/terms/s/stock-keeping-unit-sku.asp

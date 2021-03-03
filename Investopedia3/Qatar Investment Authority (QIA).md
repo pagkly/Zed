@@ -1,5 +1,5 @@
 ---
-alias: [Qatar Investment Authority (QIA)]
+alias: [Qatar Investment Authority, QIA]
 created: 2021-03-02T22:58:53 (UTC +11:00)
 tags: [Qatar Investment Authority (QIA), Qatar Investment Authority (QIA)]
 source: https://www.investopedia.com/terms/q/qia.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Quantity-Adjusting Option (Quanto Option)]
+alias: [Quantity-Adjusting Option, Quanto Option]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quantity-Adjusting Option (Quanto Option), Quantity-Adjusting Option (Quanto Option)]
 source: https://www.investopedia.com/terms/q/quantooption.asp

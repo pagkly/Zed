@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to the Qatari Riyal (QAR)]
+alias: [Introduction to the Qatari Riyal, QAR]
 created: 2021-03-02T22:58:53 (UTC +11:00)
 tags: [Introduction to the Qatari Riyal (QAR), Introduction to the Qatari Riyal (QAR)]
 source: https://www.investopedia.com/terms/q/qar-qatar-riyal.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Reverse Takeover (RTO)]
+alias: [Reverse Takeover, RTO]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Reverse Takeover (RTO) Definition, How a Reverse Takeover (RTO) Works]
 source: https://www.investopedia.com/terms/r/reversetakeover.asp

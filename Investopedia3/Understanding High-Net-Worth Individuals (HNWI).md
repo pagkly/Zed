@@ -1,5 +1,5 @@
 ---
-alias: [High-Net-Worth Individual (HNWI)]
+alias: [High-Net-Worth Individual, HNWI]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Net-Worth Individual (HNWI) Definition, Understanding High-Net-Worth Individuals (HNWI)]
 source: https://www.investopedia.com/terms/h/hnwi.asp

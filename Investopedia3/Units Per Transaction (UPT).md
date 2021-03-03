@@ -1,5 +1,5 @@
 ---
-alias: [Units Per Transaction (UPT)]
+alias: [Units Per Transaction, UPT]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Units Per Transaction (UPT) Definition, Units Per Transaction (UPT)]
 source: https://www.investopedia.com/terms/u/units-per-transaction.asp

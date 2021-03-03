@@ -1,5 +1,5 @@
 ---
-alias: [Sales and Purchase Agreement (SPA)]
+alias: [Sales and Purchase Agreement, SPA]
 created: 2021-03-02T23:29:56 (UTC +11:00)
 tags: [Sales and Purchase Agreement (SPA) Definition, Sales and Purchase Agreement (SPA)]
 source: https://www.investopedia.com/terms/s/salesandpurchase.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Payments Network (EPN)]
+alias: [Electronic Payments Network, EPN]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Payments Network (EPN) Definition, Electronic Payments Network (EPN) Definition]
 source: https://www.investopedia.com/terms/e/epn.asp

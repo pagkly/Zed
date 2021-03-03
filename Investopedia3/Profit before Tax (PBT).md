@@ -1,5 +1,5 @@
 ---
-alias: [Profit before Tax (PBT)]
+alias: [Profit before Tax, PBT]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Profit before Tax (PBT) Definition, Profit before Tax (PBT)]
 source: https://www.investopedia.com/terms/p/profitbeforetax.asp

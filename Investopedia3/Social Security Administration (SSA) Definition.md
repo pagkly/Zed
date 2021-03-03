@@ -1,5 +1,5 @@
 ---
-alias: [Social Security Administration (SSA)]
+alias: [Social Security Administration, SSA]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Social Security Administration (SSA), Social Security Administration (SSA) Definition]
 source: https://www.investopedia.com/terms/s/ssa.asp

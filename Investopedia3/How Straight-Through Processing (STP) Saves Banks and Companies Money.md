@@ -1,5 +1,5 @@
 ---
-alias: [Straight-Through Processing (STP)]
+alias: [Straight-Through Processing, STP]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Straight-Through Processing (STP) Definition, How Straight-Through Processing (STP) Saves Banks and Companies Money]
 source: https://www.investopedia.com/terms/s/straightthroughprocessing.asp

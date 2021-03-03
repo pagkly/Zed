@@ -1,5 +1,5 @@
 ---
-alias: [Know Sure Thing (KST)]
+alias: [Know Sure Thing, KST]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [Know Sure Thing (KST), Know Sure Thing (KST)]
 source: https://www.investopedia.com/terms/k/know-sure-thing-kst.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Future Value (FV)]
+alias: [Future Value, FV]
 created: 2021-03-02T20:12:34 (UTC +11:00)
 tags: [Future Value (FV) Definition, Future Value (FV)]
 source: https://www.investopedia.com/terms/f/futurevalue.asp

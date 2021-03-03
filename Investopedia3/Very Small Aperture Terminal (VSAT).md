@@ -1,5 +1,5 @@
 ---
-alias: [Very Small Aperture Terminal (VSAT)]
+alias: [Very Small Aperture Terminal, VSAT]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Very Small Aperture Terminal (VSAT) Definition, Very Small Aperture Terminal (VSAT)]
 source: https://www.investopedia.com/terms/v/vsat.asp

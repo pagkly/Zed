@@ -1,5 +1,5 @@
 ---
-alias: [General Order (GO)]
+alias: [General Order, GO]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Order (GO) Definition, General Order (GO): Unclaimed Imported Goods Held by U.S. Customs]
 source: https://www.investopedia.com/terms/g/general-order.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Investment Fund (GIF)]
+alias: [Guaranteed Investment Fund, GIF]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Investment Fund (GIF), Introduction to Guaranteed Investment Fund (GIF)]
 source: https://www.investopedia.com/terms/g/guaranteed_investment_fund.asp

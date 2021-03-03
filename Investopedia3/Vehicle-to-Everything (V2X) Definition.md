@@ -1,5 +1,5 @@
 ---
-alias: [Vehicle-to-Everything (V2X)]
+alias: [Vehicle-to-Everything, V2X]
 created: 2021-03-03T00:32:20 (UTC +11:00)
 tags: [Vehicle-to-Everything (V2X) Definition, Vehicle-to-Everything (V2X) Definition]
 source: https://www.investopedia.com/terms/v/v2x-vehicletovehicle-or-vehicletoinfrastructure.asp

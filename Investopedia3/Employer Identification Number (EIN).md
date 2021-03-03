@@ -1,5 +1,5 @@
 ---
-alias: [Employer Identification Number (EIN)]
+alias: [Employer Identification Number, EIN]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employer Identification Number (EIN) Definition, Employer Identification Number (EIN)]
 source: https://www.investopedia.com/terms/e/employer-identification-number.asp

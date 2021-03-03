@@ -1,5 +1,5 @@
 ---
-alias: [Other Real Estate Owned (OREO)]
+alias: [Other Real Estate Owned, OREO]
 created: 2021-03-02T22:31:34 (UTC +11:00)
 tags: [Other Real Estate Owned (OREO) Definition, Other Real Estate Owned (OREO)]
 source: https://www.investopedia.com/terms/o/other-real-estate-owned-oreo.asp

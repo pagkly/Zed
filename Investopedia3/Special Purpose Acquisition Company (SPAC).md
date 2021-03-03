@@ -1,5 +1,5 @@
 ---
-alias: [Special Purpose Acquisition Company (SPAC)]
+alias: [Special Purpose Acquisition Company, SPAC]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Special Purpose Acquisition Company (SPAC) Definition, Special Purpose Acquisition Company (SPAC)]
 source: https://www.investopedia.com/terms/s/spac.asp

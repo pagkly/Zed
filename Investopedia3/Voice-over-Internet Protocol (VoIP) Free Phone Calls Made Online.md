@@ -1,5 +1,5 @@
 ---
-alias: [Voice-over-Internet Protocol (VoIP)]
+alias: [Voice-over-Internet Protocol, VoIP]
 created: 2021-03-03T00:42:27 (UTC +11:00)
 tags: [Voice-over-Internet Protocol (VoIP) Definition, Voice-over-Internet Protocol (VoIP): Free Phone Calls Made Online]
 source: https://www.investopedia.com/terms/v/voiceoverinternet-protocol-voip.asp

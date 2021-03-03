@@ -1,5 +1,5 @@
 ---
-alias: [Nonprofit Organization (NPO)]
+alias: [Nonprofit Organization, NPO]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Nonprofit Organization (NPO), Nonprofit Organization (NPO)]
 source: https://www.investopedia.com/terms/n/non-profitorganization.asp

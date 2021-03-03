@@ -1,5 +1,5 @@
 ---
-alias: [Options Clearing Corporation (OCC)]
+alias: [Options Clearing Corporation, OCC]
 created: 2021-03-02T22:26:39 (UTC +11:00)
 tags: [Options Clearing Corporation (OCC) Definition, Options Clearing Corporation (OCC)]
 source: https://www.investopedia.com/terms/o/occ.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Cost Per Thousand (CPM)]
+alias: [Cost Per Thousand, CPM]
 created: 2021-03-02T19:02:27 (UTC +11:00)
 tags: [Cost Per Thousand (CPM) Definition, Cost Per Thousand (CPM)]
 source: https://www.investopedia.com/terms/c/cpm.asp

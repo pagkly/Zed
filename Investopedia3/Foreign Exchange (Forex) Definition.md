@@ -1,5 +1,5 @@
 ---
-alias: [Foreign Exchange (Forex)]
+alias: [Foreign Exchange, Forex]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [Foreign Exchange (Forex) Definition, Foreign Exchange (Forex) Definition]
 source: https://www.investopedia.com/terms/f/foreign-exchange.asp

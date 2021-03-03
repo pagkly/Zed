@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Federal Credit Unions (NAFCU)]
+alias: [National Association of Federal Credit Unions, NAFCU]
 created: 2021-03-02T21:32:15 (UTC +11:00)
 tags: [National Association of Federal Credit Unions (NAFCU), National Association of Federal Credit Unions (NAFCU)]
 source: https://www.investopedia.com/terms/n/national-association-federal-credit-unions.asp

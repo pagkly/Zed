@@ -1,5 +1,5 @@
 ---
-alias: [Recency, Frequency, Monetary Value (RFM)]
+alias: [Recency, Frequency, Monetary Value, RFM]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Recency, Frequency, Monetary Value (RFM) Definition, Inside Recency, Frequency, Monetary Value (RFM)]
 source: https://www.investopedia.com/terms/r/rfm-recency-frequency-monetary-value.asp

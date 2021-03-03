@@ -1,5 +1,5 @@
 ---
-alias: [Federal Reserve Board (FRB)]
+alias: [Federal Reserve Board, FRB]
 created: 2021-03-02T19:52:37 (UTC +11:00)
 tags: [Federal Reserve Board (FRB) Definition, Federal Reserve Board (FRB) Definition]
 source: https://www.investopedia.com/terms/f/frb.asp

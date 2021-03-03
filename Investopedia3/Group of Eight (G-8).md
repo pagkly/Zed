@@ -1,5 +1,5 @@
 ---
-alias: [Group of Eight (G-8)]
+alias: [Group of Eight, G-8]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of Eight (G-8) Definition, Group of Eight (G-8)]
 source: https://www.investopedia.com/terms/g/g8.asp

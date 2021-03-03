@@ -1,5 +1,5 @@
 ---
-alias: [Fiscal Year (FY)]
+alias: [Fiscal Year, FY]
 created: 2021-03-02T19:59:10 (UTC +11:00)
 tags: [Fiscal Year (FY) Definition, Fiscal Year (FY) Definition]
 source: https://www.investopedia.com/terms/f/fiscalyear.asp

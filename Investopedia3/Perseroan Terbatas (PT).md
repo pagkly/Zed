@@ -1,5 +1,5 @@
 ---
-alias: [Perseroan Terbatas (PT)]
+alias: [Perseroan Terbatas, PT]
 created: 2021-03-02T22:42:33 (UTC +11:00)
 tags: [Perseroan Terbatas (PT) Definition, Perseroan Terbatas (PT)]
 source: https://www.investopedia.com/terms/p/pt-perseroan-terbatas.asp

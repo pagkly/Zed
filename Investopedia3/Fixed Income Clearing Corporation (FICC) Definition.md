@@ -1,5 +1,5 @@
 ---
-alias: [Fixed Income Clearing Corporation (FICC)]
+alias: [Fixed Income Clearing Corporation, FICC]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Fixed Income Clearing Corporation (FICC) Definition, Fixed Income Clearing Corporation (FICC) Definition]
 source: https://www.investopedia.com/terms/f/ficc.asp

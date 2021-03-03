@@ -1,5 +1,5 @@
 ---
-alias: [Errors and Omissions Insurance (E&O)]
+alias: [Errors and Omissions Insurance, E&O]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Errors and Omissions Insurance (E&O) Definition, How Errors and Omissions Insurance (E&O) Works]
 source: https://www.investopedia.com/terms/e/errors-omissions-insurance.asp

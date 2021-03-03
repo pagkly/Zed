@@ -1,5 +1,5 @@
 ---
-alias: [Equivalent Annual Annuity Approach (EAA)]
+alias: [Equivalent Annual Annuity Approach, EAA]
 created: 2021-03-02T19:42:13 (UTC +11:00)
 tags: [Equivalent Annual Annuity Approach (EAA) Definition, Equivalent Annual Annuity Approach (EAA)]
 source: https://www.investopedia.com/terms/e/equivalent-annual-annuity-approach.asp

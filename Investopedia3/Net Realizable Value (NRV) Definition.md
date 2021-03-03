@@ -1,5 +1,5 @@
 ---
-alias: [Net Realizable Value (NRV)]
+alias: [Net Realizable Value, NRV]
 created: 2021-03-02T21:41:49 (UTC +11:00)
 tags: [Net Realizable Value (NRV) Definition, Net Realizable Value (NRV) Definition]
 source: https://www.investopedia.com/terms/n/nrv.asp

@@ -1,5 +1,5 @@
 ---
-alias: [One-Cancels-the-Other Order - (OCO)]
+alias: [One-Cancels-the-Other Order -, OCO]
 created: 2021-03-02T22:18:00 (UTC +11:00)
 tags: [One-Cancels-the-Other Order - (OCO) Definition, One-Cancels-the-Other Order - (OCO) Definition]
 source: https://www.investopedia.com/terms/o/oco.asp

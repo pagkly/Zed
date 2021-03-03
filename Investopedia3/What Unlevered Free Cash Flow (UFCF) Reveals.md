@@ -1,5 +1,5 @@
 ---
-alias: [Unlevered Free Cash Flow (UFCF)]
+alias: [Unlevered Free Cash Flow, UFCF]
 created: 2021-03-03T00:25:51 (UTC +11:00)
 tags: [Unlevered Free Cash Flow (UFCF), What Unlevered Free Cash Flow (UFCF) Reveals]
 source: https://www.investopedia.com/terms/u/unlevered-free-cash-flow-ufcf.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Ulcer Index (UI)]
+alias: [Ulcer Index, UI]
 created: 2021-03-03T00:13:10 (UTC +11:00)
 tags: [Ulcer Index (UI) Definition, Ulcer Index (UI) Definition]
 source: https://www.investopedia.com/terms/u/ulcerindex.asp

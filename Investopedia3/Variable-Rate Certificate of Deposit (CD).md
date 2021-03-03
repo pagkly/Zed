@@ -1,5 +1,5 @@
 ---
-alias: [Variable-Rate Certificate of Deposit (CD)]
+alias: [Variable-Rate Certificate of Deposit, CD]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable-Rate Certificate of Deposit (CD) Definition, Variable-Rate Certificate of Deposit (CD)]
 source: https://www.investopedia.com/terms/v/variable-rate-certificate-of-deposit.asp

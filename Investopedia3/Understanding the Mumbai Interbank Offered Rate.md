@@ -1,5 +1,5 @@
 ---
-alias: [Mumbai Interbank Offered Rate (MIBOR)]
+alias: [Mumbai Interbank Offered Rate, MIBOR]
 created: 2021-03-02T22:13:51 (UTC +11:00)
 tags: [Mumbai Interbank Offered Rate (MIBOR) Definition, Understanding the Mumbai Interbank Offered Rate]
 source: https://www.investopedia.com/terms/m/mibor.asp

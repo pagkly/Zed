@@ -1,5 +1,5 @@
 ---
-alias: [When Issued (WI)]
+alias: [When Issued, WI]
 created: 2021-03-03T00:54:55 (UTC +11:00)
 tags: [When Issued (WI), When Issued (WI)]
 source: https://www.investopedia.com/terms/w/wi.asp

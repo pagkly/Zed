@@ -1,5 +1,5 @@
 ---
-alias: [Total Enterprise Value (TEV)]
+alias: [Total Enterprise Value, TEV]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total Enterprise Value (TEV) Definition, Reading Into Total Enterprise Value]
 source: https://www.investopedia.com/terms/t/tev.asp

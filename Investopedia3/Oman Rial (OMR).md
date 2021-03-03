@@ -1,5 +1,5 @@
 ---
-alias: [Oman Rial (OMR)]
+alias: [Oman Rial, OMR]
 created: 2021-03-02T22:17:59 (UTC +11:00)
 tags: [Oman Rial (OMR), Oman Rial (OMR)]
 source: https://www.investopedia.com/terms/o/omr.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Corporate Social Responsibility (CSR)]
+alias: [Corporate Social Responsibility, CSR]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Corporate Social Responsibility (CSR) Definition, Corporate Social Responsibility (CSR)]
 source: https://www.investopedia.com/terms/c/corp-social-responsibility.asp

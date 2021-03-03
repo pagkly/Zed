@@ -1,5 +1,5 @@
 ---
-alias: [Comorian Franc (KMF)]
+alias: [Comorian Franc, KMF]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [Comorian Franc (KMF), Comorian Franc (KMF) Definition]
 source: https://www.investopedia.com/terms/k/kmf.asp

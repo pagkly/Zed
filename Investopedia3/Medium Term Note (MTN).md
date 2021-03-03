@@ -1,5 +1,5 @@
 ---
-alias: [Medium Term Note (MTN)]
+alias: [Medium Term Note, MTN]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Medium Term Note (MTN), Medium Term Note (MTN)]
 source: https://www.investopedia.com/terms/m/mtn.asp

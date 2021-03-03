@@ -1,5 +1,5 @@
 ---
-alias: [Voluntary Employees' Beneficiary Association (VEBA)]
+alias: [Voluntary Employees' Beneficiary Association, VEBA]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Voluntary Employees' Beneficiary Association (VEBA), Voluntary Employees' Beneficiary Association (VEBA)]
 source: https://www.investopedia.com/terms/v/veba.asp

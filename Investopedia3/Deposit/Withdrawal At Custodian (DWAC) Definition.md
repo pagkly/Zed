@@ -1,5 +1,5 @@
 ---
-alias: [Deposit/Withdrawal At Custodian (DWAC)]
+alias: [Deposit/Withdrawal At Custodian, DWAC]
 created: 2021-03-02T19:15:55 (UTC +11:00)
 tags: [Deposit/Withdrawal At Custodian (DWAC) Definition, Deposit/Withdrawal At Custodian (DWAC) Definition]
 source: https://www.investopedia.com/terms/d/dwac.asp

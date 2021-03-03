@@ -65,11 +65,11 @@ Operating costs related to advertising and marketing include the expenses of adv
 
 Cash flows from operating activities are among the major subsections of the [statement of cash flows](https://www.investopedia.com/investing/what-is-a-cash-flow-statement/). It is separate from the sections on investing and financing activities. Investing activities refer to earnings or expenditures on long-term assets, such as equipment and facilities, while financing activities are the cash flows between a company and its owners and creditors from activities such as issuing bonds, retiring bonds, selling stock or buying back stock.
 
-To get an accurate picture of a company’s cash flow from operating activities, accountants add depreciation expenses, losses decrease in current assets and increases in current liabilities to net income, and then subtract gains, increases in current assets and decreases in current liabilities. Investors examine a company’s cash flow from operating activities separately from the other two components of cash flow to see where a company is really getting its money.
+To get an accurate picture of a company’s [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]], accountants add depreciation expenses, losses decrease in current assets and increases in current liabilities to net income, and then subtract gains, increases in current assets and decreases in current liabilities. Investors examine a company’s [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]] separately from the other two components of cash flow to see where a company is really getting its money.
 
 Investors want to see positive cash flow because of positive income from operating activities, which are recurring, not because the company is selling off all its assets, which results in one-time gains. The company’s balance sheet and income statement help round out the picture of its financial health.
 
-## An Example of Cash Flow from Operating Activities
+## An Example of [[Cash Flow From Operating Activities (CFO) Definition|Cash Flow from Operating Activities]]
 
 Let’s look at the cash flow details of the leading technology company Apple Inc. ([AAPL](https://www.investopedia.com/markets/quote?tvwidgetsymbol=aapl)). The iPhone maker reported the following for the fiscal year ended September 2017:
 
@@ -78,4 +78,4 @@ Let’s look at the cash flow details of the leading technology company Apple In
 -   Deferred taxes and investment tax credit of $5.97 billion
 -   Other funds of $4.67 billion1
 
-Following the first formula, the summation of these numbers brings the value for funds from operations as $69.15 billion. The net change in working capital for the same period was (-5.55 billion). Adding it to funds from operations gives the cash flow from operating activities for Apple as ($69.15 - $5.55) = $63.6 billion.1
+Following the first formula, the summation of these numbers brings the value for funds from operations as $69.15 billion. The net change in working capital for the same period was (-5.55 billion). Adding it to funds from operations gives the [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]] for Apple as ($69.15 - $5.55) = $63.6 billion.1

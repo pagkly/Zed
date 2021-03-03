@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Eligible Participant (QEP)]
+alias: [Qualified Eligible Participant, QEP]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Eligible Participant (QEP) Definition, Qualified Eligible Participant (QEP) Definition]
 source: https://www.investopedia.com/terms/q/qep.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Help-Wanted Index (HWI)]
+alias: [Help-Wanted Index, HWI]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Help-Wanted Index (HWI), Help-Wanted Index (HWI)]
 source: https://www.investopedia.com/terms/h/helpwantedindex.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Vortex Indicator (VI)]
+alias: [Vortex Indicator, VI]
 created: 2021-03-03T00:44:31 (UTC +11:00)
 tags: [Vortex Indicator (VI) Definition, Vortex Indicator (VI)]
 source: https://www.investopedia.com/terms/v/vortex-indicator-vi.asp

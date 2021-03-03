@@ -1,5 +1,5 @@
 ---
-alias: [Proof of Funds (POF)]
+alias: [Proof of Funds, POF]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Proof of Funds (POF) Definition, Proof of Funds (POF)]
 source: https://www.investopedia.com/terms/p/proofoffunds.asp

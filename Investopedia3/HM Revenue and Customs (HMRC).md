@@ -1,5 +1,5 @@
 ---
-alias: [HM Revenue and Customs (HMRC)]
+alias: [HM Revenue and Customs, HMRC]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [HM Revenue and Customs (HMRC) Definition, HM Revenue and Customs (HMRC)]
 source: https://www.investopedia.com/terms/h/hm-revenue-and-customs-hmrc.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Federal Open Market Committee (FOMC)]
+alias: [Federal Open Market Committee, FOMC]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Open Market Committee (FOMC) Definition, Federal Open Market Committee (FOMC)]
 source: https://www.investopedia.com/terms/f/fomc.asp

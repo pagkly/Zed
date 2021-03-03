@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Pre-Retirement Survivor Annuity (QPSA)]
+alias: [Qualified Pre-Retirement Survivor Annuity, QPSA]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Pre-Retirement Survivor Annuity (QPSA) Definition, Qualified Pre-Retirement Survivor Annuity (QPSA)]
 source: https://www.investopedia.com/terms/q/qualified-pre-retirement-survivor-annuity.asp

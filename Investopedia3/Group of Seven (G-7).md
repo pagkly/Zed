@@ -1,5 +1,5 @@
 ---
-alias: [Group of Seven (G-7)]
+alias: [Group of Seven, G-7]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of Seven (G-7) Definition, Group of Seven (G-7)]
 source: https://www.investopedia.com/terms/g/g7.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Limited Partnership (LP)]
+alias: [Limited Partnership, LP]
 created: 2021-03-02T21:19:47 (UTC +11:00)
 tags: [Limited Partnership (LP) Definition, Forming a Limited Partnership: What You Should Know]
 source: https://www.investopedia.com/terms/l/limitedpartnership.asp

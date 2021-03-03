@@ -1,5 +1,5 @@
 ---
-alias: [Trillion Cubic Feet (Tcf)]
+alias: [Trillion Cubic Feet, Tcf]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Trillion Cubic Feet (Tcf) Definition, Trillion Cubic Feet (Tcf)]
 source: https://www.investopedia.com/terms/t/trillion-cubic-feet.asp

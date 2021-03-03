@@ -1,5 +1,5 @@
 ---
-alias: [High-Frequency Trading (HFT)]
+alias: [High-Frequency Trading, HFT]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Frequency Trading (HFT) Definition, High-Frequency Trading (HFT) Definition]
 source: https://www.investopedia.com/terms/h/high-frequency-trading.asp

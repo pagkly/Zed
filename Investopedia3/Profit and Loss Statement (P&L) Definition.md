@@ -1,5 +1,5 @@
 ---
-alias: [Profit and Loss Statement (P&L)]
+alias: [Profit and Loss Statement, P&L]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Profit and Loss Statement (P&L) Definition, Profit and Loss Statement (P&L) Definition]
 source: https://www.investopedia.com/terms/p/plstatement.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Delivery Versus Payment (DVP)]
+alias: [Delivery Versus Payment, DVP]
 created: 2021-03-02T19:15:53 (UTC +11:00)
 tags: [Delivery Versus Payment (DVP) Definition, Delivery Versus Payment (DVP): What Guarantees Do You Have?]
 source: https://www.investopedia.com/terms/d/dvp.asp

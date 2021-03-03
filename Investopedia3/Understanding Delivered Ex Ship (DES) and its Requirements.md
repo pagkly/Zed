@@ -1,5 +1,5 @@
 ---
-alias: [Delivered Ex Ship (DES)]
+alias: [Delivered Ex Ship, DES]
 created: 2021-03-02T19:15:53 (UTC +11:00)
 tags: [Delivered Ex Ship (DES) Definition, Understanding Delivered Ex Ship (DES) and its Requirements]
 source: https://www.investopedia.com/terms/d/des.asp

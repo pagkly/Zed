@@ -1,5 +1,5 @@
 ---
-alias: [On-Balance Volume (OBV)]
+alias: [On-Balance Volume, OBV]
 created: 2021-03-02T22:18:00 (UTC +11:00)
 tags: [On-Balance Volume (OBV) Definition, On-Balance Volume (OBV)]
 source: https://www.investopedia.com/terms/o/onbalancevolume.asp

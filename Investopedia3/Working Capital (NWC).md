@@ -1,5 +1,5 @@
 ---
-alias: [Working Capital (NWC)]
+alias: [Working Capital, NWC]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Working Capital (NWC) Definition, Working Capital (NWC)]
 source: https://www.investopedia.com/terms/w/workingcapital.asp

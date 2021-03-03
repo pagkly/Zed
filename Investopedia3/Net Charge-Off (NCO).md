@@ -1,5 +1,5 @@
 ---
-alias: [Net Charge-Off (NCO)]
+alias: [Net Charge-Off, NCO]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Net Charge-Off (NCO), Net Charge-Off (NCO)]
 source: https://www.investopedia.com/terms/n/net-charge-off-nco.asp

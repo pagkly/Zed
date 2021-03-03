@@ -1,5 +1,5 @@
 ---
-alias: [Gross National Happiness (GNH)]
+alias: [Gross National Happiness, GNH]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross National Happiness (GNH), Gross National Happiness (GNH)]
 source: https://www.investopedia.com/terms/g/gnh.asp

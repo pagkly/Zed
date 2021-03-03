@@ -1,5 +1,5 @@
 ---
-alias: [Office of the Superintendent of Financial Institutions (OSFI)]
+alias: [Office of the Superintendent of Financial Institutions, OSFI]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Office of the Superintendent of Financial Institutions (OSFI) Definition, Office Superintendent of Financial Institutions (OSFI) Regulates Canada]
 source: https://www.investopedia.com/terms/o/office-of-the-superintendent-of-financial-institutions-osfi.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Front-End Debt-to-Income Ratio (DTI)]
+alias: [Front-End Debt-to-Income Ratio, DTI]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Front-End Debt-to-Income Ratio (DTI) Definition, Front-End Debt-to-Income Ratio (DTI)]
 source: https://www.investopedia.com/terms/f/front-end-debt-to-income-ratio.asp

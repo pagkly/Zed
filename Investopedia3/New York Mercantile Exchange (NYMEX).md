@@ -1,5 +1,5 @@
 ---
-alias: [New York Mercantile Exchange (NYMEX)]
+alias: [New York Mercantile Exchange, NYMEX]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [New York Mercantile Exchange (NYMEX), New York Mercantile Exchange (NYMEX)]
 source: https://www.investopedia.com/terms/n/nymex.asp

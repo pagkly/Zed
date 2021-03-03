@@ -1,5 +1,5 @@
 ---
-alias: [Word-of-Mouth Marketing (WOM Marketing)]
+alias: [Word-of-Mouth Marketing, WOM Marketing]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Word-of-Mouth Marketing (WOM Marketing) Definition, What Is Word-of-Mouth Marketing?]
 source: https://www.investopedia.com/terms/w/word-of-mouth-marketing.asp

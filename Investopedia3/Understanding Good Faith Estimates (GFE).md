@@ -1,5 +1,5 @@
 ---
-alias: [Good Faith Estimate (GFE)]
+alias: [Good Faith Estimate, GFE]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Good Faith Estimate (GFE) Definition, Understanding Good Faith Estimates (GFE)]
 source: https://www.investopedia.com/terms/g/good_faith_estimate.asp

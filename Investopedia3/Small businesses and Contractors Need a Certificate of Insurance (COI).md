@@ -1,5 +1,5 @@
 ---
-alias: [Certificate of Insurance (COI)]
+alias: [Certificate of Insurance, COI]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certificate of Insurance (COI) Definition, Small businesses and Contractors Need a Certificate of Insurance (COI)]
 source: https://www.investopedia.com/terms/c/certificate_of_insurance.asp

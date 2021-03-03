@@ -1,5 +1,5 @@
 ---
-alias: [Software-as-a-Service (SaaS)]
+alias: [Software-as-a-Service, SaaS]
 created: 2021-03-02T23:41:11 (UTC +11:00)
 tags: [Software-as-a-Service (SaaS) Definition, Understanding Software-as-a-Service (SaaS)]
 source: https://www.investopedia.com/terms/s/software-as-a-service-saas.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Direct Participation Program (DPP)]
+alias: [Direct Participation Program, DPP]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [Direct Participation Program (DPP), Direct Participation Program (DPP)]
 source: https://www.investopedia.com/terms/d/dpp.asp

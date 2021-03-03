@@ -1,5 +1,5 @@
 ---
-alias: [Depositary Receipt (DR)]
+alias: [Depositary Receipt, DR]
 created: 2021-03-02T19:18:10 (UTC +11:00)
 tags: [Depositary Receipt (DR) Definition, Depositary Receipt: What Everyone Should Know]
 source: https://www.investopedia.com/terms/d/depositaryreceipt.asp

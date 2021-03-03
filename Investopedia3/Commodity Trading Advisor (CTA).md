@@ -1,5 +1,5 @@
 ---
-alias: [Commodity Trading Advisor (CTA)]
+alias: [Commodity Trading Advisor, CTA]
 created: 2021-03-02T18:55:42 (UTC +11:00)
 tags: [Commodity Trading Advisor (CTA) Definition, Commodity Trading Advisor (CTA)]
 source: https://www.investopedia.com/terms/c/cta.asp

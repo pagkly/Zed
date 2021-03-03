@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Data Gathering, Analysis and Retrieval (EDGAR)]
+alias: [Electronic Data Gathering, Analysis and Retrieval, EDGAR]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Data Gathering, Analysis and Retrieval (EDGAR), Electronic Data Gathering, Analysis and Retrieval (EDGAR)]
 source: https://www.investopedia.com/terms/e/edgar.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Tactical Asset Allocation (TAA)]
+alias: [Tactical Asset Allocation, TAA]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [Tactical Asset Allocation (TAA), Tactical Asset Allocation (TAA)]
 source: https://www.investopedia.com/terms/t/tacticalassetallocation.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Retail Price Index (RPI)]
+alias: [Retail Price Index, RPI]
 created: 2021-03-02T23:18:56 (UTC +11:00)
 tags: [Retail Price Index (RPI) Definition, Retail Price Index (RPI) Definition]
 source: https://www.investopedia.com/terms/r/rpi.asp

@@ -1,5 +1,5 @@
 ---
-alias: [To Be Announced (TBA)]
+alias: [To Be Announced, TBA]
 created: 2021-03-03T00:02:41 (UTC +11:00)
 tags: [To Be Announced (TBA), To Be Announced (TBA)]
 source: https://www.investopedia.com/terms/t/tba.asp

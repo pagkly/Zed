@@ -1,5 +1,5 @@
 ---
-alias: [Definiton Dun & Bradstreet (D&B)]
+alias: [Definiton Dun & Bradstreet, D&B]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Definiton Dun & Bradstreet (D&B), Definiton Dun & Bradstreet (D&B)]
 source: https://www.investopedia.com/terms/d/dandb.asp

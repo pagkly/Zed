@@ -1,5 +1,5 @@
 ---
-alias: [Estimated Ultimate Recovery (EUR)]
+alias: [Estimated Ultimate Recovery, EUR]
 created: 2021-03-02T19:42:14 (UTC +11:00)
 tags: [Estimated Ultimate Recovery (EUR), Estimated Ultimate Recovery (EUR) Definition]
 source: https://www.investopedia.com/terms/e/estimated-ultimate-recovery.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Funds From Operations (FFO)]
+alias: [Funds From Operations, FFO]
 created: 2021-03-02T20:10:14 (UTC +11:00)
 tags: [Funds From Operations (FFO), Funds From Operations (FFO)]
 source: https://www.investopedia.com/terms/f/fundsfromoperation.asp

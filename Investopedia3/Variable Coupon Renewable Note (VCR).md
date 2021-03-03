@@ -1,5 +1,5 @@
 ---
-alias: [Variable Coupon Renewable Note (VCR)]
+alias: [Variable Coupon Renewable Note, VCR]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Coupon Renewable Note (VCR), Variable Coupon Renewable Note (VCR)]
 source: https://www.investopedia.com/terms/v/variablecouponrenewablenote.asp

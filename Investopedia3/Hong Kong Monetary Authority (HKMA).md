@@ -1,5 +1,5 @@
 ---
-alias: [Hong Kong Monetary Authority (HKMA)]
+alias: [Hong Kong Monetary Authority, HKMA]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Hong Kong Monetary Authority (HKMA), Hong Kong Monetary Authority (HKMA)]
 source: https://www.investopedia.com/terms/h/hong-kong-monetary-authority-hkma.asp

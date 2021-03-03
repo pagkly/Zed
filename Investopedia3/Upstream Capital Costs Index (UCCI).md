@@ -1,5 +1,5 @@
 ---
-alias: [Upstream Capital Costs Index (UCCI)]
+alias: [Upstream Capital Costs Index, UCCI]
 created: 2021-03-03T00:30:11 (UTC +11:00)
 tags: [Upstream Capital Costs Index (UCCI), Upstream Capital Costs Index (UCCI)]
 source: https://www.investopedia.com/terms/u/upstream-capital-costs-index.asp

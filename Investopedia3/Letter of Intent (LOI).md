@@ -1,5 +1,5 @@
 ---
-alias: [Letter of Intent (LOI)]
+alias: [Letter of Intent, LOI]
 created: 2021-03-02T21:15:34 (UTC +11:00)
 tags: [Letter of Intent (LOI) Definition, Letter of Intent (LOI)]
 source: https://www.investopedia.com/terms/l/letterofintent.asp

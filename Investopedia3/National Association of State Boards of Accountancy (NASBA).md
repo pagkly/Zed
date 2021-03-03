@@ -1,5 +1,5 @@
 ---
-alias: [National Association of State Boards of Accountancy (NASBA)]
+alias: [National Association of State Boards of Accountancy, NASBA]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Association of State Boards of Accountancy (NASBA), National Association of State Boards of Accountancy (NASBA)]
 source: https://www.investopedia.com/terms/n/nasba.asp

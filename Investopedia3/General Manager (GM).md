@@ -1,5 +1,5 @@
 ---
-alias: [General Manager (GM)]
+alias: [General Manager, GM]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Manager (GM) Definition, General Manager (GM)]
 source: https://www.investopedia.com/terms/g/general-manager.asp

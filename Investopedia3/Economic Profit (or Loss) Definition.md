@@ -1,5 +1,5 @@
 ---
-alias: [Economic Profit (or Loss)]
+alias: [Economic Profit, or Loss]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Economic Profit (or Loss) Definition, Economic Profit (or Loss) Definition]
 source: https://www.investopedia.com/terms/e/economicprofit.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Voluntary Export Restraint (VER)]
+alias: [Voluntary Export Restraint, VER]
 created: 2021-03-03T00:44:29 (UTC +11:00)
 tags: [Voluntary Export Restraint (VER) Definition, Voluntary Export Restraint (VER) Definition]
 source: https://www.investopedia.com/terms/v/voluntary_export_restraint.asp

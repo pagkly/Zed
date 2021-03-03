@@ -1,5 +1,5 @@
 ---
-alias: [Unified Managed Account (UMA)]
+alias: [Unified Managed Account, UMA]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Unified Managed Account (UMA) Definition, Unified Managed Account (UMA)]
 source: https://www.investopedia.com/terms/u/uma.asp

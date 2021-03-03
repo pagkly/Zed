@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Domestic Trust (QDOT)]
+alias: [Qualified Domestic Trust, QDOT]
 created: 2021-03-02T23:00:58 (UTC +11:00)
 tags: [Qualified Domestic Trust (QDOT), Qualified Domestic Trust (QDOT)]
 source: https://www.investopedia.com/terms/q/qualifying-domestic-trust.asp

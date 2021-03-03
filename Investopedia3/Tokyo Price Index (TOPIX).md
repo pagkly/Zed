@@ -1,5 +1,5 @@
 ---
-alias: [Tokyo Price Index (TOPIX)]
+alias: [Tokyo Price Index, TOPIX]
 created: 2021-03-03T00:02:41 (UTC +11:00)
 tags: [Tokyo Price Index (TOPIX) Definition, Tokyo Price Index (TOPIX)]
 source: https://www.investopedia.com/terms/t/topix.asp

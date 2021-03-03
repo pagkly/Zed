@@ -1,5 +1,5 @@
 ---
-alias: [Other Post-Employment Benefits (OPEB)]
+alias: [Other Post-Employment Benefits, OPEB]
 created: 2021-03-02T22:29:31 (UTC +11:00)
 tags: [Other Post-Employment Benefits (OPEB) Definition, What Are Other Post-Employment Benefits (OPEB)?]
 source: https://www.investopedia.com/terms/o/opeb.asp

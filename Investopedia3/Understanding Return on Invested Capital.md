@@ -1,5 +1,5 @@
 ---
-alias: [Return on Invested Capital (ROIC)]
+alias: [Return on Invested Capital, ROIC]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Return on Invested Capital (ROIC) Definition, Understanding Return on Invested Capital]
 source: https://www.investopedia.com/terms/r/returnoninvestmentcapital.asp

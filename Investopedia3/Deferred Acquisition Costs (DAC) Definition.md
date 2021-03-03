@@ -1,5 +1,5 @@
 ---
-alias: [Deferred Acquisition Costs (DAC)]
+alias: [Deferred Acquisition Costs, DAC]
 created: 2021-03-02T19:11:30 (UTC +11:00)
 tags: [Deferred Acquisition Costs (DAC) Definition, Deferred Acquisition Costs (DAC) Definition]
 source: https://www.investopedia.com/terms/d/dac.asp

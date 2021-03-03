@@ -1,5 +1,5 @@
 ---
-alias: [Federal Deposit Insurance Corporation (FDIC)]
+alias: [Federal Deposit Insurance Corporation, FDIC]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Deposit Insurance Corporation (FDIC), Federal Deposit Insurance Corporation (FDIC)]
 source: https://www.investopedia.com/terms/f/fdic.asp

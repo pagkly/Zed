@@ -1,5 +1,5 @@
 ---
-alias: [Revenue Agent's Report (RAR)]
+alias: [Revenue Agent's Report, RAR]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Agent's Report (RAR), Revenue Agent's Report (RAR) Definition]
 source: https://www.investopedia.com/terms/r/rar.asp

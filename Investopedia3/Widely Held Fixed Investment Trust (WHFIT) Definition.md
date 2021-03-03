@@ -1,5 +1,5 @@
 ---
-alias: [Widely Held Fixed Investment Trust (WHFIT)]
+alias: [Widely Held Fixed Investment Trust, WHFIT]
 created: 2021-03-03T00:57:14 (UTC +11:00)
 tags: [Widely Held Fixed Investment Trust (WHFIT), Widely Held Fixed Investment Trust (WHFIT) Definition]
 source: https://www.investopedia.com/terms/w/whfit.asp

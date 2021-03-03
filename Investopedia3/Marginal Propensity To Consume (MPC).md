@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Propensity To Consume (MPC)]
+alias: [Marginal Propensity To Consume, MPC]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Marginal Propensity To Consume (MPC) Definition, Marginal Propensity To Consume (MPC)]
 source: https://www.investopedia.com/terms/m/marginalpropensitytoconsume.asp

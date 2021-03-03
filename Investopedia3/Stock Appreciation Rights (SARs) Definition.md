@@ -1,5 +1,5 @@
 ---
-alias: [Stock Appreciation Rights (SARs)]
+alias: [Stock Appreciation Rights, SARs]
 created: 2021-03-02T23:43:21 (UTC +11:00)
 tags: [Stock Appreciation Rights (SARs) Definition, Stock Appreciation Rights (SARs) Definition]
 source: https://www.investopedia.com/terms/s/sar.asp

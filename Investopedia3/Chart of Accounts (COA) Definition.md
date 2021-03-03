@@ -1,5 +1,5 @@
 ---
-alias: [Chart of Accounts (COA)]
+alias: [Chart of Accounts, COA]
 created: 2021-03-02T18:51:35 (UTC +11:00)
 tags: [Chart of Accounts (COA) Definition, Chart of Accounts (COA) Definition]
 source: https://www.investopedia.com/terms/c/chart-accounts.asp

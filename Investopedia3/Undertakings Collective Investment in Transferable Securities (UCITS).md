@@ -1,5 +1,5 @@
 ---
-alias: [Undertakings Collective Investment in Transferable Securities (UCITS)]
+alias: [Undertakings Collective Investment in Transferable Securities, UCITS]
 created: 2021-03-03T00:17:17 (UTC +11:00)
 tags: [Undertakings Collective Investment in Transferable Securities (UCITS) Definition, Undertakings Collective Investment in Transferable Securities (UCITS)]
 source: https://www.investopedia.com/terms/u/ucits.asp

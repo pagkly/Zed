@@ -1,5 +1,5 @@
 ---
-alias: [Fast-Moving Consumer Goods (FMCG)]
+alias: [Fast-Moving Consumer Goods, FMCG]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Fast-Moving Consumer Goods (FMCG) Definition, Why Fast-Moving Consumer Goods Matter]
 source: https://www.investopedia.com/terms/f/fastmoving-consumer-goods-fmcg.asp

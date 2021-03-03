@@ -1,5 +1,5 @@
 ---
-alias: [Opening Imbalance Only Order (OIO)]
+alias: [Opening Imbalance Only Order, OIO]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Opening Imbalance Only Order (OIO), Opening Imbalance Only Order (OIO)]
 source: https://www.investopedia.com/terms/o/opening-imbalance-only-order-oio.asp

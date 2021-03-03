@@ -1,5 +1,5 @@
 ---
-alias: [Exchange-Traded Notes (ETN)]
+alias: [Exchange-Traded Notes, ETN]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange-Traded Notes (ETN) Definition, How Exchange-Traded Notes (ETN) Work and the Risks to Investors]
 source: https://www.investopedia.com/terms/e/etn.asp

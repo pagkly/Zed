@@ -1,5 +1,5 @@
 ---
-alias: [Juris Doctor (JD)]
+alias: [Juris Doctor, JD]
 created: 2021-03-02T21:02:46 (UTC +11:00)
 tags: [Juris Doctor (JD), Juris Doctor (JD)]
 source: https://www.investopedia.com/terms/j/juris-doctor.asp

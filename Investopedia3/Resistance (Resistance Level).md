@@ -1,5 +1,5 @@
 ---
-alias: [Resistance (Resistance Level)]
+alias: [Resistance, Resistance Level]
 created: 2021-03-02T23:18:55 (UTC +11:00)
 tags: [Resistance (Resistance Level) Definition & Example, Resistance (Resistance Level)]
 source: https://www.investopedia.com/terms/r/resistance.asp

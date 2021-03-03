@@ -1,5 +1,5 @@
 ---
-alias: [Provision For Credit Losses (PCL)]
+alias: [Provision For Credit Losses, PCL]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Provision For Credit Losses (PCL) Definition & Example, Provision For Credit Losses (PCL)]
 source: https://www.investopedia.com/terms/p/provision-for-credit-losses.asp

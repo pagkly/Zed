@@ -1,5 +1,5 @@
 ---
-alias: [Swap Execution Facility (SEF)]
+alias: [Swap Execution Facility, SEF]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [Swap Execution Facility (SEF), Swap Execution Facility (SEF)]
 source: https://www.investopedia.com/terms/s/swap-execution-facility-sef.asp

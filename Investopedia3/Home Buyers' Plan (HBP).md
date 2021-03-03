@@ -1,5 +1,5 @@
 ---
-alias: [Home Buyers' Plan (HBP)]
+alias: [Home Buyers' Plan, HBP]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Buyers' Plan (HBP) Definition, Home Buyers' Plan (HBP)]
 source: https://www.investopedia.com/terms/h/home-buyers-plan.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Cost and Freight (CFR)]
+alias: [Cost and Freight, CFR]
 created: 2021-03-02T19:00:23 (UTC +11:00)
 tags: [Cost and Freight (CFR) Definition, Cost and Freight (CFR) Definition]
 source: https://www.investopedia.com/terms/c/cfr.asp

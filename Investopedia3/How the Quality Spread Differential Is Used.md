@@ -1,5 +1,5 @@
 ---
-alias: [Quality Spread Differential (QSD)]
+alias: [Quality Spread Differential, QSD]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quality Spread Differential (QSD) Definition, How the Quality Spread Differential Is Used]
 source: https://www.investopedia.com/terms/q/qsd.asp

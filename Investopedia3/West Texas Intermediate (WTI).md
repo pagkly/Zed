@@ -1,5 +1,5 @@
 ---
-alias: [West Texas Intermediate (WTI)]
+alias: [West Texas Intermediate, WTI]
 created: 2021-03-03T00:54:54 (UTC +11:00)
 tags: [West Texas Intermediate (WTI) Definition, West Texas Intermediate (WTI)]
 source: https://www.investopedia.com/terms/w/wti.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Payment-in-Kind (PIK)]
+alias: [Payment-in-Kind, PIK]
 created: 2021-03-02T22:38:08 (UTC +11:00)
 tags: [Payment-in-Kind (PIK) Definition, Payment-in-Kind (PIK): What Everyone Should Know]
 source: https://www.investopedia.com/terms/p/paymentinkind.asp

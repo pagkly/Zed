@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Domestic Relations Order (QDRO)]
+alias: [Qualified Domestic Relations Order, QDRO]
 created: 2021-03-02T23:00:58 (UTC +11:00)
 tags: [Qualified Domestic Relations Order (QDRO) Definition, What Is a Qualified Domestic Relations Order (QDRO)?]
 source: https://www.investopedia.com/terms/q/qdro.asp

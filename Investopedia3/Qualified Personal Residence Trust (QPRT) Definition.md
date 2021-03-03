@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Personal Residence Trust (QPRT)]
+alias: [Qualified Personal Residence Trust, QPRT]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Personal Residence Trust (QPRT) Definition, Qualified Personal Residence Trust (QPRT) Definition]
 source: https://www.investopedia.com/terms/q/qualified-personal-residence-trust.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Registered Representative (RR)]
+alias: [Registered Representative, RR]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Registered Representative (RR), Registered Representative (RR)]
 source: https://www.investopedia.com/terms/r/registeredrepresentative.asp

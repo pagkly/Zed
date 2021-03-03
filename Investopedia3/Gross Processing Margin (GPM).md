@@ -1,5 +1,5 @@
 ---
-alias: [Gross Processing Margin (GPM)]
+alias: [Gross Processing Margin, GPM]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross Processing Margin (GPM) Definition, Gross Processing Margin (GPM)]
 source: https://www.investopedia.com/terms/g/gpm.asp

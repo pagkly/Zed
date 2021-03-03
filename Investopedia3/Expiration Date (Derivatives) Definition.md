@@ -1,5 +1,5 @@
 ---
-alias: [Expiration Date (Derivatives)]
+alias: [Expiration Date, Derivatives]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Expiration Date (Derivatives) Definition, Expiration Date (Derivatives) Definition]
 source: https://www.investopedia.com/terms/e/expirationdate.asp

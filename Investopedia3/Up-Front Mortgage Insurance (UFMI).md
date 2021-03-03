@@ -1,5 +1,5 @@
 ---
-alias: [Up-Front Mortgage Insurance (UFMI)]
+alias: [Up-Front Mortgage Insurance, UFMI]
 created: 2021-03-03T00:27:53 (UTC +11:00)
 tags: [Up-Front Mortgage Insurance (UFMI) Definition, Up-Front Mortgage Insurance (UFMI)]
 source: https://www.investopedia.com/terms/u/up-front-mortgage-insurance-ufmi.asp

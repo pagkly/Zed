@@ -1,5 +1,5 @@
 ---
-alias: [Long-Term Equity Anticipation Securities (LEAPS)]
+alias: [Long-Term Equity Anticipation Securities, LEAPS]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Long-Term Equity Anticipation Securities (LEAPS) Definition, How Long-Term Equity Anticipation Securities (LEAPS) Work]
 source: https://www.investopedia.com/terms/l/leaps.asp

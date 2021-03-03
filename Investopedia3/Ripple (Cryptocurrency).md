@@ -1,5 +1,5 @@
 ---
-alias: [Ripple (Cryptocurrency)]
+alias: [Ripple, Cryptocurrency]
 created: 2021-03-02T23:23:34 (UTC +11:00)
 tags: [Ripple (Cryptocurrency) Definition, Ripple (Cryptocurrency)]
 source: https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp

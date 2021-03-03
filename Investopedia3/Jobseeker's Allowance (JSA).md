@@ -1,5 +1,5 @@
 ---
-alias: [Jobseeker's Allowance (JSA)]
+alias: [Jobseeker's Allowance, JSA]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Jobseeker's Allowance (JSA), Jobseeker's Allowance (JSA)]
 source: https://www.investopedia.com/terms/j/job-seekers-allowance-jsa.asp

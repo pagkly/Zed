@@ -1,5 +1,5 @@
 ---
-alias: [Negative Goodwill (NGW)]
+alias: [Negative Goodwill, NGW]
 created: 2021-03-02T21:34:25 (UTC +11:00)
 tags: [Negative Goodwill (NGW) Definition, How Negative Goodwill (NGW) Works]
 source: https://www.investopedia.com/terms/n/negativegoodwill.asp

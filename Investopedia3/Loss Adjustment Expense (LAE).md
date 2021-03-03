@@ -1,5 +1,5 @@
 ---
-alias: [Loss Adjustment Expense (LAE)]
+alias: [Loss Adjustment Expense, LAE]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Loss Adjustment Expense (LAE) Definition, Loss Adjustment Expense (LAE)]
 source: https://www.investopedia.com/terms/l/loss-adjustment-expense-lae.asp

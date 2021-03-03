@@ -1,5 +1,5 @@
 ---
-alias: [Time Value of Money (TVM)]
+alias: [Time Value of Money, TVM]
 created: 2021-03-03T00:02:40 (UTC +11:00)
 tags: [Time Value of Money (TVM) Definition, Time Value of Money (TVM) Definition]
 source: https://www.investopedia.com/terms/t/timevalueofmoney.asp

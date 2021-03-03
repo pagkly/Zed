@@ -1,5 +1,5 @@
 ---
-alias: [Simplified Employee Pension (SEP)]
+alias: [Simplified Employee Pension, SEP]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Simplified Employee Pension (SEP) Definition, Simplified Employee Pension (SEP)]
 source: https://www.investopedia.com/terms/s/sep.asp

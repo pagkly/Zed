@@ -1,5 +1,5 @@
 ---
-alias: [Credit Default Swap Index (CDX)]
+alias: [Credit Default Swap Index, CDX]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Credit Default Swap Index (CDX) Definition, Credit Default Swap Index (CDX)]
 source: https://www.investopedia.com/terms/d/dowjonescdx.asp

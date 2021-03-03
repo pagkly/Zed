@@ -1,5 +1,5 @@
 ---
-alias: [National Bureau of Economic Research (NBER)]
+alias: [National Bureau of Economic Research, NBER]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Bureau of Economic Research (NBER) Definition, National Bureau of Economic Research (NBER) Definition]
 source: https://www.investopedia.com/terms/n/nber.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Chief Operating Officer (COO)]
+alias: [Chief Operating Officer, COO]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chief Operating Officer (COO) Definition, What Chief Operating Officers Do]
 source: https://www.investopedia.com/terms/c/coo.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Public Company Accounting Oversight Board (PCAOB)]
+alias: [Public Company Accounting Oversight Board, PCAOB]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Public Company Accounting Oversight Board (PCAOB) Definition, Public Company Accounting Oversight Board (PCAOB)]
 source: https://www.investopedia.com/terms/p/pcaob.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Repurchase Agreement (Repo)]
+alias: [Repurchase Agreement, Repo]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Repurchase Agreement (Repo), Repurchase Agreement (Repo) Definition]
 source: https://www.investopedia.com/terms/r/repurchaseagreement.asp

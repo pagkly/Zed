@@ -1,5 +1,5 @@
 ---
-alias: [Knowledge Process Outsourcing (KPO)]
+alias: [Knowledge Process Outsourcing, KPO]
 created: 2021-03-02T21:07:19 (UTC +11:00)
 tags: [Knowledge Process Outsourcing (KPO) Definition, How Knowledge Process Outsourcing (KPO) Helps Companies Boost Profits]
 source: https://www.investopedia.com/terms/k/knowledge-process-outsourcing.asp

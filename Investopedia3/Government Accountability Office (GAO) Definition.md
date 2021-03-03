@@ -1,5 +1,5 @@
 ---
-alias: [Government Accountability Office (GAO)]
+alias: [Government Accountability Office, GAO]
 created: 2021-03-02T20:23:12 (UTC +11:00)
 tags: [Government Accountability Office (GAO) Definition, Government Accountability Office (GAO) Definition]
 source: https://www.investopedia.com/terms/g/government-accountability-office-gao.asp

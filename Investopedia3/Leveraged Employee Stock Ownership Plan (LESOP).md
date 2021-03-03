@@ -1,5 +1,5 @@
 ---
-alias: [Leveraged Employee Stock Ownership Plan (LESOP)]
+alias: [Leveraged Employee Stock Ownership Plan, LESOP]
 created: 2021-03-02T21:15:35 (UTC +11:00)
 tags: [Leveraged Employee Stock Ownership Plan (LESOP) Definition, Leveraged Employee Stock Ownership Plan (LESOP)]
 source: https://www.investopedia.com/terms/l/lesop.asp

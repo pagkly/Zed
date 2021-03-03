@@ -1,5 +1,5 @@
 ---
-alias: [Floating-Rate Note (FRN)]
+alias: [Floating-Rate Note, FRN]
 created: 2021-03-02T20:01:16 (UTC +11:00)
 tags: [Floating-Rate Note (FRN) Definition, How Floating-Rate Note (FRN) Benefit From Rising Interest Rates]
 source: https://www.investopedia.com/terms/f/frn.asp

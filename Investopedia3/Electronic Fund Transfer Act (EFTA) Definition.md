@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Fund Transfer Act (EFTA)]
+alias: [Electronic Fund Transfer Act, EFTA]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Fund Transfer Act (EFTA) Definition, Electronic Fund Transfer Act (EFTA) Definition]
 source: https://www.investopedia.com/terms/e/electronic-funds-transfer-act.asp

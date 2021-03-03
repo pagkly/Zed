@@ -1,5 +1,5 @@
 ---
-alias: [Variable Rate Demand Note (VRDN)]
+alias: [Variable Rate Demand Note, VRDN]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Rate Demand Note (VRDN), Variable Rate Demand Note (VRDN)]
 source: https://www.investopedia.com/terms/v/variable_rate_demand_note.asp

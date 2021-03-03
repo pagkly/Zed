@@ -1,5 +1,5 @@
 ---
-alias: [Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]
+alias: [Kids In Parents' Pockets Eroding Retirement Savings, KIPPERS]
 created: 2021-03-02T21:07:18 (UTC +11:00)
 tags: [Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS), Kids In Parents' Pockets Eroding Retirement Savings (KIPPERS)]
 source: https://www.investopedia.com/terms/k/kippers.asp

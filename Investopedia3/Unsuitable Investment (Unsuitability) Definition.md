@@ -1,5 +1,5 @@
 ---
-alias: [Unsuitable Investment (Unsuitability)]
+alias: [Unsuitable Investment, Unsuitability]
 created: 2021-03-03T00:27:53 (UTC +11:00)
 tags: [Unsuitable Investment (Unsuitability) Definition, Unsuitable Investment (Unsuitability) Definition]
 source: https://www.investopedia.com/terms/u/unsuitable.asp

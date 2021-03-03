@@ -1,5 +1,5 @@
 ---
-alias: [Customer to Customer (C2C)]
+alias: [Customer to Customer, C2C]
 created: 2021-03-02T19:07:18 (UTC +11:00)
 tags: [Customer to Customer (C2C) Definition, The Best Customer to Customer Sellers Can Be People Like You]
 source: https://www.investopedia.com/terms/c/ctoc.asp

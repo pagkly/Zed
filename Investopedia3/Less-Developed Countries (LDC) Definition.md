@@ -1,5 +1,5 @@
 ---
-alias: [Less-Developed Countries (LDC)]
+alias: [Less-Developed Countries, LDC]
 created: 2021-03-02T21:15:34 (UTC +11:00)
 tags: [Less-Developed Countries (LDC) Definition, Less-Developed Countries (LDC) Definition]
 source: https://www.investopedia.com/terms/l/ldc.asp

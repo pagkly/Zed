@@ -1,5 +1,5 @@
 ---
-alias: [Cash Conversion Cycle (CCC)]
+alias: [Cash Conversion Cycle, CCC]
 created: 2021-03-02T18:49:07 (UTC +11:00)
 tags: [Cash Conversion Cycle (CCC) Definition, Cash Conversion Cycle (CCC)]
 source: https://www.investopedia.com/terms/c/cashconversioncycle.asp

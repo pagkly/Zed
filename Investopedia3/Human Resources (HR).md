@@ -1,5 +1,5 @@
 ---
-alias: [Human Resources (HR)]
+alias: [Human Resources, HR]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Human Resources (HR) Definition, Human Resources (HR)]
 source: https://www.investopedia.com/terms/h/humanresources.asp

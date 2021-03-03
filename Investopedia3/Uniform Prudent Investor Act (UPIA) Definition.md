@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Prudent Investor Act (UPIA)]
+alias: [Uniform Prudent Investor Act, UPIA]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uniform Prudent Investor Act (UPIA), Uniform Prudent Investor Act (UPIA) Definition]
 source: https://www.investopedia.com/terms/u/uniform-prudent-investor-act.asp

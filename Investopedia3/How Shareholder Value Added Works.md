@@ -1,5 +1,5 @@
 ---
-alias: [Shareholder Value Added (SVA)]
+alias: [Shareholder Value Added, SVA]
 created: 2021-03-02T23:34:15 (UTC +11:00)
 tags: [Shareholder Value Added (SVA) Definition, How Shareholder Value Added Works]
 source: https://www.investopedia.com/terms/s/shareholdervalueadded.asp

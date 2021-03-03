@@ -1,5 +1,5 @@
 ---
-alias: [Europe, Middle East, and Africa (EMEA)]
+alias: [Europe, Middle East, and Africa, EMEA]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [Europe, Middle East, and Africa (EMEA) Definition, Europe, Middle East, and Africa (EMEA) Definition]
 source: https://www.investopedia.com/terms/e/emea.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Short (Short Position)]
+alias: [Short, Short Position]
 created: 2021-03-02T23:36:36 (UTC +11:00)
 tags: [Short (Short Position) Definition, Short (Short Position) Definition]
 source: https://www.investopedia.com/terms/s/short.asp

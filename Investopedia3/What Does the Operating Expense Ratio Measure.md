@@ -1,5 +1,5 @@
 ---
-alias: [Operating Expense Ratio (OER)]
+alias: [Operating Expense Ratio, OER]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Operating Expense Ratio (OER) Definition, What Does the Operating Expense Ratio Measure?]
 source: https://www.investopedia.com/terms/o/operating-expense-ratio.asp

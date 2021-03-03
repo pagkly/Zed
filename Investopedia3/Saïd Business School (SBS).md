@@ -1,5 +1,5 @@
 ---
-alias: [Saïd Business School (SBS)]
+alias: [Saïd Business School, SBS]
 created: 2021-03-02T22:36:05 (UTC +11:00)
 tags: [Saïd Business School (SBS), Saïd Business School (SBS)]
 source: https://www.investopedia.com/terms/o/oxford-universitys-said-business-school.asp

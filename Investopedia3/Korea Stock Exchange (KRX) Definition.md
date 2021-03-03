@@ -1,5 +1,5 @@
 ---
-alias: [Korea Stock Exchange (KRX)]
+alias: [Korea Stock Exchange, KRX]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Korea Stock Exchange (KRX) Definition, Korea Stock Exchange (KRX) Definition]
 source: https://www.investopedia.com/terms/k/koreastockexchange.asp

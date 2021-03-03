@@ -1,5 +1,5 @@
 ---
-alias: [Trailing Price-To-Earnings (Trailing P/E)]
+alias: [Trailing Price-To-Earnings, Trailing P/E]
 created: 2021-03-03T00:06:42 (UTC +11:00)
 tags: [Trailing Price-To-Earnings (Trailing P/E) Definition, Trailing Price-To-Earnings (Trailing P/E) Definition]
 source: https://www.investopedia.com/terms/t/trailingpe.asp

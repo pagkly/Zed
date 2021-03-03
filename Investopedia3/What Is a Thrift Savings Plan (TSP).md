@@ -1,5 +1,5 @@
 ---
-alias: [Thrift Savings Plan (TSP)]
+alias: [Thrift Savings Plan, TSP]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Thrift Savings Plan (TSP) Definition, What Is a Thrift Savings Plan (TSP)?]
 source: https://www.investopedia.com/terms/t/thrift_savings_plan.asp

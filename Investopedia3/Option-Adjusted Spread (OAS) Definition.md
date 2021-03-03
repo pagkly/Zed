@@ -1,5 +1,5 @@
 ---
-alias: [Option-Adjusted Spread (OAS)]
+alias: [Option-Adjusted Spread, OAS]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Option-Adjusted Spread (OAS), Option-Adjusted Spread (OAS) Definition]
 source: https://www.investopedia.com/terms/o/optionadjustedspread.asp

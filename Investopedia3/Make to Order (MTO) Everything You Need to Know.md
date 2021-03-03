@@ -1,5 +1,5 @@
 ---
-alias: [Make to Order (MTO)]
+alias: [Make to Order, MTO]
 created: 2021-03-02T21:54:33 (UTC +11:00)
 tags: [Make to Order (MTO) Definition, Make to Order (MTO): Everything You Need to Know]
 source: https://www.investopedia.com/terms/m/make-to-order.asp

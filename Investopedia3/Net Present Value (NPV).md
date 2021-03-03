@@ -1,5 +1,5 @@
 ---
-alias: [Net Present Value (NPV)]
+alias: [Net Present Value, NPV]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Present Value (NPV), Net Present Value (NPV)]
 source: https://www.investopedia.com/terms/n/npv.asp

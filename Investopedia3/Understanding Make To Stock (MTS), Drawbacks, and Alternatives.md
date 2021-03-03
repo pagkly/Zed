@@ -1,5 +1,5 @@
 ---
-alias: [Make To Stock (MTS)]
+alias: [Make To Stock, MTS]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Make To Stock (MTS) Definition, Understanding Make To Stock (MTS), Drawbacks, and Alternatives]
 source: https://www.investopedia.com/terms/m/make-to-stock.asp

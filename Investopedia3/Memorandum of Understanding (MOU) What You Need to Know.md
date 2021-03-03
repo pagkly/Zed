@@ -1,5 +1,5 @@
 ---
-alias: [Memorandum of Understanding (MOU)]
+alias: [Memorandum of Understanding, MOU]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Memorandum of Understanding (MOU) Definition, Memorandum of Understanding (MOU): What You Need to Know]
 source: https://www.investopedia.com/terms/m/mou.asp

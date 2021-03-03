@@ -1,5 +1,5 @@
 ---
-alias: [Work-in-Progress (WIP)]
+alias: [Work-in-Progress, WIP]
 created: 2021-03-03T01:03:34 (UTC +11:00)
 tags: [Work-in-Progress (WIP) Definition, What Work-in-Progress Really Means]
 source: https://www.investopedia.com/terms/w/workinprogress.asp

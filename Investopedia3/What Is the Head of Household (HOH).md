@@ -1,5 +1,5 @@
 ---
-alias: [Head of Household (HOH)]
+alias: [Head of Household, HOH]
 created: 2021-03-02T20:39:11 (UTC +11:00)
 tags: [Head of Household (HOH) Definition, What Is the Head of Household (HOH)?]
 source: https://www.investopedia.com/terms/h/head_of_household.asp

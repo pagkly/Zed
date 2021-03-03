@@ -1,5 +1,5 @@
 ---
-alias: [Yield to Maturity (YTM)]
+alias: [Yield to Maturity, YTM]
 created: 2021-03-03T01:08:28 (UTC +11:00)
 tags: [Yield to Maturity (YTM) Definition, Yield to Maturity (YTM)]
 source: https://www.investopedia.com/terms/y/yieldtomaturity.asp

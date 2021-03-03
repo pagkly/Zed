@@ -1,5 +1,5 @@
 ---
-alias: [Earnings Before Tax (EBT)]
+alias: [Earnings Before Tax, EBT]
 created: 2021-03-02T19:29:09 (UTC +11:00)
 tags: [Earnings Before Tax (EBT) Definition, Earnings Before Tax (EBT)]
 source: https://www.investopedia.com/terms/e/ebt.asp

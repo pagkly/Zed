@@ -1,5 +1,5 @@
 ---
-alias: [Teacher Retirement System (TRS)]
+alias: [Teacher Retirement System, TRS]
 created: 2021-03-02T23:56:25 (UTC +11:00)
 tags: [Teacher Retirement System (TRS) Definition, What Is the Teacher Retirement System (TRS)?]
 source: https://www.investopedia.com/terms/t/trs.asp

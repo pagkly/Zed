@@ -1,5 +1,5 @@
 ---
-alias: [Self-Directed IRA (SDIRA)]
+alias: [Self-Directed IRA, SDIRA]
 created: 2021-03-02T23:32:04 (UTC +11:00)
 tags: [Self-Directed IRA (SDIRA) Definition, Self-Directed IRA (SDIRA)]
 source: https://www.investopedia.com/terms/s/self-directed-ira.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Strength, Weakness, Opportunity, and Threat Analysis (SWOT)]
+alias: [Strength, Weakness, Opportunity, and Threat Analysis, SWOT]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Strength, Weakness, Opportunity, and Threat Analysis (SWOT) Definition, How SWOT (Strength, Weakness, Opportunity, and Threat) Analysis Works]
 source: https://www.investopedia.com/terms/s/swot.asp

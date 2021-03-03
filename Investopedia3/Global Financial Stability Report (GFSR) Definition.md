@@ -1,5 +1,5 @@
 ---
-alias: [Global Financial Stability Report (GFSR)]
+alias: [Global Financial Stability Report, GFSR]
 created: 2021-03-02T20:18:45 (UTC +11:00)
 tags: [Global Financial Stability Report (GFSR) Definition, Global Financial Stability Report (GFSR) Definition]
 source: https://www.investopedia.com/terms/g/gfsr.asp

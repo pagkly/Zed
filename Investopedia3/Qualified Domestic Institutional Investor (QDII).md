@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Domestic Institutional Investor (QDII)]
+alias: [Qualified Domestic Institutional Investor, QDII]
 created: 2021-03-02T23:00:58 (UTC +11:00)
 tags: [Qualified Domestic Institutional Investor (QDII) Definition, Qualified Domestic Institutional Investor (QDII)]
 source: https://www.investopedia.com/terms/q/qdii.asp

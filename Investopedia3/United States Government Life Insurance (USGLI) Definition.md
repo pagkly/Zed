@@ -1,5 +1,5 @@
 ---
-alias: [United States Government Life Insurance (USGLI)]
+alias: [United States Government Life Insurance, USGLI]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [United States Government Life Insurance (USGLI) Definition, United States Government Life Insurance (USGLI) Definition]
 source: https://www.investopedia.com/terms/u/united-states-government-life-insurance-usgli.asp

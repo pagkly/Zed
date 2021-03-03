@@ -1,5 +1,5 @@
 ---
-alias: [Options Disclosure Document (ODD)]
+alias: [Options Disclosure Document, ODD]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Options Disclosure Document (ODD) Definition, Options Disclosure Document (ODD)]
 source: https://www.investopedia.com/terms/o/optiondisclosuredocument.asp

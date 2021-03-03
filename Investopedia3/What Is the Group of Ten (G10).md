@@ -1,5 +1,5 @@
 ---
-alias: [Group of Ten (G10)]
+alias: [Group of Ten, G10]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group of Ten (G10) Definition, What Is the Group of Ten (G10)?]
 source: https://www.investopedia.com/terms/g/groupoften.asp

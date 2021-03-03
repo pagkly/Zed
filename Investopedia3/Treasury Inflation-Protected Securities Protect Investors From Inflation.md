@@ -1,5 +1,5 @@
 ---
-alias: [Treasury Inflation-Protected Securities (TIPS)]
+alias: [Treasury Inflation-Protected Securities, TIPS]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Treasury Inflation-Protected Securities (TIPS) Definition, Treasury Inflation-Protected Securities Protect Investors From Inflation]
 source: https://www.investopedia.com/terms/t/tips.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Handelsgesetzbuch (HGB)]
+alias: [Handelsgesetzbuch, HGB]
 created: 2021-03-02T20:34:42 (UTC +11:00)
 tags: [Handelsgesetzbuch (HGB), Handelsgesetzbuch (HGB) Definition]
 source: https://www.investopedia.com/terms/h/hgb.asp

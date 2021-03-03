@@ -1,5 +1,5 @@
 ---
-alias: [Depository Trust Company (DTC)]
+alias: [Depository Trust Company, DTC]
 created: 2021-03-02T19:18:10 (UTC +11:00)
 tags: [Depository Trust Company (DTC) Definition, Depository Trust Company (DTC)]
 source: https://www.investopedia.com/terms/d/dtc.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Personal Consumption Expenditures (PCE)]
+alias: [Personal Consumption Expenditures, PCE]
 created: 2021-03-02T22:42:33 (UTC +11:00)
 tags: [Personal Consumption Expenditures (PCE) Definition, Personal Consumption Expenditures (PCE) Definition]
 source: https://www.investopedia.com/terms/p/pce.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Key Performance Indicators (KPIs)]
+alias: [Key Performance Indicators, KPIs]
 created: 2021-03-02T21:05:09 (UTC +11:00)
 tags: [Key Performance Indicators (KPIs) Definition, Understanding Key Performance Indicators (KPIs)]
 source: https://www.investopedia.com/terms/k/kpi.asp

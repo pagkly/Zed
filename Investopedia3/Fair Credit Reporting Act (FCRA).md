@@ -1,5 +1,5 @@
 ---
-alias: [Fair Credit Reporting Act (FCRA)]
+alias: [Fair Credit Reporting Act, FCRA]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Fair Credit Reporting Act (FCRA) Definition, Fair Credit Reporting Act (FCRA)]
 source: https://www.investopedia.com/terms/f/fair-credit-reporting-act-fcra.asp

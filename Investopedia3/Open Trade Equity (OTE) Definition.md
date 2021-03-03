@@ -1,5 +1,5 @@
 ---
-alias: [Open Trade Equity (OTE)]
+alias: [Open Trade Equity, OTE]
 created: 2021-03-02T22:22:12 (UTC +11:00)
 tags: [Open Trade Equity (OTE) Definition, Open Trade Equity (OTE) Definition]
 source: https://www.investopedia.com/terms/o/open-trade-equity-ote.asp

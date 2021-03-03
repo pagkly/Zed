@@ -1,5 +1,5 @@
 ---
-alias: [Teachers, Insurance, and Annuity Association (TIAA)]
+alias: [Teachers, Insurance, and Annuity Association, TIAA]
 created: 2021-03-02T23:56:25 (UTC +11:00)
 tags: [Teachers, Insurance, and Annuity Association (TIAA) Definition, Teachers, Insurance, and Annuity Association (TIAA)]
 source: https://www.investopedia.com/terms/t/tiaa-cref.asp

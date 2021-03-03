@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to Relative Purchasing Power Parity (RPPP)]
+alias: [Introduction to Relative Purchasing Power Parity, RPPP]
 created: 2021-03-02T23:14:43 (UTC +11:00)
 tags: [Introduction to Relative Purchasing Power Parity (RPPP), Introduction to Relative Purchasing Power Parity (RPPP)]
 source: https://www.investopedia.com/terms/r/relativeppp.asp

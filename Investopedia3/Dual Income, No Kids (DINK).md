@@ -1,5 +1,5 @@
 ---
-alias: [Dual Income, No Kids (DINK)]
+alias: [Dual Income, No Kids, DINK]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Dual Income, No Kids (DINK) Definition, Dual Income, No Kids (DINK)]
 source: https://www.investopedia.com/terms/d/dinks.asp

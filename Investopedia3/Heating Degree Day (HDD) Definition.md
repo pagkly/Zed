@@ -1,5 +1,5 @@
 ---
-alias: [Heating Degree Day (HDD)]
+alias: [Heating Degree Day, HDD]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Heating Degree Day (HDD) Definition, Heating Degree Day (HDD) Definition]
 source: https://www.investopedia.com/terms/h/heatingdegreeday.asp

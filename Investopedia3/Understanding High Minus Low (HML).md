@@ -1,5 +1,5 @@
 ---
-alias: [High Minus Low (HML)]
+alias: [High Minus Low, HML]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High Minus Low (HML) Definition, Understanding High Minus Low (HML)]
 source: https://www.investopedia.com/terms/h/high_minus_low.asp

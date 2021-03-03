@@ -1,5 +1,5 @@
 ---
-alias: [Non-Disclosure Agreement (NDA)]
+alias: [Non-Disclosure Agreement, NDA]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Disclosure Agreement (NDA) Definition, How a Non-Disclosure Agreement (NDA) Works]
 source: https://www.investopedia.com/terms/n/nda.asp

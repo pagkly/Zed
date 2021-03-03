@@ -1,5 +1,5 @@
 ---
-alias: [Order Management System (OMS)]
+alias: [Order Management System, OMS]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Order Management System (OMS) Definition, How Order Management Systems (OMS) Help Investment Firms]
 source: https://www.investopedia.com/terms/o/oms.asp

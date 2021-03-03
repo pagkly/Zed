@@ -1,5 +1,5 @@
 ---
-alias: [Contingent Value Right (CVR)]
+alias: [Contingent Value Right, CVR]
 created: 2021-03-02T18:58:08 (UTC +11:00)
 tags: [Contingent Value Right (CVR) Definition, Contingent Value Right (CVR)]
 source: https://www.investopedia.com/terms/c/cvr.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Health Insurance Portability and Accountability Act (HIPAA)]
+alias: [Health Insurance Portability and Accountability Act, HIPAA]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Health Insurance Portability and Accountability Act (HIPAA) Definition, Health Insurance Portability and Accountability Act (HIPAA) Definition]
 source: https://www.investopedia.com/terms/h/hipaa.asp

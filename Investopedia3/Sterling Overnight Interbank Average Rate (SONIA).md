@@ -1,5 +1,5 @@
 ---
-alias: [Sterling Overnight Interbank Average Rate (SONIA)]
+alias: [Sterling Overnight Interbank Average Rate, SONIA]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Sterling Overnight Interbank Average Rate (SONIA) Definition, Sterling Overnight Interbank Average Rate (SONIA)]
 source: https://www.investopedia.com/terms/s/sonia.asp

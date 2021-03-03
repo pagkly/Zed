@@ -1,5 +1,5 @@
 ---
-alias: [Yield to Worst (YTW)]
+alias: [Yield to Worst, YTW]
 created: 2021-03-03T01:08:28 (UTC +11:00)
 tags: [Yield to Worst (YTW) Definition, Yield to Worst (YTW)]
 source: https://www.investopedia.com/terms/y/yieldtoworst.asp

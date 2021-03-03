@@ -1,5 +1,5 @@
 ---
-alias: [Middle-Income Countries (MICs)]
+alias: [Middle-Income Countries, MICs]
 created: 2021-03-02T22:05:23 (UTC +11:00)
 tags: [Middle-Income Countries (MICs) Definition, Middle-Income Countries (MICs) Definition]
 source: https://www.investopedia.com/terms/m/middle-income-countries.asp

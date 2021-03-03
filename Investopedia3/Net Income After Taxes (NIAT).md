@@ -1,5 +1,5 @@
 ---
-alias: [Net Income After Taxes (NIAT)]
+alias: [Net Income After Taxes, NIAT]
 created: 2021-03-02T21:39:26 (UTC +11:00)
 tags: [Net Income After Taxes (NIAT), Net Income After Taxes (NIAT)]
 source: https://www.investopedia.com/terms/n/net-income-after-taxes-niat.asp

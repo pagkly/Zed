@@ -1,5 +1,5 @@
 ---
-alias: [Unallocated Loss Adjustment Expenses (ULAE)]
+alias: [Unallocated Loss Adjustment Expenses, ULAE]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Unallocated Loss Adjustment Expenses (ULAE) Definition, What Are Unallocated Loss Adjustment Expenses (ULAE)?]
 source: https://www.investopedia.com/terms/u/unallocated-loss-adjustment-expenses-ulae.asp

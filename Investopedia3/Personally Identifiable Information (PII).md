@@ -1,5 +1,5 @@
 ---
-alias: [Personally Identifiable Information (PII)]
+alias: [Personally Identifiable Information, PII]
 created: 2021-03-02T22:42:35 (UTC +11:00)
 tags: [Personally Identifiable Information (PII) Definition, Personally Identifiable Information (PII)]
 source: https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp

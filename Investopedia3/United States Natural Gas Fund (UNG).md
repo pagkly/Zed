@@ -1,5 +1,5 @@
 ---
-alias: [United States Natural Gas Fund (UNG)]
+alias: [United States Natural Gas Fund, UNG]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [United States Natural Gas Fund (UNG) Definition, United States Natural Gas Fund (UNG)]
 source: https://www.investopedia.com/terms/u/ung.asp

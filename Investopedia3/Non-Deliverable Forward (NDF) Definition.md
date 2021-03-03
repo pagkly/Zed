@@ -1,5 +1,5 @@
 ---
-alias: [Non-Deliverable Forward (NDF)]
+alias: [Non-Deliverable Forward, NDF]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Deliverable Forward (NDF) Definition, Non-Deliverable Forward (NDF) Definition]
 source: https://www.investopedia.com/terms/n/ndf.asp

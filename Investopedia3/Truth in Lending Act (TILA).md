@@ -1,5 +1,5 @@
 ---
-alias: [Truth in Lending Act (TILA)]
+alias: [Truth in Lending Act, TILA]
 created: 2021-03-03T00:11:09 (UTC +11:00)
 tags: [Truth in Lending Act (TILA) Definition, Truth in Lending Act (TILA)]
 source: https://www.investopedia.com/terms/t/tila.asp

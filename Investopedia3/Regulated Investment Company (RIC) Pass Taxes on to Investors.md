@@ -1,5 +1,5 @@
 ---
-alias: [Learn About Regulated Investment Company (RIC)]
+alias: [Learn About Regulated Investment Company, RIC]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Learn About Regulated Investment Company (RIC), Regulated Investment Company (RIC) Pass Taxes on to Investors]
 source: https://www.investopedia.com/terms/r/ric.asp

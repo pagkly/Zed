@@ -1,5 +1,5 @@
 ---
-alias: [Free On Board (FOB)]
+alias: [Free On Board, FOB]
 created: 2021-03-02T20:07:42 (UTC +11:00)
 tags: [Free On Board (FOB) Definition, A Definition and Explanation of Free On Board (FOB)]
 source: https://www.investopedia.com/terms/f/fob.asp

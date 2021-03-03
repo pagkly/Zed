@@ -1,5 +1,5 @@
 ---
-alias: [Net Unrealized Appreciation (NUA)]
+alias: [Net Unrealized Appreciation, NUA]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [Net Unrealized Appreciation (NUA) Definition, Net Unrealized Appreciation (NUA) Definition]
 source: https://www.investopedia.com/terms/n/netunrealizedappreciation.asp

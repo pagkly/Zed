@@ -1,5 +1,5 @@
 ---
-alias: [Housing And Economic Recovery Act (HERA)]
+alias: [Housing And Economic Recovery Act, HERA]
 created: 2021-03-02T20:51:42 (UTC +11:00)
 tags: [Housing And Economic Recovery Act (HERA) Definition, Housing And Economic Recovery Act (HERA) Definition]
 source: https://www.investopedia.com/terms/h/housing-and-economic-recovery-act-hera.asp

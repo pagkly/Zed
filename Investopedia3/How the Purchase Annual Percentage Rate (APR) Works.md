@@ -1,5 +1,5 @@
 ---
-alias: [Purchase Annual Percentage Rate (APR)]
+alias: [Purchase Annual Percentage Rate, APR]
 created: 2021-03-02T22:56:50 (UTC +11:00)
 tags: [Purchase Annual Percentage Rate (APR) Definition, How the Purchase Annual Percentage Rate (APR) Works]
 source: https://www.investopedia.com/terms/p/purchase-apr.asp

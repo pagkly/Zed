@@ -1,5 +1,5 @@
 ---
-alias: [Private Finance Initiative (PFI)]
+alias: [Private Finance Initiative, PFI]
 created: 2021-03-02T22:52:18 (UTC +11:00)
 tags: [Private Finance Initiative (PFI) Definition, How Private Finance Initiatives Work]
 source: https://www.investopedia.com/terms/p/privatefinanceinitiative.asp

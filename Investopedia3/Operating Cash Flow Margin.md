@@ -73,9 +73,9 @@ Working Capital = $1,300,000
 
 Net Income = $2,100,000
 
-We calculate the cash flow from operating activities for the 2019 as:
+We calculate the [[Cash Flow From Operating Activities (CFO) Definition|cash flow from operating activities]] for the 2019 as:
 
-Cash Flow From Operating Activities = $2,100,000 + ($110,000 + $130,000 + $55,000) + ($1,300,000 - $1,000,000) = $2,695,000
+[[Cash Flow From Operating Activities (CFO) Definition|Cash Flow From Operating Activities]] = $2,100,000 + ($110,000 + $130,000 + $55,000) + ($1,300,000 - $1,000,000) = $2,695,000
 
 To arrive at the operating cash flow margin, this number is divided by sales:
 

@@ -1,5 +1,5 @@
 ---
-alias: [Group Of 30 (G-30)]
+alias: [Group Of 30, G-30]
 created: 2021-03-02T20:30:10 (UTC +11:00)
 tags: [Group Of 30 (G-30) Definition, Group Of 30 (G-30) Definition]
 source: https://www.investopedia.com/terms/g/g-30.asp

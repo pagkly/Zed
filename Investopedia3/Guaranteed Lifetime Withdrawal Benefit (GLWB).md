@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Lifetime Withdrawal Benefit (GLWB)]
+alias: [Guaranteed Lifetime Withdrawal Benefit, GLWB]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Lifetime Withdrawal Benefit (GLWB) Definition, Guaranteed Lifetime Withdrawal Benefit (GLWB)]
 source: https://www.investopedia.com/terms/g/glwb.asp

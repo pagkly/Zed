@@ -1,5 +1,5 @@
 ---
-alias: [Medical Cost Ratio (MCR)]
+alias: [Medical Cost Ratio, MCR]
 created: 2021-03-02T22:03:17 (UTC +11:00)
 tags: [Medical Cost Ratio (MCR) Definition, Medical Cost Ratio (MCR) Definition]
 source: https://www.investopedia.com/terms/m/medical-cost-ratio.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Hong Kong Exchanges and Clearing Limited (HKEx)]
+alias: [Hong Kong Exchanges and Clearing Limited, HKEx]
 created: 2021-03-02T20:49:40 (UTC +11:00)
 tags: [Hong Kong Exchanges and Clearing Limited (HKEx) Definition, Hong Kong Exchanges and Clearing Limited (HKEx)]
 source: https://www.investopedia.com/terms/h/hkex.asp

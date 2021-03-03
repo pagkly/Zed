@@ -1,5 +1,5 @@
 ---
-alias: [Consolidated Omnibus Budget Reconciliation Act (COBRA)]
+alias: [Consolidated Omnibus Budget Reconciliation Act, COBRA]
 created: 2021-03-02T18:55:44 (UTC +11:00)
 tags: [Consolidated Omnibus Budget Reconciliation Act (COBRA) Definition, Consolidated Omnibus Budget Reconciliation Act (COBRA)]
 source: https://www.investopedia.com/terms/c/cobra.asp

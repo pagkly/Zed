@@ -1,5 +1,5 @@
 ---
-alias: [Uninsured Motorist Coverage (UM)]
+alias: [Uninsured Motorist Coverage, UM]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uninsured Motorist Coverage (UM) Definition, Uninsured Motorist Coverage (UM)]
 source: https://www.investopedia.com/terms/u/uninsured-motorist-coverage-um.asp

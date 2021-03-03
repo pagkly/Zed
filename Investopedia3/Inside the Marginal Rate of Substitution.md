@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Rate of Substitution (MRS)]
+alias: [Marginal Rate of Substitution, MRS]
 created: 2021-03-02T21:56:58 (UTC +11:00)
 tags: [Marginal Rate of Substitution (MRS) Definition, Inside the Marginal Rate of Substitution]
 source: https://www.investopedia.com/terms/m/marginal_rate_substitution.asp

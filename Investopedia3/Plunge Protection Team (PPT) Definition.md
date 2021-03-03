@@ -1,5 +1,5 @@
 ---
-alias: [Plunge Protection Team (PPT)]
+alias: [Plunge Protection Team, PPT]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Plunge Protection Team (PPT), Plunge Protection Team (PPT) Definition]
 source: https://www.investopedia.com/terms/p/plunge-protection-team.asp

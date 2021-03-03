@@ -1,5 +1,5 @@
 ---
-alias: [Total Cost of Ownership (TCO)]
+alias: [Total Cost of Ownership, TCO]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total Cost of Ownership (TCO), Total Cost of Ownership (TCO): Asset Costs Over the Long Term]
 source: https://www.investopedia.com/terms/t/totalcostofownership.asp

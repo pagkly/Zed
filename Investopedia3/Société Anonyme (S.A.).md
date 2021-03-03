@@ -1,5 +1,5 @@
 ---
-alias: [Société Anonyme (S.A.)]
+alias: [Société Anonyme, S.A.]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Société Anonyme (S.A.) Definition, Société Anonyme (S.A.)]
 source: https://www.investopedia.com/terms/s/socit-anonyme.asp

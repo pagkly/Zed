@@ -1,5 +1,5 @@
 ---
-alias: [Variable Interest Entity (VIE)]
+alias: [Variable Interest Entity, VIE]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Interest Entity (VIE) Definition, Variable Interest Entity (VIE)]
 source: https://www.investopedia.com/terms/v/variable-interest-entity.asp

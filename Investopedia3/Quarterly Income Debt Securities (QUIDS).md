@@ -1,5 +1,5 @@
 ---
-alias: [Quarterly Income Debt Securities (QUIDS)]
+alias: [Quarterly Income Debt Securities, QUIDS]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quarterly Income Debt Securities (QUIDS), Quarterly Income Debt Securities (QUIDS)]
 source: https://www.investopedia.com/terms/q/quids.asp

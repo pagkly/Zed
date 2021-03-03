@@ -1,5 +1,5 @@
 ---
-alias: [United Nations Commission on International Trade Law (UNCITRAL)]
+alias: [United Nations Commission on International Trade Law, UNCITRAL]
 created: 2021-03-03T00:23:29 (UTC +11:00)
 tags: [United Nations Commission on International Trade Law (UNCITRAL) Definition, United Nations Commission on International Trade Law (UNCITRAL)]
 source: https://www.investopedia.com/terms/u/united-nations-commission-on-international-trade-law-uncitral.asp

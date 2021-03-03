@@ -1,5 +1,5 @@
 ---
-alias: [North American Free Trade Agreement (NAFTA)]
+alias: [North American Free Trade Agreement, NAFTA]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [North American Free Trade Agreement (NAFTA) Definition, North American Free Trade Agreement (NAFTA)]
 source: https://www.investopedia.com/terms/n/nafta.asp

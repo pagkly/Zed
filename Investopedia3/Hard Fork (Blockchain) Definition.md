@@ -1,5 +1,5 @@
 ---
-alias: [Hard Fork (Blockchain)]
+alias: [Hard Fork, Blockchain]
 created: 2021-03-02T20:36:46 (UTC +11:00)
 tags: [Hard Fork (Blockchain) Definition, Hard Fork (Blockchain) Definition]
 source: https://www.investopedia.com/terms/h/hard-fork.asp

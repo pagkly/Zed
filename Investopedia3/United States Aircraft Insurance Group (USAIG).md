@@ -1,5 +1,5 @@
 ---
-alias: [United States Aircraft Insurance Group (USAIG)]
+alias: [United States Aircraft Insurance Group, USAIG]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [United States Aircraft Insurance Group (USAIG), United States Aircraft Insurance Group (USAIG)]
 source: https://www.investopedia.com/terms/u/united-states-aircraft-inurance-group-usaig.asp

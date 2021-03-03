@@ -1,5 +1,5 @@
 ---
-alias: [Family Limited Partnership (FLP)]
+alias: [Family Limited Partnership, FLP]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Family Limited Partnership (FLP) Definition, Family Limited Partnership (FLP)]
 source: https://www.investopedia.com/terms/f/familylimitedpartnership.asp

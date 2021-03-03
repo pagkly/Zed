@@ -1,5 +1,5 @@
 ---
-alias: [Harmonized Index of Consumer Prices (HICP)]
+alias: [Harmonized Index of Consumer Prices, HICP]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Harmonized Index of Consumer Prices (HICP) Definition, Harmonized Index of Consumer Prices (HICP) Definition]
 source: https://www.investopedia.com/terms/h/hicp.asp

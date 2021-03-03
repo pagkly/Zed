@@ -1,5 +1,5 @@
 ---
-alias: [Genetically Modified Food (GMF)]
+alias: [Genetically Modified Food, GMF]
 created: 2021-03-02T20:16:40 (UTC +11:00)
 tags: [Genetically Modified Food (GMF), Genetically Modified Food (GMF)]
 source: https://www.investopedia.com/terms/g/genetically-modified-food-gmf.asp

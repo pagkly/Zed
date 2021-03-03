@@ -1,5 +1,5 @@
 ---
-alias: [Minimum Efficient Scale (MES)]
+alias: [Minimum Efficient Scale, MES]
 created: 2021-03-02T22:05:23 (UTC +11:00)
 tags: [Minimum Efficient Scale (MES) Definition, Why Minimum Efficient Scale Matters]
 source: https://www.investopedia.com/terms/m/minimum_efficiency_scale.asp

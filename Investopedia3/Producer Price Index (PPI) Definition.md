@@ -1,5 +1,5 @@
 ---
-alias: [Producer Price Index (PPI)]
+alias: [Producer Price Index, PPI]
 created: 2021-03-02T22:52:19 (UTC +11:00)
 tags: [Producer Price Index (PPI) Definition, Producer Price Index (PPI) Definition]
 source: https://www.investopedia.com/terms/p/ppi.asp

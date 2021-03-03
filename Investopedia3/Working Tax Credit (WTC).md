@@ -1,5 +1,5 @@
 ---
-alias: [Working Tax Credit (WTC)]
+alias: [Working Tax Credit, WTC]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Working Tax Credit (WTC) Definition, Working Tax Credit (WTC)]
 source: https://www.investopedia.com/terms/w/working-tax-credit-wtc.asp

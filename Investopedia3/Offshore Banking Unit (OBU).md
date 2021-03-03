@@ -1,5 +1,5 @@
 ---
-alias: [Offshore Banking Unit (OBU)]
+alias: [Offshore Banking Unit, OBU]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Offshore Banking Unit (OBU), Offshore Banking Unit (OBU)]
 source: https://www.investopedia.com/terms/o/offshore-banking-unit.asp

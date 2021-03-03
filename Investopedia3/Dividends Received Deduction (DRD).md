@@ -1,5 +1,5 @@
 ---
-alias: [Dividends Received Deduction (DRD)]
+alias: [Dividends Received Deduction, DRD]
 created: 2021-03-02T19:24:42 (UTC +11:00)
 tags: [Dividends Received Deduction (DRD) Definition, Dividends Received Deduction (DRD)]
 source: https://www.investopedia.com/terms/d/dividendreceiveddeduction.asp

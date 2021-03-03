@@ -1,5 +1,5 @@
 ---
-alias: [Gross Domestic Income (GDI)]
+alias: [Gross Domestic Income, GDI]
 created: 2021-03-02T20:27:49 (UTC +11:00)
 tags: [Gross Domestic Income (GDI) Definition, Gross Domestic Income (GDI) Definition]
 source: https://www.investopedia.com/terms/g/gdi.asp

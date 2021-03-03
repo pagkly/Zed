@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Federal Tax Payment System (EFTPS)]
+alias: [Electronic Federal Tax Payment System, EFTPS]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Federal Tax Payment System (EFTPS), Electronic Federal Tax Payment System (EFTPS) Definition]
 source: https://www.investopedia.com/terms/e/eftps.asp

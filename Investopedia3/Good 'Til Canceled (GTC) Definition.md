@@ -1,5 +1,5 @@
 ---
-alias: [Good 'Til Canceled (GTC)]
+alias: [Good 'Til Canceled, GTC]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Good 'Til Canceled (GTC) Definition, Good 'Til Canceled (GTC) Definition]
 source: https://www.investopedia.com/terms/g/gtc.asp

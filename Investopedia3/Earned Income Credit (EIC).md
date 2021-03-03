@@ -1,5 +1,5 @@
 ---
-alias: [Earned Income Credit (EIC)]
+alias: [Earned Income Credit, EIC]
 created: 2021-03-02T19:29:08 (UTC +11:00)
 tags: [Earned Income Credit (EIC) Definition, Earned Income Credit (EIC)]
 source: https://www.investopedia.com/terms/e/earnedincomecredit.asp

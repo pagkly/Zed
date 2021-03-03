@@ -1,5 +1,5 @@
 ---
-alias: [Collateralized Mortgage Obligation (CMO)]
+alias: [Collateralized Mortgage Obligation, CMO]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Collateralized Mortgage Obligation (CMO), Collateralized Mortgage Obligation (CMO)]
 source: https://www.investopedia.com/terms/c/cmo.asp

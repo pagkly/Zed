@@ -1,5 +1,5 @@
 ---
-alias: [Oil Initially In Place (OIIP)]
+alias: [Oil Initially In Place, OIIP]
 created: 2021-03-02T22:17:58 (UTC +11:00)
 tags: [Oil Initially In Place (OIIP), Oil Initially In Place (OIIP)]
 source: https://www.investopedia.com/terms/o/oil-initially-in-place.asp

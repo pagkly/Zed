@@ -1,5 +1,5 @@
 ---
-alias: [Free Cash Flow (FCF)]
+alias: [Free Cash Flow, FCF]
 created: 2021-03-02T20:07:42 (UTC +11:00)
 tags: [Free Cash Flow (FCF) Definition, Free Cash Flow (FCF)]
 source: https://www.investopedia.com/terms/f/freecashflow.asp

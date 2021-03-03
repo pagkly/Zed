@@ -1,5 +1,5 @@
 ---
-alias: [Yankee Certificate of Deposit (CD)]
+alias: [Yankee Certificate of Deposit, CD]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Yankee Certificate of Deposit (CD) Definition, Yankee Certificate of Deposit (CD) Definition]
 source: https://www.investopedia.com/terms/y/yankeecd.asp

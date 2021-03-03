@@ -1,5 +1,5 @@
 ---
-alias: [Purchasing Managers' Index (PMI)]
+alias: [Purchasing Managers' Index, PMI]
 created: 2021-03-02T22:58:52 (UTC +11:00)
 tags: [Purchasing Managers' Index (PMI) Definition, Purchasing Managers' Index (PMI) Definition]
 source: https://www.investopedia.com/terms/p/pmi.asp

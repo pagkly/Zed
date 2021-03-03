@@ -1,5 +1,5 @@
 ---
-alias: [Off-Balance Sheet (OBS)]
+alias: [Off-Balance Sheet, OBS]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Off-Balance Sheet (OBS), Off-Balance Sheet (OBS) Definition]
 source: https://www.investopedia.com/terms/o/off-balance-sheet-obs.asp

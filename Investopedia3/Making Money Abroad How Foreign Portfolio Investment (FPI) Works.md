@@ -1,5 +1,5 @@
 ---
-alias: [Foreign Portfolio Investment (FPI)]
+alias: [Foreign Portfolio Investment, FPI]
 created: 2021-03-02T20:03:23 (UTC +11:00)
 tags: [Foreign Portfolio Investment (FPI) Definition, Making Money Abroad: How Foreign Portfolio Investment (FPI) Works]
 source: https://www.investopedia.com/terms/f/foreign-portfolio-investment-fpi.asp

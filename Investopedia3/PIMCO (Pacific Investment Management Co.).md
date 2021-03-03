@@ -1,5 +1,5 @@
 ---
-alias: [PIMCO (Pacific Investment Management Co.)]
+alias: [PIMCO, Pacific Investment Management Co.]
 created: 2021-03-02T22:42:35 (UTC +11:00)
 tags: [PIMCO (Pacific Investment Management Co.), PIMCO (Pacific Investment Management Co.)]
 source: https://www.investopedia.com/terms/p/pimco.asp

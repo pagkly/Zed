@@ -1,5 +1,5 @@
 ---
-alias: [Use and Occupancy (U&O)]
+alias: [Use and Occupancy, U&O]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [Use and Occupancy (U&O), Use and Occupancy (U&O)]
 source: https://www.investopedia.com/terms/u/use-and-occupancy-uo.asp

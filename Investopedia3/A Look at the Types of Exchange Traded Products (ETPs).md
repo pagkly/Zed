@@ -1,5 +1,5 @@
 ---
-alias: [Exchange Traded Product (ETP)]
+alias: [Exchange Traded Product, ETP]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange Traded Product (ETP) Definition, A Look at the Types of Exchange Traded Products (ETPs)]
 source: https://www.investopedia.com/terms/e/exchange-traded-products-etp.asp

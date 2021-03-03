@@ -1,5 +1,5 @@
 ---
-alias: [Weighted Average Loan Age (WALA)]
+alias: [Weighted Average Loan Age, WALA]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weighted Average Loan Age (WALA) Definition, Weighted Average Loan Age (WALA)]
 source: https://www.investopedia.com/terms/w/wala.asp

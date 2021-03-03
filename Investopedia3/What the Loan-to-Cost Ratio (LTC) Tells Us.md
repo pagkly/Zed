@@ -1,5 +1,5 @@
 ---
-alias: [Loan-to-Cost Ratio (LTC)]
+alias: [Loan-to-Cost Ratio, LTC]
 created: 2021-03-02T21:23:50 (UTC +11:00)
 tags: [Loan-to-Cost Ratio (LTC) Definition, What the Loan-to-Cost Ratio (LTC) Tells Us]
 source: https://www.investopedia.com/terms/l/loan-to-cost-ratio-ltc.asp

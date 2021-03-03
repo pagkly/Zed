@@ -1,5 +1,5 @@
 ---
-alias: [Deferred Profit Sharing Plan (DPSP)]
+alias: [Deferred Profit Sharing Plan, DPSP]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Deferred Profit Sharing Plan (DPSP) Definition, Deferred Profit Sharing Plan (DPSP) Definition]
 source: https://www.investopedia.com/terms/d/dpsp.asp

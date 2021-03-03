@@ -1,5 +1,5 @@
 ---
-alias: [Home Affordable Modification Program (HAMP)]
+alias: [Home Affordable Modification Program, HAMP]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Affordable Modification Program (HAMP) Definition, Home Affordable Modification Program (HAMP)]
 source: https://www.investopedia.com/terms/h/home-affordable-modification-program.asp

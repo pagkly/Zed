@@ -1,5 +1,5 @@
 ---
-alias: [Quarterly Income Preferred Securities (QUIPS)]
+alias: [Quarterly Income Preferred Securities, QUIPS]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quarterly Income Preferred Securities (QUIPS), Quarterly Income Preferred Securities (QUIPS)]
 source: https://www.investopedia.com/terms/q/quips.asp

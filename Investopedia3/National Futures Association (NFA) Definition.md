@@ -1,5 +1,5 @@
 ---
-alias: [National Futures Association (NFA)]
+alias: [National Futures Association, NFA]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Futures Association (NFA) Definition, National Futures Association (NFA) Definition]
 source: https://www.investopedia.com/terms/n/nfa.asp

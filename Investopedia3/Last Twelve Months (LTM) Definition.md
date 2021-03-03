@@ -1,5 +1,5 @@
 ---
-alias: [Last Twelve Months (LTM)]
+alias: [Last Twelve Months, LTM]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Last Twelve Months (LTM) Definition, Last Twelve Months (LTM) Definition]
 source: https://www.investopedia.com/terms/l/ltm.asp

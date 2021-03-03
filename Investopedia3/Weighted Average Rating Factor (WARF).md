@@ -1,5 +1,5 @@
 ---
-alias: [Weighted Average Rating Factor (WARF)]
+alias: [Weighted Average Rating Factor, WARF]
 created: 2021-03-03T00:52:36 (UTC +11:00)
 tags: [Weighted Average Rating Factor (WARF), Weighted Average Rating Factor (WARF)]
 source: https://www.investopedia.com/terms/w/warf.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Foreign Currency Convertible Bond (FCCB)]
+alias: [Foreign Currency Convertible Bond, FCCB]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [Foreign Currency Convertible Bond (FCCB), Foreign Currency Convertible Bond (FCCB)]
 source: https://www.investopedia.com/terms/f/fccb.asp

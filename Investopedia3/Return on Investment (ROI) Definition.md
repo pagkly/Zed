@@ -1,5 +1,5 @@
 ---
-alias: [Return on Investment (ROI)]
+alias: [Return on Investment, ROI]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Return on Investment (ROI) Definition, Return on Investment (ROI) Definition]
 source: https://www.investopedia.com/terms/r/returnoninvestment.asp

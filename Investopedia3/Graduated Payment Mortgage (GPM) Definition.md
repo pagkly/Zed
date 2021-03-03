@@ -1,5 +1,5 @@
 ---
-alias: [Graduated Payment Mortgage (GPM)]
+alias: [Graduated Payment Mortgage, GPM]
 created: 2021-03-02T20:23:14 (UTC +11:00)
 tags: [Graduated Payment Mortgage (GPM), Graduated Payment Mortgage (GPM) Definition]
 source: https://www.investopedia.com/terms/g/graduatedpaymentmortgage.asp

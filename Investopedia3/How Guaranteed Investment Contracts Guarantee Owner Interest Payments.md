@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Investment Contract (GIC)]
+alias: [Guaranteed Investment Contract, GIC]
 created: 2021-03-02T20:32:32 (UTC +11:00)
 tags: [Guaranteed Investment Contract (GIC) Definition, How Guaranteed Investment Contracts Guarantee Owner Interest Payments]
 source: https://www.investopedia.com/terms/g/guaranteedinvestmentcontract.asp

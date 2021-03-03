@@ -1,5 +1,5 @@
 ---
-alias: [Virtual Data Room (VDR)]
+alias: [Virtual Data Room, VDR]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Virtual Data Room (VDR) Definition, Virtual Data Room (VDR) Definition]
 source: https://www.investopedia.com/terms/v/virtual-data-room-vdr.asp

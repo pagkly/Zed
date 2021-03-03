@@ -1,5 +1,5 @@
 ---
-alias: [European Banking Authority (EBA)]
+alias: [European Banking Authority, EBA]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Banking Authority (EBA) Definition, How the European Banking Authority Works]
 source: https://www.investopedia.com/terms/e/european-banking-authority.asp

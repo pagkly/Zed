@@ -1,5 +1,5 @@
 ---
-alias: [Simple Agreement for Future Tokens (SAFT)]
+alias: [Simple Agreement for Future Tokens, SAFT]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Simple Agreement for Future Tokens (SAFT) Definition, Simple Agreement for Future Tokens (SAFT)]
 source: https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp

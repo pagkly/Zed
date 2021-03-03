@@ -1,5 +1,5 @@
 ---
-alias: [Gross National Income (GNI)]
+alias: [Gross National Income, GNI]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross National Income (GNI) Definition, What Is Gross National Income (GNI)?]
 source: https://www.investopedia.com/terms/g/gross-national-income-gni.asp

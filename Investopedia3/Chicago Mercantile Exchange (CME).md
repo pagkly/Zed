@@ -1,5 +1,5 @@
 ---
-alias: [Chicago Mercantile Exchange (CME)]
+alias: [Chicago Mercantile Exchange, CME]
 created: 2021-03-02T18:53:37 (UTC +11:00)
 tags: [Chicago Mercantile Exchange (CME) Definition, Chicago Mercantile Exchange (CME)]
 source: https://www.investopedia.com/terms/c/cme.asp

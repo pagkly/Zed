@@ -1,5 +1,5 @@
 ---
-alias: [Free Trade Agreement (FTA)]
+alias: [Free Trade Agreement, FTA]
 created: 2021-03-02T20:07:42 (UTC +11:00)
 tags: [Free Trade Agreement (FTA) Definition, How a Free Trade Agreement (FTA) Works]
 source: https://www.investopedia.com/terms/f/free-trade.asp

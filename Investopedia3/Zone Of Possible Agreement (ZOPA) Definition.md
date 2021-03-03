@@ -1,5 +1,5 @@
 ---
-alias: [Zone Of Possible Agreement (ZOPA)]
+alias: [Zone Of Possible Agreement, ZOPA]
 created: 2021-03-03T01:12:49 (UTC +11:00)
 tags: [Zone Of Possible Agreement (ZOPA) Definition, Zone Of Possible Agreement (ZOPA) Definition]
 source: https://www.investopedia.com/terms/z/zoneofpossibleagreement.asp

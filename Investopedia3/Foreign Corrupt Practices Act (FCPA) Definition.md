@@ -1,5 +1,5 @@
 ---
-alias: [Foreign Corrupt Practices Act (FCPA)]
+alias: [Foreign Corrupt Practices Act, FCPA]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [Foreign Corrupt Practices Act (FCPA) Definition, Foreign Corrupt Practices Act (FCPA) Definition]
 source: https://www.investopedia.com/terms/f/foreign-corrupt-practices-act.asp

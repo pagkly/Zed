@@ -1,5 +1,5 @@
 ---
-alias: [KES (Kenyan Shilling)]
+alias: [KES, Kenyan Shilling]
 created: 2021-03-02T21:05:08 (UTC +11:00)
 tags: [KES (Kenyan Shilling) Definition, KES (Kenyan Shilling)]
 source: https://www.investopedia.com/terms/forex/k/kes-kenyan-shilling.asp

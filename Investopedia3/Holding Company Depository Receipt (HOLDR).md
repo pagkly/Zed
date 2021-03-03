@@ -1,5 +1,5 @@
 ---
-alias: [Holding Company Depository Receipt (HOLDR)]
+alias: [Holding Company Depository Receipt, HOLDR]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Holding Company Depository Receipt (HOLDR), Holding Company Depository Receipt (HOLDR)]
 source: https://www.investopedia.com/terms/h/holdr.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Optimized Portfolio As Listed Securities (OPALS)]
+alias: [Optimized Portfolio As Listed Securities, OPALS]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Optimized Portfolio As Listed Securities (OPALS), Optimized Portfolio As Listed Securities (OPALS)]
 source: https://www.investopedia.com/terms/o/opals.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Financial Institution (FI)]
+alias: [Financial Institution, FI]
 created: 2021-03-02T19:56:46 (UTC +11:00)
 tags: [Financial Institution (FI) Definition, Financial Institutions: What We All Need to Know]
 source: https://www.investopedia.com/terms/f/financialinstitution.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Non-Objecting Beneficial Owner (NOBO)]
+alias: [Non-Objecting Beneficial Owner, NOBO]
 created: 2021-03-02T21:45:57 (UTC +11:00)
 tags: [Non-Objecting Beneficial Owner (NOBO) Definition, Non-Objecting Beneficial Owner (NOBO)]
 source: https://www.investopedia.com/terms/n/nobo.asp

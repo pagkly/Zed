@@ -1,5 +1,5 @@
 ---
-alias: [European Central Bank (ECB)]
+alias: [European Central Bank, ECB]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Central Bank (ECB) Definition, European Central Bank (ECB) Definition]
 source: https://www.investopedia.com/terms/e/europeancentralbank.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Limited Company (LC)]
+alias: [Limited Company, LC]
 created: 2021-03-02T21:19:46 (UTC +11:00)
 tags: [Limited Company (LC) Definition, How Limited Companies (LCs) Work]
 source: https://www.investopedia.com/terms/l/limited_company.asp

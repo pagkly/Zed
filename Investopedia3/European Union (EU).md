@@ -1,5 +1,5 @@
 ---
-alias: [European Union (EU)]
+alias: [European Union, EU]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [European Union (EU), European Union (EU)]
 source: https://www.investopedia.com/terms/e/europeanunion.asp

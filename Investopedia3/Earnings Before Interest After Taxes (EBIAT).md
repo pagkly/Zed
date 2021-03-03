@@ -1,5 +1,5 @@
 ---
-alias: [Earnings Before Interest After Taxes (EBIAT)]
+alias: [Earnings Before Interest After Taxes, EBIAT]
 created: 2021-03-02T19:29:08 (UTC +11:00)
 tags: [Earnings Before Interest After Taxes (EBIAT) Definition, Earnings Before Interest After Taxes (EBIAT)]
 source: https://www.investopedia.com/terms/e/ebiat.asp

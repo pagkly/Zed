@@ -1,5 +1,5 @@
 ---
-alias: [Office of the Comptroller of the Currency (OCC)]
+alias: [Office of the Comptroller of the Currency, OCC]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Office of the Comptroller of the Currency (OCC) Definition, Office of the Comptroller of the Currency (OCC)]
 source: https://www.investopedia.com/terms/o/office-comptroller-currency-occ.asp

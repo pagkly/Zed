@@ -1,5 +1,5 @@
 ---
-alias: [Export Trading Company (ETC)]
+alias: [Export Trading Company, ETC]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Export Trading Company (ETC) Definition, Export Trading Company (ETC)]
 source: https://www.investopedia.com/terms/e/export-trading-company-etc.asp

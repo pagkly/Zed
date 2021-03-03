@@ -1,5 +1,5 @@
 ---
-alias: [EOS (blockchain)]
+alias: [EOS, blockchain]
 created: 2021-03-02T19:39:54 (UTC +11:00)
 tags: [EOS (blockchain), EOS]
 source: https://www.investopedia.com/terms/e/eos.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Enrolled Agent (EA)]
+alias: [Enrolled Agent, EA]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Enrolled Agent (EA) Definition, Enrolled Agent (EA)]
 source: https://www.investopedia.com/terms/e/enrolled_agent.asp

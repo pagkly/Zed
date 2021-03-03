@@ -1,5 +1,5 @@
 ---
-alias: [Unified Managed Household Account (UMHA)]
+alias: [Unified Managed Household Account, UMHA]
 created: 2021-03-03T00:19:23 (UTC +11:00)
 tags: [Unified Managed Household Account (UMHA), Unified Managed Household Account (UMHA)]
 source: https://www.investopedia.com/terms/u/umha.asp

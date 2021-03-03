@@ -1,5 +1,5 @@
 ---
-alias: [Healthcare Power of Attorney (HCPA)]
+alias: [Healthcare Power of Attorney, HCPA]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Healthcare Power of Attorney (HCPA) Definition, Healthcare Power of Attorney (HCPA)]
 source: https://www.investopedia.com/terms/h/hcpa.asp

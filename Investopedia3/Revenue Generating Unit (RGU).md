@@ -1,5 +1,5 @@
 ---
-alias: [Revenue Generating Unit (RGU)]
+alias: [Revenue Generating Unit, RGU]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Generating Unit (RGU), Revenue Generating Unit (RGU)]
 source: https://www.investopedia.com/terms/r/revenuegeneratingunit.asp

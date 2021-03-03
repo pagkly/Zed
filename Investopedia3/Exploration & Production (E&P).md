@@ -1,5 +1,5 @@
 ---
-alias: [Exploration & Production (E&P)]
+alias: [Exploration & Production, E&P]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Exploration & Production (E&P), Exploration & Production (E&P)]
 source: https://www.investopedia.com/terms/e/exploration-production-company.asp

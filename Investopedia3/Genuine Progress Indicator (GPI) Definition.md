@@ -1,5 +1,5 @@
 ---
-alias: [Genuine Progress Indicator (GPI)]
+alias: [Genuine Progress Indicator, GPI]
 created: 2021-03-02T20:16:40 (UTC +11:00)
 tags: [Genuine Progress Indicator (GPI), Genuine Progress Indicator (GPI) Definition]
 source: https://www.investopedia.com/terms/g/gpi.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Sovereign Wealth Fund (SWF)]
+alias: [Sovereign Wealth Fund, SWF]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Sovereign Wealth Fund (SWF) Definition, A Sovereign Wealth Fund (SWF) Is Used to Benefit a Country's Economy]
 source: https://www.investopedia.com/terms/s/sovereign_wealth_fund.asp

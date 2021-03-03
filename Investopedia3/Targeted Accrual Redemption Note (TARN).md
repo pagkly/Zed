@@ -1,5 +1,5 @@
 ---
-alias: [Targeted Accrual Redemption Note (TARN)]
+alias: [Targeted Accrual Redemption Note, TARN]
 created: 2021-03-02T23:52:15 (UTC +11:00)
 tags: [Targeted Accrual Redemption Note (TARN) Definition, Targeted Accrual Redemption Note (TARN)]
 source: https://www.investopedia.com/terms/t/tarn.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Federal Housing Administration (FHA)]
+alias: [Federal Housing Administration, FHA]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Housing Administration (FHA), Federal Housing Administration (FHA)]
 source: https://www.investopedia.com/terms/f/federal-housing-administration.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Robotic Process Automation (RPA)]
+alias: [Robotic Process Automation, RPA]
 created: 2021-03-02T23:25:42 (UTC +11:00)
 tags: [Robotic Process Automation (RPA) Definition, Robotic Process Automation (RPA) Definition]
 source: https://www.investopedia.com/terms/r/robotic-process-automation-rpa.asp

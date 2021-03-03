@@ -1,5 +1,5 @@
 ---
-alias: [Registered Investment Advisor (RIA)]
+alias: [Registered Investment Advisor, RIA]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Registered Investment Advisor (RIA) Definition, Registered Investment Advisor (RIA) Definition]
 source: https://www.investopedia.com/terms/r/ria.asp

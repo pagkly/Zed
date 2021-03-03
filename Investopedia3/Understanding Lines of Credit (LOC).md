@@ -1,5 +1,5 @@
 ---
-alias: [Line of Credit (LOC)]
+alias: [Line of Credit, LOC]
 created: 2021-03-02T21:19:47 (UTC +11:00)
 tags: [Line of Credit (LOC) Definition, Understanding Lines of Credit (LOC)]
 source: https://www.investopedia.com/terms/l/lineofcredit.asp

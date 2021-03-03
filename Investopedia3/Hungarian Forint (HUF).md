@@ -1,5 +1,5 @@
 ---
-alias: [Hungarian Forint (HUF)]
+alias: [Hungarian Forint, HUF]
 created: 2021-03-02T20:54:01 (UTC +11:00)
 tags: [Hungarian Forint (HUF) Definition, Hungarian Forint (HUF)]
 source: https://www.investopedia.com/terms/h/huf.asp

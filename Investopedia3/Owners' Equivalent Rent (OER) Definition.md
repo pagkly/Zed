@@ -1,5 +1,5 @@
 ---
-alias: [Owners' Equivalent Rent (OER)]
+alias: [Owners' Equivalent Rent, OER]
 created: 2021-03-02T22:36:05 (UTC +11:00)
 tags: [Owners' Equivalent Rent (OER), Owners' Equivalent Rent (OER) Definition]
 source: https://www.investopedia.com/terms/o/owners-equivalent-rent.asp

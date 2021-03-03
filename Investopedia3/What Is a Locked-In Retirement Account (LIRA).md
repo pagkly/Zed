@@ -1,5 +1,5 @@
 ---
-alias: [Locked-In Retirement Account (LIRA)]
+alias: [Locked-In Retirement Account, LIRA]
 created: 2021-03-02T21:25:55 (UTC +11:00)
 tags: [Locked-In Retirement Account (LIRA) Definition, What Is a Locked-In Retirement Account (LIRA)?]
 source: https://www.investopedia.com/terms/l/locked-in-retirement-account.asp

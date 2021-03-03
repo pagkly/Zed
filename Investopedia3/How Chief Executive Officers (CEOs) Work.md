@@ -1,5 +1,5 @@
 ---
-alias: [Chief Executive Officer (CEO)]
+alias: [Chief Executive Officer, CEO]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chief Executive Officer (CEO) Definition, How Chief Executive Officers (CEOs) Work]
 source: https://www.investopedia.com/terms/c/ceo.asp

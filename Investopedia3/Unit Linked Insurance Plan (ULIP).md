@@ -1,5 +1,5 @@
 ---
-alias: [Unit Linked Insurance Plan (ULIP)]
+alias: [Unit Linked Insurance Plan, ULIP]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Unit Linked Insurance Plan (ULIP), Unit Linked Insurance Plan (ULIP)]
 source: https://www.investopedia.com/terms/u/unit-linked-insurance-plan.asp

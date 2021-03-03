@@ -1,5 +1,5 @@
 ---
-alias: [Economic Capital (EC)]
+alias: [Economic Capital, EC]
 created: 2021-03-02T19:31:15 (UTC +11:00)
 tags: [Economic Capital (EC) Definition, What's Economic Capital?]
 source: https://www.investopedia.com/terms/e/economic-capital.asp

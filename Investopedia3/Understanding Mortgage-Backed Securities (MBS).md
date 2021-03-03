@@ -1,5 +1,5 @@
 ---
-alias: [Mortgage-Backed Security (MBS)]
+alias: [Mortgage-Backed Security, MBS]
 created: 2021-03-02T22:11:42 (UTC +11:00)
 tags: [Mortgage-Backed Security (MBS) Definition, Understanding Mortgage-Backed Securities (MBS)]
 source: https://www.investopedia.com/terms/m/mbs.asp

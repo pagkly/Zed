@@ -1,5 +1,5 @@
 ---
-alias: [Last In, First Out (LIFO)]
+alias: [Last In, First Out, LIFO]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Last In, First Out (LIFO) Definition, Last In, First Out (LIFO)]
 source: https://www.investopedia.com/terms/l/lifo.asp

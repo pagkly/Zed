@@ -1,5 +1,5 @@
 ---
-alias: [Trailing 12 Months (TTM)]
+alias: [Trailing 12 Months, TTM]
 created: 2021-03-03T00:06:42 (UTC +11:00)
 tags: [Trailing 12 Months (TTM) Definition, Trailing 12 Months: What Everyone Should Know]
 source: https://www.investopedia.com/terms/t/ttm.asp

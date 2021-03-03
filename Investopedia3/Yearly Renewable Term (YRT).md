@@ -1,5 +1,5 @@
 ---
-alias: [Yearly Renewable Term (YRT)]
+alias: [Yearly Renewable Term, YRT]
 created: 2021-03-03T01:08:26 (UTC +11:00)
 tags: [Yearly Renewable Term (YRT), Yearly Renewable Term (YRT)]
 source: https://www.investopedia.com/terms/y/yearly-renewable-term-yrt.asp

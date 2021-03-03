@@ -1,5 +1,5 @@
 ---
-alias: [Loan Production Office (LPO)]
+alias: [Loan Production Office, LPO]
 created: 2021-03-02T21:23:50 (UTC +11:00)
 tags: [Loan Production Office (LPO) Definition, Loan Production Office (LPO)]
 source: https://www.investopedia.com/terms/l/loan-production-office-lpo.asp

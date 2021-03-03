@@ -1,5 +1,5 @@
 ---
-alias: [Goods and Services Tax (GST)]
+alias: [Goods and Services Tax, GST]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Goods and Services Tax (GST) Definition, Goods and Services Tax (GST)]
 source: https://www.investopedia.com/terms/g/gst.asp

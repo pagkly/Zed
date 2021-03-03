@@ -1,5 +1,5 @@
 ---
-alias: [Out of the Money (OTM)]
+alias: [Out of the Money, OTM]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Out of the Money (OTM) Definition, Out of the Money (OTM) Definition and Example]
 source: https://www.investopedia.com/terms/o/outofthemoney.asp

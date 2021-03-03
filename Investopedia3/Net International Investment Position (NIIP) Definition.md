@@ -1,5 +1,5 @@
 ---
-alias: [Net International Investment Position (NIIP)]
+alias: [Net International Investment Position, NIIP]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net International Investment Position (NIIP) Definition, Net International Investment Position (NIIP) Definition]
 source: https://www.investopedia.com/terms/n/net-international-investment-position-niip.asp

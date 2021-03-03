@@ -1,5 +1,5 @@
 ---
-alias: [Normal-Course Issuer Bid (NCIB)]
+alias: [Normal-Course Issuer Bid, NCIB]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [Normal-Course Issuer Bid (NCIB) Definition, What Is a Normal-Course Issuer Bid (NCIB)?]
 source: https://www.investopedia.com/terms/n/ncib.asp

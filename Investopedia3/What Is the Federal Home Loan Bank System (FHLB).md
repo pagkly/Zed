@@ -1,5 +1,5 @@
 ---
-alias: [Federal Home Loan Bank System (FHLB)]
+alias: [Federal Home Loan Bank System, FHLB]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Home Loan Bank System (FHLB) Definition, What Is the Federal Home Loan Bank System (FHLB)?]
 source: https://www.investopedia.com/terms/f/fhlb.asp

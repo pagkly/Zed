@@ -1,5 +1,5 @@
 ---
-alias: [Registered Education Savings Plan (RESP)]
+alias: [Registered Education Savings Plan, RESP]
 created: 2021-03-02T23:12:20 (UTC +11:00)
 tags: [Registered Education Savings Plan (RESP) Definition, Registered Education Savings Plan (RESP)]
 source: https://www.investopedia.com/terms/r/resp.asp

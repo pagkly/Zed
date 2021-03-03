@@ -1,5 +1,5 @@
 ---
-alias: [SEC Regulation D (Reg D)]
+alias: [SEC Regulation D, Reg D]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [SEC Regulation D (Reg D) Definition, SEC Regulation D (Reg D)]
 source: https://www.investopedia.com/terms/r/regulationd.asp

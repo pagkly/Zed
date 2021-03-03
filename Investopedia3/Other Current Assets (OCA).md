@@ -1,5 +1,5 @@
 ---
-alias: [Other Current Assets (OCA)]
+alias: [Other Current Assets, OCA]
 created: 2021-03-02T22:29:31 (UTC +11:00)
 tags: [Other Current Assets (OCA), Other Current Assets (OCA)]
 source: https://www.investopedia.com/terms/o/othercurrentassets.asp

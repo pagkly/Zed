@@ -1,5 +1,5 @@
 ---
-alias: [Liquefied Natural Gas (LNG)]
+alias: [Liquefied Natural Gas, LNG]
 created: 2021-03-02T21:21:48 (UTC +11:00)
 tags: [Liquefied Natural Gas (LNG) Definition, Liquefied Natural Gas (LNG)]
 source: https://www.investopedia.com/terms/l/liquefied-natural-gas.asp

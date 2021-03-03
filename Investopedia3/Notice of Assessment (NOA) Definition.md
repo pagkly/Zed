@@ -1,5 +1,5 @@
 ---
-alias: [Notice of Assessment (NOA)]
+alias: [Notice of Assessment, NOA]
 created: 2021-03-02T21:52:27 (UTC +11:00)
 tags: [Notice of Assessment (NOA), Notice of Assessment (NOA) Definition]
 source: https://www.investopedia.com/terms/n/noa.asp

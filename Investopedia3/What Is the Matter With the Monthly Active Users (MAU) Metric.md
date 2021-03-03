@@ -1,5 +1,5 @@
 ---
-alias: [Monthly Active Users (MAU)]
+alias: [Monthly Active Users, MAU]
 created: 2021-03-02T22:09:38 (UTC +11:00)
 tags: [Monthly Active Users (MAU) Definition, What Is the Matter With the Monthly Active Users (MAU) Metric?]
 source: https://www.investopedia.com/terms/m/monthly-active-user-mau.asp

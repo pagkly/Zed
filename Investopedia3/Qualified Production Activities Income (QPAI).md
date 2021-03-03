@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Production Activities Income (QPAI)]
+alias: [Qualified Production Activities Income, QPAI]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Production Activities Income (QPAI), Qualified Production Activities Income (QPAI)]
 source: https://www.investopedia.com/terms/q/qualified-production-activities-income.asp

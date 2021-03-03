@@ -1,5 +1,5 @@
 ---
-alias: [Guinea Franc (GNF)]
+alias: [Guinea Franc, GNF]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guinea Franc (GNF), Guinea Franc (GNF)]
 source: https://www.investopedia.com/terms/g/gnf.asp

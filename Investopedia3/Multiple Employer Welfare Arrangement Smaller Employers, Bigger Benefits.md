@@ -1,5 +1,5 @@
 ---
-alias: [Multiple Employer Welfare Arrangement (MEWA)]
+alias: [Multiple Employer Welfare Arrangement, MEWA]
 created: 2021-03-02T22:13:50 (UTC +11:00)
 tags: [Multiple Employer Welfare Arrangement (MEWA) Definition, Multiple Employer Welfare Arrangement: Smaller Employers, Bigger Benefits]
 source: https://www.investopedia.com/terms/m/mewa.asp

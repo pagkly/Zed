@@ -1,5 +1,5 @@
 ---
-alias: [Just In Case (JIC)]
+alias: [Just In Case, JIC]
 created: 2021-03-02T21:02:46 (UTC +11:00)
 tags: [Just In Case (JIC) Definition, Just In Case (JIC)]
 source: https://www.investopedia.com/terms/j/jic.asp

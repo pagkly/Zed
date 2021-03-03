@@ -1,5 +1,5 @@
 ---
-alias: [Variance Inflation Factor (VIF)]
+alias: [Variance Inflation Factor, VIF]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variance Inflation Factor (VIF) Definition, Variance Inflation Factor (VIF)]
 source: https://www.investopedia.com/terms/v/variance-inflation-factor.asp

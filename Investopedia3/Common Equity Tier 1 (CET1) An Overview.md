@@ -1,5 +1,5 @@
 ---
-alias: [Common Equity Tier 1 (CET1)]
+alias: [Common Equity Tier 1, CET1]
 created: 2021-03-02T18:55:42 (UTC +11:00)
 tags: [Common Equity Tier 1 (CET1) Definition, Common Equity Tier 1 (CET1): An Overview]
 source: https://www.investopedia.com/terms/c/common-equity-tier-1-cet1.asp

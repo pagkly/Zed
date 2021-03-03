@@ -1,5 +1,5 @@
 ---
-alias: [Underwriters Laboratories (UL)]
+alias: [Underwriters Laboratories, UL]
 created: 2021-03-03T00:17:17 (UTC +11:00)
 tags: [Underwriters Laboratories (UL), Underwriters Laboratories (UL)]
 source: https://www.investopedia.com/terms/u/underwriters-laboratories-ul.asp

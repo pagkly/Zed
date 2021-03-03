@@ -1,5 +1,5 @@
 ---
-alias: [Enhanced Oil Recovery (EOR)]
+alias: [Enhanced Oil Recovery, EOR]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Enhanced Oil Recovery (EOR) Definition, Enhanced Oil Recovery (EOR) Definition]
 source: https://www.investopedia.com/terms/e/enhanced-oil-recovery.asp

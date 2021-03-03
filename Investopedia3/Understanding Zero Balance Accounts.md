@@ -1,5 +1,5 @@
 ---
-alias: [Zero Balance Account (ZBA)]
+alias: [Zero Balance Account, ZBA]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero Balance Account (ZBA) Definition, Understanding Zero Balance Accounts]
 source: https://www.investopedia.com/terms/z/zba.asp

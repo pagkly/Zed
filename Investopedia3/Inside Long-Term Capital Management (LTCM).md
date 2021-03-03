@@ -1,5 +1,5 @@
 ---
-alias: [Long-Term Capital Management (LTCM)]
+alias: [Long-Term Capital Management, LTCM]
 created: 2021-03-02T21:27:59 (UTC +11:00)
 tags: [Long-Term Capital Management (LTCM) Definition, Inside Long-Term Capital Management (LTCM)]
 source: https://www.investopedia.com/terms/l/longtermcapital.asp

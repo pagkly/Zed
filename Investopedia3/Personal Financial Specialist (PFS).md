@@ -1,5 +1,5 @@
 ---
-alias: [Personal Financial Specialist (PFS)]
+alias: [Personal Financial Specialist, PFS]
 created: 2021-03-02T22:42:34 (UTC +11:00)
 tags: [Personal Financial Specialist (PFS) Definition, Personal Financial Specialist (PFS)]
 source: https://www.investopedia.com/terms/p/personal-financial-specialist-pfs.asp

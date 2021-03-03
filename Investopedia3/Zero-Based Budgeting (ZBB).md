@@ -1,5 +1,5 @@
 ---
-alias: [Zero-Based Budgeting (ZBB)]
+alias: [Zero-Based Budgeting, ZBB]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero-Based Budgeting (ZBB), Zero-Based Budgeting (ZBB)]
 source: https://www.investopedia.com/terms/z/zbb.asp

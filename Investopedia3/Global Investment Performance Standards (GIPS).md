@@ -1,5 +1,5 @@
 ---
-alias: [Global Investment Performance Standards (GIPS)]
+alias: [Global Investment Performance Standards, GIPS]
 created: 2021-03-02T20:18:45 (UTC +11:00)
 tags: [Global Investment Performance Standards (GIPS) Definition, Global Investment Performance Standards (GIPS)]
 source: https://www.investopedia.com/terms/g/gips.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Standard & Poor's (S&P)]
+alias: [Standard & Poor's, S&P]
 created: 2021-03-02T23:43:19 (UTC +11:00)
 tags: [Standard & Poor's (S&P) Definition, What You Need to Know About Standard & Poor's (S&P)]
 source: https://www.investopedia.com/terms/s/sp.asp

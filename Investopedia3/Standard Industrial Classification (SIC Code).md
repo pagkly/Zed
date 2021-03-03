@@ -1,5 +1,5 @@
 ---
-alias: [Standard Industrial Classification (SIC Code)]
+alias: [Standard Industrial Classification, SIC Code]
 created: 2021-03-02T23:43:20 (UTC +11:00)
 tags: [Standard Industrial Classification (SIC Code), Standard Industrial Classification (SIC Code)]
 source: https://www.investopedia.com/terms/s/sic_code.asp

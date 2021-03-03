@@ -1,5 +1,5 @@
 ---
-alias: [Timber Investment Management Organization (TIMO)]
+alias: [Timber Investment Management Organization, TIMO]
 created: 2021-03-03T00:00:39 (UTC +11:00)
 tags: [Timber Investment Management Organization (TIMO), Timber Investment Management Organization (TIMO) Definition]
 source: https://www.investopedia.com/terms/t/timo.asp

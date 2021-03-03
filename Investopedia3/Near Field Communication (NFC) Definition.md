@@ -1,5 +1,5 @@
 ---
-alias: [Near Field Communication (NFC)]
+alias: [Near Field Communication, NFC]
 created: 2021-03-02T21:34:25 (UTC +11:00)
 tags: [Near Field Communication (NFC) Definition, Near Field Communication (NFC) Definition]
 source: https://www.investopedia.com/terms/n/near-field-communication-nfc.asp

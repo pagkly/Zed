@@ -1,5 +1,5 @@
 ---
-alias: [Chief Technology Officer (CTO)]
+alias: [Chief Technology Officer, CTO]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chief Technology Officer (CTO) Definition, Why Chief Technology Officers (CTOs) Matter]
 source: https://www.investopedia.com/terms/c/chief-technology-officer.asp

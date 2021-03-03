@@ -1,5 +1,5 @@
 ---
-alias: [Cost, Insurance, and Freight (CIF)]
+alias: [Cost, Insurance, and Freight, CIF]
 created: 2021-03-02T19:00:24 (UTC +11:00)
 tags: [Cost, Insurance, and Freight (CIF) Definition, The Seller Pays Cost, Insurance, and Freight (CIF) to Protect Shipments]
 source: https://www.investopedia.com/terms/c/cif.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Federal Insurance Contributions Act (FICA)]
+alias: [Federal Insurance Contributions Act, FICA]
 created: 2021-03-02T19:52:36 (UTC +11:00)
 tags: [Federal Insurance Contributions Act (FICA) Definition, Federal Insurance Contributions Act (FICA) Definition]
 source: https://www.investopedia.com/terms/f/fica.asp

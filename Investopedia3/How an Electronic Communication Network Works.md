@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Communication Network (ECN)]
+alias: [Electronic Communication Network, ECN]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Communication Network (ECN) Definition, How an Electronic Communication Network Works]
 source: https://www.investopedia.com/terms/e/ecn.asp

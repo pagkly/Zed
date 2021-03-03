@@ -1,5 +1,5 @@
 ---
-alias: [Multilateral Development Bank (MDB)]
+alias: [Multilateral Development Bank, MDB]
 created: 2021-03-02T22:11:44 (UTC +11:00)
 tags: [Multilateral Development Bank (MDB) Definition, Multilateral Development Bank (MDB)]
 source: https://www.investopedia.com/terms/m/multilateral_development_bank.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Voluntary Accidental Death And Dismemberment Insurance (VAD&D)]
+alias: [Voluntary Accidental Death And Dismemberment Insurance, VAD&D]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Voluntary Accidental Death And Dismemberment Insurance (VAD&D) Definition, Voluntary Accidental Death And Dismemberment Insurance (VAD&D)]
 source: https://www.investopedia.com/terms/v/voluntary-accidental-death-and-dismemberment-insurance-vadd.asp

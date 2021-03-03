@@ -1,5 +1,5 @@
 ---
-alias: [Effective Gross Income (E-File)]
+alias: [Effective Gross Income, E-File]
 created: 2021-03-02T19:33:20 (UTC +11:00)
 tags: [Effective Gross Income (E-File) Definition, Effective Gross Income (E-File)]
 source: https://www.investopedia.com/terms/e/effective-gross-income-egi.asp

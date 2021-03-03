@@ -1,5 +1,5 @@
 ---
-alias: [Negotiable Certificate of Deposit (NCD)]
+alias: [Negotiable Certificate of Deposit, NCD]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Negotiable Certificate of Deposit (NCD) Definition, Negotiable Certificate of Deposit (NCD)]
 source: https://www.investopedia.com/terms/n/ncd.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Financial Information Exchange (FIX)]
+alias: [Financial Information Exchange, FIX]
 created: 2021-03-02T19:56:46 (UTC +11:00)
 tags: [Financial Information Exchange (FIX), Financial Information Exchange (FIX)]
 source: https://www.investopedia.com/terms/f/financial-information-exchange.asp

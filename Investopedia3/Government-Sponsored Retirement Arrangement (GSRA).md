@@ -1,5 +1,5 @@
 ---
-alias: [Government-Sponsored Retirement Arrangement (GSRA)]
+alias: [Government-Sponsored Retirement Arrangement, GSRA]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government-Sponsored Retirement Arrangement (GSRA) Definition, Government-Sponsored Retirement Arrangement (GSRA)]
 source: https://www.investopedia.com/terms/g/gsra.asp

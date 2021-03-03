@@ -1,5 +1,5 @@
 ---
-alias: [Comparable Company Analysis (CCA)]
+alias: [Comparable Company Analysis, CCA]
 created: 2021-03-02T18:55:43 (UTC +11:00)
 tags: [Comparable Company Analysis (CCA) Definition, Comparable Company Analysis (CCA) Definition]
 source: https://www.investopedia.com/terms/c/comparable-company-analysis-cca.asp

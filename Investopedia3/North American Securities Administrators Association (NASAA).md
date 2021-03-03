@@ -1,5 +1,5 @@
 ---
-alias: [North American Securities Administrators Association (NASAA)]
+alias: [North American Securities Administrators Association, NASAA]
 created: 2021-03-02T21:50:23 (UTC +11:00)
 tags: [North American Securities Administrators Association (NASAA) Definition, North American Securities Administrators Association (NASAA)]
 source: https://www.investopedia.com/terms/n/nasaa.asp

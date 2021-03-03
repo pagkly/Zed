@@ -1,5 +1,5 @@
 ---
-alias: [General Agreement on Tariffs and Trade (GATT)]
+alias: [General Agreement on Tariffs and Trade, GATT]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Agreement on Tariffs and Trade (GATT), General Agreement on Tariffs and Trade (GATT)]
 source: https://www.investopedia.com/terms/g/gatt.asp

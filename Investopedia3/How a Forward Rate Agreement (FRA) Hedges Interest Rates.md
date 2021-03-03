@@ -1,5 +1,5 @@
 ---
-alias: [Forward Rate Agreement (FRA)]
+alias: [Forward Rate Agreement, FRA]
 created: 2021-03-02T20:07:40 (UTC +11:00)
 tags: [Forward Rate Agreement (FRA) Definition, How a Forward Rate Agreement (FRA) Hedges Interest Rates]
 source: https://www.investopedia.com/terms/f/fra.asp

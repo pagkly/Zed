@@ -1,5 +1,5 @@
 ---
-alias: [Delivered Duty Paid (DDP)]
+alias: [Delivered Duty Paid, DDP]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Delivered Duty Paid (DDP) Definition, Delivered Duty Paid (DDP)]
 source: https://www.investopedia.com/terms/d/delivery-duty-paid.asp

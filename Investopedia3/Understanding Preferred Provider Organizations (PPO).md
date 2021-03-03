@@ -1,5 +1,5 @@
 ---
-alias: [Preferred Provider Organization (PPO)]
+alias: [Preferred Provider Organization, PPO]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [Preferred Provider Organization (PPO) Definition, Understanding Preferred Provider Organizations (PPO)]
 source: https://www.investopedia.com/terms/p/preferred-provider-organization.asp

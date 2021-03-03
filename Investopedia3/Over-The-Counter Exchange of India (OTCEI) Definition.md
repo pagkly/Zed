@@ -1,5 +1,5 @@
 ---
-alias: [Over-The-Counter Exchange of India (OTCEI)]
+alias: [Over-The-Counter Exchange of India, OTCEI]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Over-The-Counter Exchange of India (OTCEI) Definition, Over-The-Counter Exchange of India (OTCEI) Definition]
 source: https://www.investopedia.com/terms/o/otcei.asp

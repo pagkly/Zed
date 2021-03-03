@@ -1,5 +1,5 @@
 ---
-alias: [Stock Exchange Traded Fund (ETF)]
+alias: [Stock Exchange Traded Fund, ETF]
 created: 2021-03-02T23:45:23 (UTC +11:00)
 tags: [Stock Exchange Traded Fund (ETF) Definition, What Is a Stock Exchange-Traded Fund (ETF)?]
 source: https://www.investopedia.com/terms/s/stock-etf.asp

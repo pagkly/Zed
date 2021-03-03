@@ -1,5 +1,5 @@
 ---
-alias: [Cash And Cash Equivalents (CCE)]
+alias: [Cash And Cash Equivalents, CCE]
 created: 2021-03-02T18:46:51 (UTC +11:00)
 tags: [Cash And Cash Equivalents (CCE) Definition, Cash And Cash Equivalents (CCE) Definition]
 source: https://www.investopedia.com/terms/c/cashandcashequivalents.asp

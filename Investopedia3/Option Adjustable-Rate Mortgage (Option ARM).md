@@ -1,5 +1,5 @@
 ---
-alias: [Option Adjustable-Rate Mortgage (Option ARM)]
+alias: [Option Adjustable-Rate Mortgage, Option ARM]
 created: 2021-03-02T22:24:34 (UTC +11:00)
 tags: [Option Adjustable-Rate Mortgage (Option ARM), Option Adjustable-Rate Mortgage (Option ARM)]
 source: https://www.investopedia.com/terms/o/option_arm.asp

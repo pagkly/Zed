@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to National Securities Clearing Corporation (NSCC)]
+alias: [Introduction to National Securities Clearing Corporation, NSCC]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [Introduction to National Securities Clearing Corporation (NSCC) Definition, Introduction to National Securities Clearing Corporation (NSCC)]
 source: https://www.investopedia.com/terms/n/nscc.asp

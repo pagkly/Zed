@@ -1,5 +1,5 @@
 ---
-alias: [Certified Information Systems Auditor (CISA)]
+alias: [Certified Information Systems Auditor, CISA]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certified Information Systems Auditor (CISA) Definition, Certified Information Systems Auditor (CISA)]
 source: https://www.investopedia.com/terms/c/certified-information-systems-auditor.asp

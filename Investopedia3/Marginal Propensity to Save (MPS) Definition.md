@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Propensity to Save (MPS)]
+alias: [Marginal Propensity to Save, MPS]
 created: 2021-03-02T21:56:58 (UTC +11:00)
 tags: [Marginal Propensity to Save (MPS) Definition, Marginal Propensity to Save (MPS) Definition]
 source: https://www.investopedia.com/terms/m/marginal-propensity-save.asp

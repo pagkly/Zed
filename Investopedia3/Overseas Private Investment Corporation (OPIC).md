@@ -1,5 +1,5 @@
 ---
-alias: [Overseas Private Investment Corporation (OPIC)]
+alias: [Overseas Private Investment Corporation, OPIC]
 created: 2021-03-02T22:33:43 (UTC +11:00)
 tags: [Overseas Private Investment Corporation (OPIC), Overseas Private Investment Corporation (OPIC)]
 source: https://www.investopedia.com/terms/o/overseas-private-investment-corporation.asp

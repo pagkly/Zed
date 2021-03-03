@@ -1,5 +1,5 @@
 ---
-alias: [eXtensible Business Reporting Language (XBRL)]
+alias: [eXtensible Business Reporting Language, XBRL]
 created: 2021-03-03T01:06:04 (UTC +11:00)
 tags: [eXtensible Business Reporting Language (XBRL), eXtensible Business Reporting Language (XBRL) Definition]
 source: https://www.investopedia.com/terms/x/xbrl.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Production Possibility Frontier (PPF)]
+alias: [Production Possibility Frontier, PPF]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Production Possibility Frontier (PPF) Definition, What the Production Possibility Frontier (PPF) Curve Shows]
 source: https://www.investopedia.com/terms/p/productionpossibilityfrontier.asp

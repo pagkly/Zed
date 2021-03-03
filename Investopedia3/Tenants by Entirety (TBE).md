@@ -1,5 +1,5 @@
 ---
-alias: [Tenants by Entirety (TBE)]
+alias: [Tenants by Entirety, TBE]
 created: 2021-03-02T23:58:33 (UTC +11:00)
 tags: [Tenants by Entirety (TBE) Definition, Tenants by Entirety (TBE)]
 source: https://www.investopedia.com/terms/t/tbe.asp

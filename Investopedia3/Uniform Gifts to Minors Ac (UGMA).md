@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Gifts to Minors Act (UGMA)]
+alias: [Uniform Gifts to Minors Act, UGMA]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uniform Gifts to Minors Act (UGMA) Definition, Uniform Gifts to Minors Ac (UGMA)]
 source: https://www.investopedia.com/terms/u/ugma.asp

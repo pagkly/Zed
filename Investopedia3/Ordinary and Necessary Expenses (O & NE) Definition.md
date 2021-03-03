@@ -1,5 +1,5 @@
 ---
-alias: [Ordinary and Necessary Expenses (O & NE)]
+alias: [Ordinary and Necessary Expenses, O & NE]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Ordinary and Necessary Expenses (O & NE) Definition, Ordinary and Necessary Expenses (O & NE) Definition]
 source: https://www.investopedia.com/terms/o/oandne.asp

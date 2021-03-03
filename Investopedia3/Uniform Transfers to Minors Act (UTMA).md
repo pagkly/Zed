@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Transfers to Minors Act (UTMA)]
+alias: [Uniform Transfers to Minors Act, UTMA]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uniform Transfers to Minors Act (UTMA) Definition, Uniform Transfers to Minors Act (UTMA)]
 source: https://www.investopedia.com/terms/u/utma.asp

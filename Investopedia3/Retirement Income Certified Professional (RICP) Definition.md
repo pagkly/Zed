@@ -1,5 +1,5 @@
 ---
-alias: [Retirement Income Certified Professional (RICP)]
+alias: [Retirement Income Certified Professional, RICP]
 created: 2021-03-02T23:18:56 (UTC +11:00)
 tags: [Retirement Income Certified Professional (RICP) Definition, Retirement Income Certified Professional (RICP) Definition]
 source: https://www.investopedia.com/terms/r/retirement-income-certified-professional-ricp.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Home Affordable Refinance Program (HARP)]
+alias: [Home Affordable Refinance Program, HARP]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Affordable Refinance Program (HARP) Definition, Home Affordable Refinance Program (HARP)]
 source: https://www.investopedia.com/terms/h/home-affordable-refinance-program-harp.asp

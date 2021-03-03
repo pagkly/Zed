@@ -1,5 +1,5 @@
 ---
-alias: [Telegraphic Transfer (TT)]
+alias: [Telegraphic Transfer, TT]
 created: 2021-03-02T23:56:25 (UTC +11:00)
 tags: [Telegraphic Transfer (TT) Definition, Telegraphic Transfers: What You Should Know]
 source: https://www.investopedia.com/terms/t/telegraphic-transfer.asp

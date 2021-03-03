@@ -1,5 +1,5 @@
 ---
-alias: [Grantor Retained Annuity Trust (GRAT)]
+alias: [Grantor Retained Annuity Trust, GRAT]
 created: 2021-03-02T20:25:17 (UTC +11:00)
 tags: [Grantor Retained Annuity Trust (GRAT) Definition, Grantor Retained Annuity Trust (GRAT) Definition]
 source: https://www.investopedia.com/terms/g/grat.asp

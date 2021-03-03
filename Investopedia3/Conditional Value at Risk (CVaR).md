@@ -1,5 +1,5 @@
 ---
-alias: [Conditional Value at Risk (CVaR)]
+alias: [Conditional Value at Risk, CVaR]
 created: 2021-03-02T18:55:44 (UTC +11:00)
 tags: [Conditional Value at Risk (CVaR), Conditional Value at Risk (CVaR)]
 source: https://www.investopedia.com/terms/c/conditional_value_at_risk.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Zero Basis Risk Swap (ZEBRA)]
+alias: [Zero Basis Risk Swap, ZEBRA]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero Basis Risk Swap (ZEBRA) Definition, Zero Basis Risk Swap (ZEBRA)]
 source: https://www.investopedia.com/terms/z/zebra.asp

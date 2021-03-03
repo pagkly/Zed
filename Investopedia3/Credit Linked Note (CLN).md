@@ -1,5 +1,5 @@
 ---
-alias: [Credit-Linked Note (CLN)]
+alias: [Credit-Linked Note, CLN]
 created: 2021-03-02T19:02:28 (UTC +11:00)
 tags: [Credit-Linked Note (CLN) Definition, Credit Linked Note (CLN)]
 source: https://www.investopedia.com/terms/c/creditlinkednote.asp

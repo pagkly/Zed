@@ -1,5 +1,5 @@
 ---
-alias: [Simple Moving Average (SMA)]
+alias: [Simple Moving Average, SMA]
 created: 2021-03-02T23:36:37 (UTC +11:00)
 tags: [Simple Moving Average (SMA) Definition, Simple Moving Average (SMA) Definition]
 source: https://www.investopedia.com/terms/s/sma.asp

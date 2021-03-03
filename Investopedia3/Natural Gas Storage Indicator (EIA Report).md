@@ -1,5 +1,5 @@
 ---
-alias: [Natural Gas Storage Indicator (EIA Report)]
+alias: [Natural Gas Storage Indicator, EIA Report]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [Natural Gas Storage Indicator (EIA Report), Natural Gas Storage Indicator (EIA Report)]
 source: https://www.investopedia.com/terms/n/natural-gas-storage-indicator-eia-report.asp

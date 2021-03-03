@@ -1,5 +1,5 @@
 ---
-alias: [Year's Maximum Pensionable Earnings (YMPE)]
+alias: [Year's Maximum Pensionable Earnings, YMPE]
 created: 2021-03-03T01:08:28 (UTC +11:00)
 tags: [Year's Maximum Pensionable Earnings (YMPE) Definition, Year's Maximum Pensionable Earnings (YMPE)]
 source: https://www.investopedia.com/terms/y/years-maximum-pensionable-earnings.asp

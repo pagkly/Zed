@@ -1,5 +1,5 @@
 ---
-alias: [Tezos (XTZ)]
+alias: [Tezos, XTZ]
 created: 2021-03-02T23:58:34 (UTC +11:00)
 tags: [Tezos (XTZ) Definition, Tezos (XTZ) Definition]
 source: https://www.investopedia.com/terms/t/tezos.asp

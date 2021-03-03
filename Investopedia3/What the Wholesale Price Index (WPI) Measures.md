@@ -1,5 +1,5 @@
 ---
-alias: [Wholesale Price Index (WPI)]
+alias: [Wholesale Price Index, WPI]
 created: 2021-03-03T00:57:13 (UTC +11:00)
 tags: [Wholesale Price Index (WPI) Definition, What the Wholesale Price Index (WPI) Measures]
 source: https://www.investopedia.com/terms/w/wpi.asp

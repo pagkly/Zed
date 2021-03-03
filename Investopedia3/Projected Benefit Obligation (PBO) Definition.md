@@ -1,5 +1,5 @@
 ---
-alias: [Projected Benefit Obligation (PBO)]
+alias: [Projected Benefit Obligation, PBO]
 created: 2021-03-02T22:54:43 (UTC +11:00)
 tags: [Projected Benefit Obligation (PBO) Definition, Projected Benefit Obligation (PBO) Definition]
 source: https://www.investopedia.com/terms/p/pbo.asp

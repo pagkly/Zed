@@ -1,5 +1,5 @@
 ---
-alias: [Gross Expense Ratio (GER)]
+alias: [Gross Expense Ratio, GER]
 created: 2021-03-02T20:27:49 (UTC +11:00)
 tags: [Gross Expense Ratio (GER) Definition, How the Gross Expense Ratio (GER) Works]
 source: https://www.investopedia.com/terms/g/gross-expense-ratio.asp

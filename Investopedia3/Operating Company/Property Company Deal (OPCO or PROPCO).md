@@ -1,5 +1,5 @@
 ---
-alias: [Operating Company/Property Company Deal (OPCO or PROPCO)]
+alias: [Operating Company/Property Company Deal, OPCO or PROPCO]
 created: 2021-03-02T22:20:05 (UTC +11:00)
 tags: [Operating Company/Property Company Deal (OPCO or PROPCO), Operating Company/Property Company Deal (OPCO or PROPCO)]
 source: https://www.investopedia.com/terms/o/opco-propco.asp

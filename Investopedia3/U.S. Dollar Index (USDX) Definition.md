@@ -1,5 +1,5 @@
 ---
-alias: [U.S. Dollar Index (USDX)]
+alias: [U.S. Dollar Index, USDX]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [U.S. Dollar Index (USDX) Definition, U.S. Dollar Index (USDX) Definition]
 source: https://www.investopedia.com/terms/u/usdx.asp

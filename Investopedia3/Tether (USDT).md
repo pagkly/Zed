@@ -1,5 +1,5 @@
 ---
-alias: [Tether (USDT)]
+alias: [Tether, USDT]
 created: 2021-03-02T23:58:34 (UTC +11:00)
 tags: [Tether (USDT), Tether (USDT)]
 source: https://www.investopedia.com/terms/t/tether-usdt.asp

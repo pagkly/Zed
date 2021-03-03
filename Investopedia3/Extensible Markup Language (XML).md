@@ -1,5 +1,5 @@
 ---
-alias: [Extensible Markup Language (XML)]
+alias: [Extensible Markup Language, XML]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Extensible Markup Language (XML), Extensible Markup Language (XML)]
 source: https://www.investopedia.com/terms/x/extensible-markup-language-xml.asp

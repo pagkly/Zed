@@ -1,5 +1,5 @@
 ---
-alias: [Ultra-High-Net-Worth Individual (UHNWI)]
+alias: [Ultra-High-Net-Worth Individual, UHNWI]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [Ultra-High-Net-Worth Individual (UHNWI) Definition, Ultra-High-Net-Worth Individual (UHNWI)]
 source: https://www.investopedia.com/terms/u/ultra-high-net-worth-individuals-uhnwi.asp

@@ -1,5 +1,5 @@
 ---
-alias: [UN Principles for Responsible Investment (PRI)]
+alias: [UN Principles for Responsible Investment, PRI]
 created: 2021-03-03T00:13:11 (UTC +11:00)
 tags: [UN Principles for Responsible Investment (PRI) Definition, UN Principles for Responsible Investment (PRI) Definition]
 source: https://www.investopedia.com/terms/u/un-principles-responsible-investment-pri.asp

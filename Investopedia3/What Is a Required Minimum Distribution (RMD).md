@@ -1,5 +1,5 @@
 ---
-alias: [Required Minimum Distribution (RMD)]
+alias: [Required Minimum Distribution, RMD]
 created: 2021-03-02T23:16:49 (UTC +11:00)
 tags: [Required Minimum Distribution (RMD) Definition, What Is a Required Minimum Distribution (RMD)?]
 source: https://www.investopedia.com/terms/r/requiredminimumdistribution.asp

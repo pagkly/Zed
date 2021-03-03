@@ -1,5 +1,5 @@
 ---
-alias: [Financial Independence, Retire Early (FIRE)]
+alias: [Financial Independence, Retire Early, FIRE]
 created: 2021-03-02T19:54:43 (UTC +11:00)
 tags: [Financial Independence, Retire Early (FIRE) Definition, Financial Independence, Retire Early (FIRE)]
 source: https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Equated Monthly Installment (EMI)]
+alias: [Equated Monthly Installment, EMI]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equated Monthly Installment (EMI) Definition, Equated Monthly Installment (EMI)]
 source: https://www.investopedia.com/terms/e/equated_monthly_installment.asp

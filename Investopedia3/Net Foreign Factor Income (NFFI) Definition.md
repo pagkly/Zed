@@ -1,5 +1,5 @@
 ---
-alias: [Net Foreign Factor Income (NFFI)]
+alias: [Net Foreign Factor Income, NFFI]
 created: 2021-03-02T21:39:25 (UTC +11:00)
 tags: [Net Foreign Factor Income (NFFI) Definition, Net Foreign Factor Income (NFFI) Definition]
 source: https://www.investopedia.com/terms/n/net-foreign-factor-income-nffi.asp

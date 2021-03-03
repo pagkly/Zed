@@ -1,5 +1,5 @@
 ---
-alias: [Highly Compensated Employee (HCE)]
+alias: [Highly Compensated Employee, HCE]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [Highly Compensated Employee (HCE) Definition, Highly Compensated Employees (HCE)]
 source: https://www.investopedia.com/terms/h/highly-compensated-employee.asp

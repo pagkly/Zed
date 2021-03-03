@@ -1,5 +1,5 @@
 ---
-alias: [Limited Liability Company (LLC)]
+alias: [Limited Liability Company, LLC]
 created: 2021-03-02T21:19:46 (UTC +11:00)
 tags: [Limited Liability Company (LLC) Definition, The Truth About Limited Liability Companies]
 source: https://www.investopedia.com/terms/l/llc.asp

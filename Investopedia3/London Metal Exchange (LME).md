@@ -1,5 +1,5 @@
 ---
-alias: [London Metal Exchange (LME)]
+alias: [London Metal Exchange, LME]
 created: 2021-03-02T21:25:56 (UTC +11:00)
 tags: [London Metal Exchange (LME) Definition, London Metal Exchange (LME)]
 source: https://www.investopedia.com/terms/l/londonmetalexchange.asp

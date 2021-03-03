@@ -1,5 +1,5 @@
 ---
-alias: [Hang Seng Index (HSI)]
+alias: [Hang Seng Index, HSI]
 created: 2021-03-02T20:34:42 (UTC +11:00)
 tags: [Hang Seng Index (HSI), Hang Seng Index (HSI) Definition]
 source: https://www.investopedia.com/terms/h/hangseng.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Present Value Interest Factor of Annuity (PVIFA)]
+alias: [Present Value Interest Factor of Annuity, PVIFA]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [Present Value Interest Factor of Annuity (PVIFA), Present Value Interest Factor of Annuity (PVIFA)]
 source: https://www.investopedia.com/terms/p/pvifa.asp

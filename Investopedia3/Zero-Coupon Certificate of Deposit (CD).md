@@ -1,5 +1,5 @@
 ---
-alias: [Zero-Coupon Certificate of Deposit (CD)]
+alias: [Zero-Coupon Certificate of Deposit, CD]
 created: 2021-03-03T01:10:29 (UTC +11:00)
 tags: [Zero-Coupon Certificate of Deposit (CD) Definition, Zero-Coupon Certificate of Deposit (CD)]
 source: https://www.investopedia.com/terms/z/zero-coupon-cd.asp

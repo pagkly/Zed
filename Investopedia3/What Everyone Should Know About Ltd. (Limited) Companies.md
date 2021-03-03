@@ -1,5 +1,5 @@
 ---
-alias: [Ltd. (Limited)]
+alias: [Ltd., Limited]
 created: 2021-03-02T21:30:10 (UTC +11:00)
 tags: [Ltd. (Limited) Definition, What Everyone Should Know About Ltd. (Limited) Companies]
 source: https://www.investopedia.com/terms/l/ltd-limited.asp

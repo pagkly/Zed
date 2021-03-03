@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Propensity To Import (MPM)]
+alias: [Marginal Propensity To Import, MPM]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Marginal Propensity To Import (MPM) Definition, Marginal Propensity To Import (MPM) Definition]
 source: https://www.investopedia.com/terms/m/marginal-propensity-import-mpm.asp

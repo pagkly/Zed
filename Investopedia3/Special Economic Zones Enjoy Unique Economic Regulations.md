@@ -1,5 +1,5 @@
 ---
-alias: [Special Economic Zone (SEZ)]
+alias: [Special Economic Zone, SEZ]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Special Economic Zone (SEZ) Definition, Special Economic Zones Enjoy Unique Economic Regulations]
 source: https://www.investopedia.com/terms/s/sez.asp

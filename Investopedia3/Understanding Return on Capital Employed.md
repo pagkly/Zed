@@ -1,5 +1,5 @@
 ---
-alias: [Return on Capital Employed (ROCE)]
+alias: [Return on Capital Employed, ROCE]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Return on Capital Employed (ROCE) Definition, Understanding Return on Capital Employed]
 source: https://www.investopedia.com/terms/r/roce.asp

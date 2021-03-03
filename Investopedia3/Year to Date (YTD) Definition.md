@@ -1,5 +1,5 @@
 ---
-alias: [Year to Date (YTD)]
+alias: [Year to Date, YTD]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [Year to Date (YTD) Definition, Year to Date (YTD) Definition]
 source: https://www.investopedia.com/terms/y/ytd.asp

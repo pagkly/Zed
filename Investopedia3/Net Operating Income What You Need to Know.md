@@ -1,5 +1,5 @@
 ---
-alias: [Net Operating Income (NOI)]
+alias: [Net Operating Income, NOI]
 created: 2021-03-02T21:39:27 (UTC +11:00)
 tags: [Net Operating Income (NOI) Definition, Net Operating Income: What You Need to Know]
 source: https://www.investopedia.com/terms/n/noi.asp

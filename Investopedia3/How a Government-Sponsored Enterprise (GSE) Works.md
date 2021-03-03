@@ -1,5 +1,5 @@
 ---
-alias: [Government-Sponsored Enterprise (GSE)]
+alias: [Government-Sponsored Enterprise, GSE]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government-Sponsored Enterprise (GSE) Definition, How a Government-Sponsored Enterprise (GSE) Works]
 source: https://www.investopedia.com/terms/g/gse.asp

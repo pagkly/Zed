@@ -1,5 +1,5 @@
 ---
-alias: [Extraordinary General Meeting (EGM)]
+alias: [Extraordinary General Meeting, EGM]
 created: 2021-03-02T19:50:25 (UTC +11:00)
 tags: [Extraordinary General Meeting (EGM) Definition, Why Companies Call Extraordinary General Meetings (EGM)]
 source: https://www.investopedia.com/terms/e/egm.asp

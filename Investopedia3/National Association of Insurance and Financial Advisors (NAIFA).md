@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Insurance and Financial Advisors (NAIFA)]
+alias: [National Association of Insurance and Financial Advisors, NAIFA]
 created: 2021-03-02T21:32:16 (UTC +11:00)
 tags: [National Association of Insurance and Financial Advisors (NAIFA), National Association of Insurance and Financial Advisors (NAIFA)]
 source: https://www.investopedia.com/terms/n/naifa.asp

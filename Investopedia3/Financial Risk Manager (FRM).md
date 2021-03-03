@@ -1,5 +1,5 @@
 ---
-alias: [Financial Risk Manager (FRM)]
+alias: [Financial Risk Manager, FRM]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [Financial Risk Manager (FRM), Financial Risk Manager (FRM)]
 source: https://www.investopedia.com/terms/f/frm.asp

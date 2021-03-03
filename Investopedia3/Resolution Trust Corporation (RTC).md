@@ -1,5 +1,5 @@
 ---
-alias: [Resolution Trust Corporation (RTC)]
+alias: [Resolution Trust Corporation, RTC]
 created: 2021-03-02T23:18:55 (UTC +11:00)
 tags: [Resolution Trust Corporation (RTC), Resolution Trust Corporation (RTC)]
 source: https://www.investopedia.com/terms/r/resolution-trust-corporation.asp

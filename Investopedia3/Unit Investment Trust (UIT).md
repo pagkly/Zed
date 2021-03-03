@@ -1,5 +1,5 @@
 ---
-alias: [Unit Investment Trust (UIT)]
+alias: [Unit Investment Trust, UIT]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Unit Investment Trust (UIT) Definition, Unit Investment Trust (UIT)]
 source: https://www.investopedia.com/terms/u/uit.asp

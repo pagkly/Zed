@@ -1,5 +1,5 @@
 ---
-alias: [Rate of Change (ROC)]
+alias: [Rate of Change, ROC]
 created: 2021-03-02T23:07:34 (UTC +11:00)
 tags: [Rate of Change (ROC), Rate of Change (ROC)]
 source: https://www.investopedia.com/terms/r/rateofchange.asp

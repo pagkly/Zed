@@ -1,5 +1,5 @@
 ---
-alias: [Over-The-Counter (OTC)]
+alias: [Over-The-Counter, OTC]
 created: 2021-03-02T22:31:35 (UTC +11:00)
 tags: [Over-The-Counter (OTC) Definition, Over-The-Counter (OTC)]
 source: https://www.investopedia.com/terms/o/otc.asp

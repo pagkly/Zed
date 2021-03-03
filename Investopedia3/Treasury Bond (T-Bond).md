@@ -1,5 +1,5 @@
 ---
-alias: [Treasury Bond (T-Bond)]
+alias: [Treasury Bond, T-Bond]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Treasury Bond (T-Bond) Definition, Treasury Bond (T-Bond)]
 source: https://www.investopedia.com/terms/t/treasurybond.asp

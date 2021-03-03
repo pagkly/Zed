@@ -1,5 +1,5 @@
 ---
-alias: [Guaranteed Minimum Withdrawal Benefit (GMWB)]
+alias: [Guaranteed Minimum Withdrawal Benefit, GMWB]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Minimum Withdrawal Benefit (GMWB) Definition, Guaranteed Minimum Withdrawal Benefit (GMWB)]
 source: https://www.investopedia.com/terms/g/gmwb.asp

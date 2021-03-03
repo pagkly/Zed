@@ -1,5 +1,5 @@
 ---
-alias: [Substantially Equal Periodic Payment (SEPP)]
+alias: [Substantially Equal Periodic Payment, SEPP]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Substantially Equal Periodic Payment (SEPP) Definition, Substantially Equal Periodic Payment (SEPP)]
 source: https://www.investopedia.com/terms/s/sepp.asp

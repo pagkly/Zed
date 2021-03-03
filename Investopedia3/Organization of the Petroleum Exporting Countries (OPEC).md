@@ -1,5 +1,5 @@
 ---
-alias: [Organization of the Petroleum Exporting Countries (OPEC)]
+alias: [Organization of the Petroleum Exporting Countries, OPEC]
 created: 2021-03-02T22:29:29 (UTC +11:00)
 tags: [Organization of the Petroleum Exporting Countries (OPEC) Definition, Organization of the Petroleum Exporting Countries (OPEC)]
 source: https://www.investopedia.com/terms/o/opec.asp

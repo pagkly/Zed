@@ -1,5 +1,5 @@
 ---
-alias: [Joint Tenants in Common (JTIC)]
+alias: [Joint Tenants in Common, JTIC]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Joint Tenants in Common (JTIC) Definition, Joint Tenants in Common (JTIC)]
 source: https://www.investopedia.com/terms/j/jtic.asp

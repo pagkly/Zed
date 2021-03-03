@@ -1,5 +1,5 @@
 ---
-alias: [Direct Public Offering (DPO)]
+alias: [Direct Public Offering, DPO]
 created: 2021-03-02T19:20:35 (UTC +11:00)
 tags: [Direct Public Offering (DPO) Definition, Direct Public Offering (DPO)]
 source: https://www.investopedia.com/terms/d/directpublicoffering.asp

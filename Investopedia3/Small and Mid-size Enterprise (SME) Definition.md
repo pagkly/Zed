@@ -1,5 +1,5 @@
 ---
-alias: [Small and Mid-size Enterprise (SME)]
+alias: [Small and Mid-size Enterprise, SME]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Small and Mid-size Enterprise (SME) Definition, Small and Mid-size Enterprise (SME) Definition]
 source: https://www.investopedia.com/terms/s/smallandmidsizeenterprises.asp

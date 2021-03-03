@@ -1,5 +1,5 @@
 ---
-alias: [Jordanian Dinar (JOD)]
+alias: [Jordanian Dinar, JOD]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Jordanian Dinar (JOD) Definition, Understanding the Jordanian Dinar (JOD)]
 source: https://www.investopedia.com/terms/j/jod.asp

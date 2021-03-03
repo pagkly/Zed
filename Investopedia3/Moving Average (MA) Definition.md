@@ -1,5 +1,5 @@
 ---
-alias: [Moving Average (MA)]
+alias: [Moving Average, MA]
 created: 2021-03-02T22:11:43 (UTC +11:00)
 tags: [Moving Average (MA) Definition, Moving Average (MA) Definition]
 source: https://www.investopedia.com/terms/m/movingaverage.asp

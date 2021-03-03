@@ -1,5 +1,5 @@
 ---
-alias: [Original Equipment Manufacturer (OEM)]
+alias: [Original Equipment Manufacturer, OEM]
 created: 2021-03-02T22:29:30 (UTC +11:00)
 tags: [Original Equipment Manufacturer (OEM) Definition, What You Should Know About Original Equipment Manufacturers (OEMs)]
 source: https://www.investopedia.com/terms/o/oem.asp

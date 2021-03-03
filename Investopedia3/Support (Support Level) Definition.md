@@ -1,5 +1,5 @@
 ---
-alias: [Support (Support Level)]
+alias: [Support, Support Level]
 created: 2021-03-02T23:47:47 (UTC +11:00)
 tags: [Support (Support Level) Definition & Example, Support (Support Level) Definition]
 source: https://www.investopedia.com/terms/s/support.asp

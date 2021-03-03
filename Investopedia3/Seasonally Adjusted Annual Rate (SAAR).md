@@ -1,5 +1,5 @@
 ---
-alias: [Seasonally Adjusted Annual Rate (SAAR)]
+alias: [Seasonally Adjusted Annual Rate, SAAR]
 created: 2021-03-02T23:29:57 (UTC +11:00)
 tags: [Seasonally Adjusted Annual Rate (SAAR) Definition, Seasonally Adjusted Annual Rate (SAAR)]
 source: https://www.investopedia.com/terms/s/saar.asp

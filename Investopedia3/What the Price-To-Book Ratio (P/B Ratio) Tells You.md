@@ -1,5 +1,5 @@
 ---
-alias: [Price-To-Book Ratio (P/B Ratio)]
+alias: [Price-To-Book Ratio, P/B Ratio]
 created: 2021-03-02T22:49:52 (UTC +11:00)
 tags: [Price-To-Book Ratio (P/B Ratio) Definition, What the Price-To-Book Ratio (P/B Ratio) Tells You?]
 source: https://www.investopedia.com/terms/p/price-to-bookratio.asp

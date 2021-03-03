@@ -1,5 +1,5 @@
 ---
-alias: [Personal Identification Number (PIN)]
+alias: [Personal Identification Number, PIN]
 created: 2021-03-02T22:42:35 (UTC +11:00)
 tags: [Personal Identification Number (PIN) Definition, Personal Identification Number (PIN)]
 source: https://www.investopedia.com/terms/p/personal-identification-number.asp

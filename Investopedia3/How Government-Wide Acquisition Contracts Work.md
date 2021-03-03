@@ -1,5 +1,5 @@
 ---
-alias: [Government-Wide Acquisition Contract (GWAC)]
+alias: [Government-Wide Acquisition Contract, GWAC]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government-Wide Acquisition Contract (GWAC) Definition, How Government-Wide Acquisition Contracts Work]
 source: https://www.investopedia.com/terms/g/government-wide-acquisition-contract.asp

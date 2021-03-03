@@ -1,5 +1,5 @@
 ---
-alias: [Distributed Ledger Technology (DLT)]
+alias: [Distributed Ledger Technology, DLT]
 created: 2021-03-02T19:22:37 (UTC +11:00)
 tags: [Distributed Ledger Technology (DLT) Definition, Distributed Ledger Technology]
 source: https://www.investopedia.com/terms/d/distributed-ledger-technology-dlt.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Social Security Number (SSN)]
+alias: [Social Security Number, SSN]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Social Security Number (SSN), Social Security Number (SSN)]
 source: https://www.investopedia.com/terms/s/ssn.asp

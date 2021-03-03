@@ -1,5 +1,5 @@
 ---
-alias: [Quarter Over Quarter (Q/Q)]
+alias: [Quarter Over Quarter, Q/Q]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quarter Over Quarter (Q/Q) Definition, Quarter Over Quarter (Q/Q)]
 source: https://www.investopedia.com/terms/q/quarter-over-quarter.asp

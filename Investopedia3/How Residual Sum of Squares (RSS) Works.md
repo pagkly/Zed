@@ -1,5 +1,5 @@
 ---
-alias: [Residual Sum of Squares (RSS)]
+alias: [Residual Sum of Squares, RSS]
 created: 2021-03-02T23:18:55 (UTC +11:00)
 tags: [Residual Sum of Squares (RSS) Definition, How Residual Sum of Squares (RSS) Works]
 source: https://www.investopedia.com/terms/r/residual-sum-of-squares.asp

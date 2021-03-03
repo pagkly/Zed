@@ -1,5 +1,5 @@
 ---
-alias: [Highly Leveraged Transaction (HLT)]
+alias: [Highly Leveraged Transaction, HLT]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [Highly Leveraged Transaction (HLT) Definition, Highly Leveraged Transaction (HLT)]
 source: https://www.investopedia.com/terms/h/highlyleveragedtransaction.asp

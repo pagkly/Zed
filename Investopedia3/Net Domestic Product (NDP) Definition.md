@@ -1,5 +1,5 @@
 ---
-alias: [Net Domestic Product (NDP)]
+alias: [Net Domestic Product, NDP]
 created: 2021-03-02T21:36:55 (UTC +11:00)
 tags: [Net Domestic Product (NDP) Definition, Net Domestic Product (NDP) Definition]
 source: https://www.investopedia.com/terms/n/netdomesticproduct.asp

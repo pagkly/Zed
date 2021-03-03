@@ -1,5 +1,5 @@
 ---
-alias: [Non-Performing Asset (NPA)]
+alias: [Non-Performing Asset, NPA]
 created: 2021-03-02T21:48:19 (UTC +11:00)
 tags: [Non-Performing Asset (NPA) Definition, Non-Performing Asset (NPA) Definition]
 source: https://www.investopedia.com/terms/n/non-performing-assets.asp

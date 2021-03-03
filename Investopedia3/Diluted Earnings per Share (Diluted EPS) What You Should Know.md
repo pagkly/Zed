@@ -1,5 +1,5 @@
 ---
-alias: [Diluted Earnings per Share (Diluted EPS)]
+alias: [Diluted Earnings per Share, Diluted EPS]
 created: 2021-03-02T19:18:11 (UTC +11:00)
 tags: [Diluted Earnings per Share (Diluted EPS) Definition, Diluted Earnings per Share (Diluted EPS): What You Should Know]
 source: https://www.investopedia.com/terms/d/dilutedeps.asp

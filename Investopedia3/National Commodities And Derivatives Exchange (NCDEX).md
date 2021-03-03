@@ -1,5 +1,5 @@
 ---
-alias: [National Commodities And Derivatives Exchange (NCDEX)]
+alias: [National Commodities And Derivatives Exchange, NCDEX]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Commodities And Derivatives Exchange (NCDEX), National Commodities And Derivatives Exchange (NCDEX)]
 source: https://www.investopedia.com/terms/n/ncdex.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to Valued Policy Law (VPL)]
+alias: [Introduction to Valued Policy Law, VPL]
 created: 2021-03-03T00:34:23 (UTC +11:00)
 tags: [Introduction to Valued Policy Law (VPL), Introduction to Valued Policy Law (VPL) Definition]
 source: https://www.investopedia.com/terms/v/valued-policy-law-vpl.asp

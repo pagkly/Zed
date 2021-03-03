@@ -1,5 +1,5 @@
 ---
-alias: [Long-Term Growth (LTG)]
+alias: [Long-Term Growth, LTG]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Long-Term Growth (LTG) Definition, Long-Term Growth (LTG)]
 source: https://www.investopedia.com/terms/l/longtermgrowth.asp

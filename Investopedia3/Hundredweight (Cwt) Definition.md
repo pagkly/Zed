@@ -1,5 +1,5 @@
 ---
-alias: [Hundredweight (Cwt)]
+alias: [Hundredweight, Cwt]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Hundredweight (Cwt) Definition, Hundredweight (Cwt) Definition]
 source: https://www.investopedia.com/terms/h/hundredweight.asp

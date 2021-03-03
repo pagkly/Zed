@@ -1,5 +1,5 @@
 ---
-alias: [Heroes Earned Retirement Opportunities Act (HERO)]
+alias: [Heroes Earned Retirement Opportunities Act, HERO]
 created: 2021-03-02T20:41:17 (UTC +11:00)
 tags: [Heroes Earned Retirement Opportunities Act (HERO) Definition, What Is the HERO Tax Break?]
 source: https://www.investopedia.com/terms/h/hero.asp

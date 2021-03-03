@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Investors Corp. (BetterInvesting)]
+alias: [National Association of Investors Corp., BetterInvesting]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Association of Investors Corp. (BetterInvesting), National Association of Investors Corp. (BetterInvesting) Definition]
 source: https://www.investopedia.com/terms/n/naic.asp

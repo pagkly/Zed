@@ -1,5 +1,5 @@
 ---
-alias: [Japanese Government Bond (JGB)]
+alias: [Japanese Government Bond, JGB]
 created: 2021-03-02T20:56:09 (UTC +11:00)
 tags: [Japanese Government Bond (JGB) Definition, Japanese Government Bond (JGB)]
 source: https://www.investopedia.com/terms/j/jgb.asp

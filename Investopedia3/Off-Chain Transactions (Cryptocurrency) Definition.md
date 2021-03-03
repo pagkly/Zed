@@ -1,5 +1,5 @@
 ---
-alias: [Off-Chain Transactions (Cryptocurrency)]
+alias: [Off-Chain Transactions, Cryptocurrency]
 created: 2021-03-02T22:15:54 (UTC +11:00)
 tags: [Off-Chain Transactions (Cryptocurrency), Off-Chain Transactions (Cryptocurrency) Definition]
 source: https://www.investopedia.com/terms/o/offchain-transactions-cryptocurrency.asp

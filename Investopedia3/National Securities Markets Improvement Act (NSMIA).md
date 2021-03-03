@@ -1,5 +1,5 @@
 ---
-alias: [National Securities Markets Improvement Act (NSMIA)]
+alias: [National Securities Markets Improvement Act, NSMIA]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Securities Markets Improvement Act (NSMIA), National Securities Markets Improvement Act (NSMIA)]
 source: https://www.investopedia.com/terms/n/nsmia.asp

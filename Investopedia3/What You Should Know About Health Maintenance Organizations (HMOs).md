@@ -1,5 +1,5 @@
 ---
-alias: [Health Maintenance Organization (HMO)]
+alias: [Health Maintenance Organization, HMO]
 created: 2021-03-02T20:39:12 (UTC +11:00)
 tags: [Health Maintenance Organization (HMO) Definition, What You Should Know About Health Maintenance Organizations (HMOs)]
 source: https://www.investopedia.com/terms/h/hmo.asp

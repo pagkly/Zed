@@ -1,5 +1,5 @@
 ---
-alias: [Low-Income Housing Tax Credit (LIHTC)]
+alias: [Low-Income Housing Tax Credit, LIHTC]
 created: 2021-03-02T21:30:09 (UTC +11:00)
 tags: [Low-Income Housing Tax Credit (LIHTC) Definition, Low-Income Housing Tax Credit (LIHTC)]
 source: https://www.investopedia.com/terms/l/long-income-housing-tax-credit.asp

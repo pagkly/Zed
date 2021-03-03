@@ -1,5 +1,5 @@
 ---
-alias: [Government National Mortgage Association (Ginnie Mae)]
+alias: [Government National Mortgage Association, Ginnie Mae]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Government National Mortgage Association (Ginnie Mae) Definition, Government National Mortgage Association (Ginnie Mae)]
 source: https://www.investopedia.com/terms/g/ginniemae.asp

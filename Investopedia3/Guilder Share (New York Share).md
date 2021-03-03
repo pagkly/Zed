@@ -1,5 +1,5 @@
 ---
-alias: [Guilder Share (New York Share)]
+alias: [Guilder Share, New York Share]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guilder Share (New York Share), Guilder Share (New York Share)]
 source: https://www.investopedia.com/terms/g/guildershare.asp

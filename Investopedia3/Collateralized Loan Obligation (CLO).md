@@ -1,5 +1,5 @@
 ---
-alias: [Collateralized Loan Obligation (CLO)]
+alias: [Collateralized Loan Obligation, CLO]
 created: 2021-03-02T18:53:38 (UTC +11:00)
 tags: [Collateralized Loan Obligation (CLO), Collateralized Loan Obligation (CLO)]
 source: https://www.investopedia.com/terms/c/clo.asp

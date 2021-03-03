@@ -1,5 +1,5 @@
 ---
-alias: [Introduction to Natural Language Processing (NLP)]
+alias: [Introduction to Natural Language Processing, NLP]
 created: 2021-03-02T21:34:24 (UTC +11:00)
 tags: [Introduction to Natural Language Processing (NLP), Introduction to Natural Language Processing (NLP)]
 source: https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Forward Price-To-Earnings (Forward P/E)]
+alias: [Forward Price-To-Earnings, Forward P/E]
 created: 2021-03-02T20:07:40 (UTC +11:00)
 tags: [Forward Price-To-Earnings (Forward P/E) Definition, Inside Forward Price-To-Earnings (Forward P/E Metric)]
 source: https://www.investopedia.com/terms/f/forwardpe.asp

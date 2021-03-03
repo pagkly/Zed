@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Joint and Survivor Annuity (QJSA)]
+alias: [Qualified Joint and Survivor Annuity, QJSA]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Joint and Survivor Annuity (QJSA), Qualified Joint and Survivor Annuity (QJSA)]
 source: https://www.investopedia.com/terms/q/qjsa.asp

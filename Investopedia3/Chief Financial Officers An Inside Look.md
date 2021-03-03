@@ -1,5 +1,5 @@
 ---
-alias: [Chief Financial Officer (CFO)]
+alias: [Chief Financial Officer, CFO]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chief Financial Officer (CFO) Definition, Chief Financial Officers: An Inside Look]
 source: https://www.investopedia.com/terms/c/cfo.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Sustainable Growth Rate (SGR)]
+alias: [Sustainable Growth Rate, SGR]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [Sustainable Growth Rate (SGR) Definition, Understanding the Sustainable Growth Rate (SGR)]
 source: https://www.investopedia.com/terms/s/sustainablegrowthrate.asp

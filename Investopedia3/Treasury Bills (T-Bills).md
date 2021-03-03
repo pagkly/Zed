@@ -1,5 +1,5 @@
 ---
-alias: [Treasury Bills (T-Bills)]
+alias: [Treasury Bills, T-Bills]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Treasury Bills (T-Bills) Definition, Treasury Bills (T-Bills)]
 source: https://www.investopedia.com/terms/t/treasurybill.asp

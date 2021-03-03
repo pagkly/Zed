@@ -1,5 +1,5 @@
 ---
-alias: [Venture Capital Trust (VCT)]
+alias: [Venture Capital Trust, VCT]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Venture Capital Trust (VCT) Definition, Venture Capital Trust (VCT)]
 source: https://www.investopedia.com/terms/v/venturecapitaltrust.asp

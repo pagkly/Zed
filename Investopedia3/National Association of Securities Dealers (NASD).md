@@ -1,5 +1,5 @@
 ---
-alias: [National Association of Securities Dealers (NASD)]
+alias: [National Association of Securities Dealers, NASD]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Association of Securities Dealers (NASD) Definition, National Association of Securities Dealers (NASD)]
 source: https://www.investopedia.com/terms/n/nasd.asp

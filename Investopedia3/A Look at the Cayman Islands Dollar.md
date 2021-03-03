@@ -1,5 +1,5 @@
 ---
-alias: [Cayman Islands Dollar (KYD)]
+alias: [Cayman Islands Dollar, KYD]
 created: 2021-03-02T21:09:19 (UTC +11:00)
 tags: [Cayman Islands Dollar (KYD) Definition, A Look at the Cayman Islands Dollar]
 source: https://www.investopedia.com/terms/k/kyd.asp

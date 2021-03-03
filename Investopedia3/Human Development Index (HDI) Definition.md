@@ -1,5 +1,5 @@
 ---
-alias: [Human Development Index (HDI)]
+alias: [Human Development Index, HDI]
 created: 2021-03-02T20:54:02 (UTC +11:00)
 tags: [Human Development Index (HDI) Definition, Human Development Index (HDI) Definition]
 source: https://www.investopedia.com/terms/h/human-development-index-hdi.asp

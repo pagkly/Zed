@@ -1,5 +1,5 @@
 ---
-alias: [Nonbank Financial Companies (NBFCs)]
+alias: [Nonbank Financial Companies, NBFCs]
 created: 2021-03-02T21:45:56 (UTC +11:00)
 tags: [Nonbank Financial Companies (NBFCs) Definition, What Can Nonbank Financial Companies (NBFCs ) Do]
 source: https://www.investopedia.com/terms/n/nbfcs.asp

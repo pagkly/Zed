@@ -1,5 +1,5 @@
 ---
-alias: [Uniform Partnership Act (UPA)]
+alias: [Uniform Partnership Act, UPA]
 created: 2021-03-03T00:21:24 (UTC +11:00)
 tags: [Uniform Partnership Act (UPA) Definition, Uniform Partnership Act (UPA)]
 source: https://www.investopedia.com/terms/u/uniform-partnership-act-upa.asp

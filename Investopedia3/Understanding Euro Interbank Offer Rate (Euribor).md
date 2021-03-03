@@ -1,5 +1,5 @@
 ---
-alias: [Euro Interbank Offer Rate (Euribor)]
+alias: [Euro Interbank Offer Rate, Euribor]
 created: 2021-03-02T19:44:17 (UTC +11:00)
 tags: [Euro Interbank Offer Rate (Euribor) Definition, Understanding Euro Interbank Offer Rate (Euribor)]
 source: https://www.investopedia.com/terms/e/euribor.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Large Cap (Big Cap)]
+alias: [Large Cap, Big Cap]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Large Cap (Big Cap), Large Cap (Big Cap)]
 source: https://www.investopedia.com/terms/l/large-cap.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Real Estate Settlement Procedures Act (RESPA)]
+alias: [Real Estate Settlement Procedures Act, RESPA]
 created: 2021-03-02T23:09:57 (UTC +11:00)
 tags: [Real Estate Settlement Procedures Act (RESPA), Real Estate Settlement Procedures Act (RESPA)]
 source: https://www.investopedia.com/terms/r/real-estate-settlement-procedures-act-respa.asp

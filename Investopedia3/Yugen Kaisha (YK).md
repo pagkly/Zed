@@ -1,5 +1,5 @@
 ---
-alias: [Yugen Kaisha (YK)]
+alias: [Yugen Kaisha, YK]
 created: 2021-03-03T01:10:27 (UTC +11:00)
 tags: [Yugen Kaisha (YK), Yugen Kaisha (YK)]
 source: https://www.investopedia.com/terms/y/yugen-kaisha.asp

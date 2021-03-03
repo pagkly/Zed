@@ -1,5 +1,5 @@
 ---
-alias: [Canadian Guaranteed Investment Certificate (GIC)]
+alias: [Canadian Guaranteed Investment Certificate, GIC]
 created: 2021-03-02T20:32:32 (UTC +11:00)
 tags: [Canadian Guaranteed Investment Certificate (GIC), Canadian Guaranteed Investment Certificate (GIC)]
 source: https://www.investopedia.com/terms/g/gic.asp

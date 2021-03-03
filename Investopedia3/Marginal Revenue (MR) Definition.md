@@ -1,5 +1,5 @@
 ---
-alias: [Marginal Revenue (MR)]
+alias: [Marginal Revenue, MR]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Marginal Revenue (MR) Definition, Marginal Revenue (MR) Definition]
 source: https://www.investopedia.com/terms/m/marginal-revenue-mr.asp

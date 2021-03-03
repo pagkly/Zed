@@ -1,5 +1,5 @@
 ---
-alias: [Value Added Monthly Index (VAMI)]
+alias: [Value Added Monthly Index, VAMI]
 created: 2021-03-03T00:32:20 (UTC +11:00)
 tags: [Value Added Monthly Index (VAMI) Definition, Value Added Monthly Index (VAMI) Definition]
 source: https://www.investopedia.com/terms/v/vami.asp

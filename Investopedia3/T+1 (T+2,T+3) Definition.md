@@ -1,5 +1,5 @@
 ---
-alias: [T+1 (T+2,T+3)]
+alias: [T+1, T+2,T+3]
 created: 2021-03-02T23:50:10 (UTC +11:00)
 tags: [T+1 (T+2,T+3) Definition, T+1 (T+2,T+3) Definition]
 source: https://www.investopedia.com/terms/t/tplus1.asp

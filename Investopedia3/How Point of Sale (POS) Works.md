@@ -1,5 +1,5 @@
 ---
-alias: [Point of Sale (POS)]
+alias: [Point of Sale, POS]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Point of Sale (POS) Definition, How Point of Sale (POS) Works]
 source: https://www.investopedia.com/terms/p/point-of-sale.asp

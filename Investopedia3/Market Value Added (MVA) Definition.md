@@ -1,5 +1,5 @@
 ---
-alias: [Market Value Added (MVA)]
+alias: [Market Value Added, MVA]
 created: 2021-03-02T21:59:06 (UTC +11:00)
 tags: [Market Value Added (MVA) Definition, Market Value Added (MVA) Definition]
 source: https://www.investopedia.com/terms/m/mva.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Contract for Differences (CFD)]
+alias: [Contract for Differences, CFD]
 created: 2021-03-02T18:58:08 (UTC +11:00)
 tags: [Contract for Differences (CFD) Definition, How Contract for Differences (CFD) Work]
 source: https://www.investopedia.com/terms/c/contractfordifferences.asp

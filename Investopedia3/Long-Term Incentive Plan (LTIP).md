@@ -1,5 +1,5 @@
 ---
-alias: [Long-Term Incentive Plan (LTIP)]
+alias: [Long-Term Incentive Plan, LTIP]
 created: 2021-03-02T21:28:00 (UTC +11:00)
 tags: [Long-Term Incentive Plan (LTIP), Long-Term Incentive Plan (LTIP)]
 source: https://www.investopedia.com/terms/l/long_term_incentive-plan.asp

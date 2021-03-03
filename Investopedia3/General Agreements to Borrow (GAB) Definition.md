@@ -1,5 +1,5 @@
 ---
-alias: [General Agreements to Borrow (GAB)]
+alias: [General Agreements to Borrow, GAB]
 created: 2021-03-02T20:14:40 (UTC +11:00)
 tags: [General Agreements to Borrow (GAB) Definition, General Agreements to Borrow (GAB) Definition]
 source: https://www.investopedia.com/terms/g/general-agreements-to-borrow.asp

@@ -1,5 +1,5 @@
 ---
-alias: [For Sale By Owner (FSBO)]
+alias: [For Sale By Owner, FSBO]
 created: 2021-03-02T20:01:18 (UTC +11:00)
 tags: [For Sale By Owner (FSBO) Definition, For Sale By Owner (FSBO)]
 source: https://www.investopedia.com/terms/f/for-sale-by-owner.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Venture Capitalist (VC)]
+alias: [Venture Capitalist, VC]
 created: 2021-03-03T00:38:25 (UTC +11:00)
 tags: [Venture Capitalist (VC) Definition, Venture Capitalist (VC) Definition]
 source: https://www.investopedia.com/terms/v/venturecapitalist.asp

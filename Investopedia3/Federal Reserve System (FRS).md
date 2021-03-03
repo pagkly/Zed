@@ -1,5 +1,5 @@
 ---
-alias: [Federal Reserve System (FRS)]
+alias: [Federal Reserve System, FRS]
 created: 2021-03-02T19:52:37 (UTC +11:00)
 tags: [Federal Reserve System (FRS) Definition, Federal Reserve System (FRS)]
 source: https://www.investopedia.com/terms/f/federalreservesystem.asp

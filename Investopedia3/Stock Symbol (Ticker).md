@@ -1,5 +1,5 @@
 ---
-alias: [Stock Symbol (Ticker)]
+alias: [Stock Symbol, Ticker]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Stock Symbol (Ticker) Definition, Stock Symbol (Ticker)]
 source: https://www.investopedia.com/terms/s/stocksymbol.asp

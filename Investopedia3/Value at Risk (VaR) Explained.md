@@ -1,5 +1,5 @@
 ---
-alias: [Value at Risk (VaR)]
+alias: [Value at Risk, VaR]
 created: 2021-03-03T00:34:21 (UTC +11:00)
 tags: [Value at Risk (VaR), Value at Risk (VaR) Explained]
 source: https://www.investopedia.com/terms/v/var.asp

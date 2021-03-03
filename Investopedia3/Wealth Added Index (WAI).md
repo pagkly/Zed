@@ -1,5 +1,5 @@
 ---
-alias: [Wealth Added Index (WAI)]
+alias: [Wealth Added Index, WAI]
 created: 2021-03-03T00:50:37 (UTC +11:00)
 tags: [Wealth Added Index (WAI), Wealth Added Index (WAI)]
 source: https://www.investopedia.com/terms/w/wai.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Free Cash Flow to the Firm (FCFF)]
+alias: [Free Cash Flow to the Firm, FCFF]
 created: 2021-03-02T20:07:42 (UTC +11:00)
 tags: [Free Cash Flow to the Firm (FCFF) Definition, What Free Cash Flow to the Firm Tells Us]
 source: https://www.investopedia.com/terms/f/freecashflowfirm.asp

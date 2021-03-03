@@ -1,5 +1,5 @@
 ---
-alias: [Exchange Rate Mechanism (ERM)]
+alias: [Exchange Rate Mechanism, ERM]
 created: 2021-03-02T19:46:20 (UTC +11:00)
 tags: [Exchange Rate Mechanism (ERM) Definition, Understanding Exchange Rate Mechanisms (ERMs)]
 source: https://www.investopedia.com/terms/e/exchange-rate-mechanism.asp

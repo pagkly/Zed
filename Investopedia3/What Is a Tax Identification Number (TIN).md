@@ -1,5 +1,5 @@
 ---
-alias: [Tax Identification Number (TIN)]
+alias: [Tax Identification Number, TIN]
 created: 2021-03-02T23:54:21 (UTC +11:00)
 tags: [Tax Identification Number (TIN) Definition, What Is a Tax Identification Number (TIN)?]
 source: https://www.investopedia.com/terms/t/tax-indentification-number-tin.asp

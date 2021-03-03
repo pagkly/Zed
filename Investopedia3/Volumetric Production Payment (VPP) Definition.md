@@ -1,5 +1,5 @@
 ---
-alias: [Volumetric Production Payment (VPP)]
+alias: [Volumetric Production Payment, VPP]
 created: 2021-03-03T00:42:28 (UTC +11:00)
 tags: [Volumetric Production Payment (VPP), Volumetric Production Payment (VPP) Definition]
 source: https://www.investopedia.com/terms/v/volumetric-production-payment.asp

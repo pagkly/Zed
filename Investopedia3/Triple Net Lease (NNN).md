@@ -1,5 +1,5 @@
 ---
-alias: [Triple Net Lease (NNN)]
+alias: [Triple Net Lease, NNN]
 created: 2021-03-03T00:09:09 (UTC +11:00)
 tags: [Triple Net Lease (NNN), Triple Net Lease (NNN)]
 source: https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp

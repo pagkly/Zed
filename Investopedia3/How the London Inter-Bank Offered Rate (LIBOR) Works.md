@@ -1,5 +1,5 @@
 ---
-alias: [London Inter-Bank Offered Rate (LIBOR)]
+alias: [London Inter-Bank Offered Rate, LIBOR]
 created: 2021-03-02T21:25:56 (UTC +11:00)
 tags: [London Inter-Bank Offered Rate (LIBOR) Definition, How the London Inter-Bank Offered Rate (LIBOR) Works]
 source: https://www.investopedia.com/terms/l/libor.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Present Value Interest Factor (PVIF)]
+alias: [Present Value Interest Factor, PVIF]
 created: 2021-03-02T22:47:30 (UTC +11:00)
 tags: [Present Value Interest Factor (PVIF) Definition, Understanding the Present Value Interest Factor]
 source: https://www.investopedia.com/terms/p/pvif.asp

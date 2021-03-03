@@ -1,5 +1,5 @@
 ---
-alias: [Operating Loss (OL)]
+alias: [Operating Loss, OL]
 created: 2021-03-02T22:24:33 (UTC +11:00)
 tags: [Operating Loss (OL), Operating Loss (OL)]
 source: https://www.investopedia.com/terms/o/operating-loss.asp

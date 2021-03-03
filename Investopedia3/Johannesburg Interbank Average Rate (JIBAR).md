@@ -1,5 +1,5 @@
 ---
-alias: [Johannesburg Interbank Average Rate (JIBAR)]
+alias: [Johannesburg Interbank Average Rate, JIBAR]
 created: 2021-03-02T20:58:32 (UTC +11:00)
 tags: [Johannesburg Interbank Average Rate (JIBAR), Johannesburg Interbank Average Rate (JIBAR)]
 source: https://www.investopedia.com/terms/j/jibarrate.asp

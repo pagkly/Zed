@@ -1,5 +1,5 @@
 ---
-alias: [House Price Index (HPI)]
+alias: [House Price Index, HPI]
 created: 2021-03-02T20:51:42 (UTC +11:00)
 tags: [House Price Index (HPI) Definition, House Price Index (HPI) Definition]
 source: https://www.investopedia.com/terms/h/house-price-index-hpi.asp

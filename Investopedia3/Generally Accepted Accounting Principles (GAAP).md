@@ -1,5 +1,5 @@
 ---
-alias: [Generally Accepted Accounting Principles (GAAP)]
+alias: [Generally Accepted Accounting Principles, GAAP]
 created: 2021-03-02T20:16:39 (UTC +11:00)
 tags: [Generally Accepted Accounting Principles (GAAP) Definition, Generally Accepted Accounting Principles (GAAP)]
 source: https://www.investopedia.com/terms/g/gaap.asp

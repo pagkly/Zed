@@ -1,5 +1,5 @@
 ---
-alias: [Exponential Moving Average (EMA)]
+alias: [Exponential Moving Average, EMA]
 created: 2021-03-02T19:48:23 (UTC +11:00)
 tags: [Exponential Moving Average (EMA) Definition, Exponential Moving Average (EMA)]
 source: https://www.investopedia.com/terms/e/ema.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Know Your Client (KYC)]
+alias: [Know Your Client, KYC]
 created: 2021-03-02T21:07:19 (UTC +11:00)
 tags: [Know Your Client (KYC) Definition, Know Your Client (KYC)]
 source: https://www.investopedia.com/terms/k/knowyourclient.asp

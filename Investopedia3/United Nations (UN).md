@@ -1,5 +1,5 @@
 ---
-alias: [United Nations (UN)]
+alias: [United Nations, UN]
 created: 2021-03-03T00:23:29 (UTC +11:00)
 tags: [United Nations (UN) Definition, United Nations (UN)]
 source: https://www.investopedia.com/terms/u/united-nations-un.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Mortgage Servicing Rights (MSR)]
+alias: [Mortgage Servicing Rights, MSR]
 created: 2021-03-02T22:11:43 (UTC +11:00)
 tags: [Mortgage Servicing Rights (MSR) Definition, Mortgage Servicing Rights (MSR) Can Improve Cash Flow for Lenders]
 source: https://www.investopedia.com/terms/m/msr.asp

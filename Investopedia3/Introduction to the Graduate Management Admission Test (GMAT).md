@@ -1,5 +1,5 @@
 ---
-alias: [Graduate Management Admission Test (GMAT)]
+alias: [Graduate Management Admission Test, GMAT]
 created: 2021-03-02T20:23:13 (UTC +11:00)
 tags: [Graduate Management Admission Test (GMAT) Definition, Introduction to the Graduate Management Admission Test (GMAT)]
 source: https://www.investopedia.com/terms/g/graduate-management-admission-test-mba.asp

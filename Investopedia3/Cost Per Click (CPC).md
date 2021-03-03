@@ -1,5 +1,5 @@
 ---
-alias: [Cost Per Click (CPC)]
+alias: [Cost Per Click, CPC]
 created: 2021-03-02T19:02:27 (UTC +11:00)
 tags: [Cost Per Click (CPC), Cost Per Click (CPC)]
 source: https://www.investopedia.com/terms/c/cpc.asp

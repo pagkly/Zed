@@ -1,5 +1,5 @@
 ---
-alias: [Foreign Institutional Investor (FII)]
+alias: [Foreign Institutional Investor, FII]
 created: 2021-03-02T20:03:23 (UTC +11:00)
 tags: [Foreign Institutional Investor (FII), Foreign Institutional Investor (FII)]
 source: https://www.investopedia.com/terms/f/fii.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Total Expense Ratio (TER)]
+alias: [Total Expense Ratio, TER]
 created: 2021-03-03T00:02:42 (UTC +11:00)
 tags: [Total Expense Ratio (TER) Definition, Total Expense Ratio (TER)]
 source: https://www.investopedia.com/terms/t/ter.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Consumer Packaged Goods (CPG)]
+alias: [Consumer Packaged Goods, CPG]
 created: 2021-03-02T18:58:07 (UTC +11:00)
 tags: [Consumer Packaged Goods (CPG) Definition, Why Consumer Packaged Goods Matter]
 source: https://www.investopedia.com/terms/c/cpg.asp

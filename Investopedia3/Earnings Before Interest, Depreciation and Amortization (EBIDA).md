@@ -1,5 +1,5 @@
 ---
-alias: [Earnings Before Interest, Depreciation and Amortization (EBIDA)]
+alias: [Earnings Before Interest, Depreciation and Amortization, EBIDA]
 created: 2021-03-02T19:29:09 (UTC +11:00)
 tags: [Earnings Before Interest, Depreciation and Amortization (EBIDA) Definition, Earnings Before Interest, Depreciation and Amortization (EBIDA)]
 source: https://www.investopedia.com/terms/e/ebida.asp

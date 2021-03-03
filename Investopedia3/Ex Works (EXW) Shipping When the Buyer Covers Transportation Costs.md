@@ -1,5 +1,5 @@
 ---
-alias: [Ex Works (EXW)]
+alias: [Ex Works, EXW]
 created: 2021-03-02T19:46:19 (UTC +11:00)
 tags: [Ex Works (EXW) Definition, Ex Works (EXW) Shipping: When the Buyer Covers Transportation Costs]
 source: https://www.investopedia.com/terms/e/exw.asp

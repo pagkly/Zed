@@ -1,5 +1,5 @@
 ---
-alias: [U.S. Department of Housing and Urban Development (HUD)]
+alias: [U.S. Department of Housing and Urban Development, HUD]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [U.S. Department of Housing and Urban Development (HUD) Definition, U.S. Department of Housing and Urban Development (HUD) Definition]
 source: https://www.investopedia.com/terms/u/us-department-housing-urban-development-hud.asp

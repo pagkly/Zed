@@ -1,5 +1,5 @@
 ---
-alias: [Certified Public Accountant (CPA)]
+alias: [Certified Public Accountant, CPA]
 created: 2021-03-02T18:49:09 (UTC +11:00)
 tags: [Certified Public Accountant (CPA) Definition, Certified Public Accountant (CPA)]
 source: https://www.investopedia.com/terms/c/cpa.asp

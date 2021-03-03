@@ -1,5 +1,5 @@
 ---
-alias: [Email Money Transfer (EMT)]
+alias: [Email Money Transfer, EMT]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Email Money Transfer (EMT) Definition, Here's How to Transfer Money With an Email Money Transfer (EMT)]
 source: https://www.investopedia.com/terms/e/email-money-transfer.asp

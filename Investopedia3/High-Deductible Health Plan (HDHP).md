@@ -1,5 +1,5 @@
 ---
-alias: [High-Deductible Health Plan (HDHP)]
+alias: [High-Deductible Health Plan, HDHP]
 created: 2021-03-02T20:43:24 (UTC +11:00)
 tags: [High-Deductible Health Plan (HDHP) Definition, High-Deductible Health Plan (HDHP)]
 source: https://www.investopedia.com/terms/h/hdhp.asp

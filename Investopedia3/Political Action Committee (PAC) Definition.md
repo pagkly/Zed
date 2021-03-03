@@ -1,5 +1,5 @@
 ---
-alias: [Political Action Committee (PAC)]
+alias: [Political Action Committee, PAC]
 created: 2021-03-02T22:44:56 (UTC +11:00)
 tags: [Political Action Committee (PAC) Definition, Political Action Committee (PAC) Definition]
 source: https://www.investopedia.com/terms/p/political-action-committee-super-pac.asp

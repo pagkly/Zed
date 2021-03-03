@@ -1,5 +1,5 @@
 ---
-alias: [Delivered-at-Place (DAP)]
+alias: [Delivered-at-Place, DAP]
 created: 2021-03-02T19:13:34 (UTC +11:00)
 tags: [Delivered-at-Place (DAP) Definition, What You Should Know About Delivered-at-Place (DAP)]
 source: https://www.investopedia.com/terms/d/delivered-place-dap.asp

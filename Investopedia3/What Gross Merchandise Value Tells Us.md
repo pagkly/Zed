@@ -1,5 +1,5 @@
 ---
-alias: [Gross Merchandise Value (GMV)]
+alias: [Gross Merchandise Value, GMV]
 created: 2021-03-02T20:27:50 (UTC +11:00)
 tags: [Gross Merchandise Value (GMV) Definition, What Gross Merchandise Value Tells Us]
 source: https://www.investopedia.com/terms/g/gross-merchandise-value.asp

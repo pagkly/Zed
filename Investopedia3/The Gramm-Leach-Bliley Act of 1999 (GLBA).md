@@ -1,5 +1,5 @@
 ---
-alias: [The Gramm-Leach-Bliley Act of 1999 (GLBA)]
+alias: [The Gramm-Leach-Bliley Act of 1999, GLBA]
 created: 2021-03-02T20:23:14 (UTC +11:00)
 tags: [The Gramm-Leach-Bliley Act of 1999 (GLBA), The Gramm-Leach-Bliley Act of 1999 (GLBA)]
 source: https://www.investopedia.com/terms/g/glba.asp

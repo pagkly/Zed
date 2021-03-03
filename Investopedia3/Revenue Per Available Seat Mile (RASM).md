@@ -1,5 +1,5 @@
 ---
-alias: [Revenue Per Available Seat Mile (RASM)]
+alias: [Revenue Per Available Seat Mile, RASM]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Per Available Seat Mile (RASM) Definition, Revenue Per Available Seat Mile (RASM)]
 source: https://www.investopedia.com/terms/r/revenue-per-available-seat-mile-rasm.asp

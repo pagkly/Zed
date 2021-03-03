@@ -1,5 +1,5 @@
 ---
-alias: [Jumbo Certificate of Deposit (CD)]
+alias: [Jumbo Certificate of Deposit, CD]
 created: 2021-03-02T21:02:46 (UTC +11:00)
 tags: [Jumbo Certificate of Deposit (CD) Definition, How Investors Utilize Jumbo CDs to Their Benefit]
 source: https://www.investopedia.com/terms/j/jumbocd.asp

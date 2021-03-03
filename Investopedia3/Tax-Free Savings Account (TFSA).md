@@ -1,5 +1,5 @@
 ---
-alias: [Tax-Free Savings Account (TFSA)]
+alias: [Tax-Free Savings Account, TFSA]
 created: 2021-03-02T23:54:21 (UTC +11:00)
 tags: [Tax-Free Savings Account (TFSA) Definition, Tax-Free Savings Account (TFSA)]
 source: https://www.investopedia.com/terms/t/tax-free-savings-account-tfsa.asp

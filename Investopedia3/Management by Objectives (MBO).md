@@ -1,5 +1,5 @@
 ---
-alias: [Management by Objectives (MBO)]
+alias: [Management by Objectives, MBO]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Management by Objectives (MBO) Definition, Management by Objectives (MBO)]
 source: https://www.investopedia.com/terms/m/management-by-objectives.asp

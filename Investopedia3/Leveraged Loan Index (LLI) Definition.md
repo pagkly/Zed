@@ -1,5 +1,5 @@
 ---
-alias: [Leveraged Loan Index (LLI)]
+alias: [Leveraged Loan Index, LLI]
 created: 2021-03-02T21:17:39 (UTC +11:00)
 tags: [Leveraged Loan Index (LLI) Definition, Leveraged Loan Index (LLI) Definition]
 source: https://www.investopedia.com/terms/l/leveraged-loan-index.asp

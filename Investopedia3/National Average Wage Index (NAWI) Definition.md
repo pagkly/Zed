@@ -1,5 +1,5 @@
 ---
-alias: [National Average Wage Index (NAWI)]
+alias: [National Average Wage Index, NAWI]
 created: 2021-03-02T21:32:17 (UTC +11:00)
 tags: [National Average Wage Index (NAWI), National Average Wage Index (NAWI) Definition]
 source: https://www.investopedia.com/terms/n/national-average-wage-index-nawi.asp

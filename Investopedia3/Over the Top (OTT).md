@@ -1,5 +1,5 @@
 ---
-alias: [Over the Top (OTT)]
+alias: [Over the Top, OTT]
 created: 2021-03-02T22:33:41 (UTC +11:00)
 tags: [Over the Top (OTT) Definition, Over the Top (OTT)]
 source: https://www.investopedia.com/terms/o/over-top.asp

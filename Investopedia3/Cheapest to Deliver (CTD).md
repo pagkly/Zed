@@ -1,5 +1,5 @@
 ---
-alias: [Cheapest to Deliver (CTD)]
+alias: [Cheapest to Deliver, CTD]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Cheapest to Deliver (CTD) Definition, Cheapest to Deliver (CTD)]
 source: https://www.investopedia.com/terms/c/cheapesttodeliver.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Adoption Expenses (QAE)]
+alias: [Qualified Adoption Expenses, QAE]
 created: 2021-03-02T22:58:54 (UTC +11:00)
 tags: [Qualified Adoption Expenses (QAE), Qualified Adoption Expenses (QAE)]
 source: https://www.investopedia.com/terms/q/qae.asp

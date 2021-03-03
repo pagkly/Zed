@@ -1,5 +1,5 @@
 ---
-alias: [Manufacturer's Suggested Retail Price (MSRP)]
+alias: [Manufacturer's Suggested Retail Price, MSRP]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Manufacturer's Suggested Retail Price (MSRP) Definition, Reading Into the Manufacturer's Suggested Retail Price (MSRP)]
 source: https://www.investopedia.com/terms/m/manufacturers-suggested-retail-price-msrp.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Regulation T (Reg T)]
+alias: [Regulation T, Reg T]
 created: 2021-03-02T23:12:21 (UTC +11:00)
 tags: [Regulation T (Reg T) Definition, Regulation T (Reg T)]
 source: https://www.investopedia.com/terms/r/regulationt.asp

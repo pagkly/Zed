@@ -1,5 +1,5 @@
 ---
-alias: [Unit Trust (UT)]
+alias: [Unit Trust, UT]
 created: 2021-03-03T00:23:28 (UTC +11:00)
 tags: [Unit Trust (UT) Definition, Unit Trust (UT)]
 source: https://www.investopedia.com/terms/u/unittrust.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Qualified Foreign Institutional Investor (QFII)]
+alias: [Qualified Foreign Institutional Investor, QFII]
 created: 2021-03-02T23:00:59 (UTC +11:00)
 tags: [Qualified Foreign Institutional Investor (QFII) Definition, Qualified Foreign Institutional Investor (QFII)]
 source: https://www.investopedia.com/terms/q/qualified-foreign-institutional-investor-qfii.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Metropolitan Statistical Area (MSA)]
+alias: [Metropolitan Statistical Area, MSA]
 created: 2021-03-02T22:03:18 (UTC +11:00)
 tags: [Metropolitan Statistical Area (MSA) Definition, Metropolitan Statistical Area (MSA) Definition]
 source: https://www.investopedia.com/terms/m/msa.asp

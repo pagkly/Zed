@@ -1,5 +1,5 @@
 ---
-alias: [Joint Tenants With Right of Survivorship (JTWROS)]
+alias: [Joint Tenants With Right of Survivorship, JTWROS]
 created: 2021-03-02T21:00:35 (UTC +11:00)
 tags: [Joint Tenants With Right of Survivorship (JTWROS), Joint Tenants With Right of Survivorship (JTWROS)]
 source: https://www.investopedia.com/terms/j/jtwros.asp

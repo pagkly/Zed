@@ -1,5 +1,5 @@
 ---
-alias: [Moving Average Convergence Divergence (MACD)]
+alias: [Moving Average Convergence Divergence, MACD]
 created: 2021-03-02T22:11:43 (UTC +11:00)
 tags: [Moving Average Convergence Divergence (MACD) Definition, Moving Average Convergence Divergence (MACD) Definition]
 source: https://www.investopedia.com/terms/m/macd.asp

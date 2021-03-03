@@ -1,5 +1,5 @@
 ---
-alias: [Electronic Retailing (E-tailing)]
+alias: [Electronic Retailing, E-tailing]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Electronic Retailing (E-tailing) Definition, Electronic Retailing (E-tailing)]
 source: https://www.investopedia.com/terms/e/electronic-retailing-e-tailing.asp

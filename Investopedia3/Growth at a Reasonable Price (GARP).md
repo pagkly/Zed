@@ -1,5 +1,5 @@
 ---
-alias: [Growth at a Reasonable Price (GARP)]
+alias: [Growth at a Reasonable Price, GARP]
 created: 2021-03-02T20:30:11 (UTC +11:00)
 tags: [Growth at a Reasonable Price (GARP) Definition, Growth at a Reasonable Price (GARP)]
 source: https://www.investopedia.com/terms/g/garp.asp

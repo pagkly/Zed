@@ -1,5 +1,5 @@
 ---
-alias: [Manufacturing Resource Planning (MRP II)]
+alias: [Manufacturing Resource Planning, MRP II]
 created: 2021-03-02T21:54:34 (UTC +11:00)
 tags: [Manufacturing Resource Planning (MRP II) Definition, How Manufacturing Resource Planning Works]
 source: https://www.investopedia.com/terms/m/manufacturing-resource-planning.asp

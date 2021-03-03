@@ -1,5 +1,5 @@
 ---
-alias: [World Economic Forum (WEF)]
+alias: [World Economic Forum, WEF]
 created: 2021-03-03T01:03:36 (UTC +11:00)
 tags: [World Economic Forum (WEF) Definition, World Economic Forum (WEF) Definition]
 source: https://www.investopedia.com/terms/w/world-economic-forum.asp

@@ -1,5 +1,5 @@
 ---
-alias: [Modified Accelerated Cost Recovery System (MACRS)]
+alias: [Modified Accelerated Cost Recovery System, MACRS]
 created: 2021-03-02T22:07:28 (UTC +11:00)
 tags: [Modified Accelerated Cost Recovery System (MACRS) Definition, Modified Accelerated Cost Recovery System (MACRS)]
 source: https://www.investopedia.com/terms/m/macrs.asp

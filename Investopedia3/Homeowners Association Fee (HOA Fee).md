@@ -1,5 +1,5 @@
 ---
-alias: [Homeowners Association Fee (HOA Fee)]
+alias: [Homeowners Association Fee, HOA Fee]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Homeowners Association Fee (HOA Fee), Homeowners Association Fee (HOA Fee)]
 source: https://www.investopedia.com/terms/h/homeowners-association-fee-hoa.asp

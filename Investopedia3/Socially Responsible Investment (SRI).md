@@ -1,5 +1,5 @@
 ---
-alias: [Socially Responsible Investment (SRI)]
+alias: [Socially Responsible Investment, SRI]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Socially Responsible Investment (SRI) Definition, Socially Responsible Investment (SRI)]
 source: https://www.investopedia.com/terms/s/sri.asp

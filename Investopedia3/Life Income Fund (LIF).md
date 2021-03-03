@@ -1,5 +1,5 @@
 ---
-alias: [Life Income Fund (LIF)]
+alias: [Life Income Fund, LIF]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Life Income Fund (LIF) Definition, Life Income Fund (LIF)]
 source: https://www.investopedia.com/terms/l/life-income-fund.asp

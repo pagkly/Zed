@@ -1,5 +1,5 @@
 ---
-alias: [Employee Stock Option (ESO)]
+alias: [Employee Stock Option, ESO]
 created: 2021-03-02T19:37:31 (UTC +11:00)
 tags: [Employee Stock Option (ESO) Definition, Define Employee Stock Option (ESO)]
 source: https://www.investopedia.com/terms/e/eso.asp

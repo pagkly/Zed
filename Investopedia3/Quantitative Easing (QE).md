@@ -1,5 +1,5 @@
 ---
-alias: [Quantitative Easing (QE)]
+alias: [Quantitative Easing, QE]
 created: 2021-03-02T23:03:03 (UTC +11:00)
 tags: [Quantitative Easing (QE) Definition, Quantitative Easing (QE)]
 source: https://www.investopedia.com/terms/q/quantitative-easing.asp

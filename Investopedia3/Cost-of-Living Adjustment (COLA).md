@@ -1,5 +1,5 @@
 ---
-alias: [Cost-of-Living Adjustment (COLA)]
+alias: [Cost-of-Living Adjustment, COLA]
 created: 2021-03-02T19:00:25 (UTC +11:00)
 tags: [Cost-of-Living Adjustment (COLA) Definition, Cost-of-Living Adjustment (COLA)]
 source: https://www.investopedia.com/terms/c/cola.asp
