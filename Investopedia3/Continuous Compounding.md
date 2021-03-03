@@ -3,8 +3,7 @@ alias: [Continuous Compounding]
 created: 2021-03-02T18:58:08 (UTC +11:00)
 tags: [Continuous Compounding Definition, Continuous Compounding]
 source: https://www.investopedia.com/terms/c/continuouscompounding.asp
-author: 
-James Chen
+author: James Chen
 ---
 
 # Continuous Compounding Definition

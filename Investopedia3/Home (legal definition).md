@@ -3,8 +3,7 @@ alias: [Home]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Definition, Home (legal definition)]
 source: https://www.investopedia.com/terms/h/home.asp
-author: 
-Adam Hayes
+author: Adam Hayes
 ---
 
 # Home Definition

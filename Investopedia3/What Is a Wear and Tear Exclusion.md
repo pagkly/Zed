@@ -3,8 +3,7 @@ alias: [Wear and Tear Exclusion]
 created: 2021-03-03T00:50:37 (UTC +11:00)
 tags: [Wear and Tear Exclusion Definition, What Is a Wear and Tear Exclusion?]
 source: https://www.investopedia.com/terms/w/wear-and-tear-exclusion.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Wear and Tear Exclusion Definition

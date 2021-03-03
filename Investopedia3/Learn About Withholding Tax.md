@@ -3,8 +3,7 @@ alias: [Withholding Tax]
 created: 2021-03-03T01:01:21 (UTC +11:00)
 tags: [Withholding Tax Definition, Learn About Withholding Tax]
 source: https://www.investopedia.com/terms/w/withholdingtax.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Withholding Tax Definition

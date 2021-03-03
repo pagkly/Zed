@@ -3,8 +3,7 @@ alias: [Structural Unemployment]
 created: 2021-03-02T23:45:25 (UTC +11:00)
 tags: [Structural Unemployment Definition, Structural Unemployment]
 source: https://www.investopedia.com/terms/s/structuralunemployment.asp
-author: 
-Will Kenton
+author: Will Kenton
 ---
 
 # Structural Unemployment Definition

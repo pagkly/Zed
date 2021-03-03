@@ -3,8 +3,7 @@ alias: [Flexible Spending Account, FSA]
 created: 2021-03-02T19:59:11 (UTC +11:00)
 tags: [Flexible Spending Account (FSA) Definition, Flexible Spending Account (FSA)]
 source: https://www.investopedia.com/terms/f/flexiblespendingaccount.asp
-author: 
-Michelle P. Scott
+author: Michelle P. Scott
 ---
 
 # Flexible Spending Account (FSA) Definition

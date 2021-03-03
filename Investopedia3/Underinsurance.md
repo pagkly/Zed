@@ -3,8 +3,7 @@ alias: [Underinsurance]
 created: 2021-03-03T00:15:20 (UTC +11:00)
 tags: [Underinsurance Definition, Underinsurance]
 source: https://www.investopedia.com/terms/u/underinsurance.asp
-author: 
-Ronni Sandroff
+author: Ronni Sandroff
 ---
 
 # Underinsurance Definition

@@ -3,8 +3,7 @@ alias: [Permanent Life Insurance]
 created: 2021-03-02T22:40:13 (UTC +11:00)
 tags: [Permanent Life Insurance Definition, Permanent Life Insurance]
 source: https://www.investopedia.com/terms/p/permanentlife.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Permanent Life Insurance Definition

@@ -3,8 +3,7 @@ alias: [Google Tax]
 created: 2021-03-02T20:20:51 (UTC +11:00)
 tags: [Google Tax, Google Tax]
 source: https://www.investopedia.com/terms/g/google-tax.asp
-author: 
-Shobhit Seth
+author: Shobhit Seth
 ---
 
 # Google Tax

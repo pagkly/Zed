@@ -3,8 +3,7 @@ alias: [Emergency Fund]
 created: 2021-03-02T19:35:29 (UTC +11:00)
 tags: [Emergency Fund Definition, Emergency Funds]
 source: https://www.investopedia.com/terms/e/emergency_fund.asp
-author: 
-Daniel Kurt
+author: Daniel Kurt
 ---
 
 # Emergency Fund Definition

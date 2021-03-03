@@ -3,8 +3,7 @@ alias: [Holding Company]
 created: 2021-03-02T20:45:32 (UTC +11:00)
 tags: [Holding Company Definition, Getting a Grip on Holding Companies]
 source: https://www.investopedia.com/terms/h/holdingcompany.asp
-author: 
-Amy Fontinelle
+author: Amy Fontinelle
 ---
 
 # Holding Company Definition

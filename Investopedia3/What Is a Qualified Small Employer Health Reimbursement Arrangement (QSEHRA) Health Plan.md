@@ -3,8 +3,7 @@ alias: [Qualified Small Employer Health Reimbursement Arrangement, QSEHRA]
 created: 2021-03-02T22:58:53 (UTC +11:00)
 tags: [Qualified Small Employer Health Reimbursement Arrangement (QSEHRA) Definition, What Is a Qualified Small Employer Health Reimbursement Arrangement (QSEHRA) Health Plan?]
 source: https://www.investopedia.com/terms/q/qsehra.asp
-author: 
-Amy Fontinelle
+author: Amy Fontinelle
 ---
 
 # Qualified Small Employer Health Reimbursement Arrangement (QSEHRA) Definition

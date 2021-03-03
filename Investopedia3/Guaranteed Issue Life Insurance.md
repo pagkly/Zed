@@ -3,8 +3,7 @@ alias: [Guaranteed Issue Life Insurance]
 created: 2021-03-02T20:32:33 (UTC +11:00)
 tags: [Guaranteed Issue Life Insurance Definition, Guaranteed Issue Life Insurance]
 source: https://www.investopedia.com/terms/g/guaranteed-issue-life-insurance.asp
-author: 
-Amy Fontinelle
+author: Amy Fontinelle
 ---
 
 # Guaranteed Issue Life Insurance Definition

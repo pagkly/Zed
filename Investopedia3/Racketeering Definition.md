@@ -3,8 +3,7 @@ alias: [Racketeering]
 created: 2021-03-02T23:07:33 (UTC +11:00)
 tags: [Racketeering Definition, Racketeering Definition]
 source: https://www.investopedia.com/terms/r/racketeering.asp
-author: 
-Shobhit Seth
+author: Shobhit Seth
 ---
 
 # Racketeering Definition

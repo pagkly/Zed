@@ -3,8 +3,7 @@ alias: [Tax Loss Carryforward]
 created: 2021-03-02T23:54:21 (UTC +11:00)
 tags: [Tax Loss Carryforward, Tax Loss Carryforward Definition]
 source: https://www.investopedia.com/terms/t/tax-loss-carryforward.asp
-author: 
-Alicia Tuovila
+author: Alicia Tuovila
 ---
 
 # Tax Loss Carryforward

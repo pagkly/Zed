@@ -3,8 +3,7 @@ alias: [Universal Life (UL) Insurance]
 created: 2021-03-03T00:23:30 (UTC +11:00)
 tags: [Universal Life (UL) Insurance Definition, Universal Life (UL) Insurance]
 source: https://www.investopedia.com/terms/u/universallife.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Universal Life (UL) Insurance Definition

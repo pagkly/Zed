@@ -3,8 +3,7 @@ alias: [FICO Score]
 created: 2021-03-02T19:54:42 (UTC +11:00)
 tags: [FICO Score Definition, FICO Score]
 source: https://www.investopedia.com/terms/f/ficoscore.asp
-author: 
-Adam Hayes
+author: Adam Hayes
 ---
 
 # FICO Score Definition

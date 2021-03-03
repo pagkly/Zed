@@ -3,8 +3,7 @@ alias: [Joint and Survivor Annuity]
 created: 2021-03-02T21:00:34 (UTC +11:00)
 tags: [Joint and Survivor Annuity Definition, Joint and Survivor Annuity]
 source: https://www.investopedia.com/terms/j/jointandsurvivorannuity.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Joint and Survivor Annuity Definition

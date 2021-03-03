@@ -3,8 +3,7 @@ alias: [Marital Property]
 created: 2021-03-02T21:56:59 (UTC +11:00)
 tags: [Marital Property Definition, Yours, Mine, and Ours: Who Owns What After You Get Married]
 source: https://www.investopedia.com/terms/m/maritalproperty.asp
-author: 
-MP McQueen
+author: MP McQueen
 ---
 
 # Marital Property Definition

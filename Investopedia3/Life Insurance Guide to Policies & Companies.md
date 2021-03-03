@@ -3,8 +3,7 @@ alias: [Life Insurance Guide to Policies & Companies]
 created: 2021-03-02T21:17:40 (UTC +11:00)
 tags: [Life Insurance Guide to Policies & Companies, Life Insurance Guide to Policies & Companies]
 source: https://www.investopedia.com/terms/l/lifeinsurance.asp
-author: 
-Amy Fontinelle
+author: Amy Fontinelle
 ---
 
 # Life Insurance Guide to Policies & Companies

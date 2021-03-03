@@ -3,8 +3,7 @@ alias: [Spinoff]
 created: 2021-03-02T23:41:12 (UTC +11:00)
 tags: [Spinoff Definition, How Spinoffs Work—And What They Tell Us]
 source: https://www.investopedia.com/terms/s/spinoff.asp
-author: 
-Amy Fontinelle
+author: Amy Fontinelle
 ---
 
 # Spinoff Definition

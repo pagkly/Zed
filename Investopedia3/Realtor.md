@@ -3,8 +3,7 @@ alias: [Realtor]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Realtor Definition, Realtor]
 source: https://www.investopedia.com/terms/r/realtor.asp
-author: 
-James Chen
+author: James Chen
 ---
 
 # Realtor Definition

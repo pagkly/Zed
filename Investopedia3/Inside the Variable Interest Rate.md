@@ -3,8 +3,7 @@ alias: [Variable Interest Rate]
 created: 2021-03-03T00:36:24 (UTC +11:00)
 tags: [Variable Interest Rate Definition, Inside the Variable Interest Rate]
 source: https://www.investopedia.com/terms/v/variableinterestrate.asp
-author: 
-James Chen
+author: James Chen
 ---
 
 # Variable Interest Rate Definition

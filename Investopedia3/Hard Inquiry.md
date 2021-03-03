@@ -3,8 +3,7 @@ alias: [Hard Inquiry]
 created: 2021-03-02T20:36:47 (UTC +11:00)
 tags: [Hard Inquiry Definition, Hard Inquiry]
 source: https://www.investopedia.com/terms/h/hard-inquiry.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Hard Inquiry Definition

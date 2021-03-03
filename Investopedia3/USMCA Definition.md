@@ -3,8 +3,7 @@ alias: [USMCA]
 created: 2021-03-03T00:30:12 (UTC +11:00)
 tags: [USMCA Definition, USMCA Definition]
 source: https://www.investopedia.com/usmca-4582387
-author: 
-Nathan Reiff
+author: Nathan Reiff
 ---
 
 # USMCA Definition

@@ -3,8 +3,7 @@ alias: [Voluntary Life Insurance]
 created: 2021-03-03T00:44:30 (UTC +11:00)
 tags: [Voluntary Life Insurance Definition, Voluntary Life Insurance]
 source: https://www.investopedia.com/terms/v/voluntary-life-insurance.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Voluntary Life Insurance Definition

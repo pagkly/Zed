@@ -3,8 +3,7 @@ alias: [Lilly Ledbetter Fair Pay Act]
 created: 2021-03-02T21:19:46 (UTC +11:00)
 tags: [Lilly Ledbetter Fair Pay Act Definition, Lilly Ledbetter Fair Pay Act]
 source: https://www.investopedia.com/terms/l/lilly-ledbetter-fair-pay-act.asp
-author: 
-Daniel Kurt
+author: Daniel Kurt
 ---
 
 # Lilly Ledbetter Fair Pay Act Definition

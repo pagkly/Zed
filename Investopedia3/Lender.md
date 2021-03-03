@@ -3,8 +3,7 @@ alias: [Lender]
 created: 2021-03-02T21:15:34 (UTC +11:00)
 tags: [Lender Definition, Lender]
 source: https://www.investopedia.com/terms/l/lender.asp
-author: 
-Adam Barone
+author: Adam Barone
 ---
 
 # Lender Definition

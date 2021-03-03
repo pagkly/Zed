@@ -3,8 +3,7 @@ alias: [Transfer Pricing]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Transfer Pricing, Transfer Pricing]
 source: https://www.investopedia.com/terms/t/transfer-pricing.asp
-author: 
-Shobhit Seth
+author: Shobhit Seth
 ---
 
 # Transfer Pricing

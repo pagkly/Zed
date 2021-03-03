@@ -3,8 +3,7 @@ alias: [Home Mortgage Disclosure Act, HMDA]
 created: 2021-03-02T20:47:36 (UTC +11:00)
 tags: [Home Mortgage Disclosure Act (HMDA) Definition, Home Mortgage Disclosure Act (HMDA)]
 source: https://www.investopedia.com/terms/h/home-mortgage-disclosure-act-hmda.asp
-author: 
-MP McQueen
+author: MP McQueen
 ---
 
 # Home Mortgage Disclosure Act (HMDA) Definition

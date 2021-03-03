@@ -3,8 +3,7 @@ alias: [Hot Waitress Economic Index]
 created: 2021-03-02T20:51:41 (UTC +11:00)
 tags: [Hot Waitress Economic Index Definition, Hot Waitress Economic Index Definition]
 source: https://www.investopedia.com/terms/h/hot-waitress-economic-indicator.asp
-author: 
-Anna Attkisson
+author: Anna Attkisson
 ---
 
 # Hot Waitress Economic Index Definition

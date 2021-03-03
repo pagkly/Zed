@@ -3,8 +3,7 @@ alias: [Social Security]
 created: 2021-03-02T23:39:01 (UTC +11:00)
 tags: [Social Security Definition, Social Security]
 source: https://www.investopedia.com/terms/s/socialsecurity.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Social Security Definition

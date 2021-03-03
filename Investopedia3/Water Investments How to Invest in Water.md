@@ -3,8 +3,7 @@ alias: [Water Investments: How to Invest in Water]
 created: 2021-03-03T00:50:35 (UTC +11:00)
 tags: [Water Investments: How to Invest in Water, Water Investments: How to Invest in Water]
 source: https://www.investopedia.com/articles/06/water.asp
-author: 
-James McWhinney
+author: James McWhinney
 ---
 
 # Water Investments: How to Invest in Water

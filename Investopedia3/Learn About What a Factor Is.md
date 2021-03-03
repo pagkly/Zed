@@ -3,8 +3,7 @@ alias: [Factor]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Factor Definition, Learn About What a Factor Is]
 source: https://www.investopedia.com/terms/f/factor.asp
-author: 
-Adam Barone
+author: Adam Barone
 ---
 
 # Factor Definition

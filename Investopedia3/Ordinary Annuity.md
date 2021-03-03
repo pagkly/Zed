@@ -3,8 +3,7 @@ alias: [Ordinary Annuity]
 created: 2021-03-02T22:26:40 (UTC +11:00)
 tags: [Ordinary Annuity Definition, Ordinary Annuity]
 source: https://www.investopedia.com/terms/o/ordinaryannuity.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Ordinary Annuity Definition

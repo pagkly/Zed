@@ -3,8 +3,7 @@ alias: [Principal]
 created: 2021-03-02T22:52:17 (UTC +11:00)
 tags: [Principal Definition, Principal]
 source: https://www.investopedia.com/terms/p/principal.asp
-author: 
-James Chen
+author: James Chen
 ---
 
 # Principal Definition

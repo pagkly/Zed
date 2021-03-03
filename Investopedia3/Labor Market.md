@@ -3,8 +3,7 @@ alias: [Labor Market]
 created: 2021-03-02T21:09:20 (UTC +11:00)
 tags: [Labor Market Definition, Labor Market]
 source: https://www.investopedia.com/terms/l/labor-market.asp
-author: 
-Will Kenton
+author: Will Kenton
 ---
 
 # Labor Market Definition

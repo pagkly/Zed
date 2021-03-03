@@ -3,8 +3,7 @@ alias: [Fair Labor Standards Act]
 created: 2021-03-02T19:50:26 (UTC +11:00)
 tags: [Fair Labor Standards Act Definition, What Is the Fair Labor Standards Act?]
 source: https://www.investopedia.com/terms/f/fair-labor-standards-act-flsa.asp
-author: 
-Will Kenton
+author: Will Kenton
 ---
 
 # Fair Labor Standards Act Definition

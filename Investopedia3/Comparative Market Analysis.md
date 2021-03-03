@@ -3,8 +3,7 @@ alias: [Comparative Market Analysis, CMA]
 created: 2021-03-02T18:55:43 (UTC +11:00)
 tags: [Comparative Market Analysis (CMA) Definition, Comparative Market Analysis]
 source: https://www.investopedia.com/terms/c/comparative-market-analysis.asp
-author: 
-Jean Folger
+author: Jean Folger
 ---
 
 # Comparative Market Analysis (CMA) Definition

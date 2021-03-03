@@ -3,8 +3,7 @@ alias: [Renter’s Insurance]
 created: 2021-03-02T23:16:47 (UTC +11:00)
 tags: [Renter’s Insurance Definition, Renter’s Insurance]
 source: https://www.investopedia.com/terms/r/renters-insurance.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Renter’s Insurance Definition

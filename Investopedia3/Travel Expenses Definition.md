@@ -3,8 +3,7 @@ alias: [Travel Expenses]
 created: 2021-03-03T00:06:44 (UTC +11:00)
 tags: [Travel Expenses Definition, Travel Expenses Definition]
 source: https://www.investopedia.com/terms/t/travelexpenses.asp
-author: 
-Michelle P. Scott
+author: Michelle P. Scott
 ---
 
 # Travel Expenses Definition

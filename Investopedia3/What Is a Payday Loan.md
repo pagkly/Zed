@@ -3,8 +3,7 @@ alias: [Payday Loan]
 created: 2021-03-02T22:38:08 (UTC +11:00)
 tags: [Payday Loan Definition, What Is a Payday Loan?]
 source: https://www.investopedia.com/terms/p/payday-loans.asp
-author: 
-Julia Kagan
+author: Julia Kagan
 ---
 
 # Payday Loan Definition
