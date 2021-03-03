@@ -13,7 +13,7 @@ author: Adam Hayes
 
 ---
 
-All You Need to Know About the Winner's Curse
+[[All You Need to Know About the Winner's Curse]]
 ## What Is the Winner's Curse?
 
 The winner's curse is a tendency for the winning bid in an [[auction]](https://www.investopedia.com/terms/a/auction.asp) to exceed the [[intrinsic value]](https://www.investopedia.com/terms/i/intrinsicvalue.asp) or true worth of an item. The gap in auctioned versus intrinsic value can typically be attributed to incomplete information, emotions, or a variety of other subjective factors that may influence bidders.
@@ -26,7 +26,7 @@ In general, subjective factors usually create a value gap because the [[bidder]]
 -   The gap in auctioned vs. intrinsic value can typically be attributed to incomplete information, types of bidders, emotions, or a variety of other subjective factors.
 -   Originally, the term winner's curse was coined as a result of companies bidding for offshore oil drilling rights in the Gulf of Mexico.1
 -   In the investing world, the term often applies to initial public offerings (IPOs) but comprehensively a winner’s curse can happen in any market where auctions take place.
--   The gap between intrinsic and auction value will generally be influenced by the bidders involved.
+-   The gap between intrinsic and auction value [[Will|will]] generally be influenced by the bidders involved.
 
 ## Understanding the Winner's Curse
 

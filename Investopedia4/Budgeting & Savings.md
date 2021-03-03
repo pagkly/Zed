@@ -9,17 +9,17 @@ author:
 # The Best Budgeting & Saving Techniques
 
 > ## Excerpt
-> Pay yourself first by using these tools and strategies to build wealth, avoid debt and set yourself up to live well now and even better in the future.
+> [[Pay Yourself First|Pay yourself first]] by using these tools and strategies to build wealth, avoid [[Debt|debt]] and set yourself up to live well now and even better in the future.
 
 ---
 
-Budgeting & Savings
+[[Budgeting & Savings]]
 [Budgeting & Savings](https://www.investopedia.com/budgeting-and-savings-4427755)
 
 -   [[Savings]](https://www.investopedia.com/savings-4689725)
 -   [[Budgeting]](https://www.investopedia.com/budgeting-4689726)
 
-[Personal Finance](https://www.investopedia.com/personal-finance-4427760)
+[Personal Finance](https://www.investopedia.com/personal-[[Finance|finance]]-4427760)
 
 [Budgeting & Savings](https://www.investopedia.com/budgeting-and-savings-4427755)
 
@@ -62,8 +62,8 @@ The 6 Best Online Bookkeeping Classes of 2021
     
     ![[Budgeting & Savings/GettyImages-187653343-5917563a3df78c7a8c557312-5bbae9d29b574b9db8e3a40fc19c7957.jpg]]
     
-    These 12 Habits Will Help You Reach Financial Freedom
+    These 12 Habits [[Will]] Help You Reach Financial Freedom
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/112015/these-10-habits-will-help-you-reach-financial-freedom.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/112015/these-10-habits-[[Will|will]]-help-you-reach-financial-freedom.asp)

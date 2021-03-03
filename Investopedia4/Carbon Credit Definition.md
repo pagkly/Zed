@@ -3,24 +3,24 @@ alias: [Carbon Credit]
 created: 2021-03-02T18:46:50 (UTC +11:00)
 tags: [Carbon Credit Definition, Carbon Credit Definition]
 source: https://www.investopedia.com/terms/c/carbon_credit.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Carbon Credit Definition
+# [[Carbon Credit Definition]]
 
 > ## Excerpt
 > A carbon credit is a permit allowing the holder to emit a limited amount of carbon dioxide or other greenhouse gases.
 
 ---
 
-Carbon Credit Definition
+[[Carbon Credit Definition]]
 ## What Is a Carbon Credit?
 
 A carbon credit is a permit that allows the company that holds it to emit a certain amount of carbon dioxide or other greenhouse gases. One credit permits the emission of a mass equal to one ton of carbon dioxide.
 
 The carbon credit is one half of a so-called "cap-and-trade" program. Companies that pollute are awarded credits that allow them to continue to pollute up to a certain limit. That limit is reduced periodically. Meanwhile, the company may sell any unneeded credits to another company that needs them.
 
-Private companies are thus doubly incentivized to reduce greenhouse emissions. First, they will be fined if they exceed the cap. Second, they can make money by saving and reselling some of their emissions allowances.
+Private companies are thus doubly incentivized to reduce greenhouse emissions. First, they [[Will|will]] be fined if they exceed the cap. Second, they can make money by saving and reselling some of their emissions allowances.
 
 ## Understanding a Carbon Credit
 
@@ -34,7 +34,7 @@ The ultimate goal of carbon credits is to reduce the emission of greenhouse gase
 
 As noted, a carbon credit is equal to one ton of carbon dioxide. According to the Environmental Defense Fund, that is the equivalent of a 2,400-mile drive in terms of carbon dioxide emissions.1
 
-Companies or nations are allotted a certain number of credits and may trade them to help balance total worldwide emissions. "Since carbon dioxide is the principal greenhouse gas," the United Nations notes, "people speak simply of trading in carbon."2
+Companies or nations are allotted a certain number of credits and may trade them to help balance total worldwide emissions. "Since carbon dioxide is the [[Principal|principal]] greenhouse gas," the United Nations notes, "people speak simply of trading in carbon."2
 
 The intention is to reduce the number of credits over time, thus incentivizing companies to find innovative ways to reduce greenhouse gas emissions.
 
@@ -60,14 +60,14 @@ The United Nations' Intergovernmental Panel on Climate Change (IPCC) developed a
 
 California has its own carbon credit program, which is reputed to be the world's fourth-largest.
 
-The Kyoto Protocol divided countries into industrialized and developing economies. Industrialized countries, collectively called Annex 1, operated in their own emissions trading market. If a country emitted less than its target amount of [[hydrocarbons]](https://www.investopedia.com/terms/h/hydrocarbon.asp), it could sell its surplus credits to countries that did not achieve its Kyoto level goals, through an [[Emission Reduction Purchase Agreement]](https://www.investopedia.com/terms/e/erpa.asp) (ERPA). 
+[[The Kyoto Protocol]] divided countries into industrialized and developing economies. Industrialized countries, collectively called Annex 1, operated in their own emissions trading market. If a country emitted less than its target amount of [[hydrocarbons]](https://www.investopedia.com/terms/h/hydrocarbon.asp), it could sell its [[Surplus|surplus]] credits to countries that did not achieve its Kyoto level goals, through an [[Emission Reduction Purchase Agreement]](https://www.investopedia.com/terms/e/erpa.asp) (ERPA). 
 
 The separate Clean Development Mechanism for developing countries issued carbon credits called a Certified Emission Reduction (CER). A developing nation could receive these credits for supporting sustainable development initiatives. The trading of CERs took place in a separate market.
 
-The first commitment period of the Kyoto Protocol ended in 2012.6 (The U.S. dropped out in 2001.)
+The first commitment period of [[The Kyoto Protocol|the Kyoto Protocol]] ended in 2012.6 (The U.S. dropped out in 2001.)
 
 ### The Paris Climate Agreement
 
-The Kyoto protocol was revised in 2012 in an agreement known as the Doha Amendment, which was ratified as of October 2020, with 147 member nations having "deposited their instrument of acceptance."7
+[[The Kyoto Protocol|The Kyoto protocol]] was revised in 2012 in an agreement known as the Doha Amendment, which was ratified as of October 2020, with 147 member nations having "deposited their instrument of acceptance."7
 
 In the meantime, more than 190 nations signed on to the [[Paris Agreement]](https://www.investopedia.com/terms/p/paris-agreementcop21.asp) of 2015, which also sets emission standards and allows for emissions trading.8 (The U.S. [[dropped out in 2017]](https://www.reuters.com/article/us-un-climate-usa-paris/u-s-submits-formal-notice-of-withdrawal-from-paris-climate-pact-idUSKBN1AK2FM).)

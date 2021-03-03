@@ -1,12 +1,12 @@
 ---
 alias: [Generation Gap]
 created: 2021-03-02T20:16:39 (UTC +11:00)
-tags: [Generation Gap Definition, Generation Gap: What You Should Know]
+tags: [Generation [[Gap Definition]], Generation Gap: What You Should Know]
 source: https://www.investopedia.com/terms/g/generation-gap.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Generation Gap Definition
+# Generation [[Gap Definition]]
 
 > ## Excerpt
 > A generation gap is the difference found between members of different generations.

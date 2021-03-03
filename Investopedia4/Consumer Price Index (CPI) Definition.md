@@ -6,21 +6,21 @@ source: https://www.investopedia.com/terms/c/consumerpriceindex.asp
 author: Jason Fernando
 ---
 
-# Consumer Price Index (CPI) Definition
+# [[Consumer Price Index (CPI) Definition]]
 
 > ## Excerpt
 > The Consumer Price Index measures the average change in prices over time that consumers pay for a basket of goods and services.
 
 ---
 
-Consumer Price Index (CPI) Definition
+[[Consumer Price Index (CPI) Definition]]
 ## What is Consumer Price Index (CPI)?
 
-The Consumer Price Index (CPI) is a measure that examines the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) of prices of a basket of consumer goods and services, such as transportation, food, and medical care. It is calculated by taking price changes for each item in the predetermined [[basket of goods]](https://www.investopedia.com/terms/b/basket_of_goods.asp) and averaging them. Changes in the CPI are used to assess price changes associated with the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp). The CPI is one of the most frequently used statistics for identifying periods of [[inflation or deflation]](https://www.investopedia.com/ask/answers/111414/what-difference-between-inflation-and-deflation.asp).
+The Consumer Price Index (CPI) is a measure that examines the [[weighted average]](https://www.investopedia.com/terms/w/weightedaverage.asp) of prices of a basket of consumer goods and services, such as transportation, food, and medical care. It is calculated by taking price changes for each item in the predetermined [[basket of goods]](https://www.investopedia.com/terms/b/basket_of_goods.asp) and averaging them. Changes in the CPI are used to assess price changes associated with the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp). The CPI is one of the most frequently used statistics for identifying periods of [[inflation or deflation]](https://www.investopedia.com/ask/answers/111414/what-difference-between-inflation-and-[[Deflation|deflation]].asp).
 
 ## Understanding Consumer Price Index (CPI)
 
-The CPI measures the average change in prices over time that consumers pay for a basket of goods and services, commonly known as inflation. Essentially it attempts to quantify the aggregate price level in an economy and thus measure the [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp) of a country's unit of currency. The weighted average of the prices of goods and services that approximates an individual's consumption patterns is used to calculate CPI. A [[trimmed mean]](https://www.investopedia.com/terms/t/trimmed_mean.asp) may be used as part of this.
+The CPI measures the average change in prices over time that consumers pay for a basket of goods and services, commonly known as inflation. Essentially it attempts to quantify the aggregate [[Price Level|price level]] in an economy and thus measure the [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp) of a country's unit of currency. The [[Weighted|weighted]] average of the prices of goods and services that approximates an individual's consumption patterns is used to calculate CPI. A [[trimmed mean]](https://www.investopedia.com/terms/t/trimmed_mean.asp) may be used as part of this.
 
 The U.S. [[Bureau of Labor Statistics]](https://www.investopedia.com/terms/b/bls.asp) (BLS) reports the CPI on a monthly basis and has calculated it as far back as 1913. It is based upon the index average for the period from 1982 through 1984 (inclusive) which was set to 100. So a CPI reading of 100 means that inflation is back to the level that it was in 1984 while readings of 175 and 225 would indicate a rise in the inflation level of 75% and 125% respectively. The quoted inflation rate is actually the change in the index from the prior period, whether it is monthly, quarterly or yearly.
 
@@ -35,11 +35,11 @@ While it does measure the variation in price for retail goods and other items pa
 
 ## How is CPI Used?
 
-CPI is an economic indicator. It is the most widely used measure of inflation and, by proxy, of the effectiveness of the government’s economic policy. The CPI gives the government, businesses, and citizens an idea about prices changes in the economy, and can act as a guide in order to make informed decisions about the economy. 
+CPI is an [[Economic Indicator|economic indicator]]. It is the most widely used measure of inflation and, by proxy, of the effectiveness of the government’s economic policy. The CPI gives the government, businesses, and citizens an idea about prices changes in the economy, and can act as a guide in order to make informed decisions about the economy. 
 
-The CPI and the components that make it up can also be used as a deflator for other economic indicators, including [[retail sales]](https://www.investopedia.com/terms/r/retail-sales.asp), hourly/weekly earnings. Additionally, it can be used to value a consumer’s dollar to find its [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp). Generally, the dollar’s purchasing power declines when the aggregate price level increases and vice versa. 
+The CPI and the components that make it up can also be used as a deflator for other economic indicators, including [[retail sales]](https://www.investopedia.com/terms/r/retail-sales.asp), hourly/weekly earnings. Additionally, it can be used to value a consumer’s dollar to find its [[purchasing power]](https://www.investopedia.com/terms/p/purchasingpower.asp). Generally, the dollar’s purchasing power declines when the aggregate [[Price Level|price level]] increases and vice versa. 
 
-The index can also be used to adjust people’s eligibility levels for certain types of government assistance including Social Security and it automatically provides the cost-of-living wage adjustments to domestic workers. According to the BLS, the [[cost-of-living adjustments]](https://www.investopedia.com/terms/c/cola.asp) of more than 50 million people on Social Security, as well as military and Federal Civil Services retirees are linked to the CPI. 
+The index can also be used to adjust people’s eligibility levels for certain types of government assistance including [[Social Security]] and it automatically provides the cost-of-living wage adjustments to domestic workers. According to the BLS, the [[cost-of-living adjustments]](https://www.investopedia.com/terms/c/cola.asp) of more than 50 million people on Social [[Security]], as well as military and Federal Civil Services retirees are linked to the CPI. 
 
 ## Who and What Are Covered?
 
@@ -49,7 +49,7 @@ The CPI represents the cost of a basket of [[goods]](https://www.investopedia.co
 
 Maddy Price {Copyright} Investopedia, 2019.
 
-The BLS includes sales and excise taxes in the CPI — or those that are directly associated with the price of consumer goods and services — but excludes others that aren't linked such as income and Social Security taxes. It also excludes investments ([stocks](https://www.investopedia.com/terms/s/stock.asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), etc.), life insurance, real estate and other items unrelated to consumers' day-to-day consumption.  
+The BLS includes sales and excise taxes in the CPI — or those that are directly associated with the price of consumer goods and services — but excludes others that aren't linked such as income and [[Social Security]] taxes. It also excludes investments ([stocks](https://www.investopedia.com/terms/s/[[Stock|stock]].asp), [[bonds]](https://www.investopedia.com/terms/b/bond.asp), etc.), life insurance, real [[Estate|estate]] and other items unrelated to consumers' day-to-day consumption.  
 
 ## Calculating CPI 
 
@@ -57,7 +57,7 @@ The BLS records about 80,000 items each month by calling or visiting retail sto
 
 The formula used to calculate the Consumer Price Index for a single item is as follows:
 
-CPI\= Cost of Market Basket in Given YearCost of Market Basket in Base Year×100\\text{CPI}=\\frac{\\text{ Cost of Market Basket in Given Year}}{\\text{Cost of Market Basket in Base Year}}\\times100
+CPI\= Cost of Market Basket in Given YearCost of Market Basket in Base Year×100\\text{CPI}=\\frac{\\text{ Cost of [[Market Basket]] in Given Year}}{\\text{Cost of Market Basket in Base Year}}\\times100
 
 The base year is determined by the BLS. CPI data for the years 2017 and 2018 were based on surveys collected in 2014 and 2015. 
 
@@ -65,8 +65,8 @@ The base year is determined by the BLS. CPI data for the years 2017 and 2018 wer
 
 Two types of CPIs are reported each time.
 
-1.  The [[CPI-W]](https://www.investopedia.com/terms/c/cpi-w.asp) measures the Consumer Price Index for Urban Wage Earners and Clerical Workers. Between 1913 and 1977, the BLS focused on measuring this type of CPI. It was based on households whose incomes comprised of more than one-half from clerical or wage occupations, and in which at least one of the earners were employed for at least 37 weeks during the previous 12-month cycle. The CPI-W primarily reflects changes in the costs of benefits paid to those on Social Security. This measurement of CPI represents at least 28 percent of the country's population.
-2.  The CPI-U is the Consumer Price Index for Urban Consumers. It accounts for 88 percent of the U.S. population and is the better representation of the general public. The BLS made improvements to CPI in 1978 and introduced a broader target population. This type of CPI is based on the [[spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) of almost all the population that resides in urban or metropolitan areas and includes professionals, self-employed workers, those living below the poverty line, unemployed, and retired people. It also includes urban wage earners and clerical workers.
+1.  The [[CPI-W]](https://www.investopedia.com/terms/c/cpi-w.asp) measures the Consumer Price Index for Urban Wage Earners and Clerical Workers. Between 1913 and 1977, the BLS focused on measuring this type of CPI. It was based on households whose incomes comprised of more than one-half from clerical or wage occupations, and in which at least one of the earners were employed for at least 37 weeks during the previous 12-month cycle. The CPI-W primarily reflects changes in the costs of benefits paid to those on [[Social Security]]. This measurement of CPI represents at least 28 percent of the country's population.
+2.  The CPI-U is the Consumer Price Index for Urban Consumers. It accounts for 88 percent of the U.S. population and is the better representation of the general public. The BLS made improvements to CPI in 1978 and introduced a broader target population. This type of CPI is based on the [[spending]](https://www.investopedia.com/terms/c/consumer-spending.asp) of almost all the population that resides in urban or metropolitan areas and includes professionals, self-employed workers, those living below the [[Poverty|poverty]] line, unemployed, and retired people. It also includes urban wage earners and clerical workers.
 
 Despite introducing the CPI-U in 1978, the BLS continued to measure the traditional measure of the CPI-W. But since 1985, the main difference between the two indexes has been the expenditure weights assigned to item categories and geographic areas.
 
@@ -97,7 +97,7 @@ The CPI is a statistical measure prepared by the Bureau of Labor Statistics (BLS
 
 ### How is the CPI calculated?
 
-CPI is the weighted-average price of a broad cross-section of goods and services. This collection of items, often referred to as the CPI’s “basket” of goods, is intended to mimic the typical products and services purchased by American consumers. Over the years, as the prices of those products rise due to inflation, this gradual increase is reflected in a rising CPI. In the media, CPI is commonly referred to in terms of its percentage year-over-year change.
+CPI is the [[Weighted|weighted]]-average price of a broad cross-section of goods and services. This collection of items, often referred to as the CPI’s “basket” of goods, is intended to mimic the typical products and services purchased by American consumers. Over the years, as the prices of those products rise due to inflation, this gradual increase is reflected in a rising CPI. In the media, CPI is commonly referred to in terms of its percentage year-over-year change.
 
 ### What are some criticisms of the CPI?
 

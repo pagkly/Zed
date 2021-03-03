@@ -3,7 +3,7 @@ alias: [Equitable Relief]
 created: 2021-03-02T19:39:55 (UTC +11:00)
 tags: [Equitable Relief Definition, Equitable Relief: When Legal Remedies Aren't Enough]
 source: https://www.investopedia.com/terms/e/equitable-relief.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Equitable Relief Definition
@@ -22,7 +22,7 @@ Equitable relief is a court-granted remedy that requires a party to act or refra
 
 -   Equitable relief is granted by a court requiring one party to either act or refrain from taking an action.
 -   Equitable relief is usually a remedy for a breach of contract or in cases of intellectual property theft.
--   A common form of equitable relief is the canceling of a contract, which ends all terms and obligations, allowing both parties to return to their pre-contract status.
+-   A common form of equitable relief is the canceling of a contract, which ends all terms and obligations, allowing both parties to [[Return|return]] to their pre-contract status.
 
 ## How Equitable Relief Works
 
@@ -36,7 +36,7 @@ Equitable relief is not the same as monetary compensation.
 
 ## Equitable Relief in Practice
 
-Equitable relief is almost always incurred when there has been a breach of contract. A common form of equitable relief will order the [[rescission]](https://www.investopedia.com/terms/r/rescission.asp) of a contract, which cancels all terms and obligations and restores both parties to their pre-contract position. These often occur during contracts involving property because the personal value of property to a party can often extend beyond monetary compensation. A court could order the property to be sold pursuant to the terms of the original contract, or cancel the contract.
+Equitable relief is almost always incurred when there has been a breach of contract. A common form of equitable relief [[Will|will]] order the [[rescission]](https://www.investopedia.com/terms/r/rescission.asp) of a contract, which cancels all terms and obligations and restores both parties to their pre-contract position. These often occur during contracts involving property because the personal value of property to a party can often extend beyond monetary compensation. A court could order the property to be sold pursuant to the terms of the original contract, or cancel the contract.
 
 Courts could order rectification, a revision to a contract so that it more accurately reflects the intentions of both parties—in essence, stating what had been initially understood. They could also order that the obligations of a contract be fulfilled as initially drafted if they are found to have breached its terms.
 

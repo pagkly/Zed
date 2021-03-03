@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/f/finra-brokercheck.asp
 author: Julia Kagan
 ---
 
-# FINRA BrokerCheck
+# [[FINRA BrokerCheck]]
 
 > ## Excerpt
-> FINRA BrokerCheck is a free, online tool that helps individuals research brokers, brokerage firms, investment adviser firms and advisers.
+> [[FINRA BrokerCheck]] is a free, online tool that helps individuals research brokers, brokerage firms, investment adviser firms and advisers.
 
 ---
 
-FINRA BrokerCheck
-## What is FINRA BrokerCheck
+[[FINRA BrokerCheck]]
+## What is [[FINRA BrokerCheck]]
 
-FINRA BrokerCheck is a free, online tool that helps individuals research [[brokers]](https://www.investopedia.com/terms/b/broker.asp), brokerage firms, [[investment adviser]](https://www.investopedia.com/terms/i/investmentadvisor.asp) firms and advisers. By visiting BrokerCheck, investors can see a variety of information that may be helpful in the selection and [[vetting]](https://www.investopedia.com/terms/v/vetting.asp) of an individual financial advice provider or broker/brokerage firm, such as descriptions, services offered, credentials, sanctions, registrations and more. BrokerCheck is offered and administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp), the largest non-governmental securities firm regulator in the United States. The data and information available in BrokerCheck comes mainly from two sources: the [[Central Registration Depository (CRD)]](https://www.investopedia.com/terms/c/crd.asp), the securities industry online registration and licensing database, provides the broker and brokerage information, while information about investment adviser firms and representatives comes from the Securities and Exchange Commission's [Investment Adviser Registration Depository (IARD)](https://www.investopedia.com/terms/i/investment-adviser-registration-depository-iard.asp) database.1
+[[FINRA BrokerCheck]] is a free, online tool that helps individuals research [[brokers]](https://www.investopedia.com/terms/b/broker.asp), brokerage firms, [[investment adviser]](https://www.investopedia.com/terms/i/investmentadvisor.asp) firms and advisers. By visiting BrokerCheck, investors can see a variety of information that may be helpful in the selection and [[vetting]](https://www.investopedia.com/terms/v/vetting.asp) of an individual financial advice provider or broker/brokerage firm, such as descriptions, services offered, credentials, sanctions, registrations and more. BrokerCheck is offered and administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp), the largest non-governmental securities firm regulator in the United States. The data and information available in BrokerCheck comes mainly from two sources: the [[Central Registration Depository (CRD)]](https://www.investopedia.com/terms/c/crd.asp), the securities industry online registration and licensing database, provides the broker and brokerage information, while information about investment adviser firms and representatives comes from the Securities and Exchange [[Commission]]'s [Investment Adviser Registration Depository (IARD)](https://www.investopedia.com/terms/i/investment-adviser-registration-depository-iard.asp) database.1
 
-## Breaking Down FINRA BrokerCheck
+## Breaking Down [[FINRA BrokerCheck]]
 
-Given the breadth of its data sources, FINRA BrokerCheck ([brokercheck.finra.org](http://brokercheck.finra.org/)) contains information on roughly 820,000 brokers/brokerages and advisers/adviser firms, as well as thousands of previously registered ones. FINRA BrokerCheck is also an explanatory tool that shows how to properly use and manage the information provided. With FINRA BrokerCheck, an investor can find a firm's history, learn of any indiscretions and locate and identify popular choices among investors.2
+Given the breadth of its data sources, [[FINRA BrokerCheck]] ([brokercheck.finra.org](http://brokercheck.finra.org/)) contains information on roughly 820,000 brokers/brokerages and advisers/adviser firms, as well as thousands of previously registered ones. FINRA BrokerCheck is also an explanatory tool that shows how to properly use and manage the information provided. With FINRA BrokerCheck, an investor can find a firm's history, learn of any indiscretions and locate and identify popular choices among investors.2
 
-## FINRA BrokerCheck: Available Information
+## [[FINRA BrokerCheck]]: Available Information
 
-Regarding brokers who are currently registered with FINRA, a national securities exchange, or who have been registered sometime during the last 10 years, FINRA BrokerCheck provides:
+Regarding brokers who are currently registered with FINRA, a national securities exchange, or who have been registered sometime during the last 10 years, [[FINRA BrokerCheck]] provides:
 
 -   A report summary of a broker and their credentials
 -   Broker qualifications, such as current registrations or licenses, including exams that they have passed
@@ -39,7 +39,7 @@ For brokerage firms, BrokerCheck provides:
 -   A firm operations section that includes its licenses and registrations, what kind of business it engages in, and any other operational disclosures
 -   A disclosures section that has information of arbitration awards, disciplinary events, and financial matters on its record (both past and pending).
 
-BrokerCheck does not contain any information that has not been disclosed to the CRD system, some personal or confidential information (Social Security numbers or residential addresses), as well as satisfied judgments or liens. For more, see the FINRA BrokerCheck [informational page](http://www.finra.org/investors/about-brokercheck) and [FAQs](http://www.finra.org/investors/brokercheck-faq).
+BrokerCheck does not contain any information that has not been disclosed to the CRD system, some personal or confidential information ([[Social Security]] numbers or residential addresses), as well as satisfied judgments or liens. For more, see the [[FINRA BrokerCheck]] [informational page](http://www.finra.org/investors/about-brokercheck) and [FAQs](http://www.finra.org/investors/brokercheck-faq).
 
 ## FiINRA BrokerCheck Other Resources
 

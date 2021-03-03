@@ -13,18 +13,18 @@ author: James Chen
 
 ---
 
-Feeder Fund Definition
+[[Feeder Fund Definition]]
 ## What Is a Feeder Fund?
 
-A feeder fund is one of several sub-funds that put all of their investment capital into an overarching umbrella fund, known as a master fund, for which a single investment advisor handles all [[portfolio investments]](https://www.investopedia.com/terms/p/portfolio-investment.asp) and trading. This two-tiered investment structure of a feeder fund and a master fund is commonly used by [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) as a means of assembling a larger portfolio account by pooling investment capital.
+A feeder fund is one of several sub-funds that put all of their investment capital into an overarching umbrella fund, known as a master fund, for which a single investment advisor handles all [[portfolio investments]](https://www.investopedia.com/terms/p/[[Portfolio|portfolio]]-investment.asp) and trading. This two-tiered investment structure of a feeder fund and a master fund is commonly used by [[hedge funds]](https://www.investopedia.com/terms/h/hedgefund.asp) as a means of assembling a larger portfolio account by pooling investment capital.
 
 Profits from the master fund are then split, or distributed, proportionately to the feeder funds based on the percentage of investment capital they have contributed to the master fund.
 
 ### Key Takeaways
 
 -   A feeder fund is one of many smaller investment funds that pool investor money, which is then aggregated under a single centralized master fund.
--   Consolidation of feeder funds into a master fund allows for reductions of operation and trading costs, and a larger portfolio has the added benefit of economies of scale.
--   Hedge funds commonly use master-feeder structures, where fees generated are pro-rated and distributed to the feeder funds.
+-   Consolidation of feeder funds into a master fund allows for reductions of operation and trading costs, and a larger [[Portfolio|portfolio]] has the added benefit of [[Economies of Scale|economies of scale]].
+-   [[Hedge]] funds commonly use master-feeder structures, where fees generated are pro-rated and distributed to the feeder funds.
 
 ## Understanding Feeder Funds
 
@@ -38,7 +38,7 @@ The use of this two-tiered fund structure can be very advantageous when the feed
 
 The feeder funds that invest capital in a master fund operate as separate legal entities from the master fund and may be invested in more than one master fund. Various feeder funds invested in a master fund often differ substantially from one another in terms of things such as expense fees or investment minimums and do not usually have identical [[net asset values]](https://www.investopedia.com/terms/n/nav.asp) (NAV). In the same way that a feeder fund is free to invest in more than one master fund, a master fund is likewise free to accept investments from a number of feeder funds.
 
-In regard to feeder funds operating in the United States, it is common for the master fund to be established as an offshore entity. This frees up the master fund to accept investment capital from both tax-exempt and U.S.-taxable investors. If, however, an offshore master fund elects to be taxed as a partnership or limited liability company (LLC) for U.S. tax purposes, then onshore feeder funds receive pass-through treatment of their share of the master fund's gains or losses, thus avoiding double taxation.
+In regard to feeder funds operating in the United States, it is common for the master fund to be established as an offshore entity. This frees up the master fund to accept investment capital from both tax-exempt and U.S.-taxable investors. If, however, an offshore master fund elects to be taxed as a partnership or limited [[Liability|liability]] company (LLC) for U.S. tax purposes, then onshore feeder funds receive pass-through treatment of their share of the master fund's gains or losses, thus avoiding [[Double Taxation|double taxation]].
 
 ## New Rules on International Feeder Funds
 

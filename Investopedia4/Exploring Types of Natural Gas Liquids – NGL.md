@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-Exploring Types of Natural Gas Liquids – NGL
+[[Exploring Types of Natural Gas Liquids – NGL]]
 ## What Are Natural Gas Liquids?
 
 Natural gas liquids (NGL) are components of natural gas that are separated from the gas state in the form of liquids. This separation occurs in a field facility or a gas processing plant through absorption, condensation, or other methods. There are several types of natural gas liquids and many different applications for NGL products.
@@ -35,13 +35,13 @@ Natural gas liquids are classified based on their vapor pressure:
 
 -   Low = condensate
 -   Intermediate = natural gas
--   High = liquefied [[petroleum]](https://www.investopedia.com/terms/p/petroleum.asp) gas
+-   High = liquefied [[petroleum]](https://www.investopedia.com/terms/p/[[Petroleum|petroleum]].asp) gas
 
 Additionally, chemical compositions of NGLs are similar, but their applications vary widely. Specifically, the many uses of natural gas liquids include cooking, space heating, and blending NGLs into fuels for vehicles.
 
 ### Ethane
 
-Applications of ethane include plastics production and petrochemical feedstock—raw materials fed into an industrial production process to yield a different end product. End-use products include plastics, plastic bags, antifreeze, and detergent.
+Applications of ethane include plastics production and petrochemical feedstock—raw materials fed into an industrial production process to [[Yield|yield]] a different end product. End-use products include plastics, plastic bags, antifreeze, and detergent.
 
 ### Propane
 
@@ -49,7 +49,7 @@ Applications and uses of propane include residential and commercial heating, coo
 
 ### Butanes
 
-Butanes can be blended with gasoline and propane. Products include synthetic rubber for tires and lighter fuel. In its purest form, butane is useful as a refrigerant. Combined with propane, butane becomes liquified petroleum gas (LPG).
+Butanes can be blended with gasoline and propane. Products include [[Synthetic|synthetic]] rubber for tires and lighter fuel. In its purest form, butane is useful as a refrigerant. Combined with propane, butane becomes liquified [[Petroleum|petroleum]] gas (LPG).
 
 ### Isobutanes
 
@@ -63,11 +63,11 @@ Pentanes are used in natural gasoline and as a blowing agent for polystyrene foa
 
 The U.S. shale boom increased extraction rates of natural gas liquids and NGL extraction is positively related to the price of [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp). That's because, as the market price of crude decreases, oil, gas, and chemical companies expand their offerings to include NGLs and offset lost revenue.
 
-There have been significant advancements in technologies such as horizontal drilling and hydraulic fracturing techniques, which involve using high-pressured water or liquids to extract gas. As a result, natural gas liquid production has increased steadily. In fact, NGLs provide many [[natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) producers with an additional income stream, which can help diversify their revenue.
+There have been significant advancements in technologies such as horizontal drilling and [[Hydraulic Fracturing|hydraulic fracturing]] techniques, which involve using high-pressured water or liquids to extract gas. As a result, natural gas liquid production has increased steadily. In fact, NGLs provide many [[natural gas]](https://www.investopedia.com/articles/fundamental-analysis/12/natural-gas-primer.asp) producers with an additional income stream, which can help diversify their revenue.
 
 A challenge with natural gas liquids is that they're expensive to handle, store, and [[transport]](https://www.investopedia.com/terms/t/transportationexpenses.asp) compared to refined products because NGLs require high pressure or low temperature to be maintained in their liquid state for shipment and handling. NGLs are also highly flammable and necessitate the use of special trucks, ships, and storage tanks.
 
-The [[volatility]](https://www.investopedia.com/terms/v/volatility.asp) of the natural gas liquids somewhat limits the number of markets available for their use. Also, as production increases, so too does the need for processing plants that separate NGLs from natural gas.
+The [[volatility]](https://www.investopedia.com/terms/v/[[Volatility|volatility]].asp) of the natural gas liquids somewhat limits the number of markets available for their use. Also, as production increases, so too does the need for processing plants that separate NGLs from natural gas.
 
 Pros
 
@@ -77,7 +77,7 @@ Pros
     
 -   NGLs are more widely available with advancements in drilling techniques.
     
--   NGLs offer oil and gas companies additional revenue streams.
+-   NGLs [[Offer|offer]] oil and gas companies additional revenue streams.
     
 -   The U.S. has a growing export business in natural gas liquids.
     
@@ -90,7 +90,7 @@ Cons
     
 -   Increased NGL use has led to increased demand for processing plants that separate NGLs from natural gas.
     
--   Their volatility limits the number of natural markets available for their use.
+-   Their [[Volatility|volatility]] limits the number of natural markets available for their use.
     
 
 ## Examples of NGLs
@@ -99,7 +99,7 @@ Let's say that a new production facility opened in Texas, whereby drilling for n
 
 ### XOM
 
-Exxon Mobil Corp. ([XOM](https://www.investopedia.com/markets/quote?tvwidgetsymbol=XOM)) is one of the largest producers of natural gas in the United States.
+Exxon Mobil Corp. ([XOM](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=XOM)) is one of the largest producers of natural gas in the United States.
 
 The ethane is removed from the natural gas stream after it reaches the necessary boiling point, followed by propane, which is a heavier gas resulting in a lengthier boiling process. Once the propane and ethane have been removed from the natural gas stream, in a process called fractionation, the NGLs travel via a [[pipeline]](https://www.investopedia.com/terms/p/pipeline.asp).
 

@@ -3,31 +3,31 @@ alias: [Chartered Accountant, CA]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chartered Accountant (CA) Definition, Chartered Accountant (CA)]
 source: https://www.investopedia.com/terms/c/ca.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Chartered Accountant (CA) Definition
+# [[Chartered Accountant (CA)]] Definition
 
 > ## Excerpt
-> A chartered accountant (CA) designation is a credential granted to accounting professionals in countries around the world outside of the United States.
+> A [[Chartered Accountant (CA)|chartered accountant (CA)]] designation is a credential granted to accounting professionals in countries around the world outside of the United States.
 
 ---
 
-Chartered Accountant (CA)
-## What Is a Chartered Accountant (CA)?
+[[Chartered Accountant (CA)]]
+## What Is a [[Chartered Accountant (CA)]]?
 
-A chartered accountant (CA) is an international [[accounting]](https://www.investopedia.com/terms/a/accounting.asp) designation granted to accounting professionals in many countries around the world, aside from the United States. In the United States, the equivalent to the CA designation is a [[certified public accountant]](https://www.investopedia.com/terms/c/cpa.asp) (CPA).
+A [[Chartered Accountant (CA)|chartered accountant (CA)]] is an international [[accounting]](https://www.investopedia.com/terms/a/accounting.asp) designation granted to accounting professionals in many countries around the world, aside from the United States. In the United States, the equivalent to the CA designation is a [[certified public accountant]](https://www.investopedia.com/terms/c/cpa.asp) (CPA).
 
 ### Key Takeaways
 
 -   The designation of chartered accountant is granted to accounting professionals in many countries around the world, aside from the United States.
 -   The equivalent to the CA designation in the U.S. is a CPA.
--   CAs typically focus on one of the following areas: [[audit]](https://www.investopedia.com/terms/a/audit.asp) and assurance, financial accounting and reporting, management accounting, and applied finance or taxation.
+-   CAs typically focus on one of the following areas: [[audit]](https://www.investopedia.com/terms/a/audit.asp) and assurance, [[Financial Accounting|financial accounting]] and reporting, management accounting, and applied [[Finance|finance]] or [[Taxation|taxation]].
 -   Some chartered accountant institutions have reciprocity agreements with the U.S., whereby if they pass certain exams, they can work as CPAs.
 
-## Understanding a Chartered Accountant (CA)
+## Understanding a [[Chartered Accountant (CA)]]
 
-A CA credential typically proves that its holder has the qualifications to file a business's [[tax return]](https://www.investopedia.com/terms/t/taxreturn.asp), audit [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) and business practices, and offer advisory services to clients.
+A CA credential typically proves that its holder has the qualifications to file a business's [[tax return]](https://www.investopedia.com/terms/t/taxreturn.asp), audit [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) and business practices, and [[Offer|offer]] advisory services to clients.
 
 On a day-to-day basis, CAs and CPAs perform very similar tasks.
 
@@ -37,7 +37,7 @@ Different countries impose different rules and regulations on the process of bec
 
 In Canada, people who wish to become chartered professional accountants must complete an undergraduate degree with coursework in business and accounting areas. Then they can enroll in a professional education program for chartered professional accountants.
 
-In most cases, CAs focus on one of four areas: audit and assurance, financial accounting and reporting, management accounting and applied finance, or [[taxation]](https://www.investopedia.com/terms/t/taxation.asp). Depending on their area of focus, CAs may handle one aspect of a company's business, they may oversee all of a company's accounting needs, or they may work as freelance CAs who handle accounting matters for multiple clients. Chartered accountants work both in the private and public sectors.
+In most cases, CAs focus on one of four areas: audit and assurance, [[Financial Accounting|financial accounting]] and reporting, management accounting and applied [[Finance|finance]], or [[taxation]](https://www.investopedia.com/terms/t/[[Taxation|taxation]].asp). Depending on their area of focus, CAs may handle one aspect of a company's business, they may oversee all of a company's accounting needs, or they may work as freelance CAs who handle accounting matters for multiple clients. Chartered accountants work both in the private and public sectors.
 
 ## Chartered Accountants (CAs) vs. CPAs
 

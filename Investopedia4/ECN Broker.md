@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/e/ecn-broker.asp
 author: James Chen
 ---
 
-# ECN Broker Definition
+# [[ECN Broker]] Definition
 
 > ## Excerpt
-> An ECN broker is a forex financial expert that uses electronic communications networks to give clients access to other participants in currency markets.
+> An [[ECN Broker|ECN broker]] is a forex financial expert that uses electronic communications networks to give clients access to other participants in currency markets.
 
 ---
 
-ECN Broker
-## What Is an ECN Broker?
+[[ECN Broker]]
+## What Is an [[ECN Broker]]?
 
-An ECN broker is a financial intermediary that uses electronic communications networks (ECNs) to give clients direct access to other participants in equity and currency markets. Because an ECN broker [[consolidates]](https://www.investopedia.com/terms/c/consolidate.asp) price quotations from several market participants, it can generally offer its clients tighter bid/ask spreads than would be otherwise available to them.
+An [[ECN Broker|ECN broker]] is a [[Financial Intermediary|financial intermediary]] that uses electronic communications networks (ECNs) to give clients direct access to other participants in [[Equity|equity]] and currency markets. Because an ECN broker [[consolidates]](https://www.investopedia.com/terms/c/consolidate.asp) price quotations from several market participants, it can generally [[Offer|offer]] its clients tighter bid/ask spreads than would be otherwise available to them.
 
-An [[ECN]](https://www.investopedia.com/terms/e/ecn.asp) broker only matches trades between other market participants; it cannot trade against the client. ECN spreads are often narrower than those used by conventional brokers, but ECN brokers still charge clients a fixed commission per transaction.
+An [[ECN]](https://www.investopedia.com/terms/e/ecn.asp) broker only matches trades between other market participants; it cannot trade against the client. ECN spreads are often narrower than those used by conventional brokers, but ECN brokers still charge clients a fixed [[Commission|commission]] per transaction.
 
 ### Key Takeaways
 
 -   ECN brokers facilitate transactions that occur on electronic communication networks (ECNs).
--   These brokers help clients directly access stock or currency markets on ECNs that they would not have access to otherwise.
--   While they offer transparency and deep liquidity, ECN systems are more expensive as compared to traditional exchanges.
+-   These brokers help clients directly access [[Stock|stock]] or currency markets on ECNs that they would not have access to otherwise.
+-   While they [[Offer|offer]] transparency and deep [[Liquidity|liquidity]], ECN systems are more expensive as compared to traditional exchanges.
 
 ## Understanding ECN Brokers
 
@@ -34,11 +34,11 @@ For those concerned about privacy, the ECN can provide a level of anonymity to t
 
 ECN brokers are [[non-dealing desk brokers]](https://www.investopedia.com/terms/n/no-dealing-desk.asp), meaning that they do not pass on order flow to market makers. Instead, they match participants in a trade electronically and pass the orders to [[liquidity providers]](https://www.investopedia.com/terms/c/coreliquidityprovider.asp).
 
-An ECN broker facilitates trades for interested investors across the ECN. Working with brokers of this nature often results in lower fees as well as additional trading time availability because of how the ECN functions.
+An [[ECN Broker|ECN broker]] facilitates trades for interested investors across the ECN. Working with brokers of this nature often results in lower fees as well as additional trading time availability because of how the ECN functions.
 
 ## Understanding the Electronic Communications Network
 
-The ECN provides an electronic system for buyers and sellers to come together for the purpose of executing trades. It does this by providing access to information regarding orders being entered, and by facilitating the execution of these orders. The network is designed to match buy and sell orders currently present in the exchange. When specific order information is not available, it provides prices reflecting the highest bid and lowest ask listed on the open market.
+The ECN provides an electronic system for buyers and sellers to come together for the purpose of executing trades. It does this by providing access to information regarding orders being entered, and by facilitating the execution of these orders. The network is designed to match buy and sell orders currently present in the exchange. When specific order information is not available, it provides prices reflecting the highest bid and lowest ask [[Listed|listed]] on the open market.
 
 ## Benefits of Electronic Communications Networks
 

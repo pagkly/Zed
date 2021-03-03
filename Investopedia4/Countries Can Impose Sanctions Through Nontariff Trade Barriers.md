@@ -13,10 +13,10 @@ author: Evan Tarver
 
 ---
 
-Countries Can Impose Sanctions Through Nontariff Trade Barriers
+[[Countries Can Impose Sanctions Through Nontariff Trade Barriers]]
 ## What Is a Nontariff Barrier?
 
-A nontariff barrier is a way to restrict trade using trade barriers in a form other than a [[tariff]](https://www.investopedia.com/terms/t/tariff.asp). Nontariff barriers include [[quotas]](https://www.investopedia.com/terms/q/quota.asp), [[embargoes]](https://www.investopedia.com/terms/e/embargo.asp), [[sanctions]](https://www.investopedia.com/articles/economics/10/economic-sanctions.asp), and [[levies]](https://www.investopedia.com/terms/l/levy.asp). As part of their political or economic strategy, some countries frequently use nontariff barriers to restrict the amount of trade they conduct with other countries.
+A nontariff barrier is a way to restrict trade using trade barriers in a form other than a [[tariff]](https://www.investopedia.com/terms/t/[[Tariff|tariff]].asp). Nontariff barriers include [[quotas]](https://www.investopedia.com/terms/q/quota.asp), [[embargoes]](https://www.investopedia.com/terms/e/embargo.asp), [[sanctions]](https://www.investopedia.com/articles/[[Economics|economics]]/10/economic-sanctions.asp), and [[levies]](https://www.investopedia.com/terms/l/levy.asp). As part of their political or economic strategy, some countries frequently use nontariff barriers to restrict the amount of trade they conduct with other countries.
 
 ### Key Takeaways
 
@@ -28,9 +28,9 @@ A nontariff barrier is a way to restrict trade using trade barriers in a form o
 
 Countries commonly use nontariff barriers in international trade. Decisions about when to impose nontariff barriers are influenced by the political alliances of a country and the overall availability of goods and services.
 
-In general, any barrier to international trade–including tariffs and non-tariff barriers–influences the global economy because it limits the functions of the free market. The lost revenue that some companies may experience from these barriers to trade may be considered an [[economic loss]](https://www.investopedia.com/terms/e/economicprofit.asp), especially for proponents of laissez-faire capitalism. Advocates of laissez-faire capitalism believe that governments should abstain from interfering in the workings of the free market.
+In general, any barrier to international trade–including tariffs and non-[[Tariff|tariff]] barriers–influences the global economy because it limits the functions of the free market. The lost revenue that some companies may experience from these barriers to trade may be considered an [[economic loss]](https://www.investopedia.com/terms/e/economicprofit.asp), especially for proponents of [[Laissez-Faire|laissez-faire]] [[Capitalism|capitalism]]. Advocates of laissez-faire capitalism believe that governments should abstain from interfering in the workings of the free market.
 
-Countries can use nontariff barriers in place of, or in conjunction with, conventional tariff barriers, which are taxes that an exporting country pays to an importing country for goods or services. Tariffs are the most common type of [[trade barrier]](https://www.investopedia.com/articles/economics/08/tariff-trade-barrier-basics.asp), and they increase the cost of products and services in an importing country.
+Countries can use nontariff barriers in place of, or in conjunction with, conventional [[Tariff|tariff]] barriers, which are taxes that an exporting country pays to an importing country for goods or services. Tariffs are the most common type of [[trade barrier]](https://www.investopedia.com/articles/[[Economics|economics]]/08/tariff-trade-barrier-basics.asp), and they increase the cost of products and services in an importing country.
 
 Often times countries pursue alternatives to standard tariffs because they release countries from paying added tax on imported goods. Alternatives to standard tariffs can have a meaningful impact on the level of trade (while creating a different monetary impact than standard tariffs).
 

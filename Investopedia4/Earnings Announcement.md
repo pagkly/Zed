@@ -6,29 +6,29 @@ source: https://www.investopedia.com/terms/e/earnings-announcement.asp
 author: James Chen
 ---
 
-# Earnings Announcement Definition
+# [[Earnings Announcement]] Definition
 
 > ## Excerpt
-> An earnings announcement is an official public statement of a company's profitability for a specific time period, typically a quarter or a year.
+> An [[Earnings Announcement|earnings announcement]] is an official public statement of a company's profitability for a specific time period, typically a quarter or a year.
 
 ---
 
-Earnings Announcement
-## What Is an Earnings Announcement?
+[[Earnings Announcement]]
+## What Is an [[Earnings Announcement]]?
 
-An earnings announcement is an official public statement of a company's profitability for a specific period, typically a quarter or a year. An earnings announcement occurs on a specific date during [[earnings season]](https://www.investopedia.com/terms/e/earningsseason.asp) and is preceded by [[earnings estimates]](https://www.investopedia.com/terms/e/earningsestimate.asp) issued by [[equity analysts]](https://www.investopedia.com/articles/personal-finance/082815/day-life-equity-research-analyst.asp). If a company has been profitable leading up to the announcement, its share price will usually increase up to and slightly after the information is released. Because earnings announcements can have such a prominent effect on the market, they are often considered when [[predicting the next day's open]](https://www.investopedia.com/articles/active-trading/081313/ways-gauge-market-open-direction.asp).
+An [[Earnings Announcement|earnings announcement]] is an official public statement of a company's profitability for a specific period, typically a quarter or a year. An earnings announcement occurs on a specific date during [[earnings season]](https://www.investopedia.com/terms/e/earningsseason.asp) and is preceded by [[earnings estimates]](https://www.investopedia.com/terms/e/earningsestimate.asp) issued by [[equity analysts]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/082815/day-life-[[Equity|equity]]-research-analyst.asp). If a company has been profitable leading up to the announcement, its share price [[Will|will]] usually increase up to and slightly after the information is released. Because earnings announcements can have such a prominent effect on the market, they are often considered when [[predicting the next day's open]](https://www.investopedia.com/articles/active-trading/081313/ways-gauge-market-open-direction.asp).
 
 ### Key Takeaways:
 
--   An earnings announcement is an official public statement of a company's profitability, usually issued on a quarterly basis.
--   Earnings accouncements have an effect on the share price, which will move up or down depending on the company's performance.
--   Analysts estimate how the company will perform, but these expectations can rapidly adjust up or down in the days leading up to the announcement.
+-   An [[Earnings Announcement|earnings announcement]] is an official public statement of a company's profitability, usually issued on a quarterly basis.
+-   Earnings accouncements have an effect on the share price, which [[Will|will]] move up or down depending on the company's performance.
+-   Analysts estimate how the company [[Will|will]] perform, but these expectations can rapidly adjust up or down in the days leading up to the announcement.
 
 ## Understanding Earnings Announcements
 
-The data in the announcements must be accurate, according to [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) regulations. Because the earnings announcement is the official statement of a company's profitability, the days leading up to the announcement are often filled with speculation among investors.
+The data in the announcements must be accurate, according to [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) regulations. Because the [[Earnings Announcement|earnings announcement]] is the official statement of a company's profitability, the days leading up to the announcement are often filled with [[Speculation|speculation]] among investors.
 
-Analyst estimates can be notoriously off-the-mark and can rapidly adjust up or down in the days leading up to the announcement, artificially inflating the share price and affecting [[speculative trading]](https://www.investopedia.com/terms/s/speculation.asp).
+Analyst estimates can be notoriously off-the-mark and can rapidly adjust up or down in the days leading up to the announcement, artificially inflating the share price and affecting [[speculative trading]](https://www.investopedia.com/terms/s/[[Speculation|speculation]].asp).
 
 ### Earnings Announcements and Analyst Estimates
 
@@ -40,9 +40,9 @@ _Calculated as:_
 
 DCF = \[CF1/(1+r)1\] + \[CF2/(1+r)2\] + ... + \[CFn/(1+r)n\]
 
-CF = Cash Flow
+CF = [[Cash Flow]]
 
-r= discount rate (WACC)
+r= [[Discount Rate|discount rate]] (WACC)
 
 Analysts may also rely on fundamental factors outlined in the [[management discussion and analysis]](https://www.investopedia.com/terms/m/mdanalysis.asp) (MD&A) section of a company’s financial reports. This section provides an overview of the previous year or quarter’s operations and how the company performed financially. It outlines the reasons behind certain aspects of growth or decline in the company’s income statement, balance sheet, and statement of cash flows. The MD&A discusses growth drivers, risks, and even pending litigation. Management also often uses this section to discuss the upcoming year by outlining future goals and approaches to new projects along with any changes in the executive suite and/or key hires.
 

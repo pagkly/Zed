@@ -13,33 +13,33 @@ author: Alexandra Twin
 
 ---
 
-Credit Report: Your Financial History as Prepared by a Credit Bureau
+Credit Report: Your Financial History as Prepared by a [[Credit Bureau]]
 ## What Is a Credit Report?
 
-A credit report is a detailed breakdown of an individual's credit history prepared by a [[credit bureau]](https://www.investopedia.com/terms/c/creditbureau.asp). Credit bureaus collect financial information about individuals and create credit reports based on that information, and lenders use the reports along with other details to determine loan applicants' [[creditworthiness]](https://www.investopedia.com/terms/c/credit-worthiness.asp).
+A credit report is a detailed breakdown of an individual's credit history prepared by a [[credit bureau]](https://www.investopedia.com/terms/c/creditbureau.asp). Credit bureaus collect financial information about individuals and create credit reports based on that information, and lenders use the reports along with other details to determine [[Loan|loan]] applicants' [[creditworthiness]](https://www.investopedia.com/terms/c/credit-worthiness.asp).
 
-In the United States, there are [[three major credit reporting bureaus]](https://www.investopedia.com/personal-finance/top-three-credit-bureaus/): Equifax, Experian, and TransUnion. Each of these reporting companies collects information about consumers' personal financial details and their bill-paying habits to create a unique credit report; although most of the information is similar, there are often small differences between the three reports.1 2 3
+In the United States, there are [[three major credit reporting bureaus]](https://www.investopedia.com/personal-[[Finance|finance]]/top-three-credit-bureaus/): Equifax, Experian, and TransUnion. Each of these reporting companies collects information about consumers' personal financial details and their bill-paying habits to create a unique credit report; although most of the information is similar, there are often small differences between the three reports.1 2 3
 
 ### Key Takeaways
 
--   A credit report is a detailed summary of an individual's credit history, prepared by a credit bureau.
+-   A credit report is a detailed summary of an individual's credit history, prepared by a [[Credit Bureau|credit bureau]].
 -   Reports include personal information, details on lines of credit, public records such as bankruptcies, and a list of entities that have asked to see the consumer's credit report.
 -   The three major credit bureaus—Equifax, Experian, and TransUnion—are each required to provide consumers with one free report each year.4
 
 ## Understanding Credit Reports
 
-Credit reports include personal information such as the individual's current and previous addresses, Social Security numbers, and employment history. These reports also include a credit history summary such as the number and type of bank or credit card accounts that are past due or in good standing, and detailed account information related to high balances, credit limits, and the date accounts were opened.1
+Credit reports include personal information such as the individual's current and previous addresses, [[Social Security]] numbers, and employment history. These reports also include a credit history summary such as the number and type of bank or credit card accounts that are [[Past Due|past due]] or in good standing, and detailed account information related to high balances, credit limits, and the date accounts were opened.1
 
 ### Advisor Insight
 
 [Derek Notman, CFP®, ChFC, CLU](https://www.investopedia.com/derek-notman-4692555)  
 Intrepid Wealth Partners LLC, _Madison, Wis._
 
-Make sure to review your credit report before you need it. A client of mine was applying for a home mortgage, and when the bank pulled their credit report, there was over $20,000 of credit card debt on the report, but the client didn’t have any credit cards.
+Make sure to review your credit report before you need it. A client of mine was applying for a [[Home Mortgage|home mortgage]], and when the bank pulled their credit report, there was over $20,000 of credit card [[Debt|debt]] on the report, but the client didn’t have any credit cards.
 
 What had happened was that the client had the same name as their father, so when the credit report was run, it pulled their correct information, but also accidentally pulled their father’s credit card balance.
 
-Make sure to check for errors before you think you will need to apply for credit so you can have them fixed if there are any. Not doing this could delay your credit decision, cause your lender to think twice about lending you credit, and ultimately delay a time-sensitive purchase.
+Make sure to check for errors before you think you [[Will|will]] need to apply for credit so you can have them fixed if there are any. Not doing this could delay your credit decision, cause your [[Lender|lender]] to think twice about lending you credit, and ultimately delay a time-sensitive purchase.
 
 Credit reports also list credit inquiries and details of accounts turned over to credit agencies such as information about liens and wage garnishments. Generally, credit reports retain [[negative information]](https://www.investopedia.com/terms/n/negative-information.asp) for seven years, while bankruptcy filings typically stay on credit reports for about 10 years.4
 
@@ -51,7 +51,7 @@ Credit reports typically divide information into four sections.
 
 ### First Section
 
-The top of the report contains personal information about the consumer, and in many cases, this section may include variations of the consumer's name or Social Security number, simply because the information was reported incorrectly by a lender or other entity.1
+The top of the report contains personal information about the consumer, and in many cases, this section may include variations of the consumer's name or [[Social Security]] number, simply because the information was reported incorrectly by a [[Lender|lender]] or other entity.1
 
 ### Second Section
 
@@ -69,7 +69,7 @@ If an individual submits an application for credit, an insurance policy or renta
 
 ## Special Considerations
 
-The [[Fair Credit Reporting Act]](https://www.investopedia.com/terms/f/fair-credit-reporting-act-fcra.asp) requires each of the three credit reporting bureaus to supply consumers with a free credit report once per year. Federal law also entitles consumers to receive free credit reports if any company has taken adverse action against them. This includes denial of credit, insurance, or employment as well as reports from collection agencies or judgments.4 However, consumers must request the report within 60 days from the date the adverse action occurred.5
+The [[Fair Credit Reporting Act]](https://www.investopedia.com/terms/f/fair-credit-reporting-act-fcra.asp) requires each of the three credit reporting bureaus to [[Supply|supply]] consumers with a free credit report once per year. Federal law also entitles consumers to receive free credit reports if any company has taken adverse action against them. This includes denial of credit, insurance, or employment as well as reports from collection agencies or judgments.4 However, consumers must request the report within 60 days from the date the adverse action occurred.5
 
 In addition, consumers who are on welfare, people who are unemployed and plan to look for a job within 60 days, and victims of [[identity theft]](https://www.investopedia.com/terms/i/identitytheft.asp) are also entitled to a free credit report from each of the reporting agencies.4
 

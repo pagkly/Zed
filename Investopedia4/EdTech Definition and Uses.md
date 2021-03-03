@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/edtech.asp
 author: Jake Frankenfield
 ---
 
-# EdTech Definition and Uses
+# [[EdTech Definition and Uses]]
 
 > ## Excerpt
 > EdTech refers to education technology, which leverages software and hardware to enhance learning outcomes in the classroom.
 
 ---
 
-EdTech Definition and Uses
+[[EdTech Definition and Uses]]
 ## What Is EdTech?
 
 EdTech (a combination of "education" and "technology") refers to hardware and software designed to enhance teacher-led learning in classrooms and improve students' education outcomes. 
@@ -39,9 +39,9 @@ Massive Online Open Online Courses (MOOCs) use technology to reach a vast number
 
 Many of the fears about EdTech are looking farther into the future where entire courses could potentially be managed by software. The current state of the field uses [[analytics]](https://www.investopedia.com/terms/d/data-analytics.asp) to judge a student’s competency in different areas of the curriculum, allowing the student to move ahead more quickly in some areas while taking more time to reinforce areas of weakness. As each student works through a customized curriculum, the teacher acts as a facilitator and trouble shooter with insights provided by the EdTech software on a student’s strengths and weaknesses.
 
-In practice, EdTech is still in the early stages of development for even basic subjects like math or reading and composition skills. There are a variety of design challenges for EdTech. The biggest hurdle is adjusting for different learning styles in the classroom. Currently EdTech is usually delivered through a laptop or tablet, resulting in a read-and-respond learning experience. Critics have noted that this style can leave other types of learners—auditory and kinesthetic for example—at a disadvantage. As with any new field of technological development, EdTech will improve the more it is used and the more feedback is collected.
+In practice, EdTech is still in the early stages of development for even basic subjects like math or reading and composition skills. There are a variety of design challenges for EdTech. The biggest hurdle is adjusting for different learning styles in the classroom. Currently EdTech is usually delivered through a laptop or tablet, resulting in a read-and-respond learning experience. Critics have noted that this style can leave other types of learners—auditory and kinesthetic for example—at a disadvantage. As with any new field of technological development, EdTech [[Will|will]] improve the more it is used and the more feedback is collected.
 
-However, EdTech faces additional social hurdles. Students, and even more so the parents, look to a teacher to create a social environment that enables group learning and other dynamics that aren’t currently within the scope of EdTech. The classroom of the future may depend heavily on EdTech to do the heavy lifting of course design but many parents and educators still see value in the group environment separate from the pure academic goals. Proponents say that like many innovations in education, EdTech is seeking to improve on the existing model rather than replace it entirely.
+However, EdTech faces additional social hurdles. Students, and even more so the parents, look to a teacher to create a social environment that enables group learning and other dynamics that aren’t currently within the [[Scope|scope]] of EdTech. The classroom of the future may depend heavily on EdTech to do the heavy lifting of course design but many parents and educators still see value in the group environment separate from the pure academic goals. Proponents say that like many innovations in education, EdTech is seeking to improve on the existing model rather than replace it entirely.
 
 ## Example of a Publicly Traded EdTech Company
 

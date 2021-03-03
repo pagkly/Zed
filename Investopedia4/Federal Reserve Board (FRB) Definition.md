@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/f/frb.asp
 author: Adam Hayes
 ---
 
-# Federal Reserve Board (FRB) Definition
+# [[Federal Reserve Board (FRB) Definition]]
 
 > ## Excerpt
 > The Federal Reserve Board (FRB) is the governing body of the Federal Reserve System, the U.S. central bank in charge of making monetary policy
 
 ---
 
-Federal Reserve Board (FRB) Definition
+[[Federal Reserve Board (FRB) Definition]]
 ## What Is the Federal Reserve Board (FRB)?
 
 The Board of Governors of the Federal Reserve System, also known as the Federal Reserve Board (FRB), is the governing body of the Federal Reserve System. The FRB was established by the Banking Act of 1935. The members are statutorily tasked with giving a “fair representation of the financial, agricultural, industrial, and commercial interests and geographical divisions of the country.”1
@@ -60,4 +60,4 @@ Source3
 
 The Federal Reserve Board members' most important role is as members of the [[Federal Open Market Committee (FOMC)]](https://www.investopedia.com/terms/f/fomc.asp), which is in charge of the open market operations that determine the federal funds rate, one of the global economy's most important benchmark interest rates. In addition to the seven governors, the FOMC consists of the president of the Federal Reserve Bank of New York and a rotating set of four other branch presidents. The chair of the FRB also chairs the FOMC.4
 
-The FRB is directly in charge of two other monetary policy tools, the discount rate (based on suggestions from the regional branches) and reserve requirements. It is also tasked with supervising the Fed's 12 regional branches.5
+The FRB is directly in charge of two other monetary policy tools, the [[Discount Rate|discount rate]] (based on suggestions from the regional branches) and [[Reserve Requirements|reserve requirements]]. It is also tasked with supervising the Fed's 12 regional branches.5

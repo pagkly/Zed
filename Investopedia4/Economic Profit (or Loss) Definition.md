@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/e/economicprofit.asp
 author: Alicia Tuovila
 ---
 
-# Economic Profit (or Loss) Definition
+# [[Economic Profit (or Loss) Definition]]
 
 > ## Excerpt
 > Economic profit (or loss) is the difference between the revenue received from the sale of an output and the costs of all inputs, including opportunity costs.
 
 ---
 
-Economic Profit (or Loss) Definition
+[[Economic Profit (or Loss) Definition]]
 ## What Is Economic Profit (or Loss)?
 
 An economic profit or loss is the difference between the revenue received from the sale of an output and the costs of all inputs used, as well as any [opportunity costs](https://www.investopedia.com/terms/o/opportunitycost.asp). In calculating economic profit, opportunity costs and [[explicit costs]](https://www.investopedia.com/terms/e/explicitcost.asp) are deducted from revenues earned.
 
-Opportunity costs are a type of [[implicit cost]](https://www.investopedia.com/terms/i/implicitcost.asp) determined by management and will vary based on different scenarios and perspectives.
+Opportunity costs are a type of [[implicit cost]](https://www.investopedia.com/terms/i/implicitcost.asp) determined by management and [[Will|will]] vary based on different scenarios and perspectives.
 
 ### Key Takeaways
 
@@ -48,7 +48,7 @@ Economic profit may be used when seeking a comparison to income that potentially
 
 Opportunity costs can be used for deeper analysis into business decisions, specifically when alternatives are available. Companies may look at opportunity costs when considering production levels for different types of products that they produce collectively but in varying quantities.
 
-Opportunity costs are somewhat arbitrary and can be known as a type of implicit cost. They can vary depending on management’s estimations and market circumstances. Generally, opportunity cost will be the accounting profit that could have been achieved from making an alternative choice.
+Opportunity costs are somewhat arbitrary and can be known as a type of implicit cost. They can vary depending on management’s estimations and market circumstances. Generally, opportunity cost [[Will|will]] be the accounting profit that could have been achieved from making an alternative choice.
 
 ## Examples of Economic Profit
 
@@ -58,7 +58,7 @@ An individual starts a business and incurs startup costs of $100,000. During the
 
 This calculation only considers the first year of business. If after the first year, costs decrease to 10,000 then the economic profit outlook would improve for future years. If economic profit comes out to zero, the company is said to be in a state of "[normal profit](https://www.investopedia.com/terms/n/normal_profit.asp)."
 
-In using economic profit in comparison to gross profit, a company may look at different types of scenarios. In this case, gross profit is the focus, and a company would subtract the opportunity cost per unit:
+In using economic profit in comparison to [[Gross Profit|gross profit]], a company may look at different types of scenarios. In this case, gross profit is the focus, and a company would subtract the opportunity cost per unit:
 
 > Economic profit = revenue per unit - COGS per unit - unit opportunity cost
 

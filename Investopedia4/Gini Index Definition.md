@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/gini-index.asp
 author: Investopedia Staff
 ---
 
-# Gini Index Definition
+# [[Gini Index Definition]]
 
 > ## Excerpt
 > The Gini index, or Gini coefficient, is a measure of the distribution of income across a population.
 
 ---
 
-Gini Index Definition
+[[Gini Index Definition]]
 ## What Is the Gini Index?
 
 The Gini index, or Gini coefficient, is a measure of the distribution of income across a population developed by the Italian statistician Corrado Gini in 1912. It is often used as a gauge of [[economic inequality]](https://www.investopedia.com/terms/i/income-inequality.asp), measuring income distribution or, less commonly, wealth distribution among a population. The coefficient ranges from 0 (or 0%) to 1 (or 100%), with 0 representing perfect equality and 1 representing perfect inequality. Values over 1 are theoretically possible due to negative income or wealth.
@@ -35,13 +35,13 @@ The Gini coefficient is an important tool for analyzing income or wealth distri
 
 ## Graphical Representation of the Gini Index
 
-The Gini index is often represented graphically through the [[Lorenz curve]](https://www.investopedia.com/terms/l/lorenz-curve.asp), which shows income (or wealth) distribution by plotting the population percentile by income on the horizontal axis and cumulative income on the vertical axis. The Gini coefficient is equal to the area below the line of perfect equality (0.5 by definition) minus the area below the Lorenz curve, divided by the area below the line of perfect equality. In other words, it is double the area between the Lorenz curve and the line of perfect equality.
+The Gini index is often represented graphically through the [[Lorenz curve]](https://www.investopedia.com/terms/l/lorenz-curve.asp), which shows income (or wealth) distribution by plotting the population percentile by income on the horizontal axis and cumulative income on the vertical axis. The Gini coefficient is equal to the area below the line of perfect equality (0.5 by definition) minus the area below the [[Lorenz Curve|Lorenz curve]], divided by the area below the line of perfect equality. In other words, it is double the area between the Lorenz curve and the line of perfect equality.
 
 In the graph below, the 47th percentile corresponds to 10.46% in Haiti and 17.42% in Bolivia, meaning that the bottom 47% of Haitians take in 10.46% of their nation's total income and the bottom 47% of Bolivians take in 17.42% of theirs. The straight line represents a hypothetically equal society: the bottom 47% take in 47% of national income. 
 
-To estimate the income Gini coefficient for Haiti in 2012, we would find the area below its Lorenz curve: around 0.2. Subtracting that figure from 0.5 (the area under the line of equality), we get 0.3, which we then divide by 0.5. This yields an approximate Gini of 0.6 or 60%. The CIA gives the actual Gini for Haiti in 2012 as 60.8% (see below). This figure represents extremely high inequality; only Micronesia, the Central African Republic, South Africa, and Lesotho are more unequal, according to the CIA.
+To estimate the income Gini coefficient for Haiti in 2012, we would find the area below its [[Lorenz Curve|Lorenz curve]]: around 0.2. Subtracting that figure from 0.5 (the area under the line of equality), we get 0.3, which we then divide by 0.5. This yields an approximate Gini of 0.6 or 60%. The CIA gives the actual Gini for Haiti in 2012 as 60.8% (see below). This figure represents extremely high inequality; only Micronesia, the Central African Republic, South Africa, and Lesotho are more unequal, according to the CIA.
 
-Another way of thinking about the Gini coefficient is as a measure of deviation from perfect equality. The further a Lorenz curve deviates from the perfectly equal straight line (which represents a Gini coefficient of 0), the higher the Gini coefficient and the less equal the society. In the example above, Haiti is more unequal than Bolivia.
+Another way of thinking about the Gini coefficient is as a measure of deviation from perfect equality. The further a [[Lorenz Curve|Lorenz curve]] deviates from the perfectly equal straight line (which represents a Gini coefficient of 0), the higher the Gini coefficient and the less equal the society. In the example above, Haiti is more unequal than Bolivia.
 
 ## The Gini Index Around the World
 
@@ -57,12 +57,12 @@ Economic expansion in Latin America, Asia, and Eastern Europe has driven much of
 
 Below are the income Gini coefficients of every country for which the [[CIA World Factbook]](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html) provides data:
 
-Some of the world's poorest countries (Central African Republic) have some of the world's highest Gini coefficients (61.3), while many of the wealthiest (Denmark) have some of the lowest (28.8). Yet the relationship between income inequality and [[GDP per capita]](https://www.investopedia.com/terms/p/per-capita-gdp.asp) is not one of perfect negative correlation, and the relationship has varied over time. Michail Moatsos of Utrecht University and Joery Baten of Tuebingen University [show](http://englishbulletin.adapt.it/wp-content/uploads/2014/10/oecd_2_10_2014.pdf) that from 1820 to 1929, inequality rose slightly – then tapered off – as GDP per capita increased. From 1950 to 1970, inequality tended to fall off as GDP per capita rose above a certain threshold. From 1980 to 2000 inequality fell with higher GDP per capita then curved back up sharply.
+Some of the world's poorest countries (Central African Republic) have some of the world's highest Gini coefficients (61.3), while many of the wealthiest (Denmark) have some of the lowest (28.8). Yet the relationship between income inequality and [[GDP per capita]](https://www.investopedia.com/terms/p/per-capita-gdp.asp) is not one of perfect negative [[Correlation|correlation]], and the relationship has varied over time. Michail Moatsos of Utrecht University and Joery Baten of Tuebingen University [show](http://englishbulletin.adapt.it/wp-content/uploads/2014/10/oecd_2_10_2014.pdf) that from 1820 to 1929, inequality rose slightly – then tapered off – as GDP per capita increased. From 1950 to 1970, inequality tended to fall off as GDP per capita rose above a certain threshold. From 1980 to 2000 inequality fell with higher GDP per capita then curved back up sharply.
 
 _Correlation between Gini coefficients and GDP per capita in three time periods. Source: [Moatsos and Baten](http://englishbulletin.adapt.it/wp-content/uploads/2014/10/oecd_2_10_2014.pdf)._
 
 ## Shortcomings
 
-Though useful for analyzing economic inequality, the Gini coefficient has some shortcomings. The metric's accuracy is dependent on reliable GDP and income data. Shadow economies and informal economic activity are present in every country. Informal economic activity tends to represent a larger portion of true economic production in developing countries and at the lower end of the income distribution within countries. In both cases this means that the Gini index of measured incomes will overstate true income inequality. Accurate wealth data is even more difficult to come by due to the [[popularity of tax havens]](https://www.investopedia.com/markets-news-4427704).
+Though useful for analyzing economic inequality, the Gini coefficient has some shortcomings. The metric's accuracy is dependent on reliable GDP and income data. Shadow economies and informal economic activity are present in every country. Informal economic activity tends to represent a larger portion of true economic production in developing countries and at the lower end of the income distribution within countries. In both cases this means that the Gini index of measured incomes [[Will|will]] overstate true income inequality. Accurate wealth data is even more difficult to come by due to the [[popularity of tax havens]](https://www.investopedia.com/markets-news-4427704).
 
-Another flaw is that very different income distributions can result in identical Gini coefficients. Because the Gini attempts to distill a two dimensional area (the gap between the Lorenz curve and the equality line) down in to a single number, it obscures information about the "shape" of inequality. In everyday terms, this would be similar to describing the contents of a photo solely by it's length along one edge, or the simple average brightness value of the pixels. While using the Lorenz curve as a supplement can provide more information in this respect, it also does not show demographic variations among subgroups within the distribution, such as a the distribution of incomes across age, race, or social groups. In that vein, understanding demographics can be important for understanding what a given Gini coefficient represents. For example, a large retired population pushes the Gini higher.
+Another flaw is that very different income distributions can result in identical Gini coefficients. Because the Gini attempts to distill a two dimensional area (the gap between the [[Lorenz Curve|Lorenz curve]] and the equality line) down in to a single number, it obscures information about the "shape" of inequality. In everyday terms, this would be similar to describing the contents of a photo solely by it's length along one edge, or the simple average brightness value of the pixels. While using the Lorenz curve as a supplement can provide more information in this respect, it also does not show demographic variations among subgroups within the distribution, such as a the distribution of incomes across age, race, or social groups. In that vein, understanding demographics can be important for understanding what a given Gini coefficient represents. For example, a large retired population pushes the Gini higher.

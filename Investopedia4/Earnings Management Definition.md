@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/earnings-management.asp
 author: Alicia Tuovila
 ---
 
-# Earnings Management Definition
+# [[Earnings Management Definition]]
 
 > ## Excerpt
 > Earnings management is the use of accounting techniques to produce financial statements that present an overly positive view of a company's business activities and financial position.
 
 ---
 
-Earnings Management Definition
+[[Earnings Management Definition]]
 ## What Is Earnings Management?
 
 Earnings management is the use of accounting techniques to produce [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) that present an overly positive view of a company's business activities and financial position. Many accounting rules and principles require that a company's management make judgments in following these principles. Earnings management takes advantage of how accounting rules are applied and creates financial statements that inflate or "smooth" earnings.
@@ -26,13 +26,13 @@ Earnings management is the use of accounting techniques to produce [[financial s
 
 ## Understanding Earnings Management
 
-Earnings refers to a company's [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or [[profit]](https://www.investopedia.com/terms/p/profit.asp) for a certain period, such as a fiscal quarter or year. Companies use earnings management to smooth out fluctuations in earnings and present more consistent profits each month, quarter, or year. Large fluctuations in income and expenses may be a normal part of a company's operations, but the changes may alarm investors who prefer to see stability and growth. A company's stock price often rises or falls after an [[earnings announcement]](https://www.investopedia.com/terms/e/earnings-announcement.asp), depending on whether the earnings meet or fall short of analysts' expectations.
+Earnings refers to a company's [[net income]](https://www.investopedia.com/terms/n/netincome.asp) or [[profit]](https://www.investopedia.com/terms/p/profit.asp) for a certain period, such as a fiscal quarter or year. Companies use earnings management to smooth out fluctuations in earnings and present more consistent profits each month, quarter, or year. Large fluctuations in income and expenses may be a normal part of a company's operations, but the changes may alarm investors who prefer to see stability and growth. A company's [[Stock|stock]] price often rises or falls after an [[earnings announcement]](https://www.investopedia.com/terms/e/earnings-announcement.asp), depending on whether the earnings meet or fall short of analysts' expectations.
 
-Management can feel pressure to manage earnings by manipulating the company's accounting practices to meet financial expectations and keep the company's stock price up. Many executives receive bonuses based on earnings performance, and others may be eligible for [[stock options]](https://www.investopedia.com/terms/e/eso.asp) when the stock price increases. Many forms of earnings manipulation are eventually uncovered either by a CPA firm performing an audit or through required SEC (Securities and Exchange Commission) disclosures.
+Management can feel pressure to manage earnings by manipulating the company's accounting practices to meet financial expectations and keep the company's [[Stock|stock]] price up. Many executives receive bonuses based on earnings performance, and others may be eligible for [[stock options]](https://www.investopedia.com/terms/e/eso.asp) when the stock price increases. Many forms of earnings manipulation are eventually uncovered either by a CPA firm performing an audit or through required SEC (Securities and Exchange [[Commission]]) disclosures.
 
 ### Important
 
-The Securities and Exchange Commission (SEC) has pressed charges against managers who engaged in fraudulent earnings management. The SEC also requires that the financial statements of publicly traded companies be certified by the Chief Executive Officer (CEO) or Chief Financial Officer (CFO).
+The [[Securities and Exchange Commission (SEC)]] has pressed charges against managers who engaged in fraudulent earnings management. The SEC also requires that the financial statements of publicly traded companies be certified by the Chief Executive Officer (CEO) or Chief Financial Officer (CFO).
 
 ## Examples of Earnings Management
 

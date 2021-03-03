@@ -13,7 +13,7 @@ author: Julia Kagan
 
 ---
 
-Genetic Engineering Definition
+[[Genetic Engineering Definition]]
 ## What Is Genetic Engineering?
 
 Genetic engineering is the artificial modification of an organism’s genetic composition. Genetic engineering typically involves transferring genes from one organism into another organism of a different species to give the latter specific traits of the former. The resulting organism is called a transgenic or [[genetically modified]](https://www.investopedia.com/terms/g/genetically-modified-food-gmf.asp) organism, or GMO. Examples of such organisms include plants that are resistant to certain insects and plants that can withstand herbicides.
@@ -36,7 +36,7 @@ Commercial cultivation of genetically engineered crops such as soybean, maize, c
 
 The topics of genetic engineering and GMOs have become highly debated and, in some cases, the source of considerable controversy. This area has generated spirited debate between adherents and opponents.
 
-Supporters claim that genetic engineering can boost agricultural productivity by increasing [[crop yields]](https://www.investopedia.com/terms/c/crop-yield.asp) and lowering pesticide and fertilizer applications. GMO tactics can allow the development of crops that are resistant to disease and have a longer shelf life. Higher productivity will boost incomes and help alleviate poverty in many developing nations. These supporters also point to genetic engineering as a way to help solve famine in areas where crops are scarce or can be difficult to grow via traditional means. Detractors list a variety of concerns surrounding GMOs, including allergic reactions, gene mutation, antibiotic resistance, and potential environmental damage. Those who are leery of genetic engineering also have concern about the unpredictable aspect of venturing into previously unexplored scientific territory. 
+Supporters claim that genetic engineering can boost agricultural [[Productivity|productivity]] by increasing [[crop yields]](https://www.investopedia.com/terms/c/crop-[[Yield|yield]].asp) and lowering pesticide and fertilizer applications. GMO tactics can allow the development of crops that are resistant to disease and have a longer shelf life. Higher productivity [[Will|will]] boost incomes and help alleviate [[Poverty|poverty]] in many developing nations. These supporters also point to genetic engineering as a way to help solve famine in areas where crops are scarce or can be difficult to grow via traditional means. Detractors list a variety of concerns surrounding GMOs, including allergic reactions, gene mutation, antibiotic resistance, and potential environmental damage. Those who are leery of genetic engineering also have concern about the unpredictable aspect of venturing into previously unexplored scientific territory. 
 
 A large number of crops have already been subjected to genetic engineering or modification, including canola, cotton, maize, melons, papayas, potatoes, rice, sugar beets, sweet peppers, tomatoes, and wheat. Some people are opposed to genetic engineering entirely, believing that science should not interfere with the natural process of how organisms are created and develop.
 

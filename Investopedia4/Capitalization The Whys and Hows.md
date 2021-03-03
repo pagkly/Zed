@@ -18,7 +18,7 @@ Capitalization: The Whys and Hows
 
 To capitalize is to record a cost or expense on the [[balance sheet]](https://www.investopedia.com/terms/b/balancesheet.asp) for the purposes of delaying full recognition of the expense. In general, capitalizing expenses is beneficial as companies acquiring new assets with long-term lifespans can amortize or depreciate the costs. This process is known as [[capitalization]](https://www.investopedia.com/terms/c/capitalization.asp).
 
-Capitalization may also refer to the concept of converting some idea into a business or investment. In finance, capitalization is a quantitative assessment of a firm's capital structure. When used this way, it sometimes also means to monetize.
+Capitalization may also refer to the concept of converting some idea into a business or investment. In [[Finance|finance]], capitalization is a quantitative assessment of a firm's capital structure. When used this way, it sometimes also means to monetize.
 
 ### Key Takeaways
 
@@ -37,11 +37,11 @@ In other words, the asset is written off as it is used. Most companies have an a
 
 Capitalizing assets has many benefits. Because long-term assets are costly, expensing the cost over future periods reduces significant fluctuations in income, especially for small firms. Many lenders require companies to maintain a specific [[debt-to-equity ratio]](https://www.investopedia.com/terms/d/debtequityratio.asp). If large long-term assets were expensed immediately, it could compromise the required ratio for existing loans or could prevent firms from receiving new loans.
 
-Also, capitalizing expenses increases a company's asset balance without affecting its liability balance. As a result, many financial ratios will appear favorable. Despite this benefit, it should not be the motivation for capitalizing an expense.
+Also, capitalizing expenses increases a company's asset balance without affecting its [[Liability|liability]] balance. As a result, many financial ratios [[Will|will]] appear favorable. Despite this benefit, it should not be the motivation for capitalizing an expense.
 
 ## Depreciation
 
-The process of writing off an asset over its useful life is referred to as [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), which is used for fixed assets, such as equipment. [[Amortization]](https://www.investopedia.com/terms/a/amortization.asp) is used for intangible assets, such as intellectual property. Depreciation deducts a certain value from the asset every year until the full value of the asset is written off the balance sheet.
+The process of writing off an asset over its [[Useful Life|useful life]] is referred to as [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp), which is used for fixed assets, such as equipment. [[Amortization]](https://www.investopedia.com/terms/a/amortization.asp) is used for intangible assets, such as intellectual property. Depreciation deducts a certain value from the asset every year until the full value of the asset is written off the balance sheet.
 
 ### Income Statement
 
@@ -51,17 +51,17 @@ The accumulated depreciation balance sheet contra account is the cumulative tota
 
 ### Leased Equipment
 
-For leased equipment, capitalization is the conversion of an operating lease to a capital lease by classifying the leased asset as a purchased asset, which is recorded on the balance sheet as part of the company's assets. The value of the asset that will be assigned is either its fair market value or the present value of the lease payments, whichever is less. Also, the amount of principal owed is recorded as a liability on the balance sheet.
+For leased equipment, capitalization is the conversion of an operating [[Lease|lease]] to a capital lease by classifying the leased asset as a purchased asset, which is recorded on the balance sheet as part of the company's assets. The value of the asset that [[Will|will]] be assigned is either its fair market value or the present value of the lease payments, whichever is less. Also, the amount of [[Principal|principal]] owed is recorded as a [[Liability|liability]] on the balance sheet.
 
 There are strict regulatory guidelines and best practices for capitalizing assets and expenses.
 
-## Market Capitalization
+## [[Market Capitalization]]
 
-Another aspect of capitalization refers to the company's capital structure. Capitalization can refer to the [book value](https://www.investopedia.com/terms/b/bookvalue.asp) of capital, which is the sum of a company's long-term debt, stock, and [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp), which represents a cumulative savings of profit or [[net income]](https://www.investopedia.com/terms/n/netincome.asp).
+Another aspect of capitalization refers to the company's capital structure. Capitalization can refer to the [book value](https://www.investopedia.com/terms/b/bookvalue.asp) of capital, which is the sum of a company's long-term [[Debt|debt]], [[Stock|stock]], and [[retained earnings]](https://www.investopedia.com/terms/r/retainedearnings.asp), which represents a cumulative savings of profit or [[net income]](https://www.investopedia.com/terms/n/netincome.asp).
 
-The alternative to the book value is market value. The market value of capital depends on the price of the company's stock. It is calculated by multiplying the price of the company’s stock by the number of [[equity]](https://www.investopedia.com/terms/e/equity.asp) shares outstanding in the market. If the total number of [[shares outstanding]](https://www.investopedia.com/terms/o/outstandingshares.asp) is 1 billion, and the stock is currently priced at $10, the market capitalization is $10 billion.
+The alternative to the book value is market value. The market value of capital depends on the price of the company's [[Stock|stock]]. It is calculated by multiplying the price of the company’s stock by the number of [[equity]](https://www.investopedia.com/terms/e/[[Equity|equity]].asp) [[Shares|shares]] outstanding in the market. If the total number of [[shares outstanding]](https://www.investopedia.com/terms/o/outstandingshares.asp) is 1 billion, and the stock is currently priced at $10, the [[Market Capitalization|market capitalization]] is $10 billion.
 
-Companies with a high market capitalization are referred to as large caps; companies with medium market capitalization are referred to as mid-caps, while companies with small capitalization are referred to as small caps.
+Companies with a high [[Market Capitalization|market capitalization]] are referred to as large caps; companies with medium market capitalization are referred to as mid-caps, while companies with small capitalization are referred to as small caps.
 
 It is possible to be overcapitalized or [[undercapitalized]](https://www.investopedia.com/terms/u/undercapitalization.asp). Undercapitalization occurs when earnings are not enough to cover the [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp), such as interest payments to bondholders, or dividend payments to shareholders. [[Dividends]](https://www.investopedia.com/terms/d/dividend.asp) are cash payments made to shareholders by companies. Undercapitalization occurs when there's no need for outside capital because profits are high and earnings were underestimated.
 
@@ -71,8 +71,8 @@ When trying to discern what a capitalized cost is, it’s first important to mak
 
 A company buying a forklift would mark such a purchase as a cost. An expense is a monetary value leaving the company; this would include something like paying the electricity bill or rent on a building.
 
-The use of the word _capital_ to refer to a person's wealth comes from the Medieval Latin _capitale,_ for "stock, property."
+The use of the word _capital_ to refer to a person's wealth comes from the Medieval Latin _capitale,_ for "[[Stock|stock]], property."
 
 ## Limitations of Capitalizing
 
-To capitalize assets is an important piece of modern financial accounting and is necessary to run a business. However, financial statements can be manipulated—for example, when a cost is expensed instead of capitalized. If this occurs, current income will be understated while it will be inflated in future periods over which additional depreciation should have been charged.
+To capitalize assets is an important piece of modern [[Financial Accounting|financial accounting]] and is necessary to run a business. However, financial statements can be manipulated—for example, when a cost is expensed instead of capitalized. If this occurs, current income [[Will|will]] be understated while it will be inflated in future periods over which additional depreciation should have been charged.

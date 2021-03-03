@@ -6,25 +6,25 @@ source: https://www.investopedia.com/terms/e/executive-mba.asp
 author:  Staff Author
 ---
 
-# Executive MBA (EMBA) Definition
+# [[Executive MBA (EMBA) Definition]]
 
 > ## Excerpt
 > An executive master of business administration (EMBA) degree is designed to be pursued by current senior executives.
 
 ---
 
-Executive MBA (EMBA) Definition
+[[Executive MBA (EMBA) Definition]]
 ## What Is an Executive MBA (EMBA)?
 
 Executive master of business administration (EMBA) is a degree program similar to a master of business administration ([MBA](https://www.investopedia.com/terms/m/mba.asp)) program but specifically designed for corporate executives and senior managers who are already in the workforce.
 
-An EMBA program enables executives to work toward earning the degree while continuing to hold their existing jobs. Typically, EMBA students are fairly senior in their fields and possess considerable work experience before entering the program.
+An EMBA program enables executives to work toward earning the degree while continuing to [[Hold|hold]] their existing jobs. Typically, EMBA students are fairly senior in their fields and possess considerable work experience before entering the program.
 
 ## Understanding the Executive MBA Program
 
-The EMBA program is comprised of a mix of classroom teaching on evenings and weekends, online classes and tutorials, and occasional full-day workshops. Equivalent to a full-time MBA program in scope and requirements, an EMBA program can last as long as 24 months.
+The EMBA program is comprised of a mix of classroom teaching on evenings and weekends, online classes and tutorials, and occasional full-day workshops. Equivalent to a full-time MBA program in [[Scope|scope]] and requirements, an EMBA program can last as long as 24 months.
 
-Intensive modular classes to reinforce expertise and fill knowledge gaps are primary motivators for executives to embark on this program. They engage in core coursework in finance and accounting, operations management, strategic management, marketing, human resources, and other disciplines, and may take specialized electives.
+Intensive modular classes to reinforce expertise and fill knowledge gaps are primary motivators for executives to embark on this program. They engage in core coursework in [[Finance|finance]] and accounting, operations management, strategic management, marketing, human resources, and other disciplines, and may take specialized electives.
 
 Students in EMBA programs come away with an enhanced skills base to advance their career prospects at their organizations, not to mention the credential of a master's degree and a new alumni network. Because most of these executives are also working while earning their EMBAs, they are better positioned to apply the [[management techniques]](https://www.investopedia.com/terms/s/strategic-management.asp) and [[best practices]](https://www.investopedia.com/terms/b/best_practices.asp) learned in the classroom to real-life situations than are traditional MBAs who are in school full-time.
 
@@ -32,7 +32,7 @@ Students in EMBA programs come away with an enhanced skills base to advance thei
 
 ## Types of EMBA Programs
 
-There are numerous EMBA programs in the U.S. and abroad. _The Economist_ cites 65 universities that offer EMBAs and states that "these pricey programmes are more popular than ever." Its top 10-rated programs ranked for 2020 rankings include those offered by the business schools at the University of California at Berkeley, Northwestern, Brown, and Yale.1
+There are numerous EMBA programs in the U.S. and abroad. _The Economist_ cites 65 universities that [[Offer|offer]] EMBAs and states that "these pricey programmes are more popular than ever." Its top 10-rated programs ranked for 2020 rankings include those offered by the business schools at the University of California at Berkeley, Northwestern, Brown, and Yale.1
 
 _The Economist_ ranks the school's EMBA programs on broad measures like personal development, educational experience, and career development. As with the regular full-time MBA programs, these universities have a competitive admissions process.
 

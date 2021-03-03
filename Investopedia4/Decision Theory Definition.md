@@ -3,17 +3,17 @@ alias: [Decision Theory]
 created: 2021-03-02T19:11:29 (UTC +11:00)
 tags: [Decision Theory Definition, Decision Theory Definition]
 source: https://www.investopedia.com/terms/d/decision-theory.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Decision Theory Definition
+# [[Decision Theory Definition]]
 
 > ## Excerpt
 > Decision theory is an interdisciplinary approach to arrive at the decisions that are the most advantageous given an uncertain environment.
 
 ---
 
-Decision Theory Definition
+[[Decision Theory Definition]]
 ## What is Decision Theory?
 
 Decision theory is an interdisciplinary approach to arrive at the decisions that are the most advantageous given an uncertain environment.
@@ -42,4 +42,4 @@ Decision theory framework generally identifies three types of decision classes:
 
 ## Decision Under Uncertainty: Prisoner's Dilemma
 
-A common example of decision theory stems from the [[prisoner's dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) in which two individuals are faced with an uncertain decision where the outcome is not only based on their personal decision, but also on that of the other individual. Since both parties do not know what actions the other person will take, this results in an uncertain decision framework. While mathematics and statistical models determine what the optimal decision should be, psychology and philosophy introduce factors of human behaviors to suggest the most likely outcome.
+A common example of decision theory stems from the [[prisoner's dilemma]](https://www.investopedia.com/terms/p/prisoners-dilemma.asp) in which two individuals are faced with an uncertain decision where the outcome is not only based on their personal decision, but also on that of the other individual. Since both parties do not know what actions the other person [[Will|will]] take, this results in an uncertain decision framework. While mathematics and statistical models determine what the optimal decision should be, psychology and philosophy introduce factors of human behaviors to suggest the most likely outcome.

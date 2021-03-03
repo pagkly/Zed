@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/g/gamification.asp
 author: Investopedia Staff
 ---
 
-# Gamification Definition
+# [[Gamification Definition]]
 
 > ## Excerpt
 > Gamification describes the incentivization of people's engagement in non-game contexts using game-style mechanics.
 
 ---
 
-Gamification Definition
+[[Gamification Definition]]
 ## What is Gamification?
 
-Gamification describes the incentivisation of people's engagement in non-game contexts and activities by using game-style mechanics. Gamification [[leverages]](https://www.investopedia.com/terms/l/leverage.asp) people's natural tendencies for competition, achievement, collaboration, and charity. Tools employed in game design, such as rewarding users for achievements, "leveling-up," and earning badges, are carried into the real world to help motivate individuals to achieve their goals or boost performance. There are many examples of gamification, the most well-known perhaps being frequent flyer rewards programs offered by airlines. The important measurable [[metrics]](https://www.investopedia.com/terms/m/metrics.asp) of success from gamification include the level of engagement, influence, brand loyalty, time spent on an activity, and the game's ability to go viral.
+Gamification describes the incentivisation of people's engagement in non-game contexts and activities by using game-style mechanics. Gamification [[leverages]](https://www.investopedia.com/terms/l/[[Leverage|leverage]].asp) people's natural tendencies for competition, achievement, collaboration, and charity. Tools employed in game design, such as rewarding users for achievements, "leveling-up," and earning badges, are carried into the real world to help motivate individuals to achieve their goals or boost performance. There are many examples of gamification, the most well-known perhaps being frequent flyer rewards programs offered by airlines. The important measurable [[metrics]](https://www.investopedia.com/terms/m/metrics.asp) of success from gamification include the level of engagement, influence, brand loyalty, time spent on an activity, and the game's ability to go viral.
 
 ### Key Takeaways
 
@@ -36,6 +36,6 @@ One important avenue of gamification is in the workplace. By introducing game el
 
 Gamification is useful and successful because it takes advantage of the same human psychology that causes people to enjoy winning at games and to dislike or even fear losing. As a result, it can also have some downsides too. 
 
-Choosing the right mechanisms and metrics can be a challenge. Since these are what participants will focus on, it is important that the game elements actually encourage the desired behavior. Poorly designed or implemented gamification can become a distraction from other priorities, encourage people to literally game the system, or result in players engaging in [[zero-sum]](https://www.investopedia.com/terms/z/zero-sumgame.asp) or even negative-sum competition against one another. Any of these outcomes can mean wasted time and money.
+Choosing the right mechanisms and metrics can be a challenge. Since these are what participants [[Will|will]] focus on, it is important that the game elements actually encourage the desired behavior. Poorly designed or implemented gamification can become a distraction from other priorities, encourage people to literally game the system, or result in players engaging in [[zero-sum]](https://www.investopedia.com/terms/[[Z|z]]/zero-sumgame.asp) or even negative-sum competition against one another. Any of these outcomes can mean wasted time and money.
 
 Games can also sometimes become notoriously addictive, as has been seen with immersive video gaming and compulsive gambling. This raises possible risks when using gamification for commercial purposes. From the point of view of a commercial entity that benefits from employees or customers developing an addictive compulsion to work or consume (and pay for) a product, this is a positive feature. But for workers and consumers it can easily be seen as manipulative or exploitative and raise potential ethical issues.

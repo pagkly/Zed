@@ -32,7 +32,7 @@ When taxpayers borrow money, the lenders charge them interest on the loans. This
 
 Financial institutions pay interest to account holders as compensation for the bank's use of the deposited funds. The interest received by the investors or lenders is [[taxable income]](https://www.investopedia.com/terms/t/taxableincome.asp) and must be reported to the IRS.
 
-Form 1099-INT recipients may not have to pay income tax on the interest a payer reports, but may still need to report it on their return. The IRS uses the information on the form to ensure the interest earner reports the correct amount of interest income on their tax return.
+Form 1099-INT recipients may not have to pay income tax on the interest a payer reports, but may still need to report it on their [[Return|return]]. The IRS uses the information on the form to ensure the interest earner reports the correct amount of interest income on their [[Tax Return|tax return]].
 
 ## What Is Form 1099-INT Used For?
 
@@ -42,9 +42,9 @@ IRS Form 1099-INT must be filed for each person:
 2.  For whom a financial institution withheld and paid any foreign tax on interest.
 3.  From whom a financial institution withheld (and did not refund) any federal income tax under the backup withholding rules regardless of the amount of the payment.1
 
-Interest paid that must be reported on a 1099-INT will include interest on bank deposits, [[accumulated dividends]](https://www.investopedia.com/terms/a/accumulated-dividend.asp) paid by a life insurance company, indebtedness (including bonds, [[debentures]](https://www.investopedia.com/terms/d/debenture.asp), notes, and certificates other than those of the U.S. Treasury) issued in registered form or of a type offered to the public, or amounts from which federal income tax or foreign tax was withheld.
+Interest paid that must be reported on a 1099-INT [[Will|will]] include interest on bank deposits, [[accumulated dividends]](https://www.investopedia.com/terms/a/accumulated-dividend.asp) paid by a life insurance company, indebtedness (including bonds, [[debentures]](https://www.investopedia.com/terms/d/debenture.asp), notes, and certificates other than those of the U.S. Treasury) issued in registered form or of a type offered to the public, or amounts from which federal income tax or foreign tax was withheld.
 
-In addition, [[interest accrued]](https://www.investopedia.com/terms/a/accruedinterest.asp) by a [[real estate mortgage investment conduit]](https://www.investopedia.com/terms/r/real-estate-mortgage-investment-conduit-remic.asp) (REMIC) or a [[financial asset securitization investment trust]](https://www.investopedia.com/terms/f/financial-asset-securitization-investment-trust-fasit.asp) (FASIT) regular interest holder, or paid to a [[collateralized debt obligation]](https://www.investopedia.com/terms/c/cdo.asp) (CDO) holder, will also be reported here.1
+In addition, [[interest accrued]](https://www.investopedia.com/terms/a/accruedinterest.asp) by a [[real estate mortgage investment conduit]](https://www.investopedia.com/terms/r/real-[[Estate|estate]]-mortgage-investment-conduit-remic.asp) (REMIC) or a [[financial asset securitization investment trust]](https://www.investopedia.com/terms/f/financial-asset-securitization-investment-trust-fasit.asp) (FASIT) regular interest holder, or paid to a [[collateralized debt obligation]](https://www.investopedia.com/terms/c/cdo.asp) (CDO) holder, [[Will|will]] also be reported here.1
 
 ## How to Fill Out and Read Form 1099-INT: Interest Income
 
@@ -58,8 +58,8 @@ Information in Form 1099-INT includes:
 -   Amount of interest paid on [[U.S. savings bonds]](https://www.investopedia.com/terms/u/ussavingsbonds.asp) and Treasury obligations, some of which may be tax-exempt
 -   Foreign tax paid
 -   [[Market discount]](https://www.investopedia.com/terms/m/market-discount.asp)
--   Bond premium
--   Bond premium on tax-exempt bond
+-   Bond [[Premium|premium]]
+-   Bond [[Premium|premium]] on tax-exempt bond
 -   Federal income tax withheld
 -   State tax withheld3
 
@@ -69,4 +69,4 @@ All copies of Form 1099-INT are available on the IRS website.3
 
 ## Other Relevant Forms
 
-The amounts and types of interest will impact which tax form is to be used. Taxpayers who receive over $1,500 of taxable interest must list all of their payers on Part 1 of [[Schedule B]](https://www.investopedia.com/ask/answers/081414/who-needs-fill-out-irs-form-schedule-b.asp) on [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp).4 Form 1099-INT will always report interest paid as [[cash-basis income]](https://www.investopedia.com/terms/cashbasistaxpayer.asp); this means that income that is owed but not yet paid cannot be reported on this form.1
+The amounts and types of interest [[Will|will]] impact which tax form is to be used. Taxpayers who receive over $1,500 of taxable interest must list all of their payers on Part 1 of [[Schedule B]](https://www.investopedia.com/ask/answers/081414/who-needs-fill-out-irs-form-schedule-b.asp) on [[Form 1040]](https://www.investopedia.com/terms/1/1040.asp).4 Form 1099-INT will always report interest paid as [[cash-basis income]](https://www.investopedia.com/terms/cashbasistaxpayer.asp); this means that income that is owed but not yet paid cannot be reported on this form.1

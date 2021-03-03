@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/demographics.asp
 author: Adam Hayes
 ---
 
-# Demographics Definition
+# [[Demographics Definition]]
 
 > ## Excerpt
 > Demographic analysis is the study of a population based on factors such as age, race, sex, education, income, and employment.
 
 ---
 
-Demographics Definition
+[[Demographics Definition]]
 ## What Are Demographics?
 
 Demographic analysis is the study of a population based on factors such as age, race, and sex. Demographic data refers to socio-economic information expressed statistically including employment, education, income, marriage rates, birth and death rates and more.
@@ -34,7 +34,7 @@ Demographic analysis is the collection and study of data regarding the general c
 
 The use of demographics helps to determine whether its products and services are being targeted to that company's most important consumers. For example, market segments may identify a particular age group, such as baby boomers (born 1946-1964) or millennials (born 1981-1996), that have certain buying patterns and characteristics.
 
-The advent of the internet, social media, predictive algorithms, and big data has dramatic implications for the collection and use of demographic information. Modern consumers give out a flood of data, sometimes unwittingly, that are collected and tracked through their online and offline lives by myriad apps, social media platforms, third party data collectors, retailers, and financial transaction processors.
+The advent of the internet, [[Social Media|social media]], predictive algorithms, and big data has dramatic implications for the collection and use of demographic information. Modern consumers give out a flood of data, sometimes unwittingly, that are collected and tracked through their online and offline lives by myriad apps, social media platforms, [[Third Party|third party]] data collectors, retailers, and financial transaction processors.
 
 Combined with the growing field of artificial intelligence, this mountain of collected data can be used to predict and target consumer choices and buying preferences with uncanny accuracy based on their demographic characteristics and past behavior.
 
@@ -48,7 +48,7 @@ Additional demographic factors include gathering data on preferences, hobbies, l
 
 Most large companies conduct demographic research to determine how to market their product or service and best market to the target audience. It is valuable to know the current customer and where the potential customer may come from in the future. Demographic trends are also important, since the size of different demographic groups changes over time as a result of economic, cultural, and political circumstances.
 
-This information helps the company decide how much capital to allocate to production and advertising. For example, the aging U.S. population has certain needs that companies want to anticipate. Each market segment can be analyzed for its consumer spending patterns. Older demographic groups spend more on health care products and pharmaceuticals, and the method of communicating with these customers differs from that of their younger counterparts.
+This information helps the company decide how much capital to allocate to production and advertising. For example, the aging U.S. population has certain needs that companies want to anticipate. Each [[Market Segment|market segment]] can be analyzed for its consumer spending patterns. Older demographic groups spend more on health care products and pharmaceuticals, and the method of communicating with these customers differs from that of their younger counterparts.
 
 ## Frequently Asked Questions
 
@@ -62,7 +62,7 @@ The [[U.S. Census Bureau]](https://www.investopedia.com/terms/b/bureauofcensus.a
 
 ### Why do businesses need demographics?
 
-Demographics are key to businesses today. They help identify the individual members of an audience by selecting key characteristics, wants, and needs. This allows company's to tailor their efforts based on particular segments of their customer base. Online advertising and marketing have made enormous headway over the past decade in using algorithms and big data analysis to micro-target ads on social media to very specific demographics.
+Demographics are key to businesses today. They help identify the individual members of an audience by selecting key characteristics, wants, and needs. This allows company's to tailor their efforts based on particular segments of their customer base. Online advertising and marketing have made enormous headway over the past decade in using algorithms and big data analysis to micro-target ads on [[Social Media|social media]] to very specific demographics.
 
 ### How are demographic changes important for economists?
 

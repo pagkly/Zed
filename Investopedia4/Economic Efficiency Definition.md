@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/economic_efficiency.asp
 author: Investopedia Staff
 ---
 
-# Economic Efficiency Definition
+# [[Economic Efficiency Definition]]
 
 > ## Excerpt
 > Economic efficiency is an economic state in which every resource is optimally allocated to serve each person in the best way while minimizing waste.
 
 ---
 
-Economic Efficiency Definition
+[[Economic Efficiency Definition]]
 ## What Is Economic Efficiency?
 
 Economic efficiency is when all goods and factors of production in an economy are distributed or allocated to their most valuable uses and waste is eliminated or minimized.
@@ -38,7 +38,7 @@ The principles of economic efficiency are based on the concept that resources ar
 
 Productive firms seek to maximize their profits by bringing in the most revenue while minimizing costs. To do this, they choose the combination of inputs that minimize their costs while producing as much output as possible. By doing so, they operate efficiently; when all firms in the economy do so, it is known as productive efficiency.
 
-Consumers, likewise, seek to maximize their well-being by consuming combinations of final consumer goods that produce the highest total satisfaction of their wants and needs at the lowest cost to them. The resulting consumer demand guides productive (through the laws of [[supply and demand]](https://www.investopedia.com/terms/l/law-of-supply-demand.asp)) firms to produce the right quantities of consumer goods in the economy that will provide the highest consumer satisfaction relative to the costs of inputs. When economic resources are allocated across different firms and industries (each following the principle of productive efficiency) in a way that produces the right quantities of final consumer goods, this is called [[allocative efficiency]](https://www.investopedia.com/terms/a/allocationalefficiency.asp).
+Consumers, likewise, seek to maximize their well-being by consuming combinations of final consumer goods that produce the highest total satisfaction of their wants and needs at the lowest cost to them. The resulting consumer demand guides productive (through the laws of [[supply and demand]](https://www.investopedia.com/terms/l/law-of-[[Supply|supply]]-demand.asp)) firms to produce the right quantities of consumer goods in the economy that [[Will|will]] provide the highest consumer satisfaction relative to the costs of inputs. When economic resources are allocated across different firms and industries (each following the principle of productive efficiency) in a way that produces the right quantities of final consumer goods, this is called [[allocative efficiency]](https://www.investopedia.com/terms/a/allocationalefficiency.asp).
 
 Finally, because each individual values goods differently and according to the [[law of diminishing marginal utility]](https://www.investopedia.com/terms/l/lawofdiminishingutility.asp), the distribution of final consumer goods in an economy are efficient or inefficient. Distributive efficiency is when the consumer goods in an economy are distributed so that each unit is consumed by the individual who values that unit most highly compared to all other individuals. Note that this type of [[efficiency]](https://www.investopedia.com/terms/e/efficiency.asp) assumes that the amount of value that individuals place on economic goods can be quantified and compared across individuals.
 

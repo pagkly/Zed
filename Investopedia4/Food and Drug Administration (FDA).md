@@ -3,22 +3,22 @@ alias: [Food and Drug Administration, FDA]
 created: 2021-03-02T20:01:17 (UTC +11:00)
 tags: [Food and Drug Administration (FDA) Definition, Food and Drug Administration (FDA)]
 source: https://www.investopedia.com/terms/f/fda.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Food and Drug Administration (FDA) Definition
+# [[Food and Drug Administration (FDA)]] Definition
 
 > ## Excerpt
 > The Food and Drug Administration is a government agency that regulates certain food, drugs, cosmetics, and medical products.
 
 ---
 
-Food and Drug Administration (FDA)
+[[Food and Drug Administration (FDA)]]
 ## What Is the Food and Drug Administration?
 
-The Food and Drug Administration (FDA) is a government agency established in 1906 with the passage of the _Federal Food and Drugs Act._ The agency is separated into divisions that oversee a majority of the organization's obligations involving food, drugs, cosmetics, animal food, dietary supplements, medical devices, biological goods, and blood products.
+The [[Food and Drug Administration (FDA)]] is a government agency established in 1906 with the passage of the _Federal Food and Drugs Act._ The agency is separated into divisions that oversee a majority of the organization's obligations involving food, drugs, cosmetics, animal food, dietary supplements, medical devices, biological goods, and blood products.
 
-## Understanding the Food and Drug Administration (FDA)
+## Understanding the [[Food and Drug Administration (FDA)]]
 
 The FDA is known for its work in regulating the development of new drugs. The FDA has developed rules regarding the [[clinical trials]](https://www.investopedia.com/terms/c/clinical-trials.asp) that must be done on all new medications. Pharmaceutical companies must test drugs through four phases of clinical trials before they can be marketed to individuals.
 
@@ -36,7 +36,7 @@ The FDA approves products in the biotech and pharmaceutical industries, and its 
 
 ## Ways FDA Approvals Influence Industry and the Market
 
-Companies that are focused on the development and sale of new drugs can be left without key products to drive their revenue if their products fail to receive approvals. The influence the FDA wields regarding drug testing can affect the stock market. The release of test data might be seen by investors as a measure for future growth for companies that manufacture and market drugs.
+Companies that are focused on the development and sale of new drugs can be left without key products to drive their revenue if their products fail to receive approvals. The influence the FDA wields regarding drug testing can affect the [[Stock|stock]] market. The release of test data might be seen by investors as a measure for future growth for companies that manufacture and market drugs.
 
 The FDA is responsible for inspecting and reviewing production facilities that make items that are regulated by the agency. This includes but is not limited to vaccine and drug manufacturers, blood banks, food processing facilities, dairy farms, animal feed processors, and compounding pharmacies.
 

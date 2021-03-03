@@ -33,12 +33,12 @@ The cleaned-up data is then converted from a database format to a warehouse form
 ### Key Takeaways
 
 -   Data warehousing is the electronic storage of a large amount of information by a business or organization.
--   A data warehouse is designed to run query and analysis on historical data derived from transactional sources for business intelligence and data mining purposes.
+-   A data warehouse is designed to run query and analysis on historical data derived from transactional sources for business intelligence and data [[Mining|mining]] purposes.
 -   Data warehousing is used to provide greater insight into the performance of a company by comparing data consolidated from multiple heterogeneous sources.
 
-## Special Considerations: Data Mining
+## Special Considerations: Data [[Mining]]
 
-Businesses might warehouse data for use in exploration and [[data mining]](https://www.investopedia.com/terms/d/datamining.asp), looking for patterns of information that will help them improve their business processes. A good data warehousing system can also make it easier for different departments within a company to access each other's data.
+Businesses might warehouse data for use in exploration and [[data mining]](https://www.investopedia.com/terms/d/datamining.asp), looking for patterns of information that [[Will|will]] help them improve their business processes. A good data warehousing system can also make it easier for different departments within a company to access each other's data.
 
 For example, a data warehouse might allow a company to easily assess the sales team's data and help to make decisions about how to improve sales or streamline the department. The business might choose to focus on its customersâ€™ spending habits to better position its products and increase sales.
 
@@ -46,7 +46,7 @@ With data warehousing, the company can gather historical data of its customersâ€
 
 Effective data storage and management are also what makes processes, such as initiating travel reservations and using automated teller machines possible.
 
-The data mining process breaks down into five steps:
+The data [[Mining|mining]] process breaks down into five steps:
 
 1.  Organizations collect data and load it into their data warehouses.
 2.  They then store and manage the data, either on in-house servers or the cloud.

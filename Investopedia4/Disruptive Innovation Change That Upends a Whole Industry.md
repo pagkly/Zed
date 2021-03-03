@@ -42,6 +42,6 @@ In contrast, the Model T car is not considered disruptive because it was an imp
 
 ## Special Considerations
 
-Investing in a disruptive innovation can be complicated. It requires an investor to focus on how companies will adapt to disruptive technology, instead of focusing on the development of the technology itself. Companies such as Amazon, Google, and Facebook are examples of companies that have heavily focused on the Internet as a disruptive technology. 
+Investing in a disruptive innovation can be complicated. It requires an investor to focus on how companies [[Will|will]] adapt to disruptive technology, instead of focusing on the development of the technology itself. Companies such as Amazon, Google, and Facebook are examples of companies that have heavily focused on the Internet as a disruptive technology. 
 
 The Internet has become so ingrained in the modern world that the companies that failed to integrate the disruptive innovation into their business models have been pushed aside. Artificial intelligence (AI) and their potential to learn from employees and perform their jobs may be a disruptive innovation for the job market as a whole in the near future.

@@ -3,22 +3,22 @@ alias: [Gazelle Company]
 created: 2021-03-02T20:14:39 (UTC +11:00)
 tags: [Gazelle Company Definition, Gazelle Company What You Need to Know]
 source: https://www.investopedia.com/terms/g/gazellecompany.asp
-author: Mitchell Grant
+author: Mitchell [[Grant]]
 ---
 
 # Gazelle Company: Definition
 
 > ## Excerpt
-> A gazelle company is a high-growth company that has been increasing its revenues by at least 20% annually for four years or more.
+> A gazelle company is a high-[[Growth Company|growth company]] that has been increasing its revenues by at least 20% annually for four years or more.
 
 ---
 
 Gazelle Company: What You Need to Know
 ## What Is a Gazelle Company?
 
-According to the original technical definition, a gazelle company is a high-growth company that has been increasing its [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) by at least 20% annually for four years or more, starting from a revenue base of at least $1 million.
+According to the original technical definition, a gazelle company is a high-[[Growth Company|growth company]] that has been increasing its [[revenues]](https://www.investopedia.com/terms/r/revenue.asp) by at least 20% annually for four years or more, starting from a revenue base of at least $1 million.
 
-The rapid growth pace means that the company has more than doubled its revenues over a four-year period. As gazelle [[companies]](https://www.investopedia.com/terms/c/company.asp) are characterized by fast sales growth, rather than their absolute size, they can range in size from small companies to very large enterprises, though a majority of them are on the smaller end of the scale. Many gazelles are publicly-traded companies, meaning investors can buy and sell their shares.
+The rapid growth pace means that the company has more than doubled its revenues over a four-year period. As gazelle [[companies]](https://www.investopedia.com/terms/c/company.asp) are characterized by fast sales growth, rather than their absolute size, they can range in size from small companies to very large enterprises, though a majority of them are on the smaller end of the scale. Many gazelles are publicly-traded companies, meaning investors can buy and sell their [[Shares|shares]].
 
 ## How a Gazelle Company Works
 
@@ -37,6 +37,6 @@ In a more recent business landscape, a gazelle refers to any fast-growing compan
 
 ## Examples of Gazelle Companies
 
-Some gazelles keep bounding along, some get tired and slow down, and some get eaten by big cats. Gazelle companies like [[Apple]](https://www.investopedia.com/articles/personal-finance/042815/story-behind-apples-success.asp) (AAPL), [[Facebook]](https://www.investopedia.com/articles/personal-finance/051815/top-11-companies-owned-facebook.asp) (FB), and [[Amazon]](https://www.investopedia.com/amazon-earnings-4692665) (AMZN) seem like they won't get caught by competitors. Perhaps this is because they have become too large to be acquired. Or they became so big they have eliminated true business competitors. The natural maturation process of their businesses also makes it difficult for them to remain gazelles as they grow larger in size.
+Some gazelles keep bounding along, some get tired and slow down, and some get eaten by big cats. Gazelle companies like [[Apple]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/042815/story-behind-apples-success.asp) (AAPL), [[Facebook]](https://www.investopedia.com/articles/personal-finance/051815/top-11-companies-owned-facebook.asp) (FB), and [[Amazon]](https://www.investopedia.com/amazon-earnings-4692665) (AMZN) seem like they won't get caught by competitors. Perhaps this is because they have become too large to be acquired. Or they became so big they have eliminated true business competitors. The natural maturation process of their businesses also makes it difficult for them to remain gazelles as they grow larger in size.
 
-Other gazelles, with their rapid and flashy strides in the open field, may attract the attention of big predatory cats. These larger cats could jump on them and eat them, literally, through an acquisition, or they could enter their markets and claim [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) for themselves, using their existing infrastructure to shake up the landscape. Social media giant Instagram makes a good example, having been acquired by Facebook. Mobile-messaging provider Whatsapp and the virtual reality company Oculus shared the same fate.
+Other gazelles, with their rapid and flashy strides in the open field, may attract the attention of big predatory cats. These larger cats could jump on them and eat them, literally, through an acquisition, or they could enter their markets and claim [[market share]](https://www.investopedia.com/terms/m/marketshare.asp) for themselves, using their existing infrastructure to shake up the landscape. [[Social Media|Social media]] giant Instagram makes a good example, having been acquired by Facebook. Mobile-messaging provider Whatsapp and the [[Virtual Reality|virtual reality]] company Oculus shared the same fate.

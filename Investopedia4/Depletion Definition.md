@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/depletion.asp
 author: Daniel Liberto
 ---
 
-# Depletion Definition
+# [[Depletion Definition]]
 
 > ## Excerpt
 > Depletion is an accrual accounting method used to allocate the cost of extracting natural resources such as timber, minerals, and oil from the earth.
 
 ---
 
-Depletion Definition
+[[Depletion Definition]]
 ## What is Depletion?
 
 Depletion is an [accrual accounting](https://www.investopedia.com/terms/a/accrualaccounting.asp) technique used to allocate the cost of extracting natural resources such as timber, minerals, and oil from the earth. 

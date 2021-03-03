@@ -13,18 +13,18 @@ author: Julia Kagan
 
 ---
 
-Comparing Time Deposit or Certificates of Deposit Rates Between Banks
+[[Comparing Time Deposit or Certificates of Deposit Rates Between Banks]]
 ## What Is a Time Deposit?
 
 A time deposit is an interest-bearing bank account that has a pre-set date of maturity. A [[certificate of deposit]](https://www.investopedia.com/terms/c/certificateofdeposit.asp) (CD) is the best-known example. The money must remain in the account for the fixed term in order to earn the stated interest rate.
 
-Time deposits generally pay a slightly higher rate of interest than a regular savings account. The longer the time to maturity, the higher the interest payment will be.
+Time deposits generally pay a slightly higher rate of interest than a regular savings account. The longer the time to maturity, the higher the interest payment [[Will|will]] be.
 
 Another name for this type of investment is term deposit.
 
 ## Time Deposits Explained
 
-A time deposit such as a CD can be purchased at virtually any bank, credit union, or other financial institution. The interest rates paid vary, as do other terms. For example, one bank may offer a higher return but require a larger deposit.
+A time deposit such as a CD can be purchased at virtually any bank, credit union, or other financial institution. The interest rates paid vary, as do other terms. For example, one bank may [[Offer|offer]] a higher [[Return|return]] but require a larger deposit.
 
 It pays to shop around. Most post their rates prominently and advertise them widely.
 
@@ -32,24 +32,24 @@ A CD is essentially a savings account that is opened with the promise that the o
 
 ### Penalties on Early Withdrawals
 
-The owner of a time deposit can withdraw the money out if necessary but will lose some or all of the promised interest and may pay penalty fees. The terms are in the fine print that the saver receives when opening the account.
+The owner of a time deposit can withdraw the money out if necessary but [[Will|will]] lose some or all of the promised interest and may pay penalty fees. The terms are in the fine print that the saver receives when opening the account.
 
-A customer can earn a slightly higher interest rate with a time deposit account than would be available in a standard savings account or an interest-bearing checking account. The better return is offered because the funds remain locked until the maturity date of the account.
+A customer can earn a slightly higher interest rate with a time deposit account than would be available in a standard savings account or an interest-bearing [[Checking Account|checking account]]. The better [[Return|return]] is offered because the funds remain locked until the maturity date of the account.
 
-Time deposits are insured by the Federal Deposit Insurance Corporation (FDIC) up to $250,000 per investment. Those opened at a credit union carry protection from the National Credit Union Administration (NCUA).
+Time deposits are insured by the [[Federal Deposit Insurance Corporation (FDIC)]] up to $250,000 per investment. Those opened at a credit union carry protection from the [[National Credit Union Administration (NCUA)]].
 
 ### Key Takeaways
 
 -   A time deposit is an interest-bearing bank account that has a date of maturity, such as a certificate of deposit (CD).
 -   The money in a time deposit must be held for the fixed term to receive the interest in full.
 -   Typically, the longer the term, the higher the interest rate that the depositor receives.
--   Time deposits are an extremely safe investment but they have a low rate of return.
+-   Time deposits are an extremely safe investment but they have a low rate of [[Return|return]].
 
-### Why Banks Offer Time Deposit Accounts
+### Why Banks [[Offer]] Time Deposit Accounts
 
-Time deposit accounts provide banks with the cash flow they need to lend money to other customers. The bank makes a profit by lending the funds held in time deposit accounts for a higher interest rate than the rate it pays on the time deposits.
+Time deposit accounts provide banks with the [[Cash Flow|cash flow]] they need to lend money to other customers. The bank makes a profit by lending the funds held in time deposit accounts for a higher interest rate than the rate it pays on the time deposits.
 
-The bank may also invest the money from the time deposit in other securities that pay a higher return than it is paying the customer.
+The bank may also invest the money from the time deposit in other securities that pay a higher [[Return|return]] than it is paying the customer.
 
 ### Some Options on Time Deposits
 
@@ -59,12 +59,12 @@ Once the investment matures, the funds can be withdrawn without penalty. Or, the
 
 ### Longer Terms Earn Higher Interest
 
-Typically, the longer the term to maturity, the higher the interest rate paid to the depositor. For example, a one-year CD may offer a 1.10% [[annual percentage yield]](https://www.investopedia.com/terms/a/apy.asp) (APY), while a five-year CD for the same amount might provide a 1.75% APY. The annual percentage yield is the effective annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) taking into account the effect of compounding interest. 
+Typically, the longer the term to maturity, the higher the interest rate paid to the depositor. For example, a one-year CD may [[Offer|offer]] a 1.10% [[annual percentage yield]](https://www.investopedia.com/terms/a/apy.asp) (APY), while a five-year CD for the same amount might provide a 1.75% APY. The annual percentage [[Yield|yield]] is the effective annual [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) (RoR) taking into account the effect of compounding interest. 
 
 Generally, two rates are quoted for time deposits and CDs:
 
 -   The interest rate is the percentage interest that the customer would earn if the customer withdrew the interest amount received each month.
--   The annual percentage yield (APY) is the amount that the customer will earn if the interest is allowed to remain in the account and compound.
+-   The annual percentage [[Yield|yield]] (APY) is the amount that the customer [[Will|will]] earn if the interest is allowed to remain in the account and compound.
 
 The APY is, therefore, higher than the quoted interest rate.
 
@@ -74,17 +74,17 @@ As with most financial products, there are advantages and disadvantages to time 
 
 Like regular bank deposits, time deposits are insured against any losses.
 
-On the other hand, the rate of return is usually lower than that for other investments. The investor could deposit the same amount of money in a bond mutual fund or Treasury bills and earn a higher yield.
+On the other hand, the rate of [[Return|return]] is usually lower than that for other investments. The investor could deposit the same amount of money in a bond mutual fund or Treasury bills and earn a higher [[Yield|yield]].
 
-There is another risk, especially if the investor chooses a long term for the time deposit. Interest rates may go up over time, while the investor's money is locked into the rate that prevailed when the account was open.
+There is another [[Risk|risk]], especially if the investor chooses a [[Long Term|long term]] for the time deposit. Interest rates may go up over time, while the investor's money is locked into the rate that prevailed when the account was open.
 
 Higher interest rates go hand in hand with higher inflation. So, that investor's money is shrinking while it sits there, in terms of real spending power.
 
 Pros
 
--   Time deposits offer investors a fixed interest rate until maturity.
+-   Time deposits [[Offer|offer]] investors a fixed interest rate until maturity.
     
--   Time deposits are risk-free investments backed by the FDIC or NCUA.
+-   Time deposits are [[Risk|risk]]-free investments backed by the FDIC or NCUA.
     
 -   Time deposits have various maturity dates and minimum deposit amounts.
     
@@ -104,7 +104,7 @@ Cons
 
 ## Real-World Examples of Time Deposits
 
-A look at some examples of time deposit returns as of Feb. 9, 2020, offers some insight into the variations among CDs on offer at financial institutions.
+A look at some examples of time deposit returns as of Feb. 9, 2020, offers some insight into the variations among CDs on [[Offer|offer]] at financial institutions.
 
 -   American Express advertised CDs with an APY of 0.55% for one year, 2.05% for three years, or 2.15% for five years. There was no minimum deposit.
 -   Comenity Direct rates were 2.10% APY for one year, 2.20% for three years, and 2.20% for five years. There was a minimum $1,500 deposit.

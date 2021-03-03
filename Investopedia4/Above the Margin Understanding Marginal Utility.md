@@ -1,12 +1,12 @@
 ---
 alias: [Marginal Utility]
 created: 2021-03-02T21:56:59 (UTC +11:00)
-tags: [Marginal Utility Definition, Above the Margin: Understanding Marginal Utility]
+tags: [Marginal [[Utility Definition]], Above the Margin: Understanding Marginal Utility]
 source: https://www.investopedia.com/terms/m/marginalutility.asp
 author: Andrew Bloomenthal
 ---
 
-# Marginal Utility Definition
+# Marginal [[Utility Definition]]
 
 > ## Excerpt
 > Marginal utility is the additional satisfaction a consumer gets from having one more unit of a good or service.
@@ -24,7 +24,7 @@ Positive marginal utility occurs when the consumption of an additional item incr
 
 -   Marginal utility is the added satisfaction a consumer gets from having one more unit of a good or service.
 -   The concept of marginal utility is used by economists to determine how much of an item consumers are willing to purchase.
--   The law of diminishing marginal utility is often used to justify progressive taxes.
+-   The [[Law Of Diminishing Marginal Utility|law of diminishing marginal utility]] is often used to justify progressive taxes.
 -   Marginal utility can be positive, zero, or negative.
 
 ## Understanding Marginal Utility
@@ -33,9 +33,9 @@ Economists use the idea of marginal utility to gauge how satisfaction levels aff
 
 Although marginal utility tends to decrease with consumption, it may or may not ever reach zero depending on the good consumed.
 
-Marginal utility is useful in explaining how consumers make choices to get the most benefit from their limited budgets. In general, people will continue consuming more of a good as long as the marginal utility is greater than the [[marginal cost]](https://www.investopedia.com/terms/m/marginalcostofproduction.asp). In an efficient market, the price equals the marginal cost. That is why people keep buying more until the marginal utility of consumption falls to the price of the good.
+Marginal utility is useful in explaining how consumers make choices to get the most benefit from their limited budgets. In general, people [[Will|will]] continue consuming more of a good as long as the marginal utility is greater than the [[marginal cost]](https://www.investopedia.com/terms/m/marginalcostofproduction.asp). In an efficient market, the price equals the marginal cost. That is why people keep buying more until the marginal utility of consumption falls to the price of the good.
 
-The law of diminishing marginal utility is often used to justify [[progressive taxes]](https://www.investopedia.com/terms/p/progressivetax.asp). The idea is that higher taxes cause less loss of utility for someone with a higher income. In this case, everyone gets diminishing marginal utility from money. Suppose that the government must raise $20,000 from each person to pay for its expenses. If the average income is $60,000 before taxes, then the average person would make $40,000 after taxes and have a reasonable standard of living.
+The [[Law Of Diminishing Marginal Utility|law of diminishing marginal utility]] is often used to justify [[progressive taxes]](https://www.investopedia.com/terms/p/progressivetax.asp). The idea is that higher taxes cause less loss of utility for someone with a higher income. In this case, everyone gets diminishing marginal utility from money. Suppose that the government must raise $20,000 from each person to pay for its expenses. If the average income is $60,000 before taxes, then the average person would make $40,000 after taxes and have a reasonable standard of living.
 
 However, asking people making only $20,000 to give it all up to the government would be unfair and demand a far greater sacrifice. That is why poll taxes, which require everyone to pay an equal amount, tend to be unpopular.
 
@@ -59,7 +59,7 @@ Negative marginal utility is where you have too much of an item, so consuming mo
 
 ## History of Marginal Utility
 
-The concept of marginal utility was developed by economists who were attempting to explain the economic reality of price, which they believed was driven by a product's utility. In the 18th century, economist [[Adam Smith]](https://www.investopedia.com/updates/adam-smith-economics/) discussed what is known as "[the paradox of water and diamonds](https://www.investopedia.com/ask/answers/032615/how-can-marginal-utility-explain-diamondwater-paradox.asp)." This paradox states that water has far less value than diamonds, even though water is vital to human life.1
+The concept of marginal utility was developed by economists who were attempting to explain the economic reality of price, which they believed was driven by a product's utility. In the 18th century, economist [[Adam Smith]](https://www.investopedia.com/updates/adam-smith-[[Economics|economics]]/) discussed what is known as "[the paradox of water and diamonds](https://www.investopedia.com/ask/answers/032615/how-can-marginal-utility-explain-diamondwater-paradox.asp)." This paradox states that water has far less value than diamonds, even though water is vital to human life.1
 
 This disparity intrigued economists and philosophers around the world. In the 1870s, three economists—William Stanley Jevons, Carl Menger, and [[Leon Walras]](https://www.investopedia.com/terms/w/walras-law.asp)—each independently came to the conclusion that marginal utility was the answer to the water and diamonds paradox. In his book, _The Theory of Political Economy_, Jevons explained that economic decisions are made based on "final" (marginal) utility rather than [[total utility]](https://www.investopedia.com/terms/t/totalutility.asp).2
 

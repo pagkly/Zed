@@ -16,18 +16,18 @@ author: Evan Tarver
 Forming a Limited Partnership: What You Should Know
 ## What Is a Limited Partnership (LP)?
 
-A limited partnership (LP)—not to be confused with a [[limited liability partnership (LLP)]](https://www.investopedia.com/articles/investing/090214/limited-liability-partnership-llp-basics.asp)—is a partnership made up of two or more partners. The general partner oversees and runs the business while limited partners do not partake in managing the business. However, the general partner has unlimited liability for the debt, and any limited partners have limited liability up to the amount of their investment. 
+A limited partnership (LP)—not to be confused with a [[limited liability partnership (LLP)]](https://www.investopedia.com/articles/investing/090214/limited-[[Liability|liability]]-partnership-llp-basics.asp)—is a partnership made up of two or more partners. The general partner oversees and runs the business while limited partners do not partake in managing the business. However, the general partner has unlimited liability for the [[Debt|debt]], and any limited partners have limited liability up to the amount of their investment. 
 
 ### Key Takeaways
 
 -   A limited partnership exists when two or more partners go into business together, but one or more of the partners are only liable up to the amount of their investment.
--   The general partner of the LP has unlimited liability.  
--   There are three types of partnerships: limited partnership, general partnership, and joint venture.
+-   The general partner of the LP has unlimited [[Liability|liability]].  
+-   There are three types of partnerships: limited partnership, general partnership, and [[Joint|joint]] venture.
 -   Most U.S. states govern the formation of limited partnerships, requiring registration with the Secretary of State. 
 
 ## Understanding Limited Partnerships 
 
-Generally, a [[partnership]](https://www.investopedia.com/terms/p/partnership.asp) is a business owned by two or more individuals. There are three forms of partnerships: general partnership, joint venture, and limited partnership. The three forms differ in various aspects, but also share similar features.
+Generally, a [[partnership]](https://www.investopedia.com/terms/p/partnership.asp) is a business owned by two or more individuals. There are three forms of partnerships: general partnership, [[Joint|joint]] venture, and limited partnership. The three forms differ in various aspects, but also share similar features.
 
 In all forms of partnerships, each partner must contribute resources such as property, money, skills, or labor to share in the business' profits and losses. At least one partner takes part in making decisions regarding the business' day-to-day affairs.
 
@@ -37,17 +37,17 @@ LPs are often formed to manage passively ran businesses and for raising money fo
 
 ## Types of Partnerships
 
-An investment partnership is a type of business formation. It’s a partnership that’s generally structured as a holding company that's created by individual partners or companies for investing purposes. These investments can be other businesses, securities, and real estate, among other things. 
+An investment partnership is a type of business formation. It’s a partnership that’s generally structured as a holding company that's created by individual partners or companies for investing purposes. These investments can be other businesses, securities, and real [[Estate|estate]], among other things. 
 
-A limited partnership is usually a type of investment partnership, often used as investment vehicles for investing in such assets as real estate. LPs differ from other partnerships in that partners can have limited liability, meaning they are not liable for business debts that exceed their initial investment. In a [[limited liability company (LLC)]](https://www.investopedia.com/terms/l/llc.asp), general partners are responsible for the daily management of the limited partnership and are liable for the company's financial obligations, including debts and litigation. Other contributors, known as limited or silent partners, provide capital but cannot make managerial decisions and are not responsible for any debts beyond their initial investment. 
+A limited partnership is usually a type of investment partnership, often used as investment vehicles for investing in such assets as real [[Estate|estate]]. LPs differ from other partnerships in that partners can have limited [[Liability|liability]], meaning they are not liable for business debts that exceed their initial investment. In a [[limited liability company (LLC)]](https://www.investopedia.com/terms/l/llc.asp), general partners are responsible for the daily management of the limited partnership and are liable for the company's financial obligations, including debts and litigation. Other contributors, known as limited or silent partners, provide capital but cannot make managerial decisions and are not responsible for any debts beyond their initial investment. 
 
-A [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp) is a partnership when all partners share in the profits, managerial responsibilities, and liability for debts equally. If the partners plan to share profits or losses unequally, they should document this in a legal partnership agreement to avoid future disputes.
+A [[general partnership]](https://www.investopedia.com/terms/g/generalpartnership.asp) is a partnership when all partners share in the profits, managerial responsibilities, and [[Liability|liability]] for debts equally. If the partners plan to share profits or losses unequally, they should document this in a legal partnership agreement to avoid future disputes.
 
-A joint venture is a general partnership that remains valid until the completion of a project or a certain period elapses. All partners have an equal right to control the business and share in any profits or losses. They also have a fiduciary responsibility to act in the best interests of other members as well as the venture.
+A [[Joint|joint]] venture is a general partnership that remains valid until the completion of a project or a certain period elapses. All partners have an equal right to control the business and share in any profits or losses. They also have a [[Fiduciary|fiduciary]] responsibility to act in the best interests of other members as well as the venture.
 
-### Limited Liability Partnership 
+### Limited [[Liability]] Partnership 
 
-A limited liability partnership (LLP) is a type of partnership where all partners have limited liability. All partners can also partake in management activities. This is unlike a limited partnership, where at least one general partner must have unlimited liability and limited partners cannot be part of management. 
+A limited [[Liability|liability]] partnership (LLP) is a type of partnership where all partners have limited liability. All partners can also partake in management activities. This is unlike a limited partnership, where at least one general partner must have unlimited liability and limited partners cannot be part of management. 
 
 LLPs are often used for structuring professional services companies, such as law and accounting firms. However, LLP partners are not responsible for the misconduct or negligence of other partners. 
 

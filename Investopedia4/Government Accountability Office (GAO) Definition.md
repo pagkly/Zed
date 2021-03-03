@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/g/government-accountability-office-ga
 author: Adam Hayes
 ---
 
-# Government Accountability Office (GAO) Definition
+# [[Government Accountability Office (GAO) Definition]]
 
 > ## Excerpt
 > The Government Accountability Office (GAO) is a U.S. legislative agency that monitors and audits government spending and operations.
 
 ---
 
-Government Accountability Office (GAO) Definition
+[[Government Accountability Office (GAO) Definition]]
 ## What Is the Government Accountability Office (GAO)?
 
-The Government Accountability Office (GAO) is an independent and non-partisan U.S. legislative agency that monitors and audits government spending and operations. Often called the "congressional watchdog," GAO examines how taxpayer dollars are spent and provides recommendations on how to save the government money or operate more fiscally responsibly.
+The Government Accountability Office (GAO) is an independent and non-partisan U.S. legislative agency that monitors and audits government spending and operations. Often called the "congressional watchdog," GAO examines how [[Taxpayer|taxpayer]] dollars are spent and provides recommendations on how to save the government money or operate more fiscally responsibly.
 
 ### Key Takeaways
 
 -   The Government Accountability Office (GAO) is an independent agency that works for Congress and federal agencies with objective, reliable information to help the government save money and work more efficiently.
--   The GAO monitors how the government uses taxpayer dollars and provides reports and recommendations to the government.
+-   The GAO monitors how the government uses [[Taxpayer|taxpayer]] dollars and provides reports and recommendations to the government.
 -   The comptroller general serves as the head of the GAO and is appointed by the president.
 
 ## Understanding the Government Accountability Office
 
-The Government Accountability Office (GAO) tracks how the legislative and executive branches of the government use taxpayer dollars and then provide results directly to Congress. The [[comptroller general]](https://www.investopedia.com/terms/c/comptroller-general.asp) runs the GAO and serves a 15-year term. The position is appointed by the president from a bipartisan list of congressional recommendations. The current comptroller general, Gene L. Dodaro, was appointed in 2010.
+The Government Accountability Office (GAO) tracks how the legislative and executive branches of the government use [[Taxpayer|taxpayer]] dollars and then provide results directly to Congress. The [[comptroller general]](https://www.investopedia.com/terms/c/comptroller-general.asp) runs the GAO and serves a 15-year term. The position is appointed by the president from a bipartisan list of congressional recommendations. The current comptroller general, Gene L. Dodaro, was appointed in 2010.
 
 Essentially, the GAO serves as a congressional watchdog over government spending. It monitors the operating results, financial positions, and accounting systems used by the various governmental agencies and conducts routine audits on all branches of government.
 
@@ -40,7 +40,7 @@ Another set of legislative duties includes establishing standards, referred to a
 
 ## History of Government Accountability Office
 
-During World War I, government spending and debt rose sharply, which prompted demand for a formal system to review, monitor, and control government expenditures. As a result, the Budget and Accounting Act of 1921 established the General Accounting Office (GAO), which assumed budget, accounting, and auditing responsibilities from the [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) Department. In addition, this act also required the president to prepare an [[annual budget]](https://www.investopedia.com/terms/a/annual-budget.asp) for the federal government. In 2004, the name changed to the Government Accountability Office after the passing of the GAO Human Capital Reform Act.
+During World War I, government spending and [[Debt|debt]] rose sharply, which prompted demand for a formal system to review, monitor, and control government expenditures. As a result, the Budget and Accounting Act of 1921 established the General Accounting Office (GAO), which assumed budget, accounting, and auditing responsibilities from the [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp) Department. In addition, this act also required the president to prepare an [[annual budget]](https://www.investopedia.com/terms/a/annual-budget.asp) for the federal government. In 2004, the name changed to the Government Accountability Office after the passing of the GAO Human Capital Reform Act.
 
 Government programs and expenditures expanded sharply in the 1930s as a result of President Roosevelt's New Deal social policies, which were created in response to the [[Great Depression]](https://www.investopedia.com/terms/g/great_depression.asp). The GAO's role, which originally focused on ensuring payments were made properly, grew in importance. By 1945, at the end of World War II, government spending had again soared, and the GAO began auditing government agencies to ensure they operated according to their purpose.
 

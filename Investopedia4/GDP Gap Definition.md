@@ -1,19 +1,19 @@
 ---
 alias: [GDP Gap]
 created: 2021-03-02T20:14:39 (UTC +11:00)
-tags: [GDP Gap Definition, GDP Gap Definition]
+tags: [GDP [[Gap Definition]], GDP Gap Definition]
 source: https://www.investopedia.com/terms/g/gdpgap.asp
 author: Clay Halton
 ---
 
-# GDP Gap Definition
+# [[GDP Gap Definition]]
 
 > ## Excerpt
 > GDP gap is the forfeited output of a country's economy resulting from the failure to create sufficient jobs for all those willing to work.
 
 ---
 
-GDP Gap Definition
+[[GDP Gap Definition]]
 ## What is GDP Gap?
 
 GDP gap is the forfeited output of a country's economy resulting from the failure to create sufficient jobs for all those willing to work. GDP gap is represented as the difference between actual GDP and potential GDP as represented by the long-term trend. A [[gross domestic product]](https://www.investopedia.com/terms/g/gdp.asp) (GDP) gap represents production and value that is irretrievably lost due to a shortage of employment opportunities.
@@ -24,9 +24,9 @@ A GDP gap can be positive or negative. It is calculated as:
 
 (Actual GDP - Potential GDP)/Potential GDP
 
-From a [[macroeconomic]](https://www.investopedia.com/terms/m/macroeconomics.asp) perspective, you want the smallest possible GDP gap, and preferably no gap at all. A negative gap shows that an economy is underperforming and essentially leaving money on the table from where it should be trend-wise. Negative GDP gaps are common after economic shocks or [[financial crises]](https://www.investopedia.com/terms/f/financial-crisis.asp). The negative GDP gap is mostly a reflection of a hesitant business environment in this case. Companies are unwilling to spend or commit to increased production schedules until stronger signs of a recovery are present. This, in turn, leads to less hiring and perhaps even continued layoffs in all sectors.
+From a [[macroeconomic]](https://www.investopedia.com/terms/m/[[Macroeconomics|macroeconomics]].asp) perspective, you want the smallest possible GDP gap, and preferably no gap at all. A [[Negative Gap|negative gap]] shows that an economy is underperforming and essentially leaving money on the table from where it should be trend-wise. Negative GDP gaps are common after economic shocks or [[financial crises]](https://www.investopedia.com/terms/f/financial-crisis.asp). The negative GDP gap is mostly a reflection of a hesitant business environment in this case. Companies are unwilling to spend or commit to increased production schedules until stronger signs of a recovery are present. This, in turn, leads to less hiring and perhaps even continued layoffs in all sectors.
 
-That said, a positive GDP gap is also problematic. A large positive GDP gap may be a sign that the economy is overheated and heading towards a [[correction]](https://www.investopedia.com/terms/c/correction.asp). The larger the positive GDP gap, the more likely it is that an economy is at risk of a period of high inflation at the very least.
+That said, a positive GDP gap is also problematic. A large positive GDP gap may be a sign that the economy is overheated and heading towards a [[correction]](https://www.investopedia.com/terms/c/[[Correction|correction]].asp). The larger the positive GDP gap, the more likely it is that an economy is at [[Risk|risk]] of a period of high inflation at the very least.
 
 ## Real World Example of a GDP Gap
 

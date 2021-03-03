@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/express-warranty.asp
 author: Daniel Liberto
 ---
 
-# Express Warranty Definition
+# [[Express Warranty Definition]]
 
 > ## Excerpt
 > An express warranty is an agreement by a seller to provide repairs or a replacement for a faulty product within a specified time period after purchase.
 
 ---
 
-Express Warranty Definition
+[[Express Warranty Definition]]
 ## What Is an Express Warranty?
 
 An express warranty is an agreement by a [[seller]](https://www.investopedia.com/terms/s/seller.asp) to provide repairs or a replacement for a faulty product, component or service within a specified time period after it was purchased. Buyers rely on these promises or guarantees and sometimes purchase items because of them.
@@ -27,11 +27,11 @@ An express warranty is an agreement by a [[seller]](https://www.investopedia.com
 
 ## How an Express Warranty Works
 
-A [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) is an assurance that an item will live up to the promises of the seller. Under the federal Magnuson-Moss Warranty Act, passed by [[Congress]](https://www.investopedia.com/terms/c/congress.asp) in 1975, a company must provide a written express warranty if a product is sold for more than $15.
+A [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) is an assurance that an item [[Will|will]] live up to the promises of the seller. Under the federal Magnuson-Moss Warranty Act, passed by [[Congress]](https://www.investopedia.com/terms/c/congress.asp) in 1975, a company must provide a written express warranty if a product is sold for more than $15.
 
-The warranty can be worded in many different ways. It may say something like: "We guarantee all furniture against defects in construction for one year. When a structural defect is brought to our attention, we will repair or replace it."
+The warranty can be worded in many different ways. It may say something like: "We guarantee all furniture against defects in construction for one year. When a structural defect is brought to our attention, we [[Will|will]] repair or replace it."
 
-Most express warranties come from the [[manufacturer]](https://www.investopedia.com/terms/m/manufacturing.asp) or are included in the seller’s contract. They can also be created by a simple statement on an advertisement or a sign in a store.
+Most express warranties come from the [[manufacturer]](https://www.investopedia.com/terms/m/[[Manufacturing|manufacturing]].asp) or are included in the seller’s contract. They can also be created by a simple statement on an advertisement or a sign in a store.
 
 ## Special Considerations
 
@@ -45,11 +45,11 @@ For example, if an automaker makes a claim that its car is “the best in the wo
 
 ## Express Warranty Examples
 
-### E-Commerce
+### E-[[Commerce]]
 
 [E-commerce](https://www.investopedia.com/terms/e/ecommerce.asp) companies typically include express warranties on the goods they sell in part because of the nature of how online shopping is conducted. The customer cannot try on or physically examine merchandise they are about to purchase.
 
-How the product functions and looks when it is received can dramatically differ from what the customer envisioned while browsing online. The inclusion of an express warranty gives them some sense of surety that issues with the purchase will be rectified in some manner.
+How the product functions and looks when it is received can dramatically differ from what the customer envisioned while browsing online. The inclusion of an express warranty gives them some sense of surety that issues with the purchase [[Will|will]] be rectified in some manner.
 
 For example, if a consumer buys a business jacket online, but when it arrives the item is the wrong size, wrong color, or is missing buttons, an express warranty might entitle the consumer to a refund or replacement. In such cases, the online seller is usually responsible for footing the bill for any additional shipping charges.
 

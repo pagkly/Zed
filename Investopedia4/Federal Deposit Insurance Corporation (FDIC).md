@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/f/fdic.asp
 author: Julia Kagan
 ---
 
-# Federal Deposit Insurance Corporation (FDIC)
+# [[Federal Deposit Insurance Corporation (FDIC)]]
 
 > ## Excerpt
-> The Federal Deposit Insurance Corporation (FDIC) is an independent federal agency that provides insurance to U.S. banks and thrifts.
+> The [[Federal Deposit Insurance Corporation (FDIC)]] is an independent federal agency that provides insurance to U.S. banks and thrifts.
 
 ---
 
-Federal Deposit Insurance Corporation (FDIC)
-## What Is the Federal Deposit Insurance Corporation (FDIC)?
+[[Federal Deposit Insurance Corporation (FDIC)]]
+## What Is the [[Federal Deposit Insurance Corporation (FDIC)]]?
 
-The Federal Deposit Insurance Corporation (FDIC) is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. The [[FDIC was created]](https://www.investopedia.com/articles/economics/09/fdic-history.asp) in 1933 to maintain public confidence and encourage stability in the financial system through the promotion of sound banking practices. As of 2020, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm. It is [[critical for consumers to confirm]](https://www.investopedia.com/articles/pf/06/fdicinsurance.asp) if their institution is FDIC insured.
+The [[Federal Deposit Insurance Corporation (FDIC)]] is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. The [[FDIC was created]](https://www.investopedia.com/articles/[[Economics|economics]]/09/fdic-history.asp) in 1933 to maintain public confidence and encourage stability in the financial system through the promotion of sound banking practices. As of 2020, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm. It is [[critical for consumers to confirm]](https://www.investopedia.com/articles/pf/06/fdicinsurance.asp) if their institution is FDIC insured.
 
-#### Federal Deposit Insurance Corporation (FDIC)
+#### [[Federal Deposit Insurance Corporation (FDIC)]]
 
 The primary purpose of the FDIC is to prevent "run on the bank" scenarios, which devastated many banks during the Great Depression. For example, with the threat of the closure of a bank, small groups of worried customers rushed to withdraw their money.
 
@@ -26,7 +26,7 @@ After fears spread, a stampede of customers, seeking to do the same, ultimately 
 
 ## Understanding the FDIC
 
-Because practically all banks and thrifts now offer FDIC coverage, many consumers face less uncertainty regarding their deposits. As a result, banks have a better opportunity to address problems under controlled circumstances without triggering a run on the bank.
+Because practically all banks and thrifts now [[Offer|offer]] FDIC coverage, many consumers face less uncertainty regarding their deposits. As a result, banks have a better opportunity to address problems under controlled circumstances without triggering a run on the bank.
 
 In case of bank failure, the FDIC covers deposits up to $250,000, per FDIC-insured bank, for each account ownership category such as retirement accounts and trusts. This sum is adequate for the majority of depositors, though depositors with more than that sum should spread their assets among multiple banks.
 
@@ -34,8 +34,8 @@ In case of bank failure, the FDIC covers deposits up to $250,000, per FDIC-insur
 
 -   The Federal Deposit Insurance Corporation is an independent federal agency insuring deposits in U.S. banks and thrifts in the event of bank failures. 
 -   As of 2020, the FDIC insures deposits up to $250,000 per depositor as long as the institution is a member firm.
--   The FDIC covers checking and savings accounts, CDs, money market accounts, IRAs, revocable and irrevocable trust accounts, and employee benefit plans.
--   Mutual funds, annuities, life insurance policies, stocks, and bonds are not covered by the FDIC.
+-   The FDIC covers checking and savings accounts, CDs, [[Money Market|money market]] accounts, IRAs, revocable and irrevocable trust accounts, and employee benefit plans.
+-   Mutual funds, annuities, life insurance policies, [[Stocks|stocks]], and bonds are not covered by the FDIC.
 
 ### Example 1:
 
@@ -43,7 +43,7 @@ If you have $200,000 in a savings account and $100,000 in a [[certificate of dep
 
 ### Example 2:
 
-If a couple has $500,000 in a joint account, as well as $250,000 in an eligible retirement account, the entire $750,000 would be covered by the FDIC, as each co-owner's share in the joint account is covered, and the retirement account is a different account category.
+If a couple has $500,000 in a [[Joint|joint]] account, as well as $250,000 in an eligible retirement account, the entire $750,000 would be covered by the FDIC, as each co-owner's share in the joint account is covered, and the retirement account is a different account category.
 
 The FDIC provides a [[helpful interactive tool]](https://www.fdic.gov/deposit/covered/categories.html) to check whether assets are covered.
 
@@ -51,9 +51,9 @@ If you have more than $250,000 deposited in an account type with a single bank, 
 
 ## What the FDIC Covers
 
-Checking accounts, savings accounts, CDs, and [[money market accounts]](https://www.investopedia.com/terms/m/moneymarketaccount.asp) are generally 100% covered by the FDIC. Coverage extends to [individual retirement accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs), but only the parts that fit the type of accounts listed previously. Joint accounts, revocable and irrevocable trust accounts, and employee benefit plans are covered, as are corporate, partnership, and unincorporated association accounts.
+Checking accounts, savings accounts, CDs, and [[money market accounts]](https://www.investopedia.com/terms/m/moneymarketaccount.asp) are generally 100% covered by the FDIC. Coverage extends to [individual retirement accounts](https://www.investopedia.com/terms/i/ira.asp) (IRAs), but only the parts that fit the type of accounts [[Listed|listed]] previously. [[Joint]] accounts, revocable and irrevocable trust accounts, and employee benefit plans are covered, as are corporate, partnership, and unincorporated association accounts.
 
-FDIC insurance [[does not cover]](https://www.investopedia.com/articles/investing/100215/mutual-funds-are-not-fdic-insured-here-why.asp) products such as mutual funds, annuities, life insurance policies, stocks, or bonds. The contents of safe-deposit boxes are also not included in FDIC coverage. Cashier's checks and money orders issued by the failed bank remain fully covered by the FDIC. 
+FDIC insurance [[does not cover]](https://www.investopedia.com/articles/investing/100215/mutual-funds-are-not-fdic-insured-here-why.asp) products such as mutual funds, annuities, life insurance policies, [[Stocks|stocks]], or bonds. The contents of safe-deposit boxes are also not included in FDIC coverage. Cashier's checks and money orders issued by the failed bank remain fully covered by the FDIC. 
 
 Eligible business accounts from a corporation, partnership, LLC, or unincorporated organization at a bank are also FDIC-covered.
 

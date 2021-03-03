@@ -24,21 +24,21 @@ Form 8396 is an [[Internal Revenue Service]](https://www.investopedia.com/terms/
 
 ## Who Can File Form 8396: Mortgage Interest Credit?
 
-Anyone who was issued an MCC from a state or local government agency should file this form. In general, an MCC is only issued to lower- and moderate-income individuals in connection with a new mortgage to buy a primary residence. An MCC is issued under a qualified mortgage credit certificate program.2
+Anyone who was issued an MCC from a state or local government agency should file this form. In general, an MCC is only issued to lower- and moderate-income individuals in connection with a new mortgage to buy a primary residence. An MCC is issued under a [[Qualified Mortgage|qualified mortgage]] credit certificate program.2
 
-Individuals who qualify can claim the credit each year using Form 8396 for part of the home mortgage interest paid.2
+Individuals who qualify can claim the credit each year using Form 8396 for part of the [[Home Mortgage|home mortgage]] interest paid.2
 
 ## How to File Form Form 8396: Mortgage Interest Credit
 
-The filer of Form 8396 must include details, including their name, the name of the issuer of the MCC, the certificate number and issue date, and their Social Security Number on the form.
+The filer of Form 8396 must include details, including their name, the name of the issuer of the MCC, the certificate number and issue date, and their [[Social Security]] Number on the form.
 
-Under Part I, the filer must figure out the current year's mortgage interest credit. The MCC will show the rate you will use to figure out your credit.
+Under Part I, the filer must figure out the current year's mortgage interest credit. The MCC [[Will|will]] show the rate you will use to figure out your credit.
 
 The IRS limits the mortgage interest credit to a maximum of $2,000 per year. Part II is used to determine the following year's carryforward credit.
 
 Form 8396 is available on the IRS website.3
 
-Once the form is completed attach it to your individual federal income tax return—[Form 1040](https://www.investopedia.com/terms/1/1040.asp), [[Form 1040-SR]](https://www.investopedia.com/taxes/seniors-get-new-simplified-tax-form/), or [[Form 1040-NR]](https://www.investopedia.com/form-1040nr-4782170).
+Once the form is completed attach it to your individual federal income [[Tax Return|tax return]]—[Form 1040](https://www.investopedia.com/terms/1/1040.asp), [[Form 1040-SR]](https://www.investopedia.com/taxes/seniors-get-new-simplified-tax-form/), or [[Form 1040-NR]](https://www.investopedia.com/form-1040nr-4782170).
 
 If you have any unused credit to carry forward, keep a copy of Form 8396 to figure out your credit for the following year.
 
@@ -52,4 +52,4 @@ A new mortgage credit certificate is issued if the mortgage is refinanced, and h
 
 ## Form 8396: Mortgage Interest Credit vs. Form 1098: Mortgage Interest Statement
 
-Form 8396: Mortgage Interest Credit is different from [[Form 1098: Mortgage Interest Statement]](https://www.investopedia.com/terms/f/form_1098.asp). Form 1098 shows the amount of interest and related expenses paid on a mortgage during the tax year and is sent out by banks and financial institutions. The loan interest shown on the MCC is usually the same amount in Box 1 of Form 1098.4
+Form 8396: Mortgage Interest Credit is different from [[Form 1098: Mortgage Interest Statement]](https://www.investopedia.com/terms/f/form_1098.asp). Form 1098 shows the amount of interest and related expenses paid on a mortgage during the tax year and is sent out by banks and financial institutions. The [[Loan|loan]] interest shown on the MCC is usually the same amount in Box 1 of Form 1098.4

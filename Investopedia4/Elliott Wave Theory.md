@@ -6,31 +6,31 @@ source: https://www.investopedia.com/terms/e/elliottwavetheory.asp
 author: James Chen
 ---
 
-# Elliott Wave Theory Definition
+# [[Elliott Wave Theory]] Definition
 
 > ## Excerpt
-> The Elliott Wave Theory is a technical analysis toolkit used to predict price movements by observing and identifying repeating patterns of waves.
+> The [[Elliott Wave Theory]] is a [[Technical Analysis|technical analysis]] toolkit used to predict price movements by observing and identifying repeating patterns of waves.
 
 ---
 
-Elliott Wave Theory
-## What Is Elliott Wave Theory?
+[[Elliott Wave Theory]]
+## What Is [[Elliott Wave Theory]]?
 
-The Elliott Wave Theory was developed by Ralph Nelson Elliott to describe price movements in financial markets, in which he observed and identified recurring, fractal [[wave]](https://www.investopedia.com/terms/e/elliottwavetheory.asp) patterns.1 Waves can be identified in stock price movements and in consumer behavior. Investors trying to profit from a market trend could be described as "riding a wave." A large, strong movement by homeowners to replace their existing mortgages with new ones that have better terms is called a refinancing wave.
+The [[Elliott Wave Theory]] was developed by Ralph Nelson Elliott to describe price movements in financial markets, in which he observed and identified recurring, fractal [[wave]](https://www.investopedia.com/terms/e/elliottwavetheory.asp) patterns.1 Waves can be identified in [[Stock|stock]] price movements and in consumer behavior. Investors trying to profit from a market trend could be described as "riding a wave." A large, strong movement by homeowners to replace their existing mortgages with new ones that have better terms is called a refinancing wave.
 
 ### Key Takeaways
 
--   Elliott Wave Theory is a method of technical analysis that looks for recurrent long-term price patterns related to persistent changes in investor sentiment and psychology.
+-   [[Elliott Wave Theory]] is a method of [[Technical Analysis|technical analysis]] that looks for recurrent long-term price patterns related to persistent changes in investor sentiment and psychology.
 -   The theory identifies waves identified as impulse waves that set up a pattern and corrective waves that oppose the larger trend.
 -   Each set of waves is itself nested within a larger set of waves that adhere to the same impulse/corrective pattern, described as a fractal approach to investing.
 
-#### Elliott Wave Theory Basics
+#### [[Elliott Wave Theory]] Basics
 
-## Origins of Elliott Wave Theory
+## Origins of [[Elliott Wave Theory]]
 
 The [[Elliott Wave Theory]](https://www.investopedia.com/articles/technical/111401.asp) was developed by Ralph Nelson Elliott in the 1930s. After being forced into retirement due to an illness, Elliott needed something to occupy his time and began studying 75 years worth of yearly, monthly, weekly, daily, and self-made hourly and 30-minute charts across various [[indexes]](https://www.investopedia.com/terms/m/marketindex.asp).1
 
-The theory gained notoriety in 1935 when Elliott made an uncanny prediction of a stock market [[bottom]](https://www.investopedia.com/terms/b/bottom.asp) and has since become a staple for thousands of [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp), traders, and private investors.1
+The theory gained notoriety in 1935 when Elliott made an uncanny prediction of a [[Stock|stock]] market [[bottom]](https://www.investopedia.com/terms/b/bottom.asp) and has since become a staple for thousands of [[portfolio managers]](https://www.investopedia.com/terms/p/portfoliomanager.asp), traders, and private investors.1
 
 R.N. Elliott described specific rules governing how to identify, predict and capitalize on these wave patterns. These books, articles, and letters are covered in "R.N. Elliott's Masterworks," published in 1994. Elliott Wave International is the largest independent [[financial analysis]](https://www.investopedia.com/terms/f/financial-analysis.asp) and market [[forecasting]](https://www.investopedia.com/terms/f/forecasting.asp) firm in the world whose market analysis and forecasting are based on Elliott’s model.1
 
@@ -38,7 +38,7 @@ R.N. Elliott was careful to note that these patterns do not provide any kind of 
 
 ## How Elliott Waves Work
 
-Some technical analysts try to profit from wave patterns in the stock market using the Elliott Wave Theory. This hypothesis says that stock price movements can be predicted because they move in repeating up-and-down patterns called waves that are created by investor psychology.
+Some technical analysts try to profit from wave patterns in the [[Stock|stock]] market using the [[Elliott Wave Theory]]. This hypothesis says that stock price movements can be predicted because they move in repeating up-and-down patterns called waves that are created by investor psychology.
 
 The theory identifies several different types of waves, including motive waves, impulse waves, and corrective waves. It is subjective, and not all traders interpret the theory the same way, or agree that it is a successful trading strategy. The whole idea of wave analysis itself does not equate to a regular blueprint formation, where you simply follow the instructions, unlike most other price formations. Wave analysis offers insights into trend dynamics and helps you understand price movements in a much deeper way.
 

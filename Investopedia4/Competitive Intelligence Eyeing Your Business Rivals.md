@@ -31,7 +31,7 @@ By definition, competitive intelligence assembles actionable information from di
 
 Competitive intelligence transcends the simple cliché "know your enemy." Rather, it is a deep dive exercise, where businesses unearth the finer points of competitors’ business plans, including the customers they serve and the marketplaces in which they operate. Competitive intelligence also analyzes how a wide variety of events disrupts rival businesses. It also reveals how distributors and other stakeholders may be impacted, and it telegraphs how new [[technologies]](https://www.investopedia.com/terms/d/disruptive-technology.asp) can quickly render invalid every assumption.
 
-Within any organization, competitive intelligence means different things to different people and departments. For example, to a sales representative, it may refer to tactical advice on how best to bid for a lucrative contract. To top management, it may mean cultivating unique marketing insights used to gain market share against a formidable competitor.
+Within any organization, competitive intelligence means different things to different people and departments. For example, to a sales representative, it may refer to tactical advice on how best to bid for a lucrative contract. To top management, it may mean cultivating unique marketing insights used to [[Gain|gain]] market share against a formidable competitor.
 
 The nature of competitive intelligence varies for different companies, depending on the industry, circumstance, and a host of other factors; for example, companies that are impacted by politics and laws might require information about statutory changes that could affect the company's operations.
 
@@ -41,7 +41,7 @@ For any group, the goal of competitive intelligence is to help make better-infor
 
 Competitive intelligence activities can be grouped into two main silos: tactical and strategic. Tactical intelligence is shorter-term and seeks to provide input into issues such as capturing market share or increasing revenues. Strategic intelligence focuses on longer-term issues, such as key risks and opportunities facing the enterprise.
 
-In either case, competitive intelligence differs from corporate or [[industrial espionage]](https://www.investopedia.com/terms/i/industrial-espionage.asp), which relies on illegal and unethical methods to gain an unfair competitive advantage.
+In either case, competitive intelligence differs from corporate or [[industrial espionage]](https://www.investopedia.com/terms/i/industrial-espionage.asp), which relies on illegal and unethical methods to [[Gain|gain]] an unfair competitive advantage.
 
 ## Special Considerations
 

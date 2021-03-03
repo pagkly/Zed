@@ -13,7 +13,7 @@ author: James Chen
 
 ---
 
-Defining Maintenance Expenses
+[[Defining Maintenance Expenses]]
 ## What Are Maintenance Expenses?
 
 The term maintenance [[expense]](https://www.investopedia.com/terms/e/expense.asp) refers to any cost incurred by an individual or business to keep their [[assets]](https://www.investopedia.com/terms/a/asset.asp) in good working condition. These costs may be spent for the general maintenance of items like running anti-virus software on computer systems or they may be used for repairs such as fixing a car or machinery. These expenses are in addition to the actual [[purchase price]](https://www.investopedia.com/terms/p/purchaseprice.asp) of an asset, so individuals and companies should be able and willing to foot the bill in order to keep their assets in running order.
@@ -40,13 +40,13 @@ It's always a good idea to have money set aside for the regular maintenance of y
 
 ## Types of Maintenance Expenses
 
-As mentioned above, maintenance expenses depend on the type of asset held. Maintenance expenses for homes include lawn care, plumbing, electrical, and roof repairs as well as replacement of worn-out appliances. Homeowners must also pay [[premiums]](https://www.investopedia.com/terms/p/premium.asp) for [[hazard insurance]](https://www.investopedia.com/terms/h/hazardinsurance.asp). This expense protects the owner from damage to the home from natural events like severe storms, fires, tornados, and earthquakes. 
+As mentioned above, maintenance expenses depend on the type of asset held. Maintenance expenses for homes include lawn care, plumbing, electrical, and roof repairs as well as replacement of worn-out appliances. Homeowners must also pay [[premiums]](https://www.investopedia.com/terms/p/[[Premium|premium]].asp) for [[hazard insurance]](https://www.investopedia.com/terms/h/hazardinsurance.asp). This expense protects the owner from damage to the home from natural events like severe storms, fires, tornados, and earthquakes. 
 
 ### Landlords and Tenants
 
 Most of the maintenance expenses for a [[rental property]](https://www.investopedia.com/terms/r/residentialrentalproperty.asp) are the [[landlord's]](https://www.investopedia.com/terms/l/landlord.asp) responsibility. Snow removal, sewage, trash pickup, lawn care as well as the sidewalks, windows, and any exterior expense falls to the landlord to pay. If the apartment or rental home is furnished, any replacement or repair of the furniture is the landlord’s responsibility. Cleaning or replacement of any carpeting, as well as painting, is also paid by the landlord.
 
-Government regulations require landlords to maintain certain safety and [[living standards]](https://www.investopedia.com/terms/s/standard-of-living.asp). For example, the heat in an apartment building must meet minimum standards. The [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp), such as heating and ventilation, must be adequately maintained by the landlord. Some of the upkeep and maintenance may fall on the [[tenant]](https://www.investopedia.com/terms/l/lessee.asp). The [[rental agreement]](https://www.investopedia.com/terms/l/lease.asp) should define what expenses are the renter's responsibility.
+Government regulations require landlords to maintain certain safety and [[living standards]](https://www.investopedia.com/terms/s/standard-of-living.asp). For example, the heat in an apartment building must meet minimum standards. The [[infrastructure]](https://www.investopedia.com/terms/i/infrastructure.asp), such as heating and ventilation, must be adequately maintained by the landlord. Some of the upkeep and maintenance may fall on the [[tenant]](https://www.investopedia.com/terms/l/[[Lessee|lessee]].asp). The [[rental agreement]](https://www.investopedia.com/terms/l/[[Lease|lease]].asp) should define what expenses are the renter's responsibility.
 
 ### Condo Fees
 

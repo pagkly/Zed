@@ -13,7 +13,7 @@ author: Andrew Bloomenthal
 
 ---
 
-Cashing in on Customers
+[[Cashing in on Customers]]
 ## What Is a Customer?
 
 A customer is an individual or business that purchases another company's goods or services. Customers are important because they drive revenues; without them, businesses cannot continue to exist. All businesses compete with other companies to attract customers, either by aggressively advertising their products, by lowering prices to expand their [customer bases](https://www.investopedia.com/terms/c/client-base.asp) or developing unique products and experiences that customers love, think Apple, Tesla, Google or TikTok.
@@ -35,11 +35,11 @@ External customers are dissociated from business operations and are often the pa
 
 Businesses frequently study their customers' profiles to fine-tune their marketing approaches and tailor their inventory to attract the most customers. Customers are often grouped according to their demographics, such as age, race, gender, ethnicity, income level, and geographic location, which all may help businesses cultivate a snapshot of the "ideal customer" or "customer persona." This information helps companies deepen existing customer relationships and reach untapped consumer populations to increase traffic.
 
-Customers are so important that colleges and universities offer consumer behavior courses dedicated to studying their behavioral patterns, choices, and idiosyncrasies. They focus on why people buy and use goods and services and how it impacts companies and economies. Understanding customers enables businesses to create effective marketing and advertising campaigns, deliver products and services that address needs and wants, and retain customers for repeat business.
+Customers are so important that colleges and universities [[Offer|offer]] consumer behavior courses dedicated to studying their behavioral patterns, choices, and idiosyncrasies. They focus on why people buy and use goods and services and how it impacts companies and economies. Understanding customers enables businesses to create effective marketing and advertising campaigns, deliver products and services that address needs and wants, and retain customers for repeat business.
 
 ### Customer Service
 
-[Customer service](https://www.investopedia.com/terms/c/customer-service.asp), which strives to ensure positive experiences, is key to a successful seller/customer dynamic. Loyalty in the form of favorable online reviews, referrals, and future business can be lost or won based on a good or bad customer service experience. In recent years, customer service has evolved to include real-time interactions via instant message chats, texting, and other means of communication. The market is saturated with businesses offering the same or similar products and services. What distinguishes one from another is customer service, which has become the basis of competition for most businesses. This is a key element of [[Sigma Six]](https://www.investopedia.com/articles/investing/102014/guide-six-sigma-black-belt.asp).
+[Customer service](https://www.investopedia.com/terms/c/customer-service.asp), which strives to ensure positive experiences, is key to a successful seller/customer dynamic. Loyalty in the form of favorable online reviews, referrals, and future business can be lost or won based on a good or bad customer service experience. In recent years, customer service has evolved to include real-time interactions via instant message chats, texting, and other means of communication. The market is saturated with businesses [[Offering|offering]] the same or similar products and services. What distinguishes one from another is customer service, which has become the basis of competition for most businesses. This is a key element of [[Sigma Six]](https://www.investopedia.com/articles/investing/102014/guide-six-sigma-black-belt.asp).
 
 ## Customers vs. Consumers
 

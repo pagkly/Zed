@@ -6,37 +6,37 @@ source: https://www.investopedia.com/terms/g/goingpublic.asp
 author: James Chen
 ---
 
-# Going Public Definition
+# [[Going Public]] Definition
 
 > ## Excerpt
-> Going public is the process of selling shares that were formerly privately held to new investors for the first time.
+> [[Going Public|Going public]] is the process of selling [[Shares|shares]] that were formerly privately held to new investors for the first time.
 
 ---
 
-Going Public
-## What Is Going Public?
+[[Going Public]]
+## What Is [[Going Public]]?
 
-Going public is the process of selling shares that were formerly held privately and are now available to new investors for the first time, otherwise known as an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp).
+[[Going Public|Going public]] is the process of selling [[Shares|shares]] that were formerly held privately and are now available to new investors for the first time, otherwise known as an [[initial public offering (IPO)]](https://www.investopedia.com/terms/i/ipo.asp).
 
 ### Key Takeaways
 
--   The process of a company going public involves several important and sensitive steps that protect the company and potential investors.
--   During the IPO process, many facets of the company will be reviewed, prepared, and presented to the U.S. Securities and Exchange Commission (SEC) as part of its draft prospectus. During the vetting process this document will change and grow.
--   The original investment bank selected by the company will assemble a syndicate of other banks prior to presenting a roadshow to prospective investors.
+-   The process of a company [[Going Public|going public]] involves several important and sensitive steps that protect the company and potential investors.
+-   During the IPO process, many facets of the company [[Will|will]] be reviewed, prepared, and presented to the U.S. [[Securities and Exchange Commission (SEC)]] as part of its draft prospectus. During the vetting process this document will change and grow.
+-   The original investment bank selected by the company [[Will|will]] assemble a syndicate of other banks prior to presenting a roadshow to prospective investors.
 -   The final SEC approved prospectus is sent to print at an experienced financial printer familiar with the SEC's regulations.
--   Offering price is based on several factors and determined by the investment banker the day before the registration becomes effective. 
+-   [[Offering Price|Offering price]] is based on several factors and determined by the investment banker the day before the registration becomes effective. 
 
-## How Going Public Works
+## How [[Going Public]] Works
 
-When a company “goes public,” it is the first time the general public has the ability to buy shares. The process of going public presents unique challenges and is best accomplished with a knowledgeable and experienced team at the helm. An important member of said team is an experienced securities lawyer. However, every member of the team has important responsibilities in guiding the company through the IPO process.
+When a company “goes public,” it is the first time the general public has the ability to buy [[Shares|shares]]. The process of [[Going Public|going public]] presents unique challenges and is best accomplished with a knowledgeable and experienced team at the helm. An important member of said team is an experienced securities lawyer. However, every member of the team has important responsibilities in guiding the company through the IPO process.
 
 The mandatory SEC S-1 filing does not necessarily include all previous financial information, which is why it is imperative to do additional research prior to investing in an IPO.
 
-## Requirements for Going Public
+## Requirements for [[Going Public]]
 
 ### 1\. Board Approval
 
-Going public starts with a proposal to the company's board of directors by the management of the company. The proposal includes details and discussion on the company's past performance, objectives, business plan, and financial projections. Management then recommends entrance into the public market. After careful consideration, the board of directors decides whether to move forward.
+[[Going Public|Going public]] starts with a proposal to the company's board of directors by the management of the company. The proposal includes details and discussion on the company's past performance, objectives, business plan, and financial projections. Management then recommends entrance into the public market. After careful consideration, the board of directors decides whether to move forward.
 
 ### 2\. Assemble Team
 
@@ -48,7 +48,7 @@ After approval, the company's financial statements for the preceding five years 
 
 ### 4\. Letter of Intent With Investment Bank 
 
-Now the company selects an investment bank and issues a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp) to formalize the relationship and outline the investment bank's fees, offering size, price ranges, and other parameters.
+Now the company selects an investment bank and issues a [[letter of intent]](https://www.investopedia.com/terms/l/letterofintent.asp) to formalize the relationship and outline the investment bank's fees, [[Offering|offering]] size, price ranges, and other parameters.
 
 ### 5\. Draft Prospectus
 
@@ -58,26 +58,26 @@ With a signed letter of intent, the securities lawyers and accountants prepare t
 -   Explanation of management structure
 -   Disclosure of management compensation
 -   Disclosure of transactions between the company and management
--   Names of principal shareholders and their holdings in the company
+-   Names of [[Principal|principal]] shareholders and their [[Holdings|holdings]] in the company
 -   Audited financial statements
 -   Discussion on company operations and financial condition
--   Information on the intended use of offering proceeds
--   Discussion on the effect of dilution on existing shares
+-   Information on the intended use of [[Offering|offering]] proceeds
+-   Discussion on the effect of dilution on existing [[Shares|shares]]
 -   Breakdown of the company's dividend policy
 -   Description of the company's capitalization
 -   Description of the underwriting agreement
 
 ### 6\. Due Diligence
 
-The company's investment bank and accountants will examine the company's management, operations, financial condition, competitive position, performance, and business objectives and plan. They also review the company's labor force, suppliers, customers, and industry. Often, the results of the due diligence investigation will necessitate changes to the prospectus.
+The company's investment bank and accountants [[Will|will]] examine the company's management, operations, financial condition, competitive position, performance, and business objectives and plan. They also review the company's labor force, suppliers, customers, and industry. Often, the results of the due diligence investigation will necessitate changes to the prospectus.
 
 ### 7\. Preliminary Prospectus
 
-A [[preliminary prospectus]](https://www.investopedia.com/terms/p/preliminaryprospectus.asp) must be presented to the [[SEC]](https://www.investopedia.com/terms/s/sec.asp) and the relevant stock market regulators. State securities commissions may also be required to sign off. The SEC usually comments on the prospectus, normally in the form of requirements for additional disclosure or explanation.
+A [[preliminary prospectus]](https://www.investopedia.com/terms/p/preliminaryprospectus.asp) must be presented to the [[SEC]](https://www.investopedia.com/terms/s/sec.asp) and the relevant [[Stock|stock]] market regulators. State securities commissions may also be required to sign off. The SEC usually comments on the prospectus, normally in the form of requirements for additional disclosure or explanation.
 
 ### 8\. Syndication 
 
-After the preliminary prospectus has been filed with the SEC, the investment bank should assemble a "syndicate" of other investment banks, which will attempt to sell portions of the offering to investors. Assembly of the syndicate often generates useful information that helps to narrow the share price range.
+After the preliminary prospectus has been filed with the SEC, the investment bank should assemble a "syndicate" of other investment banks, which [[Will|will]] attempt to sell portions of the [[Offering|offering]] to investors. Assembly of the syndicate often generates useful information that helps to narrow the share price range.
 
 ### 9\. Roadshow 
 
@@ -87,9 +87,9 @@ Company management and investment bankers often perform a series of meetings wit
 
 The prospectus must be revised in accordance with the comments of the SEC. When the SEC declares the registration effective, the company can "go to print" with the prospectus.
 
-### 11\. Determining the Offer
+### 11\. Determining the [[Offer]]
 
-The day before registration becomes effective and sales begin, the offering is priced. The investment banker will recommend a price for the company's approval, taking into account company performance, pricing of competitive offerings, roadshow outcomes, and general market and industry conditions. The investment banker will also make recommendations on the size of the offering, in consideration of capital required, investor demand, and control over the corporation.
+The day before registration becomes effective and sales begin, the [[Offering|offering]] is priced. The investment banker [[Will|will]] recommend a price for the company's approval, taking into account company performance, pricing of competitive offerings, roadshow outcomes, and general market and industry conditions. The investment banker will also make recommendations on the size of the offering, in consideration of capital required, investor demand, and control over the corporation.
 
 ### 12\. Print
 

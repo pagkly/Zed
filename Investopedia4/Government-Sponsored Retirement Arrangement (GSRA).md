@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/g/gsra.asp
 author: Julia Kagan
 ---
 
-# Government-Sponsored Retirement Arrangement (GSRA) Definition
+# [[Government-Sponsored Retirement Arrangement (GSRA)]] Definition
 
 > ## Excerpt
-> Government-Sponsored Retirement Arrangement (GSRA) is a Canadian retirement plan for individuals who are not government employees but who are paid from public funds.
+> [[Government-Sponsored Retirement Arrangement (GSRA)]] is a Canadian retirement plan for individuals who are not government employees but who are paid from public funds.
 
 ---
 
-Government-Sponsored Retirement Arrangement (GSRA)
-## What Is a Government-Sponsored Retirement Arrangement (GSRA)?
+[[Government-Sponsored Retirement Arrangement (GSRA)]]
+## What Is a [[Government-Sponsored Retirement Arrangement (GSRA)]]?
 
-A Government-Sponsored Retirement Arrangement (GSRA) is a Canadian retirement plan for individuals who are not employees of a local, provincial or federal government body, but who are paid for their services from public funds. This type of retirement plan is not registered with the [[Canadian Revenue Agency]](https://www.investopedia.com/terms/c/ccra.asp) and does not thus qualify for tax-deferred status.
+A [[Government-Sponsored Retirement Arrangement (GSRA)]] is a Canadian retirement plan for individuals who are not employees of a local, provincial or federal government body, but who are paid for their services from public funds. This type of retirement plan is not registered with the [[Canadian Revenue Agency]](https://www.investopedia.com/terms/c/ccra.asp) and does not thus qualify for tax-deferred status.
 
 ## Understanding Government-Sponsored Retirement Arrangements (GSRA)
 
@@ -34,14 +34,14 @@ According to Revenue Canada:
 
 ### Pooled Registered Pension Plans
 
-A Pooled Registered Pension Plan (PRPP) is a retirement savings option for individuals, including self-employed individuals. A PRPP enables its members to benefit from lower administration costs that result from participating in a large, pooled pension plan. It's also portable, so it moves with its members from job to job.
+A Pooled Registered [[Pension Plan]] (PRPP) is a retirement savings option for individuals, including self-employed individuals. A PRPP enables its members to benefit from lower administration costs that result from participating in a large, pooled pension plan. It's also portable, so it moves with its members from job to job.
 
 Since the investment options within a PRPP are similar to those for other registered pension plans, its members can benefit from greater flexibility in managing their savings and meeting their retirement objectives.
 
 ### Registered Disability Savings Plans
 
-A registered disability savings plan (RDSP) is a savings plan that is intended to help parents and others save for the long term financial security of a person who is eligible for the disability tax credit (DTC).
+A registered disability savings plan (RDSP) is a savings plan that is intended to help parents and others save for the [[Long Term|long term]] financial [[Security|security]] of a person who is eligible for the disability tax credit (DTC).
 
 Contributions to an RDSP are not tax-deductible and can be made until the end of the year in which the beneficiary turns 59. Contributions that are withdrawn are not included as income to the beneficiary when they are paid out of an RDSP.
 
-However, the Canada disability savings grant (grant), the Canada disability savings bond (bond), investment income earned in the plan, and the proceeds from rollovers are included in the beneficiary's income for tax purposes when they are paid out of the RDSP," according to Revenue Canada.
+However, the Canada disability savings [[Grant|grant]] (grant), the Canada disability savings bond (bond), investment income earned in the plan, and the proceeds from rollovers are included in the beneficiary's income for tax purposes when they are paid out of the RDSP," according to Revenue Canada.

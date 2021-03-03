@@ -21,7 +21,7 @@ Form 8283: Noncash Charitable Contributions is a tax form distributed by the [[I
 ### Key Takeaways
 
 -   Donated noncash items may require an appraisal in order to determine value.
--   Appraisals are not required in cases such as private stock valued at $10,000 or less, and for intellectual property.
+-   Appraisals are not required in cases such as private [[Stock|stock]] valued at $10,000 or less, and for intellectual property.
 -   This form should not be used for expenses acquired for volunteer or charitable work, or for cash or credit contribution payments or expenses.
 
 ## Who Can File Form 8283: Noncash Charitable Contributions?
@@ -30,17 +30,17 @@ This form is available for individuals, partnerships, and corporations to report
 
 You can list up to five donations to five different organization on Form 8283, and if you had more donations, you can attach as many Form 8283s to your 1040 as you need. 3
 
-This form cannot determine a taxpayer's contribution limits.
+This form cannot determine a [[Taxpayer|taxpayer]]'s contribution limits.
 
 ## How to File Form 8283: Noncash Charitable Contributions
 
-The filer must first fill out their name and identifying number. For corporations, this is the employer identification number. For individuals, it is the Social Security number.
+The filer must first fill out their name and identifying number. For corporations, this is the employer identification number. For individuals, it is the [[Social Security]] number.
 
-The filer will then fill out the following information for each column in Part I of Section A:
+The filer [[Will|will]] then fill out the following information for each column in Part I of Section A:
 
 -   **A**: Name and address of the organization
 -   **B**: Vehicle identification number (VIN), if the property is a vehicle
--   **C**: Property description. If it is a vehicle, the year, make, model, mileage, and general condition must be included. For securities, the name and number of shares must be inputted.
+-   **C**: Property description. If it is a vehicle, the year, make, model, mileage, and general condition must be included. For securities, the name and number of [[Shares|shares]] must be inputted.
 -   **D**: Date of contribution
 -   **E**: Date the property was acquired
 -   **F**: Details on how the property was originally acquired
@@ -48,9 +48,9 @@ The filer will then fill out the following information for each column in Part I
 -   **H**: Fair market value
 -   **I**: How the filer achieved the fair market value2 4
 
-Part II is filled out if there was less than an entire interest in a property listed in the previous section.5
+Part II is filled out if there was less than an entire interest in a property [[Listed|listed]] in the previous section.5
 
-Part I of Section B, which is similar to Part I in Section A, is filled out by the taxpayer and/or the appraiser. The appraiser must also sign a declaration. The recipient must also sign an acknowledgment, and include its name, identification number, address, and a signature from an authorized officer.2 5
+Part I of Section B, which is similar to Part I in Section A, is filled out by the [[Taxpayer|taxpayer]] and/or the appraiser. The appraiser must also sign a declaration. The recipient must also sign an acknowledgment, and include its name, identification number, address, and a signature from an authorized officer.2 5
 
 ## Other Relevant Forms
 

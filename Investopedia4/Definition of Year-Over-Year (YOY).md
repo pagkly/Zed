@@ -2,7 +2,7 @@
 alias: [What Is Year-Over-Year (YOY)?]
 created: 2021-03-03T01:06:05 (UTC +11:00)
 tags: [What Is Year-Over-Year (YOY)?, Definition of Year-Over-Year (YOY)]
-source: https://www.investopedia.com/terms/y/year-over-year.asp
+source: https://www.investopedia.com/terms/[[Y|y]]/year-over-year.asp
 author: Christina Majaski
 ---
 
@@ -13,7 +13,7 @@ author: Christina Majaski
 
 ---
 
-Definition of Year-Over-Year (YOY)
+[[Definition of Year-Over-Year (YOY)]]
 ## What Is Year-Over-Year (YOY)?
 
 Year-Over-Year (YOY) is a frequently used financial comparison for comparing two or more measurable events on an annualized basis.
@@ -40,18 +40,18 @@ For example, in the third quarter of 2017, Barrick Gold Corporation reported a 
 
 ## Reasoning Behind Year-over-Year (YOY)
 
-YOY comparisons are popular when analyzing a company's performance because they help mitigate [[seasonality]](https://www.investopedia.com/terms/s/seasonality.asp), a factor that can influence most businesses. Sales, profits, and other financial metrics change during different periods of the year because most lines of business have a peak season and a low demand season.
+YOY comparisons are popular when analyzing a company's performance because they help mitigate [[seasonality]](https://www.investopedia.com/terms/s/[[Seasonality|seasonality]].asp), a factor that can influence most businesses. Sales, profits, and other financial metrics change during different periods of the year because most lines of business have a peak season and a low demand season.
 
 For example, retailers have a peak demand season during the holiday shopping season, which falls in the fourth quarter of the year. To properly quantify a company's performance, it makes sense to compare revenue and profits year-over-year.
 
-It's important to compare the fourth-quarter performance in one year to the fourth-quarter performance in other years. If an investor looks at a retailer's results in the fourth quarter versus the prior third quarter, it might appear a company is undergoing unprecedented growth when it is seasonality that is influencing the difference in the results.
+It's important to compare the fourth-quarter performance in one year to the fourth-quarter performance in other years. If an investor looks at a retailer's results in the fourth quarter versus the prior third quarter, it might appear a company is undergoing unprecedented growth when it is [[Seasonality|seasonality]] that is influencing the difference in the results.
 
-Similarly, in a comparison of the fourth quarter to the following first quarter, there might appear a dramatic decline when this could also be a result of seasonality.
+Similarly, in a comparison of the fourth quarter to the following first quarter, there might appear a dramatic decline when this could also be a result of [[Seasonality|seasonality]].
 
 YOY also differs from the term "[sequential](https://www.investopedia.com/terms/s/sequential-growth.asp)," which measures one quarter or month to the previous one and allows investors to see linear growth. For instance, the number of cell phones a tech company sold in the fourth quarter compared to the third quarter, or the number of seats an airline filled in January compared to December. 
 
 ## Real World Example
 
-In a [2019 NASDAQ report](https://www.nasdaq.com/article/kellogg-k-q4-earnings-decline-year-over-year-sales-rise-cm1095510), Kellogg Company released mixed results for the fourth quarter of 2018, revealing that its year-over-year earnings continue to decline, even while sales have increased following corporate acquisitions. Kellogg predicts that adjusted earnings will drop by a further 5% to 7% in 2019, as it continues to invest in alternate channels and pack formats.2
+In a [2019 [[Nasdaq|NASDAQ]] report](https://www.nasdaq.com/article/kellogg-k-q4-earnings-decline-year-over-year-sales-rise-cm1095510), Kellogg Company released mixed results for the fourth quarter of 2018, revealing that its year-over-year earnings continue to decline, even while sales have increased following corporate acquisitions. Kellogg predicts that adjusted earnings [[Will|will]] drop by a further 5% to 7% in 2019, as it continues to invest in alternate channels and pack formats.2
 
 The company has also revealed plans to reorganize its North America and Asia-Pacific segments, removing several divisions from its North America segment and reorganizing its Asia-Pacific segment into Kellogg Asia, Middle East, and Africa. Despite decreasing year-over-year earnings, however, the company’s solid presence and responsiveness to consumer consumption trends mean that Kellogg’s overall outlook is favorable.

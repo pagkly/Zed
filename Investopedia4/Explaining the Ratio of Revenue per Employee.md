@@ -3,7 +3,7 @@ alias: [Revenue Per Employee]
 created: 2021-03-02T23:21:05 (UTC +11:00)
 tags: [Revenue Per Employee Definition, Explaining the Ratio of Revenue per Employee]
 source: https://www.investopedia.com/terms/r/revenueperemployee.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Revenue Per Employee Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Explaining the Ratio of Revenue per Employee
+[[Explaining the Ratio of Revenue per Employee]]
 ## What Is Revenue per Employee?
 
 [Revenue](https://www.investopedia.com/terms/r/revenue.asp) per employee—calculated as a company's total revenue divided by its current number of employees—is an important ratio that roughly measures how much money each employee generates for the firm. The revenue-per-employee ratio is most useful when looking at historical changes in a company's own ratio or when comparing it against that of other companies in the same industry as part of a [[fundamental analysis]](https://www.investopedia.com/terms/f/fundamentalanalysis.asp).
@@ -22,15 +22,15 @@ Explaining the Ratio of Revenue per Employee
 
 -   Revenue per employee is an important ratio that roughly measures how much money each employee generates for the company.
 -   To calculate a company's revenue per employee, divide the company's total revenue by its current number of employees.
--   Ideally, a company wants the highest ratio of revenue per employee possible because a higher ratio indicates greater productivity, which often translates to more profits for the company.
+-   Ideally, a company wants the highest ratio of revenue per employee possible because a higher ratio indicates greater [[Productivity|productivity]], which often translates to more profits for the company.
 -   For the revenue-per-employee ratio to be useful, it should be used when comparing and analyzing companies in the same industry.
 -   Other factors that can impact the revenue-per-employee ratio include employee turnover and the age of the company.
 
 ## How Revenue per Employee Works
 
-Revenue per employee is a meaningful analytical tool because it measures how efficiently a particular firm utilizes its employees. Ideally, a company wants the highest ratio of revenue per employee possible because a higher ratio indicates greater [[productivity]](https://www.investopedia.com/terms/p/productivity.asp). Revenue per employee also suggests that a company is using its resources—in this case, its investment in human capital—wisely by developing workers who are very productive. Companies with high revenue-per-employee ratios are often profitable.
+Revenue per employee is a meaningful analytical tool because it measures how efficiently a particular firm utilizes its employees. Ideally, a company wants the highest ratio of revenue per employee possible because a higher ratio indicates greater [[productivity]](https://www.investopedia.com/terms/p/[[Productivity|productivity]].asp). Revenue per employee also suggests that a company is using its resources—in this case, its investment in human capital—wisely by developing workers who are very productive. Companies with high revenue-per-employee ratios are often profitable.
 
-Some analysts use a variation of the revenue per employee ratio. In this ratio, they replace revenue with [[net income]](https://www.investopedia.com/terms/n/netincome.asp). A ratio similar to revenue per employee is [[sales per employee]](https://www.investopedia.com/articles/stocks/04/110304.asp), which is calculated by dividing a company's annual sales by its total employees.
+Some analysts use a variation of the revenue per employee ratio. In this ratio, they replace revenue with [[net income]](https://www.investopedia.com/terms/n/netincome.asp). A ratio similar to revenue per employee is [[sales per employee]](https://www.investopedia.com/articles/[[Stocks|stocks]]/04/110304.asp), which is calculated by dividing a company's annual sales by its total employees.
 
 ## Factors Affecting the Ratio of Revenue per Employee
 
@@ -48,7 +48,7 @@ Employee turnover typically requires a company to interview, hire, and train new
 
 ### The Age of the Company
 
-[Startup companies](https://www.investopedia.com/terms/s/startup.asp) that are hiring to fill key positions might still have relatively small revenue. Such firms tend to have lower revenue-per-employee ratios than more established companies that can leverage hiring for those same key positions over a larger revenue base.
+[Startup companies](https://www.investopedia.com/terms/s/startup.asp) that are hiring to fill key positions might still have relatively small revenue. Such firms tend to have lower revenue-per-employee ratios than more established companies that can [[Leverage|leverage]] hiring for those same key positions over a larger revenue base.
 
 If a growing company needs to take on more help, management would ideally be able to grow its revenue at a faster rate than its labor costs, which often is reflected in steadily rising revenue-per-employee ratios. Ultimately, increased efficiency in managing its revenue per employee should lead to a company's expanding margins and [[improved profitability]](https://www.investopedia.com/ask/answers/012715/what-difference-between-profitability-and-profit.asp).
 
@@ -56,4 +56,4 @@ If a growing company needs to take on more help, management would ideally be abl
 
 Investors interested in calculating a company's revenue per employee can find the required revenue and employee numbers in the company's [[financial statements]](https://www.investopedia.com/terms/f/financial-statements.asp) and annual reports. The ratio itself is easy to calculate and comparing revenue per employee between different companies is a fairly straightforward process. In general, companies with higher revenue-per-employee numbers operate streamlined and efficient organizations, have lower overhead costs, and are more productive than their competitors.
 
-There are several other ratios an investor should also consider when analyzing a company as a potential investment. Investors should review a company's [[profitability ratios]](https://www.investopedia.com/terms/p/profitabilityratios.asp), such as profit margin, return on assets (ROA), and return on equity (ROE).
+There are several other ratios an investor should also consider when analyzing a company as a potential investment. Investors should review a company's [[profitability ratios]](https://www.investopedia.com/terms/p/profitabilityratios.asp), such as [[Profit Margin|profit margin]], [[Return|return]] on assets (ROA), and return on [[Equity|equity]] (ROE).

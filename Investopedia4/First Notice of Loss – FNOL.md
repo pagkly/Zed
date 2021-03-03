@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/f/first-notice-loss-fnol.asp
 author: Jake Frankenfield
 ---
 
-# First Notice of Loss – FNOL Definition
+# [[First Notice of Loss – FNOL]] Definition
 
 > ## Excerpt
 > The First Notice of Loss (FNOL) is the initial report made to an insurance provider following a loss, theft, or damage of an insured asset.
 
 ---
 
-First Notice of Loss – FNOL
+[[First Notice of Loss – FNOL]]
 ## What Is the First Notice of Loss (FNOL)?
 
 The first notice of loss (FONL) is the initial report made to an insurance provider following loss, theft, or damage of an insured asset.
@@ -44,7 +44,7 @@ In the case of auto damage claims, the insured also has to provide information o
 
 In addition to this information provided, the [[claims adjuster]](https://www.investopedia.com/terms/c/claims-adjuster.asp) also uses accounts of the other driver and available witnesses and may visit the scene of the accident to determine fault.
 
-If the policyholder is deemed to be at fault, the insurance company covers the cost of repairs and bodily harm for both parties. The policyholder’s premium cost will also go up if renewing the policy for another term.
+If the policyholder is deemed to be at fault, the insurance company covers the cost of repairs and bodily harm for both parties. The policyholder’s [[Premium|premium]] cost [[Will|will]] also go up if renewing the policy for another term.
 
 ## Outcomes Following the FNOL
 
@@ -66,6 +66,6 @@ This way, the adjuster is confident that the information received is accurate an
 
 ## Special Considerations
 
-Some insurers are relying on the use of [[predictive modeling]](https://www.investopedia.com/terms/p/predictive-modeling.asp) techniques with big data to determine the risk level of a claim and how it should be treated. This analytics tool ensures that less time and fewer mistakes occur during the settlement process. The risk of a fraudulent claim is also analyzed with this technique, preventing the insurer from making any payments to such claims.
+Some insurers are relying on the use of [[predictive modeling]](https://www.investopedia.com/terms/p/predictive-modeling.asp) techniques with big data to determine the [[Risk|risk]] level of a claim and how it should be treated. This analytics tool ensures that less time and fewer mistakes occur during the settlement process. The risk of a fraudulent claim is also analyzed with this technique, preventing the insurer from making any payments to such claims.
 
 Insurance dashboards simplify the claims process for both the insurer and the policyholder, as FNOL can be initiated through the dashboard. Pictures and other important documents with the information required by the adjuster can be uploaded using the dashboard. This saves both parties time and resources in mailing documents (insured) and traveling to the location of the damaged asset to conduct an inspection (insurer).

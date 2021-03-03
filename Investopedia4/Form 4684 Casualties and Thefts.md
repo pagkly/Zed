@@ -9,7 +9,7 @@ author: Christina Majaski
 # Form 4684: Casualties and Thefts Definition
 
 > ## Excerpt
-> Form 4684: Casualties and Thefts is an IRS form to report gains or losses from casualties and theft which may be deductible and reduce taxable income.
+> Form 4684: Casualties and Thefts is an IRS form to report gains or losses from casualties and theft which may be deductible and reduce [[Taxable Income|taxable income]].
 
 ---
 
@@ -28,13 +28,13 @@ Form 4684 is an Internal Revenue Service (IRS) form for reporting gains or loss
 
 Taxpayers reporting gains or losses from a casualty or theft should file Form 4684. Homeowners who received notification of the need to tear down or move a structure after a federally declared disaster may use Form 4684 to claim a loss. These individuals may claim the difference in the home's value, pre- and post-event. However, the owner must receive notification from the building authority within 120 days of the declaration of the disaster area.1 
 
-Casualties and thefts of personal property are only deductible if they can be attributed to a federally declared disaster. The IRS allows an exception to this rule for individuals who have personal casualty gains. In that case, the taxpayer can use casualty and theft losses not attributable to a federally-declared disaster to offset the gains. Taxpayers who live in federally declared disaster areas do not need to itemize deductions to file Form 4684. Taxpayers cannot use Form 4684 to deduct expenses related to personal injuries.
+Casualties and thefts of [[Personal Property|personal property]] are only deductible if they can be attributed to a federally declared disaster. The IRS allows an exception to this rule for individuals who have personal casualty gains. In that case, the [[Taxpayer|taxpayer]] can use casualty and theft losses not attributable to a federally-declared disaster to offset the gains. Taxpayers who live in federally declared disaster areas do not need to itemize deductions to file Form 4684. Taxpayers cannot use Form 4684 to deduct expenses related to personal injuries.
 
 Form 4684 is available on the IRS website.2
 
 In most cases, this form only applies to personal losses, not for casualties and thefts related to the business property.
 
-Once you have determined that your casualties or thefts qualify for a deduction, complete Form 4684 and either attach it to your return or to an amended return for a past claim. To deduct federally declared disaster losses for the preceding tax year, complete Section D of Form 4684.
+Once you have determined that your casualties or thefts qualify for a deduction, complete Form 4684 and either attach it to your [[Return|return]] or to an amended return for a past claim. To deduct federally declared disaster losses for the preceding tax year, complete Section D of Form 4684.
 
 ## Special Considerations When Filing Form 4684
 
@@ -42,9 +42,9 @@ Form 4684 allows the deduction of non-reimbursed losses from specific events. D
 
 Even the loss of deposits in some financial institutions which become bankrupt or insolvent can sometimes qualify as a casualty. There are specific circumstances for the deduction of loss from events such as [[Ponzi schemes]](https://www.investopedia.com/terms/p/ponzischeme.asp). Section C of Form 4684 contains information to complete deductions for such financial losses.
 
-However, damage alone may not qualify as a deductible casualty loss. For example, damage to a home from termite infestation or invasion of molds and fungi is not considered a casualty loss because such destruction is the result of an ongoing process, not a sudden event. Also, a car accident may result in damages, but those losses are not deductible if the taxpayer was willfully negligent in causing it.
+However, damage alone may not qualify as a deductible casualty loss. For example, damage to a home from termite infestation or invasion of molds and fungi is not considered a casualty loss because such destruction is the result of an ongoing process, not a sudden event. Also, a car accident may result in damages, but those losses are not deductible if the [[Taxpayer|taxpayer]] was willfully negligent in causing it.
 
-Theft losses may include incidents of embezzlement and larceny. These losses qualify if the theft is a crime in the state the event occurred and if someone acted with criminal intent. Fraud may be considered theft in certain circumstances. However, if losses are the result of a decline in the price of a company’s stock because of illegal misconduct on the part of company executives, damages may not be deductible. However, these losses can result in a [capital loss](https://www.investopedia.com/terms/c/capitalloss.asp), which can offset a taxpayer’s [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) or reduce taxable income.
+Theft losses may include incidents of embezzlement and larceny. These losses qualify if the theft is a crime in the state the event occurred and if someone acted with criminal intent. Fraud may be considered theft in certain circumstances. However, if losses are the result of a decline in the price of a company’s [[Stock|stock]] because of illegal misconduct on the part of company executives, damages may not be deductible. However, these losses can result in a [capital loss](https://www.investopedia.com/terms/c/capitalloss.asp), which can offset a [[Taxpayer|taxpayer]]’s [[capital gains]](https://www.investopedia.com/terms/c/capitalgain.asp) or reduce [[Taxable Income|taxable income]].
 
 ## Form 4684 and Federal Disaster Areas
 

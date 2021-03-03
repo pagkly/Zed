@@ -3,17 +3,17 @@ alias: [Crowding Out Effect]
 created: 2021-03-02T19:04:55 (UTC +11:00)
 tags: [Crowding Out Effect Definition, Crowding Out Effect Definition]
 source: https://www.investopedia.com/terms/c/crowdingouteffect.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Crowding Out Effect Definition
+# [[Crowding Out Effect Definition]]
 
 > ## Excerpt
 > The crowding out effect is an economic theory arguing that rising public sector spending drives down or even eliminates private sector spending.
 
 ---
 
-Crowding Out Effect Definition
+[[Crowding Out Effect Definition]]
 ## What Is the Crowding Out Effect?
 
 The crowding out effect is an economic theory arguing that rising public sector spending drives down or even eliminates [[private sector]](https://www.investopedia.com/terms/p/private-sector.asp) spending.
@@ -21,7 +21,7 @@ The crowding out effect is an economic theory arguing that rising public sector 
 ### Key Takeaways
 
 -   The crowding out effect suggests rising public sector spending drives down private sector spending.
--   There are three main reasons for the crowding out effect to take place: economics, social welfare, and infrastructure.
+-   There are three main reasons for the crowding out effect to take place: [[Economics|economics]], social welfare, and infrastructure.
 -   Crowding in, on the other hand, suggests government borrowing can actually increase demand.
 
 ## Understanding the Crowding Out Effect
@@ -32,7 +32,7 @@ Companies often fund such projects in part or entirely through [[financing]](htt
 
 Large governments increasing borrowing is the most common form of crowding out, as it forces interest rates higher.
 
-The crowding out effect has been discussed for over a hundred years in various forms. During much of this time, people thought of capital as being finite and confined to individual countries, which was largely the case due to lower volumes of [[international trade]](https://www.investopedia.com/insights/what-is-international-trade/) compared to the present day. In that context, increased [[taxation]](https://www.investopedia.com/terms/t/taxation.asp) for public works projects and public spending could be directly linked to a reduction in the capacity for private spending within a given country, as less money was available.
+The crowding out effect has been discussed for over a hundred years in various forms. During much of this time, people thought of capital as being finite and confined to individual countries, which was largely the case due to lower volumes of [[international trade]](https://www.investopedia.com/insights/what-is-international-trade/) compared to the present day. In that context, increased [[taxation]](https://www.investopedia.com/terms/t/[[Taxation|taxation]].asp) for public works projects and public spending could be directly linked to a reduction in the capacity for private spending within a given country, as less money was available.
 
 ## The Crowding Out Effect vs. Crowding In
 
@@ -52,7 +52,7 @@ If this is the case, however, an economic downswing may occur, reducing revenues
 
 Crowding out may also take place because of [[social welfare]](https://www.investopedia.com/terms/s/social-welfare-system.asp), albeit indirectly. When governments raise taxes in order to introduce or expand welfare programs, individuals and businesses are left with less [[discretionary income]](https://www.investopedia.com/terms/d/discretionaryincome.asp), which can reduce charitable contributions. In this respect, public sector expenditures for social welfare can reduce private-sector giving for social welfare, offsetting the government's spending on those same causes.
 
-Similarly, the creation or expansion of public [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) programs such as Medicaid can prompt those covered by private insurance to switch to the public option. Left with fewer customers and a smaller risk pool, private health insurance companies may have to raise [[premiums]](https://www.investopedia.com/terms/i/insurance-premium.asp), leading to further reductions in private coverage.
+Similarly, the creation or expansion of public [[health insurance]](https://www.investopedia.com/terms/h/healthinsurance.asp) programs such as [[Medicaid]] can prompt those covered by private insurance to switch to the public option. Left with fewer customers and a smaller [[Risk|risk]] pool, private health insurance companies may have to raise [[premiums]](https://www.investopedia.com/terms/i/insurance-[[Premium|premium]].asp), leading to further reductions in private coverage.
 
 ### Infrastructure
 
@@ -60,6 +60,6 @@ Another form of crowding out can occur because of government-funded [infrastruc
 
 ## Crowding Out Effect Example
 
-Suppose a firm has been planning a capital project, with an estimated cost of $5 million and a [[return]](https://www.investopedia.com/terms/r/return.asp) of $6 million, assuming the interest rate on its loans is 3%. The firm anticipates earning $1 million in [[net income]](https://www.investopedia.com/terms/n/netincome.asp) (NI). Due to the shaky state of the economy, however, the government announces a stimulus package that will help businesses in need but will also raise the interest rate on the firm's new loans to 4%.
+Suppose a firm has been planning a capital project, with an estimated cost of $5 million and a [[return]](https://www.investopedia.com/terms/r/[[Return|return]].asp) of $6 million, assuming the interest rate on its loans is 3%. The firm anticipates earning $1 million in [[net income]](https://www.investopedia.com/terms/n/netincome.asp) (NI). Due to the shaky state of the economy, however, the government announces a stimulus package that [[Will|will]] help businesses in need but will also raise the interest rate on the firm's new loans to 4%.
 
-Because the interest rate the firm had factored into its accounting has increased by 33.3%, its profit model shifts wildly and the firm estimates that it will now need to spend $5.75 million on the project in order to make the same $6 million in returns. Its projected earnings have now dropped by 75% to $250,000, so the company decides that it would be better off pursuing other options.
+Because the interest rate the firm had factored into its accounting has increased by 33.3%, its profit model shifts wildly and the firm estimates that it [[Will|will]] now need to spend $5.75 million on the project in order to make the same $6 million in returns. Its projected earnings have now dropped by 75% to $250,000, so the company decides that it would be better off pursuing other options.

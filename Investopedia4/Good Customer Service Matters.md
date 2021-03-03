@@ -3,7 +3,7 @@ alias: [Customer Service]
 created: 2021-03-02T19:07:18 (UTC +11:00)
 tags: [Customer Service Definition, Good Customer Service Matters]
 source: https://www.investopedia.com/terms/c/customer-service.asp
-author: Mitchell Grant
+author: Mitchell [[Grant]]
 ---
 
 # Customer Service Definition
@@ -13,7 +13,7 @@ author: Mitchell Grant
 
 ---
 
-Good Customer Service Matters
+[[Good Customer Service Matters]]
 ## What Is Customer Service?
 
 Customer service is the direct one-on-one interaction between a consumer making a purchase and a representative of the company that is selling it. Most retailers see this direct interaction as a critical factor in ensuring buyer satisfaction and encouraging repeat business.
@@ -52,7 +52,7 @@ Customer service should be a one-stop process for the consumer whenever possible
 
 [Successful small business owners](https://www.investopedia.com/articles/pf/08/make-money-in-business.asp) understand the need for good customer service instinctively. Larger businesses study the subject in-depth, and they have some basic conclusions about the key components:
 
--   Timely attention to issues raised by customers is critical. Requiring a customer to wait in line or sit on hold sours an interaction before it begins.
+-   Timely attention to issues raised by customers is critical. Requiring a customer to wait in line or sit on [[Hold|hold]] sours an interaction before it begins.
 -   Customer service should be a single-step process for the consumer. If a customer calls a helpline, the representative should whenever possible follow the problem through to its resolution.
 -   If a customer must be transferred to another department, the original representative should follow up with the customer to ensure that the problem was solved.
 
@@ -83,7 +83,7 @@ Poor management can doom any customer service operation. A couple of important t
 
 In recent years, studies of customer service have centered on creating the perfect [[online experience]](https://www.investopedia.com/articles/pf/11/benefits-and-drawbacks-of-internet-banks.asp).
 
-The first and most difficult factor is the multiplicity of channels. Today's customers expect to get service through whatever app or device they happen to be using at the moment. That may be a mobile device or a laptop, a social media site, text app, or live chat.
+The first and most difficult factor is the multiplicity of channels. Today's customers expect to get service through whatever app or device they happen to be using at the moment. That may be a mobile device or a laptop, a [[Social Media|social media]] site, text app, or live chat.
 
 Once again, the focus has been on packaging how-to content and related resources that are designed for self-service. Increasingly [[sophisticated data analytics]](https://www.investopedia.com/terms/p/pareto-analysis.asp) also are being used to identify dissatisfied or low-engagement customers.
 

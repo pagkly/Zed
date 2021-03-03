@@ -28,7 +28,7 @@ Once companies choose its fiscal year-end—typically when they are first incorp
 
 ## Understanding Fiscal Year-End
 
-Every year, public companies are required to publish financial statements for review by the Securities and Exchange Commission (SEC). These documents also give investors an update on company performance compared to previous years and provide analysts with a way to understand business operations. Financial statements are published after each company's fiscal year-end, which may vary from company to company.
+Every year, public companies are required to publish financial statements for review by the [[Securities and Exchange Commission (SEC)]]. These documents also give investors an update on company performance compared to previous years and provide analysts with a way to understand business operations. Financial statements are published after each company's fiscal year-end, which may vary from company to company.
 
 ## Fiscal Year-End vs. Calendar Year-End
 

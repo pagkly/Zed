@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/dormant-account.asp
 author: Julia Kagan
 ---
 
-# Dormant Account Definition
+# [[Dormant Account Definition]]
 
 > ## Excerpt
 > A dormant account is an account wherein there has been no financial activity for a long period of time, other than the posting of interest.
 
 ---
 
-Dormant Account Definition
+[[Dormant Account Definition]]
 ## What Is a Dormant Account?
 
 A dormant account is an account that has had no financial activity for a long period of time, except for the posting of interest. Financial institutions are required by state laws to transfer resources held in dormant accounts to the state's treasury after the accounts have been dormant for a certain period of time. The amount of time varies depending on the state.
@@ -42,4 +42,4 @@ States have enacted [[escheatment]](https://www.investopedia.com/terms/e/escheat
 
 Escheatment state laws require companies to transfer unclaimed property from dormant accounts to the general fund of a state for safekeeping. The state takes over record-keeping and the returning of lost or forgotten property to owners or their heirs if the owner has passed away.
 
-Owners can gain back unclaimed property by filing an application with their state at no cost or for a nominal handling fee. Because the state keeps custody of the unclaimed property in perpetuity, owners can claim their property at any time.
+Owners can [[Gain|gain]] back unclaimed property by filing an application with their state at no cost or for a nominal handling fee. Because the state keeps custody of the unclaimed property in [[Perpetuity|perpetuity]], owners can claim their property at any time.

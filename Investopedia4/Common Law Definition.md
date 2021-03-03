@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/c/common-law.asp
 author: Troy Segal
 ---
 
-# Common Law Definition
+# [[Common Law Definition]]
 
 > ## Excerpt
-> Common law is a body of unwritten laws based on legal precedents and will often guide court judgments and rulings when the outcome cannot be determined based on existing statutes or written rules of law.
+> Common law is a body of unwritten laws based on legal precedents and [[Will|will]] often guide court judgments and rulings when the outcome cannot be determined based on existing statutes or written rules of law.
 
 ---
 
-Common Law Definition
+[[Common Law Definition]]
 ## What Is Common Law?
 
 Common law is a body of unwritten laws based on legal precedents established by the courts. Common law influences the decision-making process in unusual cases where the outcome cannot be determined based on existing statutes or written rules of law. The U.S. common-law system evolved from a British tradition that spread to North America during the 17th- and 18th-century colonial period. Common law is also practiced in Australia, Canada, Hong Kong, India, New Zealand, and the United Kingdom.
@@ -74,4 +74,4 @@ US common law originates from medieval England, however, today both the US and U
 
 ## The Bottom Line
 
-Although common law is derived from its original appearance in medieval England, it is still very much in effect in the US and elsewhere today. As the evolution of technology and its presence in our lives continues to grow, common law's ability to leave the legal code open for interpretation will become increasingly important.
+Although common law is derived from its original appearance in medieval England, it is still very much in effect in the US and elsewhere today. As the evolution of technology and its presence in our lives continues to grow, common law's ability to leave the legal code open for interpretation [[Will|will]] become increasingly important.

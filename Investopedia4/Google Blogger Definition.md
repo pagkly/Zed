@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/google-blogger.asp
 author: James Chen
 ---
 
-# Google Blogger Definition
+# [[Google Blogger Definition]]
 
 > ## Excerpt
 > Google Blogger is a free, easy-to-use publishing platform run by Google.
 
 ---
 
-Google Blogger Definition
+[[Google Blogger Definition]]
 ## What Is Google Blogger?
 
 Google Blogger is a free, blog-publishing service hosted by Google. It was developed by Pyra Labs and purchased by Google in 2003. The blogs are generally accessed from the subdomain of "blogspot.com."
@@ -42,4 +42,4 @@ Although there are blogging tools with more complex and sophisticated features a
 
 When Blogger was first started by Pyra Labs in 1999, it was one of the first blog-publishing tools on the Internet. It was founded by Evan Williams, one of the co-founders of Twitter, and Meg Hourihan, one of the co-founders of Kinja. The company has been credited with helping to popularize the blog format of sharing content on the Internet.
 
-Google acquired Blogger in 2003 when it purchased Pyra Labs for an undisclosed amount of money. After the acquisition, the CMS underwent a major redesign in 2004 and some of Blogger's premium services became free.
+Google acquired Blogger in 2003 when it purchased Pyra Labs for an undisclosed amount of money. After the acquisition, the CMS underwent a major redesign in 2004 and some of Blogger's [[Premium|premium]] services became free.

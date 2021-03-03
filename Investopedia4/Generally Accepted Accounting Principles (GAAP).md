@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/g/gaap.asp
 author: Jason Fernando
 ---
 
-# Generally Accepted Accounting Principles (GAAP) Definition
+# [[Generally Accepted Accounting Principles (GAAP)]] Definition
 
 > ## Excerpt
 > GAAP is a common set of accounting principles, standards, and procedures that public companies in the U.S. must follow when they compile their financial statements.
 
 ---
 
-Generally Accepted Accounting Principles (GAAP)
+[[Generally Accepted Accounting Principles (GAAP)]]
 ## What are Generally Accepted Accounting Principles?
 
 Generally accepted [[accounting principles]](https://www.investopedia.com/terms/a/accounting-principles.asp) (GAAP) refer to a common set of accounting principles, standards, and procedures issued by the [[Financial Accounting Standards Board]](https://www.investopedia.com/terms/f/fasb.asp) (FASB). Public companies in the United States must follow GAAP when their accountants compile their financial statements. GAAP is a combination of authoritative standards (set by policy boards) and the commonly accepted ways of recording and reporting accounting information. GAAP aims to improve the clarity, consistency, and comparability of the communication of financial information.
 
-GAAP may be contrasted with [[pro forma]](https://www.investopedia.com/terms/p/proforma.asp) accounting, which is a [[non-GAAP]](https://www.investopedia.com/terms/n/non-gaap-earnings.asp) financial reporting method. Internationally, the equivalent to GAAP in the United States is referred to as [[International Financial Reporting Standards]](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS). IFRS is followed in over 120 countries, including those in the European Union (EU).1
+GAAP may be contrasted with [[pro forma]](https://www.investopedia.com/terms/p/proforma.asp) accounting, which is a [[non-GAAP]](https://www.investopedia.com/terms/n/non-gaap-earnings.asp) financial reporting method. Internationally, the equivalent to GAAP in the United States is referred to as [[International Financial Reporting Standards]](https://www.investopedia.com/terms/i/ifrs.asp) (IFRS). IFRS is followed in over 120 countries, including those in the [[European Union (EU)]].1
 
 ## Understanding GAAP
 
@@ -46,15 +46,15 @@ The procedures used in financial reporting should be consistent, allowing compar
 
 **5.) Principle of Non-Compensation**
 
-Both negatives and positives should be reported with full transparency and without the expectation of debt compensation.
+Both negatives and positives should be reported with full transparency and without the expectation of [[Debt|debt]] compensation.
 
 **6.) Principle of Prudence**
 
-Emphasizing fact-based financial data representation that is not clouded by speculation.
+Emphasizing fact-based financial data representation that is not clouded by [[Speculation|speculation]].
 
 **7.) Principle of Continuity**
 
-While valuing assets, it should be assumed the business will continue to operate.
+While valuing assets, it should be assumed the business [[Will|will]] continue to operate.
 
 **8.) Principle of Periodicity**
 
@@ -70,24 +70,24 @@ Derived from the Latin phrase “uberrimae fidei” used within the insurance in
 
 ## Compliance with GAAP
 
-If a corporation's stock is [[publicly traded]](https://www.investopedia.com/terms/p/publiccompany.asp), its financial statements must adhere to rules established by the U.S. [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). The SEC requires that publicly traded companies in the U.S. regularly file GAAP-compliant financial statements in order to remain publicly listed on the stock exchanges.2 GAAP compliance is ensured through an appropriate [[auditor's opinion]](https://www.investopedia.com/terms/a/auditors-opinion.asp), resulting from an external audit by a [[certified public accounting]](https://www.investopedia.com/terms/c/cpa.asp) (CPA) firm.
+If a corporation's [[Stock|stock]] is [[publicly traded]](https://www.investopedia.com/terms/p/publiccompany.asp), its financial statements must adhere to rules established by the U.S. [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). The SEC requires that publicly traded companies in the U.S. regularly file GAAP-compliant financial statements in order to remain publicly [[Listed|listed]] on the stock exchanges.2 GAAP compliance is ensured through an appropriate [[auditor's opinion]](https://www.investopedia.com/terms/a/auditors-opinion.asp), resulting from an external audit by a [[certified public accounting]](https://www.investopedia.com/terms/c/cpa.asp) (CPA) firm.
 
-Although it is not required for non-publicly traded companies, GAAP is viewed favorably by lenders and creditors. Most financial institutions will require annual GAAP compliant financial statements as a part of their debt [[covenants]](https://www.investopedia.com/terms/c/covenant.asp) when issuing business loans. As a result, most companies in the United States do follow GAAP.
+Although it is not required for non-publicly traded companies, GAAP is viewed favorably by lenders and creditors. Most financial institutions [[Will|will]] require annual GAAP compliant financial statements as a part of their [[Debt|debt]] [[covenants]](https://www.investopedia.com/terms/c/covenant.asp) when issuing business loans. As a result, most companies in the United States do follow GAAP.
 
 If a financial statement is not prepared using GAAP, investors should be cautious. Without GAAP, comparing financial statements of different companies would be extremely difficult, even within the same industry, making an apples-to-apples comparison hard. Some companies may report both GAAP and non-GAAP measures when reporting their financial results. GAAP regulations require that non-GAAP measures be identified in financial statements and other public disclosures, such as press releases.
 
 The [[hierarchy of GAAP]](https://www.investopedia.com/terms/h/hierarchy-of-gaap.asp) is designed to improve financial reporting. It consists of a framework for selecting the principles that public accountants should use in preparing financial statements in line with U.S. GAAP. The hierarchy is broken down as follows:
 
--   Statements by the Financial Accounting Standards Board (FASB) and Accounting Research Bulletins and Accounting Principles Board opinions by the [[American Institute of Certified Public Accountants]](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA)
+-   Statements by the [[Financial Accounting Standards Board (FASB)]] and Accounting Research Bulletins and Accounting Principles Board opinions by the [[American Institute of Certified Public Accountants]](https://www.investopedia.com/terms/a/american-institute-of-certified-public-accountants.asp) (AICPA)
 -   FASB Technical Bulletins and AICPA Industry Audit and Accounting Guides and Statements of Position
 -   AICPA Accounting Standards Executive Committee Practice Bulletins, positions of the FASB Emerging Issues Task Force (EITF), and topics discussed in Appendix D of EITF Abstracts
 -   FASB implementation guides, AICPA Accounting Interpretations, AICPA Industry Audit and Accounting Guides, Statements of Position not cleared by the FASB, and accounting practices that are widely accepted and followed
 
-[Accountants](https://www.investopedia.com/terms/a/accountant.asp) are directed to first consult sources at the top of the hierarchy and then proceed to lower levels only if there is no relevant pronouncement at a higher level. The FASB's Statement of Financial Accounting Standards No. 162 provides a detailed explanation of the hierarchy.3
+[Accountants](https://www.investopedia.com/terms/a/accountant.asp) are directed to first consult sources at the top of the hierarchy and then proceed to lower levels only if there is no relevant pronouncement at a higher level. The FASB's Statement of [[Financial Accounting]] Standards No. 162 provides a detailed explanation of the hierarchy.3
 
 ## GAAP vs. IFRS
 
-GAAP is focused on the accounting and financial reporting of U.S. companies. The Financial Accounting Standards Board (FASB), an independent nonprofit organization, is responsible for establishing these accounting and financial reporting standards.4 The international alternative to GAAP is the International Financial Reporting Standards (IFRS), set by the [[International Accounting Standards Board]](https://www.investopedia.com/terms/i/ias.asp) (IASB).5
+GAAP is focused on the accounting and financial reporting of U.S. companies. The [[Financial Accounting Standards Board (FASB)]], an independent nonprofit organization, is responsible for establishing these accounting and financial reporting standards.4 The international alternative to GAAP is the International Financial Reporting Standards (IFRS), set by the [[International Accounting Standards Board]](https://www.investopedia.com/terms/i/ias.asp) (IASB).5
 
 The IASB and the FASB have been working on the convergence of [[IFRS and GAAP]](https://www.investopedia.com/ask/answers/09/ifrs-gaap.asp) since 2002.6 Due to the progress achieved in this partnership, the SEC, in 2007, removed the requirement for non-U.S. companies registered in America to reconcile their financial reports with GAAP if their accounts already complied with IFRS.7 This was a big achievement, because prior to the ruling, non-U.S. companies trading on U.S. exchanges had to provide GAAP-compliant financial statements.
 
@@ -107,13 +107,13 @@ GAAP is only a set of standards. Although these principles work to improve the t
 
 ## Frequently Asked Questions
 
-### Where are Generally Accepted Accounting Principles (GAAP) Used?
+### Where are [[Generally Accepted Accounting Principles (GAAP)]] Used?
 
-GAAP is a set of procedures and guidelines used by companies to prepare their financial statements and other accounting disclosures. The standards are prepared by the Financial Accounting Standards Board (FASB), which is an independent non-profit organization. The purpose of GAAP standards is to help ensure that the financial information provided to investors and regulators are accurate, reliable, and consistent with one-another.
+GAAP is a set of procedures and guidelines used by companies to prepare their financial statements and other accounting disclosures. The standards are prepared by the [[Financial Accounting Standards Board (FASB)]], which is an independent non-profit organization. The purpose of GAAP standards is to help ensure that the financial information provided to investors and regulators are accurate, reliable, and consistent with one-another.
 
 ### Why is GAAP important?
 
-GAAP is important because it helps maintain trust in the financial markets. If not for GAAP, investors would be more reluctant to trust the information presented to them by companies because they would have less confidence in its integrity. Without that trust, we might see fewer transactions, potentially leading to higher transaction costs and a less robust economy. GAAP also helps investors analyze companies by making it easier to perform “apples to apples” comparisons between one company and another.
+GAAP is important because it helps maintain trust in the financial markets. If not for GAAP, investors would be more reluctant to trust the information presented to them by companies because they would have less confidence in its integrity. Without that trust, we might see fewer transactions, potentially leading to higher [[Transaction Costs|transaction costs]] and a less [[Robust|robust]] economy. GAAP also helps investors analyze companies by making it easier to perform “apples to apples” comparisons between one company and another.
 
 ### What are non-GAAP measures?
 

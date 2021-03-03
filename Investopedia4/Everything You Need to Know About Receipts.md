@@ -3,7 +3,7 @@ alias: [Receipt]
 created: 2021-03-02T23:09:59 (UTC +11:00)
 tags: [Receipt Definition, Everything You Need to Know About Receipts]
 source: https://www.investopedia.com/terms/r/receipt.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Receipt Definition
@@ -13,10 +13,10 @@ author: Will Kenton
 
 ---
 
-Everything You Need to Know About Receipts
+[[Everything You Need to Know About Receipts]]
 ## What Is a Receipt?
 
-A receipt is a written acknowledgment that something of value has been transferred from one party to another. In addition to the receipts consumers typically receive from vendors and service providers, receipts are also issued in business-to-business dealings as well as stock market transactions. For example, the holder of a futures contract is generally given a [[delivery instrument]](https://www.investopedia.com/terms/d/deliveryinstrument.asp), which acts as a receipt in that it can be exchanged for the underlying asset when the futures contract expires.
+A receipt is a written acknowledgment that something of value has been transferred from one party to another. In addition to the receipts consumers typically receive from vendors and service providers, receipts are also issued in business-to-business dealings as well as [[Stock|stock]] market transactions. For example, the holder of a [[Futures|futures]] contract is generally given a [[delivery instrument]](https://www.investopedia.com/terms/d/deliveryinstrument.asp), which acts as a receipt in that it can be exchanged for the [[Underlying|underlying]] asset when the futures contract expires.
 
 ### Fast Fact
 
@@ -24,26 +24,26 @@ Thermal printing is the most commonly used form of physical receipt printing bec
 
 ## Receipts Explained
 
-In addition to showing ownership, receipts are important for other reasons. For instance, many retailers insist that a customer must show a receipt to exchange or return items while others demand that a receipt—generally issued within a certain timeframe—be produced for product [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) purposes. Receipts can also be important for taxes because the IRS requires documentation of certain expenses. The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) suggests that the following [[types of receipts]](https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep) if generated, be retained by small businesses:
+In addition to showing ownership, receipts are important for other reasons. For instance, many retailers insist that a customer must show a receipt to exchange or [[Return|return]] items while others demand that a receipt—generally issued within a certain timeframe—be produced for product [[warranty]](https://www.investopedia.com/terms/w/warranty.asp) purposes. Receipts can also be important for taxes because the IRS requires documentation of certain expenses. The [[Internal Revenue Service]](https://www.investopedia.com/terms/i/irs.asp) (IRS) suggests that the following [[types of receipts]](https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep) if generated, be retained by small businesses:
 
 -   Gross receipts such as cash register tapes, deposit information (cash and credit sales), receipt books, invoices, forms 1099-MISC
--   Receipts from purchases and raw materials (These should show the amount paid and confirm that they were necessary business purchases; documents could include canceled checks or other documents that identify the payee, amount, and proof of payment/electronic fund transfers.)
+-   Receipts from purchases and raw materials (These should show the amount paid and confirm that they were necessary business purchases; documents could include canceled checks or other documents that identify the [[Payee|payee]], amount, and proof of payment/electronic fund transfers.)
 -   Cash register tape receipts
 -   Credit card receipts and statements
 -   Invoices
--   Petty cash slips for small cash payments
+-   [[Petty Cash|Petty cash]] slips for small cash payments
 
 The practice of retaining receipts for tax purposes is thought to originate from ancient Egypt. Farmers and merchants sought ways to document transactions to avoid tax exploitation. Papyrus was used instead of paper. In more modern times, London banks used the printing presses of the industrial revolution to print receipts with their own brands.
 
 ### Key Takeaways
 
 -   Receipts are a document that represents proof of a financial transaction.
--   Receipts are issued in business-to-business dealings as well as stock market transactions.
+-   Receipts are issued in business-to-business dealings as well as [[Stock|stock]] market transactions.
 -   Receipts are also necessary for tax purposes as proof of certain expenses.
 
 ## IRS Requirements for Digital Receipts
 
-Digital receipts are becoming the norm. Since 1997, the IRS has accepted scanned and digital receipts as valid records for tax purposes. Revenue [[Procedure 97-22]](https://www.irs.gov/pub/irs-tege/rp-97-22.pdf) states that digital receipts must be accurate, easily stored, preserved, retrieved, and reproduced. The business owner must be able to supply a copy to the IRS.
+Digital receipts are becoming the norm. Since 1997, the IRS has accepted scanned and digital receipts as valid records for tax purposes. Revenue [[Procedure 97-22]](https://www.irs.gov/pub/irs-tege/rp-97-22.pdf) states that digital receipts must be accurate, easily stored, preserved, retrieved, and reproduced. The business owner must be able to [[Supply|supply]] a copy to the IRS.
 
 For tax audit purposes, not all documentation is valid. The IRS accepts various documentation as long as it details the amount, place, date, and type of expense. 
 

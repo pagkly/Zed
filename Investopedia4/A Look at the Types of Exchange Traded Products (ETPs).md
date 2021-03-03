@@ -40,7 +40,7 @@ The popularity surrounding ETFs stems from their low fees since they are passive
 
 [Exchange-traded notes](https://www.investopedia.com/terms/e/etn.asp) (ETNs), like ETFs, also track an [[Underlying|underlying]] index of securities and trade on major exchanges. However, ETNs are baskets of [[Unsecured|unsecured]] [[Debt|debt]] securities. The ETN pays investors the [[Return|return]] received from the index they track at the maturity date, less any fees or commissions.
 
-ETNs are similar to bonds in that investors receive the [[Return|return]] of their original invested amount—the principal—at maturity. However, the ETN does not pay periodic interest payments. Also, investors who buy ETNs do not own any of the securities in the index they track. As a result, the likelihood that investors [[Will|will]] be paid back the [[Principal|principal]] and the returns from the [[Underlying|underlying]] index is dependent on the [[Creditworthiness|creditworthiness]] of the issuer.
+ETNs are similar to bonds in that investors receive the [[Return|return]] of their original invested amount—the [[Principal|principal]]—at maturity. However, the ETN does not pay periodic interest payments. Also, investors who buy ETNs do not own any of the securities in the index they track. As a result, the likelihood that investors [[Will|will]] be paid back the principal and the returns from the [[Underlying|underlying]] index is dependent on the [[Creditworthiness|creditworthiness]] of the issuer.
 
 Different tax treatments apply to the various types of ETPs. Investors should speak with a tax professional for any potential tax ramifications from investing in ETPs.
 

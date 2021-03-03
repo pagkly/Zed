@@ -3,17 +3,17 @@ alias: [Definiton Dun & Bradstreet, D&B]
 created: 2021-03-02T19:26:48 (UTC +11:00)
 tags: [Definiton Dun & Bradstreet (D&B), Definiton Dun & Bradstreet (D&B)]
 source: https://www.investopedia.com/terms/d/dandb.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Definiton Dun & Bradstreet (D&B)
+# [[Definiton Dun & Bradstreet (D&B)]]
 
 > ## Excerpt
 > Dun & Bradstreet is a corporation that offers information on commercial credit as well as reports on businesses.
 
 ---
 
-Definiton Dun & Bradstreet (D&B)
+[[Definiton Dun & Bradstreet (D&B)]]
 ## What Is Dun & Bradstreet (D&B)?
 
 Dun & Bradstreet is a corporation that offers information on [[commercial credit]](https://www.investopedia.com/terms/c/commercial-credit.asp) as well as reports on businesses. Most notably, Dun & Bradstreet is recognizable for its Data Universal Numbering System ([DUNS numbers](https://www.investopedia.com/terms/d/dunsnumber.asp)); these generate business information reports for more than 100 million companies around the globe. Dun & Bradstreet was established as the result of a [[merger]](https://www.investopedia.com/terms/m/merger.asp) in the 1930s between R.G. Dun & Co. and the Bradstreet Cos.
@@ -28,7 +28,7 @@ Dun & Bradstreet is a corporation that offers information on [[commercial credit
 
 Dun & Bradstreet has been a foundation for the way businesses function for more than 160 years. The company’s revolutionary DUNS numbers are intricately linked to the categorization of businesses around the world. Dun & Bradstreet offers a number of other products and services and has continued to expand since its founding.
 
-In 2019, Dun & Bradstreet was purchased from the public and became a privately held company. It's stock ticker, DNB, was retired.
+In 2019, Dun & Bradstreet was purchased from the public and became a privately held company. It's [[Stock|stock]] ticker, DNB, was retired.
 
 As of early 2020, it was a global operator with more than 200 offices globally, including Europe and Latin America. While the majority of Dun & Bradstreet’s products remain in print, the technological age has pushed the company’s products and services onto the internet and beyond.
 

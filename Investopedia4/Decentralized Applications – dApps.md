@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/decentralized-applications-dapps.as
 author: Jake Frankenfield
 ---
 
-# Decentralized Applications – dApps Definition
+# [[Decentralized Applications – dApps]] Definition
 
 > ## Excerpt
 > Decentralized applications (or dApps) are digital applications or programs that run on a blockchain or P2P network of computers instead of a single computer, and are outside the purview and control of a single authority.
 
 ---
 
-Decentralized Applications – dApps
+[[Decentralized Applications – dApps]]
 ## What Are Decentralized Applications?
 
 Decentralized applications (dApps) are digital applications or programs that exist and run on a [[blockchain]](https://www.investopedia.com/terms/b/blockchain.asp) or P2P network of computers instead of a single computer, and are outside the purview and control of a single authority.
@@ -24,6 +24,6 @@ A standard web app, such as Uber or Twitter, runs on a computer system which is
 
 DApps can run on a P2P network or a blockchain network. For example, BitTorrent, [[Tor]](https://www.investopedia.com/terms/t/tor.asp) and Popcorn Time are applications that run on computers that are part of a P2P network, whereby multiple participants are consuming content, feeding or seeding content, or simultaneously performing both functions.
 
-In the context of [[cryptocurrencies]](https://www.investopedia.com/terms/c/cryptocurrency.asp), dApps run on a blockchain network in a public, [[open source]](https://www.investopedia.com/terms/o/open-source.asp), decentralized environment and are free from control and interference by any single authority.
+In the context of [[cryptocurrencies]](https://www.investopedia.com/terms/c/[[Cryptocurrency|cryptocurrency]].asp), dApps run on a blockchain network in a public, [[open source]](https://www.investopedia.com/terms/o/open-source.asp), decentralized environment and are free from control and interference by any single authority.
 
 For example, a developer can create a Twitter-like dApp and put it on a blockchain where any user can publish messages. Once posted, no one_—_including the app creators_—_can delete the messages.

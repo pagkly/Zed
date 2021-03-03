@@ -3,7 +3,7 @@ alias: [Chief Financial Officer, CFO]
 created: 2021-03-02T18:51:36 (UTC +11:00)
 tags: [Chief Financial Officer (CFO) Definition, Chief Financial Officers: An Inside Look]
 source: https://www.investopedia.com/terms/c/cfo.asp
-author: Mitchell Grant
+author: Mitchell [[Grant]]
 ---
 
 # Chief Financial Officer (CFO) Definition
@@ -18,16 +18,16 @@ Chief Financial Officers: An Inside Look
 
 A chief financial officer (CFO) is the senior executive responsible for managing the financial actions of a company. The CFO's duties include tracking [[cash flow]](https://www.investopedia.com/terms/c/cashflow.asp) and [[financial planning]](https://www.investopedia.com/terms/f/financial-planning-association.asp) as well as analyzing the company's financial strengths and weaknesses and proposing corrective actions.
 
-The role of a CFO is similar to a treasurer or [[controller]](https://www.investopedia.com/articles/professionals/011416/controller-job-description-average-salary.asp) because they are responsible for managing the finance and accounting divisions and for ensuring that the company’s financial reports are accurate and completed in a timely manner. Many have a [[CMA designation]](https://www.investopedia.com/articles/professionals/052913/cma-designation-worth-it.asp).
+The role of a CFO is similar to a treasurer or [[controller]](https://www.investopedia.com/articles/professionals/011416/controller-job-description-average-salary.asp) because they are responsible for managing the [[Finance|finance]] and accounting divisions and for ensuring that the company’s financial reports are accurate and completed in a timely manner. Many have a [[CMA designation]](https://www.investopedia.com/articles/professionals/052913/cma-designation-worth-it.asp).
 
 #### Understanding Corporate Structure
 
 ### Key Takeaways
 
--   The chief financial officer of a company is the top-level financial controller, handling everything relating to cash flow and financial planning.
+-   The chief financial officer of a company is the top-level financial controller, handling everything relating to [[Cash Flow|cash flow]] and financial planning.
 -   The meaning of CFO is simply the initials that stand for the title chief financial officer.
 -   Although the role of a CFO can be rewarding, there are legal considerations that must be strictly adhered to.
--   CFOs oversee taxation issues for their companies.
+-   CFOs oversee [[Taxation|taxation]] issues for their companies.
 -   Often, a CFO is the third-highest position in a company, playing a vital role in the company's strategic initiatives.
 
 ## How Chief Financial Officers Work
@@ -52,18 +52,18 @@ The CFO must report accurate information because many decisions are based on the
 
 CFOs must also adhere to regulations such as the Sarbanes-Oxley Act that include provisions such as fraud prevention and disclosing financial information.
 
-Local, state, and federal governments hire CFOs to oversee taxation issues. Typically, the CFO is the liaison between local residents and elected officials on accounting and other spending matters. The CFO sets financial policy and is responsible for managing government funds.
+Local, state, and federal governments hire CFOs to oversee [[Taxation|taxation]] issues. Typically, the CFO is the liaison between local residents and elected officials on accounting and other spending matters. The CFO sets financial policy and is responsible for managing government funds.
 
 ## Frequently Asked Questions
 
 ### What is a Chief Financial Officer (CFO)?
 
-A Chief Financial Officer (CFO) is a type of senior corporate executive who is responsible for the overall planning and management of a company’s financial affairs. Typical responsibilities for a CFO include developing the company’s budget, communicating with the company’s banking and insurance partners, and advising other executives on strategic matters relating to company finances. Oftentimes, the CFO will also be responsible for leading new investment initiatives, such as deciding on whether to proceed with new acquisitions or [[capital expenditures (CapEx)]](https://www.investopedia.com/terms/c/capitalexpenditure.asp).
+A Chief Financial Officer (CFO) is a type of senior corporate executive who is responsible for the overall planning and management of a company’s financial affairs. Typical responsibilities for a CFO include developing the company’s budget, communicating with the company’s banking and insurance partners, and advising other executives on strategic matters relating to company finances. Oftentimes, the CFO [[Will|will]] also be responsible for leading new investment initiatives, such as deciding on whether to proceed with new acquisitions or [[capital expenditures (CapEx)]](https://www.investopedia.com/terms/c/capitalexpenditure.asp).
 
 ### How do you become a CFO?
 
-Generally speaking, the CFO position is reserved for very experienced professionals with established track records in their field. CFOs are generally equipped with advanced educational designations, such as a [[Master of Finance]](https://www.investopedia.com/articles/personal-finance/030415/finance-vs-economics-masters-vs-mba.asp) or [[Chartered Financial Analyst (CFA)]](https://www.investopedia.com/terms/c/cfa.asp) designation. Many CFOs will have professional backgrounds in fields such as accounting, investment banking, or financial analysis. For financial professionals, the CFO is among the most prestigious and highly-paid positions available in a firm.
+Generally speaking, the CFO position is reserved for very experienced professionals with established track records in their field. CFOs are generally equipped with advanced educational designations, such as a [[Master of Finance]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/030415/finance-vs-[[Economics|economics]]-masters-vs-mba.asp) or [[Chartered Financial Analyst (CFA)]](https://www.investopedia.com/terms/c/cfa.asp) designation. Many CFOs [[Will|will]] have professional backgrounds in fields such as accounting, investment banking, or financial analysis. For financial professionals, the CFO is among the most prestigious and highly-paid positions available in a firm.
 
 ### How does the CFO relate to other senior executive roles?
 
-CFOs are required to work closely with the other senior executives of a company, such as the [[Chief Executive Officer (CEO)]](https://www.investopedia.com/terms/c/ceo.asp) and [[Chief Operations Officer (COO)]](https://www.investopedia.com/terms/c/coo.asp). These executives are sometimes referred to as the “C-Suite” of the company, representing the company’s highest level of decision-making. Although the CFO is typically subordinate to the CEO in the corporate hierarchy, CFOs will generally be the foremost decision-maker on all matters within the Finance department of their firm.
+CFOs are required to work closely with the other senior executives of a company, such as the [[Chief Executive Officer (CEO)]](https://www.investopedia.com/terms/c/ceo.asp) and [[Chief Operations Officer (COO)]](https://www.investopedia.com/terms/c/coo.asp). These executives are sometimes referred to as the “C-Suite” of the company, representing the company’s highest level of decision-making. Although the CFO is typically subordinate to the CEO in the corporate hierarchy, CFOs [[Will|will]] generally be the foremost decision-maker on all matters within the [[Finance]] department of their firm.

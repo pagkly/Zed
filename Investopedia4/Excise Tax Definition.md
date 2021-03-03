@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/excisetax.asp
 author: Julia Kagan
 ---
 
-# Excise Tax Definition
+# [[Excise Tax Definition]]
 
 > ## Excerpt
 > An excise tax is an indirect tax charged by the government on the sale of a particular good or service.
 
 ---
 
-Excise Tax Definition
+[[Excise Tax Definition]]
 ## What Is an Excise Tax?
 
 An excise tax is a legislated [[tax]](https://www.investopedia.com/terms/i/indirecttax.asp) on specific goods or services at purchase such as fuel, tobacco, and alcohol. Excise taxes are intranational taxes imposed within a government infrastructure rather than international taxes imposed across country borders. A federal excise tax is usually collected from motor fuel sales, airline tickets, tobacco, and other goods and services.1
@@ -31,7 +31,7 @@ Excise taxes are primarily for businesses. Consumers may or may not see the cost
 
 Federal, state, and local governments have the authority to institute excise taxes. While income tax is the primary revenue generator for federal and state governments, excise tax revenue also makes up a small portion of total revenue.
 
-Excise taxes are primarily a business tax, separate from other taxes a business must pay, like income taxes. Businesses charging and receiving excise taxes are required to file Form 720 Federal Excise Tax Return on a quarterly basis and include quarterly payments.3 Business collectors of excise taxes must also maintain their obligations for passing on excise taxes to state and local governments as required. Merchants may be allowed deductions or credits on their annual income tax returns related to excise tax payments.4
+Excise taxes are primarily a business tax, separate from other taxes a business must pay, like income taxes. Businesses charging and receiving excise taxes are required to file Form 720 Federal Excise [[Tax Return]] on a quarterly basis and include quarterly payments.3 Business collectors of excise taxes must also maintain their obligations for passing on excise taxes to state and local governments as required. Merchants may be allowed deductions or credits on their annual income tax returns related to excise tax payments.4
 
 Excise taxes can fall into one of two categories: ad valorem and specific. Ad valorem excise taxes are fixed percentage rates assessed on particular [goods](https://www.investopedia.com/terms/c/consumer-goods.asp) or services. Specific taxes are fixed dollar amounts applied to certain purchases. In some cases, governments levy excise taxes on goods that have a high social cost, such as cigarettes and alcohol, and for this reason, these taxes are sometimes called [sin taxes](https://www.investopedia.com/terms/s/sin_tax.asp). Overall, the largest revenue-producing excise taxes in the U.S. come from motor fuel, airline tickets, tobacco, alcohol, health-related goods, and health-related services.2
 
@@ -49,7 +49,7 @@ Ad valorem is a Latin phrase that literally means "according to value." An ad va
 
 Specific excise taxes are a set tax or fee added to a certain product on a per-unit basis. Some examples of federal, specific excise taxes include [[cigarettes]](https://www.investopedia.com/articles/markets/042215/how-altria-mo-makes-its-money.asp) ($1.01 per pack of 20), pipe tobacco ($2.83 per pound), beer ($7 for the first 60,000 barrels), cruise ship passengers ($3 per passenger), and gasoline ($0.183 per gallon).5
 
-Often sin taxes on targeted goods like beer and alcohol will be taxed at the federal level and also taxed heavily by the state, making the cost of these items higher. For example, New York has a specific excise tax of $4.35 per cigarette pack of 20.6 Combining this with the federal tax of $1.01 makes the excise taxes alone $5.36. These taxes have a considerable impact on the consumer.
+Often sin taxes on targeted goods like beer and alcohol [[Will|will]] be taxed at the federal level and also taxed heavily by the state, making the cost of these items higher. For example, New York has a specific excise tax of $4.35 per cigarette pack of 20.6 Combining this with the federal tax of $1.01 makes the excise taxes alone $5.36. These taxes have a considerable impact on the consumer.
 
 ## Excise Taxes on Retirement Accounts
 

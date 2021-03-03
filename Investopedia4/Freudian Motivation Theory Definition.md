@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/f/freudian-motivation-theory.asp
 author: Akhilesh Ganti
 ---
 
-# Freudian Motivation Theory Definition
+# [[Freudian Motivation Theory Definition]]
 
 > ## Excerpt
 > Freudian motivation theory posits that unconscious psychological forces, such as hidden desires and motives, shape an individual's behavior.
 
 ---
 
-Freudian Motivation Theory Definition
+[[Freudian Motivation Theory Definition]]
 ## What is Freudian Motivation Theory?
 
 Freudian motivation theory posits that unconscious psychological forces, such as hidden desires and motives, shape an individual's behavior, like their purchasing patterns. This theory was developed by Sigmund Freud who, in addition to being a medical doctor, is synonymous with the field of psychoanalysis.
@@ -36,4 +36,4 @@ Freud believed that the human psyche could be divided into the conscious and unc
 
 ## Freudian Motivation Theory Put to Use
 
-When companies want to gauge the probability of success for a new product, they will enlist [[market researchers]](https://www.investopedia.com/terms/m/market-research.asp) to uncover the hidden motivations of a selected group of consumers to determine what might trigger their buying habits. They may utilize a number of techniques to discover such deeper meanings, such as role-playing, picture interpretation, sentence completion, or word association, among others. Such exercises can help researchers learn about how consumers react to products and how to best market them as a result. For example, buying a particular brand of computer can make a person feel smart, successful, productive, and prestigious. Marketers can use this information to cultivate [[brand identity]](https://www.investopedia.com/terms/b/brand-identity.asp).
+When companies want to gauge the probability of success for a new product, they [[Will|will]] enlist [[market researchers]](https://www.investopedia.com/terms/m/market-research.asp) to uncover the hidden motivations of a selected group of consumers to determine what might trigger their buying habits. They may utilize a number of techniques to discover such deeper meanings, such as role-playing, picture interpretation, sentence completion, or word association, among others. Such exercises can help researchers learn about how consumers react to products and how to best market them as a result. For example, buying a particular brand of computer can make a person feel smart, successful, productive, and prestigious. Marketers can use this information to cultivate [[brand identity]](https://www.investopedia.com/terms/b/brand-identity.asp).

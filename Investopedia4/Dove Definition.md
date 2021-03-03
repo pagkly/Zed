@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/d/dove.asp
 author: James Chen
 ---
 
-# Dove Definition
+# [[Dove Definition]]
 
 > ## Excerpt
 > A dove is an economic policy advisor who favors strategies that maintain low interest rates and other expansionary policies.
 
 ---
 
-Dove Definition
+[[Dove Definition]]
 ## What Is a Dove?
 
-A dove is an economic policy advisor who promotes [[monetary policies]](https://www.investopedia.com/articles/investing/052813/how-monetary-policy-affects-your-investments.asp) that usually involve low-interest rates. Doves tend to support [[low-interest rates]](https://www.investopedia.com/articles/personal-finance/051415/5-countries-lowest-interest-rates.asp) and an expansionary monetary policy because they value indicators like low unemployment over keeping inflation low. If an economist suggests that [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) has few negative effects or calls for quantitative easing, then they are called a dove or labeled as dovish.
+A dove is an economic policy advisor who promotes [[monetary policies]](https://www.investopedia.com/articles/investing/052813/how-monetary-policy-affects-your-investments.asp) that usually involve low-interest rates. Doves tend to support [[low-interest rates]](https://www.investopedia.com/articles/personal-[[Finance|finance]]/051415/5-countries-lowest-interest-rates.asp) and an expansionary monetary policy because they value indicators like low [[Unemployment|unemployment]] over keeping inflation low. If an economist suggests that [[inflation]](https://www.investopedia.com/terms/i/inflation.asp) has few negative effects or calls for quantitative easing, then they are called a dove or labeled as dovish.
 
 ### Key Takeaways
 
@@ -29,9 +29,9 @@ A dove is an economic policy advisor who promotes [[monetary policies]](https:/
 
 Doves prefer low-interest rates as a means of encouraging [[economic growth]](https://www.investopedia.com/terms/e/economicgrowth.asp) because they tend to increase demand for consumer borrowing and spur [[consumer spending]](https://www.investopedia.com/terms/c/consumer-spending.asp). As a result, doves believe the negative effects of low-interest [[rates]](https://www.investopedia.com/terms/i/interestrate.asp) are relatively negligible. However, if interest rates are kept low for an indefinite period of time, inflation rises.
 
-Derived from the placid nature of the bird of the same name, the term is the opposite of "[hawk](https://www.investopedia.com/terms/h/hawk.asp)." A hawk is, conversely, someone who believes that higher interest rates will curb inflation. 
+Derived from the placid nature of the bird of the same name, the term is the opposite of "[hawk](https://www.investopedia.com/terms/h/hawk.asp)." A hawk is, conversely, someone who believes that higher interest rates [[Will|will]] curb inflation. 
 
-This isn't the only instance in economics where animals are used as descriptors. [Bull](https://www.investopedia.com/terms/b/bullmarket.asp) and [bear](https://www.investopedia.com/terms/b/bearmarket.asp) are also used, where the former refers to a market affected by rising prices, while the latter is typically one when prices are falling.
+This isn't the only instance in [[Economics|economics]] where animals are used as descriptors. [Bull](https://www.investopedia.com/terms/b/bullmarket.asp) and [bear](https://www.investopedia.com/terms/b/bearmarket.asp) are also used, where the former refers to a market affected by rising prices, while the latter is typically one when prices are falling.
 
 ## Examples of Doves
 
@@ -41,6 +41,6 @@ But people don't necessarily have to be one or the other. In fact, [Alan Greens
 
 ## Doves, Consumer Spending and Inflation
 
-When consumers are in a low-interest rate environment created through a dovish monetary policy, they become more likely to take out [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp), car loans, and [[credit cards]](https://www.investopedia.com/articles/pf/07/credit_card_rating.asp). This spurs spending by encouraging people and companies to purchase in the present while rates are low rather than deferring the purchase for the future, when rates might be higher. This flurry of spending affects the entire economy. Increased consumption can help create or support jobs, which is often one of the main concerns of the political system from both a taxation and a happy voter perspective.
+When consumers are in a low-interest rate environment created through a dovish monetary policy, they become more likely to take out [[mortgages]](https://www.investopedia.com/terms/m/mortgage.asp), car loans, and [[credit cards]](https://www.investopedia.com/articles/pf/07/credit_card_rating.asp). This spurs spending by encouraging people and companies to purchase in the present while rates are low rather than deferring the purchase for the future, when rates might be higher. This flurry of spending affects the entire economy. Increased consumption can help create or support jobs, which is often one of the main concerns of the political system from both a [[Taxation|taxation]] and a happy voter perspective.
 
-Eventually, however, the [[aggregate demand]](https://www.investopedia.com/terms/a/aggregatedemand.asp) leads to increases in [[price levels]](https://www.investopedia.com/terms/p/price_level.asp). Some of this increase is because employment levels will rise. When this happens, workers tend to earn relatively higher wages as the supply of available workers goes down in a hot economy. So the higher wages get baked into product pricing. Adding to this are macroeconomic factors created by an expanding money and credit supply where the value of the dollar is going down because they are plentiful. This makes the input costs for products dependent on supply chains in another currency more expensive in dollars. Add this all up, and you end up with inflation. Left unchecked, inflation can be as destructive as high unemployment in a stagnant economy.
+Eventually, however, the [[aggregate demand]](https://www.investopedia.com/terms/a/aggregatedemand.asp) leads to increases in [[price levels]](https://www.investopedia.com/terms/p/price_level.asp). Some of this increase is because employment levels [[Will|will]] rise. When this happens, workers tend to earn relatively higher wages as the [[Supply|supply]] of available workers goes down in a hot economy. So the higher wages get baked into product pricing. Adding to this are macroeconomic factors created by an expanding money and credit supply where the value of the dollar is going down because they are plentiful. This makes the input costs for products dependent on supply chains in another currency more expensive in dollars. Add this all up, and you end up with inflation. Left unchecked, inflation can be as destructive as high [[Unemployment|unemployment]] in a stagnant economy.

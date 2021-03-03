@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/e/exchangerate.asp
 author: James Chen
 ---
 
-# Exchange Rate Definition
+# [[Exchange Rate Definition]]
 
 > ## Excerpt
 > An exchange rate is the value of a nation’s currency in terms of the currency of another nation or economic zone.
 
 ---
 
-Exchange Rate Definition
+[[Exchange Rate Definition]]
 ## What is an Exchange Rate
 
 An exchange rate is the value of one nation's [[currency]](https://www.investopedia.com/terms/c/currency.asp) versus the currency of another nation or economic zone. For example, how many U.S. dollars does it take to buy one [[euro]](https://www.investopedia.com/terms/e/euro.asp)? As of July 31, 2020, the exchange rate is 1.18, meaning it takes $1.18 to buy €1.1
@@ -21,7 +21,7 @@ An exchange rate is the value of one nation's [[currency]](https://www.investope
 ### Key Takeaways
 
 -   An exchange rate is the value of a country's currency vs. that of another country or economic zone.
--   [[Most exchange rates are free-floating]](https://www.investopedia.com/trading/floating-rate-vs-fixed-rate/) and will rise or fall based on supply and demand in the market.
+-   [[Most exchange rates are free-floating]](https://www.investopedia.com/trading/floating-rate-vs-fixed-rate/) and [[Will|will]] rise or fall based on [[Supply|supply]] and demand in the market.
 -   Some currencies are not free-floating and have restrictions.
 
 ## Types of Exchange Rates
@@ -36,7 +36,7 @@ Some countries have restricted currencies, limiting their exchange to within the
 
 ### Currency Peg
 
-Sometimes a country will [[peg]](https://www.investopedia.com/terms/c/currency-peg.asp) its currency to that of another nation. For instance, the Hong Kong dollar is pegged to the U.S. dollar in a range of 7.75 to 7.85.2 This means the value of the Hong Kong dollar to the U.S. dollar will remain within this range. 
+Sometimes a country [[Will|will]] [[peg]](https://www.investopedia.com/terms/c/currency-peg.asp) its currency to that of another nation. For instance, the Hong Kong dollar is pegged to the U.S. dollar in a range of 7.75 to 7.85.2 This means the value of the Hong Kong dollar to the U.S. dollar will remain within this range. 
 
 ### Onshore Vs. Offshore
 
@@ -44,17 +44,17 @@ Exchange rates can also be different for the same country. In some cases, there 
 
 ### Spot vs. Forward
 
-Exchange rates can have what is called a [[spot rate]](https://www.investopedia.com/terms/s/spot_rate.asp), or cash value, which is the current market value. Alternatively, an exchange rate may have a [[forward]](https://www.investopedia.com/video/play/forward-rate/) value, which is based on expectations for the currency to rise or fall versus its spot price. Forward rate values may [[fluctuate]](https://www.investopedia.com/ask/answers/08/how-often-to-exchange-rates-fluctuate.asp) due to changes in expectations for future interest rates in one country versus another. For example, let's say that traders have the view that the eurozone will ease monetary policy versus the U.S. In this case, traders could buy the dollar versus the euro, resulting in the value of the euro falling. 
+Exchange rates can have what is called a [[spot rate]](https://www.investopedia.com/terms/s/spot_rate.asp), or cash value, which is the current market value. Alternatively, an exchange rate may have a [[forward]](https://www.investopedia.com/video/play/forward-rate/) value, which is based on expectations for the currency to rise or fall versus its spot price. Forward rate values may [[fluctuate]](https://www.investopedia.com/ask/answers/08/how-often-to-exchange-rates-fluctuate.asp) due to changes in expectations for future interest rates in one country versus another. For example, let's say that traders have the view that the [[Eurozone|eurozone]] [[Will|will]] ease monetary policy versus the U.S. In this case, traders could buy the dollar versus the euro, resulting in the value of the euro falling. 
 
 ### Quotation
 
-Typically, an exchange rate is quoted using an acronym for the national currency it represents. For example, the acronym USD represents the U.S. dollar, while EUR represents the euro. To quote the currency pair for the dollar and the euro, it would be [[EUR/USD]](https://www.investopedia.com/terms/forex/e/eur-usd-euro-us-dollar-currency-pair.asp). In this case, the quotation is euro to dollar, and translates to 1 euro trading for the equivalent of $1.13 if the exchange rate is 1.13. In the case of the Japanese yen, it's [[USD/JPY]](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp), or dollar to yen. An exchange rate of 100 would mean that 1 dollar equals 100 yen.
+Typically, an exchange rate is quoted using an acronym for the [[National Currency|national currency]] it represents. For example, the acronym USD represents the U.S. dollar, while [[EUR]] represents the euro. To [[Quote|quote]] the currency pair for the dollar and the euro, it would be [[EUR/USD]](https://www.investopedia.com/terms/forex/e/eur-usd-euro-us-dollar-currency-pair.asp). In this case, the quotation is euro to dollar, and translates to 1 euro trading for the equivalent of $1.13 if the exchange rate is 1.13. In the case of the Japanese yen, it's [[USD/JPY]](https://www.investopedia.com/terms/forex/u/usd-jpy-us-dollar-japanese-yen-currency-pair.asp), or dollar to yen. An exchange rate of 100 would mean that 1 dollar equals 100 yen.
 
 #### Exchange Rate: My Favorite Term
 
 ## Real World Example of How Exchange Rates Work
 
-John is traveling to Germany from his home in New York and he wants to make sure he has 200 dollars’ worth of euros when he arrives in Germany. He goes to the local currency exchange shop and sees that the current exchange rate is 1.20. It means if he exchanges $200, he will get €166.66 in return.
+John is traveling to Germany from his home in New York and he wants to make sure he has 200 dollars’ worth of euros when he arrives in Germany. He goes to the local currency exchange shop and sees that the current exchange rate is 1.20. It means if he exchanges $200, he [[Will|will]] get €166.66 in [[Return|return]].
 
 In this case, the equation is: dollars ÷ exchange rate = euro
 

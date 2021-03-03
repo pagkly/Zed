@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/e/enhanced-oil-recovery.asp
 author: Jason Fernando
 ---
 
-# Enhanced Oil Recovery (EOR) Definition
+# [[Enhanced Oil Recovery (EOR) Definition]]
 
 > ## Excerpt
 > Enhanced oil recovery (EOR) is a process for extracting oil that has not already been retrieved through the primary or secondary recovery techniques.
 
 ---
 
-Enhanced Oil Recovery (EOR) Definition
+[[Enhanced Oil Recovery (EOR) Definition]]
 ## What Is Enhanced Oil Recovery (EOR)?
 
-Enhanced oil recovery (EOR), also known as “tertiary recovery,” is a process for [[extracting oil]](https://www.investopedia.com/articles/active-trading/102214/economics-oil-extraction.asp) that has not already been retrieved through the [[primary]](https://www.investopedia.com/terms/p/primary-recovery.asp) or secondary oil recovery techniques.
+Enhanced oil recovery (EOR), also known as “tertiary recovery,” is a process for [[extracting oil]](https://www.investopedia.com/articles/active-trading/102214/[[Economics|economics]]-oil-extraction.asp) that has not already been retrieved through the [[primary]](https://www.investopedia.com/terms/p/primary-recovery.asp) or secondary oil recovery techniques.
 
 Although the primary and secondary recovery techniques rely on the pressure differential between the surface and the underground well, enhanced oil recovery functions by altering the chemical composition of the oil itself in order to make it easier to extract.
 
@@ -28,7 +28,7 @@ Although the primary and secondary recovery techniques rely on the pressure diff
 
 ## How Enhanced Oil Recovery Works
 
-Enhanced oil recovery techniques are complex and expensive and therefore are employed only when the primary and secondary recovery techniques have exhausted their usefulness. Indeed, depending on factors such as the [[cost of oil]](https://www.investopedia.com/articles/economics/08/determining-oil-prices.asp), it may not be economical to employ EOR at all. In those cases, oil and gas might be left in the reservoir because it is simply not profitable to extract the remaining amounts.
+Enhanced oil recovery techniques are complex and expensive and therefore are employed only when the primary and secondary recovery techniques have exhausted their usefulness. Indeed, depending on factors such as the [[cost of oil]](https://www.investopedia.com/articles/[[Economics|economics]]/08/determining-oil-prices.asp), it may not be economical to employ EOR at all. In those cases, oil and gas might be left in the reservoir because it is simply not profitable to extract the remaining amounts.
 
 Image by Sabrina Jiang © Investopedia 2020
 
@@ -46,7 +46,7 @@ Finally, various polymers and other chemical structures can be injected into the
 
 ## Using Enhanced Oil Recovery Methods
 
-[Petroleum companies](https://www.investopedia.com/investing/oil-stocks/) and scientists look to EOR for its potential to prolong the life of wells in proven or probable [[oil fields]](https://www.investopedia.com/terms/o/oil-field.asp). [[Proven reserves]](https://www.investopedia.com/terms/p/proven-reserves.asp) are those with a greater than 90% chance that oil will be recovered, and [probable reserves](http://investopedia/) have a more than 50% chance of recovering petroleum.
+[Petroleum companies](https://www.investopedia.com/investing/oil-[[Stocks|stocks]]/) and scientists look to EOR for its potential to prolong the life of wells in proven or probable [[oil fields]](https://www.investopedia.com/terms/o/oil-field.asp). [[Proven reserves]](https://www.investopedia.com/terms/p/proven-reserves.asp) are those with a greater than 90% chance that oil [[Will|will]] be recovered, and [probable reserves](http://investopedia/) have a more than 50% chance of recovering [[Petroleum|petroleum]].
 
 Unfortunately, EOR techniques can produce negative environmental side effects, such as causing harmful chemicals to leak into the groundwater. One recent technique that might help reduce these environmental risks is called plasma pulsing. Developed in Russia, plasma pulse technology involves radiating oil fields with low-energy emissions, thereby lowering their viscosity much like conventional EOR techniques.
 

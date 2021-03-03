@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/degrees-of-freedom.asp
 author: Akhilesh Ganti
 ---
 
-# Degrees of Freedom Definition
+# [[Degrees of Freedom Definition]]
 
 > ## Excerpt
 > Degrees of Freedom refers to the maximum number of logically independent values, which are values that have the freedom to vary, in the data sample.
 
 ---
 
-Degrees of Freedom Definition
+[[Degrees of Freedom Definition]]
 ## What Are Degrees of Freedom?
 
 Degrees of Freedom refers to the maximum number of logically independent values, which are values that have the freedom to vary, in the data sample.
@@ -41,7 +41,7 @@ Degrees of Freedom are commonly discussed in relation to various forms of hypoth
 
 ## Chi-Square Tests
 
-There are two different kinds of [[Chi-Square tests]](https://www.investopedia.com/terms/c/chi-square-statistic.asp): the test of independence, which asks a question of relationship, such as, "Is there a relationship between gender and SAT scores?"; and the [[goodness-of-fit test]](https://www.investopedia.com/terms/g/goodness-of-fit.asp), which asks something like "If a coin is tossed 100 times, will it come up heads 50 times and tails 50 times?"
+There are two different kinds of [[Chi-Square tests]](https://www.investopedia.com/terms/c/chi-square-statistic.asp): the test of independence, which asks a question of relationship, such as, "Is there a relationship between gender and SAT scores?"; and the [[goodness-of-fit test]](https://www.investopedia.com/terms/g/goodness-of-fit.asp), which asks something like "If a coin is tossed 100 times, [[Will|will]] it come up heads 50 times and tails 50 times?"
 
 For these tests, degrees of freedom are utilized to determine if a certain [[null hypothesis]](https://www.investopedia.com/terms/n/null_hypothesis.asp) can be rejected based on the total number of variables and samples within the experiment. For example, when considering students and course choice, a sample size of 30 or 40 students is likely not large enough to generate significant data. Getting the same or similar results from a study using a sample size of 400 or 500 students is more valid.
 

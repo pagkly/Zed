@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/genesis-block.asp
 author: Carla Tardi
 ---
 
-# Genesis Block Definition
+# [[Genesis Block Definition]]
 
 > ## Excerpt
 > Genesis Block is the name of the first block of Bitcoin ever mined, which forms the foundation of the entire Bitcoin trading system.
 
 ---
 
-Genesis Block Definition
+[[Genesis Block Definition]]
 ## What Is Genesis Block?
 
 Genesis Block is the name of the first block of [[Bitcoin]](https://www.investopedia.com/terms/b/bitcoin.asp) ever mined—thus called "Genesis." The Genesis Block forms the foundation of the entire Bitcoin trading system and is the prototype of all other blocks in the blockchain. In 2009, Bitcoin's named developer, [[Satoshi Nakamoto]](https://www.investopedia.com/terms/s/satoshi-nakamoto.asp), created the Genesis Block, which launched the process of Bitcoin trading that's in place today.
@@ -22,17 +22,17 @@ Perhaps the true gift of the Genesis Block is its legacy of accountability, inte
 
 ## Fans of the Genesis Block
 
-Because the Genesis Block, also known as Block 0, began the process of trading bitcoin, Bitcoin fans hold the Genesis Block in a kind of cult-like reverence, as they do its creator. Fans are drawn to Bitcoin's arcane construct and idiosyncratic vocabulary with the fervor of one obsessed with a sophisticated arcade game.
+Because the Genesis Block, also known as Block 0, began the process of trading bitcoin, Bitcoin fans [[Hold|hold]] the Genesis Block in a kind of cult-like reverence, as they do its creator. Fans are drawn to Bitcoin's arcane construct and idiosyncratic vocabulary with the fervor of one obsessed with a sophisticated arcade game.
 
 Bitcoin devotees have been donating small amounts of bitcoin (BTC) to the Genesis Block as a tribute to Satoshi Nakamoto. This is seen as a kind of sacrifice because once a coin is moved into the Genesis Block, it can never be moved again—sort of like throwing a quarter into a fountain.
 
 ## A Quick Bitcoin Primer
 
-Bitcoin is a type of [[cryptocurrency]](https://www.investopedia.com/terms/c/cryptocurrency.asp), which is based on the peer-to-peer electronic cash system developed by Satoshi Nakamoto. Bitcoin refers to the system and concept of the trading platform and "bitcoin"—small "b"—refers to the virtual coinage that is traded. There are no actual coins, thus the "bit"—or binary digit, the most basic unit of data in computing—before "coin."
+Bitcoin is a type of [[cryptocurrency]](https://www.investopedia.com/terms/c/[[Cryptocurrency|cryptocurrency]].asp), which is based on the peer-to-peer electronic cash system developed by Satoshi Nakamoto. Bitcoin refers to the system and concept of the trading platform and "bitcoin"—small "b"—refers to the virtual coinage that is traded. There are no actual coins, thus the "bit"—or binary digit, the most basic unit of data in computing—before "coin."
 
-In the world of digital currency, blocks are files where data about the Bitcoin network and its transactions are permanently recorded. Each time a block is completed—that is, filled with bitcoin transactions—it gives way to the next block in the blockchain. The only way to release new cryptocurrency into circulation is through [[mining]](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/). So, to "mine bitcoin" is to "mint currency."
+In the world of [[Digital Currency|digital currency]], blocks are files where data about the Bitcoin network and its transactions are permanently recorded. Each time a block is completed—that is, filled with bitcoin transactions—it gives way to the next block in the blockchain. The only way to release new [[Cryptocurrency|cryptocurrency]] into circulation is through [[mining]](https://www.investopedia.com/tech/how-does-bitcoin-[[Mining|mining]]-work/). So, to "mine bitcoin" is to "mint currency."
 
-Like gold, Bitcoin cannot be created arbitrarily. Gold must be mined out of the ground, and BTC must be mined via digital means. Moreover, Bitcoin's founder stipulated that, like gold, the supply of bitcoin should be limited and finite. [[Only 21 million BTC can be mined in total]](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/). When miners have unlocked this many bitcoin, then the planet's supply will be tapped out, unless someone changes Bitcoin's protocol to allow for a larger supply.
+Like gold, Bitcoin cannot be created arbitrarily. Gold must be mined out of the ground, and BTC must be mined via digital means. Moreover, Bitcoin's founder stipulated that, like gold, the [[Supply|supply]] of bitcoin should be limited and finite. [[Only 21 million BTC can be mined in total]](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/). When miners have unlocked this many bitcoin, then the planet's supply [[Will|will]] be tapped out, unless someone changes Bitcoin's protocol to allow for a larger supply.
 
 ## Mysteries of the Genesis Block
 
@@ -44,7 +44,7 @@ The Genesis Block's beginnings were shrouded in the debate about a fine point of
 
 Although the Genesis Block points to a web address—written into the Genesis Block's code—that link displayed an error message when activated. The system could not find the first 50-BTC transaction in its database, and the spending transaction was rejected. So, the Genesis Block's transaction is not considered as a "real transaction" by the original Bitcoin client.
 
-But Why? Did Nakamoto mean for the first bitcoin to be non-tradeable? Or, was it a mistake? This became the subject of much debate among Bitcoin fans and insiders. Because of the precision of this developer, however, most believe that it was hardly an error. Nakamoto likely wrote the code for the Genesis Block exactly the way he wanted it. We just will never know why, as the quirk was not discovered until after Nakamoto disappeared.
+But Why? Did Nakamoto mean for the first bitcoin to be non-tradeable? Or, was it a mistake? This became the subject of much debate among Bitcoin fans and insiders. Because of the precision of this developer, however, most believe that it was hardly an error. Nakamoto likely wrote the code for the Genesis Block exactly the way he wanted it. We just [[Will|will]] never know why, as the quirk was not discovered until after Nakamoto disappeared.
 
 Current versions of the Bitcoin system handle the block/transaction databases differently from the original system, so the Genesis Bock's transaction is now just a weird special case in the code.
 
@@ -52,7 +52,7 @@ Current versions of the Bitcoin system handle the block/transaction databases di
 
 Another puzzling aspect of the Genesis Block is the secret message that Nakamoto instilled within the Block's raw data: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 
-Although Nakamoto never commented on the meaning of this text, most believe that it serves as a mission statement for Bitcoin itself. The text is a headline for an article in the January 3, 2009 edition of _The \[London\] Times_ about the British government's failure to stimulate the economy following the [2007–08 financial crisis](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp). Nakamoto famously hated the idea of too-big-to-fail financial institutions and wanted Bitcoin to be different in that regard. Most people think that Nakamoto's reference to the article in the Genesis Block's code was a hint as to how Bitcoin _is_ different from the big investment banks that needed government bailouts in 2008.
+Although Nakamoto never commented on the meaning of this text, most believe that it serves as a mission statement for Bitcoin itself. The text is a headline for an article in the January 3, 2009 edition of _The \[London\] Times_ about the British government's failure to stimulate the economy following the [2007–08 financial crisis](https://www.investopedia.com/articles/[[Economics|economics]]/09/financial-crisis-review.asp). Nakamoto famously hated the idea of too-big-to-fail financial institutions and wanted Bitcoin to be different in that regard. Most people think that Nakamoto's reference to the article in the Genesis Block's code was a hint as to how Bitcoin _is_ different from the big investment banks that needed government bailouts in 2008.
 
 ## The True Legacy of the Genesis Block
 

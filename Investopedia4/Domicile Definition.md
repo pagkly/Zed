@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/domicile.asp
 author: Julia Kagan
 ---
 
-# Domicile Definition
+# [[Domicile Definition]]
 
 > ## Excerpt
 > A domicile is a home acquired with the intent to remain indefinitely.
 
 ---
 
-Domicile Definition
+[[Domicile Definition]]
 ## What Is a Domicile?
 
 Your domicile is the place where you maintain a permanent home. Your intent to remain in this place indefinitely makes it your domicile and makes you the place's domiciliary. Your domiciliary status subjects you to specific laws. Thus, domicile is a legal construct used to determine where you vote, file lawsuits, pay taxes, claim benefits, and oblige governmental authority.
@@ -42,7 +42,7 @@ Your domicile is also your residence, but your residence may or may not be your 
 
 ## Special Considerations
 
-Some people live equally in two homes. For example, suppose that after many years of living in Maine and vacationing in Florida, a person then decides to live half the year in Maine and the other half the year in Florida. They file their taxes and make a will in Maine but vote and have registered their car in Florida.
+Some people live equally in two homes. For example, suppose that after many years of living in Maine and vacationing in Florida, a person then decides to live half the year in Maine and the other half the year in Florida. They file their taxes and make a [[Will|will]] in Maine but vote and have registered their car in Florida.
 
 This even split of their essential activities between Maine and Florida indicates that they did not intend to abandon Maine when they moved to Florida. Consequently, Maine is their residence and domicile, and Florida is their residence but not their domicile.
 
@@ -50,8 +50,8 @@ You cannot change your domicile by merely filing a Declaration of Domicile in an
 
 Legally, your domicile is the location you declare in legal documents, such as the address you use to vote, bank, register vehicles, and pay taxes. Ending a domicile association includes your efforts to close bank accounts, surrender your driver’s license, remove your name from voting rolls, and to pay taxes as a [[non-resident]](https://www.investopedia.com/terms/r/nonresident.asp).4
 
-Your domicile carries legal consequences. It defines which country, state, and courts have jurisdiction to [[probate wills]](https://www.investopedia.com/terms/p/probate.asp), administer estates, adjudicate lawsuits, and assess state income and death taxes. After a divorce, the legal domicile can affect your ability to claim and monitor payment of [[alimony]](https://www.investopedia.com/terms/a/alimony.asp) and child support.5
+Your domicile carries legal consequences. It defines which country, state, and courts have jurisdiction to [[probate wills]](https://www.investopedia.com/terms/p/[[Probate|probate]].asp), administer estates, adjudicate lawsuits, and assess state income and [[Death Taxes|death taxes]]. After a divorce, the legal domicile can affect your ability to claim and monitor payment of [[alimony]](https://www.investopedia.com/terms/a/alimony.asp) and child support.5
 
-Your domicile affects the circumstances under which you pay [[state taxes]](https://www.investopedia.com/terms/state-income-tax.asp). Residence in a country or state limits the reach of taxing authorities to tax income you earn within its borders.6 Often upper-income taxpayers will domicile in a state that has the lowest tax liability for them.
+Your domicile affects the circumstances under which you pay [[state taxes]](https://www.investopedia.com/terms/state-income-tax.asp). Residence in a country or state limits the reach of taxing authorities to tax income you earn within its borders.6 Often upper-income taxpayers [[Will|will]] domicile in a state that has the lowest [[Tax Liability|tax liability]] for them.
 
-The imposition of death taxes is by the domicile country or state. Depending on your stated domicile and that of your beneficiaries, estate tax implications may be dramatically different. The domicile can extend its reach to all of your income from any source worldwide. However, indicia of residence, such as owning real property—or indicia of domicile, such failing to abandon your previous domicile properly—can subject you to taxes in more than one state.
+The imposition of [[Death Taxes|death taxes]] is by the domicile country or state. Depending on your stated domicile and that of your beneficiaries, [[Estate|estate]] tax implications may be dramatically different. The domicile can extend its reach to all of your income from any source worldwide. However, indicia of residence, such as owning [[Real Property|real property]]—or indicia of domicile, such failing to abandon your previous domicile properly—can subject you to taxes in more than one state.

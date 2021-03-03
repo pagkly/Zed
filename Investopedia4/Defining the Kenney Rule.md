@@ -9,30 +9,30 @@ author: Julia Kagan
 # Kenney Rule Definition
 
 > ## Excerpt
-> The Kenney rule calculates the ratio of an insurance company’s unearned premiums to its policyholders’ surplus that is said to reduce insolvency risk.
+> The Kenney rule calculates the ratio of an insurance company’s unearned premiums to its policyholders’ [[Surplus|surplus]] that is said to reduce insolvency [[Risk|risk]].
 
 ---
 
-Defining the Kenney Rule
+[[Defining the Kenney Rule]]
 ## What Is the Kenney Rule?
 
-The term Kenney rule refers to a ratio that sets a target of [[unearned premiums]](https://www.investopedia.com/terms/u/unearned-premium.asp) to an insurer's [[policyholders’ surplus]](https://www.investopedia.com/terms/p/policyholder-surplus.asp) of 2-to-1. Developed by Roger Kenney, it is used to help determine and reduce the risk of an insurance company's [[insolvency]](https://www.investopedia.com/terms/i/insolvency.asp). The rule is commonly used by companies that write property and casualty insurance. Regulators are able to use the Kenney rule to an insurer's ability to pay out claims and remain solvent.
+The term Kenney rule refers to a ratio that sets a target of [[unearned premiums]](https://www.investopedia.com/terms/u/unearned-[[Premium|premium]].asp) to an insurer's [[policyholders’ surplus]](https://www.investopedia.com/terms/p/policyholder-[[Surplus|surplus]].asp) of 2-to-1. Developed by Roger Kenney, it is used to help determine and reduce the [[Risk|risk]] of an insurance company's [[insolvency]](https://www.investopedia.com/terms/i/insolvency.asp). The rule is commonly used by companies that write property and casualty insurance. Regulators are able to use the Kenney rule to an insurer's ability to pay out claims and remain solvent.
 
 ### Key Takeaways
 
--   The Kenney is a ratio that sets a target of unearned premiums to an insurer's policyholders’ surplus of 2-to-1.
--   The rule states that the ratio of policyholders’ surplus to its unearned premium reserve indicates the strength of one insurance company relative to another.
--   A higher policyholders’ surplus relative to unearned premium means an insurer is financially strong.
+-   The Kenney is a ratio that sets a target of unearned premiums to an insurer's policyholders’ [[Surplus|surplus]] of 2-to-1.
+-   The rule states that the ratio of policyholders’ [[Surplus|surplus]] to its [[Unearned Premium|unearned premium]] reserve indicates the strength of one insurance company relative to another.
+-   A higher policyholders’ [[Surplus|surplus]] relative to [[Unearned Premium|unearned premium]] means an insurer is financially strong.
 
 ## Understanding the Kenney Rule
 
-The Kenney rule is named after Roger Kenney, an expert in [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) finances who published the book “Fundamentals of Fire and Casualty Insurance Strength” in 1949. While Kenney’s focus was on [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) property insurance policies, the rule has been adapted to insurers who underwrite other types of policies, including [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp).
+The Kenney rule is named after Roger Kenney, an expert in [[insurance]](https://www.investopedia.com/terms/i/insurance.asp) finances who published the book “[[Fundamentals]] of Fire and Casualty Insurance Strength” in 1949. While Kenney’s focus was on [[underwriting]](https://www.investopedia.com/terms/u/underwriting.asp) property insurance policies, the rule has been adapted to insurers who underwrite other types of policies, including [[liability insurance]](https://www.investopedia.com/terms/l/liability_insurance.asp).
 
-This rule, also called the Kenney ratio, is a guiding principle used by insurance companies. The ratio varies according to the insurance lines and is still commonly used in the property and casualty segment of the industry. The common ratio is traditionally considered to be 2-to-1 of [[net premiums]](https://www.investopedia.com/terms/n/net-premium.asp) to [[surplus]](https://www.investopedia.com/terms/s/surplus.asp). Certain segments, such as liability insurance, use a slightly different ratio—3-to-1.
+This rule, also called the Kenney ratio, is a guiding principle used by insurance companies. The ratio varies according to the insurance lines and is still commonly used in the property and casualty segment of the industry. The common ratio is traditionally considered to be 2-to-1 of [[net premiums]](https://www.investopedia.com/terms/n/net-[[Premium|premium]].asp) to [[surplus]](https://www.investopedia.com/terms/s/[[Surplus|surplus]].asp). Certain segments, such as [[Liability|liability]] insurance, use a slightly different ratio—3-to-1.
 
-But what does this all mean? The Kenney rule states that the ratio of policyholders’ surplus to its unearned [[premium]](https://www.investopedia.com/terms/p/premium.asp) reserve is an indicator of the strength of one insurance company relative to another. The policyholders’ surplus represents the insurer’s net [[assets]](https://www.investopedia.com/terms/a/asset.asp), as it is comprised of [[capital]](https://www.investopedia.com/terms/c/capital.asp), reserves, and surplus.
+But what does this all mean? The Kenney rule states that the ratio of policyholders’ [[Surplus|surplus]] to its unearned [[premium]](https://www.investopedia.com/terms/p/[[Premium|premium]].asp) reserve is an indicator of the strength of one insurance company relative to another. The policyholders’ surplus represents the insurer’s net [[assets]](https://www.investopedia.com/terms/a/asset.asp), as it is comprised of [[capital]](https://www.investopedia.com/terms/c/capital.asp), reserves, and surplus.
 
-The unearned premium represents the [[liability]](https://www.investopedia.com/terms/l/liability.asp) that is still unaccounted for by the insurer. Having a higher policyholders’ surplus relative to unearned premium means that the insurer is stronger financially. A lower policyholders’ surplus to unearned premiums means the opposite—that the company is financially unstable.
+The [[Unearned Premium|unearned premium]] represents the [[liability]](https://www.investopedia.com/terms/l/[[Liability|liability]].asp) that is still unaccounted for by the insurer. Having a higher policyholders’ [[Surplus|surplus]] relative to unearned [[Premium|premium]] means that the insurer is stronger financially. A lower policyholders’ surplus to unearned premiums means the opposite—that the company is financially unstable.
 
 ## Special Considerations
 
@@ -40,10 +40,10 @@ There is no one-size-fits-all standard for a Kenney rule ratio that is considere
 
 Policies that do not provide extended [[coverage]](https://www.investopedia.com/terms/i/insurance-coverage.asp) or those that don't have an adjusted coverage date are easier to account for because incidents occurring before or after the policies' effective period are no longer covered.
 
-Insurance companies want to make sure they have enough of a cushion to cover any liabilities that are associated with the policies they underwrite. But that doesn't mean a high Kenney ratio is always a good idea. That's because a very high surplus to liability ratio represents an [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp)—the benefits that the company may miss out on by having too much cash on hand in its reserves. Here's why.
+Insurance companies want to make sure they have enough of a cushion to cover any liabilities that are associated with the policies they underwrite. But that doesn't mean a high Kenney ratio is always a good idea. That's because a very high [[Surplus|surplus]] to [[Liability|liability]] ratio represents an [[opportunity cost]](https://www.investopedia.com/terms/o/opportunitycost.asp)—the benefits that the company may miss out on by having too much cash on hand in its reserves. Here's why.
 
 Having a ratio that's too high may indicate that an insurance company isn't generating enough business.
 
-If the insurer is in a relatively low-risk environment and does not underwrite many policies, it can have a high ratio, but will also be forgoing future additions to its surplus. This is because it is not taking on new business.
+If the insurer is in a relatively low-[[Risk|risk]] environment and does not underwrite many policies, it can have a high ratio, but [[Will|will]] also be forgoing future additions to its [[Surplus|surplus]]. This is because it is not taking on new business.
 
 Ideally, an insurer should strive to achieve a ratio that strikes the perfect balance between the two, so they are generating business and maintaining operational growth while still accumulating a sufficient cushion to protect them against potential [[claims]](https://www.investopedia.com/terms/i/insurance_claim.asp). Again, the exact ratio varies depending on the type of policy involved.

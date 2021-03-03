@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/c/chi-square-statistic.asp
 author: Adam Hayes
 ---
 
-# Chi-Square (χ2) Statistic Definition
+# [[Chi-Square (χ2) Statistic Definition]]
 
 > ## Excerpt
 > A chi-square (χ2) statistic is a test that measures how expectations compare to actual observed data (or model results).
 
 ---
 
-Chi-Square (χ2) Statistic Definition
+[[Chi-Square (χ2) Statistic Definition]]
 ## What Is a Chi-Square Statistic?
 
 A chi-square (_χ_2) statistic is a test that measures how a model compares to actual observed data. The data used in calculating a chi-square [[statistic]](https://www.investopedia.com/terms/s/statistics.asp) must be random, raw, [[mutually exclusive]](https://www.investopedia.com/terms/m/mutuallyexclusive.asp), drawn from independent variables, and drawn from a large enough sample. For example, the results of tossing a fair coin meet these criteria.
@@ -44,4 +44,4 @@ If there is no relationship between sex and course selection (that is, if they a
 
 _χ_2 provides a way to test how well a sample of data matches the (known or assumed) characteristics of the larger population that the sample is intended to represent. If the sample data do not fit the expected properties of the population that we are interested in, then we would not want to use this sample to draw conclusions about the larger population.
 
-For example consider an imaginary coin with exactly 50/50 chance of landing heads or tails and a real coin that you toss 100 times. If this real coin has an is fair, then it will also have an equal probability of landing on either side, and the expected result of tossing the coin 100 times is that heads will come up 50 times and tails will come up 50 times. In this case, _χ_2 can tell us how well the actual results of 100 coin flips compare to the theoretical model that a fair coin will give 50/50 results. The actual toss could come up 50/50, or 60/40, or even 90/10. The farther away the actual results of the 100 tosses is from 50/50, the less good the fit of this set of tosses is to the theoretical expectation of 50/50 and the more likely we might conclude that this coin is not actually a fair coin.
+For example consider an imaginary coin with exactly 50/50 chance of landing heads or tails and a real coin that you toss 100 times. If this real coin has an is fair, then it [[Will|will]] also have an equal probability of landing on either side, and the expected result of tossing the coin 100 times is that heads will come up 50 times and tails will come up 50 times. In this case, _χ_2 can tell us how well the actual results of 100 coin flips compare to the theoretical model that a fair coin will give 50/50 results. The actual toss could come up 50/50, or 60/40, or even 90/10. The farther away the actual results of the 100 tosses is from 50/50, the less good the fit of this set of tosses is to the theoretical expectation of 50/50 and the more likely we might conclude that this coin is not actually a fair coin.

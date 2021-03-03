@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/f/federalreservebank.asp
 author: James Chen
 ---
 
-# Federal Reserve System (FRS) Definition
+# [[Federal Reserve System (FRS)]] Definition
 
 > ## Excerpt
 > The Federal Reserve System is the central bank of the United States and provides the nation with a safe, flexible, and stable monetary and financial system.
 
 ---
 
-Federal Reserve System - FRS
-## What Is the Federal Reserve System (FRS)?
+[[Federal Reserve System - FRS]]
+## What Is the [[Federal Reserve System (FRS)]]?
 
-The Federal Reserve System (FRS), often just called "the Fed," is the [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) of the United States and arguably the most powerful [[financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) in the world. It was founded to provide the country with a safe, flexible, and stable monetary and financial system. The Fed is composed of 12 regional Federal Reserve Banks that are each responsible for a specific geographic area of the U.S.
+The [[Federal Reserve System (FRS)]], often just called "the Fed," is the [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp) of the United States and arguably the most powerful [[financial institution]](https://www.investopedia.com/terms/f/financialinstitution.asp) in the world. It was founded to provide the country with a safe, flexible, and stable monetary and financial system. The Fed is composed of 12 regional Federal Reserve Banks that are each responsible for a specific geographic area of the U.S.
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ The Federal Reserve System (FRS), often just called "the Fed," is the [[central 
 
 The Federal Reserve was founded by U.S. Congress in 1913. Its creation was precipitated by repeated financial panics that afflicted the U.S. [[economy]](https://www.investopedia.com/terms/e/economy.asp) over the previous century, leading to severe economic disruptions due to bank failures and business [[bankruptcies]](https://www.investopedia.com/terms/b/bankruptcy.asp). A crisis in 1907 led to calls for an institution that would prevent panics and disruptions.
 
-Referred to simply as the Fed, it has broad power to take measures to ensure there is financial stability in the system. It is also the main regulator of the country's financial institutions. Banks will often turn to the Fed as a last resort where they can borrow money when there is nowhere else to go.
+Referred to simply as the Fed, it has broad power to take measures to ensure there is financial stability in the system. It is also the main regulator of the country's financial institutions. Banks [[Will|will]] often turn to the Fed as a last resort where they can borrow money when there is nowhere else to go.
 
 As mentioned above, the system is made up of 12 regional [[Federal Banks]](https://www.investopedia.com/articles/investing/061515/what-do-federal-reserve-banks-do.asp). These are based in Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas City, Dallas, and San Francisco.
 
@@ -48,9 +48,9 @@ Image by Sabrina Jiang © Investopedia 2020
 
 The Fed’s main income source is interest on a range of U.S. government securities it has acquired through its operations. Other income sources include interest on foreign currency investments, interest on loans to [[depository]](https://www.investopedia.com/terms/d/depository.asp) institutions, and fees for services—such as check clearing and fund transfers—provided to these institutions. After paying expenses, the Fed transfers the rest of its earnings to the [[U.S. Treasury]](https://www.investopedia.com/terms/u/ustreasury.asp).
 
-## Federal Reserve vs. Federal Open Market Committee (FOMC)
+## Federal Reserve vs. [[Federal Open Market Committee (FOMC)]]
 
-The Federal Reserve's Board of Governors is responsible to set [[reserve requirements]](https://www.investopedia.com/terms/r/requiredreserves.asp). This is the amount of money banks are required to hold to ensure they have enough to meet sudden withdrawals. It also sets the [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp), which is the interest rate the Fed charges on loans made to financial institutions and other commercial banks.
+The Federal Reserve's Board of Governors is responsible to set [[reserve requirements]](https://www.investopedia.com/terms/r/requiredreserves.asp). This is the amount of money banks are required to [[Hold|hold]] to ensure they have enough to meet sudden withdrawals. It also sets the [[discount rate]](https://www.investopedia.com/terms/d/discountrate.asp), which is the interest rate the Fed charges on loans made to financial institutions and other commercial banks.
 
 The [[Federal Open Market Committee]](https://www.investopedia.com/terms/f/fomc.asp) (FOMC), on the other hand, is the Federal Reserve’s main monetary policymaking body. It is responsible for open market operations including the buying and selling of government securities. The FOMC includes the Board of Governors—known as the [[Federal Reserve Board]](https://www.investopedia.com/terms/f/frb.asp) (FRB)—the president of the Federal Reserve Bank of New York, and the presidents of four other regional Federal Reserve Banks who serve on a rotating basis.
 

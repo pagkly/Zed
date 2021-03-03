@@ -3,20 +3,20 @@ alias: [Direct Cost]
 created: 2021-03-02T19:18:11 (UTC +11:00)
 tags: [Direct Cost, Direct Cost]
 source: https://www.investopedia.com/terms/d/directcost.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Direct Cost
+# [[Direct Cost]]
 
 > ## Excerpt
-> A direct cost is a price that can be completely attributed to the production of specific goods or services.
+> A [[Direct Cost|direct cost]] is a price that can be completely attributed to the production of specific goods or services.
 
 ---
 
-Direct Cost
-## What Is a Direct Cost?
+[[Direct Cost]]
+## What Is a [[Direct Cost]]?
 
-A direct cost is a price that can be directly tied to the production of specific goods or services. A direct cost can be traced to the cost object, which can be a service, product, or department. Direct and indirect costs are the two major types of expenses or costs that companies can incur. Direct costs are often variable costs, meaning they fluctuate with production levels such as inventory. However, some costs, such as indirect costs are more difficult to assign to a specific product. Examples of indirect costs include [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) and administrative expenses.
+A [[Direct Cost|direct cost]] is a price that can be directly tied to the production of specific goods or services. A direct cost can be traced to the cost object, which can be a service, product, or department. Direct and indirect costs are the two major types of expenses or costs that companies can incur. Direct costs are often variable costs, meaning they fluctuate with production levels such as inventory. However, some costs, such as indirect costs are more difficult to assign to a specific product. Examples of indirect costs include [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) and administrative expenses.
 
 ## Understanding Direct Costs
 
@@ -24,11 +24,11 @@ Although direct costs are typically variable costs, they can also include fixed 
 
 ### Direct Costs Examples
 
-Any cost that's involved in producing a good, even if it's only a portion of the cost that's allocated to the production facility, are included as direct costs. Some examples of direct costs are listed below:
+Any cost that's involved in producing a good, even if it's only a portion of the cost that's allocated to the production facility, are included as direct costs. Some examples of direct costs are [[Listed|listed]] below:
 
 -   Direct labor
 -   Direct materials
--   Manufacturing supplies
+-   [[Manufacturing]] supplies
 -   Wages for the production staff
 -   Fuel or power consumption
 
@@ -38,14 +38,14 @@ Direct and indirect costs are the major costs involved in the production of a go
 
 ### Key Takeaways
 
--   A direct cost is a price that can be directly tied to the production of specific goods or services.
--   A direct cost can be traced to the cost object, which can be a service, product, or department.
+-   A [[Direct Cost|direct cost]] is a price that can be directly tied to the production of specific goods or services.
+-   A [[Direct Cost|direct cost]] can be traced to the cost object, which can be a service, product, or department.
 -   Direct costs examples include direct labor and direct materials.
 -   Although direct costs are typically variable costs, they can also be fixed costs. Rent for a factory, for example, could be tied directly to a production facility.
 
 ## Direct vs. Indirect Costs
 
-Direct costs are fairly straightforward in determining their cost object. For example, Ford Motor Company [(F)](https://www.investopedia.com/markets/quote?tvwidgetsymbol=f) manufactures automobiles and trucks.1 The steel and bolts needed for the production of a car or truck would be classified as direct costs. However, an indirect cost would be the electricity for the manufacturing plant. Although the electricity expense can be tied to the facility, it can't be directly tied to a specific unit and is, therefore, classified as indirect.
+Direct costs are fairly straightforward in determining their cost object. For example, Ford Motor Company [(F)](https://www.investopedia.com/markets/[[Quote|quote]]?tvwidgetsymbol=f) manufactures automobiles and trucks.1 The steel and bolts needed for the production of a car or truck would be classified as direct costs. However, an indirect cost would be the electricity for the [[Manufacturing|manufacturing]] plant. Although the electricity expense can be tied to the facility, it can't be directly tied to a specific unit and is, therefore, classified as indirect.
 
 ## Fixed vs. Variable
 

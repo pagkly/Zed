@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/f/fidelity-bond.asp
 author: James Chen
 ---
 
-# Fidelity Bond Definition
+# [[Fidelity Bond Definition]]
 
 > ## Excerpt
 > A fidelity bond is a type of insurance that offers a business protection against losses caused by employees who commit fraud.
 
 ---
 
-Fidelity Bond Definition
+[[Fidelity Bond Definition]]
 ## What is a Fidelity Bond?
 
 A fidelity bond is a form of [[business insurance]](https://www.investopedia.com/terms/b/business-insurance.asp) that offers an employer protection against losses that are caused by its employees' fraudulent or dishonest actions. This form of insurance can protect against monetary or physical losses.
@@ -22,11 +22,11 @@ A fidelity bond is a form of [[business insurance]](https://www.investopedia.com
 
 -   Fidelity bonds are insurance policies which protect policyholder companies from wrongful acts committed by employees.
 -   Fidelity bonds are not tradable securities.
--   This form of insurance is considered a component of a company's risk management strategy.
+-   This form of insurance is considered a component of a company's [[Risk|risk]] management strategy.
 
 ## Understanding Fidelity Bonds
 
-If a company has employees that commit fraudulent acts, the company itself may be exposed to legal or financial penalty in addition to the individual employee or employees who committed the act. As a result, companies are at risk of being exposed to such penalties, especially firms with a large number of employees. Fidelity bonds are insurance policies that cover firms for such damages.
+If a company has employees that commit fraudulent acts, the company itself may be exposed to legal or financial penalty in addition to the individual employee or employees who committed the act. As a result, companies are at [[Risk|risk]] of being exposed to such penalties, especially firms with a large number of employees. Fidelity bonds are insurance policies that cover firms for such damages.
 
 Fidelity bonds are most often held by insurance companies, banks, and brokerage firms, which are specifically required to carry protection proportional to their net capital. Among the possible forms of loss a fidelity [[bond]](https://www.investopedia.com/terms/b/bond.asp) covers include fraudulent trading, theft and forgery.
 
@@ -34,7 +34,7 @@ Although they are called "bonds," fidelity bonds are actually a form of insuranc
 
 ## Why Fidelity Bonds Are Used
 
-Fidelity bonds can be considered part of a business’s approach to [[enterprise risk management]](https://www.investopedia.com/terms/e/enterprise-risk-management.asp). Such an insurance policy as a sort of protection should the company suffer losses caused by fraudulent or criminal employee actions taken against the company or its clientele. This can include cash thefts from the business as well as if the employee steals from a customer of the company. Acts of forgery by an employee that affect the business may also be covered by this type of policy. Robbery and burglary of the company safe, destruction of company property, and the illicit transfer of funds are also covered by fidelity bonds.
+Fidelity bonds can be considered part of a business’s approach to [[enterprise risk management]](https://www.investopedia.com/terms/e/enterprise-[[Risk|risk]]-management.asp). Such an insurance policy as a sort of protection should the company suffer losses caused by fraudulent or criminal employee actions taken against the company or its clientele. This can include cash thefts from the business as well as if the employee steals from a customer of the company. Acts of forgery by an employee that affect the business may also be covered by this type of policy. Robbery and burglary of the company safe, destruction of company property, and the illicit transfer of funds are also covered by fidelity bonds.
 
 ## Types of Fidelity Bonds
 

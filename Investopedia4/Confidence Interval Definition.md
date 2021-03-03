@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/c/confidenceinterval.asp
 author: Adam Hayes
 ---
 
-# Confidence Interval Definition
+# [[Confidence Interval Definition]]
 
 > ## Excerpt
-> A confidence interval, in statistics, refers to the probability that a population parameter will fall between two set values.
+> A confidence interval, in statistics, refers to the probability that a population parameter [[Will|will]] fall between two set values.
 
 ---
 
-Confidence Interval Definition
+[[Confidence Interval Definition]]
 ## What Is a Confidence Interval?
 
-A confidence interval, in statistics, refers to the probability that a [[population]](https://www.investopedia.com/terms/p/population.asp) parameter will fall between a set of values for a certain proportion of times. Confidence intervals measure the degree of uncertainty or certainty in a [[sampling]](https://www.investopedia.com/terms/s/sampling.asp) method. They can take any number of probability limits, with the most common being a 95% or 99% confidence level.
+A confidence interval, in statistics, refers to the probability that a [[population]](https://www.investopedia.com/terms/p/population.asp) parameter [[Will|will]] fall between a set of values for a certain proportion of times. Confidence intervals measure the degree of uncertainty or certainty in a [[sampling]](https://www.investopedia.com/terms/s/sampling.asp) method. They can take any number of probability limits, with the most common being a 95% or 99% confidence level.
 
 Confidence intervals are conducted using statistical methods, such as a [t-test](https://www.investopedia.com/terms/t/t-test.asp).
 
 ### Key Takeaways
 
--   A confidence interval displays the probability that a parameter will fall between a pair of values around the mean.
+-   A confidence interval displays the probability that a parameter [[Will|will]] fall between a pair of values around the mean.
 -   Confidence intervals measure the degree of uncertainty or certainty in a sampling method.
 -   They are most often constructed using confidence levels of 95% or 99%.
 
@@ -54,4 +54,4 @@ If the researchers want even greater confidence, they can expand the interval to
 
 The biggest misconception regarding confidence intervals is that they represent the percentage of data from a given sample that falls between the upper and lower bounds.
 
-For example, one might erroneously interpret the aforementioned 99% confidence interval of 70-to-78 inches as indicating that 99% of the data in a random sample falls between these numbers. This is incorrect, though a separate method of statistical analysis exists to make such a determination. Doing so involves identifying the sample's mean and standard deviation and plotting these figures on a [[bell curve]](https://www.investopedia.com/terms/b/bell-curve.asp).
+For example, one might erroneously interpret the aforementioned 99% confidence interval of 70-to-78 inches as indicating that 99% of the data in a random sample falls between these numbers. This is incorrect, though a separate method of statistical analysis exists to make such a determination. Doing so involves identifying the sample's mean and [[Standard Deviation|standard deviation]] and plotting these figures on a [[bell curve]](https://www.investopedia.com/terms/b/bell-curve.asp).

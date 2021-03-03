@@ -6,23 +6,23 @@ source: https://www.investopedia.com/terms/g/general-business-tax-credit.asp
 author: Julia Kagan
 ---
 
-# General Business Tax Credit Definition
+# [[General Business Tax Credit]] Definition
 
 > ## Excerpt
-> The general business tax credit is the total value of all the individual credits to be applied against income on a tax return. This credit can be carried forward for a number of years in most cases and can also be carried back in some cases.
+> The [[General Business Tax Credit|general business tax credit]] is the total value of all the individual credits to be applied against income on a [[Tax Return|tax return]]. This credit can be carried forward for a number of years in most cases and can also be carried back in some cases.
 
 ---
 
-General Business Tax Credit
-## What Is the General Business Tax Credit?
+[[General Business Tax Credit]]
+## What Is the [[General Business Tax Credit]]?
 
-The general business tax credit is the total value of all the individual credits to be applied against income on a tax return. This credit can be carried forward for a number of years in most cases and can also be carried back in some cases.1
+The [[General Business Tax Credit|general business tax credit]] is the total value of all the individual credits to be applied against income on a [[Tax Return|tax return]]. This credit can be carried forward for a number of years in most cases and can also be carried back in some cases.1
 
 #### Tax Deductions Vs. Tax Credits
 
-## Understanding the General Business Tax Credit
+## Understanding the [[General Business Tax Credit]]
 
-The general business tax credit is unique in that it is not a single separate credit. Instead, it represents a smorgasbord of specific [[tax credits]](https://www.investopedia.com/terms/t/taxcredit.asp) that promote certain business activities, such as research, oil recovery, reforestation, or starting a pension plan. The individual credits are tallied up separately on their individual forms, each calculated under its own set of rules. The resulting combined credit is carried over to the General Business Tax Credit Form 3800 to determine the overall allowable credit. None of the credits listed can be used to offset the corporate alternative minimum tax. Some of the more common credits that are claimed include:
+The [[General Business Tax Credit|general business tax credit]] is unique in that it is not a single separate credit. Instead, it represents a smorgasbord of specific [[tax credits]](https://www.investopedia.com/terms/t/taxcredit.asp) that promote certain business activities, such as research, oil recovery, reforestation, or starting a [[Pension Plan|pension plan]]. The individual credits are tallied up separately on their individual forms, each calculated under its own set of rules. The resulting combined credit is carried over to the General Business Tax Credit Form 3800 to determine the overall allowable credit. None of the credits [[Listed|listed]] can be used to offset the corporate alternative minimum tax. Some of the more common credits that are claimed include:
 
 -   Investment Credit (Form 3468)
 -   Work Opportunity Credit (Form 5884)
@@ -30,10 +30,10 @@ The general business tax credit is unique in that it is not a single separate cr
 -   Disabled Access Credit (Form 8826)
 -   Energy Efficient Home Credit (Form 8908)
 -   Credit for Employer-Provided Childcare Facilities and Services (Form 8882)
--   Credit for Small Employer Pension Plan Startup Costs (Form 8881)
--   Credit for Employer Social Security and Medicare Taxes Paid on Certain Employee Tips (Form 8846)1
+-   Credit for Small Employer [[Pension Plan]] Startup Costs (Form 8881)
+-   Credit for Employer [[Social Security]] and Medicare Taxes Paid on Certain Employee Tips (Form 8846)1
 
-The general business tax credit is a [[non-refundable credit]](https://www.investopedia.com/terms/n/nonrefundabletaxcredit.asp) that directly reduces the tax bill. It can only reduce a taxpayer’s liability to zero; any amount that remains from the credit is automatically forfeited by the taxpayer. General business tax credit for the year consists of an entity's carryforward of business credits from prior years plus the total of its current year business credits. Unused credit must first be carried back one year, then carried forward for up to 20 years. With regards to the both the carryforward as well as the carryback provisions, the [[first-in first-out (FIFO)]](https://www.investopedia.com/terms/f/fifo.asp) method is applied, which results in older credits being applied first, thereby, reducing the chance of credit expiration moving forward.2
+The [[General Business Tax Credit|general business tax credit]] is a [[non-refundable credit]](https://www.investopedia.com/terms/n/nonrefundabletaxcredit.asp) that directly reduces the tax bill. It can only reduce a [[Taxpayer|taxpayer]]’s [[Liability|liability]] to zero; any amount that remains from the credit is automatically forfeited by the taxpayer. General business tax credit for the year consists of an entity's carryforward of business credits from prior years plus the total of its current year business credits. Unused credit must first be carried back one year, then carried forward for up to 20 years. With regards to the both the carryforward as well as the carryback provisions, the [[first-in first-out (FIFO)]](https://www.investopedia.com/terms/f/fifo.asp) method is applied, which results in older credits being applied first, thereby, reducing the chance of credit expiration moving forward.2
 
 ## General Business Credit Limitations
 

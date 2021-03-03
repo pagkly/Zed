@@ -1,26 +1,26 @@
 ---
-alias: [Feed-In Tariff, FIT]
+alias: [Feed-In [[Tariff]], FIT]
 created: 2021-03-02T19:54:41 (UTC +11:00)
-tags: [Feed-In Tariff (FIT) Definition, Feed-In Tariff (FIT)]
-source: https://www.investopedia.com/terms/f/feed-in-tariff.asp
-author: Will Kenton
+tags: [Feed-In [[Tariff]] (FIT) Definition, Feed-In Tariff (FIT)]
+source: https://www.investopedia.com/terms/f/feed-in-[[Tariff|tariff]].asp
+author: [[Will]] Kenton
 ---
 
-# Feed-In Tariff (FIT) Definition
+# [[Feed-In Tariff (FIT)]] Definition
 
 > ## Excerpt
-> A feed-in tariff is an economic policy created to promote active investment i—and production of—renewable energy sources.
+> A feed-in [[Tariff|tariff]] is an economic policy created to promote active investment i—and production of—renewable energy sources.
 
 ---
 
-Feed-In Tariff (FIT)
-## What Is a Feed-In Tariff (FIT)?
+[[Feed-In Tariff (FIT)]]
+## What Is a [[Feed-In Tariff (FIT)]]?
 
-A feed-in tariff is a policy tool designed to promote [[investment in renewable energy sources]](https://www.investopedia.com/renewable-energy-4689739). This usually means promising small-scale producers of the energy—such as solar or wind energy—an above-market price for what they deliver to the grid.
+A feed-in [[Tariff|tariff]] is a policy tool designed to promote [[investment in renewable energy sources]](https://www.investopedia.com/renewable-energy-4689739). This usually means promising small-scale producers of the energy—such as solar or wind energy—an above-market price for what they deliver to the grid.
 
 ### Key Takeaways
 
--   A feed-in tariff (FIT) is a policy designed to support the development of renewable energy sources by providing a guaranteed, above-market price for producers.
+-   A [[Feed-In Tariff (FIT)|feed-in tariff (FIT)]] is a policy designed to support the development of renewable energy sources by providing a guaranteed, above-market price for producers.
 -   FITs usually involve long-term contracts, from 15 to 20 years.
 -   FITs are common in the U.S. and around the world, used most notably in Germany and Japan.
 
@@ -30,11 +30,11 @@ Feed-in tariffs are seen as necessary to promote renewable energy sources in the
 
 ## Feed-In Tariffs and Small Energy Producers
 
-[Anyone who produces renewable energy](https://www.investopedia.com/articles/personal-finance/053115/how-become-renewable-energy-entrepreneur.asp) is eligible for a feed-in tariff, but those who take advantage of it are often not commercial energy producers. They can include homeowners, business owners, farmers, and private investors. Generally, FITs have three provisions.
+[Anyone who produces renewable energy](https://www.investopedia.com/articles/personal-[[Finance|finance]]/053115/how-become-renewable-energy-entrepreneur.asp) is eligible for a feed-in [[Tariff|tariff]], but those who take advantage of it are often not commercial energy producers. They can include homeowners, business owners, farmers, and private investors. Generally, FITs have three provisions.
 
-1.  They guarantee grid access, meaning energy producers will have access to the grid.
-2.  They offer long-term contracts, typically in the range of 15 to 25 years.
-3.  They offer guaranteed, cost-based purchase prices, meaning that energy producers are paid in proportion to the resources and capital expended in order to produce the energy.
+1.  They guarantee grid access, meaning energy producers [[Will|will]] have access to the grid.
+2.  They [[Offer|offer]] long-term contracts, typically in the range of 15 to 25 years.
+3.  They [[Offer|offer]] guaranteed, cost-based purchase prices, meaning that energy producers are paid in proportion to the resources and capital expended in order to produce the energy.
 
 One of the first feed-in tariffs was implemented in the U.S. by the Carter administration in 1978, but they are now used around the world.
 
@@ -48,4 +48,4 @@ Since then FITs have become widely used internationally. Japan, Germany, and Chi
 
 ## A Shift Away From Feed-In Tariffs
 
-Despite the successful role feed-in tariffs have played in promoting the development of renewable energy, some countries are turning away from relying on them, instead seeking more market-driven sources of support as well as more control over the supply of renewable energy that is produced. That includes Germany and China, two of the more prominent FIT success stories. Nonetheless, FITs still play a vital role in the development of renewable energy resources around the globe.
+Despite the successful role feed-in tariffs have played in promoting the development of renewable energy, some countries are turning away from relying on them, instead seeking more market-driven sources of support as well as more control over the [[Supply|supply]] of renewable energy that is produced. That includes Germany and China, two of the more prominent FIT success stories. Nonetheless, FITs still play a vital role in the development of renewable energy resources around the globe.

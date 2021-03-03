@@ -13,7 +13,7 @@ author: Caroline Banton
 
 ---
 
-Explaining the Wage-Price Spiral and How It Relates to Inflation
+[[Explaining the Wage-Price Spiral and How It Relates to Inflation]]
 ## What Is the Wage-price Spiral?
 
 The wage-price spiral is a macroeconomic theory used to explain the cause-and-effect relationship between rising wages and rising prices, or inflation. The wage-price spiral suggests that rising wages increase [disposable income](https://www.investopedia.com/terms/d/disposableincome.asp) raising the demand for goods and causing prices to rise. Rising prices increase demand for higher wages, which leads to higher production costs and further upward pressure on prices creating a conceptual spiral.
@@ -25,18 +25,18 @@ The wage-price spiral is an economic term that describes the phenomenon of price
 ### Key Takeaways
 
 -   The Wage-price spiral describes a perpetual cycle whereby rising wages create rising prices and vice versa.
--   Central banks use monetary, the interest rate, reserve requirements, or open market operations, to curb the wage-price spiral.
+-   Central banks use monetary, the interest rate, [[Reserve Requirements|reserve requirements]], or open market operations, to curb the wage-price spiral.
 -   Inflation targeting is a type of monetary policy that aims to achieve and sustain a set interest rate over a period.
 
 ## How a Wage-price Spiral Begins
 
-A wage-price spiral is caused by the effect of supply and demand on aggregate prices. People who earn more than the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp) select an allocation mix between savings and consumer spending. As wages increase, so too does a consumer's propensity to both save and consume.
+A wage-price spiral is caused by the effect of [[Supply|supply]] and demand on aggregate prices. People who earn more than the [[cost of living]](https://www.investopedia.com/terms/c/cost-of-living.asp) select an allocation mix between savings and consumer spending. As wages increase, so too does a consumer's propensity to both save and consume.
 
 If the minimum wage of an economy increased, for example, it would cause consumers within the economy to purchase more product, which would increase demand. The rise in [[aggregate demand]](https://www.investopedia.com/terms/a/aggregatedemand.asp) and the increased wage burden causes businesses to increase the prices of products and services. Although wages are higher the increase in prices causes workers to demand even higher salaries. If higher wages are granted, a spiral where prices subsequently increase may occur repeating the cycle until wage levels can no longer be supported.
 
 ## Stopping a Wage-price Spiral
 
-Governments and economies favor stable inflation—or price increases. A wage-price spiral often makes inflation higher than is ideal. Governments have the option of stopping this inflationary environment through the actions of the Federal Reserve or [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp). A country's central bank can use [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp), the interest rate, reserve requirements, or open market operations, to curb the wage-price spiral.
+Governments and economies favor stable inflation—or price increases. A wage-price spiral often makes inflation higher than is ideal. Governments have the option of stopping this inflationary environment through the actions of the Federal Reserve or [[central bank]](https://www.investopedia.com/terms/c/centralbank.asp). A country's central bank can use [[monetary policy]](https://www.investopedia.com/terms/m/monetarypolicy.asp), the interest rate, [[Reserve Requirements|reserve requirements]], or open market operations, to curb the wage-price spiral.
 
 ## Real World Example
 

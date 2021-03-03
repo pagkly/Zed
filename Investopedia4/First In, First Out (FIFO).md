@@ -3,30 +3,30 @@ alias: [First In, First Out, FIFO]
 created: 2021-03-02T19:56:47 (UTC +11:00)
 tags: [First In, First Out (FIFO) Definition, First In, First Out (FIFO)]
 source: https://www.investopedia.com/terms/f/fifo.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# First In, First Out (FIFO) Definition
+# [[First In, First Out (FIFO)]] Definition
 
 > ## Excerpt
 > First-in, first-out (FIFO) is an asset-management and valuation method in which the assets produced or acquired first are sold, used, or disposed of first.
 
 ---
 
-First In, First Out (FIFO)
-## What Is First In, First Out (FIFO)?
+[[First In, First Out (FIFO)]]
+## What Is [[First In, First Out (FIFO)]]?
 
 First In, First Out, commonly known as FIFO, is an asset-management and valuation method in which assets produced or acquired first are sold, used, or disposed of first. For tax purposes, FIFO assumes that assets with the oldest costs are included in the income statement's cost of goods sold (COGS). The remaining inventory assets are matched to the assets that are most recently purchased or produced.1
 
-#### First In, First Out (FIFO)
+#### [[First In, First Out (FIFO)]]
 
-## How First In, First Out (FIFO) Works
+## How [[First In, First Out (FIFO)]] Works
 
-The FIFO method is used for cost flow assumption purposes. In manufacturing, as items progress to later [[development stages]](https://www.investopedia.com/terms/d/developmentstage.asp) and as finished inventory items are sold, the associated costs with that product must be recognized as an expense. Under FIFO, it is assumed that the cost of inventory purchased first will be recognized first. The dollar value of total inventory decreases in this process because inventory has been removed from the company’s ownership. The costs associated with the inventory may be calculated in several ways — one being the FIFO method.
+The FIFO method is used for cost flow assumption purposes. In [[Manufacturing|manufacturing]], as items progress to later [[development stages]](https://www.investopedia.com/terms/d/developmentstage.asp) and as finished inventory items are sold, the associated costs with that product must be recognized as an expense. Under FIFO, it is assumed that the cost of inventory purchased first [[Will|will]] be recognized first. The dollar value of total inventory decreases in this process because inventory has been removed from the company’s ownership. The costs associated with the inventory may be calculated in several ways — one being the FIFO method.
 
 ### Key Takeaways
 
--   First In, First Out (FIFO) is an accounting method in which assets purchased or acquired first are disposed of first.
+-   [[First In, First Out (FIFO)]] is an accounting method in which assets purchased or acquired first are disposed of first.
 -   FIFO assumes that the remaining inventory consists of items purchased last.
 -   An alternative to FIFO, LIFO is an accounting method in which assets purchased or acquired last are disposed of first.
 -   Often, in an inflationary market, lower, older costs are assigned to the cost of goods sold under the FIFO method, which results in a higher net income than if LIFO were used.
@@ -39,7 +39,7 @@ The FIFO method follows the logic that to avoid obsolescence, a company would se
 
 ## Special Considerations
 
-Typical economic situations involve inflationary markets and rising prices. In this situation, if FIFO assigns the oldest costs to [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp), these oldest costs will theoretically be priced lower than the most recent inventory purchased at current inflated prices. This lower expense results in higher net income. Also, because the newest inventory was purchased at generally higher prices, the ending inventory balance is inflated.
+Typical economic situations involve inflationary markets and rising prices. In this situation, if FIFO assigns the oldest costs to [[cost of goods sold]](https://www.investopedia.com/terms/c/cogs.asp), these oldest costs [[Will|will]] theoretically be priced lower than the most recent inventory purchased at current inflated prices. This lower expense results in higher net income. Also, because the newest inventory was purchased at generally higher prices, the ending inventory balance is inflated.
 
 ## FIFO vs. Other Valuation Methods
 

@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/d/dac.asp
 author: Daniel Liberto
 ---
 
-# Deferred Acquisition Costs (DAC) Definition
+# [[Deferred Acquisition Costs (DAC) Definition]]
 
 > ## Excerpt
 > Deferred acquisition costs (DAC) is when a company defers the costs associated with acquiring a new customer over the term of the insurance contract.
 
 ---
 
-Deferred Acquisition Costs (DAC) Definition
+[[Deferred Acquisition Costs (DAC) Definition]]
 ## What Are Deferred Acquisition Costs (DAC)?
 
 Deferred acquisition costs (DAC) is an accounting method that is applicable in the insurance industry. Using the DAC method allows a company to defer the [[sales costs]](https://www.investopedia.com/terms/c/cogs.asp) that are associated with acquiring a new customer over the term of the insurance contract.
@@ -27,7 +27,7 @@ Deferred acquisition costs (DAC) is an accounting method that is applicable in 
 
 ## Understanding Deferred Acquisition Costs (DAC)
 
-[Insurance companies](https://www.investopedia.com/ask/answers/052015/what-main-business-model-insurance-companies.asp) face large upfront costs when issuing new business, including referral [commissions](https://www.investopedia.com/terms/c/commission.asp) to external distributors and brokers, underwriting, and medical expenses. Often these costs can exceed the premiums paid in the early years of different types of insurance plans.
+[Insurance companies](https://www.investopedia.com/ask/answers/052015/what-main-business-model-insurance-companies.asp) face large upfront costs when issuing new business, including referral [commissions](https://www.investopedia.com/terms/c/[[Commission|commission]].asp) to external distributors and brokers, underwriting, and medical expenses. Often these costs can exceed the premiums paid in the early years of different types of insurance plans.
 
 The implementation of DAC enables insurance companies to spread out these large costs (that otherwise would be paid upfront) gradually—as they earn revenues. Using this accounting method tends to produce a smoother pattern of [[earnings]](https://www.investopedia.com/terms/e/earnings.asp).
 

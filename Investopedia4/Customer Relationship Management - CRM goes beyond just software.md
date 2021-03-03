@@ -13,7 +13,7 @@ author: Marshall Hargrave
 
 ---
 
-Customer Relationship Management - CRM goes beyond just software
+[[Customer Relationship Management - CRM goes beyond just software]]
 ## What Is Customer Relationship Management (CRM)?
 
 Customer relationship management (CRM) refers to the principles, practices, and guidelines that an organization follows when interacting with its customers. From the organization's point of view, this entire relationship encompasses direct interactions with customers, such as sales and service-related processes, [forecasting](http://terms/f/forecasting.asp), and the analysis of customer trends and behaviors. Ultimately, CRM serves to enhance the customer's overall experience.
@@ -52,7 +52,7 @@ The convenience of this type of system, however, has a trade-off. If a company g
 
 All of the computer software in the world to help with CRM means nothing without proper management and decision-making from humans. Plus, the best programs organize data in a way that humans can interpret readily and use to their advantage. For successful CRM, companies must learn to discern useful information and superfluous data and must weed out any duplicate and incomplete records that may give employees inaccurate information about customers.
 
-Grand View Research estimates the CRM market will grow from $36.5 billion in 2017 to over $80 billion in 2025.
+Grand View Research estimates the CRM market [[Will|will]] grow from $36.5 billion in 2017 to over $80 billion in 2025.
 
 Despite this human need, industry analysts are increasingly discussing the impact that [[artificial intelligence]](https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) applications may have on CRM management and the CRM market in the near future. AI is expected to strengthen CRM activities by speeding up sales cycles, optimizing pricing and distribution logistics, lowering costs of support calls, increasing resolution rates, and preventing loss through fraud detection.
 

@@ -2,21 +2,21 @@
 alias: [Entrepreneurs Business Pioneers on the Frontier of Innovation]
 created: 2021-03-03T00:40:26 (UTC +11:00)
 tags: [Entrepreneurs: Business Pioneers on the Frontier of Innovation, Entrepreneurs]
-source: https://www.investopedia.com/entrepreneurs-4689828
+source: https://www.investopedia.com/[[Entrepreneurs|entrepreneurs]]-4689828
 author: 
 ---
 
-# Entrepreneurs: Business Pioneers on the Frontier of Innovation
+# [[Entrepreneurs]]: Business Pioneers on the Frontier of Innovation
 
 > ## Excerpt
-> Entrepreneurs are the innovators who take big risks for outsized returns.
+> [[Entrepreneurs]] are the innovators who take big risks for outsized returns.
 
 ---
 
-Entrepreneurs
+[[Entrepreneurs]]
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
--   [[Entrepreneurs]](https://www.investopedia.com/entrepreneurs-4689828)
+-   [[Entrepreneurs]](https://www.investopedia.com/[[Entrepreneurs|entrepreneurs]]-4689828)
 -   [[Rich & Powerful]](https://www.investopedia.com/rich-and-powerful-4689827)
 -   [[CEOs]](https://www.investopedia.com/ceos-4689829)
 -   [[Warren Buffett]](https://www.investopedia.com/warren-buffett-4689826)
@@ -24,13 +24,13 @@ Entrepreneurs
 
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
-[Entrepreneurs](https://www.investopedia.com/entrepreneurs-4689828)
+[Entrepreneurs](https://www.investopedia.com/[[Entrepreneurs|entrepreneurs]]-4689828)
 
-## Learn about famous entrepreneurs who have disrupted markets and even entire industries.
+## Learn about famous [[Entrepreneurs|entrepreneurs]] who have disrupted markets and even entire industries.
 
 [Business Leaders](https://www.investopedia.com/business-leaders-4689830)
 
--   [[Entrepreneurs]](https://www.investopedia.com/entrepreneurs-4689828)
+-   [[Entrepreneurs]](https://www.investopedia.com/[[Entrepreneurs|entrepreneurs]]-4689828)
 -   [[Rich & Powerful]](https://www.investopedia.com/rich-and-powerful-4689827)
 -   [[CEOs]](https://www.investopedia.com/ceos-4689829)
 -   [[Warren Buffett]](https://www.investopedia.com/warren-buffett-4689826)
@@ -40,13 +40,13 @@ Entrepreneurs
 
 ![[Entrepreneurs/GettyImages-971863058-83933a905acf4ff5ba84a92281887db4.jpg]]
 
-Legendary Black Entrepreneurs
+Legendary Black [[Entrepreneurs]]
 
-These 11 inspiring Black entrepreneurs show what it takes to triumph against the odds.
+These 11 inspiring Black [[Entrepreneurs|entrepreneurs]] show what it takes to triumph against the odds.
 
 
 
-](https://www.investopedia.com/legendary-black-entrepreneurs-5112876)
+](https://www.investopedia.com/legendary-black-[[Entrepreneurs|entrepreneurs]]-5112876)
 
 -   [
     
@@ -61,11 +61,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/18SurprisingSuccessHabitsofWorld-ClassEntrepreneurs-596536775f9b583f1817368a.jpg]]
     
-    10 Successful Young Entrepreneurs
+    10 Successful Young [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/10-successful-young-entrepreneurs-4773310)
+    ](https://www.investopedia.com/10-successful-young-[[Entrepreneurs|entrepreneurs]]-4773310)
 -   [
     
     ![[Entrepreneurs/shutterstock_149152835-5bfc3b5346e0fb0026059e9c.jpg]]
@@ -84,25 +84,25 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/080615/5-skills-every-entrepreneur-needs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/080615/5-skills-every-entrepreneur-needs.asp)
 -   [
     
     ![[Entrepreneurs/10th-anniversary-women-in-the-world-summit-1141798589-b2897bf6ea44449d959c4ba68fa3dd3a.jpg]]
     
-    Top 5 Most Successful American Entrepreneurs
+    Top 5 Most Successful American [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/092315/top-5-most-successful-american-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/092315/top-5-most-successful-american-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-535180352-15099f7a9d3e416b8d94ddd487d9449b.jpg]]
     
-    Top 5 Most Successful Canadian Entrepreneurs
+    Top 5 Most Successful Canadian [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/092915/top-5-most-successful-canadian-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/092915/top-5-most-successful-canadian-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-643285752-87e55b46eb754b70bddff347513d81c3.jpg]]
@@ -111,12 +111,12 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/101515/3-shark-tank-failures-made-millions.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/101515/3-shark-tank-failures-made-millions.asp)
 -   [
     
     ![[Entrepreneurs/packagedelivery-5685bef53df78ccc15e98418.jpg]]
     
-    Electronic Commerce (e-commerce)
+    [[Electronic Commerce (e-commerce)]]
     
     
     
@@ -134,11 +134,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/DhirubhaiAmbani-96610abced3b44c29af8e5e6526a3f0a.jpg]]
     
-    Top 10 Indian Entrepreneurs
+    Top 10 Indian [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/020415/top-10-indian-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/020415/top-10-indian-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1124741508-977549f31747475f863d2cfcaabe8bfd.jpg]]
@@ -170,11 +170,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/GettyImages-1185999181-5817870247f642228c9d7e3403b0c25c.jpg]]
     
-    The 10 Greatest Entrepreneurs
+    The 10 Greatest [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/financial-theory/10/the-10-greatest-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/financial-theory/10/the-10-greatest-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1124741644-425329ce504a4f3da222dbf16bf9383a.jpg]]
@@ -228,21 +228,21 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/111815/10-ways-ensure-success-entrepreneur.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/111815/10-ways-ensure-success-entrepreneur.asp)
 -   [
     
     ![[Entrepreneurs/oprah-speaks-at-rogers-arena-1158127948-ce6a548973804ad18a4aba89501a1246.jpg]]
     
-    World's Top 10 Serial Entrepreneurs
+    World's Top 10 Serial [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/083115/worlds-top-10-serial-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/083115/worlds-top-10-serial-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/shutterstock_253136563-5bfc2b98c9e77c00519aa7a8.jpg]]
     
-    Entrepreneurs and Entrepreneurship Defined
+    [[Entrepreneurs]] and Entrepreneurship Defined
     
     
     
@@ -255,7 +255,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/101414/why-entrepreneurs-are-important-economy.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/101414/why-[[Entrepreneurs|entrepreneurs]]-are-important-economy.asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-136637359-270aaa3c8c084554a97bfcea51357104.jpg]]
@@ -269,11 +269,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/chairman-of-chinese-computer-giant-lenov-87889642-687f96c2206a472fb06d4c1e23292ac6.jpg]]
     
-    10 Influential Chinese Entrepreneurs
+    10 Influential Chinese [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/020415/top-10-chinese-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/020415/top-10-chinese-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1004712242-62b30216a3e646938b65ce405e8cd982.jpg]]
@@ -287,7 +287,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/GettyImages-155220151-b46e7f3e1bf8492390104b2d59f03a24.jpg]]
     
-    Azim Premji Net Worth: The Story Behind His Success
+    Azim Premji [[Net Worth]]: The Story Behind His Success
     
     
     
@@ -314,11 +314,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/GettyImages-1145631842-1b9c34d2fbeb4f02a533acc23146395d.jpg]]
     
-    Understanding How Entrepreneurs Make Money
+    Understanding How [[Entrepreneurs]] Make Money
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/101414/why-how-where-and-when-entrepreneurs-make-money.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/101414/why-how-where-and-when-[[Entrepreneurs|entrepreneurs]]-make-money.asp)
 -   [
     
     ![[Entrepreneurs/ap_310870414984-5bfc30db46e0fb0026026c28.jpg]]
@@ -327,7 +327,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/061015/how-elon-musk-became-elon-musk.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/061015/how-elon-musk-became-elon-musk.asp)
 -   [
     
     ![[Entrepreneurs/personal-finance-lrg-4-5bfc2b1f46e0fb00260b1148.jpg]]
@@ -368,7 +368,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/bonds-lrg-4-5bfc2b234cedfd0026c104ea.jpg]]
     
-    The Giants of Finance: Andrew Carnegie
+    The Giants of [[Finance]]: Andrew Carnegie
     
     
     
@@ -404,7 +404,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/148985994-5bfc2b8c46e0fb0083c07ba8.jpg]]
     
-    James H. Clark Definition
+    [[James H. Clark Definition]]
     
     
     
@@ -440,7 +440,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/investing3-5bfc2b8e46e0fb0026016f32.jpg]]
     
-    John Elkann
+    [[John Elkann]]
     
     
     
@@ -485,7 +485,7 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/148985994-5bfc2b8c46e0fb0083c07ba8.jpg]]
     
-    What Is an Entrepreneur's Elevator Pitch?
+    What Is an Entrepreneur's [[Elevator Pitch]]?
     
     
     
@@ -512,11 +512,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/shutterstock_106168946-5bfc369546e0fb00260d8a83.jpg]]
     
-    The 10 Most Successful Social Entrepreneurs
+    The 10 Most Successful Social [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/investing/092515/10-most-successful-social-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/investing/092515/10-most-successful-social-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/115285736-5bfc3962c9e77c0026b8c87d.jpg]]
@@ -525,21 +525,21 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/012815/how-steve-jobs-changed-world.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/012815/how-steve-jobs-changed-world.asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1161993471-93f38f4575f64d7ea947884dbd88e810.jpg]]
     
-    10 Most Successful Women Entrepreneurs of the Decade
+    10 Most Successful Women [[Entrepreneurs]] of the Decade
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/040515/10-most-successful-women-entrepreneurs-decade.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/040515/10-most-successful-women-[[Entrepreneurs|entrepreneurs]]-decade.asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1094011598-79faf2632b5d441aa617605a2e7706d9.jpg]]
     
-    Mohnish Pabrai's Success Story: Net Worth, Education & Top Quotes
+    Mohnish Pabrai's Success Story: [[Net Worth]], Education & Top Quotes
     
     
     
@@ -557,11 +557,11 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     ![[Entrepreneurs/GettyImages-1188675516-133b79659d50402796f3393daa118cb7.jpg]]
     
-    Top 3 Most Successful Australian Entrepreneurs
+    Top 3 Most Successful Australian [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/091615/top-3-most-successful-australian-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/091615/top-3-most-successful-australian-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/thinkstockphotos-475614588-5bfc34e146e0fb0026032eaf.jpg]]
@@ -570,16 +570,16 @@ These 11 inspiring Black entrepreneurs show what it takes to triumph against the
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/062215/who-invented-apps-smart-phones.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/062215/who-invented-apps-smart-phones.asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-165699293-798b50d648b84d49a9b4bbee474d48db.jpg]]
     
-    The Most Successful Mexican Entrepreneurs
+    The Most Successful Mexican [[Entrepreneurs]]
     
     
     
-    ](https://www.investopedia.com/articles/personal-finance/100115/top-5-most-successful-mexican-entrepreneurs.asp)
+    ](https://www.investopedia.com/articles/personal-[[Finance|finance]]/100115/top-5-most-successful-mexican-[[Entrepreneurs|entrepreneurs]].asp)
 -   [
     
     ![[Entrepreneurs/GettyImages-1185671487-ae65eee40d55433a89e7e725191ea7b8.jpg]]

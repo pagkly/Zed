@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/g/gdppricedeflator.asp
 author: Investopedia Staff
 ---
 
-# GDP Price Deflator Definition
+# [[GDP Price Deflator Definition]]
 
 > ## Excerpt
 > The GDP price deflator measures the changes in prices for all of the goods and services produced in an economy.
 
 ---
 
-GDP Price Deflator Definition
+[[GDP Price Deflator Definition]]
 ## What Is the GDP Price Deflator?
 
 The GDP price deflator, also known as the GDP deflator or the implicit price deflator, measures the changes in prices for all of the goods and services produced in an [[economy]](https://www.investopedia.com/terms/e/economy.asp).
@@ -28,7 +28,7 @@ The GDP price deflator, also known as the GDP deflator or the implicit price def
 
 [Gross domestic product](https://www.investopedia.com/terms/g/gdp.asp) (GDP) represents the total output of goods and services. However, as GDP rises and falls, the metric doesn't factor the impact of inflation or rising prices into its results. The GDP price deflator addresses this by showing the effect of price changes on GDP, first by establishing a [[base year]](https://www.investopedia.com/terms/b/base-year.asp) and, secondly, by comparing current prices to prices in the base year.
 
-Simply put, the GDP price deflator shows how much a change in GDP relies on changes in the [[price level]](https://www.investopedia.com/terms/p/price_level.asp). It expresses the extent of price level changes, or [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), within the economy by tracking the prices paid by businesses, the government, and consumers.
+Simply put, the GDP price deflator shows how much a change in GDP relies on changes in the [[price level]](https://www.investopedia.com/terms/p/price_level.asp). It expresses the extent of [[Price Level|price level]] changes, or [[inflation]](https://www.investopedia.com/terms/i/inflation.asp), within the economy by tracking the prices paid by businesses, the government, and consumers.
 
 ## Example of the GDP Price Deflator
 
@@ -52,7 +52,7 @@ The result means that the aggregate level of prices increased by 25 percent from
 
 ## Benefits of the GDP Price Deflator
 
-The GDP price deflator helps identify how much prices have inflated over a specific time period. This is important because, as we saw in our previous example, comparing GDP from two different years can give a deceptive result if there's a change in the price level between the two years.
+The GDP price deflator helps identify how much prices have inflated over a specific time period. This is important because, as we saw in our previous example, comparing GDP from two different years can give a deceptive result if there's a change in the [[Price Level|price level]] between the two years.
 
 Without some way to account for the change in prices, an economy that's experiencing price inflation would appear to be growing in dollar terms. However, that same economy might be exhibiting little-to-no growth, but with prices rising, the total output figures would appear higher than what was really being produced.
 
