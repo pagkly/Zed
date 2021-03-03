@@ -13,27 +13,27 @@ author: Carla Tardi
 
 ---
 
-Learn How Companies Display Price Leadership
+[[Learn How Companies Display Price Leadership]]
 ## What Is Price Leadership?
 
 Price leadership occurs when a leading firm in a given industry is able to exert enough influence in the sector that it can effectively determine the price of goods or services for the entire market. This type of firm is sometimes referred to as the price leader.
 
-This phenomenon is common in industries that have oligopolistic market conditions, such as the airline industry. This level of influence often times leaves the rivals of the price leader with little choice but to [[follow its lead]](https://www.investopedia.com/terms/f/follow-the-leader-pricing.asp) and match the prices if they are to hold onto their [[market share.]](https://www.investopedia.com/terms/m/marketshare.asp) In the airline industry, a dominant company typically sets the prices and other airlines feel compelled to adjust their prices to match the prices of the leading firm.
+This phenomenon is common in industries that have oligopolistic market conditions, such as the airline industry. This level of influence often times leaves the rivals of the price leader with little choice but to [[follow its lead]](https://www.investopedia.com/terms/f/follow-the-leader-pricing.asp) and match the prices if they are to [[Hold|hold]] onto their [[market share.]](https://www.investopedia.com/terms/m/marketshare.asp) In the airline industry, a dominant company typically sets the prices and other airlines feel compelled to adjust their prices to match the prices of the leading firm.
 
 ### Key Takeaways
 
 -   Price leadership occurs when a leading firm in a given industry is able to exert enough influence in the sector that it can effectively determine the price of goods or services for the entire market.
 -   There are three primary models of price leadership: barometric, collusive, and dominant.
 -   Price leadership is commonly used as a strategy among large corporations.
--   There are certain economic conditions that make the emergence of price leadership more likely to occur within an industry, including a small number of companies in the industry, entry to the industry is restricted, products are homogeneous, and demand is inelastic.
+-   There are certain [[Economic Conditions|economic conditions]] that make the emergence of price leadership more likely to occur within an industry, including a small number of companies in the industry, entry to the industry is restricted, products are homogeneous, and demand is inelastic.
 
 ## How Price Leadership Works
 
-There are certain economic conditions that make the emergence of price leadership more likely to occur within an industry: the number of companies involved is small; entry to the industry is restricted; products are homogeneous; demand is [[inelastic]](https://www.investopedia.com/terms/e/inelastic.asp), or less elastic; organizations have a similar long-run average total cost (LRATC). LRATC is an economics metric that is used to determine the minimum (or lowest) average total cost at which a firm can produce any given level of output in the long run (when all inputs are variable).
+There are certain [[Economic Conditions|economic conditions]] that make the emergence of price leadership more likely to occur within an industry: the number of companies involved is small; entry to the industry is restricted; products are homogeneous; demand is [[inelastic]](https://www.investopedia.com/terms/e/inelastic.asp), or less elastic; organizations have a similar long-run average total cost (LRATC). LRATC is an [[Economics|economics]] metric that is used to determine the minimum (or lowest) average total cost at which a firm can produce any given level of output in the long run (when all inputs are variable).
 
-The proliferation of price leadership tends to occur more often in sectors that produce goods and services that offer little [[differentiation]](https://www.investopedia.com/terms/p/product_differentiation.asp) from one producer to another.
+The proliferation of price leadership tends to occur more often in sectors that produce goods and services that [[Offer|offer]] little [[differentiation]](https://www.investopedia.com/terms/p/product_differentiation.asp) from one producer to another.
 
-Price leadership also tends to emerge when there is a high level of consumer demand for a specific product; this results in consumers being drawn away from any competing products. Thus, the price of the specific product that is experiencing high levels of consumer demand becomes the market leader.
+Price leadership also tends to emerge when there is a high level of consumer demand for a specific product; this results in consumers being drawn away from any competing products. Thus, the price of the specific product that is experiencing high levels of consumer demand becomes the [[Market Leader|market leader]].
 
 ## Types of Price Leadership
 
@@ -57,7 +57,7 @@ These agreements between firms–either explicit or implicit–may be considered
 
 The dominant price leadership model occurs when one firm controls the vast majority of the market share in its industry. Within the industry, there are other, smaller firms that provide the same products or services as the leading firm. However, in this model, these smaller firms cannot influence prices.
 
-A dominant price leadership model is sometimes referred to as a partial [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp). In this type of model, the price leader might engage in predatory pricing, which refers to the practice of lowering prices to levels that make it impossible for smaller, competing firms to remain in business. In most countries, business decisions that enact predatory pricing and are aimed at hurting smaller companies are illegal.
+A dominant price leadership model is sometimes referred to as a partial [[monopoly]](https://www.investopedia.com/terms/m/[[Monopoly|monopoly]].asp). In this type of model, the price leader might engage in [[Predatory Pricing|predatory pricing]], which refers to the practice of lowering prices to levels that make it impossible for smaller, competing firms to remain in business. In most countries, business decisions that enact predatory pricing and are aimed at hurting smaller companies are illegal.
 
 ## Advantages and Disadvantages of Price Leadership
 
@@ -71,12 +71,12 @@ The dynamics of price leadership may also create a system of interdependence rat
 
 There are also many potential disadvantages to the emergence of price leadership within an industry. In general, price leadership is only advantageous to businesses (in terms of their profits and performance). Price leadership where prices are increased does not convey any material advantages to consumers---however in the case where the price leader lowers prices consumers may benefit with less expensive goods and services.
 
-In every price leadership model–barometric, collusive, dominant–it is the sellers that benefit from increased revenues, not the consumers. Customers will need to pay more for items that they were used to getting for less (before the sellers conspired to raise prices).
+In every price leadership model–barometric, collusive, dominant–it is the sellers that benefit from increased revenues, not the consumers. Customers [[Will|will]] need to pay more for items that they were used to getting for less (before the sellers conspired to raise prices).
 
-Consumers, however, may benefit in the short run if a price leader lowers prices. This assumes the price leader is not using predatory pricing to drive firms not able to respond out of business and later on exert monopoly pressure and raise prices.
+Consumers, however, may benefit in the short run if a price leader lowers prices. This assumes the price leader is not using [[Predatory Pricing|predatory pricing]] to drive firms not able to respond out of business and later on exert [[Monopoly|monopoly]] pressure and raise prices.
 
 Price leadership can also be unfair to smaller firms because small firms who attempt to match a leader's prices may not have the same [[economies of scale]](https://www.investopedia.com/terms/e/economiesofscale.asp) as the leaders. This can make it hard for them to sustain consistent price declines (and, in the long-term, to remain in business).
 
 Price leadership can also result in malpractices on the part of competing firms that make the decision not to follow the leader's prices. Instead, they may engage in aggressive promotion strategies, such as rebates, money-back guarantees, free delivery services, and installment payment plans.
 
-Finally, in a price leadership model, there is an inevitable discrepancy between the benefits conferred to the price leader versus the benefit conferred to other firms operating in the same industry. For example, if it costs the price leader less capital to produce the same product than it costs another firm, then the leader will set lower prices. This will result in a loss for any firm that has higher costs than the price leader.
+Finally, in a price leadership model, there is an inevitable discrepancy between the benefits conferred to the price leader versus the benefit conferred to other firms operating in the same industry. For example, if it costs the price leader less capital to produce the same product than it costs another firm, then the leader [[Will|will]] set lower prices. This will result in a loss for any firm that has higher costs than the price leader.

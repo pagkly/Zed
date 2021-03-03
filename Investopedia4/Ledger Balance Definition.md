@@ -6,19 +6,19 @@ source: https://www.investopedia.com/terms/l/ledger-balance.asp
 author: Alicia Tuovila
 ---
 
-# Ledger Balance Definition
+# [[Ledger Balance Definition]]
 
 > ## Excerpt
 > The ledger balance is computed by a bank at the end of each business day and includes all withdrawals and deposits to calculate the total amount of money in the bank account.
 
 ---
 
-Ledger Balance Definition
+[[Ledger Balance Definition]]
 ## What Is a Ledger Balance?
 
 A ledger balance is computed by a bank at the end of each [[business day]](https://www.investopedia.com/terms/b/business-day.asp) and includes all withdrawals and deposits to calculate the total amount of money in a bank account. The ledger balance is the opening balance in the bank account the next morning and remains the same all day.
 
-The ledger balance is also often referred to as the current balance and is different than the available balance in an account. If you log into your online banking, you may see your current balance—the balance at the beginning of the day—and the available balance, which is the aggregate amount at any point during the day.
+The ledger balance is also often referred to as the current balance and is different than the available balance in an account. If you log into your [[Online Banking|online banking]], you may see your current balance—the balance at the beginning of the day—and the available balance, which is the aggregate amount at any point during the day.
 
 In banking and accounting, the ledger balance is used in the reconciliation of book balances.
 
@@ -30,7 +30,7 @@ In banking and accounting, the ledger balance is used in the reconciliation of b
 
 ## How Ledger Balances Works
 
-The ledger balance is updated at the end of the business day after all transactions are approved and processed. Banks calculate this balance after posting all transactions, such as deposits, interest income, wire transfers that go both in or out, cleared checks, cleared [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) or debit transactions, and any correction of errors. It represents the existing balance on an account at the onset of the next business day.
+The ledger balance is updated at the end of the business day after all transactions are approved and processed. Banks calculate this balance after posting all transactions, such as deposits, interest income, wire transfers that go both in or out, cleared checks, cleared [[credit card]](https://www.investopedia.com/terms/c/creditcard.asp) or debit transactions, and any [[Correction|correction]] of errors. It represents the existing balance on an account at the onset of the next business day.
 
 Processing delays related to pending deposits can occur because the bank must first receive funds from the financial institution of the person or business who issued the check, wire transfer, or another form of payment. Once the money has been transferred, the money is made accessible to the account holder.
 
@@ -50,8 +50,8 @@ Understanding the difference between ledger balance and available balance is a v
 
 Remember, the ledger balance is the balance at the beginning of the day, not the end balance. The end balance is usually calculated at the end of the day—the same as the available balance.
 
-When you log into your mobile or online banking, you may not see the most updated information. Some banks display both the current and available balances, so consumers can tell how much they have to use at their disposal.
+When you log into your mobile or [[Online Banking|online banking]], you may not see the most updated information. Some banks display both the current and available balances, so consumers can tell how much they have to use at their disposal.
 
-Similarly, don't rely on bank statements either. As noted above, balances displayed on statements are taken from a ledger balance on the statement date. Keep in mind, if you've conducted any transaction after the statement date—deposits, withdrawals, written checks, or anything else—they will affect your available balance.
+Similarly, don't rely on bank statements either. As noted above, balances displayed on statements are taken from a ledger balance on the statement date. Keep in mind, if you've conducted any transaction after the statement date—deposits, withdrawals, written checks, or anything else—they [[Will|will]] affect your available balance.
 
 In order to ensure you're working with the most updated balance at all times, it's always important to keep your records up to date. You may consider keeping your own ledger, with a running total of your balance after considering any and all transactions through your account.

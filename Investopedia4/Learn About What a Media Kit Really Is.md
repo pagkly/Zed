@@ -13,7 +13,7 @@ author: Adam Barone
 
 ---
 
-Learn About What a Media Kit Really Is
+[[Learn About What a Media Kit Really Is]]
 ## What Is a Media Kit?
 
 A media kit is a package of information, assembled by a company, to provide basic information about itself to reporters. The media kit is a promotional [[public relations]](https://www.investopedia.com/terms/p/public-relations-pr.asp) tool that can serve several functions, including promoting the launch of a new company, promoting the launch of a new product or service by an existing company, giving a company a way to present itself as it would like to be seen, and/or saving time, by eliminating the need for a company's employees to repeatedly answer the same questions.
@@ -26,9 +26,9 @@ A media kit can be as simple as a page on a company's website or as complex as a
 
 ## Possible Components of a Media Kit
 
-### Social Media Following
+### [[Social Media]] Following
 
-Include information on your social media following on Instagram, Twitter, Facebook, Pinterest, YouTube, Tumblr, SnapChat, or any other social media platform on which you might have a presence. This will give people a quick idea of your social media reach. 
+Include information on your [[Social Media|social media]] following on Instagram, Twitter, Facebook, Pinterest, YouTube, Tumblr, SnapChat, or any other social media platform on which you might have a presence. This [[Will|will]] give people a quick idea of your social media reach. 
 
 ### Website Traffic
 
@@ -48,7 +48,7 @@ It's smart to somehow identify your goals in a media kit, so a recipient can als
 
 ### Contact Information
 
-There is little point in sending a media kit with no contact information. It's smart to ensure your contact information is up-to-date and as timeless as possible...meaning, a phone number, website, social media account, or email address that is not likely to change anytime soon.
+There is little point in sending a media kit with no contact information. It's smart to ensure your contact information is up-to-date and as timeless as possible...meaning, a phone number, website, [[Social Media|social media]] account, or email address that is not likely to change anytime soon.
 
 ### About You
 
@@ -56,4 +56,4 @@ Include a short paragraph about you and/or your organization. This is a great pl
 
 ## Example of a Media Kit
 
-One example of a media kit is the one for finance website Kiplinger.com. Its media kit presents a clear value proposition on why Kiplinger’s advice is trusted and highly practical “for readers seeking actionable solutions.” Below this headline are links to products, including the Kiplinger Personal Finance Magazine, Kiplinger Retirement Report, and Kiplinger’s Custom Content option. In addition, Kiplinger offers native advertising, a retirement planning guide, and email opportunities. The site also includes a quick link to contact an Ad Sales Representative. This example is on the simpler end of media kits; however, the materials still display Kiplinger’s important information in readily accessible form to promote the company's product and clear communication of its mission and audience.
+One example of a media kit is the one for [[Finance|finance]] website Kiplinger.com. Its media kit presents a clear value proposition on why Kiplinger’s advice is trusted and highly practical “for readers seeking actionable solutions.” Below this headline are links to products, including the Kiplinger [[Personal Finance]] Magazine, Kiplinger Retirement Report, and Kiplinger’s Custom Content option. In addition, Kiplinger offers native advertising, a [[Retirement Planning|retirement planning]] guide, and email opportunities. The site also includes a quick link to contact an Ad Sales Representative. This example is on the simpler end of media kits; however, the materials still display Kiplinger’s important information in readily accessible form to promote the company's product and clear communication of its mission and audience.

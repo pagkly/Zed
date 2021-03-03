@@ -3,28 +3,28 @@ alias: [Law Of Diminishing Marginal Utility]
 created: 2021-03-02T21:11:25 (UTC +11:00)
 tags: [Law Of Diminishing Marginal Utility, Law Of Diminishing Marginal Utility]
 source: https://www.investopedia.com/terms/l/lawofdiminishingutility.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Law Of Diminishing Marginal Utility
+# [[Law Of Diminishing Marginal Utility]]
 
 > ## Excerpt
-> The Law Of Diminishing Marginal Utility states that all else equal as consumption increases the marginal utility derived from each additional unit declines.
+> The [[Law Of Diminishing Marginal Utility]] states that all else equal as consumption increases the marginal utility derived from each additional unit declines.
 
 ---
 
-Law Of Diminishing Marginal Utility
+[[Law Of Diminishing Marginal Utility]]
 ## What Is Diminishing Marginal Utility?
 
-The Law Of Diminishing Marginal Utility states that all else equal as consumption increases the marginal utility derived from each additional unit declines. Marginal utility is derived as the change in [[utility]](https://www.investopedia.com/terms/u/utility.asp) as an additional unit is consumed. Utility is an economic term used to represent satisfaction or happiness. Marginal utility is the incremental increase in utility that results from consumption of one additional unit.
+The [[Law Of Diminishing Marginal Utility]] states that all else equal as consumption increases the marginal utility derived from each additional unit declines. Marginal utility is derived as the change in [[utility]](https://www.investopedia.com/terms/u/utility.asp) as an additional unit is consumed. Utility is an economic term used to represent satisfaction or happiness. Marginal utility is the incremental increase in utility that results from consumption of one additional unit.
 
 ## Understanding the Law
 
-[Marginal utility](https://www.investopedia.com/terms/m/marginalutility.asp) may decrease into negative utility, as it may become entirely unfavorable to consume another unit of any product. Therefore, the first unit of consumption for any product is typically highest, with every unit of consumption to follow holding less and less utility. Consumers handle the law of diminishing marginal utility by consuming numerous quantities of numerous goods.
+[Marginal utility](https://www.investopedia.com/terms/m/marginalutility.asp) may decrease into negative utility, as it may become entirely unfavorable to consume another unit of any product. Therefore, the first unit of consumption for any product is typically highest, with every unit of consumption to follow holding less and less utility. Consumers handle the [[Law Of Diminishing Marginal Utility|law of diminishing marginal utility]] by consuming numerous quantities of numerous goods.
 
 ## Diminishing Prices
 
-The Law of Diminishing Marginal Utility directly relates to the concept of diminishing prices. As the utility of a product decreases as its consumption increases, consumers are willing to pay smaller dollar amounts for more of the product. For example, assume an individual pays $100 for a vacuum cleaner. Because he has little value for a second vacuum cleaner, the same individual is willing to pay only $20 for a second vacuum cleaner. The law of diminishing marginal utility directly impacts a company’s pricing because the price charged for an item must correspond to the consumer’s marginal utility and willingness to consume or utilize the good.
+The [[Law Of Diminishing Marginal Utility|Law of Diminishing Marginal Utility]] directly relates to the concept of diminishing prices. As the utility of a product decreases as its consumption increases, consumers are willing to pay smaller dollar amounts for more of the product. For example, assume an individual pays $100 for a vacuum cleaner. Because he has little value for a second vacuum cleaner, the same individual is willing to pay only $20 for a second vacuum cleaner. The law of diminishing marginal utility directly impacts a company’s pricing because the price charged for an item must correspond to the consumer’s marginal utility and willingness to consume or utilize the good.
 
 ## Example of Diminishing Utility
 

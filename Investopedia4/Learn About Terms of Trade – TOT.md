@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-Learn About Terms of Trade – TOT
+[[Learn About Terms of Trade – TOT]]
 ## What Are Terms of Trade (TOT)?
 
 Terms of trade (TOT) represent the ratio between a country's [export](https://www.investopedia.com/terms/e/export.asp) prices and its [[import]](https://www.investopedia.com/terms/i/import.asp) prices. How many units of exports are required to purchase a single unit of imports? The ratio is calculated by dividing the price of the exports by the price of the imports and multiplying the result by 100.
@@ -25,7 +25,7 @@ When more capital is leaving the country then is entering into the country the
 -   Terms of trade (TOT) is a key economic metric of a company's health measured through what it imports and exports.
 -   TOT is expressed as a ratio that reflects the number of units of exports that are needed to buy a single unit of imports.
 -   TOT is determined by dividing the price of the exports by the price of the imports and multiplying the number by 100.
--   A TOT over 100% or that shows improvement over time can be a positive economic indicator as it can mean that export prices have risen as import prices have held steady or declined.
+-   A TOT over 100% or that shows improvement over time can be a positive [[Economic Indicator|economic indicator]] as it can mean that export prices have risen as import prices have held steady or declined.
 
 ## How Do Terms of Trade (TOT) Work?
 
@@ -37,9 +37,9 @@ An improvement or increase in a country's TOT generally indicates that export pr
 
 A TOT is dependent to some extent on exchange and inflation rates and prices. A variety of other factors influence the TOT as well, and some are unique to specific sectors and industries.
 
-[Scarcity](https://www.investopedia.com/terms/s/scarcity.asp)—the number of goods available for trade—is one such factor. The more goods a vendor has available for sale, the more goods it will likely sell, and the more goods that vendor can buy using [[capital]](https://www.investopedia.com/terms/c/capital.asp) obtained from sales.
+[Scarcity](https://www.investopedia.com/terms/s/scarcity.asp)—the number of goods available for trade—is one such factor. The more goods a vendor has available for sale, the more goods it [[Will|will]] likely sell, and the more goods that vendor can buy using [[capital]](https://www.investopedia.com/terms/c/capital.asp) obtained from sales.
 
-The size and quality of goods also affect TOT. Larger and higher-quality goods will likely cost more. If goods sell for a higher price, a seller will have additional capital to purchase more goods.
+The size and quality of goods also affect TOT. Larger and higher-quality goods [[Will|will]] likely cost more. If goods sell for a higher price, a seller will have additional capital to purchase more goods.
 
 ## Fluctuating Terms of Trade
 
@@ -53,4 +53,4 @@ The country must export a greater number of units to purchase the same number o
 
 Developing countries experienced increases in their terms of trade during the commodity price boom in the early 2000s. They could buy more consumer goods from other countries when selling a certain quantity of commodities, such as oil and copper.
 
-In the past two decades, however, a rise in [[globalization]](https://www.investopedia.com/terms/g/globalization.asp) has reduced the price of manufactured goods. Industrialized countries' advantage over developing countries is becoming less significant.
+In the past two decades, however, a rise in [[globalization]](https://www.investopedia.com/terms/g/[[Globalization|globalization]].asp) has reduced the price of manufactured goods. Industrialized countries' advantage over developing countries is becoming less significant.

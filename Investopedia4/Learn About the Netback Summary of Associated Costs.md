@@ -3,22 +3,22 @@ alias: [Netback]
 created: 2021-03-02T21:41:50 (UTC +11:00)
 tags: [Netback Definition, Learn About the Netback Summary of Associated Costs]
 source: https://www.investopedia.com/terms/n/netback.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Netback Definition
 
 > ## Excerpt
-> Netback is a summary of all the costs associated with bringing one unit of oil to the marketplace and the revenues from the sale of all the products generated from that same unit. It's expressed as gross profit per barrel.
+> Netback is a summary of all the costs associated with bringing one unit of oil to the marketplace and the revenues from the sale of all the products generated from that same unit. It's expressed as [[Gross Profit|gross profit]] per barrel.
 
 ---
 
-Learn About the Netback Summary of Associated Costs
+[[Learn About the Netback Summary of Associated Costs]]
 ## What Is Netback?
 
-Netback is a summary of all costs associated with bringing one unit of oil to the marketplace and the revenues from the sale of all the products generated from that same unit. It's expressed as gross profit per barrel.
+Netback is a summary of all costs associated with bringing one unit of oil to the marketplace and the revenues from the sale of all the products generated from that same unit. It's expressed as [[Gross Profit|gross profit]] per barrel.
 
-Netback is calculated by taking the revenues from the oil, less all [[costs associated with getting the oil to a market]](https://www.investopedia.com/articles/active-trading/102214/economics-oil-extraction.asp), including transportation, royalties, and production costs:
+Netback is calculated by taking the revenues from the oil, less all [[costs associated with getting the oil to a market]](https://www.investopedia.com/articles/active-trading/102214/[[Economics|economics]]-oil-extraction.asp), including transportation, royalties, and production costs:
 
 **Price - Royalties - Production - Transportation = Netback**
 
@@ -57,6 +57,6 @@ Changes in netback prices attributed to a single company over time can also demo
 
 ## Real-World Example
 
-It might cost an oil producer $125 to convert one barrel of light [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) into heating oil, gasoline, diesel, and petrochemical byproducts. It owes royalties of $25, and it will cost $100 to transport the oil to the buyer. The netback would be $75, assuming a sales price of $325: $325 less $125 less $25 less $100.
+It might cost an oil producer $125 to convert one barrel of light [[crude oil]](https://www.investopedia.com/terms/c/crude-oil.asp) into heating oil, gasoline, diesel, and petrochemical byproducts. It owes royalties of $25, and it [[Will|will]] cost $100 to transport the oil to the buyer. The netback would be $75, assuming a sales price of $325: $325 less $125 less $25 less $100.
 
 This figure allows [[exploration and production]](https://www.investopedia.com/terms/e/exploration-production-company.asp) (E&P) firms to compare the producer's costs with those of its competitors. It also allows for more efficient planning regarding which products a company should focus on producing.

@@ -3,53 +3,53 @@ alias: [Lean Startup]
 created: 2021-03-02T21:13:30 (UTC +11:00)
 tags: [Lean Startup Definition, Lean Startup]
 source: https://www.investopedia.com/terms/l/lean-startup.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Lean Startup Definition
+# [[Lean Startup]] Definition
 
 > ## Excerpt
-> The lean startup is a method used when founding a new company or when an existing company introduces a new product.
+> The [[Lean Startup|lean startup]] is a method used when founding a new company or when an existing company introduces a new product.
 
 ---
 
-Lean Startup
-## What Is Lean Startup?
+[[Lean Startup]]
+## What Is [[Lean Startup]]?
 
-A lean startup is a method used to found a new company or introduce a new product on behalf of an existing company. The lean startup method advocates developing products that consumers have already demonstrated they desire so that a market will already exist as soon as the product is launched. As opposed to developing a product and then hoping that demand will emerge.
+A [[Lean Startup|lean startup]] is a method used to found a new company or introduce a new product on behalf of an existing company. The lean startup method advocates developing products that consumers have already demonstrated they desire so that a market [[Will|will]] already exist as soon as the product is launched. As opposed to developing a product and then hoping that demand will emerge.
 
 ## Gaging Consumer Interest
 
-By employing lean startup principles, product developers can gauge consumer interest in the product and determine how the product might need to be refined. This process is called validated learning and it can be utilized to avoid the unnecessary use of resources in product creation and development. Through lean startup, if an idea is likely to fail, it will fail quickly and cheaply instead of slowly and expensively, hence the term “fail-fast.”
+By employing [[Lean Startup|lean startup]] principles, product developers can gauge consumer interest in the product and determine how the product might need to be refined. This process is called validated learning and it can be utilized to avoid the unnecessary use of resources in product creation and development. Through lean startup, if an idea is likely to fail, it [[Will|will]] fail quickly and cheaply instead of slowly and expensively, hence the term “fail-fast.”
 
-The lean startup method was developed by American entrepreneur Eric Ries, founder, and CEO of the Long-Term Stock Exchange (LTSE). He fully explains the method in his bestselling book, “The Lean Startup,” which has been translated into 30 languages.
+The [[Lean Startup|lean startup]] method was developed by American entrepreneur Eric Ries, founder, and CEO of the Long-Term [[Stock]] Exchange (LTSE). He fully explains the method in his bestselling book, “The Lean Startup,” which has been translated into 30 languages.
 
-Lean startup is an example of consumers dictating the type of products they are offered by their respective markets, rather than those markets dictating what products will be offered to them. 
+[[Lean Startup|Lean startup]] is an example of consumers dictating the type of products they are offered by their respective markets, rather than those markets dictating what products [[Will|will]] be offered to them. 
 
-## Lean Startup vs. Traditional Businesses 
+## [[Lean Startup]] vs. Traditional Businesses 
 
-The lean startup method also differentiates itself from the traditional business model when it comes to hiring. Lean startups hire workers who can learn, adapt, and work quickly while traditional businesses hire workers based on experience and ability. Lean startups also use different financial reporting metrics; instead of focusing on income statements, [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp), and [[cash flow statements]](https://www.investopedia.com/terms/c/cashflowstatement.asp), they focus on customer acquisition cost, lifetime customer value, [[customer churn rate]](https://www.investopedia.com/terms/c/churnrate.asp), and how viral their product could be.
+The [[Lean Startup|lean startup]] method also differentiates itself from the traditional business model when it comes to hiring. Lean startups hire workers who can learn, adapt, and work quickly while traditional businesses hire workers based on experience and ability. Lean startups also use different financial reporting metrics; instead of focusing on income statements, [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp), and [[cash flow statements]](https://www.investopedia.com/terms/c/cashflowstatement.asp), they focus on customer acquisition cost, lifetime customer value, [[customer churn rate]](https://www.investopedia.com/terms/c/churnrate.asp), and how viral their product could be.
 
-## Requirements for Lean Startup
+## Requirements for [[Lean Startup]]
 
-The lean startup method considers experimentation to be more valuable than detailed planning. Five-year business plans built around unknowns are considered a waste of time, and customer reaction is paramount.
+The [[Lean Startup|lean startup]] method considers experimentation to be more valuable than detailed planning. Five-year business plans built around unknowns are considered a waste of time, and customer reaction is paramount.
 
-Instead of business plans, lean startups use a [[business model]](https://www.investopedia.com/terms/b/businessmodel.asp) based on hypotheses that are tested rapidly. Data does not need to be completed before proceeding; it just needs to be sufficient. When customers do not react as desired, the startup quickly adjusts to limit its losses and return to developing products consumers want. Failure is the rule, not the exception.
+Instead of business plans, lean startups use a [[business model]](https://www.investopedia.com/terms/b/businessmodel.asp) based on hypotheses that are tested rapidly. Data does not need to be completed before proceeding; it just needs to be sufficient. When customers do not react as desired, the startup quickly adjusts to limit its losses and [[Return|return]] to developing products consumers want. Failure is the rule, not the exception.
 
-[Entrepreneurs](https://www.investopedia.com/terms/e/entrepreneur.asp) following this method test their hypotheses by engaging with potential customers, purchasers, and partners to gauge their reactions about product features, pricing, distribution, and customer acquisition. With the information, entrepreneurs make small adjustments called iterations to products, and large adjustments called pivots correct any major concerns. This testing phase might result in changing the [[target customer]](https://www.investopedia.com/terms/t/target-market.asp) or modifying the product to better serve the current target customer.
+[Entrepreneurs](https://www.investopedia.com/terms/e/entrepreneur.asp) following this method test their hypotheses by engaging with potential customers, purchasers, and partners to gauge their reactions about product features, pricing, distribution, and customer acquisition. With the information, [[Entrepreneurs|entrepreneurs]] make small adjustments called iterations to products, and large adjustments called pivots correct any major concerns. This testing phase might result in changing the [[target customer]](https://www.investopedia.com/terms/t/target-market.asp) or modifying the product to better serve the current target customer.
 
-The lean startup method first identifies a problem that needs to be solved. It then develops a minimum viable product or the smallest form of the product that allows entrepreneurs to introduce it to potential customers for feedback. This method is faster and less expensive than developing the final product for testing and reduces the risk that [[startups]](https://www.investopedia.com/terms/s/startup.asp) face by decreasing their typical high failure rate. Lean startup redefines a startup as an organization that is searching for a scalable business model, not one that has an existing business plan that it is determined to execute.
+The [[Lean Startup|lean startup]] method first identifies a problem that needs to be solved. It then develops a minimum viable product or the smallest form of the product that allows [[Entrepreneurs|entrepreneurs]] to introduce it to potential customers for feedback. This method is faster and less expensive than developing the final product for testing and reduces the [[Risk|risk]] that [[startups]](https://www.investopedia.com/terms/s/startup.asp) face by decreasing their typical high failure rate. Lean startup redefines a startup as an organization that is searching for a scalable business model, not one that has an existing business plan that it is determined to execute.
 
-## Example of Lean Startup
+## Example of [[Lean Startup]]
 
 For example, a healthy meal delivery service that is targeting busy, single 20-somethings in urban areas might learn that it has a better market in 30-something affluent mothers of newborns in the suburbs. The company might then change its delivery schedule and the types of foods it serves to provide optimal nutrition for new mothers. It might also add on options for meals for spouses or partners and other children in the household.
 
-The lean startup method is not to be used exclusively by startups. Companies such as [[General Electric]](https://www.investopedia.com/insights/rise-and-fall-ge/), Qualcomm, and Intuit have all used the lean startup method; GE used the method to develop a new battery for use by cell phone companies in developing countries where electricity is unreliable.
+The [[Lean Startup|lean startup]] method is not to be used exclusively by startups. Companies such as [[General Electric]](https://www.investopedia.com/insights/rise-and-fall-ge/), Qualcomm, and Intuit have all used the lean startup method; GE used the method to develop a new battery for use by cell phone companies in developing countries where electricity is unreliable.
 
 ### Key Takeaways
 
--   Lean startup is the process of developing a product or company based on the expressed desires of the market.
--   The lean startup uses validated learning, which is a process by which companies assess consumer interest. 
--   Lean startup methods focus heavily on customer-related information such as customer churn rate, lifetime customer value, and product popularity. 
--   In lean startup practices, experimentation is favored more than adherence to a rigid plan. 
--   Lean startup standards will involve the release of a small form or early concept products in order to assess the customer reaction to the product.
+-   [[Lean Startup|Lean startup]] is the process of developing a product or company based on the expressed desires of the market.
+-   The [[Lean Startup|lean startup]] uses validated learning, which is a process by which companies assess consumer interest. 
+-   [[Lean Startup|Lean startup]] methods focus heavily on customer-related information such as customer [[Churn Rate|churn rate]], lifetime customer value, and product popularity. 
+-   In [[Lean Startup|lean startup]] practices, experimentation is favored more than adherence to a rigid plan. 
+-   [[Lean Startup|Lean startup]] standards [[Will|will]] involve the release of a small form or early concept products in order to assess the customer reaction to the product.

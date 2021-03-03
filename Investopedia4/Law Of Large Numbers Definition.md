@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/l/lawoflargenumbers.asp
 author: Investopedia Staff
 ---
 
-# Law Of Large Numbers Definition
+# [[Law Of Large Numbers Definition]]
 
 > ## Excerpt
 > The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population.
 
 ---
 
-Law Of Large Numbers Definition
+[[Law Of Large Numbers Definition]]
 ## What Is the Law of Large Numbers?
 
 The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. In the 16th century, mathematician Gerolama Cardano recognized the Law of Large Numbers but never proved it. In 1713, Swiss mathematician Jakob Bernoulli proved this theorem in his book, _Ars Conjectandi_. It was later refined by other noted mathematicians, such as Pafnuty Chebyshev, founder of the St. Petersburg mathematical school.
@@ -22,9 +22,9 @@ In a financial context, the law of large numbers indicates that a large entity w
 
 ### Key Takeaways
 
--   The law of large numbers states that an observed sample average from a large sample will be close to the true population average and that it will get closer the larger the sample.
--   The law of large numbers does not guarantee that a given sample, especially a small sample, will reflect the true population characteristics or that a sample which does not reflect the true population will be balanced by a subsequent sample.
--   In business, the term "law of large numbers" is sometimes used in a different sense to express the relationship between scale and growth rates. 
+-   The law of large numbers states that an observed sample average from a large sample [[Will|will]] be close to the true population average and that it will get closer the larger the sample.
+-   The law of large numbers does not guarantee that a given sample, especially a small sample, [[Will|will]] reflect the true population characteristics or that a sample which does not reflect the true population will be balanced by a subsequent sample.
+-   In business, the term "law of large numbers" is sometimes used in a different sense to express the relationship between scale and [[Growth Rates|growth rates]]. 
 
 ## Understanding the Law of Large Numbers
 
@@ -32,7 +32,7 @@ In statistical analysis, the law of large numbers can be applied to a variety of
 
 In business, the term "law of large numbers" is sometimes used in relation to [[growth rates]](https://www.investopedia.com/terms/g/growthrates.asp), stated as a percentage. It suggests that, as a business expands, the percentage rate of growth becomes increasingly difficult to maintain.
 
-The law of large numbers does not mean that a given sample or group of successive samples will always reflect the true population characteristics, especially for small samples. This also means that if a given sample or series of samples deviates from the true population average, the law of large numbers does not guarantee that successive samples will move the observed average toward the population mean (as suggested by the [[Gambler's Fallacy]](https://www.investopedia.com/terms/g/gamblersfallacy.asp)).
+The law of large numbers does not mean that a given sample or group of successive samples [[Will|will]] always reflect the true population characteristics, especially for small samples. This also means that if a given sample or series of samples deviates from the true population average, the law of large numbers does not guarantee that successive samples will move the observed average toward the population mean (as suggested by the [[Gambler's Fallacy]](https://www.investopedia.com/terms/g/gamblersfallacy.asp)).
 
 The Law of Large Numbers is not to be mistaken with the Law of Averages, which states that the distribution of outcomes in a sample (large or small) reflects the distribution of outcomes of the population.
 
@@ -42,8 +42,8 @@ If a person wanted to determine the average value of a data set of 100 possible 
 
 ## Law of Large Numbers and Business Growth
 
-In business and finance, this term is sometimes used colloquially to refer to the observation that exponential growth rates often do not scale. This is not actually related to the law of large numbers, but may be a result of the [[law of diminishing marginal returns]](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp) or [[diseconomies of scale]](https://www.investopedia.com/terms/d/diseconomiesofscale.asp).
+In business and [[Finance|finance]], this term is sometimes used colloquially to refer to the observation that exponential [[Growth Rates|growth rates]] often do not scale. This is not actually related to the law of large numbers, but may be a result of the [[law of diminishing marginal returns]](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp) or [[diseconomies of scale]](https://www.investopedia.com/terms/d/diseconomiesofscale.asp).
 
 For example, in January 2020, the revenue generated by Walmart Inc. was recorded as $523.9 billion while Amazon.com Inc. brought in $280.5 billion during the same period.12 If Walmart wanted to increase revenue by 50%, approximately $262 billion in revenue would be required. In contrast, Amazon would only need to increase revenue by $140.2 billion to reach a 50% increase. Based on the law of large numbers, the 50% increase would be deemed more difficult for Walmart to accomplish than Amazon.
 
-The same principles can be applied to other metrics, such as [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) or [[net profit]](https://www.investopedia.com/terms/n/netincome.asp). As a result, investing decisions can be guided based on the associated difficulties that companies with very high market capitalization can experience as they relate to stock appreciation.
+The same principles can be applied to other metrics, such as [[market capitalization]](https://www.investopedia.com/terms/m/marketcapitalization.asp) or [[net profit]](https://www.investopedia.com/terms/n/netincome.asp). As a result, investing decisions can be guided based on the associated difficulties that companies with very high [[Market Capitalization|market capitalization]] can experience as they relate to [[Stock|stock]] appreciation.

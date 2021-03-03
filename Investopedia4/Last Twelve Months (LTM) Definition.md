@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/l/ltm.asp
 author: Adam Hayes
 ---
 
-# Last Twelve Months (LTM) Definition
+# [[Last Twelve Months (LTM) Definition]]
 
 > ## Excerpt
 > Last twelve months (LTM) refers to a period of time commonly used to evaluate financial results, such as a company's performance or investment returns.
 
 ---
 
-Last Twelve Months (LTM) Definition
+[[Last Twelve Months (LTM) Definition]]
 ## What Is Last Twelve Months (LTM)?
 
-Last twelve months (LTM) refers to the timeframe of the immediately preceding 12 months. It is also commonly designated as [[trailing twelve months]](https://www.investopedia.com/terms/t/ttm.asp) (TTM). LTM is often used in reference to a financial metric used to evaluate a company's performance, such as revenues or debt to equity (D/E). Although a 12-month period is a relatively short time span for examining company performance, it is considered useful because it indicates a company's most recent performance, and is indicative of the company's current state. The terms "last twelve months" or "trailing twelve months" frequently appear in a company's earnings reports or other financial statements.
+Last twelve months (LTM) refers to the timeframe of the immediately preceding 12 months. It is also commonly designated as [[trailing twelve months]](https://www.investopedia.com/terms/t/ttm.asp) (TTM). LTM is often used in reference to a financial metric used to evaluate a company's performance, such as revenues or [[Debt|debt]] to [[Equity|equity]] (D/E). Although a 12-month period is a relatively short time span for examining company performance, it is considered useful because it indicates a company's most recent performance, and is indicative of the company's current state. The terms "last twelve months" or "trailing twelve months" frequently appear in a company's earnings reports or other financial statements.
 
 ## Understanding Last Twelve Months (LTM)
 
@@ -26,6 +26,6 @@ In reviewing figures shown as last twelve months or trailing twelve months, inve
 
 ## Using the Last Twelve Months Metrics
 
-In addition to being used to gauge the recent trend of a given company's performance, the last twelve month financial metrics are also frequently used to compare the relative performance of similar companies within an industry or sector. Financial metrics commonly considered by looking at last twelve month figures include a company's price-earnings (P/E) ratio and earnings per share (EPS).
+In addition to being used to gauge the recent trend of a given company's performance, the last twelve month financial metrics are also frequently used to compare the relative performance of similar companies within an industry or sector. Financial metrics commonly considered by looking at last twelve month figures include a company's price-earnings (P/E) ratio and [[Earnings Per Share (EPS)|earnings per share (EPS)]].
 
-In reviewing stocks, mutual funds and exchange-traded funds (ETFs), the dividend yield figure for the last twelve months is often compared with the [[SEC yield]](https://www.investopedia.com/terms/s/secyield.asp) figure, which reflects only the yield of the most recently paid dividend. Another instance where the last twelve months' figures are useful is when a company is being considered for acquisition. To arrive at a more accurate current value of a company, last twelve months’ figures are often preferable to the most recent fiscal year figures.
+In reviewing [[Stocks|stocks]], mutual funds and exchange-traded funds (ETFs), the dividend [[Yield|yield]] figure for the last twelve months is often compared with the [[SEC yield]](https://www.investopedia.com/terms/s/secyield.asp) figure, which reflects only the yield of the most recently paid dividend. Another instance where the last twelve months' figures are useful is when a company is being considered for acquisition. To arrive at a more accurate current value of a company, last twelve months’ figures are often preferable to the most recent fiscal year figures.

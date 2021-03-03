@@ -9,11 +9,11 @@ author: Carol M. Kopp
 # Program Evaluation Review Technique (PERT) Chart Definition
 
 > ## Excerpt
-> A Program Evaluation Review Technique (PERT) chart is a project management tool that graphs a project's timeline according to the individual tasks.
+> A Program Evaluation Review Technique (PERT) chart is a [[Project Management|project management]] tool that graphs a project's timeline according to the individual tasks.
 
 ---
 
-Learn About Program Evaluation Review Technique — PERT Charts
+[[Learn About Program Evaluation Review Technique — PERT Charts]]
 ## What Is a Program Evaluation Review Technique (PERT) Chart?
 
 A PERT chart is a [[project management]](https://www.investopedia.com/terms/p/project-management.asp) tool that provides a graphical representation of a project's timeline. The Program Evaluation Review Technique (PERT) breaks down the individual tasks of a project for analysis. PERT charts are considered preferable to [[Gantt charts]](https://www.investopedia.com/terms/g/gantt-chart.asp) because they identify task dependencies, but they're often more difficult to interpret.
@@ -38,13 +38,13 @@ Image by Sabrina Jiang © Investopedia 2020
 
 ## Interpreting PERT Charts
 
-A PERT chart is a visual representation of a series of events that must occur within the [[scope]](https://www.investopedia.com/terms/s/scope.asp) of a project’s lifetime. The direction of arrows indicates the flow and sequence of events required for project completion. Dotted activity lines represent dummy activities—items that are located on another PERT path. Numbers and time allotments are assigned and shown inside each vector.
+A PERT chart is a visual representation of a series of events that must occur within the [[scope]](https://www.investopedia.com/terms/s/[[Scope|scope]].asp) of a project’s lifetime. The direction of arrows indicates the flow and sequence of events required for project completion. Dotted activity lines represent dummy activities—items that are located on another PERT path. Numbers and time allotments are assigned and shown inside each vector.
 
-These charts have their distinct definitions and terms, the most important of which anticipate how long it will take to finalize a project. "Optimistic time" refers to the shortest duration. "Pessimistic time" is logically the longest it might take. The "most likely time" indicates a reasonable estimate of the best-case scenario, whereas "expected time" accounts for problems and obstacles.
+These charts have their distinct definitions and terms, the most important of which anticipate how long it [[Will|will]] take to finalize a project. "Optimistic time" refers to the shortest duration. "Pessimistic time" is logically the longest it might take. The "most likely time" indicates a reasonable estimate of the best-case scenario, whereas "expected time" accounts for problems and obstacles.
 
 ## Advantages and Disadvantages of PERT Charts
 
-A PERT chart is similar to a [[critical path analysis]](https://www.investopedia.com/terms/c/critical-path-analysis-cpa.asp) (CPA), which is another method that project managers use to chart tasks in a project. The main difference between the two is that a PERT chart uses various time frames and probability terms when estimating each project stage. As a project management tool, PERT charts offer some distinct advantages and disadvantages.
+A PERT chart is similar to a [[critical path analysis]](https://www.investopedia.com/terms/c/critical-path-analysis-cpa.asp) (CPA), which is another method that project managers use to chart tasks in a project. The main difference between the two is that a PERT chart uses various time frames and probability terms when estimating each project stage. As a [[Project Management|project management]] tool, PERT charts [[Offer|offer]] some distinct advantages and disadvantages.
 
 ### Advantages
 

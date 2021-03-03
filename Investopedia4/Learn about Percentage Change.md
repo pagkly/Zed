@@ -3,7 +3,7 @@ alias: [Percentage Change]
 created: 2021-03-02T22:40:13 (UTC +11:00)
 tags: [Percentage Change Definition, Learn about Percentage Change]
 source: https://www.investopedia.com/terms/p/percentage-change.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Percentage Change Definition
@@ -13,20 +13,20 @@ author: Will Kenton
 
 ---
 
-Learn about Percentage Change
+[[Learn about Percentage Change]]
 ## What Is Percentage Change?
 
-Percentage change is a simple mathematical concept that represents the degree of change over time. It is used for many purposes in finance, often to represent the price change of a [[security]](https://www.investopedia.com/terms/s/security.asp).
+Percentage change is a simple mathematical concept that represents the degree of change over time. It is used for many purposes in [[Finance|finance]], often to represent the price change of a [[security]](https://www.investopedia.com/terms/s/[[Security|security]].asp).
 
 ## Understanding Percentage Change
 
-Percentage change can be applied to any quantity that you measure over time. Let's say you are tracking the [[quoted price]](https://www.investopedia.com/terms/q/quoted-price.asp) of a security. If the price increased, use the formula \[(New Price - Old Price)/Old Price\] and then multiply that number by 100. If the price decreased, use the formula \[(Old Price - New Price)/Old Price\] and multiply that number by 100. 
+Percentage change can be applied to any quantity that you measure over time. Let's say you are tracking the [[quoted price]](https://www.investopedia.com/terms/q/quoted-price.asp) of a [[Security|security]]. If the price increased, use the formula \[(New Price - Old Price)/Old Price\] and then multiply that number by 100. If the price decreased, use the formula \[(Old Price - New Price)/Old Price\] and multiply that number by 100. 
 
-This formula is used both to track the prices of individual securities and of large market indexes, as well as comparing the values of different [[currencies]](https://www.investopedia.com/terms/c/currency.asp). Balance sheets with comparative financial statements will generally include the prices of specific assets at different points in time along with the percentage changes over the accompanying periods of time. 
+This formula is used both to track the prices of individual securities and of large market indexes, as well as comparing the values of different [[currencies]](https://www.investopedia.com/terms/c/currency.asp). Balance sheets with comparative financial statements [[Will|will]] generally include the prices of specific assets at different points in time along with the percentage changes over the accompanying periods of time. 
 
 ### Key Takeaways
 
--   Percentage change represents a degree of change over time; it is used for many purposes in finance, most notably to indicate the price change of a security.
+-   Percentage change represents a degree of change over time; it is used for many purposes in [[Finance|finance]], most notably to indicate the price change of a [[Security|security]].
 -   Percentage change can be applied to any quantity that can be measured over time.
 -   Positive values indicate a percentage increase whereas negative values indicate percentage decrease.
 

@@ -13,16 +13,16 @@ author: Julia Kagan
 
 ---
 
-Learn what a Tax Holiday Is
+[[Learn what a Tax Holiday Is]]
 ## What Is a Tax Holiday?
 
-A tax holiday is a government incentive program that offers a tax reduction or elimination to businesses. Tax holidays are often used to reduce sales taxes by local governments, but they are also commonly used by governments in developing countries to help stimulate foreign investment.
+A tax holiday is a government incentive program that offers a tax reduction or elimination to businesses. Tax holidays are often used to reduce sales taxes by local governments, but they are also commonly used by governments in developing countries to help stimulate [[Foreign Investment|foreign investment]].
 
 ### Key Takeaways
 
 -   A tax holiday is a governmental incentive that reduces or eliminates taxes on businesses.
 -   A tax holiday can encourage economic activity and foster growth.
--   Tax holidays are instituted by local governments and governments in developing countries to help stimulate foreign investment.
+-   Tax holidays are instituted by local governments and governments in developing countries to help stimulate [[Foreign Investment|foreign investment]].
 -   Tax holidays are believed to increase long-term tax revenue because they help businesses maintain or grow operations, which creates more taxable revenue for the tax authority.
 
 ## How a Tax Holiday Works
@@ -33,6 +33,6 @@ A tax holiday is also implemented for businesses to encourage economic activity 
 
 ## Special Considerations
 
-Whether there is any benefit to tax holidays is still a debate. On the one hand, even though the government loses out on revenues that would have been generated from sales during the temporary [[tax-break]](https://www.investopedia.com/terms/t/tax-break.asp) periods, tax holidays are said to increase tax revenue over the long term because they help businesses stay in business or grow, creating more taxable revenue for the tax authority. In addition, the lost revenue is also said to be offset by the increased purchases of consumers looking to take advantage of the tax break.2
+Whether there is any benefit to tax holidays is still a debate. On the one hand, even though the government loses out on revenues that would have been generated from sales during the temporary [[tax-break]](https://www.investopedia.com/terms/t/tax-break.asp) periods, tax holidays are said to increase tax revenue over the [[Long Term|long term]] because they help businesses stay in business or grow, creating more taxable revenue for the tax authority. In addition, the lost revenue is also said to be offset by the increased purchases of consumers looking to take advantage of the tax break.2
 
 On the other hand, it is believed that the increased sales during a tax holiday is preceded by reduced sales before the holiday; thus, the tax holiday simply shifted sales that would have happened before or after the holiday to the holiday dates. In effect, consumer don’t buy more, they simply shift the timing of purchases.2 Also, since retailers do not pay sales tax out-of-pocket (the consumer is responsible for sales tax), some retailers may unethically take advantage of tax holidays by increasing the prices of the goods and reducing consumer savings.
