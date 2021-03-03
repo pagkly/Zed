@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia5/An Inside Look at 'Sell in May and Go Away'.md",
+            "file": "Investopedia3/A Closer Look at Grace Periods.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sell in may and ",
+                "query": "sell in may and go away",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia5/An Inside Look at 'Sell in May and Go Away'.md",
+                "file": "Investopedia3/A Closer Look at Grace Periods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia5/An Inside Look at 'Sell in May and Go Away'.md"
+                "file": "Investopedia3/A Closer Look at Grace Periods.md"
               }
             }
           },
@@ -139,6 +139,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Investopedia3/A Closer Look at Grace Periods.md",
     "Investopedia5/An Inside Look at 'Sell in May and Go Away'.md",
     "Investopedia3/A Look at the 10 Richest People in the World.md",
     "Investopedia3/A Look at the Cayman Islands Dollar.md",
@@ -147,7 +148,6 @@
     "Investopedia3/Collateral.md",
     "Investopedia3/Stock.md",
     "Investopedia3/Stock Appreciation Rights (SARs) Definition.md",
-    "Investopedia3/Stock Option.md",
-    "Investopedia3/Stock Split.md"
+    "Investopedia3/Stock Option.md"
   ]
 }
