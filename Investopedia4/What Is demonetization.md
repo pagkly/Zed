@@ -1,7 +1,7 @@
 ---
 alias: [Demonetization]
 created: 2021-03-02T19:15:55 (UTC +11:00)
-tags: [Demonetization Definition, What Is demonetization?]
+tags: [Demonetization Definition, [[What Is demonetization]]?]
 source: https://www.investopedia.com/terms/d/demonetization.asp
 author: Investopedia Staff
 ---
@@ -13,8 +13,8 @@ author: Investopedia Staff
 
 ---
 
-What Is demonetization?
-## What Is Demonetization?
+[[What Is demonetization]]?
+## [[What Is demonetization|What Is Demonetization]]?
 
 Demonetization is the act of stripping a [[currency]](https://www.investopedia.com/terms/c/currency.asp) unit of its status as [[legal tender]](https://www.investopedia.com/terms/l/legal-tender.asp). It occurs whenever there is a change of [[national currency]](https://www.investopedia.com/terms/n/national-currency.asp): The current form or forms of money is pulled from circulation and retired, often to be replaced with new notes or coins. Sometimes, a country completely replaces the old currency with new currency.
 
@@ -34,7 +34,7 @@ Removing the legal tender status of a unit of currency is a drastic intervention
 
 Demonetization has been used to stabilize the value of a currency or combat [[inflation]](https://www.investopedia.com/terms/i/inflation.asp). The Coinage Act of 1873 demonetized [[silver]](https://www.investopedia.com/terms/s/silver.asp) as the legal tender of the United States, in favor of fully adopting the [[gold standard]](https://www.investopedia.com/terms/g/goldstandard.asp), in order to stave off disruptive inflation as large new silver deposits were discovered in the American West. Several coins, including a two-cent piece, three-cent piece, and half-dime were discontinued. The withdrawal of silver from the economy resulted in a contraction of the [[money supply]](https://www.investopedia.com/terms/m/moneysupply.asp), which contributed to a recession throughout the country. In response to the recession and political pressure from farmers and from silver miners and refiners, the Bland-Allison Act remonetized silver as legal tender in 1878.
 
-In a more modern example, the Zimbabwean government demonetized its dollar in 2015 as a way to combat the country’s hyperinflation, which was recorded at [231,000,000 percent](https://www.theguardian.com/world/2008/oct/09/zimbabwe). The three-month process involved expunging the Zimbabwean dollar from the country’s financial system and solidifying the [[U.S. dollar,]](https://www.investopedia.com/terms/forex/u/usd-united-states-dollar.asp) the [[Botswana pula]](https://www.investopedia.com/terms/forex/b/bwp-botswana-pula.asp), and the [[South African rand]](https://www.investopedia.com/terms/forex/z/zar-south-african-rand.asp) as the country’s legal tender in a bid to stabilize the economy.
+In a more modern example, the Zimbabwean government demonetized its dollar in 2015 as a way to combat the country’s hyperinflation, which was recorded at [231,000,000 percent](https://www.theguardian.com/world/2008/oct/09/zimbabwe). The three-month process involved expunging the Zimbabwean dollar from the country’s financial system and solidifying the [[U.S. dollar,]](https://www.investopedia.com/terms/forex/u/usd-united-states-dollar.asp) the [[Botswana pula]](https://www.investopedia.com/terms/forex/b/bwp-botswana-pula.asp), and the [[South African rand]](https://www.investopedia.com/terms/forex/[[Z|z]]/zar-south-african-rand.asp) as the country’s legal tender in a bid to stabilize the economy.
 
 Some countries have demonetized currencies in order to facilitate trade or form currency unions. An example of demonetization for trade purposes occurred when the nations of the [[European Union]](https://www.investopedia.com/terms/e/europeanunion.asp) officially began to use the [[euro]](https://www.investopedia.com/terms/e/euro.asp) as their everyday currencies in 2002. When the physical euro bills and coins were introduced, the old national currencies, such as the [[German mark]](https://www.investopedia.com/terms/d/deutschmark.asp), the [[French franc]](https://www.investopedia.com/terms/f/franc-f.asp), and the Italian lira were demonetized. However, these varied currencies remained convertible into Euros at [[fixed exchange rates]](https://www.investopedia.com/terms/f/fixedexchangerate.asp) for a while to assure a smooth transition.
 
@@ -48,4 +48,4 @@ Chaos ensued in the cash-dependent economy (some 78 percent of all Indian custom
 
 Small businesses and households struggled to find cash and reports of daily wage workers not receiving their dues surfaced. The rupee fell sharply against the dollar. 
 
-The government’s goal (and rationale for the abrupt announcement) was to combat India's thriving [[underground economy]](https://www.investopedia.com/terms/u/underground-economy.asp) on several fronts: eradicate counterfeit currency, fight tax evasion (only 1 percent of the population pays taxes), eliminate [[black money]](https://www.investopedia.com/terms/b/black-money.asp) gained from [[money laundering]](https://www.investopedia.com/terms/m/moneylaundering.asp) and terrorist financing activities, and to promote a cashless economy. Individuals and entities with huge sums of black money gotten from parallel cash systems were forced to take their large-denomination notes to a bank, which was by law required to acquire [[tax]](https://www.investopedia.com/terms/t/taxes.asp) information on them. If the owner could not provide proof of making any tax payments on the cash, a penalty of 200 percent of the owed amount was imposed.
+The government’s goal (and rationale for the abrupt announcement) was to combat India's thriving [[underground economy]](https://www.investopedia.com/terms/u/underground-economy.asp) on several fronts: eradicate counterfeit currency, fight [[Tax Evasion|tax evasion]] (only 1 percent of the population pays taxes), eliminate [[black money]](https://www.investopedia.com/terms/b/black-money.asp) gained from [[money laundering]](https://www.investopedia.com/terms/m/moneylaundering.asp) and terrorist financing activities, and to promote a cashless economy. Individuals and entities with huge sums of black money gotten from parallel cash systems were forced to take their large-denomination notes to a bank, which was by law required to acquire [[tax]](https://www.investopedia.com/terms/t/taxes.asp) information on them. If the owner could not provide proof of making any tax payments on the cash, a penalty of 200 percent of the owed amount was imposed.

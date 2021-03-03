@@ -1,7 +1,7 @@
 ---
 alias: [Nacha]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [Nacha Definition, What Is Nacha?]
+tags: [Nacha Definition, [[What Is Nacha]]?]
 source: https://www.investopedia.com/terms/n/nacha.asp
 author: James Chen
 ---
@@ -13,8 +13,8 @@ author: James Chen
 
 ---
 
-What Is Nacha?
-## What Is Nacha?
+[[What Is Nacha]]?
+## [[What Is Nacha]]?
 
 Nacha is the steward of the electronic system that connects all U.S. bank accounts and facilitates the movement of money among them. According to the organization, $55.8 trillion moved through its [[Automated Clearing House]](https://www.investopedia.com/terms/a/ach.asp) (ACH) Network in 2019.1
 
@@ -28,7 +28,7 @@ Previously known as the National Automated Clearinghouse Association, Nacha is 
 
 ## Understanding Nacha
 
-The ACH network enables billions of electronic financial transactions, including direct deposits, Social Security and government benefits statements, electronic bill payments, person-to-person (P2P), and [[business-to-business]](https://www.investopedia.com/terms/b/btob.asp) (B2B) payments.1 
+The ACH network enables billions of electronic financial transactions, including direct deposits, [[Social Security]] and government benefits statements, electronic bill payments, person-to-person (P2P), and [[business-to-business]](https://www.investopedia.com/terms/b/btob.asp) (B2B) payments.1 
 
 Nacha merged with the Interactive Financial eXchange (IFX) Forum in 2018.2
 
@@ -38,7 +38,7 @@ Through its supervisory and rule-making functions, Nacha provides the foundation
 
 Nacha was created in 1974 with the merger of several regional bodies. It was originally part of the American Bankers Association.3
 
-It has been instrumental in the development and standardization of such innovations as direct payroll deposit, electronic benefits deposit, and automated credit card transactions.3
+It has been instrumental in the development and standardization of such innovations as direct [[Payroll|payroll]] deposit, electronic benefits deposit, and automated credit card transactions.3
 
 More recently, it has taken over the task of enabling the processing of B2B health insurance payments under the 2010 Affordable Care Act. Nacha now administers the Healthcare Electronic Funds Transfer (EFT) standard, which supports HIPAA-compliant transactions between health plans and providers that allow for information to travel with the payment, simplifying accounting procedures for providers.4
 
@@ -46,11 +46,11 @@ More recently, it has taken over the task of enabling the processing of B2B heal
 
 The ACH Network connects all U.S. financial institutions through a ubiquitous payment system that is built to securely and efficiently move money and information from one bank account to another.
 
-Nacha develops rules and codes of business practices and is involved in the development of new applications. It also institutes and monitors quality- and risk-management controls.
+Nacha develops rules and codes of business practices and is involved in the development of new applications. It also institutes and monitors quality- and [[Risk|risk]]-management controls.
 
 Although it is not a government agency, Nacha works closely with various government agencies including the Federal Reserve, U.S. Treasury, and state banking authorities in order to ensure the integrity of the electronic payments systems used by U.S. financial institutions.
 
-In 2014, Nacha formed the Payments Innovation Alliance as a voice for the payments industry and the ACH Network.5 The Alliance consists of hundreds of companies and organizations across the global payment ecosystem. It offers discussion, debate, education, and networking on such topics as payment system modernization, trends, standards, security, and ongoing innovation.
+In 2014, Nacha formed the Payments Innovation Alliance as a voice for the payments industry and the ACH Network.5 The Alliance consists of hundreds of companies and organizations across the global payment ecosystem. It offers discussion, debate, education, and networking on such topics as payment system modernization, trends, standards, [[Security|security]], and ongoing innovation.
 
 Image by Catherine Song © The Balance 2020
 

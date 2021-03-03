@@ -1,9 +1,9 @@
 ---
 alias: [Defining Nonlinear Regression]
 created: 2021-03-02T21:48:20 (UTC +11:00)
-tags: [Defining Nonlinear Regression, What Is Nonlinear Regression?]
+tags: [Defining Nonlinear Regression, [[What Is Nonlinear Regression]]?]
 source: https://www.investopedia.com/terms/n/nonlinear-regression.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Defining Nonlinear Regression
@@ -13,17 +13,17 @@ author: Will Kenton
 
 ---
 
-What Is Nonlinear Regression?
-Nonlinear regression is a form of regression analysis in which data is fit to a model and then expressed as a mathematical function. Simple linear [regression](https://www.investopedia.com/terms/r/regression.asp) relates two variables (X and Y) with a straight line (y = mx + b), while nonlinear regression relates the two variables in a nonlinear (curved) relationship.
+[[What Is Nonlinear Regression]]?
+Nonlinear regression is a form of regression analysis in which data is fit to a model and then expressed as a mathematical function. Simple linear [regression](https://www.investopedia.com/terms/r/regression.asp) relates two variables (X and [[Y]]) with a straight line (y = mx + b), while nonlinear regression relates the two variables in a nonlinear (curved) relationship.
 
-The goal of the model is to make the [sum of the squares](https://www.investopedia.com/terms/s/sum-of-squares.asp) as small as possible.  The sum of squares is a measure that tracks how far the Y observations vary from the nonlinear (curved) function that is used to predict Y.
+The goal of the model is to make the [sum of the squares](https://www.investopedia.com/terms/s/sum-of-squares.asp) as small as possible.  The sum of squares is a measure that tracks how far the [[Y]] observations vary from the nonlinear (curved) function that is used to predict Y.
 
-It is computed by first finding the difference between the fitted nonlinear function and every Y point of data in the set. Then, each of those differences is squared. Lastly, all of the squared figures are added together. The smaller the sum of these squared figures, the better the function fits the data points in the set. Nonlinear regression uses logarithmic functions, trigonometric functions, exponential functions, power functions, Lorenz curves, Gaussian functions, and other fitting methods.
+It is computed by first finding the difference between the fitted nonlinear function and every [[Y]] point of data in the set. Then, each of those differences is squared. Lastly, all of the squared figures are added together. The smaller the sum of these squared figures, the better the function fits the data points in the set. Nonlinear regression uses logarithmic functions, trigonometric functions, exponential functions, power functions, Lorenz curves, Gaussian functions, and other fitting methods.
 
 ### Key Takeaways
 
--   Both linear and nonlinear regression predict Y responses from an X variable (or variables).
--   Nonlinear regression is a curved function of an X variable (or variables) that is used to predict a Y variable
+-   Both linear and nonlinear regression predict [[Y]] responses from an X variable (or variables).
+-   Nonlinear regression is a curved function of an X variable (or variables) that is used to predict a [[Y]] variable
 -   Nonlinear regression can show a prediction of population growth over time.
 
 Nonlinear regression modeling is similar to linear regression modeling in that both seek to track a particular response from a set of variables graphically. Nonlinear models are more complicated than linear models to develop because the function is created through a series of approximations (iterations) that may stem from trial-and-error. Mathematicians use several established methods, such as the Gauss-Newton method and the Levenberg-Marquardt method.

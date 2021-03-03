@@ -1,19 +1,19 @@
 ---
 alias: [What Is Luxury Item?]
 created: 2021-03-02T21:30:10 (UTC +11:00)
-tags: [What Is Luxury Item?, What Is Luxury Item?]
+tags: [What Is Luxury Item?, [[What Is Luxury Item]]?]
 source: https://www.investopedia.com/terms/l/luxury-item.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# What Is Luxury Item?
+# [[What Is Luxury Item]]?
 
 > ## Excerpt
 > A luxury item is not necessary for living but is deemed as highly desirable within a culture or society. Discover more about the term "luxury item" here.
 
 ---
 
-What Is Luxury Item?
+[[What Is Luxury Item]]?
 ## What Is a Luxury Item?
 
 A luxury item is not necessary to live, but it is deemed highly desirable within a culture or society. Demand for luxury goods increases when a person's wealth or income increases. Typically, the greater the percentage increase in income, the greater the percentage increase in luxury item purchases.
@@ -28,13 +28,13 @@ Since luxury goods are expensive, wealthy people are disproportionate consumers 
 
 ## Understanding Luxury Items
 
-Luxury items tend to be sensitive to a person's income or wealth, meaning that as wealth rises, so do purchases of luxury items. As a result, luxury items are considered to show positive [income elasticity of demand](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp), which is a measure of how responsive the demand is for a good to a change in a person's income. Conversely, if there is a decline in income, demand for luxury items will decline.
+Luxury items tend to be sensitive to a person's income or wealth, meaning that as wealth rises, so do purchases of luxury items. As a result, luxury items are considered to show positive [income elasticity of demand](https://www.investopedia.com/terms/i/incomeelasticityofdemand.asp), which is a measure of how responsive the demand is for a good to a change in a person's income. Conversely, if there is a decline in income, demand for luxury items [[Will|will]] decline.
 
 For example, demand for large, high-definition (HD) TVs would likely increase as income rises since people have the extra income to splurge on a big TV. However, if a [[recession]](https://www.investopedia.com/terms/r/recession.asp) occurs, which is negative economic growth, causing people to lose their job or experience less income from a lower-paying job, the demand for HD TVs would likely decline. As a result, HD TVs would be considered a luxury item.
 
 Luxury items are the opposite of necessity goods or need expenses, which are the goods that people buy regardless of their income level or wealth. Food, water, and utilities used to live in a house or an apartment would likely be considered necessity goods for most people.
 
-Luxury items can also refer to services, such as full-time or live-in chefs and housekeepers. Some financial services can also be considered luxury services by default because persons in lower-income brackets generally do not use them. Luxury goods also have special luxury packaging to differentiate the products from mainstream products of the same category. Of course, the definition of a luxury item is somewhat subjective, depending on a person's financial circumstances. For example, one might consider a car a luxury item while another might consider a necessity.
+Luxury items can also refer to services, such as full-time or live-in chefs and housekeepers. Some financial services can also be considered luxury services by [[Default|default]] because persons in lower-income brackets generally do not use them. Luxury goods also have special luxury packaging to differentiate the products from mainstream products of the same category. Of course, the definition of a luxury item is somewhat subjective, depending on a person's financial circumstances. For example, one might consider a car a luxury item while another might consider a necessity.
 
 ## Luxury Item vs. Inferior Good
 

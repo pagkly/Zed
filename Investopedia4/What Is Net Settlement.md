@@ -1,7 +1,7 @@
 ---
 alias: [Net Settlement]
 created: 2021-03-02T21:41:50 (UTC +11:00)
-tags: [Net Settlement Definition, What Is Net Settlement?]
+tags: [Net Settlement Definition, [[What Is Net Settlement]]?]
 source: https://www.investopedia.com/terms/n/net-settlement.asp
 author: Julia Kagan
 ---
@@ -13,8 +13,8 @@ author: Julia Kagan
 
 ---
 
-What Is Net Settlement?
-## What Is Net Settlement?
+[[What Is Net Settlement]]?
+## [[What Is Net Settlement]]?
 
 Net settlement is a bank's routine resolution of the day's transactions at the end of the business day.
 
@@ -34,7 +34,7 @@ The net settlement system permits banks to accumulate credits and debits with ea
 
 A bank's net settlement is similar to balancing individual’s checkbook. The balancing process gets complicated if you have money coming in as cash, checks, and direct deposits, and money going out as cash purchases, checks, and credit card purchases. All of those transactions, including purchases, returns, bills paid, and paychecks received, must be netted to get the full picture.
 
-Net settlement makes it easier for banks to manage their [[liquidity]](https://www.investopedia.com/terms/l/liquidity.asp). That is, they need to know that they have enough real cash on hand to pay out to their customers over the counter and at the ATMs. There are two types of net settlement systems:
+Net settlement makes it easier for banks to manage their [[liquidity]](https://www.investopedia.com/terms/l/[[Liquidity|liquidity]].asp). That is, they need to know that they have enough real cash on hand to pay out to their customers over the counter and at the ATMs. There are two types of net settlement systems:
 
 -   Bilateral settlement systems require the final resolution of payments made between two banks over the course of a day. These are due to be settled at the close of business, typically via a transfer between their accounts at the central bank.
 -   Multilateral settlement systems allow a bank to have a net balance with the system as a whole, rather than with an individual bank or banks.
@@ -45,10 +45,10 @@ In banking, gross settlement is not the same as net settlement. In particular, a
 
 Large interbank transfers usually occur in real-time rather than as net settlements.
 
-For example, the U.K.'s BACS Payment Schemes Limited (previously the Bankers' Automated Clearing Services or BACS) allows transactions among institutions to accumulate during the day. At the close of business, the central bank will adjust the active institutional accounts by the net amounts of the funds exchanged.2
+For example, the U.K.'s BACS Payment Schemes Limited (previously the Bankers' Automated Clearing Services or BACS) allows transactions among institutions to accumulate during the day. At the close of business, the central bank [[Will|will]] adjust the active institutional accounts by the net amounts of the funds exchanged.2
 
 Large-value interbank funds transfers usually use real-time gross settlement. These often require immediate and complete clearing, which are typically organized by the nation's central bank.
 
-Real-time gross settlement can reduce a bank's [[settlement risk]](https://www.investopedia.com/terms/s/settlementrisk.asp) overall as the interbank settlement occurs in real-time throughout the day, rather than all together at the end of the day as with net settlement. This type of gross settlement eliminates the risk of a lag in completing the transaction.
+Real-time gross settlement can reduce a bank's [[settlement risk]](https://www.investopedia.com/terms/s/settlementrisk.asp) overall as the interbank settlement occurs in real-time throughout the day, rather than all together at the end of the day as with net settlement. This type of gross settlement eliminates the [[Risk|risk]] of a lag in completing the transaction.
 
 Real-time gross settlement often incurs a higher charge than net settlement processes.

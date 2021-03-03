@@ -1,9 +1,9 @@
 ---
 alias: [Net Investment]
 created: 2021-03-02T21:39:27 (UTC +11:00)
-tags: [Net Investment Definition, What Is Net Investment?]
+tags: [Net Investment Definition, [[What Is Net Investment]]?]
 source: https://www.investopedia.com/terms/n/netinvestment.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Net Investment Definition
@@ -13,8 +13,8 @@ author: Will Kenton
 
 ---
 
-What Is Net Investment?
-## What Is Net Investment?
+[[What Is Net Investment]]?
+## [[What Is Net Investment]]?
 
 Net investment is the total amount of money that a company spends on [[capital assets]](https://www.investopedia.com/terms/c/capitalasset.asp), minus the cost of the [[depreciation]](https://www.investopedia.com/terms/d/depreciation.asp) of those assets. This figure provides a sense of the real expenditure on durable goods such as plants, equipment, and software that are being used in the company's operations.
 
@@ -30,19 +30,19 @@ Capital assets include all property and equipment that contribute to the product
 
 ### Net Investment for Nations
 
-Net investment is a component of a nation's gross domestic product (GDP).
+Net investment is a component of a nation's [[Gross Domestic Product (GDP)|gross domestic product (GDP)]].
 
-In a nation's GDP, the figure indicates gross private domestic investment. It includes all expenditures by private companies and governments on real estate and inventories. Thus, it is a leading indicator of a nation's potential economic production capacity.
+In a nation's GDP, the figure indicates gross private domestic investment. It includes all expenditures by private companies and governments on real [[Estate|estate]] and inventories. Thus, it is a [[Leading Indicator|leading indicator]] of a nation's potential economic production capacity.
 
 ## Understanding Net Investment
 
-If gross investment is consistently higher than depreciation, the net investment figure will be positive, indicating that the company's productive capacity is increasing. If gross investment is consistently lower than depreciation, net investment will be negative, indicating that productive capacity is decreasing. That can be a problem down the road. This is true for all entities, from the smallest companies to the largest national economies.
+If gross investment is consistently higher than depreciation, the net investment figure [[Will|will]] be positive, indicating that the company's productive capacity is increasing. If gross investment is consistently lower than depreciation, net investment will be negative, indicating that productive capacity is decreasing. That can be a problem down the road. This is true for all entities, from the smallest companies to the largest national economies.
 
 When comparing net investment figures, stick with the same industry for relevant results.
 
 Net investment is, therefore, a better indicator than gross investment of how much an enterprise is investing in its business since it takes depreciation into account.
 
-Investing an amount equal to the total depreciation in a year is the minimum required to keep the [[asset base]](https://www.investopedia.com/terms/a/asset-base.asp) from shrinking. While this may not be a problem for a year or two, a net investment that is negative for a prolonged time period eventually will render the enterprise uncompetitive.
+Investing an amount equal to the total depreciation in a year is the minimum required to keep the [[asset base]](https://www.investopedia.com/terms/a/asset-base.asp) from shrinking. While this may not be a problem for a year or two, a net investment that is negative for a prolonged time period eventually [[Will|will]] render the enterprise uncompetitive.
 
 ## Net Investment Calculation
 

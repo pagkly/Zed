@@ -1,7 +1,7 @@
 ---
 alias: [Engel's Law]
 created: 2021-03-02T19:37:31 (UTC +11:00)
-tags: [Engel's Law Definition, What is Engel's Law?]
+tags: [Engel's Law Definition, [[What is Engel's Law]]?]
 source: https://www.investopedia.com/terms/e/engels-law.asp
 author: Adam Hayes
 ---
@@ -13,8 +13,8 @@ author: Adam Hayes
 
 ---
 
-What is Engel's Law?
-## What Is Engel's Law
+[[What is Engel's Law]]?
+## [[What is Engel's Law|What Is Engel's Law]]
 
 Engel's Law is an economic theory introduced in 1857 by Ernst Engel, a German statistician, stating that the percentage of income allocated for food purchases decreases as income rises. As a household's income increases, the percentage of income spent on food decreases while the proportion spent on other goods (such as luxury goods) increases.
 
@@ -30,7 +30,7 @@ In the mid 19th century, Ernst Engel wrote, “The poorer a family, the greater 
 
 Engel's Law similarly states that lower income households spend a greater proportion of their available income on food than middle or higher income households. As food costs increase, both for food at home (such as groceries) and food [[away from home]](https://www.investopedia.com/terms/a/awayfromhome.asp) (for example, at a restaurant), the percentage spent by lower-income households is expected to increase.
 
-The relationship and importance of household income to food consumption is well engrained in popular economics principles today, particularly with population health and improving the quality of health a prominent rallying point of all developed markets.
+The relationship and importance of household income to food consumption is well engrained in popular [[Economics|economics]] principles today, particularly with population health and improving the quality of health a prominent rallying point of all developed markets.
 
 The very poor might spend as much as one-half of their income on food, so their budgets can be said to be food-intensive, or specialized.
 
@@ -38,4 +38,4 @@ Engel's seminal work was a bit ahead of its time back then. However, the intuiti
 
 ## Example
 
-For example, a family that spends 25% of their income on food at an income level of $50,000 will pay $12,500 on food. If their income increases to $100,000, it is not likely that they will spend $25,000 (25%) on food, but will spend a lesser percentage while increasing spending in other areas.
+For example, a family that spends 25% of their income on food at an income level of $50,000 [[Will|will]] pay $12,500 on food. If their income increases to $100,000, it is not likely that they will spend $25,000 (25%) on food, but will spend a lesser percentage while increasing spending in other areas.

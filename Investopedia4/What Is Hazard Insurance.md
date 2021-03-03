@@ -1,7 +1,7 @@
 ---
 alias: [Hazard Insurance]
 created: 2021-03-02T20:39:10 (UTC +11:00)
-tags: [Hazard Insurance Definition, What Is Hazard Insurance?]
+tags: [Hazard Insurance Definition, [[What Is Hazard Insurance]]?]
 source: https://www.investopedia.com/terms/h/hazardinsurance.asp
 author: Troy Segal
 ---
@@ -13,10 +13,10 @@ author: Troy Segal
 
 ---
 
-What Is Hazard Insurance?
-## What Is Hazard Insurance?
+[[What Is Hazard Insurance]]?
+## [[What Is Hazard Insurance]]?
 
-Hazard insurance is coverage that protects a property owner against damage caused by fires, severe storms, hail/sleet, or other natural events. As long as the specific weather event is covered within the policy, the property owner will receive compensation to cover the cost of any damage incurred. Typically, the property owner will be required to pay for a year's worth of [[premiums]](https://www.investopedia.com/terms/p/premium.asp) at the time of purchasing the policy, but this practice will depend on the exact details of the policy.
+Hazard insurance is coverage that protects a property owner against damage caused by fires, severe storms, hail/sleet, or other natural events. As long as the specific weather event is covered within the policy, the property owner [[Will|will]] receive compensation to cover the cost of any damage incurred. Typically, the property owner will be required to pay for a year's worth of [[premiums]](https://www.investopedia.com/terms/p/[[Premium|premium]].asp) at the time of purchasing the policy, but this practice will depend on the exact details of the policy.
 
 Colloquially, hazard insurance is often considered synonymous with [[catastrophe insurance]](https://www.investopedia.com/terms/c/catastrophe-insurance.asp). Although both deal with coverage for large-scale, natural disasters, they are technically different. Within the insurance industry, hazard insurance refers to a portion of a general homeowners insurance policy that protects the structure of the home; catastrophe insurance usually refers to a separate, freestanding policy that covers specific types of disaster, including man-made ones.
 
@@ -29,9 +29,9 @@ Colloquially, hazard insurance is often considered synonymous with [[catastrophe
 
 ## How Hazard Insurance Works
 
-Hazard insurance protects a property owner against damage caused by fires; lightning; hail-, wind-, snow-, or rainstorms; or other natural events. Hazard coverage is usually a subsection of a homeowners insurance policy that protects the main dwelling and other nearby structures, such as a garage. To be prepared for every contingency, homeowners should be sure that specific, common hazards are covered in their insurance policy package.
+Hazard insurance protects a property owner against damage caused by fires; lightning; hail-, wind-, snow-, or rainstorms; or other natural events. Hazard coverage is usually a subsection of a homeowners insurance policy that protects the main dwelling and other nearby structures, such as a garage. To be prepared for every [[Contingency|contingency]], homeowners should be sure that specific, common hazards are covered in their insurance policy package.
 
-The amount of hazard insurance required depends on what it would cost to replace the home in the event of a total loss. This dollar amount may differ significantly from the property's value on the current real estate market. Policies are typically written for one year and are renewable.
+The amount of hazard insurance required depends on what it would cost to replace the home in the event of a total loss. This dollar amount may differ significantly from the property's value on the current real [[Estate|estate]] market. Policies are typically written for one year and are renewable.
 
 Hazard insurance generally refers to the coverage of the structure, roof, and foundation of your home only, though in some policies it can be extended to furnishings and personal belongings, as well.
 
@@ -39,12 +39,12 @@ Homeowners can often elect to beef up the hazard coverage of their policy. It is
 
 ## Hazard Insurance and Mortgages
 
-If you have or are taking out a mortgage on your home, it's common for your lender to require you to carry homeowners insurance. Strictly speaking, what they want you to have is, in fact, hazard coverage since it is the portion of the homeowners insurance directly related to the home structure itself (as opposed to personal liability, loss of use, or personal property coverage).
+If you have or are taking out a mortgage on your home, it's common for your [[Lender|lender]] to require you to carry homeowners insurance. Strictly speaking, what they want you to have is, in fact, hazard coverage since it is the portion of the homeowners insurance directly related to the home structure itself (as opposed to personal [[Liability|liability]], loss of use, or [[Personal Property|personal property]] coverage).
 
-Usually, purchasing a general homeowners policy will satisfy the lender's requirement, though the level of protection required will depend on the laws of the local municipality and other special considerations. If you have a very expensive property in a high-risk area, the lender may require additional coverage.
+Usually, purchasing a general homeowners policy [[Will|will]] satisfy the [[Lender|lender]]'s requirement, though the level of protection required will depend on the laws of the local municipality and other special considerations. If you have a very expensive property in a high-[[Risk|risk]] area, the lender may require additional coverage.
 
 ## Separate Hazard Insurance Policies
 
 In some areas, certain natural or weather-related activity is excluded from the hazard coverage of homeowners insurance—usually because the area is so prone to these events, and it's too costly for the insurance issuer to include them in a standard policy. For example, a Florida beachfront property can be susceptible to hurricanes and tropical storms; California properties located close to fault lines face earthquake threats.
 
-If homeowners live in a high-risk area, they often need a separate hazard insurance policy to adequately protect their property, such as a [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp) policy, or a policy that protects against sinkholes and landslides (such movements of the earth are rarely covered by conventional homeowners insurance's hazard coverage).
+If homeowners live in a high-[[Risk|risk]] area, they often need a separate hazard insurance policy to adequately protect their property, such as a [[flood insurance]](https://www.investopedia.com/terms/f/flood-insurance.asp) policy, or a policy that protects against sinkholes and landslides (such movements of the earth are rarely covered by conventional homeowners insurance's hazard coverage).

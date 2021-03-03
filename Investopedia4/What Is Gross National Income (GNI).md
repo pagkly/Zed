@@ -1,7 +1,7 @@
 ---
 alias: [Gross National Income, GNI]
 created: 2021-03-02T20:27:50 (UTC +11:00)
-tags: [Gross National Income (GNI) Definition, What Is Gross National Income (GNI)?]
+tags: [Gross National Income (GNI) Definition, [[What Is Gross National Income (GNI)]]?]
 source: https://www.investopedia.com/terms/g/gross-national-income-gni.asp
 author: Investopedia Staff
 ---
@@ -13,16 +13,16 @@ author: Investopedia Staff
 
 ---
 
-What Is Gross National Income (GNI)?
-## What Is Gross National Income (GNI)?
+[[What Is Gross National Income (GNI)]]?
+## [[What Is Gross National Income (GNI)]]?
 
 GNI is the total amount of money earned by a nation's people and businesses. It is used to measure and track a nation's wealth from year to year. The number includes the nation's gross domestic product plus the income it receives from overseas sources.
 
-GNI is an alternative to gross domestic product (GDP) as a means of measuring and tracking a nation's wealth and is considered a more accurate indicator for some nations.
+GNI is an alternative to [[Gross Domestic Product (GDP)|gross domestic product (GDP)]] as a means of measuring and tracking a nation's wealth and is considered a more accurate indicator for some nations.
 
 ## Understanding GNI
 
-GNI calculates the total income earned by a nation's people and businesses, including investment income, regardless of where it was earned. It also covers money received from abroad such as foreign investment and economic development aid.
+GNI calculates the total income earned by a nation's people and businesses, including investment income, regardless of where it was earned. It also covers money received from abroad such as [[Foreign Investment|foreign investment]] and economic development aid.
 
 The more widely known [[GDP is an estimate of the total value of all goods and services produced within a nation]](https://www.investopedia.com/articles/investing/121213/gdp-and-its-importance.asp) for a set period, usually a year. Finally, there's gross national product (GNP), which is a broad measure of all economic activity.
 
@@ -30,7 +30,7 @@ The more widely known [[GDP is an estimate of the total value of all goods and s
 
 -   Gross national income is an alternative to gross national product as a measure of wealth. It calculates income instead of output.
 -   GNI can be calculated by adding income from foreign sources to gross domestic product.
--   Nations that have substantial foreign direct investment, foreign corporate presence, or foreign aid will show a significant difference between GNI and GDP.
+-   Nations that have substantial foreign [[Direct Investment|direct investment]], foreign corporate presence, or foreign aid [[Will|will]] show a significant difference between GNI and GDP.
 
 #### Gross National Income (GNI)
 
@@ -58,7 +58,7 @@ For some countries, however, the difference is significant: GNI can be much high
 
 Of the three measures, GNP is the least used, possibly because it might be deceptive. For instance, if a nation's wealthiest citizens routinely move their money offshore, counting that money would inflate the nation's apparent wealth.
 
-In fact, GNI may now be the most accurate reflection of national wealth given today's mobile population and global commerce.
+In fact, GNI may now be the most accurate reflection of national wealth given today's mobile population and global [[Commerce|commerce]].
 
 -   [[GDP]](https://www.investopedia.com/terms/g/gdp.asp) is the total market value of all finished goods and services produced within a country in a set time period.
 -   GNI is the total income received by the country from its residents and businesses regardless of whether they are located in the country or abroad.

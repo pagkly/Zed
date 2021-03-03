@@ -1,7 +1,7 @@
 ---
 alias: [Organizational Behavior, OB]
 created: 2021-03-02T22:29:29 (UTC +11:00)
-tags: [Organizational Behavior (OB) Definition, What Is Organizational Behavior (OB)?]
+tags: [Organizational Behavior (OB) Definition, [[What Is Organizational Behavior (OB)]]?]
 source: https://www.investopedia.com/terms/o/organizational-behavior.asp
 author: Carol M. Kopp
 ---
@@ -13,7 +13,7 @@ author: Carol M. Kopp
 
 ---
 
-What Is Organizational Behavior (OB)?
+[[What Is Organizational Behavior (OB)]]?
 ## What Is Organizational Behavior?
 
 Organizational behavior (OB) is the academic study of how people act within groups. Its principles are applied primarily in attempts to make businesses operate more effectively.
@@ -24,7 +24,7 @@ The study of organizational behavior has its roots in the late 1920s, when the W
 
 Researchers there set out to determine whether workers could be made to be more productive if their environment was upgraded with better lighting and other design improvements. To their surprise, the researchers found that the environment was less important than social factors. It was more important, for example, that people got along with their co-workers and felt their bosses appreciated them.
 
-Those initial findings inspired a series of wide-ranging studies between 1924 and 1933.1 They included the effects on productivity of work breaks, isolation, and lighting, among many other factors.
+Those initial findings inspired a series of wide-ranging studies between 1924 and 1933.1 They included the effects on [[Productivity|productivity]] of work breaks, isolation, and lighting, among many other factors.
 
 The best known of the results is called the Hawthorne Effect, which describes the way test subjects' behavior may change when they know they are being observed. Researchers are taught to consider whether and to what degree the Hawthorne Effect is skewing their findings on human behavior.
 
@@ -38,12 +38,12 @@ Over the following years, the concept of organizational behavior widened. Beginn
 
 Today, those and other studies have evolved into modern theories of business structure and decision-making. 
 
-The new frontiers of organizational behavior are the cultural components of organizations, such as how race, class, and gender roles affect group building and productivity. These studies take into account the ways in which identity and background inform decision-making.
+The new frontiers of organizational behavior are the cultural components of organizations, such as how race, class, and gender roles affect group building and [[Productivity|productivity]]. These studies take into account the ways in which identity and background inform decision-making.
 
 ### Key Takeaways
 
 -   Organizational behavior is the study of how people behave within groups.
--   Early studies determined the importance of group dynamics in business productivity.
+-   Early studies determined the importance of group dynamics in business [[Productivity|productivity]].
 -   The study of organizational behavior is a foundation of corporate human resources.
 
 ## Where Organizational Behavior Is Studied
@@ -54,7 +54,7 @@ Depending on the program, one can study specific topics within organizational be
 
 ## Real World Examples of Organizational Behavior
 
-Findings from organizational behavior research are used by executives and human relations professionals to better understand a [[business’s culture]](https://www.investopedia.com/terms/c/corporate-culture.asp), how that culture helps or hinders productivity and employee retention, and how to evaluate candidates' skills and personality during the hiring process.
+Findings from organizational behavior research are used by executives and human relations professionals to better understand a [[business’s culture]](https://www.investopedia.com/terms/c/corporate-culture.asp), how that culture helps or hinders [[Productivity|productivity]] and employee retention, and how to evaluate candidates' skills and personality during the hiring process.
 
 Organizational behavior theories inform real-world evaluation and management of groups of people. There are a number of components:
 

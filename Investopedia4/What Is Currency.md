@@ -1,7 +1,7 @@
 ---
 alias: [Currency]
 created: 2021-03-02T19:04:56 (UTC +11:00)
-tags: [Currency Definition, What Is Currency?]
+tags: [Currency Definition, [[What Is Currency]]?]
 source: https://www.investopedia.com/terms/c/currency.asp
 author: Jake Frankenfield
 ---
@@ -13,14 +13,14 @@ author: Jake Frankenfield
 
 ---
 
-What Is Currency?
-## What Is Currency?
+[[What Is Currency]]?
+## [[What Is Currency]]?
 
 Currency is a [[medium of exchange]](https://www.investopedia.com/terms/m/mediumofexchange.asp) for goods and services. In short, it's money, in the form of paper or coins, usually issued by a government and generally accepted at its face value as a method of payment.
 
 Currency is the primary medium of exchange in the modern world, having long ago replaced bartering as a means of trading goods and services.
 
-In the 21st century, a new form of currency has entered the vocabulary, the virtual currency. Virtual currencies such as bitcoins have no physical existence or government backing and are traded and stored in electronic form.
+In the 21st century, a new form of currency has entered the vocabulary, the [[Virtual Currency|virtual currency]]. Virtual currencies such as bitcoins have no physical existence or government backing and are traded and stored in electronic form.
 
 ## Understanding Currency
 
@@ -32,7 +32,7 @@ Currency in some form has been in use for at least 3,000 years. Money, usually i
 -   The value of any currency fluctuates constantly in relation to other currencies. The currency exchange market exists as a means of profiting from those fluctuations.
 -   Many countries accept the U.S. dollar for payment, while others peg their currency value directly to the U.S. dollar.
 
-A key characteristic of modern money is that it is uniformly worthless in itself. That is, bills are pieces of paper rather than coins made of gold, silver, or bronze. The concept of using paper as a currency may have been developed in China as early as 1000 BC, but the acceptance of a piece of paper in return for something of real value took a long time to catch on. Modern currencies are issued on paper in various denominations, with fractional issues in the form of coins.
+A key characteristic of modern money is that it is uniformly worthless in itself. That is, bills are pieces of paper rather than coins made of gold, silver, or bronze. The concept of using paper as a currency may have been developed in China as early as 1000 BC, but the acceptance of a piece of paper in [[Return|return]] for something of real value took a long time to catch on. Modern currencies are issued on paper in various denominations, with fractional issues in the form of coins.
 
 ### About National Currencies
 

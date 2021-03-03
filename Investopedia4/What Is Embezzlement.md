@@ -1,7 +1,7 @@
 ---
 alias: [Embezzlement]
 created: 2021-03-02T19:35:29 (UTC +11:00)
-tags: [Embezzlement Definition, What Is Embezzlement?]
+tags: [Embezzlement Definition, [[What Is Embezzlement]]?]
 source: https://www.investopedia.com/terms/e/embezzlement.asp
 author: James Chen
 ---
@@ -13,12 +13,12 @@ author: James Chen
 
 ---
 
-What Is Embezzlement?
-## What Is Embezzlement?
+[[What Is Embezzlement]]?
+## [[What Is Embezzlement]]?
 
 Embezzlement refers to a form of [[white-collar crime]](https://www.investopedia.com/terms/w/white-collar-crime.asp) in which a person or entity misappropriates the [[assets]](https://www.investopedia.com/terms/a/asset.asp) entrusted to him or her. In this type of fraud, the embezzler attains the assets lawfully and has the right to possess them, but the assets are then used for unintended purposes.
 
-Embezzlement is a breach of the [[fiduciary]](https://www.investopedia.com/terms/f/fiduciary.asp) responsibilities placed upon a person.
+Embezzlement is a breach of the [[fiduciary]](https://www.investopedia.com/terms/f/[[Fiduciary|fiduciary]].asp) responsibilities placed upon a person.
 
 ### Key Takeaways
 
@@ -36,14 +36,14 @@ Individuals who are entrusted with access to an organization’s funds are expec
 
 However, the account is a front that allows the individual, or a third-party they are collaborating with, to take the funding. For instance, an embezzler might create bills and receipts for business activities that never took place or services that were never rendered to disguise the transfer of funds as a legitimate transaction.
 
-An embezzler might collaborate with a partner who is listed as a consultant or contractor who issues invoices and receives payment, yet never actually performs the duties they are charging for.
+An embezzler might collaborate with a partner who is [[Listed|listed]] as a consultant or contractor who issues invoices and receives payment, yet never actually performs the duties they are charging for.
 
 There are different types of embezzlement such as Ponzi schemes and other scams where someone transfers another person's assets.
 
 ## Types of Embezzlement
 
-Some types of embezzlement might be combined with other forms of fraud, such as [[Ponzi schemes]](https://www.investopedia.com/terms/p/ponzischeme.asp). In such cases, the embezzler scams investors to entrust them with their assets to invest on their behalf but instead uses the money for personal gain and enrichment. Maintaining the fraud often includes seeking out new investors to bring in more money to appease prior investors.
+Some types of embezzlement might be combined with other forms of fraud, such as [[Ponzi schemes]](https://www.investopedia.com/terms/p/ponzischeme.asp). In such cases, the embezzler scams investors to entrust them with their assets to invest on their behalf but instead uses the money for personal [[Gain|gain]] and enrichment. Maintaining the fraud often includes seeking out new investors to bring in more money to appease prior investors.
 
-An embezzler might also transfer other assets aside from money. An embezzler might claim the real estate, company vehicles, smartphones, and other hardware such as laptops that belong to an organization for personal use.
+An embezzler might also transfer other assets aside from money. An embezzler might claim the real [[Estate|estate]], company vehicles, smartphones, and other hardware such as laptops that belong to an organization for personal use.
 
 Embezzlement might take place in the government sector as well if employees seize local, state, or national funding for themselves. Such instances may occur when funding is disbursed to fulfill contracts or to support projects, and a member of the staff skims some of the money that was earmarked.
