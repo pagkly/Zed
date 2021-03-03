@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Investopedia4/Hedge Fund.md",
+            "file": "Investopedia4/A Closer Look at Grace Periods.md",
             "mode": "preview"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Investopedia4/Hedge Fund.md",
+            "file": "Investopedia4/A Closer Look at Grace Periods.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -35,17 +35,17 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -2.5,
+              "nodeSizeMultiplier": 0.97948717948718,
+              "lineSizeMultiplier": 1.3982905982906,
+              "collapse-forces": false,
+              "centerStrength": 0.41025641025641,
+              "repelStrength": 13.5042735042735,
+              "linkStrength": 0.786324786324786,
+              "linkDistance": 271,
+              "scale": 0.5087618855792587,
               "close": false
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investopedia4/Hedge Fund.md",
+                "file": "Investopedia4/A Closer Look at Grace Periods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investopedia4/Hedge Fund.md"
+                "file": "Investopedia4/A Closer Look at Grace Periods.md"
               }
             }
           },
@@ -176,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Investopedia4/A Closer Look at Grace Periods.md",
+    "Investopedia4/1913 Federal Reserve Act.md",
     "Investopedia4/Hedge Fund.md",
     "Day Planners/20210303.md",
     "Investopedia4/A Downside Risk Estimate.md",
-    "Investopedia4/1913 Federal Reserve Act.md",
     "Investopedia3/1913 Federal Reserve Act.md",
     "Investopedia3/A Financial Guarantee Defined.md",
     "Investopedia3/A Downside Risk Estimate.md",
     "Investopedia3/A Definition and Explanation of Free On Board (FOB).md",
-    "Investopedia3/A Closer Look at Grace Periods.md",
-    "Investopedia5/Risk.md"
+    "Investopedia3/A Closer Look at Grace Periods.md"
   ]
 }
