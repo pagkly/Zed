@@ -13,17 +13,17 @@ author: Rajeev Dhir
 
 ---
 
-SEC Form 3 Definition
+[[SEC Form 3 Definition]]
 ## What Is SEC Form 3: Initial Statement of Beneficial Ownership of Securities?
 
 SEC Form 3: Initial Statement of Beneficial Ownership of Securities is a document filed by a company insider or major shareholder with the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC). 
 
-It is an important step to help regulate [[insider trading]](https://www.investopedia.com/terms/i/insidertrading.asp), which is an individual’s buying or selling of a security based on material non-public information. Filing Form 3 helps disclose who these insiders are and track any suspicious behaviors.
+It is an important step to help regulate [[insider trading]](https://www.investopedia.com/terms/i/insidertrading.asp), which is an individual’s buying or selling of a [[Security|security]] based on material non-public information. Filing Form 3 helps disclose who these insiders are and track any suspicious behaviors.
 
-According to the SEC, disclosure is mandatory. The information provided on the form is meant to disclose the holdings of directors, officers, and beneficial owners of registered companies. This information becomes public record and is, therefore, available for public inspection.
+According to the SEC, disclosure is mandatory. The information provided on the form is meant to disclose the [[Holdings|holdings]] of directors, officers, and beneficial owners of registered companies. This information becomes public record and is, therefore, available for public inspection.
 
 -   Form 3 is a document that a company insider or major shareholder must file with the SEC.
--   The information provided on the form is meant to disclose the holdings of directors, officers, and beneficial owners of registered companies and becomes public record.
+-   The information provided on the form is meant to disclose the [[Holdings|holdings]] of directors, officers, and beneficial owners of registered companies and becomes public record.
 -   The form must be filed with the SEC no later than 10 days after an insider becomes affiliated with a company.
 
 ## Who Can File SEC Form 3: Initial Statement of Beneficial Ownership of Securities?
@@ -32,19 +32,19 @@ The company insider must file Form 3 with the SEC no later than 10 days after be
 
 The SEC lists the following who are required to file Form 3:
 
--   Any director or officer of an issuer with a class of equity securities 
--   A beneficial owner of greater than 10% of a class of equity securities
+-   Any director or officer of an issuer with a class of [[Equity|equity]] securities 
+-   A beneficial owner of greater than 10% of a class of [[Equity|equity]] securities
 -   An officer, director, member of an advisory board, investment adviser, or [[affiliated person]](https://www.investopedia.com/terms/a/affiliatedperson.asp) of an investment
 -   An adviser or beneficial owner of more than 10% of any class of outstanding securities 
--   A trust, trustee, beneficiary, or settlor required to report 
+-   A trust, [[Trustee|trustee]], beneficiary, or settlor required to report 
 
-The form must be filed for each company in which a person is an insider, regardless of whether or not the insider has an equity position in the company at that time.
+The form must be filed for each company in which a person is an insider, regardless of whether or not the insider has an [[Equity|equity]] position in the company at that time.
 
 ## How to File SEC Form 3
 
-The filer is required to input their name, address, relationship to the reporting person, security name, and its ticker symbol.
+The filer is required to input their name, address, relationship to the reporting person, [[Security|security]] name, and its ticker symbol.
 
-There are two tables that also need to be filled out. Table I is for non-derivative securities that are beneficially owned, while Table II is for derivative securities beneficially owned including puts, calls, warrants, options, and convertible securities.
+There are two tables that also need to be filled out. Table I is for non-[[Derivative|derivative]] securities that are beneficially owned, while Table II is for derivative securities beneficially owned including puts, calls, warrants, options, and convertible securities.
 
 ## Other Related Forms
 
@@ -57,7 +57,7 @@ The SEC adopted new rules and amendments to Section 16 of the Securities Exchang
 In addition to Forms 3, 4, and 5, several other important SEC forms exist. For example, companies must file [[Form 10-K]](https://www.investopedia.com/terms/1/10-k.asp), an annual report that contains a comprehensive summary of their performance. A 10-K generally includes five distinct sections:
 
 -   **Business**: Details including the company’s main operations, products, and services.
--   **Risk Factors:** These outline any and all risks the company faces or could face in the future, typically listed in order of importance. Examples include the risk of defaulting on loans or the risk of new regulations that hinder progress.
+-   **[[Risk]] Factors:** These outline any and all risks the company faces or could face in the future, typically [[Listed|listed]] in order of importance. Examples include the risk of defaulting on loans or the risk of new regulations that hinder progress.
 -   **Selected Financial Data:** One of the most important sections for research analysts that detail specific financial information about the company over the last five years.
 -   **Management’s Discussion and Analysis of Financial Condition and Results of Operations:** These are known as MD&A, which refers to qualitative information that accompanies the financial statements. This gives the company an opportunity to explain its business results from the previous fiscal year.
 -   **Financial Statements and Supplementary Data:** This includes the company’s full audited financial statements, including the [[income statement]](https://www.investopedia.com/terms/i/incomestatement.asp), [[balance sheets]](https://www.investopedia.com/terms/b/balancesheet.asp), and statement of cash flows.

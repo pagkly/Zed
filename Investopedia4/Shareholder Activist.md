@@ -6,17 +6,17 @@ source: https://www.investopedia.com/terms/s/shareholderactivist.asp
 author: James Chen
 ---
 
-# Shareholder Activist Definition
+# [[Shareholder Activist]] Definition
 
 > ## Excerpt
-> A shareholder activist attempts to use their rights as a shareholder of a publicly-traded corporation to bring about change within or for the corporation.
+> A [[Shareholder Activist|shareholder activist]] attempts to use their rights as a shareholder of a publicly-traded corporation to bring about change within or for the corporation.
 
 ---
 
-Shareholder Activist
-## What Is a Shareholder Activist?
+[[Shareholder Activist]]
+## What Is a [[Shareholder Activist]]?
 
-A shareholder activist is a person who attempts to use their rights as a [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) of a publicly-traded corporation to bring about change within or for the corporation.
+A [[Shareholder Activist|shareholder activist]] is a person who attempts to use their rights as a [[shareholder]](https://www.investopedia.com/terms/s/shareholder.asp) of a publicly-traded corporation to bring about change within or for the corporation.
 
 ### Key Takeaways
 
@@ -24,7 +24,7 @@ A shareholder activist is a person who attempts to use their rights as a [[shar
 -   These changes span a vast range, from environmental concerns to governance to profit distribution to the internal culture and business model of a company.
 -   Shareholder activists typically buy up a minority stake in a company and, subsequently, employ a variety of tactics, from media pressure to litigation threats, to force a conversation and bring about change.
 
-## Understanding a Shareholder Activist
+## Understanding a [[Shareholder Activist]]
 
 Shareholder activism is a way that shareholders can influence a corporation's behavior by exercising their rights as partial owners. [[Classes of shares]](https://www.investopedia.com/terms/d/dualclassstock.asp) allow for distinct voting privileges, in addition to [[dividend]](https://www.investopedia.com/terms/d/dividend.asp) entitlements.
 
@@ -34,7 +34,7 @@ Shareholder activists also employ a variety of offensive tactics to force change
 
 Some of the issues addressed by shareholder activists are for social change, requiring [[divestment]](https://www.investopedia.com/terms/d/divestment.asp) from politically sensitive parts of the world, for example, greater support of workers' rights (sweatshops) and/or more accountability for environmental degradation.
 
-But the term can also refer to investors who believe that a company's management is doing a poor job. This class of activist investors often attempts to gain control of the company and replace management or force a major corporate change.
+But the term can also refer to investors who believe that a company's management is doing a poor job. This class of activist investors often attempts to [[Gain|gain]] control of the company and replace management or force a major corporate change.
 
 ## Use of Shareholder Activism
 

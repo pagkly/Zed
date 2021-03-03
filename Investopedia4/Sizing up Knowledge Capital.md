@@ -3,7 +3,7 @@ alias: [Knowledge Capital]
 created: 2021-03-02T21:07:19 (UTC +11:00)
 tags: [Knowledge Capital Definition, Sizing up Knowledge Capital]
 source: https://www.investopedia.com/terms/k/knowledge-capital.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
 # Knowledge Capital Definition
@@ -13,7 +13,7 @@ author: Will Kenton
 
 ---
 
-Sizing up Knowledge Capital
+[[Sizing up Knowledge Capital]]
 ## What Is Knowledge Capital?
 
 Knowledge capital is the intangible value of an organization made up of its [knowledge](https://www.investopedia.com/terms/k/knowledge-economy.asp), relationships, learned techniques, procedures, and innovations. In other words, knowledge capital is the full body of knowledge an organization possesses.
@@ -32,7 +32,7 @@ Organizations with high knowledge capital may be more profitable or productive c
 
 In order for companies to fully exploit their knowledge capital, they must encourage their employees to share their skills and talent.
 
-Knowledge capital is important because it reduces the odds that a company will have to reinvent the wheel each time a particular process is undertaken. This is because its employees have access to documents detailing the necessary steps, along with access to personnel who have undertaken similar activities. Even though it may not be a physical asset, knowledge capital still requires a lot of investment.
+Knowledge capital is important because it reduces the odds that a company [[Will|will]] have to reinvent the wheel each time a particular process is undertaken. This is because its employees have access to documents detailing the necessary steps, along with access to personnel who have undertaken similar activities. Even though it may not be a physical asset, knowledge capital still requires a lot of investment.
 
 ## Knowledge Capital Components
 
@@ -40,7 +40,7 @@ Knowledge capital has three main components:
 
 -   [**Human capital**](https://www.investopedia.com/terms/h/humancapital.asp): The contributions made to an organization by its employees utilizing their talents, skills, and expertise. Human capital is possessed only by individuals, but may be harnessed and exploited by an organization. It is not owned outright. Human capital can disappear when an employee leaves so quality organizations are ones that focus on retaining creative and innovative workers, as well as work toward creating a setting where such intelligence can be taught and learned. 
 -   **Relational capital**: The relationships between coworkers as well as those between workers and suppliers, customers, partners, and collaborators. Relationship capital also includes franchises, licenses, and trademarks as they have value only in the context of the relationship they have with customers.
--   **Structural capital**: The non-physical capital possessed by an organization—such as processes, method, and techniques—that allow it to operate and enable it to leverage its capabilities. Structural capital may include intellectual property such as databases, code, patents, proprietary processes, trademarks, software, and more. 
+-   **Structural capital**: The non-physical capital possessed by an organization—such as processes, method, and techniques—that allow it to operate and enable it to [[Leverage|leverage]] its capabilities. Structural capital may include intellectual property such as databases, code, patents, proprietary processes, trademarks, software, and more. 
 
 ### Key Takeaways
 

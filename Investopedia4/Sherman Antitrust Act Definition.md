@@ -3,20 +3,20 @@ alias: [Sherman Antitrust Act]
 created: 2021-03-02T23:36:36 (UTC +11:00)
 tags: [Sherman Antitrust Act Definition, Sherman Antitrust Act Definition]
 source: https://www.investopedia.com/terms/s/sherman-antiturst-act.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Sherman Antitrust Act Definition
+# [[Sherman Antitrust Act Definition]]
 
 > ## Excerpt
 > The Sherman Antitrust Act is a landmark U.S. law, passed in 1890, which outlawed trusts—monopolies and cartels—to increase economic competitiveness.
 
 ---
 
-Sherman Antitrust Act Definition
+[[Sherman Antitrust Act Definition]]
 ## What Is the Sherman Antitrust Act?
 
-The Sherman Antitrust Act (the Act) is a landmark U.S. law, passed in 1890, that outlawed [[trusts]](https://www.investopedia.com/terms/t/trustcompany.asp)—groups of businesses that collude or merge to form a [[monopoly]](https://www.investopedia.com/terms/m/monopoly.asp) in order to dictate pricing in a particular market. The Act's purpose was to promote economic fairness and competitiveness and to regulate interstate commerce. The Sherman Antitrust Act was the first attempt by the United States Congress to address the use of trusts as a tool that enables a limited number of individuals to control certain key industries.
+The Sherman Antitrust Act (the Act) is a landmark U.S. law, passed in 1890, that outlawed [[trusts]](https://www.investopedia.com/terms/t/trustcompany.asp)—groups of businesses that collude or merge to form a [[monopoly]](https://www.investopedia.com/terms/m/[[Monopoly|monopoly]].asp) in order to dictate pricing in a particular market. The Act's purpose was to promote economic fairness and competitiveness and to regulate interstate [[Commerce|commerce]]. The Sherman Antitrust Act was the first attempt by the United States Congress to address the use of trusts as a tool that enables a limited number of individuals to control certain key industries.
 
 ## The Meaning of Antitrust
 
@@ -35,15 +35,15 @@ The Sherman Antitrust Act was amended by the [[Clayton Antitrust Act]](https://w
 ### Key Takeaways
 
 -   The Sherman Antitrust Act is the first measure passed by the U.S. Congress to prohibit trusts, monopolies, and cartels.
--   The Act's purpose was to promote economic fairness and competitiveness and to regulate interstate commerce.
+-   The Act's purpose was to promote economic fairness and competitiveness and to regulate interstate [[Commerce|commerce]].
 -   It was proposed, and passed, in 1890 by Ohio Senator John Sherman.
 -   The Sherman Antitrust was quite popular and signaled an important shift in American regulatory strategy toward business and markets.
 
 ## Historical Background
 
-### The Interstate Commerce Commission (ICC)
+### The Interstate [[Commerce]] [[Commission]] (ICC)
 
-The Sherman Antitrust Act was born against a backdrop of increasing monopolies and abuses of power by large corporations and railroad [[conglomerates]](https://www.investopedia.com/terms/c/conglomerate.asp). In 1887, in response to increasing public indignation about abuses of power and malpractices by railroad companies, Congress passed the Interstate Commerce Act, which spawned the [[Interstate Commerce Commission (ICC)]](https://www.investopedia.com/terms/i/interstate-commerce-commission.asp#)—whose purpose was to regulate interstate [[transportation]](https://www.investopedia.com/articles/investing/100413/how-analyze-transportation-industry.asp) entities. In particular, the ICC had jurisdiction over U.S. railroads and all common carriers, requiring them to submit annual reports and prohibiting unfair practices such as discriminatory rates.
+The Sherman Antitrust Act was born against a backdrop of increasing monopolies and abuses of power by large corporations and railroad [[conglomerates]](https://www.investopedia.com/terms/c/conglomerate.asp). In 1887, in response to increasing public indignation about abuses of power and malpractices by railroad companies, Congress passed the Interstate [[Commerce]] Act, which spawned the [[Interstate Commerce Commission (ICC)]](https://www.investopedia.com/terms/i/interstate-commerce-[[Commission|commission]].asp#)—whose purpose was to regulate interstate [[transportation]](https://www.investopedia.com/articles/investing/100413/how-analyze-transportation-industry.asp) entities. In particular, the ICC had jurisdiction over U.S. railroads and all common carriers, requiring them to submit annual reports and prohibiting unfair practices such as discriminatory rates.
 
 However, during the first half of the 20th century, Congress consistently expanded the ICC's power such that, despite its intended purpose, some believed that the ICC was often guilty of assisting the very companies it was tasked to regulate—by favoring [[mergers]](https://www.investopedia.com/terms/m/merger.asp) that created unfair monopolies, for example.
 
@@ -55,11 +55,11 @@ The Gilded Age was an era of rapid economic growth. Corporations took off duri
 
 ### The Notion of "Trusts" in the 19th Century
 
-Late-19th-century legislators' understanding of "trusts" is different from our concept of the term. Today, [[trust]](https://www.investopedia.com/terms/t/trust.asp) refers to a financial relationship in which one party gives another the right to hold property or assets for a third party. In the 19th century, however, a trust became an umbrella term for any sort of collusive or conspiratorial behavior that was seen to render competition unfair. The Sherman Antitrust Act was not designed to prevent [[healthy monopolistic competition]](https://www.investopedia.com/terms/m/monopolisticmarket.asp), but to target those monopolies that resulted from a deliberate attempt to dominate the marketplace.
+Late-19th-century legislators' understanding of "trusts" is different from our concept of the term. Today, [[trust]](https://www.investopedia.com/terms/t/trust.asp) refers to a financial relationship in which one party gives another the right to [[Hold|hold]] property or assets for a [[Third Party|third party]]. In the 19th century, however, a trust became an umbrella term for any sort of collusive or conspiratorial behavior that was seen to render competition unfair. The Sherman Antitrust Act was not designed to prevent [[healthy monopolistic competition]](https://www.investopedia.com/terms/m/monopolisticmarket.asp), but to target those monopolies that resulted from a deliberate attempt to dominate the marketplace.
 
 ## The Impact of the Sherman Antitrust Act
 
-The Act was passed at a time of extreme public hostility toward large corporations like [[Standard Oil]](https://www.investopedia.com/articles/economics/08/jd-rockefeller.asp) and the American Railway Union, which were seen to be unfairly monopolizing certain industries. This outcry sprang from both consumers, who were being damaged by exorbitantly high prices on essential goods, and competitors in production, who found themselves shut out of industries because of deliberate attempts by certain companies to keep other enterprises out of the market.
+The Act was passed at a time of extreme public hostility toward large corporations like [[Standard Oil]](https://www.investopedia.com/articles/[[Economics|economics]]/08/jd-rockefeller.asp) and the American Railway Union, which were seen to be unfairly monopolizing certain industries. This outcry sprang from both consumers, who were being damaged by exorbitantly high prices on essential goods, and competitors in production, who found themselves shut out of industries because of deliberate attempts by certain companies to keep other enterprises out of the market.
 
 ## The USA vs. Google
 

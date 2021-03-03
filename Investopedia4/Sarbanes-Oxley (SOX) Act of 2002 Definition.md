@@ -3,22 +3,22 @@ alias: [Sarbanes-Oxley (SOX) Act of 2002]
 created: 2021-03-02T23:29:56 (UTC +11:00)
 tags: [Sarbanes-Oxley (SOX) Act of 2002 Definition, Sarbanes-Oxley (SOX) Act of 2002 Definition]
 source: https://www.investopedia.com/terms/s/sarbanesoxleyact.asp
-author: Will Kenton
+author: [[Will]] Kenton
 ---
 
-# Sarbanes-Oxley (SOX) Act of 2002 Definition
+# [[Sarbanes-Oxley (SOX) Act of 2002 Definition]]
 
 > ## Excerpt
 > The U.S. Congress passed the Sarbanes-Oxley (SOX) Act of 2002 to help protect investors from fraudulent financial reporting by corporations
 
 ---
 
-Sarbanes-Oxley (SOX) Act of 2002 Definition
+[[Sarbanes-Oxley (SOX) Act of 2002 Definition]]
 ## What Is the Sarbanes-Oxley (SOX) Act of 2002?
 
 The Sarbanes-Oxley Act of 2002 is a law the U.S. Congress passed on July 30 of that year to help protect investors from fraudulent financial reporting by corporations.1 Also known as the SOX Act of 2002 and the Corporate Responsibility Act of 2002, it mandated strict reforms to existing securities regulations and imposed tough new penalties on lawbreakers.
 
-The Sarbanes-Oxley Act of 2002 came in response to financial scandals in the early 2000s involving publicly traded companies such as Enron Corporation, Tyco International plc, and WorldCom.2 The high-profile frauds shook investor confidence in the trustworthiness of corporate financial statements and led many to demand an overhaul of decades-old regulatory standards.
+The Sarbanes-Oxley Act of 2002 came in response to financial scandals in the early 2000s involving publicly traded companies such as [[Enron]] Corporation, Tyco International plc, and [[WorldCom]].2 The high-profile frauds shook investor confidence in the trustworthiness of corporate financial statements and led many to demand an overhaul of decades-old regulatory standards.
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ The act took its name from its two sponsors—Sen. Paul S. Sarbanes (D-Md.) and 
 
 ## Understanding the Sarbanes-Oxley (SOX) Act
 
-The rules and enforcement policies outlined in the Sarbanes-Oxley Act of 2002 amended or supplemented existing laws dealing with security regulation, including the Securities Exchange Act of 1934 and other laws enforced by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC).5 The new law set out reforms and additions in four principal areas:
+The rules and enforcement policies outlined in the Sarbanes-Oxley Act of 2002 amended or supplemented existing laws dealing with [[Security|security]] regulation, including the [[Securities Exchange Act of 1934]] and other laws enforced by the [[Securities and Exchange Commission]](https://www.investopedia.com/terms/s/sec.asp) (SEC).5 The new law set out reforms and additions in four [[Principal|principal]] areas:
 
 1.  Corporate responsibility
 2.  Increased criminal punishment

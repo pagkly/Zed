@@ -6,27 +6,27 @@ source: https://www.investopedia.com/terms/s/series7.asp
 author: Julia Kagan
 ---
 
-# Series 7 Definition
+# [[Series 7 Definition]]
 
 > ## Excerpt
-> The Series 7 is an exam and license that entitles the holder to sell all types of securities with the exception of commodities and futures.
+> The Series 7 is an exam and license that entitles the holder to sell all types of securities with the exception of commodities and [[Futures|futures]].
 
 ---
 
-Series 7 Definition
-The Series 7 exam licenses the holder to sell all types of securities products except commodities and futures. Known formally as the General Securities Representative Qualification Examination, the Series 7 exam and its licensing is administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp).1
+[[Series 7 Definition]]
+The Series 7 exam licenses the holder to sell all types of securities products except commodities and [[Futures|futures]]. Known formally as the General Securities Representative Qualification Examination, the Series 7 exam and its licensing is administered by the [[Financial Industry Regulatory Authority (FINRA)]](https://www.investopedia.com/terms/f/finra.asp).1
 
-Stockbrokers in the United States need to pass the Series 7 exam to obtain a license to trade. The [[Series 7 exam]](https://www.investopedia.com/articles/financial-advisors/022216/cfa-vs-series-7-which-easier.asp) focuses on investment risk, taxation, equity, and debt instruments; packaged securities, options, retirement plans, and interactions with clients for prospective securities industry professionals.2 This introductory-level exam assesses a candidate’s knowledge of basic securities industry information including concepts fundamental to working in the industry.1
+Stockbrokers in the United States need to pass the Series 7 exam to obtain a license to trade. The [[Series 7 exam]](https://www.investopedia.com/articles/financial-advisors/022216/cfa-vs-series-7-which-easier.asp) focuses on investment [[Risk|risk]], [[Taxation|taxation]], [[Equity|equity]], and [[Debt|debt]] instruments; packaged securities, options, retirement plans, and interactions with clients for prospective securities industry professionals.2 This introductory-level exam assesses a candidate’s knowledge of basic securities industry information including concepts fundamental to working in the industry.1
 
 The purpose of the Series 7 license is to set a level of competency for a registered representative or stockbroker to work in the securities industry. The Series 7 license is an essential requirement for an entry-level [[broker]](https://www.investopedia.com/terms/b/broker.asp). The licensing exam covers an extensive range of financial terms and topics as well as securities regulations.1
 
 ### Key Takeaways
 
--   The Series 7 is an exam and license that entitles the holder to sell all types of securities products except commodities and futures.1
--   The Series 7 exam covers topics on investment risk, taxation, equity and debt instruments, packaged securities, options, and retirement plans.12
+-   The Series 7 is an exam and license that entitles the holder to sell all types of securities products except commodities and [[Futures|futures]].1
+-   The Series 7 exam covers topics on investment [[Risk|risk]], [[Taxation|taxation]], [[Equity|equity]] and [[Debt|debt]] instruments, packaged securities, options, and retirement plans.12
 -   The purpose of the Series 7 license is to establish a level of competency for registered representatives in the securities industry.1
 
-Candidates who pass the Series 7 exam can trade many securities, such as stocks, mutual funds, options, municipal securities, and variable contracts. The Series 7 license does not cover selling real estate or life insurance products.1 In addition to obtaining the Series 7 license, many states require that registered representatives pass the [[Series 63]](https://www.investopedia.com/terms/s/series63.asp) exam, also called the Uniform Securities Agent State Law Exam.3 4
+Candidates who pass the Series 7 exam can trade many securities, such as [[Stocks|stocks]], mutual funds, options, municipal securities, and variable contracts. The Series 7 license does not cover selling real [[Estate|estate]] or life insurance products.1 In addition to obtaining the Series 7 license, many states require that registered representatives pass the [[Series 63]](https://www.investopedia.com/terms/s/series63.asp) exam, also called the Uniform Securities Agent State Law Exam.3 4
 
 ## Series 7 Requirements
 

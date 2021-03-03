@@ -6,40 +6,40 @@ source: https://www.investopedia.com/terms/s/seller-financing.asp
 author: Julia Kagan
 ---
 
-# Seller Financing Definition
+# [[Seller Financing]] Definition
 
 > ## Excerpt
-> Seller financing refers to a real estate agreement where financing is provided by the seller is included in the purchase price.
+> [[Seller Financing|Seller financing]] refers to a real [[Estate|estate]] agreement where financing is provided by the seller is included in the [[Purchase Price|purchase price]].
 
 ---
 
-Seller Financing
-## What is Seller Financing?
+[[Seller Financing]]
+## What is [[Seller Financing]]?
 
-Seller Financing is a real estate agreement in which the [[seller handles the mortgage process]](https://www.investopedia.com/articles/mortgages-real-estate/10/should-you-use-seller-financing.asp) instead of a financial institution. Instead of applying for a conventional bank mortgage, the buyer signs a mortgage with the seller.
+[[Seller Financing]] is a real [[Estate|estate]] agreement in which the [[seller handles the mortgage process]](https://www.investopedia.com/articles/mortgages-real-estate/10/should-you-use-seller-financing.asp) instead of a financial institution. Instead of applying for a conventional bank mortgage, the buyer signs a mortgage with the seller.
 
-Owner financing is another name for seller financing. It is also called a purchase-money mortgage.
+Owner financing is another name for [[Seller Financing|seller financing]]. It is also called a purchase-money mortgage.
 
-## How Seller Financing Works
+## How [[Seller Financing]] Works
 
-Buyers attracted to seller financing are often those finding it difficult to get a conventional loan, perhaps due to poor credit. Unlike a bank mortgage, seller financing typically involves few or no closing costs or and may not require an appraisal. Sellers are often more flexible than a bank in the amount of down payment. Also, the seller-financing process is much faster, often settling within a week.
+Buyers attracted to [[Seller Financing|seller financing]] are often those finding it difficult to get a conventional [[Loan|loan]], perhaps due to poor credit. Unlike a bank mortgage, seller financing typically involves few or no closing costs or and may not require an appraisal. Sellers are often more flexible than a bank in the amount of down payment. Also, the seller-financing process is much faster, often settling within a week.
 
 ### Key Takeaways
 
 -   In a seller-financed sale of a home, the buyer purchases directly from the seller and both parties handle the arrangements.
--   Often seller financing includes a balloon payment several years after the sale.
+-   Often [[Seller Financing|seller financing]] includes a balloon payment several years after the sale.
 -   There are risks involved when financing a sale of your home. For example, If the buyer stops paying, you, the seller, could incur hefty legal fees, as well. 
 
-For sellers, financing the buyer’s mortgage can make it much easier to sell a house. During a down real estate market, and when credit is tight, buyers may prefer seller financing. Moreover, sellers can expect to get a premium for offering to finance, meaning they are more likely to get their asking price in a [[buyer’s market]](https://www.investopedia.com/terms/b/buyersmarket.asp).
+For sellers, financing the buyer’s mortgage can make it much easier to sell a house. During a down real [[Estate|estate]] market, and when credit is tight, buyers may prefer [[Seller Financing|seller financing]]. Moreover, sellers can expect to get a [[Premium|premium]] for [[Offering|offering]] to [[Finance|finance]], meaning they are more likely to get their asking price in a [[buyer’s market]](https://www.investopedia.com/terms/b/buyersmarket.asp).
 
-Seller financing rises and falls in popularity along with the overall tightness of the credit market. During times when banks are risk-averse and reluctant to lend money to any but the most creditworthy borrowers, seller financing can make it possible for many more people to buy homes. Seller financing may also make it easier to sell a home. Conversely, when the credit markets are loose, and banks are enthusiastically lending money, seller financing has less appeal. 
+[[Seller Financing|Seller financing]] rises and falls in popularity along with the overall tightness of the credit market. During times when banks are [[Risk|risk]]-averse and reluctant to lend money to any but the most creditworthy borrowers, seller financing can make it possible for many more people to buy homes. Seller financing may also make it easier to sell a home. Conversely, when the credit markets are loose, and banks are enthusiastically lending money, seller financing has less appeal. 
 
-Like a bank, sellers face the risk of borrower default. However, they must meet this risk alone.
+Like a bank, sellers face the [[Risk|risk]] of borrower [[Default|default]]. However, they must meet this risk alone.
 
-## Disadvantages of Seller Financing
+## Disadvantages of [[Seller Financing]]
 
-The chief drawback for buyers is that they will almost certainly pay higher interest than for a market-rate mortgage from a bank. Financial institutions have more flexibility in changing the interest rate charged by offering non-conventional loans. Long-term, the higher seller-offered interest could wipe out the savings gained from avoiding closing costs. Buyers will still need to demonstrate their ability to pay back the loan.
+The chief drawback for buyers is that they [[Will|will]] almost certainly pay higher interest than for a market-rate mortgage from a bank. Financial institutions have more flexibility in changing the interest rate charged by [[Offering|offering]] non-conventional loans. Long-term, the higher seller-offered interest could wipe out the savings gained from avoiding closing costs. Buyers will still need to demonstrate their ability to pay back the [[Loan|loan]].
 
-As with any real estate purchase, they will also pay for a title search to make sure the deed is accurately described and free from encumbrances. Other charges they may have to pay to include survey fees, document stamps, and taxes. Unlike banks, sellers don’t have a staff of employees dedicated to chasing down delinquent payments and filing foreclosure notices.
+As with any real [[Estate|estate]] purchase, they [[Will|will]] also pay for a title search to make sure the deed is accurately described and free from encumbrances. Other charges they may have to pay to include survey fees, document stamps, and taxes. Unlike banks, sellers don’t have a staff of employees dedicated to chasing down delinquent payments and filing foreclosure notices.
 
-A court might order the buyer to reimburse those costs, but if the buyer is bankrupt, that will not matter. If the seller still has a mortgage note on the property, it probably has a [[due-on-sale clause]](https://www.investopedia.com/terms/d/due_on_sale_clause.asp) or an alienation clause. These clauses require full repayment of the current mortgage when the property sells. All this also means that both sides should employ experienced real estate attorneys to draft the paperwork to close the deal and make sure that all eventualities are covered.
+A court might order the buyer to reimburse those costs, but if the buyer is bankrupt, that [[Will|will]] not matter. If the seller still has a mortgage note on the property, it probably has a [[due-on-sale clause]](https://www.investopedia.com/terms/d/due_on_sale_clause.asp) or an alienation clause. These clauses require full repayment of the current mortgage when the property sells. All this also means that both sides should employ experienced real [[Estate|estate]] attorneys to draft the paperwork to close the deal and make sure that all eventualities are covered.

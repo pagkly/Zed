@@ -6,14 +6,14 @@ source: https://www.investopedia.com/terms/s/sampling.asp
 author: Alicia Tuovila
 ---
 
-# Sampling Definition
+# [[Sampling Definition]]
 
 > ## Excerpt
 > Sampling is a process used in statistical analysis in which a group of observations are extracted from a larger population.
 
 ---
 
-Sampling Definition
+[[Sampling Definition]]
 ## What Is Sampling?
 
 Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger [[population]](https://www.investopedia.com/terms/p/population.asp). The methodology used to sample from a larger population depends on the type of analysis being performed, but it may include simple random sampling or systematic sampling.
@@ -44,7 +44,7 @@ Alternatively, an auditor may identify all [[general ledger]](https://www.invest
 
 ### Block Sampling
 
-Block sampling takes a consecutive series of items within the population to use as the sample. For example, a list of all sales transactions in an [[accounting period]](https://www.investopedia.com/terms/a/accountingperiod.asp) could be sorted in various ways, including by date or by dollar amount. An auditor may request that the company's accountant provide the list in one format or the other in order to select a sample from a specific segment of the list. This method requires very little modification on the auditor's part, but it is likely that a block of transactions will not be representative of the full population.
+Block sampling takes a consecutive series of items within the population to use as the sample. For example, a list of all sales transactions in an [[accounting period]](https://www.investopedia.com/terms/a/accountingperiod.asp) could be sorted in various ways, including by date or by dollar amount. An auditor may request that the company's accountant provide the list in one format or the other in order to select a sample from a specific segment of the list. This method requires very little modification on the auditor's part, but it is likely that a block of transactions [[Will|will]] not be representative of the full population.
 
 ### Systematic Sampling
 
@@ -56,4 +56,4 @@ Therefore, the auditor selects every fifth check for testing. Assuming no error
 
 ## Example of Marketing Sampling
 
-Businesses aim to sell their products and/or services to [[target markets]](https://www.investopedia.com/terms/t/target-market.asp). Before presenting products to the market, companies generally identify the needs and wants of their target audience. To do so, they may employ sampling of the target market population to gain a better understanding of those needs to later create a product and/or service that meets those needs. In this case, gathering the opinions of the sample helps to identify the needs of the whole.
+Businesses aim to sell their products and/or services to [[target markets]](https://www.investopedia.com/terms/t/target-market.asp). Before presenting products to the market, companies generally identify the needs and wants of their target audience. To do so, they may employ sampling of the target market population to [[Gain|gain]] a better understanding of those needs to later create a product and/or service that meets those needs. In this case, gathering the opinions of the sample helps to identify the needs of the whole.
